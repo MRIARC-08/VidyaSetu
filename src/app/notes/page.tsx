@@ -3,5 +3,5 @@ export default function NotesPage() {
     <main>
       <h1>Notes</h1>
     </main>
-  )
+  );
 }

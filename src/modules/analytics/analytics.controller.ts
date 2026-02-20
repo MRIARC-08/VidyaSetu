@@ -1,2 +1,2 @@
 // TODO: Implement analytics controller
-export { };
+export {};

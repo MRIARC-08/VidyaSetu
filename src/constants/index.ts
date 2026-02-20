@@ -1,1 +1,1 @@
-export const APP_NAME = 'Vidyasetu'
+export const APP_NAME = 'Vidyasetu';

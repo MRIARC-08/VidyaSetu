@@ -1,2 +1,2 @@
 // TODO: Implement NCERT repository
-export { };
+export {};

@@ -1,2 +1,2 @@
 // TODO: Implement auth middleware
-export { };
+export {};

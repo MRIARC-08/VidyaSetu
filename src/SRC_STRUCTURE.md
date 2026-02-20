@@ -3,6 +3,7 @@
 This document provides an overview of the folder structure for the VidyaSetu project.
 
 ## Root Directory
+
 - **eslint.config.mjs**: Configuration file for ESLint.
 - **next-env.d.ts**: TypeScript definitions for Next.js.
 - **next.config.ts**: Configuration file for Next.js.
@@ -16,6 +17,7 @@ This document provides an overview of the folder structure for the VidyaSetu pro
 - **src/**: Main source code directory.
 
 ## src Directory
+
 - **prisma.config.ts**: Configuration for Prisma ORM.
 - **app/**: Contains application-specific components and pages.
   - **globals.css**: Global CSS styles.
@@ -138,4 +140,5 @@ This document provides an overview of the folder structure for the VidyaSetu pro
   - **index.ts**: Main types file.
 
 ## Conclusion
+
 This structure provides a clear organization of the project, separating concerns and facilitating maintainability.

@@ -1,2 +1,2 @@
 // TODO: Define quiz types
-export { };
+export {};

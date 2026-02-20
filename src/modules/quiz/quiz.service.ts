@@ -1,2 +1,2 @@
 // TODO: Implement quiz service
-export { };
+export {};

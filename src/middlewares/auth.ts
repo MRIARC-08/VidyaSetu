@@ -1,6 +1,6 @@
-import { NextRequest, NextResponse } from 'next/server'
+import { NextRequest, NextResponse } from 'next/server';
 
 export function authMiddleware(req: NextRequest) {
   // placeholder
-  return NextResponse.next()
+  return NextResponse.next();
 }

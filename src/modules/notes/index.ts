@@ -1,1 +1,1 @@
-export const notesModule = { name: 'notes' }
+export const notesModule = { name: 'notes' };

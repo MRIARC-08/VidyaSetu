@@ -1,1 +1,1 @@
-export const ncertModule = { name: 'ncert' }
+export const ncertModule = { name: 'ncert' };

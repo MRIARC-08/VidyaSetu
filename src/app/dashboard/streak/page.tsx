@@ -3,5 +3,5 @@ export default function DashboardStreakPage() {
     <main>
       <h1>Streak</h1>
     </main>
-  )
+  );
 }

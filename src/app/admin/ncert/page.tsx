@@ -3,5 +3,5 @@ export default function AdminNcertPage() {
     <main>
       <h1>Admin - NCERT</h1>
     </main>
-  )
+  );
 }

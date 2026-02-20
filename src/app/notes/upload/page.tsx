@@ -3,5 +3,5 @@ export default function NotesUploadPage() {
     <main>
       <h1>Upload Notes</h1>
     </main>
-  )
+  );
 }

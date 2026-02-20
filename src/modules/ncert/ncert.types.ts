@@ -1,2 +1,2 @@
 // TODO: Define NCERT types
-export { };
+export {};

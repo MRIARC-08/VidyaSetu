@@ -1,2 +1,2 @@
 // TODO: Implement admin repository
-export { };
+export {};

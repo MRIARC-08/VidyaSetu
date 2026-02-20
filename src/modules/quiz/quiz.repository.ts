@@ -1,2 +1,2 @@
 // TODO: Implement quiz repository
-export { };
+export {};

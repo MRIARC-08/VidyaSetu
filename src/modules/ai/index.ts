@@ -1,1 +1,1 @@
-export const aiModule = { name: 'ai' }
+export const aiModule = { name: 'ai' };

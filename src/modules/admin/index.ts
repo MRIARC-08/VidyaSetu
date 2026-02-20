@@ -1,1 +1,1 @@
-export const adminModule = { name: 'admin' }
+export const adminModule = { name: 'admin' };

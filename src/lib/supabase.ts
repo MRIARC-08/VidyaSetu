@@ -1,1 +1,1 @@
-export const supabase = null
+export const supabase = null;

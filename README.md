@@ -145,11 +145,13 @@ This ensures scalability and clean data modeling.
 ## 🛠 Tech Stack
 
 ### Frontend
+
 - Next.js
 - TailwindCSS
 - Chart.js
 
 ### Backend
+
 - Node.js
 - Express
 - MongoDB Atlas
@@ -157,10 +159,12 @@ This ensures scalability and clean data modeling.
 - Prisma (if SQL used)
 
 ### AI Layer
+
 - Swappable provider architecture
 - Groq / Together / OpenAI compatible
 
 ### Hosting
+
 - Frontend → Vercel
 - Backend → Render
 - Database → MongoDB Atlas
@@ -201,17 +205,20 @@ Analytics are computed efficiently to ensure performance.
 ## 🚀 Roadmap
 
 ### Phase 1 (Core Foundation)
+
 - Authentication system
 - Structured quiz generation
 - Quiz session tracking
 - Basic analytics dashboard
 
 ### Phase 2
+
 - Subjective answer evaluation
 - Adaptive difficulty engine
 - AI performance suggestions
 
 ### Phase 3
+
 - Leaderboards
 - Teacher dashboard
 - Study groups

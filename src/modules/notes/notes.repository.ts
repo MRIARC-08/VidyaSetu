@@ -1,2 +1,2 @@
 // TODO: Implement notes repository
-export { };
+export {};

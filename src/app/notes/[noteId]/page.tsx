@@ -3,5 +3,5 @@ export default function NotePage({ params }: { params: { noteId: string } }) {
     <main>
       <h1>Note {params.noteId}</h1>
     </main>
-  )
+  );
 }

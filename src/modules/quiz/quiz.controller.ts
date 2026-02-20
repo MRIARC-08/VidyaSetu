@@ -1,2 +1,2 @@
 // TODO: Implement quiz controller
-export { };
+export {};

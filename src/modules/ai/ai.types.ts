@@ -1,2 +1,2 @@
 // TODO: Define AI types
-export { };
+export {};

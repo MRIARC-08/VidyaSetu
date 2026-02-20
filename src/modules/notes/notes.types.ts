@@ -1,2 +1,2 @@
 // TODO: Define notes types
-export { };
+export {};

@@ -1,1 +1,1 @@
-export const analyticsModule = { name: 'analytics' }
+export const analyticsModule = { name: 'analytics' };

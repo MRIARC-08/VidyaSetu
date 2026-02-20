@@ -3,5 +3,5 @@ export default function CreateQuizPage() {
     <main>
       <h1>Create Quiz</h1>
     </main>
-  )
+  );
 }

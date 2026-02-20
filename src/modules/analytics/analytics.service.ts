@@ -1,2 +1,2 @@
 // TODO: Implement analytics service
-export { };
+export {};

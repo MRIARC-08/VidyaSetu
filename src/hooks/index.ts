@@ -1,1 +1,1 @@
-export const usePlaceholder = () => ({})
+export const usePlaceholder = () => ({});

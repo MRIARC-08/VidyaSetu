@@ -1,2 +1,2 @@
 // TODO: Define admin types
-export { };
+export {};

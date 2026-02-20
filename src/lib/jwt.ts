@@ -1,2 +1,6 @@
-export function sign() { return '' }
-export function verify() { return null }
+export function sign() {
+  return '';
+}
+export function verify() {
+  return null;
+}

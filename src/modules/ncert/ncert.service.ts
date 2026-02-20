@@ -1,2 +1,2 @@
 // TODO: Implement NCERT service
-export { };
+export {};
