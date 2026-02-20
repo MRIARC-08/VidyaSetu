@@ -1,0 +1,141 @@
+# Project Folder Structure Analysis
+
+This document provides an overview of the folder structure for the VidyaSetu project.
+
+## Root Directory
+- **eslint.config.mjs**: Configuration file for ESLint.
+- **next-env.d.ts**: TypeScript definitions for Next.js.
+- **next.config.ts**: Configuration file for Next.js.
+- **package.json**: Contains metadata about the project and its dependencies.
+- **pnpm-lock.yaml**: Lock file for pnpm package manager.
+- **postcss.config.mjs**: Configuration file for PostCSS.
+- **README.md**: Project documentation.
+- **SRC_STRUCTURE.md**: This file.
+- **tsconfig.json**: TypeScript configuration file.
+- **public/**: Contains static assets.
+- **src/**: Main source code directory.
+
+## src Directory
+- **prisma.config.ts**: Configuration for Prisma ORM.
+- **app/**: Contains application-specific components and pages.
+  - **globals.css**: Global CSS styles.
+  - **layout.tsx**: Main layout component.
+  - **page.tsx**: Main page component.
+  - **(auth)/**: Authentication-related components.
+    - **layout.tsx**: Layout for authentication pages.
+    - **forgot-password/**: Contains the forgot password page.
+    - **login/**: Contains the login page.
+    - **register/**: Contains the registration page.
+  - **(public)/**: Public-facing components.
+    - **page.tsx**: Main public page.
+    - **about/**: Contains the about page.
+  - **admin/**: Admin dashboard components.
+    - **page.tsx**: Main admin page.
+    - **analytics/**: Contains analytics-related components.
+  - **api/**: API routes and handlers.
+    - **admin/**: Admin API routes.
+    - **ai/**: AI-related API routes.
+    - **analytics/**: Analytics API routes.
+    - **auth/**: Authentication API routes.
+    - **ncert/**: NCERT-related API routes.
+    - **notes/**: Notes API routes.
+    - **quiz/**: Quiz API routes.
+    - **webhooks/**: Webhook handlers.
+  - **dashboard/**: Dashboard components.
+    - **page.tsx**: Main dashboard page.
+    - **analytics/**: Contains analytics components.
+  - **ncert/**: NCERT-related components.
+    - **[class]/**: Dynamic class components.
+  - **notes/**: Notes-related components.
+    - **page.tsx**: Main notes page.
+    - **[noteId]/**: Dynamic note components.
+    - **upload/**: Upload functionality.
+  - **quiz/**: Quiz-related components.
+    - **[quizId]/**: Dynamic quiz components.
+    - **create/**: Quiz creation functionality.
+- **components/**: Reusable components.
+- **constants/**: Constant values used throughout the project.
+  - **index.ts**: Main constants file.
+- **generated/**: Generated files from Prisma.
+  - **prisma/**: Contains Prisma client and types.
+- **hooks/**: Custom React hooks.
+  - **index.ts**: Main hooks file.
+- **lib/**: Utility functions and libraries.
+  - **env.ts**: Environment variable management.
+  - **errors.ts**: Error handling utilities.
+  - **jwt.ts**: JWT handling utilities.
+  - **logger.ts**: Logging utilities.
+  - **prisma.ts**: Prisma client instance.
+  - **response.ts**: Response handling utilities.
+  - **supabase.ts**: Supabase client instance.
+  - **utils.ts**: General utility functions.
+  - **ai/**: AI-related utilities.
+    - **openai.ts**: OpenAI integration utilities.
+  - **auth/**: Authentication utilities.
+    - **jwt.ts**: JWT utilities for authentication.
+    - **password.ts**: Password handling utilities.
+    - **session.ts**: Session management utilities.
+  - **db/**: Database utilities.
+    - **prisma.ts**: Prisma database utilities.
+  - **middleware/**: Middleware functions.
+    - **auth.middleware.ts**: Authentication middleware.
+    - **role.middleware.ts**: Role-based access control middleware.
+- **middlewares/**: General middleware functions.
+  - **auth.ts**: Authentication middleware.
+  - **role.ts**: Role-based access control middleware.
+- **modules/**: Feature modules.
+  - **admin/**: Admin module.
+    - **admin.controller.ts**: Controller for admin functionalities.
+    - **admin.repository.ts**: Repository for admin data.
+    - **admin.service.ts**: Service for admin logic.
+    - **admin.types.ts**: Types for admin module.
+    - **index.ts**: Main entry for admin module.
+  - **ai/**: AI module.
+    - **ai.controller.ts**: Controller for AI functionalities.
+    - **ai.provider.ts**: Provider for AI services.
+    - **ai.service.ts**: Service for AI logic.
+    - **ai.types.ts**: Types for AI module.
+    - **index.ts**: Main entry for AI module.
+  - **analytics/**: Analytics module.
+    - **analytics.controller.ts**: Controller for analytics functionalities.
+    - **analytics.repository.ts**: Repository for analytics data.
+    - **analytics.service.ts**: Service for analytics logic.
+    - **analytics.types.ts**: Types for analytics module.
+    - **index.ts**: Main entry for analytics module.
+  - **auth/**: Authentication module.
+    - **auth.controller.ts**: Controller for authentication functionalities.
+    - **auth.repository.ts**: Repository for authentication data.
+    - **auth.service.ts**: Service for authentication logic.
+    - **auth.types.ts**: Types for authentication module.
+    - **auth.validator.ts**: Validator for authentication data.
+    - **index.ts**: Main entry for authentication module.
+  - **ncert/**: NCERT module.
+    - **index.ts**: Main entry for NCERT module.
+    - **ncert.controller.ts**: Controller for NCERT functionalities.
+    - **ncert.repository.ts**: Repository for NCERT data.
+    - **ncert.service.ts**: Service for NCERT logic.
+    - **ncert.types.ts**: Types for NCERT module.
+  - **notes/**: Notes module.
+    - **index.ts**: Main entry for notes module.
+    - **notes.controller.ts**: Controller for notes functionalities.
+    - **notes.repository.ts**: Repository for notes data.
+    - **notes.service.ts**: Service for notes logic.
+    - **notes.types.ts**: Types for notes module.
+  - **quiz/**: Quiz module.
+    - **index.ts**: Main entry for quiz module.
+    - **quiz.controller.ts**: Controller for quiz functionalities.
+    - **quiz.repository.ts**: Repository for quiz data.
+    - **quiz.service.ts**: Service for quiz logic.
+    - **quiz.types.ts**: Types for quiz module.
+    - **quiz.validator.ts**: Validator for quiz data.
+- **prisma/**: Database schema and migrations.
+  - **schema.prisma**: Prisma schema file.
+  - **migrations/**: Contains migration files.
+    - **migration_lock.toml**: Lock file for migrations.
+    - **20260219115514_init/**: Initial migration folder.
+- **styles/**: Stylesheets for the project.
+- **types/**: Type definitions.
+  - **index.ts**: Main types file.
+
+## Conclusion
+This structure provides a clear organization of the project, separating concerns and facilitating maintainability.

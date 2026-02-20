@@ -1,0 +1,367 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client"
+  output   = "../generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+//////////////////////////////////////////////////////
+// ENUMS
+//////////////////////////////////////////////////////
+
+enum UserRole {
+  STUDENT
+  ADMIN
+}
+
+enum AuthProvider {
+  CREDENTIALS
+  GOOGLE
+}
+
+enum QuizMode {
+  PRACTICE
+  TEST
+  REVISION
+}
+
+enum QuizSource {
+  CHAPTER
+  TOPIC
+  NOTE
+  AI
+  CUSTOM
+}
+
+enum QuestionType {
+  MCQ
+  SUBJECTIVE
+}
+
+enum Difficulty {
+  EASY
+  MEDIUM
+  HARD
+}
+
+enum EvaluationStatus {
+  PENDING
+  COMPLETED
+  FAILED
+}
+
+//////////////////////////////////////////////////////
+// AUTH & USERS
+//////////////////////////////////////////////////////
+
+model User {
+  id       String   @id @default(uuid())
+  name     String?
+  email    String   @unique
+  password String?
+  image    String?
+  role     UserRole @default(STUDENT)
+
+  isEmailVerified Boolean   @default(false)
+  emailVerifiedAt DateTime?
+
+  streakCount    Int       @default(0)
+  lastActiveDate DateTime?
+
+  accounts      Account[]
+  refreshTokens RefreshToken[]
+
+  quizzes      Quiz[]
+  quizSessions QuizSession[]
+  notes        Note[]
+  stats        UserStats?
+
+  createdAt        DateTime          @default(now())
+  updatedAt        DateTime          @updatedAt
+  deletedAt        DateTime?
+  aigenerationLogs AIGenerationLog[]
+
+  @@index([email])
+}
+
+model Account {
+  id     String @id @default(uuid())
+  userId String
+  user   User   @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  provider          AuthProvider
+  providerAccountId String
+
+  accessToken    String?
+  refreshToken   String?
+  tokenExpiresAt DateTime?
+
+  createdAt DateTime @default(now())
+
+  @@unique([provider, providerAccountId])
+  @@index([userId])
+}
+
+model RefreshToken {
+  id     String @id @default(uuid())
+  userId String
+  user   User   @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  token     String   @unique
+  userAgent String?
+  ipAddress String?
+  expiresAt DateTime
+  revoked   Boolean  @default(false)
+
+  createdAt DateTime @default(now())
+
+  @@index([userId])
+}
+
+//////////////////////////////////////////////////////
+// NCERT STRUCTURE
+//////////////////////////////////////////////////////
+
+model AcademicClass {
+  id       String    @id @default(uuid())
+  level    Int       @unique
+  subjects Subject[]
+}
+
+model Subject {
+  id              String        @id @default(uuid())
+  name            String
+  academicClassId String
+  academicClass   AcademicClass @relation(fields: [academicClassId], references: [id], onDelete: Cascade)
+  chapters        Chapter[]
+
+  @@index([academicClassId])
+}
+
+model Chapter {
+  id        String  @id @default(uuid())
+  title     String
+  order     Int
+  subjectId String
+  subject   Subject @relation(fields: [subjectId], references: [id], onDelete: Cascade)
+  topics    Topic[]
+
+  @@index([subjectId])
+}
+
+model Topic {
+  id        String  @id @default(uuid())
+  title     String
+  order     Int
+  content   String?
+  chapterId String
+  chapter   Chapter @relation(fields: [chapterId], references: [id], onDelete: Cascade)
+
+  questions Question[]
+
+  @@index([chapterId])
+}
+
+//////////////////////////////////////////////////////
+// QUESTIONS
+//////////////////////////////////////////////////////
+
+model Question {
+  id String @id @default(uuid())
+
+  topicId String?
+  topic   Topic?  @relation(fields: [topicId], references: [id], onDelete: SetNull)
+
+  type       QuestionType
+  difficulty Difficulty
+
+  questionText String
+  explanation  String?
+
+  options   Option[]
+  responses QuestionResponse[]
+
+  createdAt DateTime @default(now())
+
+  @@index([topicId])
+  @@index([difficulty])
+}
+
+model Option {
+  id         String   @id @default(uuid())
+  questionId String
+  question   Question @relation(fields: [questionId], references: [id], onDelete: Cascade)
+
+  label     String
+  value     String
+  isCorrect Boolean @default(false)
+
+  @@index([questionId])
+}
+
+//////////////////////////////////////////////////////
+// QUIZ SYSTEM (ENTERPRISE LEVEL)
+//////////////////////////////////////////////////////
+
+model Quiz {
+  id     String @id @default(uuid())
+  userId String
+  user   User   @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  mode   QuizMode
+  source QuizSource
+
+  chapterId String?
+  topicId   String?
+  noteId    String?
+
+  questionCount Int
+
+  sessions QuizSession[]
+
+  createdAt DateTime @default(now())
+  note      Note?    @relation(fields: [noteId], references: [id])
+
+  @@index([userId])
+  @@index([chapterId])
+  @@index([topicId])
+}
+
+model QuizSession {
+  id String @id @default(uuid())
+
+  userId String
+  user   User   @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  quizId String
+  quiz   Quiz   @relation(fields: [quizId], references: [id], onDelete: Cascade)
+
+  totalQuestions Int
+  correctCount   Int
+  accuracy       Float
+  timeTaken      Int
+
+  responses QuestionResponse[]
+
+  startedAt   DateTime  @default(now())
+  completedAt DateTime?
+
+  @@index([userId])
+  @@index([quizId])
+}
+
+model QuestionResponse {
+  id String @id @default(uuid())
+
+  sessionId String
+  session   QuizSession @relation(fields: [sessionId], references: [id], onDelete: Cascade)
+
+  questionId String
+  question   Question @relation(fields: [questionId], references: [id], onDelete: Cascade)
+
+  selectedOptionId String?
+  subjectiveAnswer String?
+  isCorrect        Boolean?
+  score            Float?
+  timeTaken        Int
+
+  evaluation SubjectiveEvaluation?
+
+  @@index([sessionId])
+  @@index([questionId])
+}
+
+//////////////////////////////////////////////////////
+// SUBJECTIVE AI EVALUATION
+//////////////////////////////////////////////////////
+
+model SubjectiveEvaluation {
+  id         String           @id @default(uuid())
+  responseId String           @unique
+  response   QuestionResponse @relation(fields: [responseId], references: [id], onDelete: Cascade)
+
+  feedback       String
+  idealAnswer    String?
+  keywordsMissed String?
+
+  status EvaluationStatus @default(PENDING)
+
+  createdAt DateTime @default(now())
+}
+
+//////////////////////////////////////////////////////
+// AI COST TRACKING
+//////////////////////////////////////////////////////
+
+model AIGenerationLog {
+  id     String @id @default(uuid())
+  userId String
+  user   User   @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  quizId    String?
+  modelUsed String
+
+  promptTokens     Int?
+  completionTokens Int?
+  costEstimate     Float?
+
+  status String
+
+  createdAt DateTime @default(now())
+
+  @@index([userId])
+}
+
+//////////////////////////////////////////////////////
+// NOTES
+//////////////////////////////////////////////////////
+
+model Note {
+  id     String @id @default(uuid())
+  userId String
+  user   User   @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  title         String
+  content       String?
+  fileUrl       String?
+  extractedText String?
+
+  version Int @default(1)
+
+  quizzes Quiz[]
+
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+  deletedAt DateTime?
+
+  @@index([userId])
+}
+
+//////////////////////////////////////////////////////
+// ANALYTICS
+//////////////////////////////////////////////////////
+
+model UserStats {
+  id     String @id @default(uuid())
+  userId String @unique
+  user   User   @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  totalSessions  Int @default(0)
+  totalQuestions Int @default(0)
+  totalCorrect   Int @default(0)
+
+  overallAccuracy Float @default(0)
+  easyAccuracy    Float @default(0)
+  mediumAccuracy  Float @default(0)
+  hardAccuracy    Float @default(0)
+
+  updatedAt DateTime @updatedAt
+}

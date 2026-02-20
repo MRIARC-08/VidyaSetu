@@ -1,36 +1,247 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# VidyaSetu
 
-## Getting Started
+AI-Powered Adaptive Study & Assessment Platform
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Overview
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+VidyaSetu transforms passive studying into structured, measurable, AI-guided learning.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+It is not a quiz generator.  
+It is a structured AI study system.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+VidyaSetu combines:
 
-## Learn More
+- AI Study Companion
+- Adaptive Quiz Engine
+- Subjective Answer Evaluation
+- Performance Analytics Dashboard
 
-To learn more about Next.js, take a look at the following resources:
+This project is built with a modular architecture and production-ready design.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🎯 Problem Statement
 
-## Deploy on Vercel
+Students:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Study passively
+- Cannot measure weak areas
+- Don’t get structured evaluation
+- Lack revision tracking
+- Have no unified AI + Practice + Analytics system
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+VidyaSetu solves this by providing an integrated AI-driven learning ecosystem.
+
+---
+
+## 👥 Target Users
+
+Primary Focus:
+
+- Class 9–12 students
+- Board exam students
+- JEE / NEET aspirants
+
+---
+
+## 🧠 Core Features
+
+### 1️⃣ Structured Study Mode (NCERT-Based)
+
+Users select:
+
+Class → Subject → Chapter
+
+System generates:
+
+- MCQs
+- Subjective questions
+- Important theory highlights
+- AI explanations
+- Revision summaries
+- Board-style expected questions
+
+---
+
+### 2️⃣ Custom Notes Mode
+
+Users can submit:
+
+- Text notes
+- PDF notes (planned)
+- Image notes (future)
+
+System generates:
+
+- MCQs
+- Subjective questions
+- Case-based questions
+- Flashcards
+- Summaries
+
+---
+
+### 3️⃣ Practice Modes
+
+- 🟢 Practice Mode (with hints)
+- 🔴 Exam Mode (timer, no hints)
+- 🔁 Adaptive Mode (dynamic difficulty adjustment)
+
+---
+
+### 4️⃣ Subjective Answer Evaluation
+
+AI evaluates written answers and provides:
+
+- Score (e.g., out of 5 / 10)
+- Strengths
+- Missing keywords
+- Structural improvements
+- Ideal reference answer
+
+---
+
+### 5️⃣ Analytics Dashboard
+
+Tracks:
+
+- Accuracy over time
+- Subject-wise performance
+- Difficulty-level performance
+- Study streaks
+- Attempt history
+- Weak topic detection
+
+---
+
+## 🏗 Architecture
+
+VidyaSetu follows a modular, scalable backend structure.
+
+Core Modules:
+
+- Auth
+- NCERT
+- Notes
+- Quiz
+- AI
+- Analytics
+- Admin
+
+The system separates:
+
+- Quiz definition
+- Quiz sessions
+- Question attempts
+- AI generation logs
+- User performance statistics
+
+This ensures scalability and clean data modeling.
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- Next.js
+- TailwindCSS
+- Chart.js
+
+### Backend
+- Node.js
+- Express
+- MongoDB Atlas
+- JWT Authentication
+- Prisma (if SQL used)
+
+### AI Layer
+- Swappable provider architecture
+- Groq / Together / OpenAI compatible
+
+### Hosting
+- Frontend → Vercel
+- Backend → Render
+- Database → MongoDB Atlas
+- File Storage → Cloudinary
+
+---
+
+## 🔐 Security & Production Standards
+
+- JWT-based authentication
+- Role-based access control
+- Environment variable isolation
+- AI provider abstraction layer
+- Error handling middleware
+- Modular service architecture
+
+---
+
+## 📊 Database Design (Core Entities)
+
+- User
+- Class
+- Subject
+- Chapter
+- Note
+- Quiz
+- Question
+- QuizSession
+- Attempt
+- SubjectiveAnswer
+- AIGenerationLog
+- UserStats
+
+Analytics are computed efficiently to ensure performance.
+
+---
+
+## 🚀 Roadmap
+
+### Phase 1 (Core Foundation)
+- Authentication system
+- Structured quiz generation
+- Quiz session tracking
+- Basic analytics dashboard
+
+### Phase 2
+- Subjective answer evaluation
+- Adaptive difficulty engine
+- AI performance suggestions
+
+### Phase 3
+- Leaderboards
+- Teacher dashboard
+- Study groups
+- Advanced revision engine
+
+---
+
+## 📈 Why This Project Matters
+
+VidyaSetu demonstrates:
+
+- AI integration in real-world systems
+- Modular backend architecture
+- Analytics-driven product design
+- Adaptive algorithm implementation
+- Full-stack production deployment
+- Scalable system thinking
+
+This is not a CRUD demo.
+It is a structured AI learning system.
+
+---
+
+## 🧑‍💻 Author
+
+Adarsh  
+Founder & Builder of VidyaSetu
+
+---
+
+## 📜 License
+
+MIT License
