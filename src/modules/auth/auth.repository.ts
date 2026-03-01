@@ -1,13 +1,19 @@
 import { prisma } from "@/lib/prisma"
-import { AuthProvider } from "@/generated/prisma"
+import { AuthProvider } from "@/generated/prisma/enums"
 import { email } from "zod"
 import crypto from "crypto"
 import bcrypt from "bcrypt"
+import { StringFormatParams } from "zod/v4/core"
 
 export class AuthRepository {
 
+
   static async findUserByEmail (email: string){
     return prisma.user.findUnique({where: {email}})
+  }
+
+  static async findUserByid (id: string){
+    return prisma.user.findUnique({where:{id}})
   }
 
   static async createUser (
@@ -80,6 +86,8 @@ export class AuthRepository {
 
   }
 
+
+
   
 
   static async createRefreshToken (userId:string){
@@ -96,4 +104,15 @@ export class AuthRepository {
     return token 
 
   }
+
+  static async deleteRefreshToken(token: string){
+    await prisma.refreshToken.deleteMany({where: {token}})
+  }
+
+  static async findRefreshToken(token:string){
+    return await prisma.refreshToken.findUnique({where: {token}})
+  }
+
+
+
 }
