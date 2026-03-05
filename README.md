@@ -154,9 +154,9 @@ This ensures scalability and clean data modeling.
 
 - Node.js
 - Express
-- MongoDB Atlas
+- Prisma ORM
 - JWT Authentication
-- Prisma (if SQL used)
+
 
 ### AI Layer
 
