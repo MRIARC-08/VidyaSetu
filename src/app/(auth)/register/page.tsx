@@ -12,7 +12,7 @@ export default function LoginPage() {
   const [passC, setPassC] = useState<string>('');
   const status = useRef(null);
 
-  const handleSubmit = (e: React.SyntheticEvent<HTMLFormElement>) => {
+  const handleSubmit = async (e: React.SyntheticEvent<HTMLFormElement>) => {
     e.preventDefault();
     setErr('');
     setPassC('');
@@ -25,6 +25,24 @@ export default function LoginPage() {
       setPassC('Password must have 8 characters');
       return;
     }
+
+    const user  = await fetch("/api/auth/register", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({ email, password }),
+      credentials: "include", 
+
+
+    })
+
+    const res = await user.json()
+    console.log(res)
+
+
+
+
   };
 
   const router = useRouter();

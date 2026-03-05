@@ -7,6 +7,7 @@ import { Button } from '@/components/ui/button';
 import { Label } from 'radix-ui';
 import { useRouter } from 'next/navigation';
 import { useState } from 'react';
+import { tuple } from 'zod';
 
 export default function LoginPage() {
   const [email, setEmail] = useState<string>('');
@@ -14,13 +15,32 @@ export default function LoginPage() {
   const [err, setErr] = useState<string>('');
   const router = useRouter();
 
-  const handleSubmit = (e: React.SyntheticEvent<HTMLFormElement>) => {
+  const handleSubmit = async(e: React.SyntheticEvent<HTMLFormElement>) => {
     e.preventDefault();
     setErr('');
     if ([password, email].some((v) => v.trim() == '')) {
       setErr('All Sections are nessecery');
       return;
     }
+
+    const user = await fetch("/api/auth/login", {
+      method: "POST",
+      headers: {
+        "Content-Type" : "application/json"
+      },
+      body: JSON.stringify({email,password}),
+      credentials: "include"
+
+    })
+
+    const result = await user.json()
+
+    console.log(result)
+
+
+
+
+
   };
 
   return (

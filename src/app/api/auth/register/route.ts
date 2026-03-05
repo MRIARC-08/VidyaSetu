@@ -1,5 +1,5 @@
-import { NextResponse } from 'next/server';
+import { AuthControllers } from "@/modules/auth/auth.controller";
 
-export async function POST(req: Request) {
-  return NextResponse.json({ ok: true });
+export async function POST(req:Request){
+    return AuthControllers.register(req)
 }
