@@ -19,7 +19,7 @@ export class AuthControllers {
 
       return NextResponse.json({user: result.user}, {status: 201})
 
-
+      
 
     } catch (error: any) {
 
@@ -96,8 +96,8 @@ export class AuthControllers {
   
       return NextResponse.redirect(new URL("/dashboard", req.url))
 
-    }catch(err){
-      return NextResponse.json({message : error.message}, {status: 401})
+    }catch(err:any){
+      return NextResponse.json({message : err.message}, {status: 401})
     }
 
   }
