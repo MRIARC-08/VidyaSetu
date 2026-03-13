@@ -1,4 +1,5 @@
 import { cookies } from "next/headers";
+import { jwtService } from "./jwt";
 
 export class SetCookies {
     static async setRefreshtoken (refreshToken: string){
@@ -21,5 +22,15 @@ export class SetCookies {
             path: "/"
 
         })
+    }
+
+    static async verifyCookies(){
+        const cookieStore = await cookies()
+        const access_token = cookieStore.get("access_token")
+        if (access_token){
+           return  jwtService.verifyAccessToken(access_token.value)
+        }
+
+
     }
 }

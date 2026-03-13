@@ -1,6 +1,10 @@
-@import 'tailwindcss';
-@import 'tw-animate-css';
+/* src/app/globals.css */
+
+@import "tailwindcss";
+@source "../";
+
 @import 'shadcn/tailwind.css';
+/* …rest of your custom rules… */
 
 @custom-variant dark (&:is(.dark *));
 
@@ -11,21 +15,29 @@
 :root {
   /* ===============================
      Core Brand Colors (Light Mode)
-  ================================ */ /* Light Gray Wash */ /* Deep Slate text */
-  --card: oklch(1 0 0); /* Pure White surfaces */
+  ================================ */
+  /* Light Gray Wash */
+  /* Deep Slate text */
+  --card: oklch(1 0 0);
+  /* Pure White surfaces */
 
-  --primary: oklch(0.205 0 0); /* Deep Indigo */
-  --primary-foreground: oklch(0.985 0 0);
+  --primary: oklch(0.205 0 0);
+  /* Deep Indigo */
+  --primary-foreground: oklch(0.929 0.013 255.508);
 
-  --secondary: oklch(95.049% 0.01368 277.02); /* Soft Blue */
+  --secondary: oklch(95.049% 0.01368 277.02);
+  /* Soft Blue */
   --secondary-foreground: oklch(0.205 0 0);
 
   /* ===============================
      Status Colors
   ================================ */
-  --success: #10b981; /* Minty Success */
-  --warning: #f59e0b; /* Soft Amber */
-  --destructive: oklch(0.577 0.245 27.325); /* Muted Rose */
+  --success: #10b981;
+  /* Minty Success */
+  --warning: #f59e0b;
+  /* Soft Amber */
+  --destructive: oklch(0.577 0.245 27.325);
+  /* Muted Rose */
 
   /* ===============================
      UI Elements
@@ -118,23 +130,7 @@
    Dark Mode (System Based)
 ================================================== */
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    /* Deep Midnight Blue */
 
-    --card: #1e293b;
-
-    --primary: #6366f1; /* Brighter Indigo */
-    --primary-foreground: #ffffff;
-
-    --secondary: #1e3a8a;
-    --secondary-foreground: #e0e7ff;
-
-    --border: #334155;
-    --input: #1e293b;
-    --ring: #6366f1;
-  }
-}
 
 /* ==================================================
    Base Layer

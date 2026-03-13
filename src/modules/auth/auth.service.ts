@@ -28,8 +28,20 @@ export class AuthServices {
 
     await AuthRepository.enasureGoogleAccountLinked(user.id, data.providerAccountId)
 
+    const accessToken =  jwtService.generateAccessToken({id : user.id, role : user.role})
 
-    return user;
+    const refreshToken = await AuthRepository.createRefreshToken(user.id);
+
+    
+
+    
+
+
+    return {
+      user,
+      accessToken,
+      refreshToken
+    };
 
    
 

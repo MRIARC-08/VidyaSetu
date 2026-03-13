@@ -8,6 +8,7 @@ import { Label } from 'radix-ui';
 import { useRouter } from 'next/navigation';
 import { useState } from 'react';
 import { tuple } from 'zod';
+import { signIn } from 'next-auth/react';
 
 export default function LoginPage() {
   const [email, setEmail] = useState<string>('');
@@ -15,7 +16,7 @@ export default function LoginPage() {
   const [err, setErr] = useState<string>('');
   const router = useRouter();
 
-  const handleSubmit = async(e: React.SyntheticEvent<HTMLFormElement>) => {
+  const handleSubmit = async (e: React.SyntheticEvent<HTMLFormElement>) => {
     e.preventDefault();
     setErr('');
     if ([password, email].some((v) => v.trim() == '')) {
@@ -26,22 +27,32 @@ export default function LoginPage() {
     const user = await fetch("/api/auth/login", {
       method: "POST",
       headers: {
-        "Content-Type" : "application/json"
+        "Content-Type": "application/json"
       },
-      body: JSON.stringify({email,password}),
+      body: JSON.stringify({ email, password }),
       credentials: "include"
 
     })
 
+   
+
     const result = await user.json()
 
     console.log(result)
+
+    router.push("/dashboard")
 
 
 
 
 
   };
+
+  const handleLoginWithGoogle =async()=>{
+    await signIn("google", {
+      callbackUrl:  "/dashborad"
+    })
+  }
 
   return (
     <main className="bg-secondary h-screen w-screen flex overflow-hidden">
@@ -82,40 +93,40 @@ export default function LoginPage() {
                 <path
                   d="M128 256C128 326.645 185.355 384 256 384C326.645 384 384 326.645 384 256C384 185.355 326.645 128 256 128C185.355 128 128 185.355 128 256V256"
                   stroke="white"
-                  stroke-opacity="0.4"
-                  stroke-width="0.64"
-                  stroke-dasharray="5.12 5.12"
+                  strokeOpacity="0.4"
+                  strokeWidth="0.64"
+                  strokeDasharray="5.12 5.12"
                 />
                 <path
                   d="M64 256C64 361.968 150.032 448 256 448C361.968 448 448 361.968 448 256C448 150.032 361.968 64 256 64C150.032 64 64 150.032 64 256V256"
                   stroke="white"
-                  stroke-opacity="0.4"
-                  stroke-width="0.256"
-                  stroke-dasharray="10.24 10.24"
+                  strokeOpacity="0.4"
+                  strokeWidth="0.256"
+                  strokeDasharray="10.24 10.24"
                 />
                 <path
                   d="M256 256L128 128"
                   stroke="white"
-                  stroke-opacity="0.4"
-                  stroke-width="0.64"
+                  strokeOpacity="0.4"
+                  strokeWidth="0.64"
                 />
                 <path
                   d="M256 256L384 128"
                   stroke="white"
-                  stroke-opacity="0.4"
-                  stroke-width="0.64"
+                  strokeOpacity="0.4"
+                  strokeWidth="0.64"
                 />
                 <path
                   d="M256 256L192 384"
                   stroke="white"
-                  stroke-opacity="0.4"
-                  stroke-width="0.64"
+                  strokeOpacity="0.4"
+                  strokeWidth="0.64"
                 />
                 <path
                   d="M256 256L320 384"
                   stroke="white"
-                  stroke-opacity="0.4"
-                  stroke-width="0.64"
+                  strokeOpacity="0.4"
+                  strokeWidth="0.64"
                 />
                 <path
                   d="M122.88 128C122.88 130.826 125.174 133.12 128 133.12C130.826 133.12 133.12 130.826 133.12 128C133.12 125.174 130.826 122.88 128 122.88C125.174 122.88 122.88 125.174 122.88 128Z"
@@ -167,7 +178,7 @@ export default function LoginPage() {
             </div>
 
             <div className="text-black flex flex-col justify-center items-center gap-6">
-              <Button className="text-black bg-primary-foreground md:w-[60%] w-full">
+              <Button className="text-black bg-primary-foreground md:w-[60%] w-full" onClick={handleLoginWithGoogle}>
                 <div>
                   <svg
                     width="20"
@@ -176,7 +187,7 @@ export default function LoginPage() {
                     fill="none"
                     xmlns="http://www.w3.org/2000/svg"
                   >
-                    <g clip-path="url(#clip0_0_1818)">
+                    <g clipPath="url(#clip0_0_1818)">
                       <path
                         d="M18.8 10.2083C18.8 9.55834 18.7417 8.93334 18.6333 8.33334H10V11.8833H14.9333C14.7167 13.025 14.0667 13.9917 13.0917 14.6417V16.95H16.0667C17.8 15.35 18.8 13 18.8 10.2083Z"
                         fill="#4285F4"

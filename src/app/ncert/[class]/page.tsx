@@ -1,11 +1,9 @@
-export default function NcertClassPage({
-  params,
-}: {
-  params: { class: string };
-}) {
+
+
+export default function page() {
   return (
-    <main>
-      <h1>NCERT Class: {params.class}</h1>
-    </main>
-  );
+    <div>
+      
+    </div>
+  )
 }

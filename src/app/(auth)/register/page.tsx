@@ -38,6 +38,7 @@ export default function LoginPage() {
     })
 
     const res = await user.json()
+    router.push("/dashboard")
     console.log(res)
 
 
