@@ -37,7 +37,7 @@ export default function LoginPage() {
 
     const res = await user.json();
     console.log(res.user)
-    const isFirstTime = res.user.firstTime
+    const isFirstTime = res?.user?.firstTime
 
     if(isFirstTime){
       console.log("runninggg....")
