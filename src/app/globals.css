@@ -1,6 +1,6 @@
 /* src/app/globals.css */
 
-@import "tailwindcss";
+@import 'tailwindcss';
 @source "../";
 
 @import 'shadcn/tailwind.css';
@@ -25,7 +25,7 @@
   /* Deep Indigo */
   --primary-foreground: oklch(0.929 0.013 255.508);
 
-  --secondary: oklch(95.049% 0.01368 277.02);
+  --secondary: oklch(91.357% 0.00106 11.782 / 0.562);
   /* Soft Blue */
   --secondary-foreground: oklch(0.205 0 0);
 
@@ -129,8 +129,6 @@
 /* ==================================================
    Dark Mode (System Based)
 ================================================== */
-
-
 
 /* ==================================================
    Base Layer

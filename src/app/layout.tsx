@@ -18,17 +18,10 @@ export default async function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-
-  
   return (
     <html lang="en">
       <body className={`${lexend.variable}  antialiased `}>
-        <MainLayout>
-
-          {children}
-        </MainLayout>
-
-        
+        <MainLayout>{children}</MainLayout>
       </body>
     </html>
   );

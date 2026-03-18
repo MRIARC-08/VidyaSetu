@@ -26,24 +26,26 @@ export default function LoginPage() {
       return;
     }
 
-    const user  = await fetch("/api/auth/register", {
-      method: "POST",
+    const user = await fetch('/api/auth/register', {
+      method: 'POST',
       headers: {
-        "Content-Type": "application/json",
+        'Content-Type': 'application/json',
       },
       body: JSON.stringify({ email, password }),
-      credentials: "include", 
+      credentials: 'include',
+    });
 
+    const res = await user.json();
+    console.log(res.user)
+    const isFirstTime = res.user.firstTime
 
-    })
-
-    const res = await user.json()
-    router.push("/dashboard")
-    console.log(res)
-
-
-
-
+    if(isFirstTime){
+      console.log("runninggg....")
+      router.push('/profileCompletion')
+    }else{
+      console.log("runningg....else")
+      router.push('/dashboard');
+    }
   };
 
   const router = useRouter();

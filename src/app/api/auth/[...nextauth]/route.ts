@@ -1,24 +1,23 @@
-import NextAuth from "next-auth"
-import GoogleProvider from "next-auth/providers/google"
+import NextAuth from 'next-auth';
+import GoogleProvider from 'next-auth/providers/google';
 
 const handler = NextAuth({
   providers: [
     GoogleProvider({
       clientId: process.env.GOOGLE_CLIENT_ID!,
-      clientSecret: process.env.GOOGLE_CLIENT_SECRET!
-    })
+      clientSecret: process.env.GOOGLE_CLIENT_SECRET!,
+    }),
   ],
 
   callbacks: {
     async signIn({ user, account }) {
-
-      if (account?.provider === "google") {
-        return `/api/auth/oauth/google?email=${user.email}&name=${user.name}&image=${user.image}&providerAccountId=${account.providerAccountId}`
+      if (account?.provider === 'google') {
+        return `/api/auth/oauth/google?email=${user.email}&name=${user.name}&image=${user.image}&providerAccountId=${account.providerAccountId}`;
       }
 
-      return true
-    }
-  }
-})
+      return true;
+    },
+  },
+});
 
-export { handler as GET, handler as POST }
+export { handler as GET, handler as POST };
