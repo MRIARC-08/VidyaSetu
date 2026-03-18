@@ -12,7 +12,7 @@ const handler = NextAuth({
   callbacks: {
     async signIn({ user, account }) {
       if (account?.provider === 'google') {
-        return `/api/auth/oauth/google?email=${user.email}&name=${user.name}&image=${user.image}&providerAccountId=${account.providerAccountId}`;
+        return `${process.env.NEXTAUTH_URL}/api/auth/oauth/google?email=${user.email}&name=${user.name}&image=${user.image}&providerAccountId=${account.providerAccountId}`;
       }
 
       return true;
