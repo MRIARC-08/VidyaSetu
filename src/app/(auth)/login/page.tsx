@@ -24,35 +24,34 @@ export default function LoginPage() {
       return;
     }
 
-    const user = await fetch("/api/auth/login", {
-      method: "POST",
+    const user = await fetch('/api/auth/login', {
+      method: 'POST',
       headers: {
-        "Content-Type": "application/json"
+        'Content-Type': 'application/json',
       },
       body: JSON.stringify({ email, password }),
-      credentials: "include"
+      credentials: 'include',
+    });
 
-    })
-
-   
-
-    const result = await user.json()
-
-    console.log(result)
-
-    router.push("/dashboard")
+    const result = await user.json();
 
 
+    console.log(result);
 
-
+    if (result.user.firstTime){
+      router.push("/profileComplition")
+    }else{
+      router.push('/dashboard');
+      
+    }
 
   };
 
-  const handleLoginWithGoogle =async()=>{
-    await signIn("google", {
-      callbackUrl:  "/dashborad"
-    })
-  }
+  const handleLoginWithGoogle = async () => {
+    await signIn('google', {
+      callbackUrl: '/dashborad',
+    });
+  };
 
   return (
     <main className="bg-secondary h-screen w-screen flex overflow-hidden">
@@ -178,7 +177,10 @@ export default function LoginPage() {
             </div>
 
             <div className="text-black flex flex-col justify-center items-center gap-6">
-              <Button className="text-black bg-primary-foreground md:w-[60%] w-full" onClick={handleLoginWithGoogle}>
+              <Button
+                className="text-black bg-primary-foreground md:w-[60%] w-full"
+                onClick={handleLoginWithGoogle}
+              >
                 <div>
                   <svg
                     width="20"
