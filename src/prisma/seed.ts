@@ -21,7 +21,7 @@ async function main() {
       stats: {
         create: {}
       }
-    }
+    }  
   })
 
   console.log("User created")
