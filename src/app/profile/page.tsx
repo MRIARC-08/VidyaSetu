@@ -33,9 +33,11 @@ function page() {
       body: JSON.stringify(data),
     });
 
-    console.log(profile);
+    
 
     const res = await profile.json();
+
+    console.log(res)
 
     if (res.message == 'jwt expired') {
       await fetch('api/auth/refresh', {
