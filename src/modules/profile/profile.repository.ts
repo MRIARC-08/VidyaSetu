@@ -30,11 +30,16 @@ export class ProfileRepository {
       },
       create: {
         name: data.name,
-        userId: data.userId,
+        
         age: data.age,
         class: data.class,
         image: data.image,
         profileCompleted: true,
+        user: {
+          connect: {
+            id: "28c3e583-ff7a-4696-8504-1dba1972e2e3"
+          }
+        }
       },
     });
   }

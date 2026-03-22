@@ -2,18 +2,33 @@
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import React, { PropsWithChildren, useEffect, useState } from 'react';
+import { boolean, string } from 'zod';
+
+interface ProfileProps {
+  name:             string
+  image:            string
+  id     :          string   
+    
+  userId  :         string   
+  age     :         string
+  class   :         string
+  createdAt :       string 
+  profileCompleted: boolean  
+  
+}
 
 export default function MainLayout({ children }: PropsWithChildren) {
-  const [user, setUser] = useState(null);
+  const [user, setUser] = useState<ProfileProps| null>(null);
 
   const getUser = async () => {
-    const res = await fetch('/api/profile', {
+    const res = await fetch('/api/profile/getProfile', {
       method: 'GET',
       credentials: 'include',
     });
 
     const user = await res.json();
-    setUser(user.profileCompleted);
+    console.log("hemlo",user)
+    setUser(user.profile);
 
     console.log(user);
     if (user.message == 'jwt expired') {
@@ -61,7 +76,7 @@ export default function MainLayout({ children }: PropsWithChildren) {
         <div
           className={`fixed ${isSide ? 'left-2' : '-left-200'} transition-all duration-500 md:w-44 w-40`}
         >
-          <div className="pl-8 pt-2 ">{user ? user.name : ''}</div>
+          <div className="pl-8 pt-2 ">{user ? user?.name : 'unknown'}</div>
 
           <div className="pt-8 flex flex-col gap-2">
             {elements.map((el) => {
