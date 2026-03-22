@@ -16,7 +16,7 @@ function page() {
   const [next, setNext] = useState<boolean>(false);
   const router = useRouter();
 
-  const handleSubmit = async (e: React.ChangeEvent<HTMLInputElement>) => {
+  const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
     setLoading(true);
     const data = {
