@@ -4,8 +4,6 @@ import { useRouter } from 'next/navigation';
 import { afterEach } from 'node:test';
 import { useEffect, useState } from 'react';
 
-
-
 interface UserProps {
   name: string;
   email: string;
@@ -16,8 +14,6 @@ interface UserProps {
 
 export default function DashboardPage() {
   const [user, setUser] = useState<UserProps | null>(null);
-
-  
 
   const quickCards = [
     {
@@ -120,7 +116,7 @@ export default function DashboardPage() {
     },
   ];
 
-  const router = useRouter()
+  const router = useRouter();
 
   const getUser = async () => {
     try {
@@ -131,11 +127,6 @@ export default function DashboardPage() {
 
       const user = await res.json();
 
-      
-
-
-
-
       setUser(user.user);
 
       // if(user.firstTime){
@@ -144,7 +135,6 @@ export default function DashboardPage() {
 
       console.log(user);
     } catch (error: any) {
-      
       console.log(error);
       if (error == 'jwt expired') {
         fetch('/api/auth/refresh', {
@@ -164,7 +154,7 @@ export default function DashboardPage() {
   console.log(user);
 
   return (
-    <div className='flex flex-col gap-8'>
+    <div className="flex flex-col gap-8">
       <div className="h-20 bg-secondary flex justify-between pl-6 pr-4 items-center ">
         <div>
           <p className="font-extrabold text-3xl ">
@@ -214,56 +204,48 @@ export default function DashboardPage() {
           </div>
         </div>
       </div>
-      <div className='pl-6 pr-4 '>
+      <div className="pl-6 pr-4 ">
         <p className="capitalize pl-4 pr-4  font-bold">quick start</p>
 
-        <div className='pt-4 flex gap-8 '>
-
-          {
-            quickCards.map((el)=>{
-              return (
-            <div className=' border rounded-4xl shadow-2xs p-6 group transition-all duration-300 ease-in-out hover:shadow-xl cursor-pointer '>
-            <div className='flex justify-between'>
-              <div className='items-center flex flex-1'> 
-                <div className=' bg-button/10 p-4  rounded-xl items-center flex  justify-center'>
-                  {el.icon}
-
+        <div className="pt-4 flex gap-8 ">
+          {quickCards.map((el) => {
+            return (
+              <div className=" border rounded-4xl shadow-2xs p-6 group transition-all duration-300 ease-in-out hover:shadow-xl cursor-pointer ">
+                <div className="flex justify-between">
+                  <div className="items-center flex flex-1">
+                    <div className=" bg-button/10 p-4  rounded-xl items-center flex  justify-center">
+                      {el.icon}
+                    </div>
+                  </div>
+                  <div className="felx-1 opacity-20  group-hover:opacity-100 transition-all duration-300 ease-in-out">
+                    {el.bgIcon}
+                  </div>
+                </div>
+                <div>
+                  <p className="font-bold capitalize ">{el.name}</p>
+                  <p className="font-light text-black/60 text-[14px]">
+                    {el.brief}
+                  </p>
                 </div>
               </div>
-              <div className='felx-1 opacity-20  group-hover:opacity-100 transition-all duration-300 ease-in-out'>
-                {el.bgIcon}
-              </div>
-            </div>
-            <div>
-              <p className='font-bold capitalize '>
-                {el.name}
-              </p>
-              <p className='font-light text-black/60 text-[14px]'>
-                {el.brief}
-              </p>
-            </div>
-          </div>
-              )
-            })
-          }
-          
+            );
+          })}
         </div>
-
-        
-
       </div>
 
-      <div className='pl-6 pr-4 flex gap-4 w-full'>
-        <div className='h-70 w-[60%] border rounded-xl pl-4 pt-4 shadow-2xs'>
-          <p className='capitalize font-bold'>weekly progress</p>
-          <p className='text-black/60 text-[12px]'>Time spent learning this week</p>
-          <p className='text-center'>graph logic goes here </p>
+      <div className="pl-6 pr-4 flex gap-4 w-full">
+        <div className="h-70 w-[60%] border rounded-xl pl-4 pt-4 shadow-2xs">
+          <p className="capitalize font-bold">weekly progress</p>
+          <p className="text-black/60 text-[12px]">
+            Time spent learning this week
+          </p>
+          <p className="text-center">graph logic goes here </p>
         </div>
-        <div className='felx-1 w-[40%] flex flex-col gap-[10%]'>
-          <div className='h-[45%] w-[80%] border rounded-md'>
+        <div className="felx-1 w-[40%] flex flex-col gap-[10%]">
+          <div className="h-[45%] w-[80%] border rounded-md">
             stat logic goes here
           </div>
-          <div className='h-[45%] w-[80%] border rounded-md'>
+          <div className="h-[45%] w-[80%] border rounded-md">
             stat logic goes here
           </div>
         </div>

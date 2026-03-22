@@ -12,12 +12,16 @@ class JwtServices {
     this.secret = secret;
   }
 
-  generateAccessToken(user: { id: string; role: string; isProfileCompleted: boolean }) {
+  generateAccessToken(user: {
+    id: string;
+    role: string;
+    isProfileCompleted: boolean;
+  }) {
     return jwt.sign(
       {
         sub: user.id,
         role: user.role,
-        isProfileCompleted: user.isProfileCompleted
+        isProfileCompleted: user.isProfileCompleted,
       },
       this.secret,
       { expiresIn: '15m' }
@@ -28,8 +32,8 @@ class JwtServices {
     return jwt.verify(token, this.secret) as AccessTokenPayload;
   }
 
-  decodeAccessToken(token: string){
-    return jwt.decode(token)
+  decodeAccessToken(token: string) {
+    return jwt.decode(token);
   }
 }
 

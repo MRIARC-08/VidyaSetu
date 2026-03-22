@@ -4,18 +4,17 @@ import { SetCookies } from '@/lib/auth/cookies';
 
 export class ProfileService {
   static async getProfile(userId: string) {
-    
     return await ProfileRepository.getProfile(userId);
   }
 
-  static async updateProfile(data: {
+  static async updateOrCreateProfile(data: {
     name: string;
     age: string;
     userId: string;
     class: string;
     image: string;
   }) {
-    return await ProfileRepository.updateProfile(data);
+    return await ProfileRepository.updateOrCreateProfile(data);
   }
 
   static async getUser(userId: string) {

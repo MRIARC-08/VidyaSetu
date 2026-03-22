@@ -15,11 +15,6 @@ export function proxy(req: NextRequest) {
 
   const accessToken = req.cookies.get('access_token')?.value;
 
-
-
-  
-  
-
   const refreshToken = req.cookies.get('refresh_token');
 
   if (
