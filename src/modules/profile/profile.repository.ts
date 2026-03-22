@@ -10,15 +10,25 @@ export class ProfileRepository {
     });
   }
 
-  static async updateProfile(data: {
+  static async updateOrCreateProfile(data: {
     name: string;
     userId: string;
     age: string;
     class: string;
     image: string;
   }) {
-    return await prisma.profile.create({
-      data: {
+    return await prisma.profile.upsert({
+      where: {
+        userId: data.userId,
+      },
+      update: {
+        name: data.name,
+        age: data.age,
+        class: data.class,
+        image: data.image,
+        profileCompleted: true,
+      },
+      create: {
         name: data.name,
         userId: data.userId,
         age: data.age,
@@ -40,7 +50,7 @@ export class ProfileRepository {
         email: true,
         image: true,
         streakCount: true,
-        firstTime: true
+        firstTime: true,
       },
     });
   }

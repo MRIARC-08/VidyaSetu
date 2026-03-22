@@ -35,16 +35,13 @@ export default function LoginPage() {
 
     const result = await user.json();
 
-
     console.log(result);
 
-    if (result.user.firstTime){
-      router.push("/profileComplition")
-    }else{
+    if (result.user.firstTime) {
+      router.push('/profile');
+    } else {
       router.push('/dashboard');
-      
     }
-
   };
 
   const handleLoginWithGoogle = async () => {

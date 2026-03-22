@@ -30,11 +30,9 @@ export class SetCookies {
     }
   }
 
-  static async deleteCookies(){
-    const cookieStore = await cookies()
-    cookieStore.delete('access_token')
-    cookieStore.delete('refresh_token')
-
-
+  static async deleteCookies() {
+    const cookieStore = await cookies();
+    cookieStore.delete('access_token');
+    cookieStore.delete('refresh_token');
   }
 }

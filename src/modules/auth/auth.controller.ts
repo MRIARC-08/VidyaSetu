@@ -46,8 +46,7 @@ export class AuthControllers {
       await SetCookies.setRefreshtoken(refreshToken);
       return NextResponse.json({ message: 'refreshed' }, { status: 200 });
     } catch (error: any) {
-      
-      return NextResponse.json({ message: error.message }, { status: 481});
+      return NextResponse.json({ message: error.message }, { status: 481 });
     }
   }
 

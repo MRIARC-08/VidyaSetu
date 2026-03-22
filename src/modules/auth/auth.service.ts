@@ -32,7 +32,7 @@ export class AuthServices {
     const accessToken = jwtService.generateAccessToken({
       id: user.id,
       role: user.role,
-      isProfileCompleted: false
+      isProfileCompleted: false,
     });
 
     const refreshToken = await AuthRepository.createRefreshToken(user.id);
@@ -57,7 +57,7 @@ export class AuthServices {
     const accessToken = jwtService.generateAccessToken({
       id: user.id,
       role: user.role,
-      isProfileCompleted: user.firstTime
+      isProfileCompleted: user.firstTime,
     });
 
     const refreshToken = await AuthRepository.createRefreshToken(user.id);
@@ -85,7 +85,7 @@ export class AuthServices {
     const accessToken = jwtService.generateAccessToken({
       id: user.id,
       role: user.role,
-      isProfileCompleted: user.firstTime
+      isProfileCompleted: user.firstTime,
     });
 
     const refreshToken = await AuthRepository.createRefreshToken(user.id);
@@ -106,13 +106,10 @@ export class AuthServices {
   }
 
   static async refreshToken(token: string) {
-   
     let stored = await AuthRepository.findRefreshToken(token);
 
-    
-    
     if (!stored || stored.expiresAt <= new Date()) {
-      SetCookies.deleteCookies()
+      SetCookies.deleteCookies();
       throw new Error('Invalid or expired refresh token');
     }
 
@@ -127,7 +124,7 @@ export class AuthServices {
     const accessToken = jwtService.generateAccessToken({
       id: user!.id,
       role: user!.role,
-      isProfileCompleted: user!.firstTime
+      isProfileCompleted: user!.firstTime,
     });
 
     return {

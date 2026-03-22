@@ -1,11 +1,15 @@
-import { QuestionType,QuizMode,QuizSource, Difficulty} from "@/generated/prisma/enums"
-import { prisma } from "@/lib/prisma"
+import {
+  QuestionType,
+  QuizMode,
+  QuizSource,
+  Difficulty,
+} from '@/generated/prisma/enums';
+import { prisma } from '@/lib/prisma';
 
-import { faker } from "@faker-js/faker"
-
+import { faker } from '@faker-js/faker';
 
 async function main() {
-  console.log("Seeding rich test user...")
+  console.log('Seeding rich test user...');
 
   // --------------------------------
   // USER
@@ -13,50 +17,50 @@ async function main() {
 
   const user = await prisma.user.create({
     data: {
-      name: "Test Student",
-      email: "test@vidyasetu.com",
-      password: "password123",
+      name: 'Test Student',
+      email: 'test@vidyasetu.com',
+      password: 'password123',
       isEmailVerified: true,
       streakCount: 7,
       stats: {
-        create: {}
-      }
-    }  
-  })
+        create: {},
+      },
+    },
+  });
 
-  console.log("User created")
+  console.log('User created');
 
   // --------------------------------
   // CLASSES
   // --------------------------------
 
-  const classes = []
+  const classes = [];
 
   for (let level = 9; level <= 12; level++) {
     const cls = await prisma.academicClass.create({
-      data: { level }
-    })
-    classes.push(cls)
+      data: { level },
+    });
+    classes.push(cls);
   }
 
   // --------------------------------
   // SUBJECTS
   // --------------------------------
 
-  const subjectNames = ["Physics", "Chemistry", "Mathematics"]
+  const subjectNames = ['Physics', 'Chemistry', 'Mathematics'];
 
-  const subjects = []
+  const subjects = [];
 
   for (const cls of classes) {
     for (const name of subjectNames) {
       const subject = await prisma.subject.create({
         data: {
           name,
-          academicClassId: cls.id
-        }
-      })
+          academicClassId: cls.id,
+        },
+      });
 
-      subjects.push(subject)
+      subjects.push(subject);
     }
   }
 
@@ -64,7 +68,7 @@ async function main() {
   // CHAPTERS
   // --------------------------------
 
-  const chapters = []
+  const chapters = [];
 
   for (const subject of subjects) {
     for (let i = 1; i <= 5; i++) {
@@ -72,11 +76,11 @@ async function main() {
         data: {
           title: `${subject.name} Chapter ${i}`,
           order: i,
-          subjectId: subject.id
-        }
-      })
+          subjectId: subject.id,
+        },
+      });
 
-      chapters.push(chapter)
+      chapters.push(chapter);
     }
   }
 
@@ -84,7 +88,7 @@ async function main() {
   // TOPICS
   // --------------------------------
 
-  const topics = []
+  const topics = [];
 
   for (const chapter of chapters) {
     for (let i = 1; i <= 4; i++) {
@@ -93,11 +97,11 @@ async function main() {
           title: `Topic ${i}`,
           order: i,
           content: faker.lorem.paragraph(),
-          chapterId: chapter.id
-        }
-      })
+          chapterId: chapter.id,
+        },
+      });
 
-      topics.push(topic)
+      topics.push(topic);
     }
   }
 
@@ -105,7 +109,7 @@ async function main() {
   // QUESTIONS
   // --------------------------------
 
-  const questions = []
+  const questions = [];
 
   for (const topic of topics) {
     for (let i = 0; i < 20; i++) {
@@ -116,32 +120,32 @@ async function main() {
           difficulty: faker.helpers.arrayElement([
             Difficulty.EASY,
             Difficulty.MEDIUM,
-            Difficulty.HARD
+            Difficulty.HARD,
           ]),
           questionText: faker.lorem.sentence(),
           explanation: faker.lorem.paragraph(),
           options: {
             create: [
-              { label: "A", value: faker.word.words(3), isCorrect: false },
-              { label: "B", value: faker.word.words(3), isCorrect: true },
-              { label: "C", value: faker.word.words(3), isCorrect: false },
-              { label: "D", value: faker.word.words(3), isCorrect: false }
-            ]
-          }
-        }
-      })
+              { label: 'A', value: faker.word.words(3), isCorrect: false },
+              { label: 'B', value: faker.word.words(3), isCorrect: true },
+              { label: 'C', value: faker.word.words(3), isCorrect: false },
+              { label: 'D', value: faker.word.words(3), isCorrect: false },
+            ],
+          },
+        },
+      });
 
-      questions.push(question)
+      questions.push(question);
     }
   }
 
-  console.log("Questions created:", questions.length)
+  console.log('Questions created:', questions.length);
 
   // --------------------------------
   // NOTES
   // --------------------------------
 
-  const notes = []
+  const notes = [];
 
   for (let i = 0; i < 5; i++) {
     const note = await prisma.note.create({
@@ -149,33 +153,30 @@ async function main() {
         userId: user.id,
         title: faker.lorem.words(3),
         content: faker.lorem.paragraphs(2),
-        extractedText: faker.lorem.paragraphs(4)
-      }
-    })
+        extractedText: faker.lorem.paragraphs(4),
+      },
+    });
 
-    notes.push(note)
+    notes.push(note);
   }
 
   // --------------------------------
   // QUIZZES
   // --------------------------------
 
-  const quizzes = []
+  const quizzes = [];
 
   for (let i = 0; i < 10; i++) {
     const quiz = await prisma.quiz.create({
       data: {
         userId: user.id,
-        mode: faker.helpers.arrayElement([
-          QuizMode.PRACTICE,
-          QuizMode.TEST
-        ]),
+        mode: faker.helpers.arrayElement([QuizMode.PRACTICE, QuizMode.TEST]),
         source: QuizSource.CHAPTER,
-        questionCount: 10
-      }
-    })
+        questionCount: 10,
+      },
+    });
 
-    quizzes.push(quiz)
+    quizzes.push(quiz);
   }
 
   // --------------------------------
@@ -190,15 +191,15 @@ async function main() {
         totalQuestions: 10,
         correctCount: faker.number.int({ min: 3, max: 10 }),
         accuracy: faker.number.float({ min: 40, max: 100 }),
-        timeTaken: faker.number.int({ min: 60, max: 600 })
-      }
-    })
+        timeTaken: faker.number.int({ min: 60, max: 600 }),
+      },
+    });
 
     // --------------------------------
     // RESPONSES
     // --------------------------------
 
-    const sampleQuestions = questions.slice(0, 10)
+    const sampleQuestions = questions.slice(0, 10);
 
     for (const q of sampleQuestions) {
       await prisma.questionResponse.create({
@@ -207,17 +208,17 @@ async function main() {
           questionId: q.id,
           timeTaken: faker.number.int({ min: 5, max: 30 }),
           isCorrect: faker.datatype.boolean(),
-          score: faker.number.float({ min: 0, max: 1 })
-        }
-      })
+          score: faker.number.float({ min: 0, max: 1 }),
+        },
+      });
     }
   }
 
-  console.log("Rich user seeded successfully 🚀")
+  console.log('Rich user seeded successfully 🚀');
 }
 
 main()
   .catch(console.error)
   .finally(async () => {
-    await prisma.$disconnect()
-  })
+    await prisma.$disconnect();
+  });

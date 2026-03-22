@@ -3,26 +3,27 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import React, { PropsWithChildren, useEffect, useState } from 'react';
 
-import lucid, { Hamburger, HamIcon, Sidebar } from 'lucide-react';
-import { get } from 'http';
-
 export default function MainLayout({ children }: PropsWithChildren) {
+  const [user, setUser] = useState(null);
+
   const getUser = async () => {
-    const user = await fetch('/api/profile', {
+    const res = await fetch('/api/profile', {
       method: 'GET',
       credentials: 'include',
     });
 
-    const res = await user.json();
-    console.log(res);
-    if (res.message == 'jwt expired') {
+    const user = await res.json();
+    setUser(user.profileCompleted);
+
+    console.log(user);
+    if (user.message == 'jwt expired') {
       const r = await fetch('/api/auth/refresh', {
         method: 'GET',
         credentials: 'include',
       });
 
       const p = await r.json();
-      // getUser();
+      getUser();
       console.log(p);
     }
   };
@@ -33,8 +34,6 @@ export default function MainLayout({ children }: PropsWithChildren) {
 
   const path = usePathname();
 
-  console.log(path);
-  console.log(path.startsWith('/dashboard'));
   const [isSide, setIsSide] = useState(true);
 
   const elements = [
@@ -62,7 +61,7 @@ export default function MainLayout({ children }: PropsWithChildren) {
         <div
           className={`fixed ${isSide ? 'left-2' : '-left-200'} transition-all duration-500 md:w-44 w-40`}
         >
-          <div className="pl-8 pt-2 ">username</div>
+          <div className="pl-8 pt-2 ">{user ? user.name : ''}</div>
 
           <div className="pt-8 flex flex-col gap-2">
             {elements.map((el) => {
