@@ -1,5 +1,6 @@
 'use client';
 
+import { Song_Myung } from 'next/font/google';
 import { useRouter } from 'next/navigation';
 import { afterEach } from 'node:test';
 import { useEffect, useState } from 'react';
@@ -119,137 +120,40 @@ export default function DashboardPage() {
   const router = useRouter();
 
   const getUser = async () => {
-    try {
-      const res = await fetch('api/user', {
-        method: 'GET',
-        credentials: 'include',
-      });
+    const res = await fetch('api/user', {
+      method: 'GET',
+      credentials: 'include',
+    });
 
-      const user = await res.json();
+    const user = await res.json();
 
-      setUser(user.user);
-
-      // if(user.firstTime){
-      //   router.push('/profileCompletion')
-      // }
-
-      console.log(user);
-    } catch (error: any) {
-      console.log(error);
-      if (error == 'jwt expired') {
+    if (!res.ok) {
+      if (user.message == 'jwt expired') {
         fetch('/api/auth/refresh', {
           method: 'GET',
           credentials: 'include',
         });
 
-        // getUser();
+        getUser();
       }
     }
+
+    setUser(user.user);
+
+    if(user.firstTime){
+      router.push('/profileCompletion')
+    }
+    console.log(res.ok);
+    console.log('hemloo', user);
   };
 
   useEffect(() => {
     getUser();
   }, []);
 
-  console.log(user);
-
   return (
-    <div className="flex flex-col gap-8">
-      <div className="h-20 bg-secondary flex justify-between pl-6 pr-4 items-center ">
-        <div>
-          <p className="font-extrabold text-3xl ">
-            Welcome back,{' '}
-            {user
-              ? user.name
-                ? `${user.name}`
-                : `${user.email.split('@')[0]}`
-              : 'userNL'}{' '}
-            !
-          </p>
-
-          <p className="text-[12px] text-black/60">
-            Ready to ace your Science chapter today?
-          </p>
-        </div>
-
-        <div className="flex gap-2 items-center ">
-          <div className="border p-2 pl-6 pr-4 rounded-full bg-white shadow-accent text-[14px] font-bold flex gap-2 items-center">
-            <svg
-              width="14"
-              height="16"
-              viewBox="0 0 14 16"
-              fill="none"
-              xmlns="http://www.w3.org/2000/svg"
-            >
-              <path
-                d="M1.66667 9.16667C1.66667 9.88889 1.8125 10.5729 2.10417 11.2188C2.39583 11.8646 2.8125 12.4306 3.35417 12.9167C3.34028 12.8472 3.33333 12.7847 3.33333 12.7292C3.33333 12.6736 3.33333 12.6111 3.33333 12.5417C3.33333 12.0972 3.41667 11.6806 3.58333 11.2917C3.75 10.9028 3.99306 10.5486 4.3125 10.2292L6.66667 7.91667L9.02083 10.2292C9.34028 10.5486 9.58333 10.9028 9.75 11.2917C9.91667 11.6806 10 12.0972 10 12.5417C10 12.6111 10 12.6736 10 12.7292C10 12.7847 9.99306 12.8472 9.97917 12.9167C10.5208 12.4306 10.9375 11.8646 11.2292 11.2188C11.5208 10.5729 11.6667 9.88889 11.6667 9.16667C11.6667 8.47222 11.5382 7.81597 11.2812 7.19792C11.0243 6.57986 10.6528 6.02778 10.1667 5.54167C9.88889 5.72222 9.59722 5.85764 9.29167 5.94792C8.98611 6.03819 8.67361 6.08333 8.35417 6.08333C7.49306 6.08333 6.74653 5.79861 6.11458 5.22917C5.48264 4.65972 5.11806 3.95833 5.02083 3.125C4.47917 3.58333 4 4.05903 3.58333 4.55208C3.16667 5.04514 2.81597 5.54514 2.53125 6.05208C2.24653 6.55903 2.03125 7.07639 1.88542 7.60417C1.73958 8.13194 1.66667 8.65278 1.66667 9.16667ZM6.66667 10.25L5.47917 11.4167C5.32639 11.5694 5.20833 11.7431 5.125 11.9375C5.04167 12.1319 5 12.3333 5 12.5417C5 12.9861 5.16319 13.3681 5.48958 13.6875C5.81597 14.0069 6.20833 14.1667 6.66667 14.1667C7.125 14.1667 7.51736 14.0069 7.84375 13.6875C8.17014 13.3681 8.33333 12.9861 8.33333 12.5417C8.33333 12.3194 8.29167 12.1146 8.20833 11.9271C8.125 11.7396 8.00694 11.5694 7.85417 11.4167L6.66667 10.25ZM6.66667 0V2.75C6.66667 3.22222 6.82986 3.61806 7.15625 3.9375C7.48264 4.25694 7.88194 4.41667 8.35417 4.41667C8.60417 4.41667 8.83681 4.36458 9.05208 4.26042C9.26736 4.15625 9.45833 4 9.625 3.79167L10 3.33333C11.0278 3.91667 11.8403 4.72917 12.4375 5.77083C13.0347 6.8125 13.3333 7.94444 13.3333 9.16667C13.3333 11.0278 12.6875 12.6042 11.3958 13.8958C10.1042 15.1875 8.52778 15.8333 6.66667 15.8333C4.80556 15.8333 3.22917 15.1875 1.9375 13.8958C0.645833 12.6042 0 11.0278 0 9.16667C0 7.375 0.600695 5.67361 1.80208 4.0625C3.00347 2.45139 4.625 1.09722 6.66667 0Z"
-                fill="#F97316"
-              />
-            </svg>
-            <p>{user ? user.streakCount : 0} Day Streak</p>
-          </div>
-          <div className="border p-2 pl-3 pr-3 rounded-full bg-white shadow-accent text-[14px] font-bold flex gap-2 items-center">
-            <svg
-              width="16"
-              height="20"
-              viewBox="0 0 16 20"
-              fill="none"
-              xmlns="http://www.w3.org/2000/svg"
-            >
-              <path
-                d="M0 17V15H2V8C2 6.61667 2.41667 5.3875 3.25 4.3125C4.08333 3.2375 5.16667 2.53333 6.5 2.2V1.5C6.5 1.08333 6.64583 0.729167 6.9375 0.4375C7.22917 0.145833 7.58333 0 8 0C8.41667 0 8.77083 0.145833 9.0625 0.4375C9.35417 0.729167 9.5 1.08333 9.5 1.5V2.2C10.8333 2.53333 11.9167 3.2375 12.75 4.3125C13.5833 5.3875 14 6.61667 14 8V15H16V17H0ZM8 20C7.45 20 6.97917 19.8042 6.5875 19.4125C6.19583 19.0208 6 18.55 6 18H10C10 18.55 9.80417 19.0208 9.4125 19.4125C9.02083 19.8042 8.55 20 8 20ZM4 15H12V8C12 6.9 11.6083 5.95833 10.825 5.175C10.0417 4.39167 9.1 4 8 4C6.9 4 5.95833 4.39167 5.175 5.175C4.39167 5.95833 4 6.9 4 8V15Z"
-                fill="#475569"
-              />
-            </svg>
-          </div>
-        </div>
-      </div>
-      <div className="pl-6 pr-4 ">
-        <p className="capitalize pl-4 pr-4  font-bold">quick start</p>
-
-        <div className="pt-4 flex gap-8 ">
-          {quickCards.map((el) => {
-            return (
-              <div className=" border rounded-4xl shadow-2xs p-6 group transition-all duration-300 ease-in-out hover:shadow-xl cursor-pointer ">
-                <div className="flex justify-between">
-                  <div className="items-center flex flex-1">
-                    <div className=" bg-button/10 p-4  rounded-xl items-center flex  justify-center">
-                      {el.icon}
-                    </div>
-                  </div>
-                  <div className="felx-1 opacity-20  group-hover:opacity-100 transition-all duration-300 ease-in-out">
-                    {el.bgIcon}
-                  </div>
-                </div>
-                <div>
-                  <p className="font-bold capitalize ">{el.name}</p>
-                  <p className="font-light text-black/60 text-[14px]">
-                    {el.brief}
-                  </p>
-                </div>
-              </div>
-            );
-          })}
-        </div>
-      </div>
-
-      <div className="pl-6 pr-4 flex gap-4 w-full">
-        <div className="h-70 w-[60%] border rounded-xl pl-4 pt-4 shadow-2xs">
-          <p className="capitalize font-bold">weekly progress</p>
-          <p className="text-black/60 text-[12px]">
-            Time spent learning this week
-          </p>
-          <p className="text-center">graph logic goes here </p>
-        </div>
-        <div className="felx-1 w-[40%] flex flex-col gap-[10%]">
-          <div className="h-[45%] w-[80%] border rounded-md">
-            stat logic goes here
-          </div>
-          <div className="h-[45%] w-[80%] border rounded-md">
-            stat logic goes here
-          </div>
-        </div>
-      </div>
-    </div>
+    <>
+      
+    </>
   );
 }
