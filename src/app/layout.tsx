@@ -1,10 +1,10 @@
 import type { Metadata } from 'next';
-import { Geist, Geist_Mono, Lexend } from 'next/font/google';
+import { Geist, Geist_Mono, Lexend, Manrope } from 'next/font/google';
 import './globals.css';
 import MainLayout from './mainLayout';
 
-const lexend = Lexend({
-  variable: '--font-lexend-sans',
+const manrope = Manrope({
+  variable: '--font-manrope-sans',
   subsets: ['latin'],
 });
 
@@ -20,9 +20,7 @@ export default async function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${lexend.variable}  antialiased `}>
-        <MainLayout>{children}</MainLayout>
-      </body>
+      <body className={`${manrope.variable}  antialiased `}><MainLayout>{children}</MainLayout></body>
     </html>
   );
 }

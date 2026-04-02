@@ -5,20 +5,19 @@ import React, { PropsWithChildren, useEffect, useState } from 'react';
 import { boolean, string } from 'zod';
 
 interface ProfileProps {
-  name:             string
-  image:            string
-  id     :          string   
-    
-  userId  :         string   
-  age     :         string
-  class   :         string
-  createdAt :       string 
-  profileCompleted: boolean  
-  
+  name: string;
+  image: string;
+  id: string;
+
+  userId: string;
+  age: string;
+  class: string;
+  createdAt: string;
+  profileCompleted: boolean;
 }
 
 export default function MainLayout({ children }: PropsWithChildren) {
-  const [user, setUser] = useState<ProfileProps| null>(null);
+  const [user, setUser] = useState<ProfileProps | null>(null);
 
   const getUser = async () => {
     const res = await fetch('/api/profile/getProfile', {
@@ -27,7 +26,7 @@ export default function MainLayout({ children }: PropsWithChildren) {
     });
 
     const user = await res.json();
-    console.log("hemlo",user)
+    console.log('hemlo', user);
     setUser(user.profile);
 
     console.log(user);
@@ -38,8 +37,10 @@ export default function MainLayout({ children }: PropsWithChildren) {
       });
 
       const p = await r.json();
-      getUser();
+
       console.log(p);
+
+      getUser();
     }
   };
 
