@@ -3,11 +3,11 @@ import React from 'react';
 
 function Button({
   text,
-  action,
-  color,
-  textCol,
-  additional,
-  hover,
+  action="",
+  color="",
+  textCol="",
+  additional="",
+  hover="",
 }: {
   text: string;
   action: any;
