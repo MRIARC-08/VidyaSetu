@@ -50,10 +50,21 @@ export default function Home() {
               <Button
                 text="get started"
                 action={() => router.push('/dashboard')}
+               
+  color=""
+  textCol=""
+  additional=""
+  hover=""
+
+                
               />
               <Button
                 text="view curriculam"
                 action={() => router.push('/ncert')}
+                color=""
+  textCol=""
+  additional=""
+  hover=""
               />
             </div>
           </div>
@@ -216,11 +227,23 @@ export default function Home() {
               color="bg-white"
               textCol="text-black"
               hover="hover:bg-white"
+             
+  
+  additional=""
+    action=""
             ></Button>
 
             <Button
               text="Request Demo"
               additional="border border-accent/40 "
+              color=""
+               
+  
+  textCol=""
+ 
+  hover=""
+  
+  action=''
             ></Button>
           </div>
         </div>
