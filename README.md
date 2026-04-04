@@ -152,8 +152,7 @@ This ensures scalability and clean data modeling.
 
 ### Backend
 
-- Node.js
-- Express
+
 - Prisma ORM
 - JWT Authentication
 
