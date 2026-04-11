@@ -24,7 +24,7 @@ class JwtServices {
         isProfileCompleted: user.isProfileCompleted,
       },
       this.secret,
-      { expiresIn: '15m' }
+      { expiresIn: '15s' }
     );
   }
 
