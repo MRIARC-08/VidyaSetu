@@ -1,6 +1,5 @@
 import { prisma } from '@/lib/prisma';
 
-
 // TODO: Implement analytics repository
 export default class AnalyticsRepository {
   static async getQuizSesssions(userId: string) {
@@ -17,11 +16,11 @@ export default class AnalyticsRepository {
 
     return await prisma.quizSession.findMany({
       where: {
-        userId: userId
+        userId: userId,
       },
-      include : {
-        responses: true
-      }
-    })
+      include: {
+        responses: true,
+      },
+    });
   }
 }

@@ -24,12 +24,13 @@ class JwtServices {
         isProfileCompleted: user.isProfileCompleted,
       },
       this.secret,
-      { expiresIn: '15s' }
+      { expiresIn: '15m' }
     );
   }
 
   verifyAccessToken(token: string): AccessTokenPayload {
-    return jwt.verify(token, this.secret) as AccessTokenPayload;
+    const res = jwt.verify(token, this.secret) as AccessTokenPayload;
+    return res;
   }
 
   decodeAccessToken(token: string) {

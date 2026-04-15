@@ -82,7 +82,6 @@ export class AuthRepository {
   }
 
   static async findRefreshToken(token: string) {
-    console.log('heyy');
     return await prisma.refreshToken.findUnique({ where: { token } });
   }
 }

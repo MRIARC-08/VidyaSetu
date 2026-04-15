@@ -35,8 +35,6 @@ export default function LoginPage() {
 
     const result = await user.json();
 
-    console.log(result);
-
     if (result.user.firstTime) {
       router.push('/profile');
     } else {

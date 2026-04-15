@@ -112,32 +112,31 @@ export default function DashboardPage() {
 
   const getUser = async () => {
     const data = {
-      url: '/api/user',
+      url: '/api/user/getUser',
       options: {
         method: 'GET',
       },
     };
     const user = await authFetch(data);
 
+    setUser(user)
+
+    console.log(user)
+
     if (user.firstTime) {
       router.push('/profileCompletion');
     }
-
-    console.log('hemloo', user);
   };
 
   const getAnalytics = async () => {
-    console.log('runiinggg');
     const req = {
-      url: '/api/analytics/overview',
+      url: `/api/analytics/overview`,
       options: {
         method: 'GET',
       },
     };
 
     const res = await authFetch(req);
-
-    console.log('data', res);
   };
 
   //   const getUser = async () => {
@@ -165,12 +164,11 @@ export default function DashboardPage() {
   //   }
   // };
 
-  const call = async()=>{
+  const call = async () => {
     await getUser();
     await getAnalytics();
-
-  }
-  useEffect( ()=>{
+  };
+  useEffect(() => {
     call();
   }, []);
 

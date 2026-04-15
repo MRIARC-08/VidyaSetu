@@ -7,7 +7,6 @@ export default class AnalyticsController {
   static async getAnalytics(req: Request) {
     try {
       const access_token = await SetCookies.verifyCookies();
-      console.log(access_token, 'accesstoken');
 
       if (!access_token)
         throw new Error('userId not accesseble at the controller');

@@ -4,7 +4,7 @@ import React, { useState } from 'react';
 import SecondSlide from './components/SecondSlide';
 import FirstSlide from './components/FirstSlide';
 import { date, includes } from 'zod';
-import { ProfileController } from '@/modules/profile/profile.controller';
+
 import { useRouter } from 'next/navigation';
 import { fa } from 'zod/locales';
 
@@ -25,8 +25,6 @@ function page() {
       class: clas,
     };
 
-    console.log(data);
-
     const profile = await fetch('/api/profile/updateOrCreateProfile', {
       method: 'PUT',
       credentials: 'include',
@@ -34,8 +32,6 @@ function page() {
     });
 
     const res = await profile.json();
-
-    console.log(res);
 
     if (res.message == 'jwt expired') {
       await fetch('api/auth/refresh', {
@@ -51,8 +47,6 @@ function page() {
     if (profile.ok) {
       setNext(true);
     }
-
-    console.log(res);
   };
 
   return (

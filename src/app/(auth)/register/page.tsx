@@ -36,13 +36,12 @@ export default function LoginPage() {
     });
 
     const res = await user.json();
-    console.log(res.user);
+
     const isFirstTime = res?.user?.firstTime;
 
     if (isFirstTime) {
       router.push('/profile');
     } else {
-      console.log('runningg....else');
       router.push('/dashboard');
     }
   };
