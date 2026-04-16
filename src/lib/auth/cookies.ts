@@ -9,6 +9,7 @@ export class SetCookies {
       secure: true,
       sameSite: 'lax',
       path: '/',
+      maxAge: 7 * 24 * 60 * 60, 
     });
   }
 
@@ -19,6 +20,7 @@ export class SetCookies {
       secure: true,
       sameSite: 'lax',
       path: '/',
+      maxAge: 15 * 60, 
     });
   }
 
