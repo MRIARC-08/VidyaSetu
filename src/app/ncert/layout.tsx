@@ -1,18 +1,24 @@
 import authFetch from '@/lib/auth/authFetch';
+import { jwtService } from '@/lib/auth/jwt';
 
 import UserController from '@/modules/user/user.controller';
+import UserRepository from '@/modules/user/user.repository';
 import UserServices from '@/modules/user/user.service';
-import { cookies } from 'next/headers';
+import { Decimal } from '@prisma/client/runtime/client';
+import { constants } from 'buffer';
+import { cookies, headers } from 'next/headers';
 import { redirect } from 'next/navigation';
 
 async function Layout({
   children,
-  params,
+  
 }: Readonly<{
   children: React.ReactNode;
-  params: { class?: string };
 }>) {
   let res;
+  const headersList = await headers();
+  const pathname = headersList.get('x-pathname');
+  console.log(pathname, "pathname=============@#!$@%#^&%*^&(*^&%^$#%@#$#")
   try {
     res = await UserServices.getUser();
     console.log(res?.class);
@@ -34,13 +40,25 @@ async function Layout({
           cache: 'no-store',
         }
       );
-      console.log('==layout refresh route status:', refresh.status);
-      console.log(await refresh.json());
+
+      const {accessToken} = await refresh.json()
+      // console.log(accessToken, "token=========")
+
+      // const decoded =  jwtService.verifyAccessToken(accessToken)
+      // console.log(decoded)
+
+      if(refresh.ok){
+        res = await UserRepository.getUser(accessToken);
+      }
+      // console.log('==layout refresh route status:', refresh.status);
+      // console.log(await refresh.json());
     }
   }
+  
+  console.log(  "calssssssss==========----------")
 
-  if (res?.class && !params.class) {
-    console.log('runninggggg');
+  if (res?.class && !(pathname?.startsWith(`/ncert/${res.class}`)) ) {
+    console.log('runninggggg', res.class);
     return redirect(`/ncert/${res.class}`);
   }
 

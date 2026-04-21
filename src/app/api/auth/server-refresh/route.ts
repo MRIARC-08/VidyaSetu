@@ -15,7 +15,7 @@ export async function GET(req:Request) {
         await SetCookies.deleteCookies()
         await SetCookies.setAccesstoken(accessToken)
         await SetCookies.setRefreshtoken(refreshToken)
-        return NextResponse.json({message: "server-refreshed"}, {status: 200})
+        return NextResponse.json({message: "server-refreshed", accessToken}, {status: 200})
     } catch (error:any) {
         return NextResponse.json({message: error.message}, {status: 401})
     }
