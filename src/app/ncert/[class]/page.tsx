@@ -4,7 +4,7 @@ import { get, METHODS } from "http";
 import { use, useEffect, useState } from "react";
 
 export default function page() {
-  const [user, setUser] = useState()
+  const [user, setUser] = useState<any>()
   const [subs, setSubs] = useState(null)
   const [chapter, setChapters]= useState(null)
   const getUser = async()=>{
@@ -31,7 +31,7 @@ export default function page() {
       <p className="text-[12px] text-primary/70 font-semibold">ACADEMIC YEAR 2024-25</p>
       <p className="text-3xl font-bold">Subject Catalog</p>
       <p className="mt-2 pl-4 pr-4 bg-primary w-max text-white font-medium text-[12px] uppercase">{`class 
-        ${user?.user.class}`}
+        ${user?.user?.class || ''}`}
       </p>
 
 
