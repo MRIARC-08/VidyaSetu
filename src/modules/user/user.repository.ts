@@ -29,7 +29,7 @@ export default class UserRepository {
       where: {
         id: userId,
       },
-      data: { ...data },
+      data:  {...data} ,
     });
   }
 }

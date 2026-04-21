@@ -31,7 +31,7 @@ export default class UserServices {
 
     return await UserRepository.updateUser({
       userId: access_token.sub,
-      data: data,
+      data: { ...data.data },
     });
   }
 }
