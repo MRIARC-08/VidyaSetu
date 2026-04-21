@@ -1,4 +1,7 @@
+'use client'
 import { strict } from 'assert';
+import { useRouter } from 'next/navigation';
+
 import React, { Dispatch, SetStateAction } from 'react';
 
 interface SlideProps {
@@ -20,9 +23,11 @@ function FirstSlide({
   setClas,
   loading,
 }: SlideProps) {
+
+  const router = useRouter()
   return (
     <div className="h-screen w-screen flex justify-center items-center bg-accent">
-      <div className="flex justify-center gap-8  flex-col shadow-xl p-8 bg-white rounded-md  w-[50%]">
+      <div className="flex justify-center gap-8  flex-col shadow-xl p-8 bg-white    w-[50%]">
         <div>
           <p className="text-2xl font-bold">Welcome to Vidyasetu!</p>
           <p className="text-[14px] text-black/60">
@@ -74,7 +79,7 @@ function FirstSlide({
           <input
             type="text"
             id="name"
-            className="p-2 outline-none border border-[#CBD5E1] rounded-md pl-4 bg-[#CBD5E1]/5"
+            className="p-2 outline-none border border-[#CBD5E1]   pl-4 bg-[#CBD5E1]/5"
             placeholder="Enter your full name"
             value={name}
             onChange={(e) => setName(e.target.value)}
@@ -88,7 +93,7 @@ function FirstSlide({
             <input
               type="number"
               id="age"
-              className="p-2 outline-none border border-[#CBD5E1] rounded-md pl-4 bg-[#CBD5E1]/5"
+              className="p-2 outline-none border border-[#CBD5E1]   pl-4 bg-[#CBD5E1]/5"
               value={age}
               onChange={(e) => setAge(e.target.value)}
               required
@@ -100,7 +105,7 @@ function FirstSlide({
             <select
               name=""
               id="class"
-              className="p-2 outline-none border border-[#CBD5E1] rounded-md pl-4 bg-[#CBD5E1]/5"
+              className="p-2 outline-none border border-[#CBD5E1]   pl-4 bg-[#CBD5E1]/5"
               value={clas}
               onChange={(e) => setClas(e.target.value)}
               required
@@ -108,6 +113,7 @@ function FirstSlide({
               <option selected hidden disabled>
                 Select Class
               </option>
+              <option selected disabled>Select a class</option>
               <option value="9">9</option>
               <option value="10">10</option>
               <option value="11">11</option>
@@ -119,11 +125,11 @@ function FirstSlide({
         <div className="flex w-full gap-8 justify-center items-center">
           <button
             type="submit"
-            className={`${loading ? 'bg-button/20' : 'bg-button'} flex-1 p-2 rounded-md text-center text-white font-bold cursor-pointer shadow-xl`}
+            className={`${loading ? 'bg-primary/20' : 'bg-primary'} flex-1 p-2   text-center text-white font-semibold cursor-pointer shadow-xl`}
           >
             Continue
           </button>
-          <div className="cursor-pointer text-black/60">Skip for now</div>
+          <div className="cursor-pointer text-black/60" onClick={()=>(router.push('/dashboard'))} >Skip for now</div>
         </div>
       </div>
     </div>

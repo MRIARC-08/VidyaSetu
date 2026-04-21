@@ -7,11 +7,12 @@ import { date, includes } from 'zod';
 
 import { useRouter } from 'next/navigation';
 import { fa } from 'zod/locales';
+import authFetch from '@/lib/auth/authFetch';
 
 function page() {
   const [name, setName] = useState<string>('');
   const [age, setAge] = useState<string>('');
-  const [clas, setClas] = useState<string>('4');
+  const [clas, setClas] = useState<string>('Select a class');
   const [loading, setLoading] = useState<boolean>(false);
   const [next, setNext] = useState<boolean>(false);
   const router = useRouter();
@@ -21,31 +22,25 @@ function page() {
     setLoading(true);
     const data = {
       name,
-      age,
       class: clas,
     };
-
-    const profile = await fetch('/api/profile/updateOrCreateProfile', {
-      method: 'PUT',
-      credentials: 'include',
-      body: JSON.stringify(data),
-    });
-
-    const res = await profile.json();
-
-    if (res.message == 'jwt expired') {
-      await fetch('api/auth/refresh', {
-        credentials: 'include',
-        method: 'GET',
-      });
-
-      handleSubmit(e);
+    const options = {
+      method: "POST",
+      body: JSON.stringify(data)
     }
+    const url = '/api/user/updateUser'
+
+    const profile = await authFetch({url, options})
+
+    
+
+    console.log(profile)
+
+    
 
     setLoading(false);
-
-    if (profile.ok) {
-      setNext(true);
+    if (profile.message.class) {
+      router.push('/dashboard')
     }
   };
 

@@ -3,6 +3,7 @@ import { Input } from '@/components/ui/input';
 import { Button } from '@/components/ui/button';
 import { useRouter } from 'next/navigation';
 import { ReactElement, useRef, useState } from 'react';
+import { signIn } from 'next-auth/react';
 
 export default function LoginPage() {
   const [name, setName] = useState<string>('');
@@ -35,6 +36,8 @@ export default function LoginPage() {
       credentials: 'include',
     });
 
+   
+
     const res = await user.json();
 
     const isFirstTime = res?.user?.firstTime;
@@ -45,6 +48,11 @@ export default function LoginPage() {
       router.push('/dashboard');
     }
   };
+   const handleLoginWithGoogle = async () => {
+        await signIn('google', {
+          callbackUrl: '/dashborad',
+        });
+      };
 
   const router = useRouter();
   return (
@@ -116,7 +124,7 @@ export default function LoginPage() {
                 className="absolute top-4 right-9 border border-white/20
                               bg-white/5 
                               backdrop-blur-xl 
-                              shadow-[0_0_80px_rgba(0,255,255,0.25)] p-2 w-max rounded-md h-10 text-center flex justify-center items-center"
+                              shadow-[0_0_80px_rgba(0,255,255,0.25)] p-2 w-max   h-10 text-center flex justify-center items-center"
               >
                 <svg
                   width="20"
@@ -136,7 +144,7 @@ export default function LoginPage() {
                 className=" absolute bottom-4 left-9 border border-white/20
                               bg-white/5 
                               backdrop-blur-xl 
-                              shadow-[0_0_80px_rgba(0,255,255,0.25)] p-2 w-max rounded-md h-10 text-center flex justify-center items-center"
+                              shadow-[0_0_80px_rgba(0,255,255,0.25)] p-2 w-max   h-10 text-center flex justify-center items-center"
               >
                 <svg
                   width="22"
@@ -187,7 +195,7 @@ export default function LoginPage() {
 
             {/* Google Button */}
             <div className="w-full h-full justify-center items-center  flex flex-col gap-8">
-              <Button className="text-black bg-primary-foreground w-full md:w-3/5 flex items-center justify-center gap-2">
+              <Button className="text-black bg-primary-foreground w-full md:w-3/5 flex items-center justify-center gap-2" onClick={handleLoginWithGoogle}>
                 <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
                   <g clipPath="url(#clip0_0_1818)">
                     <path
