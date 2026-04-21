@@ -22,7 +22,7 @@ export function proxy(req: NextRequest) {
   
   if (
     (!accessToken || !refreshToken) &&
-    !pathname.startsWith('/home') &&
+    !pathname.startsWith('/') &&
     !pathname.startsWith('/login') &&
     !pathname.startsWith('/register')
   ) {
