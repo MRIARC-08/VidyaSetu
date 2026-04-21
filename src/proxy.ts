@@ -22,9 +22,9 @@ export function proxy(req: NextRequest) {
   
   if (
     (!accessToken || !refreshToken) &&
-    !pathname.startsWith('/') &&
-    !pathname.startsWith('/login') &&
-    !pathname.startsWith('/register')
+    pathname.startsWith('/dashboard') ||
+    pathname.startsWith('/ncert') ||
+    pathname.startsWith('/performance')
   ) {
     return NextResponse.redirect(new URL('/login', req.url));
   } else if (
