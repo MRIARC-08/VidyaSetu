@@ -21,14 +21,13 @@ export function proxy(req: NextRequest) {
 
   
   if (
-    (!accessToken || !refreshToken) &&
-    pathname.startsWith('/dashboard') ||
+    (!refreshToken) &&
+    (pathname.startsWith('/dashboard') ||
     pathname.startsWith('/ncert') ||
-    pathname.startsWith('/performance')
+    pathname.startsWith('/performance'))
   ) {
     return NextResponse.redirect(new URL('/login', req.url));
   } else if (
-    accessToken &&
     refreshToken &&
     (pathname.startsWith('/register') || pathname.startsWith('/login'))
   ) {
