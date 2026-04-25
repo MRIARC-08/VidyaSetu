@@ -1,6 +1,6 @@
+import { NcertController } from '@/modules/ncert/ncert.controller';
 import { NextResponse } from 'next/server';
 
-export async function GET() {
-  // TODO: Implement subjects endpoint
-  return NextResponse.json({ message: 'Not implemented' }, { status: 501 });
+export async function GET(req: Request) {
+  return await NcertController.getSubjects(req);
 }

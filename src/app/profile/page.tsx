@@ -25,22 +25,18 @@ function page() {
       class: clas,
     };
     const options = {
-      method: "POST",
-      body: JSON.stringify(data)
-    }
-    const url = '/api/user/updateUser'
+      method: 'POST',
+      body: JSON.stringify(data),
+    };
+    const url = '/api/user/updateUser';
 
-    const profile = await authFetch({url, options})
+    const profile = await authFetch({ url, options });
 
-    
-
-    console.log(profile)
-
-    
+    console.log(profile);
 
     setLoading(false);
     if (profile.message.class) {
-      router.push('/dashboard')
+      router.push('/dashboard');
     }
   };
 

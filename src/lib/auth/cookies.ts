@@ -9,7 +9,7 @@ export class SetCookies {
       secure: true,
       sameSite: 'lax',
       path: '/',
-      maxAge: 7 * 24 * 60 * 60, 
+      maxAge: 7 * 24 * 60 * 60,
     });
   }
 
@@ -20,14 +20,13 @@ export class SetCookies {
       secure: true,
       sameSite: 'lax',
       path: '/',
-      maxAge: 15 * 60, 
+      maxAge: 15 * 60,
     });
   }
 
   static async verifyCookies() {
     const cookieStore = await cookies();
     const access_token = cookieStore.get('access_token');
-
 
     if (access_token) {
       return jwtService.verifyAccessToken(access_token.value);

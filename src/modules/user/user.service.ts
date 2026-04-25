@@ -31,9 +31,10 @@ export default class UserServices {
 
     const rawData = 'data' in payload && payload.data ? payload.data : payload;
 
-    
     const cleanedData = Object.fromEntries(
-      Object.entries(rawData).filter(([, value]) => value !== undefined && value !== null)
+      Object.entries(rawData).filter(
+        ([, value]) => value !== undefined && value !== null
+      )
     ) as UserUpdateData;
 
     if (Object.keys(cleanedData).length === 0) {

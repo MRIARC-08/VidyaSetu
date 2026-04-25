@@ -90,7 +90,10 @@ export default function page() {
         <div className="flex gap-8 pt-12">
           {classData.map((val) => {
             return (
-              <div key={val.title} className="flex flex-col w-[20%] bg-white p-8 gap-8 relative group hover:bg-primary transition-all duration-500 hover:text-white z-3">
+              <div
+                key={val.title}
+                className="flex flex-col w-[20%] bg-white p-8 gap-8 relative group hover:bg-primary transition-all duration-500 hover:text-white z-3"
+              >
                 <div className="absolute text-[240px]  -right-3 -top-8  font-extrabold text-accent/40 -z-1">
                   {val.class}
                 </div>

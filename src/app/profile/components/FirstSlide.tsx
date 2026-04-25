@@ -1,4 +1,4 @@
-'use client'
+'use client';
 import { strict } from 'assert';
 import { useRouter } from 'next/navigation';
 
@@ -23,8 +23,7 @@ function FirstSlide({
   setClas,
   loading,
 }: SlideProps) {
-
-  const router = useRouter()
+  const router = useRouter();
   return (
     <div className="h-screen w-screen flex justify-center items-center bg-accent">
       <div className="flex justify-center gap-8  flex-col shadow-xl p-8 bg-white    w-[50%]">
@@ -113,7 +112,9 @@ function FirstSlide({
               <option selected hidden disabled>
                 Select Class
               </option>
-              <option selected disabled>Select a class</option>
+              <option selected disabled>
+                Select a class
+              </option>
               <option value="9">9</option>
               <option value="10">10</option>
               <option value="11">11</option>
@@ -129,7 +130,12 @@ function FirstSlide({
           >
             Continue
           </button>
-          <div className="cursor-pointer text-black/60" onClick={()=>(router.push('/dashboard'))} >Skip for now</div>
+          <div
+            className="cursor-pointer text-black/60"
+            onClick={() => router.push('/dashboard')}
+          >
+            Skip for now
+          </div>
         </div>
       </div>
     </div>

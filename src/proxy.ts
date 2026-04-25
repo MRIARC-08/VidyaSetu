@@ -4,9 +4,9 @@ import { jwtService } from './lib/auth/jwt';
 
 export function proxy(req: NextRequest) {
   const { pathname } = req.nextUrl;
-  console.log(pathname)
+
   const requestHeaders = new Headers(req.headers);
-  requestHeaders.set("x-pathname", pathname);
+  requestHeaders.set('x-pathname', pathname);
   if (
     pathname.startsWith('/_next') ||
     pathname.startsWith('/api') ||
@@ -19,12 +19,11 @@ export function proxy(req: NextRequest) {
 
   const refreshToken = req.cookies.get('refresh_token');
 
-  
   if (
-    (!refreshToken) &&
+    !refreshToken &&
     (pathname.startsWith('/dashboard') ||
-    pathname.startsWith('/ncert') ||
-    pathname.startsWith('/performance'))
+      pathname.startsWith('/ncert') ||
+      pathname.startsWith('/performance'))
   ) {
     return NextResponse.redirect(new URL('/login', req.url));
   } else if (
@@ -35,9 +34,9 @@ export function proxy(req: NextRequest) {
   }
 
   return NextResponse.next({
-    request : {
-      headers: requestHeaders
-    }
+    request: {
+      headers: requestHeaders,
+    },
   });
 }
 
@@ -52,4 +51,4 @@ export const config = {
      */
     '/((?!api|_next/static|_next/image|favicon.ico).*)',
   ],
-}
+};

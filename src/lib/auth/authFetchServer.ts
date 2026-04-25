@@ -11,14 +11,12 @@
 // }
 // const authFetchServer = async(cal: any)=>{
 //     let res = await cal()
-    
-//     console.log(res.status, "===========running============")
-   
 
-    
+//     console.log(res.status, "===========running============")
+
 //     if (res.status === 401){
 //         if (!isRefreshed){
-           
+
 //             isRefreshed = refresh().finally(()=>(
 //                 isRefreshed = null
 //             ))
@@ -32,7 +30,7 @@
 //         }
 //     }
 
-//     return res 
+//     return res
 // }
 
 // export default authFetchServer;

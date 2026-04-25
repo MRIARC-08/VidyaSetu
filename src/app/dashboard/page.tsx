@@ -119,9 +119,9 @@ export default function DashboardPage() {
     };
     const user = await authFetch(data);
 
-    setUser(user)
+    setUser(user);
 
-    console.log(user)
+    console.log(user);
 
     if (user.firstTime) {
       router.push('/profileCompletion');

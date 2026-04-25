@@ -20,17 +20,10 @@ export default function MainLayout({ children }: PropsWithChildren) {
   const [user, setUser] = useState<ProfileProps | null>(null);
   const path = usePathname();
 
+  const routes = ['/dashboard', '/ncert', '/performance'];
 
-  const routes = [
-    '/dashboard',
-    '/ncert',
-    '/performance'
-  ]
-
-  if (!(routes.some(route => path.startsWith(route)))){
-    return (
-      <div className="flex-1 ">{children}</div>
-    )
+  if (!routes.some((route) => path.startsWith(route))) {
+    return <div className="flex-1 ">{children}</div>;
   }
 
   // const getUser = async () => {
@@ -61,10 +54,6 @@ export default function MainLayout({ children }: PropsWithChildren) {
   // useEffect(() => {
   //   getUser();
   // }, []);
-
- 
-
-
 
   const elements = [
     {
@@ -117,8 +106,6 @@ export default function MainLayout({ children }: PropsWithChildren) {
       ),
     },
   ];
-
-
 
   return (
     <div className="w-screen flex ">

@@ -1,15 +1,12 @@
-
 let refreshPromise: Promise<boolean> | null = null;
 
 const refresh = async (): Promise<boolean> => {
-    const res = await fetch('/api/auth/refresh', {
-      method: 'GET',
-      credentials: 'include',
-    });
+  const res = await fetch('/api/auth/refresh', {
+    method: 'GET',
+    credentials: 'include',
+  });
 
-    console.log(res, "=====")
-
-    return res.ok;
+  return res.ok;
 };
 
 const authFetch = async ({
@@ -22,7 +19,6 @@ const authFetch = async ({
   let res = await fetch(url, { ...options, credentials: 'include' });
 
   if (res.status === 401) {
-    
     if (!refreshPromise) {
       refreshPromise = refresh().finally(() => {
         refreshPromise = null;
@@ -30,7 +26,6 @@ const authFetch = async ({
     }
 
     const refreshed = await refreshPromise;
-    console.log(refreshed);
 
     if (refreshed) {
       res = await fetch(url, { ...options, credentials: 'include' });

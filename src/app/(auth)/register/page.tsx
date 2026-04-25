@@ -36,8 +36,6 @@ export default function LoginPage() {
       credentials: 'include',
     });
 
-   
-
     const res = await user.json();
 
     const isFirstTime = res?.user?.firstTime;
@@ -48,11 +46,11 @@ export default function LoginPage() {
       router.push('/dashboard');
     }
   };
-   const handleLoginWithGoogle = async () => {
-        await signIn('google', {
-          callbackUrl: '/dashborad',
-        });
-      };
+  const handleLoginWithGoogle = async () => {
+    await signIn('google', {
+      callbackUrl: '/dashborad',
+    });
+  };
 
   const router = useRouter();
   return (
@@ -195,7 +193,10 @@ export default function LoginPage() {
 
             {/* Google Button */}
             <div className="w-full h-full justify-center items-center  flex flex-col gap-8">
-              <Button className="text-black bg-primary-foreground w-full md:w-3/5 flex items-center justify-center gap-2" onClick={handleLoginWithGoogle}>
+              <Button
+                className="text-black bg-primary-foreground w-full md:w-3/5 flex items-center justify-center gap-2"
+                onClick={handleLoginWithGoogle}
+              >
                 <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
                   <g clipPath="url(#clip0_0_1818)">
                     <path
