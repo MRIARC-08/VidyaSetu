@@ -35,8 +35,6 @@ export default function LoginPage() {
 
     const result = await user.json();
 
-    console.log(result);
-
     if (result.user.firstTime) {
       router.push('/profile');
     } else {
@@ -51,7 +49,7 @@ export default function LoginPage() {
   };
 
   return (
-    <main className="bg-secondary h-screen w-screen flex overflow-hidden">
+    <main className="bg-accent/40 h-screen w-screen flex overflow-hidden">
       <div
         className="flex-1 h-screen bg-indigo-600  bg-gradient-to-br from-[#4F46E5] to-[#1325EC]
         [background-image:radial-gradient(rgba(255,255,255,0.15)_1px,transparent_1px)] 

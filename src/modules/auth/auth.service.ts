@@ -107,8 +107,9 @@ export class AuthServices {
 
   static async refreshToken(token: string) {
     let stored = await AuthRepository.findRefreshToken(token);
-
+    console.log(stored);
     if (!stored || stored.expiresAt <= new Date()) {
+      // might cause problem later,, will have to see later in another versions
       SetCookies.deleteCookies();
       throw new Error('Invalid or expired refresh token');
     }
@@ -130,6 +131,7 @@ export class AuthServices {
     return {
       refreshToken: newRefreshToken,
       accessToken,
+      userId: user?.id,
     };
   }
 }

@@ -39,14 +39,22 @@ export class AuthControllers {
     try {
       const cookieStore = await cookies();
       const token = cookieStore.get('refresh_token');
+      console.log(token, '===========token===========');
       const { refreshToken, accessToken } = await AuthServices.refreshToken(
         token?.value!
       );
+      console.log(
+        refreshToken,
+        accessToken,
+        'kdfkjbadlfgfd===========afsgdfgagadfgadf==========-----------'
+      );
+
+      console.log(refreshToken, accessToken);
       await SetCookies.setAccesstoken(accessToken);
       await SetCookies.setRefreshtoken(refreshToken);
       return NextResponse.json({ message: 'refreshed' }, { status: 200 });
     } catch (error: any) {
-      return NextResponse.json({ message: error.message }, { status: 481 });
+      return NextResponse.json({ message: error.message }, { status: 401 });
     }
   }
 

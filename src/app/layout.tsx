@@ -20,7 +20,9 @@ export default async function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${manrope.variable}  antialiased `}><MainLayout>{children}</MainLayout></body>
+      <body className={`${manrope.variable}  antialiased `}>
+        <MainLayout>{children}</MainLayout>
+      </body>
     </html>
   );
 }

@@ -5,7 +5,7 @@ function SecondSlide() {
   const router = useRouter();
   return (
     <div className="h-screen w-screen flex justify-center items-center bg-accent">
-      <div className="flex justify-center items-center gap-8  flex-col shadow-xl p-8 bg-white rounded-md  w-[50%]">
+      <div className="flex justify-center items-center gap-8  flex-col shadow-xl p-8 bg-white    w-[50%]">
         <div className="bg-button/10 w-max p-4 rounded-full ">
           <svg
             width="54"
@@ -32,8 +32,8 @@ function SecondSlide() {
           <p className="text-[16px] font-medium">What's next for you?</p>
           <div>
             <div className="flex gap-8 ">
-              <div className="flex bg-button/3 flex-1 p-2 rounded-md gap-4">
-                <div className="p-4 bg-button/5 h-max rounded-md">
+              <div className="flex bg-button/3 flex-1 p-2   gap-4">
+                <div className="p-4 bg-button/5 h-max  ">
                   <svg
                     width="20"
                     height="20"
@@ -55,8 +55,8 @@ function SecondSlide() {
                 </div>
               </div>
 
-              <div className="flex bg-button/3 flex-1 p-2 rounded-md gap-4">
-                <div className="p-4 bg-button/5 h-max rounded-md">
+              <div className="flex bg-button/3 flex-1 p-2   gap-4">
+                <div className="p-4 bg-button/5 h-max  ">
                   <svg
                     width="22"
                     height="16"
@@ -84,13 +84,13 @@ function SecondSlide() {
 
         <div className="flex w-full gap-8 justify-center items-center">
           <button
-            className="bg-button flex-1 p-2 rounded-md text-center text-white font-bold cursor-pointer shadow-xl"
+            className="bg-button flex-1 p-2   text-center text-white font-bold cursor-pointer shadow-xl"
             onClick={() => router.push('/dashboard')}
           >
             Go To Dashboard
           </button>
           <button
-            className="flex-1 cursor-pointer text-black/60 text-center bg-accent p-2 rounded-md"
+            className="flex-1 cursor-pointer text-black/60 text-center bg-accent p-2  "
             onClick={() => router.push('/me')}
           >
             View Profile

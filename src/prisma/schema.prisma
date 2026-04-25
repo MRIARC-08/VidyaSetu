@@ -12,6 +12,7 @@ model User {
   name             String?
   email            String            @unique
   password         String?
+  class            String?        
   image            String?
   role             UserRole          @default(STUDENT)
   isEmailVerified  Boolean           @default(false)
@@ -25,7 +26,6 @@ model User {
   aigenerationLogs AIGenerationLog[]
   accounts         Account[]
   notes            Note[]
-  profile          Profile?
   quizzes          Quiz[]
   quizSessions     QuizSession[]
   refreshTokens    RefreshToken[]
@@ -33,19 +33,6 @@ model User {
 
   @@index([email])
 }
-
-model Profile {
-  name             String
-  image            String?
-  id               String   @id @default(uuid())
-  user             User     @relation(fields: [userId], references: [id])
-  userId           String   @unique
-  age              String
-  class            String
-  createdAt        DateTime @default(now())
-  profileCompleted Boolean  @default(false)
-}
-
 model Account {
   id                String       @id @default(uuid())
   userId            String

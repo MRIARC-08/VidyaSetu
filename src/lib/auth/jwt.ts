@@ -29,7 +29,8 @@ class JwtServices {
   }
 
   verifyAccessToken(token: string): AccessTokenPayload {
-    return jwt.verify(token, this.secret) as AccessTokenPayload;
+    const res = jwt.verify(token, this.secret) as AccessTokenPayload;
+    return res;
   }
 
   decodeAccessToken(token: string) {

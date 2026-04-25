@@ -1,6 +1,8 @@
+import AnalyticsController from '@/modules/analytics/analytics.controller';
 import { NextResponse } from 'next/server';
 
-export async function GET() {
+export async function GET(req: Request) {
   // TODO: Implement analytics overview
-  return NextResponse.json({ message: 'Not implemented' }, { status: 501 });
+
+  return AnalyticsController.getAnalytics(req);
 }

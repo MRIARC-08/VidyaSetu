@@ -1,6 +1,5 @@
 import { NcertController } from '@/modules/ncert/ncert.controller';
-import { NextResponse } from 'next/server';
 
 export async function GET(req: Request) {
-  return NcertController.getChapters(req);
+  return await NcertController.getChapter(req);
 }

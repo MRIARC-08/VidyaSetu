@@ -450,7 +450,7 @@
   .rounded-full {
     border-radius: calc(infinity * 1px);
   }
-  .rounded-md {
+  .  {
     border-radius: calc(var(--radius) - 2px);
   }
   .rounded-xl {

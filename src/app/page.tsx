@@ -50,21 +50,18 @@ export default function Home() {
               <Button
                 text="get started"
                 action={() => router.push('/dashboard')}
-               
-  color=""
-  textCol=""
-  additional=""
-  hover=""
-
-                
+                color=""
+                textCol=""
+                additional=""
+                hover=""
               />
               <Button
                 text="view curriculam"
                 action={() => router.push('/ncert')}
                 color=""
-  textCol=""
-  additional=""
-  hover=""
+                textCol=""
+                additional=""
+                hover=""
               />
             </div>
           </div>
@@ -227,50 +224,44 @@ export default function Home() {
               color="bg-white"
               textCol="text-black"
               hover="hover:bg-white"
-             
-  
-  additional=""
-    action=""
+              additional=""
+              action=""
             ></Button>
 
             <Button
               text="Request Demo"
               additional="border border-accent/40 "
               color=""
-               
-  
-  textCol=""
- 
-  hover=""
-  
-  action=''
+              textCol=""
+              hover=""
+              action=""
             ></Button>
           </div>
         </div>
       </div>
       <div className="h-max bg-accent/40">
-        <div className='flex p-20 gap-20'>
-          <div className='flex-1 flex flex-col gap-4 '>
-            <p className='font-bold'>Vidyasetu</p>
+        <div className="flex p-20 gap-20">
+          <div className="flex-1 flex flex-col gap-4 ">
+            <p className="font-bold">Vidyasetu</p>
             <p>
               Redefining academic preparation through authoritative AI curation
               and architectural design.
             </p>
           </div>
-          <div className='flex-1 flex flex-col gap-4 '>
+          <div className="flex-1 flex flex-col gap-4 ">
             <p>Platform</p> <p>Adaptive Quizzes</p>
             <p>NCERT Maps</p>
             <p>Performance Analytics</p>
             <p>Revision Modules</p>
           </div>
-          <div className='flex-1 flex flex-col gap-4 '>
+          <div className="flex-1 flex flex-col gap-4 ">
             <p>Institution</p>
             <p>About the Curator</p>
             <p>Research Methodology</p>
             <p>Privacy Charter</p>
             <p>Help Center</p>
           </div>
-          <div className='flex-1 flex flex-col gap-4 '>
+          <div className="flex-1 flex flex-col gap-4 ">
             <p>Connect</p>
             <svg
               width="19"
