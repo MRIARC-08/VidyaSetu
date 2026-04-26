@@ -3,6 +3,7 @@ import authFetch from '@/lib/auth/authFetch';
 import { get, METHODS } from 'http';
 import { use, useEffect, useState } from 'react';
 import { object } from 'zod';
+import { SubjectCatalogSkeleton } from '@/components/Skeletons';
 
 import { ReactNode } from 'react';
 import {
@@ -34,6 +35,8 @@ export default function page() {
   const [subs, setSubs] = useState<Subjects[]>([]);
   const [chapter, setChapters] = useState(null);
   const [focusSubject, setFocusSubject] = useState<Subjects>();
+  const [isLoading, setIsLoading] = useState(true);
+
   const getUser = async () => {
     const url = '/api/user/getUser';
     const options = {
@@ -79,29 +82,15 @@ export default function page() {
     }
   };
 
-  // const getChapters = async ()=>{
-  //   const id = focusSubject?.id
-  //   const url = '/api/ncert/chapters'
-  //   const options = {
-  //     method: "GET",
-  //     body: JSON.stringify(id)
-  //   }
-
-  //   const res = await authFetch({url, options})
-
-  //   console.log(res)
-
-  // }
-
-  // const call = async()=>(
-  //   await getUser())
-
   useEffect(() => {
-    // call()
-    getUser();
-    getSubjects();
-    // getChapters()
+    Promise.all([getUser(), getSubjects()]).finally(() => {
+      setIsLoading(false);
+    });
   }, []);
+
+  if (isLoading) {
+    return <SubjectCatalogSkeleton />;
+  }
 
   return (
     <div className="bg-background min-h-screen flex flex-col p-8 gap-8">
@@ -152,17 +141,6 @@ export default function page() {
         </div>
       </div>
 
-      <div>
-        <div>
-          <p className="text-2xl font-bold ">{focusSubject?.name} Curriculum</p>
-          <p className="text-[14px] text-black/60 w-[40%]">
-            A systematic breakdown of the {focusSubject?.name} syllabus for the
-            competitive session.
-          </p>
-        </div>
-
-        <div></div>
-      </div>
     </div>
   );
 }

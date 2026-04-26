@@ -3,6 +3,7 @@
 import authFetch from '@/lib/auth/authFetch';
 import { useParams } from 'next/navigation';
 import { useEffect, useState } from 'react';
+import { ChapterPageSkeleton } from '@/components/Skeletons';
 
 interface CHapterProps {
   id: string;
@@ -20,24 +21,32 @@ export default function NcertChapterPage() {
   }>();
 
   const [chapter, setChapter] = useState<CHapterProps>();
+  const [isLoading, setIsLoading] = useState(true);
 
   const getChaptr = async () => {
-    const url = `/api/ncert/chapter?chapter=${params.chapter}`;
+    try {
+      const url = `/api/ncert/chapter?chapter=${params.chapter}`;
 
-    const res = await authFetch({
-      url,
-      options: {
-        method: 'GET',
-      },
-    });
+      const res = await authFetch({
+        url,
+        options: {
+          method: 'GET',
+        },
+      });
 
-    setChapter(res.message);
+      setChapter(res.message);
+    } finally {
+      setIsLoading(false);
+    }
   };
 
   useEffect(() => {
     getChaptr();
-    
   }, []);
+
+  if (isLoading) {
+    return <ChapterPageSkeleton />;
+  }
 
   const src = `https://docs.google.com/viewer?url=${encodeURIComponent(chapter?.pdf!)}&embedded=true`;
 

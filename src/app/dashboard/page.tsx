@@ -23,6 +23,7 @@ export default function DashboardPage() {
       name: 'chapter quiz',
       brief: 'Test your retention on recent modules in Quantum Mechanics.',
       action: 'launch',
+      href: `/ncert`,
       icon: (
         <svg
           width="22"
@@ -43,6 +44,7 @@ export default function DashboardPage() {
       name: 'Upload Notes',
       brief: 'Convert handwritten pages into structured study guides.',
       action: 'sync',
+      href: `/`,
       icon: (
         <svg
           width="18"
@@ -77,6 +79,7 @@ export default function DashboardPage() {
       name: 'Revision Mode',
       brief: 'Spaced-repetition algorithm focusing on weak concepts.',
       action: 'enter',
+      href: `/ncert`,
       icon: (
         <svg
           width="21"
@@ -119,7 +122,7 @@ export default function DashboardPage() {
     };
     const user = await authFetch(data);
 
-    setUser(user);
+    setUser(user.user);
 
     console.log(user);
 
@@ -177,7 +180,7 @@ export default function DashboardPage() {
       {/* top */}
       <div className="flex justify-between">
         <div>
-          <p className="text-3xl font-bold">Welcome back, {user?.name}!</p>
+          <p className="text-3xl font-bold">Welcome back, {user?.name ? user.name: user?.email.split("@")[0]}!</p>
 
           <p className="text-[14px] text-accent  font-light ">
             Focus remains your greatest asset. Continue your curriculum below.
@@ -217,9 +220,10 @@ export default function DashboardPage() {
         <div className="flex  md:flex-row flex-col md:w-[60%]  gap-8 pt-8 w-screen md:justify-normal justify-center items-center pl-2 pr-2 ">
           {quickCards.map((val) => {
             return (
-              <div
+              <a
                 className="bg-white p-8 md:w-[60%] shadow-2xs w-max h-60 flex flex-col min-h-max  gap-4 cursor-pointer hover:shadow-2xs transition-all duration-300"
                 key={val.name}
+                href={val.href}
               >
                 <div>{val.icon}</div>
                 <div className="font-bold w-max capitalize">{val.name}</div>
@@ -246,7 +250,7 @@ export default function DashboardPage() {
                     </svg>
                   </div>
                 </div>
-              </div>
+              </a>
             );
           })}
         </div>
@@ -254,13 +258,17 @@ export default function DashboardPage() {
 
       {/* performance history */}
 
-      <div>
+      <div className='flex flex-col gap-4 w-full h-full flex-1'>
         <div className="flex justify-between font-bold uppercase text-[12px]">
           <div>performance history </div>
           <a href="">view archive</a>
         </div>
 
-        <table>
+        <div className='bg-accent/40 flex-1 h-full flex justify-center items-center cursor-pointer hover:bg-accent/20 transition-all duration-300'>
+          <p className='font-semibold  '>NO RECORDS YET</p>
+        </div>
+
+        {/* <table>
           <thead>
             <tr>
               <td>subject</td>
@@ -293,7 +301,7 @@ export default function DashboardPage() {
               </td>
             </tr>
           </tbody>
-        </table>
+        </table> */}
       </div>
     </div>
   );
