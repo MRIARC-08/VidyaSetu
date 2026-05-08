@@ -1,3 +1,6 @@
+###Live : https://vidya-setu-pi.vercel.app/
+
+
 # VidyaSetu
 
 AI-Powered Adaptive Study & Assessment Platform
