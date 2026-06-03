@@ -20,9 +20,9 @@ const handler = NextAuth({
       try {
         const result = await AuthServices.handleGoogleService({
           email: user.email,
-          name: user.name,
-          image: user.image,
-          providerAccountId: account.providerAccountId,
+          name: user.name ?? null,
+          image: user.image ?? null,
+          providerAccountId: account!.providerAccountId,
         });
 
         await SetCookies.setAccesstoken(result.accessToken);
