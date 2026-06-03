@@ -1,5 +1,5 @@
 import { AuthControllers } from '@/modules/auth/auth.controller';
 
-export async function GET(req: Request) {
-  return AuthControllers.refresh(req);
+export async function GET() {
+  return AuthControllers.refresh();
 }

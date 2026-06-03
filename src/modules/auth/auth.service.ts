@@ -1,11 +1,20 @@
-import { prisma } from '@/lib/prisma';
 import { AuthRepository } from './auth.repository';
 
-import { email, string } from 'zod';
 import bcrypt from 'bcrypt';
 import { jwtService } from '@/lib/auth/jwt';
-import { redirect } from 'next/navigation';
-import { SetCookies } from '@/lib/auth/cookies';
+
+export class AuthServiceError extends Error {
+  constructor(
+    message: string,
+    public readonly statusCode = 400
+  ) {
+    super(message);
+    this.name = 'AuthServiceError';
+  }
+}
+
+const INVALID_CREDENTIALS_MESSAGE = 'Invalid email or password';
+const INVALID_REFRESH_TOKEN_MESSAGE = 'Invalid or expired refresh token';
 
 export class AuthServices {
   static async handleGoogleService(data: {
@@ -45,14 +54,16 @@ export class AuthServices {
   }
 
   static async handleRegister(data: { email: string; password: string }) {
-    let user = await AuthRepository.findUserByEmail(data.email);
+    const existingUser = await AuthRepository.findUserByEmail(data.email);
 
-    if (!user) {
-      user = await AuthRepository.registerUser({
-        email: data.email,
-        password: data.password,
-      });
+    if (existingUser) {
+      throw new AuthServiceError('Email is already registered', 409);
     }
+
+    const user = await AuthRepository.registerUser({
+      email: data.email,
+      password: data.password,
+    });
 
     const accessToken = jwtService.generateAccessToken({
       id: user.id,
@@ -69,17 +80,17 @@ export class AuthServices {
     };
   }
 
-  static async HandleloginUser(data: { email: string; password: string }) {
-    let user = await AuthRepository.findUserByEmail(data.email);
+  static async handleLoginUser(data: { email: string; password: string }) {
+    const user = await AuthRepository.findUserByEmail(data.email);
 
     if (!user || !user.password) {
-      throw new Error('invalid credentials');
+      throw new AuthServiceError(INVALID_CREDENTIALS_MESSAGE, 401);
     }
 
-    let isMatch = await bcrypt.compare(data.password, user.password);
+    const isMatch = await bcrypt.compare(data.password, user.password);
 
     if (!isMatch) {
-      throw new Error('invalid credentials');
+      throw new AuthServiceError(INVALID_CREDENTIALS_MESSAGE, 401);
     }
 
     const accessToken = jwtService.generateAccessToken({
@@ -105,33 +116,43 @@ export class AuthServices {
     return AuthRepository.createRefreshToken(userId);
   }
 
-  static async refreshToken(token: string) {
-    let stored = await AuthRepository.findRefreshToken(token);
-    console.log(stored);
-    if (!stored || stored.expiresAt <= new Date()) {
-      // might cause problem later,, will have to see later in another versions
-      SetCookies.deleteCookies();
-      throw new Error('Invalid or expired refresh token');
+  static async refreshToken(token?: string) {
+    if (!token) {
+      throw new AuthServiceError(INVALID_REFRESH_TOKEN_MESSAGE, 401);
     }
 
-    await AuthRepository.deleteRefreshToken(token);
+    const stored = await AuthRepository.findRefreshToken(token);
 
-    const newRefreshToken = await AuthRepository.createRefreshToken(
-      stored.userId
+    if (!stored || stored.expiresAt <= new Date()) {
+      if (stored) {
+        await AuthRepository.deleteRefreshToken(token);
+      }
+
+      throw new AuthServiceError(INVALID_REFRESH_TOKEN_MESSAGE, 401);
+    }
+
+    const user = await AuthRepository.findUserByid(stored.userId);
+
+    if (!user) {
+      await AuthRepository.deleteRefreshToken(token);
+      throw new AuthServiceError(INVALID_REFRESH_TOKEN_MESSAGE, 401);
+    }
+
+    const newRefreshToken = await AuthRepository.rotateRefreshToken(
+      token,
+      user.id
     );
 
-    let user = await AuthRepository.findUserByid(stored.userId);
-
     const accessToken = jwtService.generateAccessToken({
-      id: user!.id,
-      role: user!.role,
-      isProfileCompleted: user!.firstTime,
+      id: user.id,
+      role: user.role,
+      isProfileCompleted: user.firstTime,
     });
 
     return {
       refreshToken: newRefreshToken,
       accessToken,
-      userId: user?.id,
+      userId: user.id,
     };
   }
 }
