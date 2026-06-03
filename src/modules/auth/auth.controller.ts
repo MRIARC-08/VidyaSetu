@@ -63,37 +63,6 @@ export class AuthControllers {
 
   static async googleLogin(req: Request) {
     try {
-      const { searchParams } = new URL(req.url);
-
-      const email = searchParams.get('email')!;
-      const name = searchParams.get('name');
-      const image = searchParams.get('image');
-      const providerAccountId = searchParams.get('providerAccountId')!;
-
-      const result = await AuthServices.handleGoogleService({
-        email,
-        name,
-        image,
-        providerAccountId,
-      });
-
-      // const res = NextResponse.redirect(new URL("/dashboard", req.url))
-
-      // res.cookies.set("access_token", result.accessToken, {
-      //   httpOnly: true,
-      //   sameSite: "lax",
-      //   path: "/"
-      // })
-
-      // res.cookies.set("refresh_token", result.refreshToken, {
-      //   httpOnly: true,
-      //   sameSite: "lax",
-      //   path: "/"
-      // })
-
-      await SetCookies.setAccesstoken(result.accessToken);
-      await SetCookies.setRefreshtoken(result.refreshToken);
-
       return NextResponse.redirect(new URL('/dashboard', req.url));
     } catch (error: unknown) {
       return authErrorResponse(error, 401);

@@ -1,5 +1,7 @@
 import NextAuth from 'next-auth';
 import GoogleProvider from 'next-auth/providers/google';
+import { AuthServices } from '@/modules/auth/auth.service';
+import { SetCookies } from '@/lib/auth/cookies';
 
 const handler = NextAuth({
   providers: [
@@ -11,11 +13,25 @@ const handler = NextAuth({
 
   callbacks: {
     async signIn({ user, account }) {
-      if (account?.provider === 'google') {
-        return `${process.env.NEXTAUTH_URL}/api/auth/oauth/google?email=${user.email}&name=${user.name}&image=${user.image}&providerAccountId=${account.providerAccountId}`;
+      if (account?.provider !== 'google' || !user.email) {
+        return false;
       }
 
-      return true;
+      try {
+        const result = await AuthServices.handleGoogleService({
+          email: user.email,
+          name: user.name ?? null,
+          image: user.image ?? null,
+          providerAccountId: account!.providerAccountId,
+        });
+
+        await SetCookies.setAccesstoken(result.accessToken);
+        await SetCookies.setRefreshtoken(result.refreshToken);
+
+        return true;
+      } catch {
+        return false;
+      }
     },
   },
 });
