@@ -1,5 +1,5 @@
 import { SetCookies } from '@/lib/auth/cookies';
-import { AuthServices } from '@/modules/auth/auth.service';
+import { AuthServiceError, AuthServices } from '@/modules/auth/auth.service';
 import { cookies } from 'next/headers';
 import { NextResponse } from 'next/server';
 
@@ -19,11 +19,17 @@ export async function GET() {
       { status: 200 }
     );
   } catch (error: unknown) {
+    if (error instanceof AuthServiceError) {
+      return NextResponse.json(
+        { error: error.message },
+        { status: error.statusCode }
+      );
+    }
+
     await SetCookies.deleteCookies();
-
-    const message =
-      error instanceof Error ? error.message : 'Authentication request failed';
-
-    return NextResponse.json({ error: message }, { status: 401 });
+    return NextResponse.json(
+      { error: 'Internal server error' },
+      { status: 500 }
+    );
   }
 }
