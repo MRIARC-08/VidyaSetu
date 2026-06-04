@@ -1,11 +1,9 @@
 'use client';
 
 import authFetch from '@/lib/auth/authFetch';
-import { METHODS } from 'http';
-import { Song_Myung } from 'next/font/google';
 import { useRouter } from 'next/navigation';
-import { afterEach } from 'node:test';
 import { useEffect, useState } from 'react';
+import { ProgressDashboard } from '@/components/ProgressDashboard';
 
 interface UserProps {
   name: string;
@@ -256,17 +254,15 @@ export default function DashboardPage() {
         </div>
       </div>
 
-      {/* performance history */}
+      {/* learning progress */}
 
       <div className='flex flex-col gap-4 w-full h-full flex-1'>
         <div className="flex justify-between font-bold uppercase text-[12px]">
-          <div>performance history </div>
-          <a href="">view archive</a>
+          <div>learning progress </div>
         </div>
 
-        <div className='bg-accent/40 flex-1 h-full flex justify-center items-center cursor-pointer hover:bg-accent/20 transition-all duration-300'>
-          <p className='font-semibold  '>NO RECORDS YET</p>
-        </div>
+        <ProgressDashboard />
+      </div>
 
         {/* <table>
           <thead>
