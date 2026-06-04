@@ -225,7 +225,7 @@ export default function Home() {
               textCol="text-black"
               hover="hover:bg-white"
               additional=""
-              action=""
+              action={() => {}} 
             ></Button>
 
             <Button
@@ -234,7 +234,7 @@ export default function Home() {
               color=""
               textCol=""
               hover=""
-              action=""
+              action={() => {}} 
             ></Button>
           </div>
         </div>
