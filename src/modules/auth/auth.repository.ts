@@ -34,11 +34,16 @@ export class AuthRepository {
     });
   }
 
-  static async registerUser(data: { email: string; password: string }) {
+  static async registerUser(data: {
+    name: string;
+    email: string;
+    password: string;
+  }) {
     const hashedPassword = await bcrypt.hash(data.password, 10);
 
     return prisma.user.create({
       data: {
+        name: data.name,
         email: data.email,
         password: hashedPassword,
       },

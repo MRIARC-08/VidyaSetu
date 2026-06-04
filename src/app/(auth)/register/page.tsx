@@ -2,7 +2,7 @@
 import { Input } from '@/components/ui/input';
 import { Button } from '@/components/ui/button';
 import { useRouter } from 'next/navigation';
-import { ReactElement, useRef, useState } from 'react';
+import { useState } from 'react';
 import { signIn } from 'next-auth/react';
 
 export default function LoginPage() {
@@ -11,8 +11,6 @@ export default function LoginPage() {
   const [password, setPassword] = useState<string>('');
   const [err, setErr] = useState<string>('');
   const [passC, setPassC] = useState<string>('');
-  const status = useRef(null);
-
   const handleSubmit = async (e: React.SyntheticEvent<HTMLFormElement>) => {
     e.preventDefault();
     setErr('');
@@ -32,7 +30,7 @@ export default function LoginPage() {
       headers: {
         'Content-Type': 'application/json',
       },
-      body: JSON.stringify({ email, password }),
+      body: JSON.stringify({ name, email, password }),
       credentials: 'include',
     });
 

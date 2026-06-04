@@ -53,7 +53,11 @@ export class AuthServices {
     };
   }
 
-  static async handleRegister(data: { email: string; password: string }) {
+  static async handleRegister(data: {
+    name: string;
+    email: string;
+    password: string;
+  }) {
     const existingUser = await AuthRepository.findUserByEmail(data.email);
 
     if (existingUser) {
@@ -61,6 +65,7 @@ export class AuthServices {
     }
 
     const user = await AuthRepository.registerUser({
+      name: data.name,
       email: data.email,
       password: data.password,
     });
