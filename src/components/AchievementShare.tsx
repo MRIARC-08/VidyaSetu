@@ -6,7 +6,7 @@ import AchievementBadge from './AchievementBadge';
 interface AchievementShareProps {
   title: string;
   description: string;
-  icon?: string;
+
   level?: 'bronze' | 'silver' | 'gold';
   earnedAt?: string;
 }
@@ -14,7 +14,7 @@ interface AchievementShareProps {
 const AchievementShare: React.FC<AchievementShareProps> = ({
   title,
   description,
-  icon,
+
   level = 'bronze',
   earnedAt,
 }) => {
@@ -67,26 +67,25 @@ const AchievementShare: React.FC<AchievementShareProps> = ({
   };
 
   return (
-    <div className="flex flex-col items-center p-6 bg-white border border-gray-200 rounded-xl max-w-sm w-full text-center shadow-sm">
-      <h2 className="text-lg font-bold text-black mb-4 uppercase tracking-wide">
+    <div className="flex flex-col items-center p-6 bg-white border border-black max-w-sm w-full text-center">
+      <h2 className="text-sm font-bold text-black mb-4 uppercase tracking-widest">
         Achievement Unlocked
       </h2>
 
       {/* Badge preview */}
       <div
         ref={badgeRef}
-        className="flex justify-center mb-5 p-4 bg-white rounded-xl"
+        className="flex justify-center mb-5 p-4 bg-white border border-gray-200 w-full"
       >
         <AchievementBadge
           title={title}
           description={description}
-          icon={icon}
           level={level}
           earnedAt={earnedAt}
         />
       </div>
 
-      <p className="text-sm text-gray-500 mb-4">
+      <p className="text-xs text-gray-500 mb-4 uppercase tracking-wide">
         Share your achievement with the world
       </p>
 
@@ -94,42 +93,42 @@ const AchievementShare: React.FC<AchievementShareProps> = ({
       <div className="flex flex-col gap-2 w-full">
         <button
           onClick={handleTwitter}
-          className="flex items-center justify-center gap-2 w-full bg-black text-white text-sm font-semibold uppercase px-4 py-3 hover:bg-gray-800 transition-all duration-300"
+          className="flex items-center justify-center gap-2 w-full bg-black text-white text-xs font-semibold uppercase tracking-widest px-4 py-3 hover:bg-gray-900 transition-all duration-300"
         >
-          <Twitter className="w-4 h-4" />
+          <Twitter className="w-4 h-4" strokeWidth={1.5} />
           Share on Twitter / X
         </button>
         <button
           onClick={handleWhatsApp}
-          className="flex items-center justify-center gap-2 w-full bg-black text-white text-sm font-semibold uppercase px-4 py-3 hover:bg-gray-800 transition-all duration-300"
+          className="flex items-center justify-center gap-2 w-full bg-black text-white text-xs font-semibold uppercase tracking-widest px-4 py-3 hover:bg-gray-900 transition-all duration-300"
         >
-          <MessageCircle className="w-4 h-4" />
+          <MessageCircle className="w-4 h-4" strokeWidth={1.5} />
           Share on WhatsApp
         </button>
         <button
           onClick={handleLinkedIn}
-          className="flex items-center justify-center gap-2 w-full bg-black text-white text-sm font-semibold uppercase px-4 py-3 hover:bg-gray-800 transition-all duration-300"
+          className="flex items-center justify-center gap-2 w-full bg-black text-white text-xs font-semibold uppercase tracking-widest px-4 py-3 hover:bg-gray-900 transition-all duration-300"
         >
-          <Linkedin className="w-4 h-4" />
+          <Linkedin className="w-4 h-4" strokeWidth={1.5} />
           Share on LinkedIn
         </button>
         <button
           onClick={handleCopyLink}
-          className={`flex items-center justify-center gap-2 w-full text-sm font-semibold uppercase px-4 py-3 transition-all duration-300 border ${
+          className={`flex items-center justify-center gap-2 w-full text-xs font-semibold uppercase tracking-widest px-4 py-3 transition-all duration-300 border border-black ${
             copied
-              ? 'bg-black text-white border-black'
-              : 'bg-white text-black border-black hover:bg-black hover:text-white'
+              ? 'bg-black text-white'
+              : 'bg-white text-black hover:bg-black hover:text-white'
           }`}
         >
-          <Link className="w-4 h-4" />
+          <Link className="w-4 h-4" strokeWidth={1.5} />
           {copied ? 'Link Copied!' : 'Copy Link'}
         </button>
         <button
           onClick={handleScreenshot}
           disabled={screenshotting}
-          className="flex items-center justify-center gap-2 w-full bg-white text-black border border-black text-sm font-semibold uppercase px-4 py-3 hover:bg-black hover:text-white transition-all duration-300 disabled:opacity-50"
+          className="flex items-center justify-center gap-2 w-full bg-white text-black border border-black text-xs font-semibold uppercase tracking-widest px-4 py-3 hover:bg-black hover:text-white transition-all duration-300 disabled:opacity-50"
         >
-          <Download className="w-4 h-4" />
+          <Download className="w-4 h-4" strokeWidth={1.5} />
           {screenshotting ? 'Downloading...' : 'Download Card'}
         </button>
       </div>

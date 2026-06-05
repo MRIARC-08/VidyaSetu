@@ -17,9 +17,9 @@ interface LeaderboardProps {
 }
 
 const rankLabel = (rank: number) => {
-  if (rank === 1) return '1st';
-  if (rank === 2) return '2nd';
-  if (rank === 3) return '3rd';
+  if (rank === 1) return '1ST';
+  if (rank === 2) return '2ND';
+  if (rank === 3) return '3RD';
   return `#${rank}`;
 };
 
@@ -28,10 +28,10 @@ const Leaderboard: React.FC<LeaderboardProps> = ({
   title = 'Leaderboard',
 }) => {
   return (
-    <div className="w-full max-w-lg bg-white border border-gray-200 rounded-xl shadow-sm p-5">
-      <div className="flex items-center justify-center gap-2 mb-4">
-        <Medal className="w-5 h-5 text-black" />
-        <h2 className="text-xl font-bold text-black uppercase tracking-wide">
+    <div className="w-full max-w-lg bg-white border border-black p-5">
+      <div className="flex items-center justify-center gap-2 mb-4 border-b border-black pb-3">
+        <Medal className="w-4 h-4 text-black" strokeWidth={1.5} />
+        <h2 className="text-sm font-bold text-black uppercase tracking-widest">
           {title}
         </h2>
       </div>
@@ -40,43 +40,41 @@ const Leaderboard: React.FC<LeaderboardProps> = ({
         {entries.map((entry) => (
           <div
             key={entry.rank}
-            className={`flex items-center gap-3 px-4 py-3 rounded-lg border ${
+            className={`flex items-center gap-3 px-4 py-3 border ${
               entry.rank <= 3
-                ? 'border-black bg-gray-50'
-                : 'border-gray-200 bg-white'
+                ? 'border-black bg-black text-white'
+                : 'border-gray-200 bg-white text-black'
             }`}
           >
             {/* Rank */}
-            <span className="text-sm font-bold text-black min-w-[40px] text-center">
+            <span className="text-xs font-bold min-w-[40px] text-center uppercase tracking-widest">
               {rankLabel(entry.rank)}
             </span>
 
             {/* Avatar */}
-            <div className="w-9 h-9 rounded-full bg-gray-100 flex items-center justify-center overflow-hidden flex-shrink-0 border border-gray-200">
+            <div className="w-8 h-8 flex items-center justify-center overflow-hidden flex-shrink-0 border border-current">
               {entry.avatar ? (
                 <Image
                   src={entry.avatar}
                   alt={entry.name}
-                  width={36}
-                  height={36}
+                  width={32}
+                  height={32}
                   style={{ objectFit: 'cover' }}
                 />
               ) : (
-                <User className="w-4 h-4 text-gray-400" />
+                <User className="w-4 h-4" strokeWidth={1.5} />
               )}
             </div>
 
             {/* Name */}
-            <span className="flex-1 text-sm font-medium text-black">
+            <span className="flex-1 text-xs font-medium uppercase tracking-wide">
               {entry.name}
             </span>
 
             {/* Stats */}
             <div className="text-right">
-              <div className="text-sm font-bold text-black">
-                {entry.score} pts
-              </div>
-              <div className="text-xs text-gray-400">
+              <div className="text-xs font-bold">{entry.score} PTS</div>
+              <div className="text-xs opacity-60">
                 {entry.achievements} badges
               </div>
             </div>
