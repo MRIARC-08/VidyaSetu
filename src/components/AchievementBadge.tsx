@@ -1,5 +1,6 @@
 'use client';
 import React from 'react';
+import { Trophy, Star, Award } from 'lucide-react';
 
 interface AchievementBadgeProps {
   title: string;
@@ -9,73 +10,57 @@ interface AchievementBadgeProps {
   level?: 'bronze' | 'silver' | 'gold';
 }
 
-const levelColors = {
-  bronze: { bg: '#cd7f32', text: '#fff' },
-  silver: { bg: '#c0c0c0', text: '#333' },
-  gold: { bg: '#ffd700', text: '#333' },
+const levelConfig = {
+  bronze: {
+    bg: 'bg-amber-700',
+    text: 'text-white',
+    border: 'border-amber-700',
+    label: 'text-amber-700',
+  },
+  silver: {
+    bg: 'bg-gray-400',
+    text: 'text-white',
+    border: 'border-gray-400',
+    label: 'text-gray-500',
+  },
+  gold: {
+    bg: 'bg-yellow-400',
+    text: 'text-black',
+    border: 'border-yellow-400',
+    label: 'text-yellow-500',
+  },
+};
+
+const LevelIcon = ({ level }: { level: 'bronze' | 'silver' | 'gold' }) => {
+  if (level === 'gold') return <Trophy className="w-8 h-8" />;
+  if (level === 'silver') return <Star className="w-8 h-8" />;
+  return <Award className="w-8 h-8" />;
 };
 
 const AchievementBadge: React.FC<AchievementBadgeProps> = ({
   title,
   description,
-  icon = '🏆',
   earnedAt,
   level = 'bronze',
 }) => {
-  const colors = levelColors[level];
+  const config = levelConfig[level];
 
   return (
     <div
-      style={{
-        display: 'inline-flex',
-        flexDirection: 'column',
-        alignItems: 'center',
-        padding: '16px',
-        borderRadius: '12px',
-        border: `2px solid ${colors.bg}`,
-        backgroundColor: '#fff',
-        boxShadow: '0 2px 8px rgba(0,0,0,0.1)',
-        maxWidth: '200px',
-        textAlign: 'center',
-      }}
+      className={`inline-flex flex-col items-center p-4 rounded-xl border-2 ${config.border} bg-white max-w-[200px] text-center shadow-sm`}
     >
       <div
-        style={{
-          width: '64px',
-          height: '64px',
-          borderRadius: '50%',
-          backgroundColor: colors.bg,
-          display: 'flex',
-          alignItems: 'center',
-          justifyContent: 'center',
-          fontSize: '28px',
-          marginBottom: '10px',
-        }}
+        className={`w-16 h-16 rounded-full ${config.bg} ${config.text} flex items-center justify-center mb-3`}
       >
-        {icon}
+        <LevelIcon level={level} />
       </div>
-      <h3 style={{ margin: '0 0 6px', fontSize: '14px', fontWeight: 600 }}>
-        {title}
-      </h3>
-      <p style={{ margin: '0 0 6px', fontSize: '12px', color: '#666' }}>
-        {description}
-      </p>
+      <h3 className="text-sm font-semibold text-black mb-1">{title}</h3>
+      <p className="text-xs text-gray-500 mb-2">{description}</p>
       {earnedAt && (
-        <span style={{ fontSize: '11px', color: '#999' }}>
-          Earned: {earnedAt}
-        </span>
+        <span className="text-xs text-gray-400">Earned: {earnedAt}</span>
       )}
       <span
-        style={{
-          marginTop: '8px',
-          padding: '2px 10px',
-          borderRadius: '20px',
-          backgroundColor: colors.bg,
-          color: colors.text,
-          fontSize: '11px',
-          fontWeight: 600,
-          textTransform: 'uppercase',
-        }}
+        className={`mt-2 px-3 py-0.5 rounded-full text-xs font-semibold uppercase ${config.bg} ${config.text}`}
       >
         {level}
       </span>

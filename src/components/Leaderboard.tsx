@@ -1,6 +1,7 @@
 'use client';
-import Image from 'next/image';
 import React from 'react';
+import Image from 'next/image';
+import { Medal, User } from 'lucide-react';
 
 interface LeaderboardEntry {
   rank: number;
@@ -15,10 +16,11 @@ interface LeaderboardProps {
   title?: string;
 }
 
-const medalEmoji: Record<number, string> = {
-  1: '🥇',
-  2: '🥈',
-  3: '🥉',
+const rankLabel = (rank: number) => {
+  if (rank === 1) return '1st';
+  if (rank === 2) return '2nd';
+  if (rank === 3) return '3rd';
+  return `#${rank}`;
 };
 
 const Leaderboard: React.FC<LeaderboardProps> = ({
@@ -26,69 +28,31 @@ const Leaderboard: React.FC<LeaderboardProps> = ({
   title = 'Leaderboard',
 }) => {
   return (
-    <div
-      style={{
-        padding: '20px',
-        borderRadius: '16px',
-        backgroundColor: '#fff',
-        border: '1px solid #e0e0e0',
-        boxShadow: '0 2px 12px rgba(0,0,0,0.08)',
-        maxWidth: '480px',
-        width: '100%',
-      }}
-    >
-      <h2
-        style={{
-          textAlign: 'center',
-          marginBottom: '16px',
-          fontSize: '20px',
-          fontWeight: 700,
-        }}
-      >
-        🏆 {title}
-      </h2>
+    <div className="w-full max-w-lg bg-white border border-gray-200 rounded-xl shadow-sm p-5">
+      <div className="flex items-center justify-center gap-2 mb-4">
+        <Medal className="w-5 h-5 text-black" />
+        <h2 className="text-xl font-bold text-black uppercase tracking-wide">
+          {title}
+        </h2>
+      </div>
 
-      <div style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
+      <div className="flex flex-col gap-2">
         {entries.map((entry) => (
           <div
             key={entry.rank}
-            style={{
-              display: 'flex',
-              alignItems: 'center',
-              gap: '12px',
-              padding: '12px 16px',
-              borderRadius: '10px',
-              backgroundColor: entry.rank <= 3 ? '#fffbea' : '#f5f5f5',
-              border:
-                entry.rank <= 3 ? '1px solid #ffd700' : '1px solid #e0e0e0',
-            }}
+            className={`flex items-center gap-3 px-4 py-3 rounded-lg border ${
+              entry.rank <= 3
+                ? 'border-black bg-gray-50'
+                : 'border-gray-200 bg-white'
+            }`}
           >
             {/* Rank */}
-            <span
-              style={{
-                fontSize: '20px',
-                minWidth: '32px',
-                textAlign: 'center',
-              }}
-            >
-              {medalEmoji[entry.rank] ?? `#${entry.rank}`}
+            <span className="text-sm font-bold text-black min-w-[40px] text-center">
+              {rankLabel(entry.rank)}
             </span>
 
             {/* Avatar */}
-            <div
-              style={{
-                width: '36px',
-                height: '36px',
-                borderRadius: '50%',
-                backgroundColor: '#ddd',
-                display: 'flex',
-                alignItems: 'center',
-                justifyContent: 'center',
-                fontSize: '16px',
-                overflow: 'hidden',
-                flexShrink: 0,
-              }}
-            >
+            <div className="w-9 h-9 rounded-full bg-gray-100 flex items-center justify-center overflow-hidden flex-shrink-0 border border-gray-200">
               {entry.avatar ? (
                 <Image
                   src={entry.avatar}
@@ -98,21 +62,21 @@ const Leaderboard: React.FC<LeaderboardProps> = ({
                   style={{ objectFit: 'cover' }}
                 />
               ) : (
-                '👤'
+                <User className="w-4 h-4 text-gray-400" />
               )}
             </div>
 
             {/* Name */}
-            <span style={{ flex: 1, fontWeight: 500, fontSize: '14px' }}>
+            <span className="flex-1 text-sm font-medium text-black">
               {entry.name}
             </span>
 
             {/* Stats */}
-            <div style={{ textAlign: 'right' }}>
-              <div style={{ fontWeight: 700, fontSize: '14px', color: '#333' }}>
+            <div className="text-right">
+              <div className="text-sm font-bold text-black">
                 {entry.score} pts
               </div>
-              <div style={{ fontSize: '11px', color: '#888' }}>
+              <div className="text-xs text-gray-400">
                 {entry.achievements} badges
               </div>
             </div>
