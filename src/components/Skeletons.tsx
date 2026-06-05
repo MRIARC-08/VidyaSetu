@@ -150,3 +150,18 @@ export function ChapterPageSkeleton() {
     </main>
   );
 }
+
+export function QuickActionSkeleton() {
+  return (
+    <div className="flex md:flex-row flex-col md:w-[60%] gap-8 pt-8 w-screen md:justify-normal justify-center items-center pl-2 pr-2">
+      {Array.from({ length: 3 }).map((_, i) => (
+        <div key={i} className="bg-white p-8 md:w-[60%] shadow-2xs w-max h-60 flex flex-col gap-4">
+          <Skeleton className="h-6 w-6" />
+          <Skeleton className="h-5 w-28" />
+          <Skeleton className="h-4 w-[90%]" />
+          <Skeleton className="h-4 w-16" />
+        </div>
+      ))}
+    </div>
+  );
+}
