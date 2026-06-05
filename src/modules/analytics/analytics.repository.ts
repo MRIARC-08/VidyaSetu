@@ -33,11 +33,28 @@ export default class AnalyticsRepository {
     return { user, sessionCount, sessions };
   }
 
-  static async getCompletedSessionDates(userId: string) {
+  static async getCompletedSessionDates(userId: string, since?: Date) {
     return prisma.quizSession.findMany({
-      where: { userId, completedAt: { not: null } },
+      where: {
+        userId,
+        completedAt: {
+          not: null,
+          ...(since ? { gte: since } : {}),
+        },
+      },
       select: { completedAt: true },
       orderBy: { completedAt: 'desc' },
     });
+  }
+
+  static async countActiveDays(userId: string) {
+    const result = await prisma.$queryRawUnsafe<{ count: bigint }[]>(
+      `SELECT COUNT(DISTINCT DATE("completedAt")) as count
+       FROM "QuizSession"
+       WHERE "userId" = $1 AND "completedAt" IS NOT NULL`,
+      userId
+    );
+
+    return Number(result[0]?.count ?? 0);
   }
 }

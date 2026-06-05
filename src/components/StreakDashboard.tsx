@@ -13,9 +13,7 @@ import {
   CardTitle,
 } from '@/components/ui/card';
 
-interface StreakDashboardProps extends React.ComponentProps<'div'> {
-  className?: string;
-}
+interface StreakDashboardProps extends React.ComponentProps<'div'> {}
 
 function StreakDashboard({ className, ...props }: StreakDashboardProps) {
   const [data, setData] = React.useState<StreakData | null>(null);
@@ -23,26 +21,31 @@ function StreakDashboard({ className, ...props }: StreakDashboardProps) {
   const [error, setError] = React.useState<string | null>(null);
 
   React.useEffect(() => {
+    let cancelled = false;
+
     async function fetchStreakData() {
       try {
         const res = await fetch('/api/analytics/streak', {
           credentials: 'include',
         });
+        const json = await res.json();
 
-        if (res.ok) {
-          const json = await res.json();
+        if (cancelled) return;
+
+        if (res.ok && json.success) {
           setData(json.data);
         } else {
-          setError('Failed to load streak data');
+          setError(json.message || 'Failed to load streak data');
         }
       } catch {
-        setError('Failed to load streak data');
+        if (!cancelled) setError('Failed to load streak data');
       } finally {
-        setLoading(false);
+        if (!cancelled) setLoading(false);
       }
     }
 
     fetchStreakData();
+    return () => { cancelled = true; };
   }, []);
 
   if (error) {
@@ -55,6 +58,16 @@ function StreakDashboard({ className, ...props }: StreakDashboardProps) {
         {...props}
       >
         {error}
+        <button
+          onClick={() => {
+            setLoading(true);
+            setError(null);
+            setData(null);
+          }}
+          className="ml-2 underline hover:no-underline"
+        >
+          Retry
+        </button>
       </div>
     );
   }

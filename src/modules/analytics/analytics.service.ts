@@ -3,9 +3,12 @@ import type { StreakData, ActivityDay } from './analytics.types';
 
 export default class AnalyticsService {
   static async analytics(userId: string) {
-    const { user, sessionCount, sessions } =
-      await AnalyticsRepository.getOverview(userId);
+    const [overview, streakData] = await Promise.all([
+      AnalyticsRepository.getOverview(userId),
+      AnalyticsService.getStreakData(userId),
+    ]);
 
+    const { user, sessionCount, sessions } = overview;
     const totalAttempts = sessionCount;
     let totalAccuracy = 0;
 
@@ -17,15 +20,23 @@ export default class AnalyticsService {
       totalAttempts > 0
         ? Math.round((totalAccuracy / totalAttempts) * 10) / 10
         : 0;
-    const currentStreak = user?.streakCount ?? 0;
-    const lastActivity = user?.lastActiveDate?.toISOString() ?? null;
 
-    return { totalAttempts, accuracy, currentStreak, lastActivity };
+    return {
+      totalAttempts,
+      accuracy,
+      currentStreak: streakData.currentStreak,
+      lastActivity: streakData.lastActivityDate,
+    };
   }
 
   static async getStreakData(userId: string): Promise<StreakData> {
+    const oneYearAgo = new Date();
+    oneYearAgo.setDate(oneYearAgo.getDate() - 364);
+    oneYearAgo.setHours(0, 0, 0, 0);
+
     const sessions = await AnalyticsRepository.getCompletedSessionDates(
-      userId
+      userId,
+      oneYearAgo
     );
 
     const today = new Date();
@@ -58,6 +69,8 @@ export default class AnalyticsService {
       cursor.setDate(cursor.getDate() - 1);
     }
 
+    const totalActiveDays = await AnalyticsRepository.countActiveDays(userId);
+
     let longestStreak = 0;
     let tempStreak = 0;
     const sortedAsc = [...activityByDate.keys()].sort();
@@ -66,11 +79,14 @@ export default class AnalyticsService {
       if (i === 0) {
         tempStreak = 1;
       } else {
-        const prev = new Date(sortedAsc[i - 1]);
-        const curr = new Date(sortedAsc[i]);
-        const diffDays = (curr.getTime() - prev.getTime()) / 86400000;
+        const prev = sortedAsc[i - 1];
+        const curr = sortedAsc[i];
+        const prevParts = prev.split('-').map(Number);
+        const currParts = curr.split('-').map(Number);
+        const expected = new Date(prevParts[0], prevParts[1] - 1, prevParts[2] + 1);
+        const expectedKey = dateToKey(expected);
 
-        if (diffDays === 1) {
+        if (curr === expectedKey) {
           tempStreak++;
         } else {
           tempStreak = 1;
@@ -83,8 +99,6 @@ export default class AnalyticsService {
     }
 
     const calendar: ActivityDay[] = [];
-    const oneYearAgo = new Date(today);
-    oneYearAgo.setDate(oneYearAgo.getDate() - 364);
 
     for (let i = 0; i < 365; i++) {
       const d = new Date(oneYearAgo);
@@ -101,7 +115,7 @@ export default class AnalyticsService {
     return {
       currentStreak,
       longestStreak,
-      totalActiveDays: activeDates.length,
+      totalActiveDays,
       lastActivityDate: activeDates[0] ?? null,
       todayActive,
       calendar,

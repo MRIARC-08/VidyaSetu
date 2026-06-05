@@ -26,90 +26,152 @@ const LEVEL_LABELS: Record<number, string> = {
 
 const DAY_LABELS = ['', 'Mon', '', 'Wed', '', 'Fri', ''];
 
-function StreakCalendar({ calendar, className, ...props }: StreakCalendarProps) {
-  const weeks: ActivityDay[][] = [];
-  for (let i = 0; i < calendar.length; i += 7) {
-    weeks.push(calendar.slice(i, i + 7));
+function buildGrid(calendar: ActivityDay[]) {
+  const today = new Date();
+  today.setHours(0, 0, 0, 0);
+
+  const oneYearAgo = new Date(today);
+  oneYearAgo.setDate(oneYearAgo.getDate() - 364);
+
+  const activityMap = new Map<string, ActivityDay>();
+  for (const day of calendar) {
+    activityMap.set(day.date, day);
   }
 
-  const monthLabels = React.useMemo(() => {
-    const labels: { label: string; index: number }[] = [];
-    let lastMonth = -1;
+  const start = new Date(oneYearAgo);
+  start.setDate(start.getDate() - start.getDay());
 
-    weeks.forEach((week, weekIndex) => {
-      const firstDay = week[0];
-      if (!firstDay) return;
-      const month = new Date(firstDay.date).getMonth();
+  const end = new Date(today);
+  end.setDate(end.getDate() + (6 - end.getDay()));
 
-      if (month !== lastMonth) {
-        labels.push({
-          label: new Date(firstDay.date).toLocaleString('default', {
-            month: 'short',
-          }),
-          index: weekIndex,
-        });
-        lastMonth = month;
-      }
-    });
+  const totalDays = Math.round((end.getTime() - start.getTime()) / 86400000) + 1;
+  const cols = Math.ceil(totalDays / 7);
 
-    return labels;
-  }, [weeks]);
+  const flat: ActivityDay[] = [];
+
+  for (let i = 0; i < totalDays; i++) {
+    const d = new Date(start);
+    d.setDate(d.getDate() + i);
+    const y = d.getFullYear();
+    const m = String(d.getMonth() + 1).padStart(2, '0');
+    const day = String(d.getDate()).padStart(2, '0');
+    const key = `${y}-${m}-${day}`;
+    const existing = activityMap.get(key);
+    flat.push(existing ?? { date: key, count: 0, level: 0 });
+  }
+
+  const grid: ActivityDay[][] = [];
+  for (let c = 0; c < cols; c++) {
+    const col: ActivityDay[] = [];
+    for (let r = 0; r < 7; r++) {
+      const idx = c * 7 + r;
+      col.push(flat[idx] ?? { date: '', count: 0, level: 0 });
+    }
+    grid.push(col);
+  }
+
+  const monthLabels: { label: string; index: number }[] = [];
+  let lastMonth = -1;
+
+  grid.forEach((col, colIndex) => {
+    const firstCell = col[0];
+    if (!firstCell || !firstCell.date) return;
+    const month = new Date(firstCell.date).getMonth();
+    if (month !== lastMonth) {
+      monthLabels.push({
+        label: new Date(firstCell.date).toLocaleString('default', { month: 'short' }),
+        index: colIndex,
+      });
+      lastMonth = month;
+    }
+  });
+
+  return { grid, monthLabels, colsWidth: cols * 16 };
+}
+
+function StreakCalendar({ calendar, className, ...props }: StreakCalendarProps) {
+  const { grid, monthLabels } = React.useMemo(() => buildGrid(calendar), [calendar]);
+
+  const gapPx = 3;
+  const cellPx = 13;
+  const today = React.useMemo(() => { const d = new Date(); d.setHours(0, 0, 0, 0); return d; }, []);
 
   return (
-    <div className={cn('flex flex-col gap-2', className)} {...props}>
-      <div className="flex items-center gap-2 text-xs ml-10">
-        {monthLabels.map((m) => (
-          <span
-            key={m.index}
-            className="text-muted-foreground"
-            style={{ marginLeft: m.index === 0 ? 0 : `${(m.index - monthLabels[0].index) * 14}px` }}
+    <div className={cn('flex flex-col', className)} {...props}>
+      <div className="flex overflow-x-auto">
+        <div className="flex flex-col shrink-0">
+          <div
+            className="h-4 text-[10px] text-muted-foreground"
+            style={{ marginLeft: `${26 + gapPx}px` }}
           >
-            {m.label}
-          </span>
-        ))}
-      </div>
-
-      <div className="flex gap-1">
-        <div className="flex flex-col gap-1 pt-0">
-          {DAY_LABELS.map((label, i) => (
-            <div
-              key={i}
-              className="text-[10px] text-muted-foreground h-[14px] leading-[14px]"
-              style={{ visibility: label ? 'visible' : 'hidden' }}
-            >
-              {label}
-            </div>
-          ))}
-        </div>
-
-        <div className="flex gap-1 overflow-x-auto pb-1">
-          {weeks.map((week, weekIndex) => (
-            <div key={weekIndex} className="flex flex-col gap-1">
-              {week.map((day) => {
-                if (!day) return <div key="empty" className="h-[14px] w-[14px]" />;
+            <div className="flex" style={{ gap: `${gapPx}px` }}>
+              {monthLabels.map((m, i) => {
+                const offset = m.index * (cellPx + gapPx);
+                const prevOffset = i > 0 ? monthLabels[i - 1].index * (cellPx + gapPx) : 0;
+                const spacing = offset - prevOffset - (cellPx + gapPx);
 
                 return (
-                  <div
-                    key={day.date}
-                    className={cn(
-                      'h-[14px] w-[14px] rounded-sm cursor-default',
-                      LEVEL_COLORS[day.level]
-                    )}
-                    title={`${day.date}: ${LEVEL_LABELS[day.level]}`}
-                  />
+                  <span
+                    key={m.index}
+                    style={{ marginLeft: i === 0 ? 0 : `${spacing}px` }}
+                  >
+                    {m.label}
+                  </span>
                 );
               })}
             </div>
-          ))}
+          </div>
+
+          <div className="flex" style={{ gap: `${gapPx}px` }}>
+            <div className="flex flex-col shrink-0" style={{ gap: `${gapPx}px`, width: `${26}px` }}>
+              {DAY_LABELS.map((label, i) => (
+                <div
+                  key={i}
+                  className="text-[10px] text-muted-foreground leading-[13px] h-[13px]"
+                  style={{ visibility: label ? 'visible' : 'hidden' }}
+                >
+                  {label}
+                </div>
+              ))}
+            </div>
+
+            {grid.map((col, colIndex) => (
+              <div key={colIndex} className="flex flex-col" style={{ gap: `${gapPx}px` }}>
+                {col.map((cell, rowIndex) => {
+                  const isFuture = cell.date && new Date(cell.date) > today;
+
+                  return (
+                    <div
+                      key={`${colIndex}-${rowIndex}`}
+                      className={cn(
+                        'rounded-[3px]',
+                        isFuture ? 'bg-transparent' : LEVEL_COLORS[cell.level]
+                      )}
+                      style={{ width: `${cellPx}px`, height: `${cellPx}px` }}
+                      title={
+                        cell.date && !isFuture
+                          ? `${cell.date}: ${LEVEL_LABELS[cell.level]}`
+                          : undefined
+                      }
+                    />
+                  );
+                })}
+              </div>
+            ))}
+          </div>
         </div>
       </div>
 
-      <div className="flex items-center gap-2 justify-end text-[10px] text-muted-foreground">
+      <div className="flex items-center gap-1 justify-end text-[10px] text-muted-foreground mt-2">
         <span>Less</span>
-        {[0, 1, 2, 3, 4].map((level) => (
+          {[0, 1, 2, 3, 4].map((level) => (
           <div
             key={level}
-            className={cn('h-[10px] w-[10px] rounded-sm', LEVEL_COLORS[level])}
+            className={cn('rounded-sm', LEVEL_COLORS[level])}
+            style={{
+              width: `${cellPx - 3}px`,
+              height: `${cellPx - 3}px`,
+            }}
           />
         ))}
         <span>More</span>
