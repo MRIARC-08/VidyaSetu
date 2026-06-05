@@ -43,7 +43,7 @@ export default function DashboardPage() {
       name: 'Upload Notes',
       brief: 'Convert handwritten pages into structured study guides.',
       action: 'sync',
-      href: `/`,
+      href: `/notes/upload`,
       icon: (
         <svg
           width="18"

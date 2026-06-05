@@ -35,6 +35,11 @@ export default function LoginPage() {
 
     const result = await user.json();
 
+    if (!user.ok || !result.user) {
+      setErr(result.message || result.error || 'Login failed. Please check your credentials.');
+      return;
+    }
+
     if (result.user.firstTime) {
       router.push('/profile');
     } else {
