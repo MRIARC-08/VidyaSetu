@@ -155,9 +155,9 @@ function QuizCreationForm({ className }: { className?: string }) {
 
   if (pageError) {
     return (
-      <div className="flex flex-col items-center gap-3 rounded-xl border border-amber-200 bg-amber-50 px-6 py-10 text-center">
-        <AlertCircle className="size-8 text-amber-500" />
-        <p className="text-sm text-amber-800">{pageError}</p>
+      <div className="flex flex-col items-center gap-3 rounded-xl border border-border bg-muted/50 px-6 py-10 text-center">
+        <AlertCircle className="size-8 text-muted-foreground" />
+        <p className="text-sm text-muted-foreground">{pageError}</p>
       </div>
     );
   }
@@ -330,8 +330,8 @@ function QuizCreationForm({ className }: { className?: string }) {
       {selectedMode && (
         <div className="flex flex-col gap-3">
           {submitError && (
-            <div className="flex items-center gap-2 rounded-lg border border-red-200 bg-red-50 px-4 py-3 text-sm text-red-700">
-              <AlertCircle className="size-4 shrink-0" />
+            <div className="flex items-center gap-2 rounded-lg border border-border bg-muted/50 px-4 py-3 text-sm text-muted-foreground">
+              <AlertCircle className="size-4 shrink-0 text-muted-foreground" />
               {submitError}
             </div>
           )}
