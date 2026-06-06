@@ -53,10 +53,7 @@ function ProgressChart({
       )}
 
       {type === 'bar' ? (
-        <div
-          className="flex items-end gap-2"
-          style={{ height }}
-        >
+        <div className="flex items-end gap-2" style={{ height }}>
           {data.map((point, i) => {
             const barHeight = (point.value / maxValue) * 100;
             return (

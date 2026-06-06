@@ -50,7 +50,10 @@ function ProgressBar({
         </div>
       )}
       <div
-        className={cn('w-full rounded-full bg-muted overflow-hidden', sizeMap[size])}
+        className={cn(
+          'w-full rounded-full bg-muted overflow-hidden',
+          sizeMap[size]
+        )}
         role="progressbar"
         aria-valuenow={clampedValue}
         aria-valuemin={0}

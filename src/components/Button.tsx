@@ -3,18 +3,18 @@ import React from 'react';
 
 function Button({
   text,
-  action = '',
+  action = () => {}, // ✅ empty function, NOT empty string
   color = '',
   textCol = '',
   additional = '',
   hover = '',
 }: {
   text: string;
-  action: any;
-  color: string;
-  textCol: string;
-  additional: string;
-  hover: string;
+  action?: () => void; // ✅ function type, NOT any
+  color?: string;
+  textCol?: string;
+  additional?: string;
+  hover?: string;
 }) {
   return (
     <button

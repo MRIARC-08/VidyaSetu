@@ -260,7 +260,7 @@ useEffect(() => {
               textCol="text-black"
               hover="hover:bg-white"
               additional=""
-              action=""
+              action={() => {}}
             ></Button>
 
             <Button
@@ -269,7 +269,7 @@ useEffect(() => {
               color=""
               textCol=""
               hover=""
-              action=""
+              action={() => {}}
             ></Button>
           </div>
         </div>
