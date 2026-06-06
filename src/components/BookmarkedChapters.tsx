@@ -120,7 +120,7 @@ export default function BookmarkedChapters() {
 
                 <button
                   onClick={(e) => handleRemove(item.id, e)}
-                  className="p-1.5 rounded-full hover:bg-red-50 text-primary/40 hover:text-red-500 transition-colors duration-200"
+                  className="p-1.5 rounded-full cursor-pointer hover:bg-red-50 text-primary/40 hover:text-red-500 transition-colors duration-200"
                   title="Remove bookmark"
                 >
                   <Trash2 className="h-4 w-4" />
