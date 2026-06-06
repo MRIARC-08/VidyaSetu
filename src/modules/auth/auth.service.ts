@@ -47,6 +47,7 @@ export class AuthServices {
       id: user.id,
       role: user.role,
       isProfileCompleted: false,
+      isEmailVerified: user.isEmailVerified,
     });
 
     const refreshToken = await AuthRepository.createRefreshToken(user.id);
@@ -84,6 +85,7 @@ export class AuthServices {
       id: user.id,
       role: user.role,
       isProfileCompleted: user.firstTime,
+      isEmailVerified: user.isEmailVerified,
     });
 
     const refreshToken = await AuthRepository.createRefreshToken(user.id);
@@ -112,6 +114,7 @@ export class AuthServices {
       id: user.id,
       role: user.role,
       isProfileCompleted: user.firstTime,
+      isEmailVerified: user.isEmailVerified,
     });
 
     const refreshToken = await AuthRepository.createRefreshToken(user.id);
@@ -162,6 +165,7 @@ export class AuthServices {
       id: user.id,
       role: user.role,
       isProfileCompleted: user.firstTime,
+      isEmailVerified: user.isEmailVerified,
     });
 
     return {

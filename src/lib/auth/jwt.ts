@@ -3,6 +3,7 @@ import jwt, { JwtPayload } from 'jsonwebtoken';
 interface AccessTokenPayload extends JwtPayload {
   sub: string;
   role: string;
+  isEmailVerified: boolean;
 }
 
 class JwtServices {
@@ -16,12 +17,14 @@ class JwtServices {
     id: string;
     role: string;
     isProfileCompleted: boolean;
+    isEmailVerified: boolean;
   }) {
     return jwt.sign(
       {
         sub: user.id,
         role: user.role,
         isProfileCompleted: user.isProfileCompleted,
+        isEmailVerified: user.isEmailVerified,
       },
       this.secret,
       { expiresIn: '15m' }

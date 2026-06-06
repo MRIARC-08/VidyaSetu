@@ -16,6 +16,27 @@ export default function LoginPage() {
   const [isLoading, setIsLoading] = useState<boolean>(false);
   const [showPassword, setShowPassword] = useState<boolean>(false);
   const router = useRouter();
+  const [resendStatus, setResendStatus] = useState<string>('');
+
+  const handleResendVerification = async () => {
+    setResendStatus('Sending...');
+    try {
+      const res = await fetch('/api/auth/resend-verification', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+      });
+      const data = await res.json();
+      if (data.success) {
+        setResendStatus('Verification link sent successfully!');
+      } else {
+        setResendStatus(data.message || 'Failed to send verification link.');
+      }
+    } catch (err) {
+      setResendStatus('Error sending verification link.');
+    }
+  };
 
   const handleSubmit = async (e: React.SyntheticEvent<HTMLFormElement>) => {
     e.preventDefault();
@@ -319,15 +340,28 @@ export default function LoginPage() {
                 </p>
               </form>
 
-              <p className="text-center text-[14px] text-black/60">
-                Don't have an account?{' '}
-
-                < a href="/register"
-                  className="text-button font-semibold hover:underline"
+              <div className="flex flex-col items-center gap-2">
+                <p>
+                  Don't have an account?{' '}
+                  <span
+                    className="text-button cursor-pointer font-semibold hover:underline"
+                    onClick={() => router.push('/register')}
+                  >
+                    Sign up for free
+                  </span>
+                </p>
+                
+                <button
+                  type="button"
+                  className="text-xs text-button hover:underline cursor-pointer"
+                  onClick={handleResendVerification}
                 >
-                  Sign up for free
-                </a>
-              </p>
+                  Resend verification email
+                </button>
+                {resendStatus && (
+                  <p className="text-xs text-muted-foreground mt-1">{resendStatus}</p>
+                )}
+              </div>
             </div>
           </div>
         </div>

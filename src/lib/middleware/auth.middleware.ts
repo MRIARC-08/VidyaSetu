@@ -23,6 +23,7 @@ export interface AuthContext {
   userId: string;
   role: string;
   isProfileCompleted: boolean;
+  isEmailVerified: boolean;
 }
 
 export async function authenticate(): Promise<AuthContext> {
@@ -34,6 +35,7 @@ export async function authenticate(): Promise<AuthContext> {
     userId: payload.sub,
     role: payload.role,
     isProfileCompleted: payload.isProfileCompleted,
+    isEmailVerified: !!payload.isEmailVerified,
   };
 }
 
@@ -43,6 +45,10 @@ export function withAuth(
   return async (req: Request) => {
     try {
       const auth = await authenticate();
+      const url = new URL(req.url);
+      if (!auth.isEmailVerified && !url.pathname.includes('/api/auth/resend-verification') && !url.pathname.includes('/api/auth/verify-email')) {
+        throw new ForbiddenError('Email verification required');
+      }
       return handler(req, auth);
     } catch (error: unknown) {
       if (error instanceof UnauthorizedError) {
