@@ -126,6 +126,8 @@ function QuizCreationForm({ className }: { className?: string }) {
         questionCount,
       });
 
+      sessionStorage.setItem(`quiz_${result.quiz.id}_questions`, JSON.stringify(result.questions));
+
       router.push(`/quiz/${result.quiz.id}`);
     } catch (err) {
       setSubmitError(err instanceof Error ? err.message : 'Failed to create quiz');

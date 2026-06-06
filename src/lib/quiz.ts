@@ -5,6 +5,8 @@ import type {
   QuizApiSuccess,
   QuizApiErrorResponse,
   ChapterInfo,
+  StartQuizInput,
+  SubmitQuizInput,
 } from '@/modules/quiz/quiz.types';
 
 type SubjectsResponse = {
@@ -54,4 +56,52 @@ export async function fetchUserProfile() {
   }
 
   return res.user as { class?: string | number | null };
+}
+
+export async function startQuizSession(input: Omit<StartQuizInput, 'userId'>) {
+  const res = await authFetch({
+    url: '/api/quiz/start',
+    options: {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(input),
+    },
+  });
+
+  if ((res as QuizApiErrorResponse).message && !(res as QuizApiSuccess<any>).data) {
+    throw new Error((res as QuizApiErrorResponse).message);
+  }
+
+  return (res as QuizApiSuccess<any>).data;
+}
+
+export async function fetchQuizSession(sessionId: string) {
+  const res = await authFetch({
+    url: `/api/quiz/session?sessionId=${encodeURIComponent(sessionId)}`,
+    options: { method: 'GET' },
+  });
+
+  if ((res as QuizApiErrorResponse).message && !(res as QuizApiSuccess<any>).data) {
+    throw new Error((res as QuizApiErrorResponse).message);
+  }
+
+  // Next.js API route returns `{ data: result }` via NextResponse.json
+  return (res as { data: any }).data;
+}
+
+export async function submitQuizSession(input: Omit<SubmitQuizInput, 'userId'>) {
+  const res = await authFetch({
+    url: '/api/quiz/submit',
+    options: {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(input),
+    },
+  });
+
+  if ((res as QuizApiErrorResponse).message && !(res as QuizApiSuccess<any>).data) {
+    throw new Error((res as QuizApiErrorResponse).message);
+  }
+
+  return (res as QuizApiSuccess<any>).data;
 }
