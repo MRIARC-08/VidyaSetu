@@ -4,6 +4,7 @@ import authFetch from '@/lib/auth/authFetch';
 import { useRouter } from 'next/navigation';
 import { useEffect, useState } from 'react';
 import { ProgressDashboard } from '@/components/ProgressDashboard';
+import { StreakWidget } from '@/components/StreakWidget';
 import { StreakDashboard } from '@/components/StreakDashboard';
 import BookmarkedChapters from '@/components/BookmarkedChapters';
 
@@ -111,69 +112,55 @@ export default function DashboardPage() {
     },
   ];
 
+  const [analytics, setAnalytics] = useState<{
+    currentStreak: number;
+    longestStreak: number;
+    dailyActivity: { day: string; date: string; active: boolean }[];
+  } | null>(null);
+
   const router = useRouter();
 
-  const getUser = async () => {
-    const data = {
-      url: '/api/user/getUser',
-      options: {
-        method: 'GET',
-      },
-    };
-    const user = await authFetch(data);
-
-    setUser(user.user);
-
-    console.log(user);
-
-    if (user.firstTime) {
-      router.push('/profileCompletion');
-    }
-  };
-
-  const getAnalytics = async () => {
-    const req = {
-      url: `/api/analytics/overview`,
-      options: {
-        method: 'GET',
-      },
-    };
-
-    const res = await authFetch(req);
-  };
-
-  //   const getUser = async () => {
-  //   const res = await fetch('/api/user', {
-  //     method: 'GET',
-  //     credentials: 'include',
-  //   });
-
-  //   const user = await res.json();
-  //   console.log('hemlo', user);
-
-  //   console.log(user);
-  //   if (user.message == 'jwt expired') {
-  //     const r = await fetch('/api/auth/refresh', {
-  //       method: 'GET',
-  //       credentials: 'include',
-  //     });
-
-  //     const p = await r.json();
-
-  //     setUser(user.profile);
-  //     console.log(p);
-
-  //     getUser();
-  //   }
-  // };
-
-  const call = async () => {
-    await getUser();
-    await getAnalytics();
-  };
   useEffect(() => {
-    call();
-  }, []);
+    let active = true;
+
+    async function loadDashboardData() {
+      const userReq = {
+        url: '/api/user/getUser',
+        options: {
+          method: 'GET',
+        },
+      };
+      const userRes = await authFetch(userReq);
+
+      if (!active) return;
+
+      setUser(userRes.user);
+
+      if (userRes.firstTime) {
+        router.push('/profileCompletion');
+      }
+
+      const analyticsReq = {
+        url: `/api/analytics/overview`,
+        options: {
+          method: 'GET',
+        },
+      };
+      const analyticsRes = await authFetch(analyticsReq);
+
+      if (!active) return;
+
+      if (analyticsRes && analyticsRes.success && analyticsRes.data) {
+        setAnalytics(analyticsRes.data);
+      }
+    }
+
+    loadDashboardData();
+
+    return () => {
+      active = false;
+    };
+  }, [router]);
 
   return (
     <div className="flex-col flex md:p-8 bg-background min-h-screen gap-18 p-4">
@@ -210,30 +197,32 @@ export default function DashboardPage() {
         </div>
       </div>
 
-      {/* quick actions */}
+      {/* quick actions and streak widget side-by-side */}
+      <div className="flex flex-col lg:flex-row gap-8 items-start w-full">
+        {/* quick actions */}
+        <div className="flex flex-col flex-1">
+          <div>
+            <p className="uppercase text-[14px] text-secondary/80">
+              quick actions
+            </p>
+          </div>
 
-      <div className="flex flex-col ">
-        <div>
-          <p className="uppercase  text-[14px] text-secondary/80 ">
-            quick actions
-          </p>
-        </div>
-
-        <div className="flex  md:flex-row flex-col md:w-[60%]  gap-8 pt-8 w-screen md:justify-normal justify-center items-center pl-2 pr-2 ">
-          {quickCards.map((val) => {
-            return (
+          <div className="flex md:flex-row flex-col gap-6 pt-8 items-stretch justify-start w-full">
+            {quickCards.map((val) => (
               <a
-                className="bg-white p-8 md:w-[60%] shadow-2xs w-max h-60 flex flex-col min-h-max  gap-4 cursor-pointer hover:shadow-2xs transition-all duration-300"
+                className="bg-white p-6 flex-1 shadow-2xs min-h-max flex flex-col justify-between gap-4 cursor-pointer hover:shadow-md transition-all duration-300 border border-border/50 rounded-xl"
                 key={val.name}
                 href={val.href}
               >
-                <div>{val.icon}</div>
-                <div className="font-bold w-max capitalize">{val.name}</div>
-                <div className=" text-accent text-[14px] w-[90%]">
-                  {val.brief}
+                <div className="flex flex-col gap-3">
+                  <div>{val.icon}</div>
+                  <div className="font-bold capitalize">{val.name}</div>
+                  <div className="text-accent text-[14px] leading-relaxed">
+                    {val.brief}
+                  </div>
                 </div>
 
-                <div className="flex gap-2  items-center">
+                <div className="flex gap-2 items-center mt-auto">
                   <div className="uppercase text-[12px] font-bold">
                     {val.action}
                   </div>
@@ -253,8 +242,19 @@ export default function DashboardPage() {
                   </div>
                 </div>
               </a>
-            );
-          })}
+            ))}
+          </div>
+        </div>
+
+        {/* streak widget */}
+        <div className="w-full lg:w-80 shrink-0">
+          {analytics && (
+            <StreakWidget
+              currentStreak={analytics.currentStreak}
+              longestStreak={analytics.longestStreak}
+              dailyActivity={analytics.dailyActivity}
+            />
+          )}
         </div>
       </div>
 

@@ -1,16 +1,13 @@
-import type { z } from "zod";
-import type {
-  seedNcertSchema,
-  addQuestionSchema,
-} from "./admin.validator";
+import type { z } from 'zod';
+import type { seedNcertSchema, addQuestionSchema } from './admin.validator';
 
 export class AdminApiError extends Error {
   constructor(
     message: string,
-    public readonly statusCode: number = 400,
+    public readonly statusCode: number = 400
   ) {
     super(message);
-    this.name = "AdminApiError";
+    this.name = 'AdminApiError';
   }
 }
 

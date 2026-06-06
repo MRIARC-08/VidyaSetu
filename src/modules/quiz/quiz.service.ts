@@ -1,5 +1,5 @@
 import { prisma } from '@/lib/prisma';
-
+import type { Prisma } from '@/generated/prisma/client';
 import { QuizRepository } from './quiz.repository';
 import type {
   CreateQuizInput,
@@ -8,6 +8,7 @@ import type {
   SubmitQuizInput,
 } from './quiz.types';
 import { QuizApiError } from './quiz.types';
+import AnalyticsService from '../analytics/analytics.service';
 
 const calculateAccuracy = (correctCount: number, totalQuestions: number) => {
   if (totalQuestions === 0) {
@@ -62,7 +63,11 @@ export class QuizServices {
       );
     }
 
-    if (input.source === 'NOTE' || input.source === 'CUSTOM' || input.source === 'AI') {
+    if (
+      input.source === 'NOTE' ||
+      input.source === 'CUSTOM' ||
+      input.source === 'AI'
+    ) {
       throw new QuizApiError(
         `${input.source} quiz source is not yet supported`,
         501
@@ -121,7 +126,7 @@ export class QuizServices {
       throw new QuizApiError('You are not allowed to view this session', 403);
     }
 
-    const sanitizedResponses = session.responses.map((r: any) => ({
+    const sanitizedResponses = session.responses.map((r) => ({
       id: r.id,
       questionId: r.questionId,
       selectedOptionId: r.selectedOptionId,
@@ -195,19 +200,22 @@ export class QuizServices {
 
     const questionMap = new Map(questions.map((q) => [q.id, q]));
 
-    const optionIds = [...new Set(
-      input.responses
-        .filter((r) => r.selectedOptionId)
-        .map((r) => r.selectedOptionId!)
-    )];
+    const optionIds = [
+      ...new Set(
+        input.responses
+          .filter((r) => r.selectedOptionId)
+          .map((r) => r.selectedOptionId!)
+      ),
+    ];
 
-    const options = optionIds.length > 0
-      ? await QuizRepository.findOptionsByIds(optionIds)
-      : [];
+    const options =
+      optionIds.length > 0
+        ? await QuizRepository.findOptionsByIds(optionIds)
+        : [];
 
     const optionMap = new Map(options.map((o) => [o.id, o]));
 
-    const responseData = [];
+    const responseData: Prisma.QuestionResponseCreateManyInput[] = [];
     let correctCount = 0;
     let totalTimeTaken = 0;
 
@@ -257,21 +265,33 @@ export class QuizServices {
     const totalQuestions = session.totalQuestions ?? input.responses.length;
     const accuracy = calculateAccuracy(correctCount, totalQuestions);
 
-    await prisma.$transaction([
-      QuizRepository.createQuestionResponses(responseData),
-      QuizRepository.updateSession(input.sessionId, {
-        correctCount,
-        accuracy,
-        timeTaken: totalTimeTaken,
-        completedAt: new Date(),
-      }),
-    ]);
+    const updatedSession = await prisma.$transaction(async (tx) => {
+      await QuizRepository.createQuestionResponses(responseData, tx);
+
+      const sess = await QuizRepository.updateSession(
+        input.sessionId,
+        {
+          correctCount,
+          accuracy,
+          timeTaken: totalTimeTaken,
+          completedAt: new Date(),
+        },
+        tx
+      );
+
+      await AnalyticsService.updateStatsAndStreak(
+        session.userId,
+        {
+          totalQuestions,
+          correctCount,
+        },
+        tx
+      );
+
+      return sess;
+    });
 
     await QuizServices.updateUserStats(session.userId);
-
-    const updatedSession = await QuizRepository.findSessionById(
-      input.sessionId
-    );
 
     return {
       session: updatedSession,
