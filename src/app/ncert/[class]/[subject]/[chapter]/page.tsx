@@ -22,45 +22,51 @@ export default function NcertChapterPage() {
   }>();
 
   const [chapter, setChapter] = useState<ChapterProps | null>(null);
+  const [chapters, setChapters] = useState<ChapterProps[]>([]);
+  const [subjectName, setSubjectName] = useState<string>('');
   const [error, setError] = useState<string | null>(null);
   const [isLoading, setIsLoading] = useState(true);
 
-  const getChapter = useCallback(async () => {
+  const fetchData = useCallback(async () => {
     setIsLoading(true);
     setError(null);
 
     try {
-      const url = `/api/ncert/chapter?chapter=${params.chapter}`;
+      const chapterUrl = `/api/ncert/chapter?chapter=${params.chapter}`;
+      const chaptersUrl = `/api/ncert/chapters?class=${params.class}&subject=${params.subject}`;
 
-      const res = await authFetch({
-        url,
-        options: {
-          method: 'GET',
-        },
-      });
+      const [chapterRes, chaptersRes] = await Promise.all([
+        authFetch({ url: chapterUrl, options: { method: 'GET' } }),
+        authFetch({ url: chaptersUrl, options: { method: 'GET' } })
+      ]);
 
-      if (res.status !== 200 || !res.message) {
+      if (chapterRes.status !== 200 || !chapterRes.message) {
         setChapter(null);
         setError(
-          typeof res.message === 'string'
-            ? res.message
+          typeof chapterRes.message === 'string'
+            ? chapterRes.message
             : 'The chapter API did not return content for this request.'
         );
         return;
       }
 
-      setChapter(res.message);
+      if (chaptersRes.status === 200 && chaptersRes.message) {
+        setSubjectName(chaptersRes.message.name);
+        setChapters(chaptersRes.message.chapters);
+      }
+
+      setChapter(chapterRes.message);
     } catch {
       setChapter(null);
       setError('Unable to load this chapter. Please try again later.');
     } finally {
       setIsLoading(false);
     }
-  }, [params.chapter]);
+  }, [params.chapter, params.class, params.subject]);
 
   useEffect(() => {
-    getChapter();
-  }, [getChapter]);
+    fetchData();
+  }, [fetchData]);
 
   return (
     <>
@@ -68,7 +74,13 @@ export default function NcertChapterPage() {
       {isLoading ? (
         <ChapterPageSkeleton />
       ) : (
-        <ChapterContent chapter={chapter} error={error} />
+        <ChapterContent
+          chapter={chapter}
+          chapters={chapters}
+          subjectName={subjectName}
+          className="lg:flex lg:gap-8"
+          error={error}
+        />
       )}
     </>
   );

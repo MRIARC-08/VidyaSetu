@@ -36,6 +36,9 @@ export class NcertRepository {
       where: {
         id: chapterId,
       },
+      include: {
+        topics: true,
+      },
     });
   }
 }
