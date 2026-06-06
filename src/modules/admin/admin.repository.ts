@@ -108,6 +108,22 @@ export class AdminRepository {
     };
   }
 
+  static async countUsers() {
+    return prisma.user.count();
+  }
+
+  static async countQuizSessions() {
+    return prisma.quizSession.count();
+  }
+
+  static async countActiveToday() {
+    const today = new Date();
+    today.setHours(0, 0, 0, 0);
+    return prisma.quizSession.count({
+      where: { completedAt: { gte: today } },
+    });
+  }
+
   static async createQuestion(data: {
     topicId: string | null;
     type: string;

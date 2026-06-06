@@ -1,59 +1,40 @@
 'use client';
-import Link from 'next/link';
+
 import { usePathname } from 'next/navigation';
 import React, { PropsWithChildren, useEffect, useState } from 'react';
-import { boolean, string } from 'zod';
-
-interface ProfileProps {
-  name: string;
-  image: string;
-  id: string;
-
-  userId: string;
-  age: string;
-  class: string;
-  createdAt: string;
-  profileCompleted: boolean;
-}
 
 export default function MainLayout({ children }: PropsWithChildren) {
-  const [user, setUser] = useState<ProfileProps | null>(null);
+  const [isAdmin, setIsAdmin] = useState(false);
   const path = usePathname();
 
-  const routes = ['/dashboard', '/ncert', '/performance'];
+  useEffect(() => {
+    let cancelled = false;
+
+    async function checkRole() {
+      try {
+        const res = await fetch('/api/auth/me', {
+          credentials: 'include',
+        });
+        if (!cancelled && res.ok) {
+          const data = await res.json();
+          setIsAdmin(data.role === 'ADMIN');
+        }
+      } catch {
+        // Non-admin, no role check needed
+      }
+    }
+
+    checkRole();
+    return () => {
+      cancelled = true;
+    };
+  }, []);
+
+  const routes = ['/dashboard', '/ncert', '/performance', '/admin'];
 
   if (!routes.some((route) => path.startsWith(route))) {
-    return <div className="flex-1 ">{children}</div>;
+    return <div className="flex-1">{children}</div>;
   }
-
-  // const getUser = async () => {
-  //   const res = await fetch('/api/profile/getProfile', {
-  //     method: 'GET',
-  //     credentials: 'include',
-  //   });
-
-  //   const user = await res.json();
-  //   console.log('hemlo', user);
-  //   setUser(user.profile);
-
-  //   console.log(user);
-  //   if (user.message == 'jwt expired') {
-  //     const r = await fetch('/api/auth/refresh', {
-  //       method: 'GET',
-  //       credentials: 'include',
-  //     });
-
-  //     const p = await r.json();
-
-  //     console.log(p);
-
-  //     getUser();
-  //   }
-  // };
-
-  // useEffect(() => {
-  //   getUser();
-  // }, []);
 
   const elements = [
     {
@@ -69,7 +50,7 @@ export default function MainLayout({ children }: PropsWithChildren) {
         >
           <path
             d="M10 6V0H18V6H10V6M0 10V0H8V10H0V10M10 18V8H18V18H10V18M0 18V12H8V18H0V18"
-            fill="black"
+            fill="currentColor"
           />
         </svg>
       ),
@@ -89,7 +70,6 @@ export default function MainLayout({ children }: PropsWithChildren) {
         </svg>
       ),
     },
-
     {
       name: 'Performance',
       link: '/dashboard/analytics',
@@ -105,27 +85,51 @@ export default function MainLayout({ children }: PropsWithChildren) {
         </svg>
       ),
     },
+    ...(isAdmin
+      ? [
+          {
+            name: 'Admin',
+            link: '/admin',
+            svg: (
+              <svg
+                width="28"
+                height="28"
+                viewBox="0 0 24 24"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M12 1L3 5V11C3 16.55 6.84 21.74 12 23C17.16 21.74 21 16.55 21 11V5L12 1ZM12 11.99H19C18.47 16.11 15.72 19.78 12 20.93V12H5V6.3L12 3.19V11.99Z"
+                  fill="currentColor"
+                />
+              </svg>
+            ),
+          },
+        ]
+      : []),
   ];
 
   return (
-    <div className="w-screen flex ">
-      <div className=" bg-accent/40 w-15  min-h-screen  flex flex-col pt-8 gap-4">
-        <div className="fixed g-accent/40 w-15">
-          {elements.map((val) => {
-            return (
-              <Link
-                key={val.name}
-                href={val.link}
-                className={`flex justify-center items-center ${path.startsWith(val.link) ? 'bg-white border-r border-r-black border-r-4  ' : ' '} cursor-pointer p-4`}
-              >
-                {val.svg}
-              </Link>
-            );
-          })}
+    <div className="flex w-screen">
+      <div className="w-15 flex min-h-screen flex-col gap-4 bg-accent/40 pt-8">
+        <div className="fixed w-15 g-accent/40">
+          {elements.map((val) => (
+            <a
+              key={val.name}
+              href={val.link}
+              className={`flex cursor-pointer items-center justify-center p-4 ${
+                path.startsWith(val.link)
+                  ? 'border-r-black-4 border-r bg-white'
+                  : ''
+              }`}
+            >
+              {val.svg}
+            </a>
+          ))}
         </div>
       </div>
 
-      <div className="flex-1 ">{children}</div>
+      <div className="flex-1">{children}</div>
     </div>
   );
 }
