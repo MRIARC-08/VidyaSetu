@@ -1,7 +1,6 @@
 'use client';
 
 import authFetch from '@/lib/auth/authFetch';
-import { get } from 'http';
 import { useParams } from 'next/navigation';
 import { useEffect, useState } from 'react';
 import { SubjectPageSkeleton } from '@/components/Skeletons';
@@ -44,7 +43,6 @@ export default function NcertSubjectPage() {
   if (isLoading) {
     return <SubjectPageSkeleton />;
   }
-
 
   return (
     <main className="p-8 flex flex-col gap-16 bg-background min-h-screen">
