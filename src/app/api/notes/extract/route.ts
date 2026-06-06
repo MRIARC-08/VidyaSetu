@@ -1,6 +1,5 @@
-import { NextResponse } from 'next/server';
+import { errorResponse } from '@/lib/api-response';
 
 export async function POST() {
-  // TODO: Implement notes text extraction
-  return NextResponse.json({ message: 'Not implemented' }, { status: 501 });
+  return errorResponse('Not implemented', 501);
 }
