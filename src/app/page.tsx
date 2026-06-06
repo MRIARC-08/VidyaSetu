@@ -20,12 +20,8 @@ useEffect(() => {
         options: { method: 'GET' },
       });
 
-      if (response?.data?.user) {
-        setUser(response.data.user);
-      } else if (response?.user) {
+      if (response?.user) {
         setUser(response.user);
-      } else if (response?.data) {
-        setUser(response.data);
       }
     } catch (error) {
       console.error("User fetch failed.");
