@@ -3,7 +3,6 @@ import React, { useState } from 'react';
 
 import SecondSlide from './components/SecondSlide';
 import FirstSlide from './components/FirstSlide';
-import { date, includes } from 'zod';
 
 import { useRouter } from 'next/navigation';
 import { fa } from 'zod/locales';
@@ -31,8 +30,6 @@ function page() {
     const url = '/api/user/updateUser';
 
     const profile = await authFetch({ url, options });
-
-    console.log(profile);
 
     setLoading(false);
     if (profile.message.class) {

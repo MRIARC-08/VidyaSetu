@@ -123,9 +123,7 @@ export default function DashboardPage() {
 
     setUser(user.user);
 
-    console.log(user);
-
-    if (user.firstTime) {
+    if (user.user.firstTime) {
       router.push('/profileCompletion');
     }
   };

@@ -2,7 +2,6 @@
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import React, { PropsWithChildren, useEffect, useState } from 'react';
-import { boolean, string } from 'zod';
 
 interface ProfileProps {
   name: string;
