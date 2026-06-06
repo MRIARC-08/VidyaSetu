@@ -21,15 +21,16 @@ function SecondSlide() {
           </svg>
         </div>
         <div className="flex flex-col items-center justify-center">
-          <p className="text-2xl font-bold">You're all set!</p>
+          <p className="text-2xl font-bold">You&apos;re all set!</p>
           <p className="text-[14px] text-black/60 text-center w-[60%]">
-            Welcome to Vidyasetu! We've tailored your learning journey for Class
-            10. Get ready to excel in your studies with personalized resources.
+            Welcome to Vidyasetu! We&apos;ve tailored your learning journey for
+            Class 10. Get ready to excel in your studies with personalized
+            resources.
           </p>
         </div>
 
         <div className="w-full flex flex-col gap-4">
-          <p className="text-[16px] font-medium">What's next for you?</p>
+          <p className="text-[16px] font-medium">What&apos;s next for you?</p>
           <div>
             <div className="flex gap-8 ">
               <div className="flex bg-button/3 flex-1 p-2   gap-4">
