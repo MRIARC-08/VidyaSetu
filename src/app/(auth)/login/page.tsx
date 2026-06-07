@@ -266,7 +266,7 @@ export default function LoginPage() {
                 <div className="gap-2 flex flex-col">
                   <div className="flex justify-between items-center">
                     <label htmlFor="password"> Password</label>
-                    <p className="text-button text-[14px]">Forgot password?</p>
+                    <p className="text-button text-[14px] cursor-pointer" onClick={() => router.push('/forgot-password')}>Forgot password?</p>
                   </div>
 
                   <div className="relative">
