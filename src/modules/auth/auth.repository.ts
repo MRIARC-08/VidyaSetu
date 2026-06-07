@@ -4,7 +4,6 @@ import crypto from 'crypto';
 import { hashPassword } from '@/lib/auth/password';
 
 const REFRESH_TOKEN_TTL_MS = 7 * 24 * 60 * 60 * 1000;
-const RESET_TOKEN_TTL_MS = 60 * 60 * 1000;
 
 function createRefreshTokenValue() {
   return crypto.randomBytes(64).toString('hex');
