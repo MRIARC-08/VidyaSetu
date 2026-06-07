@@ -26,12 +26,23 @@ interface Subjects {
     subjectId: string;
     title: string;
   }[];
+  progress?: {
+    totalChapters: number;
+    practicedChaptersCount: number;
+  };
 }
 
 interface UserResponse {
   user?: {
     class?: string | number | null;
   };
+}
+
+interface SubjectProgressResponse {
+  subjectId: string;
+  subjectName: string;
+  totalChapters: number;
+  practicedChaptersCount: number;
 }
 
 async function fetchUser() {
@@ -55,10 +66,22 @@ async function fetchSubjects(classId: string) {
     return [];
   }
 
-  return res.message.map((subject: Subjects) => ({
-    ...subject,
-    chaptersLength: subject.chapters.length,
-  }));
+  return res.message as Subjects[];
+}
+
+async function fetchSubjectProgress(classLevel: string) {
+  const res = await authFetch({
+    url: `/api/analytics/subject-progress?classLevel=${encodeURIComponent(classLevel)}`,
+    options: {
+      method: 'GET',
+    },
+  });
+
+  if (!res.data || !Array.isArray(res.data)) {
+    return [];
+  }
+
+  return res.data as SubjectProgressResponse[];
 }
 
 export default function Page() {
@@ -88,13 +111,31 @@ export default function Page() {
   useEffect(() => {
     let isMounted = true;
 
-    Promise.all([fetchUser(), fetchSubjects(params.class)])
-      .then(([nextUser, subjects]) => {
+    Promise.all([
+      fetchUser(),
+      fetchSubjects(params.class),
+      fetchSubjectProgress(params.class),
+    ])
+      .then(([nextUser, subjects, progress]) => {
         if (!isMounted) return;
 
         setUser(nextUser);
-        setSubs(subjects);
-        setFocusSubject(subjects[0]);
+
+        const subjectsWithProgress = subjects.map((sub: Subjects) => {
+          const subProgress = progress.find((p) => p.subjectId === sub.id);
+          return {
+            ...sub,
+            progress: subProgress
+              ? {
+                  totalChapters: subProgress.totalChapters,
+                  practicedChaptersCount: subProgress.practicedChaptersCount,
+                }
+              : { totalChapters: sub.chapters.length, practicedChaptersCount: 0 },
+          };
+        });
+
+        setSubs(subjectsWithProgress);
+        setFocusSubject(subjectsWithProgress[0]);
       })
       .finally(() => {
         if (isMounted) {
@@ -128,6 +169,15 @@ export default function Page() {
         <div className="flex justify-end font-semibold"></div>
         <div className="grid md:grid-cols-3 grid-cols-2 gap-4 transition-all duration-300 ">
           {subs.map((val: Subjects) => {
+            const progressPercentage =
+              val.progress && val.progress.totalChapters > 0
+                ? Math.round(
+                    (val.progress.practicedChaptersCount /
+                      val.progress.totalChapters) *
+                      100
+                  )
+                : 0;
+
             return (
               <div
                 key={val.id}
@@ -138,13 +188,19 @@ export default function Page() {
                   <div>{subjectIcons[val.name.split(' ')[0]]}</div>
                   <div className="flex justify-between">
                     <p>{val.name}</p>
-                    <div className="flex flex-col justify-center items-center">
-                      <p>70%</p>
-                      <p className="text-[12px]">Completed</p>
+                    <div className="flex flex-col justify-center items-end">
+                      <p>{progressPercentage}%</p>
+                      <p className="text-[10px] text-primary/70">
+                        {val.progress?.practicedChaptersCount || 0} of{' '}
+                        {val.progress?.totalChapters || 0} chapters
+                      </p>
                     </div>
                   </div>
-                  <div className="w-full h-2 bg-accent/14">
-                    <div className="w-[70%] h-full bg-black"></div>
+                  <div className="w-full h-2 bg-accent/14 mt-2">
+                    <div
+                      className="h-full bg-black transition-all duration-500"
+                      style={{ width: `${progressPercentage}%` }}
+                    ></div>
                   </div>
                 </div>
 

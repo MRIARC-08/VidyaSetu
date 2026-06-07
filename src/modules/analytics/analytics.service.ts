@@ -221,6 +221,10 @@ export default class AnalyticsService {
       },
     };
   }
+
+  static async getSubjectProgress(userId: string, classLevel: number) {
+    return await AnalyticsRepository.getSubjectProgress(userId, classLevel);
+  }
 }
 
 function dateToKey(d: Date): string {

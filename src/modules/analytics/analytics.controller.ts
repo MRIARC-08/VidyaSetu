@@ -92,6 +92,45 @@ export default class AnalyticsController {
       return handleAnalyticsError(error);
     }
   }
+
+  static async getSubjectProgress(req: Request) {
+    try {
+      const userId = await getAuthenticatedUserId();
+      if (!userId) {
+        return NextResponse.json({ message: 'Unauthorized' }, { status: 401 });
+      }
+
+      const url = new URL(req.url);
+      const classLevelStr = url.searchParams.get('classLevel');
+
+      if (!classLevelStr) {
+        return NextResponse.json(
+          { message: 'classLevel is required' },
+          { status: 400 }
+        );
+      }
+
+      const classLevel = Number(classLevelStr);
+      if (isNaN(classLevel)) {
+        return NextResponse.json(
+          { message: 'Invalid classLevel' },
+          { status: 400 }
+        );
+      }
+
+      const result = await AnalyticsService.getSubjectProgress(
+        userId,
+        classLevel
+      );
+
+      return NextResponse.json(
+        { message: 'Subject progress retrieved successfully', data: result },
+        { status: 200 }
+      );
+    } catch (error: unknown) {
+      return handleAnalyticsError(error);
+    }
+  }
 }
 
 export { AnalyticsController };

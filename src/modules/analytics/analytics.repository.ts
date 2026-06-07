@@ -88,4 +88,63 @@ export default class AnalyticsRepository {
 
     return Number(result[0]?.count ?? 0);
   }
+
+  static async getSubjectProgress(userId: string, classLevel: number) {
+    const subjects = await prisma.subject.findMany({
+      where: {
+        academicClass: {
+          level: classLevel,
+        },
+      },
+      include: {
+        chapters: {
+          select: {
+            id: true,
+          },
+        },
+      },
+    });
+
+    const quizSessions = await prisma.quizSession.findMany({
+      where: {
+        userId,
+        completedAt: { not: null },
+      },
+      select: {
+        quiz: {
+          select: {
+            chapterId: true,
+            topic: {
+              select: {
+                chapterId: true,
+              },
+            },
+          },
+        },
+      },
+    });
+
+    const practicedChapterIds = new Set<string>();
+    for (const session of quizSessions) {
+      if (session.quiz.chapterId) {
+        practicedChapterIds.add(session.quiz.chapterId);
+      } else if (session.quiz.topic?.chapterId) {
+        practicedChapterIds.add(session.quiz.topic.chapterId);
+      }
+    }
+
+    return subjects.map((subject: any) => {
+      const totalChapters = subject.chapters.length;
+      const practicedChaptersCount = subject.chapters.filter((chapter: any) =>
+        practicedChapterIds.has(chapter.id)
+      ).length;
+
+      return {
+        subjectId: subject.id,
+        subjectName: subject.name,
+        totalChapters,
+        practicedChaptersCount,
+      };
+    });
+  }
 }
