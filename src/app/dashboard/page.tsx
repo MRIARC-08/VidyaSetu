@@ -6,6 +6,7 @@ import { useEffect, useState } from 'react';
 import { ProgressDashboard } from '@/components/ProgressDashboard';
 import { StreakWidget } from '@/components/StreakWidget';
 import { StreakDashboard } from '@/components/StreakDashboard';
+import EmptyState from '../../components/EmptyState';
 
 interface UserProps {
   name: string;
@@ -264,14 +265,23 @@ export default function DashboardPage() {
       </div>
 
       {/* learning progress */}
-
       <div className="flex flex-col gap-4 w-full h-full flex-1">
-        <div className="flex justify-between font-bold uppercase text-[12px]">
-          <div>learning progress </div>
+        <div className="flex justify-between font-bold uppercase text-[12px]"></div>
+          <div>learning progress</div>
         </div>
-
-        <ProgressDashboard />
+        
+        {/* Empty State for no quizzes */}
+        <EmptyState 
+          icon={
+            <svg width="42" height="42" fill="none" stroke="currentColor" strokeWidth="1.5" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" d="M12 6v6h4.5m4.5 0a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>
+          }
+          title="No Quizzes Taken"
+          description="Your progress tracking will appear here once you complete your first module."
+          ctaText="Take your first quiz"
+          ctaHref="/quiz"
+        />
       </div>
-    </div>
   );
 }
