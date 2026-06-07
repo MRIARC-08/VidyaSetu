@@ -13,37 +13,71 @@ import { signIn } from 'next-auth/react';
 export default function LoginPage() {
   const [email, setEmail] = useState<string>('');
   const [password, setPassword] = useState<string>('');
-  const [err, setErr] = useState<string>('');
+  const [errors, setErrors] = useState({
+    email: '',
+    password: '',
+    server: '',
+  });
+
+  const [loading, setLoading] = useState(false);
   const router = useRouter();
 
   const handleSubmit = async (e: React.SyntheticEvent<HTMLFormElement>) => {
     e.preventDefault();
-    setErr('');
-    if ([password, email].some((v) => v.trim() == '')) {
-      setErr('All Sections are nessecery');
+
+    const newErrors = {
+      email: '',
+      password: '',
+      server: '',
+    };
+
+    if (!email.trim()) {
+      newErrors.email = 'Email is required';
+    }
+
+    if (!password.trim()) {
+      newErrors.password = 'Password is required';
+    }
+
+    if (newErrors.email || newErrors.password) {
+      setErrors(newErrors);
       return;
     }
 
-    const user = await fetch('/api/auth/login', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({ email, password }),
-      credentials: 'include',
-    });
+    try {
+      setLoading(true);
 
-    const result = await user.json();
+      const user = await fetch('/api/auth/login', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ email, password }),
+        credentials: 'include',
+      });
 
-    if (!user.ok || !result.user) {
-      setErr(result.message || result.error || 'Login failed. Please check your credentials.');
-      return;
-    }
+      const result = await user.json();
 
-    if (result.user.firstTime) {
-      router.push('/profile');
-    } else {
-      router.push('/dashboard');
+      if (!user.ok || !result.user) {
+        setErrors((prev) => ({
+          ...prev,
+          server: 'Login failed. Please check your credentials.',
+        }));
+        return;
+      }
+
+      if (result.user.firstTime) {
+        router.push('/profile');
+      } else {
+        router.push('/dashboard');
+      }
+    } catch {
+      setErrors((prev) => ({
+        ...prev,
+        server: 'Something went wrong. Please try again.',
+      }));
+    } finally {
+      setLoading(false);
     }
   };
 
@@ -229,29 +263,52 @@ export default function LoginPage() {
                 onSubmit={handleSubmit}
               >
                 <div className="gap-2 flex flex-col">
-                  <label htmlFor="email"> Email Address</label>
+                  <label htmlFor="email">Email Address</label>
+
                   <Input
-                    className="bg-primary-foreground"
+                    className={`bg-primary-foreground ${errors.email ? 'border-red-500' : ''}`}
                     placeholder="student@example.com"
                     id="email"
                     value={email}
-                    onChange={(e) => setEmail(e.target.value)}
-                  ></Input>
+                    onChange={(e) => {
+                      setEmail(e.target.value);
+                      setErrors((prev) => ({
+                        ...prev,
+                        email: '',
+                        server: '',
+                      }));
+                    }}
+                  />
+
+                  {errors.email && (
+                    <p className="text-red-500 text-sm">{errors.email}</p>
+                  )}
                 </div>
 
                 <div className="gap-2 flex flex-col">
                   <div className="flex justify-between items-center">
-                    <label htmlFor="password"> Password</label>
+                    <label htmlFor="password">Password</label>
                     <p className="text-button text-[14px]">Forgot password?</p>
                   </div>
 
                   <Input
-                    className="bg-primary-foreground"
+                    className={`bg-primary-foreground ${errors.password ? 'border-red-500' : ''}`}
                     placeholder="••••••••"
                     id="password"
                     value={password}
-                    onChange={(e) => setPassword(e.target.value)}
-                  ></Input>
+                    onChange={(e) => {
+                      setPassword(e.target.value);
+                      setErrors((prev) => ({
+                        ...prev,
+                        password: '',
+                        server: '',
+                      }));
+                    }}
+                  />
+
+                  {errors.password && (
+                    <p className="text-red-500 text-sm">{errors.password}</p>
+                  )}
                 </div>
 
                 <div className="flex text-center gap-1 items-center text-black/60 text-[14px] ">
@@ -260,20 +317,22 @@ export default function LoginPage() {
                 </div>
 
                 <div>
-                  <Input
-                    className="bg-button text-white capitalize font-bold hover:bg-button/90 cursor-pointer transition-all duration-300 ease-in"
+                  <Button
                     type="submit"
-                    value="log in"
-                  ></Input>
+                    disabled={loading}
+                    className="w-full bg-blue-600 text-white p-3 rounded-md font-bold hover:bg-blue-700 disabled:opacity-60"
+                  >
+                    {loading ? 'Logging in...' : 'Log In'}
+                  </Button>
                 </div>
 
                 <p className="text-red-500 text-center text-[14px] -mt-4 font-light">
-                  {err}
+                  {errors.server}
                 </p>
               </form>
 
               <p>
-                Don't have an account?{' '}
+                Don&apos;t have an account?
                 <span
                   className="text-button cursor-pointer"
                   onClick={() => router.push('/register')}

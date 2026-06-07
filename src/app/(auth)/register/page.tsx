@@ -9,39 +9,65 @@ export default function LoginPage() {
   const [name, setName] = useState<string>('');
   const [email, setEmail] = useState<string>('');
   const [password, setPassword] = useState<string>('');
-  const [err, setErr] = useState<string>('');
-  const [passC, setPassC] = useState<string>('');
+  const [errors, setErrors] = useState({
+    name: '',
+    email: '',
+    password: '',
+    server: '',
+  });
+  const [loading, setLoading] = useState(false);
   const handleSubmit = async (e: React.SyntheticEvent<HTMLFormElement>) => {
     e.preventDefault();
-    setErr('');
-    setPassC('');
-    if ([email, password, name].some((v) => v.trim() === '')) {
-      setErr('! Every section is neccessery');
+
+    const newErrors = {
+      name: '',
+      email: '',
+      password: '',
+      server: '',
+    };
+
+    if (!name.trim()) newErrors.name = 'Full name is required';
+    if (!email.trim()) newErrors.email = 'Email is required';
+    if (!password.trim()) newErrors.password = 'Password is required';
+    else if (password.trim().length < 8) {
+      newErrors.password = 'Password must be at least 8 characters';
+    }
+
+    if (newErrors.name || newErrors.email || newErrors.password) {
+      setErrors(newErrors);
       return;
     }
 
-    if (password.trim().length < 8) {
-      setPassC('Password must have 8 characters');
-      return;
-    }
+    try {
+      setLoading(true);
 
-    const user = await fetch('/api/auth/register', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({ name, email, password }),
-      credentials: 'include',
-    });
+      const user = await fetch('/api/auth/register', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ name, email, password }),
+        credentials: 'include',
+      });
 
-    const res = await user.json();
+      const res = await user.json();
 
-    const isFirstTime = res?.user?.firstTime;
+      if (!user.ok || !res.user) {
+        setErrors((prev) => ({
+          ...prev,
+          server: 'Registration failed. Please try again.',
+        }));
+        return;
+      }
 
-    if (isFirstTime) {
-      router.push('/profile');
-    } else {
-      router.push('/dashboard');
+      router.push(res.user.firstTime ? '/profile' : '/dashboard');
+    } catch {
+      setErrors((prev) => ({
+        ...prev,
+        server: 'Something went wrong. Please try again.',
+      }));
+    } finally {
+      setLoading(false);
     }
   };
   const handleLoginWithGoogle = async () => {
@@ -52,7 +78,7 @@ export default function LoginPage() {
 
   const router = useRouter();
   return (
-    <main className="flex h-screen w-screen overflow-hidden">
+    <main className="flex min-h-screen w-screen overflow-y-auto">
       {/* Left Side - Glowing Glass Section */}
       <div className="relative flex-1 hidden md:flex flex-col bg-gradient-to-br from-[#4F46E5] to-[#1325EC] overflow-hidden">
         {/* Dot Overlay */}
@@ -175,7 +201,7 @@ export default function LoginPage() {
       </div>
 
       {/* Right Side - Login Form */}
-      <div className="flex-1 h-screen flex flex-col pr-10 pt-4">
+      <div className="flex-1 min-h-screen flex flex-col pr-10 pt-4">
         <p className="flex justify-end text-[14px]">
           Need help? <span className="pl-2 text-button"> Contact Support</span>
         </p>
@@ -226,6 +252,7 @@ export default function LoginPage() {
               </div>
 
               {/* Email Form */}
+              {/* Email Form */}
               <form
                 className="flex flex-col gap-6 md:w-3/5 w-full"
                 onSubmit={handleSubmit}
@@ -233,45 +260,66 @@ export default function LoginPage() {
                 <div className="flex flex-col gap-2">
                   <label htmlFor="fullName">Full Name</label>
                   <Input
-                    className="bg-primary-foreground"
+                    className={`bg-primary-foreground ${errors.name ? 'border-red-500' : ''}`}
                     placeholder="MRiARC"
                     id="fullName"
-                    onChange={(e) => setName(e.target.value)}
+                    onChange={(e) => {
+                      setName(e.target.value);
+                      setErrors((prev) => ({ ...prev, name: '', server: '' }));
+                    }}
                     value={name}
                   />
-                </div>
-                <div className="flex flex-col gap-2">
-                  <div className="flex justify-between items-center">
-                    <label htmlFor="email">Email Address</label>
-                  </div>
-                  <Input
-                    className="bg-primary-foreground"
-                    type="email"
-                    placeholder="student@example.com"
-                    id="email"
-                    required
-                    onChange={(e) => setEmail(e.target.value)}
-                    value={email}
-                  />
+                  {errors.name && (
+                    <p className="text-red-500 text-[14px] font-light">
+                      {errors.name}
+                    </p>
+                  )}
                 </div>
 
                 <div className="flex flex-col gap-2">
-                  <div className="flex justify-between items-center">
-                    <label htmlFor="password">Create Password</label>
-                  </div>
+                  <label htmlFor="email">Email Address</label>
                   <Input
-                    className="bg-primary-foreground"
+                    className={`bg-primary-foreground ${errors.email ? 'border-red-500' : ''}`}
+                    type="email"
+                    placeholder="student@example.com"
+                    id="email"
+                    onChange={(e) => {
+                      setEmail(e.target.value);
+                      setErrors((prev) => ({ ...prev, email: '', server: '' }));
+                    }}
+                    value={email}
+                  />
+                  {errors.email && (
+                    <p className="text-red-500 text-[14px] font-light">
+                      {errors.email}
+                    </p>
+                  )}
+                </div>
+
+                <div className="flex flex-col gap-2">
+                  <label htmlFor="password">Create Password</label>
+                  <Input
+                    className={`bg-primary-foreground ${errors.password ? 'border-red-500' : ''}`}
                     type="password"
                     placeholder="Min. 8 characters"
                     id="password"
-                    required
-                    onChange={(e) => setPassword(e.target.value)}
+                    onChange={(e) => {
+                      setPassword(e.target.value);
+                      setErrors((prev) => ({
+                        ...prev,
+                        password: '',
+                        server: '',
+                      }));
+                    }}
                     value={password}
                   />
-                  <p className="text-red-500  text-[14px] font-light">
-                    {passC}
-                  </p>
+                  {errors.password && (
+                    <p className="text-red-500 text-[14px] font-light">
+                      {errors.password}
+                    </p>
+                  )}
                 </div>
+
                 <div className="flex items-center gap-2 text-black/60 text-[14px]">
                   <Input
                     type="checkbox"
@@ -283,14 +331,20 @@ export default function LoginPage() {
                     I agree to the Terms of Service and Privacy Policy
                   </p>
                 </div>
-                <Input
+
+                {errors.server && (
+                  <p className="text-red-500 text-center text-[14px] -mt-4 font-light">
+                    {errors.server}
+                  </p>
+                )}
+
+                <Button
                   type="submit"
-                  className="bg-button text-white font-bold cursor-pointer hover:bg-button/90 transition-all"
-                  value="Create Account"
-                />
-                <p className="text-red-500 text-center text-[14px] -mt-4 font-light">
-                  {err}
-                </p>
+                  disabled={loading}
+                  className="w-full bg-blue-600 text-white p-3 rounded-md"
+                >
+                  {loading ? 'Creating Account...' : 'Create Account'}
+                </Button>
               </form>
 
               <p className="mt-2">
