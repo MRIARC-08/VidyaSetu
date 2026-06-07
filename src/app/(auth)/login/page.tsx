@@ -9,6 +9,7 @@ import { useRouter } from 'next/navigation';
 import { useState } from 'react';
 import { tuple } from 'zod';
 import { signIn } from 'next-auth/react';
+import { showSuccess, showError } from '@/lib/toast';
 
 export default function LoginPage() {
   const [email, setEmail] = useState<string>('');
@@ -21,29 +22,38 @@ export default function LoginPage() {
     setErr('');
     if ([password, email].some((v) => v.trim() == '')) {
       setErr('All Sections are nessecery');
+      showError('All fields are required');
       return;
     }
 
-    const user = await fetch('/api/auth/login', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({ email, password }),
-      credentials: 'include',
-    });
+    try {
+      const user = await fetch('/api/auth/login', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ email, password }),
+        credentials: 'include',
+      });
 
-    const result = await user.json();
+      const result = await user.json();
 
-    if (!user.ok || !result.user) {
-      setErr(result.message || result.error || 'Login failed. Please check your credentials.');
-      return;
-    }
+      if (!user.ok || !result.user) {
+        const errorMsg = result.message || result.error || 'Login failed. Please check your credentials.';
+        setErr(errorMsg);
+        showError(errorMsg);
+        return;
+      }
 
-    if (result.user.firstTime) {
-      router.push('/profile');
-    } else {
-      router.push('/dashboard');
+      showSuccess('Login successful');
+
+      if (result.user.firstTime) {
+        router.push('/profile');
+      } else {
+        router.push('/dashboard');
+      }
+    } catch (error: any) {
+      showError(error?.message || 'Authentication failed');
     }
   };
 

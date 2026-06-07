@@ -4,6 +4,7 @@ import { Button } from '@/components/ui/button';
 import { useRouter } from 'next/navigation';
 import { useState } from 'react';
 import { signIn } from 'next-auth/react';
+import { showSuccess, showError } from '@/lib/toast';
 
 export default function LoginPage() {
   const [name, setName] = useState<string>('');
@@ -17,31 +18,45 @@ export default function LoginPage() {
     setPassC('');
     if ([email, password, name].some((v) => v.trim() === '')) {
       setErr('! Every section is neccessery');
+      showError('All fields are required');
       return;
     }
 
     if (password.trim().length < 8) {
       setPassC('Password must have 8 characters');
+      showError('Password must be at least 8 characters');
       return;
     }
 
-    const user = await fetch('/api/auth/register', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({ name, email, password }),
-      credentials: 'include',
-    });
+    try {
+      const user = await fetch('/api/auth/register', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ name, email, password }),
+        credentials: 'include',
+      });
 
-    const res = await user.json();
+      const res = await user.json();
 
-    const isFirstTime = res?.user?.firstTime;
+      if (!user.ok || !res.user) {
+        const errorMsg = res.message || res.error || 'Registration failed';
+        setErr(errorMsg);
+        showError(errorMsg);
+        return;
+      }
 
-    if (isFirstTime) {
-      router.push('/profile');
-    } else {
-      router.push('/dashboard');
+      showSuccess('Registration successful');
+      const isFirstTime = res?.user?.firstTime;
+
+      if (isFirstTime) {
+        router.push('/profile');
+      } else {
+        router.push('/dashboard');
+      }
+    } catch (error: any) {
+      showError(error?.message || 'Authentication failed');
     }
   };
   const handleLoginWithGoogle = async () => {
