@@ -8,29 +8,31 @@ datasource db {
 }
 
 model User {
-  id               String            @id @default(uuid())
-  name             String?
-  email            String            @unique
-  password         String?
-  class            String?        
-  image            String?
-  role             UserRole          @default(STUDENT)
-  isEmailVerified  Boolean           @default(false)
-  firstTime        Boolean           @default(true)
-  emailVerifiedAt  DateTime?
-  streakCount      Int               @default(0)
-  lastActiveDate   DateTime?
-  createdAt        DateTime          @default(now())
-  updatedAt        DateTime          @updatedAt
-  deletedAt        DateTime?
-  aigenerationLogs AIGenerationLog[]
-  accounts         Account[]
-  notes            Note[]
-  quizzes          Quiz[]
-  quizSessions     QuizSession[]
-  refreshTokens    RefreshToken[]
-  stats            UserStats?
-  bookmarks        Bookmark[]
+  id                 String            @id @default(uuid())
+  name               String?
+  email              String            @unique
+  password           String?
+  class              String?        
+  image              String?
+  role               UserRole          @default(STUDENT)
+  isEmailVerified    Boolean           @default(false)
+  firstTime          Boolean           @default(true)
+  emailVerifiedAt    DateTime?
+  streakCount        Int               @default(0)
+  lastActiveDate     DateTime?
+  resetPasswordToken String?
+  resetPasswordExpires DateTime?
+  createdAt          DateTime          @default(now())
+  updatedAt          DateTime          @updatedAt
+  deletedAt          DateTime?
+  aigenerationLogs   AIGenerationLog[]
+  accounts           Account[]
+  notes              Note[]
+  quizzes            Quiz[]
+  quizSessions       QuizSession[]
+  refreshTokens      RefreshToken[]
+  stats              UserStats?
+  bookmarks          Bookmark[]
 
   @@index([email])
 }

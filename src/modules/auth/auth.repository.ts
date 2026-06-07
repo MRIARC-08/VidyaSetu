@@ -4,6 +4,7 @@ import crypto from 'crypto';
 import { hashPassword } from '@/lib/auth/password';
 
 const REFRESH_TOKEN_TTL_MS = 7 * 24 * 60 * 60 * 1000;
+const RESET_TOKEN_TTL_MS = 60 * 60 * 1000;
 
 function createRefreshTokenValue() {
   return crypto.randomBytes(64).toString('hex');
@@ -109,5 +110,45 @@ export class AuthRepository {
 
   static async findRefreshToken(token: string) {
     return prisma.refreshToken.findUnique({ where: { token } });
+  }
+
+  static async findUserByResetToken(hashedToken: string) {
+    return prisma.user.findFirst({
+      where: {
+        resetPasswordToken: hashedToken,
+        resetPasswordExpires: { gt: new Date() },
+      },
+    });
+  }
+
+  static async saveResetToken(
+    userId: string,
+    hashedToken: string,
+    expiresAt: Date
+  ) {
+    await prisma.user.update({
+      where: { id: userId },
+      data: {
+        resetPasswordToken: hashedToken,
+        resetPasswordExpires: expiresAt,
+      },
+    });
+  }
+
+  static async clearResetToken(userId: string) {
+    await prisma.user.update({
+      where: { id: userId },
+      data: {
+        resetPasswordToken: null,
+        resetPasswordExpires: null,
+      },
+    });
+  }
+
+  static async updatePassword(userId: string, hashedPassword: string) {
+    await prisma.user.update({
+      where: { id: userId },
+      data: { password: hashedPassword },
+    });
   }
 }

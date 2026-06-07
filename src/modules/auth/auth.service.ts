@@ -1,5 +1,6 @@
 import { AuthRepository } from './auth.repository';
-
+import bcrypt from 'bcrypt';
+import crypto from 'crypto';
 import { verifyPassword, validatePasswordStrength } from '@/lib/auth/password';
 import { jwtService } from '@/lib/auth/jwt';
 
@@ -16,6 +17,11 @@ export class AuthServiceError extends Error {
 const INVALID_CREDENTIALS_MESSAGE = 'Invalid email or password';
 const INVALID_REFRESH_TOKEN_MESSAGE = 'Invalid or expired refresh token';
 const GOOGLE_AUTH_USER_MESSAGE = 'Unable to create or load Google user';
+const RESET_TOKEN_TTL_MS = 60 * 60 * 1000;
+
+function hashToken(token: string) {
+  return crypto.createHash('sha256').update(token).digest('hex');
+}
 
 export class AuthServices {
   static async handleGoogleService(data: {
@@ -125,6 +131,44 @@ export class AuthServices {
 
   static async handleLogout(refreshTokentoken: string) {
     await AuthRepository.deleteRefreshToken(refreshTokentoken);
+  }
+
+  static async forgotPassword(email: string) {
+    const user = await AuthRepository.findUserByEmail(email);
+
+    if (!user) {
+      return { message: 'If that email is registered, a reset link has been sent.' };
+    }
+
+    const rawToken = crypto.randomBytes(32).toString('hex');
+    const hashedToken = hashToken(rawToken);
+    const expiresAt = new Date(Date.now() + RESET_TOKEN_TTL_MS);
+
+    await AuthRepository.saveResetToken(user.id, hashedToken, expiresAt);
+
+    console.log(`[ForgotPassword] Reset token for ${email}: ${rawToken}`);
+
+    return {
+      message: 'If that email is registered, a reset link has been sent.',
+      resetToken: rawToken,
+    };
+  }
+
+  static async resetPassword(token: string, newPassword: string) {
+    const hashedToken = hashToken(token);
+    const user = await AuthRepository.findUserByResetToken(hashedToken);
+
+    if (!user) {
+      throw new AuthServiceError('Invalid or expired reset token', 400);
+    }
+
+    const hashedPassword = await bcrypt.hash(newPassword, 10);
+
+    await AuthRepository.clearResetToken(user.id);
+
+    await AuthRepository.updatePassword(user.id, hashedPassword);
+
+    return { message: 'Password has been reset successfully.' };
   }
 
   static createRefreshToken(userId: string) {

@@ -65,4 +65,39 @@ export class AuthControllers {
       return authErrorResponse(error, 401);
     }
   }
+
+  static async forgotPassword(req: Request) {
+    try {
+      const { email } = await req.json();
+
+      if (!email) {
+        return NextResponse.json({ error: 'Email is required' }, { status: 400 });
+      }
+
+      const result = await AuthServices.forgotPassword(email);
+
+      return NextResponse.json(result, { status: 200 });
+    } catch (error: unknown) {
+      return authErrorResponse(error);
+    }
+  }
+
+  static async resetPassword(req: Request, token: string) {
+    try {
+      const { password } = await req.json();
+
+      if (!password || password.length < 8) {
+        return NextResponse.json(
+          { error: 'Password must be at least 8 characters' },
+          { status: 400 }
+        );
+      }
+
+      const result = await AuthServices.resetPassword(token, password);
+
+      return NextResponse.json(result, { status: 200 });
+    } catch (error: unknown) {
+      return authErrorResponse(error);
+    }
+  }
 }
