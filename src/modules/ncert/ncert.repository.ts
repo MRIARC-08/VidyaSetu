@@ -1,6 +1,12 @@
 import { prisma } from '@/lib/prisma';
 
 export class NcertRepository {
+  static async getClasses() {
+    return await prisma.academicClass.findMany({
+      orderBy: { level: 'asc' },
+    });
+  }
+
   static async getAcadmicClass(grade: number) {
     return await prisma.academicClass.findUnique({
       where: {
