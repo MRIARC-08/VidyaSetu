@@ -1,12 +1,16 @@
-import { access, accessSync } from 'fs';
 import { NextRequest, NextResponse } from 'next/server';
 import { jwtService } from './lib/auth/jwt';
+
+const PROTECTED_ROUTES = ['/dashboard', '/ncert', '/performance', '/quiz'];
+const ADMIN_ROUTES = ['/admin'];
+const AUTH_ROUTES = ['/login', '/register'];
 
 export function proxy(req: NextRequest) {
   const { pathname } = req.nextUrl;
 
   const requestHeaders = new Headers(req.headers);
   requestHeaders.set('x-pathname', pathname);
+
   if (
     pathname.startsWith('/_next') ||
     pathname.startsWith('/api') ||
@@ -15,22 +19,35 @@ export function proxy(req: NextRequest) {
     return NextResponse.next();
   }
 
+  const refreshToken = req.cookies.get('refresh_token')?.value;
   const accessToken = req.cookies.get('access_token')?.value;
 
-  const refreshToken = req.cookies.get('refresh_token');
+  const isProtected = PROTECTED_ROUTES.some((r) => pathname.startsWith(r));
+  const isAdmin = ADMIN_ROUTES.some((r) => pathname.startsWith(r));
+  const isAuth = AUTH_ROUTES.some((r) => pathname.startsWith(r));
 
-  if (
-    !refreshToken &&
-    (pathname.startsWith('/dashboard') ||
-      pathname.startsWith('/ncert') ||
-      pathname.startsWith('/performance'))
-  ) {
-    return NextResponse.redirect(new URL('/login', req.url));
-  } else if (
-    refreshToken &&
-    (pathname.startsWith('/register') || pathname.startsWith('/login'))
-  ) {
+  if (!refreshToken) {
+    if (isProtected || isAdmin) {
+      return NextResponse.redirect(new URL('/login', req.url));
+    }
+    return NextResponse.next({
+      request: { headers: requestHeaders },
+    });
+  }
+
+  if (isAuth) {
     return NextResponse.redirect(new URL('/dashboard', req.url));
+  }
+
+  if (isAdmin && accessToken) {
+    try {
+      const payload = jwtService.verifyAccessToken(accessToken);
+      if (payload.role !== 'ADMIN') {
+        return NextResponse.redirect(new URL('/dashboard', req.url));
+      }
+    } catch {
+      return NextResponse.redirect(new URL('/login', req.url));
+    }
   }
 
   return NextResponse.next({
@@ -42,13 +59,6 @@ export function proxy(req: NextRequest) {
 
 export const config = {
   matcher: [
-    /*
-     * Match all request paths except for the ones starting with:
-     * - api (API routes)
-     * - _next/static (static files)
-     * - _next/image (image optimization files)
-     * - favicon.ico (favicon file)
-     */
     '/((?!api|_next/static|_next/image|favicon.ico).*)',
   ],
 };

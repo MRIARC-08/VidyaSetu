@@ -1,4 +1,5 @@
 import { prisma } from '@/lib/prisma';
+import type { Prisma } from '@/generated/prisma/client';
 import type { SeedNcertInput } from './admin.types';
 
 export class AdminRepository {
@@ -53,7 +54,7 @@ export class AdminRepository {
     let chaptersCreated = 0;
     let duplicatesSkipped = 0;
 
-    await prisma.$transaction(async (tx: any) => {
+    await prisma.$transaction(async (tx: Prisma.TransactionClient) => {
       for (const book of data.books) {
         let academicClass = await tx.academicClass.findUnique({
           where: { level: book.grade },
@@ -135,7 +136,9 @@ export class AdminRepository {
     return prisma.question.create({
       data: {
         topicId: data.topicId,
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
         type: data.type as any,
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
         difficulty: data.difficulty as any,
         questionText: data.questionText,
         explanation: data.explanation ?? null,
