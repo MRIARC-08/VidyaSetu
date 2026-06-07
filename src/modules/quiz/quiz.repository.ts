@@ -106,6 +106,10 @@ export class QuizRepository {
             id: true,
             mode: true,
             source: true,
+            chapterId: true,
+            topicId: true,
+            noteId: true,
+            questionCount: true,
           },
         },
         responses: {
@@ -126,6 +130,7 @@ export class QuizRepository {
                 },
               },
             },
+            evaluation: true,
           },
         },
       },

@@ -122,22 +122,36 @@ export class QuizServices {
     }
 
     const sanitizedResponses = session.responses.map((r: any) => ({
-      id: r.id,
-      questionId: r.questionId,
-      selectedOptionId: r.selectedOptionId,
-      subjectiveAnswer: r.subjectiveAnswer,
-      isCorrect: r.isCorrect,
-      score: r.score,
-      timeTaken: r.timeTaken,
-      question: {
-        id: r.question.id,
-        type: r.question.type,
-        difficulty: r.question.difficulty,
-        questionText: r.question.questionText,
-        explanation: r.question.explanation,
-        options: r.question.options,
-      },
-    }));
+       id: r.id,
+       questionId: r.questionId,
+       selectedOptionId: r.selectedOptionId,
+       subjectiveAnswer: r.subjectiveAnswer,
+       isCorrect: r.isCorrect,
+       score: r.score,
+       timeTaken: r.timeTaken,
+       question: {
+         id: r.question.id,
+         type: r.question.type,
+         difficulty: r.question.difficulty,
+         questionText: r.question.questionText,
+         explanation: r.question.explanation,
+         options: r.question.options,
+       },
+       evaluation: r.evaluation,
+     }));
+
+    let questions: any[] = [];
+    if (session.quiz.source === 'CHAPTER' && session.quiz.chapterId) {
+      questions = await QuizRepository.findQuestionsByChapter(
+        session.quiz.chapterId,
+        session.quiz.questionCount
+      );
+    } else if (session.quiz.source === 'TOPIC' && session.quiz.topicId) {
+      questions = await QuizRepository.findQuestionsByTopic(
+        session.quiz.topicId,
+        session.quiz.questionCount
+      );
+    }
 
     return {
       session: {
@@ -153,9 +167,13 @@ export class QuizServices {
           id: session.quiz.id,
           mode: session.quiz.mode,
           source: session.quiz.source,
+          chapterId: session.quiz.chapterId,
+          topicId: session.quiz.topicId,
+          questionCount: session.quiz.questionCount,
         },
       },
       responses: sanitizedResponses,
+      questions,
     };
   }
 
