@@ -1,5 +1,5 @@
 import type { Metadata } from 'next';
-import { Geist, Geist_Mono, Lexend, Manrope } from 'next/font/google';
+import { Manrope } from 'next/font/google';
 import './globals.css';
 import MainLayout from './mainLayout';
 

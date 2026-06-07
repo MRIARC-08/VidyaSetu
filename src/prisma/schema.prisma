@@ -30,7 +30,7 @@ model User {
   quizSessions     QuizSession[]
   refreshTokens    RefreshToken[]
   stats            UserStats?
-
+  notifications    Notification[]
   @@index([email])
 }
 model Account {
@@ -285,4 +285,13 @@ enum EvaluationStatus {
   PENDING
   COMPLETED
   FAILED
+}
+model Notification {
+  id        String   @id @default(uuid())
+  userId    String
+  type      String
+  message   String
+  read      Boolean  @default(false)
+  createdAt DateTime @default(now())
+  user      User     @relation(fields: [userId], references: [id])
 }

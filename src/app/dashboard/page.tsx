@@ -6,7 +6,7 @@ import { useEffect, useState } from 'react';
 import { ProgressDashboard } from '@/components/ProgressDashboard';
 import { StreakWidget } from '@/components/StreakWidget';
 import { StreakDashboard } from '@/components/StreakDashboard';
-
+import NotificationBell from '@/components/NotificationBell';
 interface UserProps {
   name: string;
   email: string;
@@ -175,22 +175,11 @@ export default function DashboardPage() {
           </p>
         </div>
         <div className="flex justify-center items-center gap-4">
-          <svg
-            width="14"
-            height="19"
-            viewBox="0 0 14 19"
-            fill="none"
-            xmlns="http://www.w3.org/2000/svg"
-            className="cursor-pointer"
-          >
-            <path
-              d="M0 15.7692V14.7692H1.61539V6.84616C1.61539 5.53975 2.02885 4.39071 2.85577 3.39904C3.68269 2.40738 4.73077 1.78975 6 1.54616V1C6 0.722224 6.09701 0.486112 6.29101 0.291667C6.48502 0.0972224 6.72059 0 6.99774 0C7.27489 0 7.51123 0.0972224 7.70674 0.291667C7.90225 0.486112 8.00001 0.722224 8.00001 1V1.54616C9.26924 1.78975 10.3173 2.40738 11.1442 3.39904C11.9712 4.39071 12.3846 5.53975 12.3846 6.84616V14.7692H14V15.7692H0V15.7692M7.00001 8.61539V8.61539V8.61539V8.61539V8.61539V8.61539V8.61539V8.61539V8.61539M6.9966 18.3846C6.55143 18.3846 6.17148 18.2265 5.85674 17.9101C5.54199 17.5938 5.38462 17.2135 5.38462 16.7692H8.61539C8.61539 17.2167 8.45689 17.5978 8.13987 17.9125C7.82286 18.2273 7.44177 18.3846 6.9966 18.3846V18.3846M2.61539 14.7692H11.3846V6.84616C11.3846 5.63078 10.9577 4.59616 10.1039 3.74232C9.25001 2.88847 8.21539 2.46155 7.00001 2.46155C5.78462 2.46155 4.75001 2.88847 3.89616 3.74232C3.04232 4.59616 2.61539 5.63078 2.61539 6.84616V14.7692V14.7692"
-              fill="#1A1C1C"
-            />
-          </svg>
-          <div className="w-[0.5px] h-full bg-primary/60"></div>
+          <NotificationBell />
 
-          <div className="cursor-pointer text-14px font-medium">
+          <div className="w-[8.5px] h-full bg-primary/60"></div>
+
+          <div className="cursor-pointer text-[14px] font-medium">
             {user?.name}
           </div>
         </div>
