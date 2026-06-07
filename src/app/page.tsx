@@ -63,12 +63,12 @@ useEffect(() => {
           </div>
         </div>
 
-        <div className="pt-20 flex">
+        <div className="pt-20 flex flex-col md:flex-row">
           <div className="flex-1 flex flex-col gap-8">
             <p className="uppercase text-[12px] tracking-wider] text-secondary ">
               the digital curator
             </p>
-            <p className="text-[80px] font-light leading-24">
+            <p className="text-[40px] md:text-[80px] font-light md:leading-24">
               <span className="">Master NCERT with</span> AI-Powered Smart
               Quizzes
             </p>
@@ -77,7 +77,7 @@ useEffect(() => {
               decodes complex NCERT patterns to curate academic sessions that
               adapt to your cognitive pace.
             </p>
-            <div className="flex gap-4 w-[60%] pt-8">
+            <div className="flex gap-4 w-full md:w-[60%] pt-8">
               <Button
                 text="get started"
                 action={() => router.push('/dashboard')}
@@ -271,7 +271,7 @@ useEffect(() => {
         </div>
       </div>
       <div className="h-max bg-accent/40">
-        <div className="flex p-20 gap-20">
+        <div className="flex flex-col md:flex-row p-8 md:p-20 gap-8 md:gap-20">
           <div className="flex-1 flex flex-col gap-4 ">
             <p className="font-bold">Vidyasetu</p>
             <p>
