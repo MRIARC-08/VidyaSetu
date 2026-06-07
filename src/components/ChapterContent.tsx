@@ -4,6 +4,7 @@ import clsx from 'clsx';
 import { FileText, NotebookText, TriangleAlert } from 'lucide-react';
 import MarkdownRenderer from '@/components/MarkdownRenderer';
 import BookmarkButton from '@/components/BookmarkButton';
+import MarkdownViewer from '@/components/MarkdownViewer';
 
 export type ChapterContentData = {
   id?: string;
@@ -108,7 +109,7 @@ export default function ChapterContent({
       </header>
 
       {hasMarkdown ? (
-        <MarkdownRenderer content={chapter.content ?? ''} />
+        <MarkdownViewer content={chapter.content ?? ''} />
       ) : chapter.pdf ? (
         <div className="border border-primary/15 bg-white p-6">
           <NotebookText className="mb-4 h-6 w-6 text-primary/60" />
