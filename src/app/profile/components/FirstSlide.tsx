@@ -109,10 +109,7 @@ function FirstSlide({
               onChange={(e) => setClas(e.target.value)}
               required
             >
-              <option selected hidden disabled>
-                Select Class
-              </option>
-              <option selected disabled>
+              <option value="" hidden disabled>
                 Select a class
               </option>
               <option value="9">9</option>
