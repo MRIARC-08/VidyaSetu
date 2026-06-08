@@ -22,8 +22,6 @@ const createHeadingId = (text: string) =>
 export default function ChapterTOC({ content }: Props) {
   const [activeId, setActiveId] = useState('');
 
-  if (!content) return null;
-
   const headings: TocItem[] = content
     .split('\n')
     .map((line) => {
@@ -69,7 +67,7 @@ export default function ChapterTOC({ content }: Props) {
     return () =>
       observer.disconnect();
   }, []);
-
+  
   if (!headings.length) return null;
 
   return (

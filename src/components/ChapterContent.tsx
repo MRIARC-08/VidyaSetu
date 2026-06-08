@@ -162,13 +162,7 @@ export default function ChapterContent({
         </div>
       ) : null}
       <div className="mt-12 border-t pt-8">
-        <h3
-          className="
-      text-xl
-      font-bold
-      mb-4
-    "
-        >
+        <h3 className="text-xl font-bold mb-4">
           Related Topics
         </h3>
 
@@ -176,6 +170,7 @@ export default function ChapterContent({
           <li>Related topics will be available soon.</li>
         </ul>
       </div>
+
       <ChapterNavigation
         previous={
           previousChapter
@@ -194,6 +189,6 @@ export default function ChapterContent({
             : undefined
         }
       />
-    </section>
+    </section> 
   );
 }

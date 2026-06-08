@@ -420,32 +420,7 @@ const renderBlock = (block: MarkdownBlock, index: number) => {
           </table>
         </div>
       );
-    case 'paragraph':
-      return (
-        <p className="my-4 leading-7 text-primary/80" key={index}>
-          {renderInline(block.text)}
-        </p>
-      );
-    case 'list':
-      return block.ordered ? (
-        <ol
-          className="my-4 ml-6 list-decimal space-y-2 text-primary/80"
-          key={index}
-        >
-          {block.items.map((item, itemIndex) => (
-            <li key={itemIndex}>{renderInline(item)}</li>
-          ))}
-        </ol>
-      ) : (
-        <ul
-          className="my-4 ml-6 list-disc space-y-2 text-primary/80"
-          key={index}
-        >
-          {block.items.map((item, itemIndex) => (
-            <li key={itemIndex}>{renderInline(item)}</li>
-          ))}
-        </ul>
-      );
+    
     case 'hr':
       return <hr className="my-10 border-primary/15" key={index} />;
   }
