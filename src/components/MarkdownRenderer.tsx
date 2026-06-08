@@ -8,10 +8,17 @@ type MarkdownRendererProps = {
   className?: string;
 };
 
+export interface ListItem {
+  content: string;
+  depth: number;
+  isOrdered: boolean;
+  children: ListItem[];
+}
+
 type MarkdownBlock =
   | { type: 'heading'; level: 1 | 2 | 3 | 4; text: string }
   | { type: 'paragraph'; text: string }
-  | { type: 'list'; ordered: boolean; items: string[] }
+  | { type: 'list'; items: ListItem[] }
   | { type: 'blockquote'; text: string }
   | { type: 'code'; language: string; text: string }
   | { type: 'table'; headers: string[]; rows: string[][] }
@@ -55,10 +62,53 @@ const isBlockStart = (line: string) =>
   /^#{1,4}\s+/.test(line) ||
   /^[-*_]{3,}\s*$/.test(line) ||
   /^>\s?/.test(line) ||
-  /^[-*]\s+/.test(line) ||
-  /^\d+\.\s+/.test(line) ||
+  /^\s*[-*]\s+/.test(line) ||
+  /^\s*\d+\.\s+/.test(line) ||
   /^```/.test(line) ||
   line.includes('|');
+
+const parseListItems = (lines: string[]): ListItem[] => {
+  const items: ListItem[] = [];
+  const stack: ListItem[] = [];
+
+  for (const line of lines) {
+    const trimmed = line.trimStart();
+    if (!trimmed) continue;
+
+    const unorderedMatch = trimmed.match(/^[-*]\s+(.*)$/);
+    const orderedMatch = trimmed.match(/^(\d+)\.\s+(.*)$/);
+
+    if (!unorderedMatch && !orderedMatch) continue;
+
+    const depth = Math.floor((line.length - trimmed.length) / 2);
+    const content = unorderedMatch ? unorderedMatch[1] : orderedMatch![2];
+    const isOrdered = !!orderedMatch;
+
+    const item: ListItem = { content, depth, isOrdered, children: [] };
+
+    if (depth === 0) {
+      items.push(item);
+      stack[0] = item;
+      stack.length = 1;
+    } else {
+      let parentDepth = depth - 1;
+      while (parentDepth >= 0 && !stack[parentDepth]) {
+        parentDepth--;
+      }
+
+      if (parentDepth >= 0) {
+        stack[parentDepth].children.push(item);
+      } else {
+        items.push(item);
+      }
+
+      stack[depth] = item;
+      stack.length = depth + 1;
+    }
+  }
+
+  return items;
+};
 
 const parseMarkdown = (content: string): MarkdownBlock[] => {
   const lines = content.replace(/\r\n/g, '\n').split('\n');
@@ -140,17 +190,18 @@ const parseMarkdown = (content: string): MarkdownBlock[] => {
       continue;
     }
 
-    if (/^[-*]\s+/.test(trimmed) || /^\d+\.\s+/.test(trimmed)) {
-      const ordered = /^\d+\.\s+/.test(trimmed);
-      const itemPattern = ordered ? /^\d+\.\s+/ : /^[-*]\s+/;
-      const items: string[] = [];
+    if (/^\s*[-*]\s+/.test(line) || /^\s*\d+\.\s+/.test(line)) {
+      const listLines: string[] = [];
 
-      while (index < lines.length && itemPattern.test(lines[index].trim())) {
-        items.push(lines[index].trim().replace(itemPattern, ''));
+      while (
+        index < lines.length &&
+        (/^\s*[-*]\s+/.test(lines[index]) || /^\s*\d+\.\s+/.test(lines[index]))
+      ) {
+        listLines.push(lines[index]);
         index += 1;
       }
 
-      blocks.push({ type: 'list', ordered, items });
+      blocks.push({ type: 'list', items: parseListItems(listLines) });
       continue;
     }
 
@@ -274,6 +325,36 @@ const renderHighlightedCode = (code: string): ReactNode[] => {
   return nodes;
 };
 
+const renderListItems = (
+  items: ListItem[],
+  baseKey: string | number,
+  isRoot = false
+): ReactNode => {
+  if (items.length === 0) return null;
+
+  const isOrdered = items[0].isOrdered;
+  const ListTag = isOrdered ? 'ol' : 'ul';
+
+  return (
+    <ListTag
+      key={isRoot ? baseKey : undefined}
+      className={clsx(
+        'space-y-2 pl-6 text-primary/80',
+        isOrdered ? 'list-decimal' : 'list-disc',
+        isRoot ? 'my-5' : 'mt-2'
+      )}
+    >
+      {items.map((item, idx) => (
+        <li className="leading-7" key={`${baseKey}-${idx}`}>
+          <span>{renderInline(item.content)}</span>
+          {item.children.length > 0 &&
+            renderListItems(item.children, `${baseKey}-${idx}`)}
+        </li>
+      ))}
+    </ListTag>
+  );
+};
+
 const renderBlock = (block: MarkdownBlock, index: number) => {
   switch (block.type) {
     case 'heading': {
@@ -332,23 +413,7 @@ const renderBlock = (block: MarkdownBlock, index: number) => {
         </p>
       );
     case 'list': {
-      const ListTag = block.ordered ? 'ol' : 'ul';
-
-      return (
-        <ListTag
-          className={clsx(
-            'my-5 space-y-2 pl-6 text-primary/80',
-            block.ordered ? 'list-decimal' : 'list-disc'
-          )}
-          key={index}
-        >
-          {block.items.map((item, itemIndex) => (
-            <li className="leading-7" key={`${index}-${itemIndex}`}>
-              {renderInline(item)}
-            </li>
-          ))}
-        </ListTag>
-      );
+      return renderListItems(block.items, index, true);
     }
     case 'blockquote':
       return (
