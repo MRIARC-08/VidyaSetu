@@ -2,6 +2,10 @@
 
 import clsx from 'clsx';
 import { FileText, NotebookText, Printer, TriangleAlert } from 'lucide-react';
+import MarkdownRenderer from '@/components/MarkdownRenderer';
+import ChapterNavigation from './ChapterNavigation';
+import ChapterTOC from './ChapterTOC';
+import ChapterBreadcrumb from './ChapterBreadcrumb';
 import BookmarkButton from '@/components/BookmarkButton';
 import MarkdownViewer from '@/components/MarkdownViewer';
 
@@ -19,12 +23,26 @@ type ChapterContentProps = {
   chapter: ChapterContentData | null;
   error?: string | null;
   className?: string;
+  classId?: string;
+  subjectId?: string;
+  previousChapter?: {
+    id: string;
+    title: string;
+  };
+  nextChapter?: {
+    id: string;
+    title: string;
+  };
 };
 
 export default function ChapterContent({
   chapter,
   error,
   className,
+  classId,
+  subjectId,
+  previousChapter,
+  nextChapter,
 }: ChapterContentProps) {
   if (error) {
     return (
@@ -73,6 +91,11 @@ export default function ChapterContent({
         className
       )}
     >
+      <ChapterBreadcrumb
+        classId={classId ?? ''}
+        subjectId={subjectId ?? ''}
+        chapterTitle={chapter.title}
+      />
       <header className="mb-8 border-b border-primary/20 pb-6">
         <div className="flex flex-wrap items-center gap-3 text-sm font-semibold uppercase text-primary/60">
           <span>Chapter {chapter.order}</span>
@@ -111,11 +134,21 @@ export default function ChapterContent({
             <Printer className="h-4 w-4" />
             Print
           </button>
+
+          <button
+            onClick={() => alert('Quiz feature coming soon')}
+            className="inline-flex items-center gap-2 bg-accent px-3 py-2 text-sm font-semibold"
+          >
+            Start Quiz
+          </button>
         </div>
       </header>
 
       {hasMarkdown ? (
-        <MarkdownViewer content={chapter.content ?? ''} />
+        <div className="grid gap-10 lg:grid-cols-[280px_1fr]">
+          <ChapterTOC content={chapter.content ?? ''} />
+          <MarkdownViewer content={chapter.content ?? ''} />
+        </div>
       ) : chapter.pdf ? (
         <div className="border border-primary/15 bg-white p-6">
           <NotebookText className="mb-4 h-6 w-6 text-primary/60" />
@@ -123,22 +156,44 @@ export default function ChapterContent({
             Notes are being prepared
           </h2>
           <p className="mt-3 max-w-2xl text-primary/70">
-            This chapter is available in the NCERT PDF, but learner-facing
-            markdown has not been seeded yet.
+            This chapter is available in the NCERT PDF, but learner-facing markdown
+            has not been seeded yet.
           </p>
         </div>
-      ) : (
-        <div className="border border-primary/15 bg-white p-6">
-          <NotebookText className="mb-4 h-6 w-6 text-primary/60" />
-          <h2 className="text-2xl font-bold text-primary">
-            Content not yet available
-          </h2>
-          <p className="mt-3 max-w-2xl text-primary/70">
-            Content for this chapter has not been added yet. Please check back
-            later.
-          </p>
-        </div>
-      )}
+      ) : null}
+      <div className="mt-12 border-t pt-8">
+        <h3
+          className="
+      text-xl
+      font-bold
+      mb-4
+    "
+        >
+          Related Topics
+        </h3>
+
+        <ul className="space-y-2 text-primary/70">
+          <li>Related topics will be available soon.</li>
+        </ul>
+      </div>
+      <ChapterNavigation
+        previous={
+          previousChapter
+            ? {
+              title: previousChapter.title,
+              href: `/ncert/${classId}/${subjectId}/${previousChapter.id}`,
+            }
+            : undefined
+        }
+        next={
+          nextChapter
+            ? {
+              title: nextChapter.title,
+              href: `/ncert/${classId}/${subjectId}/${nextChapter.id}`,
+            }
+            : undefined
+        }
+      />
     </section>
   );
 }

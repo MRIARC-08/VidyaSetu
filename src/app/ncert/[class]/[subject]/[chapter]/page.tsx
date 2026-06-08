@@ -12,10 +12,18 @@ interface ChapterProps extends ChapterContentData {
   id: string;
   subjectId: string;
 }
+type ChapterNavItem = {
+  id: string;
+  title: string;
+};
 
 export default function NcertChapterPage() {
   const params = useParams<{ class: string; subject: string; chapter: string }>();
   const [chapter, setChapter] = useState<ChapterProps | null>(null);
+  const [previousChapter, setPreviousChapter] = useState<
+    ChapterNavItem | undefined
+  >();
+  const [nextChapter, setNextChapter] = useState<ChapterNavItem | undefined>();
   const [error, setError] = useState<string | null>(null);
   const [isLoading, setIsLoading] = useState(true);
   const scrollProgress = useRef(0);
@@ -47,13 +55,34 @@ export default function NcertChapterPage() {
         className: params.class,
         progressPercent: 0,
       });
+
+      const chaptersRes = await authFetch({
+        url: `/api/ncert/chapters?class=${params.class}&subject=${params.subject}`,
+        options: {
+          method: 'GET',
+        },
+      });
+
+      const chapters = chaptersRes.message.chapters;
+
+      const currentIndex = chapters.findIndex(
+        (c: ChapterNavItem) => c.id === params.chapter
+      );
+
+      if (currentIndex > 0) {
+        setPreviousChapter(chapters[currentIndex - 1]);
+      }
+
+      if (currentIndex < chapters.length - 1) {
+        setNextChapter(chapters[currentIndex + 1]);
+      }
     } catch {
       setChapter(null);
       setError('Unable to load this chapter. Please try again later.');
     } finally {
       setIsLoading(false);
     }
-  }, [params.chapter, params.class, params.subject]);
+  }, [params.class, params.subject, params.chapter]);
 
   useEffect(() => {
     getChapter();

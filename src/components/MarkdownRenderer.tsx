@@ -274,16 +274,23 @@ const renderHighlightedCode = (code: string): ReactNode[] => {
   return nodes;
 };
 
+const createHeadingId = (text: string) =>
+  text
+    .toLowerCase()
+    .replace(/[^\w\s-]/g, '')
+    .trim()
+    .replace(/\s+/g, '-');
+
 const renderBlock = (block: MarkdownBlock, index: number) => {
   switch (block.type) {
     case 'heading': {
-      const headingId = generateId(block.text);
+      const headingId = createHeadingId(block.text);
 
       if (block.level === 1) {
         return (
           <h1
             id={headingId}
-            className="mt-2 border-b border-primary/20 pb-4 text-3xl font-extrabold leading-tight text-primary md:text-4xl"
+            className="mt-2 border-b border-primary/20 pb-4 text-3xl font-extrabold leading-tight text-primary md:text-4xl scroll-mt-24"
             key={index}
           >
             {renderInline(block.text)}
@@ -295,7 +302,7 @@ const renderBlock = (block: MarkdownBlock, index: number) => {
         return (
           <h2
             id={headingId}
-            className="mt-10 text-2xl font-bold leading-tight text-primary"
+            className="mt-10 text-2xl font-bold leading-tight text-primary scroll-mt-24"
             key={index}
           >
             {renderInline(block.text)}
@@ -318,12 +325,13 @@ const renderBlock = (block: MarkdownBlock, index: number) => {
       return (
         <h4
           id={headingId}
-          className="mt-6 text-lg font-semibold leading-snug text-primary"
+          className="mt-8 text-xl font-semibold leading-snug text-primary scroll-mt-24"
           key={index}
         >
           {renderInline(block.text)}
         </h4>
       );
+ 
     }
     case 'paragraph':
       return (
@@ -349,7 +357,9 @@ const renderBlock = (block: MarkdownBlock, index: number) => {
           ))}
         </ListTag>
       );
+
     }
+
     case 'blockquote':
       return (
         <blockquote
@@ -409,6 +419,32 @@ const renderBlock = (block: MarkdownBlock, index: number) => {
             </tbody>
           </table>
         </div>
+      );
+    case 'paragraph':
+      return (
+        <p className="my-4 leading-7 text-primary/80" key={index}>
+          {renderInline(block.text)}
+        </p>
+      );
+    case 'list':
+      return block.ordered ? (
+        <ol
+          className="my-4 ml-6 list-decimal space-y-2 text-primary/80"
+          key={index}
+        >
+          {block.items.map((item, itemIndex) => (
+            <li key={itemIndex}>{renderInline(item)}</li>
+          ))}
+        </ol>
+      ) : (
+        <ul
+          className="my-4 ml-6 list-disc space-y-2 text-primary/80"
+          key={index}
+        >
+          {block.items.map((item, itemIndex) => (
+            <li key={itemIndex}>{renderInline(item)}</li>
+          ))}
+        </ul>
       );
     case 'hr':
       return <hr className="my-10 border-primary/15" key={index} />;
