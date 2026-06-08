@@ -3,8 +3,8 @@
 import ChapterContent, {
   type ChapterContentData,
 } from '@/components/ChapterContent';
+import ReadingProgressBar from '@/components/ReadingProgressBar';
 import { ChapterPageSkeleton } from '@/components/Skeletons';
-import { saveReadingProgress } from '@/components/ResumeCard';
 import authFetch from '@/lib/auth/authFetch';
 import { useParams } from 'next/navigation';
 import { useCallback, useEffect, useState } from 'react';
@@ -34,9 +34,7 @@ export default function NcertChapterPage() {
 
       const res = await authFetch({
         url,
-        options: {
-          method: 'GET',
-        },
+        options: { method: 'GET' },
       });
 
       if (res.status !== 200 || !res.message) {
@@ -51,29 +49,26 @@ export default function NcertChapterPage() {
 
       const chapterData = res.message as ChapterProps;
       setChapter(chapterData);
-
-      // Save reading progress to localStorage
-      saveReadingProgress({
-        chapterName: chapterData.title,
-        chapterUrl: `/ncert/${params.class}/${params.subject}/${params.chapter}`,
-        subjectName: chapterData.subjectName,
-        className: params.class,
-      });
     } catch {
       setChapter(null);
       setError('Unable to load this chapter. Please try again later.');
     } finally {
       setIsLoading(false);
     }
-  }, [params.chapter, params.class, params.subject]);
+  }, [params.chapter]);
 
   useEffect(() => {
     getChapter();
   }, [getChapter]);
 
-  if (isLoading) {
-    return <ChapterPageSkeleton />;
-  }
-
-  return <ChapterContent chapter={chapter} error={error} />;
+  return (
+    <>
+      <ReadingProgressBar chapterSlug={params.chapter} isLoading={isLoading} />
+      {isLoading ? (
+        <ChapterPageSkeleton />
+      ) : (
+        <ChapterContent chapter={chapter} error={error} />
+      )}
+    </>
+  );
 }
