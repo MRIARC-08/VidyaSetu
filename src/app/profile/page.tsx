@@ -3,18 +3,16 @@ import React, { useState } from 'react';
 
 import SecondSlide from './components/SecondSlide';
 import FirstSlide from './components/FirstSlide';
-import { date, includes } from 'zod';
 
 import { useRouter } from 'next/navigation';
-import { fa } from 'zod/locales';
 import authFetch from '@/lib/auth/authFetch';
 
-function page() {
+function ProfilePage() {
   const [name, setName] = useState<string>('');
   const [age, setAge] = useState<string>('');
   const [clas, setClas] = useState<string>('');
   const [loading, setLoading] = useState<boolean>(false);
-  const [next, setNext] = useState<boolean>(false);
+  const [next] = useState<boolean>(false);
   const router = useRouter();
 
   const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
@@ -35,8 +33,6 @@ function page() {
     const url = '/api/user/updateUser';
 
     const profile = await authFetch({ url, options });
-
-
 
     setLoading(false);
     if (profile.message.class) {
@@ -65,4 +61,4 @@ function page() {
   );
 }
 
-export default page;
+export default ProfilePage;
