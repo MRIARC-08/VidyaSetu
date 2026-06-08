@@ -2,24 +2,11 @@
 
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import React, { PropsWithChildren, useEffect, useState } from 'react';
-
-interface ProfileProps {
-  name: string;
-  image: string;
-  id: string;
-  userId: string;
-  age: string;
-  class: string;
-  createdAt: string;
-  profileCompleted: boolean;
-}
+import type { PropsWithChildren } from 'react';
 
 export default function MainLayout({ children }: PropsWithChildren) {
-  const [user, setUser] = useState<ProfileProps | null>(null);
   const path = usePathname();
 
-  // Valid route roots where the sidebar layout should be visible
   const routes = ['/dashboard', '/ncert'];
 
   if (!routes.some((route) => path.startsWith(route))) {
@@ -98,25 +85,26 @@ export default function MainLayout({ children }: PropsWithChildren) {
     },
   ];
 
+  const activeLink = elements
+    .filter((element) => {
+      return path === element.link || path.startsWith(`${element.link}/`);
+    })
+    .sort((a, b) => b.link.length - a.link.length)[0]?.link;
+
   return (
     <div className="w-screen flex">
-      {/* Sidebar navigation container */}
       <div className="bg-accent/40 w-15 min-h-screen flex flex-col pt-8 gap-4">
         <div className="fixed bg-accent/40 w-15">
           {elements.map((val) => {
-            // Evaluates active states precisely for direct paths and nested items
-            const isActive =
-              val.link === '/dashboard'
-                ? path === '/dashboard'
-                : path.startsWith(val.link);
-
             return (
               <Link
                 key={val.name}
                 href={val.link}
                 aria-label={val.name}
                 className={`flex justify-center items-center cursor-pointer p-4 transition-all text-black ${
-                  isActive ? 'bg-white border-r border-r-black border-r-4' : ''
+                  activeLink === val.link
+                    ? 'bg-white border-r border-r-black border-r-4'
+                    : ''
                 }`}
               >
                 {val.svg}
@@ -126,7 +114,6 @@ export default function MainLayout({ children }: PropsWithChildren) {
         </div>
       </div>
 
-      {/* Main page content wrapper */}
       <div className="flex-1">{children}</div>
     </div>
   );
