@@ -20,33 +20,40 @@ function StreakDashboard({ className, ...props }: StreakDashboardProps) {
   const [loading, setLoading] = React.useState(true);
   const [error, setError] = React.useState<string | null>(null);
 
-  React.useEffect(() => {
-    let cancelled = false;
+  const fetchStreakData = React.useCallback(async (signal?: AbortSignal) => {
+    setLoading(true);
+    setError(null);
 
-    async function fetchStreakData() {
-      try {
-        const res = await fetch('/api/analytics/streak', {
-          credentials: 'include',
-        });
-        const json = await res.json();
+    try {
+      const res = await fetch('/api/analytics/streak', {
+        credentials: 'include',
+        signal,
+      });
+      const json = await res.json();
 
-        if (cancelled) return;
+      if (signal?.aborted) return;
 
-        if (res.ok && json.success) {
-          setData(json.data);
-        } else {
-          setError(json.message || 'Failed to load streak data');
-        }
-      } catch {
-        if (!cancelled) setError('Failed to load streak data');
-      } finally {
-        if (!cancelled) setLoading(false);
+      if (res.ok && json.success) {
+        setData(json.data);
+      } else {
+        setData(null);
+        setError(json.message || 'Failed to load streak data');
       }
+    } catch {
+      if (!signal?.aborted) {
+        setData(null);
+        setError('Failed to load streak data');
+      }
+    } finally {
+      if (!signal?.aborted) setLoading(false);
     }
-
-    fetchStreakData();
-    return () => { cancelled = true; };
   }, []);
+
+  React.useEffect(() => {
+    const controller = new AbortController();
+    fetchStreakData(controller.signal);
+    return () => controller.abort();
+  }, [fetchStreakData]);
 
   if (error) {
     return (
@@ -59,11 +66,7 @@ function StreakDashboard({ className, ...props }: StreakDashboardProps) {
       >
         {error}
         <button
-          onClick={() => {
-            setLoading(true);
-            setError(null);
-            setData(null);
-          }}
+          onClick={() => fetchStreakData()}
           className="ml-2 underline hover:no-underline"
         >
           Retry
