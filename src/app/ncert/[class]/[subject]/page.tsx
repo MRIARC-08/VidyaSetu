@@ -22,7 +22,7 @@ export default function NcertSubjectPage() {
   const [subject, setSubject] = useState<string>();
   const [isLoading, setIsLoading] = useState(true);
 
-  const getChapters = async () => {
+  const getChapters = useCallback(async () => {
     try {
       const res = await authFetch({
         url: `/api/ncert/chapters?class=${params.class}&subject=${params.subject}`,
@@ -33,11 +33,11 @@ export default function NcertSubjectPage() {
     } finally {
       setIsLoading(false);
     }
-  };
+  }, [params.class, params.subject]);
 
   useEffect(() => {
     getChapters();
-  }, []);
+  }, [getChapters]);
 
   const handleBack = useCallback(() => {
     router.push(`/ncert/${params.class}`);
@@ -63,10 +63,15 @@ export default function NcertSubjectPage() {
       <div>
         <p className="text-2xl font-bold">{subject} Curriculum</p>
         <p className="text-[14px] text-primary/60 max-w-[30%]">
-          A systematic breakdown of the {subject} syllabus for the competitive session.
+          A systematic breakdown of the {subject} syllabus for the competitive
+          session.
         </p>
         <p className="text-[12px] text-primary/40 mt-2">
-          Press <kbd className="px-1 py-0.5 bg-gray-100 rounded text-[11px] font-mono">?</kbd> for keyboard shortcuts
+          Press{' '}
+          <kbd className="px-1 py-0.5 bg-gray-100 rounded text-[11px] font-mono">
+            ?
+          </kbd>{' '}
+          for keyboard shortcuts
         </p>
       </div>
 

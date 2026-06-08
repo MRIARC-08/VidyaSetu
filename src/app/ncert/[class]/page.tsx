@@ -6,14 +6,27 @@ import { SubjectCatalogSkeleton } from '@/components/Skeletons';
 import { useKeyboardNav } from '@/hooks/useKeyboardNav';
 import { KeyboardHelpOverlay } from '@/components/KeyboardHelpOverlay';
 import {
-  Book, Zap, FlaskConical, Microscope, Landmark, Globe, Scale, Brain,
+  Book,
+  Zap,
+  FlaskConical,
+  Microscope,
+  Landmark,
+  Globe,
+  Scale,
+  Brain,
 } from 'lucide-react';
 
 interface Subjects {
   academicClassId: string;
   id: string;
   name: string;
-  chapters: { id: string; order: number; pdf: string; subjectId: string; title: string }[];
+  chapters: {
+    id: string;
+    order: number;
+    pdf: string;
+    subjectId: string;
+    title: string;
+  }[];
 }
 
 interface UserResponse {
@@ -21,7 +34,10 @@ interface UserResponse {
 }
 
 async function fetchUser() {
-  return authFetch({ url: '/api/user/getUser', options: { method: 'GET' } }) as Promise<UserResponse>;
+  return authFetch({
+    url: '/api/user/getUser',
+    options: { method: 'GET' },
+  }) as Promise<UserResponse>;
 }
 
 async function fetchSubjects(classId: string) {
@@ -41,15 +57,23 @@ export default function Page() {
   const router = useRouter();
   const [user, setUser] = useState<UserResponse>();
   const [subs, setSubs] = useState<Subjects[]>([]);
-  const [focusSubject, setFocusSubject] = useState<Subjects>();
   const [isLoading, setIsLoading] = useState(true);
 
   const subjectIcons: Record<string, ReactNode> = {
-    Mathematics: <Book />, Physics: <Zap />, Chemistry: <FlaskConical />,
-    Biology: <Microscope />, Accountancy: <Scale />, 'Business Studies': <Landmark />,
-    Economics: <Landmark />, History: <Book />, Geography: <Globe />,
-    'Political Science': <Scale />, Sociology: <Brain />, Psychology: <Brain />,
-    English: <Book />, Hindi: <Book />,
+    Mathematics: <Book />,
+    Physics: <Zap />,
+    Chemistry: <FlaskConical />,
+    Biology: <Microscope />,
+    Accountancy: <Scale />,
+    'Business Studies': <Landmark />,
+    Economics: <Landmark />,
+    History: <Book />,
+    Geography: <Globe />,
+    'Political Science': <Scale />,
+    Sociology: <Brain />,
+    Psychology: <Brain />,
+    English: <Book />,
+    Hindi: <Book />,
   };
 
   useEffect(() => {
@@ -59,10 +83,13 @@ export default function Page() {
         if (!isMounted) return;
         setUser(nextUser);
         setSubs(subjects);
-        setFocusSubject(subjects[0]);
       })
-      .finally(() => { if (isMounted) setIsLoading(false); });
-    return () => { isMounted = false };
+      .finally(() => {
+        if (isMounted) setIsLoading(false);
+      });
+    return () => {
+      isMounted = false;
+    };
   }, [params.class]);
 
   const handleBack = useCallback(() => {
@@ -87,13 +114,19 @@ export default function Page() {
       <KeyboardHelpOverlay open={showHelp} onClose={() => setShowHelp(false)} />
 
       <div>
-        <p className="text-[12px] text-primary/70 font-semibold">ACADEMIC YEAR 2024-25</p>
+        <p className="text-[12px] text-primary/70 font-semibold">
+          ACADEMIC YEAR 2024-25
+        </p>
         <p className="text-3xl font-bold">Subject Catalog</p>
         <p className="mt-2 pl-4 pr-4 bg-primary w-max text-white font-medium text-[12px] uppercase">
           {`class ${user?.user?.class || ''}`}
         </p>
         <p className="text-[12px] text-primary/40 mt-2">
-          Press <kbd className="px-1 py-0.5 bg-gray-100 rounded text-[11px] font-mono">?</kbd> for keyboard shortcuts
+          Press{' '}
+          <kbd className="px-1 py-0.5 bg-gray-100 rounded text-[11px] font-mono">
+            ?
+          </kbd>{' '}
+          for keyboard shortcuts
         </p>
       </div>
 
@@ -106,7 +139,9 @@ export default function Page() {
               <div
                 key={val.id}
                 className={`bg-accent/8 p-4 flex flex-col justify-between cursor-pointer transition-all duration-300 ${
-                  isSelected ? 'ring-2 ring-primary ring-offset-2 bg-primary text-white' : ''
+                  isSelected
+                    ? 'ring-2 ring-primary ring-offset-2 bg-primary text-white'
+                    : ''
                 }`}
                 onClick={() => {
                   if (user?.user?.class) {

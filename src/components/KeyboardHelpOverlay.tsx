@@ -5,7 +5,10 @@ interface KeyboardHelpOverlayProps {
   onClose: () => void;
 }
 
-export function KeyboardHelpOverlay({ open, onClose }: KeyboardHelpOverlayProps) {
+export function KeyboardHelpOverlay({
+  open,
+  onClose,
+}: KeyboardHelpOverlayProps) {
   if (!open) return null;
 
   const shortcuts = [
@@ -30,11 +33,16 @@ export function KeyboardHelpOverlay({ open, onClose }: KeyboardHelpOverlayProps)
         </div>
         <div className="space-y-3">
           {shortcuts.map((shortcut) => (
-            <div key={shortcut.key} className="flex justify-between items-center gap-4">
+            <div
+              key={shortcut.key}
+              className="flex justify-between items-center gap-4"
+            >
               <kbd className="px-2 py-1 bg-gray-100 border border-gray-300 rounded text-sm font-mono text-gray-700 min-w-[100px] text-center">
                 {shortcut.key}
               </kbd>
-              <span className="text-sm text-gray-600">{shortcut.description}</span>
+              <span className="text-sm text-gray-600">
+                {shortcut.description}
+              </span>
             </div>
           ))}
         </div>
