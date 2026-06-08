@@ -4,7 +4,6 @@ import { useState, useCallback } from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import rehypeHighlight from 'rehype-highlight';
-import rehypeRaw from 'rehype-raw';
 import rehypeSlug from 'rehype-slug';
 import { Copy, Check } from 'lucide-react';
 import clsx from 'clsx';
@@ -223,7 +222,8 @@ const components: Components = {
 
 function extractText(node: React.ReactNode): string {
   if (typeof node === 'string') return node;
-  if (typeof node === 'number' || typeof node === 'boolean') return String(node);
+  if (typeof node === 'number' || typeof node === 'boolean')
+    return String(node);
   if (Array.isArray(node)) return node.map(extractText).join('');
   if (
     node &&
@@ -254,11 +254,7 @@ export default function MarkdownViewer({
     <article className={clsx('max-w-none', className)}>
       <ReactMarkdown
         remarkPlugins={[remarkGfm]}
-        rehypePlugins={[
-          rehypeHighlight,
-          rehypeRaw,
-          rehypeSlug,
-        ]}
+        rehypePlugins={[rehypeHighlight, rehypeSlug]}
         components={components}
       >
         {transformedContent}

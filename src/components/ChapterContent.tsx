@@ -2,7 +2,6 @@
 
 import clsx from 'clsx';
 import { FileText, NotebookText, TriangleAlert } from 'lucide-react';
-import MarkdownRenderer from '@/components/MarkdownRenderer';
 import BookmarkButton from '@/components/BookmarkButton';
 import MarkdownViewer from '@/components/MarkdownViewer';
 
