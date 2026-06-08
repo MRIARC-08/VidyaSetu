@@ -4,8 +4,8 @@ import Button from '@/components/Button';
 import Image from 'next/image';
 import Senv from '../../public/Study environment.png';
 import DV from '../../public/Data visualization.png';
-import { useRouter } from 'next/navigation';
 import Link from 'next/link';
+import { useRouter } from 'next/navigation';
 import { useEffect, useState } from 'react';
 import authFetch from '../lib/auth/authFetch';
 
@@ -174,9 +174,9 @@ useEffect(() => {
               100% curriculum alignment. Every question is mapped to the latest
               textbook directives with surgical precision.
             </p>
-            <a href="/ncert" className="underline uppercase font-bold">
+            <Link href="/ncert" className="underline uppercase font-bold">
               Explore Database
-            </a>
+            </Link>
           </div>
         </div>
 

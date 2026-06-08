@@ -20,7 +20,7 @@ export class SetCookies {
       secure: process.env.NODE_ENV === 'production',
       sameSite: 'lax',
       path: '/',
-      // maxAge: 15 * 60,
+      maxAge: 15 * 60,
     });
   }
 
@@ -29,7 +29,11 @@ export class SetCookies {
     const access_token = cookieStore.get('access_token');
 
     if (access_token) {
-      return jwtService.verifyAccessToken(access_token.value);
+      try {
+        return jwtService.verifyAccessToken(access_token.value);
+      } catch {
+        return null;
+      }
     }
   }
 
