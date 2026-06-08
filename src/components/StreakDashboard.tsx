@@ -6,14 +6,9 @@ import { StreakCounter } from '@/components/StreakCounter';
 import { StreakCalendar } from '@/components/StreakCalendar';
 import { StreakBadges } from '@/components/StreakBadges';
 import type { StreakData } from '@/modules/analytics/analytics.types';
-import {
-  Card,
-  CardContent,
-  CardHeader,
-  CardTitle,
-} from '@/components/ui/card';
+import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 
-interface StreakDashboardProps extends React.ComponentProps<'div'> {}
+type StreakDashboardProps = React.ComponentProps<'div'>;
 
 function StreakDashboard({ className, ...props }: StreakDashboardProps) {
   const [data, setData] = React.useState<StreakData | null>(null);
@@ -88,7 +83,9 @@ function StreakDashboard({ className, ...props }: StreakDashboardProps) {
 
         <Card className="lg:col-span-2">
           <CardHeader>
-            <CardTitle className="text-sm font-medium">Activity Calendar</CardTitle>
+            <CardTitle className="text-sm font-medium">
+              Activity Calendar
+            </CardTitle>
           </CardHeader>
           <CardContent>
             {loading ? (
