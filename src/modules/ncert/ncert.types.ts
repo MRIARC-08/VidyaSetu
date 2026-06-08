@@ -1,75 +1,69 @@
-// TODO: Define NCERT types
 export interface AcademicClassDTO {
-  id: string;
-  level: number;
-  subjects?: SubjectDTO[];
+    id: string;
+    name: string;
+    subjects?: SubjectDTO[];
 }
 
 export interface SubjectDTO {
-  id: string;
-  name: string;
-  academicClassId: string;
-  chapters?: ChapterDTO[];
+    id: string;
+    name: string;
+    classId: string;
+    chapters?: ChapterDTO[];
 }
 
 export interface ChapterDTO {
-  id: string;
-  title: string;
-  order: number;
-  subjectId: string;
-  pdf?: string | null;
-  content?: string | null;
-  contentFormat?: string | null;
-  contentSource?: string | null;
-  topics?: TopicDTO[];
+    id: string;
+    name: string;
+    subjectId: string;
+
+    pdf?: string | null;
+    content?: string | null;
+
+    topics?: TopicDTO[];
 }
 
 export interface TopicDTO {
-  id: string;
-  title: string;
-  order: number;
-  content?: string | null;
-  chapterId: string;
-  questionCount?: number;
+    id: string;
+    name: string;
+    chapterId: string;
+
+    content?: string | null;
+    questionCount?: number;
 }
 
-/* Request DTOs */
+
+export interface ApiResponseDTO<T> {
+    status: number;
+    message: T; // matches controller
+}
 
 export interface GetSubjectsRequestDTO {
-  classId: string;
+    classId?: string;
+    class?: string;
 }
 
 export interface GetChaptersRequestDTO {
-  subjectId: string;
+    subjectId?: string;
+    subject?: string;
 }
 
 export interface GetChapterRequestDTO {
-  chapterId: string;
+    chapterId?: string;
+    chapter?: string;
 }
 
-/* Response DTOs */
-
-export interface SubjectsResponseDTO {
-  status: number;
-  message: SubjectDTO[];
-}
-
-export interface ChaptersResponseDTO {
-  status: number;
-  message: SubjectDTO | null;
-}
-
-export interface ChapterResponseDTO {
-  status: number;
-  message: ChapterDTO | null;
-}
 export interface NcertPaginationDTO {
-  page?: number;
-  limit?: number;
+    page?: number;
+    limit?: number;
 }
 
 export interface NcertFilterDTO {
-  classId?: string;
-  subjectId?: string;
-  chapterId?: string;
+    classId?: string;
+    subjectId?: string;
+    chapterId?: string;
+    search?: string;
 }
+
+export interface NcertQueryDTO
+    extends NcertPaginationDTO,
+        NcertFilterDTO {}
