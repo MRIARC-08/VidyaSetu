@@ -45,7 +45,7 @@ export default function LoginPage() {
       } else if (res.ok) {
         router.push('/dashboard');
       } else {
-        console.log(res);
+
         setErr(res.error);
       }
     } catch (err: any) {

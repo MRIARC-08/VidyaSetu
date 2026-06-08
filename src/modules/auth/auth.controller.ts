@@ -31,7 +31,7 @@ export class AuthControllers {
     const body = await req.json();
     try {
       const result = await AuthServices.handleLoginUser(body);
-      console.log(result);
+
 
       await SetCookies.setAuthCookies(result.accessToken, result.refreshToken);
 

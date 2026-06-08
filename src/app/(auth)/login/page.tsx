@@ -33,7 +33,7 @@ export default function LoginPage() {
         body: JSON.stringify({ email, password }),
         credentials: 'include',
       });
-      console.log(email, password)
+     
       const result = await user.json();
      
       if (!user.ok || !result.user) {
