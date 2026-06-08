@@ -1,7 +1,7 @@
 'use client';
 
 import clsx from 'clsx';
-import { FileText, NotebookText, TriangleAlert } from 'lucide-react';
+import { FileText, NotebookText, Printer, TriangleAlert } from 'lucide-react';
 import MarkdownRenderer from '@/components/MarkdownRenderer';
 import BookmarkButton from '@/components/BookmarkButton';
 
@@ -104,6 +104,13 @@ export default function ChapterContent({
               NCERT PDF
             </a>
           )}
+          <button
+            onClick={() => window.print()}
+            className="inline-flex items-center gap-2 border border-primary bg-white px-3 py-2 text-sm font-semibold text-primary transition hover:bg-primary/5"
+          >
+            <Printer className="h-4 w-4" />
+            Print
+          </button>
         </div>
       </header>
 

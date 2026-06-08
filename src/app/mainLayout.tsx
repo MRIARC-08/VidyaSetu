@@ -113,13 +113,13 @@ export default function MainLayout({ children }: PropsWithChildren) {
         <div className="fixed g-accent/40 w-15">
           {elements.map((val) => {
             return (
-              <Link
+              <a
                 key={val.name}
                 href={val.link}
                 className={`flex justify-center items-center ${path.startsWith(val.link) ? 'bg-white border-r border-r-black border-r-4  ' : ' '} cursor-pointer p-4`}
               >
                 {val.svg}
-              </Link>
+              </a>
             );
           })}
         </div>

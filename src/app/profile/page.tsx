@@ -32,7 +32,7 @@ function page() {
 
     const profile = await authFetch({ url, options });
 
-    console.log(profile);
+
 
     setLoading(false);
     if (profile.message.class) {

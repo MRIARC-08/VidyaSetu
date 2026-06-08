@@ -4,6 +4,7 @@ import { Button } from '@/components/ui/button';
 import { useRouter } from 'next/navigation';
 import { useState } from 'react';
 import { signIn } from 'next-auth/react';
+import { Eye, EyeOff } from 'lucide-react';
 
 export default function LoginPage() {
   const [name, setName] = useState<string>('');
@@ -70,6 +71,8 @@ export default function LoginPage() {
       setLoading(false);
     }
   };
+
+  
   const handleLoginWithGoogle = async () => {
     await signIn('google', {
       callbackUrl: '/dashboard',
@@ -91,10 +94,10 @@ export default function LoginPage() {
         {/* Big Glow Circle */}
         <div className="absolute inset-0 flex justify-center items-center pointer-events-none z-0">
           <div
-            className="w-[500px] h-[500px] rounded-full 
-                          bg-cyan-400/20 
-                          blur-3xl 
-                          shadow-[0_0_80px_rgba(0,255,255,0.25)] 
+            className="w-[500px] h-[500px] rounded-full
+                          bg-cyan-400/20
+                          blur-3xl
+                          shadow-[0_0_80px_rgba(0,255,255,0.25)]
                           animate-[pulse_6s_ease-in-out_infinite]"
           />
         </div>
@@ -124,8 +127,8 @@ export default function LoginPage() {
               <div
                 className="w-40 h-36 rounded-[68px] flex justify-center items-center relative
                               border border-white/20
-                              bg-white/5 
-                              backdrop-blur-xl 
+                              bg-white/5
+                              backdrop-blur-xl
                               shadow-[0_0_80px_rgba(0,255,255,0.25)]"
               >
                 <svg
@@ -144,8 +147,8 @@ export default function LoginPage() {
 
               <div
                 className="absolute top-4 right-9 border border-white/20
-                              bg-white/5 
-                              backdrop-blur-xl 
+                              bg-white/5
+                              backdrop-blur-xl
                               shadow-[0_0_80px_rgba(0,255,255,0.25)] p-2 w-max   h-10 text-center flex justify-center items-center"
               >
                 <svg
@@ -164,8 +167,8 @@ export default function LoginPage() {
 
               <div
                 className=" absolute bottom-4 left-9 border border-white/20
-                              bg-white/5 
-                              backdrop-blur-xl 
+                              bg-white/5
+                              backdrop-blur-xl
                               shadow-[0_0_80px_rgba(0,255,255,0.25)] p-2 w-max   h-10 text-center flex justify-center items-center"
               >
                 <svg
@@ -349,12 +352,12 @@ export default function LoginPage() {
 
               <p className="mt-2">
                 Already have an account?{' '}
-                <span
+                {/*<span
                   className="text-button cursor-pointer"
                   onClick={() => router.push('/login')}
                 >
                   Log in
-                </span>
+                </span>*/}
               </p>
             </div>
           </div>

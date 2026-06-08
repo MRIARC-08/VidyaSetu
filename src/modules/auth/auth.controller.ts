@@ -29,9 +29,9 @@ export class AuthControllers {
 
   static async login(req: Request) {
     const body = await req.json();
-
     try {
       const result = await AuthServices.handleLoginUser(body);
+
 
       await SetCookies.setAuthCookies(result.accessToken, result.refreshToken);
 

@@ -101,7 +101,7 @@ export default function Page() {
         });
         if (res && res.data && Array.isArray(res.data.sessions)) {
           const completed = new Set<string>();
-          res.data.sessions.forEach((s: any) => {
+          res.data.sessions.forEach((s: { completedAt?: string; quiz?: { chapterId?: string } }) => {
             if (s.completedAt && s.quiz && s.quiz.chapterId) {
               completed.add(s.quiz.chapterId);
             }
@@ -156,7 +156,7 @@ export default function Page() {
         <div className="grid md:grid-cols-3 grid-cols-2 gap-4 transition-all duration-300 ">
           {subs.map((val: Subjects) => {
             const chapters = val.chapters || [];
-            const completedCount = chapters.filter((ch: any) =>
+            const completedCount = chapters.filter((ch: { id: string }) =>
               completedChapterIds.has(ch.id)
             ).length;
             const totalCount = chapters.length;

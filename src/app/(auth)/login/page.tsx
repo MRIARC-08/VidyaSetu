@@ -54,9 +54,9 @@ export default function LoginPage() {
         body: JSON.stringify({ email, password }),
         credentials: 'include',
       });
-
+     
       const result = await user.json();
-
+     
       if (!user.ok || !result.user) {
         setErrors((prev) => ({
           ...prev,
@@ -196,9 +196,12 @@ export default function LoginPage() {
         </p>
       </div>
       <div className="flex-1 h-screen pr-10 pt-2">
-        <p className="flex justify-end text-[14px]">
-          Need help? <span className="pl-2 text-button"> Contact Support</span>
-        </p>
+        <div className="flex justify-center pt-2 text-[14px] text-black/60 md:hidden">
+          New here?{' '}
+          <a href="/register" className="pl-1 text-button font-bold hover:underline">
+            Create an account
+          </a>
+        </div>
 
         <div className="w-full h-full flex justify-center flex-col items-center">
           <div className="w-[80%] h-[60%] flex flex-col gap-8 ">
@@ -210,6 +213,21 @@ export default function LoginPage() {
             </div>
 
             <div className="text-black flex flex-col justify-center items-center gap-6">
+              <div className="w-full md:w-[60%] flex flex-col gap-2">
+                <p className="text-center text-[14px] text-black/60">New to VidyaSetu?</p>
+                <Button
+                  className="w-full bg-button text-white font-bold hover:bg-button/90"
+                  onClick={() => router.push('/register')}
+                >
+                  Create an Account
+                </Button>
+              </div>
+
+              <div className="w-full flex justify-center items-center gap-1 text-black/40">
+                <hr className="h-[2px] bg-black/10 flex-1" />
+                <p className="w-max">Already have an account? Sign in below</p>
+                <hr className="h-[2px] bg-black/10 flex-1" />
+              </div>
               <Button
                 className="text-black bg-primary-foreground md:w-[60%] w-full"
                 onClick={handleLoginWithGoogle}
@@ -337,12 +355,12 @@ export default function LoginPage() {
                   onClick={() => router.push('/register')}
                 >
                   Sign up for free
-                </span>
+                </a>
               </p>
             </div>
           </div>
         </div>
       </div>
-    </main>
+    </main >
   );
 }

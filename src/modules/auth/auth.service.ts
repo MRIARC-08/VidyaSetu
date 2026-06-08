@@ -97,7 +97,7 @@ export class AuthServices {
 
   static async handleLoginUser(data: { email: string; password: string }) {
     const user = await AuthRepository.findUserByEmail(data.email);
-
+  
     if (!user || !user.password) {
       throw new AuthServiceError(INVALID_CREDENTIALS_MESSAGE, 401);
     }
