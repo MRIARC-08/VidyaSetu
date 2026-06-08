@@ -4,11 +4,13 @@ import { Button } from '@/components/ui/button';
 import { useRouter } from 'next/navigation';
 import { useState } from 'react';
 import { signIn } from 'next-auth/react';
+import { Eye, EyeOff } from 'lucide-react';
 
 export default function LoginPage() {
   const [name, setName] = useState<string>('');
   const [email, setEmail] = useState<string>('');
   const [password, setPassword] = useState<string>('');
+  const [showPassword, setShowPassword] = useState<boolean>(false);
   const [err, setErr] = useState<string>('');
   const [passC, setPassC] = useState<string>('');
   const handleSubmit = async (e: React.SyntheticEvent<HTMLFormElement>) => {
@@ -259,15 +261,32 @@ export default function LoginPage() {
                   <div className="flex justify-between items-center">
                     <label htmlFor="password">Create Password</label>
                   </div>
-                  <Input
-                    className="bg-primary-foreground"
-                    type="password"
-                    placeholder="Min. 8 characters"
-                    id="password"
-                    required
-                    onChange={(e) => setPassword(e.target.value)}
-                    value={password}
-                  />
+                  <div className="relative">
+                    <Input
+                      className="bg-primary-foreground pr-11"
+                      type={showPassword ? 'text' : 'password'}
+                      placeholder="Min. 8 characters"
+                      id="password"
+                      required
+                      onChange={(e) => setPassword(e.target.value)}
+                      value={password}
+                    />
+                    <button
+                      type="button"
+                      aria-label={
+                        showPassword ? 'Hide password' : 'Show password'
+                      }
+                      aria-pressed={showPassword}
+                      className="absolute inset-y-0 right-3 flex items-center text-black/45 transition-colors hover:text-black/70 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-button/40"
+                      onClick={() => setShowPassword((current) => !current)}
+                    >
+                      {showPassword ? (
+                        <EyeOff className="h-4 w-4" aria-hidden="true" />
+                      ) : (
+                        <Eye className="h-4 w-4" aria-hidden="true" />
+                      )}
+                    </button>
+                  </div>
                   <p className="text-red-500  text-[14px] font-light">
                     {passC}
                   </p>

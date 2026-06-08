@@ -1,10 +1,11 @@
 'use client';
+import { log } from '@/lib/logger';
 import Button from '@/components/Button';
 import Image from 'next/image';
 import Senv from '../../public/Study environment.png';
 import DV from '../../public/Data visualization.png';
 import { useRouter } from 'next/navigation';
-import Link from "next/link";
+import Link from 'next/link';
 import { useEffect, useState } from 'react';
 import authFetch from '../lib/auth/authFetch';
 
@@ -12,24 +13,24 @@ export default function Home() {
   const router = useRouter();
   const [user, setUser] = useState<{ name: string } | null>(null);
 
-useEffect(() => {
-  const fetchUser = async () => {
-    try {
-      const response = await authFetch({
-        url: '/api/user/getUser', 
-        options: { method: 'GET' },
-      });
+  useEffect(() => {
+    const fetchUser = async () => {
+      try {
+        const response = await authFetch({
+          url: '/api/user/getUser',
+          options: { method: 'GET' },
+        });
 
-      if (response?.user) {
-        setUser(response.user);
+        if (response?.user) {
+          setUser(response.user);
+        }
+      } catch (error) {
+        log.error('User fetch failed');
       }
-    } catch (error) {
-      console.error("User fetch failed.");
-    }
-  };
+    };
 
-  fetchUser();
-}, []);
+    fetchUser();
+  }, []);
   return (
     <div className="flex flex-col h-max w-screen bg-background  ">
       <div className="flex  flex-col min-h-screen  p-4 pl-8 pr-8 ">
@@ -56,19 +57,22 @@ useEffect(() => {
                 {user.name?.[0]?.toUpperCase() ?? 'U'}
               </div>
             ) : (
-              <Link href="/login" className="text-sm font-medium text-black hover:opacity-65 transition-opacity">
+              <Link
+                href="/login"
+                className="text-sm font-medium text-black hover:opacity-65 transition-opacity"
+              >
                 Login
               </Link>
             )}
           </div>
         </div>
 
-        <div className="pt-20 flex">
+        <div className="pt-20 flex flex-col md:flex-row">
           <div className="flex-1 flex flex-col gap-8">
             <p className="uppercase text-[12px] tracking-wider] text-secondary ">
               the digital curator
             </p>
-            <p className="text-[80px] font-light leading-24">
+            <p className="text-[40px] md:text-[80px] font-light md:leading-24">
               <span className="">Master NCERT with</span> AI-Powered Smart
               Quizzes
             </p>
@@ -77,7 +81,7 @@ useEffect(() => {
               decodes complex NCERT patterns to curate academic sessions that
               adapt to your cognitive pace.
             </p>
-            <div className="flex gap-4 w-[60%] pt-8">
+            <div className="flex gap-4 w-full md:w-[60%] pt-8">
               <Button
                 text="get started"
                 action={() => router.push('/dashboard')}
@@ -271,7 +275,7 @@ useEffect(() => {
         </div>
       </div>
       <div className="h-max bg-accent/40">
-        <div className="flex p-20 gap-20">
+        <div className="flex flex-col md:flex-row p-8 md:p-20 gap-8 md:gap-20">
           <div className="flex-1 flex flex-col gap-4 ">
             <p className="font-bold">Vidyasetu</p>
             <p>
@@ -336,4 +340,3 @@ useEffect(() => {
     </div>
   );
 }
-

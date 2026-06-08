@@ -31,6 +31,7 @@ model User {
   refreshTokens    RefreshToken[]
   stats            UserStats?
   chapterProgress ChapterProgress[]
+  bookmarks        Bookmark[]
 
   @@index([email])
 }
@@ -92,6 +93,7 @@ model Chapter {
   contentSource String?
   topics        Topic[]
   chapterProgress ChapterProgress[]
+  bookmarks        Bookmark[]
 
   @@index([subjectId])
 }
@@ -248,6 +250,20 @@ model UserStats {
   updatedAt       DateTime  @updatedAt
   user            User      @relation(fields: [userId], references: [id], onDelete: Cascade)
 }
+
+model Bookmark {
+  id        String   @id @default(uuid())
+  userId    String
+  chapterId String
+  createdAt DateTime @default(now())
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  chapter   Chapter  @relation(fields: [chapterId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, chapterId])
+  @@index([userId])
+  @@index([chapterId])
+}
+
 
 enum UserRole {
   STUDENT

@@ -30,14 +30,14 @@ export async function createQuiz(input: CreateQuizInput) {
   return (res as QuizApiSuccess<CreateQuizResponse>).data;
 }
 
-export async function fetchSubjects(classId: string) {
+export async function fetchSubjects() {
   const res = await authFetch({
-    url: `/api/ncert/subjects?classId=${encodeURIComponent(classId)}`,
+    url: '/api/ncert/subjects',
     options: { method: 'GET' },
   });
 
   if (!Array.isArray(res.message)) {
-    throw new Error('Failed to load subjects');
+    throw new Error(res.message || 'Failed to load subjects');
   }
 
   return res.message as SubjectsResponse;

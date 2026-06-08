@@ -33,6 +33,11 @@ export class SetCookies {
     }
   }
 
+  static async setAuthCookies(accessToken: string, refreshToken: string) {
+    await this.setAccesstoken(accessToken);
+    await this.setRefreshtoken(refreshToken);
+  }
+
   static async deleteCookies() {
     const cookieStore = await cookies();
     cookieStore.delete('access_token');
