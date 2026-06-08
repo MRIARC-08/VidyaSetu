@@ -73,7 +73,7 @@ export default function ProfileSetupWizard() {
       const res = await authFetch({
         url: '/api/user/updateUser',
         options: {
-          method: 'PUT',
+          method: 'POST',
           body: JSON.stringify(body),
           headers: { 'Content-Type': 'application/json' },
         },
