@@ -91,7 +91,7 @@ function SecondSlide() {
           </button>
           <button
             className="flex-1 cursor-pointer text-black/60 text-center bg-accent p-2  "
-            onClick={() => router.push('/me')}
+            onClick={() => router.push('/profile')}
           >
             View Profile
           </button>
