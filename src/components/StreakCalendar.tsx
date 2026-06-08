@@ -9,11 +9,11 @@ interface StreakCalendarProps extends React.ComponentProps<'div'> {
 }
 
 const LEVEL_COLORS: Record<number, string> = {
-  0: 'bg-muted/40 dark:bg-muted/10 border border-border/20',
-  1: 'bg-teal-100 dark:bg-teal-950/40 border border-teal-200/20',
-  2: 'bg-teal-300 dark:bg-teal-800',
-  3: 'bg-teal-500 dark:bg-teal-600',
-  4: 'bg-teal-700 dark:bg-teal-400',
+  0: 'bg-muted',
+  1: 'bg-emerald-200',
+  2: 'bg-emerald-400',
+  3: 'bg-emerald-600',
+  4: 'bg-emerald-800',
 };
 
 const LEVEL_LABELS: Record<number, string> = {
