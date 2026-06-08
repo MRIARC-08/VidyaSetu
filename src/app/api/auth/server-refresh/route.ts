@@ -12,8 +12,7 @@ export async function GET() {
       token?.value
     );
     await SetCookies.deleteCookies();
-    await SetCookies.setAccesstoken(accessToken);
-    await SetCookies.setRefreshtoken(refreshToken);
+    await SetCookies.setAuthCookies(accessToken, refreshToken);
     return NextResponse.json(
       { message: 'server-refreshed', accessToken },
       { status: 200 }

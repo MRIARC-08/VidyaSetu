@@ -3,8 +3,10 @@
 import clsx from 'clsx';
 import { FileText, NotebookText, TriangleAlert } from 'lucide-react';
 import MarkdownRenderer from '@/components/MarkdownRenderer';
+import BookmarkButton from '@/components/BookmarkButton';
 
 export type ChapterContentData = {
+  id?: string;
   title: string;
   order: number;
   content?: string | null;
@@ -76,9 +78,14 @@ export default function ChapterContent({
           <span>Chapter {chapter.order}</span>
           {chapter.contentFormat && <span>{chapter.contentFormat}</span>}
         </div>
-        <h1 className="mt-3 text-3xl font-extrabold leading-tight text-primary md:text-5xl">
-          {chapter.title}
-        </h1>
+        <div className="mt-3 flex items-start justify-between gap-4">
+          <h1 className="text-3xl font-extrabold leading-tight text-primary md:text-5xl">
+            {chapter.title}
+          </h1>
+          {chapter.id && (
+            <BookmarkButton chapterId={chapter.id} className="mt-1" />
+          )}
+        </div>
         <div className="mt-5 flex flex-wrap gap-3">
           {chapter.contentSource && (
             <span className="inline-flex items-center gap-2 bg-white px-3 py-2 text-sm font-medium text-primary/70">
@@ -120,8 +127,8 @@ export default function ChapterContent({
             Content not yet available
           </h2>
           <p className="mt-3 max-w-2xl text-primary/70">
-            Content for this chapter has not been added yet. Please check
-            back later.
+            Content for this chapter has not been added yet. Please check back
+            later.
           </p>
         </div>
       )}

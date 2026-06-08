@@ -1,4 +1,5 @@
 'use client';
+import { log } from '@/lib/logger';
 import authFetch from '@/lib/auth/authFetch';
 import { useParams } from 'next/navigation';
 import { useEffect, useState, type ReactNode } from 'react';
@@ -85,7 +86,9 @@ export default function Page() {
     Hindi: <Book />,
   };
 
-  const [completedChapterIds, setCompletedChapterIds] = useState<Set<string>>(new Set());
+  const [completedChapterIds, setCompletedChapterIds] = useState<Set<string>>(
+    new Set()
+  );
 
   useEffect(() => {
     let isMounted = true;
@@ -106,7 +109,7 @@ export default function Page() {
           return completed;
         }
       } catch (err) {
-        console.error('Failed to fetch quiz history:', err);
+        log.error('Failed to fetch quiz history', err);
       }
       return new Set<string>();
     };
@@ -153,9 +156,14 @@ export default function Page() {
         <div className="grid md:grid-cols-3 grid-cols-2 gap-4 transition-all duration-300 ">
           {subs.map((val: Subjects) => {
             const chapters = val.chapters || [];
-            const completedCount = chapters.filter((ch: any) => completedChapterIds.has(ch.id)).length;
+            const completedCount = chapters.filter((ch: any) =>
+              completedChapterIds.has(ch.id)
+            ).length;
             const totalCount = chapters.length;
-            const progressPercentage = totalCount > 0 ? Math.round((completedCount / totalCount) * 100) : 0;
+            const progressPercentage =
+              totalCount > 0
+                ? Math.round((completedCount / totalCount) * 100)
+                : 0;
 
             return (
               <div
@@ -169,11 +177,16 @@ export default function Page() {
                     <p className="font-semibold">{val.name}</p>
                     <div className="flex flex-col justify-center items-end">
                       <p className="text-sm font-bold">{progressPercentage}%</p>
-                      <p className="text-[10px] text-muted-foreground whitespace-nowrap">{completedCount} of {totalCount} practiced</p>
+                      <p className="text-[10px] text-muted-foreground whitespace-nowrap">
+                        {completedCount} of {totalCount} practiced
+                      </p>
                     </div>
                   </div>
                   <div className="w-full h-2 bg-accent/14 rounded-full overflow-hidden">
-                    <div className="h-full bg-black rounded-full" style={{ width: `${progressPercentage}%` }}></div>
+                    <div
+                      className="h-full bg-black rounded-full"
+                      style={{ width: `${progressPercentage}%` }}
+                    ></div>
                   </div>
                 </div>
 

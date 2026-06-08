@@ -5,6 +5,7 @@ import { get } from 'http';
 import { useParams } from 'next/navigation';
 import { useEffect, useState } from 'react';
 import { SubjectPageSkeleton } from '@/components/Skeletons';
+import BookmarkButton from '@/components/BookmarkButton';
 
 interface ChapterType {
   id: string;
@@ -63,12 +64,15 @@ export default function NcertSubjectPage() {
               <a
                 key={val.id}
                 href={`/ncert/${params.class}/${params.subject}/${val.id}`}
-                className={`${p == 0 ? 'bg-accent/40 hover:bg-accent/20' : 'bg-accent/10 hover:bg-accent/8'} flex items-center gap-8  p-8  border-b border-primary/40 cursor-pointer transition-all duration-300 `}
+                className={`${p == 0 ? 'bg-accent/40 hover:bg-accent/20' : 'bg-accent/10 hover:bg-accent/8'} flex items-center justify-between p-8 border-b border-primary/40 cursor-pointer transition-all duration-300 `}
               >
-                <p className="text-4xl font-extrabold text-primary/40 ">
-                  {val.order < 10 ? `0${val.order}` : `${val.order}`}
-                </p>
-                <p className="text-xl font-semibold">{val.title}</p>
+                <div className="flex items-center gap-8">
+                  <p className="text-4xl font-extrabold text-primary/40 ">
+                    {val.order < 10 ? `0${val.order}` : `${val.order}`}
+                  </p>
+                  <p className="text-xl font-semibold">{val.title}</p>
+                </div>
+                <BookmarkButton chapterId={val.id} />
               </a>
             );
           })}

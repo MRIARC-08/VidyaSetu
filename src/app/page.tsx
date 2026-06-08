@@ -1,10 +1,11 @@
 'use client';
+import { log } from '@/lib/logger';
 import Button from '@/components/Button';
 import Image from 'next/image';
 import Senv from '../../public/Study environment.png';
 import DV from '../../public/Data visualization.png';
 import { useRouter } from 'next/navigation';
-import Link from "next/link";
+import Link from 'next/link';
 import { useEffect, useState } from 'react';
 import authFetch from '../lib/auth/authFetch';
 
@@ -12,24 +13,24 @@ export default function Home() {
   const router = useRouter();
   const [user, setUser] = useState<{ name: string } | null>(null);
 
-useEffect(() => {
-  const fetchUser = async () => {
-    try {
-      const response = await authFetch({
-        url: '/api/user/getUser', 
-        options: { method: 'GET' },
-      });
+  useEffect(() => {
+    const fetchUser = async () => {
+      try {
+        const response = await authFetch({
+          url: '/api/user/getUser',
+          options: { method: 'GET' },
+        });
 
-      if (response?.user) {
-        setUser(response.user);
+        if (response?.user) {
+          setUser(response.user);
+        }
+      } catch (error) {
+        log.error('User fetch failed');
       }
-    } catch (error) {
-      console.error("User fetch failed.");
-    }
-  };
+    };
 
-  fetchUser();
-}, []);
+    fetchUser();
+  }, []);
   return (
     <div className="flex flex-col h-max w-screen bg-background  ">
       <div className="flex  flex-col min-h-screen  p-4 pl-8 pr-8 ">
@@ -56,7 +57,10 @@ useEffect(() => {
                 {user.name?.[0]?.toUpperCase() ?? 'U'}
               </div>
             ) : (
-              <Link href="/login" className="text-sm font-medium text-black hover:opacity-65 transition-opacity">
+              <Link
+                href="/login"
+                className="text-sm font-medium text-black hover:opacity-65 transition-opacity"
+              >
                 Login
               </Link>
             )}
@@ -336,4 +340,3 @@ useEffect(() => {
     </div>
   );
 }
-
