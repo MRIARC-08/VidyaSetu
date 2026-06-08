@@ -28,7 +28,7 @@ export default function LoginPage() {
     }
 
     try {
-      const user = await fetch('/api/auth/register', {
+      const response = await fetch('/api/auth/register', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -37,19 +37,18 @@ export default function LoginPage() {
         credentials: 'include',
       });
 
-      const res = await user.json();
-      const isFirstTime = res?.user?.firstTime;
+      const result = await response.json();
+      const isFirstTime = result?.user?.firstTime;
 
-      if (res && isFirstTime) {
+      if (response.ok && isFirstTime) {
         router.push('/profile');
-      } else if (res.ok) {
+      } else if (response.ok) {
         router.push('/dashboard');
       } else {
-
-        setErr(res.error);
+        setErr(result.error || 'Registration failed');
       }
-    } catch (err: any) {
-      setErr(err.error);
+    } catch (err) {
+      setErr(err instanceof Error ? err.message : 'Registration failed');
     }
   };
 
