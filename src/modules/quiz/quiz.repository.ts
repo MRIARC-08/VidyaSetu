@@ -150,6 +150,64 @@ export class QuizRepository {
     });
   }
 
+  static findChapterWithSubject(
+    chapterId: string,
+    tx?: Prisma.TransactionClient
+  ) {
+    const client = tx || prisma;
+
+    return client.chapter.findUnique({
+      where: { id: chapterId },
+      select: {
+        id: true,
+        subjectId: true,
+        topics: {
+          select: { id: true },
+        },
+      },
+    });
+  }
+  static getChapterProgress(
+    userId: string,
+    chapterId: string,
+    tx?: Prisma.TransactionClient
+  ) {
+    const client = tx || prisma;
+
+    return client.chapterProgress.findUnique({
+      where: {
+        userId_chapterId: {
+          userId,
+          chapterId,
+        },
+      },
+    });
+  }
+  static upsertChapterProgress(
+    data: Prisma.ChapterProgressUncheckedCreateInput,
+    tx?: Prisma.TransactionClient
+  ) {
+    const client = tx || prisma;
+
+    return client.chapterProgress.upsert({
+      where: {
+        userId_chapterId: {
+          userId: data.userId,
+          chapterId: data.chapterId,
+        },
+      },
+      create: data,
+      update: {
+        quizAttempts: data.quizAttempts,
+        totalQuestions: data.totalQuestions,
+        correctAnswers: data.correctAnswers,
+        accuracy: data.accuracy,
+        completion: data.completion,
+        topicsCovered: data.topicsCovered,
+      },
+    });
+  }
+
   static createQuestionResponses(
     data: Prisma.QuestionResponseCreateManyInput[],
     tx?: Prisma.TransactionClient

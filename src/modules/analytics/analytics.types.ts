@@ -47,6 +47,19 @@ export interface DailyActivityDay {
   active: boolean;
 }
 
+export interface SubjectProgress {
+  subject: string;
+  completed: number;
+  total: number;
+  percentage: number;
+}
+
+export interface ChapterProgressSummary {
+  chapter: string;
+  completed: boolean;
+  score: number;
+}
+
 export interface UserStats {
   totalAttempts: number;
   accuracy: number;
@@ -54,6 +67,9 @@ export interface UserStats {
   longestStreak: number;
   lastActivity: string | null;
   dailyActivity: DailyActivityDay[];
+
+  subjects: SubjectProgress[];
+  recentChapters: ChapterProgressSummary[];
 }
 
 export interface AnalyticsOverviewRequest {

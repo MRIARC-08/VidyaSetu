@@ -30,6 +30,7 @@ model User {
   quizSessions     QuizSession[]
   refreshTokens    RefreshToken[]
   stats            UserStats?
+  chapterProgress ChapterProgress[]
 
   @@index([email])
 }
@@ -74,6 +75,7 @@ model Subject {
   academicClassId String
   chapters        Chapter[]
   academicClass   AcademicClass @relation(fields: [academicClassId], references: [id], onDelete: Cascade)
+  chapterProgress ChapterProgress[]
 
   @@index([academicClassId])
 }
@@ -89,6 +91,7 @@ model Chapter {
   contentFormat String?
   contentSource String?
   topics        Topic[]
+  chapterProgress ChapterProgress[]
 
   @@index([subjectId])
 }
@@ -285,4 +288,30 @@ enum EvaluationStatus {
   PENDING
   COMPLETED
   FAILED
+}
+
+model ChapterProgress {
+  id             String   @id @default(uuid())
+  userId         String
+  chapterId      String
+  subjectId      String
+
+  quizAttempts   Int      @default(0)
+  totalQuestions Int      @default(0)
+  correctAnswers Int      @default(0)
+  accuracy       Float    @default(0)
+  completion     Float    @default(0)
+  topicsCovered  Int      @default(0)
+
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+
+  user            User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+  chapter         Chapter @relation(fields: [chapterId], references: [id], onDelete: Cascade)
+  subject         Subject @relation(fields: [subjectId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, chapterId])
+  @@index([userId])
+  @@index([chapterId])
+  @@index([subjectId])
 }

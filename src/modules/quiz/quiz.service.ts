@@ -176,6 +176,59 @@ export class QuizServices {
     return { sessions, total, page, limit: safeLimit };
   }
 
+  private static async updateChapterProgress(
+    userId: string,
+    chapterId: string,
+    totalQuestions: number,
+    correctCount: number,
+    tx: Prisma.TransactionClient
+  ) {
+    const chapter = await QuizRepository.findChapterWithSubject(chapterId, tx);
+
+    if (!chapter) return;
+
+    const existingProgress = await QuizRepository.getChapterProgress(
+      userId,
+      chapterId,
+      tx
+    );
+
+    const updatedAttempts = (existingProgress?.quizAttempts ?? 0) + 1;
+    const updatedTotalQuestions =
+      (existingProgress?.totalQuestions ?? 0) + totalQuestions;
+    const updatedCorrectAnswers =
+      (existingProgress?.correctAnswers ?? 0) + correctCount;
+
+    const accuracy = calculateAccuracy(
+      updatedCorrectAnswers,
+      updatedTotalQuestions
+    );
+
+    const totalTopics = chapter.topics.length;
+    const topicsCovered =
+      totalTopics === 0 ? 0 : Math.min(updatedAttempts, totalTopics);
+
+    const completion =
+      totalTopics === 0
+        ? 0
+        : Number(((topicsCovered / totalTopics) * 100).toFixed(2));
+
+    await QuizRepository.upsertChapterProgress(
+      {
+        userId,
+        chapterId,
+        subjectId: chapter.subjectId,
+        quizAttempts: updatedAttempts,
+        totalQuestions: updatedTotalQuestions,
+        correctAnswers: updatedCorrectAnswers,
+        accuracy,
+        completion,
+        topicsCovered,
+      },
+      tx
+    );
+  }
+
   static async submitQuiz(input: SubmitQuizInput) {
     const session = await QuizRepository.findSessionById(input.sessionId);
 
@@ -288,6 +341,17 @@ export class QuizServices {
         tx
       );
 
+      const quiz = await QuizRepository.findQuizById(session.quizId);
+
+      if (quiz?.chapterId) {
+        await QuizServices.updateChapterProgress(
+          session.userId,
+          quiz.chapterId,
+          totalQuestions,
+          correctCount,
+          tx
+        );
+      }
       return sess;
     });
 

@@ -69,6 +69,67 @@ export default class AnalyticsService {
       };
     });
 
+    const chapterProgress = await prisma.chapterProgress.findMany({
+      where: { userId },
+      include: {
+        chapter: {
+          select: {
+            title: true,
+          },
+        },
+        subject: {
+          select: {
+            name: true,
+          },
+        },
+      },
+      orderBy: {
+        updatedAt: 'desc',
+      },
+    });
+    const subjectMap = new Map<
+      string,
+      {
+        completed: number;
+        total: number;
+      }
+    >();
+
+    for (const progress of chapterProgress) {
+      const subjectName = progress.subject.name;
+
+      const existing = subjectMap.get(subjectName) ?? {
+        completed: 0,
+        total: 0,
+      };
+
+      existing.total += 1;
+
+      if (progress.completion >= 100) {
+        existing.completed += 1;
+      }
+
+      subjectMap.set(subjectName, existing);
+    }
+
+    const subjects = Array.from(subjectMap.entries()).map(
+      ([subject, value]) => ({
+        subject,
+        completed: value.completed,
+        total: value.total,
+        percentage:
+          value.total === 0
+            ? 0
+            : Number(((value.completed / value.total) * 100).toFixed(2)),
+      })
+    );
+
+    const recentChapters = chapterProgress.slice(0, 5).map((progress) => ({
+      chapter: progress.chapter.title,
+      completed: progress.completion >= 100,
+      score: progress.accuracy,
+    }));
+
     return {
       totalAttempts,
       accuracy,
@@ -76,6 +137,8 @@ export default class AnalyticsService {
       longestStreak,
       lastActivity,
       dailyActivity: mappedDailyActivity,
+      subjects,
+      recentChapters,
     };
   }
 
