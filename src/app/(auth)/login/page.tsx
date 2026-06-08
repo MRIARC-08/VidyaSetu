@@ -7,13 +7,13 @@ import { Button } from '@/components/ui/button';
 import { Label } from 'radix-ui';
 import { useRouter } from 'next/navigation';
 import { useState } from 'react';
-import { tuple } from 'zod';
 import { signIn } from 'next-auth/react';
 
 export default function LoginPage() {
   const [email, setEmail] = useState<string>('');
   const [password, setPassword] = useState<string>('');
   const [err, setErr] = useState<string>('');
+  const [isLoading, setIsLoading] = useState<boolean>(false);
   const router = useRouter();
 
   const handleSubmit = async (e: React.SyntheticEvent<HTMLFormElement>) => {
@@ -24,26 +24,31 @@ export default function LoginPage() {
       return;
     }
 
-    const user = await fetch('/api/auth/login', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({ email, password }),
-      credentials: 'include',
-    });
+    setIsLoading(true);
+    try {
+      const user = await fetch('/api/auth/login', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email, password }),
+        credentials: 'include',
+      });
 
-    const result = await user.json();
+      const result = await user.json();
 
-    if (!user.ok || !result.user) {
-      setErr(result.message || result.error || 'Login failed. Please check your credentials.');
-      return;
-    }
+      if (!user.ok || !result.user) {
+        setErr(result.message || result.error || 'Login failed. Please check your credentials.');
+        return;
+      }
 
-    if (result.user.firstTime) {
-      router.push('/profile');
-    } else {
-      router.push('/dashboard');
+      if (result.user.firstTime) {
+        router.push('/profile');
+      } else {
+        router.push('/dashboard');
+      }
+    } catch {
+      setErr('Network error. Please try again.');
+    } finally {
+      setIsLoading(false);
     }
   };
 
@@ -247,6 +252,7 @@ export default function LoginPage() {
 
                   <Input
                     className="bg-primary-foreground"
+                    type="password"
                     placeholder="••••••••"
                     id="password"
                     value={password}
@@ -261,9 +267,10 @@ export default function LoginPage() {
 
                 <div>
                   <Input
-                    className="bg-button text-white capitalize font-bold hover:bg-button/90 cursor-pointer transition-all duration-300 ease-in"
+                    className="bg-button text-white capitalize font-bold hover:bg-button/90 cursor-pointer transition-all duration-300 ease-in disabled:opacity-50 disabled:cursor-not-allowed"
                     type="submit"
-                    value="log in"
+                    value={isLoading ? 'Logging in...' : 'log in'}
+                    disabled={isLoading}
                   ></Input>
                 </div>
 
