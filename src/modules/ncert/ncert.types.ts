@@ -1,40 +1,43 @@
 export interface AcademicClassDTO {
     id: string;
-    name: string;
+    level: number;
     subjects?: SubjectDTO[];
 }
 
 export interface SubjectDTO {
     id: string;
     name: string;
-    classId: string;
+    academicClassId: string;
     chapters?: ChapterDTO[];
 }
 
 export interface ChapterDTO {
     id: string;
-    name: string;
+    title: string;
+    order: number;
     subjectId: string;
 
     pdf?: string | null;
     content?: string | null;
+    contentFormat?: string | null;
+    contentSource?: string | null;
 
     topics?: TopicDTO[];
 }
 
 export interface TopicDTO {
     id: string;
-    name: string;
+    title: string;
+    order: number;
     chapterId: string;
 
     content?: string | null;
     questionCount?: number;
 }
 
-
 export interface ApiResponseDTO<T> {
     status: number;
-    message: T; // matches controller
+    message: T;
 }
 
 export interface GetSubjectsRequestDTO {
@@ -61,9 +64,31 @@ export interface NcertFilterDTO {
     classId?: string;
     subjectId?: string;
     chapterId?: string;
+    topicId?: string;
     search?: string;
 }
 
 export interface NcertQueryDTO
     extends NcertPaginationDTO,
         NcertFilterDTO {}
+
+export type AcademicClassResponseDTO =
+    ApiResponseDTO<AcademicClassDTO | null>;
+
+export type SubjectResponseDTO =
+    ApiResponseDTO<SubjectDTO | null>;
+
+export type SubjectsResponseDTO =
+    ApiResponseDTO<SubjectDTO[]>;
+
+export type ChapterResponseDTO =
+    ApiResponseDTO<ChapterDTO | null>;
+
+export type ChaptersResponseDTO =
+    ApiResponseDTO<ChapterDTO[]>;
+
+export type TopicResponseDTO =
+    ApiResponseDTO<TopicDTO | null>;
+
+export type TopicsResponseDTO =
+    ApiResponseDTO<TopicDTO[]>;
