@@ -26,14 +26,16 @@ export class SetCookies {
 
   static async verifyCookies() {
     const cookieStore = await cookies();
-    const access_token = cookieStore.get('access_token');
+    const accessToken = cookieStore.get('access_token');
 
-    if (access_token) {
-      try {
-        return jwtService.verifyAccessToken(access_token.value);
-      } catch {
-        return null;
-      }
+    if (!accessToken) {
+      return null;
+    }
+
+    try {
+      return jwtService.verifyAccessToken(accessToken.value);
+    } catch {
+      return null;
     }
   }
 
