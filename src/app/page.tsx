@@ -1,6 +1,7 @@
 'use client';
 import { log } from '@/lib/logger';
 import Button from '@/components/Button';
+import ThemeToggle from '@/components/ThemeToggle';
 import Image from 'next/image';
 import Senv from '../../public/Study environment.png';
 import DV from '../../public/Data visualization.png';
@@ -13,21 +14,21 @@ export default function Home() {
   const router = useRouter();
   const [user, setUser] = useState<{ name: string } | null>(null);
 
-useEffect(() => {
-  const fetchUser = async () => {
-    try {
-      const response = await authFetch({
-        url: '/api/user/getUser', 
-        options: { method: 'GET' },
-      });
+  useEffect(() => {
+    const fetchUser = async () => {
+      try {
+        const response = await authFetch({
+          url: '/api/user/getUser',
+          options: { method: 'GET' },
+        });
 
-      if (response?.user) {
-        setUser(response.user);
+        if (response?.user) {
+          setUser(response.user);
+        }
+      } catch (error) {
+        log.error('User fetch failed');
       }
-    } catch (error) {
-      log.error('User fetch failed');
-    }
-  };
+    };
 
     fetchUser();
   }, []);

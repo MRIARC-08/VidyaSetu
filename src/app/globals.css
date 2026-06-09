@@ -10,6 +10,8 @@
 
 body {
   font-family: var(--font-manrope-sans);
+  background: var(--background);
+  color: var(--foreground);
 }
 
 :root {
@@ -73,6 +75,58 @@ body {
 
   --sidebar-border: oklch(0.9 0 0);
   --sidebar-ring: oklch(0.7 0 0);
+}
+
+.dark {
+  --background: oklch(0.14 0 0);
+  --foreground: oklch(0.98 0 0);
+
+  --card: oklch(0.18 0 0);
+  --card-foreground: oklch(0.98 0 0);
+
+  --popover: oklch(0.18 0 0);
+  --popover-foreground: oklch(0.98 0 0);
+
+  --border: oklch(0.3 0 0);
+  --input: oklch(0.3 0 0);
+  --ring: oklch(0.7 0 0);
+
+  --muted: oklch(0.22 0 0);
+  --muted-foreground: oklch(0.75 0 0);
+
+  --sidebar: oklch(0.18 0 0);
+  --sidebar-foreground: oklch(0.98 0 0);
+
+  --sidebar-accent: oklch(0.25 0 0);
+  --sidebar-accent-foreground: oklch(0.98 0 0);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not(.light) {
+    color-scheme: dark;
+
+    --background: oklch(0.14 0 0);
+    --foreground: oklch(0.98 0 0);
+
+    --card: oklch(0.18 0 0);
+    --card-foreground: oklch(0.98 0 0);
+
+    --popover: oklch(0.18 0 0);
+    --popover-foreground: oklch(0.98 0 0);
+
+    --border: oklch(0.3 0 0);
+    --input: oklch(0.3 0 0);
+    --ring: oklch(0.7 0 0);
+
+    --muted: oklch(0.22 0 0);
+    --muted-foreground: oklch(0.75 0 0);
+
+    --sidebar: oklch(0.18 0 0);
+    --sidebar-foreground: oklch(0.98 0 0);
+
+    --sidebar-accent: oklch(0.25 0 0);
+    --sidebar-accent-foreground: oklch(0.98 0 0);
+  }
 }
 
 @theme inline {
@@ -158,7 +212,13 @@ body {
 
 @media print {
   /* Hide sidebar, navigation, and chat panel */
-  aside, nav, header:not(.mb-8), footer, [data-sidebar="sidebar"], .chat-panel, .sidebar {
+  aside,
+  nav,
+  header:not(.mb-8),
+  footer,
+  [data-sidebar='sidebar'],
+  .chat-panel,
+  .sidebar {
     display: none !important;
   }
 
@@ -176,7 +236,8 @@ body {
   }
 
   /* Adjust font sizes for print readability */
-  html, body {
+  html,
+  body {
     font-size: 12pt;
   }
 
@@ -189,13 +250,15 @@ body {
   h3 {
     font-size: 14pt !important;
   }
-  p, li {
+  p,
+  li {
     font-size: 12pt !important;
     line-height: 1.5;
   }
 
   /* Ensure chapter content expands fully */
-  main, section {
+  main,
+  section {
     width: 100% !important;
     max-width: 100% !important;
     margin: 0 !important;
