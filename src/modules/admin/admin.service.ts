@@ -59,6 +59,18 @@ export class AdminServices {
     return { questions, total, page, limit: safeLimit };
   }
 
+  static async getStats() {
+    const [totalUsers, totalQuizzes, totalQuestions, activeToday] =
+      await Promise.all([
+        AdminRepository.countUsers(),
+        AdminRepository.countQuizSessions(),
+        AdminRepository.countQuestions(),
+        AdminRepository.countActiveToday(),
+      ]);
+
+    return { totalUsers, totalQuizzes, totalQuestions, activeToday };
+  }
+
   static async deleteQuestion(id: string) {
     const existing = await AdminRepository.getQuestionById(id);
     if (!existing) {

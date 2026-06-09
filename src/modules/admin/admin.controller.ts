@@ -113,6 +113,16 @@ export class AdminController {
     }
   }
 
+  static async getStats() {
+    try {
+      await requireAdmin();
+      const stats = await AdminServices.getStats();
+      return NextResponse.json(stats);
+    } catch (error) {
+      return handleAdminError(error);
+    }
+  }
+
   static async deleteQuestion(request: Request, questionId: string) {
     try {
       const admin = await requireAdmin();
