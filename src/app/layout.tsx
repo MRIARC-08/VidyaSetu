@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
-import { Geist, Geist_Mono, Lexend, Manrope } from 'next/font/google';
+import { Manrope } from 'next/font/google';
+
 import './globals.css';
 import MainLayout from './mainLayout';
 
@@ -20,7 +21,7 @@ export default async function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${manrope.variable}  antialiased `}>
+      <body className={`${manrope.variable} antialiased`}>
         <MainLayout>{children}</MainLayout>
       </body>
     </html>

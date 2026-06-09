@@ -66,4 +66,16 @@ export class NcertController {
       return handleNcertError(error);
     }
   }
+
+  static async searchContent(req: Request) {
+    try {
+      const query = new URL(req.url).searchParams.get('q') ?? '';
+
+      const res = await NcertServices.searchContent(query);
+
+      return NextResponse.json({ status: 200, message: res });
+    } catch (error) {
+      return handleNcertError(error);
+    }
+  }
 }

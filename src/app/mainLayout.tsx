@@ -3,6 +3,7 @@
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import type { PropsWithChildren } from 'react';
+import GlobalSearch from '@/components/GlobalSearch';
 
 export default function MainLayout({ children }: PropsWithChildren) {
   const path = usePathname();
@@ -114,7 +115,10 @@ export default function MainLayout({ children }: PropsWithChildren) {
         </div>
       </div>
 
-      <div className="flex-1">{children}</div>
+      <div className="flex-1">
+        {children}
+        <GlobalSearch />
+      </div>
     </div>
   );
 }

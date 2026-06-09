@@ -9,6 +9,56 @@ export class NcertRepository {
     });
   }
 
+  static async searchContent(query: string) {
+    return await prisma.chapter.findMany({
+      where: {
+        OR: [
+          {
+            title: {
+              contains: query,
+              mode: 'insensitive',
+            },
+          },
+          {
+            content: {
+              contains: query,
+              mode: 'insensitive',
+            },
+          },
+          {
+            topics: {
+              some: {
+                OR: [
+                  {
+                    title: {
+                      contains: query,
+                      mode: 'insensitive',
+                    },
+                  },
+                  {
+                    content: {
+                      contains: query,
+                      mode: 'insensitive',
+                    },
+                  },
+                ],
+              },
+            },
+          },
+        ],
+      },
+      include: {
+        subject: {
+          include: {
+            academicClass: true,
+          },
+        },
+        topics: true,
+      },
+      take: 20,
+    });
+  }
+
   static async getSubjects(academicClassId: string) {
     return await prisma.subject.findMany({
       where: {

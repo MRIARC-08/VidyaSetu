@@ -18,4 +18,25 @@ export class NcertServices {
   static async getChapter(chapterId: string) {
     return NcertRepository.getChapter(chapterId);
   }
+
+  static async searchContent(query: string) {
+    const trimmedQuery = query.trim();
+
+    if (trimmedQuery.length < 2) {
+      return [];
+    }
+
+    const chapters = await NcertRepository.searchContent(trimmedQuery);
+
+    return chapters.map((chapter) => ({
+      class: chapter.subject.academicClass.level,
+      subject: chapter.subject.name,
+      chapterId: chapter.id,
+      chapter: chapter.title,
+      topics: chapter.topics.map((topic) => ({
+        id: topic.id,
+        title: topic.title,
+      })),
+    }));
+  }
 }
