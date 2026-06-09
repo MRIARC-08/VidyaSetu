@@ -16,6 +16,12 @@ interface UserProps {
 
 export default function DashboardPage() {
   const [user, setUser] = useState<UserProps | null>(null);
+  const [analytics, setAnalytics] = useState<{
+  totalAttempts: number;
+  accuracy: number;
+  currentStreak: number;
+  lastActivity: string | null;
+} | null>(null);
 
   const quickCards = [
     {
@@ -130,16 +136,16 @@ export default function DashboardPage() {
     }
   };
 
-  const getAnalytics = async () => {
-    const req = {
-      url: `/api/analytics/overview`,
-      options: {
-        method: 'GET',
-      },
-    };
-
-    const res = await authFetch(req);
-  };
+ const getAnalytics = async () => {
+  const res = await authFetch({
+    url: `/api/analytics/overview`,
+    options: {
+      method: 'GET',
+    },
+  });
+  const json = await res.json();
+  setAnalytics(json.data);
+};
 
   //   const getUser = async () => {
   //   const res = await fetch('/api/user', {
@@ -208,6 +214,23 @@ export default function DashboardPage() {
           </div>
         </div>
       </div>
+      {/* analytics widgets */}
+{analytics && (
+  <div className="flex gap-4 mt-4">
+    <div className="bg-white rounded-xl p-4 shadow flex-1 text-center">
+      <p className="text-2xl font-bold">{analytics.totalAttempts}</p>
+      <p className="text-sm text-gray-500">Total Quizzes</p>
+    </div>
+    <div className="bg-white rounded-xl p-4 shadow flex-1 text-center">
+      <p className="text-2xl font-bold">{analytics.accuracy}%</p>
+      <p className="text-sm text-gray-500">Accuracy Rate</p>
+    </div>
+    <div className="bg-white rounded-xl p-4 shadow flex-1 text-center">
+      <p className="text-2xl font-bold">{analytics.currentStreak}</p>
+      <p className="text-sm text-gray-500">Current Streak 🔥</p>
+    </div>
+  </div>
+)}
 
       {/* quick actions */}
 
