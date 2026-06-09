@@ -1,12 +1,12 @@
 'use client';
 
 import { useEffect, useRef, useState } from 'react';
+import { useParams } from 'next/navigation';
 import MarkdownRenderer from '@/components/MarkdownRenderer';
 import { Button } from '@/components/ui/button';
 
-const DRAFT_KEY = 'chapter-editor-draft';
 
-export default function ChapterEditorPage() {
+  export default function ChapterEditorPage() {
   const [content, setContent] = useState(`# Chapter Title
 
 Start writing your chapter content here...
@@ -15,7 +15,11 @@ Start writing your chapter content here...
   const [error, setError] = useState('');
   const [contentSource, setContentSource] = useState('Manual');
   const [lastSaved, setLastSaved] = useState('');
-
+  const [loading, setLoading] = useState(true);
+  const [originalContent, setOriginalContent] = useState('');
+  const params = useParams();
+  const chapterId = params.chapterId as string;
+  const DRAFT_KEY = `chapter-editor-draft-${chapterId}`;
   const fileInputRef = useRef<HTMLInputElement>(null);
 
   // Restore draft on page load
@@ -27,6 +31,32 @@ Start writing your chapter content here...
       setContentSource('Draft');
     }
   }, []);
+
+  useEffect(() => {
+    async function fetchChapter() {
+      try {
+        const res = await fetch(
+          `/api/ncert/chapter?chapterId=${chapterId}`
+        );
+        const data = await res.json();
+        console.log(data);
+        if (data.message) {
+          setContent(data.message.content || '');
+          setContentSource(data.message.contentSource || 'Database');
+          setContentSource(
+            data.message.contentSource || 'Database'
+          );
+        }
+      } catch (err) {
+        console.error(err);
+      } finally {
+        setLoading(false);
+      }
+    }
+    if (chapterId) {
+      fetchChapter();
+    }
+  }, [chapterId]);
 
   // Auto-save every 30 seconds
   useEffect(() => {
@@ -46,6 +76,8 @@ Start writing your chapter content here...
             Chapter Content Editor
           </h1>
 
+          <p>Chapter ID: {chapterId}</p>
+
           <p className="mt-2 text-sm text-gray-500">
             Content Source: {contentSource}
           </p>
@@ -58,12 +90,46 @@ Start writing your chapter content here...
         </div>
 
         <div className="flex gap-2">
-          <Button variant="outline">
-            Cancel
+          <Button
+          variant="outline"
+          onClick={() => {
+            setContent(originalContent);
+            setError('');
+            }}>
+              Cancel
           </Button>
 
-          <Button>
-            Save
+          <Button
+          onClick={async () => {
+            
+            if (!content.trim()) {
+              setError('Content cannot be empty.');
+              return;
+            }
+            if (content.trim().length < 50) {
+              setError('Content must be at least 50 characters.');
+              return;
+            }
+            try {
+              const res = await fetch('/api/ncert/chapter', {
+                method: 'PATCH',
+                headers: {
+                  'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                  chapterId,
+                  content,
+                }),
+              });
+              const data = await res.json();
+              console.log('SAVE RESPONSE:', data);
+              alert('Chapter saved successfully!');
+            } catch (error) {
+              console.error(error);
+              alert('Failed to save chapter');
+            }
+            }}>
+              Save
           </Button>
 
           <Button
@@ -132,11 +198,12 @@ Start writing your chapter content here...
             value={content}
             onChange={(e) => {
               const value = e.target.value;
-
+              
               setContent(value);
-
               if (!value.trim()) {
                 setError('Content cannot be empty.');
+              } else if (value.trim().length < 50) {
+                setError('Content must be at least 50 characters.');
               } else {
                 setError('');
               }
