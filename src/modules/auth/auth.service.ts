@@ -146,11 +146,13 @@ export class AuthServices {
 
     await AuthRepository.saveResetToken(user.id, hashedToken, expiresAt);
 
-    console.log(`[ForgotPassword] Reset token for ${email}: ${rawToken}`);
+    if (process.env.NODE_ENV !== 'production') {
+      const resetUrl = `${process.env.NEXTAUTH_URL || 'http://localhost:3000'}/reset-password/${rawToken}`;
+      console.log(`[ForgotPassword] Dev-only reset URL for ${email}: ${resetUrl}`);
+    }
 
     return {
       message: 'If that email is registered, a reset link has been sent.',
-      resetToken: rawToken,
     };
   }
 
