@@ -143,8 +143,7 @@ export default function DashboardPage() {
       method: 'GET',
     },
   });
-  const json = await res.json();
-  setAnalytics(json.data);
+  setAnalytics(res.data);  // ✅ only this line
 };
 
   //   const getUser = async () => {
