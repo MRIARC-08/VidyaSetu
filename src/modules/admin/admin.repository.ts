@@ -1,5 +1,5 @@
-import { prisma } from "@/lib/prisma";
-import type { SeedNcertInput } from "./admin.types";
+import { prisma } from '@/lib/prisma';
+import type { SeedNcertInput } from './admin.types';
 
 export class AdminRepository {
   static async getTopicById(topicId: string) {
@@ -24,9 +24,15 @@ export class AdminRepository {
     return prisma.question.findMany({
       skip: (page - 1) * limit,
       take: limit,
-      orderBy: { createdAt: "desc" },
+      orderBy: { createdAt: 'desc' },
       include: {
-        topic: { select: { id: true, title: true, chapter: { select: { id: true, title: true } } } },
+        topic: {
+          select: {
+            id: true,
+            title: true,
+            chapter: { select: { id: true, title: true } },
+          },
+        },
         options: true,
       },
     });
@@ -94,7 +100,12 @@ export class AdminRepository {
       }
     });
 
-    return { classesCreated, subjectsCreated, chaptersCreated, duplicatesSkipped };
+    return {
+      classesCreated,
+      subjectsCreated,
+      chaptersCreated,
+      duplicatesSkipped,
+    };
   }
 
   static async createQuestion(data: {

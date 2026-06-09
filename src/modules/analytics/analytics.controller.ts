@@ -1,16 +1,20 @@
 import { NextResponse } from 'next/server';
 import { ZodError } from 'zod';
 import AnalyticsService from './analytics.service';
-import { WeakTopicAnalyticsError } from './analytics.types';
+import {
+  WeakTopicAnalyticsError,
+  type AnalyticsOverviewResponse,
+  type StreakDataResponse,
+} from './analytics.types';
 import { weakTopicsQuerySchema } from './analytics.validator';
 import { SetCookies } from '@/lib/auth/cookies';
 
-async function getAuthenticatedUserId() {
+async function getAuthenticatedUserId(): Promise<string | null> {
   const token = await SetCookies.verifyCookies();
   return token?.sub ?? null;
 }
 
-const handleAnalyticsError = (error: unknown) => {
+const handleAnalyticsError = (error: unknown): NextResponse => {
   if (error instanceof ZodError) {
     return NextResponse.json(
       { message: 'Invalid query parameters', errors: error.issues },
@@ -30,7 +34,9 @@ const handleAnalyticsError = (error: unknown) => {
 };
 
 export default class AnalyticsController {
-  static async getAnalytics(_req: Request) {
+  static async getAnalytics(
+    _req: Request
+  ): Promise<NextResponse<AnalyticsOverviewResponse | { message: string }>> {
     try {
       const userId = await getAuthenticatedUserId();
 
@@ -45,11 +51,15 @@ export default class AnalyticsController {
 
       return NextResponse.json({ success: true, data: res }, { status: 200 });
     } catch (error: unknown) {
-      return handleAnalyticsError(error);
+      return handleAnalyticsError(error) as NextResponse<
+        AnalyticsOverviewResponse | { message: string }
+      >;
     }
   }
 
-  static async getStreakData(_req: Request) {
+  static async getStreakData(
+    _req: Request
+  ): Promise<NextResponse<StreakDataResponse | { message: string }>> {
     try {
       const userId = await getAuthenticatedUserId();
 
@@ -64,11 +74,13 @@ export default class AnalyticsController {
 
       return NextResponse.json({ success: true, data: res }, { status: 200 });
     } catch (error: unknown) {
-      return handleAnalyticsError(error);
+      return handleAnalyticsError(error) as NextResponse<
+        StreakDataResponse | { message: string }
+      >;
     }
   }
 
-  static async getWeakTopics(req: Request) {
+  static async getWeakTopics(req: Request): Promise<NextResponse> {
     try {
       const userId = await getAuthenticatedUserId();
       if (!userId) {
@@ -79,10 +91,7 @@ export default class AnalyticsController {
       const rawParams = Object.fromEntries(url.searchParams.entries());
       const params = weakTopicsQuerySchema.parse(rawParams);
 
-      const result = await AnalyticsService.getWeakTopics(
-        userId,
-        params
-      );
+      const result = await AnalyticsService.getWeakTopics(userId, params);
 
       return NextResponse.json(
         { message: 'Weak topics retrieved successfully', data: result },

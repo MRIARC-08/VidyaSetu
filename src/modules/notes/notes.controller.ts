@@ -38,6 +38,7 @@ const handleNotesError = (error: unknown) => {
 };
 
 export class NotesControllers {
+
   static async upload(request: Request) {
     try {
       const formData = await parseFormData(request);
@@ -61,6 +62,69 @@ export class NotesControllers {
         { message: 'Note uploaded successfully', data: result },
         { status: 201 }
       );
+    } catch (error) {
+      return handleNotesError(error);
+    }
+  }
+
+
+  static async list(request: Request) {
+    try {
+      const { searchParams } = new URL(request.url);
+      const userId = searchParams.get('userId');
+
+      if (!userId) {
+        return NextResponse.json(
+          { message: 'userId query parameter is required' },
+          { status: 400 }
+        );
+      }
+
+      const notes = await NotesServices.getUserNotes(userId);
+
+      return NextResponse.json({ data: notes });
+    } catch (error) {
+      return handleNotesError(error);
+    }
+  }
+
+
+  static async getById(request: Request, noteId: string) {
+    try {
+      const { searchParams } = new URL(request.url);
+      const userId = searchParams.get('userId');
+
+      if (!userId) {
+        return NextResponse.json(
+          { message: 'userId query parameter is required' },
+          { status: 400 }
+        );
+      }
+
+      const note = await NotesServices.getNoteById(userId, noteId);
+
+      return NextResponse.json({ data: note });
+    } catch (error) {
+      return handleNotesError(error);
+    }
+  }
+
+
+  static async delete(request: Request, noteId: string) {
+    try {
+      const { searchParams } = new URL(request.url);
+      const userId = searchParams.get('userId');
+
+      if (!userId) {
+        return NextResponse.json(
+          { message: 'userId query parameter is required' },
+          { status: 400 }
+        );
+      }
+
+      const result = await NotesServices.deleteNote(userId, noteId);
+
+      return NextResponse.json(result);
     } catch (error) {
       return handleNotesError(error);
     }

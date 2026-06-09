@@ -4,9 +4,32 @@ import Image from 'next/image';
 import Senv from '../../public/Study environment.png';
 import DV from '../../public/Data visualization.png';
 import { useRouter } from 'next/navigation';
+import Link from "next/link";
+import { useEffect, useState } from 'react';
+import authFetch from '../lib/auth/authFetch';
 
 export default function Home() {
   const router = useRouter();
+  const [user, setUser] = useState<{ name: string } | null>(null);
+
+useEffect(() => {
+  const fetchUser = async () => {
+    try {
+      const response = await authFetch({
+        url: '/api/user/getUser', 
+        options: { method: 'GET' },
+      });
+
+      if (response?.user) {
+        setUser(response.user);
+      }
+    } catch (error) {
+      console.error("User fetch failed.");
+    }
+  };
+
+  fetchUser();
+}, []);
   return (
     <div className="flex flex-col h-max w-screen bg-background  ">
       <div className="flex  flex-col min-h-screen  p-4 pl-8 pr-8 ">
@@ -28,7 +51,15 @@ export default function Home() {
               />
             </svg>
 
-            <p>L</p>
+            {user ? (
+              <div className="w-8 h-8 rounded-full bg-black text-white flex items-center justify-center">
+                {user.name?.[0]?.toUpperCase() ?? 'U'}
+              </div>
+            ) : (
+              <Link href="/login" className="text-sm font-medium text-black hover:opacity-65 transition-opacity">
+                Login
+              </Link>
+            )}
           </div>
         </div>
 
@@ -225,7 +256,7 @@ export default function Home() {
               textCol="text-black"
               hover="hover:bg-white"
               additional=""
-              action=""
+              action={() => {}}
             ></Button>
 
             <Button
@@ -234,7 +265,7 @@ export default function Home() {
               color=""
               textCol=""
               hover=""
-              action=""
+              action={() => {}}
             ></Button>
           </div>
         </div>
@@ -305,3 +336,4 @@ export default function Home() {
     </div>
   );
 }
+
