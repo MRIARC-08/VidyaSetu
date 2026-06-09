@@ -5,6 +5,10 @@ import { useRouter } from 'next/navigation';
 import { useEffect, useState } from 'react';
 import { ProgressDashboard } from '@/components/ProgressDashboard';
 import { StreakDashboard } from '@/components/StreakDashboard';
+import BookmarkedChapters from '@/components/BookmarkedChapters';
+import { DashboardStats } from './components/DashboardStats';
+import { PerformanceChart } from './components/PerformanceChart';
+import { ActivityFeed } from './components/ActivityFeed';
 
 interface UserProps {
   name: string;
@@ -43,7 +47,7 @@ export default function DashboardPage() {
       name: 'Upload Notes',
       brief: 'Convert handwritten pages into structured study guides.',
       action: 'sync',
-      href: `/`,
+      href: `/notes/upload`,
       icon: (
         <svg
           width="18"
@@ -112,66 +116,34 @@ export default function DashboardPage() {
 
   const router = useRouter();
 
-  const getUser = async () => {
-    const data = {
-      url: '/api/user/getUser',
-      options: {
-        method: 'GET',
-      },
-    };
-    const user = await authFetch(data);
-
-    setUser(user.user);
-
-    console.log(user);
-
-    if (user.firstTime) {
-      router.push('/profileCompletion');
-    }
-  };
-
-  const getAnalytics = async () => {
-    const req = {
-      url: `/api/analytics/overview`,
-      options: {
-        method: 'GET',
-      },
-    };
-
-    const res = await authFetch(req);
-  };
-
-  //   const getUser = async () => {
-  //   const res = await fetch('/api/user', {
-  //     method: 'GET',
-  //     credentials: 'include',
-  //   });
-
-  //   const user = await res.json();
-  //   console.log('hemlo', user);
-
-  //   console.log(user);
-  //   if (user.message == 'jwt expired') {
-  //     const r = await fetch('/api/auth/refresh', {
-  //       method: 'GET',
-  //       credentials: 'include',
-  //     });
-
-  //     const p = await r.json();
-
-  //     setUser(user.profile);
-  //     console.log(p);
-
-  //     getUser();
-  //   }
-  // };
-
-  const call = async () => {
-    await getUser();
-    await getAnalytics();
-  };
   useEffect(() => {
-    call();
+    let active = true;
+
+    async function loadDashboardData() {
+      const userReq = {
+        url: '/api/user/getUser',
+        options: {
+          method: 'GET',
+        },
+      };
+      const userRes = await authFetch(userReq);
+
+      if (!active) return;
+
+      if (userRes?.user) {
+        setUser(userRes.user);
+      }
+
+      if (userRes?.firstTime) {
+        router.push('/profileCompletion');
+      }
+    }
+
+    loadDashboardData();
+
+    return () => {
+      active = false;
+    };
   }, []);
 
   return (
@@ -179,7 +151,9 @@ export default function DashboardPage() {
       {/* top */}
       <div className="flex justify-between">
         <div>
-          <p className="text-3xl font-bold">Welcome back, {user?.name ? user.name: user?.email.split("@")[0]}!</p>
+          <p className="text-3xl font-bold">
+            Welcome back, {user?.name ? user.name : user?.email.split('@')[0]}!
+          </p>
 
           <p className="text-[14px] text-accent  font-light ">
             Focus remains your greatest asset. Continue your curriculum below.
@@ -255,15 +229,40 @@ export default function DashboardPage() {
         </div>
       </div>
 
+      {/* stats overview */}
+
+      <div className="flex flex-col gap-4 w-full">
+        <div className="flex justify-between font-bold uppercase text-[12px]">
+          <div>stats overview</div>
+        </div>
+        <DashboardStats />
+      </div>
+
+      {/* charts + activity feed */}
+
+      <div className="grid gap-6 lg:grid-cols-3">
+        <div className="lg:col-span-2">
+          <PerformanceChart />
+        </div>
+        <div className="lg:col-span-1">
+          <ActivityFeed />
+        </div>
+      </div>
+
       {/* streak tracking */}
 
-      <div className='flex flex-col gap-4 w-full'>
+      <div className="flex flex-col gap-4 w-full">
         <StreakDashboard />
+      </div>
+
+      {/* saved chapters */}
+      <div className="flex flex-col gap-4 w-full">
+        <BookmarkedChapters />
       </div>
 
       {/* learning progress */}
 
-      <div className='flex flex-col gap-4 w-full h-full flex-1'>
+      <div className="flex flex-col gap-4 w-full h-full flex-1">
         <div className="flex justify-between font-bold uppercase text-[12px]">
           <div>learning progress </div>
         </div>

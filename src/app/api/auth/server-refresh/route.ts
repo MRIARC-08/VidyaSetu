@@ -1,8 +1,9 @@
 import { SetCookies } from '@/lib/auth/cookies';
 import { AuthServiceError, AuthServices } from '@/modules/auth/auth.service';
+import { NextResponse } from 'next/server';
 import { cookies } from 'next/headers';
 
-import { errorResponse, successResponse } from '@/lib/api-response';
+import { errorResponse } from '@/lib/api-response';
 
 export async function GET() {
   try {
@@ -14,10 +15,12 @@ export async function GET() {
     );
 
     await SetCookies.deleteCookies();
-    await SetCookies.setAccesstoken(accessToken);
-    await SetCookies.setRefreshtoken(refreshToken);
+    await SetCookies.setAuthCookies(accessToken, refreshToken);
 
-    return successResponse({ accessToken }, 'server-refreshed');
+    return NextResponse.json(
+      { message: 'server-refreshed', accessToken },
+      { status: 200 }
+    );
   } catch (error: unknown) {
     if (error instanceof AuthServiceError) {
       return errorResponse(error.message, error.statusCode);

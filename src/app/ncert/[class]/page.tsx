@@ -1,4 +1,5 @@
 'use client';
+import { log } from '@/lib/logger';
 import authFetch from '@/lib/auth/authFetch';
 import { useParams } from 'next/navigation';
 import { useEffect, useState, type ReactNode } from 'react';
@@ -85,16 +86,42 @@ export default function Page() {
     Hindi: <Book />,
   };
 
+  const [completedChapterIds, setCompletedChapterIds] = useState<Set<string>>(
+    new Set()
+  );
+
   useEffect(() => {
     let isMounted = true;
 
-    Promise.all([fetchUser(), fetchSubjects(params.class)])
-      .then(([nextUser, subjects]) => {
+    const fetchQuizHistory = async () => {
+      try {
+        const res = await authFetch({
+          url: '/api/quiz/history?limit=100',
+          options: { method: 'GET' },
+        });
+        if (res && res.data && Array.isArray(res.data.sessions)) {
+          const completed = new Set<string>();
+          res.data.sessions.forEach((s: { completedAt?: string; quiz?: { chapterId?: string } }) => {
+            if (s.completedAt && s.quiz && s.quiz.chapterId) {
+              completed.add(s.quiz.chapterId);
+            }
+          });
+          return completed;
+        }
+      } catch (err) {
+        log.error('Failed to fetch quiz history', err);
+      }
+      return new Set<string>();
+    };
+
+    Promise.all([fetchUser(), fetchSubjects(params.class), fetchQuizHistory()])
+      .then(([nextUser, subjects, completedChapters]) => {
         if (!isMounted) return;
 
         setUser(nextUser);
         setSubs(subjects);
         setFocusSubject(subjects[0]);
+        setCompletedChapterIds(completedChapters);
       })
       .finally(() => {
         if (isMounted) {
@@ -128,6 +155,16 @@ export default function Page() {
         <div className="flex justify-end font-semibold"></div>
         <div className="grid md:grid-cols-3 grid-cols-2 gap-4 transition-all duration-300 ">
           {subs.map((val: Subjects) => {
+            const chapters = val.chapters || [];
+            const completedCount = chapters.filter((ch: { id: string }) =>
+              completedChapterIds.has(ch.id)
+            ).length;
+            const totalCount = chapters.length;
+            const progressPercentage =
+              totalCount > 0
+                ? Math.round((completedCount / totalCount) * 100)
+                : 0;
+
             return (
               <div
                 key={val.id}
@@ -136,23 +173,28 @@ export default function Page() {
               >
                 <div>
                   <div>{subjectIcons[val.name.split(' ')[0]]}</div>
-                  <div className="flex justify-between">
-                    <p>{val.name}</p>
-                    <div className="flex flex-col justify-center items-center">
-                      <p>70%</p>
-                      <p className="text-[12px]">Completed</p>
+                  <div className="flex justify-between items-center mb-2">
+                    <p className="font-semibold">{val.name}</p>
+                    <div className="flex flex-col justify-center items-end">
+                      <p className="text-sm font-bold">{progressPercentage}%</p>
+                      <p className="text-[10px] text-muted-foreground whitespace-nowrap">
+                        {completedCount} of {totalCount} practiced
+                      </p>
                     </div>
                   </div>
-                  <div className="w-full h-2 bg-accent/14">
-                    <div className="w-[70%] h-full bg-black"></div>
+                  <div className="w-full h-2 bg-accent/14 rounded-full overflow-hidden">
+                    <div
+                      className="h-full bg-black rounded-full"
+                      style={{ width: `${progressPercentage}%` }}
+                    ></div>
                   </div>
                 </div>
 
                 <a
                   className="bg-white text-[14px] font-bold p-3 mt-4 text-center hover:bg-primary cursor-pointer hover:text-white transition-all duration-300"
-                  href={`/ncert/${user?.user?.class}/${val.id}`}
+                  href={`/ncert/${params.class}/${val.id}`}
                 >
-                  VIER CURRICULAM
+                  VIEW CURRICULUM
                 </a>
               </div>
             );

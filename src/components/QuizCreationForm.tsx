@@ -32,7 +32,13 @@ interface SubjectWithChapters {
   chapters: { id: string; title: string; order: number }[];
 }
 
-const SOURCES: { value: QuizSource; label: string; description: string; icon: React.ReactNode; enabled: boolean }[] = [
+const SOURCES: {
+  value: QuizSource;
+  label: string;
+  description: string;
+  icon: React.ReactNode;
+  enabled: boolean;
+}[] = [
   {
     value: 'CHAPTER',
     label: 'From Chapter',
@@ -66,13 +72,19 @@ const SOURCES: { value: QuizSource; label: string; description: string; icon: Re
 function QuizCreationForm({ className }: { className?: string }) {
   const router = useRouter();
 
-  const [step, setStep] = React.useState<'source' | 'mode' | 'review' | 'submitting'>('source');
+  const [isSubmitting, setIsSubmitting] = React.useState(false);
 
   const [userClass, setUserClass] = React.useState<number | null>(null);
   const [subjects, setSubjects] = React.useState<SubjectWithChapters[]>([]);
-  const [selectedSubject, setSelectedSubject] = React.useState<string | null>(null);
-  const [selectedChapter, setSelectedChapter] = React.useState<string | null>(null);
-  const [selectedMode, setSelectedMode] = React.useState<QuizMode | null>(null);
+  const [selectedSubject, setSelectedSubject] = React.useState<string | null>(
+    null
+  );
+  const [selectedChapter, setSelectedChapter] = React.useState<string | null>(
+    null
+  );
+  const [selectedMode, setSelectedMode] = React.useState<QuizMode | null>(
+    null
+  );
   const [questionCount, setQuestionCount] = React.useState(10);
 
   const [pageError, setPageError] = React.useState<string | null>(null);
@@ -85,36 +97,66 @@ function QuizCreationForm({ className }: { className?: string }) {
     async function init() {
       try {
         const user = await fetchUserProfile();
+
+        if (cancelled) return;
+
         if (!user.class) {
-          if (!cancelled) setPageError('Please set your class in profile settings before creating a quiz.');
+          setPageError(
+            'Please set your class in profile settings before creating a quiz.'
+          );
+          setLoading(false);
           return;
         }
 
         const classNum = Number(user.class);
         setUserClass(classNum);
 
-        const subjectsData = await fetchSubjects(String(classNum));
-        if (!cancelled) setSubjects(subjectsData);
+        try {
+          const subjectsData = await fetchSubjects();
+          if (!cancelled) setSubjects(subjectsData);
+        } catch (subjectsErr) {
+          if (!cancelled) {
+            setPageError(
+              subjectsErr instanceof Error
+                ? subjectsErr.message
+                : 'Failed to load subjects'
+            );
+          }
+          return;
+        }
       } catch {
-        if (!cancelled) setPageError('Failed to load your profile. Please try again.');
+        if (!cancelled)
+          setPageError('Failed to load your profile. Please try again.');
       } finally {
         if (!cancelled) setLoading(false);
       }
     }
 
     init();
-    return () => { cancelled = true; };
+    return () => {
+      cancelled = true;
+    };
   }, []);
 
   const selectedSubjectData = subjects.find((s) => s.id === selectedSubject);
-  const selectedChapterData = selectedSubjectData?.chapters.find((c) => c.id === selectedChapter);
+  const selectedChapterData = selectedSubjectData?.chapters.find(
+    (c) => c.id === selectedChapter
+  );
 
-  const canCreate = selectedChapter && selectedMode && questionCount >= 1;
+  const chapterBelongsToSubject = selectedSubjectData?.chapters.some(
+    (c) => c.id === selectedChapter
+  );
+  const canCreate =
+    selectedSubject &&
+    selectedChapter &&
+    chapterBelongsToSubject &&
+    selectedMode &&
+    questionCount >= 1;
 
   async function handleCreate() {
     if (!canCreate || !userClass) return;
 
-    setStep('submitting');
+    setIsSubmitting(true);
     setSubmitError(null);
 
     try {
@@ -128,8 +170,10 @@ function QuizCreationForm({ className }: { className?: string }) {
 
       router.push(`/quiz/${result.quiz.id}`);
     } catch (err) {
-      setSubmitError(err instanceof Error ? err.message : 'Failed to create quiz');
-      setStep('review');
+      setSubmitError(
+        err instanceof Error ? err.message : 'Failed to create quiz'
+      );
+      setIsSubmitting(false);
     }
   }
 
@@ -143,9 +187,9 @@ function QuizCreationForm({ className }: { className?: string }) {
 
   if (pageError) {
     return (
-      <div className="flex flex-col items-center gap-3 rounded-xl border border-amber-200 bg-amber-50 px-6 py-10 text-center">
-        <AlertCircle className="size-8 text-amber-500" />
-        <p className="text-sm text-amber-800">{pageError}</p>
+      <div className="flex flex-col items-center gap-3 rounded-xl border border-border bg-muted/50 px-6 py-10 text-center">
+        <AlertCircle className="size-8 text-muted-foreground" />
+        <p className="text-sm text-muted-foreground">{pageError}</p>
       </div>
     );
   }
@@ -156,7 +200,9 @@ function QuizCreationForm({ className }: { className?: string }) {
       <Card>
         <CardHeader>
           <CardTitle>Select Source</CardTitle>
-          <CardDescription>Choose where to generate questions from</CardDescription>
+          <CardDescription>
+            Choose where to generate questions from
+          </CardDescription>
         </CardHeader>
         <CardContent className="flex flex-col gap-6">
           <div className="grid gap-3 sm:grid-cols-2">
@@ -169,7 +215,7 @@ function QuizCreationForm({ className }: { className?: string }) {
                   'flex items-start gap-3 rounded-xl border p-4 text-left transition-all',
                   source.enabled
                     ? 'cursor-pointer hover:border-primary/50 hover:bg-accent/50'
-                    : 'cursor-not-allowed opacity-40',
+                    : 'cursor-not-allowed opacity-40'
                 )}
               >
                 <div className="flex size-9 shrink-0 items-center justify-center rounded-lg bg-muted text-muted-foreground">
@@ -177,8 +223,14 @@ function QuizCreationForm({ className }: { className?: string }) {
                 </div>
                 <div className="flex flex-col gap-0.5">
                   <span className="text-sm font-medium">{source.label}</span>
-                  <span className="text-xs text-muted-foreground">{source.description}</span>
-                  {!source.enabled && <span className="mt-1 text-[10px] font-medium text-amber-600 uppercase tracking-wide">Coming soon</span>}
+                  <span className="text-xs text-muted-foreground">
+                    {source.description}
+                  </span>
+                  {!source.enabled && (
+                    <span className="mt-1 text-[10px] font-medium text-amber-600 uppercase tracking-wide">
+                      Coming soon
+                    </span>
+                  )}
                 </div>
               </button>
             ))}
@@ -189,17 +241,24 @@ function QuizCreationForm({ className }: { className?: string }) {
             <Label>Browse Chapters</Label>
 
             {subjects.length === 0 ? (
-              <p className="text-sm text-muted-foreground">No subjects available for your class.</p>
+              <p className="text-sm text-muted-foreground">
+                No subjects available for your class.
+              </p>
             ) : (
-              <div className="flex flex-col gap-2">
+              <div className="flex max-h-72 flex-col gap-2 overflow-y-auto">
                 {subjects.map((subject) => {
                   const isExpanded = selectedSubject === subject.id;
                   return (
-                    <div key={subject.id} className="overflow-hidden rounded-lg border">
+                    <div
+                      key={subject.id}
+                      className="overflow-hidden rounded-lg border"
+                    >
                       <button
                         type="button"
                         onClick={() => {
-                          setSelectedSubject(isExpanded ? null : subject.id);
+                          setSelectedSubject(
+                            isExpanded ? null : subject.id
+                          );
                           if (!isExpanded) setSelectedChapter(null);
                         }}
                         className={cn(
@@ -226,12 +285,15 @@ function QuizCreationForm({ className }: { className?: string }) {
                             subject.chapters
                               .sort((a, b) => a.order - b.order)
                               .map((chapter) => {
-                                const isSelected = selectedChapter === chapter.id;
+                                const isSelected =
+                                  selectedChapter === chapter.id;
                                 return (
                                   <button
                                     key={chapter.id}
                                     type="button"
-                                    onClick={() => setSelectedChapter(chapter.id)}
+                                    onClick={() =>
+                                      setSelectedChapter(chapter.id)
+                                    }
                                     className={cn(
                                       'flex w-full items-center gap-3 px-4 py-2.5 text-left text-sm transition-colors',
                                       isSelected
@@ -249,7 +311,9 @@ function QuizCreationForm({ className }: { className?: string }) {
                                     >
                                       {chapter.order}
                                     </span>
-                                    <span className="leading-snug">{chapter.title}</span>
+                                    <span className="leading-snug">
+                                      {chapter.title}
+                                    </span>
                                     {isSelected && (
                                       <span className="ml-auto text-[10px] font-medium uppercase tracking-wide text-primary">
                                         Selected
@@ -284,25 +348,28 @@ function QuizCreationForm({ className }: { className?: string }) {
               <Label>Mode</Label>
               <QuizModeSelector
                 value={selectedMode}
-                onChange={(mode) => {
-                  setSelectedMode(mode);
-                  setStep('mode');
-                }}
+                onChange={setSelectedMode}
               />
             </div>
 
             {selectedMode && (
               <div className="flex flex-col gap-2">
                 <Label htmlFor="question-count">
-                  Questions: <span className="font-semibold text-foreground">{questionCount}</span>
+                  Questions:{' '}
+                  <span className="font-semibold text-foreground">
+                    {questionCount}
+                  </span>
                 </Label>
                 <input
                   id="question-count"
                   type="range"
                   min={1}
                   max={50}
+                  aria-label={`Number of questions: ${questionCount}`}
                   value={questionCount}
-                  onChange={(e) => setQuestionCount(Number(e.target.value))}
+                  onChange={(e) =>
+                    setQuestionCount(Number(e.target.value))
+                  }
                   className="h-2 w-full cursor-pointer appearance-none rounded-full bg-muted accent-primary [&::-webkit-slider-thumb]:size-4 [&::-webkit-slider-thumb]:appearance-none [&::-webkit-slider-thumb]:rounded-full [&::-webkit-slider-thumb]:bg-primary"
                 />
                 <div className="flex justify-between text-[10px] text-muted-foreground">
@@ -320,19 +387,19 @@ function QuizCreationForm({ className }: { className?: string }) {
       {selectedMode && (
         <div className="flex flex-col gap-3">
           {submitError && (
-            <div className="flex items-center gap-2 rounded-lg border border-red-200 bg-red-50 px-4 py-3 text-sm text-red-700">
-              <AlertCircle className="size-4 shrink-0" />
+            <div className="flex items-center gap-2 rounded-lg border border-border bg-muted/50 px-4 py-3 text-sm text-muted-foreground">
+              <AlertCircle className="size-4 shrink-0 text-muted-foreground" />
               {submitError}
             </div>
           )}
 
           <Button
             size="lg"
-            disabled={step === 'submitting'}
+            disabled={isSubmitting}
             onClick={handleCreate}
             className="w-full"
           >
-            {step === 'submitting' ? (
+            {isSubmitting ? (
               <>
                 <Loader2 className="size-4 animate-spin" />
                 Creating Quiz...

@@ -19,8 +19,7 @@ export class AuthControllers {
 
       const result = await AuthServices.handleRegister(body);
 
-      await SetCookies.setAccesstoken(result.accessToken);
-      await SetCookies.setRefreshtoken(result.refreshToken);
+      await SetCookies.setAuthCookies(result.accessToken, result.refreshToken);
 
       return NextResponse.json({ user: result.user }, { status: 201 });
     } catch (error: unknown) {
@@ -30,12 +29,11 @@ export class AuthControllers {
 
   static async login(req: Request) {
     const body = await req.json();
-
     try {
       const result = await AuthServices.handleLoginUser(body);
 
-      await SetCookies.setAccesstoken(result.accessToken);
-      await SetCookies.setRefreshtoken(result.refreshToken);
+
+      await SetCookies.setAuthCookies(result.accessToken, result.refreshToken);
 
       return NextResponse.json({ user: result.user }, { status: 201 });
     } catch (error: unknown) {
@@ -52,8 +50,7 @@ export class AuthControllers {
         token?.value
       );
 
-      await SetCookies.setAccesstoken(accessToken);
-      await SetCookies.setRefreshtoken(refreshToken);
+      await SetCookies.setAuthCookies(accessToken, refreshToken);
       return NextResponse.json({ message: 'refreshed' }, { status: 200 });
     } catch (error: unknown) {
       await SetCookies.deleteCookies();

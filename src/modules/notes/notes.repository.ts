@@ -27,4 +27,43 @@ export class NotesRepository {
       },
     });
   }
+
+
+  static findNotesByUser(userId: string) {
+    return prisma.note.findMany({
+      where: { userId, deletedAt: null },
+      select: {
+        id: true,
+        title: true,
+        content: true,
+        fileUrl: true,
+        extractedText: true,
+        createdAt: true,
+        updatedAt: true,
+      },
+      orderBy: { updatedAt: 'desc' },
+    });
+  }
+
+  static findNoteById(noteId: string, userId: string) {
+    return prisma.note.findFirst({
+      where: { id: noteId, userId, deletedAt: null },
+      select: {
+        id: true,
+        title: true,
+        content: true,
+        fileUrl: true,
+        extractedText: true,
+        createdAt: true,
+        updatedAt: true,
+      },
+    });
+  }
+
+  static deleteNote(noteId: string, userId: string) {
+    return prisma.note.updateMany({
+      where: { id: noteId, userId, deletedAt: null },
+      data: { deletedAt: new Date() },
+    });
+  }
 }

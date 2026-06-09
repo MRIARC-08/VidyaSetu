@@ -4,11 +4,13 @@ import { Button } from '@/components/ui/button';
 import { useRouter } from 'next/navigation';
 import { useState } from 'react';
 import { signIn } from 'next-auth/react';
+import { Eye, EyeOff } from 'lucide-react';
 
 export default function LoginPage() {
   const [name, setName] = useState<string>('');
   const [email, setEmail] = useState<string>('');
   const [password, setPassword] = useState<string>('');
+  const [showPassword, setShowPassword] = useState<boolean>(false);
   const [err, setErr] = useState<string>('');
   const [passC, setPassC] = useState<string>('');
   const handleSubmit = async (e: React.SyntheticEvent<HTMLFormElement>) => {
@@ -25,25 +27,31 @@ export default function LoginPage() {
       return;
     }
 
-    const user = await fetch('/api/auth/register', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({ name, email, password }),
-      credentials: 'include',
-    });
+    try {
+      const response = await fetch('/api/auth/register', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ name, email, password }),
+        credentials: 'include',
+      });
 
-    const res = await user.json();
+      const result = await response.json();
+      const isFirstTime = result?.user?.firstTime;
 
-    const isFirstTime = res?.user?.firstTime;
-
-    if (isFirstTime) {
-      router.push('/profile');
-    } else {
-      router.push('/dashboard');
+      if (response.ok && isFirstTime) {
+        router.push('/profile');
+      } else if (response.ok) {
+        router.push('/dashboard');
+      } else {
+        setErr(result.error || 'Registration failed');
+      }
+    } catch (err) {
+      setErr(err instanceof Error ? err.message : 'Registration failed');
     }
   };
+
   const handleLoginWithGoogle = async () => {
     await signIn('google', {
       callbackUrl: '/dashboard',
@@ -65,10 +73,10 @@ export default function LoginPage() {
         {/* Big Glow Circle */}
         <div className="absolute inset-0 flex justify-center items-center pointer-events-none z-0">
           <div
-            className="w-[500px] h-[500px] rounded-full 
-                          bg-cyan-400/20 
-                          blur-3xl 
-                          shadow-[0_0_80px_rgba(0,255,255,0.25)] 
+            className="w-[500px] h-[500px] rounded-full
+                          bg-cyan-400/20
+                          blur-3xl
+                          shadow-[0_0_80px_rgba(0,255,255,0.25)]
                           animate-[pulse_6s_ease-in-out_infinite]"
           />
         </div>
@@ -98,8 +106,8 @@ export default function LoginPage() {
               <div
                 className="w-40 h-36 rounded-[68px] flex justify-center items-center relative
                               border border-white/20
-                              bg-white/5 
-                              backdrop-blur-xl 
+                              bg-white/5
+                              backdrop-blur-xl
                               shadow-[0_0_80px_rgba(0,255,255,0.25)]"
               >
                 <svg
@@ -118,8 +126,8 @@ export default function LoginPage() {
 
               <div
                 className="absolute top-4 right-9 border border-white/20
-                              bg-white/5 
-                              backdrop-blur-xl 
+                              bg-white/5
+                              backdrop-blur-xl
                               shadow-[0_0_80px_rgba(0,255,255,0.25)] p-2 w-max   h-10 text-center flex justify-center items-center"
               >
                 <svg
@@ -138,8 +146,8 @@ export default function LoginPage() {
 
               <div
                 className=" absolute bottom-4 left-9 border border-white/20
-                              bg-white/5 
-                              backdrop-blur-xl 
+                              bg-white/5
+                              backdrop-blur-xl
                               shadow-[0_0_80px_rgba(0,255,255,0.25)] p-2 w-max   h-10 text-center flex justify-center items-center"
               >
                 <svg
@@ -259,15 +267,32 @@ export default function LoginPage() {
                   <div className="flex justify-between items-center">
                     <label htmlFor="password">Create Password</label>
                   </div>
-                  <Input
-                    className="bg-primary-foreground"
-                    type="password"
-                    placeholder="Min. 8 characters"
-                    id="password"
-                    required
-                    onChange={(e) => setPassword(e.target.value)}
-                    value={password}
-                  />
+                  <div className="relative">
+                    <Input
+                      className="bg-primary-foreground pr-11"
+                      type={showPassword ? 'text' : 'password'}
+                      placeholder="Min. 8 characters"
+                      id="password"
+                      required
+                      onChange={(e) => setPassword(e.target.value)}
+                      value={password}
+                    />
+                    <button
+                      type="button"
+                      aria-label={
+                        showPassword ? 'Hide password' : 'Show password'
+                      }
+                      aria-pressed={showPassword}
+                      className="absolute inset-y-0 right-3 flex items-center text-black/45 transition-colors hover:text-black/70 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-button/40"
+                      onClick={() => setShowPassword((current) => !current)}
+                    >
+                      {showPassword ? (
+                        <EyeOff className="h-4 w-4" aria-hidden="true" />
+                      ) : (
+                        <Eye className="h-4 w-4" aria-hidden="true" />
+                      )}
+                    </button>
+                  </div>
                   <p className="text-red-500  text-[14px] font-light">
                     {passC}
                   </p>
@@ -295,12 +320,12 @@ export default function LoginPage() {
 
               <p className="mt-2">
                 Already have an account?{' '}
-                <span
+                {/*<span
                   className="text-button cursor-pointer"
                   onClick={() => router.push('/login')}
                 >
                   Log in
-                </span>
+                </span>*/}
               </p>
             </div>
           </div>

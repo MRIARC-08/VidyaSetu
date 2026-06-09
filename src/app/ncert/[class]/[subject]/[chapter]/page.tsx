@@ -3,6 +3,7 @@
 import ChapterContent, {
   type ChapterContentData,
 } from '@/components/ChapterContent';
+import ReadingProgressBar from '@/components/ReadingProgressBar';
 import { ChapterPageSkeleton } from '@/components/Skeletons';
 import authFetch from '@/lib/auth/authFetch';
 import { useParams } from 'next/navigation';
@@ -61,9 +62,14 @@ export default function NcertChapterPage() {
     getChapter();
   }, [getChapter]);
 
-  if (isLoading) {
-    return <ChapterPageSkeleton />;
-  }
-
-  return <ChapterContent chapter={chapter} error={error} />;
+  return (
+    <>
+      <ReadingProgressBar chapterSlug={params.chapter} isLoading={isLoading} />
+      {isLoading ? (
+        <ChapterPageSkeleton />
+      ) : (
+        <ChapterContent chapter={chapter} error={error} />
+      )}
+    </>
+  );
 }
