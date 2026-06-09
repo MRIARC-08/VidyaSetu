@@ -18,4 +18,14 @@ export class NcertServices {
   static async getChapter(chapterId: string) {
     return NcertRepository.getChapter(chapterId);
   }
+
+  static async updateChapterContent(
+  chapterId: string,
+  content: string
+) {
+  return NcertRepository.updateChapterContent(
+    chapterId,
+    content
+  );
+}
 }

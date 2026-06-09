@@ -66,4 +66,22 @@ export class NcertController {
       return handleNcertError(error);
     }
   }
+  static async updateChapterContent(req: Request) {
+  try {
+    const body = await req.json();
+
+    const res =
+      await NcertServices.updateChapterContent(
+        body.chapterId,
+        body.content
+      );
+
+    return NextResponse.json({
+      status: 200,
+      message: res,
+    });
+  } catch (error) {
+    return handleNcertError(error);
+  }
+}
 }
