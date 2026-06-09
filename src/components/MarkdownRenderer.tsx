@@ -9,13 +9,21 @@ type MarkdownRendererProps = {
 };
 
 type MarkdownBlock =
-  | { type: 'heading'; level: 1 | 2 | 3; text: string }
+  | { type: 'heading'; level: 1 | 2 | 3 | 4; text: string }
   | { type: 'paragraph'; text: string }
   | { type: 'list'; ordered: boolean; items: string[] }
   | { type: 'blockquote'; text: string }
   | { type: 'code'; language: string; text: string }
   | { type: 'table'; headers: string[]; rows: string[][] }
   | { type: 'hr' };
+
+const generateId = (text: string) =>
+  text
+    .toLowerCase()
+    .replace(/[^\w\s-]/g, '')
+    .replace(/\s+/g, '-')
+    .replace(/-+/g, '-')
+    .trim();
 
 const safeUrl = (url: string) => {
   if (url.startsWith('/') || url.startsWith('#')) {
@@ -44,7 +52,7 @@ const parseTableRow = (line: string) =>
     .map((cell) => cell.trim());
 
 const isBlockStart = (line: string) =>
-  /^#{1,3}\s+/.test(line) ||
+  /^#{1,4}\s+/.test(line) ||
   /^[-*_]{3,}\s*$/.test(line) ||
   /^>\s?/.test(line) ||
   /^[-*]\s+/.test(line) ||
@@ -103,11 +111,11 @@ const parseMarkdown = (content: string): MarkdownBlock[] => {
       continue;
     }
 
-    const heading = trimmed.match(/^(#{1,3})\s+(.+)$/);
+    const heading = trimmed.match(/^(#{1,4})\s+(.+)$/);
     if (heading) {
       blocks.push({
         type: 'heading',
-        level: heading[1].length as 1 | 2 | 3,
+        level: heading[1].length as 1 | 2 | 3 | 4,
         text: heading[2],
       });
       index += 1;
@@ -268,10 +276,13 @@ const renderHighlightedCode = (code: string): ReactNode[] => {
 
 const renderBlock = (block: MarkdownBlock, index: number) => {
   switch (block.type) {
-    case 'heading':
+    case 'heading': {
+      const headingId = generateId(block.text);
+
       if (block.level === 1) {
         return (
           <h1
+            id={headingId}
             className="mt-2 border-b border-primary/20 pb-4 text-3xl font-extrabold leading-tight text-primary md:text-4xl"
             key={index}
           >
@@ -283,6 +294,7 @@ const renderBlock = (block: MarkdownBlock, index: number) => {
       if (block.level === 2) {
         return (
           <h2
+            id={headingId}
             className="mt-10 text-2xl font-bold leading-tight text-primary"
             key={index}
           >
@@ -291,14 +303,28 @@ const renderBlock = (block: MarkdownBlock, index: number) => {
         );
       }
 
+      if (block.level === 3) {
+        return (
+          <h3
+            id={headingId}
+            className="mt-8 text-xl font-semibold leading-snug text-primary"
+            key={index}
+          >
+            {renderInline(block.text)}
+          </h3>
+        );
+      }
+
       return (
-        <h3
-          className="mt-8 text-xl font-semibold leading-snug text-primary"
+        <h4
+          id={headingId}
+          className="mt-6 text-lg font-semibold leading-snug text-primary"
           key={index}
         >
           {renderInline(block.text)}
-        </h3>
+        </h4>
       );
+    }
     case 'paragraph':
       return (
         <p className="my-4 text-base leading-7 text-primary/80" key={index}>

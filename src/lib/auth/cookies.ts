@@ -29,8 +29,17 @@ export class SetCookies {
     const access_token = cookieStore.get('access_token');
 
     if (access_token) {
-      return jwtService.verifyAccessToken(access_token.value);
+      try {
+        return jwtService.verifyAccessToken(access_token.value);
+      } catch {
+        return null;
+      }
     }
+  }
+
+  static async setAuthCookies(accessToken: string, refreshToken: string) {
+    await this.setAccesstoken(accessToken);
+    await this.setRefreshtoken(refreshToken);
   }
 
   static async deleteCookies() {

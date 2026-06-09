@@ -151,16 +151,20 @@ export class QuizRepository {
   }
 
   static createQuestionResponses(
-    data: Prisma.QuestionResponseCreateManyInput[]
+    data: Prisma.QuestionResponseCreateManyInput[],
+    tx?: Prisma.TransactionClient
   ) {
-    return prisma.questionResponse.createMany({ data });
+    const client = tx || prisma;
+    return client.questionResponse.createMany({ data });
   }
 
   static updateSession(
     sessionId: string,
-    data: Prisma.QuizSessionUncheckedUpdateInput
+    data: Prisma.QuizSessionUncheckedUpdateInput,
+    tx?: Prisma.TransactionClient
   ) {
-    return prisma.quizSession.update({
+    const client = tx || prisma;
+    return client.quizSession.update({
       where: { id: sessionId },
       data,
     });

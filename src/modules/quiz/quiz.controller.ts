@@ -49,6 +49,15 @@ const handleQuizError = (error: unknown) => {
     );
   }
 
+  if (error instanceof Error && (error.name === 'JsonWebTokenError' || error.name === 'TokenExpiredError')) {
+    return NextResponse.json(
+      {
+        message: 'Session expired. Please log in again.',
+      },
+      { status: 401 }
+    );
+  }
+
   return NextResponse.json(
     {
       message: 'Internal server error',
@@ -108,20 +117,45 @@ export class QuizControllers {
   }
 
   static async submit(request: Request) {
-    try {
-      const userId = await getUserIdFromJwt();
-      const body = await parseJsonBody(request);
-      const input = submitQuizSchema.parse({ ...body, userId });
-      const result = await QuizServices.submitQuiz(input);
+  try {
+    const userId = await getUserIdFromJwt();
+    const body = await parseJsonBody(request);
+    const input = submitQuizSchema.parse({ ...body, userId });
+    const result = await QuizServices.submitQuiz(input);
 
-      return NextResponse.json({
-        message: 'Quiz submitted successfully',
-        data: result,
-      });
-    } catch (error) {
-      return handleQuizError(error);
+    return NextResponse.json({
+      message: 'Quiz submitted successfully',
+      data: result,
+    });
+  } catch (error) {
+    // Handle network/connection failures explicitly
+    if (
+      error instanceof TypeError &&
+      error.message.toLowerCase().includes('fetch')
+    ) {
+      return NextResponse.json(
+        {
+          message: 'Network error: Quiz submission failed. Please check your connection and try again.',
+          retryable: true,
+        },
+        { status: 503 }
+      );
     }
+
+    // Handle database/server timeouts
+    if (error instanceof Error && error.message.toLowerCase().includes('timeout')) {
+      return NextResponse.json(
+        {
+          message: 'Request timed out. Your answers are saved — please retry submission.',
+          retryable: true,
+        },
+        { status: 504 }
+      );
+    }
+
+    return handleQuizError(error);
   }
+}
 
   static async getSession(request: Request) {
     try {

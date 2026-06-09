@@ -3,14 +3,14 @@ import React from 'react';
 
 function Button({
   text,
-  action = () => {}, // ✅ empty function, NOT empty string
+  action,
   color = '',
   textCol = '',
   additional = '',
   hover = '',
 }: {
   text: string;
-  action?: () => void; // ✅ function type, NOT any
+  action?: React.MouseEventHandler<HTMLButtonElement>;
   color?: string;
   textCol?: string;
   additional?: string;

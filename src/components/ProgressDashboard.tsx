@@ -39,7 +39,6 @@ function ProgressDashboard({
 }: React.ComponentProps<'div'>) {
   const [data, setData] = React.useState<DashboardData | null>(null);
   const [loading, setLoading] = React.useState(true);
-  const [error, setError] = React.useState<string | null>(null);
 
   React.useEffect(() => {
     async function fetchAnalytics() {
@@ -49,12 +48,30 @@ function ProgressDashboard({
         });
         if (res.ok) {
           const json = await res.json();
-          setData(json);
-        } else {
-          setError('Analytics API not yet available');
+          if (json.success && json.data) {
+            setData({
+              overallPercentage: json.data.accuracy ?? 0,
+              totalQuizzes: json.data.totalAttempts ?? 0,
+              totalTimeSpent: (json.data.totalAttempts ?? 0) * 15, // estimated 15 mins per quiz
+              streakDays: json.data.currentStreak ?? 0,
+              subjects: [],
+              accuracyTrend: [],
+              studyTimeByDay: json.data.dailyActivity
+                ? json.data.dailyActivity.map(
+                    (d: { day: string; date: string; active: boolean }) => ({
+                      label: d.day,
+                      value: d.active ? 15 : 0,
+                      color: d.active ? '#f59e0b' : '#e5e7eb',
+                    })
+                  )
+                : [],
+              achievements: [],
+              recentChapters: [],
+            });
+          }
         }
       } catch {
-        setError('Failed to load analytics');
+        // Fail silently
       } finally {
         setLoading(false);
       }

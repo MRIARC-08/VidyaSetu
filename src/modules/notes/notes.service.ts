@@ -29,6 +29,8 @@ const extractImageText = async (filePath: string): Promise<string> => {
 };
 
 export class NotesServices {
+  // ── Upload (existing) ──
+
   static async uploadNote(
     userId: string,
     title: string,
@@ -64,5 +66,46 @@ export class NotesServices {
     } finally {
       await unlink(tempFilePath).catch(() => {});
     }
+  }
+
+  // ── NEW METHODS ──
+
+  static async getUserNotes(userId: string) {
+    const user = await NotesRepository.findUserById(userId);
+    if (!user) {
+      throw new NotesApiError('User not found', 404);
+    }
+
+    return NotesRepository.findNotesByUser(userId);
+  }
+
+  static async getNoteById(userId: string, noteId: string) {
+    const user = await NotesRepository.findUserById(userId);
+    if (!user) {
+      throw new NotesApiError('User not found', 404);
+    }
+
+    const note = await NotesRepository.findNoteById(noteId, userId);
+    if (!note) {
+      throw new NotesApiError('Note not found', 404);
+    }
+
+    return note;
+  }
+
+  static async deleteNote(userId: string, noteId: string) {
+    const user = await NotesRepository.findUserById(userId);
+    if (!user) {
+      throw new NotesApiError('User not found', 404);
+    }
+
+    const note = await NotesRepository.findNoteById(noteId, userId);
+    if (!note) {
+      throw new NotesApiError('Note not found', 404);
+    }
+
+    await NotesRepository.deleteNote(noteId, userId);
+
+    return { message: 'Note deleted successfully' };
   }
 }
