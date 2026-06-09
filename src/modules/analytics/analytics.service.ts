@@ -152,7 +152,7 @@ export default class AnalyticsService {
     oneYearAgo.setDate(oneYearAgo.getDate() - 364);
     oneYearAgo.setHours(0, 0, 0, 0);
 
-    const sessions = await AnalyticsRepository.getCompletedSessionDates(
+    const { sessions, notes } = await AnalyticsRepository.getActivityOverview(
       userId,
       oneYearAgo
     );
@@ -160,14 +160,39 @@ export default class AnalyticsService {
     const today = new Date();
     today.setHours(0, 0, 0, 0);
 
-    const activityByDate = new Map<string, number>();
+    const activityByDate = new Map<
+      string,
+      { quizzes: number; notes: number; total: number }
+    >();
 
     for (const s of sessions) {
       if (!s.completedAt) continue;
       const d = new Date(s.completedAt);
       d.setHours(0, 0, 0, 0);
       const key = dateToKey(d);
-      activityByDate.set(key, (activityByDate.get(key) ?? 0) + 1);
+      const entry = activityByDate.get(key) || {
+        quizzes: 0,
+        notes: 0,
+        total: 0,
+      };
+      entry.quizzes += 1;
+      entry.total += 1;
+      activityByDate.set(key, entry);
+    }
+
+    for (const n of notes) {
+      if (!n.createdAt) continue;
+      const d = new Date(n.createdAt);
+      d.setHours(0, 0, 0, 0);
+      const key = dateToKey(d);
+      const entry = activityByDate.get(key) || {
+        quizzes: 0,
+        notes: 0,
+        total: 0,
+      };
+      entry.notes += 1;
+      entry.total += 1;
+      activityByDate.set(key, entry);
     }
 
     const activeDates = [...activityByDate.keys()].sort().reverse();
@@ -225,11 +250,13 @@ export default class AnalyticsService {
       const d = new Date(oneYearAgo);
       d.setDate(d.getDate() + i);
       const key = dateToKey(d);
-      const count = activityByDate.get(key) ?? 0;
+      const act = activityByDate.get(key) || { quizzes: 0, notes: 0, total: 0 };
       calendar.push({
         date: key,
-        count,
-        level: countToLevel(count),
+        count: act.total,
+        level: countToLevel(act.total),
+        quizzes: act.quizzes,
+        notes: act.notes,
       });
     }
 

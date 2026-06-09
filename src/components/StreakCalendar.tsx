@@ -16,14 +16,6 @@ const LEVEL_COLORS: Record<number, string> = {
   4: 'bg-emerald-800',
 };
 
-const LEVEL_LABELS: Record<number, string> = {
-  0: 'No activity',
-  1: '1-2 sessions',
-  2: '3-5 sessions',
-  3: '6-10 sessions',
-  4: '10+ sessions',
-};
-
 const DAY_LABELS = ['', 'Mon', '', 'Wed', '', 'Fri', ''];
 
 function buildGrid(calendar: ActivityDay[]) {
@@ -44,7 +36,8 @@ function buildGrid(calendar: ActivityDay[]) {
   const end = new Date(today);
   end.setDate(end.getDate() + (6 - end.getDay()));
 
-  const totalDays = Math.round((end.getTime() - start.getTime()) / 86400000) + 1;
+  const totalDays =
+    Math.round((end.getTime() - start.getTime()) / 86400000) + 1;
   const cols = Math.ceil(totalDays / 7);
 
   const flat: ActivityDay[] = [];
@@ -79,7 +72,9 @@ function buildGrid(calendar: ActivityDay[]) {
     const month = new Date(firstCell.date).getMonth();
     if (month !== lastMonth) {
       monthLabels.push({
-        label: new Date(firstCell.date).toLocaleString('default', { month: 'short' }),
+        label: new Date(firstCell.date).toLocaleString('default', {
+          month: 'short',
+        }),
         index: colIndex,
       });
       lastMonth = month;
@@ -89,12 +84,23 @@ function buildGrid(calendar: ActivityDay[]) {
   return { grid, monthLabels, colsWidth: cols * 16 };
 }
 
-function StreakCalendar({ calendar, className, ...props }: StreakCalendarProps) {
-  const { grid, monthLabels } = React.useMemo(() => buildGrid(calendar), [calendar]);
+function StreakCalendar({
+  calendar,
+  className,
+  ...props
+}: StreakCalendarProps) {
+  const { grid, monthLabels } = React.useMemo(
+    () => buildGrid(calendar),
+    [calendar]
+  );
 
   const gapPx = 3;
   const cellPx = 13;
-  const today = React.useMemo(() => { const d = new Date(); d.setHours(0, 0, 0, 0); return d; }, []);
+  const today = React.useMemo(() => {
+    const d = new Date();
+    d.setHours(0, 0, 0, 0);
+    return d;
+  }, []);
 
   return (
     <div className={cn('flex flex-col', className)} {...props}>
@@ -107,7 +113,8 @@ function StreakCalendar({ calendar, className, ...props }: StreakCalendarProps) 
             <div className="flex" style={{ gap: `${gapPx}px` }}>
               {monthLabels.map((m, i) => {
                 const offset = m.index * (cellPx + gapPx);
-                const prevOffset = i > 0 ? monthLabels[i - 1].index * (cellPx + gapPx) : 0;
+                const prevOffset =
+                  i > 0 ? monthLabels[i - 1].index * (cellPx + gapPx) : 0;
                 const spacing = offset - prevOffset - (cellPx + gapPx);
 
                 return (
@@ -123,7 +130,10 @@ function StreakCalendar({ calendar, className, ...props }: StreakCalendarProps) 
           </div>
 
           <div className="flex" style={{ gap: `${gapPx}px` }}>
-            <div className="flex flex-col shrink-0" style={{ gap: `${gapPx}px`, width: `${26}px` }}>
+            <div
+              className="flex flex-col shrink-0"
+              style={{ gap: `${gapPx}px`, width: `${26}px` }}
+            >
               {DAY_LABELS.map((label, i) => (
                 <div
                   key={i}
@@ -136,7 +146,11 @@ function StreakCalendar({ calendar, className, ...props }: StreakCalendarProps) 
             </div>
 
             {grid.map((col, colIndex) => (
-              <div key={colIndex} className="flex flex-col" style={{ gap: `${gapPx}px` }}>
+              <div
+                key={colIndex}
+                className="flex flex-col"
+                style={{ gap: `${gapPx}px` }}
+              >
                 {col.map((cell, rowIndex) => {
                   const isFuture = cell.date && new Date(cell.date) > today;
 
@@ -150,7 +164,19 @@ function StreakCalendar({ calendar, className, ...props }: StreakCalendarProps) 
                       style={{ width: `${cellPx}px`, height: `${cellPx}px` }}
                       title={
                         cell.date && !isFuture
-                          ? `${cell.date}: ${LEVEL_LABELS[cell.level]}`
+                          ? `${new Date(cell.date).toLocaleDateString(
+                              undefined,
+                              {
+                                weekday: 'long',
+                                year: 'numeric',
+                                month: 'long',
+                                day: 'numeric',
+                              }
+                            )}: ${
+                              cell.count === 0
+                                ? 'No study activity'
+                                : `${cell.count} total activit${cell.count === 1 ? 'y' : 'ies'} (${cell.quizzes || 0} quiz${cell.quizzes === 1 ? '' : 'zes'}, ${cell.notes || 0} note${cell.notes === 1 ? '' : 's'})`
+                            }`
                           : undefined
                       }
                     />
@@ -164,7 +190,7 @@ function StreakCalendar({ calendar, className, ...props }: StreakCalendarProps) 
 
       <div className="flex items-center gap-1 justify-end text-[10px] text-muted-foreground mt-2">
         <span>Less</span>
-          {[0, 1, 2, 3, 4].map((level) => (
+        {[0, 1, 2, 3, 4].map((level) => (
           <div
             key={level}
             className={cn('rounded-sm', LEVEL_COLORS[level])}

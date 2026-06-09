@@ -1,7 +1,7 @@
 import { prisma } from '@/lib/prisma';
 import { AuthProvider } from '@/generated/prisma/enums';
 import crypto from 'crypto';
-import bcrypt from 'bcrypt';
+import { hashPassword } from '@/lib/auth/password';
 
 const REFRESH_TOKEN_TTL_MS = 7 * 24 * 60 * 60 * 1000;
 
@@ -39,7 +39,7 @@ export class AuthRepository {
     email: string;
     password: string;
   }) {
-    const hashedPassword = await bcrypt.hash(data.password, 10);
+    const hashedPassword = await hashPassword(data.password);
 
     return prisma.user.create({
       data: {
