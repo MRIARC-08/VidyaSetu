@@ -296,7 +296,66 @@ pnpm db:seed:all
 pnpm db:studio
 ```
 
+## Role-Based Access Control (RBAC)
+
+VidyaSetu implements a centralized, hierarchical role-based access control system to protect admin and moderator endpoints.
+
+### Role Hierarchy
+
+Roles follow a strict privilege hierarchy:
+
+| Role | Level | Access | Permissions |
+|------|-------|--------|-------------|
+| **USER** | 1 | Public | Read content, take quizzes, view personal analytics |
+| **MODERATOR** | 2 | Restricted | Content management, approve questions, analytics (future) |
+| **ADMIN** | 3 | Restricted | Full system access, user management, all operations |
+
+Higher-level roles inherit permissions of lower levels (e.g., ADMIN can access MODERATOR endpoints).
+
+### Protected Endpoints
+
+**Admin Routes (Require ADMIN role):**
+- `POST /api/admin/seed-ncert` - Seed NCERT curriculum data
+- `POST /api/admin/add-question` - Add questions to the database
+- `GET /api/admin/questions` - List questions with pagination
+- `DELETE /api/admin/questions/:questionId` - Delete questions
+
+### Middleware Usage
+
+All admin routes use centralized role middleware for consistent access control:
+
+```typescript
+// src/app/api/admin/add-question/route.ts
+import { withRoleAuth } from '@/lib/middleware/auth.middleware';
+
+export const POST = withRoleAuth('ADMIN', async (req, auth) => {
+  // Only ADMIN role can access this endpoint
+  return NextResponse.json({ message: 'Question added' });
+});
+```
+
+For detailed usage patterns and implementation guide, see [Middleware README](src/lib/middleware/README.md).
+
+### Implementation Details
+
+- **Role Validation**: `requireRole()` function validates role hierarchy
+- **Error Handling**: Returns HTTP 403 with detailed error messages for insufficient permissions
+- **Centralized Logic**: All role checks handled by `/src/lib/middleware/`
+- **Type-Safe**: Full TypeScript support with AuthContext interface
+
+### For Contributors
+
+When adding new admin features:
+
+1. Use `withRoleAuth('ADMIN')` for new admin endpoints
+2. Add JSDoc comments documenting the required role
+3. Add the endpoint to this README
+4. Test that non-admin users receive 403 responses
+
+See [Middleware README](src/lib/middleware/README.md) for complete documentation.
+
 ## Contributing
+
 
 Before contributing, read:
 

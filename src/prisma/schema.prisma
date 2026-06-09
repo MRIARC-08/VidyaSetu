@@ -14,7 +14,7 @@ model User {
   password         String?
   class            String?        
   image            String?
-  role             UserRole          @default(STUDENT)
+  role             UserRole          @default(USER)
   isEmailVerified  Boolean           @default(false)
   firstTime        Boolean           @default(true)
   emailVerifiedAt  DateTime?
@@ -247,7 +247,8 @@ model UserStats {
 }
 
 enum UserRole {
-  STUDENT
+  USER
+  MODERATOR
   ADMIN
 }
 

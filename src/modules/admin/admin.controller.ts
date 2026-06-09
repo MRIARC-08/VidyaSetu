@@ -1,12 +1,20 @@
 import { NextResponse } from 'next/server';
 import { cookies } from 'next/headers';
 import { ZodError } from 'zod';
+import { requireRole } from '@/lib/middleware/role.middleware';
+import { ForbiddenError } from '@/lib/middleware/auth.middleware';
 
 import { jwtService } from '@/lib/auth/jwt';
 import { AdminServices } from './admin.service';
 import { AdminApiError } from './admin.types';
 import { seedNcertSchema, addQuestionSchema } from './admin.validator';
 
+/**
+ * Centralized admin authentication and authorization
+ * Validates both authentication token and ADMIN role
+ * @throws AdminApiError if authentication fails
+ * @throws ForbiddenError if user doesn't have ADMIN role
+ */
 async function requireAdmin() {
   const cookieStore = await cookies();
   const token = cookieStore.get('access_token');
@@ -22,13 +30,27 @@ async function requireAdmin() {
     throw new AdminApiError('Invalid or expired access token', 401);
   }
 
-  if (payload.role !== 'ADMIN') {
-    throw new AdminApiError('Admin access required', 403);
+  // Centralized role validation - throws ForbiddenError if role insufficient
+  try {
+    requireRole('ADMIN')({
+      userId: payload.sub,
+      role: payload.role,
+      isProfileCompleted: true,
+    });
+  } catch (error) {
+    if (error instanceof ForbiddenError) {
+      throw new AdminApiError(error.message, 403);
+    }
+    throw error;
   }
 
   return { userId: payload.sub, role: payload.role };
 }
 
+/**
+ * Centralized error handler for admin operations
+ * Ensures consistent error responses across all admin endpoints
+ */
 function handleAdminError(error: unknown) {
   if (error instanceof ZodError) {
     return NextResponse.json(
@@ -49,6 +71,9 @@ function handleAdminError(error: unknown) {
   return NextResponse.json({ message }, { status: 500 });
 }
 
+/**
+ * Parse JSON request body with error handling
+ */
 async function parseJson(request: Request) {
   try {
     return await request.json();
@@ -57,7 +82,17 @@ async function parseJson(request: Request) {
   }
 }
 
+/**
+ * Admin Controller
+ * All endpoints require ADMIN role for access
+ * Role hierarchy ensures ADMIN access to all admin operations
+ */
 export class AdminController {
+  /**
+   * Seed NCERT data into the database
+   * @protected Requires ADMIN role
+   * @endpoint POST /api/admin/seed-ncert
+   */
   static async seedNcert(request: Request) {
     try {
       const admin = await requireAdmin();
@@ -78,6 +113,11 @@ export class AdminController {
     }
   }
 
+  /**
+   * Add a new question to the database
+   * @protected Requires ADMIN role
+   * @endpoint POST /api/admin/add-question
+   */
   static async addQuestion(request: Request) {
     try {
       const admin = await requireAdmin();
@@ -98,6 +138,11 @@ export class AdminController {
     }
   }
 
+  /**
+   * List all questions with pagination
+   * @protected Requires ADMIN role
+   * @endpoint GET /api/admin/questions
+   */
   static async listQuestions(request: Request) {
     try {
       await requireAdmin();
@@ -113,6 +158,11 @@ export class AdminController {
     }
   }
 
+  /**
+   * Delete a question by ID
+   * @protected Requires ADMIN role
+   * @endpoint DELETE /api/admin/questions/:questionId
+   */
   static async deleteQuestion(request: Request, questionId: string) {
     try {
       const admin = await requireAdmin();
