@@ -4,6 +4,8 @@ const mocks = vi.hoisted(() => ({
   userStatsFindUnique: vi.fn(),
   userStatsCreate: vi.fn(),
   userStatsUpdate: vi.fn(),
+  chapterProgressFindMany: vi.fn(),
+  getOverview7Days: vi.fn(),
 }));
 
 vi.mock('@/lib/prisma', () => ({
@@ -13,10 +15,73 @@ vi.mock('@/lib/prisma', () => ({
       create: mocks.userStatsCreate,
       update: mocks.userStatsUpdate,
     },
+    chapterProgress: {
+      findMany: mocks.chapterProgressFindMany,
+    },
+  },
+}));
+
+vi.mock('./analytics.repository', () => ({
+  default: {
+    getOverview7Days: mocks.getOverview7Days,
   },
 }));
 
 import AnalyticsService from './analytics.service';
+
+describe('AnalyticsService.analytics', () => {
+  beforeEach(() => {
+    vi.clearAllMocks();
+  });
+
+  it('aggregates subject progress and recent chapter progress', async () => {
+    mocks.getOverview7Days.mockResolvedValue({
+      userStats: {
+        totalQuestions: 20,
+        totalCorrect: 16,
+        currentStreak: 3,
+        longestStreak: 5,
+        lastActivityDate: new Date('2026-06-10T00:00:00.000Z'),
+      },
+      sessionCount: 2,
+      sessions: [],
+    });
+
+    mocks.chapterProgressFindMany.mockResolvedValue([
+      {
+        completion: 100,
+        accuracy: 80,
+        chapter: { title: 'Real Numbers' },
+        subject: { name: 'Maths' },
+      },
+      {
+        completion: 50,
+        accuracy: 60,
+        chapter: { title: 'Polynomials' },
+        subject: { name: 'Maths' },
+      },
+      {
+        completion: 100,
+        accuracy: 90,
+        chapter: { title: 'Life Processes' },
+        subject: { name: 'Science' },
+      },
+    ]);
+
+    const result = await AnalyticsService.analytics('user-123');
+
+    expect(result.subjects).toEqual([
+      { subject: 'Maths', completed: 1, total: 2, percentage: 50 },
+      { subject: 'Science', completed: 1, total: 1, percentage: 100 },
+    ]);
+
+    expect(result.recentChapters).toEqual([
+      { chapter: 'Real Numbers', completed: true, score: 80 },
+      { chapter: 'Polynomials', completed: false, score: 60 },
+      { chapter: 'Life Processes', completed: true, score: 90 },
+    ]);
+  });
+});
 
 describe('AnalyticsService.updateStatsAndStreak', () => {
   beforeEach(() => {
@@ -168,7 +233,7 @@ describe('AnalyticsService.updateStatsAndStreak', () => {
         totalQuestions: 20,
         totalCorrect: 13,
         currentStreak: 1,
-        longestStreak: 5, // Keep longest streak
+        longestStreak: 5,
         lastActivityDate: expect.any(Date),
       }),
     });
