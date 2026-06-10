@@ -73,14 +73,27 @@ describe('SetCookies', () => {
       expect(result).toEqual(mockPayload);
     });
 
-    it('returns undefined when access_token cookie is missing', async () => {
+    it('returns null when access_token cookie is missing', async () => {
       mocks.cookieGet.mockReturnValue(undefined);
 
       const result = await SetCookies.verifyCookies();
 
       expect(mocks.cookieGet).toHaveBeenCalledWith('access_token');
       expect(mocks.verifyAccessToken).not.toHaveBeenCalled();
-      expect(result).toBeUndefined();
+      expect(result).toBeNull();
+    });
+
+    it('returns null when access token verification throws', async () => {
+      mocks.cookieGet.mockReturnValue({ value: 'expired-token' });
+      mocks.verifyAccessToken.mockImplementation(() => {
+        throw new Error('jwt expired');
+      });
+
+      const result = await SetCookies.verifyCookies();
+
+      expect(mocks.cookieGet).toHaveBeenCalledWith('access_token');
+      expect(mocks.verifyAccessToken).toHaveBeenCalledWith('expired-token');
+      expect(result).toBeNull();
     });
   });
 
