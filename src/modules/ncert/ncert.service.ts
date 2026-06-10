@@ -30,6 +30,7 @@ export class NcertServices {
 
     return chapters.map((chapter) => ({
       class: chapter.subject.academicClass.level,
+      subjectId: chapter.subject.id,
       subject: chapter.subject.name,
       chapterId: chapter.id,
       chapter: chapter.title,

@@ -10,6 +10,7 @@ type SearchTopic = {
 
 type SearchResult = {
   class: number;
+  subjectId: string;
   subject: string;
   chapterId: string;
   chapter: string;
@@ -27,7 +28,7 @@ export default function GlobalSearch() {
     () =>
       results.map((result) => ({
         ...result,
-        href: `/ncert/${result.class}`,
+        href: `/ncert/${result.class}/${result.subjectId}/${result.chapterId}`,
       })),
     [results]
   );
@@ -121,6 +122,8 @@ export default function GlobalSearch() {
     }
 
     if (event.key === 'Enter') {
+      event.preventDefault();
+
       const activeResult = flattenedResults[activeIndex];
 
       if (activeResult) {
