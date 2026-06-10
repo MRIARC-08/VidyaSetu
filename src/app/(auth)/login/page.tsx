@@ -54,9 +54,9 @@ export default function LoginPage() {
         body: JSON.stringify({ email, password }),
         credentials: 'include',
       });
-     
+
       const result = await user.json();
-     
+
       if (!user.ok || !result.user) {
         setErrors((prev) => ({
           ...prev,
@@ -355,7 +355,7 @@ export default function LoginPage() {
                   onClick={() => router.push('/register')}
                 >
                   Sign up for free
-                </a>
+                </span>
               </p>
             </div>
           </div>
