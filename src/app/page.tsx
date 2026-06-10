@@ -1,7 +1,6 @@
 'use client';
 import { log } from '@/lib/logger';
 import Button from '@/components/Button';
-import ThemeToggle from '@/components/ThemeToggle';
 import Image from 'next/image';
 import Senv from '../../public/Study environment.png';
 import DV from '../../public/Data visualization.png';
@@ -25,7 +24,7 @@ export default function Home() {
         if (response?.user) {
           setUser(response.user);
         }
-      } catch (error) {
+      } catch {
         log.error('User fetch failed');
       }
     };
@@ -211,8 +210,8 @@ export default function Home() {
             ></Image>
             <p className="text-2xl text-secondary">Smart Remediation</p>
             <p className="md:w-[40%] text-secondary/90">
-              Don't just fail. Learn. Every incorrect answer triggers a targeted
-              revision module from the curator.
+              Don&apos;t just fail. Learn. Every incorrect answer triggers a
+              targeted revision module from the curator.
             </p>
           </div>
         </div>
@@ -234,9 +233,9 @@ export default function Home() {
           </svg>
 
           <p className="text-3xl font-bold text-center md:w-[50%]">
-            "The Curator has transformed my preparation from a chaotic search
-            for resources to a structured, high-authority academic journey. It
-            is focus personified."
+            &quot;The Curator has transformed my preparation from a chaotic
+            search for resources to a structured, high-authority academic
+            journey. It is focus personified.&quot;
           </p>
           <div className="w-full flex flex-col justify-center items-center pt-4 uppercase">
             <p className="font-bold tracking-wider">Dr. Arpit Verma</p>
