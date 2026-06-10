@@ -52,9 +52,12 @@ function ProgressDashboard({
             setData({
               overallPercentage: json.data.accuracy ?? 0,
               totalQuizzes: json.data.totalAttempts ?? 0,
-              totalTimeSpent: (json.data.totalAttempts ?? 0) * 15, // estimated 15 mins per quiz
+              totalTimeSpent: (json.data.totalAttempts ?? 0) * 15,
               streakDays: json.data.currentStreak ?? 0,
-              subjects: [],
+
+              subjects: json.data.subjects ?? [],
+              recentChapters: json.data.recentChapters ?? [],
+
               accuracyTrend: [],
               studyTimeByDay: json.data.dailyActivity
                 ? json.data.dailyActivity.map(
@@ -65,8 +68,8 @@ function ProgressDashboard({
                     })
                   )
                 : [],
+
               achievements: [],
-              recentChapters: [],
             });
           }
         }
