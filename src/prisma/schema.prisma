@@ -5,6 +5,7 @@ generator client {
 
 datasource db {
   provider = "postgresql"
+  url = env("DATABASE_URL")
 }
 
 model User {
@@ -30,12 +31,9 @@ model User {
   quizSessions     QuizSession[]
   refreshTokens    RefreshToken[]
   stats            UserStats?
-<<<<<<< HEAD
   notifications    Notification[]
-=======
   bookmarks        Bookmark[]
 
->>>>>>> 91e2a4afee6d127764cfda49b143ab4a4e5c34c7
   @@index([email])
 }
 model Account {
