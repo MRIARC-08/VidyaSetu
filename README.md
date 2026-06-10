@@ -12,6 +12,24 @@ VidyaSetu helps students move from passive studying to structured practice with 
 - Live app: https://vidya-setu-pi.vercel.app/
 - Codebase docs: https://vidya-setu-pi.vercel.app/docs
 
+
+## Table of Contents
+
+- [GSSoC 2026](#gssoc-2026)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Environment Setup](#environment-setup)
+    - [Database Setup](#database-setup)
+    - [Install And Run](#install-and-run)
+    - [Seed Data](#seed-data)
+    - [CI/CD](#cicd)
+- [Useful Commands](#useful-commands)
+- [Contributing](#contributing)
+- [License](#license)
+
+
 ## GSSoC 2026
 
 This project is part of GirlScript Summer of Code 2026.

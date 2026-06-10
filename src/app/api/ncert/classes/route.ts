@@ -1,29 +1,15 @@
 import { NextResponse } from 'next/server';
-import { ZodError } from 'zod';
 
-import {
-  parseNcertQuery,
-  requireNcertParam,
-} from '@/modules/ncert/ncert.validator';
+import { prisma } from '@/lib/prisma';
 
-export async function GET(req: Request) {
-  try {
-    const query = parseNcertQuery(req.url);
-    requireNcertParam(query, ['classId', 'class']);
-  } catch (error) {
-    if (error instanceof ZodError) {
-      return NextResponse.json(
-        {
-          status: 400,
-          message: 'Invalid NCERT request parameters',
-          errors: error.issues,
-        },
-        { status: 400 }
-      );
-    }
+export async function GET() {
+  const classes = await prisma.academicClass.findMany({
+    orderBy: { level: 'asc' },
+    select: {
+      id: true,
+      level: true,
+    },
+  });
 
-    throw error;
-  }
-
-  return NextResponse.json({ classes: [] });
+  return NextResponse.json({ classes });
 }
