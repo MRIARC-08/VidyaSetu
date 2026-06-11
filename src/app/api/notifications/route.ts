@@ -17,12 +17,11 @@ export async function GET(req: NextRequest) {
 
     // If it's STILL missing, we catch it
     if (!token) {
-      console.log("No token found! Cookies present:", req.cookies.getAll());
       return NextResponse.json({ error: "No access token found" }, { status: 401 });
     }
 
     // 2. Decrypt the token using your secret
-    const decoded = jwt.verify(token, process.env.JWT_SECRET!) as any;
+    const decoded = jwt.verify(token, process.env.JWT_SECRET!) as { id: string, email?: string, sub?: string };
 
     // 3. Find the user (Checking common JWT payload fields)
     let dbUser;

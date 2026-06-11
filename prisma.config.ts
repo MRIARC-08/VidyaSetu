@@ -10,6 +10,6 @@ export default defineConfig({
     seed: 'tsx src/prisma/seed.ts',
   },
   datasource: {
-    url: "postgresql://aditya:yourpassword@localhost:5432/vidyasetu_db?schema=public", // migrations use direct connection
+    url: process.env.DATABASE_URL,
   },
 });
