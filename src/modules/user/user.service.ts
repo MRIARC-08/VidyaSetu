@@ -1,15 +1,9 @@
 import UserRepository from './user.repository';
-
-type UserUpdateData = {
-  email?: string;
-  name?: string;
-  password?: string;
-  class?: string;
-  image?: string;
-  firstTime?: boolean;
-  streakCount?: number;
-  lastActiveDate?: string;
-};
+import {
+  userUpdateSchema,
+  type UserUpdateData,
+  type UserUpdateInput,
+} from './user.validator';
 
 export default class UserServices {
   static async getUser(userId: string) {
@@ -18,22 +12,20 @@ export default class UserServices {
 
   static async updateUser(
     userId: string,
-    payload: UserUpdateData | { data: UserUpdateData }
+    payload: UserUpdateInput | { data: UserUpdateInput }
   ) {
     const rawData = 'data' in payload && payload.data ? payload.data : payload;
     const cleanedData = Object.fromEntries(
       Object.entries(rawData).filter(
         ([, value]) => value !== undefined && value !== null
       )
-    ) as UserUpdateData;
+    );
 
-    if (Object.keys(cleanedData).length === 0) {
-      throw new Error('No valid user fields provided for update.');
-    }
+    const validatedData = userUpdateSchema.parse(cleanedData) as UserUpdateData;
 
     return await UserRepository.updateUser({
       userId,
-      data: cleanedData,
+      data: validatedData,
     });
   }
 }

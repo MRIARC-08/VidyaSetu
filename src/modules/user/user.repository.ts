@@ -1,15 +1,5 @@
 import { prisma } from '@/lib/prisma';
-
-type UserUpdateData = {
-  email?: string;
-  name?: string;
-  password?: string;
-  class?: string;
-  image?: string;
-  firstTime?: boolean;
-  streakCount?: number;
-  lastActiveDate?: string;
-};
+import type { UserUpdateData } from './user.validator';
 
 export default class UserRepository {
   static async getUser(userId: string) {
