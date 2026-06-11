@@ -32,8 +32,10 @@ useEffect(() => {
     fetchUser();
   }, []);
   return (
-    <div className="flex flex-col h-max w-screen bg-background  ">
-      <div className="flex  flex-col min-h-screen  p-4 pl-8 pr-8 ">
+    <div className="flex flex-col h-max w-screen bg-background bg-[radial-gradient(ellipse_at_top_right,_rgba(0,0,0,0.04)_0%,_transparent_60%)] ">
+      <div className="relative flex flex-col min-h-screen p-4 pl-8 pr-8 overflow-hidden">
+          <div className="absolute top-0 right-0 h-[500px] w-[500px] rounded-full blur-3xl pointer-events-none" style={{ background: 'rgba(0,0,0,0.05)' }}></div>
+          <div className="absolute bottom-0 left-0 h-[400px] w-[400px] rounded-full blur-3xl pointer-events-none" style={{ background: 'rgba(0,0,0,0.03)' }}></div>
         <div className="w-full h-10 flex justify-between items-center">
           <p className="text-2xl uppercase tracking-tighter font-bold">
             Vidyasetu
@@ -69,40 +71,53 @@ useEffect(() => {
 
         <div className="pt-20 flex flex-col md:flex-row">
           <div className="flex-1 flex flex-col gap-8">
-            <p className="uppercase text-[12px] tracking-wider] text-secondary ">
+            <p className="uppercase text-[12px] tracking-[0.25em] text-secondary font-medium">
               the digital curator
             </p>
-            <p className="text-[40px] md:text-[80px] font-light md:leading-24">
-              <span className="">Master NCERT with</span> AI-Powered Smart
-              Quizzes
+            <p className="font-light leading-tight tracking-tight">
+              <span className="text-[36px] md:text-[65px]"> 
+                Master NCERT with
+              </span> 
+              <br />
+              <span className="text-[48px] md:text-[84px] font-normal">
+                AI-Powered Smart Quizzes
+              </span>
             </p>
-            <p className="text-secondary w-[80%]">
+            <p className="text-secondary md:w-[70%] leading-8 text-lg">
               Precision-engineered learning for competitive excellence. Our AI
               decodes complex NCERT patterns to curate academic sessions that
               adapt to your cognitive pace.
             </p>
-            <div className="flex gap-4 w-full md:w-[60%] pt-8">
+            <div className="flex gap-6 w-full md:w-[65%] pt-10">
               <Button
                 text="get started"
                 action={() => router.push('/dashboard')}
-                color=""
-                textCol=""
-                additional=""
-                hover=""
+                color="bg-gradient-to-r from-black to-neutral-700"
+                textCol="text-white"
+                additional="tracking-wide rounded-xl shadow-lg border border-white/10"
+                hover="hover:scale-[1.02] hover:shadow-xl transition-all duration-300"
               />
               <Button
                 text="view curriculam"
                 action={() => router.push('/ncert')}
-                color=""
-                textCol=""
-                additional=""
-                hover=""
+                color="bg-white/80"
+                textCol="text-primary"
+                additional="backdrop-blur-md rounded-xl border border-black/5 shadow-lg tracking-wide"
+                hover="hover:bg-white hover:shadow-xl hover:-translate-y-0.5 transition-all duration-300"
               />
             </div>
           </div>
           <div className="flex-1 md:flex md:justify-end relative hidden ">
-            <Image src={Senv} width={540} alt="bg" className="h-full"></Image>
-            <div className=" flex flex-col justify-center items-center uppercase w-32 shadow-xs h-24 bg-white absolute -bottom-8 left-40">
+            <Image src={Senv}
+              width={540}
+              alt="bg"
+              className="h-full object-cover rounded-2xl"></Image>
+            <div
+              className="flex flex-col justify-center items-center uppercase
+              w-36 h-28 absolute -bottom-8 left-40
+              bg-white/70 backdrop-blur-md
+              border border-black/10
+              shadow-lg rounded-xl">
               <div>
                 <p className="font-bold text-xl">98%</p>
                 <p className="text-[12px] text-secondary">Retention Rate</p>
