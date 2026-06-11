@@ -51,7 +51,7 @@ export default function Home() {
               Curriculum
             </Link>
             <Link
-              href="/dashboard/analytics"
+              href="/#features"
               className="text-sm text-gray-500 hover:text-black transition-colors"
             >
               Features
@@ -79,7 +79,7 @@ export default function Home() {
                   Login
                 </Link>
                 <Link
-                  href="/signup"
+                  href="/register"
                   className="text-sm font-medium bg-black text-white px-4 py-2 hover:opacity-80 transition-opacity"
                 >
                   Get Started
@@ -135,7 +135,7 @@ export default function Home() {
         </div>
       </div>
 
-      <div className="flex flex-col min-h-screen p-4 pl-8 pr-8 gap-16">
+      <div id="features" className="flex flex-col min-h-screen p-4 pl-8 pr-8 gap-16">
         <div className="flex pt-10">
           <div className="flex-1 flex flex-col gap-3">
             <p className="text-3xl font-bold">Architectural Learning</p>
