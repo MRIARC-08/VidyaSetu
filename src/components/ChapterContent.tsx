@@ -2,12 +2,11 @@
 
 import clsx from 'clsx';
 import { FileText, NotebookText, Printer, TriangleAlert } from 'lucide-react';
-import MarkdownRenderer from '@/components/MarkdownRenderer';
+import MarkdownViewer from '@/components/MarkdownViewer';
 import ChapterNavigation from './ChapterNavigation';
 import ChapterTOC from './ChapterTOC';
 import ChapterBreadcrumb from './ChapterBreadcrumb';
 import BookmarkButton from '@/components/BookmarkButton';
-import MarkdownViewer from '@/components/MarkdownViewer';
 
 export type ChapterContentData = {
   id?: string;
@@ -162,7 +161,13 @@ export default function ChapterContent({
         </div>
       ) : null}
       <div className="mt-12 border-t pt-8">
-        <h3 className="text-xl font-bold mb-4">
+        <h3
+          className="
+      text-xl
+      font-bold
+      mb-4
+    "
+        >
           Related Topics
         </h3>
 
@@ -170,7 +175,6 @@ export default function ChapterContent({
           <li>Related topics will be available soon.</li>
         </ul>
       </div>
-
       <ChapterNavigation
         previous={
           previousChapter
@@ -189,6 +193,6 @@ export default function ChapterContent({
             : undefined
         }
       />
-    </section> 
+    </section>
   );
 }

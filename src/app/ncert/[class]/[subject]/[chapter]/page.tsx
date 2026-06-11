@@ -113,14 +113,24 @@ export default function NcertChapterPage() {
     window.addEventListener('scroll', handleScroll, { passive: true });
     return () => window.removeEventListener('scroll', handleScroll);
   }, [isLoading, chapter, params.class, params.subject, params.chapter]);
-
-  return (
+    return (
     <>
-      <ReadingProgressBar chapterSlug={params.chapter} isLoading={isLoading} />
+      <ReadingProgressBar
+        chapterSlug={params.chapter}
+        isLoading={isLoading}
+      />
+
       {isLoading ? (
         <ChapterPageSkeleton />
       ) : (
-        <ChapterContent chapter={chapter} error={error} />
+        <ChapterContent
+          chapter={chapter}
+          error={error}
+          classId={params.class}
+          subjectId={params.subject}
+          previousChapter={previousChapter}
+          nextChapter={nextChapter}
+        />
       )}
     </>
   );
