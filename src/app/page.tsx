@@ -2,7 +2,7 @@
 import { log } from '@/lib/logger';
 import Button from '@/components/Button';
 import Image from 'next/image';
-import Senv from '../../public/Study environment.png';
+import QuizHero from '../../public/quiz-hero.svg';
 import DV from '../../public/Data visualization.png';
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
@@ -88,7 +88,7 @@ export default function Home() {
         </div>
         {/* ✅ NAVBAR END */}
 
-        <div className="flex flex-col gap-10 pt-16 md:pt-20 lg:flex-row lg:items-center lg:gap-14 xl:pt-24">
+        <div className="flex flex-col gap-10 pt-8 md:pt-10 lg:flex-row lg:items-center lg:gap-14 xl:pt-12">
           <div className="flex-1 flex flex-col gap-7 lg:gap-9">
             <p className="text-[11px] uppercase tracking-[0.22em] text-secondary/90">
               Built for Classes 9-12
@@ -120,20 +120,14 @@ export default function Home() {
               />
             </div>
           </div>
-          <div className="relative hidden flex-1 lg:flex lg:justify-end">
-            <Image
-              src={Senv}
-              width={620}
-              alt="Study environment"
-              className="h-auto w-[520px] object-contain grayscale-[8%] xl:w-[620px]"
-            ></Image>
-            <div className="absolute -bottom-5 left-14 flex h-24 w-40 flex-col items-center justify-center bg-white shadow-xs xl:left-24">
-              <div>
-                <p className="text-xl font-bold">98%</p>
-                <p className="text-[12px] text-secondary">Weekly goal completion</p>
-              </div>
-            </div>
-          </div>
+          <div className="relative hidden flex-1 lg:flex lg:justify-end lg:items-center">
+  <Image
+    src={QuizHero}
+    width={540}
+    alt="AI-generated quiz interface preview"
+    className="h-auto w-full max-w-[480px]"
+  />
+</div>
         </div>
       </div>
 

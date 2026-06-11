@@ -1,0 +1,60 @@
+<svg width="600" height="680" viewBox="0 0 600 680" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background accent shape -->
+  <rect x="120" y="20" width="420" height="600" rx="24" fill="#0D9488" opacity="0.08"/>
+
+  <!-- Browser / app window frame -->
+  <rect x="60" y="50" width="460" height="540" rx="18" fill="#161616"/>
+
+  <!-- Window dots -->
+  <circle cx="92" cy="78" r="6" fill="#4A4A4A"/>
+  <circle cx="114" cy="78" r="6" fill="#4A4A4A"/>
+  <circle cx="136" cy="78" r="6" fill="#4A4A4A"/>
+
+  <!-- Inner screen -->
+  <rect x="80" y="100" width="420" height="468" rx="10" fill="#FAFAF7"/>
+
+  <!-- AI Generated badge -->
+  <rect x="104" y="128" width="148" height="34" rx="17" fill="#0D9488"/>
+  <path d="M122 145 L126 137 L130 145 L138 147 L130 149 L126 157 L122 149 L114 147 Z" fill="#FAFAF7"/>
+  <text x="143" y="150" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#FAFAF7" letter-spacing="0.5">AI GENERATED</text>
+
+  <!-- Progress bar -->
+  <rect x="104" y="180" width="392" height="6" rx="3" fill="#E5E5E0"/>
+  <rect x="104" y="180" width="245" height="6" rx="3" fill="#0D9488"/>
+  <text x="104" y="206" font-family="Arial, sans-serif" font-size="13" fill="#8A8A85" font-weight="600">QUESTION 5 OF 8</text>
+
+  <!-- Question text -->
+  <text x="104" y="248" font-family="Georgia, serif" font-size="24" font-weight="600" fill="#161616">Which gas do plants release</text>
+  <text x="104" y="280" font-family="Georgia, serif" font-size="24" font-weight="600" fill="#161616">during photosynthesis?</text>
+
+  <!-- Option 1 -->
+  <rect x="104" y="316" width="392" height="56" rx="10" fill="#FFFFFF" stroke="#E5E5E0" stroke-width="1.5"/>
+  <circle cx="132" cy="344" r="10" fill="none" stroke="#C7C7C2" stroke-width="2"/>
+  <text x="156" y="350" font-family="Arial, sans-serif" font-size="16" fill="#3A3A38">Carbon Dioxide</text>
+
+  <!-- Option 2 - selected/correct -->
+  <rect x="104" y="384" width="392" height="56" rx="10" fill="#0D9488" fill-opacity="0.10" stroke="#0D9488" stroke-width="2"/>
+  <circle cx="132" cy="412" r="10" fill="#0D9488"/>
+  <path d="M127 412 L131 416 L138 408" stroke="#FAFAF7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <text x="156" y="418" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#0D9488">Oxygen</text>
+
+  <!-- Option 3 -->
+  <rect x="104" y="452" width="392" height="56" rx="10" fill="#FFFFFF" stroke="#E5E5E0" stroke-width="1.5"/>
+  <circle cx="132" cy="480" r="10" fill="none" stroke="#C7C7C2" stroke-width="2"/>
+  <text x="156" y="486" font-family="Arial, sans-serif" font-size="16" fill="#3A3A38">Nitrogen</text>
+
+  <!-- Option 4 -->
+  <rect x="104" y="520" width="392" height="56" rx="10" fill="#FFFFFF" stroke="#E5E5E0" stroke-width="1.5"/>
+  <circle cx="132" cy="548" r="10" fill="none" stroke="#C7C7C2" stroke-width="2"/>
+  <text x="156" y="554" font-family="Arial, sans-serif" font-size="16" fill="#3A3A38">Hydrogen</text>
+
+  <!-- Floating stat card (bottom-left) -->
+  <rect x="20" y="540" width="180" height="100" rx="12" fill="#FFFFFF" stroke="#E5E5E0" stroke-width="1"/>
+  <rect x="20" y="540" width="180" height="100" rx="12" fill="#161616" fill-opacity="0.04"/>
+  <text x="44" y="580" font-family="Georgia, serif" font-size="32" font-weight="700" fill="#161616">92%</text>
+  <text x="44" y="606" font-family="Arial, sans-serif" font-size="12" fill="#8A8A85" letter-spacing="0.5">QUIZ ACCURACY</text>
+
+  <!-- Floating sparkle badge (top-right) -->
+  <circle cx="540" cy="90" r="34" fill="#161616"/>
+  <path d="M540 70 L546 84 L560 90 L546 96 L540 110 L534 96 L520 90 L534 84 Z" fill="#0D9488"/>
+</svg>
