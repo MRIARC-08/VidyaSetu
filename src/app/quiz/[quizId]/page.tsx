@@ -43,32 +43,8 @@ export default function QuizPage({ params }: { params: Promise<{ quizId: string 
         const startData = await startRes.json();
 
         if (!startRes.ok || !startData.data) {
-          // Attempt to load mock questions if database/AI is not seeded
-          setQuestions([
-            {
-              id: 'q1',
-              questionText: 'What is the primary formulation of Newton\'s Second Law of Motion?',
-              options: [
-                { id: 'o1', label: 'A', value: 'F = ma' },
-                { id: 'o2', label: 'B', value: 'F = m/a' },
-                { id: 'o3', label: 'C', value: 'F = mv' },
-                { id: 'o4', label: 'D', value: 'F = dp/dt' }
-              ]
-            },
-            {
-              id: 'q2',
-              questionText: 'Which quantum mechanical principle asserts that position and momentum cannot be simultaneously measured to arbitrary precision?',
-              options: [
-                { id: 'o5', label: 'A', value: 'Heisenberg Uncertainty Principle' },
-                { id: 'o6', label: 'B', value: 'Pauli Exclusion Principle' },
-                { id: 'o7', label: 'C', value: 'Schrodinger Wave Equation' },
-                { id: 'o8', label: 'D', value: 'Planck\'s Law' }
-              ]
-            }
-          ]);
-          setSessionId('mock-session-id');
-          return;
-        }
+  throw new Error('Failed to start quiz session');
+}
 
         const session = startData.data.session;
         setSessionId(session.id);
@@ -84,31 +60,7 @@ export default function QuizPage({ params }: { params: Promise<{ quizId: string 
         }
       } catch (err: any) {
         console.error('Quiz loading error:', err);
-        showError('Failed to load quiz. Using demo version.');
-        // Set mock fallback
-        setQuestions([
-          {
-            id: 'q1',
-            questionText: 'What is the primary formulation of Newton\'s Second Law of Motion?',
-            options: [
-              { id: 'o1', label: 'A', value: 'F = ma' },
-              { id: 'o2', label: 'B', value: 'F = m/a' },
-              { id: 'o3', label: 'C', value: 'F = mv' },
-              { id: 'o4', label: 'D', value: 'F = dp/dt' }
-            ]
-          },
-          {
-            id: 'q2',
-            questionText: 'Which quantum mechanical principle asserts that position and momentum cannot be simultaneously measured to arbitrary precision?',
-            options: [
-              { id: 'o5', label: 'A', value: 'Heisenberg Uncertainty Principle' },
-              { id: 'o6', label: 'B', value: 'Pauli Exclusion Principle' },
-              { id: 'o7', label: 'C', value: 'Schrodinger Wave Equation' },
-              { id: 'o8', label: 'D', value: 'Planck\'s Law' }
-            ]
-          }
-        ]);
-        setSessionId('mock-session-id');
+        showError('Failed to load quiz.');       
       } finally {
         setLoading(false);
       }
