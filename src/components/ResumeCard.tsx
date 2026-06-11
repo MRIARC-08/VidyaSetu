@@ -2,6 +2,7 @@
 
 import { useEffect, useState, useRef } from 'react';
 import { useRouter } from 'next/navigation';
+import Link from 'next/link';
 
 interface ReadingProgress {
   chapterName: string;
@@ -39,9 +40,23 @@ export default function ResumeCard() {
   if (!progress) return null;
 
   return (
-    <div
-      onClick={() => router.push(progress.chapterUrl)}
-      className="bg-white p-6 shadow-2xs w-full cursor-pointer hover:shadow-md transition-all duration-300 border-l-4 border-primary"
+    <Link href={progress.chapterUrl} aria-label={`Continue reading ${progress.chapterName}`}
+      className="
+    block
+    bg-white
+    p-6
+    shadow-2xs
+    w-full
+    hover:shadow-md
+    transition-all
+    duration-300
+    border-l-4
+    border-primary
+    focus-visible:outline
+    focus-visible:outline-2
+    focus-visible:outline-primary
+    focus-visible:outline-offset-2
+  "
     >
       <div className="flex flex-col gap-3">
         <div className="flex justify-between items-start">
@@ -89,7 +104,7 @@ export default function ResumeCard() {
           <span>Last read: {new Date(progress.lastVisited).toLocaleDateString()}</span>
         </div>
       </div>
-    </div>
+    </Link>
   );
 }
 
