@@ -2,6 +2,10 @@
 
 import clsx from 'clsx';
 import { type ReactNode } from 'react';
+import {
+  collectMarkdownHeadings,
+  slugifyMarkdownHeading,
+} from './markdown-headings';
 
 type MarkdownRendererProps = {
   content: string;
@@ -9,7 +13,7 @@ type MarkdownRendererProps = {
 };
 
 type MarkdownBlock =
-  | { type: 'heading'; level: 1 | 2 | 3; text: string }
+  | { type: 'heading'; level: 1 | 2 | 3; text: string; id: string }
   | { type: 'paragraph'; text: string }
   | { type: 'list'; ordered: boolean; items: string[] }
   | { type: 'blockquote'; text: string }
@@ -54,8 +58,10 @@ const isBlockStart = (line: string) =>
 
 const parseMarkdown = (content: string): MarkdownBlock[] => {
   const lines = content.replace(/\r\n/g, '\n').split('\n');
+  const headingEntries = collectMarkdownHeadings(content);
   const blocks: MarkdownBlock[] = [];
   let index = 0;
+  let headingIndex = 0;
 
   while (index < lines.length) {
     const line = lines[index];
@@ -105,11 +111,15 @@ const parseMarkdown = (content: string): MarkdownBlock[] => {
 
     const heading = trimmed.match(/^(#{1,3})\s+(.+)$/);
     if (heading) {
+      const headingEntry = headingEntries[headingIndex];
+
       blocks.push({
         type: 'heading',
         level: heading[1].length as 1 | 2 | 3,
         text: heading[2],
+        id: headingEntry?.id ?? slugifyMarkdownHeading(heading[2]),
       });
+      headingIndex += 1;
       index += 1;
       continue;
     }
@@ -272,6 +282,7 @@ const renderBlock = (block: MarkdownBlock, index: number) => {
       if (block.level === 1) {
         return (
           <h1
+            id={block.id}
             className="mt-2 border-b border-primary/20 pb-4 text-3xl font-extrabold leading-tight text-primary md:text-4xl"
             key={index}
           >
@@ -283,6 +294,7 @@ const renderBlock = (block: MarkdownBlock, index: number) => {
       if (block.level === 2) {
         return (
           <h2
+            id={block.id}
             className="mt-10 text-2xl font-bold leading-tight text-primary"
             key={index}
           >
@@ -293,6 +305,7 @@ const renderBlock = (block: MarkdownBlock, index: number) => {
 
       return (
         <h3
+          id={block.id}
           className="mt-8 text-xl font-semibold leading-snug text-primary"
           key={index}
         >

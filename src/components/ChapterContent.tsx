@@ -3,6 +3,7 @@
 import clsx from 'clsx';
 import { FileText, NotebookText, TriangleAlert } from 'lucide-react';
 import MarkdownRenderer from '@/components/MarkdownRenderer';
+import TableOfContents from '@/components/TableOfContents';
 
 export type ChapterContentData = {
   title: string;
@@ -99,6 +100,8 @@ export default function ChapterContent({
           )}
         </div>
       </header>
+
+      <TableOfContents content={chapter.content ?? ''} />
 
       {hasMarkdown ? (
         <MarkdownRenderer content={chapter.content ?? ''} />
