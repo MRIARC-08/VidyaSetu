@@ -65,6 +65,7 @@ export class NotesServices {
         title,
         content: null,
         fileUrl: uploadResult.secure_url ?? uploadResult.url ?? null,
+        cloudinaryPublicId: uploadResult.public_id,
         extractedText,
       });
 
@@ -109,6 +110,10 @@ export class NotesServices {
     if (!note) {
       throw new NotesApiError('Note not found', 404);
     }
+    if (note.cloudinaryPublicId) {
+      await cloudinary.uploader.destroy(note.cloudinaryPublicId);
+    }
+    
 
     await NotesRepository.deleteNote(noteId, userId);
 

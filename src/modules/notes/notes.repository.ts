@@ -13,6 +13,7 @@ export class NotesRepository {
     title: string;
     content: string | null;
     fileUrl: string | null;
+    cloudinaryPublicId: string | null;
     extractedText: string | null;
   }) {
     return prisma.note.create({
@@ -22,6 +23,7 @@ export class NotesRepository {
         title: true,
         content: true,
         fileUrl: true,
+        cloudinaryPublicId: true,
         extractedText: true,
         createdAt: true,
       },
@@ -37,6 +39,7 @@ export class NotesRepository {
         title: true,
         content: true,
         fileUrl: true,
+        cloudinaryPublicId: true,
         extractedText: true,
         createdAt: true,
         updatedAt: true,
@@ -53,6 +56,7 @@ export class NotesRepository {
         title: true,
         content: true,
         fileUrl: true,
+        cloudinaryPublicId: true,
         extractedText: true,
         createdAt: true,
         updatedAt: true,

@@ -220,6 +220,7 @@ model Note {
   title         String
   content       String?
   fileUrl       String?
+  cloudinaryPublicId String?
   extractedText String?
   version       Int       @default(1)
   createdAt     DateTime  @default(now())
