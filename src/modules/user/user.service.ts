@@ -16,11 +16,16 @@ export default class UserServices {
     return await UserRepository.getUser(userId);
   }
 
+  static async getUserStats(userId: string) {
+    return await UserRepository.getUserStats(userId);
+  }
+
   static async updateUser(
     userId: string,
     payload: UserUpdateData | { data: UserUpdateData }
   ) {
     const rawData = 'data' in payload && payload.data ? payload.data : payload;
+
     const cleanedData = Object.fromEntries(
       Object.entries(rawData).filter(
         ([, value]) => value !== undefined && value !== null

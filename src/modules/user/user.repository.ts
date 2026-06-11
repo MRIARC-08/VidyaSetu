@@ -37,4 +37,12 @@ export default class UserRepository {
       data,
     });
   }
+
+  static async getUserStats(userId: string) {
+    return await prisma.userStats.findUnique({
+      where: {
+        userId,
+      },
+    });
+  }
 }

@@ -10,8 +10,10 @@ const handleError = (error: unknown) => {
       { status: 400 }
     );
   }
+
   const message =
     error instanceof Error ? error.message : 'Internal server error';
+
   return NextResponse.json({ message }, { status: 500 });
 };
 
@@ -19,17 +21,47 @@ class UserController {
   static getUser = withAuth(async (_req: Request, auth: AuthContext) => {
     try {
       const user = await UserServices.getUser(auth.userId);
-      return NextResponse.json({ user }, { status: 200 });
+
+      return NextResponse.json(
+        {
+          user,
+        },
+        { status: 200 }
+      );
     } catch (error) {
       return handleError(error);
     }
   });
 
+  static getUserStats = withAuth(
+    async (_req: Request, auth: AuthContext) => {
+      try {
+        const stats = await UserServices.getUserStats(auth.userId);
+
+        return NextResponse.json(
+          {
+            stats,
+          },
+          { status: 200 }
+        );
+      } catch (error) {
+        return handleError(error);
+      }
+    }
+  );
+
   static updateUser = withAuth(async (req: Request, auth: AuthContext) => {
     try {
       const body = await req.json();
+
       const res = await UserServices.updateUser(auth.userId, body);
-      return NextResponse.json({ message: res }, { status: 200 });
+
+      return NextResponse.json(
+        {
+          message: res,
+        },
+        { status: 200 }
+      );
     } catch (error) {
       return handleError(error);
     }
