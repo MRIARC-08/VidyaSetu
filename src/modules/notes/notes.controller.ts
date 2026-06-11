@@ -1,6 +1,7 @@
 import { NextResponse } from 'next/server';
 import { ZodError } from 'zod';
 
+import { SetCookies } from '@/lib/auth/cookies';
 import { NotesServices } from './notes.service';
 import { NotesApiError } from './notes.types';
 import { uploadSchema } from './notes.validator';
@@ -38,25 +39,25 @@ const handleNotesError = (error: unknown) => {
 };
 
 export class NotesControllers {
-
   static async upload(request: Request) {
     try {
-      const formData = await parseFormData(request);
+      const auth = await SetCookies.verifyCookies();
 
-      const userId = formData.get('userId') as string | null;
-      const title = formData.get('title') as string | null;
-      const file = formData.get('file') as File | null;
-
-      if (!userId) {
+      if (!auth) {
         return NextResponse.json(
-          { message: 'userId is required' },
-          { status: 400 }
+          { message: 'Authentication required' },
+          { status: 401 }
         );
       }
 
+      const formData = await parseFormData(request);
+
+      const title = formData.get('title') as string | null;
+      const file = formData.get('file') as File | null;
+
       uploadSchema.parse({ title, file });
 
-      const result = await NotesServices.uploadNote(userId, title!, file!);
+      const result = await NotesServices.uploadNote(auth.sub, title!, file!);
 
       return NextResponse.json(
         { message: 'Note uploaded successfully', data: result },
@@ -66,7 +67,6 @@ export class NotesControllers {
       return handleNotesError(error);
     }
   }
-
 
   static async list(request: Request) {
     try {
@@ -88,7 +88,6 @@ export class NotesControllers {
     }
   }
 
-
   static async getById(request: Request, noteId: string) {
     try {
       const { searchParams } = new URL(request.url);
@@ -108,7 +107,6 @@ export class NotesControllers {
       return handleNotesError(error);
     }
   }
-
 
   static async delete(request: Request, noteId: string) {
     try {

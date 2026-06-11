@@ -32,14 +32,14 @@ useEffect(() => {
     fetchUser();
   }, []);
   return (
-    <div className="flex flex-col h-max w-screen bg-background bg-[radial-gradient(ellipse_at_top_right,_rgba(0,0,0,0.04)_0%,_transparent_60%)] ">
-      <div className="relative flex flex-col min-h-screen p-4 pl-8 pr-8 overflow-hidden">
-          <div className="absolute top-0 right-0 h-[500px] w-[500px] rounded-full blur-3xl pointer-events-none" style={{ background: 'rgba(0,0,0,0.05)' }}></div>
-          <div className="absolute bottom-0 left-0 h-[400px] w-[400px] rounded-full blur-3xl pointer-events-none" style={{ background: 'rgba(0,0,0,0.03)' }}></div>
-        <div className="w-full h-10 flex justify-between items-center">
-          <p className="text-2xl uppercase tracking-tighter font-bold">
+<div className="flex flex-col h-max w-screen bg-background bg-[radial-gradient(ellipse_at_top_right,_rgba(0,0,0,0.04)_0%,_transparent_60%)]">
+      <div className="flex min-h-screen flex-col px-6 pt-6 pb-12 md:px-10 xl:mx-auto xl:w-full xl:max-w-[1440px] xl:px-16 relative overflow-hidden">
+        <div className="absolute top-0 right-0 h-[500px] w-[500px] rounded-full blur-3xl pointer-events-none" style={{ background: 'rgba(0,0,0,0.05)' }}></div>
+        <div className="absolute bottom-0 left-0 h-[400px] w-[400px] rounded-full blur-3xl pointer-events-none" style={{ background: 'rgba(0,0,0,0.03)' }}></div>
+        <div className="flex h-12 w-full items-center justify-between">
+          <Link href="/" className="text-2xl uppercase tracking-tighter font-bold">
             Vidyasetu
-          </p>
+          </Link>
           <div className="flex items-center gap-4">
             <svg
               width="15"
@@ -69,28 +69,22 @@ useEffect(() => {
           </div>
         </div>
 
-        <div className="pt-20 flex flex-col md:flex-row">
-          <div className="flex-1 flex flex-col gap-8">
-            <p className="uppercase text-[12px] tracking-[0.25em] text-secondary font-medium">
-              the digital curator
+<div className="flex flex-col gap-10 pt-16 md:pt-20 lg:flex-row lg:items-center lg:gap-14 xl:pt-24">
+          <div className="flex-1 flex flex-col gap-7 lg:gap-9">
+            <p className="text-[11px] uppercase tracking-[0.22em] text-secondary/90 inline-block px-3 py-1 rounded-full bg-white/55 backdrop-blur-sm border border-black/10">
+              Built for Classes 9-12
             </p>
-            <p className="font-light leading-tight tracking-tight">
-              <span className="text-[36px] md:text-[65px]"> 
-                Master NCERT with
-              </span> 
-              <br />
-              <span className="text-[48px] md:text-[84px] font-normal">
-                AI-Powered Smart Quizzes
-              </span>
+            <p className="max-w-[18ch] text-[40px] font-light leading-[1.03] sm:text-[52px] lg:text-[62px] xl:text-[74px] 2xl:text-[82px]">
+              Study NCERT better, one focused session at a time.
             </p>
-            <p className="text-secondary md:w-[70%] leading-8 text-lg">
-              Precision-engineered learning for competitive excellence. Our AI
-              decodes complex NCERT patterns to curate academic sessions that
-              adapt to your cognitive pace.
+            <p className="max-w-[56ch] text-secondary md:text-[17px] md:leading-8">
+              Start a quiz from any chapter, spot weak topics quickly, and
+              revise with clear feedback. No noise, just steady progress you
+              can track.
             </p>
-            <div className="flex gap-6 w-full md:w-[65%] pt-10">
+            <div className="flex w-full flex-col gap-4 pt-6 sm:flex-row lg:w-[70%] xl:w-[62%]">
               <Button
-                text="get started"
+                text="start now"
                 action={() => router.push('/dashboard')}
                 color="bg-gradient-to-r from-black to-neutral-700"
                 textCol="text-white"
@@ -98,7 +92,7 @@ useEffect(() => {
                 hover="hover:scale-[1.02] hover:shadow-xl transition-all duration-300"
               />
               <Button
-                text="view curriculam"
+                text="browse ncert"
                 action={() => router.push('/ncert')}
                 color="bg-white/80"
                 textCol="text-primary"
@@ -107,20 +101,17 @@ useEffect(() => {
               />
             </div>
           </div>
-          <div className="flex-1 md:flex md:justify-end relative hidden ">
-            <Image src={Senv}
-              width={540}
-              alt="bg"
-              className="h-full object-cover rounded-2xl"></Image>
-            <div
-              className="flex flex-col justify-center items-center uppercase
-              w-36 h-28 absolute -bottom-8 left-40
-              bg-white/70 backdrop-blur-md
-              border border-black/10
-              shadow-lg rounded-xl">
+<div className="relative hidden flex-1 lg:flex lg:justify-end">
+            <Image
+              src={Senv}
+              width={620}
+              alt="Study environment"
+              className="h-auto w-[520px] object-contain grayscale-[8%] rounded-2xl xl:w-[620px]"
+            ></Image>
+            <div className="absolute -bottom-5 left-14 flex h-24 w-40 flex-col items-center justify-center bg-white/65 backdrop-blur-sm border border-white/80 rounded-md xl:left-24">
               <div>
-                <p className="font-bold text-xl">98%</p>
-                <p className="text-[12px] text-secondary">Retention Rate</p>
+                <p className="text-xl font-bold">98%</p>
+                <p className="text-[12px] text-secondary">Weekly goal completion</p>
               </div>
             </div>
           </div>

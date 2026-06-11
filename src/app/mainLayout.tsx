@@ -101,13 +101,16 @@ export default function MainLayout({ children }: PropsWithChildren) {
                 key={val.name}
                 href={val.link}
                 aria-label={val.name}
-                className={`flex justify-center items-center cursor-pointer p-4 transition-all text-black ${
+                className={`group relative flex justify-center items-center cursor-pointer p-4 transition-all text-black ${
                   activeLink === val.link
                     ? 'bg-white border-r border-r-black border-r-4'
                     : ''
                 }`}
               >
                 {val.svg}
+<span className="absolute left-full ml-2 px-2 py-1 text-xs font-medium text-white bg-black rounded opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap z-50">
+  {val.name}
+</span>
               </Link>
             );
           })}
