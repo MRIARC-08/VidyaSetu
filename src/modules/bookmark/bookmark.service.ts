@@ -31,6 +31,19 @@ export class BookmarkService {
     if (!chapterExists) {
       throw new Error('Chapter not found');
     }
+    const existingBookmark = await prisma.bookmark.findFirst({
+      where: {
+        userId,
+        chapterId,
+      },
+      include: {
+        chapter: true,
+      },
+    });
+
+    if (existingBookmark) {
+      return existingBookmark;
+    }
 
     return prisma.bookmark.create({
       data: {
