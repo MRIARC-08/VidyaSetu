@@ -9,13 +9,10 @@ import type {
 } from './quiz.types';
 import { QuizApiError } from './quiz.types';
 import AnalyticsService from '../analytics/analytics.service';
+import { calculatePercentage } from '@/lib/utils/score';
 
 const calculateAccuracy = (correctCount: number, totalQuestions: number) => {
-  if (totalQuestions === 0) {
-    return 0;
-  }
-
-  return Number(((correctCount / totalQuestions) * 100).toFixed(2));
+  return calculatePercentage(correctCount, totalQuestions);
 };
 
 function shuffleArray<T>(array: T[]): T[] {

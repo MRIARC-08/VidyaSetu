@@ -9,6 +9,7 @@ import type { WeakTopicsResponse } from './analytics.types';
 import { WeakTopicAnalyticsError } from './analytics.types';
 import type { z } from 'zod';
 import type { weakTopicsQuerySchema } from './analytics.validator';
+import { calculatePercentage } from '@/lib/utils/score';
 
 type WeakTopicsParams = z.infer<typeof weakTopicsQuerySchema>;
 
@@ -19,14 +20,9 @@ export default class AnalyticsService {
 
     const totalAttempts = sessionCount;
 
-    // Derived overall accuracy from totalCorrect / totalQuestions with guard
     const accuracy =
       userStats && userStats.totalQuestions > 0
-        ? Number(
-            ((userStats.totalCorrect / userStats.totalQuestions) * 100).toFixed(
-              2
-            )
-          )
+        ? calculatePercentage(userStats.totalCorrect, userStats.totalQuestions)
         : 0;
 
     const currentStreak = userStats?.currentStreak ?? 0;
@@ -336,7 +332,7 @@ export default class AnalyticsService {
       .map((t) => ({
         topicName: t.topicName,
         topicId: t.topicId,
-        accuracy: Math.round((t.correctAnswers / t.attempts) * 1000) / 10,
+        accuracy: calculatePercentage(t.correctAnswers, t.attempts),
         attempts: t.attempts,
         correctAnswers: Math.round(t.correctAnswers),
       }))
