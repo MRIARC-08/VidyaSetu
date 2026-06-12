@@ -36,31 +36,30 @@ export default function Home() {
     <div className="flex flex-col h-max w-screen bg-background">
       <div className="flex min-h-screen flex-col px-6 pt-6 pb-12 md:px-10 xl:mx-auto xl:w-full xl:max-w-[1440px] xl:px-16">
         <div className="flex h-12 w-full items-center justify-between">
-          <p className="text-2xl uppercase tracking-tighter font-bold">
+          <Link href="/" className="text-2xl uppercase tracking-tighter font-bold">
             Vidyasetu
-          </p>
-
-          {/* Primary Nav Links - desktop only */}
-          <div className="hidden md:flex items-center gap-8">
-            <Link
-              href="/ncert"
-              className="text-sm text-gray-500 hover:text-black transition-colors"
-            >
-              Curriculum
-            </Link>
-            <Link
-              href="/#features"
-              className="text-sm text-gray-500 hover:text-black transition-colors"
-            >
-              Features
-            </Link>
-            <Link
-              href="/about"
-              className="text-sm text-gray-500 hover:text-black transition-colors"
-            >
-              About
-            </Link>
-          </div>
+          </Link>
+          <div className="flex items-center gap-4">
+  
+  <Link
+    href="/curriculum"
+    className="text-sm text-gray-500 hover:text-black transition-colors"
+  >
+    Curriculum
+  </Link>
+  <Link
+    href="/#features"
+    className="text-sm text-gray-500 hover:text-black transition-colors"
+  >
+    Features
+  </Link>
+  <Link
+    href="/about"
+    className="text-sm text-gray-500 hover:text-black transition-colors"
+  >
+    About
+  </Link>
+</div>
 
           {/* Actions */}
           <div className="flex items-center gap-4">

@@ -1,4 +1,4 @@
-'use client';
+﻿'use client';
 
 import authFetch from '@/lib/auth/authFetch';
 import { useRouter } from 'next/navigation';
@@ -9,6 +9,7 @@ import BookmarkedChapters from '@/components/BookmarkedChapters';
 import { DashboardStats } from './components/DashboardStats';
 import { PerformanceChart } from './components/PerformanceChart';
 import { ActivityFeed } from './components/ActivityFeed';
+import ResumeCard from '@/components/ResumeCard';
 
 interface UserProps {
   name: string;
@@ -249,7 +250,9 @@ export default function DashboardPage() {
         </div>
       </div>
 
-      {/* streak tracking */}
+      {/* resume reading */}
+        <ResumeCard />
+        {/* streak tracking */}
 
       <div className="flex flex-col gap-4 w-full">
         <StreakDashboard />
@@ -272,3 +275,4 @@ export default function DashboardPage() {
     </div>
   );
 }
+
