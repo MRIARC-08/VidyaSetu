@@ -46,7 +46,17 @@ export class NcertController {
       const query = parseNcertQuery(req.url);
       const subjectId = requireNcertParam(query, ['subjectId', 'subject']);
 
-      const res = await NcertServices.getChapters(subjectId);
+      const DEFAULT_LIMIT = 20;
+      const MAX_LIMIT = 50;
+      const DEFAULT_OFFSET = 0;
+
+      const rawLimit = query.limit ? parseInt(String(query.limit), 10) : DEFAULT_LIMIT;
+      let limit = isNaN(rawLimit) || rawLimit <= 0 ? DEFAULT_LIMIT : Math.min(rawLimit, MAX_LIMIT);
+
+      const rawOffset = query.offset ? parseInt(String(query.offset), 10) : DEFAULT_OFFSET;
+      let offset = isNaN(rawOffset) || rawOffset < 0 ? DEFAULT_OFFSET : rawOffset;
+
+      const res = await NcertServices.getChapters(subjectId, offset, limit);
 
       return NextResponse.json({ status: 200, message: res });
     } catch (error) {

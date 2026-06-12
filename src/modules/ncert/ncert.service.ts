@@ -11,8 +11,8 @@ export class NcertServices {
     return await NcertRepository.getSubjects(academicClass?.id);
   }
 
-  static async getChapters(subjectId: string) {
-    return await NcertRepository.getChapters(subjectId);
+  static async getChapters(subjectId: string, skip?: number, take?: number) {
+    return await NcertRepository.getChapters(subjectId, skip, take);
   }
 
   static async getChapter(chapterId: string) {
