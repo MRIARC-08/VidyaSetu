@@ -346,6 +346,17 @@ Maintainers can use these labels to make contribution discovery easier:
 - `bug`
 - `enhancement`
 
+## Contributors
+
+Thanks to everyone who helps improve VidyaSetu.
+
+<a href="https://github.com/MRIARC-08/VidyaSetu/graphs/contributors">
+  <img
+    src="https://contrib.rocks/image?repo=MRIARC-08/VidyaSetu"
+    alt="VidyaSetu contributors"
+  />
+</a>
+
 ## License
 
 MIT

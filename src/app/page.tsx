@@ -36,15 +36,16 @@ export default function Home() {
     <div className="flex flex-col h-max w-screen bg-background">
       <div className="flex min-h-screen flex-col px-6 pt-6 pb-12 md:px-10 xl:mx-auto xl:w-full xl:max-w-[1440px] xl:px-16">
         <div className="flex h-12 w-full items-center justify-between">
-          <p className="text-2xl uppercase tracking-tighter font-bold">
+          <Link href="/" className="text-2xl uppercase tracking-tighter font-bold">
             Vidyasetu
-          </p>
-
-          {/* Primary Nav Links - desktop only */}
-          <div className="hidden md:flex items-center gap-8">
-            <Link
-              href="/ncert"
-              className="text-sm text-gray-500 hover:text-black transition-colors"
+          </Link>
+          <div className="flex items-center gap-4">
+            <svg
+              width="15"
+              height="20"
+              viewBox="0 0 15 20"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
             >
               Curriculum
             </Link>
@@ -88,7 +89,7 @@ export default function Home() {
         </div>
         {/* ✅ NAVBAR END */}
 
-        <div className="flex flex-col gap-10 pt-8 md:pt-10 lg:flex-row lg:items-center lg:gap-14 xl:pt-12">
+        <div className="flex flex-col gap-10 pt-16 md:pt-20 lg:flex-row lg:items-center lg:gap-14 xl:pt-24">
           <div className="flex-1 flex flex-col gap-7 lg:gap-9">
             <p className="text-[11px] uppercase tracking-[0.22em] text-secondary/90">
               Built for Classes 9-12

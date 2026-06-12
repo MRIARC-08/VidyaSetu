@@ -6,6 +6,7 @@ import { randomUUID } from 'node:crypto';
 import { PDFParse } from 'pdf-parse';
 import { createWorker } from 'tesseract.js';
 
+import cloudinary from '@/lib/cloudinary';
 import { NotesRepository } from './notes.repository';
 import { NotesApiError } from './notes.types';
 import type { UploadResult } from './notes.types';
@@ -54,11 +55,16 @@ export class NotesServices {
             ? await extractImageText(tempFilePath)
             : null;
 
+      const uploadResult = await cloudinary.uploader.upload(tempFilePath, {
+        folder: 'notes',
+        resource_type: 'auto',
+      });
+
       const note = await NotesRepository.createNote({
         userId,
         title,
         content: null,
-        fileUrl: null,
+        fileUrl: uploadResult.secure_url ?? uploadResult.url ?? null,
         extractedText,
       });
 
