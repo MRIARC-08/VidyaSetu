@@ -1,5 +1,6 @@
 import { NextResponse } from 'next/server';
 import { ZodError } from 'zod';
+import { SetCookies } from '@/lib/auth/cookies';
 
 import { NcertServices } from './ncert.service';
 import { parseNcertQuery, requireNcertParam } from './ncert.validator';
@@ -68,6 +69,28 @@ export class NcertController {
   }
   static async updateChapterContent(req: Request) {
   try {
+    const user = await SetCookies.verifyCookies();
+
+    if (!user) {
+      return NextResponse.json(
+        {
+          status: 401,
+          message: 'Authentication required',
+        },
+        { status: 401 }
+      );
+    }
+
+    if (user.role !== 'ADMIN') {
+      return NextResponse.json(
+        {
+          status: 403,
+          message: 'Admin access required',
+        },
+        { status: 403 }
+      );
+    }
+
     const body = await req.json();
 
     const res =
