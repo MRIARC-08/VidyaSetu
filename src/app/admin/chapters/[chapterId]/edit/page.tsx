@@ -42,7 +42,7 @@ Start writing your chapter content here...
         console.log(data);
         if (data.message) {
           setContent(data.message.content || '');
-          setContentSource(data.message.contentSource || 'Database');
+          setOriginalContent(data.message.content || '');
           setContentSource(
             data.message.contentSource || 'Database'
           );
