@@ -1,6 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
+import { buildHeadingIds } from '@/lib/slugger';
 
 type TocItem = {
   id: string;
@@ -12,30 +13,9 @@ type Props = {
   content: string;
 };
 
-const createHeadingId = (text: string) =>
-  text
-    .toLowerCase()
-    .replace(/[^\w\s-]/g, '')
-    .trim()
-    .replace(/\s+/g, '-');
-
 export default function ChapterTOC({ content }: Props) {
   const [activeId, setActiveId] = useState('');
-
-  const headings: TocItem[] = content
-    .split('\n')
-    .map((line) => {
-      const match = line.trim().match(/^(#{1,3})\s+(.+)$/);
-
-      if (!match) return null;
-
-      return {
-        level: match[1].length,
-        text: match[2].trim(),
-        id: createHeadingId(match[2]),
-      };
-    })
-    .filter((item): item is TocItem => item !== null);
+  const headings = buildHeadingIds(content) as TocItem[];
   useEffect(() => {
     const headingElements =
       document.querySelectorAll(
@@ -66,8 +46,8 @@ export default function ChapterTOC({ content }: Props) {
 
     return () =>
       observer.disconnect();
-  }, []);
-  
+  }, [content]);
+
   if (!headings.length) return null;
 
   return (

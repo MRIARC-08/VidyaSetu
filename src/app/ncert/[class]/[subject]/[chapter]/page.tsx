@@ -62,7 +62,8 @@ export default function NcertChapterPage() {
           method: 'GET',
         },
       });
-
+      setPreviousChapter(undefined);
+      setNextChapter(undefined);
       const chapters = chaptersRes.message.chapters;
 
       const currentIndex = chapters.findIndex(

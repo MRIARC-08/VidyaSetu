@@ -134,12 +134,6 @@ export default function ChapterContent({
             Print
           </button>
 
-          <button
-            onClick={() => alert('Quiz feature coming soon')}
-            className="inline-flex items-center gap-2 bg-accent px-3 py-2 text-sm font-semibold"
-          >
-            Start Quiz
-          </button>
         </div>
       </header>
 
@@ -160,21 +154,7 @@ export default function ChapterContent({
           </p>
         </div>
       ) : null}
-      <div className="mt-12 border-t pt-8">
-        <h3
-          className="
-      text-xl
-      font-bold
-      mb-4
-    "
-        >
-          Related Topics
-        </h3>
-
-        <ul className="space-y-2 text-primary/70">
-          <li>Related topics will be available soon.</li>
-        </ul>
-      </div>
+      
       <ChapterNavigation
         previous={
           previousChapter
