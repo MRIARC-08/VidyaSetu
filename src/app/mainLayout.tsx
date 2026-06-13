@@ -92,7 +92,7 @@ export default function MainLayout({ children }: PropsWithChildren) {
     .sort((a, b) => b.link.length - a.link.length)[0]?.link;
 
   return (
-    <div className="w-screen flex">
+    <div className="w-full flex overflow-x-hidden">
       <div className="bg-accent/40 w-15 min-h-screen flex flex-col pt-8 gap-4">
         <div className="fixed bg-accent/40 w-15">
           {elements.map((val) => {
