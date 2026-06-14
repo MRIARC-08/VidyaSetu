@@ -1,5 +1,5 @@
 import { NextResponse } from 'next/server';
-import { prisma } from '../../../../lib/prisma'; 
+import { prisma } from '@/lib/prisma';
 import { withAuth, type AuthContext } from '@/lib/middleware/auth.middleware';
 
 export const PATCH = withAuth(async (req: Request, auth: AuthContext) => {
@@ -17,7 +17,7 @@ export const PATCH = withAuth(async (req: Request, auth: AuthContext) => {
 
     const updatedNotification = await prisma.notification.update({
       where: { id: id },
-      data: { isRead: true },
+      data: { read: true },
     });
 
     return NextResponse.json(updatedNotification);
