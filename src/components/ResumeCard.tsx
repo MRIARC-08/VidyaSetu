@@ -1,4 +1,4 @@
-﻿'use client';
+'use client';
 
 import { useEffect, useState, useRef } from 'react';
 import { useRouter } from 'next/navigation';
@@ -14,7 +14,9 @@ interface ReadingProgress {
 
 const STORAGE_KEY = 'vidyasetu_last_read';
 
-function getProgress(): ReadingProgress | null {
+// FIX: Export getProgress so page.tsx can read existing progress
+// before deciding whether to overwrite it
+export function getReadingProgress(): ReadingProgress | null {
   if (typeof window === 'undefined') return null;
   try {
     const data = localStorage.getItem(STORAGE_KEY);
@@ -22,6 +24,11 @@ function getProgress(): ReadingProgress | null {
   } catch {
     return null;
   }
+}
+
+// Keep internal alias for use inside this file
+function getProgress(): ReadingProgress | null {
+  return getReadingProgress();
 }
 
 export default function ResumeCard() {
