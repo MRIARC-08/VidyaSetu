@@ -8,11 +8,11 @@ export const PATCH = withAuth(async (req: Request, auth: AuthContext) => {
     const id = req.url.split('/notifications/')[1].split('/')[0];
 
     const existingNotif = await prisma.notification.findUnique({
-      where: { id: id }
+      where: { id: id },
     });
 
     if (!existingNotif || existingNotif.userId !== auth.userId) {
-      return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+      return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
     }
 
     const updatedNotification = await prisma.notification.update({
@@ -22,6 +22,9 @@ export const PATCH = withAuth(async (req: Request, auth: AuthContext) => {
 
     return NextResponse.json(updatedNotification);
   } catch (error) {
-    return NextResponse.json({ error: "Internal Server Error" }, { status: 500 });
+    return NextResponse.json(
+      { error: 'Internal Server Error' },
+      { status: 500 }
+    );
   }
 });

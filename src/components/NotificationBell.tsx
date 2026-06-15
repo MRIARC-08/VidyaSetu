@@ -1,4 +1,4 @@
-"use client";
+'use client';
 
 import { useState, useEffect, useRef } from 'react';
 import { Bell } from 'lucide-react';
@@ -16,7 +16,7 @@ export default function NotificationBell() {
   const [isOpen, setIsOpen] = useState(false);
   const dropdownRef = useRef<HTMLDivElement>(null);
 
-  const unreadCount = notifications.filter(n => !n.read).length;
+  const unreadCount = notifications.filter((n) => !n.read).length;
 
   // Fetch notifications on mount
   useEffect(() => {
@@ -28,7 +28,7 @@ export default function NotificationBell() {
           setNotifications(data);
         }
       } catch (error) {
-        console.error("Failed to fetch notifications", error);
+        console.error('Failed to fetch notifications', error);
       }
     };
 
@@ -38,19 +38,22 @@ export default function NotificationBell() {
   // Close dropdown when clicking outside
   useEffect(() => {
     const handleClickOutside = (event: MouseEvent) => {
-      if (dropdownRef.current && !dropdownRef.current.contains(event.target as Node)) {
+      if (
+        dropdownRef.current &&
+        !dropdownRef.current.contains(event.target as Node)
+      ) {
         setIsOpen(false);
       }
     };
-    document.addEventListener("mousedown", handleClickOutside);
-    return () => document.removeEventListener("mousedown", handleClickOutside);
+    document.addEventListener('mousedown', handleClickOutside);
+    return () => document.removeEventListener('mousedown', handleClickOutside);
   }, []);
 
   // Handle marking a notification as read
   const markAsRead = async (id: string) => {
     // Optimistic UI update
-    setNotifications(prev => 
-      prev.map(n => n.id === id ? { ...n, read: true } : n)
+    setNotifications((prev) =>
+      prev.map((n) => (n.id === id ? { ...n, read: true } : n))
     );
 
     try {
@@ -58,14 +61,14 @@ export default function NotificationBell() {
         method: 'PATCH',
       });
     } catch (error) {
-      console.error("Failed to mark as read", error);
+      console.error('Failed to mark as read', error);
     }
   };
 
   return (
     <div className="relative" ref={dropdownRef}>
       {/* Bell Icon & Badge */}
-      <button 
+      <button
         onClick={() => setIsOpen(!isOpen)}
         className="relative p-2 rounded-full hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors"
       >
@@ -90,12 +93,16 @@ export default function NotificationBell() {
               </div>
             ) : (
               notifications.map((notification) => (
-                <div 
-                  key={notification.id} 
-                  onClick={() => !notification.read && markAsRead(notification.id)}
+                <div
+                  key={notification.id}
+                  onClick={() =>
+                    !notification.read && markAsRead(notification.id)
+                  }
                   className={`p-4 border-b border-gray-100 dark:border-gray-800 text-sm cursor-pointer hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors ${!notification.read ? 'bg-blue-50/50 dark:bg-blue-900/10' : ''}`}
                 >
-                  <p className={`text-gray-800 dark:text-gray-200 ${!notification.read ? 'font-medium' : ''}`}>
+                  <p
+                    className={`text-gray-800 dark:text-gray-200 ${!notification.read ? 'font-medium' : ''}`}
+                  >
                     {notification.message}
                   </p>
                   <span className="text-xs text-gray-500 mt-1 block">
