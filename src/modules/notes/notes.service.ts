@@ -14,6 +14,21 @@ import type { UploadResult } from './notes.types';
 const isImage = (mimeType: string) =>
   ['image/png', 'image/jpeg', 'image/webp'].includes(mimeType);
 
+const getFileExtension = (mimeType: string): string => {
+  switch (mimeType) {
+    case 'application/pdf':
+      return '.pdf';
+    case 'image/png':
+      return '.png';
+    case 'image/jpeg':
+      return '.jpg';
+    case 'image/webp':
+      return '.webp';
+    default:
+      return '.bin';
+  }
+};
+
 const extractPdfText = async (filePath: string): Promise<string> => {
   const buffer = readFileSync(filePath);
   const pdf = new PDFParse({ data: buffer });
@@ -42,8 +57,10 @@ export class NotesServices {
       throw new NotesApiError('User not found', 404);
     }
 
-    const ext = file.name.split('.').pop() || 'bin';
-    const tempFilePath = join(tmpdir(), `${randomUUID()}.${ext}`);
+    const tempFilePath = join(
+      tmpdir(),
+      `${randomUUID()}${getFileExtension(file.type)}`
+    );
     const buffer = Buffer.from(await file.arrayBuffer());
     await writeFile(tempFilePath, buffer);
 

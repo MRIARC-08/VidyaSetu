@@ -23,6 +23,7 @@ VidyaSetu helps students move from passive studying to structured practice with 
     - [Environment Setup](#environment-setup)
     - [Database Setup](#database-setup)
     - [Install And Run](#install-and-run)
+    - [Python AI Service](#python-ai-service)
     - [Seed Data](#seed-data)
     - [CI/CD](#cicd)
 - [Useful Commands](#useful-commands)
@@ -63,6 +64,9 @@ Contributors can start by checking issues labeled:
 - PostgreSQL
 - NextAuth
 - Cloudinary
+- FastAPI
+- Sentence Transformers
+- LangChain with Groq
 
 ## Getting Started
 
@@ -71,6 +75,7 @@ Contributors can start by checking issues labeled:
 - Node.js
 - pnpm
 - PostgreSQL database
+- Python 3.11 to 3.13 when working on the AI service
 
 You can use either a hosted PostgreSQL database or a local PostgreSQL database through Docker.
 
@@ -241,6 +246,30 @@ pnpm dev
 
 Open `http://localhost:3000`.
 
+## Python AI Service
+
+VidyaSetu keeps model inference, embeddings, retrieval, and provider
+integrations in a separate internal FastAPI service under `services/ai`.
+The browser must communicate with the Next.js application, not directly with
+the AI service.
+
+For local setup:
+
+```bash
+cd services/ai
+cp .env.example .env
+python3.13 -m venv .venv
+source .venv/bin/activate
+python -m pip install -e ".[dev,models]"
+uvicorn vidyasetu_ai.main:app --reload --port 8001
+```
+
+Open `http://localhost:8001/docs` for the internal OpenAPI documentation.
+
+See [Python AI Backend Architecture](docs/AI_BACKEND_ARCHITECTURE.md) for
+service boundaries, security rules, BYOK handling, data flows, and contributor
+guidance.
+
 ## Seed Data
 
 The seed script populates your own local or hosted contributor database with NCERT academic classes, subjects, chapters, and direct PDF links.
@@ -313,6 +342,9 @@ pnpm db:seed:content
 pnpm db:seed:all
 pnpm db:studio
 ```
+
+AI service commands are documented in
+[`services/ai/README.md`](services/ai/README.md).
 
 ## Contributing
 

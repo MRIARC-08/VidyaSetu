@@ -39,10 +39,10 @@ vi.mock('node:fs', () => ({
 }));
 
 vi.mock('pdf-parse', () => ({
-  PDFParse: vi.fn().mockImplementation(() => ({
-    getText: mocks.pdfGetText,
-    destroy: mocks.pdfDestroy,
-  })),
+  PDFParse: class {
+    getText = mocks.pdfGetText;
+    destroy = mocks.pdfDestroy;
+  },
 }));
 
 vi.mock('tesseract.js', () => ({
@@ -97,6 +97,7 @@ describe('NotesServices', () => {
 
     expect(mocks.findUserById).toHaveBeenCalledWith('user-1');
     expect(mocks.writeFile).toHaveBeenCalledTimes(1);
+    expect(mocks.writeFile.mock.calls[0]?.[0]).toMatch(/\.png$/);
     expect(mocks.upload).toHaveBeenCalledWith(expect.any(String), {
       folder: 'notes',
       resource_type: 'auto',
@@ -112,6 +113,17 @@ describe('NotesServices', () => {
     expect(result.fileUrl).toBe(
       'https://res.cloudinary.com/demo/raw/upload/v1/notes/file.png'
     );
+  });
+
+  it('uses the validated MIME type for the temporary file extension', async () => {
+    const file = new File([new Uint8Array([1, 2, 3])], 'misleading.png', {
+      type: 'application/pdf',
+    });
+
+    await NotesServices.uploadNote('user-1', 'Lesson note', file);
+
+    expect(mocks.writeFile.mock.calls[0]?.[0]).toMatch(/\.pdf$/);
+    expect(mocks.pdfGetText).toHaveBeenCalledTimes(1);
   });
 
   it('still cleans up the temp file when extraction fails', async () => {

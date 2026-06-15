@@ -13,26 +13,26 @@ export default function Home() {
   const router = useRouter();
   const [user, setUser] = useState<{ name: string } | null>(null);
 
-useEffect(() => {
-  const fetchUser = async () => {
-    try {
-      const response = await authFetch({
-        url: '/api/user/getUser', 
-        options: { method: 'GET' },
-      });
+  useEffect(() => {
+    const fetchUser = async () => {
+      try {
+        const response = await authFetch({
+          url: '/api/user/getUser',
+          options: { method: 'GET' },
+        });
 
-      if (response?.user) {
-        setUser(response.user);
+        if (response?.user) {
+          setUser(response.user);
+        }
+      } catch (error) {
+        log.error('User fetch failed');
       }
-    } catch (error) {
-      log.error('User fetch failed');
-    }
-  };
+    };
 
     fetchUser();
   }, []);
   return (
-    <div className="flex flex-col h-max w-screen bg-background">
+    <div className="flex flex-col h-max w-full bg-background ">
       <div className="flex min-h-screen flex-col px-6 pt-6 pb-12 md:px-10 xl:mx-auto xl:w-full xl:max-w-[1440px] xl:px-16">
         <div className="flex h-12 w-full items-center justify-between">
           <Link href="/" className="text-2xl uppercase tracking-tighter font-bold">
@@ -119,8 +119,8 @@ useEffect(() => {
       <div className="flex  flex-col min-h-screen  p-4 pl-8 pr-8 gap-16 ">
         <div className="flex pt-10   ">
           <div className="flex-1 flex flex-col gap-3">
-            <p className="text-3xl font-bold">Architectural Learning</p>
-            <p className="w-[60%]">
+            <p className="text-3xl font-bold ">Architectural Learning</p>
+            <p className="w-[60%] text-secondary/90">
               We replace distractions with focus. Our features are designed to
               serve academic clarity and deep concentration.
             </p>
@@ -132,7 +132,7 @@ useEffect(() => {
         </div>
 
         <div className="flex justify-between gap-8 flex-col md:flex-row">
-          <div className=" bg-white flex-1 p-12 flex flex-wrap gap-4  flex-col shadow-xs">
+          <div className=" glass-tile flex-1 p-12 flex flex-wrap gap-4 flex-col">
             <svg
               width="27"
               height="29"
@@ -145,8 +145,8 @@ useEffect(() => {
                 fill="#1A1C1C"
               />
             </svg>
-            <p className="font-bold text-xl ">Adaptive Cognition</p>
-            <p className="md:w-[42%] text-secondary ">
+            <p className="font-bold text-xl">Adaptive Cognition</p>
+            <p className="md:w-[42%] text-secondary">
               Quizzes that evolve. The AI identifies your conceptual blind spots
               in NCERT texts and re- calibrates difficulty in real-time.
             </p>
@@ -159,7 +159,7 @@ useEffect(() => {
               </p>
             </div>
           </div>
-          <div className="md:w-[28%] text-white p-12 flex gap-4  flex-col shadow-xs bg-primary">
+          <div className="glass-tile-dark md:w-[28%] text-white p-12 flex gap-4 flex-col">
             <svg
               width="26"
               height="26"
@@ -185,7 +185,10 @@ useEffect(() => {
         </div>
 
         <div className="flex justify-between gap-12 flex-wrap">
-          <div className="md:w-[28%] w-full  p-12 flex gap-4 bg-white h-max   flex-col shadow-xs  border-t-primary border-t-4">
+          <div
+            className="glass-tile md:w-[28%] w-full p-12 flex gap-4 h-max flex-col"
+            style={{ borderTop: '3px solid rgba(255,255,255,0.5)' }}
+          >
             <svg
               width="22"
               height="22"
@@ -199,20 +202,20 @@ useEffect(() => {
               />
             </svg>
 
-            <p className="font-bold text-xl">Analytical Depth</p>
-            <p className="text-secondary  ">
+            <p className="font-bold text-xl ">Analytical Depth</p>
+            <p className="text-secondary">
               Detailed metrics that go beyond scores. Track conceptual velocity,
               precision trends, and syllabus mastery.
             </p>
           </div>
 
-          <div className=" flex-1 p-12 flex gap-4  relative  flex-col justify-center">
+          <div className="glass-tile flex-1 p-12 flex gap-4 relative flex-col justify-center overflow-hidden">
             <Image
               src={DV}
               alt="data"
               className="absolute inset-0  h-full w-full "
             ></Image>
-            <p className="text-2xl text-secondary">Smart Remediation</p>
+            <p className="text-2xl font-bold">Smart Remediation</p>
             <p className="md:w-[40%] text-secondary/90">
               Don't just fail. Learn. Every incorrect answer triggers a targeted
               revision module from the curator.
@@ -232,7 +235,7 @@ useEffect(() => {
           >
             <path
               d="M3.4 24L8 16V16V16C5.8 16 3.91667 15.2167 2.35 13.65C0.783333 12.0833 0 10.2 0 8C0 5.8 0.783333 3.91667 2.35 2.35C3.91667 0.783333 5.8 0 8 0C10.2 0 12.0833 0.783333 13.65 2.35C15.2167 3.91667 16 5.8 16 8C16 8.76667 15.9083 9.475 15.725 10.125C15.5417 10.775 15.2667 11.4 14.9 12L8 24H3.4V24M21.4 24L26 16V16V16C23.8 16 21.9167 15.2167 20.35 13.65C18.7833 12.0833 18 10.2 18 8C18 5.8 18.7833 3.91667 20.35 2.35C21.9167 0.783333 23.8 0 26 0C28.2 0 30.0833 0.783333 31.65 2.35C33.2167 3.91667 34 5.8 34 8C34 8.76667 33.9083 9.475 33.725 10.125C33.5417 10.775 33.2667 11.4 32.9 12L26 24H21.4V24"
-              fill="black"
+              fill="white"
             />
           </svg>
 
