@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Animated Course Progress Tracker - EaseMotion CSS</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="tracker-container">
+    
+    <!-- Course Header section -->
+    <header class="tracker-header">
+      <div class="tracker-header__main">
+        <span class="tracker-header__badge">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="width: 14px; height: 14px;"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path></svg>
+          Advanced Development
+        </span>
+        <h1 class="tracker-header__title">Mastering CSS Motion & Animations</h1>
+        <p class="tracker-header__desc">
+          Dive deep into advanced transition timing, physics-based keyframe animations, responsive micro-interactions, and hardware-accelerated rendering techniques.
+        </p>
+        <div class="tracker-header__meta">
+          <div class="tracker-header__meta-item">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path></svg>
+            <span>3 Modules</span>
+          </div>
+          <div class="tracker-header__meta-item">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+            <span>10 Lessons</span>
+          </div>
+          <div class="tracker-header__meta-item">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
+            <span>5 Badges to Earn</span>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Call to Action button -->
+      <button class="btn-primary">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="width: 18px; height: 18px;"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
+        Resume Learning
+      </button>
+    </header>
+
+    <!-- Main Grid Layout -->
+    <div class="tracker-grid">
+      
+      <!-- Main Content (Left Column) -->
+      <main class="tracker-main">
+        
+        <!-- Overall Progress Card -->
+        <section class="tracker-card progress-card">
+          <div class="progress-stats">
+            <div>
+              <span class="progress-stats__label">Course Completion</span>
+              <div class="progress-stats__val">60%</div>
+            </div>
+            <div class="progress-stats__info">
+              <span class="progress-stats__label">Lessons Completed</span>
+              <div class="progress-stats__counter">6 of 10</div>
+            </div>
+          </div>
+          <!-- Progress bar with animated stripe & custom width variables -->
+          <div class="progress-bar-container">
+            <div class="progress-bar-fill progress-60" style="--progress-target: 60%;"></div>
+          </div>
+        </section>
+
+        <!-- Course Modules List -->
+        <section class="module-list">
+          
+          <!-- Module 1 (Completed) -->
+          <details class="tracker-module" open>
+            <summary class="tracker-module__summary">
+              <div class="tracker-module__summary-main">
+                <div class="tracker-module__icon-box">01</div>
+                <div class="tracker-module__info">
+                  <span class="tracker-module__tag">Getting Started</span>
+                  <h3 class="tracker-module__title">Foundations of Transition Timing</h3>
+                </div>
+              </div>
+              <div class="tracker-module__stats">
+                <span class="tracker-module__progress-text tracker-module__progress-text--completed">
+                  3/3 Completed
+                </span>
+                <svg class="tracker-module__chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
+              </div>
+            </summary>
+            
+            <div class="tracker-module__content">
+              <!-- Lesson 1 (Completed) -->
+              <div class="lesson-item lesson-item--completed">
+                <div class="lesson-item__left">
+                  <span class="lesson-item__status">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                  </span>
+                  <div class="lesson-item__details">
+                    <span class="lesson-item__title">Introduction to cubic-bezier curves</span>
+                    <div class="lesson-item__meta">
+                      <span class="lesson-item__meta-item">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polygon points="10 8 16 12 10 16 10 8"></polygon></svg>
+                        Video (12:40)
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div class="lesson-item__right">
+                  <span class="lesson-item__duration">Completed</span>
+                </div>
+              </div>
+              
+              <!-- Lesson 2 (Completed) -->
+              <div class="lesson-item lesson-item--completed">
+                <div class="lesson-item__left">
+                  <span class="lesson-item__status">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                  </span>
+                  <div class="lesson-item__details">
+                    <span class="lesson-item__title">Hardware Acceleration & composite layers</span>
+                    <div class="lesson-item__meta">
+                      <span class="lesson-item__meta-item">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polygon points="10 8 16 12 10 16 10 8"></polygon></svg>
+                        Video (18:15)
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div class="lesson-item__right">
+                  <span class="lesson-item__duration">Completed</span>
+                </div>
+              </div>
+
+              <!-- Lesson 3 (Completed) -->
+              <div class="lesson-item lesson-item--completed">
+                <div class="lesson-item__left">
+                  <span class="lesson-item__status">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                  </span>
+                  <div class="lesson-item__details">
+                    <span class="lesson-item__title">Quiz: Transition Mechanics & GPU Rendering</span>
+                    <div class="lesson-item__meta">
+                      <span class="lesson-item__meta-item">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>
+                        Quiz (15 questions)
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div class="lesson-item__right">
+                  <span class="lesson-item__duration">Completed</span>
+                </div>
+              </div>
+            </div>
+          </details>
+
+          <!-- Module 2 (In Progress) -->
+          <details class="tracker-module" open>
+            <summary class="tracker-module__summary">
+              <div class="tracker-module__summary-main">
+                <div class="tracker-module__icon-box">02</div>
+                <div class="tracker-module__info">
+                  <span class="tracker-module__tag">Intermediate</span>
+                  <h3 class="tracker-module__title">Complex Animation Timelines & Keyframes</h3>
+                </div>
+              </div>
+              <div class="tracker-module__stats">
+                <span class="tracker-module__progress-text">
+                  3/4 Completed
+                </span>
+                <svg class="tracker-module__chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
+              </div>
+            </summary>
+            
+            <div class="tracker-module__content">
+              <!-- Lesson 1 (Completed) -->
+              <div class="lesson-item lesson-item--completed">
+                <div class="lesson-item__left">
+                  <span class="lesson-item__status">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                  </span>
+                  <div class="lesson-item__details">
+                    <span class="lesson-item__title">Understanding animation-fill-mode and delay</span>
+                    <div class="lesson-item__meta">
+                      <span class="lesson-item__meta-item">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polygon points="10 8 16 12 10 16 10 8"></polygon></svg>
+                        Video (22:10)
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div class="lesson-item__right">
+                  <span class="lesson-item__duration">Completed</span>
+                </div>
+              </div>
+              
+              <!-- Lesson 2 (Completed) -->
+              <div class="lesson-item lesson-item--completed">
+                <div class="lesson-item__left">
+                  <span class="lesson-item__status">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                  </span>
+                  <div class="lesson-item__details">
+                    <span class="lesson-item__title">Creating modular, stackable keyframe animations</span>
+                    <div class="lesson-item__meta">
+                      <span class="lesson-item__meta-item">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polygon points="10 8 16 12 10 16 10 8"></polygon></svg>
+                        Video (14:50)
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div class="lesson-item__right">
+                  <span class="lesson-item__duration">Completed</span>
+                </div>
+              </div>
+
+              <!-- Lesson 3 (Completed) -->
+              <div class="lesson-item lesson-item--completed">
+                <div class="lesson-item__left">
+                  <span class="lesson-item__status">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                  </span>
+                  <div class="lesson-item__details">
+                    <span class="lesson-item__title">Hands-on: Building custom hover micro-interactions</span>
+                    <div class="lesson-item__meta">
+                      <span class="lesson-item__meta-item">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="16 18 22 12 16 6"></polyline><polyline points="8 6 2 12 8 18"></polyline></svg>
+                        Coding Lab
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div class="lesson-item__right">
+                  <span class="lesson-item__duration">Completed</span>
+                </div>
+              </div>
+
+              <!-- Lesson 4 (Current/Active) -->
+              <div class="lesson-item lesson-item--current">
+                <div class="lesson-item__left">
+                  <span class="lesson-item__status">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
+                  </span>
+                  <div class="lesson-item__details">
+                    <span class="lesson-item__title">Advanced: Staggering elements with CSS Custom Properties</span>
+                    <div class="lesson-item__meta">
+                      <span class="lesson-item__meta-item">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polygon points="10 8 16 12 10 16 10 8"></polygon></svg>
+                        Video (28:45)
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div class="lesson-item__right">
+                  <button class="lesson-item__btn">Resume</button>
+                  <span class="lesson-item__duration">28:45</span>
+                </div>
+              </div>
+            </div>
+          </details>
+
+          <!-- Module 3 (Locked) -->
+          <details class="tracker-module">
+            <summary class="tracker-module__summary">
+              <div class="tracker-module__summary-main">
+                <div class="tracker-module__icon-box">03</div>
+                <div class="tracker-module__info">
+                  <span class="tracker-module__tag">Advanced</span>
+                  <h3 class="tracker-module__title">Performance Tuning & Paint Cycles</h3>
+                </div>
+              </div>
+              <div class="tracker-module__stats">
+                <span class="tracker-module__progress-text">
+                  0/3 Completed
+                </span>
+                <svg class="tracker-module__chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
+              </div>
+            </summary>
+            
+            <div class="tracker-module__content">
+              <!-- Lesson 1 (Locked) -->
+              <div class="lesson-item lesson-item--locked">
+                <div class="lesson-item__left">
+                  <span class="lesson-item__status">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect><path d="M7 11V7a5 5 0 0 1 10 0v4"></path></svg>
+                  </span>
+                  <div class="lesson-item__details">
+                    <span class="lesson-item__title">Optimizing page layout shifts (CLS) & repaints</span>
+                    <div class="lesson-item__meta">
+                      <span class="lesson-item__meta-item">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polygon points="10 8 16 12 10 16 10 8"></polygon></svg>
+                        Video (24:10)
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div class="lesson-item__right">
+                  <span class="lesson-item__duration">24:10</span>
+                </div>
+              </div>
+              
+              <!-- Lesson 2 (Locked) -->
+              <div class="lesson-item lesson-item--locked">
+                <div class="lesson-item__left">
+                  <span class="lesson-item__status">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect><path d="M7 11V7a5 5 0 0 1 10 0v4"></path></svg>
+                  </span>
+                  <div class="lesson-item__details">
+                    <span class="lesson-item__title">Leveraging will-change and backface-visibility properties</span>
+                    <div class="lesson-item__meta">
+                      <span class="lesson-item__meta-item">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polygon points="10 8 16 12 10 16 10 8"></polygon></svg>
+                        Video (19:35)
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div class="lesson-item__right">
+                  <span class="lesson-item__duration">19:35</span>
+                </div>
+              </div>
+
+              <!-- Lesson 3 (Locked) -->
+              <div class="lesson-item lesson-item--locked">
+                <div class="lesson-item__left">
+                  <span class="lesson-item__status">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect><path d="M7 11V7a5 5 0 0 1 10 0v4"></path></svg>
+                  </span>
+                  <div class="lesson-item__details">
+                    <span class="lesson-item__title">Course Capstone: Designing a fluid UI framework</span>
+                    <div class="lesson-item__meta">
+                      <span class="lesson-item__meta-item">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="16 18 22 12 16 6"></polyline><polyline points="8 6 2 12 8 18"></polyline></svg>
+                        Capstone Project
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div class="lesson-item__right">
+                  <span class="lesson-item__duration">Project</span>
+                </div>
+              </div>
+            </div>
+          </details>
+
+        </section>
+      </main>
+
+      <!-- Sidebar widgets (Right Column) -->
+      <aside class="tracker-sidebar">
+        
+        <!-- Estimated remaining & streak card -->
+        <section class="tracker-card">
+          <h2 class="tracker-card__title">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+            Learning Stats
+          </h2>
+          <div class="stats-grid">
+            <div class="stat-box">
+              <span class="stat-box__label">Time Spent</span>
+              <div class="stat-box__val">4.5 hrs</div>
+            </div>
+            <div class="stat-box">
+              <span class="stat-box__label">Estimated Left</span>
+              <div class="stat-box__val">3.2 hrs</div>
+            </div>
+            <div class="stat-box" style="grid-column: span 2;">
+              <span class="stat-box__label">Active Daily Streak</span>
+              <div class="stat-box__val stat-box__val--streak">🔥 8 Days</div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Achievements & Badges card -->
+        <section class="tracker-card">
+          <h2 class="tracker-card__title">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
+            Achievements
+          </h2>
+          <div class="badge-gallery">
+            <!-- Badge 1: Completed Module 1 (Active) -->
+            <div class="badge-item badge-item--active" title="Earned: Transition Pioneer">
+              <div class="badge-item__shine"></div>
+              <div class="badge-item__icon-wrapper">
+                <!-- Trophy icon -->
+                <svg viewBox="0 0 24 24" fill="none" stroke="#f1f5f9" stroke-width="2"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"></path><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"></path><path d="M4 22h16"></path><path d="M10 14.66V17c0 .55-.45 1-1 1H4v2h16v-2h-5c-.55 0-1-.45-1-1v-2.34"></path><path d="M12 2a6 6 0 0 1 6 6v5a6 6 0 0 1-6 6 6 6 0 0 1-6-6V8a6 6 0 0 1 6-6z"></path></svg>
+              </div>
+              <span class="badge-item__name">Pioneer</span>
+            </div>
+            
+            <!-- Badge 2: High streak (Active) -->
+            <div class="badge-item badge-item--active" title="Earned: On Fire">
+              <div class="badge-item__shine"></div>
+              <div class="badge-item__icon-wrapper">
+                <!-- Flame icon -->
+                <svg viewBox="0 0 24 24" fill="none" stroke="#f1f5f9" stroke-width="2"><path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z"></path></svg>
+              </div>
+              <span class="badge-item__name">On Fire</span>
+            </div>
+
+            <!-- Badge 3: Perfect Score Quiz (Active) -->
+            <div class="badge-item badge-item--active" title="Earned: Quiz Ace">
+              <div class="badge-item__shine"></div>
+              <div class="badge-item__icon-wrapper">
+                <!-- Shield Icon -->
+                <svg viewBox="0 0 24 24" fill="none" stroke="#f1f5f9" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg>
+              </div>
+              <span class="badge-item__name">Quiz Ace</span>
+            </div>
+
+            <!-- Badge 4: Finish capstone (Locked) -->
+            <div class="badge-item badge-item--locked" title="Locked: Motion Master">
+              <div class="badge-item__icon-wrapper">
+                <!-- Crown / Master Icon -->
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M2 4l3 12h14l3-12-6 7-4-7-4 7-6-7z"></path><path d="M3 20h18"></path></svg>
+              </div>
+              <span class="badge-item__name">Motion Master</span>
+            </div>
+
+            <!-- Badge 5: High Performance Quiz (Locked) -->
+            <div class="badge-item badge-item--locked" title="Locked: GPU Expert">
+              <div class="badge-item__icon-wrapper">
+                <!-- CPU / Processor Icon -->
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="4" y="4" width="16" height="16" rx="2"></rect><path d="M9 9h6v6H9z"></path><path d="M9 1v3M15 1v3M9 20v3M15 20v3M20 9h3M20 15h3M1 9h3M1 15h3"></path></svg>
+              </div>
+              <span class="badge-item__name">GPU Expert</span>
+            </div>
+
+            <!-- Badge 6: Community help (Locked) -->
+            <div class="badge-item badge-item--locked" title="Locked: Mentor">
+              <div class="badge-item__icon-wrapper">
+                <!-- Heart / Helper Icon -->
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg>
+              </div>
+              <span class="badge-item__name">Mentor</span>
+            </div>
+          </div>
+        </section>
+
+        <!-- Certificate Locked preview widget -->
+        <section class="tracker-card cert-card">
+          <div class="cert-card__overlay"></div>
+          <h2 class="tracker-card__title">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><circle cx="10" cy="13" r="2"></circle><path d="M12 17a4 4 0 0 0-4 0"></path></svg>
+            Course Certificate
+          </h2>
+          <div class="cert-card__preview">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect><path d="M7 11V7a5 5 0 0 1 10 0v4"></path></svg>
+            <div class="cert-card__text">Locked (Reach 100%)</div>
+          </div>
+        </section>
+
+      </aside>
+
+    </div>
+  </div>
+
+</body>
+</html>

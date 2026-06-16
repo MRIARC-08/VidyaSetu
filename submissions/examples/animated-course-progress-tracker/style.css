@@ -1,0 +1,1102 @@
+/* ==========================================================================
+   Animated Course Progress Tracker - Core Stylesheet
+   Created for EaseMotion CSS Component Library (Submissions)
+   ========================================================================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap');
+
+/* --- CSS Variables & Design Tokens --- */
+:root {
+  --font-primary: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  
+  /* Color Palette (Sleek Dark Theme) */
+  --bg-body: #060913;
+  --bg-dashboard: #0b1120;
+  --bg-card: rgba(22, 30, 49, 0.6);
+  --bg-card-hover: rgba(30, 41, 67, 0.8);
+  --bg-card-active: rgba(30, 41, 67, 0.95);
+  
+  --border-color: rgba(255, 255, 255, 0.06);
+  --border-color-hover: rgba(255, 255, 255, 0.12);
+  --border-active: rgba(99, 102, 241, 0.4);
+  
+  /* Typography Colors */
+  --text-primary: #f8fafc;
+  --text-secondary: #94a3b8;
+  --text-muted: #64748b;
+  --text-active: #818cf8;
+  
+  /* Brand/Gradient Accents */
+  --color-primary: #6366f1;
+  --color-secondary: #a855f7;
+  --color-success: #10b981;
+  --color-info: #0ea5e9;
+  --color-warning: #f59e0b;
+  --color-danger: #ef4444;
+
+  --gradient-primary: linear-gradient(135deg, #6366f1 0%, #a855f7 100%);
+  --gradient-success: linear-gradient(135deg, #10b981 0%, #059669 100%);
+  --gradient-info: linear-gradient(135deg, #3b82f6 0%, #0ea5e9 100%);
+  --gradient-warning: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
+  --gradient-card: linear-gradient(135deg, rgba(255, 255, 255, 0.05) 0%, rgba(255, 255, 255, 0.01) 100%);
+  
+  /* Shadows & Glows */
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.2);
+  --shadow-md: 0 8px 24px rgba(0, 0, 0, 0.3);
+  --shadow-lg: 0 16px 40px rgba(0, 0, 0, 0.4);
+  --glow-primary: 0 0 20px rgba(99, 102, 241, 0.25);
+  --glow-success: 0 0 20px rgba(16, 185, 129, 0.2);
+  
+  /* Animation Timing */
+  --transition-fast: 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-normal: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-slow: 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* --- Base & Reset --- */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-primary);
+  background-color: var(--bg-body);
+  color: var(--text-primary);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 40px 20px;
+  line-height: 1.5;
+  overflow-x: hidden;
+  background-image: 
+    radial-gradient(circle at 10% 20%, rgba(99, 102, 241, 0.05) 0%, transparent 40%),
+    radial-gradient(circle at 90% 80%, rgba(168, 85, 247, 0.05) 0%, transparent 40%);
+  background-attachment: fixed;
+}
+
+/* --- Container Layout --- */
+.tracker-container {
+  width: 100%;
+  max-width: 1200px;
+  background-color: var(--bg-dashboard);
+  border: 1px solid var(--border-color);
+  border-radius: 24px;
+  padding: 32px;
+  box-shadow: var(--shadow-lg);
+  backdrop-filter: blur(20px);
+  animation: fadeInDashboard 0.8s var(--transition-slow) both;
+}
+
+/* --- Course Header --- */
+.tracker-header {
+  margin-bottom: 32px;
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.tracker-header__main {
+  flex: 1;
+  min-width: 300px;
+}
+
+.tracker-header__badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(99, 102, 241, 0.1);
+  border: 1px solid rgba(99, 102, 241, 0.2);
+  color: #a5b4fc;
+  padding: 6px 14px;
+  border-radius: 100px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  margin-bottom: 12px;
+}
+
+.tracker-header__title {
+  font-size: 2.2rem;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  background: linear-gradient(120deg, #ffffff 30%, #c7d2fe 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  line-height: 1.2;
+}
+
+.tracker-header__desc {
+  color: var(--text-secondary);
+  font-size: 1.05rem;
+  margin-top: 8px;
+  max-width: 750px;
+}
+
+.tracker-header__meta {
+  display: flex;
+  gap: 16px;
+  margin-top: 16px;
+  font-size: 0.9rem;
+  color: var(--text-muted);
+}
+
+.tracker-header__meta-item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.tracker-header__meta-item svg {
+  width: 16px;
+  height: 16px;
+  stroke: var(--text-muted);
+}
+
+/* --- Action Button --- */
+.btn-primary {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--gradient-primary);
+  color: #fff;
+  border: none;
+  padding: 14px 28px;
+  border-radius: 14px;
+  font-weight: 600;
+  font-size: 0.95rem;
+  cursor: pointer;
+  box-shadow: var(--shadow-md), 0 4px 12px rgba(99, 102, 241, 0.2);
+  transition: var(--transition-normal);
+  position: relative;
+  overflow: hidden;
+}
+
+.btn-primary::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(255, 255, 255, 0.2),
+    transparent
+  );
+  transition: 0.5s;
+}
+
+.btn-primary:hover::before {
+  left: 100%;
+}
+
+.btn-primary:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg), var(--glow-primary);
+}
+
+.btn-primary:active {
+  transform: translateY(1px);
+}
+
+/* --- Main Dashboard Grid --- */
+.tracker-grid {
+  display: grid;
+  grid-template-columns: 1fr 340px;
+  gap: 32px;
+}
+
+/* --- Main Column (Left) --- */
+.tracker-main {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+/* --- Sidebar Column (Right) --- */
+.tracker-sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+/* --- Dashboard Panel / Cards --- */
+.tracker-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: 20px;
+  padding: 24px;
+  box-shadow: var(--shadow-sm);
+  transition: border-color var(--transition-normal), background var(--transition-normal);
+}
+
+.tracker-card:hover {
+  border-color: var(--border-color-hover);
+  background: var(--bg-card-hover);
+}
+
+.tracker-card__title {
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.tracker-card__title svg {
+  width: 20px;
+  height: 20px;
+  color: var(--color-primary);
+}
+
+/* --- Overall Progress Card --- */
+.progress-card {
+  background: linear-gradient(135deg, rgba(22, 30, 49, 0.7) 0%, rgba(30, 41, 67, 0.4) 100%);
+  border: 1px solid var(--border-color);
+  position: relative;
+  overflow: hidden;
+}
+
+.progress-card::after {
+  content: '';
+  position: absolute;
+  top: -150px;
+  right: -150px;
+  width: 300px;
+  height: 300px;
+  background: radial-gradient(circle, rgba(99, 102, 241, 0.08) 0%, transparent 70%);
+  pointer-events: none;
+}
+
+.progress-stats {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin-bottom: 14px;
+}
+
+.progress-stats__val {
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1;
+  background: var(--gradient-primary);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.progress-stats__info {
+  text-align: right;
+}
+
+.progress-stats__label {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 4px;
+}
+
+.progress-stats__counter {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+/* --- Progress Bar Component --- */
+.progress-bar-container {
+  width: 100%;
+  height: 12px;
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 100px;
+  position: relative;
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.03);
+}
+
+.progress-bar-fill {
+  height: 100%;
+  background: var(--gradient-primary);
+  border-radius: 100px;
+  position: relative;
+  box-shadow: 0 0 10px rgba(99, 102, 241, 0.4);
+  /* The width will be controlled by a CSS property or class */
+  width: 0%; 
+  animation: progressFill 1.5s cubic-bezier(0.4, 0, 0.2, 1) 0.3s forwards;
+}
+
+.progress-bar-fill::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background-image: linear-gradient(
+    -45deg,
+    rgba(255, 255, 255, 0.15) 25%,
+    transparent 25%,
+    transparent 50%,
+    rgba(255, 255, 255, 0.15) 50%,
+    rgba(255, 255, 255, 0.15) 75%,
+    transparent 75%,
+    transparent
+  );
+  background-size: 20px 20px;
+  animation: progressStripe 2s linear infinite;
+  border-radius: 100px;
+}
+
+/* Specific Course progress values */
+.progress-100 { --progress-target: 100%; }
+.progress-80 { --progress-target: 80%; }
+.progress-68 { --progress-target: 68%; }
+.progress-60 { --progress-target: 60%; }
+.progress-20 { --progress-target: 20%; }
+.progress-0 { --progress-target: 0%; }
+
+/* --- Module Section (Accordion List) --- */
+.module-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.tracker-module {
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: 16px;
+  overflow: hidden;
+  transition: border-color var(--transition-normal), box-shadow var(--transition-normal);
+}
+
+/* Open Accordion State styling */
+.tracker-module[open] {
+  border-color: var(--border-active);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+}
+
+.tracker-module:hover {
+  border-color: var(--border-color-hover);
+}
+
+.tracker-module[open]:hover {
+  border-color: var(--border-active);
+}
+
+/* Accordion Summary / Header */
+.tracker-module__summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 24px;
+  list-style: none; /* Hide default summary arrow */
+  cursor: pointer;
+  user-select: none;
+  position: relative;
+  gap: 12px;
+}
+
+/* Webkit specific arrow hiding */
+.tracker-module__summary::-webkit-details-marker {
+  display: none;
+}
+
+.tracker-module__summary-main {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex: 1;
+}
+
+/* Module Index / Icon Box */
+.tracker-module__icon-box {
+  width: 44px;
+  height: 44px;
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid var(--border-color);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 700;
+  font-size: 0.95rem;
+  color: var(--text-secondary);
+  transition: var(--transition-normal);
+}
+
+.tracker-module[open] .tracker-module__icon-box {
+  background: rgba(99, 102, 241, 0.1);
+  border-color: rgba(99, 102, 241, 0.3);
+  color: var(--text-active);
+}
+
+.tracker-module__info {
+  display: flex;
+  flex-direction: column;
+}
+
+.tracker-module__tag {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 2px;
+}
+
+.tracker-module__title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  transition: var(--transition-normal);
+}
+
+.tracker-module:hover .tracker-module__title {
+  color: #fff;
+}
+
+.tracker-module__stats {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.tracker-module__progress-text {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  background: rgba(255, 255, 255, 0.04);
+  padding: 4px 10px;
+  border-radius: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.02);
+}
+
+/* Completed Module Badge */
+.tracker-module__progress-text--completed {
+  color: #a7f3d0;
+  background: rgba(16, 185, 129, 0.1);
+  border-color: rgba(16, 185, 129, 0.2);
+}
+
+/* Summary Chevron Icon */
+.tracker-module__chevron {
+  width: 20px;
+  height: 20px;
+  stroke: var(--text-secondary);
+  transition: transform var(--transition-normal);
+  transform: rotate(0deg);
+}
+
+.tracker-module[open] .tracker-module__chevron {
+  transform: rotate(180deg);
+  stroke: var(--text-active);
+}
+
+/* Accordion Content Box */
+.tracker-module__content {
+  border-top: 1px solid var(--border-color);
+  background: rgba(0, 0, 0, 0.15);
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  animation: slideDown 0.3s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+}
+
+/* --- Lesson Item Component --- */
+.lesson-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 16px;
+  border-radius: 10px;
+  background: transparent;
+  border: 1px solid transparent;
+  transition: all var(--transition-normal);
+  position: relative;
+  gap: 16px;
+}
+
+.lesson-item__left {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  flex: 1;
+}
+
+/* Status Icon Styling */
+.lesson-item__status {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  transition: all var(--transition-normal);
+}
+
+.lesson-item__status svg {
+  width: 16px;
+  height: 16px;
+}
+
+.lesson-item__details {
+  display: flex;
+  flex-direction: column;
+}
+
+.lesson-item__title {
+  font-size: 0.95rem;
+  font-weight: 550;
+  color: var(--text-primary);
+  transition: var(--transition-normal);
+}
+
+.lesson-item__meta {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  margin-top: 2px;
+}
+
+.lesson-item__meta-item {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.lesson-item__meta-item svg {
+  width: 12px;
+  height: 12px;
+  stroke: var(--text-muted);
+}
+
+/* Right content: Actions & durations */
+.lesson-item__right {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.lesson-item__duration {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  font-weight: 500;
+}
+
+/* Call-to-action button inside lesson */
+.lesson-item__btn {
+  background: rgba(99, 102, 241, 0.1);
+  border: 1px solid rgba(99, 102, 241, 0.2);
+  color: var(--text-active);
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding: 6px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: var(--transition-normal);
+  display: none; /* Only show on active or hover active */
+}
+
+.lesson-item__btn:hover {
+  background: var(--color-primary);
+  color: #fff;
+  border-color: var(--color-primary);
+  box-shadow: 0 0 10px rgba(99, 102, 241, 0.3);
+}
+
+/* --- STATE: Completed --- */
+.lesson-item--completed {
+  background: rgba(16, 185, 129, 0.01);
+}
+
+.lesson-item--completed .lesson-item__status {
+  background: rgba(16, 185, 129, 0.1);
+  color: var(--color-success);
+}
+
+.lesson-item--completed .lesson-item__title {
+  color: var(--text-secondary);
+  text-decoration: line-through;
+  text-decoration-color: var(--text-muted);
+}
+
+.lesson-item--completed:hover {
+  background: rgba(16, 185, 129, 0.04);
+}
+
+/* --- STATE: Current (Active) --- */
+.lesson-item--current {
+  background: rgba(99, 102, 241, 0.06);
+  border-color: rgba(99, 102, 241, 0.25);
+  box-shadow: var(--shadow-sm);
+}
+
+.lesson-item--current .lesson-item__status {
+  background: rgba(99, 102, 241, 0.15);
+  color: var(--color-primary);
+  box-shadow: 0 0 10px rgba(99, 102, 241, 0.25);
+  animation: pulseActive 2s infinite;
+}
+
+.lesson-item--current .lesson-item__title {
+  color: #fff;
+  font-weight: 600;
+}
+
+.lesson-item--current .lesson-item__btn {
+  display: block; /* Show immediately for active lesson */
+}
+
+.lesson-item--current:hover {
+  border-color: rgba(99, 102, 241, 0.5);
+  background: rgba(99, 102, 241, 0.08);
+}
+
+/* --- STATE: Locked --- */
+.lesson-item--locked {
+  opacity: 0.5;
+  pointer-events: none; /* User can't interact */
+}
+
+.lesson-item--locked .lesson-item__status {
+  background: rgba(255, 255, 255, 0.02);
+  color: var(--text-muted);
+  border: 1px dashed var(--border-color);
+}
+
+.lesson-item--locked .lesson-item__title {
+  color: var(--text-muted);
+}
+
+/* --- Side Analytics Card (Estimated Remaining Time etc.) --- */
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+}
+
+.stat-box {
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  padding: 16px;
+  text-align: center;
+  transition: var(--transition-normal);
+}
+
+.stat-box:hover {
+  border-color: var(--border-color-hover);
+  background: rgba(255, 255, 255, 0.04);
+  transform: translateY(-2px);
+}
+
+.stat-box__val {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-top: 4px;
+}
+
+.stat-box__val--streak {
+  background: var(--gradient-warning);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.stat-box__label {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+}
+
+/* --- Achievement Badges Section --- */
+.badge-gallery {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 14px;
+}
+
+.badge-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  position: relative;
+  cursor: pointer;
+}
+
+.badge-item__icon-wrapper {
+  position: relative;
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: radial-gradient(circle, rgba(255, 255, 255, 0.05) 0%, rgba(255, 255, 255, 0.01) 100%);
+  border: 1px solid var(--border-color);
+  transition: all var(--transition-normal);
+}
+
+.badge-item__icon-wrapper svg {
+  width: 32px;
+  height: 32px;
+}
+
+.badge-item__name {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  margin-top: 8px;
+  transition: var(--transition-normal);
+}
+
+/* Active Badge Styling */
+.badge-item--active .badge-item__icon-wrapper {
+  border-color: transparent;
+  box-shadow: var(--shadow-sm);
+  background: radial-gradient(circle, rgba(168, 85, 247, 0.15) 0%, rgba(99, 102, 241, 0.15) 100%);
+}
+
+.badge-item--active::before {
+  content: '';
+  position: absolute;
+  top: -2px;
+  left: calc(50% - 34px);
+  width: 68px;
+  height: 68px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #a855f7, #6366f1);
+  z-index: -1;
+  opacity: 0.5;
+  transition: var(--transition-normal);
+}
+
+/* Unearned Badge styling */
+.badge-item--locked {
+  opacity: 0.45;
+}
+
+.badge-item--locked .badge-item__icon-wrapper {
+  background: rgba(0, 0, 0, 0.2);
+  border-style: dashed;
+}
+
+/* Badge Hover & Interaction Effects */
+.badge-item:hover .badge-item__icon-wrapper {
+  transform: translateY(-4px) scale(1.05);
+}
+
+.badge-item--active:hover .badge-item__icon-wrapper {
+  box-shadow: 0 0 20px rgba(99, 102, 241, 0.4), 0 0 40px rgba(168, 85, 247, 0.2);
+}
+
+.badge-item--active:hover::before {
+  transform: translateY(-4px) scale(1.05);
+  opacity: 1;
+}
+
+.badge-item:hover .badge-item__name {
+  color: #fff;
+}
+
+/* Shine overlay effect on badges */
+.badge-item__shine {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.badge-item__shine::after {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -60%;
+  width: 30%;
+  height: 200%;
+  background: rgba(255, 255, 255, 0.2);
+  transform: rotate(30deg);
+  transition: transform var(--transition-slow);
+}
+
+.badge-item:hover .badge-item__shine::after {
+  transform: translate(400%, 0) rotate(30deg);
+  transition: transform 0.8s ease-in-out;
+}
+
+/* --- Certificate Preview Sidebar Widget --- */
+.cert-card {
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(135deg, rgba(22, 30, 49, 0.7) 0%, rgba(168, 85, 247, 0.1) 100%);
+}
+
+.cert-card__preview {
+  aspect-ratio: 16 / 10;
+  background: rgba(0, 0, 0, 0.3);
+  border: 1px dashed var(--border-color);
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  transition: var(--transition-normal);
+  overflow: hidden;
+}
+
+.cert-card__preview svg {
+  width: 48px;
+  height: 48px;
+  color: var(--text-muted);
+  transition: var(--transition-normal);
+  z-index: 2;
+}
+
+.cert-card__text {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  margin-top: 10px;
+  font-weight: 600;
+  z-index: 2;
+  transition: var(--transition-normal);
+}
+
+.cert-card:hover .cert-card__preview {
+  border-color: rgba(168, 85, 247, 0.4);
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.cert-card:hover .cert-card__preview svg {
+  color: var(--color-secondary);
+  transform: scale(1.1);
+}
+
+.cert-card:hover .cert-card__text {
+  color: var(--text-primary);
+}
+
+/* Confetti background simulation for complete certificate state */
+.cert-card__overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: radial-gradient(circle, rgba(168, 85, 247, 0.15) 0%, transparent 80%);
+  opacity: 0;
+  transition: var(--transition-slow);
+}
+
+.cert-card:hover .cert-card__overlay {
+  opacity: 1;
+}
+
+/* --- Animations & Keyframes --- */
+@keyframes fadeInDashboard {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes progressFill {
+  from {
+    width: 0%;
+  }
+  to {
+    width: var(--progress-target, 0%);
+  }
+}
+
+@keyframes progressStripe {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: 20px 0;
+  }
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pulseActive {
+  0% {
+    box-shadow: 0 0 0 0 rgba(99, 102, 241, 0.4);
+  }
+  70% {
+    box-shadow: 0 0 0 10px rgba(99, 102, 241, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(99, 102, 241, 0);
+  }
+}
+
+/* --- Media Queries / Responsive design --- */
+@media (max-width: 1024px) {
+  .tracker-grid {
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
+  
+  body {
+    padding: 24px 16px;
+  }
+  
+  .tracker-container {
+    padding: 24px;
+  }
+}
+
+@media (max-width: 768px) {
+  .tracker-header {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  
+  .btn-primary {
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .tracker-header__title {
+    font-size: 1.8rem;
+  }
+  
+  .tracker-module__summary {
+    padding: 16px;
+  }
+  
+  .tracker-module__summary-main {
+    gap: 12px;
+  }
+  
+  .tracker-module__icon-box {
+    width: 36px;
+    height: 36px;
+    font-size: 0.85rem;
+    border-radius: 8px;
+  }
+  
+  .tracker-module__title {
+    font-size: 0.95rem;
+  }
+  
+  .tracker-module__stats {
+    gap: 10px;
+  }
+  
+  .tracker-module__progress-text {
+    font-size: 0.75rem;
+    padding: 2px 8px;
+  }
+  
+  .lesson-item {
+    padding: 12px;
+  }
+  
+  .lesson-item__right {
+    gap: 8px;
+  }
+  
+  .lesson-item__duration {
+    font-size: 0.75rem;
+  }
+  
+  .lesson-item__btn {
+    font-size: 0.75rem;
+    padding: 4px 8px;
+  }
+  
+  .badge-gallery {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  
+  .badge-item__icon-wrapper {
+    width: 52px;
+    height: 52px;
+  }
+  
+  .badge-item__icon-wrapper svg {
+    width: 24px;
+    height: 24px;
+  }
+  
+  .badge-item__name {
+    font-size: 0.7rem;
+  }
+  
+  .badge-item--active::before {
+    left: calc(50% - 28px);
+    width: 56px;
+    height: 56px;
+  }
+}
+
+@media (max-width: 480px) {
+  .stats-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .progress-stats__val {
+    font-size: 2.4rem;
+  }
+  
+  .tracker-module__summary {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 10px;
+  }
+  
+  .tracker-module__summary-main {
+    width: 100%;
+  }
+  
+  .tracker-module__stats {
+    width: 100%;
+    justify-content: space-between;
+    padding-left: 48px; /* Alignment with title */
+  }
+  
+  .lesson-item__left {
+    gap: 10px;
+  }
+  
+  .lesson-item__title {
+    font-size: 0.85rem;
+  }
+}
