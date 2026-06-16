@@ -81,6 +81,24 @@ export class QuizRepository {
     return prisma.quiz.create({ data });
   }
 
+  static createQuizQuestions(quizId: string, questionIds: string[]) {
+    return prisma.quizQuestion.createMany({
+      data: questionIds.map((questionId) => ({
+        quizId,
+        questionId,
+      })),
+    });
+  }
+
+  static findQuizQuestions(quizId: string) {
+    return prisma.quizQuestion.findMany({
+      where: { quizId },
+      select: {
+        questionId: true,
+      },
+    });
+  }
+
   static findQuizById(quizId: string) {
     return prisma.quiz.findUnique({
       where: { id: quizId },
@@ -226,7 +244,7 @@ export class QuizRepository {
         easyAccuracy: data.easyAccuracy,
         mediumAccuracy: data.mediumAccuracy,
         hardAccuracy: data.hardAccuracy,
-      },
+      }
     });
   }
 }
