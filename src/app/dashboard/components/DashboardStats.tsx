@@ -17,7 +17,7 @@ interface OverviewData {
   accuracy: number;
   currentStreak: number;
   longestStreak: number;
-  lastActivity: string;
+  lastActivity: string | null;
   dailyActivity: DailyActivity[];
 }
 
@@ -26,7 +26,8 @@ interface OverviewResponse {
   data: OverviewData;
 }
 
-function getRelativeTime(dateStr: string): string {
+function getRelativeTime(dateStr: string | null): string {
+  if (!dateStr) return 'No activity yet';
   const now = Date.now();
   const date = new Date(dateStr).getTime();
   const diffMs = now - date;
@@ -119,7 +120,7 @@ function DashboardStats({ className, ...props }: React.ComponentProps<'div'>) {
     accuracy: 0,
     currentStreak: 0,
     longestStreak: 0,
-    lastActivity: new Date().toISOString(),
+    lastActivity: null,
     dailyActivity: [],
   };
 
@@ -168,9 +169,11 @@ function DashboardStats({ className, ...props }: React.ComponentProps<'div'>) {
           <div className="text-2xl font-bold">
             {getRelativeTime(stats.lastActivity)}
           </div>
-          <p className="text-xs text-muted-foreground">
-            {new Date(stats.lastActivity).toLocaleDateString()}
-          </p>
+          {stats.lastActivity && (
+            <p className="text-xs text-muted-foreground">
+              {new Date(stats.lastActivity).toLocaleDateString()}
+            </p>
+          )}
         </CardContent>
       </Card>
     </div>
