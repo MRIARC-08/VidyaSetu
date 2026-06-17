@@ -1,57 +1,19 @@
-'use client';
-
-import { useEffect, useMemo, useState } from 'react';
-import authFetch from '@/lib/auth/authFetch';
-import NotesList from '@/components/NotesList';
-import NotesSearch from '@/components/NotesSearch';
-import type { Note } from '@/types/notes';
+import EmptyState from '../../components/EmptyState';
 
 export default function NotesPage() {
-  const [notes, setNotes] = useState<Note[]>([]);
-  const [search, setSearch] = useState('');
-  const [error, setError] = useState('');
-
-  useEffect(() => {
-    const loadNotes = async () => {
-      try {
-        const res = await authFetch({
-          url: '/api/notes',
-          options: {
-            method: 'GET',
-          },
-        });
-
-        if (res?.status === 401 || res?.status === 404 || res?.status === 500) {
-          setError(res.message || 'Failed to load notes');
-          return;
-        }
-
-        setNotes(res.data || []);
-      } catch {
-        setError('Failed to load notes');
-      }
-    };
-
-    loadNotes();
-  }, []);
-
-  const filteredNotes = useMemo(() => {
-    return notes.filter((note) =>
-      note.title.toLowerCase().includes(search.toLowerCase())
-    );
-  }, [notes, search]);
-
   return (
-    <main className="max-w-4xl mx-auto p-6">
-      <h1 className="text-4xl font-bold mb-8">My Notes</h1>
-
-      <NotesSearch value={search} onChange={setSearch} />
-      {error && (
-        <div className="mb-4 rounded border border-red-300 bg-red-50 p-3 text-red-700">
-          {error}
-        </div>
-      )}
-      <NotesList notes={filteredNotes} />
+    <main className="flex-1 p-8 h-full flex items-center justify-center">
+      <EmptyState 
+        icon={
+          <svg width="42" height="42" fill="none" stroke="currentColor" strokeWidth="1.5" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 00-3.375-3.375h-1.5A1.125 1.125 0 0113.5 7.125v-1.5a3.375 3.375 0 00-3.375-3.375H8.25m3.75 9v6m3-3H9m1.5-12H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 00-9-9z" />
+          </svg>
+        }
+        title="No Notes Uploaded"
+        description="Your study vault is currently empty. Upload handwritten pages or digital documents to get started."
+        ctaText="Upload your first note"
+        ctaHref="/notes/upload" 
+      />
     </main>
   );
 }

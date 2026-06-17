@@ -1,4 +1,4 @@
-﻿'use client';
+'use client';
 
 import authFetch from '@/lib/auth/authFetch';
 import { useRouter } from 'next/navigation';
@@ -10,6 +10,7 @@ import { DashboardStats } from './components/DashboardStats';
 import { PerformanceChart } from './components/PerformanceChart';
 import { ActivityFeed } from './components/ActivityFeed';
 import ResumeCard from '@/components/ResumeCard';
+import EmptyState from '@/components/EmptyState';
 
 interface UserProps {
   name: string;
@@ -263,16 +264,31 @@ export default function DashboardPage() {
         <BookmarkedChapters />
       </div>
 
-      {/* learning progress */}
-
+    {/* learning progress */}
       <div className="flex flex-col gap-4 w-full h-full flex-1">
         <div className="flex justify-between font-bold uppercase text-[12px]">
-          <div>learning progress </div>
+          <div>learning progress</div>
         </div>
 
-        <ProgressDashboard />
+        {/* Conditional rendering for Empty State */}
+        {user?.streakCount && user.streakCount > 0 ? (
+          <ProgressDashboard />
+        ) : (
+          <EmptyState
+            icon={
+              <svg width="42" height="42" fill="none" stroke="currentColor" strokeWidth="1.5" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" d="M12 6v6h4.5m4.5 0a9 9 0 11-18 0 9 9 0 0118 0z" />
+              </svg>
+            }
+            title="No Quizzes Taken"
+            description="Your progress tracking will appear here once you complete your first module."
+            ctaText="Take your first quiz"
+            ctaHref="/quiz"
+          />
+        )}
       </div>
-    </div>
+      </div>
   );
 }
+  
 
