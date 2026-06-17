@@ -32,15 +32,40 @@ export class BookmarkService {
       throw new Error('Chapter not found');
     }
 
-    return prisma.bookmark.create({
-      data: {
-        userId,
-        chapterId,
-      },
-      include: {
-        chapter: true,
-      },
-    });
+    try {
+      return await prisma.bookmark.create({
+        data: {
+          userId,
+          chapterId,
+        },
+        include: {
+          chapter: true,
+        },
+      });
+    } catch (error: unknown) {
+      if (
+        typeof error === 'object' &&
+        error !== null &&
+        'code' in error &&
+        error.code === 'P2002'
+      ) {
+        const existingBookmark = await prisma.bookmark.findFirst({
+          where: {
+            userId,
+            chapterId,
+          },
+          include: {
+            chapter: true,
+          },
+        });
+
+        if (existingBookmark) {
+          return existingBookmark;
+        }
+      }
+
+      throw error;
+    }
   }
 
   // 3. Remove a bookmark
