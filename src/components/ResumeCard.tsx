@@ -38,10 +38,21 @@ export default function ResumeCard() {
 
   if (!progress) return null;
 
+  const handleKeyDown = (e: React.KeyboardEvent) => {
+    if (e.key === 'Enter' || e.key === ' ') {
+      e.preventDefault();
+      router.push(progress.chapterUrl);
+    }
+  };
+
   return (
     <div
       onClick={() => router.push(progress.chapterUrl)}
-      className="bg-white p-6 shadow-2xs w-full cursor-pointer hover:shadow-md transition-all duration-300 border-l-4 border-primary"
+      onKeyDown={handleKeyDown}
+      role="button"
+      tabIndex={0}
+      aria-label={`Continue reading ${progress.chapterName}`}
+      className="bg-white p-6 shadow-2xs w-full cursor-pointer hover:shadow-md transition-all duration-300 border-l-4 border-primary focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2"
     >
       <div className="flex flex-col gap-3">
         <div className="flex justify-between items-start">

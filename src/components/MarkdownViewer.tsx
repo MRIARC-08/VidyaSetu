@@ -146,7 +146,10 @@ export default function MarkdownViewer({
       </ul>
     ),
     ol: ({ children, ...props }) => (
-      <ol className="my-5 list-decimal space-y-2 pl-6 text-primary/80" {...props}>
+      <ol
+        className="my-5 list-decimal space-y-2 pl-6 text-primary/80"
+        {...props}
+      >
         {children}
       </ol>
     ),
@@ -239,9 +242,9 @@ export default function MarkdownViewer({
 
   const transformedContent = imageBaseUrl
     ? content.replace(
-      /!\[([^\]]*)\]\(((?!https?:\/\/)[^)]+)\)/g,
-      `![$1](${imageBaseUrl.replace(/\/$/, '')}/$2)`
-    )
+        /!\[([^\]]*)\]\(((?!https?:\/\/)[^)]+)\)/g,
+        `![$1](${imageBaseUrl.replace(/\/$/, '')}/$2)`
+      )
     : content;
 
   return (

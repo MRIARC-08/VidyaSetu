@@ -1,10 +1,14 @@
 import { NextResponse } from 'next/server';
 import { ZodError } from 'zod';
-
 import { SetCookies } from '@/lib/auth/cookies';
 import { NotesServices } from './notes.service';
 import { NotesApiError } from './notes.types';
 import { uploadSchema } from './notes.validator';
+
+async function getAuthenticatedUserId(): Promise<string | null> {
+  const token = await SetCookies.verifyCookies();
+  return token?.sub ?? null;
+}
 
 const parseFormData = async (request: Request) => {
   try {
@@ -68,18 +72,16 @@ export class NotesControllers {
     }
   }
 
-  static async list(request: Request) {
+  static async list() {
     try {
-      const { searchParams } = new URL(request.url);
-      const userId = searchParams.get('userId');
+      const userId = await getAuthenticatedUserId();
 
       if (!userId) {
         return NextResponse.json(
-          { message: 'userId query parameter is required' },
-          { status: 400 }
+          { message: 'Authentication required' },
+          { status: 401 }
         );
       }
-
       const notes = await NotesServices.getUserNotes(userId);
 
       return NextResponse.json({ data: notes });
@@ -90,16 +92,14 @@ export class NotesControllers {
 
   static async getById(request: Request, noteId: string) {
     try {
-      const { searchParams } = new URL(request.url);
-      const userId = searchParams.get('userId');
+      const userId = await getAuthenticatedUserId();
 
       if (!userId) {
         return NextResponse.json(
-          { message: 'userId query parameter is required' },
-          { status: 400 }
+          { message: 'Authentication required' },
+          { status: 401 }
         );
       }
-
       const note = await NotesServices.getNoteById(userId, noteId);
 
       return NextResponse.json({ data: note });
@@ -110,13 +110,12 @@ export class NotesControllers {
 
   static async delete(request: Request, noteId: string) {
     try {
-      const { searchParams } = new URL(request.url);
-      const userId = searchParams.get('userId');
+      const userId = await getAuthenticatedUserId();
 
       if (!userId) {
         return NextResponse.json(
-          { message: 'userId query parameter is required' },
-          { status: 400 }
+          { message: 'Authentication required' },
+          { status: 401 }
         );
       }
 

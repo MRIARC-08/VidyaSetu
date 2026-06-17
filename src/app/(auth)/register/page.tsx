@@ -200,7 +200,7 @@ export default function LoginPage() {
             {/* Google Button */}
             <div className="w-full h-full justify-center items-center  flex flex-col gap-8">
               <Button
-                className="text-black bg-primary-foreground w-full md:w-3/5 flex items-center justify-center gap-2"
+                className="text-gray-800 bg-white border border-gray-300 hover:bg-gray-50 w-full md:w-3/5 flex items-center justify-center gap-2"
                 onClick={handleLoginWithGoogle}
               >
                 <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
