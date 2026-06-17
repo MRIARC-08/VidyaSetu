@@ -146,26 +146,27 @@ const components: Components = {
       {children}
     </blockquote>
   ),
-  pre: ({ children }) => <>{children}</>,
-  code: ({ className, children, ...props }) => {
-    const isInline = !className;
-    const match = /language-(\w+)/.exec(className || '');
+  pre: ({ children }) => {
+    // Extract language from the nested <code> element's className
+    const codeEl = Array.isArray(children) ? children[0] : children;
+    const codeClass =
+      codeEl && typeof codeEl === 'object' && 'props' in (codeEl as object)
+        ? (codeEl as React.ReactElement<{ className?: string }>).props.className
+        : undefined;
+    const match = /language-(\w+)/.exec(codeClass || '');
     const language = match ? match[1] : undefined;
-
-    if (isInline) {
-      return (
-        <code
-          className="rounded-sm bg-primary/8 px-1.5 py-0.5 font-mono text-sm text-primary"
-          {...props}
-        >
-          {children}
-        </code>
-      );
-    }
-
     const codeText = extractText(children);
     return <CodeBlock language={language}>{codeText}</CodeBlock>;
   },
+  code: ({ children, ...props }) => (
+    // Only reached for inline code — block code is handled by the pre renderer above
+    <code
+      className="rounded-sm bg-primary/8 px-1.5 py-0.5 font-mono text-sm text-primary"
+      {...props}
+    >
+      {children}
+    </code>
+  ),
   table: ({ children, ...props }) => (
     <div className="my-6 w-full overflow-x-auto border border-primary/15 bg-white">
       <table
