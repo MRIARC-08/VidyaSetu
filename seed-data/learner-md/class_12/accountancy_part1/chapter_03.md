@@ -1,16 +1,17 @@
 # Chapter 3: Reconstitution of a Partnership Firm - Retirement or Death of a Partner
+
 ### NCERT Class 12 - Accountancy Part 1
 
 ## Chapter at a Glance
 
-| Item | Details |
-|---|---|
-| Main idea | Retirement or death changes the partnership while the firm may continue with remaining partners. |
-| Main accounting goal | Find the amount due to the outgoing partner or the deceased partner's executor. |
-| Core ratios | New profit sharing ratio and gaining ratio. |
-| Main adjustments | Goodwill, revaluation, reserves, accumulated losses, profit up to retirement/death, settlement of dues. |
-| Main accounts | Revaluation account, retiring partner's capital account, loan account, executor's account. |
-| Most important exam skill | Credit the outgoing partner for all entitlements and debit for all deductions. |
+| Item                      | Details                                                                                                 |
+| ------------------------- | ------------------------------------------------------------------------------------------------------- |
+| Main idea                 | Retirement or death changes the partnership while the firm may continue with remaining partners.        |
+| Main accounting goal      | Find the amount due to the outgoing partner or the deceased partner's executor.                         |
+| Core ratios               | New profit sharing ratio and gaining ratio.                                                             |
+| Main adjustments          | Goodwill, revaluation, reserves, accumulated losses, profit up to retirement/death, settlement of dues. |
+| Main accounts             | Revaluation account, retiring partner's capital account, loan account, executor's account.              |
+| Most important exam skill | Credit the outgoing partner for all entitlements and debit for all deductions.                          |
 
 ## Learning Outcomes
 
@@ -32,27 +33,27 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Retirement | Withdrawal of a partner from the firm while remaining partners continue. |
-| Death of a partner | End of partner's relationship with firm due to death; amount due is payable to legal representative or executor. |
-| New profit sharing ratio | Ratio in which remaining partners share future profits. |
-| Gaining ratio | Ratio in which continuing partners gain the outgoing partner's share. |
-| Retiring partner | Partner leaving the firm. |
-| Deceased partner | Partner who has died. |
-| Executor's account | Account opened for amount due to legal representative of deceased partner. |
-| Profit and loss suspense account | Temporary account used to credit outgoing partner's share of profit up to date. |
-| Hidden goodwill | Goodwill inferred from amount paid for a share when goodwill is not directly stated. |
+| Term                             | Meaning                                                                                                          |
+| -------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Retirement                       | Withdrawal of a partner from the firm while remaining partners continue.                                         |
+| Death of a partner               | End of partner's relationship with firm due to death; amount due is payable to legal representative or executor. |
+| New profit sharing ratio         | Ratio in which remaining partners share future profits.                                                          |
+| Gaining ratio                    | Ratio in which continuing partners gain the outgoing partner's share.                                            |
+| Retiring partner                 | Partner leaving the firm.                                                                                        |
+| Deceased partner                 | Partner who has died.                                                                                            |
+| Executor's account               | Account opened for amount due to legal representative of deceased partner.                                       |
+| Profit and loss suspense account | Temporary account used to credit outgoing partner's share of profit up to date.                                  |
+| Hidden goodwill                  | Goodwill inferred from amount paid for a share when goodwill is not directly stated.                             |
 
 ## Quick Learning Map
 
-| Area | Core Rule |
-|---|---|
-| Goodwill | Gaining partners compensate the outgoing partner. |
-| Revaluation | All partners, including outgoing partner, share profit or loss in old ratio. |
-| Reserves | All partners share old reserves in old ratio. |
-| Accumulated losses | All partners bear old losses in old ratio. |
-| Settlement | Amount due may be paid immediately, transferred to loan, or paid in instalments. |
+| Area               | Core Rule                                                                        |
+| ------------------ | -------------------------------------------------------------------------------- |
+| Goodwill           | Gaining partners compensate the outgoing partner.                                |
+| Revaluation        | All partners, including outgoing partner, share profit or loss in old ratio.     |
+| Reserves           | All partners share old reserves in old ratio.                                    |
+| Accumulated losses | All partners bear old losses in old ratio.                                       |
+| Settlement         | Amount due may be paid immediately, transferred to loan, or paid in instalments. |
 
 # Unit 3A: Meaning of Retirement
 
@@ -118,9 +119,9 @@ Gaining ratio is used for goodwill adjustment.
 A, B, and C share profits 3:2:1. C retires. A and B share future profits 2:1.
 
 | Partner | Old share | New share | Gain |
-|---|---:|---:|---:|
-| A | 3/6 | 2/3 = 4/6 | 1/6 |
-| B | 2/6 | 1/3 = 2/6 | 0 |
+| ------- | --------: | --------: | ---: |
+| A       |       3/6 | 2/3 = 4/6 |  1/6 |
+| B       |       2/6 | 1/3 = 2/6 |    0 |
 
 A alone gains. Therefore A compensates C for goodwill.
 
@@ -148,14 +149,14 @@ The outgoing partner is debited with:
 
 ## Control Table
 
-| Credit Retiring Partner | Debit Retiring Partner |
-|---|---|
-| Capital balance | Drawings |
-| Current account credit balance | Interest on drawings |
-| Goodwill share | Revaluation loss |
-| Revaluation profit | Accumulated losses |
-| Reserves | Current account debit balance |
-| Profit up to date | Cash paid |
+| Credit Retiring Partner        | Debit Retiring Partner        |
+| ------------------------------ | ----------------------------- |
+| Capital balance                | Drawings                      |
+| Current account credit balance | Interest on drawings          |
+| Goodwill share                 | Revaluation loss              |
+| Revaluation profit             | Accumulated losses            |
+| Reserves                       | Current account debit balance |
+| Profit up to date              | Cash paid                     |
 
 # Unit 3F: Goodwill Treatment
 
@@ -163,8 +164,8 @@ At retirement or death, continuing partners gain future profit share. Therefore 
 
 ## Basic Entry Without Opening Goodwill Account
 
-| Debit | Credit |
-|---|---|
+| Debit                         | Credit                         |
+| ----------------------------- | ------------------------------ |
 | Gaining Partners' Capital A/c | Retiring Partner's Capital A/c |
 
 The debit is in gaining ratio.
@@ -173,8 +174,8 @@ The debit is in gaining ratio.
 
 First write it off among all old partners in old ratio:
 
-| Debit | Credit |
-|---|---|
+| Debit                     | Credit       |
+| ------------------------- | ------------ |
 | All Partners' Capital A/c | Goodwill A/c |
 
 Then adjust outgoing partner's share of revised goodwill through gaining partners.
@@ -187,10 +188,10 @@ C's share of goodwill = Rs. 60,000 x 1/6 = Rs. 10,000.
 
 If A and B gain in 3:2:
 
-| Partner | Debit |
-|---|---:|
-| A | Rs. 6,000 |
-| B | Rs. 4,000 |
+| Partner |     Debit |
+| ------- | --------: |
+| A       | Rs. 6,000 |
+| B       | Rs. 4,000 |
 
 Credit C's capital account Rs. 10,000.
 
@@ -220,16 +221,16 @@ Before settlement, assets and liabilities may be revalued. The revaluation profi
 
 ## Entries
 
-| Transaction | Debit | Credit |
-|---|---|---|
-| Increase in asset | Asset A/c | Revaluation A/c |
-| Decrease in asset | Revaluation A/c | Asset A/c |
-| Increase in liability | Revaluation A/c | Liability A/c |
-| Decrease in liability | Liability A/c | Revaluation A/c |
-| Unrecorded asset | Asset A/c | Revaluation A/c |
-| Unrecorded liability | Revaluation A/c | Liability A/c |
-| Revaluation profit | Revaluation A/c | All Partners' Capital A/c |
-| Revaluation loss | All Partners' Capital A/c | Revaluation A/c |
+| Transaction           | Debit                     | Credit                    |
+| --------------------- | ------------------------- | ------------------------- |
+| Increase in asset     | Asset A/c                 | Revaluation A/c           |
+| Decrease in asset     | Revaluation A/c           | Asset A/c                 |
+| Increase in liability | Revaluation A/c           | Liability A/c             |
+| Decrease in liability | Liability A/c             | Revaluation A/c           |
+| Unrecorded asset      | Asset A/c                 | Revaluation A/c           |
+| Unrecorded liability  | Revaluation A/c           | Liability A/c             |
+| Revaluation profit    | Revaluation A/c           | All Partners' Capital A/c |
+| Revaluation loss      | All Partners' Capital A/c | Revaluation A/c           |
 
 ## Ratio Used
 
@@ -239,12 +240,12 @@ Use old profit sharing ratio because all partners were owners before reconstitut
 
 Reserves and past profits are distributed to all partners in old ratio. Past losses are also borne by all partners in old ratio.
 
-| Item | Debit | Credit |
-|---|---|---|
-| General reserve | General Reserve A/c | All Partners' Capital A/c |
-| Profit and loss credit balance | Profit and Loss A/c | All Partners' Capital A/c |
-| Profit and loss debit balance | All Partners' Capital A/c | Profit and Loss A/c |
-| Advertisement suspense or fictitious asset | All Partners' Capital A/c | Relevant A/c |
+| Item                                       | Debit                     | Credit                    |
+| ------------------------------------------ | ------------------------- | ------------------------- |
+| General reserve                            | General Reserve A/c       | All Partners' Capital A/c |
+| Profit and loss credit balance             | Profit and Loss A/c       | All Partners' Capital A/c |
+| Profit and loss debit balance              | All Partners' Capital A/c | Profit and Loss A/c       |
+| Advertisement suspense or fictitious asset | All Partners' Capital A/c | Relevant A/c              |
 
 # Unit 3J: Share of Profit up to Date of Retirement or Death
 
@@ -252,24 +253,24 @@ If retirement or death happens during the year, the outgoing partner may be enti
 
 ## Bases of Calculation
 
-| Basis Given | Method |
-|---|---|
-| Last year's profit | Last year's profit x Time fraction x Old profit share |
-| Average profit | Average annual profit x Time fraction x Old profit share |
-| Sales basis | Current period sales x Profit rate x Old profit share |
+| Basis Given        | Method                                                   |
+| ------------------ | -------------------------------------------------------- |
+| Last year's profit | Last year's profit x Time fraction x Old profit share    |
+| Average profit     | Average annual profit x Time fraction x Old profit share |
+| Sales basis        | Current period sales x Profit rate x Old profit share    |
 
 ## Entry
 
-| Debit | Credit |
-|---|---|
+| Debit                        | Credit                                     |
+| ---------------------------- | ------------------------------------------ |
 | Profit and Loss Suspense A/c | Retiring or Deceased Partner's Capital A/c |
 
 Later, profit and loss suspense account is transferred to continuing partners, usually in gaining ratio unless the question says otherwise.
 
 Alternative entry:
 
-| Debit | Credit |
-|---|---|
+| Debit                         | Credit                                     |
+| ----------------------------- | ------------------------------------------ |
 | Gaining Partners' Capital A/c | Retiring or Deceased Partner's Capital A/c |
 
 # Unit 3K: Settlement of Retiring Partner's Dues
@@ -278,48 +279,48 @@ The amount due may be settled in different ways.
 
 ## Full Payment
 
-| Debit | Credit |
-|---|---|
+| Debit                          | Credit   |
+| ------------------------------ | -------- |
 | Retiring Partner's Capital A/c | Bank A/c |
 
 ## Transfer to Loan
 
-| Debit | Credit |
-|---|---|
+| Debit                          | Credit                      |
+| ------------------------------ | --------------------------- |
 | Retiring Partner's Capital A/c | Retiring Partner's Loan A/c |
 
 ## Part Payment and Balance as Loan
 
-| Debit | Credit |
-|---|---|
+| Debit                          | Credit                                   |
+| ------------------------------ | ---------------------------------------- |
 | Retiring Partner's Capital A/c | Bank A/c and Retiring Partner's Loan A/c |
 
 ## Instalment Payment With Interest
 
 Interest entry:
 
-| Debit | Credit |
-|---|---|
+| Debit        | Credit                      |
+| ------------ | --------------------------- |
 | Interest A/c | Retiring Partner's Loan A/c |
 
 Payment entry:
 
-| Debit | Credit |
-|---|---|
+| Debit                       | Credit   |
+| --------------------------- | -------- |
 | Retiring Partner's Loan A/c | Bank A/c |
 
 # Unit 3L: Executor's Account in Case of Death
 
 After calculating the amount due to the deceased partner, transfer it to executor's account.
 
-| Debit | Credit |
-|---|---|
+| Debit                          | Credit                            |
+| ------------------------------ | --------------------------------- |
 | Deceased Partner's Capital A/c | Deceased Partner's Executor's A/c |
 
 When paid:
 
-| Debit | Credit |
-|---|---|
+| Debit                             | Credit   |
+| --------------------------------- | -------- |
 | Deceased Partner's Executor's A/c | Bank A/c |
 
 If the amount is paid in instalments, interest may be credited to executor's account as agreed.
@@ -355,43 +356,43 @@ C's share of goodwill = Rs. 60,000 x 1/6 = Rs. 10,000.
 
 A and B gain in 3:2.
 
-| Partner | Debit |
-|---|---:|
-| A | Rs. 6,000 |
-| B | Rs. 4,000 |
-| C | Credit Rs. 10,000 |
+| Partner |             Debit |
+| ------- | ----------------: |
+| A       |         Rs. 6,000 |
+| B       |         Rs. 4,000 |
+| C       | Credit Rs. 10,000 |
 
 ## Revaluation Profit
 
 Shared among A, B, and C in old ratio 3:2:1.
 
-| Partner | Share |
-|---|---:|
-| A | Rs. 6,000 |
-| B | Rs. 4,000 |
-| C | Rs. 2,000 |
+| Partner |     Share |
+| ------- | --------: |
+| A       | Rs. 6,000 |
+| B       | Rs. 4,000 |
+| C       | Rs. 2,000 |
 
 ## General Reserve
 
 Shared in old ratio 3:2:1.
 
-| Partner | Share |
-|---|---:|
-| A | Rs. 9,000 |
-| B | Rs. 6,000 |
-| C | Rs. 3,000 |
+| Partner |     Share |
+| ------- | --------: |
+| A       | Rs. 9,000 |
+| B       | Rs. 6,000 |
+| C       | Rs. 3,000 |
 
 # Unit 3O: Common Mistakes and Corrections
 
-| Mistake | Correct Approach |
-|---|---|
-| Using sacrificing ratio at retirement | Use gaining ratio. |
-| Giving goodwill benefit to all partners | Only outgoing partner or sacrificing continuing partner is credited; gaining partners are debited. |
-| Sharing revaluation in new ratio | Use old ratio. |
-| Sharing reserves only among continuing partners | Include outgoing partner. |
-| Forgetting profit up to date of death | Estimate and credit it if required. |
-| Paying executor before all adjustments | First prepare deceased partner's capital account. |
-| Treating retiring partner's loan as capital | Show loan separately after transfer. |
+| Mistake                                         | Correct Approach                                                                                   |
+| ----------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| Using sacrificing ratio at retirement           | Use gaining ratio.                                                                                 |
+| Giving goodwill benefit to all partners         | Only outgoing partner or sacrificing continuing partner is credited; gaining partners are debited. |
+| Sharing revaluation in new ratio                | Use old ratio.                                                                                     |
+| Sharing reserves only among continuing partners | Include outgoing partner.                                                                          |
+| Forgetting profit up to date of death           | Estimate and credit it if required.                                                                |
+| Paying executor before all adjustments          | First prepare deceased partner's capital account.                                                  |
+| Treating retiring partner's loan as capital     | Show loan separately after transfer.                                                               |
 
 ## Practice Set
 

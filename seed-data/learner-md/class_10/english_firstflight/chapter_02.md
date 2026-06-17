@@ -1,35 +1,36 @@
 # Chapter 2: Freedom, Dignity, and the Cost of Captivity
+
 ### NCERT Class 10 - English First Flight
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 10 |
-| **Subject** | English First Flight |
-| **Chapter** | 2 |
-| **Main Prose** | "Nelson Mandela: Long Walk to Freedom" |
-| **Poem Included** | "A Tiger in the Zoo" by Leslie Norris |
-| **Supplementary Poems Mentioned** | "The Tiger", "The Panther", and "The Greater Cats" |
-| **Raw File Header** | "Nelson Mandela: Long Walk to Freedom" |
-| **Textbook Pages** | 1-16 |
-| **Core Theme** | Freedom, equality, apartheid, courage, human dignity, historical memory, prejudice, and captivity. |
-| **Main Skills** | Autobiographical prose, political context, inference, contrast, vocabulary, noun formation, definite article with proper nouns, idioms, opinion writing, and poetry appreciation. |
+| Detail                            | Learner-Friendly Information                                                                                                                                                      |
+| --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Class**                         | 10                                                                                                                                                                                |
+| **Subject**                       | English First Flight                                                                                                                                                              |
+| **Chapter**                       | 2                                                                                                                                                                                 |
+| **Main Prose**                    | "Nelson Mandela: Long Walk to Freedom"                                                                                                                                            |
+| **Poem Included**                 | "A Tiger in the Zoo" by Leslie Norris                                                                                                                                             |
+| **Supplementary Poems Mentioned** | "The Tiger", "The Panther", and "The Greater Cats"                                                                                                                                |
+| **Raw File Header**               | "Nelson Mandela: Long Walk to Freedom"                                                                                                                                            |
+| **Textbook Pages**                | 1-16                                                                                                                                                                              |
+| **Core Theme**                    | Freedom, equality, apartheid, courage, human dignity, historical memory, prejudice, and captivity.                                                                                |
+| **Main Skills**                   | Autobiographical prose, political context, inference, contrast, vocabulary, noun formation, definite article with proper nouns, idioms, opinion writing, and poetry appreciation. |
 
 ---
 
 ## Section Structure
 
-| Unit | Text / Skill | Main Learning Focus |
-|---|---|---|
-| **2A** | Before Reading | Apartheid, Mandela, inauguration, and key expressions. |
-| **2B** | Long Walk to Freedom | Inauguration, democracy, sacrifice, courage, love, and obligations. |
-| **2C** | Prose Comprehension | Oral checks, thinking questions, and long-answer guidance. |
-| **2D** | Language Work | Noun-verb forms, definite article with proper names, idioms, and contrasts. |
-| **2E** | Speaking and Writing | True liberty speech, colour prejudice paragraph, and research topics. |
-| **2F** | A Tiger in the Zoo | Captivity, natural habitat, imagery, repetition, and conservation debate. |
+| Unit   | Text / Skill         | Main Learning Focus                                                         |
+| ------ | -------------------- | --------------------------------------------------------------------------- |
+| **2A** | Before Reading       | Apartheid, Mandela, inauguration, and key expressions.                      |
+| **2B** | Long Walk to Freedom | Inauguration, democracy, sacrifice, courage, love, and obligations.         |
+| **2C** | Prose Comprehension  | Oral checks, thinking questions, and long-answer guidance.                  |
+| **2D** | Language Work        | Noun-verb forms, definite article with proper names, idioms, and contrasts. |
+| **2E** | Speaking and Writing | True liberty speech, colour prejudice paragraph, and research topics.       |
+| **2F** | A Tiger in the Zoo   | Captivity, natural habitat, imagery, repetition, and conservation debate.   |
 
 ---
 
@@ -37,44 +38,44 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Explain apartheid** | Describe apartheid as a racial segregation system in South Africa. |
-| **Understand historical context** | Explain why 10 May 1994 was historic. |
-| **Analyse Mandela's ideas** | Discuss freedom, courage, love, hatred, duty, and dignity. |
-| **Identify contrasts** | Track past versus present, oppression versus democracy, and fear versus courage. |
-| **Use vocabulary accurately** | Use words such as emancipation, deprivation, resilience, prejudice, and obligation. |
-| **Form nouns from verbs** | Convert contribute to contribution, resist to resistance, and similar pairs. |
-| **Understand idioms** | Explain phrases such as "pushed to our limits" and "earning my keep". |
-| **Write opinion paragraphs** | Discuss colour prejudice or liberty with clear reasoning. |
-| **Appreciate poetry** | Analyse the contrast between a tiger in captivity and in the wild. |
-| **Debate ethically** | Consider both protection and freedom in discussions about zoos. |
+| Outcome                           | You Should Be Able To...                                                            |
+| --------------------------------- | ----------------------------------------------------------------------------------- |
+| **Explain apartheid**             | Describe apartheid as a racial segregation system in South Africa.                  |
+| **Understand historical context** | Explain why 10 May 1994 was historic.                                               |
+| **Analyse Mandela's ideas**       | Discuss freedom, courage, love, hatred, duty, and dignity.                          |
+| **Identify contrasts**            | Track past versus present, oppression versus democracy, and fear versus courage.    |
+| **Use vocabulary accurately**     | Use words such as emancipation, deprivation, resilience, prejudice, and obligation. |
+| **Form nouns from verbs**         | Convert contribute to contribution, resist to resistance, and similar pairs.        |
+| **Understand idioms**             | Explain phrases such as "pushed to our limits" and "earning my keep".               |
+| **Write opinion paragraphs**      | Discuss colour prejudice or liberty with clear reasoning.                           |
+| **Appreciate poetry**             | Analyse the contrast between a tiger in captivity and in the wild.                  |
+| **Debate ethically**              | Consider both protection and freedom in discussions about zoos.                     |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Apartheid** | Political system separating people by race. |
-| **Inauguration** | Formal ceremony marking the beginning of an office or government. |
-| **Dignitary** | Important public official or honoured guest. |
-| **Amphitheatre** | Open building or space with rising rows of seats. |
-| **White supremacy** | Belief or system that treats white people as superior. |
-| **Democratic** | Based on people's choice through elections. |
-| **Non-racial** | Not based on race. |
-| **Emancipation** | Freedom from restriction or control. |
-| **Deprivation** | State of lacking rightful needs or benefits. |
-| **Discrimination** | Unfair treatment based on identity. |
-| **Chevron** | V-shaped pattern. |
-| **Resilience** | Ability to endure hardship and recover. |
-| **Profound** | Deep and strong. |
-| **Prejudice** | Unfair dislike or judgment without good reason. |
-| **Obligation** | Duty or responsibility. |
-| **Transitory** | Temporary; not permanent. |
-| **Indivisible** | Cannot be divided. |
-| **Captivity** | State of being confined or imprisoned. |
-| **Habitat** | Natural home of an animal or plant. |
+| Term                | Meaning                                                           |
+| ------------------- | ----------------------------------------------------------------- |
+| **Apartheid**       | Political system separating people by race.                       |
+| **Inauguration**    | Formal ceremony marking the beginning of an office or government. |
+| **Dignitary**       | Important public official or honoured guest.                      |
+| **Amphitheatre**    | Open building or space with rising rows of seats.                 |
+| **White supremacy** | Belief or system that treats white people as superior.            |
+| **Democratic**      | Based on people's choice through elections.                       |
+| **Non-racial**      | Not based on race.                                                |
+| **Emancipation**    | Freedom from restriction or control.                              |
+| **Deprivation**     | State of lacking rightful needs or benefits.                      |
+| **Discrimination**  | Unfair treatment based on identity.                               |
+| **Chevron**         | V-shaped pattern.                                                 |
+| **Resilience**      | Ability to endure hardship and recover.                           |
+| **Profound**        | Deep and strong.                                                  |
+| **Prejudice**       | Unfair dislike or judgment without good reason.                   |
+| **Obligation**      | Duty or responsibility.                                           |
+| **Transitory**      | Temporary; not permanent.                                         |
+| **Indivisible**     | Cannot be divided.                                                |
+| **Captivity**       | State of being confined or imprisoned.                            |
+| **Habitat**         | Natural home of an animal or plant.                               |
 
 ---
 
@@ -102,14 +103,14 @@ Apartheid separated people according to race and gave power and privilege to the
 
 ## Nelson Mandela
 
-| Detail | Information |
-|---|---|
-| **Full name** | Nelson Rolihlahla Mandela |
-| **Organisation** | African National Congress (ANC) |
-| **Cause** | Struggle against apartheid |
-| **Imprisonment** | Spent about 27 years in prison |
+| Detail            | Information                                         |
+| ----------------- | --------------------------------------------------- |
+| **Full name**     | Nelson Rolihlahla Mandela                           |
+| **Organisation**  | African National Congress (ANC)                     |
+| **Cause**         | Struggle against apartheid                          |
+| **Imprisonment**  | Spent about 27 years in prison                      |
 | **Historic role** | Became South Africa's first black President in 1994 |
-| **Autobiography** | Long Walk to Freedom |
+| **Autobiography** | Long Walk to Freedom                                |
 
 ## The Inauguration
 
@@ -117,14 +118,14 @@ The extract describes Mandela's presidential inauguration on **10 May 1994** at 
 
 ## Expression Matching
 
-| Expression | Meaning |
-|---|---|
-| **A rainbow gathering of different colours and nations** | A beautiful coming together of various peoples, like colours in a rainbow. |
-| **The seat of white supremacy** | The centre of racial superiority and white power. |
-| **Be overwhelmed with a sense of history** | Feel deeply emotional while remembering the past events that led to the moment. |
-| **Resilience that defies the imagination** | Almost unimaginable ability to endure suffering without losing hope or courage. |
-| **A glimmer of humanity** | A sign of goodness, kindness, pity, justice, or human feeling. |
-| **A twilight existence** | A half-secret life, like life in fading light between day and night. |
+| Expression                                               | Meaning                                                                         |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| **A rainbow gathering of different colours and nations** | A beautiful coming together of various peoples, like colours in a rainbow.      |
+| **The seat of white supremacy**                          | The centre of racial superiority and white power.                               |
+| **Be overwhelmed with a sense of history**               | Feel deeply emotional while remembering the past events that led to the moment. |
+| **Resilience that defies the imagination**               | Almost unimaginable ability to endure suffering without losing hope or courage. |
+| **A glimmer of humanity**                                | A sign of goodness, kindness, pity, justice, or human feeling.                  |
+| **A twilight existence**                                 | A half-secret life, like life in fading light between day and night.            |
 
 ---
 
@@ -132,12 +133,12 @@ The extract describes Mandela's presidential inauguration on **10 May 1994** at 
 
 ## Text Identity
 
-| Detail | Information |
-|---|---|
-| **Title** | Nelson Mandela: Long Walk to Freedom |
-| **Form** | Autobiographical extract |
-| **Speaker** | Nelson Mandela |
-| **Main Event** | Presidential inauguration in 1994 |
+| Detail          | Information                                                               |
+| --------------- | ------------------------------------------------------------------------- |
+| **Title**       | Nelson Mandela: Long Walk to Freedom                                      |
+| **Form**        | Autobiographical extract                                                  |
+| **Speaker**     | Nelson Mandela                                                            |
+| **Main Event**  | Presidential inauguration in 1994                                         |
 | **Main Themes** | Freedom, democracy, sacrifice, courage, reconciliation, and human dignity |
 
 ## Short Summary
@@ -154,13 +155,13 @@ Finally, Mandela explains freedom. As a child, he thought freedom meant simple p
 
 ## Mandela's Major Ideas
 
-| Idea | Explanation |
-|---|---|
-| **Freedom is collective** | One person is not truly free while others are oppressed. |
-| **Courage conquers fear** | Brave people feel fear but overcome it. |
-| **Love is natural** | Hatred is learned; love can be taught. |
-| **Oppressor also loses humanity** | Prejudice imprisons the oppressor's mind. |
-| **History matters** | The inauguration is meaningful because of past sacrifices. |
+| Idea                                | Explanation                                                                    |
+| ----------------------------------- | ------------------------------------------------------------------------------ |
+| **Freedom is collective**           | One person is not truly free while others are oppressed.                       |
+| **Courage conquers fear**           | Brave people feel fear but overcome it.                                        |
+| **Love is natural**                 | Hatred is learned; love can be taught.                                         |
+| **Oppressor also loses humanity**   | Prejudice imprisons the oppressor's mind.                                      |
+| **History matters**                 | The inauguration is meaningful because of past sacrifices.                     |
 | **Political freedom is not enough** | Freedom must include liberation from poverty, deprivation, and discrimination. |
 
 ---
@@ -203,9 +204,9 @@ Two anthems were sung to symbolise unity and reconciliation between groups that 
 
 ### 3. How does Mandela describe South African government in two periods?
 
-| Period | Description |
-|---|---|
-| **First decade of twentieth century** | A system of racial domination was created. |
+| Period                                | Description                                                                    |
+| ------------------------------------- | ------------------------------------------------------------------------------ |
+| **First decade of twentieth century** | A system of racial domination was created.                                     |
 | **Final decade of twentieth century** | That system was replaced by one recognising rights and freedoms of all people. |
 
 ### 4. What does courage mean to Mandela?
@@ -258,33 +259,33 @@ It transformed him from a frightened young man into a bold one, from a law-abidi
 
 ## Noun-Verb Pairs
 
-| Verb | Noun |
-|---|---|
-| form | formation |
-| govern | government |
-| oblige | obligation |
+| Verb         | Noun           |
+| ------------ | -------------- |
+| form         | formation      |
+| govern       | government     |
+| oblige       | obligation     |
 | discriminate | discrimination |
-| deprive | deprivation |
-| emancipate | emancipation |
-| oppress | oppression |
-| demonstrate | demonstration |
-| install | installation |
-| dominate | domination |
-| contribute | contribution |
-| resist | resistance |
-| constitute | constitution |
-| rebel | rebellion |
+| deprive      | deprivation    |
+| emancipate   | emancipation   |
+| oppress      | oppression     |
+| demonstrate  | demonstration  |
+| install      | installation   |
+| dominate     | domination     |
+| contribute   | contribution   |
+| resist       | resistance     |
+| constitute   | constitution   |
+| rebel        | rebellion      |
 
 ## Martin Luther King Paragraph
 
-| Verb | Noun Form |
-|---|---|
+| Verb       | Noun Form    |
+| ---------- | ------------ |
 | contribute | contribution |
-| assist | assistance |
-| subjugate | subjugation |
-| humiliate | humiliation |
-| imprison | imprisonment |
-| resist | resistance |
+| assist     | assistance   |
+| subjugate  | subjugation  |
+| humiliate  | humiliation  |
+| imprison   | imprisonment |
+| resist     | resistance   |
 
 Completed idea:
 
@@ -294,32 +295,32 @@ Martin Luther King's **contribution** began when he came to the **assistance** o
 
 Normally, we do not use **the** before proper names. But when used with proper names, **the** can mean "people of that type".
 
-| Sentence | Meaning |
-|---|---|
-| the Oliver Tambos, the Walter Sisulus | men like Oliver Tambo and Walter Sisulu; leaders of that type |
-| the Amitabh Bachchans and Shah Rukh Khans | famous film stars and celebrities of that type |
+| Sentence                                    | Meaning                                                             |
+| ------------------------------------------- | ------------------------------------------------------------------- |
+| the Oliver Tambos, the Walter Sisulus       | men like Oliver Tambo and Walter Sisulu; leaders of that type       |
+| the Amitabh Bachchans and Shah Rukh Khans   | famous film stars and celebrities of that type                      |
 | Madhuri Dixit is the Madhubala of our times | Madhuri Dixit is comparable to Madhubala in beauty, talent, or fame |
-| the Alexanders, Napoleons and Hitlers | conquerors, rulers, and dictators of those types |
+| the Alexanders, Napoleons and Hitlers       | conquerors, rulers, and dictators of those types                    |
 
 ## Idiomatic Expressions
 
-| Expression | Meaning |
-|---|---|
-| **not unmindful of the fact** | aware of the fact |
-| **pushed to our limits** | felt unable to endure suffering any longer |
-| **keep me going** | help me continue to live in hope |
-| **earning my keep** | earning enough money to live on |
+| Expression                    | Meaning                                    |
+| ----------------------------- | ------------------------------------------ |
+| **not unmindful of the fact** | aware of the fact                          |
+| **pushed to our limits**      | felt unable to endure suffering any longer |
+| **keep me going**             | help me continue to live in hope           |
+| **earning my keep**           | earning enough money to live on            |
 
 ## Mandela's Balanced Contrasts
 
-| First Part | Completing Contrast |
-|---|---|
-| For decades the Union Buildings had been the seat of white supremacy, and now... | it was the site of a rainbow gathering of different colours and nations. |
-| The generals saluted Mandela... | not so many years before they would have arrested him. |
-| Neither group knew the lyrics of the anthem they once despised... | but they would soon know the words by heart. |
-| South Africa is rich in minerals and gems... | but its greatest wealth is its people. |
-| The air show was not only a display of precision and military force... | but a demonstration of loyalty to democracy. |
-| The desire for freedom transformed... | a frightened young man into a bold one, a law-abiding attorney into a criminal, and a family-loving husband into a man without a home. |
+| First Part                                                                       | Completing Contrast                                                                                                                    |
+| -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| For decades the Union Buildings had been the seat of white supremacy, and now... | it was the site of a rainbow gathering of different colours and nations.                                                               |
+| The generals saluted Mandela...                                                  | not so many years before they would have arrested him.                                                                                 |
+| Neither group knew the lyrics of the anthem they once despised...                | but they would soon know the words by heart.                                                                                           |
+| South Africa is rich in minerals and gems...                                     | but its greatest wealth is its people.                                                                                                 |
+| The air show was not only a display of precision and military force...           | but a demonstration of loyalty to democracy.                                                                                           |
+| The desire for freedom transformed...                                            | a frightened young man into a bold one, a law-abiding attorney into a criminal, and a family-loving husband into a man without a home. |
 
 ## Colour Prejudice Paragraph
 
@@ -329,9 +330,9 @@ Colour prejudice exists when people judge others by skin tone. In many societies
 
 ## Homophones and Similar Spellings
 
-| Sentence | Words | Meaning Difference |
-|---|---|---|
-| The bandage was wound around the wound. | wound / wound | wrapped / injury |
+| Sentence                                                 | Words                     | Meaning Difference              |
+| -------------------------------------------------------- | ------------------------- | ------------------------------- |
+| The bandage was wound around the wound.                  | wound / wound             | wrapped / injury                |
 | The soldier decided to desert his dessert in the desert. | desert / dessert / desert | abandon / sweet dish / dry land |
 
 ---
@@ -344,13 +345,13 @@ Colour prejudice exists when people judge others by skin tone. In many societies
 
 ## Points for Speech
 
-| Point | Explanation |
-|---|---|
-| **Political freedom** | Right to vote and participate in government. |
-| **Economic freedom** | Freedom from hunger, poverty, and unemployment. |
-| **Social freedom** | Freedom from caste, gender, race, religion, and class discrimination. |
-| **Human rights** | Constitutionally protected dignity and equality. |
-| **Responsibility** | Citizens must oppose prejudice and injustice. |
+| Point                 | Explanation                                                           |
+| --------------------- | --------------------------------------------------------------------- |
+| **Political freedom** | Right to vote and participate in government.                          |
+| **Economic freedom**  | Freedom from hunger, poverty, and unemployment.                       |
+| **Social freedom**    | Freedom from caste, gender, race, religion, and class discrimination. |
+| **Human rights**      | Constitutionally protected dignity and equality.                      |
+| **Responsibility**    | Citizens must oppose prejudice and injustice.                         |
 
 ## Two-Minute Speech Model
 
@@ -368,13 +369,13 @@ Therefore, true liberty requires justice, equal opportunity, education, and resp
 
 ## Text Identity
 
-| Detail | Information |
-|---|---|
-| **Poem** | A Tiger in the Zoo |
-| **Poet** | Leslie Norris |
-| **Main Theme** | Captivity versus freedom |
+| Detail               | Information                                |
+| -------------------- | ------------------------------------------ |
+| **Poem**             | A Tiger in the Zoo                         |
+| **Poet**             | Leslie Norris                              |
+| **Main Theme**       | Captivity versus freedom                   |
 | **Central Contrast** | Tiger in cage and tiger in natural habitat |
-| **Mood** | Sad, reflective, and critical |
+| **Mood**             | Sad, reflective, and critical              |
 
 ## Short Summary
 
@@ -384,72 +385,72 @@ Instead, he is trapped in a concrete cell, ignoring visitors. At night, he hears
 
 ## Stanza Location
 
-| Stanza | Place |
-|---|---|
-| **1** | Zoo |
-| **2** | Jungle |
-| **3** | Jungle edge / village edge |
-| **4** | Zoo |
-| **5** | Zoo |
+| Stanza | Place                      |
+| ------ | -------------------------- |
+| **1**  | Zoo                        |
+| **2**  | Jungle                     |
+| **3**  | Jungle edge / village edge |
+| **4**  | Zoo                        |
+| **5**  | Zoo                        |
 
 ## Movement and Action Words
 
-| Tiger in Cage | Tiger in Wild |
-|---|---|
-| stalks | lurking |
-| walks few steps | sliding |
-| quiet rage | snarling |
-| locked | baring fangs |
-| ignoring visitors | terrorising |
-| hears cars | moving through grass |
-| stares at stars | hunting near water hole |
+| Tiger in Cage     | Tiger in Wild           |
+| ----------------- | ----------------------- |
+| stalks            | lurking                 |
+| walks few steps   | sliding                 |
+| quiet rage        | snarling                |
+| locked            | baring fangs            |
+| ignoring visitors | terrorising             |
+| hears cars        | moving through grass    |
+| stares at stars   | hunting near water hole |
 
 ## Place Words
 
-| Zoo | Wild Habitat |
-|---|---|
-| cage | shadow |
-| few steps | long grass |
-| concrete cell | water hole |
-| bars | plump deer |
-| visitors | jungle's edge |
-| patrolling cars | village edge |
+| Zoo             | Wild Habitat  |
+| --------------- | ------------- |
+| cage            | shadow        |
+| few steps       | long grass    |
+| concrete cell   | water hole    |
+| bars            | plump deer    |
+| visitors        | jungle's edge |
+| patrolling cars | village edge  |
 
 ## Repetition
 
-| Repeated Word | Effect |
-|---|---|
-| **quiet** | Shows suppressed anger; the tiger is powerful but controlled. |
+| Repeated Word | Effect                                                               |
+| ------------- | -------------------------------------------------------------------- |
+| **quiet**     | Shows suppressed anger; the tiger is powerful but controlled.        |
 | **brilliant** | Connects the tiger's eyes with stars, suggesting beauty and longing. |
 
 ## Themes
 
-| Theme | Explanation |
-|---|---|
-| **Captivity** | The tiger is physically alive but denied natural life. |
-| **Lost dignity** | A powerful creature is reduced to a display. |
-| **Freedom** | The wild habitat represents natural identity. |
-| **Human interference** | The zoo cage shows human control over animal life. |
-| **Silent suffering** | The tiger's rage is quiet because he cannot act freely. |
+| Theme                  | Explanation                                             |
+| ---------------------- | ------------------------------------------------------- |
+| **Captivity**          | The tiger is physically alive but denied natural life.  |
+| **Lost dignity**       | A powerful creature is reduced to a display.            |
+| **Freedom**            | The wild habitat represents natural identity.           |
+| **Human interference** | The zoo cage shows human control over animal life.      |
+| **Silent suffering**   | The tiger's rage is quiet because he cannot act freely. |
 
 ## Poetic Devices
 
-| Device | Example / Explanation |
-|---|---|
-| **Imagery** | vivid stripes, velvet pads, concrete cell, brilliant stars |
-| **Contrast** | cage versus jungle |
-| **Alliteration** | plump deer pass; stalking the length |
-| **Repetition** | quiet, brilliant |
-| **Symbolism** | cage symbolises lost freedom; stars symbolise unreachable freedom |
+| Device           | Example / Explanation                                             |
+| ---------------- | ----------------------------------------------------------------- |
+| **Imagery**      | vivid stripes, velvet pads, concrete cell, brilliant stars        |
+| **Contrast**     | cage versus jungle                                                |
+| **Alliteration** | plump deer pass; stalking the length                              |
+| **Repetition**   | quiet, brilliant                                                  |
+| **Symbolism**    | cage symbolises lost freedom; stars symbolise unreachable freedom |
 
 ## Debate: Are Zoos Necessary?
 
-| For Zoos | Against Zoos |
-|---|---|
-| Protect endangered species. | Animals lose natural freedom. |
-| Help public learn about wildlife. | Captivity causes stress. |
-| Support breeding programmes. | Cages cannot replace habitats. |
-| Provide medical care. | Animals become entertainment. |
+| For Zoos                          | Against Zoos                   |
+| --------------------------------- | ------------------------------ |
+| Protect endangered species.       | Animals lose natural freedom.  |
+| Help public learn about wildlife. | Captivity causes stress.       |
+| Support breeding programmes.      | Cages cannot replace habitats. |
+| Provide medical care.             | Animals become entertainment.  |
 
 Balanced view:
 
@@ -457,10 +458,10 @@ Zoos may be justified only when they focus on conservation, rescue, research, an
 
 ## Supplementary Poems
 
-| Poem | Main Idea |
-|---|---|
-| **The Tiger** | A caged tiger thinks about freedom and danger in the wild. |
-| **The Panther** | A captive animal's vision and will are crushed by bars. |
+| Poem                 | Main Idea                                                                    |
+| -------------------- | ---------------------------------------------------------------------------- |
+| **The Tiger**        | A caged tiger thinks about freedom and danger in the wild.                   |
+| **The Panther**      | A captive animal's vision and will are crushed by bars.                      |
 | **The Greater Cats** | Large cats behind bars seem to remember deserts, skies, and natural freedom. |
 
 ---
@@ -469,43 +470,43 @@ Zoos may be justified only when they focus on conservation, rescue, research, an
 
 ## Mandela Prose
 
-| Item | Key Point |
-|---|---|
-| Date | 10 May 1994 |
-| Place | Union Buildings, Pretoria |
-| Event | Mandela's inauguration as President |
-| Old system | Apartheid |
-| New ideal | Democratic, non-racial government |
-| Courage | Triumph over fear |
-| Natural emotion | Love |
-| Freedom | Indivisible |
-| Oppressor | Also not free; prisoner of hatred |
+| Item            | Key Point                           |
+| --------------- | ----------------------------------- |
+| Date            | 10 May 1994                         |
+| Place           | Union Buildings, Pretoria           |
+| Event           | Mandela's inauguration as President |
+| Old system      | Apartheid                           |
+| New ideal       | Democratic, non-racial government   |
+| Courage         | Triumph over fear                   |
+| Natural emotion | Love                                |
+| Freedom         | Indivisible                         |
+| Oppressor       | Also not free; prisoner of hatred   |
 
 ## A Tiger in the Zoo
 
-| Item | Key Point |
-|---|---|
-| Poet | Leslie Norris |
-| Main contrast | Cage versus jungle |
-| Tiger's mood | quiet rage |
-| Wild images | grass, water hole, deer, jungle edge |
-| Captive images | cage, concrete cell, bars, visitors |
-| Message | Captivity destroys natural freedom and dignity |
+| Item           | Key Point                                      |
+| -------------- | ---------------------------------------------- |
+| Poet           | Leslie Norris                                  |
+| Main contrast  | Cage versus jungle                             |
+| Tiger's mood   | quiet rage                                     |
+| Wild images    | grass, water hole, deer, jungle edge           |
+| Captive images | cage, concrete cell, bars, visitors            |
+| Message        | Captivity destroys natural freedom and dignity |
 
 ---
 
 # Unit 2H: Common Mistakes and Corrections
 
-| Mistake | Better Understanding |
-|---|---|
-| Thinking apartheid was only social dislike. | It was a political and legal system of racial segregation. |
-| Seeing inauguration as only personal success. | It marked national democratic transformation. |
-| Saying courage means no fear. | Mandela says courage means conquering fear. |
-| Forgetting the oppressor's loss. | Mandela says both oppressor and oppressed lose humanity. |
-| Treating freedom as only political. | Mandela links freedom with dignity, poverty, deprivation, and discrimination. |
-| Reading the tiger poem as only animal description. | It is a critique of captivity. |
-| Thinking the tiger is calm. | His rage is quiet, not absent. |
-| Ignoring contrast. | The poem depends on zoo versus wild habitat. |
+| Mistake                                            | Better Understanding                                                          |
+| -------------------------------------------------- | ----------------------------------------------------------------------------- |
+| Thinking apartheid was only social dislike.        | It was a political and legal system of racial segregation.                    |
+| Seeing inauguration as only personal success.      | It marked national democratic transformation.                                 |
+| Saying courage means no fear.                      | Mandela says courage means conquering fear.                                   |
+| Forgetting the oppressor's loss.                   | Mandela says both oppressor and oppressed lose humanity.                      |
+| Treating freedom as only political.                | Mandela links freedom with dignity, poverty, deprivation, and discrimination. |
+| Reading the tiger poem as only animal description. | It is a critique of captivity.                                                |
+| Thinking the tiger is calm.                        | His rage is quiet, not absent.                                                |
+| Ignoring contrast.                                 | The poem depends on zoo versus wild habitat.                                  |
 
 ---
 
@@ -593,4 +594,4 @@ For the poem:
 
 ---
 
-*Source: NCERT Class 10 - English First Flight, Chapter 2 raw file. Learner-facing version manually rewritten from the extracted content of "Nelson Mandela: Long Walk to Freedom" and "A Tiger in the Zoo".*
+_Source: NCERT Class 10 - English First Flight, Chapter 2 raw file. Learner-facing version manually rewritten from the extracted content of "Nelson Mandela: Long Walk to Freedom" and "A Tiger in the Zoo"._

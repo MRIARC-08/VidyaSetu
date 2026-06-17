@@ -1,19 +1,20 @@
 # Chapter 7: Lifelines of National Economy
+
 ### NCERT Class 10 - Social Geography
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-| --- | --- |
-| Class | 10 |
-| Subject | Social Geography |
-| Chapter | 7 - Lifelines of National Economy |
+| Detail           | Learner-Friendly Information                                                                           |
+| ---------------- | ------------------------------------------------------------------------------------------------------ |
+| Class            | 10                                                                                                     |
+| Subject          | Social Geography                                                                                       |
+| Chapter          | 7 - Lifelines of National Economy                                                                      |
 | Central Question | Why are transport, communication, trade, and tourism called the lifelines of a nation and its economy? |
-| Main Themes | Roadways, railways, pipelines, waterways, ports, airways, communication, international trade, tourism |
-| Main Skills | Map reading, route identification, comparison, economic reasoning, short and long answer writing |
-| Exam Importance | High: road classification, railways, pipelines, ports, trade, communication, tourism |
+| Main Themes      | Roadways, railways, pipelines, waterways, ports, airways, communication, international trade, tourism  |
+| Main Skills      | Map reading, route identification, comparison, economic reasoning, short and long answer writing       |
+| Exam Importance  | High: road classification, railways, pipelines, ports, trade, communication, tourism                   |
 
 ---
 
@@ -35,16 +36,16 @@ If a country produces goods but cannot move them, sell them, communicate informa
 
 After studying this chapter, you should be able to:
 
-| Skill | You Should Be Able To |
-| --- | --- |
-| Define | Explain transport, communication, trade, international trade, balance of trade, tourism, road density, pipeline transport, and mass communication. |
-| Classify | Classify transport into land, water, and air transport. |
-| Explain | Describe why transport and communication are lifelines of the economy. |
-| Compare | Differentiate roadways, railways, pipelines, waterways, and airways. |
-| Locate | Identify major corridors, highways, pipelines, waterways, ports, and airports. |
-| Analyse | Explain advantages and problems of each mode of transport. |
-| Evaluate | Explain changing nature of international trade and importance of tourism. |
-| Write | Prepare strong answers for 30-word and 120-word questions. |
+| Skill    | You Should Be Able To                                                                                                                              |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Define   | Explain transport, communication, trade, international trade, balance of trade, tourism, road density, pipeline transport, and mass communication. |
+| Classify | Classify transport into land, water, and air transport.                                                                                            |
+| Explain  | Describe why transport and communication are lifelines of the economy.                                                                             |
+| Compare  | Differentiate roadways, railways, pipelines, waterways, and airways.                                                                               |
+| Locate   | Identify major corridors, highways, pipelines, waterways, ports, and airports.                                                                     |
+| Analyse  | Explain advantages and problems of each mode of transport.                                                                                         |
+| Evaluate | Explain changing nature of international trade and importance of tourism.                                                                          |
+| Write    | Prepare strong answers for 30-word and 120-word questions.                                                                                         |
 
 ---
 
@@ -74,34 +75,34 @@ Tourism brings foreign exchange, employment, local market growth, cultural excha
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Transport | Movement of goods, people, and services from one place to another. |
-| Communication | Exchange of information, ideas, messages, and knowledge. |
-| Trade | Exchange of goods among people, states, or countries. |
-| Local Trade | Trade carried out within villages, towns, or cities. |
-| State-Level Trade | Trade between two or more states. |
-| International Trade | Trade between two or more countries. |
-| Export | Goods or services sold to another country. |
-| Import | Goods or services bought from another country. |
-| Balance of Trade | Difference between value of exports and imports. |
-| Favourable Balance of Trade | When export value is greater than import value. |
-| Unfavourable Balance of Trade | When import value is greater than export value. |
-| Road Density | Length of road per 100 sq km of area. |
-| Golden Quadrilateral | Super highway network linking Delhi, Kolkata, Chennai, Mumbai, and Delhi. |
-| North-South Corridor | Corridor linking Srinagar and Kanniyakumari. |
-| East-West Corridor | Corridor linking Silchar and Porbandar. |
-| National Highways | Primary road systems linking extreme parts of the country. |
-| State Highways | Roads linking state capitals with district headquarters. |
-| District Roads | Roads connecting district headquarters with other places in the district. |
-| Border Roads | Roads built and maintained in border areas for strategic and economic purposes. |
-| Metalled Roads | All-weather roads made of cement, concrete, or bitumen. |
-| Unmetalled Roads | Roads that may become unusable in the rainy season. |
-| Pipeline Transport | Transport of liquids, gases, and slurry through pipelines. |
-| Waterways | Transport routes through rivers, canals, backwaters, and seas. |
-| Air Transport | Transport by aircraft; fastest and useful in difficult terrain. |
-| Mass Communication | Communication with large numbers of people through radio, television, press, films, and digital media. |
-| Tourism | Travel for recreation, culture, business, heritage, medical, ecological, or adventure purposes. |
+| Term                          | Meaning                                                                                                |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Transport                     | Movement of goods, people, and services from one place to another.                                     |
+| Communication                 | Exchange of information, ideas, messages, and knowledge.                                               |
+| Trade                         | Exchange of goods among people, states, or countries.                                                  |
+| Local Trade                   | Trade carried out within villages, towns, or cities.                                                   |
+| State-Level Trade             | Trade between two or more states.                                                                      |
+| International Trade           | Trade between two or more countries.                                                                   |
+| Export                        | Goods or services sold to another country.                                                             |
+| Import                        | Goods or services bought from another country.                                                         |
+| Balance of Trade              | Difference between value of exports and imports.                                                       |
+| Favourable Balance of Trade   | When export value is greater than import value.                                                        |
+| Unfavourable Balance of Trade | When import value is greater than export value.                                                        |
+| Road Density                  | Length of road per 100 sq km of area.                                                                  |
+| Golden Quadrilateral          | Super highway network linking Delhi, Kolkata, Chennai, Mumbai, and Delhi.                              |
+| North-South Corridor          | Corridor linking Srinagar and Kanniyakumari.                                                           |
+| East-West Corridor            | Corridor linking Silchar and Porbandar.                                                                |
+| National Highways             | Primary road systems linking extreme parts of the country.                                             |
+| State Highways                | Roads linking state capitals with district headquarters.                                               |
+| District Roads                | Roads connecting district headquarters with other places in the district.                              |
+| Border Roads                  | Roads built and maintained in border areas for strategic and economic purposes.                        |
+| Metalled Roads                | All-weather roads made of cement, concrete, or bitumen.                                                |
+| Unmetalled Roads              | Roads that may become unusable in the rainy season.                                                    |
+| Pipeline Transport            | Transport of liquids, gases, and slurry through pipelines.                                             |
+| Waterways                     | Transport routes through rivers, canals, backwaters, and seas.                                         |
+| Air Transport                 | Transport by aircraft; fastest and useful in difficult terrain.                                        |
+| Mass Communication            | Communication with large numbers of people through radio, television, press, films, and digital media. |
+| Tourism                       | Travel for recreation, culture, business, heritage, medical, ecological, or adventure purposes.        |
 
 ---
 
@@ -119,11 +120,11 @@ Foodgrains grown in Punjab may be consumed in Kerala. Coal mined in Jharkhand ma
 
 Transport can be classified according to the three domains of Earth:
 
-| Domain | Transport Type |
-| --- | --- |
-| Land | Roadways, railways, pipelines |
-| Water | Inland waterways, sea routes |
-| Air | Domestic and international airways |
+| Domain | Transport Type                     |
+| ------ | ---------------------------------- |
+| Land   | Roadways, railways, pipelines      |
+| Water  | Inland waterways, sea routes       |
+| Air    | Domestic and international airways |
 
 ## Transport, Communication, and Trade Are Complementary
 
@@ -155,15 +156,15 @@ Roadways came before railways in India and still have several advantages.
 
 ## Merits of Roadways
 
-| Merit | Explanation |
-| --- | --- |
-| Lower construction cost | Roads cost less to build than railway lines. |
-| Difficult terrain | Roads can cross dissected and undulating topography. |
-| Mountain slopes | Roads can negotiate higher gradients and reach mountains. |
+| Merit                    | Explanation                                                                       |
+| ------------------------ | --------------------------------------------------------------------------------- |
+| Lower construction cost  | Roads cost less to build than railway lines.                                      |
+| Difficult terrain        | Roads can cross dissected and undulating topography.                              |
+| Mountain slopes          | Roads can negotiate higher gradients and reach mountains.                         |
 | Short-distance transport | Economical for few passengers and small quantities of goods over short distances. |
-| Door-to-door service | Reduces loading and unloading costs. |
-| Feeder role | Links villages, farms, railway stations, ports, and airports. |
-| Flexibility | Routes and timing are more flexible than railways. |
+| Door-to-door service     | Reduces loading and unloading costs.                                              |
+| Feeder role              | Links villages, farms, railway stations, ports, and airports.                     |
+| Flexibility              | Routes and timing are more flexible than railways.                                |
 
 ## Road Classification in India
 
@@ -192,10 +193,10 @@ It is a six-lane super highway project.
 
 ## North-South and East-West Corridors
 
-| Corridor | Connects |
-| --- | --- |
+| Corridor             | Connects                                                     |
+| -------------------- | ------------------------------------------------------------ |
 | North-South Corridor | Srinagar in Jammu and Kashmir to Kanniyakumari in Tamil Nadu |
-| East-West Corridor | Silchar in Assam to Porbandar in Gujarat |
+| East-West Corridor   | Silchar in Assam to Porbandar in Gujarat                     |
 
 ## Objective
 
@@ -215,12 +216,12 @@ They are laid and maintained by the Central Public Works Department.
 
 Important examples from the chapter:
 
-| Highway | Detail |
-| --- | --- |
-| Sher Shah Suri Marg | National Highway No. 1 between Delhi and Amritsar |
-| National Highway 7 | Longest highway in the chapter's data, between Varanasi and Kanniyakumari via Jabalpur, Nagpur, Hyderabad, Bengaluru, and Madurai |
-| National Highway 8 | Connects Delhi and Mumbai |
-| National Highway 15 | Covers most of Rajasthan |
+| Highway             | Detail                                                                                                                            |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Sher Shah Suri Marg | National Highway No. 1 between Delhi and Amritsar                                                                                 |
+| National Highway 7  | Longest highway in the chapter's data, between Varanasi and Kanniyakumari via Jabalpur, Nagpur, Hyderabad, Bengaluru, and Madurai |
+| National Highway 8  | Connects Delhi and Mumbai                                                                                                         |
+| National Highway 15 | Covers most of Rajasthan                                                                                                          |
 
 ---
 
@@ -263,10 +264,10 @@ Border roads:
 
 ## Metalled and Unmetalled Roads
 
-| Type | Meaning |
-| --- | --- |
-| Metalled Roads | Made of cement, concrete, or bitumen; all-weather roads |
-| Unmetalled Roads | Not all-weather; often unusable during rainy season |
+| Type             | Meaning                                                 |
+| ---------------- | ------------------------------------------------------- |
+| Metalled Roads   | Made of cement, concrete, or bitumen; all-weather roads |
+| Unmetalled Roads | Not all-weather; often unusable during rainy season     |
 
 ## Road Density
 
@@ -353,15 +354,15 @@ Rail transport is most convenient in the northern plains because:
 
 ## Obstacles to Railway Construction
 
-| Region | Difficulty |
-| --- | --- |
-| Northern plains | Many rivers require bridges |
-| Peninsular hills | Tracks need gaps, passes, and tunnels |
-| Himalayan region | High relief, sparse population, fewer economic opportunities |
-| Western Rajasthan | Sandy plains |
-| Gujarat | Swamps |
-| Madhya Pradesh, Chhattisgarh, Odisha, Jharkhand | Forested tracts |
-| Western Ghats | Need passes through the Sahyadri |
+| Region                                          | Difficulty                                                   |
+| ----------------------------------------------- | ------------------------------------------------------------ |
+| Northern plains                                 | Many rivers require bridges                                  |
+| Peninsular hills                                | Tracks need gaps, passes, and tunnels                        |
+| Himalayan region                                | High relief, sparse population, fewer economic opportunities |
+| Western Rajasthan                               | Sandy plains                                                 |
+| Gujarat                                         | Swamps                                                       |
+| Madhya Pradesh, Chhattisgarh, Odisha, Jharkhand | Forested tracts                                              |
+| Western Ghats                                   | Need passes through the Sahyadri                             |
 
 ## Konkan Railway
 
@@ -398,13 +399,13 @@ Earlier pipelines were mainly used to transport water to cities and industries. 
 
 ## Advantages
 
-| Advantage | Explanation |
-| --- | --- |
-| Low running cost | Initial cost is high, but later operating cost is low. |
-| No trans-shipment loss | Goods do not need repeated loading and unloading. |
-| No delays | Continuous movement is possible. |
-| Inland refineries possible | Refineries far from coasts can operate through pipelines. |
-| Useful for gas-based industries | Fertilizer and power plants can be far from gas fields. |
+| Advantage                       | Explanation                                               |
+| ------------------------------- | --------------------------------------------------------- |
+| Low running cost                | Initial cost is high, but later operating cost is low.    |
+| No trans-shipment loss          | Goods do not need repeated loading and unloading.         |
+| No delays                       | Continuous movement is possible.                          |
+| Inland refineries possible      | Refineries far from coasts can operate through pipelines. |
+| Useful for gas-based industries | Fertilizer and power plants can be far from gas fields.   |
 
 ## Important Pipeline Networks
 
@@ -477,13 +478,13 @@ India has inland navigation waterways of about 14,500 km. Of this, only about 5,
 
 ## National Waterways Mentioned
 
-| National Waterway | Route | Length |
-| --- | --- | --- |
-| NW 1 | Ganga between Allahabad and Haldia | 1,620 km |
-| NW 2 | Brahmaputra between Sadiya and Dhubri | 891 km |
-| NW 3 | West Coast Canal in Kerala, including Kottapuram-Kollam, Udyogamandal, and Champakkara canals | 205 km |
-| NW 4 | Specified stretches of Godavari and Krishna rivers with Kakinada-Puducherry canal stretch | 1,078 km |
-| NW 5 | Brahmani, Matai, delta channels of Mahanadi and Brahmani, East Coast Canal | 588 km |
+| National Waterway | Route                                                                                         | Length   |
+| ----------------- | --------------------------------------------------------------------------------------------- | -------- |
+| NW 1              | Ganga between Allahabad and Haldia                                                            | 1,620 km |
+| NW 2              | Brahmaputra between Sadiya and Dhubri                                                         | 891 km   |
+| NW 3              | West Coast Canal in Kerala, including Kottapuram-Kollam, Udyogamandal, and Champakkara canals | 205 km   |
+| NW 4              | Specified stretches of Godavari and Krishna rivers with Kakinada-Puducherry canal stretch     | 1,078 km |
+| NW 5              | Brahmani, Matai, delta channels of Mahanadi and Brahmani, East Coast Canal                    | 588 km   |
 
 ## Other Inland Waterways
 
@@ -513,20 +514,20 @@ The chapter mentions:
 
 ## Major Ports and Features
 
-| Port | State or Coast | Important Feature |
-| --- | --- | --- |
-| Kandla | Gujarat | Tidal port; developed after Independence to reduce pressure on Mumbai after loss of Karachi |
-| Mumbai | Maharashtra | Biggest port; spacious natural and well-sheltered harbour |
-| Jawaharlal Nehru Port | Maharashtra | Developed to decongest Mumbai and serve as hub port |
-| Marmagao | Goa | Premier iron ore exporting port; major share of iron ore export |
-| New Mangalore | Karnataka | Exports iron ore concentrates from Kudremukh mines |
-| Kochchi | Kerala | Extreme south-western port; natural harbour at entrance of lagoon |
-| Tuticorin | Tamil Nadu | Extreme south-eastern port; natural harbour and rich hinterland |
-| Chennai | Tamil Nadu | One of the oldest artificial ports; next to Mumbai in volume of trade and cargo in chapter context |
-| Vishakhapatnam | Andhra Pradesh | Deepest landlocked and well-protected port; originally for iron ore export |
-| Paradwip | Odisha | Specialises in export of iron ore |
-| Kolkata | West Bengal | Inland riverine port; serves Ganga-Brahmaputra hinterland; tidal and needs dredging of Hugli |
-| Haldia | West Bengal | Subsidiary port to relieve pressure on Kolkata |
+| Port                  | State or Coast | Important Feature                                                                                  |
+| --------------------- | -------------- | -------------------------------------------------------------------------------------------------- |
+| Kandla                | Gujarat        | Tidal port; developed after Independence to reduce pressure on Mumbai after loss of Karachi        |
+| Mumbai                | Maharashtra    | Biggest port; spacious natural and well-sheltered harbour                                          |
+| Jawaharlal Nehru Port | Maharashtra    | Developed to decongest Mumbai and serve as hub port                                                |
+| Marmagao              | Goa            | Premier iron ore exporting port; major share of iron ore export                                    |
+| New Mangalore         | Karnataka      | Exports iron ore concentrates from Kudremukh mines                                                 |
+| Kochchi               | Kerala         | Extreme south-western port; natural harbour at entrance of lagoon                                  |
+| Tuticorin             | Tamil Nadu     | Extreme south-eastern port; natural harbour and rich hinterland                                    |
+| Chennai               | Tamil Nadu     | One of the oldest artificial ports; next to Mumbai in volume of trade and cargo in chapter context |
+| Vishakhapatnam        | Andhra Pradesh | Deepest landlocked and well-protected port; originally for iron ore export                         |
+| Paradwip              | Odisha         | Specialises in export of iron ore                                                                  |
+| Kolkata               | West Bengal    | Inland riverine port; serves Ganga-Brahmaputra hinterland; tidal and needs dredging of Hugli       |
+| Haldia                | West Bengal    | Subsidiary port to relieve pressure on Kolkata                                                     |
 
 ## Map Memory: West to East
 
@@ -578,11 +579,11 @@ Air transport was nationalised in 1953.
 
 ## Air Services
 
-| Organisation or Type | Role |
-| --- | --- |
-| Indian Airlines, Alliance Air, private scheduled airlines, non-scheduled operators | Domestic services |
-| Air India | International services |
-| Pawanhans Helicopters Ltd. | Helicopter services to ONGC offshore operations, inaccessible areas, north-east, Jammu and Kashmir, Himachal Pradesh, Uttarakhand |
+| Organisation or Type                                                               | Role                                                                                                                              |
+| ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Indian Airlines, Alliance Air, private scheduled airlines, non-scheduled operators | Domestic services                                                                                                                 |
+| Air India                                                                          | International services                                                                                                            |
+| Pawanhans Helicopters Ltd.                                                         | Helicopter services to ONGC offshore operations, inaccessible areas, north-east, Jammu and Kashmir, Himachal Pradesh, Uttarakhand |
 
 ## Limitation
 
@@ -600,10 +601,10 @@ Modern communication allows long-distance contact without physical movement of s
 
 ## Types of Communication
 
-| Type | Examples |
-| --- | --- |
-| Personal Communication | Letters, telephone, mobile, email, personal messages |
-| Mass Communication | Radio, television, newspapers, magazines, books, films, internet |
+| Type                   | Examples                                                         |
+| ---------------------- | ---------------------------------------------------------------- |
+| Personal Communication | Letters, telephone, mobile, email, personal messages             |
+| Mass Communication     | Radio, television, newspapers, magazines, books, films, internet |
 
 ## Indian Postal Network
 
@@ -621,10 +622,10 @@ It handles:
 
 ## First-Class and Second-Class Mail
 
-| Type | Includes | Transport |
-| --- | --- | --- |
-| First-Class Mail | Cards and envelopes | Airlifted between stations using land and air |
-| Second-Class Mail | Book packets, registered newspapers, periodicals | Surface mail using land and water transport |
+| Type              | Includes                                         | Transport                                     |
+| ----------------- | ------------------------------------------------ | --------------------------------------------- |
+| First-Class Mail  | Cards and envelopes                              | Airlifted between stations using land and air |
+| Second-Class Mail | Book packets, registered newspapers, periodicals | Surface mail using land and water transport   |
 
 ## Mail Channels
 
@@ -701,11 +702,11 @@ The market is the place where exchange takes place.
 
 ## Types of Trade
 
-| Type | Meaning |
-| --- | --- |
-| Local Trade | Trade within villages, towns, or cities |
-| State-Level Trade | Trade between two or more states |
-| International Trade | Trade between two or more countries |
+| Type                | Meaning                                 |
+| ------------------- | --------------------------------------- |
+| Local Trade         | Trade within villages, towns, or cities |
+| State-Level Trade   | Trade between two or more states        |
+| International Trade | Trade between two or more countries     |
 
 ## International Trade Routes
 
@@ -723,18 +724,18 @@ International trade is considered an economic barometer of a country because it 
 
 ## Export and Import
 
-| Term | Meaning |
-| --- | --- |
-| Export | Goods and services sold to another country |
+| Term   | Meaning                                        |
+| ------ | ---------------------------------------------- |
+| Export | Goods and services sold to another country     |
 | Import | Goods and services bought from another country |
 
 ## Balance of Trade
 
 Balance of trade is the difference between the value of exports and imports.
 
-| Type | Meaning |
-| --- | --- |
-| Favourable balance of trade | Export value is greater than import value |
+| Type                          | Meaning                                   |
+| ----------------------------- | ----------------------------------------- |
+| Favourable balance of trade   | Export value is greater than import value |
 | Unfavourable balance of trade | Import value is greater than export value |
 
 ## India's Trade
@@ -825,39 +826,39 @@ Tourism should follow sustainable development by:
 
 ## Roadways and Railways
 
-| Point | Roadways | Railways |
-| --- | --- | --- |
-| Best for | Short distances, door-to-door service, difficult terrain | Long-distance passengers and heavy freight |
-| Cost | Lower construction cost | Higher construction cost |
-| Terrain | Can climb slopes and reach mountains | Difficult in mountains, deserts, swamps |
-| Flexibility | More flexible | Fixed routes |
-| Role | Feeder to railways, ports, airports | Principal mode for long-distance freight and passengers |
+| Point       | Roadways                                                 | Railways                                                |
+| ----------- | -------------------------------------------------------- | ------------------------------------------------------- |
+| Best for    | Short distances, door-to-door service, difficult terrain | Long-distance passengers and heavy freight              |
+| Cost        | Lower construction cost                                  | Higher construction cost                                |
+| Terrain     | Can climb slopes and reach mountains                     | Difficult in mountains, deserts, swamps                 |
+| Flexibility | More flexible                                            | Fixed routes                                            |
+| Role        | Feeder to railways, ports, airports                      | Principal mode for long-distance freight and passengers |
 
 ## Waterways and Airways
 
-| Point | Waterways | Airways |
-| --- | --- | --- |
-| Cost | Cheapest | Expensive |
-| Speed | Slow | Fastest |
-| Suitable for | Heavy and bulky goods | Passengers, urgent goods, difficult terrain |
-| Environmental impact | Fuel-efficient and environment-friendly | Higher cost and fuel use |
+| Point                | Waterways                               | Airways                                     |
+| -------------------- | --------------------------------------- | ------------------------------------------- |
+| Cost                 | Cheapest                                | Expensive                                   |
+| Speed                | Slow                                    | Fastest                                     |
+| Suitable for         | Heavy and bulky goods                   | Passengers, urgent goods, difficult terrain |
+| Environmental impact | Fuel-efficient and environment-friendly | Higher cost and fuel use                    |
 
 ## Local and International Trade
 
-| Point | Local Trade | International Trade |
-| --- | --- | --- |
-| Area | Villages, towns, cities | Between countries |
-| Routes | Mostly local roads and markets | Sea, air, and land routes |
-| Scale | Small | Large |
-| Economic indicator | Local exchange | Index of economic prosperity |
+| Point              | Local Trade                    | International Trade          |
+| ------------------ | ------------------------------ | ---------------------------- |
+| Area               | Villages, towns, cities        | Between countries            |
+| Routes             | Mostly local roads and markets | Sea, air, and land routes    |
+| Scale              | Small                          | Large                        |
+| Economic indicator | Local exchange                 | Index of economic prosperity |
 
 ## Favourable and Unfavourable Balance of Trade
 
-| Point | Favourable | Unfavourable |
-| --- | --- | --- |
-| Export value | Greater than imports | Less than imports |
-| Import value | Less than exports | Greater than exports |
-| Meaning | Country earns more from exports | Country spends more on imports |
+| Point        | Favourable                      | Unfavourable                   |
+| ------------ | ------------------------------- | ------------------------------ |
+| Export value | Greater than imports            | Less than imports              |
+| Import value | Less than exports               | Greater than exports           |
+| Meaning      | Country earns more from exports | Country spends more on imports |
 
 ---
 
@@ -989,16 +990,16 @@ Use this structure:
 
 # Common Mistakes to Avoid
 
-| Mistake | Correct Understanding |
-| --- | --- |
-| Writing transport alone is the lifeline. | Transport, communication, and trade together act as lifelines. |
-| Confusing East-West and North-South Corridor. | East-West: Silchar-Porbandar. North-South: Srinagar-Kanniyakumari. |
-| Calling pipelines cheap to build. | Initial cost is high, but running cost is low. |
-| Confusing Kandla and Mumbai ports. | Kandla is a tidal port; Mumbai is the biggest port with natural harbour. |
-| Confusing Vishakhapatnam and Chennai. | Vishakhapatnam is deepest landlocked and well-protected; Chennai is an old artificial port. |
-| Writing trade only means international trade. | Trade can be local, state-level, national, or international. |
-| Forgetting balance of trade. | Balance of trade is export value minus import value. |
-| Treating tourism as only recreation. | Tourism is trade because it creates income, jobs, and foreign exchange. |
+| Mistake                                       | Correct Understanding                                                                       |
+| --------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Writing transport alone is the lifeline.      | Transport, communication, and trade together act as lifelines.                              |
+| Confusing East-West and North-South Corridor. | East-West: Silchar-Porbandar. North-South: Srinagar-Kanniyakumari.                          |
+| Calling pipelines cheap to build.             | Initial cost is high, but running cost is low.                                              |
+| Confusing Kandla and Mumbai ports.            | Kandla is a tidal port; Mumbai is the biggest port with natural harbour.                    |
+| Confusing Vishakhapatnam and Chennai.         | Vishakhapatnam is deepest landlocked and well-protected; Chennai is an old artificial port. |
+| Writing trade only means international trade. | Trade can be local, state-level, national, or international.                                |
+| Forgetting balance of trade.                  | Balance of trade is export value minus import value.                                        |
+| Treating tourism as only recreation.          | Tourism is trade because it creates income, jobs, and foreign exchange.                     |
 
 ---
 
@@ -1006,52 +1007,52 @@ Use this structure:
 
 ## Road Types
 
-| Road Type | Connects or Function |
-| --- | --- |
-| Golden Quadrilateral | Delhi, Kolkata, Chennai, Mumbai, Delhi |
-| North-South Corridor | Srinagar to Kanniyakumari |
-| East-West Corridor | Silchar to Porbandar |
-| National Highways | Extreme parts of country |
-| State Highways | State capitals to district headquarters |
-| District Roads | District headquarters to district places |
-| Other Roads | Villages and rural areas to towns |
-| Border Roads | Strategic border areas |
+| Road Type            | Connects or Function                     |
+| -------------------- | ---------------------------------------- |
+| Golden Quadrilateral | Delhi, Kolkata, Chennai, Mumbai, Delhi   |
+| North-South Corridor | Srinagar to Kanniyakumari                |
+| East-West Corridor   | Silchar to Porbandar                     |
+| National Highways    | Extreme parts of country                 |
+| State Highways       | State capitals to district headquarters  |
+| District Roads       | District headquarters to district places |
+| Other Roads          | Villages and rural areas to towns        |
+| Border Roads         | Strategic border areas                   |
 
 ## Transport Modes
 
-| Mode | Best Feature |
-| --- | --- |
-| Roadways | Door-to-door and short distance |
-| Railways | Long-distance freight and passengers |
-| Pipelines | No trans-shipment loss or delay |
-| Waterways | Cheapest for heavy bulky goods |
-| Airways | Fastest and useful in difficult terrain |
+| Mode      | Best Feature                            |
+| --------- | --------------------------------------- |
+| Roadways  | Door-to-door and short distance         |
+| Railways  | Long-distance freight and passengers    |
+| Pipelines | No trans-shipment loss or delay         |
+| Waterways | Cheapest for heavy bulky goods          |
+| Airways   | Fastest and useful in difficult terrain |
 
 ## Ports
 
-| Port | Feature |
-| --- | --- |
-| Kandla | Tidal port |
-| Mumbai | Biggest natural harbour |
-| JNPT | Decongests Mumbai |
-| Marmagao | Iron ore export |
-| New Mangalore | Kudremukh iron ore export |
-| Kochchi | Natural harbour at lagoon entrance |
-| Tuticorin | South-eastern port, natural harbour |
-| Chennai | Old artificial port |
+| Port           | Feature                               |
+| -------------- | ------------------------------------- |
+| Kandla         | Tidal port                            |
+| Mumbai         | Biggest natural harbour               |
+| JNPT           | Decongests Mumbai                     |
+| Marmagao       | Iron ore export                       |
+| New Mangalore  | Kudremukh iron ore export             |
+| Kochchi        | Natural harbour at lagoon entrance    |
+| Tuticorin      | South-eastern port, natural harbour   |
+| Chennai        | Old artificial port                   |
 | Vishakhapatnam | Deepest landlocked and well-protected |
-| Paradwip | Iron ore export |
-| Kolkata | Inland riverine port |
-| Haldia | Relieves Kolkata |
+| Paradwip       | Iron ore export                       |
+| Kolkata        | Inland riverine port                  |
+| Haldia         | Relieves Kolkata                      |
 
 ## Communication
 
-| Type | Examples |
-| --- | --- |
-| Personal | Letters, telephone, mobile, email |
-| Mass | Radio, TV, newspapers, magazines, films, internet |
-| Postal | Cards, envelopes, parcels, book packets |
-| Digital | Telecom, internet, Digital India |
+| Type     | Examples                                          |
+| -------- | ------------------------------------------------- |
+| Personal | Letters, telephone, mobile, email                 |
+| Mass     | Radio, TV, newspapers, magazines, films, internet |
+| Postal   | Cards, envelopes, parcels, book packets           |
+| Digital  | Telecom, internet, Digital India                  |
 
 ---
 

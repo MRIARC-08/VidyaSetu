@@ -43,12 +43,12 @@ By the end of this chapter, you should be able to:
 
 ## Big Picture Map
 
-| Market Structure | Number Of Sellers | Nature Of Product | Entry And Exit | Firm's Control Over Price | Main Outcome |
-| --- | ---: | --- | --- | --- | --- |
-| Perfect competition | Very many | Homogeneous | Free | None; firm is price taker | Lower price, higher output |
-| Monopoly | One | No close substitute | Restricted | High; firm faces market demand curve | Higher price, lower output |
-| Monopolistic competition | Many | Differentiated but close substitutes | Free | Some control due to product difference | Higher price and lower output than perfect competition |
-| Oligopoly | Few | Often homogeneous in this chapter | Difficult or limited | Strategic; each firm affects rivals | Outcome depends on collusion or competition |
+| Market Structure         | Number Of Sellers | Nature Of Product                    | Entry And Exit       | Firm's Control Over Price              | Main Outcome                                           |
+| ------------------------ | ----------------: | ------------------------------------ | -------------------- | -------------------------------------- | ------------------------------------------------------ |
+| Perfect competition      |         Very many | Homogeneous                          | Free                 | None; firm is price taker              | Lower price, higher output                             |
+| Monopoly                 |               One | No close substitute                  | Restricted           | High; firm faces market demand curve   | Higher price, lower output                             |
+| Monopolistic competition |              Many | Differentiated but close substitutes | Free                 | Some control due to product difference | Higher price and lower output than perfect competition |
+| Oligopoly                |               Few | Often homogeneous in this chapter    | Difficult or limited | Strategic; each firm affects rivals    | Outcome depends on collusion or competition            |
 
 ---
 
@@ -71,41 +71,41 @@ That is why non-competitive markets are central to understanding real-world pric
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Market structure | The arrangement of a market in terms of number of firms, type of product, entry conditions, and price power. |
-| Perfect competition | A market structure with many firms, homogeneous goods, free entry and exit, perfect knowledge, and price-taking behaviour. |
-| Monopoly | A market structure with a single seller of a commodity, no close substitute, and barriers to entry. |
-| Monopolist | The single seller in a monopoly market. |
-| Oligopoly | A market structure with a small number of large firms. |
-| Duopoly | A special case of oligopoly with exactly two sellers. |
-| Monopolistic competition | A market structure with many firms, free entry and exit, and differentiated products that are close substitutes. |
-| Homogeneous product | A product that is identical across firms from the buyer's point of view. |
-| Differentiated product | A product that is similar to rivals' products but not identical because of brand, packaging, quality, taste, service, or image. |
-| Barrier to entry | Any factor that prevents or restricts new firms from entering a market. |
-| Market power | The ability of a firm to influence the price of its product. |
-| Total revenue | The total money received from selling output. |
-| Average revenue | Revenue per unit of output sold. |
-| Marginal revenue | The change in total revenue due to selling one more unit of output. |
-| Marginal cost | The change in total cost due to producing one more unit of output. |
-| Equilibrium output | The output level at which a firm has no incentive to increase or decrease production. |
-| Supernormal profit | Profit above normal profit. |
-| Cartel | A group of firms that collude and act like a single monopolist. |
-| Price rigidity | A situation in which firms do not change price easily, often because they expect rival reactions. |
+| Term                     | Meaning                                                                                                                         |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
+| Market structure         | The arrangement of a market in terms of number of firms, type of product, entry conditions, and price power.                    |
+| Perfect competition      | A market structure with many firms, homogeneous goods, free entry and exit, perfect knowledge, and price-taking behaviour.      |
+| Monopoly                 | A market structure with a single seller of a commodity, no close substitute, and barriers to entry.                             |
+| Monopolist               | The single seller in a monopoly market.                                                                                         |
+| Oligopoly                | A market structure with a small number of large firms.                                                                          |
+| Duopoly                  | A special case of oligopoly with exactly two sellers.                                                                           |
+| Monopolistic competition | A market structure with many firms, free entry and exit, and differentiated products that are close substitutes.                |
+| Homogeneous product      | A product that is identical across firms from the buyer's point of view.                                                        |
+| Differentiated product   | A product that is similar to rivals' products but not identical because of brand, packaging, quality, taste, service, or image. |
+| Barrier to entry         | Any factor that prevents or restricts new firms from entering a market.                                                         |
+| Market power             | The ability of a firm to influence the price of its product.                                                                    |
+| Total revenue            | The total money received from selling output.                                                                                   |
+| Average revenue          | Revenue per unit of output sold.                                                                                                |
+| Marginal revenue         | The change in total revenue due to selling one more unit of output.                                                             |
+| Marginal cost            | The change in total cost due to producing one more unit of output.                                                              |
+| Equilibrium output       | The output level at which a firm has no incentive to increase or decrease production.                                           |
+| Supernormal profit       | Profit above normal profit.                                                                                                     |
+| Cartel                   | A group of firms that collude and act like a single monopolist.                                                                 |
+| Price rigidity           | A situation in which firms do not change price easily, often because they expect rival reactions.                               |
 
 ---
 
 ## Formula Board
 
-| Formula | Meaning | Use |
-| --- | --- | --- |
-| `TR = P x Q` | Total revenue equals price multiplied by quantity. | Used to calculate total earnings from sales. |
-| `AR = TR / Q` | Average revenue equals total revenue divided by quantity. | Shows revenue per unit. |
-| `AR = P` | Average revenue equals price. | True because `TR = P x Q`, so `TR / Q = P`. |
-| `MR = change in TR / change in Q` | Marginal revenue is the addition to total revenue from one more unit. | Used to decide whether producing another unit adds revenue. |
-| `Profit = TR - TC` | Profit equals total revenue minus total cost. | Used for profit maximisation. |
-| Monopoly equilibrium | `MR = MC`, with MC rising | Gives the profit-maximising output of a monopolist. |
-| Perfect competition equilibrium | `P = MC` | Gives the profit-maximising output when a firm is a price taker. |
+| Formula                           | Meaning                                                               | Use                                                              |
+| --------------------------------- | --------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| `TR = P x Q`                      | Total revenue equals price multiplied by quantity.                    | Used to calculate total earnings from sales.                     |
+| `AR = TR / Q`                     | Average revenue equals total revenue divided by quantity.             | Shows revenue per unit.                                          |
+| `AR = P`                          | Average revenue equals price.                                         | True because `TR = P x Q`, so `TR / Q = P`.                      |
+| `MR = change in TR / change in Q` | Marginal revenue is the addition to total revenue from one more unit. | Used to decide whether producing another unit adds revenue.      |
+| `Profit = TR - TC`                | Profit equals total revenue minus total cost.                         | Used for profit maximisation.                                    |
+| Monopoly equilibrium              | `MR = MC`, with MC rising                                             | Gives the profit-maximising output of a monopolist.              |
+| Perfect competition equilibrium   | `P = MC`                                                              | Gives the profit-maximising output when a firm is a price taker. |
 
 ---
 
@@ -135,12 +135,12 @@ A non-competitive market arises when one or more assumptions of perfect competit
 
 The most important failures are:
 
-| Perfect Competition Assumption | If This Assumption Fails | Possible Market Structure |
-| --- | --- | --- |
-| Free entry and exit | New firms cannot easily enter | Monopoly or oligopoly |
-| Very large number of firms | Market may have one or a few large firms | Monopoly or oligopoly |
-| Homogeneous product | Products are similar but not identical | Monopolistic competition |
-| No market power | Firms can influence price | Monopoly, monopolistic competition, oligopoly |
+| Perfect Competition Assumption | If This Assumption Fails                 | Possible Market Structure                     |
+| ------------------------------ | ---------------------------------------- | --------------------------------------------- |
+| Free entry and exit            | New firms cannot easily enter            | Monopoly or oligopoly                         |
+| Very large number of firms     | Market may have one or a few large firms | Monopoly or oligopoly                         |
+| Homogeneous product            | Products are similar but not identical   | Monopolistic competition                      |
+| No market power                | Firms can influence price                | Monopoly, monopolistic competition, oligopoly |
 
 ## 1.3 Three Main Non-Competitive Structures
 
@@ -203,11 +203,11 @@ The second case may involve more visible competitive behaviour even though the m
 
 As a broad idea:
 
-| Market Structure | Firm Behaviour |
-| --- | --- |
-| More competitive structure | Less need for individual rivalry |
-| Less competitive structure | More visible rivalry among firms |
-| Monopoly | No direct rival firm in the same commodity market |
+| Market Structure           | Firm Behaviour                                    |
+| -------------------------- | ------------------------------------------------- |
+| More competitive structure | Less need for individual rivalry                  |
+| Less competitive structure | More visible rivalry among firms                  |
+| Monopoly                   | No direct rival firm in the same commodity market |
 
 This does not mean monopoly is socially better. It only means there is no competing seller of the same commodity inside the monopoly market.
 
@@ -334,21 +334,21 @@ This second form is useful because it gives the price corresponding to each quan
 If the monopolist chooses different quantities, the price is:
 
 | Quantity `q` | Price `p = 10 - 0.5q` |
-| ---: | ---: |
-| 0 | 10.0 |
-| 1 | 9.5 |
-| 2 | 9.0 |
-| 3 | 8.5 |
-| 4 | 8.0 |
-| 5 | 7.5 |
-| 6 | 7.0 |
-| 7 | 6.5 |
-| 8 | 6.0 |
-| 9 | 5.5 |
-| 10 | 5.0 |
-| 11 | 4.5 |
-| 12 | 4.0 |
-| 13 | 3.5 |
+| -----------: | --------------------: |
+|            0 |                  10.0 |
+|            1 |                   9.5 |
+|            2 |                   9.0 |
+|            3 |                   8.5 |
+|            4 |                   8.0 |
+|            5 |                   7.5 |
+|            6 |                   7.0 |
+|            7 |                   6.5 |
+|            8 |                   6.0 |
+|            9 |                   5.5 |
+|           10 |                   5.0 |
+|           11 |                   4.5 |
+|           12 |                   4.0 |
+|           13 |                   3.5 |
 
 As quantity increases, price falls.
 
@@ -379,21 +379,21 @@ It is a quadratic expression with a negative squared term. Therefore, its graph 
 ## 5.3 Revenue Table
 
 | Quantity `q` | Price `p` | Total Revenue `TR` | Average Revenue `AR` | Marginal Revenue `MR` |
-| ---: | ---: | ---: | ---: | ---: |
-| 0 | 10.0 | 0.0 | - | - |
-| 1 | 9.5 | 9.5 | 9.5 | 9.5 |
-| 2 | 9.0 | 18.0 | 9.0 | 8.5 |
-| 3 | 8.5 | 25.5 | 8.5 | 7.5 |
-| 4 | 8.0 | 32.0 | 8.0 | 6.5 |
-| 5 | 7.5 | 37.5 | 7.5 | 5.5 |
-| 6 | 7.0 | 42.0 | 7.0 | 4.5 |
-| 7 | 6.5 | 45.5 | 6.5 | 3.5 |
-| 8 | 6.0 | 48.0 | 6.0 | 2.5 |
-| 9 | 5.5 | 49.5 | 5.5 | 1.5 |
-| 10 | 5.0 | 50.0 | 5.0 | 0.5 |
-| 11 | 4.5 | 49.5 | 4.5 | -0.5 |
-| 12 | 4.0 | 48.0 | 4.0 | -1.5 |
-| 13 | 3.5 | 45.5 | 3.5 | -2.5 |
+| -----------: | --------: | -----------------: | -------------------: | --------------------: |
+|            0 |      10.0 |                0.0 |                    - |                     - |
+|            1 |       9.5 |                9.5 |                  9.5 |                   9.5 |
+|            2 |       9.0 |               18.0 |                  9.0 |                   8.5 |
+|            3 |       8.5 |               25.5 |                  8.5 |                   7.5 |
+|            4 |       8.0 |               32.0 |                  8.0 |                   6.5 |
+|            5 |       7.5 |               37.5 |                  7.5 |                   5.5 |
+|            6 |       7.0 |               42.0 |                  7.0 |                   4.5 |
+|            7 |       6.5 |               45.5 |                  6.5 |                   3.5 |
+|            8 |       6.0 |               48.0 |                  6.0 |                   2.5 |
+|            9 |       5.5 |               49.5 |                  5.5 |                   1.5 |
+|           10 |       5.0 |               50.0 |                  5.0 |                   0.5 |
+|           11 |       4.5 |               49.5 |                  4.5 |                  -0.5 |
+|           12 |       4.0 |               48.0 |                  4.0 |                  -1.5 |
+|           13 |       3.5 |               45.5 |                  3.5 |                  -2.5 |
 
 ## 5.4 How To Read The Table
 
@@ -542,11 +542,11 @@ when the demand curve slopes downward.
 
 The relation between MR and TR is:
 
-| Situation | Meaning |
-| --- | --- |
-| MR is positive | TR is rising |
-| MR is zero | TR is at its maximum |
-| MR is negative | TR is falling |
+| Situation      | Meaning              |
+| -------------- | -------------------- |
+| MR is positive | TR is rising         |
+| MR is zero     | TR is at its maximum |
+| MR is negative | TR is falling        |
 
 This relation is extremely important for monopoly equilibrium.
 
@@ -613,9 +613,9 @@ This happens because the price reduction affects the earlier 4 units also.
 The distance between AR and MR depends on the steepness of the demand curve.
 
 | Type Of Demand Curve | Relation Between AR And MR |
-| --- | --- |
-| Flatter demand curve | MR is closer to AR |
-| Steeper demand curve | MR is farther below AR |
+| -------------------- | -------------------------- |
+| Flatter demand curve | MR is closer to AR         |
+| Steeper demand curve | MR is farther below AR     |
 
 Reason:
 
@@ -629,11 +629,11 @@ When demand is steep, selling extra units requires a larger fall in price. The l
 
 The chapter gives an important relation between MR and elasticity.
 
-| MR Value | Elasticity Of Demand | Meaning |
-| --- | --- | --- |
-| MR > 0 | Elastic demand, `e > 1` | Lowering price increases total revenue. |
-| MR = 0 | Unitary elastic demand, `e = 1` | Total revenue is maximum. |
-| MR < 0 | Inelastic demand, `e < 1` | Lowering price reduces total revenue. |
+| MR Value | Elasticity Of Demand            | Meaning                                 |
+| -------- | ------------------------------- | --------------------------------------- |
+| MR > 0   | Elastic demand, `e > 1`         | Lowering price increases total revenue. |
+| MR = 0   | Unitary elastic demand, `e = 1` | Total revenue is maximum.               |
+| MR < 0   | Inelastic demand, `e < 1`       | Lowering price reduces total revenue.   |
 
 ## 9.2 Why This Relation Makes Sense
 
@@ -778,10 +778,10 @@ q = 20
 
 So in the zero-cost case:
 
-| Market Structure | Output | Price |
-| --- | ---: | ---: |
-| Monopoly | 10 | Rs 5 |
-| Perfect competition | 20 | Rs 0 |
+| Market Structure    | Output | Price |
+| ------------------- | -----: | ----: |
+| Monopoly            |     10 |  Rs 5 |
+| Perfect competition |     20 |  Rs 0 |
 
 ## 12.3 Important Conclusion
 
@@ -959,10 +959,10 @@ TC = AC x Quantity
 
 ## 15.1 Different Equilibrium Conditions
 
-| Market Structure | Equilibrium Condition | Why |
-| --- | --- | --- |
-| Perfect competition | `P = MC` | Firm is a price taker and `P = MR = AR`. |
-| Monopoly | `MR = MC` | Firm faces downward-sloping demand and `MR < AR`. |
+| Market Structure    | Equilibrium Condition | Why                                               |
+| ------------------- | --------------------- | ------------------------------------------------- |
+| Perfect competition | `P = MC`              | Firm is a price taker and `P = MR = AR`.          |
+| Monopoly            | `MR = MC`             | Firm faces downward-sloping demand and `MR < AR`. |
 
 ## 15.2 Why Perfect Competition Produces More
 
@@ -998,13 +998,13 @@ Monopoly price > Competitive price
 
 ## 15.4 Final Comparison
 
-| Feature | Monopoly | Perfect Competition |
-| --- | --- | --- |
-| Output | Lower | Higher |
-| Price | Higher | Lower |
-| Equilibrium condition | `MR = MC` | `P = MC` |
-| Demand curve faced by firm | Downward sloping | Horizontal |
-| Long-run profit | Can remain positive | Becomes zero under free entry and exit |
+| Feature                    | Monopoly            | Perfect Competition                    |
+| -------------------------- | ------------------- | -------------------------------------- |
+| Output                     | Lower               | Higher                                 |
+| Price                      | Higher              | Lower                                  |
+| Equilibrium condition      | `MR = MC`           | `P = MC`                               |
+| Demand curve faced by firm | Downward sloping    | Horizontal                             |
+| Long-run profit            | Can remain positive | Becomes zero under free entry and exit |
 
 ---
 
@@ -1186,12 +1186,12 @@ Given the lower output, price is higher.
 
 So compared with perfect competition:
 
-| Feature | Monopolistic Competition |
-| --- | --- |
-| Output | Lower |
-| Price | Higher |
-| Product | Differentiated |
-| Demand curve | Downward sloping |
+| Feature      | Monopolistic Competition |
+| ------------ | ------------------------ |
+| Output       | Lower                    |
+| Price        | Higher                   |
+| Product      | Differentiated           |
+| Demand curve | Downward sloping         |
 
 ## 18.6 Short-Run Profit
 
@@ -1344,16 +1344,16 @@ Because both raising and lowering price can be risky, firms may keep prices stab
 
 # 20. Comparison Of The Three Non-Competitive Markets
 
-| Feature | Monopoly | Monopolistic Competition | Oligopoly |
-| --- | --- | --- | --- |
-| Number of firms | One | Many | Few |
-| Product | No close substitute | Differentiated, close substitutes | Often homogeneous in this chapter |
-| Entry | Prevented | Free | Usually difficult |
-| Demand curve of firm | Market demand curve | Downward sloping firm demand curve | Depends on rival reactions |
-| Price power | High | Limited | Strategic |
-| Equilibrium rule | `MR = MC` | `MR = MC` | No single simple rule in this chapter |
-| Long-run profit | Can remain positive | Supernormal profit becomes zero | Depends on behaviour |
-| Main issue | Market power | Product differentiation | Interdependence |
+| Feature              | Monopoly            | Monopolistic Competition           | Oligopoly                             |
+| -------------------- | ------------------- | ---------------------------------- | ------------------------------------- |
+| Number of firms      | One                 | Many                               | Few                                   |
+| Product              | No close substitute | Differentiated, close substitutes  | Often homogeneous in this chapter     |
+| Entry                | Prevented           | Free                               | Usually difficult                     |
+| Demand curve of firm | Market demand curve | Downward sloping firm demand curve | Depends on rival reactions            |
+| Price power          | High                | Limited                            | Strategic                             |
+| Equilibrium rule     | `MR = MC`           | `MR = MC`                          | No single simple rule in this chapter |
+| Long-run profit      | Can remain positive | Supernormal profit becomes zero    | Depends on behaviour                  |
+| Main issue           | Market power        | Product differentiation            | Interdependence                       |
 
 ---
 
@@ -1564,18 +1564,18 @@ They may collude and behave like a monopoly, compete aggressively and push price
 
 # 23. Common Mistakes And Corrections
 
-| Mistake | Correct Understanding |
-| --- | --- |
-| Saying monopoly means a large firm only. | Monopoly means one seller, no close substitute, and restricted entry. A firm can be large without being a monopolist. |
-| Saying a monopolist can charge any price. | A monopolist is limited by the demand curve. A higher price means lower quantity demanded. |
-| Finding monopoly price from MC. | `MR = MC` gives output. Price is read from the demand curve. |
-| Saying AR and MR are the same in monopoly. | In monopoly, AR slopes downward and MR lies below AR. |
-| Forgetting that AR equals price. | Since `AR = TR / Q` and `TR = P x Q`, AR equals price. |
-| Saying monopoly always has no competition in any sense. | Pure monopoly has no direct seller of the same commodity, but substitutes and new technology may create indirect competition. |
-| Saying monopolistic competition is the same as monopoly. | Monopolistic competition has many firms and free entry; monopoly has one seller and restricted entry. |
-| Saying oligopoly has many sellers. | Oligopoly has a few sellers. |
-| Saying collusion and competition are the same. | Collusion means firms cooperate; competition means they act against each other to gain customers. |
-| Saying positive profit disappears in monopoly long run. | Monopoly profit can continue if entry remains blocked. |
+| Mistake                                                  | Correct Understanding                                                                                                         |
+| -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| Saying monopoly means a large firm only.                 | Monopoly means one seller, no close substitute, and restricted entry. A firm can be large without being a monopolist.         |
+| Saying a monopolist can charge any price.                | A monopolist is limited by the demand curve. A higher price means lower quantity demanded.                                    |
+| Finding monopoly price from MC.                          | `MR = MC` gives output. Price is read from the demand curve.                                                                  |
+| Saying AR and MR are the same in monopoly.               | In monopoly, AR slopes downward and MR lies below AR.                                                                         |
+| Forgetting that AR equals price.                         | Since `AR = TR / Q` and `TR = P x Q`, AR equals price.                                                                        |
+| Saying monopoly always has no competition in any sense.  | Pure monopoly has no direct seller of the same commodity, but substitutes and new technology may create indirect competition. |
+| Saying monopolistic competition is the same as monopoly. | Monopolistic competition has many firms and free entry; monopoly has one seller and restricted entry.                         |
+| Saying oligopoly has many sellers.                       | Oligopoly has a few sellers.                                                                                                  |
+| Saying collusion and competition are the same.           | Collusion means firms cooperate; competition means they act against each other to gain customers.                             |
+| Saying positive profit disappears in monopoly long run.  | Monopoly profit can continue if entry remains blocked.                                                                        |
 
 ---
 
@@ -1848,35 +1848,35 @@ Thus, oligopoly behaviour may take three forms:
 
 ## 31.1 Revenue Relations
 
-| Concept | Formula | Meaning |
-| --- | --- | --- |
-| Total revenue | `TR = P x Q` | Total receipts from sale |
-| Average revenue | `AR = TR / Q` | Revenue per unit |
-| Price and AR | `AR = P` | AR equals price |
+| Concept          | Formula                           | Meaning                          |
+| ---------------- | --------------------------------- | -------------------------------- |
+| Total revenue    | `TR = P x Q`                      | Total receipts from sale         |
+| Average revenue  | `AR = TR / Q`                     | Revenue per unit                 |
+| Price and AR     | `AR = P`                          | AR equals price                  |
 | Marginal revenue | `MR = change in TR / change in Q` | Extra revenue from one more unit |
 
 ## 31.2 Monopoly Rules
 
-| Rule | Meaning |
-| --- | --- |
-| Demand curve is AR curve | Because AR equals price |
-| MR lies below AR | Because price must fall to sell more |
-| MR positive | TR rising and demand elastic |
-| MR zero | TR maximum and demand unit elastic |
-| MR negative | TR falling and demand inelastic |
-| `MR = MC` | Monopoly output condition |
-| Price from demand curve | Monopoly price rule |
+| Rule                     | Meaning                              |
+| ------------------------ | ------------------------------------ |
+| Demand curve is AR curve | Because AR equals price              |
+| MR lies below AR         | Because price must fall to sell more |
+| MR positive              | TR rising and demand elastic         |
+| MR zero                  | TR maximum and demand unit elastic   |
+| MR negative              | TR falling and demand inelastic      |
+| `MR = MC`                | Monopoly output condition            |
+| Price from demand curve  | Monopoly price rule                  |
 
 ## 31.3 Market Comparison
 
-| Feature | Perfect Competition | Monopoly | Monopolistic Competition | Oligopoly |
-| --- | --- | --- | --- | --- |
-| Sellers | Many | One | Many | Few |
-| Product | Homogeneous | No close substitute | Differentiated | Often homogeneous |
-| Entry | Free | Blocked | Free | Difficult |
-| Firm demand | Horizontal | Downward sloping | Downward sloping | Strategic |
-| Price power | None | High | Some | Interdependent |
-| Long-run profit | Zero supernormal | Can be positive | Zero supernormal | Depends |
+| Feature         | Perfect Competition | Monopoly            | Monopolistic Competition | Oligopoly         |
+| --------------- | ------------------- | ------------------- | ------------------------ | ----------------- |
+| Sellers         | Many                | One                 | Many                     | Few               |
+| Product         | Homogeneous         | No close substitute | Differentiated           | Often homogeneous |
+| Entry           | Free                | Blocked             | Free                     | Difficult         |
+| Firm demand     | Horizontal          | Downward sloping    | Downward sloping         | Strategic         |
+| Price power     | None                | High                | Some                     | Interdependent    |
+| Long-run profit | Zero supernormal    | Can be positive     | Zero supernormal         | Depends           |
 
 ---
 
@@ -1964,4 +1964,3 @@ Before an exam, make sure you can:
 - explain long-run zero profit under monopolistic competition,
 - explain strategic interdependence in oligopoly,
 - list the three possible oligopoly behaviours.
-

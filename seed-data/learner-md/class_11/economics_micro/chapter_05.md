@@ -1,4 +1,5 @@
 # Chapter 5: Market Equilibrium
+
 ### NCERT Class 11 - Economics Micro
 
 ---
@@ -35,19 +36,19 @@ The central idea is:
 
 ## Chapter at a Glance
 
-| Area | Main Idea |
-| --- | --- |
-| Equilibrium | Situation where market demand equals market supply. |
-| Equilibrium price | Price at which the market clears. |
-| Equilibrium quantity | Quantity bought and sold at equilibrium price. |
-| Excess demand | Quantity demanded exceeds quantity supplied. |
-| Excess supply | Quantity supplied exceeds quantity demanded. |
-| Invisible hand | Price adjustment process that moves market toward equilibrium. |
+| Area                  | Main Idea                                                                   |
+| --------------------- | --------------------------------------------------------------------------- |
+| Equilibrium           | Situation where market demand equals market supply.                         |
+| Equilibrium price     | Price at which the market clears.                                           |
+| Equilibrium quantity  | Quantity bought and sold at equilibrium price.                              |
+| Excess demand         | Quantity demanded exceeds quantity supplied.                                |
+| Excess supply         | Quantity supplied exceeds quantity demanded.                                |
+| Invisible hand        | Price adjustment process that moves market toward equilibrium.              |
 | Fixed number of firms | Number of sellers is given; demand/supply shifts affect price and quantity. |
-| Free entry and exit | Firms enter/exit until price equals minimum average cost. |
-| Labour market | Households supply labour; firms demand labour. |
-| Price ceiling | Government-imposed maximum price. |
-| Price floor | Government-imposed minimum price. |
+| Free entry and exit   | Firms enter/exit until price equals minimum average cost.                   |
+| Labour market         | Households supply labour; firms demand labour.                              |
+| Price ceiling         | Government-imposed maximum price.                                           |
+| Price floor           | Government-imposed minimum price.                                           |
 
 ---
 
@@ -55,55 +56,55 @@ The central idea is:
 
 By the end of this chapter, you should be able to:
 
-| Skill | You Should Be Able To |
-| --- | --- |
-| Define | Define equilibrium, excess demand, excess supply, price ceiling, and price floor. |
-| Calculate | Find equilibrium price and quantity from demand and supply equations. |
-| Explain | Explain price adjustment under excess demand and excess supply. |
-| Analyse | Analyse demand and supply shifts with fixed number of firms. |
-| Compare | Compare fixed-firm equilibrium with free-entry equilibrium. |
-| Apply | Apply demand-supply analysis to labour market, rent control, minimum wage, and agricultural price support. |
-| Solve | Solve numerical questions involving equilibrium and number of firms. |
-| Write | Write diagram-based explanations in clear steps. |
+| Skill     | You Should Be Able To                                                                                      |
+| --------- | ---------------------------------------------------------------------------------------------------------- |
+| Define    | Define equilibrium, excess demand, excess supply, price ceiling, and price floor.                          |
+| Calculate | Find equilibrium price and quantity from demand and supply equations.                                      |
+| Explain   | Explain price adjustment under excess demand and excess supply.                                            |
+| Analyse   | Analyse demand and supply shifts with fixed number of firms.                                               |
+| Compare   | Compare fixed-firm equilibrium with free-entry equilibrium.                                                |
+| Apply     | Apply demand-supply analysis to labour market, rent control, minimum wage, and agricultural price support. |
+| Solve     | Solve numerical questions involving equilibrium and number of firms.                                       |
+| Write     | Write diagram-based explanations in clear steps.                                                           |
 
 ---
 
 ## Big Map of the Chapter
 
-| Unit | Main Question | Main Answer |
-| --- | --- | --- |
-| Equilibrium | When does the market clear? | When quantity demanded equals quantity supplied. |
-| Excess demand | What if price is too low? | Demand exceeds supply; price tends to rise. |
-| Excess supply | What if price is too high? | Supply exceeds demand; price tends to fall. |
-| Fixed firms | How is equilibrium found with given number of firms? | Intersection of demand and supply curves. |
-| Shifts | What changes equilibrium? | Demand and/or supply curve shifts. |
-| Labour market | How is wage determined? | Labour demand and labour supply intersection. |
-| Free entry/exit | What happens when firms enter and exit? | Price equals minimum average cost. |
-| Price ceiling | What if government sets maximum price below equilibrium? | Shortage/excess demand. |
-| Price floor | What if government sets minimum price above equilibrium? | Surplus/excess supply. |
+| Unit            | Main Question                                            | Main Answer                                      |
+| --------------- | -------------------------------------------------------- | ------------------------------------------------ |
+| Equilibrium     | When does the market clear?                              | When quantity demanded equals quantity supplied. |
+| Excess demand   | What if price is too low?                                | Demand exceeds supply; price tends to rise.      |
+| Excess supply   | What if price is too high?                               | Supply exceeds demand; price tends to fall.      |
+| Fixed firms     | How is equilibrium found with given number of firms?     | Intersection of demand and supply curves.        |
+| Shifts          | What changes equilibrium?                                | Demand and/or supply curve shifts.               |
+| Labour market   | How is wage determined?                                  | Labour demand and labour supply intersection.    |
+| Free entry/exit | What happens when firms enter and exit?                  | Price equals minimum average cost.               |
+| Price ceiling   | What if government sets maximum price below equilibrium? | Shortage/excess demand.                          |
+| Price floor     | What if government sets minimum price above equilibrium? | Surplus/excess supply.                           |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Market equilibrium | Situation where buyers' and sellers' plans match. |
-| Market clearing | Quantity demanded equals quantity supplied. |
-| Equilibrium price | Price at which market demand equals market supply. |
-| Equilibrium quantity | Quantity bought and sold at equilibrium price. |
-| Excess demand | Market demand is greater than market supply at a price. |
-| Excess supply | Market supply is greater than market demand at a price. |
-| Demand shift | Change in demand at every price due to non-price factor. |
-| Supply shift | Change in supply at every price due to non-price factor. |
-| Free entry and exit | Firms can enter or leave the market freely. |
-| Minimum average cost | Lowest point of a firm's average cost curve. |
-| Marginal revenue product of labour | Extra revenue from employing one more unit of labour. |
-| Value of marginal product of labour | Price of output multiplied by marginal product of labour. |
-| Price ceiling | Legal maximum price set by government. |
-| Price floor | Legal minimum price set by government. |
-| Rationing | Distribution system limiting how much each consumer can buy. |
-| Black market | Illegal market where goods are sold above controlled price. |
+| Term                                | Meaning                                                      |
+| ----------------------------------- | ------------------------------------------------------------ |
+| Market equilibrium                  | Situation where buyers' and sellers' plans match.            |
+| Market clearing                     | Quantity demanded equals quantity supplied.                  |
+| Equilibrium price                   | Price at which market demand equals market supply.           |
+| Equilibrium quantity                | Quantity bought and sold at equilibrium price.               |
+| Excess demand                       | Market demand is greater than market supply at a price.      |
+| Excess supply                       | Market supply is greater than market demand at a price.      |
+| Demand shift                        | Change in demand at every price due to non-price factor.     |
+| Supply shift                        | Change in supply at every price due to non-price factor.     |
+| Free entry and exit                 | Firms can enter or leave the market freely.                  |
+| Minimum average cost                | Lowest point of a firm's average cost curve.                 |
+| Marginal revenue product of labour  | Extra revenue from employing one more unit of labour.        |
+| Value of marginal product of labour | Price of output multiplied by marginal product of labour.    |
+| Price ceiling                       | Legal maximum price set by government.                       |
+| Price floor                         | Legal minimum price set by government.                       |
+| Rationing                           | Distribution system limiting how much each consumer can buy. |
+| Black market                        | Illegal market where goods are sold above controlled price.  |
 
 ---
 
@@ -224,11 +225,11 @@ This adjustment continues until demand equals supply.
 
 ## 2.4 Adjustment Table
 
-| Market Situation | Meaning | Price Tendency |
-| --- | --- | --- |
-| `qD > qS` | Excess demand/shortage | Price rises |
-| `qS > qD` | Excess supply/surplus | Price falls |
-| `qD = qS` | Equilibrium | No tendency to change |
+| Market Situation | Meaning                | Price Tendency        |
+| ---------------- | ---------------------- | --------------------- |
+| `qD > qS`        | Excess demand/shortage | Price rises           |
+| `qS > qD`        | Excess supply/surplus  | Price falls           |
+| `qD = qS`        | Equilibrium            | No tendency to change |
 
 ---
 
@@ -485,23 +486,23 @@ Price rises and quantity traded falls.
 
 ## 4.7 Single Shift Summary
 
-| Change | Equilibrium Price | Equilibrium Quantity |
-| --- | --- | --- |
-| Demand increases | rises | rises |
-| Demand decreases | falls | falls |
-| Supply increases | falls | rises |
-| Supply decreases | rises | falls |
+| Change           | Equilibrium Price | Equilibrium Quantity |
+| ---------------- | ----------------- | -------------------- |
+| Demand increases | rises             | rises                |
+| Demand decreases | falls             | falls                |
+| Supply increases | falls             | rises                |
+| Supply decreases | rises             | falls                |
 
 ## 4.8 Simultaneous Shifts
 
 When both demand and supply shift, one effect may be certain while the other depends on magnitude.
 
 | Demand Shift | Supply Shift | Price Effect | Quantity Effect |
-| --- | --- | --- | --- |
-| Right | Right | uncertain | rises |
-| Left | Left | uncertain | falls |
-| Right | Left | rises | uncertain |
-| Left | Right | falls | uncertain |
+| ------------ | ------------ | ------------ | --------------- |
+| Right        | Right        | uncertain    | rises           |
+| Left         | Left         | uncertain    | falls           |
+| Right        | Left         | rises        | uncertain       |
+| Left         | Right        | falls        | uncertain       |
 
 ## 4.9 Memory Rule
 
@@ -833,8 +834,8 @@ Price returns to minimum average cost through entry or exit.
 
 ## 6.9 Fixed Firms vs Free Entry
 
-| Demand Shift | Fixed Number of Firms | Free Entry and Exit |
-| --- | --- | --- |
+| Demand Shift     | Fixed Number of Firms       | Free Entry and Exit                              |
+| ---------------- | --------------------------- | ------------------------------------------------ |
 | Demand increases | price rises, quantity rises | price unchanged in long run, quantity rises more |
 | Demand decreases | price falls, quantity falls | price unchanged in long run, quantity falls more |
 
@@ -914,13 +915,13 @@ Under rationing:
 
 Price ceiling may create:
 
-| Problem | Explanation |
-| --- | --- |
-| Shortage | Demand exceeds supply. |
-| Long queues | Consumers wait to buy rationed goods. |
-| Black market | Some buyers pay illegally higher prices. |
-| Reduced quality | Sellers may reduce quality if price is controlled. |
-| Allocation problem | Not everyone gets desired quantity. |
+| Problem            | Explanation                                        |
+| ------------------ | -------------------------------------------------- |
+| Shortage           | Demand exceeds supply.                             |
+| Long queues        | Consumers wait to buy rationed goods.              |
+| Black market       | Some buyers pay illegally higher prices.           |
+| Reduced quality    | Sellers may reduce quality if price is controlled. |
+| Allocation problem | Not everyone gets desired quantity.                |
 
 ## 8.7 Rent Control Example
 
@@ -995,13 +996,13 @@ This may create unemployment among workers willing to work at that wage.
 
 ## 9.7 Price Ceiling vs Price Floor
 
-| Basis | Price Ceiling | Price Floor |
-| --- | --- | --- |
-| Type of control | Maximum price | Minimum price |
-| Effective when | Set below equilibrium | Set above equilibrium |
-| Immediate result | Excess demand/shortage | Excess supply/surplus |
-| Common use | Essential consumer goods, rent control | Agricultural support, minimum wage |
-| Possible problem | queues, rationing, black market | unsold surplus, unemployment, government purchase |
+| Basis            | Price Ceiling                          | Price Floor                                       |
+| ---------------- | -------------------------------------- | ------------------------------------------------- |
+| Type of control  | Maximum price                          | Minimum price                                     |
+| Effective when   | Set below equilibrium                  | Set above equilibrium                             |
+| Immediate result | Excess demand/shortage                 | Excess supply/surplus                             |
+| Common use       | Essential consumer goods, rent control | Agricultural support, minimum wage                |
+| Possible problem | queues, rationing, black market        | unsold surplus, unemployment, government purchase |
 
 ---
 
@@ -1240,17 +1241,17 @@ A price floor is a government-imposed minimum price. If it is fixed above the eq
 
 # 12. Common Mistakes
 
-| Mistake | Correction |
-| --- | --- |
-| Saying equilibrium means demand is high | Equilibrium means demand equals supply. |
-| Confusing excess demand with demand increase | Excess demand is a gap at a given price; demand increase is a curve shift. |
-| Confusing excess supply with supply increase | Excess supply is a gap at a given price; supply increase is a curve shift. |
-| Saying price ceiling causes surplus | Effective price ceiling causes shortage/excess demand. |
-| Saying price floor causes shortage | Effective price floor causes surplus/excess supply. |
-| Forgetting free entry keeps price at min AC | With identical firms and free entry/exit, long-run price equals minimum AC. |
-| Adding firm output incorrectly | Number of firms = market quantity divided by output per firm. |
-| Treating labour market like goods market | In labour market, households supply and firms demand. |
-| Assuming every demand shift changes long-run price with free entry | With free entry/exit and identical firms, price returns to minimum AC. |
+| Mistake                                                            | Correction                                                                  |
+| ------------------------------------------------------------------ | --------------------------------------------------------------------------- |
+| Saying equilibrium means demand is high                            | Equilibrium means demand equals supply.                                     |
+| Confusing excess demand with demand increase                       | Excess demand is a gap at a given price; demand increase is a curve shift.  |
+| Confusing excess supply with supply increase                       | Excess supply is a gap at a given price; supply increase is a curve shift.  |
+| Saying price ceiling causes surplus                                | Effective price ceiling causes shortage/excess demand.                      |
+| Saying price floor causes shortage                                 | Effective price floor causes surplus/excess supply.                         |
+| Forgetting free entry keeps price at min AC                        | With identical firms and free entry/exit, long-run price equals minimum AC. |
+| Adding firm output incorrectly                                     | Number of firms = market quantity divided by output per firm.               |
+| Treating labour market like goods market                           | In labour market, households supply and firms demand.                       |
+| Assuming every demand shift changes long-run price with free entry | With free entry/exit and identical firms, price returns to minimum AC.      |
 
 ---
 
@@ -1258,34 +1259,34 @@ A price floor is a government-imposed minimum price. If it is fixed above the eq
 
 ## 13.1 Market Conditions
 
-| Condition | Formula | Price Movement |
-| --- | --- | --- |
-| Equilibrium | `qD = qS` | no tendency |
-| Excess demand | `qD > qS` | price rises |
-| Excess supply | `qS > qD` | price falls |
+| Condition     | Formula   | Price Movement |
+| ------------- | --------- | -------------- |
+| Equilibrium   | `qD = qS` | no tendency    |
+| Excess demand | `qD > qS` | price rises    |
+| Excess supply | `qS > qD` | price falls    |
 
 ## 13.2 Fixed-Firm Shift Results
 
-| Shift | Price | Quantity |
-| --- | --- | --- |
-| Demand right | up | up |
-| Demand left | down | down |
-| Supply right | down | up |
-| Supply left | up | down |
+| Shift        | Price | Quantity |
+| ------------ | ----- | -------- |
+| Demand right | up    | up       |
+| Demand left  | down  | down     |
+| Supply right | down  | up       |
+| Supply left  | up    | down     |
 
 ## 13.3 Free Entry Results
 
-| Change | Price | Quantity | Number of Firms |
-| --- | --- | --- | --- |
-| Demand increases | unchanged at min AC | rises | rises |
-| Demand decreases | unchanged at min AC | falls | falls |
+| Change           | Price               | Quantity | Number of Firms |
+| ---------------- | ------------------- | -------- | --------------- |
+| Demand increases | unchanged at min AC | rises    | rises           |
+| Demand decreases | unchanged at min AC | falls    | falls           |
 
 ## 13.4 Government Price Controls
 
-| Policy | Legal Limit | Binding Position | Result |
-| --- | --- | --- | --- |
+| Policy        | Legal Limit   | Binding Position  | Result        |
+| ------------- | ------------- | ----------------- | ------------- |
 | Price ceiling | maximum price | below equilibrium | excess demand |
-| Price floor | minimum price | above equilibrium | excess supply |
+| Price floor   | minimum price | above equilibrium | excess supply |
 
 ---
 

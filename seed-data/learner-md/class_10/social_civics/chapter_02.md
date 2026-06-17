@@ -1,20 +1,21 @@
 # Chapter 2: Federalism
+
 ### NCERT Class 10 - Social Civics
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-| --- | --- |
-| Class | 10 |
-| Subject | Social Civics |
-| Chapter | 2 - Federalism |
-| Central Question | How is power divided among different levels of government, and how does India make federalism work in practice? |
-| Main Focus | Vertical power sharing between Union, State, and local governments |
-| Main Themes | Federalism, unitary government, coming together and holding together federations, Union List, State List, Concurrent List, linguistic states, language policy, Centre-State relations, decentralisation |
-| Main Skills | Defining concepts, comparing systems, applying constitutional lists, understanding Indian federal practice |
-| Exam Importance | Very high: features of federalism, India as federal country, lists, linguistic states, language policy, coalition era, decentralisation and 1992 amendments |
+| Detail           | Learner-Friendly Information                                                                                                                                                                            |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Class            | 10                                                                                                                                                                                                      |
+| Subject          | Social Civics                                                                                                                                                                                           |
+| Chapter          | 2 - Federalism                                                                                                                                                                                          |
+| Central Question | How is power divided among different levels of government, and how does India make federalism work in practice?                                                                                         |
+| Main Focus       | Vertical power sharing between Union, State, and local governments                                                                                                                                      |
+| Main Themes      | Federalism, unitary government, coming together and holding together federations, Union List, State List, Concurrent List, linguistic states, language policy, Centre-State relations, decentralisation |
+| Main Skills      | Defining concepts, comparing systems, applying constitutional lists, understanding Indian federal practice                                                                                              |
+| Exam Importance  | Very high: features of federalism, India as federal country, lists, linguistic states, language policy, coalition era, decentralisation and 1992 amendments                                             |
 
 ---
 
@@ -38,16 +39,16 @@ The key idea is:
 
 After studying this chapter, you should be able to:
 
-| Skill | You Should Be Able To |
-| --- | --- |
-| Define | Explain federalism, unitary government, jurisdiction, Union List, State List, Concurrent List, residuary subjects, coalition government, decentralisation, panchayati raj, gram sabha. |
-| Explain | Describe the key features of a federal system. |
-| Compare | Distinguish federal and unitary governments. |
-| Classify | Place subjects into Union, State, and Concurrent Lists. |
-| Analyse | Explain how linguistic states, language policy, and coalition politics strengthened federalism in India. |
-| Describe | Explain decentralisation and the structure of rural and urban local government. |
-| Evaluate | Understand the achievements and limitations of local self-government in India. |
-| Write | Prepare strong answers for NCERT exercise questions. |
+| Skill    | You Should Be Able To                                                                                                                                                                  |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Define   | Explain federalism, unitary government, jurisdiction, Union List, State List, Concurrent List, residuary subjects, coalition government, decentralisation, panchayati raj, gram sabha. |
+| Explain  | Describe the key features of a federal system.                                                                                                                                         |
+| Compare  | Distinguish federal and unitary governments.                                                                                                                                           |
+| Classify | Place subjects into Union, State, and Concurrent Lists.                                                                                                                                |
+| Analyse  | Explain how linguistic states, language policy, and coalition politics strengthened federalism in India.                                                                               |
+| Describe | Explain decentralisation and the structure of rural and urban local government.                                                                                                        |
+| Evaluate | Understand the achievements and limitations of local self-government in India.                                                                                                         |
+| Write    | Prepare strong answers for NCERT exercise questions.                                                                                                                                   |
 
 ---
 
@@ -77,32 +78,32 @@ India originally had Union and State governments. Later, Panchayats and Municipa
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Federalism | System of government in which power is divided between a central authority and constituent units such as states or provinces. |
-| Federation | A country with a federal system of government. |
-| Unitary Government | System where there is one level of government or sub-units are subordinate to the central government. |
-| Jurisdiction | Area or subject over which a government or authority has legal power. |
-| Union Government | Central government representing the Union of India. |
-| State Government | Government at the state level with its own constitutional powers. |
-| Local Government | Government at village, town, city, block, or district level. |
-| Union List | Subjects of national importance on which only the Union Government can make laws. |
-| State List | Subjects of state and local importance on which State Governments usually make laws. |
-| Concurrent List | Subjects on which both Union and State Governments can make laws. |
-| Residuary Subjects | Subjects not mentioned in any list; Union Government has power over them in India. |
-| Coming Together Federation | Federation formed when independent states voluntarily join to form a bigger unit. |
-| Holding Together Federation | Federation formed when a large country divides power between national and regional governments. |
-| Coalition Government | Government formed by two or more political parties. |
-| Decentralisation | Transfer of power from Central and State governments to local governments. |
-| Panchayati Raj | Rural local government system in India. |
-| Gram Panchayat | Elected village council. |
-| Gram Sabha | Body consisting of all voters in a village. |
-| Panchayat Samiti | Block-level rural local government body. |
-| Zilla Parishad | District-level rural local government body. |
-| Municipality | Elected local government body for towns. |
-| Municipal Corporation | Elected local government body for large cities. |
-| Mayor | Political head of a municipal corporation. |
-| State Election Commission | Independent state-level body that conducts panchayat and municipal elections. |
+| Term                        | Meaning                                                                                                                       |
+| --------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| Federalism                  | System of government in which power is divided between a central authority and constituent units such as states or provinces. |
+| Federation                  | A country with a federal system of government.                                                                                |
+| Unitary Government          | System where there is one level of government or sub-units are subordinate to the central government.                         |
+| Jurisdiction                | Area or subject over which a government or authority has legal power.                                                         |
+| Union Government            | Central government representing the Union of India.                                                                           |
+| State Government            | Government at the state level with its own constitutional powers.                                                             |
+| Local Government            | Government at village, town, city, block, or district level.                                                                  |
+| Union List                  | Subjects of national importance on which only the Union Government can make laws.                                             |
+| State List                  | Subjects of state and local importance on which State Governments usually make laws.                                          |
+| Concurrent List             | Subjects on which both Union and State Governments can make laws.                                                             |
+| Residuary Subjects          | Subjects not mentioned in any list; Union Government has power over them in India.                                            |
+| Coming Together Federation  | Federation formed when independent states voluntarily join to form a bigger unit.                                             |
+| Holding Together Federation | Federation formed when a large country divides power between national and regional governments.                               |
+| Coalition Government        | Government formed by two or more political parties.                                                                           |
+| Decentralisation            | Transfer of power from Central and State governments to local governments.                                                    |
+| Panchayati Raj              | Rural local government system in India.                                                                                       |
+| Gram Panchayat              | Elected village council.                                                                                                      |
+| Gram Sabha                  | Body consisting of all voters in a village.                                                                                   |
+| Panchayat Samiti            | Block-level rural local government body.                                                                                      |
+| Zilla Parishad              | District-level rural local government body.                                                                                   |
+| Municipality                | Elected local government body for towns.                                                                                      |
+| Municipal Corporation       | Elected local government body for large cities.                                                                               |
+| Mayor                       | Political head of a municipal corporation.                                                                                    |
+| State Election Commission   | Independent state-level body that conducts panchayat and municipal elections.                                                 |
 
 ---
 
@@ -114,22 +115,22 @@ Federalism is a system in which power is divided between a central authority and
 
 Usually, a federation has two levels:
 
-| Level | Main Responsibility |
-| --- | --- |
-| National / Central Government | Matters of common national interest |
+| Level                         | Main Responsibility                              |
+| ----------------------------- | ------------------------------------------------ |
+| National / Central Government | Matters of common national interest              |
 | State / Provincial Government | Day-to-day administration of states or provinces |
 
 Both levels enjoy power independent of each other.
 
 ## Federalism vs Unitary Government
 
-| Basis | Federal Government | Unitary Government |
-| --- | --- | --- |
-| Levels | Two or more levels of government | One level, or sub-units under Centre |
-| Power | Constitution divides power | Central government controls power |
-| State authority | States have independent powers | States or provinces are subordinate |
-| Accountability | Each level answerable to people | Lower units answerable to Centre |
-| Example | India, Belgium, USA | Sri Lanka, for practical purposes |
+| Basis           | Federal Government               | Unitary Government                   |
+| --------------- | -------------------------------- | ------------------------------------ |
+| Levels          | Two or more levels of government | One level, or sub-units under Centre |
+| Power           | Constitution divides power       | Central government controls power    |
+| State authority | States have independent powers   | States or provinces are subordinate  |
+| Accountability  | Each level answerable to people  | Lower units answerable to Centre     |
+| Example         | India, Belgium, USA              | Sri Lanka, for practical purposes    |
 
 ## Belgium and Sri Lanka Connection
 
@@ -153,15 +154,15 @@ A federal system has certain essential features.
 
 ## Seven Features
 
-| Feature | Explanation |
-| --- | --- |
-| Two or more tiers | There are two or more levels of government. |
-| Same citizens, different powers | Different tiers govern the same citizens but have separate jurisdictions. |
-| Constitutional guarantee | Powers of each tier are specified in the Constitution. |
-| No unilateral change | One level cannot change basic power-sharing provisions alone. |
-| Courts as umpire | Courts interpret the Constitution and settle disputes between governments. |
-| Financial autonomy | Revenue sources are specified for each level. |
-| Dual objective | Federalism promotes unity while accommodating regional diversity. |
+| Feature                         | Explanation                                                                |
+| ------------------------------- | -------------------------------------------------------------------------- |
+| Two or more tiers               | There are two or more levels of government.                                |
+| Same citizens, different powers | Different tiers govern the same citizens but have separate jurisdictions.  |
+| Constitutional guarantee        | Powers of each tier are specified in the Constitution.                     |
+| No unilateral change            | One level cannot change basic power-sharing provisions alone.              |
+| Courts as umpire                | Courts interpret the Constitution and settle disputes between governments. |
+| Financial autonomy              | Revenue sources are specified for each level.                              |
+| Dual objective                  | Federalism promotes unity while accommodating regional diversity.          |
 
 ## Two Requirements for Federal Success
 
@@ -230,12 +231,12 @@ Features:
 
 ## Comparison
 
-| Basis | Coming Together | Holding Together |
-| --- | --- | --- |
-| Formation | Independent states join | Large country divides power |
-| Main purpose | Pool sovereignty and increase security | Maintain unity with diversity |
-| State power | Usually equal and strong | Often unequal; Centre stronger |
-| Examples | USA, Switzerland, Australia | India, Spain, Belgium |
+| Basis        | Coming Together                        | Holding Together               |
+| ------------ | -------------------------------------- | ------------------------------ |
+| Formation    | Independent states join                | Large country divides power    |
+| Main purpose | Pool sovereignty and increase security | Maintain unity with diversity  |
+| State power  | Usually equal and strong               | Often unequal; Centre stronger |
+| Examples     | USA, Switzerland, Australia            | India, Spain, Belgium          |
 
 ---
 
@@ -343,23 +344,23 @@ In India, the Union Government has power to make laws on residuary subjects.
 
 ## Quick Classification Table
 
-| Subject | List |
-| --- | --- |
-| Defence | Union List |
-| Foreign affairs | Union List |
-| Banking | Union List |
-| Communications | Union List |
-| Currency | Union List |
-| Police | State List |
-| Agriculture | State List |
-| Irrigation | State List |
-| Trade and commerce | State List |
-| Education | Concurrent List |
-| Forest | Concurrent List |
-| Marriage | Concurrent List |
-| Adoption | Concurrent List |
-| Trade unions | Concurrent List |
-| Computer software | Residuary subject |
+| Subject            | List              |
+| ------------------ | ----------------- |
+| Defence            | Union List        |
+| Foreign affairs    | Union List        |
+| Banking            | Union List        |
+| Communications     | Union List        |
+| Currency           | Union List        |
+| Police             | State List        |
+| Agriculture        | State List        |
+| Irrigation         | State List        |
+| Trade and commerce | State List        |
+| Education          | Concurrent List   |
+| Forest             | Concurrent List   |
+| Marriage           | Concurrent List   |
+| Adoption           | Concurrent List   |
+| Trade unions       | Concurrent List   |
+| Computer software  | Residuary subject |
 
 ---
 
@@ -523,13 +524,13 @@ India's flexible language policy helped avoid the type of language conflict seen
 
 ## Important Language Facts from 2011 Census
 
-| Fact | Detail |
-| --- | --- |
-| Mother tongues recorded | More than 1300 |
-| Major languages after grouping | 121 |
-| Scheduled Languages | 22 |
-| Hindi mother tongue share | 43.63 percent |
-| English mother tongue share | 0.02 percent |
+| Fact                                               | Detail           |
+| -------------------------------------------------- | ---------------- |
+| Mother tongues recorded                            | More than 1300   |
+| Major languages after grouping                     | 121              |
+| Scheduled Languages                                | 22               |
+| Hindi mother tongue share                          | 43.63 percent    |
+| English mother tongue share                        | 0.02 percent     |
 | People knowing English as second or third language | About 11 percent |
 
 ---
@@ -623,13 +624,13 @@ A major step was taken in 1992 to make local government more powerful and effect
 
 Main features:
 
-| Reform | Meaning |
-| --- | --- |
-| Regular elections | Constitutionally mandatory for local bodies. |
-| Reservations | Seats reserved for Scheduled Castes, Scheduled Tribes, and Other Backward Classes. |
-| Women reservation | At least one-third of all positions reserved for women. |
-| State Election Commission | Independent body in each state conducts local elections. |
-| Sharing powers and revenue | State Governments required to share some powers and revenue with local bodies. |
+| Reform                     | Meaning                                                                            |
+| -------------------------- | ---------------------------------------------------------------------------------- |
+| Regular elections          | Constitutionally mandatory for local bodies.                                       |
+| Reservations               | Seats reserved for Scheduled Castes, Scheduled Tribes, and Other Backward Classes. |
+| Women reservation          | At least one-third of all positions reserved for women.                            |
+| State Election Commission  | Independent body in each state conducts local elections.                           |
+| Sharing powers and revenue | State Governments required to share some powers and revenue with local bodies.     |
 
 ---
 
@@ -707,13 +708,13 @@ The political head of a municipal corporation is called the mayor.
 
 ## Rural vs Urban Local Government
 
-| Rural Local Government | Urban Local Government |
-| --- | --- |
-| Gram Panchayat | Municipality |
-| Gram Sabha | Ward or urban citizen bodies |
-| Panchayat Samiti / Block / Mandal | Municipal Council |
-| Zilla Parishad | Municipal Corporation in large cities |
-| Sarpanch | Municipal Chairperson or Mayor |
+| Rural Local Government            | Urban Local Government                |
+| --------------------------------- | ------------------------------------- |
+| Gram Panchayat                    | Municipality                          |
+| Gram Sabha                        | Ward or urban citizen bodies          |
+| Panchayat Samiti / Block / Mandal | Municipal Council                     |
+| Zilla Parishad                    | Municipal Corporation in large cities |
+| Sarpanch                          | Municipal Chairperson or Mayor        |
 
 ---
 
@@ -782,31 +783,31 @@ Some areas in Kerala also experimented with ordinary people's participation in l
 
 ## Federal vs Unitary Government
 
-| Point | Federal | Unitary |
-| --- | --- | --- |
-| Power division | Constitutionally divided | Centralised |
-| State powers | Independent in own jurisdiction | Given by Centre and can be withdrawn |
-| Courts | Settle disputes | Less central to power division |
-| Example | India, Belgium | Sri Lanka |
+| Point          | Federal                         | Unitary                              |
+| -------------- | ------------------------------- | ------------------------------------ |
+| Power division | Constitutionally divided        | Centralised                          |
+| State powers   | Independent in own jurisdiction | Given by Centre and can be withdrawn |
+| Courts         | Settle disputes                 | Less central to power division       |
+| Example        | India, Belgium                  | Sri Lanka                            |
 
 ## Union, State, and Concurrent Lists
 
-| List | Who Makes Laws? | Examples |
-| --- | --- | --- |
-| Union List | Union Government | Defence, foreign affairs, banking, communications, currency |
-| State List | State Governments | Police, agriculture, irrigation, trade, commerce |
-| Concurrent List | Union and State Governments | Education, forests, trade unions, marriage, adoption |
-| Residuary | Union Government | New subjects not listed, such as computer software |
+| List            | Who Makes Laws?             | Examples                                                    |
+| --------------- | --------------------------- | ----------------------------------------------------------- |
+| Union List      | Union Government            | Defence, foreign affairs, banking, communications, currency |
+| State List      | State Governments           | Police, agriculture, irrigation, trade, commerce            |
+| Concurrent List | Union and State Governments | Education, forests, trade unions, marriage, adoption        |
+| Residuary       | Union Government            | New subjects not listed, such as computer software          |
 
 ## Before and After 1992
 
-| Before 1992 | After 1992 |
-| --- | --- |
-| Local bodies under State control | Constitutional status for local bodies |
-| Elections irregular | Regular elections mandatory |
-| Weak representation | Reservations for SCs, STs, OBCs, and women |
-| No independent election body | State Election Commissions created |
-| Little power and revenue | States required to share powers and revenue |
+| Before 1992                      | After 1992                                  |
+| -------------------------------- | ------------------------------------------- |
+| Local bodies under State control | Constitutional status for local bodies      |
+| Elections irregular              | Regular elections mandatory                 |
+| Weak representation              | Reservations for SCs, STs, OBCs, and women  |
+| No independent election body     | State Election Commissions created          |
+| Little power and revenue         | States required to share powers and revenue |
 
 ---
 
@@ -844,11 +845,11 @@ Correct option: **(d) Governmental power is divided between different levels of 
 
 ## Q9: Classify subjects
 
-| Union List | State List | Concurrent List |
-| --- | --- | --- |
-| Defence | Police | Education |
-| Banking | Agriculture | Forests |
-| Communications | Trade | Marriages |
+| Union List     | State List  | Concurrent List |
+| -------------- | ----------- | --------------- |
+| Defence        | Police      | Education       |
+| Banking        | Agriculture | Forests         |
+| Communications | Trade       | Marriages       |
 
 ## Q10: Incorrectly matched pair
 
@@ -858,12 +859,12 @@ Residuary powers belong to the Union Government in India.
 
 ## Q11: Match List I with List II
 
-| List I | List II |
-| --- | --- |
-| Union of India | Prime Minister |
-| State | Governor |
-| Municipal Corporation | Mayor |
-| Gram Panchayat | Sarpanch |
+| List I                | List II        |
+| --------------------- | -------------- |
+| Union of India        | Prime Minister |
+| State                 | Governor       |
+| Municipal Corporation | Mayor          |
+| Gram Panchayat        | Sarpanch       |
 
 Correct option: **(c) A C D B**
 
@@ -883,16 +884,16 @@ Correct option: **(c) A and B only**
 
 # Common Mistakes to Avoid
 
-| Mistake | Correct Understanding |
-| --- | --- |
+| Mistake                                                         | Correct Understanding                                                      |
+| --------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | "India is not federal because the word federation is not used." | India is federal in structure because powers are constitutionally divided. |
-| "Every country with provinces is federal." | Provinces must have constitutionally guaranteed powers. |
-| "Federalism is only for large countries." | Belgium is small but adopted federalism to manage diversity. |
-| "Linguistic states divided India." | They actually strengthened unity by accommodating language diversity. |
-| "Hindi is India's national language." | India has no national language; Hindi is an official language. |
-| "Local government existed only after 1992." | It existed before, but became constitutionally stronger after 1992. |
-| "Union Territories have the same powers as states." | Union Territories have less power and more central control. |
-| "Concurrent List means only Centre makes laws." | Both Union and State can make laws, but Union law prevails in conflict. |
+| "Every country with provinces is federal."                      | Provinces must have constitutionally guaranteed powers.                    |
+| "Federalism is only for large countries."                       | Belgium is small but adopted federalism to manage diversity.               |
+| "Linguistic states divided India."                              | They actually strengthened unity by accommodating language diversity.      |
+| "Hindi is India's national language."                           | India has no national language; Hindi is an official language.             |
+| "Local government existed only after 1992."                     | It existed before, but became constitutionally stronger after 1992.        |
+| "Union Territories have the same powers as states."             | Union Territories have less power and more central control.                |
+| "Concurrent List means only Centre makes laws."                 | Both Union and State can make laws, but Union law prevails in conflict.    |
 
 ---
 
@@ -979,4 +980,3 @@ Before moving to the next chapter, make sure you can:
 - [ ] Describe Gram Panchayat, Gram Sabha, Panchayat Samiti, and Zilla Parishad.
 - [ ] Describe municipalities and municipal corporations.
 - [ ] Write the limitations of decentralisation.
-

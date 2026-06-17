@@ -1,4 +1,5 @@
 # Chapter 3: Land Resources and Agriculture
+
 ### NCERT Class 12 - Geography India
 
 ## Chapter at a Glance
@@ -23,26 +24,26 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Land use | Purpose for which land is used. |
-| Net sown area | Land cultivated at least once in a year. |
-| Gross cropped area | Total cropped area counting multiple cropping. |
-| Cropping intensity | Ratio of gross cropped area to net sown area, multiplied by 100. |
-| Fallow land | Land left uncultivated for a period to restore fertility or due to constraints. |
-| Cultivable waste | Land fit for cultivation but not cultivated for several years. |
-| Land degradation | Decline in land quality and productivity. |
-| Kharif | Monsoon crop season. |
-| Rabi | Winter crop season. |
-| Zaid | Short summer crop season. |
+| Term               | Meaning                                                                         |
+| ------------------ | ------------------------------------------------------------------------------- |
+| Land use           | Purpose for which land is used.                                                 |
+| Net sown area      | Land cultivated at least once in a year.                                        |
+| Gross cropped area | Total cropped area counting multiple cropping.                                  |
+| Cropping intensity | Ratio of gross cropped area to net sown area, multiplied by 100.                |
+| Fallow land        | Land left uncultivated for a period to restore fertility or due to constraints. |
+| Cultivable waste   | Land fit for cultivation but not cultivated for several years.                  |
+| Land degradation   | Decline in land quality and productivity.                                       |
+| Kharif             | Monsoon crop season.                                                            |
+| Rabi               | Winter crop season.                                                             |
+| Zaid               | Short summer crop season.                                                       |
 
 ## Quick Learning Map
 
-| Season | Time | Major crops |
-|---|---|---|
+| Season | Time                                       | Major crops                       |
+| ------ | ------------------------------------------ | --------------------------------- |
 | Kharif | Sown with monsoon, harvested after monsoon | Rice, maize, cotton, jute, pulses |
-| Rabi | Sown in winter, harvested in spring | Wheat, gram, mustard, barley |
-| Zaid | Between rabi and kharif | Watermelon, cucumber, vegetables |
+| Rabi   | Sown in winter, harvested in spring        | Wheat, gram, mustard, barley      |
+| Zaid   | Between rabi and kharif                    | Watermelon, cucumber, vegetables  |
 
 # Unit 3A: Land as a Resource
 
@@ -265,13 +266,13 @@ For agriculture problems:
 
 # Unit 3M: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Confusing net sown area and gross cropped area | Gross cropped area counts multiple cropping. |
-| Saying Green Revolution helped all regions equally | Benefits were regionally uneven. |
-| Treating land as only agricultural | Land has many uses. |
-| Ignoring sustainability | Agriculture depends on soil, water, and ecology. |
-| Calling millets inferior | Millets are climate-resilient and nutritious. |
+| Mistake                                            | Correction                                       |
+| -------------------------------------------------- | ------------------------------------------------ |
+| Confusing net sown area and gross cropped area     | Gross cropped area counts multiple cropping.     |
+| Saying Green Revolution helped all regions equally | Benefits were regionally uneven.                 |
+| Treating land as only agricultural                 | Land has many uses.                              |
+| Ignoring sustainability                            | Agriculture depends on soil, water, and ecology. |
+| Calling millets inferior                           | Millets are climate-resilient and nutritious.    |
 
 ## Practice Set
 

@@ -22,19 +22,19 @@ The chapter's central idea is that human beings vary in many ways, but those dif
 
 ## Key Terms
 
-| Term | Meaning | Why it matters |
-|---|---|---|
-| Individual differences | Variations among people in characteristics and behaviour patterns | Psychology studies how and why people differ |
-| Situationism | View that behaviour is strongly influenced by situations and circumstances | It balances trait-based explanations |
-| Psychological assessment | Measurement and evaluation of psychological attributes using systematic methods | It is the foundation for understanding and intervention |
-| Intelligence | Capacity to understand, reason, adapt, learn, and deal effectively with the environment | Major attribute studied in this chapter |
-| Aptitude | Potential to acquire specific knowledge or skill with training | Useful for educational and career guidance |
-| Interest | Preference for particular activities | Helps predict satisfaction and choice |
-| Personality | Relatively enduring characteristics that make a person distinct | Helps understand and predict behaviour |
-| Values | Enduring beliefs about ideal behaviour or goals | Guide action and judgment |
-| IQ | Intelligence quotient, traditionally calculated from mental age and chronological age | Used historically to classify intellectual ability |
-| Emotional intelligence | Ability to perceive, understand, regulate, and use emotions effectively | Important for relationships and life success |
-| Creativity | Ability to produce novel, appropriate, and useful ideas or products | Different from, but related to, intelligence |
+| Term                     | Meaning                                                                                 | Why it matters                                          |
+| ------------------------ | --------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| Individual differences   | Variations among people in characteristics and behaviour patterns                       | Psychology studies how and why people differ            |
+| Situationism             | View that behaviour is strongly influenced by situations and circumstances              | It balances trait-based explanations                    |
+| Psychological assessment | Measurement and evaluation of psychological attributes using systematic methods         | It is the foundation for understanding and intervention |
+| Intelligence             | Capacity to understand, reason, adapt, learn, and deal effectively with the environment | Major attribute studied in this chapter                 |
+| Aptitude                 | Potential to acquire specific knowledge or skill with training                          | Useful for educational and career guidance              |
+| Interest                 | Preference for particular activities                                                    | Helps predict satisfaction and choice                   |
+| Personality              | Relatively enduring characteristics that make a person distinct                         | Helps understand and predict behaviour                  |
+| Values                   | Enduring beliefs about ideal behaviour or goals                                         | Guide action and judgment                               |
+| IQ                       | Intelligence quotient, traditionally calculated from mental age and chronological age   | Used historically to classify intellectual ability      |
+| Emotional intelligence   | Ability to perceive, understand, regulate, and use emotions effectively                 | Important for relationships and life success            |
+| Creativity               | Ability to produce novel, appropriate, and useful ideas or products                     | Different from, but related to, intelligence            |
 
 ## 1. Individual Differences
 
@@ -609,11 +609,11 @@ An aptitude test predicts what a person may be able to do with proper training.
 
 Aptitude and interest are different.
 
-| Concept | Meaning | Example |
-|---|---|---|
-| Aptitude | Potential to perform or learn a skill | High mechanical reasoning |
-| Interest | Preference or liking | Enjoying machines and engineering tasks |
-| Intelligence | General ability to reason and adapt | Solving problems across areas |
+| Concept      | Meaning                               | Example                                 |
+| ------------ | ------------------------------------- | --------------------------------------- |
+| Aptitude     | Potential to perform or learn a skill | High mechanical reasoning               |
+| Interest     | Preference or liking                  | Enjoying machines and engineering tasks |
+| Intelligence | General ability to reason and adapt   | Solving problems across areas           |
 
 Best performance is likely when aptitude and interest are both present.
 
@@ -731,4 +731,3 @@ Emotional intelligence refers to the ability to perceive, understand, regulate, 
 - Emotional intelligence concerns emotion perception, understanding, and regulation.
 - Aptitude is specific potential; interest is preference.
 - Creativity involves novel, appropriate, and useful production.
-

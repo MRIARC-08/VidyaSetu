@@ -1,4 +1,5 @@
 # Chapter 2: Financial Statements - II
+
 ### NCERT Class 11 - Accountancy Part 2
 
 ## Chapter at a Glance
@@ -9,23 +10,23 @@ In the previous chapter, final accounts were prepared from a simple trial balanc
 
 Because accounting follows the accrual basis, all these items must be adjusted before finding profit and preparing the balance sheet.
 
-| Area | Main Skill |
-|---|---|
-| Accrual basis | Recording income when earned and expense when incurred |
-| Adjusting entries | Recording missing or correcting entries at year end |
-| Closing stock | Showing unsold goods in trading account and balance sheet |
-| Outstanding expenses | Adding unpaid expenses and creating liability |
-| Prepaid expenses | Deducting unexpired expenses and creating asset |
-| Accrued income | Adding earned income not yet received and creating asset |
-| Income received in advance | Deducting unearned income and creating liability |
-| Depreciation | Charging asset use to profit and reducing asset value |
-| Further bad debts | Writing off additional irrecoverable debtors |
-| Provision for doubtful debts | Estimating possible debtor loss |
-| Provision for discount on debtors | Estimating discount likely to be allowed to debtors |
-| Manager's commission | Calculating commission before or after charging commission |
-| Interest on capital | Charging business for use of proprietor's capital |
-| Interest on drawings | Charging proprietor for personal withdrawals |
-| Final accounts with adjustments | Showing every adjustment in two places |
+| Area                              | Main Skill                                                 |
+| --------------------------------- | ---------------------------------------------------------- |
+| Accrual basis                     | Recording income when earned and expense when incurred     |
+| Adjusting entries                 | Recording missing or correcting entries at year end        |
+| Closing stock                     | Showing unsold goods in trading account and balance sheet  |
+| Outstanding expenses              | Adding unpaid expenses and creating liability              |
+| Prepaid expenses                  | Deducting unexpired expenses and creating asset            |
+| Accrued income                    | Adding earned income not yet received and creating asset   |
+| Income received in advance        | Deducting unearned income and creating liability           |
+| Depreciation                      | Charging asset use to profit and reducing asset value      |
+| Further bad debts                 | Writing off additional irrecoverable debtors               |
+| Provision for doubtful debts      | Estimating possible debtor loss                            |
+| Provision for discount on debtors | Estimating discount likely to be allowed to debtors        |
+| Manager's commission              | Calculating commission before or after charging commission |
+| Interest on capital               | Charging business for use of proprietor's capital          |
+| Interest on drawings              | Charging proprietor for personal withdrawals               |
+| Final accounts with adjustments   | Showing every adjustment in two places                     |
 
 ## Learning Outcomes
 
@@ -55,25 +56,25 @@ After studying this chapter, a learner should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Adjustment | Year-end correction or additional entry needed for correct final accounts |
-| Adjusting entry | Journal entry passed to record an adjustment |
-| Accrual basis | Income is recorded when earned and expense when incurred |
-| Outstanding expense | Expense of current year not yet paid |
-| Prepaid expense | Expense paid in current year but relating to next year |
-| Accrued income | Income earned in current year but not yet received |
-| Income received in advance | Income received but not yet earned |
-| Closing stock | Unsold goods at the end of the accounting period |
-| Depreciation | Expired cost of fixed asset charged to profit and loss account |
-| Further bad debts | Additional bad debts found after trial balance |
-| Provision for doubtful debts | Estimate of possible loss from debtors |
-| Provision for discount on debtors | Estimate of discount expected to be allowed to debtors |
-| Manager's commission | Commission payable to manager based on profit |
-| Interest on capital | Interest allowed to proprietor on capital invested |
-| Interest on drawings | Interest charged to proprietor on drawings |
-| Unexpired expense | Another name for prepaid expense |
-| Unearned income | Another name for income received in advance |
+| Term                              | Meaning                                                                   |
+| --------------------------------- | ------------------------------------------------------------------------- |
+| Adjustment                        | Year-end correction or additional entry needed for correct final accounts |
+| Adjusting entry                   | Journal entry passed to record an adjustment                              |
+| Accrual basis                     | Income is recorded when earned and expense when incurred                  |
+| Outstanding expense               | Expense of current year not yet paid                                      |
+| Prepaid expense                   | Expense paid in current year but relating to next year                    |
+| Accrued income                    | Income earned in current year but not yet received                        |
+| Income received in advance        | Income received but not yet earned                                        |
+| Closing stock                     | Unsold goods at the end of the accounting period                          |
+| Depreciation                      | Expired cost of fixed asset charged to profit and loss account            |
+| Further bad debts                 | Additional bad debts found after trial balance                            |
+| Provision for doubtful debts      | Estimate of possible loss from debtors                                    |
+| Provision for discount on debtors | Estimate of discount expected to be allowed to debtors                    |
+| Manager's commission              | Commission payable to manager based on profit                             |
+| Interest on capital               | Interest allowed to proprietor on capital invested                        |
+| Interest on drawings              | Interest charged to proprietor on drawings                                |
+| Unexpired expense                 | Another name for prepaid expense                                          |
+| Unearned income                   | Another name for income received in advance                               |
 
 # Unit 2A: Need for Adjustments
 
@@ -118,16 +119,16 @@ Every adjustment must appear in two places.
 
 This is the most important rule of this chapter.
 
-| Adjustment Type | First Effect | Second Effect |
-|---|---|---|
-| Outstanding expense | Add to expense | Show liability |
-| Prepaid expense | Deduct from expense | Show asset |
-| Accrued income | Add to income | Show asset |
-| Income received in advance | Deduct from income | Show liability |
-| Depreciation | Debit profit and loss account | Deduct from asset |
-| Further bad debts | Add to bad debts | Deduct from debtors |
+| Adjustment Type              | First Effect                  | Second Effect       |
+| ---------------------------- | ----------------------------- | ------------------- |
+| Outstanding expense          | Add to expense                | Show liability      |
+| Prepaid expense              | Deduct from expense           | Show asset          |
+| Accrued income               | Add to income                 | Show asset          |
+| Income received in advance   | Deduct from income            | Show liability      |
+| Depreciation                 | Debit profit and loss account | Deduct from asset   |
+| Further bad debts            | Add to bad debts              | Deduct from debtors |
 | Provision for doubtful debts | Debit profit and loss account | Deduct from debtors |
-| Closing stock | Credit trading account | Show asset |
+| Closing stock                | Credit trading account        | Show asset          |
 
 ## List of Common Adjustments
 
@@ -164,17 +165,17 @@ If closing stock is given as an adjustment outside the trial balance, it must be
 
 ## Journal Entry
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Closing Stock A/c Dr. | xxx |  |
-| To Trading A/c |  | xxx |
+| Entry                 | Debit Rs. | Credit Rs. |
+| --------------------- | --------: | ---------: |
+| Closing Stock A/c Dr. |       xxx |            |
+| To Trading A/c        |           |        xxx |
 
 ## Final Account Treatment
 
-| Account | Treatment |
-|---|---|
+| Account         | Treatment   |
+| --------------- | ----------- |
 | Trading account | Credit side |
-| Balance sheet | Asset side |
+| Balance sheet   | Asset side  |
 
 ## Example
 
@@ -182,10 +183,10 @@ Closing stock = Rs. 15,000
 
 Entry:
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Closing Stock A/c Dr. | 15,000 |  |
-| To Trading A/c |  | 15,000 |
+| Particulars           | Debit Rs. | Credit Rs. |
+| --------------------- | --------: | ---------: |
+| Closing Stock A/c Dr. |    15,000 |            |
+| To Trading A/c        |           |     15,000 |
 
 Trading account:
 
@@ -210,12 +211,12 @@ Sometimes opening stock and closing stock are adjusted through purchases.
 
 Entries:
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Closing Stock A/c Dr. | xxx |  |
-| To Purchases A/c |  | xxx |
-| Purchases A/c Dr. | xxx |  |
-| To Opening Stock A/c |  | xxx |
+| Entry                 | Debit Rs. | Credit Rs. |
+| --------------------- | --------: | ---------: |
+| Closing Stock A/c Dr. |       xxx |            |
+| To Purchases A/c      |           |        xxx |
+| Purchases A/c Dr.     |       xxx |            |
+| To Opening Stock A/c  |           |        xxx |
 
 In this case:
 
@@ -240,24 +241,24 @@ Examples:
 
 ## Journal Entry
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Concerned Expense A/c Dr. | xxx |  |
-| To Outstanding Expense A/c |  | xxx |
+| Entry                      | Debit Rs. | Credit Rs. |
+| -------------------------- | --------: | ---------: |
+| Concerned Expense A/c Dr.  |       xxx |            |
+| To Outstanding Expense A/c |           |        xxx |
 
 Example:
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Wages A/c Dr. | 500 |  |
-| To Outstanding Wages A/c |  | 500 |
+| Particulars              | Debit Rs. | Credit Rs. |
+| ------------------------ | --------: | ---------: |
+| Wages A/c Dr.            |       500 |            |
+| To Outstanding Wages A/c |           |        500 |
 
 ## Final Account Treatment
 
-| Account | Treatment |
-|---|---|
-| Trading account or profit and loss account | Add to concerned expense |
-| Balance sheet | Show as current liability |
+| Account                                    | Treatment                 |
+| ------------------------------------------ | ------------------------- |
+| Trading account or profit and loss account | Add to concerned expense  |
+| Balance sheet                              | Show as current liability |
 
 ## Example
 
@@ -297,24 +298,24 @@ Examples:
 
 ## Journal Entry
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Prepaid Expense A/c Dr. | xxx |  |
-| To Concerned Expense A/c |  | xxx |
+| Entry                    | Debit Rs. | Credit Rs. |
+| ------------------------ | --------: | ---------: |
+| Prepaid Expense A/c Dr.  |       xxx |            |
+| To Concerned Expense A/c |           |        xxx |
 
 Example:
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Prepaid Salary A/c Dr. | 5,000 |  |
-| To Salary A/c |  | 5,000 |
+| Particulars            | Debit Rs. | Credit Rs. |
+| ---------------------- | --------: | ---------: |
+| Prepaid Salary A/c Dr. |     5,000 |            |
+| To Salary A/c          |           |      5,000 |
 
 ## Final Account Treatment
 
-| Account | Treatment |
-|---|---|
+| Account                                    | Treatment                     |
+| ------------------------------------------ | ----------------------------- |
 | Trading account or profit and loss account | Deduct from concerned expense |
-| Balance sheet | Show as current asset |
+| Balance sheet                              | Show as current asset         |
 
 ## Example
 
@@ -366,24 +367,24 @@ Examples:
 
 ## Journal Entry
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Accrued Income A/c Dr. | xxx |  |
-| To Concerned Income A/c |  | xxx |
+| Entry                   | Debit Rs. | Credit Rs. |
+| ----------------------- | --------: | ---------: |
+| Accrued Income A/c Dr.  |       xxx |            |
+| To Concerned Income A/c |           |        xxx |
 
 Example:
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Accrued Commission A/c Dr. | 1,500 |  |
-| To Commission A/c |  | 1,500 |
+| Particulars                | Debit Rs. | Credit Rs. |
+| -------------------------- | --------: | ---------: |
+| Accrued Commission A/c Dr. |     1,500 |            |
+| To Commission A/c          |           |      1,500 |
 
 ## Final Account Treatment
 
-| Account | Treatment |
-|---|---|
+| Account                 | Treatment               |
+| ----------------------- | ----------------------- |
 | Profit and loss account | Add to concerned income |
-| Balance sheet | Show as current asset |
+| Balance sheet           | Show as current asset   |
 
 ## Example
 
@@ -418,24 +419,24 @@ Examples:
 
 ## Journal Entry
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Concerned Income A/c Dr. | xxx |  |
-| To Income Received in Advance A/c |  | xxx |
+| Entry                             | Debit Rs. | Credit Rs. |
+| --------------------------------- | --------: | ---------: |
+| Concerned Income A/c Dr.          |       xxx |            |
+| To Income Received in Advance A/c |           |        xxx |
 
 Example:
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Rent Received A/c Dr. | 3,000 |  |
-| To Rent Received in Advance A/c |  | 3,000 |
+| Particulars                     | Debit Rs. | Credit Rs. |
+| ------------------------------- | --------: | ---------: |
+| Rent Received A/c Dr.           |     3,000 |            |
+| To Rent Received in Advance A/c |           |      3,000 |
 
 ## Final Account Treatment
 
-| Account | Treatment |
-|---|---|
+| Account                 | Treatment                    |
+| ----------------------- | ---------------------------- |
 | Profit and loss account | Deduct from concerned income |
-| Balance sheet | Show as current liability |
+| Balance sheet           | Show as current liability    |
 
 ## Example
 
@@ -465,10 +466,10 @@ It is a business expense and must be debited to profit and loss account.
 
 ## Journal Entry
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Depreciation A/c Dr. | xxx |  |
-| To Concerned Asset A/c |  | xxx |
+| Entry                  | Debit Rs. | Credit Rs. |
+| ---------------------- | --------: | ---------: |
+| Depreciation A/c Dr.   |       xxx |            |
+| To Concerned Asset A/c |           |        xxx |
 
 Example:
 
@@ -482,24 +483,24 @@ Depreciation:
 
 Entry:
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Depreciation A/c Dr. | 1,500 |  |
-| To Furniture A/c |  | 1,500 |
+| Particulars          | Debit Rs. | Credit Rs. |
+| -------------------- | --------: | ---------: |
+| Depreciation A/c Dr. |     1,500 |            |
+| To Furniture A/c     |           |      1,500 |
 
 ## Final Account Treatment
 
-| Account | Treatment |
-|---|---|
-| Profit and loss account | Debit depreciation |
-| Balance sheet | Deduct depreciation from the asset |
+| Account                 | Treatment                          |
+| ----------------------- | ---------------------------------- |
+| Profit and loss account | Debit depreciation                 |
+| Balance sheet           | Deduct depreciation from the asset |
 
 ## Balance Sheet Extract
 
-| Asset | Rs. |
-|---|---:|
-| Furniture | 15,000 |
-| Less: Depreciation | 1,500 |
+| Asset              |    Rs. |
+| ------------------ | -----: |
+| Furniture          | 15,000 |
+| Less: Depreciation |  1,500 |
 | Written down value | 13,500 |
 
 # Unit 2H: Further Bad Debts
@@ -512,17 +513,17 @@ Further bad debts are additional bad debts discovered after trial balance.
 
 ## Journal Entry
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Bad Debts A/c Dr. | xxx |  |
-| To Sundry Debtors A/c |  | xxx |
+| Entry                 | Debit Rs. | Credit Rs. |
+| --------------------- | --------: | ---------: |
+| Bad Debts A/c Dr.     |       xxx |            |
+| To Sundry Debtors A/c |           |        xxx |
 
 ## Final Account Treatment
 
-| Account | Treatment |
-|---|---|
-| Profit and loss account | Add to bad debts |
-| Balance sheet | Deduct from debtors |
+| Account                 | Treatment           |
+| ----------------------- | ------------------- |
+| Profit and loss account | Add to bad debts    |
+| Balance sheet           | Deduct from debtors |
 
 ## Example
 
@@ -562,24 +563,24 @@ It is created under prudence. Expected loss should be recognised even before it 
 
 ## Journal Entry When New Provision Is Created or Increased
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Profit and Loss A/c Dr. | xxx |  |
-| To Provision for Doubtful Debts A/c |  | xxx |
+| Entry                               | Debit Rs. | Credit Rs. |
+| ----------------------------------- | --------: | ---------: |
+| Profit and Loss A/c Dr.             |       xxx |            |
+| To Provision for Doubtful Debts A/c |           |        xxx |
 
 ## Journal Entry When Existing Provision Is More Than Required
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Provision for Doubtful Debts A/c Dr. | xxx |  |
-| To Profit and Loss A/c |  | xxx |
+| Entry                                | Debit Rs. | Credit Rs. |
+| ------------------------------------ | --------: | ---------: |
+| Provision for Doubtful Debts A/c Dr. |       xxx |            |
+| To Profit and Loss A/c               |           |        xxx |
 
 ## Final Account Treatment
 
-| Account | Treatment |
-|---|---|
+| Account                 | Treatment                                                 |
+| ----------------------- | --------------------------------------------------------- |
 | Profit and loss account | Debit increase in provision; credit decrease in provision |
-| Balance sheet | Deduct required provision from debtors |
+| Balance sheet           | Deduct required provision from debtors                    |
 
 ## Example 1: No Existing Provision
 
@@ -660,17 +661,17 @@ Discount will be allowed only to debtors who are expected to pay.
 
 ## Journal Entry
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Profit and Loss A/c Dr. | xxx |  |
-| To Provision for Discount on Debtors A/c |  | xxx |
+| Entry                                    | Debit Rs. | Credit Rs. |
+| ---------------------------------------- | --------: | ---------: |
+| Profit and Loss A/c Dr.                  |       xxx |            |
+| To Provision for Discount on Debtors A/c |           |        xxx |
 
 ## Final Account Treatment
 
-| Account | Treatment |
-|---|---|
-| Profit and loss account | Debit provision for discount on debtors |
-| Balance sheet | Deduct from debtors after provision for doubtful debts |
+| Account                 | Treatment                                              |
+| ----------------------- | ------------------------------------------------------ |
+| Profit and loss account | Debit provision for discount on debtors                |
+| Balance sheet           | Deduct from debtors after provision for doubtful debts |
 
 ## Example
 
@@ -684,28 +685,28 @@ Provision for discount on debtors = 2%
 
 Calculation:
 
-| Particulars | Rs. |
-|---|---:|
-| Debtors | 15,500 |
-| Less: Further bad debts | 2,500 |
-|  | 13,000 |
-| Less: Provision for doubtful debts | 650 |
-| Debtors expected to pay | 12,350 |
-| Provision for discount at 2% | 247 |
+| Particulars                        |    Rs. |
+| ---------------------------------- | -----: |
+| Debtors                            | 15,500 |
+| Less: Further bad debts            |  2,500 |
+|                                    | 13,000 |
+| Less: Provision for doubtful debts |    650 |
+| Debtors expected to pay            | 12,350 |
+| Provision for discount at 2%       |    247 |
 
 If the raw question uses 1.84% or a rounded amount, it may show a different rupee figure. The method remains the same: calculate discount only on good debtors expected to pay.
 
 ## Balance Sheet Extract
 
-| Particulars | Rs. |
-|---|---:|
-| Debtors | 15,500 |
-| Less: Further bad debts | 2,500 |
-|  | 13,000 |
-| Less: Provision for doubtful debts | 650 |
-|  | 12,350 |
-| Less: Provision for discount on debtors | 247 |
-| Net debtors | 12,103 |
+| Particulars                             |    Rs. |
+| --------------------------------------- | -----: |
+| Debtors                                 | 15,500 |
+| Less: Further bad debts                 |  2,500 |
+|                                         | 13,000 |
+| Less: Provision for doubtful debts      |    650 |
+|                                         | 12,350 |
+| Less: Provision for discount on debtors |    247 |
+| Net debtors                             | 12,103 |
 
 # Unit 2K: Manager's Commission
 
@@ -762,24 +763,24 @@ Net profit after commission:
 
 For commission payable:
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Manager's Commission A/c Dr. | xxx |  |
-| To Outstanding Manager's Commission A/c |  | xxx |
+| Entry                                   | Debit Rs. | Credit Rs. |
+| --------------------------------------- | --------: | ---------: |
+| Manager's Commission A/c Dr.            |       xxx |            |
+| To Outstanding Manager's Commission A/c |           |        xxx |
 
 For transfer to profit and loss account:
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Profit and Loss A/c Dr. | xxx |  |
-| To Manager's Commission A/c |  | xxx |
+| Entry                       | Debit Rs. | Credit Rs. |
+| --------------------------- | --------: | ---------: |
+| Profit and Loss A/c Dr.     |       xxx |            |
+| To Manager's Commission A/c |           |        xxx |
 
 ## Final Account Treatment
 
-| Account | Treatment |
-|---|---|
-| Profit and loss account | Debit manager's commission |
-| Balance sheet | Show outstanding commission as liability |
+| Account                 | Treatment                                |
+| ----------------------- | ---------------------------------------- |
+| Profit and loss account | Debit manager's commission               |
+| Balance sheet           | Show outstanding commission as liability |
 
 ## If the Question Is Silent
 
@@ -797,17 +798,17 @@ From proprietor point of view, it increases capital.
 
 ## Journal Entry
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Interest on Capital A/c Dr. | xxx |  |
-| To Capital A/c |  | xxx |
+| Entry                       | Debit Rs. | Credit Rs. |
+| --------------------------- | --------: | ---------: |
+| Interest on Capital A/c Dr. |       xxx |            |
+| To Capital A/c              |           |        xxx |
 
 ## Final Account Treatment
 
-| Account | Treatment |
-|---|---|
+| Account                 | Treatment                 |
+| ----------------------- | ------------------------- |
 | Profit and loss account | Debit interest on capital |
-| Balance sheet | Add to capital |
+| Balance sheet           | Add to capital            |
 
 ## Example
 
@@ -861,19 +862,19 @@ From proprietor point of view, it reduces capital.
 
 ## Journal Entry
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Drawings A/c Dr. | xxx |  |
-| To Interest on Drawings A/c |  | xxx |
+| Entry                       | Debit Rs. | Credit Rs. |
+| --------------------------- | --------: | ---------: |
+| Drawings A/c Dr.            |       xxx |            |
+| To Interest on Drawings A/c |           |        xxx |
 
 Alternative presentation may debit Capital A/c directly.
 
 ## Final Account Treatment
 
-| Account | Treatment |
-|---|---|
-| Profit and loss account | Credit interest on drawings |
-| Balance sheet | Deduct from capital with drawings |
+| Account                 | Treatment                         |
+| ----------------------- | --------------------------------- |
+| Profit and loss account | Credit interest on drawings       |
+| Balance sheet           | Deduct from capital with drawings |
 
 ## Example
 
@@ -905,10 +906,10 @@ Such items must be removed from expense and added to asset.
 
 ## General Journal Entry
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Asset A/c Dr. | xxx |  |
-| To Expense A/c |  | xxx |
+| Entry          | Debit Rs. | Credit Rs. |
+| -------------- | --------: | ---------: |
+| Asset A/c Dr.  |       xxx |            |
+| To Expense A/c |           |        xxx |
 
 ## Example: Wages for Erection of Machinery
 
@@ -916,10 +917,10 @@ Wages include Rs. 4,000 for erection of new machinery.
 
 Entry:
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Machinery A/c Dr. | 4,000 |  |
-| To Wages A/c |  | 4,000 |
+| Particulars       | Debit Rs. | Credit Rs. |
+| ----------------- | --------: | ---------: |
+| Machinery A/c Dr. |     4,000 |            |
+| To Wages A/c      |           |      4,000 |
 
 Final account treatment:
 
@@ -933,10 +934,10 @@ Furniture costing Rs. 7,000 was entered in purchases book.
 
 Entry:
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Furniture A/c Dr. | 7,000 |  |
-| To Purchases A/c |  | 7,000 |
+| Particulars       | Debit Rs. | Credit Rs. |
+| ----------------- | --------: | ---------: |
+| Furniture A/c Dr. |     7,000 |            |
+| To Purchases A/c  |           |      7,000 |
 
 Final account treatment:
 
@@ -954,17 +955,17 @@ Because purchases include those goods, purchases must be reduced.
 
 ## Journal Entry
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Drawings A/c Dr. | xxx |  |
-| To Purchases A/c |  | xxx |
+| Entry            | Debit Rs. | Credit Rs. |
+| ---------------- | --------: | ---------: |
+| Drawings A/c Dr. |       xxx |            |
+| To Purchases A/c |           |        xxx |
 
 ## Final Account Treatment
 
-| Account | Treatment |
-|---|---|
-| Trading account | Deduct from purchases |
-| Balance sheet | Deduct from capital as drawings |
+| Account         | Treatment                       |
+| --------------- | ------------------------------- |
+| Trading account | Deduct from purchases           |
+| Balance sheet   | Deduct from capital as drawings |
 
 ## Example
 
@@ -994,10 +995,10 @@ If goods costing Rs. 1,200 were sent on sale or return basis for Rs. 1,400 and r
 
 ## Correction Entry for Sale Value
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Sales A/c Dr. | 1,400 |  |
-| To Debtors A/c |  | 1,400 |
+| Entry          | Debit Rs. | Credit Rs. |
+| -------------- | --------: | ---------: |
+| Sales A/c Dr.  |     1,400 |            |
+| To Debtors A/c |           |      1,400 |
 
 ## Stock Treatment
 
@@ -1005,43 +1006,43 @@ Closing stock should include Rs. 1,200 because goods still belong to the busines
 
 # Unit 2Q: Complete Adjustment Matrix
 
-| Adjustment | Journal Entry | Trading/P&L Treatment | Balance Sheet Treatment |
-|---|---|---|---|
-| Closing stock | Closing Stock A/c Dr. To Trading A/c | Credit trading account | Show as asset |
-| Outstanding expense | Expense A/c Dr. To Outstanding Expense A/c | Add to expense | Show as liability |
-| Prepaid expense | Prepaid Expense A/c Dr. To Expense A/c | Deduct from expense | Show as asset |
-| Accrued income | Accrued Income A/c Dr. To Income A/c | Add to income | Show as asset |
-| Income received in advance | Income A/c Dr. To Income Received in Advance A/c | Deduct from income | Show as liability |
-| Depreciation | Depreciation A/c Dr. To Asset A/c | Debit P&L | Deduct from asset |
-| Further bad debts | Bad Debts A/c Dr. To Debtors A/c | Add to bad debts | Deduct from debtors |
-| Provision for doubtful debts | P&L A/c Dr. To Provision for Doubtful Debts A/c | Debit increase in provision | Deduct full provision from debtors |
-| Provision for discount on debtors | P&L A/c Dr. To Provision for Discount on Debtors A/c | Debit provision | Deduct from debtors after doubtful debt provision |
-| Manager's commission | Manager's Commission A/c Dr. To Outstanding Commission A/c | Debit P&L | Show liability |
-| Interest on capital | Interest on Capital A/c Dr. To Capital A/c | Debit P&L | Add to capital |
-| Interest on drawings | Drawings A/c Dr. To Interest on Drawings A/c | Credit P&L | Deduct from capital |
-| Goods withdrawn | Drawings A/c Dr. To Purchases A/c | Deduct from purchases | Deduct from capital |
-| Capital expenditure in expense | Asset A/c Dr. To Expense A/c | Deduct from expense | Add to asset |
+| Adjustment                        | Journal Entry                                              | Trading/P&L Treatment       | Balance Sheet Treatment                           |
+| --------------------------------- | ---------------------------------------------------------- | --------------------------- | ------------------------------------------------- |
+| Closing stock                     | Closing Stock A/c Dr. To Trading A/c                       | Credit trading account      | Show as asset                                     |
+| Outstanding expense               | Expense A/c Dr. To Outstanding Expense A/c                 | Add to expense              | Show as liability                                 |
+| Prepaid expense                   | Prepaid Expense A/c Dr. To Expense A/c                     | Deduct from expense         | Show as asset                                     |
+| Accrued income                    | Accrued Income A/c Dr. To Income A/c                       | Add to income               | Show as asset                                     |
+| Income received in advance        | Income A/c Dr. To Income Received in Advance A/c           | Deduct from income          | Show as liability                                 |
+| Depreciation                      | Depreciation A/c Dr. To Asset A/c                          | Debit P&L                   | Deduct from asset                                 |
+| Further bad debts                 | Bad Debts A/c Dr. To Debtors A/c                           | Add to bad debts            | Deduct from debtors                               |
+| Provision for doubtful debts      | P&L A/c Dr. To Provision for Doubtful Debts A/c            | Debit increase in provision | Deduct full provision from debtors                |
+| Provision for discount on debtors | P&L A/c Dr. To Provision for Discount on Debtors A/c       | Debit provision             | Deduct from debtors after doubtful debt provision |
+| Manager's commission              | Manager's Commission A/c Dr. To Outstanding Commission A/c | Debit P&L                   | Show liability                                    |
+| Interest on capital               | Interest on Capital A/c Dr. To Capital A/c                 | Debit P&L                   | Add to capital                                    |
+| Interest on drawings              | Drawings A/c Dr. To Interest on Drawings A/c               | Credit P&L                  | Deduct from capital                               |
+| Goods withdrawn                   | Drawings A/c Dr. To Purchases A/c                          | Deduct from purchases       | Deduct from capital                               |
+| Capital expenditure in expense    | Asset A/c Dr. To Expense A/c                               | Deduct from expense         | Add to asset                                      |
 
 # Unit 2R: Running Example - Ankit With Adjustments
 
 ## Base Trial Balance Items
 
-| Account | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Cash | 1,000 |  |
-| Bank | 5,000 |  |
-| Wages | 8,000 |  |
-| Salaries | 25,000 |  |
-| Furniture | 15,000 |  |
-| Rent of building | 13,000 |  |
-| Debtors | 15,500 |  |
-| Bad debts | 4,500 |  |
-| Purchases | 75,000 |  |
-| Capital |  | 12,000 |
-| Sales |  | 1,25,000 |
-| Creditors |  | 15,000 |
-| Long-term loan |  | 5,000 |
-| Commission received |  | 5,000 |
+| Account             | Debit Rs. | Credit Rs. |
+| ------------------- | --------: | ---------: |
+| Cash                |     1,000 |            |
+| Bank                |     5,000 |            |
+| Wages               |     8,000 |            |
+| Salaries            |    25,000 |            |
+| Furniture           |    15,000 |            |
+| Rent of building    |    13,000 |            |
+| Debtors             |    15,500 |            |
+| Bad debts           |     4,500 |            |
+| Purchases           |    75,000 |            |
+| Capital             |           |     12,000 |
+| Sales               |           |   1,25,000 |
+| Creditors           |           |     15,000 |
+| Long-term loan      |           |      5,000 |
+| Commission received |           |      5,000 |
 
 ## Adjustments
 
@@ -1057,52 +1058,52 @@ Closing stock should include Rs. 1,200 because goods still belong to the busines
 
 ## Trading Account
 
-| Dr. Expenses/Losses | Rs. | Cr. Revenues/Gains | Rs. |
-|---|---:|---|---:|
-| Purchases | 75,000 | Sales | 1,25,000 |
-| Wages | 8,000 | Closing stock | 15,000 |
-| Add: Outstanding wages | 500 |  |  |
-| Wages adjusted | 8,500 |  |  |
-| Gross profit c/d | 56,500 |  |  |
-| Total | 1,40,000 | Total | 1,40,000 |
+| Dr. Expenses/Losses    |      Rs. | Cr. Revenues/Gains |      Rs. |
+| ---------------------- | -------: | ------------------ | -------: |
+| Purchases              |   75,000 | Sales              | 1,25,000 |
+| Wages                  |    8,000 | Closing stock      |   15,000 |
+| Add: Outstanding wages |      500 |                    |          |
+| Wages adjusted         |    8,500 |                    |          |
+| Gross profit c/d       |   56,500 |                    |          |
+| Total                  | 1,40,000 | Total              | 1,40,000 |
 
 ## Profit and Loss Account
 
-| Dr. Expenses/Losses | Rs. | Cr. Revenues/Gains | Rs. |
-|---|---:|---|---:|
-| Salaries | 25,000 | Gross profit b/d | 56,500 |
-| Less: Prepaid salary | (5,000) | Commission received | 5,000 |
-| Salaries adjusted | 20,000 | Add: Accrued commission | 1,500 |
-| Rent of building | 13,000 | Commission adjusted | 6,500 |
-| Depreciation on furniture | 1,500 |  |  |
-| Bad debts | 4,500 |  |  |
-| Add: Further bad debts | 2,500 |  |  |
-| Bad debts adjusted | 7,000 |  |  |
-| Provision for doubtful debts | 650 |  |  |
-| Provision for discount on debtors | 247 |  |  |
-| Net profit transferred to capital | 20,603 |  |  |
-| Total | 63,000 | Total | 63,000 |
+| Dr. Expenses/Losses               |     Rs. | Cr. Revenues/Gains      |    Rs. |
+| --------------------------------- | ------: | ----------------------- | -----: |
+| Salaries                          |  25,000 | Gross profit b/d        | 56,500 |
+| Less: Prepaid salary              | (5,000) | Commission received     |  5,000 |
+| Salaries adjusted                 |  20,000 | Add: Accrued commission |  1,500 |
+| Rent of building                  |  13,000 | Commission adjusted     |  6,500 |
+| Depreciation on furniture         |   1,500 |                         |        |
+| Bad debts                         |   4,500 |                         |        |
+| Add: Further bad debts            |   2,500 |                         |        |
+| Bad debts adjusted                |   7,000 |                         |        |
+| Provision for doubtful debts      |     650 |                         |        |
+| Provision for discount on debtors |     247 |                         |        |
+| Net profit transferred to capital |  20,603 |                         |        |
+| Total                             |  63,000 | Total                   | 63,000 |
 
 ## Balance Sheet
 
-| Liabilities | Rs. | Assets | Rs. |
-|---|---:|---|---:|
-| Creditors | 15,000 | Furniture | 15,000 |
-| Outstanding wages | 500 | Less: Depreciation | (1,500) |
-| Rent received in advance | 3,000 | Furniture WDV | 13,500 |
-| Long-term loan | 5,000 | Debtors | 15,500 |
-| Capital | 12,000 | Less: Further bad debts | (2,500) |
-| Add: Net profit | 20,603 |  | 13,000 |
-| Adjusted capital | 32,603 | Less: Provision for doubtful debts | (650) |
-|  |  |  | 12,350 |
-|  |  | Less: Provision for discount | (247) |
-|  |  | Net debtors | 12,103 |
-|  |  | Prepaid salary | 5,000 |
-|  |  | Accrued commission | 1,500 |
-|  |  | Bank | 5,000 |
-|  |  | Cash | 1,000 |
-|  |  | Closing stock | 15,000 |
-| Total | 56,103 | Total | 56,103 |
+| Liabilities              |    Rs. | Assets                             |     Rs. |
+| ------------------------ | -----: | ---------------------------------- | ------: |
+| Creditors                | 15,000 | Furniture                          |  15,000 |
+| Outstanding wages        |    500 | Less: Depreciation                 | (1,500) |
+| Rent received in advance |  3,000 | Furniture WDV                      |  13,500 |
+| Long-term loan           |  5,000 | Debtors                            |  15,500 |
+| Capital                  | 12,000 | Less: Further bad debts            | (2,500) |
+| Add: Net profit          | 20,603 |                                    |  13,000 |
+| Adjusted capital         | 32,603 | Less: Provision for doubtful debts |   (650) |
+|                          |        |                                    |  12,350 |
+|                          |        | Less: Provision for discount       |   (247) |
+|                          |        | Net debtors                        |  12,103 |
+|                          |        | Prepaid salary                     |   5,000 |
+|                          |        | Accrued commission                 |   1,500 |
+|                          |        | Bank                               |   5,000 |
+|                          |        | Cash                               |   1,000 |
+|                          |        | Closing stock                      |  15,000 |
+| Total                    | 56,103 | Total                              |  56,103 |
 
 ## Note on Rounding
 
@@ -1112,26 +1113,26 @@ Some textbook illustrations round provision for discount differently. In learner
 
 ## Problem Data
 
-| Debit Balances | Rs. | Credit Balances | Rs. |
-|---|---:|---|---:|
-| Drawings | 6,300 | Capital | 1,50,000 |
-| Cash at bank | 13,870 | Discount received | 2,980 |
-| Bills receivable | 1,860 | Loan | 15,000 |
-| Land and building | 42,580 | Purchases return | 1,450 |
-| Furniture | 5,130 | Sales | 2,81,500 |
-| Discount allowed | 3,960 | Reserve for bad debts | 4,650 |
-| Bank charges | 100 | Creditors | 18,670 |
-| Salaries | 6,420 |  |  |
-| Purchases | 1,99,080 |  |  |
-| Opening stock | 60,220 |  |  |
-| Sales return | 1,870 |  |  |
-| Carriage | 5,170 |  |  |
-| Rent and taxes | 7,680 |  |  |
-| General expenses | 3,630 |  |  |
-| Plant and machinery | 31,640 |  |  |
-| Book debts | 82,740 |  |  |
-| Bad debts | 1,250 |  |  |
-| Insurance | 750 |  |  |
+| Debit Balances      |      Rs. | Credit Balances       |      Rs. |
+| ------------------- | -------: | --------------------- | -------: |
+| Drawings            |    6,300 | Capital               | 1,50,000 |
+| Cash at bank        |   13,870 | Discount received     |    2,980 |
+| Bills receivable    |    1,860 | Loan                  |   15,000 |
+| Land and building   |   42,580 | Purchases return      |    1,450 |
+| Furniture           |    5,130 | Sales                 | 2,81,500 |
+| Discount allowed    |    3,960 | Reserve for bad debts |    4,650 |
+| Bank charges        |      100 | Creditors             |   18,670 |
+| Salaries            |    6,420 |                       |          |
+| Purchases           | 1,99,080 |                       |          |
+| Opening stock       |   60,220 |                       |          |
+| Sales return        |    1,870 |                       |          |
+| Carriage            |    5,170 |                       |          |
+| Rent and taxes      |    7,680 |                       |          |
+| General expenses    |    3,630 |                       |          |
+| Plant and machinery |   31,640 |                       |          |
+| Book debts          |   82,740 |                       |          |
+| Bad debts           |    1,250 |                       |          |
+| Insurance           |      750 |                       |          |
 
 Adjustments:
 
@@ -1143,54 +1144,54 @@ Adjustments:
 
 ## Trading Account
 
-| Dr. Expenses/Losses | Rs. | Cr. Revenues/Gains | Rs. |
-|---|---:|---|---:|
-| Opening stock | 60,220 | Sales | 2,81,500 |
-| Purchases | 1,99,080 | Less: Sales return | (1,870) |
-| Less: Purchases return | (1,450) | Net sales | 2,79,630 |
-| Net purchases | 1,97,630 | Closing stock | 70,000 |
-| Carriage | 5,170 |  |  |
-| Gross profit c/d | 86,610 |  |  |
-| Total | 3,49,630 | Total | 3,49,630 |
+| Dr. Expenses/Losses    |      Rs. | Cr. Revenues/Gains |      Rs. |
+| ---------------------- | -------: | ------------------ | -------: |
+| Opening stock          |   60,220 | Sales              | 2,81,500 |
+| Purchases              | 1,99,080 | Less: Sales return |  (1,870) |
+| Less: Purchases return |  (1,450) | Net sales          | 2,79,630 |
+| Net purchases          | 1,97,630 | Closing stock      |   70,000 |
+| Carriage               |    5,170 |                    |          |
+| Gross profit c/d       |   86,610 |                    |          |
+| Total                  | 3,49,630 | Total              | 3,49,630 |
 
 ## Profit and Loss Account
 
-| Dr. Expenses/Losses | Rs. | Cr. Revenues/Gains | Rs. |
-|---|---:|---|---:|
-| Discount allowed | 3,960 | Gross profit b/d | 86,610 |
-| Bank charges | 100 | Discount received | 2,980 |
-| Salaries | 6,420 |  |  |
-| Rent and taxes | 7,680 |  |  |
-| Add: Rent outstanding | 150 |  |  |
-| Rent and taxes adjusted | 7,830 |  |  |
-| General expenses | 3,630 |  |  |
-| Insurance | 750 |  |  |
-| Less: Prepaid insurance | (50) |  |  |
-| Insurance adjusted | 700 |  |  |
-| Bad debts | 1,250 |  |  |
-| Add: Required provision | 8,274 |  |  |
-|  | 9,524 |  |  |
-| Less: Existing provision | (4,650) |  |  |
-| Bad debts and provision charge | 4,874 |  |  |
-| Interest on loan outstanding | 900 |  |  |
-| Net profit transferred to capital | 61,176 |  |  |
-| Total | 89,590 | Total | 89,590 |
+| Dr. Expenses/Losses               |     Rs. | Cr. Revenues/Gains |    Rs. |
+| --------------------------------- | ------: | ------------------ | -----: |
+| Discount allowed                  |   3,960 | Gross profit b/d   | 86,610 |
+| Bank charges                      |     100 | Discount received  |  2,980 |
+| Salaries                          |   6,420 |                    |        |
+| Rent and taxes                    |   7,680 |                    |        |
+| Add: Rent outstanding             |     150 |                    |        |
+| Rent and taxes adjusted           |   7,830 |                    |        |
+| General expenses                  |   3,630 |                    |        |
+| Insurance                         |     750 |                    |        |
+| Less: Prepaid insurance           |    (50) |                    |        |
+| Insurance adjusted                |     700 |                    |        |
+| Bad debts                         |   1,250 |                    |        |
+| Add: Required provision           |   8,274 |                    |        |
+|                                   |   9,524 |                    |        |
+| Less: Existing provision          | (4,650) |                    |        |
+| Bad debts and provision charge    |   4,874 |                    |        |
+| Interest on loan outstanding      |     900 |                    |        |
+| Net profit transferred to capital |  61,176 |                    |        |
+| Total                             |  89,590 | Total              | 89,590 |
 
 ## Balance Sheet
 
-| Liabilities | Rs. | Assets | Rs. |
-|---|---:|---|---:|
-| Creditors | 18,670 | Cash at bank | 13,870 |
-| Loan | 15,000 | Book debts | 82,740 |
-| Add: Interest outstanding | 900 | Less: Provision for bad debts | (8,274) |
-| Loan adjusted | 15,900 | Net debtors | 74,466 |
-| Rent outstanding | 150 | Bills receivable | 1,860 |
-| Capital | 1,50,000 | Land and building | 42,580 |
-| Add: Net profit | 61,176 | Furniture | 5,130 |
-|  | 2,11,176 | Plant and machinery | 31,640 |
-| Less: Drawings | (6,300) | Prepaid insurance | 50 |
-| Closing capital | 2,04,876 | Closing stock | 70,000 |
-| Total | 2,39,596 | Total | 2,39,596 |
+| Liabilities               |      Rs. | Assets                        |      Rs. |
+| ------------------------- | -------: | ----------------------------- | -------: |
+| Creditors                 |   18,670 | Cash at bank                  |   13,870 |
+| Loan                      |   15,000 | Book debts                    |   82,740 |
+| Add: Interest outstanding |      900 | Less: Provision for bad debts |  (8,274) |
+| Loan adjusted             |   15,900 | Net debtors                   |   74,466 |
+| Rent outstanding          |      150 | Bills receivable              |    1,860 |
+| Capital                   | 1,50,000 | Land and building             |   42,580 |
+| Add: Net profit           |   61,176 | Furniture                     |    5,130 |
+|                           | 2,11,176 | Plant and machinery           |   31,640 |
+| Less: Drawings            |  (6,300) | Prepaid insurance             |       50 |
+| Closing capital           | 2,04,876 | Closing stock                 |   70,000 |
+| Total                     | 2,39,596 | Total                         | 2,39,596 |
 
 # Unit 2T: Worked Example - Adjustment Entries
 
@@ -1208,21 +1209,21 @@ Mohit Traders has the following adjustments:
 
 ## Adjusting Entries
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Salaries A/c Dr. | 12,000 |  |
-| Wages A/c Dr. | 6,000 |  |
-| To Salaries Outstanding A/c |  | 12,000 |
-| To Wages Outstanding A/c |  | 6,000 |
-| Prepaid Insurance A/c Dr. | 700 |  |
-| To Insurance A/c |  | 700 |
-| Accrued Commission A/c Dr. | 2,400 |  |
-| To Commission A/c |  | 2,400 |
-| Depreciation A/c Dr. | 7,400 |  |
-| To Building A/c |  | 5,000 |
-| To Plant A/c |  | 2,400 |
-| Closing Stock A/c Dr. | 12,000 |  |
-| To Trading A/c |  | 12,000 |
+| Particulars                 | Debit Rs. | Credit Rs. |
+| --------------------------- | --------: | ---------: |
+| Salaries A/c Dr.            |    12,000 |            |
+| Wages A/c Dr.               |     6,000 |            |
+| To Salaries Outstanding A/c |           |     12,000 |
+| To Wages Outstanding A/c    |           |      6,000 |
+| Prepaid Insurance A/c Dr.   |       700 |            |
+| To Insurance A/c            |           |        700 |
+| Accrued Commission A/c Dr.  |     2,400 |            |
+| To Commission A/c           |           |      2,400 |
+| Depreciation A/c Dr.        |     7,400 |            |
+| To Building A/c             |           |      5,000 |
+| To Plant A/c                |           |      2,400 |
+| Closing Stock A/c Dr.       |    12,000 |            |
+| To Trading A/c              |           |     12,000 |
 
 ## Notes
 
@@ -1288,22 +1289,22 @@ New provision required = 10%
 
 ## Step 4: Profit and Loss Debit
 
-| Item | Rs. |
-|---|---:|
-| Bad debts in trial balance | 500 |
-| Further bad debts | 300 |
-| Increase in provision | 1,020 |
+| Item                           |   Rs. |
+| ------------------------------ | ----: |
+| Bad debts in trial balance     |   500 |
+| Further bad debts              |   300 |
+| Increase in provision          | 1,020 |
 | Total debit to profit and loss | 1,820 |
 
 ## Balance Sheet Debtors
 
-| Particulars | Rs. |
-|---|---:|
-| Debtors | 30,500 |
-| Less: Further bad debts | 300 |
-|  | 30,200 |
-| Less: Provision for doubtful debts | 3,020 |
-| Net debtors | 27,180 |
+| Particulars                        |    Rs. |
+| ---------------------------------- | -----: |
+| Debtors                            | 30,500 |
+| Less: Further bad debts            |    300 |
+|                                    | 30,200 |
+| Less: Provision for doubtful debts |  3,020 |
+| Net debtors                        | 27,180 |
 
 ## Case 2: Existing Provision More Than Required
 
@@ -1356,38 +1357,38 @@ An item outside trial balance is additional information and must usually be reco
 
 ## Closing Stock
 
-| Situation | Trading Account | Balance Sheet |
-|---|---|---|
+| Situation                           | Trading Account        | Balance Sheet |
+| ----------------------------------- | ---------------------- | ------------- |
 | Closing stock outside trial balance | Credit trading account | Show as asset |
-| Closing stock inside trial balance | Do not credit again | Show as asset |
+| Closing stock inside trial balance  | Do not credit again    | Show as asset |
 
 ## Bad Debts
 
-| Situation | P&L Treatment | Balance Sheet Treatment |
-|---|---|---|
-| Bad debts in trial balance | Already recorded; debit P&L | No deduction from debtors again |
-| Further bad debts outside trial balance | Add to bad debts in P&L | Deduct from debtors |
+| Situation                               | P&L Treatment               | Balance Sheet Treatment         |
+| --------------------------------------- | --------------------------- | ------------------------------- |
+| Bad debts in trial balance              | Already recorded; debit P&L | No deduction from debtors again |
+| Further bad debts outside trial balance | Add to bad debts in P&L     | Deduct from debtors             |
 
 ## Prepaid Expense
 
-| Situation | P&L Treatment | Balance Sheet Treatment |
-|---|---|---|
-| Prepaid expense inside trial balance | Do not deduct from expense again | Show as asset |
-| Prepaid expense outside trial balance | Deduct from expense | Show as asset |
+| Situation                             | P&L Treatment                    | Balance Sheet Treatment |
+| ------------------------------------- | -------------------------------- | ----------------------- |
+| Prepaid expense inside trial balance  | Do not deduct from expense again | Show as asset           |
+| Prepaid expense outside trial balance | Deduct from expense              | Show as asset           |
 
 ## Outstanding Expense
 
-| Situation | P&L Treatment | Balance Sheet Treatment |
-|---|---|---|
-| Outstanding expense inside trial balance | Usually already included in expense | Show liability |
-| Outstanding expense outside trial balance | Add to expense | Show liability |
+| Situation                                 | P&L Treatment                       | Balance Sheet Treatment |
+| ----------------------------------------- | ----------------------------------- | ----------------------- |
+| Outstanding expense inside trial balance  | Usually already included in expense | Show liability          |
+| Outstanding expense outside trial balance | Add to expense                      | Show liability          |
 
 ## Accrued Income
 
-| Situation | P&L Treatment | Balance Sheet Treatment |
-|---|---|---|
-| Accrued income inside trial balance | Usually already included in income | Show asset |
-| Accrued income outside trial balance | Add to income | Show asset |
+| Situation                            | P&L Treatment                      | Balance Sheet Treatment |
+| ------------------------------------ | ---------------------------------- | ----------------------- |
+| Accrued income inside trial balance  | Usually already included in income | Show asset              |
+| Accrued income outside trial balance | Add to income                      | Show asset              |
 
 # Unit 2X: Short Answer Guide
 
@@ -1466,35 +1467,35 @@ and
 
 Outstanding salary Rs. 3,500:
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Salary A/c Dr. | 3,500 |  |
-| To Outstanding Salary A/c |  | 3,500 |
+| Entry                     | Debit Rs. | Credit Rs. |
+| ------------------------- | --------: | ---------: |
+| Salary A/c Dr.            |     3,500 |            |
+| To Outstanding Salary A/c |           |      3,500 |
 
 Rent unpaid for one month at Rs. 6,000 p.a.:
 
 Monthly rent = Rs. 6,000 / 12 = Rs. 500
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Rent A/c Dr. | 500 |  |
-| To Outstanding Rent A/c |  | 500 |
+| Entry                   | Debit Rs. | Credit Rs. |
+| ----------------------- | --------: | ---------: |
+| Rent A/c Dr.            |       500 |            |
+| To Outstanding Rent A/c |           |        500 |
 
 Insurance prepaid for a quarter at Rs. 16,000 p.a.:
 
 Prepaid insurance = Rs. 16,000 x 3 / 12 = Rs. 4,000
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Prepaid Insurance A/c Dr. | 4,000 |  |
-| To Insurance A/c |  | 4,000 |
+| Entry                     | Debit Rs. | Credit Rs. |
+| ------------------------- | --------: | ---------: |
+| Prepaid Insurance A/c Dr. |     4,000 |            |
+| To Insurance A/c          |           |      4,000 |
 
 Furniture costing Rs. 7,000 entered in purchases book:
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Furniture A/c Dr. | 7,000 |  |
-| To Purchases A/c |  | 7,000 |
+| Entry             | Debit Rs. | Credit Rs. |
+| ----------------- | --------: | ---------: |
+| Furniture A/c Dr. |     7,000 |            |
+| To Purchases A/c  |           |      7,000 |
 
 # Unit 2Y: Long Answer Guide
 
@@ -1520,11 +1521,11 @@ Steps:
 
 Entries:
 
-| Situation | Entry |
-|---|---|
-| Further bad debts | Bad Debts A/c Dr. To Debtors A/c |
+| Situation                    | Entry                                                       |
+| ---------------------------- | ----------------------------------------------------------- |
+| Further bad debts            | Bad Debts A/c Dr. To Debtors A/c                            |
 | Create or increase provision | Profit and Loss A/c Dr. To Provision for Doubtful Debts A/c |
-| Reduce excess provision | Provision for Doubtful Debts A/c Dr. To Profit and Loss A/c |
+| Reduce excess provision      | Provision for Doubtful Debts A/c Dr. To Profit and Loss A/c |
 
 ## 3. Treatment of Prepaid Expenses, Depreciation, and Closing Stock
 
@@ -1636,12 +1637,12 @@ Add Rs. 2,000 to income and show Rs. 2,000 as asset.
 
 Entries:
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Commission Received A/c Dr. | 1,000 |  |
-| To Commission Received in Advance A/c |  | 1,000 |
-| Rent Receivable A/c Dr. | 2,000 |  |
-| To Rent A/c |  | 2,000 |
+| Entry                                 | Debit Rs. | Credit Rs. |
+| ------------------------------------- | --------: | ---------: |
+| Commission Received A/c Dr.           |     1,000 |            |
+| To Commission Received in Advance A/c |           |      1,000 |
+| Rent Receivable A/c Dr.               |     2,000 |            |
+| To Rent A/c                           |           |      2,000 |
 
 ## Practice 2: Further Bad Debts, Provision, and Discount
 
@@ -1675,15 +1676,15 @@ Provision for discount:
 
 Balance sheet debtors:
 
-| Particulars | Rs. |
-|---|---:|
-| Debtors | 82,000 |
-| Less: Further bad debts | 1,000 |
-|  | 81,000 |
-| Less: Provision for doubtful debts | 4,050 |
-|  | 76,950 |
-| Less: Provision for discount | 1,539 |
-| Net debtors | 75,411 |
+| Particulars                        |    Rs. |
+| ---------------------------------- | -----: |
+| Debtors                            | 82,000 |
+| Less: Further bad debts            |  1,000 |
+|                                    | 81,000 |
+| Less: Provision for doubtful debts |  4,050 |
+|                                    | 76,950 |
+| Less: Provision for discount       |  1,539 |
+| Net debtors                        | 75,411 |
 
 ## Practice 3: Depreciation and Prepaid Insurance
 
@@ -1732,10 +1733,10 @@ Interest outstanding:
 
 Entry:
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Interest on Loan A/c Dr. | 2,088 |  |
-| To Outstanding Interest on Loan A/c |  | 2,088 |
+| Entry                               | Debit Rs. | Credit Rs. |
+| ----------------------------------- | --------: | ---------: |
+| Interest on Loan A/c Dr.            |     2,088 |            |
+| To Outstanding Interest on Loan A/c |           |      2,088 |
 
 Treatment:
 

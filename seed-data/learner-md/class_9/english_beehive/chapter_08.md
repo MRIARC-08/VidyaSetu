@@ -1,21 +1,22 @@
 # Chapter 8: Dreams, Self-Belief, and Taking the First Step
+
 ### NCERT Class 9 - English Beehive
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 9 |
-| **Subject** | English Beehive |
-| **Chapter** | 8 |
-| **Actual Main Texts** | "Follow That Dream" and "Believe in Yourself" |
-| **Supplementary Text** | "Always Believe in Yourself" |
-| **Raw File Header** | "Reach for the Top" |
-| **Textbook Pages** | 1-258 |
-| **Core Theme** | Dreams, ambition, sacrifice, planning, support systems, changing aspirations, self-belief, courage, and growth through challenge. |
-| **Main Skills** | Letter comprehension, inference, true/false reasoning, idioms, compound words, first conditional imperatives, modal verb "could", grammar completion, role play, formal email writing, vision board planning, poetry appreciation, Latin expressions, rhetorical questions, and speech writing. |
+| Detail                 | Learner-Friendly Information                                                                                                                                                                                                                                                                    |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Class**              | 9                                                                                                                                                                                                                                                                                               |
+| **Subject**            | English Beehive                                                                                                                                                                                                                                                                                 |
+| **Chapter**            | 8                                                                                                                                                                                                                                                                                               |
+| **Actual Main Texts**  | "Follow That Dream" and "Believe in Yourself"                                                                                                                                                                                                                                                   |
+| **Supplementary Text** | "Always Believe in Yourself"                                                                                                                                                                                                                                                                    |
+| **Raw File Header**    | "Reach for the Top"                                                                                                                                                                                                                                                                             |
+| **Textbook Pages**     | 1-258                                                                                                                                                                                                                                                                                           |
+| **Core Theme**         | Dreams, ambition, sacrifice, planning, support systems, changing aspirations, self-belief, courage, and growth through challenge.                                                                                                                                                               |
+| **Main Skills**        | Letter comprehension, inference, true/false reasoning, idioms, compound words, first conditional imperatives, modal verb "could", grammar completion, role play, formal email writing, vision board planning, poetry appreciation, Latin expressions, rhetorical questions, and speech writing. |
 
 > [!NOTE]
 > The raw source file is `chapter_08.md` and its extraction header says "Reach for the Top", but the actual chapter content contains **Follow That Dream**, a letter from Irene Chua's collection, and the poem **Believe in Yourself** by Robert Langley. This learner-facing version follows the actual chapter content.
@@ -24,14 +25,14 @@
 
 ## Section Structure
 
-| Unit | Text / Skill | Main Learning Focus |
-|---|---|---|
-| **8A** | Before Reading | Dreams, inspiration, Abdul Kalam's idea of dreams, parents, community, and goal-setting. |
-| **8B** | Follow That Dream | Mother-daughter letter, ambition, effort, sacrifice, support networks, and changing dreams. |
-| **8C** | Prose Comprehension | True/false, extract answers, long answers, and title/message analysis. |
-| **8D** | Vocabulary and Grammar | "-scape" words, idioms, first conditional, "could", and grammar completion. |
-| **8E** | Speaking and Writing | Vocational course listening, dream role play, formal email, and vision board. |
-| **8F** | Believe in Yourself | Poem summary, stanza meanings, rhyme, tone, speaker, imagery, symbolism, metaphor, and antithesis. |
+| Unit   | Text / Skill                | Main Learning Focus                                                                                          |
+| ------ | --------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| **8A** | Before Reading              | Dreams, inspiration, Abdul Kalam's idea of dreams, parents, community, and goal-setting.                     |
+| **8B** | Follow That Dream           | Mother-daughter letter, ambition, effort, sacrifice, support networks, and changing dreams.                  |
+| **8C** | Prose Comprehension         | True/false, extract answers, long answers, and title/message analysis.                                       |
+| **8D** | Vocabulary and Grammar      | "-scape" words, idioms, first conditional, "could", and grammar completion.                                  |
+| **8E** | Speaking and Writing        | Vocational course listening, dream role play, formal email, and vision board.                                |
+| **8F** | Believe in Yourself         | Poem summary, stanza meanings, rhyme, tone, speaker, imagery, symbolism, metaphor, and antithesis.           |
 | **8G** | Poem Vocabulary and Writing | Latin expressions, rhetorical questions, proverbs, challenge speech, Indian leaders, and supplementary poem. |
 
 ---
@@ -40,45 +41,45 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Understand advice in a letter** | Explain how Ming's mother encourages dreams while warning about effort and sacrifice. |
-| **Analyse ambition realistically** | Discuss passion, conviction, planning, cost, support, and perseverance. |
-| **Identify evolving dreams** | Explain how life can change a person's goals without making them less valuable. |
-| **Answer extract questions** | Infer tone, phrase meaning, analogy, and implied message. |
-| **Use vocabulary accurately** | Use expressions such as "burning in your blood", "uphill task", and "wet blanket". |
-| **Understand "-scape" compounds** | Explain mindscape, seascape, landscape, cityscape, and dreamscape. |
-| **Use conditional imperatives** | Complete sentences such as "If the idea excites you, explore it." |
-| **Use "could" correctly** | Identify possibility, unreal situation, past speculation, purpose, and request. |
-| **Write formal email** | Ask for information politely and clearly. |
-| **Analyse motivational poetry** | Explain theme, rhyme, tone, metaphor, symbolism, and antithesis in "Believe in Yourself". |
-| **Use rhetorical questions** | Understand how questions can persuade or provoke thought. |
-| **Write a speech** | Draft a structured speech on turning challenges into opportunities. |
+| Outcome                            | You Should Be Able To...                                                                  |
+| ---------------------------------- | ----------------------------------------------------------------------------------------- |
+| **Understand advice in a letter**  | Explain how Ming's mother encourages dreams while warning about effort and sacrifice.     |
+| **Analyse ambition realistically** | Discuss passion, conviction, planning, cost, support, and perseverance.                   |
+| **Identify evolving dreams**       | Explain how life can change a person's goals without making them less valuable.           |
+| **Answer extract questions**       | Infer tone, phrase meaning, analogy, and implied message.                                 |
+| **Use vocabulary accurately**      | Use expressions such as "burning in your blood", "uphill task", and "wet blanket".        |
+| **Understand "-scape" compounds**  | Explain mindscape, seascape, landscape, cityscape, and dreamscape.                        |
+| **Use conditional imperatives**    | Complete sentences such as "If the idea excites you, explore it."                         |
+| **Use "could" correctly**          | Identify possibility, unreal situation, past speculation, purpose, and request.           |
+| **Write formal email**             | Ask for information politely and clearly.                                                 |
+| **Analyse motivational poetry**    | Explain theme, rhyme, tone, metaphor, symbolism, and antithesis in "Believe in Yourself". |
+| **Use rhetorical questions**       | Understand how questions can persuade or provoke thought.                                 |
+| **Write a speech**                 | Draft a structured speech on turning challenges into opportunities.                       |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Dream** | A strong goal, aspiration, or desired future. |
-| **Passion** | Deep interest and enthusiasm. |
-| **Conviction** | Firm belief. |
-| **Imperative** | Necessary or extremely important. |
-| **Plunge** | Enter into something fully and decisively. |
-| **Buoyed up** | Kept encouraged or emotionally supported. |
-| **Wistfully** | Longingly, with regret or desire. |
-| **Wishful thinking** | Hopeful thought not supported by action or reality. |
-| **Wet blanket** | Person who spoils enthusiasm or fun. |
-| **Dreamscape** | A world or scene of dreams. |
-| **Aspiration** | Strong hope or ambition. |
-| **Status quo** | Existing state of affairs; keeping things the same. |
-| **Self-belief** | Confidence in one's own ability and direction. |
-| **Antithesis** | Use of contrasting ideas in parallel form. |
+| Term                    | Meaning                                                           |
+| ----------------------- | ----------------------------------------------------------------- |
+| **Dream**               | A strong goal, aspiration, or desired future.                     |
+| **Passion**             | Deep interest and enthusiasm.                                     |
+| **Conviction**          | Firm belief.                                                      |
+| **Imperative**          | Necessary or extremely important.                                 |
+| **Plunge**              | Enter into something fully and decisively.                        |
+| **Buoyed up**           | Kept encouraged or emotionally supported.                         |
+| **Wistfully**           | Longingly, with regret or desire.                                 |
+| **Wishful thinking**    | Hopeful thought not supported by action or reality.               |
+| **Wet blanket**         | Person who spoils enthusiasm or fun.                              |
+| **Dreamscape**          | A world or scene of dreams.                                       |
+| **Aspiration**          | Strong hope or ambition.                                          |
+| **Status quo**          | Existing state of affairs; keeping things the same.               |
+| **Self-belief**         | Confidence in one's own ability and direction.                    |
+| **Antithesis**          | Use of contrasting ideas in parallel form.                        |
 | **Rhetorical question** | Question asked to make readers think, not to get a direct answer. |
-| **Vision board** | Visual collection of goals, dreams, inspirations, and plans. |
-| **Vocational course** | Practical course preparing learners for a skill, job, or career. |
-| **Formal email** | Polite, structured electronic message for official communication. |
+| **Vision board**        | Visual collection of goals, dreams, inspirations, and plans.      |
+| **Vocational course**   | Practical course preparing learners for a skill, job, or career.  |
+| **Formal email**        | Polite, structured electronic message for official communication. |
 
 ---
 
@@ -107,12 +108,12 @@ Together, the prose and poem teach that dreams need both courage and planning.
 
 The chapter opens with questions about dreams.
 
-| Question | How To Think About It |
-|---|---|
-| **What is your dream?** | Name one meaningful goal: career, skill, service, creative work, sport, or personal growth. |
-| **Who inspires you?** | Parent, teacher, sibling, leader, athlete, scientist, artist, writer, or community member. |
-| **What qualities are needed?** | Discipline, patience, planning, courage, hard work, resilience, focus, humility. |
-| **Why follow a dream?** | Dreams give direction, purpose, motivation, and courage to grow. |
+| Question                       | How To Think About It                                                                       |
+| ------------------------------ | ------------------------------------------------------------------------------------------- |
+| **What is your dream?**        | Name one meaningful goal: career, skill, service, creative work, sport, or personal growth. |
+| **Who inspires you?**          | Parent, teacher, sibling, leader, athlete, scientist, artist, writer, or community member.  |
+| **What qualities are needed?** | Discipline, patience, planning, courage, hard work, resilience, focus, humility.            |
+| **Why follow a dream?**        | Dreams give direction, purpose, motivation, and courage to grow.                            |
 
 ## Abdul Kalam's View of Dreams
 
@@ -141,14 +142,14 @@ Parents and community can help children achieve dreams by:
 
 ## Why Follow a Dream?
 
-| Reason | Explanation |
-|---|---|
-| **Purpose** | A dream gives life direction. |
-| **Growth** | It forces us to learn and improve. |
-| **Courage** | It helps us face uncertainty. |
-| **Identity** | It shows what we value deeply. |
-| **Contribution** | A dream may help society, family, or community. |
-| **Fulfilment** | Doing meaningful work brings inner satisfaction. |
+| Reason           | Explanation                                      |
+| ---------------- | ------------------------------------------------ |
+| **Purpose**      | A dream gives life direction.                    |
+| **Growth**       | It forces us to learn and improve.               |
+| **Courage**      | It helps us face uncertainty.                    |
+| **Identity**     | It shows what we value deeply.                   |
+| **Contribution** | A dream may help society, family, or community.  |
+| **Fulfilment**   | Doing meaningful work brings inner satisfaction. |
 
 ---
 
@@ -156,15 +157,15 @@ Parents and community can help children achieve dreams by:
 
 ## Text Identity
 
-| Detail | Information |
-|---|---|
-| **Title** | Follow That Dream |
-| **Form** | Letter |
-| **Writer** | Irene Chua, writing as a mother |
-| **Receiver** | Ming, her daughter |
-| **Date in text** | 19 June 1995 |
-| **Source Collection** | My Daughter, My Friend |
-| **Main Theme** | Dreams require passion, sacrifice, planning, support, and long-term commitment. |
+| Detail                | Information                                                                     |
+| --------------------- | ------------------------------------------------------------------------------- |
+| **Title**             | Follow That Dream                                                               |
+| **Form**              | Letter                                                                          |
+| **Writer**            | Irene Chua, writing as a mother                                                 |
+| **Receiver**          | Ming, her daughter                                                              |
+| **Date in text**      | 19 June 1995                                                                    |
+| **Source Collection** | My Daughter, My Friend                                                          |
+| **Main Theme**        | Dreams require passion, sacrifice, planning, support, and long-term commitment. |
 
 ## Short Summary
 
@@ -180,15 +181,15 @@ She does not want to discourage Ming, but she wants her to be realistic. Finally
 
 ## The Mother's Advice Pattern
 
-| Stage | Meaning |
-|---|---|
-| **Passion** | Begin with deep interest. |
-| **Conviction** | Believe the dream is necessary to pursue. |
-| **Cost counting** | Consider time, money, effort, and sacrifice. |
-| **Commitment** | Decide seriously after understanding the cost. |
-| **Action** | Plunge into the work. |
-| **Support** | Build and accept help from others. |
-| **Adaptation** | Let dreams evolve when life changes. |
+| Stage             | Meaning                                        |
+| ----------------- | ---------------------------------------------- |
+| **Passion**       | Begin with deep interest.                      |
+| **Conviction**    | Believe the dream is necessary to pursue.      |
+| **Cost counting** | Consider time, money, effort, and sacrifice.   |
+| **Commitment**    | Decide seriously after understanding the cost. |
+| **Action**        | Plunge into the work.                          |
+| **Support**       | Build and accept help from others.             |
+| **Adaptation**    | Let dreams evolve when life changes.           |
 
 ## Important Warnings
 
@@ -204,15 +205,15 @@ The mother warns Ming that:
 
 ## True or False
 
-| Statement | Answer | Explanation |
-|---|---|---|
-| **1. World-class skill usually needs focused dedication for about a decade.** | True | The letter says at least ten years of intense pursuit may be needed. |
-| **2. Effort and sacrifice are essential for turning dreams into reality.** | True | The mother asks Ming to count effort, money, and sacrifice. |
-| **3. The path to deepest desires has very little difficulty.** | False | The road is uphill and full of hurdles. |
-| **4. Life goals can evolve over time.** | True | The mother says life itself may change dreams. |
-| **5. A support network is a hurdle.** | False | A support network helps achievers. |
-| **6. A major life goal involves no financial expense or sacrifice.** | False | The letter says cost must be counted. |
-| **7. Many aspirations remain wishes because people do not move beyond daydreaming.** | True | The mother calls this wishful thinking. |
+| Statement                                                                            | Answer | Explanation                                                          |
+| ------------------------------------------------------------------------------------ | ------ | -------------------------------------------------------------------- |
+| **1. World-class skill usually needs focused dedication for about a decade.**        | True   | The letter says at least ten years of intense pursuit may be needed. |
+| **2. Effort and sacrifice are essential for turning dreams into reality.**           | True   | The mother asks Ming to count effort, money, and sacrifice.          |
+| **3. The path to deepest desires has very little difficulty.**                       | False  | The road is uphill and full of hurdles.                              |
+| **4. Life goals can evolve over time.**                                              | True   | The mother says life itself may change dreams.                       |
+| **5. A support network is a hurdle.**                                                | False  | A support network helps achievers.                                   |
+| **6. A major life goal involves no financial expense or sacrifice.**                 | False  | The letter says cost must be counted.                                |
+| **7. Many aspirations remain wishes because people do not move beyond daydreaming.** | True   | The mother calls this wishful thinking.                              |
 
 ---
 
@@ -226,13 +227,13 @@ The mother explains the serious process behind following a dream.
 
 ### Model Answers
 
-| Question | Answer |
-|---|---|
-| **(i) enthusiasm: passion :: belief: ____** | conviction |
-| **(ii) Realistic assessment prevents...** | **B. an early abandonment of the dream.** |
-| **(iii) "Plunge" indicates...** | complete involvement in a task. |
+| Question                                                  | Answer                                                                                                       |
+| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| **(i) enthusiasm: passion :: belief: \_\_\_\_**           | conviction                                                                                                   |
+| **(ii) Realistic assessment prevents...**                 | **B. an early abandonment of the dream.**                                                                    |
+| **(iii) "Plunge" indicates...**                           | complete involvement in a task.                                                                              |
 | **(iv) Why is doing what you love intrinsic motivation?** | Because the motivation comes from inner satisfaction and belief in the work, not only from reward or praise. |
-| **(v) Another motivating factor.** | Support network, passion, sense of purpose, or belief that the work is right. |
+| **(v) Another motivating factor.**                        | Support network, passion, sense of purpose, or belief that the work is right.                                |
 
 ## Extract 2: Changing Dreams
 
@@ -242,13 +243,13 @@ The mother explains that dreams may change as life changes, but later dreams are
 
 ### Model Answers
 
-| Question | Answer |
-|---|---|
-| **(i) Dreams are not static but...** | dynamic / evolving. |
-| **(ii) Meaning of "hopes and aspirations are no less..."** | New or changed dreams can be just as meaningful as the dreams of youth. |
-| **(iii) Phrase showing complex journey.** | "a path through a maze of hurdles" |
+| Question                                                       | Answer                                                                                             |
+| -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| **(i) Dreams are not static but...**                           | dynamic / evolving.                                                                                |
+| **(ii) Meaning of "hopes and aspirations are no less..."**     | New or changed dreams can be just as meaningful as the dreams of youth.                            |
+| **(iii) Phrase showing complex journey.**                      | "a path through a maze of hurdles"                                                                 |
 | **(iv) Many people become part of your dreamscape because...** | adult dreams often involve family, colleagues, supporters, readers, mentors, and responsibilities. |
-| **(v) Tone of the extract.** | **C. optimistic and encouraging.** |
+| **(v) Tone of the extract.**                                   | **C. optimistic and encouraging.**                                                                 |
 
 ## Long Answer Question Bank
 
@@ -286,43 +287,43 @@ A learner may be willing to invest time, disciplined practice, less entertainmen
 
 ## "-scape" Compound Words
 
-| Word | Meaning |
-|---|---|
-| **dreamscape** | a scene or world of dreams |
-| **mindscape** | mental or inner landscape of thoughts |
-| **seascape** | view or picture of the sea |
-| **landscape** | view of natural land, hills, fields, forests, etc. |
-| **cityscape** | view or skyline of a city |
+| Word           | Meaning                                            |
+| -------------- | -------------------------------------------------- |
+| **dreamscape** | a scene or world of dreams                         |
+| **mindscape**  | mental or inner landscape of thoughts              |
+| **seascape**   | view or picture of the sea                         |
+| **landscape**  | view of natural land, hills, fields, forests, etc. |
+| **cityscape**  | view or skyline of a city                          |
 
 ## Dialogue Completion
 
-| Blank | Answer |
-|---|---|
-| **(i)** | seascape |
-| **(ii)** | cityscape |
+| Blank     | Answer    |
+| --------- | --------- |
+| **(i)**   | seascape  |
+| **(ii)**  | cityscape |
 | **(iii)** | landscape |
-| **(iv)** | mindscape |
+| **(iv)**  | mindscape |
 
 ## Expressions from the Text
 
-| Expression | Best Meaning |
-|---|---|
-| **burn in her blood** | have a passionate desire |
-| **uphill task** | a tough challenge |
-| **buoyed up** | lifted in spirit / encouraged |
-| **wishful thinking** | hopeful belief unlikely to be true |
-| **wet blanket** | spoil-sport |
-| **coursing through her veins** | flowing through her body |
+| Expression                     | Best Meaning                       |
+| ------------------------------ | ---------------------------------- |
+| **burn in her blood**          | have a passionate desire           |
+| **uphill task**                | a tough challenge                  |
+| **buoyed up**                  | lifted in spirit / encouraged      |
+| **wishful thinking**           | hopeful belief unlikely to be true |
+| **wet blanket**                | spoil-sport                        |
+| **coursing through her veins** | flowing through her body           |
 
 ## Sentences with Expressions
 
-| Expression | Sentence |
-|---|---|
-| **burn in her blood** | The dream to become a doctor burned in her blood. |
-| **uphill task** | Preparing alone for the competition was an uphill task. |
-| **buoyed up** | The team was buoyed up by the coach's praise. |
-| **wishful thinking** | Hoping to win without practice is wishful thinking. |
-| **wet blanket** | Do not be a wet blanket when others are excited. |
+| Expression                     | Sentence                                                          |
+| ------------------------------ | ----------------------------------------------------------------- |
+| **burn in her blood**          | The dream to become a doctor burned in her blood.                 |
+| **uphill task**                | Preparing alone for the competition was an uphill task.           |
+| **buoyed up**                  | The team was buoyed up by the coach's praise.                     |
+| **wishful thinking**           | Hoping to win without practice is wishful thinking.               |
+| **wet blanket**                | Do not be a wet blanket when others are excited.                  |
 | **coursing through her veins** | Excitement was coursing through her veins before the performance. |
 
 ## First Conditional with Imperatives
@@ -333,46 +334,46 @@ The structure:
 
 Examples:
 
-| Beginning | Possible Completion |
-|---|---|
-| If the idea excites you, | explore it seriously. |
-| If you hear strange noises, | check calmly and inform an adult. |
-| If this seems too hard, | divide it into smaller steps. |
-| If you care about the issue, | take responsible action. |
-| If you finish early, | review your work once more. |
+| Beginning                    | Possible Completion               |
+| ---------------------------- | --------------------------------- |
+| If the idea excites you,     | explore it seriously.             |
+| If you hear strange noises,  | check calmly and inform an adult. |
+| If this seems too hard,      | divide it into smaller steps.     |
+| If you care about the issue, | take responsible action.          |
+| If you finish early,         | review your work once more.       |
 
 ## Uses of "Could"
 
-| Sentence | Function |
-|---|---|
-| It could be in any field. | Possibility |
-| I wish I could be this or the other. | Unreal or hypothetical situation |
-| They could have preferred to trade their dream for security. | Past possibility or speculation |
-| They had to work so that they could support their siblings. | Past ability or purpose |
+| Sentence                                                     | Function                         |
+| ------------------------------------------------------------ | -------------------------------- |
+| It could be in any field.                                    | Possibility                      |
+| I wish I could be this or the other.                         | Unreal or hypothetical situation |
+| They could have preferred to trade their dream for security. | Past possibility or speculation  |
+| They had to work so that they could support their siblings.  | Past ability or purpose          |
 
 ## Sentences Using "Could"
 
-| Function | Sentence |
-|---|---|
-| **Unreal / hypothetical** | I wish I could study design without worrying about money. |
+| Function                           | Sentence                                                                 |
+| ---------------------------------- | ------------------------------------------------------------------------ |
+| **Unreal / hypothetical**          | I wish I could study design without worrying about money.                |
 | **Past possibility / speculation** | They could have taken the shorter route, but they did not know about it. |
-| **Past ability** | When I was younger, I could run five kilometres without stopping. |
-| **Possibility** | She could be at the library right now. |
-| **Polite request** | Could you repeat the question? |
+| **Past ability**                   | When I was younger, I could run five kilometres without stopping.        |
+| **Possibility**                    | She could be at the library right now.                                   |
+| **Polite request**                 | Could you repeat the question?                                           |
 
 ## Grammar Completion: Experiential Learning
 
-| Blank | Answer |
-|---|---|
-| **1** | helps |
-| **2** | learnt / learned |
-| **3** | work |
-| **4** | apply |
-| **5** | conducts |
-| **6** | analyses |
-| **7** | must reflect |
-| **8** | helps |
-| **9** | is |
+| Blank  | Answer           |
+| ------ | ---------------- |
+| **1**  | helps            |
+| **2**  | learnt / learned |
+| **3**  | work             |
+| **4**  | apply            |
+| **5**  | conducts         |
+| **6**  | analyses         |
+| **7**  | must reflect     |
+| **8**  | helps            |
+| **9**  | is               |
 | **10** | will incorporate |
 
 ---
@@ -383,14 +384,14 @@ Examples:
 
 The raw chapter includes an announcement about vocational courses. Since exact answers depend on the audio, listen for:
 
-| Blank | Listen For |
-|---|---|
-| Month | when courses begin |
-| Objective | future studies and jobs |
+| Blank        | Listen For                                                     |
+| ------------ | -------------------------------------------------------------- |
+| Month        | when courses begin                                             |
+| Objective    | future studies and jobs                                        |
 | Course names | Graphic Design, Web Application, Entrepreneurship Skills, etc. |
-| Teachers | experts / trainers / faculty |
-| Forms | school office / reception / website |
-| Selection | early applicants / interested applicants / eligible applicants |
+| Teachers     | experts / trainers / faculty                                   |
+| Forms        | school office / reception / website                            |
+| Selection    | early applicants / interested applicants / eligible applicants |
 
 ## Role Play: Dreamer, Parent, Mentor, Friend
 
@@ -471,21 +472,21 @@ Contact: 90000 00000
 
 A vision board is a visual plan of goals and inspiration.
 
-| Section | What To Add |
-|---|---|
-| **My Dreams** | Future career, service goal, skill, or personal ambition. |
-| **I Want To Try** | New experiences this year. |
-| **Goals** | Specific measurable targets. |
-| **Places I Will Go** | Places you want to visit or work in. |
-| **Inspiration** | People, quotes, images, or symbols that motivate you. |
+| Section              | What To Add                                               |
+| -------------------- | --------------------------------------------------------- |
+| **My Dreams**        | Future career, service goal, skill, or personal ambition. |
+| **I Want To Try**    | New experiences this year.                                |
+| **Goals**            | Specific measurable targets.                              |
+| **Places I Will Go** | Places you want to visit or work in.                      |
+| **Inspiration**      | People, quotes, images, or symbols that motivate you.     |
 
 ## Parent Inspiration Examples
 
-| Personality | Parent / Influence | Lesson |
-|---|---|---|
-| **Chhatrapati Shivaji** | Jijabai | Stories of dharma, justice, patriotism, and courage shaped leadership. |
-| **Queen Madalasa's sons** | Madalasa | Spiritual wisdom and detachment influenced their path. |
-| **A. P. J. Abdul Kalam** | Family circumstances and early responsibility | Hard work, discipline, and independence helped him grow. |
+| Personality               | Parent / Influence                            | Lesson                                                                 |
+| ------------------------- | --------------------------------------------- | ---------------------------------------------------------------------- |
+| **Chhatrapati Shivaji**   | Jijabai                                       | Stories of dharma, justice, patriotism, and courage shaped leadership. |
+| **Queen Madalasa's sons** | Madalasa                                      | Spiritual wisdom and detachment influenced their path.                 |
+| **A. P. J. Abdul Kalam**  | Family circumstances and early responsibility | Hard work, discipline, and independence helped him grow.               |
 
 ---
 
@@ -493,14 +494,14 @@ A vision board is a visual plan of goals and inspiration.
 
 ## Text Identity
 
-| Detail | Information |
-|---|---|
-| **Title** | Believe in Yourself |
-| **Poet** | Robert Langley |
-| **Form** | Motivational poem |
-| **Main Theme** | Self-belief helps a person begin difficult journeys and grow beyond comfort. |
-| **Tone** | Encouraging, thoughtful, motivational |
-| **Central Symbol** | The first step |
+| Detail             | Information                                                                  |
+| ------------------ | ---------------------------------------------------------------------------- |
+| **Title**          | Believe in Yourself                                                          |
+| **Poet**           | Robert Langley                                                               |
+| **Form**           | Motivational poem                                                            |
+| **Main Theme**     | Self-belief helps a person begin difficult journeys and grow beyond comfort. |
+| **Tone**           | Encouraging, thoughtful, motivational                                        |
+| **Central Symbol** | The first step                                                               |
 
 ## Before the Poem
 
@@ -514,12 +515,12 @@ The status quo represents comfort, habit, and resistance to change.
 
 ## Stanza-Wise Central Ideas
 
-| Stanza | Correct Central Idea |
-|---|---|
-| **1** | Facing challenges requires personal responsibility and focus on the future. |
-| **2** | Fear and uncertainty make choices difficult as the future approaches. |
-| **3** | Personal growth requires leaving comfort and embracing change. |
-| **4** | The first step is difficult, but self-belief helps you stay on track. |
+| Stanza | Correct Central Idea                                                        |
+| ------ | --------------------------------------------------------------------------- |
+| **1**  | Facing challenges requires personal responsibility and focus on the future. |
+| **2**  | Fear and uncertainty make choices difficult as the future approaches.       |
+| **3**  | Personal growth requires leaving comfort and embracing change.              |
+| **4**  | The first step is difficult, but self-belief helps you stay on track.       |
 
 ## Rhyme Scheme
 
@@ -536,10 +537,10 @@ The rhyme makes the poem steady, memorable, and song-like.
 
 ## Tone
 
-| Statement | True / False |
-|---|---|
-| **The overall tone is motivational and encouraging.** | True |
-| **The tone shifts from thoughtful to determined.** | True |
+| Statement                                             | True / False |
+| ----------------------------------------------------- | ------------ |
+| **The overall tone is motivational and encouraging.** | True         |
+| **The tone shifts from thoughtful to determined.**    | True         |
 
 ## Speaker
 
@@ -549,22 +550,22 @@ The speaker is not distant; rather, he/she comes across as a **guide** who under
 
 ## Imagery
 
-| Phrase | Meaning |
-|---|---|
+| Phrase                       | Meaning                                                    |
+| ---------------------------- | ---------------------------------------------------------- |
 | **There is no crowd to see** | Solitary journey; the challenge belongs to the individual. |
-| **push you back in fear** | Mental barrier that prevents growth. |
+| **push you back in fear**    | Mental barrier that prevents growth.                       |
 
 Extra representation: difficulty of beginning a new challenge.
 
 ## Symbolism
 
-| Sentence | Answer |
-|---|---|
-| Comfort and status quo represent... | stagnation |
-| The future symbolises... | the unknown |
-| The future requires... | courage |
-| The first step symbolises... | leap of faith |
-| The journey is toward... | self-improvement |
+| Sentence                            | Answer           |
+| ----------------------------------- | ---------------- |
+| Comfort and status quo represent... | stagnation       |
+| The future symbolises...            | the unknown      |
+| The future requires...              | courage          |
+| The first step symbolises...        | leap of faith    |
+| The journey is toward...            | self-improvement |
 
 ## Metaphor: "The First Step Is the Hardest"
 
@@ -574,11 +575,11 @@ The line is metaphorical because the "first step" means the beginning of change,
 
 Antithesis appears when opposite ideas are placed together.
 
-| Lines / Ideas | Contrast |
-|---|---|
-| pull you forward / push you back in fear | progress versus fear |
-| comfort / growth | staying safe versus developing |
-| no turning back / future on track | commitment versus uncertainty |
+| Lines / Ideas                            | Contrast                       |
+| ---------------------------------------- | ------------------------------ |
+| pull you forward / push you back in fear | progress versus fear           |
+| comfort / growth                         | staying safe versus developing |
+| no turning back / future on track        | commitment versus uncertainty  |
 
 The contrast shows that personal growth requires choosing progress over fear.
 
@@ -590,13 +591,13 @@ The contrast shows that personal growth requires choosing progress over fear.
 
 ### Model Answers
 
-| Question | Answer |
-|---|---|
+| Question                                              | Answer                                                                              |
+| ----------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | **(i) What does "There is no crowd to see" suggest?** | Facing challenges is personal; one must act for one's own future, not for applause. |
-| **(ii) "It is just you and the future" suggests...** | the individual must take responsibility for shaping what comes next. |
-| **(iii) Latha will ____ her efforts.** | step up |
-| **(iv) Most suitable title.** | **B. Facing the Future Alone** |
-| **(v) achieve : goal :: face : ____** | challenge |
+| **(ii) "It is just you and the future" suggests...**  | the individual must take responsibility for shaping what comes next.                |
+| **(iii) Latha will \_\_\_\_ her efforts.**            | step up                                                                             |
+| **(iv) Most suitable title.**                         | **B. Facing the Future Alone**                                                      |
+| **(v) achieve : goal :: face : \_\_\_\_**             | challenge                                                                           |
 
 ## Long Answer Questions
 
@@ -622,46 +623,46 @@ If a student joins a new school team, speaks on stage, starts a business idea, o
 
 ## Latin Expressions
 
-| Expression | Meaning |
-|---|---|
-| **et cetera (etc.)** | and other things; and so on |
-| **exempli gratia (e.g.)** | for example |
-| **ad hoc** | for a specific temporary purpose |
-| **in media res** | into the middle of things |
-| **per se** | by itself |
-| **quid pro quo** | favour or advantage in return for something |
+| Expression                | Meaning                                     |
+| ------------------------- | ------------------------------------------- |
+| **et cetera (etc.)**      | and other things; and so on                 |
+| **exempli gratia (e.g.)** | for example                                 |
+| **ad hoc**                | for a specific temporary purpose            |
+| **in media res**          | into the middle of things                   |
+| **per se**                | by itself                                   |
+| **quid pro quo**          | favour or advantage in return for something |
 
 ## Fill in the Blanks
 
-| Blank | Answer |
-|---|---|
-| **(i)** | e.g. |
-| **(ii)** | quid pro quo |
-| **(iii)** | etc. |
-| **(iv)** | per se |
-| **(v)** | ad hoc |
-| **(vi)** | in media res |
+| Blank     | Answer       |
+| --------- | ------------ |
+| **(i)**   | e.g.         |
+| **(ii)**  | quid pro quo |
+| **(iii)** | etc.         |
+| **(iv)**  | per se       |
+| **(v)**   | ad hoc       |
+| **(vi)**  | in media res |
 
 ## Rhetorical Questions
 
 A rhetorical question is asked to make the reader think rather than to get a direct answer.
 
-| Rhetorical Question | Purpose |
-|---|---|
-| Isn't it obvious that we must act now? | Urges immediate action. |
-| Don't we all have a responsibility to make a change? | Reminds readers of duty. |
+| Rhetorical Question                                    | Purpose                               |
+| ------------------------------------------------------ | ------------------------------------- |
+| Isn't it obvious that we must act now?                 | Urges immediate action.               |
+| Don't we all have a responsibility to make a change?   | Reminds readers of duty.              |
 | Will we let fear control us, or will we rise above it? | Challenges readers to choose courage. |
 
 ## Situation Matching
 
-| Situation | Rhetorical Question |
-|---|---|
-| Standing up for what is right | F. How can we stay silent when we know what is right? |
+| Situation                                 | Rhetorical Question                                                  |
+| ----------------------------------------- | -------------------------------------------------------------------- |
+| Standing up for what is right             | F. How can we stay silent when we know what is right?                |
 | Owning up to a mistake in a group project | B. Isn't it better to admit our mistakes than to let them define us? |
-| Trying public speaking | A. How can we ever grow if we never try anything new? |
-| Choosing between two career paths | D. Can I really move forward without knowing which path to take? |
-| Apologising for a mistake | C. If I don't take responsibility now, when will I? |
-| Stepping out of comfort zone | E. What's the point of playing it safe if it means staying stuck? |
+| Trying public speaking                    | A. How can we ever grow if we never try anything new?                |
+| Choosing between two career paths         | D. Can I really move forward without knowing which path to take?     |
+| Apologising for a mistake                 | C. If I don't take responsibility now, when will I?                  |
+| Stepping out of comfort zone              | E. What's the point of playing it safe if it means staying stuck?    |
 
 ---
 
@@ -671,11 +672,11 @@ A rhetorical question is asked to make the reader think rather than to get a dir
 
 The raw chapter includes a listening task about a boy before a play. Since exact answers depend on audio, listen for:
 
-| Question | Listen For |
-|---|---|
-| How the boy felt | nervous, scared, anxious, unsure |
-| Source of confidence | preparation, practice, self-belief, effort |
-| What the girl was sure about | he would do well / he was ready |
+| Question                     | Listen For                                 |
+| ---------------------------- | ------------------------------------------ |
+| How the boy felt             | nervous, scared, anxious, unsure           |
+| Source of confidence         | preparation, practice, self-belief, effort |
+| What the girl was sure about | he would do well / he was ready            |
 
 For true statements, listen for:
 
@@ -708,12 +709,12 @@ Role-play idea: One student wants to quit a difficult project; the other encoura
 
 ### Structure
 
-| Part | Purpose |
-|---|---|
-| **Opening** | Greet audience, introduce topic, begin with quote/question/fact. |
-| **Body 1** | Explain how challenges teach skills. |
-| **Body 2** | Explain how attitude and action turn problems into opportunities. |
-| **Conclusion** | Summarise and end with strong message. |
+| Part           | Purpose                                                           |
+| -------------- | ----------------------------------------------------------------- |
+| **Opening**    | Greet audience, introduce topic, begin with quote/question/fact.  |
+| **Body 1**     | Explain how challenges teach skills.                              |
+| **Body 2**     | Explain how attitude and action turn problems into opportunities. |
+| **Conclusion** | Summarise and end with strong message.                            |
 
 ### Model Speech
 
@@ -733,11 +734,11 @@ To conclude, challenges are not always pleasant, but they are powerful teachers.
 
 ## Indian Leaders Who Turned Challenges into Opportunities
 
-| Personality | Challenge | Response | Achievement |
-|---|---|---|---|
-| **Dr. B. R. Ambedkar** | Discrimination and humiliation | Education, grit, scholarship, public service | Jurist, economist, social reformer, Chairperson of Drafting Committee of Constitution |
-| **Lal Bahadur Shastri** | Poverty, father's death, hardship in education | Perseverance, walking long distances, commitment | Freedom fighter and Prime Minister of India |
-| **Dr. A. P. J. Abdul Kalam** | Financial difficulty | Delivered newspapers, studied hard, developed discipline | Scientist, Missile Man of India, 11th President of India |
+| Personality                  | Challenge                                      | Response                                                 | Achievement                                                                           |
+| ---------------------------- | ---------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| **Dr. B. R. Ambedkar**       | Discrimination and humiliation                 | Education, grit, scholarship, public service             | Jurist, economist, social reformer, Chairperson of Drafting Committee of Constitution |
+| **Lal Bahadur Shastri**      | Poverty, father's death, hardship in education | Perseverance, walking long distances, commitment         | Freedom fighter and Prime Minister of India                                           |
+| **Dr. A. P. J. Abdul Kalam** | Financial difficulty                           | Delivered newspapers, studied hard, developed discipline | Scientist, Missile Man of India, 11th President of India                              |
 
 ## Research Activity
 
@@ -761,12 +762,12 @@ Dorothy Hewitt's poem encourages the reader not to limit themselves. It asks the
 
 ### Connection with "Believe in Yourself"
 
-| Believe in Yourself | Always Believe in Yourself |
-|---|---|
-| Focuses on taking the first step. | Focuses on continuing with courage. |
-| Warns against status quo. | Warns against limiting oneself. |
+| Believe in Yourself                          | Always Believe in Yourself                         |
+| -------------------------------------------- | -------------------------------------------------- |
+| Focuses on taking the first step.            | Focuses on continuing with courage.                |
+| Warns against status quo.                    | Warns against limiting oneself.                    |
 | Uses challenge and future as central images. | Uses courage, endurance, laughter, and open hands. |
-| Tone is motivational. | Tone is encouraging and nurturing. |
+| Tone is motivational.                        | Tone is encouraging and nurturing.                 |
 
 ---
 
@@ -774,54 +775,54 @@ Dorothy Hewitt's poem encourages the reader not to limit themselves. It asks the
 
 ## Prose
 
-| Item | Key Point |
-|---|---|
-| Text | Follow That Dream |
-| Form | Letter |
-| Writer | Mother writing to Ming |
-| Main advice | Follow dreams, but count the cost. |
-| Skill timeline | World-class skill may need at least ten years. |
-| Key ideas | passion, conviction, sacrifice, support, changing dreams |
-| Tone | loving, realistic, encouraging |
+| Item           | Key Point                                                |
+| -------------- | -------------------------------------------------------- |
+| Text           | Follow That Dream                                        |
+| Form           | Letter                                                   |
+| Writer         | Mother writing to Ming                                   |
+| Main advice    | Follow dreams, but count the cost.                       |
+| Skill timeline | World-class skill may need at least ten years.           |
+| Key ideas      | passion, conviction, sacrifice, support, changing dreams |
+| Tone           | loving, realistic, encouraging                           |
 
 ## Poem
 
-| Item | Key Point |
-|---|---|
-| Poem | Believe in Yourself |
-| Poet | Robert Langley |
-| Main message | Self-belief helps one face challenges and grow. |
-| Rhyme | ABCB |
-| Central symbol | first step |
-| Key contrast | comfort versus growth |
-| Tone | motivational and encouraging |
+| Item           | Key Point                                       |
+| -------------- | ----------------------------------------------- |
+| Poem           | Believe in Yourself                             |
+| Poet           | Robert Langley                                  |
+| Main message   | Self-belief helps one face challenges and grow. |
+| Rhyme          | ABCB                                            |
+| Central symbol | first step                                      |
+| Key contrast   | comfort versus growth                           |
+| Tone           | motivational and encouraging                    |
 
 ## Grammar and Vocabulary
 
-| Area | Key Learning |
-|---|---|
-| "-scape" | scene or view, as in seascape or dreamscape |
-| First conditional | If + present simple, imperative |
-| Could | possibility, unreal situation, past speculation, purpose, request |
-| Latin expressions | e.g., etc., ad hoc, per se, quid pro quo, in media res |
-| Rhetorical question | asks readers to think |
-| Formal email | clear subject, salutation, purpose, details, polite close |
+| Area                | Key Learning                                                      |
+| ------------------- | ----------------------------------------------------------------- |
+| "-scape"            | scene or view, as in seascape or dreamscape                       |
+| First conditional   | If + present simple, imperative                                   |
+| Could               | possibility, unreal situation, past speculation, purpose, request |
+| Latin expressions   | e.g., etc., ad hoc, per se, quid pro quo, in media res            |
+| Rhetorical question | asks readers to think                                             |
+| Formal email        | clear subject, salutation, purpose, details, polite close         |
 
 ---
 
 # Unit 8L: Common Mistakes and Corrections
 
-| Mistake | Better Understanding |
-|---|---|
-| Thinking the mother gives only motivational advice. | She balances encouragement with realism. |
-| Treating dreams as effortless. | The letter stresses effort, cost, sacrifice, and time. |
-| Ignoring support networks. | The mother shows that achievers rarely succeed alone. |
-| Assuming changed dreams are failures. | Changed dreams can be equally meaningful. |
-| Thinking self-belief alone solves everything. | Self-belief must combine with planning, action, skill, and support. |
-| Confusing status quo with progress. | Status quo means keeping things the same. |
-| Using "could" for only past ability. | Could has several functions. |
-| Treating rhetorical questions as ordinary questions. | They are used to provoke thought or persuasion. |
-| Writing informal language in formal email. | Formal email needs polite and complete language. |
+| Mistake                                              | Better Understanding                                                |
+| ---------------------------------------------------- | ------------------------------------------------------------------- |
+| Thinking the mother gives only motivational advice.  | She balances encouragement with realism.                            |
+| Treating dreams as effortless.                       | The letter stresses effort, cost, sacrifice, and time.              |
+| Ignoring support networks.                           | The mother shows that achievers rarely succeed alone.               |
+| Assuming changed dreams are failures.                | Changed dreams can be equally meaningful.                           |
+| Thinking self-belief alone solves everything.        | Self-belief must combine with planning, action, skill, and support. |
+| Confusing status quo with progress.                  | Status quo means keeping things the same.                           |
+| Using "could" for only past ability.                 | Could has several functions.                                        |
+| Treating rhetorical questions as ordinary questions. | They are used to provoke thought or persuasion.                     |
+| Writing informal language in formal email.           | Formal email needs polite and complete language.                    |
 
 ---
 
@@ -919,4 +920,4 @@ For writing:
 
 ---
 
-*Source: NCERT Class 9 - English Beehive, Chapter 8 raw file. Learner-facing version manually rewritten from the extracted chapter content about "Follow That Dream", dream planning, self-belief, and "Believe in Yourself".*
+_Source: NCERT Class 9 - English Beehive, Chapter 8 raw file. Learner-facing version manually rewritten from the extracted chapter content about "Follow That Dream", dream planning, self-belief, and "Believe in Yourself"._

@@ -1,4 +1,5 @@
 # Chapter 5: Patterns of Social Inequality and Exclusion
+
 ### NCERT Class 12 - Sociology Indian Society
 
 ## Chapter at a Glance
@@ -26,32 +27,32 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Social inequality | Unequal access to valued resources due to social position. |
-| Social stratification | System by which groups are ranked in a hierarchy. |
-| Economic capital | Income, property, wealth, and material assets. |
-| Cultural capital | Education, qualifications, language, taste, and status markers. |
-| Social capital | Networks, contacts, associations, and influence. |
-| Prejudice | Pre-formed opinion about a group, often without evidence. |
-| Stereotype | Fixed and oversimplified image of a group. |
-| Discrimination | Actual unequal behaviour toward a person or group. |
-| Social exclusion | Systematic blocking of full participation in society. |
-| Untouchability | Extreme caste exclusion involving stigma, segregation, and denial of dignity. |
-| Dalit | Self-respect term used by formerly untouchable communities. |
-| Adivasi | Term used for many tribal communities, meaning original inhabitants. |
-| Disability | Impairment made disabling by social barriers and inaccessible institutions. |
+| Term                  | Meaning                                                                       |
+| --------------------- | ----------------------------------------------------------------------------- |
+| Social inequality     | Unequal access to valued resources due to social position.                    |
+| Social stratification | System by which groups are ranked in a hierarchy.                             |
+| Economic capital      | Income, property, wealth, and material assets.                                |
+| Cultural capital      | Education, qualifications, language, taste, and status markers.               |
+| Social capital        | Networks, contacts, associations, and influence.                              |
+| Prejudice             | Pre-formed opinion about a group, often without evidence.                     |
+| Stereotype            | Fixed and oversimplified image of a group.                                    |
+| Discrimination        | Actual unequal behaviour toward a person or group.                            |
+| Social exclusion      | Systematic blocking of full participation in society.                         |
+| Untouchability        | Extreme caste exclusion involving stigma, segregation, and denial of dignity. |
+| Dalit                 | Self-respect term used by formerly untouchable communities.                   |
+| Adivasi               | Term used for many tribal communities, meaning original inhabitants.          |
+| Disability            | Impairment made disabling by social barriers and inaccessible institutions.   |
 
 ## Concept Map
 
-| Concept | Main point |
-|---|---|
-| Inequality | Unequal resources and opportunities. |
-| Stratification | Structured ranking of groups. |
-| Prejudice | Attitude or belief. |
-| Stereotype | Fixed image of group. |
-| Discrimination | Unequal action or practice. |
-| Exclusion | Systematic denial of participation. |
+| Concept         | Main point                              |
+| --------------- | --------------------------------------- |
+| Inequality      | Unequal resources and opportunities.    |
+| Stratification  | Structured ranking of groups.           |
+| Prejudice       | Attitude or belief.                     |
+| Stereotype      | Fixed image of group.                   |
+| Discrimination  | Unequal action or practice.             |
+| Exclusion       | Systematic denial of participation.     |
 | Social movement | Collective struggle against inequality. |
 
 # Unit 5A: Why Inequality Appears Natural
@@ -466,15 +467,15 @@ Even if occupations are no longer legally fixed by caste, caste can still affect
 
 # Unit 5P: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Saying inequality is only due to talent. | Social inequality is structured by group location and institutions. |
-| Confusing prejudice and discrimination. | Prejudice is attitude; discrimination is action. |
-| Treating stereotypes as harmless. | Stereotypes justify exclusion and unequal treatment. |
+| Mistake                                                   | Correction                                                                  |
+| --------------------------------------------------------- | --------------------------------------------------------------------------- |
+| Saying inequality is only due to talent.                  | Social inequality is structured by group location and institutions.         |
+| Confusing prejudice and discrimination.                   | Prejudice is attitude; discrimination is action.                            |
+| Treating stereotypes as harmless.                         | Stereotypes justify exclusion and unequal treatment.                        |
 | Saying caste has disappeared because occupations changed. | Caste persists in marriage, politics, networks, status, and discrimination. |
-| Treating law as enough to end inequality. | Legal change must be supported by social change. |
-| Seeing disabled people only as victims. | Disability rights approach emphasises access, dignity, and social barriers. |
-| Ignoring internal differences within groups. | Groups such as women, Dalits, adivasis, and OBCs are internally diverse. |
+| Treating law as enough to end inequality.                 | Legal change must be supported by social change.                            |
+| Seeing disabled people only as victims.                   | Disability rights approach emphasises access, dignity, and social barriers. |
+| Ignoring internal differences within groups.              | Groups such as women, Dalits, adivasis, and OBCs are internally diverse.    |
 
 ## Practice Set
 

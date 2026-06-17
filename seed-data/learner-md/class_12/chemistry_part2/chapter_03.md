@@ -1,4 +1,5 @@
 # Chapter 3: Aldehydes, Ketones and Carboxylic Acids
+
 ### NCERT Class 12 - Chemistry Part 2
 
 ## Chapter at a Glance
@@ -24,26 +25,26 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Carbonyl group | `C=O` functional group. |
-| Aldehyde | Compound containing `-CHO`. |
-| Ketone | Compound containing carbonyl carbon bonded to two carbon groups. |
-| Carboxylic acid | Compound containing `-COOH`. |
-| Nucleophilic addition | Addition of nucleophile to electrophilic carbonyl carbon. |
-| Acetal | Product formed by reaction of aldehyde with alcohol under dry acid condition. |
-| Ketal | Product formed by reaction of ketone with alcohol under dry acid condition. |
-| Aldol condensation | Reaction of aldehydes or ketones with alpha hydrogen in dilute base. |
-| Cannizzaro reaction | Disproportionation of aldehydes without alpha hydrogen in concentrated base. |
-| Decarboxylation | Removal of carbon dioxide from carboxylic acid derivative. |
+| Term                  | Meaning                                                                       |
+| --------------------- | ----------------------------------------------------------------------------- |
+| Carbonyl group        | `C=O` functional group.                                                       |
+| Aldehyde              | Compound containing `-CHO`.                                                   |
+| Ketone                | Compound containing carbonyl carbon bonded to two carbon groups.              |
+| Carboxylic acid       | Compound containing `-COOH`.                                                  |
+| Nucleophilic addition | Addition of nucleophile to electrophilic carbonyl carbon.                     |
+| Acetal                | Product formed by reaction of aldehyde with alcohol under dry acid condition. |
+| Ketal                 | Product formed by reaction of ketone with alcohol under dry acid condition.   |
+| Aldol condensation    | Reaction of aldehydes or ketones with alpha hydrogen in dilute base.          |
+| Cannizzaro reaction   | Disproportionation of aldehydes without alpha hydrogen in concentrated base.  |
+| Decarboxylation       | Removal of carbon dioxide from carboxylic acid derivative.                    |
 
 ## Quick Learning Map
 
-| Functional group | Main behaviour |
-|---|---|
-| Aldehydes | Easily oxidised, more reactive in nucleophilic addition |
-| Ketones | Less easily oxidised, undergo nucleophilic addition |
-| Carboxylic acids | Acidic, form salts, esters, acid chlorides, amides |
+| Functional group | Main behaviour                                          |
+| ---------------- | ------------------------------------------------------- |
+| Aldehydes        | Easily oxidised, more reactive in nucleophilic addition |
+| Ketones          | Less easily oxidised, undergo nucleophilic addition     |
+| Carboxylic acids | Acidic, form salts, esters, acid chlorides, amides      |
 
 # Unit 3A: Nomenclature
 
@@ -53,12 +54,12 @@ The IUPAC suffix is `-al`.
 
 Examples:
 
-| Formula | Name |
-|---|---|
-| `HCHO` | methanal |
-| `CH3CHO` | ethanal |
-| `CH3CH2CHO` | propanal |
-| `C6H5CHO` | benzaldehyde |
+| Formula     | Name         |
+| ----------- | ------------ |
+| `HCHO`      | methanal     |
+| `CH3CHO`    | ethanal      |
+| `CH3CH2CHO` | propanal     |
+| `C6H5CHO`   | benzaldehyde |
 
 ## Ketones
 
@@ -66,11 +67,11 @@ The IUPAC suffix is `-one`.
 
 Examples:
 
-| Formula | Name |
-|---|---|
-| `CH3COCH3` | propanone |
-| `CH3COCH2CH3` | butan-2-one |
-| `C6H5COCH3` | acetophenone |
+| Formula       | Name         |
+| ------------- | ------------ |
+| `CH3COCH3`    | propanone    |
+| `CH3COCH2CH3` | butan-2-one  |
+| `C6H5COCH3`   | acetophenone |
 
 ## Carboxylic Acids
 
@@ -78,11 +79,11 @@ The IUPAC suffix is `-oic acid`.
 
 Examples:
 
-| Formula | Name |
-|---|---|
-| `HCOOH` | methanoic acid |
-| `CH3COOH` | ethanoic acid |
-| `C6H5COOH` | benzoic acid |
+| Formula    | Name           |
+| ---------- | -------------- |
+| `HCOOH`    | methanoic acid |
+| `CH3COOH`  | ethanoic acid  |
+| `C6H5COOH` | benzoic acid   |
 
 # Unit 3B: Structure of Carbonyl Group
 
@@ -207,22 +208,22 @@ Aldehydes and many methyl ketones form crystalline bisulphite addition compounds
 Grignard reagent adds to carbonyl group, followed by hydrolysis.
 
 | Carbonyl compound | Product after hydrolysis |
-|---|---|
-| Formaldehyde | Primary alcohol |
-| Other aldehyde | Secondary alcohol |
-| Ketone | Tertiary alcohol |
+| ----------------- | ------------------------ |
+| Formaldehyde      | Primary alcohol          |
+| Other aldehyde    | Secondary alcohol        |
+| Ketone            | Tertiary alcohol         |
 
 # Unit 3G: Reactions with Ammonia Derivatives
 
 Aldehydes and ketones react with ammonia derivatives to form condensation products.
 
-| Reagent | Product type |
-|---|---|
-| Hydroxylamine | Oxime |
-| Hydrazine | Hydrazone |
-| Phenylhydrazine | Phenylhydrazone |
-| 2,4-DNP | 2,4-dinitrophenylhydrazone |
-| Semicarbazide | Semicarbazone |
+| Reagent         | Product type               |
+| --------------- | -------------------------- |
+| Hydroxylamine   | Oxime                      |
+| Hydrazine       | Hydrazone                  |
+| Phenylhydrazine | Phenylhydrazone            |
+| 2,4-DNP         | 2,4-dinitrophenylhydrazone |
+| Semicarbazide   | Semicarbazone              |
 
 These reactions are useful for identification because products often have sharp melting points.
 
@@ -360,40 +361,40 @@ Sodium salts of carboxylic acids heated with soda lime lose carbon dioxide to fo
 
 # Unit 3N: Named Reaction Toolkit
 
-| Name | Main conversion |
-|---|---|
-| Rosenmund reduction | Acid chloride to aldehyde |
-| Stephen reduction | Nitrile to aldehyde |
-| Friedel-Crafts acylation | Benzene to aromatic ketone |
-| Aldol condensation | Carbonyl with alpha hydrogen to aldol product |
-| Cannizzaro reaction | Aldehyde without alpha hydrogen to alcohol and carboxylate |
-| Clemmensen reduction | Carbonyl to methylene in acidic medium |
-| Wolff-Kishner reduction | Carbonyl to methylene in basic medium |
-| Hell-Volhard-Zelinsky reaction | Alpha halogenation of carboxylic acids |
+| Name                           | Main conversion                                            |
+| ------------------------------ | ---------------------------------------------------------- |
+| Rosenmund reduction            | Acid chloride to aldehyde                                  |
+| Stephen reduction              | Nitrile to aldehyde                                        |
+| Friedel-Crafts acylation       | Benzene to aromatic ketone                                 |
+| Aldol condensation             | Carbonyl with alpha hydrogen to aldol product              |
+| Cannizzaro reaction            | Aldehyde without alpha hydrogen to alcohol and carboxylate |
+| Clemmensen reduction           | Carbonyl to methylene in acidic medium                     |
+| Wolff-Kishner reduction        | Carbonyl to methylene in basic medium                      |
+| Hell-Volhard-Zelinsky reaction | Alpha halogenation of carboxylic acids                     |
 
 # Unit 3O: Conversion Logic
 
-| Starting compound | Target | Route idea |
-|---|---|---|
-| Alcohol | Aldehyde or ketone | Controlled oxidation |
-| Aldehyde | Acid | Oxidation |
-| Ketone | Alcohol | Reduction |
-| Nitrile | Acid | Hydrolysis |
-| Grignard reagent | Acid with one extra carbon | `CO2` then hydrolysis |
-| Acid | Ester | Alcohol plus acid catalyst |
-| Acid | Acid chloride | `SOCl2` |
-| Acid salt | Alkane with one less carbon | Soda lime |
+| Starting compound | Target                      | Route idea                 |
+| ----------------- | --------------------------- | -------------------------- |
+| Alcohol           | Aldehyde or ketone          | Controlled oxidation       |
+| Aldehyde          | Acid                        | Oxidation                  |
+| Ketone            | Alcohol                     | Reduction                  |
+| Nitrile           | Acid                        | Hydrolysis                 |
+| Grignard reagent  | Acid with one extra carbon  | `CO2` then hydrolysis      |
+| Acid              | Ester                       | Alcohol plus acid catalyst |
+| Acid              | Acid chloride               | `SOCl2`                    |
+| Acid salt         | Alkane with one less carbon | Soda lime                  |
 
 # Unit 3P: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Treating aldehydes and ketones as equally reactive | Aldehydes are usually more reactive. |
-| Using Tollens' reagent for ketones generally | Tollens' test is mainly for aldehydes. |
-| Applying aldol to compounds without alpha hydrogen | Aldol requires alpha hydrogen. |
-| Applying Cannizzaro to ketones | Cannizzaro is for aldehydes without alpha hydrogen. |
-| Forgetting Grignard reagents are destroyed by water | Hydrolysis is done only after addition step. |
-| Missing one-carbon increase in Grignard plus carbon dioxide | `CO2` adds one carbon. |
+| Mistake                                                     | Correction                                          |
+| ----------------------------------------------------------- | --------------------------------------------------- |
+| Treating aldehydes and ketones as equally reactive          | Aldehydes are usually more reactive.                |
+| Using Tollens' reagent for ketones generally                | Tollens' test is mainly for aldehydes.              |
+| Applying aldol to compounds without alpha hydrogen          | Aldol requires alpha hydrogen.                      |
+| Applying Cannizzaro to ketones                              | Cannizzaro is for aldehydes without alpha hydrogen. |
+| Forgetting Grignard reagents are destroyed by water         | Hydrolysis is done only after addition step.        |
+| Missing one-carbon increase in Grignard plus carbon dioxide | `CO2` adds one carbon.                              |
 
 ## Practice Set
 

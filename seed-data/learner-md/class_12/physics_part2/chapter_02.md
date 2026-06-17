@@ -1,4 +1,5 @@
 # Chapter 2: Wave Optics
+
 ### NCERT Class 12 - Physics Part 2
 
 ## Chapter at a Glance
@@ -25,35 +26,35 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Wavefront | Surface of constant phase. |
-| Spherical wavefront | Wavefront produced by a point source. |
-| Plane wavefront | Wavefront far from a source, where a small part of a sphere is nearly plane. |
-| Ray | Direction of energy propagation, perpendicular to wavefront. |
-| Huygens' principle | Every point on a wavefront behaves as a source of secondary wavelets. |
-| Coherent sources | Light emitters having same frequency and constant phase difference. |
-| Interference | Redistribution of intensity due to superposition of coherent waves. |
-| Fringe | Bright or dark band in an interference pattern. |
-| Diffraction | Bending and spreading of waves around edges or through apertures. |
-| Polarisation | Restriction of vibration of transverse waves to one plane. |
-| Polaroid | Material that transmits one component of electric field and absorbs the perpendicular component. |
+| Term                | Meaning                                                                                          |
+| ------------------- | ------------------------------------------------------------------------------------------------ |
+| Wavefront           | Surface of constant phase.                                                                       |
+| Spherical wavefront | Wavefront produced by a point source.                                                            |
+| Plane wavefront     | Wavefront far from a source, where a small part of a sphere is nearly plane.                     |
+| Ray                 | Direction of energy propagation, perpendicular to wavefront.                                     |
+| Huygens' principle  | Every point on a wavefront behaves as a source of secondary wavelets.                            |
+| Coherent sources    | Light emitters having same frequency and constant phase difference.                              |
+| Interference        | Redistribution of intensity due to superposition of coherent waves.                              |
+| Fringe              | Bright or dark band in an interference pattern.                                                  |
+| Diffraction         | Bending and spreading of waves around edges or through apertures.                                |
+| Polarisation        | Restriction of vibration of transverse waves to one plane.                                       |
+| Polaroid            | Material that transmits one component of electric field and absorbs the perpendicular component. |
 
 ## Quick Formula Map
 
-| Idea | Formula |
-|---|---|
-| Refractive index | `n = c/v` |
-| Snell's law from wave theory | `n1 sin i = n2 sin r` |
-| Wavelength in medium | `lambda = v/frequency` |
+| Idea                                 | Formula                                              |
+| ------------------------------------ | ---------------------------------------------------- |
+| Refractive index                     | `n = c/v`                                            |
+| Snell's law from wave theory         | `n1 sin i = n2 sin r`                                |
+| Wavelength in medium                 | `lambda = v/frequency`                               |
 | Phase difference and path difference | `phase difference = 2 pi x path difference / lambda` |
-| Constructive interference | `path difference = n lambda` |
-| Destructive interference | `path difference = (n + 1/2) lambda` |
-| Young bright fringe | `x_n = n lambda D / d` |
-| Young dark fringe | `x_n = (n + 1/2) lambda D / d` |
-| Fringe width | `beta = lambda D / d` |
-| Single-slit minima | `a sin theta = n lambda` |
-| Malus' law | `I = I0 cos^2 theta` |
+| Constructive interference            | `path difference = n lambda`                         |
+| Destructive interference             | `path difference = (n + 1/2) lambda`                 |
+| Young bright fringe                  | `x_n = n lambda D / d`                               |
+| Young dark fringe                    | `x_n = (n + 1/2) lambda D / d`                       |
+| Fringe width                         | `beta = lambda D / d`                                |
+| Single-slit minima                   | `a sin theta = n lambda`                             |
+| Malus' law                           | `I = I0 cos^2 theta`                                 |
 
 # Unit 2A: Need for Wave Optics
 
@@ -482,14 +483,14 @@ For small angle:
 
 # Unit 2Q: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Saying frequency changes during refraction. | Frequency remains same; speed and wavelength change. |
-| Using `lambda D/d` without unit conversion. | Convert wavelength, distance, and slit separation to metre. |
-| Confusing fringe width with nth fringe position. | Fringe width is spacing; nth bright position is `n beta`. |
-| Saying diffraction needs two slits. | Diffraction occurs even with one slit. |
-| Saying polarisation proves longitudinal nature. | Polarisation proves transverse nature. |
-| Treating independent lamps as coherent. | Independent lamps are generally incoherent. |
+| Mistake                                                | Correction                                                          |
+| ------------------------------------------------------ | ------------------------------------------------------------------- |
+| Saying frequency changes during refraction.            | Frequency remains same; speed and wavelength change.                |
+| Using `lambda D/d` without unit conversion.            | Convert wavelength, distance, and slit separation to metre.         |
+| Confusing fringe width with nth fringe position.       | Fringe width is spacing; nth bright position is `n beta`.           |
+| Saying diffraction needs two slits.                    | Diffraction occurs even with one slit.                              |
+| Saying polarisation proves longitudinal nature.        | Polarisation proves transverse nature.                              |
+| Treating independent lamps as coherent.                | Independent lamps are generally incoherent.                         |
 | Forgetting that central diffraction maximum is widest. | Central maximum width is about twice the width of secondary maxima. |
 
 ## Practice Set

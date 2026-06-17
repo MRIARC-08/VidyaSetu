@@ -1,4 +1,5 @@
 # Chapter 8: Going Places
+
 ### NCERT Class 12 - English Flamingo
 
 ## Chapter at a Glance
@@ -23,15 +24,15 @@ By the end of this chapter, you should be able to:
 
 ## Key Facts
 
-| Element | Detail |
-|---|---|
-| Author | A. R. Barton |
-| Genre | Short story |
-| Main character | Sophie |
+| Element           | Detail                                      |
+| ----------------- | ------------------------------------------- |
+| Author            | A. R. Barton                                |
+| Genre             | Short story                                 |
+| Main character    | Sophie                                      |
 | Other key figures | Jansie, Geoff, Danny Casey, Sophie's family |
-| Setting | Working-class environment |
-| Central conflict | Fantasy vs reality |
-| Tone | Realistic, ironic, sympathetic |
+| Setting           | Working-class environment                   |
+| Central conflict  | Fantasy vs reality                          |
+| Tone              | Realistic, ironic, sympathetic              |
 
 # Unit 8A: Plot Overview
 
@@ -64,13 +65,13 @@ Jansie is practical and grounded. She understands the limits of their social sit
 
 Jansie functions as a contrast to Sophie:
 
-| Sophie | Jansie |
-|---|---|
-| Dreamy | Practical |
-| Escapist | Realistic |
-| Secretive | Socially alert |
-| Seeks glamour | Accepts ordinary life |
-| Builds fantasies | Questions fantasies |
+| Sophie           | Jansie                |
+| ---------------- | --------------------- |
+| Dreamy           | Practical             |
+| Escapist         | Realistic             |
+| Secretive        | Socially alert        |
+| Seeks glamour    | Accepts ordinary life |
+| Builds fantasies | Questions fantasies   |
 
 Jansie is not dull; she is realistic about class limitations.
 
@@ -169,13 +170,13 @@ Features:
 
 # Unit 8K: Symbols
 
-| Symbol | Meaning |
-|---|---|
-| Boutique dream | Desire for glamour and independence |
-| Biscuit factory | Working-class limitation |
+| Symbol          | Meaning                                    |
+| --------------- | ------------------------------------------ |
+| Boutique dream  | Desire for glamour and independence        |
+| Biscuit factory | Working-class limitation                   |
 | Geoff's silence | Mystery and imagined access to adult world |
-| Danny Casey | Fame, escape, fantasy |
-| Waiting place | Collision between dream and reality |
+| Danny Casey     | Fame, escape, fantasy                      |
+| Waiting place   | Collision between dream and reality        |
 
 # Unit 8L: Exam Answer Frameworks
 
@@ -197,13 +198,13 @@ Features:
 
 # Unit 8M: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Calling Sophie only a liar | Her fantasy comes from longing and dissatisfaction. |
-| Treating Jansie as negative | Jansie is practical and socially aware. |
-| Ignoring class background | Working-class limitation is central. |
+| Mistake                             | Correction                                          |
+| ----------------------------------- | --------------------------------------------------- |
+| Calling Sophie only a liar          | Her fantasy comes from longing and dissatisfaction. |
+| Treating Jansie as negative         | Jansie is practical and socially aware.             |
+| Ignoring class background           | Working-class limitation is central.                |
 | Assuming Danny Casey actually comes | The story strongly suggests the meeting is fantasy. |
-| Reading the title only literally | It is both aspirational and ironic. |
+| Reading the title only literally    | It is both aspirational and ironic.                 |
 
 ## Practice Set
 

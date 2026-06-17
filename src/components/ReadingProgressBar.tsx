@@ -7,14 +7,17 @@ interface ReadingProgressBarProps {
   isLoading?: boolean;
 }
 
-export default function ReadingProgressBar({ chapterSlug, isLoading = false }: ReadingProgressBarProps) {
+export default function ReadingProgressBar({
+  chapterSlug,
+  isLoading = false,
+}: ReadingProgressBarProps) {
   const [progress, setProgress] = useState(0);
 
   useEffect(() => {
     if (typeof window === 'undefined') return;
 
     const storageKey = `reading-progress-${chapterSlug}`;
-    
+
     // Restore scroll position ONLY when content has finished loading
     if (!isLoading) {
       const savedScroll = localStorage.getItem(storageKey);
@@ -27,8 +30,9 @@ export default function ReadingProgressBar({ chapterSlug, isLoading = false }: R
 
     const handleScroll = () => {
       const scrollTop = window.scrollY;
-      const docHeight = document.documentElement.scrollHeight - window.innerHeight;
-      
+      const docHeight =
+        document.documentElement.scrollHeight - window.innerHeight;
+
       if (docHeight > 0) {
         const currentProgress = (scrollTop / docHeight) * 100;
         setProgress(Math.min(100, Math.max(0, currentProgress)));

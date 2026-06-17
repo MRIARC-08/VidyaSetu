@@ -4,16 +4,16 @@ Class 11 Biology
 
 ## Chapter Profile
 
-| Item | Details |
-|---|---|
-| Class | 11 |
-| Subject | Biology |
-| Chapter | 14 |
-| Title | Breathing and Exchange of Gases |
-| Main theme | How oxygen enters the body, carbon dioxide leaves it, and gases are transported in blood |
+| Item           | Details                                                                                  |
+| -------------- | ---------------------------------------------------------------------------------------- |
+| Class          | 11                                                                                       |
+| Subject        | Biology                                                                                  |
+| Chapter        | 14                                                                                       |
+| Title          | Breathing and Exchange of Gases                                                          |
+| Main theme     | How oxygen enters the body, carbon dioxide leaves it, and gases are transported in blood |
 | Main processes | Breathing, diffusion, oxygen transport, carbon dioxide transport, respiratory regulation |
-| Core skill | Track O2 and CO2 from atmosphere to tissues and back |
-| Learner goal | Explain ventilation, gas exchange, gas transport, respiratory volumes, and regulation |
+| Core skill     | Track O2 and CO2 from atmosphere to tissues and back                                     |
+| Learner goal   | Explain ventilation, gas exchange, gas transport, respiratory volumes, and regulation    |
 
 ## How To Study This Chapter
 
@@ -84,59 +84,59 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Breathing | Exchange of atmospheric O2 with CO2-rich alveolar air |
-| Respiration | Often used for breathing, but cellular respiration means oxidation of food inside cells |
-| Inspiration | Drawing atmospheric air into lungs |
-| Expiration | Releasing alveolar air out of lungs |
-| Pulmonary ventilation | Movement of air into and out of lungs |
-| Respiratory organ | Structure specialised for gas exchange |
-| Gills | Vascularised respiratory structures in many aquatic animals |
-| Lungs | Vascularised respiratory sacs in terrestrial vertebrates |
-| Cutaneous respiration | Gas exchange through skin |
-| Tracheal tubes | Insect air tubes carrying air directly to tissues |
-| Larynx | Cartilaginous sound box |
-| Epiglottis | Cartilaginous flap preventing food entry into larynx |
-| Trachea | Windpipe leading to bronchi |
-| Bronchi | Main branches of trachea entering lungs |
-| Bronchioles | Smaller branches of bronchi |
-| Alveoli | Thin vascularised sacs where gas exchange occurs |
-| Pleura | Double membrane covering lungs |
-| Pleural fluid | Fluid reducing friction between pleural membranes |
-| Conducting part | Air passage from nostrils to terminal bronchioles |
-| Exchange part | Alveoli and ducts where diffusion occurs |
-| Diaphragm | Dome-shaped muscle forming lower boundary of thoracic cavity |
-| Intercostal muscles | Muscles between ribs aiding breathing |
-| Intrapulmonary pressure | Pressure inside lungs |
-| Spirometer | Instrument used to estimate respiratory volumes |
-| Tidal volume | Air inspired or expired in normal breath |
-| Residual volume | Air remaining after forced expiration |
-| Vital capacity | Maximum air breathed out after forced inspiration or breathed in after forced expiration |
-| Total lung capacity | Total air in lungs after forced inspiration |
-| Partial pressure | Pressure contributed by an individual gas in a mixture |
-| pO2 | Partial pressure of oxygen |
-| pCO2 | Partial pressure of carbon dioxide |
-| Haemoglobin | Iron-containing respiratory pigment in RBCs |
-| Oxyhaemoglobin | Haemoglobin bound reversibly with oxygen |
-| Carbaminohaemoglobin | Haemoglobin bound with carbon dioxide |
-| Carbonic anhydrase | Enzyme catalysing CO2 and water conversion to carbonic acid and bicarbonate |
-| Oxygen dissociation curve | Graph of haemoglobin saturation against pO2 |
-| Respiratory rhythm centre | Medullary centre controlling breathing rhythm |
-| Pneumotaxic centre | Pons centre moderating inspiration duration |
-| Hypoxia | Low oxygen availability to tissues |
+| Term                      | Meaning                                                                                  |
+| ------------------------- | ---------------------------------------------------------------------------------------- |
+| Breathing                 | Exchange of atmospheric O2 with CO2-rich alveolar air                                    |
+| Respiration               | Often used for breathing, but cellular respiration means oxidation of food inside cells  |
+| Inspiration               | Drawing atmospheric air into lungs                                                       |
+| Expiration                | Releasing alveolar air out of lungs                                                      |
+| Pulmonary ventilation     | Movement of air into and out of lungs                                                    |
+| Respiratory organ         | Structure specialised for gas exchange                                                   |
+| Gills                     | Vascularised respiratory structures in many aquatic animals                              |
+| Lungs                     | Vascularised respiratory sacs in terrestrial vertebrates                                 |
+| Cutaneous respiration     | Gas exchange through skin                                                                |
+| Tracheal tubes            | Insect air tubes carrying air directly to tissues                                        |
+| Larynx                    | Cartilaginous sound box                                                                  |
+| Epiglottis                | Cartilaginous flap preventing food entry into larynx                                     |
+| Trachea                   | Windpipe leading to bronchi                                                              |
+| Bronchi                   | Main branches of trachea entering lungs                                                  |
+| Bronchioles               | Smaller branches of bronchi                                                              |
+| Alveoli                   | Thin vascularised sacs where gas exchange occurs                                         |
+| Pleura                    | Double membrane covering lungs                                                           |
+| Pleural fluid             | Fluid reducing friction between pleural membranes                                        |
+| Conducting part           | Air passage from nostrils to terminal bronchioles                                        |
+| Exchange part             | Alveoli and ducts where diffusion occurs                                                 |
+| Diaphragm                 | Dome-shaped muscle forming lower boundary of thoracic cavity                             |
+| Intercostal muscles       | Muscles between ribs aiding breathing                                                    |
+| Intrapulmonary pressure   | Pressure inside lungs                                                                    |
+| Spirometer                | Instrument used to estimate respiratory volumes                                          |
+| Tidal volume              | Air inspired or expired in normal breath                                                 |
+| Residual volume           | Air remaining after forced expiration                                                    |
+| Vital capacity            | Maximum air breathed out after forced inspiration or breathed in after forced expiration |
+| Total lung capacity       | Total air in lungs after forced inspiration                                              |
+| Partial pressure          | Pressure contributed by an individual gas in a mixture                                   |
+| pO2                       | Partial pressure of oxygen                                                               |
+| pCO2                      | Partial pressure of carbon dioxide                                                       |
+| Haemoglobin               | Iron-containing respiratory pigment in RBCs                                              |
+| Oxyhaemoglobin            | Haemoglobin bound reversibly with oxygen                                                 |
+| Carbaminohaemoglobin      | Haemoglobin bound with carbon dioxide                                                    |
+| Carbonic anhydrase        | Enzyme catalysing CO2 and water conversion to carbonic acid and bicarbonate              |
+| Oxygen dissociation curve | Graph of haemoglobin saturation against pO2                                              |
+| Respiratory rhythm centre | Medullary centre controlling breathing rhythm                                            |
+| Pneumotaxic centre        | Pons centre moderating inspiration duration                                              |
+| Hypoxia                   | Low oxygen availability to tissues                                                       |
 
 ## Chapter Map
 
-| Unit | Topic | What To Master |
-|---|---|---|
-| 14.1 | Respiratory organs | Different respiratory surfaces and human respiratory tract |
-| 14.2 | Breathing mechanism | Inspiration, expiration, pressure gradients |
-| 14.2.1 | Volumes and capacities | TV, IRV, ERV, RV, IC, EC, FRC, VC, TLC |
-| 14.3 | Exchange of gases | Partial pressure gradients and alveolar membrane |
-| 14.4 | Gas transport | O2 by Hb, CO2 as bicarbonate and carbaminohaemoglobin |
-| 14.5 | Regulation | Medulla, pons, chemoreceptors |
-| 14.6 | Disorders | Asthma, emphysema, dust-related lung disease |
+| Unit   | Topic                  | What To Master                                             |
+| ------ | ---------------------- | ---------------------------------------------------------- |
+| 14.1   | Respiratory organs     | Different respiratory surfaces and human respiratory tract |
+| 14.2   | Breathing mechanism    | Inspiration, expiration, pressure gradients                |
+| 14.2.1 | Volumes and capacities | TV, IRV, ERV, RV, IC, EC, FRC, VC, TLC                     |
+| 14.3   | Exchange of gases      | Partial pressure gradients and alveolar membrane           |
+| 14.4   | Gas transport          | O2 by Hb, CO2 as bicarbonate and carbaminohaemoglobin      |
+| 14.5   | Regulation             | Medulla, pons, chemoreceptors                              |
+| 14.6   | Disorders              | Asthma, emphysema, dust-related lung disease               |
 
 ## 1. Why Gas Exchange Is Needed
 
@@ -165,13 +165,13 @@ Cellular respiration is the intracellular oxidation of food molecules to release
 
 They are connected, but they are not the same.
 
-| Feature | Breathing | Cellular Respiration |
-|---|---|---|
-| Level | Organ-system level | Cellular level |
-| Main site | Lungs and air passages | Cells, especially mitochondria |
-| Main role | Gas exchange with atmosphere | ATP production |
-| O2 role | Taken into body | Used as final acceptor in aerobic respiration |
-| CO2 role | Removed from body | Produced during catabolism |
+| Feature   | Breathing                    | Cellular Respiration                          |
+| --------- | ---------------------------- | --------------------------------------------- |
+| Level     | Organ-system level           | Cellular level                                |
+| Main site | Lungs and air passages       | Cells, especially mitochondria                |
+| Main role | Gas exchange with atmosphere | ATP production                                |
+| O2 role   | Taken into body              | Used as final acceptor in aerobic respiration |
+| CO2 role  | Removed from body            | Produced during catabolism                    |
 
 ## 3. Respiratory Organs In Animals
 
@@ -391,12 +391,12 @@ The thoracic chamber is anatomically airtight.
 
 Boundaries:
 
-| Side | Boundary |
-|---|---|
-| Dorsal | Vertebral column |
-| Ventral | Sternum |
-| Lateral | Ribs |
-| Lower side | Diaphragm |
+| Side       | Boundary         |
+| ---------- | ---------------- |
+| Dorsal     | Vertebral column |
+| Ventral    | Sternum          |
+| Lateral    | Ribs             |
+| Lower side | Diaphragm        |
 
 The diaphragm is dome-shaped.
 
@@ -693,17 +693,17 @@ Approximate range:
 
 ## 14. Volume Summary Table
 
-| Symbol | Name | Meaning | Approximate Value |
-|---|---|---|---:|
-| TV | Tidal volume | Normal breath in or out | 500 mL |
-| IRV | Inspiratory reserve volume | Extra inspired after normal inspiration | 2500-3000 mL |
-| ERV | Expiratory reserve volume | Extra expired after normal expiration | 1000-1100 mL |
-| RV | Residual volume | Air left after forced expiration | 1100-1200 mL |
-| IC | Inspiratory capacity | TV + IRV | 3000-3500 mL |
-| EC | Expiratory capacity | TV + ERV | 1500-1600 mL |
-| FRC | Functional residual capacity | ERV + RV | 2100-2300 mL |
-| VC | Vital capacity | IRV + TV + ERV | 4000-4600 mL |
-| TLC | Total lung capacity | VC + RV | 5100-5800 mL |
+| Symbol | Name                         | Meaning                                 | Approximate Value |
+| ------ | ---------------------------- | --------------------------------------- | ----------------: |
+| TV     | Tidal volume                 | Normal breath in or out                 |            500 mL |
+| IRV    | Inspiratory reserve volume   | Extra inspired after normal inspiration |      2500-3000 mL |
+| ERV    | Expiratory reserve volume    | Extra expired after normal expiration   |      1000-1100 mL |
+| RV     | Residual volume              | Air left after forced expiration        |      1100-1200 mL |
+| IC     | Inspiratory capacity         | TV + IRV                                |      3000-3500 mL |
+| EC     | Expiratory capacity          | TV + ERV                                |      1500-1600 mL |
+| FRC    | Functional residual capacity | ERV + RV                                |      2100-2300 mL |
+| VC     | Vital capacity               | IRV + TV + ERV                          |      4000-4600 mL |
+| TLC    | Total lung capacity          | VC + RV                                 |      5100-5800 mL |
 
 ## 15. Tidal Volume Per Hour
 
@@ -780,13 +780,13 @@ Gases diffuse from higher partial pressure to lower partial pressure.
 
 ## 16.3 Partial Pressures In Key Sites
 
-| Site | pO2 mm Hg | pCO2 mm Hg |
-|---|---:|---:|
-| Atmospheric air | 159 | 0.3 |
-| Alveoli | 104 | 40 |
-| Deoxygenated blood | 40 | 45 |
-| Oxygenated blood | 95 | 40 |
-| Tissues | 40 | 45 |
+| Site               | pO2 mm Hg | pCO2 mm Hg |
+| ------------------ | --------: | ---------: |
+| Atmospheric air    |       159 |        0.3 |
+| Alveoli            |       104 |         40 |
+| Deoxygenated blood |        40 |         45 |
+| Oxygenated blood   |        95 |         40 |
+| Tissues            |        40 |         45 |
 
 ## 16.4 Oxygen Gradient
 
@@ -1480,38 +1480,38 @@ It may occur due to high altitude, lung disease, anaemia, poor circulation, or t
 
 ## 28.1 IRV And ERV
 
-| Feature | IRV | ERV |
-|---|---|---|
-| Full form | Inspiratory reserve volume | Expiratory reserve volume |
-| Meaning | Extra air inspired after normal inspiration | Extra air expired after normal expiration |
-| Approximate value | 2500-3000 mL | 1000-1100 mL |
-| Direction | Inward | Outward |
+| Feature           | IRV                                         | ERV                                       |
+| ----------------- | ------------------------------------------- | ----------------------------------------- |
+| Full form         | Inspiratory reserve volume                  | Expiratory reserve volume                 |
+| Meaning           | Extra air inspired after normal inspiration | Extra air expired after normal expiration |
+| Approximate value | 2500-3000 mL                                | 1000-1100 mL                              |
+| Direction         | Inward                                      | Outward                                   |
 
 ## 28.2 Inspiratory Capacity And Expiratory Capacity
 
-| Feature | Inspiratory Capacity | Expiratory Capacity |
-|---|---|---|
-| Meaning | Total air inspired after normal expiration | Total air expired after normal inspiration |
-| Formula | TV + IRV | TV + ERV |
-| Approximate value | 3000-3500 mL | 1500-1600 mL |
+| Feature           | Inspiratory Capacity                       | Expiratory Capacity                        |
+| ----------------- | ------------------------------------------ | ------------------------------------------ |
+| Meaning           | Total air inspired after normal expiration | Total air expired after normal inspiration |
+| Formula           | TV + IRV                                   | TV + ERV                                   |
+| Approximate value | 3000-3500 mL                               | 1500-1600 mL                               |
 
 ## 28.3 Vital Capacity And Total Lung Capacity
 
-| Feature | Vital Capacity | Total Lung Capacity |
-|---|---|---|
-| Meaning | Maximum usable air moved after forced breathing effort | Total air in lungs after forced inspiration |
-| Formula | IRV + TV + ERV | IRV + TV + ERV + RV |
-| Includes RV | No | Yes |
-| Approximate value | 4000-4600 mL | 5100-5800 mL |
+| Feature           | Vital Capacity                                         | Total Lung Capacity                         |
+| ----------------- | ------------------------------------------------------ | ------------------------------------------- |
+| Meaning           | Maximum usable air moved after forced breathing effort | Total air in lungs after forced inspiration |
+| Formula           | IRV + TV + ERV                                         | IRV + TV + ERV + RV                         |
+| Includes RV       | No                                                     | Yes                                         |
+| Approximate value | 4000-4600 mL                                           | 5100-5800 mL                                |
 
 ## 28.4 Oxygen And Carbon Dioxide Transport
 
-| Feature | O2 | CO2 |
-|---|---|---|
-| Main transport form | Oxyhaemoglobin | Bicarbonate |
-| Dissolved in plasma | About 3 percent | About 7 percent |
-| Hb-linked form | About 97 percent as oxyhaemoglobin | About 20-25 percent as carbaminohaemoglobin |
-| Enzyme needed for main form | Not carbonic anhydrase | Carbonic anhydrase |
+| Feature                     | O2                                 | CO2                                         |
+| --------------------------- | ---------------------------------- | ------------------------------------------- |
+| Main transport form         | Oxyhaemoglobin                     | Bicarbonate                                 |
+| Dissolved in plasma         | About 3 percent                    | About 7 percent                             |
+| Hb-linked form              | About 97 percent as oxyhaemoglobin | About 20-25 percent as carbaminohaemoglobin |
+| Enzyme needed for main form | Not carbonic anhydrase             | Carbonic anhydrase                          |
 
 ## 29. High-Yield Facts
 
@@ -1636,41 +1636,41 @@ Chemosensitive areas and peripheral receptors respond mainly to CO2 and H+.
 
 ## 32. Rapid Revision Sheet
 
-| Topic | One-Line Revision |
-|---|---|
-| Breathing | Air in and out of lungs |
-| Cellular respiration | ATP production inside cells |
-| Insects | Tracheal tubes |
-| Fish | Gills |
-| Mammals | Lungs |
-| Larynx | Sound box |
-| Epiglottis | Prevents food entry into larynx |
-| Alveoli | Main gas exchange sites |
-| Pleura | Double covering of lungs |
-| Conducting part | Nostrils to terminal bronchioles |
-| Exchange part | Alveoli and ducts |
-| Inspiration | Pressure in lungs below atmosphere |
-| Expiration | Pressure in lungs above atmosphere |
-| TV | 500 mL |
-| IRV | 2500-3000 mL |
-| ERV | 1000-1100 mL |
-| RV | 1100-1200 mL |
-| FRC | ERV + RV |
-| VC | IRV + TV + ERV |
-| TLC | VC + RV |
-| O2 transport | 97 percent by haemoglobin |
-| CO2 transport | Mostly bicarbonate |
-| Carbonic anhydrase | Speeds CO2 bicarbonate reaction |
-| Oxygen curve | Sigmoid due cooperative binding |
-| High pCO2 | Promotes O2 unloading |
-| Medulla | Respiratory rhythm centre |
-| Pons | Pneumotaxic centre |
-| Asthma | Inflamed narrowed airways |
-| Emphysema | Damaged alveolar walls |
+| Topic                | One-Line Revision                  |
+| -------------------- | ---------------------------------- |
+| Breathing            | Air in and out of lungs            |
+| Cellular respiration | ATP production inside cells        |
+| Insects              | Tracheal tubes                     |
+| Fish                 | Gills                              |
+| Mammals              | Lungs                              |
+| Larynx               | Sound box                          |
+| Epiglottis           | Prevents food entry into larynx    |
+| Alveoli              | Main gas exchange sites            |
+| Pleura               | Double covering of lungs           |
+| Conducting part      | Nostrils to terminal bronchioles   |
+| Exchange part        | Alveoli and ducts                  |
+| Inspiration          | Pressure in lungs below atmosphere |
+| Expiration           | Pressure in lungs above atmosphere |
+| TV                   | 500 mL                             |
+| IRV                  | 2500-3000 mL                       |
+| ERV                  | 1000-1100 mL                       |
+| RV                   | 1100-1200 mL                       |
+| FRC                  | ERV + RV                           |
+| VC                   | IRV + TV + ERV                     |
+| TLC                  | VC + RV                            |
+| O2 transport         | 97 percent by haemoglobin          |
+| CO2 transport        | Mostly bicarbonate                 |
+| Carbonic anhydrase   | Speeds CO2 bicarbonate reaction    |
+| Oxygen curve         | Sigmoid due cooperative binding    |
+| High pCO2            | Promotes O2 unloading              |
+| Medulla              | Respiratory rhythm centre          |
+| Pons                 | Pneumotaxic centre                 |
+| Asthma               | Inflamed narrowed airways          |
+| Emphysema            | Damaged alveolar walls             |
 
 ## 33. Raw File Reference
 
-| Item | Path |
-|---|---|
-| Raw input | `data/class_11/biology/chapter_14.md` |
+| Item             | Path                                             |
+| ---------------- | ------------------------------------------------ |
+| Raw input        | `data/class_11/biology/chapter_14.md`            |
 | Formatted output | `data_learner_md/class_11/biology/chapter_14.md` |

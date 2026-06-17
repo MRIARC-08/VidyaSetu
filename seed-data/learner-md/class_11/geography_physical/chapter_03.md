@@ -46,60 +46,60 @@ By the end of this chapter, you should be able to:
 
 ## Big Picture Map
 
-| Theme | Core Idea | Examples |
-| --- | --- | --- |
-| Interior evidence | Knowledge comes from direct and indirect sources | Rocks, drilling, volcanoes, seismic waves |
-| Earthquakes | Sudden release of energy along faults | Focus, epicentre, seismic waves |
-| Seismic waves | Reveal internal layers | P-waves, S-waves, surface waves |
-| Shadow zones | Areas where waves are not recorded | P-wave shadow, S-wave shadow |
-| Earth structure | Earth has layers with different properties | Crust, mantle, core |
-| Volcanoes | Magma, gases, and ash reach surface | Shield, composite, caldera |
-| Volcanic landforms | Cooling lava forms rocks and bodies | Batholiths, sills, dykes |
+| Theme              | Core Idea                                        | Examples                                  |
+| ------------------ | ------------------------------------------------ | ----------------------------------------- |
+| Interior evidence  | Knowledge comes from direct and indirect sources | Rocks, drilling, volcanoes, seismic waves |
+| Earthquakes        | Sudden release of energy along faults            | Focus, epicentre, seismic waves           |
+| Seismic waves      | Reveal internal layers                           | P-waves, S-waves, surface waves           |
+| Shadow zones       | Areas where waves are not recorded               | P-wave shadow, S-wave shadow              |
+| Earth structure    | Earth has layers with different properties       | Crust, mantle, core                       |
+| Volcanoes          | Magma, gases, and ash reach surface              | Shield, composite, caldera                |
+| Volcanic landforms | Cooling lava forms rocks and bodies              | Batholiths, sills, dykes                  |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Earth interior | The internal structure of the earth below the surface. |
-| Direct source | Source that provides actual material from the earth, such as rocks or lava. |
-| Indirect source | Source that gives information through inference, such as seismic waves or gravity. |
-| Seismic activity | Earthquake-related vibrations and waves. |
-| Earthquake | Shaking of the earth caused by sudden release of energy. |
-| Fault | Sharp break in crustal rocks along which movement occurs. |
-| Focus | Point inside the earth where earthquake energy is released. |
-| Hypocentre | Another name for earthquake focus. |
-| Epicentre | Point on the surface directly above the focus. |
-| Seismograph | Instrument that records earthquake waves. |
-| Body waves | Earthquake waves that travel through the body of the earth. |
-| Surface waves | Earthquake waves that travel along the earth's surface. |
-| P-waves | Primary waves; fastest body waves; travel through solids, liquids, and gases. |
-| S-waves | Secondary waves; body waves that travel only through solids. |
-| Reflection | Rebounding of waves at a boundary. |
-| Refraction | Bending or change of direction of waves when they enter a different material. |
-| Shadow zone | Area where certain earthquake waves are not recorded. |
-| Richter scale | Magnitude scale measuring energy released by an earthquake. |
-| Mercalli scale | Intensity scale based on visible damage from an earthquake. |
-| Crust | Outermost solid and brittle layer of the earth. |
-| Mantle | Layer below the crust extending to about 2,900 km depth. |
-| Moho | Boundary between crust and mantle; Moho discontinuity. |
-| Asthenosphere | Weak upper mantle zone below lithosphere; source region for magma. |
-| Lithosphere | Crust plus uppermost solid mantle; rigid outer shell. |
-| Core | Innermost layer of the earth, rich in nickel and iron. |
-| Nife | Nickel-iron core layer. |
-| Volcano | Opening or place where lava, gases, ashes, and molten materials escape. |
-| Magma | Molten rock material below the earth's surface. |
-| Lava | Magma that reaches the surface. |
-| Pyroclastic debris | Fragmented volcanic material thrown out during eruption. |
-| Caldera | Large collapsed volcanic depression. |
-| Batholith | Large dome-like intrusive igneous body formed deep in the crust. |
-| Lacolith | Dome-shaped intrusive body with level base. |
-| Lapolith | Saucer-shaped intrusive body, concave upward. |
-| Phacolith | Wavy intrusive body found in folded rock structures. |
-| Sill | Thick near-horizontal intrusive igneous body. |
-| Sheet | Thin near-horizontal intrusive igneous body. |
-| Dyke | Wall-like intrusive body formed when lava solidifies in cracks. |
+| Term               | Meaning                                                                            |
+| ------------------ | ---------------------------------------------------------------------------------- |
+| Earth interior     | The internal structure of the earth below the surface.                             |
+| Direct source      | Source that provides actual material from the earth, such as rocks or lava.        |
+| Indirect source    | Source that gives information through inference, such as seismic waves or gravity. |
+| Seismic activity   | Earthquake-related vibrations and waves.                                           |
+| Earthquake         | Shaking of the earth caused by sudden release of energy.                           |
+| Fault              | Sharp break in crustal rocks along which movement occurs.                          |
+| Focus              | Point inside the earth where earthquake energy is released.                        |
+| Hypocentre         | Another name for earthquake focus.                                                 |
+| Epicentre          | Point on the surface directly above the focus.                                     |
+| Seismograph        | Instrument that records earthquake waves.                                          |
+| Body waves         | Earthquake waves that travel through the body of the earth.                        |
+| Surface waves      | Earthquake waves that travel along the earth's surface.                            |
+| P-waves            | Primary waves; fastest body waves; travel through solids, liquids, and gases.      |
+| S-waves            | Secondary waves; body waves that travel only through solids.                       |
+| Reflection         | Rebounding of waves at a boundary.                                                 |
+| Refraction         | Bending or change of direction of waves when they enter a different material.      |
+| Shadow zone        | Area where certain earthquake waves are not recorded.                              |
+| Richter scale      | Magnitude scale measuring energy released by an earthquake.                        |
+| Mercalli scale     | Intensity scale based on visible damage from an earthquake.                        |
+| Crust              | Outermost solid and brittle layer of the earth.                                    |
+| Mantle             | Layer below the crust extending to about 2,900 km depth.                           |
+| Moho               | Boundary between crust and mantle; Moho discontinuity.                             |
+| Asthenosphere      | Weak upper mantle zone below lithosphere; source region for magma.                 |
+| Lithosphere        | Crust plus uppermost solid mantle; rigid outer shell.                              |
+| Core               | Innermost layer of the earth, rich in nickel and iron.                             |
+| Nife               | Nickel-iron core layer.                                                            |
+| Volcano            | Opening or place where lava, gases, ashes, and molten materials escape.            |
+| Magma              | Molten rock material below the earth's surface.                                    |
+| Lava               | Magma that reaches the surface.                                                    |
+| Pyroclastic debris | Fragmented volcanic material thrown out during eruption.                           |
+| Caldera            | Large collapsed volcanic depression.                                               |
+| Batholith          | Large dome-like intrusive igneous body formed deep in the crust.                   |
+| Lacolith           | Dome-shaped intrusive body with level base.                                        |
+| Lapolith           | Saucer-shaped intrusive body, concave upward.                                      |
+| Phacolith          | Wavy intrusive body found in folded rock structures.                               |
+| Sill               | Thick near-horizontal intrusive igneous body.                                      |
+| Sheet              | Thin near-horizontal intrusive igneous body.                                       |
+| Dyke               | Wall-like intrusive body formed when lava solidifies in cracks.                    |
 
 ---
 
@@ -566,12 +566,12 @@ It ranges from 1 to 12.
 
 ## 12.3 Difference
 
-| Richter Scale | Mercalli Scale |
-| --- | --- |
-| Measures magnitude | Measures intensity |
-| Based on energy released | Based on visible damage |
-| Numerical scale in 0-10 range in textbook | 1-12 scale |
-| More scientific/instrumental | More observational |
+| Richter Scale                             | Mercalli Scale          |
+| ----------------------------------------- | ----------------------- |
+| Measures magnitude                        | Measures intensity      |
+| Based on energy released                  | Based on visible damage |
+| Numerical scale in 0-10 range in textbook | 1-12 scale              |
+| More scientific/instrumental              | More observational      |
 
 ---
 
@@ -684,11 +684,11 @@ It is brittle in nature.
 
 The thickness of the crust varies under oceans and continents.
 
-| Type | Approximate Thickness | Feature |
-| --- | ---: | --- |
-| Oceanic crust | About 5 km | Thinner, basaltic, denser |
-| Continental crust | About 30 km average | Thicker, less dense |
-| Mountain belts | Up to about 70 km | Very thick crust, e.g., Himalayas |
+| Type              | Approximate Thickness | Feature                           |
+| ----------------- | --------------------: | --------------------------------- |
+| Oceanic crust     |            About 5 km | Thinner, basaltic, denser         |
+| Continental crust |   About 30 km average | Thicker, less dense               |
+| Mountain belts    |     Up to about 70 km | Very thick crust, e.g., Himalayas |
 
 ## 16.3 Density
 
@@ -781,12 +781,12 @@ It is sometimes called the nife layer.
 
 ## 18.6 Layer Summary
 
-| Layer | Depth/Thickness | State/Feature |
-| --- | --- | --- |
-| Crust | 5 km oceanic, 30 km continental average | Solid, brittle |
-| Mantle | Below crust to 2,900 km | Solid, with weak asthenosphere above |
-| Outer core | Below 2,900 km | Liquid |
-| Inner core | Central part | Solid |
+| Layer      | Depth/Thickness                         | State/Feature                        |
+| ---------- | --------------------------------------- | ------------------------------------ |
+| Crust      | 5 km oceanic, 30 km continental average | Solid, brittle                       |
+| Mantle     | Below crust to 2,900 km                 | Solid, with weak asthenosphere above |
+| Outer core | Below 2,900 km                          | Liquid                               |
+| Inner core | Central part                            | Solid                                |
 
 ---
 
@@ -1090,9 +1090,9 @@ A sheet is a thinner near-horizontal intrusive body.
 
 ## 29.5 Difference Between Sill And Sheet
 
-| Sill | Sheet |
-| --- | --- |
-| Thicker horizontal intrusive body | Thinner horizontal intrusive body |
+| Sill                                        | Sheet                             |
+| ------------------------------------------- | --------------------------------- |
+| Thicker horizontal intrusive body           | Thinner horizontal intrusive body |
 | Forms when magma spreads along a weak plane | Same process, but thinner deposit |
 
 ---
@@ -1162,57 +1162,57 @@ The classroom method is simplified but based on the same principle.
 
 ## 32.1 Direct vs Indirect Sources
 
-| Direct Sources | Indirect Sources |
-| --- | --- |
-| Provide actual material | Provide inferred information |
+| Direct Sources               | Indirect Sources                           |
+| ---------------------------- | ------------------------------------------ |
+| Provide actual material      | Provide inferred information               |
 | Rocks, mines, drilling, lava | Seismic waves, gravity, magnetism, meteors |
-| Limited depth | Can reveal deep interior |
-| Easier to analyse physically | Requires interpretation |
+| Limited depth                | Can reveal deep interior                   |
+| Easier to analyse physically | Requires interpretation                    |
 
 ## 32.2 P-Waves vs S-Waves
 
-| P-Waves | S-Waves |
-| --- | --- |
-| Primary waves | Secondary waves |
-| Fastest | Slower than P-waves |
-| Arrive first | Arrive after P-waves |
-| Travel through solids, liquids, gases | Travel only through solids |
-| Compress and expand material | Move perpendicular to direction |
-| Help identify layers | Help prove outer core is liquid |
+| P-Waves                               | S-Waves                         |
+| ------------------------------------- | ------------------------------- |
+| Primary waves                         | Secondary waves                 |
+| Fastest                               | Slower than P-waves             |
+| Arrive first                          | Arrive after P-waves            |
+| Travel through solids, liquids, gases | Travel only through solids      |
+| Compress and expand material          | Move perpendicular to direction |
+| Help identify layers                  | Help prove outer core is liquid |
 
 ## 32.3 Body Waves vs Surface Waves
 
-| Body Waves | Surface Waves |
-| --- | --- |
-| Travel through earth's interior | Travel along earth's surface |
-| Include P and S waves | Generated by interaction with surface rocks |
-| Arrive earlier | Arrive later |
-| Less damaging than surface waves generally | Most destructive |
+| Body Waves                                 | Surface Waves                               |
+| ------------------------------------------ | ------------------------------------------- |
+| Travel through earth's interior            | Travel along earth's surface                |
+| Include P and S waves                      | Generated by interaction with surface rocks |
+| Arrive earlier                             | Arrive later                                |
+| Less damaging than surface waves generally | Most destructive                            |
 
 ## 32.4 Richter vs Mercalli
 
-| Richter Scale | Mercalli Scale |
-| --- | --- |
-| Magnitude | Intensity |
-| Energy released | Damage observed |
-| Instrumental | Observational |
+| Richter Scale                | Mercalli Scale               |
+| ---------------------------- | ---------------------------- |
+| Magnitude                    | Intensity                    |
+| Energy released              | Damage observed              |
+| Instrumental                 | Observational                |
 | Same event has one magnitude | Intensity varies by location |
 
 ## 32.5 Magma vs Lava
 
-| Magma | Lava |
-| --- | --- |
+| Magma                     | Lava                   |
+| ------------------------- | ---------------------- |
 | Molten rock below surface | Molten rock at surface |
-| Inside crust or mantle | Erupted onto ground |
-| Can form intrusive rocks | Forms volcanic rocks |
+| Inside crust or mantle    | Erupted onto ground    |
+| Can form intrusive rocks  | Forms volcanic rocks   |
 
 ## 32.6 Volcanic vs Plutonic Rocks
 
-| Volcanic Rocks | Plutonic Rocks |
-| --- | --- |
-| Cool at surface | Cool inside crust |
-| Extrusive | Intrusive |
-| Often fine-grained | Often coarse-grained |
+| Volcanic Rocks                | Plutonic Rocks                      |
+| ----------------------------- | ----------------------------------- |
+| Cool at surface               | Cool inside crust                   |
+| Extrusive                     | Intrusive                           |
+| Often fine-grained            | Often coarse-grained                |
 | Lava flows, ash-related rocks | Batholiths, lacoliths, sills, dykes |
 
 ---
@@ -1299,24 +1299,24 @@ batholiths, lacoliths, sills, sheets, or dykes.
 
 # 34. Data Board
 
-| Data Point | Value | Use |
-| --- | ---: | --- |
-| Earth's radius | About 6,370 km | Interior scale |
-| Deep South African mines | About 3-4 km | Direct source limit |
-| Kola drilling depth | About 12 km | Deep drilling example |
-| Lithosphere depth in earthquake section | Up to about 200 km | Natural earthquake zone |
-| P-wave shadow zone | 105-145 degrees | Seismic evidence |
-| S-wave shadow zone | Beyond 105 degrees | Liquid outer core evidence |
-| S-wave shadow area | A little over 40 percent of earth surface | Shadow zone extent |
-| Oceanic crust thickness | About 5 km | Crust comparison |
-| Continental crust thickness | About 30 km average | Crust comparison |
-| Himalayan crust thickness | Up to about 70 km | Thick continental crust |
-| Mantle depth | To about 2,900 km | Interior layer |
-| Asthenosphere depth | Up to about 400 km | Weak upper mantle |
-| Lithosphere thickness | About 10-200 km | Crust plus upper mantle |
-| Core-mantle boundary | About 2,900 km | Interior layer |
-| Centre depth | About 6,300 km | Core density reference |
-| Mid-ocean ridge system | More than 70,000 km | Oceanic volcanism |
+| Data Point                              |                                     Value | Use                        |
+| --------------------------------------- | ----------------------------------------: | -------------------------- |
+| Earth's radius                          |                            About 6,370 km | Interior scale             |
+| Deep South African mines                |                              About 3-4 km | Direct source limit        |
+| Kola drilling depth                     |                               About 12 km | Deep drilling example      |
+| Lithosphere depth in earthquake section |                        Up to about 200 km | Natural earthquake zone    |
+| P-wave shadow zone                      |                           105-145 degrees | Seismic evidence           |
+| S-wave shadow zone                      |                        Beyond 105 degrees | Liquid outer core evidence |
+| S-wave shadow area                      | A little over 40 percent of earth surface | Shadow zone extent         |
+| Oceanic crust thickness                 |                                About 5 km | Crust comparison           |
+| Continental crust thickness             |                       About 30 km average | Crust comparison           |
+| Himalayan crust thickness               |                         Up to about 70 km | Thick continental crust    |
+| Mantle depth                            |                         To about 2,900 km | Interior layer             |
+| Asthenosphere depth                     |                        Up to about 400 km | Weak upper mantle          |
+| Lithosphere thickness                   |                           About 10-200 km | Crust plus upper mantle    |
+| Core-mantle boundary                    |                            About 2,900 km | Interior layer             |
+| Centre depth                            |                            About 6,300 km | Core density reference     |
+| Mid-ocean ridge system                  |                       More than 70,000 km | Oceanic volcanism          |
 
 ---
 

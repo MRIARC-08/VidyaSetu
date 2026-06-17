@@ -1,4 +1,5 @@
 # Chapter 2: Lost Spring
+
 ### NCERT Class 12 - English Flamingo
 
 ## Chapter at a Glance
@@ -22,15 +23,15 @@ By the end of this chapter, you should be able to:
 
 ## Key Facts
 
-| Element | Detail |
-|---|---|
-| Author | Anees Jung |
-| Genre | Documentary-style prose / social commentary |
-| Main locations | Seemapuri and Firozabad |
-| Main figures | Saheb and Mukesh |
-| Major concern | Child labour and lost childhood |
-| Tone | Sympathetic, critical, reflective |
-| Central contrast | Childhood dreams vs harsh survival |
+| Element          | Detail                                      |
+| ---------------- | ------------------------------------------- |
+| Author           | Anees Jung                                  |
+| Genre            | Documentary-style prose / social commentary |
+| Main locations   | Seemapuri and Firozabad                     |
+| Main figures     | Saheb and Mukesh                            |
+| Major concern    | Child labour and lost childhood             |
+| Tone             | Sympathetic, critical, reflective           |
+| Central contrast | Childhood dreams vs harsh survival          |
 
 # Unit 2A: Structure of the Chapter
 
@@ -138,15 +139,15 @@ Bangles are beautiful, colourful, and culturally meaningful, but their productio
 
 # Unit 2I: Symbols
 
-| Symbol | Meaning |
-|---|---|
-| Spring | Childhood, renewal, hope |
-| Garbage | Survival, chance, poverty |
-| Shoes | Desire, dignity, exclusion |
-| Steel canister | Loss of freedom through wage labour |
-| Bangles | Beauty for buyers, bondage for makers |
-| Furnaces | Dangerous labour and trapped lives |
-| Motor mechanic dream | Hope of self-chosen future |
+| Symbol               | Meaning                               |
+| -------------------- | ------------------------------------- |
+| Spring               | Childhood, renewal, hope              |
+| Garbage              | Survival, chance, poverty             |
+| Shoes                | Desire, dignity, exclusion            |
+| Steel canister       | Loss of freedom through wage labour   |
+| Bangles              | Beauty for buyers, bondage for makers |
+| Furnaces             | Dangerous labour and trapped lives    |
+| Motor mechanic dream | Hope of self-chosen future            |
 
 # Unit 2J: Narrative Style
 
@@ -163,14 +164,14 @@ Features:
 
 # Unit 2K: Saheb and Mukesh Compared
 
-| Aspect | Saheb | Mukesh |
-|---|---|---|
-| Location | Seemapuri | Firozabad |
-| Work | Ragpicking, later tea stall | Bangle-making |
-| Main symbol | Garbage, shoes, canister | Bangles, furnaces, car repair |
-| Dream | School, shoes, better life | Motor mechanic |
-| Trap | Migration and poverty | Hereditary occupation and middlemen |
-| Emotional note | Loss of freedom | Fragile hope |
+| Aspect         | Saheb                       | Mukesh                              |
+| -------------- | --------------------------- | ----------------------------------- |
+| Location       | Seemapuri                   | Firozabad                           |
+| Work           | Ragpicking, later tea stall | Bangle-making                       |
+| Main symbol    | Garbage, shoes, canister    | Bangles, furnaces, car repair       |
+| Dream          | School, shoes, better life  | Motor mechanic                      |
+| Trap           | Migration and poverty       | Hereditary occupation and middlemen |
+| Emotional note | Loss of freedom             | Fragile hope                        |
 
 # Unit 2L: Exam Answer Frameworks
 
@@ -192,13 +193,13 @@ Features:
 
 # Unit 2M: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Treating Saheb and Mukesh as isolated cases | They represent larger communities. |
-| Saying garbage is only dirty | For ragpickers, it is livelihood and possibility. |
-| Ignoring irony of title | "Spring" refers to childhood and hope lost too early. |
-| Calling Mukesh's dream unrealistic | It is practical and meaningful. |
-| Blaming parents alone | The chapter shows structural poverty and exploitation. |
+| Mistake                                     | Correction                                             |
+| ------------------------------------------- | ------------------------------------------------------ |
+| Treating Saheb and Mukesh as isolated cases | They represent larger communities.                     |
+| Saying garbage is only dirty                | For ragpickers, it is livelihood and possibility.      |
+| Ignoring irony of title                     | "Spring" refers to childhood and hope lost too early.  |
+| Calling Mukesh's dream unrealistic          | It is practical and meaningful.                        |
+| Blaming parents alone                       | The chapter shows structural poverty and exploitation. |
 
 ## Practice Set
 

@@ -22,22 +22,22 @@ Study this chapter as a chain: Soviet system, crisis, reforms, collapse, consequ
 
 ## Key Terms
 
-| Term | Meaning | Why it matters |
-|---|---|---|
-| Bipolarity | World order dominated by two superpowers or two power blocs | Defines Cold War politics |
-| Cold War | Political, ideological, military, and strategic rivalry between the US-led and Soviet-led blocs | Context of the chapter |
-| Second World | The socialist bloc led by the Soviet Union | Collapsed after 1989-1991 |
-| USSR | Union of Soviet Socialist Republics | Main socialist superpower |
-| Socialist bloc | East European and Soviet-aligned communist states | One pole of bipolarity |
-| Warsaw Pact | Military alliance led by the Soviet Union | Counterpart to NATO |
-| Communist Party | Dominant party controlling the Soviet political system | Central to Soviet rule |
-| Perestroika | Restructuring of the Soviet system under Gorbachev | Major reform policy |
-| Glasnost | Openness in Soviet politics under Gorbachev | Encouraged criticism and debate |
-| CIS | Commonwealth of Independent States formed after the USSR's collapse | Post-Soviet arrangement |
-| Shock therapy | Rapid transition from socialism to capitalism | Reshaped post-communist economies |
-| Privatisation | Transfer of state assets into private ownership | Major feature of shock therapy |
-| Multipolar world | International order with several major centres of power | India and Russia support this idea |
-| Successor state | State that inherits the rights and responsibilities of a previous state | Russia became successor to the USSR |
+| Term             | Meaning                                                                                         | Why it matters                      |
+| ---------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------- |
+| Bipolarity       | World order dominated by two superpowers or two power blocs                                     | Defines Cold War politics           |
+| Cold War         | Political, ideological, military, and strategic rivalry between the US-led and Soviet-led blocs | Context of the chapter              |
+| Second World     | The socialist bloc led by the Soviet Union                                                      | Collapsed after 1989-1991           |
+| USSR             | Union of Soviet Socialist Republics                                                             | Main socialist superpower           |
+| Socialist bloc   | East European and Soviet-aligned communist states                                               | One pole of bipolarity              |
+| Warsaw Pact      | Military alliance led by the Soviet Union                                                       | Counterpart to NATO                 |
+| Communist Party  | Dominant party controlling the Soviet political system                                          | Central to Soviet rule              |
+| Perestroika      | Restructuring of the Soviet system under Gorbachev                                              | Major reform policy                 |
+| Glasnost         | Openness in Soviet politics under Gorbachev                                                     | Encouraged criticism and debate     |
+| CIS              | Commonwealth of Independent States formed after the USSR's collapse                             | Post-Soviet arrangement             |
+| Shock therapy    | Rapid transition from socialism to capitalism                                                   | Reshaped post-communist economies   |
+| Privatisation    | Transfer of state assets into private ownership                                                 | Major feature of shock therapy      |
+| Multipolar world | International order with several major centres of power                                         | India and Russia support this idea  |
+| Successor state  | State that inherits the rights and responsibilities of a previous state                         | Russia became successor to the USSR |
 
 ## 1. The Chapter In One Sentence
 
@@ -218,14 +218,14 @@ In Cold War politics, military alliances showed the division of the world into r
 
 ## 15. Soviet Leaders And Their Significance
 
-| Leader | Period or role | Main significance |
-|---|---|---|
-| Lenin | Founder-head after 1917 | Founded Bolshevik communist rule |
-| Stalin | 1924-1953 | Industrialisation, collectivisation, authoritarian rule, victory in Second World War |
-| Khrushchev | 1953-1964 | Denounced Stalin, introduced reforms, peaceful coexistence, Cuban missile crisis |
-| Brezhnev | 1964-1982 | Detente period, Afghanistan invasion, political stagnation |
-| Gorbachev | 1985-1991 | Perestroika, glasnost, end of arms race, last Soviet leader |
-| Yeltsin | Russian President | Opposed 1991 coup, led Russia after Soviet collapse |
+| Leader     | Period or role          | Main significance                                                                    |
+| ---------- | ----------------------- | ------------------------------------------------------------------------------------ |
+| Lenin      | Founder-head after 1917 | Founded Bolshevik communist rule                                                     |
+| Stalin     | 1924-1953               | Industrialisation, collectivisation, authoritarian rule, victory in Second World War |
+| Khrushchev | 1953-1964               | Denounced Stalin, introduced reforms, peaceful coexistence, Cuban missile crisis     |
+| Brezhnev   | 1964-1982               | Detente period, Afghanistan invasion, political stagnation                           |
+| Gorbachev  | 1985-1991               | Perestroika, glasnost, end of arms race, last Soviet leader                          |
+| Yeltsin    | Russian President       | Opposed 1991 coup, led Russia after Soviet collapse                                  |
 
 ## 16. Why Reform Became Necessary
 
@@ -426,17 +426,17 @@ Russia also carried out some nuclear disarmament measures with the US.
 
 ## 32. Timeline Of Soviet Disintegration
 
-| Year | Event |
-|---|---|
-| 1985 | Gorbachev becomes General Secretary and begins reforms |
-| 1988 | Independence movement begins in Lithuania |
-| 1989 | Warsaw Pact members allowed to decide their future; Berlin Wall falls |
-| 1990 | Communist Party monopoly ends; Lithuania declares independence; Russia declares sovereignty |
-| 1991 June | Yeltsin becomes President of Russia |
-| 1991 August | Hardliner coup fails |
-| 1991 September | Baltic republics enter the UN |
-| 1991 December | Russia, Ukraine, and Belarus dissolve the USSR and form CIS |
-| 1991 December 25 | Gorbachev resigns; USSR ends |
+| Year             | Event                                                                                       |
+| ---------------- | ------------------------------------------------------------------------------------------- |
+| 1985             | Gorbachev becomes General Secretary and begins reforms                                      |
+| 1988             | Independence movement begins in Lithuania                                                   |
+| 1989             | Warsaw Pact members allowed to decide their future; Berlin Wall falls                       |
+| 1990             | Communist Party monopoly ends; Lithuania declares independence; Russia declares sovereignty |
+| 1991 June        | Yeltsin becomes President of Russia                                                         |
+| 1991 August      | Hardliner coup fails                                                                        |
+| 1991 September   | Baltic republics enter the UN                                                               |
+| 1991 December    | Russia, Ukraine, and Belarus dissolve the USSR and form CIS                                 |
+| 1991 December 25 | Gorbachev resigns; USSR ends                                                                |
 
 ## 33. Why Did The Soviet Union Disintegrate?
 

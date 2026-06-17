@@ -4,16 +4,16 @@ Class 11 Biology
 
 ## Chapter Profile
 
-| Item | Details |
-|---|---|
-| Class | 11 |
-| Subject | Biology |
-| Chapter | 5 |
-| Title | Morphology of Flowering Plants |
-| Main theme | External structure of flowering plants and technical terms used to describe them |
-| Main plant parts | Root, stem, leaf, inflorescence, flower, fruit, seed |
-| Special focus | Floral description, floral formula, floral diagram, Solanaceae |
-| Learner goal | Use standard botanical terms correctly while describing flowering plants |
+| Item             | Details                                                                          |
+| ---------------- | -------------------------------------------------------------------------------- |
+| Class            | 11                                                                               |
+| Subject          | Biology                                                                          |
+| Chapter          | 5                                                                                |
+| Title            | Morphology of Flowering Plants                                                   |
+| Main theme       | External structure of flowering plants and technical terms used to describe them |
+| Main plant parts | Root, stem, leaf, inflorescence, flower, fruit, seed                             |
+| Special focus    | Floral description, floral formula, floral diagram, Solanaceae                   |
+| Learner goal     | Use standard botanical terms correctly while describing flowering plants         |
 
 ## How To Study This Chapter
 
@@ -53,56 +53,56 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Morphology | Study of external form and structure |
-| Root system | Underground part of plant, usually involved in anchorage and absorption |
-| Shoot system | Above-ground part containing stem, leaves, flowers, and fruits |
-| Tap root | Primary root and its branches |
-| Fibrous root | Cluster of roots arising from base of stem, common in monocots |
-| Adventitious root | Root arising from a part other than the radicle |
-| Root cap | Protective structure at root apex |
-| Root hair | Fine epidermal outgrowth that absorbs water and minerals |
-| Node | Region of stem where leaves arise |
-| Internode | Stem region between two nodes |
-| Axillary bud | Bud present in the axil of a leaf |
-| Leaf base | Part of leaf attaching it to stem |
-| Petiole | Leaf stalk |
-| Lamina | Green expanded leaf blade |
-| Venation | Arrangement of veins and veinlets in leaf lamina |
-| Reticulate venation | Veins form a network |
-| Parallel venation | Veins run parallel |
-| Phyllotaxy | Arrangement of leaves on stem or branch |
-| Inflorescence | Arrangement of flowers on floral axis |
-| Flower | Modified shoot for sexual reproduction |
-| Thalamus | Swollen end of flower stalk bearing floral whorls |
-| Calyx | Outermost floral whorl made of sepals |
-| Corolla | Floral whorl made of petals |
-| Androecium | Male reproductive whorl made of stamens |
-| Gynoecium | Female reproductive whorl made of carpels |
-| Aestivation | Arrangement of sepals or petals in floral bud |
-| Placentation | Arrangement of ovules inside the ovary |
-| Fruit | Mature or ripened ovary |
-| Parthenocarpic fruit | Fruit formed without fertilisation |
-| Pericarp | Fruit wall |
-| Seed | Fertilised ovule containing seed coat and embryo |
-| Floral formula | Symbolic representation of floral characters |
-| Floral diagram | Diagrammatic representation of number, arrangement, and relation of floral parts |
+| Term                 | Meaning                                                                          |
+| -------------------- | -------------------------------------------------------------------------------- |
+| Morphology           | Study of external form and structure                                             |
+| Root system          | Underground part of plant, usually involved in anchorage and absorption          |
+| Shoot system         | Above-ground part containing stem, leaves, flowers, and fruits                   |
+| Tap root             | Primary root and its branches                                                    |
+| Fibrous root         | Cluster of roots arising from base of stem, common in monocots                   |
+| Adventitious root    | Root arising from a part other than the radicle                                  |
+| Root cap             | Protective structure at root apex                                                |
+| Root hair            | Fine epidermal outgrowth that absorbs water and minerals                         |
+| Node                 | Region of stem where leaves arise                                                |
+| Internode            | Stem region between two nodes                                                    |
+| Axillary bud         | Bud present in the axil of a leaf                                                |
+| Leaf base            | Part of leaf attaching it to stem                                                |
+| Petiole              | Leaf stalk                                                                       |
+| Lamina               | Green expanded leaf blade                                                        |
+| Venation             | Arrangement of veins and veinlets in leaf lamina                                 |
+| Reticulate venation  | Veins form a network                                                             |
+| Parallel venation    | Veins run parallel                                                               |
+| Phyllotaxy           | Arrangement of leaves on stem or branch                                          |
+| Inflorescence        | Arrangement of flowers on floral axis                                            |
+| Flower               | Modified shoot for sexual reproduction                                           |
+| Thalamus             | Swollen end of flower stalk bearing floral whorls                                |
+| Calyx                | Outermost floral whorl made of sepals                                            |
+| Corolla              | Floral whorl made of petals                                                      |
+| Androecium           | Male reproductive whorl made of stamens                                          |
+| Gynoecium            | Female reproductive whorl made of carpels                                        |
+| Aestivation          | Arrangement of sepals or petals in floral bud                                    |
+| Placentation         | Arrangement of ovules inside the ovary                                           |
+| Fruit                | Mature or ripened ovary                                                          |
+| Parthenocarpic fruit | Fruit formed without fertilisation                                               |
+| Pericarp             | Fruit wall                                                                       |
+| Seed                 | Fertilised ovule containing seed coat and embryo                                 |
+| Floral formula       | Symbolic representation of floral characters                                     |
+| Floral diagram       | Diagrammatic representation of number, arrangement, and relation of floral parts |
 
 ## Chapter Map
 
-| Unit | Topic | What To Master |
-|---|---|---|
-| 5.1 | Morphology and plant body | Root system and shoot system |
-| 5.2 | Root | Types, functions, root tip regions, modifications |
-| 5.3 | Stem | Nodes, internodes, buds, functions, modifications |
-| 5.4 | Leaf | Parts, venation, leaf types, phyllotaxy |
-| 5.5 | Inflorescence | Racemose and cymose types |
-| 5.6 | Flower | Floral whorls, symmetry, ovary position |
-| 5.7 | Floral parts | Calyx, corolla, androecium, gynoecium |
-| 5.8 | Fruit and seed | Fruit wall, dicot seed, monocot seed |
-| 5.9 | Semi-technical description | Fixed sequence of botanical description |
-| 5.10 | Solanaceae | Family characters and economic importance |
+| Unit | Topic                      | What To Master                                    |
+| ---- | -------------------------- | ------------------------------------------------- |
+| 5.1  | Morphology and plant body  | Root system and shoot system                      |
+| 5.2  | Root                       | Types, functions, root tip regions, modifications |
+| 5.3  | Stem                       | Nodes, internodes, buds, functions, modifications |
+| 5.4  | Leaf                       | Parts, venation, leaf types, phyllotaxy           |
+| 5.5  | Inflorescence              | Racemose and cymose types                         |
+| 5.6  | Flower                     | Floral whorls, symmetry, ovary position           |
+| 5.7  | Floral parts               | Calyx, corolla, androecium, gynoecium             |
+| 5.8  | Fruit and seed             | Fruit wall, dicot seed, monocot seed              |
+| 5.9  | Semi-technical description | Fixed sequence of botanical description           |
+| 5.10 | Solanaceae                 | Family characters and economic importance         |
 
 ## 1. Why Morphology Matters
 
@@ -125,9 +125,9 @@ For example, "leaf divided into many parts" is vague. "Pinnately compound leaf" 
 
 A flowering plant body can be divided into two major systems.
 
-| System | Position | Main Parts |
-|---|---|---|
-| Root system | Usually underground | Primary root, lateral roots, root hairs |
+| System       | Position             | Main Parts                              |
+| ------------ | -------------------- | --------------------------------------- |
+| Root system  | Usually underground  | Primary root, lateral roots, root hairs |
 | Shoot system | Usually above ground | Stem, branches, leaves, flowers, fruits |
 
 The root system mainly absorbs and anchors. The shoot system mainly supports, conducts, photosynthesises, and reproduces.
@@ -170,12 +170,12 @@ Examples:
 
 ## 3.2 Comparison Of Root Systems
 
-| Feature | Tap Root | Fibrous Root | Adventitious Root |
-|---|---|---|---|
-| Origin | Radicle | Base of stem after primary root becomes short-lived | Any part other than radicle |
-| Common in | Dicots | Monocots | Many plants depending on adaptation |
-| Main structure | One main primary root with branches | Many similar roots | Roots from unusual plant parts |
-| Example | Mustard | Wheat | Banyan, Monstera, grass |
+| Feature        | Tap Root                            | Fibrous Root                                        | Adventitious Root                   |
+| -------------- | ----------------------------------- | --------------------------------------------------- | ----------------------------------- |
+| Origin         | Radicle                             | Base of stem after primary root becomes short-lived | Any part other than radicle         |
+| Common in      | Dicots                              | Monocots                                            | Many plants depending on adaptation |
+| Main structure | One main primary root with branches | Many similar roots                                  | Roots from unusual plant parts      |
+| Example        | Mustard                             | Wheat                                               | Banyan, Monstera, grass             |
 
 ## 3.3 Functions Of Roots
 
@@ -192,13 +192,13 @@ Roots perform several functions:
 
 The root tip has distinct regions.
 
-| Region | Position | Function |
-|---|---|---|
-| Root cap | Covers the root apex | Protects tender root tip as it grows through soil |
-| Region of meristematic activity | Just above root cap | Cells divide repeatedly |
-| Region of elongation | Above meristematic zone | Cells elongate and increase root length |
-| Region of maturation | Above elongation zone | Cells mature and differentiate |
-| Root hair zone | Part of maturation region | Root hairs absorb water and minerals |
+| Region                          | Position                  | Function                                          |
+| ------------------------------- | ------------------------- | ------------------------------------------------- |
+| Root cap                        | Covers the root apex      | Protects tender root tip as it grows through soil |
+| Region of meristematic activity | Just above root cap       | Cells divide repeatedly                           |
+| Region of elongation            | Above meristematic zone   | Cells elongate and increase root length           |
+| Region of maturation            | Above elongation zone     | Cells mature and differentiate                    |
+| Root hair zone                  | Part of maturation region | Root hairs absorb water and minerals              |
 
 ## 3.5 Root Hairs
 
@@ -210,12 +210,12 @@ They greatly increase the surface area for absorption.
 
 The raw chapter summary mentions that roots may be modified for storage, support, and respiration.
 
-| Modification | Function | Examples |
-|---|---|---|
-| Storage roots | Store food | Carrot, turnip, sweet potato |
-| Prop roots | Support heavy branches | Banyan |
-| Stilt roots | Support stem from lower nodes | Maize, sugarcane |
-| Pneumatophores | Help respiration in swampy habitats | Rhizophora |
+| Modification   | Function                            | Examples                     |
+| -------------- | ----------------------------------- | ---------------------------- |
+| Storage roots  | Store food                          | Carrot, turnip, sweet potato |
+| Prop roots     | Support heavy branches              | Banyan                       |
+| Stilt roots    | Support stem from lower nodes       | Maize, sugarcane             |
+| Pneumatophores | Help respiration in swampy habitats | Rhizophora                   |
 
 ## 4. The Stem
 
@@ -225,14 +225,14 @@ It is the ascending part of the plant axis and bears branches, leaves, flowers, 
 
 ## 4.1 Features Of Stem
 
-| Feature | Description |
-|---|---|
-| Origin | Plumule |
-| Direction | Usually ascending |
-| Nodes | Points where leaves arise |
-| Internodes | Regions between nodes |
-| Buds | Terminal or axillary |
-| Young stem | Often green |
+| Feature    | Description                     |
+| ---------- | ------------------------------- |
+| Origin     | Plumule                         |
+| Direction  | Usually ascending               |
+| Nodes      | Points where leaves arise       |
+| Internodes | Regions between nodes           |
+| Buds       | Terminal or axillary            |
+| Young stem | Often green                     |
 | Older stem | May become woody and dark brown |
 
 ## 4.2 Nodes And Internodes
@@ -245,10 +245,10 @@ This node-internode pattern is a key way to distinguish a stem from a root.
 
 ## 4.3 Buds
 
-| Bud Type | Position |
-|---|---|
+| Bud Type     | Position                         |
+| ------------ | -------------------------------- |
 | Terminal bud | At the tip of the stem or branch |
-| Axillary bud | In the axil of a leaf |
+| Axillary bud | In the axil of a leaf            |
 
 Axillary buds may develop into branches or flowers.
 
@@ -266,13 +266,13 @@ The stem:
 
 ## 4.5 Stem Modifications
 
-| Modification | Function | Examples |
-|---|---|---|
-| Underground stem | Food storage and perennation | Potato, ginger, turmeric |
-| Stem tendril | Climbing | Cucumber, grapevine |
-| Stem thorn | Protection | Citrus, Bougainvillea |
-| Phylloclade | Photosynthesis in dry habitats | Opuntia |
-| Runner or stolon | Vegetative propagation | Grasses, strawberry |
+| Modification     | Function                       | Examples                 |
+| ---------------- | ------------------------------ | ------------------------ |
+| Underground stem | Food storage and perennation   | Potato, ginger, turmeric |
+| Stem tendril     | Climbing                       | Cucumber, grapevine      |
+| Stem thorn       | Protection                     | Citrus, Bougainvillea    |
+| Phylloclade      | Photosynthesis in dry habitats | Opuntia                  |
+| Runner or stolon | Vegetative propagation         | Grasses, strawberry      |
 
 ## 5. The Leaf
 
@@ -344,11 +344,11 @@ It is common in monocotyledonous plants.
 
 ## 6.3 Reticulate Versus Parallel Venation
 
-| Feature | Reticulate Venation | Parallel Venation |
-|---|---|---|
-| Vein pattern | Network-like | Parallel |
-| Common in | Dicots | Monocots |
-| Example context | Many broad leaves | Grasses and many monocot leaves |
+| Feature         | Reticulate Venation | Parallel Venation               |
+| --------------- | ------------------- | ------------------------------- |
+| Vein pattern    | Network-like        | Parallel                        |
+| Common in       | Dicots              | Monocots                        |
+| Example context | Many broad leaves   | Grasses and many monocot leaves |
 
 ## 7. Types Of Leaves
 
@@ -385,12 +385,12 @@ Example: silk cotton.
 
 ## 7.5 Leaf Type Comparison
 
-| Feature | Simple Leaf | Pinnately Compound Leaf | Palmately Compound Leaf |
-|---|---|---|---|
-| Lamina | Single | Divided into leaflets | Divided into leaflets |
-| Midrib or rachis | Lamina not broken into separate leaflets | Leaflets on rachis | Leaflets from one common point |
-| Bud | At leaf axil | At leaf axil, not leaflet axils | At leaf axil, not leaflet axils |
-| Example | Mango leaf | Neem | Silk cotton |
+| Feature          | Simple Leaf                              | Pinnately Compound Leaf         | Palmately Compound Leaf         |
+| ---------------- | ---------------------------------------- | ------------------------------- | ------------------------------- |
+| Lamina           | Single                                   | Divided into leaflets           | Divided into leaflets           |
+| Midrib or rachis | Lamina not broken into separate leaflets | Leaflets on rachis              | Leaflets from one common point  |
+| Bud              | At leaf axil                             | At leaf axil, not leaflet axils | At leaf axil, not leaflet axils |
+| Example          | Mango leaf                               | Neem                            | Silk cotton                     |
 
 ## 8. Phyllotaxy
 
@@ -425,11 +425,11 @@ Example:
 
 ## 8.4 Phyllotaxy Comparison
 
-| Type | Leaf Arrangement | Example |
-|---|---|---|
-| Alternate | One leaf per node | China rose, mustard, sunflower |
-| Opposite | Two leaves per node | Calotropis, guava |
-| Whorled | More than two leaves per node | Alstonia |
+| Type      | Leaf Arrangement              | Example                        |
+| --------- | ----------------------------- | ------------------------------ |
+| Alternate | One leaf per node             | China rose, mustard, sunflower |
+| Opposite  | Two leaves per node           | Calotropis, guava              |
+| Whorled   | More than two leaves per node | Alstonia                       |
 
 ## 9. Inflorescence
 
@@ -459,12 +459,12 @@ Basipetal order means older flowers are near the apex or centre, while younger o
 
 ## 9.3 Racemose Versus Cymose
 
-| Feature | Racemose | Cymose |
-|---|---|---|
-| Main axis | Continues to grow | Ends in a flower |
-| Growth | Unlimited | Limited |
-| Flower position | Lateral | Terminal flower appears first |
-| Succession | Acropetal | Basipetal |
+| Feature         | Racemose          | Cymose                        |
+| --------------- | ----------------- | ----------------------------- |
+| Main axis       | Continues to grow | Ends in a flower              |
+| Growth          | Unlimited         | Limited                       |
+| Flower position | Lateral           | Terminal flower appears first |
+| Succession      | Acropetal         | Basipetal                     |
 
 ## 10. The Flower
 
@@ -474,12 +474,12 @@ A typical flower has four whorls arranged on the thalamus or receptacle.
 
 ## 10.1 Four Floral Whorls
 
-| Whorl | Members | Function |
-|---|---|---|
-| Calyx | Sepals | Protect flower in bud stage |
-| Corolla | Petals | Often attract pollinators |
-| Androecium | Stamens | Male reproductive whorl |
-| Gynoecium | Carpels | Female reproductive whorl |
+| Whorl      | Members | Function                    |
+| ---------- | ------- | --------------------------- |
+| Calyx      | Sepals  | Protect flower in bud stage |
+| Corolla    | Petals  | Often attract pollinators   |
+| Androecium | Stamens | Male reproductive whorl     |
+| Gynoecium  | Carpels | Female reproductive whorl   |
 
 Calyx and corolla are accessory organs.
 
@@ -495,33 +495,33 @@ Example: lily.
 
 ## 10.3 Bisexual And Unisexual Flowers
 
-| Type | Meaning |
-|---|---|
-| Bisexual | Both androecium and gynoecium present |
-| Unisexual | Only stamens or only carpels present |
+| Type      | Meaning                               |
+| --------- | ------------------------------------- |
+| Bisexual  | Both androecium and gynoecium present |
+| Unisexual | Only stamens or only carpels present  |
 
 ## 10.4 Floral Symmetry
 
-| Type | Meaning | Examples |
-|---|---|---|
-| Actinomorphic | Can be divided into two equal halves by any radial plane | Mustard, datura, chilli |
-| Zygomorphic | Can be divided into two equal halves only in one vertical plane | Pea, gulmohur, bean, Cassia |
-| Asymmetric | Cannot be divided into two equal halves by any vertical plane | Canna |
+| Type          | Meaning                                                         | Examples                    |
+| ------------- | --------------------------------------------------------------- | --------------------------- |
+| Actinomorphic | Can be divided into two equal halves by any radial plane        | Mustard, datura, chilli     |
+| Zygomorphic   | Can be divided into two equal halves only in one vertical plane | Pea, gulmohur, bean, Cassia |
+| Asymmetric    | Cannot be divided into two equal halves by any vertical plane   | Canna                       |
 
 ## 10.5 Number Of Floral Parts
 
-| Term | Meaning |
-|---|---|
-| Trimerous | Floral parts in multiples of 3 |
+| Term        | Meaning                        |
+| ----------- | ------------------------------ |
+| Trimerous   | Floral parts in multiples of 3 |
 | Tetramerous | Floral parts in multiples of 4 |
 | Pentamerous | Floral parts in multiples of 5 |
 
 ## 10.6 Bracteate And Ebracteate
 
-| Term | Meaning |
-|---|---|
-| Bracteate flower | Flower has a reduced leaf called bract at base of pedicel |
-| Ebracteate flower | Bract absent |
+| Term              | Meaning                                                   |
+| ----------------- | --------------------------------------------------------- |
+| Bracteate flower  | Flower has a reduced leaf called bract at base of pedicel |
+| Ebracteate flower | Bract absent                                              |
 
 ## 11. Position Of Floral Parts On Thalamus
 
@@ -571,11 +571,11 @@ Examples:
 
 ## 11.4 Comparison Of Ovary Position
 
-| Flower Type | Position Of Ovary | Examples |
-|---|---|---|
-| Hypogynous | Superior | Mustard, China rose, brinjal |
-| Perigynous | Half inferior | Plum, rose, peach |
-| Epigynous | Inferior | Guava, cucumber, sunflower ray florets |
+| Flower Type | Position Of Ovary | Examples                               |
+| ----------- | ----------------- | -------------------------------------- |
+| Hypogynous  | Superior          | Mustard, China rose, brinjal           |
+| Perigynous  | Half inferior     | Plum, rose, peach                      |
+| Epigynous   | Inferior          | Guava, cucumber, sunflower ray florets |
 
 ## 12. Parts Of A Flower
 
@@ -587,10 +587,10 @@ Its members are called sepals.
 
 Sepals are usually green and protect the flower in bud stage.
 
-| Type | Meaning |
-|---|---|
+| Type         | Meaning       |
+| ------------ | ------------- |
 | Gamosepalous | Sepals united |
-| Polysepalous | Sepals free |
+| Polysepalous | Sepals free   |
 
 ## 12.2 Corolla
 
@@ -598,10 +598,10 @@ Corolla is made of petals.
 
 Petals are often brightly coloured and help attract pollinators.
 
-| Type | Meaning |
-|---|---|
+| Type         | Meaning       |
+| ------------ | ------------- |
 | Gamopetalous | Petals united |
-| Polypetalous | Petals free |
+| Polypetalous | Petals free   |
 
 Corolla shape may be:
 
@@ -616,12 +616,12 @@ Aestivation is the arrangement of sepals or petals in a floral bud with respect 
 
 ## 13.1 Types Of Aestivation
 
-| Type | Description | Example |
-|---|---|---|
-| Valvate | Margins just touch, no overlap | Calotropis |
-| Twisted | One margin overlaps the next in the same direction | China rose, lady's finger, cotton |
-| Imbricate | Margins overlap but not in a fixed direction | Cassia, gulmohur |
-| Vexillary | Standard overlaps wings; wings overlap keel | Pea, bean |
+| Type      | Description                                        | Example                           |
+| --------- | -------------------------------------------------- | --------------------------------- |
+| Valvate   | Margins just touch, no overlap                     | Calotropis                        |
+| Twisted   | One margin overlaps the next in the same direction | China rose, lady's finger, cotton |
+| Imbricate | Margins overlap but not in a fixed direction       | Cassia, gulmohur                  |
+| Vexillary | Standard overlaps wings; wings overlap keel        | Pea, bean                         |
 
 ## 14. Androecium
 
@@ -642,19 +642,19 @@ A sterile stamen is called staminode.
 
 ## 14.2 Attachment Of Stamens
 
-| Condition | Meaning | Example |
-|---|---|---|
-| Epipetalous | Stamens attached to petals | Brinjal |
-| Epiphyllous | Stamens attached to perianth | Lily |
+| Condition   | Meaning                      | Example |
+| ----------- | ---------------------------- | ------- |
+| Epipetalous | Stamens attached to petals   | Brinjal |
+| Epiphyllous | Stamens attached to perianth | Lily    |
 
 ## 14.3 Union Of Stamens
 
-| Condition | Meaning | Example |
-|---|---|---|
-| Polyandrous | Stamens free | Many flowers |
-| Monoadelphous | Stamens united into one bundle | China rose |
-| Diadelphous | Stamens united into two bundles | Pea |
-| Polyadelphous | Stamens united into more than two bundles | Citrus |
+| Condition     | Meaning                                   | Example      |
+| ------------- | ----------------------------------------- | ------------ |
+| Polyandrous   | Stamens free                              | Many flowers |
+| Monoadelphous | Stamens united into one bundle            | China rose   |
+| Diadelphous   | Stamens united into two bundles           | Pea          |
+| Polyadelphous | Stamens united into more than two bundles | Citrus       |
 
 ## 15. Gynoecium
 
@@ -664,11 +664,11 @@ It is made of one or more carpels.
 
 ## 15.1 Parts Of A Carpel
 
-| Part | Function |
-|---|---|
-| Stigma | Receptive surface for pollen grains |
-| Style | Tube-like part connecting stigma and ovary |
-| Ovary | Enlarged basal part containing ovules |
+| Part   | Function                                   |
+| ------ | ------------------------------------------ |
+| Stigma | Receptive surface for pollen grains        |
+| Style  | Tube-like part connecting stigma and ovary |
+| Ovary  | Enlarged basal part containing ovules      |
 
 Ovules are attached to a flattened cushion-like placenta.
 
@@ -679,9 +679,9 @@ After fertilisation:
 
 ## 15.2 Apocarpous And Syncarpous
 
-| Condition | Meaning | Example |
-|---|---|---|
-| Apocarpous | Carpels free | Lotus, rose |
+| Condition  | Meaning       | Example         |
+| ---------- | ------------- | --------------- |
+| Apocarpous | Carpels free  | Lotus, rose     |
 | Syncarpous | Carpels fused | Mustard, tomato |
 
 ## 16. Placentation
@@ -690,13 +690,13 @@ Placentation is the arrangement of ovules within the ovary.
 
 ## 16.1 Types Of Placentation
 
-| Type | Description | Example |
-|---|---|---|
-| Marginal | Placenta forms a ridge along ventral suture; ovules in two rows | Pea |
-| Axile | Ovules attached to central axis in a multilocular ovary | China rose, tomato, lemon |
-| Parietal | Ovules develop on inner wall or peripheral part of ovary | Mustard, Argemone |
-| Free central | Ovules borne on central axis; septa absent | Dianthus, Primrose |
-| Basal | Placenta develops at base; usually one ovule attached | Sunflower, marigold |
+| Type         | Description                                                     | Example                   |
+| ------------ | --------------------------------------------------------------- | ------------------------- |
+| Marginal     | Placenta forms a ridge along ventral suture; ovules in two rows | Pea                       |
+| Axile        | Ovules attached to central axis in a multilocular ovary         | China rose, tomato, lemon |
+| Parietal     | Ovules develop on inner wall or peripheral part of ovary        | Mustard, Argemone         |
+| Free central | Ovules borne on central axis; septa absent                      | Dianthus, Primrose        |
+| Basal        | Placenta develops at base; usually one ovule attached           | Sunflower, marigold       |
 
 ## 17. The Fruit
 
@@ -719,11 +719,11 @@ It may be dry or fleshy.
 
 When the pericarp is thick and fleshy, it may be divided into:
 
-| Layer | Position |
-|---|---|
-| Epicarp | Outer layer |
+| Layer    | Position     |
+| -------- | ------------ |
+| Epicarp  | Outer layer  |
 | Mesocarp | Middle layer |
-| Endocarp | Inner layer |
+| Endocarp | Inner layer  |
 
 ## 17.3 Drupe
 
@@ -760,24 +760,24 @@ Monocots usually have one cotyledon. Dicots usually have two cotyledons.
 
 ## 19.1 Main Parts
 
-| Part | Description |
-|---|---|
-| Seed coat | Outermost covering |
-| Testa | Outer layer of seed coat |
-| Tegmen | Inner layer of seed coat |
-| Hilum | Scar where seed was attached to fruit |
-| Micropyle | Small pore above hilum |
-| Embryonal axis | Axis of embryo |
-| Cotyledons | Two seed leaves, often food-rich |
-| Radicle | Embryonic root |
-| Plumule | Embryonic shoot |
+| Part           | Description                           |
+| -------------- | ------------------------------------- |
+| Seed coat      | Outermost covering                    |
+| Testa          | Outer layer of seed coat              |
+| Tegmen         | Inner layer of seed coat              |
+| Hilum          | Scar where seed was attached to fruit |
+| Micropyle      | Small pore above hilum                |
+| Embryonal axis | Axis of embryo                        |
+| Cotyledons     | Two seed leaves, often food-rich      |
+| Radicle        | Embryonic root                        |
+| Plumule        | Embryonic shoot                       |
 
 ## 19.2 Endospermic And Non-Endospermic Seeds
 
-| Type | Meaning | Example |
-|---|---|---|
-| Endospermic seed | Endosperm present in mature seed | Castor |
-| Non-endospermic seed | Endosperm absent in mature seed | Bean, gram, pea |
+| Type                 | Meaning                          | Example         |
+| -------------------- | -------------------------------- | --------------- |
+| Endospermic seed     | Endosperm present in mature seed | Castor          |
+| Non-endospermic seed | Endosperm absent in mature seed  | Bean, gram, pea |
 
 In non-endospermic seeds, stored food is mainly in cotyledons.
 
@@ -789,27 +789,27 @@ The cereal grain maize is a useful example.
 
 ## 20.1 Main Parts Of Maize Seed
 
-| Part | Description |
-|---|---|
-| Seed coat and fruit wall | Fused and membranous |
-| Endosperm | Bulky food-storing tissue |
-| Aleurone layer | Protein-rich layer separating embryo from endosperm |
-| Embryo | Small, placed in a groove at one end |
-| Scutellum | Large shield-shaped cotyledon |
-| Plumule | Embryonic shoot |
-| Radicle | Embryonic root |
-| Coleoptile | Protective sheath around plumule |
-| Coleorhiza | Protective sheath around radicle |
+| Part                     | Description                                         |
+| ------------------------ | --------------------------------------------------- |
+| Seed coat and fruit wall | Fused and membranous                                |
+| Endosperm                | Bulky food-storing tissue                           |
+| Aleurone layer           | Protein-rich layer separating embryo from endosperm |
+| Embryo                   | Small, placed in a groove at one end                |
+| Scutellum                | Large shield-shaped cotyledon                       |
+| Plumule                  | Embryonic shoot                                     |
+| Radicle                  | Embryonic root                                      |
+| Coleoptile               | Protective sheath around plumule                    |
+| Coleorhiza               | Protective sheath around radicle                    |
 
 ## 21. Dicot Seed Versus Monocot Seed
 
-| Feature | Dicot Seed | Monocot Seed |
-|---|---|---|
-| Cotyledons | Two | One |
-| Food storage | Often in cotyledons if non-endospermic | Usually in endosperm |
-| Example | Gram, pea, bean | Maize, wheat |
-| Protective sheaths | Coleoptile and coleorhiza absent | Coleoptile and coleorhiza present in cereals |
-| Seed coat | Testa and tegmen distinct | Often fused with fruit wall in cereals |
+| Feature            | Dicot Seed                             | Monocot Seed                                 |
+| ------------------ | -------------------------------------- | -------------------------------------------- |
+| Cotyledons         | Two                                    | One                                          |
+| Food storage       | Often in cotyledons if non-endospermic | Usually in endosperm                         |
+| Example            | Gram, pea, bean                        | Maize, wheat                                 |
+| Protective sheaths | Coleoptile and coleorhiza absent       | Coleoptile and coleorhiza present in cereals |
+| Seed coat          | Testa and tegmen distinct              | Often fused with fruit wall in cereals       |
 
 ## 22. Text-Based Labelled Diagrams
 
@@ -898,21 +898,21 @@ A flowering plant is described in a fixed sequence.
 
 ## 23.2 Floral Formula Terms
 
-| Symbol Or Term | Meaning |
-|---|---|
-| Br | Bracteate |
-| K | Calyx |
-| C | Corolla |
-| P | Perianth |
-| A | Androecium |
-| G | Gynoecium |
-| Actinomorphic | Radially symmetrical flower |
-| Zygomorphic | Bilaterally symmetrical flower |
-| Bisexual | Both androecium and gynoecium present |
-| Male | Staminate flower |
-| Female | Pistillate flower |
-| Parentheses around number | Fusion within a whorl |
-| Line above symbols in printed formula | Adhesion between whorls |
+| Symbol Or Term                        | Meaning                               |
+| ------------------------------------- | ------------------------------------- |
+| Br                                    | Bracteate                             |
+| K                                     | Calyx                                 |
+| C                                     | Corolla                               |
+| P                                     | Perianth                              |
+| A                                     | Androecium                            |
+| G                                     | Gynoecium                             |
+| Actinomorphic                         | Radially symmetrical flower           |
+| Zygomorphic                           | Bilaterally symmetrical flower        |
+| Bisexual                              | Both androecium and gynoecium present |
+| Male                                  | Staminate flower                      |
+| Female                                | Pistillate flower                     |
+| Parentheses around number             | Fusion within a whorl                 |
+| Line above symbols in printed formula | Adhesion between whorls               |
 
 Because this file uses ASCII only, floral symbols that are printed with special signs in textbooks are written in words here.
 
@@ -936,30 +936,30 @@ It is widely distributed in tropical, subtropical, and temperate regions.
 
 ## 24.1 Vegetative Characters Of Solanaceae
 
-| Character | Description |
-|---|---|
-| Habit | Mostly herbs and shrubs, rarely small trees |
-| Stem | Herbaceous, rarely woody; aerial; erect; cylindrical; branched; solid or hollow; hairy or smooth |
-| Underground stem | Present in potato |
-| Leaves | Alternate, simple, rarely pinnately compound |
-| Stipules | Absent |
-| Venation | Reticulate |
+| Character        | Description                                                                                      |
+| ---------------- | ------------------------------------------------------------------------------------------------ |
+| Habit            | Mostly herbs and shrubs, rarely small trees                                                      |
+| Stem             | Herbaceous, rarely woody; aerial; erect; cylindrical; branched; solid or hollow; hairy or smooth |
+| Underground stem | Present in potato                                                                                |
+| Leaves           | Alternate, simple, rarely pinnately compound                                                     |
+| Stipules         | Absent                                                                                           |
+| Venation         | Reticulate                                                                                       |
 
 ## 24.2 Floral Characters Of Solanaceae
 
-| Character | Description |
-|---|---|
-| Inflorescence | Solitary, axillary, or cymose |
-| Flower | Bisexual and actinomorphic |
-| Calyx | Five sepals, united, persistent, valvate aestivation |
-| Corolla | Five petals, united, valvate aestivation |
-| Androecium | Five stamens, epipetalous |
-| Gynoecium | Bicarpellary, obliquely placed, syncarpous |
-| Ovary | Superior, bilocular |
-| Placentation | Axile |
-| Ovules | Many |
-| Fruit | Berry or capsule |
-| Seeds | Many, endospermous |
+| Character     | Description                                          |
+| ------------- | ---------------------------------------------------- |
+| Inflorescence | Solitary, axillary, or cymose                        |
+| Flower        | Bisexual and actinomorphic                           |
+| Calyx         | Five sepals, united, persistent, valvate aestivation |
+| Corolla       | Five petals, united, valvate aestivation             |
+| Androecium    | Five stamens, epipetalous                            |
+| Gynoecium     | Bicarpellary, obliquely placed, syncarpous           |
+| Ovary         | Superior, bilocular                                  |
+| Placentation  | Axile                                                |
+| Ovules        | Many                                                 |
+| Fruit         | Berry or capsule                                     |
+| Seeds         | Many, endospermous                                   |
 
 ## 24.3 Solanaceae Floral Formula In Words
 
@@ -980,78 +980,78 @@ A Solanaceae floral diagram should show:
 
 ## 24.5 Economic Importance Of Solanaceae
 
-| Use | Examples |
-|---|---|
-| Food | Tomato, brinjal, potato |
-| Spice | Chilli |
-| Medicine | Belladonna, ashwagandha |
-| Fumigatory use | Tobacco |
-| Ornamentals | Petunia |
+| Use            | Examples                |
+| -------------- | ----------------------- |
+| Food           | Tomato, brinjal, potato |
+| Spice          | Chilli                  |
+| Medicine       | Belladonna, ashwagandha |
+| Fumigatory use | Tobacco                 |
+| Ornamentals    | Petunia                 |
 
 ## 25. High-Yield Comparison Tables
 
 ## 25.1 Root Versus Stem
 
-| Feature | Root | Stem |
-|---|---|---|
-| Origin | Radicle | Plumule |
-| Direction | Usually grows downward | Usually grows upward |
-| Nodes and internodes | Absent | Present |
-| Leaves | Absent | Present |
-| Buds | Absent | Terminal and axillary buds present |
-| Main function | Absorption and anchorage | Support, conduction, bearing leaves and flowers |
+| Feature              | Root                     | Stem                                            |
+| -------------------- | ------------------------ | ----------------------------------------------- |
+| Origin               | Radicle                  | Plumule                                         |
+| Direction            | Usually grows downward   | Usually grows upward                            |
+| Nodes and internodes | Absent                   | Present                                         |
+| Leaves               | Absent                   | Present                                         |
+| Buds                 | Absent                   | Terminal and axillary buds present              |
+| Main function        | Absorption and anchorage | Support, conduction, bearing leaves and flowers |
 
 ## 25.2 Simple Leaf Versus Compound Leaf
 
-| Feature | Simple Leaf | Compound Leaf |
-|---|---|---|
-| Lamina | Single | Divided into leaflets |
-| Incisions | Do not reach midrib | Reach midrib or petiole region |
-| Bud | Present in leaf axil | Present in leaf axil |
-| Bud at leaflet axil | Not applicable | Absent |
+| Feature             | Simple Leaf          | Compound Leaf                  |
+| ------------------- | -------------------- | ------------------------------ |
+| Lamina              | Single               | Divided into leaflets          |
+| Incisions           | Do not reach midrib  | Reach midrib or petiole region |
+| Bud                 | Present in leaf axil | Present in leaf axil           |
+| Bud at leaflet axil | Not applicable       | Absent                         |
 
 ## 25.3 Calyx Versus Corolla
 
-| Feature | Calyx | Corolla |
-|---|---|---|
-| Members | Sepals | Petals |
-| Position | Outermost whorl | Inside calyx |
-| Usual colour | Green | Often brightly coloured |
-| Main role | Protects bud | Attracts pollinators |
-| Union terms | Gamosepalous, polysepalous | Gamopetalous, polypetalous |
+| Feature      | Calyx                      | Corolla                    |
+| ------------ | -------------------------- | -------------------------- |
+| Members      | Sepals                     | Petals                     |
+| Position     | Outermost whorl            | Inside calyx               |
+| Usual colour | Green                      | Often brightly coloured    |
+| Main role    | Protects bud               | Attracts pollinators       |
+| Union terms  | Gamosepalous, polysepalous | Gamopetalous, polypetalous |
 
 ## 25.4 Androecium Versus Gynoecium
 
-| Feature | Androecium | Gynoecium |
-|---|---|---|
-| Role | Male reproductive whorl | Female reproductive whorl |
-| Units | Stamens | Carpels |
-| Main parts | Filament and anther | Stigma, style, ovary |
-| Product | Pollen grains | Ovules, later seeds |
+| Feature    | Androecium              | Gynoecium                 |
+| ---------- | ----------------------- | ------------------------- |
+| Role       | Male reproductive whorl | Female reproductive whorl |
+| Units      | Stamens                 | Carpels                   |
+| Main parts | Filament and anther     | Stigma, style, ovary      |
+| Product    | Pollen grains           | Ovules, later seeds       |
 
 ## 26. Common Learner Mistakes
 
-| Mistake | Correction |
-|---|---|
-| Calling any underground part a root | Some underground parts are modified stems, such as potato |
-| Confusing leaflets with leaves | Leaflets do not have axillary buds |
+| Mistake                                               | Correction                                                                          |
+| ----------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| Calling any underground part a root                   | Some underground parts are modified stems, such as potato                           |
+| Confusing leaflets with leaves                        | Leaflets do not have axillary buds                                                  |
 | Calling all networked leaves dicots without exception | Reticulate venation is typical of dicots, but classification uses multiple features |
-| Mixing racemose and cymose | Racemose has continuing main axis; cymose has terminal flower |
-| Confusing actinomorphic and zygomorphic | Actinomorphic has many possible radial planes; zygomorphic has one plane |
-| Confusing superior ovary with inferior ovary | Superior ovary is above other whorls; inferior ovary is enclosed below them |
-| Calling apocarpous and syncarpous the same | Apocarpous carpels are free; syncarpous carpels are fused |
-| Forgetting maize is usually endospermic | Maize has bulky endosperm |
-| Forgetting gram seed has two cotyledons | Gram is dicotyledonous |
+| Mixing racemose and cymose                            | Racemose has continuing main axis; cymose has terminal flower                       |
+| Confusing actinomorphic and zygomorphic               | Actinomorphic has many possible radial planes; zygomorphic has one plane            |
+| Confusing superior ovary with inferior ovary          | Superior ovary is above other whorls; inferior ovary is enclosed below them         |
+| Calling apocarpous and syncarpous the same            | Apocarpous carpels are free; syncarpous carpels are fused                           |
+| Forgetting maize is usually endospermic               | Maize has bulky endosperm                                                           |
+| Forgetting gram seed has two cotyledons               | Gram is dicotyledonous                                                              |
 
 ## 27. Exercise Answers
 
 ## 27.1 Difference Between Pinnately Compound And Palmately Compound Leaf
 
-| Feature | Pinnately Compound Leaf | Palmately Compound Leaf |
-|---|---|---|
+| Feature             | Pinnately Compound Leaf                       | Palmately Compound Leaf              |
+| ------------------- | --------------------------------------------- | ------------------------------------ |
 | Leaflet arrangement | Leaflets arise on a common axis called rachis | Leaflets arise from one common point |
-| Axis | Rachis represents midrib | No elongated rachis |
-| Example | Neem | Silk cotton |
+| Axis                | Rachis represents midrib                      | No elongated rachis                  |
+| Example             | Neem                                          | Silk cotton                          |
 
 In both types, the axillary bud is present at the base of the whole leaf, not at the base of each leaflet.
 
@@ -1059,11 +1059,11 @@ In both types, the axillary bud is present at the base of the whole leaf, not at
 
 Phyllotaxy is the arrangement of leaves on the stem or branch.
 
-| Type | Description | Examples |
-|---|---|---|
-| Alternate | One leaf arises at each node | China rose, mustard, sunflower |
-| Opposite | Two leaves arise at each node opposite each other | Calotropis, guava |
-| Whorled | More than two leaves arise at each node | Alstonia |
+| Type      | Description                                       | Examples                       |
+| --------- | ------------------------------------------------- | ------------------------------ |
+| Alternate | One leaf arises at each node                      | China rose, mustard, sunflower |
+| Opposite  | Two leaves arise at each node opposite each other | Calotropis, guava              |
+| Whorled   | More than two leaves arise at each node           | Alstonia                       |
 
 ## 27.3 Define Aestivation
 
@@ -1113,18 +1113,18 @@ Example: brinjal.
 
 ## 27.10 Difference Between Racemose And Cymose Inflorescence
 
-| Feature | Racemose | Cymose |
-|---|---|---|
-| Growth of main axis | Continues | Stops in a terminal flower |
-| Flower arrangement | Lateral | Terminal flower appears first |
-| Order | Acropetal | Basipetal |
-| Growth | Indefinite | Definite |
+| Feature             | Racemose   | Cymose                        |
+| ------------------- | ---------- | ----------------------------- |
+| Growth of main axis | Continues  | Stops in a terminal flower    |
+| Flower arrangement  | Lateral    | Terminal flower appears first |
+| Order               | Acropetal  | Basipetal                     |
+| Growth              | Indefinite | Definite                      |
 
 ## 27.11 Difference Between Apocarpous And Syncarpous Ovary
 
-| Feature | Apocarpous | Syncarpous |
-|---|---|---|
-| Carpels | Free | Fused |
+| Feature | Apocarpous  | Syncarpous      |
+| ------- | ----------- | --------------- |
+| Carpels | Free        | Fused           |
 | Example | Lotus, rose | Mustard, tomato |
 
 ## 27.12 Labelled Diagram Of Gram Seed
@@ -1184,13 +1184,13 @@ Floral formula in ASCII words: actinomorphic, bisexual, K(5), C(5), A5 epipetalo
 
 ## 27.15 Types Of Placentation In Flowering Plants
 
-| Type | Description | Example |
-|---|---|---|
-| Marginal | Ovules borne along ventral suture in two rows | Pea |
-| Axile | Ovules attached to central axis in multilocular ovary | China rose, tomato, lemon |
-| Parietal | Ovules develop on inner wall or peripheral part | Mustard, Argemone |
-| Free central | Ovules borne on central axis without septa | Dianthus, Primrose |
-| Basal | Single ovule attached at base of ovary | Sunflower, marigold |
+| Type         | Description                                           | Example                   |
+| ------------ | ----------------------------------------------------- | ------------------------- |
+| Marginal     | Ovules borne along ventral suture in two rows         | Pea                       |
+| Axile        | Ovules attached to central axis in multilocular ovary | China rose, tomato, lemon |
+| Parietal     | Ovules develop on inner wall or peripheral part       | Mustard, Argemone         |
+| Free central | Ovules borne on central axis without septa            | Dianthus, Primrose        |
+| Basal        | Single ovule attached at base of ovary                | Sunflower, marigold       |
 
 ## 27.16 What Is A Flower? Describe Parts Of A Typical Angiosperm Flower
 
@@ -1198,12 +1198,12 @@ A flower is a modified shoot meant for sexual reproduction in angiosperms.
 
 A typical flower has four whorls:
 
-| Whorl | Members | Role |
-|---|---|---|
-| Calyx | Sepals | Protects flower in bud stage |
-| Corolla | Petals | Attracts pollinators |
-| Androecium | Stamens | Produces pollen grains |
-| Gynoecium | Carpels | Bears ovules and forms fruit after fertilisation |
+| Whorl      | Members | Role                                             |
+| ---------- | ------- | ------------------------------------------------ |
+| Calyx      | Sepals  | Protects flower in bud stage                     |
+| Corolla    | Petals  | Attracts pollinators                             |
+| Androecium | Stamens | Produces pollen grains                           |
+| Gynoecium  | Carpels | Bears ovules and forms fruit after fertilisation |
 
 The whorls are arranged on the thalamus or receptacle.
 
@@ -1213,20 +1213,20 @@ Inflorescence is the arrangement of flowers on the floral axis.
 
 The main basis for classifying inflorescence is whether the main axis keeps growing or ends in a flower.
 
-| Type | Basis |
-|---|---|
+| Type     | Basis                                                                   |
+| -------- | ----------------------------------------------------------------------- |
 | Racemose | Main axis continues to grow; flowers arise laterally in acropetal order |
-| Cymose | Main axis ends in a flower; flowers appear in basipetal order |
+| Cymose   | Main axis ends in a flower; flowers appear in basipetal order           |
 
 ## 27.18 Arrangement Of Floral Members On Thalamus
 
 Based on insertion of floral members on thalamus, flowers are:
 
-| Type | Description | Ovary Position | Examples |
-|---|---|---|---|
-| Hypogynous | Gynoecium highest; other parts below it | Superior | Mustard, China rose, brinjal |
-| Perigynous | Gynoecium in centre; other parts on rim of thalamus | Half inferior | Plum, rose, peach |
-| Epigynous | Thalamus encloses ovary; other parts arise above it | Inferior | Guava, cucumber, sunflower ray florets |
+| Type       | Description                                         | Ovary Position | Examples                               |
+| ---------- | --------------------------------------------------- | -------------- | -------------------------------------- |
+| Hypogynous | Gynoecium highest; other parts below it             | Superior       | Mustard, China rose, brinjal           |
+| Perigynous | Gynoecium in centre; other parts on rim of thalamus | Half inferior  | Plum, rose, peach                      |
+| Epigynous  | Thalamus encloses ovary; other parts arise above it | Inferior       | Guava, cucumber, sunflower ray florets |
 
 ## 28. Practice Questions
 
@@ -1281,37 +1281,37 @@ Based on insertion of floral members on thalamus, flowers are:
 
 ## 29. Rapid Revision Sheet
 
-| Topic | One-Line Revision |
-|---|---|
-| Root system | Absorption, anchorage, storage, growth regulators |
-| Tap root | Primary root plus lateral branches |
-| Fibrous root | Many roots from stem base |
-| Adventitious root | Root from part other than radicle |
-| Root cap | Protects root apex |
-| Root hair | Absorbs water and minerals |
-| Stem | Has nodes, internodes, and buds |
-| Leaf base | Attaches leaf to stem |
-| Petiole | Holds lamina to light |
-| Lamina | Green expanded leaf blade |
-| Reticulate venation | Network of veins |
-| Parallel venation | Parallel veins |
-| Simple leaf | Lamina not divided into leaflets |
-| Compound leaf | Lamina divided into leaflets |
-| Racemose | Main axis keeps growing |
-| Cymose | Main axis ends in a flower |
-| Calyx | Sepals |
-| Corolla | Petals |
-| Androecium | Stamens |
-| Gynoecium | Carpels |
-| Aestivation | Arrangement in bud |
-| Placentation | Arrangement of ovules |
-| Fruit | Ripened ovary |
-| Seed | Fertilised ovule |
-| Solanaceae | Potato family |
+| Topic               | One-Line Revision                                 |
+| ------------------- | ------------------------------------------------- |
+| Root system         | Absorption, anchorage, storage, growth regulators |
+| Tap root            | Primary root plus lateral branches                |
+| Fibrous root        | Many roots from stem base                         |
+| Adventitious root   | Root from part other than radicle                 |
+| Root cap            | Protects root apex                                |
+| Root hair           | Absorbs water and minerals                        |
+| Stem                | Has nodes, internodes, and buds                   |
+| Leaf base           | Attaches leaf to stem                             |
+| Petiole             | Holds lamina to light                             |
+| Lamina              | Green expanded leaf blade                         |
+| Reticulate venation | Network of veins                                  |
+| Parallel venation   | Parallel veins                                    |
+| Simple leaf         | Lamina not divided into leaflets                  |
+| Compound leaf       | Lamina divided into leaflets                      |
+| Racemose            | Main axis keeps growing                           |
+| Cymose              | Main axis ends in a flower                        |
+| Calyx               | Sepals                                            |
+| Corolla             | Petals                                            |
+| Androecium          | Stamens                                           |
+| Gynoecium           | Carpels                                           |
+| Aestivation         | Arrangement in bud                                |
+| Placentation        | Arrangement of ovules                             |
+| Fruit               | Ripened ovary                                     |
+| Seed                | Fertilised ovule                                  |
+| Solanaceae          | Potato family                                     |
 
 ## 30. Raw File Reference
 
-| Item | Path |
-|---|---|
-| Raw input | `data/class_11/biology/chapter_05.md` |
+| Item             | Path                                             |
+| ---------------- | ------------------------------------------------ |
+| Raw input        | `data/class_11/biology/chapter_05.md`            |
 | Formatted output | `data_learner_md/class_11/biology/chapter_05.md` |

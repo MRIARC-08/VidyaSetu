@@ -305,18 +305,18 @@ Change may be fast in some areas and slow in others.
 
 ## 19. Key Terms
 
-| Term | Meaning |
-|---|---|
-| Culture | Shared and learned way of life |
-| Material culture | Physical objects and technologies |
-| Non-material culture | Values, norms, beliefs, symbols, language |
-| Symbol | Object or sign carrying social meaning |
-| Norm | Rule of behaviour |
-| Value | Idea about what is desirable |
-| Ethnocentrism | Judging others by one's own culture |
-| Cultural relativism | Understanding culture in its context |
-| Socialisation | Process of learning culture |
-| Primary socialisation | Early socialisation mainly in family |
+| Term                    | Meaning                                        |
+| ----------------------- | ---------------------------------------------- |
+| Culture                 | Shared and learned way of life                 |
+| Material culture        | Physical objects and technologies              |
+| Non-material culture    | Values, norms, beliefs, symbols, language      |
+| Symbol                  | Object or sign carrying social meaning         |
+| Norm                    | Rule of behaviour                              |
+| Value                   | Idea about what is desirable                   |
+| Ethnocentrism           | Judging others by one's own culture            |
+| Cultural relativism     | Understanding culture in its context           |
+| Socialisation           | Process of learning culture                    |
+| Primary socialisation   | Early socialisation mainly in family           |
 | Secondary socialisation | Later socialisation through wider institutions |
 
 ## 20. Exam-Oriented Summary
@@ -337,4 +337,3 @@ Socialisation is the process through which individuals learn culture and become 
 8. Define socialisation.
 9. Distinguish primary and secondary socialisation.
 10. Explain the role of media in socialisation.
-

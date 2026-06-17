@@ -1,20 +1,21 @@
 # Chapter 16: f{kfrt; rhanz feJ dk tUe lu~ 1977 esa v;ksè;k (mÙkj
+
 ### NCERT Class 10 — Hindi Kshitij
 
 ---
 
 ## 📌 Chapter at a Glance
 
-| Detail | Info |
-|---|---|
-| Chapter | 16 — f{kfrt; rhanz feJ dk tUe lu~ 1977 esa v;ksè;k (mÙkj |
-| Class | Class 10 |
-| Subject | Hindi Kshitij |
-| Pilot Subject Family | Hindi |
-| Source File | `data/class_10/hindi_kshitij/chapter_16.md` |
-| Textbook Pages | 114 – 125 |
-| Raw Exercise Count | 0 |
-| Formatting Mode | Human-guided pilot for subject-specific automation |
+| Detail               | Info                                                     |
+| -------------------- | -------------------------------------------------------- |
+| Chapter              | 16 — f{kfrt; rhanz feJ dk tUe lu~ 1977 esa v;ksè;k (mÙkj |
+| Class                | Class 10                                                 |
+| Subject              | Hindi Kshitij                                            |
+| Pilot Subject Family | Hindi                                                    |
+| Source File          | `data/class_10/hindi_kshitij/chapter_16.md`              |
+| Textbook Pages       | 114 – 125                                                |
+| Raw Exercise Count   | 0                                                        |
+| Formatting Mode      | Human-guided pilot for subject-specific automation       |
 
 ---
 
@@ -23,53 +24,53 @@
 > [!NOTE]
 > Study this chapter through this route: **context -> text situation -> speaker/character voice -> bhav/theme -> language feature -> answer evidence**.
 
-| Step | Learner Action | Why It Matters |
-|---|---|---|
-| 1 | Read once for literal meaning and again for bhav, tone, and central idea. | Builds reliable recall and answer quality. |
-| 2 | Keep difficult words, idioms, poetic expressions, and author cues in a separate vocabulary table. | Builds reliable recall and answer quality. |
-| 3 | Track speaker, audience, situation, and emotional change for prose and poetry. | Builds reliable recall and answer quality. |
-| 4 | For answers, connect the text moment with the larger theme instead of retelling everything. | Builds reliable recall and answer quality. |
+| Step | Learner Action                                                                                    | Why It Matters                             |
+| ---- | ------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| 1    | Read once for literal meaning and again for bhav, tone, and central idea.                         | Builds reliable recall and answer quality. |
+| 2    | Keep difficult words, idioms, poetic expressions, and author cues in a separate vocabulary table. | Builds reliable recall and answer quality. |
+| 3    | Track speaker, audience, situation, and emotional change for prose and poetry.                    | Builds reliable recall and answer quality. |
+| 4    | For answers, connect the text moment with the larger theme instead of retelling everything.       | Builds reliable recall and answer quality. |
 
 ---
 
 ## 🎯 Learning Outcomes
 
-| # | After studying this chapter, you should be able to... |
-|---|---|
-| 1 | understand the literal meaning and deeper bhav or theme of the text |
-| 2 | explain speaker, character, tone, expression, and language choices using textual evidence |
-| 3 | answer comprehension, vocabulary, and writing tasks in a structured way |
+| #   | After studying this chapter, you should be able to...                                     |
+| --- | ----------------------------------------------------------------------------------------- |
+| 1   | understand the literal meaning and deeper bhav or theme of the text                       |
+| 2   | explain speaker, character, tone, expression, and language choices using textual evidence |
+| 3   | answer comprehension, vocabulary, and writing tasks in a structured way                   |
 
 ---
 
 ## 🗂️ Section Structure
 
-| Section | Title | Revision Focus |
-|---|---|---|
-| Intro | Core chapter narrative | Definition, explanation, examples, and likely questions |
+| Section | Title                  | Revision Focus                                          |
+| ------- | ---------------------- | ------------------------------------------------------- |
+| Intro   | Core chapter narrative | Definition, explanation, examples, and likely questions |
 
 ---
 
 ## 🧠 Subject-Specific Study Method
 
-| Part | How to Use It |
-|---|---|
-| Core lens | context -> text situation -> speaker/character voice -> bhav/theme -> language feature -> answer evidence |
-| First pass | Read for meaning and mark unfamiliar terms. |
-| Second pass | Convert definitions, examples, data, and activities into tables. |
-| Revision pass | Use the quick reference and practice tracker at the end. |
+| Part          | How to Use It                                                                                             |
+| ------------- | --------------------------------------------------------------------------------------------------------- |
+| Core lens     | context -> text situation -> speaker/character voice -> bhav/theme -> language feature -> answer evidence |
+| First pass    | Read for meaning and mark unfamiliar terms.                                                               |
+| Second pass   | Convert definitions, examples, data, and activities into tables.                                          |
+| Revision pass | Use the quick reference and practice tracker at the end.                                                  |
 
 ---
 
 ## 🪶 Literature Study Board
 
-| Element | Learner Notes |
-|---|---|
-| Text | f{kfrt; rhanz feJ dk tUe lu~ 1977 esa v;ksè;k (mÙkj |
-| First reading | Understand what happens literally: situation, characters, conflict, and ending. |
-| Second reading | Track emotional change, tone, symbols, and social/political context. |
-| Evidence habit | Keep short textual moments ready for long-answer questions. |
-| Vocabulary habit | Infer expression meanings from context before checking a dictionary. |
+| Element          | Learner Notes                                                                   |
+| ---------------- | ------------------------------------------------------------------------------- |
+| Text             | f{kfrt; rhanz feJ dk tUe lu~ 1977 esa v;ksè;k (mÙkj                             |
+| First reading    | Understand what happens literally: situation, characters, conflict, and ending. |
+| Second reading   | Track emotional change, tone, symbols, and social/political context.            |
+| Evidence habit   | Keep short textual moments ready for long-answer questions.                     |
+| Vocabulary habit | Infer expression meanings from context before checking a dictionary.            |
 
 ---
 
@@ -84,13 +85,13 @@ f{kfrt; rhanz feJ dk tUe lu~ 1977 esa v;ksè;k (mÙkj izns'k) esa gqvkA mUgksaus
 
 vki;g D;k djrs gSa] bruh izfr"Bk gS vkidhA vc rks vkidks HkkjrjRu Hkh fey pqdk gS] ;g iQVh rgen u iguk djsaA vPNk ugha yxrk] tc Hkh dksbZ vkrk gS vki blh iQVh rgen esa lcls feyrs gSaA ¸ [kk¡ lkgc eqldjk,A ykM+ ls Hkjdj cksys ] ¶ /r~!
 
-ixyh bZ HkkjrjRu gedks 'kgubZ;k is feyk gS] yqafx;k is ukghaA rqe yksxksa dh rjg cuko flaxkj ns[krs jgrs] rks mej gh chr tkrh] gks pqdrh 'kgukbZA ¸ rc D;k [kkd fj;k”k gks ikrkA Bhd gS fcfV;k] vkxs ls ugha igusaxs] exj 2018-19 ;rhanz feJ bruk crk, nsrs gSa fd ekfyd ls;gh nqvk gS ] ¶ iQVk lqj u c['ksaA yqafx;k dk D;k gS] vkt iQVh gS] rks dy lh tk,xhA ¸ lu~ 2000 dh ckr gSA iDdk egky (dk'kh fo'oukFk ls yxk gqvk vf/dre bykdk) ls eykbZ cjI +kQ cspus okys tk pqosQ gSaA [kk¡ lkgc dks bldh deh [kyrh gSA vc ns'kh?kh esa og ckr dgk¡ vkSj dgk¡ og dpkSM+h&tyschA [kk¡ lkgc dks cM+h f'kír ls deh [kyrh gSA vc laxfr;ksa osQ fy, xk;dksa osQ eu esa dksbZ vknj ugha jgkA [kk¡ lkgc viQlksl trkrs gSaA vc?kaVksa fj;k”k dks dkSu iwNrk gS\ gSjku gSa fcfLeYyk [kk¡A dgk¡ og dtyh] pSrh vkSj vnc dk tekuk\ lpeqp gSjku djrh gS dk'khµiDdk egky ls tSls eykbZ cjI +kQ x;k] laxhr] lkfgR; vkSj vnc dh cgqr lkjh ijaijk,¡ yqIr gks xb±A,d lPps lqj lk/d vkSj lkekftd dh Hkk¡fr fcfLeYyk [kk¡ lkgc dks bu lcdh deh [kyrh gSA dk'kh esas ftl rjg ckck fo'oukFk vkSj fcfLeyk [kk¡ ,d&nwljs osQ iwjd jgs gSa] mlh rjg eqgjZe&rkft;k vkSj gksyh&vchj] xqyky dh xaxk&tequh laLÑfr Hkh,d nwljs osQ iwjd jgs gSaA vHkh tYnh gh cgqr oqQN bfrgkl cu pqdk gSA vHkh vkxs cgqr oqQN bfrgkl cu tk,xkA fiQj Hkh oqQN cpk gS tks flI +kZQ dk'kh esa gSA dk'kh vkt Hkh laxhr osQ Loj ij txrh vkSj mlh dh Fkkiksa ij lksrh gSA dk'kh esa ej.k Hkh eaxy ekuk x;k gSA dk'kh vkuandkuu gSA lcls cM+h ckr gS fd dk'kh osQ ikl mLrkn fcfLeYyk [kk¡ tSlk y; vkSj lqj dh reht fl[kkus okyk uk;kc ghjk jgk gS tks ges'kk ls nks dkSeksa dks,d gksus o vkil esa HkkbZpkjs osQ lkFk jgus dh izsj.kk nsrk jgkA HkkjrjRu ls ysdj bl ns'k osQ <sjksa fo'ofo|ky;ksa dh ekun mikf/;ksa ls vyaÑr o laxhr ukVd vdkneh iqjLdkj,oa in~efoHkw"k.k tSls lEekuksa ls ugha] cfYd viuh vts; laxhr;k=kk osQ fy, fcfLeYyk [kk¡ lkgc Hkfo"; esa ges'kk laxhr osQ uk;d cus jgsaxsA uCcs o"kZ dh Hkjh&iwjh vk;q esa 21 vxLr 2006 dks laxhr jfldksa dh gkfnZd lHkk ls fonk gq, [kk¡ lkgc dh lcls cM+h nsu gesa;gh gS fd iwjs vLlh cjl mUgksaus laxhr dks laiw.kZrk o,dkf/dkj ls lh[kus dh ftthfo"kk dks vius Hkhrj ftank j[kkA 2018-19 f{kfrt iz'u&vH;kl 1- 'kgukbZ dh nqfu;k esa Mqejk¡o dks D;ksa;kn fd;k tkrk gS\ 2- fcfLeYyk [kk¡ dks 'kgukbZ dh eaxyèofu dk uk;d D;ksa dgk x;k gS\ 3- lqf"kj&ok|ksa ls D;k vfHkizk; gS\ 'kgukbZ dks ^lqf"kj ok|ksa esa 'kkg* dh mikf/ D;ksa nh xbZ gksxh\ 4- vk'k; Li"V dhft,µ (d) ^iQVk lqj u c['ksaA yqafx;k dk D;k gS] vkt iQVh gS] rks dy lh tk,xhA* ([k) ^esjs ekfyd lqj c['k nsA lqj esa og rklhj iSnk dj fd vk¡[kksa ls lPps eksrh dh rjg vux<+ vk¡lw fudy vk,¡A* 5- dk'kh esa gks jgs dkSu&ls ifjorZu fcfLeYyk [kk¡ dks O;fFkr djrs Fks\ 6- ikB esa vk, fdu izlaxksa osQ vk/kj ij vki dg ldrs gSa fdµ (d) fcfLeYyk [kk¡ feyh&tqyh laLÑfr osQ izrhd FksA ([k) os okLrfod vFkks± esa,d lPps bulku FksA 7- fcfLeYyk [kk¡ osQ thou ls tqM+h mu?kVukvksa vkSj O;fDr;ksa dk mYys[k djsa ftUgksaus mudh laxhr lkèkuk dks le`¼ fd;k\ jpuk vkSj vfHkO;fDr 8- fcfLeYyk [kk¡ osQ O;fDrRo dh dkSu&dkSu lh fo'ks"krkvksa us vkidks izHkkfor fd;k\ 9- eqgjZe ls fcfLeYyk [kk¡ osQ tqM+ko dks vius 'kCnksa esa fyf[k,A 10 - fcfLeYyk [kk¡ dyk osQ vuU; mikld Fks] roZQ lfgr mÙkj nhft,A Hkk"kkµvè;;u 11- fuEufyf[kr feJ okD;ksa osQ miokD; Nk¡Vdj Hksn Hkh fyf[k,µ (d) ;g ”k:j gS fd 'kgukbZ vkSj Mqejk¡o,d&nwljs osQ fy, mi;ksxh gSaA ([k) jhM vanj ls iksyh gksrh gS ftlosQ lgkjs 'kgukbZ dks iw¡Qdk tkrk gSA
+ixyh bZ HkkjrjRu gedks 'kgubZ;k is feyk gS] yqafx;k is ukghaA rqe yksxksa dh rjg cuko flaxkj ns[krs jgrs] rks mej gh chr tkrh] gks pqdrh 'kgukbZA ¸ rc D;k [kkd fj;k”k gks ikrkA Bhd gS fcfV;k] vkxs ls ugha igusaxs] exj 2018-19 ;rhanz feJ bruk crk, nsrs gSa fd ekfyd ls;gh nqvk gS ] ¶ iQVk lqj u c['ksaA yqafx;k dk D;k gS] vkt iQVh gS] rks dy lh tk,xhA ¸ lu~ 2000 dh ckr gSA iDdk egky (dk'kh fo'oukFk ls yxk gqvk vf/dre bykdk) ls eykbZ cjI +kQ cspus okys tk pqosQ gSaA [kk¡ lkgc dks bldh deh [kyrh gSA vc ns'kh?kh esa og ckr dgk¡ vkSj dgk¡ og dpkSM+h&tyschA [kk¡ lkgc dks cM+h f'kír ls deh [kyrh gSA vc laxfr;ksa osQ fy, xk;dksa osQ eu esa dksbZ vknj ugha jgkA [kk¡ lkgc viQlksl trkrs gSaA vc?kaVksa fj;k”k dks dkSu iwNrk gS\ gSjku gSa fcfLeYyk [kk¡A dgk¡ og dtyh] pSrh vkSj vnc dk tekuk\ lpeqp gSjku djrh gS dk'khµiDdk egky ls tSls eykbZ cjI +kQ x;k] laxhr] lkfgR; vkSj vnc dh cgqr lkjh ijaijk,¡ yqIr gks xb±A,d lPps lqj lk/d vkSj lkekftd dh Hkk¡fr fcfLeYyk [kk¡ lkgc dks bu lcdh deh [kyrh gSA dk'kh esas ftl rjg ckck fo'oukFk vkSj fcfLeyk [kk¡ ,d&nwljs osQ iwjd jgs gSa] mlh rjg eqgjZe&rkft;k vkSj gksyh&vchj] xqyky dh xaxk&tequh laLÑfr Hkh,d nwljs osQ iwjd jgs gSaA vHkh tYnh gh cgqr oqQN bfrgkl cu pqdk gSA vHkh vkxs cgqr oqQN bfrgkl cu tk,xkA fiQj Hkh oqQN cpk gS tks flI +kZQ dk'kh esa gSA dk'kh vkt Hkh laxhr osQ Loj ij txrh vkSj mlh dh Fkkiksa ij lksrh gSA dk'kh esa ej.k Hkh eaxy ekuk x;k gSA dk'kh vkuandkuu gSA lcls cM+h ckr gS fd dk'kh osQ ikl mLrkn fcfLeYyk [kk¡ tSlk y; vkSj lqj dh reht fl[kkus okyk uk;kc ghjk jgk gS tks ges'kk ls nks dkSeksa dks,d gksus o vkil esa HkkbZpkjs osQ lkFk jgus dh izsj.kk nsrk jgkA HkkjrjRu ls ysdj bl ns'k osQ <sjksa fo'ofo|ky;ksa dh ekun mikf/;ksa ls vyaÑr o laxhr ukVd vdkneh iqjLdkj,oa in~efoHkw"k.k tSls lEekuksa ls ugha] cfYd viuh vts; laxhr;k=kk osQ fy, fcfLeYyk [kk¡ lkgc Hkfo"; esa ges'kk laxhr osQ uk;d cus jgsaxsA uCcs o"kZ dh Hkjh&iwjh vk;q esa 21 vxLr 2006 dks laxhr jfldksa dh gkfnZd lHkk ls fonk gq, [kk¡ lkgc dh lcls cM+h nsu gesa;gh gS fd iwjs vLlh cjl mUgksaus laxhr dks laiw.kZrk o,dkf/dkj ls lh[kus dh ftthfo"kk dks vius Hkhrj ftank j[kkA 2018-19 f{kfrt iz'u&vH;kl 1- 'kgukbZ dh nqfu;k esa Mqejk¡o dks D;ksa;kn fd;k tkrk gS\ 2- fcfLeYyk [kk¡ dks 'kgukbZ dh eaxyèofu dk uk;d D;ksa dgk x;k gS\ 3- lqf"kj&ok|ksa ls D;k vfHkizk; gS\ 'kgukbZ dks ^lqf"kj ok|ksa esa 'kkg* dh mikf/ D;ksa nh xbZ gksxh\ 4- vk'k; Li"V dhft,µ (d) ^iQVk lqj u c['ksaA yqafx;k dk D;k gS] vkt iQVh gS] rks dy lh tk,xhA* ([k) ^esjs ekfyd lqj c['k nsA lqj esa og rklhj iSnk dj fd vk¡[kksa ls lPps eksrh dh rjg vux<+ vk¡lw fudy vk,¡A\* 5- dk'kh esa gks jgs dkSu&ls ifjorZu fcfLeYyk [kk¡ dks O;fFkr djrs Fks\ 6- ikB esa vk, fdu izlaxksa osQ vk/kj ij vki dg ldrs gSa fdµ (d) fcfLeYyk [kk¡ feyh&tqyh laLÑfr osQ izrhd FksA ([k) os okLrfod vFkks± esa,d lPps bulku FksA 7- fcfLeYyk [kk¡ osQ thou ls tqM+h mu?kVukvksa vkSj O;fDr;ksa dk mYys[k djsa ftUgksaus mudh laxhr lkèkuk dks le`¼ fd;k\ jpuk vkSj vfHkO;fDr 8- fcfLeYyk [kk¡ osQ O;fDrRo dh dkSu&dkSu lh fo'ks"krkvksa us vkidks izHkkfor fd;k\ 9- eqgjZe ls fcfLeYyk [kk¡ osQ tqM+ko dks vius 'kCnksa esa fyf[k,A 10 - fcfLeYyk [kk¡ dyk osQ vuU; mikld Fks] roZQ lfgr mÙkj nhft,A Hkk"kkµvè;;u 11- fuEufyf[kr feJ okD;ksa osQ miokD; Nk¡Vdj Hksn Hkh fyf[k,µ (d) ;g ”k:j gS fd 'kgukbZ vkSj Mqejk¡o,d&nwljs osQ fy, mi;ksxh gSaA ([k) jhM vanj ls iksyh gksrh gS ftlosQ lgkjs 'kgukbZ dks iw¡Qdk tkrk gSA
 
- - (x) jhM ujdV ls cukbZ tkrh gS tks Mqejk¡o esa eq[;r% lksu unh osQ fdukjksa ij ikbZ tkrh gSA
-(?k) mudks;dhu gS] dHkh [kqnk;w¡ gh mu ij esgjcku gksxkA 2018-19 ;rhanz feJ (Ä) fgju viuh gh egd ls ijs'kku iwjs taxy esa ml ojnku dks [kkstrk gS ftldh xed mlh esa lekbZ gSA (p) [kk¡ lkgc dh lcls cM+h nsu gesa;gh gS fd iwjs vLlh cjl mUgksaus laxhr dks laiw.kZrk o,dkfèkdkj ls lh[kus dh ftthfo"kk dks vius Hkhrj ftank j[kkA 12- fuEufyf[kr okD;ksa dks fefJr okD;ksa esa cnfy,µ (d) blh ckylqyHk g¡lh esa dbZ;knsa can gSaA ([k) dk'kh esa laxhr vk;kstu dh,d izkphu,oa vn~Hkqr ijaijk gSA
+- (x) jhM ujdV ls cukbZ tkrh gS tks Mqejk¡o esa eq[;r% lksu unh osQ fdukjksa ij ikbZ tkrh gSA
+  (?k) mudks;dhu gS] dHkh [kqnk;w¡ gh mu ij esgjcku gksxkA 2018-19 ;rhanz feJ (Ä) fgju viuh gh egd ls ijs'kku iwjs taxy esa ml ojnku dks [kkstrk gS ftldh xed mlh esa lekbZ gSA (p) [kk¡ lkgc dh lcls cM+h nsu gesa;gh gS fd iwjs vLlh cjl mUgksaus laxhr dks laiw.kZrk o,dkfèkdkj ls lh[kus dh ftthfo"kk dks vius Hkhrj ftank j[kkA 12- fuEufyf[kr okD;ksa dks fefJr okD;ksa esa cnfy,µ (d) blh ckylqyHk g¡lh esa dbZ;knsa can gSaA ([k) dk'kh esa laxhr vk;kstu dh,d izkphu,oa vn~Hkqr ijaijk gSA
 
- - (x) /r~! ixyh bZ HkkjrjRu gedks 'kgubZ;k is feyk gS] yqafx;k is ukghaA
-(?k) dk'kh dk uk;kc ghjk ges'kk ls nks dkSeksa dks,d gksdj vkil esa HkkbZpkjs osQ lkFk jgus dh izsj.kk nsrk jgkA ikBsRkj lfozQ;rk  dYiuk dhft, fd vkiosQ fo|ky; eas fdlh izfl¼ laxhrdkj osQ 'kgukbZ oknu dk dk;ZØe vk;ksftr fd;k tk jgk gSA bl dk;ZØe dh lwpuk nsrs gq, cqysfVu cksMZ osQ fy, uksfVl cukb,A  vki vius euilan laxhrdkj osQ ckjs esa,d vuqPNsn fyf[k,A  gekjs lkfgR;] dyk] laxhr vkSj u`R; dks le`¼ djus esa dk'kh (vkt osQ okjk.klh) osQ;ksxnku ij ppkZ dhft,A  dk'kh dk uke vkrs gh gekjh vk¡[kksa osQ lkeus dk'kh dh cgqr&lh ph”ksa mHkjus yxrh gSa] os dkSu&dkSu lh gSa\ 'kCn&laink M~;ks<+h & ngyh”k ukScr[kkuk & izos'k }kj osQ mQij eaxy èofu ctkus dk LFkku fj;k”k & vH;kl ekI +kZQr & }kjk Ük`axh & lhax dk cuk ok|;a=k eqjNax & ,d izdkj dk yksd ok|;a=k user & bZ'oj dh nsu] lq[k] /u nkSyr l”knk & ekFkk Vsduk bcknr & mikluk rklhj & xq.k] izHkko] vlj Jqfr & 'kCnèofu mQgkiksg & my>u] vfuf'prrk 2018-19 f{kfrt frfyLe & tknw xed & [kq'kcw] lqxa/ v”kknkjh & ekre djuk] nq[k eukuk cnLrwj & dk;ns ls] rjhosQ ls uSlfxZd & LokHkkfod] izko`Qfrd nkn & 'kkcklh rkyhe & f'k{kk vnc & dk;nk] lkfgR; vygenqfyYykg & reke rkjhI +kQ bZ'oj osQ fy, ftthfo"kk & thus dh bPNk f'kjdr & 'kkfey gksuk;g Hkh tkusa le µ rky dk,d vax] laxhr esa og LFkku tgk¡ y; dh lekfIr vkSj rky dk vkjaHk gksrk gSA Jqfr µ ,d Loj ls nwljs Loj ij tkrs le; dk vR;ar lw{e Lojka'k ok|;a=k µ gekjs ns'k esa ok| ;a=kksa dh eq[; pkj Jsf.k;k¡ ekuh tkrh gSaµ rr&forr µ rkj okys ok|µoh.kk] flrkj] lkjaxh] ljksn lqf"kj µ iw¡Qd dj ctk, tkus okys ok|µck¡lqjh] 'kgukbZ] ukxLoje~] chu?kuok| µ vk?kkr ls ctk, tkus okys /krq ok|µ>k¡>] eathjk] ?kq¡?k: vou¼ µ peM+s ls e<+s ok|µrcyk] <ksyd] e`nax vkfnA pSrh p<+y pbr fpr ykxs uk jkek ckck osQ Hkouok chj ceuok lxqu fcpkjks dc gksbgSa fi;k ls feyuok gks jkek p<+y pbr fpr ykxs uk jkek Bqejh cktqcan [kqy&[kqy tk, tknw dh iqfM+;k Hkj&Hkj ekjh gs!
+- (x) /r~! ixyh bZ HkkjrjRu gedks 'kgubZ;k is feyk gS] yqafx;k is ukghaA
+  (?k) dk'kh dk uk;kc ghjk ges'kk ls nks dkSeksa dks,d gksdj vkil esa HkkbZpkjs osQ lkFk jgus dh izsj.kk nsrk jgkA ikBsRkj lfozQ;rk  dYiuk dhft, fd vkiosQ fo|ky; eas fdlh izfl¼ laxhrdkj osQ 'kgukbZ oknu dk dk;ZØe vk;ksftr fd;k tk jgk gSA bl dk;ZØe dh lwpuk nsrs gq, cqysfVu cksMZ osQ fy, uksfVl cukb,A  vki vius euilan laxhrdkj osQ ckjs esa,d vuqPNsn fyf[k,A  gekjs lkfgR;] dyk] laxhr vkSj u`R; dks le`¼ djus esa dk'kh (vkt osQ okjk.klh) osQ;ksxnku ij ppkZ dhft,A  dk'kh dk uke vkrs gh gekjh vk¡[kksa osQ lkeus dk'kh dh cgqr&lh ph”ksa mHkjus yxrh gSa] os dkSu&dkSu lh gSa\ 'kCn&laink M~;ks<+h & ngyh”k ukScr[kkuk & izos'k }kj osQ mQij eaxy èofu ctkus dk LFkku fj;k”k & vH;kl ekI +kZQr & }kjk Ük`axh & lhax dk cuk ok|;a=k eqjNax & ,d izdkj dk yksd ok|;a=k user & bZ'oj dh nsu] lq[k] /u nkSyr l”knk & ekFkk Vsduk bcknr & mikluk rklhj & xq.k] izHkko] vlj Jqfr & 'kCnèofu mQgkiksg & my>u] vfuf'prrk 2018-19 f{kfrt frfyLe & tknw xed & [kq'kcw] lqxa/ v”kknkjh & ekre djuk] nq[k eukuk cnLrwj & dk;ns ls] rjhosQ ls uSlfxZd & LokHkkfod] izko`Qfrd nkn & 'kkcklh rkyhe & f'k{kk vnc & dk;nk] lkfgR; vygenqfyYykg & reke rkjhI +kQ bZ'oj osQ fy, ftthfo"kk & thus dh bPNk f'kjdr & 'kkfey gksuk;g Hkh tkusa le µ rky dk,d vax] laxhr esa og LFkku tgk¡ y; dh lekfIr vkSj rky dk vkjaHk gksrk gSA Jqfr µ ,d Loj ls nwljs Loj ij tkrs le; dk vR;ar lw{e Lojka'k ok|;a=k µ gekjs ns'k esa ok| ;a=kksa dh eq[; pkj Jsf.k;k¡ ekuh tkrh gSaµ rr&forr µ rkj okys ok|µoh.kk] flrkj] lkjaxh] ljksn lqf"kj µ iw¡Qd dj ctk, tkus okys ok|µck¡lqjh] 'kgukbZ] ukxLoje~] chu?kuok| µ vk?kkr ls ctk, tkus okys /krq ok|µ>k¡>] eathjk] ?kq¡?k: vou¼ µ peM+s ls e<+s ok|µrcyk] <ksyd] e`nax vkfnA pSrh p<+y pbr fpr ykxs uk jkek ckck osQ Hkouok chj ceuok lxqu fcpkjks dc gksbgSa fi;k ls feyuok gks jkek p<+y pbr fpr ykxs uk jkek Bqejh cktqcan [kqy&[kqy tk, tknw dh iqfM+;k Hkj&Hkj ekjh gs!
 
 cktqcan [kqy&[kqy tk, 2018-19 ;rhanz feJ nknjk rM+i rM+i ft;k tk, lk¡ofj;k fcuk xksoqQy NkM+s eFkqjk esa Nk, fdu lax izhr yxk, rM+i rM+i ft;k tk, VIik ckxk¡ fop vk;k djks ckxk¡ fop vk;k djks efD[k;k¡ rksa Mj yxnk xqM+ ”kjk de [kk;k djksA 2018-19
 
@@ -126,44 +127,44 @@ cktqcan [kqy&[kqy tk, 2018-19 ;rhanz feJ nknjk rM+i rM+i ft;k tk, lk¡ofj;k fcuk
 
 ## 🧩 Answer-Writing Framework
 
-| Step | What To Do |
-|---|---|
-| 1 | Begin with the text situation or speaker. |
-| 2 | State the key idea, bhav, theme, or conflict. |
-| 3 | Use one short textual reference or paraphrased moment. |
-| 4 | Explain the language feature, character quality, or social meaning. |
-| 5 | Close with the wider message of the passage or chapter. |
+| Step | What To Do                                                          |
+| ---- | ------------------------------------------------------------------- |
+| 1    | Begin with the text situation or speaker.                           |
+| 2    | State the key idea, bhav, theme, or conflict.                       |
+| 3    | Use one short textual reference or paraphrased moment.              |
+| 4    | Explain the language feature, character quality, or social meaning. |
+| 5    | Close with the wider message of the passage or chapter.             |
 
 ---
 
 ## ⚠️ Common Misconceptions
 
-| # | Watch Out For This |
-|---|---|
-| 1 | Do not translate mechanically; explain the meaning in context. |
-| 2 | A theme is more than a one-word topic; it is the idea the text develops. |
-| 3 | Long answers should use evidence from the chapter, not only general opinion. |
+| #   | Watch Out For This                                                           |
+| --- | ---------------------------------------------------------------------------- |
+| 1   | Do not translate mechanically; explain the meaning in context.               |
+| 2   | A theme is more than a one-word topic; it is the idea the text develops.     |
+| 3   | Long answers should use evidence from the chapter, not only general opinion. |
 
 ---
 
 ## 📋 Quick Revision Sheet
 
-| Revision Item | What To Recall |
-|---|---|
-| Chapter core | f{kfrt; rhanz feJ dk tUe lu~ 1977 esa v;ksè;k (mÙkj |
-| Intro | Core chapter narrative |
+| Revision Item | What To Recall                                      |
+| ------------- | --------------------------------------------------- |
+| Chapter core  | f{kfrt; rhanz feJ dk tUe lu~ 1977 esa v;ksè;k (mÙkj |
+| Intro         | Core chapter narrative                              |
 
 ---
 
 ## ✅ Pilot Quality Checklist
 
-| Check | Status |
-|---|---|
-| Raw data preserved | Yes — chapter content is retained and cleaned, not summarised away. |
-| Learner scaffolding added | Yes — roadmap, outcomes, answer framework, misconceptions, and revision sheet. |
-| Subject-aware structure | Yes — generated from the selected subject family profile. |
-| Needs human review | Yes — especially source extraction mismatches, diagrams, tables, formulas, and broken OCR words. |
+| Check                     | Status                                                                                           |
+| ------------------------- | ------------------------------------------------------------------------------------------------ |
+| Raw data preserved        | Yes — chapter content is retained and cleaned, not summarised away.                              |
+| Learner scaffolding added | Yes — roadmap, outcomes, answer framework, misconceptions, and revision sheet.                   |
+| Subject-aware structure   | Yes — generated from the selected subject family profile.                                        |
+| Needs human review        | Yes — especially source extraction mismatches, diagrams, tables, formulas, and broken OCR words. |
 
 ---
 
-*Source: NCERT Class 10 — Hindi Kshitij, Chapter 16. Raw file: `data/class_10/hindi_kshitij/chapter_16.md`.*
+_Source: NCERT Class 10 — Hindi Kshitij, Chapter 16. Raw file: `data/class_10/hindi_kshitij/chapter_16.md`._

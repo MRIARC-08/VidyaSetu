@@ -541,14 +541,14 @@ Preference shares have features of both equity and debentures.
 
 ## 33. Types of Preference Shares
 
-| Type | Meaning |
-|---|---|
-| Cumulative | Unpaid dividend accumulates for future years |
-| Non-cumulative | Unpaid dividend does not accumulate |
-| Participating | May participate in surplus profit after fixed dividend |
-| Non-participating | Does not participate in surplus profit |
-| Convertible | Can be converted into equity shares |
-| Non-convertible | Cannot be converted into equity shares |
+| Type              | Meaning                                                |
+| ----------------- | ------------------------------------------------------ |
+| Cumulative        | Unpaid dividend accumulates for future years           |
+| Non-cumulative    | Unpaid dividend does not accumulate                    |
+| Participating     | May participate in surplus profit after fixed dividend |
+| Non-participating | Does not participate in surplus profit                 |
+| Convertible       | Can be converted into equity shares                    |
+| Non-convertible   | Cannot be converted into equity shares                 |
 
 ## 34. Debentures
 
@@ -576,17 +576,17 @@ They receive fixed interest at specified intervals and get repayment at a future
 
 ## 35. Types of Debentures
 
-| Type | Meaning |
-|---|---|
-| Secured | Charge is created on company assets |
-| Unsecured | No charge on assets |
-| Registered | Holder name recorded in company register |
-| Bearer | Transferable by delivery |
-| Convertible | Can be converted into equity shares |
-| Non-convertible | Cannot be converted into equity shares |
-| First | Repaid before other debentures |
-| Second | Repaid after first debentures |
-| Zero interest | No explicit interest; return comes through discount or redemption difference |
+| Type            | Meaning                                                                      |
+| --------------- | ---------------------------------------------------------------------------- |
+| Secured         | Charge is created on company assets                                          |
+| Unsecured       | No charge on assets                                                          |
+| Registered      | Holder name recorded in company register                                     |
+| Bearer          | Transferable by delivery                                                     |
+| Convertible     | Can be converted into equity shares                                          |
+| Non-convertible | Cannot be converted into equity shares                                       |
+| First           | Repaid before other debentures                                               |
+| Second          | Repaid after first debentures                                                |
+| Zero interest   | No explicit interest; return comes through discount or redemption difference |
 
 ## 36. Commercial Banks
 
@@ -709,12 +709,12 @@ It is a depository receipt issued by a company in the USA. It is bought and sold
 
 ### 43.1 GDR and ADR Difference
 
-| Basis | GDR | ADR |
-|---|---|---|
-| Market | Foreign markets generally | USA market |
-| Investor base | International investors | American investors |
-| Listing | Foreign stock exchange | US stock exchange |
-| Similarity | Represents shares of issuing company | Represents shares of issuing company |
+| Basis         | GDR                                  | ADR                                  |
+| ------------- | ------------------------------------ | ------------------------------------ |
+| Market        | Foreign markets generally            | USA market                           |
+| Investor base | International investors              | American investors                   |
+| Listing       | Foreign stock exchange               | US stock exchange                    |
+| Similarity    | Represents shares of issuing company | Represents shares of issuing company |
 
 ## 44. Indian Depository Receipt
 
@@ -830,16 +830,16 @@ Interest on debentures and loans is generally deductible as expense for tax purp
 
 ## 57. Quick Matching Guide
 
-| Business need | Suitable options |
-|---|---|
-| Day-to-day cash | Trade credit, bank credit, factoring |
-| Seasonal inventory | Trade credit, bank credit, commercial paper |
-| Large expansion | Equity, debentures, financial institutions, retained earnings |
-| Modern machinery | Lease financing, term loan, debentures |
-| No control dilution | Debentures, loans, public deposits, retained earnings |
-| No fixed interest burden | Equity, retained earnings |
-| Investor wants steady income | Preference shares, debentures |
-| International funding | GDR, ADR, FCCB, foreign currency loans |
+| Business need                | Suitable options                                              |
+| ---------------------------- | ------------------------------------------------------------- |
+| Day-to-day cash              | Trade credit, bank credit, factoring                          |
+| Seasonal inventory           | Trade credit, bank credit, commercial paper                   |
+| Large expansion              | Equity, debentures, financial institutions, retained earnings |
+| Modern machinery             | Lease financing, term loan, debentures                        |
+| No control dilution          | Debentures, loans, public deposits, retained earnings         |
+| No fixed interest burden     | Equity, retained earnings                                     |
+| Investor wants steady income | Preference shares, debentures                                 |
+| International funding        | GDR, ADR, FCCB, foreign currency loans                        |
 
 ## 58. Short Answer Practice
 
@@ -891,17 +891,17 @@ Retained earnings are permanent, internally generated, cost no explicit interest
 
 ## 60. Common Mistakes and Corrections
 
-| Mistake | Correct understanding |
-|---|---|
-| Working capital means only cash | It includes current assets and funds for day-to-day operations |
-| Equity shareholders get fixed dividend | Equity dividend depends on profit and board decision |
-| Debenture holders are owners | They are creditors |
-| Preference shareholders always have voting rights | Their voting rights are generally limited |
-| Retained earnings are free in every sense | They have opportunity cost |
-| Trade credit has no cost | It may be costly through higher price or lost discount |
-| Commercial paper can be issued by any firm | Usually only highly rated firms can issue it |
-| Lease means ownership transfer | Lease gives right to use asset, not ownership |
-| Public deposits dilute control | Depositors do not get voting rights |
+| Mistake                                           | Correct understanding                                          |
+| ------------------------------------------------- | -------------------------------------------------------------- |
+| Working capital means only cash                   | It includes current assets and funds for day-to-day operations |
+| Equity shareholders get fixed dividend            | Equity dividend depends on profit and board decision           |
+| Debenture holders are owners                      | They are creditors                                             |
+| Preference shareholders always have voting rights | Their voting rights are generally limited                      |
+| Retained earnings are free in every sense         | They have opportunity cost                                     |
+| Trade credit has no cost                          | It may be costly through higher price or lost discount         |
+| Commercial paper can be issued by any firm        | Usually only highly rated firms can issue it                   |
+| Lease means ownership transfer                    | Lease gives right to use asset, not ownership                  |
+| Public deposits dilute control                    | Depositors do not get voting rights                            |
 
 ## 61. Important One-Liners
 
@@ -928,33 +928,33 @@ Retained earnings are permanent, internally generated, cost no explicit interest
 
 ## 62. Glossary
 
-| Term | Meaning |
-|---|---|
-| Business finance | Funds required for business operations |
-| Fixed capital | Funds invested in fixed assets |
-| Working capital | Funds needed for daily operations |
-| Owner funds | Funds provided by owners |
-| Borrowed funds | Funds raised through loans or borrowings |
-| Internal funds | Funds generated within business |
-| External funds | Funds raised from outside parties |
-| Retained earnings | Profit kept in business |
-| Trade credit | Credit given by one trader to another |
-| Factoring | Selling or managing receivables through a factor |
-| Recourse factoring | Bad debt risk remains with client |
-| Non-recourse factoring | Factor bears credit risk |
-| Lease | Right to use asset for rent |
-| Lessor | Owner of leased asset |
-| Lessee | User of leased asset |
-| Public deposits | Deposits raised directly from public |
-| Commercial paper | Unsecured short-term money market instrument |
-| Equity share | Ownership share with residual claim |
-| Preference share | Share with preferential dividend and capital rights |
-| Debenture | Debt instrument issued by company |
-| GDR | Global Depository Receipt |
-| ADR | American Depository Receipt |
-| IDR | Indian Depository Receipt |
-| FCCB | Foreign Currency Convertible Bond |
-| ICD | Inter Corporate Deposit |
+| Term                   | Meaning                                             |
+| ---------------------- | --------------------------------------------------- |
+| Business finance       | Funds required for business operations              |
+| Fixed capital          | Funds invested in fixed assets                      |
+| Working capital        | Funds needed for daily operations                   |
+| Owner funds            | Funds provided by owners                            |
+| Borrowed funds         | Funds raised through loans or borrowings            |
+| Internal funds         | Funds generated within business                     |
+| External funds         | Funds raised from outside parties                   |
+| Retained earnings      | Profit kept in business                             |
+| Trade credit           | Credit given by one trader to another               |
+| Factoring              | Selling or managing receivables through a factor    |
+| Recourse factoring     | Bad debt risk remains with client                   |
+| Non-recourse factoring | Factor bears credit risk                            |
+| Lease                  | Right to use asset for rent                         |
+| Lessor                 | Owner of leased asset                               |
+| Lessee                 | User of leased asset                                |
+| Public deposits        | Deposits raised directly from public                |
+| Commercial paper       | Unsecured short-term money market instrument        |
+| Equity share           | Ownership share with residual claim                 |
+| Preference share       | Share with preferential dividend and capital rights |
+| Debenture              | Debt instrument issued by company                   |
+| GDR                    | Global Depository Receipt                           |
+| ADR                    | American Depository Receipt                         |
+| IDR                    | Indian Depository Receipt                           |
+| FCCB                   | Foreign Currency Convertible Bond                   |
+| ICD                    | Inter Corporate Deposit                             |
 
 ## 63. Final Revision Sheet
 

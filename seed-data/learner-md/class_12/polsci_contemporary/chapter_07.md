@@ -22,24 +22,24 @@ The main point is that globalisation is not one simple thing. It is multi-dimens
 
 ## Key Terms
 
-| Term | Meaning | Why it matters |
-|---|---|---|
-| Globalisation | Worldwide interconnectedness created by cross-border flows | Core concept |
-| Flow | Movement of ideas, capital, commodities, services, or people | Building block of globalisation |
-| Capital | Money or investment that can move across borders | Important economic flow |
-| Commodity | Good traded across borders | Shows market integration |
-| Services | Work provided across distance, such as call centre services | Modern form of globalisation |
-| State capacity | Ability of a government to perform functions and make decisions | Debated under globalisation |
-| Welfare state | State that provides social and economic welfare functions | Often reduced under market-led reform |
-| Minimalist state | State focused mainly on law, order, and security | Often associated with globalisation |
-| MNC | Multinational company operating in more than one country | Major actor in economic globalisation |
-| Cultural homogenisation | Growth of a uniform culture under global influence | Major cultural concern |
-| Cultural heterogenisation | Creation of new differences and mixtures through cultural exchange | Counter-effect of globalisation |
-| Westernisation | Spread of Western cultural forms | Often confused with globalisation |
-| Protectionism | Policy of protecting domestic producers from foreign competition | India's early post-independence approach |
-| Liberalisation | Reducing state controls and opening markets | Part of India's 1991 reforms |
-| Deregulation | Reducing government restrictions on economic activity | Economic globalisation policy |
-| WSF | World Social Forum | Platform for movements opposing neo-liberal globalisation |
+| Term                      | Meaning                                                            | Why it matters                                            |
+| ------------------------- | ------------------------------------------------------------------ | --------------------------------------------------------- |
+| Globalisation             | Worldwide interconnectedness created by cross-border flows         | Core concept                                              |
+| Flow                      | Movement of ideas, capital, commodities, services, or people       | Building block of globalisation                           |
+| Capital                   | Money or investment that can move across borders                   | Important economic flow                                   |
+| Commodity                 | Good traded across borders                                         | Shows market integration                                  |
+| Services                  | Work provided across distance, such as call centre services        | Modern form of globalisation                              |
+| State capacity            | Ability of a government to perform functions and make decisions    | Debated under globalisation                               |
+| Welfare state             | State that provides social and economic welfare functions          | Often reduced under market-led reform                     |
+| Minimalist state          | State focused mainly on law, order, and security                   | Often associated with globalisation                       |
+| MNC                       | Multinational company operating in more than one country           | Major actor in economic globalisation                     |
+| Cultural homogenisation   | Growth of a uniform culture under global influence                 | Major cultural concern                                    |
+| Cultural heterogenisation | Creation of new differences and mixtures through cultural exchange | Counter-effect of globalisation                           |
+| Westernisation            | Spread of Western cultural forms                                   | Often confused with globalisation                         |
+| Protectionism             | Policy of protecting domestic producers from foreign competition   | India's early post-independence approach                  |
+| Liberalisation            | Reducing state controls and opening markets                        | Part of India's 1991 reforms                              |
+| Deregulation              | Reducing government restrictions on economic activity              | Economic globalisation policy                             |
+| WSF                       | World Social Forum                                                 | Platform for movements opposing neo-liberal globalisation |
 
 ## 1. The Chapter In One Sentence
 
@@ -811,12 +811,12 @@ The key question is not whether globalisation creates change, but who controls t
 
 ## 62. Comparing Dimensions Of Globalisation
 
-| Dimension | Main changes | Main debate |
-|---|---|---|
-| Political | State capacity, sovereignty, MNC influence, technology | Does the state weaken or strengthen? |
-| Economic | Trade, capital, services, ideas, unequal labour mobility | Growth or inequality? |
-| Cultural | Food, clothes, media, values, identity | Homogenisation or heterogenisation? |
-| Indian experience | Protectionism, 1991 reforms, IT, foreign investment, protests | Who gains and who loses? |
+| Dimension         | Main changes                                                  | Main debate                          |
+| ----------------- | ------------------------------------------------------------- | ------------------------------------ |
+| Political         | State capacity, sovereignty, MNC influence, technology        | Does the state weaken or strengthen? |
+| Economic          | Trade, capital, services, ideas, unequal labour mobility      | Growth or inequality?                |
+| Cultural          | Food, clothes, media, values, identity                        | Homogenisation or heterogenisation?  |
+| Indian experience | Protectionism, 1991 reforms, IT, foreign investment, protests | Who gains and who loses?             |
 
 ## 63. Common Student Confusions
 

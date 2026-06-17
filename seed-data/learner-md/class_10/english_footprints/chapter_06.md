@@ -1,35 +1,36 @@
 # Chapter 6: The Making of a Scientist
+
 ### NCERT Class 10 - English Footprints
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 10 |
-| **Subject** | English Footprints |
-| **Chapter** | 6 |
-| **Text** | "The Making of a Scientist" by Robert W. Peterson |
-| **Textbook Pages** | 32-38 |
-| **Genre** | Biographical science profile |
-| **Core Theme** | Curiosity, observation, experiments, persistence, mentorship, competition, scientific method, and the making of a successful researcher. |
-| **Main Skills** | Biography reading, timeline building, cause-effect analysis, project summary, scientific vocabulary, and reflective discussion. |
+| Detail             | Learner-Friendly Information                                                                                                             |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| **Class**          | 10                                                                                                                                       |
+| **Subject**        | English Footprints                                                                                                                       |
+| **Chapter**        | 6                                                                                                                                        |
+| **Text**           | "The Making of a Scientist" by Robert W. Peterson                                                                                        |
+| **Textbook Pages** | 32-38                                                                                                                                    |
+| **Genre**          | Biographical science profile                                                                                                             |
+| **Core Theme**     | Curiosity, observation, experiments, persistence, mentorship, competition, scientific method, and the making of a successful researcher. |
+| **Main Skills**    | Biography reading, timeline building, cause-effect analysis, project summary, scientific vocabulary, and reflective discussion.          |
 
 ---
 
 ## Section Structure
 
-| Unit | Text / Skill | Main Learning Focus |
-|---|---|---|
-| **6A** | Early Life | Collecting, curiosity, only child, and mother's support. |
-| **6B** | Turning Point Book | The Travels of Monarch X and butterfly tagging. |
-| **6C** | First Science Fair Failure | Difference between display and real experiment. |
-| **6D** | Projects and Experiments | Caterpillar disease, mimicry, gold spots, hormones, cells, and DNA theory. |
-| **6E** | Mentors and Qualities | Mother, Dr Urquhart, Mr Weiherer, curiosity, hard work, and right competition. |
-| **6F** | Thinking About It | What makes a scientist and how Ebright's work connects to cells and DNA. |
-| **6G** | Talk About It | Children's questions, DNA fingerprinting, honeybees, and raindrops. |
-| **6H** | Vocabulary and Style | Science terms, biography structure, and revision tools. |
+| Unit   | Text / Skill               | Main Learning Focus                                                            |
+| ------ | -------------------------- | ------------------------------------------------------------------------------ |
+| **6A** | Early Life                 | Collecting, curiosity, only child, and mother's support.                       |
+| **6B** | Turning Point Book         | The Travels of Monarch X and butterfly tagging.                                |
+| **6C** | First Science Fair Failure | Difference between display and real experiment.                                |
+| **6D** | Projects and Experiments   | Caterpillar disease, mimicry, gold spots, hormones, cells, and DNA theory.     |
+| **6E** | Mentors and Qualities      | Mother, Dr Urquhart, Mr Weiherer, curiosity, hard work, and right competition. |
+| **6F** | Thinking About It          | What makes a scientist and how Ebright's work connects to cells and DNA.       |
+| **6G** | Talk About It              | Children's questions, DNA fingerprinting, honeybees, and raindrops.            |
+| **6H** | Vocabulary and Style       | Science terms, biography structure, and revision tools.                        |
 
 ---
 
@@ -37,38 +38,38 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Retell Ebright's journey** | Explain how a butterfly collector became a scientist. |
-| **Identify turning points** | Show how a book, a failed fair, and mentors shaped him. |
-| **Understand scientific method** | Distinguish display from experiment. |
-| **Track research progress** | Summarise Ebright's projects from butterflies to cell theory. |
-| **Discuss qualities** | Explain curiosity, persistence, hard work, and right ambition. |
-| **Connect science concepts** | Relate butterflies, hormones, cells, and DNA. |
-| **Use vocabulary** | Understand entomology, pupa, monarch, viceroy, heredity, DNA, and eureka. |
-| **Reflect personally** | Think about fields you would like to explore through projects. |
+| Outcome                          | You Should Be Able To...                                                  |
+| -------------------------------- | ------------------------------------------------------------------------- |
+| **Retell Ebright's journey**     | Explain how a butterfly collector became a scientist.                     |
+| **Identify turning points**      | Show how a book, a failed fair, and mentors shaped him.                   |
+| **Understand scientific method** | Distinguish display from experiment.                                      |
+| **Track research progress**      | Summarise Ebright's projects from butterflies to cell theory.             |
+| **Discuss qualities**            | Explain curiosity, persistence, hard work, and right ambition.            |
+| **Connect science concepts**     | Relate butterflies, hormones, cells, and DNA.                             |
+| **Use vocabulary**               | Understand entomology, pupa, monarch, viceroy, heredity, DNA, and eureka. |
+| **Reflect personally**           | Think about fields you would like to explore through projects.            |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Scientist** | Person who studies the natural world through observation, questions, experiments, and evidence. |
-| **Curiosity** | Strong desire to know or understand. |
-| **Monarch butterfly** | Butterfly species studied by Ebright, known for migration. |
-| **Viceroy butterfly** | Butterfly that resembles the monarch. |
-| **Migration** | Seasonal movement from one region to another. |
-| **Tagging** | Attaching a small marker to an animal for research tracking. |
-| **Caterpillar** | Larval stage of butterfly or moth. |
-| **Pupa** | Stage between caterpillar and adult butterfly. |
-| **Hormone** | Chemical messenger that affects growth or body processes. |
-| **Cell** | Basic structural and functional unit of living organisms. |
-| **DNA** | Genetic material in cells; controls heredity and many cell functions. |
-| **Heredity** | Passing of traits from parents to offspring. |
-| **Entomology** | Study of insects. |
-| **Eureka** | Cry of triumph at discovery. |
-| **Canoeist** | Person who paddles a canoe. |
+| Term                  | Meaning                                                                                         |
+| --------------------- | ----------------------------------------------------------------------------------------------- |
+| **Scientist**         | Person who studies the natural world through observation, questions, experiments, and evidence. |
+| **Curiosity**         | Strong desire to know or understand.                                                            |
+| **Monarch butterfly** | Butterfly species studied by Ebright, known for migration.                                      |
+| **Viceroy butterfly** | Butterfly that resembles the monarch.                                                           |
+| **Migration**         | Seasonal movement from one region to another.                                                   |
+| **Tagging**           | Attaching a small marker to an animal for research tracking.                                    |
+| **Caterpillar**       | Larval stage of butterfly or moth.                                                              |
+| **Pupa**              | Stage between caterpillar and adult butterfly.                                                  |
+| **Hormone**           | Chemical messenger that affects growth or body processes.                                       |
+| **Cell**              | Basic structural and functional unit of living organisms.                                       |
+| **DNA**               | Genetic material in cells; controls heredity and many cell functions.                           |
+| **Heredity**          | Passing of traits from parents to offspring.                                                    |
+| **Entomology**        | Study of insects.                                                                               |
+| **Eureka**            | Cry of triumph at discovery.                                                                    |
+| **Canoeist**          | Person who paddles a canoe.                                                                     |
 
 ---
 
@@ -94,12 +95,12 @@ Ebright grew up north of Reading, Pennsylvania. He was an only child. Since he d
 
 ## What Did He Collect?
 
-| Collection | What It Shows |
-|---|---|
-| **Butterflies** | Love of nature and patience. |
-| **Rocks** | Interest in natural objects. |
-| **Fossils** | Curiosity about past life. |
-| **Coins** | Habit of organised collecting. |
+| Collection                    | What It Shows                  |
+| ----------------------------- | ------------------------------ |
+| **Butterflies**               | Love of nature and patience.   |
+| **Rocks**                     | Interest in natural objects.   |
+| **Fossils**                   | Curiosity about past life.     |
+| **Coins**                     | Habit of organised collecting. |
 | **Astronomical observations** | Wide curiosity beyond insects. |
 
 ## His Early Qualities
@@ -118,14 +119,14 @@ Ebright had:
 
 Ebright's mother played a major role.
 
-| Support | Example |
-|---|---|
-| **Emotional support** | Spent time with him and encouraged learning. |
-| **Equipment** | Bought telescopes, microscopes, cameras, and mounting materials. |
-| **Learning activities** | Found work for him when he had nothing to do. |
-| **Trips** | Took him places that widened interest. |
-| **Scientific contact** | Wrote to Dr Frederick A. Urquhart for butterfly tagging. |
-| **Companionship** | Worked with him at the dining-room table. |
+| Support                 | Example                                                          |
+| ----------------------- | ---------------------------------------------------------------- |
+| **Emotional support**   | Spent time with him and encouraged learning.                     |
+| **Equipment**           | Bought telescopes, microscopes, cameras, and mounting materials. |
+| **Learning activities** | Found work for him when he had nothing to do.                    |
+| **Trips**               | Took him places that widened interest.                           |
+| **Scientific contact**  | Wrote to Dr Frederick A. Urquhart for butterfly tagging.         |
+| **Companionship**       | Worked with him at the dining-room table.                        |
 
 His mother did not force curiosity. She fed it.
 
@@ -143,12 +144,12 @@ The book explained monarch butterfly migration and invited readers to help scien
 
 This changed Ebright's hobby into scientific participation.
 
-| Before the Book | After the Book |
-|---|---|
+| Before the Book                      | After the Book                    |
+| ------------------------------------ | --------------------------------- |
 | Collecting butterflies for interest. | Tagging butterflies for research. |
-| Personal hobby. | Connection to scientists. |
-| Static collection. | Study of migration. |
-| Curiosity without formal project. | Curiosity linked to real data. |
+| Personal hobby.                      | Connection to scientists.         |
+| Static collection.                   | Study of migration.               |
+| Curiosity without formal project.    | Curiosity linked to real data.    |
 
 ## Butterfly Tagging
 
@@ -187,12 +188,12 @@ Ebright entered a county science fair with slides of frog tissues shown under a 
 
 He learned that real science is not just a neat display. The winning projects involved experiments.
 
-| Display | Experiment |
-|---|---|
-| Shows information or objects. | Tests a question. |
-| Can be attractive. | Produces evidence. |
-| May not prove anything. | Helps answer a problem. |
-| Often descriptive. | Investigative. |
+| Display                       | Experiment              |
+| ----------------------------- | ----------------------- |
+| Shows information or objects. | Tests a question.       |
+| Can be attractive.            | Produces evidence.      |
+| May not prove anything.       | Helps answer a problem. |
+| Often descriptive.            | Investigative.          |
 
 ## Why the Loss Was Important
 
@@ -206,15 +207,15 @@ Failure became useful because he learned from it.
 
 ## Project Timeline
 
-| Stage | Project / Experiment | Result |
-|---|---|---|
-| **Eighth grade** | Tried to find cause of viral disease killing monarch caterpillars. | No clear results, but he won because he attempted real experiment. |
-| **Next year** | Tested whether birds eat monarch butterflies, related to viceroy mimicry. | Won first in zoology division and third overall at county fair. |
-| **Second year high school** | Studied purpose of twelve gold spots on monarch pupa. | Built device showing spots produced necessary hormone. |
-| **High school junior** | Continued experiments on monarch pupa. | Won first place at International Science Fair. |
-| **Senior year** | Grew monarch wing cells in culture and tested hormone effect. | Showed cells needed hormone to divide and develop into normal wing scales. |
-| **After graduation / Harvard** | Identified chemical structure of hormone. | Advanced understanding of insect hormones. |
-| **College research** | Used findings and X-ray photos to form theory about cell life. | Paper published with roommate James R. Wong. |
+| Stage                          | Project / Experiment                                                      | Result                                                                     |
+| ------------------------------ | ------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| **Eighth grade**               | Tried to find cause of viral disease killing monarch caterpillars.        | No clear results, but he won because he attempted real experiment.         |
+| **Next year**                  | Tested whether birds eat monarch butterflies, related to viceroy mimicry. | Won first in zoology division and third overall at county fair.            |
+| **Second year high school**    | Studied purpose of twelve gold spots on monarch pupa.                     | Built device showing spots produced necessary hormone.                     |
+| **High school junior**         | Continued experiments on monarch pupa.                                    | Won first place at International Science Fair.                             |
+| **Senior year**                | Grew monarch wing cells in culture and tested hormone effect.             | Showed cells needed hormone to divide and develop into normal wing scales. |
+| **After graduation / Harvard** | Identified chemical structure of hormone.                                 | Advanced understanding of insect hormones.                                 |
+| **College research**           | Used findings and X-ray photos to form theory about cell life.            | Paper published with roommate James R. Wong.                               |
 
 ## Caterpillar Disease Project
 
@@ -230,12 +231,12 @@ Ebright tested whether birds would eat monarchs. His results did not fully suppo
 
 ## Monarch vs Viceroy
 
-| Feature | Monarch | Viceroy |
-|---|---|---|
-| **Appearance** | Orange and black pattern. | Similar orange and black pattern. |
-| **Hind wing mark** | Usually lacks the distinct black line across hind wings. | Has a black line across the hind wings. |
-| **Size** | Usually larger. | Usually smaller. |
-| **Scientific interest** | Often avoided by predators due to taste/toxins. | Resembles monarch, possibly gaining protection. |
+| Feature                 | Monarch                                                  | Viceroy                                         |
+| ----------------------- | -------------------------------------------------------- | ----------------------------------------------- |
+| **Appearance**          | Orange and black pattern.                                | Similar orange and black pattern.               |
+| **Hind wing mark**      | Usually lacks the distinct black line across hind wings. | Has a black line across the hind wings.         |
+| **Size**                | Usually larger.                                          | Usually smaller.                                |
+| **Scientific interest** | Often avoided by predators due to taste/toxins.          | Resembles monarch, possibly gaining protection. |
 
 ## Gold Spots on Monarch Pupa
 
@@ -257,12 +258,12 @@ Ebright and James R. Wong worked through the night making drawings and models to
 
 ## Important People in Ebright's Development
 
-| Person | Role |
-|---|---|
-| **Mother** | Encouraged curiosity, bought equipment, spent time, contacted Dr Urquhart. |
-| **Dr Frederick A. Urquhart** | Connected Ebright with butterfly migration research and experiment ideas. |
-| **Richard A. Weiherer** | Social studies teacher who opened Ebright's mind to new ideas. |
-| **James R. Wong** | College roommate and co-author of the cell theory paper. |
+| Person                       | Role                                                                       |
+| ---------------------------- | -------------------------------------------------------------------------- |
+| **Mother**                   | Encouraged curiosity, bought equipment, spent time, contacted Dr Urquhart. |
+| **Dr Frederick A. Urquhart** | Connected Ebright with butterfly migration research and experiment ideas.  |
+| **Richard A. Weiherer**      | Social studies teacher who opened Ebright's mind to new ideas.             |
+| **James R. Wong**            | College roommate and co-author of the cell theory paper.                   |
 
 ## Beyond Science
 
@@ -280,18 +281,18 @@ This shows that scientific excellence can grow alongside broad interests.
 
 ## Qualities That Make a Scientist
 
-| Quality | How Ebright Shows It |
-|---|---|
-| **Curiosity** | Starts with collecting and keeps asking questions. |
-| **Observation** | Studies butterflies closely. |
-| **Persistence** | Continues after failure at the science fair. |
-| **Experimentation** | Tests ideas, not just displays facts. |
-| **Hard work** | Spends long hours on research. |
-| **Competitive spirit** | Wants to do the best job possible. |
-| **Right ambition** | Competes for excellence, not just prizes. |
-| **Mentor-seeking** | Writes to Dr Urquhart and learns from teachers. |
-| **Open mind** | Accepts new ideas from books and teachers. |
-| **Scientific discipline** | Uses evidence and instruments. |
+| Quality                   | How Ebright Shows It                               |
+| ------------------------- | -------------------------------------------------- |
+| **Curiosity**             | Starts with collecting and keeps asking questions. |
+| **Observation**           | Studies butterflies closely.                       |
+| **Persistence**           | Continues after failure at the science fair.       |
+| **Experimentation**       | Tests ideas, not just displays facts.              |
+| **Hard work**             | Spends long hours on research.                     |
+| **Competitive spirit**    | Wants to do the best job possible.                 |
+| **Right ambition**        | Competes for excellence, not just prizes.          |
+| **Mentor-seeking**        | Writes to Dr Urquhart and learns from teachers.    |
+| **Open mind**             | Accepts new ideas from books and teachers.         |
+| **Scientific discipline** | Uses evidence and instruments.                     |
 
 ## Winning for the Right Reasons
 
@@ -321,13 +322,13 @@ Becoming a scientist does not simply mean reading many books. Books provide know
 
 The same idea applies to other fields:
 
-| Field | Beyond Reading |
-|---|---|
-| **Scientist** | Experiments and observations. |
+| Field         | Beyond Reading                                  |
+| ------------- | ----------------------------------------------- |
+| **Scientist** | Experiments and observations.                   |
 | **Economist** | Data, models, field realities, policy analysis. |
-| **Historian** | Sources, evidence, interpretation, context. |
-| **Artist** | Practice, observation, technique, imagination. |
-| **Engineer** | Design, testing, problem-solving. |
+| **Historian** | Sources, evidence, interpretation, context.     |
+| **Artist**    | Practice, observation, technique, imagination.  |
+| **Engineer**  | Design, testing, problem-solving.               |
 
 ## 2. Ebright's Work in Light of Cells and DNA
 
@@ -418,25 +419,25 @@ Examples:
 
 ## Glossary from the Chapter
 
-| Word | Meaning |
-|---|---|
-| **Leagues** | Groups of sports teams playing among themselves. |
-| **County** | Region or administrative area. |
-| **Starling** | Common bird known for mimicry. |
-| **Entomology** | Study of insects. |
-| **Eureka** | Cry of success at discovery. |
-| **Canoeist** | Person who paddles a canoe. |
+| Word           | Meaning                                          |
+| -------------- | ------------------------------------------------ |
+| **Leagues**    | Groups of sports teams playing among themselves. |
+| **County**     | Region or administrative area.                   |
+| **Starling**   | Common bird known for mimicry.                   |
+| **Entomology** | Study of insects.                                |
+| **Eureka**     | Cry of success at discovery.                     |
+| **Canoeist**   | Person who paddles a canoe.                      |
 
 ## Science Vocabulary
 
-| Term | Meaning |
-|---|---|
-| **Species** | Group of living organisms that can breed with one another. |
-| **Subspecies** | Subdivision within a species. |
-| **Migration** | Seasonal movement. |
-| **Culture** | Growing cells or organisms in controlled conditions. |
-| **Molecule** | Smallest unit of a chemical substance that keeps its properties. |
-| **Blueprint** | Plan or instruction pattern; DNA is called blueprint for life. |
+| Term           | Meaning                                                          |
+| -------------- | ---------------------------------------------------------------- |
+| **Species**    | Group of living organisms that can breed with one another.       |
+| **Subspecies** | Subdivision within a species.                                    |
+| **Migration**  | Seasonal movement.                                               |
+| **Culture**    | Growing cells or organisms in controlled conditions.             |
+| **Molecule**   | Smallest unit of a chemical substance that keeps its properties. |
+| **Blueprint**  | Plan or instruction pattern; DNA is called blueprint for life.   |
 
 ## Biography Structure
 
@@ -454,15 +455,15 @@ The chapter follows a clear biography pattern:
 
 ## Character Study: Richard Ebright
 
-| Trait | Evidence |
-|---|---|
-| **Curious** | Collects butterflies, rocks, fossils, coins, and studies stars. |
-| **Hard-working** | Raises thousands of monarchs and works long hours. |
-| **Persistent** | Continues after losing at the science fair. |
-| **Experimental** | Designs projects to test questions. |
-| **Competitive in a healthy way** | Wants to do the best job. |
-| **Well-rounded** | Debates, speaks publicly, canoes, photographs nature. |
-| **Grateful to mentors** | Acknowledges influence of mother and teachers. |
+| Trait                            | Evidence                                                        |
+| -------------------------------- | --------------------------------------------------------------- |
+| **Curious**                      | Collects butterflies, rocks, fossils, coins, and studies stars. |
+| **Hard-working**                 | Raises thousands of monarchs and works long hours.              |
+| **Persistent**                   | Continues after losing at the science fair.                     |
+| **Experimental**                 | Designs projects to test questions.                             |
+| **Competitive in a healthy way** | Wants to do the best job.                                       |
+| **Well-rounded**                 | Debates, speaks publicly, canoes, photographs nature.           |
+| **Grateful to mentors**          | Acknowledges influence of mother and teachers.                  |
 
 ---
 
@@ -525,4 +526,4 @@ The chapter follows a clear biography pattern:
 
 ---
 
-*Source: NCERT Class 10 - English Footprints, Chapter 6 raw file. Learner-facing version manually rewritten from the extracted content of "The Making of a Scientist".*
+_Source: NCERT Class 10 - English Footprints, Chapter 6 raw file. Learner-facing version manually rewritten from the extracted content of "The Making of a Scientist"._

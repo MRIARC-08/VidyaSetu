@@ -1,4 +1,5 @@
 # Chapter 9: Some Applications of Trigonometry
+
 ### NCERT Class 10 - Maths
 
 This learner version rewrites the raw chapter into a clear heights-and-distances guide. It explains the language of observation problems, gives a dependable solving method, and works through all exercise questions step by step.
@@ -7,16 +8,16 @@ This learner version rewrites the raw chapter into a clear heights-and-distances
 
 ## Chapter at a Glance
 
-| Item | Details |
-|---|---|
-| Class | 10 |
-| Subject | Maths |
-| Chapter | 9 |
-| Chapter name | Some Applications of Trigonometry |
-| Main topic | Heights and distances |
-| Main triangle type | Right triangle |
-| Main ratios used | Mostly `tan`, sometimes `sin` and `cos` |
-| Core skill | Convert a real-life situation into a right triangle and solve it |
+| Item               | Details                                                          |
+| ------------------ | ---------------------------------------------------------------- |
+| Class              | 10                                                               |
+| Subject            | Maths                                                            |
+| Chapter            | 9                                                                |
+| Chapter name       | Some Applications of Trigonometry                                |
+| Main topic         | Heights and distances                                            |
+| Main triangle type | Right triangle                                                   |
+| Main ratios used   | Mostly `tan`, sometimes `sin` and `cos`                          |
+| Core skill         | Convert a real-life situation into a right triangle and solve it |
 
 ---
 
@@ -37,15 +38,15 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Line of sight | The line from the observer's eye to the object being viewed |
-| Horizontal line | A line parallel to the ground through the observer's eye |
-| Angle of elevation | Angle made by the line of sight with the horizontal when the object is above the observer |
+| Term                | Meaning                                                                                   |
+| ------------------- | ----------------------------------------------------------------------------------------- |
+| Line of sight       | The line from the observer's eye to the object being viewed                               |
+| Horizontal line     | A line parallel to the ground through the observer's eye                                  |
+| Angle of elevation  | Angle made by the line of sight with the horizontal when the object is above the observer |
 | Angle of depression | Angle made by the line of sight with the horizontal when the object is below the observer |
-| Height | A vertical distance |
-| Distance from foot | A horizontal distance from the base of an object |
-| No slack string | The string is treated as a straight line segment |
+| Height              | A vertical distance                                                                       |
+| Distance from foot  | A horizontal distance from the base of an object                                          |
+| No slack string     | The string is treated as a straight line segment                                          |
 
 ---
 
@@ -101,13 +102,13 @@ In most height-and-distance questions, the right triangle has:
 
 ## Ratio Choice Table
 
-| Given and required | Best ratio |
-|---|---|
-| Height and horizontal distance | `tan` |
-| Height and slant length | `sin` |
-| Horizontal distance and slant length | `cos` |
+| Given and required                             | Best ratio     |
+| ---------------------------------------------- | -------------- |
+| Height and horizontal distance                 | `tan`          |
+| Height and slant length                        | `sin`          |
+| Horizontal distance and slant length           | `cos`          |
 | Need horizontal distance from height and angle | `tan` or `cot` |
-| Need height from horizontal distance and angle | `tan` |
+| Need height from horizontal distance and angle | `tan`          |
 
 ## Standard Values Used Often
 
@@ -157,17 +158,17 @@ Use this method for nearly every problem in this chapter:
 
 ## Common Diagram Translations
 
-| Situation | Mathematical translation |
-|---|---|
-| Top of tower seen from ground | Right triangle with tower as vertical side |
-| Rope tied from top of pole to ground | Rope is hypotenuse |
-| Ladder leaning against pole | Ladder is hypotenuse |
-| Shadow length | Shadow is horizontal distance |
-| Observer has height | Work from eye level, then add observer height |
-| Statue on pedestal | Total height = pedestal + statue |
-| Tower on building | Total height = building + tower |
-| Two angles from same point | Usually two right triangles share the same horizontal distance |
-| Object moves horizontally | Height stays same; horizontal distance changes |
+| Situation                            | Mathematical translation                                       |
+| ------------------------------------ | -------------------------------------------------------------- |
+| Top of tower seen from ground        | Right triangle with tower as vertical side                     |
+| Rope tied from top of pole to ground | Rope is hypotenuse                                             |
+| Ladder leaning against pole          | Ladder is hypotenuse                                           |
+| Shadow length                        | Shadow is horizontal distance                                  |
+| Observer has height                  | Work from eye level, then add observer height                  |
+| Statue on pedestal                   | Total height = pedestal + statue                               |
+| Tower on building                    | Total height = building + tower                                |
+| Two angles from same point           | Usually two right triangles share the same horizontal distance |
+| Object moves horizontally            | Height stays same; horizontal distance changes                 |
 
 ---
 
@@ -1286,30 +1287,30 @@ $$
 
 # Unit 9F: Fast Revision Table
 
-| Problem type | Typical equation |
-|---|---|
-| Tower height from distance and elevation | `tan angle = height / distance` |
-| Rope or ladder length | `sin angle = height / slant length` |
-| Shadow length | `tan solar altitude = height / shadow` |
-| Observer height included | Use height difference from eye level |
-| Object on pedestal/building | Total height = base height + object height |
-| Depression from high point | Treat as elevation from lower point |
-| Moving object at same height | Height fixed, horizontal distance changes |
-| Equal poles | Same height gives two equations |
+| Problem type                             | Typical equation                           |
+| ---------------------------------------- | ------------------------------------------ |
+| Tower height from distance and elevation | `tan angle = height / distance`            |
+| Rope or ladder length                    | `sin angle = height / slant length`        |
+| Shadow length                            | `tan solar altitude = height / shadow`     |
+| Observer height included                 | Use height difference from eye level       |
+| Object on pedestal/building              | Total height = base height + object height |
+| Depression from high point               | Treat as elevation from lower point        |
+| Moving object at same height             | Height fixed, horizontal distance changes  |
+| Equal poles                              | Same height gives two equations            |
 
 ---
 
 # Unit 9G: Common Mistakes and Corrections
 
-| Mistake | Why it is wrong | Correct habit |
-|---|---|---|
-| Using full building height when observer has height | The angle starts from eye level | Use height difference |
-| Confusing rope with height | Rope is slanted | Rope is hypotenuse |
-| Treating angle of depression as a new formula | It is handled using parallel lines | Convert to angle of elevation |
-| Forgetting to add pedestal or observer height | Triangle only gives part of height | Add or subtract outside-triangle heights |
-| Using `sin` when height and ground distance are known | `sin` needs hypotenuse | Use `tan` |
-| Assuming farther object has larger angle | Farther object has smaller angle for same height | Compare with geometry |
-| Rounding too early | Can change final exact answer | Keep radicals until the end |
+| Mistake                                               | Why it is wrong                                  | Correct habit                            |
+| ----------------------------------------------------- | ------------------------------------------------ | ---------------------------------------- |
+| Using full building height when observer has height   | The angle starts from eye level                  | Use height difference                    |
+| Confusing rope with height                            | Rope is slanted                                  | Rope is hypotenuse                       |
+| Treating angle of depression as a new formula         | It is handled using parallel lines               | Convert to angle of elevation            |
+| Forgetting to add pedestal or observer height         | Triangle only gives part of height               | Add or subtract outside-triangle heights |
+| Using `sin` when height and ground distance are known | `sin` needs hypotenuse                           | Use `tan`                                |
+| Assuming farther object has larger angle              | Farther object has smaller angle for same height | Compare with geometry                    |
+| Rounding too early                                    | Can change final exact answer                    | Keep radicals until the end              |
 
 ---
 
@@ -1329,4 +1330,3 @@ $$
 7. If the observer has height, subtract eye height from object height before applying trigonometry.
 8. If an object is placed on another object, add the lower height after finding the required part.
 9. Keep exact answers in terms of `\sqrt{3}` unless the question asks for approximation.
-

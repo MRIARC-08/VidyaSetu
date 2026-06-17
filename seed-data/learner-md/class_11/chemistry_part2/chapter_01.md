@@ -1,4 +1,5 @@
 # Chapter 1: Equilibrium
+
 ### NCERT Class 11 - Chemistry Part 2
 
 ---
@@ -24,18 +25,18 @@ If you understand the logic of equilibrium once, the entire chapter becomes conn
 
 ## Chapter at a Glance
 
-| Area | What You Must Understand |
-| --- | --- |
-| Core idea | Equilibrium is dynamic: forward and reverse processes continue at equal rates. |
-| Physical equilibrium | Phase changes and dissolution can reach equilibrium in closed systems. |
-| Chemical equilibrium | Reversible reactions reach a state where concentrations become constant. |
-| Equilibrium constant | `K_c` or `K_p` measures product-favouring or reactant-favouring nature at a fixed temperature. |
-| Reaction quotient | `Q` tells the direction in which a non-equilibrium mixture will move. |
-| Le Chatelier's principle | A system at equilibrium shifts to oppose a disturbance. |
-| Ionic equilibrium | Equilibrium involving ions in solution, especially acids, bases, salts, and sparingly soluble compounds. |
-| pH | Logarithmic measure of hydrogen ion concentration. |
-| Buffers | Solutions that resist pH change on small addition of acid or base. |
-| Solubility product | `K_sp` decides solubility and precipitation of sparingly soluble salts. |
+| Area                     | What You Must Understand                                                                                 |
+| ------------------------ | -------------------------------------------------------------------------------------------------------- |
+| Core idea                | Equilibrium is dynamic: forward and reverse processes continue at equal rates.                           |
+| Physical equilibrium     | Phase changes and dissolution can reach equilibrium in closed systems.                                   |
+| Chemical equilibrium     | Reversible reactions reach a state where concentrations become constant.                                 |
+| Equilibrium constant     | `K_c` or `K_p` measures product-favouring or reactant-favouring nature at a fixed temperature.           |
+| Reaction quotient        | `Q` tells the direction in which a non-equilibrium mixture will move.                                    |
+| Le Chatelier's principle | A system at equilibrium shifts to oppose a disturbance.                                                  |
+| Ionic equilibrium        | Equilibrium involving ions in solution, especially acids, bases, salts, and sparingly soluble compounds. |
+| pH                       | Logarithmic measure of hydrogen ion concentration.                                                       |
+| Buffers                  | Solutions that resist pH change on small addition of acid or base.                                       |
+| Solubility product       | `K_sp` decides solubility and precipitation of sparingly soluble salts.                                  |
 
 ---
 
@@ -43,57 +44,57 @@ If you understand the logic of equilibrium once, the entire chapter becomes conn
 
 By the end of this chapter, you should be able to:
 
-| Skill | You Should Be Able To |
-| --- | --- |
-| Define | Explain dynamic equilibrium, equilibrium mixture, `K_c`, `K_p`, `Q_c`, `K_w`, pH, buffer, `K_sp`. |
-| Write expressions | Write equilibrium constant expressions for homogeneous and heterogeneous equilibria. |
-| Calculate | Use ICE tables, pH equations, `K_p = K_c(RT)^Delta n`, and `K_sp` relations. |
-| Predict | Decide reaction direction using `Q` and equilibrium shift using Le Chatelier's principle. |
-| Compare | Distinguish strong/weak acids, Arrhenius/Bronsted-Lowry/Lewis definitions, and `K_a/K_b/K_sp`. |
-| Apply | Explain Haber process, contact process, common ion effect, salt hydrolysis, and buffer action. |
+| Skill             | You Should Be Able To                                                                             |
+| ----------------- | ------------------------------------------------------------------------------------------------- |
+| Define            | Explain dynamic equilibrium, equilibrium mixture, `K_c`, `K_p`, `Q_c`, `K_w`, pH, buffer, `K_sp`. |
+| Write expressions | Write equilibrium constant expressions for homogeneous and heterogeneous equilibria.              |
+| Calculate         | Use ICE tables, pH equations, `K_p = K_c(RT)^Delta n`, and `K_sp` relations.                      |
+| Predict           | Decide reaction direction using `Q` and equilibrium shift using Le Chatelier's principle.         |
+| Compare           | Distinguish strong/weak acids, Arrhenius/Bronsted-Lowry/Lewis definitions, and `K_a/K_b/K_sp`.    |
+| Apply             | Explain Haber process, contact process, common ion effect, salt hydrolysis, and buffer action.    |
 
 ---
 
 ## Big Map of the Chapter
 
-| Unit | Main Idea | Key Tool |
-| --- | --- | --- |
-| Physical equilibrium | Closed physical systems can become dynamically balanced. | Constant pressure, solubility, or phase condition. |
-| Chemical equilibrium | Reversible reactions reach constant composition. | `K_c` and `K_p`. |
-| Applications of `K` | `K` tells extent, `Q` tells direction, ICE tables give concentrations. | `Q` comparison and algebra. |
-| Equilibrium and Gibbs energy | Thermodynamics explains why equilibrium has a fixed composition. | `Delta G = Delta G^0 + RT ln Q`. |
-| Le Chatelier's principle | Systems respond to disturbance by opposing it. | Concentration, pressure, temperature, catalyst analysis. |
-| Acids and bases | Acid-base reactions are proton or electron-pair transfer equilibria. | Arrhenius, Bronsted-Lowry, Lewis ideas. |
-| pH and weak electrolytes | Weak acids and bases partially ionize. | `K_a`, `K_b`, `K_w`, pH. |
-| Buffers and salts | Ions from salts can affect pH. | Henderson-Hasselbalch equation and hydrolysis. |
-| Solubility equilibria | Sparingly soluble salts dissolve only up to a limit. | `K_sp` and common ion effect. |
+| Unit                         | Main Idea                                                              | Key Tool                                                 |
+| ---------------------------- | ---------------------------------------------------------------------- | -------------------------------------------------------- |
+| Physical equilibrium         | Closed physical systems can become dynamically balanced.               | Constant pressure, solubility, or phase condition.       |
+| Chemical equilibrium         | Reversible reactions reach constant composition.                       | `K_c` and `K_p`.                                         |
+| Applications of `K`          | `K` tells extent, `Q` tells direction, ICE tables give concentrations. | `Q` comparison and algebra.                              |
+| Equilibrium and Gibbs energy | Thermodynamics explains why equilibrium has a fixed composition.       | `Delta G = Delta G^0 + RT ln Q`.                         |
+| Le Chatelier's principle     | Systems respond to disturbance by opposing it.                         | Concentration, pressure, temperature, catalyst analysis. |
+| Acids and bases              | Acid-base reactions are proton or electron-pair transfer equilibria.   | Arrhenius, Bronsted-Lowry, Lewis ideas.                  |
+| pH and weak electrolytes     | Weak acids and bases partially ionize.                                 | `K_a`, `K_b`, `K_w`, pH.                                 |
+| Buffers and salts            | Ions from salts can affect pH.                                         | Henderson-Hasselbalch equation and hydrolysis.           |
+| Solubility equilibria        | Sparingly soluble salts dissolve only up to a limit.                   | `K_sp` and common ion effect.                            |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Equilibrium | State in which opposing processes occur at equal rates. |
-| Dynamic equilibrium | Equilibrium in which microscopic activity continues although measurable properties remain constant. |
-| Equilibrium mixture | Mixture of reactants and products present at equilibrium. |
-| Reversible reaction | Reaction that can proceed in both forward and reverse directions. |
-| `K_c` | Equilibrium constant expressed in terms of molar concentrations. |
-| `K_p` | Equilibrium constant expressed in terms of partial pressures of gases. |
-| Homogeneous equilibrium | Equilibrium in which all reactants and products are in the same phase. |
-| Heterogeneous equilibrium | Equilibrium involving more than one phase. |
-| Reaction quotient, `Q` | Same form as equilibrium constant, but calculated using current concentrations or pressures. |
-| Le Chatelier's principle | If equilibrium is disturbed, the system shifts to reduce the effect of the disturbance. |
-| Electrolyte | Substance that produces ions in solution and conducts electricity. |
-| Strong electrolyte | Electrolyte almost completely ionized in solution. |
-| Weak electrolyte | Electrolyte only partially ionized in solution. |
-| Acid ionization constant, `K_a` | Equilibrium constant for ionization of a weak acid. |
-| Base ionization constant, `K_b` | Equilibrium constant for ionization of a weak base. |
-| Ionic product of water, `K_w` | Product `[H+][OH-]` in water at a given temperature. |
-| pH | Negative logarithm of hydrogen ion concentration in dilute solutions. |
-| Buffer solution | Solution that resists change in pH on dilution or small addition of acid/base. |
-| Solubility product, `K_sp` | Equilibrium constant for dissolution of a sparingly soluble salt. |
-| Common ion effect | Suppression of ionization or solubility by adding an ion already present in equilibrium. |
+| Term                            | Meaning                                                                                             |
+| ------------------------------- | --------------------------------------------------------------------------------------------------- |
+| Equilibrium                     | State in which opposing processes occur at equal rates.                                             |
+| Dynamic equilibrium             | Equilibrium in which microscopic activity continues although measurable properties remain constant. |
+| Equilibrium mixture             | Mixture of reactants and products present at equilibrium.                                           |
+| Reversible reaction             | Reaction that can proceed in both forward and reverse directions.                                   |
+| `K_c`                           | Equilibrium constant expressed in terms of molar concentrations.                                    |
+| `K_p`                           | Equilibrium constant expressed in terms of partial pressures of gases.                              |
+| Homogeneous equilibrium         | Equilibrium in which all reactants and products are in the same phase.                              |
+| Heterogeneous equilibrium       | Equilibrium involving more than one phase.                                                          |
+| Reaction quotient, `Q`          | Same form as equilibrium constant, but calculated using current concentrations or pressures.        |
+| Le Chatelier's principle        | If equilibrium is disturbed, the system shifts to reduce the effect of the disturbance.             |
+| Electrolyte                     | Substance that produces ions in solution and conducts electricity.                                  |
+| Strong electrolyte              | Electrolyte almost completely ionized in solution.                                                  |
+| Weak electrolyte                | Electrolyte only partially ionized in solution.                                                     |
+| Acid ionization constant, `K_a` | Equilibrium constant for ionization of a weak acid.                                                 |
+| Base ionization constant, `K_b` | Equilibrium constant for ionization of a weak base.                                                 |
+| Ionic product of water, `K_w`   | Product `[H+][OH-]` in water at a given temperature.                                                |
+| pH                              | Negative logarithm of hydrogen ion concentration in dilute solutions.                               |
+| Buffer solution                 | Solution that resists change in pH on dilution or small addition of acid/base.                      |
+| Solubility product, `K_sp`      | Equilibrium constant for dissolution of a sparingly soluble salt.                                   |
+| Common ion effect               | Suppression of ionization or solubility by adding an ion already present in equilibrium.            |
 
 ---
 
@@ -122,10 +123,10 @@ The vapour pressure becomes constant, but molecular motion has not stopped.
 
 ## Static Versus Dynamic Equilibrium
 
-| Static Equilibrium | Dynamic Equilibrium |
-| --- | --- |
-| No activity continues. | Opposite processes continue. |
-| Common in mechanical stillness. | Common in chemical and physical processes. |
+| Static Equilibrium                    | Dynamic Equilibrium                                                 |
+| ------------------------------------- | ------------------------------------------------------------------- |
+| No activity continues.                | Opposite processes continue.                                        |
+| Common in mechanical stillness.       | Common in chemical and physical processes.                          |
 | Nothing changes even microscopically. | Microscopic change continues, macroscopic properties stay constant. |
 
 Chemical equilibrium is always dynamic.
@@ -263,12 +264,12 @@ Physical equilibria share these features:
 4. Measurable properties remain constant.
 5. Each physical equilibrium has a constant parameter at a given temperature.
 
-| Physical Process | Constant Quantity at Equilibrium |
-| --- | --- |
-| Liquid-vapour | Vapour pressure |
-| Solid-liquid | Melting/freezing point at fixed pressure |
-| Solid in liquid | Solubility |
-| Gas in liquid | Ratio of dissolved gas to gas pressure |
+| Physical Process | Constant Quantity at Equilibrium         |
+| ---------------- | ---------------------------------------- |
+| Liquid-vapour    | Vapour pressure                          |
+| Solid-liquid     | Melting/freezing point at fixed pressure |
+| Solid in liquid  | Solubility                               |
+| Gas in liquid    | Ratio of dissolved gas to gas pressure   |
 
 ---
 
@@ -305,11 +306,11 @@ Even at equilibrium, the reaction does not stop. Experiments using deuterium sho
 
 Different reactions reach different kinds of equilibrium.
 
-| Type | Meaning |
-| --- | --- |
-| Nearly complete reaction | Products dominate; reactants left in very small amount. |
-| Barely proceeding reaction | Reactants dominate; only small product amount forms. |
-| Intermediate reaction | Reactants and products are both present in comparable amounts. |
+| Type                       | Meaning                                                        |
+| -------------------------- | -------------------------------------------------------------- |
+| Nearly complete reaction   | Products dominate; reactants left in very small amount.        |
+| Barely proceeding reaction | Reactants dominate; only small product amount forms.           |
+| Intermediate reaction      | Reactants and products are both present in comparable amounts. |
 
 The extent of a reaction depends on:
 
@@ -489,11 +490,11 @@ Only gaseous species are counted.
 
 ## How to Use `Delta n`
 
-| Reaction | `Delta n` | Result |
-| --- | ---: | --- |
-| `H2 + I2 <=> 2HI` | `2 - 2 = 0` | `K_p = K_c` |
-| `N2 + 3H2 <=> 2NH3` | `2 - 4 = -2` | `K_p = K_c(RT)^-2` |
-| `PCl5 <=> PCl3 + Cl2` | `2 - 1 = 1` | `K_p = K_c(RT)` |
+| Reaction              |    `Delta n` | Result             |
+| --------------------- | -----------: | ------------------ |
+| `H2 + I2 <=> 2HI`     |  `2 - 2 = 0` | `K_p = K_c`        |
+| `N2 + 3H2 <=> 2NH3`   | `2 - 4 = -2` | `K_p = K_c(RT)^-2` |
+| `PCl5 <=> PCl3 + Cl2` |  `2 - 1 = 1` | `K_p = K_c(RT)`    |
 
 Use `R = 0.0831 bar L mol^-1 K^-1` when pressure is in bar.
 
@@ -503,10 +504,10 @@ Use `R = 0.0831 bar L mol^-1 K^-1` when pressure is in bar.
 
 The equilibrium constant tells the extent of the reaction, not its speed.
 
-| Value of `K` | Meaning |
-| --- | --- |
-| `K > 10^3` | Products predominate; reaction proceeds nearly to completion. |
-| `K < 10^-3` | Reactants predominate; reaction hardly proceeds. |
+| Value of `K`         | Meaning                                                         |
+| -------------------- | --------------------------------------------------------------- |
+| `K > 10^3`           | Products predominate; reaction proceeds nearly to completion.   |
+| `K < 10^-3`          | Reactants predominate; reaction hardly proceeds.                |
 | `10^-3 <= K <= 10^3` | Appreciable amounts of both reactants and products are present. |
 
 Examples:
@@ -541,11 +542,11 @@ using current concentrations.
 
 ## Comparing `Q` and `K`
 
-| Comparison | Meaning | Direction |
-| --- | --- | --- |
-| `Q < K` | Too many reactants or too few products. | Forward reaction is favoured. |
-| `Q > K` | Too many products or too few reactants. | Reverse reaction is favoured. |
-| `Q = K` | Composition is already at equilibrium. | No net shift. |
+| Comparison | Meaning                                 | Direction                     |
+| ---------- | --------------------------------------- | ----------------------------- |
+| `Q < K`    | Too many reactants or too few products. | Forward reaction is favoured. |
+| `Q > K`    | Too many products or too few reactants. | Reverse reaction is favoured. |
+| `Q = K`    | Composition is already at equilibrium.  | No net shift.                 |
 
 This is one of the most useful tools in the chapter.
 
@@ -607,10 +608,10 @@ For:
 If initial `PCl5 = 3.0 M`:
 
 | Species | Initial | Change | Equilibrium |
-| --- | ---: | ---: | ---: |
-| `PCl5` | `3.0` | `-x` | `3.0 - x` |
-| `PCl3` | `0` | `+x` | `x` |
-| `Cl2` | `0` | `+x` | `x` |
+| ------- | ------: | -----: | ----------: |
+| `PCl5`  |   `3.0` |   `-x` |   `3.0 - x` |
+| `PCl3`  |     `0` |   `+x` |         `x` |
+| `Cl2`   |     `0` |   `+x` |         `x` |
 
 Then:
 
@@ -624,12 +625,12 @@ This becomes an algebra problem.
 
 ## Common ICE Table Mistakes
 
-| Mistake | Correction |
-| --- | --- |
-| Forgetting stoichiometric coefficients | Use `2x`, `3x`, etc. when coefficients demand it. |
-| Using initial values in `K` | `K` must use equilibrium values. |
-| Keeping impossible root | Concentration cannot be negative or exceed the possible initial amount. |
-| Omitting units in setup | Concentrations are usually in `mol L^-1`; pressures in bar/atm. |
+| Mistake                                | Correction                                                              |
+| -------------------------------------- | ----------------------------------------------------------------------- |
+| Forgetting stoichiometric coefficients | Use `2x`, `3x`, etc. when coefficients demand it.                       |
+| Using initial values in `K`            | `K` must use equilibrium values.                                        |
+| Keeping impossible root                | Concentration cannot be negative or exceed the possible initial amount. |
+| Omitting units in setup                | Concentrations are usually in `mol L^-1`; pressures in bar/atm.         |
 
 ---
 
@@ -665,12 +666,12 @@ or:
 
 ## What This Means
 
-| Condition | Meaning |
-| --- | --- |
-| `Delta G < 0` | Forward reaction is spontaneous at that moment. |
-| `Delta G > 0` | Reverse reaction is favoured at that moment. |
-| `Delta G = 0` | System is at equilibrium. |
-| `Delta G^0 < 0` | `K > 1`; products are favoured under standard conditions. |
+| Condition       | Meaning                                                    |
+| --------------- | ---------------------------------------------------------- |
+| `Delta G < 0`   | Forward reaction is spontaneous at that moment.            |
+| `Delta G > 0`   | Reverse reaction is favoured at that moment.               |
+| `Delta G = 0`   | System is at equilibrium.                                  |
+| `Delta G^0 < 0` | `K > 1`; products are favoured under standard conditions.  |
 | `Delta G^0 > 0` | `K < 1`; reactants are favoured under standard conditions. |
 
 This section connects equilibrium with thermodynamics.
@@ -701,12 +702,12 @@ If a product is removed, the system shifts forward to replenish it.
 
 ## Concentration Rule
 
-| Change | Shift |
-| --- | --- |
-| Add reactant | Forward |
+| Change          | Shift    |
+| --------------- | -------- |
+| Add reactant    | Forward  |
 | Remove reactant | Backward |
-| Add product | Backward |
-| Remove product | Forward |
+| Add product     | Backward |
+| Remove product  | Forward  |
 
 ---
 
@@ -742,11 +743,11 @@ If both sides have the same number of moles of gas, pressure change has no effec
 
 ## Pressure Rule
 
-| Change | Shift |
-| --- | --- |
-| Increase pressure | Toward fewer gas moles |
-| Decrease pressure | Toward more gas moles |
-| Equal gas moles both sides | No shift |
+| Change                     | Shift                  |
+| -------------------------- | ---------------------- |
+| Increase pressure          | Toward fewer gas moles |
+| Decrease pressure          | Toward more gas moles  |
+| Equal gas moles both sides | No shift               |
 
 ---
 
@@ -809,9 +810,9 @@ For an endothermic reaction:
 ## Temperature Rule
 
 | Reaction Type | Increase Temperature | Decrease Temperature |
-| --- | --- | --- |
-| Exothermic | Shifts backward | Shifts forward |
-| Endothermic | Shifts forward | Shifts backward |
+| ------------- | -------------------- | -------------------- |
+| Exothermic    | Shifts backward      | Shifts forward       |
+| Endothermic   | Shifts forward       | Shifts backward      |
 
 ---
 
@@ -885,19 +886,19 @@ It is important for:
 
 Electrolytes conduct electricity in aqueous solution because they produce ions.
 
-| Type | Meaning | Example |
-| --- | --- | --- |
-| Strong electrolyte | Almost completely ionized. | `NaCl`, `HCl`, `NaOH` |
-| Weak electrolyte | Partially ionized; equilibrium exists between ions and unionized molecules. | `CH3COOH`, `NH3` |
+| Type               | Meaning                                                                     | Example               |
+| ------------------ | --------------------------------------------------------------------------- | --------------------- |
+| Strong electrolyte | Almost completely ionized.                                                  | `NaCl`, `HCl`, `NaOH` |
+| Weak electrolyte   | Partially ionized; equilibrium exists between ions and unionized molecules. | `CH3COOH`, `NH3`      |
 
 ---
 
 ## Dissociation Versus Ionization
 
-| Term | Strict Meaning |
-| --- | --- |
+| Term         | Strict Meaning                                                                   |
+| ------------ | -------------------------------------------------------------------------------- |
 | Dissociation | Separation of ions that already exist in a solid ionic compound, such as `NaCl`. |
-| Ionization | Formation of ions from neutral molecules, such as `HCl` or `CH3COOH`. |
+| Ionization   | Formation of ions from neutral molecules, such as `HCl` or `CH3COOH`.            |
 
 In this chapter, the terms are often used interchangeably.
 
@@ -955,18 +956,18 @@ Here:
 
 A conjugate acid-base pair differs by one proton.
 
-| Acid | Conjugate Base |
-| --- | --- |
-| `HF` | `F-` |
-| `H2SO4` | `HSO4-` |
-| `HCO3-` | `CO3^2-` |
-| `H2O` | `OH-` |
+| Acid    | Conjugate Base |
+| ------- | -------------- |
+| `HF`    | `F-`           |
+| `H2SO4` | `HSO4-`        |
+| `HCO3-` | `CO3^2-`       |
+| `H2O`   | `OH-`          |
 
-| Base | Conjugate Acid |
-| --- | --- |
-| `NH3` | `NH4+` |
-| `NH2-` | `NH3` |
-| `HCOO-` | `HCOOH` |
+| Base    | Conjugate Acid |
+| ------- | -------------- |
+| `NH3`   | `NH4+`         |
+| `NH2-`  | `NH3`          |
+| `HCOO-` | `HCOOH`        |
 
 Rule:
 
@@ -982,11 +983,11 @@ Some species can act as both acid and base.
 Examples:
 
 | Species | Conjugate Acid | Conjugate Base |
-| --- | --- | --- |
-| `H2O` | `H3O+` | `OH-` |
-| `HCO3-` | `H2CO3` | `CO3^2-` |
-| `HSO4-` | `H2SO4` | `SO4^2-` |
-| `NH3` | `NH4+` | `NH2-` |
+| ------- | -------------- | -------------- |
+| `H2O`   | `H3O+`         | `OH-`          |
+| `HCO3-` | `H2CO3`        | `CO3^2-`       |
+| `HSO4-` | `H2SO4`        | `SO4^2-`       |
+| `NH3`   | `NH4+`         | `NH2-`         |
 
 ---
 
@@ -1011,19 +1012,19 @@ Here:
 
 Examples:
 
-| Lewis Acid | Why |
-| --- | --- |
-| `H+` | Accepts an electron pair. |
-| `BF3` | Electron deficient boron. |
-| `AlCl3` | Electron deficient aluminium. |
+| Lewis Acid     | Why                                   |
+| -------------- | ------------------------------------- |
+| `H+`           | Accepts an electron pair.             |
+| `BF3`          | Electron deficient boron.             |
+| `AlCl3`        | Electron deficient aluminium.         |
 | `Mg2+`, `Co3+` | Metal ions can accept electron pairs. |
 
-| Lewis Base | Why |
-| --- | --- |
-| `OH-` | Donates lone pair. |
-| `F-` | Donates lone pair. |
-| `H2O` | Donates lone pair from oxygen. |
-| `NH3` | Donates lone pair from nitrogen. |
+| Lewis Base | Why                              |
+| ---------- | -------------------------------- |
+| `OH-`      | Donates lone pair.               |
+| `F-`       | Donates lone pair.               |
+| `H2O`      | Donates lone pair from oxygen.   |
+| `NH3`      | Donates lone pair from nitrogen. |
 
 ---
 
@@ -1094,12 +1095,12 @@ Examples:
 
 ## Strength and Conjugate Relationship
 
-| If Acid/Base Is | Its Conjugate Is |
-| --- | --- |
-| Strong acid | Very weak base |
-| Weak acid | Relatively stronger base |
-| Strong base | Very weak acid |
-| Weak base | Relatively stronger acid |
+| If Acid/Base Is | Its Conjugate Is         |
+| --------------- | ------------------------ |
+| Strong acid     | Very weak base           |
+| Weak acid       | Relatively stronger base |
+| Strong base     | Very weak acid           |
+| Weak base       | Relatively stronger acid |
 
 Equilibrium favours formation of the weaker acid and weaker base.
 
@@ -1129,11 +1130,11 @@ In pure water:
 
 ## Acidic, Basic, Neutral
 
-| Solution | Ion Relation | pH at 298 K |
-| --- | --- | --- |
-| Acidic | `[H+] > [OH-]` | `pH < 7` |
-| Neutral | `[H+] = [OH-]` | `pH = 7` |
-| Basic | `[H+] < [OH-]` | `pH > 7` |
+| Solution | Ion Relation   | pH at 298 K |
+| -------- | -------------- | ----------- |
+| Acidic   | `[H+] > [OH-]` | `pH < 7`    |
+| Neutral  | `[H+] = [OH-]` | `pH = 7`    |
+| Basic    | `[H+] < [OH-]` | `pH > 7`    |
 
 ---
 
@@ -1168,18 +1169,18 @@ This is why a small pH change can mean a large change in acidity.
 
 ## pH Examples
 
-| Substance | Approximate pH |
-| --- | ---: |
-| Gastric juice | 1.2 |
-| Lemon juice | 2.2 |
-| Vinegar/soft drinks | about 3 |
-| Tomato juice | 4.2 |
-| Black coffee | 5 |
-| Milk | 6.8 |
-| Human blood | 7.4 |
-| Sea water/egg white | 7.8 |
-| Milk of magnesia | 10 |
-| 0.1 M NaOH | 13 |
+| Substance           | Approximate pH |
+| ------------------- | -------------: |
+| Gastric juice       |            1.2 |
+| Lemon juice         |            2.2 |
+| Vinegar/soft drinks |        about 3 |
+| Tomato juice        |            4.2 |
+| Black coffee        |              5 |
+| Milk                |            6.8 |
+| Human blood         |            7.4 |
+| Sea water/egg white |            7.8 |
+| Milk of magnesia    |             10 |
+| 0.1 M NaOH          |             13 |
 
 ---
 
@@ -1210,10 +1211,10 @@ Lower `pK_a` means stronger acid.
 If initial concentration is `c` and degree of ionization is `alpha`:
 
 | Species | Equilibrium Concentration |
-| --- | --- |
-| `HX` | `c(1 - alpha)` |
-| `H+` | `c alpha` |
-| `X-` | `c alpha` |
+| ------- | ------------------------- |
+| `HX`    | `c(1 - alpha)`            |
+| `H+`    | `c alpha`                 |
+| `X-`    | `c alpha`                 |
 
 Then:
 
@@ -1610,10 +1611,10 @@ Buffers are important in:
 
 ## Types of Buffer
 
-| Buffer Type | Composition | Example |
-| --- | --- | --- |
+| Buffer Type   | Composition                                    | Example              |
+| ------------- | ---------------------------------------------- | -------------------- |
 | Acidic buffer | Weak acid + salt of that acid with strong base | `CH3COOH + CH3COONa` |
-| Basic buffer | Weak base + salt of that base with strong acid | `NH4OH + NH4Cl` |
+| Basic buffer  | Weak base + salt of that base with strong acid | `NH4OH + NH4Cl`      |
 
 ---
 
@@ -1695,11 +1696,11 @@ Solubility is the amount of solute that dissolves in a given amount of solvent a
 
 Salts may be classified as:
 
-| Category | Solubility |
-| --- | --- |
-| Soluble | Greater than `0.1 M` |
-| Slightly soluble | Between `0.01 M` and `0.1 M` |
-| Sparingly soluble | Less than `0.01 M` |
+| Category          | Solubility                   |
+| ----------------- | ---------------------------- |
+| Soluble           | Greater than `0.1 M`         |
+| Slightly soluble  | Between `0.01 M` and `0.1 M` |
+| Sparingly soluble | Less than `0.01 M`           |
 
 ---
 
@@ -1770,10 +1771,10 @@ Therefore:
 
 `Q_sp` has the same expression as `K_sp`, but uses current ion concentrations.
 
-| Comparison | Result |
-| --- | --- |
-| `Q_sp < K_sp` | Solution is unsaturated; more salt can dissolve. |
-| `Q_sp = K_sp` | Solution is saturated; equilibrium exists. |
+| Comparison    | Result                                            |
+| ------------- | ------------------------------------------------- |
+| `Q_sp < K_sp` | Solution is unsaturated; more salt can dissolve.  |
+| `Q_sp = K_sp` | Solution is saturated; equilibrium exists.        |
 | `Q_sp > K_sp` | Precipitation occurs until `Q_sp` becomes `K_sp`. |
 
 ---
@@ -1850,11 +1851,11 @@ Example:
 2. Substitute current concentrations.
 3. Compare with `K`.
 
-| If | Then |
-| --- | --- |
-| `Q < K` | Reaction moves forward. |
+| If      | Then                     |
+| ------- | ------------------------ |
+| `Q < K` | Reaction moves forward.  |
 | `Q > K` | Reaction moves backward. |
-| `Q = K` | Already at equilibrium. |
+| `Q = K` | Already at equilibrium.  |
 
 ---
 
@@ -2203,4 +2204,3 @@ Ionic equilibrium deals with acids, bases, salts, and sparingly soluble salts. `
 ## Best Final Line for Answers
 
 Equilibrium is a balance of rates, not a halt of reaction; its constant composition can be measured by `K`, disturbed predictably by Le Chatelier's principle, and applied to acids, bases, buffers, and solubility through ionic equilibrium.
-

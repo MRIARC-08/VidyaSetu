@@ -24,22 +24,22 @@ Study this chapter through five linked ideas: environmental concerns, global com
 
 ## Key Terms
 
-| Term | Meaning | Why it matters |
-|---|---|---|
-| Environmental politics | Politics of ecological damage, responsibility, conservation, and resource use | Main theme |
-| Sustainable development | Development combining economic growth with ecological responsibility | Core idea after Rio |
-| Earth Summit | 1992 UN Conference on Environment and Development in Rio | Made environment central in global politics |
-| Agenda 21 | Development practices recommended at Rio | Important global environmental plan |
-| Global commons | Areas outside sovereign control and shared by humanity | Requires international governance |
-| Antarctica | Polar region treated as part of global commons by many states | Example of shared ecological governance |
-| Montreal Protocol | 1987 agreement on ozone-depleting substances | Example of environmental cooperation |
-| Common but differentiated responsibilities | Principle that all states share responsibility but developed states bear greater responsibility | Key North-South compromise |
-| UNFCCC | UN Framework Convention on Climate Change | Basis of climate negotiations |
-| Kyoto Protocol | 1997 agreement setting emission targets for industrialised countries | Important climate agreement |
-| Common property resources | Resources shared by a community with rights and duties | Important for village and indigenous communities |
-| Sacred groves | Traditionally protected forest patches linked to religious or cultural values | Example of conservation by communities |
-| Resource geopolitics | Politics of control over strategic resources | Explains oil, minerals, and water conflicts |
-| Indigenous peoples | Communities with long historical occupancy and distinct social, cultural, and economic practices | Central to environmental justice |
+| Term                                       | Meaning                                                                                          | Why it matters                                   |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------ |
+| Environmental politics                     | Politics of ecological damage, responsibility, conservation, and resource use                    | Main theme                                       |
+| Sustainable development                    | Development combining economic growth with ecological responsibility                             | Core idea after Rio                              |
+| Earth Summit                               | 1992 UN Conference on Environment and Development in Rio                                         | Made environment central in global politics      |
+| Agenda 21                                  | Development practices recommended at Rio                                                         | Important global environmental plan              |
+| Global commons                             | Areas outside sovereign control and shared by humanity                                           | Requires international governance                |
+| Antarctica                                 | Polar region treated as part of global commons by many states                                    | Example of shared ecological governance          |
+| Montreal Protocol                          | 1987 agreement on ozone-depleting substances                                                     | Example of environmental cooperation             |
+| Common but differentiated responsibilities | Principle that all states share responsibility but developed states bear greater responsibility  | Key North-South compromise                       |
+| UNFCCC                                     | UN Framework Convention on Climate Change                                                        | Basis of climate negotiations                    |
+| Kyoto Protocol                             | 1997 agreement setting emission targets for industrialised countries                             | Important climate agreement                      |
+| Common property resources                  | Resources shared by a community with rights and duties                                           | Important for village and indigenous communities |
+| Sacred groves                              | Traditionally protected forest patches linked to religious or cultural values                    | Example of conservation by communities           |
+| Resource geopolitics                       | Politics of control over strategic resources                                                     | Explains oil, minerals, and water conflicts      |
+| Indigenous peoples                         | Communities with long historical occupancy and distinct social, cultural, and economic practices | Central to environmental justice                 |
 
 ## 1. The Chapter In One Sentence
 
@@ -706,14 +706,14 @@ These are political questions, not only ecological questions.
 
 ## 62. Comparing Key Ideas
 
-| Idea | Meaning | Example |
-|---|---|---|
-| Sustainable development | Growth with ecological responsibility | Rio consensus |
-| Global commons | Shared spaces outside state sovereignty | Atmosphere, Antarctica |
-| Differentiated responsibility | Unequal responsibility based on history and capacity | Climate negotiations |
-| Common property | Community-managed resource | Sacred groves |
-| Resource geopolitics | Power struggle over resources | Oil and water |
-| Indigenous rights | Recognition of land, identity, and survival | Scheduled Tribes and global indigenous movements |
+| Idea                          | Meaning                                              | Example                                          |
+| ----------------------------- | ---------------------------------------------------- | ------------------------------------------------ |
+| Sustainable development       | Growth with ecological responsibility                | Rio consensus                                    |
+| Global commons                | Shared spaces outside state sovereignty              | Atmosphere, Antarctica                           |
+| Differentiated responsibility | Unequal responsibility based on history and capacity | Climate negotiations                             |
+| Common property               | Community-managed resource                           | Sacred groves                                    |
+| Resource geopolitics          | Power struggle over resources                        | Oil and water                                    |
+| Indigenous rights             | Recognition of land, identity, and survival          | Scheduled Tribes and global indigenous movements |
 
 ## 63. Common Student Confusions
 

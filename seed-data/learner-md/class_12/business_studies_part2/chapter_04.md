@@ -2,13 +2,13 @@
 
 ## Chapter Identity
 
-| Item | Details |
-| --- | --- |
-| Class | 12 |
-| Subject | Business Studies Part 2 |
-| Chapter | Consumer Protection |
-| Core Skill | Explaining consumer rights, responsibilities, legal protection, redressal machinery, and the role of consumer organisations |
-| Main Idea | Consumer protection balances the market by protecting buyers from unfair, unsafe, misleading, and exploitative business practices. |
+| Item       | Details                                                                                                                            |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Class      | 12                                                                                                                                 |
+| Subject    | Business Studies Part 2                                                                                                            |
+| Chapter    | Consumer Protection                                                                                                                |
+| Core Skill | Explaining consumer rights, responsibilities, legal protection, redressal machinery, and the role of consumer organisations        |
+| Main Idea  | Consumer protection balances the market by protecting buyers from unfair, unsafe, misleading, and exploitative business practices. |
 
 ## 1. Big Picture
 
@@ -54,51 +54,51 @@ It includes:
 
 ### From the Consumer's Point of View
 
-| Reason | Explanation |
-| --- | --- |
-| Consumer ignorance | Many consumers do not know their rights, complaint procedures, quality marks, or remedies. |
-| Unorganised consumers | Individual consumers are often weak compared with large sellers or companies. |
+| Reason                  | Explanation                                                                                                                   |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| Consumer ignorance      | Many consumers do not know their rights, complaint procedures, quality marks, or remedies.                                    |
+| Unorganised consumers   | Individual consumers are often weak compared with large sellers or companies.                                                 |
 | Widespread exploitation | Consumers may face adulteration, defective goods, unsafe products, false advertising, overpricing, hoarding, or poor service. |
 
 ### From the Business Point of View
 
-| Reason | Explanation |
-| --- | --- |
-| Long-term business interest | Satisfied consumers create repeat sales, reputation, loyalty, and referrals. |
-| Use of society's resources | Businesses use public resources and therefore owe responsibility to society. |
-| Social responsibility | Consumers are important stakeholders and their interests must be respected. |
-| Moral justification | Businesses should avoid exploiting weaker or less-informed buyers. |
-| Avoiding government intervention | Unfair practices invite legal action, penalties, and loss of goodwill. |
+| Reason                           | Explanation                                                                  |
+| -------------------------------- | ---------------------------------------------------------------------------- |
+| Long-term business interest      | Satisfied consumers create repeat sales, reputation, loyalty, and referrals. |
+| Use of society's resources       | Businesses use public resources and therefore owe responsibility to society. |
+| Social responsibility            | Consumers are important stakeholders and their interests must be respected.  |
+| Moral justification              | Businesses should avoid exploiting weaker or less-informed buyers.           |
+| Avoiding government intervention | Unfair practices invite legal action, penalties, and loss of goodwill.       |
 
 ## 5. Common Forms of Consumer Exploitation
 
-| Practice | Meaning | Example |
-| --- | --- | --- |
-| Adulteration | Mixing inferior or harmful substances. | Adulterated food products. |
-| Defective goods | Goods not meeting expected quality or safety. | Faulty electrical appliance. |
-| Deficient service | Service falling below promised standard. | Poor repair service or negligent service. |
-| Misleading advertisement | False or exaggerated claims. | Product claiming guaranteed results without proof. |
-| Overcharging | Charging more than permitted price or MRP where applicable. | Charging above printed MRP for packaged goods. |
-| Hoarding | Withholding goods to create artificial scarcity. | Stocking essentials to raise prices. |
-| Black marketing | Selling goods illegally at high prices. | Selling scarce goods outside legal channels. |
-| Spurious goods | Fake goods sold as genuine. | Counterfeit branded products. |
+| Practice                 | Meaning                                                     | Example                                            |
+| ------------------------ | ----------------------------------------------------------- | -------------------------------------------------- |
+| Adulteration             | Mixing inferior or harmful substances.                      | Adulterated food products.                         |
+| Defective goods          | Goods not meeting expected quality or safety.               | Faulty electrical appliance.                       |
+| Deficient service        | Service falling below promised standard.                    | Poor repair service or negligent service.          |
+| Misleading advertisement | False or exaggerated claims.                                | Product claiming guaranteed results without proof. |
+| Overcharging             | Charging more than permitted price or MRP where applicable. | Charging above printed MRP for packaged goods.     |
+| Hoarding                 | Withholding goods to create artificial scarcity.            | Stocking essentials to raise prices.               |
+| Black marketing          | Selling goods illegally at high prices.                     | Selling scarce goods outside legal channels.       |
+| Spurious goods           | Fake goods sold as genuine.                                 | Counterfeit branded products.                      |
 
 ## 6. Legal Protection to Consumers
 
 India has several laws that protect consumers directly or indirectly.
 
-| Law | Protection Offered |
-| --- | --- |
-| Consumer Protection Act, 2019 | Main law for consumer rights, unfair trade practices, product liability, and consumer dispute redressal. |
-| Indian Contract Act, 1872 | Protects parties where promises in contracts are breached. |
-| Sale of Goods Act, 1930 | Gives buyers remedies when goods do not match conditions or warranties. |
-| Essential Commodities Act, 1955 | Helps control production, supply, distribution, and prices of essential commodities. |
-| Agricultural Produce grading laws | Provide grading and quality marks such as AGMARK for agricultural products. |
-| Food safety laws | Protect consumers from unsafe or adulterated food. |
-| Legal Metrology laws | Protect against underweight, under-measure, and incorrect packaging declarations. |
-| Trade Marks Act, 1999 | Protects against fraudulent or deceptive marks. |
-| Competition Act, 2002 | Protects market competition and prevents anti-competitive practices. |
-| Bureau of Indian Standards Act | Provides standards and certification such as ISI mark. |
+| Law                               | Protection Offered                                                                                       |
+| --------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| Consumer Protection Act, 2019     | Main law for consumer rights, unfair trade practices, product liability, and consumer dispute redressal. |
+| Indian Contract Act, 1872         | Protects parties where promises in contracts are breached.                                               |
+| Sale of Goods Act, 1930           | Gives buyers remedies when goods do not match conditions or warranties.                                  |
+| Essential Commodities Act, 1955   | Helps control production, supply, distribution, and prices of essential commodities.                     |
+| Agricultural Produce grading laws | Provide grading and quality marks such as AGMARK for agricultural products.                              |
+| Food safety laws                  | Protect consumers from unsafe or adulterated food.                                                       |
+| Legal Metrology laws              | Protect against underweight, under-measure, and incorrect packaging declarations.                        |
+| Trade Marks Act, 1999             | Protects against fraudulent or deceptive marks.                                                          |
+| Competition Act, 2002             | Protects market competition and prevents anti-competitive practices.                                     |
+| Bureau of Indian Standards Act    | Provides standards and certification such as ISI mark.                                                   |
 
 ## 7. Consumer Protection Act: Conceptual Role
 
@@ -190,27 +190,27 @@ Consumer education turns a passive buyer into an alert buyer.
 
 Rights are effective only when consumers act responsibly.
 
-| Responsibility | Meaning |
-| --- | --- |
-| Be quality conscious | Look for quality marks such as ISI, AGMARK, Hallmark, or FSSAI-related information where applicable. |
-| Read labels carefully | Check price, quantity, ingredients, manufacturing date, expiry date, warnings, and usage instructions. |
-| Be honest | Do not misuse complaint systems or support illegal trade. |
-| Ask for bill/cash memo | A bill is proof of purchase and helps in filing complaints. |
-| Follow safety instructions | Use products according to directions. |
-| Be informed | Compare products, prices, warranties, and service terms. |
-| File complaints when needed | Do not ignore genuine exploitation even if the amount is small. |
-| Avoid waste and pollution | Consume responsibly and dispose of products properly. |
-| Join or support consumer organisations | Collective action strengthens consumer protection. |
+| Responsibility                         | Meaning                                                                                                |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Be quality conscious                   | Look for quality marks such as ISI, AGMARK, Hallmark, or FSSAI-related information where applicable.   |
+| Read labels carefully                  | Check price, quantity, ingredients, manufacturing date, expiry date, warnings, and usage instructions. |
+| Be honest                              | Do not misuse complaint systems or support illegal trade.                                              |
+| Ask for bill/cash memo                 | A bill is proof of purchase and helps in filing complaints.                                            |
+| Follow safety instructions             | Use products according to directions.                                                                  |
+| Be informed                            | Compare products, prices, warranties, and service terms.                                               |
+| File complaints when needed            | Do not ignore genuine exploitation even if the amount is small.                                        |
+| Avoid waste and pollution              | Consume responsibly and dispose of products properly.                                                  |
+| Join or support consumer organisations | Collective action strengthens consumer protection.                                                     |
 
 ## 11. Quality Marks and What They Signal
 
-| Mark/Standard | Common Use |
-| --- | --- |
-| ISI | Industrial and electrical goods meeting BIS standards. |
-| AGMARK | Agricultural products. |
-| Hallmark | Purity certification for precious metals such as gold jewellery. |
-| FSSAI licence/registration details | Food business compliance information. |
-| Eco-mark | Environment-friendly products, where applicable. |
+| Mark/Standard                      | Common Use                                                       |
+| ---------------------------------- | ---------------------------------------------------------------- |
+| ISI                                | Industrial and electrical goods meeting BIS standards.           |
+| AGMARK                             | Agricultural products.                                           |
+| Hallmark                           | Purity certification for precious metals such as gold jewellery. |
+| FSSAI licence/registration details | Food business compliance information.                            |
+| Eco-mark                           | Environment-friendly products, where applicable.                 |
 
 Quality marks do not replace careful buying, but they help consumers identify standardised goods.
 
@@ -248,10 +248,10 @@ Government protects consumers by making laws, setting standards, creating redres
 
 Consumer disputes are handled through a three-level structure:
 
-| Level | Body |
-| --- | --- |
+| Level          | Body                                            |
+| -------------- | ----------------------------------------------- |
 | District level | District Consumer Disputes Redressal Commission |
-| State level | State Consumer Disputes Redressal Commission |
+| State level    | State Consumer Disputes Redressal Commission    |
 | National level | National Consumer Disputes Redressal Commission |
 
 The older textbook name "District Forum" is commonly seen in old material. Under the current framework, the term "District Commission" is used.
@@ -260,19 +260,19 @@ The older textbook name "District Forum" is commonly seen in old material. Under
 
 Older books may give thresholds under the Consumer Protection Act, 1986. The current law and rules changed the amounts and may be updated by notification. For concept learning:
 
-| Body | Conceptual Role |
-| --- | --- |
-| District Commission | Handles lower-value consumer complaints at district level. |
-| State Commission | Handles higher-value complaints and appeals from District Commission. |
-| National Commission | Handles highest-value complaints and appeals from State Commission. |
+| Body                | Conceptual Role                                                       |
+| ------------------- | --------------------------------------------------------------------- |
+| District Commission | Handles lower-value consumer complaints at district level.            |
+| State Commission    | Handles higher-value complaints and appeals from District Commission. |
+| National Commission | Handles highest-value complaints and appeals from State Commission.   |
 
 As per the Consumer Protection (Jurisdiction of the District Commission, the State Commission and the National Commission) Rules, 2021, the commonly taught current pecuniary levels are:
 
-| Commission | Pecuniary Jurisdiction |
-| --- | --- |
+| Commission          | Pecuniary Jurisdiction                                                     |
+| ------------------- | -------------------------------------------------------------------------- |
 | District Commission | Value of goods/services paid as consideration does not exceed Rs. 50 lakh. |
-| State Commission | Above Rs. 50 lakh and up to Rs. 2 crore. |
-| National Commission | Above Rs. 2 crore. |
+| State Commission    | Above Rs. 50 lakh and up to Rs. 2 crore.                                   |
+| National Commission | Above Rs. 2 crore.                                                         |
 
 Always confirm the latest threshold if using this for an actual complaint, because legal limits can change.
 
@@ -291,17 +291,17 @@ A complaint may generally be filed by:
 
 If a consumer complaint is valid, the consumer commission may order one or more reliefs.
 
-| Relief | Meaning |
-| --- | --- |
-| Remove defect | Seller/manufacturer must correct the defect. |
-| Replace goods | Defective goods are replaced with proper goods. |
-| Refund price | Consumer gets money back. |
-| Pay compensation | Consumer is compensated for loss or injury. |
-| Remove deficiency in service | Service provider must correct the service failure. |
-| Discontinue unfair practice | Business must stop the unfair or restrictive trade practice. |
-| Withdraw hazardous goods | Unsafe goods may be removed from sale. |
-| Correct misleading advertisement | Misleading claim may be withdrawn or corrected. |
-| Pay costs | Opposite party may be ordered to pay complaint costs. |
+| Relief                           | Meaning                                                      |
+| -------------------------------- | ------------------------------------------------------------ |
+| Remove defect                    | Seller/manufacturer must correct the defect.                 |
+| Replace goods                    | Defective goods are replaced with proper goods.              |
+| Refund price                     | Consumer gets money back.                                    |
+| Pay compensation                 | Consumer is compensated for loss or injury.                  |
+| Remove deficiency in service     | Service provider must correct the service failure.           |
+| Discontinue unfair practice      | Business must stop the unfair or restrictive trade practice. |
+| Withdraw hazardous goods         | Unsafe goods may be removed from sale.                       |
+| Correct misleading advertisement | Misleading claim may be withdrawn or corrected.              |
+| Pay costs                        | Opposite party may be ordered to pay complaint costs.        |
 
 ## 17. Role of Consumer Organisations and NGOs
 
@@ -345,29 +345,29 @@ Answer structure:
 
 ### Right to Safety vs Right to Be Informed
 
-| Right to Safety | Right to Be Informed |
-| --- | --- |
-| Protects against hazardous goods/services. | Ensures correct product/service information. |
-| Focuses on health and life. | Focuses on knowledge and choice. |
-| Example: unsafe electrical appliance. | Example: missing expiry date or misleading label. |
+| Right to Safety                            | Right to Be Informed                              |
+| ------------------------------------------ | ------------------------------------------------- |
+| Protects against hazardous goods/services. | Ensures correct product/service information.      |
+| Focuses on health and life.                | Focuses on knowledge and choice.                  |
+| Example: unsafe electrical appliance.      | Example: missing expiry date or misleading label. |
 
 ### Right to Be Heard vs Right to Seek Redressal
 
-| Right to Be Heard | Right to Seek Redressal |
-| --- | --- |
-| Consumer's complaint must be considered. | Consumer must receive relief if complaint is valid. |
-| Focuses on voice. | Focuses on remedy. |
-| Example: grievance cell listens to complaint. | Example: refund or compensation is ordered. |
+| Right to Be Heard                             | Right to Seek Redressal                             |
+| --------------------------------------------- | --------------------------------------------------- |
+| Consumer's complaint must be considered.      | Consumer must receive relief if complaint is valid. |
+| Focuses on voice.                             | Focuses on remedy.                                  |
+| Example: grievance cell listens to complaint. | Example: refund or compensation is ordered.         |
 
 ## 20. Common Mistakes and Corrections
 
-| Mistake | Correction |
-| --- | --- |
-| Writing only consumer rights and ignoring responsibilities | Consumer protection works through both rights and responsible behaviour. |
-| Treating all dissatisfied buyers as legally correct | A complaint must be genuine and supported by facts/proof. |
-| Forgetting bill or proof of purchase | Cash memo/invoice is important evidence. |
-| Confusing quality marks | ISI, AGMARK, Hallmark, and food-related compliance marks apply to different products. |
-| Learning old jurisdiction limits as current law | Check whether the question follows old textbook law or current law. |
+| Mistake                                                         | Correction                                                                                                           |
+| --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| Writing only consumer rights and ignoring responsibilities      | Consumer protection works through both rights and responsible behaviour.                                             |
+| Treating all dissatisfied buyers as legally correct             | A complaint must be genuine and supported by facts/proof.                                                            |
+| Forgetting bill or proof of purchase                            | Cash memo/invoice is important evidence.                                                                             |
+| Confusing quality marks                                         | ISI, AGMARK, Hallmark, and food-related compliance marks apply to different products.                                |
+| Learning old jurisdiction limits as current law                 | Check whether the question follows old textbook law or current law.                                                  |
 | Thinking consumer protection is only against private businesses | It can apply broadly to goods and services, including public sector and cooperative sector contexts, subject to law. |
 
 ## 21. Exam Answer Frames
@@ -401,20 +401,20 @@ Consumers must act responsibly by checking labels, buying standardised goods, as
 
 ## 23. Quick Revision Sheet
 
-| Topic | Recall Point |
-| --- | --- |
-| Consumer protection | Protects consumers from exploitation and provides remedies. |
-| Caveat emptor | Let the buyer beware. |
-| Caveat venditor | Let the seller beware. |
-| Right to safety | Protection from hazardous goods/services. |
-| Right to be informed | Complete and correct product information. |
-| Right to choose | Variety and competitive options. |
-| Right to be heard | Complaint must receive attention. |
-| Right to redressal | Relief for genuine grievance. |
-| Right to consumer education | Knowledge of rights and remedies. |
-| Consumer responsibility | Be alert, informed, honest, and evidence-ready. |
-| Redressal structure | District, State, and National Commissions. |
-| NGOs | Educate, guide, represent, and protect consumers. |
+| Topic                       | Recall Point                                                |
+| --------------------------- | ----------------------------------------------------------- |
+| Consumer protection         | Protects consumers from exploitation and provides remedies. |
+| Caveat emptor               | Let the buyer beware.                                       |
+| Caveat venditor             | Let the seller beware.                                      |
+| Right to safety             | Protection from hazardous goods/services.                   |
+| Right to be informed        | Complete and correct product information.                   |
+| Right to choose             | Variety and competitive options.                            |
+| Right to be heard           | Complaint must receive attention.                           |
+| Right to redressal          | Relief for genuine grievance.                               |
+| Right to consumer education | Knowledge of rights and remedies.                           |
+| Consumer responsibility     | Be alert, informed, honest, and evidence-ready.             |
+| Redressal structure         | District, State, and National Commissions.                  |
+| NGOs                        | Educate, guide, represent, and protect consumers.           |
 
 ## 24. Final Learning Takeaway
 

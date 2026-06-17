@@ -4,16 +4,16 @@ Class 11 Biology
 
 ## Chapter Profile
 
-| Item | Details |
-|---|---|
-| Class | 11 |
-| Subject | Biology |
-| Chapter | 16 |
-| Title | Excretory Products and their Elimination |
-| Main theme | Removal of metabolic wastes and regulation of body fluid composition |
+| Item           | Details                                                                                                                 |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Class          | 11                                                                                                                      |
+| Subject        | Biology                                                                                                                 |
+| Chapter        | 16                                                                                                                      |
+| Title          | Excretory Products and their Elimination                                                                                |
+| Main theme     | Removal of metabolic wastes and regulation of body fluid composition                                                    |
 | Main processes | Nitrogenous waste removal, urine formation, tubular reabsorption, secretion, counter-current concentration, micturition |
-| Core skill | Track filtrate through the nephron and connect each segment with its function |
-| Learner goal | Explain how kidneys remove wastes while conserving water and maintaining ionic balance |
+| Core skill     | Track filtrate through the nephron and connect each segment with its function                                           |
+| Learner goal   | Explain how kidneys remove wastes while conserving water and maintaining ionic balance                                  |
 
 ## How To Study This Chapter
 
@@ -76,61 +76,61 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Excretion | Removal of metabolic wastes and excess substances from the body |
-| Nitrogenous waste | Waste formed mainly from breakdown of proteins and nucleic acids |
-| Ammonia | Highly toxic nitrogenous waste requiring much water for removal |
-| Urea | Less toxic nitrogenous waste formed in liver of ureotelic animals |
-| Uric acid | Least toxic major nitrogenous waste, excreted with minimal water loss |
-| Ammonotelism | Excretion of ammonia |
-| Ureotelism | Excretion of urea |
-| Uricotelism | Excretion of uric acid |
-| Osmoregulation | Regulation of water and ion balance in body fluids |
-| Protonephridia | Flame cell excretory system in flatworms and some other animals |
-| Nephridia | Tubular excretory organs of earthworms and other annelids |
-| Malpighian tubules | Excretory structures of most insects |
-| Antennal glands | Green glands of crustaceans |
-| Kidney | Main vertebrate excretory organ |
-| Nephron | Functional unit of kidney |
-| Glomerulus | Capillary tuft inside Bowman capsule |
-| Bowman capsule | Double-walled cup enclosing glomerulus |
-| Renal corpuscle | Glomerulus plus Bowman capsule |
-| PCT | Proximal convoluted tubule |
-| Loop of Henle | Hairpin nephron region with descending and ascending limbs |
-| DCT | Distal convoluted tubule |
-| Collecting duct | Duct receiving filtrate from many nephrons |
-| GFR | Glomerular filtration rate, filtrate formed per minute |
-| Ultrafiltration | Fine filtration of plasma through glomerular membrane |
-| Reabsorption | Movement of substances from filtrate back to blood |
-| Secretion | Movement of substances from blood or tubule cells into filtrate |
-| JGA | Juxta glomerular apparatus regulating GFR |
-| Vasa recta | U-shaped capillary running parallel to loop of Henle |
-| Counter-current mechanism | Arrangement maintaining medullary osmotic gradient |
-| ADH | Antidiuretic hormone, increases water reabsorption |
-| Renin | Enzyme from JG cells that starts RAAS |
-| Angiotensin II | Vasoconstrictor that increases blood pressure and stimulates aldosterone |
-| Aldosterone | Hormone increasing Na+ and water reabsorption |
-| ANF | Atrial natriuretic factor, lowers blood pressure by vasodilation |
-| Micturition | Release of urine from urinary bladder |
-| Uremia | Accumulation of urea in blood |
-| Haemodialysis | Artificial removal of nitrogenous wastes from blood |
-| Renal calculi | Kidney stones formed by crystallised salts |
-| Glomerulonephritis | Inflammation of glomeruli |
+| Term                      | Meaning                                                                  |
+| ------------------------- | ------------------------------------------------------------------------ |
+| Excretion                 | Removal of metabolic wastes and excess substances from the body          |
+| Nitrogenous waste         | Waste formed mainly from breakdown of proteins and nucleic acids         |
+| Ammonia                   | Highly toxic nitrogenous waste requiring much water for removal          |
+| Urea                      | Less toxic nitrogenous waste formed in liver of ureotelic animals        |
+| Uric acid                 | Least toxic major nitrogenous waste, excreted with minimal water loss    |
+| Ammonotelism              | Excretion of ammonia                                                     |
+| Ureotelism                | Excretion of urea                                                        |
+| Uricotelism               | Excretion of uric acid                                                   |
+| Osmoregulation            | Regulation of water and ion balance in body fluids                       |
+| Protonephridia            | Flame cell excretory system in flatworms and some other animals          |
+| Nephridia                 | Tubular excretory organs of earthworms and other annelids                |
+| Malpighian tubules        | Excretory structures of most insects                                     |
+| Antennal glands           | Green glands of crustaceans                                              |
+| Kidney                    | Main vertebrate excretory organ                                          |
+| Nephron                   | Functional unit of kidney                                                |
+| Glomerulus                | Capillary tuft inside Bowman capsule                                     |
+| Bowman capsule            | Double-walled cup enclosing glomerulus                                   |
+| Renal corpuscle           | Glomerulus plus Bowman capsule                                           |
+| PCT                       | Proximal convoluted tubule                                               |
+| Loop of Henle             | Hairpin nephron region with descending and ascending limbs               |
+| DCT                       | Distal convoluted tubule                                                 |
+| Collecting duct           | Duct receiving filtrate from many nephrons                               |
+| GFR                       | Glomerular filtration rate, filtrate formed per minute                   |
+| Ultrafiltration           | Fine filtration of plasma through glomerular membrane                    |
+| Reabsorption              | Movement of substances from filtrate back to blood                       |
+| Secretion                 | Movement of substances from blood or tubule cells into filtrate          |
+| JGA                       | Juxta glomerular apparatus regulating GFR                                |
+| Vasa recta                | U-shaped capillary running parallel to loop of Henle                     |
+| Counter-current mechanism | Arrangement maintaining medullary osmotic gradient                       |
+| ADH                       | Antidiuretic hormone, increases water reabsorption                       |
+| Renin                     | Enzyme from JG cells that starts RAAS                                    |
+| Angiotensin II            | Vasoconstrictor that increases blood pressure and stimulates aldosterone |
+| Aldosterone               | Hormone increasing Na+ and water reabsorption                            |
+| ANF                       | Atrial natriuretic factor, lowers blood pressure by vasodilation         |
+| Micturition               | Release of urine from urinary bladder                                    |
+| Uremia                    | Accumulation of urea in blood                                            |
+| Haemodialysis             | Artificial removal of nitrogenous wastes from blood                      |
+| Renal calculi             | Kidney stones formed by crystallised salts                               |
+| Glomerulonephritis        | Inflammation of glomeruli                                                |
 
 ## Chapter Map
 
-| Unit | Topic | What To Master |
-|---|---|---|
-| 16.0 | Nitrogenous wastes | Ammonia, urea, uric acid, animal types |
-| 16.1 | Human excretory system | Kidney structure and nephron structure |
-| 16.2 | Urine formation | Filtration, reabsorption, secretion |
-| 16.3 | Tubule functions | PCT, Henle loop, DCT, collecting duct |
-| 16.4 | Filtrate concentration | Counter-current mechanism |
-| 16.5 | Kidney regulation | ADH, RAAS, ANF |
-| 16.6 | Micturition | Bladder reflex and urine release |
-| 16.7 | Other excretory organs | Lungs, liver, skin |
-| 16.8 | Disorders | Uremia, dialysis, transplant, stones, inflammation |
+| Unit | Topic                  | What To Master                                     |
+| ---- | ---------------------- | -------------------------------------------------- |
+| 16.0 | Nitrogenous wastes     | Ammonia, urea, uric acid, animal types             |
+| 16.1 | Human excretory system | Kidney structure and nephron structure             |
+| 16.2 | Urine formation        | Filtration, reabsorption, secretion                |
+| 16.3 | Tubule functions       | PCT, Henle loop, DCT, collecting duct              |
+| 16.4 | Filtrate concentration | Counter-current mechanism                          |
+| 16.5 | Kidney regulation      | ADH, RAAS, ANF                                     |
+| 16.6 | Micturition            | Bladder reflex and urine release                   |
+| 16.7 | Other excretory organs | Lungs, liver, skin                                 |
+| 16.8 | Disorders              | Uremia, dialysis, transplant, stones, inflammation |
 
 ## 1. Need For Excretion
 
@@ -245,13 +245,13 @@ It is also useful in shelled eggs because uric acid can be stored with low toxic
 
 ## 6. Comparison Of Nitrogenous Waste Types
 
-| Feature | Ammonia | Urea | Uric Acid |
-|---|---|---|---|
-| Toxicity | Highest | Moderate | Lowest |
-| Water need | Very high | Moderate | Very low |
-| Excretion type | Ammonotelism | Ureotelism | Uricotelism |
-| Common habitat link | Aquatic | Terrestrial or marine | Dry terrestrial, egg-laying |
-| Examples | Bony fishes, aquatic amphibians | Mammals, many terrestrial amphibians | Birds, reptiles, insects |
+| Feature             | Ammonia                         | Urea                                 | Uric Acid                   |
+| ------------------- | ------------------------------- | ------------------------------------ | --------------------------- |
+| Toxicity            | Highest                         | Moderate                             | Lowest                      |
+| Water need          | Very high                       | Moderate                             | Very low                    |
+| Excretion type      | Ammonotelism                    | Ureotelism                           | Uricotelism                 |
+| Common habitat link | Aquatic                         | Terrestrial or marine                | Dry terrestrial, egg-laying |
+| Examples            | Bony fishes, aquatic amphibians | Mammals, many terrestrial amphibians | Birds, reptiles, insects    |
 
 ## 7. Excretory Structures In Animals
 
@@ -668,13 +668,13 @@ It also secretes H+ and K+ ions and helps maintain pH and ionic balance.
 
 ## 22. Segment Summary
 
-| Segment | Major Functions |
-|---|---|
-| PCT | Reabsorbs nutrients, most water and electrolytes; secretes H+ and ammonia |
-| Descending limb | Water leaves; filtrate becomes concentrated |
-| Ascending limb | Electrolytes leave; water does not; filtrate becomes diluted |
-| DCT | Conditional Na+ and water reabsorption; pH and ion regulation |
-| Collecting duct | Water reabsorption, urea recycling, final urine concentration |
+| Segment         | Major Functions                                                           |
+| --------------- | ------------------------------------------------------------------------- |
+| PCT             | Reabsorbs nutrients, most water and electrolytes; secretes H+ and ammonia |
+| Descending limb | Water leaves; filtrate becomes concentrated                               |
+| Ascending limb  | Electrolytes leave; water does not; filtrate becomes diluted              |
+| DCT             | Conditional Na+ and water reabsorption; pH and ion regulation             |
+| Collecting duct | Water reabsorption, urea recycling, final urine concentration             |
 
 ## 23. Concentration Of Filtrate
 
@@ -1182,41 +1182,41 @@ It is controlled by micturition reflex involving bladder stretch receptors, CNS,
 
 ## 36. True Or False Set
 
-| Statement | Answer | Reason |
-|---|---|---|
-| Micturition is carried out by a reflex | True | Stretch receptors and CNS form micturition reflex |
-| ADH helps in water elimination, making urine hypotonic | False | ADH increases water reabsorption and concentrates urine |
-| Protein-free fluid is filtered from plasma into Bowman capsule | True | Proteins normally remain in blood |
-| Henle loop plays an important role in concentrating urine | True | It supports medullary gradient |
-| Glucose is actively reabsorbed in PCT | True | Useful nutrients are reabsorbed actively |
+| Statement                                                      | Answer | Reason                                                  |
+| -------------------------------------------------------------- | ------ | ------------------------------------------------------- |
+| Micturition is carried out by a reflex                         | True   | Stretch receptors and CNS form micturition reflex       |
+| ADH helps in water elimination, making urine hypotonic         | False  | ADH increases water reabsorption and concentrates urine |
+| Protein-free fluid is filtered from plasma into Bowman capsule | True   | Proteins normally remain in blood                       |
+| Henle loop plays an important role in concentrating urine      | True   | It supports medullary gradient                          |
+| Glucose is actively reabsorbed in PCT                          | True   | Useful nutrients are reabsorbed actively                |
 
 ## 37. Matching Set
 
-| Column I | Correct Match |
-|---|---|
-| Ammonotelism | Bony fish |
-| Bowman capsule | Renal tubule |
-| Micturition | Urinary bladder |
-| Uricotelism | Birds |
-| ADH | Water reabsorption |
+| Column I       | Correct Match      |
+| -------------- | ------------------ |
+| Ammonotelism   | Bony fish          |
+| Bowman capsule | Renal tubule       |
+| Micturition    | Urinary bladder    |
+| Uricotelism    | Birds              |
+| ADH            | Water reabsorption |
 
 ## 38. Fill-In Answers
 
-| Prompt | Answer |
-|---|---|
-| Ascending limb of Henle loop is blank to water | Impermeable |
-| Descending limb is blank to water | Permeable |
-| Water reabsorption from distal tubules is facilitated by | ADH |
-| Dialysis fluid contains all plasma constituents except | Nitrogenous wastes |
-| Average urea excreted by healthy adult per day | 25 to 30 g |
+| Prompt                                                   | Answer             |
+| -------------------------------------------------------- | ------------------ |
+| Ascending limb of Henle loop is blank to water           | Impermeable        |
+| Descending limb is blank to water                        | Permeable          |
+| Water reabsorption from distal tubules is facilitated by | ADH                |
+| Dialysis fluid contains all plasma constituents except   | Nitrogenous wastes |
+| Average urea excreted by healthy adult per day           | 25 to 30 g         |
 
 ## 39. Named Structures
 
-| Prompt | Answer |
-|---|---|
-| Chordate with flame cells | Amphioxus |
+| Prompt                                                  | Answer             |
+| ------------------------------------------------------- | ------------------ |
+| Chordate with flame cells                               | Amphioxus          |
 | Cortical portions projecting between medullary pyramids | Columns of Bertini |
-| Capillary loop parallel to Henle loop | Vasa recta |
+| Capillary loop parallel to Henle loop                   | Vasa recta         |
 
 ## 40. Exam-Oriented Answers
 
@@ -1389,44 +1389,44 @@ Skin removes small amounts of urea, salts, lactic acid, sterols, hydrocarbons, a
 
 ## 44. Rapid Revision Sheet
 
-| Topic | One-Line Revision |
-|---|---|
-| Excretion | Removal of wastes |
-| Ammonia | Most toxic, high water need |
-| Urea | Less toxic, mammals |
-| Uric acid | Least toxic, water-saving |
-| Ammonotelic | Bony fishes, aquatic animals |
-| Ureotelic | Mammals |
-| Uricotelic | Birds, reptiles, insects |
-| Protonephridia | Flame cells |
-| Nephridia | Earthworm |
-| Malpighian tubules | Insects |
-| Green glands | Prawns |
-| Nephron | Kidney functional unit |
-| Renal corpuscle | Glomerulus plus Bowman capsule |
-| GFR | 125 mL per minute |
-| Daily filtrate | 180 L |
-| Daily urine | 1 to 1.5 L |
-| PCT | Maximum reabsorption |
-| Descending limb | Water permeable |
-| Ascending limb | Water impermeable |
-| DCT | Conditional Na+ and water reabsorption |
-| Collecting duct | Final concentration |
-| Vasa recta | Preserves gradient |
-| Counter-current | Concentrates urine |
-| ADH | Water reabsorption |
-| Renin | Starts RAAS |
-| Aldosterone | Na+ and water reabsorption |
-| ANF | Lowers blood pressure |
-| Micturition | Urine release |
-| Uremia | Urea in blood |
-| Dialysis | Artificial waste removal |
-| Renal calculi | Kidney stones |
-| Glomerulonephritis | Glomerular inflammation |
+| Topic              | One-Line Revision                      |
+| ------------------ | -------------------------------------- |
+| Excretion          | Removal of wastes                      |
+| Ammonia            | Most toxic, high water need            |
+| Urea               | Less toxic, mammals                    |
+| Uric acid          | Least toxic, water-saving              |
+| Ammonotelic        | Bony fishes, aquatic animals           |
+| Ureotelic          | Mammals                                |
+| Uricotelic         | Birds, reptiles, insects               |
+| Protonephridia     | Flame cells                            |
+| Nephridia          | Earthworm                              |
+| Malpighian tubules | Insects                                |
+| Green glands       | Prawns                                 |
+| Nephron            | Kidney functional unit                 |
+| Renal corpuscle    | Glomerulus plus Bowman capsule         |
+| GFR                | 125 mL per minute                      |
+| Daily filtrate     | 180 L                                  |
+| Daily urine        | 1 to 1.5 L                             |
+| PCT                | Maximum reabsorption                   |
+| Descending limb    | Water permeable                        |
+| Ascending limb     | Water impermeable                      |
+| DCT                | Conditional Na+ and water reabsorption |
+| Collecting duct    | Final concentration                    |
+| Vasa recta         | Preserves gradient                     |
+| Counter-current    | Concentrates urine                     |
+| ADH                | Water reabsorption                     |
+| Renin              | Starts RAAS                            |
+| Aldosterone        | Na+ and water reabsorption             |
+| ANF                | Lowers blood pressure                  |
+| Micturition        | Urine release                          |
+| Uremia             | Urea in blood                          |
+| Dialysis           | Artificial waste removal               |
+| Renal calculi      | Kidney stones                          |
+| Glomerulonephritis | Glomerular inflammation                |
 
 ## 45. Raw File Reference
 
-| Item | Path |
-|---|---|
-| Raw input | `data/class_11/biology/chapter_16.md` |
+| Item             | Path                                             |
+| ---------------- | ------------------------------------------------ |
+| Raw input        | `data/class_11/biology/chapter_16.md`            |
 | Formatted output | `data_learner_md/class_11/biology/chapter_16.md` |

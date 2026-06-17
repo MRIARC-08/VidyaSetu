@@ -1,4 +1,5 @@
 # Chapter 5: Measures of Central Tendency
+
 ### NCERT Class 11 Statistics for Economics
 
 ---
@@ -64,22 +65,22 @@ If we know the landholding size of 50 farmers, it may be hard to compare one far
 
 Averages help in:
 
-| Use | Explanation |
-|---|---|
-| Summarising | Represents large data by one value |
-| Comparing | Compare groups, regions, or time periods |
-| Decision-making | Helps planning and policy |
-| Analysis | Supports further statistical calculations |
+| Use             | Explanation                               |
+| --------------- | ----------------------------------------- |
+| Summarising     | Represents large data by one value        |
+| Comparing       | Compare groups, regions, or time periods  |
+| Decision-making | Helps planning and policy                 |
+| Analysis        | Supports further statistical calculations |
 
 ---
 
 ## 3. Types of Averages
 
-| Average | Main idea | Best used when |
-|---|---|---|
+| Average         | Main idea                                 | Best used when                                 |
+| --------------- | ----------------------------------------- | ---------------------------------------------- |
 | Arithmetic Mean | Sum of values divided by number of values | All values are important and data is numerical |
-| Median | Middle value after arranging data | Extreme values may distort the mean |
-| Mode | Most frequent value | Most common size, type, or category is needed |
+| Median          | Middle value after arranging data         | Extreme values may distort the mean            |
+| Mode            | Most frequent value                       | Most common size, type, or category is needed  |
 
 ---
 
@@ -96,11 +97,11 @@ Xbar = Sigma X / N
 
 Where:
 
-| Symbol | Meaning |
-|---|---|
-| Xbar | Arithmetic mean |
+| Symbol  | Meaning                 |
+| ------- | ----------------------- |
+| Xbar    | Arithmetic mean         |
 | Sigma X | Sum of all observations |
-| N | Number of observations |
+| N       | Number of observations  |
 
 ### Example
 
@@ -144,12 +145,12 @@ Xbar = A + (Sigma d / N)
 
 Where:
 
-| Symbol | Meaning |
-|---|---|
-| A | Assumed mean |
-| d | X - A |
+| Symbol  | Meaning                             |
+| ------- | ----------------------------------- |
+| A       | Assumed mean                        |
+| d       | X - A                               |
 | Sigma d | Sum of deviations from assumed mean |
-| N | Number of observations |
+| N       | Number of observations              |
 
 Steps:
 
@@ -174,10 +175,10 @@ Where:
 d' = (X - A) / c
 ```
 
-| Symbol | Meaning |
-|---|---|
-| c | Common factor |
-| d' | Step deviation |
+| Symbol | Meaning        |
+| ------ | -------------- |
+| c      | Common factor  |
+| d'     | Step deviation |
 
 This method simplifies calculation by reducing large deviations.
 
@@ -195,12 +196,12 @@ Xbar = Sigma fX / Sigma f
 
 Where:
 
-| Symbol | Meaning |
-|---|---|
-| X | Value of variable |
-| f | Frequency |
-| fX | Product of value and frequency |
-| Sigma f | Total frequency |
+| Symbol  | Meaning                        |
+| ------- | ------------------------------ |
+| X       | Value of variable              |
+| f       | Frequency                      |
+| fX      | Product of value and frequency |
+| Sigma f | Total frequency                |
 
 ### Steps
 
@@ -211,12 +212,12 @@ Where:
 
 ### Example Pattern
 
-| X | f | fX |
-|---:|---:|---:|
-| 10 | 2 | 20 |
-| 20 | 3 | 60 |
-| 30 | 5 | 150 |
-| Total | 10 | 230 |
+|     X |   f |  fX |
+| ----: | --: | --: |
+|    10 |   2 |  20 |
+|    20 |   3 |  60 |
+|    30 |   5 | 150 |
+| Total |  10 | 230 |
 
 ```text
 Mean = 230 / 10 = 23
@@ -236,11 +237,11 @@ Xbar = Sigma fm / Sigma f
 
 Where:
 
-| Symbol | Meaning |
-|---|---|
-| m | Midpoint of class interval |
-| f | Frequency |
-| fm | Frequency x midpoint |
+| Symbol | Meaning                    |
+| ------ | -------------------------- |
+| m      | Midpoint of class interval |
+| f      | Frequency                  |
+| fm     | Frequency x midpoint       |
 
 Midpoint formula:
 
@@ -259,12 +260,12 @@ m = (Lower limit + Upper limit) / 2
 
 ## 8. Properties of Arithmetic Mean
 
-| Property | Meaning |
-|---|---|
-| Uses all values | Every observation affects the mean |
-| Algebraic treatment possible | Useful in further statistical analysis |
+| Property                            | Meaning                                  |
+| ----------------------------------- | ---------------------------------------- |
+| Uses all values                     | Every observation affects the mean       |
+| Algebraic treatment possible        | Useful in further statistical analysis   |
 | Sum of deviations from mean is zero | Positive and negative deviations balance |
-| Affected by extremes | Very high or low values can distort it |
+| Affected by extremes                | Very high or low values can distort it   |
 
 Important property:
 
@@ -286,11 +287,11 @@ Weighted Mean = Sigma WX / Sigma W
 
 Where:
 
-| Symbol | Meaning |
-|---|---|
-| X | Value |
-| W | Weight |
-| WX | Product of value and weight |
+| Symbol | Meaning                     |
+| ------ | --------------------------- |
+| X      | Value                       |
+| W      | Weight                      |
+| WX     | Product of value and weight |
 
 Example:
 
@@ -356,12 +357,12 @@ Steps:
 
 Example pattern:
 
-| X | f | Cumulative frequency |
-|---:|---:|---:|
-| 10 | 2 | 2 |
-| 20 | 4 | 6 |
-| 30 | 10 | 16 |
-| 40 | 4 | 20 |
+|   X |   f | Cumulative frequency |
+| --: | --: | -------------------: |
+|  10 |   2 |                    2 |
+|  20 |   4 |                    6 |
+|  30 |  10 |                   16 |
+|  40 |   4 |                   20 |
 
 ```text
 N = 20
@@ -382,13 +383,13 @@ Median = L + [(N/2 - cf) / f] x h
 
 Where:
 
-| Symbol | Meaning |
-|---|---|
-| L | Lower limit of median class |
-| N | Total frequency |
-| cf | Cumulative frequency before median class |
-| f | Frequency of median class |
-| h | Class width |
+| Symbol | Meaning                                  |
+| ------ | ---------------------------------------- |
+| L      | Lower limit of median class              |
+| N      | Total frequency                          |
+| cf     | Cumulative frequency before median class |
+| f      | Frequency of median class                |
+| h      | Class width                              |
 
 ### Steps
 
@@ -403,11 +404,11 @@ Where:
 
 Quartiles divide data into four equal parts.
 
-| Quartile | Meaning |
-|---|---|
-| Q1 | Lower quartile; 25 percent observations lie below it |
-| Q2 | Median; 50 percent observations lie below it |
-| Q3 | Upper quartile; 75 percent observations lie below it |
+| Quartile | Meaning                                              |
+| -------- | ---------------------------------------------------- |
+| Q1       | Lower quartile; 25 percent observations lie below it |
+| Q2       | Median; 50 percent observations lie below it         |
+| Q3       | Upper quartile; 75 percent observations lie below it |
 
 For individual data:
 
@@ -453,11 +454,11 @@ The value with the highest frequency is the mode.
 
 Example:
 
-| X | f |
-|---:|---:|
-| 10 | 3 |
-| 20 | 8 |
-| 30 | 5 |
+|   X |   f |
+| --: | --: |
+|  10 |   3 |
+|  20 |   8 |
+|  30 |   5 |
 
 Mode = 20 because it has the highest frequency.
 
@@ -471,12 +472,12 @@ Mode = L + [D1 / (D1 + D2)] x h
 
 Where:
 
-| Symbol | Meaning |
-|---|---|
-| L | Lower limit of modal class |
-| D1 | Frequency of modal class - frequency of preceding class |
-| D2 | Frequency of modal class - frequency of succeeding class |
-| h | Class width |
+| Symbol | Meaning                                                  |
+| ------ | -------------------------------------------------------- |
+| L      | Lower limit of modal class                               |
+| D1     | Frequency of modal class - frequency of preceding class  |
+| D2     | Frequency of modal class - frequency of succeeding class |
+| h      | Class width                                              |
 
 Modal class is the class with the highest frequency.
 
@@ -484,57 +485,57 @@ Modal class is the class with the highest frequency.
 
 ## 15. Mean, Median, and Mode Compared
 
-| Basis | Mean | Median | Mode |
-|---|---|---|---|
-| Meaning | Arithmetic average | Middle value | Most frequent value |
-| Uses all values | Yes | No | No |
-| Affected by extreme values | Yes | Less affected | Less affected |
-| Suitable for open-ended classes | Not ideal | Suitable | Suitable |
-| Algebraic use | Strong | Limited | Limited |
-| Best for | General numerical average | Positional average | Most common value |
+| Basis                           | Mean                      | Median             | Mode                |
+| ------------------------------- | ------------------------- | ------------------ | ------------------- |
+| Meaning                         | Arithmetic average        | Middle value       | Most frequent value |
+| Uses all values                 | Yes                       | No                 | No                  |
+| Affected by extreme values      | Yes                       | Less affected      | Less affected       |
+| Suitable for open-ended classes | Not ideal                 | Suitable           | Suitable            |
+| Algebraic use                   | Strong                    | Limited            | Limited             |
+| Best for                        | General numerical average | Positional average | Most common value   |
 
 ---
 
 ## 16. Which Average Should Be Used?
 
-| Situation | Best average |
-|---|---|
-| Average marks or income with no extreme values | Mean |
-| Income distribution with very rich and poor values | Median |
-| Most common shoe or garment size | Mode |
-| Open-ended frequency distribution | Median or mode |
-| Qualitative measurement | Mode or median, depending on ordering |
-| Further algebraic analysis needed | Mean |
-| Extreme values present | Median |
+| Situation                                          | Best average                          |
+| -------------------------------------------------- | ------------------------------------- |
+| Average marks or income with no extreme values     | Mean                                  |
+| Income distribution with very rich and poor values | Median                                |
+| Most common shoe or garment size                   | Mode                                  |
+| Open-ended frequency distribution                  | Median or mode                        |
+| Qualitative measurement                            | Mode or median, depending on ordering |
+| Further algebraic analysis needed                  | Mean                                  |
+| Extreme values present                             | Median                                |
 
 ---
 
 ## 17. Common Mistakes
 
-| Mistake | Correct understanding |
-|---|---|
-| Using mean even when extremes are present | Median may be better. |
-| Forgetting to arrange data before median | Median requires ordered data. |
-| Treating mode as always unique | A series may have more than one mode or no clear mode. |
-| Confusing frequency with value | Mode is the value with highest frequency, not the frequency itself. |
-| Forgetting class midpoint in grouped mean | Grouped mean uses class midpoints. |
-| Using N instead of Sigma f in frequency series | Total frequency is the denominator. |
-| Ignoring weights | Weighted mean is needed when importance differs. |
+| Mistake                                        | Correct understanding                                               |
+| ---------------------------------------------- | ------------------------------------------------------------------- |
+| Using mean even when extremes are present      | Median may be better.                                               |
+| Forgetting to arrange data before median       | Median requires ordered data.                                       |
+| Treating mode as always unique                 | A series may have more than one mode or no clear mode.              |
+| Confusing frequency with value                 | Mode is the value with highest frequency, not the frequency itself. |
+| Forgetting class midpoint in grouped mean      | Grouped mean uses class midpoints.                                  |
+| Using N instead of Sigma f in frequency series | Total frequency is the denominator.                                 |
+| Ignoring weights                               | Weighted mean is needed when importance differs.                    |
 
 ---
 
 ## 18. Formula Board
 
-| Measure | Formula |
-|---|---|
-| Mean, individual data | Xbar = Sigma X / N |
-| Mean, discrete data | Xbar = Sigma fX / Sigma f |
-| Mean, grouped data | Xbar = Sigma fm / Sigma f |
-| Assumed mean | Xbar = A + Sigma d / N |
-| Step deviation | Xbar = A + (Sigma d' / N) x c |
-| Weighted mean | Sigma WX / Sigma W |
-| Median, grouped data | L + [(N/2 - cf) / f] x h |
-| Mode, grouped data | L + [D1 / (D1 + D2)] x h |
+| Measure               | Formula                       |
+| --------------------- | ----------------------------- |
+| Mean, individual data | Xbar = Sigma X / N            |
+| Mean, discrete data   | Xbar = Sigma fX / Sigma f     |
+| Mean, grouped data    | Xbar = Sigma fm / Sigma f     |
+| Assumed mean          | Xbar = A + Sigma d / N        |
+| Step deviation        | Xbar = A + (Sigma d' / N) x c |
+| Weighted mean         | Sigma WX / Sigma W            |
+| Median, grouped data  | L + [(N/2 - cf) / f] x h      |
+| Mode, grouped data    | L + [D1 / (D1 + D2)] x h      |
 
 ---
 

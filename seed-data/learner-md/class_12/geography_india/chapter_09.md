@@ -1,4 +1,5 @@
 # Chapter 9: Geographical Perspective on Selected Issues and Problems
+
 ### NCERT Class 12 - Geography India
 
 ## Chapter at a Glance
@@ -22,27 +23,27 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Environmental pollution | Harmful change in air, water, land, or sound environment. |
-| Air pollution | Contamination of air by harmful substances. |
-| Water pollution | Contamination of water bodies or groundwater. |
-| Land pollution | Degradation or contamination of land. |
-| Noise pollution | Harmful or disturbing levels of sound. |
-| Urban waste | Solid and liquid waste generated in towns and cities. |
-| Slum | Overcrowded urban settlement with poor housing and services. |
-| Land degradation | Decline in quality and productivity of land. |
-| Environmental management | Planned action to reduce environmental damage. |
+| Term                     | Meaning                                                      |
+| ------------------------ | ------------------------------------------------------------ |
+| Environmental pollution  | Harmful change in air, water, land, or sound environment.    |
+| Air pollution            | Contamination of air by harmful substances.                  |
+| Water pollution          | Contamination of water bodies or groundwater.                |
+| Land pollution           | Degradation or contamination of land.                        |
+| Noise pollution          | Harmful or disturbing levels of sound.                       |
+| Urban waste              | Solid and liquid waste generated in towns and cities.        |
+| Slum                     | Overcrowded urban settlement with poor housing and services. |
+| Land degradation         | Decline in quality and productivity of land.                 |
+| Environmental management | Planned action to reduce environmental damage.               |
 
 ## Quick Learning Map
 
-| Problem | Common causes |
-|---|---|
-| Air pollution | Vehicles, industries, dust, fuel burning |
-| Water pollution | Sewage, industrial waste, farm chemicals |
-| Land degradation | Erosion, mining, deforestation, overgrazing |
-| Urban waste | Population growth, consumption, poor collection |
-| Slums | Rural-urban migration, housing shortage, poverty |
+| Problem          | Common causes                                    |
+| ---------------- | ------------------------------------------------ |
+| Air pollution    | Vehicles, industries, dust, fuel burning         |
+| Water pollution  | Sewage, industrial waste, farm chemicals         |
+| Land degradation | Erosion, mining, deforestation, overgrazing      |
+| Urban waste      | Population growth, consumption, poor collection  |
+| Slums            | Rural-urban migration, housing shortage, poverty |
 
 # Unit 9A: Geographical Perspective
 
@@ -299,13 +300,13 @@ For slums:
 
 # Unit 9M: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Writing only causes without impacts | Issue answers need causes, impacts, and solutions. |
-| Treating pollution as only urban | Rural and industrial regions also face pollution. |
-| Ignoring spatial variation | Geography requires where and why there. |
-| Blaming slum residents | Slums result from poverty, housing shortage, and planning failure. |
-| Suggesting cleanup only | Prevention and planning are equally important. |
+| Mistake                             | Correction                                                         |
+| ----------------------------------- | ------------------------------------------------------------------ |
+| Writing only causes without impacts | Issue answers need causes, impacts, and solutions.                 |
+| Treating pollution as only urban    | Rural and industrial regions also face pollution.                  |
+| Ignoring spatial variation          | Geography requires where and why there.                            |
+| Blaming slum residents              | Slums result from poverty, housing shortage, and planning failure. |
+| Suggesting cleanup only             | Prevention and planning are equally important.                     |
 
 ## Practice Set
 

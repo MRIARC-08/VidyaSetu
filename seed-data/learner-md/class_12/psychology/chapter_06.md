@@ -26,28 +26,28 @@ The main idea is that social behaviour is not random. It is shaped by cognition,
 
 ## Key Terms
 
-| Term | Meaning | Why it matters |
-|---|---|---|
-| Social psychology | Branch of psychology studying behaviour in the actual, imagined, or implied presence of others | Broad field of the chapter |
-| Social cognition | Mental processes used to understand people, groups, and social situations | Explains how social behaviour is interpreted |
-| Attitude | Evaluative state of mind toward an attitude object, with thought, feeling, and action tendency | Core concept |
-| Attitude object | Person, group, issue, object, or event toward which an attitude is directed | Makes an attitude specific |
-| Affective component | Feeling or emotional part of an attitude | Explains liking, dislike, anger, fear, pride |
-| Behavioural component | Action tendency related to an attitude | Connects attitude to possible behaviour |
-| Cognitive component | Beliefs and thoughts related to an attitude | Forms the knowledge base of attitude |
-| Belief | Cognitive idea accepted as true by a person | Foundation of many attitudes |
-| Value | Attitude or belief with a strong "should" or "ought" element | Harder to change than simple opinions |
-| Valence | Positive, negative, or neutral direction of an attitude | Shows whether attitude favours or opposes |
-| Extremeness | Strength of positivity or negativity | Shows intensity of attitude |
-| Multiplexity | Simplicity or complexity of an attitude system | Shows whether many member attitudes are involved |
-| Centrality | Importance of an attitude within an attitude system | Central attitudes influence other attitudes |
-| Balance | Cognitive consistency among relations in a P-O-X triangle | Explains one route of attitude change |
-| Cognitive dissonance | Psychological discomfort from inconsistent thoughts or actions | Motivates attitude change |
-| Prejudice | Usually negative attitude toward a group | Major social problem |
-| Stereotype | Cluster of beliefs about a group | Cognitive base of many prejudices |
-| Discrimination | Behaviour that treats a group less favourably | Behavioural expression of prejudice |
-| Scapegoating | Blaming a weaker outgroup for problems | One cause of prejudice |
-| Self-fulfilling prophecy | Expectation that leads people to behave in ways that confirm it | Maintains stereotypes and prejudice |
+| Term                     | Meaning                                                                                        | Why it matters                                   |
+| ------------------------ | ---------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| Social psychology        | Branch of psychology studying behaviour in the actual, imagined, or implied presence of others | Broad field of the chapter                       |
+| Social cognition         | Mental processes used to understand people, groups, and social situations                      | Explains how social behaviour is interpreted     |
+| Attitude                 | Evaluative state of mind toward an attitude object, with thought, feeling, and action tendency | Core concept                                     |
+| Attitude object          | Person, group, issue, object, or event toward which an attitude is directed                    | Makes an attitude specific                       |
+| Affective component      | Feeling or emotional part of an attitude                                                       | Explains liking, dislike, anger, fear, pride     |
+| Behavioural component    | Action tendency related to an attitude                                                         | Connects attitude to possible behaviour          |
+| Cognitive component      | Beliefs and thoughts related to an attitude                                                    | Forms the knowledge base of attitude             |
+| Belief                   | Cognitive idea accepted as true by a person                                                    | Foundation of many attitudes                     |
+| Value                    | Attitude or belief with a strong "should" or "ought" element                                   | Harder to change than simple opinions            |
+| Valence                  | Positive, negative, or neutral direction of an attitude                                        | Shows whether attitude favours or opposes        |
+| Extremeness              | Strength of positivity or negativity                                                           | Shows intensity of attitude                      |
+| Multiplexity             | Simplicity or complexity of an attitude system                                                 | Shows whether many member attitudes are involved |
+| Centrality               | Importance of an attitude within an attitude system                                            | Central attitudes influence other attitudes      |
+| Balance                  | Cognitive consistency among relations in a P-O-X triangle                                      | Explains one route of attitude change            |
+| Cognitive dissonance     | Psychological discomfort from inconsistent thoughts or actions                                 | Motivates attitude change                        |
+| Prejudice                | Usually negative attitude toward a group                                                       | Major social problem                             |
+| Stereotype               | Cluster of beliefs about a group                                                               | Cognitive base of many prejudices                |
+| Discrimination           | Behaviour that treats a group less favourably                                                  | Behavioural expression of prejudice              |
+| Scapegoating             | Blaming a weaker outgroup for problems                                                         | One cause of prejudice                           |
+| Self-fulfilling prophecy | Expectation that leads people to behave in ways that confirm it                                | Maintains stereotypes and prejudice              |
 
 ## 1. The Chapter In One Sentence
 

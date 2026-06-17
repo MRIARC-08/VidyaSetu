@@ -45,52 +45,52 @@ By the end of this chapter, you should be able to:
 
 ## Big Picture Map
 
-| Theme | Core Idea | Examples |
-| --- | --- | --- |
-| Present distribution | Continents cover 29 percent, oceans cover 71 percent | World map |
-| Continental drift | Continents were once joined and later drifted apart | Pangaea, Laurasia, Gondwanaland |
-| Drift evidence | Matching coasts, rocks, fossils, glacial deposits | Africa-South America fit |
-| Ocean floor mapping | Ocean floors have ridges, trenches, and young rocks | Mid-ocean ridges |
-| Sea floor spreading | New crust forms at ridges and moves outward | Hess, 1961 |
-| Plate tectonics | Lithosphere divided into moving plates | Pacific, Eurasian, Indian plates |
-| Plate boundaries | Plates diverge, converge, or slide past | Mid-Atlantic Ridge, Himalayas |
-| Indian plate | India moved north and collided with Asia | Himalayas, Deccan Traps |
+| Theme                | Core Idea                                            | Examples                         |
+| -------------------- | ---------------------------------------------------- | -------------------------------- |
+| Present distribution | Continents cover 29 percent, oceans cover 71 percent | World map                        |
+| Continental drift    | Continents were once joined and later drifted apart  | Pangaea, Laurasia, Gondwanaland  |
+| Drift evidence       | Matching coasts, rocks, fossils, glacial deposits    | Africa-South America fit         |
+| Ocean floor mapping  | Ocean floors have ridges, trenches, and young rocks  | Mid-ocean ridges                 |
+| Sea floor spreading  | New crust forms at ridges and moves outward          | Hess, 1961                       |
+| Plate tectonics      | Lithosphere divided into moving plates               | Pacific, Eurasian, Indian plates |
+| Plate boundaries     | Plates diverge, converge, or slide past              | Mid-Atlantic Ridge, Himalayas    |
+| Indian plate         | India moved north and collided with Asia             | Himalayas, Deccan Traps          |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Continental drift | Theory that continents were once joined and later drifted apart. |
-| Pangaea | Supercontinent proposed by Wegener; means all earth. |
-| Panthalassa | Mega-ocean surrounding Pangaea; means all water. |
-| Laurasia | Northern continental mass formed after Pangaea split. |
-| Gondwanaland | Southern continental mass formed after Pangaea split. |
-| Jig-saw fit | Matching shape of continental margins, especially Africa and South America. |
-| Tillite | Sedimentary rock formed from glacial deposits. |
-| Placer deposit | Mineral deposit concentrated by water action, often containing gold. |
-| Palaeoclimate | Climate of the geological past. |
-| Pole-fleeing force | Force suggested by Wegener, related to earth's rotation and equatorial bulge. |
-| Tidal force | Force suggested by Wegener, related to attraction of moon and sun. |
-| Convection current | Circular movement of heated material caused by temperature differences. |
-| Ocean floor | Submerged surface beneath ocean water. |
-| Continental margin | Transition zone between continent and deep ocean basin. |
-| Abyssal plain | Deep, extensive, nearly flat ocean-floor plain. |
-| Mid-ocean ridge | Submerged mountain chain with volcanic activity along ocean floor. |
-| Deep-ocean trench | Long, narrow, deep depression in ocean floor, often linked with subduction. |
-| Sea floor spreading | Process in which new oceanic crust forms at ridges and moves away. |
-| Magnetic polarity | Direction of magnetic field recorded in rocks at time of cooling. |
-| Plate tectonics | Theory that earth's lithosphere is divided into moving plates. |
-| Lithospheric plate | Massive slab of solid rock made of continental and/or oceanic lithosphere. |
-| Asthenosphere | Weak upper mantle layer over which plates move. |
-| Divergent boundary | Plate boundary where plates move apart and new crust is formed. |
-| Convergent boundary | Plate boundary where plates move together and crust may be destroyed. |
-| Subduction zone | Zone where one plate sinks below another. |
-| Transform boundary | Boundary where plates slide horizontally past each other. |
-| Ring of Fire | Volcanically active belt around the Pacific Ocean. |
-| Tethys Sea | Sea that once separated Indian landmass from Asia. |
-| Deccan Traps | Large flood basalt province formed by major lava outpouring. |
+| Term                | Meaning                                                                       |
+| ------------------- | ----------------------------------------------------------------------------- |
+| Continental drift   | Theory that continents were once joined and later drifted apart.              |
+| Pangaea             | Supercontinent proposed by Wegener; means all earth.                          |
+| Panthalassa         | Mega-ocean surrounding Pangaea; means all water.                              |
+| Laurasia            | Northern continental mass formed after Pangaea split.                         |
+| Gondwanaland        | Southern continental mass formed after Pangaea split.                         |
+| Jig-saw fit         | Matching shape of continental margins, especially Africa and South America.   |
+| Tillite             | Sedimentary rock formed from glacial deposits.                                |
+| Placer deposit      | Mineral deposit concentrated by water action, often containing gold.          |
+| Palaeoclimate       | Climate of the geological past.                                               |
+| Pole-fleeing force  | Force suggested by Wegener, related to earth's rotation and equatorial bulge. |
+| Tidal force         | Force suggested by Wegener, related to attraction of moon and sun.            |
+| Convection current  | Circular movement of heated material caused by temperature differences.       |
+| Ocean floor         | Submerged surface beneath ocean water.                                        |
+| Continental margin  | Transition zone between continent and deep ocean basin.                       |
+| Abyssal plain       | Deep, extensive, nearly flat ocean-floor plain.                               |
+| Mid-ocean ridge     | Submerged mountain chain with volcanic activity along ocean floor.            |
+| Deep-ocean trench   | Long, narrow, deep depression in ocean floor, often linked with subduction.   |
+| Sea floor spreading | Process in which new oceanic crust forms at ridges and moves away.            |
+| Magnetic polarity   | Direction of magnetic field recorded in rocks at time of cooling.             |
+| Plate tectonics     | Theory that earth's lithosphere is divided into moving plates.                |
+| Lithospheric plate  | Massive slab of solid rock made of continental and/or oceanic lithosphere.    |
+| Asthenosphere       | Weak upper mantle layer over which plates move.                               |
+| Divergent boundary  | Plate boundary where plates move apart and new crust is formed.               |
+| Convergent boundary | Plate boundary where plates move together and crust may be destroyed.         |
+| Subduction zone     | Zone where one plate sinks below another.                                     |
+| Transform boundary  | Boundary where plates slide horizontally past each other.                     |
+| Ring of Fire        | Volcanically active belt around the Pacific Ocean.                            |
+| Tethys Sea          | Sea that once separated Indian landmass from Asia.                            |
+| Deccan Traps        | Large flood basalt province formed by major lava outpouring.                  |
 
 ---
 
@@ -151,9 +151,9 @@ It was surrounded by one huge ocean called Panthalassa.
 
 ## 2.6 Meaning Of Names
 
-| Term | Meaning |
-| --- | --- |
-| Pangaea | All earth |
+| Term        | Meaning   |
+| ----------- | --------- |
+| Pangaea     | All earth |
 | Panthalassa | All water |
 
 ## 2.7 Breakup Of Pangaea
@@ -724,14 +724,14 @@ These features mark plate interactions.
 
 Important minor plates include:
 
-| Minor Plate | Location |
-| --- | --- |
-| Cocos plate | Between Central America and Pacific plate |
-| Nazca plate | Between South America and Pacific plate |
-| Arabian plate | Mostly Saudi Arabian landmass |
-| Philippine plate | Between Asiatic and Pacific plates |
-| Caroline plate | Between Philippine and Indian plates, north of New Guinea |
-| Fuji plate | Northeast of Australia |
+| Minor Plate      | Location                                                  |
+| ---------------- | --------------------------------------------------------- |
+| Cocos plate      | Between Central America and Pacific plate                 |
+| Nazca plate      | Between South America and Pacific plate                   |
+| Arabian plate    | Mostly Saudi Arabian landmass                             |
+| Philippine plate | Between Asiatic and Pacific plates                        |
+| Caroline plate   | Between Philippine and Indian plates, north of New Guinea |
+| Fuji plate       | Northeast of Australia                                    |
 
 ## 22.1 Exam Point
 
@@ -990,45 +990,45 @@ The process of Himalayan uplift is still continuing.
 
 ## 31.1 Continental Drift vs Plate Tectonics
 
-| Continental Drift | Plate Tectonics |
-| --- | --- |
-| Proposed by Wegener in 1912 | Developed in modern form in 1960s |
-| Continents drifted across earth | Plates move over asthenosphere |
+| Continental Drift               | Plate Tectonics                                                      |
+| ------------------------------- | -------------------------------------------------------------------- |
+| Proposed by Wegener in 1912     | Developed in modern form in 1960s                                    |
+| Continents drifted across earth | Plates move over asthenosphere                                       |
 | Evidence mostly from continents | Evidence from ocean floors, earthquakes, volcanoes, magnetic stripes |
-| Weak explanation of force | Uses mantle convection and plate interactions |
-| Pangaea central idea | Lithospheric plates central idea |
+| Weak explanation of force       | Uses mantle convection and plate interactions                        |
+| Pangaea central idea            | Lithospheric plates central idea                                     |
 
 ## 31.2 Pangaea vs Panthalassa
 
-| Pangaea | Panthalassa |
-| --- | --- |
-| Supercontinent | Mega-ocean |
-| Means all earth | Means all water |
+| Pangaea                     | Panthalassa        |
+| --------------------------- | ------------------ |
+| Supercontinent              | Mega-ocean         |
+| Means all earth             | Means all water    |
 | Later split into continents | Surrounded Pangaea |
 
 ## 31.3 Laurasia vs Gondwanaland
 
-| Laurasia | Gondwanaland |
-| --- | --- |
-| Northern continental mass | Southern continental mass |
-| Formed after Pangaea split | Formed after Pangaea split |
+| Laurasia                     | Gondwanaland                                 |
+| ---------------------------- | -------------------------------------------- |
+| Northern continental mass    | Southern continental mass                    |
+| Formed after Pangaea split   | Formed after Pangaea split                   |
 | Included northern components | Included India and other southern landmasses |
 
 ## 31.4 Divergent vs Convergent vs Transform Boundaries
 
-| Boundary | Plate Motion | Crust Effect | Example/Feature |
-| --- | --- | --- | --- |
-| Divergent | Move apart | New crust forms | Mid-Atlantic Ridge |
+| Boundary   | Plate Motion  | Crust Effect                      | Example/Feature     |
+| ---------- | ------------- | --------------------------------- | ------------------- |
+| Divergent  | Move apart    | New crust forms                   | Mid-Atlantic Ridge  |
 | Convergent | Move together | Crust destroyed or mountains form | Himalayas, trenches |
-| Transform | Slide past | Neither created nor destroyed | Transform faults |
+| Transform  | Slide past    | Neither created nor destroyed     | Transform faults    |
 
 ## 31.5 Ridge vs Trench
 
-| Mid-Ocean Ridge | Deep-Ocean Trench |
-| --- | --- |
-| New crust forms | Old crust consumed |
-| Divergent setting | Convergent/subduction setting |
-| Shallow earthquakes | Deep earthquakes |
+| Mid-Ocean Ridge          | Deep-Ocean Trench                      |
+| ------------------------ | -------------------------------------- |
+| New crust forms          | Old crust consumed                     |
+| Divergent setting        | Convergent/subduction setting          |
+| Shallow earthquakes      | Deep earthquakes                       |
 | Volcanic activity common | Subduction and seismic activity common |
 
 ---
@@ -1131,29 +1131,29 @@ Himalayan uplift.
 
 # 33. Data Board
 
-| Data Point | Value Or Fact | Use |
-| --- | --- | --- |
-| Continental surface cover | 29 percent | Present distribution |
-| Oceanic surface cover | 71 percent | Present distribution |
-| Ortelius suggestion | 1596 | Early drift idea |
-| Wegener theory | 1912 | Continental drift |
-| Pangaea breakup | Around 200 million years ago | Drift timeline |
-| Bullard fit | 1964 | Jig-saw fit evidence |
-| Brazil-West Africa rocks | About 2,000 million years old | Rock evidence |
-| Mesosaurus localities today | About 4,800 km apart | Fossil evidence |
-| Holmes convection idea | 1930s | Force for movement |
-| Hess sea floor spreading | 1961 | Ocean floor theory |
-| Oceanic crust age | Nowhere more than about 200 million years | Sea floor spreading |
-| Old continental rocks | Up to about 3,200 million years | Continental age contrast |
-| Plate tectonics formulation | 1967 | McKenzie, Parker, Morgan |
-| Oceanic lithosphere thickness | About 5-100 km | Plate thickness |
-| Continental lithosphere thickness | About 200 km | Plate thickness |
-| Arctic Ridge movement | Less than 2.5 cm/year | Slow plate movement |
-| East Pacific Rise movement | More than 15 cm/year | Fast plate movement |
-| India separated from Asia by Tethys | Until about 225 million years ago | Indian plate history |
-| India northward movement | About 200 million years ago | Indian plate journey |
-| Deccan Traps | Began about 60 million years ago | Lava outpouring |
-| India-Asia collision | About 40-50 million years ago | Himalaya formation |
+| Data Point                          | Value Or Fact                             | Use                      |
+| ----------------------------------- | ----------------------------------------- | ------------------------ |
+| Continental surface cover           | 29 percent                                | Present distribution     |
+| Oceanic surface cover               | 71 percent                                | Present distribution     |
+| Ortelius suggestion                 | 1596                                      | Early drift idea         |
+| Wegener theory                      | 1912                                      | Continental drift        |
+| Pangaea breakup                     | Around 200 million years ago              | Drift timeline           |
+| Bullard fit                         | 1964                                      | Jig-saw fit evidence     |
+| Brazil-West Africa rocks            | About 2,000 million years old             | Rock evidence            |
+| Mesosaurus localities today         | About 4,800 km apart                      | Fossil evidence          |
+| Holmes convection idea              | 1930s                                     | Force for movement       |
+| Hess sea floor spreading            | 1961                                      | Ocean floor theory       |
+| Oceanic crust age                   | Nowhere more than about 200 million years | Sea floor spreading      |
+| Old continental rocks               | Up to about 3,200 million years           | Continental age contrast |
+| Plate tectonics formulation         | 1967                                      | McKenzie, Parker, Morgan |
+| Oceanic lithosphere thickness       | About 5-100 km                            | Plate thickness          |
+| Continental lithosphere thickness   | About 200 km                              | Plate thickness          |
+| Arctic Ridge movement               | Less than 2.5 cm/year                     | Slow plate movement      |
+| East Pacific Rise movement          | More than 15 cm/year                      | Fast plate movement      |
+| India separated from Asia by Tethys | Until about 225 million years ago         | Indian plate history     |
+| India northward movement            | About 200 million years ago               | Indian plate journey     |
+| Deccan Traps                        | Began about 60 million years ago          | Lava outpouring          |
+| India-Asia collision                | About 40-50 million years ago             | Himalaya formation       |
 
 ---
 

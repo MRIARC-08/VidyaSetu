@@ -21,24 +21,24 @@ The central idea is that international organisations are imperfect but necessary
 
 ## Key Terms
 
-| Term | Meaning | Why it matters |
-|---|---|---|
-| International organisation | Institution created by states to facilitate cooperation | Main concept of the chapter |
-| United Nations | Global organisation founded in 1945 to prevent conflict and promote cooperation | Central institution studied |
-| UN Charter | Founding document of the United Nations | Defines UN purposes and organs |
-| General Assembly | UN body where all member states have one vote | Broad deliberative forum |
-| Security Council | UN body with primary responsibility for peace and security | Most powerful UN organ |
-| Permanent members | US, Russia, UK, France, and China in the Security Council | Hold veto power |
-| Non-permanent members | Elected Security Council members serving two-year terms | Provide wider representation |
-| Veto | Negative vote by a permanent member that can block a Security Council decision | Core issue in reform debates |
-| Reform | Change in structures, processes, or priorities of an organisation | Major theme |
-| Peacebuilding Commission | UN body proposed to help countries recover from conflict | Part of post-2005 reform agenda |
-| Human Rights Council | UN body created to address human rights issues | Replaced older commission structure |
-| IMF | International Monetary Fund | Oversees global financial stability |
-| World Bank | Institution providing loans and grants for development | Influences developing countries |
-| WTO | World Trade Organisation | Sets rules for global trade |
-| IAEA | International Atomic Energy Agency | Promotes peaceful nuclear use and inspections |
-| NGO | Non-governmental organisation | Important in rights and advocacy work |
+| Term                       | Meaning                                                                         | Why it matters                                |
+| -------------------------- | ------------------------------------------------------------------------------- | --------------------------------------------- |
+| International organisation | Institution created by states to facilitate cooperation                         | Main concept of the chapter                   |
+| United Nations             | Global organisation founded in 1945 to prevent conflict and promote cooperation | Central institution studied                   |
+| UN Charter                 | Founding document of the United Nations                                         | Defines UN purposes and organs                |
+| General Assembly           | UN body where all member states have one vote                                   | Broad deliberative forum                      |
+| Security Council           | UN body with primary responsibility for peace and security                      | Most powerful UN organ                        |
+| Permanent members          | US, Russia, UK, France, and China in the Security Council                       | Hold veto power                               |
+| Non-permanent members      | Elected Security Council members serving two-year terms                         | Provide wider representation                  |
+| Veto                       | Negative vote by a permanent member that can block a Security Council decision  | Core issue in reform debates                  |
+| Reform                     | Change in structures, processes, or priorities of an organisation               | Major theme                                   |
+| Peacebuilding Commission   | UN body proposed to help countries recover from conflict                        | Part of post-2005 reform agenda               |
+| Human Rights Council       | UN body created to address human rights issues                                  | Replaced older commission structure           |
+| IMF                        | International Monetary Fund                                                     | Oversees global financial stability           |
+| World Bank                 | Institution providing loans and grants for development                          | Influences developing countries               |
+| WTO                        | World Trade Organisation                                                        | Sets rules for global trade                   |
+| IAEA                       | International Atomic Energy Agency                                              | Promotes peaceful nuclear use and inspections |
+| NGO                        | Non-governmental organisation                                                   | Important in rights and advocacy work         |
 
 ## 1. The Chapter In One Sentence
 
@@ -620,18 +620,18 @@ Both matter in world politics, but their authority and methods differ.
 
 ## 49. Matching Important Organisations With Functions
 
-| Organisation | Main function |
-|---|---|
+| Organisation        | Main function                                    |
+| ------------------- | ------------------------------------------------ |
 | UN Security Council | Preservation of international peace and security |
-| General Assembly | Debates global issues |
-| Secretariat | Administration and coordination of UN affairs |
-| WHO | Health |
-| UNHCR | Refugees |
-| IMF | Global financial system |
-| World Bank | Development loans and grants |
-| WTO | Global trade rules |
-| IAEA | Peaceful nuclear use and inspections |
-| ICJ | Resolves legal disputes among states |
+| General Assembly    | Debates global issues                            |
+| Secretariat         | Administration and coordination of UN affairs    |
+| WHO                 | Health                                           |
+| UNHCR               | Refugees                                         |
+| IMF                 | Global financial system                          |
+| World Bank          | Development loans and grants                     |
+| WTO                 | Global trade rules                               |
+| IAEA                | Peaceful nuclear use and inspections             |
+| ICJ                 | Resolves legal disputes among states             |
 
 ## 50. Common Student Confusions
 

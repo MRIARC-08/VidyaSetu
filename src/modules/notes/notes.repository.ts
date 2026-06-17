@@ -28,7 +28,6 @@ export class NotesRepository {
     });
   }
 
-
   static findNotesByUser(userId: string) {
     return prisma.note.findMany({
       where: { userId, deletedAt: null },

@@ -1,4 +1,5 @@
 # Chapter 7: The Interview
+
 ### NCERT Class 12 - English Flamingo
 
 ## Chapter at a Glance
@@ -22,14 +23,14 @@ By the end of this chapter, you should be able to:
 
 ## Key Facts
 
-| Element | Detail |
-|---|---|
-| Text type | Essay plus interview |
-| Major figure | Umberto Eco |
-| Interviewer | Mukund Padmanabhan |
-| Central issue | Nature and value of interviews |
-| Tone | Analytical, conversational, reflective |
-| Major theme | Public communication and intellectual identity |
+| Element       | Detail                                         |
+| ------------- | ---------------------------------------------- |
+| Text type     | Essay plus interview                           |
+| Major figure  | Umberto Eco                                    |
+| Interviewer   | Mukund Padmanabhan                             |
+| Central issue | Nature and value of interviews                 |
+| Tone          | Analytical, conversational, reflective         |
+| Major theme   | Public communication and intellectual identity |
 
 # Unit 7A: What Is an Interview?
 
@@ -134,11 +135,11 @@ Eco's use of interstices shows creative use of small time spaces.
 
 # Unit 7J: Structure of the Chapter
 
-| Part | Focus |
-|---|---|
-| Opening discussion | General views on interviews |
-| Interview section | Conversation with Umberto Eco |
-| Main movement | From theory of interview to example of interview |
+| Part               | Focus                                            |
+| ------------------ | ------------------------------------------------ |
+| Opening discussion | General views on interviews                      |
+| Interview section  | Conversation with Umberto Eco                    |
+| Main movement      | From theory of interview to example of interview |
 
 This structure lets readers first think about interviews as a form, then see one in action.
 
@@ -162,13 +163,13 @@ This structure lets readers first think about interviews as a form, then see one
 
 # Unit 7L: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Treating the chapter as only an interview | It also analyses the interview form. |
-| Saying all writers dislike interviews | The chapter presents varied opinions. |
-| Ignoring Eco's intellectual background | His scholarship is central to his identity. |
-| Misunderstanding interstices | They are small gaps of time used productively. |
-| Saying popularity means simplicity | Eco's success shows serious work can be popular. |
+| Mistake                                   | Correction                                       |
+| ----------------------------------------- | ------------------------------------------------ |
+| Treating the chapter as only an interview | It also analyses the interview form.             |
+| Saying all writers dislike interviews     | The chapter presents varied opinions.            |
+| Ignoring Eco's intellectual background    | His scholarship is central to his identity.      |
+| Misunderstanding interstices              | They are small gaps of time used productively.   |
+| Saying popularity means simplicity        | Eco's success shows serious work can be popular. |
 
 ## Practice Set
 

@@ -1,20 +1,21 @@
 # Chapter 3: The Making of a Global World
+
 ### NCERT Class 10 - Social History
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-| --- | --- |
-| Class | 10 |
-| Subject | Social History |
-| Chapter | 3 - The Making of a Global World |
-| Central Question | How did trade, migration, conquest, technology, war, and finance create the modern global world? |
-| Time Span | Ancient trade links to late twentieth-century globalisation |
-| Main Themes | Silk routes, food exchange, conquest of America, nineteenth-century world economy, indentured labour, Great Depression, Bretton Woods, decolonisation, globalisation |
-| Main Skills | Chronology, cause-effect links, comparison of flows, global-local connections, economic reasoning |
-| Exam Importance | Very high: Corn Laws, rinderpest, indentured labour, Great Depression, Bretton Woods, G-77 |
+| Detail           | Learner-Friendly Information                                                                                                                                         |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Class            | 10                                                                                                                                                                   |
+| Subject          | Social History                                                                                                                                                       |
+| Chapter          | 3 - The Making of a Global World                                                                                                                                     |
+| Central Question | How did trade, migration, conquest, technology, war, and finance create the modern global world?                                                                     |
+| Time Span        | Ancient trade links to late twentieth-century globalisation                                                                                                          |
+| Main Themes      | Silk routes, food exchange, conquest of America, nineteenth-century world economy, indentured labour, Great Depression, Bretton Woods, decolonisation, globalisation |
+| Main Skills      | Chronology, cause-effect links, comparison of flows, global-local connections, economic reasoning                                                                    |
+| Exam Importance  | Very high: Corn Laws, rinderpest, indentured labour, Great Depression, Bretton Woods, G-77                                                                           |
 
 ---
 
@@ -44,15 +45,15 @@ The central idea is:
 
 After studying this chapter, you should be able to:
 
-| Skill | You Should Be Able To |
-| --- | --- |
-| Define | Explain globalisation, silk routes, Corn Laws, rinderpest, indentured labour, mass production, Great Depression, Bretton Woods, IMF, World Bank, G-77, NIEO, MNC, fixed exchange rate, floating exchange rate. |
-| Explain | Describe how pre-modern exchanges linked Asia, Europe, Africa, and the Americas. |
-| Analyse | Explain the three flows of international economic exchange. |
-| Evaluate | Show both positive and negative effects of global economic integration. |
-| Connect | Link British food imports, migration, technology, and global agriculture. |
-| Compare | Compare nineteenth-century globalisation with post-war globalisation. |
-| Write | Prepare clear answers for NCERT long and short questions. |
+| Skill    | You Should Be Able To                                                                                                                                                                                          |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Define   | Explain globalisation, silk routes, Corn Laws, rinderpest, indentured labour, mass production, Great Depression, Bretton Woods, IMF, World Bank, G-77, NIEO, MNC, fixed exchange rate, floating exchange rate. |
+| Explain  | Describe how pre-modern exchanges linked Asia, Europe, Africa, and the Americas.                                                                                                                               |
+| Analyse  | Explain the three flows of international economic exchange.                                                                                                                                                    |
+| Evaluate | Show both positive and negative effects of global economic integration.                                                                                                                                        |
+| Connect  | Link British food imports, migration, technology, and global agriculture.                                                                                                                                      |
+| Compare  | Compare nineteenth-century globalisation with post-war globalisation.                                                                                                                                          |
+| Write    | Prepare clear answers for NCERT long and short questions.                                                                                                                                                      |
 
 ---
 
@@ -94,46 +95,46 @@ Newly independent countries formed the G-77 and demanded a New International Eco
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Globalisation | Increasing interconnection of economies, societies, cultures, and people across the world. |
-| Silk Routes | Land and sea routes connecting Asia with Europe and North Africa, carrying goods and culture. |
-| Cowries | Seashells used as currency, moving from Maldives to China and East Africa. |
-| Pre-Modern World | World before modern industrial capitalism, but still connected through trade, travel, religion, and migration. |
-| El Dorado | Legendary city of gold in South America, searched for by Europeans. |
-| Biological Warfare | Use or spread of disease as a weapon; smallpox helped European conquest of America. |
-| Dissenter | Person who refuses to accept established beliefs and practices. |
-| Corn Laws | British laws restricting import of corn or foodgrains. |
-| Flow of Trade | Movement of goods between countries. |
-| Flow of Labour | Migration of people in search of work. |
-| Flow of Capital | Movement of money for investment over long distances. |
-| Canal Colonies | Irrigated areas in west Punjab developed by British canals for export crops. |
-| Primary Products | Agricultural products and minerals such as wheat, cotton, and coal. |
-| Rinderpest | Cattle plague that killed large numbers of African cattle in the 1890s. |
-| Indentured Labour | Bonded labour under contract to work for an employer for a fixed period, often to repay passage. |
-| New System of Slavery | Description used for nineteenth-century indenture because of harsh conditions and lack of rights. |
-| Hosay | Trinidad version of Muharram procession, transformed into a carnival by indentured workers. |
-| Chutney Music | Caribbean music form reflecting Indian indentured cultural experience. |
-| Shikaripuri Shroffs | Indian bankers who financed export agriculture in Central and Southeast Asia. |
-| Nattukottai Chettiars | Indian banking and trading group active in overseas finance. |
-| Trade Surplus | When exports to a country are greater than imports from that country. |
-| Home Charges | Payments from India to Britain including remittances, debt interest, and pensions. |
-| Allies | In First World War: Britain, France, Russia, later the US. |
-| Central Powers | In First World War: Germany, Austria-Hungary, Ottoman Turkey. |
-| Mass Production | Large-scale production using standardised methods such as assembly line. |
-| Assembly Line | Production method where workers repeat tasks as goods move along a conveyor. |
-| Hire Purchase | Buying goods on credit and repaying in instalments. |
-| Great Depression | Severe worldwide economic crisis beginning around 1929 and lasting into the mid-1930s. |
-| Bretton Woods Conference | 1944 conference that created IMF and World Bank framework. |
-| IMF | International Monetary Fund, created to deal with external surpluses and deficits. |
-| World Bank | International Bank for Reconstruction and Development, created for post-war reconstruction. |
-| Bretton Woods Twins | IMF and World Bank. |
-| Fixed Exchange Rate | Exchange rate kept stable by government intervention. |
-| Floating Exchange Rate | Exchange rate determined by demand and supply in foreign exchange markets. |
-| Decolonisation | Process by which colonies became independent. |
-| G-77 | Group of 77 developing countries demanding a fairer international economic order. |
-| NIEO | New International Economic Order demanded by developing countries. |
-| MNC | Multinational corporation operating in several countries at the same time. |
+| Term                     | Meaning                                                                                                        |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------- |
+| Globalisation            | Increasing interconnection of economies, societies, cultures, and people across the world.                     |
+| Silk Routes              | Land and sea routes connecting Asia with Europe and North Africa, carrying goods and culture.                  |
+| Cowries                  | Seashells used as currency, moving from Maldives to China and East Africa.                                     |
+| Pre-Modern World         | World before modern industrial capitalism, but still connected through trade, travel, religion, and migration. |
+| El Dorado                | Legendary city of gold in South America, searched for by Europeans.                                            |
+| Biological Warfare       | Use or spread of disease as a weapon; smallpox helped European conquest of America.                            |
+| Dissenter                | Person who refuses to accept established beliefs and practices.                                                |
+| Corn Laws                | British laws restricting import of corn or foodgrains.                                                         |
+| Flow of Trade            | Movement of goods between countries.                                                                           |
+| Flow of Labour           | Migration of people in search of work.                                                                         |
+| Flow of Capital          | Movement of money for investment over long distances.                                                          |
+| Canal Colonies           | Irrigated areas in west Punjab developed by British canals for export crops.                                   |
+| Primary Products         | Agricultural products and minerals such as wheat, cotton, and coal.                                            |
+| Rinderpest               | Cattle plague that killed large numbers of African cattle in the 1890s.                                        |
+| Indentured Labour        | Bonded labour under contract to work for an employer for a fixed period, often to repay passage.               |
+| New System of Slavery    | Description used for nineteenth-century indenture because of harsh conditions and lack of rights.              |
+| Hosay                    | Trinidad version of Muharram procession, transformed into a carnival by indentured workers.                    |
+| Chutney Music            | Caribbean music form reflecting Indian indentured cultural experience.                                         |
+| Shikaripuri Shroffs      | Indian bankers who financed export agriculture in Central and Southeast Asia.                                  |
+| Nattukottai Chettiars    | Indian banking and trading group active in overseas finance.                                                   |
+| Trade Surplus            | When exports to a country are greater than imports from that country.                                          |
+| Home Charges             | Payments from India to Britain including remittances, debt interest, and pensions.                             |
+| Allies                   | In First World War: Britain, France, Russia, later the US.                                                     |
+| Central Powers           | In First World War: Germany, Austria-Hungary, Ottoman Turkey.                                                  |
+| Mass Production          | Large-scale production using standardised methods such as assembly line.                                       |
+| Assembly Line            | Production method where workers repeat tasks as goods move along a conveyor.                                   |
+| Hire Purchase            | Buying goods on credit and repaying in instalments.                                                            |
+| Great Depression         | Severe worldwide economic crisis beginning around 1929 and lasting into the mid-1930s.                         |
+| Bretton Woods Conference | 1944 conference that created IMF and World Bank framework.                                                     |
+| IMF                      | International Monetary Fund, created to deal with external surpluses and deficits.                             |
+| World Bank               | International Bank for Reconstruction and Development, created for post-war reconstruction.                    |
+| Bretton Woods Twins      | IMF and World Bank.                                                                                            |
+| Fixed Exchange Rate      | Exchange rate kept stable by government intervention.                                                          |
+| Floating Exchange Rate   | Exchange rate determined by demand and supply in foreign exchange markets.                                     |
+| Decolonisation           | Process by which colonies became independent.                                                                  |
+| G-77                     | Group of 77 developing countries demanding a fairer international economic order.                              |
+| NIEO                     | New International Economic Order demanded by developing countries.                                             |
+| MNC                      | Multinational corporation operating in several countries at the same time.                                     |
 
 ---
 
@@ -156,12 +157,12 @@ Travellers, traders, priests, pilgrims, migrants, and conquerors moved across lo
 
 ## Early Examples
 
-| Example | What It Shows |
-| --- | --- |
-| Indus Valley trade with West Asia around 3000 BCE | Ancient trade links |
+| Example                                              | What It Shows                   |
+| ---------------------------------------------------- | ------------------------------- |
+| Indus Valley trade with West Asia around 3000 BCE    | Ancient trade links             |
 | Cowries from Maldives reaching China and East Africa | Long-distance currency movement |
-| Disease-carrying germs spreading by seventh century | Biological links |
-| Travellers and pilgrims moving across regions | Cultural and religious exchange |
+| Disease-carrying germs spreading by seventh century  | Biological links                |
+| Travellers and pilgrims moving across regions        | Cultural and religious exchange |
 
 ## Main Point
 
@@ -183,11 +184,11 @@ They are called silk routes because Chinese silk travelled westward along these 
 
 ## Goods That Travelled
 
-| From | Goods |
-| --- | --- |
-| China | Silk, pottery |
-| India and Southeast Asia | Textiles, spices |
-| Europe | Gold and silver flowing to Asia |
+| From                     | Goods                           |
+| ------------------------ | ------------------------------- |
+| China                    | Silk, pottery                   |
+| India and Southeast Asia | Textiles, spices                |
+| Europe                   | Gold and silver flowing to Asia |
 
 ## Culture and Religion
 
@@ -309,10 +310,10 @@ The nineteenth century transformed the world economy.
 
 Economists identify three flows:
 
-| Flow | Meaning | Example |
-| --- | --- | --- |
-| Flow of trade | Movement of goods | Cloth, wheat, cotton |
-| Flow of labour | Migration of people for work | Indian indentured workers, European migrants |
+| Flow            | Meaning                          | Example                                      |
+| --------------- | -------------------------------- | -------------------------------------------- |
+| Flow of trade   | Movement of goods                | Cloth, wheat, cotton                         |
+| Flow of labour  | Migration of people for work     | Indian indentured workers, European migrants |
 | Flow of capital | Movement of money for investment | London finance for railways and farms abroad |
 
 These flows were connected. Goods needed labour and capital. Labour moved to places where land and investment expanded. Capital built railways, ports, farms, mines, and plantations.
@@ -499,12 +500,12 @@ It spread from east to west like forest fire:
 
 ## Effects
 
-| Effect | Explanation |
-| --- | --- |
-| Livelihood destruction | Africans lost cattle and economic independence. |
-| Labour supply increased | Africans were forced into wage labour. |
+| Effect                      | Explanation                                                                |
+| --------------------------- | -------------------------------------------------------------------------- |
+| Livelihood destruction      | Africans lost cattle and economic independence.                            |
+| Labour supply increased     | Africans were forced into wage labour.                                     |
 | Colonial power strengthened | Planters, mine owners, and governments controlled scarce cattle resources. |
-| Conquest easier | Control over cattle helped Europeans subdue Africans. |
+| Conquest easier             | Control over cattle helped Europeans subdue Africans.                      |
 
 ## Exam Answer: Rinderpest
 
@@ -541,14 +542,14 @@ These regions faced:
 
 ## Destinations
 
-| Destination | Notes |
-| --- | --- |
+| Destination       | Notes                     |
+| ----------------- | ------------------------- |
 | Caribbean islands | Trinidad, Guyana, Surinam |
-| Mauritius | Plantation labour |
-| Fiji | Plantation labour |
-| Ceylon | Tamil migration |
-| Malaya | Tamil migration |
-| Assam | Tea plantations |
+| Mauritius         | Plantation labour         |
+| Fiji              | Plantation labour         |
+| Ceylon            | Tamil migration           |
+| Malaya            | Tamil migration           |
+| Assam             | Tea plantations           |
 
 ## Recruitment
 
@@ -586,11 +587,11 @@ Indentured workers resisted and survived by:
 
 ## Cultural Examples
 
-| Cultural Form | Meaning |
-| --- | --- |
-| Hosay | Trinidad version of Muharram, joined by people of many races and religions |
+| Cultural Form  | Meaning                                                                              |
+| -------------- | ------------------------------------------------------------------------------------ |
+| Hosay          | Trinidad version of Muharram, joined by people of many races and religions           |
 | Rastafarianism | Protest religion in Caribbean, linked by some scholars to Indian migrant experiences |
-| Chutney music | Music of Trinidad and Guyana reflecting post-indenture cultural fusion |
+| Chutney music  | Music of Trinidad and Guyana reflecting post-indenture cultural fusion               |
 
 ## Abolition
 
@@ -698,9 +699,9 @@ The First World War lasted from 1914 to 1918.
 
 ## Alliances
 
-| Group | Members |
-| --- | --- |
-| Allies | Britain, France, Russia, later the US |
+| Group          | Members                                  |
+| -------------- | ---------------------------------------- |
+| Allies         | Britain, France, Russia, later the US    |
 | Central Powers | Germany, Austria-Hungary, Ottoman Turkey |
 
 ## First Modern Industrial War
@@ -854,12 +855,12 @@ US overseas loans fell sharply from over $1 billion in early 1928 to one quarter
 
 ## Global Effects
 
-| Region | Effect |
-| --- | --- |
-| Europe | Banks failed; currencies like pound sterling collapsed |
-| Latin America | Agricultural and raw material prices fell further |
-| World trade | US doubled import duties, damaging trade |
-| US | Banks collapsed, businesses failed, unemployment rose |
+| Region        | Effect                                                 |
+| ------------- | ------------------------------------------------------ |
+| Europe        | Banks failed; currencies like pound sterling collapsed |
+| Latin America | Agricultural and raw material prices fell further      |
+| World trade   | US doubled import duties, damaging trade               |
+| US            | Banks collapsed, businesses failed, unemployment rose  |
 
 ## US Depression
 
@@ -940,10 +941,10 @@ The Second World War broke out about two decades after the First World War.
 
 ## Sides
 
-| Group | Members |
-| --- | --- |
-| Axis Powers | Nazi Germany, Japan, Italy |
-| Allies | Britain, France, Soviet Union, US |
+| Group       | Members                           |
+| ----------- | --------------------------------- |
+| Axis Powers | Nazi Germany, Japan, Italy        |
+| Allies      | Britain, France, Soviet Union, US |
 
 ## Destruction
 
@@ -993,10 +994,10 @@ Its aim was to create a stable post-war international economic system.
 
 ## Bretton Woods Institutions
 
-| Institution | Purpose |
-| --- | --- |
-| IMF | Deal with external surpluses and deficits of member nations |
-| World Bank | Finance post-war reconstruction |
+| Institution | Purpose                                                     |
+| ----------- | ----------------------------------------------------------- |
+| IMF         | Deal with external surpluses and deficits of member nations |
+| World Bank  | Finance post-war reconstruction                             |
 
 The IMF and World Bank are called Bretton Woods institutions or Bretton Woods twins.
 
@@ -1126,28 +1127,28 @@ Relocation of industry to low-wage countries:
 
 # Timeline of the Chapter
 
-| Period/Year | Event |
-| --- | --- |
-| Around 3000 BCE | Indus Valley trade linked with West Asia |
-| Before Christian Era to 15th century | Silk routes connected Asia, Europe, North Africa |
-| 1492 onward | Columbus' voyages linked Americas with Europe |
-| 16th century | Spanish and Portuguese colonisation of America |
-| 1845-1849 | Great Irish Potato Famine |
-| 1815-1914 | Nineteenth-century global economy expands |
-| 1830s-1870s | Indian textile exports decline sharply |
-| 1885 | Berlin Conference divides Africa among European powers |
-| 1890s | Rinderpest devastates African cattle |
-| 1900s | Indian nationalists oppose indentured labour |
-| 1914-1918 | First World War |
-| 1921 | Indentured labour migration abolished |
-| 1929-mid 1930s | Great Depression |
-| 1939-1945 | Second World War |
-| July 1944 | Bretton Woods Conference |
-| 1947 | IMF and World Bank begin operations |
-| 1950-1970 | Post-war trade and income boom |
-| Late 1950s | Bretton Woods institutions shift attention to developing countries |
-| 1960s-1970s | Bretton Woods fixed exchange system weakens and collapses |
-| Late 1970s onward | MNCs shift production to low-wage Asian countries |
+| Period/Year                          | Event                                                              |
+| ------------------------------------ | ------------------------------------------------------------------ |
+| Around 3000 BCE                      | Indus Valley trade linked with West Asia                           |
+| Before Christian Era to 15th century | Silk routes connected Asia, Europe, North Africa                   |
+| 1492 onward                          | Columbus' voyages linked Americas with Europe                      |
+| 16th century                         | Spanish and Portuguese colonisation of America                     |
+| 1845-1849                            | Great Irish Potato Famine                                          |
+| 1815-1914                            | Nineteenth-century global economy expands                          |
+| 1830s-1870s                          | Indian textile exports decline sharply                             |
+| 1885                                 | Berlin Conference divides Africa among European powers             |
+| 1890s                                | Rinderpest devastates African cattle                               |
+| 1900s                                | Indian nationalists oppose indentured labour                       |
+| 1914-1918                            | First World War                                                    |
+| 1921                                 | Indentured labour migration abolished                              |
+| 1929-mid 1930s                       | Great Depression                                                   |
+| 1939-1945                            | Second World War                                                   |
+| July 1944                            | Bretton Woods Conference                                           |
+| 1947                                 | IMF and World Bank begin operations                                |
+| 1950-1970                            | Post-war trade and income boom                                     |
+| Late 1950s                           | Bretton Woods institutions shift attention to developing countries |
+| 1960s-1970s                          | Bretton Woods fixed exchange system weakens and collapses          |
+| Late 1970s onward                    | MNCs shift production to low-wage Asian countries                  |
 
 ---
 
@@ -1155,30 +1156,30 @@ Relocation of industry to low-wage countries:
 
 ## Pre-Modern and Modern Globalisation
 
-| Point | Pre-Modern Links | Modern Globalisation |
-| --- | --- | --- |
-| Main carriers | Traders, pilgrims, priests, travellers | MNCs, banks, states, technology |
-| Goods | Silk, spices, pottery, textiles, metals | Manufactured goods, services, capital, technology |
-| Movement | Slow but wide | Faster and more intense |
-| Risks | Disease, conquest, slavery | Debt crises, inequality, low-wage production |
+| Point         | Pre-Modern Links                        | Modern Globalisation                              |
+| ------------- | --------------------------------------- | ------------------------------------------------- |
+| Main carriers | Traders, pilgrims, priests, travellers  | MNCs, banks, states, technology                   |
+| Goods         | Silk, spices, pottery, textiles, metals | Manufactured goods, services, capital, technology |
+| Movement      | Slow but wide                           | Faster and more intense                           |
+| Risks         | Disease, conquest, slavery              | Debt crises, inequality, low-wage production      |
 
 ## Three Flows
 
-| Flow | Meaning | India Example |
-| --- | --- | --- |
-| Trade | Movement of goods | Raw cotton, indigo, opium, textiles |
-| Labour | Movement of workers | Indentured labour to Caribbean, Mauritius, Fiji, Assam |
-| Capital | Movement of money | Shikaripuri Shroffs and Chettiars financing export agriculture |
+| Flow    | Meaning             | India Example                                                  |
+| ------- | ------------------- | -------------------------------------------------------------- |
+| Trade   | Movement of goods   | Raw cotton, indigo, opium, textiles                            |
+| Labour  | Movement of workers | Indentured labour to Caribbean, Mauritius, Fiji, Assam         |
+| Capital | Movement of money   | Shikaripuri Shroffs and Chettiars financing export agriculture |
 
 ## Bretton Woods and G-77
 
-| Point | Bretton Woods Institutions | G-77 |
-| --- | --- | --- |
-| Created by | 1944 conference dominated by industrial powers | Developing countries |
-| Institutions | IMF and World Bank | Group of 77 |
-| Main aim | Stability and reconstruction | Fairer economic order |
-| Control | Western industrial powers, strong US influence | Collective voice of developing countries |
-| Demand | Manage deficits and reconstruction | Resource control, fair prices, market access, aid |
+| Point        | Bretton Woods Institutions                     | G-77                                              |
+| ------------ | ---------------------------------------------- | ------------------------------------------------- |
+| Created by   | 1944 conference dominated by industrial powers | Developing countries                              |
+| Institutions | IMF and World Bank                             | Group of 77                                       |
+| Main aim     | Stability and reconstruction                   | Fairer economic order                             |
+| Control      | Western industrial powers, strong US influence | Collective voice of developing countries          |
+| Demand       | Manage deficits and reconstruction             | Resource control, fair prices, market access, aid |
 
 ---
 
@@ -1287,16 +1288,16 @@ Use this structure:
 
 # Common Mistakes to Avoid
 
-| Mistake | Correct Understanding |
-| --- | --- |
-| Thinking globalisation is only modern. | The chapter shows old global links through trade, migration, religion, food, and disease. |
-| Writing silk routes carried only silk. | They carried pottery, textiles, spices, metals, religion, and ideas too. |
-| Treating European conquest as only military. | Disease, especially smallpox, helped conquest of America. |
-| Forgetting the three flows. | Trade, labour, and capital must be studied together. |
-| Calling indenture voluntary free labour. | It involved deception, harsh conditions, few rights, and coercion. |
-| Ignoring colonial exploitation in globalisation. | Global integration often destroyed livelihoods and freedoms. |
-| Confusing IMF and World Bank. | IMF handles external deficits/surpluses; World Bank finances reconstruction and development. |
-| Forgetting G-77 demands. | Resource control, fair prices, development assistance, and market access. |
+| Mistake                                          | Correct Understanding                                                                        |
+| ------------------------------------------------ | -------------------------------------------------------------------------------------------- |
+| Thinking globalisation is only modern.           | The chapter shows old global links through trade, migration, religion, food, and disease.    |
+| Writing silk routes carried only silk.           | They carried pottery, textiles, spices, metals, religion, and ideas too.                     |
+| Treating European conquest as only military.     | Disease, especially smallpox, helped conquest of America.                                    |
+| Forgetting the three flows.                      | Trade, labour, and capital must be studied together.                                         |
+| Calling indenture voluntary free labour.         | It involved deception, harsh conditions, few rights, and coercion.                           |
+| Ignoring colonial exploitation in globalisation. | Global integration often destroyed livelihoods and freedoms.                                 |
+| Confusing IMF and World Bank.                    | IMF handles external deficits/surpluses; World Bank finances reconstruction and development. |
+| Forgetting G-77 demands.                         | Resource control, fair prices, development assistance, and market access.                    |
 
 ---
 

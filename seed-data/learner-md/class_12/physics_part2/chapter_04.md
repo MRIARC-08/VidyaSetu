@@ -1,4 +1,5 @@
 # Chapter 4: Atoms
+
 ### NCERT Class 12 - Physics Part 2
 
 ## Chapter at a Glance
@@ -25,35 +26,35 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Plum pudding model | Thomson's model in which electrons are embedded in a uniform positive charge. |
-| Alpha particle | Helium nucleus carrying charge `+2e`. |
-| Impact parameter | Perpendicular distance between initial direction of alpha particle and nucleus centre. |
-| Nucleus | Small dense positively charged central part of atom. |
-| Line spectrum | Spectrum containing only discrete wavelengths. |
-| Ground state | Lowest energy state of an atom. |
-| Excited state | Higher energy state reached after atom absorbs energy. |
-| Ionisation energy | Energy required to remove electron completely from atom. |
-| Stationary orbit | Allowed Bohr orbit in which electron does not radiate energy. |
-| Hydrogenic atom | One-electron atom or ion, such as H, He+, or Li2+. |
+| Term               | Meaning                                                                                |
+| ------------------ | -------------------------------------------------------------------------------------- |
+| Plum pudding model | Thomson's model in which electrons are embedded in a uniform positive charge.          |
+| Alpha particle     | Helium nucleus carrying charge `+2e`.                                                  |
+| Impact parameter   | Perpendicular distance between initial direction of alpha particle and nucleus centre. |
+| Nucleus            | Small dense positively charged central part of atom.                                   |
+| Line spectrum      | Spectrum containing only discrete wavelengths.                                         |
+| Ground state       | Lowest energy state of an atom.                                                        |
+| Excited state      | Higher energy state reached after atom absorbs energy.                                 |
+| Ionisation energy  | Energy required to remove electron completely from atom.                               |
+| Stationary orbit   | Allowed Bohr orbit in which electron does not radiate energy.                          |
+| Hydrogenic atom    | One-electron atom or ion, such as H, He+, or Li2+.                                     |
 
 ## Quick Formula Map
 
-| Idea | Formula |
-|---|---|
-| Coulomb force in hydrogen | `e^2/(4 pi epsilon0 r^2) = mv^2/r` |
-| Kinetic energy in orbit | `K = e^2/(8 pi epsilon0 r)` |
-| Potential energy in orbit | `U = -e^2/(4 pi epsilon0 r)` |
-| Total energy in orbit | `E = -e^2/(8 pi epsilon0 r)` |
-| Bohr angular momentum | `mvr = nh/(2 pi)` |
-| Radius of nth orbit | `rn = a0 n^2` |
-| Bohr radius | `a0 = 5.3 x 10^-11 m` |
-| Energy of nth level | `En = -13.6/n^2 eV` |
-| Photon emitted in transition | `h nu = Ei - Ef` |
-| Wavelength relation | `hc/lambda = Ei - Ef` |
-| de Broglie standing wave | `2 pi r = n lambda` |
-| de Broglie wavelength | `lambda = h/mv` |
+| Idea                         | Formula                            |
+| ---------------------------- | ---------------------------------- |
+| Coulomb force in hydrogen    | `e^2/(4 pi epsilon0 r^2) = mv^2/r` |
+| Kinetic energy in orbit      | `K = e^2/(8 pi epsilon0 r)`        |
+| Potential energy in orbit    | `U = -e^2/(4 pi epsilon0 r)`       |
+| Total energy in orbit        | `E = -e^2/(8 pi epsilon0 r)`       |
+| Bohr angular momentum        | `mvr = nh/(2 pi)`                  |
+| Radius of nth orbit          | `rn = a0 n^2`                      |
+| Bohr radius                  | `a0 = 5.3 x 10^-11 m`              |
+| Energy of nth level          | `En = -13.6/n^2 eV`                |
+| Photon emitted in transition | `h nu = Ei - Ef`                   |
+| Wavelength relation          | `hc/lambda = Ei - Ef`              |
+| de Broglie standing wave     | `2 pi r = n lambda`                |
+| de Broglie wavelength        | `lambda = h/mv`                    |
 
 # Unit 4A: Thomson's Atomic Model
 
@@ -272,13 +273,13 @@ Energy levels:
 
 For important values:
 
-| n | Energy |
-|---|---|
-| 1 | `-13.6 eV` |
-| 2 | `-3.40 eV` |
-| 3 | `-1.51 eV` |
-| 4 | `-0.85 eV` |
-| infinity | `0 eV` |
+| n        | Energy     |
+| -------- | ---------- |
+| 1        | `-13.6 eV` |
+| 2        | `-3.40 eV` |
+| 3        | `-1.51 eV` |
+| 4        | `-0.85 eV` |
+| infinity | `0 eV`     |
 
 ## Ground State
 
@@ -322,13 +323,13 @@ where `ni > nf`.
 
 ## Spectral Series
 
-| Series | Final level | Region |
-|---|---|---|
-| Lyman | `nf = 1` | Ultraviolet |
-| Balmer | `nf = 2` | Visible and near ultraviolet |
-| Paschen | `nf = 3` | Infrared |
-| Brackett | `nf = 4` | Infrared |
-| Pfund | `nf = 5` | Infrared |
+| Series   | Final level | Region                       |
+| -------- | ----------- | ---------------------------- |
+| Lyman    | `nf = 1`    | Ultraviolet                  |
+| Balmer   | `nf = 2`    | Visible and near ultraviolet |
+| Paschen  | `nf = 3`    | Infrared                     |
+| Brackett | `nf = 4`    | Infrared                     |
+| Pfund    | `nf = 5`    | Infrared                     |
 
 The visible hydrogen lines mainly belong to Balmer series.
 
@@ -457,15 +458,15 @@ For hydrogen, `r1 = a0 = 5.3 x 10^-11 m`. Find `r2`.
 
 # Unit 4P: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Saying Rutherford proved electrons are inside nucleus. | Rutherford showed positive charge and mass are in nucleus; electrons are outside. |
-| Saying most alpha particles rebound. | Most pass straight; very few rebound. |
-| Treating impact parameter as scattering angle. | It is perpendicular distance from initial path to nucleus centre. |
-| Forgetting negative sign of energy. | Bound electron has negative total energy. |
-| Confusing excitation and ionisation. | Excitation moves electron to higher bound level; ionisation removes it completely. |
-| Using Bohr model for all atoms. | It works mainly for hydrogenic atoms. |
-| Saying electron radiates in stationary orbit. | In Bohr model, stationary orbit has no radiation. |
+| Mistake                                                | Correction                                                                         |
+| ------------------------------------------------------ | ---------------------------------------------------------------------------------- |
+| Saying Rutherford proved electrons are inside nucleus. | Rutherford showed positive charge and mass are in nucleus; electrons are outside.  |
+| Saying most alpha particles rebound.                   | Most pass straight; very few rebound.                                              |
+| Treating impact parameter as scattering angle.         | It is perpendicular distance from initial path to nucleus centre.                  |
+| Forgetting negative sign of energy.                    | Bound electron has negative total energy.                                          |
+| Confusing excitation and ionisation.                   | Excitation moves electron to higher bound level; ionisation removes it completely. |
+| Using Bohr model for all atoms.                        | It works mainly for hydrogenic atoms.                                              |
+| Saying electron radiates in stationary orbit.          | In Bohr model, stationary orbit has no radiation.                                  |
 
 ## Practice Set
 

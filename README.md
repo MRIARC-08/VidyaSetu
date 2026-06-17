@@ -304,17 +304,18 @@ VidyaSetu implements a centralized, hierarchical role-based access control syste
 
 Roles follow a strict privilege hierarchy:
 
-| Role | Level | Access | Permissions |
-|------|-------|--------|-------------|
-| **USER** | 1 | Public | Read content, take quizzes, view personal analytics |
-| **MODERATOR** | 2 | Restricted | Content management, approve questions, analytics (future) |
-| **ADMIN** | 3 | Restricted | Full system access, user management, all operations |
+| Role          | Level | Access     | Permissions                                               |
+| ------------- | ----- | ---------- | --------------------------------------------------------- |
+| **USER**      | 1     | Public     | Read content, take quizzes, view personal analytics       |
+| **MODERATOR** | 2     | Restricted | Content management, approve questions, analytics (future) |
+| **ADMIN**     | 3     | Restricted | Full system access, user management, all operations       |
 
 Higher-level roles inherit permissions of lower levels (e.g., ADMIN can access MODERATOR endpoints).
 
 ### Protected Endpoints
 
 **Admin Routes (Require ADMIN role):**
+
 - `POST /api/admin/seed-ncert` - Seed NCERT curriculum data
 - `POST /api/admin/add-question` - Add questions to the database
 - `GET /api/admin/questions` - List questions with pagination
@@ -355,7 +356,6 @@ When adding new admin features:
 See [Middleware README](src/lib/middleware/README.md) for complete documentation.
 
 ## Contributing
-
 
 Before contributing, read:
 

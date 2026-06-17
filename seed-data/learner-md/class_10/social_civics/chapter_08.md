@@ -1,4 +1,5 @@
 # Chapter 8: Challenges to Democracy
+
 ### NCERT Class 10 - Social Civics
 
 ---
@@ -21,15 +22,15 @@ The chapter's most important lesson is:
 
 ## Chapter at a Glance
 
-| Area | What You Must Understand |
-| --- | --- |
-| Central idea | Democracy is the dominant form of government today, but it faces serious challenges. |
-| Meaning of challenge | A significant difficulty that can be overcome and that creates an opportunity for progress. |
-| Three main challenges | Foundational challenge, challenge of expansion, challenge of deepening. |
-| Political reform | Suggestions or proposals to overcome challenges to democracy. |
+| Area                  | What You Must Understand                                                                          |
+| --------------------- | ------------------------------------------------------------------------------------------------- |
+| Central idea          | Democracy is the dominant form of government today, but it faces serious challenges.              |
+| Meaning of challenge  | A significant difficulty that can be overcome and that creates an opportunity for progress.       |
+| Three main challenges | Foundational challenge, challenge of expansion, challenge of deepening.                           |
+| Political reform      | Suggestions or proposals to overcome challenges to democracy.                                     |
 | Best reform principle | Laws alone are not enough; reforms must strengthen democratic practice and citizen participation. |
-| Key examples | Doctor absenteeism, political funding, RTI, two-child norm in panchayat elections. |
-| Final task | Move from a minimal definition of democracy to a richer idea of good democracy. |
+| Key examples          | Doctor absenteeism, political funding, RTI, two-child norm in panchayat elections.                |
+| Final task            | Move from a minimal definition of democracy to a richer idea of good democracy.                   |
 
 ---
 
@@ -37,14 +38,14 @@ The chapter's most important lesson is:
 
 By the end of this chapter, you should be able to:
 
-| Skill | What You Should Be Able To Do |
-| --- | --- |
-| Define | Explain challenge, foundational challenge, expansion, deepening, political reform, good democracy. |
-| Classify | Place real political problems into the correct category of democratic challenge. |
-| Analyse | Explain why different countries face different democratic challenges. |
-| Evaluate | Judge which reforms are likely to work and which may fail. |
-| Apply | Suggest practical reforms for problems like doctor absenteeism and money power in politics. |
-| Create | Write your own thoughtful definition of good democracy. |
+| Skill    | What You Should Be Able To Do                                                                      |
+| -------- | -------------------------------------------------------------------------------------------------- |
+| Define   | Explain challenge, foundational challenge, expansion, deepening, political reform, good democracy. |
+| Classify | Place real political problems into the correct category of democratic challenge.                   |
+| Analyse  | Explain why different countries face different democratic challenges.                              |
+| Evaluate | Judge which reforms are likely to work and which may fail.                                         |
+| Apply    | Suggest practical reforms for problems like doctor absenteeism and money power in politics.        |
+| Create   | Write your own thoughtful definition of good democracy.                                            |
 
 ---
 
@@ -61,18 +62,18 @@ The chapter moves in four steps:
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Challenge | A significant difficulty that can be overcome and that offers an opportunity for progress. |
-| Foundational challenge | The challenge of establishing democracy where democratic government does not yet exist or is weak. |
-| Challenge of expansion | The challenge of applying democratic principles to more regions, groups, institutions, and levels of government. |
-| Challenge of deepening | The challenge of strengthening democratic institutions and reducing the control of rich and powerful groups. |
-| Political reform | A proposal or action meant to overcome a challenge to democracy. |
-| Democracy reform | Another name for political reform; it means improving democratic politics. |
-| Democratic practice | Actual behaviour of citizens, parties, officials, movements, and institutions in democracy. |
-| Democratic control | The ability of citizens and democratic institutions to influence and monitor decisions. |
-| Right to Information | A law that empowers citizens to seek information from government and act as watchdogs. |
-| Good democracy | A democracy that goes beyond minimum elections and protects rights, equality, participation, accountability, and dignity. |
+| Term                   | Meaning                                                                                                                   |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Challenge              | A significant difficulty that can be overcome and that offers an opportunity for progress.                                |
+| Foundational challenge | The challenge of establishing democracy where democratic government does not yet exist or is weak.                        |
+| Challenge of expansion | The challenge of applying democratic principles to more regions, groups, institutions, and levels of government.          |
+| Challenge of deepening | The challenge of strengthening democratic institutions and reducing the control of rich and powerful groups.              |
+| Political reform       | A proposal or action meant to overcome a challenge to democracy.                                                          |
+| Democracy reform       | Another name for political reform; it means improving democratic politics.                                                |
+| Democratic practice    | Actual behaviour of citizens, parties, officials, movements, and institutions in democracy.                               |
+| Democratic control     | The ability of citizens and democratic institutions to influence and monitor decisions.                                   |
+| Right to Information   | A law that empowers citizens to seek information from government and act as watchdogs.                                    |
+| Good democracy         | A democracy that goes beyond minimum elections and protects rights, equality, participation, accountability, and dignity. |
 
 ---
 
@@ -154,12 +155,12 @@ This means a challenge is not simply negative. It is a problem that pushes a soc
 
 ## Challenge Versus Ordinary Problem
 
-| Ordinary Problem | Democratic Challenge |
-| --- | --- |
-| May be small or temporary. | Is significant for democracy. |
+| Ordinary Problem                            | Democratic Challenge                                                 |
+| ------------------------------------------- | -------------------------------------------------------------------- |
+| May be small or temporary.                  | Is significant for democracy.                                        |
 | May not affect the political system deeply. | Affects democratic institutions, rights, participation, or equality. |
-| May not create a wider opportunity. | Creates a chance to move democracy to a higher level. |
-| May be solved technically. | Requires political, social, legal, and citizen action. |
+| May not create a wider opportunity.         | Creates a chance to move democracy to a higher level.                |
+| May be solved technically.                  | Requires political, social, legal, and citizen action.               |
 
 For example:
 
@@ -196,11 +197,11 @@ These categories are extremely important for exams.
 
 ## Overview Table
 
-| Type of Challenge | Basic Meaning | Main Question |
-| --- | --- | --- |
-| Foundational challenge | Establishing democracy where it does not exist or is not secure. | How can a country become democratic? |
-| Challenge of expansion | Extending democratic principles to more groups, regions, institutions, and levels. | How can democracy include more people and areas? |
-| Challenge of deepening | Strengthening democratic practice and reducing domination by powerful groups. | How can democracy become more meaningful and participatory? |
+| Type of Challenge      | Basic Meaning                                                                      | Main Question                                               |
+| ---------------------- | ---------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| Foundational challenge | Establishing democracy where it does not exist or is not secure.                   | How can a country become democratic?                        |
+| Challenge of expansion | Extending democratic principles to more groups, regions, institutions, and levels. | How can democracy include more people and areas?            |
+| Challenge of deepening | Strengthening democratic practice and reducing domination by powerful groups.      | How can democracy become more meaningful and participatory? |
 
 ---
 
@@ -242,28 +243,28 @@ The word foundational is used because these are the basic foundations without wh
 
 ## Examples of Foundational Challenge
 
-| Example | Why It Is a Foundational Challenge |
-| --- | --- |
-| Military rule | Democracy cannot function if the army controls government. |
-| Dictatorship | Citizens cannot freely choose rulers. |
-| One-party monopoly | Elections do not offer real choice. |
-| Fraudulent referendum | People's consent is manipulated. |
-| Political leaders in exile or prison | Opposition cannot function freely. |
-| Weak state after conflict | Government cannot enforce law or protect rights. |
+| Example                              | Why It Is a Foundational Challenge                         |
+| ------------------------------------ | ---------------------------------------------------------- |
+| Military rule                        | Democracy cannot function if the army controls government. |
+| Dictatorship                         | Citizens cannot freely choose rulers.                      |
+| One-party monopoly                   | Elections do not offer real choice.                        |
+| Fraudulent referendum                | People's consent is manipulated.                           |
+| Political leaders in exile or prison | Opposition cannot function freely.                         |
+| Weak state after conflict            | Government cannot enforce law or protect rights.           |
 
 ---
 
 ## Case Examples from the Chapter
 
-| Case | Challenge |
-| --- | --- |
-| Chile after Pinochet | Military influence remained even after defeat of dictatorship; civilian control had to be established. |
-| Poland under martial law | Solidarity was banned and democratic rights were restricted. |
-| Myanmar | Aung San Suu Kyi was under house arrest and army rulers controlled politics. |
-| Pakistan under General Musharraf | Military ruler held referendum with allegations of fraud. |
-| China | Economic reforms were introduced, but Communist Party kept monopoly over political power. |
-| Nepal | Transition to a democratic constitution faced unrest and armed groups. |
-| Iraq | New government struggled to establish authority amid sectarian violence. |
+| Case                             | Challenge                                                                                              |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Chile after Pinochet             | Military influence remained even after defeat of dictatorship; civilian control had to be established. |
+| Poland under martial law         | Solidarity was banned and democratic rights were restricted.                                           |
+| Myanmar                          | Aung San Suu Kyi was under house arrest and army rulers controlled politics.                           |
+| Pakistan under General Musharraf | Military ruler held referendum with allegations of fraud.                                              |
+| China                            | Economic reforms were introduced, but Communist Party kept monopoly over political power.              |
+| Nepal                            | Transition to a democratic constitution faced unrest and armed groups.                                 |
+| Iraq                             | New government struggled to establish authority amid sectarian violence.                               |
 
 ---
 
@@ -321,26 +322,26 @@ This means decisions affecting people should not be made only by a small elite, 
 
 ## Examples of Expansion Challenge
 
-| Example | Why It Is Expansion |
-| --- | --- |
-| More powers to panchayats and municipalities | Democracy reaches local level. |
-| Reservation for women | Women get greater representation. |
-| Federal autonomy for regions | Regions get democratic control over local matters. |
-| Rights for minorities | Democracy includes groups that may otherwise be excluded. |
-| Inclusion of Dalits and Adivasis | Socially disadvantaged groups gain voice. |
+| Example                                      | Why It Is Expansion                                       |
+| -------------------------------------------- | --------------------------------------------------------- |
+| More powers to panchayats and municipalities | Democracy reaches local level.                            |
+| Reservation for women                        | Women get greater representation.                         |
+| Federal autonomy for regions                 | Regions get democratic control over local matters.        |
+| Rights for minorities                        | Democracy includes groups that may otherwise be excluded. |
+| Inclusion of Dalits and Adivasis             | Socially disadvantaged groups gain voice.                 |
 
 ---
 
 ## Case Examples from the Chapter
 
-| Case | Challenge |
-| --- | --- |
-| Belgium | Dutch speakers demanded greater autonomy; federal power sharing had to expand. |
-| Sri Lanka | Failure to accommodate Tamil demands led to renewed violence. |
-| South Africa | After formal equality, concessions and representation had to be managed carefully. |
+| Case                       | Challenge                                                                             |
+| -------------------------- | ------------------------------------------------------------------------------------- |
+| Belgium                    | Dutch speakers demanded greater autonomy; federal power sharing had to expand.        |
+| Sri Lanka                  | Failure to accommodate Tamil demands led to renewed violence.                         |
+| South Africa               | After formal equality, concessions and representation had to be managed carefully.    |
 | United States Civil Rights | Black citizens had legal equality but remained poor, less educated, and marginalised. |
-| Saudi Arabia | Women and religious minorities lacked public and religious freedoms. |
-| Northern Ireland | Civil war ended, but trust between Catholics and Protestants had to be built. |
+| Saudi Arabia               | Women and religious minorities lacked public and religious freedoms.                  |
+| Northern Ireland           | Civil war ended, but trust between Catholics and Protestants had to be built.         |
 
 ---
 
@@ -416,27 +417,27 @@ This is why democracy must be deepened.
 
 ## Examples of Deepening Challenge
 
-| Example | Why It Is Deepening |
-| --- | --- |
-| Reducing money power in elections | Makes political competition fairer. |
-| Making political parties internally democratic | Gives members more say. |
-| Strengthening RTI | Makes government more transparent. |
-| Increasing citizen participation | Makes democracy active beyond voting. |
-| Reducing corruption | Makes institutions more accountable. |
+| Example                                            | Why It Is Deepening                         |
+| -------------------------------------------------- | ------------------------------------------- |
+| Reducing money power in elections                  | Makes political competition fairer.         |
+| Making political parties internally democratic     | Gives members more say.                     |
+| Strengthening RTI                                  | Makes government more transparent.          |
+| Increasing citizen participation                   | Makes democracy active beyond voting.       |
+| Reducing corruption                                | Makes institutions more accountable.        |
 | Protecting civil liberties during security actions | Keeps state power under democratic control. |
 
 ---
 
 ## Case Examples from the Chapter
 
-| Case | Challenge |
-| --- | --- |
-| Political funding | Wealthy candidates and business donations reduce the voice of ordinary people. |
-| Doctor absenteeism | Public institutions fail citizens when officials are not accountable. |
-| US, Guantanamo Bay | Democratic governments must respect rights and international law even in security matters. |
+| Case                        | Challenge                                                                                         |
+| --------------------------- | ------------------------------------------------------------------------------------------------- |
+| Political funding           | Wealthy candidates and business donations reduce the voice of ordinary people.                    |
+| Doctor absenteeism          | Public institutions fail citizens when officials are not accountable.                             |
+| US, Guantanamo Bay          | Democratic governments must respect rights and international law even in security matters.        |
 | International organisations | Powerful countries may take unilateral action, creating a democratic deficit at the global level. |
-| Bolivia and water struggle | Economic decisions should be under democratic control and not only corporate pressure. |
-| Mexico after PRI defeat | Free elections must also be trusted and fair. |
+| Bolivia and water struggle  | Economic decisions should be under democratic control and not only corporate pressure.            |
+| Mexico after PRI defeat     | Free elections must also be trusted and fair.                                                     |
 
 ---
 
@@ -457,13 +458,13 @@ If yes, the issue is likely a challenge of deepening.
 
 # 7. Comparing the Three Challenges
 
-| Basis | Foundational | Expansion | Deepening |
-| --- | --- | --- | --- |
-| Stage | Before or during transition to democracy | After basic democracy exists | In all democracies |
-| Main aim | Establish democracy | Extend democracy | Improve democracy |
-| Main problem | Non-democratic rule or unstable state | Exclusion of groups, regions, or institutions | Weak participation, corruption, elite domination |
-| Key reform | Free elections, civilian control, rights | Decentralisation, inclusion, power sharing | Transparency, accountability, citizen participation |
-| Example | Military rule in Myanmar | More autonomy for regions in Belgium | Reducing money power in elections |
+| Basis        | Foundational                             | Expansion                                     | Deepening                                           |
+| ------------ | ---------------------------------------- | --------------------------------------------- | --------------------------------------------------- |
+| Stage        | Before or during transition to democracy | After basic democracy exists                  | In all democracies                                  |
+| Main aim     | Establish democracy                      | Extend democracy                              | Improve democracy                                   |
+| Main problem | Non-democratic rule or unstable state    | Exclusion of groups, regions, or institutions | Weak participation, corruption, elite domination    |
+| Key reform   | Free elections, civilian control, rights | Decentralisation, inclusion, power sharing    | Transparency, accountability, citizen participation |
+| Example      | Military rule in Myanmar                 | More autonomy for regions in Belgium          | Reducing money power in elections                   |
 
 ---
 
@@ -505,14 +506,14 @@ For example:
 
 ## Classification Practice
 
-| Situation | Likely Challenge | Reason |
-| --- | --- | --- |
-| Army controls the elected government. | Foundational | Democracy cannot work while military controls power. |
-| Women are excluded from public life. | Expansion | Democracy must include all social groups. |
-| Elections exist but only rich candidates can contest seriously. | Deepening | Democracy exists but is distorted by money power. |
-| Minority language groups demand autonomy. | Expansion | Federal and power-sharing arrangements must widen democracy. |
-| Citizens cannot access government records. | Deepening | Transparency and accountability are weak. |
-| Opposition parties are banned. | Foundational | People do not have real political choice. |
+| Situation                                                       | Likely Challenge | Reason                                                       |
+| --------------------------------------------------------------- | ---------------- | ------------------------------------------------------------ |
+| Army controls the elected government.                           | Foundational     | Democracy cannot work while military controls power.         |
+| Women are excluded from public life.                            | Expansion        | Democracy must include all social groups.                    |
+| Elections exist but only rich candidates can contest seriously. | Deepening        | Democracy exists but is distorted by money power.            |
+| Minority language groups demand autonomy.                       | Expansion        | Federal and power-sharing arrangements must widen democracy. |
+| Citizens cannot access government records.                      | Deepening        | Transparency and accountability are weak.                    |
+| Opposition parties are banned.                                  | Foundational     | People do not have real political choice.                    |
 
 ---
 
@@ -522,32 +523,32 @@ The chapter asks students to group challenges according to different spheres or 
 
 These spheres help you locate exactly where democracy is weak.
 
-| Sphere | Type of Questions to Ask |
-| --- | --- |
-| Constitutional design | Does the constitution distribute power fairly and protect rights? |
-| Democratic rights | Are rights available to all citizens in practice? |
-| Working of institutions | Do parliament, courts, bureaucracy, and local bodies function properly? |
-| Elections | Are elections free, fair, affordable, and meaningful? |
-| Federalism and decentralisation | Do regions and local governments have real power? |
-| Accommodation of diversity | Are caste, religion, language, region, and ethnicity handled peacefully? |
-| Political organisations | Are parties, movements, unions, and pressure groups democratic and accountable? |
-| Social and economic equality | Do poor and marginalised groups have real voice? |
-| Media and public debate | Can citizens access reliable information and criticise power? |
+| Sphere                          | Type of Questions to Ask                                                        |
+| ------------------------------- | ------------------------------------------------------------------------------- |
+| Constitutional design           | Does the constitution distribute power fairly and protect rights?               |
+| Democratic rights               | Are rights available to all citizens in practice?                               |
+| Working of institutions         | Do parliament, courts, bureaucracy, and local bodies function properly?         |
+| Elections                       | Are elections free, fair, affordable, and meaningful?                           |
+| Federalism and decentralisation | Do regions and local governments have real power?                               |
+| Accommodation of diversity      | Are caste, religion, language, region, and ethnicity handled peacefully?        |
+| Political organisations         | Are parties, movements, unions, and pressure groups democratic and accountable? |
+| Social and economic equality    | Do poor and marginalised groups have real voice?                                |
+| Media and public debate         | Can citizens access reliable information and criticise power?                   |
 
 ---
 
 ## Example: India
 
-| Sphere | Possible Challenge in India |
-| --- | --- |
-| Elections | Use of money power, criminal candidates, misinformation. |
-| Federalism | Centre-state tensions, demands for autonomy. |
-| Local government | Panchayats and municipalities may lack funds or real power. |
-| Democratic rights | Rights may exist legally but be weak for poor and marginalised people. |
-| Social diversity | Casteism, communalism, regional tensions, gender inequality. |
-| Political parties | Lack of internal democracy and dependence on money. |
-| Working of institutions | Corruption, delays, weak service delivery. |
-| Public participation | Citizens may become active only during elections. |
+| Sphere                  | Possible Challenge in India                                            |
+| ----------------------- | ---------------------------------------------------------------------- |
+| Elections               | Use of money power, criminal candidates, misinformation.               |
+| Federalism              | Centre-state tensions, demands for autonomy.                           |
+| Local government        | Panchayats and municipalities may lack funds or real power.            |
+| Democratic rights       | Rights may exist legally but be weak for poor and marginalised people. |
+| Social diversity        | Casteism, communalism, regional tensions, gender inequality.           |
+| Political parties       | Lack of internal democracy and dependence on money.                    |
+| Working of institutions | Corruption, delays, weak service delivery.                             |
+| Public participation    | Citizens may become active only during elections.                      |
 
 ---
 
@@ -675,12 +676,12 @@ The chapter says laws that only ban something are often not very successful in p
 
 Better reforms are those that create incentives for good behaviour or empower citizens.
 
-| Weak Reform Style | Better Reform Style |
-| --- | --- |
+| Weak Reform Style           | Better Reform Style                                       |
+| --------------------------- | --------------------------------------------------------- |
 | Simply ban wrong behaviour. | Make wrong behaviour costly and good behaviour rewarding. |
-| Depend only on punishment. | Give citizens tools to monitor power. |
-| Trust officials alone. | Involve people, media, and institutions. |
-| Centralise control. | Strengthen democratic participation. |
+| Depend only on punishment.  | Give citizens tools to monitor power.                     |
+| Trust officials alone.      | Involve people, media, and institutions.                  |
+| Centralise control.         | Strengthen democratic participation.                      |
 
 ---
 
@@ -785,12 +786,12 @@ This is mainly a challenge of deepening democracy because the institution exists
 
 ## Reform Options Given in the Chapter
 
-| Option | Strength | Weakness |
-| --- | --- | --- |
-| Make doctors live in the village or terminate service. | Directly targets absence. | May be too rigid if housing, safety, schooling, or infrastructure is poor. |
-| District administration and police conduct surprise raids. | Creates fear of punishment. | Can become temporary, corrupt, or bureaucratic. |
-| Village panchayat writes annual report of doctor, read in Gram Sabha. | Empowers local citizens and creates democratic accountability. | Needs active Gram Sabha and protection from local pressure politics. |
-| Split Uttar Pradesh into smaller states. | Could improve administration in theory. | Too broad; does not directly solve doctor absenteeism. |
+| Option                                                                | Strength                                                       | Weakness                                                                   |
+| --------------------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| Make doctors live in the village or terminate service.                | Directly targets absence.                                      | May be too rigid if housing, safety, schooling, or infrastructure is poor. |
+| District administration and police conduct surprise raids.            | Creates fear of punishment.                                    | Can become temporary, corrupt, or bureaucratic.                            |
+| Village panchayat writes annual report of doctor, read in Gram Sabha. | Empowers local citizens and creates democratic accountability. | Needs active Gram Sabha and protection from local pressure politics.       |
+| Split Uttar Pradesh into smaller states.                              | Could improve administration in theory.                        | Too broad; does not directly solve doctor absenteeism.                     |
 
 ---
 
@@ -854,10 +855,10 @@ Democracy exists, but its quality is weakened by unequal economic power.
 
 ## Reform Options Given in the Chapter
 
-| Option | Strength | Weakness |
-| --- | --- | --- |
-| Make financial accounts of every political party public and audited. | Increases transparency and accountability. | Audits must be independent and meaningful. |
-| State funding of elections. | Reduces dependence on big donors. | Public money can be misused if monitoring is weak. |
+| Option                                                                            | Strength                                           | Weakness                                                                      |
+| --------------------------------------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------- |
+| Make financial accounts of every political party public and audited.              | Increases transparency and accountability.         | Audits must be independent and meaningful.                                    |
+| State funding of elections.                                                       | Reduces dependence on big donors.                  | Public money can be misused if monitoring is weak.                            |
 | Encourage citizens to donate to parties and political workers with tax exemption. | Promotes small donations and public participation. | Rich citizens may still dominate unless donation limits and disclosure exist. |
 
 ---
@@ -1270,19 +1271,19 @@ Politicians matter, but citizens, officials, parties, media, social groups, and 
 
 # 20. Quick Revision Table
 
-| Topic | One-Line Revision |
-| --- | --- |
-| Challenge | Significant difficulty that can be overcome and leads to progress. |
-| Foundational challenge | Establish democracy where it does not exist or is insecure. |
-| Expansion | Extend democracy to all groups, regions, and institutions. |
-| Deepening | Improve quality of democracy and reduce domination by powerful groups. |
-| Political reform | Proposal to overcome democratic challenges. |
-| Legal reform | Useful but not enough by itself. |
-| RTI | Empowers citizens and increases transparency. |
-| Two-child norm | Example of a reform with harmful unintended effects. |
-| Doctor absenteeism | Shows weak accountability in public services. |
-| Political funding | Shows danger of money power in democracy. |
-| Good democracy | Goes beyond elections to rights, dignity, accountability, participation, and equality. |
+| Topic                  | One-Line Revision                                                                      |
+| ---------------------- | -------------------------------------------------------------------------------------- |
+| Challenge              | Significant difficulty that can be overcome and leads to progress.                     |
+| Foundational challenge | Establish democracy where it does not exist or is insecure.                            |
+| Expansion              | Extend democracy to all groups, regions, and institutions.                             |
+| Deepening              | Improve quality of democracy and reduce domination by powerful groups.                 |
+| Political reform       | Proposal to overcome democratic challenges.                                            |
+| Legal reform           | Useful but not enough by itself.                                                       |
+| RTI                    | Empowers citizens and increases transparency.                                          |
+| Two-child norm         | Example of a reform with harmful unintended effects.                                   |
+| Doctor absenteeism     | Shows weak accountability in public services.                                          |
+| Political funding      | Shows danger of money power in democracy.                                              |
+| Good democracy         | Goes beyond elections to rights, dignity, accountability, participation, and equality. |
 
 ---
 
@@ -1299,4 +1300,3 @@ A good democracy is more than elected government. It protects rights, shares pow
 ## Best Final Line for Answers
 
 Democracy is not a finished product; it is a continuous process in which citizens, institutions, laws, parties, movements, and public debate work together to overcome challenges and make democracy more equal, accountable, and meaningful.
-

@@ -120,8 +120,8 @@ export default function ChapterContent({
             Content not yet available
           </h2>
           <p className="mt-3 max-w-2xl text-primary/70">
-            Content for this chapter has not been added yet. Please check
-            back later.
+            Content for this chapter has not been added yet. Please check back
+            later.
           </p>
         </div>
       )}

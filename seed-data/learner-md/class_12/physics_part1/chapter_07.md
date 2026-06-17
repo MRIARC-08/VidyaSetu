@@ -1,4 +1,5 @@
 # Chapter 7: Alternating Current
+
 ### NCERT Class 12 - Physics Part 1
 
 ## Chapter at a Glance
@@ -24,35 +25,35 @@ By the end of this chapter, learners should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Alternating current | Current varying periodically and reversing direction. |
-| Peak value | Maximum value of AC quantity. |
-| rms value | Effective value producing same heating effect as DC. |
-| Phasor | Rotating vector representing sinusoidal quantity. |
-| Reactance | Opposition offered by inductor or capacitor to AC. |
-| Impedance | Total opposition in AC circuit. |
-| Resonance | Condition when inductive and capacitive reactances are equal. |
-| Power factor | `cos phi`, factor deciding real power in AC circuit. |
-| Transformer | Device changing AC voltage using mutual induction. |
+| Term                | Meaning                                                       |
+| ------------------- | ------------------------------------------------------------- |
+| Alternating current | Current varying periodically and reversing direction.         |
+| Peak value          | Maximum value of AC quantity.                                 |
+| rms value           | Effective value producing same heating effect as DC.          |
+| Phasor              | Rotating vector representing sinusoidal quantity.             |
+| Reactance           | Opposition offered by inductor or capacitor to AC.            |
+| Impedance           | Total opposition in AC circuit.                               |
+| Resonance           | Condition when inductive and capacitive reactances are equal. |
+| Power factor        | `cos phi`, factor deciding real power in AC circuit.          |
+| Transformer         | Device changing AC voltage using mutual induction.            |
 
 ## Quick Formula Map
 
-| Concept | Formula |
-|---|---|
-| AC voltage | `v = Vm sin(omega t)` |
-| AC current | `i = Im sin(omega t + phi)` |
-| rms voltage | `Vrms = Vm/sqrt(2)` |
-| rms current | `Irms = Im/sqrt(2)` |
-| Inductive reactance | `XL = omega L` |
-| Capacitive reactance | `XC = 1/(omega C)` |
-| Impedance of series LCR | `Z = sqrt(R^2 + (XL - XC)^2)` |
-| Current amplitude | `Im = Vm/Z` |
-| Phase angle | `tan phi = (XL - XC)/R` |
-| Resonance angular frequency | `omega0 = 1/sqrt(LC)` |
-| Average power | `P = Vrms Irms cos phi` |
-| Power factor | `cos phi = R/Z` |
-| Transformer ratio | `Vs/Vp = Ns/Np` |
+| Concept                     | Formula                       |
+| --------------------------- | ----------------------------- |
+| AC voltage                  | `v = Vm sin(omega t)`         |
+| AC current                  | `i = Im sin(omega t + phi)`   |
+| rms voltage                 | `Vrms = Vm/sqrt(2)`           |
+| rms current                 | `Irms = Im/sqrt(2)`           |
+| Inductive reactance         | `XL = omega L`                |
+| Capacitive reactance        | `XC = 1/(omega C)`            |
+| Impedance of series LCR     | `Z = sqrt(R^2 + (XL - XC)^2)` |
+| Current amplitude           | `Im = Vm/Z`                   |
+| Phase angle                 | `tan phi = (XL - XC)/R`       |
+| Resonance angular frequency | `omega0 = 1/sqrt(LC)`         |
+| Average power               | `P = Vrms Irms cos phi`       |
+| Power factor                | `cos phi = R/Z`               |
+| Transformer ratio           | `Vs/Vp = Ns/Np`               |
 
 # Unit 7A: Alternating Voltage and Current
 
@@ -164,11 +165,11 @@ They help compare phase relationships.
 
 ## Phase Summary
 
-| Circuit Element | Phase Relation |
-|---|---|
-| Resistor | Current and voltage in phase. |
-| Inductor | Current lags voltage by `pi/2`. |
-| Capacitor | Current leads voltage by `pi/2`. |
+| Circuit Element | Phase Relation                   |
+| --------------- | -------------------------------- |
+| Resistor        | Current and voltage in phase.    |
+| Inductor        | Current lags voltage by `pi/2`.  |
+| Capacitor       | Current leads voltage by `pi/2`. |
 
 Memory aid:
 
@@ -231,12 +232,12 @@ For series LCR:
 
 ## Special Cases
 
-| Circuit | Power Factor | Average Power |
-|---|---|---|
-| Pure resistor | `1` | Maximum real power |
-| Pure inductor | `0` | Zero average power |
-| Pure capacitor | `0` | Zero average power |
-| LCR at resonance | `1` | Maximum power |
+| Circuit          | Power Factor | Average Power      |
+| ---------------- | ------------ | ------------------ |
+| Pure resistor    | `1`          | Maximum real power |
+| Pure inductor    | `0`          | Zero average power |
+| Pure capacitor   | `0`          | Zero average power |
+| LCR at resonance | `1`          | Maximum power      |
 
 # Unit 7J: Wattless Current
 
@@ -375,14 +376,14 @@ Write in this order:
 
 # Unit 7P: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Using peak value when rms is needed | Check whether problem gives peak or rms. |
-| Saying inductor current leads voltage | In inductor, current lags voltage. |
-| Saying capacitor current lags voltage | In capacitor, current leads voltage. |
-| Adding reactances directly in LCR | Use `XL - XC` inside impedance. |
-| Forgetting resonance condition | At resonance, `XL = XC`. |
-| Saying pure inductor consumes average power | Average power is zero. |
+| Mistake                                           | Correction                                 |
+| ------------------------------------------------- | ------------------------------------------ |
+| Using peak value when rms is needed               | Check whether problem gives peak or rms.   |
+| Saying inductor current leads voltage             | In inductor, current lags voltage.         |
+| Saying capacitor current lags voltage             | In capacitor, current leads voltage.       |
+| Adding reactances directly in LCR                 | Use `XL - XC` inside impedance.            |
+| Forgetting resonance condition                    | At resonance, `XL = XC`.                   |
+| Saying pure inductor consumes average power       | Average power is zero.                     |
 | Applying transformer formula to DC steady current | Transformer requires changing flux, so AC. |
 
 ## Practice Set

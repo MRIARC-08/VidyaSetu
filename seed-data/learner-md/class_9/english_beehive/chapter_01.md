@@ -1,20 +1,21 @@
 # Chapter 1: Literacy, Learning, and Love for the Motherland
+
 ### NCERT Class 9 - English Beehive
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 9 |
-| **Subject** | English Beehive |
-| **Chapter** | 1 |
-| **Actual Main Texts** | "How I Taught My Grandmother to Read" and "Bharat Our Land" |
-| **Raw File Header** | "The Fun They Had" |
-| **Textbook Pages** | 1-32 |
-| **Core Theme** | Literacy, dignity, intergenerational learning, respect for teachers, and pride in India. |
-| **Main Skills** | Reading comprehension, character analysis, poetic appreciation, vocabulary, past perfect tense, formal letter writing, and speaking. |
+| Detail                | Learner-Friendly Information                                                                                                         |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| **Class**             | 9                                                                                                                                    |
+| **Subject**           | English Beehive                                                                                                                      |
+| **Chapter**           | 1                                                                                                                                    |
+| **Actual Main Texts** | "How I Taught My Grandmother to Read" and "Bharat Our Land"                                                                          |
+| **Raw File Header**   | "The Fun They Had"                                                                                                                   |
+| **Textbook Pages**    | 1-32                                                                                                                                 |
+| **Core Theme**        | Literacy, dignity, intergenerational learning, respect for teachers, and pride in India.                                             |
+| **Main Skills**       | Reading comprehension, character analysis, poetic appreciation, vocabulary, past perfect tense, formal letter writing, and speaking. |
 
 > [!NOTE]
 > The raw source file is `chapter_01.md` and its extraction header says "The Fun They Had", but the actual chapter content contains **How I Taught My Grandmother to Read** by Sudha Murty and the poem **Bharat Our Land** by Subramania Bharati. This learner-facing version follows the actual chapter content.
@@ -23,15 +24,15 @@
 
 ## Section Structure
 
-| Unit | Text / Skill | Main Learning Focus |
-|---|---|---|
+| Unit   | Text / Skill                        | Main Learning Focus                                                                    |
+| ------ | ----------------------------------- | -------------------------------------------------------------------------------------- |
 | **1A** | How I Taught My Grandmother to Read | Adult literacy, self-respect, independence, age and learning, teacher-student respect. |
-| **1B** | Vocabulary from the Prose | Binomials, prefixes, idioms related to learning. |
-| **1C** | Grammar | Simple past and past perfect tense. |
-| **1D** | Speaking and Writing | Turncoat debate and letter to the editor on adult literacy. |
-| **1E** | Learning Beyond the Text | Digital, financial, adult, early, and cultural literacy. |
-| **1F** | Bharat Our Land | Patriotic ode, symbolism, imagery, allusion, hyperbole, and national pride. |
-| **1G** | Poem-Based Language Work | Suffixes, descriptive vocabulary, paragraph writing, and project work. |
+| **1B** | Vocabulary from the Prose           | Binomials, prefixes, idioms related to learning.                                       |
+| **1C** | Grammar                             | Simple past and past perfect tense.                                                    |
+| **1D** | Speaking and Writing                | Turncoat debate and letter to the editor on adult literacy.                            |
+| **1E** | Learning Beyond the Text            | Digital, financial, adult, early, and cultural literacy.                               |
+| **1F** | Bharat Our Land                     | Patriotic ode, symbolism, imagery, allusion, hyperbole, and national pride.            |
+| **1G** | Poem-Based Language Work            | Suffixes, descriptive vocabulary, paragraph writing, and project work.                 |
 
 ---
 
@@ -39,42 +40,42 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Understand the prose lesson** | Explain the plot, conflict, turning point, and message of the story. |
-| **Analyse characters** | Describe Krishtakka, the narrator, and their relationship. |
-| **Connect text to life** | Explain why literacy gives dignity and independence. |
-| **Answer extract questions** | Identify clues, infer feelings, and support answers with story context. |
-| **Use vocabulary accurately** | Use binomials, prefixes, and learning-related idioms. |
-| **Use past perfect tense** | Show which of two past actions happened earlier. |
-| **Write formally** | Draft a letter to the editor about adult literacy camps. |
-| **Appreciate poetry** | Explain the mood, tone, symbols, allusions, and devices in "Bharat Our Land". |
-| **Speak confidently** | Present both sides of a topic in a turncoat debate. |
-| **Build cultural awareness** | Connect language, literacy, geography, and heritage. |
+| Outcome                         | You Should Be Able To...                                                      |
+| ------------------------------- | ----------------------------------------------------------------------------- |
+| **Understand the prose lesson** | Explain the plot, conflict, turning point, and message of the story.          |
+| **Analyse characters**          | Describe Krishtakka, the narrator, and their relationship.                    |
+| **Connect text to life**        | Explain why literacy gives dignity and independence.                          |
+| **Answer extract questions**    | Identify clues, infer feelings, and support answers with story context.       |
+| **Use vocabulary accurately**   | Use binomials, prefixes, and learning-related idioms.                         |
+| **Use past perfect tense**      | Show which of two past actions happened earlier.                              |
+| **Write formally**              | Draft a letter to the editor about adult literacy camps.                      |
+| **Appreciate poetry**           | Explain the mood, tone, symbols, allusions, and devices in "Bharat Our Land". |
+| **Speak confidently**           | Present both sides of a topic in a turncoat debate.                           |
+| **Build cultural awareness**    | Connect language, literacy, geography, and heritage.                          |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Literacy** | Ability to read and write; in modern contexts, also the ability to use information responsibly. |
-| **Adult literacy** | Learning to read and write as an adult. |
-| **Independence** | Ability to do something without depending completely on others. |
-| **Determination** | Firm decision to do something despite difficulty. |
-| **Protagonist** | Main character in a story. |
-| **Episode** | One part of a story or serial. |
-| **Community** | People living together or sharing a social setting. |
-| **Debate** | Discussion where different views are expressed. |
-| **Binomial** | Fixed pair of words joined by "and" or "or", such as "hide and seek". |
-| **Prefix** | Letter group added before a word to change meaning, such as "un-" in "unhappy". |
-| **Idiom** | Fixed expression whose meaning is not simply the literal meaning of its words. |
-| **Ode** | Poem of praise or admiration. |
-| **Refrain** | Repeated phrase or line in a poem. |
-| **Symbolism** | Use of a person, place, object, or idea to represent a larger meaning. |
-| **Allusion** | Indirect reference to a known person, text, belief, event, or tradition. |
-| **Hyperbole** | Deliberate exaggeration for effect. |
-| **Imagery** | Descriptive language that creates mental pictures. |
+| Term               | Meaning                                                                                         |
+| ------------------ | ----------------------------------------------------------------------------------------------- |
+| **Literacy**       | Ability to read and write; in modern contexts, also the ability to use information responsibly. |
+| **Adult literacy** | Learning to read and write as an adult.                                                         |
+| **Independence**   | Ability to do something without depending completely on others.                                 |
+| **Determination**  | Firm decision to do something despite difficulty.                                               |
+| **Protagonist**    | Main character in a story.                                                                      |
+| **Episode**        | One part of a story or serial.                                                                  |
+| **Community**      | People living together or sharing a social setting.                                             |
+| **Debate**         | Discussion where different views are expressed.                                                 |
+| **Binomial**       | Fixed pair of words joined by "and" or "or", such as "hide and seek".                           |
+| **Prefix**         | Letter group added before a word to change meaning, such as "un-" in "unhappy".                 |
+| **Idiom**          | Fixed expression whose meaning is not simply the literal meaning of its words.                  |
+| **Ode**            | Poem of praise or admiration.                                                                   |
+| **Refrain**        | Repeated phrase or line in a poem.                                                              |
+| **Symbolism**      | Use of a person, place, object, or idea to represent a larger meaning.                          |
+| **Allusion**       | Indirect reference to a known person, text, belief, event, or tradition.                        |
+| **Hyperbole**      | Deliberate exaggeration for effect.                                                             |
+| **Imagery**        | Descriptive language that creates mental pictures.                                              |
 
 ---
 
@@ -106,15 +107,15 @@ Together, they ask learners to value:
 
 ## Text Identity
 
-| Detail | Information |
-|---|---|
-| **Title** | How I Taught My Grandmother to Read |
-| **Author** | Sudha Murty |
-| **Genre** | Autobiographical / reflective prose narrative |
-| **Setting** | A village in north Karnataka |
-| **Main Characters** | The narrator, her grandmother Krishtakka / Avva |
+| Detail               | Information                                                               |
+| -------------------- | ------------------------------------------------------------------------- |
+| **Title**            | How I Taught My Grandmother to Read                                       |
+| **Author**           | Sudha Murty                                                               |
+| **Genre**            | Autobiographical / reflective prose narrative                             |
+| **Setting**          | A village in north Karnataka                                              |
+| **Main Characters**  | The narrator, her grandmother Krishtakka / Avva                           |
 | **Central Conflict** | The grandmother cannot read and feels helpless when the narrator is away. |
-| **Main Message** | Learning has no age limit, and literacy gives independence. |
+| **Main Message**     | Learning has no age limit, and literacy gives independence.               |
 
 ---
 
@@ -146,18 +147,18 @@ The narrator first laughed at the idea, but the grandmother remained determined.
 
 ## Detailed Plot Map
 
-| Stage | What Happens | Why It Matters |
-|---|---|---|
-| **Village life** | The narrator lives with her grandparents in north Karnataka. | Establishes a rural setting and close family bonds. |
-| **Arrival of magazines** | The family waits for newspapers, post, and magazines brought by bus. | Shows the importance of reading material in village life. |
-| **Kashi Yatre serial** | The grandmother loves listening to the novel read aloud. | Literature becomes part of her emotional life. |
-| **Grandmother's dependence** | She cannot read because she never went to school. | Introduces the central problem. |
-| **Narrator's absence** | The narrator goes to a wedding and stays for a week. | Creates the crisis. |
-| **Magazine arrives** | The grandmother cannot read the next episode. | She feels helpless despite having money and family. |
-| **Decision to learn** | She decides to learn the Kannada alphabet. | Shows determination and self-respect. |
-| **Learning period** | She practises reading, writing, repeating, and reciting. | Proves that age is not a barrier. |
-| **Dassara day** | She reads the title and publisher's name of the novel. | Confirms her success. |
-| **Touching feet** | She touches the narrator's feet as a teacher. | Redefines respect through learning, not age. |
+| Stage                        | What Happens                                                         | Why It Matters                                            |
+| ---------------------------- | -------------------------------------------------------------------- | --------------------------------------------------------- |
+| **Village life**             | The narrator lives with her grandparents in north Karnataka.         | Establishes a rural setting and close family bonds.       |
+| **Arrival of magazines**     | The family waits for newspapers, post, and magazines brought by bus. | Shows the importance of reading material in village life. |
+| **Kashi Yatre serial**       | The grandmother loves listening to the novel read aloud.             | Literature becomes part of her emotional life.            |
+| **Grandmother's dependence** | She cannot read because she never went to school.                    | Introduces the central problem.                           |
+| **Narrator's absence**       | The narrator goes to a wedding and stays for a week.                 | Creates the crisis.                                       |
+| **Magazine arrives**         | The grandmother cannot read the next episode.                        | She feels helpless despite having money and family.       |
+| **Decision to learn**        | She decides to learn the Kannada alphabet.                           | Shows determination and self-respect.                     |
+| **Learning period**          | She practises reading, writing, repeating, and reciting.             | Proves that age is not a barrier.                         |
+| **Dassara day**              | She reads the title and publisher's name of the novel.               | Confirms her success.                                     |
+| **Touching feet**            | She touches the narrator's feet as a teacher.                        | Redefines respect through learning, not age.              |
 
 ---
 
@@ -165,25 +166,25 @@ The narrator first laughed at the idea, but the grandmother remained determined.
 
 ### Krishtakka / Avva
 
-| Quality | Evidence from the Story | Explanation |
-|---|---|---|
-| **Loving** | She cares deeply for her children and grandchildren. | Her life has been centred on family service. |
-| **Sensitive** | She cries when she feels helpless. | Her tears come from wounded dignity, not weakness. |
-| **Self-aware** | She recognises that money is not enough without independence. | She understands the real value of literacy. |
-| **Determined** | She sets Saraswati Puja as a deadline. | She converts regret into disciplined effort. |
-| **Hard-working** | She reads, writes, repeats, and recites. | She treats learning seriously. |
-| **Humble** | She accepts her granddaughter as her teacher. | She values knowledge more than social hierarchy. |
-| **Respectful** | She touches the narrator's feet as a teacher. | She honours the role of the teacher above age. |
+| Quality          | Evidence from the Story                                       | Explanation                                        |
+| ---------------- | ------------------------------------------------------------- | -------------------------------------------------- |
+| **Loving**       | She cares deeply for her children and grandchildren.          | Her life has been centred on family service.       |
+| **Sensitive**    | She cries when she feels helpless.                            | Her tears come from wounded dignity, not weakness. |
+| **Self-aware**   | She recognises that money is not enough without independence. | She understands the real value of literacy.        |
+| **Determined**   | She sets Saraswati Puja as a deadline.                        | She converts regret into disciplined effort.       |
+| **Hard-working** | She reads, writes, repeats, and recites.                      | She treats learning seriously.                     |
+| **Humble**       | She accepts her granddaughter as her teacher.                 | She values knowledge more than social hierarchy.   |
+| **Respectful**   | She touches the narrator's feet as a teacher.                 | She honours the role of the teacher above age.     |
 
 ### The Narrator
 
-| Quality | Evidence from the Story | Explanation |
-|---|---|---|
-| **Affectionate** | She reads the serial to her grandmother every week. | She shares a close bond with Avva. |
-| **Young and impulsive** | She laughs at the grandmother's plan at first. | She initially assumes old age prevents learning. |
-| **Helpful** | She teaches her grandmother. | Her affection becomes practical support. |
-| **Reflective** | She remembers the event with emotional clarity. | She later understands its deeper meaning. |
-| **Respectful** | She returns the grandmother's namaskara. | She recognises the grandmother's dignity and achievement. |
+| Quality                 | Evidence from the Story                             | Explanation                                               |
+| ----------------------- | --------------------------------------------------- | --------------------------------------------------------- |
+| **Affectionate**        | She reads the serial to her grandmother every week. | She shares a close bond with Avva.                        |
+| **Young and impulsive** | She laughs at the grandmother's plan at first.      | She initially assumes old age prevents learning.          |
+| **Helpful**             | She teaches her grandmother.                        | Her affection becomes practical support.                  |
+| **Reflective**          | She remembers the event with emotional clarity.     | She later understands its deeper meaning.                 |
+| **Respectful**          | She returns the grandmother's namaskara.            | She recognises the grandmother's dignity and achievement. |
 
 ---
 
@@ -267,27 +268,27 @@ The serial becomes the reason the grandmother realises how dependent she is. Wit
 
 ## Cause and Effect Table
 
-| Cause | Effect |
-|---|---|
-| Newspapers and magazines arrived late in the village. | The family waited eagerly for the bus carrying reading material. |
-| Krishtakka never went to school. | She could not read the magazine herself. |
-| She identified with the protagonist of `Kashi Yatre`. | She became deeply interested in every episode. |
-| The narrator went away to a wedding for a week. | The grandmother could not hear the next episode when the magazine arrived. |
-| The grandmother felt dependent and helpless. | She decided to learn the Kannada alphabet. |
-| The grandmother regretted not being educated. | She made sure her children and grandchildren studied well. |
+| Cause                                                 | Effect                                                                     |
+| ----------------------------------------------------- | -------------------------------------------------------------------------- |
+| Newspapers and magazines arrived late in the village. | The family waited eagerly for the bus carrying reading material.           |
+| Krishtakka never went to school.                      | She could not read the magazine herself.                                   |
+| She identified with the protagonist of `Kashi Yatre`. | She became deeply interested in every episode.                             |
+| The narrator went away to a wedding for a week.       | The grandmother could not hear the next episode when the magazine arrived. |
+| The grandmother felt dependent and helpless.          | She decided to learn the Kannada alphabet.                                 |
+| The grandmother regretted not being educated.         | She made sure her children and grandchildren studied well.                 |
 
 ---
 
 ## Check Your Understanding: True or False
 
-| Statement | Answer | Reason |
-|---|---|---|
-| The grandmother wanted to learn the Kannada alphabet to gain independence. | True | She clearly connects reading with independence. |
-| The grandmother asked someone in the village to read `Kashi Yatre` while the narrator was away. | False | She felt too embarrassed to ask. |
-| The narrator was the grandmother's first teacher. | True | The narrator teaches her grandmother to read. |
-| The grandmother believed there was no age limit for learning. | True | This is one of her strongest beliefs. |
-| The grandmother touched the narrator's feet as a mark of respect for her as a teacher. | True | She says she is respecting the teacher, not merely the granddaughter. |
-| The narrator was disappointed with her grandmother's progress. | False | She recognises that her student succeeded fully. |
+| Statement                                                                                       | Answer | Reason                                                                |
+| ----------------------------------------------------------------------------------------------- | ------ | --------------------------------------------------------------------- |
+| The grandmother wanted to learn the Kannada alphabet to gain independence.                      | True   | She clearly connects reading with independence.                       |
+| The grandmother asked someone in the village to read `Kashi Yatre` while the narrator was away. | False  | She felt too embarrassed to ask.                                      |
+| The narrator was the grandmother's first teacher.                                               | True   | The narrator teaches her grandmother to read.                         |
+| The grandmother believed there was no age limit for learning.                                   | True   | This is one of her strongest beliefs.                                 |
+| The grandmother touched the narrator's feet as a mark of respect for her as a teacher.          | True   | She says she is respecting the teacher, not merely the granddaughter. |
+| The narrator was disappointed with her grandmother's progress.                                  | False  | She recognises that her student succeeded fully.                      |
 
 ---
 
@@ -301,13 +302,13 @@ This moment shows that the grandmother, usually strong and cheerful, has been em
 
 #### Likely Answers
 
-| Question Type | Answer Guidance |
-|---|---|
-| The grandmother was never seen crying earlier. What does this show? | She was strong-willed and emotionally resilient. |
-| Why did she not reply immediately? | She was too emotional to explain her pain at once. |
-| Rural setting clue | Sleeping on an open terrace, village life, temple courtyard, bus bringing magazines and post. |
-| Tender atmosphere | The moonlit terrace, the grandmother sitting beside the child, and her affectionate touch create tenderness. |
-| What is not emphasised? | The extract does not yet fully explain her regret over lack of education; that appears more clearly later. |
+| Question Type                                                       | Answer Guidance                                                                                              |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| The grandmother was never seen crying earlier. What does this show? | She was strong-willed and emotionally resilient.                                                             |
+| Why did she not reply immediately?                                  | She was too emotional to explain her pain at once.                                                           |
+| Rural setting clue                                                  | Sleeping on an open terrace, village life, temple courtyard, bus bringing magazines and post.                |
+| Tender atmosphere                                                   | The moonlit terrace, the grandmother sitting beside the child, and her affectionate touch create tenderness. |
+| What is not emphasised?                                             | The extract does not yet fully explain her regret over lack of education; that appears more clearly later.   |
 
 ### Extract 2: Decision to Learn
 
@@ -317,13 +318,13 @@ The grandmother's decision is not casual. She sets a deadline, accepts hard work
 
 #### Likely Answers
 
-| Question Type | Answer Guidance |
-|---|---|
-| What does "I want to be independent" reveal? | She wants self-sufficiency and dignity. |
-| Learning has no what? | Age limit. |
-| Why does the narrator laugh? | She assumes old age, grey hair, spectacles, and kitchen work make learning difficult or unrealistic. |
-| Two qualities of grandmother | Determination, humility, courage, discipline, self-respect. |
-| How is the narrator making assumptions? | She judges the grandmother's ability by age and appearance rather than willpower. |
+| Question Type                                | Answer Guidance                                                                                      |
+| -------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| What does "I want to be independent" reveal? | She wants self-sufficiency and dignity.                                                              |
+| Learning has no what?                        | Age limit.                                                                                           |
+| Why does the narrator laugh?                 | She assumes old age, grey hair, spectacles, and kitchen work make learning difficult or unrealistic. |
+| Two qualities of grandmother                 | Determination, humility, courage, discipline, self-respect.                                          |
+| How is the narrator making assumptions?      | She judges the grandmother's ability by age and appearance rather than willpower.                    |
 
 ---
 
@@ -377,20 +378,20 @@ The story teaches that:
 
 ## Word Meanings
 
-| Word | Meaning | Learner Sentence |
-|---|---|---|
-| **Protagonist** | Main character | The protagonist learns an important lesson. |
-| **Debate** | Discussion with different views | The class held a debate on digital learning. |
-| **Episode** | Part of a serial or story | The next episode revealed the mystery. |
-| **Community** | A group of people living or working together | The community helped run the literacy camp. |
-| **Concentration** | Focused attention | Reading requires concentration. |
-| **Eagerly** | With great interest or excitement | The children waited eagerly for the magazine. |
-| **Convincing** | Believable | Her speech was convincing. |
-| **Guided** | Directed or helped | The teacher guided the students patiently. |
-| **Ardent** | Keen, passionate | She had an ardent desire to learn. |
-| **Savouring** | Enjoying fully | The children were savouring their freedom. |
-| **Immensely** | Extremely | The narrator loved her grandmother immensely. |
-| **Taken aback** | Surprised | She was taken aback by the unusual gesture. |
+| Word              | Meaning                                      | Learner Sentence                              |
+| ----------------- | -------------------------------------------- | --------------------------------------------- |
+| **Protagonist**   | Main character                               | The protagonist learns an important lesson.   |
+| **Debate**        | Discussion with different views              | The class held a debate on digital learning.  |
+| **Episode**       | Part of a serial or story                    | The next episode revealed the mystery.        |
+| **Community**     | A group of people living or working together | The community helped run the literacy camp.   |
+| **Concentration** | Focused attention                            | Reading requires concentration.               |
+| **Eagerly**       | With great interest or excitement            | The children waited eagerly for the magazine. |
+| **Convincing**    | Believable                                   | Her speech was convincing.                    |
+| **Guided**        | Directed or helped                           | The teacher guided the students patiently.    |
+| **Ardent**        | Keen, passionate                             | She had an ardent desire to learn.            |
+| **Savouring**     | Enjoying fully                               | The children were savouring their freedom.    |
+| **Immensely**     | Extremely                                    | The narrator loved her grandmother immensely. |
+| **Taken aback**   | Surprised                                    | She was taken aback by the unusual gesture.   |
 
 ---
 
@@ -406,27 +407,27 @@ Examples:
 
 ### Matching Binomials
 
-| Binomial | Meaning |
-|---|---|
-| **sink or swim** | Succeed or fail without help. |
-| **on and off** | Sometimes, occasionally. |
-| **mix and match** | Put different things together for variety. |
-| **all or nothing** | Something to be done completely or not at all. |
-| **part and parcel** | Essential part of something. |
-| **pick and choose** | Choose only the best or preferred items. |
-| **sooner or later** | At some time in the future. |
-| **leaps and bounds** | Very quickly or greatly. |
+| Binomial             | Meaning                                        |
+| -------------------- | ---------------------------------------------- |
+| **sink or swim**     | Succeed or fail without help.                  |
+| **on and off**       | Sometimes, occasionally.                       |
+| **mix and match**    | Put different things together for variety.     |
+| **all or nothing**   | Something to be done completely or not at all. |
+| **part and parcel**  | Essential part of something.                   |
+| **pick and choose**  | Choose only the best or preferred items.       |
+| **sooner or later**  | At some time in the future.                    |
+| **leaps and bounds** | Very quickly or greatly.                       |
 
 ### Example Sentences
 
-| Binomial | Sentence |
-|---|---|
-| **sink or swim** | The new student had to sink or swim during the debate competition. |
-| **on and off** | I have been learning classical music on and off for two years. |
-| **mix and match** | We can mix and match examples while preparing the project. |
-| **part and parcel** | Revision is part and parcel of exam preparation. |
-| **sooner or later** | Sooner or later, everyone needs digital literacy. |
-| **leaps and bounds** | Her reading improved by leaps and bounds. |
+| Binomial             | Sentence                                                           |
+| -------------------- | ------------------------------------------------------------------ |
+| **sink or swim**     | The new student had to sink or swim during the debate competition. |
+| **on and off**       | I have been learning classical music on and off for two years.     |
+| **mix and match**    | We can mix and match examples while preparing the project.         |
+| **part and parcel**  | Revision is part and parcel of exam preparation.                   |
+| **sooner or later**  | Sooner or later, everyone needs digital literacy.                  |
+| **leaps and bounds** | Her reading improved by leaps and bounds.                          |
 
 ---
 
@@ -443,18 +444,18 @@ Examples:
 
 ### Prefix Table
 
-| Base Word | Prefixed Word | Meaning |
-|---|---|---|
-| popular | unpopular | not liked by many |
-| belief | disbelief | lack of belief |
-| important | unimportant | not important |
-| respect | disrespect | lack of respect |
-| correct | incorrect | not correct |
-| continue | discontinue | stop continuing |
-| understand | misunderstand | understand wrongly |
-| ordinary | extraordinary | beyond ordinary |
-| interesting | uninteresting | not interesting |
-| possible | impossible | not possible |
+| Base Word   | Prefixed Word | Meaning            |
+| ----------- | ------------- | ------------------ |
+| popular     | unpopular     | not liked by many  |
+| belief      | disbelief     | lack of belief     |
+| important   | unimportant   | not important      |
+| respect     | disrespect    | lack of respect    |
+| correct     | incorrect     | not correct        |
+| continue    | discontinue   | stop continuing    |
+| understand  | misunderstand | understand wrongly |
+| ordinary    | extraordinary | beyond ordinary    |
+| interesting | uninteresting | not interesting    |
+| possible    | impossible    | not possible       |
 
 ### Five Prefix Sentences
 
@@ -468,13 +469,13 @@ Examples:
 
 ## Idioms Related to Learning
 
-| Idiom | Meaning |
-|---|---|
-| **hit the books** | Study seriously. |
-| **draw a blank** | Be unable to remember. |
-| **learn the ropes** | Learn how to do an activity. |
-| **rack one's brain** | Think very hard. |
-| **learn by heart** | Memorise. |
+| Idiom                     | Meaning                            |
+| ------------------------- | ---------------------------------- |
+| **hit the books**         | Study seriously.                   |
+| **draw a blank**          | Be unable to remember.             |
+| **learn the ropes**       | Learn how to do an activity.       |
+| **rack one's brain**      | Think very hard.                   |
+| **learn by heart**        | Memorise.                          |
 | **burn the midnight oil** | Study or work late into the night. |
 
 ### Example Sentences
@@ -498,9 +499,9 @@ The later action uses simple past.
 
 ### Structure
 
-| Tense | Structure | Example |
-|---|---|---|
-| **Simple past** | Verb 2 form | She arrived. |
+| Tense            | Structure             | Example          |
+| ---------------- | --------------------- | ---------------- |
+| **Simple past**  | Verb 2 form           | She arrived.     |
 | **Past perfect** | had + past participle | She had arrived. |
 
 ### Key Rule
@@ -511,10 +512,10 @@ Example:
 
 By the time I reached the station, the train had left.
 
-| Action | Time | Tense |
-|---|---|---|
+| Action     | Time    | Tense        |
+| ---------- | ------- | ------------ |
 | Train left | Earlier | Past perfect |
-| I reached | Later | Simple past |
+| I reached  | Later   | Simple past  |
 
 ---
 
@@ -550,12 +551,12 @@ Last year, my parents and I **took** a financial planning course. When we **revi
 
 ## Common Grammar Errors
 
-| Error | Correction | Reason |
-|---|---|---|
-| When I had reached, he left. | When I reached, he had left. | Earlier action: he left. |
-| After she finished, she had slept. | After she had finished, she slept. | Finishing happened first. |
-| By the time they came, we ate. | By the time they came, we had eaten. | Eating happened before they came. |
-| I had saw the book. | I had seen the book. | Use past participle after "had". |
+| Error                              | Correction                           | Reason                            |
+| ---------------------------------- | ------------------------------------ | --------------------------------- |
+| When I had reached, he left.       | When I reached, he had left.         | Earlier action: he left.          |
+| After she finished, she had slept. | After she had finished, she slept.   | Finishing happened first.         |
+| By the time they came, we ate.     | By the time they came, we had eaten. | Eating happened before they came. |
+| I had saw the book.                | I had seen the book.                 | Use past participle after "had".  |
 
 ---
 
@@ -605,13 +606,13 @@ Learning can happen only when you are young.
 
 ### Useful Turncoat Phrases
 
-| Purpose | Phrases |
-|---|---|
-| Begin for the topic | To begin with, I support the topic because... |
-| Add point | Moreover, I would like to add... |
-| Switch side | On the other hand... |
-| Challenge earlier view | However, this is not the complete picture. |
-| Conclude | To sum up, both sides show that... |
+| Purpose                | Phrases                                       |
+| ---------------------- | --------------------------------------------- |
+| Begin for the topic    | To begin with, I support the topic because... |
+| Add point              | Moreover, I would like to add...              |
+| Switch side            | On the other hand...                          |
+| Challenge earlier view | However, this is not the complete picture.    |
+| Conclude               | To sum up, both sides show that...            |
 
 ---
 
@@ -660,14 +661,14 @@ Ananya Sharma
 
 ### Why This Letter Works
 
-| Feature | How It Appears |
-|---|---|
-| Clear issue | Adult literacy is identified as a social need. |
-| Public purpose | It addresses the community, not a private complaint. |
-| Student role | It explains how students can help. |
-| Benefits | It mentions benefits for adults and students. |
-| Solutions | It suggests camps, partnerships, awareness, and learning kits. |
-| Formal tone | It uses respectful, clear language. |
+| Feature        | How It Appears                                                 |
+| -------------- | -------------------------------------------------------------- |
+| Clear issue    | Adult literacy is identified as a social need.                 |
+| Public purpose | It addresses the community, not a private complaint.           |
+| Student role   | It explains how students can help.                             |
+| Benefits       | It mentions benefits for adults and students.                  |
+| Solutions      | It suggests camps, partnerships, awareness, and learning kits. |
+| Formal tone    | It uses respectful, clear language.                            |
 
 ---
 
@@ -675,14 +676,14 @@ Ananya Sharma
 
 ## Different Kinds of Literacy
 
-| Type of Literacy | Meaning | Why It Matters |
-|---|---|---|
-| **Basic literacy** | Reading and writing | Enables daily independence. |
-| **Digital literacy** | Using digital devices and the internet safely | Helps with online services and communication. |
-| **Financial literacy** | Understanding money, saving, budgeting, and fraud prevention | Supports responsible decisions. |
-| **Cultural literacy** | Understanding traditions, languages, arts, and heritage | Builds identity and respect. |
-| **Early literacy** | Foundational reading and language development in young children | Supports long-term education. |
-| **Adult literacy** | Reading, writing, and life skills for adults | Restores dignity and social participation. |
+| Type of Literacy       | Meaning                                                         | Why It Matters                                |
+| ---------------------- | --------------------------------------------------------------- | --------------------------------------------- |
+| **Basic literacy**     | Reading and writing                                             | Enables daily independence.                   |
+| **Digital literacy**   | Using digital devices and the internet safely                   | Helps with online services and communication. |
+| **Financial literacy** | Understanding money, saving, budgeting, and fraud prevention    | Supports responsible decisions.               |
+| **Cultural literacy**  | Understanding traditions, languages, arts, and heritage         | Builds identity and respect.                  |
+| **Early literacy**     | Foundational reading and language development in young children | Supports long-term education.                 |
+| **Adult literacy**     | Reading, writing, and life skills for adults                    | Restores dignity and social participation.    |
 
 ---
 
@@ -690,14 +691,14 @@ Ananya Sharma
 
 You may complete a table like this using Indian languages known in your community.
 
-| English Word | Kannada | Hindi | Tamil | Bengali | Marathi |
-|---|---|---|---|---|---|
-| Grandmother | Avva | Dadi / Nani | Paati | Thakuma / Dida | Aaji |
-| Grandfather | Ajja | Dada / Nana | Thaatha | Dadu | Ajoba |
-| Mother | Amma | Maa | Amma | Maa | Aai |
-| Father | Appa | Papa / Pitaji | Appa | Baba | Baba |
-| Sister | Akka / Tangi | Behen | Akka / Thangai | Bon | Bahin |
-| Brother | Anna / Tamma | Bhai | Anna / Thambi | Bhai | Bhau |
+| English Word | Kannada      | Hindi         | Tamil          | Bengali        | Marathi |
+| ------------ | ------------ | ------------- | -------------- | -------------- | ------- |
+| Grandmother  | Avva         | Dadi / Nani   | Paati          | Thakuma / Dida | Aaji    |
+| Grandfather  | Ajja         | Dada / Nana   | Thaatha        | Dadu           | Ajoba   |
+| Mother       | Amma         | Maa           | Amma           | Maa            | Aai     |
+| Father       | Appa         | Papa / Pitaji | Appa           | Baba           | Baba    |
+| Sister       | Akka / Tangi | Behen         | Akka / Thangai | Bon            | Bahin   |
+| Brother      | Anna / Tamma | Bhai          | Anna / Thambi  | Bhai           | Bhau    |
 
 This activity shows that language carries family relationships, affection, and culture.
 
@@ -707,14 +708,14 @@ This activity shows that language carries family relationships, affection, and c
 
 ## Text Identity
 
-| Detail | Information |
-|---|---|
-| **Title** | Bharat Our Land |
-| **Poet** | Subramania Bharati |
-| **Genre** | Patriotic ode |
-| **Main Subject** | India's natural, spiritual, cultural, and historical greatness |
-| **Mood** | Proud, admiring, celebratory |
-| **Tone** | Reverential, patriotic, elevated |
+| Detail           | Information                                                                                                       |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------- |
+| **Title**        | Bharat Our Land                                                                                                   |
+| **Poet**         | Subramania Bharati                                                                                                |
+| **Genre**        | Patriotic ode                                                                                                     |
+| **Main Subject** | India's natural, spiritual, cultural, and historical greatness                                                    |
+| **Mood**         | Proud, admiring, celebratory                                                                                      |
+| **Tone**         | Reverential, patriotic, elevated                                                                                  |
 | **Main Message** | India is unique and worthy of praise because of its nature, wisdom, courage, spirituality, and cultural heritage. |
 
 ---
@@ -771,31 +772,31 @@ Key ideas:
 
 ## Poem Summary Completion
 
-| Blank | Answer |
-|---|---|
-| 1 | historical greatness |
-| 2 | Himavant |
-| 3 | Ganga |
-| 4 | Upanishads |
-| 5 | warriors |
-| 6 | sages |
-| 7 | Brahma-knowledge |
-| 8 | Buddha |
-| 9 | peerless |
-| 10 | praise |
+| Blank | Answer               |
+| ----- | -------------------- |
+| 1     | historical greatness |
+| 2     | Himavant             |
+| 3     | Ganga                |
+| 4     | Upanishads           |
+| 5     | warriors             |
+| 6     | sages                |
+| 7     | Brahma-knowledge     |
+| 8     | Buddha               |
+| 9     | peerless             |
+| 10    | praise               |
 
 ---
 
 ## Features of the Poem
 
-| Feature | Answer |
-|---|---|
-| **Mood / impact on readers** | Pride, reverence, admiration, patriotic inspiration. |
-| **Tone / poet's attitude** | Celebratory, devotional, respectful, proud. |
-| **Rhyme scheme** | The poem in translation does not follow a strict regular rhyme scheme. |
-| **Personification** | India is referred to as a feminine figure worthy of praise. |
-| **Form** | Ode. |
-| **Main refrain** | The repeated praise that India is peerless. |
+| Feature                      | Answer                                                                 |
+| ---------------------------- | ---------------------------------------------------------------------- |
+| **Mood / impact on readers** | Pride, reverence, admiration, patriotic inspiration.                   |
+| **Tone / poet's attitude**   | Celebratory, devotional, respectful, proud.                            |
+| **Rhyme scheme**             | The poem in translation does not follow a strict regular rhyme scheme. |
+| **Personification**          | India is referred to as a feminine figure worthy of praise.            |
+| **Form**                     | Ode.                                                                   |
+| **Main refrain**             | The repeated praise that India is peerless.                            |
 
 ---
 
@@ -813,14 +814,14 @@ The repeated phrase praising India's uniqueness works like a refrain. It:
 
 ## Symbolism Table
 
-| Symbol | Suggests |
-|---|---|
-| **Himavant** | Strength and permanence |
-| **Ganga** | Purity and generosity |
-| **Upanishads** | Spiritual and philosophical legacy |
-| **Warriors and sages** | Courage and wisdom |
+| Symbol                                   | Suggests                             |
+| ---------------------------------------- | ------------------------------------ |
+| **Himavant**                             | Strength and permanence              |
+| **Ganga**                                | Purity and generosity                |
+| **Upanishads**                           | Spiritual and philosophical legacy   |
+| **Warriors and sages**                   | Courage and wisdom                   |
 | **Brahma-knowledge and Buddha's dhamma** | Knowledge, enlightenment, compassion |
-| **Sunny golden land** | Richness, warmth, glory, prosperity |
+| **Sunny golden land**                    | Richness, warmth, glory, prosperity  |
 
 ---
 
@@ -846,37 +847,37 @@ The hyphens create pauses and emphasis.
 
 Correct effects:
 
-| Statement | True / False |
-|---|---|
-| Creates deliberate pauses to reinforce admiration and pride. | True |
-| Emphasises contrast between India's strengths and weaknesses. | False |
-| Gives a measured, chant-like rhythm. | True |
-| Suggests hesitation or uncertainty. | False |
-| Presents a key element before the hyphen and a strong assertion after it. | True |
+| Statement                                                                 | True / False |
+| ------------------------------------------------------------------------- | ------------ |
+| Creates deliberate pauses to reinforce admiration and pride.              | True         |
+| Emphasises contrast between India's strengths and weaknesses.             | False        |
+| Gives a measured, chant-like rhythm.                                      | True         |
+| Suggests hesitation or uncertainty.                                       | False        |
+| Presents a key element before the hyphen and a strong assertion after it. | True         |
 
 ---
 
 ## Poetic Devices
 
-| Device | Meaning | How It Works in the Poem |
-|---|---|---|
-| **Ode** | Poem of praise | The poem praises India with reverence. |
-| **Refrain** | Repeated line or phrase | Repeated praise strengthens national pride. |
-| **Symbolism** | Object or idea represents deeper meaning | Himavant, Ganga, and Upanishads represent strength, purity, and wisdom. |
-| **Allusion** | Indirect cultural reference | Upanishads, Brahma-knowledge, and Buddha's dhamma refer to Indian spiritual traditions. |
-| **Hyperbole** | Exaggeration for effect | The poem uses elevated praise to heighten admiration. |
-| **Personification** | Giving human qualities to non-human ideas | India is addressed as a feminine presence worthy of praise. |
-| **Imagery** | Vivid descriptive language | The poem creates pictures of mountains, rivers, and sacred heritage. |
+| Device              | Meaning                                   | How It Works in the Poem                                                                |
+| ------------------- | ----------------------------------------- | --------------------------------------------------------------------------------------- |
+| **Ode**             | Poem of praise                            | The poem praises India with reverence.                                                  |
+| **Refrain**         | Repeated line or phrase                   | Repeated praise strengthens national pride.                                             |
+| **Symbolism**       | Object or idea represents deeper meaning  | Himavant, Ganga, and Upanishads represent strength, purity, and wisdom.                 |
+| **Allusion**        | Indirect cultural reference               | Upanishads, Brahma-knowledge, and Buddha's dhamma refer to Indian spiritual traditions. |
+| **Hyperbole**       | Exaggeration for effect                   | The poem uses elevated praise to heighten admiration.                                   |
+| **Personification** | Giving human qualities to non-human ideas | India is addressed as a feminine presence worthy of praise.                             |
+| **Imagery**         | Vivid descriptive language                | The poem creates pictures of mountains, rivers, and sacred heritage.                    |
 
 ---
 
 ## Allusions in the Poem
 
-| Explanation | Matching Allusion |
-|---|---|
-| Ancient Indian scriptures forming the philosophical core of wisdom | Upanishads |
-| Spiritual knowledge linked with self-realisation and ultimate truth | Brahma-knowledge |
-| Teachings of compassion, non-violence, and enlightenment | Buddha's dhamma |
+| Explanation                                                         | Matching Allusion |
+| ------------------------------------------------------------------- | ----------------- |
+| Ancient Indian scriptures forming the philosophical core of wisdom  | Upanishads        |
+| Spiritual knowledge linked with self-realisation and ultimate truth | Brahma-knowledge  |
+| Teachings of compassion, non-violence, and enlightenment            | Buddha's dhamma   |
 
 ---
 
@@ -884,13 +885,13 @@ Correct effects:
 
 ### Extract on Himavant, Ganga, and Upanishads
 
-| Question | Answer Guidance |
-|---|---|
-| Meaning of "mighty" | It refers to strength, greatness, and power. |
-| Purpose of question marks | They emphasise the poet's point rather than express real doubt. |
-| Why is Ganga called generous? | The river nourishes land, people, culture, and faith. |
-| Why is the river graceful? | Its movement is imagined as smooth, beautiful, and life-giving. |
-| Upanishads are what? | Unmatched in wisdom and spiritual depth. |
+| Question                      | Answer Guidance                                                 |
+| ----------------------------- | --------------------------------------------------------------- |
+| Meaning of "mighty"           | It refers to strength, greatness, and power.                    |
+| Purpose of question marks     | They emphasise the poet's point rather than express real doubt. |
+| Why is Ganga called generous? | The river nourishes land, people, culture, and faith.           |
+| Why is the river graceful?    | Its movement is imagined as smooth, beautiful, and life-giving. |
+| Upanishads are what?          | Unmatched in wisdom and spiritual depth.                        |
 
 ---
 
@@ -922,23 +923,23 @@ It reminds readers of India's natural beauty, ancient wisdom, brave people, spir
 
 ## Suffix Practice
 
-| Suffix | Meaning | Example from Poem / Related Word |
-|---|---|---|
-| **-ous** | full of / having qualities of | generous |
-| **-ity** | state or quality | antiquity |
-| **-est** | superlative | greatest / divinest |
-| **-less** | without | peerless |
+| Suffix    | Meaning                       | Example from Poem / Related Word |
+| --------- | ----------------------------- | -------------------------------- |
+| **-ous**  | full of / having qualities of | generous                         |
+| **-ity**  | state or quality              | antiquity                        |
+| **-est**  | superlative                   | greatest / divinest              |
+| **-less** | without                       | peerless                         |
 
 ---
 
 ## Build New Words with Suffixes
 
-| Suffix | Meaning | Example | Sentence |
-|---|---|---|---|
-| **-ive** | having quality of | creative | Her creative paragraph described the river beautifully. |
-| **-ment** | action or result | development | Literacy supports personal development. |
-| **-ed** | past form | learned | The grandmother learned with discipline. |
-| **-ness** | state or quality | kindness | Her kindness made her a patient teacher. |
+| Suffix    | Meaning           | Example     | Sentence                                                |
+| --------- | ----------------- | ----------- | ------------------------------------------------------- |
+| **-ive**  | having quality of | creative    | Her creative paragraph described the river beautifully. |
+| **-ment** | action or result  | development | Literacy supports personal development.                 |
+| **-ed**   | past form         | learned     | The grandmother learned with discipline.                |
+| **-ness** | state or quality  | kindness    | Her kindness made her a patient teacher.                |
 
 ---
 
@@ -946,15 +947,15 @@ It reminds readers of India's natural beauty, ancient wisdom, brave people, spir
 
 ### Structure
 
-| Paragraph Part | What to Include |
-|---|---|
-| Opening | Name the place and when you visited. |
-| Purpose | Why you went there. |
-| Companions | Who travelled with you. |
-| Preparation | Tickets, packing, reading, planning. |
-| Stay | Where you stayed. |
-| Activities | What you saw and did. |
-| Reflection | Why the place stayed in memory. |
+| Paragraph Part | What to Include                      |
+| -------------- | ------------------------------------ |
+| Opening        | Name the place and when you visited. |
+| Purpose        | Why you went there.                  |
+| Companions     | Who travelled with you.              |
+| Preparation    | Tickets, packing, reading, planning. |
+| Stay           | Where you stayed.                    |
+| Activities     | What you saw and did.                |
+| Reflection     | Why the place stayed in memory.      |
 
 ### Model Paragraph
 
@@ -964,14 +965,14 @@ Last year, I visited Mysuru with my parents during the autumn break. We went the
 
 ## Project Work: India's Major Geographical Features
 
-| Feature | Example | Importance | Languages / Cultures to Explore |
-|---|---|---|---|
-| Mountains | Himalayas, Western Ghats | Climate, rivers, biodiversity, tourism | Hindi, Nepali, Kashmiri, Garhwali, Kannada, Malayalam |
-| Rivers | Ganga, Yamuna, Krishna, Kaveri, Godavari | Agriculture, worship, transport, settlements | Hindi, Bengali, Telugu, Kannada, Tamil |
-| Deserts | Thar Desert, Rann of Kutch | Unique ecology, crafts, tourism | Rajasthani, Gujarati, Kutchi |
-| Valleys | Kangra, Nubra | Farming, tourism, strategic importance | Dogri, Ladakhi, Tibetan-influenced languages |
-| Islands | Andaman and Nicobar, Lakshadweep | Marine life, trade routes, tourism | Malayalam, Nicobarese, Bengali, Hindi |
-| Plateaus | Deccan, Malwa, Meghalaya | Minerals, agriculture, ancient settlements | Marathi, Telugu, Kannada, Khasi, Hindi |
+| Feature   | Example                                  | Importance                                   | Languages / Cultures to Explore                       |
+| --------- | ---------------------------------------- | -------------------------------------------- | ----------------------------------------------------- |
+| Mountains | Himalayas, Western Ghats                 | Climate, rivers, biodiversity, tourism       | Hindi, Nepali, Kashmiri, Garhwali, Kannada, Malayalam |
+| Rivers    | Ganga, Yamuna, Krishna, Kaveri, Godavari | Agriculture, worship, transport, settlements | Hindi, Bengali, Telugu, Kannada, Tamil                |
+| Deserts   | Thar Desert, Rann of Kutch               | Unique ecology, crafts, tourism              | Rajasthani, Gujarati, Kutchi                          |
+| Valleys   | Kangra, Nubra                            | Farming, tourism, strategic importance       | Dogri, Ladakhi, Tibetan-influenced languages          |
+| Islands   | Andaman and Nicobar, Lakshadweep         | Marine life, trade routes, tourism           | Malayalam, Nicobarese, Bengali, Hindi                 |
+| Plateaus  | Deccan, Malwa, Meghalaya                 | Minerals, agriculture, ancient settlements   | Marathi, Telugu, Kannada, Khasi, Hindi                |
 
 ---
 
@@ -979,28 +980,28 @@ Last year, I visited Mysuru with my parents during the autumn break. We went the
 
 ### Prose
 
-| Item | Key Point |
-|---|---|
-| Main text | How I Taught My Grandmother to Read |
-| Author | Sudha Murty |
-| Main character | Krishtakka / Avva |
-| Narrator's age in memory | About twelve |
-| Grandmother's age | Sixty-two |
-| Serial novel | Kashi Yatre |
-| Language learnt | Kannada |
-| Deadline | Saraswati Puja during Dassara |
-| Main value | Literacy gives independence |
-| Major symbol | Touching the teacher's feet |
+| Item                     | Key Point                           |
+| ------------------------ | ----------------------------------- |
+| Main text                | How I Taught My Grandmother to Read |
+| Author                   | Sudha Murty                         |
+| Main character           | Krishtakka / Avva                   |
+| Narrator's age in memory | About twelve                        |
+| Grandmother's age        | Sixty-two                           |
+| Serial novel             | Kashi Yatre                         |
+| Language learnt          | Kannada                             |
+| Deadline                 | Saraswati Puja during Dassara       |
+| Main value               | Literacy gives independence         |
+| Major symbol             | Touching the teacher's feet         |
 
 ### Poem
 
-| Item | Key Point |
-|---|---|
-| Poem | Bharat Our Land |
-| Poet | Subramania Bharati |
-| Form | Ode |
-| Mood | Proud and admiring |
-| Tone | Reverential and patriotic |
+| Item         | Key Point                                            |
+| ------------ | ---------------------------------------------------- |
+| Poem         | Bharat Our Land                                      |
+| Poet         | Subramania Bharati                                   |
+| Form         | Ode                                                  |
+| Mood         | Proud and admiring                                   |
+| Tone         | Reverential and patriotic                            |
 | Main symbols | Himavant, Ganga, Upanishads, warriors, sages, Buddha |
 | Main message | India is spiritually, culturally, and naturally rich |
 
@@ -1008,16 +1009,16 @@ Last year, I visited Mysuru with my parents during the autumn break. We went the
 
 ## Common Mistakes and Corrections
 
-| Mistake | Better Understanding |
-|---|---|
-| Saying the grandmother wanted only entertainment. | She wanted independence and dignity through reading. |
-| Treating the narrator as disrespectful throughout. | She is childish at first but later becomes a sincere teacher. |
-| Ignoring the role of `Kashi Yatre`. | It is the trigger that makes the grandmother want to learn. |
-| Saying touching feet is only about age. | In this story, it is about respecting a teacher. |
-| Calling "Bharat Our Land" only a nature poem. | It is a patriotic ode about nature, culture, spirituality, and heritage. |
-| Missing allusions in the poem. | Upanishads, Brahma-knowledge, and Buddha's dhamma are cultural-spiritual references. |
-| Confusing simple past and past perfect. | Use past perfect for the earlier of two past actions. |
-| Writing an informal letter to the editor. | A letter to the editor must be formal, concise, and public-issue focused. |
+| Mistake                                            | Better Understanding                                                                 |
+| -------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| Saying the grandmother wanted only entertainment.  | She wanted independence and dignity through reading.                                 |
+| Treating the narrator as disrespectful throughout. | She is childish at first but later becomes a sincere teacher.                        |
+| Ignoring the role of `Kashi Yatre`.                | It is the trigger that makes the grandmother want to learn.                          |
+| Saying touching feet is only about age.            | In this story, it is about respecting a teacher.                                     |
+| Calling "Bharat Our Land" only a nature poem.      | It is a patriotic ode about nature, culture, spirituality, and heritage.             |
+| Missing allusions in the poem.                     | Upanishads, Brahma-knowledge, and Buddha's dhamma are cultural-spiritual references. |
+| Confusing simple past and past perfect.            | Use past perfect for the earlier of two past actions.                                |
+| Writing an informal letter to the editor.          | A letter to the editor must be formal, concise, and public-issue focused.            |
 
 ---
 
@@ -1093,4 +1094,4 @@ For grammar and writing:
 
 ---
 
-*Source: NCERT Class 9 - English Beehive, Chapter 1 raw file. Learner-facing version manually rewritten from the extracted chapter content on literacy, learning, and patriotic appreciation.*
+_Source: NCERT Class 9 - English Beehive, Chapter 1 raw file. Learner-facing version manually rewritten from the extracted chapter content on literacy, learning, and patriotic appreciation._

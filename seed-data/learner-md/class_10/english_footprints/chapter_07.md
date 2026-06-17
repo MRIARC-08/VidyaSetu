@@ -1,35 +1,36 @@
 # Chapter 7: The Necklace
+
 ### NCERT Class 10 - English Footprints
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 10 |
-| **Subject** | English Footprints |
-| **Chapter** | 7 |
-| **Text** | "The Necklace" by Guy de Maupassant |
-| **Textbook Pages** | 39-46 |
-| **Genre** | Short story with ironic twist |
-| **Core Theme** | Vanity, discontent, social aspiration, appearance, honesty, sacrifice, debt, fate, and irony. |
-| **Main Skills** | Plot analysis, character study, irony, moral reflection, cause-effect reasoning, vocabulary, and discussion. |
+| Detail             | Learner-Friendly Information                                                                                 |
+| ------------------ | ------------------------------------------------------------------------------------------------------------ |
+| **Class**          | 10                                                                                                           |
+| **Subject**        | English Footprints                                                                                           |
+| **Chapter**        | 7                                                                                                            |
+| **Text**           | "The Necklace" by Guy de Maupassant                                                                          |
+| **Textbook Pages** | 39-46                                                                                                        |
+| **Genre**          | Short story with ironic twist                                                                                |
+| **Core Theme**     | Vanity, discontent, social aspiration, appearance, honesty, sacrifice, debt, fate, and irony.                |
+| **Main Skills**    | Plot analysis, character study, irony, moral reflection, cause-effect reasoning, vocabulary, and discussion. |
 
 ---
 
 ## Section Structure
 
-| Unit | Text / Skill | Main Learning Focus |
-|---|---|---|
-| **7A** | Matilda Loisel | Discontent, dreams of luxury, and dissatisfaction with ordinary life. |
-| **7B** | The Invitation | Husband's kindness, dress problem, and sacrifice. |
-| **7C** | The Necklace | Fresh problem of jewellery and borrowing from Mme Forestier. |
-| **7D** | The Ball and Loss | Matilda's triumph, return home, and missing necklace. |
-| **7E** | Replacement and Debt | Search, concealment, loans, and ten years of hardship. |
-| **7F** | Final Revelation | False necklace, tragic irony, and lesson of honesty. |
-| **7G** | Thinking About It | Ruin, confession, language clues, honesty, and contentment. |
-| **7H** | Vocabulary and Style | French terms, irony, symbolism, and character study. |
+| Unit   | Text / Skill         | Main Learning Focus                                                   |
+| ------ | -------------------- | --------------------------------------------------------------------- |
+| **7A** | Matilda Loisel       | Discontent, dreams of luxury, and dissatisfaction with ordinary life. |
+| **7B** | The Invitation       | Husband's kindness, dress problem, and sacrifice.                     |
+| **7C** | The Necklace         | Fresh problem of jewellery and borrowing from Mme Forestier.          |
+| **7D** | The Ball and Loss    | Matilda's triumph, return home, and missing necklace.                 |
+| **7E** | Replacement and Debt | Search, concealment, loans, and ten years of hardship.                |
+| **7F** | Final Revelation     | False necklace, tragic irony, and lesson of honesty.                  |
+| **7G** | Thinking About It    | Ruin, confession, language clues, honesty, and contentment.           |
+| **7H** | Vocabulary and Style | French terms, irony, symbolism, and character study.                  |
 
 ---
 
@@ -37,35 +38,35 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Retell the story** | Explain the chain from invitation to necklace loss to final revelation. |
-| **Analyse Matilda** | Describe her vanity, dissatisfaction, suffering, and later strength. |
-| **Analyse M. Loisel** | Explain his kindness, sacrifice, loyalty, and practical suffering. |
-| **Understand irony** | Explain why the ending changes the meaning of the story. |
-| **Discuss honesty** | Show how one lie creates ten years of hardship. |
-| **Explain cause and effect** | Identify how small choices lead to large consequences. |
-| **Use vocabulary** | Understand dowry, incessantly, tureen, vexation, ruinous, usurers, sou, and awry. |
-| **Write morally balanced answers** | Discuss vanity and contentment without oversimplifying the characters. |
+| Outcome                            | You Should Be Able To...                                                          |
+| ---------------------------------- | --------------------------------------------------------------------------------- |
+| **Retell the story**               | Explain the chain from invitation to necklace loss to final revelation.           |
+| **Analyse Matilda**                | Describe her vanity, dissatisfaction, suffering, and later strength.              |
+| **Analyse M. Loisel**              | Explain his kindness, sacrifice, loyalty, and practical suffering.                |
+| **Understand irony**               | Explain why the ending changes the meaning of the story.                          |
+| **Discuss honesty**                | Show how one lie creates ten years of hardship.                                   |
+| **Explain cause and effect**       | Identify how small choices lead to large consequences.                            |
+| **Use vocabulary**                 | Understand dowry, incessantly, tureen, vexation, ruinous, usurers, sou, and awry. |
+| **Write morally balanced answers** | Discuss vanity and contentment without oversimplifying the characters.            |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Dowry** | Wealth or property brought by a bride at marriage in some societies. |
-| **Clerk** | Office worker. |
-| **Luxury** | Expensive comfort or elegance beyond basic need. |
-| **Vexation** | Distress, annoyance, or frustration. |
-| **Franc** | Former French currency unit. |
-| **Usurer** | Moneylender who charges very high interest. |
-| **Sou** | Old French coin of low value. |
-| **Awry** | Twisted, out of place, or not in correct shape. |
-| **Substitution** | Replacing one thing with another. |
-| **Irony** | When reality is different from expectation. |
-| **Vanity** | Excessive pride in appearance or admiration. |
-| **Contentment** | Satisfaction with what one has. |
+| Term             | Meaning                                                              |
+| ---------------- | -------------------------------------------------------------------- |
+| **Dowry**        | Wealth or property brought by a bride at marriage in some societies. |
+| **Clerk**        | Office worker.                                                       |
+| **Luxury**       | Expensive comfort or elegance beyond basic need.                     |
+| **Vexation**     | Distress, annoyance, or frustration.                                 |
+| **Franc**        | Former French currency unit.                                         |
+| **Usurer**       | Moneylender who charges very high interest.                          |
+| **Sou**          | Old French coin of low value.                                        |
+| **Awry**         | Twisted, out of place, or not in correct shape.                      |
+| **Substitution** | Replacing one thing with another.                                    |
+| **Irony**        | When reality is different from expectation.                          |
+| **Vanity**       | Excessive pride in appearance or admiration.                         |
+| **Contentment**  | Satisfaction with what one has.                                      |
 
 ---
 
@@ -89,14 +90,14 @@ Matilda Loisel is pretty and young, but deeply dissatisfied. She is born into a 
 
 She is unhappy because she compares her actual life with an imagined luxurious life.
 
-| Her Real Life | Her Dream Life |
-|---|---|
-| Small apartment | Elegant mansion |
-| Worn chairs | Fine furniture |
-| Simple meals | Exquisite dinners |
-| Ordinary clothes | Beautiful gowns |
-| No jewels | Diamonds and ornaments |
-| Clerk husband | Rich, distinguished social circle |
+| Her Real Life    | Her Dream Life                    |
+| ---------------- | --------------------------------- |
+| Small apartment  | Elegant mansion                   |
+| Worn chairs      | Fine furniture                    |
+| Simple meals     | Exquisite dinners                 |
+| Ordinary clothes | Beautiful gowns                   |
+| No jewels        | Diamonds and ornaments            |
+| Clerk husband    | Rich, distinguished social circle |
 
 ## Her Main Weakness
 
@@ -149,12 +150,12 @@ This shows his generosity and his desire to make her happy.
 
 ## Husband and Wife Contrast
 
-| M. Loisel | Mme Loisel |
-|---|---|
+| M. Loisel                | Mme Loisel                |
+| ------------------------ | ------------------------- |
 | Content with simple food | Dreams of elegant dinners |
-| Happy with invitation | Upset about clothes |
-| Sacrifices savings | Wants social admiration |
-| Practical and kind | Proud and dissatisfied |
+| Happy with invitation    | Upset about clothes       |
+| Sacrifices savings       | Wants social admiration   |
+| Practical and kind       | Proud and dissatisfied    |
 
 ---
 
@@ -250,13 +251,13 @@ They find a similar diamond necklace valued at forty thousand francs and buy it 
 
 ## How They Pay
 
-| Source | Amount / Role |
-|---|---|
-| M. Loisel's inheritance | Eighteen thousand francs. |
-| Loans | Remaining amount borrowed. |
-| Usurers and lenders | High-interest debt. |
-| Extra work | Husband works evenings and nights. |
-| Household labour | Matilda does all domestic work herself. |
+| Source                  | Amount / Role                           |
+| ----------------------- | --------------------------------------- |
+| M. Loisel's inheritance | Eighteen thousand francs.               |
+| Loans                   | Remaining amount borrowed.              |
+| Usurers and lenders     | High-interest debt.                     |
+| Extra work              | Husband works evenings and nights.      |
+| Household labour        | Matilda does all domestic work herself. |
 
 ## Mme Forestier's Reaction
 
@@ -268,14 +269,14 @@ Matilda is relieved at the time, but this silence leads to ten years of sufferin
 
 Matilda's life changes completely.
 
-| Before Debt | During Debt |
-|---|---|
-| Dreams of luxury | Lives in an attic |
-| Wants servants | Sends away maid |
-| Hates poverty | Performs hard household labour |
-| Loves beauty | Becomes rough and aged |
+| Before Debt          | During Debt                                      |
+| -------------------- | ------------------------------------------------ |
+| Dreams of luxury     | Lives in an attic                                |
+| Wants servants       | Sends away maid                                  |
+| Hates poverty        | Performs hard household labour                   |
+| Loves beauty         | Becomes rough and aged                           |
 | Avoids ordinary work | Carries water, washes clothes, bargains for food |
-| Wants admiration | Lives in exhaustion |
+| Wants admiration     | Lives in exhaustion                              |
 
 ## M. Loisel's Hardship
 
@@ -299,12 +300,12 @@ Mme Forestier reveals that the original necklace was false and worth only about 
 
 ## Why the Ending Is Ironic
 
-| What Matilda Believed | Reality |
-|---|---|
-| Necklace was diamond. | It was imitation. |
-| Replacement had to be expensive. | Confession would have solved everything. |
-| Ten years of debt were necessary. | They were unnecessary. |
-| Appearance proved value. | Appearance was deceptive. |
+| What Matilda Believed             | Reality                                  |
+| --------------------------------- | ---------------------------------------- |
+| Necklace was diamond.             | It was imitation.                        |
+| Replacement had to be expensive.  | Confession would have solved everything. |
+| Ten years of debt were necessary. | They were unnecessary.                   |
+| Appearance proved value.          | Appearance was deceptive.                |
 
 ## The Cost of Silence
 
@@ -324,15 +325,15 @@ It also changes Matilda's character. She becomes hardworking, strong, and practi
 
 Several causes combine:
 
-| Cause | Explanation |
-|---|---|
-| **Discontent** | She cannot accept ordinary life. |
-| **Vanity** | She wants admiration and social glamour. |
-| **Pride** | She refuses to appear poor. |
-| **Borrowing the necklace** | Creates risk. |
-| **Losing it** | Immediate disaster. |
-| **Dishonesty** | They do not confess. |
-| **Fear of judgement** | They choose debt instead of truth. |
+| Cause                      | Explanation                              |
+| -------------------------- | ---------------------------------------- |
+| **Discontent**             | She cannot accept ordinary life.         |
+| **Vanity**                 | She wants admiration and social glamour. |
+| **Pride**                  | She refuses to appear poor.              |
+| **Borrowing the necklace** | Creates risk.                            |
+| **Losing it**              | Immediate disaster.                      |
+| **Dishonesty**             | They do not confess.                     |
+| **Fear of judgement**      | They choose debt instead of truth.       |
 
 The deepest cause is prideful discontent.
 
@@ -393,69 +394,69 @@ Contentment does not mean giving up ambition. It means not destroying peace by c
 
 ## Glossary from the Chapter
 
-| Word | Meaning |
-|---|---|
-| **Incessantly** | Continuously. |
-| **Tureen** | Covered dish for serving soup. |
-| **M.** | Monsieur, French form of address for a man. |
-| **Mme** | Madame, French form of address for a woman. |
-| **Vexation** | Distress or annoyance. |
-| **Ruinous** | Disastrous. |
-| **Usurers** | Moneylenders charging high interest. |
-| **Sou** | Former French coin of low value. |
-| **Awry** | Twisted or not in correct position. |
+| Word            | Meaning                                     |
+| --------------- | ------------------------------------------- |
+| **Incessantly** | Continuously.                               |
+| **Tureen**      | Covered dish for serving soup.              |
+| **M.**          | Monsieur, French form of address for a man. |
+| **Mme**         | Madame, French form of address for a woman. |
+| **Vexation**    | Distress or annoyance.                      |
+| **Ruinous**     | Disastrous.                                 |
+| **Usurers**     | Moneylenders charging high interest.        |
+| **Sou**         | Former French coin of low value.            |
+| **Awry**        | Twisted or not in correct position.         |
 
 ## Important Expressions
 
-| Expression | Meaning |
-|---|---|
-| **Error of destiny** | Feeling born into the wrong life. |
-| **Poverty-stricken look** | Appearance of being very poor. |
-| **Utterly cast down** | Completely discouraged. |
-| **Horrible life of necessity** | Life dominated by poverty and hard need. |
-| **How small a thing will ruin or save one** | A tiny event can change a whole life. |
+| Expression                                  | Meaning                                  |
+| ------------------------------------------- | ---------------------------------------- |
+| **Error of destiny**                        | Feeling born into the wrong life.        |
+| **Poverty-stricken look**                   | Appearance of being very poor.           |
+| **Utterly cast down**                       | Completely discouraged.                  |
+| **Horrible life of necessity**              | Life dominated by poverty and hard need. |
+| **How small a thing will ruin or save one** | A tiny event can change a whole life.    |
 
 ## Irony in the Story
 
-| Moment | Irony |
-|---|---|
-| Matilda borrows necklace to look rich. | The necklace is fake. |
-| She enjoys one night of glamour. | It costs ten years of poverty. |
-| She replaces false necklace with real diamonds. | She pays far more than needed. |
-| She fears being thought poor. | She becomes genuinely poor. |
-| She hides the truth to avoid shame. | The hidden truth destroys her life. |
+| Moment                                          | Irony                               |
+| ----------------------------------------------- | ----------------------------------- |
+| Matilda borrows necklace to look rich.          | The necklace is fake.               |
+| She enjoys one night of glamour.                | It costs ten years of poverty.      |
+| She replaces false necklace with real diamonds. | She pays far more than needed.      |
+| She fears being thought poor.                   | She becomes genuinely poor.         |
+| She hides the truth to avoid shame.             | The hidden truth destroys her life. |
 
 ## Character Study
 
 ### Mme Loisel / Matilda
 
-| Trait | Evidence |
-|---|---|
-| **Pretty** | Admired at the ball. |
-| **Dissatisfied** | Hates her ordinary home and meals. |
-| **Vain** | Needs dress and jewels to feel worthy. |
-| **Proud** | Hides poverty and later hides the loss. |
-| **Hardworking later** | Labours for ten years to repay debt. |
-| **Honest too late** | Finally tells Mme Forestier the truth. |
+| Trait                 | Evidence                                |
+| --------------------- | --------------------------------------- |
+| **Pretty**            | Admired at the ball.                    |
+| **Dissatisfied**      | Hates her ordinary home and meals.      |
+| **Vain**              | Needs dress and jewels to feel worthy.  |
+| **Proud**             | Hides poverty and later hides the loss. |
+| **Hardworking later** | Labours for ten years to repay debt.    |
+| **Honest too late**   | Finally tells Mme Forestier the truth.  |
 
 ### M. Loisel
 
-| Trait | Evidence |
-|---|---|
-| **Kind** | Brings invitation for Matilda. |
-| **Sacrificing** | Gives up gun savings for her dress. |
-| **Supportive** | Searches for necklace and borrows money. |
-| **Hardworking** | Works extra jobs for ten years. |
-| **Simple** | Enjoys ordinary food and modest life. |
+| Trait           | Evidence                                 |
+| --------------- | ---------------------------------------- |
+| **Kind**        | Brings invitation for Matilda.           |
+| **Sacrificing** | Gives up gun savings for her dress.      |
+| **Supportive**  | Searches for necklace and borrows money. |
+| **Hardworking** | Works extra jobs for ten years.          |
+| **Simple**      | Enjoys ordinary food and modest life.    |
 
 ### Mme Forestier
 
-| Trait | Evidence |
-|---|---|
-| **Wealthy** | Owns jewel case and elegant items. |
-| **Generous** | Lends the necklace easily. |
-| **Unaware** | Does not know about the replacement for ten years. |
-| **Touched at end** | Feels pity when she learns the truth. |
+| Trait              | Evidence                                           |
+| ------------------ | -------------------------------------------------- |
+| **Wealthy**        | Owns jewel case and elegant items.                 |
+| **Generous**       | Lends the necklace easily.                         |
+| **Unaware**        | Does not know about the replacement for ten years. |
+| **Touched at end** | Feels pity when she learns the truth.              |
 
 ---
 
@@ -523,4 +524,4 @@ Contentment does not mean giving up ambition. It means not destroying peace by c
 
 ---
 
-*Source: NCERT Class 10 - English Footprints, Chapter 7 raw file. Learner-facing version manually rewritten from the extracted content of "The Necklace".*
+_Source: NCERT Class 10 - English Footprints, Chapter 7 raw file. Learner-facing version manually rewritten from the extracted content of "The Necklace"._

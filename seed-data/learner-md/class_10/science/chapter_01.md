@@ -1,35 +1,36 @@
 # Chapter 1: Chemical Reactions and Equations
+
 ### NCERT Class 10 - Science
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 10 |
-| **Subject** | Science |
-| **Chapter** | 1 |
-| **Textbook Pages** | 1-16 |
-| **Core Theme** | How chemical changes are represented, balanced, classified, and observed in daily life. |
-| **Main Skills** | Writing chemical equations, balancing equations, identifying reaction types, reading state symbols, understanding oxidation-reduction, and applying concepts to corrosion and rancidity. |
+| Detail             | Learner-Friendly Information                                                                                                                                                             |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Class**          | 10                                                                                                                                                                                       |
+| **Subject**        | Science                                                                                                                                                                                  |
+| **Chapter**        | 1                                                                                                                                                                                        |
+| **Textbook Pages** | 1-16                                                                                                                                                                                     |
+| **Core Theme**     | How chemical changes are represented, balanced, classified, and observed in daily life.                                                                                                  |
+| **Main Skills**    | Writing chemical equations, balancing equations, identifying reaction types, reading state symbols, understanding oxidation-reduction, and applying concepts to corrosion and rancidity. |
 
 ---
 
 ## Section Structure
 
-| Unit | Topic | Main Learning Focus |
-|---|---|---|
-| **1A** | Chemical Reactions | Evidence that a chemical reaction has occurred. |
-| **1B** | Chemical Equations | Word equations, skeletal equations, balanced equations, and state symbols. |
-| **1C** | Balancing Equations | Law of conservation of mass and hit-and-trial method. |
-| **1D** | Combination Reactions | Two or more reactants forming one product; exothermic reactions. |
-| **1E** | Decomposition Reactions | One reactant breaking into simpler substances; heat, light, and electricity. |
-| **1F** | Displacement Reactions | More reactive element displacing a less reactive element. |
-| **1G** | Double Displacement and Precipitation | Exchange of ions and formation of insoluble salt. |
-| **1H** | Oxidation and Reduction | Gain/loss of oxygen or hydrogen; redox reactions. |
-| **1I** | Everyday Effects | Corrosion and rancidity. |
-| **1J** | Solved Questions | In-text and exercise-level answers. |
+| Unit   | Topic                                 | Main Learning Focus                                                          |
+| ------ | ------------------------------------- | ---------------------------------------------------------------------------- |
+| **1A** | Chemical Reactions                    | Evidence that a chemical reaction has occurred.                              |
+| **1B** | Chemical Equations                    | Word equations, skeletal equations, balanced equations, and state symbols.   |
+| **1C** | Balancing Equations                   | Law of conservation of mass and hit-and-trial method.                        |
+| **1D** | Combination Reactions                 | Two or more reactants forming one product; exothermic reactions.             |
+| **1E** | Decomposition Reactions               | One reactant breaking into simpler substances; heat, light, and electricity. |
+| **1F** | Displacement Reactions                | More reactive element displacing a less reactive element.                    |
+| **1G** | Double Displacement and Precipitation | Exchange of ions and formation of insoluble salt.                            |
+| **1H** | Oxidation and Reduction               | Gain/loss of oxygen or hydrogen; redox reactions.                            |
+| **1I** | Everyday Effects                      | Corrosion and rancidity.                                                     |
+| **1J** | Solved Questions                      | In-text and exercise-level answers.                                          |
 
 ---
 
@@ -37,36 +38,36 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Recognise chemical change** | Identify chemical reactions using gas evolution, colour change, state change, temperature change, or precipitate formation. |
-| **Write equations** | Convert word equations into chemical equations. |
-| **Balance equations** | Apply conservation of mass using smallest whole-number coefficients. |
-| **Use state symbols** | Use `(s)`, `(l)`, `(g)`, and `(aq)` correctly. |
-| **Classify reactions** | Identify combination, decomposition, displacement, double displacement, precipitation, redox, exothermic, and endothermic reactions. |
-| **Explain redox** | Identify oxidised and reduced substances using oxygen/hydrogen gain or loss. |
-| **Apply daily-life chemistry** | Explain rusting, tarnishing, food rancidity, and nitrogen flushing of chips. |
+| Outcome                        | You Should Be Able To...                                                                                                             |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
+| **Recognise chemical change**  | Identify chemical reactions using gas evolution, colour change, state change, temperature change, or precipitate formation.          |
+| **Write equations**            | Convert word equations into chemical equations.                                                                                      |
+| **Balance equations**          | Apply conservation of mass using smallest whole-number coefficients.                                                                 |
+| **Use state symbols**          | Use `(s)`, `(l)`, `(g)`, and `(aq)` correctly.                                                                                       |
+| **Classify reactions**         | Identify combination, decomposition, displacement, double displacement, precipitation, redox, exothermic, and endothermic reactions. |
+| **Explain redox**              | Identify oxidised and reduced substances using oxygen/hydrogen gain or loss.                                                         |
+| **Apply daily-life chemistry** | Explain rusting, tarnishing, food rancidity, and nitrogen flushing of chips.                                                         |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Chemical reaction** | Process in which reactants change into new substances called products. |
-| **Reactants** | Starting substances in a chemical reaction. |
-| **Products** | New substances formed in a chemical reaction. |
-| **Chemical equation** | Symbolic representation of a chemical reaction. |
-| **Skeletal equation** | Unbalanced chemical equation. |
-| **Balanced equation** | Equation with equal numbers of each type of atom on both sides. |
-| **Coefficient** | Number placed before a formula to balance an equation. |
-| **Aqueous** | Dissolved in water, represented by `(aq)`. |
-| **Precipitate** | Insoluble solid formed during a reaction in solution. |
-| **Oxidation** | Gain of oxygen or loss of hydrogen. |
-| **Reduction** | Loss of oxygen or gain of hydrogen. |
-| **Redox reaction** | Reaction in which oxidation and reduction occur together. |
-| **Corrosion** | Damage of metals due to reaction with substances like air, moisture, or acids. |
-| **Rancidity** | Spoilage of oils/fats due to oxidation, causing bad smell and taste. |
+| Term                  | Meaning                                                                        |
+| --------------------- | ------------------------------------------------------------------------------ |
+| **Chemical reaction** | Process in which reactants change into new substances called products.         |
+| **Reactants**         | Starting substances in a chemical reaction.                                    |
+| **Products**          | New substances formed in a chemical reaction.                                  |
+| **Chemical equation** | Symbolic representation of a chemical reaction.                                |
+| **Skeletal equation** | Unbalanced chemical equation.                                                  |
+| **Balanced equation** | Equation with equal numbers of each type of atom on both sides.                |
+| **Coefficient**       | Number placed before a formula to balance an equation.                         |
+| **Aqueous**           | Dissolved in water, represented by `(aq)`.                                     |
+| **Precipitate**       | Insoluble solid formed during a reaction in solution.                          |
+| **Oxidation**         | Gain of oxygen or loss of hydrogen.                                            |
+| **Reduction**         | Loss of oxygen or gain of hydrogen.                                            |
+| **Redox reaction**    | Reaction in which oxidation and reduction occur together.                      |
+| **Corrosion**         | Damage of metals due to reaction with substances like air, moisture, or acids. |
+| **Rancidity**         | Spoilage of oils/fats due to oxidation, causing bad smell and taste.           |
 
 ---
 
@@ -84,14 +85,14 @@ Different reactions have different patterns. Once you recognise the pattern, you
 
 ## Daily-Life Examples
 
-| Situation | Chemical Change Involved |
-|---|---|
-| Milk left in summer | Souring due to new substances formed. |
-| Iron nail in humid air | Rusting. |
-| Grapes fermenting | Formation of alcohol and carbon dioxide. |
-| Food cooking | New taste, smell, texture, and substances. |
-| Food digestion | Complex food broken into simpler molecules. |
-| Respiration | Glucose reacts with oxygen to release energy. |
+| Situation              | Chemical Change Involved                      |
+| ---------------------- | --------------------------------------------- |
+| Milk left in summer    | Souring due to new substances formed.         |
+| Iron nail in humid air | Rusting.                                      |
+| Grapes fermenting      | Formation of alcohol and carbon dioxide.      |
+| Food cooking           | New taste, smell, texture, and substances.    |
+| Food digestion         | Complex food broken into simpler molecules.   |
+| Respiration            | Glucose reacts with oxygen to release energy. |
 
 ## How Do We Know a Chemical Reaction Has Taken Place?
 
@@ -107,11 +108,11 @@ Common signs:
 
 ## Activity Observations
 
-| Activity | Observation | Inference |
-|---|---|---|
-| Burning magnesium ribbon | Dazzling white flame and white ash. | Magnesium reacts with oxygen to form magnesium oxide. |
-| Zinc with dilute acid | Bubbles and warmth. | Hydrogen gas evolves; reaction may be exothermic. |
-| Lead nitrate + potassium iodide | Yellow precipitate. | Lead iodide forms. |
+| Activity                        | Observation                         | Inference                                             |
+| ------------------------------- | ----------------------------------- | ----------------------------------------------------- |
+| Burning magnesium ribbon        | Dazzling white flame and white ash. | Magnesium reacts with oxygen to form magnesium oxide. |
+| Zinc with dilute acid           | Bubbles and warmth.                 | Hydrogen gas evolves; reaction may be exothermic.     |
+| Lead nitrate + potassium iodide | Yellow precipitate.                 | Lead iodide forms.                                    |
 
 ---
 
@@ -147,10 +148,10 @@ Now magnesium atoms and oxygen atoms are equal on both sides.
 
 ## Reactants and Products
 
-| Side | Meaning | Example |
-|---|---|---|
+| Side    | Meaning   | Example    |
+| ------- | --------- | ---------- |
 | **LHS** | Reactants | `Mg`, `O2` |
-| **RHS** | Products | `MgO` |
+| **RHS** | Products  | `MgO`      |
 
 ---
 
@@ -171,11 +172,11 @@ $$
 Atom count:
 
 | Element | Reactants | Products |
-|---|---:|---:|
-| Zn | 1 | 1 |
-| H | 2 | 2 |
-| S | 1 | 1 |
-| O | 4 | 4 |
+| ------- | --------: | -------: |
+| Zn      |         1 |        1 |
+| H       |         2 |        2 |
+| S       |         1 |        1 |
+| O       |         4 |        4 |
 
 This equation is already balanced.
 
@@ -212,11 +213,11 @@ $$
 
 ## State Symbols
 
-| Symbol | Meaning |
-|---|---|
-| `(s)` | Solid |
-| `(l)` | Liquid |
-| `(g)` | Gas |
+| Symbol | Meaning                   |
+| ------ | ------------------------- |
+| `(s)`  | Solid                     |
+| `(l)`  | Liquid                    |
+| `(g)`  | Gas                       |
 | `(aq)` | Aqueous solution in water |
 
 ## Reaction Conditions
@@ -472,10 +473,10 @@ $$
 CuO + H_2 \xrightarrow{\text{Heat}} Cu + H_2O
 $$
 
-| Substance | Change | Result |
-|---|---|---|
-| `CuO` | loses oxygen | reduced to `Cu` |
-| `H2` | gains oxygen | oxidised to `H2O` |
+| Substance | Change       | Result            |
+| --------- | ------------ | ----------------- |
+| `CuO`     | loses oxygen | reduced to `Cu`   |
+| `H2`      | gains oxygen | oxidised to `H2O` |
 
 ## More Redox Examples
 
@@ -501,11 +502,11 @@ When a metal is attacked by substances such as moisture, acids, or air, it corro
 
 Examples:
 
-| Metal | Corrosion Product / Appearance |
-|---|---|
-| Iron | Reddish-brown rust |
-| Copper | Green coating |
-| Silver | Black coating |
+| Metal  | Corrosion Product / Appearance |
+| ------ | ------------------------------ |
+| Iron   | Reddish-brown rust             |
+| Copper | Green coating                  |
+| Silver | Black coating                  |
 
 Corrosion damages bridges, cars, ships, railings, and iron structures.
 
@@ -529,8 +530,8 @@ Nitrogen is used in chips packets because it is relatively unreactive and preven
 
 ## Magnesium Ribbon
 
-| Question | Answer |
-|---|---|
+| Question                                   | Answer                                                                                                                   |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
 | Why clean magnesium ribbon before burning? | Magnesium ribbon has a layer of magnesium oxide on its surface. Cleaning removes this layer so magnesium burns properly. |
 
 ## Balancing Basic Reactions
@@ -770,9 +771,9 @@ Type: displacement.
 
 ## 9. Exothermic and Endothermic Reactions
 
-| Type | Meaning | Example |
-|---|---|---|
-| **Exothermic** | Releases heat. | `CaO + H2O -> Ca(OH)2 + heat` |
+| Type            | Meaning         | Example                         |
+| --------------- | --------------- | ------------------------------- |
+| **Exothermic**  | Releases heat.  | `CaO + H2O -> Ca(OH)2 + heat`   |
 | **Endothermic** | Absorbs energy. | `CaCO3 -> CaO + CO2` on heating |
 
 ## 10. Why Respiration Is Exothermic
@@ -819,11 +820,11 @@ $$
 
 ## 13. Displacement vs Double Displacement
 
-| Feature | Displacement | Double Displacement |
-|---|---|---|
-| Pattern | One element replaces another. | Ions exchange between two compounds. |
-| General form | `A + BC -> AC + B` | `AB + CD -> AD + CB` |
-| Example | `Fe + CuSO4 -> FeSO4 + Cu` | `Na2SO4 + BaCl2 -> BaSO4 + 2NaCl` |
+| Feature      | Displacement                  | Double Displacement                  |
+| ------------ | ----------------------------- | ------------------------------------ |
+| Pattern      | One element replaces another. | Ions exchange between two compounds. |
+| General form | `A + BC -> AC + B`            | `AB + CD -> AD + CB`                 |
+| Example      | `Fe + CuSO4 -> FeSO4 + Cu`    | `Na2SO4 + BaCl2 -> BaSO4 + 2NaCl`    |
 
 ## 14. Recovery of Silver
 
@@ -887,10 +888,10 @@ Nitrogen prevents oxidation of oils and fats. This slows rancidity and keeps foo
 
 ## 20. Corrosion and Rancidity
 
-| Term | Meaning | Example |
-|---|---|---|
-| **Corrosion** | Metal damage due to air, moisture, acids, etc. | Rusting of iron. |
-| **Rancidity** | Spoilage of fats and oils by oxidation. | Old chips smell and taste bad. |
+| Term          | Meaning                                        | Example                        |
+| ------------- | ---------------------------------------------- | ------------------------------ |
+| **Corrosion** | Metal damage due to air, moisture, acids, etc. | Rusting of iron.               |
+| **Rancidity** | Spoilage of fats and oils by oxidation.        | Old chips smell and taste bad. |
 
 ---
 
@@ -898,33 +899,33 @@ Nitrogen prevents oxidation of oils and fats. This slows rancidity and keeps foo
 
 ## Reaction Types
 
-| Reaction Type | Pattern | Example |
-|---|---|---|
-| **Combination** | `A + B -> AB` | `2Mg + O2 -> 2MgO` |
-| **Decomposition** | `AB -> A + B` | `CaCO3 -> CaO + CO2` |
-| **Displacement** | `A + BC -> AC + B` | `Fe + CuSO4 -> FeSO4 + Cu` |
-| **Double displacement** | `AB + CD -> AD + CB` | `Na2SO4 + BaCl2 -> BaSO4 + 2NaCl` |
-| **Precipitation** | Insoluble solid forms | `BaSO4(s)` formation |
-| **Redox** | Oxidation and reduction together | `CuO + H2 -> Cu + H2O` |
+| Reaction Type           | Pattern                          | Example                           |
+| ----------------------- | -------------------------------- | --------------------------------- |
+| **Combination**         | `A + B -> AB`                    | `2Mg + O2 -> 2MgO`                |
+| **Decomposition**       | `AB -> A + B`                    | `CaCO3 -> CaO + CO2`              |
+| **Displacement**        | `A + BC -> AC + B`               | `Fe + CuSO4 -> FeSO4 + Cu`        |
+| **Double displacement** | `AB + CD -> AD + CB`             | `Na2SO4 + BaCl2 -> BaSO4 + 2NaCl` |
+| **Precipitation**       | Insoluble solid forms            | `BaSO4(s)` formation              |
+| **Redox**               | Oxidation and reduction together | `CuO + H2 -> Cu + H2O`            |
 
 ## Oxidation vs Reduction
 
-| Process | Oxygen Change | Hydrogen Change |
-|---|---|---|
+| Process       | Oxygen Change  | Hydrogen Change  |
+| ------------- | -------------- | ---------------- |
 | **Oxidation** | Gain of oxygen | Loss of hydrogen |
 | **Reduction** | Loss of oxygen | Gain of hydrogen |
 
 ## Important Colours and Observations
 
-| Reaction / Substance | Observation |
-|---|---|
-| Magnesium burns | Dazzling white flame, white MgO. |
-| Lead nitrate heated | Brown fumes of NO2. |
-| Silver chloride in sunlight | White turns grey. |
-| Copper heated | Brown copper becomes black CuO. |
-| Iron in copper sulphate | Blue solution fades; brown copper deposits. |
-| Barium chloride + sodium sulphate | White precipitate of BaSO4. |
-| Lead nitrate + potassium iodide | Yellow precipitate of PbI2. |
+| Reaction / Substance              | Observation                                 |
+| --------------------------------- | ------------------------------------------- |
+| Magnesium burns                   | Dazzling white flame, white MgO.            |
+| Lead nitrate heated               | Brown fumes of NO2.                         |
+| Silver chloride in sunlight       | White turns grey.                           |
+| Copper heated                     | Brown copper becomes black CuO.             |
+| Iron in copper sulphate           | Blue solution fades; brown copper deposits. |
+| Barium chloride + sodium sulphate | White precipitate of BaSO4.                 |
+| Lead nitrate + potassium iodide   | Yellow precipitate of PbI2.                 |
 
 ---
 
@@ -957,4 +958,4 @@ Nitrogen prevents oxidation of oils and fats. This slows rancidity and keeps foo
 
 ---
 
-*Source: NCERT Class 10 - Science, Chapter 1 raw file. Learner-facing version manually rewritten from the extracted content of "Chemical Reactions and Equations".*
+_Source: NCERT Class 10 - Science, Chapter 1 raw file. Learner-facing version manually rewritten from the extracted content of "Chemical Reactions and Equations"._

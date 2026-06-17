@@ -1,35 +1,36 @@
 # Chapter 1: Faith, Irony, and Small Transformations
+
 ### NCERT Class 10 - English First Flight
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 10 |
-| **Subject** | English First Flight |
-| **Chapter** | 1 |
-| **Main Prose** | "A Letter to God" |
-| **Poems Included** | "Dust of Snow" and "Fire and Ice" by Robert Frost |
-| **Raw File Header** | "A Letter to God" |
-| **Textbook Pages** | 1-15 |
-| **Core Theme** | Faith, innocence, irony, nature's power, human kindness, unexpected change, and destructive emotions. |
-| **Main Skills** | Prose comprehension, inference, irony, vocabulary, money order context, storm words, relative clauses, negatives for emphasis, metaphors, poetry symbolism, rhyme scheme, and poster writing. |
+| Detail              | Learner-Friendly Information                                                                                                                                                                  |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Class**           | 10                                                                                                                                                                                            |
+| **Subject**         | English First Flight                                                                                                                                                                          |
+| **Chapter**         | 1                                                                                                                                                                                             |
+| **Main Prose**      | "A Letter to God"                                                                                                                                                                             |
+| **Poems Included**  | "Dust of Snow" and "Fire and Ice" by Robert Frost                                                                                                                                             |
+| **Raw File Header** | "A Letter to God"                                                                                                                                                                             |
+| **Textbook Pages**  | 1-15                                                                                                                                                                                          |
+| **Core Theme**      | Faith, innocence, irony, nature's power, human kindness, unexpected change, and destructive emotions.                                                                                         |
+| **Main Skills**     | Prose comprehension, inference, irony, vocabulary, money order context, storm words, relative clauses, negatives for emphasis, metaphors, poetry symbolism, rhyme scheme, and poster writing. |
 
 ---
 
 ## Section Structure
 
-| Unit | Text / Skill | Main Learning Focus |
-|---|---|---|
-| **1A** | Before Reading | Faith, money order, postal vocabulary, and prediction. |
-| **1B** | A Letter to God | Plot, character, faith, irony, and conflicts. |
-| **1C** | Prose Comprehension | Oral checks, thinking questions, model answers, and themes. |
-| **1D** | Language Work | Storm words, hope, relative clauses, negatives for emphasis, and metaphors. |
-| **1E** | Listening and Writing | Informal letter listening, water-saving poster, and revision tasks. |
-| **1F** | Dust of Snow | Mood change, symbols, nature, and poetic devices. |
-| **1G** | Fire and Ice | Desire, hate, destruction, symbolism, contrast, and rhyme. |
+| Unit   | Text / Skill          | Main Learning Focus                                                         |
+| ------ | --------------------- | --------------------------------------------------------------------------- |
+| **1A** | Before Reading        | Faith, money order, postal vocabulary, and prediction.                      |
+| **1B** | A Letter to God       | Plot, character, faith, irony, and conflicts.                               |
+| **1C** | Prose Comprehension   | Oral checks, thinking questions, model answers, and themes.                 |
+| **1D** | Language Work         | Storm words, hope, relative clauses, negatives for emphasis, and metaphors. |
+| **1E** | Listening and Writing | Informal letter listening, water-saving poster, and revision tasks.         |
+| **1F** | Dust of Snow          | Mood change, symbols, nature, and poetic devices.                           |
+| **1G** | Fire and Ice          | Desire, hate, destruction, symbolism, contrast, and rhyme.                  |
 
 ---
 
@@ -37,40 +38,40 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Understand narrative irony** | Explain why Lencho accuses the very people who helped him. |
-| **Analyse faith** | Describe Lencho's complete faith in God and its effects. |
-| **Identify conflicts** | Explain human versus nature and human versus human conflict. |
-| **Answer comprehension questions** | Give clear, evidence-based answers from the story. |
-| **Use vocabulary** | Understand storm words, postal terms, and story-specific words. |
-| **Use relative clauses** | Join sentences using who, whom, whose, and which. |
-| **Use negatives for emphasis** | Identify negative structures that intensify meaning. |
-| **Explain metaphors** | Recognise comparisons such as raindrops as coins and Lencho as an ox. |
-| **Appreciate poetry** | Analyse symbolism, mood, imagery, rhyme, and contrast in Robert Frost's poems. |
-| **Write practically** | Prepare a poster on water conservation. |
+| Outcome                            | You Should Be Able To...                                                       |
+| ---------------------------------- | ------------------------------------------------------------------------------ |
+| **Understand narrative irony**     | Explain why Lencho accuses the very people who helped him.                     |
+| **Analyse faith**                  | Describe Lencho's complete faith in God and its effects.                       |
+| **Identify conflicts**             | Explain human versus nature and human versus human conflict.                   |
+| **Answer comprehension questions** | Give clear, evidence-based answers from the story.                             |
+| **Use vocabulary**                 | Understand storm words, postal terms, and story-specific words.                |
+| **Use relative clauses**           | Join sentences using who, whom, whose, and which.                              |
+| **Use negatives for emphasis**     | Identify negative structures that intensify meaning.                           |
+| **Explain metaphors**              | Recognise comparisons such as raindrops as coins and Lencho as an ox.          |
+| **Appreciate poetry**              | Analyse symbolism, mood, imagery, rhyme, and contrast in Robert Frost's poems. |
+| **Write practically**              | Prepare a poster on water conservation.                                        |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Faith** | Deep trust or belief. |
-| **Irony** | Situation where the result is opposite to what is expected. |
-| **Crest** | Top of a hill. |
-| **Draped** | Covered, as with cloth. |
-| **Locusts** | Insects that move in swarms and destroy crops. |
-| **Peso** | Currency used in several Latin American countries. |
-| **Conscience** | Inner sense of right and wrong. |
-| **Amiable** | Friendly and pleasant. |
-| **Contentment** | Satisfaction. |
-| **Hailstones** | Small balls of ice falling like rain. |
-| **Relative clause** | Clause beginning with who, whom, whose, or which that gives extra information. |
-| **Non-defining relative clause** | Extra information about a known noun, usually separated by commas. |
-| **Metaphor** | Direct comparison where one thing is described as another. |
-| **Symbol** | Object, image, or idea that stands for a deeper meaning. |
-| **Rhyme scheme** | Pattern of rhyming sounds in a poem. |
+| Term                             | Meaning                                                                        |
+| -------------------------------- | ------------------------------------------------------------------------------ |
+| **Faith**                        | Deep trust or belief.                                                          |
+| **Irony**                        | Situation where the result is opposite to what is expected.                    |
+| **Crest**                        | Top of a hill.                                                                 |
+| **Draped**                       | Covered, as with cloth.                                                        |
+| **Locusts**                      | Insects that move in swarms and destroy crops.                                 |
+| **Peso**                         | Currency used in several Latin American countries.                             |
+| **Conscience**                   | Inner sense of right and wrong.                                                |
+| **Amiable**                      | Friendly and pleasant.                                                         |
+| **Contentment**                  | Satisfaction.                                                                  |
+| **Hailstones**                   | Small balls of ice falling like rain.                                          |
+| **Relative clause**              | Clause beginning with who, whom, whose, or which that gives extra information. |
+| **Non-defining relative clause** | Extra information about a known noun, usually separated by commas.             |
+| **Metaphor**                     | Direct comparison where one thing is described as another.                     |
+| **Symbol**                       | Object, image, or idea that stands for a deeper meaning.                       |
+| **Rhyme scheme**                 | Pattern of rhyming sounds in a poem.                                           |
 
 ---
 
@@ -111,32 +112,32 @@ The story does not mock faith. It shows both the beauty and limitation of unques
 
 The chapter introduces money orders because money is sent by post in the story.
 
-| Postal Term | Meaning |
-|---|---|
-| **Counter** | Desk or window where customers are served. |
-| **Counter clerk** | Postal worker at the counter. |
-| **Appropriate** | Suitable or correct. |
+| Postal Term         | Meaning                                        |
+| ------------------- | ---------------------------------------------- |
+| **Counter**         | Desk or window where customers are served.     |
+| **Counter clerk**   | Postal worker at the counter.                  |
+| **Appropriate**     | Suitable or correct.                           |
 | **Acknowledgement** | Confirmation that something has been received. |
-| **Counterfoil** | Part of a form kept as a record. |
-| **Record** | Written proof of a transaction. |
+| **Counterfoil**     | Part of a form kept as a record.               |
+| **Record**          | Written proof of a transaction.                |
 
 ## Money Order Form: Understanding the Parts
 
-| Part | Purpose |
-|---|---|
-| **Money Order Form** | Contains sender, receiver, amount, and communication. |
-| **Official Use Section** | Filled by postal staff. |
-| **Acknowledgement** | Returned to sender after receiver signs. |
-| **Space for Communication** | Short message to receiver. |
+| Part                        | Purpose                                               |
+| --------------------------- | ----------------------------------------------------- |
+| **Money Order Form**        | Contains sender, receiver, amount, and communication. |
+| **Official Use Section**    | Filled by postal staff.                               |
+| **Acknowledgement**         | Returned to sender after receiver signs.              |
+| **Space for Communication** | Short message to receiver.                            |
 
 ## Money Order Statements
 
-| Statement | Completion |
-|---|---|
-| **(i)** In addition to the sender, the form has to be signed by... | the receiver / payee. |
-| **(ii)** The acknowledgement is sent back to... | the sender after the receiver signs it. |
-| **(iii)** The Space for Communication is used for... | writing a short message to the receiver. |
-| **(iv)** The sender needs to fill out... | the relevant sender, receiver, amount, and communication sections; official sections are for the post office. |
+| Statement                                                          | Completion                                                                                                    |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
+| **(i)** In addition to the sender, the form has to be signed by... | the receiver / payee.                                                                                         |
+| **(ii)** The acknowledgement is sent back to...                    | the sender after the receiver signs it.                                                                       |
+| **(iii)** The Space for Communication is used for...               | writing a short message to the receiver.                                                                      |
+| **(iv)** The sender needs to fill out...                           | the relevant sender, receiver, amount, and communication sections; official sections are for the post office. |
 
 ---
 
@@ -144,14 +145,14 @@ The chapter introduces money orders because money is sent by post in the story.
 
 ## Text Identity
 
-| Detail | Information |
-|---|---|
-| **Title** | A Letter to God |
-| **Genre** | Short story |
-| **Main Character** | Lencho |
-| **Setting** | A lonely house in a valley, fields of corn, and a post office |
-| **Central Conflict** | Lencho's crop is destroyed, and he turns to God for help. |
-| **Central Irony** | Lencho calls the helpful postal workers crooks. |
+| Detail               | Information                                                   |
+| -------------------- | ------------------------------------------------------------- |
+| **Title**            | A Letter to God                                               |
+| **Genre**            | Short story                                                   |
+| **Main Character**   | Lencho                                                        |
+| **Setting**          | A lonely house in a valley, fields of corn, and a post office |
+| **Central Conflict** | Lencho's crop is destroyed, and he turns to God for help.     |
+| **Central Irony**    | Lencho calls the helpful postal workers crooks.               |
 
 ## Short Summary
 
@@ -167,34 +168,34 @@ Lencho receives the money but is not surprised because he fully expected God to 
 
 ## Character Sketch: Lencho
 
-| Trait | Evidence |
-|---|---|
-| **Hard-working** | He knows his fields intimately and works like an animal. |
-| **Faithful** | He writes directly to God and expects help. |
-| **Innocent / naive** | He believes God will send money through the post. |
-| **Simple** | He sees the world through direct trust and suspicion. |
-| **Unquestioning** | He does not doubt God's ability to help. |
-| **Ironically ungrateful** | He accuses the very people who helped him. |
+| Trait                     | Evidence                                                 |
+| ------------------------- | -------------------------------------------------------- |
+| **Hard-working**          | He knows his fields intimately and works like an animal. |
+| **Faithful**              | He writes directly to God and expects help.              |
+| **Innocent / naive**      | He believes God will send money through the post.        |
+| **Simple**                | He sees the world through direct trust and suspicion.    |
+| **Unquestioning**         | He does not doubt God's ability to help.                 |
+| **Ironically ungrateful** | He accuses the very people who helped him.               |
 
 ## Character Sketch: Postmaster
 
-| Trait | Evidence |
-|---|---|
-| **Amiable** | He is described as friendly. |
-| **Sensitive** | He understands the depth of Lencho's faith. |
-| **Generous** | He contributes part of his salary. |
-| **Responsible** | He collects money to answer the letter. |
+| Trait                   | Evidence                                                |
+| ----------------------- | ------------------------------------------------------- |
+| **Amiable**             | He is described as friendly.                            |
+| **Sensitive**           | He understands the depth of Lencho's faith.             |
+| **Generous**            | He contributes part of his salary.                      |
+| **Responsible**         | He collects money to answer the letter.                 |
 | **Respectful of faith** | He signs the letter as God to preserve Lencho's belief. |
 
 ## Main Themes
 
-| Theme | Explanation |
-|---|---|
-| **Faith** | Lencho's belief in God is absolute. |
-| **Irony** | Human kindness is mistaken for dishonesty. |
-| **Nature's power** | Rain becomes hail and destroys the crop. |
-| **Poverty** | One ruined crop can mean hunger. |
-| **Human compassion** | The postmaster and employees help a stranger. |
+| Theme                       | Explanation                                        |
+| --------------------------- | -------------------------------------------------- |
+| **Faith**                   | Lencho's belief in God is absolute.                |
+| **Irony**                   | Human kindness is mistaken for dishonesty.         |
+| **Nature's power**          | Rain becomes hail and destroys the crop.           |
+| **Poverty**                 | One ruined crop can mean hunger.                   |
+| **Human compassion**        | The postmaster and employees help a stranger.      |
 | **Innocence and suspicion** | Lencho trusts God completely but mistrusts people. |
 
 ---
@@ -267,9 +268,9 @@ Lencho is best described as **naive**, **unquestioning**, and **comical** in his
 
 ### 6. What are the two conflicts in the story?
 
-| Conflict Type | Illustration |
-|---|---|
-| **Humans versus nature** | The hailstorm destroys Lencho's crop. |
+| Conflict Type            | Illustration                                                |
+| ------------------------ | ----------------------------------------------------------- |
+| **Humans versus nature** | The hailstorm destroys Lencho's crop.                       |
 | **Humans versus humans** | Lencho suspects the postal workers, though they helped him. |
 
 ---
@@ -278,25 +279,25 @@ Lencho is best described as **naive**, **unquestioning**, and **comical** in his
 
 ## Storm Vocabulary
 
-| Description | Answer |
-|---|---|
-| Violent tropical storm with winds moving in a circle | cyclone |
-| Extremely strong wind | gale |
-| Violent tropical storm with very strong winds | typhoon |
-| Violent storm with funnel-shaped cloud | tornado |
-| Violent storm in the western Atlantic | hurricane |
-| Strong spinning wind causing damage | whirlwind |
+| Description                                          | Answer    |
+| ---------------------------------------------------- | --------- |
+| Violent tropical storm with winds moving in a circle | cyclone   |
+| Extremely strong wind                                | gale      |
+| Violent tropical storm with very strong winds        | typhoon   |
+| Violent storm with funnel-shaped cloud               | tornado   |
+| Violent storm in the western Atlantic                | hurricane |
+| Strong spinning wind causing damage                  | whirlwind |
 
 ## Uses of "Hope"
 
-| Sentence | Meaning |
-|---|---|
-| I hope so. | A feeling that something good will probably happen. |
-| I hope you do not mind... | Polite concern that one should not offend the listener. |
-| This discovery will give new hope... | A chance that something good may happen. |
-| Hoping against hope... | Wishing for something very unlikely. |
-| In the hope of speaking to her... | Wanting something to happen and thinking it possible. |
-| Everybody had given up hope... | Stopped believing a good thing would happen. |
+| Sentence                             | Meaning                                                 |
+| ------------------------------------ | ------------------------------------------------------- |
+| I hope so.                           | A feeling that something good will probably happen.     |
+| I hope you do not mind...            | Polite concern that one should not offend the listener. |
+| This discovery will give new hope... | A chance that something good may happen.                |
+| Hoping against hope...               | Wishing for something very unlikely.                    |
+| In the hope of speaking to her...    | Wanting something to happen and thinking it possible.   |
+| Everybody had given up hope...       | Stopped believing a good thing would happen.            |
 
 ## Relative Clauses
 
@@ -321,31 +322,31 @@ Lencho, who knew his fields intimately, looked at the sky.
 
 ## Relative Clause Answers
 
-| Original Sentences | Joined Sentence |
-|---|---|
-| I often go to Mumbai. Mumbai is the commercial capital of India. | I often go to Mumbai, which is the commercial capital of India. |
-| My mother is going to host a TV show on cooking. She cooks very well. | My mother, who cooks very well, is going to host a TV show on cooking. |
+| Original Sentences                                                                         | Joined Sentence                                                                             |
+| ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
+| I often go to Mumbai. Mumbai is the commercial capital of India.                           | I often go to Mumbai, which is the commercial capital of India.                             |
+| My mother is going to host a TV show on cooking. She cooks very well.                      | My mother, who cooks very well, is going to host a TV show on cooking.                      |
 | These sportspersons are going to meet the President. Their performance has been excellent. | These sportspersons, whose performance has been excellent, are going to meet the President. |
-| Lencho prayed to God. His eyes see into our minds. | Lencho prayed to God, whose eyes see into our minds. |
-| This man cheated me. I trusted him. | This man, whom I trusted, cheated me. |
+| Lencho prayed to God. His eyes see into our minds.                                         | Lencho prayed to God, whose eyes see into our minds.                                        |
+| This man cheated me. I trusted him.                                                        | This man, whom I trusted, cheated me.                                                       |
 
 ## Negatives for Emphasis
 
-| Idea | Sentence from Story |
-|---|---|
-| The trees lost all their leaves. | Not a leaf remained on the trees. |
-| The letter was addressed to God himself. | It was nothing less than a letter to God. |
+| Idea                                                           | Sentence from Story                                         |
+| -------------------------------------------------------------- | ----------------------------------------------------------- |
+| The trees lost all their leaves.                               | Not a leaf remained on the trees.                           |
+| The letter was addressed to God himself.                       | It was nothing less than a letter to God.                   |
 | The postman saw this address for the first time in his career. | Never in his career as a postman had he known that address. |
 
 ## Metaphors in the Story
 
-| Object / Idea | Metaphor | Quality Compared |
-|---|---|---|
-| Clouds | huge mountains of clouds | mass, size, and heaviness |
-| Raindrops | new coins | value, hope, and promise of money through harvest |
-| Hailstones | new silver coins / frozen pearls | roundness, whiteness, shine |
-| Locusts | plague | destructive spread and total loss |
-| Lencho | an ox of a man | physical strength and hard work |
+| Object / Idea | Metaphor                         | Quality Compared                                  |
+| ------------- | -------------------------------- | ------------------------------------------------- |
+| Clouds        | huge mountains of clouds         | mass, size, and heaviness                         |
+| Raindrops     | new coins                        | value, hope, and promise of money through harvest |
+| Hailstones    | new silver coins / frozen pearls | roundness, whiteness, shine                       |
+| Locusts       | plague                           | destructive spread and total loss                 |
+| Lencho        | an ox of a man                   | physical strength and hard work                   |
 
 ---
 
@@ -355,15 +356,15 @@ Lencho, who knew his fields intimately, looked at the sky.
 
 The listening passage is an informal letter from Jaya to Arti.
 
-| Question | Answer |
-|---|---|
-| **Who is writing to whom?** | Jaya is writing to Arti. |
-| **Where and when were they last together?** | Bangalore, the previous year. |
-| **Why does the writer apologise?** | She has not written for a long time. |
-| **What had she sent earlier?** | A birthday card. |
-| **Which month was it sent?** | September 2005. |
-| **Where does Sarah go?** | Little Feet school. |
-| **Why was Little Feet chosen?** | It is close to the new home. |
+| Question                                    | Answer                               |
+| ------------------------------------------- | ------------------------------------ |
+| **Who is writing to whom?**                 | Jaya is writing to Arti.             |
+| **Where and when were they last together?** | Bangalore, the previous year.        |
+| **Why does the writer apologise?**          | She has not written for a long time. |
+| **What had she sent earlier?**              | A birthday card.                     |
+| **Which month was it sent?**                | September 2005.                      |
+| **Where does Sarah go?**                    | Little Feet school.                  |
+| **Why was Little Feet chosen?**             | It is close to the new home.         |
 
 ## Speaking Prompt
 
@@ -416,13 +417,13 @@ Water saved is life saved.
 
 ## Text Identity
 
-| Detail | Information |
-|---|---|
-| **Poem** | Dust of Snow |
-| **Poet** | Robert Frost |
-| **Form** | Short lyric poem |
+| Detail         | Information                                              |
+| -------------- | -------------------------------------------------------- |
+| **Poem**       | Dust of Snow                                             |
+| **Poet**       | Robert Frost                                             |
+| **Form**       | Short lyric poem                                         |
 | **Main Event** | A crow shakes snow from a hemlock tree onto the speaker. |
-| **Main Theme** | A small natural incident can change a person's mood. |
+| **Main Theme** | A small natural incident can change a person's mood.     |
 
 ## Short Summary
 
@@ -430,11 +431,11 @@ The speaker is in a bad mood and regrets part of the day. A crow shakes a little
 
 ## Key Images
 
-| Image | Usual Association | Effect in Poem |
-|---|---|---|
-| **Crow** | dark, harsh, often considered unlucky | becomes part of a healing moment |
-| **Hemlock tree** | poisonous, gloomy | becomes source of mood change |
-| **Dust of snow** | fine particles of snow | small but refreshing natural touch |
+| Image            | Usual Association                     | Effect in Poem                     |
+| ---------------- | ------------------------------------- | ---------------------------------- |
+| **Crow**         | dark, harsh, often considered unlucky | becomes part of a healing moment   |
+| **Hemlock tree** | poisonous, gloomy                     | becomes source of mood change      |
+| **Dust of snow** | fine particles of snow                | small but refreshing natural touch |
 
 ## Question Answers
 
@@ -456,22 +457,22 @@ Frost presents nature as surprising and healing. He does not use traditionally b
 
 ## Symbolism
 
-| Symbol | Meaning |
-|---|---|
-| **Crow** | sorrow, darkness, or ordinary nature |
-| **Hemlock** | gloom, poison, or negative mood |
-| **Snow dust** | purity, freshness, unexpected change |
-| **Falling snow** | sudden emotional shift |
+| Symbol           | Meaning                              |
+| ---------------- | ------------------------------------ |
+| **Crow**         | sorrow, darkness, or ordinary nature |
+| **Hemlock**      | gloom, poison, or negative mood      |
+| **Snow dust**    | purity, freshness, unexpected change |
+| **Falling snow** | sudden emotional shift               |
 
 ## Poetic Devices
 
-| Device | Example / Explanation |
-|---|---|
-| **Imagery** | Crow, hemlock tree, dust of snow. |
-| **Alliteration** | sounds repeated in phrases such as "Has given my heart". |
-| **Symbolism** | Crow and hemlock represent gloom; snow represents transformation. |
-| **Contrast** | Dark symbols bring a positive mood change. |
-| **Rhyme scheme** | ABAB CDCD. |
+| Device           | Example / Explanation                                             |
+| ---------------- | ----------------------------------------------------------------- |
+| **Imagery**      | Crow, hemlock tree, dust of snow.                                 |
+| **Alliteration** | sounds repeated in phrases such as "Has given my heart".          |
+| **Symbolism**    | Crow and hemlock represent gloom; snow represents transformation. |
+| **Contrast**     | Dark symbols bring a positive mood change.                        |
+| **Rhyme scheme** | ABAB CDCD.                                                        |
 
 ## Main Message
 
@@ -483,13 +484,13 @@ Small moments can transform our mental state. Nature does not have to appear gra
 
 ## Text Identity
 
-| Detail | Information |
-|---|---|
-| **Poem** | Fire and Ice |
-| **Poet** | Robert Frost |
-| **Form** | Short symbolic poem |
-| **Main Theme** | Desire and hatred are both destructive. |
-| **Central Symbols** | Fire and ice |
+| Detail              | Information                             |
+| ------------------- | --------------------------------------- |
+| **Poem**            | Fire and Ice                            |
+| **Poet**            | Robert Frost                            |
+| **Form**            | Short symbolic poem                     |
+| **Main Theme**      | Desire and hatred are both destructive. |
+| **Central Symbols** | Fire and ice                            |
 
 ## Short Summary
 
@@ -497,11 +498,11 @@ The speaker reflects on two possible ways the world may end: fire or ice. Fire i
 
 ## Symbol Table
 
-| Symbol | Represents |
-|---|---|
-| **Fire** | desire, greed, passion, anger, lust, fury |
-| **Ice** | hate, coldness, indifference, rigidity, cruelty |
-| **World ending** | destruction caused by human emotions |
+| Symbol           | Represents                                      |
+| ---------------- | ----------------------------------------------- |
+| **Fire**         | desire, greed, passion, anger, lust, fury       |
+| **Ice**          | hate, coldness, indifference, rigidity, cruelty |
+| **World ending** | destruction caused by human emotions            |
 
 ## Question Answers
 
@@ -521,12 +522,12 @@ The tight rhyme scheme gives the poem a compact, controlled shape. This control 
 
 ## Poetic Devices
 
-| Device | Example / Explanation |
-|---|---|
-| **Symbolism** | Fire and ice symbolise destructive emotions. |
-| **Alliteration** | Repetition in phrases such as "favour fire". |
-| **Anaphora** | Repetition of "Some say" at the beginning. |
-| **Contrast** | Fire versus ice; desire versus hate. |
+| Device             | Example / Explanation                                          |
+| ------------------ | -------------------------------------------------------------- |
+| **Symbolism**      | Fire and ice symbolise destructive emotions.                   |
+| **Alliteration**   | Repetition in phrases such as "favour fire".                   |
+| **Anaphora**       | Repetition of "Some say" at the beginning.                     |
+| **Contrast**       | Fire versus ice; desire versus hate.                           |
 | **Understatement** | Saying ice would "suffice" calmly describes total destruction. |
 
 ## Main Message
@@ -539,52 +540,52 @@ The poem warns that the world can be destroyed not only by fiery passion and des
 
 ## A Letter to God
 
-| Item | Key Point |
-|---|---|
-| Main character | Lencho |
-| Need | Rain for cornfield |
-| Disaster | Hailstorm destroys crop |
-| Request | 100 pesos from God |
-| Helpers | Postmaster, employees, friends |
-| Amount received | 70 pesos |
-| Irony | Lencho calls helpers crooks |
-| Main theme | Faith, irony, kindness, poverty |
+| Item            | Key Point                       |
+| --------------- | ------------------------------- |
+| Main character  | Lencho                          |
+| Need            | Rain for cornfield              |
+| Disaster        | Hailstorm destroys crop         |
+| Request         | 100 pesos from God              |
+| Helpers         | Postmaster, employees, friends  |
+| Amount received | 70 pesos                        |
+| Irony           | Lencho calls helpers crooks     |
+| Main theme      | Faith, irony, kindness, poverty |
 
 ## Dust of Snow
 
-| Item | Key Point |
-|---|---|
-| Poet | Robert Frost |
+| Item     | Key Point                           |
+| -------- | ----------------------------------- |
+| Poet     | Robert Frost                        |
 | Incident | Snow falls from hemlock due to crow |
-| Change | Bad mood improves |
-| Symbols | Crow, hemlock, snow |
-| Rhyme | ABAB CDCD |
-| Message | Small incidents can change mood |
+| Change   | Bad mood improves                   |
+| Symbols  | Crow, hemlock, snow                 |
+| Rhyme    | ABAB CDCD                           |
+| Message  | Small incidents can change mood     |
 
 ## Fire and Ice
 
-| Item | Key Point |
-|---|---|
-| Poet | Robert Frost |
-| Fire | desire, anger, greed |
-| Ice | hatred, coldness, indifference |
-| Rhyme | ABAABCBCB |
+| Item    | Key Point                           |
+| ------- | ----------------------------------- |
+| Poet    | Robert Frost                        |
+| Fire    | desire, anger, greed                |
+| Ice     | hatred, coldness, indifference      |
+| Rhyme   | ABAABCBCB                           |
 | Message | Both passion and hatred can destroy |
 
 ---
 
 # Unit 1I: Common Mistakes and Corrections
 
-| Mistake | Better Understanding |
-|---|---|
-| Saying Lencho is stupid. | He is naive and unquestioningly faithful, but also hard-working. |
-| Missing the postmaster's motive. | He wants to preserve Lencho's faith. |
-| Thinking Lencho is surprised by money. | He is not surprised because he expects God to answer. |
-| Ignoring irony. | The helpers are called crooks by the person they helped. |
-| Treating rain and hail as the same. | Rain promises harvest; hail destroys it. |
-| Seeing "Dust of Snow" as only a nature poem. | It is about sudden emotional transformation. |
-| Thinking crow and hemlock are joyful symbols. | They are usually gloomy but create a positive change. |
-| Reading "Fire and Ice" literally only. | Fire and ice symbolise human emotions. |
+| Mistake                                       | Better Understanding                                             |
+| --------------------------------------------- | ---------------------------------------------------------------- |
+| Saying Lencho is stupid.                      | He is naive and unquestioningly faithful, but also hard-working. |
+| Missing the postmaster's motive.              | He wants to preserve Lencho's faith.                             |
+| Thinking Lencho is surprised by money.        | He is not surprised because he expects God to answer.            |
+| Ignoring irony.                               | The helpers are called crooks by the person they helped.         |
+| Treating rain and hail as the same.           | Rain promises harvest; hail destroys it.                         |
+| Seeing "Dust of Snow" as only a nature poem.  | It is about sudden emotional transformation.                     |
+| Thinking crow and hemlock are joyful symbols. | They are usually gloomy but create a positive change.            |
+| Reading "Fire and Ice" literally only.        | Fire and ice symbolise human emotions.                           |
 
 ---
 
@@ -663,4 +664,4 @@ For poetry:
 
 ---
 
-*Source: NCERT Class 10 - English First Flight, Chapter 1 raw file. Learner-facing version manually rewritten from the extracted content of "A Letter to God", "Dust of Snow", and "Fire and Ice".*
+_Source: NCERT Class 10 - English First Flight, Chapter 1 raw file. Learner-facing version manually rewritten from the extracted content of "A Letter to God", "Dust of Snow", and "Fire and Ice"._

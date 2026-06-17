@@ -57,69 +57,69 @@ After studying this chapter, you should be able to:
 
 ## Chapter Snapshot
 
-| Theme | What To Remember |
-|---|---|
-| Main topic | Different East Asian paths to modernity |
-| Main comparison | Japan and China |
-| Japan's challenge | Avoid colonisation, build a modern nation-state, industrialise, and compete with Western powers |
-| Japan's strength | Pre-existing commercial economy, literacy, town culture, strong state reforms, nationalism |
-| Japan's danger | Militarism, colonial expansion, repression, war, pollution |
-| China's challenge | Foreign imperialism, weak Qing rule, social crisis, warlordism, civil war, Japanese invasion |
-| China's response | Reform, republican revolution, nationalism, May Fourth ideas, Communist revolution, socialism, market reform |
-| Taiwan's path | Authoritarian rule, land reform, economic growth, then democratisation |
-| Korea's path | Japanese colonialism, division, war, state-led industrial growth, democratic movements |
-| Big argument | Modernisation has many paths; it is not a single copy of Europe |
+| Theme             | What To Remember                                                                                             |
+| ----------------- | ------------------------------------------------------------------------------------------------------------ |
+| Main topic        | Different East Asian paths to modernity                                                                      |
+| Main comparison   | Japan and China                                                                                              |
+| Japan's challenge | Avoid colonisation, build a modern nation-state, industrialise, and compete with Western powers              |
+| Japan's strength  | Pre-existing commercial economy, literacy, town culture, strong state reforms, nationalism                   |
+| Japan's danger    | Militarism, colonial expansion, repression, war, pollution                                                   |
+| China's challenge | Foreign imperialism, weak Qing rule, social crisis, warlordism, civil war, Japanese invasion                 |
+| China's response  | Reform, republican revolution, nationalism, May Fourth ideas, Communist revolution, socialism, market reform |
+| Taiwan's path     | Authoritarian rule, land reform, economic growth, then democratisation                                       |
+| Korea's path      | Japanese colonialism, division, war, state-led industrial growth, democratic movements                       |
+| Big argument      | Modernisation has many paths; it is not a single copy of Europe                                              |
 
 ## Big Picture Timeline
 
-| Date Or Period | Event Or Process |
-|---|---|
-| 1603 | Tokugawa Ieyasu establishes the Edo shogunate in Japan |
-| 1630s | Japan limits Western contact except restricted Dutch trade |
-| 1644-1911 | Qing dynasty rules China |
-| 1839-42 | First Opium War |
-| 1853 | Commodore Matthew Perry arrives in Japan |
-| 1854 | Japan signs a treaty with the United States and opens diplomatic relations |
-| 1868 | Meiji Restoration begins |
-| 1870-72 | First Japanese railway built between Tokyo and Yokohama |
-| 1872 | Japan introduces compulsory education system and modern banking institutions |
-| 1886 | Women textile workers organise Japan's first modern strike |
-| 1889 | Meiji Constitution enacted |
-| 1894-95 | Japan defeats China |
-| 1895 | Taiwan becomes a Japanese colony |
-| 1897 | Tanaka Shozo leads protest against Ashio mine pollution |
-| 1904-05 | Japan defeats Russia |
-| 1905 | Chinese civil service examination system abolished |
-| 1910 | Korea annexed by Japan |
-| 1911 | Chinese revolution overthrows Manchu rule |
-| 1912 | Sun Yat-sen founds the Guomindang |
-| 1919 | May Fourth Movement in China |
-| 1921 | Communist Party of China founded |
-| 1931 | Japan invades Manchuria |
-| 1934-35 | Long March by the Chinese Communists |
-| 1937 | Japan launches full-scale invasion of China |
-| 1945 | Japan defeated; atomic bombs dropped on Hiroshima and Nagasaki |
-| 1945 | Korea liberated from Japanese colonial rule, then divided |
-| 1946 | First post-war election in Japan; women vote for the first time |
-| 1949 | People's Republic of China established; Chiang Kai-shek moves to Taiwan |
-| 1950-53 | Korean War |
-| 1958 | Great Leap Forward launched in China |
-| 1960 | April Revolution in South Korea forces Syngman Rhee to resign |
-| 1961 | Park Chung-hee takes power in South Korea through military coup |
-| 1964 | Tokyo Olympics and start of Shinkansen as symbols of Japanese recovery |
-| 1965 | Cultural Revolution begins in China |
-| 1974 | South Korea's rapid industrialisation continues under authoritarian rule |
-| 1975 | Chiang Kai-shek dies; Taiwan's slow political opening begins later |
-| 1978 | China begins reform under Deng Xiaoping |
-| 1979 | Park Chung-hee assassinated |
-| 1980 | Gwangju Democratisation Movement in South Korea |
-| 1987 | South Korea moves to direct presidential elections; Taiwan lifts martial law |
-| 1989 | Tiananmen Square protests suppressed in China |
-| 1992 | Kim Young-sam elected in South Korea, ending decades of direct military rule |
-| 1996 | South Korea joins the OECD |
-| 1997 | South Korea faces IMF crisis and elects Kim Dae-jung |
-| 1997 | Hong Kong returned to China by Britain |
-| 2016-17 | South Korean candlelight protests lead to impeachment of Park Geun-hye |
+| Date Or Period | Event Or Process                                                             |
+| -------------- | ---------------------------------------------------------------------------- |
+| 1603           | Tokugawa Ieyasu establishes the Edo shogunate in Japan                       |
+| 1630s          | Japan limits Western contact except restricted Dutch trade                   |
+| 1644-1911      | Qing dynasty rules China                                                     |
+| 1839-42        | First Opium War                                                              |
+| 1853           | Commodore Matthew Perry arrives in Japan                                     |
+| 1854           | Japan signs a treaty with the United States and opens diplomatic relations   |
+| 1868           | Meiji Restoration begins                                                     |
+| 1870-72        | First Japanese railway built between Tokyo and Yokohama                      |
+| 1872           | Japan introduces compulsory education system and modern banking institutions |
+| 1886           | Women textile workers organise Japan's first modern strike                   |
+| 1889           | Meiji Constitution enacted                                                   |
+| 1894-95        | Japan defeats China                                                          |
+| 1895           | Taiwan becomes a Japanese colony                                             |
+| 1897           | Tanaka Shozo leads protest against Ashio mine pollution                      |
+| 1904-05        | Japan defeats Russia                                                         |
+| 1905           | Chinese civil service examination system abolished                           |
+| 1910           | Korea annexed by Japan                                                       |
+| 1911           | Chinese revolution overthrows Manchu rule                                    |
+| 1912           | Sun Yat-sen founds the Guomindang                                            |
+| 1919           | May Fourth Movement in China                                                 |
+| 1921           | Communist Party of China founded                                             |
+| 1931           | Japan invades Manchuria                                                      |
+| 1934-35        | Long March by the Chinese Communists                                         |
+| 1937           | Japan launches full-scale invasion of China                                  |
+| 1945           | Japan defeated; atomic bombs dropped on Hiroshima and Nagasaki               |
+| 1945           | Korea liberated from Japanese colonial rule, then divided                    |
+| 1946           | First post-war election in Japan; women vote for the first time              |
+| 1949           | People's Republic of China established; Chiang Kai-shek moves to Taiwan      |
+| 1950-53        | Korean War                                                                   |
+| 1958           | Great Leap Forward launched in China                                         |
+| 1960           | April Revolution in South Korea forces Syngman Rhee to resign                |
+| 1961           | Park Chung-hee takes power in South Korea through military coup              |
+| 1964           | Tokyo Olympics and start of Shinkansen as symbols of Japanese recovery       |
+| 1965           | Cultural Revolution begins in China                                          |
+| 1974           | South Korea's rapid industrialisation continues under authoritarian rule     |
+| 1975           | Chiang Kai-shek dies; Taiwan's slow political opening begins later           |
+| 1978           | China begins reform under Deng Xiaoping                                      |
+| 1979           | Park Chung-hee assassinated                                                  |
+| 1980           | Gwangju Democratisation Movement in South Korea                              |
+| 1987           | South Korea moves to direct presidential elections; Taiwan lifts martial law |
+| 1989           | Tiananmen Square protests suppressed in China                                |
+| 1992           | Kim Young-sam elected in South Korea, ending decades of direct military rule |
+| 1996           | South Korea joins the OECD                                                   |
+| 1997           | South Korea faces IMF crisis and elects Kim Dae-jung                         |
+| 1997           | Hong Kong returned to China by Britain                                       |
+| 2016-17        | South Korean candlelight protests lead to impeachment of Park Geun-hye       |
 
 ## How To Read This Chapter
 
@@ -1314,123 +1314,123 @@ They create modernity through their own histories, crises, institutions, and str
 
 ## 59. Key Terms
 
-| Term | Meaning |
-|---|---|
-| Modernisation | A broad process of political, social, economic, cultural, and technological transformation |
-| Shogun | Military ruler of Japan who governed in the emperor's name |
-| Daimyo | Domain lord in Tokugawa Japan |
-| Samurai | Warrior elite of Japan |
-| Edo | Tokugawa capital, later renamed Tokyo |
-| Meiji Restoration | 1868 political change that restored imperial authority and began major reforms |
-| Fukoku kyohei | Japanese slogan meaning rich country, strong army |
-| Emperor system | Meiji structure linking emperor, bureaucracy, and military power |
-| Diet | Japanese parliament |
-| Zaibatsu | Large family-controlled business group |
-| Moga | Modern girl in twentieth-century Japanese urban culture |
-| Article 9 | Post-war Japanese constitutional clause renouncing war |
-| Opium War | War beginning in 1839 caused by British efforts to protect and expand the opium trade |
-| Qing dynasty | Dynasty ruling China from 1644 to 1911 |
-| Confucianism | Ethical and political tradition based on teachings linked to Confucius |
-| Three Principles | Sun Yat-sen's nationalism, democracy, and socialism |
-| Guomindang | National People's Party in China |
-| CCP | Communist Party of China |
-| Long March | Communist retreat of 1934-35 that became a revolutionary legend |
-| New Democracy | Early People's Republic alliance of different social classes |
-| Great Leap Forward | Maoist programme to industrialise rapidly through mass mobilisation |
-| Cultural Revolution | Maoist campaign from 1965 that attacked old culture and critics of Mao |
-| Four Modernisations | Reform goals of science, industry, agriculture, and defence |
-| Saemaul Movement | South Korean New Village Movement for rural modernisation |
-| Gwangju Democratisation Movement | 1980 South Korean democratic uprising suppressed by the military |
-| IMF Crisis | South Korea's 1997 foreign currency crisis |
+| Term                             | Meaning                                                                                    |
+| -------------------------------- | ------------------------------------------------------------------------------------------ |
+| Modernisation                    | A broad process of political, social, economic, cultural, and technological transformation |
+| Shogun                           | Military ruler of Japan who governed in the emperor's name                                 |
+| Daimyo                           | Domain lord in Tokugawa Japan                                                              |
+| Samurai                          | Warrior elite of Japan                                                                     |
+| Edo                              | Tokugawa capital, later renamed Tokyo                                                      |
+| Meiji Restoration                | 1868 political change that restored imperial authority and began major reforms             |
+| Fukoku kyohei                    | Japanese slogan meaning rich country, strong army                                          |
+| Emperor system                   | Meiji structure linking emperor, bureaucracy, and military power                           |
+| Diet                             | Japanese parliament                                                                        |
+| Zaibatsu                         | Large family-controlled business group                                                     |
+| Moga                             | Modern girl in twentieth-century Japanese urban culture                                    |
+| Article 9                        | Post-war Japanese constitutional clause renouncing war                                     |
+| Opium War                        | War beginning in 1839 caused by British efforts to protect and expand the opium trade      |
+| Qing dynasty                     | Dynasty ruling China from 1644 to 1911                                                     |
+| Confucianism                     | Ethical and political tradition based on teachings linked to Confucius                     |
+| Three Principles                 | Sun Yat-sen's nationalism, democracy, and socialism                                        |
+| Guomindang                       | National People's Party in China                                                           |
+| CCP                              | Communist Party of China                                                                   |
+| Long March                       | Communist retreat of 1934-35 that became a revolutionary legend                            |
+| New Democracy                    | Early People's Republic alliance of different social classes                               |
+| Great Leap Forward               | Maoist programme to industrialise rapidly through mass mobilisation                        |
+| Cultural Revolution              | Maoist campaign from 1965 that attacked old culture and critics of Mao                     |
+| Four Modernisations              | Reform goals of science, industry, agriculture, and defence                                |
+| Saemaul Movement                 | South Korean New Village Movement for rural modernisation                                  |
+| Gwangju Democratisation Movement | 1980 South Korean democratic uprising suppressed by the military                           |
+| IMF Crisis                       | South Korea's 1997 foreign currency crisis                                                 |
 
 ## 60. Important People
 
-| Person | Role |
-|---|---|
-| Sima Qian | Major early Chinese historian |
-| Naito Konan | Japanese scholar of China who interpreted Chinese history using modern methods |
-| Commodore Matthew Perry | United States naval officer whose arrival pressured Japan to open relations |
-| Murasaki Shikibu | Author of The Tale of Genji |
-| Fukuzawa Yukichi | Meiji intellectual who supported Western learning and modern citizenship |
-| Miyake Setsurei | Thinker who argued each nation should develop its own talents |
-| Ueki Emori | Popular Rights Movement leader who demanded constitutional government |
-| Tanaka Shozo | Early Japanese anti-pollution activist |
-| Kang Youwei | Chinese reformer |
-| Liang Qichao | Chinese reformer and nationalist thinker |
-| Sun Yat-sen | Founder figure of modern China and leader of republican revolution |
-| Chiang Kai-shek | Guomindang leader |
-| Mao Zedong | Communist leader who based revolution on peasants |
-| Deng Xiaoping | Chinese leader who introduced market reforms after 1978 |
-| Syngman Rhee | First South Korean president |
-| Park Chung-hee | South Korean military ruler associated with rapid industrial growth |
-| Chun Doo-hwan | South Korean military ruler during Gwangju suppression |
-| Kim Young-sam | Civilian South Korean president elected in 1992 |
-| Kim Dae-jung | South Korean opposition leader elected president in 1997 |
+| Person                  | Role                                                                           |
+| ----------------------- | ------------------------------------------------------------------------------ |
+| Sima Qian               | Major early Chinese historian                                                  |
+| Naito Konan             | Japanese scholar of China who interpreted Chinese history using modern methods |
+| Commodore Matthew Perry | United States naval officer whose arrival pressured Japan to open relations    |
+| Murasaki Shikibu        | Author of The Tale of Genji                                                    |
+| Fukuzawa Yukichi        | Meiji intellectual who supported Western learning and modern citizenship       |
+| Miyake Setsurei         | Thinker who argued each nation should develop its own talents                  |
+| Ueki Emori              | Popular Rights Movement leader who demanded constitutional government          |
+| Tanaka Shozo            | Early Japanese anti-pollution activist                                         |
+| Kang Youwei             | Chinese reformer                                                               |
+| Liang Qichao            | Chinese reformer and nationalist thinker                                       |
+| Sun Yat-sen             | Founder figure of modern China and leader of republican revolution             |
+| Chiang Kai-shek         | Guomindang leader                                                              |
+| Mao Zedong              | Communist leader who based revolution on peasants                              |
+| Deng Xiaoping           | Chinese leader who introduced market reforms after 1978                        |
+| Syngman Rhee            | First South Korean president                                                   |
+| Park Chung-hee          | South Korean military ruler associated with rapid industrial growth            |
+| Chun Doo-hwan           | South Korean military ruler during Gwangju suppression                         |
+| Kim Young-sam           | Civilian South Korean president elected in 1992                                |
+| Kim Dae-jung            | South Korean opposition leader elected president in 1997                       |
 
 ## 61. Comparison: Japan And China
 
-| Point | Japan | China |
-|---|---|---|
+| Point                             | Japan                                                                  | China                                                                           |
+| --------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
 | Political condition before crisis | Tokugawa order with shogun, daimyo, samurai, and stable administration | Qing dynasty with vast territory but increasing internal and external pressures |
-| Foreign pressure | Perry's arrival and fear of colonisation | Opium Wars, unequal pressure, foreign spheres, Japanese invasion |
-| Response | Rapid state-led reform after 1868 | Reform, revolution, civil war, Communist victory |
-| State capacity | Strong central reforms after Meiji | Qing weakness followed by fragmented politics |
-| Economic base | Towns, markets, literacy, silk, commercial culture | Large agrarian society with limited modern industry |
-| Nationalism | Helped resist West but became imperialist | Aimed to regain sovereignty and end humiliation |
-| Democracy | Limited by emperor system and military | Republican ideals, then Communist one-party rule |
-| Result | Industrial power and empire, then defeat and post-war recovery | People's Republic, socialist revolution, market reform under Party rule |
+| Foreign pressure                  | Perry's arrival and fear of colonisation                               | Opium Wars, unequal pressure, foreign spheres, Japanese invasion                |
+| Response                          | Rapid state-led reform after 1868                                      | Reform, revolution, civil war, Communist victory                                |
+| State capacity                    | Strong central reforms after Meiji                                     | Qing weakness followed by fragmented politics                                   |
+| Economic base                     | Towns, markets, literacy, silk, commercial culture                     | Large agrarian society with limited modern industry                             |
+| Nationalism                       | Helped resist West but became imperialist                              | Aimed to regain sovereignty and end humiliation                                 |
+| Democracy                         | Limited by emperor system and military                                 | Republican ideals, then Communist one-party rule                                |
+| Result                            | Industrial power and empire, then defeat and post-war recovery         | People's Republic, socialist revolution, market reform under Party rule         |
 
 ## 62. Comparison: Japan And South Korea
 
-| Point | Japan | South Korea |
-|---|---|---|
-| Foreign threat | Western pressure in nineteenth century | Japanese colonial rule, division, Cold War |
-| Industrialisation | Began under Meiji state; zaibatsu important | State-led, export-oriented growth under authoritarian rulers |
-| Role of state | Strong direction of schools, military, industry, banks | Five-year plans, support to conglomerates, export push |
-| Democracy | Limited before 1945; expanded after defeat | Suppressed under military rulers; won through mass movements |
-| Costs | Militarism, empire, pollution, war | Authoritarian rule, labour pressure, democratic suppression |
+| Point             | Japan                                                  | South Korea                                                  |
+| ----------------- | ------------------------------------------------------ | ------------------------------------------------------------ |
+| Foreign threat    | Western pressure in nineteenth century                 | Japanese colonial rule, division, Cold War                   |
+| Industrialisation | Began under Meiji state; zaibatsu important            | State-led, export-oriented growth under authoritarian rulers |
+| Role of state     | Strong direction of schools, military, industry, banks | Five-year plans, support to conglomerates, export push       |
+| Democracy         | Limited before 1945; expanded after defeat             | Suppressed under military rulers; won through mass movements |
+| Costs             | Militarism, empire, pollution, war                     | Authoritarian rule, labour pressure, democratic suppression  |
 
 ## 63. Comparison: Taiwan And South Korea
 
-| Point | Taiwan | South Korea |
-|---|---|---|
-| Post-war condition | Guomindang retreats from mainland China | Divided after liberation from Japan |
-| Political system | Authoritarian Guomindang rule | Authoritarian presidents and military rule |
-| Economic strategy | Land reform and export growth | State-led export industrialisation |
-| Political opening | Martial law lifted in 1987 | Direct elections forced after 1987 democracy movement |
-| Key pattern | Economic growth before democratisation | Economic growth helped create social base for democratisation |
+| Point              | Taiwan                                  | South Korea                                                   |
+| ------------------ | --------------------------------------- | ------------------------------------------------------------- |
+| Post-war condition | Guomindang retreats from mainland China | Divided after liberation from Japan                           |
+| Political system   | Authoritarian Guomindang rule           | Authoritarian presidents and military rule                    |
+| Economic strategy  | Land reform and export growth           | State-led export industrialisation                            |
+| Political opening  | Martial law lifted in 1987              | Direct elections forced after 1987 democracy movement         |
+| Key pattern        | Economic growth before democratisation  | Economic growth helped create social base for democratisation |
 
 ## 64. Cause And Effect Map
 
-| Cause | Effect |
-|---|---|
-| Perry's arrival in Japan | Political crisis and pressure to open relations |
-| Fear of colonisation | Meiji reforms and rich country, strong army policy |
-| Compulsory education | Literacy, national identity, loyal citizenship |
-| State support to industry | Growth of zaibatsu and modern industrial economy |
-| Military independence from cabinet control | Growth of militarism and aggressive foreign policy |
-| Rapid industrialisation | Pollution, worker exploitation, environmental protest |
-| Opium trade | War, Qing weakening, reform demands |
-| Abolition of examination system | Break with old elite selection and opening to modern subjects |
-| May Fourth Movement | Attack on tradition and rise of modern nationalism |
-| Guomindang failure to address peasantry | Growth of Communist support |
-| Long March | Communist survival and revolutionary myth |
-| Great Leap Forward | Attempted mass industrialisation with severe problems |
-| Cultural Revolution | Political turmoil and disruption of education and economy |
-| Deng reforms | Market growth under continued Party control |
-| South Korean industrial growth | Urbanisation, education, media expansion, democratic pressure |
+| Cause                                      | Effect                                                        |
+| ------------------------------------------ | ------------------------------------------------------------- |
+| Perry's arrival in Japan                   | Political crisis and pressure to open relations               |
+| Fear of colonisation                       | Meiji reforms and rich country, strong army policy            |
+| Compulsory education                       | Literacy, national identity, loyal citizenship                |
+| State support to industry                  | Growth of zaibatsu and modern industrial economy              |
+| Military independence from cabinet control | Growth of militarism and aggressive foreign policy            |
+| Rapid industrialisation                    | Pollution, worker exploitation, environmental protest         |
+| Opium trade                                | War, Qing weakening, reform demands                           |
+| Abolition of examination system            | Break with old elite selection and opening to modern subjects |
+| May Fourth Movement                        | Attack on tradition and rise of modern nationalism            |
+| Guomindang failure to address peasantry    | Growth of Communist support                                   |
+| Long March                                 | Communist survival and revolutionary myth                     |
+| Great Leap Forward                         | Attempted mass industrialisation with severe problems         |
+| Cultural Revolution                        | Political turmoil and disruption of education and economy     |
+| Deng reforms                               | Market growth under continued Party control                   |
+| South Korean industrial growth             | Urbanisation, education, media expansion, democratic pressure |
 
 ## 65. Common Misconceptions
 
-| Misconception | Correction |
-|---|---|
-| Japan was completely isolated before Perry. | Japan restricted many Western contacts but still had East Asian trade and access to Dutch and Chinese knowledge. |
-| Modernisation means copying the West. | Japan, China, Taiwan, and Korea adapted foreign ideas differently through their own histories. |
-| Japan became democratic simply because it modernised. | Democracy was limited before 1945 and often weakened by militarism. |
-| Industrialisation only brings progress. | It also brought pollution, disease, labour exploitation, and war. |
-| China failed because it had no reformers. | China had many reformers, but reform faced imperial pressure, Qing weakness, social crisis, and political fragmentation. |
-| Mao's revolution was only urban and worker-based. | Mao's strategy was mainly peasant-based. |
-| South Korean democracy was gifted by economic growth alone. | Economic growth helped create conditions, but citizens, students, workers, and opposition groups fought for democracy. |
+| Misconception                                               | Correction                                                                                                               |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Japan was completely isolated before Perry.                 | Japan restricted many Western contacts but still had East Asian trade and access to Dutch and Chinese knowledge.         |
+| Modernisation means copying the West.                       | Japan, China, Taiwan, and Korea adapted foreign ideas differently through their own histories.                           |
+| Japan became democratic simply because it modernised.       | Democracy was limited before 1945 and often weakened by militarism.                                                      |
+| Industrialisation only brings progress.                     | It also brought pollution, disease, labour exploitation, and war.                                                        |
+| China failed because it had no reformers.                   | China had many reformers, but reform faced imperial pressure, Qing weakness, social crisis, and political fragmentation. |
+| Mao's revolution was only urban and worker-based.           | Mao's strategy was mainly peasant-based.                                                                                 |
+| South Korean democracy was gifted by economic growth alone. | Economic growth helped create conditions, but citizens, students, workers, and opposition groups fought for democracy.   |
 
 ## 66. Practice Prompts For Understanding
 
@@ -1653,28 +1653,28 @@ Democracy came when citizens forced political reform through movements such as G
 
 ## 69. Revision Table
 
-| Topic | One-Line Revision |
-|---|---|
-| Tokugawa Japan | Stable rule, domains, samurai, cities, markets, and literacy prepared Japan for reform |
-| Meiji Restoration | 1868 shift that used emperor-centred nationalism to modernise state and economy |
-| Fukoku kyohei | Rich country, strong army |
-| Meiji education | Spread literacy and loyalty together |
-| Zaibatsu | Powerful family business groups supported by the state |
-| Japanese militarism | Military autonomy and empire weakened democracy |
-| Tanaka Shozo | Early critic of industrial pollution |
-| Post-war Japan | Demilitarised, democratised, rebuilt with US support and older strengths |
-| Opium War | Exposed Qing weakness and intensified reform demands |
-| Qing reforms | Tried to modernise army, administration, education, and constitutional structures |
-| Sun Yat-sen | Nationalism, democracy, socialism |
-| May Fourth | Anti-imperial, anti-traditional, pro-science, pro-democracy movement |
-| Guomindang | Urban nationalist party that failed to solve rural crisis |
-| Mao | Built Communist strategy around peasants and land reform |
-| Long March | Communist survival and revolutionary legitimacy |
-| Great Leap Forward | Failed mass industrialisation drive |
-| Cultural Revolution | Ideological campaign that disrupted society and economy |
-| Deng reforms | Market reforms with continued Party control |
-| Taiwan | Economic growth and later democracy under complex China relations |
-| South Korea | Export-led growth under authoritarianism followed by democratic struggle |
+| Topic               | One-Line Revision                                                                      |
+| ------------------- | -------------------------------------------------------------------------------------- |
+| Tokugawa Japan      | Stable rule, domains, samurai, cities, markets, and literacy prepared Japan for reform |
+| Meiji Restoration   | 1868 shift that used emperor-centred nationalism to modernise state and economy        |
+| Fukoku kyohei       | Rich country, strong army                                                              |
+| Meiji education     | Spread literacy and loyalty together                                                   |
+| Zaibatsu            | Powerful family business groups supported by the state                                 |
+| Japanese militarism | Military autonomy and empire weakened democracy                                        |
+| Tanaka Shozo        | Early critic of industrial pollution                                                   |
+| Post-war Japan      | Demilitarised, democratised, rebuilt with US support and older strengths               |
+| Opium War           | Exposed Qing weakness and intensified reform demands                                   |
+| Qing reforms        | Tried to modernise army, administration, education, and constitutional structures      |
+| Sun Yat-sen         | Nationalism, democracy, socialism                                                      |
+| May Fourth          | Anti-imperial, anti-traditional, pro-science, pro-democracy movement                   |
+| Guomindang          | Urban nationalist party that failed to solve rural crisis                              |
+| Mao                 | Built Communist strategy around peasants and land reform                               |
+| Long March          | Communist survival and revolutionary legitimacy                                        |
+| Great Leap Forward  | Failed mass industrialisation drive                                                    |
+| Cultural Revolution | Ideological campaign that disrupted society and economy                                |
+| Deng reforms        | Market reforms with continued Party control                                            |
+| Taiwan              | Economic growth and later democracy under complex China relations                      |
+| South Korea         | Export-led growth under authoritarianism followed by democratic struggle               |
 
 ## 70. Memory Anchors
 

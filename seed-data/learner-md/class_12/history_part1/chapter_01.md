@@ -1,4 +1,5 @@
 # Chapter 1: Bricks, Beads and Bones
+
 ### NCERT Class 12 - History Part 1
 
 ## Chapter at a Glance
@@ -22,28 +23,28 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Harappan civilisation | Bronze Age urban civilisation in northwestern South Asia. |
-| Mature Harappan phase | Urban phase, roughly 2600 BCE to 1900 BCE. |
-| Citadel | Raised, fortified part of some Harappan cities. |
-| Lower town | Residential and working area below the citadel in many cities. |
-| Seal | Small carved object, often steatite, used for identification or trade. |
-| Standardised weights | Uniform weights used in exchange and measurement. |
-| Craft production | Making specialised goods such as beads, shell objects, pottery, and metal items. |
-| Archaeology | Study of past human life through material remains. |
+| Term                  | Meaning                                                                          |
+| --------------------- | -------------------------------------------------------------------------------- |
+| Harappan civilisation | Bronze Age urban civilisation in northwestern South Asia.                        |
+| Mature Harappan phase | Urban phase, roughly 2600 BCE to 1900 BCE.                                       |
+| Citadel               | Raised, fortified part of some Harappan cities.                                  |
+| Lower town            | Residential and working area below the citadel in many cities.                   |
+| Seal                  | Small carved object, often steatite, used for identification or trade.           |
+| Standardised weights  | Uniform weights used in exchange and measurement.                                |
+| Craft production      | Making specialised goods such as beads, shell objects, pottery, and metal items. |
+| Archaeology           | Study of past human life through material remains.                               |
 
 ## Quick Learning Map
 
-| Evidence | What it helps reveal |
-|---|---|
-| Bricks | Standardisation and planning |
-| Drains | Urban sanitation |
-| Seals | Trade, identity, symbols |
-| Beads | Craft skill and long-distance exchange |
-| Bones | Diet and animal use |
-| Burials | Social practices and beliefs |
-| Weights | Trade and measurement system |
+| Evidence | What it helps reveal                   |
+| -------- | -------------------------------------- |
+| Bricks   | Standardisation and planning           |
+| Drains   | Urban sanitation                       |
+| Seals    | Trade, identity, symbols               |
+| Beads    | Craft skill and long-distance exchange |
+| Bones    | Diet and animal use                    |
+| Burials  | Social practices and beliefs           |
+| Weights  | Trade and measurement system           |
 
 # Unit 1A: Time and Spread
 
@@ -250,12 +251,12 @@ For evidence:
 
 # Unit 1N: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Saying Harappan decline was sudden | It was gradual and regionally varied. |
-| Claiming script is fully read | It remains undeciphered. |
-| Assuming every large building is a palace | Interpretations need evidence. |
-| Ignoring small artefacts | Beads, seals, weights, and bones are crucial. |
+| Mistake                                       | Correction                                                |
+| --------------------------------------------- | --------------------------------------------------------- |
+| Saying Harappan decline was sudden            | It was gradual and regionally varied.                     |
+| Claiming script is fully read                 | It remains undeciphered.                                  |
+| Assuming every large building is a palace     | Interpretations need evidence.                            |
+| Ignoring small artefacts                      | Beads, seals, weights, and bones are crucial.             |
 | Treating Harappan society as completely equal | Differences existed, though kingship evidence is unclear. |
 
 ## Practice Set

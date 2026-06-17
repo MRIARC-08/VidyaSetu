@@ -1,36 +1,37 @@
 # Chapter 5: Consumer Rights
+
 ### NCERT Class 10 - Social Economics
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 10 |
-| **Subject** | Social Economics |
-| **Chapter** | 5 |
-| **Textbook Pages** | 74-89 |
-| **Core Theme** | Consumers need rights, awareness, legal protection, and collective action because markets can be unfair and sellers may exploit buyers. |
-| **Main Skills** | Identifying consumer exploitation, explaining consumer rights, using case studies, understanding COPRA, reading product information, and writing complaint-based answers. |
+| Detail             | Learner-Friendly Information                                                                                                                                              |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Class**          | 10                                                                                                                                                                        |
+| **Subject**        | Social Economics                                                                                                                                                          |
+| **Chapter**        | 5                                                                                                                                                                         |
+| **Textbook Pages** | 74-89                                                                                                                                                                     |
+| **Core Theme**     | Consumers need rights, awareness, legal protection, and collective action because markets can be unfair and sellers may exploit buyers.                                   |
+| **Main Skills**    | Identifying consumer exploitation, explaining consumer rights, using case studies, understanding COPRA, reading product information, and writing complaint-based answers. |
 
 ---
 
 ## Section Structure
 
-| Unit | Topic | Main Learning Focus |
-|---|---|---|
-| **5A** | Consumer in the Marketplace | Why consumers need protection in markets. |
-| **5B** | Exploitation in Markets | Underweight goods, adulteration, hidden charges, defective products, and false claims. |
-| **5C** | Consumer Movement | How consumer awareness grew in India and internationally. |
-| **5D** | Right to Safety | Protection from hazardous goods and services. |
-| **5E** | Right to Information | MRP, expiry date, ingredients, batch number, risks, and RTI. |
-| **5F** | Right to Choose | Freedom to select goods/services without forced tying. |
-| **5G** | Right to Redressal | Compensation and complaint mechanisms through consumer forums/courts. |
-| **5H** | COPRA and Consumer Courts | Three-tier redressal machinery and legal representation. |
-| **5I** | Becoming Well-Informed Consumers | Bills, labels, certification marks, and consumer duties. |
-| **5J** | Taking the Movement Forward | Progress, limitations, and need for active participation. |
-| **5K** | Answer Writing | How to write case-based consumer rights answers. |
+| Unit   | Topic                            | Main Learning Focus                                                                    |
+| ------ | -------------------------------- | -------------------------------------------------------------------------------------- |
+| **5A** | Consumer in the Marketplace      | Why consumers need protection in markets.                                              |
+| **5B** | Exploitation in Markets          | Underweight goods, adulteration, hidden charges, defective products, and false claims. |
+| **5C** | Consumer Movement                | How consumer awareness grew in India and internationally.                              |
+| **5D** | Right to Safety                  | Protection from hazardous goods and services.                                          |
+| **5E** | Right to Information             | MRP, expiry date, ingredients, batch number, risks, and RTI.                           |
+| **5F** | Right to Choose                  | Freedom to select goods/services without forced tying.                                 |
+| **5G** | Right to Redressal               | Compensation and complaint mechanisms through consumer forums/courts.                  |
+| **5H** | COPRA and Consumer Courts        | Three-tier redressal machinery and legal representation.                               |
+| **5I** | Becoming Well-Informed Consumers | Bills, labels, certification marks, and consumer duties.                               |
+| **5J** | Taking the Movement Forward      | Progress, limitations, and need for active participation.                              |
+| **5K** | Answer Writing                   | How to write case-based consumer rights answers.                                       |
 
 ---
 
@@ -38,43 +39,43 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Explain consumer protection** | Show why rules and regulations are needed in markets. |
-| **Identify exploitation** | Recognise unfair trade practices such as adulteration, underweight goods, false claims, hidden charges, and defective products. |
-| **Trace consumer movement** | Explain why the consumer movement began and how COPRA strengthened it. |
-| **Explain rights** | Discuss right to safety, information, choice, redressal, representation, and consumer education. |
-| **Use case studies** | Use Reji, Abirami, Prakash, and Amritha examples in answers. |
-| **Read labels** | Explain why MRP, expiry date, ingredients, batch number, and manufacturer details matter. |
-| **Understand courts** | Explain district, state, and national consumer redressal levels. |
-| **Explain certification** | Identify ISI, Agmark, Hallmark, and quality assurance marks. |
-| **Discuss limitations** | Explain why consumer redressal may be slow, costly, and dependent on awareness. |
+| Outcome                         | You Should Be Able To...                                                                                                        |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **Explain consumer protection** | Show why rules and regulations are needed in markets.                                                                           |
+| **Identify exploitation**       | Recognise unfair trade practices such as adulteration, underweight goods, false claims, hidden charges, and defective products. |
+| **Trace consumer movement**     | Explain why the consumer movement began and how COPRA strengthened it.                                                          |
+| **Explain rights**              | Discuss right to safety, information, choice, redressal, representation, and consumer education.                                |
+| **Use case studies**            | Use Reji, Abirami, Prakash, and Amritha examples in answers.                                                                    |
+| **Read labels**                 | Explain why MRP, expiry date, ingredients, batch number, and manufacturer details matter.                                       |
+| **Understand courts**           | Explain district, state, and national consumer redressal levels.                                                                |
+| **Explain certification**       | Identify ISI, Agmark, Hallmark, and quality assurance marks.                                                                    |
+| **Discuss limitations**         | Explain why consumer redressal may be slow, costly, and dependent on awareness.                                                 |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Consumer** | A person who buys goods or services for use. |
-| **Producer** | A person or organisation that makes goods or provides services. |
-| **Consumer rights** | Legal and moral protections that allow consumers to get safe goods, correct information, choice, and redressal. |
-| **Consumer exploitation** | Unfair treatment of consumers through cheating, unsafe products, poor services, overcharging, or false information. |
-| **Unfair trade practice** | Dishonest market practice such as adulteration, underweight goods, hidden charges, defective goods, or misleading advertisements. |
-| **Adulteration** | Mixing inferior or harmful substances into a product. |
-| **MRP** | Maximum Retail Price; the highest price printed on a product that a seller can charge. |
-| **Right to safety** | Right to be protected from goods and services hazardous to life and property. |
-| **Right to information** | Right to know details about goods/services before purchase. |
-| **Right to choice** | Right to choose goods/services freely from available options. |
-| **Right to redressal** | Right to seek compensation or correction against unfair trade practice or exploitation. |
-| **Right to representation** | Right to present a complaint and be heard in consumer forums/courts. |
-| **Consumer education** | Awareness and knowledge needed to act as an informed consumer. |
-| **COPRA** | Consumer Protection Act, 1986, which set up consumer redressal machinery in India. |
-| **Consumer forum / court** | Institution where consumers can file complaints and seek redressal. |
-| **ISI mark** | Certification mark for industrial products meeting quality standards. |
-| **Agmark** | Certification mark for agricultural products such as edible oil and cereals. |
-| **Hallmark** | Certification for purity of jewellery, especially gold. |
-| **RTI Act** | Right to Information Act, 2005, allowing citizens to seek information from government departments. |
+| Term                        | Meaning                                                                                                                           |
+| --------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| **Consumer**                | A person who buys goods or services for use.                                                                                      |
+| **Producer**                | A person or organisation that makes goods or provides services.                                                                   |
+| **Consumer rights**         | Legal and moral protections that allow consumers to get safe goods, correct information, choice, and redressal.                   |
+| **Consumer exploitation**   | Unfair treatment of consumers through cheating, unsafe products, poor services, overcharging, or false information.               |
+| **Unfair trade practice**   | Dishonest market practice such as adulteration, underweight goods, hidden charges, defective goods, or misleading advertisements. |
+| **Adulteration**            | Mixing inferior or harmful substances into a product.                                                                             |
+| **MRP**                     | Maximum Retail Price; the highest price printed on a product that a seller can charge.                                            |
+| **Right to safety**         | Right to be protected from goods and services hazardous to life and property.                                                     |
+| **Right to information**    | Right to know details about goods/services before purchase.                                                                       |
+| **Right to choice**         | Right to choose goods/services freely from available options.                                                                     |
+| **Right to redressal**      | Right to seek compensation or correction against unfair trade practice or exploitation.                                           |
+| **Right to representation** | Right to present a complaint and be heard in consumer forums/courts.                                                              |
+| **Consumer education**      | Awareness and knowledge needed to act as an informed consumer.                                                                    |
+| **COPRA**                   | Consumer Protection Act, 1986, which set up consumer redressal machinery in India.                                                |
+| **Consumer forum / court**  | Institution where consumers can file complaints and seek redressal.                                                               |
+| **ISI mark**                | Certification mark for industrial products meeting quality standards.                                                             |
+| **Agmark**                  | Certification mark for agricultural products such as edible oil and cereals.                                                      |
+| **Hallmark**                | Certification for purity of jewellery, especially gold.                                                                           |
+| **RTI Act**                 | Right to Information Act, 2005, allowing citizens to seek information from government departments.                                |
 
 ---
 
@@ -98,10 +99,10 @@ An alert consumer is a safer consumer.
 
 People participate in markets in two ways:
 
-| Role | Meaning | Example |
-|---|---|---|
-| **Producer** | Makes goods or provides services. | Farmer, factory worker, teacher, doctor, shopkeeper. |
-| **Consumer** | Buys goods or services for use. | Person buying food, medicine, transport, education, mobile service. |
+| Role         | Meaning                           | Example                                                             |
+| ------------ | --------------------------------- | ------------------------------------------------------------------- |
+| **Producer** | Makes goods or provides services. | Farmer, factory worker, teacher, doctor, shopkeeper.                |
+| **Consumer** | Buys goods or services for use.   | Person buying food, medicine, transport, education, mobile service. |
 
 The same person can be a producer in one situation and a consumer in another.
 
@@ -136,25 +137,25 @@ A fair market requires:
 
 ## Common Forms of Exploitation
 
-| Form | Meaning | Example |
-|---|---|---|
-| **Underweight goods** | Seller gives less quantity than paid for. | Weighing 900 g but charging for 1 kg. |
-| **Adulteration** | Mixing inferior/harmful material. | Adulterated edible oil or spices. |
-| **Defective goods** | Product does not work properly. | Faulty iron, camera, pressure cooker. |
-| **Hidden charges** | Extra costs not told earlier. | Service fee added after purchase. |
-| **Overcharging** | Charging more than MRP. | Selling packaged goods above printed price. |
-| **False advertising** | Misleading claims to attract consumers. | Product claiming impossible health benefits. |
-| **Unsafe services** | Poor safety in hospitals, theatres, buildings, transport. | Medical negligence or unsafe LPG cylinder. |
+| Form                  | Meaning                                                   | Example                                      |
+| --------------------- | --------------------------------------------------------- | -------------------------------------------- |
+| **Underweight goods** | Seller gives less quantity than paid for.                 | Weighing 900 g but charging for 1 kg.        |
+| **Adulteration**      | Mixing inferior/harmful material.                         | Adulterated edible oil or spices.            |
+| **Defective goods**   | Product does not work properly.                           | Faulty iron, camera, pressure cooker.        |
+| **Hidden charges**    | Extra costs not told earlier.                             | Service fee added after purchase.            |
+| **Overcharging**      | Charging more than MRP.                                   | Selling packaged goods above printed price.  |
+| **False advertising** | Misleading claims to attract consumers.                   | Product claiming impossible health benefits. |
+| **Unsafe services**   | Poor safety in hospitals, theatres, buildings, transport. | Medical negligence or unsafe LPG cylinder.   |
 
 ## Why Exploitation Happens
 
-| Cause | Explanation |
-|---|---|
-| **Unequal power** | Producers/sellers may be few and powerful, consumers scattered. |
-| **Information gap** | Seller knows more about product quality than buyer. |
-| **Weak enforcement** | Rules exist but may not be followed. |
-| **Low awareness** | Consumers may not know their rights or complaint process. |
-| **No proof** | Consumers may not collect bills, warranty cards, or records. |
+| Cause                | Explanation                                                     |
+| -------------------- | --------------------------------------------------------------- |
+| **Unequal power**    | Producers/sellers may be few and powerful, consumers scattered. |
+| **Information gap**  | Seller knows more about product quality than buyer.             |
+| **Weak enforcement** | Rules exist but may not be followed.                            |
+| **Low awareness**    | Consumers may not know their rights or complaint process.       |
+| **No proof**         | Consumers may not collect bills, warranty cards, or records.    |
 
 ## False Claims Examples
 
@@ -184,12 +185,12 @@ In India, it gained organised form in the 1960s due to:
 
 ## Evolution in India
 
-| Period | Main Activity |
-|---|---|
-| **1960s** | Consumer movement began in organised form due to shortages and unfair practices. |
-| **1970s** | Consumer organisations wrote articles, held exhibitions, and formed groups. |
-| **1980s** | Stronger pressure for legal protection. |
-| **1986** | Consumer Protection Act (COPRA) enacted. |
+| Period          | Main Activity                                                                               |
+| --------------- | ------------------------------------------------------------------------------------------- |
+| **1960s**       | Consumer movement began in organised form due to shortages and unfair practices.            |
+| **1970s**       | Consumer organisations wrote articles, held exhibitions, and formed groups.                 |
+| **1980s**       | Stronger pressure for legal protection.                                                     |
+| **1986**        | Consumer Protection Act (COPRA) enacted.                                                    |
 | **After COPRA** | Consumer courts, consumer forums, awareness campaigns, and government departments expanded. |
 
 ## International Consumer Movement
@@ -214,15 +215,15 @@ Consumers have the right to be protected against goods and services that are haz
 
 Some products and services can cause serious harm if quality is poor.
 
-| Product / Service | Required Safety Concern |
-|---|---|
-| LPG cylinder | Leak prevention, proper seal, safe valve. |
-| Pressure cooker | Working safety valve. |
-| Medicines | Correct composition, expiry date, safe dosage. |
-| Edible oil | No harmful adulteration. |
-| High-rise building | Fire safety, structural safety, emergency exits. |
-| Cinema theatre / marriage pandal | Fire safety, crowd control, emergency exits. |
-| Hospital | Qualified staff, safe procedure, correct anaesthesia. |
+| Product / Service                | Required Safety Concern                               |
+| -------------------------------- | ----------------------------------------------------- |
+| LPG cylinder                     | Leak prevention, proper seal, safe valve.             |
+| Pressure cooker                  | Working safety valve.                                 |
+| Medicines                        | Correct composition, expiry date, safe dosage.        |
+| Edible oil                       | No harmful adulteration.                              |
+| High-rise building               | Fire safety, structural safety, emergency exits.      |
+| Cinema theatre / marriage pandal | Fire safety, crowd control, emergency exits.          |
+| Hospital                         | Qualified staff, safe procedure, correct anaesthesia. |
 
 ## Reji Mathew Case
 
@@ -242,16 +243,16 @@ Consumers have the right to know details about goods and services before buying.
 
 ## Information on Packaged Goods
 
-| Information | Why It Matters |
-|---|---|
-| Ingredients | Helps identify content, allergies, quality. |
-| MRP | Prevents overcharging. |
-| Batch number | Helps trace defective batch. |
-| Date of manufacture | Shows age of product. |
-| Expiry date | Prevents unsafe consumption. |
-| Manufacturer address | Helps complaint and accountability. |
-| Directions for use | Helps safe usage. |
-| Side effects / risks | Important for medicines and chemicals. |
+| Information          | Why It Matters                              |
+| -------------------- | ------------------------------------------- |
+| Ingredients          | Helps identify content, allergies, quality. |
+| MRP                  | Prevents overcharging.                      |
+| Batch number         | Helps trace defective batch.                |
+| Date of manufacture  | Shows age of product.                       |
+| Expiry date          | Prevents unsafe consumption.                |
+| Manufacturer address | Helps complaint and accountability.         |
+| Directions for use   | Helps safe usage.                           |
+| Side effects / risks | Important for medicines and chemicals.      |
 
 ## MRP
 
@@ -281,11 +282,11 @@ Consumers have the right to choose whether to continue with a service or buy a p
 
 ## Denial of Choice
 
-| Situation | Why It Violates Choice |
-|---|---|
-| Shop sells toothpaste only if toothbrush is also bought. | Consumer is forced into unwanted purchase. |
-| Gas dealer insists buyer purchase stove from same dealer. | Consumer's freedom to choose seller is denied. |
-| Coaching institute refuses reasonable refund after poor service. | Consumer is forced to continue or lose money. |
+| Situation                                                        | Why It Violates Choice                         |
+| ---------------------------------------------------------------- | ---------------------------------------------- |
+| Shop sells toothpaste only if toothbrush is also bought.         | Consumer is forced into unwanted purchase.     |
+| Gas dealer insists buyer purchase stove from same dealer.        | Consumer's freedom to choose seller is denied. |
+| Coaching institute refuses reasonable refund after poor service. | Consumer is forced to continue or lose money.  |
 
 ## Abirami Case
 
@@ -344,21 +345,21 @@ It was enacted to protect consumers and provide a legal system for redressal.
 
 ## Three-Tier Consumer Redressal System
 
-| Level | Institution | Claim Amount in NCERT |
-|---|---|---|
-| **District** | District Forum / District Consumer Court | Up to Rs 20 lakh. |
-| **State** | State Commission | Rs 20 lakh to Rs 1 crore. |
-| **National** | National Commission | Above Rs 1 crore. |
+| Level        | Institution                              | Claim Amount in NCERT     |
+| ------------ | ---------------------------------------- | ------------------------- |
+| **District** | District Forum / District Consumer Court | Up to Rs 20 lakh.         |
+| **State**    | State Commission                         | Rs 20 lakh to Rs 1 crore. |
+| **National** | National Commission                      | Above Rs 1 crore.         |
 
 If a case is dismissed at district level, the consumer can appeal to the state level and then national level.
 
 ## Consumer Protection Councils vs Consumer Courts
 
-| Consumer Protection Council | Consumer Court / Forum |
-|---|---|
-| Guides consumers. | Hears cases and gives verdicts. |
-| Creates awareness. | Orders refund, replacement, compensation, or penalty. |
-| May help prepare complaint. | Has quasi-judicial authority. |
+| Consumer Protection Council            | Consumer Court / Forum                                         |
+| -------------------------------------- | -------------------------------------------------------------- |
+| Guides consumers.                      | Hears cases and gives verdicts.                                |
+| Creates awareness.                     | Orders refund, replacement, compensation, or penalty.          |
+| May help prepare complaint.            | Has quasi-judicial authority.                                  |
 | May represent consumers in some cases. | Decides disputes between consumer and seller/service provider. |
 
 ## Right to Representation
@@ -373,27 +374,27 @@ Consumers can represent themselves in consumer courts, with or without lawyers.
 
 Rights become useful only when consumers act carefully.
 
-| Duty | Why It Matters |
-|---|---|
-| Ask for bill/cash memo. | Proof is needed for complaint. |
-| Check MRP. | Prevents overcharging. |
-| Check expiry date. | Prevents unsafe use. |
-| Check ingredients. | Important for health and quality. |
+| Duty                       | Why It Matters                       |
+| -------------------------- | ------------------------------------ |
+| Ask for bill/cash memo.    | Proof is needed for complaint.       |
+| Check MRP.                 | Prevents overcharging.               |
+| Check expiry date.         | Prevents unsafe use.                 |
+| Check ingredients.         | Important for health and quality.    |
 | Check certification marks. | Assures standards for some products. |
-| Read warranty conditions. | Helps claim repair/replacement. |
-| Keep documents safely. | Needed in consumer court. |
-| Avoid misleading offers. | Prevents impulsive purchase. |
-| Compare price and quality. | Supports informed choice. |
-| Complain when cheated. | Builds consumer movement. |
+| Read warranty conditions.  | Helps claim repair/replacement.      |
+| Keep documents safely.     | Needed in consumer court.            |
+| Avoid misleading offers.   | Prevents impulsive purchase.         |
+| Compare price and quality. | Supports informed choice.            |
+| Complain when cheated.     | Builds consumer movement.            |
 
 ## Certification Marks
 
-| Mark | Used For |
-|---|---|
-| **ISI** | Industrial products meeting standards. |
-| **Agmark** | Agricultural products such as edible oil and cereals. |
-| **Hallmark** | Jewellery purity, especially gold. |
-| **ISO** | Quality management/process standards for organisations. |
+| Mark         | Used For                                                |
+| ------------ | ------------------------------------------------------- |
+| **ISI**      | Industrial products meeting standards.                  |
+| **Agmark**   | Agricultural products such as edible oil and cereals.   |
+| **Hallmark** | Jewellery purity, especially gold.                      |
+| **ISO**      | Quality management/process standards for organisations. |
 
 ## Why Certification Is Not on Every Product
 
@@ -418,14 +419,14 @@ Achievements:
 
 ## Limitations
 
-| Problem | Explanation |
-|---|---|
-| Slow process | Cases can take time. |
-| Expensive process | Lawyers and repeated visits may be costly. |
-| Lack of bills | Evidence is hard to collect. |
-| Small purchases | Consumers may not complain for low-value items. |
-| Low awareness | Many people do not know rights or procedures. |
-| Weak enforcement | Rules may exist but not be followed. |
+| Problem              | Explanation                                          |
+| -------------------- | ---------------------------------------------------- |
+| Slow process         | Cases can take time.                                 |
+| Expensive process    | Lawyers and repeated visits may be costly.           |
+| Lack of bills        | Evidence is hard to collect.                         |
+| Small purchases      | Consumers may not complain for low-value items.      |
+| Low awareness        | Many people do not know rights or procedures.        |
+| Weak enforcement     | Rules may exist but not be followed.                 |
 | Unclear compensation | Injury from defective products can be hard to prove. |
 
 ## What Is Needed
@@ -458,18 +459,18 @@ For this chapter, use:
 
 ## High-Value Examples
 
-| Example | Use It To Explain |
-|---|---|
-| Underweight/adulterated goods | Marketplace exploitation. |
-| Baby milk powder false claim | Misleading advertisement. |
-| Tobacco companies | Need for producer responsibility. |
-| Reji Mathew | Right to safety and compensation. |
-| MRP/expiry/ingredients | Right to information. |
-| Amritha and RTI | Information from government departments. |
-| Abirami coaching institute | Right to choice and service refund. |
-| Prakash money order | Right to redressal. |
-| ISI/Agmark/Hallmark | Standardisation and quality assurance. |
-| 24 December | National Consumers' Day and COPRA. |
+| Example                       | Use It To Explain                        |
+| ----------------------------- | ---------------------------------------- |
+| Underweight/adulterated goods | Marketplace exploitation.                |
+| Baby milk powder false claim  | Misleading advertisement.                |
+| Tobacco companies             | Need for producer responsibility.        |
+| Reji Mathew                   | Right to safety and compensation.        |
+| MRP/expiry/ingredients        | Right to information.                    |
+| Amritha and RTI               | Information from government departments. |
+| Abirami coaching institute    | Right to choice and service refund.      |
+| Prakash money order           | Right to redressal.                      |
+| ISI/Agmark/Hallmark           | Standardisation and quality assurance.   |
+| 24 December                   | National Consumers' Day and COPRA.       |
 
 ---
 
@@ -541,14 +542,14 @@ Legal measures include:
 
 ### 9. Consumer rights
 
-| Right | Meaning |
-|---|---|
-| Right to safety | Protection from hazardous goods/services. |
-| Right to information | Access to details such as MRP, ingredients, expiry, risks. |
-| Right to choice | Freedom to choose goods/services. |
-| Right to redressal | Compensation or correction against exploitation. |
-| Right to representation | Right to be heard in consumer forums. |
-| Right to consumer education | Right to learn how to act as an aware consumer. |
+| Right                       | Meaning                                                    |
+| --------------------------- | ---------------------------------------------------------- |
+| Right to safety             | Protection from hazardous goods/services.                  |
+| Right to information        | Access to details such as MRP, ingredients, expiry, risks. |
+| Right to choice             | Freedom to choose goods/services.                          |
+| Right to redressal          | Compensation or correction against exploitation.           |
+| Right to representation     | Right to be heard in consumer forums.                      |
+| Right to consumer education | Right to learn how to act as an aware consumer.            |
 
 ### 10. Consumer solidarity
 
@@ -560,60 +561,60 @@ The movement has made progress through COPRA, consumer courts, awareness campaig
 
 ### 12. Match the following
 
-| Item | Match |
-|---|---|
-| Availing details of ingredients | Right to information |
-| Agmark | Certification of edible oil and cereals |
-| Accident due to faulty engine in scooter | Right to safety |
-| District Consumer Court | Dealing with consumer cases |
-| Consumers International | Global consumer welfare organisation |
-| Bureau of Indian Standards | Agency that develops standards for goods and services |
+| Item                                     | Match                                                 |
+| ---------------------------------------- | ----------------------------------------------------- |
+| Availing details of ingredients          | Right to information                                  |
+| Agmark                                   | Certification of edible oil and cereals               |
+| Accident due to faulty engine in scooter | Right to safety                                       |
+| District Consumer Court                  | Dealing with consumer cases                           |
+| Consumers International                  | Global consumer welfare organisation                  |
+| Bureau of Indian Standards               | Agency that develops standards for goods and services |
 
 ### 13. True or False
 
-| Statement | Answer |
-|---|---|
-| COPRA applies only to goods. | False |
-| India has exclusive courts for consumer redressal. | True |
-| When exploited, a consumer must file only in District Consumer Court. | False |
-| It is worthwhile to move consumer courts only for high-value damages. | False |
-| Hallmark certifies jewellery standardisation. | True |
-| Consumer redressal process is very simple and quick. | False |
-| A consumer has the right to compensation depending on damage. | True |
+| Statement                                                             | Answer |
+| --------------------------------------------------------------------- | ------ |
+| COPRA applies only to goods.                                          | False  |
+| India has exclusive courts for consumer redressal.                    | True   |
+| When exploited, a consumer must file only in District Consumer Court. | False  |
+| It is worthwhile to move consumer courts only for high-value damages. | False  |
+| Hallmark certifies jewellery standardisation.                         | True   |
+| Consumer redressal process is very simple and quick.                  | False  |
+| A consumer has the right to compensation depending on damage.         | True   |
 
 ---
 
 ## Quick Revision
 
-| Question | One-Line Recall |
-|---|---|
-| Why are consumer rights needed? | Markets can be unfair and consumers are often weaker. |
-| What is consumer exploitation? | Cheating or unfair treatment of buyers. |
-| What is COPRA? | Consumer Protection Act, 1986. |
-| What is right to safety? | Protection from hazardous goods/services. |
-| What is right to information? | Right to know product/service details. |
-| What is MRP? | Maximum Retail Price. |
-| What is right to choice? | Freedom to choose without forced purchase. |
-| What is right to redressal? | Right to compensation/correction. |
-| What is ISI? | Quality mark for industrial goods. |
-| What is Agmark? | Certification for agricultural products. |
-| What is Hallmark? | Jewellery purity certification. |
-| What is National Consumers' Day? | 24 December. |
+| Question                         | One-Line Recall                                       |
+| -------------------------------- | ----------------------------------------------------- |
+| Why are consumer rights needed?  | Markets can be unfair and consumers are often weaker. |
+| What is consumer exploitation?   | Cheating or unfair treatment of buyers.               |
+| What is COPRA?                   | Consumer Protection Act, 1986.                        |
+| What is right to safety?         | Protection from hazardous goods/services.             |
+| What is right to information?    | Right to know product/service details.                |
+| What is MRP?                     | Maximum Retail Price.                                 |
+| What is right to choice?         | Freedom to choose without forced purchase.            |
+| What is right to redressal?      | Right to compensation/correction.                     |
+| What is ISI?                     | Quality mark for industrial goods.                    |
+| What is Agmark?                  | Certification for agricultural products.              |
+| What is Hallmark?                | Jewellery purity certification.                       |
+| What is National Consumers' Day? | 24 December.                                          |
 
 ---
 
 ## Practice Questions
 
-| Question | Strong Answer Shape |
-|---|---|
-| Why do consumers need protection? | Market weakness -> examples of exploitation -> rights -> conclusion. |
-| Trace consumer movement in India. | Causes -> 1960s -> 1970s -> COPRA 1986 -> present challenges. |
-| Explain right to safety. | Meaning -> risky products/services -> Reji case -> producer responsibility. |
-| Explain right to information. | Labels -> MRP/expiry -> RTI -> informed choice. |
-| Explain right to choice. | Meaning -> forced tying examples -> Abirami case. |
-| Explain consumer redressal. | Complaint -> consumer court -> compensation -> Prakash example. |
-| Consumer court vs protection council. | Guidance vs legal verdict -> examples. |
-| Critically examine consumer movement. | Achievements -> limitations -> need for active consumers. |
+| Question                              | Strong Answer Shape                                                         |
+| ------------------------------------- | --------------------------------------------------------------------------- |
+| Why do consumers need protection?     | Market weakness -> examples of exploitation -> rights -> conclusion.        |
+| Trace consumer movement in India.     | Causes -> 1960s -> 1970s -> COPRA 1986 -> present challenges.               |
+| Explain right to safety.              | Meaning -> risky products/services -> Reji case -> producer responsibility. |
+| Explain right to information.         | Labels -> MRP/expiry -> RTI -> informed choice.                             |
+| Explain right to choice.              | Meaning -> forced tying examples -> Abirami case.                           |
+| Explain consumer redressal.           | Complaint -> consumer court -> compensation -> Prakash example.             |
+| Consumer court vs protection council. | Guidance vs legal verdict -> examples.                                      |
+| Critically examine consumer movement. | Achievements -> limitations -> need for active consumers.                   |
 
 ---
 

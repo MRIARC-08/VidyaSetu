@@ -1,45 +1,46 @@
 # Chapter 10: The Book That Saved the Earth
+
 ### NCERT Class 10 - English Footprints
 
 ---
 
 ## Chapter At A Glance
 
-| Detail | Learner-Friendly Information |
-| --- | --- |
-| Class | 10 |
-| Subject | English Footprints |
-| Chapter | 10 - The Book That Saved the Earth |
-| Source File | data/class_10/english_footprints/chapter_10.md |
+| Detail       | Learner-Friendly Information                                                                 |
+| ------------ | -------------------------------------------------------------------------------------------- |
+| Class        | 10                                                                                           |
+| Subject      | English Footprints                                                                           |
+| Chapter      | 10 - The Book That Saved the Earth                                                           |
+| Source File  | data/class_10/english_footprints/chapter_10.md                                               |
 | Subject Lens | context -> plot/situation -> character voice -> theme -> language feature -> reader response |
-| Best Use | Use this as a detailed learner guide: read, mark, answer, revise, and test. |
+| Best Use     | Use this as a detailed learner guide: read, mark, answer, revise, and test.                  |
 
 ## Learning Roadmap
 
-| Step | Learner Action | Why It Matters |
-| --- | --- | --- |
-| 1 | Read once for the literal story and again for tone, conflict, and theme. | Turns raw textbook material into answer-ready understanding. |
-| 2 | Maintain a character evidence table with quotations or paraphrased moments. | Turns raw textbook material into answer-ready understanding. |
-| 3 | Track difficult expressions and infer meaning from context. | Turns raw textbook material into answer-ready understanding. |
-| 4 | For long answers, connect textual evidence to the central theme. | Turns raw textbook material into answer-ready understanding. |
+| Step | Learner Action                                                              | Why It Matters                                               |
+| ---- | --------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| 1    | Read once for the literal story and again for tone, conflict, and theme.    | Turns raw textbook material into answer-ready understanding. |
+| 2    | Maintain a character evidence table with quotations or paraphrased moments. | Turns raw textbook material into answer-ready understanding. |
+| 3    | Track difficult expressions and infer meaning from context.                 | Turns raw textbook material into answer-ready understanding. |
+| 4    | For long answers, connect textual evidence to the central theme.            | Turns raw textbook material into answer-ready understanding. |
 
 ## Learning Outcomes
 
-| # | After Studying, You Should Be Able To |
-| --- | --- |
-| 1 | Explain the core idea of **The Book That Saved the Earth** in clear learner language. |
-| 2 | Use chapter evidence, examples, data, formulas, characters, events, or concepts accurately. |
-| 3 | Separate definitions, explanations, examples, and conclusions while answering. |
-| 4 | Prepare short-answer and long-answer responses without copying disconnected textbook lines. |
-| 5 | Revise the chapter through keywords, section summaries, and practice prompts. |
+| #   | After Studying, You Should Be Able To                                                       |
+| --- | ------------------------------------------------------------------------------------------- |
+| 1   | Explain the core idea of **The Book That Saved the Earth** in clear learner language.       |
+| 2   | Use chapter evidence, examples, data, formulas, characters, events, or concepts accurately. |
+| 3   | Separate definitions, explanations, examples, and conclusions while answering.              |
+| 4   | Prepare short-answer and long-answer responses without copying disconnected textbook lines. |
+| 5   | Revise the chapter through keywords, section summaries, and practice prompts.               |
 
 ## Section Map
 
-| Section | Learner Focus |
-| --- | --- |
-| Core chapter narrative | Main idea, supporting details, examples, and answer value. |
+| Section                                                    | Learner Focus                                              |
+| ---------------------------------------------------------- | ---------------------------------------------------------- |
+| Core chapter narrative                                     | Main idea, supporting details, examples, and answer value. |
 | In what ways does Think-Tank misinterpret innocent nursery | Main idea, supporting details, examples, and answer value. |
-| Answers given by Pr ofessor Yash Pal and Dr Rahul Pal | Main idea, supporting details, examples, and answer value. |
+| Answers given by Pr ofessor Yash Pal and Dr Rahul Pal      | Main idea, supporting details, examples, and answer value. |
 
 ## High-Yield Chapter Summary
 
@@ -60,28 +61,28 @@
 
 ## Key Terms, Concepts, And Recall Anchors
 
-| Term | Learner Meaning |
-| --- | --- |
-| That item in your hand | a sandwich |
-| There are two slices of what | bread, and between them is some sort of filling |
-| That | they plan to capture Mars Central Control and me |
+| Term                         | Learner Meaning                                  |
+| ---------------------------- | ------------------------------------------------ |
+| That item in your hand       | a sandwich                                       |
+| There are two slices of what | bread, and between them is some sort of filling  |
+| That                         | they plan to capture Mars Central Control and me |
 
-| Anchor Word | What To Do With It |
-| --- | --- |
-| Think-Tank | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Omega | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Book | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Iota | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Noodle | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Earth | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| What | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Them | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Space | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Mighty | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Earthlings | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Books | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Mars | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Lieutenant | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Anchor Word | What To Do With It                                                                                    |
+| ----------- | ----------------------------------------------------------------------------------------------------- |
+| Think-Tank  | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Omega       | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Book        | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Iota        | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Noodle      | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Earth       | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| What        | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Them        | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Space       | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Mighty      | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Earthlings  | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Books       | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Mars        | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Lieutenant  | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
 
 ### Literature Reading Anchors
 
@@ -91,11 +92,11 @@
 
 ## Formula, Evidence, Data, And Example Board
 
-| Source Point | How Learners Should Use It |
-| --- | --- |
+| Source Point                                                                                                                                                                          | How Learners Should Use It                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
 | ## 🌍 Introduction Characters HISTORIAN LIEUTENANT IOTA GREAT AND MIGHTY THINK-TANK SERGEANT OOP APPRENTICE NOODLE OFFSTAGE VOICE CAPTAIN OMEGA SCENE 1 READ AND FIND OUT - Why was t | Use this as supporting evidence in short or long answers. |
-| What do they call it, again? **Q8.** fantastically intellectually gifted being in the land? **Q9.** idea where we are, Lieutenant Iota? **Q10.** think, Sergeant Oop? **Q11.** OOP: | Use this as supporting evidence in short or long answers. |
-| I said, listen to them. (Martians bow very low.) OMEGA: It shall be done, sir. (They each take two books fr om the case, and hold them to their ears, listening intently.) IOTA: (wh | Use this as supporting evidence in short or long answers. |
+| What do they call it, again? **Q8.** fantastically intellectually gifted being in the land? **Q9.** idea where we are, Lieutenant Iota? **Q10.** think, Sergeant Oop? **Q11.** OOP:   | Use this as supporting evidence in short or long answers. |
+| I said, listen to them. (Martians bow very low.) OMEGA: It shall be done, sir. (They each take two books fr om the case, and hold them to their ears, listening intently.) IOTA: (wh  | Use this as supporting evidence in short or long answers. |
 
 ## Deep Learner Walkthrough
 
@@ -202,14 +203,14 @@ The dance indicates the direction and distance of the food source with respect t
 
 ### Likely Question Bank
 
-| Question Type | Strong Answer Shape |
-| --- | --- |
-| Explain Core chapter narrative. | Definition or context -> key points -> evidence/example -> significance. |
-| How does Core chapter narrative develop the chapter's theme? | Situation -> character/speaker response -> language/detail -> theme. |
-| Explain In what ways does Think-Tank misinterpret innocent nursery. | Definition or context -> key points -> evidence/example -> significance. |
-| How does In what ways does Think-Tank misinterpret innocent nursery develop the chapter's theme? | Situation -> character/speaker response -> language/detail -> theme. |
-| Explain Answers given by Pr ofessor Yash Pal and Dr Rahul Pal. | Definition or context -> key points -> evidence/example -> significance. |
-| How does Answers given by Pr ofessor Yash Pal and Dr Rahul Pal develop the chapter's theme? | Situation -> character/speaker response -> language/detail -> theme. |
+| Question Type                                                                                    | Strong Answer Shape                                                      |
+| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
+| Explain Core chapter narrative.                                                                  | Definition or context -> key points -> evidence/example -> significance. |
+| How does Core chapter narrative develop the chapter's theme?                                     | Situation -> character/speaker response -> language/detail -> theme.     |
+| Explain In what ways does Think-Tank misinterpret innocent nursery.                              | Definition or context -> key points -> evidence/example -> significance. |
+| How does In what ways does Think-Tank misinterpret innocent nursery develop the chapter's theme? | Situation -> character/speaker response -> language/detail -> theme.     |
+| Explain Answers given by Pr ofessor Yash Pal and Dr Rahul Pal.                                   | Definition or context -> key points -> evidence/example -> significance. |
+| How does Answers given by Pr ofessor Yash Pal and Dr Rahul Pal develop the chapter's theme?      | Situation -> character/speaker response -> language/detail -> theme.     |
 
 ### Common Mistakes To Avoid
 
@@ -235,12 +236,12 @@ The dance indicates the direction and distance of the food source with respect t
 
 ## One-Page Quick Revision
 
-| Revision Item | What To Recall |
-| --- | --- |
-| Chapter | 10 — The Book That Saved the Earth |
-| Subject Lens | context -> plot/situation -> character voice -> theme -> language feature -> reader response |
-| Main Keywords | Think-Tank, Omega, Book, Iota, Noodle, Earth, What, Them, Space, Mighty |
-| Best First Step | Read the section titles, then explain each title aloud before revising details. |
+| Revision Item   | What To Recall                                                                                  |
+| --------------- | ----------------------------------------------------------------------------------------------- |
+| Chapter         | 10 — The Book That Saved the Earth                                                              |
+| Subject Lens    | context -> plot/situation -> character voice -> theme -> language feature -> reader response    |
+| Main Keywords   | Think-Tank, Omega, Book, Iota, Noodle, Earth, What, Them, Space, Mighty                         |
+| Best First Step | Read the section titles, then explain each title aloud before revising details.                 |
 | Best Final Step | Attempt the likely question bank and check whether every answer uses evidence from the chapter. |
 
 ---
@@ -343,4 +344,4 @@ It is believed that most raindrops start out as tiny ice crystals — so tiny th
 
 What do they call it, again? **Q8.** fantastically intellectually gifted being in the land? **Q9.** idea where we are, Lieutenant Iota? **Q10.** think, Sergeant Oop? **Q11.** OOP: (taking book from his head ) A sandwich? **Q12.** OMEGA: (gulping) Eat it? **Q13.** THINK-TANK: Do you doubt the Mighty Think-Tank? **Q14.** OOP: (making a face ) Who, Lieutenant? Me, Lieutenant? **Q15.** OMEGA: Well, Oop? **Q16.** is never wrong. Who is never wrong? **Q17.** OMEGA: Listen to them? **Q18.** IOTA AND OOP: (to each other, puzzled) Listen to them? **Q19.** IOTA: (whispering to Omega) Do you hear anything? **Q20.** OMEGA: (whispering back) Nothing. Do you hear anything, Oop? **Q21.** THINK-TANK: Well?
 
-What do you hear? **Q22.** has made a mistake? **Q23.** their intelligence? **Q24.** How does your garden grow? **Q25.** NOODLE: Where shall we go, sir? **Q26.** his mistakes. How does he manage to do that? **Q27.** Do you think books are being replaced by the electronic media? **Q28.** Can we do away with books altogether? **Q29.** the misunderstanding? **Q30.** language? What could be the language of the aliens? --- *Source: NCERT Class 10 — English Footprints, Chapter 10.
+What do you hear? **Q22.** has made a mistake? **Q23.** their intelligence? **Q24.** How does your garden grow? **Q25.** NOODLE: Where shall we go, sir? **Q26.** his mistakes. How does he manage to do that? **Q27.** Do you think books are being replaced by the electronic media? **Q28.** Can we do away with books altogether? **Q29.** the misunderstanding? **Q30.** language? What could be the language of the aliens? --- \*Source: NCERT Class 10 — English Footprints, Chapter 10.

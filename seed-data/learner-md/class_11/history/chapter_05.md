@@ -41,48 +41,48 @@ After studying this chapter, you should be able to:
 
 ## Chapter Snapshot
 
-| Area | What To Remember |
-|---|---|
-| Main focus | Cultural changes in Europe from fourteenth to seventeenth centuries |
-| Major idea | Human beings as capable, creative, rational individuals |
-| Important towns | Florence, Venice, Genoa, Rome |
-| Key term | Renaissance, meaning rebirth |
-| Major movement | Humanism |
-| Major technologies | Printing, compass, firearms, abacus |
-| Major art change | Realism, perspective, anatomy, light, proportion |
-| Major religious change | Protestant Reformation |
-| Major scientific change | Sun-centred universe and experimental knowledge |
-| Major debate | Was the Renaissance a sharp break from the Middle Ages? |
-| Wider connection | Europe learned from Islamic, Asian, and ancient Mediterranean traditions |
+| Area                    | What To Remember                                                         |
+| ----------------------- | ------------------------------------------------------------------------ |
+| Main focus              | Cultural changes in Europe from fourteenth to seventeenth centuries      |
+| Major idea              | Human beings as capable, creative, rational individuals                  |
+| Important towns         | Florence, Venice, Genoa, Rome                                            |
+| Key term                | Renaissance, meaning rebirth                                             |
+| Major movement          | Humanism                                                                 |
+| Major technologies      | Printing, compass, firearms, abacus                                      |
+| Major art change        | Realism, perspective, anatomy, light, proportion                         |
+| Major religious change  | Protestant Reformation                                                   |
+| Major scientific change | Sun-centred universe and experimental knowledge                          |
+| Major debate            | Was the Renaissance a sharp break from the Middle Ages?                  |
+| Wider connection        | Europe learned from Islamic, Asian, and ancient Mediterranean traditions |
 
 ## Big Picture Timeline
 
-| Date | Event |
-|---|---|
-| 1300 | Humanism taught at Padua University |
-| 1341 | Petrarch receives the title Poet Laureate in Rome |
-| 1349 | University established in Florence |
-| 1390 | Chaucer's Canterbury Tales circulates in England |
-| 1436 | Brunelleschi designs the Duomo in Florence |
-| 1453 | Ottoman Turks capture Constantinople |
-| 1454 to 1455 | Gutenberg prints the Bible with movable type |
-| 1484 | Portuguese mathematicians calculate latitude using the sun |
-| 1492 | Columbus reaches the Americas |
-| 1495 | Leonardo da Vinci paints The Last Supper |
-| 1512 | Michelangelo paints the Sistine Chapel ceiling |
-| 1516 | Thomas More's Utopia is published |
-| 1517 | Martin Luther writes the Ninety-Five Theses |
-| 1522 | Luther translates the Bible into German |
-| 1525 | Peasant uprising in Germany |
-| 1540 | Society of Jesus founded by Ignatius Loyola |
-| 1543 | Vesalius writes on anatomy; Copernicus' work appears |
-| 1559 | Anglican Church established in England with monarch as head |
-| 1569 | Mercator prepares a cylindrical map of the earth |
-| 1582 | Gregorian calendar introduced |
-| 1628 | William Harvey links the heart with blood circulation |
-| 1662 | Royal Society formed in London |
-| 1670 | Paris Academy established |
-| 1687 | Newton's Principia Mathematica is published |
+| Date         | Event                                                       |
+| ------------ | ----------------------------------------------------------- |
+| 1300         | Humanism taught at Padua University                         |
+| 1341         | Petrarch receives the title Poet Laureate in Rome           |
+| 1349         | University established in Florence                          |
+| 1390         | Chaucer's Canterbury Tales circulates in England            |
+| 1436         | Brunelleschi designs the Duomo in Florence                  |
+| 1453         | Ottoman Turks capture Constantinople                        |
+| 1454 to 1455 | Gutenberg prints the Bible with movable type                |
+| 1484         | Portuguese mathematicians calculate latitude using the sun  |
+| 1492         | Columbus reaches the Americas                               |
+| 1495         | Leonardo da Vinci paints The Last Supper                    |
+| 1512         | Michelangelo paints the Sistine Chapel ceiling              |
+| 1516         | Thomas More's Utopia is published                           |
+| 1517         | Martin Luther writes the Ninety-Five Theses                 |
+| 1522         | Luther translates the Bible into German                     |
+| 1525         | Peasant uprising in Germany                                 |
+| 1540         | Society of Jesus founded by Ignatius Loyola                 |
+| 1543         | Vesalius writes on anatomy; Copernicus' work appears        |
+| 1559         | Anglican Church established in England with monarch as head |
+| 1569         | Mercator prepares a cylindrical map of the earth            |
+| 1582         | Gregorian calendar introduced                               |
+| 1628         | William Harvey links the heart with blood circulation       |
+| 1662         | Royal Society formed in London                              |
+| 1670         | Paris Academy established                                   |
+| 1687         | Newton's Principia Mathematica is published                 |
 
 ## How To Read This Chapter
 
@@ -127,17 +127,17 @@ The most important towns in this chapter include:
 
 The chapter identifies several major changes.
 
-| Change | Meaning |
-|---|---|
-| Urban growth | Towns became centres of art, trade, and learning |
-| Patronage | Rich merchants, bankers, nobles, and popes supported artists and writers |
-| Printing | Books and ideas spread faster |
-| Historical consciousness | People contrasted ancient, medieval, and modern periods |
-| Humanism | New focus on human ability, debate, language, and classical learning |
-| Individuality | Artists and writers became known by name |
-| Religious choice | Individuals increasingly questioned Church authority |
-| Scientific thinking | Observation and experiment challenged older beliefs |
-| Geography | New voyages weakened Mediterranean-centred worldviews |
+| Change                   | Meaning                                                                  |
+| ------------------------ | ------------------------------------------------------------------------ |
+| Urban growth             | Towns became centres of art, trade, and learning                         |
+| Patronage                | Rich merchants, bankers, nobles, and popes supported artists and writers |
+| Printing                 | Books and ideas spread faster                                            |
+| Historical consciousness | People contrasted ancient, medieval, and modern periods                  |
+| Humanism                 | New focus on human ability, debate, language, and classical learning     |
+| Individuality            | Artists and writers became known by name                                 |
+| Religious choice         | Individuals increasingly questioned Church authority                     |
+| Scientific thinking      | Observation and experiment challenged older beliefs                      |
+| Geography                | New voyages weakened Mediterranean-centred worldviews                    |
 
 ## 3. Evidence For The Period
 
@@ -473,14 +473,14 @@ Renaissance artists used scientific knowledge to make art more realistic.
 
 ### Scientific Elements In Art
 
-| Element | Use In Art |
-|---|---|
-| Anatomy | Accurate bodies and muscles |
-| Dissection | Better understanding of internal structure |
-| Geometry | Perspective and proportion |
-| Physics of light | Depth, shadow, and volume |
-| Observation | More lifelike faces and gestures |
-| Oil painting | Richer colour and texture |
+| Element          | Use In Art                                 |
+| ---------------- | ------------------------------------------ |
+| Anatomy          | Accurate bodies and muscles                |
+| Dissection       | Better understanding of internal structure |
+| Geometry         | Perspective and proportion                 |
+| Physics of light | Depth, shadow, and volume                  |
+| Observation      | More lifelike faces and gestures           |
+| Oil painting     | Richer colour and texture                  |
 
 Andreas Vesalius studied the human body through dissection and helped develop modern physiology.
 
@@ -916,148 +916,148 @@ This helped Europe move toward language-based states and cultures.
 
 ## 53. Key Terms
 
-| Term | Meaning |
-|---|---|
-| Renaissance | Rebirth; term used for cultural changes linked with classical revival and humanism |
-| Humanism | Educational and cultural movement focused on human ability, debate, and classical learning |
-| Humanities | Grammar, rhetoric, poetry, history, and moral philosophy |
-| City-state | Independent city with its own political system and territory |
-| Republic | Political system without a monarch, though often controlled by elites |
-| Patronage | Support given by wealthy people to artists, writers, and scholars |
-| Realism | Artistic style aiming at lifelike representation |
-| Perspective | Technique for showing depth in visual art |
-| Classical | Inspired by ancient Greek and Roman forms |
-| Printing press | Technology that produced books more quickly with movable type |
-| Vernacular | Local language spoken by ordinary people |
-| Indulgence | Church document sold as a way to reduce burden of sin |
-| Protestant Reformation | Movement that challenged Catholic authority and created Protestant churches |
-| Jesuits | Members of the Society of Jesus founded by Ignatius Loyola |
-| Copernican Revolution | Shift from earth-centred to sun-centred understanding of the solar system |
-| Scientific Revolution | New approach to knowledge based on observation, experiment, and mathematics |
-| Public sphere | Area of formal politics and religion |
-| Private sphere | Area of family and personal belief |
+| Term                   | Meaning                                                                                    |
+| ---------------------- | ------------------------------------------------------------------------------------------ |
+| Renaissance            | Rebirth; term used for cultural changes linked with classical revival and humanism         |
+| Humanism               | Educational and cultural movement focused on human ability, debate, and classical learning |
+| Humanities             | Grammar, rhetoric, poetry, history, and moral philosophy                                   |
+| City-state             | Independent city with its own political system and territory                               |
+| Republic               | Political system without a monarch, though often controlled by elites                      |
+| Patronage              | Support given by wealthy people to artists, writers, and scholars                          |
+| Realism                | Artistic style aiming at lifelike representation                                           |
+| Perspective            | Technique for showing depth in visual art                                                  |
+| Classical              | Inspired by ancient Greek and Roman forms                                                  |
+| Printing press         | Technology that produced books more quickly with movable type                              |
+| Vernacular             | Local language spoken by ordinary people                                                   |
+| Indulgence             | Church document sold as a way to reduce burden of sin                                      |
+| Protestant Reformation | Movement that challenged Catholic authority and created Protestant churches                |
+| Jesuits                | Members of the Society of Jesus founded by Ignatius Loyola                                 |
+| Copernican Revolution  | Shift from earth-centred to sun-centred understanding of the solar system                  |
+| Scientific Revolution  | New approach to knowledge based on observation, experiment, and mathematics                |
+| Public sphere          | Area of formal politics and religion                                                       |
+| Private sphere         | Area of family and personal belief                                                         |
 
 ## 54. Major People
 
-| Person | Importance |
-|---|---|
-| Jacob Burckhardt | Historian who popularised the idea of Renaissance culture |
-| Leopold von Ranke | Historian who emphasised state documents and politics |
-| Petrarch | Humanist who valued close reading of ancient texts |
-| Cicero | Roman thinker linked to humanitas |
-| Dante | Florentine writer who helped shape Italian literary culture |
-| Giotto | Painter of lifelike figures |
-| Pico della Mirandola | Humanist associated with debate and human dignity |
-| Ibn Sina | Philosopher and physician known as Avicenna in Latin |
-| al-Razi | Medical scholar known as Rhazes in Latin |
-| Ibn Rushd | Philosopher known as Averroes in Latin |
-| Donatello | Sculptor known for lifelike statues |
-| Albrecht Durer | Artist who stressed nature, geometry, and observation |
-| Andreas Vesalius | Anatomist who studied the human body through dissection |
-| Leonardo da Vinci | Artist, engineer, observer, and experimenter |
-| Michelangelo | Painter, sculptor, and architect |
-| Brunelleschi | Architect of Florence's Duomo |
-| Gutenberg | Developed movable-type printing in Europe |
-| Lorenzo Valla | Humanist who criticised anti-pleasure ideas and exposed forgery |
-| Machiavelli | Political thinker who analysed power and self-interest |
-| Cassandra Fedele | Woman humanist who defended women's education |
-| Isabella d'Este | Ruler and patron in Mantua |
-| Castiglione | Writer on courtly ideals and gender expectations |
-| Thomas More | Christian humanist and critic of Church corruption |
-| Erasmus | Christian humanist from Holland |
-| Martin Luther | Leader of Protestant Reformation |
-| Zwingli | Swiss reformer |
-| Calvin | Swiss reformer |
-| Tyndale | Translated Bible into English |
-| Ignatius Loyola | Founded Society of Jesus |
-| Copernicus | Proposed sun-centred system |
-| Kepler | Showed planetary ellipses |
-| Galileo | Supported dynamic universe through observation |
-| Newton | Developed theory of gravitation |
-| Peter Burke | Historian who questioned exaggerated Renaissance contrast |
+| Person               | Importance                                                      |
+| -------------------- | --------------------------------------------------------------- |
+| Jacob Burckhardt     | Historian who popularised the idea of Renaissance culture       |
+| Leopold von Ranke    | Historian who emphasised state documents and politics           |
+| Petrarch             | Humanist who valued close reading of ancient texts              |
+| Cicero               | Roman thinker linked to humanitas                               |
+| Dante                | Florentine writer who helped shape Italian literary culture     |
+| Giotto               | Painter of lifelike figures                                     |
+| Pico della Mirandola | Humanist associated with debate and human dignity               |
+| Ibn Sina             | Philosopher and physician known as Avicenna in Latin            |
+| al-Razi              | Medical scholar known as Rhazes in Latin                        |
+| Ibn Rushd            | Philosopher known as Averroes in Latin                          |
+| Donatello            | Sculptor known for lifelike statues                             |
+| Albrecht Durer       | Artist who stressed nature, geometry, and observation           |
+| Andreas Vesalius     | Anatomist who studied the human body through dissection         |
+| Leonardo da Vinci    | Artist, engineer, observer, and experimenter                    |
+| Michelangelo         | Painter, sculptor, and architect                                |
+| Brunelleschi         | Architect of Florence's Duomo                                   |
+| Gutenberg            | Developed movable-type printing in Europe                       |
+| Lorenzo Valla        | Humanist who criticised anti-pleasure ideas and exposed forgery |
+| Machiavelli          | Political thinker who analysed power and self-interest          |
+| Cassandra Fedele     | Woman humanist who defended women's education                   |
+| Isabella d'Este      | Ruler and patron in Mantua                                      |
+| Castiglione          | Writer on courtly ideals and gender expectations                |
+| Thomas More          | Christian humanist and critic of Church corruption              |
+| Erasmus              | Christian humanist from Holland                                 |
+| Martin Luther        | Leader of Protestant Reformation                                |
+| Zwingli              | Swiss reformer                                                  |
+| Calvin               | Swiss reformer                                                  |
+| Tyndale              | Translated Bible into English                                   |
+| Ignatius Loyola      | Founded Society of Jesus                                        |
+| Copernicus           | Proposed sun-centred system                                     |
+| Kepler               | Showed planetary ellipses                                       |
+| Galileo              | Supported dynamic universe through observation                  |
+| Newton               | Developed theory of gravitation                                 |
+| Peter Burke          | Historian who questioned exaggerated Renaissance contrast       |
 
 ## 55. Places To Know
 
-| Place | Importance |
-|---|---|
-| Florence | Centre of humanism, art, banking, and Renaissance creativity |
-| Venice | Trading city-state with elite republican government |
-| Genoa | Maritime trading city |
-| Rome | Centre of papal power and classical revival |
-| Padua | University and humanist learning |
-| Bologna | Early university and legal studies |
-| Constantinople | Captured by Ottoman Turks in 1453 |
-| Mantua | Court associated with Isabella d'Este |
-| England | Thomas More, Tyndale, Anglican Church |
-| Holland | Erasmus |
-| Germany | Luther and printing networks |
-| Switzerland | Zwingli and Calvin |
-| Spain and Italy | Catholic reform and Jesuits |
+| Place           | Importance                                                   |
+| --------------- | ------------------------------------------------------------ |
+| Florence        | Centre of humanism, art, banking, and Renaissance creativity |
+| Venice          | Trading city-state with elite republican government          |
+| Genoa           | Maritime trading city                                        |
+| Rome            | Centre of papal power and classical revival                  |
+| Padua           | University and humanist learning                             |
+| Bologna         | Early university and legal studies                           |
+| Constantinople  | Captured by Ottoman Turks in 1453                            |
+| Mantua          | Court associated with Isabella d'Este                        |
+| England         | Thomas More, Tyndale, Anglican Church                        |
+| Holland         | Erasmus                                                      |
+| Germany         | Luther and printing networks                                 |
+| Switzerland     | Zwingli and Calvin                                           |
+| Spain and Italy | Catholic reform and Jesuits                                  |
 
 ## 56. Cause And Effect Map
 
-| Cause | Effect |
-|---|---|
-| Growth of towns | Urban culture, citizenship, patronage |
-| Trade with Byzantine and Islamic worlds | Revival of Italian ports |
-| Merchant and banker wealth | Support for art, literature, and architecture |
-| Study of ancient texts | Humanism |
-| Arab translations | Access to Greek science and philosophy |
-| Printing | Faster spread of humanism and Reformation |
-| Anatomy and geometry | More realistic art |
-| Classical ruins | Revival of Roman-style architecture |
-| Bible in local languages | Challenge to priestly monopoly |
-| Sale of indulgences | Protestant criticism of Catholic Church |
-| Copernicus' theory | Challenge to earth-centred universe |
-| Scientific societies | Public experimental culture |
-| Navigation and maps | Wider world view beyond Mediterranean |
-| Individuality | Separation of public and private roles |
+| Cause                                   | Effect                                        |
+| --------------------------------------- | --------------------------------------------- |
+| Growth of towns                         | Urban culture, citizenship, patronage         |
+| Trade with Byzantine and Islamic worlds | Revival of Italian ports                      |
+| Merchant and banker wealth              | Support for art, literature, and architecture |
+| Study of ancient texts                  | Humanism                                      |
+| Arab translations                       | Access to Greek science and philosophy        |
+| Printing                                | Faster spread of humanism and Reformation     |
+| Anatomy and geometry                    | More realistic art                            |
+| Classical ruins                         | Revival of Roman-style architecture           |
+| Bible in local languages                | Challenge to priestly monopoly                |
+| Sale of indulgences                     | Protestant criticism of Catholic Church       |
+| Copernicus' theory                      | Challenge to earth-centred universe           |
+| Scientific societies                    | Public experimental culture                   |
+| Navigation and maps                     | Wider world view beyond Mediterranean         |
+| Individuality                           | Separation of public and private roles        |
 
 ## 57. Comparison: Medieval Order And Humanist View
 
-| Medieval Order | Humanist View |
-|---|---|
-| People belong mainly to fixed orders | Individuals can develop many abilities |
-| Religion dominates learning | Classical and secular subjects also matter |
-| Guild identity often defines artists | Artists become known by name |
-| Obedience to inherited hierarchy | Debate, rhetoric, and moral reasoning |
-| Afterlife emphasised strongly | Life in this world gains value |
-| Latin Church unity | Local languages and individual reading grow |
+| Medieval Order                       | Humanist View                               |
+| ------------------------------------ | ------------------------------------------- |
+| People belong mainly to fixed orders | Individuals can develop many abilities      |
+| Religion dominates learning          | Classical and secular subjects also matter  |
+| Guild identity often defines artists | Artists become known by name                |
+| Obedience to inherited hierarchy     | Debate, rhetoric, and moral reasoning       |
+| Afterlife emphasised strongly        | Life in this world gains value              |
+| Latin Church unity                   | Local languages and individual reading grow |
 
 ## 58. Comparison: Italian And Northern Humanism
 
-| Feature | Italian Humanism | Northern Christian Humanism |
-|---|---|---|
-| Main setting | City-states, courts, universities | Universities, churches, reform circles |
-| Focus | Classical texts, civic life, art, individuality | Bible, early Christianity, moral reform |
-| Leading groups | Scholars, artists, patrons, merchants | Churchmen, scholars, reformers |
-| Religious stance | Often still religious but more secular in emphasis | Strongly focused on reforming Christianity |
-| Outcome | Art, architecture, literature, civic ideals | Reformation and criticism of Church corruption |
+| Feature          | Italian Humanism                                   | Northern Christian Humanism                    |
+| ---------------- | -------------------------------------------------- | ---------------------------------------------- |
+| Main setting     | City-states, courts, universities                  | Universities, churches, reform circles         |
+| Focus            | Classical texts, civic life, art, individuality    | Bible, early Christianity, moral reform        |
+| Leading groups   | Scholars, artists, patrons, merchants              | Churchmen, scholars, reformers                 |
+| Religious stance | Often still religious but more secular in emphasis | Strongly focused on reforming Christianity     |
+| Outcome          | Art, architecture, literature, civic ideals        | Reformation and criticism of Church corruption |
 
 ## 59. Comparison: Catholic And Protestant Positions
 
-| Issue | Catholic Church Before Reform | Protestant Criticism |
-|---|---|
-| Priests | Necessary intermediaries | Individual faith should connect believer to God |
-| Indulgences | Sold as religious documents | Seen as corrupt and unscriptural |
-| Language | Latin remained central | Bible should be available in local languages |
-| Authority | Pope and clergy central | Scripture and faith emphasised |
-| Ritual | Many rituals and practices | Some rituals seen as later additions |
-| Wealth | Church owned land and collected money | Reformers criticised greed and extortion |
+| Issue       | Catholic Church Before Reform         | Protestant Criticism                            |
+| ----------- | ------------------------------------- | ----------------------------------------------- |
+| Priests     | Necessary intermediaries              | Individual faith should connect believer to God |
+| Indulgences | Sold as religious documents           | Seen as corrupt and unscriptural                |
+| Language    | Latin remained central                | Bible should be available in local languages    |
+| Authority   | Pope and clergy central               | Scripture and faith emphasised                  |
+| Ritual      | Many rituals and practices            | Some rituals seen as later additions            |
+| Wealth      | Church owned land and collected money | Reformers criticised greed and extortion        |
 
 ## 60. Common Misconceptions
 
-| Misconception | Correct Understanding |
-|---|---|
-| Renaissance means Europe woke up after total darkness | Medieval Europe also had learning and creativity |
-| Humanism was anti-religious | Many humanists remained religious |
-| Renaissance was only Italian | Italy was central, but ideas spread across Europe |
-| Europe learned only from Greece and Rome | Europe also learned from Islamic and Asian worlds |
-| Printing was only a technical invention | It changed learning, religion, debate, and reading habits |
-| Humanism gave equal freedom to all | Women and common people were often excluded |
-| Reformation was only religious | It was also social, political, economic, and linguistic |
-| Scientific Revolution immediately ended religion | Many scientists remained believers |
-| Artists simply copied nature | They combined observation, anatomy, geometry, and ideal proportion |
+| Misconception                                         | Correct Understanding                                              |
+| ----------------------------------------------------- | ------------------------------------------------------------------ |
+| Renaissance means Europe woke up after total darkness | Medieval Europe also had learning and creativity                   |
+| Humanism was anti-religious                           | Many humanists remained religious                                  |
+| Renaissance was only Italian                          | Italy was central, but ideas spread across Europe                  |
+| Europe learned only from Greece and Rome              | Europe also learned from Islamic and Asian worlds                  |
+| Printing was only a technical invention               | It changed learning, religion, debate, and reading habits          |
+| Humanism gave equal freedom to all                    | Women and common people were often excluded                        |
+| Reformation was only religious                        | It was also social, political, economic, and linguistic            |
+| Scientific Revolution immediately ended religion      | Many scientists remained believers                                 |
+| Artists simply copied nature                          | They combined observation, anatomy, geometry, and ideal proportion |
 
 ## 61. Practice Prompts For Understanding
 
@@ -1185,23 +1185,23 @@ The Scientific Revolution was a new approach to knowledge based on observation, 
 
 ## 64. Revision Table
 
-| If Asked About | Write About |
-|---|---|
-| Renaissance | Rebirth, classical revival, humanism, debate over sharp break |
-| Italian cities | Trade, merchants, bankers, patrons, city-states |
-| Humanism | Humanities, classical texts, debate, individual ability |
-| Petrarch | Close reading of ancient authors |
-| Arab contribution | Translation, preservation, science, medicine, philosophy |
-| Realism | Anatomy, geometry, perspective, light, oil painting |
-| Architecture | Classical Roman revival, domes, columns, symmetry |
-| Printing | Gutenberg, Bible, books, faster spread of ideas |
-| Women | Excluded from public life but some became intellectuals |
-| Reformation | Luther, faith, Bible, criticism of indulgences |
-| Catholic reform | Jesuits, simple life, service to poor |
-| Copernican Revolution | Sun-centred universe |
-| Scientific Revolution | Observation, experiment, mathematics |
-| Renaissance debate | Medieval continuity and non-European contributions |
-| Individuality | Public/private roles and artist identity |
+| If Asked About        | Write About                                                   |
+| --------------------- | ------------------------------------------------------------- |
+| Renaissance           | Rebirth, classical revival, humanism, debate over sharp break |
+| Italian cities        | Trade, merchants, bankers, patrons, city-states               |
+| Humanism              | Humanities, classical texts, debate, individual ability       |
+| Petrarch              | Close reading of ancient authors                              |
+| Arab contribution     | Translation, preservation, science, medicine, philosophy      |
+| Realism               | Anatomy, geometry, perspective, light, oil painting           |
+| Architecture          | Classical Roman revival, domes, columns, symmetry             |
+| Printing              | Gutenberg, Bible, books, faster spread of ideas               |
+| Women                 | Excluded from public life but some became intellectuals       |
+| Reformation           | Luther, faith, Bible, criticism of indulgences                |
+| Catholic reform       | Jesuits, simple life, service to poor                         |
+| Copernican Revolution | Sun-centred universe                                          |
+| Scientific Revolution | Observation, experiment, mathematics                          |
+| Renaissance debate    | Medieval continuity and non-European contributions            |
+| Individuality         | Public/private roles and artist identity                      |
 
 ## 65. Memory Anchors
 
@@ -1324,4 +1324,3 @@ The Copernican and Scientific Revolutions challenged older ideas of the universe
 Modern historians question whether the Renaissance was a complete break from the Middle Ages.
 
 The chapter's key lesson is that cultural change was powerful but gradual, connected, and uneven.
-

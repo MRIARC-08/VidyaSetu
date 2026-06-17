@@ -1,20 +1,21 @@
 # Chapter 11: ;rhanz feJ dk tUe lu~ 1977 esa v;ksè;k (mÙkj izns'k) esa gqvkA mUgksaus y[kumQ fo'ofo|ky;] y[kumQ
+
 ### NCERT Class 10 — Hindi Kshitij
 
 ---
 
 ## 📌 Chapter at a Glance
 
-| Detail | Info |
-|---|---|
-| Chapter | 11 — ;rhanz feJ dk tUe lu~ 1977 esa v;ksè;k (mÙkj izns'k) esa gqvkA mUgksaus y[kumQ fo'ofo\|ky;] y[kumQ |
-| Class | Class 10 |
-| Subject | Hindi Kshitij |
-| Pilot Subject Family | Hindi |
-| Source File | `data/class_10/hindi_kshitij/chapter_11.md` |
-| Textbook Pages | 1 – 90 |
-| Raw Exercise Count | 0 |
-| Formatting Mode | Human-guided pilot for subject-specific automation |
+| Detail               | Info                                                                                                    |
+| -------------------- | ------------------------------------------------------------------------------------------------------- |
+| Chapter              | 11 — ;rhanz feJ dk tUe lu~ 1977 esa v;ksè;k (mÙkj izns'k) esa gqvkA mUgksaus y[kumQ fo'ofo\|ky;] y[kumQ |
+| Class                | Class 10                                                                                                |
+| Subject              | Hindi Kshitij                                                                                           |
+| Pilot Subject Family | Hindi                                                                                                   |
+| Source File          | `data/class_10/hindi_kshitij/chapter_11.md`                                                             |
+| Textbook Pages       | 1 – 90                                                                                                  |
+| Raw Exercise Count   | 0                                                                                                       |
+| Formatting Mode      | Human-guided pilot for subject-specific automation                                                      |
 
 ---
 
@@ -23,53 +24,53 @@
 > [!NOTE]
 > Study this chapter through this route: **context -> text situation -> speaker/character voice -> bhav/theme -> language feature -> answer evidence**.
 
-| Step | Learner Action | Why It Matters |
-|---|---|---|
-| 1 | Read once for literal meaning and again for bhav, tone, and central idea. | Builds reliable recall and answer quality. |
-| 2 | Keep difficult words, idioms, poetic expressions, and author cues in a separate vocabulary table. | Builds reliable recall and answer quality. |
-| 3 | Track speaker, audience, situation, and emotional change for prose and poetry. | Builds reliable recall and answer quality. |
-| 4 | For answers, connect the text moment with the larger theme instead of retelling everything. | Builds reliable recall and answer quality. |
+| Step | Learner Action                                                                                    | Why It Matters                             |
+| ---- | ------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| 1    | Read once for literal meaning and again for bhav, tone, and central idea.                         | Builds reliable recall and answer quality. |
+| 2    | Keep difficult words, idioms, poetic expressions, and author cues in a separate vocabulary table. | Builds reliable recall and answer quality. |
+| 3    | Track speaker, audience, situation, and emotional change for prose and poetry.                    | Builds reliable recall and answer quality. |
+| 4    | For answers, connect the text moment with the larger theme instead of retelling everything.       | Builds reliable recall and answer quality. |
 
 ---
 
 ## 🎯 Learning Outcomes
 
-| # | After studying this chapter, you should be able to... |
-|---|---|
-| 1 | understand the literal meaning and deeper bhav or theme of the text |
-| 2 | explain speaker, character, tone, expression, and language choices using textual evidence |
-| 3 | answer comprehension, vocabulary, and writing tasks in a structured way |
+| #   | After studying this chapter, you should be able to...                                     |
+| --- | ----------------------------------------------------------------------------------------- |
+| 1   | understand the literal meaning and deeper bhav or theme of the text                       |
+| 2   | explain speaker, character, tone, expression, and language choices using textual evidence |
+| 3   | answer comprehension, vocabulary, and writing tasks in a structured way                   |
 
 ---
 
 ## 🗂️ Section Structure
 
-| Section | Title | Revision Focus |
-|---|---|---|
-| Intro | Core chapter narrative | Definition, explanation, examples, and likely questions |
+| Section | Title                  | Revision Focus                                          |
+| ------- | ---------------------- | ------------------------------------------------------- |
+| Intro   | Core chapter narrative | Definition, explanation, examples, and likely questions |
 
 ---
 
 ## 🧠 Subject-Specific Study Method
 
-| Part | How to Use It |
-|---|---|
-| Core lens | context -> text situation -> speaker/character voice -> bhav/theme -> language feature -> answer evidence |
-| First pass | Read for meaning and mark unfamiliar terms. |
-| Second pass | Convert definitions, examples, data, and activities into tables. |
-| Revision pass | Use the quick reference and practice tracker at the end. |
+| Part          | How to Use It                                                                                             |
+| ------------- | --------------------------------------------------------------------------------------------------------- |
+| Core lens     | context -> text situation -> speaker/character voice -> bhav/theme -> language feature -> answer evidence |
+| First pass    | Read for meaning and mark unfamiliar terms.                                                               |
+| Second pass   | Convert definitions, examples, data, and activities into tables.                                          |
+| Revision pass | Use the quick reference and practice tracker at the end.                                                  |
 
 ---
 
 ## 🪶 Literature Study Board
 
-| Element | Learner Notes |
-|---|---|
-| Text | ;rhanz feJ dk tUe lu~ 1977 esa v;ksè;k (mÙkj izns'k) esa gqvkA mUgksaus y[kumQ fo'ofo\|ky;] y[kumQ |
-| First reading | Understand what happens literally: situation, characters, conflict, and ending. |
-| Second reading | Track emotional change, tone, symbols, and social/political context. |
-| Evidence habit | Keep short textual moments ready for long-answer questions. |
-| Vocabulary habit | Infer expression meanings from context before checking a dictionary. |
+| Element          | Learner Notes                                                                                      |
+| ---------------- | -------------------------------------------------------------------------------------------------- |
+| Text             | ;rhanz feJ dk tUe lu~ 1977 esa v;ksè;k (mÙkj izns'k) esa gqvkA mUgksaus y[kumQ fo'ofo\|ky;] y[kumQ |
+| First reading    | Understand what happens literally: situation, characters, conflict, and ending.                    |
+| Second reading   | Track emotional change, tone, symbols, and social/political context.                               |
+| Evidence habit   | Keep short textual moments ready for long-answer questions.                                        |
+| Vocabulary habit | Infer expression meanings from context before checking a dictionary.                               |
 
 ---
 
@@ -80,11 +81,11 @@
 > [!TIP]
 > Study this part through the **context -> text situation -> speaker/character voice -> bhav/theme -> language feature -> answer evidence** lens.
 
- - (x) jhM ujdV ls cukbZ tkrh gS tks Mqejk¡o esa eq[;r% lksu unh osQ fdukjksa ij ikbZ tkrh gSA
-(?k) mudks;dhu gS] dHkh [kqnk;w¡ gh mu ij esgjcku gksxkA f{kfrt (Ä) fgju viuh gh egd ls ijs'kku iwjs taxy esa ml ojnku dks [kkstrk gS ftldh xed mlh esa lekbZ gSA (p) [kk¡ lkgc dh lcls cM+h nsu gesa;gh gS fd iwjs vLlh cjl mUgksaus laxhr dks laiw.kZrk o,dkfèkdkj ls lh[kus dh ftthfo"kk dks vius Hkhrj ftank j[kkA 12- fuEufyf[kr okD;ksa dks fefJr okD;ksa esa cnfy,µ (d) blh ckylqyHk g¡lh esa dbZ;knsa can gSaA ([k) dk'kh esa laxhr vk;kstu dh,d izkphu,oa vn~Hkqr ijaijk gSA
+- (x) jhM ujdV ls cukbZ tkrh gS tks Mqejk¡o esa eq[;r% lksu unh osQ fdukjksa ij ikbZ tkrh gSA
+  (?k) mudks;dhu gS] dHkh [kqnk;w¡ gh mu ij esgjcku gksxkA f{kfrt (Ä) fgju viuh gh egd ls ijs'kku iwjs taxy esa ml ojnku dks [kkstrk gS ftldh xed mlh esa lekbZ gSA (p) [kk¡ lkgc dh lcls cM+h nsu gesa;gh gS fd iwjs vLlh cjl mUgksaus laxhr dks laiw.kZrk o,dkfèkdkj ls lh[kus dh ftthfo"kk dks vius Hkhrj ftank j[kkA 12- fuEufyf[kr okD;ksa dks fefJr okD;ksa esa cnfy,µ (d) blh ckylqyHk g¡lh esa dbZ;knsa can gSaA ([k) dk'kh esa laxhr vk;kstu dh,d izkphu,oa vn~Hkqr ijaijk gSA
 
- - (x) /r~! ixyh bZ HkkjrjRu gedks 'kgubZ;k is feyk gS] yqafx;k is ukghaA
-(?k) dk'kh dk uk;kc ghjk ges'kk ls nks dkSeksa dks,d gksdj vkil esa HkkbZpkjs osQ lkFk jgus dh izsj.kk nsrk jgkA ikBsRkj lfozQ;rk /circle4dYiuk dhft, fd vkiosQ fo|ky; eas fdlh izfl¼ laxhrdkj osQ 'kgukbZ oknu dk dk;ZØe vk;ksftr fd;k tk jgk gSA bl dk;ZØe dh lwpuk nsrs gq, cqysfVu cksMZ osQ fy, uksfVl cukb,A /circle4vki vius euilan laxhrdkj osQ ckjs esa,d vuqPNsn fyf[k,A /circle4gekjs lkfgR;] dyk] laxhr vkSj u`R; dks le`¼ djus esa dk'kh (vkt osQ okjk.klh) osQ;ksxnku ij ppkZ dhft,A /circle4dk'kh dk uke vkrs gh gekjh vk¡[kksa osQ lkeus dk'kh dh cgqr&lh ph”ksa mHkjus yxrh gSa] os dkSu&dkSu lh gSa\ 'kCn&laink M~;ks<+h & ngyh”k ukScr[kkuk & izos'k }kj osQ mQij eaxy èofu ctkus dk LFkku fj;k”k & vH;kl ekI+kZQr & }kjk Ük`axh & lhax dk cuk ok|;a=k eqjNax & ,d izdkj dk yksd ok|;a=k user & bZ'oj dh nsu] lq[k] /u nkSyr l”knk & ekFkk Vsduk bcknr & mikluk rklhj & xq.k] izHkko] vlj Jqfr & 'kCnèofu mQgkiksg & my>u] vfuf'prrk;rhanz feJ frfyLe & tknw xed & [kq'kcw] lqxa/ v”kknkjh & ekre djuk] nq[k eukuk cnLrwj & dk;ns ls] rjhosQ ls uSlfxZd & LokHkkfod] izko`Qfrd nkn & 'kkcklh rkyhe & f'k{kk vnc & dk;nk] lkfgR; vygenqfyYykg & reke rkjhI+kQ bZ'oj osQ fy, ftthfo"kk & thus dh bPNk f'kjdr & 'kkfey gksuk;g Hkh tkusa le µ rky dk,d vax] laxhr esa og LFkku tgk¡ y; dh lekfIr vkSj rky dk vkjaHk gksrk gSA Jqfr µ ,d Loj ls nwljs Loj ij tkrs le; dk vR;ar lw{e Lojka'k ok|;a=k µ gekjs ns'k esa ok| ;a=kksa dh eq[; pkj Jsf.k;k¡ ekuh tkrh gSaµ rr&forr µ rkj okys ok|µoh.kk] flrkj] lkjaxh] ljksn lqf"kj µ iw¡Qd dj ctk, tkus okys ok|µck¡lqjh] 'kgukbZ] ukxLoje~] chu?kuok| µ vk?kkr ls ctk, tkus okys /krq ok|µ>k¡>] eathjk] ?kq¡?k: vou¼ µ peM+s ls e<+s ok|µrcyk] <ksyd] e`nax vkfnA pSrh p<+y pbr fpr ykxs uk jkek ckck osQ Hkouok chj ceuok lxqu fcpkjks dc gksbgSa fi;k ls feyuok gks jkek p<+y pbr fpr ykxs uk jkek Bqejh cktqcan [kqy&[kqy tk, tknw dh iqfM+;k Hkj&Hkj ekjh gs!
+- (x) /r~! ixyh bZ HkkjrjRu gedks 'kgubZ;k is feyk gS] yqafx;k is ukghaA
+  (?k) dk'kh dk uk;kc ghjk ges'kk ls nks dkSeksa dks,d gksdj vkil esa HkkbZpkjs osQ lkFk jgus dh izsj.kk nsrk jgkA ikBsRkj lfozQ;rk /circle4dYiuk dhft, fd vkiosQ fo|ky; eas fdlh izfl¼ laxhrdkj osQ 'kgukbZ oknu dk dk;ZØe vk;ksftr fd;k tk jgk gSA bl dk;ZØe dh lwpuk nsrs gq, cqysfVu cksMZ osQ fy, uksfVl cukb,A /circle4vki vius euilan laxhrdkj osQ ckjs esa,d vuqPNsn fyf[k,A /circle4gekjs lkfgR;] dyk] laxhr vkSj u`R; dks le`¼ djus esa dk'kh (vkt osQ okjk.klh) osQ;ksxnku ij ppkZ dhft,A /circle4dk'kh dk uke vkrs gh gekjh vk¡[kksa osQ lkeus dk'kh dh cgqr&lh ph”ksa mHkjus yxrh gSa] os dkSu&dkSu lh gSa\ 'kCn&laink M~;ks<+h & ngyh”k ukScr[kkuk & izos'k }kj osQ mQij eaxy èofu ctkus dk LFkku fj;k”k & vH;kl ekI+kZQr & }kjk Ük`axh & lhax dk cuk ok|;a=k eqjNax & ,d izdkj dk yksd ok|;a=k user & bZ'oj dh nsu] lq[k] /u nkSyr l”knk & ekFkk Vsduk bcknr & mikluk rklhj & xq.k] izHkko] vlj Jqfr & 'kCnèofu mQgkiksg & my>u] vfuf'prrk;rhanz feJ frfyLe & tknw xed & [kq'kcw] lqxa/ v”kknkjh & ekre djuk] nq[k eukuk cnLrwj & dk;ns ls] rjhosQ ls uSlfxZd & LokHkkfod] izko`Qfrd nkn & 'kkcklh rkyhe & f'k{kk vnc & dk;nk] lkfgR; vygenqfyYykg & reke rkjhI+kQ bZ'oj osQ fy, ftthfo"kk & thus dh bPNk f'kjdr & 'kkfey gksuk;g Hkh tkusa le µ rky dk,d vax] laxhr esa og LFkku tgk¡ y; dh lekfIr vkSj rky dk vkjaHk gksrk gSA Jqfr µ ,d Loj ls nwljs Loj ij tkrs le; dk vR;ar lw{e Lojka'k ok|;a=k µ gekjs ns'k esa ok| ;a=kksa dh eq[; pkj Jsf.k;k¡ ekuh tkrh gSaµ rr&forr µ rkj okys ok|µoh.kk] flrkj] lkjaxh] ljksn lqf"kj µ iw¡Qd dj ctk, tkus okys ok|µck¡lqjh] 'kgukbZ] ukxLoje~] chu?kuok| µ vk?kkr ls ctk, tkus okys /krq ok|µ>k¡>] eathjk] ?kq¡?k: vou¼ µ peM+s ls e<+s ok|µrcyk] <ksyd] e`nax vkfnA pSrh p<+y pbr fpr ykxs uk jkek ckck osQ Hkouok chj ceuok lxqu fcpkjks dc gksbgSa fi;k ls feyuok gks jkek p<+y pbr fpr ykxs uk jkek Bqejh cktqcan [kqy&[kqy tk, tknw dh iqfM+;k Hkj&Hkj ekjh gs!
 
 cktqcan [kqy&[kqy tk, f{kfrt nknjk rM+i rM+i ft;k tk, lk¡ofj;k fcuk xksoqQy NkM+s eFkqjk esa Nk, fdu lax izhr yxk, rM+i rM+i ft;k tk, VIik ckxk¡ fop vk;k djks ckxk¡ fop vk;k djks efD[k;k¡ rksa Mj yxnk xqM+ ”kjk de [kk;k djksA
 
@@ -120,44 +121,44 @@ cktqcan [kqy&[kqy tk, f{kfrt nknjk rM+i rM+i ft;k tk, lk¡ofj;k fcuk xksoqQy NkM
 
 ## 🧩 Answer-Writing Framework
 
-| Step | What To Do |
-|---|---|
-| 1 | Begin with the text situation or speaker. |
-| 2 | State the key idea, bhav, theme, or conflict. |
-| 3 | Use one short textual reference or paraphrased moment. |
-| 4 | Explain the language feature, character quality, or social meaning. |
-| 5 | Close with the wider message of the passage or chapter. |
+| Step | What To Do                                                          |
+| ---- | ------------------------------------------------------------------- |
+| 1    | Begin with the text situation or speaker.                           |
+| 2    | State the key idea, bhav, theme, or conflict.                       |
+| 3    | Use one short textual reference or paraphrased moment.              |
+| 4    | Explain the language feature, character quality, or social meaning. |
+| 5    | Close with the wider message of the passage or chapter.             |
 
 ---
 
 ## ⚠️ Common Misconceptions
 
-| # | Watch Out For This |
-|---|---|
-| 1 | Do not translate mechanically; explain the meaning in context. |
-| 2 | A theme is more than a one-word topic; it is the idea the text develops. |
-| 3 | Long answers should use evidence from the chapter, not only general opinion. |
+| #   | Watch Out For This                                                           |
+| --- | ---------------------------------------------------------------------------- |
+| 1   | Do not translate mechanically; explain the meaning in context.               |
+| 2   | A theme is more than a one-word topic; it is the idea the text develops.     |
+| 3   | Long answers should use evidence from the chapter, not only general opinion. |
 
 ---
 
 ## 📋 Quick Revision Sheet
 
-| Revision Item | What To Recall |
-|---|---|
-| Chapter core | ;rhanz feJ dk tUe lu~ 1977 esa v;ksè;k (mÙkj izns'k) esa gqvkA mUgksaus y[kumQ fo'ofo\|ky;] y[kumQ |
-| Intro | Core chapter narrative |
+| Revision Item | What To Recall                                                                                     |
+| ------------- | -------------------------------------------------------------------------------------------------- |
+| Chapter core  | ;rhanz feJ dk tUe lu~ 1977 esa v;ksè;k (mÙkj izns'k) esa gqvkA mUgksaus y[kumQ fo'ofo\|ky;] y[kumQ |
+| Intro         | Core chapter narrative                                                                             |
 
 ---
 
 ## ✅ Pilot Quality Checklist
 
-| Check | Status |
-|---|---|
-| Raw data preserved | Yes — chapter content is retained and cleaned, not summarised away. |
-| Learner scaffolding added | Yes — roadmap, outcomes, answer framework, misconceptions, and revision sheet. |
-| Subject-aware structure | Yes — generated from the selected subject family profile. |
-| Needs human review | Yes — especially source extraction mismatches, diagrams, tables, formulas, and broken OCR words. |
+| Check                     | Status                                                                                           |
+| ------------------------- | ------------------------------------------------------------------------------------------------ |
+| Raw data preserved        | Yes — chapter content is retained and cleaned, not summarised away.                              |
+| Learner scaffolding added | Yes — roadmap, outcomes, answer framework, misconceptions, and revision sheet.                   |
+| Subject-aware structure   | Yes — generated from the selected subject family profile.                                        |
+| Needs human review        | Yes — especially source extraction mismatches, diagrams, tables, formulas, and broken OCR words. |
 
 ---
 
-*Source: NCERT Class 10 — Hindi Kshitij, Chapter 11. Raw file: `data/class_10/hindi_kshitij/chapter_11.md`.*
+_Source: NCERT Class 10 — Hindi Kshitij, Chapter 11. Raw file: `data/class_10/hindi_kshitij/chapter_11.md`._

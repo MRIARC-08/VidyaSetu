@@ -1,20 +1,21 @@
 # Chapter 4: Working of Institutions
+
 ### NCERT Class 9 — Social Civics
 
 ---
 
 ## 📌 Chapter at a Glance
 
-| Detail | Info |
-|---|---|
-| Chapter | 4 — Working of Institutions |
-| Class | Class 9 |
-| Subject | Social Civics |
-| Pilot Subject Family | Political Science |
-| Source File | `data/class_9/social_civics/chapter_04.md` |
-| Textbook Pages | 1 – 73 |
-| Raw Exercise Count | 23 |
-| Formatting Mode | Human-guided pilot for subject-specific automation |
+| Detail               | Info                                               |
+| -------------------- | -------------------------------------------------- |
+| Chapter              | 4 — Working of Institutions                        |
+| Class                | Class 9                                            |
+| Subject              | Social Civics                                      |
+| Pilot Subject Family | Political Science                                  |
+| Source File          | `data/class_9/social_civics/chapter_04.md`         |
+| Textbook Pages       | 1 – 73                                             |
+| Raw Exercise Count   | 23                                                 |
+| Formatting Mode      | Human-guided pilot for subject-specific automation |
 
 ---
 
@@ -23,57 +24,57 @@
 > [!NOTE]
 > Study this chapter through this route: **concept -> institution -> constitutional principle -> conflict/problem -> democratic resolution**.
 
-| Step | Learner Action | Why It Matters |
-|---|---|---|
-| 1 | Define every political concept in one precise sentence. | Builds reliable recall and answer quality. |
-| 2 | Connect concepts to examples from India and other countries. | Builds reliable recall and answer quality. |
-| 3 | Separate moral reasons from practical or prudential reasons. | Builds reliable recall and answer quality. |
-| 4 | Use flowcharts for institutions, levels of government, and power-sharing arrangements. | Builds reliable recall and answer quality. |
+| Step | Learner Action                                                                         | Why It Matters                             |
+| ---- | -------------------------------------------------------------------------------------- | ------------------------------------------ |
+| 1    | Define every political concept in one precise sentence.                                | Builds reliable recall and answer quality. |
+| 2    | Connect concepts to examples from India and other countries.                           | Builds reliable recall and answer quality. |
+| 3    | Separate moral reasons from practical or prudential reasons.                           | Builds reliable recall and answer quality. |
+| 4    | Use flowcharts for institutions, levels of government, and power-sharing arrangements. | Builds reliable recall and answer quality. |
 
 ---
 
 ## 🎯 Learning Outcomes
 
-| # | After studying this chapter, you should be able to... |
-|---|---|
-| 1 | define democratic and constitutional concepts precisely |
-| 2 | connect institutions and power arrangements with real examples |
-| 3 | distinguish moral, prudential, legal, and practical arguments |
-| 4 | explain the role of 'P ARLIAMENT' in the chapter |
-| 5 | explain the role of 'POLITICAL E XECUTIVE' in the chapter |
-| 6 | explain the role of 'THE JUDICIARY' in the chapter |
+| #   | After studying this chapter, you should be able to...          |
+| --- | -------------------------------------------------------------- |
+| 1   | define democratic and constitutional concepts precisely        |
+| 2   | connect institutions and power arrangements with real examples |
+| 3   | distinguish moral, prudential, legal, and practical arguments  |
+| 4   | explain the role of 'P ARLIAMENT' in the chapter               |
+| 5   | explain the role of 'POLITICAL E XECUTIVE' in the chapter      |
+| 6   | explain the role of 'THE JUDICIARY' in the chapter             |
 
 ---
 
 ## 🗂️ Section Structure
 
-| Section | Title | Revision Focus |
-|---|---|---|
-| 4.2 | P ARLIAMENT | Definition, explanation, examples, and likely questions |
-| 4.3 | POLITICAL E XECUTIVE | Definition, explanation, examples, and likely questions |
-| 4.4 | THE JUDICIARY | Definition, explanation, examples, and likely questions |
+| Section | Title                | Revision Focus                                          |
+| ------- | -------------------- | ------------------------------------------------------- |
+| 4.2     | P ARLIAMENT          | Definition, explanation, examples, and likely questions |
+| 4.3     | POLITICAL E XECUTIVE | Definition, explanation, examples, and likely questions |
+| 4.4     | THE JUDICIARY        | Definition, explanation, examples, and likely questions |
 
 ---
 
 ## 🧠 Subject-Specific Study Method
 
-| Part | How to Use It |
-|---|---|
-| Core lens | concept -> institution -> constitutional principle -> conflict/problem -> democratic resolution |
-| First pass | Read for meaning and mark unfamiliar terms. |
-| Second pass | Convert definitions, examples, data, and activities into tables. |
-| Revision pass | Use the quick reference and practice tracker at the end. |
+| Part          | How to Use It                                                                                   |
+| ------------- | ----------------------------------------------------------------------------------------------- |
+| Core lens     | concept -> institution -> constitutional principle -> conflict/problem -> democratic resolution |
+| First pass    | Read for meaning and mark unfamiliar terms.                                                     |
+| Second pass   | Convert definitions, examples, data, and activities into tables.                                |
+| Revision pass | Use the quick reference and practice tracker at the end.                                        |
 
 ---
 
 ## 🧭 Concept, Evidence, and Example Board
 
-| Learning Need | How To Build It |
-|---|---|
-| Core concepts | Turn each definition into a one-line meaning and one example. |
-| Evidence | Use dates, places, maps, data, thinkers, laws, institutions, or case studies from the chapter. |
-| Comparison | Prepare tables for contrasts, causes, consequences, and viewpoints. |
-| Answer quality | Move from description to explanation to significance. |
+| Learning Need  | How To Build It                                                                                |
+| -------------- | ---------------------------------------------------------------------------------------------- |
+| Core concepts  | Turn each definition into a one-line meaning and one example.                                  |
+| Evidence       | Use dates, places, maps, data, thinkers, laws, institutions, or case studies from the chapter. |
+| Comparison     | Prepare tables for contrasts, causes, consequences, and viewpoints.                            |
+| Answer quality | Move from description to explanation to significance.                                          |
 
 ---
 
@@ -282,16 +283,16 @@ b Anjaiah says that judiciary is independent because it could have given a verdi
 
 ## 🔑 Key Concepts & Definitions
 
-| Term | Learner-Friendly Meaning |
-|---|---|
-| **In India such a national assembly of elected representatives** | Parliament |
-| **At the state level this** | Legislature or Legislative Assembly |
-| **for sometimes it** | the ‘Upper Chamber’ and the Lok Sabha the ‘Lower Chamber’ |
-| **This** | the permanent executive or civil services |
-| **this system of government** | the Presiden- tial form of government |
-| **Therefore our system** | the parlia- mentary system of government |
-| **Independence of the judiciary** | that it is not under the control of the legislature or the executive |
-| **In practice it now** | that the senior judges of the Supreme Court select the new judges of the Supreme Court and the High Courts |
+| Term                                                             | Learner-Friendly Meaning                                                                                   |
+| ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| **In India such a national assembly of elected representatives** | Parliament                                                                                                 |
+| **At the state level this**                                      | Legislature or Legislative Assembly                                                                        |
+| **for sometimes it**                                             | the ‘Upper Chamber’ and the Lok Sabha the ‘Lower Chamber’                                                  |
+| **This**                                                         | the permanent executive or civil services                                                                  |
+| **this system of government**                                    | the Presiden- tial form of government                                                                      |
+| **Therefore our system**                                         | the parlia- mentary system of government                                                                   |
+| **Independence of the judiciary**                                | that it is not under the control of the legislature or the executive                                       |
+| **In practice it now**                                           | that the senior judges of the Supreme Court select the new judges of the Supreme Court and the High Courts |
 
 ---
 
@@ -304,9 +305,9 @@ b Anjaiah says that judiciary is independent because it could have given a verdi
 
 ## 🔬 Activities, Projects, and Inquiry Prompts
 
-| # | Prompt | Learner Task |
-|---|---|---|
-| 1 | ACTIVITY | Observe, discuss, collect evidence, or write a short response. |
+| #   | Prompt   | Learner Task                                                   |
+| --- | -------- | -------------------------------------------------------------- |
+| 1   | ACTIVITY | Observe, discuss, collect evidence, or write a short response. |
 
 ---
 
@@ -319,51 +320,51 @@ b Anjaiah says that judiciary is independent because it could have given a verdi
 
 ## 🧩 Answer-Writing Framework
 
-| Step | What To Do |
-|---|---|
-| 1 | Define the political idea. |
-| 2 | Explain why it matters in democracy. |
-| 3 | Give one institutional mechanism or constitutional provision. |
-| 4 | Use one example. |
-| 5 | Conclude with its effect on citizens or governance. |
+| Step | What To Do                                                    |
+| ---- | ------------------------------------------------------------- |
+| 1    | Define the political idea.                                    |
+| 2    | Explain why it matters in democracy.                          |
+| 3    | Give one institutional mechanism or constitutional provision. |
+| 4    | Use one example.                                              |
+| 5    | Conclude with its effect on citizens or governance.           |
 
 ---
 
 ## ⚠️ Common Misconceptions
 
-| # | Watch Out For This |
-|---|---|
-| 1 | Democracy is not only elections; it includes participation and accountability. |
-| 2 | Majority rule and majoritarianism are not the same. |
-| 3 | Institutions matter because they distribute and limit power. |
+| #   | Watch Out For This                                                             |
+| --- | ------------------------------------------------------------------------------ |
+| 1   | Democracy is not only elections; it includes participation and accountability. |
+| 2   | Majority rule and majoritarianism are not the same.                            |
+| 3   | Institutions matter because they distribute and limit power.                   |
 
 ---
 
 ## 📋 Quick Revision Sheet
 
-| Revision Item | What To Recall |
-|---|---|
-| Chapter core | Working of Institutions |
-| 4.2 | P ARLIAMENT |
-| 4.3 | POLITICAL E XECUTIVE |
-| 4.4 | THE JUDICIARY |
-| Definition | In India such a national assembly of elected representatives |
-| Definition | At the state level this |
-| Definition | for sometimes it |
-| Definition | This |
-| Definition | this system of government |
+| Revision Item | What To Recall                                               |
+| ------------- | ------------------------------------------------------------ |
+| Chapter core  | Working of Institutions                                      |
+| 4.2           | P ARLIAMENT                                                  |
+| 4.3           | POLITICAL E XECUTIVE                                         |
+| 4.4           | THE JUDICIARY                                                |
+| Definition    | In India such a national assembly of elected representatives |
+| Definition    | At the state level this                                      |
+| Definition    | for sometimes it                                             |
+| Definition    | This                                                         |
+| Definition    | this system of government                                    |
 
 ---
 
 ## ✅ Pilot Quality Checklist
 
-| Check | Status |
-|---|---|
-| Raw data preserved | Yes — chapter content is retained and cleaned, not summarised away. |
-| Learner scaffolding added | Yes — roadmap, outcomes, answer framework, misconceptions, and revision sheet. |
-| Subject-aware structure | Yes — generated from the selected subject family profile. |
-| Needs human review | Yes — especially source extraction mismatches, diagrams, tables, formulas, and broken OCR words. |
+| Check                     | Status                                                                                           |
+| ------------------------- | ------------------------------------------------------------------------------------------------ |
+| Raw data preserved        | Yes — chapter content is retained and cleaned, not summarised away.                              |
+| Learner scaffolding added | Yes — roadmap, outcomes, answer framework, misconceptions, and revision sheet.                   |
+| Subject-aware structure   | Yes — generated from the selected subject family profile.                                        |
+| Needs human review        | Yes — especially source extraction mismatches, diagrams, tables, formulas, and broken OCR words. |
 
 ---
 
-*Source: NCERT Class 9 — Social Civics, Chapter 4. Raw file: `data/class_9/social_civics/chapter_04.md`.*
+_Source: NCERT Class 9 — Social Civics, Chapter 4. Raw file: `data/class_9/social_civics/chapter_04.md`._

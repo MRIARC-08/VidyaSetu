@@ -21,19 +21,19 @@ The central idea is that abnormal behaviour is best understood through multiple 
 
 ## Key Terms
 
-| Term | Meaning | Why it matters |
-|---|---|---|
-| Abnormal psychology | Area of psychology studying maladaptive behaviour, its causes, consequences, and treatment | Core field for understanding disorders |
-| Psychological disorder | Pattern of thoughts, emotions, or behaviour causing distress, dysfunction, or risk | Main topic of the chapter |
-| Deviance | Behaviour that differs from social or statistical norms | One criterion for abnormality |
-| Distress | Emotional suffering or discomfort | Important sign that help may be needed |
-| Dysfunction | Interference with daily life and functioning | Helps distinguish disorder from difference |
-| Danger | Risk of harm to self or others | One possible but not universal feature |
-| Maladaptive behaviour | Behaviour that interferes with well-being, growth, or functioning | Useful criterion for abnormality |
-| Bio-psycho-social approach | View that biological, psychological, and social factors interact | Modern integrative model |
-| DSM | Diagnostic and Statistical Manual of Mental Disorders | Classification system used by professionals |
-| ICD | International Classification of Diseases | Classification system used internationally |
-| Diathesis-stress model | View that vulnerability plus stress can produce disorder | Explains interaction between predisposition and life events |
+| Term                       | Meaning                                                                                    | Why it matters                                              |
+| -------------------------- | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------- |
+| Abnormal psychology        | Area of psychology studying maladaptive behaviour, its causes, consequences, and treatment | Core field for understanding disorders                      |
+| Psychological disorder     | Pattern of thoughts, emotions, or behaviour causing distress, dysfunction, or risk         | Main topic of the chapter                                   |
+| Deviance                   | Behaviour that differs from social or statistical norms                                    | One criterion for abnormality                               |
+| Distress                   | Emotional suffering or discomfort                                                          | Important sign that help may be needed                      |
+| Dysfunction                | Interference with daily life and functioning                                               | Helps distinguish disorder from difference                  |
+| Danger                     | Risk of harm to self or others                                                             | One possible but not universal feature                      |
+| Maladaptive behaviour      | Behaviour that interferes with well-being, growth, or functioning                          | Useful criterion for abnormality                            |
+| Bio-psycho-social approach | View that biological, psychological, and social factors interact                           | Modern integrative model                                    |
+| DSM                        | Diagnostic and Statistical Manual of Mental Disorders                                      | Classification system used by professionals                 |
+| ICD                        | International Classification of Diseases                                                   | Classification system used internationally                  |
+| Diathesis-stress model     | View that vulnerability plus stress can produce disorder                                   | Explains interaction between predisposition and life events |
 
 ## 1. Why Study Psychological Disorders Carefully?
 
@@ -719,4 +719,3 @@ The bio-psycho-social approach explains psychological disorders as the result of
 - Biological, psychological, and socio-cultural factors interact.
 - Major disorders include anxiety, OCD-related, trauma-related, somatic, dissociative, depressive, bipolar, psychotic, neurodevelopmental, conduct, eating, and substance-related disorders.
 - Diagnosis and treatment require trained professionals.
-

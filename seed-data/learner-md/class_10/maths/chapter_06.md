@@ -1,32 +1,33 @@
 # Chapter 6: Triangles
+
 ### NCERT Class 10 - Maths
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 10 |
-| **Subject** | Maths |
-| **Chapter** | 6 |
-| **Core Theme** | Similar figures, similar triangles, Basic Proportionality Theorem, and similarity criteria. |
+| Detail          | Learner-Friendly Information                                                                                    |
+| --------------- | --------------------------------------------------------------------------------------------------------------- |
+| **Class**       | 10                                                                                                              |
+| **Subject**     | Maths                                                                                                           |
+| **Chapter**     | 6                                                                                                               |
+| **Core Theme**  | Similar figures, similar triangles, Basic Proportionality Theorem, and similarity criteria.                     |
 | **Main Skills** | Proving parallelism, proving triangle similarity, using proportional sides, solving height and shadow problems. |
-| **Proof Focus** | BPT, converse of BPT, AA/AAA, SSS, and SAS similarity. |
+| **Proof Focus** | BPT, converse of BPT, AA/AAA, SSS, and SAS similarity.                                                          |
 
 ---
 
 ## Section Structure
 
-| Unit | Topic | Main Learning Focus |
-|---|---|---|
-| **6A** | Similar Figures | Same shape, not necessarily same size. |
-| **6B** | Similar Polygons | Equal corresponding angles and proportional corresponding sides. |
-| **6C** | Similar Triangles | Triangle similarity and correspondence. |
-| **6D** | Basic Proportionality Theorem | Parallel line divides two sides in same ratio. |
-| **6E** | Converse of BPT | Same ratio implies parallel line. |
-| **6F** | Similarity Criteria | AA/AAA, SSS, SAS similarity. |
-| **6G** | Solved Exercises | Exercise 6.1, 6.2, and 6.3 solutions and proof outlines. |
+| Unit   | Topic                         | Main Learning Focus                                              |
+| ------ | ----------------------------- | ---------------------------------------------------------------- |
+| **6A** | Similar Figures               | Same shape, not necessarily same size.                           |
+| **6B** | Similar Polygons              | Equal corresponding angles and proportional corresponding sides. |
+| **6C** | Similar Triangles             | Triangle similarity and correspondence.                          |
+| **6D** | Basic Proportionality Theorem | Parallel line divides two sides in same ratio.                   |
+| **6E** | Converse of BPT               | Same ratio implies parallel line.                                |
+| **6F** | Similarity Criteria           | AA/AAA, SSS, SAS similarity.                                     |
+| **6G** | Solved Exercises              | Exercise 6.1, 6.2, and 6.3 solutions and proof outlines.         |
 
 ---
 
@@ -34,34 +35,34 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
+| Outcome                               | You Should Be Able To...                                                             |
+| ------------------------------------- | ------------------------------------------------------------------------------------ |
 | **Distinguish similar and congruent** | Explain why congruent figures are similar but similar figures need not be congruent. |
-| **Use polygon similarity** | Check equal angles and proportional sides. |
-| **Apply BPT** | Use a line parallel to one side of a triangle to form ratios. |
-| **Apply converse of BPT** | Prove a line parallel to a side when two sides are divided proportionally. |
-| **Use AA/AAA similarity** | Prove triangles similar using angle equality. |
-| **Use SSS similarity** | Prove triangles similar using proportional sides. |
-| **Use SAS similarity** | Prove triangles similar using one equal angle and proportional including sides. |
-| **Solve indirect measurement** | Use shadows and similar triangles to find heights. |
-| **Write correct correspondence** | Match vertices in the correct order when writing similarity statements. |
+| **Use polygon similarity**            | Check equal angles and proportional sides.                                           |
+| **Apply BPT**                         | Use a line parallel to one side of a triangle to form ratios.                        |
+| **Apply converse of BPT**             | Prove a line parallel to a side when two sides are divided proportionally.           |
+| **Use AA/AAA similarity**             | Prove triangles similar using angle equality.                                        |
+| **Use SSS similarity**                | Prove triangles similar using proportional sides.                                    |
+| **Use SAS similarity**                | Prove triangles similar using one equal angle and proportional including sides.      |
+| **Solve indirect measurement**        | Use shadows and similar triangles to find heights.                                   |
+| **Write correct correspondence**      | Match vertices in the correct order when writing similarity statements.              |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Congruent figures** | Figures having same shape and same size. |
-| **Similar figures** | Figures having same shape but not necessarily same size. |
-| **Scale factor** | Ratio of corresponding side lengths of two similar figures. |
-| **Corresponding sides** | Sides in two figures that match by position. |
-| **Corresponding angles** | Angles in two figures that match by position. |
-| **Equiangular triangles** | Triangles whose corresponding angles are equal. |
-| **BPT** | Basic Proportionality Theorem, also called Thales theorem. |
-| **AA similarity** | Two triangles are similar if two pairs of corresponding angles are equal. |
-| **SSS similarity** | Two triangles are similar if corresponding sides are proportional. |
-| **SAS similarity** | Two triangles are similar if one angle is equal and including sides are proportional. |
+| Term                      | Meaning                                                                               |
+| ------------------------- | ------------------------------------------------------------------------------------- |
+| **Congruent figures**     | Figures having same shape and same size.                                              |
+| **Similar figures**       | Figures having same shape but not necessarily same size.                              |
+| **Scale factor**          | Ratio of corresponding side lengths of two similar figures.                           |
+| **Corresponding sides**   | Sides in two figures that match by position.                                          |
+| **Corresponding angles**  | Angles in two figures that match by position.                                         |
+| **Equiangular triangles** | Triangles whose corresponding angles are equal.                                       |
+| **BPT**                   | Basic Proportionality Theorem, also called Thales theorem.                            |
+| **AA similarity**         | Two triangles are similar if two pairs of corresponding angles are equal.             |
+| **SSS similarity**        | Two triangles are similar if corresponding sides are proportional.                    |
+| **SAS similarity**        | Two triangles are similar if one angle is equal and including sides are proportional. |
 
 ---
 
@@ -111,10 +112,10 @@ If one angle of a triangle is equal to one angle of another triangle and the sid
 
 ## Similar vs Congruent
 
-| Type | Shape | Size |
-|---|---|---|
-| Congruent figures | Same | Same |
-| Similar figures | Same | May be different |
+| Type              | Shape | Size             |
+| ----------------- | ----- | ---------------- |
+| Congruent figures | Same  | Same             |
+| Similar figures   | Same  | May be different |
 
 All congruent figures are similar.
 
@@ -122,14 +123,14 @@ But all similar figures are not necessarily congruent.
 
 ## Examples
 
-| Figures | Similar? | Reason |
-|---|---|---|
-| Any two circles | Yes | Same shape; radius may differ. |
-| Any two squares | Yes | Same angles and proportional sides. |
-| Any two equilateral triangles | Yes | Same angles and proportional sides. |
-| A circle and a square | No | Different shape. |
-| A square and a rectangle | Not always | Angles equal, but side ratios may differ. |
-| A square and a rhombus | Not always | Sides proportional, but angles may differ. |
+| Figures                       | Similar?   | Reason                                     |
+| ----------------------------- | ---------- | ------------------------------------------ |
+| Any two circles               | Yes        | Same shape; radius may differ.             |
+| Any two squares               | Yes        | Same angles and proportional sides.        |
+| Any two equilateral triangles | Yes        | Same angles and proportional sides.        |
+| A circle and a square         | No         | Different shape.                           |
+| A square and a rectangle      | Not always | Angles equal, but side ratios may differ.  |
+| A square and a rhombus        | Not always | Sides proportional, but angles may differ. |
 
 ## Similar Polygons
 
@@ -164,10 +165,10 @@ $$
 then the correspondence is:
 
 | Triangle ABC | Triangle DEF |
-|---|---|
-| `A` | `D` |
-| `B` | `E` |
-| `C` | `F` |
+| ------------ | ------------ |
+| `A`          | `D`          |
+| `B`          | `E`          |
+| `C`          | `F`          |
 
 So:
 
@@ -404,12 +405,12 @@ Shadow length is `1.6 m`.
 
 ## Question 1: Fill in the Blanks
 
-| Part | Correct Word |
-|---|---|
-| (i) All circles are **similar**. |
-| (ii) All squares are **similar**. |
+| Part                                             | Correct Word |
+| ------------------------------------------------ | ------------ |
+| (i) All circles are **similar**.                 |
+| (ii) All squares are **similar**.                |
 | (iii) All **equilateral** triangles are similar. |
-| (iv-a) Corresponding angles are **equal**. |
+| (iv-a) Corresponding angles are **equal**.       |
 | (iv-b) Corresponding sides are **proportional**. |
 
 ## Question 2: Examples
@@ -499,11 +500,11 @@ $$
 \frac{PE}{EQ} = \frac{PF}{FR}
 $$
 
-| Part | Given Ratios | Result |
-|---|---|---|
-| (i) | `3.9/3` and `3.6/2.4`; not equal | `EF` is not parallel to `QR`. |
-| (ii) | `4/4.5 = 8/9` and `8/9`; equal | `EF || QR`. |
-| (iii) | `PE/PQ = 0.18/1.28` and `PF/PR = 0.36/2.56`; equal | `EF || QR`. |
+| Part  | Given Ratios                                       | Result                        |
+| ----- | -------------------------------------------------- | ----------------------------- | --- | ---- |
+| (i)   | `3.9/3` and `3.6/2.4`; not equal                   | `EF` is not parallel to `QR`. |
+| (ii)  | `4/4.5 = 8/9` and `8/9`; equal                     | `EF                           |     | QR`. |
+| (iii) | `PE/PQ = 0.18/1.28` and `PF/PR = 0.36/2.56`; equal | `EF                           |     | QR`. |
 
 ## Question 3: Prove `AM/AB = AN/AD`
 
@@ -744,14 +745,14 @@ So `ABCD` is a trapezium.
 
 The figure-dependent answers are:
 
-| Part | Result | Criterion |
-|---|---|---|
-| (i) | `triangle ABC ~ triangle PQR` | AAA |
-| (ii) | `triangle ABC ~ triangle QRP` | SSS |
-| (iii) | Not similar | Corresponding sides are not proportional. |
-| (iv) | `triangle MNL ~ triangle QPR` | SAS |
-| (v) | Not similar | Included angle/correspondence condition fails. |
-| (vi) | `triangle DEF ~ triangle PQR` | AAA |
+| Part  | Result                        | Criterion                                      |
+| ----- | ----------------------------- | ---------------------------------------------- |
+| (i)   | `triangle ABC ~ triangle PQR` | AAA                                            |
+| (ii)  | `triangle ABC ~ triangle QRP` | SSS                                            |
+| (iii) | Not similar                   | Corresponding sides are not proportional.      |
+| (iv)  | `triangle MNL ~ triangle QPR` | SAS                                            |
+| (v)   | Not similar                   | Included angle/correspondence condition fails. |
+| (vi)  | `triangle DEF ~ triangle PQR` | AAA                                            |
 
 ## Question 2: Find Angles
 
@@ -905,12 +906,12 @@ $$
 
 Use right angles and common/vertically opposite angles.
 
-| Part | Similar Triangles | Reason |
-|---|---|---|
-| (i) | `triangle AEP ~ triangle CDP` | Both have right angles and vertically opposite angle at `P`. |
-| (ii) | `triangle ABD ~ triangle CBE` | Both have right angles and share angle `B`. |
-| (iii) | `triangle AEP ~ triangle ADB` | Both have right angles and share angle at `A`. |
-| (iv) | `triangle PDC ~ triangle BEC` | Both have right angles and share angle at `C`. |
+| Part  | Similar Triangles             | Reason                                                       |
+| ----- | ----------------------------- | ------------------------------------------------------------ |
+| (i)   | `triangle AEP ~ triangle CDP` | Both have right angles and vertically opposite angle at `P`. |
+| (ii)  | `triangle ABD ~ triangle CBE` | Both have right angles and share angle `B`.                  |
+| (iii) | `triangle AEP ~ triangle ADB` | Both have right angles and share angle at `A`.               |
+| (iv)  | `triangle PDC ~ triangle BEC` | Both have right angles and share angle at `C`.               |
 
 ## Question 8: Parallelogram
 
@@ -1209,16 +1210,16 @@ $$
 
 # Unit 6J: Common Mistakes and Corrections
 
-| Mistake | Correct Understanding |
-|---|---|
-| Writing triangle similarity in the wrong order. | Match corresponding vertices carefully. |
-| Using BPT without a parallel line. | BPT needs a line parallel to one side of a triangle. |
-| Using converse BPT without equal ratios. | Converse needs proportional division of two sides. |
-| Thinking equal angles alone prove polygon similarity for all polygons. | For polygons generally, need equal angles and proportional sides. |
-| Forgetting triangles are special. | For triangles, AA alone is enough for similarity. |
-| Confusing congruent and similar. | Congruent means same shape and size; similar means same shape. |
-| Not justifying angle equality. | State reason: alternate angles, corresponding angles, vertically opposite angles, common angle, or right angle. |
-| Using side ratios without correspondence. | Compare matching sides only. |
+| Mistake                                                                | Correct Understanding                                                                                           |
+| ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| Writing triangle similarity in the wrong order.                        | Match corresponding vertices carefully.                                                                         |
+| Using BPT without a parallel line.                                     | BPT needs a line parallel to one side of a triangle.                                                            |
+| Using converse BPT without equal ratios.                               | Converse needs proportional division of two sides.                                                              |
+| Thinking equal angles alone prove polygon similarity for all polygons. | For polygons generally, need equal angles and proportional sides.                                               |
+| Forgetting triangles are special.                                      | For triangles, AA alone is enough for similarity.                                                               |
+| Confusing congruent and similar.                                       | Congruent means same shape and size; similar means same shape.                                                  |
+| Not justifying angle equality.                                         | State reason: alternate angles, corresponding angles, vertically opposite angles, common angle, or right angle. |
+| Using side ratios without correspondence.                              | Compare matching sides only.                                                                                    |
 
 ---
 
@@ -1226,28 +1227,28 @@ $$
 
 ## Similarity Criteria
 
-| Criterion | What to Check |
-|---|---|
-| AA/AAA | Two or three corresponding angles equal. |
-| SSS | Three pairs of corresponding sides proportional. |
-| SAS | Included angle equal and including sides proportional. |
+| Criterion | What to Check                                          |
+| --------- | ------------------------------------------------------ |
+| AA/AAA    | Two or three corresponding angles equal.               |
+| SSS       | Three pairs of corresponding sides proportional.       |
+| SAS       | Included angle equal and including sides proportional. |
 
 ## BPT vs Converse
 
-| Theorem | Given | Prove |
-|---|---|---|
-| BPT | Line parallel to one side | Two sides divided in same ratio |
-| Converse BPT | Two sides divided in same ratio | Line parallel to third side |
+| Theorem      | Given                           | Prove                           |
+| ------------ | ------------------------------- | ------------------------------- |
+| BPT          | Line parallel to one side       | Two sides divided in same ratio |
+| Converse BPT | Two sides divided in same ratio | Line parallel to third side     |
 
 ## Common Angle Reasons
 
-| Situation | Reason |
-|---|---|
-| Lines are parallel | Alternate/corresponding angles equal. |
-| Two lines intersect | Vertically opposite angles equal. |
-| Same angle appears in both triangles | Common angle. |
-| Altitudes or perpendiculars | Right angles equal. |
-| Isosceles triangle | Base angles equal. |
+| Situation                            | Reason                                |
+| ------------------------------------ | ------------------------------------- |
+| Lines are parallel                   | Alternate/corresponding angles equal. |
+| Two lines intersect                  | Vertically opposite angles equal.     |
+| Same angle appears in both triangles | Common angle.                         |
+| Altitudes or perpendiculars          | Right angles equal.                   |
+| Isosceles triangle                   | Base angles equal.                    |
 
 ---
 
@@ -1267,13 +1268,13 @@ Memorise:
 
 Practise:
 
-| Skill | Practice Method |
-|---|---|
-| BPT problems | Mark parallel line first, then write ratios. |
-| Converse BPT | Start from equal ratios, conclude parallelism. |
+| Skill             | Practice Method                                               |
+| ----------------- | ------------------------------------------------------------- |
+| BPT problems      | Mark parallel line first, then write ratios.                  |
+| Converse BPT      | Start from equal ratios, conclude parallelism.                |
 | Similarity proofs | List angle equalities or side ratios before naming criterion. |
-| Diagram questions | Redraw and mark equal angles/sides. |
-| Shadow problems | Form two right triangles and compare height/shadow. |
+| Diagram questions | Redraw and mark equal angles/sides.                           |
+| Shadow problems   | Form two right triangles and compare height/shadow.           |
 
 ## One-Page Chapter Summary
 

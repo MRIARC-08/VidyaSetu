@@ -1,4 +1,5 @@
 # Chapter 5: Three Dimensional Geometry
+
 ### NCERT Class 12 - Maths Part 2
 
 ## Chapter at a Glance
@@ -24,28 +25,28 @@ By the end of this chapter, learners should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Direction cosines | Cosines of angles made by a line with positive x, y, z axes. |
-| Direction ratios | Any three numbers proportional to direction cosines. |
-| Vector equation of line | Equation using position vector and direction vector. |
-| Cartesian equation of line | Symmetric coordinate form of a line. |
-| Skew lines | Lines in space that are neither parallel nor intersecting. |
-| Shortest distance | Length of common perpendicular between two lines. |
-| Coplanar lines | Lines lying in the same plane. |
+| Term                       | Meaning                                                      |
+| -------------------------- | ------------------------------------------------------------ |
+| Direction cosines          | Cosines of angles made by a line with positive x, y, z axes. |
+| Direction ratios           | Any three numbers proportional to direction cosines.         |
+| Vector equation of line    | Equation using position vector and direction vector.         |
+| Cartesian equation of line | Symmetric coordinate form of a line.                         |
+| Skew lines                 | Lines in space that are neither parallel nor intersecting.   |
+| Shortest distance          | Length of common perpendicular between two lines.            |
+| Coplanar lines             | Lines lying in the same plane.                               |
 
 ## Quick Formula Map
 
-| Concept | Formula |
-|---|---|
-| Direction cosine relation | `l^2 + m^2 + n^2 = 1` |
-| DC from DR `a,b,c` | `l=a/s`, `m=b/s`, `n=c/s`, where `s=sqrt(a^2+b^2+c^2)` |
-| Line through point `a` parallel to `b` | `r = a + lambda b` |
-| Cartesian line | `(x-x1)/a = (y-y1)/b = (z-z1)/c` |
-| Direction ratios from two points | `x2-x1`, `y2-y1`, `z2-z1` |
-| Angle between lines | `cos theta = |a1a2+b1b2+c1c2|/(sqrt(a1^2+b1^2+c1^2)sqrt(a2^2+b2^2+c2^2))` |
-| Shortest distance between skew lines | `|(a2-a1).(b1 x b2)|/|b1 x b2|` |
-| Distance between parallel lines | `|(a2-a1) x b|/|b|` |
+| Concept                                | Formula                                                |
+| -------------------------------------- | ------------------------------------------------------ | ----------------- | -------------------------------------------- | ------- | --- |
+| Direction cosine relation              | `l^2 + m^2 + n^2 = 1`                                  |
+| DC from DR `a,b,c`                     | `l=a/s`, `m=b/s`, `n=c/s`, where `s=sqrt(a^2+b^2+c^2)` |
+| Line through point `a` parallel to `b` | `r = a + lambda b`                                     |
+| Cartesian line                         | `(x-x1)/a = (y-y1)/b = (z-z1)/c`                       |
+| Direction ratios from two points       | `x2-x1`, `y2-y1`, `z2-z1`                              |
+| Angle between lines                    | `cos theta =                                           | a1a2+b1b2+c1c2    | /(sqrt(a1^2+b1^2+c1^2)sqrt(a2^2+b2^2+c2^2))` |
+| Shortest distance between skew lines   | `                                                      | (a2-a1).(b1 x b2) | /                                            | b1 x b2 | `   |
+| Distance between parallel lines        | `                                                      | (a2-a1) x b       | /                                            | b       | `   |
 
 # Unit 5A: Points in Three Dimensions
 
@@ -363,14 +364,14 @@ Write in this order:
 
 # Unit 5O: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
+| Mistake                                          | Correction                                                                    |
+| ------------------------------------------------ | ----------------------------------------------------------------------------- |
 | Confusing direction cosines and direction ratios | Direction cosines satisfy `l^2+m^2+n^2=1`; direction ratios are proportional. |
-| Forgetting to normalise direction ratios | Divide by `sqrt(a^2+b^2+c^2)`. |
-| Dividing by zero in Cartesian line equation | If direction ratio is zero, that coordinate is constant. |
-| Using point coordinates as direction ratios | Direction ratios between two points are differences of coordinates. |
-| Treating all non-parallel lines as intersecting | In 3D, non-parallel lines may be skew. |
-| Forgetting absolute value in shortest distance | Distance is non-negative. |
+| Forgetting to normalise direction ratios         | Divide by `sqrt(a^2+b^2+c^2)`.                                                |
+| Dividing by zero in Cartesian line equation      | If direction ratio is zero, that coordinate is constant.                      |
+| Using point coordinates as direction ratios      | Direction ratios between two points are differences of coordinates.           |
+| Treating all non-parallel lines as intersecting  | In 3D, non-parallel lines may be skew.                                        |
+| Forgetting absolute value in shortest distance   | Distance is non-negative.                                                     |
 
 ## Practice Set
 

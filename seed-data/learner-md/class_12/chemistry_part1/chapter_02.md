@@ -1,4 +1,5 @@
 # Chapter 2: Electrochemistry
+
 ### NCERT Class 12 - Chemistry Part 1
 
 ## Chapter at a Glance
@@ -25,32 +26,32 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Oxidation | Loss of electrons. |
-| Reduction | Gain of electrons. |
-| Anode | Electrode where oxidation occurs. |
-| Cathode | Electrode where reduction occurs. |
-| Galvanic cell | Cell that converts chemical energy into electrical energy. |
-| Electrolytic cell | Cell that uses electrical energy to drive non-spontaneous reaction. |
-| Electrode potential | Tendency of an electrode to lose or gain electrons. |
-| Standard electrode potential | Electrode potential measured under standard conditions. |
-| Cell potential | Difference between cathode and anode potentials. |
-| Conductivity | Conductance of a solution of unit length and unit cross-sectional area. |
-| Molar conductivity | Conductivity due to one mole of electrolyte. |
-| Faraday | Charge carried by one mole of electrons, about `96500 C mol^-1`. |
-| Corrosion | Slow destruction of metal by chemical or electrochemical reaction with environment. |
+| Term                         | Meaning                                                                             |
+| ---------------------------- | ----------------------------------------------------------------------------------- |
+| Oxidation                    | Loss of electrons.                                                                  |
+| Reduction                    | Gain of electrons.                                                                  |
+| Anode                        | Electrode where oxidation occurs.                                                   |
+| Cathode                      | Electrode where reduction occurs.                                                   |
+| Galvanic cell                | Cell that converts chemical energy into electrical energy.                          |
+| Electrolytic cell            | Cell that uses electrical energy to drive non-spontaneous reaction.                 |
+| Electrode potential          | Tendency of an electrode to lose or gain electrons.                                 |
+| Standard electrode potential | Electrode potential measured under standard conditions.                             |
+| Cell potential               | Difference between cathode and anode potentials.                                    |
+| Conductivity                 | Conductance of a solution of unit length and unit cross-sectional area.             |
+| Molar conductivity           | Conductivity due to one mole of electrolyte.                                        |
+| Faraday                      | Charge carried by one mole of electrons, about `96500 C mol^-1`.                    |
+| Corrosion                    | Slow destruction of metal by chemical or electrochemical reaction with environment. |
 
 ## Quick Learning Map
 
-| Area | Main idea | Core relation |
-|---|---|---|
-| Galvanic cell | Spontaneous redox gives current | `Ecell = Ecathode - Eanode` |
-| Thermodynamics | Electrical work links with Gibbs energy | `Delta G = -n F Ecell` |
-| Nernst equation | Concentration changes cell potential | `E = E0 - (0.0591/n) log Q` at 298 K |
-| Conductance | Ions carry current in solution | `kappa = G x cell constant` |
-| Molar conductivity | Conductivity per mole | `Lambda_m = kappa x 1000 / C` |
-| Electrolysis | Charge controls amount deposited | `Q = I t` |
+| Area               | Main idea                               | Core relation                        |
+| ------------------ | --------------------------------------- | ------------------------------------ |
+| Galvanic cell      | Spontaneous redox gives current         | `Ecell = Ecathode - Eanode`          |
+| Thermodynamics     | Electrical work links with Gibbs energy | `Delta G = -n F Ecell`               |
+| Nernst equation    | Concentration changes cell potential    | `E = E0 - (0.0591/n) log Q` at 298 K |
+| Conductance        | Ions carry current in solution          | `kappa = G x cell constant`          |
+| Molar conductivity | Conductivity per mole                   | `Lambda_m = kappa x 1000 / C`        |
+| Electrolysis       | Charge controls amount deposited        | `Q = I t`                            |
 
 # Unit 2A: Galvanic and Electrolytic Cells
 
@@ -72,25 +73,25 @@ The electrons move from zinc electrode to copper electrode through the external 
 
 ## Galvanic Cell Features
 
-| Feature | Galvanic cell |
-|---|---|
-| Energy conversion | Chemical to electrical |
-| Reaction | Spontaneous |
-| Anode sign | Negative |
-| Cathode sign | Positive |
-| Electron flow | Anode to cathode through wire |
-| Salt bridge | Maintains electrical neutrality |
+| Feature           | Galvanic cell                   |
+| ----------------- | ------------------------------- |
+| Energy conversion | Chemical to electrical          |
+| Reaction          | Spontaneous                     |
+| Anode sign        | Negative                        |
+| Cathode sign      | Positive                        |
+| Electron flow     | Anode to cathode through wire   |
+| Salt bridge       | Maintains electrical neutrality |
 
 ## Electrolytic Cell Features
 
-| Feature | Electrolytic cell |
-|---|---|
-| Energy conversion | Electrical to chemical |
-| Reaction | Non-spontaneous |
-| Anode sign | Positive |
-| Cathode sign | Negative |
-| Electron supply | External source |
-| Use | Electrolysis, electroplating, extraction |
+| Feature           | Electrolytic cell                        |
+| ----------------- | ---------------------------------------- |
+| Energy conversion | Electrical to chemical                   |
+| Reaction          | Non-spontaneous                          |
+| Anode sign        | Positive                                 |
+| Cathode sign      | Negative                                 |
+| Electron supply   | External source                          |
+| Use               | Electrolysis, electroplating, extraction |
 
 Remember: oxidation is always at anode and reduction is always at cathode. The signs change between galvanic and electrolytic cells, but the definitions do not.
 
@@ -186,13 +187,13 @@ At 298 K:
 
 ## Interpretation
 
-| Condition | Meaning |
-|---|---|
-| `Ecell > 0` | Spontaneous cell reaction. |
-| `Ecell = 0` | Equilibrium. |
-| `Ecell < 0` | Non-spontaneous in written direction. |
-| Large `K` | Products strongly favoured. |
-| Positive `E0cell` | Negative `Delta G0`. |
+| Condition         | Meaning                               |
+| ----------------- | ------------------------------------- |
+| `Ecell > 0`       | Spontaneous cell reaction.            |
+| `Ecell = 0`       | Equilibrium.                          |
+| `Ecell < 0`       | Non-spontaneous in written direction. |
+| Large `K`         | Products strongly favoured.           |
+| Positive `E0cell` | Negative `Delta G0`.                  |
 
 # Unit 2F: Conductance of Electrolytic Solutions
 
@@ -356,25 +357,25 @@ Further oxidation and hydration form rust, commonly represented as hydrated ferr
 
 ## Prevention of Corrosion
 
-| Method | Idea |
-|---|---|
-| Painting | Blocks contact with air and moisture. |
-| Galvanisation | Zinc protects iron by acting as sacrificial metal. |
-| Cathodic protection | Iron is made cathode so it does not oxidise. |
-| Alloying | Stainless steel resists corrosion better. |
-| Oiling or greasing | Prevents direct contact with moisture and oxygen. |
+| Method              | Idea                                               |
+| ------------------- | -------------------------------------------------- |
+| Painting            | Blocks contact with air and moisture.              |
+| Galvanisation       | Zinc protects iron by acting as sacrificial metal. |
+| Cathodic protection | Iron is made cathode so it does not oxidise.       |
+| Alloying            | Stainless steel resists corrosion better.          |
+| Oiling or greasing  | Prevents direct contact with moisture and oxygen.  |
 
 # Unit 2N: Problem-Solving Toolkit
 
-| Question type | First step |
-|---|---|
-| Find cell potential | Identify cathode and anode. |
-| Nernst equation | Write balanced reaction and `Q`. |
-| Gibbs energy | Use `Delta G = -nFE`. |
-| Equilibrium constant | Use `E0 = (0.0591/n) log K`. |
-| Conductivity | Check unit of concentration and cell constant. |
-| Electrolysis mass | Convert time to seconds and use `Q = It`. |
-| Product prediction | Compare ions, water, electrode, and concentration. |
+| Question type        | First step                                         |
+| -------------------- | -------------------------------------------------- |
+| Find cell potential  | Identify cathode and anode.                        |
+| Nernst equation      | Write balanced reaction and `Q`.                   |
+| Gibbs energy         | Use `Delta G = -nFE`.                              |
+| Equilibrium constant | Use `E0 = (0.0591/n) log K`.                       |
+| Conductivity         | Check unit of concentration and cell constant.     |
+| Electrolysis mass    | Convert time to seconds and use `Q = It`.          |
+| Product prediction   | Compare ions, water, electrode, and concentration. |
 
 # Unit 2O: High-Quality Answer Framework
 
@@ -396,14 +397,14 @@ For an electrolysis answer:
 
 # Unit 2P: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Thinking anode is always positive | Anode is oxidation; sign depends on cell type. |
-| Reversing cell potential formula | Use cathode minus anode for reduction potentials. |
-| Forgetting to balance electrons in Nernst equation | `n` must come from balanced redox reaction. |
-| Using concentration of solids in `Q` | Pure solids and liquids are not included in `Q`. |
-| Confusing conductivity and molar conductivity | Conductivity is per unit volume; molar conductivity is per mole. |
-| Forgetting time conversion in electrolysis | Use seconds in `Q = It`. |
+| Mistake                                            | Correction                                                       |
+| -------------------------------------------------- | ---------------------------------------------------------------- |
+| Thinking anode is always positive                  | Anode is oxidation; sign depends on cell type.                   |
+| Reversing cell potential formula                   | Use cathode minus anode for reduction potentials.                |
+| Forgetting to balance electrons in Nernst equation | `n` must come from balanced redox reaction.                      |
+| Using concentration of solids in `Q`               | Pure solids and liquids are not included in `Q`.                 |
+| Confusing conductivity and molar conductivity      | Conductivity is per unit volume; molar conductivity is per mole. |
+| Forgetting time conversion in electrolysis         | Use seconds in `Q = It`.                                         |
 
 ## Practice Set
 

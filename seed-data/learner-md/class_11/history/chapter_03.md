@@ -51,48 +51,48 @@ After studying this chapter, you should be able to:
 
 ## Chapter Snapshot
 
-| Area | What To Remember |
-|---|---|
-| Main focus | Mongol empire and the making of a nomadic imperial system |
-| Main region | Central Asian steppe, Mongolia, China, Iran, Russia, eastern Europe |
-| Key founder | Temujin, later Genghis Khan |
-| Key date | 1206, when Temujin was proclaimed Great Khan |
-| Society | Pastoralists, hunter-gatherers, lineages, tribal alliances |
-| Economy | Herding, hunting, fur trade, barter, tribute, taxes, trade routes |
-| Military base | Cavalry, horse archery, mobility, discipline, siege adaptation |
-| Main organisation | Decimal military units and redistributed tribes |
-| Communication | Yam courier system, paiza or gerege passes |
-| Empire idea | Universal dominion under the authority of Eternal Heaven |
-| Major tension | Pastoral needs versus settled agricultural production |
-| Major outcome | A vast Eurasian empire that later split into several dynastic zones |
+| Area               | What To Remember                                                       |
+| ------------------ | ---------------------------------------------------------------------- |
+| Main focus         | Mongol empire and the making of a nomadic imperial system              |
+| Main region        | Central Asian steppe, Mongolia, China, Iran, Russia, eastern Europe    |
+| Key founder        | Temujin, later Genghis Khan                                            |
+| Key date           | 1206, when Temujin was proclaimed Great Khan                           |
+| Society            | Pastoralists, hunter-gatherers, lineages, tribal alliances             |
+| Economy            | Herding, hunting, fur trade, barter, tribute, taxes, trade routes      |
+| Military base      | Cavalry, horse archery, mobility, discipline, siege adaptation         |
+| Main organisation  | Decimal military units and redistributed tribes                        |
+| Communication      | Yam courier system, paiza or gerege passes                             |
+| Empire idea        | Universal dominion under the authority of Eternal Heaven               |
+| Major tension      | Pastoral needs versus settled agricultural production                  |
+| Major outcome      | A vast Eurasian empire that later split into several dynastic zones    |
 | Historical problem | Many written accounts come from outsiders and defeated urban societies |
 
 ## Big Picture Timeline
 
-| Date Or Period | Event |
-|---|---|
-| c. 1162 | Birth of Temujin near the Onon river |
-| 1160s to 1170s | Years of hardship, enslavement, and struggle |
-| 1180s to 1190s | Temujin builds alliances and defeats rivals |
-| 1203 | Temujin defeats important rivals such as the Kereyits |
-| 1206 | Temujin is proclaimed Genghis Khan at a quriltai |
-| 1209 | Hsi Hsia are defeated |
-| 1213 | Great Wall is breached |
-| 1215 | Peking is sacked |
-| 1218 | Qara Khitai are defeated |
-| 1219 to 1221 | Campaigns against Khwarazm and Transoxiana |
-| 1227 | Death of Genghis Khan |
-| 1227 to 1260 | Continued unity under the first Great Khans after Genghis Khan |
-| 1236 to 1242 | Major campaigns in Russia, Poland, Hungary, and nearby regions |
-| 1258 | Baghdad is captured and Abbasid rule there ends |
-| 1260 | Qubilai Khan becomes Grand Khan; empire begins sharper fragmentation |
-| 1279 | South China is brought under Mongol rule |
-| 1295 to 1304 | Ghazan Khan rules in Iran and converts to Islam |
-| 1368 | Yuan dynasty ends in China |
-| 1370 to 1405 | Timur builds a later steppe empire and claims connection to Genghis Khan's line |
-| 1495 to 1530 | Babur, linked to Timur and Genghis Khan, founds Mughal rule in India |
-| 1759 | Manchus conquer Mongolia |
-| 1921 | Republic of Mongolia begins |
+| Date Or Period | Event                                                                           |
+| -------------- | ------------------------------------------------------------------------------- |
+| c. 1162        | Birth of Temujin near the Onon river                                            |
+| 1160s to 1170s | Years of hardship, enslavement, and struggle                                    |
+| 1180s to 1190s | Temujin builds alliances and defeats rivals                                     |
+| 1203           | Temujin defeats important rivals such as the Kereyits                           |
+| 1206           | Temujin is proclaimed Genghis Khan at a quriltai                                |
+| 1209           | Hsi Hsia are defeated                                                           |
+| 1213           | Great Wall is breached                                                          |
+| 1215           | Peking is sacked                                                                |
+| 1218           | Qara Khitai are defeated                                                        |
+| 1219 to 1221   | Campaigns against Khwarazm and Transoxiana                                      |
+| 1227           | Death of Genghis Khan                                                           |
+| 1227 to 1260   | Continued unity under the first Great Khans after Genghis Khan                  |
+| 1236 to 1242   | Major campaigns in Russia, Poland, Hungary, and nearby regions                  |
+| 1258           | Baghdad is captured and Abbasid rule there ends                                 |
+| 1260           | Qubilai Khan becomes Grand Khan; empire begins sharper fragmentation            |
+| 1279           | South China is brought under Mongol rule                                        |
+| 1295 to 1304   | Ghazan Khan rules in Iran and converts to Islam                                 |
+| 1368           | Yuan dynasty ends in China                                                      |
+| 1370 to 1405   | Timur builds a later steppe empire and claims connection to Genghis Khan's line |
+| 1495 to 1530   | Babur, linked to Timur and Genghis Khan, founds Mughal rule in India            |
+| 1759           | Manchus conquer Mongolia                                                        |
+| 1921           | Republic of Mongolia begins                                                     |
 
 ## How To Read This Chapter
 
@@ -187,10 +187,10 @@ It also made large permanent cities difficult.
 
 ## 4. Pastoralists And Hunter-Gatherers
 
-| Group | Main Features |
-|---|---|
-| Pastoralists | Tended horses, sheep, cattle, goats, and camels; moved between pastures |
-| Hunter-gatherers | Lived more in forest regions; trapped animals and traded furs |
+| Group            | Main Features                                                           |
+| ---------------- | ----------------------------------------------------------------------- |
+| Pastoralists     | Tended horses, sheep, cattle, goats, and camels; moved between pastures |
+| Hunter-gatherers | Lived more in forest regions; trapped animals and traded furs           |
 
 Pastoralists were generally wealthier than hunter-gatherers because herds could accumulate and reproduce.
 
@@ -242,11 +242,11 @@ The relationship involved both trade and conflict.
 
 ### Trade Between Steppe And China
 
-| Nomads Offered | Settled Societies Offered |
-|---|---|
-| Horses | Grain |
-| Furs | Iron utensils |
-| Game products | Manufactured goods |
+| Nomads Offered    | Settled Societies Offered        |
+| ----------------- | -------------------------------- |
+| Horses            | Grain                            |
+| Furs              | Iron utensils                    |
+| Game products     | Manufactured goods               |
 | Military pressure | Luxury and agricultural products |
 
 This trade was mutually useful.
@@ -456,16 +456,16 @@ The Mongols were successful because of a combination of steppe skills and flexib
 
 ### Core Strengths
 
-| Strength | Explanation |
-|---|---|
-| Horse riding | Rapid movement across long distances |
-| Mounted archery | Attack while moving |
-| Light cavalry | Speed and flexibility |
-| Discipline | Units followed command structures |
-| Intelligence | Knowledge of terrain, weather, routes, and enemies |
-| Winter campaigning | Frozen rivers could become routes |
-| Siege adaptation | Learned to use siege engines and bombardment |
-| Psychological warfare | Fear encouraged surrender |
+| Strength              | Explanation                                        |
+| --------------------- | -------------------------------------------------- |
+| Horse riding          | Rapid movement across long distances               |
+| Mounted archery       | Attack while moving                                |
+| Light cavalry         | Speed and flexibility                              |
+| Discipline            | Units followed command structures                  |
+| Intelligence          | Knowledge of terrain, weather, routes, and enemies |
+| Winter campaigning    | Frozen rivers could become routes                  |
+| Siege adaptation      | Learned to use siege engines and bombardment       |
+| Psychological warfare | Fear encouraged surrender                          |
 
 The Mongols did not rely only on traditional steppe tactics.
 
@@ -497,10 +497,10 @@ His successors continued campaigns in several directions.
 
 ### Two Broad Phases After His Death
 
-| Phase | Main Direction |
-|---|---|
+| Phase        | Main Direction                                  |
+| ------------ | ----------------------------------------------- |
 | 1236 to 1242 | Russian steppes, Bulghar, Kiev, Poland, Hungary |
-| 1255 to 1300 | China, Iran, Iraq, Syria |
+| 1255 to 1300 | China, Iran, Iraq, Syria                        |
 
 The Mongols reached deep into eastern Europe and West Asia.
 
@@ -516,13 +516,13 @@ Several factors slowed or redirected it.
 
 ### Major Limits
 
-| Limit | Explanation |
-|---|---|
-| Succession politics | Rival branches of Genghis Khan's family competed |
-| Need to focus on China | Resources were drawn eastward |
-| Defeat in the west | Egyptian forces checked Mongol advance in West Asia |
-| Internal fragmentation | Different lineages began acting independently |
-| Distance | Communication and supply across Eurasia became difficult |
+| Limit                  | Explanation                                              |
+| ---------------------- | -------------------------------------------------------- |
+| Succession politics    | Rival branches of Genghis Khan's family competed         |
+| Need to focus on China | Resources were drawn eastward                            |
+| Defeat in the west     | Egyptian forces checked Mongol advance in West Asia      |
+| Internal fragmentation | Different lineages began acting independently            |
+| Distance               | Communication and supply across Eurasia became difficult |
 
 The empire was vast, but its ruling family was not always united.
 
@@ -542,12 +542,12 @@ This weakened older loyalties and strengthened loyalty to the Great Khan.
 
 The Mongol army was organised in decimal units.
 
-| Unit Size | Meaning |
-|---|---|
-| 10 | Smallest basic grouping |
-| 100 | Larger grouping |
-| 1,000 | Major military grouping |
-| 10,000 | Tuman, a large unit |
+| Unit Size | Meaning                 |
+| --------- | ----------------------- |
+| 10        | Smallest basic grouping |
+| 100       | Larger grouping         |
+| 1,000     | Major military grouping |
+| 10,000    | Tuman, a large unit     |
 
 The decimal system made command clearer.
 
@@ -565,13 +565,13 @@ This created a new elite.
 
 ### Important Terms
 
-| Term | Meaning |
-|---|---|
-| Noyan | Chosen commanders of army units |
-| Anda | Blood-brother or sworn close ally |
-| Naukar | Personal follower or bondsman tied closely to the ruler |
-| Tuman | Military unit of around 10,000 soldiers |
-| Quriltai | Assembly of chieftains |
+| Term     | Meaning                                                 |
+| -------- | ------------------------------------------------------- |
+| Noyan    | Chosen commanders of army units                         |
+| Anda     | Blood-brother or sworn close ally                       |
+| Naukar   | Personal follower or bondsman tied closely to the ruler |
+| Tuman    | Military unit of around 10,000 soldiers                 |
+| Quriltai | Assembly of chieftains                                  |
 
 This new hierarchy helped Genghis Khan control the Mongol confederation.
 
@@ -587,12 +587,12 @@ At first, ulus did not mean a fixed territory with hard boundaries.
 
 It meant a share of people, responsibilities, pastures, and expanding domains.
 
-| Son | Associated Region Or Role |
-|---|---|
-| Jochi | Russian steppes and western direction |
-| Chaghatai | Transoxiana and lands near the Pamirs |
-| Ogodei | Successor as Great Khan; capital at Karakorum |
-| Toluy | Ancestral Mongol lands |
+| Son       | Associated Region Or Role                     |
+| --------- | --------------------------------------------- |
+| Jochi     | Russian steppes and western direction         |
+| Chaghatai | Transoxiana and lands near the Pamirs         |
+| Ogodei    | Successor as Great Khan; capital at Karakorum |
+| Toluy     | Ancestral Mongol lands                        |
 
 The idea was collective family rule.
 
@@ -635,12 +635,12 @@ It also helped merchants and envoys travel more securely.
 
 ## 28. Qubcur, Paiza, Gerege, And Baj
 
-| Term | Meaning |
-|---|---|
+| Term   | Meaning                                                                 |
+| ------ | ----------------------------------------------------------------------- |
 | Qubcur | Levy from nomads, often a tenth of herds, used to support communication |
-| Paiza | Persian term for pass used for safe conduct |
-| Gerege | Mongolian term for pass used for safe conduct |
-| Baj | Tax paid by traders for protection and recognition of Mongol authority |
+| Paiza  | Persian term for pass used for safe conduct                             |
+| Gerege | Mongolian term for pass used for safe conduct                           |
+| Baj    | Tax paid by traders for protection and recognition of Mongol authority  |
 
 These terms show that the Mongol empire was not only a conquering force.
 
@@ -670,13 +670,13 @@ It meant that once Mongol authority was established, routes across Eurasia becam
 
 ### Effects Of Pax Mongolica
 
-| Area | Effect |
-|---|---|
-| Trade | Silk Route commerce expanded |
-| Travel | Envoys, merchants, and religious figures moved over long distances |
-| Communication | Yam system linked distant regions |
-| Cultural exchange | Ideas, goods, technologies, and people moved across Eurasia |
-| Political authority | Trade routes acknowledged Mongol power |
+| Area                | Effect                                                             |
+| ------------------- | ------------------------------------------------------------------ |
+| Trade               | Silk Route commerce expanded                                       |
+| Travel              | Envoys, merchants, and religious figures moved over long distances |
+| Communication       | Yam system linked distant regions                                  |
+| Cultural exchange   | Ideas, goods, technologies, and people moved across Eurasia        |
+| Political authority | Trade routes acknowledged Mongol power                             |
 
 The Silk Route no longer simply ended in China.
 
@@ -761,12 +761,12 @@ Competition among descendants of Genghis Khan increased.
 
 ### Major Successor Lines
 
-| Line Or Dynasty | Region |
-|---|---|
-| Yuan | China, ruled by descendants of Toluy |
-| Il-Khanid | Iran, ruled by descendants of Toluy |
-| Golden Horde | Russian steppes, linked to Jochi |
-| Chaghatai line | Transoxiana and Turkistan |
+| Line Or Dynasty | Region                               |
+| --------------- | ------------------------------------ |
+| Yuan            | China, ruled by descendants of Toluy |
+| Il-Khanid       | Iran, ruled by descendants of Toluy  |
+| Golden Horde    | Russian steppes, linked to Jochi     |
+| Chaghatai line  | Transoxiana and Turkistan            |
 
 Nomadic traditions lasted longest in the steppe zones of Central Asia and Russia.
 
@@ -910,99 +910,99 @@ The same historical figure can be remembered differently depending on political 
 
 ## 43. Key Terms
 
-| Term | Meaning |
-|---|---|
-| Nomad | A person or group with a mobile way of life, often moving with herds |
-| Pastoralist | A herder who depends on animals such as horses, sheep, goats, cattle, or camels |
-| Hunter-gatherer | A person or group living by hunting, trapping, gathering, and related trade |
-| Steppe | Grassland zone of Central Asia |
-| Ger | Portable Mongol tent |
-| Patrilineal | Descent traced through the male line |
-| Confederacy | Alliance of groups, often temporary before Genghis Khan |
-| Quriltai | Assembly of chieftains |
-| Genghis Khan | Title of Temujin after 1206, meaning a universal or oceanic ruler |
-| Tuman | Military unit of around 10,000 soldiers |
-| Noyan | Commander chosen by Genghis Khan |
-| Anda | Blood-brother or sworn ally |
-| Naukar | Personal follower or bondsman |
-| Ulus | Share of people, territory, and responsibility assigned to a branch of the ruling family |
-| Yam | Mongol courier and relay system |
-| Qubcur | Levy used to maintain the communication system |
-| Paiza | Pass for safe travel, Persian term |
-| Gerege | Pass for safe travel, Mongolian term |
-| Baj | Tax paid by traders for protection and recognition of Mongol authority |
-| Pax Mongolica | Period of relative order and expanded trade under Mongol power |
-| Qanat | Underground canal used for irrigation in arid regions |
-| Yasaq | Early term meaning law, decree, or order |
-| Yasa | Later term associated with Genghis Khan's law or sacred code |
+| Term            | Meaning                                                                                  |
+| --------------- | ---------------------------------------------------------------------------------------- |
+| Nomad           | A person or group with a mobile way of life, often moving with herds                     |
+| Pastoralist     | A herder who depends on animals such as horses, sheep, goats, cattle, or camels          |
+| Hunter-gatherer | A person or group living by hunting, trapping, gathering, and related trade              |
+| Steppe          | Grassland zone of Central Asia                                                           |
+| Ger             | Portable Mongol tent                                                                     |
+| Patrilineal     | Descent traced through the male line                                                     |
+| Confederacy     | Alliance of groups, often temporary before Genghis Khan                                  |
+| Quriltai        | Assembly of chieftains                                                                   |
+| Genghis Khan    | Title of Temujin after 1206, meaning a universal or oceanic ruler                        |
+| Tuman           | Military unit of around 10,000 soldiers                                                  |
+| Noyan           | Commander chosen by Genghis Khan                                                         |
+| Anda            | Blood-brother or sworn ally                                                              |
+| Naukar          | Personal follower or bondsman                                                            |
+| Ulus            | Share of people, territory, and responsibility assigned to a branch of the ruling family |
+| Yam             | Mongol courier and relay system                                                          |
+| Qubcur          | Levy used to maintain the communication system                                           |
+| Paiza           | Pass for safe travel, Persian term                                                       |
+| Gerege          | Pass for safe travel, Mongolian term                                                     |
+| Baj             | Tax paid by traders for protection and recognition of Mongol authority                   |
+| Pax Mongolica   | Period of relative order and expanded trade under Mongol power                           |
+| Qanat           | Underground canal used for irrigation in arid regions                                    |
+| Yasaq           | Early term meaning law, decree, or order                                                 |
+| Yasa            | Later term associated with Genghis Khan's law or sacred code                             |
 
 ## 44. Major People
 
-| Person | Importance |
-|---|---|
-| Temujin | Birth name of Genghis Khan |
-| Genghis Khan | Founder of Mongol imperial power |
-| Yesugei | Temujin's father |
-| Oelun-eke | Temujin's mother |
-| Borte | Temujin's wife |
-| Boghurchu | Early loyal ally of Temujin |
-| Jamuqa | Blood-brother turned rival |
-| Tughril or Ong Khan | Kereyit ruler and early ally |
-| Jochi | Eldest son, associated with western ulus |
-| Chaghatai | Son associated with Transoxiana |
-| Ogodei | Son and successor as Great Khan |
-| Toluy | Youngest son, associated with ancestral lands |
-| Batu | Jochi's son, led campaigns in Russia and eastern Europe |
-| Mongke | Great Khan who renewed campaigns in Iran and China |
-| Qubilai Khan | Mongol ruler of China and founder of Yuan rule |
-| Hulegu | Mongol leader linked with the Il-Khanid state in Iran |
-| Ghazan Khan | Il-Khanid ruler who converted to Islam and protected peasant revenue |
-| Yeh-lu Ch'u-ts'ai | Chinese administrator who influenced Mongol policy |
-| Juwaini | Persian chronicler connected to Mongol Iran |
-| Rashiduddin | Persian wazir and historian in Il-Khanid Iran |
-| Timur | Later ruler who sought legitimacy through Genghis Khanid connection |
-| Babur | Founder of Mughal rule in India, linked to Timur and Genghis Khan |
+| Person              | Importance                                                           |
+| ------------------- | -------------------------------------------------------------------- |
+| Temujin             | Birth name of Genghis Khan                                           |
+| Genghis Khan        | Founder of Mongol imperial power                                     |
+| Yesugei             | Temujin's father                                                     |
+| Oelun-eke           | Temujin's mother                                                     |
+| Borte               | Temujin's wife                                                       |
+| Boghurchu           | Early loyal ally of Temujin                                          |
+| Jamuqa              | Blood-brother turned rival                                           |
+| Tughril or Ong Khan | Kereyit ruler and early ally                                         |
+| Jochi               | Eldest son, associated with western ulus                             |
+| Chaghatai           | Son associated with Transoxiana                                      |
+| Ogodei              | Son and successor as Great Khan                                      |
+| Toluy               | Youngest son, associated with ancestral lands                        |
+| Batu                | Jochi's son, led campaigns in Russia and eastern Europe              |
+| Mongke              | Great Khan who renewed campaigns in Iran and China                   |
+| Qubilai Khan        | Mongol ruler of China and founder of Yuan rule                       |
+| Hulegu              | Mongol leader linked with the Il-Khanid state in Iran                |
+| Ghazan Khan         | Il-Khanid ruler who converted to Islam and protected peasant revenue |
+| Yeh-lu Ch'u-ts'ai   | Chinese administrator who influenced Mongol policy                   |
+| Juwaini             | Persian chronicler connected to Mongol Iran                          |
+| Rashiduddin         | Persian wazir and historian in Il-Khanid Iran                        |
+| Timur               | Later ruler who sought legitimacy through Genghis Khanid connection  |
+| Babur               | Founder of Mughal rule in India, linked to Timur and Genghis Khan    |
 
 ## 45. Places To Know
 
-| Place | Importance |
-|---|---|
-| Mongolia | Core steppe homeland of the Mongols |
-| Onon river | Region associated with Temujin's birth |
-| Selenga river | Important river in Mongol homeland |
-| Altai mountains | Western mountain zone near Mongol steppe |
-| Gobi desert | Southern arid frontier of Mongol homeland |
-| Karakorum | Capital associated with Ogodei and Mongol power |
-| Peking | North Chinese city sacked in 1215 |
-| Transoxiana | Region attacked during campaigns against Khwarazm |
-| Khwarazm | State whose conflict with Mongols led to major campaigns |
-| Bukhara | City captured by Mongols |
-| Samarqand | Major Central Asian city |
-| Nishapur | City associated with severe Mongol devastation |
-| Herat | Major city affected by campaigns |
-| Baghdad | Captured in 1258 |
-| Russia | Region of western Mongol campaigns |
-| Hungary and Poland | Reached in campaigns under Batu |
-| China | Major region of Mongol conquest and Yuan rule |
-| Iran | Major region of Il-Khanid rule |
+| Place              | Importance                                               |
+| ------------------ | -------------------------------------------------------- |
+| Mongolia           | Core steppe homeland of the Mongols                      |
+| Onon river         | Region associated with Temujin's birth                   |
+| Selenga river      | Important river in Mongol homeland                       |
+| Altai mountains    | Western mountain zone near Mongol steppe                 |
+| Gobi desert        | Southern arid frontier of Mongol homeland                |
+| Karakorum          | Capital associated with Ogodei and Mongol power          |
+| Peking             | North Chinese city sacked in 1215                        |
+| Transoxiana        | Region attacked during campaigns against Khwarazm        |
+| Khwarazm           | State whose conflict with Mongols led to major campaigns |
+| Bukhara            | City captured by Mongols                                 |
+| Samarqand          | Major Central Asian city                                 |
+| Nishapur           | City associated with severe Mongol devastation           |
+| Herat              | Major city affected by campaigns                         |
+| Baghdad            | Captured in 1258                                         |
+| Russia             | Region of western Mongol campaigns                       |
+| Hungary and Poland | Reached in campaigns under Batu                          |
+| China              | Major region of Mongol conquest and Yuan rule            |
+| Iran               | Major region of Il-Khanid rule                           |
 
 ## 46. Cause And Effect Map
 
-| Cause | Effect |
-|---|---|
-| Harsh steppe ecology | Mobile pastoral life and competition for pasture |
-| Scarce resources | Trade, raiding, and alliances with or against settled societies |
-| Temujin's hardships | Strong emphasis on loyalty, discipline, and alliances |
-| Quriltai of 1206 | Temujin becomes Genghis Khan and reorganises Mongols |
-| Decimal military system | Old tribal loyalties weakened, central control strengthened |
-| Horse archery and mobility | Rapid conquest across vast territories |
-| Execution of Mongol envoys | War against Khwarazm |
-| Destruction of cities | Fear and surrender, but also long-term damage |
-| Conquest of settled societies | Need for administrators and revenue systems |
-| Yam system | Faster communication and control |
-| Pax Mongolica | Expanded trade and travel across Eurasia |
-| Succession rivalries | Fragmentation into successor dynasties |
-| Minority Mongol rule | Need for yasa, identity, and legitimacy |
+| Cause                         | Effect                                                          |
+| ----------------------------- | --------------------------------------------------------------- |
+| Harsh steppe ecology          | Mobile pastoral life and competition for pasture                |
+| Scarce resources              | Trade, raiding, and alliances with or against settled societies |
+| Temujin's hardships           | Strong emphasis on loyalty, discipline, and alliances           |
+| Quriltai of 1206              | Temujin becomes Genghis Khan and reorganises Mongols            |
+| Decimal military system       | Old tribal loyalties weakened, central control strengthened     |
+| Horse archery and mobility    | Rapid conquest across vast territories                          |
+| Execution of Mongol envoys    | War against Khwarazm                                            |
+| Destruction of cities         | Fear and surrender, but also long-term damage                   |
+| Conquest of settled societies | Need for administrators and revenue systems                     |
+| Yam system                    | Faster communication and control                                |
+| Pax Mongolica                 | Expanded trade and travel across Eurasia                        |
+| Succession rivalries          | Fragmentation into successor dynasties                          |
+| Minority Mongol rule          | Need for yasa, identity, and legitimacy                         |
 
 ## 47. Mongol Empire As A System
 
@@ -1034,39 +1034,39 @@ Genghis Khan's divine mandate and later yasa traditions gave legitimacy.
 
 ## 48. Common Misconceptions
 
-| Misconception | Correct Understanding |
-|---|---|
-| Nomads could not create empires | The Mongols created one of the largest empires in world history |
+| Misconception                                | Correct Understanding                                                       |
+| -------------------------------------------- | --------------------------------------------------------------------------- |
+| Nomads could not create empires              | The Mongols created one of the largest empires in world history             |
 | Mongols were isolated from settled societies | They traded and fought with China and other settled societies for centuries |
-| Mongol success was only due to brutality | Mobility, organisation, intelligence, discipline, and adaptation mattered |
-| Genghis Khan only destroyed cities | He also unified Mongols and created durable political institutions |
-| The Mongol empire stayed united forever | It fragmented into Yuan, Il-Khanid, Golden Horde, and Chaghatai zones |
-| Yasa was simply a fixed written code | It was also a later ideology of identity and legitimacy |
-| Pax Mongolica means peaceful origins | It refers to order and connectivity after conquest, not absence of violence |
-| All accounts of Mongols are neutral | Many were written by outsiders, enemies, or administrators with agendas |
+| Mongol success was only due to brutality     | Mobility, organisation, intelligence, discipline, and adaptation mattered   |
+| Genghis Khan only destroyed cities           | He also unified Mongols and created durable political institutions          |
+| The Mongol empire stayed united forever      | It fragmented into Yuan, Il-Khanid, Golden Horde, and Chaghatai zones       |
+| Yasa was simply a fixed written code         | It was also a later ideology of identity and legitimacy                     |
+| Pax Mongolica means peaceful origins         | It refers to order and connectivity after conquest, not absence of violence |
+| All accounts of Mongols are neutral          | Many were written by outsiders, enemies, or administrators with agendas     |
 
 ## 49. Comparison: Nomadic And Sedentary Worlds
 
-| Feature | Nomadic Steppe World | Sedentary Agrarian World |
-|---|---|---|
-| Economy | Herding, hunting, mobile exchange | Farming, cities, crafts, taxation |
-| Settlement | Gers and seasonal movement | Villages, towns, cities |
-| Wealth | Animals, pasture, followers | Land, crops, taxes, trade goods |
-| Military strength | Mobility and cavalry | Fortifications, infantry, siege resources |
-| Political structure | Lineage and confederacy | Bureaucracy and territorial states |
-| Vulnerability | Harsh climate and pasture scarcity | Raids, siege, tax pressure, crop failure |
-| Advantage | Mobility and adaptability | Stable production and record keeping |
+| Feature             | Nomadic Steppe World               | Sedentary Agrarian World                  |
+| ------------------- | ---------------------------------- | ----------------------------------------- |
+| Economy             | Herding, hunting, mobile exchange  | Farming, cities, crafts, taxation         |
+| Settlement          | Gers and seasonal movement         | Villages, towns, cities                   |
+| Wealth              | Animals, pasture, followers        | Land, crops, taxes, trade goods           |
+| Military strength   | Mobility and cavalry               | Fortifications, infantry, siege resources |
+| Political structure | Lineage and confederacy            | Bureaucracy and territorial states        |
+| Vulnerability       | Harsh climate and pasture scarcity | Raids, siege, tax pressure, crop failure  |
+| Advantage           | Mobility and adaptability          | Stable production and record keeping      |
 
 ## 50. Comparison: Genghis Khan And Later Mongol Rulers
 
-| Feature | Genghis Khan's Phase | Later Mongol Rulers |
-|---|---|---|
-| Main task | Unify steppe and conquer | Govern large settled societies |
-| Strategy | Military discipline and rapid expansion | Revenue, administration, and legitimacy |
-| Relationship with peasants | Often destructive during conquest | Increasingly protective for tax stability |
-| Political identity | Founder and universal ruler | Descendants using founder's prestige |
-| Legal memory | Orders and customs | Yasa as sacred law and identity |
-| Main challenge | Defeat rivals | Manage diversity and succession |
+| Feature                    | Genghis Khan's Phase                    | Later Mongol Rulers                       |
+| -------------------------- | --------------------------------------- | ----------------------------------------- |
+| Main task                  | Unify steppe and conquer                | Govern large settled societies            |
+| Strategy                   | Military discipline and rapid expansion | Revenue, administration, and legitimacy   |
+| Relationship with peasants | Often destructive during conquest       | Increasingly protective for tax stability |
+| Political identity         | Founder and universal ruler             | Descendants using founder's prestige      |
+| Legal memory               | Orders and customs                      | Yasa as sacred law and identity           |
+| Main challenge             | Defeat rivals                           | Manage diversity and succession           |
 
 ## 51. Practice Prompts For Understanding
 
@@ -1194,25 +1194,25 @@ Yasa was the later term associated with the law or sacred code of Genghis Khan. 
 
 ## 54. Revision Table
 
-| If Asked About | Write About |
-|---|---|
-| Nomadic empire | Mobility plus imperial rule |
-| Mongol environment | Steppe, pasture, harsh climate, mobility |
-| Mongol society | Pastoralists, hunter-gatherers, lineages |
-| China-steppe relations | Trade, barter, raids, Great Wall |
-| Temujin | Hardship, alliances, rivals, 1206 quriltai |
-| Genghis Khan's title | Great Khan, universal rulership |
-| Mongol campaigns | China, Khwarazm, Transoxiana, Iran, Russia, Europe |
-| Military success | Cavalry, archery, winter campaigns, siege learning |
-| Decimal system | Mixed tribes, central command |
-| Ulus | Shares assigned to sons, later dynastic territories |
-| Yam | Courier system and imperial communication |
-| Pax Mongolica | Trade, travel, Silk Route, safe-conduct |
-| Peasant-pastoral tension | Plunder versus stable revenue |
-| Administrators | Chinese and Persian officials helped rule |
-| Fragmentation | Yuan, Il-Khanid, Golden Horde, Chaghatai |
-| Yasa | Identity, law, memory, legitimacy |
-| Genghis Khan's memory | Destroyer to some, unifier to Mongols |
+| If Asked About           | Write About                                         |
+| ------------------------ | --------------------------------------------------- |
+| Nomadic empire           | Mobility plus imperial rule                         |
+| Mongol environment       | Steppe, pasture, harsh climate, mobility            |
+| Mongol society           | Pastoralists, hunter-gatherers, lineages            |
+| China-steppe relations   | Trade, barter, raids, Great Wall                    |
+| Temujin                  | Hardship, alliances, rivals, 1206 quriltai          |
+| Genghis Khan's title     | Great Khan, universal rulership                     |
+| Mongol campaigns         | China, Khwarazm, Transoxiana, Iran, Russia, Europe  |
+| Military success         | Cavalry, archery, winter campaigns, siege learning  |
+| Decimal system           | Mixed tribes, central command                       |
+| Ulus                     | Shares assigned to sons, later dynastic territories |
+| Yam                      | Courier system and imperial communication           |
+| Pax Mongolica            | Trade, travel, Silk Route, safe-conduct             |
+| Peasant-pastoral tension | Plunder versus stable revenue                       |
+| Administrators           | Chinese and Persian officials helped rule           |
+| Fragmentation            | Yuan, Il-Khanid, Golden Horde, Chaghatai            |
+| Yasa                     | Identity, law, memory, legitimacy                   |
+| Genghis Khan's memory    | Destroyer to some, unifier to Mongols               |
 
 ## 55. Memory Anchors
 
@@ -1345,4 +1345,3 @@ Later Mongols used yasa and the memory of Genghis Khan to maintain identity and 
 Genghis Khan remains a deeply contested figure: destroyer to many conquered peoples, founder and unifier to Mongol memory, and a powerful symbol in modern Mongolia.
 
 The chapter's central lesson is that empire can emerge from mobile societies when military skill, political reorganisation, trade control, communication, and ideology work together.
-

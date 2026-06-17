@@ -30,27 +30,27 @@ Read this chapter through one central question: how did India try to protect sov
 
 ## Key Terms
 
-| Term | Meaning | Why it matters |
-|---|---|---|
-| Foreign policy | A country's strategy toward other countries and international issues | Main subject of the chapter |
-| Sovereignty | Supreme authority of a state over its territory and decisions | Core objective of Indian foreign policy |
-| Territorial integrity | Protection of national boundaries and territory | Important in wars with China and Pakistan |
-| Non-alignment | Policy of not joining military blocs while taking independent positions | India's major Cold War strategy |
-| Cold War | Rivalry between US-led and Soviet-led blocs | Global context of early Indian foreign policy |
-| NATO | US-led military alliance | One Cold War bloc |
-| Warsaw Pact | Soviet-led military alliance | Other Cold War bloc |
-| NAM | Non-Aligned Movement | Forum of countries not aligned with military blocs |
-| Panchsheel | Five principles of peaceful coexistence | Basis of early India-China friendship |
-| Bandung Conference | 1955 Afro-Asian conference in Indonesia | Led toward NAM |
-| Tibet | Region whose status caused tension between India and China | Key issue in India-China relations |
-| NEFA | North Eastern Frontier Agency, later Arunachal Pradesh | Eastern sector of India-China dispute |
-| Aksai Chin | Area in Ladakh claimed and occupied by China | Western sector of India-China dispute |
-| Indus Waters Treaty | 1960 river water agreement between India and Pakistan | Example of cooperation despite conflict |
-| Tashkent Agreement | 1966 agreement after the 1965 India-Pakistan war | Restored peace after war |
-| Bangladesh war | 1971 war leading to creation of Bangladesh | Major turning point in South Asia |
-| NPT | Nuclear Non-proliferation Treaty | India rejected it as discriminatory |
-| CTBT | Comprehensive Test Ban Treaty | India refused to sign it |
-| No first use | Nuclear doctrine that India will not use nuclear weapons first | Part of India's declared nuclear doctrine |
+| Term                  | Meaning                                                                 | Why it matters                                     |
+| --------------------- | ----------------------------------------------------------------------- | -------------------------------------------------- |
+| Foreign policy        | A country's strategy toward other countries and international issues    | Main subject of the chapter                        |
+| Sovereignty           | Supreme authority of a state over its territory and decisions           | Core objective of Indian foreign policy            |
+| Territorial integrity | Protection of national boundaries and territory                         | Important in wars with China and Pakistan          |
+| Non-alignment         | Policy of not joining military blocs while taking independent positions | India's major Cold War strategy                    |
+| Cold War              | Rivalry between US-led and Soviet-led blocs                             | Global context of early Indian foreign policy      |
+| NATO                  | US-led military alliance                                                | One Cold War bloc                                  |
+| Warsaw Pact           | Soviet-led military alliance                                            | Other Cold War bloc                                |
+| NAM                   | Non-Aligned Movement                                                    | Forum of countries not aligned with military blocs |
+| Panchsheel            | Five principles of peaceful coexistence                                 | Basis of early India-China friendship              |
+| Bandung Conference    | 1955 Afro-Asian conference in Indonesia                                 | Led toward NAM                                     |
+| Tibet                 | Region whose status caused tension between India and China              | Key issue in India-China relations                 |
+| NEFA                  | North Eastern Frontier Agency, later Arunachal Pradesh                  | Eastern sector of India-China dispute              |
+| Aksai Chin            | Area in Ladakh claimed and occupied by China                            | Western sector of India-China dispute              |
+| Indus Waters Treaty   | 1960 river water agreement between India and Pakistan                   | Example of cooperation despite conflict            |
+| Tashkent Agreement    | 1966 agreement after the 1965 India-Pakistan war                        | Restored peace after war                           |
+| Bangladesh war        | 1971 war leading to creation of Bangladesh                              | Major turning point in South Asia                  |
+| NPT                   | Nuclear Non-proliferation Treaty                                        | India rejected it as discriminatory                |
+| CTBT                  | Comprehensive Test Ban Treaty                                           | India refused to sign it                           |
+| No first use          | Nuclear doctrine that India will not use nuclear weapons first          | Part of India's declared nuclear doctrine          |
 
 ## 1. The Chapter In One Sentence
 
@@ -178,10 +178,10 @@ Non-alignment was therefore both idealistic and practical.
 
 The Cold War world was divided into two major blocs.
 
-| Bloc | Led by | Features |
-|---|---|---|
-| Western bloc | United States | Capitalist, anti-communist, NATO |
-| Socialist bloc | Soviet Union | Communist, planned economy, Warsaw Pact |
+| Bloc           | Led by        | Features                                |
+| -------------- | ------------- | --------------------------------------- |
+| Western bloc   | United States | Capitalist, anti-communist, NATO        |
+| Socialist bloc | Soviet Union  | Communist, planned economy, Warsaw Pact |
 
 Many countries joined one bloc to receive security, aid, or diplomatic support.
 
@@ -400,10 +400,10 @@ Many Indian political parties, including the Socialist Party and Jana Sangh, sup
 
 The India-China border dispute had two major sectors:
 
-| Sector | Area | Issue |
-|---|---|---|
-| Western sector | Aksai Chin in Ladakh | China occupied and built a road |
-| Eastern sector | NEFA, later Arunachal Pradesh | China claimed much of the area |
+| Sector         | Area                          | Issue                           |
+| -------------- | ----------------------------- | ------------------------------- |
+| Western sector | Aksai Chin in Ladakh          | China occupied and built a road |
+| Eastern sector | NEFA, later Arunachal Pradesh | China claimed much of the area  |
 
 India argued that the boundary was settled during colonial times.
 
@@ -913,32 +913,32 @@ Foreign policy and domestic politics were deeply connected.
 
 ## 78. Comparing China And Pakistan
 
-| Point | China | Pakistan |
-|---|---|---|
-| Early relation | Friendly after 1949 recognition | Conflict began soon after Partition |
-| Main dispute | Border and Tibet | Jammu and Kashmir |
-| Major war in chapter | 1962 | 1965 and 1971 |
-| Major agreement | Panchsheel in 1954 | Indus Waters Treaty in 1960, Tashkent in 1966, Shimla in 1972 |
-| Domestic impact | Humiliation, Menon resignation, CPI split | Economic pressure, national mobilisation, Indira's popularity after 1971 |
+| Point                | China                                     | Pakistan                                                                 |
+| -------------------- | ----------------------------------------- | ------------------------------------------------------------------------ |
+| Early relation       | Friendly after 1949 recognition           | Conflict began soon after Partition                                      |
+| Main dispute         | Border and Tibet                          | Jammu and Kashmir                                                        |
+| Major war in chapter | 1962                                      | 1965 and 1971                                                            |
+| Major agreement      | Panchsheel in 1954                        | Indus Waters Treaty in 1960, Tashkent in 1966, Shimla in 1972            |
+| Domestic impact      | Humiliation, Menon resignation, CPI split | Economic pressure, national mobilisation, Indira's popularity after 1971 |
 
 ## 79. Comparing 1965 And 1971 Wars
 
-| Point | 1965 War | 1971 War |
-|---|---|---|
-| Prime Minister of India | Lal Bahadur Shastri | Indira Gandhi |
-| Main trigger | Pakistan attacks in Rann of Kutch and Jammu and Kashmir | Bangladesh crisis and Pakistani military repression |
-| Major Indian response | Counter-offensive toward Lahore | Full military action on eastern and western fronts |
-| Agreement after war | Tashkent Agreement, January 1966 | Shimla Agreement, 3 July 1972 |
-| Result | Military losses for Pakistan but no territorial transformation like 1971 | Creation of Bangladesh and surrender of about 90,000 Pakistani troops |
+| Point                   | 1965 War                                                                 | 1971 War                                                              |
+| ----------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------- |
+| Prime Minister of India | Lal Bahadur Shastri                                                      | Indira Gandhi                                                         |
+| Main trigger            | Pakistan attacks in Rann of Kutch and Jammu and Kashmir                  | Bangladesh crisis and Pakistani military repression                   |
+| Major Indian response   | Counter-offensive toward Lahore                                          | Full military action on eastern and western fronts                    |
+| Agreement after war     | Tashkent Agreement, January 1966                                         | Shimla Agreement, 3 July 1972                                         |
+| Result                  | Military losses for Pakistan but no territorial transformation like 1971 | Creation of Bangladesh and surrender of about 90,000 Pakistani troops |
 
 ## 80. Comparing NAM And Military Alliances
 
-| Point | NAM | Military alliances |
-|---|---|---|
-| Basic idea | Independent foreign policy | Collective military commitment |
-| India's position | Co-founder and supporter | Stayed away |
-| Purpose | Avoid bloc politics and support decolonised countries | Defend bloc interests |
-| Risk avoided | Loss of independent judgment | Entanglement in superpower rivalry |
+| Point            | NAM                                                   | Military alliances                 |
+| ---------------- | ----------------------------------------------------- | ---------------------------------- |
+| Basic idea       | Independent foreign policy                            | Collective military commitment     |
+| India's position | Co-founder and supporter                              | Stayed away                        |
+| Purpose          | Avoid bloc politics and support decolonised countries | Defend bloc interests              |
+| Risk avoided     | Loss of independent judgment                          | Entanglement in superpower rivalry |
 
 ## 81. Article 51 And Real Events
 
@@ -956,58 +956,58 @@ But real events such as China war and Pakistan wars showed that principles had t
 
 ## 82. Common Misunderstandings
 
-| Misunderstanding | Correct understanding |
-|---|---|
-| Non-alignment means neutrality on every issue | It means independent judgment and distance from military blocs |
-| India never leaned toward any bloc | India officially remained non-aligned but sometimes tilted, especially toward the Soviet Union in 1971 |
-| Panchsheel prevented conflict with China | Panchsheel symbolised friendship but did not resolve border and Tibet issues |
-| India and Pakistan only fought and never cooperated | They cooperated on abducted women and river waters |
-| The 1971 war was only an India-Pakistan war | It was also linked to Pakistan's internal crisis and Bangladesh's liberation |
-| India's nuclear policy was always weapon-focused | It began with emphasis on peaceful atomic energy and disarmament |
-| Foreign policy has no domestic impact | Wars affected leadership, parties, planning, and public opinion |
+| Misunderstanding                                    | Correct understanding                                                                                  |
+| --------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Non-alignment means neutrality on every issue       | It means independent judgment and distance from military blocs                                         |
+| India never leaned toward any bloc                  | India officially remained non-aligned but sometimes tilted, especially toward the Soviet Union in 1971 |
+| Panchsheel prevented conflict with China            | Panchsheel symbolised friendship but did not resolve border and Tibet issues                           |
+| India and Pakistan only fought and never cooperated | They cooperated on abducted women and river waters                                                     |
+| The 1971 war was only an India-Pakistan war         | It was also linked to Pakistan's internal crisis and Bangladesh's liberation                           |
+| India's nuclear policy was always weapon-focused    | It began with emphasis on peaceful atomic energy and disarmament                                       |
+| Foreign policy has no domestic impact               | Wars affected leadership, parties, planning, and public opinion                                        |
 
 ## 83. Timeline
 
-| Year or date | Event |
-|---|---|
-| March 1947 | Asian Relations Conference convened by India |
-| 1949 | India supported Indonesian freedom through international conference |
-| 1949 | India recognised communist government of China |
-| 1950 | China took control of Tibet |
-| 29 April 1954 | Panchsheel principles jointly stated by India and China |
-| 1955 | Bandung Conference held in Indonesia |
-| 1957-1959 | China occupied Aksai Chin and built strategic road |
-| 1959 | Dalai Lama received asylum in India |
-| September 1961 | First NAM summit held at Belgrade |
-| October 1962 | China launched attack on India |
-| October 1964 | China conducted nuclear tests |
-| 1964 | CPI split into CPI and CPI(M) |
-| April 1965 | Pakistan attacked Rann of Kutch |
-| August-September 1965 | Pakistan launched offensive in Jammu and Kashmir |
-| January 1966 | Tashkent Agreement signed |
-| 1970 | Pakistan general election produced East-West split verdict |
-| July 1971 | Kissinger secretly visited China via Pakistan |
-| August 1971 | Indo-Soviet Treaty of Peace and Friendship signed |
-| December 1971 | India-Pakistan war led to Bangladesh's liberation |
-| 3 July 1972 | Shimla Agreement signed |
-| May 1974 | India conducted first nuclear explosion |
-| 1976 | Full India-China diplomatic relations restored |
-| 1979 | Atal Bihari Vajpayee visited China as External Affairs Minister |
-| May-June 1999 | Kargil confrontation |
-| 26 July 1999 | India recovered control of many Kargil points |
+| Year or date          | Event                                                               |
+| --------------------- | ------------------------------------------------------------------- |
+| March 1947            | Asian Relations Conference convened by India                        |
+| 1949                  | India supported Indonesian freedom through international conference |
+| 1949                  | India recognised communist government of China                      |
+| 1950                  | China took control of Tibet                                         |
+| 29 April 1954         | Panchsheel principles jointly stated by India and China             |
+| 1955                  | Bandung Conference held in Indonesia                                |
+| 1957-1959             | China occupied Aksai Chin and built strategic road                  |
+| 1959                  | Dalai Lama received asylum in India                                 |
+| September 1961        | First NAM summit held at Belgrade                                   |
+| October 1962          | China launched attack on India                                      |
+| October 1964          | China conducted nuclear tests                                       |
+| 1964                  | CPI split into CPI and CPI(M)                                       |
+| April 1965            | Pakistan attacked Rann of Kutch                                     |
+| August-September 1965 | Pakistan launched offensive in Jammu and Kashmir                    |
+| January 1966          | Tashkent Agreement signed                                           |
+| 1970                  | Pakistan general election produced East-West split verdict          |
+| July 1971             | Kissinger secretly visited China via Pakistan                       |
+| August 1971           | Indo-Soviet Treaty of Peace and Friendship signed                   |
+| December 1971         | India-Pakistan war led to Bangladesh's liberation                   |
+| 3 July 1972           | Shimla Agreement signed                                             |
+| May 1974              | India conducted first nuclear explosion                             |
+| 1976                  | Full India-China diplomatic relations restored                      |
+| 1979                  | Atal Bihari Vajpayee visited China as External Affairs Minister     |
+| May-June 1999         | Kargil confrontation                                                |
+| 26 July 1999          | India recovered control of many Kargil points                       |
 
 ## 84. Important Agreements And Conferences
 
-| Agreement or conference | Year | Importance |
-|---|---|---|
-| Asian Relations Conference | 1947 | Showed India's Asian solidarity |
-| Bandung Conference | 1955 | Strengthened Afro-Asian unity and led toward NAM |
-| Panchsheel | 1954 | Basis of early India-China friendship |
-| Indus Waters Treaty | 1960 | River water cooperation with Pakistan |
-| First NAM Summit | 1961 | Institutionalised non-aligned cooperation |
-| Tashkent Agreement | 1966 | Peace after 1965 war |
-| Indo-Soviet Treaty | 1971 | Strategic support during Bangladesh crisis |
-| Shimla Agreement | 1972 | Peace framework after 1971 war |
+| Agreement or conference    | Year | Importance                                       |
+| -------------------------- | ---- | ------------------------------------------------ |
+| Asian Relations Conference | 1947 | Showed India's Asian solidarity                  |
+| Bandung Conference         | 1955 | Strengthened Afro-Asian unity and led toward NAM |
+| Panchsheel                 | 1954 | Basis of early India-China friendship            |
+| Indus Waters Treaty        | 1960 | River water cooperation with Pakistan            |
+| First NAM Summit           | 1961 | Institutionalised non-aligned cooperation        |
+| Tashkent Agreement         | 1966 | Peace after 1965 war                             |
+| Indo-Soviet Treaty         | 1971 | Strategic support during Bangladesh crisis       |
+| Shimla Agreement           | 1972 | Peace framework after 1971 war                   |
 
 ## 85. Very Short Answer Practice
 

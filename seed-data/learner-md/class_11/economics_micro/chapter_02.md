@@ -1,4 +1,5 @@
 # Chapter 2: Theory of Consumer Behaviour
+
 ### NCERT Class 11 - Economics Micro
 
 ---
@@ -39,25 +40,25 @@ The central idea is:
 
 ## Chapter at a Glance
 
-| Area | Main Idea |
-| --- | --- |
-| Consumer choice | Consumer chooses a bundle that gives maximum satisfaction within budget. |
-| Consumption bundle | Combination of quantities of two or more goods. |
-| Utility | Want-satisfying power of a commodity. |
-| Cardinal utility | Utility can be measured in numbers. |
-| Ordinal utility | Utility can be ranked, not measured exactly. |
-| Total utility | Total satisfaction from consuming a given quantity. |
-| Marginal utility | Extra utility from one additional unit. |
-| Diminishing marginal utility | Marginal utility falls as consumption increases. |
-| Indifference curve | Shows bundles giving equal satisfaction. |
-| MRS | Rate at which consumer gives up one good for another while staying equally satisfied. |
-| Budget set | All bundles affordable at given prices and income. |
-| Budget line | Bundles that exhaust consumer income. |
-| Consumer optimum | Best affordable bundle, usually where budget line touches highest possible indifference curve. |
-| Demand | Quantity consumer is willing and able to buy at given conditions. |
-| Law of demand | Other things equal, price and demand are inversely related. |
-| Market demand | Sum of individual demands at each price. |
-| Price elasticity | Responsiveness of demand to price change. |
+| Area                         | Main Idea                                                                                      |
+| ---------------------------- | ---------------------------------------------------------------------------------------------- |
+| Consumer choice              | Consumer chooses a bundle that gives maximum satisfaction within budget.                       |
+| Consumption bundle           | Combination of quantities of two or more goods.                                                |
+| Utility                      | Want-satisfying power of a commodity.                                                          |
+| Cardinal utility             | Utility can be measured in numbers.                                                            |
+| Ordinal utility              | Utility can be ranked, not measured exactly.                                                   |
+| Total utility                | Total satisfaction from consuming a given quantity.                                            |
+| Marginal utility             | Extra utility from one additional unit.                                                        |
+| Diminishing marginal utility | Marginal utility falls as consumption increases.                                               |
+| Indifference curve           | Shows bundles giving equal satisfaction.                                                       |
+| MRS                          | Rate at which consumer gives up one good for another while staying equally satisfied.          |
+| Budget set                   | All bundles affordable at given prices and income.                                             |
+| Budget line                  | Bundles that exhaust consumer income.                                                          |
+| Consumer optimum             | Best affordable bundle, usually where budget line touches highest possible indifference curve. |
+| Demand                       | Quantity consumer is willing and able to buy at given conditions.                              |
+| Law of demand                | Other things equal, price and demand are inversely related.                                    |
+| Market demand                | Sum of individual demands at each price.                                                       |
+| Price elasticity             | Responsiveness of demand to price change.                                                      |
 
 ---
 
@@ -65,65 +66,65 @@ The central idea is:
 
 By the end of this chapter, you should be able to:
 
-| Skill | You Should Be Able To |
-| --- | --- |
-| Define | Define utility, TU, MU, budget set, budget line, indifference curve, MRS, demand, elasticity. |
-| Explain | Explain diminishing marginal utility and diminishing marginal rate of substitution. |
-| Draw | Draw budget lines, indifference curves, demand curves, and market demand curves. |
-| Calculate | Calculate MU, budget line intercepts, slope, market demand, and price elasticity. |
-| Compare | Compare cardinal and ordinal utility analysis. |
-| Apply | Apply law of demand, substitution effect, income effect, normal/inferior goods, and substitutes/complements. |
-| Interpret | Interpret movements along demand curve and shifts in demand curve. |
-| Analyse | Explain how elasticity affects total expenditure. |
-| Write | Write clear short and long answers with formulas and examples. |
+| Skill     | You Should Be Able To                                                                                        |
+| --------- | ------------------------------------------------------------------------------------------------------------ |
+| Define    | Define utility, TU, MU, budget set, budget line, indifference curve, MRS, demand, elasticity.                |
+| Explain   | Explain diminishing marginal utility and diminishing marginal rate of substitution.                          |
+| Draw      | Draw budget lines, indifference curves, demand curves, and market demand curves.                             |
+| Calculate | Calculate MU, budget line intercepts, slope, market demand, and price elasticity.                            |
+| Compare   | Compare cardinal and ordinal utility analysis.                                                               |
+| Apply     | Apply law of demand, substitution effect, income effect, normal/inferior goods, and substitutes/complements. |
+| Interpret | Interpret movements along demand curve and shifts in demand curve.                                           |
+| Analyse   | Explain how elasticity affects total expenditure.                                                            |
+| Write     | Write clear short and long answers with formulas and examples.                                               |
 
 ---
 
 ## Big Map of the Chapter
 
-| Unit | Main Question | Main Answer |
-| --- | --- | --- |
-| Consumer problem | What does the consumer choose? | The most preferred affordable bundle. |
-| Utility | Why does a consumer want goods? | Goods give satisfaction or utility. |
-| Cardinal utility | Can utility be measured? | This approach assumes utility can be measured numerically. |
-| Ordinal utility | Can utility be ranked? | This approach assumes consumers can rank bundles. |
-| Indifference curve | How are equal-satisfaction bundles shown? | By a curve joining equally preferred bundles. |
-| Budget | What can the consumer afford? | Bundles satisfying income and price constraints. |
-| Optimum | Which affordable bundle is chosen? | Highest attainable indifference curve on budget set. |
-| Demand | How does price affect chosen quantity? | Usually price rise lowers demand. |
-| Related goods | How do other prices matter? | Substitutes and complements shift demand. |
-| Market demand | How is total market demand found? | Add individual demands horizontally. |
-| Elasticity | How responsive is demand? | Percentage change in quantity divided by percentage change in price. |
+| Unit               | Main Question                             | Main Answer                                                          |
+| ------------------ | ----------------------------------------- | -------------------------------------------------------------------- |
+| Consumer problem   | What does the consumer choose?            | The most preferred affordable bundle.                                |
+| Utility            | Why does a consumer want goods?           | Goods give satisfaction or utility.                                  |
+| Cardinal utility   | Can utility be measured?                  | This approach assumes utility can be measured numerically.           |
+| Ordinal utility    | Can utility be ranked?                    | This approach assumes consumers can rank bundles.                    |
+| Indifference curve | How are equal-satisfaction bundles shown? | By a curve joining equally preferred bundles.                        |
+| Budget             | What can the consumer afford?             | Bundles satisfying income and price constraints.                     |
+| Optimum            | Which affordable bundle is chosen?        | Highest attainable indifference curve on budget set.                 |
+| Demand             | How does price affect chosen quantity?    | Usually price rise lowers demand.                                    |
+| Related goods      | How do other prices matter?               | Substitutes and complements shift demand.                            |
+| Market demand      | How is total market demand found?         | Add individual demands horizontally.                                 |
+| Elasticity         | How responsive is demand?                 | Percentage change in quantity divided by percentage change in price. |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Consumer | Person or unit that buys/uses goods and services. |
-| Preference | Consumer's ranking of different bundles. |
-| Consumption bundle | Combination of quantities of goods consumed together. |
-| Utility | Want-satisfying capacity of a commodity. |
-| Total utility, TU | Total satisfaction from consuming a given quantity. |
-| Marginal utility, MU | Change in total utility due to one additional unit. |
-| Cardinal utility | Utility analysis where satisfaction is measured in numbers. |
-| Ordinal utility | Utility analysis where bundles are ranked instead of measured numerically. |
-| Indifference curve | Curve joining bundles that give equal satisfaction. |
-| Indifference map | Family of indifference curves representing preferences. |
-| MRS | Marginal rate of substitution; amount of one good sacrificed for one more unit of another good while utility remains same. |
-| Monotonic preferences | More of at least one good and no less of the other is preferred. |
-| Budget set | Collection of all affordable bundles. |
-| Budget line | All bundles that cost exactly the consumer's income. |
-| Consumer optimum | Most preferred bundle available in budget set. |
-| Demand | Quantity of a commodity consumer is willing and able to buy under given conditions. |
-| Demand curve | Graph showing quantity demanded at different prices. |
-| Normal good | Good whose demand rises when income rises. |
-| Inferior good | Good whose demand falls when income rises. |
-| Substitute goods | Goods that can replace each other in consumption. |
-| Complementary goods | Goods consumed together. |
-| Market demand | Total demand of all consumers at each price. |
-| Price elasticity of demand | Responsiveness of quantity demanded to change in price. |
+| Term                       | Meaning                                                                                                                    |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Consumer                   | Person or unit that buys/uses goods and services.                                                                          |
+| Preference                 | Consumer's ranking of different bundles.                                                                                   |
+| Consumption bundle         | Combination of quantities of goods consumed together.                                                                      |
+| Utility                    | Want-satisfying capacity of a commodity.                                                                                   |
+| Total utility, TU          | Total satisfaction from consuming a given quantity.                                                                        |
+| Marginal utility, MU       | Change in total utility due to one additional unit.                                                                        |
+| Cardinal utility           | Utility analysis where satisfaction is measured in numbers.                                                                |
+| Ordinal utility            | Utility analysis where bundles are ranked instead of measured numerically.                                                 |
+| Indifference curve         | Curve joining bundles that give equal satisfaction.                                                                        |
+| Indifference map           | Family of indifference curves representing preferences.                                                                    |
+| MRS                        | Marginal rate of substitution; amount of one good sacrificed for one more unit of another good while utility remains same. |
+| Monotonic preferences      | More of at least one good and no less of the other is preferred.                                                           |
+| Budget set                 | Collection of all affordable bundles.                                                                                      |
+| Budget line                | All bundles that cost exactly the consumer's income.                                                                       |
+| Consumer optimum           | Most preferred bundle available in budget set.                                                                             |
+| Demand                     | Quantity of a commodity consumer is willing and able to buy under given conditions.                                        |
+| Demand curve               | Graph showing quantity demanded at different prices.                                                                       |
+| Normal good                | Good whose demand rises when income rises.                                                                                 |
+| Inferior good              | Good whose demand falls when income rises.                                                                                 |
+| Substitute goods           | Goods that can replace each other in consumption.                                                                          |
+| Complementary goods        | Goods consumed together.                                                                                                   |
+| Market demand              | Total demand of all consumers at each price.                                                                               |
+| Price elasticity of demand | Responsiveness of quantity demanded to change in price.                                                                    |
 
 ---
 
@@ -149,9 +150,9 @@ This is a problem of choice.
 
 The best bundle depends on two things:
 
-| Factor | Meaning |
-| --- | --- |
-| Preferences | What the consumer likes more or less. |
+| Factor        | Meaning                                                |
+| ------------- | ------------------------------------------------------ |
+| Preferences   | What the consumer likes more or less.                  |
 | Affordability | What the consumer can buy with income at given prices. |
 
 Preferences answer:
@@ -183,12 +184,12 @@ A bundle is written as:
 
 Examples:
 
-| Bundle | Meaning |
-| --- | --- |
+| Bundle    | Meaning                  |
+| --------- | ------------------------ |
 | `(5, 10)` | 5 bananas and 10 mangoes |
 | `(10, 5)` | 10 bananas and 5 mangoes |
-| `(0, 6)` | 0 bananas and 6 mangoes |
-| `(4, 0)` | 4 bananas and 0 mangoes |
+| `(0, 6)`  | 0 bananas and 6 mangoes  |
+| `(4, 0)`  | 4 bananas and 0 mangoes  |
 
 ## 1.4 Why Bundles Matter
 
@@ -222,11 +223,11 @@ It also changes with place and time.
 
 Examples:
 
-| Situation | Utility Difference |
-| --- | --- |
-| Chocolate lover vs non-lover | Same chocolate gives different utility. |
-| Room heater in Ladakh vs Chennai | Utility is higher in a cold place. |
-| Room heater in winter vs summer | Utility is higher in winter. |
+| Situation                        | Utility Difference                      |
+| -------------------------------- | --------------------------------------- |
+| Chocolate lover vs non-lover     | Same chocolate gives different utility. |
+| Room heater in Ladakh vs Chennai | Utility is higher in a cold place.      |
+| Room heater in winter vs summer  | Utility is higher in winter.            |
 
 Important:
 
@@ -323,13 +324,13 @@ Then:
 ## 3.5 Utility Table
 
 | Units Consumed | Total Utility | Marginal Utility |
-| ---: | ---: | ---: |
-| 1 | 12 | 12 |
-| 2 | 18 | 6 |
-| 3 | 22 | 4 |
-| 4 | 24 | 2 |
-| 5 | 24 | 0 |
-| 6 | 22 | -2 |
+| -------------: | ------------: | ---------------: |
+|              1 |            12 |               12 |
+|              2 |            18 |                6 |
+|              3 |            22 |                4 |
+|              4 |            24 |                2 |
+|              5 |            24 |                0 |
+|              6 |            22 |               -2 |
 
 ## 3.6 Reading the Utility Table
 
@@ -369,12 +370,12 @@ After many glasses, another glass may give zero or negative utility.
 
 ## 3.8 TU and MU Relationship
 
-| MU Behaviour | TU Behaviour |
-| --- | --- |
-| MU positive | TU increases |
+| MU Behaviour            | TU Behaviour                    |
+| ----------------------- | ------------------------------- |
+| MU positive             | TU increases                    |
 | MU falling but positive | TU increases at decreasing rate |
-| MU zero | TU maximum/constant |
-| MU negative | TU falls |
+| MU zero                 | TU maximum/constant             |
+| MU negative             | TU falls                        |
 
 ## 3.9 Demand Curve from Diminishing MU
 
@@ -461,11 +462,11 @@ MRS = |change in mangoes / change in bananas|
 ## 4.5 MRS Table
 
 | Combination | Bananas | Mangoes | MRS |
-| --- | ---: | ---: | ---: |
-| A | 1 | 15 | - |
-| B | 2 | 12 | 3:1 |
-| C | 3 | 10 | 2:1 |
-| D | 4 | 9 | 1:1 |
+| ----------- | ------: | ------: | --: |
+| A           |       1 |      15 |   - |
+| B           |       2 |      12 | 3:1 |
+| C           |       3 |      10 | 2:1 |
+| D           |       4 |       9 | 1:1 |
 
 Reading:
 
@@ -1007,12 +1008,12 @@ General rule:
 
 ## 8.3 Comparison
 
-| Basis | Substitutes | Complements |
-| --- | --- | --- |
-| Relationship | Used in place of each other | Used together |
-| Example | tea and coffee | tea and sugar |
-| If price of related good rises | Demand for this good rises | Demand for this good falls |
-| Direction | Same direction | Opposite direction |
+| Basis                          | Substitutes                 | Complements                |
+| ------------------------------ | --------------------------- | -------------------------- |
+| Relationship                   | Used in place of each other | Used together              |
+| Example                        | tea and coffee              | tea and sugar              |
+| If price of related good rises | Demand for this good rises  | Demand for this good falls |
+| Direction                      | Same direction              | Opposite direction         |
 
 ---
 
@@ -1075,10 +1076,10 @@ If people learn that cold drinks may be harmful to health, demand for cold drink
 
 ## 9.5 Quick Rule
 
-| Cause | Effect |
-| --- | --- |
-| Own price changes | Movement along demand curve |
-| Income or other factors change | Shift of demand curve |
+| Cause                          | Effect                      |
+| ------------------------------ | --------------------------- |
+| Own price changes              | Movement along demand curve |
+| Income or other factors change | Shift of demand curve       |
 
 ---
 
@@ -1253,13 +1254,13 @@ Demand is inelastic because elasticity is less than 1.
 
 ## 11.4 Types of Elasticity
 
-| Elasticity Value | Name | Meaning |
-| --- | --- | --- |
-| `|eD| > 1` | Elastic demand | Quantity changes by larger percentage than price. |
-| `|eD| = 1` | Unitary elastic demand | Quantity and price change by equal percentages. |
-| `|eD| < 1` | Inelastic demand | Quantity changes by smaller percentage than price. |
-| `|eD| = 0` | Perfectly inelastic demand | Quantity does not change when price changes. |
-| `|eD| = infinity` | Perfectly elastic demand | Any price change causes extremely large response. |
+| Elasticity Value | Name | Meaning     |
+| ---------------- | ---- | ----------- | -------------------------- | -------------------------------------------------- |
+| `                | eD   | > 1`        | Elastic demand             | Quantity changes by larger percentage than price.  |
+| `                | eD   | = 1`        | Unitary elastic demand     | Quantity and price change by equal percentages.    |
+| `                | eD   | < 1`        | Inelastic demand           | Quantity changes by smaller percentage than price. |
+| `                | eD   | = 0`        | Perfectly inelastic demand | Quantity does not change when price changes.       |
+| `                | eD   | = infinity` | Perfectly elastic demand   | Any price change causes extremely large response.  |
 
 ## 11.5 Elasticity Along a Linear Demand Curve
 
@@ -1285,13 +1286,13 @@ Since `p/q` changes at different points, elasticity changes along a straight-lin
 
 ## 11.6 Elasticity Positions on a Straight-Line Demand Curve
 
-| Point on Demand Curve | Elasticity |
-| --- | --- |
-| Vertical-axis intercept | Infinite |
-| Above midpoint | Greater than 1 |
-| Midpoint | Equal to 1 |
-| Below midpoint | Less than 1 |
-| Horizontal-axis intercept | Zero |
+| Point on Demand Curve     | Elasticity     |
+| ------------------------- | -------------- |
+| Vertical-axis intercept   | Infinite       |
+| Above midpoint            | Greater than 1 |
+| Midpoint                  | Equal to 1     |
+| Below midpoint            | Less than 1    |
+| Horizontal-axis intercept | Zero           |
 
 ## 11.7 Geometric Measure
 
@@ -1309,11 +1310,11 @@ This gives a quick geometric way to judge elasticity.
 
 ## 11.8 Constant Elasticity Demand Curves
 
-| Curve Shape | Elasticity |
-| --- | --- |
-| Vertical demand curve | Perfectly inelastic, `eD = 0` |
+| Curve Shape             | Elasticity                         |
+| ----------------------- | ---------------------------------- |
+| Vertical demand curve   | Perfectly inelastic, `eD = 0`      |
 | Horizontal demand curve | Perfectly elastic, `eD = infinity` |
-| Rectangular hyperbola | Unitary elastic at every point |
+| Rectangular hyperbola   | Unitary elastic at every point     |
 
 ## 11.9 Rectangular Hyperbola
 
@@ -1377,14 +1378,14 @@ Specific items have closer substitutes.
 
 ## 12.4 Summary
 
-| Factor | Elasticity Effect |
-| --- | --- |
-| Necessity | More inelastic |
-| Luxury | More elastic |
-| Many close substitutes | More elastic |
-| Few/no substitutes | More inelastic |
-| Broad category | More inelastic |
-| Narrow specific good | More elastic |
+| Factor                 | Elasticity Effect |
+| ---------------------- | ----------------- |
+| Necessity              | More inelastic    |
+| Luxury                 | More elastic      |
+| Many close substitutes | More elastic      |
+| Few/no substitutes     | More inelastic    |
+| Broad category         | More inelastic    |
+| Narrow specific good   | More elastic      |
 
 ---
 
@@ -1455,22 +1456,22 @@ Total expenditure remains unchanged.
 
 ## 13.6 Expenditure Table
 
-| Price Change | Quantity Change | Elasticity | Expenditure Effect |
-| --- | --- | --- | --- |
-| Price rises | Quantity falls by larger percentage | Elastic | Expenditure falls |
-| Price rises | Quantity falls by smaller percentage | Inelastic | Expenditure rises |
-| Price rises | Quantity falls by same percentage | Unitary | No change |
-| Price falls | Quantity rises by larger percentage | Elastic | Expenditure rises |
-| Price falls | Quantity rises by smaller percentage | Inelastic | Expenditure falls |
-| Price falls | Quantity rises by same percentage | Unitary | No change |
+| Price Change | Quantity Change                      | Elasticity | Expenditure Effect |
+| ------------ | ------------------------------------ | ---------- | ------------------ |
+| Price rises  | Quantity falls by larger percentage  | Elastic    | Expenditure falls  |
+| Price rises  | Quantity falls by smaller percentage | Inelastic  | Expenditure rises  |
+| Price rises  | Quantity falls by same percentage    | Unitary    | No change          |
+| Price falls  | Quantity rises by larger percentage  | Elastic    | Expenditure rises  |
+| Price falls  | Quantity rises by smaller percentage | Inelastic  | Expenditure falls  |
+| Price falls  | Quantity rises by same percentage    | Unitary    | No change          |
 
 ## 13.7 Quick Rule
 
-| Elasticity | Price and Expenditure Relation |
-| --- | --- |
-| Elastic | Opposite direction |
-| Inelastic | Same direction |
-| Unitary elastic | Expenditure unchanged |
+| Elasticity      | Price and Expenditure Relation |
+| --------------- | ------------------------------ |
+| Elastic         | Opposite direction             |
+| Inelastic       | Same direction                 |
+| Unitary elastic | Expenditure unchanged          |
 
 ---
 
@@ -1725,18 +1726,18 @@ Demand is unitary elastic at this point.
 
 # 15. Common Mistakes
 
-| Mistake | Correction |
-| --- | --- |
-| Treating utility as same for all people | Utility is subjective and differs across persons, place, and time. |
-| Saying TU always rises | TU rises while MU is positive; TU falls when MU is negative. |
-| Confusing TU and MU | TU is total satisfaction; MU is extra satisfaction from one more unit. |
-| Thinking ordinal utility measures utility in numbers | Ordinal utility ranks bundles; it does not measure exact units. |
-| Saying all indifference curves are straight lines | Normal indifference curves are convex; perfect substitutes have straight-line indifference curves. |
-| Forgetting budget line slope | Slope is `-p1/p2`. |
-| Adding prices to get market demand | Market demand is horizontal summation: add quantities at each price. |
-| Confusing movement and shift | Own price change causes movement; other factors cause shift. |
-| Saying all inferior goods are Giffen goods | Giffen goods are rare special inferior goods. |
-| Ignoring negative sign in elasticity | Demand elasticity is usually negative; often absolute value is used. |
+| Mistake                                              | Correction                                                                                         |
+| ---------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| Treating utility as same for all people              | Utility is subjective and differs across persons, place, and time.                                 |
+| Saying TU always rises                               | TU rises while MU is positive; TU falls when MU is negative.                                       |
+| Confusing TU and MU                                  | TU is total satisfaction; MU is extra satisfaction from one more unit.                             |
+| Thinking ordinal utility measures utility in numbers | Ordinal utility ranks bundles; it does not measure exact units.                                    |
+| Saying all indifference curves are straight lines    | Normal indifference curves are convex; perfect substitutes have straight-line indifference curves. |
+| Forgetting budget line slope                         | Slope is `-p1/p2`.                                                                                 |
+| Adding prices to get market demand                   | Market demand is horizontal summation: add quantities at each price.                               |
+| Confusing movement and shift                         | Own price change causes movement; other factors cause shift.                                       |
+| Saying all inferior goods are Giffen goods           | Giffen goods are rare special inferior goods.                                                      |
+| Ignoring negative sign in elasticity                 | Demand elasticity is usually negative; often absolute value is used.                               |
 
 ---
 

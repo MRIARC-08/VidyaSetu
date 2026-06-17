@@ -1,34 +1,35 @@
 # Chapter 4: Diary, Voice, and the Need for Freedom
+
 ### NCERT Class 10 - English First Flight
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 10 |
-| **Subject** | English First Flight |
-| **Chapter** | 4 |
-| **Main Prose** | "From the Diary of Anne Frank" |
-| **Poem Included** | "Amanda!" by Robin Klein |
-| **Raw File Header** | "From the Diary of Anne Frank" |
-| **Textbook Pages** | 1-15 |
-| **Core Theme** | Diary writing, loneliness, self-expression, adolescence, humour, teacher-student relationship, discipline, imagination, and personal freedom. |
-| **Main Skills** | Diary comprehension, character analysis, compound words, phrasal verbs, idioms, dictionary use, contracted forms, diary writing, listening summary, and poetry appreciation. |
+| Detail              | Learner-Friendly Information                                                                                                                                                 |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Class**           | 10                                                                                                                                                                           |
+| **Subject**         | English First Flight                                                                                                                                                         |
+| **Chapter**         | 4                                                                                                                                                                            |
+| **Main Prose**      | "From the Diary of Anne Frank"                                                                                                                                               |
+| **Poem Included**   | "Amanda!" by Robin Klein                                                                                                                                                     |
+| **Raw File Header** | "From the Diary of Anne Frank"                                                                                                                                               |
+| **Textbook Pages**  | 1-15                                                                                                                                                                         |
+| **Core Theme**      | Diary writing, loneliness, self-expression, adolescence, humour, teacher-student relationship, discipline, imagination, and personal freedom.                                |
+| **Main Skills**     | Diary comprehension, character analysis, compound words, phrasal verbs, idioms, dictionary use, contracted forms, diary writing, listening summary, and poetry appreciation. |
 
 ---
 
 ## Section Structure
 
-| Unit | Text / Skill | Main Learning Focus |
-|---|---|---|
-| **4A** | Before Reading | Anne Frank, diary, journal, log, memoir, and personal writing. |
-| **4B** | From the Diary of Anne Frank | Anne's loneliness, Kitty, family sketch, school anxiety, and Mr Keesing. |
-| **4C** | Prose Comprehension | Oral checks, thinking questions, character evidence, and model answers. |
-| **4D** | Language Work | Compound words, phrasal verbs, idioms, heart expressions, and contracted forms. |
-| **4E** | Diary Writing | Diary style, Samuel Pepys listening task, and diary writing practice. |
-| **4F** | Amanda! | Instructions, imagination, freedom, parent-child tension, and poetic devices. |
+| Unit   | Text / Skill                 | Main Learning Focus                                                             |
+| ------ | ---------------------------- | ------------------------------------------------------------------------------- |
+| **4A** | Before Reading               | Anne Frank, diary, journal, log, memoir, and personal writing.                  |
+| **4B** | From the Diary of Anne Frank | Anne's loneliness, Kitty, family sketch, school anxiety, and Mr Keesing.        |
+| **4C** | Prose Comprehension          | Oral checks, thinking questions, character evidence, and model answers.         |
+| **4D** | Language Work                | Compound words, phrasal verbs, idioms, heart expressions, and contracted forms. |
+| **4E** | Diary Writing                | Diary style, Samuel Pepys listening task, and diary writing practice.           |
+| **4F** | Amanda!                      | Instructions, imagination, freedom, parent-child tension, and poetic devices.   |
 
 ---
 
@@ -36,43 +37,43 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Understand diary writing** | Explain why a diary can become a private friend. |
-| **Analyse Anne's voice** | Describe Anne as thoughtful, witty, lonely, honest, and observant. |
-| **Identify relationships** | Explain Anne's feelings about her father, grandmother, Mrs Kuperus, and Mr Keesing. |
-| **Answer inference questions** | Support answers with evidence from the diary extract. |
-| **Use compound words** | Match compound words with meanings and use them in sentences. |
-| **Use phrasal verbs** | Explain plunge in, ramble on, get along with, and similar phrases. |
-| **Understand idioms** | Use expressions such as lose heart, caught my eye, and heart of stone. |
-| **Use contracted forms** | Expand can't, I've, I'd, he'd, and similar forms. |
-| **Write diary entries** | Use personal voice, feeling words, fragments, and everyday language appropriately. |
-| **Appreciate poetry** | Explain how "Amanda!" contrasts outer instruction with inner imagination. |
+| Outcome                        | You Should Be Able To...                                                            |
+| ------------------------------ | ----------------------------------------------------------------------------------- |
+| **Understand diary writing**   | Explain why a diary can become a private friend.                                    |
+| **Analyse Anne's voice**       | Describe Anne as thoughtful, witty, lonely, honest, and observant.                  |
+| **Identify relationships**     | Explain Anne's feelings about her father, grandmother, Mrs Kuperus, and Mr Keesing. |
+| **Answer inference questions** | Support answers with evidence from the diary extract.                               |
+| **Use compound words**         | Match compound words with meanings and use them in sentences.                       |
+| **Use phrasal verbs**          | Explain plunge in, ramble on, get along with, and similar phrases.                  |
+| **Understand idioms**          | Use expressions such as lose heart, caught my eye, and heart of stone.              |
+| **Use contracted forms**       | Expand can't, I've, I'd, he'd, and similar forms.                                   |
+| **Write diary entries**        | Use personal voice, feeling words, fragments, and everyday language appropriately.  |
+| **Appreciate poetry**          | Explain how "Amanda!" contrasts outer instruction with inner imagination.           |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Diary** | Daily personal record of thoughts, feelings, and events. |
-| **Journal** | Full record of a journey, period, or event, often written regularly. |
-| **Log** | Official record of events with time and date. |
-| **Memoir** | Written account of a person's own life and experiences. |
-| **Musings** | Thoughts or reflections. |
-| **Listless** | Without energy or interest. |
-| **Brooding** | Thinking sadly or deeply for a long time. |
-| **Confide** | Tell private thoughts to someone trusted. |
-| **Plunked down** | Put down casually. |
-| **Old fogey** | Old-fashioned person. |
-| **Ramble on** | Talk or write aimlessly. |
-| **Convincing argument** | Argument that makes people believe something. |
-| **Incorrigible** | Cannot be corrected. |
-| **Ingenuity** | Originality and inventiveness. |
-| **Contracted form** | Short form such as can't, I've, or I'd. |
-| **Parenthesis** | Brackets used to separate an inner thought or aside. |
-| **Languid** | Relaxed and slow. |
-| **Tranquil** | Calm and peaceful. |
+| Term                    | Meaning                                                              |
+| ----------------------- | -------------------------------------------------------------------- |
+| **Diary**               | Daily personal record of thoughts, feelings, and events.             |
+| **Journal**             | Full record of a journey, period, or event, often written regularly. |
+| **Log**                 | Official record of events with time and date.                        |
+| **Memoir**              | Written account of a person's own life and experiences.              |
+| **Musings**             | Thoughts or reflections.                                             |
+| **Listless**            | Without energy or interest.                                          |
+| **Brooding**            | Thinking sadly or deeply for a long time.                            |
+| **Confide**             | Tell private thoughts to someone trusted.                            |
+| **Plunked down**        | Put down casually.                                                   |
+| **Old fogey**           | Old-fashioned person.                                                |
+| **Ramble on**           | Talk or write aimlessly.                                             |
+| **Convincing argument** | Argument that makes people believe something.                        |
+| **Incorrigible**        | Cannot be corrected.                                                 |
+| **Ingenuity**           | Originality and inventiveness.                                       |
+| **Contracted form**     | Short form such as can't, I've, or I'd.                              |
+| **Parenthesis**         | Brackets used to separate an inner thought or aside.                 |
+| **Languid**             | Relaxed and slow.                                                    |
+| **Tranquil**            | Calm and peaceful.                                                   |
 
 ---
 
@@ -102,21 +103,21 @@ Important context:
 
 ## Diary, Journal, Log, Memoir
 
-| Term | Meaning |
-|---|---|
-| **Diary** | A book with daily spaces where personal thoughts, feelings, and events are written. |
-| **Journal** | Full record of a journey, period, or event, often written regularly. |
-| **Log** | Official record of events with exact times and dates. |
-| **Memoir** | Account of a person's own life and experiences. |
+| Term        | Meaning                                                                             |
+| ----------- | ----------------------------------------------------------------------------------- |
+| **Diary**   | A book with daily spaces where personal thoughts, feelings, and events are written. |
+| **Journal** | Full record of a journey, period, or event, often written regularly.                |
+| **Log**     | Official record of events with exact times and dates.                               |
+| **Memoir**  | Account of a person's own life and experiences.                                     |
 
 ## Entry Identification
 
-| Entry | Type | Reason |
-|---|---|---|
-| Woke up late, got scolded, watched World Cup. | Diary | Personal feeling and daily experience. |
-| Timed schedule: office, lunch, airport, dinner. | Log | Time-based official or practical record. |
-| Travel from Ooty to Bangalore with reflections. | Journal | Journey record with observations. |
-| Raj Kapoor found me outside R.K. Studios; the rest is history. | Memoir | Life memory of a significant turning point. |
+| Entry                                                          | Type    | Reason                                      |
+| -------------------------------------------------------------- | ------- | ------------------------------------------- |
+| Woke up late, got scolded, watched World Cup.                  | Diary   | Personal feeling and daily experience.      |
+| Timed schedule: office, lunch, airport, dinner.                | Log     | Time-based official or practical record.    |
+| Travel from Ooty to Bangalore with reflections.                | Journal | Journey record with observations.           |
+| Raj Kapoor found me outside R.K. Studios; the rest is history. | Memoir  | Life memory of a significant turning point. |
 
 ---
 
@@ -124,14 +125,14 @@ Important context:
 
 ## Text Identity
 
-| Detail | Information |
-|---|---|
-| **Title** | From the Diary of Anne Frank |
-| **Form** | Diary extract |
-| **Writer** | Anne Frank |
-| **Diary Name** | Kitty |
-| **Date of Main Entry** | 20 June 1942 |
-| **Main Concern** | Anne's need for a true friend and her school experience with Mr Keesing. |
+| Detail                 | Information                                                              |
+| ---------------------- | ------------------------------------------------------------------------ |
+| **Title**              | From the Diary of Anne Frank                                             |
+| **Form**               | Diary extract                                                            |
+| **Writer**             | Anne Frank                                                               |
+| **Diary Name**         | Kitty                                                                    |
+| **Date of Main Entry** | 20 June 1942                                                             |
+| **Main Concern**       | Anne's need for a true friend and her school experience with Mr Keesing. |
 
 ## Short Summary
 
@@ -145,24 +146,24 @@ In the school section, Anne describes the anxiety of promotion to the next class
 
 ## Why Anne Starts a Diary
 
-| Reason | Explanation |
-|---|---|
-| **Need to express feelings** | She wants to get things off her chest. |
-| **Lack of true friend** | She has friends but no deep confidant. |
-| **Trust in paper** | Paper listens without impatience or judgment. |
-| **Self-understanding** | Writing helps her organise thoughts. |
-| **Imagination** | She turns the diary into a friend named Kitty. |
+| Reason                       | Explanation                                    |
+| ---------------------------- | ---------------------------------------------- |
+| **Need to express feelings** | She wants to get things off her chest.         |
+| **Lack of true friend**      | She has friends but no deep confidant.         |
+| **Trust in paper**           | Paper listens without impatience or judgment.  |
+| **Self-understanding**       | Writing helps her organise thoughts.           |
+| **Imagination**              | She turns the diary into a friend named Kitty. |
 
 ## Anne's Personality
 
-| Trait | Evidence |
-|---|---|
-| **Honest** | She admits she feels lonely despite having friends. |
-| **Reflective** | She analyses why she cannot confide in others. |
-| **Affectionate** | She deeply loves her father and grandmother. |
-| **Witty** | She handles Mr Keesing's punishment humorously. |
-| **Observant** | She notices class behaviour and teacher moods. |
-| **Confident** | She writes convincing arguments even for a punishment essay. |
+| Trait            | Evidence                                                     |
+| ---------------- | ------------------------------------------------------------ |
+| **Honest**       | She admits she feels lonely despite having friends.          |
+| **Reflective**   | She analyses why she cannot confide in others.               |
+| **Affectionate** | She deeply loves her father and grandmother.                 |
+| **Witty**        | She handles Mr Keesing's punishment humorously.              |
+| **Observant**    | She notices class behaviour and teacher moods.               |
+| **Confident**    | She writes convincing arguments even for a punishment essay. |
 
 ---
 
@@ -226,12 +227,12 @@ She treats Kitty as a close friend, but initially as someone who needs backgroun
 
 ### 4. What are Anne's feelings about people around her?
 
-| Person | Anne's Feeling | What It Shows |
-|---|---|---|
-| **Father** | Deep admiration; calls him adorable. | Affectionate nature. |
-| **Grandmother** | Love and longing. | Emotional sensitivity. |
-| **Mrs Kuperus** | Fondness; emotional farewell. | Attachment to teachers. |
-| **Mr Keesing** | Annoyance mixed with humour and respect. | Wit and resilience. |
+| Person          | Anne's Feeling                           | What It Shows           |
+| --------------- | ---------------------------------------- | ----------------------- |
+| **Father**      | Deep admiration; calls him adorable.     | Affectionate nature.    |
+| **Grandmother** | Love and longing.                        | Emotional sensitivity.  |
+| **Mrs Kuperus** | Fondness; emotional farewell.            | Attachment to teachers. |
+| **Mr Keesing**  | Annoyance mixed with humour and respect. | Wit and resilience.     |
 
 ### 5. What does Anne write in her first essay?
 
@@ -243,13 +244,13 @@ Yes. He begins by punishing Anne repeatedly, but later responds warmly to her hu
 
 ### 7. What do Anne's statements reveal?
 
-| Statement | Reveals |
-|---|---|
-| We do not seem able to get closer. | She is introspective and emotionally honest. |
-| I want the diary to be my friend. | She longs for deep companionship. |
-| I was plunked down as a birthday present. | She has humour and playful expression. |
-| Teachers are unpredictable creatures. | She is sharp, observant, and witty. |
-| The trick was convincing arguments. | She is intelligent and inventive. |
+| Statement                                 | Reveals                                      |
+| ----------------------------------------- | -------------------------------------------- |
+| We do not seem able to get closer.        | She is introspective and emotionally honest. |
+| I want the diary to be my friend.         | She longs for deep companionship.            |
+| I was plunked down as a birthday present. | She has humour and playful expression.       |
+| Teachers are unpredictable creatures.     | She is sharp, observant, and witty.          |
+| The trick was convincing arguments.       | She is intelligent and inventive.            |
 
 ---
 
@@ -257,70 +258,70 @@ Yes. He begins by punishing Anne repeatedly, but later responds warmly to her hu
 
 ## Compound Words
 
-| Compound Word | Meaning |
-|---|---|
-| **heartbreaking** | producing great sadness |
-| **homesick** | missing home and family very much |
-| **blockhead** | informal word for a very stupid person |
-| **law-abiding** | obeying and respecting the law |
-| **overdo** | do something to an excessive degree |
-| **daydream** | think pleasant thoughts while forgetting the present |
-| **breakdown** | occasion when a vehicle or machine stops working |
-| **output** | something produced by a person, machine, or organisation |
+| Compound Word     | Meaning                                                  |
+| ----------------- | -------------------------------------------------------- |
+| **heartbreaking** | producing great sadness                                  |
+| **homesick**      | missing home and family very much                        |
+| **blockhead**     | informal word for a very stupid person                   |
+| **law-abiding**   | obeying and respecting the law                           |
+| **overdo**        | do something to an excessive degree                      |
+| **daydream**      | think pleasant thoughts while forgetting the present     |
+| **breakdown**     | occasion when a vehicle or machine stops working         |
+| **output**        | something produced by a person, machine, or organisation |
 
 ## Phrasal Verbs
 
-| Phrasal Verb | Meaning |
-|---|---|
-| **plunge in** | go straight to the topic |
-| **kept back** | not promoted |
-| **move up** | go to the next grade |
-| **ramble on** | speak or write without focus |
-| **get along with** | have a good relationship with |
-| **calm down** | make someone quiet or less excited |
-| **stay in** | stay indoors |
-| **make up for** | compensate |
-| **hand in** | submit work to a teacher or authority |
+| Phrasal Verb       | Meaning                               |
+| ------------------ | ------------------------------------- |
+| **plunge in**      | go straight to the topic              |
+| **kept back**      | not promoted                          |
+| **move up**        | go to the next grade                  |
+| **ramble on**      | speak or write without focus          |
+| **get along with** | have a good relationship with         |
+| **calm down**      | make someone quiet or less excited    |
+| **stay in**        | stay indoors                          |
+| **make up for**    | compensate                            |
+| **hand in**        | submit work to a teacher or authority |
 
 ## Idioms from the Text
 
-| Idiom | Meaning |
-|---|---|
-| **quaking in its boots** | shaking with fear or nervousness |
-| **lose heart** | become discouraged |
-| **for ages** | for a long time |
-| **the joke was on him** | the person trying to joke became the target of the joke |
-| **caught my eye** | attracted my attention |
-| **he had had enough** | he had reached his limit |
-| **laugh ourselves silly** | laugh a lot |
-| **can't bring myself to** | cannot force myself emotionally to do something |
+| Idiom                     | Meaning                                                 |
+| ------------------------- | ------------------------------------------------------- |
+| **quaking in its boots**  | shaking with fear or nervousness                        |
+| **lose heart**            | become discouraged                                      |
+| **for ages**              | for a long time                                         |
+| **the joke was on him**   | the person trying to joke became the target of the joke |
+| **caught my eye**         | attracted my attention                                  |
+| **he had had enough**     | he had reached his limit                                |
+| **laugh ourselves silly** | laugh a lot                                             |
+| **can't bring myself to** | cannot force myself emotionally to do something         |
 
 ## Heart Expressions
 
-| Expression | Meaning | Sentence |
-|---|---|---|
-| **break somebody's heart** | deeply hurt someone | The sad news broke her heart. |
-| **close/dear to heart** | emotionally important | Education is close to my heart. |
-| **from the bottom of my heart** | sincerely | I thank you from the bottom of my heart. |
-| **have a heart** | be kind | Have a heart and help him. |
-| **heart of stone** | no sympathy | A person with a heart of stone ignores suffering. |
-| **heart goes out to someone** | feel sympathy | My heart goes out to the flood victims. |
+| Expression                      | Meaning               | Sentence                                          |
+| ------------------------------- | --------------------- | ------------------------------------------------- |
+| **break somebody's heart**      | deeply hurt someone   | The sad news broke her heart.                     |
+| **close/dear to heart**         | emotionally important | Education is close to my heart.                   |
+| **from the bottom of my heart** | sincerely             | I thank you from the bottom of my heart.          |
+| **have a heart**                | be kind               | Have a heart and help him.                        |
+| **heart of stone**              | no sympathy           | A person with a heart of stone ignores suffering. |
+| **heart goes out to someone**   | feel sympathy         | My heart goes out to the flood victims.           |
 
 ## Contracted Forms
 
-| Contracted Form | Full Form |
-|---|---|
-| **I've** | I have |
-| **doesn't** | does not |
-| **I'm** | I am |
-| **can't** | cannot |
-| **that's** | that is |
-| **we'll** | we will |
-| **you're** | you are |
-| **he'd** | he had / he would |
-| **I'd** | I had / I would |
-| **she's** | she is / she has |
-| **they're** | they are |
+| Contracted Form | Full Form         |
+| --------------- | ----------------- |
+| **I've**        | I have            |
+| **doesn't**     | does not          |
+| **I'm**         | I am              |
+| **can't**       | cannot            |
+| **that's**      | that is           |
+| **we'll**       | we will           |
+| **you're**      | you are           |
+| **he'd**        | he had / he would |
+| **I'd**         | I had / I would   |
+| **she's**       | she is / she has  |
+| **they're**     | they are          |
 
 Contracted forms make diary writing sound closer to speech.
 
@@ -344,29 +345,29 @@ Diary entries often include:
 
 ## Diary Writing Checklist
 
-| Feature | Example |
-|---|---|
-| Date | 20 June 1942 |
-| Personal voice | I felt... |
-| Emotion | worried, excited, lonely, relieved |
-| Reflection | I realised that... |
-| Natural language | Couldn't believe it. What a day! |
-| Specific detail | names, places, exact incidents |
+| Feature          | Example                            |
+| ---------------- | ---------------------------------- |
+| Date             | 20 June 1942                       |
+| Personal voice   | I felt...                          |
+| Emotion          | worried, excited, lonely, relieved |
+| Reflection       | I realised that...                 |
+| Natural language | Couldn't believe it. What a day!   |
+| Specific detail  | names, places, exact incidents     |
 
 ## Samuel Pepys Listening Summary
 
-| Prompt | Answer |
-|---|---|
-| Diary date | 2 September 1666 |
-| Writer | Samuel Pepys |
-| Person who told him | Jane |
-| Time she called | about three in the morning |
-| Why he slept again | He thought the fire was far enough away. |
-| Time he rose again | about seven in the morning |
-| Houses burned | above 300 |
-| Fire spread to | Fish Street by London Bridge |
-| Where Pepys walked | the Tower |
-| Who went with him | Sir J. Robinson's little son |
+| Prompt              | Answer                                   |
+| ------------------- | ---------------------------------------- |
+| Diary date          | 2 September 1666                         |
+| Writer              | Samuel Pepys                             |
+| Person who told him | Jane                                     |
+| Time she called     | about three in the morning               |
+| Why he slept again  | He thought the fire was far enough away. |
+| Time he rose again  | about seven in the morning               |
+| Houses burned       | above 300                                |
+| Fire spread to      | Fish Street by London Bridge             |
+| Where Pepys walked  | the Tower                                |
+| Who went with him   | Sir J. Robinson's little son             |
 
 ## Diary Writing Prompt
 
@@ -386,13 +387,13 @@ Suggested structure:
 
 ## Text Identity
 
-| Detail | Information |
-|---|---|
-| **Poem** | Amanda! |
-| **Poet** | Robin Klein |
-| **Main Character** | Amanda |
+| Detail               | Information                                             |
+| -------------------- | ------------------------------------------------------- |
+| **Poem**             | Amanda!                                                 |
+| **Poet**             | Robin Klein                                             |
+| **Main Character**   | Amanda                                                  |
 | **Central Conflict** | Adult instructions versus a child's desire for freedom. |
-| **Tone** | Critical, imaginative, and sympathetic |
+| **Tone**             | Critical, imaginative, and sympathetic                  |
 
 ## Short Summary
 
@@ -402,12 +403,12 @@ In alternate stanzas, Amanda escapes into imagination. She imagines herself as a
 
 ## Outer Voice and Inner Voice
 
-| Adult Voice | Amanda's Inner World |
-|---|---|
-| Commands and corrections. | Quiet fantasy and escape. |
-| Focus on behaviour. | Focus on freedom. |
-| Repeats Amanda's name. | Imagines mermaid, orphan, Rapunzel. |
-| Assumes she is sulking. | She is likely withdrawn into imagination. |
+| Adult Voice               | Amanda's Inner World                      |
+| ------------------------- | ----------------------------------------- |
+| Commands and corrections. | Quiet fantasy and escape.                 |
+| Focus on behaviour.       | Focus on freedom.                         |
+| Repeats Amanda's name.    | Imagines mermaid, orphan, Rapunzel.       |
+| Assumes she is sulking.   | She is likely withdrawn into imagination. |
 
 ## Question Answers
 
@@ -449,14 +450,14 @@ Not necessarily. The adult assumes she is sulking, but she may simply be withdra
 
 ## Poetic Devices
 
-| Device | Example / Explanation |
-|---|---|
-| **Repetition** | Amanda's name is repeated to show nagging. |
-| **Contrast** | Adult instructions contrast with Amanda's fantasies. |
-| **Allusion** | Rapunzel and mermaid references. |
-| **Imagery** | Emerald sea, soft dust, tower. |
-| **Parentheses** | Separate inner imagination from outer speech. |
-| **Irony** | Adult says anyone would think she nagged Amanda, while the poem shows constant nagging. |
+| Device          | Example / Explanation                                                                   |
+| --------------- | --------------------------------------------------------------------------------------- |
+| **Repetition**  | Amanda's name is repeated to show nagging.                                              |
+| **Contrast**    | Adult instructions contrast with Amanda's fantasies.                                    |
+| **Allusion**    | Rapunzel and mermaid references.                                                        |
+| **Imagery**     | Emerald sea, soft dust, tower.                                                          |
+| **Parentheses** | Separate inner imagination from outer speech.                                           |
+| **Irony**       | Adult says anyone would think she nagged Amanda, while the poem shows constant nagging. |
 
 ## Main Message
 
@@ -468,42 +469,42 @@ Children need guidance, but constant correction can make them withdraw. The poem
 
 ## Anne Frank
 
-| Item | Key Point |
-|---|---|
-| Diary name | Kitty |
-| Main reason for diary | Need for a true friend |
-| Famous line idea | Paper has more patience than people |
-| Teacher | Mr Keesing |
-| Punishment | Essays about being a chatterbox |
-| Turning point | Humorous poem about ducklings |
-| Personality | Honest, witty, reflective, affectionate |
+| Item                  | Key Point                               |
+| --------------------- | --------------------------------------- |
+| Diary name            | Kitty                                   |
+| Main reason for diary | Need for a true friend                  |
+| Famous line idea      | Paper has more patience than people     |
+| Teacher               | Mr Keesing                              |
+| Punishment            | Essays about being a chatterbox         |
+| Turning point         | Humorous poem about ducklings           |
+| Personality           | Honest, witty, reflective, affectionate |
 
 ## Amanda!
 
-| Item | Key Point |
-|---|---|
-| Speaker | Parent or elder |
-| Amanda wants | Freedom, silence, privacy |
-| Fantasy 1 | Mermaid |
-| Fantasy 2 | Orphan |
-| Fantasy 3 | Rapunzel |
+| Item          | Key Point                      |
+| ------------- | ------------------------------ |
+| Speaker       | Parent or elder                |
+| Amanda wants  | Freedom, silence, privacy      |
+| Fantasy 1     | Mermaid                        |
+| Fantasy 2     | Orphan                         |
+| Fantasy 3     | Rapunzel                       |
 | Main contrast | Instruction versus imagination |
-| Tone | Sympathetic toward Amanda |
+| Tone          | Sympathetic toward Amanda      |
 
 ---
 
 # Unit 4H: Common Mistakes and Corrections
 
-| Mistake | Better Understanding |
-|---|---|
-| Thinking Anne has no friends at all. | She has many friends but no true confidant. |
-| Calling Anne only talkative. | She is also intelligent, reflective, and witty. |
-| Seeing Mr Keesing as only strict. | He is strict but can appreciate humour. |
-| Ignoring historical context. | Anne's diary later becomes important because of the Holocaust. |
-| Using formal language in diary entries. | Diary language can be personal, natural, and reflective. |
-| Thinking Amanda is simply disobedient. | She is emotionally escaping constant correction. |
-| Missing parentheses in "Amanda!" | They show Amanda's inner fantasy world. |
-| Thinking guidance is wrong. | The poem criticises excessive nagging, not all guidance. |
+| Mistake                                 | Better Understanding                                           |
+| --------------------------------------- | -------------------------------------------------------------- |
+| Thinking Anne has no friends at all.    | She has many friends but no true confidant.                    |
+| Calling Anne only talkative.            | She is also intelligent, reflective, and witty.                |
+| Seeing Mr Keesing as only strict.       | He is strict but can appreciate humour.                        |
+| Ignoring historical context.            | Anne's diary later becomes important because of the Holocaust. |
+| Using formal language in diary entries. | Diary language can be personal, natural, and reflective.       |
+| Thinking Amanda is simply disobedient.  | She is emotionally escaping constant correction.               |
+| Missing parentheses in "Amanda!"        | They show Amanda's inner fantasy world.                        |
+| Thinking guidance is wrong.             | The poem criticises excessive nagging, not all guidance.       |
 
 ---
 
@@ -568,4 +569,4 @@ Children need guidance, but constant correction can make them withdraw. The poem
 
 ---
 
-*Source: NCERT Class 10 - English First Flight, Chapter 4 raw file. Learner-facing version manually rewritten from the extracted content of "From the Diary of Anne Frank" and "Amanda!".*
+_Source: NCERT Class 10 - English First Flight, Chapter 4 raw file. Learner-facing version manually rewritten from the extracted content of "From the Diary of Anne Frank" and "Amanda!"._

@@ -49,56 +49,56 @@ By the end of this chapter, you should be able to:
 
 ## Big Picture Map
 
-| Theme | Main Idea | Examples |
-| --- | --- | --- |
-| Atmospheric water | Water occurs as gas, liquid, and solid | Water vapour, droplets, ice crystals |
-| Humidity | Water vapour in air | Absolute and relative humidity |
-| Saturation | Air holds moisture to full capacity | Dew point |
-| Evaporation | Liquid water becomes vapour | Heat, dry air, wind |
-| Condensation | Vapour becomes liquid or solid | Dew, frost, fog, clouds |
-| Condensation nuclei | Tiny particles help condensation | Dust, smoke, salt |
-| Clouds | Condensed droplets or ice crystals in free air | Cirrus, cumulus, stratus, nimbus |
-| Precipitation | Moisture falls to earth | Rain, snow, sleet, hail |
-| Rainfall types | Classified by origin | Convectional, orographic, cyclonic |
-| Rainfall distribution | Rainfall varies by latitude, coast, relief, winds | Equator wet, rain shadow dry |
+| Theme                 | Main Idea                                         | Examples                             |
+| --------------------- | ------------------------------------------------- | ------------------------------------ |
+| Atmospheric water     | Water occurs as gas, liquid, and solid            | Water vapour, droplets, ice crystals |
+| Humidity              | Water vapour in air                               | Absolute and relative humidity       |
+| Saturation            | Air holds moisture to full capacity               | Dew point                            |
+| Evaporation           | Liquid water becomes vapour                       | Heat, dry air, wind                  |
+| Condensation          | Vapour becomes liquid or solid                    | Dew, frost, fog, clouds              |
+| Condensation nuclei   | Tiny particles help condensation                  | Dust, smoke, salt                    |
+| Clouds                | Condensed droplets or ice crystals in free air    | Cirrus, cumulus, stratus, nimbus     |
+| Precipitation         | Moisture falls to earth                           | Rain, snow, sleet, hail              |
+| Rainfall types        | Classified by origin                              | Convectional, orographic, cyclonic   |
+| Rainfall distribution | Rainfall varies by latitude, coast, relief, winds | Equator wet, rain shadow dry         |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Water vapour | Gaseous form of water present in air. |
-| Humidity | Water vapour present in the air. |
-| Absolute humidity | Actual amount of water vapour in air, expressed as grams per cubic metre. |
-| Relative humidity | Percentage of moisture in air compared with its full capacity at a given temperature. |
-| Saturated air | Air containing moisture to its full capacity at a given temperature. |
-| Dew point | Temperature at which a given air sample becomes saturated. |
-| Evaporation | Transformation of water from liquid to gaseous state. |
-| Transpiration | Release of water vapour from plants. |
-| Condensation | Transformation of water vapour into liquid water. |
-| Sublimation | Direct transformation of water vapour into solid form. |
-| Hygroscopic nuclei | Small particles that absorb water and help condensation. |
-| Dew | Water droplets deposited on cool solid surfaces. |
-| Frost | Ice crystals deposited on cold surfaces when temperature is at or below freezing. |
-| Fog | Cloud with base at or very near the ground. |
-| Mist | Near-surface condensation similar to fog, often common over mountains. |
-| Smog | Mixture of smoke and fog. |
-| Cloud | Mass of water droplets or ice crystals formed by condensation in free air. |
-| Cirrus cloud | High, thin, feathery, white cloud. |
-| Cumulus cloud | Cotton-like cloud with flat base. |
-| Stratus cloud | Layered cloud covering large parts of the sky. |
-| Nimbus cloud | Dark, dense, rain-bearing cloud. |
-| Precipitation | Release of moisture from atmosphere after condensation. |
-| Rainfall | Liquid precipitation. |
-| Snowfall | Solid precipitation as snowflakes when temperature is below freezing. |
-| Sleet | Frozen raindrops or refrozen melted snow-water. |
-| Hailstone | Rounded ice piece with layers, formed in strong cloud systems. |
-| Convectional rain | Rain caused by rising heated air. |
-| Orographic rain | Rain caused when moist air is forced to rise over mountains. |
-| Relief rain | Another name for orographic rain. |
-| Cyclonic rain | Rain associated with cyclones or fronts. |
-| Rain-shadow area | Dry area on the leeward side of a mountain. |
+| Term               | Meaning                                                                               |
+| ------------------ | ------------------------------------------------------------------------------------- |
+| Water vapour       | Gaseous form of water present in air.                                                 |
+| Humidity           | Water vapour present in the air.                                                      |
+| Absolute humidity  | Actual amount of water vapour in air, expressed as grams per cubic metre.             |
+| Relative humidity  | Percentage of moisture in air compared with its full capacity at a given temperature. |
+| Saturated air      | Air containing moisture to its full capacity at a given temperature.                  |
+| Dew point          | Temperature at which a given air sample becomes saturated.                            |
+| Evaporation        | Transformation of water from liquid to gaseous state.                                 |
+| Transpiration      | Release of water vapour from plants.                                                  |
+| Condensation       | Transformation of water vapour into liquid water.                                     |
+| Sublimation        | Direct transformation of water vapour into solid form.                                |
+| Hygroscopic nuclei | Small particles that absorb water and help condensation.                              |
+| Dew                | Water droplets deposited on cool solid surfaces.                                      |
+| Frost              | Ice crystals deposited on cold surfaces when temperature is at or below freezing.     |
+| Fog                | Cloud with base at or very near the ground.                                           |
+| Mist               | Near-surface condensation similar to fog, often common over mountains.                |
+| Smog               | Mixture of smoke and fog.                                                             |
+| Cloud              | Mass of water droplets or ice crystals formed by condensation in free air.            |
+| Cirrus cloud       | High, thin, feathery, white cloud.                                                    |
+| Cumulus cloud      | Cotton-like cloud with flat base.                                                     |
+| Stratus cloud      | Layered cloud covering large parts of the sky.                                        |
+| Nimbus cloud       | Dark, dense, rain-bearing cloud.                                                      |
+| Precipitation      | Release of moisture from atmosphere after condensation.                               |
+| Rainfall           | Liquid precipitation.                                                                 |
+| Snowfall           | Solid precipitation as snowflakes when temperature is below freezing.                 |
+| Sleet              | Frozen raindrops or refrozen melted snow-water.                                       |
+| Hailstone          | Rounded ice piece with layers, formed in strong cloud systems.                        |
+| Convectional rain  | Rain caused by rising heated air.                                                     |
+| Orographic rain    | Rain caused when moist air is forced to rise over mountains.                          |
+| Relief rain        | Another name for orographic rain.                                                     |
+| Cyclonic rain      | Rain associated with cyclones or fronts.                                              |
+| Rain-shadow area   | Dry area on the leeward side of a mountain.                                           |
 
 ---
 
@@ -126,11 +126,11 @@ Water is present in the atmosphere in three forms:
 
 ## 1.3 Examples
 
-| Form | Example |
-| --- | --- |
-| Gaseous | Water vapour |
-| Liquid | Cloud droplets, fog, rain |
-| Solid | Ice crystals, snow, hail, frost |
+| Form    | Example                         |
+| ------- | ------------------------------- |
+| Gaseous | Water vapour                    |
+| Liquid  | Cloud droplets, fog, rain       |
+| Solid   | Ice crystals, snow, hail, frost |
 
 ## 1.4 Sources Of Atmospheric Moisture
 
@@ -532,12 +532,12 @@ Formation sequence:
 
 ## 10.4 Frost vs Dew
 
-| Basis | Dew | Frost |
-| --- | --- | --- |
-| Form | Water droplets | Ice crystals |
-| Temperature | Dew point above freezing | Dew point at or below freezing |
-| Surface | Cool surfaces | Cold/freezing surfaces |
-| Conditions | Clear, calm, humid, long cold night | Same as dew plus temperature at/below freezing |
+| Basis       | Dew                                 | Frost                                          |
+| ----------- | ----------------------------------- | ---------------------------------------------- |
+| Form        | Water droplets                      | Ice crystals                                   |
+| Temperature | Dew point above freezing            | Dew point at or below freezing                 |
+| Surface     | Cool surfaces                       | Cold/freezing surfaces                         |
+| Conditions  | Clear, calm, humid, long cold night | Same as dew plus temperature at/below freezing |
 
 ---
 
@@ -581,11 +581,11 @@ Fog may be understood as a mini cloud near the ground, formed around dust, smoke
 
 ## 11.7 Fog vs Cloud
 
-| Basis | Fog | Cloud |
-| --- | --- | --- |
-| Location | At or near ground | At some height above surface |
+| Basis             | Fog                                   | Cloud                                     |
+| ----------------- | ------------------------------------- | ----------------------------------------- |
+| Location          | At or near ground                     | At some height above surface              |
 | Visibility impact | Strongly reduces visibility at ground | May not reduce ground visibility directly |
-| Formation | Condensation near ground | Condensation in free air aloft |
+| Formation         | Condensation near ground              | Condensation in free air aloft            |
 
 ---
 
@@ -753,12 +753,12 @@ Clouds with extensive vertical development include:
 
 ## 17.5 Cloud Revision Table
 
-| Type | Height/Position | Appearance | Key Feature |
-| --- | --- | --- | --- |
-| Cirrus | High, 8000-12000 m | Thin, feathery, white | Highest basic type |
-| Cumulus | 4000-7000 m | Cotton-like, patches | Flat base |
-| Stratus | Layered | Covers large sky area | Sheet-like |
-| Nimbus | Middle/low | Dark, dense, opaque | Rain-bearing |
+| Type    | Height/Position    | Appearance            | Key Feature        |
+| ------- | ------------------ | --------------------- | ------------------ |
+| Cirrus  | High, 8000-12000 m | Thin, feathery, white | Highest basic type |
+| Cumulus | 4000-7000 m        | Cotton-like, patches  | Flat base          |
+| Stratus | Layered            | Covers large sky area | Sheet-like         |
+| Nimbus  | Middle/low         | Dark, dense, opaque   | Rain-bearing       |
 
 ---
 
@@ -839,12 +839,12 @@ They often have several concentric layers of ice.
 
 ## 20.5 Sleet vs Hail
 
-| Basis | Sleet | Hail |
-| --- | --- | --- |
-| Form | Small frozen raindrops or refrozen snow-water | Rounded ice pieces |
-| Size | Usually not bigger than original raindrops | Can grow larger in strong storms |
-| Formation | Warm layer above cold near-surface layer | Repeated freezing in cold cloud layers |
-| Occurrence | Limited | Sporadic and local |
+| Basis      | Sleet                                         | Hail                                   |
+| ---------- | --------------------------------------------- | -------------------------------------- |
+| Form       | Small frozen raindrops or refrozen snow-water | Rounded ice pieces                     |
+| Size       | Usually not bigger than original raindrops    | Can grow larger in strong storms       |
+| Formation  | Warm layer above cold near-surface layer      | Repeated freezing in cold cloud layers |
+| Occurrence | Limited                                       | Sporadic and local                     |
 
 ---
 
@@ -1112,44 +1112,44 @@ Leeward side is drier and may become rain-shadow area.
 
 ## 28.1 Absolute Humidity vs Relative Humidity
 
-| Absolute Humidity | Relative Humidity |
-| --- | --- |
-| Actual amount of water vapour | Percentage compared with full capacity |
-| Expressed in grams per cubic metre | Expressed as percentage |
-| Changes with actual moisture | Changes with moisture and temperature |
+| Absolute Humidity                  | Relative Humidity                      |
+| ---------------------------------- | -------------------------------------- |
+| Actual amount of water vapour      | Percentage compared with full capacity |
+| Expressed in grams per cubic metre | Expressed as percentage                |
+| Changes with actual moisture       | Changes with moisture and temperature  |
 
 ## 28.2 Evaporation vs Condensation
 
-| Evaporation | Condensation |
-| --- | --- |
-| Liquid to gas | Gas to liquid |
-| Caused mainly by heat gain | Caused by heat loss |
-| Adds vapour to atmosphere | Removes vapour from atmosphere |
+| Evaporation                     | Condensation                          |
+| ------------------------------- | ------------------------------------- |
+| Liquid to gas                   | Gas to liquid                         |
+| Caused mainly by heat gain      | Caused by heat loss                   |
+| Adds vapour to atmosphere       | Removes vapour from atmosphere        |
 | Favoured by heat, dryness, wind | Favoured by cooling and high humidity |
 
 ## 28.3 Dew vs Frost
 
-| Dew | Frost |
-| --- | --- |
-| Water droplets | Ice crystals |
+| Dew                      | Frost                       |
+| ------------------------ | --------------------------- |
+| Water droplets           | Ice crystals                |
 | Dew point above freezing | Dew point at/below freezing |
-| Forms on cool surfaces | Forms on freezing surfaces |
+| Forms on cool surfaces   | Forms on freezing surfaces  |
 
 ## 28.4 Fog vs Mist
 
-| Fog | Mist |
-| --- | --- |
-| Cloud at/near ground | Similar near-ground condensation |
-| Strongly reduces visibility | Also reduces visibility |
-| Often where warm and cold air currents meet | Common over mountains |
+| Fog                                         | Mist                             |
+| ------------------------------------------- | -------------------------------- |
+| Cloud at/near ground                        | Similar near-ground condensation |
+| Strongly reduces visibility                 | Also reduces visibility          |
+| Often where warm and cold air currents meet | Common over mountains            |
 
 ## 28.5 Convectional vs Orographic vs Cyclonic Rain
 
-| Type | Cause | Common Area |
-| --- | --- | --- |
-| Convectional | Heated air rises | Equator, summer afternoons, interiors |
-| Orographic | Moist air forced over mountain | Windward mountain slopes |
-| Cyclonic | Air masses/fronts/cyclones | Middle latitudes and cyclone zones |
+| Type         | Cause                          | Common Area                           |
+| ------------ | ------------------------------ | ------------------------------------- |
+| Convectional | Heated air rises               | Equator, summer afternoons, interiors |
+| Orographic   | Moist air forced over mountain | Windward mountain slopes              |
+| Cyclonic     | Air masses/fronts/cyclones     | Middle latitudes and cyclone zones    |
 
 ---
 
@@ -1281,9 +1281,9 @@ The key difference is that dew is liquid and frost is solid.
 
 Use this table from June 1 to December 31:
 
-| Date | Place | State | Rainfall Amount | Cause Mentioned | Impact |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  | Monsoon/cyclone/cloudburst/orographic |  |
+| Date | Place | State | Rainfall Amount | Cause Mentioned                       | Impact |
+| ---- | ----- | ----- | --------------- | ------------------------------------- | ------ |
+|      |       |       |                 | Monsoon/cyclone/cloudburst/orographic |        |
 
 ## 31.2 What To Look For
 

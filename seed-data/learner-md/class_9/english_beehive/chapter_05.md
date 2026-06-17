@@ -1,20 +1,21 @@
 # Chapter 5: Limitless Possibilities and Shared Victory
+
 ### NCERT Class 9 - English Beehive
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 9 |
-| **Subject** | English Beehive |
-| **Chapter** | 5 |
-| **Actual Main Texts** | "The World of Limitless Possibilities" and "Nine Gold Medals" |
-| **Raw File Header** | "The Snake and the Mirror" |
-| **Textbook Pages** | 1-168 |
-| **Core Theme** | Disability, dignity, resilience, inclusion, para-sports, Special Olympics, empathy, and collective success. |
-| **Main Skills** | Interview comprehension, fact-opinion distinction, cause-effect reasoning, vocabulary, modal auxiliaries, reported speech, formal and informal interviews, notice writing, poem appreciation, slogan writing, and poster design. |
+| Detail                | Learner-Friendly Information                                                                                                                                                                                                     |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Class**             | 9                                                                                                                                                                                                                                |
+| **Subject**           | English Beehive                                                                                                                                                                                                                  |
+| **Chapter**           | 5                                                                                                                                                                                                                                |
+| **Actual Main Texts** | "The World of Limitless Possibilities" and "Nine Gold Medals"                                                                                                                                                                    |
+| **Raw File Header**   | "The Snake and the Mirror"                                                                                                                                                                                                       |
+| **Textbook Pages**    | 1-168                                                                                                                                                                                                                            |
+| **Core Theme**        | Disability, dignity, resilience, inclusion, para-sports, Special Olympics, empathy, and collective success.                                                                                                                      |
+| **Main Skills**       | Interview comprehension, fact-opinion distinction, cause-effect reasoning, vocabulary, modal auxiliaries, reported speech, formal and informal interviews, notice writing, poem appreciation, slogan writing, and poster design. |
 
 > [!NOTE]
 > The raw source file is `chapter_05.md` and its extraction header says "The Snake and the Mirror", but the actual chapter content contains **The World of Limitless Possibilities**, an interview with **Dr. Deepa Malik**, and the poem **Nine Gold Medals**. This learner-facing version follows the actual chapter content.
@@ -23,16 +24,16 @@
 
 ## Section Structure
 
-| Unit | Text / Skill | Main Learning Focus |
-|---|---|---|
-| **5A** | Before Reading | Sheetal Devi, Arjuna Award, Paralympics, and inspiration. |
-| **5B** | The World of Limitless Possibilities | Interview with Dr. Deepa Malik, para-sports, resilience, and inclusion. |
-| **5C** | Prose Comprehension | Fact table, fact-opinion, cause-effect, extract answers, and long answers. |
-| **5D** | Vocabulary and Grammar | Phrases, movement cline, modal auxiliaries, direct speech, and reported speech. |
-| **5E** | Speaking and Writing | Formal/informal interview, notice writing, and assembly listening task. |
-| **5F** | Learning Beyond the Text | Paralympics origin, presentation planning, and disability awareness. |
-| **5G** | Nine Gold Medals | Special Olympics, empathy, poem summary, imagery, tone, and message. |
-| **5H** | Poem-Based Language Work | Collocations, adjective choice, slogans, poster design, and sports infographic. |
+| Unit   | Text / Skill                         | Main Learning Focus                                                             |
+| ------ | ------------------------------------ | ------------------------------------------------------------------------------- |
+| **5A** | Before Reading                       | Sheetal Devi, Arjuna Award, Paralympics, and inspiration.                       |
+| **5B** | The World of Limitless Possibilities | Interview with Dr. Deepa Malik, para-sports, resilience, and inclusion.         |
+| **5C** | Prose Comprehension                  | Fact table, fact-opinion, cause-effect, extract answers, and long answers.      |
+| **5D** | Vocabulary and Grammar               | Phrases, movement cline, modal auxiliaries, direct speech, and reported speech. |
+| **5E** | Speaking and Writing                 | Formal/informal interview, notice writing, and assembly listening task.         |
+| **5F** | Learning Beyond the Text             | Paralympics origin, presentation planning, and disability awareness.            |
+| **5G** | Nine Gold Medals                     | Special Olympics, empathy, poem summary, imagery, tone, and message.            |
+| **5H** | Poem-Based Language Work             | Collocations, adjective choice, slogans, poster design, and sports infographic. |
 
 ---
 
@@ -40,57 +41,57 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Understand an interview** | Identify the speaker's experience, values, achievements, and message. |
-| **Explain resilience** | Describe how setbacks can become sources of strength. |
-| **Discuss inclusion** | Explain why accessibility, dignity, and fair opportunity matter. |
-| **Distinguish fact and opinion** | Separate verifiable information from personal interpretation. |
-| **Recognise cause and effect** | Explain how events lead to outcomes in a life story. |
-| **Analyse title** | Justify "The World of Limitless Possibilities" using evidence from the text. |
-| **Use vocabulary accurately** | Use phrases such as "defy the odds" and "new lease of life". |
-| **Use modal auxiliaries** | Identify functions of could, couldn't, should, and would. |
-| **Report speech** | Convert direct statements and conversations into reported speech. |
-| **Write a notice** | Draft a concise school notice with correct format. |
-| **Appreciate poetry** | Explain imagery, tone, mood, stanza gist, and message in "Nine Gold Medals". |
-| **Value empathy** | Explain how sports can teach cooperation beyond competition. |
+| Outcome                          | You Should Be Able To...                                                     |
+| -------------------------------- | ---------------------------------------------------------------------------- |
+| **Understand an interview**      | Identify the speaker's experience, values, achievements, and message.        |
+| **Explain resilience**           | Describe how setbacks can become sources of strength.                        |
+| **Discuss inclusion**            | Explain why accessibility, dignity, and fair opportunity matter.             |
+| **Distinguish fact and opinion** | Separate verifiable information from personal interpretation.                |
+| **Recognise cause and effect**   | Explain how events lead to outcomes in a life story.                         |
+| **Analyse title**                | Justify "The World of Limitless Possibilities" using evidence from the text. |
+| **Use vocabulary accurately**    | Use phrases such as "defy the odds" and "new lease of life".                 |
+| **Use modal auxiliaries**        | Identify functions of could, couldn't, should, and would.                    |
+| **Report speech**                | Convert direct statements and conversations into reported speech.            |
+| **Write a notice**               | Draft a concise school notice with correct format.                           |
+| **Appreciate poetry**            | Explain imagery, tone, mood, stanza gist, and message in "Nine Gold Medals". |
+| **Value empathy**                | Explain how sports can teach cooperation beyond competition.                 |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Paralympics** | International sports competition for athletes with disabilities, held after the Olympics. |
-| **Para-athlete** | Athlete who competes in sports adapted for persons with disabilities. |
-| **Special Olympics** | Sports movement for children and adults with intellectual disabilities. |
-| **Olympics** | International games for elite athletes from around the world. |
-| **Disability** | A physical, sensory, intellectual, or developmental condition that may affect participation unless society provides access and support. |
-| **Locomotor** | Related to movement, bones, joints, or muscles. |
-| **Sensory** | Related to senses such as sight or hearing. |
-| **Intellectual disability** | A condition affecting intellectual functioning and adaptive skills. |
-| **Resilience** | Ability to recover from difficulty. |
-| **Quell** | To overcome or put an end to something. |
-| **Stereotype** | Fixed and often unfair belief about a group of people. |
-| **Indelible** | Permanent or impossible to forget. |
-| **Squander** | Waste. |
-| **Remorse** | Deep regret. |
-| **Trailblazer** | A pioneer who opens a path for others. |
-| **Accolade** | Praise, honour, or award. |
-| **Coveted** | Strongly desired by many people. |
-| **Proponent** | Supporter of an idea. |
-| **Fortitude** | Courage and strength in difficulty. |
-| **Testament** | Proof or evidence. |
-| **Preconceived notions** | Opinions formed before knowing the full truth. |
-| **Inclusivity** | Practice of including everyone fairly. |
-| **Accessibility** | Making spaces, systems, and opportunities usable for all. |
-| **Advocacy** | Public support for a cause or right. |
-| **Empathy** | Understanding another person's feelings from their point of view. |
-| **Sympathy** | Feeling sorrow for someone else's difficulty. |
-| **Compassion** | Empathy plus the desire to help. |
-| **Modal auxiliary** | Helping verb such as could, should, would, or might. |
-| **Reported speech** | Speech reported later without quoting exact words. |
-| **Collocation** | Natural word combination, such as "standing ovation". |
+| Term                        | Meaning                                                                                                                                 |
+| --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| **Paralympics**             | International sports competition for athletes with disabilities, held after the Olympics.                                               |
+| **Para-athlete**            | Athlete who competes in sports adapted for persons with disabilities.                                                                   |
+| **Special Olympics**        | Sports movement for children and adults with intellectual disabilities.                                                                 |
+| **Olympics**                | International games for elite athletes from around the world.                                                                           |
+| **Disability**              | A physical, sensory, intellectual, or developmental condition that may affect participation unless society provides access and support. |
+| **Locomotor**               | Related to movement, bones, joints, or muscles.                                                                                         |
+| **Sensory**                 | Related to senses such as sight or hearing.                                                                                             |
+| **Intellectual disability** | A condition affecting intellectual functioning and adaptive skills.                                                                     |
+| **Resilience**              | Ability to recover from difficulty.                                                                                                     |
+| **Quell**                   | To overcome or put an end to something.                                                                                                 |
+| **Stereotype**              | Fixed and often unfair belief about a group of people.                                                                                  |
+| **Indelible**               | Permanent or impossible to forget.                                                                                                      |
+| **Squander**                | Waste.                                                                                                                                  |
+| **Remorse**                 | Deep regret.                                                                                                                            |
+| **Trailblazer**             | A pioneer who opens a path for others.                                                                                                  |
+| **Accolade**                | Praise, honour, or award.                                                                                                               |
+| **Coveted**                 | Strongly desired by many people.                                                                                                        |
+| **Proponent**               | Supporter of an idea.                                                                                                                   |
+| **Fortitude**               | Courage and strength in difficulty.                                                                                                     |
+| **Testament**               | Proof or evidence.                                                                                                                      |
+| **Preconceived notions**    | Opinions formed before knowing the full truth.                                                                                          |
+| **Inclusivity**             | Practice of including everyone fairly.                                                                                                  |
+| **Accessibility**           | Making spaces, systems, and opportunities usable for all.                                                                               |
+| **Advocacy**                | Public support for a cause or right.                                                                                                    |
+| **Empathy**                 | Understanding another person's feelings from their point of view.                                                                       |
+| **Sympathy**                | Feeling sorrow for someone else's difficulty.                                                                                           |
+| **Compassion**              | Empathy plus the desire to help.                                                                                                        |
+| **Modal auxiliary**         | Helping verb such as could, should, would, or might.                                                                                    |
+| **Reported speech**         | Speech reported later without quoting exact words.                                                                                      |
+| **Collocation**             | Natural word combination, such as "standing ovation".                                                                                   |
 
 ---
 
@@ -120,13 +121,13 @@ The raw chapter begins with a picture activity about Sheetal Devi, a para-archer
 
 When looking at such a picture, observe:
 
-| Observation Area | What To Notice |
-|---|---|
-| **Posture** | Confidence, concentration, readiness, and balance. |
-| **Equipment** | Bow, arrow, sports gear, target, or competition setting. |
-| **Expression** | Focus, determination, calmness, or courage. |
-| **Context** | Sports achievement, national honour, para-sports, representation. |
-| **Message** | Skill matters more than stereotypes about physical limitation. |
+| Observation Area | What To Notice                                                    |
+| ---------------- | ----------------------------------------------------------------- |
+| **Posture**      | Confidence, concentration, readiness, and balance.                |
+| **Equipment**    | Bow, arrow, sports gear, target, or competition setting.          |
+| **Expression**   | Focus, determination, calmness, or courage.                       |
+| **Context**      | Sports achievement, national honour, para-sports, representation. |
+| **Message**      | Skill matters more than stereotypes about physical limitation.    |
 
 ## Caption Examples
 
@@ -155,12 +156,12 @@ Sheetal Devi inspires me because she shows that determination and skill can over
 
 ## Paralympics: KWL Table
 
-| What I Know | What I Want To Know |
-|---|---|
+| What I Know                                                         | What I Want To Know                               |
+| ------------------------------------------------------------------- | ------------------------------------------------- |
 | Paralympics are international games for athletes with disabilities. | How are athletes classified for different events? |
-| They are held after the Olympic Games. | Which sports are included? |
-| India has won medals in Paralympic events. | Who are India's leading para-athletes? |
-| Para-athletes show high discipline and skill. | What support systems help them train? |
+| They are held after the Olympic Games.                              | Which sports are included?                        |
+| India has won medals in Paralympic events.                          | Who are India's leading para-athletes?            |
+| Para-athletes show high discipline and skill.                       | What support systems help them train?             |
 
 ---
 
@@ -168,14 +169,14 @@ Sheetal Devi inspires me because she shows that determination and skill can over
 
 ## Text Identity
 
-| Detail | Information |
-|---|---|
-| **Title** | The World of Limitless Possibilities |
-| **Form** | Interview |
-| **Interviewee** | Dr. Deepa Malik |
-| **Main Subject** | Paralympics, disability, resilience, inclusion, and advocacy |
-| **Central Message** | Physical limitations do not define human potential. |
-| **Key Phrase** | Ability beyond disability |
+| Detail              | Information                                                  |
+| ------------------- | ------------------------------------------------------------ |
+| **Title**           | The World of Limitless Possibilities                         |
+| **Form**            | Interview                                                    |
+| **Interviewee**     | Dr. Deepa Malik                                              |
+| **Main Subject**    | Paralympics, disability, resilience, inclusion, and advocacy |
+| **Central Message** | Physical limitations do not define human potential.          |
+| **Key Phrase**      | Ability beyond disability                                    |
 
 ## Who Is Dr. Deepa Malik in This Text?
 
@@ -202,25 +203,25 @@ She also speaks about advocacy. She works for emotional health, women's empowerm
 
 ## Major Ideas in the Interview
 
-| Idea | Explanation |
-|---|---|
-| **Resilience** | Dr. Malik responds to difficulty by choosing action instead of regret. |
-| **Self-belief** | She refuses to let disability define her potential. |
-| **Support system** | Family and community support help her continue. |
-| **Changing perceptions** | Her medals challenge society's assumptions about disability. |
-| **Inclusivity** | She wants dignity and fair opportunity for all. |
-| **Advocacy** | She works beyond personal success to support others. |
-| **Youth role** | She believes young people can spread awareness and change society. |
+| Idea                     | Explanation                                                            |
+| ------------------------ | ---------------------------------------------------------------------- |
+| **Resilience**           | Dr. Malik responds to difficulty by choosing action instead of regret. |
+| **Self-belief**          | She refuses to let disability define her potential.                    |
+| **Support system**       | Family and community support help her continue.                        |
+| **Changing perceptions** | Her medals challenge society's assumptions about disability.           |
+| **Inclusivity**          | She wants dignity and fair opportunity for all.                        |
+| **Advocacy**             | She works beyond personal success to support others.                   |
+| **Youth role**           | She believes young people can spread awareness and change society.     |
 
 ## Why the Title Is Appropriate
 
 The title **The World of Limitless Possibilities** is suitable because Dr. Malik's life shows possibility in the face of severe challenge.
 
-| Title Word | Connection with Text |
-|---|---|
-| **World** | Her story expands from personal life to sports, society, and advocacy. |
-| **Limitless** | She rejects the idea that disability automatically limits achievement. |
-| **Possibilities** | She becomes an athlete, medallist, role model, and advocate. |
+| Title Word        | Connection with Text                                                   |
+| ----------------- | ---------------------------------------------------------------------- |
+| **World**         | Her story expands from personal life to sports, society, and advocacy. |
+| **Limitless**     | She rejects the idea that disability automatically limits achievement. |
+| **Possibilities** | She becomes an athlete, medallist, role model, and advocate.           |
 
 The title does not mean life has no difficulties. It means that difficulty does not close every door.
 
@@ -230,19 +231,19 @@ The title does not mean life has no difficulties. It means that difficulty does 
 
 ## Fact Table: Dr. Deepa Malik
 
-| Item | Answer |
-|---|---|
-| **1. Diagnosed with spinal tumour at the age of** | 29 |
-| **2. Result of the surgery** | She was paralysed waist down and told she would be wheelchair-bound. |
-| **3. Named as one of the 10 most inspirational women para-athletes globally by** | International Paralympic Committee |
-| **4. Breakthrough Paralympic event** | 2016 Rio Paralympic Games, silver medal in shot put |
-| **5(i). First successful achievement** | First Indian female para-athlete to win an Asian Games medal in athletics |
-| **5(ii). Another first** | India's first female Paralympics medallist across any sport |
-| **6(i). Award won** | Khel Ratna |
-| **6(ii). Award won** | Arjuna Award |
-| **6(iii). Award won** | Padma Shri |
-| **7(i). Supported by her** | Emotional health of persons with challenges |
-| **7(ii). Supported by her** | Empowering women through outdoor sports and adventure activities |
+| Item                                                                             | Answer                                                                    |
+| -------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| **1. Diagnosed with spinal tumour at the age of**                                | 29                                                                        |
+| **2. Result of the surgery**                                                     | She was paralysed waist down and told she would be wheelchair-bound.      |
+| **3. Named as one of the 10 most inspirational women para-athletes globally by** | International Paralympic Committee                                        |
+| **4. Breakthrough Paralympic event**                                             | 2016 Rio Paralympic Games, silver medal in shot put                       |
+| **5(i). First successful achievement**                                           | First Indian female para-athlete to win an Asian Games medal in athletics |
+| **5(ii). Another first**                                                         | India's first female Paralympics medallist across any sport               |
+| **6(i). Award won**                                                              | Khel Ratna                                                                |
+| **6(ii). Award won**                                                             | Arjuna Award                                                              |
+| **6(iii). Award won**                                                            | Padma Shri                                                                |
+| **7(i). Supported by her**                                                       | Emotional health of persons with challenges                               |
+| **7(ii). Supported by her**                                                      | Empowering women through outdoor sports and adventure activities          |
 
 Additional support mentioned in the text: persons from lower socio-economic strata and equipment for para sportspersons.
 
@@ -250,18 +251,18 @@ Additional support mentioned in the text: persons from lower socio-economic stra
 
 ### Set 1
 
-| Sentence | Type |
-|---|---|
-| "In the 2016 Rio Paralympic Games, I secured the silver medal..." | Fact |
-| "I feel it was a moment of personal victory..." | Opinion / reflection |
+| Sentence                                                          | Type                 |
+| ----------------------------------------------------------------- | -------------------- |
+| "In the 2016 Rio Paralympic Games, I secured the silver medal..." | Fact                 |
+| "I feel it was a moment of personal victory..."                   | Opinion / reflection |
 
 This pair shows **fact-opinion**.
 
 ### Set 2
 
-| Sentence | Type |
-|---|---|
-| She was diagnosed with a tumour in her spine. | Cause / event |
+| Sentence                                                    | Type            |
+| ----------------------------------------------------------- | --------------- |
+| She was diagnosed with a tumour in her spine.               | Cause / event   |
 | She had surgery and was told she would be wheelchair-bound. | Effect / result |
 
 This pair shows **cause-effect**.
@@ -273,10 +274,10 @@ The raw exercise asks learners to mark:
 1. cause-effect
 2. fact-opinion
 
-| Pair | Correct Number | Reason |
-|---|---|---|
-| Dr. Malik was a member of a Working Group; it is believed she contributed greatly. | **2** | The first part is factual; the second is an opinion or evaluation. |
-| Paralympics showcases talent; global perception shifts and athletes are inspired. | **1** | The platform creates social impact, so it shows cause-effect. |
+| Pair                                                                               | Correct Number | Reason                                                             |
+| ---------------------------------------------------------------------------------- | -------------- | ------------------------------------------------------------------ |
+| Dr. Malik was a member of a Working Group; it is believed she contributed greatly. | **2**          | The first part is factual; the second is an opinion or evaluation. |
+| Paralympics showcases talent; global perception shifts and athletes are inspired.  | **1**          | The platform creates social impact, so it shows cause-effect.      |
 
 ## Critical Extract 1: Two Choices
 
@@ -286,13 +287,13 @@ Dr. Malik describes the turning point after her surgery. She could either remain
 
 ### Model Answers
 
-| Question | Answer |
-|---|---|
+| Question                                                                   | Answer                                                                                                                                                                     |
+| -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **(i) Why is her transformation like a caterpillar becoming a butterfly?** | A caterpillar changes into a butterfly through transformation. Similarly, Dr. Malik changed a painful setback into a life of achievement, courage, and public inspiration. |
-| **(ii) Why could she switch to para-athletics comfortably?** | She already loved sports and had been a swimmer, so she had interest, discipline, and athletic experience. |
-| **(iii) The 2016 Rio Paralympics was a breakthrough because...** | ...she won a silver medal in shot put, gaining personal victory and helping change perceptions about disability. |
-| **(iv) "In hindsight" indicates the speaker is...** | **B. reflective.** |
-| **(v) One perception she changed.** | She challenged the idea that disability means inability or dependence. |
+| **(ii) Why could she switch to para-athletics comfortably?**               | She already loved sports and had been a swimmer, so she had interest, discipline, and athletic experience.                                                                 |
+| **(iii) The 2016 Rio Paralympics was a breakthrough because...**           | ...she won a silver medal in shot put, gaining personal victory and helping change perceptions about disability.                                                           |
+| **(iv) "In hindsight" indicates the speaker is...**                        | **B. reflective.**                                                                                                                                                         |
+| **(v) One perception she changed.**                                        | She challenged the idea that disability means inability or dependence.                                                                                                     |
 
 ## Critical Extract 2: Sports and Stereotypes
 
@@ -302,13 +303,13 @@ Dr. Malik explains how Paralympics changes attitudes by showing strength, skill,
 
 ### Model Answers
 
-| Question | Answer |
-|---|---|
-| **(i) Words describing the speaker's tone.** | **(a) A and D - appreciative and optimistic.** |
-| **(ii) ability : potential :: preconceived notions : ____** | stereotypes |
-| **(iii) True or false: Paralympics showcases ability and questions stereotypes.** | **True.** |
-| **(iv) Meaning of "helped me push boundaries".** | Paralympics helped her go beyond limits imposed by body, society, and expectation. |
-| **(v) Phrase suggesting transformation.** | "a new lease of life" |
+| Question                                                                          | Answer                                                                             |
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| **(i) Words describing the speaker's tone.**                                      | **(a) A and D - appreciative and optimistic.**                                     |
+| **(ii) ability : potential :: preconceived notions : \_\_\_\_**                   | stereotypes                                                                        |
+| **(iii) True or false: Paralympics showcases ability and questions stereotypes.** | **True.**                                                                          |
+| **(iv) Meaning of "helped me push boundaries".**                                  | Paralympics helped her go beyond limits imposed by body, society, and expectation. |
+| **(v) Phrase suggesting transformation.**                                         | "a new lease of life"                                                              |
 
 ## Long Answer Question Bank
 
@@ -346,72 +347,72 @@ The interview teaches resilience, self-belief, discipline, and empathy. In daily
 
 ## Phrases and Meanings
 
-| Phrase | Meaning | Model Sentence |
-|---|---|---|
-| **defy the odds** | succeed when most people expect failure | The young athlete defied the odds and won the race. |
-| **a new lease of life** | a chance to become energetic and active again | Sports gave her a new lease of life. |
-| **in hindsight** | understanding something after it has happened | In hindsight, the loss taught me patience. |
-| **breakthrough moment** | a time of important progress or discovery | The first medal was a breakthrough moment. |
-| **turn obstacles into stepping stones** | use difficulties as steps toward success | She turned obstacles into stepping stones through courage. |
+| Phrase                                  | Meaning                                       | Model Sentence                                             |
+| --------------------------------------- | --------------------------------------------- | ---------------------------------------------------------- |
+| **defy the odds**                       | succeed when most people expect failure       | The young athlete defied the odds and won the race.        |
+| **a new lease of life**                 | a chance to become energetic and active again | Sports gave her a new lease of life.                       |
+| **in hindsight**                        | understanding something after it has happened | In hindsight, the loss taught me patience.                 |
+| **breakthrough moment**                 | a time of important progress or discovery     | The first medal was a breakthrough moment.                 |
+| **turn obstacles into stepping stones** | use difficulties as steps toward success      | She turned obstacles into stepping stones through courage. |
 
 ## Matching Answers
 
-| Column 1 | Column 2 |
-|---|---|
-| **1. defy the odds** | (iii) succeed when most people think failure is likely |
-| **2. a new lease of life** | (v) an occasion when one becomes more energetic and active |
-| **3. in hindsight** | (iv) ability to understand something after it has happened |
-| **4. breakthrough moment** | (i) a time of significant development or discovery |
-| **5. turn obstacles into stepping stones** | (ii) overcome challenges and achieve goals |
+| Column 1                                   | Column 2                                                   |
+| ------------------------------------------ | ---------------------------------------------------------- |
+| **1. defy the odds**                       | (iii) succeed when most people think failure is likely     |
+| **2. a new lease of life**                 | (v) an occasion when one becomes more energetic and active |
+| **3. in hindsight**                        | (iv) ability to understand something after it has happened |
+| **4. breakthrough moment**                 | (i) a time of significant development or discovery         |
+| **5. turn obstacles into stepping stones** | (ii) overcome challenges and achieve goals                 |
 
 ## Movement Word Cline
 
 Arrange from slowest to fastest. Some words are close in meaning, so the exact order may vary slightly.
 
-| Pace | Words |
-|---|---|
-| **Very slow** | crawl, creep |
-| **Slow and heavy** | plod |
-| **Leisurely** | saunter, stroll, amble |
-| **Normal** | walk |
-| **Moderate** | jog |
-| **Fast** | run |
-| **Very fast / sudden** | dart |
-| **Fastest** | sprint |
+| Pace                   | Words                  |
+| ---------------------- | ---------------------- |
+| **Very slow**          | crawl, creep           |
+| **Slow and heavy**     | plod                   |
+| **Leisurely**          | saunter, stroll, amble |
+| **Normal**             | walk                   |
+| **Moderate**           | jog                    |
+| **Fast**               | run                    |
+| **Very fast / sudden** | dart                   |
+| **Fastest**            | sprint                 |
 
 ## Modal Auxiliaries
 
 ### Matching Modal Verbs with Function
 
-| Sentence | Modal | Function |
-|---|---|---|
-| I could hear the audience clapping. | could | past ability |
-| It couldn't be helped. | couldn't | impossibility |
-| I should give it my best shot. | should | obligation / advice |
-| I knew if I tried, I would win. | would | prediction / future in the past |
+| Sentence                            | Modal    | Function                        |
+| ----------------------------------- | -------- | ------------------------------- |
+| I could hear the audience clapping. | could    | past ability                    |
+| It couldn't be helped.              | couldn't | impossibility                   |
+| I should give it my best shot.      | should   | obligation / advice             |
+| I knew if I tried, I would win.     | would    | prediction / future in the past |
 
 ### Other Functions of Modal Verbs
 
-| Modal | Function | Example |
-|---|---|---|
-| **could** | possibility | This training could improve your confidence. |
-| **could** | unreal ability | I could run faster if I practised daily. |
-| **could** | request | Could you help me register for the event? |
-| **could** | suggestion | You could speak to the coach. |
-| **couldn't** | inability | He couldn't lift the heavy equipment alone. |
-| **couldn't** | impossibility | The race couldn't be postponed. |
-| **should** | probability | The team should reach by noon. |
-| **should** | advice | You should warm up before running. |
-| **would** | request | Would you please explain the rules? |
-| **would** | past habit | As a child, she would practise every evening. |
+| Modal        | Function       | Example                                       |
+| ------------ | -------------- | --------------------------------------------- |
+| **could**    | possibility    | This training could improve your confidence.  |
+| **could**    | unreal ability | I could run faster if I practised daily.      |
+| **could**    | request        | Could you help me register for the event?     |
+| **could**    | suggestion     | You could speak to the coach.                 |
+| **couldn't** | inability      | He couldn't lift the heavy equipment alone.   |
+| **couldn't** | impossibility  | The race couldn't be postponed.               |
+| **should**   | probability    | The team should reach by noon.                |
+| **should**   | advice         | You should warm up before running.            |
+| **would**    | request        | Would you please explain the rules?           |
+| **would**    | past habit     | As a child, she would practise every evening. |
 
 ## Direct Speech and Sentence Type
 
 The given interview lines are in:
 
-| Item | Answer |
-|---|---|
-| **Speech form** | Direct speech |
+| Item              | Answer                |
+| ----------------- | --------------------- |
+| **Speech form**   | Direct speech         |
 | **Sentence type** | Declarative sentences |
 
 They state information rather than ask questions, give commands, or express sudden emotion.
@@ -509,13 +510,13 @@ Tarun said that **he would watch that documentary the following weekend**.
 
 ## Reported Speech: Common Mistakes
 
-| Mistake | Correction |
-|---|---|
-| Siya said that she watched... last night. | Siya said that she had watched... the previous night. |
-| Tarun said I didn't know... | Tarun replied that he had not known... |
-| Siya added it does. | Siya added that it did. |
-| I will watch this documentary next weekend. | He would watch that documentary the following weekend. |
-| Forgetting pronoun change. | Change I, you, this, last night, and next weekend according to context. |
+| Mistake                                     | Correction                                                              |
+| ------------------------------------------- | ----------------------------------------------------------------------- |
+| Siya said that she watched... last night.   | Siya said that she had watched... the previous night.                   |
+| Tarun said I didn't know...                 | Tarun replied that he had not known...                                  |
+| Siya added it does.                         | Siya added that it did.                                                 |
+| I will watch this documentary next weekend. | He would watch that documentary the following weekend.                  |
+| Forgetting pronoun change.                  | Change I, you, this, last night, and next weekend according to context. |
 
 ---
 
@@ -527,13 +528,13 @@ The raw chapter asks learners to listen to an announcement and fill in blanks wi
 
 Use this method:
 
-| Blank Type | Listen For |
-|---|---|
-| Venue | auditorium, ground, hall, assembly area, sports complex |
-| Presenter | student council, inclusion club, guest speaker, teacher, committee |
-| Dance themes | inclusion, courage, diversity, unity, resilience |
-| Expert activity | workshop, session, demonstration, talk |
-| Closing event | pledge, game, team activity, song |
+| Blank Type      | Listen For                                                         |
+| --------------- | ------------------------------------------------------------------ |
+| Venue           | auditorium, ground, hall, assembly area, sports complex            |
+| Presenter       | student council, inclusion club, guest speaker, teacher, committee |
+| Dance themes    | inclusion, courage, diversity, unity, resilience                   |
+| Expert activity | workshop, session, demonstration, talk                             |
+| Closing event   | pledge, game, team activity, song                                  |
 
 ## Speaking Activity: Informal and Formal Interviews
 
@@ -544,19 +545,19 @@ The chapter asks learners to interview:
 
 ## Informal vs Formal Interview
 
-| Situation | Tone | Example |
-|---|---|---|
-| **Informal** | Friendly, relaxed, conversational | Hello! I am glad you agreed to talk to me. |
-| **Formal** | Respectful, polished, official | Good morning. It is my privilege to interact with you. |
+| Situation    | Tone                              | Example                                                |
+| ------------ | --------------------------------- | ------------------------------------------------------ |
+| **Informal** | Friendly, relaxed, conversational | Hello! I am glad you agreed to talk to me.             |
+| **Formal**   | Respectful, polished, official    | Good morning. It is my privilege to interact with you. |
 
 ## Question Comparison
 
-| Informal Question | Formal Question |
-|---|---|
-| Tell me about yourself and your love for sports. | Could you tell me how your journey in sports began? |
-| Did you face any challenges? | Could you share the challenges you faced and how you overcame them? |
-| What achievements are you proud of? | What do these accomplishments mean to you? |
-| What would you say to juniors? | What advice do you have for aspiring athletes? |
+| Informal Question                                | Formal Question                                                     |
+| ------------------------------------------------ | ------------------------------------------------------------------- |
+| Tell me about yourself and your love for sports. | Could you tell me how your journey in sports began?                 |
+| Did you face any challenges?                     | Could you share the challenges you faced and how you overcame them? |
+| What achievements are you proud of?              | What do these accomplishments mean to you?                          |
+| What would you say to juniors?                   | What advice do you have for aspiring athletes?                      |
 
 ## Interview Preparation Checklist
 
@@ -576,14 +577,14 @@ A notice is a short formal message written to inform a specific group about an e
 
 ### Notice Format
 
-| Part | What To Write |
-|---|---|
-| **Name of organisation** | School or institution name. |
-| **NOTICE** | Written clearly at the top. |
-| **Date** | Date of issuing the notice. |
-| **Heading** | Short title of the notice. |
-| **Body** | What, when, where, who, and action required. |
-| **Signature / Name / Designation** | Person issuing the notice. |
+| Part                               | What To Write                                |
+| ---------------------------------- | -------------------------------------------- |
+| **Name of organisation**           | School or institution name.                  |
+| **NOTICE**                         | Written clearly at the top.                  |
+| **Date**                           | Date of issuing the notice.                  |
+| **Heading**                        | Short title of the notice.                   |
+| **Body**                           | What, when, where, who, and action required. |
+| **Signature / Name / Designation** | Person issuing the notice.                   |
 
 ## Model Notice
 
@@ -618,15 +619,15 @@ Sports Captain
 
 ## Origin of the Paralympics
 
-| Detail | Information from the Chapter |
-|---|---|
-| **Early origin** | 1948 |
-| **Founder figure** | Sir Ludwig Guttmann |
-| **Initial purpose** | Sports competition for war veterans with spinal cord-related injuries in England |
-| **Early name** | Stoke Mandeville Games |
-| **First Olympic-style organisation** | Rome, 1960 |
-| **Current pattern** | Paralympics are held after the Olympics, often in the same host city. |
-| **Types** | Summer Paralympics and Winter Paralympics |
+| Detail                               | Information from the Chapter                                                     |
+| ------------------------------------ | -------------------------------------------------------------------------------- |
+| **Early origin**                     | 1948                                                                             |
+| **Founder figure**                   | Sir Ludwig Guttmann                                                              |
+| **Initial purpose**                  | Sports competition for war veterans with spinal cord-related injuries in England |
+| **Early name**                       | Stoke Mandeville Games                                                           |
+| **First Olympic-style organisation** | Rome, 1960                                                                       |
+| **Current pattern**                  | Paralympics are held after the Olympics, often in the same host city.            |
+| **Types**                            | Summer Paralympics and Winter Paralympics                                        |
 
 ## Group Presentation Topics
 
@@ -637,14 +638,14 @@ Choose one:
 
 ## Presentation Structure
 
-| Slide | Content |
-|---|---|
-| **1** | Topic and team members |
-| **2-3** | Origin and brief history of Paralympics |
-| **4-7** | Chosen sports or chosen athletes |
-| **8** | Key achievements, challenges, and inclusion message |
-| **9** | Conclusion |
-| **10** | Sources / acknowledgements |
+| Slide   | Content                                             |
+| ------- | --------------------------------------------------- |
+| **1**   | Topic and team members                              |
+| **2-3** | Origin and brief history of Paralympics             |
+| **4-7** | Chosen sports or chosen athletes                    |
+| **8**   | Key achievements, challenges, and inclusion message |
+| **9**   | Conclusion                                          |
+| **10**  | Sources / acknowledgements                          |
 
 ## Presentation Quality Checklist
 
@@ -662,21 +663,21 @@ Choose one:
 
 ## Reflect and Respond: Olympics, Paralympics, Special Olympics
 
-| Term | Main Focus |
-|---|---|
-| **Olympics** | Global sporting event for elite athletes from many countries. |
-| **Paralympics** | Global sporting event for athletes with disabilities. |
+| Term                 | Main Focus                                                                               |
+| -------------------- | ---------------------------------------------------------------------------------------- |
+| **Olympics**         | Global sporting event for elite athletes from many countries.                            |
+| **Paralympics**      | Global sporting event for athletes with disabilities.                                    |
 | **Special Olympics** | Sports training and competitions for children and adults with intellectual disabilities. |
 
 ## Empathy, Sympathy, Compassion
 
-| Sentence / Situation | Best Match | Why |
-|---|---|---|
-| "I am so sorry for what is happening to you." | Sympathy | It expresses sorrow for another person's pain. |
-| "I can imagine how you feel." | Empathy | It tries to understand another person's feelings. |
-| "I understand that you are upset and why." | Empathy | It recognises the reason behind the feeling. |
-| "I will spend some time with you so that you do not feel lonely." | Compassion | It includes action to reduce suffering. |
-| "It is sad; do you want something to eat?" | Compassion | It combines concern with practical help. |
+| Sentence / Situation                                              | Best Match | Why                                               |
+| ----------------------------------------------------------------- | ---------- | ------------------------------------------------- |
+| "I am so sorry for what is happening to you."                     | Sympathy   | It expresses sorrow for another person's pain.    |
+| "I can imagine how you feel."                                     | Empathy    | It tries to understand another person's feelings. |
+| "I understand that you are upset and why."                        | Empathy    | It recognises the reason behind the feeling.      |
+| "I will spend some time with you so that you do not feel lonely." | Compassion | It includes action to reduce suffering.           |
+| "It is sad; do you want something to eat?"                        | Compassion | It combines concern with practical help.          |
 
 ## Words Associated with Empathy
 
@@ -693,14 +694,14 @@ Choose one:
 
 ## Text Identity
 
-| Detail | Information |
-|---|---|
-| **Title** | Nine Gold Medals |
-| **Poet / Songwriter** | David Roth |
-| **Form** | Narrative poem |
-| **Setting** | Special Olympics race |
-| **Main Event** | Eight runners stop to help a fallen ninth runner. |
-| **Central Message** | True victory lies in compassion, unity, and sportsmanship. |
+| Detail                | Information                                                |
+| --------------------- | ---------------------------------------------------------- |
+| **Title**             | Nine Gold Medals                                           |
+| **Poet / Songwriter** | David Roth                                                 |
+| **Form**              | Narrative poem                                             |
+| **Setting**           | Special Olympics race                                      |
+| **Main Event**        | Eight runners stop to help a fallen ninth runner.          |
+| **Central Message**   | True victory lies in compassion, unity, and sportsmanship. |
 
 ## Short Summary
 
@@ -712,66 +713,66 @@ The poem shows that empathy can be more meaningful than winning alone.
 
 ## Stanza-Wise Gist
 
-| Stanza | Gist |
-|---|---|
-| **1** | Athletes from across the country have trained for months and come to compete for medals. |
-| **2** | Spectators gather and cheer as the final event approaches. |
-| **3** | The runners get ready for the hundred-yard dash. |
-| **4** | The race begins, but the smallest runner falls. |
-| **5** | The fallen runner cries in frustration because his dreams seem destroyed. |
-| **6** | The other eight runners stop, turn back, and help him stand. |
-| **7** | All nine join hands and turn the race into a walk. |
-| **8** | They finish together, receive nine gold medals, and move the spectators deeply. |
+| Stanza | Gist                                                                                     |
+| ------ | ---------------------------------------------------------------------------------------- |
+| **1**  | Athletes from across the country have trained for months and come to compete for medals. |
+| **2**  | Spectators gather and cheer as the final event approaches.                               |
+| **3**  | The runners get ready for the hundred-yard dash.                                         |
+| **4**  | The race begins, but the smallest runner falls.                                          |
+| **5**  | The fallen runner cries in frustration because his dreams seem destroyed.                |
+| **6**  | The other eight runners stop, turn back, and help him stand.                             |
+| **7**  | All nine join hands and turn the race into a walk.                                       |
+| **8**  | They finish together, receive nine gold medals, and move the spectators deeply.          |
 
 ## Matching Words with Meanings
 
-| Word / Phrase | Meaning |
-|---|---|
-| **dashed in the dirt** | destroyed |
-| **stumbled** | stepped awkwardly, lost balance, almost fell |
-| **staggered** | walked or moved with difficulty |
-| **anguish** | extreme pain or suffering |
-| **asphalt** | hard black substance used for roads and paths |
+| Word / Phrase          | Meaning                                       |
+| ---------------------- | --------------------------------------------- |
+| **dashed in the dirt** | destroyed                                     |
+| **stumbled**           | stepped awkwardly, lost balance, almost fell  |
+| **staggered**          | walked or moved with difficulty               |
+| **anguish**            | extreme pain or suffering                     |
+| **asphalt**            | hard black substance used for roads and paths |
 
 ## Stanza Gist Matching Answers
 
-| Given Gist Number | Correct Stanza |
-|---|---|
-| **1. Spectators cheered and waited for final event.** | Stanza 2 |
-| **2. Runners dashed ahead; one fell.** | Stanza 4 |
-| **3. Race finished with nine holding hands.** | Stanza 8 |
-| **4. Participants got ready at starting line.** | Stanza 3 |
-| **5. Athletes trained for months.** | Stanza 1 |
-| **6. Eight athletes stopped to help.** | Stanza 6 |
-| **7. Nine athletes walked hand in hand.** | Stanza 7 |
-| **8. Fallen athlete felt his dreams were shattered.** | Stanza 5 |
+| Given Gist Number                                     | Correct Stanza |
+| ----------------------------------------------------- | -------------- |
+| **1. Spectators cheered and waited for final event.** | Stanza 2       |
+| **2. Runners dashed ahead; one fell.**                | Stanza 4       |
+| **3. Race finished with nine holding hands.**         | Stanza 8       |
+| **4. Participants got ready at starting line.**       | Stanza 3       |
+| **5. Athletes trained for months.**                   | Stanza 1       |
+| **6. Eight athletes stopped to help.**                | Stanza 6       |
+| **7. Nine athletes walked hand in hand.**             | Stanza 7       |
+| **8. Fallen athlete felt his dreams were shattered.** | Stanza 5       |
 
 ## Poetic Devices and Imagery
 
-| Device | Example / Explanation | Effect |
-|---|---|---|
-| **Alliteration** | Repeated sounds in phrases such as "stumbled and staggered" and "dashed in the dirt". | Adds rhythm and emphasis. |
-| **Visual imagery** | Athletes at the starting line, a runner falling, nine athletes holding hands. | Helps readers see the race. |
-| **Auditory imagery** | Crowd cheering, pistol signal, cry of pain, applause. | Helps readers hear the event. |
-| **Narrative structure** | The poem tells a complete story. | Builds suspense and emotional impact. |
-| **Contrast** | Race changes from competition to cooperation. | Highlights the poem's message. |
+| Device                  | Example / Explanation                                                                 | Effect                                |
+| ----------------------- | ------------------------------------------------------------------------------------- | ------------------------------------- |
+| **Alliteration**        | Repeated sounds in phrases such as "stumbled and staggered" and "dashed in the dirt". | Adds rhythm and emphasis.             |
+| **Visual imagery**      | Athletes at the starting line, a runner falling, nine athletes holding hands.         | Helps readers see the race.           |
+| **Auditory imagery**    | Crowd cheering, pistol signal, cry of pain, applause.                                 | Helps readers hear the event.         |
+| **Narrative structure** | The poem tells a complete story.                                                      | Builds suspense and emotional impact. |
+| **Contrast**            | Race changes from competition to cooperation.                                         | Highlights the poem's message.        |
 
 ## Imagery Answers
 
-| Question | Model Answer |
-|---|---|
+| Question                | Model Answer                                                                                  |
+| ----------------------- | --------------------------------------------------------------------------------------------- |
 | **Three visual images** | athletes lined up; the fallen athlete on the track; nine runners holding hands at the finish. |
-| **One auditory image** | the sound of the pistol or the cheering spectators. |
-| **How imagery helps** | It makes the scene vivid, emotional, and easy to imagine. |
+| **One auditory image**  | the sound of the pistol or the cheering spectators.                                           |
+| **How imagery helps**   | It makes the scene vivid, emotional, and easy to imagine.                                     |
 
 ## Tone and Mood
 
-| Part of Poem | Tone |
-|---|---|
-| Beginning | Energetic and anticipatory |
-| Fall of the athlete | Sympathetic and tense |
-| Runners helping him | Admiring and moved |
-| Ending | Inspirational and celebratory |
+| Part of Poem        | Tone                          |
+| ------------------- | ----------------------------- |
+| Beginning           | Energetic and anticipatory    |
+| Fall of the athlete | Sympathetic and tense         |
+| Runners helping him | Admiring and moved            |
+| Ending              | Inspirational and celebratory |
 
 Overall mood: uplifting, compassionate, and inspiring.
 
@@ -797,25 +798,25 @@ The eight runners have trained hard and are competing to win. When the ninth run
 
 ### Model Answers
 
-| Question | Answer |
-|---|---|
-| **(i) "Pulled up on their heels" means...** | **B. stopped running.** |
-| **(ii) One common character trait.** | Compassion / empathy / sportsmanship. |
-| **(iii) Tone of the poet.** | Admiring and appreciative. |
-| **(iv) How might the young athlete have felt?** | Relieved, grateful, supported, included, and emotionally moved. |
-| **(v) Is this a turning point?** | Yes. The poem changes from a race about individual victory to an act of collective kindness. |
+| Question                                        | Answer                                                                                       |
+| ----------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| **(i) "Pulled up on their heels" means...**     | **B. stopped running.**                                                                      |
+| **(ii) One common character trait.**            | Compassion / empathy / sportsmanship.                                                        |
+| **(iii) Tone of the poet.**                     | Admiring and appreciative.                                                                   |
+| **(iv) How might the young athlete have felt?** | Relieved, grateful, supported, included, and emotionally moved.                              |
+| **(v) Is this a turning point?**                | Yes. The poem changes from a race about individual victory to an act of collective kindness. |
 
 ## Extract 2: Nine Finish Together
 
 ### Model Answers
 
-| Question | Answer |
-|---|---|
-| **(i) How did the contestants feel?** | Proud, joyful, united, and fulfilled. |
-| **(ii) Why were all nine given gold medals?** | They showed the highest spirit of sport by choosing compassion and unity over personal victory. |
-| **(iii) Holding hands signifies...** | unity, solidarity, support, and equality. |
-| **(iv) Standing ovation indicates spectators were...** | **A. amazed.** They were also deeply moved. |
-| **(v) Explain the last line.** | Their action and joyful faces expressed the meaning of sportsmanship more powerfully than words could. |
+| Question                                               | Answer                                                                                                 |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
+| **(i) How did the contestants feel?**                  | Proud, joyful, united, and fulfilled.                                                                  |
+| **(ii) Why were all nine given gold medals?**          | They showed the highest spirit of sport by choosing compassion and unity over personal victory.        |
+| **(iii) Holding hands signifies...**                   | unity, solidarity, support, and equality.                                                              |
+| **(iv) Standing ovation indicates spectators were...** | **A. amazed.** They were also deeply moved.                                                            |
+| **(v) Explain the last line.**                         | Their action and joyful faces expressed the meaning of sportsmanship more powerfully than words could. |
 
 ## Long Answer Questions
 
@@ -857,49 +858,49 @@ The poet's purpose is to show that true victory is not only about crossing the l
 
 Other examples:
 
-| Collocation | Type |
-|---|---|
-| old field | adjective + noun |
-| final event | adjective + noun |
+| Collocation       | Type             |
+| ----------------- | ---------------- |
+| old field         | adjective + noun |
+| final event       | adjective + noun |
 | hundred-yard dash | adjective + noun |
-| young boy | adjective + noun |
-| beaming faces | adjective + noun |
-| gold medals | adjective + noun |
+| young boy         | adjective + noun |
+| beaming faces     | adjective + noun |
+| gold medals       | adjective + noun |
 
 ## Adjective-Noun Collocation Table
 
-| Adjective | Nouns That Collocate |
-|---|---|
-| **big** | disappointment, failure, surprise, decision |
-| **heavy** | rain, traffic, burden, loss |
-| **strong** | wind, argument, belief, team |
-| **large** | crowd, number, amount, area |
-| **great** | achievement, courage, success, effort |
+| Adjective  | Nouns That Collocate                        |
+| ---------- | ------------------------------------------- |
+| **big**    | disappointment, failure, surprise, decision |
+| **heavy**  | rain, traffic, burden, loss                 |
+| **strong** | wind, argument, belief, team                |
+| **large**  | crowd, number, amount, area                 |
+| **great**  | achievement, courage, success, effort       |
 
 ## Correct Adjective Choices
 
-| Original Word | Better Adjective | Result |
-|---|---|---|
-| littlest athlete | youngest | youngest athlete |
-| smiling attitude | positive | positive attitude |
-| huge cry | loud | loud cry |
-| terrible difference | significant | significant difference |
-| gaudy crowd | noisy | noisy crowd |
+| Original Word       | Better Adjective | Result                 |
+| ------------------- | ---------------- | ---------------------- |
+| littlest athlete    | youngest         | youngest athlete       |
+| smiling attitude    | positive         | positive attitude      |
+| huge cry            | loud             | loud cry               |
+| terrible difference | significant      | significant difference |
+| gaudy crowd         | noisy            | noisy crowd            |
 
 ## Listening: Patrick Gomes Radio Talk
 
 The raw chapter refers to a radio talk about Patrick Gomes, a coach of special athletes. Since answers depend on the audio, use this focused listening plan.
 
-| Question Type | Listen For |
-|---|---|
+| Question Type                     | Listen For                                          |
+| --------------------------------- | --------------------------------------------------- |
 | True/False about career beginning | first sport, early event, track, field, or coaching |
-| Years of coaching | number of years |
-| Household work | whether he does it himself or gets support |
-| "Push your boundaries" | challenge yourself |
-| Current role | coach of special athletes |
-| Turning point | Special Olympic Games at Connecticut |
-| Main sport | track events, jogging, or football |
-| Why sports matter | fitness plus positive outlook |
+| Years of coaching                 | number of years                                     |
+| Household work                    | whether he does it himself or gets support          |
+| "Push your boundaries"            | challenge yourself                                  |
+| Current role                      | coach of special athletes                           |
+| Turning point                     | Special Olympic Games at Connecticut                |
+| Main sport                        | track events, jogging, or football                  |
+| Why sports matter                 | fitness plus positive outlook                       |
 
 ## Speaking Activity: Point of View on Special Olympics
 
@@ -949,14 +950,14 @@ The raw chapter refers to a radio talk about Patrick Gomes, a coach of special a
 
 ### Poster Must Include
 
-| Element | Purpose |
-|---|---|
-| Title | Announces the theme. |
-| Slogan | Makes the message memorable. |
-| Illustration | Shows the idea visually. |
-| Key message | Explains inclusion or empathy. |
-| Call to action | Tells viewers what to do. |
-| Neat layout | Helps viewers read quickly. |
+| Element        | Purpose                        |
+| -------------- | ------------------------------ |
+| Title          | Announces the theme.           |
+| Slogan         | Makes the message memorable.   |
+| Illustration   | Shows the idea visually.       |
+| Key message    | Explains inclusion or empathy. |
+| Call to action | Tells viewers what to do.      |
+| Neat layout    | Helps viewers read quickly.    |
 
 ### Poster Idea
 
@@ -976,39 +977,39 @@ Call to action: **Respect. Include. Encourage.**
 
 The raw chapter mentions athletes from the Special Olympic Games 2023 held in Berlin, Germany.
 
-| Athlete | Achievement |
-|---|---|
-| **Ravimathi Arumugam** | Gold medal in the 400 metre, Level C women's race. |
-| **Aanchal Goyal** | Gold medal in the 400 metre, Level B women's race. |
-| **Saket Kundu** | Silver medal in Level B mini javelin and bronze medal in Level B 400 metre men's race. |
+| Athlete                | Achievement                                                                            |
+| ---------------------- | -------------------------------------------------------------------------------------- |
+| **Ravimathi Arumugam** | Gold medal in the 400 metre, Level C women's race.                                     |
+| **Aanchal Goyal**      | Gold medal in the 400 metre, Level B women's race.                                     |
+| **Saket Kundu**        | Silver medal in Level B mini javelin and bronze medal in Level B 400 metre men's race. |
 
 ## Olympics Infographic Notes
 
 The raw chapter gives facts for an infographic.
 
-| Topic | Key Points |
-|---|---|
-| **Ancient Olympics** | Began as part of a Greek festival honouring Zeus. |
-| **First Olympic Games** | 776 BC. |
-| **Olympic torch** | Symbolises peace and friendship and connects to Greek origin. |
-| **Olympic rings** | Represent the union of five continents and athletes worldwide. |
-| **Olympic motto** | Citius-Altius-Fortius-Communiter: Faster-Higher-Stronger-Together. |
-| **Paralympics** | Sports for athletes with disabilities; symbol is called Agitos, meaning "I move". |
-| **Special Olympics** | Sports training and competitions for children and adults with intellectual disabilities. |
+| Topic                   | Key Points                                                                               |
+| ----------------------- | ---------------------------------------------------------------------------------------- |
+| **Ancient Olympics**    | Began as part of a Greek festival honouring Zeus.                                        |
+| **First Olympic Games** | 776 BC.                                                                                  |
+| **Olympic torch**       | Symbolises peace and friendship and connects to Greek origin.                            |
+| **Olympic rings**       | Represent the union of five continents and athletes worldwide.                           |
+| **Olympic motto**       | Citius-Altius-Fortius-Communiter: Faster-Higher-Stronger-Together.                       |
+| **Paralympics**         | Sports for athletes with disabilities; symbol is called Agitos, meaning "I move".        |
+| **Special Olympics**    | Sports training and competitions for children and adults with intellectual disabilities. |
 
 ## Create an Infographic on Any Sport
 
 Use this structure:
 
-| Section | Content |
-|---|---|
-| **Sport name** | Example: athletics, archery, swimming, football, badminton. |
-| **Origin** | When and where it began. |
-| **Basic rules** | 3-5 simple rules. |
-| **Equipment** | Items needed. |
-| **Famous athletes** | 2-3 names. |
-| **India connection** | Indian achievements or players. |
-| **Value learned** | Discipline, teamwork, focus, endurance, courage. |
+| Section              | Content                                                     |
+| -------------------- | ----------------------------------------------------------- |
+| **Sport name**       | Example: athletics, archery, swimming, football, badminton. |
+| **Origin**           | When and where it began.                                    |
+| **Basic rules**      | 3-5 simple rules.                                           |
+| **Equipment**        | Items needed.                                               |
+| **Famous athletes**  | 2-3 names.                                                  |
+| **India connection** | Indian achievements or players.                             |
+| **Value learned**    | Discipline, teamwork, focus, endurance, courage.            |
 
 ---
 
@@ -1016,45 +1017,45 @@ Use this structure:
 
 ## Prose
 
-| Item | Key Point |
-|---|---|
-| Main prose | The World of Limitless Possibilities |
-| Form | Interview |
-| Main personality | Dr. Deepa Malik |
-| Main event | 2016 Rio Paralympic Games silver medal |
-| Central phrase | Ability beyond disability |
-| Major theme | Resilience and inclusion |
-| Grammar | Modal auxiliaries and reported speech |
-| Writing | Notice |
+| Item             | Key Point                              |
+| ---------------- | -------------------------------------- |
+| Main prose       | The World of Limitless Possibilities   |
+| Form             | Interview                              |
+| Main personality | Dr. Deepa Malik                        |
+| Main event       | 2016 Rio Paralympic Games silver medal |
+| Central phrase   | Ability beyond disability              |
+| Major theme      | Resilience and inclusion               |
+| Grammar          | Modal auxiliaries and reported speech  |
+| Writing          | Notice                                 |
 
 ## Poem
 
-| Item | Key Point |
-|---|---|
-| Poem | Nine Gold Medals |
-| Poet | David Roth |
-| Setting | Special Olympics race |
-| Main incident | Eight runners help the ninth runner who falls. |
-| Main message | Compassion is greater than individual victory. |
-| Main devices | Imagery, alliteration, narrative structure, contrast |
-| Mood | Uplifting and inspirational |
-| Writing activity | Slogan and poster |
+| Item             | Key Point                                            |
+| ---------------- | ---------------------------------------------------- |
+| Poem             | Nine Gold Medals                                     |
+| Poet             | David Roth                                           |
+| Setting          | Special Olympics race                                |
+| Main incident    | Eight runners help the ninth runner who falls.       |
+| Main message     | Compassion is greater than individual victory.       |
+| Main devices     | Imagery, alliteration, narrative structure, contrast |
+| Mood             | Uplifting and inspirational                          |
+| Writing activity | Slogan and poster                                    |
 
 ---
 
 # Unit 5L: Common Mistakes and Corrections
 
-| Mistake | Better Understanding |
-|---|---|
-| Thinking disability means inability. | The chapter shows ability beyond disability. |
-| Treating inclusion as charity. | Inclusion is about dignity, access, and equal opportunity. |
-| Confusing Paralympics and Special Olympics. | Paralympics and Special Olympics serve different athlete groups and structures. |
-| Calling all personal reflections facts. | A fact can be verified; an opinion expresses belief or interpretation. |
-| Confusing cause-effect with fact-opinion. | Cause-effect shows one event leading to another. |
-| Using modal verbs without function. | Identify whether the modal shows ability, advice, possibility, request, or prediction. |
-| Forgetting tense changes in reported speech. | Past reporting often shifts present to past and present perfect to past perfect. |
-| Seeing "Nine Gold Medals" as only a sports poem. | It is mainly about empathy, cooperation, and true sportsmanship. |
-| Saying the eight athletes lost. | They achieved a higher moral victory by helping. |
+| Mistake                                          | Better Understanding                                                                   |
+| ------------------------------------------------ | -------------------------------------------------------------------------------------- |
+| Thinking disability means inability.             | The chapter shows ability beyond disability.                                           |
+| Treating inclusion as charity.                   | Inclusion is about dignity, access, and equal opportunity.                             |
+| Confusing Paralympics and Special Olympics.      | Paralympics and Special Olympics serve different athlete groups and structures.        |
+| Calling all personal reflections facts.          | A fact can be verified; an opinion expresses belief or interpretation.                 |
+| Confusing cause-effect with fact-opinion.        | Cause-effect shows one event leading to another.                                       |
+| Using modal verbs without function.              | Identify whether the modal shows ability, advice, possibility, request, or prediction. |
+| Forgetting tense changes in reported speech.     | Past reporting often shifts present to past and present perfect to past perfect.       |
+| Seeing "Nine Gold Medals" as only a sports poem. | It is mainly about empathy, cooperation, and true sportsmanship.                       |
+| Saying the eight athletes lost.                  | They achieved a higher moral victory by helping.                                       |
 
 ---
 
@@ -1164,4 +1165,4 @@ For writing:
 
 ---
 
-*Source: NCERT Class 9 - English Beehive, Chapter 5 raw file. Learner-facing version manually rewritten from the extracted chapter content about Paralympics, Dr. Deepa Malik, inclusion, and "Nine Gold Medals".*
+_Source: NCERT Class 9 - English Beehive, Chapter 5 raw file. Learner-facing version manually rewritten from the extracted chapter content about Paralympics, Dr. Deepa Malik, inclusion, and "Nine Gold Medals"._

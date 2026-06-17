@@ -1,21 +1,22 @@
 # Chapter 4: The Age of Industrialisation
+
 ### NCERT Class 10 - Social History
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-| --- | --- |
-| Class | 10 |
-| Subject | Social History |
-| Chapter | 4 - The Age of Industrialisation |
-| Central Question | Did industrialisation mean only machines, factories, and progress, or did it also reshape labour, trade, colonies, crafts, and markets in unequal ways? |
-| Main Places | Britain, Europe, India, Bengal, Bombay, Calcutta, Surat, Hoogly, Manchester, Ahmedabad, Kanpur, Madras |
-| Main Period | Seventeenth century to early twentieth century, with focus on the eighteenth and nineteenth centuries |
-| Main Themes | Proto-industrialisation, factories, hand labour, workers, Indian textiles, colonial control, Manchester imports, Indian mills, advertisements |
-| Main Skills | Cause-effect reasoning, comparison, chronology, colonial economy analysis, interpreting images and sources |
-| Exam Importance | Very high: proto-industrialisation, hand labour vs machines, Spinning Jenny, Indian weavers, gomasthas, decline of Surat, Manchester goods, First World War and Indian industry |
+| Detail           | Learner-Friendly Information                                                                                                                                                    |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Class            | 10                                                                                                                                                                              |
+| Subject          | Social History                                                                                                                                                                  |
+| Chapter          | 4 - The Age of Industrialisation                                                                                                                                                |
+| Central Question | Did industrialisation mean only machines, factories, and progress, or did it also reshape labour, trade, colonies, crafts, and markets in unequal ways?                         |
+| Main Places      | Britain, Europe, India, Bengal, Bombay, Calcutta, Surat, Hoogly, Manchester, Ahmedabad, Kanpur, Madras                                                                          |
+| Main Period      | Seventeenth century to early twentieth century, with focus on the eighteenth and nineteenth centuries                                                                           |
+| Main Themes      | Proto-industrialisation, factories, hand labour, workers, Indian textiles, colonial control, Manchester imports, Indian mills, advertisements                                   |
+| Main Skills      | Cause-effect reasoning, comparison, chronology, colonial economy analysis, interpreting images and sources                                                                      |
+| Exam Importance  | Very high: proto-industrialisation, hand labour vs machines, Spinning Jenny, Indian weavers, gomasthas, decline of Surat, Manchester goods, First World War and Indian industry |
 
 ---
 
@@ -43,16 +44,16 @@ The key idea is:
 
 After studying this chapter, you should be able to:
 
-| Skill | You Should Be Able To |
-| --- | --- |
-| Define | Explain proto-industrialisation, guild, fuller, stapler, gomastha, sepoy, Spinning Jenny, fly shuttle, jobber, swadeshi, tariff, and advertisement. |
-| Explain | Describe how production happened before factories became common. |
-| Analyse | Explain why factories grew slowly and why hand labour remained important. |
-| Compare | Compare British industrialisation with industrialisation in colonial India. |
-| Evaluate | Explain how colonial rule affected Indian weavers, ports, merchants, and industries. |
-| Connect | Link the First World War with the growth of Indian industrial production. |
-| Interpret | Understand how labels, calendars, gods, rulers, and nationalist images were used in advertisements. |
-| Write | Prepare strong answers for NCERT short and long questions. |
+| Skill     | You Should Be Able To                                                                                                                               |
+| --------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Define    | Explain proto-industrialisation, guild, fuller, stapler, gomastha, sepoy, Spinning Jenny, fly shuttle, jobber, swadeshi, tariff, and advertisement. |
+| Explain   | Describe how production happened before factories became common.                                                                                    |
+| Analyse   | Explain why factories grew slowly and why hand labour remained important.                                                                           |
+| Compare   | Compare British industrialisation with industrialisation in colonial India.                                                                         |
+| Evaluate  | Explain how colonial rule affected Indian weavers, ports, merchants, and industries.                                                                |
+| Connect   | Link the First World War with the growth of Indian industrial production.                                                                           |
+| Interpret | Understand how labels, calendars, gods, rulers, and nationalist images were used in advertisements.                                                 |
+| Write     | Prepare strong answers for NCERT short and long questions.                                                                                          |
 
 ---
 
@@ -90,38 +91,38 @@ Industrial goods did not sell automatically. Manufacturers used labels, images, 
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Industrialisation | The growth of production through organised industry, including factories, machines, labour systems, and markets. |
-| Proto-Industrialisation | Early large-scale production for international markets before factory-based industrialisation. |
-| Guild | Association of producers that controlled training, production, prices, competition, and entry into a craft. |
-| Merchant Clothier | A merchant who organised different stages of cloth production through rural workers and artisans. |
-| Stapler | A person who sorted wool according to fibre. |
-| Fuller | A person who gathered or finished cloth by fulling. |
-| Carding | Preparing fibres such as cotton or wool before spinning. |
-| Cotton Mill | Factory where cotton production processes were brought under one roof and management. |
-| Spinning Jenny | Machine devised by James Hargreaves in 1764 that allowed one worker to spin several threads at once. |
-| Steam Engine | Machine using steam power; James Watt improved Newcomen's engine and patented the improved version in 1781. |
-| Hand Labour | Production done mainly by human skill and physical work rather than machines. |
-| Victorian Britain | Britain during the reign of Queen Victoria, often associated with industrial growth and social inequality. |
-| Oriental | A term used by Europeans for countries east of the Mediterranean, often reflecting a western stereotype of Asia. |
-| Colony | Territory controlled politically and economically by a foreign power. |
-| Surat | Pre-colonial port on the Gujarat coast connected with Gulf and Red Sea trade. |
-| Masulipatam | Port on the Coromandel coast linked to overseas trade. |
-| Hoogly | Bengal port connected with Southeast Asian trade. |
-| Monopoly | Exclusive control over production or trade. |
-| Gomastha | Paid servant appointed by the East India Company to supervise weavers, collect supplies, and check quality. |
-| Sepoy | Indian soldier in British service. |
-| Manchester Goods | Machine-made cotton textiles produced in British industrial centres and exported to India. |
-| Deindustrialisation | Decline of traditional industry, especially because of colonial control and machine-made imports. |
-| Raw Cotton | Cotton in unprocessed form, used as raw material for textile production. |
-| Entrepreneur | Person who invests capital and organises business or industrial production. |
-| Managing Agency | European-controlled business agency that mobilised capital, set up companies, and managed industries in colonial India. |
-| Jobber | Person employed by industrialists to recruit and control workers in factories. |
-| Fly Shuttle | Mechanical device that increased weaving speed and productivity in handlooms. |
-| Swadeshi | Use of goods made in one's own country; in India it became linked with nationalist boycott of foreign cloth. |
-| Advertisement | Public message used to create demand and persuade people to buy a product. |
-| Label | Mark attached to a product to identify manufacturer, place of production, quality, or brand. |
+| Term                    | Meaning                                                                                                                 |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Industrialisation       | The growth of production through organised industry, including factories, machines, labour systems, and markets.        |
+| Proto-Industrialisation | Early large-scale production for international markets before factory-based industrialisation.                          |
+| Guild                   | Association of producers that controlled training, production, prices, competition, and entry into a craft.             |
+| Merchant Clothier       | A merchant who organised different stages of cloth production through rural workers and artisans.                       |
+| Stapler                 | A person who sorted wool according to fibre.                                                                            |
+| Fuller                  | A person who gathered or finished cloth by fulling.                                                                     |
+| Carding                 | Preparing fibres such as cotton or wool before spinning.                                                                |
+| Cotton Mill             | Factory where cotton production processes were brought under one roof and management.                                   |
+| Spinning Jenny          | Machine devised by James Hargreaves in 1764 that allowed one worker to spin several threads at once.                    |
+| Steam Engine            | Machine using steam power; James Watt improved Newcomen's engine and patented the improved version in 1781.             |
+| Hand Labour             | Production done mainly by human skill and physical work rather than machines.                                           |
+| Victorian Britain       | Britain during the reign of Queen Victoria, often associated with industrial growth and social inequality.              |
+| Oriental                | A term used by Europeans for countries east of the Mediterranean, often reflecting a western stereotype of Asia.        |
+| Colony                  | Territory controlled politically and economically by a foreign power.                                                   |
+| Surat                   | Pre-colonial port on the Gujarat coast connected with Gulf and Red Sea trade.                                           |
+| Masulipatam             | Port on the Coromandel coast linked to overseas trade.                                                                  |
+| Hoogly                  | Bengal port connected with Southeast Asian trade.                                                                       |
+| Monopoly                | Exclusive control over production or trade.                                                                             |
+| Gomastha                | Paid servant appointed by the East India Company to supervise weavers, collect supplies, and check quality.             |
+| Sepoy                   | Indian soldier in British service.                                                                                      |
+| Manchester Goods        | Machine-made cotton textiles produced in British industrial centres and exported to India.                              |
+| Deindustrialisation     | Decline of traditional industry, especially because of colonial control and machine-made imports.                       |
+| Raw Cotton              | Cotton in unprocessed form, used as raw material for textile production.                                                |
+| Entrepreneur            | Person who invests capital and organises business or industrial production.                                             |
+| Managing Agency         | European-controlled business agency that mobilised capital, set up companies, and managed industries in colonial India. |
+| Jobber                  | Person employed by industrialists to recruit and control workers in factories.                                          |
+| Fly Shuttle             | Mechanical device that increased weaving speed and productivity in handlooms.                                           |
+| Swadeshi                | Use of goods made in one's own country; in India it became linked with nationalist boycott of foreign cloth.            |
+| Advertisement           | Public message used to create demand and persuade people to buy a product.                                              |
+| Label                   | Mark attached to a product to identify manufacturer, place of production, quality, or brand.                            |
 
 ---
 
@@ -135,12 +136,12 @@ One image showed an "angel of progress" moving into the future with symbols such
 
 These images suggested that:
 
-| Image Message | Meaning |
-| --- | --- |
-| Machines represent progress | Industrial society was presented as superior and modern. |
-| The West represents modernity | Europe was shown as advanced and rational. |
-| The East represents the past | Asia was shown through stereotypes as traditional or backward. |
-| Technology creates wonder | Bridges, ships, railways, and factories were shown as magical achievements. |
+| Image Message                 | Meaning                                                                     |
+| ----------------------------- | --------------------------------------------------------------------------- |
+| Machines represent progress   | Industrial society was presented as superior and modern.                    |
+| The West represents modernity | Europe was shown as advanced and rational.                                  |
+| The East represents the past  | Asia was shown through stereotypes as traditional or backward.              |
+| Technology creates wonder     | Bridges, ships, railways, and factories were shown as magical achievements. |
 
 ## Why the Chapter Questions This Image
 
@@ -161,13 +162,13 @@ Industrialisation did produce factories, railways, ships, machines, and mass pro
 
 When you see the word **progress**, ask:
 
-| Question | Why It Matters |
-| --- | --- |
-| Progress for whom? | Industrialists may gain while workers suffer. |
-| Progress at what cost? | Machines may increase output but reduce jobs. |
-| Who controls production? | Merchants, companies, or colonial rulers may control workers. |
-| Who gets the market? | Imported machine goods may destroy local producers. |
-| What is hidden? | Factories may be visible, but home-based labour and small workshops may remain invisible. |
+| Question                 | Why It Matters                                                                            |
+| ------------------------ | ----------------------------------------------------------------------------------------- |
+| Progress for whom?       | Industrialists may gain while workers suffer.                                             |
+| Progress at what cost?   | Machines may increase output but reduce jobs.                                             |
+| Who controls production? | Merchants, companies, or colonial rulers may control workers.                             |
+| Who gets the market?     | Imported machine goods may destroy local producers.                                       |
+| What is hidden?          | Factories may be visible, but home-based labour and small workshops may remain invisible. |
 
 ## Exam Point
 
@@ -200,13 +201,13 @@ It was:
 
 Merchants wanted to expand production, but towns had powerful guilds.
 
-| Reason | Explanation |
-| --- | --- |
-| Guild control | Guilds controlled training, prices, competition, and entry into trades. |
-| Monopoly rights | Rulers granted guilds exclusive rights to produce and sell certain goods. |
-| Difficulty in towns | New merchants could not easily start production in towns. |
-| Growing world demand | Colonies and world trade increased demand for goods. |
-| Rural labour available | Poor peasants and artisans needed extra income. |
+| Reason                 | Explanation                                                               |
+| ---------------------- | ------------------------------------------------------------------------- |
+| Guild control          | Guilds controlled training, prices, competition, and entry into trades.   |
+| Monopoly rights        | Rulers granted guilds exclusive rights to produce and sell certain goods. |
+| Difficulty in towns    | New merchants could not easily start production in towns.                 |
+| Growing world demand   | Colonies and world trade increased demand for goods.                      |
+| Rural labour available | Poor peasants and artisans needed extra income.                           |
 
 ## Why Did Peasants Agree?
 
@@ -236,15 +237,15 @@ Merchant advances helped them:
 
 Proto-industrial cloth production moved through many stages.
 
-| Stage | Worker or Process |
-| --- | --- |
-| Wool purchased | Merchant clothier bought wool from a wool stapler. |
-| Spinning | Wool was taken to rural spinners. |
-| Weaving | Yarn went to weavers. |
-| Fulling | Cloth was gathered and thickened by fullers. |
-| Dyeing | Cloth was dyed. |
-| Finishing | Final finishing was done in London. |
-| Export | Export merchant sold cloth in international markets. |
+| Stage          | Worker or Process                                    |
+| -------------- | ---------------------------------------------------- |
+| Wool purchased | Merchant clothier bought wool from a wool stapler.   |
+| Spinning       | Wool was taken to rural spinners.                    |
+| Weaving        | Yarn went to weavers.                                |
+| Fulling        | Cloth was gathered and thickened by fullers.         |
+| Dyeing         | Cloth was dyed.                                      |
+| Finishing      | Final finishing was done in London.                  |
+| Export         | Export merchant sold cloth in international markets. |
 
 ## Town-Countryside Link
 
@@ -274,13 +275,13 @@ Factories appeared in England in the eighteenth century, but they became importa
 
 ## Early Factories
 
-| Fact | Explanation |
-| --- | --- |
-| Earliest factories | Came up in England by the 1730s. |
-| Growth | Factory numbers multiplied in the late eighteenth century. |
-| First symbol | Cotton became the main symbol of the new industrial age. |
-| Cotton import | Britain imported 2.5 million pounds of raw cotton in 1760. |
-| Cotton import by 1787 | It increased to 22 million pounds. |
+| Fact                  | Explanation                                                |
+| --------------------- | ---------------------------------------------------------- |
+| Earliest factories    | Came up in England by the 1730s.                           |
+| Growth                | Factory numbers multiplied in the late eighteenth century. |
+| First symbol          | Cotton became the main symbol of the new industrial age.   |
+| Cotton import         | Britain imported 2.5 million pounds of raw cotton in 1760. |
+| Cotton import by 1787 | It increased to 22 million pounds.                         |
 
 ## Why Cotton Production Expanded
 
@@ -305,13 +306,13 @@ Richard Arkwright created the cotton mill.
 
 This was important because production could now be brought under one roof.
 
-| Before the Mill | After the Mill |
-| --- | --- |
-| Production spread across villages | Production concentrated in one place |
-| Family households produced cloth | Workers worked under factory management |
-| Supervision was difficult | Supervision became easier |
-| Quality control was limited | Quality could be watched closely |
-| Labour was scattered | Labour could be regulated |
+| Before the Mill                   | After the Mill                          |
+| --------------------------------- | --------------------------------------- |
+| Production spread across villages | Production concentrated in one place    |
+| Family households produced cloth  | Workers worked under factory management |
+| Supervision was difficult         | Supervision became easier               |
+| Quality control was limited       | Quality could be watched closely        |
+| Labour was scattered              | Labour could be regulated               |
 
 ## Why Factories Dazzled People
 
@@ -342,9 +343,9 @@ Cotton led the first phase of industrialisation up to the 1840s.
 
 After that, iron and steel became more important.
 
-| Industry | Reason for Growth |
-| --- | --- |
-| Cotton | Demand for textile production and exports. |
+| Industry       | Reason for Growth                              |
+| -------------- | ---------------------------------------------- |
+| Cotton         | Demand for textile production and exports.     |
 | Iron and steel | Expansion of railways in Britain and colonies. |
 
 Important fact:
@@ -379,13 +380,13 @@ This means that industrialisation included both big machines and small improveme
 
 Machines did not spread everywhere immediately.
 
-| Problem With New Technology | Explanation |
-| --- | --- |
-| Expensive | Merchants and industrialists hesitated before investing. |
-| Breakdowns | Machines often broke down. |
-| Repair cost | Repair was costly. |
-| Exaggerated claims | Machines were not always as effective as inventors claimed. |
-| Labour availability | In places with plenty of labour, machines were less urgent. |
+| Problem With New Technology | Explanation                                                 |
+| --------------------------- | ----------------------------------------------------------- |
+| Expensive                   | Merchants and industrialists hesitated before investing.    |
+| Breakdowns                  | Machines often broke down.                                  |
+| Repair cost                 | Repair was costly.                                          |
+| Exaggerated claims          | Machines were not always as effective as inventors claimed. |
+| Labour availability         | In places with plenty of labour, machines were less urgent. |
 
 ## Steam Engine Example
 
@@ -397,12 +398,12 @@ But buyers were few for many years.
 
 At the beginning of the nineteenth century:
 
-| Use of Steam Engines in England | Number |
-| --- | --- |
-| Total steam engines | No more than 321 |
-| Cotton industries | 80 |
-| Wool industries | 9 |
-| Others | Mining, canal works, and iron works |
+| Use of Steam Engines in England | Number                              |
+| ------------------------------- | ----------------------------------- |
+| Total steam engines             | No more than 321                    |
+| Cotton industries               | 80                                  |
+| Wool industries                 | 9                                   |
+| Others                          | Mining, canal works, and iron works |
 
 ## Important Conclusion
 
@@ -438,12 +439,12 @@ Industrialists did not want to invest heavily if cheap workers were available.
 
 Some industries needed extra workers only during busy seasons.
 
-| Industry | Busy Season or Reason |
-| --- | --- |
-| Gas works | Cold months |
-| Breweries | Cold months |
-| Bookbinding | Before Christmas |
-| Printing | Before Christmas |
+| Industry    | Busy Season or Reason    |
+| ----------- | ------------------------ |
+| Gas works   | Cold months              |
+| Breweries   | Cold months              |
+| Bookbinding | Before Christmas         |
+| Printing    | Before Christmas         |
 | Ship repair | Winter at the waterfront |
 
 For seasonal industries, hiring temporary workers was easier than buying machines.
@@ -473,13 +474,13 @@ Machine-made goods were often sent for export to colonies.
 
 ## Comparison: Hand Labour and Machines
 
-| Basis | Hand Labour | Machines |
-| --- | --- | --- |
-| Cost in Britain | Cheap because labour was abundant | Expensive to install and repair |
-| Flexibility | Easy to hire seasonally | Less flexible for seasonal demand |
-| Product type | Good for detailed and varied goods | Good for uniform mass goods |
-| Social value | Handmade goods valued by elites | Machine goods often sold to mass markets and colonies |
-| Worker impact | Provided employment but often insecure | Increased output but could reduce labour demand |
+| Basis           | Hand Labour                            | Machines                                              |
+| --------------- | -------------------------------------- | ----------------------------------------------------- |
+| Cost in Britain | Cheap because labour was abundant      | Expensive to install and repair                       |
+| Flexibility     | Easy to hire seasonally                | Less flexible for seasonal demand                     |
+| Product type    | Good for detailed and varied goods     | Good for uniform mass goods                           |
+| Social value    | Handmade goods valued by elites        | Machine goods often sold to mass markets and colonies |
+| Worker impact   | Provided employment but often insecure | Increased output but could reduce labour demand       |
 
 ---
 
@@ -532,13 +533,13 @@ Even if wages rose somewhat, worker welfare did not necessarily improve.
 
 Why?
 
-| Factor | Effect |
-| --- | --- |
-| Price rise | Same wage bought fewer goods. |
-| Napoleonic Wars | Prices rose sharply, reducing real wages. |
+| Factor               | Effect                                    |
+| -------------------- | ----------------------------------------- |
+| Price rise           | Same wage bought fewer goods.             |
+| Napoleonic Wars      | Prices rose sharply, reducing real wages. |
 | Irregular employment | Income depended on number of days worked. |
-| Trade differences | Some trades paid better than others. |
-| Economic slumps | Unemployment increased sharply. |
+| Trade differences    | Some trades paid better than others.      |
+| Economic slumps      | Unemployment increased sharply.           |
 
 At the best of times until the mid-nineteenth century, about 10 percent of the urban population was extremely poor.
 
@@ -597,13 +598,13 @@ Coarser cottons were made in many countries, but fine textiles often came from I
 
 ## Trade Routes of Indian Textiles
 
-| Route | Details |
-| --- | --- |
-| Land route | Armenian and Persian merchants carried goods from Punjab to Afghanistan, eastern Persia, and Central Asia. |
-| Sea route | Fine textiles moved through major pre-colonial ports. |
-| Surat | Linked India with Gulf and Red Sea ports. |
-| Masulipatam | Linked Coromandel coast with overseas trade. |
-| Hoogly | Linked Bengal with Southeast Asian ports. |
+| Route       | Details                                                                                                    |
+| ----------- | ---------------------------------------------------------------------------------------------------------- |
+| Land route  | Armenian and Persian merchants carried goods from Punjab to Afghanistan, eastern Persia, and Central Asia. |
+| Sea route   | Fine textiles moved through major pre-colonial ports.                                                      |
+| Surat       | Linked India with Gulf and Red Sea ports.                                                                  |
+| Masulipatam | Linked Coromandel coast with overseas trade.                                                               |
+| Hoogly      | Linked Bengal with Southeast Asian ports.                                                                  |
 
 ## Role of Indian Merchants and Bankers
 
@@ -708,13 +709,13 @@ But soon problems grew:
 
 ## Gomastha vs Earlier Supply Merchant
 
-| Earlier Supply Merchant | Company Gomastha |
-| --- | --- |
-| Often lived near or within weaving villages | Usually an outsider |
-| Had long-term social ties with weavers | Had no close village relationship |
-| Helped weavers in times of crisis | Enforced Company control |
-| Negotiated through local relations | Used sepoys and peons |
-| Was part of older trade networks | Represented colonial monopoly |
+| Earlier Supply Merchant                     | Company Gomastha                  |
+| ------------------------------------------- | --------------------------------- |
+| Often lived near or within weaving villages | Usually an outsider               |
+| Had long-term social ties with weavers      | Had no close village relationship |
+| Helped weavers in times of crisis           | Enforced Company control          |
+| Negotiated through local relations          | Used sepoys and peons             |
+| Was part of older trade networks            | Represented colonial monopoly     |
 
 ## Weaver Resistance
 
@@ -745,10 +746,10 @@ In 1772, Company official Henry Patullo believed Indian textiles would always re
 
 But by the early nineteenth century, textile exports from India began declining.
 
-| Year | Share of Piece-Goods in Indian Exports |
-| --- | --- |
-| 1811-12 | 33 percent |
-| 1850-51 | About 3 percent |
+| Year    | Share of Piece-Goods in Indian Exports |
+| ------- | -------------------------------------- |
+| 1811-12 | 33 percent                             |
+| 1850-51 | About 3 percent                        |
 
 ## Why Did Indian Textile Exports Decline?
 
@@ -772,10 +773,10 @@ By 1850, cotton piece-goods formed more than 31 percent of the value of Indian i
 
 ## Two Problems Faced by Indian Weavers
 
-| Problem | Explanation |
-| --- | --- |
+| Problem                 | Explanation                                               |
+| ----------------------- | --------------------------------------------------------- |
 | Export market collapsed | Indian textiles faced duties and declining demand abroad. |
-| Local market shrank | Cheap Manchester imports flooded India. |
+| Local market shrank     | Cheap Manchester imports flooded India.                   |
 
 ## Raw Cotton Problem in the 1860s
 
@@ -814,16 +815,16 @@ Modern factories began appearing in India in the nineteenth century, especially 
 
 ## Early Indian Factories
 
-| Year / Period | Development |
-| --- | --- |
-| 1854 | First cotton mill came up in Bombay. |
-| 1856 | Bombay cotton mill went into production. |
-| 1862 | Four Bombay mills were working with 94,000 spindles and 2,150 looms. |
-| 1855 | First jute mill came up in Bengal. |
-| 1862 | Another jute mill came up in Bengal. |
-| 1860s | Elgin Mill started in Kanpur. |
-| 1860s | First cotton mill of Ahmedabad was set up. |
-| 1874 | First spinning and weaving mill of Madras began production. |
+| Year / Period | Development                                                          |
+| ------------- | -------------------------------------------------------------------- |
+| 1854          | First cotton mill came up in Bombay.                                 |
+| 1856          | Bombay cotton mill went into production.                             |
+| 1862          | Four Bombay mills were working with 94,000 spindles and 2,150 looms. |
+| 1855          | First jute mill came up in Bengal.                                   |
+| 1862          | Another jute mill came up in Bengal.                                 |
+| 1860s         | Elgin Mill started in Kanpur.                                        |
+| 1860s         | First cotton mill of Ahmedabad was set up.                           |
+| 1874          | First spinning and weaving mill of Madras began production.          |
 
 ## Early Entrepreneurs
 
@@ -846,14 +847,14 @@ Some later invested in industries.
 
 ## Important Entrepreneurs
 
-| Entrepreneur / Group | Role |
-| --- | --- |
-| Dwarkanath Tagore | Made money in China trade; invested in shipping, mining, banking, plantations, insurance, and joint-stock companies. |
-| Dinshaw Petit | Parsi industrialist in Bombay; wealth partly linked to China trade and raw cotton exports. |
-| Jamsetjee Nusserwanjee Tata | Built major industrial enterprises; wealth partly linked to China trade and raw cotton shipments. |
-| Seth Hukumchand | Marwari businessman; set up the first Indian jute mill in Calcutta in 1917. |
-| G.D. Birla's family | Earlier generations were connected with trade, including China trade. |
-| Madras merchants | Some traded with Burma, the Middle East, and East Africa. |
+| Entrepreneur / Group        | Role                                                                                                                 |
+| --------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| Dwarkanath Tagore           | Made money in China trade; invested in shipping, mining, banking, plantations, insurance, and joint-stock companies. |
+| Dinshaw Petit               | Parsi industrialist in Bombay; wealth partly linked to China trade and raw cotton exports.                           |
+| Jamsetjee Nusserwanjee Tata | Built major industrial enterprises; wealth partly linked to China trade and raw cotton shipments.                    |
+| Seth Hukumchand             | Marwari businessman; set up the first Indian jute mill in Calcutta in 1917.                                          |
+| G.D. Birla's family         | Earlier generations were connected with trade, including China trade.                                                |
+| Madras merchants            | Some traded with Burma, the Middle East, and East Africa.                                                            |
 
 ## Limits on Indian Merchants
 
@@ -896,20 +897,20 @@ Indian factories needed labour, but most workers came from nearby rural district
 ## Growth of Factory Workers
 
 | Year | Number of Workers in Indian Factories |
-| --- | --- |
-| 1901 | 584,000 |
-| 1946 | Over 2,436,000 |
+| ---- | ------------------------------------- |
+| 1901 | 584,000                               |
+| 1946 | Over 2,436,000                        |
 
 ## Sources of Labour
 
 Factory workers often came from nearby districts.
 
-| Industrial Region | Worker Source |
-| --- | --- |
-| Bombay cotton mills | More than 50 percent came from Ratnagiri district in 1911. |
-| Kanpur mills | Many came from villages within Kanpur district. |
-| Bombay textile mills | Workers also came from United Provinces. |
-| Calcutta jute mills | Workers came from distant rural areas including United Provinces. |
+| Industrial Region    | Worker Source                                                     |
+| -------------------- | ----------------------------------------------------------------- |
+| Bombay cotton mills  | More than 50 percent came from Ratnagiri district in 1911.        |
+| Kanpur mills         | Many came from villages within Kanpur district.                   |
+| Bombay textile mills | Workers also came from United Provinces.                          |
+| Calcutta jute mills  | Workers came from distant rural areas including United Provinces. |
 
 ## Village-City Link
 
@@ -932,13 +933,13 @@ A jobber was often an old and trusted worker.
 
 ## Role of the Jobber
 
-| Function | Explanation |
-| --- | --- |
-| Recruitment | Brought people from his village or region. |
-| Settlement | Helped new workers settle in the city. |
-| Support | Provided money or help during crisis. |
-| Control | Became powerful because workers depended on him. |
-| Corruption | Sometimes demanded money and gifts for jobs. |
+| Function    | Explanation                                      |
+| ----------- | ------------------------------------------------ |
+| Recruitment | Brought people from his village or region.       |
+| Settlement  | Helped new workers settle in the city.           |
+| Support     | Provided money or help during crisis.            |
+| Control     | Became powerful because workers depended on him. |
+| Corruption  | Sometimes demanded money and gifts for jobs.     |
 
 ## Worker Conditions
 
@@ -991,12 +992,12 @@ This yarn was:
 
 Several developments changed industrial patterns:
 
-| Change | Effect |
-| --- | --- |
-| Swadeshi movement | Nationalists encouraged boycott of foreign cloth. |
-| Industrial associations | Indian industrial groups demanded tariff protection and concessions. |
-| Decline of yarn exports to China | Chinese and Japanese mills supplied the Chinese market. |
-| Shift from yarn to cloth | Indian mills began producing more cloth. |
+| Change                           | Effect                                                               |
+| -------------------------------- | -------------------------------------------------------------------- |
+| Swadeshi movement                | Nationalists encouraged boycott of foreign cloth.                    |
+| Industrial associations          | Indian industrial groups demanded tariff protection and concessions. |
+| Decline of yarn exports to China | Chinese and Japanese mills supplied the Chinese market.              |
+| Shift from yarn to cloth         | Indian mills began producing more cloth.                             |
 
 Important fact:
 
@@ -1024,14 +1025,14 @@ Indian factories were also asked to supply war needs such as:
 
 ## Effects of the War
 
-| Effect | Explanation |
-| --- | --- |
-| New factories | More factories were set up. |
-| Multiple shifts | Old factories worked longer. |
-| More workers | More labour was employed. |
-| Longer hours | Workers were made to work longer. |
-| Production boom | Industrial production increased sharply. |
-| British decline | After the war, Manchester could not regain its old Indian market. |
+| Effect               | Explanation                                                           |
+| -------------------- | --------------------------------------------------------------------- |
+| New factories        | More factories were set up.                                           |
+| Multiple shifts      | Old factories worked longer.                                          |
+| More workers         | More labour was employed.                                             |
+| Longer hours         | Workers were made to work longer.                                     |
+| Production boom      | Industrial production increased sharply.                              |
+| British decline      | After the war, Manchester could not regain its old Indian market.     |
 | Indian consolidation | Indian industrialists strengthened their position in the home market. |
 
 ## Model Answer: Why Did Industrial Production in India Increase During the First World War?
@@ -1052,10 +1053,10 @@ Large industries formed only a small part of the economy.
 
 Important facts:
 
-| Year | Factory Labour Share |
-| --- | --- |
+| Year | Factory Labour Share                                                            |
+| ---- | ------------------------------------------------------------------------------- |
 | 1911 | Only about 5 percent of total industrial labour worked in registered factories. |
-| 1931 | Only about 10 percent worked in registered factories. |
+| 1931 | Only about 10 percent worked in registered factories.                           |
 
 Most industrial workers continued in:
 
@@ -1148,10 +1149,10 @@ When Manchester manufacturers sold cloth in India, they placed labels on cloth b
 
 Labels had two purposes:
 
-| Purpose | Explanation |
-| --- | --- |
-| Familiarity | Buyers learned the company name and place of manufacture. |
-| Quality mark | "Made in Manchester" was meant to create confidence. |
+| Purpose      | Explanation                                               |
+| ------------ | --------------------------------------------------------- |
+| Familiarity  | Buyers learned the company name and place of manufacture. |
+| Quality mark | "Made in Manchester" was meant to create confidence.      |
 
 ## Use of Indian Images
 
@@ -1159,12 +1160,12 @@ Labels often used Indian gods, goddesses, kings, and historical figures.
 
 This was not accidental.
 
-| Image Used | Intended Message |
-| --- | --- |
-| Gods and goddesses | The product appeared blessed or familiar. |
-| Krishna or Saraswati | Foreign goods appeared culturally closer to Indian buyers. |
-| Emperors and nawabs | The product seemed royal, respected, and high quality. |
-| Maharaja Ranjit Singh | Historical respect was transferred to the product. |
+| Image Used            | Intended Message                                           |
+| --------------------- | ---------------------------------------------------------- |
+| Gods and goddesses    | The product appeared blessed or familiar.                  |
+| Krishna or Saraswati  | Foreign goods appeared culturally closer to Indian buyers. |
+| Emperors and nawabs   | The product seemed royal, respected, and high quality.     |
+| Maharaja Ranjit Singh | Historical respect was transferred to the product.         |
 
 ## Calendars and Advertising
 
@@ -1194,28 +1195,28 @@ Advertisements did not only sell goods. They shaped consumer culture, built trus
 
 # Chapter Timeline
 
-| Period / Year | Event |
-| --- | --- |
-| Seventeenth-eighteenth centuries | European merchants moved to countryside for proto-industrial production. |
-| 1730s | Earliest factories came up in England. |
-| 1760 | Britain imported 2.5 million pounds of raw cotton. |
-| 1764 | James Hargreaves devised the Spinning Jenny. |
-| 1781 | James Watt patented improved steam engine. |
-| 1787 | British raw cotton imports rose to 22 million pounds. |
-| 1811-12 | Piece-goods formed 33 percent of Indian exports. |
-| 1840s | Cotton led British industrialisation; railways increased iron and steel demand. |
-| 1850-51 | Piece-goods fell to about 3 percent of Indian exports. |
-| 1854 | First cotton mill came up in Bombay. |
-| 1855 | First jute mill came up in Bengal. |
-| 1860s | Elgin Mill in Kanpur; first cotton mill in Ahmedabad. |
-| 1873 | British iron and steel exports worth about 77 million pounds. |
-| 1874 | First spinning and weaving mill of Madras began production. |
-| 1900-1912 | Indian cotton piece-goods production doubled. |
-| 1911 | Only about 5 percent of industrial labour worked in registered factories. |
-| 1917 | Seth Hukumchand set up first Indian jute mill in Calcutta. |
-| 1931 | About 10 percent of industrial labour worked in registered factories. |
-| 1941 | Over 35 percent of Indian handlooms had fly shuttles. |
-| 1946 | Indian factory workers numbered over 2,436,000. |
+| Period / Year                    | Event                                                                           |
+| -------------------------------- | ------------------------------------------------------------------------------- |
+| Seventeenth-eighteenth centuries | European merchants moved to countryside for proto-industrial production.        |
+| 1730s                            | Earliest factories came up in England.                                          |
+| 1760                             | Britain imported 2.5 million pounds of raw cotton.                              |
+| 1764                             | James Hargreaves devised the Spinning Jenny.                                    |
+| 1781                             | James Watt patented improved steam engine.                                      |
+| 1787                             | British raw cotton imports rose to 22 million pounds.                           |
+| 1811-12                          | Piece-goods formed 33 percent of Indian exports.                                |
+| 1840s                            | Cotton led British industrialisation; railways increased iron and steel demand. |
+| 1850-51                          | Piece-goods fell to about 3 percent of Indian exports.                          |
+| 1854                             | First cotton mill came up in Bombay.                                            |
+| 1855                             | First jute mill came up in Bengal.                                              |
+| 1860s                            | Elgin Mill in Kanpur; first cotton mill in Ahmedabad.                           |
+| 1873                             | British iron and steel exports worth about 77 million pounds.                   |
+| 1874                             | First spinning and weaving mill of Madras began production.                     |
+| 1900-1912                        | Indian cotton piece-goods production doubled.                                   |
+| 1911                             | Only about 5 percent of industrial labour worked in registered factories.       |
+| 1917                             | Seth Hukumchand set up first Indian jute mill in Calcutta.                      |
+| 1931                             | About 10 percent of industrial labour worked in registered factories.           |
+| 1941                             | Over 35 percent of Indian handlooms had fly shuttles.                           |
+| 1946                             | Indian factory workers numbered over 2,436,000.                                 |
 
 ---
 
@@ -1223,33 +1224,33 @@ Advertisements did not only sell goods. They shaped consumer culture, built trus
 
 ## 1. Why Did Proto-Industrialisation Develop?
 
-| Cause | Effect |
-| --- | --- |
-| Guild restrictions in towns | Merchants moved to countryside. |
-| Expanding world trade | Demand for goods increased. |
-| Enclosure of commons | Poor peasants needed extra income. |
-| Merchant advances | Rural households began producing for markets. |
+| Cause                       | Effect                                        |
+| --------------------------- | --------------------------------------------- |
+| Guild restrictions in towns | Merchants moved to countryside.               |
+| Expanding world trade       | Demand for goods increased.                   |
+| Enclosure of commons        | Poor peasants needed extra income.            |
+| Merchant advances           | Rural households began producing for markets. |
 
 ## 2. Why Did Indian Weavers Suffer?
 
-| Cause | Effect |
-| --- | --- |
-| Company monopoly | Weavers lost freedom to bargain. |
-| Gomastha control | Weavers faced coercion and low prices. |
-| Manchester imports | Local market shrank. |
-| Import duties in Britain | Export market declined. |
-| American Civil War | Raw cotton became costly in India. |
-| Indian mills | Handloom weavers faced more competition. |
+| Cause                    | Effect                                   |
+| ------------------------ | ---------------------------------------- |
+| Company monopoly         | Weavers lost freedom to bargain.         |
+| Gomastha control         | Weavers faced coercion and low prices.   |
+| Manchester imports       | Local market shrank.                     |
+| Import duties in Britain | Export market declined.                  |
+| American Civil War       | Raw cotton became costly in India.       |
+| Indian mills             | Handloom weavers faced more competition. |
 
 ## 3. Why Did Indian Industry Grow During the First World War?
 
-| Cause | Effect |
-| --- | --- |
-| British mills busy with war needs | Manchester imports declined. |
-| War demand | Indian factories supplied military goods. |
-| Larger home market | Indian mills expanded production. |
-| Multiple shifts | Industrial output increased. |
-| Post-war British weakness | Indian industrialists consolidated their position. |
+| Cause                             | Effect                                             |
+| --------------------------------- | -------------------------------------------------- |
+| British mills busy with war needs | Manchester imports declined.                       |
+| War demand                        | Indian factories supplied military goods.          |
+| Larger home market                | Indian mills expanded production.                  |
+| Multiple shifts                   | Industrial output increased.                       |
+| Post-war British weakness         | Indian industrialists consolidated their position. |
 
 ---
 
@@ -1257,35 +1258,35 @@ Advertisements did not only sell goods. They shaped consumer culture, built trus
 
 ## Proto-Industrialisation vs Factory Production
 
-| Basis | Proto-Industrialisation | Factory Production |
-| --- | --- | --- |
-| Location | Countryside and homes | Factory building |
-| Control | Merchants | Factory owners and managers |
-| Labour | Family labour and artisans | Wage workers |
-| Supervision | Indirect and spread out | Direct and concentrated |
-| Technology | Hand tools and household production | Machines and factory systems |
-| Market | International markets | Domestic and international markets |
+| Basis       | Proto-Industrialisation             | Factory Production                 |
+| ----------- | ----------------------------------- | ---------------------------------- |
+| Location    | Countryside and homes               | Factory building                   |
+| Control     | Merchants                           | Factory owners and managers        |
+| Labour      | Family labour and artisans          | Wage workers                       |
+| Supervision | Indirect and spread out             | Direct and concentrated            |
+| Technology  | Hand tools and household production | Machines and factory systems       |
+| Market      | International markets               | Domestic and international markets |
 
 ## Britain vs India
 
-| Basis | Britain | Colonial India |
-| --- | --- | --- |
-| Political position | Industrialising imperial power | Colony under British rule |
-| Main early sector | Cotton, later iron and steel | Textiles, jute, plantations, mining |
-| Market access | Protected British market | Open to Manchester imports |
-| Industrial policy | Supported British manufacturers | Favoured colonial interests |
-| Producers | Factory owners and workers | Weavers, merchants, mills, colonial agencies |
-| Problem | Labour insecurity and technology conflict | Colonial control, cheap imports, raw material pressure |
+| Basis              | Britain                                   | Colonial India                                         |
+| ------------------ | ----------------------------------------- | ------------------------------------------------------ |
+| Political position | Industrialising imperial power            | Colony under British rule                              |
+| Main early sector  | Cotton, later iron and steel              | Textiles, jute, plantations, mining                    |
+| Market access      | Protected British market                  | Open to Manchester imports                             |
+| Industrial policy  | Supported British manufacturers           | Favoured colonial interests                            |
+| Producers          | Factory owners and workers                | Weavers, merchants, mills, colonial agencies           |
+| Problem            | Labour insecurity and technology conflict | Colonial control, cheap imports, raw material pressure |
 
 ## Gomastha vs Jobber
 
-| Basis | Gomastha | Jobber |
-| --- | --- | --- |
-| Context | East India Company textile control | Indian factory labour recruitment |
-| Main role | Supervised weavers and collected supplies | Recruited factory workers |
-| Power source | Company authority | Access to jobs and worker networks |
-| Relationship with workers | Often coercive and outsider-based | Often village-based but could become exploitative |
-| Effect | Reduced weaver freedom | Controlled worker entry into mills |
+| Basis                     | Gomastha                                  | Jobber                                            |
+| ------------------------- | ----------------------------------------- | ------------------------------------------------- |
+| Context                   | East India Company textile control        | Indian factory labour recruitment                 |
+| Main role                 | Supervised weavers and collected supplies | Recruited factory workers                         |
+| Power source              | Company authority                         | Access to jobs and worker networks                |
+| Relationship with workers | Often coercive and outsider-based         | Often village-based but could become exploitative |
+| Effect                    | Reduced weaver freedom                    | Controlled worker entry into mills                |
 
 ---
 
@@ -1309,12 +1310,12 @@ The East India Company appointed gomasthas to supervise weavers, collect supplie
 
 ## Q2: True or False
 
-| Statement | Answer | Correction |
-| --- | --- | --- |
-| At the end of the nineteenth century, 80 percent of Europe's workforce was in advanced industrial sectors. | False | Less than 20 percent worked in technologically advanced industrial sectors. |
-| The international market for fine textiles was dominated by India till the eighteenth century. | True | Indian silk and cotton goods were famous internationally. |
-| The American Civil War reduced cotton exports from India. | False | It increased demand for Indian raw cotton because US cotton supplies were cut off. |
-| The fly shuttle helped handloom workers improve productivity. | True | It increased weaving speed and output per worker. |
+| Statement                                                                                                  | Answer | Correction                                                                         |
+| ---------------------------------------------------------------------------------------------------------- | ------ | ---------------------------------------------------------------------------------- |
+| At the end of the nineteenth century, 80 percent of Europe's workforce was in advanced industrial sectors. | False  | Less than 20 percent worked in technologically advanced industrial sectors.        |
+| The international market for fine textiles was dominated by India till the eighteenth century.             | True   | Indian silk and cotton goods were famous internationally.                          |
+| The American Civil War reduced cotton exports from India.                                                  | False  | It increased demand for Indian raw cotton because US cotton supplies were cut off. |
+| The fly shuttle helped handloom workers improve productivity.                                              | True   | It increased weaving speed and output per worker.                                  |
 
 ## Q3: What is proto-industrialisation?
 
@@ -1349,15 +1350,15 @@ Industrial production increased because British mills became busy with war produ
 
 # Common Mistakes to Avoid
 
-| Mistake | Correct Understanding |
-| --- | --- |
-| "Industrialisation began only with factories." | Proto-industrial production existed before factories. |
-| "Machines immediately replaced all hand labour." | Hand labour remained important for a long time. |
-| "All workers benefited from machines." | Many workers feared unemployment and wage insecurity. |
+| Mistake                                                     | Correct Understanding                                                                         |
+| ----------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| "Industrialisation began only with factories."              | Proto-industrial production existed before factories.                                         |
+| "Machines immediately replaced all hand labour."            | Hand labour remained important for a long time.                                               |
+| "All workers benefited from machines."                      | Many workers feared unemployment and wage insecurity.                                         |
 | "Indian textile decline happened only because of machines." | It also happened because of colonial policies, tariffs, Company monopoly, and market control. |
-| "Gomasthas helped weavers." | Gomasthas mainly controlled weavers for the Company. |
-| "Indian mills destroyed all handlooms." | Handloom production expanded in the twentieth century in some sectors. |
-| "Advertisements only gave information." | Advertisements shaped desire, identity, trust, and nationalism. |
+| "Gomasthas helped weavers."                                 | Gomasthas mainly controlled weavers for the Company.                                          |
+| "Indian mills destroyed all handlooms."                     | Handloom production expanded in the twentieth century in some sectors.                        |
+| "Advertisements only gave information."                     | Advertisements shaped desire, identity, trust, and nationalism.                               |
 
 ---
 
@@ -1461,18 +1462,18 @@ Example opening:
 
 ## Must-Remember Names
 
-| Name | Why Important |
-| --- | --- |
-| E.T. Paull | Published "Dawn of the Century" image glorifying progress. |
-| Richard Arkwright | Created the cotton mill. |
-| James Hargreaves | Devised the Spinning Jenny. |
-| James Watt | Improved and patented the steam engine in 1781. |
-| Mathew Boulton | Manufactured Watt's steam engine model. |
-| Henry Patullo | Believed Indian textiles would remain in demand. |
-| Dwarkanath Tagore | Early Indian industrial investor with China trade links. |
-| Dinshaw Petit | Parsi industrialist in Bombay. |
-| Jamsetjee Nusserwanjee Tata | Major Indian industrialist. |
-| Seth Hukumchand | Set up first Indian jute mill in Calcutta in 1917. |
+| Name                        | Why Important                                              |
+| --------------------------- | ---------------------------------------------------------- |
+| E.T. Paull                  | Published "Dawn of the Century" image glorifying progress. |
+| Richard Arkwright           | Created the cotton mill.                                   |
+| James Hargreaves            | Devised the Spinning Jenny.                                |
+| James Watt                  | Improved and patented the steam engine in 1781.            |
+| Mathew Boulton              | Manufactured Watt's steam engine model.                    |
+| Henry Patullo               | Believed Indian textiles would remain in demand.           |
+| Dwarkanath Tagore           | Early Indian industrial investor with China trade links.   |
+| Dinshaw Petit               | Parsi industrialist in Bombay.                             |
+| Jamsetjee Nusserwanjee Tata | Major Indian industrialist.                                |
+| Seth Hukumchand             | Set up first Indian jute mill in Calcutta in 1917.         |
 
 ## Last-Minute Memory Chain
 
@@ -1502,4 +1503,3 @@ Before moving to the next chapter, make sure you can:
 - [ ] Explain how the First World War boosted Indian production.
 - [ ] Explain why handloom production survived.
 - [ ] Explain how advertisements shaped consumer markets.
-

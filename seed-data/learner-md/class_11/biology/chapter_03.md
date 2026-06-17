@@ -4,16 +4,16 @@ Class 11 Biology
 
 ## Chapter Profile
 
-| Item | Details |
-|---|---|
-| Class | 11 |
-| Subject | Biology |
-| Chapter | 3 |
-| Title | Plant Kingdom |
-| Main theme | Classification, structure, reproduction, and life cycles of major plant groups |
-| Main groups studied | Algae, bryophytes, pteridophytes, gymnosperms, angiosperms |
-| Core skill | Compare plant groups using body organisation, reproduction, vascular tissue, seeds, and life cycle |
-| Learner goal | Build a clear sequence from simple thalloid plants to seed-bearing flowering plants |
+| Item                | Details                                                                                            |
+| ------------------- | -------------------------------------------------------------------------------------------------- |
+| Class               | 11                                                                                                 |
+| Subject             | Biology                                                                                            |
+| Chapter             | 3                                                                                                  |
+| Title               | Plant Kingdom                                                                                      |
+| Main theme          | Classification, structure, reproduction, and life cycles of major plant groups                     |
+| Main groups studied | Algae, bryophytes, pteridophytes, gymnosperms, angiosperms                                         |
+| Core skill          | Compare plant groups using body organisation, reproduction, vascular tissue, seeds, and life cycle |
+| Learner goal        | Build a clear sequence from simple thalloid plants to seed-bearing flowering plants                |
 
 ## How To Study This Chapter
 
@@ -51,57 +51,57 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Plantae | Kingdom containing eukaryotic, mostly photosynthetic organisms with cellulose walls |
-| Thallus | Plant body not clearly differentiated into true root, stem, and leaves |
-| Thalloid | Having a thallus-like body |
-| Algae | Simple chlorophyll-bearing, thalloid, mostly aquatic autotrophs |
-| Bryophytes | Non-vascular land plants that need water for sexual reproduction |
-| Pteridophytes | Vascular seedless plants such as ferns and horsetails |
-| Gymnosperms | Seed plants with naked ovules and naked seeds |
-| Angiosperms | Flowering plants with seeds enclosed in fruits |
-| Gametophyte | Haploid phase that produces gametes |
-| Sporophyte | Diploid phase that produces spores by meiosis |
-| Antheridium | Male sex organ in bryophytes and pteridophytes |
-| Archegonium | Flask-shaped female sex organ in bryophytes, pteridophytes, and gymnosperms |
-| Antherozoid | Motile male gamete |
-| Rhizoid | Root-like structure used for attachment |
-| Protonema | First filamentous stage in the moss gametophyte |
-| Prothallus | Small gametophyte of many ferns |
-| Sporangium | Structure in which spores are produced |
-| Sporophyll | Leaf-like structure bearing sporangia |
-| Strobilus | Cone-like compact structure formed by sporophylls |
-| Homospory | Production of one kind of spore |
-| Heterospory | Production of two kinds of spores, microspores and megaspores |
-| Microspore | Small spore that gives rise to male gametophyte |
-| Megaspore | Large spore that gives rise to female gametophyte |
-| Pollen grain | Highly reduced male gametophyte in seed plants |
-| Ovule | Megasporangium protected by envelopes; develops into seed after fertilisation |
-| Isogamy | Fusion of similar gametes |
-| Anisogamy | Fusion of dissimilar gametes |
-| Oogamy | Fusion of large non-motile egg with smaller motile male gamete |
-| Alternation of generations | Alternation between haploid gametophyte and diploid sporophyte |
-| Haplontic | Life cycle in which haploid phase is dominant and zygote is the only diploid stage |
-| Diplontic | Life cycle in which diploid phase is dominant and gametes are the only haploid stage |
-| Haplo-diplontic | Life cycle in which both haploid and diploid phases are multicellular |
+| Term                       | Meaning                                                                              |
+| -------------------------- | ------------------------------------------------------------------------------------ |
+| Plantae                    | Kingdom containing eukaryotic, mostly photosynthetic organisms with cellulose walls  |
+| Thallus                    | Plant body not clearly differentiated into true root, stem, and leaves               |
+| Thalloid                   | Having a thallus-like body                                                           |
+| Algae                      | Simple chlorophyll-bearing, thalloid, mostly aquatic autotrophs                      |
+| Bryophytes                 | Non-vascular land plants that need water for sexual reproduction                     |
+| Pteridophytes              | Vascular seedless plants such as ferns and horsetails                                |
+| Gymnosperms                | Seed plants with naked ovules and naked seeds                                        |
+| Angiosperms                | Flowering plants with seeds enclosed in fruits                                       |
+| Gametophyte                | Haploid phase that produces gametes                                                  |
+| Sporophyte                 | Diploid phase that produces spores by meiosis                                        |
+| Antheridium                | Male sex organ in bryophytes and pteridophytes                                       |
+| Archegonium                | Flask-shaped female sex organ in bryophytes, pteridophytes, and gymnosperms          |
+| Antherozoid                | Motile male gamete                                                                   |
+| Rhizoid                    | Root-like structure used for attachment                                              |
+| Protonema                  | First filamentous stage in the moss gametophyte                                      |
+| Prothallus                 | Small gametophyte of many ferns                                                      |
+| Sporangium                 | Structure in which spores are produced                                               |
+| Sporophyll                 | Leaf-like structure bearing sporangia                                                |
+| Strobilus                  | Cone-like compact structure formed by sporophylls                                    |
+| Homospory                  | Production of one kind of spore                                                      |
+| Heterospory                | Production of two kinds of spores, microspores and megaspores                        |
+| Microspore                 | Small spore that gives rise to male gametophyte                                      |
+| Megaspore                  | Large spore that gives rise to female gametophyte                                    |
+| Pollen grain               | Highly reduced male gametophyte in seed plants                                       |
+| Ovule                      | Megasporangium protected by envelopes; develops into seed after fertilisation        |
+| Isogamy                    | Fusion of similar gametes                                                            |
+| Anisogamy                  | Fusion of dissimilar gametes                                                         |
+| Oogamy                     | Fusion of large non-motile egg with smaller motile male gamete                       |
+| Alternation of generations | Alternation between haploid gametophyte and diploid sporophyte                       |
+| Haplontic                  | Life cycle in which haploid phase is dominant and zygote is the only diploid stage   |
+| Diplontic                  | Life cycle in which diploid phase is dominant and gametes are the only haploid stage |
+| Haplo-diplontic            | Life cycle in which both haploid and diploid phases are multicellular                |
 
 ## Chapter Map
 
-| Unit | Topic | What To Master |
-|---|---|---|
-| 3.1 | Plant classification systems | Artificial, natural, phylogenetic, numerical, cytological, chemical approaches |
-| 3.2 | Algae | General features, reproduction, importance, classes |
-| 3.3 | Chlorophyceae | Green algae |
-| 3.4 | Phaeophyceae | Brown algae |
-| 3.5 | Rhodophyceae | Red algae |
-| 3.6 | Bryophytes | Amphibians of plant kingdom, gametophyte dominance |
-| 3.7 | Liverworts | Marchantia, gemmae, thalloid body |
-| 3.8 | Mosses | Protonema, leafy stage, sporophyte |
-| 3.9 | Pteridophytes | Vascular seedless plants, prothallus, heterospory |
-| 3.10 | Gymnosperms | Naked seeds, cones, pollen, ovules |
-| 3.11 | Angiosperms | Flowers, fruits, enclosed seeds, double fertilisation |
-| 3.12 | Life cycles | Haplontic, diplontic, haplo-diplontic |
+| Unit | Topic                        | What To Master                                                                 |
+| ---- | ---------------------------- | ------------------------------------------------------------------------------ |
+| 3.1  | Plant classification systems | Artificial, natural, phylogenetic, numerical, cytological, chemical approaches |
+| 3.2  | Algae                        | General features, reproduction, importance, classes                            |
+| 3.3  | Chlorophyceae                | Green algae                                                                    |
+| 3.4  | Phaeophyceae                 | Brown algae                                                                    |
+| 3.5  | Rhodophyceae                 | Red algae                                                                      |
+| 3.6  | Bryophytes                   | Amphibians of plant kingdom, gametophyte dominance                             |
+| 3.7  | Liverworts                   | Marchantia, gemmae, thalloid body                                              |
+| 3.8  | Mosses                       | Protonema, leafy stage, sporophyte                                             |
+| 3.9  | Pteridophytes                | Vascular seedless plants, prothallus, heterospory                              |
+| 3.10 | Gymnosperms                  | Naked seeds, cones, pollen, ovules                                             |
+| 3.11 | Angiosperms                  | Flowers, fruits, enclosed seeds, double fertilisation                          |
+| 3.12 | Life cycles                  | Haplontic, diplontic, haplo-diplontic                                          |
 
 ## 1. Plant Kingdom In Context
 
@@ -183,13 +183,13 @@ For example, the presence or absence of certain chemicals can help compare plant
 
 ## 3. Overview Of Major Plant Groups
 
-| Group | Body Organisation | Vascular Tissue | Seeds | Dominant Phase | Examples |
-|---|---|---|---|---|---|
-| Algae | Thalloid | Absent | Absent | Often gametophyte or variable | Volvox, Spirogyra, Fucus |
-| Bryophytes | Thalloid or simple leafy structures | Absent | Absent | Gametophyte | Marchantia, Funaria, Sphagnum |
-| Pteridophytes | True root, stem, leaves | Present | Absent | Sporophyte | Ferns, Selaginella, Equisetum |
-| Gymnosperms | Root, stem, leaves | Present | Naked seeds | Sporophyte | Cycas, Pinus, Ginkgo |
-| Angiosperms | Root, stem, leaves, flowers | Present | Enclosed seeds | Sporophyte | Grasses, mango, Eucalyptus |
+| Group         | Body Organisation                   | Vascular Tissue | Seeds          | Dominant Phase                | Examples                      |
+| ------------- | ----------------------------------- | --------------- | -------------- | ----------------------------- | ----------------------------- |
+| Algae         | Thalloid                            | Absent          | Absent         | Often gametophyte or variable | Volvox, Spirogyra, Fucus      |
+| Bryophytes    | Thalloid or simple leafy structures | Absent          | Absent         | Gametophyte                   | Marchantia, Funaria, Sphagnum |
+| Pteridophytes | True root, stem, leaves             | Present         | Absent         | Sporophyte                    | Ferns, Selaginella, Equisetum |
+| Gymnosperms   | Root, stem, leaves                  | Present         | Naked seeds    | Sporophyte                    | Cycas, Pinus, Ginkgo          |
+| Angiosperms   | Root, stem, leaves, flowers         | Present         | Enclosed seeds | Sporophyte                    | Grasses, mango, Eucalyptus    |
 
 ## 4. Algae
 
@@ -197,25 +197,25 @@ Algae are chlorophyll-bearing, simple, thalloid, autotrophic organisms. Most are
 
 ## 4.1 General Features Of Algae
 
-| Feature | Description |
-|---|---|
-| Body | Simple and thalloid |
-| Chlorophyll | Present |
-| Nutrition | Autotrophic |
-| Habitat | Mostly aquatic; also moist stones, soil, wood, and associations |
-| Organisation | Unicellular, colonial, filamentous, or large marine forms |
-| Vascular tissue | Absent |
-| True root, stem, leaves | Absent |
+| Feature                 | Description                                                     |
+| ----------------------- | --------------------------------------------------------------- |
+| Body                    | Simple and thalloid                                             |
+| Chlorophyll             | Present                                                         |
+| Nutrition               | Autotrophic                                                     |
+| Habitat                 | Mostly aquatic; also moist stones, soil, wood, and associations |
+| Organisation            | Unicellular, colonial, filamentous, or large marine forms       |
+| Vascular tissue         | Absent                                                          |
+| True root, stem, leaves | Absent                                                          |
 
 Algae may also occur in association with fungi as lichens. Some may occur on animals.
 
 ## 4.2 Forms And Size Of Algae
 
-| Form | Example |
-|---|---|
-| Colonial | Volvox |
-| Filamentous | Ulothrix, Spirogyra |
-| Large marine body | Kelps |
+| Form              | Example             |
+| ----------------- | ------------------- |
+| Colonial          | Volvox              |
+| Filamentous       | Ulothrix, Spirogyra |
+| Large marine body | Kelps               |
 
 Some marine algae can form massive plant bodies.
 
@@ -239,27 +239,27 @@ Zoospores are motile because they have flagella. On germination, they give rise 
 
 Sexual reproduction occurs through fusion of gametes.
 
-| Type | Meaning | Example |
-|---|---|---|
-| Isogamy | Fusion of similar gametes | Ulothrix, Spirogyra |
-| Anisogamy | Fusion of gametes dissimilar in size | Eudorina |
-| Oogamy | Fusion of large non-motile female gamete and small motile male gamete | Volvox, Fucus |
+| Type      | Meaning                                                               | Example             |
+| --------- | --------------------------------------------------------------------- | ------------------- |
+| Isogamy   | Fusion of similar gametes                                             | Ulothrix, Spirogyra |
+| Anisogamy | Fusion of gametes dissimilar in size                                  | Eudorina            |
+| Oogamy    | Fusion of large non-motile female gamete and small motile male gamete | Volvox, Fucus       |
 
 ## 4.7 Economic Importance Of Algae
 
 Algae are important ecologically and economically.
 
-| Importance | Explanation |
-|---|---|
+| Importance              | Explanation                                                                              |
+| ----------------------- | ---------------------------------------------------------------------------------------- |
 | Carbon dioxide fixation | A major portion of total photosynthetic carbon fixation on Earth is carried out by algae |
-| Oxygen release | Algae increase dissolved oxygen in water |
-| Primary production | They form the base of many aquatic food chains |
-| Food | Porphyra, Laminaria, and Sargassum are eaten in some regions |
-| Hydrocolloids | Brown algae yield algin; red algae yield carrageen |
-| Agar | Gelidium and Gracilaria yield agar |
-| Microbial culture | Agar is used to grow microbes |
-| Food products | Agar is used in ice creams and jellies |
-| Food supplement | Chlorella is protein-rich and used as a supplement |
+| Oxygen release          | Algae increase dissolved oxygen in water                                                 |
+| Primary production      | They form the base of many aquatic food chains                                           |
+| Food                    | Porphyra, Laminaria, and Sargassum are eaten in some regions                             |
+| Hydrocolloids           | Brown algae yield algin; red algae yield carrageen                                       |
+| Agar                    | Gelidium and Gracilaria yield agar                                                       |
+| Microbial culture       | Agar is used to grow microbes                                                            |
+| Food products           | Agar is used in ice creams and jellies                                                   |
+| Food supplement         | Chlorella is protein-rich and used as a supplement                                       |
 
 ## 5. Main Classes Of Algae
 
@@ -271,15 +271,15 @@ The three main classes of algae in this chapter are:
 
 ## 5.1 Comparison Of Algal Classes
 
-| Character | Chlorophyceae | Phaeophyceae | Rhodophyceae |
-|---|---|---|---|
-| Common name | Green algae | Brown algae | Red algae |
-| Major pigments | Chlorophyll a and b | Chlorophyll a and c, carotenoids, xanthophylls, fucoxanthin | Chlorophyll a and d, phycoerythrin |
-| Stored food | Starch | Laminarin and mannitol | Floridean starch |
-| Cell wall | Cellulose and pectose | Cellulose with algin coating | Cellulose, pectin, polysulphate esters |
-| Flagella | Usually 2 to 8, equal and apical | 2, unequal and lateral | Absent |
-| Habitat | Freshwater, brackish water, salt water | Mostly marine | Mostly marine |
-| Examples | Chlamydomonas, Volvox, Ulothrix, Spirogyra, Chara | Ectocarpus, Dictyota, Laminaria, Sargassum, Fucus | Polysiphonia, Porphyra, Gracilaria, Gelidium |
+| Character      | Chlorophyceae                                     | Phaeophyceae                                                | Rhodophyceae                                 |
+| -------------- | ------------------------------------------------- | ----------------------------------------------------------- | -------------------------------------------- |
+| Common name    | Green algae                                       | Brown algae                                                 | Red algae                                    |
+| Major pigments | Chlorophyll a and b                               | Chlorophyll a and c, carotenoids, xanthophylls, fucoxanthin | Chlorophyll a and d, phycoerythrin           |
+| Stored food    | Starch                                            | Laminarin and mannitol                                      | Floridean starch                             |
+| Cell wall      | Cellulose and pectose                             | Cellulose with algin coating                                | Cellulose, pectin, polysulphate esters       |
+| Flagella       | Usually 2 to 8, equal and apical                  | 2, unequal and lateral                                      | Absent                                       |
+| Habitat        | Freshwater, brackish water, salt water            | Mostly marine                                               | Mostly marine                                |
+| Examples       | Chlamydomonas, Volvox, Ulothrix, Spirogyra, Chara | Ectocarpus, Dictyota, Laminaria, Sargassum, Fucus           | Polysiphonia, Porphyra, Gracilaria, Gelidium |
 
 ## 6. Chlorophyceae
 
@@ -287,17 +287,17 @@ Chlorophyceae are commonly called green algae.
 
 ## 6.1 Main Features Of Chlorophyceae
 
-| Feature | Description |
-|---|---|
-| Colour | Grass green |
-| Pigments | Chlorophyll a and b |
-| Body | Unicellular, colonial, or filamentous |
-| Chloroplasts | Definite and varied in shape |
-| Stored food | Starch, often associated with pyrenoids |
-| Cell wall | Inner cellulose layer and outer pectose layer |
-| Vegetative reproduction | Fragmentation |
-| Asexual reproduction | Flagellated zoospores in zoosporangia |
-| Sexual reproduction | Isogamous, anisogamous, or oogamous |
+| Feature                 | Description                                   |
+| ----------------------- | --------------------------------------------- |
+| Colour                  | Grass green                                   |
+| Pigments                | Chlorophyll a and b                           |
+| Body                    | Unicellular, colonial, or filamentous         |
+| Chloroplasts            | Definite and varied in shape                  |
+| Stored food             | Starch, often associated with pyrenoids       |
+| Cell wall               | Inner cellulose layer and outer pectose layer |
+| Vegetative reproduction | Fragmentation                                 |
+| Asexual reproduction    | Flagellated zoospores in zoosporangia         |
+| Sexual reproduction     | Isogamous, anisogamous, or oogamous           |
 
 ## 6.2 Chloroplast Shapes In Green Algae
 
@@ -332,28 +332,28 @@ Phaeophyceae are commonly called brown algae. They are found primarily in marine
 
 ## 7.1 Main Features Of Phaeophyceae
 
-| Feature | Description |
-|---|---|
-| Common name | Brown algae |
-| Habitat | Mostly marine |
-| Size range | Simple filamentous forms to giant kelps |
-| Pigments | Chlorophyll a, chlorophyll c, carotenoids, xanthophylls |
-| Brown colour | Due to fucoxanthin |
-| Stored food | Laminarin and mannitol |
-| Cell wall | Cellulose with gelatinous algin coating |
-| Body parts in many forms | Holdfast, stipe, frond |
-| Asexual reproduction | Biflagellate zoospores |
-| Sexual reproduction | Isogamous, anisogamous, or oogamous |
+| Feature                  | Description                                             |
+| ------------------------ | ------------------------------------------------------- |
+| Common name              | Brown algae                                             |
+| Habitat                  | Mostly marine                                           |
+| Size range               | Simple filamentous forms to giant kelps                 |
+| Pigments                 | Chlorophyll a, chlorophyll c, carotenoids, xanthophylls |
+| Brown colour             | Due to fucoxanthin                                      |
+| Stored food              | Laminarin and mannitol                                  |
+| Cell wall                | Cellulose with gelatinous algin coating                 |
+| Body parts in many forms | Holdfast, stipe, frond                                  |
+| Asexual reproduction     | Biflagellate zoospores                                  |
+| Sexual reproduction      | Isogamous, anisogamous, or oogamous                     |
 
 ## 7.2 Holdfast, Stipe, And Frond
 
 Many brown algae show body differentiation into:
 
-| Part | Function |
-|---|---|
-| Holdfast | Attaches body to substratum |
-| Stipe | Stalk-like part |
-| Frond | Leaf-like photosynthetic part |
+| Part     | Function                      |
+| -------- | ----------------------------- |
+| Holdfast | Attaches body to substratum   |
+| Stipe    | Stalk-like part               |
+| Frond    | Leaf-like photosynthetic part |
 
 These are not true roots, stems, or leaves, but they show functional differentiation.
 
@@ -379,18 +379,18 @@ Rhodophyceae are commonly called red algae.
 
 ## 8.1 Main Features Of Rhodophyceae
 
-| Feature | Description |
-|---|---|
-| Common name | Red algae |
-| Red pigment | r-phycoerythrin |
-| Habitat | Mostly marine, especially warmer areas |
-| Light range | Found near surface and at greater depths |
-| Body | Mostly multicellular thalli |
-| Stored food | Floridean starch |
-| Vegetative reproduction | Fragmentation |
-| Asexual reproduction | Non-motile spores |
-| Sexual reproduction | Non-motile gametes; oogamous |
-| Post-fertilisation | Complex developments |
+| Feature                 | Description                              |
+| ----------------------- | ---------------------------------------- |
+| Common name             | Red algae                                |
+| Red pigment             | r-phycoerythrin                          |
+| Habitat                 | Mostly marine, especially warmer areas   |
+| Light range             | Found near surface and at greater depths |
+| Body                    | Mostly multicellular thalli              |
+| Stored food             | Floridean starch                         |
+| Vegetative reproduction | Fragmentation                            |
+| Asexual reproduction    | Non-motile spores                        |
+| Sexual reproduction     | Non-motile gametes; oogamous             |
+| Post-fertilisation      | Complex developments                     |
 
 ## 8.2 Floridean Starch
 
@@ -415,19 +415,19 @@ They are called amphibians of the plant kingdom because they can live on land bu
 
 ## 9.1 General Features Of Bryophytes
 
-| Feature | Description |
-|---|---|
-| Habitat | Damp, humid, shaded places |
-| Vascular tissue | Absent |
-| True roots, stems, leaves | Absent |
-| Attachment | Rhizoids |
-| Main plant body | Haploid gametophyte |
-| Sex organs | Multicellular |
-| Male sex organ | Antheridium |
-| Female sex organ | Archegonium |
-| Male gametes | Biflagellate antherozoids |
-| Water need | Required for fertilisation |
-| Sporophyte | Attached to gametophyte and dependent on it |
+| Feature                   | Description                                 |
+| ------------------------- | ------------------------------------------- |
+| Habitat                   | Damp, humid, shaded places                  |
+| Vascular tissue           | Absent                                      |
+| True roots, stems, leaves | Absent                                      |
+| Attachment                | Rhizoids                                    |
+| Main plant body           | Haploid gametophyte                         |
+| Sex organs                | Multicellular                               |
+| Male sex organ            | Antheridium                                 |
+| Female sex organ          | Archegonium                                 |
+| Male gametes              | Biflagellate antherozoids                   |
+| Water need                | Required for fertilisation                  |
+| Sporophyte                | Attached to gametophyte and dependent on it |
 
 ## 9.2 Body Organisation In Bryophytes
 
@@ -458,14 +458,14 @@ Some sporophyte cells undergo meiosis to produce haploid spores. Spores germinat
 
 ## 9.4 Economic And Ecological Importance Of Bryophytes
 
-| Importance | Explanation |
-|---|---|
-| Food | Some mosses provide food for herbaceous mammals, birds, and other animals |
-| Peat | Sphagnum forms peat used as fuel |
-| Packing material | Sphagnum can hold water and has been used for packing living material |
-| Plant succession | Mosses and lichens help colonise bare rocks |
-| Soil formation | They help break down rocks and prepare substratum for higher plants |
-| Soil protection | Dense moss mats reduce rain impact and help prevent soil erosion |
+| Importance       | Explanation                                                               |
+| ---------------- | ------------------------------------------------------------------------- |
+| Food             | Some mosses provide food for herbaceous mammals, birds, and other animals |
+| Peat             | Sphagnum forms peat used as fuel                                          |
+| Packing material | Sphagnum can hold water and has been used for packing living material     |
+| Plant succession | Mosses and lichens help colonise bare rocks                               |
+| Soil formation   | They help break down rocks and prepare substratum for higher plants       |
+| Soil protection  | Dense moss mats reduce rain impact and help prevent soil erosion          |
 
 ## 10. Liverworts
 
@@ -520,10 +520,10 @@ Mosses are bryophytes with a more distinct gametophyte structure than many liver
 
 ## 11.1 Two Stages Of The Moss Gametophyte
 
-| Stage | Description |
-|---|---|
-| Protonema stage | Creeping, green, branched, often filamentous stage that develops from a spore |
-| Leafy stage | Upright slender axes with spirally arranged leaves; develops from a bud on secondary protonema |
+| Stage           | Description                                                                                    |
+| --------------- | ---------------------------------------------------------------------------------------------- |
+| Protonema stage | Creeping, green, branched, often filamentous stage that develops from a spore                  |
+| Leafy stage     | Upright slender axes with spirally arranged leaves; develops from a bud on secondary protonema |
 
 ## 11.2 Leafy Stage Of Mosses
 
@@ -564,14 +564,14 @@ Examples include:
 
 ## 12. Liverworts Versus Mosses
 
-| Feature | Liverworts | Mosses |
-|---|---|---|
-| Common body form | Thalloid in forms like Marchantia | Leafy gametophyte common |
-| Body orientation | Often dorsiventral and attached to substratum | Upright leafy shoots common |
-| Asexual structures | Gemmae in gemma cups common in Marchantia | Fragmentation and budding in protonema |
-| Gametophyte stages | Thalloid or leafy | Protonema stage and leafy stage |
-| Sporophyte | Foot, seta, capsule | Foot, seta, capsule, more elaborate |
-| Examples | Marchantia | Funaria, Polytrichum, Sphagnum |
+| Feature            | Liverworts                                    | Mosses                                 |
+| ------------------ | --------------------------------------------- | -------------------------------------- |
+| Common body form   | Thalloid in forms like Marchantia             | Leafy gametophyte common               |
+| Body orientation   | Often dorsiventral and attached to substratum | Upright leafy shoots common            |
+| Asexual structures | Gemmae in gemma cups common in Marchantia     | Fragmentation and budding in protonema |
+| Gametophyte stages | Thalloid or leafy                             | Protonema stage and leafy stage        |
+| Sporophyte         | Foot, seta, capsule                           | Foot, seta, capsule, more elaborate    |
+| Examples           | Marchantia                                    | Funaria, Polytrichum, Sphagnum         |
 
 ## 13. Pteridophytes
 
@@ -581,16 +581,16 @@ They are evolutionarily important because they are the first terrestrial plants 
 
 ## 13.1 General Features Of Pteridophytes
 
-| Feature | Description |
-|---|---|
-| Habitat | Cool, damp, shady places; some in sandy soil |
-| Vascular tissue | Present |
-| Dominant phase | Sporophyte |
-| Main plant body | Differentiated into true root, stem, and leaves |
-| Leaves | Small microphylls or large macrophylls |
-| Reproduction | Spores formed in sporangia |
-| Gametophyte | Small, multicellular, free-living, often photosynthetic |
-| Water need | Needed for fertilisation |
+| Feature         | Description                                             |
+| --------------- | ------------------------------------------------------- |
+| Habitat         | Cool, damp, shady places; some in sandy soil            |
+| Vascular tissue | Present                                                 |
+| Dominant phase  | Sporophyte                                              |
+| Main plant body | Differentiated into true root, stem, and leaves         |
+| Leaves          | Small microphylls or large macrophylls                  |
+| Reproduction    | Spores formed in sporangia                              |
+| Gametophyte     | Small, multicellular, free-living, often photosynthetic |
+| Water need      | Needed for fertilisation                                |
 
 ## 13.2 Importance Of Pteridophytes
 
@@ -603,10 +603,10 @@ Pteridophytes are useful:
 
 ## 13.3 Leaves In Pteridophytes
 
-| Leaf Type | Description | Example |
-|---|---|---|
-| Microphyll | Small leaf | Selaginella |
-| Macrophyll | Large leaf | Ferns |
+| Leaf Type  | Description | Example     |
+| ---------- | ----------- | ----------- |
+| Microphyll | Small leaf  | Selaginella |
+| Macrophyll | Large leaf  | Ferns       |
 
 ## 13.4 Sporangia, Sporophylls, And Strobili
 
@@ -642,9 +642,9 @@ After fertilisation, the zygote develops into a young sporophyte. This sporophyt
 
 ## 13.7 Homospory And Heterospory
 
-| Type | Meaning | Example |
-|---|---|---|
-| Homospory | Production of one kind of spore | Many pteridophytes |
+| Type        | Meaning                                                       | Example               |
+| ----------- | ------------------------------------------------------------- | --------------------- |
+| Homospory   | Production of one kind of spore                               | Many pteridophytes    |
 | Heterospory | Production of two kinds of spores, microspores and megaspores | Selaginella, Salvinia |
 
 ## 13.8 Significance Of Heterospory
@@ -660,12 +660,12 @@ This condition is considered a precursor to the seed habit. It represents an imp
 
 ## 13.9 Classes Of Pteridophytes
 
-| Class | Example |
-|---|---|
-| Psilopsida | Psilotum |
-| Lycopsida | Selaginella, Lycopodium |
-| Sphenopsida | Equisetum |
-| Pteropsida | Dryopteris, Pteris, Adiantum |
+| Class       | Example                      |
+| ----------- | ---------------------------- |
+| Psilopsida  | Psilotum                     |
+| Lycopsida   | Selaginella, Lycopodium      |
+| Sphenopsida | Equisetum                    |
+| Pteropsida  | Dryopteris, Pteris, Adiantum |
 
 ## 14. Gymnosperms
 
@@ -675,17 +675,17 @@ The term gymnosperm means naked seed.
 
 ## 14.1 General Features Of Gymnosperms
 
-| Feature | Description |
-|---|---|
-| Ovules | Exposed, not enclosed in ovary |
-| Seeds | Naked, not covered by fruit |
-| Plant body | Root, stem, leaves |
-| Size | Medium-sized trees, tall trees, or shrubs |
-| Vascular tissue | Present |
-| Dominant phase | Sporophyte |
-| Spore type | Heterosporous |
-| Gametophytes | Highly reduced and dependent |
-| Reproductive structures | Cones or strobili |
+| Feature                 | Description                               |
+| ----------------------- | ----------------------------------------- |
+| Ovules                  | Exposed, not enclosed in ovary            |
+| Seeds                   | Naked, not covered by fruit               |
+| Plant body              | Root, stem, leaves                        |
+| Size                    | Medium-sized trees, tall trees, or shrubs |
+| Vascular tissue         | Present                                   |
+| Dominant phase          | Sporophyte                                |
+| Spore type              | Heterosporous                             |
+| Gametophytes            | Highly reduced and dependent              |
+| Reproductive structures | Cones or strobili                         |
 
 ## 14.2 Examples Of Gymnosperms
 
@@ -705,9 +705,9 @@ Gymnosperm roots are generally tap roots.
 
 Special root associations:
 
-| Plant | Association |
-|---|---|
-| Pinus | Mycorrhiza, a fungal association |
+| Plant | Association                                  |
+| ----- | -------------------------------------------- |
+| Pinus | Mycorrhiza, a fungal association             |
 | Cycas | Coralloid roots with N2-fixing cyanobacteria |
 
 ## 14.4 Stems And Leaves In Gymnosperms
@@ -750,9 +750,9 @@ The female gametophyte bears archegonia.
 
 ## 14.8 Same Tree Or Different Trees
 
-| Plant | Arrangement |
-|---|---|
-| Pinus | Male and female cones may occur on the same tree |
+| Plant | Arrangement                                             |
+| ----- | ------------------------------------------------------- |
+| Pinus | Male and female cones may occur on the same tree        |
 | Cycas | Male cones and megasporophylls occur on different trees |
 
 ## 14.9 Pollination And Fertilisation In Gymnosperms
@@ -771,13 +771,13 @@ After fertilisation:
 
 Gymnosperms are useful in many ways.
 
-| Use | Example Or Explanation |
-|---|---|
-| Timber | Conifers such as Pinus and Cedrus provide wood |
-| Paper industry | Softwood from conifers is useful for pulp |
-| Resins | Some gymnosperms yield resins |
-| Turpentine | Obtained from resinous gymnosperms such as Pinus |
-| Ornamentals | Cycas and conifers are grown for ornamental value |
+| Use              | Example Or Explanation                                   |
+| ---------------- | -------------------------------------------------------- |
+| Timber           | Conifers such as Pinus and Cedrus provide wood           |
+| Paper industry   | Softwood from conifers is useful for pulp                |
+| Resins           | Some gymnosperms yield resins                            |
+| Turpentine       | Obtained from resinous gymnosperms such as Pinus         |
+| Ornamentals      | Cycas and conifers are grown for ornamental value        |
 | Ecological value | Forest-forming trees support habitats and soil stability |
 
 ## 15. Angiosperms
@@ -788,16 +788,16 @@ Unlike gymnosperms, their ovules are enclosed. After fertilisation, seeds are en
 
 ## 15.1 General Features Of Angiosperms
 
-| Feature | Description |
-|---|---|
-| Reproductive structure | Flower |
-| Ovules | Enclosed in ovary |
-| Seeds | Enclosed in fruits |
-| Size range | From tiny Wolffia to tall Eucalyptus |
-| Habitat | Very wide range |
-| Vascular tissue | Present |
-| Dominant phase | Sporophyte |
-| Gametophytes | Highly reduced |
+| Feature                | Description                          |
+| ---------------------- | ------------------------------------ |
+| Reproductive structure | Flower                               |
+| Ovules                 | Enclosed in ovary                    |
+| Seeds                  | Enclosed in fruits                   |
+| Size range             | From tiny Wolffia to tall Eucalyptus |
+| Habitat                | Very wide range                      |
+| Vascular tissue        | Present                              |
+| Dominant phase         | Sporophyte                           |
+| Gametophytes           | Highly reduced                       |
 
 ## 15.2 Importance Of Angiosperms
 
@@ -822,14 +822,14 @@ Angiosperms are divided into two main classes:
 
 ## 15.4 Dicotyledons Versus Monocotyledons
 
-| Feature | Dicotyledons | Monocotyledons |
-|---|---|---|
-| Cotyledons | Two | One |
-| Leaf venation | Usually reticulate | Usually parallel |
-| Root system | Usually tap root | Usually fibrous root |
-| Floral parts | Often in fours or fives | Often in threes |
-| Vascular bundles in stem | Usually arranged in a ring | Usually scattered |
-| Examples | Pea, mustard, mango | Wheat, maize, rice |
+| Feature                  | Dicotyledons               | Monocotyledons       |
+| ------------------------ | -------------------------- | -------------------- |
+| Cotyledons               | Two                        | One                  |
+| Leaf venation            | Usually reticulate         | Usually parallel     |
+| Root system              | Usually tap root           | Usually fibrous root |
+| Floral parts             | Often in fours or fives    | Often in threes      |
+| Vascular bundles in stem | Usually arranged in a ring | Usually scattered    |
+| Examples                 | Pea, mustard, mango        | Wheat, maize, rice   |
 
 ## 15.5 Double Fertilisation In Angiosperms
 
@@ -839,9 +839,9 @@ In angiosperms, the pollen grain reaches the stigma and produces a pollen tube. 
 
 Two fusion events occur:
 
-| Fusion | Product |
-|---|---|
-| One male gamete plus egg | Zygote, which is diploid |
+| Fusion                                  | Product                                      |
+| --------------------------------------- | -------------------------------------------- |
+| One male gamete plus egg                | Zygote, which is diploid                     |
 | Other male gamete plus two polar nuclei | Primary endosperm nucleus, which is triploid |
 
 This is called double fertilisation.
@@ -861,10 +861,10 @@ After fertilisation:
 
 Plants show alternation between two phases:
 
-| Phase | Ploidy | Function |
-|---|---|---|
-| Gametophyte | Haploid, n | Produces gametes |
-| Sporophyte | Diploid, 2n | Produces spores by meiosis |
+| Phase       | Ploidy      | Function                   |
+| ----------- | ----------- | -------------------------- |
+| Gametophyte | Haploid, n  | Produces gametes           |
+| Sporophyte  | Diploid, 2n | Produces spores by meiosis |
 
 The relative dominance of these phases differs across plant groups.
 
@@ -903,10 +903,10 @@ In a haplo-diplontic life cycle, both gametophyte and sporophyte are multicellul
 
 Bryophytes and pteridophytes show this pattern, but dominance differs:
 
-| Group | Dominant Phase |
-|---|---|
-| Bryophytes | Gametophyte dominant |
-| Pteridophytes | Sporophyte dominant |
+| Group         | Dominant Phase       |
+| ------------- | -------------------- |
+| Bryophytes    | Gametophyte dominant |
+| Pteridophytes | Sporophyte dominant  |
 
 Some algae also show haplo-diplontic life cycles.
 
@@ -914,80 +914,80 @@ Some algae also show haplo-diplontic life cycles.
 
 The broad trend from algae to angiosperms is:
 
-| Trend | Direction |
-|---|---|
-| Body organisation | Thalloid to organ-level differentiation |
-| Vascular tissue | Absent in algae and bryophytes, present from pteridophytes onward |
-| Dominant phase | Gametophyte dominance in bryophytes to sporophyte dominance in vascular plants |
-| Water for fertilisation | Strong dependence in bryophytes and pteridophytes, reduced in seed plants |
-| Seed habit | Absent in algae, bryophytes, pteridophytes; present in gymnosperms and angiosperms |
-| Gametophyte | Free-living in lower groups, reduced and dependent in seed plants |
+| Trend                   | Direction                                                                          |
+| ----------------------- | ---------------------------------------------------------------------------------- |
+| Body organisation       | Thalloid to organ-level differentiation                                            |
+| Vascular tissue         | Absent in algae and bryophytes, present from pteridophytes onward                  |
+| Dominant phase          | Gametophyte dominance in bryophytes to sporophyte dominance in vascular plants     |
+| Water for fertilisation | Strong dependence in bryophytes and pteridophytes, reduced in seed plants          |
+| Seed habit              | Absent in algae, bryophytes, pteridophytes; present in gymnosperms and angiosperms |
+| Gametophyte             | Free-living in lower groups, reduced and dependent in seed plants                  |
 
 ## 18. High-Yield Comparison Tables
 
 ## 18.1 Bryophytes Versus Pteridophytes
 
-| Feature | Bryophytes | Pteridophytes |
-|---|---|---|
-| Vascular tissue | Absent | Present |
-| True roots, stems, leaves | Absent | Present |
-| Dominant phase | Gametophyte | Sporophyte |
-| Sporophyte | Dependent on gametophyte | Main independent plant |
-| Gametophyte | Main plant body | Small prothallus in many forms |
-| Water for fertilisation | Required | Required |
-| Seeds | Absent | Absent |
-| Examples | Marchantia, Funaria | Ferns, Selaginella |
+| Feature                   | Bryophytes               | Pteridophytes                  |
+| ------------------------- | ------------------------ | ------------------------------ |
+| Vascular tissue           | Absent                   | Present                        |
+| True roots, stems, leaves | Absent                   | Present                        |
+| Dominant phase            | Gametophyte              | Sporophyte                     |
+| Sporophyte                | Dependent on gametophyte | Main independent plant         |
+| Gametophyte               | Main plant body          | Small prothallus in many forms |
+| Water for fertilisation   | Required                 | Required                       |
+| Seeds                     | Absent                   | Absent                         |
+| Examples                  | Marchantia, Funaria      | Ferns, Selaginella             |
 
 ## 18.2 Pteridophytes Versus Gymnosperms
 
-| Feature | Pteridophytes | Gymnosperms |
-|---|---|---|
-| Vascular tissue | Present | Present |
-| Seeds | Absent | Present |
-| Ovules | Absent | Present |
-| Dominant phase | Sporophyte | Sporophyte |
-| Gametophyte | Usually free-living and small | Highly reduced and dependent |
-| Fertilisation | Requires water | Pollen tube carries male gametes |
-| Examples | Ferns, Equisetum | Pinus, Cycas |
+| Feature         | Pteridophytes                 | Gymnosperms                      |
+| --------------- | ----------------------------- | -------------------------------- |
+| Vascular tissue | Present                       | Present                          |
+| Seeds           | Absent                        | Present                          |
+| Ovules          | Absent                        | Present                          |
+| Dominant phase  | Sporophyte                    | Sporophyte                       |
+| Gametophyte     | Usually free-living and small | Highly reduced and dependent     |
+| Fertilisation   | Requires water                | Pollen tube carries male gametes |
+| Examples        | Ferns, Equisetum              | Pinus, Cycas                     |
 
 ## 18.3 Gymnosperms Versus Angiosperms
 
-| Feature | Gymnosperms | Angiosperms |
-|---|---|---|
-| Ovules | Naked | Enclosed in ovary |
-| Seeds | Naked | Enclosed in fruit |
-| Flowers | Absent | Present |
-| Fruits | Absent | Present |
-| Reproductive structures | Cones or strobili | Flowers |
-| Double fertilisation | Absent in the standard school-level comparison | Present |
-| Examples | Pinus, Cycas | Wheat, mango, rose |
+| Feature                 | Gymnosperms                                    | Angiosperms        |
+| ----------------------- | ---------------------------------------------- | ------------------ |
+| Ovules                  | Naked                                          | Enclosed in ovary  |
+| Seeds                   | Naked                                          | Enclosed in fruit  |
+| Flowers                 | Absent                                         | Present            |
+| Fruits                  | Absent                                         | Present            |
+| Reproductive structures | Cones or strobili                              | Flowers            |
+| Double fertilisation    | Absent in the standard school-level comparison | Present            |
+| Examples                | Pinus, Cycas                                   | Wheat, mango, rose |
 
 ## 18.4 Homosporous Versus Heterosporous Pteridophytes
 
-| Feature | Homosporous Pteridophytes | Heterosporous Pteridophytes |
-|---|---|---|
-| Spore type | One type of spore | Two types of spores |
-| Gametophyte | Usually bisexual or not strongly separated by spore type | Male and female gametophytes arise from different spores |
-| Microspores | Absent as separate category | Present |
-| Megaspores | Absent as separate category | Present |
-| Examples | Many ferns | Selaginella, Salvinia |
-| Evolutionary significance | Less close to seed habit | Important precursor to seed habit |
+| Feature                   | Homosporous Pteridophytes                                | Heterosporous Pteridophytes                              |
+| ------------------------- | -------------------------------------------------------- | -------------------------------------------------------- |
+| Spore type                | One type of spore                                        | Two types of spores                                      |
+| Gametophyte               | Usually bisexual or not strongly separated by spore type | Male and female gametophytes arise from different spores |
+| Microspores               | Absent as separate category                              | Present                                                  |
+| Megaspores                | Absent as separate category                              | Present                                                  |
+| Examples                  | Many ferns                                               | Selaginella, Salvinia                                    |
+| Evolutionary significance | Less close to seed habit                                 | Important precursor to seed habit                        |
 
 ## 19. Common Learner Mistakes
 
-| Mistake | Correction |
-|---|---|
-| Calling cyanobacteria algae in modern classification | Cyanobacteria are prokaryotic and belong to Monera |
-| Thinking all algae are microscopic | Some marine algae, such as kelps, are very large |
-| Confusing rhizoids with true roots | Rhizoids are root-like but not true roots |
-| Saying bryophytes are fully aquatic | They live on land but need water for fertilisation |
-| Thinking bryophyte sporophyte is independent | It remains attached to and dependent on the gametophyte |
-| Calling pteridophytes seed plants | Pteridophytes are vascular but seedless |
-| Forgetting that pteridophytes need water for fertilisation | Their motile male gametes still need water |
-| Calling gymnosperm seeds fruits | Gymnosperm seeds are naked and not enclosed in fruits |
-| Confusing pollen grain with spore | Pollen grain is the reduced male gametophyte |
-| Saying angiosperms have naked ovules | Angiosperm ovules are enclosed in ovary |
-| Forgetting endosperm ploidy | Primary endosperm nucleus in angiosperms is triploid |
+| Mistake                                                    | Correction                                              |
+| ---------------------------------------------------------- | ------------------------------------------------------- |
+| Calling cyanobacteria algae in modern classification       | Cyanobacteria are prokaryotic and belong to Monera      |
+| Thinking all algae are microscopic                         | Some marine algae, such as kelps, are very large        |
+| Confusing rhizoids with true roots                         | Rhizoids are root-like but not true roots               |
+| Saying bryophytes are fully aquatic                        | They live on land but need water for fertilisation      |
+| Thinking bryophyte sporophyte is independent               | It remains attached to and dependent on the gametophyte |
+| Calling pteridophytes seed plants                          | Pteridophytes are vascular but seedless                 |
+| Forgetting that pteridophytes need water for fertilisation | Their motile male gametes still need water              |
+| Calling gymnosperm seeds fruits                            | Gymnosperm seeds are naked and not enclosed in fruits   |
+| Confusing pollen grain with spore                          | Pollen grain is the reduced male gametophyte            |
+| Saying angiosperms have naked ovules                       | Angiosperm ovules are enclosed in ovary                 |
+| Forgetting endosperm ploidy                                | Primary endosperm nucleus in angiosperms is triploid    |
 
 ## 20. Exercise Answers
 
@@ -1004,23 +1004,23 @@ Algae are classified mainly on the basis of:
 
 The three main classes are Chlorophyceae, Phaeophyceae, and Rhodophyceae.
 
-| Class | Pigments | Stored Food | Main Habitat |
-|---|---|---|---|
-| Chlorophyceae | Chlorophyll a and b | Starch | Freshwater, brackish water, marine water |
-| Phaeophyceae | Chlorophyll a and c, fucoxanthin | Laminarin and mannitol | Mostly marine |
-| Rhodophyceae | Chlorophyll a and d, phycoerythrin | Floridean starch | Mostly marine |
+| Class         | Pigments                           | Stored Food            | Main Habitat                             |
+| ------------- | ---------------------------------- | ---------------------- | ---------------------------------------- |
+| Chlorophyceae | Chlorophyll a and b                | Starch                 | Freshwater, brackish water, marine water |
+| Phaeophyceae  | Chlorophyll a and c, fucoxanthin   | Laminarin and mannitol | Mostly marine                            |
+| Rhodophyceae  | Chlorophyll a and d, phycoerythrin | Floridean starch       | Mostly marine                            |
 
 ## 20.2 When And Where Does Reduction Division Take Place?
 
 Reduction division means meiosis. It reduces chromosome number from diploid to haploid.
 
-| Plant Group | Where Meiosis Occurs | When It Occurs |
-|---|---|---|
-| Liverwort | Capsule of sporophyte | During spore formation |
-| Moss | Capsule of sporophyte | During spore formation |
-| Fern | Sporangia of sporophyte | During spore formation |
-| Gymnosperm | Microsporangia and megasporangia | During microspore and megaspore formation |
-| Angiosperm | Anther and ovule | During microspore and megaspore formation |
+| Plant Group | Where Meiosis Occurs             | When It Occurs                            |
+| ----------- | -------------------------------- | ----------------------------------------- |
+| Liverwort   | Capsule of sporophyte            | During spore formation                    |
+| Moss        | Capsule of sporophyte            | During spore formation                    |
+| Fern        | Sporangia of sporophyte          | During spore formation                    |
+| Gymnosperm  | Microsporangia and megasporangia | During microspore and megaspore formation |
+| Angiosperm  | Anther and ovule                 | During microspore and megaspore formation |
 
 ## 20.3 Name Three Groups Of Plants That Bear Archegonia
 
@@ -1051,16 +1051,16 @@ Meiosis occurs in the capsule and produces haploid spores. Spores germinate to f
 
 ## 20.5 Mention The Ploidy Of The Given Structures
 
-| Structure | Ploidy | Reason |
-|---|---|---|
-| Protonemal cell of a moss | n | It is part of the moss gametophyte |
-| Primary endosperm nucleus in dicot | 3n | Formed by fusion of one male gamete with two polar nuclei |
-| Leaf cell of a moss | n | Moss leafy plant is gametophytic |
-| Prothallus cell of a fern | n | Prothallus is the fern gametophyte |
-| Gemma cell in Marchantia | n | Gemma belongs to gametophyte |
-| Meristem cell of monocot | 2n | It is part of sporophytic plant body |
-| Ovum of a liverwort | n | Gamete is haploid |
-| Zygote of a fern | 2n | Formed by fusion of male gamete and egg |
+| Structure                          | Ploidy | Reason                                                    |
+| ---------------------------------- | ------ | --------------------------------------------------------- |
+| Protonemal cell of a moss          | n      | It is part of the moss gametophyte                        |
+| Primary endosperm nucleus in dicot | 3n     | Formed by fusion of one male gamete with two polar nuclei |
+| Leaf cell of a moss                | n      | Moss leafy plant is gametophytic                          |
+| Prothallus cell of a fern          | n      | Prothallus is the fern gametophyte                        |
+| Gemma cell in Marchantia           | n      | Gemma belongs to gametophyte                              |
+| Meristem cell of monocot           | 2n     | It is part of sporophytic plant body                      |
+| Ovum of a liverwort                | n      | Gamete is haploid                                         |
+| Zygote of a fern                   | 2n     | Formed by fusion of male gamete and egg                   |
 
 ## 20.6 Write A Note On Economic Importance Of Algae And Gymnosperms
 
@@ -1093,14 +1093,14 @@ Gymnosperms are important because:
 
 Gymnosperms and angiosperms both produce seeds, but they differ in how ovules and seeds are protected.
 
-| Feature | Gymnosperms | Angiosperms |
-|---|---|---|
-| Ovules | Exposed | Enclosed in ovary |
-| Seeds | Naked | Enclosed in fruit |
-| Flowers | Absent | Present |
-| Fruits | Absent | Present |
-| Reproductive structures | Cones | Flowers |
-| Double fertilisation | Not a typical feature | Present |
+| Feature                 | Gymnosperms           | Angiosperms       |
+| ----------------------- | --------------------- | ----------------- |
+| Ovules                  | Exposed               | Enclosed in ovary |
+| Seeds                   | Naked                 | Enclosed in fruit |
+| Flowers                 | Absent                | Present           |
+| Fruits                  | Absent                | Present           |
+| Reproductive structures | Cones                 | Flowers           |
+| Double fertilisation    | Not a typical feature | Present           |
 
 Therefore, they are classified separately.
 
@@ -1169,45 +1169,45 @@ Examples include Ulothrix and Spirogyra.
 
 ## 20.15 Differentiate Between Red Algae And Brown Algae
 
-| Feature | Red Algae | Brown Algae |
-|---|---|---|
-| Class | Rhodophyceae | Phaeophyceae |
-| Main pigment | r-phycoerythrin | Fucoxanthin |
-| Colour | Red | Olive green to brown |
-| Stored food | Floridean starch | Laminarin and mannitol |
-| Flagella | Absent | Present in zoospores and gametes |
-| Habitat | Mostly marine, often warm seas | Mostly marine |
-| Examples | Porphyra, Polysiphonia, Gelidium | Laminaria, Sargassum, Fucus |
+| Feature      | Red Algae                        | Brown Algae                      |
+| ------------ | -------------------------------- | -------------------------------- |
+| Class        | Rhodophyceae                     | Phaeophyceae                     |
+| Main pigment | r-phycoerythrin                  | Fucoxanthin                      |
+| Colour       | Red                              | Olive green to brown             |
+| Stored food  | Floridean starch                 | Laminarin and mannitol           |
+| Flagella     | Absent                           | Present in zoospores and gametes |
+| Habitat      | Mostly marine, often warm seas   | Mostly marine                    |
+| Examples     | Porphyra, Polysiphonia, Gelidium | Laminaria, Sargassum, Fucus      |
 
 ## 20.16 Differentiate Between Liverworts And Mosses
 
-| Feature | Liverworts | Mosses |
-|---|---|---|
-| Body | Usually thalloid in Marchantia | Protonema and leafy stages |
-| Thallus | Dorsiventral and appressed to substratum | Leafy shoots usually upright |
-| Asexual reproduction | Fragmentation and gemmae | Fragmentation and budding in protonema |
-| Sporophyte | Foot, seta, capsule | Foot, seta, capsule, more elaborate |
-| Examples | Marchantia | Funaria, Polytrichum, Sphagnum |
+| Feature              | Liverworts                               | Mosses                                 |
+| -------------------- | ---------------------------------------- | -------------------------------------- |
+| Body                 | Usually thalloid in Marchantia           | Protonema and leafy stages             |
+| Thallus              | Dorsiventral and appressed to substratum | Leafy shoots usually upright           |
+| Asexual reproduction | Fragmentation and gemmae                 | Fragmentation and budding in protonema |
+| Sporophyte           | Foot, seta, capsule                      | Foot, seta, capsule, more elaborate    |
+| Examples             | Marchantia                               | Funaria, Polytrichum, Sphagnum         |
 
 ## 20.17 Differentiate Between Homosporous And Heterosporous Pteridophytes
 
-| Feature | Homosporous Pteridophytes | Heterosporous Pteridophytes |
-|---|---|---|
-| Spores | One kind | Two kinds |
-| Microspores | Absent as separate type | Present |
-| Megaspores | Absent as separate type | Present |
-| Gametophyte | Usually not separated into male and female by spore type | Microspores form male gametophytes; megaspores form female gametophytes |
-| Examples | Many ferns | Selaginella, Salvinia |
-| Significance | Less directly linked with seed habit | Precursor to seed habit |
+| Feature      | Homosporous Pteridophytes                                | Heterosporous Pteridophytes                                             |
+| ------------ | -------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Spores       | One kind                                                 | Two kinds                                                               |
+| Microspores  | Absent as separate type                                  | Present                                                                 |
+| Megaspores   | Absent as separate type                                  | Present                                                                 |
+| Gametophyte  | Usually not separated into male and female by spore type | Microspores form male gametophytes; megaspores form female gametophytes |
+| Examples     | Many ferns                                               | Selaginella, Salvinia                                                   |
+| Significance | Less directly linked with seed habit                     | Precursor to seed habit                                                 |
 
 ## 20.18 Match The Following
 
-| Column I | Correct Match | Group |
-|---|---|---|
-| Chlamydomonas | iii | Algae |
-| Cycas | iv | Gymnosperm |
-| Selaginella | ii | Pteridophyte |
-| Sphagnum | i | Moss |
+| Column I      | Correct Match | Group        |
+| ------------- | ------------- | ------------ |
+| Chlamydomonas | iii           | Algae        |
+| Cycas         | iv            | Gymnosperm   |
+| Selaginella   | ii            | Pteridophyte |
+| Sphagnum      | i             | Moss         |
 
 ## 20.19 Describe Important Characteristics Of Gymnosperms
 
@@ -1260,21 +1260,21 @@ Angiosperms have flowers for reproduction and fruits for seed protection and dis
 
 ## 21.7 What Is The Difference Between A Spore And A Gamete?
 
-| Feature | Spore | Gamete |
-|---|---|---|
-| Function | Germinates to form gametophyte or new individual | Fuses with another gamete |
-| Fusion needed | No fusion needed for germination | Fusion required for zygote formation |
-| Ploidy | Usually haploid in plant life cycles | Haploid |
-| Formed by | Often meiosis in sporophyte | Gametophyte |
+| Feature       | Spore                                            | Gamete                               |
+| ------------- | ------------------------------------------------ | ------------------------------------ |
+| Function      | Germinates to form gametophyte or new individual | Fuses with another gamete            |
+| Fusion needed | No fusion needed for germination                 | Fusion required for zygote formation |
+| Ploidy        | Usually haploid in plant life cycles             | Haploid                              |
+| Formed by     | Often meiosis in sporophyte                      | Gametophyte                          |
 
 ## 21.8 What Is The Difference Between Gametophyte And Sporophyte?
 
-| Feature | Gametophyte | Sporophyte |
-|---|---|---|
-| Ploidy | Haploid | Diploid |
-| Produces | Gametes | Spores |
-| Production process | Gametes by mitosis | Spores by meiosis |
-| Dominant in | Bryophytes | Pteridophytes, gymnosperms, angiosperms |
+| Feature            | Gametophyte        | Sporophyte                              |
+| ------------------ | ------------------ | --------------------------------------- |
+| Ploidy             | Haploid            | Diploid                                 |
+| Produces           | Gametes            | Spores                                  |
+| Production process | Gametes by mitosis | Spores by meiosis                       |
+| Dominant in        | Bryophytes         | Pteridophytes, gymnosperms, angiosperms |
 
 ## 22. Practice Questions
 
@@ -1328,38 +1328,37 @@ Angiosperms have flowers for reproduction and fruits for seed protection and dis
 
 ## 23. Rapid Revision Sheet
 
-| Topic | One-Line Revision |
-|---|---|
-| Artificial system | Based on few superficial characters |
-| Natural system | Uses natural affinities and many features |
-| Phylogenetic system | Based on evolutionary relationships |
-| Numerical taxonomy | Uses coded characters and computer analysis |
-| Cytotaxonomy | Uses chromosome information |
-| Chemotaxonomy | Uses chemical constituents |
-| Algae | Simple thalloid autotrophs, mostly aquatic |
-| Chlorophyceae | Green algae with chlorophyll a and b |
-| Phaeophyceae | Brown algae with fucoxanthin |
-| Rhodophyceae | Red algae with phycoerythrin |
-| Isogamy | Fusion of similar gametes |
-| Oogamy | Fusion of large egg and small male gamete |
-| Bryophytes | Amphibians of plant kingdom |
-| Liverwort | Marchantia is a key example |
-| Gemmae | Asexual buds in liverworts |
-| Moss protonema | First stage of moss gametophyte |
-| Pteridophytes | First terrestrial vascular plants |
-| Prothallus | Fern gametophyte |
-| Heterospory | Microspores plus megaspores |
-| Gymnosperms | Naked seed plants |
-| Angiosperms | Flowering plants with enclosed seeds |
+| Topic                | One-Line Revision                               |
+| -------------------- | ----------------------------------------------- |
+| Artificial system    | Based on few superficial characters             |
+| Natural system       | Uses natural affinities and many features       |
+| Phylogenetic system  | Based on evolutionary relationships             |
+| Numerical taxonomy   | Uses coded characters and computer analysis     |
+| Cytotaxonomy         | Uses chromosome information                     |
+| Chemotaxonomy        | Uses chemical constituents                      |
+| Algae                | Simple thalloid autotrophs, mostly aquatic      |
+| Chlorophyceae        | Green algae with chlorophyll a and b            |
+| Phaeophyceae         | Brown algae with fucoxanthin                    |
+| Rhodophyceae         | Red algae with phycoerythrin                    |
+| Isogamy              | Fusion of similar gametes                       |
+| Oogamy               | Fusion of large egg and small male gamete       |
+| Bryophytes           | Amphibians of plant kingdom                     |
+| Liverwort            | Marchantia is a key example                     |
+| Gemmae               | Asexual buds in liverworts                      |
+| Moss protonema       | First stage of moss gametophyte                 |
+| Pteridophytes        | First terrestrial vascular plants               |
+| Prothallus           | Fern gametophyte                                |
+| Heterospory          | Microspores plus megaspores                     |
+| Gymnosperms          | Naked seed plants                               |
+| Angiosperms          | Flowering plants with enclosed seeds            |
 | Double fertilisation | Zygote plus primary endosperm nucleus formation |
-| Haplontic | Haploid plant dominant |
-| Diplontic | Diploid plant dominant |
-| Haplo-diplontic | Both phases multicellular |
+| Haplontic            | Haploid plant dominant                          |
+| Diplontic            | Diploid plant dominant                          |
+| Haplo-diplontic      | Both phases multicellular                       |
 
 ## 24. Raw File Reference
 
-| Item | Path |
-|---|---|
-| Raw input | `data/class_11/biology/chapter_03.md` |
+| Item             | Path                                             |
+| ---------------- | ------------------------------------------------ |
+| Raw input        | `data/class_11/biology/chapter_03.md`            |
 | Formatted output | `data_learner_md/class_11/biology/chapter_03.md` |
-

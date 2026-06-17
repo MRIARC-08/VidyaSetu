@@ -1,20 +1,21 @@
 # Chapter 4: Climate
+
 ### NCERT Class 9 — Social Geography
 
 ---
 
 ## 📌 Chapter at a Glance
 
-| Detail | Info |
-|---|---|
-| Chapter | 4 — Climate |
-| Class | Class 9 |
-| Subject | Social Geography |
-| Pilot Subject Family | Geography |
-| Source File | `data/class_9/social_geography/chapter_04.md` |
-| Textbook Pages | 1 – 13 |
-| Raw Exercise Count | 22 |
-| Formatting Mode | Human-guided pilot for subject-specific automation |
+| Detail               | Info                                               |
+| -------------------- | -------------------------------------------------- |
+| Chapter              | 4 — Climate                                        |
+| Class                | Class 9                                            |
+| Subject              | Social Geography                                   |
+| Pilot Subject Family | Geography                                          |
+| Source File          | `data/class_9/social_geography/chapter_04.md`      |
+| Textbook Pages       | 1 – 13                                             |
+| Raw Exercise Count   | 22                                                 |
+| Formatting Mode      | Human-guided pilot for subject-specific automation |
 
 ---
 
@@ -23,52 +24,52 @@
 > [!NOTE]
 > Study this chapter through this route: **place -> distribution -> process -> human-environment relation -> map/data interpretation**.
 
-| Step | Learner Action | Why It Matters |
-|---|---|---|
-| 1 | Mark every place, region, river, resource, or climatic zone on a map where possible. | Builds reliable recall and answer quality. |
-| 2 | Convert classifications into tables. | Builds reliable recall and answer quality. |
-| 3 | Distinguish natural processes from human causes and impacts. | Builds reliable recall and answer quality. |
-| 4 | Use data tables to compare regions rather than memorising isolated values. | Builds reliable recall and answer quality. |
+| Step | Learner Action                                                                       | Why It Matters                             |
+| ---- | ------------------------------------------------------------------------------------ | ------------------------------------------ |
+| 1    | Mark every place, region, river, resource, or climatic zone on a map where possible. | Builds reliable recall and answer quality. |
+| 2    | Convert classifications into tables.                                                 | Builds reliable recall and answer quality. |
+| 3    | Distinguish natural processes from human causes and impacts.                         | Builds reliable recall and answer quality. |
+| 4    | Use data tables to compare regions rather than memorising isolated values.           | Builds reliable recall and answer quality. |
 
 ---
 
 ## 🎯 Learning Outcomes
 
-| # | After studying this chapter, you should be able to... |
-|---|---|
-| 1 | describe places, distributions, resources, and human-environment relationships |
-| 2 | read maps, tables, and regional comparisons with purpose |
-| 3 | explain causes, processes, impacts, and planning responses |
+| #   | After studying this chapter, you should be able to...                          |
+| --- | ------------------------------------------------------------------------------ |
+| 1   | describe places, distributions, resources, and human-environment relationships |
+| 2   | read maps, tables, and regional comparisons with purpose                       |
+| 3   | explain causes, processes, impacts, and planning responses                     |
 
 ---
 
 ## 🗂️ Section Structure
 
-| Section | Title | Revision Focus |
-|---|---|---|
-| Intro | Core chapter narrative | Definition, explanation, examples, and likely questions |
+| Section | Title                  | Revision Focus                                          |
+| ------- | ---------------------- | ------------------------------------------------------- |
+| Intro   | Core chapter narrative | Definition, explanation, examples, and likely questions |
 
 ---
 
 ## 🧠 Subject-Specific Study Method
 
-| Part | How to Use It |
-|---|---|
-| Core lens | place -> distribution -> process -> human-environment relation -> map/data interpretation |
-| First pass | Read for meaning and mark unfamiliar terms. |
-| Second pass | Convert definitions, examples, data, and activities into tables. |
-| Revision pass | Use the quick reference and practice tracker at the end. |
+| Part          | How to Use It                                                                             |
+| ------------- | ----------------------------------------------------------------------------------------- |
+| Core lens     | place -> distribution -> process -> human-environment relation -> map/data interpretation |
+| First pass    | Read for meaning and mark unfamiliar terms.                                               |
+| Second pass   | Convert definitions, examples, data, and activities into tables.                          |
+| Revision pass | Use the quick reference and practice tracker at the end.                                  |
 
 ---
 
 ## 🧭 Concept, Evidence, and Example Board
 
-| Learning Need | How To Build It |
-|---|---|
-| Core concepts | Turn each definition into a one-line meaning and one example. |
-| Evidence | Use dates, places, maps, data, thinkers, laws, institutions, or case studies from the chapter. |
-| Comparison | Prepare tables for contrasts, causes, consequences, and viewpoints. |
-| Answer quality | Move from description to explanation to significance. |
+| Learning Need  | How To Build It                                                                                |
+| -------------- | ---------------------------------------------------------------------------------------------- |
+| Core concepts  | Turn each definition into a one-line meaning and one example.                                  |
+| Evidence       | Use dates, places, maps, data, thinkers, laws, institutions, or case studies from the chapter. |
+| Comparison     | Prepare tables for contrasts, causes, consequences, and viewpoints.                            |
+| Answer quality | Move from description to explanation to significance.                                          |
 
 ---
 
@@ -86,6 +87,7 @@ answers to all these questions can be found out
 by studying about the climate of India. Climate refers to the sum total of weather conditions and variations over a large area for a long period of time (more than thirty years). Weather refers to the state of the atmosphere over an area at any point of time. The elements of weather and climate are the same, i.e. temperature, atmospheric pressure, wind, humidity and pr ecipitation. You may have observed that the weather conditions fluctuate very often even within a day. But there is some common pattern over a few weeks or months, i.e. days are cool or hot, windy or calm, cloudy or bright, and wet or dry. On the basis of the generalised monthly atmospheric conditions, the year is divided into seasons such as winter, summer or rainy seasons.
 
 The world is divided into a number of climatic regions. Do you know what type of climate India has and why it is so? We will learn about it in this chapter.
+
 - The word monsoon is derived from the Arabic word ‘mausim’ which literally means season.
 - ‘Monsoon’ refers to the seasonal reversal in the wind direction during a year. CLIMATE The climate of India is described as the ‘monsoon’ type. In Asia, this type of climate is found mainly in the south and the southeast. Despite an overall unity in the general pattern, there are perceptible regional variations in climatic conditions within the country. Let us take two important elements – temperature and precipitation, and examine how they vary from place to place and season to season. In summer, the mer cury occasionally touches 50°C in some parts of the Rajasthan desert, whereas it may be around 20°C in Pahalgam in Jammu and Kashmir. On a winter night, temperature at Drass in Jammu and Kashmir may be as low as minus 45 °C.
 
@@ -94,11 +96,13 @@ Thiruvananthapuram, on the other hand, may have a temperature of 22°C. In certa
 Most parts of the country receive rainfall from June to September. But some parts like the T amil Nadu Reprint 2025-26 CLIMATE 27 •Why most of the world’s deserts are located in the western margins of continents in the subtropics? Finally, relief too plays a major role in determining the climate of a place. High mountains act as barriers for cold or hot winds; they may also cause precipitation if they are high enough and lie in the path of rain-bearing winds. The leeward side of mountains remains relatively dry. FACTORS AFFECTING INDIA’S CLIMATE Latitude The Tropic of Cancer passes through the middle of the country from the Rann of Kuchchh in the west to Mizoram in the east. Almost half of the country, lying south of the Tropic of Cancer, belongs to the tropical area.
 
 All the remaining area, north of the Tropic, lies in the sub-tropics. Therefore, India’s climate has characteristics of tropical as well as subtropical climates. Altitude India has mountains to the north, which have an average height of about 6,000 metres. India also has a vast coastal area where the maximum elevation is about 30 metres. The Himalayas prevent the cold winds from Central Asia from entering the subcontinent. It is because of these mountains that this subcontinent experiences comparatively milder winters as compared to central Asia. Pressure and Winds The climate and associated weather conditions in India are governed by the following atmospheric conditions:
+
 - Pr PrPr PrPr essur essuressur essuressur e and sure and sure and sure and sure and sur face winds;face winds;face winds;face winds;face winds;
 - Upper air circulation; andUpper air circulation; andUpper air circulation; andUpper air circulation; andUpper air circulation; and
 - W WW WWester esterester esterester n cyclonic disturbances andn cyclonic disturbances andn cyclonic disturbances andn cyclonic disturbances andn cyclonic disturbances and tropical cyclonestropical cyclonestropical cyclonestropical cyclonestropical cyclones. India lies in the region of north easterly winds. These winds originate from the subtropical high-pressure belt of the northern coast gets a large portion of its rain during October and November. In general, coastal areas experience less contrasts in temperature conditions. Seasonal contrasts are more in the interior of the country. There is decrease in rainfall generally from east to west in the Northern Plains.
 
 These variations have given rise to variety in lives of people – in terms of the food they eat, the clothes they wear and also the kind of houses they live in.
+
 - Why the houses in Rajasthan have thick walls and flat roofs?
 - Why is it that the houses in the Tarai region and in Goa and Mangalore have sloping roofs?
 - Why houses in Assam are built on stilts? CLIMATIC C ONTROLS There are six major controls of the climate of any place. They are: latitude, altitude, pressure and wind system, distance from the sea (continentality), ocean currents and relief features. Due to the curvature of the earth, the amount of solarenergy received varies according to latitude. As a result, air temperature generally decreases from the equator towards the poles. As one goes from the surface of the earth to higher altitudes, the atmosphere becomes less dense and temperature decreases. The hills are therefore cooler during summers. The pressure and wind system of any area depend on the latitude and altitude of the place. Thus it influences the temperature and rainfall pattern.
@@ -139,39 +143,39 @@ Similarly, the Peninsular plateau, under the influence of the sea from three sid
 
 Activity
 
- - (i) On the basis of the news items above, find out the names of places and the seasons described.
-(ii) Compare the rainfall description of Chennai and Mumbai and explain the reasons for the difference. (iii) Evaluate flood as a disaster with the help of a case study. Reprint 2025-26 CLIMATE 35
+- (i) On the basis of the news items above, find out the names of places and the seasons described.
+  (ii) Compare the rainfall description of Chennai and Mumbai and explain the reasons for the difference. (iii) Evaluate flood as a disaster with the help of a case study. Reprint 2025-26 CLIMATE 35
 
 1. Choose the correct answer from the four alternatives given below.
 
- - (i) Which one of the following places receives the highest rainfall in the world?
- - (a) Silchar
- - (c) Cherrapunji
- - (b) Mawsynram
-(d) Guwahati (ii) The wind blowing in the northern plains in summers is known as:
+- (i) Which one of the following places receives the highest rainfall in the world?
+- (a) Silchar
+- (c) Cherrapunji
+- (b) Mawsynram
+  (d) Guwahati (ii) The wind blowing in the northern plains in summers is known as:
 
- - (a) Kaal Baisakhi
- - (c) Trade Winds
- - (b) Loo
-(d) None of the above (iii) Monsoon arrives in India approximately in:
+- (a) Kaal Baisakhi
+- (c) Trade Winds
+- (b) Loo
+  (d) None of the above (iii) Monsoon arrives in India approximately in:
 
- - (a) Early May
- - (c) Early June
- - (b) Early July
-(d) Early August (iv) Which one of the following characterises the cold weather season in India?
+- (a) Early May
+- (c) Early June
+- (b) Early July
+  (d) Early August (iv) Which one of the following characterises the cold weather season in India?
 
- - (a) Warm days and war m nights
- - (b) Warm days and cold nights
- - (c) Cool days and cold nights
-(d) Cold days and warm nights
+- (a) Warm days and war m nights
+- (b) Warm days and cold nights
+- (c) Cool days and cold nights
+  (d) Cold days and warm nights
 
 2. Answer the following questions briefly.
 
- - (i) What are the controls affecting the climate of India?
-(ii) Why does India have a monsoon type of climate? (iii) Which part of India does experience the highest diurnal range of temperature and why? (iv) Which winds account for rainfall along the Malabar coast?
+- (i) What are the controls affecting the climate of India?
+  (ii) Why does India have a monsoon type of climate? (iii) Which part of India does experience the highest diurnal range of temperature and why? (iv) Which winds account for rainfall along the Malabar coast?
 
- - (v) Define monsoons. What do you understand by “break” in monsoon?
-(vi) Why is the monsoon considered a unifying bond?
+- (v) Define monsoons. What do you understand by “break” in monsoon?
+  (vi) Why is the monsoon considered a unifying bond?
 
 3. Why does the rainfall decrease from the east to the west in Northern India.
 
@@ -179,11 +183,11 @@ Activity
 
 ## 🔑 Key Concepts & Definitions
 
-| Term | Learner-Friendly Meaning |
-|---|---|
-| **Climate** | the sum total of weather conditions and variations over a large area for a long period of time (more than thirty years) |
-| **Weather** | the state of the atmosphere over an area at any point of time |
-| **This condition** | continentality (i |
+| Term               | Learner-Friendly Meaning                                                                                                |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------- |
+| **Climate**        | the sum total of weather conditions and variations over a large area for a long period of time (more than thirty years) |
+| **Weather**        | the state of the atmosphere over an area at any point of time                                                           |
+| **This condition** | continentality (i                                                                                                       |
 
 ---
 
@@ -196,77 +200,77 @@ Activity
 
 ## 🔬 Activities, Projects, and Inquiry Prompts
 
-| # | Prompt | Learner Task |
-|---|---|---|
-| 1 | Activity | Observe, discuss, collect evidence, or write a short response. |
-| 2 | (i) On the basis of the news items above, find out the names of places and the seasons described. | Observe, discuss, collect evidence, or write a short response. |
-| 3 | (ii) Areas receiving less than 20 cm of rainfall. (iii) The direction of the south-west monsoon over India. PROJECT /A CTIVITY | Observe, discuss, collect evidence, or write a short response. |
-| 4 | (i) Find out which songs, dances, festivals and special food preparations are | Observe, discuss, collect evidence, or write a short response. |
-| 5 | 4. Now find out | Observe, discuss, collect evidence, or write a short response. |
+| #   | Prompt                                                                                                                         | Learner Task                                                   |
+| --- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------- |
+| 1   | Activity                                                                                                                       | Observe, discuss, collect evidence, or write a short response. |
+| 2   | (i) On the basis of the news items above, find out the names of places and the seasons described.                              | Observe, discuss, collect evidence, or write a short response. |
+| 3   | (ii) Areas receiving less than 20 cm of rainfall. (iii) The direction of the south-west monsoon over India. PROJECT /A CTIVITY | Observe, discuss, collect evidence, or write a short response. |
+| 4   | (i) Find out which songs, dances, festivals and special food preparations are                                                  | Observe, discuss, collect evidence, or write a short response. |
+| 5   | 4. Now find out                                                                                                                | Observe, discuss, collect evidence, or write a short response. |
 
 ---
 
 ## ✏️ Practice & Exercise Tracker
 
-| Q | Question / Task | Answer Strategy |
-|---|---|---|
-| 1 | 1. Choose the correct answer from the four alternatives given below. (i) Which one of the following places receives the highest rainfall in the world? (a) Silchar (c) Cherrapunji (b) Mawsynram (d) Guwahati (ii) The wind blowing in the northern plains in summers is known as: (a) Kaal Baisakhi (c) Trade Winds (b) Loo (d) None of the above (iii) Monsoon arrives in India approximately in: | Identify command word, recall concept, structure answer, then review. |
-| 2 | 3. Why does the rainfall decrease from the east to the west in Northern India. moderating influences, there are great variations in the temperature conditions. Nevertheless, the unifying influence of the monsoon on the Indian subcontinent is quite perceptible. The seasonal alteration of the wind systems and the associated weather conditions provide a rhythmic cycle of seasons. Even the uncertainties of rain and uneven distribution are very much typical of the monsoons. The Indian landscape, its animal and plant life, its entire agricultural calendar and the life of the people, including their festivities, revolve around this phenomenon. Y ear after year, people of India from north to south and from east to west, eagerly await the arrival of the monsoon. These monsoon winds bind the whole country by providing water to set the agricultural activities in motion. The river valleys which carry this water also unite as a single river valley unit. Reprint 2025-26 36 CONTEMPORARY INDIA-I | Identify command word, recall concept, structure answer, then review. |
-| 3 | 4. Give reasons as to why. (i) Seasonal reversal of wind direction takes place over the Indian subcontinent? (ii) The bulk of rainfall in India is concentrated over a few months. (iii) The Tamil Nadu coast receives winter rainfall. (iv) The delta region of the eastern coast is frequently struck by cyclones. (v) Parts of Rajasthan, Gujarat and the leewar d side of the W estern Ghats are | Identify command word, recall concept, structure answer, then review. |
-| 4 | 5. Describe the regional variations in the climatic conditions of India with the help of suitable examples. | Identify command word, recall concept, structure answer, then review. |
-| 5 | 6. Give an account of weather conditions and characteristics of the cold season. | Identify command word, recall concept, structure answer, then review. |
-| 6 | 7. Give the characteristics and effects of the monsoon rainfall in India. MAP S KILLS On an outline map of India, show the following. (i) Areas receiving rainfall over 400 cm. (ii) Areas receiving less than 20 cm of rainfall. (iii) The direction of the south-west monsoon over India. PROJECT /A CTIVITY (i) Find out which songs, dances, festivals and special food preparations are | Identify command word, recall concept, structure answer, then review. |
-| 7 | 1. In Table-I, the average mean monthly temperatures and amounts of rainfall of 10 representative stations have been given. It is for you to study on your own and convert them into ‘temperature and rainfall’ graphs. A glance at these visual representations will help you to grasp instantly the smilarities and differences between them. One such graph (Figure 1) is already prepared for you. See if you can arrive at some broad generalisations about our diverse climatic conditions. We hope you are in for a great joy of learning. Do the following activities. | Identify command word, recall concept, structure answer, then review. |
-| 8 | 2. Re-arrange the 10 stations in two different sequences: Figure 1 : Temperature and Rainfall of Delhi Reprint 2025-26 CLIMATE 37 (i) According to their distance from the equator. (ii) According to their altitude above mean sealevel. | Identify command word, recall concept, structure answer, then review. |
-| 9 | 3. (i) Name two rainiest stations. (ii) Name two driest stations. (iii) Two stations with most equable climate. (iv) Two stations with most extreme climate. (v) Two stations influenced by retreating monsoons. (vi) The two hottest stations in the months of (a) February (b) April (c) May (d) June Stations Latitude Altitude Jan. Feb. Mar. Apr. May. Jun. Jul. Aug. Sep. Oct. Nov. Dec. Annual (Metres) Rainfall Temperature (°C) 20.5 22.7 25.2 27.1 26.7 24.2 23.0 23.0 23.1 22.9 18.9 20.2 Bengaluru 12°58'N 909 Rainfall (cm) 0.7 0.9 1.1 4.5 10.7 7.1 11.1 13.7 16.4 15.3 6.1 1.3 88.9 Temperature (°C) 24.4 24.4 26.7 28.3 30.0 28.9 27.2 27.2 27.2 27.8 27.2 25.0 Mumbai 19° N 11 Rainfall (cm) 0.2 0.2 – – 1.8 50.6 61.0 36.9 26.9 4.8 1.0 – 183.4 Temperature (°C) 19.6 22.0 27.1 30.1 30.4 29.9 28.9 28.7 28.9 27.6 23.4 19.7 Kolkata 22°34' N 6 Rainfall (cm) 1.2 2.8 3.4 5.1 13.4 29.0 33.1 33.4 25.3 12.7 2.7 0.4 162.5 Temperature (°C) 14.4 16.7 23.3 30.0 33.3 33.3 30.0 29.4 28.9 25.6 19.4 15.6 Delhi 29° N 219 Rainfall (cm) 2.5 1.5 1.3 1.0 1.8 7.4 19.3 17.8 11.9 1.3 0.2 1.0 67.0 Temperature (°C) 16.8 19.2 26.6 29.8 33.3 33.9 31.3 29.0 20.1 27.0 20.1 14.9 Jodhpur 26°18' N 224 Rainfall (cm) 0.5 0.6 0.3 0.3 1.0 3.1 10.8 13.1 5.7 0.8 0.2 0.2 36.6 Temperature (°C) 24.5 25.7 27.7 30.4 33.0 32.5 31.0 30.2 29.8 28.0 25.9 24.7 Chennai 13°4' N 7 Rainfall (cm) 4.6 1.3 1.3 1.8 3.8 4.5 8.7 11.3 11.9 30.6 35.0 13.9 128.6 Temperature (°C) 21.5 23.9 28.3 32.7 35.5 32.0 27.7 27.3 27.9 26.7 23.1 20.7 Nagpur 21°9' N 312 Rainfall (cm) 1.1 2.3 1.7 1.6 2.1 22.2 37.6 28.6 18.5 5.5 2.0 1.0 124.2 Temperature (°C) 9.8 11.3 15.9 18.5 19.2 20.5 21.1 20.9 20.0 17.2 13.3 10.4 Shillong 24°34' N 1461 Rainfall (cm) 1.4 2.9 5.6 14.6 29.5 47.6 35.9 34.3 30.2 18.8 3.8 0.6 225.3 Temperature (°C) 26.7 27.3 28.3 28.7 28.6 26.6 26.2 2.6.2 26.5 26.7 26.6 26.5 Thiruvananthapuram 8°29' N 61 Rainfall (cm) 2.3 2.1 3.7 10.6 20.8 35.6 22.3 14.6 13.8 27.3 20.6 7.5 181.2 Temperature (°C) – 8.5 – 7.2 – 0.6 6.1 10.0 14.4 17.2 16.1 12.2 6.1 0.0 – 5.6 Leh 34° N 34°N 3506 Rainfall (cm) 1.0 0.8 0.8 0.5 0.5 0.5 1.3 1.3 0.8 0.5 – 0.5 8.5 Table I Reprint 2025-26 38 CONTEMPORARY INDIA-I | Identify command word, recall concept, structure answer, then review. |
-| 10 | 4. Now find out (i) Why are Thiruvananthapuram and Shillong rainier in June than in July? (ii) Why is July rainier in Mumbai than in Thiruvananthapuram? (iii) Why are southwest monsoons less rainy in Chennai? (iv) Why is Shillong rainier than Kolkata? (v) Why is Kolkata rainier in July than in June unlike Shillong which is rainier in June than in July? (vi) Why does Delhi receive more rain than Jodhpur? | Identify command word, recall concept, structure answer, then review. |
-| 11 | 5. Now think why Thiruvananthapuram has equable climate? — Chennai has more rains only after the fury of monsoon is over in most parts of the country? — Jodhpur has a hot desert type of climate? — Leh has moderate precipitation almost throughut the year? — while in Delhi and Jodhpur most of the rain is confined to nearly three months, in Thiruvananthapuram and Shillong it is almost nine months of the year? In spite of these facts see carefully if there are strong evidences to conclude that the monsoons still provide a very strong framework lending overall climatic unity to the whole country. Reprint 2025-26 | Identify command word, recall concept, structure answer, then review. |
+| Q   | Question / Task                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Answer Strategy                                                       |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| 1   | 1. Choose the correct answer from the four alternatives given below. (i) Which one of the following places receives the highest rainfall in the world? (a) Silchar (c) Cherrapunji (b) Mawsynram (d) Guwahati (ii) The wind blowing in the northern plains in summers is known as: (a) Kaal Baisakhi (c) Trade Winds (b) Loo (d) None of the above (iii) Monsoon arrives in India approximately in:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Identify command word, recall concept, structure answer, then review. |
+| 2   | 3. Why does the rainfall decrease from the east to the west in Northern India. moderating influences, there are great variations in the temperature conditions. Nevertheless, the unifying influence of the monsoon on the Indian subcontinent is quite perceptible. The seasonal alteration of the wind systems and the associated weather conditions provide a rhythmic cycle of seasons. Even the uncertainties of rain and uneven distribution are very much typical of the monsoons. The Indian landscape, its animal and plant life, its entire agricultural calendar and the life of the people, including their festivities, revolve around this phenomenon. Y ear after year, people of India from north to south and from east to west, eagerly await the arrival of the monsoon. These monsoon winds bind the whole country by providing water to set the agricultural activities in motion. The river valleys which carry this water also unite as a single river valley unit. Reprint 2025-26 36 CONTEMPORARY INDIA-I                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Identify command word, recall concept, structure answer, then review. |
+| 3   | 4. Give reasons as to why. (i) Seasonal reversal of wind direction takes place over the Indian subcontinent? (ii) The bulk of rainfall in India is concentrated over a few months. (iii) The Tamil Nadu coast receives winter rainfall. (iv) The delta region of the eastern coast is frequently struck by cyclones. (v) Parts of Rajasthan, Gujarat and the leewar d side of the W estern Ghats are                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Identify command word, recall concept, structure answer, then review. |
+| 4   | 5. Describe the regional variations in the climatic conditions of India with the help of suitable examples.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Identify command word, recall concept, structure answer, then review. |
+| 5   | 6. Give an account of weather conditions and characteristics of the cold season.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Identify command word, recall concept, structure answer, then review. |
+| 6   | 7. Give the characteristics and effects of the monsoon rainfall in India. MAP S KILLS On an outline map of India, show the following. (i) Areas receiving rainfall over 400 cm. (ii) Areas receiving less than 20 cm of rainfall. (iii) The direction of the south-west monsoon over India. PROJECT /A CTIVITY (i) Find out which songs, dances, festivals and special food preparations are                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Identify command word, recall concept, structure answer, then review. |
+| 7   | 1. In Table-I, the average mean monthly temperatures and amounts of rainfall of 10 representative stations have been given. It is for you to study on your own and convert them into ‘temperature and rainfall’ graphs. A glance at these visual representations will help you to grasp instantly the smilarities and differences between them. One such graph (Figure 1) is already prepared for you. See if you can arrive at some broad generalisations about our diverse climatic conditions. We hope you are in for a great joy of learning. Do the following activities.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Identify command word, recall concept, structure answer, then review. |
+| 8   | 2. Re-arrange the 10 stations in two different sequences: Figure 1 : Temperature and Rainfall of Delhi Reprint 2025-26 CLIMATE 37 (i) According to their distance from the equator. (ii) According to their altitude above mean sealevel.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Identify command word, recall concept, structure answer, then review. |
+| 9   | 3. (i) Name two rainiest stations. (ii) Name two driest stations. (iii) Two stations with most equable climate. (iv) Two stations with most extreme climate. (v) Two stations influenced by retreating monsoons. (vi) The two hottest stations in the months of (a) February (b) April (c) May (d) June Stations Latitude Altitude Jan. Feb. Mar. Apr. May. Jun. Jul. Aug. Sep. Oct. Nov. Dec. Annual (Metres) Rainfall Temperature (°C) 20.5 22.7 25.2 27.1 26.7 24.2 23.0 23.0 23.1 22.9 18.9 20.2 Bengaluru 12°58'N 909 Rainfall (cm) 0.7 0.9 1.1 4.5 10.7 7.1 11.1 13.7 16.4 15.3 6.1 1.3 88.9 Temperature (°C) 24.4 24.4 26.7 28.3 30.0 28.9 27.2 27.2 27.2 27.8 27.2 25.0 Mumbai 19° N 11 Rainfall (cm) 0.2 0.2 – – 1.8 50.6 61.0 36.9 26.9 4.8 1.0 – 183.4 Temperature (°C) 19.6 22.0 27.1 30.1 30.4 29.9 28.9 28.7 28.9 27.6 23.4 19.7 Kolkata 22°34' N 6 Rainfall (cm) 1.2 2.8 3.4 5.1 13.4 29.0 33.1 33.4 25.3 12.7 2.7 0.4 162.5 Temperature (°C) 14.4 16.7 23.3 30.0 33.3 33.3 30.0 29.4 28.9 25.6 19.4 15.6 Delhi 29° N 219 Rainfall (cm) 2.5 1.5 1.3 1.0 1.8 7.4 19.3 17.8 11.9 1.3 0.2 1.0 67.0 Temperature (°C) 16.8 19.2 26.6 29.8 33.3 33.9 31.3 29.0 20.1 27.0 20.1 14.9 Jodhpur 26°18' N 224 Rainfall (cm) 0.5 0.6 0.3 0.3 1.0 3.1 10.8 13.1 5.7 0.8 0.2 0.2 36.6 Temperature (°C) 24.5 25.7 27.7 30.4 33.0 32.5 31.0 30.2 29.8 28.0 25.9 24.7 Chennai 13°4' N 7 Rainfall (cm) 4.6 1.3 1.3 1.8 3.8 4.5 8.7 11.3 11.9 30.6 35.0 13.9 128.6 Temperature (°C) 21.5 23.9 28.3 32.7 35.5 32.0 27.7 27.3 27.9 26.7 23.1 20.7 Nagpur 21°9' N 312 Rainfall (cm) 1.1 2.3 1.7 1.6 2.1 22.2 37.6 28.6 18.5 5.5 2.0 1.0 124.2 Temperature (°C) 9.8 11.3 15.9 18.5 19.2 20.5 21.1 20.9 20.0 17.2 13.3 10.4 Shillong 24°34' N 1461 Rainfall (cm) 1.4 2.9 5.6 14.6 29.5 47.6 35.9 34.3 30.2 18.8 3.8 0.6 225.3 Temperature (°C) 26.7 27.3 28.3 28.7 28.6 26.6 26.2 2.6.2 26.5 26.7 26.6 26.5 Thiruvananthapuram 8°29' N 61 Rainfall (cm) 2.3 2.1 3.7 10.6 20.8 35.6 22.3 14.6 13.8 27.3 20.6 7.5 181.2 Temperature (°C) – 8.5 – 7.2 – 0.6 6.1 10.0 14.4 17.2 16.1 12.2 6.1 0.0 – 5.6 Leh 34° N 34°N 3506 Rainfall (cm) 1.0 0.8 0.8 0.5 0.5 0.5 1.3 1.3 0.8 0.5 – 0.5 8.5 Table I Reprint 2025-26 38 CONTEMPORARY INDIA-I | Identify command word, recall concept, structure answer, then review. |
+| 10  | 4. Now find out (i) Why are Thiruvananthapuram and Shillong rainier in June than in July? (ii) Why is July rainier in Mumbai than in Thiruvananthapuram? (iii) Why are southwest monsoons less rainy in Chennai? (iv) Why is Shillong rainier than Kolkata? (v) Why is Kolkata rainier in July than in June unlike Shillong which is rainier in June than in July? (vi) Why does Delhi receive more rain than Jodhpur?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Identify command word, recall concept, structure answer, then review. |
+| 11  | 5. Now think why Thiruvananthapuram has equable climate? — Chennai has more rains only after the fury of monsoon is over in most parts of the country? — Jodhpur has a hot desert type of climate? — Leh has moderate precipitation almost throughut the year? — while in Delhi and Jodhpur most of the rain is confined to nearly three months, in Thiruvananthapuram and Shillong it is almost nine months of the year? In spite of these facts see carefully if there are strong evidences to conclude that the monsoons still provide a very strong framework lending overall climatic unity to the whole country. Reprint 2025-26                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Identify command word, recall concept, structure answer, then review. |
 
 ---
 
 ## 🧩 Answer-Writing Framework
 
-| Step | What To Do |
-|---|---|
-| 1 | Define the geographical term or locate the region. |
-| 2 | Describe the spatial pattern or distribution. |
-| 3 | Explain the process or cause. |
-| 4 | Add human, environmental, or economic impact. |
-| 5 | Use map/data evidence if available. |
+| Step | What To Do                                         |
+| ---- | -------------------------------------------------- |
+| 1    | Define the geographical term or locate the region. |
+| 2    | Describe the spatial pattern or distribution.      |
+| 3    | Explain the process or cause.                      |
+| 4    | Add human, environmental, or economic impact.      |
+| 5    | Use map/data evidence if available.                |
 
 ---
 
 ## ⚠️ Common Misconceptions
 
-| # | Watch Out For This |
-|---|---|
-| 1 | A map is part of the argument, not an extra picture. |
-| 2 | Distribution and cause are different things. |
-| 3 | Geography answers need place-specific detail. |
+| #   | Watch Out For This                                   |
+| --- | ---------------------------------------------------- |
+| 1   | A map is part of the argument, not an extra picture. |
+| 2   | Distribution and cause are different things.         |
+| 3   | Geography answers need place-specific detail.        |
 
 ---
 
 ## 📋 Quick Revision Sheet
 
-| Revision Item | What To Recall |
-|---|---|
-| Chapter core | Climate |
-| Intro | Core chapter narrative |
-| Definition | Climate |
-| Definition | Weather |
-| Definition | This condition |
+| Revision Item | What To Recall         |
+| ------------- | ---------------------- |
+| Chapter core  | Climate                |
+| Intro         | Core chapter narrative |
+| Definition    | Climate                |
+| Definition    | Weather                |
+| Definition    | This condition         |
 
 ---
 
 ## ✅ Pilot Quality Checklist
 
-| Check | Status |
-|---|---|
-| Raw data preserved | Yes — chapter content is retained and cleaned, not summarised away. |
-| Learner scaffolding added | Yes — roadmap, outcomes, answer framework, misconceptions, and revision sheet. |
-| Subject-aware structure | Yes — generated from the selected subject family profile. |
-| Needs human review | Yes — especially source extraction mismatches, diagrams, tables, formulas, and broken OCR words. |
+| Check                     | Status                                                                                           |
+| ------------------------- | ------------------------------------------------------------------------------------------------ |
+| Raw data preserved        | Yes — chapter content is retained and cleaned, not summarised away.                              |
+| Learner scaffolding added | Yes — roadmap, outcomes, answer framework, misconceptions, and revision sheet.                   |
+| Subject-aware structure   | Yes — generated from the selected subject family profile.                                        |
+| Needs human review        | Yes — especially source extraction mismatches, diagrams, tables, formulas, and broken OCR words. |
 
 ---
 
-*Source: NCERT Class 9 — Social Geography, Chapter 4. Raw file: `data/class_9/social_geography/chapter_04.md`.*
+_Source: NCERT Class 9 — Social Geography, Chapter 4. Raw file: `data/class_9/social_geography/chapter_04.md`._

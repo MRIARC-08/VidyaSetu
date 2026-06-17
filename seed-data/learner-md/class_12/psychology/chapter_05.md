@@ -25,30 +25,30 @@ The main idea is that therapy is not just advice. It is a planned, confidential,
 
 ## Key Terms
 
-| Term | Meaning | Why it matters |
-|---|---|---|
-| Psychotherapy | Psychological treatment through a professional relationship between therapist and client | Core topic of the chapter |
-| Client | Person who seeks help for psychological distress or maladaptive functioning | Focus of the therapeutic process |
-| Therapist | Trained professional who applies psychological methods | Ensures therapy is skilled and ethical |
-| Therapeutic alliance | Trusting, professional relationship between therapist and client | Vehicle through which change often occurs |
-| Empathy | Understanding another person's experience from that person's perspective | Builds safety and trust in therapy |
-| Sympathy | Feeling pity or compassion for another person's suffering | Different from therapeutic empathy |
-| Unconditional positive regard | Non-judgmental acceptance of the client as a person | Helps the client explore difficult feelings |
-| Confidentiality | Professional duty to keep client information private within ethical limits | Protects trust |
-| Clinical formulation | Understanding the client's problem within a therapy model | Guides choice of techniques |
-| Behaviour therapy | Therapy based on learning principles and behaviour change | Useful for maladaptive learned behaviours |
-| Cognitive therapy | Therapy focused on faulty thinking patterns and beliefs | Helps change distress-producing thoughts |
-| CBT | Cognitive Behaviour Therapy combining cognitive and behavioural methods | Widely used for many disorders |
-| Rational emotive therapy | Albert Ellis's therapy based on changing irrational beliefs | Explains distress through the ABC model |
-| Negative automatic thoughts | Persistent negative thoughts that arise quickly and repeatedly | Central to Beck's cognitive therapy |
-| Cognitive restructuring | Replacing distorted thinking with more realistic thinking | Major technique in cognitive therapy |
-| Humanistic therapy | Therapy focused on growth, self-awareness, and self-actualisation | Treats blocked growth as important |
-| Existential therapy | Therapy focused on meaning, choice, responsibility, and authenticity | Addresses loneliness, alienation, and meaninglessness |
-| Logotherapy | Viktor Frankl's therapy focused on finding meaning | Important existential approach |
-| Client-centred therapy | Carl Rogers's therapy based on empathy, genuineness, and acceptance | Major humanistic approach |
-| Gestalt therapy | Therapy focused on awareness, wholeness, and blocked emotions | Helps integrate feelings and experiences |
-| Catharsis | Emotional unburdening or release | One factor contributing to healing |
-| Rehabilitation | Support to improve functioning and quality of life | Important when symptom reduction is not enough |
+| Term                          | Meaning                                                                                  | Why it matters                                        |
+| ----------------------------- | ---------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| Psychotherapy                 | Psychological treatment through a professional relationship between therapist and client | Core topic of the chapter                             |
+| Client                        | Person who seeks help for psychological distress or maladaptive functioning              | Focus of the therapeutic process                      |
+| Therapist                     | Trained professional who applies psychological methods                                   | Ensures therapy is skilled and ethical                |
+| Therapeutic alliance          | Trusting, professional relationship between therapist and client                         | Vehicle through which change often occurs             |
+| Empathy                       | Understanding another person's experience from that person's perspective                 | Builds safety and trust in therapy                    |
+| Sympathy                      | Feeling pity or compassion for another person's suffering                                | Different from therapeutic empathy                    |
+| Unconditional positive regard | Non-judgmental acceptance of the client as a person                                      | Helps the client explore difficult feelings           |
+| Confidentiality               | Professional duty to keep client information private within ethical limits               | Protects trust                                        |
+| Clinical formulation          | Understanding the client's problem within a therapy model                                | Guides choice of techniques                           |
+| Behaviour therapy             | Therapy based on learning principles and behaviour change                                | Useful for maladaptive learned behaviours             |
+| Cognitive therapy             | Therapy focused on faulty thinking patterns and beliefs                                  | Helps change distress-producing thoughts              |
+| CBT                           | Cognitive Behaviour Therapy combining cognitive and behavioural methods                  | Widely used for many disorders                        |
+| Rational emotive therapy      | Albert Ellis's therapy based on changing irrational beliefs                              | Explains distress through the ABC model               |
+| Negative automatic thoughts   | Persistent negative thoughts that arise quickly and repeatedly                           | Central to Beck's cognitive therapy                   |
+| Cognitive restructuring       | Replacing distorted thinking with more realistic thinking                                | Major technique in cognitive therapy                  |
+| Humanistic therapy            | Therapy focused on growth, self-awareness, and self-actualisation                        | Treats blocked growth as important                    |
+| Existential therapy           | Therapy focused on meaning, choice, responsibility, and authenticity                     | Addresses loneliness, alienation, and meaninglessness |
+| Logotherapy                   | Viktor Frankl's therapy focused on finding meaning                                       | Important existential approach                        |
+| Client-centred therapy        | Carl Rogers's therapy based on empathy, genuineness, and acceptance                      | Major humanistic approach                             |
+| Gestalt therapy               | Therapy focused on awareness, wholeness, and blocked emotions                            | Helps integrate feelings and experiences              |
+| Catharsis                     | Emotional unburdening or release                                                         | One factor contributing to healing                    |
+| Rehabilitation                | Support to improve functioning and quality of life                                       | Important when symptom reduction is not enough        |
 
 ## 1. Therapeutic Approaches In One Sentence
 
@@ -943,13 +943,13 @@ The goal is dignity, self-reliance, and meaningful participation in society.
 
 ## 76. Comparing Major Therapies
 
-| Therapy | Main cause emphasised | Main method | Main benefit |
-|---|---|---|---|
-| Psychodynamic | Intrapsychic conflicts | Free association, dreams, interpretation | Emotional insight |
-| Behaviour | Faulty learning and maladaptive behaviour | Behavioural analysis and learning techniques | Adaptive behaviour |
-| Cognitive | Faulty beliefs and distorted thinking | Questioning, disputation, restructuring | Balanced thinking |
-| CBT | Biological, psychological, and social factors | Cognitive plus behavioural methods | Practical symptom reduction and coping |
-| Humanistic-existential | Blocked growth, loneliness, meaninglessness | Accepting therapeutic environment | Personal growth and self-awareness |
+| Therapy                | Main cause emphasised                         | Main method                                  | Main benefit                           |
+| ---------------------- | --------------------------------------------- | -------------------------------------------- | -------------------------------------- |
+| Psychodynamic          | Intrapsychic conflicts                        | Free association, dreams, interpretation     | Emotional insight                      |
+| Behaviour              | Faulty learning and maladaptive behaviour     | Behavioural analysis and learning techniques | Adaptive behaviour                     |
+| Cognitive              | Faulty beliefs and distorted thinking         | Questioning, disputation, restructuring      | Balanced thinking                      |
+| CBT                    | Biological, psychological, and social factors | Cognitive plus behavioural methods           | Practical symptom reduction and coping |
+| Humanistic-existential | Blocked growth, loneliness, meaninglessness   | Accepting therapeutic environment            | Personal growth and self-awareness     |
 
 ## 77. Common Student Confusions
 

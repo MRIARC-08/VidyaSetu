@@ -1,19 +1,20 @@
 # Chapter 6: Manufacturing Industries
+
 ### NCERT Class 10 - Social Geography
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-| --- | --- |
-| Class | 10 |
-| Subject | Social Geography |
-| Chapter | 6 - Manufacturing Industries |
-| Central Question | How do industries transform raw materials into valuable goods, and how can industrial growth be made sustainable? |
-| Main Themes | Manufacturing, industrial location, industry classification, agro-based industries, mineral-based industries, industrial pollution |
-| Main Skills | Classification, comparison, location reasoning, industry-resource mapping, environmental analysis |
-| Exam Importance | Very high: manufacturing definition, industry classification, steel, cotton, jute, sugar, cement, pollution control |
+| Detail           | Learner-Friendly Information                                                                                                       |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Class            | 10                                                                                                                                 |
+| Subject          | Social Geography                                                                                                                   |
+| Chapter          | 6 - Manufacturing Industries                                                                                                       |
+| Central Question | How do industries transform raw materials into valuable goods, and how can industrial growth be made sustainable?                  |
+| Main Themes      | Manufacturing, industrial location, industry classification, agro-based industries, mineral-based industries, industrial pollution |
+| Main Skills      | Classification, comparison, location reasoning, industry-resource mapping, environmental analysis                                  |
+| Exam Importance  | Very high: manufacturing definition, industry classification, steel, cotton, jute, sugar, cement, pollution control                |
 
 ---
 
@@ -48,16 +49,16 @@ The central idea is:
 
 After studying this chapter, you should be able to:
 
-| Skill | You Should Be Able To |
-| --- | --- |
-| Define | Explain manufacturing, secondary sector, agro-based industry, mineral-based industry, basic industry, consumer industry, public sector, private sector, joint sector, cooperative sector, heavy industry, and light industry. |
-| Explain | Describe why manufacturing is the backbone of economic development. |
-| Analyse | Explain factors affecting industrial location. |
-| Classify | Classify industries by raw material, role, capital investment, ownership, and weight. |
-| Describe | Explain the cotton textile, jute textile, sugar, iron and steel, aluminium, chemical, fertilizer, cement, automobile, and IT industries. |
-| Compare | Differentiate integrated steel plants and mini steel plants. |
-| Evaluate | Explain industrial pollution and steps to control environmental degradation. |
-| Write | Prepare strong 30-word and 120-word answers for NCERT-style questions. |
+| Skill    | You Should Be Able To                                                                                                                                                                                                         |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Define   | Explain manufacturing, secondary sector, agro-based industry, mineral-based industry, basic industry, consumer industry, public sector, private sector, joint sector, cooperative sector, heavy industry, and light industry. |
+| Explain  | Describe why manufacturing is the backbone of economic development.                                                                                                                                                           |
+| Analyse  | Explain factors affecting industrial location.                                                                                                                                                                                |
+| Classify | Classify industries by raw material, role, capital investment, ownership, and weight.                                                                                                                                         |
+| Describe | Explain the cotton textile, jute textile, sugar, iron and steel, aluminium, chemical, fertilizer, cement, automobile, and IT industries.                                                                                      |
+| Compare  | Differentiate integrated steel plants and mini steel plants.                                                                                                                                                                  |
+| Evaluate | Explain industrial pollution and steps to control environmental degradation.                                                                                                                                                  |
+| Write    | Prepare strong 30-word and 120-word answers for NCERT-style questions.                                                                                                                                                        |
 
 ---
 
@@ -91,47 +92,47 @@ Industrial growth cannot be called successful if it destroys air, water, land, h
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Manufacturing | Production of goods in large quantities after processing raw materials into more valuable products. |
-| Secondary Sector | Sector that processes primary materials into finished goods. |
-| Industry | Economic activity involving production, processing, or manufacturing of goods. |
-| Industrialisation | Growth and spread of industries in an economy. |
-| Urbanisation | Growth of towns and cities. |
-| Agglomeration Economies | Advantages gained when industries locate close to each other in urban centres. |
-| Agro-Based Industry | Industry using agricultural raw materials. |
-| Mineral-Based Industry | Industry using minerals and metals as raw materials. |
-| Basic or Key Industry | Industry whose products are used as raw materials by other industries. |
-| Consumer Industry | Industry producing goods directly used by consumers. |
-| Small-Scale Industry | Industry classified by limited capital investment in plant and machinery. |
-| Public Sector | Industry owned and operated by government agencies. |
-| Private Sector | Industry owned and operated by individuals or private groups. |
-| Joint Sector | Industry jointly owned or operated by government and private individuals or groups. |
-| Cooperative Sector | Industry owned and operated by producers, workers, or suppliers who share profit and loss. |
-| Heavy Industry | Industry using heavy raw materials and producing heavy goods. |
-| Light Industry | Industry using light raw materials and producing light goods. |
-| Textile Industry | Industry producing yarn, cloth, fabric, garments, and related products. |
-| Spinning | Making yarn from fibre. |
-| Weaving | Making fabric from yarn. |
-| Powerloom | Mechanised loom used for weaving fabric. |
-| Handloom | Manual loom used by weavers. |
-| Khadi | Handspun and handwoven cloth. |
-| Jute | Natural fibre known as the golden fibre. |
-| Bagasse | Fibrous residue left after extracting juice from sugarcane. |
-| Integrated Steel Plant | Large steel plant where all processes from raw material handling to steel making, rolling, and shaping occur in one complex. |
-| Mini Steel Plant | Smaller steel plant using electric furnaces, steel scrap, sponge iron, and re-rollers. |
-| SAIL | Steel Authority of India Limited, which markets steel for many public sector plants. |
-| Aluminium Smelting | Process of producing aluminium from bauxite. |
-| Petrochemicals | Chemicals derived from petroleum and natural gas. |
-| Fertilizer Industry | Industry producing nitrogenous, phosphatic, and complex fertilizers. |
-| Cement Industry | Industry producing cement using limestone, silica, gypsum, coal, and power. |
-| IT Industry | Information technology industry, including software, hardware, and services. |
-| BPO | Business Process Outsourcing. |
-| Industrial Pollution | Pollution caused by industrial activities. |
-| Effluents | Liquid waste discharged by factories. |
-| Fly Ash | Fine ash produced by burning coal in thermal power plants. |
-| Thermal Pollution | Heating of water bodies by discharge of hot water from factories or power plants. |
-| EMS | Environment Management System. |
+| Term                    | Meaning                                                                                                                      |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Manufacturing           | Production of goods in large quantities after processing raw materials into more valuable products.                          |
+| Secondary Sector        | Sector that processes primary materials into finished goods.                                                                 |
+| Industry                | Economic activity involving production, processing, or manufacturing of goods.                                               |
+| Industrialisation       | Growth and spread of industries in an economy.                                                                               |
+| Urbanisation            | Growth of towns and cities.                                                                                                  |
+| Agglomeration Economies | Advantages gained when industries locate close to each other in urban centres.                                               |
+| Agro-Based Industry     | Industry using agricultural raw materials.                                                                                   |
+| Mineral-Based Industry  | Industry using minerals and metals as raw materials.                                                                         |
+| Basic or Key Industry   | Industry whose products are used as raw materials by other industries.                                                       |
+| Consumer Industry       | Industry producing goods directly used by consumers.                                                                         |
+| Small-Scale Industry    | Industry classified by limited capital investment in plant and machinery.                                                    |
+| Public Sector           | Industry owned and operated by government agencies.                                                                          |
+| Private Sector          | Industry owned and operated by individuals or private groups.                                                                |
+| Joint Sector            | Industry jointly owned or operated by government and private individuals or groups.                                          |
+| Cooperative Sector      | Industry owned and operated by producers, workers, or suppliers who share profit and loss.                                   |
+| Heavy Industry          | Industry using heavy raw materials and producing heavy goods.                                                                |
+| Light Industry          | Industry using light raw materials and producing light goods.                                                                |
+| Textile Industry        | Industry producing yarn, cloth, fabric, garments, and related products.                                                      |
+| Spinning                | Making yarn from fibre.                                                                                                      |
+| Weaving                 | Making fabric from yarn.                                                                                                     |
+| Powerloom               | Mechanised loom used for weaving fabric.                                                                                     |
+| Handloom                | Manual loom used by weavers.                                                                                                 |
+| Khadi                   | Handspun and handwoven cloth.                                                                                                |
+| Jute                    | Natural fibre known as the golden fibre.                                                                                     |
+| Bagasse                 | Fibrous residue left after extracting juice from sugarcane.                                                                  |
+| Integrated Steel Plant  | Large steel plant where all processes from raw material handling to steel making, rolling, and shaping occur in one complex. |
+| Mini Steel Plant        | Smaller steel plant using electric furnaces, steel scrap, sponge iron, and re-rollers.                                       |
+| SAIL                    | Steel Authority of India Limited, which markets steel for many public sector plants.                                         |
+| Aluminium Smelting      | Process of producing aluminium from bauxite.                                                                                 |
+| Petrochemicals          | Chemicals derived from petroleum and natural gas.                                                                            |
+| Fertilizer Industry     | Industry producing nitrogenous, phosphatic, and complex fertilizers.                                                         |
+| Cement Industry         | Industry producing cement using limestone, silica, gypsum, coal, and power.                                                  |
+| IT Industry             | Information technology industry, including software, hardware, and services.                                                 |
+| BPO                     | Business Process Outsourcing.                                                                                                |
+| Industrial Pollution    | Pollution caused by industrial activities.                                                                                   |
+| Effluents               | Liquid waste discharged by factories.                                                                                        |
+| Fly Ash                 | Fine ash produced by burning coal in thermal power plants.                                                                   |
+| Thermal Pollution       | Heating of water bodies by discharge of hot water from factories or power plants.                                            |
+| EMS                     | Environment Management System.                                                                                               |
 
 ---
 
@@ -143,14 +144,14 @@ Manufacturing is the production of goods in large quantities after processing ra
 
 ## Examples
 
-| Raw Material | Manufactured Product |
-| --- | --- |
-| Wood | Paper |
-| Sugarcane | Sugar |
-| Iron ore | Iron and steel |
-| Bauxite | Aluminium |
-| Cotton fibre | Yarn and cloth |
-| Petroleum | Petrochemicals, plastics, synthetic fibres |
+| Raw Material | Manufactured Product                       |
+| ------------ | ------------------------------------------ |
+| Wood         | Paper                                      |
+| Sugarcane    | Sugar                                      |
+| Iron ore     | Iron and steel                             |
+| Bauxite      | Aluminium                                  |
+| Cotton fibre | Yarn and cloth                             |
+| Petroleum    | Petrochemicals, plastics, synthetic fibres |
 
 ## Secondary Sector
 
@@ -169,16 +170,16 @@ Examples of workers in the secondary sector:
 
 Manufacturing is considered the backbone of development because:
 
-| Importance | Explanation |
-| --- | --- |
-| Modernises agriculture | Provides machines, tools, fertilizers, pesticides, pumps, and pipes. |
-| Reduces dependence on agriculture | Creates jobs in secondary and tertiary sectors. |
-| Reduces poverty and unemployment | Industrial jobs expand non-farm employment. |
-| Reduces regional disparities | Public sector industries were set up in tribal and backward areas. |
-| Expands trade | Manufactured exports increase trade and commerce. |
-| Earns foreign exchange | Export of manufactured goods brings foreign currency. |
-| Adds value | Raw materials become higher-value finished goods. |
-| Supports national prosperity | Countries that process raw materials into finished goods become more prosperous. |
+| Importance                        | Explanation                                                                      |
+| --------------------------------- | -------------------------------------------------------------------------------- |
+| Modernises agriculture            | Provides machines, tools, fertilizers, pesticides, pumps, and pipes.             |
+| Reduces dependence on agriculture | Creates jobs in secondary and tertiary sectors.                                  |
+| Reduces poverty and unemployment  | Industrial jobs expand non-farm employment.                                      |
+| Reduces regional disparities      | Public sector industries were set up in tribal and backward areas.               |
+| Expands trade                     | Manufactured exports increase trade and commerce.                                |
+| Earns foreign exchange            | Export of manufactured goods brings foreign currency.                            |
+| Adds value                        | Raw materials become higher-value finished goods.                                |
+| Supports national prosperity      | Countries that process raw materials into finished goods become more prosperous. |
 
 ## Agriculture and Industry Move Together
 
@@ -251,18 +252,18 @@ Industrial location depends on least cost. Industries try to locate where inputs
 
 ## Factors Affecting Industrial Location
 
-| Factor | Why It Matters |
-| --- | --- |
-| Raw material | Bulky or perishable raw material encourages location near source. |
-| Labour | Skilled and cheap labour reduces production cost. |
-| Capital | Investment is needed for land, machinery, buildings, and technology. |
-| Power | Industries need reliable energy. |
-| Market | Nearby market reduces transport cost and helps sales. |
-| Transport | Roads, railways, ports, and waterways move raw materials and goods. |
-| Water | Many industries need water for processing, cooling, and cleaning. |
-| Government policy | Policies can promote industries in certain regions. |
-| Specialised labour | Some industries need trained workers. |
-| Banking and insurance | Financial services support industrial operations. |
+| Factor                | Why It Matters                                                       |
+| --------------------- | -------------------------------------------------------------------- |
+| Raw material          | Bulky or perishable raw material encourages location near source.    |
+| Labour                | Skilled and cheap labour reduces production cost.                    |
+| Capital               | Investment is needed for land, machinery, buildings, and technology. |
+| Power                 | Industries need reliable energy.                                     |
+| Market                | Nearby market reduces transport cost and helps sales.                |
+| Transport             | Roads, railways, ports, and waterways move raw materials and goods.  |
+| Water                 | Many industries need water for processing, cooling, and cleaning.    |
+| Government policy     | Policies can promote industries in certain regions.                  |
+| Specialised labour    | Some industries need trained workers.                                |
+| Banking and insurance | Financial services support industrial operations.                    |
 
 ## Industry and Urbanisation
 
@@ -310,38 +311,38 @@ Industries can be classified in several ways.
 
 ## 1. On the Basis of Raw Material
 
-| Type | Meaning | Examples |
-| --- | --- | --- |
-| Agro-Based Industries | Use agricultural raw materials | Cotton, woollen, jute, silk textile, rubber, sugar, tea, coffee, edible oil |
-| Mineral-Based Industries | Use minerals and metals | Iron and steel, cement, aluminium, machine tools, petrochemicals |
+| Type                     | Meaning                        | Examples                                                                    |
+| ------------------------ | ------------------------------ | --------------------------------------------------------------------------- |
+| Agro-Based Industries    | Use agricultural raw materials | Cotton, woollen, jute, silk textile, rubber, sugar, tea, coffee, edible oil |
+| Mineral-Based Industries | Use minerals and metals        | Iron and steel, cement, aluminium, machine tools, petrochemicals            |
 
 ## 2. According to Main Role
 
-| Type | Meaning | Examples |
-| --- | --- | --- |
+| Type                    | Meaning                                              | Examples                                            |
+| ----------------------- | ---------------------------------------------------- | --------------------------------------------------- |
 | Basic or Key Industries | Supply products as raw materials to other industries | Iron and steel, copper smelting, aluminium smelting |
-| Consumer Industries | Produce goods for direct use by consumers | Sugar, toothpaste, paper, sewing machines, fans |
+| Consumer Industries     | Produce goods for direct use by consumers            | Sugar, toothpaste, paper, sewing machines, fans     |
 
 ## 3. On the Basis of Capital Investment
 
-| Type | Meaning |
-| --- | --- |
+| Type                 | Meaning                                                                                                                            |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | Small-Scale Industry | Defined by maximum investment allowed in the assets of a unit. The textbook mentions the limit as one crore rupees in its context. |
 
 ## 4. On the Basis of Ownership
 
-| Type | Meaning | Examples |
-| --- | --- | --- |
-| Public Sector | Owned and operated by government agencies | BHEL, SAIL |
-| Private Sector | Owned and operated by individuals or private groups | TISCO, Bajaj Auto, Dabur |
-| Joint Sector | Jointly run by state and private individuals/groups | Oil India Ltd. |
+| Type               | Meaning                                                      | Examples                                               |
+| ------------------ | ------------------------------------------------------------ | ------------------------------------------------------ |
+| Public Sector      | Owned and operated by government agencies                    | BHEL, SAIL                                             |
+| Private Sector     | Owned and operated by individuals or private groups          | TISCO, Bajaj Auto, Dabur                               |
+| Joint Sector       | Jointly run by state and private individuals/groups          | Oil India Ltd.                                         |
 | Cooperative Sector | Owned and operated by producers, suppliers, workers, or both | Sugar industry in Maharashtra, coir industry in Kerala |
 
 ## 5. On the Basis of Bulk and Weight
 
-| Type | Meaning | Examples |
-| --- | --- | --- |
-| Heavy Industries | Use heavy raw materials and produce heavy goods | Iron and steel, shipbuilding, automobiles |
+| Type             | Meaning                                         | Examples                                   |
+| ---------------- | ----------------------------------------------- | ------------------------------------------ |
+| Heavy Industries | Use heavy raw materials and produce heavy goods | Iron and steel, shipbuilding, automobiles  |
 | Light Industries | Use light raw materials and produce light goods | Electrical goods, watches, sewing machines |
 
 ---
@@ -372,13 +373,13 @@ The textile industry has a unique position in the Indian economy.
 
 Important contributions mentioned in the chapter:
 
-| Contribution | Detail |
-| --- | --- |
-| Industrial production | About 14 percent |
-| Employment | About 35 million people directly, second largest after agriculture |
-| Foreign exchange earnings | About 24.6 percent |
-| GDP | About 4 percent |
-| Value chain | Self-reliant and complete from raw material to high value-added products |
+| Contribution              | Detail                                                                   |
+| ------------------------- | ------------------------------------------------------------------------ |
+| Industrial production     | About 14 percent                                                         |
+| Employment                | About 35 million people directly, second largest after agriculture       |
+| Foreign exchange earnings | About 24.6 percent                                                       |
+| GDP                       | About 4 percent                                                          |
+| Value chain               | Self-reliant and complete from raw material to high value-added products |
 
 ## Why It Is Important
 
@@ -427,10 +428,10 @@ Early cotton textile mills were located in Maharashtra and Gujarat because of:
 
 ## Spinning and Weaving
 
-| Process | Pattern in India |
-| --- | --- |
+| Process  | Pattern in India                                         |
+| -------- | -------------------------------------------------------- |
 | Spinning | More centralised in Maharashtra, Gujarat, and Tamil Nadu |
-| Weaving | Highly decentralised |
+| Weaving  | Highly decentralised                                     |
 
 Weaving is decentralised because it allows traditional skills and designs in cotton, silk, zari, embroidery, and other fabrics.
 
@@ -442,12 +443,12 @@ Mahatma Gandhi emphasized spinning yarn and weaving khadi because it supported s
 
 ## India's Strength and Weakness
 
-| Strength | Weakness |
-| --- | --- |
-| World-class spinning | Weaving, knitting, and processing are fragmented and often low quality |
-| Large share in world cotton yarn trade | Garment trade share is low |
-| Second largest installed spindle capacity after China in the chapter's data | Many units cannot use high-quality yarn |
-| Competitive spinning mills | Some garment manufacturers import fabric |
+| Strength                                                                    | Weakness                                                               |
+| --------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| World-class spinning                                                        | Weaving, knitting, and processing are fragmented and often low quality |
+| Large share in world cotton yarn trade                                      | Garment trade share is low                                             |
+| Second largest installed spindle capacity after China in the chapter's data | Many units cannot use high-quality yarn                                |
+| Competitive spinning mills                                                  | Some garment manufacturers import fabric                               |
 
 ## Main Problems of Cotton Textile Industry
 
@@ -476,14 +477,14 @@ Most jute mills are located in West Bengal along the Hugli River, in a narrow be
 
 ## Why Jute Mills Are Located in the Hugli Basin
 
-| Factor | Explanation |
-| --- | --- |
-| Proximity to jute-growing areas | Reduces raw material transport cost. |
-| Inexpensive water transport | Hugli River helps movement. |
-| Railway, roadway, and waterway network | Helps movement of raw material and finished goods. |
-| Abundant water | Needed for processing raw jute. |
-| Cheap labour | Available from West Bengal, Bihar, Odisha, and Uttar Pradesh. |
-| Kolkata | Provides banking, insurance, and port facilities. |
+| Factor                                 | Explanation                                                   |
+| -------------------------------------- | ------------------------------------------------------------- |
+| Proximity to jute-growing areas        | Reduces raw material transport cost.                          |
+| Inexpensive water transport            | Hugli River helps movement.                                   |
+| Railway, roadway, and waterway network | Helps movement of raw material and finished goods.            |
+| Abundant water                         | Needed for processing raw jute.                               |
+| Cheap labour                           | Available from West Bengal, Bihar, Odisha, and Uttar Pradesh. |
+| Kolkata                                | Provides banking, insurance, and port facilities.             |
 
 ## Partition Impact
 
@@ -654,13 +655,13 @@ It produces mild and alloy steel of specific requirements.
 
 ## Problems of the Iron and Steel Industry
 
-| Problem | Explanation |
-| --- | --- |
-| High cost and limited availability of coking coal | Raises production cost. |
-| Low productivity of labour | Reduces competitiveness. |
-| Irregular energy supply | Interrupts production. |
-| Poor infrastructure | Transport and logistics become inefficient. |
-| Need for quality improvement | India imports some good quality steel. |
+| Problem                                           | Explanation                                 |
+| ------------------------------------------------- | ------------------------------------------- |
+| High cost and limited availability of coking coal | Raises production cost.                     |
+| Low productivity of labour                        | Reduces competitiveness.                    |
+| Irregular energy supply                           | Interrupts production.                      |
+| Poor infrastructure                               | Transport and logistics become inefficient. |
+| Need for quality improvement                      | India imports some good quality steel.      |
 
 ## Recent Developments
 
@@ -845,13 +846,13 @@ Cement is essential for:
 
 ## Raw Materials and Inputs
 
-| Input | Importance |
-| --- | --- |
-| Limestone | Main raw material |
-| Silica | Raw material |
-| Gypsum | Raw material |
-| Coal | Energy source |
-| Electric power | Energy source |
+| Input          | Importance                                         |
+| -------------- | -------------------------------------------------- |
+| Limestone      | Main raw material                                  |
+| Silica         | Raw material                                       |
+| Gypsum         | Raw material                                       |
+| Coal           | Energy source                                      |
+| Electric power | Energy source                                      |
 | Rail transport | Needed for bulky raw materials and finished cement |
 
 ## First Cement Plant
@@ -1004,15 +1005,15 @@ Air pollution is caused by:
 
 ## Sources
 
-| Source | Pollutants |
-| --- | --- |
-| Chemical factories | Smoke and toxic gases |
-| Paper factories | Smoke and waste emissions |
-| Brick kilns | Smoke and particulate matter |
-| Refineries | Gases and smoke |
-| Smelting plants | Smoke and metallic particles |
-| Thermal power plants | Fly ash, smoke, gases |
-| Factories burning fossil fuels | Smoke and gases |
+| Source                         | Pollutants                   |
+| ------------------------------ | ---------------------------- |
+| Chemical factories             | Smoke and toxic gases        |
+| Paper factories                | Smoke and waste emissions    |
+| Brick kilns                    | Smoke and particulate matter |
+| Refineries                     | Gases and smoke              |
+| Smelting plants                | Smoke and metallic particles |
+| Thermal power plants           | Fly ash, smoke, gases        |
+| Factories burning fossil fuels | Smoke and gases              |
 
 ## Effects
 
@@ -1142,11 +1143,11 @@ Industrial water pollution can be reduced by:
 
 Industrial effluents can be treated in three stages:
 
-| Stage | Process |
-| --- | --- |
-| Primary treatment | Mechanical processes such as screening, grinding, flocculation, and sedimentation |
-| Secondary treatment | Biological process |
-| Tertiary treatment | Biological, chemical, and physical processes, including recycling of wastewater |
+| Stage               | Process                                                                           |
+| ------------------- | --------------------------------------------------------------------------------- |
+| Primary treatment   | Mechanical processes such as screening, grinding, flocculation, and sedimentation |
+| Secondary treatment | Biological process                                                                |
+| Tertiary treatment  | Biological, chemical, and physical processes, including recycling of wastewater   |
 
 ## Controlling Air Pollution
 
@@ -1196,35 +1197,35 @@ NTPC has taken steps such as:
 
 ## Agro-Based and Mineral-Based Industries
 
-| Point | Agro-Based Industries | Mineral-Based Industries |
-| --- | --- | --- |
-| Raw material | Agricultural products | Minerals and metals |
-| Examples | Cotton textiles, jute, sugar, tea, edible oil | Iron and steel, cement, aluminium, petrochemicals |
-| Location factor | Near farms, markets, labour, transport | Near minerals, power, transport, market |
+| Point           | Agro-Based Industries                         | Mineral-Based Industries                          |
+| --------------- | --------------------------------------------- | ------------------------------------------------- |
+| Raw material    | Agricultural products                         | Minerals and metals                               |
+| Examples        | Cotton textiles, jute, sugar, tea, edible oil | Iron and steel, cement, aluminium, petrochemicals |
+| Location factor | Near farms, markets, labour, transport        | Near minerals, power, transport, market           |
 
 ## Basic and Consumer Industries
 
-| Point | Basic Industries | Consumer Industries |
-| --- | --- | --- |
-| Role | Supply raw material to other industries | Produce goods directly used by consumers |
+| Point    | Basic Industries                                    | Consumer Industries                             |
+| -------- | --------------------------------------------------- | ----------------------------------------------- |
+| Role     | Supply raw material to other industries             | Produce goods directly used by consumers        |
 | Examples | Iron and steel, copper smelting, aluminium smelting | Sugar, toothpaste, paper, fans, sewing machines |
 
 ## Integrated Steel Plant and Mini Steel Plant
 
-| Point | Integrated Steel Plant | Mini Steel Plant |
-| --- | --- | --- |
-| Size | Large | Smaller |
-| Process | Handles all processes in one complex | Uses electric furnaces, scrap, sponge iron |
-| Stages | Raw material assembly, steel making, rolling, shaping | Re-rolling and production of specified steel |
-| Product | Large range of steel products | Mild and alloy steel of given specifications |
+| Point   | Integrated Steel Plant                                | Mini Steel Plant                             |
+| ------- | ----------------------------------------------------- | -------------------------------------------- |
+| Size    | Large                                                 | Smaller                                      |
+| Process | Handles all processes in one complex                  | Uses electric furnaces, scrap, sponge iron   |
+| Stages  | Raw material assembly, steel making, rolling, shaping | Re-rolling and production of specified steel |
+| Product | Large range of steel products                         | Mild and alloy steel of given specifications |
 
 ## Public, Private, Joint, and Cooperative Sector
 
-| Sector | Ownership | Example |
-| --- | --- | --- |
-| Public | Government | BHEL, SAIL |
-| Private | Individuals or private group | TISCO, Bajaj Auto, Dabur |
-| Joint | Government and private together | Oil India Ltd. |
+| Sector      | Ownership                        | Example                                       |
+| ----------- | -------------------------------- | --------------------------------------------- |
+| Public      | Government                       | BHEL, SAIL                                    |
+| Private     | Individuals or private group     | TISCO, Bajaj Auto, Dabur                      |
+| Joint       | Government and private together  | Oil India Ltd.                                |
 | Cooperative | Producers, workers, or suppliers | Sugar industry in Maharashtra, coir in Kerala |
 
 ---
@@ -1358,16 +1359,16 @@ Use this structure:
 
 # Common Mistakes to Avoid
 
-| Mistake | Correct Understanding |
-| --- | --- |
-| Writing manufacturing means any production. | Manufacturing specifically means processing raw materials into more valuable goods in large quantities. |
-| Treating agriculture and industry as separate. | They support each other through raw materials, tools, fertilizers, machines, and markets. |
-| Confusing agro-based and mineral-based industries. | Agro-based uses farm raw materials; mineral-based uses minerals and metals. |
-| Calling iron and steel a consumer industry. | It is a basic industry because other industries use steel. |
-| Forgetting least-cost location. | Industrial location depends on arranging inputs at lowest cost. |
-| Writing only raw material for location. | Labour, capital, power, market, transport, water, policy, and services also matter. |
-| Confusing integrated and mini steel plants. | Integrated plants are large and complete; mini plants are smaller and use scrap/sponge iron. |
-| Ignoring pollution control in industry answers. | Sustainable development requires economic growth with environmental protection. |
+| Mistake                                            | Correct Understanding                                                                                   |
+| -------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| Writing manufacturing means any production.        | Manufacturing specifically means processing raw materials into more valuable goods in large quantities. |
+| Treating agriculture and industry as separate.     | They support each other through raw materials, tools, fertilizers, machines, and markets.               |
+| Confusing agro-based and mineral-based industries. | Agro-based uses farm raw materials; mineral-based uses minerals and metals.                             |
+| Calling iron and steel a consumer industry.        | It is a basic industry because other industries use steel.                                              |
+| Forgetting least-cost location.                    | Industrial location depends on arranging inputs at lowest cost.                                         |
+| Writing only raw material for location.            | Labour, capital, power, market, transport, water, policy, and services also matter.                     |
+| Confusing integrated and mini steel plants.        | Integrated plants are large and complete; mini plants are smaller and use scrap/sponge iron.            |
+| Ignoring pollution control in industry answers.    | Sustainable development requires economic growth with environmental protection.                         |
 
 ---
 
@@ -1375,46 +1376,46 @@ Use this structure:
 
 ## Manufacturing Importance
 
-| Point | Keyword |
-| --- | --- |
-| Adds value | Raw material to finished goods |
-| Jobs | Secondary and tertiary sectors |
-| Agriculture support | Machines, fertilizers, pumps |
-| Exports | Trade and foreign exchange |
-| Regional development | Industries in backward areas |
-| Prosperity | Diversified manufacturing |
+| Point                | Keyword                        |
+| -------------------- | ------------------------------ |
+| Adds value           | Raw material to finished goods |
+| Jobs                 | Secondary and tertiary sectors |
+| Agriculture support  | Machines, fertilizers, pumps   |
+| Exports              | Trade and foreign exchange     |
+| Regional development | Industries in backward areas   |
+| Prosperity           | Diversified manufacturing      |
 
 ## Industry Classification
 
-| Basis | Types |
-| --- | --- |
-| Raw material | Agro-based, mineral-based |
-| Role | Basic/key, consumer |
-| Capital | Small scale |
-| Ownership | Public, private, joint, cooperative |
-| Weight | Heavy, light |
+| Basis        | Types                               |
+| ------------ | ----------------------------------- |
+| Raw material | Agro-based, mineral-based           |
+| Role         | Basic/key, consumer                 |
+| Capital      | Small scale                         |
+| Ownership    | Public, private, joint, cooperative |
+| Weight       | Heavy, light                        |
 
 ## Major Industries
 
-| Industry | Raw Material | Main Locations or Notes |
-| --- | --- | --- |
-| Cotton textile | Cotton | Maharashtra, Gujarat, Tamil Nadu; spinning centralised, weaving decentralised |
-| Jute | Raw jute | Hugli basin, West Bengal |
-| Sugar | Sugarcane | UP, Bihar, Maharashtra, Karnataka, Tamil Nadu, Andhra Pradesh, Gujarat |
-| Iron and steel | Iron ore, coking coal, limestone, manganese | Chhotanagpur concentration |
-| Aluminium | Bauxite, electricity | Odisha, West Bengal, Kerala, UP, Chhattisgarh, Maharashtra, Tamil Nadu |
-| Cement | Limestone, silica, gypsum, coal, power | Near raw materials and markets |
-| Automobile | Steel, components, technology | Delhi, Gurugram, Mumbai, Pune, Chennai, Kolkata, Lucknow, Indore, Hyderabad, Jamshedpur, Bengaluru |
-| IT and electronics | Skilled labour, technology, infrastructure | Bengaluru, Noida, Mumbai, Chennai, Hyderabad, Pune |
+| Industry           | Raw Material                                | Main Locations or Notes                                                                            |
+| ------------------ | ------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| Cotton textile     | Cotton                                      | Maharashtra, Gujarat, Tamil Nadu; spinning centralised, weaving decentralised                      |
+| Jute               | Raw jute                                    | Hugli basin, West Bengal                                                                           |
+| Sugar              | Sugarcane                                   | UP, Bihar, Maharashtra, Karnataka, Tamil Nadu, Andhra Pradesh, Gujarat                             |
+| Iron and steel     | Iron ore, coking coal, limestone, manganese | Chhotanagpur concentration                                                                         |
+| Aluminium          | Bauxite, electricity                        | Odisha, West Bengal, Kerala, UP, Chhattisgarh, Maharashtra, Tamil Nadu                             |
+| Cement             | Limestone, silica, gypsum, coal, power      | Near raw materials and markets                                                                     |
+| Automobile         | Steel, components, technology               | Delhi, Gurugram, Mumbai, Pune, Chennai, Kolkata, Lucknow, Indore, Hyderabad, Jamshedpur, Bengaluru |
+| IT and electronics | Skilled labour, technology, infrastructure  | Bengaluru, Noida, Mumbai, Chennai, Hyderabad, Pune                                                 |
 
 ## Pollution Control
 
-| Pollution | Control |
-| --- | --- |
-| Water | Reuse, recycle, rainwater harvesting, effluent treatment |
-| Air | Filters, scrubbers, electrostatic precipitators, cleaner fuels |
-| Land | Waste management, recycling, ash utilisation |
-| Noise | Silencers, redesign machinery, noise-absorbing materials |
+| Pollution | Control                                                        |
+| --------- | -------------------------------------------------------------- |
+| Water     | Reuse, recycle, rainwater harvesting, effluent treatment       |
+| Air       | Filters, scrubbers, electrostatic precipitators, cleaner fuels |
+| Land      | Waste management, recycling, ash utilisation                   |
+| Noise     | Silencers, redesign machinery, noise-absorbing materials       |
 
 ---
 

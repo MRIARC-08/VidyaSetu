@@ -1027,7 +1027,7 @@ In a completely inelastic collision, the bodies stick together and move with com
 
 ## 30. Completely Inelastic Collision In One Dimension
 
-Suppose mass \(m_1\) moving with speed \(v_{1i}\) collides with mass \(m_2\) at rest.
+Suppose mass \(m*1\) moving with speed \(v*{1i}\) collides with mass \(m_2\) at rest.
 
 After collision, both move together with speed \(v_f\).
 
@@ -1047,7 +1047,7 @@ Kinetic energy is lost in a completely inelastic collision.
 
 ## 31. Elastic Collision In One Dimension
 
-Let \(m_1\) move with initial velocity \(v_{1i}\) and \(m_2\) be initially at rest.
+Let \(m*1\) move with initial velocity \(v*{1i}\) and \(m_2\) be initially at rest.
 
 For a head-on elastic collision:
 
@@ -1532,4 +1532,3 @@ Collision:
 
 - momentum is conserved in isolated systems
 - kinetic energy is conserved only in elastic collisions
-

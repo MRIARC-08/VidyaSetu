@@ -1,4 +1,5 @@
 # Chapter 7: Depreciation, Provisions and Reserves
+
 ### NCERT Class 11 - Accountancy Part 1
 
 ## Chapter at a Glance
@@ -11,18 +12,18 @@ This chapter explains three ideas that are essential for preparing correct finan
 
 The central accounting idea is matching. If an asset gives benefit for many years, the whole cost should not be charged in one year. If a future loss is expected from current-period transactions, it should not be ignored. If profit is retained for business strength, it should be clearly separated from provisions.
 
-| Area | Main Focus |
-|---|---|
-| Depreciation | Allocation of depreciable cost over useful life |
-| Depletion | Expiry of natural resources through extraction |
-| Amortisation | Writing off cost of intangible assets |
-| Straight line method | Equal depreciation every year |
-| Written down value method | Depreciation on reducing book value |
-| Recording depreciation | Direct asset method and provision method |
-| Asset disposal | Finding profit or loss on sale, destruction, or discard |
-| Provisions | Expected liabilities or losses charged against profit |
-| Reserves | Profit retained and appropriated after profit is known |
-| Secret reserve | Hidden reserve created by understated assets or overstated liabilities |
+| Area                      | Main Focus                                                             |
+| ------------------------- | ---------------------------------------------------------------------- |
+| Depreciation              | Allocation of depreciable cost over useful life                        |
+| Depletion                 | Expiry of natural resources through extraction                         |
+| Amortisation              | Writing off cost of intangible assets                                  |
+| Straight line method      | Equal depreciation every year                                          |
+| Written down value method | Depreciation on reducing book value                                    |
+| Recording depreciation    | Direct asset method and provision method                               |
+| Asset disposal            | Finding profit or loss on sale, destruction, or discard                |
+| Provisions                | Expected liabilities or losses charged against profit                  |
+| Reserves                  | Profit retained and appropriated after profit is known                 |
+| Secret reserve            | Hidden reserve created by understated assets or overstated liabilities |
 
 ## Learning Outcomes
 
@@ -54,26 +55,26 @@ After studying this chapter, a learner should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Depreciation | Gradual, permanent decline in book value of a fixed asset due to use, passage of time, obsolescence, or other factors |
-| Depreciable asset | Asset used for more than one accounting period, with limited useful life, and not held for sale in normal trade |
-| Depreciable cost | Cost of asset minus estimated net residual value |
-| Cost of asset | Purchase price plus all expenses needed to bring the asset into usable condition |
-| Residual value | Estimated value expected at the end of useful life |
-| Net residual value | Estimated selling value minus expected disposal expenses |
-| Useful life | Period, units, or working hours over which an asset is expected to be economically useful |
-| Book value | Cost of asset minus depreciation charged till date |
-| Written down value | Another name for book value after depreciation |
-| Straight line method | Depreciation method where equal amount is charged every year |
-| Written down value method | Depreciation method where a fixed percentage is applied to opening book value each year |
-| Provision for depreciation | Account used to accumulate depreciation separately instead of reducing the asset account directly |
-| Asset disposal account | Temporary account used to collect cost, depreciation, sale proceeds, and profit or loss on an asset sold or discarded |
-| Provision | Amount charged against profit for a known liability or expected loss whose amount is uncertain |
-| Reserve | Part of profit set aside after profit is calculated |
-| Revenue reserve | Reserve created from revenue profits |
-| Capital reserve | Reserve created mainly from capital profits |
-| Secret reserve | Reserve not shown separately in the balance sheet |
+| Term                       | Meaning                                                                                                               |
+| -------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Depreciation               | Gradual, permanent decline in book value of a fixed asset due to use, passage of time, obsolescence, or other factors |
+| Depreciable asset          | Asset used for more than one accounting period, with limited useful life, and not held for sale in normal trade       |
+| Depreciable cost           | Cost of asset minus estimated net residual value                                                                      |
+| Cost of asset              | Purchase price plus all expenses needed to bring the asset into usable condition                                      |
+| Residual value             | Estimated value expected at the end of useful life                                                                    |
+| Net residual value         | Estimated selling value minus expected disposal expenses                                                              |
+| Useful life                | Period, units, or working hours over which an asset is expected to be economically useful                             |
+| Book value                 | Cost of asset minus depreciation charged till date                                                                    |
+| Written down value         | Another name for book value after depreciation                                                                        |
+| Straight line method       | Depreciation method where equal amount is charged every year                                                          |
+| Written down value method  | Depreciation method where a fixed percentage is applied to opening book value each year                               |
+| Provision for depreciation | Account used to accumulate depreciation separately instead of reducing the asset account directly                     |
+| Asset disposal account     | Temporary account used to collect cost, depreciation, sale proceeds, and profit or loss on an asset sold or discarded |
+| Provision                  | Amount charged against profit for a known liability or expected loss whose amount is uncertain                        |
+| Reserve                    | Part of profit set aside after profit is calculated                                                                   |
+| Revenue reserve            | Reserve created from revenue profits                                                                                  |
+| Capital reserve            | Reserve created mainly from capital profits                                                                           |
+| Secret reserve             | Reserve not shown separately in the balance sheet                                                                     |
 
 # Unit 7A: Why Depreciation Is Needed
 
@@ -135,16 +136,16 @@ In accounting, depreciation is the expired portion of the cost of a fixed asset.
 
 ## Features of Depreciation
 
-| Feature | Explanation |
-|---|---|
+| Feature               | Explanation                                              |
+| --------------------- | -------------------------------------------------------- |
 | Decline in book value | Depreciation reduces the carrying value of a fixed asset |
-| Permanent decrease | It is not treated as a temporary change in market price |
-| Continuing process | It is recorded year after year during useful life |
-| Gradual process | Normal depreciation happens over time, not suddenly |
-| Expense | It is debited to profit and loss account |
-| Non-cash item | Recording it does not involve current cash outflow |
-| Cost allocation | It spreads historical cost over useful life |
-| Not valuation | It does not attempt to show exact current market price |
+| Permanent decrease    | It is not treated as a temporary change in market price  |
+| Continuing process    | It is recorded year after year during useful life        |
+| Gradual process       | Normal depreciation happens over time, not suddenly      |
+| Expense               | It is debited to profit and loss account                 |
+| Non-cash item         | Recording it does not involve current cash outflow       |
+| Cost allocation       | It spreads historical cost over useful life              |
+| Not valuation         | It does not attempt to show exact current market price   |
 
 ## Depreciable Assets
 
@@ -170,14 +171,14 @@ Examples:
 
 ## Assets Normally Not Depreciated in the Same Way
 
-| Item | Reason |
-|---|---|
-| Stock | It is current asset held for sale |
-| Debtors | It is receivable, not a fixed asset |
-| Cash | It is money, not a depreciable asset |
-| Freehold land | It usually has unlimited useful life unless value is being exhausted or special conditions apply |
-| Natural resources | Their expiry is treated as depletion |
-| Intangible rights | Their cost is usually written off through amortisation |
+| Item              | Reason                                                                                           |
+| ----------------- | ------------------------------------------------------------------------------------------------ |
+| Stock             | It is current asset held for sale                                                                |
+| Debtors           | It is receivable, not a fixed asset                                                              |
+| Cash              | It is money, not a depreciable asset                                                             |
+| Freehold land     | It usually has unlimited useful life unless value is being exhausted or special conditions apply |
+| Natural resources | Their expiry is treated as depletion                                                             |
+| Intangible rights | Their cost is usually written off through amortisation                                           |
 
 # Unit 7C: Depreciation, Depletion, and Amortisation
 
@@ -239,11 +240,11 @@ A patent is bought for Rs. 10,00,000 and is useful for 10 years. The business ma
 
 ## Comparison Table
 
-| Basis | Depreciation | Depletion | Amortisation |
-|---|---|---|---|
-| Asset type | Tangible fixed assets | Natural resources | Intangible assets |
-| Main cause | Use, time, obsolescence | Extraction or exhaustion | Expiry of legal or economic benefit |
-| Example | Machinery | Coal mine | Patent |
+| Basis              | Depreciation                   | Depletion                                       | Amortisation                               |
+| ------------------ | ------------------------------ | ----------------------------------------------- | ------------------------------------------ |
+| Asset type         | Tangible fixed assets          | Natural resources                               | Intangible assets                          |
+| Main cause         | Use, time, obsolescence        | Extraction or exhaustion                        | Expiry of legal or economic benefit        |
+| Example            | Machinery                      | Coal mine                                       | Patent                                     |
 | Accounting purpose | Allocate cost over useful life | Allocate cost over quantity or period exhausted | Write off intangible cost over useful life |
 
 # Unit 7D: Causes of Depreciation
@@ -352,11 +353,11 @@ Depreciation is an expense. Profit cannot be correctly calculated without deduct
 
 Example:
 
-| Particulars | Rs. |
-|---|---:|
+| Particulars                |    Rs. |
+| -------------------------- | -----: |
 | Profit before depreciation | 50,000 |
-| Less: Depreciation | 10,000 |
-| Profit after depreciation | 40,000 |
+| Less: Depreciation         | 10,000 |
+| Profit after depreciation  | 40,000 |
 
 If depreciation is ignored, profit appears as Rs. 50,000 instead of Rs. 40,000.
 
@@ -437,11 +438,11 @@ Estimated selling value - estimated disposal expenses
 
 Example:
 
-| Particulars | Rs. |
-|---|---:|
+| Particulars                        |   Rs. |
+| ---------------------------------- | ----: |
 | Expected sale value at end of life | 6,000 |
-| Less: Expected disposal expenses | 1,000 |
-| Net residual value | 5,000 |
+| Less: Expected disposal expenses   | 1,000 |
+| Net residual value                 | 5,000 |
 
 ## 3. Depreciable Cost
 
@@ -453,11 +454,11 @@ Formula:
 
 Example:
 
-| Particulars | Rs. |
-|---|---:|
-| Cost of machine | 50,000 |
-| Less: Net residual value | 5,000 |
-| Depreciable cost | 45,000 |
+| Particulars              |    Rs. |
+| ------------------------ | -----: |
+| Cost of machine          | 50,000 |
+| Less: Net residual value |  5,000 |
+| Depreciable cost         | 45,000 |
 
 The total depreciation charged over the useful life should normally equal Rs. 45,000 in this example.
 
@@ -480,14 +481,14 @@ A machine may physically run for 12 years, but after 5 years it may become uneco
 
 ## Factors Affecting Useful Life
 
-| Factor | Effect |
-|---|---|
-| Number of shifts | More shifts usually reduce useful life |
-| Maintenance policy | Better maintenance may extend useful life |
-| Technological change | Faster change may shorten useful life |
-| Legal limits | Lease period or license period may restrict life |
-| Market demand | Falling demand may reduce economic usefulness |
-| Production method | Better methods may make old assets unsuitable |
+| Factor               | Effect                                           |
+| -------------------- | ------------------------------------------------ |
+| Number of shifts     | More shifts usually reduce useful life           |
+| Maintenance policy   | Better maintenance may extend useful life        |
+| Technological change | Faster change may shorten useful life            |
+| Legal limits         | Lease period or license period may restrict life |
+| Market demand        | Falling demand may reduce economic usefulness    |
+| Production method    | Better methods may make old assets unsuitable    |
 
 # Unit 7G: Straight Line Method
 
@@ -520,11 +521,11 @@ Useful life = 10 years
 
 Calculation:
 
-| Particulars | Rs. |
-|---|---:|
-| Cost of asset | 2,50,000 |
-| Less: Residual value | 50,000 |
-| Depreciable cost | 2,00,000 |
+| Particulars          |      Rs. |
+| -------------------- | -------: |
+| Cost of asset        | 2,50,000 |
+| Less: Residual value |   50,000 |
+| Depreciable cost     | 2,00,000 |
 
 Annual depreciation = Rs. 2,00,000 / 10 = Rs. 20,000
 
@@ -533,17 +534,17 @@ Rate of depreciation = Rs. 20,000 / Rs. 2,50,000 x 100 = 8%
 ## Depreciation Schedule Under Straight Line Method
 
 | Year | Opening Book Value Rs. | Depreciation Rs. | Closing Book Value Rs. |
-|---|---:|---:|---:|
-| 1 | 2,50,000 | 20,000 | 2,30,000 |
-| 2 | 2,30,000 | 20,000 | 2,10,000 |
-| 3 | 2,10,000 | 20,000 | 1,90,000 |
-| 4 | 1,90,000 | 20,000 | 1,70,000 |
-| 5 | 1,70,000 | 20,000 | 1,50,000 |
-| 6 | 1,50,000 | 20,000 | 1,30,000 |
-| 7 | 1,30,000 | 20,000 | 1,10,000 |
-| 8 | 1,10,000 | 20,000 | 90,000 |
-| 9 | 90,000 | 20,000 | 70,000 |
-| 10 | 70,000 | 20,000 | 50,000 |
+| ---- | ---------------------: | ---------------: | ---------------------: |
+| 1    |               2,50,000 |           20,000 |               2,30,000 |
+| 2    |               2,30,000 |           20,000 |               2,10,000 |
+| 3    |               2,10,000 |           20,000 |               1,90,000 |
+| 4    |               1,90,000 |           20,000 |               1,70,000 |
+| 5    |               1,70,000 |           20,000 |               1,50,000 |
+| 6    |               1,50,000 |           20,000 |               1,30,000 |
+| 7    |               1,30,000 |           20,000 |               1,10,000 |
+| 8    |               1,10,000 |           20,000 |                 90,000 |
+| 9    |                 90,000 |           20,000 |                 70,000 |
+| 10   |                 70,000 |           20,000 |                 50,000 |
 
 The asset reaches the estimated residual value of Rs. 50,000 after 10 years.
 
@@ -612,10 +613,10 @@ Cost of asset = Rs. 2,00,000
 Rate of depreciation = 10% p.a.
 
 | Year | Opening WDV Rs. | Depreciation at 10% Rs. | Closing WDV Rs. |
-|---|---:|---:|---:|
-| 1 | 2,00,000 | 20,000 | 1,80,000 |
-| 2 | 1,80,000 | 18,000 | 1,62,000 |
-| 3 | 1,62,000 | 16,200 | 1,45,800 |
+| ---- | --------------: | ----------------------: | --------------: |
+| 1    |        2,00,000 |                  20,000 |        1,80,000 |
+| 2    |        1,80,000 |                  18,000 |        1,62,000 |
+| 3    |        1,62,000 |                  16,200 |        1,45,800 |
 
 The amount of depreciation decreases every year because the base amount decreases every year.
 
@@ -682,16 +683,16 @@ Written down value method charges depreciation on opening book value each year.
 
 ## Comparison Table
 
-| Basis | Straight Line Method | Written Down Value Method |
-|---|---|---|
-| Base for depreciation | Original cost or depreciable cost | Opening book value |
-| Amount of depreciation | Same every year | Declines every year |
-| Book value | Reduces by equal amount | Reduces by decreasing amount |
-| Asset value at end | Can reach residual value or zero | Does not reach zero by fixed percentage |
-| Repair plus depreciation | Usually increases in later years | Tends to remain more balanced |
-| Simplicity | Very simple | Slightly more complex |
-| Suitability | Assets with stable use | Assets with rising repairs or fast obsolescence |
-| Examples | Leasehold building, patent, furniture | Machinery, vehicles, computers |
+| Basis                    | Straight Line Method                  | Written Down Value Method                       |
+| ------------------------ | ------------------------------------- | ----------------------------------------------- |
+| Base for depreciation    | Original cost or depreciable cost     | Opening book value                              |
+| Amount of depreciation   | Same every year                       | Declines every year                             |
+| Book value               | Reduces by equal amount               | Reduces by decreasing amount                    |
+| Asset value at end       | Can reach residual value or zero      | Does not reach zero by fixed percentage         |
+| Repair plus depreciation | Usually increases in later years      | Tends to remain more balanced                   |
+| Simplicity               | Very simple                           | Slightly more complex                           |
+| Suitability              | Assets with stable use                | Assets with rising repairs or fast obsolescence |
+| Examples                 | Leasehold building, patent, furniture | Machinery, vehicles, computers                  |
 
 ## Which Method Should Be Chosen?
 
@@ -734,10 +735,10 @@ The asset account shows written down value after depreciation.
 
 ### 1. Purchase of Asset
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Asset A/c Dr. | xxx |  |
-| To Bank/Vendor A/c |  | xxx |
+| Entry              | Debit Rs. | Credit Rs. |
+| ------------------ | --------: | ---------: |
+| Asset A/c Dr.      |       xxx |            |
+| To Bank/Vendor A/c |           |        xxx |
 
 Narration:
 
@@ -745,10 +746,10 @@ Asset purchased including directly attributable cost.
 
 ### 2. Depreciation at Year End
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Depreciation A/c Dr. | xxx |  |
-| To Asset A/c |  | xxx |
+| Entry                | Debit Rs. | Credit Rs. |
+| -------------------- | --------: | ---------: |
+| Depreciation A/c Dr. |       xxx |            |
+| To Asset A/c         |           |        xxx |
 
 Narration:
 
@@ -756,10 +757,10 @@ Depreciation charged on asset.
 
 ### 3. Transfer to Profit and Loss Account
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Profit and Loss A/c Dr. | xxx |  |
-| To Depreciation A/c |  | xxx |
+| Entry                   | Debit Rs. | Credit Rs. |
+| ----------------------- | --------: | ---------: |
+| Profit and Loss A/c Dr. |       xxx |            |
+| To Depreciation A/c     |           |        xxx |
 
 Narration:
 
@@ -773,10 +774,10 @@ The asset appears at net book value:
 
 Example:
 
-| Particulars | Rs. |
-|---|---:|
-| Machinery cost | 5,50,000 |
-| Less: Depreciation charged | 54,000 |
+| Particulars                      |      Rs. |
+| -------------------------------- | -------: |
+| Machinery cost                   | 5,50,000 |
+| Less: Depreciation charged       |   54,000 |
 | Machinery shown in balance sheet | 4,96,000 |
 
 ## Method 2: Provision for Depreciation Account
@@ -794,24 +795,24 @@ This accumulated depreciation account may be called:
 
 ### 1. Purchase of Asset
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Asset A/c Dr. | xxx |  |
-| To Bank/Vendor A/c |  | xxx |
+| Entry              | Debit Rs. | Credit Rs. |
+| ------------------ | --------: | ---------: |
+| Asset A/c Dr.      |       xxx |            |
+| To Bank/Vendor A/c |           |        xxx |
 
 ### 2. Recording Depreciation
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Depreciation A/c Dr. | xxx |  |
-| To Provision for Depreciation A/c |  | xxx |
+| Entry                             | Debit Rs. | Credit Rs. |
+| --------------------------------- | --------: | ---------: |
+| Depreciation A/c Dr.              |       xxx |            |
+| To Provision for Depreciation A/c |           |        xxx |
 
 ### 3. Transfer to Profit and Loss Account
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Profit and Loss A/c Dr. | xxx |  |
-| To Depreciation A/c |  | xxx |
+| Entry                   | Debit Rs. | Credit Rs. |
+| ----------------------- | --------: | ---------: |
+| Profit and Loss A/c Dr. |       xxx |            |
+| To Depreciation A/c     |           |        xxx |
 
 ## Balance Sheet Treatment
 
@@ -819,11 +820,11 @@ There are two common presentations:
 
 ### Presentation 1: Deduction from Asset
 
-| Particulars | Rs. |
-|---|---:|
-| Machinery at cost | 5,50,000 |
-| Less: Provision for depreciation | 54,000 |
-| Written down value | 4,96,000 |
+| Particulars                      |      Rs. |
+| -------------------------------- | -------: |
+| Machinery at cost                | 5,50,000 |
+| Less: Provision for depreciation |   54,000 |
+| Written down value               | 4,96,000 |
 
 ### Presentation 2: Provision on Liabilities Side
 
@@ -833,12 +834,12 @@ The modern and clearer method is usually to show accumulated depreciation as a d
 
 ## Difference Between the Two Recording Methods
 
-| Basis | Direct Asset Method | Provision Method |
-|---|---|---|
-| Asset account | Reduced by depreciation | Remains at original cost |
-| Depreciation credit | Credited to asset account | Credited to provision for depreciation |
-| Balance sheet | Asset shown at WDV | Asset at cost less provision, or provision shown separately |
-| Usefulness | Simple | Shows cost and accumulated depreciation separately |
+| Basis               | Direct Asset Method       | Provision Method                                            |
+| ------------------- | ------------------------- | ----------------------------------------------------------- |
+| Asset account       | Reduced by depreciation   | Remains at original cost                                    |
+| Depreciation credit | Credited to asset account | Credited to provision for depreciation                      |
+| Balance sheet       | Asset shown at WDV        | Asset at cost less provision, or provision shown separately |
+| Usefulness          | Simple                    | Shows cost and accumulated depreciation separately          |
 
 # Unit 7K: Worked Example - Straight Line With Direct Asset Method
 
@@ -850,11 +851,11 @@ Prepare journal entries and show plant account for the first three years when de
 
 ## Step 1: Calculate Cost
 
-| Particulars | Rs. |
-|---|---:|
-| Purchase price | 5,00,000 |
-| Installation cost | 50,000 |
-| Total cost | 5,50,000 |
+| Particulars       |      Rs. |
+| ----------------- | -------: |
+| Purchase price    | 5,00,000 |
+| Installation cost |   50,000 |
+| Total cost        | 5,50,000 |
 
 ## Step 2: Calculate Annual Depreciation
 
@@ -866,30 +867,30 @@ Prepare journal entries and show plant account for the first three years when de
 
 ## Journal Entries
 
-| Date | Particulars | Debit Rs. | Credit Rs. |
-|---|---|---:|---:|
-| Apr. 1 | Plant A/c Dr. | 5,00,000 |  |
-|  | To Bank A/c |  | 5,00,000 |
-| Apr. 1 | Plant A/c Dr. | 50,000 |  |
-|  | To Bank A/c |  | 50,000 |
-| Mar. 31 | Depreciation A/c Dr. | 54,000 |  |
-|  | To Plant A/c |  | 54,000 |
-| Mar. 31 | Profit and Loss A/c Dr. | 54,000 |  |
-|  | To Depreciation A/c |  | 54,000 |
+| Date    | Particulars             | Debit Rs. | Credit Rs. |
+| ------- | ----------------------- | --------: | ---------: |
+| Apr. 1  | Plant A/c Dr.           |  5,00,000 |            |
+|         | To Bank A/c             |           |   5,00,000 |
+| Apr. 1  | Plant A/c Dr.           |    50,000 |            |
+|         | To Bank A/c             |           |     50,000 |
+| Mar. 31 | Depreciation A/c Dr.    |    54,000 |            |
+|         | To Plant A/c            |           |     54,000 |
+| Mar. 31 | Profit and Loss A/c Dr. |    54,000 |            |
+|         | To Depreciation A/c     |           |     54,000 |
 
 ## Plant Account
 
-| Year | Debit Particulars | Debit Rs. | Credit Particulars | Credit Rs. |
-|---|---|---:|---|---:|
-| Year 1 | Bank | 5,00,000 | Depreciation | 54,000 |
-| Year 1 | Bank - installation | 50,000 | Balance c/d | 4,96,000 |
-|  | Total | 5,50,000 | Total | 5,50,000 |
-| Year 2 | Balance b/d | 4,96,000 | Depreciation | 54,000 |
-| Year 2 |  |  | Balance c/d | 4,42,000 |
-|  | Total | 4,96,000 | Total | 4,96,000 |
-| Year 3 | Balance b/d | 4,42,000 | Depreciation | 54,000 |
-| Year 3 |  |  | Balance c/d | 3,88,000 |
-|  | Total | 4,42,000 | Total | 4,42,000 |
+| Year   | Debit Particulars   | Debit Rs. | Credit Particulars | Credit Rs. |
+| ------ | ------------------- | --------: | ------------------ | ---------: |
+| Year 1 | Bank                |  5,00,000 | Depreciation       |     54,000 |
+| Year 1 | Bank - installation |    50,000 | Balance c/d        |   4,96,000 |
+|        | Total               |  5,50,000 | Total              |   5,50,000 |
+| Year 2 | Balance b/d         |  4,96,000 | Depreciation       |     54,000 |
+| Year 2 |                     |           | Balance c/d        |   4,42,000 |
+|        | Total               |  4,96,000 | Total              |   4,96,000 |
+| Year 3 | Balance b/d         |  4,42,000 | Depreciation       |     54,000 |
+| Year 3 |                     |           | Balance c/d        |   3,88,000 |
+|        | Total               |  4,42,000 | Total              |   4,42,000 |
 
 # Unit 7L: Worked Example - Part-Year Depreciation
 
@@ -901,10 +902,10 @@ Prepare depreciation for the first three years using direct asset method.
 
 ## Step 1: Cost
 
-| Particulars | Rs. |
-|---|---:|
-| Purchase price | 1,80,000 |
-| Installation | 20,000 |
+| Particulars     |      Rs. |
+| --------------- | -------: |
+| Purchase price  | 1,80,000 |
+| Installation    |   20,000 |
 | Cost of machine | 2,00,000 |
 
 ## Step 2: Full-Year Depreciation
@@ -919,11 +920,11 @@ The machine is used from October 1 to March 31, which is 6 months.
 
 ## Depreciation Schedule
 
-| Year End | Opening Value Rs. | Depreciation Rs. | Closing Value Rs. |
-|---|---:|---:|---:|
-| Mar. 31, Year 1 | 2,00,000 | 10,000 | 1,90,000 |
-| Mar. 31, Year 2 | 1,90,000 | 20,000 | 1,70,000 |
-| Mar. 31, Year 3 | 1,70,000 | 20,000 | 1,50,000 |
+| Year End        | Opening Value Rs. | Depreciation Rs. | Closing Value Rs. |
+| --------------- | ----------------: | ---------------: | ----------------: |
+| Mar. 31, Year 1 |          2,00,000 |           10,000 |          1,90,000 |
+| Mar. 31, Year 2 |          1,90,000 |           20,000 |          1,70,000 |
+| Mar. 31, Year 3 |          1,70,000 |           20,000 |          1,50,000 |
 
 ## Learning Point
 
@@ -945,31 +946,31 @@ Use the machine from the previous example:
 
 The machine account remains at original cost.
 
-| Year | Debit Particulars | Debit Rs. | Credit Particulars | Credit Rs. |
-|---|---|---:|---|---:|
-| Year 1 | Bank | 1,80,000 | Balance c/d | 2,00,000 |
-| Year 1 | Bank - installation | 20,000 |  |  |
-|  | Total | 2,00,000 | Total | 2,00,000 |
-| Year 2 | Balance b/d | 2,00,000 | Balance c/d | 2,00,000 |
-| Year 3 | Balance b/d | 2,00,000 | Balance c/d | 2,00,000 |
+| Year   | Debit Particulars   | Debit Rs. | Credit Particulars | Credit Rs. |
+| ------ | ------------------- | --------: | ------------------ | ---------: |
+| Year 1 | Bank                |  1,80,000 | Balance c/d        |   2,00,000 |
+| Year 1 | Bank - installation |    20,000 |                    |            |
+|        | Total               |  2,00,000 | Total              |   2,00,000 |
+| Year 2 | Balance b/d         |  2,00,000 | Balance c/d        |   2,00,000 |
+| Year 3 | Balance b/d         |  2,00,000 | Balance c/d        |   2,00,000 |
 
 ## Provision for Depreciation Account
 
-| Year | Debit Particulars | Debit Rs. | Credit Particulars | Credit Rs. |
-|---|---|---:|---|---:|
-| Year 1 | Balance c/d | 10,000 | Depreciation | 10,000 |
-| Year 2 | Balance c/d | 30,000 | Balance b/d | 10,000 |
-| Year 2 |  |  | Depreciation | 20,000 |
-| Year 3 | Balance c/d | 50,000 | Balance b/d | 30,000 |
-| Year 3 |  |  | Depreciation | 20,000 |
+| Year   | Debit Particulars | Debit Rs. | Credit Particulars | Credit Rs. |
+| ------ | ----------------- | --------: | ------------------ | ---------: |
+| Year 1 | Balance c/d       |    10,000 | Depreciation       |     10,000 |
+| Year 2 | Balance c/d       |    30,000 | Balance b/d        |     10,000 |
+| Year 2 |                   |           | Depreciation       |     20,000 |
+| Year 3 | Balance c/d       |    50,000 | Balance b/d        |     30,000 |
+| Year 3 |                   |           | Depreciation       |     20,000 |
 
 ## Depreciation Account
 
-| Year | Debit Particulars | Debit Rs. | Credit Particulars | Credit Rs. |
-|---|---|---:|---|---:|
-| Year 1 | Provision for Depreciation | 10,000 | Profit and Loss | 10,000 |
-| Year 2 | Provision for Depreciation | 20,000 | Profit and Loss | 20,000 |
-| Year 3 | Provision for Depreciation | 20,000 | Profit and Loss | 20,000 |
+| Year   | Debit Particulars          | Debit Rs. | Credit Particulars | Credit Rs. |
+| ------ | -------------------------- | --------: | ------------------ | ---------: |
+| Year 1 | Provision for Depreciation |    10,000 | Profit and Loss    |     10,000 |
+| Year 2 | Provision for Depreciation |    20,000 | Profit and Loss    |     20,000 |
+| Year 3 | Provision for Depreciation |    20,000 | Profit and Loss    |     20,000 |
 
 ## Learning Point
 
@@ -1025,17 +1026,17 @@ WDV on March 31, 2017 = Rs. 63,850 - Rs. 12,770 = Rs. 51,080
 
 ## Printing Machine Account
 
-| Year | Debit Particulars | Debit Rs. | Credit Particulars | Credit Rs. |
-|---|---|---:|---|---:|
-| 2014-15 | Bank | 40,000 | Depreciation | 6,750 |
-| 2014-15 | Bank - transport and installation | 5,000 | Balance c/d | 38,250 |
-|  | Total | 45,000 | Total | 45,000 |
-| 2015-16 | Balance b/d | 38,250 | Depreciation | 9,400 |
-| 2015-16 | Bank | 35,000 | Balance c/d | 63,850 |
-|  | Total | 73,250 | Total | 73,250 |
-| 2016-17 | Balance b/d | 63,850 | Depreciation | 12,770 |
-| 2016-17 |  |  | Balance c/d | 51,080 |
-|  | Total | 63,850 | Total | 63,850 |
+| Year    | Debit Particulars                 | Debit Rs. | Credit Particulars | Credit Rs. |
+| ------- | --------------------------------- | --------: | ------------------ | ---------: |
+| 2014-15 | Bank                              |    40,000 | Depreciation       |      6,750 |
+| 2014-15 | Bank - transport and installation |     5,000 | Balance c/d        |     38,250 |
+|         | Total                             |    45,000 | Total              |     45,000 |
+| 2015-16 | Balance b/d                       |    38,250 | Depreciation       |      9,400 |
+| 2015-16 | Bank                              |    35,000 | Balance c/d        |     63,850 |
+|         | Total                             |    73,250 | Total              |     73,250 |
+| 2016-17 | Balance b/d                       |    63,850 | Depreciation       |     12,770 |
+| 2016-17 |                                   |           | Balance c/d        |     51,080 |
+|         | Total                             |    63,850 | Total              |     63,850 |
 
 # Unit 7O: Disposal of Asset
 
@@ -1065,24 +1066,24 @@ Profit or loss is found by comparing sale proceeds with book value.
 
 ### Entry for Sale
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Bank A/c Dr. | xxx |  |
-| To Asset A/c |  | xxx |
+| Entry        | Debit Rs. | Credit Rs. |
+| ------------ | --------: | ---------: |
+| Bank A/c Dr. |       xxx |            |
+| To Asset A/c |           |        xxx |
 
 ### Entry for Profit
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Asset A/c Dr. | xxx |  |
-| To Profit and Loss A/c |  | xxx |
+| Entry                  | Debit Rs. | Credit Rs. |
+| ---------------------- | --------: | ---------: |
+| Asset A/c Dr.          |       xxx |            |
+| To Profit and Loss A/c |           |        xxx |
 
 ### Entry for Loss
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Profit and Loss A/c Dr. | xxx |  |
-| To Asset A/c |  | xxx |
+| Entry                   | Debit Rs. | Credit Rs. |
+| ----------------------- | --------: | ---------: |
+| Profit and Loss A/c Dr. |       xxx |            |
+| To Asset A/c            |           |        xxx |
 
 ## Disposal When Provision for Depreciation Is Maintained
 
@@ -1090,10 +1091,10 @@ Before finding profit or loss, accumulated depreciation relating to the asset so
 
 ### Entry to Transfer Accumulated Depreciation
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Provision for Depreciation A/c Dr. | xxx |  |
-| To Asset A/c |  | xxx |
+| Entry                              | Debit Rs. | Credit Rs. |
+| ---------------------------------- | --------: | ---------: |
+| Provision for Depreciation A/c Dr. |       xxx |            |
+| To Asset A/c                       |           |        xxx |
 
 After this, sale proceeds and profit or loss are recorded.
 
@@ -1112,56 +1113,56 @@ It is especially useful when:
 
 ## What Goes Into Asset Disposal Account
 
-| Debit Side | Credit Side |
-|---|---|
-| Original cost of asset sold | Accumulated depreciation on asset sold |
-| Loss transferred to profit and loss account, if any | Sale proceeds or insurance claim |
-|  | Value of parts retained, if any |
-|  | Profit transferred to profit and loss account, if any |
+| Debit Side                                          | Credit Side                                           |
+| --------------------------------------------------- | ----------------------------------------------------- |
+| Original cost of asset sold                         | Accumulated depreciation on asset sold                |
+| Loss transferred to profit and loss account, if any | Sale proceeds or insurance claim                      |
+|                                                     | Value of parts retained, if any                       |
+|                                                     | Profit transferred to profit and loss account, if any |
 
 ## Journal Entries for Asset Disposal Account
 
 ### 1. Transfer Original Cost of Asset Sold
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Asset Disposal A/c Dr. | xxx |  |
-| To Asset A/c |  | xxx |
+| Entry                  | Debit Rs. | Credit Rs. |
+| ---------------------- | --------: | ---------: |
+| Asset Disposal A/c Dr. |       xxx |            |
+| To Asset A/c           |           |        xxx |
 
 ### 2. Transfer Accumulated Depreciation
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Provision for Depreciation A/c Dr. | xxx |  |
-| To Asset Disposal A/c |  | xxx |
+| Entry                              | Debit Rs. | Credit Rs. |
+| ---------------------------------- | --------: | ---------: |
+| Provision for Depreciation A/c Dr. |       xxx |            |
+| To Asset Disposal A/c              |           |        xxx |
 
 ### 3. Record Sale Proceeds
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Bank A/c Dr. | xxx |  |
-| To Asset Disposal A/c |  | xxx |
+| Entry                 | Debit Rs. | Credit Rs. |
+| --------------------- | --------: | ---------: |
+| Bank A/c Dr.          |       xxx |            |
+| To Asset Disposal A/c |           |        xxx |
 
 If money is receivable from insurance company:
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Insurance Company A/c Dr. | xxx |  |
-| To Asset Disposal A/c |  | xxx |
+| Entry                     | Debit Rs. | Credit Rs. |
+| ------------------------- | --------: | ---------: |
+| Insurance Company A/c Dr. |       xxx |            |
+| To Asset Disposal A/c     |           |        xxx |
 
 ### 4. Transfer Loss
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Profit and Loss A/c Dr. | xxx |  |
-| To Asset Disposal A/c |  | xxx |
+| Entry                   | Debit Rs. | Credit Rs. |
+| ----------------------- | --------: | ---------: |
+| Profit and Loss A/c Dr. |       xxx |            |
+| To Asset Disposal A/c   |           |        xxx |
 
 ### 5. Transfer Profit
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Asset Disposal A/c Dr. | xxx |  |
-| To Profit and Loss A/c |  | xxx |
+| Entry                  | Debit Rs. | Credit Rs. |
+| ---------------------- | --------: | ---------: |
+| Asset Disposal A/c Dr. |       xxx |            |
+| To Profit and Loss A/c |           |        xxx |
 
 ## Worked Example: Disposal Account
 
@@ -1173,30 +1174,30 @@ Prepare machinery disposal account.
 
 ## Calculation
 
-| Particulars | Rs. |
-|---|---:|
-| Original cost of machine sold | 1,00,000 |
-| Less: Accumulated depreciation | 60,000 |
-| Book value | 40,000 |
-| Less: Sale proceeds | 35,000 |
-| Loss on sale | 5,000 |
+| Particulars                    |      Rs. |
+| ------------------------------ | -------: |
+| Original cost of machine sold  | 1,00,000 |
+| Less: Accumulated depreciation |   60,000 |
+| Book value                     |   40,000 |
+| Less: Sale proceeds            |   35,000 |
+| Loss on sale                   |    5,000 |
 
 ## Machinery Disposal Account
 
-| Debit Particulars | Debit Rs. | Credit Particulars | Credit Rs. |
-|---|---:|---|---:|
-| Machinery | 1,00,000 | Provision for depreciation | 60,000 |
-|  |  | Bank | 35,000 |
-|  |  | Profit and Loss - loss | 5,000 |
-| Total | 1,00,000 | Total | 1,00,000 |
+| Debit Particulars | Debit Rs. | Credit Particulars         | Credit Rs. |
+| ----------------- | --------: | -------------------------- | ---------: |
+| Machinery         |  1,00,000 | Provision for depreciation |     60,000 |
+|                   |           | Bank                       |     35,000 |
+|                   |           | Profit and Loss - loss     |      5,000 |
+| Total             |  1,00,000 | Total                      |   1,00,000 |
 
 ## Machinery Account After Sale
 
-| Particulars | Rs. |
-|---|---:|
+| Particulars                       |      Rs. |
+| --------------------------------- | -------: |
 | Machinery gross value before sale | 6,00,000 |
-| Less: Cost of machine sold | 1,00,000 |
-| Machinery gross value after sale | 5,00,000 |
+| Less: Cost of machine sold        | 1,00,000 |
+| Machinery gross value after sale  | 5,00,000 |
 
 # Unit 7Q: Worked Example - Trucks, Sale, and New Purchase
 
@@ -1242,12 +1243,12 @@ Remaining four trucks cost Rs. 80,000.
 
 The second truck has depreciation:
 
-| Year | Rs. |
-|---|---:|
+| Year           |   Rs. |
+| -------------- | ----: |
 | 2015 full year | 2,000 |
 | 2016 full year | 2,000 |
 | 2017 half year | 1,000 |
-| Total | 5,000 |
+| Total          | 5,000 |
 
 Book value = Rs. 20,000 - Rs. 5,000 = Rs. 15,000
 
@@ -1257,39 +1258,39 @@ Profit = Rs. 3,000
 
 ## Step 6: Depreciation for 2017
 
-| Asset group | Calculation | Depreciation Rs. |
-|---|---|---:|
-| Three old trucks for full year | Rs. 60,000 x 10% | 6,000 |
-| Truck sold on July 1 for half year | Rs. 20,000 x 10% x 6/12 | 1,000 |
-| New truck from October 1 for 3 months | Rs. 30,000 x 10% x 3/12 | 750 |
-| Total |  | 7,750 |
+| Asset group                           | Calculation             | Depreciation Rs. |
+| ------------------------------------- | ----------------------- | ---------------: |
+| Three old trucks for full year        | Rs. 60,000 x 10%        |            6,000 |
+| Truck sold on July 1 for half year    | Rs. 20,000 x 10% x 6/12 |            1,000 |
+| New truck from October 1 for 3 months | Rs. 30,000 x 10% x 3/12 |              750 |
+| Total                                 |                         |            7,750 |
 
 ## Trucks Account
 
 | Year | Debit Particulars | Debit Rs. | Credit Particulars | Credit Rs. |
-|---|---|---:|---|---:|
-| 2015 | Bank | 1,00,000 | Balance c/d | 1,00,000 |
-| 2016 | Balance b/d | 1,00,000 | Truck Disposal | 20,000 |
-| 2016 |  |  | Balance c/d | 80,000 |
-| 2017 | Balance b/d | 80,000 | Truck Disposal | 20,000 |
-| 2017 | Bank - new truck | 30,000 | Balance c/d | 90,000 |
+| ---- | ----------------- | --------: | ------------------ | ---------: |
+| 2015 | Bank              |  1,00,000 | Balance c/d        |   1,00,000 |
+| 2016 | Balance b/d       |  1,00,000 | Truck Disposal     |     20,000 |
+| 2016 |                   |           | Balance c/d        |     80,000 |
+| 2017 | Balance b/d       |    80,000 | Truck Disposal     |     20,000 |
+| 2017 | Bank - new truck  |    30,000 | Balance c/d        |     90,000 |
 
 ## Provision for Depreciation Account
 
 | Year | Debit Particulars | Debit Rs. | Credit Particulars | Credit Rs. |
-|---|---|---:|---|---:|
-| 2015 | Balance c/d | 10,000 | Depreciation | 10,000 |
-| 2016 | Truck Disposal | 2,000 | Balance b/d | 10,000 |
-| 2016 | Balance c/d | 16,000 | Depreciation | 8,000 |
-| 2017 | Truck Disposal | 5,000 | Balance b/d | 16,000 |
-| 2017 | Balance c/d | 18,750 | Depreciation | 7,750 |
+| ---- | ----------------- | --------: | ------------------ | ---------: |
+| 2015 | Balance c/d       |    10,000 | Depreciation       |     10,000 |
+| 2016 | Truck Disposal    |     2,000 | Balance b/d        |     10,000 |
+| 2016 | Balance c/d       |    16,000 | Depreciation       |      8,000 |
+| 2017 | Truck Disposal    |     5,000 | Balance b/d        |     16,000 |
+| 2017 | Balance c/d       |    18,750 | Depreciation       |      7,750 |
 
 ## Disposal Results
 
-| Disposal | Book Value Rs. | Proceeds Rs. | Result |
-|---|---:|---:|---|
-| Truck sold Jan. 1, 2016 | 18,000 | 15,000 | Loss Rs. 3,000 |
-| Truck sold Jul. 1, 2017 | 15,000 | 18,000 | Profit Rs. 3,000 |
+| Disposal                | Book Value Rs. | Proceeds Rs. | Result           |
+| ----------------------- | -------------: | -----------: | ---------------- |
+| Truck sold Jan. 1, 2016 |         18,000 |       15,000 | Loss Rs. 3,000   |
+| Truck sold Jul. 1, 2017 |         15,000 |       18,000 | Profit Rs. 3,000 |
 
 # Unit 7R: Additions, Extensions, and Repairs
 
@@ -1332,13 +1333,13 @@ Revenue expenditure is debited to profit and loss account.
 
 ## Treatment of Addition or Extension
 
-| Situation | Treatment |
-|---|---|
-| Addition becomes integral part of existing asset | Add to asset cost and depreciate over useful life of asset or at same rate |
-| Addition has separate identity and can be used independently | Depreciate separately over its own useful life |
-| Routine repair | Charge to profit and loss account |
-| Replacement improves efficiency or capacity | Capitalise if it gives future benefit |
-| Replacement only restores normal condition | Treat as repair expense |
+| Situation                                                    | Treatment                                                                  |
+| ------------------------------------------------------------ | -------------------------------------------------------------------------- |
+| Addition becomes integral part of existing asset             | Add to asset cost and depreciate over useful life of asset or at same rate |
+| Addition has separate identity and can be used independently | Depreciate separately over its own useful life                             |
+| Routine repair                                               | Charge to profit and loss account                                          |
+| Replacement improves efficiency or capacity                  | Capitalise if it gives future benefit                                      |
+| Replacement only restores normal condition                   | Treat as repair expense                                                    |
 
 ## Worked Example: Modification and Routine Repair
 
@@ -1368,11 +1369,11 @@ Total depreciation for 2015-16:
 
 ## Amount Charged to Profit and Loss Account
 
-| Particulars | Rs. |
-|---|---:|
-| Depreciation | 1,76,000 |
-| Routine maintenance | 2,000 |
-| Total charge | 1,78,000 |
+| Particulars         |      Rs. |
+| ------------------- | -------: |
+| Depreciation        | 1,76,000 |
+| Routine maintenance |    2,000 |
+| Total charge        | 1,78,000 |
 
 # Unit 7S: Provisions
 
@@ -1408,14 +1409,14 @@ Provisions are needed to:
 
 ## Features of Provision
 
-| Feature | Explanation |
-|---|---|
-| Charge against profit | It is deducted before calculating true profit |
-| Created for known liability or expected loss | The reason is known, amount is estimated |
-| Created even if there is loss | It is necessary for correct financial statements |
-| Reduces profit | It is debited to profit and loss account |
-| May reduce asset value | Example: provision for doubtful debts deducted from debtors |
-| May appear as liability | Example: provision for tax |
+| Feature                                      | Explanation                                                 |
+| -------------------------------------------- | ----------------------------------------------------------- |
+| Charge against profit                        | It is deducted before calculating true profit               |
+| Created for known liability or expected loss | The reason is known, amount is estimated                    |
+| Created even if there is loss                | It is necessary for correct financial statements            |
+| Reduces profit                               | It is debited to profit and loss account                    |
+| May reduce asset value                       | Example: provision for doubtful debts deducted from debtors |
+| May appear as liability                      | Example: provision for tax                                  |
 
 ## Balance Sheet Presentation
 
@@ -1426,22 +1427,22 @@ Provisions may be shown:
 
 Examples:
 
-| Provision | Balance Sheet Treatment |
-|---|---|
-| Provision for doubtful debts | Deducted from sundry debtors |
-| Provision for depreciation | Deducted from fixed asset or shown separately |
-| Provision for taxation | Shown as liability |
-| Provision for repairs | Shown as liability |
+| Provision                    | Balance Sheet Treatment                       |
+| ---------------------------- | --------------------------------------------- |
+| Provision for doubtful debts | Deducted from sundry debtors                  |
+| Provision for depreciation   | Deducted from fixed asset or shown separately |
+| Provision for taxation       | Shown as liability                            |
+| Provision for repairs        | Shown as liability                            |
 
 # Unit 7T: Provision for Doubtful Debts
 
 ## Debtors Classification
 
-| Type of Debtor | Meaning |
-|---|---|
-| Good debtor | Expected to pay fully |
-| Bad debtor | Amount is not recoverable |
-| Doubtful debtor | Recovery is uncertain |
+| Type of Debtor  | Meaning                   |
+| --------------- | ------------------------- |
+| Good debtor     | Expected to pay fully     |
+| Bad debtor      | Amount is not recoverable |
+| Doubtful debtor | Recovery is uncertain     |
 
 ## Why Provision for Doubtful Debts Is Made
 
@@ -1464,33 +1465,33 @@ When a question gives further bad debts and required provision:
 
 ### 1. Further Bad Debts
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Bad Debts A/c Dr. | xxx |  |
-| To Sundry Debtors A/c |  | xxx |
+| Entry                 | Debit Rs. | Credit Rs. |
+| --------------------- | --------: | ---------: |
+| Bad Debts A/c Dr.     |       xxx |            |
+| To Sundry Debtors A/c |           |        xxx |
 
 ### 2. Transfer Bad Debts to Profit and Loss Account
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Profit and Loss A/c Dr. | xxx |  |
-| To Bad Debts A/c |  | xxx |
+| Entry                   | Debit Rs. | Credit Rs. |
+| ----------------------- | --------: | ---------: |
+| Profit and Loss A/c Dr. |       xxx |            |
+| To Bad Debts A/c        |           |        xxx |
 
 ### 3. Create New Provision
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Profit and Loss A/c Dr. | xxx |  |
-| To Provision for Doubtful Debts A/c |  | xxx |
+| Entry                               | Debit Rs. | Credit Rs. |
+| ----------------------------------- | --------: | ---------: |
+| Profit and Loss A/c Dr.             |       xxx |            |
+| To Provision for Doubtful Debts A/c |           |        xxx |
 
 This entry is used when there is no existing provision, or when the required provision is more than existing provision and the increase is being recorded.
 
 ### 4. If Existing Provision Is More Than Required Provision
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Provision for Doubtful Debts A/c Dr. | xxx |  |
-| To Profit and Loss A/c |  | xxx |
+| Entry                                | Debit Rs. | Credit Rs. |
+| ------------------------------------ | --------: | ---------: |
+| Provision for Doubtful Debts A/c Dr. |       xxx |            |
+| To Profit and Loss A/c               |           |        xxx |
 
 This reduces excess provision and credits profit and loss account.
 
@@ -1512,24 +1513,24 @@ Debtors after bad debts:
 
 ## Journal Entries
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Bad Debts A/c Dr. | 8,000 |  |
-| To Sundry Debtors A/c |  | 8,000 |
-| Profit and Loss A/c Dr. | 8,000 |  |
-| To Bad Debts A/c |  | 8,000 |
-| Profit and Loss A/c Dr. | 6,000 |  |
-| To Provision for Doubtful Debts A/c |  | 6,000 |
+| Particulars                         | Debit Rs. | Credit Rs. |
+| ----------------------------------- | --------: | ---------: |
+| Bad Debts A/c Dr.                   |     8,000 |            |
+| To Sundry Debtors A/c               |           |      8,000 |
+| Profit and Loss A/c Dr.             |     8,000 |            |
+| To Bad Debts A/c                    |           |      8,000 |
+| Profit and Loss A/c Dr.             |     6,000 |            |
+| To Provision for Doubtful Debts A/c |           |      6,000 |
 
 ## Balance Sheet Extract
 
-| Particulars | Rs. |
-|---|---:|
-| Sundry debtors | 68,000 |
-| Less: Further bad debts | 8,000 |
-|  | 60,000 |
-| Less: Provision for doubtful debts | 6,000 |
-| Debtors shown in balance sheet | 54,000 |
+| Particulars                        |    Rs. |
+| ---------------------------------- | -----: |
+| Sundry debtors                     | 68,000 |
+| Less: Further bad debts            |  8,000 |
+|                                    | 60,000 |
+| Less: Provision for doubtful debts |  6,000 |
+| Debtors shown in balance sheet     | 54,000 |
 
 ## Worked Example: Existing Provision
 
@@ -1607,21 +1608,21 @@ Reserves may be created to:
 
 ## Features of Reserves
 
-| Feature | Explanation |
-|---|---|
-| Appropriation of profit | Created after profit is calculated |
-| Usually discretionary | Management may decide, unless law requires it |
-| Cannot be created from loss | Normally needs profit |
-| Shown after capital | Appears under reserves and surplus |
-| Does not reduce taxable profit | Since it is created after profit calculation |
-| May be used for dividend | General reserve may be used, subject to law and policy |
+| Feature                        | Explanation                                            |
+| ------------------------------ | ------------------------------------------------------ |
+| Appropriation of profit        | Created after profit is calculated                     |
+| Usually discretionary          | Management may decide, unless law requires it          |
+| Cannot be created from loss    | Normally needs profit                                  |
+| Shown after capital            | Appears under reserves and surplus                     |
+| Does not reduce taxable profit | Since it is created after profit calculation           |
+| May be used for dividend       | General reserve may be used, subject to law and policy |
 
 ## Journal Entry for Creating Reserve
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Profit and Loss Appropriation A/c Dr. | xxx |  |
-| To Reserve A/c |  | xxx |
+| Entry                                 | Debit Rs. | Credit Rs. |
+| ------------------------------------- | --------: | ---------: |
+| Profit and Loss Appropriation A/c Dr. |       xxx |            |
+| To Reserve A/c                        |           |        xxx |
 
 In a sole proprietorship, the entry may be shown through profit and loss account or capital adjustment depending on the accounting stage. In company accounting, profit and loss appropriation is commonly used for appropriations.
 
@@ -1640,17 +1641,17 @@ This means:
 
 ## Detailed Comparison
 
-| Basis | Provision | Reserve |
-|---|---|---|
-| Nature | Charge against profit | Appropriation of profit |
-| Created for | Known liability or expected loss with uncertain amount | Financial strength, future purpose, legal requirement, or policy |
-| Timing | Before calculating true profit | After calculating profit |
-| Profit requirement | Created even if there is loss | Usually created only when profit exists |
-| Effect on taxable profit | Reduces taxable profit if allowed | Does not reduce taxable profit |
-| Balance sheet | Deducted from asset or shown as liability | Shown after capital under reserves and surplus |
-| Dividend use | Cannot be distributed as dividend | Some reserves may be used for dividend |
-| Compulsion | Necessary under prudence when liability or loss exists | Usually optional unless required by law |
-| Example | Provision for doubtful debts | General reserve |
+| Basis                    | Provision                                              | Reserve                                                          |
+| ------------------------ | ------------------------------------------------------ | ---------------------------------------------------------------- |
+| Nature                   | Charge against profit                                  | Appropriation of profit                                          |
+| Created for              | Known liability or expected loss with uncertain amount | Financial strength, future purpose, legal requirement, or policy |
+| Timing                   | Before calculating true profit                         | After calculating profit                                         |
+| Profit requirement       | Created even if there is loss                          | Usually created only when profit exists                          |
+| Effect on taxable profit | Reduces taxable profit if allowed                      | Does not reduce taxable profit                                   |
+| Balance sheet            | Deducted from asset or shown as liability              | Shown after capital under reserves and surplus                   |
+| Dividend use             | Cannot be distributed as dividend                      | Some reserves may be used for dividend                           |
+| Compulsion               | Necessary under prudence when liability or loss exists | Usually optional unless required by law                          |
+| Example                  | Provision for doubtful debts                           | General reserve                                                  |
 
 ## Memory Aid
 
@@ -1684,22 +1685,22 @@ Specific reserve is created for a particular purpose and should be used only for
 
 Examples:
 
-| Specific Reserve | Purpose |
-|---|---|
-| Dividend equalisation reserve | To maintain stable dividend rate |
-| Workmen compensation fund | To meet worker compensation claims |
-| Investment fluctuation fund | To absorb fall in investment value |
-| Debenture redemption reserve | To support redemption of debentures |
-| Capital redemption reserve | To meet legal capital maintenance requirements |
+| Specific Reserve              | Purpose                                        |
+| ----------------------------- | ---------------------------------------------- |
+| Dividend equalisation reserve | To maintain stable dividend rate               |
+| Workmen compensation fund     | To meet worker compensation claims             |
+| Investment fluctuation fund   | To absorb fall in investment value             |
+| Debenture redemption reserve  | To support redemption of debentures            |
+| Capital redemption reserve    | To meet legal capital maintenance requirements |
 
 ## General Reserve vs Specific Reserve
 
-| Basis | General Reserve | Specific Reserve |
-|---|---|---|
-| Purpose | Not earmarked | Earmarked for a specific purpose |
-| Use | Flexible | Restricted |
-| Example | General reserve | Debenture redemption reserve |
-| Nature | Free reserve when available | Purpose-bound reserve |
+| Basis   | General Reserve             | Specific Reserve                 |
+| ------- | --------------------------- | -------------------------------- |
+| Purpose | Not earmarked               | Earmarked for a specific purpose |
+| Use     | Flexible                    | Restricted                       |
+| Example | General reserve             | Debenture redemption reserve     |
+| Nature  | Free reserve when available | Purpose-bound reserve            |
 
 ## 3. Revenue Reserve
 
@@ -1739,26 +1740,26 @@ Capital reserve is usually not available for dividend distribution.
 
 ## Comparison Table
 
-| Basis | Revenue Reserve | Capital Reserve |
-|---|---|---|
-| Origin | Revenue profits from normal business operations | Capital profits or legally restricted profits |
-| Dividend availability | May be available if not specific or restricted | Usually not available for dividend |
-| Purpose | Strength, contingencies, dividend stability, specific future needs | Legal compliance, capital maintenance, writing off capital losses, bonus issue where permitted |
-| Examples | General reserve, dividend equalisation reserve | Securities premium, capital redemption reserve |
-| Relation to business operations | Linked with ordinary business profit | Not usually from ordinary trading activities |
+| Basis                           | Revenue Reserve                                                    | Capital Reserve                                                                                |
+| ------------------------------- | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
+| Origin                          | Revenue profits from normal business operations                    | Capital profits or legally restricted profits                                                  |
+| Dividend availability           | May be available if not specific or restricted                     | Usually not available for dividend                                                             |
+| Purpose                         | Strength, contingencies, dividend stability, specific future needs | Legal compliance, capital maintenance, writing off capital losses, bonus issue where permitted |
+| Examples                        | General reserve, dividend equalisation reserve                     | Securities premium, capital redemption reserve                                                 |
+| Relation to business operations | Linked with ordinary business profit                               | Not usually from ordinary trading activities                                                   |
 
 ## Examples Classified
 
-| Item | Type |
-|---|---|
-| General reserve | Revenue reserve |
-| Dividend equalisation reserve | Revenue reserve |
-| Workmen compensation fund | Revenue reserve or specific reserve |
-| Investment fluctuation fund | Revenue reserve or specific reserve |
-| Debenture redemption reserve | Specific reserve |
+| Item                          | Type                                       |
+| ----------------------------- | ------------------------------------------ |
+| General reserve               | Revenue reserve                            |
+| Dividend equalisation reserve | Revenue reserve                            |
+| Workmen compensation fund     | Revenue reserve or specific reserve        |
+| Investment fluctuation fund   | Revenue reserve or specific reserve        |
+| Debenture redemption reserve  | Specific reserve                           |
 | Profit on sale of fixed asset | Capital profit, may create capital reserve |
-| Securities premium | Capital reserve |
-| Capital redemption reserve | Capital reserve |
+| Securities premium            | Capital reserve                            |
+| Capital redemption reserve    | Capital reserve                            |
 
 # Unit 7Y: Importance of Reserves
 
@@ -1827,13 +1828,13 @@ This extra charge reduces profit and asset value. If not justified, it creates h
 
 ## Effects of Secret Reserve
 
-| Effect | Explanation |
-|---|---|
-| Profit is understated | Extra charges reduce reported profit |
-| Assets may be understated | Excess depreciation or undervaluation lowers asset value |
-| Liabilities may be overstated | Excess provisions increase liabilities |
-| Return ratios may be distorted | Users cannot judge real performance accurately |
-| Future profits may appear better | Hidden reserve can be released in lean years |
+| Effect                           | Explanation                                              |
+| -------------------------------- | -------------------------------------------------------- |
+| Profit is understated            | Extra charges reduce reported profit                     |
+| Assets may be understated        | Excess depreciation or undervaluation lowers asset value |
+| Liabilities may be overstated    | Excess provisions increase liabilities                   |
+| Return ratios may be distorted   | Users cannot judge real performance accurately           |
+| Future profits may appear better | Hidden reserve can be released in lean years             |
 
 ## Caution
 
@@ -1845,26 +1846,26 @@ Secret reserves may sometimes be defended as conservative accounting, but excess
 
 ## Depreciation Terms
 
-| Formula | Use |
-|---|---|
-| Cost of asset = Purchase price + directly attributable expenses | To find capitalised cost |
-| Net residual value = Estimated sale value - disposal expenses | To find expected net recovery |
-| Depreciable cost = Cost - net residual value | To find amount to be written off |
-| Annual depreciation under SLM = Depreciable cost / useful life | To calculate equal yearly depreciation |
-| SLM rate = Annual depreciation / cost x 100 | To calculate rate on cost |
-| WDV depreciation = Opening WDV x rate | To calculate reducing depreciation |
-| Closing WDV = Opening WDV - depreciation | To find book value at year end |
-| Profit on sale = Sale proceeds - book value | When proceeds exceed book value |
-| Loss on sale = Book value - sale proceeds | When book value exceeds proceeds |
+| Formula                                                         | Use                                    |
+| --------------------------------------------------------------- | -------------------------------------- |
+| Cost of asset = Purchase price + directly attributable expenses | To find capitalised cost               |
+| Net residual value = Estimated sale value - disposal expenses   | To find expected net recovery          |
+| Depreciable cost = Cost - net residual value                    | To find amount to be written off       |
+| Annual depreciation under SLM = Depreciable cost / useful life  | To calculate equal yearly depreciation |
+| SLM rate = Annual depreciation / cost x 100                     | To calculate rate on cost              |
+| WDV depreciation = Opening WDV x rate                           | To calculate reducing depreciation     |
+| Closing WDV = Opening WDV - depreciation                        | To find book value at year end         |
+| Profit on sale = Sale proceeds - book value                     | When proceeds exceed book value        |
+| Loss on sale = Book value - sale proceeds                       | When book value exceeds proceeds       |
 
 ## Provision for Doubtful Debts
 
-| Step | Formula |
-|---|---|
-| Adjusted debtors | Debtors - further bad debts |
-| Required provision | Adjusted debtors x required percentage |
+| Step                  | Formula                                 |
+| --------------------- | --------------------------------------- |
+| Adjusted debtors      | Debtors - further bad debts             |
+| Required provision    | Adjusted debtors x required percentage  |
 | Increase in provision | Required provision - existing provision |
-| Excess provision | Existing provision - required provision |
+| Excess provision      | Existing provision - required provision |
 
 # Unit 7AB: Common Mistakes and Corrections
 
@@ -1955,18 +1956,18 @@ Routine repair is revenue expense. Only improvement, extension, or capacity-incr
 
 ## Answers With Reasons
 
-| No. | Answer | Reason |
-|---|---|---|
-| 1 | True | It reduces profit but does not involve current cash outflow |
-| 2 | False | It is charged on fixed assets, not current assets |
-| 3 | False | It is allocation of cost, not market valuation |
-| 4 | True | Wear and tear from use is a common cause |
-| 5 | True | It matches asset cost with revenue |
-| 6 | False | Depletion is for natural resources; amortisation is for intangible assets |
-| 7 | False | Depreciation is an accounting charge; replacement cash must be retained separately |
-| 8 | False | Depreciation is still charged because it is based on cost allocation |
-| 9 | False | It reduces book value by expired cost, not by market value adjustment |
-| 10 | False | Maintenance may reduce wear but cannot remove expiry of useful life |
+| No. | Answer | Reason                                                                             |
+| --- | ------ | ---------------------------------------------------------------------------------- |
+| 1   | True   | It reduces profit but does not involve current cash outflow                        |
+| 2   | False  | It is charged on fixed assets, not current assets                                  |
+| 3   | False  | It is allocation of cost, not market valuation                                     |
+| 4   | True   | Wear and tear from use is a common cause                                           |
+| 5   | True   | It matches asset cost with revenue                                                 |
+| 6   | False  | Depletion is for natural resources; amortisation is for intangible assets          |
+| 7   | False  | Depreciation is an accounting charge; replacement cash must be retained separately |
+| 8   | False  | Depreciation is still charged because it is based on cost allocation               |
+| 9   | False  | It reduces book value by expired cost, not by market value adjustment              |
+| 10  | False  | Maintenance may reduce wear but cannot remove expiry of useful life                |
 
 # Unit 7AD: Checkpoint - Reserves and Provisions
 
@@ -1982,24 +1983,24 @@ Routine repair is revenue expense. Only improvement, extension, or capacity-incr
 
 ## Answers
 
-| No. | Answer | Reason |
-|---|---|---|
-| 1 | True | Excess provision can understate profit and debtors |
-| 2 | False | Capital reserves usually arise from capital profits |
-| 3 | False | It is a specific reserve |
-| 4 | False | General reserve is not earmarked for one specific purpose |
-| 5 | True | Provision is debited before true profit is found |
-| 6 | False | That describes provisions, not reserves |
-| 7 | False | Reserve is created after profit calculation and does not reduce taxable profit |
+| No. | Answer | Reason                                                                         |
+| --- | ------ | ------------------------------------------------------------------------------ |
+| 1   | True   | Excess provision can understate profit and debtors                             |
+| 2   | False  | Capital reserves usually arise from capital profits                            |
+| 3   | False  | It is a specific reserve                                                       |
+| 4   | False  | General reserve is not earmarked for one specific purpose                      |
+| 5   | True   | Provision is debited before true profit is found                               |
+| 6   | False  | That describes provisions, not reserves                                        |
+| 7   | False  | Reserve is created after profit calculation and does not reduce taxable profit |
 
 ## Fill in the Blanks
 
-| No. | Question | Answer |
-|---|---|---|
-| 1 | Depreciation is decline in the value of _____. | fixed assets |
-| 2 | Installation, freight, and transport expenses are part of _____. | cost of asset |
-| 3 | Provision is a _____ against profit. | charge |
-| 4 | Reserve created for maintaining stable dividend is called _____. | dividend equalisation reserve |
+| No. | Question                                                          | Answer                        |
+| --- | ----------------------------------------------------------------- | ----------------------------- |
+| 1   | Depreciation is decline in the value of **\_**.                   | fixed assets                  |
+| 2   | Installation, freight, and transport expenses are part of **\_**. | cost of asset                 |
+| 3   | Provision is a **\_** against profit.                             | charge                        |
+| 4   | Reserve created for maintaining stable dividend is called **\_**. | dividend equalisation reserve |
 
 # Unit 7AE: Short Answer Guide
 
@@ -2125,23 +2126,23 @@ Under direct asset method, depreciation is credited to asset account. The asset 
 
 Main entries:
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Depreciation A/c Dr. | xxx |  |
-| To Asset A/c |  | xxx |
-| Profit and Loss A/c Dr. | xxx |  |
-| To Depreciation A/c |  | xxx |
+| Entry                   | Debit Rs. | Credit Rs. |
+| ----------------------- | --------: | ---------: |
+| Depreciation A/c Dr.    |       xxx |            |
+| To Asset A/c            |           |        xxx |
+| Profit and Loss A/c Dr. |       xxx |            |
+| To Depreciation A/c     |           |        xxx |
 
 Under provision method, depreciation is credited to provision for depreciation account. The asset account remains at cost.
 
 Main entries:
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Depreciation A/c Dr. | xxx |  |
-| To Provision for Depreciation A/c |  | xxx |
-| Profit and Loss A/c Dr. | xxx |  |
-| To Depreciation A/c |  | xxx |
+| Entry                             | Debit Rs. | Credit Rs. |
+| --------------------------------- | --------: | ---------: |
+| Depreciation A/c Dr.              |       xxx |            |
+| To Provision for Depreciation A/c |           |        xxx |
+| Profit and Loss A/c Dr.           |       xxx |            |
+| To Depreciation A/c               |           |        xxx |
 
 ## 4. Explain Determinants of Depreciation Amount
 
@@ -2171,11 +2172,11 @@ Provision for doubtful debts is created because some debtors may fail to pay. It
 
 Entries:
 
-| Situation | Entry |
-|---|---|
-| Further bad debts | Bad Debts A/c Dr. To Sundry Debtors A/c |
-| Transfer bad debts | Profit and Loss A/c Dr. To Bad Debts A/c |
-| Create provision | Profit and Loss A/c Dr. To Provision for Doubtful Debts A/c |
+| Situation               | Entry                                                       |
+| ----------------------- | ----------------------------------------------------------- |
+| Further bad debts       | Bad Debts A/c Dr. To Sundry Debtors A/c                     |
+| Transfer bad debts      | Profit and Loss A/c Dr. To Bad Debts A/c                    |
+| Create provision        | Profit and Loss A/c Dr. To Provision for Doubtful Debts A/c |
 | Reduce excess provision | Provision for Doubtful Debts A/c Dr. To Profit and Loss A/c |
 
 # Unit 7AG: Numerical Practice With Guided Solutions
@@ -2190,12 +2191,12 @@ A machine is purchased for Rs. 1,80,000. Carriage is Rs. 10,000 and installation
 
 Cost:
 
-| Particulars | Rs. |
-|---|---:|
+| Particulars    |      Rs. |
+| -------------- | -------: |
 | Purchase price | 1,80,000 |
-| Carriage | 10,000 |
-| Installation | 10,000 |
-| Cost | 2,00,000 |
+| Carriage       |   10,000 |
+| Installation   |   10,000 |
+| Cost           | 2,00,000 |
 
 Depreciable cost:
 
@@ -2303,11 +2304,11 @@ Required provision is lower by Rs. 160, so excess provision of Rs. 160 is credit
 
 Profit and loss account:
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Bad debts from trial balance | 6,000 |  |
-| Further bad debts | 2,000 |  |
-| Excess provision |  | 160 |
+| Particulars                  | Debit Rs. | Credit Rs. |
+| ---------------------------- | --------: | ---------: |
+| Bad debts from trial balance |     6,000 |            |
+| Further bad debts            |     2,000 |            |
+| Excess provision             |           |        160 |
 
 Net debit to profit and loss:
 
@@ -2317,35 +2318,35 @@ Net debit to profit and loss:
 
 ## Purchase and Depreciation
 
-| Situation | Entry |
-|---|---|
-| Asset purchased for cash | Asset A/c Dr. To Bank A/c |
-| Asset purchased on credit | Asset A/c Dr. To Vendor A/c |
-| Installation paid | Asset A/c Dr. To Bank A/c |
-| Depreciation charged directly | Depreciation A/c Dr. To Asset A/c |
-| Depreciation transferred | Profit and Loss A/c Dr. To Depreciation A/c |
-| Depreciation with provision | Depreciation A/c Dr. To Provision for Depreciation A/c |
+| Situation                     | Entry                                                  |
+| ----------------------------- | ------------------------------------------------------ |
+| Asset purchased for cash      | Asset A/c Dr. To Bank A/c                              |
+| Asset purchased on credit     | Asset A/c Dr. To Vendor A/c                            |
+| Installation paid             | Asset A/c Dr. To Bank A/c                              |
+| Depreciation charged directly | Depreciation A/c Dr. To Asset A/c                      |
+| Depreciation transferred      | Profit and Loss A/c Dr. To Depreciation A/c            |
+| Depreciation with provision   | Depreciation A/c Dr. To Provision for Depreciation A/c |
 
 ## Disposal
 
-| Situation | Entry |
-|---|---|
-| Transfer cost to disposal account | Asset Disposal A/c Dr. To Asset A/c |
+| Situation                         | Entry                                                    |
+| --------------------------------- | -------------------------------------------------------- |
+| Transfer cost to disposal account | Asset Disposal A/c Dr. To Asset A/c                      |
 | Transfer accumulated depreciation | Provision for Depreciation A/c Dr. To Asset Disposal A/c |
-| Sale proceeds received | Bank A/c Dr. To Asset Disposal A/c |
-| Insurance claim admitted | Insurance Company A/c Dr. To Asset Disposal A/c |
-| Loss on disposal | Profit and Loss A/c Dr. To Asset Disposal A/c |
-| Profit on disposal | Asset Disposal A/c Dr. To Profit and Loss A/c |
+| Sale proceeds received            | Bank A/c Dr. To Asset Disposal A/c                       |
+| Insurance claim admitted          | Insurance Company A/c Dr. To Asset Disposal A/c          |
+| Loss on disposal                  | Profit and Loss A/c Dr. To Asset Disposal A/c            |
+| Profit on disposal                | Asset Disposal A/c Dr. To Profit and Loss A/c            |
 
 ## Provisions and Reserves
 
-| Situation | Entry |
-|---|---|
-| Bad debt written off | Bad Debts A/c Dr. To Debtors A/c |
-| Bad debts transferred | Profit and Loss A/c Dr. To Bad Debts A/c |
+| Situation                            | Entry                                                       |
+| ------------------------------------ | ----------------------------------------------------------- |
+| Bad debt written off                 | Bad Debts A/c Dr. To Debtors A/c                            |
+| Bad debts transferred                | Profit and Loss A/c Dr. To Bad Debts A/c                    |
 | Provision for doubtful debts created | Profit and Loss A/c Dr. To Provision for Doubtful Debts A/c |
-| Excess provision reduced | Provision for Doubtful Debts A/c Dr. To Profit and Loss A/c |
-| Reserve created | Profit and Loss Appropriation A/c Dr. To Reserve A/c |
+| Excess provision reduced             | Provision for Doubtful Debts A/c Dr. To Profit and Loss A/c |
+| Reserve created                      | Profit and Loss Appropriation A/c Dr. To Reserve A/c        |
 
 # Unit 7AI: Revision Map
 
@@ -2490,10 +2491,10 @@ First-year depreciation:
 ## Answer 3
 
 | Year | Opening WDV Rs. | Depreciation at 20% Rs. | Closing WDV Rs. |
-|---|---:|---:|---:|
-| 1 | 4,00,000 | 80,000 | 3,20,000 |
-| 2 | 3,20,000 | 64,000 | 2,56,000 |
-| 3 | 2,56,000 | 51,200 | 2,04,800 |
+| ---- | --------------: | ----------------------: | --------------: |
+| 1    |        4,00,000 |                  80,000 |        3,20,000 |
+| 2    |        3,20,000 |                  64,000 |        2,56,000 |
+| 3    |        2,56,000 |                  51,200 |        2,04,800 |
 
 ## Answer 4
 

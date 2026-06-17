@@ -1,19 +1,20 @@
 # Chapter 2: Forest and Wildlife Resources
+
 ### NCERT Class 10 - Social Geography
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-| --- | --- |
-| Class | 10 |
-| Subject | Social Geography |
-| Chapter | 2 - Forest and Wildlife Resources |
-| Central Question | Why are forests and wildlife essential for life, and how can they be conserved in a fair and sustainable way? |
-| Main Themes | Biodiversity, endangered species, causes of depletion, conservation laws, Project Tiger, forest categories, community conservation |
-| Main Skills | Classification, cause-effect reasoning, example-based answers, environmental justice, map awareness |
-| Exam Importance | High: biodiversity definition, IUCN categories, depletion causes, conservation methods, forest types, community examples |
+| Detail           | Learner-Friendly Information                                                                                                       |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Class            | 10                                                                                                                                 |
+| Subject          | Social Geography                                                                                                                   |
+| Chapter          | 2 - Forest and Wildlife Resources                                                                                                  |
+| Central Question | Why are forests and wildlife essential for life, and how can they be conserved in a fair and sustainable way?                      |
+| Main Themes      | Biodiversity, endangered species, causes of depletion, conservation laws, Project Tiger, forest categories, community conservation |
+| Main Skills      | Classification, cause-effect reasoning, example-based answers, environmental justice, map awareness                                |
+| Exam Importance  | High: biodiversity definition, IUCN categories, depletion causes, conservation methods, forest types, community examples           |
 
 ---
 
@@ -37,16 +38,16 @@ The chapter also asks an important social question:
 
 After studying this chapter, you should be able to:
 
-| Skill | You Should Be Able To |
-| --- | --- |
-| Define | Explain biodiversity, flora, fauna, endangered species, vulnerable species, endemic species, extinct species, reserved forest, protected forest, unclassed forest, and Joint Forest Management. |
-| Classify | Sort species into normal, endangered, vulnerable, rare, endemic, and extinct categories. |
-| Explain | Describe why forests and wildlife are important for human life. |
-| Analyse | Identify the causes of depletion of forests and wildlife. |
-| Evaluate | Explain why environmental destruction affects poor people and women more severely. |
-| Describe | Write about conservation measures in India, including the Wildlife Protection Act and Project Tiger. |
-| Use Examples | Use Sariska, Bhairodev Dakav Sonchuri, sacred groves, Chipko, Beej Bachao Andolan, Navdanya, and JFM in answers. |
-| Write | Build short and long answers using definitions, examples, causes, impacts, and solutions. |
+| Skill        | You Should Be Able To                                                                                                                                                                           |
+| ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Define       | Explain biodiversity, flora, fauna, endangered species, vulnerable species, endemic species, extinct species, reserved forest, protected forest, unclassed forest, and Joint Forest Management. |
+| Classify     | Sort species into normal, endangered, vulnerable, rare, endemic, and extinct categories.                                                                                                        |
+| Explain      | Describe why forests and wildlife are important for human life.                                                                                                                                 |
+| Analyse      | Identify the causes of depletion of forests and wildlife.                                                                                                                                       |
+| Evaluate     | Explain why environmental destruction affects poor people and women more severely.                                                                                                              |
+| Describe     | Write about conservation measures in India, including the Wildlife Protection Act and Project Tiger.                                                                                            |
+| Use Examples | Use Sariska, Bhairodev Dakav Sonchuri, sacred groves, Chipko, Beej Bachao Andolan, Navdanya, and JFM in answers.                                                                                |
+| Write        | Build short and long answers using definitions, examples, causes, impacts, and solutions.                                                                                                       |
 
 ---
 
@@ -76,37 +77,37 @@ Government laws are important, but conservation becomes stronger when local peop
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Biodiversity | Variety of living organisms, including plants, animals, microorganisms, and their interdependence in an ecosystem. |
-| Biological Diversity | Another term for biodiversity. |
-| Flora | Plant life of a region. |
-| Fauna | Animal life of a region. |
-| Ecosystem | A system in which living organisms interact with each other and with air, water, soil, climate, and landforms. |
-| Primary Producers | Organisms, mainly plants, that produce food and energy through photosynthesis and support other life forms. |
-| Normal Species | Species whose population is considered normal for survival. |
-| Endangered Species | Species in danger of extinction if harmful factors continue. |
-| Vulnerable Species | Species whose population has declined and may become endangered in the near future. |
-| Rare Species | Species with small populations that may become vulnerable or endangered if negative factors continue. |
-| Endemic Species | Species found only in a particular area, usually due to natural or geographical isolation. |
-| Extinct Species | Species not found after searches in known or likely areas. |
-| Deforestation | Removal or destruction of forest cover. |
-| Habitat Destruction | Damage or loss of the natural home of a species. |
-| Poaching | Illegal hunting or capturing of wild animals. |
-| Over-Exploitation | Excessive use of a resource beyond its ability to regenerate. |
-| Conservation | Protection, careful use, and restoration of natural resources and ecosystems. |
-| Wildlife Protection Act, 1972 | Indian law that gave legal protection to wildlife and habitats. |
-| National Park | Protected area created for conservation of wildlife and ecosystems. |
-| Wildlife Sanctuary | Protected area where wildlife is conserved and human activities are restricted. |
-| Project Tiger | Wildlife conservation programme launched in 1973 to protect tigers and their habitats. |
-| Reserved Forest | Forest considered most valuable for conservation of forest and wildlife resources. |
-| Protected Forest | Forest protected from further depletion. |
-| Unclassed Forest | Forests and wastelands belonging to government, private individuals, or communities. |
-| Permanent Forest Estate | Reserved and protected forests maintained for timber, forest produce, and protective purposes. |
-| Sacred Groves | Forest patches protected by local communities because of religious or cultural beliefs. |
-| Chipko Movement | Himalayan movement in which people resisted deforestation and promoted community conservation. |
-| Joint Forest Management | Programme in which local communities and forest departments cooperate to restore and manage degraded forests. |
-| Non-Timber Forest Produce | Forest products other than timber, such as fruits, leaves, honey, medicinal plants, fibres, and gums. |
+| Term                          | Meaning                                                                                                            |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Biodiversity                  | Variety of living organisms, including plants, animals, microorganisms, and their interdependence in an ecosystem. |
+| Biological Diversity          | Another term for biodiversity.                                                                                     |
+| Flora                         | Plant life of a region.                                                                                            |
+| Fauna                         | Animal life of a region.                                                                                           |
+| Ecosystem                     | A system in which living organisms interact with each other and with air, water, soil, climate, and landforms.     |
+| Primary Producers             | Organisms, mainly plants, that produce food and energy through photosynthesis and support other life forms.        |
+| Normal Species                | Species whose population is considered normal for survival.                                                        |
+| Endangered Species            | Species in danger of extinction if harmful factors continue.                                                       |
+| Vulnerable Species            | Species whose population has declined and may become endangered in the near future.                                |
+| Rare Species                  | Species with small populations that may become vulnerable or endangered if negative factors continue.              |
+| Endemic Species               | Species found only in a particular area, usually due to natural or geographical isolation.                         |
+| Extinct Species               | Species not found after searches in known or likely areas.                                                         |
+| Deforestation                 | Removal or destruction of forest cover.                                                                            |
+| Habitat Destruction           | Damage or loss of the natural home of a species.                                                                   |
+| Poaching                      | Illegal hunting or capturing of wild animals.                                                                      |
+| Over-Exploitation             | Excessive use of a resource beyond its ability to regenerate.                                                      |
+| Conservation                  | Protection, careful use, and restoration of natural resources and ecosystems.                                      |
+| Wildlife Protection Act, 1972 | Indian law that gave legal protection to wildlife and habitats.                                                    |
+| National Park                 | Protected area created for conservation of wildlife and ecosystems.                                                |
+| Wildlife Sanctuary            | Protected area where wildlife is conserved and human activities are restricted.                                    |
+| Project Tiger                 | Wildlife conservation programme launched in 1973 to protect tigers and their habitats.                             |
+| Reserved Forest               | Forest considered most valuable for conservation of forest and wildlife resources.                                 |
+| Protected Forest              | Forest protected from further depletion.                                                                           |
+| Unclassed Forest              | Forests and wastelands belonging to government, private individuals, or communities.                               |
+| Permanent Forest Estate       | Reserved and protected forests maintained for timber, forest produce, and protective purposes.                     |
+| Sacred Groves                 | Forest patches protected by local communities because of religious or cultural beliefs.                            |
+| Chipko Movement               | Himalayan movement in which people resisted deforestation and promoted community conservation.                     |
+| Joint Forest Management       | Programme in which local communities and forest departments cooperate to restore and manage degraded forests.      |
+| Non-Timber Forest Produce     | Forest products other than timber, such as fruits, leaves, honey, medicinal plants, fibres, and gums.              |
 
 ---
 
@@ -122,16 +123,16 @@ The chapter begins by reminding us that humans share the planet with millions of
 
 Biodiversity is important because it supports the basic systems of life.
 
-| Life-Support Function | How Biodiversity Helps |
-| --- | --- |
-| Air | Plants and microorganisms help maintain air quality. |
-| Water | Forests and wetlands help recharge water and filter pollutants. |
-| Soil | Microorganisms and decomposers help form fertile soil. |
-| Food | Crops, wild plants, pollinators, fisheries, and livestock depend on biodiversity. |
-| Medicine | Many medicines come from plants, animals, and microorganisms. |
-| Climate | Forests absorb carbon and regulate temperature and rainfall. |
-| Livelihood | Forest-dependent communities use forest produce, grazing, fishing, and medicinal plants. |
-| Culture | Many communities connect identity, rituals, and traditions with nature. |
+| Life-Support Function | How Biodiversity Helps                                                                   |
+| --------------------- | ---------------------------------------------------------------------------------------- |
+| Air                   | Plants and microorganisms help maintain air quality.                                     |
+| Water                 | Forests and wetlands help recharge water and filter pollutants.                          |
+| Soil                  | Microorganisms and decomposers help form fertile soil.                                   |
+| Food                  | Crops, wild plants, pollinators, fisheries, and livestock depend on biodiversity.        |
+| Medicine              | Many medicines come from plants, animals, and microorganisms.                            |
+| Climate               | Forests absorb carbon and regulate temperature and rainfall.                             |
+| Livelihood            | Forest-dependent communities use forest produce, grazing, fishing, and medicinal plants. |
+| Culture               | Many communities connect identity, rituals, and traditions with nature.                  |
 
 ## Forests as Primary Producers
 
@@ -168,34 +169,34 @@ The chapter uses IUCN-based categories to classify plants and animals according 
 
 ## Species Categories
 
-| Category | Meaning | Examples from the Chapter |
-| --- | --- | --- |
-| Normal Species | Population levels are normal for survival. | Cattle, sal, pine, rodents |
-| Endangered Species | In danger of extinction if negative factors continue. | Black buck, crocodile, Indian wild ass, Indian rhino, lion-tailed macaque, sangai |
-| Vulnerable Species | Population has declined and may soon become endangered. | Blue sheep, Asiatic elephant, Gangetic dolphin |
-| Rare Species | Small population; may become vulnerable or endangered. | Himalayan brown bear, wild Asiatic buffalo, desert fox, hornbill |
-| Endemic Species | Found only in particular areas, often isolated by natural or geographical barriers. | Andaman teal, Nicobar pigeon, Andaman wild pig, mithun in Arunachal Pradesh |
-| Extinct Species | Not found after searches in known or likely areas. | Asiatic cheetah, pink-headed duck |
+| Category           | Meaning                                                                             | Examples from the Chapter                                                         |
+| ------------------ | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| Normal Species     | Population levels are normal for survival.                                          | Cattle, sal, pine, rodents                                                        |
+| Endangered Species | In danger of extinction if negative factors continue.                               | Black buck, crocodile, Indian wild ass, Indian rhino, lion-tailed macaque, sangai |
+| Vulnerable Species | Population has declined and may soon become endangered.                             | Blue sheep, Asiatic elephant, Gangetic dolphin                                    |
+| Rare Species       | Small population; may become vulnerable or endangered.                              | Himalayan brown bear, wild Asiatic buffalo, desert fox, hornbill                  |
+| Endemic Species    | Found only in particular areas, often isolated by natural or geographical barriers. | Andaman teal, Nicobar pigeon, Andaman wild pig, mithun in Arunachal Pradesh       |
+| Extinct Species    | Not found after searches in known or likely areas.                                  | Asiatic cheetah, pink-headed duck                                                 |
 
 ## How to Remember the Categories
 
-| Category | Memory Hook |
-| --- | --- |
-| Normal | Safe at present |
-| Endangered | In immediate danger |
-| Vulnerable | Moving toward danger |
-| Rare | Very small population |
-| Endemic | Limited to a particular area |
-| Extinct | No longer found |
+| Category   | Memory Hook                  |
+| ---------- | ---------------------------- |
+| Normal     | Safe at present              |
+| Endangered | In immediate danger          |
+| Vulnerable | Moving toward danger         |
+| Rare       | Very small population        |
+| Endemic    | Limited to a particular area |
+| Extinct    | No longer found              |
 
 ## Endangered vs Vulnerable vs Rare
 
-| Point | Endangered | Vulnerable | Rare |
-| --- | --- | --- | --- |
-| Risk level | Very high | Medium to high | Potential risk |
-| Population | Already dangerously low | Declined significantly | Small but not always declining fast |
-| Future | May become extinct if threats continue | May become endangered if threats continue | May become vulnerable or endangered |
-| Example | Black buck, Indian rhino | Asiatic elephant, Gangetic dolphin | Himalayan brown bear, hornbill |
+| Point      | Endangered                             | Vulnerable                                | Rare                                |
+| ---------- | -------------------------------------- | ----------------------------------------- | ----------------------------------- |
+| Risk level | Very high                              | Medium to high                            | Potential risk                      |
+| Population | Already dangerously low                | Declined significantly                    | Small but not always declining fast |
+| Future     | May become extinct if threats continue | May become endangered if threats continue | May become vulnerable or endangered |
+| Example    | Black buck, Indian rhino               | Asiatic elephant, Gangetic dolphin        | Himalayan brown bear, hornbill      |
 
 ## Extinct Can Mean Different Scales
 
@@ -236,10 +237,10 @@ The chapter states that India's forest and tree cover was estimated at 79.42 mil
 It also gives these categories:
 
 | Forest Cover Type | Share Mentioned in Chapter |
-| --- | --- |
-| Dense forest | 12.2 percent |
-| Open forest | 9.14 percent |
-| Mangrove | 0.14 percent |
+| ----------------- | -------------------------- |
+| Dense forest      | 12.2 percent               |
+| Open forest       | 9.14 percent               |
+| Mangrove          | 0.14 percent               |
 
 The State of Forest Report 2015 mentioned an increase in dense forest cover by 3,775 sq km since 2013, but the chapter explains that this increase was linked to conservation measures, management interventions, and plantations.
 
@@ -255,20 +256,20 @@ An increase in plantation does not always mean natural forest recovery. A natura
 
 The depletion of forests and wildlife has many causes.
 
-| Cause | Explanation |
-| --- | --- |
-| Agricultural expansion | Forests are cleared to create farmland. |
-| Colonial forest policies | Forests were exploited for railways, commercial forestry, agriculture, mining, and revenue. |
-| Shifting cultivation | In some tribal belts, slash-and-burn agriculture has degraded forest areas. |
-| Large development projects | River valley projects, dams, roads, and industries clear forests. |
-| Mining | Mining destroys habitats, creates waste, and blocks animal movement. |
-| Habitat destruction | Species lose their homes and breeding grounds. |
-| Hunting and poaching | Animals are killed for trade, skins, bones, meat, or sport. |
-| Over-exploitation | Excessive extraction of timber, medicinal plants, fuel, fodder, and other products. |
-| Pollution | Air, water, and soil pollution weaken ecosystems. |
-| Poisoning | Chemicals and toxins kill plants and animals. |
-| Forest fires | Fires destroy vegetation, animals, nests, seeds, and soil organisms. |
-| Unequal consumption | Rich and powerful groups consume more resources and cause greater ecological damage. |
+| Cause                      | Explanation                                                                                 |
+| -------------------------- | ------------------------------------------------------------------------------------------- |
+| Agricultural expansion     | Forests are cleared to create farmland.                                                     |
+| Colonial forest policies   | Forests were exploited for railways, commercial forestry, agriculture, mining, and revenue. |
+| Shifting cultivation       | In some tribal belts, slash-and-burn agriculture has degraded forest areas.                 |
+| Large development projects | River valley projects, dams, roads, and industries clear forests.                           |
+| Mining                     | Mining destroys habitats, creates waste, and blocks animal movement.                        |
+| Habitat destruction        | Species lose their homes and breeding grounds.                                              |
+| Hunting and poaching       | Animals are killed for trade, skins, bones, meat, or sport.                                 |
+| Over-exploitation          | Excessive extraction of timber, medicinal plants, fuel, fodder, and other products.         |
+| Pollution                  | Air, water, and soil pollution weaken ecosystems.                                           |
+| Poisoning                  | Chemicals and toxins kill plants and animals.                                               |
+| Forest fires               | Fires destroy vegetation, animals, nests, seeds, and soil organisms.                        |
+| Unequal consumption        | Rich and powerful groups consume more resources and cause greater ecological damage.        |
 
 ## Colonial Period
 
@@ -318,10 +319,10 @@ Some colonial and commercial forest policies promoted a few commercially valuabl
 
 Examples:
 
-| Region | Plantation Problem |
-| --- | --- |
-| South India | Teak monoculture damaged natural forest. |
-| Himalayas | Chir pine plantations replaced Himalayan oak and rhododendron forests. |
+| Region      | Plantation Problem                                                     |
+| ----------- | ---------------------------------------------------------------------- |
+| South India | Teak monoculture damaged natural forest.                               |
+| Himalayas   | Chir pine plantations replaced Himalayan oak and rhododendron forests. |
 
 ## Why Monoculture Is Harmful
 
@@ -454,14 +455,14 @@ Conservation is essential because:
 
 ## Conservation Preserves Life-Support Systems
 
-| Life-Support System | Role of Conservation |
-| --- | --- |
-| Water | Forests recharge groundwater, protect streams, and reduce floods. |
-| Air | Trees absorb carbon dioxide and release oxygen. |
-| Soil | Roots bind soil and prevent erosion. |
-| Genetic diversity | Different species and varieties help breeding, adaptation, and resilience. |
-| Agriculture | Traditional crop varieties and pollinators support farming. |
-| Fisheries | Aquatic biodiversity supports fish breeding and survival. |
+| Life-Support System | Role of Conservation                                                       |
+| ------------------- | -------------------------------------------------------------------------- |
+| Water               | Forests recharge groundwater, protect streams, and reduce floods.          |
+| Air                 | Trees absorb carbon dioxide and release oxygen.                            |
+| Soil                | Roots bind soil and prevent erosion.                                       |
+| Genetic diversity   | Different species and varieties help breeding, adaptation, and resilience. |
+| Agriculture         | Traditional crop varieties and pollinators support farming.                |
+| Fisheries           | Aquatic biodiversity supports fish breeding and survival.                  |
 
 ## Wildlife Protection Act, 1972
 
@@ -527,33 +528,33 @@ The tiger population had fallen sharply. The chapter says that in 1973, the tige
 
 ## Major Threats to Tigers
 
-| Threat | Explanation |
-| --- | --- |
-| Poaching | Tigers are killed illegally for skins, bones, and body parts. |
-| Illegal trade | Tiger parts are traded for profit, including in traditional medicine markets. |
-| Shrinking habitat | Forests are cleared or fragmented. |
-| Depletion of prey | If deer and other prey decline, tigers cannot survive. |
+| Threat                   | Explanation                                                                    |
+| ------------------------ | ------------------------------------------------------------------------------ |
+| Poaching                 | Tigers are killed illegally for skins, bones, and body parts.                  |
+| Illegal trade            | Tiger parts are traded for profit, including in traditional medicine markets.  |
+| Shrinking habitat        | Forests are cleared or fragmented.                                             |
+| Depletion of prey        | If deer and other prey decline, tigers cannot survive.                         |
 | Growing human population | Expanding settlements, farming, and roads increase pressure on tiger habitats. |
 
 ## Tiger Population Figures Mentioned
 
 | Year | Tiger Population Mentioned |
-| --- | --- |
-| 1973 | 1,827 |
-| 1985 | 4,002 |
-| 1989 | 4,334 |
-| 1993 | 3,600 |
+| ---- | -------------------------- |
+| 1973 | 1,827                      |
+| 1985 | 4,002                      |
+| 1989 | 4,334                      |
+| 1993 | 3,600                      |
 
 ## Tiger Reserves Mentioned
 
-| Reserve | State |
-| --- | --- |
-| Corbett National Park | Uttarakhand |
-| Sunderbans National Park | West Bengal |
-| Bandhavgarh National Park | Madhya Pradesh |
-| Sariska Wildlife Sanctuary | Rajasthan |
-| Manas Tiger Reserve | Assam |
-| Periyar Tiger Reserve | Kerala |
+| Reserve                    | State          |
+| -------------------------- | -------------- |
+| Corbett National Park      | Uttarakhand    |
+| Sunderbans National Park   | West Bengal    |
+| Bandhavgarh National Park  | Madhya Pradesh |
+| Sariska Wildlife Sanctuary | Rajasthan      |
+| Manas Tiger Reserve        | Assam          |
+| Periyar Tiger Reserve      | Kerala         |
 
 ## Deeper Meaning of Project Tiger
 
@@ -577,10 +578,10 @@ Forests are classified into three categories:
 
 ## Forest Categories
 
-| Category | Meaning | Importance |
-| --- | --- | --- |
-| Reserved Forests | More than half of total forest land; considered most valuable for conservation. | Strongest conservation value. |
-| Protected Forests | Almost one-third of total forest area; protected from further depletion. | Prevents further damage. |
+| Category          | Meaning                                                                                    | Importance                                                             |
+| ----------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------- |
+| Reserved Forests  | More than half of total forest land; considered most valuable for conservation.            | Strongest conservation value.                                          |
+| Protected Forests | Almost one-third of total forest area; protected from further depletion.                   | Prevents further damage.                                               |
 | Unclassed Forests | Other forests and wastelands belonging to government, private individuals, or communities. | Often managed locally or outside strict reserved/protected categories. |
 
 ## Permanent Forest Estates
@@ -596,12 +597,12 @@ They are maintained for:
 
 ## Regional Distribution
 
-| Region or State | Forest Category Pattern |
-| --- | --- |
-| Madhya Pradesh | Largest area under permanent forests; about 75 percent of its total forest area. |
-| Jammu and Kashmir, Andhra Pradesh, Uttarakhand, Kerala, Tamil Nadu, West Bengal, Maharashtra | Large percentage of reserved forests. |
-| Bihar, Haryana, Punjab, Himachal Pradesh, Odisha, Rajasthan | Large share under protected forests. |
-| North-eastern states and parts of Gujarat | High percentage of unclassed forests, often managed by local communities. |
+| Region or State                                                                              | Forest Category Pattern                                                          |
+| -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| Madhya Pradesh                                                                               | Largest area under permanent forests; about 75 percent of its total forest area. |
+| Jammu and Kashmir, Andhra Pradesh, Uttarakhand, Kerala, Tamil Nadu, West Bengal, Maharashtra | Large percentage of reserved forests.                                            |
+| Bihar, Haryana, Punjab, Himachal Pradesh, Odisha, Rajasthan                                  | Large share under protected forests.                                             |
+| North-eastern states and parts of Gujarat                                                    | High percentage of unclassed forests, often managed by local communities.        |
 
 ## Exam Tip
 
@@ -666,13 +667,13 @@ In these areas:
 
 ## Sacred Trees and Community Beliefs
 
-| Community or Region | Protected Tree or Practice |
-| --- | --- |
-| Mundas and Santhals of Chota Nagpur | Worship mahua and kadamba trees |
-| Tribals of Odisha and Bihar | Worship tamarind and mango trees during weddings |
-| Many Indian communities | Consider peepal and banyan sacred |
-| Temples in many regions | Macaques and langurs are fed and protected |
-| Bishnoi villages in Rajasthan | Blackbuck, chinkara, nilgai, and peacocks are protected |
+| Community or Region                 | Protected Tree or Practice                              |
+| ----------------------------------- | ------------------------------------------------------- |
+| Mundas and Santhals of Chota Nagpur | Worship mahua and kadamba trees                         |
+| Tribals of Odisha and Bihar         | Worship tamarind and mango trees during weddings        |
+| Many Indian communities             | Consider peepal and banyan sacred                       |
+| Temples in many regions             | Macaques and langurs are fed and protected              |
+| Bishnoi villages in Rajasthan       | Blackbuck, chinkara, nilgai, and peacocks are protected |
 
 ## Example 4: Chipko Movement
 
@@ -703,12 +704,12 @@ It formally began in 1988 when Odisha passed the first resolution for Joint Fore
 
 ## How JFM Works
 
-| Feature | Explanation |
-| --- | --- |
-| Local institutions | Village-level groups protect forests. |
-| Forest department role | Forest land remains under department management. |
-| Community role | Local people protect degraded forest land. |
-| Benefits | Communities receive non-timber forest produce and a share in timber after successful protection. |
+| Feature                | Explanation                                                                                      |
+| ---------------------- | ------------------------------------------------------------------------------------------------ |
+| Local institutions     | Village-level groups protect forests.                                                            |
+| Forest department role | Forest land remains under department management.                                                 |
+| Community role         | Local people protect degraded forest land.                                                       |
+| Benefits               | Communities receive non-timber forest produce and a share in timber after successful protection. |
 
 ## Core Lesson
 
@@ -720,29 +721,29 @@ The chapter's key lesson is that local communities must be involved in natural r
 
 ## Endangered and Vulnerable Species
 
-| Point | Endangered | Vulnerable |
-| --- | --- | --- |
-| Risk | Already in danger of extinction. | Likely to become endangered if threats continue. |
-| Population | Dangerously low or under severe threat. | Declined but not yet in the endangered stage. |
-| Examples | Black buck, Indian rhino, sangai. | Blue sheep, Asiatic elephant, Gangetic dolphin. |
+| Point      | Endangered                              | Vulnerable                                       |
+| ---------- | --------------------------------------- | ------------------------------------------------ |
+| Risk       | Already in danger of extinction.        | Likely to become endangered if threats continue. |
+| Population | Dangerously low or under severe threat. | Declined but not yet in the endangered stage.    |
+| Examples   | Black buck, Indian rhino, sangai.       | Blue sheep, Asiatic elephant, Gangetic dolphin.  |
 
 ## Reserved, Protected, and Unclassed Forests
 
-| Point | Reserved Forests | Protected Forests | Unclassed Forests |
-| --- | --- | --- | --- |
-| Conservation value | Highest | Important, protected from depletion | Variable |
-| Ownership or management | Mostly government | Mostly government | Government, private, or community |
-| Share | More than half of forest land | Almost one-third | Remaining forests and wastelands |
-| Exam phrase | Most valuable for conservation | Protected from further depletion | Other forests and wastelands |
+| Point                   | Reserved Forests               | Protected Forests                   | Unclassed Forests                 |
+| ----------------------- | ------------------------------ | ----------------------------------- | --------------------------------- |
+| Conservation value      | Highest                        | Important, protected from depletion | Variable                          |
+| Ownership or management | Mostly government              | Mostly government                   | Government, private, or community |
+| Share                   | More than half of forest land  | Almost one-third                    | Remaining forests and wastelands  |
+| Exam phrase             | Most valuable for conservation | Protected from further depletion    | Other forests and wastelands      |
 
 ## Conservation by Government and Community
 
-| Government Conservation | Community Conservation |
-| --- | --- |
+| Government Conservation               | Community Conservation                          |
+| ------------------------------------- | ----------------------------------------------- |
 | Laws such as Wildlife Protection Act. | Sacred groves, local rules, village protection. |
-| National parks and sanctuaries. | Bhairodev Dakav Sonchuri. |
-| Project Tiger and species projects. | Chipko, Bishnoi protection, JFM participation. |
-| Official regulation and enforcement. | Local knowledge and daily protection. |
+| National parks and sanctuaries.       | Bhairodev Dakav Sonchuri.                       |
+| Project Tiger and species projects.   | Chipko, Bishnoi protection, JFM participation.  |
+| Official regulation and enforcement.  | Local knowledge and daily protection.           |
 
 ---
 
@@ -766,22 +767,22 @@ Explanation: Joint Forest Management, Chipko Movement, and Beej Bachao Andolan d
 
 ## Match the Animals with Category of Existence
 
-| Animal or Plant | Correct Category |
-| --- | --- |
-| Black buck | Endangered |
-| Asiatic elephant | Vulnerable |
-| Andaman wild pig | Endemic |
-| Himalayan brown bear | Rare |
-| Pink-headed duck | Extinct |
+| Animal or Plant      | Correct Category |
+| -------------------- | ---------------- |
+| Black buck           | Endangered       |
+| Asiatic elephant     | Vulnerable       |
+| Andaman wild pig     | Endemic          |
+| Himalayan brown bear | Rare             |
+| Pink-headed duck     | Extinct          |
 
 ---
 
 ## Match the Forest Categories
 
-| Forest Category | Correct Meaning |
-| --- | --- |
-| Reserved forests | Forests regarded as most valuable for conservation of forest and wildlife resources. |
-| Protected forests | Forest lands protected from further depletion. |
+| Forest Category   | Correct Meaning                                                                            |
+| ----------------- | ------------------------------------------------------------------------------------------ |
+| Reserved forests  | Forests regarded as most valuable for conservation of forest and wildlife resources.       |
+| Protected forests | Forest lands protected from further depletion.                                             |
 | Unclassed forests | Other forests and wastelands belonging to government, private individuals, or communities. |
 
 ---
@@ -861,16 +862,16 @@ Use this structure:
 
 # Common Mistakes to Avoid
 
-| Mistake | Correct Understanding |
-| --- | --- |
-| Writing biodiversity means only animals. | Biodiversity includes plants, animals, microorganisms, and ecosystems. |
-| Ignoring microorganisms. | Microorganisms help soil fertility, decomposition, and ecological balance. |
-| Confusing endangered and extinct. | Endangered species still exist but are in danger; extinct species are no longer found. |
-| Confusing endemic and endangered. | Endemic means found only in a particular area; it may or may not be endangered. |
-| Writing only population growth as the cause of environmental damage. | The chapter stresses unequal consumption and responsibility. |
-| Treating conservation as only a government task. | Community participation is a major theme. |
-| Writing plantations are always equal to forests. | Plantations may lack the biodiversity of natural forests. |
-| Forgetting examples. | This chapter is example-heavy; answers need specific examples. |
+| Mistake                                                              | Correct Understanding                                                                  |
+| -------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| Writing biodiversity means only animals.                             | Biodiversity includes plants, animals, microorganisms, and ecosystems.                 |
+| Ignoring microorganisms.                                             | Microorganisms help soil fertility, decomposition, and ecological balance.             |
+| Confusing endangered and extinct.                                    | Endangered species still exist but are in danger; extinct species are no longer found. |
+| Confusing endemic and endangered.                                    | Endemic means found only in a particular area; it may or may not be endangered.        |
+| Writing only population growth as the cause of environmental damage. | The chapter stresses unequal consumption and responsibility.                           |
+| Treating conservation as only a government task.                     | Community participation is a major theme.                                              |
+| Writing plantations are always equal to forests.                     | Plantations may lack the biodiversity of natural forests.                              |
+| Forgetting examples.                                                 | This chapter is example-heavy; answers need specific examples.                         |
 
 ---
 
@@ -878,41 +879,41 @@ Use this structure:
 
 ## Species Categories
 
-| Category | Meaning | Example |
-| --- | --- | --- |
-| Normal | Population normal for survival | Cattle, sal, pine |
-| Endangered | In danger of extinction | Black buck, Indian rhino |
-| Vulnerable | May become endangered | Asiatic elephant |
-| Rare | Small population | Himalayan brown bear |
-| Endemic | Found only in certain areas | Andaman wild pig |
-| Extinct | No longer found | Asiatic cheetah, pink-headed duck |
+| Category   | Meaning                        | Example                           |
+| ---------- | ------------------------------ | --------------------------------- |
+| Normal     | Population normal for survival | Cattle, sal, pine                 |
+| Endangered | In danger of extinction        | Black buck, Indian rhino          |
+| Vulnerable | May become endangered          | Asiatic elephant                  |
+| Rare       | Small population               | Himalayan brown bear              |
+| Endemic    | Found only in certain areas    | Andaman wild pig                  |
+| Extinct    | No longer found                | Asiatic cheetah, pink-headed duck |
 
 ## Causes of Forest and Wildlife Depletion
 
-| Cause | Example or Detail |
-| --- | --- |
-| Agricultural expansion | Forest converted to farmland |
-| Colonial policies | Railways, commercial forestry, mining |
-| Development projects | River valley projects, Narmada Sagar |
-| Mining | Buxa Tiger Reserve threatened by dolomite mining |
-| Monoculture | Teak in South India, chir pine in Himalayas |
-| Poaching | Tiger skins and bones |
-| Over-exploitation | Himalayan yew for taxol |
-| Pollution and fires | Damage ecosystems |
+| Cause                  | Example or Detail                                |
+| ---------------------- | ------------------------------------------------ |
+| Agricultural expansion | Forest converted to farmland                     |
+| Colonial policies      | Railways, commercial forestry, mining            |
+| Development projects   | River valley projects, Narmada Sagar             |
+| Mining                 | Buxa Tiger Reserve threatened by dolomite mining |
+| Monoculture            | Teak in South India, chir pine in Himalayas      |
+| Poaching               | Tiger skins and bones                            |
+| Over-exploitation      | Himalayan yew for taxol                          |
+| Pollution and fires    | Damage ecosystems                                |
 
 ## Conservation Examples
 
-| Example | What It Shows |
-| --- | --- |
-| Wildlife Protection Act, 1972 | Legal protection of species and habitats |
-| Project Tiger, 1973 | Species and habitat conservation |
-| Sariska villagers | Community use of law against mining |
-| Bhairodev Dakav Sonchuri | Village-led forest protection |
-| Sacred groves | Cultural conservation |
-| Bishnoi villages | Protection of animals as community practice |
-| Chipko Movement | Resistance to deforestation |
-| Beej Bachao Andolan | Seed conservation and ecological farming |
-| Joint Forest Management | Community participation in degraded forest restoration |
+| Example                       | What It Shows                                          |
+| ----------------------------- | ------------------------------------------------------ |
+| Wildlife Protection Act, 1972 | Legal protection of species and habitats               |
+| Project Tiger, 1973           | Species and habitat conservation                       |
+| Sariska villagers             | Community use of law against mining                    |
+| Bhairodev Dakav Sonchuri      | Village-led forest protection                          |
+| Sacred groves                 | Cultural conservation                                  |
+| Bishnoi villages              | Protection of animals as community practice            |
+| Chipko Movement               | Resistance to deforestation                            |
+| Beej Bachao Andolan           | Seed conservation and ecological farming               |
+| Joint Forest Management       | Community participation in degraded forest restoration |
 
 ---
 

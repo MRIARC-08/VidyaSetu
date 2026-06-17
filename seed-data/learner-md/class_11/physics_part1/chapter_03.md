@@ -1649,15 +1649,15 @@ $$
 
 Classify each as scalar or vector:
 
-| Quantity | Type |
-|---|---|
-| volume | scalar |
-| mass | scalar |
-| speed | scalar |
-| acceleration | vector |
-| density | scalar |
-| velocity | vector |
-| displacement | vector |
+| Quantity          | Type   |
+| ----------------- | ------ |
+| volume            | scalar |
+| mass              | scalar |
+| speed             | scalar |
+| acceleration      | vector |
+| density           | scalar |
+| velocity          | vector |
+| displacement      | vector |
 | angular frequency | scalar |
 
 ## 43. Practice Set B: Components

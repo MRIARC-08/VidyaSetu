@@ -1,16 +1,17 @@
 # Chapter 7: Directing
+
 ### NCERT Class 12 - Business Studies Part 1
 
 ## Chapter at a Glance
 
-| Item | Details |
-|---|---|
-| Main idea | Directing initiates action by guiding, motivating, supervising, leading, and communicating with people. |
-| Main elements | Supervision, motivation, leadership, and communication. |
-| Role in management | Planning and organising prepare work; directing makes people act. |
-| Motivation focus | Understanding needs and incentives that influence behaviour. |
-| Communication focus | Ensuring clear flow of information and understanding. |
-| Most important skill | Identify the directing element involved in a case. |
+| Item                 | Details                                                                                                 |
+| -------------------- | ------------------------------------------------------------------------------------------------------- |
+| Main idea            | Directing initiates action by guiding, motivating, supervising, leading, and communicating with people. |
+| Main elements        | Supervision, motivation, leadership, and communication.                                                 |
+| Role in management   | Planning and organising prepare work; directing makes people act.                                       |
+| Motivation focus     | Understanding needs and incentives that influence behaviour.                                            |
+| Communication focus  | Ensuring clear flow of information and understanding.                                                   |
+| Most important skill | Identify the directing element involved in a case.                                                      |
 
 ## Learning Outcomes
 
@@ -30,26 +31,26 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Directing | Process of instructing, guiding, motivating, leading, and supervising people to achieve goals. |
-| Supervision | Overseeing work of subordinates and guiding them. |
-| Motivation | Process of stimulating people to act toward desired goals. |
-| Motive | Inner state that energises behaviour. |
-| Incentive | External reward or condition that stimulates action. |
-| Leadership | Ability to influence people to work willingly toward goals. |
-| Communication | Process of exchange of ideas, facts, opinions, and feelings. |
-| Formal communication | Communication through official channels. |
-| Informal communication | Communication through social and unofficial channels. |
-| Barrier | Obstacle that reduces communication effectiveness. |
+| Term                   | Meaning                                                                                        |
+| ---------------------- | ---------------------------------------------------------------------------------------------- |
+| Directing              | Process of instructing, guiding, motivating, leading, and supervising people to achieve goals. |
+| Supervision            | Overseeing work of subordinates and guiding them.                                              |
+| Motivation             | Process of stimulating people to act toward desired goals.                                     |
+| Motive                 | Inner state that energises behaviour.                                                          |
+| Incentive              | External reward or condition that stimulates action.                                           |
+| Leadership             | Ability to influence people to work willingly toward goals.                                    |
+| Communication          | Process of exchange of ideas, facts, opinions, and feelings.                                   |
+| Formal communication   | Communication through official channels.                                                       |
+| Informal communication | Communication through social and unofficial channels.                                          |
+| Barrier                | Obstacle that reduces communication effectiveness.                                             |
 
 ## Quick Learning Map
 
-| Element | Main Role |
-|---|---|
-| Supervision | Guides day-to-day work. |
-| Motivation | Creates willingness to work. |
-| Leadership | Influences and inspires people. |
+| Element       | Main Role                             |
+| ------------- | ------------------------------------- |
+| Supervision   | Guides day-to-day work.               |
+| Motivation    | Creates willingness to work.          |
+| Leadership    | Influences and inspires people.       |
 | Communication | Shares information and understanding. |
 
 # Unit 7A: Meaning of Directing
@@ -112,16 +113,16 @@ Directing improves cooperation and reduces conflict.
 
 # Unit 7D: Principles of Directing
 
-| Principle | Meaning |
-|---|---|
-| Maximum individual contribution | Directing should bring out best effort from each person. |
-| Harmony of objectives | Individual and organisational goals should be aligned. |
-| Unity of command | One subordinate should receive orders from one superior. |
-| Appropriate technique | Directing method should suit people and situation. |
-| Managerial communication | Instructions must be clear and understood. |
-| Use of informal organisation | Managers should use informal groups constructively. |
-| Leadership | Managers should influence and guide by example. |
-| Follow-through | Managers should check whether directions are carried out. |
+| Principle                       | Meaning                                                   |
+| ------------------------------- | --------------------------------------------------------- |
+| Maximum individual contribution | Directing should bring out best effort from each person.  |
+| Harmony of objectives           | Individual and organisational goals should be aligned.    |
+| Unity of command                | One subordinate should receive orders from one superior.  |
+| Appropriate technique           | Directing method should suit people and situation.        |
+| Managerial communication        | Instructions must be clear and understood.                |
+| Use of informal organisation    | Managers should use informal groups constructively.       |
+| Leadership                      | Managers should influence and guide by example.           |
+| Follow-through                  | Managers should check whether directions are carried out. |
 
 # Unit 7E: Supervision
 
@@ -173,13 +174,13 @@ Maslow arranged human needs in a hierarchy.
 
 ## Levels
 
-| Level | Need | Workplace Example |
-|---|---|---|
-| 1 | Physiological needs | Salary for food, clothing, shelter. |
-| 2 | Safety needs | Job security and safe workplace. |
-| 3 | Social needs | Belonging, friendship, team relations. |
-| 4 | Esteem needs | Recognition, status, respect. |
-| 5 | Self-actualisation needs | Growth, creativity, achievement of potential. |
+| Level | Need                     | Workplace Example                             |
+| ----- | ------------------------ | --------------------------------------------- |
+| 1     | Physiological needs      | Salary for food, clothing, shelter.           |
+| 2     | Safety needs             | Job security and safe workplace.              |
+| 3     | Social needs             | Belonging, friendship, team relations.        |
+| 4     | Esteem needs             | Recognition, status, respect.                 |
+| 5     | Self-actualisation needs | Growth, creativity, achievement of potential. |
 
 ## Main Idea
 
@@ -217,11 +218,11 @@ Incentives are rewards or conditions used to motivate people.
 
 ## Comparison
 
-| Financial Incentives | Non-Financial Incentives |
-|---|---|
-| Monetary in nature. | Psychological or social in nature. |
-| Useful for economic needs. | Useful for esteem, belonging, and growth needs. |
-| Easy to measure. | Harder to measure but powerful. |
+| Financial Incentives            | Non-Financial Incentives                         |
+| ------------------------------- | ------------------------------------------------ |
+| Monetary in nature.             | Psychological or social in nature.               |
+| Useful for economic needs.      | Useful for esteem, belonging, and growth needs.  |
+| Easy to measure.                | Harder to measure but powerful.                  |
 | Examples include bonus and pay. | Examples include recognition and responsibility. |
 
 # Unit 7J: Leadership
@@ -252,10 +253,10 @@ Leadership is the ability to influence people so they work willingly toward grou
 
 ## Leadership Styles
 
-| Style | Meaning | Likely Effect |
-|---|---|---|
-| Autocratic | Leader makes decisions alone. | Quick decisions but low participation. |
-| Democratic | Leader consults subordinates. | Higher participation and morale. |
+| Style         | Meaning                        | Likely Effect                             |
+| ------------- | ------------------------------ | ----------------------------------------- |
+| Autocratic    | Leader makes decisions alone.  | Quick decisions but low participation.    |
+| Democratic    | Leader consults subordinates.  | Higher participation and morale.          |
 | Laissez-faire | Subordinates get high freedom. | Works with skilled and responsible teams. |
 
 # Unit 7K: Communication
@@ -354,14 +355,14 @@ Problems of words and meaning:
 
 # Unit 7O: Common Mistakes and Corrections
 
-| Mistake | Correct Understanding |
-|---|---|
-| Directing means only giving orders | It includes supervision, motivation, leadership, and communication. |
-| Motivation is same for everyone | Needs differ from person to person. |
-| Money is the only motivator | Non-financial incentives can be equally important. |
-| Leadership and management are identical | Leadership is influence; management is wider. |
-| Communication is complete when message is sent | It is complete only when understood and feedback is possible. |
-| Informal communication is always bad | It can support speed and social bonding if handled wisely. |
+| Mistake                                        | Correct Understanding                                               |
+| ---------------------------------------------- | ------------------------------------------------------------------- |
+| Directing means only giving orders             | It includes supervision, motivation, leadership, and communication. |
+| Motivation is same for everyone                | Needs differ from person to person.                                 |
+| Money is the only motivator                    | Non-financial incentives can be equally important.                  |
+| Leadership and management are identical        | Leadership is influence; management is wider.                       |
+| Communication is complete when message is sent | It is complete only when understood and feedback is possible.       |
+| Informal communication is always bad           | It can support speed and social bonding if handled wisely.          |
 
 ## Practice Set
 
@@ -378,46 +379,46 @@ Problems of words and meaning:
 
 ## Directing Element Identifier
 
-| Case Clue | Element |
-|---|---|
-| Manager watches work and corrects method on the spot | Supervision. |
-| Employee works harder because of recognition or bonus | Motivation. |
-| Manager inspires team during difficult change | Leadership. |
-| Information is sent, received, understood, and feedback is given | Communication. |
-| Worker is confused because instruction was vague | Communication barrier. |
-| Team follows manager because of trust and vision | Leadership. |
+| Case Clue                                                        | Element                |
+| ---------------------------------------------------------------- | ---------------------- |
+| Manager watches work and corrects method on the spot             | Supervision.           |
+| Employee works harder because of recognition or bonus            | Motivation.            |
+| Manager inspires team during difficult change                    | Leadership.            |
+| Information is sent, received, understood, and feedback is given | Communication.         |
+| Worker is confused because instruction was vague                 | Communication barrier. |
+| Team follows manager because of trust and vision                 | Leadership.            |
 
 ## Motivation Diagnosis Table
 
-| Employee Situation | Likely Need or Incentive |
-|---|---|
-| Employee wants stable job and safe workplace | Safety need. |
-| Employee wants friendly team and belonging | Social need. |
-| Employee wants public appreciation | Esteem need or recognition. |
-| Employee wants challenging creative work | Self-actualisation need or job enrichment. |
-| Employee wants higher income | Financial incentive. |
-| Employee wants authority to make decisions | Empowerment and responsibility. |
+| Employee Situation                           | Likely Need or Incentive                   |
+| -------------------------------------------- | ------------------------------------------ |
+| Employee wants stable job and safe workplace | Safety need.                               |
+| Employee wants friendly team and belonging   | Social need.                               |
+| Employee wants public appreciation           | Esteem need or recognition.                |
+| Employee wants challenging creative work     | Self-actualisation need or job enrichment. |
+| Employee wants higher income                 | Financial incentive.                       |
+| Employee wants authority to make decisions   | Empowerment and responsibility.            |
 
 ## Communication Repair Table
 
-| Barrier | Symptom | Remedy |
-|---|---|---|
-| Technical jargon | Receiver does not understand message. | Use simple language. |
-| Premature evaluation | Receiver judges before listening fully. | Encourage patient listening. |
-| Status barrier | Subordinate fears speaking truth. | Build trust and openness. |
-| Information overload | Receiver misses key points. | Prioritise and summarise. |
-| Poor feedback | Sender does not know if message was understood. | Ask for confirmation and response. |
-| Faulty translation | Meaning changes across languages or levels. | Use clear translation and examples. |
+| Barrier              | Symptom                                         | Remedy                              |
+| -------------------- | ----------------------------------------------- | ----------------------------------- |
+| Technical jargon     | Receiver does not understand message.           | Use simple language.                |
+| Premature evaluation | Receiver judges before listening fully.         | Encourage patient listening.        |
+| Status barrier       | Subordinate fears speaking truth.               | Build trust and openness.           |
+| Information overload | Receiver misses key points.                     | Prioritise and summarise.           |
+| Poor feedback        | Sender does not know if message was understood. | Ask for confirmation and response.  |
+| Faulty translation   | Meaning changes across languages or levels.     | Use clear translation and examples. |
 
 ## Leadership Style Selection
 
-| Situation | Possible Style | Reason |
-|---|---|---|
-| Emergency requiring quick decision | Autocratic | Speed is essential. |
-| Skilled team solving complex problem | Democratic | Participation improves decision quality. |
-| Research team with experts | Laissez-faire with review | Experts need freedom, but goals still matter. |
-| New workers needing close guidance | Autocratic or coaching-oriented | Clear direction is needed. |
-| Change programme affecting employees | Democratic | Participation reduces resistance. |
+| Situation                            | Possible Style                  | Reason                                        |
+| ------------------------------------ | ------------------------------- | --------------------------------------------- |
+| Emergency requiring quick decision   | Autocratic                      | Speed is essential.                           |
+| Skilled team solving complex problem | Democratic                      | Participation improves decision quality.      |
+| Research team with experts           | Laissez-faire with review       | Experts need freedom, but goals still matter. |
+| New workers needing close guidance   | Autocratic or coaching-oriented | Clear direction is needed.                    |
+| Change programme affecting employees | Democratic                      | Participation reduces resistance.             |
 
 ## Case Answer Framework
 

@@ -73,14 +73,14 @@ Business includes all economic work connected with:
 
 ### 4.3 Examples
 
-| Work | Is it business? | Reason |
-|---|---:|---|
-| A factory manufactures shoes for sale | Yes | It produces goods for the market |
-| A shopkeeper sells grocery items daily | Yes | It regularly sells goods for profit |
-| A transport company moves goods for a fee | Yes | It provides a service for income |
-| A person sells an old phone once | No, usually not | It is an isolated personal sale |
-| A teacher teaches in a school for salary | No, it is employment | The teacher works under a service contract |
-| A doctor runs a clinic | Profession | It is based on expert knowledge and professional qualification |
+| Work                                      |      Is it business? | Reason                                                         |
+| ----------------------------------------- | -------------------: | -------------------------------------------------------------- |
+| A factory manufactures shoes for sale     |                  Yes | It produces goods for the market                               |
+| A shopkeeper sells grocery items daily    |                  Yes | It regularly sells goods for profit                            |
+| A transport company moves goods for a fee |                  Yes | It provides a service for income                               |
+| A person sells an old phone once          |      No, usually not | It is an isolated personal sale                                |
+| A teacher teaches in a school for salary  | No, it is employment | The teacher works under a service contract                     |
+| A doctor runs a clinic                    |           Profession | It is based on expert knowledge and professional qualification |
 
 ## 5. Economic and Non-Economic Work
 
@@ -116,12 +116,12 @@ Examples:
 
 The same type of work may be economic or non-economic depending on the motive.
 
-| Work | Economic if | Non-economic if |
-|---|---|---|
-| Cooking | A chef cooks in a restaurant for income | A parent cooks for family members |
-| Teaching | A tutor teaches for fees | A sibling teaches a younger child lovingly |
-| Driving | A driver carries passengers for fare | A person drives a friend to hospital without payment |
-| Cleaning | A worker cleans an office for wages | A person cleans their own room |
+| Work     | Economic if                             | Non-economic if                                      |
+| -------- | --------------------------------------- | ---------------------------------------------------- |
+| Cooking  | A chef cooks in a restaurant for income | A parent cooks for family members                    |
+| Teaching | A tutor teaches for fees                | A sibling teaches a younger child lovingly           |
+| Driving  | A driver carries passengers for fare    | A person drives a friend to hospital without payment |
+| Cleaning | A worker cleans an office for wages     | A person cleans their own room                       |
 
 ### 5.4 Is Barter Economic Work?
 
@@ -181,18 +181,18 @@ Employment is based on a service contract, appointment letter, service rules, an
 
 ## 7. Business, Profession, and Employment: Detailed Comparison
 
-| Basis | Business | Profession | Employment |
-|---|---|---|---|
-| Mode of entry | Decision of entrepreneur; legal formalities when required | Prescribed qualification, training, and professional recognition | Appointment by employer |
-| Basic nature | Production, purchase, sale, or exchange of goods and services | Personal expert service | Work performed under service rules |
-| Main objective | Profit through customer satisfaction | Fee through expert service | Salary or wages |
-| Qualification | No fixed minimum qualification in most cases | Special qualification and training required | Qualification decided by employer |
-| Capital | Needed according to size and nature of business | Limited capital may be needed | No capital investment by employee |
-| Reward | Profit | Professional fee | Salary or wages |
-| Risk | High; profit is uncertain | Moderate; fee may be more stable, but practice has risk | Low; return is generally fixed |
-| Transfer of interest | Possible, subject to law and agreement | Usually not transferable | Not transferable |
-| Code of conduct | No single universal professional code | Professional code must be followed | Employer rules must be followed |
-| Example | Retail shop, factory, trading firm | Doctor, lawyer, chartered accountant | Clerk, teacher, engineer in a company |
+| Basis                | Business                                                      | Profession                                                       | Employment                            |
+| -------------------- | ------------------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------- |
+| Mode of entry        | Decision of entrepreneur; legal formalities when required     | Prescribed qualification, training, and professional recognition | Appointment by employer               |
+| Basic nature         | Production, purchase, sale, or exchange of goods and services | Personal expert service                                          | Work performed under service rules    |
+| Main objective       | Profit through customer satisfaction                          | Fee through expert service                                       | Salary or wages                       |
+| Qualification        | No fixed minimum qualification in most cases                  | Special qualification and training required                      | Qualification decided by employer     |
+| Capital              | Needed according to size and nature of business               | Limited capital may be needed                                    | No capital investment by employee     |
+| Reward               | Profit                                                        | Professional fee                                                 | Salary or wages                       |
+| Risk                 | High; profit is uncertain                                     | Moderate; fee may be more stable, but practice has risk          | Low; return is generally fixed        |
+| Transfer of interest | Possible, subject to law and agreement                        | Usually not transferable                                         | Not transferable                      |
+| Code of conduct      | No single universal professional code                         | Professional code must be followed                               | Employer rules must be followed       |
+| Example              | Retail shop, factory, trading firm                            | Doctor, lawyer, chartered accountant                             | Clerk, teacher, engineer in a company |
 
 ### 7.1 Key Difference in One Line
 
@@ -324,13 +324,13 @@ Common imports included:
 
 Ancient and medieval commercial life produced many types of towns:
 
-| Type of town | Main feature |
-|---|---|
-| Port town | Sea trade, ship movement, storage, export and import |
-| Manufacturing town | Production of textiles, crafts, metal goods, or other items |
-| Mercantile town | Buying, selling, finance, and wholesale trade |
-| Sacred center | Pilgrimage, religious tourism, offerings, services, and crafts |
-| Administrative town | Royal power, tax collection, and organized markets |
+| Type of town        | Main feature                                                   |
+| ------------------- | -------------------------------------------------------------- |
+| Port town           | Sea trade, ship movement, storage, export and import           |
+| Manufacturing town  | Production of textiles, crafts, metal goods, or other items    |
+| Mercantile town     | Buying, selling, finance, and wholesale trade                  |
+| Sacred center       | Pilgrimage, religious tourism, offerings, services, and crafts |
+| Administrative town | Royal power, tax collection, and organized markets             |
 
 ### 9.6 Aids to Trade in Historical India
 
@@ -378,15 +378,15 @@ Carrying cash over long distances was risky. Roads and sea routes involved dange
 
 ### 10.4 Types of Hundi
 
-| Type | Meaning in learner language |
-|---|---|
-| Dhani-jog Darshani | Payable to any person presenting it; payment is made on sight |
-| Sah-jog Darshani | Payable to a specific respectable person; payer must be careful about the recipient |
-| Firman-jog Darshani | Payable according to order; paid on sight |
-| Dekhan-har Darshani | Payable to the presenter or bearer on sight |
-| Dhani-jog Muddati | Payable to any person after a fixed period |
-| Firman-jog Muddati | Payable to order after a fixed period |
-| Jokhmi Muddati | Linked with goods in transit; payment depends on the goods reaching safely |
+| Type                | Meaning in learner language                                                         |
+| ------------------- | ----------------------------------------------------------------------------------- |
+| Dhani-jog Darshani  | Payable to any person presenting it; payment is made on sight                       |
+| Sah-jog Darshani    | Payable to a specific respectable person; payer must be careful about the recipient |
+| Firman-jog Darshani | Payable according to order; paid on sight                                           |
+| Dekhan-har Darshani | Payable to the presenter or bearer on sight                                         |
+| Dhani-jog Muddati   | Payable to any person after a fixed period                                          |
+| Firman-jog Muddati  | Payable to order after a fixed period                                               |
+| Jokhmi Muddati      | Linked with goods in transit; payment depends on the goods reaching safely          |
 
 ### 10.5 Modern Parallel
 
@@ -404,22 +404,22 @@ The main lesson is that commerce requires trust, documentation, finance, and pay
 
 India had many important commercial centers. Each center had its own importance based on location, product specialization, route connection, or political strength.
 
-| Trade center | Commercial importance |
-|---|---|
-| Pataliputra or Patna | Important commercial town; known for export of stone products |
-| Peshawar | Connected India with China and Rome; traded wool and horses |
-| Taxila | Land route center between India and Central Asia; also known for learning |
-| Indraprastha | Commercial junction on an important royal route |
-| Mathura | Trade emporium connected with routes from South India and western ports |
-| Varanasi | Textile center; linked with river and road routes |
-| Mithila | Connected through eastern routes and sea trade networks |
-| Ujjain | Known for goods such as agate, carnelian, muslin, and cloth |
-| Surat | Major western trading center; famous for textiles and merchant finance |
-| Kanchi | Connected with international trade, including pearls, glass, stones, gold, and silk |
-| Madura | Associated with pearl fisheries and Roman trade links |
-| Broach | Major commercial center in western India on the Narmada |
-| Kaveripatta | Important port with storage, loading, unloading, and foreign trade |
-| Tamralipti | Eastern port connected with land and sea routes |
+| Trade center         | Commercial importance                                                               |
+| -------------------- | ----------------------------------------------------------------------------------- |
+| Pataliputra or Patna | Important commercial town; known for export of stone products                       |
+| Peshawar             | Connected India with China and Rome; traded wool and horses                         |
+| Taxila               | Land route center between India and Central Asia; also known for learning           |
+| Indraprastha         | Commercial junction on an important royal route                                     |
+| Mathura              | Trade emporium connected with routes from South India and western ports             |
+| Varanasi             | Textile center; linked with river and road routes                                   |
+| Mithila              | Connected through eastern routes and sea trade networks                             |
+| Ujjain               | Known for goods such as agate, carnelian, muslin, and cloth                         |
+| Surat                | Major western trading center; famous for textiles and merchant finance              |
+| Kanchi               | Connected with international trade, including pearls, glass, stones, gold, and silk |
+| Madura               | Associated with pearl fisheries and Roman trade links                               |
+| Broach               | Major commercial center in western India on the Narmada                             |
+| Kaveripatta          | Important port with storage, loading, unloading, and foreign trade                  |
+| Tamralipti           | Eastern port connected with land and sea routes                                     |
 
 ### 11.1 What These Centers Teach
 
@@ -731,13 +731,13 @@ Tertiary industry overlaps with commerce because these services help goods move 
 
 ## 20. Industry Classification Summary
 
-| Industry type | Meaning | Examples |
-|---|---|---|
-| Extractive | Takes resources from nature | Mining, fishing, farming |
-| Genetic | Breeds plants or animals | Nursery, cattle breeding, poultry |
+| Industry type | Meaning                       | Examples                             |
+| ------------- | ----------------------------- | ------------------------------------ |
+| Extractive    | Takes resources from nature   | Mining, fishing, farming             |
+| Genetic       | Breeds plants or animals      | Nursery, cattle breeding, poultry    |
 | Manufacturing | Converts materials into goods | Textile, cement, sugar, car assembly |
-| Construction | Builds fixed assets | Roads, bridges, buildings |
-| Tertiary | Provides support services | Transport, banking, insurance |
+| Construction  | Builds fixed assets           | Roads, bridges, buildings            |
+| Tertiary      | Provides support services     | Transport, banking, insurance        |
 
 ## 21. Commerce
 
@@ -774,10 +774,10 @@ Trade helps:
 
 Although the chapter mainly introduces trade in a general sense, learners should know the broad division:
 
-| Type | Meaning |
-|---|---|
+| Type           | Meaning                               |
+| -------------- | ------------------------------------- |
 | Internal trade | Buying and selling within the country |
-| External trade | Buying and selling between countries |
+| External trade | Buying and selling between countries  |
 
 ## 23. Auxiliaries to Trade
 
@@ -795,14 +795,14 @@ Major auxiliaries are:
 
 Commerce removes obstacles between producers and consumers.
 
-| Hindrance | Meaning | Removed by |
-|---|---|---|
-| Hindrance of persons | Producer and consumer may not know each other | Trade |
-| Hindrance of place | Goods are produced in one place but needed elsewhere | Transport |
-| Hindrance of time | Goods may be produced before they are consumed | Warehousing |
-| Hindrance of risk | Goods may be damaged, stolen, or destroyed | Insurance |
-| Hindrance of finance | Funds may be needed for production and trade | Banking and finance |
-| Hindrance of information | Consumers may not know about goods | Advertising and public relations |
+| Hindrance                | Meaning                                              | Removed by                       |
+| ------------------------ | ---------------------------------------------------- | -------------------------------- |
+| Hindrance of persons     | Producer and consumer may not know each other        | Trade                            |
+| Hindrance of place       | Goods are produced in one place but needed elsewhere | Transport                        |
+| Hindrance of time        | Goods may be produced before they are consumed       | Warehousing                      |
+| Hindrance of risk        | Goods may be damaged, stolen, or destroyed           | Insurance                        |
+| Hindrance of finance     | Funds may be needed for production and trade         | Banking and finance              |
+| Hindrance of information | Consumers may not know about goods                   | Advertising and public relations |
 
 ## 25. Transport and Communication
 
@@ -897,11 +897,11 @@ Public relations builds a favorable image of the business among customers, inves
 
 ### 29.1 Difference Between Advertising and Public Relations
 
-| Basis | Advertising | Public relations |
-|---|---|---|
-| Nature | Paid communication | Planned image-building communication |
-| Control | Business controls message and space | Less direct control over public response |
-| Purpose | Promote goods, services, or ideas | Build trust and goodwill |
+| Basis   | Advertising                         | Public relations                                     |
+| ------- | ----------------------------------- | ---------------------------------------------------- |
+| Nature  | Paid communication                  | Planned image-building communication                 |
+| Control | Business controls message and space | Less direct control over public response             |
+| Purpose | Promote goods, services, or ideas   | Build trust and goodwill                             |
 | Example | Newspaper ad, digital ad, billboard | Press note, community relation, public communication |
 
 ## 30. Objectives of Business
@@ -1103,13 +1103,13 @@ Uncertainty may relate to:
 
 Risk differs from business to business.
 
-| Business type | Risk level tendency | Reason |
-|---|---|---|
-| Daily necessity goods | Relatively lower | Demand is more stable |
-| Fashion goods | Higher | Customer taste changes quickly |
-| Large manufacturing | Higher capital risk | Heavy investment in plant and machinery |
-| Small service business | Lower capital risk | Limited fixed investment |
-| Export business | Additional risk | Exchange rate and foreign market changes |
+| Business type          | Risk level tendency | Reason                                   |
+| ---------------------- | ------------------- | ---------------------------------------- |
+| Daily necessity goods  | Relatively lower    | Demand is more stable                    |
+| Fashion goods          | Higher              | Customer taste changes quickly           |
+| Large manufacturing    | Higher capital risk | Heavy investment in plant and machinery  |
+| Small service business | Lower capital risk  | Limited fixed investment                 |
+| Export business        | Additional risk     | Exchange rate and foreign market changes |
 
 ### 35.4 Profit Is the Reward for Risk
 
@@ -1271,10 +1271,10 @@ Capital is needed for:
 
 Capital has two broad forms:
 
-| Type | Meaning | Examples |
-|---|---|---|
-| Fixed capital | Money invested in long-term assets | Land, building, machinery |
-| Working capital | Money needed for daily operations | Raw material, wages, stock, receivables |
+| Type            | Meaning                            | Examples                                |
+| --------------- | ---------------------------------- | --------------------------------------- |
+| Fixed capital   | Money invested in long-term assets | Land, building, machinery               |
+| Working capital | Money needed for daily operations  | Raw material, wages, stock, receivables |
 
 ### 38.5 Physical Facilities
 
@@ -1422,30 +1422,30 @@ Entrepreneurship is the process of identifying a business opportunity, arranging
 
 ### 41.1 Industry and Commerce
 
-| Basis | Industry | Commerce |
-|---|---|---|
-| Meaning | Produces or processes goods and services | Facilitates exchange of goods and services |
-| Main role | Creation of form utility | Removal of trade hindrances |
-| Includes | Primary, secondary, tertiary industry | Trade and auxiliaries |
-| Example | Textile mill | Wholesaler, transport, banking, insurance |
+| Basis     | Industry                                 | Commerce                                   |
+| --------- | ---------------------------------------- | ------------------------------------------ |
+| Meaning   | Produces or processes goods and services | Facilitates exchange of goods and services |
+| Main role | Creation of form utility                 | Removal of trade hindrances                |
+| Includes  | Primary, secondary, tertiary industry    | Trade and auxiliaries                      |
+| Example   | Textile mill                             | Wholesaler, transport, banking, insurance  |
 
 ### 41.2 Trade and Commerce
 
-| Basis | Trade | Commerce |
-|---|---|---|
-| Meaning | Buying and selling | Trade plus support services |
-| Scope | Narrower | Wider |
-| Function | Exchange of goods and services | Facilitates exchange from producer to consumer |
-| Example | Retail sale | Retail sale plus transport, banking, storage, advertising |
+| Basis    | Trade                          | Commerce                                                  |
+| -------- | ------------------------------ | --------------------------------------------------------- |
+| Meaning  | Buying and selling             | Trade plus support services                               |
+| Scope    | Narrower                       | Wider                                                     |
+| Function | Exchange of goods and services | Facilitates exchange from producer to consumer            |
+| Example  | Retail sale                    | Retail sale plus transport, banking, storage, advertising |
 
 ### 41.3 Pure Risk and Speculative Risk
 
-| Basis | Pure risk | Speculative risk |
-|---|---|---|
-| Possibility | Loss or no loss | Gain or loss |
-| Example | Fire, theft | Price change, demand change |
-| Gain possible? | No | Yes |
-| Insurance | Often insurable | Usually not fully insurable |
+| Basis          | Pure risk       | Speculative risk            |
+| -------------- | --------------- | --------------------------- |
+| Possibility    | Loss or no loss | Gain or loss                |
+| Example        | Fire, theft     | Price change, demand change |
+| Gain possible? | No              | Yes                         |
+| Insurance      | Often insurable | Usually not fully insurable |
 
 ## 42. Case File: Innovation in Weaving
 
@@ -1473,16 +1473,16 @@ A business should not think only about selling more. It should also improve meth
 
 ## 43. Common Mistakes and Corrections
 
-| Mistake | Correct understanding |
-|---|---|
-| Every sale is business | A single personal sale is usually not business; regular dealings are required |
-| Profit is the only objective | Profit is essential, but business also needs market standing, innovation, productivity, resources, and social responsibility |
-| Profession and business are the same | Profession is based on expert qualification and code of conduct |
-| Employment involves business risk | Employees usually receive fixed salary or wages; the main business risk is borne by the owner |
-| Commerce means only trade | Commerce includes trade and auxiliaries to trade |
-| Industry means only factories | Industry includes extractive, genetic, manufacturing, construction, and service support areas |
-| Insurance removes all risk | Insurance reduces financial loss for insured risks; it does not eliminate all uncertainty |
-| Large business is always better | Correct size depends on demand, capital, technology, risk, and management capacity |
+| Mistake                              | Correct understanding                                                                                                        |
+| ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
+| Every sale is business               | A single personal sale is usually not business; regular dealings are required                                                |
+| Profit is the only objective         | Profit is essential, but business also needs market standing, innovation, productivity, resources, and social responsibility |
+| Profession and business are the same | Profession is based on expert qualification and code of conduct                                                              |
+| Employment involves business risk    | Employees usually receive fixed salary or wages; the main business risk is borne by the owner                                |
+| Commerce means only trade            | Commerce includes trade and auxiliaries to trade                                                                             |
+| Industry means only factories        | Industry includes extractive, genetic, manufacturing, construction, and service support areas                                |
+| Insurance removes all risk           | Insurance reduces financial loss for insured risks; it does not eliminate all uncertainty                                    |
+| Large business is always better      | Correct size depends on demand, capital, technology, risk, and management capacity                                           |
 
 ## 44. Short Answer Practice
 
@@ -1671,29 +1671,29 @@ Social responsibility
 
 ## 48. Glossary
 
-| Term | Meaning |
-|---|---|
-| Business | Regular economic work to produce, sell, or exchange goods and services for profit |
-| Economic work | Work done to earn income or economic value |
-| Non-economic work | Work done from love, emotion, duty, or personal satisfaction |
-| Profession | Occupation requiring special knowledge, training, and professional standards |
-| Employment | Work under an employer for salary or wages |
-| Industry | Production, processing, extraction, construction, or conversion work |
-| Commerce | Trade and support services that help exchange |
-| Trade | Buying and selling of goods and services |
-| Auxiliaries | Services that support trade |
-| Extractive industry | Industry that draws resources from nature |
-| Genetic industry | Industry involving breeding of plants or animals |
-| Manufacturing | Conversion of raw material into finished goods |
-| Construction | Building fixed assets such as roads, bridges, and buildings |
-| Tertiary industry | Service industry supporting production and trade |
-| Profit | Excess of revenue over cost |
-| Risk | Possibility of loss or inadequate profit |
-| Speculative risk | Risk with possibility of gain or loss |
-| Pure risk | Risk with possibility of loss or no loss |
-| Entrepreneurship | Process of starting and running a business by taking risk |
-| Entrepreneur | Person who starts and organizes a business enterprise |
-| Hundi | Traditional commercial instrument used for transfer of money and trade settlement |
+| Term                | Meaning                                                                           |
+| ------------------- | --------------------------------------------------------------------------------- |
+| Business            | Regular economic work to produce, sell, or exchange goods and services for profit |
+| Economic work       | Work done to earn income or economic value                                        |
+| Non-economic work   | Work done from love, emotion, duty, or personal satisfaction                      |
+| Profession          | Occupation requiring special knowledge, training, and professional standards      |
+| Employment          | Work under an employer for salary or wages                                        |
+| Industry            | Production, processing, extraction, construction, or conversion work              |
+| Commerce            | Trade and support services that help exchange                                     |
+| Trade               | Buying and selling of goods and services                                          |
+| Auxiliaries         | Services that support trade                                                       |
+| Extractive industry | Industry that draws resources from nature                                         |
+| Genetic industry    | Industry involving breeding of plants or animals                                  |
+| Manufacturing       | Conversion of raw material into finished goods                                    |
+| Construction        | Building fixed assets such as roads, bridges, and buildings                       |
+| Tertiary industry   | Service industry supporting production and trade                                  |
+| Profit              | Excess of revenue over cost                                                       |
+| Risk                | Possibility of loss or inadequate profit                                          |
+| Speculative risk    | Risk with possibility of gain or loss                                             |
+| Pure risk           | Risk with possibility of loss or no loss                                          |
+| Entrepreneurship    | Process of starting and running a business by taking risk                         |
+| Entrepreneur        | Person who starts and organizes a business enterprise                             |
+| Hundi               | Traditional commercial instrument used for transfer of money and trade settlement |
 
 ## 49. Final Revision Sheet
 

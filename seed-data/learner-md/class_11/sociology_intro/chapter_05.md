@@ -232,14 +232,14 @@ People being studied are not objects; they are social persons with dignity.
 
 ## 16. Comparing Methods
 
-| Method | Best For | Main Limitation |
-|---|---|---|
-| Survey | Large-scale patterns | Limited depth |
-| Interview | Meanings and experiences | Time-consuming |
-| Observation | Actual behaviour | Observer effect |
-| Fieldwork | Context and everyday life | Hard to generalise |
-| Case study | Detail of one case | Limited representativeness |
-| Census/data analysis | Population trends | May miss lived meanings |
+| Method               | Best For                  | Main Limitation            |
+| -------------------- | ------------------------- | -------------------------- |
+| Survey               | Large-scale patterns      | Limited depth              |
+| Interview            | Meanings and experiences  | Time-consuming             |
+| Observation          | Actual behaviour          | Observer effect            |
+| Fieldwork            | Context and everyday life | Hard to generalise         |
+| Case study           | Detail of one case        | Limited representativeness |
+| Census/data analysis | Population trends         | May miss lived meanings    |
 
 ## 17. Combining Methods
 
@@ -256,18 +256,18 @@ Combining methods gives a fuller picture.
 
 ## 18. Key Terms
 
-| Term | Meaning |
-|---|---|
-| Research method | Systematic way of collecting evidence |
-| Research question | Specific question guiding study |
-| Survey | Standardised data collection from many respondents |
-| Questionnaire | Written or printed set of questions |
-| Interview | Guided research conversation |
-| Observation | Systematic watching of behaviour |
-| Fieldwork | Research in a natural social setting |
-| Sampling | Selecting cases from a larger population |
-| Objectivity | Fairness toward evidence |
-| Reflexivity | Awareness of researcher's own position |
+| Term              | Meaning                                            |
+| ----------------- | -------------------------------------------------- |
+| Research method   | Systematic way of collecting evidence              |
+| Research question | Specific question guiding study                    |
+| Survey            | Standardised data collection from many respondents |
+| Questionnaire     | Written or printed set of questions                |
+| Interview         | Guided research conversation                       |
+| Observation       | Systematic watching of behaviour                   |
+| Fieldwork         | Research in a natural social setting               |
+| Sampling          | Selecting cases from a larger population           |
+| Objectivity       | Fairness toward evidence                           |
+| Reflexivity       | Awareness of researcher's own position             |
 
 ## 19. Exam-Oriented Summary
 
@@ -287,4 +287,3 @@ Quantitative methods use numerical data, while qualitative methods study meaning
 8. What is sampling?
 9. Explain objectivity and reflexivity.
 10. List ethical principles in sociological research.
-

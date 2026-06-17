@@ -1,4 +1,5 @@
 # Chapter 1: Population - Distribution, Density, Growth and Composition
+
 ### NCERT Class 12 - Geography India
 
 ## Chapter at a Glance
@@ -22,27 +23,27 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Population distribution | Spatial spread of people across regions. |
-| Population density | Number of persons per square kilometre. |
-| Population growth | Change in population over time. |
-| Decadal growth rate | Percentage change in population over ten years. |
-| Sex ratio | Number of females per thousand males. |
-| Literacy rate | Percentage of literate population in a specified age group. |
-| Occupational structure | Distribution of workers across economic sectors. |
-| Rural population | People living in villages and rural settlements. |
-| Urban population | People living in towns and cities. |
+| Term                    | Meaning                                                     |
+| ----------------------- | ----------------------------------------------------------- |
+| Population distribution | Spatial spread of people across regions.                    |
+| Population density      | Number of persons per square kilometre.                     |
+| Population growth       | Change in population over time.                             |
+| Decadal growth rate     | Percentage change in population over ten years.             |
+| Sex ratio               | Number of females per thousand males.                       |
+| Literacy rate           | Percentage of literate population in a specified age group. |
+| Occupational structure  | Distribution of workers across economic sectors.            |
+| Rural population        | People living in villages and rural settlements.            |
+| Urban population        | People living in towns and cities.                          |
 
 ## Quick Learning Map
 
-| Population feature | India pattern |
-|---|---|
-| Dense population | Northern plains, coastal plains, urban-industrial regions |
-| Sparse population | Himalayas, Thar Desert, dense forests, remote interiors |
-| Growth | Declining growth rate but large absolute increase |
-| Composition | Young population but ageing gradually |
-| Occupational shift | Agriculture still important, services rising |
+| Population feature | India pattern                                             |
+| ------------------ | --------------------------------------------------------- |
+| Dense population   | Northern plains, coastal plains, urban-industrial regions |
+| Sparse population  | Himalayas, Thar Desert, dense forests, remote interiors   |
+| Growth             | Declining growth rate but large absolute increase         |
+| Composition        | Young population but ageing gradually                     |
+| Occupational shift | Agriculture still important, services rising              |
 
 # Unit 1A: Distribution of Population
 
@@ -71,13 +72,13 @@ Low population concentration is found in:
 
 ## Physical Factors
 
-| Factor | Effect |
-|---|---|
-| Relief | Plains attract dense population; mountains discourage dense settlement. |
-| Climate | Moderate and monsoon climates support agriculture and settlement. |
-| Soil | Fertile alluvial soils support dense population. |
-| Water | Rivers, groundwater, and rainfall support farming and towns. |
-| Vegetation | Dense forests may limit settlement and infrastructure. |
+| Factor     | Effect                                                                  |
+| ---------- | ----------------------------------------------------------------------- |
+| Relief     | Plains attract dense population; mountains discourage dense settlement. |
+| Climate    | Moderate and monsoon climates support agriculture and settlement.       |
+| Soil       | Fertile alluvial soils support dense population.                        |
+| Water      | Rivers, groundwater, and rainfall support farming and towns.            |
+| Vegetation | Dense forests may limit settlement and infrastructure.                  |
 
 ## Economic Factors
 
@@ -173,11 +174,11 @@ Regional and gender gaps in literacy are important development concerns.
 
 Occupational structure shows how workers are distributed across sectors.
 
-| Sector | Examples |
-|---|---|
-| Primary | Agriculture, forestry, fishing, mining |
-| Secondary | Manufacturing, construction |
-| Tertiary | Trade, transport, services |
+| Sector    | Examples                               |
+| --------- | -------------------------------------- |
+| Primary   | Agriculture, forestry, fishing, mining |
+| Secondary | Manufacturing, construction            |
+| Tertiary  | Trade, transport, services             |
 
 India has seen growth of secondary and tertiary sectors, but agriculture still supports a large share of population.
 
@@ -215,13 +216,13 @@ For population composition:
 
 # Unit 1L: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Confusing population size and density | Density relates population to area. |
-| Saying all large states have high density | Area matters; density can be low in large states. |
-| Ignoring physical factors | Relief, climate, soil, and water strongly matter. |
+| Mistake                                          | Correction                                                  |
+| ------------------------------------------------ | ----------------------------------------------------------- |
+| Confusing population size and density            | Density relates population to area.                         |
+| Saying all large states have high density        | Area matters; density can be low in large states.           |
+| Ignoring physical factors                        | Relief, climate, soil, and water strongly matter.           |
 | Treating growth rate and absolute growth as same | Growth rate may fall while absolute increase remains large. |
-| Ignoring gender in population composition | Sex ratio is a major indicator. |
+| Ignoring gender in population composition        | Sex ratio is a major indicator.                             |
 
 ## Practice Set
 

@@ -1,4 +1,5 @@
 # Chapter 8: Bill of Exchange
+
 ### NCERT Class 11 - Accountancy Part 1
 
 ---
@@ -17,20 +18,20 @@ credit sale -> instrument drawn -> acceptance/promise -> maturity -> honour or d
 
 ## Chapter Map
 
-| Section | What You Must Learn |
-| --- | --- |
-| Bill of exchange | meaning, features, parties, specimen logic |
-| Promissory note | meaning, features, parties, difference from bill |
-| Maturity | due date, days of grace, holidays |
-| Discounting | getting cash from bank before due date |
-| Endorsement | transferring bill to another person |
-| Accounting treatment | entries in drawer's and acceptor's books |
-| Dishonour | reversing liability when bill is not paid |
-| Noting charges | notary charges ultimately borne by drawee |
-| Renewal | old bill cancelled and new bill accepted |
-| Retiring | bill paid before maturity with rebate |
-| Bills books | subsidiary books for bills receivable and payable |
-| Accommodation bills | bills drawn for temporary financial help |
+| Section              | What You Must Learn                               |
+| -------------------- | ------------------------------------------------- |
+| Bill of exchange     | meaning, features, parties, specimen logic        |
+| Promissory note      | meaning, features, parties, difference from bill  |
+| Maturity             | due date, days of grace, holidays                 |
+| Discounting          | getting cash from bank before due date            |
+| Endorsement          | transferring bill to another person               |
+| Accounting treatment | entries in drawer's and acceptor's books          |
+| Dishonour            | reversing liability when bill is not paid         |
+| Noting charges       | notary charges ultimately borne by drawee         |
+| Renewal              | old bill cancelled and new bill accepted          |
+| Retiring             | bill paid before maturity with rebate             |
+| Bills books          | subsidiary books for bills receivable and payable |
+| Accommodation bills  | bills drawn for temporary financial help          |
 
 ---
 
@@ -51,11 +52,11 @@ In credit sales, the seller may want written assurance that payment will be made
 
 Traditional Indian credit instruments were called hundies. Examples include:
 
-| Type | Meaning |
-| --- | --- |
-| Shahjog hundi | payable to a respectable and responsible person called Shah |
-| Darshani hundi | payable at sight; similar to demand bill |
-| Muddati or miadi hundi | payable after a specified period; similar to time bill |
+| Type                   | Meaning                                                     |
+| ---------------------- | ----------------------------------------------------------- |
+| Shahjog hundi          | payable to a respectable and responsible person called Shah |
+| Darshani hundi         | payable at sight; similar to demand bill                    |
+| Muddati or miadi hundi | payable after a specified period; similar to time bill      |
 
 Modern business uses bills of exchange and promissory notes, governed by the Negotiable Instruments Act, 1881.
 
@@ -77,17 +78,17 @@ The creditor orders the debtor to pay a fixed amount on a fixed date.
 
 ## Features Of A Bill Of Exchange
 
-| Feature | Explanation |
-| --- | --- |
-| written instrument | oral order is not enough |
-| unconditional order | payment cannot depend on uncertain conditions |
-| signed by maker | drawer must sign |
-| certain amount | amount payable must be clear |
-| certain date | payment date must be determinable |
-| certain payee | person to receive payment must be identifiable |
-| payable on demand or after fixed period | timing must be clear |
-| stamped | must satisfy legal stamp requirement |
-| accepted by drawee | draft becomes bill only after acceptance |
+| Feature                                 | Explanation                                    |
+| --------------------------------------- | ---------------------------------------------- |
+| written instrument                      | oral order is not enough                       |
+| unconditional order                     | payment cannot depend on uncertain conditions  |
+| signed by maker                         | drawer must sign                               |
+| certain amount                          | amount payable must be clear                   |
+| certain date                            | payment date must be determinable              |
+| certain payee                           | person to receive payment must be identifiable |
+| payable on demand or after fixed period | timing must be clear                           |
+| stamped                                 | must satisfy legal stamp requirement           |
+| accepted by drawee                      | draft becomes bill only after acceptance       |
 
 ---
 
@@ -110,11 +111,11 @@ Now the draft becomes a bill of exchange.
 
 ## Parties To A Bill Of Exchange
 
-| Party | Meaning |
-| --- | --- |
+| Party  | Meaning                                            |
+| ------ | -------------------------------------------------- |
 | Drawer | person who draws the bill; usually creditor/seller |
 | Drawee | person on whom bill is drawn; usually debtor/buyer |
-| Payee | person who receives payment |
+| Payee  | person who receives payment                        |
 
 Normally, drawer and payee are the same person. But payee can change if the bill is discounted or endorsed.
 
@@ -144,15 +145,15 @@ The debtor promises in writing to pay the creditor.
 
 ## Features Of A Promissory Note
 
-| Feature | Explanation |
-| --- | --- |
-| written instrument | must be in writing |
-| unconditional promise | not dependent on uncertain event |
-| certain amount | amount must be clear |
-| signed by maker | maker/promisor signs it |
-| certain payee | person to receive payment is clear |
-| stamped | proper stamp required |
-| no acceptance needed | maker already promises to pay |
+| Feature               | Explanation                        |
+| --------------------- | ---------------------------------- |
+| written instrument    | must be in writing                 |
+| unconditional promise | not dependent on uncertain event   |
+| certain amount        | amount must be clear               |
+| signed by maker       | maker/promisor signs it            |
+| certain payee         | person to receive payment is clear |
+| stamped               | proper stamp required              |
+| no acceptance needed  | maker already promises to pay      |
 
 Promissory notes payable to bearer are not allowed under the relevant law.
 
@@ -160,9 +161,9 @@ Promissory notes payable to bearer are not allowed under the relevant law.
 
 ## Parties To A Promissory Note
 
-| Party | Meaning |
-| --- | --- |
-| Maker or promisor | person who promises to pay |
+| Party             | Meaning                            |
+| ----------------- | ---------------------------------- |
+| Maker or promisor | person who promises to pay         |
 | Payee or promisee | person to whom payment is promised |
 
 There are only two parties, unlike a bill of exchange which normally has three.
@@ -171,14 +172,14 @@ There are only two parties, unlike a bill of exchange which normally has three.
 
 ## Bill Of Exchange Versus Promissory Note
 
-| Basis | Bill Of Exchange | Promissory Note |
-| --- | --- | --- |
-| Drawer | drawn by creditor | drawn by debtor |
-| Nature | contains order to pay | contains promise to pay |
-| Parties | drawer, drawee, payee | maker and payee |
-| Acceptance | requires acceptance | does not require acceptance |
-| Payee | drawer and payee can be same | maker cannot be payee |
-| Dishonour notice | notice of dishonour is given | no notice to drawer needed |
+| Basis            | Bill Of Exchange             | Promissory Note             |
+| ---------------- | ---------------------------- | --------------------------- |
+| Drawer           | drawn by creditor            | drawn by debtor             |
+| Nature           | contains order to pay        | contains promise to pay     |
+| Parties          | drawer, drawee, payee        | maker and payee             |
+| Acceptance       | requires acceptance          | does not require acceptance |
+| Payee            | drawer and payee can be same | maker cannot be payee       |
+| Dishonour notice | notice of dishonour is given | no notice to drawer needed  |
 
 ---
 
@@ -186,14 +187,14 @@ There are only two parties, unlike a bill of exchange which normally has three.
 
 ## Main Advantages
 
-| Advantage | Explanation |
-| --- | --- |
+| Advantage            | Explanation                                            |
+| -------------------- | ------------------------------------------------------ |
 | framework for credit | creates clear relationship between creditor and debtor |
-| certainty | amount, due date, interest, and place can be specified |
-| convenient credit | buyer gets time; seller has written claim |
-| early cash option | seller can discount bill with bank |
-| transferable | bill can be endorsed to another person |
-| legal evidence | bill is proof of credit transaction |
+| certainty            | amount, due date, interest, and place can be specified |
+| convenient credit    | buyer gets time; seller has written claim              |
+| early cash option    | seller can discount bill with bank                     |
+| transferable         | bill can be endorsed to another person                 |
+| legal evidence       | bill is proof of credit transaction                    |
 
 ---
 
@@ -228,10 +229,10 @@ add 3 days of grace = April 8
 
 ## Holiday Rule
 
-| Situation | Maturity Date |
-| --- | --- |
-| due date is public holiday | preceding business day |
-| due date is emergency holiday declared under Negotiable Instruments Act | next working day |
+| Situation                                                               | Maturity Date          |
+| ----------------------------------------------------------------------- | ---------------------- |
+| due date is public holiday                                              | preceding business day |
+| due date is emergency holiday declared under Negotiable Instruments Act | next working day       |
 
 ---
 
@@ -290,13 +291,13 @@ No entry is made on maturity in the endorser's books if the bill is honoured.
 
 ## Key Accounts
 
-| Account | Nature |
-| --- | --- |
-| Bills Receivable | asset |
-| Bills Payable | liability |
-| Discount | expense for drawer when bill is discounted |
-| Rebate | allowed by holder when bill is retired early |
-| Noting Charges | expense ultimately borne by drawee |
+| Account          | Nature                                       |
+| ---------------- | -------------------------------------------- |
+| Bills Receivable | asset                                        |
+| Bills Payable    | liability                                    |
+| Discount         | expense for drawer when bill is discounted   |
+| Rebate           | allowed by holder when bill is retired early |
+| Noting Charges   | expense ultimately borne by drawee           |
 
 ---
 
@@ -633,21 +634,21 @@ It is a subsidiary book used when bills are numerous.
 
 Typical columns include:
 
-| Detail |
-| --- |
-| bill number |
-| date received |
-| date of bill |
+| Detail             |
+| ------------------ |
+| bill number        |
+| date received      |
+| date of bill       |
 | from whom received |
-| drawer |
-| acceptor |
-| place payable |
-| term |
-| due date |
-| ledger folio |
-| amount |
-| cash book folio |
-| remarks |
+| drawer             |
+| acceptor           |
+| place payable      |
+| term               |
+| due date           |
+| ledger folio       |
+| amount             |
+| cash book folio    |
+| remarks            |
 
 ---
 
@@ -677,21 +678,21 @@ Bills Payable Book records details of bills accepted by the business and payable
 
 Typical columns include:
 
-| Detail |
-| --- |
-| bill number |
-| date of bill |
-| to whom given |
-| drawer |
-| payee |
-| place payable |
-| term |
-| due date |
-| ledger folio |
-| amount |
-| date paid |
+| Detail          |
+| --------------- |
+| bill number     |
+| date of bill    |
+| to whom given   |
+| drawer          |
+| payee           |
+| place payable   |
+| term            |
+| due date        |
+| ledger folio    |
+| amount          |
+| date paid       |
 | cash book folio |
-| remarks |
+| remarks         |
 
 ---
 
@@ -742,11 +743,11 @@ Acceptor honours the bill.
 
 Accommodation bills are different from trade bills.
 
-| Trade Bill | Accommodation Bill |
-| --- | --- |
-| based on actual credit sale/purchase | based on financial accommodation |
-| drawer is creditor | drawer may not be actual creditor |
-| liability arises from trade | liability arises from mutual arrangement |
+| Trade Bill                           | Accommodation Bill                       |
+| ------------------------------------ | ---------------------------------------- |
+| based on actual credit sale/purchase | based on financial accommodation         |
+| drawer is creditor                   | drawer may not be actual creditor        |
+| liability arises from trade          | liability arises from mutual arrangement |
 
 ---
 
@@ -754,41 +755,41 @@ Accommodation bills are different from trade bills.
 
 ## Bill Received And Honoured
 
-| Event | Drawer/Creditor | Drawee/Debtor |
-| --- | --- | --- |
-| credit sale/purchase | `Debtor Dr. To Sales` | `Purchases Dr. To Creditor` |
-| bill accepted | `Bills Receivable Dr. To Debtor` | `Creditor Dr. To Bills Payable` |
-| bill honoured | `Bank Dr. To Bills Receivable` | `Bills Payable Dr. To Bank` |
+| Event                | Drawer/Creditor                  | Drawee/Debtor                   |
+| -------------------- | -------------------------------- | ------------------------------- |
+| credit sale/purchase | `Debtor Dr. To Sales`            | `Purchases Dr. To Creditor`     |
+| bill accepted        | `Bills Receivable Dr. To Debtor` | `Creditor Dr. To Bills Payable` |
+| bill honoured        | `Bank Dr. To Bills Receivable`   | `Bills Payable Dr. To Bank`     |
 
 ---
 
 ## Bill Discounted
 
-| Event | Drawer/Creditor | Drawee/Debtor |
-| --- | --- | --- |
-| discounting | `Bank Dr.; Discount Dr.; To Bills Receivable` | no entry |
-| honoured at maturity | no entry | `Bills Payable Dr. To Bank` |
-| dishonoured | `Drawee Dr. To Bank` | `Bills Payable Dr. To Drawer` |
+| Event                | Drawer/Creditor                               | Drawee/Debtor                 |
+| -------------------- | --------------------------------------------- | ----------------------------- |
+| discounting          | `Bank Dr.; Discount Dr.; To Bills Receivable` | no entry                      |
+| honoured at maturity | no entry                                      | `Bills Payable Dr. To Bank`   |
+| dishonoured          | `Drawee Dr. To Bank`                          | `Bills Payable Dr. To Drawer` |
 
 ---
 
 ## Bill Endorsed
 
-| Event | Drawer/Endorser | Drawee |
-| --- | --- | --- |
-| endorsement | `Creditor Dr. To Bills Receivable` | no entry |
-| honoured | no entry | `Bills Payable Dr. To Bank` |
-| dishonoured | `Drawee Dr. To Creditor/Endorsee` | `Bills Payable Dr. To Drawer` |
+| Event       | Drawer/Endorser                    | Drawee                        |
+| ----------- | ---------------------------------- | ----------------------------- |
+| endorsement | `Creditor Dr. To Bills Receivable` | no entry                      |
+| honoured    | no entry                           | `Bills Payable Dr. To Bank`   |
+| dishonoured | `Drawee Dr. To Creditor/Endorsee`  | `Bills Payable Dr. To Drawer` |
 
 ---
 
 ## Bill Sent For Collection
 
-| Event | Drawer/Creditor | Drawee |
-| --- | --- | --- |
-| sent to bank | `Bills Sent for Collection Dr. To Bills Receivable` | no entry |
-| collected | `Bank Dr. To Bills Sent for Collection` | `Bills Payable Dr. To Bank` |
-| dishonoured | `Drawee Dr. To Bills Sent for Collection` | `Bills Payable Dr. To Drawer` |
+| Event        | Drawer/Creditor                                     | Drawee                        |
+| ------------ | --------------------------------------------------- | ----------------------------- |
+| sent to bank | `Bills Sent for Collection Dr. To Bills Receivable` | no entry                      |
+| collected    | `Bank Dr. To Bills Sent for Collection`             | `Bills Payable Dr. To Bank`   |
+| dishonoured  | `Drawee Dr. To Bills Sent for Collection`           | `Bills Payable Dr. To Drawer` |
 
 ---
 
@@ -914,4 +915,3 @@ Interest may be charged for the extended credit period and may be paid in cash o
 - [ ] I can pass retirement entries with rebate.
 - [ ] I can explain the purpose of Bills Receivable and Bills Payable Books.
 - [ ] I can distinguish trade bills from accommodation bills.
-

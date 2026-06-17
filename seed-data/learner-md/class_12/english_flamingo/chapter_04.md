@@ -1,4 +1,5 @@
 # Chapter 4: The Rattrap
+
 ### NCERT Class 12 - English Flamingo
 
 ## Chapter at a Glance
@@ -22,15 +23,15 @@ By the end of this chapter, you should be able to:
 
 ## Key Facts
 
-| Element | Detail |
-|---|---|
-| Author | Selma Lagerlof |
-| Genre | Short story / moral fiction |
-| Main character | Rattrap peddler |
-| Key setting | Countryside, crofter's cottage, ironworks, ironmaster's house |
-| Central symbol | Rattrap |
-| Turning point | Edla treats the peddler with trust and dignity |
-| Main theme | Human goodness can redeem a fallen person |
+| Element        | Detail                                                        |
+| -------------- | ------------------------------------------------------------- |
+| Author         | Selma Lagerlof                                                |
+| Genre          | Short story / moral fiction                                   |
+| Main character | Rattrap peddler                                               |
+| Key setting    | Countryside, crofter's cottage, ironworks, ironmaster's house |
+| Central symbol | Rattrap                                                       |
+| Turning point  | Edla treats the peddler with trust and dignity                |
+| Main theme     | Human goodness can redeem a fallen person                     |
 
 # Unit 4A: Plot Overview
 
@@ -136,14 +137,14 @@ The ironmaster misreads the peddler's identity. Edla sees more deeply: she recog
 
 # Unit 4H: Symbols
 
-| Symbol | Meaning |
-|---|---|
-| Rattrap | Worldly temptation and moral entrapment |
-| Bait | Money, comfort, pleasure |
-| Forest | Confusion, guilt, moral lostness |
-| Ironworks | Harsh labouring world |
-| Christmas hospitality | Grace, forgiveness, renewal |
-| Captain signature | Recovered dignity and self-respect |
+| Symbol                | Meaning                                 |
+| --------------------- | --------------------------------------- |
+| Rattrap               | Worldly temptation and moral entrapment |
+| Bait                  | Money, comfort, pleasure                |
+| Forest                | Confusion, guilt, moral lostness        |
+| Ironworks             | Harsh labouring world                   |
+| Christmas hospitality | Grace, forgiveness, renewal             |
+| Captain signature     | Recovered dignity and self-respect      |
 
 # Unit 4I: Irony in the Story
 
@@ -153,13 +154,13 @@ Another irony is that he is treated as a captain by mistake, but this mistaken d
 
 # Unit 4J: Edla vs Ironmaster
 
-| Aspect | Ironmaster | Edla |
-|---|---|---|
-| First response | Mistaken recognition | Careful observation |
-| Basis of kindness | Assumed social identity | Human sympathy |
-| After truth | Anger and rejection | Keeps her promise of hospitality |
-| Moral depth | Limited | Strong |
-| Effect on peddler | Fear | Transformation |
+| Aspect            | Ironmaster              | Edla                             |
+| ----------------- | ----------------------- | -------------------------------- |
+| First response    | Mistaken recognition    | Careful observation              |
+| Basis of kindness | Assumed social identity | Human sympathy                   |
+| After truth       | Anger and rejection     | Keeps her promise of hospitality |
+| Moral depth       | Limited                 | Strong                           |
+| Effect on peddler | Fear                    | Transformation                   |
 
 # Unit 4K: Exam Answer Frameworks
 
@@ -181,13 +182,13 @@ Another irony is that he is treated as a captain by mistake, but this mistaken d
 
 # Unit 4L: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Calling the peddler purely evil | He is flawed but capable of reform. |
-| Ignoring the crofter's kindness | His kindness makes the theft more serious. |
-| Treating the rattrap as only an object | It is the central metaphor of the story. |
-| Saying the ironmaster transforms the peddler | Edla's trust transforms him. |
-| Missing the forest's symbolic meaning | It reflects guilt and entrapment. |
+| Mistake                                      | Correction                                 |
+| -------------------------------------------- | ------------------------------------------ |
+| Calling the peddler purely evil              | He is flawed but capable of reform.        |
+| Ignoring the crofter's kindness              | His kindness makes the theft more serious. |
+| Treating the rattrap as only an object       | It is the central metaphor of the story.   |
+| Saying the ironmaster transforms the peddler | Edla's trust transforms him.               |
+| Missing the forest's symbolic meaning        | It reflects guilt and entrapment.          |
 
 ## Practice Set
 

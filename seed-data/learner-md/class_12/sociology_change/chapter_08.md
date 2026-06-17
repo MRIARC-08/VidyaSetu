@@ -22,18 +22,18 @@ The central idea is that the rights people enjoy today did not simply appear. Ma
 
 ## Key Terms
 
-| Term | Meaning | Why it matters |
-|---|---|---|
-| Social movement | Sustained collective action with organisation, shared goals, and ideology | Main concept of the chapter |
-| Collective action | Action taken by a group together | Movements require collective effort |
-| Counter movement | Movement that resists or opposes another movement | Social change often produces resistance |
-| Reformist movement | Movement seeking gradual change within existing institutions | Right to Information campaign is an example |
-| Redemptive movement | Movement aiming to change personal consciousness and behaviour | Narayana Guru's work among Ezhavas is an example |
-| Revolutionary movement | Movement aiming to transform social relations radically, often through state power | Bolshevik and Naxalite movements are examples |
-| Old social movements | Class-based movements often linked to political parties and trade unions | Focus on economic inequality and power |
-| New social movements | Movements around environment, identity, gender, rights, culture, and quality of life | Often cross class boundaries |
-| Civil society | Space of associations, groups, unions, campaigns, and organisations outside the state and market | Many movements operate here |
-| Identity politics | Political mobilisation around shared identity such as caste, tribe, gender, region, or ethnicity | Important in many Indian movements |
+| Term                   | Meaning                                                                                          | Why it matters                                   |
+| ---------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------ |
+| Social movement        | Sustained collective action with organisation, shared goals, and ideology                        | Main concept of the chapter                      |
+| Collective action      | Action taken by a group together                                                                 | Movements require collective effort              |
+| Counter movement       | Movement that resists or opposes another movement                                                | Social change often produces resistance          |
+| Reformist movement     | Movement seeking gradual change within existing institutions                                     | Right to Information campaign is an example      |
+| Redemptive movement    | Movement aiming to change personal consciousness and behaviour                                   | Narayana Guru's work among Ezhavas is an example |
+| Revolutionary movement | Movement aiming to transform social relations radically, often through state power               | Bolshevik and Naxalite movements are examples    |
+| Old social movements   | Class-based movements often linked to political parties and trade unions                         | Focus on economic inequality and power           |
+| New social movements   | Movements around environment, identity, gender, rights, culture, and quality of life             | Often cross class boundaries                     |
+| Civil society          | Space of associations, groups, unions, campaigns, and organisations outside the state and market | Many movements operate here                      |
+| Identity politics      | Political mobilisation around shared identity such as caste, tribe, gender, region, or ethnicity | Important in many Indian movements               |
 
 ## 1. Why Social Movements Matter
 
@@ -744,4 +744,3 @@ Old social movements were often class-based and linked with political parties or
 - Dalit movements seek dignity, equality, and annihilation of caste.
 - Tribal movements involve land, forest, autonomy, and identity.
 - Women's movements have addressed reform, nationalism, violence, land, employment, and gender justice.
-

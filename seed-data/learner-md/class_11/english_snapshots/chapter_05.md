@@ -1,4 +1,5 @@
 # Chapter 5: Mother's Day
+
 ### NCERT Class 11 English Snapshots
 
 ---
@@ -30,15 +31,15 @@ After studying this chapter, you should be able to:
 
 ## 1. Chapter Snapshot
 
-| Element | Details |
-|---|---|
-| Text type | One-act play |
-| Writer | J. B. Priestley |
+| Element         | Details                                           |
+| --------------- | ------------------------------------------------- |
+| Text type       | One-act play                                      |
+| Writer          | J. B. Priestley                                   |
 | Main characters | Mrs Pearson, Mrs Fitzgerald, Doris, Cyril, George |
-| Setting | Pearson family living room |
-| Tone | Comic, satirical, reformist |
-| Main issue | Mother is overworked and undervalued |
-| Dramatic device | Personality/body exchange |
+| Setting         | Pearson family living room                        |
+| Tone            | Comic, satirical, reformist                       |
+| Main issue      | Mother is overworked and undervalued              |
+| Dramatic device | Personality/body exchange                         |
 
 ---
 
@@ -58,11 +59,11 @@ Eventually, the personalities are restored. Mrs Pearson gains confidence, and th
 
 The conflict is between:
 
-| Side | What it represents |
-|---|---|
+| Side                 | What it represents                                   |
+| -------------------- | ---------------------------------------------------- |
 | Mrs Pearson's family | Selfish expectations, entitlement, lack of gratitude |
-| Mrs Pearson's need | Respect, rest, equality, recognition |
-| Mrs Fitzgerald | Courage, firmness, practical reform |
+| Mrs Pearson's need   | Respect, rest, equality, recognition                 |
+| Mrs Fitzgerald       | Courage, firmness, practical reform                  |
 
 The play shows that love without respect becomes exploitation.
 
@@ -70,13 +71,13 @@ The play shows that love without respect becomes exploitation.
 
 ## 4. Mrs Pearson
 
-| Trait | Explanation |
-|---|---|
-| Loving | She cares deeply for her family |
-| Overworked | She performs household work without appreciation |
-| Timid | She finds it difficult to confront her family |
-| Emotionally neglected | Her family uses her but does not value her |
-| Capable of change | By the end, she begins to assert herself |
+| Trait                 | Explanation                                      |
+| --------------------- | ------------------------------------------------ |
+| Loving                | She cares deeply for her family                  |
+| Overworked            | She performs household work without appreciation |
+| Timid                 | She finds it difficult to confront her family    |
+| Emotionally neglected | Her family uses her but does not value her       |
+| Capable of change     | By the end, she begins to assert herself         |
 
 Mrs Pearson's weakness is not lack of intelligence. It is her habit of self-sacrifice and fear of upsetting the family.
 
@@ -86,13 +87,13 @@ Mrs Pearson's weakness is not lack of intelligence. It is her habit of self-sacr
 
 Mrs Fitzgerald is bold, direct, and practical. She understands Mrs Pearson's problem clearly.
 
-| Trait | Explanation |
-|---|---|
-| Strong-willed | She believes in taking firm action |
-| Sharp | She reads people accurately |
-| Helpful | She wants Mrs Pearson to gain respect |
-| Unconventional | She uses a magical personality exchange |
-| Reform-minded | She wants the family structure to change |
+| Trait          | Explanation                              |
+| -------------- | ---------------------------------------- |
+| Strong-willed  | She believes in taking firm action       |
+| Sharp          | She reads people accurately              |
+| Helpful        | She wants Mrs Pearson to gain respect    |
+| Unconventional | She uses a magical personality exchange  |
+| Reform-minded  | She wants the family structure to change |
 
 Mrs Fitzgerald says what Mrs Pearson is unable to say.
 
@@ -171,26 +172,26 @@ The resolution is gentle, not violent. The aim is correction, not revenge.
 
 ## 11. Play-Specific Study Points
 
-| Feature | How it works |
-|---|---|
+| Feature          | How it works                                           |
+| ---------------- | ------------------------------------------------------ |
 | Stage directions | Show movement, tone, expression, and dramatic contrast |
-| Dialogue | Reveals character and conflict |
-| Comic reversal | Mother becomes powerful and family becomes nervous |
-| Dramatic irony | Audience understands the body-swap situation |
-| One-room setting | Focuses attention on family conflict |
+| Dialogue         | Reveals character and conflict                         |
+| Comic reversal   | Mother becomes powerful and family becomes nervous     |
+| Dramatic irony   | Audience understands the body-swap situation           |
+| One-room setting | Focuses attention on family conflict                   |
 
 ---
 
 ## 12. Theme Board
 
-| Theme | Explanation |
-|---|---|
-| Respect for mothers | Mother deserves dignity, not only affection |
-| Domestic labour | Household work is real work |
-| Gender roles | Women are expected to serve silently |
-| Self-assertion | Mrs Pearson must learn to speak firmly |
-| Family responsibility | Every member should contribute |
-| Humour as reform | Comedy is used to expose social injustice |
+| Theme                 | Explanation                                 |
+| --------------------- | ------------------------------------------- |
+| Respect for mothers   | Mother deserves dignity, not only affection |
+| Domestic labour       | Household work is real work                 |
+| Gender roles          | Women are expected to serve silently        |
+| Self-assertion        | Mrs Pearson must learn to speak firmly      |
+| Family responsibility | Every member should contribute              |
+| Humour as reform      | Comedy is used to expose social injustice   |
 
 ---
 

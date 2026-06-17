@@ -1,4 +1,5 @@
 # Chapter 2: Collection of Data
+
 ### NCERT Class 11 Statistics for Economics
 
 ---
@@ -71,10 +72,10 @@ An observation is a particular value of a variable.
 
 Example:
 
-| Year | Foodgrain production |
-|---|---|
-| 2015-16 | 252 million tonnes |
-| 2016-17 | 272 million tonnes |
+| Year    | Foodgrain production |
+| ------- | -------------------- |
+| 2015-16 | 252 million tonnes   |
+| 2016-17 | 272 million tonnes   |
 
 Here:
 
@@ -104,11 +105,11 @@ Data helps transform a general problem into a measurable problem.
 
 Example:
 
-| General statement | Data-based statement |
-|---|---|
-| People are unemployed | Unemployment rate is 8 percent |
-| Prices are rising | Price index increased by 6 percent |
-| Production changed | Output increased from 100 units to 125 units |
+| General statement     | Data-based statement                         |
+| --------------------- | -------------------------------------------- |
+| People are unemployed | Unemployment rate is 8 percent               |
+| Prices are rising     | Price index increased by 6 percent           |
+| Production changed    | Output increased from 100 units to 125 units |
 
 ---
 
@@ -150,15 +151,15 @@ Secondary data saves time and cost because the investigator does not collect it 
 
 ### 4.3 Primary vs Secondary Data
 
-| Basis | Primary data | Secondary data |
-|---|---|---|
-| Meaning | Collected first-hand | Already collected by another agency |
-| Originality | Original for the current study | Not original for the current user |
-| Cost | Usually higher | Usually lower |
-| Time | Takes more time | Saves time |
-| Control | Investigator controls method | Investigator depends on existing data |
-| Suitability | Can be designed for exact need | Must be checked for suitability |
-| Example | Household survey by researcher | Census report used by researcher |
+| Basis       | Primary data                   | Secondary data                        |
+| ----------- | ------------------------------ | ------------------------------------- |
+| Meaning     | Collected first-hand           | Already collected by another agency   |
+| Originality | Original for the current study | Not original for the current user     |
+| Cost        | Usually higher                 | Usually lower                         |
+| Time        | Takes more time                | Saves time                            |
+| Control     | Investigator controls method   | Investigator depends on existing data |
+| Suitability | Can be designed for exact need | Must be checked for suitability       |
+| Example     | Household survey by researcher | Census report used by researcher      |
 
 ---
 
@@ -170,12 +171,12 @@ Surveys are used when the investigator wants to know characteristics, opinions, 
 
 Examples:
 
-| Survey topic | Data collected |
-|---|---|
-| Popularity of a product | Customer opinion |
-| Employment status | Whether people are employed or unemployed |
-| Household income | Income range of families |
-| School facilities | Availability of teachers, classrooms, books |
+| Survey topic            | Data collected                              |
+| ----------------------- | ------------------------------------------- |
+| Popularity of a product | Customer opinion                            |
+| Employment status       | Whether people are employed or unemployed   |
+| Household income        | Income range of families                    |
+| School facilities       | Availability of teachers, classrooms, books |
 
 Survey data must be collected carefully because poor questions lead to poor answers.
 
@@ -206,25 +207,25 @@ The investigator asks questions and records answers.
 
 A good questionnaire should be clear, short, unbiased, and arranged logically.
 
-| Rule | Explanation |
-|---|---|
-| Keep it short | Too many questions may tire respondents |
-| Use simple language | Questions should be easy to understand |
-| Avoid ambiguity | A question should not have more than one meaning |
-| Move from general to specific | This makes respondents comfortable |
-| Avoid leading questions | Do not push respondents toward one answer |
-| Avoid double negatives | They confuse respondents |
-| Avoid personal questions at the beginning | Sensitive questions should come later if needed |
-| Provide suitable answer choices | Options should match the question |
+| Rule                                      | Explanation                                      |
+| ----------------------------------------- | ------------------------------------------------ |
+| Keep it short                             | Too many questions may tire respondents          |
+| Use simple language                       | Questions should be easy to understand           |
+| Avoid ambiguity                           | A question should not have more than one meaning |
+| Move from general to specific             | This makes respondents comfortable               |
+| Avoid leading questions                   | Do not push respondents toward one answer        |
+| Avoid double negatives                    | They confuse respondents                         |
+| Avoid personal questions at the beginning | Sensitive questions should come later if needed  |
+| Provide suitable answer choices           | Options should match the question                |
 
 ### Poor and Good Questions
 
-| Poor question | Problem | Better question |
-|---|---|---|
-| Do you not disagree that prices should not be reduced? | Double negative | Should prices be reduced? |
-| You like this product, don't you? | Leading question | Do you like this product? |
-| Is your school good? | Too vague | How would you rate classroom facilities in your school? |
-| What is your income and savings? | Two questions in one | What is your monthly income? What is your monthly saving? |
+| Poor question                                          | Problem              | Better question                                           |
+| ------------------------------------------------------ | -------------------- | --------------------------------------------------------- |
+| Do you not disagree that prices should not be reduced? | Double negative      | Should prices be reduced?                                 |
+| You like this product, don't you?                      | Leading question     | Do you like this product?                                 |
+| Is your school good?                                   | Too vague            | How would you rate classroom facilities in your school?   |
+| What is your income and savings?                       | Two questions in one | What is your monthly income? What is your monthly saving? |
 
 ---
 
@@ -309,14 +310,14 @@ Suitable when:
 
 ### Comparison
 
-| Basis | Personal interview | Mailing questionnaire | Telephone interview |
-|---|---|---|---|
-| Cost | High | Low to moderate | Moderate |
-| Time | More | More waiting time | Less |
-| Clarification | High | Low | Moderate |
-| Response rate | Usually high | Often low | Moderate |
-| Suitable for complex questions | Yes | No | Limited |
-| Investigator bias | Possible | Low | Possible |
+| Basis                          | Personal interview | Mailing questionnaire | Telephone interview |
+| ------------------------------ | ------------------ | --------------------- | ------------------- |
+| Cost                           | High               | Low to moderate       | Moderate            |
+| Time                           | More               | More waiting time     | Less                |
+| Clarification                  | High               | Low                   | Moderate            |
+| Response rate                  | Usually high       | Often low             | Moderate            |
+| Suitable for complex questions | Yes                | No                    | Limited             |
+| Investigator bias              | Possible           | Low                   | Possible            |
 
 ---
 
@@ -366,14 +367,14 @@ Suitable when:
 
 ### Census vs Sample Survey
 
-| Basis | Census | Sample survey |
-|---|---|---|
-| Coverage | Every unit | Selected units |
-| Cost | High | Lower |
-| Time | More | Less |
-| Organisation | Difficult | Easier |
-| Accuracy | Can be high if properly conducted | Depends on sample design |
-| Suitability | Small or very important complete study | Large population and limited resources |
+| Basis        | Census                                 | Sample survey                          |
+| ------------ | -------------------------------------- | -------------------------------------- |
+| Coverage     | Every unit                             | Selected units                         |
+| Cost         | High                                   | Lower                                  |
+| Time         | More                                   | Less                                   |
+| Organisation | Difficult                              | Easier                                 |
+| Accuracy     | Can be high if properly conducted      | Depends on sample design               |
+| Suitability  | Small or very important complete study | Large population and limited resources |
 
 ---
 
@@ -385,11 +386,11 @@ Population means the totality of items or individuals under study.
 
 Examples:
 
-| Study | Population |
-|---|---|
-| Income of families in a village | All families in that village |
+| Study                                  | Population                           |
+| -------------------------------------- | ------------------------------------ |
+| Income of families in a village        | All families in that village         |
 | Marks of Class 11 students in a school | All Class 11 students in that school |
-| Employment status of youth in a city | All youth in that city |
+| Employment status of youth in a city   | All youth in that city               |
 
 Population does not always mean human population. It means all units relevant to the study.
 
@@ -513,15 +514,15 @@ Non-sampling errors can be more serious than sampling errors because they arise 
 
 Secondary data may be collected from:
 
-| Source | Examples |
-|---|---|
-| Government publications | Census reports, Economic Survey, statistical abstracts |
-| Semi-government bodies | Boards, commissions, public institutions |
-| International organisations | World Bank, IMF, United Nations reports |
-| Research institutions | University and institute reports |
-| Newspapers and journals | Economic articles and data reports |
-| Books | Published studies and reference books |
-| Websites | Official data portals and institutional databases |
+| Source                      | Examples                                               |
+| --------------------------- | ------------------------------------------------------ |
+| Government publications     | Census reports, Economic Survey, statistical abstracts |
+| Semi-government bodies      | Boards, commissions, public institutions               |
+| International organisations | World Bank, IMF, United Nations reports                |
+| Research institutions       | University and institute reports                       |
+| Newspapers and journals     | Economic articles and data reports                     |
+| Books                       | Published studies and reference books                  |
+| Websites                    | Official data portals and institutional databases      |
 
 ### Precautions Before Using Secondary Data
 
@@ -541,15 +542,15 @@ Secondary data is convenient, but it must not be used blindly.
 
 ## 16. Common Mistakes
 
-| Mistake | Correct understanding |
-|---|---|
-| Treating all collected data as primary | Data is primary only for the agency that collects it first-hand. |
-| Assuming secondary data is always reliable | It must be checked for source, method, and suitability. |
-| Confusing population with sample | Population is the whole group; sample is selected part of it. |
-| Thinking census is always best | Census may be too costly and time-consuming. |
-| Thinking sample means careless study | A well-designed sample can be reliable. |
-| Ignoring questionnaire design | Poor questions produce poor data. |
-| Confusing sampling and non-sampling error | Sampling error arises from studying a sample; non-sampling error arises from mistakes and bias. |
+| Mistake                                    | Correct understanding                                                                           |
+| ------------------------------------------ | ----------------------------------------------------------------------------------------------- |
+| Treating all collected data as primary     | Data is primary only for the agency that collects it first-hand.                                |
+| Assuming secondary data is always reliable | It must be checked for source, method, and suitability.                                         |
+| Confusing population with sample           | Population is the whole group; sample is selected part of it.                                   |
+| Thinking census is always best             | Census may be too costly and time-consuming.                                                    |
+| Thinking sample means careless study       | A well-designed sample can be reliable.                                                         |
+| Ignoring questionnaire design              | Poor questions produce poor data.                                                               |
+| Confusing sampling and non-sampling error  | Sampling error arises from studying a sample; non-sampling error arises from mistakes and bias. |
 
 ---
 

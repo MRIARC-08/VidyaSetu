@@ -1,4 +1,5 @@
 # Chapter 1: Mechanical Properties of Fluids
+
 ### NCERT Class 11 - Physics Part 2
 
 ---
@@ -22,14 +23,14 @@ Use this chapter whenever you need to:
 
 ## Chapter at a Glance
 
-| Area | Learner-Friendly Meaning |
-| --- | --- |
-| Conversion factors | Equalities that allow a quantity to be rewritten in another unit |
-| SI prefixes | Small symbols such as `k`, `m`, `micro`, `M`, and `G` that multiply a unit by powers of ten |
-| Mathematical formulae | Geometry, trigonometry, algebra, and vector tools used across physics |
-| SI derived units | Units made from base units, sometimes with special names such as pascal, joule, watt, tesla |
-| Symbol rules | Standards for writing physical quantities, unit symbols, chemical symbols, and prefixes |
-| Main skill | Write physics in a precise, internationally accepted notation |
+| Area                  | Learner-Friendly Meaning                                                                    |
+| --------------------- | ------------------------------------------------------------------------------------------- |
+| Conversion factors    | Equalities that allow a quantity to be rewritten in another unit                            |
+| SI prefixes           | Small symbols such as `k`, `m`, `micro`, `M`, and `G` that multiply a unit by powers of ten |
+| Mathematical formulae | Geometry, trigonometry, algebra, and vector tools used across physics                       |
+| SI derived units      | Units made from base units, sometimes with special names such as pascal, joule, watt, tesla |
+| Symbol rules          | Standards for writing physical quantities, unit symbols, chemical symbols, and prefixes     |
+| Main skill            | Write physics in a precise, internationally accepted notation                               |
 
 ---
 
@@ -61,14 +62,14 @@ The purpose of this appendix content is to make your physics writing clean, unam
 
 ## What Learners Usually Underestimate
 
-| Learner Mistake | Why It Matters |
-| --- | --- |
-| Writing `m/s/s` instead of `m s^-2` | It is less standard and can become confusing in compound units |
-| Writing `cms` for centimetres | SI symbols do not take plural `s` |
-| Writing `Kg` instead of `kg` | Capital letters change the meaning of unit symbols |
-| Writing `1 cm3 = 0.01 m3` | This ignores that the prefix is cubed too |
-| Treating `ms^-1` as metre per second | `ms` means millisecond if written without spacing |
-| Using `p.e.` inside equations | Abbreviations are not used as symbols in equations |
+| Learner Mistake                      | Why It Matters                                                 |
+| ------------------------------------ | -------------------------------------------------------------- |
+| Writing `m/s/s` instead of `m s^-2`  | It is less standard and can become confusing in compound units |
+| Writing `cms` for centimetres        | SI symbols do not take plural `s`                              |
+| Writing `Kg` instead of `kg`         | Capital letters change the meaning of unit symbols             |
+| Writing `1 cm3 = 0.01 m3`            | This ignores that the prefix is cubed too                      |
+| Treating `ms^-1` as metre per second | `ms` means millisecond if written without spacing              |
+| Using `p.e.` inside equations        | Abbreviations are not used as symbols in equations             |
 
 ---
 
@@ -100,16 +101,16 @@ The unit `in` cancels, leaving `cm`.
 
 ## Length Conversions
 
-| Conversion | Learner Note |
-| --- | --- |
-| `1 km = 0.6215 mi` | kilometre to mile |
-| `1 mi = 1.609 km` | mile to kilometre |
-| `1 m = 1.0936 yd = 3.281 ft = 39.37 in` | metre compared with yard, foot, and inch |
-| `1 in = 2.54 cm` | exact standard conversion used often |
-| `1 ft = 12 in = 30.48 cm` | useful in pressure and English-unit conversions |
-| `1 yd = 3 ft = 91.44 cm` | yard conversion |
-| `1 light-year = 9.461 x 10^15 m` | astronomical distance |
-| `1 angstrom = 0.1 nm = 10^-10 m` | atomic-scale length |
+| Conversion                              | Learner Note                                    |
+| --------------------------------------- | ----------------------------------------------- |
+| `1 km = 0.6215 mi`                      | kilometre to mile                               |
+| `1 mi = 1.609 km`                       | mile to kilometre                               |
+| `1 m = 1.0936 yd = 3.281 ft = 39.37 in` | metre compared with yard, foot, and inch        |
+| `1 in = 2.54 cm`                        | exact standard conversion used often            |
+| `1 ft = 12 in = 30.48 cm`               | useful in pressure and English-unit conversions |
+| `1 yd = 3 ft = 91.44 cm`                | yard conversion                                 |
+| `1 light-year = 9.461 x 10^15 m`        | astronomical distance                           |
+| `1 angstrom = 0.1 nm = 10^-10 m`        | atomic-scale length                             |
 
 ### Example: Inches To Metres
 
@@ -130,15 +131,15 @@ Answer:
 
 ## Area Conversions
 
-| Conversion | Learner Note |
-| --- | --- |
-| `1 m^2 = 10^4 cm^2` | because `1 m = 100 cm`, so square both sides |
-| `1 km^2 = 0.3861 mi^2` | large-area conversion |
-| `1 km^2 = 247.1 acres` | land-area conversion |
-| `1 in^2 = 6.4516 cm^2` | square of inch-centimetre conversion |
-| `1 ft^2 = 9.29 x 10^-2 m^2` | common English-to-SI area |
-| `1 m^2 = 10.76 ft^2` | inverse of square-foot conversion |
-| `1 acre = 43,560 ft^2` | land measurement |
+| Conversion                  | Learner Note                                 |
+| --------------------------- | -------------------------------------------- |
+| `1 m^2 = 10^4 cm^2`         | because `1 m = 100 cm`, so square both sides |
+| `1 km^2 = 0.3861 mi^2`      | large-area conversion                        |
+| `1 km^2 = 247.1 acres`      | land-area conversion                         |
+| `1 in^2 = 6.4516 cm^2`      | square of inch-centimetre conversion         |
+| `1 ft^2 = 9.29 x 10^-2 m^2` | common English-to-SI area                    |
+| `1 m^2 = 10.76 ft^2`        | inverse of square-foot conversion            |
+| `1 acre = 43,560 ft^2`      | land measurement                             |
 
 ### Important
 
@@ -160,14 +161,14 @@ then:
 
 ## Volume Conversions
 
-| Conversion | Learner Note |
-| --- | --- |
-| `1 m^3 = 10^6 cm^3` | cube the length conversion |
-| `1 L = 1000 cm^3 = 10^-3 m^3` | litre and cubic metre connection |
-| `1 gal = 3.786 L` | gallon to litre |
-| `1 gal = 4 qt = 8 pt = 128 oz = 231 in^3` | English volume chain |
-| `1 in^3 = 16.39 cm^3` | cubic inch conversion |
-| `1 ft^3 = 1728 in^3 = 28.32 L` | cubic foot conversion |
+| Conversion                                | Learner Note                     |
+| ----------------------------------------- | -------------------------------- |
+| `1 m^3 = 10^6 cm^3`                       | cube the length conversion       |
+| `1 L = 1000 cm^3 = 10^-3 m^3`             | litre and cubic metre connection |
+| `1 gal = 3.786 L`                         | gallon to litre                  |
+| `1 gal = 4 qt = 8 pt = 128 oz = 231 in^3` | English volume chain             |
+| `1 in^3 = 16.39 cm^3`                     | cubic inch conversion            |
+| `1 ft^3 = 1728 in^3 = 28.32 L`            | cubic foot conversion            |
 
 ### Example: Litres To Cubic Metres
 
@@ -182,14 +183,14 @@ Convert `5 L` to `m^3`.
 
 ## Mass Conversions
 
-| Conversion | Learner Note |
-| --- | --- |
-| `1 kg = 1000 g` | SI mass unit to gram |
-| `1 tonne = 1000 kg = 1 Mg` | metric tonne |
-| `1 u = 1.6606 x 10^-27 kg` | atomic mass unit |
-| `1 kg = 6.022 x 10^26 u` | kilogram in atomic mass units |
-| `1 slug = 14.59 kg` | English mass unit |
-| `1 u = 931.50 MeV/c^2` | mass-energy relation |
+| Conversion                 | Learner Note                  |
+| -------------------------- | ----------------------------- |
+| `1 kg = 1000 g`            | SI mass unit to gram          |
+| `1 tonne = 1000 kg = 1 Mg` | metric tonne                  |
+| `1 u = 1.6606 x 10^-27 kg` | atomic mass unit              |
+| `1 kg = 6.022 x 10^26 u`   | kilogram in atomic mass units |
+| `1 slug = 14.59 kg`        | English mass unit             |
+| `1 u = 931.50 MeV/c^2`     | mass-energy relation          |
 
 ### Key Reminder
 
@@ -223,11 +224,11 @@ So:
 
 ## Time Conversions
 
-| Conversion | Learner Note |
-| --- | --- |
-| `1 h = 60 min = 3.6 ks` | hour to minute and kilosecond |
-| `1 d = 24 h = 1440 min = 86.4 ks` | day conversion |
-| `1 y = 365.24 d = 31.56 Ms` | year in megaseconds |
+| Conversion                        | Learner Note                  |
+| --------------------------------- | ----------------------------- |
+| `1 h = 60 min = 3.6 ks`           | hour to minute and kilosecond |
+| `1 d = 24 h = 1440 min = 86.4 ks` | day conversion                |
+| `1 y = 365.24 d = 31.56 Ms`       | year in megaseconds           |
 
 ### Exam Use
 
@@ -237,12 +238,12 @@ In physics, seconds are usually the SI base unit for time. Convert hours, days, 
 
 ## Speed Conversions
 
-| Conversion | Learner Note |
-| --- | --- |
-| `1 km h^-1 = 0.2778 m s^-1` | multiply by 5/18 approximately |
-| `1 mi h^-1 = 0.4470 m s^-1` | mile per hour to metre per second |
+| Conversion                  | Learner Note                        |
+| --------------------------- | ----------------------------------- |
+| `1 km h^-1 = 0.2778 m s^-1` | multiply by 5/18 approximately      |
+| `1 mi h^-1 = 0.4470 m s^-1` | mile per hour to metre per second   |
 | `1 mi h^-1 = 1.609 km h^-1` | mile per hour to kilometre per hour |
-| `1 mi h^-1 = 1.467 ft s^-1` | English speed conversion |
+| `1 mi h^-1 = 1.467 ft s^-1` | English speed conversion            |
 
 ### Example
 
@@ -262,14 +263,14 @@ So:
 
 ## Pressure Conversions
 
-| Conversion | Learner Note |
-| --- | --- |
-| `1 Pa = 1 N m^-2` | SI pressure unit |
-| `1 bar = 100 kPa` | bar to pascal |
-| `1 atm = 101.325 kPa = 1.01325 bar` | atmospheric pressure |
-| `1 atm = 760 mm Hg` | mercury-column pressure |
-| `1 torr = 1 mm Hg = 133.32 Pa` | small pressure unit |
-| `1 lbf in^-2 = 6.895 kPa` | psi to kilopascal |
+| Conversion                          | Learner Note            |
+| ----------------------------------- | ----------------------- |
+| `1 Pa = 1 N m^-2`                   | SI pressure unit        |
+| `1 bar = 100 kPa`                   | bar to pascal           |
+| `1 atm = 101.325 kPa = 1.01325 bar` | atmospheric pressure    |
+| `1 atm = 760 mm Hg`                 | mercury-column pressure |
+| `1 torr = 1 mm Hg = 133.32 Pa`      | small pressure unit     |
+| `1 lbf in^-2 = 6.895 kPa`           | psi to kilopascal       |
 
 ### Learner Explanation
 
@@ -289,17 +290,17 @@ N/m^2 = Pa
 
 ## Energy And Power Conversions
 
-| Conversion | Learner Note |
-| --- | --- |
-| `1 kW h = 3.6 MJ` | electrical energy billing unit |
-| `1 cal = 4.186 J` | calorie to joule |
-| `1 ft lbf = 1.356 J` | English mechanical work unit |
-| `1 L atm = 101.325 J` | pressure-volume work |
-| `1 Btu = 1054.35 J` | British thermal unit |
-| `1 eV = 1.602 x 10^-19 J` | atomic and nuclear energy |
-| `1 erg = 10^-7 J` | cgs energy unit |
-| `1 hp = 745.7 W` | horsepower to watt |
-| `1 W = 1.341 x 10^-3 hp` | watt to horsepower |
+| Conversion                | Learner Note                   |
+| ------------------------- | ------------------------------ |
+| `1 kW h = 3.6 MJ`         | electrical energy billing unit |
+| `1 cal = 4.186 J`         | calorie to joule               |
+| `1 ft lbf = 1.356 J`      | English mechanical work unit   |
+| `1 L atm = 101.325 J`     | pressure-volume work           |
+| `1 Btu = 1054.35 J`       | British thermal unit           |
+| `1 eV = 1.602 x 10^-19 J` | atomic and nuclear energy      |
+| `1 erg = 10^-7 J`         | cgs energy unit                |
+| `1 hp = 745.7 W`          | horsepower to watt             |
+| `1 W = 1.341 x 10^-3 hp`  | watt to horsepower             |
 
 ### Why `kW h` Is Energy
 
@@ -427,13 +428,13 @@ tan theta = sin theta / cos theta
 
 ## Useful Identities
 
-| Identity | Use |
-| --- | --- |
-| `sin(90 degrees - theta) = cos theta` | complementary angles |
-| `cos(90 degrees - theta) = sin theta` | complementary angles |
-| `sin^2 theta + cos^2 theta = 1` | simplification |
-| `sec^2 theta - tan^2 theta = 1` | trigonometric manipulation |
-| `csc^2 theta - cot^2 theta = 1` | trigonometric manipulation |
+| Identity                              | Use                        |
+| ------------------------------------- | -------------------------- |
+| `sin(90 degrees - theta) = cos theta` | complementary angles       |
+| `cos(90 degrees - theta) = sin theta` | complementary angles       |
+| `sin^2 theta + cos^2 theta = 1`       | simplification             |
+| `sec^2 theta - tan^2 theta = 1`       | trigonometric manipulation |
+| `csc^2 theta - cot^2 theta = 1`       | trigonometric manipulation |
 
 ### Learner Tip
 
@@ -544,9 +545,9 @@ The dot product measures how much one vector lies along another.
 
 ### Physics Examples
 
-| Formula | Dot Product Meaning |
-| --- | --- |
-| `W = F . s` | work done by force |
+| Formula     | Dot Product Meaning      |
+| ----------- | ------------------------ |
+| `W = F . s` | work done by force       |
 | `P = F . v` | power delivered by force |
 
 ---
@@ -572,10 +573,10 @@ a x b =
 
 ### Physics Examples
 
-| Formula | Cross Product Meaning |
-| --- | --- |
-| `tau = r x F` | torque |
-| `L = r x p` | angular momentum |
+| Formula        | Cross Product Meaning             |
+| -------------- | --------------------------------- |
+| `tau = r x F`  | torque                            |
+| `L = r x p`    | angular momentum                  |
 | `F = q(v x B)` | magnetic force on a moving charge |
 
 ---
@@ -631,17 +632,17 @@ So the newton is a derived unit.
 
 ## Important Derived Units
 
-| Quantity | SI Unit | In Base Units |
-| --- | --- | --- |
-| Force | newton, `N` | `kg m s^-2` |
-| Pressure | pascal, `Pa` | `N m^-2 = kg m^-1 s^-2` |
-| Work/Energy | joule, `J` | `N m = kg m^2 s^-2` |
-| Power | watt, `W` | `J s^-1 = kg m^2 s^-3` |
-| Charge | coulomb, `C` | `A s` |
-| Potential difference | volt, `V` | `W A^-1` |
-| Resistance | ohm | `V A^-1` |
-| Magnetic flux | weber, `Wb` | `V s` |
-| Magnetic field | tesla, `T` | `Wb m^-2` |
+| Quantity             | SI Unit      | In Base Units           |
+| -------------------- | ------------ | ----------------------- |
+| Force                | newton, `N`  | `kg m s^-2`             |
+| Pressure             | pascal, `Pa` | `N m^-2 = kg m^-1 s^-2` |
+| Work/Energy          | joule, `J`   | `N m = kg m^2 s^-2`     |
+| Power                | watt, `W`    | `J s^-1 = kg m^2 s^-3`  |
+| Charge               | coulomb, `C` | `A s`                   |
+| Potential difference | volt, `V`    | `W A^-1`                |
+| Resistance           | ohm          | `V A^-1`                |
+| Magnetic flux        | weber, `Wb`  | `V s`                   |
+| Magnetic field       | tesla, `T`   | `Wb m^-2`               |
 
 ### Learner Habit
 
@@ -674,14 +675,14 @@ Quantity symbols represent variables. Their values can change from problem to pr
 
 The same letter can mean different things depending on style and context.
 
-| Symbol | Could Mean |
-| --- | --- |
-| `W` italic | work or weight as a physical quantity |
-| `W` upright | watt, unit of power |
-| `m` italic | mass as a variable in an equation |
-| `m` upright | metre, unit of length |
-| `g` italic | acceleration due to gravity |
-| `g` upright | gram |
+| Symbol      | Could Mean                            |
+| ----------- | ------------------------------------- |
+| `W` italic  | work or weight as a physical quantity |
+| `W` upright | watt, unit of power                   |
+| `m` italic  | mass as a variable in an equation     |
+| `m` upright | metre, unit of length                 |
+| `g` italic  | acceleration due to gravity           |
+| `g` upright | gram                                  |
 
 ### Example
 
@@ -807,15 +808,15 @@ Incorrect:
 
 Unit symbols are capitalised only when derived from a proper name.
 
-| Unit | Symbol | Reason |
-| --- | --- | --- |
-| metre | `m` | not named after a person |
-| second | `s` | not named after a person |
-| hertz | `Hz` | named after Hertz |
-| joule | `J` | named after Joule |
-| volt | `V` | named after Volta |
-| weber | `Wb` | named after Weber |
-| tesla | `T` | named after Tesla |
+| Unit   | Symbol | Reason                   |
+| ------ | ------ | ------------------------ |
+| metre  | `m`    | not named after a person |
+| second | `s`    | not named after a person |
+| hertz  | `Hz`   | named after Hertz        |
+| joule  | `J`    | named after Joule        |
+| volt   | `V`    | named after Volta        |
+| weber  | `Wb`   | named after Weber        |
+| tesla  | `T`    | named after Tesla        |
 
 ### Important
 
@@ -901,17 +902,17 @@ The prefix symbol is written directly next to the unit symbol with no space.
 
 ## Common Prefixes
 
-| Prefix | Symbol | Factor |
-| --- | --- | --- |
-| giga | `G` | `10^9` |
-| mega | `M` | `10^6` |
-| kilo | `k` | `10^3` |
-| centi | `c` | `10^-2` |
-| milli | `m` | `10^-3` |
-| micro | `micro` | `10^-6` |
-| nano | `n` | `10^-9` |
-| pico | `p` | `10^-12` |
-| femto | `f` | `10^-15` |
+| Prefix | Symbol  | Factor   |
+| ------ | ------- | -------- |
+| giga   | `G`     | `10^9`   |
+| mega   | `M`     | `10^6`   |
+| kilo   | `k`     | `10^3`   |
+| centi  | `c`     | `10^-2`  |
+| milli  | `m`     | `10^-3`  |
+| micro  | `micro` | `10^-6`  |
+| nano   | `n`     | `10^-9`  |
+| pico   | `p`     | `10^-12` |
+| femto  | `f`     | `10^-15` |
 
 Note: the raw source uses the standard micro symbol, but this learner file writes `micro` in plain text to keep the file ASCII-clean.
 
@@ -1285,13 +1286,13 @@ ms^-1 means per millisecond.
 
 Rewrite each incorrect form correctly:
 
-| Incorrect | Correct Form |
-| --- | --- |
-| `25 cms` | `25 cm` |
-| `Kg` | `kg` |
-| `m/s/s` | `m s^-2` |
-| `J/K/mol` | `J K^-1 mol^-1` |
-| `c m` for centimetre | `cm` |
+| Incorrect            | Correct Form                    |
+| -------------------- | ------------------------------- |
+| `25 cms`             | `25 cm`                         |
+| `Kg`                 | `kg`                            |
+| `m/s/s`              | `m s^-2`                        |
+| `J/K/mol`            | `J K^-1 mol^-1`                 |
+| `c m` for centimetre | `cm`                            |
 | `C m` for centimetre | `cm`; `C m` means coulomb metre |
 
 ---
@@ -1338,4 +1339,3 @@ Rewrite each incorrect form correctly:
 - [ ] I can use `Pa`, `J`, `W`, `T`, and `N` in base-unit form.
 - [ ] I can identify when dot product or cross product is required.
 - [ ] I can correct common notation errors in a physics solution.
-

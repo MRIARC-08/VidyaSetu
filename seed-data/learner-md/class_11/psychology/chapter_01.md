@@ -231,18 +231,18 @@ Indian psychology also draws attention to:
 
 Major branches include:
 
-| Branch | Focus |
-|---|---|
-| Cognitive psychology | Attention, memory, thinking, language |
-| Biological psychology | Brain, nervous system, hormones, behaviour |
-| Developmental psychology | Changes across lifespan |
-| Social psychology | Behaviour in social contexts |
-| Clinical psychology | Assessment and treatment of mental disorders |
-| Counselling psychology | Adjustment, relationships, career, stress |
-| Educational psychology | Learning, teaching, motivation, testing |
-| Industrial-organisational psychology | Work behaviour, leadership, productivity |
-| Health psychology | Behaviour, health, illness, coping |
-| Environmental psychology | Human relation with physical environment |
+| Branch                               | Focus                                        |
+| ------------------------------------ | -------------------------------------------- |
+| Cognitive psychology                 | Attention, memory, thinking, language        |
+| Biological psychology                | Brain, nervous system, hormones, behaviour   |
+| Developmental psychology             | Changes across lifespan                      |
+| Social psychology                    | Behaviour in social contexts                 |
+| Clinical psychology                  | Assessment and treatment of mental disorders |
+| Counselling psychology               | Adjustment, relationships, career, stress    |
+| Educational psychology               | Learning, teaching, motivation, testing      |
+| Industrial-organisational psychology | Work behaviour, leadership, productivity     |
+| Health psychology                    | Behaviour, health, illness, coping           |
+| Environmental psychology             | Human relation with physical environment     |
 
 ## 13. Psychology and Other Disciplines
 
@@ -285,17 +285,17 @@ It improves self-understanding and understanding of others.
 
 ## 15. Key Terms
 
-| Term | Meaning |
-|---|---|
-| Psychology | Scientific study of mental processes, experiences, and behaviour |
-| Mental process | Internal activity such as thinking, remembering, or perceiving |
-| Experience | Subjective state of awareness |
-| Behaviour | Observable or internal response of an organism |
-| Introspection | Self-observation of mental experience |
-| Behaviourism | Approach focused on observable behaviour |
-| Gestalt | Organised whole of experience |
-| Cognitive psychology | Study of mental processes |
-| Psychoneuroimmunology | Study of links among mind, nervous system, and immunity |
+| Term                  | Meaning                                                          |
+| --------------------- | ---------------------------------------------------------------- |
+| Psychology            | Scientific study of mental processes, experiences, and behaviour |
+| Mental process        | Internal activity such as thinking, remembering, or perceiving   |
+| Experience            | Subjective state of awareness                                    |
+| Behaviour             | Observable or internal response of an organism                   |
+| Introspection         | Self-observation of mental experience                            |
+| Behaviourism          | Approach focused on observable behaviour                         |
+| Gestalt               | Organised whole of experience                                    |
+| Cognitive psychology  | Study of mental processes                                        |
+| Psychoneuroimmunology | Study of links among mind, nervous system, and immunity          |
 
 ## 16. Exam-Oriented Summary
 
@@ -315,4 +315,3 @@ Psychology developed from early philosophical ideas to modern scientific schools
 8. What did behaviourism contribute to psychology?
 9. List five branches of psychology.
 10. Give examples of psychology in everyday life.
-

@@ -1,4 +1,5 @@
 # Chapter 8: International Trade
+
 ### NCERT Class 12 - Geography Human
 
 ## Chapter at a Glance
@@ -24,30 +25,30 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| International trade | Exchange of goods and services across national boundaries. |
-| Export | Sale of goods or services to another country. |
-| Import | Purchase of goods or services from another country. |
-| Balance of trade | Difference between value of exports and imports of goods. |
-| Free trade | Trade with minimal restrictions. |
-| Protectionism | Policy of restricting imports to protect domestic producers. |
-| Tariff | Tax on imported goods. |
-| Quota | Quantity limit on imports. |
-| Trade bloc | Group of countries reducing trade barriers among members. |
-| Port | Gateway for international trade by sea. |
+| Term                | Meaning                                                      |
+| ------------------- | ------------------------------------------------------------ |
+| International trade | Exchange of goods and services across national boundaries.   |
+| Export              | Sale of goods or services to another country.                |
+| Import              | Purchase of goods or services from another country.          |
+| Balance of trade    | Difference between value of exports and imports of goods.    |
+| Free trade          | Trade with minimal restrictions.                             |
+| Protectionism       | Policy of restricting imports to protect domestic producers. |
+| Tariff              | Tax on imported goods.                                       |
+| Quota               | Quantity limit on imports.                                   |
+| Trade bloc          | Group of countries reducing trade barriers among members.    |
+| Port                | Gateway for international trade by sea.                      |
 
 ## Quick Learning Map
 
-| Trade concept | Core idea |
-|---|---|
-| Exports | Goods and services sold abroad |
-| Imports | Goods and services bought from abroad |
-| Favourable balance | Exports exceed imports |
-| Unfavourable balance | Imports exceed exports |
-| Free trade | Fewer barriers |
-| Protection | Tariffs, quotas, restrictions |
-| Trade bloc | Preferential trade among member countries |
+| Trade concept        | Core idea                                 |
+| -------------------- | ----------------------------------------- |
+| Exports              | Goods and services sold abroad            |
+| Imports              | Goods and services bought from abroad     |
+| Favourable balance   | Exports exceed imports                    |
+| Unfavourable balance | Imports exceed exports                    |
+| Free trade           | Fewer barriers                            |
+| Protection           | Tariffs, quotas, restrictions             |
+| Trade bloc           | Preferential trade among member countries |
 
 # Unit 8A: Meaning of International Trade
 
@@ -200,25 +201,25 @@ Functions:
 
 ## Types of Ports
 
-| Type | Main role |
-|---|---|
-| Industrial port | Handles industrial raw materials and products |
-| Commercial port | Handles general trade cargo |
-| Comprehensive port | Handles many cargo types and services |
-| Oil port | Handles petroleum and related products |
-| Naval port | Defence role |
+| Type               | Main role                                     |
+| ------------------ | --------------------------------------------- |
+| Industrial port    | Handles industrial raw materials and products |
+| Commercial port    | Handles general trade cargo                   |
+| Comprehensive port | Handles many cargo types and services         |
+| Oil port           | Handles petroleum and related products        |
+| Naval port         | Defence role                                  |
 
 # Unit 8K: Factors Affecting Trade Pattern
 
-| Factor | Effect |
-|---|---|
-| Resource endowment | Mineral or agricultural exports |
-| Technology | High-value manufactured exports |
-| Labour skills | Service exports and specialised manufacturing |
-| Transport | Reduces cost and expands trade |
-| Trade policy | Tariffs and agreements shape flows |
-| Political relations | Friendly relations encourage trade |
-| Exchange rate | Affects export and import prices |
+| Factor              | Effect                                        |
+| ------------------- | --------------------------------------------- |
+| Resource endowment  | Mineral or agricultural exports               |
+| Technology          | High-value manufactured exports               |
+| Labour skills       | Service exports and specialised manufacturing |
+| Transport           | Reduces cost and expands trade                |
+| Trade policy        | Tariffs and agreements shape flows            |
+| Political relations | Friendly relations encourage trade            |
+| Exchange rate       | Affects export and import prices              |
 
 # Unit 8L: Benefits and Problems of Trade
 
@@ -261,13 +262,13 @@ For free trade vs protection:
 
 # Unit 8N: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Confusing balance of trade and balance of payments | BoT covers goods; BoP is wider. |
-| Saying imports are always bad | Imports can provide technology, raw materials, and essential goods. |
-| Saying free trade benefits all equally | Gains may be unequal. |
-| Treating ports as only ship stops | Ports are trade, storage, customs, and logistics centres. |
-| Ignoring services | Modern trade includes services as well as goods. |
+| Mistake                                            | Correction                                                          |
+| -------------------------------------------------- | ------------------------------------------------------------------- |
+| Confusing balance of trade and balance of payments | BoT covers goods; BoP is wider.                                     |
+| Saying imports are always bad                      | Imports can provide technology, raw materials, and essential goods. |
+| Saying free trade benefits all equally             | Gains may be unequal.                                               |
+| Treating ports as only ship stops                  | Ports are trade, storage, customs, and logistics centres.           |
+| Ignoring services                                  | Modern trade includes services as well as goods.                    |
 
 ## Practice Set
 

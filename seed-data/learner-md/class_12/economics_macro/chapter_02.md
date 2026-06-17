@@ -1,4 +1,5 @@
 # Chapter 2: National Income Accounting
+
 ### NCERT Class 12 - Economics Macro
 
 ## Chapter at a Glance
@@ -25,28 +26,28 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Final good | Good purchased for final use, not for resale or further production. |
-| Intermediate good | Good used as input for further production or resale. |
-| Capital good | Durable producer good used in production. |
-| Consumption good | Good used directly by consumers. |
-| Gross investment | Total investment including replacement of depreciated capital. |
-| Depreciation | Loss in value of fixed capital due to wear and tear or obsolescence. |
-| Net investment | Gross investment minus depreciation. |
-| GDP | Value of final goods and services produced within domestic territory. |
-| GNP | GDP plus net factor income from abroad. |
-| National income | Net national product at factor cost. |
-| Value added | Value of output minus intermediate consumption. |
+| Term              | Meaning                                                               |
+| ----------------- | --------------------------------------------------------------------- |
+| Final good        | Good purchased for final use, not for resale or further production.   |
+| Intermediate good | Good used as input for further production or resale.                  |
+| Capital good      | Durable producer good used in production.                             |
+| Consumption good  | Good used directly by consumers.                                      |
+| Gross investment  | Total investment including replacement of depreciated capital.        |
+| Depreciation      | Loss in value of fixed capital due to wear and tear or obsolescence.  |
+| Net investment    | Gross investment minus depreciation.                                  |
+| GDP               | Value of final goods and services produced within domestic territory. |
+| GNP               | GDP plus net factor income from abroad.                               |
+| National income   | Net national product at factor cost.                                  |
+| Value added       | Value of output minus intermediate consumption.                       |
 
 ## Quick Learning Map
 
-| Adjustment | Meaning |
-|---|---|
-| Gross to net | Subtract depreciation |
-| Domestic to national | Add net factor income from abroad |
-| Market price to factor cost | Subtract net indirect taxes |
-| Factor cost to market price | Add net indirect taxes |
+| Adjustment                  | Meaning                           |
+| --------------------------- | --------------------------------- |
+| Gross to net                | Subtract depreciation             |
+| Domestic to national        | Add net factor income from abroad |
+| Market price to factor cost | Subtract net indirect taxes       |
+| Factor cost to market price | Add net indirect taxes            |
 
 # Unit 2A: Final and Intermediate Goods
 
@@ -105,12 +106,12 @@ Net value added at factor cost:
 
 ## Value Added Table
 
-| Stage | Output value | Intermediate cost | Value added |
-|---|---|---|---|
-| Farmer | 20 | 0 | 20 |
-| Miller | 30 | 20 | 10 |
-| Baker | 50 | 30 | 20 |
-| Total | - | - | 50 |
+| Stage  | Output value | Intermediate cost | Value added |
+| ------ | ------------ | ----------------- | ----------- |
+| Farmer | 20           | 0                 | 20          |
+| Miller | 30           | 20                | 10          |
+| Baker  | 50           | 30                | 20          |
+| Total  | -            | -                 | 50          |
 
 Final bread value is 50, equal to total value added.
 
@@ -292,17 +293,17 @@ GDP deflator:
 
 # Unit 2L: Formula Bank
 
-| Conversion | Formula |
-|---|---|
-| NDPmp | `GDPmp - depreciation` |
-| GNPmp | `GDPmp + NFIA` |
-| NNPmp | `GNPmp - depreciation` |
-| NNPfc | `NNPmp - net indirect taxes` |
-| National income | `NDPfc + NFIA` |
-| Net indirect taxes | `indirect taxes - subsidies` |
-| Value added | `value of output - intermediate consumption` |
-| GDPmp expenditure | `C + I + G + (X - M)` |
-| Net investment | `gross investment - depreciation` |
+| Conversion         | Formula                                      |
+| ------------------ | -------------------------------------------- |
+| NDPmp              | `GDPmp - depreciation`                       |
+| GNPmp              | `GDPmp + NFIA`                               |
+| NNPmp              | `GNPmp - depreciation`                       |
+| NNPfc              | `NNPmp - net indirect taxes`                 |
+| National income    | `NDPfc + NFIA`                               |
+| Net indirect taxes | `indirect taxes - subsidies`                 |
+| Value added        | `value of output - intermediate consumption` |
+| GDPmp expenditure  | `C + I + G + (X - M)`                        |
+| Net investment     | `gross investment - depreciation`            |
 
 # Unit 2M: Calculation Strategy
 
@@ -315,14 +316,14 @@ GDP deflator:
 
 # Unit 2N: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Counting all goods sold | Count final goods or value added only. |
-| Confusing domestic with national | Domestic is territory-based; national is resident-based. |
-| Adding depreciation when converting gross to net | Subtract depreciation. |
-| Adding net indirect taxes when converting market price to factor cost | Subtract net indirect taxes. |
-| Including transfer payments in income method | Include only factor incomes. |
-| Treating purchase of shares as final expenditure | Financial asset purchase is not final goods expenditure. |
+| Mistake                                                               | Correction                                               |
+| --------------------------------------------------------------------- | -------------------------------------------------------- |
+| Counting all goods sold                                               | Count final goods or value added only.                   |
+| Confusing domestic with national                                      | Domestic is territory-based; national is resident-based. |
+| Adding depreciation when converting gross to net                      | Subtract depreciation.                                   |
+| Adding net indirect taxes when converting market price to factor cost | Subtract net indirect taxes.                             |
+| Including transfer payments in income method                          | Include only factor incomes.                             |
+| Treating purchase of shares as final expenditure                      | Financial asset purchase is not final goods expenditure. |
 
 ## Practice Set
 

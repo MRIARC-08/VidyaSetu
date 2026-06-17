@@ -1,4 +1,5 @@
 # Chapter 6: Tertiary and Quaternary Activities
+
 ### NCERT Class 12 - Geography Human
 
 ## Chapter at a Glance
@@ -22,24 +23,24 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Tertiary activity | Service activity supporting production and consumption. |
-| Service | Work done for others without direct production of a tangible good. |
-| Quaternary activity | Knowledge-based activity involving information and research. |
-| Quinary activity | High-level decision-making and specialised services. |
-| Trade | Buying and selling of goods and services. |
-| Tourism | Travel for recreation, culture, health, or business. |
-| Outsourcing | Contracting work to external firms or locations. |
-| Knowledge economy | Economy based on information, skill, and innovation. |
+| Term                | Meaning                                                            |
+| ------------------- | ------------------------------------------------------------------ |
+| Tertiary activity   | Service activity supporting production and consumption.            |
+| Service             | Work done for others without direct production of a tangible good. |
+| Quaternary activity | Knowledge-based activity involving information and research.       |
+| Quinary activity    | High-level decision-making and specialised services.               |
+| Trade               | Buying and selling of goods and services.                          |
+| Tourism             | Travel for recreation, culture, health, or business.               |
+| Outsourcing         | Contracting work to external firms or locations.                   |
+| Knowledge economy   | Economy based on information, skill, and innovation.               |
 
 ## Quick Learning Map
 
-| Sector | Examples |
-|---|---|
-| Tertiary | Trade, transport, communication, banking, tourism |
+| Sector     | Examples                                                       |
+| ---------- | -------------------------------------------------------------- |
+| Tertiary   | Trade, transport, communication, banking, tourism              |
 | Quaternary | Research, data processing, IT, education, information services |
-| Quinary | Policy making, top management, advanced consultancy |
+| Quinary    | Policy making, top management, advanced consultancy            |
 
 # Unit 6A: Meaning of Tertiary Activities
 
@@ -60,14 +61,14 @@ Tertiary activities connect primary and secondary sectors with consumers.
 
 # Unit 6B: Types of Services
 
-| Service type | Examples |
-|---|---|
-| Personal services | Domestic help, hairdressing |
-| Business services | Banking, insurance, advertising |
-| Public services | Administration, police, defence |
-| Professional services | Teaching, medicine, law |
-| Transport services | Road, rail, air, water transport |
-| Communication services | Postal, telephone, internet |
+| Service type           | Examples                         |
+| ---------------------- | -------------------------------- |
+| Personal services      | Domestic help, hairdressing      |
+| Business services      | Banking, insurance, advertising  |
+| Public services        | Administration, police, defence  |
+| Professional services  | Teaching, medicine, law          |
+| Transport services     | Road, rail, air, water transport |
+| Communication services | Postal, telephone, internet      |
 
 # Unit 6C: Trade as a Service
 
@@ -138,14 +139,14 @@ Tourism is travel for recreation, culture, religion, health, business, or advent
 
 ## Types of Tourism
 
-| Type | Example |
-|---|---|
-| Cultural tourism | Heritage sites, festivals |
-| Eco-tourism | Nature-based responsible travel |
-| Medical tourism | Travel for health treatment |
-| Adventure tourism | Trekking, rafting |
-| Religious tourism | Pilgrimage |
-| Business tourism | Conferences and meetings |
+| Type              | Example                         |
+| ----------------- | ------------------------------- |
+| Cultural tourism  | Heritage sites, festivals       |
+| Eco-tourism       | Nature-based responsible travel |
+| Medical tourism   | Travel for health treatment     |
+| Adventure tourism | Trekking, rafting               |
+| Religious tourism | Pilgrimage                      |
+| Business tourism  | Conferences and meetings        |
 
 # Unit 6G: Tourism Impacts
 
@@ -250,23 +251,23 @@ Reasons:
 
 # Unit 6L: Comparison Toolkit
 
-| Sector | Main output | Example |
-|---|---|---|
-| Primary | Raw material | Farming, mining |
-| Secondary | Manufactured goods | Steel, textiles |
-| Tertiary | Services | Trade, transport |
-| Quaternary | Knowledge services | IT, research |
-| Quinary | High-level decisions | Policy, top management |
+| Sector     | Main output          | Example                |
+| ---------- | -------------------- | ---------------------- |
+| Primary    | Raw material         | Farming, mining        |
+| Secondary  | Manufactured goods   | Steel, textiles        |
+| Tertiary   | Services             | Trade, transport       |
+| Quaternary | Knowledge services   | IT, research           |
+| Quinary    | High-level decisions | Policy, top management |
 
 # Unit 6M: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Saying tertiary activities produce no value | Services add value by enabling exchange and support. |
-| Confusing tertiary and quaternary | Quaternary is knowledge and information-based. |
-| Treating tourism as only recreation | It includes culture, health, religion, and business. |
-| Ignoring negative tourism impacts | Tourism can harm environment and culture if unmanaged. |
-| Defining outsourcing as migration | Work moves contractually; workers may not migrate. |
+| Mistake                                     | Correction                                             |
+| ------------------------------------------- | ------------------------------------------------------ |
+| Saying tertiary activities produce no value | Services add value by enabling exchange and support.   |
+| Confusing tertiary and quaternary           | Quaternary is knowledge and information-based.         |
+| Treating tourism as only recreation         | It includes culture, health, religion, and business.   |
+| Ignoring negative tourism impacts           | Tourism can harm environment and culture if unmanaged. |
+| Defining outsourcing as migration           | Work moves contractually; workers may not migrate.     |
 
 ## Practice Set
 

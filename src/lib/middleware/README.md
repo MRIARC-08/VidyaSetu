@@ -12,18 +12,20 @@ USER (Level 1) < MODERATOR (Level 2) < ADMIN (Level 3)
 
 ## Role Definitions
 
-| Role | Level | Permissions |
-|------|-------|-------------|
-| **USER** | 1 | Standard user access - read content, take quizzes, view analytics |
-| **MODERATOR** | 2 | Content management - approve questions, moderate discussions, view analytics |
-| **ADMIN** | 3 | Full system access - user management, system configuration, all operations |
+| Role          | Level | Permissions                                                                  |
+| ------------- | ----- | ---------------------------------------------------------------------------- |
+| **USER**      | 1     | Standard user access - read content, take quizzes, view analytics            |
+| **MODERATOR** | 2     | Content management - approve questions, moderate discussions, view analytics |
+| **ADMIN**     | 3     | Full system access - user management, system configuration, all operations   |
 
 ## Files
 
 ### `auth.middleware.ts`
+
 Core authentication middleware with role-based authorization helpers.
 
 **Key Exports:**
+
 - `authenticate()` - Verify cookies and extract user context
 - `withAuth()` - Wrap route handlers with authentication
 - `withRoleAuth()` - Wrap handlers with role hierarchy validation
@@ -33,9 +35,11 @@ Core authentication middleware with role-based authorization helpers.
 - `ForbiddenError` - 403 authorization failures
 
 ### `role.middleware.ts`
+
 Role hierarchy management and validation.
 
 **Key Exports:**
+
 - `requireRole()` - Validate user has required role (supports hierarchy)
 - `requireExactRole()` - Validate user has exact role (no inheritance)
 - `hasMinimumRole()` - Check if user meets minimum role requirement
@@ -77,7 +81,7 @@ import { ForbiddenError } from '@/lib/middleware/auth.middleware';
 
 async function requireAdmin() {
   const payload = await getPayload(); // Get user payload
-  
+
   try {
     requireRole('ADMIN')({
       userId: payload.sub,
@@ -91,7 +95,7 @@ async function requireAdmin() {
     }
     throw error;
   }
-  
+
   return payload;
 }
 ```
@@ -106,7 +110,7 @@ import { withAuth, ensureMinimumRole } from '@/lib/middleware/auth.middleware';
 
 export const POST = withAuth(async (req, auth) => {
   // Regular user access
-  
+
   // Optionally check for higher permissions
   if (auth.role === 'ADMIN') {
     // Admin-specific logic
@@ -114,7 +118,7 @@ export const POST = withAuth(async (req, auth) => {
     ensureMinimumRole(auth, 'MODERATOR'); // Will throw if user is just a USER
     // Moderator-specific logic
   }
-  
+
   return NextResponse.json({ success: true });
 });
 ```
@@ -131,6 +135,7 @@ export const POST = withAuth(async (req, auth) => {
 ### Moderator Endpoints (Require MODERATOR or ADMIN Role)
 
 To be implemented as needed:
+
 - Content approval workflows
 - Discussion moderation
 - Bulk operations
@@ -138,6 +143,7 @@ To be implemented as needed:
 ### User Endpoints (Open to USER and above)
 
 Analytics and profile endpoints are typically open to authenticated users:
+
 - `GET /api/analytics/overview` - User's performance analytics
 - `GET /api/analytics/streak` - User's streak data
 - `GET /api/analytics/weak-topics` - Weak topics for user
@@ -206,8 +212,10 @@ describe('Admin Routes', () => {
   it('should allow ADMIN users', async () => {
     const response = await fetch('/api/admin/add-question', {
       method: 'POST',
-      headers: { 'Cookie': 'access_token=admin_token' },
-      body: JSON.stringify({ /* data */ }),
+      headers: { Cookie: 'access_token=admin_token' },
+      body: JSON.stringify({
+        /* data */
+      }),
     });
     expect(response.status).toBe(201);
   });
@@ -215,8 +223,10 @@ describe('Admin Routes', () => {
   it('should reject USER role', async () => {
     const response = await fetch('/api/admin/add-question', {
       method: 'POST',
-      headers: { 'Cookie': 'access_token=user_token' },
-      body: JSON.stringify({ /* data */ }),
+      headers: { Cookie: 'access_token=user_token' },
+      body: JSON.stringify({
+        /* data */
+      }),
     });
     expect(response.status).toBe(403);
   });

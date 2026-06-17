@@ -76,15 +76,15 @@ Base quantities are independent quantities from which other quantities can be bu
 
 The SI system uses seven base quantities.
 
-| Base quantity | SI unit | Unit symbol | Dimension symbol |
-|---|---|---|---|
-| length | metre | m | \(L\) |
-| mass | kilogram | kg | \(M\) |
-| time | second | s | \(T\) |
-| electric current | ampere | A | \(A\) |
-| thermodynamic temperature | kelvin | K | \(K\) |
-| amount of substance | mole | mol | mol |
-| luminous intensity | candela | cd | cd |
+| Base quantity             | SI unit  | Unit symbol | Dimension symbol |
+| ------------------------- | -------- | ----------- | ---------------- |
+| length                    | metre    | m           | \(L\)            |
+| mass                      | kilogram | kg          | \(M\)            |
+| time                      | second   | s           | \(T\)            |
+| electric current          | ampere   | A           | \(A\)            |
+| thermodynamic temperature | kelvin   | K           | \(K\)            |
+| amount of substance       | mole     | mol         | mol              |
+| luminous intensity        | candela  | cd          | cd               |
 
 ### 4.2 Derived Quantities
 
@@ -141,10 +141,10 @@ A complete set of base units and derived units is called a system of units.
 Historically, three systems were commonly used:
 
 | System | Unit of length | Unit of mass | Unit of time |
-|---|---|---|---|
-| CGS | centimetre | gram | second |
-| FPS | foot | pound | second |
-| MKS | metre | kilogram | second |
+| ------ | -------------- | ------------ | ------------ |
+| CGS    | centimetre     | gram         | second       |
+| FPS    | foot           | pound        | second       |
+| MKS    | metre          | kilogram     | second       |
 
 The internationally accepted system is the SI system.
 
@@ -164,17 +164,17 @@ In SI, physical quantities are expressed using standard unit symbols.
 Examples:
 
 | Quantity | Correct unit symbol |
-|---|---|
-| metre | m |
-| kilogram | kg |
-| second | s |
-| ampere | A |
-| kelvin | K |
-| mole | mol |
-| candela | cd |
-| newton | N |
-| joule | J |
-| watt | W |
+| -------- | ------------------- |
+| metre    | m                   |
+| kilogram | kg                  |
+| second   | s                   |
+| ampere   | A                   |
+| kelvin   | K                   |
+| mole     | mol                 |
+| candela  | cd                  |
+| newton   | N                   |
+| joule    | J                   |
+| watt     | W                   |
 
 ## 7. Plane Angle And Solid Angle
 
@@ -216,16 +216,16 @@ It is also dimensionless.
 
 ## 8. Some Common Derived Units
 
-| Quantity | Formula idea | SI unit | Special name |
-|---|---|---|---|
-| area | length x length | m^2 | none |
-| volume | length x length x length | m^3 | none |
-| speed | length / time | m s^-1 | none |
-| acceleration | speed / time | m s^-2 | none |
-| force | mass x acceleration | kg m s^-2 | newton |
-| work | force x displacement | kg m^2 s^-2 | joule |
-| power | work / time | kg m^2 s^-3 | watt |
-| pressure | force / area | kg m^-1 s^-2 | pascal |
+| Quantity     | Formula idea             | SI unit      | Special name |
+| ------------ | ------------------------ | ------------ | ------------ |
+| area         | length x length          | m^2          | none         |
+| volume       | length x length x length | m^3          | none         |
+| speed        | length / time            | m s^-1       | none         |
+| acceleration | speed / time             | m s^-2       | none         |
+| force        | mass x acceleration      | kg m s^-2    | newton       |
+| work         | force x displacement     | kg m^2 s^-2  | joule        |
+| power        | work / time              | kg m^2 s^-3  | watt         |
+| pressure     | force / area             | kg m^-1 s^-2 | pascal       |
 
 These derived units are built from base units.
 
@@ -235,14 +235,14 @@ Some non-SI units are commonly retained because they are convenient in daily lif
 
 Examples:
 
-| Quantity | Unit | Relation |
-|---|---|---|
-| time | minute | \(1\ \text{min}=60\ \text{s}\) |
-| time | hour | \(1\ \text{h}=3600\ \text{s}\) |
-| time | day | \(1\ \text{d}=86400\ \text{s}\) |
-| volume | litre | \(1\ \text{L}=10^{-3}\ \text{m}^3\) |
-| mass | tonne | \(1\ \text{t}=10^3\ \text{kg}\) |
-| energy | electron volt | \(1\ \text{eV}=1.602\times10^{-19}\ \text{J}\) |
+| Quantity | Unit          | Relation                                       |
+| -------- | ------------- | ---------------------------------------------- |
+| time     | minute        | \(1\ \text{min}=60\ \text{s}\)                 |
+| time     | hour          | \(1\ \text{h}=3600\ \text{s}\)                 |
+| time     | day           | \(1\ \text{d}=86400\ \text{s}\)                |
+| volume   | litre         | \(1\ \text{L}=10^{-3}\ \text{m}^3\)            |
+| mass     | tonne         | \(1\ \text{t}=10^3\ \text{kg}\)                |
+| energy   | electron volt | \(1\ \text{eV}=1.602\times10^{-19}\ \text{J}\) |
 
 These units should be converted to SI when using standard formulae.
 
@@ -342,10 +342,10 @@ All non-zero digits are significant.
 Examples:
 
 | Number | Significant figures |
-|---:|---:|
-| 237 | 3 |
-| 4.86 | 3 |
-| 91.2 | 3 |
+| -----: | ------------------: |
+|    237 |                   3 |
+|   4.86 |                   3 |
+|   91.2 |                   3 |
 
 ### 13.2 Zeros Between Non-Zero Digits
 
@@ -354,10 +354,10 @@ Zeros between non-zero digits are significant.
 Examples:
 
 | Number | Significant figures |
-|---:|---:|
-| 205 | 3 |
-| 3007 | 4 |
-| 4.006 | 4 |
+| -----: | ------------------: |
+|    205 |                   3 |
+|   3007 |                   4 |
+|  4.006 |                   4 |
 
 ### 13.3 Leading Zeros
 
@@ -365,11 +365,11 @@ Zeros to the left of the first non-zero digit are not significant.
 
 Examples:
 
-| Number | Significant figures |
-|---:|---:|
-| 0.007 | 1 |
-| 0.000603 | 3 |
-| 0.02308 | 4 |
+|   Number | Significant figures |
+| -------: | ------------------: |
+|    0.007 |                   1 |
+| 0.000603 |                   3 |
+|  0.02308 |                   4 |
 
 Leading zeros only locate the decimal point.
 
@@ -391,11 +391,11 @@ Trailing zeros after a decimal point are significant.
 
 Examples:
 
-| Number | Significant figures |
-|---:|---:|
-| 3.500 | 4 |
-| 0.06900 | 4 |
-| 4.700 | 4 |
+|  Number | Significant figures |
+| ------: | ------------------: |
+|   3.500 |                   4 |
+| 0.06900 |                   4 |
+|   4.700 |                   4 |
 
 ### 13.6 Scientific Notation Removes Ambiguity
 
@@ -809,10 +809,10 @@ Dimensions describe the nature of a physical quantity in terms of base quantitie
 The main mechanical dimensions are:
 
 | Quantity | Dimension symbol |
-|---|---|
-| mass | \(M\) |
-| length | \(L\) |
-| time | \(T\) |
+| -------- | ---------------- |
+| mass     | \(M\)            |
+| length   | \(L\)            |
+| time     | \(T\)            |
 
 For many mechanics problems, only \(M\), \(L\), and \(T\) are needed.
 
@@ -1326,26 +1326,26 @@ $$
 
 State the number of significant figures.
 
-| Number | Significant figures |
-|---:|---:|
-| 0.007 m^2 | 1 |
-| \(2.64\times10^{24}\) kg | 3 |
-| 0.2370 g cm^-3 | 4 |
-| 6.320 J | 4 |
-| 6.032 N m^-2 | 4 |
-| 0.0006032 m^2 | 4 |
+|                   Number | Significant figures |
+| -----------------------: | ------------------: |
+|                0.007 m^2 |                   1 |
+| \(2.64\times10^{24}\) kg |                   3 |
+|           0.2370 g cm^-3 |                   4 |
+|                  6.320 J |                   4 |
+|             6.032 N m^-2 |                   4 |
+|            0.0006032 m^2 |                   4 |
 
 ## 36. Practice Set B: Rounding
 
 Round each number to 3 significant figures.
 
-| Number | Rounded value |
-|---:|---:|
-| 2.746 | 2.75 |
-| 1.743 | 1.74 |
-| 5.678 | 5.68 |
-| 0.004567 | 0.00457 |
-| 98765 | \(9.88\times10^4\) |
+|   Number |      Rounded value |
+| -------: | -----------------: |
+|    2.746 |               2.75 |
+|    1.743 |               1.74 |
+|    5.678 |               5.68 |
+| 0.004567 |            0.00457 |
+|    98765 | \(9.88\times10^4\) |
 
 ## 37. Practice Set C: Unit Conversion
 
@@ -1772,15 +1772,15 @@ $$
 
 SI base units:
 
-| Quantity | Unit |
-|---|---|
-| length | m |
-| mass | kg |
-| time | s |
-| current | A |
-| temperature | K |
-| amount | mol |
-| luminous intensity | cd |
+| Quantity           | Unit |
+| ------------------ | ---- |
+| length             | m    |
+| mass               | kg   |
+| time               | s    |
+| current            | A    |
+| temperature        | K    |
+| amount             | mol  |
+| luminous intensity | cd   |
 
 Significant figures:
 
@@ -1821,4 +1821,3 @@ Dimensional consistency:
 - every term in a valid physical equation must have the same dimensions
 - dimensionally wrong means physically wrong
 - dimensionally correct does not guarantee physically correct
-

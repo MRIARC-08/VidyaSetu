@@ -1,35 +1,36 @@
 # Chapter 3: The Midnight Visitor
+
 ### NCERT Class 10 - English Footprints
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 10 |
-| **Subject** | English Footprints |
-| **Chapter** | 3 |
-| **Text** | "The Midnight Visitor" by Robert Arthur |
-| **Textbook Pages** | 14-19 |
-| **Genre** | Suspense story / spy fiction with a twist |
-| **Core Theme** | Presence of mind, intelligence over appearance, stereotype-breaking, calmness in danger, and quick thinking. |
-| **Main Skills** | Suspense reading, character contrast, inference, twist ending, vocabulary, discussion, and emergency response thinking. |
+| Detail             | Learner-Friendly Information                                                                                            |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------- |
+| **Class**          | 10                                                                                                                      |
+| **Subject**        | English Footprints                                                                                                      |
+| **Chapter**        | 3                                                                                                                       |
+| **Text**           | "The Midnight Visitor" by Robert Arthur                                                                                 |
+| **Textbook Pages** | 14-19                                                                                                                   |
+| **Genre**          | Suspense story / spy fiction with a twist                                                                               |
+| **Core Theme**     | Presence of mind, intelligence over appearance, stereotype-breaking, calmness in danger, and quick thinking.            |
+| **Main Skills**    | Suspense reading, character contrast, inference, twist ending, vocabulary, discussion, and emergency response thinking. |
 
 ---
 
 ## Section Structure
 
-| Unit | Text / Skill | Main Learning Focus |
-|---|---|---|
-| **3A** | Before Reading | Spy stereotypes and Fowler's expectations. |
-| **3B** | Ausable's Appearance | How Ausable differs from fictional secret agents. |
-| **3C** | Max Appears | Threat, report, pistol, and real danger. |
-| **3D** | The Balcony Story | Ausable's invented explanation and how it traps Max. |
-| **3E** | The Knock | Police bluff, waiter Henry, and Max's fall. |
-| **3F** | Thinking About It | Presence of mind, planning, and suspense technique. |
-| **3G** | Talk About It | Emergency situations and mental preparedness. |
-| **3H** | Vocabulary and Style | Glossary, contrast, irony, and twist ending. |
+| Unit   | Text / Skill         | Main Learning Focus                                  |
+| ------ | -------------------- | ---------------------------------------------------- |
+| **3A** | Before Reading       | Spy stereotypes and Fowler's expectations.           |
+| **3B** | Ausable's Appearance | How Ausable differs from fictional secret agents.    |
+| **3C** | Max Appears          | Threat, report, pistol, and real danger.             |
+| **3D** | The Balcony Story    | Ausable's invented explanation and how it traps Max. |
+| **3E** | The Knock            | Police bluff, waiter Henry, and Max's fall.          |
+| **3F** | Thinking About It    | Presence of mind, planning, and suspense technique.  |
+| **3G** | Talk About It        | Emergency situations and mental preparedness.        |
+| **3H** | Vocabulary and Style | Glossary, contrast, irony, and twist ending.         |
 
 ---
 
@@ -37,34 +38,34 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Retell the plot** | Explain how Ausable tricks Max without physical force. |
-| **Analyse character** | Compare Ausable, Fowler, and Max. |
-| **Understand suspense** | Identify how danger, timing, and uncertainty are built. |
-| **Explain the twist** | Show why the final line changes the meaning of the balcony story. |
-| **Identify presence of mind** | Explain how Ausable thinks calmly under threat. |
-| **Read stereotypes critically** | Explain how Ausable breaks the usual image of a spy. |
-| **Use vocabulary** | Understand romantic, passably, espionage, prosaic, wheezed, and shrilly. |
-| **Discuss safety** | Apply presence of mind to real-life emergency situations. |
+| Outcome                         | You Should Be Able To...                                                 |
+| ------------------------------- | ------------------------------------------------------------------------ |
+| **Retell the plot**             | Explain how Ausable tricks Max without physical force.                   |
+| **Analyse character**           | Compare Ausable, Fowler, and Max.                                        |
+| **Understand suspense**         | Identify how danger, timing, and uncertainty are built.                  |
+| **Explain the twist**           | Show why the final line changes the meaning of the balcony story.        |
+| **Identify presence of mind**   | Explain how Ausable thinks calmly under threat.                          |
+| **Read stereotypes critically** | Explain how Ausable breaks the usual image of a spy.                     |
+| **Use vocabulary**              | Understand romantic, passably, espionage, prosaic, wheezed, and shrilly. |
+| **Discuss safety**              | Apply presence of mind to real-life emergency situations.                |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Secret agent** | Person who secretly gathers information for a government or organisation. |
-| **Spy** | Person involved in secret information-gathering. |
-| **Espionage** | The activity of spying. |
-| **Romantic** | Imaginative, idealised, or dramatic rather than realistic. |
-| **Authentic thrill** | Real excitement, not imagined or expected drama. |
-| **Report** | Important secret document in the story. |
-| **Passkey** | Key that can open several locks. |
-| **Balcony** | Platform outside a building, usually attached to a room. |
-| **Bluff** | A false statement or act used to deceive someone. |
-| **Presence of mind** | Ability to think calmly and quickly in danger. |
-| **Twist ending** | Ending that surprises the reader and changes earlier understanding. |
+| Term                 | Meaning                                                                   |
+| -------------------- | ------------------------------------------------------------------------- |
+| **Secret agent**     | Person who secretly gathers information for a government or organisation. |
+| **Spy**              | Person involved in secret information-gathering.                          |
+| **Espionage**        | The activity of spying.                                                   |
+| **Romantic**         | Imaginative, idealised, or dramatic rather than realistic.                |
+| **Authentic thrill** | Real excitement, not imagined or expected drama.                          |
+| **Report**           | Important secret document in the story.                                   |
+| **Passkey**          | Key that can open several locks.                                          |
+| **Balcony**          | Platform outside a building, usually attached to a room.                  |
+| **Bluff**            | A false statement or act used to deceive someone.                         |
+| **Presence of mind** | Ability to think calmly and quickly in danger.                            |
+| **Twist ending**     | Ending that surprises the reader and changes earlier understanding.       |
 
 ---
 
@@ -109,13 +110,13 @@ This contrast prepares the reader for the story's main surprise: Ausable is effe
 
 ## How Ausable Is Different from Other Secret Agents
 
-| Expected Spy Image | Ausable |
-|---|---|
-| Slim and stylish | Fat and carelessly dressed. |
-| Glamorous setting | Gloomy French hotel room. |
-| Perfect accent | Keeps his American accent. |
-| Dramatic movements | Wheezes and moves heavily. |
-| Pistol action | Uses words and calm thinking. |
+| Expected Spy Image | Ausable                                   |
+| ------------------ | ----------------------------------------- |
+| Slim and stylish   | Fat and carelessly dressed.               |
+| Glamorous setting  | Gloomy French hotel room.                 |
+| Perfect accent     | Keeps his American accent.                |
+| Dramatic movements | Wheezes and moves heavily.                |
+| Pistol action      | Uses words and calm thinking.             |
 | Romantic adventure | Ordinary phone calls and patient waiting. |
 
 ## Why Fowler Feels Let Down
@@ -144,13 +145,13 @@ The danger is now real.
 
 Max is another secret agent. He wants the important report that is expected that night.
 
-| Detail | Information |
-|---|---|
-| **Appearance** | Slender, not very tall. |
-| **Expression** | Crafty, fox-like face. |
-| **Weapon** | Small automatic pistol. |
-| **Goal** | Get the report about missiles. |
-| **Entry method** | Uses a passkey. |
+| Detail           | Information                    |
+| ---------------- | ------------------------------ |
+| **Appearance**   | Slender, not very tall.        |
+| **Expression**   | Crafty, fox-like face.         |
+| **Weapon**       | Small automatic pistol.        |
+| **Goal**         | Get the report about missiles. |
+| **Entry method** | Uses a passkey.                |
 
 ## How Has Max Got In?
 
@@ -178,14 +179,14 @@ There is actually no balcony.
 
 Ausable adds details:
 
-| Detail | Why It Sounds Convincing |
-|---|---|
-| It belongs to the next apartment. | Explains why it is not obviously his own balcony. |
-| The rooms were once part of a larger unit. | Gives architectural background. |
-| The balcony extends under his window. | Explains how someone could enter. |
-| Empty room two doors down gives access. | Provides a practical route. |
-| Someone used it last month. | Makes the problem seem repeated. |
-| Management promised to block it. | Adds ordinary hotel complaint realism. |
+| Detail                                     | Why It Sounds Convincing                          |
+| ------------------------------------------ | ------------------------------------------------- |
+| It belongs to the next apartment.          | Explains why it is not obviously his own balcony. |
+| The rooms were once part of a larger unit. | Gives architectural background.                   |
+| The balcony extends under his window.      | Explains how someone could enter.                 |
+| Empty room two doors down gives access.    | Provides a practical route.                       |
+| Someone used it last month.                | Makes the problem seem repeated.                  |
+| Management promised to block it.           | Adds ordinary hotel complaint realism.            |
 
 The lie works because it is not vague. It is detailed, irritated, and practical.
 
@@ -234,13 +235,13 @@ This final revelation changes the reader's understanding of the entire scene.
 
 ## How Ausable Outwits Max
 
-| Max Has | Ausable Uses |
-|---|---|
-| Pistol | Calmness |
-| Surprise | Quick thinking |
-| Threat | Psychological control |
+| Max Has                  | Ausable Uses                   |
+| ------------------------ | ------------------------------ |
+| Pistol                   | Calmness                       |
+| Surprise                 | Quick thinking                 |
+| Threat                   | Psychological control          |
 | Information about report | Better understanding of people |
-| Physical danger | Language and bluff |
+| Physical danger          | Language and bluff             |
 
 ---
 
@@ -298,14 +299,14 @@ The story is not asking learners to become spies. It teaches the value of thinki
 
 ## Emergency Situations
 
-| Situation | Wise Response |
-|---|---|
-| **Small kitchen fire** | Turn off gas/electricity if safe, cover pan fire with lid, do not throw water on oil fire, call an adult/fire service. |
-| **Child choking** | Call for help, encourage coughing if possible, use age-appropriate first aid, contact emergency services. |
-| **Electrical appliance sparks** | Switch off power from main source if safe, do not touch with wet hands, keep distance, call electrician. |
-| **Bicycle knocks pedestrian** | Stop, check injury, move only if necessary for safety, call help, do not run away. |
-| **Continuous rain for over 24 hours** | Avoid flooded roads, store drinking water, charge phone, follow local warnings. |
-| **Family member late** | Call them, contact known friends, check route, inform responsible adults, escalate if needed. |
+| Situation                             | Wise Response                                                                                                          |
+| ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| **Small kitchen fire**                | Turn off gas/electricity if safe, cover pan fire with lid, do not throw water on oil fire, call an adult/fire service. |
+| **Child choking**                     | Call for help, encourage coughing if possible, use age-appropriate first aid, contact emergency services.              |
+| **Electrical appliance sparks**       | Switch off power from main source if safe, do not touch with wet hands, keep distance, call electrician.               |
+| **Bicycle knocks pedestrian**         | Stop, check injury, move only if necessary for safety, call help, do not run away.                                     |
+| **Continuous rain for over 24 hours** | Avoid flooded roads, store drinking water, charge phone, follow local warnings.                                        |
+| **Family member late**                | Call them, contact known friends, check route, inform responsible adults, escalate if needed.                          |
 
 ## Learner Reflection
 
@@ -317,68 +318,68 @@ Presence of mind is not the same as fearlessness. A person may feel afraid but s
 
 ## Glossary from the Chapter
 
-| Word | Meaning |
-|---|---|
-| **Romantic** | Imaginative; having a fantastic view of reality. |
-| **Passably** | Just well enough; tolerably. |
-| **Espionage** | Spying. |
-| **Sloppy** | Carelessly dressed or untidy. |
-| **Prosaic** | Ordinary, dull, not romantic. |
-| **Chuckled** | Laughed quietly. |
-| **Wheezed** | Spoke while breathing noisily. |
-| **Missiles** | Guided weapons. |
-| **Shrilly** | In a high, sharp voice. |
+| Word          | Meaning                                          |
+| ------------- | ------------------------------------------------ |
+| **Romantic**  | Imaginative; having a fantastic view of reality. |
+| **Passably**  | Just well enough; tolerably.                     |
+| **Espionage** | Spying.                                          |
+| **Sloppy**    | Carelessly dressed or untidy.                    |
+| **Prosaic**   | Ordinary, dull, not romantic.                    |
+| **Chuckled**  | Laughed quietly.                                 |
+| **Wheezed**   | Spoke while breathing noisily.                   |
+| **Missiles**  | Guided weapons.                                  |
+| **Shrilly**   | In a high, sharp voice.                          |
 
 ## Important Expressions
 
-| Expression | Meaning |
-|---|---|
-| **Felt let down** | Felt disappointed. |
-| **Take cheer** | Be encouraged. |
-| **Raise the devil** | Make a strong complaint. |
+| Expression                | Meaning                            |
+| ------------------------- | ---------------------------------- |
+| **Felt let down**         | Felt disappointed.                 |
+| **Take cheer**            | Be encouraged.                     |
+| **Raise the devil**       | Make a strong complaint.           |
 | **No harm has been done** | Nothing serious has been lost yet. |
-| **Take my chances** | Accept the risk. |
+| **Take my chances**       | Accept the risk.                   |
 
 ## Suspense Techniques
 
-| Technique | Example in Story |
-|---|---|
-| **Expectation** | Fowler expects spy adventure. |
-| **Surprise** | Max appears with a pistol. |
-| **Danger** | Max wants the secret report. |
-| **Time pressure** | The report is expected at twelve-thirty. |
-| **Misdirection** | The balcony story misleads Max and reader. |
-| **Twist** | There is no balcony. |
+| Technique         | Example in Story                           |
+| ----------------- | ------------------------------------------ |
+| **Expectation**   | Fowler expects spy adventure.              |
+| **Surprise**      | Max appears with a pistol.                 |
+| **Danger**        | Max wants the secret report.               |
+| **Time pressure** | The report is expected at twelve-thirty.   |
+| **Misdirection**  | The balcony story misleads Max and reader. |
+| **Twist**         | There is no balcony.                       |
 
 ## Character Study
 
 ### Ausable
 
-| Trait | Evidence |
-|---|---|
-| **Calm** | Does not panic when facing Max's gun. |
-| **Intelligent** | Invents a convincing balcony story. |
-| **Observant** | Understands Fowler's disappointment and Max's fear. |
-| **Quick-thinking** | Uses Henry's knock as police bluff. |
-| **Unconventional** | Does not look like a typical spy. |
+| Trait              | Evidence                                            |
+| ------------------ | --------------------------------------------------- |
+| **Calm**           | Does not panic when facing Max's gun.               |
+| **Intelligent**    | Invents a convincing balcony story.                 |
+| **Observant**      | Understands Fowler's disappointment and Max's fear. |
+| **Quick-thinking** | Uses Henry's knock as police bluff.                 |
+| **Unconventional** | Does not look like a typical spy.                   |
 
 ### Fowler
 
-| Trait | Evidence |
-|---|---|
-| **Romantic** | Expects dramatic spy adventure. |
-| **Disappointed** | Finds Ausable ordinary at first. |
-| **Inexperienced** | Freezes when Max appears. |
-| **Amazed** | Learns that Ausable outwitted Max through bluff. |
+| Trait             | Evidence                                         |
+| ----------------- | ------------------------------------------------ |
+| **Romantic**      | Expects dramatic spy adventure.                  |
+| **Disappointed**  | Finds Ausable ordinary at first.                 |
+| **Inexperienced** | Freezes when Max appears.                        |
+| **Amazed**        | Learns that Ausable outwitted Max through bluff. |
 
 ### Max
 
-| Trait | Evidence |
-|---|---|
-| **Cunning** | Enters with passkey and waits for report. |
-| **Armed** | Threatens Ausable with a pistol. |
-| **Nervous under pressure** | Believes the police bluff. |
-| **Overconfident** | Underestimates Ausable. |
+| Trait                      | Evidence                                  |
+| -------------------------- | ----------------------------------------- |
+| **Cunning**                | Enters with passkey and waits for report. |
+| **Armed**                  | Threatens Ausable with a pistol.          |
+| **Nervous under pressure** | Believes the police bluff.                |
+| **Overconfident**          | Underestimates Ausable.                   |
 
 ---
 
@@ -440,4 +441,4 @@ Presence of mind is not the same as fearlessness. A person may feel afraid but s
 
 ---
 
-*Source: NCERT Class 10 - English Footprints, Chapter 3 raw file. Learner-facing version manually rewritten from the extracted content of "The Midnight Visitor".*
+_Source: NCERT Class 10 - English Footprints, Chapter 3 raw file. Learner-facing version manually rewritten from the extracted content of "The Midnight Visitor"._

@@ -1,4 +1,5 @@
 # Chapter 1: Relations and Functions
+
 ### NCERT Class 12 - Maths Part 1
 
 ## Chapter at a Glance
@@ -23,34 +24,34 @@ By the end of this chapter, learners should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Relation from A to B | Any subset of `A x B`. |
-| Relation on A | Any subset of `A x A`. |
-| Reflexive relation | Every element is related to itself. |
-| Symmetric relation | If `aRb`, then `bRa`. |
-| Transitive relation | If `aRb` and `bRc`, then `aRc`. |
-| Equivalence relation | A relation that is reflexive, symmetric, and transitive. |
-| Equivalence class | Set of all elements related to a particular element under an equivalence relation. |
-| Function | A relation in which every element of the domain has exactly one image. |
-| One-one function | Distinct elements of domain have distinct images. |
-| Onto function | Every element of codomain is an image of at least one domain element. |
-| Bijective function | A function that is both one-one and onto. |
-| Composition | Function formed by applying one function after another. |
-| Invertible function | A function that has an inverse; it must be bijective. |
+| Term                 | Meaning                                                                            |
+| -------------------- | ---------------------------------------------------------------------------------- |
+| Relation from A to B | Any subset of `A x B`.                                                             |
+| Relation on A        | Any subset of `A x A`.                                                             |
+| Reflexive relation   | Every element is related to itself.                                                |
+| Symmetric relation   | If `aRb`, then `bRa`.                                                              |
+| Transitive relation  | If `aRb` and `bRc`, then `aRc`.                                                    |
+| Equivalence relation | A relation that is reflexive, symmetric, and transitive.                           |
+| Equivalence class    | Set of all elements related to a particular element under an equivalence relation. |
+| Function             | A relation in which every element of the domain has exactly one image.             |
+| One-one function     | Distinct elements of domain have distinct images.                                  |
+| Onto function        | Every element of codomain is an image of at least one domain element.              |
+| Bijective function   | A function that is both one-one and onto.                                          |
+| Composition          | Function formed by applying one function after another.                            |
+| Invertible function  | A function that has an inverse; it must be bijective.                              |
 
 ## Quick Formula and Test Map
 
-| Concept | Test |
-|---|---|
-| Reflexive | For every `a in A`, `(a, a) in R`. |
-| Symmetric | If `(a, b) in R`, then `(b, a) in R`. |
-| Transitive | If `(a, b) in R` and `(b, c) in R`, then `(a, c) in R`. |
-| One-one | `f(a) = f(b)` implies `a = b`. |
-| Onto | For every `y in B`, there exists `x in A` such that `f(x) = y`. |
-| Bijective | One-one and onto. |
-| Inverse exists | Function is bijective. |
-| Composition | `(g o f)(x) = g(f(x))`. |
+| Concept        | Test                                                            |
+| -------------- | --------------------------------------------------------------- |
+| Reflexive      | For every `a in A`, `(a, a) in R`.                              |
+| Symmetric      | If `(a, b) in R`, then `(b, a) in R`.                           |
+| Transitive     | If `(a, b) in R` and `(b, c) in R`, then `(a, c) in R`.         |
+| One-one        | `f(a) = f(b)` implies `a = b`.                                  |
+| Onto           | For every `y in B`, there exists `x in A` such that `f(x) = y`. |
+| Bijective      | One-one and onto.                                               |
+| Inverse exists | Function is bijective.                                          |
+| Composition    | `(g o f)(x) = g(f(x))`.                                         |
 
 # Unit 1A: Relations
 
@@ -184,11 +185,11 @@ Here:
 
 ## Domain, Codomain, Range
 
-| Word | Meaning |
-|---|---|
-| Domain | Set of allowed input values. |
+| Word     | Meaning                                         |
+| -------- | ----------------------------------------------- |
+| Domain   | Set of allowed input values.                    |
 | Codomain | Set in which output values are expected to lie. |
-| Range | Set of values actually obtained. |
+| Range    | Set of values actually obtained.                |
 
 ## Function Test
 
@@ -429,15 +430,15 @@ Write in this order:
 
 # Unit 1O: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Confusing codomain and range | Codomain is declared; range is actually obtained. |
-| Checking only one self-pair for reflexive | Every element must be related to itself. |
-| Assuming symmetric means equal pairs only | Symmetric means reverse pairs must exist. |
-| Forgetting transitive chains | Every valid chain must produce the shortcut pair. |
-| Saying every function has inverse | Only bijective functions have inverses. |
-| Reversing composition order | In `g o f`, apply `f` first, then `g`. |
-| Ignoring domain restrictions | One-one and onto depend on domain and codomain. |
+| Mistake                                   | Correction                                        |
+| ----------------------------------------- | ------------------------------------------------- |
+| Confusing codomain and range              | Codomain is declared; range is actually obtained. |
+| Checking only one self-pair for reflexive | Every element must be related to itself.          |
+| Assuming symmetric means equal pairs only | Symmetric means reverse pairs must exist.         |
+| Forgetting transitive chains              | Every valid chain must produce the shortcut pair. |
+| Saying every function has inverse         | Only bijective functions have inverses.           |
+| Reversing composition order               | In `g o f`, apply `f` first, then `g`.            |
+| Ignoring domain restrictions              | One-one and onto depend on domain and codomain.   |
 
 ## Practice Set
 

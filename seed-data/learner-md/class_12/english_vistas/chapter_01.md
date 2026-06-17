@@ -2,14 +2,14 @@
 
 ## Chapter Identity
 
-| Item | Details |
-| --- | --- |
-| Class | 12 |
-| Subject | English Vistas |
-| Text Type | Short Story |
-| Author | Jack Finney |
-| Core Skill | Interpreting fantasy, escapism, modern anxiety, unreliable narration, and symbolic setting |
-| Main Idea | The story uses a mysterious third level at Grand Central Station to explore the human desire to escape from modern stress into an imagined peaceful past. |
+| Item       | Details                                                                                                                                                   |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Class      | 12                                                                                                                                                        |
+| Subject    | English Vistas                                                                                                                                            |
+| Text Type  | Short Story                                                                                                                                               |
+| Author     | Jack Finney                                                                                                                                               |
+| Core Skill | Interpreting fantasy, escapism, modern anxiety, unreliable narration, and symbolic setting                                                                |
+| Main Idea  | The story uses a mysterious third level at Grand Central Station to explore the human desire to escape from modern stress into an imagined peaceful past. |
 
 ## 1. Big Picture
 
@@ -29,12 +29,12 @@ The ending blurs fantasy and reality. The psychiatrist who explained the third l
 
 ## 3. Main Characters
 
-| Character | Role | What to Remember |
-| --- | --- | --- |
-| Charley | Narrator and central character | Ordinary man who longs for escape from modern anxiety. |
-| Louisa | Charley's wife | Practical, worried, but eventually joins Charley in searching. |
-| Sam Weiner | Psychiatrist and friend | Calls the third level wish fulfilment, then apparently escapes to 1894. |
-| Grandfather | Linked to stamp collection | Represents continuity with the past and a calmer earlier world. |
+| Character   | Role                           | What to Remember                                                        |
+| ----------- | ------------------------------ | ----------------------------------------------------------------------- |
+| Charley     | Narrator and central character | Ordinary man who longs for escape from modern anxiety.                  |
+| Louisa      | Charley's wife                 | Practical, worried, but eventually joins Charley in searching.          |
+| Sam Weiner  | Psychiatrist and friend        | Calls the third level wish fulfilment, then apparently escapes to 1894. |
+| Grandfather | Linked to stamp collection     | Represents continuity with the past and a calmer earlier world.         |
 
 ## 4. Charley as Narrator
 
@@ -53,11 +53,11 @@ The story works because Charley sounds sincere even when his claim is unbelievab
 
 The third level can be understood in three ways.
 
-| Interpretation | Explanation |
-| --- | --- |
-| Literal fantasy | It may be a real time-travel passage to 1894. |
-| Psychological escape | It may be Charley's wish fulfilment caused by modern stress. |
-| Symbol | It represents the human desire to escape from insecurity into a simpler world. |
+| Interpretation       | Explanation                                                                    |
+| -------------------- | ------------------------------------------------------------------------------ |
+| Literal fantasy      | It may be a real time-travel passage to 1894.                                  |
+| Psychological escape | It may be Charley's wish fulfilment caused by modern stress.                   |
+| Symbol               | It represents the human desire to escape from insecurity into a simpler world. |
 
 For exam answers, the safest interpretation is: the third level is both a fantasy device and a symbol of escapism.
 
@@ -93,13 +93,13 @@ Important exam point: the past in the story is romanticised. The story shows Cha
 
 The story mixes realistic details with impossible events.
 
-| Realistic Elements | Fantasy Elements |
-| --- | --- |
-| Grand Central Station | A hidden third level leading to 1894 |
-| Subway confusion | Time travel |
-| Stamp collecting | A first-day cover from the past |
+| Realistic Elements         | Fantasy Elements                        |
+| -------------------------- | --------------------------------------- |
+| Grand Central Station      | A hidden third level leading to 1894    |
+| Subway confusion           | Time travel                             |
+| Stamp collecting           | A first-day cover from the past         |
 | Psychiatrist's explanation | Psychiatrist disappearing into the past |
-| Old currency dealers | Sam's letter from 1894 |
+| Old currency dealers       | Sam's letter from 1894                  |
 
 This mixture makes the story interesting because readers cannot fully dismiss or fully prove Charley's experience.
 
@@ -117,14 +117,14 @@ Sam's letter is the strongest evidence within the story that the third level may
 
 ## 10. Symbolism
 
-| Symbol | Meaning |
-| --- | --- |
-| Third level | Escape, imagination, alternate reality, wish fulfilment. |
-| Grand Central Station | Modern life, movement, confusion, hidden possibilities. |
-| Galesburg | Peaceful past and emotional refuge. |
-| Old currency | Need to belong to another time. |
-| First-day cover | Link between past and present; proof of impossible connection. |
-| Stamp collection | Nostalgia, memory, retreat from reality. |
+| Symbol                | Meaning                                                        |
+| --------------------- | -------------------------------------------------------------- |
+| Third level           | Escape, imagination, alternate reality, wish fulfilment.       |
+| Grand Central Station | Modern life, movement, confusion, hidden possibilities.        |
+| Galesburg             | Peaceful past and emotional refuge.                            |
+| Old currency          | Need to belong to another time.                                |
+| First-day cover       | Link between past and present; proof of impossible connection. |
+| Stamp collection      | Nostalgia, memory, retreat from reality.                       |
 
 ## 11. Important Questions and Answer Guides
 
@@ -146,13 +146,13 @@ Galesburg represents peace, simplicity, community, and freedom from modern anxie
 
 ## 12. Common Mistakes and Corrections
 
-| Mistake | Correction |
-| --- | --- |
-| Saying the story is only about time travel | It is also about escapism and modern anxiety. |
-| Treating Charley as simply mad | The story keeps the truth ambiguous. |
-| Ignoring Sam | Sam's disappearance strengthens the fantasy and irony. |
-| Thinking Galesburg is important only geographically | It symbolises an ideal past. |
-| Calling stamp collecting useless detail | It supports the theme of escape into the past. |
+| Mistake                                             | Correction                                             |
+| --------------------------------------------------- | ------------------------------------------------------ |
+| Saying the story is only about time travel          | It is also about escapism and modern anxiety.          |
+| Treating Charley as simply mad                      | The story keeps the truth ambiguous.                   |
+| Ignoring Sam                                        | Sam's disappearance strengthens the fantasy and irony. |
+| Thinking Galesburg is important only geographically | It symbolises an ideal past.                           |
+| Calling stamp collecting useless detail             | It supports the theme of escape into the past.         |
 
 ## 13. Exam Answer Frame
 
@@ -176,16 +176,16 @@ State the event or idea
 
 ## 15. Quick Revision Sheet
 
-| Point | Recall |
-| --- | --- |
-| Main theme | Escape from modern anxiety. |
-| Main symbol | Third level. |
-| Narrator | Charley. |
-| Rational voice | Sam, the psychiatrist. |
-| Desired destination | Galesburg, Illinois, in 1894. |
-| Key irony | Psychiatrist also escapes. |
-| Ending | Ambiguous but supports fantasy. |
-| Tone | Curious, nostalgic, lightly humorous, mysterious. |
+| Point               | Recall                                            |
+| ------------------- | ------------------------------------------------- |
+| Main theme          | Escape from modern anxiety.                       |
+| Main symbol         | Third level.                                      |
+| Narrator            | Charley.                                          |
+| Rational voice      | Sam, the psychiatrist.                            |
+| Desired destination | Galesburg, Illinois, in 1894.                     |
+| Key irony           | Psychiatrist also escapes.                        |
+| Ending              | Ambiguous but supports fantasy.                   |
+| Tone                | Curious, nostalgic, lightly humorous, mysterious. |
 
 ## 16. Final Learning Takeaway
 

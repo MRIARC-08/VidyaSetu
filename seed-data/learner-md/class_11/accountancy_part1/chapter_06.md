@@ -1,4 +1,5 @@
 # Chapter 6: Trial Balance and Rectification of Errors
+
 ### NCERT Class 11 - Accountancy Part 1
 
 ## Chapter at a Glance
@@ -9,12 +10,12 @@ First, it explains the trial balance. A trial balance is a statement that lists 
 
 Second, it explains errors. If the trial balance does not agree, errors must be located and corrected. Even if the trial balance agrees, some errors can still remain hidden. Therefore, a learner must understand both the use and the limitations of trial balance.
 
-| Part | Main Skill |
-|---|---|
-| Trial balance | Listing ledger balances and checking arithmetical accuracy |
-| Error classification | Identifying type and effect of accounting errors |
-| Rectification | Passing correcting entries |
-| Suspense account | Temporarily recording trial balance difference |
+| Part                 | Main Skill                                                 |
+| -------------------- | ---------------------------------------------------------- |
+| Trial balance        | Listing ledger balances and checking arithmetical accuracy |
+| Error classification | Identifying type and effect of accounting errors           |
+| Rectification        | Passing correcting entries                                 |
+| Suspense account     | Temporarily recording trial balance difference             |
 
 ## Learning Outcomes
 
@@ -37,23 +38,23 @@ After studying this chapter, a learner should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Trial balance | Statement of ledger balances or totals prepared to check debit-credit equality |
-| Totals method | Trial balance prepared from debit and credit totals of ledger accounts |
-| Balances method | Trial balance prepared from closing balances of ledger accounts |
-| Totals-cum-balances method | Trial balance showing both totals and balances |
-| Error of commission | Clerical error such as wrong posting, wrong amount, wrong casting, or wrong balancing |
-| Error of omission | Omission of a transaction fully or partly |
-| Error of principle | Error caused by violating an accounting principle |
-| Compensating errors | Errors that cancel each other's effect on trial balance |
-| One-sided error | Error affecting only one account or one side |
-| Two-sided error | Error affecting two or more accounts |
-| Suspense account | Temporary account used to make trial balance agree until errors are found |
-| Rectification | Correction of accounting errors |
-| Overcast | Total is more than it should be |
-| Undercast | Total is less than it should be |
-| Transposition error | Error caused by reversing digits, such as 459 written as 954 |
+| Term                       | Meaning                                                                               |
+| -------------------------- | ------------------------------------------------------------------------------------- |
+| Trial balance              | Statement of ledger balances or totals prepared to check debit-credit equality        |
+| Totals method              | Trial balance prepared from debit and credit totals of ledger accounts                |
+| Balances method            | Trial balance prepared from closing balances of ledger accounts                       |
+| Totals-cum-balances method | Trial balance showing both totals and balances                                        |
+| Error of commission        | Clerical error such as wrong posting, wrong amount, wrong casting, or wrong balancing |
+| Error of omission          | Omission of a transaction fully or partly                                             |
+| Error of principle         | Error caused by violating an accounting principle                                     |
+| Compensating errors        | Errors that cancel each other's effect on trial balance                               |
+| One-sided error            | Error affecting only one account or one side                                          |
+| Two-sided error            | Error affecting two or more accounts                                                  |
+| Suspense account           | Temporary account used to make trial balance agree until errors are found             |
+| Rectification              | Correction of accounting errors                                                       |
+| Overcast                   | Total is more than it should be                                                       |
+| Undercast                  | Total is less than it should be                                                       |
+| Transposition error        | Error caused by reversing digits, such as 459 written as 954                          |
 
 # Unit 6A: Meaning of Trial Balance
 
@@ -74,12 +75,12 @@ If every transaction has been posted with equal debit and credit, the total of d
 ## Trial Balance Format
 
 | Account Title | L.F. | Debit Balance Rs. | Credit Balance Rs. |
-|---|---|---:|---:|
-| Cash |  | xxx |  |
-| Capital |  |  | xxx |
-| Purchases |  | xxx |  |
-| Sales |  |  | xxx |
-| Total |  | xxx | xxx |
+| ------------- | ---- | ----------------: | -----------------: |
+| Cash          |      |               xxx |                    |
+| Capital       |      |                   |                xxx |
+| Purchases     |      |               xxx |                    |
+| Sales         |      |                   |                xxx |
+| Total         |      |               xxx |                xxx |
 
 ## When Trial Balance Is Prepared
 
@@ -106,45 +107,45 @@ Trial balance is usually prepared:
 
 ## Normal Debit Balances
 
-| Account Type | Examples |
-|---|---|
-| Assets | Cash, bank, machinery, furniture, building, debtors, bills receivable |
-| Expenses | Salaries, wages, rent, insurance, carriage inwards, carriage outwards |
-| Losses | Bad debts, loss by fire, discount allowed |
-| Drawings | Owner's withdrawals |
-| Purchases and sales returns | Purchases, sales return |
+| Account Type                | Examples                                                              |
+| --------------------------- | --------------------------------------------------------------------- |
+| Assets                      | Cash, bank, machinery, furniture, building, debtors, bills receivable |
+| Expenses                    | Salaries, wages, rent, insurance, carriage inwards, carriage outwards |
+| Losses                      | Bad debts, loss by fire, discount allowed                             |
+| Drawings                    | Owner's withdrawals                                                   |
+| Purchases and sales returns | Purchases, sales return                                               |
 
 ## Normal Credit Balances
 
-| Account Type | Examples |
-|---|---|
-| Liabilities | Creditors, bills payable, bank loan, outstanding expenses |
-| Capital | Capital account |
-| Revenues | Sales, commission received, interest received |
-| Gains | Discount received, profit on sale of asset |
-| Purchase returns | Purchases return |
+| Account Type     | Examples                                                  |
+| ---------------- | --------------------------------------------------------- |
+| Liabilities      | Creditors, bills payable, bank loan, outstanding expenses |
+| Capital          | Capital account                                           |
+| Revenues         | Sales, commission received, interest received             |
+| Gains            | Discount received, profit on sale of asset                |
+| Purchase returns | Purchases return                                          |
 
 ## Common Trial Balance Placement
 
-| Account | Debit or Credit |
-|---|---|
-| Capital | Credit |
-| Drawings | Debit |
-| Machinery | Debit |
-| Sales | Credit |
-| Purchases | Debit |
-| Sales Return | Debit |
-| Purchases Return | Credit |
-| Wages | Debit |
-| Goodwill | Debit |
-| Interest Received | Credit |
-| Discount Allowed | Debit |
-| Bank Overdraft | Credit |
-| Bank Loan | Credit |
-| Debtors | Debit |
-| Creditors | Credit |
-| Cash | Debit |
-| Opening Stock | Debit |
+| Account           | Debit or Credit |
+| ----------------- | --------------- |
+| Capital           | Credit          |
+| Drawings          | Debit           |
+| Machinery         | Debit           |
+| Sales             | Credit          |
+| Purchases         | Debit           |
+| Sales Return      | Debit           |
+| Purchases Return  | Credit          |
+| Wages             | Debit           |
+| Goodwill          | Debit           |
+| Interest Received | Credit          |
+| Discount Allowed  | Debit           |
+| Bank Overdraft    | Credit          |
+| Bank Loan         | Credit          |
+| Debtors           | Debit           |
+| Creditors         | Credit          |
+| Cash              | Debit           |
+| Opening Stock     | Debit           |
 
 # Unit 6C: Objectives of Trial Balance
 
@@ -191,25 +192,25 @@ This happens when debit and credit equality is not disturbed.
 
 ## Errors Not Revealed by Trial Balance
 
-| Error | Example | Why Trial Balance Still Agrees |
-|---|---|---|
-| Complete omission | Credit sale not recorded at all | Both debit and credit omitted |
-| Error of principle | Furniture purchase debited to Purchases A/c | Debit made, credit made |
-| Wrong account | Cash received from A posted to B | Same side, same amount |
-| Compensating errors | Purchases overcast and sales return undercast by same amount | One error cancels another |
-| Wrong original amount | Sale of Rs. 5,000 recorded as Rs. 500 in both accounts | Equal wrong debit and credit |
-| Complete reversal | Cash received recorded as Cash credited and debtor debited | Equal debit and credit, though reversed |
+| Error                 | Example                                                      | Why Trial Balance Still Agrees          |
+| --------------------- | ------------------------------------------------------------ | --------------------------------------- |
+| Complete omission     | Credit sale not recorded at all                              | Both debit and credit omitted           |
+| Error of principle    | Furniture purchase debited to Purchases A/c                  | Debit made, credit made                 |
+| Wrong account         | Cash received from A posted to B                             | Same side, same amount                  |
+| Compensating errors   | Purchases overcast and sales return undercast by same amount | One error cancels another               |
+| Wrong original amount | Sale of Rs. 5,000 recorded as Rs. 500 in both accounts       | Equal wrong debit and credit            |
+| Complete reversal     | Cash received recorded as Cash credited and debtor debited   | Equal debit and credit, though reversed |
 
 ## Errors Revealed by Trial Balance
 
-| Error | Example |
-|---|---|
-| Posting only one side | Sales posted to Sales A/c but not to debtor |
-| Posting wrong side | Debtor credited instead of debited |
-| Posting wrong amount on one side | Debtor debited Rs. 700 instead of Rs. 7,000 |
-| Wrong total of subsidiary book | Purchases book overcast |
-| Wrong balance carried to trial balance | Debit balance put in credit column |
-| Omission of ledger balance | Rent account omitted from trial balance |
+| Error                                  | Example                                     |
+| -------------------------------------- | ------------------------------------------- |
+| Posting only one side                  | Sales posted to Sales A/c but not to debtor |
+| Posting wrong side                     | Debtor credited instead of debited          |
+| Posting wrong amount on one side       | Debtor debited Rs. 700 instead of Rs. 7,000 |
+| Wrong total of subsidiary book         | Purchases book overcast                     |
+| Wrong balance carried to trial balance | Debit balance put in credit column          |
+| Omission of ledger balance             | Rent account omitted from trial balance     |
 
 # Unit 6E: Methods of Preparing Trial Balance
 
@@ -219,11 +220,11 @@ Under totals method, total of debit side and total of credit side of each ledger
 
 Format:
 
-| Account | Debit Total Rs. | Credit Total Rs. |
-|---|---:|---:|
-| Cash | 1,00,000 | 57,000 |
-| Sales |  | 70,000 |
-| Purchases | 62,000 |  |
+| Account   | Debit Total Rs. | Credit Total Rs. |
+| --------- | --------------: | ---------------: |
+| Cash      |        1,00,000 |           57,000 |
+| Sales     |                 |           70,000 |
+| Purchases |          62,000 |                  |
 
 Use:
 
@@ -236,10 +237,10 @@ Under balances method, only closing balances of ledger accounts are shown.
 Format:
 
 | Account | Debit Balance Rs. | Credit Balance Rs. |
-|---|---:|---:|
-| Cash | 43,000 |  |
-| Capital |  | 60,000 |
-| Sales |  | 70,000 |
+| ------- | ----------------: | -----------------: |
+| Cash    |            43,000 |                    |
+| Capital |                   |             60,000 |
+| Sales   |                   |             70,000 |
 
 Use:
 
@@ -255,8 +256,8 @@ This method shows both:
 Format:
 
 | Account | Debit Total Rs. | Credit Total Rs. | Debit Balance Rs. | Credit Balance Rs. |
-|---|---:|---:|---:|---:|
-| Cash | 1,00,000 | 57,000 | 43,000 |  |
+| ------- | --------------: | ---------------: | ----------------: | -----------------: |
+| Cash    |        1,00,000 |           57,000 |            43,000 |                    |
 
 Use:
 
@@ -268,32 +269,32 @@ It gives more information but is time consuming.
 
 Assume the following balances:
 
-| Account | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Rawat Capital |  | 60,000 |
-| Rohan |  | 20,000 |
-| Machinery | 17,000 |  |
-| Rahul | 20,000 |  |
-| Sales |  | 70,000 |
-| Cash | 43,000 |  |
-| Wages | 5,000 |  |
-| Depreciation | 3,000 |  |
-| Purchases | 62,000 |  |
+| Account       | Debit Rs. | Credit Rs. |
+| ------------- | --------: | ---------: |
+| Rawat Capital |           |     60,000 |
+| Rohan         |           |     20,000 |
+| Machinery     |    17,000 |            |
+| Rahul         |    20,000 |            |
+| Sales         |           |     70,000 |
+| Cash          |    43,000 |            |
+| Wages         |     5,000 |            |
+| Depreciation  |     3,000 |            |
+| Purchases     |    62,000 |            |
 
 ## Trial Balance by Balances Method
 
 | Account Title | Debit Balance Rs. | Credit Balance Rs. |
-|---|---:|---:|
-| Machinery | 17,000 |  |
-| Rahul | 20,000 |  |
-| Cash | 43,000 |  |
-| Wages | 5,000 |  |
-| Depreciation | 3,000 |  |
-| Purchases | 62,000 |  |
-| Rawat Capital |  | 60,000 |
-| Rohan |  | 20,000 |
-| Sales |  | 70,000 |
-| Total | 1,50,000 | 1,50,000 |
+| ------------- | ----------------: | -----------------: |
+| Machinery     |            17,000 |                    |
+| Rahul         |            20,000 |                    |
+| Cash          |            43,000 |                    |
+| Wages         |             5,000 |                    |
+| Depreciation  |             3,000 |                    |
+| Purchases     |            62,000 |                    |
+| Rawat Capital |                   |             60,000 |
+| Rohan         |                   |             20,000 |
+| Sales         |                   |             70,000 |
+| Total         |          1,50,000 |           1,50,000 |
 
 The trial balance agrees.
 
@@ -301,12 +302,12 @@ The trial balance agrees.
 
 ## Four Main Types
 
-| Error Type | Meaning | Trial Balance Effect |
-|---|---|---|
-| Error of commission | Clerical mistake in recording, posting, casting, or balancing | May affect or may not affect |
-| Error of omission | Transaction omitted fully or partly | Complete omission does not affect; partial omission affects |
-| Error of principle | Accounting principle violated | Usually does not affect |
-| Compensating errors | Two or more errors cancel each other | Does not affect |
+| Error Type          | Meaning                                                       | Trial Balance Effect                                        |
+| ------------------- | ------------------------------------------------------------- | ----------------------------------------------------------- |
+| Error of commission | Clerical mistake in recording, posting, casting, or balancing | May affect or may not affect                                |
+| Error of omission   | Transaction omitted fully or partly                           | Complete omission does not affect; partial omission affects |
+| Error of principle  | Accounting principle violated                                 | Usually does not affect                                     |
+| Compensating errors | Two or more errors cancel each other                          | Does not affect                                             |
 
 ## Errors of Commission
 
@@ -357,13 +358,13 @@ These arise when accounting principles are violated, usually by confusing capita
 
 Examples:
 
-| Wrong Treatment | Correct Treatment |
-|---|---|
-| Furniture purchased debited to Purchases A/c | Debit Furniture A/c |
-| Wages for installation of machinery debited to Wages A/c | Debit Machinery A/c |
+| Wrong Treatment                                              | Correct Treatment                                  |
+| ------------------------------------------------------------ | -------------------------------------------------- |
+| Furniture purchased debited to Purchases A/c                 | Debit Furniture A/c                                |
+| Wages for installation of machinery debited to Wages A/c     | Debit Machinery A/c                                |
 | Repairs of old machine after purchase debited to Repairs A/c | Debit Machinery A/c if needed to make asset usable |
-| Sale of old car credited to Sales A/c | Credit Car or Asset A/c |
-| Owner's personal expense debited to Rent A/c | Debit Drawings A/c |
+| Sale of old car credited to Sales A/c                        | Credit Car or Asset A/c                            |
+| Owner's personal expense debited to Rent A/c                 | Debit Drawings A/c                                 |
 
 Errors of principle usually do not affect trial balance because equal debit and credit are still made.
 
@@ -433,16 +434,16 @@ The method depends on whether:
 
 ## Rectification Principles
 
-| Situation | Treatment |
-|---|---|
-| Account short debited | Debit that account |
-| Account excess debited | Credit that account |
-| Account short credited | Credit that account |
-| Account excess credited | Debit that account |
-| Wrong account debited | Credit wrong account and debit correct account |
-| Wrong account credited | Debit wrong account and credit correct account |
-| One-sided error | Use Suspense A/c |
-| Two-sided error | Rectify through normal journal entry |
+| Situation               | Treatment                                      |
+| ----------------------- | ---------------------------------------------- |
+| Account short debited   | Debit that account                             |
+| Account excess debited  | Credit that account                            |
+| Account short credited  | Credit that account                            |
+| Account excess credited | Debit that account                             |
+| Wrong account debited   | Credit wrong account and debit correct account |
+| Wrong account credited  | Debit wrong account and credit correct account |
+| One-sided error         | Use Suspense A/c                               |
+| Two-sided error         | Rectify through normal journal entry           |
 
 ## Correcting Without Erasing
 
@@ -464,10 +465,10 @@ Credit sales to Mohan Rs. 10,000 were not recorded.
 
 Correct entry:
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Mohan A/c Dr. | 10,000 |  |
-| To Sales A/c |  | 10,000 |
+| Particulars   | Debit Rs. | Credit Rs. |
+| ------------- | --------: | ---------: |
+| Mohan A/c Dr. |    10,000 |            |
+| To Sales A/c  |           |     10,000 |
 
 ## Example 2: Wrong Amount Recorded Short
 
@@ -479,10 +480,10 @@ Short amount:
 
 Rectification:
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Mohan A/c Dr. | 9,000 |  |
-| To Sales A/c |  | 9,000 |
+| Particulars   | Debit Rs. | Credit Rs. |
+| ------------- | --------: | ---------: |
+| Mohan A/c Dr. |     9,000 |            |
+| To Sales A/c  |           |      9,000 |
 
 ## Example 3: Wrong Amount Recorded Excess
 
@@ -494,10 +495,10 @@ Excess:
 
 Rectification:
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Sales A/c Dr. | 2,000 |  |
-| To Mohan A/c |  | 2,000 |
+| Particulars   | Debit Rs. | Credit Rs. |
+| ------------- | --------: | ---------: |
+| Sales A/c Dr. |     2,000 |            |
+| To Mohan A/c  |           |      2,000 |
 
 ## Example 4: Posted to Wrong Account
 
@@ -507,10 +508,10 @@ Sales account is correct. Debtor account is wrong.
 
 Rectification:
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Mohan A/c Dr. | 10,000 |  |
-| To Ram A/c |  | 10,000 |
+| Particulars   | Debit Rs. | Credit Rs. |
+| ------------- | --------: | ---------: |
+| Mohan A/c Dr. |    10,000 |            |
+| To Ram A/c    |           |     10,000 |
 
 ## Example 5: Rent Paid Posted to Landlord
 
@@ -526,10 +527,10 @@ Rent A/c should be debited.
 
 Rectification:
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Rent A/c Dr. | 2,000 |  |
-| To Landlord A/c |  | 2,000 |
+| Particulars     | Debit Rs. | Credit Rs. |
+| --------------- | --------: | ---------: |
+| Rent A/c Dr.    |     2,000 |            |
+| To Landlord A/c |           |      2,000 |
 
 # Unit 6K: Errors Affecting Trial Balance
 
@@ -564,10 +565,10 @@ Trial balance:
 
 Rectification:
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Diwakar A/c Dr. | 15,000 |  |
-| To Suspense A/c |  | 15,000 |
+| Particulars     | Debit Rs. | Credit Rs. |
+| --------------- | --------: | ---------: |
+| Diwakar A/c Dr. |    15,000 |            |
+| To Suspense A/c |           |     15,000 |
 
 ## Example: Purchases Book Overcast
 
@@ -579,10 +580,10 @@ Purchases A/c debited Rs. 1,000 extra.
 
 Rectification:
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Suspense A/c Dr. | 1,000 |  |
-| To Purchases A/c |  | 1,000 |
+| Particulars      | Debit Rs. | Credit Rs. |
+| ---------------- | --------: | ---------: |
+| Suspense A/c Dr. |     1,000 |            |
+| To Purchases A/c |           |      1,000 |
 
 Why Suspense is debited:
 
@@ -590,23 +591,23 @@ Purchases had excess debit. To reduce purchases, credit Purchases A/c. The other
 
 # Unit 6L: Suspense Account Decision Table
 
-| Error Effect | Rectification Entry |
-|---|---|
-| Short debit in an account | Debit that account, credit Suspense |
-| Excess debit in an account | Debit Suspense, credit that account |
-| Short credit in an account | Debit Suspense, credit that account |
+| Error Effect                | Rectification Entry                 |
+| --------------------------- | ----------------------------------- |
+| Short debit in an account   | Debit that account, credit Suspense |
+| Excess debit in an account  | Debit Suspense, credit that account |
+| Short credit in an account  | Debit Suspense, credit that account |
 | Excess credit in an account | Debit that account, credit Suspense |
 
 ## Quick Examples
 
-| Error | Entry |
-|---|---|
-| Mohan A/c not debited Rs. 10,000 | Mohan A/c Dr. To Suspense A/c |
-| Mohan A/c debited Rs. 12,000 instead of Rs. 10,000 | Suspense A/c Dr. To Mohan A/c |
-| Raghu A/c not credited Rs. 20,000 | Suspense A/c Dr. To Raghu A/c |
-| Sales A/c credited Rs. 6,000 instead of Rs. 16,000 | Suspense A/c Dr. To Sales A/c |
-| Sales Return book overcast Rs. 1,000 | Suspense A/c Dr. To Sales Return A/c |
-| Purchases book undercast Rs. 600 | Purchases A/c Dr. To Suspense A/c |
+| Error                                              | Entry                                |
+| -------------------------------------------------- | ------------------------------------ |
+| Mohan A/c not debited Rs. 10,000                   | Mohan A/c Dr. To Suspense A/c        |
+| Mohan A/c debited Rs. 12,000 instead of Rs. 10,000 | Suspense A/c Dr. To Mohan A/c        |
+| Raghu A/c not credited Rs. 20,000                  | Suspense A/c Dr. To Raghu A/c        |
+| Sales A/c credited Rs. 6,000 instead of Rs. 16,000 | Suspense A/c Dr. To Sales A/c        |
+| Sales Return book overcast Rs. 1,000               | Suspense A/c Dr. To Sales Return A/c |
+| Purchases book undercast Rs. 600                   | Purchases A/c Dr. To Suspense A/c    |
 
 # Unit 6M: Guiding Rules for Rectification
 
@@ -659,55 +660,55 @@ Examples:
 
 ### 1. Not Recorded
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Purchases A/c Dr. | 20,000 |  |
-| To Raghu A/c |  | 20,000 |
+| Particulars       | Debit Rs. | Credit Rs. |
+| ----------------- | --------: | ---------: |
+| Purchases A/c Dr. |    20,000 |            |
+| To Raghu A/c      |           |     20,000 |
 
 ### 2. Recorded as Rs. 10,000
 
 Short by Rs. 10,000.
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Purchases A/c Dr. | 10,000 |  |
-| To Raghu A/c |  | 10,000 |
+| Particulars       | Debit Rs. | Credit Rs. |
+| ----------------- | --------: | ---------: |
+| Purchases A/c Dr. |    10,000 |            |
+| To Raghu A/c      |           |     10,000 |
 
 ### 3. Recorded as Rs. 25,000
 
 Excess by Rs. 5,000.
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Raghu A/c Dr. | 5,000 |  |
-| To Purchases A/c |  | 5,000 |
+| Particulars      | Debit Rs. | Credit Rs. |
+| ---------------- | --------: | ---------: |
+| Raghu A/c Dr.    |     5,000 |            |
+| To Purchases A/c |           |      5,000 |
 
 ### 4. Not Posted to Raghu's Account
 
 Raghu was short credited by Rs. 20,000.
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Suspense A/c Dr. | 20,000 |  |
-| To Raghu A/c |  | 20,000 |
+| Particulars      | Debit Rs. | Credit Rs. |
+| ---------------- | --------: | ---------: |
+| Suspense A/c Dr. |    20,000 |            |
+| To Raghu A/c     |           |     20,000 |
 
 ### 5. Posted to Raghu as Rs. 2,000
 
 Raghu short credited by Rs. 18,000.
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Suspense A/c Dr. | 18,000 |  |
-| To Raghu A/c |  | 18,000 |
+| Particulars      | Debit Rs. | Credit Rs. |
+| ---------------- | --------: | ---------: |
+| Suspense A/c Dr. |    18,000 |            |
+| To Raghu A/c     |           |     18,000 |
 
 ### 6. Posted to Raghav's Account
 
 Wrong account credited. Raghu should be credited, Raghav should be debited.
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Raghav A/c Dr. | 20,000 |  |
-| To Raghu A/c |  | 20,000 |
+| Particulars    | Debit Rs. | Credit Rs. |
+| -------------- | --------: | ---------: |
+| Raghav A/c Dr. |    20,000 |            |
+| To Raghu A/c   |           |     20,000 |
 
 ### 7. Posted to Debit of Raghu
 
@@ -717,20 +718,20 @@ Total correction:
 
 `Rs. 20,000 + Rs. 20,000 = Rs. 40,000`
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Suspense A/c Dr. | 40,000 |  |
-| To Raghu A/c |  | 40,000 |
+| Particulars      | Debit Rs. | Credit Rs. |
+| ---------------- | --------: | ---------: |
+| Suspense A/c Dr. |    40,000 |            |
+| To Raghu A/c     |           |     40,000 |
 
 ### 8. Posted to Debit of Raghav
 
 Wrong debit to Raghav must be removed and Raghu must be credited.
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Suspense A/c Dr. | 40,000 |  |
-| To Raghav A/c |  | 20,000 |
-| To Raghu A/c |  | 20,000 |
+| Particulars      | Debit Rs. | Credit Rs. |
+| ---------------- | --------: | ---------: |
+| Suspense A/c Dr. |    40,000 |            |
+| To Raghav A/c    |           |     20,000 |
+| To Raghu A/c     |           |     20,000 |
 
 ### 9. Recorded Through Sales Book
 
@@ -744,11 +745,11 @@ Purchases debited and Raghu credited.
 
 Simplified rectification:
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Sales A/c Dr. | 20,000 |  |
-| Purchases A/c Dr. | 20,000 |  |
-| To Raghu A/c |  | 40,000 |
+| Particulars       | Debit Rs. | Credit Rs. |
+| ----------------- | --------: | ---------: |
+| Sales A/c Dr.     |    20,000 |            |
+| Purchases A/c Dr. |    20,000 |            |
+| To Raghu A/c      |           |     40,000 |
 
 Note:
 
@@ -760,10 +761,10 @@ This assumes personal account effect follows the wrong sales book recording. If 
 
 Sales is short credited.
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Suspense A/c Dr. | 16,000 |  |
-| To Sales A/c |  | 16,000 |
+| Particulars      | Debit Rs. | Credit Rs. |
+| ---------------- | --------: | ---------: |
+| Suspense A/c Dr. |    16,000 |            |
+| To Sales A/c     |           |     16,000 |
 
 ### 2. Posted as Rs. 6,000 in Sales Account
 
@@ -771,55 +772,55 @@ Sales short credited:
 
 `Rs. 16,000 - Rs. 6,000 = Rs. 10,000`
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Suspense A/c Dr. | 10,000 |  |
-| To Sales A/c |  | 10,000 |
+| Particulars      | Debit Rs. | Credit Rs. |
+| ---------------- | --------: | ---------: |
+| Suspense A/c Dr. |    10,000 |            |
+| To Sales A/c     |           |     10,000 |
 
 ### 3. Posted to Commission Account
 
 Commission wrongly credited. Sales should be credited.
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Commission A/c Dr. | 16,000 |  |
-| To Sales A/c |  | 16,000 |
+| Particulars        | Debit Rs. | Credit Rs. |
+| ------------------ | --------: | ---------: |
+| Commission A/c Dr. |    16,000 |            |
+| To Sales A/c       |           |     16,000 |
 
 ## Set 3: Depreciation on Machinery Rs. 2,000
 
 Correct entry:
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Depreciation A/c Dr. | 2,000 |  |
-| To Machinery A/c |  | 2,000 |
+| Particulars          | Debit Rs. | Credit Rs. |
+| -------------------- | --------: | ---------: |
+| Depreciation A/c Dr. |     2,000 |            |
+| To Machinery A/c     |           |      2,000 |
 
 ### 1. Not Posted at All
 
 Both accounts missing, so pass full entry:
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Depreciation A/c Dr. | 2,000 |  |
-| To Machinery A/c |  | 2,000 |
+| Particulars          | Debit Rs. | Credit Rs. |
+| -------------------- | --------: | ---------: |
+| Depreciation A/c Dr. |     2,000 |            |
+| To Machinery A/c     |           |      2,000 |
 
 ### 2. Not Posted to Machinery Account
 
 Machinery is short credited.
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Suspense A/c Dr. | 2,000 |  |
-| To Machinery A/c |  | 2,000 |
+| Particulars      | Debit Rs. | Credit Rs. |
+| ---------------- | --------: | ---------: |
+| Suspense A/c Dr. |     2,000 |            |
+| To Machinery A/c |           |      2,000 |
 
 ### 3. Not Posted to Depreciation Account
 
 Depreciation is short debited.
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Depreciation A/c Dr. | 2,000 |  |
-| To Suspense A/c |  | 2,000 |
+| Particulars          | Debit Rs. | Credit Rs. |
+| -------------------- | --------: | ---------: |
+| Depreciation A/c Dr. |     2,000 |            |
+| To Suspense A/c      |           |      2,000 |
 
 # Unit 6O: Capital and Revenue Error Examples
 
@@ -837,10 +838,10 @@ Machinery A/c debited.
 
 Rectification:
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Machinery A/c Dr. | Amount |  |
-| To Wages A/c |  | Amount |
+| Particulars       | Debit Rs. | Credit Rs. |
+| ----------------- | --------: | ---------: |
+| Machinery A/c Dr. |    Amount |            |
+| To Wages A/c      |           |     Amount |
 
 ## Repairs to Existing Machinery
 
@@ -856,10 +857,10 @@ Repairs A/c debited.
 
 Rectification:
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Repairs A/c Dr. | Amount |  |
-| To Machinery A/c |  | Amount |
+| Particulars      | Debit Rs. | Credit Rs. |
+| ---------------- | --------: | ---------: |
+| Repairs A/c Dr.  |    Amount |            |
+| To Machinery A/c |           |     Amount |
 
 ## Repairs Before Second-Hand Machinery Is Put to Use
 
@@ -875,20 +876,20 @@ Machinery A/c debited.
 
 Rectification:
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Machinery A/c Dr. | Amount |  |
-| To Repairs A/c |  | Amount |
+| Particulars       | Debit Rs. | Credit Rs. |
+| ----------------- | --------: | ---------: |
+| Machinery A/c Dr. |    Amount |            |
+| To Repairs A/c    |           |     Amount |
 
 ## Material and Wages Used for Building Construction
 
 If business materials and wages are used for constructing a building:
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Building A/c Dr. | Total |  |
-| To Purchases A/c |  | Material |
-| To Wages A/c |  | Wages |
+| Particulars      | Debit Rs. | Credit Rs. |
+| ---------------- | --------: | ---------: |
+| Building A/c Dr. |     Total |            |
+| To Purchases A/c |           |   Material |
+| To Wages A/c     |           |      Wages |
 
 # Unit 6P: Suspense Account Worked Example
 
@@ -906,24 +907,24 @@ Trial balance shows excess credit Rs. 10,000. The difference is placed in Suspen
 
 ## Rectification Entries
 
-| No. | Entry | Debit Rs. | Credit Rs. |
-|---|---|---:|---:|
-| 1 | Suspense A/c Dr. To Sales Return A/c | 1,000 | 1,000 |
-| 2 | Purchases A/c Dr. To Suspense A/c | 600 | 600 |
-| 3 | Sales A/c Dr. To Suspense A/c | 400 | 400 |
-| 4 | Sales A/c Dr. To Return Outwards A/c | 1,000 | 1,000 |
-| 5 | Purchases A/c Dr.; Sales A/c Dr. To M and Co. A/c | 16,000 total | 16,000 |
-| 6 | Purchases A/c Dr.; Sales A/c Dr. To Suspense A/c | 10,000 total | 10,000 |
-| 7 | Salary A/c Dr. To Employee A/c | 2,000 | 2,000 |
+| No. | Entry                                             |    Debit Rs. | Credit Rs. |
+| --- | ------------------------------------------------- | -----------: | ---------: |
+| 1   | Suspense A/c Dr. To Sales Return A/c              |        1,000 |      1,000 |
+| 2   | Purchases A/c Dr. To Suspense A/c                 |          600 |        600 |
+| 3   | Sales A/c Dr. To Suspense A/c                     |          400 |        400 |
+| 4   | Sales A/c Dr. To Return Outwards A/c              |        1,000 |      1,000 |
+| 5   | Purchases A/c Dr.; Sales A/c Dr. To M and Co. A/c | 16,000 total |     16,000 |
+| 6   | Purchases A/c Dr.; Sales A/c Dr. To Suspense A/c  | 10,000 total |     10,000 |
+| 7   | Salary A/c Dr. To Employee A/c                    |        2,000 |      2,000 |
 
 ## Suspense Account
 
-| Debit Particulars | Debit Rs. | Credit Particulars | Credit Rs. |
-|---|---:|---|---:|
-| Difference as per trial balance | 10,000 | Purchases | 600 |
-| Sales Return | 1,000 | Sales | 400 |
-|  |  | Purchases and Sales correction | 10,000 |
-| Total | 11,000 | Total | 11,000 |
+| Debit Particulars               | Debit Rs. | Credit Particulars             | Credit Rs. |
+| ------------------------------- | --------: | ------------------------------ | ---------: |
+| Difference as per trial balance |    10,000 | Purchases                      |        600 |
+| Sales Return                    |     1,000 | Sales                          |        400 |
+|                                 |           | Purchases and Sales correction |     10,000 |
+| Total                           |    11,000 | Total                          |     11,000 |
 
 Suspense Account closes.
 
@@ -941,12 +942,12 @@ If last year's salary error is corrected through current year's Salary A/c, curr
 
 ## Basic Treatment
 
-| Previous-Year Error Type | Use |
-|---|---|
-| Expense understated last year | Debit Profit and Loss Adjustment A/c |
-| Expense overstated last year | Credit Profit and Loss Adjustment A/c |
-| Income understated last year | Credit Profit and Loss Adjustment A/c |
-| Income overstated last year | Debit Profit and Loss Adjustment A/c |
+| Previous-Year Error Type      | Use                                   |
+| ----------------------------- | ------------------------------------- |
+| Expense understated last year | Debit Profit and Loss Adjustment A/c  |
+| Expense overstated last year  | Credit Profit and Loss Adjustment A/c |
+| Income understated last year  | Credit Profit and Loss Adjustment A/c |
+| Income overstated last year   | Debit Profit and Loss Adjustment A/c  |
 
 # Unit 6R: Short Answer Solutions
 
@@ -1039,10 +1040,10 @@ Furniture purchased Rs. 10,000 debited to Purchases A/c.
 
 Rectification:
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Furniture A/c Dr. | 10,000 |  |
-| To Purchases A/c |  | 10,000 |
+| Particulars       | Debit Rs. | Credit Rs. |
+| ----------------- | --------: | ---------: |
+| Furniture A/c Dr. |    10,000 |            |
+| To Purchases A/c  |           |     10,000 |
 
 Example 2:
 
@@ -1050,10 +1051,10 @@ Repairs before using second-hand machinery Rs. 2,000 debited to Repairs A/c.
 
 Rectification:
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Machinery A/c Dr. | 2,000 |  |
-| To Repairs A/c |  | 2,000 |
+| Particulars       | Debit Rs. | Credit Rs. |
+| ----------------- | --------: | ---------: |
+| Machinery A/c Dr. |     2,000 |            |
+| To Repairs A/c    |           |      2,000 |
 
 ## 3. Errors of commission with rectification
 
@@ -1069,10 +1070,10 @@ Short recording:
 
 Rectification:
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Mohan A/c Dr. | 6,300 |  |
-| To Sales A/c |  | 6,300 |
+| Particulars   | Debit Rs. | Credit Rs. |
+| ------------- | --------: | ---------: |
+| Mohan A/c Dr. |     6,300 |            |
+| To Sales A/c  |           |      6,300 |
 
 Example 2:
 
@@ -1080,10 +1081,10 @@ Sales book overcast by Rs. 700.
 
 Rectification:
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Suspense A/c Dr. | 700 |  |
-| To Sales A/c |  | 700 |
+| Particulars      | Debit Rs. | Credit Rs. |
+| ---------------- | --------: | ---------: |
+| Suspense A/c Dr. |       700 |            |
+| To Sales A/c     |           |        700 |
 
 ## 4. Different types of errors in recording business transactions
 
@@ -1109,10 +1110,10 @@ Credit purchase of pen drive Rs. 3,500.
 
 Correct entry should have been:
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Office Equipment A/c Dr. | 3,500 |  |
-| To Creditors A/c |  | 3,500 |
+| Particulars              | Debit Rs. | Credit Rs. |
+| ------------------------ | --------: | ---------: |
+| Office Equipment A/c Dr. |     3,500 |            |
+| To Creditors A/c         |           |      3,500 |
 
 Actual posting:
 
@@ -1120,13 +1121,13 @@ Office Equipment debited Rs. 3,500 and Creditors also debited Rs. 3,500.
 
 Answers:
 
-| Part | Answer |
-|---|---|
-| Office Equipment balance | Correctly stated if the debit to Office Equipment was correct |
-| Creditors balance | Understated by Rs. 7,000 compared with correct credit balance |
-| Debit column total | Overstated by Rs. 3,500 because creditors were wrongly debited |
-| Credit column total | Understated by Rs. 3,500 because creditors were not credited |
-| If debit total before correction is Rs. 2,40,000 | Credit total is Rs. 2,33,000 |
+| Part                                             | Answer                                                         |
+| ------------------------------------------------ | -------------------------------------------------------------- |
+| Office Equipment balance                         | Correctly stated if the debit to Office Equipment was correct  |
+| Creditors balance                                | Understated by Rs. 7,000 compared with correct credit balance  |
+| Debit column total                               | Overstated by Rs. 3,500 because creditors were wrongly debited |
+| Credit column total                              | Understated by Rs. 3,500 because creditors were not credited   |
+| If debit total before correction is Rs. 2,40,000 | Credit total is Rs. 2,33,000                                   |
 
 Reason for last answer:
 
@@ -1147,12 +1148,12 @@ Rectify:
 
 Solutions:
 
-| No. | Entry | Debit Rs. | Credit Rs. |
-|---|---|---:|---:|
-| 1 | Mohan A/c Dr. To Sales A/c | 7,000 | 7,000 |
-| 2 | Purchases A/c Dr. To Rohan A/c | 9,000 | 9,000 |
-| 3 | Rakesh A/c Dr. To Purchases Return A/c | 4,000 | 4,000 |
-| 4 | Sales Return A/c Dr. To Mahesh A/c | 1,000 | 1,000 |
+| No. | Entry                                  | Debit Rs. | Credit Rs. |
+| --- | -------------------------------------- | --------: | ---------: |
+| 1   | Mohan A/c Dr. To Sales A/c             |     7,000 |      7,000 |
+| 2   | Purchases A/c Dr. To Rohan A/c         |     9,000 |      9,000 |
+| 3   | Rakesh A/c Dr. To Purchases Return A/c |     4,000 |      4,000 |
+| 4   | Sales Return A/c Dr. To Mahesh A/c     |     1,000 |      1,000 |
 
 ## Practice 2: Recorded at Lower Amount
 
@@ -1165,21 +1166,21 @@ Rectify:
 
 Short amounts:
 
-| Item | Correct Rs. | Recorded Rs. | Difference Rs. |
-|---|---:|---:|---:|
-| Sales to Mohan | 7,000 | 700 | 6,300 |
-| Purchases from Rohan | 9,000 | 900 | 8,100 |
-| Return to Rakesh | 4,000 | 400 | 3,600 |
-| Return from Mahesh | 1,000 | 100 | 900 |
+| Item                 | Correct Rs. | Recorded Rs. | Difference Rs. |
+| -------------------- | ----------: | -----------: | -------------: |
+| Sales to Mohan       |       7,000 |          700 |          6,300 |
+| Purchases from Rohan |       9,000 |          900 |          8,100 |
+| Return to Rakesh     |       4,000 |          400 |          3,600 |
+| Return from Mahesh   |       1,000 |          100 |            900 |
 
 Entries:
 
-| No. | Entry | Debit Rs. | Credit Rs. |
-|---|---|---:|---:|
-| 1 | Mohan A/c Dr. To Sales A/c | 6,300 | 6,300 |
-| 2 | Purchases A/c Dr. To Rohan A/c | 8,100 | 8,100 |
-| 3 | Rakesh A/c Dr. To Purchases Return A/c | 3,600 | 3,600 |
-| 4 | Sales Return A/c Dr. To Mahesh A/c | 900 | 900 |
+| No. | Entry                                  | Debit Rs. | Credit Rs. |
+| --- | -------------------------------------- | --------: | ---------: |
+| 1   | Mohan A/c Dr. To Sales A/c             |     6,300 |      6,300 |
+| 2   | Purchases A/c Dr. To Rohan A/c         |     8,100 |      8,100 |
+| 3   | Rakesh A/c Dr. To Purchases Return A/c |     3,600 |      3,600 |
+| 4   | Sales Return A/c Dr. To Mahesh A/c     |       900 |        900 |
 
 ## Practice 3: Recorded at Higher Amount
 
@@ -1192,53 +1193,53 @@ Rectify:
 
 Excess amounts:
 
-| Item | Excess Rs. | Entry |
-|---|---:|---|
-| Sales to Mohan | 200 | Sales A/c Dr. To Mohan A/c |
-| Purchases from Rohan | 900 | Rohan A/c Dr. To Purchases A/c |
-| Return to Rakesh | 40 | Purchases Return A/c Dr. To Rakesh A/c |
-| Return from Mahesh | 600 | Mahesh A/c Dr. To Sales Return A/c |
+| Item                 | Excess Rs. | Entry                                  |
+| -------------------- | ---------: | -------------------------------------- |
+| Sales to Mohan       |        200 | Sales A/c Dr. To Mohan A/c             |
+| Purchases from Rohan |        900 | Rohan A/c Dr. To Purchases A/c         |
+| Return to Rakesh     |         40 | Purchases Return A/c Dr. To Rakesh A/c |
+| Return from Mahesh   |        600 | Mahesh A/c Dr. To Sales Return A/c     |
 
 ## Practice 4: Wrong Personal Account or Wrong Expense
 
 Rectify:
 
-| Error | Rectification |
-|---|---|
-| Salary Rs. 5,000 debited to employee's personal account | Salary A/c Dr. 5,000 To Employee A/c 5,000 |
-| Rent Rs. 4,000 posted to landlord's personal account | Rent A/c Dr. 4,000 To Landlord A/c 4,000 |
+| Error                                                              | Rectification                                       |
+| ------------------------------------------------------------------ | --------------------------------------------------- |
+| Salary Rs. 5,000 debited to employee's personal account            | Salary A/c Dr. 5,000 To Employee A/c 5,000          |
+| Rent Rs. 4,000 posted to landlord's personal account               | Rent A/c Dr. 4,000 To Landlord A/c 4,000            |
 | Goods withdrawn by proprietor Rs. 1,000 debited to sundry expenses | Drawings A/c Dr. 1,000 To Sundry Expenses A/c 1,000 |
-| Cash received from Kohli Rs. 2,000 posted to Kapur | Kapur A/c Dr. 2,000 To Kohli A/c 2,000 |
-| Cash paid to Babu Rs. 1,500 posted to Sabu | Babu A/c Dr. 1,500 To Sabu A/c 1,500 |
+| Cash received from Kohli Rs. 2,000 posted to Kapur                 | Kapur A/c Dr. 2,000 To Kohli A/c 2,000              |
+| Cash paid to Babu Rs. 1,500 posted to Sabu                         | Babu A/c Dr. 1,500 To Sabu A/c 1,500                |
 
 ## Practice 5: Subsidiary Book Casting Errors
 
-| Error | Rectification |
-|---|---|
-| Sales book overcast by Rs. 700 | Suspense A/c Dr. 700 To Sales A/c 700 |
-| Purchases book overcast by Rs. 500 | Suspense A/c Dr. 500 To Purchases A/c 500 |
-| Sales return book overcast by Rs. 300 | Suspense A/c Dr. 300 To Sales Return A/c 300 |
-| Purchase return book overcast by Rs. 200 | Purchases Return A/c Dr. 200 To Suspense A/c 200 |
-| Sales book undercast by Rs. 300 | Sales A/c Dr. 300 To Suspense A/c 300 |
-| Purchases book undercast by Rs. 400 | Purchases A/c Dr. 400 To Suspense A/c 400 |
-| Return inwards book undercast by Rs. 200 | Sales Return A/c Dr. 200 To Suspense A/c 200 |
+| Error                                     | Rectification                                    |
+| ----------------------------------------- | ------------------------------------------------ |
+| Sales book overcast by Rs. 700            | Suspense A/c Dr. 700 To Sales A/c 700            |
+| Purchases book overcast by Rs. 500        | Suspense A/c Dr. 500 To Purchases A/c 500        |
+| Sales return book overcast by Rs. 300     | Suspense A/c Dr. 300 To Sales Return A/c 300     |
+| Purchase return book overcast by Rs. 200  | Purchases Return A/c Dr. 200 To Suspense A/c 200 |
+| Sales book undercast by Rs. 300           | Sales A/c Dr. 300 To Suspense A/c 300            |
+| Purchases book undercast by Rs. 400       | Purchases A/c Dr. 400 To Suspense A/c 400        |
+| Return inwards book undercast by Rs. 200  | Sales Return A/c Dr. 200 To Suspense A/c 200     |
 | Return outwards book undercast by Rs. 100 | Suspense A/c Dr. 100 To Purchases Return A/c 100 |
 
 # Unit 6U: Objective Answer Key
 
 ## Multiple Choice Answers
 
-| Question | Correct Answer | Reason |
-|---|---|---|
-| Agreement of trial balance is affected by | One-sided errors only | Two-sided errors usually preserve equality |
-| Not an error of principle | Cash received from Manoj posted to Saroj | It is wrong account, not principle |
-| Not an error of commission | Cash sales not recorded in cash book | This is omission |
-| Rectified through suspense account | Sales return book undercast by Rs. 1,000 | One account affected |
-| If trial balance agrees | There may be two-sided errors | Agreement is not full proof |
-| Suspense account does not close | Some one-sided errors remain | Difference not fully explained |
-| Wages for installation debited to wages | Error of principle | Capital expenditure treated as revenue |
-| Trial balance is | A statement | It is not an account |
-| Trial balance prepared | After posting and balancing ledger accounts | Balances are needed |
+| Question                                  | Correct Answer                              | Reason                                     |
+| ----------------------------------------- | ------------------------------------------- | ------------------------------------------ |
+| Agreement of trial balance is affected by | One-sided errors only                       | Two-sided errors usually preserve equality |
+| Not an error of principle                 | Cash received from Manoj posted to Saroj    | It is wrong account, not principle         |
+| Not an error of commission                | Cash sales not recorded in cash book        | This is omission                           |
+| Rectified through suspense account        | Sales return book undercast by Rs. 1,000    | One account affected                       |
+| If trial balance agrees                   | There may be two-sided errors               | Agreement is not full proof                |
+| Suspense account does not close           | Some one-sided errors remain                | Difference not fully explained             |
+| Wages for installation debited to wages   | Error of principle                          | Capital expenditure treated as revenue     |
+| Trial balance is                          | A statement                                 | It is not an account                       |
+| Trial balance prepared                    | After posting and balancing ledger accounts | Balances are needed                        |
 
 ## Trial Balance Practice Total
 
@@ -1248,53 +1249,53 @@ For the practice list containing capital, drawings, machinery, sales, purchases,
 
 # Unit 6V: Common Mistakes to Avoid
 
-| Mistake | Correct Approach |
-|---|---|
-| Believing a tallied trial balance proves all records correct | It only proves arithmetical equality |
-| Putting drawings in credit column | Drawings has debit balance |
-| Putting purchases return in debit column | Purchases return has credit balance |
-| Treating suspense as permanent account | It is temporary |
-| Using suspense for all errors | Use suspense only for one-sided errors or trial balance difference |
-| Ignoring capital versus revenue distinction | Check error of principle carefully |
-| Rectifying wrong account errors with suspense | If both accounts are known and trial balance is not affected, use direct journal entry |
-| Forgetting double effect of wrong side posting | Correct amount plus reversal amount may be needed |
-| Treating overcast and undercast the same | Overcast means too much; undercast means too little |
-| Erasing records | Pass proper rectification entries |
+| Mistake                                                      | Correct Approach                                                                       |
+| ------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
+| Believing a tallied trial balance proves all records correct | It only proves arithmetical equality                                                   |
+| Putting drawings in credit column                            | Drawings has debit balance                                                             |
+| Putting purchases return in debit column                     | Purchases return has credit balance                                                    |
+| Treating suspense as permanent account                       | It is temporary                                                                        |
+| Using suspense for all errors                                | Use suspense only for one-sided errors or trial balance difference                     |
+| Ignoring capital versus revenue distinction                  | Check error of principle carefully                                                     |
+| Rectifying wrong account errors with suspense                | If both accounts are known and trial balance is not affected, use direct journal entry |
+| Forgetting double effect of wrong side posting               | Correct amount plus reversal amount may be needed                                      |
+| Treating overcast and undercast the same                     | Overcast means too much; undercast means too little                                    |
+| Erasing records                                              | Pass proper rectification entries                                                      |
 
 # Unit 6W: Final Revision Sheet
 
 ## Trial Balance
 
-| Point | Recall |
-|---|---|
-| Meaning | Statement of ledger balances or totals |
-| Main purpose | Check debit-credit equality |
-| Best method | Balances method |
-| Prepared after | Ledger posting and balancing |
-| Helps prepare | Trading account, profit and loss account, balance sheet |
-| Limitation | Does not reveal all errors |
+| Point          | Recall                                                  |
+| -------------- | ------------------------------------------------------- |
+| Meaning        | Statement of ledger balances or totals                  |
+| Main purpose   | Check debit-credit equality                             |
+| Best method    | Balances method                                         |
+| Prepared after | Ledger posting and balancing                            |
+| Helps prepare  | Trading account, profit and loss account, balance sheet |
+| Limitation     | Does not reveal all errors                              |
 
 ## Error Types
 
-| Type | Example | Trial Balance Effect |
-|---|---|---|
-| Commission | Wrong posting amount | May affect |
-| Omission | Transaction not recorded | Complete omission does not affect |
-| Principle | Capital item treated as revenue | Usually does not affect |
-| Compensating | Two errors cancel out | Does not affect |
+| Type         | Example                         | Trial Balance Effect              |
+| ------------ | ------------------------------- | --------------------------------- |
+| Commission   | Wrong posting amount            | May affect                        |
+| Omission     | Transaction not recorded        | Complete omission does not affect |
+| Principle    | Capital item treated as revenue | Usually does not affect           |
+| Compensating | Two errors cancel out           | Does not affect                   |
 
 ## Rectification Logic
 
-| Problem | Action |
-|---|---|
-| Wrong debit | Credit wrong account, debit correct account |
-| Wrong credit | Debit wrong account, credit correct account |
-| Short debit | Debit account |
-| Excess debit | Credit account |
-| Short credit | Credit account |
-| Excess credit | Debit account |
-| One account missing | Use Suspense A/c |
-| Two accounts known | Pass direct rectification entry |
+| Problem             | Action                                      |
+| ------------------- | ------------------------------------------- |
+| Wrong debit         | Credit wrong account, debit correct account |
+| Wrong credit        | Debit wrong account, credit correct account |
+| Short debit         | Debit account                               |
+| Excess debit        | Credit account                              |
+| Short credit        | Credit account                              |
+| Excess credit       | Debit account                               |
+| One account missing | Use Suspense A/c                            |
+| Two accounts known  | Pass direct rectification entry             |
 
 ## Final Study Summary
 

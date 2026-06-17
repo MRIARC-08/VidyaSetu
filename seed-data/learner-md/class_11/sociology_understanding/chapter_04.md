@@ -157,12 +157,12 @@ In complex societies, solidarity is based on interdependence.
 
 ## 12. Mechanical and Organic Solidarity
 
-| Mechanical Solidarity | Organic Solidarity |
-|---|---|
-| Based on similarity | Based on difference and interdependence |
-| Found in simpler societies | Found in complex modern societies |
-| Strong collective conscience | Specialised roles |
-| Repressive law is common | Restitutive law is common |
+| Mechanical Solidarity        | Organic Solidarity                      |
+| ---------------------------- | --------------------------------------- |
+| Based on similarity          | Based on difference and interdependence |
+| Found in simpler societies   | Found in complex modern societies       |
+| Strong collective conscience | Specialised roles                       |
+| Repressive law is common     | Restitutive law is common               |
 
 Durkheim saw modern society as needing moral regulation to avoid disorder.
 
@@ -221,28 +221,28 @@ Modern states rely heavily on legal-rational authority.
 
 ## 18. Comparing the Three Thinkers
 
-| Thinker | Main Focus | Key Concepts |
-|---|---|---|
-| Marx | Capitalism and class conflict | Mode of production, class, alienation |
-| Durkheim | Social order and social facts | Social fact, solidarity, division of labour |
-| Weber | Meaning and rationalisation | Social action, ideal type, bureaucracy, authority |
+| Thinker  | Main Focus                    | Key Concepts                                      |
+| -------- | ----------------------------- | ------------------------------------------------- |
+| Marx     | Capitalism and class conflict | Mode of production, class, alienation             |
+| Durkheim | Social order and social facts | Social fact, solidarity, division of labour       |
+| Weber    | Meaning and rationalisation   | Social action, ideal type, bureaucracy, authority |
 
 Together, they shaped the foundations of sociology.
 
 ## 19. Key Terms
 
-| Term | Meaning |
-|---|---|
-| Enlightenment | Age of reason and scientific thinking |
-| Mode of production | System of production and production relations |
-| Alienation | Separation from work, product, others, or self |
-| Class conflict | Struggle between classes |
-| Social fact | External and constraining social reality |
-| Solidarity | Social cohesion |
-| Social action | Meaningful action oriented to others |
-| Ideal type | Analytical model for comparison |
-| Bureaucracy | Rule-bound formal organisation |
-| Authority | Legitimate power |
+| Term               | Meaning                                        |
+| ------------------ | ---------------------------------------------- |
+| Enlightenment      | Age of reason and scientific thinking          |
+| Mode of production | System of production and production relations  |
+| Alienation         | Separation from work, product, others, or self |
+| Class conflict     | Struggle between classes                       |
+| Social fact        | External and constraining social reality       |
+| Solidarity         | Social cohesion                                |
+| Social action      | Meaningful action oriented to others           |
+| Ideal type         | Analytical model for comparison                |
+| Bureaucracy        | Rule-bound formal organisation                 |
+| Authority          | Legitimate power                               |
 
 ## 20. Exam-Oriented Summary
 
@@ -262,4 +262,3 @@ Marx analysed capitalism through class conflict, mode of production, and alienat
 8. What is social action?
 9. What is an ideal type?
 10. Explain features of bureaucracy.
-

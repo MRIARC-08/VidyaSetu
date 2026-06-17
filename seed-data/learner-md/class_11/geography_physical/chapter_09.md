@@ -54,52 +54,52 @@ By the end of this chapter, you should be able to:
 
 ## Big Picture Map
 
-| Theme | Main Idea | Key Details |
-| --- | --- | --- |
-| Solar radiation | Energy from the sun | Earth receives shortwave radiation |
-| Insolation | Incoming solar radiation | Average at top of atmosphere: 1.94 calories per sq cm per minute |
-| Aphelion and perihelion | Earth-sun distance varies | Aphelion: July 4; perihelion: January 3 |
-| Insolation variability | Insolation varies by time and place | Rotation, ray angle, day length, transparency, aspect |
-| Atmosphere and radiation | Atmosphere filters radiation | Absorption, scattering, diffusion |
-| Heating processes | Atmosphere is heated in different ways | Conduction, convection, advection, terrestrial radiation |
-| Heat budget | Energy received equals energy lost | Earth neither keeps warming nor keeps cooling |
-| Temperature controls | Temperature varies spatially | Latitude, altitude, sea distance, air masses, currents, local aspects |
-| Isotherms | Lines of equal temperature | Used on temperature maps |
-| Inversion | Temperature increases with height for a short layer | Common during long clear winter nights and in valleys |
+| Theme                    | Main Idea                                           | Key Details                                                           |
+| ------------------------ | --------------------------------------------------- | --------------------------------------------------------------------- |
+| Solar radiation          | Energy from the sun                                 | Earth receives shortwave radiation                                    |
+| Insolation               | Incoming solar radiation                            | Average at top of atmosphere: 1.94 calories per sq cm per minute      |
+| Aphelion and perihelion  | Earth-sun distance varies                           | Aphelion: July 4; perihelion: January 3                               |
+| Insolation variability   | Insolation varies by time and place                 | Rotation, ray angle, day length, transparency, aspect                 |
+| Atmosphere and radiation | Atmosphere filters radiation                        | Absorption, scattering, diffusion                                     |
+| Heating processes        | Atmosphere is heated in different ways              | Conduction, convection, advection, terrestrial radiation              |
+| Heat budget              | Energy received equals energy lost                  | Earth neither keeps warming nor keeps cooling                         |
+| Temperature controls     | Temperature varies spatially                        | Latitude, altitude, sea distance, air masses, currents, local aspects |
+| Isotherms                | Lines of equal temperature                          | Used on temperature maps                                              |
+| Inversion                | Temperature increases with height for a short layer | Common during long clear winter nights and in valleys                 |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Solar radiation | Energy emitted by the sun. |
-| Insolation | Incoming solar radiation received by the earth. |
-| Shortwave radiation | Solar energy received by the earth mainly in short wavelengths. |
-| Terrestrial radiation | Longwave radiation emitted by the earth after it is heated. |
-| Aphelion | Position when the earth is farthest from the sun, about 152 million km, around July 4. |
-| Perihelion | Position when the earth is nearest to the sun, about 147 million km, around January 3. |
-| Angle of incidence | Angle at which sun's rays strike the earth's surface. |
-| Vertical rays | Rays falling more directly over a smaller area. |
-| Slant rays | Rays falling obliquely over a larger area. |
-| Absorption | Taking in of radiation by atmospheric gases or the surface. |
-| Scattering | Deflection of radiation by particles and gases in different directions. |
-| Diffusion | Spreading of radiation after scattering. |
-| Conduction | Heat transfer between bodies in direct contact. |
-| Convection | Vertical transfer of heat by rising air currents. |
-| Advection | Horizontal transfer of heat by moving air. |
-| Albedo | Reflected amount or percentage of radiation from a surface. |
-| Heat budget | Balance between incoming solar radiation and outgoing terrestrial radiation. |
-| Net radiation balance | Difference between radiation received and radiation lost. |
-| Heat | Molecular movement of particles in a substance. |
-| Temperature | Measurement of how hot or cold a thing or place is. |
-| Normal lapse rate | Average decrease of temperature with height, about 6.5 degrees Celsius per 1000 m. |
-| Isotherm | Line joining places of equal temperature. |
-| Annual range of temperature | Difference between mean temperature of warmest and coldest months. |
-| Continentality | Strong temperature contrast caused by distance from sea and dominance of land heating/cooling. |
-| Inversion of temperature | Reversal of normal lapse rate, where temperature increases with height near the surface. |
-| Air drainage | Downslope movement of cold dense air under gravity in hills and mountains. |
-| Specific heat | Energy needed to raise temperature of one gram of a substance by one degree Celsius. |
+| Term                        | Meaning                                                                                        |
+| --------------------------- | ---------------------------------------------------------------------------------------------- |
+| Solar radiation             | Energy emitted by the sun.                                                                     |
+| Insolation                  | Incoming solar radiation received by the earth.                                                |
+| Shortwave radiation         | Solar energy received by the earth mainly in short wavelengths.                                |
+| Terrestrial radiation       | Longwave radiation emitted by the earth after it is heated.                                    |
+| Aphelion                    | Position when the earth is farthest from the sun, about 152 million km, around July 4.         |
+| Perihelion                  | Position when the earth is nearest to the sun, about 147 million km, around January 3.         |
+| Angle of incidence          | Angle at which sun's rays strike the earth's surface.                                          |
+| Vertical rays               | Rays falling more directly over a smaller area.                                                |
+| Slant rays                  | Rays falling obliquely over a larger area.                                                     |
+| Absorption                  | Taking in of radiation by atmospheric gases or the surface.                                    |
+| Scattering                  | Deflection of radiation by particles and gases in different directions.                        |
+| Diffusion                   | Spreading of radiation after scattering.                                                       |
+| Conduction                  | Heat transfer between bodies in direct contact.                                                |
+| Convection                  | Vertical transfer of heat by rising air currents.                                              |
+| Advection                   | Horizontal transfer of heat by moving air.                                                     |
+| Albedo                      | Reflected amount or percentage of radiation from a surface.                                    |
+| Heat budget                 | Balance between incoming solar radiation and outgoing terrestrial radiation.                   |
+| Net radiation balance       | Difference between radiation received and radiation lost.                                      |
+| Heat                        | Molecular movement of particles in a substance.                                                |
+| Temperature                 | Measurement of how hot or cold a thing or place is.                                            |
+| Normal lapse rate           | Average decrease of temperature with height, about 6.5 degrees Celsius per 1000 m.             |
+| Isotherm                    | Line joining places of equal temperature.                                                      |
+| Annual range of temperature | Difference between mean temperature of warmest and coldest months.                             |
+| Continentality              | Strong temperature contrast caused by distance from sea and dominance of land heating/cooling. |
+| Inversion of temperature    | Reversal of normal lapse rate, where temperature increases with height near the surface.       |
+| Air drainage                | Downslope movement of cold dense air under gravity in hills and mountains.                     |
+| Specific heat               | Energy needed to raise temperature of one gram of a substance by one degree Celsius.           |
 
 ---
 
@@ -262,12 +262,12 @@ Therefore, this variation does not have a strong direct effect on daily weather 
 
 ## 3.6 Aphelion vs Perihelion
 
-| Basis | Aphelion | Perihelion |
-| --- | --- | --- |
-| Meaning | Earth farthest from sun | Earth nearest to sun |
-| Date | Around July 4 | Around January 3 |
-| Distance | About 152 million km | About 147 million km |
-| Insolation | Slightly less | Slightly more |
+| Basis      | Aphelion                | Perihelion           |
+| ---------- | ----------------------- | -------------------- |
+| Meaning    | Earth farthest from sun | Earth nearest to sun |
+| Date       | Around July 4           | Around January 3     |
+| Distance   | About 152 million km    | About 147 million km |
+| Insolation | Slightly less           | Slightly more        |
 
 ---
 
@@ -385,13 +385,13 @@ Therefore, less energy reaches the surface.
 
 ## 6.6 Vertical vs Slant Rays
 
-| Basis | Vertical Rays | Slant Rays |
-| --- | --- | --- |
-| Surface area covered | Small | Large |
-| Energy concentration | High | Low |
-| Atmospheric path | Shorter | Longer |
-| Loss in atmosphere | Less | More |
-| Heating effect | Stronger | Weaker |
+| Basis                | Vertical Rays | Slant Rays |
+| -------------------- | ------------- | ---------- |
+| Surface area covered | Small         | Large      |
+| Energy concentration | High          | Low        |
+| Atmospheric path     | Shorter       | Longer     |
+| Loss in atmosphere   | Less          | More       |
+| Heating effect       | Stronger      | Weaker     |
 
 ---
 
@@ -405,13 +405,13 @@ Shorter days allow less time.
 
 ## 7.2 Solstice Day-Length Table
 
-| Latitude | December 22 | June 21 |
-| --- | --- | --- |
-| 0 degrees | 12 h 00 m | 12 h |
-| 20 degrees N | 10 h 48 m | 13 h 12 m |
-| 40 degrees N | 9 h 08 m | 14 h 52 m |
-| 60 degrees N | 5 h 33 m | 18 h 27 m |
-| 90 degrees N | 0 h | 6 months |
+| Latitude     | December 22 | June 21   |
+| ------------ | ----------- | --------- |
+| 0 degrees    | 12 h 00 m   | 12 h      |
+| 20 degrees N | 10 h 48 m   | 13 h 12 m |
+| 40 degrees N | 9 h 08 m    | 14 h 52 m |
+| 60 degrees N | 5 h 33 m    | 18 h 27 m |
+| 90 degrees N | 0 h         | 6 months  |
 
 ## 7.3 Meaning Of Table
 
@@ -702,12 +702,12 @@ Hot air moves horizontally and raises local temperature.
 
 ## 15.5 Convection vs Advection
 
-| Basis | Convection | Advection |
-| --- | --- | --- |
-| Direction | Vertical | Horizontal |
-| Medium | Rising/sinking air currents | Moving air masses or winds |
-| Example | Heated air rising | Loo in north India |
-| Main effect | Transfers heat upward | Transfers heat from one region to another |
+| Basis       | Convection                  | Advection                                 |
+| ----------- | --------------------------- | ----------------------------------------- |
+| Direction   | Vertical                    | Horizontal                                |
+| Medium      | Rising/sinking air currents | Moving air masses or winds                |
+| Example     | Heated air rising           | Loo in north India                        |
+| Main effect | Transfers heat upward       | Transfers heat from one region to another |
 
 ---
 
@@ -844,17 +844,17 @@ This is the heat balance of the earth.
 
 ## 17.10 Heat Budget Table
 
-| Radiation Path | Units |
-| --- | --- |
-| Incoming at top of atmosphere | 100 |
-| Reflected back to space | 35 |
-| Absorbed by atmosphere directly | 14 |
-| Absorbed by earth surface | 51 |
-| Earth radiates back | 51 |
-| Directly lost to space from earth | 17 |
-| Absorbed by atmosphere from earth radiation and processes | 34 |
-| Atmosphere returns to space | 48 |
-| Total returned to space after absorption | 65 |
+| Radiation Path                                            | Units |
+| --------------------------------------------------------- | ----- |
+| Incoming at top of atmosphere                             | 100   |
+| Reflected back to space                                   | 35    |
+| Absorbed by atmosphere directly                           | 14    |
+| Absorbed by earth surface                                 | 51    |
+| Earth radiates back                                       | 51    |
+| Directly lost to space from earth                         | 17    |
+| Absorbed by atmosphere from earth radiation and processes | 34    |
+| Atmosphere returns to space                               | 48    |
+| Total returned to space after absorption                  | 65    |
 
 ## 17.11 Albedo
 
@@ -940,11 +940,11 @@ It may refer to:
 
 ## 19.3 Heat vs Temperature
 
-| Basis | Heat | Temperature |
-| --- | --- | --- |
-| Meaning | Energy related to molecular movement | Degree of hotness or coldness |
-| Unit idea | Energy | Degrees Celsius or other temperature scale |
-| Example | Amount of energy in air or water | 30 degrees Celsius air temperature |
+| Basis     | Heat                                 | Temperature                                |
+| --------- | ------------------------------------ | ------------------------------------------ |
+| Meaning   | Energy related to molecular movement | Degree of hotness or coldness              |
+| Unit idea | Energy                               | Degrees Celsius or other temperature scale |
+| Example   | Amount of energy in air or water     | 30 degrees Celsius air temperature         |
 
 ## 19.4 Specific Heat
 
@@ -1530,54 +1530,54 @@ Inversion:
 
 ## 35.1 Insolation vs Terrestrial Radiation
 
-| Basis | Insolation | Terrestrial Radiation |
-| --- | --- | --- |
-| Source | Sun | Earth |
-| Wavelength | Shortwave | Longwave |
-| Direction | Toward earth | From earth toward atmosphere/space |
-| Main role | Heats earth surface | Heats atmosphere from below |
+| Basis      | Insolation          | Terrestrial Radiation              |
+| ---------- | ------------------- | ---------------------------------- |
+| Source     | Sun                 | Earth                              |
+| Wavelength | Shortwave           | Longwave                           |
+| Direction  | Toward earth        | From earth toward atmosphere/space |
+| Main role  | Heats earth surface | Heats atmosphere from below        |
 
 ## 35.2 Aphelion vs Perihelion
 
-| Aphelion | Perihelion |
-| --- | --- |
-| Earth farthest from sun | Earth nearest to sun |
-| Around July 4 | Around January 3 |
-| About 152 million km | About 147 million km |
+| Aphelion                   | Perihelion                 |
+| -------------------------- | -------------------------- |
+| Earth farthest from sun    | Earth nearest to sun       |
+| Around July 4              | Around January 3           |
+| About 152 million km       | About 147 million km       |
 | Slightly less solar energy | Slightly more solar energy |
 
 ## 35.3 Conduction vs Convection vs Advection
 
-| Process | Direction | Requirement | Example |
-| --- | --- | --- | --- |
-| Conduction | Direct contact | Two bodies touching | Ground heats air touching it |
-| Convection | Vertical | Rising heated air | Warm air rising in troposphere |
-| Advection | Horizontal | Moving air | Loo in north India |
+| Process    | Direction      | Requirement         | Example                        |
+| ---------- | -------------- | ------------------- | ------------------------------ |
+| Conduction | Direct contact | Two bodies touching | Ground heats air touching it   |
+| Convection | Vertical       | Rising heated air   | Warm air rising in troposphere |
+| Advection  | Horizontal     | Moving air          | Loo in north India             |
 
 ## 35.4 Heat vs Temperature
 
-| Heat | Temperature |
-| --- | --- |
-| Molecular energy | Measurement of hotness/coldness |
-| Energy idea | Degree idea |
-| Depends on total energy | Expressed in degrees |
+| Heat                    | Temperature                     |
+| ----------------------- | ------------------------------- |
+| Molecular energy        | Measurement of hotness/coldness |
+| Energy idea             | Degree idea                     |
+| Depends on total energy | Expressed in degrees            |
 
 ## 35.5 Maritime vs Continental Climate
 
-| Maritime | Continental |
-| --- | --- |
-| Near sea | Far from sea |
-| Moderate temperature | Extreme temperature |
-| Low annual range | High annual range |
+| Maritime               | Continental              |
+| ---------------------- | ------------------------ |
+| Near sea               | Far from sea             |
+| Moderate temperature   | Extreme temperature      |
+| Low annual range       | High annual range        |
 | Sea heats/cools slowly | Land heats/cools quickly |
 
 ## 35.6 Normal Lapse Rate vs Inversion
 
-| Normal Lapse Rate | Inversion |
-| --- | --- |
+| Normal Lapse Rate                 | Inversion                         |
+| --------------------------------- | --------------------------------- |
 | Temperature decreases with height | Temperature increases with height |
-| Normal condition | Reversed condition |
-| 6.5 degrees Celsius per 1000 m | Often under clear winter nights |
+| Normal condition                  | Reversed condition                |
+| 6.5 degrees Celsius per 1000 m    | Often under clear winter nights   |
 
 ---
 
@@ -1764,20 +1764,20 @@ January temperature distribution is more irregular in the northern hemisphere an
 
 Use this table to analyse local observatory temperature:
 
-| Month | Mean Maximum | Mean Minimum | Mean Temperature | Highest Recorded | Lowest Recorded |
-| --- | --- | --- | --- | --- | --- |
-| January |  |  |  |  |  |
-| February |  |  |  |  |  |
-| March |  |  |  |  |  |
-| April |  |  |  |  |  |
-| May |  |  |  |  |  |
-| June |  |  |  |  |  |
-| July |  |  |  |  |  |
-| August |  |  |  |  |  |
-| September |  |  |  |  |  |
-| October |  |  |  |  |  |
-| November |  |  |  |  |  |
-| December |  |  |  |  |  |
+| Month     | Mean Maximum | Mean Minimum | Mean Temperature | Highest Recorded | Lowest Recorded |
+| --------- | ------------ | ------------ | ---------------- | ---------------- | --------------- |
+| January   |              |              |                  |                  |                 |
+| February  |              |              |                  |                  |                 |
+| March     |              |              |                  |                  |                 |
+| April     |              |              |                  |                  |                 |
+| May       |              |              |                  |                  |                 |
+| June      |              |              |                  |                  |                 |
+| July      |              |              |                  |                  |                 |
+| August    |              |              |                  |                  |                 |
+| September |              |              |                  |                  |                 |
+| October   |              |              |                  |                  |                 |
+| November  |              |              |                  |                  |                 |
+| December  |              |              |                  |                  |                 |
 
 ## 38.2 Daily Mean Monthly Temperature
 
@@ -1885,21 +1885,21 @@ Mention:
 
 ## 40.1 Must-Remember Dates And Distances
 
-| Term | Date | Distance |
-| --- | --- | --- |
-| Aphelion | July 4 | 152 million km |
+| Term       | Date      | Distance       |
+| ---------- | --------- | -------------- |
+| Aphelion   | July 4    | 152 million km |
 | Perihelion | January 3 | 147 million km |
 
 ## 40.2 Must-Remember Values
 
-| Concept | Value |
-| --- | --- |
-| Solar energy at top of atmosphere | 1.94 calories per sq cm per minute |
-| Insolation in tropics | About 320 W/m2 |
-| Insolation near poles | About 70 W/m2 |
-| Normal lapse rate | 6.5 degrees Celsius per 1000 m |
-| Highest annual range | More than 60 degrees Celsius in NE Eurasia |
-| Least annual range | About 3 degrees Celsius between 20 degrees S and 15 degrees N |
+| Concept                           | Value                                                         |
+| --------------------------------- | ------------------------------------------------------------- |
+| Solar energy at top of atmosphere | 1.94 calories per sq cm per minute                            |
+| Insolation in tropics             | About 320 W/m2                                                |
+| Insolation near poles             | About 70 W/m2                                                 |
+| Normal lapse rate                 | 6.5 degrees Celsius per 1000 m                                |
+| Highest annual range              | More than 60 degrees Celsius in NE Eurasia                    |
+| Least annual range                | About 3 degrees Celsius between 20 degrees S and 15 degrees N |
 
 ## 40.3 Heat Budget Memory
 

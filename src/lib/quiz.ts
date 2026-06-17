@@ -23,7 +23,10 @@ export async function createQuiz(input: CreateQuizInput) {
     },
   });
 
-  if ((res as QuizApiErrorResponse).message && !(res as QuizApiSuccess<CreateQuizResponse>).data) {
+  if (
+    (res as QuizApiErrorResponse).message &&
+    !(res as QuizApiSuccess<CreateQuizResponse>).data
+  ) {
     throw new Error((res as QuizApiErrorResponse).message);
   }
 

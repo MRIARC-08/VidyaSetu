@@ -1,21 +1,22 @@
 # Chapter 4: Memory, Care, and the Presence of Loved Ones
+
 ### NCERT Class 9 - English Beehive
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 9 |
-| **Subject** | English Beehive |
-| **Chapter** | 4 |
-| **Actual Main Texts** | "Vitamin-M" and "I Cannot Remember My Mother" |
-| **Supplementary Texts** | "The Lost Child" and "I Remember, I Remember" |
-| **Raw File Header** | "A Truly Beautiful Mind" |
-| **Textbook Pages** | 1-136 |
-| **Core Theme** | Elderly care, dignity, memory, family affection, childhood memories, and the emotional presence of loved ones. |
-| **Main Skills** | Narrative comprehension, inference, character analysis, vocabulary, prepositions, direct and indirect speech, intonation, article writing, diary writing, sensory imagery, and poetic appreciation. |
+| Detail                  | Learner-Friendly Information                                                                                                                                                                        |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Class**               | 9                                                                                                                                                                                                   |
+| **Subject**             | English Beehive                                                                                                                                                                                     |
+| **Chapter**             | 4                                                                                                                                                                                                   |
+| **Actual Main Texts**   | "Vitamin-M" and "I Cannot Remember My Mother"                                                                                                                                                       |
+| **Supplementary Texts** | "The Lost Child" and "I Remember, I Remember"                                                                                                                                                       |
+| **Raw File Header**     | "A Truly Beautiful Mind"                                                                                                                                                                            |
+| **Textbook Pages**      | 1-136                                                                                                                                                                                               |
+| **Core Theme**          | Elderly care, dignity, memory, family affection, childhood memories, and the emotional presence of loved ones.                                                                                      |
+| **Main Skills**         | Narrative comprehension, inference, character analysis, vocabulary, prepositions, direct and indirect speech, intonation, article writing, diary writing, sensory imagery, and poetic appreciation. |
 
 > [!NOTE]
 > The raw source file is `chapter_04.md` and its extraction header says "A Truly Beautiful Mind", but the actual chapter content contains **Vitamin-M**, the poem **I Cannot Remember My Mother**, and supplementary memory-themed texts. This learner-facing version follows the actual chapter content.
@@ -24,16 +25,16 @@
 
 ## Section Structure
 
-| Unit | Text / Skill | Main Learning Focus |
-|---|---|---|
-| **4A** | Before Reading | Elderly care, family memories, and vocabulary preparation. |
-| **4B** | Vitamin-M | Narrative plot, humour, family roles, age, independence, care, and memory. |
-| **4C** | Prose Comprehension | Check Your Understanding, critical reflection, character analysis, and model answers. |
-| **4D** | Vocabulary and Grammar | Movement words, sound words, synonyms, antonyms, prepositions, interrogatives, and reported speech. |
-| **4E** | Speaking and Writing | Intonation, personal caregiving presentation, and article writing. |
-| **4F** | Learning Beyond the Text | Family photographs, elderly relationships, and "The Lost Child". |
-| **4G** | I Cannot Remember My Mother | Poetic summary, sensory memory, symbolism, refrain, imagery, and tone. |
-| **4H** | Poem-Based Language Work | Sensory vocabulary, diary writing, flowers of India, and "I Remember, I Remember". |
+| Unit   | Text / Skill                | Main Learning Focus                                                                                 |
+| ------ | --------------------------- | --------------------------------------------------------------------------------------------------- |
+| **4A** | Before Reading              | Elderly care, family memories, and vocabulary preparation.                                          |
+| **4B** | Vitamin-M                   | Narrative plot, humour, family roles, age, independence, care, and memory.                          |
+| **4C** | Prose Comprehension         | Check Your Understanding, critical reflection, character analysis, and model answers.               |
+| **4D** | Vocabulary and Grammar      | Movement words, sound words, synonyms, antonyms, prepositions, interrogatives, and reported speech. |
+| **4E** | Speaking and Writing        | Intonation, personal caregiving presentation, and article writing.                                  |
+| **4F** | Learning Beyond the Text    | Family photographs, elderly relationships, and "The Lost Child".                                    |
+| **4G** | I Cannot Remember My Mother | Poetic summary, sensory memory, symbolism, refrain, imagery, and tone.                              |
+| **4H** | Poem-Based Language Work    | Sensory vocabulary, diary writing, flowers of India, and "I Remember, I Remember".                  |
 
 ---
 
@@ -41,61 +42,61 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Read a humorous story closely** | Explain how small incidents reveal deep family feelings. |
-| **Understand theme** | Discuss elderly care, independence, dignity, age-based bias, and family responsibility. |
-| **Analyse character** | Describe Grandpa, Ravi, and Ravi's mother with evidence from the story. |
-| **Infer hidden meaning** | Recognise when a character knows more than he says directly. |
-| **Answer extract questions** | Identify tone, emotion, reason, and implied meaning from short passages. |
-| **Use vocabulary** | Classify movement and sound words and use difficult words accurately. |
-| **Use prepositions** | Choose correct prepositions for place, direction, and movement. |
-| **Use reported speech** | Change direct questions into indirect speech. |
-| **Speak effectively** | Use correct intonation for different kinds of questions. |
-| **Write reflectively** | Write an article and diary entry using clear structure and sensory detail. |
-| **Appreciate poetry** | Explain refrain, symbolism, imagery, tone, and sensory memory in a poem. |
-| **Connect texts** | Compare memory in prose, poetry, and supplementary reading. |
+| Outcome                           | You Should Be Able To...                                                                |
+| --------------------------------- | --------------------------------------------------------------------------------------- |
+| **Read a humorous story closely** | Explain how small incidents reveal deep family feelings.                                |
+| **Understand theme**              | Discuss elderly care, independence, dignity, age-based bias, and family responsibility. |
+| **Analyse character**             | Describe Grandpa, Ravi, and Ravi's mother with evidence from the story.                 |
+| **Infer hidden meaning**          | Recognise when a character knows more than he says directly.                            |
+| **Answer extract questions**      | Identify tone, emotion, reason, and implied meaning from short passages.                |
+| **Use vocabulary**                | Classify movement and sound words and use difficult words accurately.                   |
+| **Use prepositions**              | Choose correct prepositions for place, direction, and movement.                         |
+| **Use reported speech**           | Change direct questions into indirect speech.                                           |
+| **Speak effectively**             | Use correct intonation for different kinds of questions.                                |
+| **Write reflectively**            | Write an article and diary entry using clear structure and sensory detail.              |
+| **Appreciate poetry**             | Explain refrain, symbolism, imagery, tone, and sensory memory in a poem.                |
+| **Connect texts**                 | Compare memory in prose, poetry, and supplementary reading.                             |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Elderly** | Older people, especially those who may need support because of age or health. |
-| **Dignity** | Respect and worth that every person deserves. |
-| **Independence** | Ability to make choices and manage one's own life. |
-| **Frail** | Physically weak or delicate. |
-| **Shuddered** | Shook because of fear, disgust, or an unpleasant memory. |
-| **Poky** | Small, cramped, and uncomfortable. |
-| **Forbid** | To order someone not to do something. |
-| **Pottering** | Moving around slowly while doing small jobs. |
-| **Winced** | Showed pain or embarrassment through a facial expression. |
-| **Jauntily** | In a cheerful and confident way. |
-| **Crouch** | Bend low with knees bent. |
-| **Ducking** | Lowering the head or body quickly. |
-| **Quizzical** | Showing mild surprise or curiosity. |
-| **Deterred** | Prevented or discouraged from doing something. |
-| **Confront** | Face someone directly, usually about a problem. |
-| **Frantic** | Extremely worried, frightened, or hurried. |
-| **Creases** | Lines or folds, especially on skin or cloth. |
-| **Darted** | Looked or moved quickly and suddenly. |
-| **Trailing** | Following someone secretly or closely. |
-| **Solemnly** | Seriously, without joking openly. |
-| **Dilemma** | A difficult situation involving two hard choices. |
-| **Nostalgic** | Feeling emotional longing for the past. |
-| **Ageism** | Unfair treatment or judgment based on a person's age. |
-| **Interrogative sentence** | A sentence that asks a question. |
-| **Direct speech** | Exact spoken words placed in quotation marks. |
-| **Reported speech** | Speech reported later without quoting the exact words. |
-| **Intonation** | Rise and fall of the voice while speaking. |
-| **Imagery** | Language that creates pictures or sense impressions in the mind. |
-| **Refrain** | A repeated line or group of lines in a poem. |
-| **Symbolism** | Use of objects, actions, or images to suggest deeper meaning. |
-| **Olfactory** | Related to the sense of smell. |
-| **Auditory** | Related to the sense of hearing. |
-| **Visual** | Related to the sense of sight. |
-| **Tactile** | Related to touch or texture. |
+| Term                       | Meaning                                                                       |
+| -------------------------- | ----------------------------------------------------------------------------- |
+| **Elderly**                | Older people, especially those who may need support because of age or health. |
+| **Dignity**                | Respect and worth that every person deserves.                                 |
+| **Independence**           | Ability to make choices and manage one's own life.                            |
+| **Frail**                  | Physically weak or delicate.                                                  |
+| **Shuddered**              | Shook because of fear, disgust, or an unpleasant memory.                      |
+| **Poky**                   | Small, cramped, and uncomfortable.                                            |
+| **Forbid**                 | To order someone not to do something.                                         |
+| **Pottering**              | Moving around slowly while doing small jobs.                                  |
+| **Winced**                 | Showed pain or embarrassment through a facial expression.                     |
+| **Jauntily**               | In a cheerful and confident way.                                              |
+| **Crouch**                 | Bend low with knees bent.                                                     |
+| **Ducking**                | Lowering the head or body quickly.                                            |
+| **Quizzical**              | Showing mild surprise or curiosity.                                           |
+| **Deterred**               | Prevented or discouraged from doing something.                                |
+| **Confront**               | Face someone directly, usually about a problem.                               |
+| **Frantic**                | Extremely worried, frightened, or hurried.                                    |
+| **Creases**                | Lines or folds, especially on skin or cloth.                                  |
+| **Darted**                 | Looked or moved quickly and suddenly.                                         |
+| **Trailing**               | Following someone secretly or closely.                                        |
+| **Solemnly**               | Seriously, without joking openly.                                             |
+| **Dilemma**                | A difficult situation involving two hard choices.                             |
+| **Nostalgic**              | Feeling emotional longing for the past.                                       |
+| **Ageism**                 | Unfair treatment or judgment based on a person's age.                         |
+| **Interrogative sentence** | A sentence that asks a question.                                              |
+| **Direct speech**          | Exact spoken words placed in quotation marks.                                 |
+| **Reported speech**        | Speech reported later without quoting the exact words.                        |
+| **Intonation**             | Rise and fall of the voice while speaking.                                    |
+| **Imagery**                | Language that creates pictures or sense impressions in the mind.              |
+| **Refrain**                | A repeated line or group of lines in a poem.                                  |
+| **Symbolism**              | Use of objects, actions, or images to suggest deeper meaning.                 |
+| **Olfactory**              | Related to the sense of smell.                                                |
+| **Auditory**               | Related to the sense of hearing.                                              |
+| **Visual**                 | Related to the sense of sight.                                                |
+| **Tactile**                | Related to touch or texture.                                                  |
 
 ---
 
@@ -122,12 +123,12 @@ The chapter begins by asking learners to think about an elderly person at home o
 
 The organiser in the raw text asks four major questions:
 
-| Question | Learner-Friendly Points |
-|---|---|
-| Why should we care for the elderly? | They have cared for families and society; they may need physical, emotional, and medical support; they deserve respect and companionship. |
-| What problems do they face? | Loneliness, weak health, memory issues, difficulty walking, poor eyesight or hearing, dependence on others, and feeling ignored. |
-| What causes these problems? | Age-related illness, loss of spouse or friends, lack of mobility, busy family schedules, unsafe surroundings, and social neglect. |
-| How can we care for them? | Speak respectfully, listen patiently, help with medicines, accompany them outdoors, include them in decisions, and protect without humiliating them. |
+| Question                            | Learner-Friendly Points                                                                                                                              |
+| ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Why should we care for the elderly? | They have cared for families and society; they may need physical, emotional, and medical support; they deserve respect and companionship.            |
+| What problems do they face?         | Loneliness, weak health, memory issues, difficulty walking, poor eyesight or hearing, dependence on others, and feeling ignored.                     |
+| What causes these problems?         | Age-related illness, loss of spouse or friends, lack of mobility, busy family schedules, unsafe surroundings, and social neglect.                    |
+| How can we care for them?           | Speak respectfully, listen patiently, help with medicines, accompany them outdoors, include them in decisions, and protect without humiliating them. |
 
 ## Important Balance
 
@@ -157,14 +158,14 @@ Poor care may look helpful but can hurt dignity if it:
 
 The raw chapter introduces words connected with age, movement, embarrassment, and emotional reaction.
 
-| Word | Simple Meaning | Example Sentence |
-|---|---|---|
-| **frail** | weak and delicate | The frail old man walked slowly but proudly. |
-| **shuddered** | shook because of fear or memory | Ravi's mother shuddered when she remembered the accident. |
-| **poky** | cramped and uncomfortable | Grandpa disliked the poky city flat. |
-| **forbid** | not allow | The doctor may forbid too much sugar. |
-| **pottering** | doing small jobs slowly | Grandpa enjoyed pottering in the garden. |
-| **winced** | showed discomfort or embarrassment | Ravi winced when his mother spoke too loudly. |
+| Word          | Simple Meaning                     | Example Sentence                                          |
+| ------------- | ---------------------------------- | --------------------------------------------------------- |
+| **frail**     | weak and delicate                  | The frail old man walked slowly but proudly.              |
+| **shuddered** | shook because of fear or memory    | Ravi's mother shuddered when she remembered the accident. |
+| **poky**      | cramped and uncomfortable          | Grandpa disliked the poky city flat.                      |
+| **forbid**    | not allow                          | The doctor may forbid too much sugar.                     |
+| **pottering** | doing small jobs slowly            | Grandpa enjoyed pottering in the garden.                  |
+| **winced**    | showed discomfort or embarrassment | Ravi winced when his mother spoke too loudly.             |
 
 ## Personal Connection Activity
 
@@ -172,12 +173,12 @@ Think about a tradition, recipe, phrase, story, song, or habit passed down by an
 
 Use this structure:
 
-| Prompt | Your Thinking |
-|---|---|
-| What was passed down? | A recipe, prayer, proverb, festival custom, story, game, song, craft, or family value. |
-| Who passed it down? | Grandparent, neighbour, family friend, elder sibling, aunt, uncle, or teacher. |
-| What does it mean to you? | It connects you to family history, childhood, home, language, or culture. |
-| How does it shape your identity? | It reminds you where you come from and what values your family respects. |
+| Prompt                           | Your Thinking                                                                          |
+| -------------------------------- | -------------------------------------------------------------------------------------- |
+| What was passed down?            | A recipe, prayer, proverb, festival custom, story, game, song, craft, or family value. |
+| Who passed it down?              | Grandparent, neighbour, family friend, elder sibling, aunt, uncle, or teacher.         |
+| What does it mean to you?        | It connects you to family history, childhood, home, language, or culture.              |
+| How does it shape your identity? | It reminds you where you come from and what values your family respects.               |
 
 ---
 
@@ -185,15 +186,15 @@ Use this structure:
 
 ## Text Identity
 
-| Detail | Information |
-|---|---|
-| **Title** | Vitamin-M |
-| **Author** | Asha Nehemiah |
-| **Genre** | Humorous family story |
-| **Main Characters** | Grandpa, Ravi, Ravi's mother Vidya, Ravi's father |
-| **Setting** | A city flat, nearby streets, park, tea stall, barber shop, bus, and family home |
-| **Central Conflict** | The family wants to keep Grandpa safe, but Grandpa wants independence and dignity. |
-| **Main Message** | Elderly people need care, but they also need respect, trust, freedom, and recognition. |
+| Detail               | Information                                                                            |
+| -------------------- | -------------------------------------------------------------------------------------- |
+| **Title**            | Vitamin-M                                                                              |
+| **Author**           | Asha Nehemiah                                                                          |
+| **Genre**            | Humorous family story                                                                  |
+| **Main Characters**  | Grandpa, Ravi, Ravi's mother Vidya, Ravi's father                                      |
+| **Setting**          | A city flat, nearby streets, park, tea stall, barber shop, bus, and family home        |
+| **Central Conflict** | The family wants to keep Grandpa safe, but Grandpa wants independence and dignity.     |
+| **Main Message**     | Elderly people need care, but they also need respect, trust, freedom, and recognition. |
 
 ## Why the Title "Vitamin-M" Is Important
 
@@ -203,21 +204,21 @@ In the story, Ravi's mother wishes there were a memory vitamin for old people. S
 
 So "Vitamin-M" works at several levels:
 
-| Level | Meaning |
-|---|---|
-| **Literal joke** | A made-up vitamin for memory. |
-| **Family humour** | Grandpa uses the idea to tease his daughter. |
-| **Irony** | The person accused of weak memory remembers more than expected. |
-| **Theme** | Memory is not only about small facts; it is also about remembering love, respect, duties, and family bonds. |
+| Level             | Meaning                                                                                                     |
+| ----------------- | ----------------------------------------------------------------------------------------------------------- |
+| **Literal joke**  | A made-up vitamin for memory.                                                                               |
+| **Family humour** | Grandpa uses the idea to tease his daughter.                                                                |
+| **Irony**         | The person accused of weak memory remembers more than expected.                                             |
+| **Theme**         | Memory is not only about small facts; it is also about remembering love, respect, duties, and family bonds. |
 
 ## Main Characters
 
-| Character | Role in Story | Key Qualities |
-|---|---|---|
-| **Grandpa** | Elderly family member who has moved into the city flat | Independent, witty, proud, observant, generous, clever, affectionate |
-| **Ravi** | Young boy asked to look after Grandpa | Caring, loyal, anxious, curious, embarrassed, affectionate |
-| **Vidya / Ravi's mother** | Grandpa's daughter, worried about his safety | Protective, anxious, responsible, impatient at times, loving |
-| **Ravi's father** | Appears near the end | Confused by the situation, part of the family humour |
+| Character                 | Role in Story                                          | Key Qualities                                                        |
+| ------------------------- | ------------------------------------------------------ | -------------------------------------------------------------------- |
+| **Grandpa**               | Elderly family member who has moved into the city flat | Independent, witty, proud, observant, generous, clever, affectionate |
+| **Ravi**                  | Young boy asked to look after Grandpa                  | Caring, loyal, anxious, curious, embarrassed, affectionate           |
+| **Vidya / Ravi's mother** | Grandpa's daughter, worried about his safety           | Protective, anxious, responsible, impatient at times, loving         |
+| **Ravi's father**         | Appears near the end                                   | Confused by the situation, part of the family humour                 |
 
 ## Central Conflict
 
@@ -225,11 +226,11 @@ The story does not have a villain.
 
 The conflict comes from different needs:
 
-| Person | What They Want | Why |
-|---|---|---|
-| Vidya | Grandpa must not go out alone. | She fears he may get lost, fall, or forget medicines. |
-| Grandpa | He wants to go out by himself. | He has lived independently for many years and dislikes being treated helplessly. |
-| Ravi | He wants to keep both promises. | He loves Grandpa and also promised his mother to keep him safe. |
+| Person  | What They Want                  | Why                                                                              |
+| ------- | ------------------------------- | -------------------------------------------------------------------------------- |
+| Vidya   | Grandpa must not go out alone.  | She fears he may get lost, fall, or forget medicines.                            |
+| Grandpa | He wants to go out by himself.  | He has lived independently for many years and dislikes being treated helplessly. |
+| Ravi    | He wants to keep both promises. | He loves Grandpa and also promised his mother to keep him safe.                  |
 
 This creates a practical and emotional dilemma for Ravi.
 
@@ -271,20 +272,20 @@ Grandpa crosses the road, enters a barber shop, and later Ravi sees a man in Gra
 
 ## Grandpa's Day Out: Flow Chart
 
-| Step | Event |
-|---|---|
-| **1** | Grandpa goes out to get the Tamil newspaper. |
-| **2** | Ravi follows him secretly. |
-| **3** | Grandpa first stops at the children's park. |
-| **4** | Grandpa buys a paper cone of peanuts and watches children play. |
-| **5** | Ravi hides behind a bush and gets scolded by a small child's mother. |
-| **6** | Grandpa next goes to the tea stall. |
-| **7** | Ravi hides behind a banyan tree and is questioned by vendors. |
-| **8** | Grandpa drinks tea and eats bananas and ice cream. |
-| **9** | Grandpa crosses the road and enters a barber shop. |
-| **10** | Grandpa gives his yellow cap to another man. |
-| **11** | Ravi follows the cap-wearing stranger onto a bus. |
-| **12** | Ravi discovers that he has been fooled. |
+| Step   | Event                                                                |
+| ------ | -------------------------------------------------------------------- |
+| **1**  | Grandpa goes out to get the Tamil newspaper.                         |
+| **2**  | Ravi follows him secretly.                                           |
+| **3**  | Grandpa first stops at the children's park.                          |
+| **4**  | Grandpa buys a paper cone of peanuts and watches children play.      |
+| **5**  | Ravi hides behind a bush and gets scolded by a small child's mother. |
+| **6**  | Grandpa next goes to the tea stall.                                  |
+| **7**  | Ravi hides behind a banyan tree and is questioned by vendors.        |
+| **8**  | Grandpa drinks tea and eats bananas and ice cream.                   |
+| **9**  | Grandpa crosses the road and enters a barber shop.                   |
+| **10** | Grandpa gives his yellow cap to another man.                         |
+| **11** | Ravi follows the cap-wearing stranger onto a bus.                    |
+| **12** | Ravi discovers that he has been fooled.                              |
 
 ## Part 2: Check Your Understanding
 
@@ -348,13 +349,13 @@ The extract describes Grandpa's longing for his quiet town house and explains wh
 
 ### Model Answers
 
-| Question | Answer |
-|---|---|
-| **(i) Choose the emotion displayed by Grandpa.** | **C. nostalgic.** He remembers his old home with longing and affection. "Wistful" is also close, but "nostalgic" best captures emotional memory of the past. |
-| **(ii) Grandpa hated the busy and noisy city life because...** | ...he missed the peace, space, garden, and independence of his old town house. |
-| **(iii) Why did Grandpa come to the city?** | He had fallen in the garden and spent the night outside without help. His daughter felt it was unsafe for him to live alone. |
-| **(iv) Expression similar to "you can even hear a leaf fall".** | **D. pin drop silence.** |
-| **(v) One advantage and one disadvantage of living in town.** | Advantage: peaceful and familiar surroundings; independence. Disadvantage: unsafe during emergencies because no one may be nearby to help. |
+| Question                                                        | Answer                                                                                                                                                       |
+| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **(i) Choose the emotion displayed by Grandpa.**                | **C. nostalgic.** He remembers his old home with longing and affection. "Wistful" is also close, but "nostalgic" best captures emotional memory of the past. |
+| **(ii) Grandpa hated the busy and noisy city life because...**  | ...he missed the peace, space, garden, and independence of his old town house.                                                                               |
+| **(iii) Why did Grandpa come to the city?**                     | He had fallen in the garden and spent the night outside without help. His daughter felt it was unsafe for him to live alone.                                 |
+| **(iv) Expression similar to "you can even hear a leaf fall".** | **D. pin drop silence.**                                                                                                                                     |
+| **(v) One advantage and one disadvantage of living in town.**   | Advantage: peaceful and familiar surroundings; independence. Disadvantage: unsafe during emergencies because no one may be nearby to help.                   |
 
 ## Critical Extract 2: Grandpa's Cool Reply
 
@@ -364,12 +365,12 @@ At the end of the story, Grandpa comments that Ravi disappeared instead of looki
 
 ### Model Answers
 
-| Question | Answer |
-|---|---|
-| **(i) Tone of Grandpa's response.** | **C. calm.** He speaks coolly and humorously. |
-| **(ii) Why was Ravi confused and embarrassed?** | He realised Grandpa might know that he had followed him and been fooled by the yellow cap trick. |
-| **(iii) Ravi's mother was impatient because...** | ...she thought Grandpa had forgotten that Ravi's birthday was three months earlier. |
-| **(iv) Grandfather forgot Ravi's birthday: True or False?** | **False.** He was giving gifts because it was his own birthday. |
+| Question                                                                   | Answer                                                                                                    |
+| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| **(i) Tone of Grandpa's response.**                                        | **C. calm.** He speaks coolly and humorously.                                                             |
+| **(ii) Why was Ravi confused and embarrassed?**                            | He realised Grandpa might know that he had followed him and been fooled by the yellow cap trick.          |
+| **(iii) Ravi's mother was impatient because...**                           | ...she thought Grandpa had forgotten that Ravi's birthday was three months earlier.                       |
+| **(iv) Grandfather forgot Ravi's birthday: True or False?**                | **False.** He was giving gifts because it was his own birthday.                                           |
 | **(v) Why did Grandpa say he did not know what kind of morning Ravi had?** | He was teasing Ravi because Ravi had spent the morning secretly following him instead of staying at home. |
 
 ## Long Answer Question Bank
@@ -380,11 +381,11 @@ Grandpa may have some age-related weakness, but he is not simply forgetful. Firs
 
 ### 2. Give two traits of each character.
 
-| Character | Trait 1 | Evidence | Trait 2 | Evidence |
-|---|---|---|---|---|
-| **Grandpa** | Independent | He insists on going out alone. | Witty | He jokes that Vidya needs Vitamin-M. |
-| **Ravi** | Caring | He follows Grandpa to keep him safe. | Inexperienced | He is fooled by the yellow cap trick. |
-| **Ravi's mother** | Protective | She warns Ravi not to let Grandpa go out alone. | Anxious | She worries because of Grandpa's earlier accidents. |
+| Character         | Trait 1     | Evidence                                        | Trait 2       | Evidence                                            |
+| ----------------- | ----------- | ----------------------------------------------- | ------------- | --------------------------------------------------- |
+| **Grandpa**       | Independent | He insists on going out alone.                  | Witty         | He jokes that Vidya needs Vitamin-M.                |
+| **Ravi**          | Caring      | He follows Grandpa to keep him safe.            | Inexperienced | He is fooled by the yellow cap trick.               |
+| **Ravi's mother** | Protective  | She warns Ravi not to let Grandpa go out alone. | Anxious       | She worries because of Grandpa's earlier accidents. |
 
 ### 3. Why was Ravi worried about what Grandpa had at the tea stall?
 
@@ -396,10 +397,10 @@ No. Ravi had to hide in public places, avoid being noticed, deal with strangers,
 
 ### 5. "Ravi is a good detective." Give one argument in favour and one against.
 
-| View | Argument |
-|---|---|
-| **In favour** | Ravi is observant and determined. He follows Grandpa across several places and notices the yellow cap. |
-| **Against** | He is not careful enough. He attracts attention, enters the wrong place, and follows a stranger because he relies too much on the cap. |
+| View          | Argument                                                                                                                               |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| **In favour** | Ravi is observant and determined. He follows Grandpa across several places and notices the yellow cap.                                 |
+| **Against**   | He is not careful enough. He attracts attention, enters the wrong place, and follows a stranger because he relies too much on the cap. |
 
 ### 6. Was Grandpa aware that Ravi was following him?
 
@@ -426,70 +427,70 @@ A teenager may suggest a useful idea in a family discussion, but adults may dism
 The story uses lively verbs and sound words to make the chase comic and visual.
 
 | Movement Words | Sound Words |
-|---|---|
-| pottering | boomed |
-| twirling | bustle |
-| crouch | thudded |
-| crawl | shrieks |
-| creeping | whirr |
-| ducked | grunted |
-| zigzagging | snoring |
-| evicted |  |
-| briskly |  |
-| sprinting |  |
-| jumping |  |
-| darted |  |
-| trailing |  |
+| -------------- | ----------- |
+| pottering      | boomed      |
+| twirling       | bustle      |
+| crouch         | thudded     |
+| crawl          | shrieks     |
+| creeping       | whirr       |
+| ducked         | grunted     |
+| zigzagging     | snoring     |
+| evicted        |             |
+| briskly        |             |
+| sprinting      |             |
+| jumping        |             |
+| darted         |             |
+| trailing       |             |
 
 > [!TIP]
 > Some words can be difficult to classify. For example, "bustle" can suggest busy movement as well as noisy activity. In this chapter exercise, it fits better as a sound/activity word because it describes the noisy liveliness of the city.
 
 ## Cloze Passage: Suggested Answers
 
-| Blank | Suggested Answer | Reason |
-|---|---|---|
-| **1** | trailing | A detective follows a suspect. |
-| **2** | bustle | The phrase "of the city" suits the noise and activity of a city. |
-| **3** | briskly | It describes quick movement. |
-| **4** | thudded | Heavy footsteps can thud. |
-| **5** | twirling | A detective may twirl a magnifying glass in hand. |
-| **6** | crouch | One crouches behind stalls to hide. |
-| **7** | creeping | Creeping suggests secret movement. |
-| **8** | grunted | A person may grunt when hurt suddenly. |
-| **9** | darted | A suspect may dart away quickly. |
-| **10** | whirr | This can suggest the distant low sound of the city. |
+| Blank  | Suggested Answer | Reason                                                           |
+| ------ | ---------------- | ---------------------------------------------------------------- |
+| **1**  | trailing         | A detective follows a suspect.                                   |
+| **2**  | bustle           | The phrase "of the city" suits the noise and activity of a city. |
+| **3**  | briskly          | It describes quick movement.                                     |
+| **4**  | thudded          | Heavy footsteps can thud.                                        |
+| **5**  | twirling         | A detective may twirl a magnifying glass in hand.                |
+| **6**  | crouch           | One crouches behind stalls to hide.                              |
+| **7**  | creeping         | Creeping suggests secret movement.                               |
+| **8**  | grunted          | A person may grunt when hurt suddenly.                           |
+| **9**  | darted           | A suspect may dart away quickly.                                 |
+| **10** | whirr            | This can suggest the distant low sound of the city.              |
 
 ## Synonyms for "Dilemma"
 
 The raw exercise gives partially filled words:
 
-| Word | Completed Form | Meaning |
-|---|---|---|
-| **QU_ ND_ _ Y** | quandary | a state of uncertainty about what to do |
-| **PR_ D _ C _ M _ NT** | predicament | a difficult or unpleasant situation |
+| Word                   | Completed Form | Meaning                                 |
+| ---------------------- | -------------- | --------------------------------------- |
+| **QU* ND* \_ Y**       | quandary       | a state of uncertainty about what to do |
+| **PR* D * C _ M _ NT** | predicament    | a difficult or unpleasant situation     |
 
 Both words are close to **dilemma**.
 
 ## Dictionary Table
 
-| Word | Meaning | Part of Speech | Synonym | Antonym |
-|---|---|---|---|---|
-| **craftily** | in a clever and slightly tricky way | adverb | cunningly | openly |
-| **dilemma** | difficult choice between alternatives | noun | predicament | certainty |
-| **furious** | very angry | adjective | enraged | calm |
-| **boomed** | spoke or sounded loudly and deeply | verb | roared | whispered |
-| **humiliation** | deep embarrassment or shame | noun | disgrace | pride |
-| **attire** | clothing | noun | dress | undress |
+| Word            | Meaning                               | Part of Speech | Synonym     | Antonym   |
+| --------------- | ------------------------------------- | -------------- | ----------- | --------- |
+| **craftily**    | in a clever and slightly tricky way   | adverb         | cunningly   | openly    |
+| **dilemma**     | difficult choice between alternatives | noun           | predicament | certainty |
+| **furious**     | very angry                            | adjective      | enraged     | calm      |
+| **boomed**      | spoke or sounded loudly and deeply    | verb           | roared      | whispered |
+| **humiliation** | deep embarrassment or shame           | noun           | disgrace    | pride     |
+| **attire**      | clothing                              | noun           | dress       | undress   |
 
 ## Emotions and Expressions
 
-| Column 1 | Correct Meaning |
-|---|---|
-| **embarrassed** | felt uncomfortable |
-| **countered** | replied to an argument |
-| **flushed** | became red in the face |
-| **stricken** | affected severely by an unpleasant feeling |
-| **gleam** | expression of emotion, often through the eyes |
+| Column 1        | Correct Meaning                               |
+| --------------- | --------------------------------------------- |
+| **embarrassed** | felt uncomfortable                            |
+| **countered**   | replied to an argument                        |
+| **flushed**     | became red in the face                        |
+| **stricken**    | affected severely by an unpleasant feeling    |
+| **gleam**       | expression of emotion, often through the eyes |
 
 Extra meaning: **to be confused**.
 
@@ -497,23 +498,23 @@ Extra meaning: **to be confused**.
 
 ### Prepositions from the Story
 
-| Phrase | Preposition | Relationship Shown |
-|---|---|---|
-| walk **across** to the corner shop | across | movement from one side to another |
-| shadow fall **over** him | over | position above |
-| vendors sitting **under** the tree | under | lower position |
-| position **behind** a banyan tree | behind | hidden at the back |
+| Phrase                             | Preposition | Relationship Shown                |
+| ---------------------------------- | ----------- | --------------------------------- |
+| walk **across** to the corner shop | across      | movement from one side to another |
+| shadow fall **over** him           | over        | position above                    |
+| vendors sitting **under** the tree | under       | lower position                    |
+| position **behind** a banyan tree  | behind      | hidden at the back                |
 
 ### Fill in the Blanks
 
-| Blank | Correct Answer | Explanation |
-|---|---|---|
-| (i) walked **through** the village | through | movement inside and across an area |
-| (ii) crossed a bridge **over** a brook | over | above the brook |
-| (iii) garden **near** a cottage | near | close to |
-| (iv) bench **in** the garden | in | inside the garden area |
-| (v) strolled **along** a riverbank | along | following the line of the riverbank |
-| (vi) heading **into** the unknown | into | movement toward and inside an unfamiliar space |
+| Blank                                  | Correct Answer | Explanation                                    |
+| -------------------------------------- | -------------- | ---------------------------------------------- |
+| (i) walked **through** the village     | through        | movement inside and across an area             |
+| (ii) crossed a bridge **over** a brook | over           | above the brook                                |
+| (iii) garden **near** a cottage        | near           | close to                                       |
+| (iv) bench **in** the garden           | in             | inside the garden area                         |
+| (v) strolled **along** a riverbank     | along          | following the line of the riverbank            |
+| (vi) heading **into** the unknown      | into           | movement toward and inside an unfamiliar space |
 
 ## Direct Speech and Interrogative Sentences
 
@@ -521,26 +522,26 @@ The raw exercise gives several questions from the story.
 
 ### Correct Choices
 
-| Item | Answer | Explanation |
-|---|---|---|
-| **A** | interrogative | The words in quotes ask questions. |
-| **B** | Yes/No type | "Shall...", "Have...", and "Are..." expect yes/no answers. |
-| **C** | Wh-type | "Who..." and "What..." use question words. |
-| **D** | two | The two main types shown are Yes/No and Wh-type questions. |
+| Item  | Answer        | Explanation                                                |
+| ----- | ------------- | ---------------------------------------------------------- |
+| **A** | interrogative | The words in quotes ask questions.                         |
+| **B** | Yes/No type   | "Shall...", "Have...", and "Are..." expect yes/no answers. |
+| **C** | Wh-type       | "Who..." and "What..." use question words.                 |
+| **D** | two           | The two main types shown are Yes/No and Wh-type questions. |
 
 ## Direct to Indirect Speech: Rules
 
-| Direct Speech Feature | Indirect Speech Change |
-|---|---|
-| Exact quoted words | Reported without quotation marks |
-| Question word question | Keep the same Wh-word |
-| Yes/No question | Use **if** or **whether** |
-| Present tense | Usually changes to past tense |
-| here | there |
-| now | then |
-| today | that day |
-| tomorrow | the following day |
-| I / we / you | Changes according to speaker and listener |
+| Direct Speech Feature  | Indirect Speech Change                    |
+| ---------------------- | ----------------------------------------- |
+| Exact quoted words     | Reported without quotation marks          |
+| Question word question | Keep the same Wh-word                     |
+| Yes/No question        | Use **if** or **whether**                 |
+| Present tense          | Usually changes to past tense             |
+| here                   | there                                     |
+| now                    | then                                      |
+| today                  | that day                                  |
+| tomorrow               | the following day                         |
+| I / we / you           | Changes according to speaker and listener |
 
 ## Reported Speech Exercise: Model Completion
 
@@ -558,13 +559,13 @@ Arvind asked Priya if she **helped in taking care of her grandparents at home**,
 
 ## Common Reported Speech Errors
 
-| Error | Correction |
-|---|---|
-| Arvind asked Priya that did she help... | Arvind asked Priya if she helped... |
-| Priya said yes I do. | Priya replied in the affirmative. |
-| He asked how do you manage... | He asked how she managed... |
-| They have a schedule. | They had a schedule. |
-| Do not change pronouns. | Change pronouns according to the speaker. |
+| Error                                   | Correction                                |
+| --------------------------------------- | ----------------------------------------- |
+| Arvind asked Priya that did she help... | Arvind asked Priya if she helped...       |
+| Priya said yes I do.                    | Priya replied in the affirmative.         |
+| He asked how do you manage...           | He asked how she managed...               |
+| They have a schedule.                   | They had a schedule.                      |
+| Do not change pronouns.                 | Change pronouns according to the speaker. |
 
 ---
 
@@ -574,25 +575,25 @@ Arvind asked Priya if she **helped in taking care of her grandparents at home**,
 
 The raw chapter asks learners to listen to a podcast and fill in blanks with exact words. Since the transcript is not in the learner file, use this method during listening.
 
-| Step | What To Do |
-|---|---|
-| **1** | Read all blanks before the audio starts. |
-| **2** | Predict the type of word needed: noun, phrase, feeling, habit, or benefit. |
+| Step  | What To Do                                                                       |
+| ----- | -------------------------------------------------------------------------------- |
+| **1** | Read all blanks before the audio starts.                                         |
+| **2** | Predict the type of word needed: noun, phrase, feeling, habit, or benefit.       |
 | **3** | Listen for repeated keywords: meditation, mind, health, feelings, daily, stress. |
-| **4** | Write no more than three words, as instructed. |
-| **5** | Check grammar after filling the blank. |
+| **4** | Write no more than three words, as instructed.                                   |
+| **5** | Check grammar after filling the blank.                                           |
 
 ## Speaking Skill: Intonation in Questions
 
 Intonation means the rise and fall of the voice.
 
-| Question Type | Intonation | Example |
-|---|---|---|
-| Wh-question | Falling tone | What is your name? |
-| Yes/No question | Rising tone | Are you feeling okay? |
-| Question tag when fairly sure | Rising tone often used for confirmation | This is your notebook, isn't it? |
-| Question tag when unsure | Falling tone may show uncertainty | You were not in the library, were you? |
-| Choice question | Rise-fall tone | Shall we read this storybook or borrow another one? |
+| Question Type                 | Intonation                              | Example                                             |
+| ----------------------------- | --------------------------------------- | --------------------------------------------------- |
+| Wh-question                   | Falling tone                            | What is your name?                                  |
+| Yes/No question               | Rising tone                             | Are you feeling okay?                               |
+| Question tag when fairly sure | Rising tone often used for confirmation | This is your notebook, isn't it?                    |
+| Question tag when unsure      | Falling tone may show uncertainty       | You were not in the library, were you?              |
+| Choice question               | Rise-fall tone                          | Shall we read this storybook or borrow another one? |
 
 ## Speaking Activity: Caring for an Older Person
 
@@ -656,14 +657,14 @@ End with a reflection:
 
 ### Article Structure
 
-| Part | Purpose |
-|---|---|
-| **Title** | Clear, attractive topic name. |
-| **Byline** | Your name and class. |
-| **Paragraph 1** | Introduce the importance of elderly people. |
+| Part            | Purpose                                                                 |
+| --------------- | ----------------------------------------------------------------------- |
+| **Title**       | Clear, attractive topic name.                                           |
+| **Byline**      | Your name and class.                                                    |
+| **Paragraph 1** | Introduce the importance of elderly people.                             |
 | **Paragraph 2** | Explain how they inspire us through experience, values, and resilience. |
-| **Paragraph 3** | Discuss their struggles and how we can support them. |
-| **Paragraph 4** | Conclude with a thoughtful final message. |
+| **Paragraph 3** | Discuss their struggles and how we can support them.                    |
+| **Paragraph 4** | Conclude with a thoughtful final message.                               |
 
 ### Model Article: Our Inspiring Elderly
 
@@ -698,13 +699,13 @@ Before submitting, check:
 
 The story gives clear details about Grandpa's walking stick.
 
-| Detail | Description |
-|---|---|
-| Colour | shiny black |
-| Material | mahogany |
-| Handle | brass |
-| Carving | eagle's head |
-| Effect | stylish, distinctive, and memorable |
+| Detail   | Description                         |
+| -------- | ----------------------------------- |
+| Colour   | shiny black                         |
+| Material | mahogany                            |
+| Handle   | brass                               |
+| Carving  | eagle's head                        |
+| Effect   | stylish, distinctive, and memorable |
 
 This object helps us visualise Grandpa as a person with personality and style. He is not presented only as weak or old.
 
@@ -714,24 +715,24 @@ The raw chapter asks learners to collect memorable family photographs and make a
 
 For each photograph, include:
 
-| Slide Item | What To Write |
-|---|---|
-| When was it clicked? | Date, year, festival, birthday, trip, school event, or family occasion. |
-| Where was it clicked? | Home, village, city, school, park, temple, station, beach, or relative's house. |
-| Who is in it? | Names and relationships. |
-| Why is it memorable? | Emotion, story, person, tradition, lesson, or change connected with the picture. |
+| Slide Item            | What To Write                                                                    |
+| --------------------- | -------------------------------------------------------------------------------- |
+| When was it clicked?  | Date, year, festival, birthday, trip, school event, or family occasion.          |
+| Where was it clicked? | Home, village, city, school, park, temple, station, beach, or relative's house.  |
+| Who is in it?         | Names and relationships.                                                         |
+| Why is it memorable?  | Emotion, story, person, tradition, lesson, or change connected with the picture. |
 
 ## Supplementary Reading: The Lost Child
 
 ### Text Identity
 
-| Detail | Information |
-|---|---|
-| **Title** | The Lost Child |
-| **Author** | Mulk Raj Anand |
-| **Genre** | Short story |
-| **Main Character** | A young child visiting a spring fair with his parents |
-| **Main Theme** | A child's desires lose meaning when parental presence is lost. |
+| Detail             | Information                                                    |
+| ------------------ | -------------------------------------------------------------- |
+| **Title**          | The Lost Child                                                 |
+| **Author**         | Mulk Raj Anand                                                 |
+| **Genre**          | Short story                                                    |
+| **Main Character** | A young child visiting a spring fair with his parents          |
+| **Main Theme**     | A child's desires lose meaning when parental presence is lost. |
 
 ### Short Summary
 
@@ -743,23 +744,23 @@ The story shows that love and security are more important to a child than materi
 
 ### Main Contrast
 
-| Before Losing Parents | After Losing Parents |
-|---|---|
+| Before Losing Parents                                               | After Losing Parents                        |
+| ------------------------------------------------------------------- | ------------------------------------------- |
 | The child wants toys, sweets, flowers, balloons, music, and a ride. | The child wants only his mother and father. |
-| The fair seems exciting. | The fair becomes frightening. |
-| Attractions appear desirable. | Attractions become meaningless. |
-| The child feels curious and playful. | The child feels helpless and terrified. |
+| The fair seems exciting.                                            | The fair becomes frightening.               |
+| Attractions appear desirable.                                       | Attractions become meaningless.             |
+| The child feels curious and playful.                                | The child feels helpless and terrified.     |
 
 ### Connection with "Vitamin-M"
 
 Both stories show family bonds through a moment of fear.
 
-| Vitamin-M | The Lost Child |
-|---|---|
-| Ravi fears Grandpa may be lost. | The child is lost from his parents. |
-| The elderly person is thought to need protection. | The child truly needs protection. |
-| Humour is used. | Fear and pathos are used. |
-| The ending reveals Grandpa's intelligence. | The ending highlights the child's emotional dependence. |
+| Vitamin-M                                         | The Lost Child                                          |
+| ------------------------------------------------- | ------------------------------------------------------- |
+| Ravi fears Grandpa may be lost.                   | The child is lost from his parents.                     |
+| The elderly person is thought to need protection. | The child truly needs protection.                       |
+| Humour is used.                                   | Fear and pathos are used.                               |
+| The ending reveals Grandpa's intelligence.        | The ending highlights the child's emotional dependence. |
 
 ## Discussion: Childhood Memories
 
@@ -793,14 +794,14 @@ This connects directly to the poem "I Cannot Remember My Mother", where the moth
 
 ## Vocabulary from Supplementary Section
 
-| Word | Meaning |
-|---|---|
-| **hover** | to remain near a place or stay in the air |
-| **hum** | to sing a tune with closed lips |
-| **cradle** | a small bed for a baby |
-| **shiuli** | a fragrant flower, also called parijat or harsingar |
-| **morning service** | rituals or prayers conducted in a temple |
-| **gaze** | to look steadily for a long time |
+| Word                | Meaning                                             |
+| ------------------- | --------------------------------------------------- |
+| **hover**           | to remain near a place or stay in the air           |
+| **hum**             | to sing a tune with closed lips                     |
+| **cradle**          | a small bed for a baby                              |
+| **shiuli**          | a fragrant flower, also called parijat or harsingar |
+| **morning service** | rituals or prayers conducted in a temple            |
+| **gaze**            | to look steadily for a long time                    |
 
 ---
 
@@ -808,14 +809,14 @@ This connects directly to the poem "I Cannot Remember My Mother", where the moth
 
 ## Text Identity
 
-| Detail | Information |
-|---|---|
-| **Title** | I Cannot Remember My Mother |
-| **Poet** | Rabindranath Tagore |
-| **Genre** | Lyric poem / memory poem |
-| **Central Emotion** | Tender longing for the mother |
-| **Main Technique** | Sensory memory |
-| **Main Message** | A loved one may not be remembered clearly, yet their presence can remain through sounds, scents, sights, and feelings. |
+| Detail              | Information                                                                                                            |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| **Title**           | I Cannot Remember My Mother                                                                                            |
+| **Poet**            | Rabindranath Tagore                                                                                                    |
+| **Genre**           | Lyric poem / memory poem                                                                                               |
+| **Central Emotion** | Tender longing for the mother                                                                                          |
+| **Main Technique**  | Sensory memory                                                                                                         |
+| **Main Message**    | A loved one may not be remembered clearly, yet their presence can remain through sounds, scents, sights, and feelings. |
 
 ## Central Idea
 
@@ -835,77 +836,77 @@ The poem suggests that memory is not always a complete picture. Sometimes it app
 
 The speaker is in the middle of play. A tune seems to float over his playthings. The tune reminds him of a song his mother used to hum while rocking his cradle. He does not remember her face clearly, but he remembers the feeling created by her song.
 
-| Key Sense | Auditory |
-|---|---|
-| Main image | lullaby-like tune |
-| Emotion | tender childhood comfort |
-| Setting | mostly indoor |
+| Key Sense  | Auditory                 |
+| ---------- | ------------------------ |
+| Main image | lullaby-like tune        |
+| Emotion    | tender childhood comfort |
+| Setting    | mostly indoor            |
 
 ### Stanza 2
 
 The speaker remembers his mother through smell. In early autumn, the fragrance of shiuli flowers floats in the air. This scent reminds him of temple morning service and becomes connected with his mother's presence.
 
-| Key Sense | Olfactory |
-|---|---|
-| Main image | shiuli fragrance |
-| Emotion | sacred tenderness |
-| Setting | outdoor |
+| Key Sense  | Olfactory         |
+| ---------- | ----------------- |
+| Main image | shiuli fragrance  |
+| Emotion    | sacred tenderness |
+| Setting    | outdoor           |
 
 ### Stanza 3
 
 The speaker looks from his bedroom window into the distant blue sky. He feels that the stillness of his mother's gaze has spread over the sky. The mother's presence becomes vast, calm, and protective.
 
-| Key Sense | Visual |
-|---|---|
-| Main image | blue sky and still gaze |
-| Emotion | serenity and longing |
-| Setting | indoor viewpoint, outdoor image |
+| Key Sense  | Visual                          |
+| ---------- | ------------------------------- |
+| Main image | blue sky and still gaze         |
+| Emotion    | serenity and longing            |
+| Setting    | indoor viewpoint, outdoor image |
 
 ## Check Your Understanding
 
 ### Stanza 1
 
-| Question | Answer |
-|---|---|
-| The poet remembers his mother while he... | plays. |
-| The poet remembers the... | tune. |
-| The poet does not remember the... | mother clearly / face clearly. |
-| Setting | indoor. |
+| Question                                  | Answer                         |
+| ----------------------------------------- | ------------------------------ |
+| The poet remembers his mother while he... | plays.                         |
+| The poet remembers the...                 | tune.                          |
+| The poet does not remember the...         | mother clearly / face clearly. |
+| Setting                                   | indoor.                        |
 
 ### Stanza 2
 
-| Question | Answer |
-|---|---|
-| The poet remembers his mother in the... | early autumn season. |
-| The poet remembers his mother by the smell of... | shiuli flowers. |
-| Setting | outdoor. |
+| Question                                         | Answer               |
+| ------------------------------------------------ | -------------------- |
+| The poet remembers his mother in the...          | early autumn season. |
+| The poet remembers his mother by the smell of... | shiuli flowers.      |
+| Setting                                          | outdoor.             |
 
 ### Stanza 3
 
-| Question | Answer |
-|---|---|
-| The poet feels that his mother... | gazes at him / watches over him. |
-| From the... | sky. |
-| Setting | indoor, as he looks from the bedroom window. |
+| Question                          | Answer                                       |
+| --------------------------------- | -------------------------------------------- |
+| The poet feels that his mother... | gazes at him / watches over him.             |
+| From the...                       | sky.                                         |
+| Setting                           | indoor, as he looks from the bedroom window. |
 
 ## Sensory References in the Poem
 
-| Stanza | Sensory Reference | Sense |
-|---|---|---|
-| **1** | tune / humming / cradle song | auditory |
-| **2** | smell of shiuli flowers / scent of temple service | olfactory |
-| **3** | blue sky / gaze | visual |
+| Stanza | Sensory Reference                                 | Sense     |
+| ------ | ------------------------------------------------- | --------- |
+| **1**  | tune / humming / cradle song                      | auditory  |
+| **2**  | smell of shiuli flowers / scent of temple service | olfactory |
+| **3**  | blue sky / gaze                                   | visual    |
 
 ## Poetic Devices
 
-| Device | Example / Explanation | Effect |
-|---|---|---|
-| **Refrain** | The repeated idea that the speaker cannot remember his mother. | Shows loss, longing, and incomplete memory. |
-| **Imagery** | Tune, flowers, scent, sky, gaze. | Makes memory vivid through the senses. |
-| **Symbolism** | Shiuli flowers symbolise purity, devotion, and memory. | Gives the mother's presence a sacred quality. |
-| **Alliteration** | Repeated soft sounds in phrases such as "my mother" and "stillness...spread". | Creates gentle musicality. |
-| **Onomatopoeia** | "hum" suggests the sound of humming. | Connects sound and memory. |
-| **Free verse** | The poem does not follow a strict rhyme scheme. | Makes the poem sound natural and reflective. |
+| Device           | Example / Explanation                                                         | Effect                                        |
+| ---------------- | ----------------------------------------------------------------------------- | --------------------------------------------- |
+| **Refrain**      | The repeated idea that the speaker cannot remember his mother.                | Shows loss, longing, and incomplete memory.   |
+| **Imagery**      | Tune, flowers, scent, sky, gaze.                                              | Makes memory vivid through the senses.        |
+| **Symbolism**    | Shiuli flowers symbolise purity, devotion, and memory.                        | Gives the mother's presence a sacred quality. |
+| **Alliteration** | Repeated soft sounds in phrases such as "my mother" and "stillness...spread". | Creates gentle musicality.                    |
+| **Onomatopoeia** | "hum" suggests the sound of humming.                                          | Connects sound and memory.                    |
+| **Free verse**   | The poem does not follow a strict rhyme scheme.                               | Makes the poem sound natural and reflective.  |
 
 ## Why the Poem Is Enjoyable Without Rhyme
 
@@ -920,10 +921,10 @@ The poem has no regular rhyme scheme, but it is still musical because of:
 
 ## Tone and Mood
 
-| Term | Explanation |
-|---|---|
+| Term     | Explanation                               |
+| -------- | ----------------------------------------- |
 | **Tone** | Tender, nostalgic, quiet, and reflective. |
-| **Mood** | Serene, wistful, emotional, and gentle. |
+| **Mood** | Serene, wistful, emotional, and gentle.   |
 
 The poet does not sound angry or dramatic. The grief is soft and inward.
 
@@ -943,14 +944,14 @@ The repeated idea that the speaker cannot remember his mother shows:
 
 ## Symbolism in the Poem
 
-| Symbol | Deeper Meaning |
-|---|---|
-| **Tune** | Mother's lullaby, care, comfort, and infancy. |
-| **Cradle** | Early childhood and dependence. |
-| **Shiuli flowers** | Sacred memory, purity, fragrance, and tenderness. |
-| **Morning service** | Devotion, prayer, and spiritual connection. |
-| **Blue sky** | Vastness, peace, protection, and the mother's continuing presence. |
-| **Gaze** | Love, watchfulness, and emotional security. |
+| Symbol              | Deeper Meaning                                                     |
+| ------------------- | ------------------------------------------------------------------ |
+| **Tune**            | Mother's lullaby, care, comfort, and infancy.                      |
+| **Cradle**          | Early childhood and dependence.                                    |
+| **Shiuli flowers**  | Sacred memory, purity, fragrance, and tenderness.                  |
+| **Morning service** | Devotion, prayer, and spiritual connection.                        |
+| **Blue sky**        | Vastness, peace, protection, and the mother's continuing presence. |
+| **Gaze**            | Love, watchfulness, and emotional security.                        |
 
 ---
 
@@ -960,25 +961,25 @@ The repeated idea that the speaker cannot remember his mother shows:
 
 ### Model Answers
 
-| Question | Answer |
-|---|---|
-| **(i) The poet is reminded of his mother during his...** | play. |
-| **(ii) Primary emotion conveyed by the tune.** | **C. It activates memories of the mother.** |
-| **(iii) Role of the hovering tune.** | It works like a bridge between the speaker's present play and his early childhood with his mother. |
-| **(iv) True or false: the tune appears only occasionally.** | **True.** The poem says this happens only sometimes. |
-| **(v) How could the poet feel his mother's presence?** | He feels her presence through remembered sound, especially the tune she may have hummed while rocking him. |
+| Question                                                    | Answer                                                                                                     |
+| ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| **(i) The poet is reminded of his mother during his...**    | play.                                                                                                      |
+| **(ii) Primary emotion conveyed by the tune.**              | **C. It activates memories of the mother.**                                                                |
+| **(iii) Role of the hovering tune.**                        | It works like a bridge between the speaker's present play and his early childhood with his mother.         |
+| **(iv) True or false: the tune appears only occasionally.** | **True.** The poem says this happens only sometimes.                                                       |
+| **(v) How could the poet feel his mother's presence?**      | He feels her presence through remembered sound, especially the tune she may have hummed while rocking him. |
 
 ## Critical Extract 2: Mother's Gaze and the Sky
 
 ### Model Answers
 
-| Question | Answer |
-|---|---|
-| **(i) What does the sky suggest?** | **B. The sky is a symbolic extension of the mother's presence.** |
-| **(ii) Emotion associated with stillness.** | **D. a sense of serenity.** Nostalgia is present in the poem, but the given extract emphasises calm stillness. |
-| **(iii) The gaze has a tangible visual effect on the sky: True or False?** | **False.** The effect is symbolic and emotional, not literal. |
-| **(iv) Purpose of comparing the gaze to the sky.** | It shows that the mother's love feels vast, calm, protective, and everywhere around the speaker. |
-| **(v) Tone of the extract.** | The tone is serene and nostalgic because the speaker feels a quiet, loving presence in the sky. |
+| Question                                                                   | Answer                                                                                                         |
+| -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| **(i) What does the sky suggest?**                                         | **B. The sky is a symbolic extension of the mother's presence.**                                               |
+| **(ii) Emotion associated with stillness.**                                | **D. a sense of serenity.** Nostalgia is present in the poem, but the given extract emphasises calm stillness. |
+| **(iii) The gaze has a tangible visual effect on the sky: True or False?** | **False.** The effect is symbolic and emotional, not literal.                                                  |
+| **(iv) Purpose of comparing the gaze to the sky.**                         | It shows that the mother's love feels vast, calm, protective, and everywhere around the speaker.               |
+| **(v) Tone of the extract.**                                               | The tone is serene and nostalgic because the speaker feels a quiet, loving presence in the sky.                |
 
 ## Short Answer Questions
 
@@ -1008,27 +1009,27 @@ The relationship was loving and tender. Even though the speaker cannot remember 
 
 ## Sensory Word Classification
 
-| Visual | Auditory | Olfactory | Tactile |
-|---|---|---|---|
-| glowing | rustle | aroma | sticky |
-| gigantic | hiss | stale | rough |
-| minuscule | sizzle | scent | chilled |
-| vibrant | deafening | pungent | fluffy |
-| crimson | squeaky | stinky | smooth |
-| gloom | ear-splitting | fragrant | slimy |
-|  |  |  | hairy |
+| Visual    | Auditory      | Olfactory | Tactile |
+| --------- | ------------- | --------- | ------- |
+| glowing   | rustle        | aroma     | sticky  |
+| gigantic  | hiss          | stale     | rough   |
+| minuscule | sizzle        | scent     | chilled |
+| vibrant   | deafening     | pungent   | fluffy  |
+| crimson   | squeaky       | stinky    | smooth  |
+| gloom     | ear-splitting | fragrant  | slimy   |
+|           |               |           | hairy   |
 
 ## Notes on Sensory Words
 
-| Word | Sense | Why |
-|---|---|---|
-| **glowing** | visual | It describes light. |
-| **hiss** | auditory | It describes a sound. |
-| **aroma** | olfactory | It describes smell. |
-| **sticky** | tactile | It describes touch. |
-| **crimson** | visual | It is a colour. |
+| Word        | Sense     | Why                          |
+| ----------- | --------- | ---------------------------- |
+| **glowing** | visual    | It describes light.          |
+| **hiss**    | auditory  | It describes a sound.        |
+| **aroma**   | olfactory | It describes smell.          |
+| **sticky**  | tactile   | It describes touch.          |
+| **crimson** | visual    | It is a colour.              |
 | **pungent** | olfactory | It describes a strong smell. |
-| **fluffy** | tactile | It describes texture. |
+| **fluffy**  | tactile   | It describes texture.        |
 
 ## Sarojini Naidu Passage: Suggested Answers
 
@@ -1038,28 +1039,28 @@ The raw exercise gives the word box:
 
 Suggested completion:
 
-| Blank | Answer | Reason |
-|---|---|---|
-| **1** | scarlet | Scarlet describes the colour of lilies. |
-| **2** | perfumes | Neem, champak, and serisha can release fragrance. |
-| **3** | sweetness | The air is filled with sweet fragrance. |
-| **4** | shrill | Birds can produce high-pitched sounds. |
-| **5** | scents | Heavy scents can represent emotions. |
-| **6** | essence | Emotions can be imagined as aerial essence. |
-| **7** | flaming | It describes the bright blue and gold sky. |
+| Blank | Answer    | Reason                                            |
+| ----- | --------- | ------------------------------------------------- |
+| **1** | scarlet   | Scarlet describes the colour of lilies.           |
+| **2** | perfumes  | Neem, champak, and serisha can release fragrance. |
+| **3** | sweetness | The air is filled with sweet fragrance.           |
+| **4** | shrill    | Birds can produce high-pitched sounds.            |
+| **5** | scents    | Heavy scents can represent emotions.              |
+| **6** | essence   | Emotions can be imagined as aerial essence.       |
+| **7** | flaming   | It describes the bright blue and gold sky.        |
 
 Extra words: **sizzle**, **smooth**.
 
 ## Sensory Phrase Matching
 
-| Phrase | Dominant Sense |
-|---|---|
-| beats of music echo in air | auditory |
+| Phrase                                       | Dominant Sense                    |
+| -------------------------------------------- | --------------------------------- |
+| beats of music echo in air                   | auditory                          |
 | melody of soothing scent, dancing in the air | olfactory with musical comparison |
-| fragrant breeze of blooming buds | olfactory and tactile |
-| gentle lullaby, a soft melody | auditory |
-| colourful sky, painting a lively sight | visual |
-| attractive canvas painting the horizon | visual |
+| fragrant breeze of blooming buds             | olfactory and tactile             |
+| gentle lullaby, a soft melody                | auditory                          |
+| colourful sky, painting a lively sight       | visual                            |
+| attractive canvas painting the horizon       | visual                            |
 
 ---
 
@@ -1071,14 +1072,14 @@ The raw chapter asks learners to match statements with four speakers.
 
 Use this listening strategy:
 
-| Statement Theme | Listen For |
-|---|---|
-| Seaside memories | beach, sea, waves, shore, sand, changed place |
-| Grandfather's encouragement | advice, courage, difficult times, support |
-| School days | classmates, teachers, school building, staying in touch |
-| Outdoor freedom | running, games, fields, open spaces, ordinary pleasures |
-| Grandparents and funny tales | stories, humour, grandparents |
-| Adventure with limits | parents, discovery, nature, warning, safety |
+| Statement Theme              | Listen For                                              |
+| ---------------------------- | ------------------------------------------------------- |
+| Seaside memories             | beach, sea, waves, shore, sand, changed place           |
+| Grandfather's encouragement  | advice, courage, difficult times, support               |
+| School days                  | classmates, teachers, school building, staying in touch |
+| Outdoor freedom              | running, games, fields, open spaces, ordinary pleasures |
+| Grandparents and funny tales | stories, humour, grandparents                           |
+| Adventure with limits        | parents, discovery, nature, warning, safety             |
 
 ## Speaking Activity: Memorable Object, Song, or Place
 
@@ -1108,14 +1109,14 @@ Imagine you went on a school trip to a scenic place that appealed to all your se
 
 ### Diary Entry Checklist
 
-| Requirement | What To Include |
-|---|---|
-| Day, date, time | Start at the top. |
-| First person | Use I, me, my, we, us. |
-| Sensory detail | Sight, sound, smell, touch, taste if relevant. |
-| Emotion | Joy, wonder, peace, fear, excitement, gratitude. |
-| Specific moment | One scene that made the trip memorable. |
-| Reflection | What you learned or felt at the end. |
+| Requirement     | What To Include                                  |
+| --------------- | ------------------------------------------------ |
+| Day, date, time | Start at the top.                                |
+| First person    | Use I, me, my, we, us.                           |
+| Sensory detail  | Sight, sound, smell, touch, taste if relevant.   |
+| Emotion         | Joy, wonder, peace, fear, excitement, gratitude. |
+| Specific moment | One scene that made the trip memorable.          |
+| Reflection      | What you learned or felt at the end.             |
 
 ### Model Diary Entry
 
@@ -1132,13 +1133,13 @@ This trip will remain special because it taught me to observe slowly. I returned
 
 ## Diary Writing: Common Mistakes
 
-| Mistake | Better Approach |
-|---|---|
-| Writing like a formal report. | Use personal feelings and first person. |
-| Only listing events. | Include sensory details and reflection. |
-| Forgetting date and time. | Put day, date, and time at the top. |
-| Using too many unrelated details. | Focus on one memorable experience. |
-| Ending suddenly. | Conclude with what the day meant to you. |
+| Mistake                           | Better Approach                          |
+| --------------------------------- | ---------------------------------------- |
+| Writing like a formal report.     | Use personal feelings and first person.  |
+| Only listing events.              | Include sensory details and reflection.  |
+| Forgetting date and time.         | Put day, date, and time at the top.      |
+| Using too many unrelated details. | Focus on one memorable experience.       |
+| Ending suddenly.                  | Conclude with what the day meant to you. |
 
 ---
 
@@ -1148,33 +1149,33 @@ This trip will remain special because it taught me to observe slowly. I returned
 
 The poem mentions shiuli flowers. These flowers are culturally important in India.
 
-| Feature | Information |
-|---|---|
-| Other names | Parijat, Parijata, Harsingar, night-flowering jasmine |
-| Blooming time | Usually at night and early morning |
-| Fragrance | Sweet and delicate |
-| Cultural use | Used in worship and ceremonies |
-| Symbolic value | Purity, memory, devotion, and tenderness |
+| Feature        | Information                                           |
+| -------------- | ----------------------------------------------------- |
+| Other names    | Parijat, Parijata, Harsingar, night-flowering jasmine |
+| Blooming time  | Usually at night and early morning                    |
+| Fragrance      | Sweet and delicate                                    |
+| Cultural use   | Used in worship and ceremonies                        |
+| Symbolic value | Purity, memory, devotion, and tenderness              |
 
 ## Unique Flowers of India: Project Table
 
-| Flower | Where Found | Appearance | Fragrance | Cultural / Historical Significance |
-|---|---|---|---|---|
-| **Shiuli / Parijat** | Many parts of India | White petals with orange centre | Sweet | Used in worship; linked with legends. |
-| **Neelakurinji** | Western Ghats | Bluish-purple flowers | Mild | Famous for blooming once in about twelve years. |
-| **Lotus** | Ponds and wetlands | Large pink or white flower | Mild | National flower of India; symbol of purity. |
-| **Champak** | Tropical regions | Yellow or orange fragrant flowers | Strong and sweet | Used in worship and perfumes. |
-| **Rhododendron** | Himalayan regions | Red, pink, or white clusters | Mild | State flower in some Himalayan areas; linked with mountain ecology. |
+| Flower               | Where Found         | Appearance                        | Fragrance        | Cultural / Historical Significance                                  |
+| -------------------- | ------------------- | --------------------------------- | ---------------- | ------------------------------------------------------------------- |
+| **Shiuli / Parijat** | Many parts of India | White petals with orange centre   | Sweet            | Used in worship; linked with legends.                               |
+| **Neelakurinji**     | Western Ghats       | Bluish-purple flowers             | Mild             | Famous for blooming once in about twelve years.                     |
+| **Lotus**            | Ponds and wetlands  | Large pink or white flower        | Mild             | National flower of India; symbol of purity.                         |
+| **Champak**          | Tropical regions    | Yellow or orange fragrant flowers | Strong and sweet | Used in worship and perfumes.                                       |
+| **Rhododendron**     | Himalayan regions   | Red, pink, or white clusters      | Mild             | State flower in some Himalayan areas; linked with mountain ecology. |
 
 ## Supplementary Poem: I Remember, I Remember
 
 ### Text Identity
 
-| Detail | Information |
-|---|---|
-| **Title** | I Remember, I Remember |
-| **Poet** | Thomas Hood |
-| **Theme** | Childhood memory, nostalgia, and contrast between past and present |
+| Detail         | Information                                                          |
+| -------------- | -------------------------------------------------------------------- |
+| **Title**      | I Remember, I Remember                                               |
+| **Poet**       | Thomas Hood                                                          |
+| **Theme**      | Childhood memory, nostalgia, and contrast between past and present   |
 | **Connection** | Like Tagore's poem, it shows how childhood memories remain powerful. |
 
 ### Short Appreciation
@@ -1183,12 +1184,12 @@ The speaker remembers the house where he was born, the window, sunlight, flowers
 
 ### Connection with "I Cannot Remember My Mother"
 
-| Tagore's Poem | Hood's Poem |
-|---|---|
-| Focuses on memory of mother through fragments. | Focuses on memory of childhood home. |
-| Uses tune, fragrance, sky, and gaze. | Uses house, window, sunlight, flowers, and trees. |
-| Quiet, spiritual, tender. | Nostalgic and more openly sorrowful. |
-| Repetition stresses inability to remember clearly. | Repetition stresses strong remembering. |
+| Tagore's Poem                                      | Hood's Poem                                       |
+| -------------------------------------------------- | ------------------------------------------------- |
+| Focuses on memory of mother through fragments.     | Focuses on memory of childhood home.              |
+| Uses tune, fragrance, sky, and gaze.               | Uses house, window, sunlight, flowers, and trees. |
+| Quiet, spiritual, tender.                          | Nostalgic and more openly sorrowful.              |
+| Repetition stresses inability to remember clearly. | Repetition stresses strong remembering.           |
 
 ---
 
@@ -1196,59 +1197,59 @@ The speaker remembers the house where he was born, the window, sunlight, flowers
 
 ## Prose: Vitamin-M
 
-| Item | Key Point |
-|---|---|
-| Author | Asha Nehemiah |
-| Genre | Humorous family story |
-| Main character | Grandpa |
-| Young character | Ravi |
-| Main issue | Elderly care versus independence |
-| Title meaning | Memory vitamin; also an ironic joke |
-| Main irony | Grandpa is treated as forgetful, but Vidya forgets his birthday. |
-| Grandpa's qualities | Clever, generous, witty, independent, observant |
-| Ravi's qualities | Caring, anxious, loyal, inexperienced |
-| Main message | Protect elderly people without taking away dignity. |
+| Item                | Key Point                                                        |
+| ------------------- | ---------------------------------------------------------------- |
+| Author              | Asha Nehemiah                                                    |
+| Genre               | Humorous family story                                            |
+| Main character      | Grandpa                                                          |
+| Young character     | Ravi                                                             |
+| Main issue          | Elderly care versus independence                                 |
+| Title meaning       | Memory vitamin; also an ironic joke                              |
+| Main irony          | Grandpa is treated as forgetful, but Vidya forgets his birthday. |
+| Grandpa's qualities | Clever, generous, witty, independent, observant                  |
+| Ravi's qualities    | Caring, anxious, loyal, inexperienced                            |
+| Main message        | Protect elderly people without taking away dignity.              |
 
 ## Poem: I Cannot Remember My Mother
 
-| Item | Key Point |
-|---|---|
-| Poet | Rabindranath Tagore |
-| Main theme | Memory of mother through sensory fragments |
-| Dominant emotion | Tender nostalgia |
-| Main device | Refrain |
-| Key senses | Hearing, smell, sight |
+| Item              | Key Point                                               |
+| ----------------- | ------------------------------------------------------- |
+| Poet              | Rabindranath Tagore                                     |
+| Main theme        | Memory of mother through sensory fragments              |
+| Dominant emotion  | Tender nostalgia                                        |
+| Main device       | Refrain                                                 |
+| Key senses        | Hearing, smell, sight                                   |
 | Important symbols | Tune, cradle, shiuli flowers, temple service, sky, gaze |
-| Tone | Serene, wistful, reflective |
-| Message | Love can remain even when clear memory fades. |
+| Tone              | Serene, wistful, reflective                             |
+| Message           | Love can remain even when clear memory fades.           |
 
 ## Grammar and Vocabulary
 
-| Area | Key Learning |
-|---|---|
-| Movement words | Show physical action and make narration lively. |
-| Sound words | Help create atmosphere and humour. |
-| Prepositions | Show place, direction, and relationship. |
-| Interrogatives | Questions can be Yes/No or Wh-type. |
-| Reported speech | Yes/No questions use if/whether; Wh-questions keep the Wh-word. |
-| Intonation | The voice rises or falls depending on question type. |
-| Sensory vocabulary | Helps create vivid description in poetry and diary writing. |
+| Area               | Key Learning                                                    |
+| ------------------ | --------------------------------------------------------------- |
+| Movement words     | Show physical action and make narration lively.                 |
+| Sound words        | Help create atmosphere and humour.                              |
+| Prepositions       | Show place, direction, and relationship.                        |
+| Interrogatives     | Questions can be Yes/No or Wh-type.                             |
+| Reported speech    | Yes/No questions use if/whether; Wh-questions keep the Wh-word. |
+| Intonation         | The voice rises or falls depending on question type.            |
+| Sensory vocabulary | Helps create vivid description in poetry and diary writing.     |
 
 ---
 
 # Unit 4M: Common Mistakes and Corrections
 
-| Mistake | Better Understanding |
-|---|---|
-| Saying Grandpa is only forgetful. | He is also clever, observant, and emotionally intelligent. |
-| Blaming Ravi's mother completely. | She is anxious because real safety incidents happened earlier. |
-| Thinking care means control. | Care must include dignity and choice. |
-| Missing the irony in Vitamin-M. | The person accused of weak memory remembers important things. |
-| Calling the story only funny. | It is humorous, but it also discusses ageing and family respect. |
-| Treating the poem as only sad. | It is sad, tender, peaceful, and spiritually comforting. |
-| Confusing imagery and symbolism. | Imagery appeals to senses; symbolism suggests deeper meaning. |
-| Forgetting reported speech word order. | Use statement order after if/whether or Wh-word. |
-| Writing diary entries like essays. | Diary entries should be personal, dated, sensory, and reflective. |
+| Mistake                                | Better Understanding                                              |
+| -------------------------------------- | ----------------------------------------------------------------- |
+| Saying Grandpa is only forgetful.      | He is also clever, observant, and emotionally intelligent.        |
+| Blaming Ravi's mother completely.      | She is anxious because real safety incidents happened earlier.    |
+| Thinking care means control.           | Care must include dignity and choice.                             |
+| Missing the irony in Vitamin-M.        | The person accused of weak memory remembers important things.     |
+| Calling the story only funny.          | It is humorous, but it also discusses ageing and family respect.  |
+| Treating the poem as only sad.         | It is sad, tender, peaceful, and spiritually comforting.          |
+| Confusing imagery and symbolism.       | Imagery appeals to senses; symbolism suggests deeper meaning.     |
+| Forgetting reported speech word order. | Use statement order after if/whether or Wh-word.                  |
+| Writing diary entries like essays.     | Diary entries should be personal, dated, sensory, and reflective. |
 
 ---
 
@@ -1358,4 +1359,4 @@ For writing:
 
 ---
 
-*Source: NCERT Class 9 - English Beehive, Chapter 4 raw file. Learner-facing version manually rewritten from the extracted chapter content about "Vitamin-M", elderly care, family memory, "I Cannot Remember My Mother", and supplementary memory-themed texts.*
+_Source: NCERT Class 9 - English Beehive, Chapter 4 raw file. Learner-facing version manually rewritten from the extracted chapter content about "Vitamin-M", elderly care, family memory, "I Cannot Remember My Mother", and supplementary memory-themed texts._

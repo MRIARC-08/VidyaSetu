@@ -1,4 +1,5 @@
 # Chapter 3: Social Institutions: Continuity and Change
+
 ### NCERT Class 12 - Sociology Indian Society
 
 ## Chapter at a Glance
@@ -27,32 +28,32 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Social institution | Stable pattern of norms and relationships organising social life. |
-| Caste | Birth-based hierarchical social institution associated with status, marriage, food, occupation, and social separation. |
-| Varna | Broad four-fold classification in Hindu tradition. |
-| Jati | Local or regional caste group, often the practical unit of caste life. |
-| Endogamy | Marriage within a group. |
-| Segmental organisation | Caste divided into sub-castes and further sub-groups. |
-| Purity and pollution | Ritual hierarchy used to rank castes. |
-| Tribe | Community category often associated with shared territory, culture, kinship, and historical marginalisation. |
-| Adivasi | Term meaning original inhabitants, often used for tribal communities. |
-| Nuclear family | Family with one set of parents and their children. |
-| Extended family | Family with more than one couple or more than two generations living together. |
-| Patrilocal | Couple lives with or near husband's family after marriage. |
-| Matrilocal | Couple lives with or near wife's family after marriage. |
-| Patrilineal | Descent or inheritance traced through male line. |
-| Matrilineal | Descent or inheritance traced through female line. |
-| Patriarchy | Social arrangement where men hold authority and dominance. |
+| Term                   | Meaning                                                                                                                |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Social institution     | Stable pattern of norms and relationships organising social life.                                                      |
+| Caste                  | Birth-based hierarchical social institution associated with status, marriage, food, occupation, and social separation. |
+| Varna                  | Broad four-fold classification in Hindu tradition.                                                                     |
+| Jati                   | Local or regional caste group, often the practical unit of caste life.                                                 |
+| Endogamy               | Marriage within a group.                                                                                               |
+| Segmental organisation | Caste divided into sub-castes and further sub-groups.                                                                  |
+| Purity and pollution   | Ritual hierarchy used to rank castes.                                                                                  |
+| Tribe                  | Community category often associated with shared territory, culture, kinship, and historical marginalisation.           |
+| Adivasi                | Term meaning original inhabitants, often used for tribal communities.                                                  |
+| Nuclear family         | Family with one set of parents and their children.                                                                     |
+| Extended family        | Family with more than one couple or more than two generations living together.                                         |
+| Patrilocal             | Couple lives with or near husband's family after marriage.                                                             |
+| Matrilocal             | Couple lives with or near wife's family after marriage.                                                                |
+| Patrilineal            | Descent or inheritance traced through male line.                                                                       |
+| Matrilineal            | Descent or inheritance traced through female line.                                                                     |
+| Patriarchy             | Social arrangement where men hold authority and dominance.                                                             |
 
 ## Concept Map
 
-| Institution | Continuity | Change |
-|---|---|---|
-| Caste | Birth identity, endogamy, status hierarchy persist. | Occupations, politics, law, education, and urban life have changed caste practices. |
-| Tribe | Community identity, territory, culture, resource ties remain important. | Development, displacement, migration, education, and state policy reshape tribal identity. |
-| Family | Kinship, care, inheritance, marriage remain important. | Nuclearisation, migration, women-headed households, love marriage, work schedules, and changing gender norms alter forms. |
+| Institution | Continuity                                                              | Change                                                                                                                    |
+| ----------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Caste       | Birth identity, endogamy, status hierarchy persist.                     | Occupations, politics, law, education, and urban life have changed caste practices.                                       |
+| Tribe       | Community identity, territory, culture, resource ties remain important. | Development, displacement, migration, education, and state policy reshape tribal identity.                                |
+| Family      | Kinship, care, inheritance, marriage remain important.                  | Nuclearisation, migration, women-headed households, love marriage, work schedules, and changing gender norms alter forms. |
 
 # Unit 3A: Social Institutions
 
@@ -496,15 +497,15 @@ This shows that family change is linked to economy.
 
 # Unit 3S: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Treating caste as only ancient and absent today. | Caste has changed but remains socially and politically significant. |
-| Confusing varna and jati. | Varna is broad classification; jati is local caste group. |
-| Saying colonialism created caste from nothing. | Colonialism reshaped and fixed caste identities, but caste existed earlier. |
+| Mistake                                            | Correction                                                                               |
+| -------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Treating caste as only ancient and absent today.   | Caste has changed but remains socially and politically significant.                      |
+| Confusing varna and jati.                          | Varna is broad classification; jati is local caste group.                                |
+| Saying colonialism created caste from nothing.     | Colonialism reshaped and fixed caste identities, but caste existed earlier.              |
 | Treating tribes as isolated stone-age communities. | Tribal groups have long interacted with states, markets, caste society, and development. |
-| Assuming all tribal people have same interests. | Tribal societies also have internal class and regional differences. |
-| Treating joint family as universal in India. | Family forms are diverse and changing. |
-| Confusing matriliny with matriarchy. | Matriliny is inheritance through women; matriarchy means women hold dominance. |
+| Assuming all tribal people have same interests.    | Tribal societies also have internal class and regional differences.                      |
+| Treating joint family as universal in India.       | Family forms are diverse and changing.                                                   |
+| Confusing matriliny with matriarchy.               | Matriliny is inheritance through women; matriarchy means women hold dominance.           |
 
 ## Practice Set
 

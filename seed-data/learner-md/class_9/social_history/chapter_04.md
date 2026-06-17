@@ -1,20 +1,21 @@
 # Chapter 4: Forest Society and Colonialism
+
 ### NCERT Class 9 — Social History
 
 ---
 
 ## 📌 Chapter at a Glance
 
-| Detail | Info |
-|---|---|
-| Chapter | 4 — Forest Society and Colonialism |
-| Class | Class 9 |
-| Subject | Social History |
-| Pilot Subject Family | History |
-| Source File | `data/class_9/social_history/chapter_04.md` |
-| Textbook Pages | 75 – 96 |
-| Raw Exercise Count | 8 |
-| Formatting Mode | Human-guided pilot for subject-specific automation |
+| Detail               | Info                                               |
+| -------------------- | -------------------------------------------------- |
+| Chapter              | 4 — Forest Society and Colonialism                 |
+| Class                | Class 9                                            |
+| Subject              | Social History                                     |
+| Pilot Subject Family | History                                            |
+| Source File          | `data/class_9/social_history/chapter_04.md`        |
+| Textbook Pages       | 75 – 96                                            |
+| Raw Exercise Count   | 8                                                  |
+| Formatting Mode      | Human-guided pilot for subject-specific automation |
 
 ---
 
@@ -23,59 +24,59 @@
 > [!NOTE]
 > Study this chapter through this route: **time period -> actors -> causes -> events/processes -> consequences -> historical interpretation**.
 
-| Step | Learner Action | Why It Matters |
-|---|---|---|
-| 1 | Build a timeline before memorising details. | Builds reliable recall and answer quality. |
-| 2 | Separate causes, course, and consequences for each historical process. | Builds reliable recall and answer quality. |
-| 3 | Track people, places, dates, and sources in separate tables. | Builds reliable recall and answer quality. |
-| 4 | Notice how maps, images, and primary sources support the narrative. | Builds reliable recall and answer quality. |
+| Step | Learner Action                                                         | Why It Matters                             |
+| ---- | ---------------------------------------------------------------------- | ------------------------------------------ |
+| 1    | Build a timeline before memorising details.                            | Builds reliable recall and answer quality. |
+| 2    | Separate causes, course, and consequences for each historical process. | Builds reliable recall and answer quality. |
+| 3    | Track people, places, dates, and sources in separate tables.           | Builds reliable recall and answer quality. |
+| 4    | Notice how maps, images, and primary sources support the narrative.    | Builds reliable recall and answer quality. |
 
 ---
 
 ## 🎯 Learning Outcomes
 
-| # | After studying this chapter, you should be able to... |
-|---|---|
-| 1 | place events, people, and processes in chronological order |
-| 2 | explain causes, developments, consequences, and historical significance |
-| 3 | interpret maps, sources, images, and timelines as historical evidence |
-| 4 | explain the role of 'The Woodcutters of Java' in the chapter |
-| 5 | explain the role of 'Dutch Scientific Forestry' in the chapter |
-| 6 | explain the role of 'Samin’s Challenge' in the chapter |
+| #   | After studying this chapter, you should be able to...                   |
+| --- | ----------------------------------------------------------------------- |
+| 1   | place events, people, and processes in chronological order              |
+| 2   | explain causes, developments, consequences, and historical significance |
+| 3   | interpret maps, sources, images, and timelines as historical evidence   |
+| 4   | explain the role of 'The Woodcutters of Java' in the chapter            |
+| 5   | explain the role of 'Dutch Scientific Forestry' in the chapter          |
+| 6   | explain the role of 'Samin’s Challenge' in the chapter                  |
 
 ---
 
 ## 🗂️ Section Structure
 
-| Section | Title | Revision Focus |
-|---|---|---|
-| 4.1 | The Woodcutters of Java | Definition, explanation, examples, and likely questions |
-| 4.2 | Dutch Scientific Forestry | Definition, explanation, examples, and likely questions |
-| 4.3 | Samin’s Challenge | Definition, explanation, examples, and likely questions |
-| 4.4 | War and Deforestation | Definition, explanation, examples, and likely questions |
-| 4.5 | New Developments in Forestry | Definition, explanation, examples, and likely questions |
+| Section | Title                        | Revision Focus                                          |
+| ------- | ---------------------------- | ------------------------------------------------------- |
+| 4.1     | The Woodcutters of Java      | Definition, explanation, examples, and likely questions |
+| 4.2     | Dutch Scientific Forestry    | Definition, explanation, examples, and likely questions |
+| 4.3     | Samin’s Challenge            | Definition, explanation, examples, and likely questions |
+| 4.4     | War and Deforestation        | Definition, explanation, examples, and likely questions |
+| 4.5     | New Developments in Forestry | Definition, explanation, examples, and likely questions |
 
 ---
 
 ## 🧠 Subject-Specific Study Method
 
-| Part | How to Use It |
-|---|---|
-| Core lens | time period -> actors -> causes -> events/processes -> consequences -> historical interpretation |
-| First pass | Read for meaning and mark unfamiliar terms. |
-| Second pass | Convert definitions, examples, data, and activities into tables. |
-| Revision pass | Use the quick reference and practice tracker at the end. |
+| Part          | How to Use It                                                                                    |
+| ------------- | ------------------------------------------------------------------------------------------------ |
+| Core lens     | time period -> actors -> causes -> events/processes -> consequences -> historical interpretation |
+| First pass    | Read for meaning and mark unfamiliar terms.                                                      |
+| Second pass   | Convert definitions, examples, data, and activities into tables.                                 |
+| Revision pass | Use the quick reference and practice tracker at the end.                                         |
 
 ---
 
 ## 🧭 Concept, Evidence, and Example Board
 
-| Learning Need | How To Build It |
-|---|---|
-| Core concepts | Turn each definition into a one-line meaning and one example. |
-| Evidence | Use dates, places, maps, data, thinkers, laws, institutions, or case studies from the chapter. |
-| Comparison | Prepare tables for contrasts, causes, consequences, and viewpoints. |
-| Answer quality | Move from description to explanation to significance. |
+| Learning Need  | How To Build It                                                                                |
+| -------------- | ---------------------------------------------------------------------------------------------- |
+| Core concepts  | Turn each definition into a one-line meaning and one example.                                  |
+| Evidence       | Use dates, places, maps, data, thinkers, laws, institutions, or case studies from the chapter. |
+| Comparison     | Prepare tables for contrasts, causes, consequences, and viewpoints.                            |
+| Answer quality | Move from description to explanation to significance.                                          |
 
 ---
 
@@ -303,9 +304,9 @@ Activities Reprint 2025-26
 
 ## 🔑 Key Concepts & Definitions
 
-| Term | Learner-Friendly Meaning |
-|---|---|
-| **This** | a plantation |
+| Term     | Learner-Friendly Meaning |
+| -------- | ------------------------ |
+| **This** | a plantation             |
 
 ---
 
@@ -318,72 +319,72 @@ Activities Reprint 2025-26
 
 ## 🔬 Activities, Projects, and Inquiry Prompts
 
-| # | Prompt | Learner Task |
-|---|---|---|
-| 1 | Activity | Observe, discuss, collect evidence, or write a short response. |
-| 2 | 1. Have there been changes in forest areas where you live? Find out what these | Observe, discuss, collect evidence, or write a short response. |
-| 3 | 1. Discuss how the changes in forest management in the colonial period affected | Observe, discuss, collect evidence, or write a short response. |
+| #   | Prompt                                                                          | Learner Task                                                   |
+| --- | ------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| 1   | Activity                                                                        | Observe, discuss, collect evidence, or write a short response. |
+| 2   | 1. Have there been changes in forest areas where you live? Find out what these  | Observe, discuss, collect evidence, or write a short response. |
+| 3   | 1. Discuss how the changes in forest management in the colonial period affected | Observe, discuss, collect evidence, or write a short response. |
 
 ---
 
 ## ✏️ Practice & Exercise Tracker
 
-| Q | Question / Task | Answer Strategy |
-|---|---|---|
-| 1 | 1. Have there been changes in forest areas where you live? Find out what these changes are and why they have happened. | Identify command word, recall concept, structure answer, then review. |
-| 2 | 2. Write a dialogue between a colonial forester and an adivasi discussing the issue of hunting in the forest. | Identify command word, recall concept, structure answer, then review. |
-| 3 | 1. Discuss how the changes in forest management in the colonial period affected the following groups of people: /head2rightShifting cultivators /head2rightNomadic and pastoralist communities /head2rightFirms trading in timber/forest produce /head2rightPlantation owners /head2rightKings/British officials engaged in shikar (hunting) | Identify command word, recall concept, structure answer, then review. |
-| 4 | 2. What are the similarities between colonial management of the forests in Bastar and in Java? | Identify command word, recall concept, structure answer, then review. |
-| 5 | 3. Between 1880 and 1920, forest cover in the Indian subcontinent declined by 9.7 million hectares, from 108.6 million hectares to 98.9 million hectares. Discuss the role of the following factors in this decline: /head2rightRailways /head2rightShipbuilding /head2rightAgricultural expansion /head2rightCommercial farming /head2rightTea/Coffee plantations /head2rightAdivasis and other peasant users | Identify command word, recall concept, structure answer, then review. |
-| 6 | 4. Why are forests affected by wars? Activities Reprint 2025-26 **Q1.** 1 Why Deforestation? **Q2.** what were the steps you would have taken? **Q3.** 1 How were the Lives of People Affected? **Q4.** 2 How did Forest Rules Affect Cultivation? **Q5.** How many species of trees can you name? **Q6.** 3 Who could Hunt? **Q7.** government does not take care of us? | Identify command word, recall concept, structure answer, then review. |
+| Q   | Question / Task                                                                                                                                                                                                                                                                                                                                                                                                | Answer Strategy                                                       |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| 1   | 1. Have there been changes in forest areas where you live? Find out what these changes are and why they have happened.                                                                                                                                                                                                                                                                                         | Identify command word, recall concept, structure answer, then review. |
+| 2   | 2. Write a dialogue between a colonial forester and an adivasi discussing the issue of hunting in the forest.                                                                                                                                                                                                                                                                                                  | Identify command word, recall concept, structure answer, then review. |
+| 3   | 1. Discuss how the changes in forest management in the colonial period affected the following groups of people: /head2rightShifting cultivators /head2rightNomadic and pastoralist communities /head2rightFirms trading in timber/forest produce /head2rightPlantation owners /head2rightKings/British officials engaged in shikar (hunting)                                                                   | Identify command word, recall concept, structure answer, then review. |
+| 4   | 2. What are the similarities between colonial management of the forests in Bastar and in Java?                                                                                                                                                                                                                                                                                                                 | Identify command word, recall concept, structure answer, then review. |
+| 5   | 3. Between 1880 and 1920, forest cover in the Indian subcontinent declined by 9.7 million hectares, from 108.6 million hectares to 98.9 million hectares. Discuss the role of the following factors in this decline: /head2rightRailways /head2rightShipbuilding /head2rightAgricultural expansion /head2rightCommercial farming /head2rightTea/Coffee plantations /head2rightAdivasis and other peasant users | Identify command word, recall concept, structure answer, then review. |
+| 6   | 4. Why are forests affected by wars? Activities Reprint 2025-26 **Q1.** 1 Why Deforestation? **Q2.** what were the steps you would have taken? **Q3.** 1 How were the Lives of People Affected? **Q4.** 2 How did Forest Rules Affect Cultivation? **Q5.** How many species of trees can you name? **Q6.** 3 Who could Hunt? **Q7.** government does not take care of us?                                      | Identify command word, recall concept, structure answer, then review. |
 
 ---
 
 ## 🧩 Answer-Writing Framework
 
-| Step | What To Do |
-|---|---|
-| 1 | Place the event or process in time and region. |
-| 2 | Name the main actors or groups. |
-| 3 | Explain causes and conditions. |
-| 4 | Describe major developments in sequence. |
-| 5 | End with consequences or historical significance. |
+| Step | What To Do                                        |
+| ---- | ------------------------------------------------- |
+| 1    | Place the event or process in time and region.    |
+| 2    | Name the main actors or groups.                   |
+| 3    | Explain causes and conditions.                    |
+| 4    | Describe major developments in sequence.          |
+| 5    | End with consequences or historical significance. |
 
 ---
 
 ## ⚠️ Common Misconceptions
 
-| # | Watch Out For This |
-|---|---|
-| 1 | History is not only dates; dates support change over time. |
-| 2 | Do not confuse immediate causes with long-term causes. |
-| 3 | A source or image must be interpreted, not merely described. |
+| #   | Watch Out For This                                           |
+| --- | ------------------------------------------------------------ |
+| 1   | History is not only dates; dates support change over time.   |
+| 2   | Do not confuse immediate causes with long-term causes.       |
+| 3   | A source or image must be interpreted, not merely described. |
 
 ---
 
 ## 📋 Quick Revision Sheet
 
-| Revision Item | What To Recall |
-|---|---|
-| Chapter core | Forest Society and Colonialism |
-| 4.1 | The Woodcutters of Java |
-| 4.2 | Dutch Scientific Forestry |
-| 4.3 | Samin’s Challenge |
-| 4.4 | War and Deforestation |
-| 4.5 | New Developments in Forestry |
-| Definition | This |
+| Revision Item | What To Recall                 |
+| ------------- | ------------------------------ |
+| Chapter core  | Forest Society and Colonialism |
+| 4.1           | The Woodcutters of Java        |
+| 4.2           | Dutch Scientific Forestry      |
+| 4.3           | Samin’s Challenge              |
+| 4.4           | War and Deforestation          |
+| 4.5           | New Developments in Forestry   |
+| Definition    | This                           |
 
 ---
 
 ## ✅ Pilot Quality Checklist
 
-| Check | Status |
-|---|---|
-| Raw data preserved | Yes — chapter content is retained and cleaned, not summarised away. |
-| Learner scaffolding added | Yes — roadmap, outcomes, answer framework, misconceptions, and revision sheet. |
-| Subject-aware structure | Yes — generated from the selected subject family profile. |
-| Needs human review | Yes — especially source extraction mismatches, diagrams, tables, formulas, and broken OCR words. |
+| Check                     | Status                                                                                           |
+| ------------------------- | ------------------------------------------------------------------------------------------------ |
+| Raw data preserved        | Yes — chapter content is retained and cleaned, not summarised away.                              |
+| Learner scaffolding added | Yes — roadmap, outcomes, answer framework, misconceptions, and revision sheet.                   |
+| Subject-aware structure   | Yes — generated from the selected subject family profile.                                        |
+| Needs human review        | Yes — especially source extraction mismatches, diagrams, tables, formulas, and broken OCR words. |
 
 ---
 
-*Source: NCERT Class 9 — Social History, Chapter 4. Raw file: `data/class_9/social_history/chapter_04.md`.*
+_Source: NCERT Class 9 — Social History, Chapter 4. Raw file: `data/class_9/social_history/chapter_04.md`._

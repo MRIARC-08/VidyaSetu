@@ -23,19 +23,19 @@ The main idea is that stress is not simply an event or a bodily reaction. It is 
 
 ## Key Terms
 
-| Term | Meaning | Why it matters |
-|---|---|---|
-| Stress | Pattern of responses made when demands disturb equilibrium and exceed coping ability | Central concept of the chapter |
-| Stressor | Event or condition that produces stress response | Helps identify causes of strain |
-| Strain | Reaction to external stressors | Shows how stress is experienced |
-| Eustress | Helpful level of stress that energises performance | Not all stress is harmful |
-| Distress | Harmful stress that causes wear and tear | Can damage health and functioning |
-| Appraisal | Evaluation of an event and one's coping resources | Determines whether an event becomes stressful |
-| Primary appraisal | Evaluation of whether an event is positive, neutral, harmful, threatening, or challenging | First stage in stress perception |
-| Secondary appraisal | Evaluation of coping resources available to deal with the event | Determines confidence or helplessness |
-| Coping | Efforts to manage stress demands | Reduces or handles stress |
-| Hardiness | Stress-resistant personality pattern involving commitment, control, and challenge | Protects health under stress |
-| Resilience | Capacity to maintain or regain positive adjustment under adversity | Helps people recover after trauma or difficulty |
+| Term                | Meaning                                                                                   | Why it matters                                  |
+| ------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| Stress              | Pattern of responses made when demands disturb equilibrium and exceed coping ability      | Central concept of the chapter                  |
+| Stressor            | Event or condition that produces stress response                                          | Helps identify causes of strain                 |
+| Strain              | Reaction to external stressors                                                            | Shows how stress is experienced                 |
+| Eustress            | Helpful level of stress that energises performance                                        | Not all stress is harmful                       |
+| Distress            | Harmful stress that causes wear and tear                                                  | Can damage health and functioning               |
+| Appraisal           | Evaluation of an event and one's coping resources                                         | Determines whether an event becomes stressful   |
+| Primary appraisal   | Evaluation of whether an event is positive, neutral, harmful, threatening, or challenging | First stage in stress perception                |
+| Secondary appraisal | Evaluation of coping resources available to deal with the event                           | Determines confidence or helplessness           |
+| Coping              | Efforts to manage stress demands                                                          | Reduces or handles stress                       |
+| Hardiness           | Stress-resistant personality pattern involving commitment, control, and challenge         | Protects health under stress                    |
+| Resilience          | Capacity to maintain or regain positive adjustment under adversity                        | Helps people recover after trauma or difficulty |
 
 ## 1. Life Challenges And Stress
 
@@ -92,11 +92,11 @@ The person experiences pressure because the demand seems greater than available 
 
 ## 5. Stress, Stressor, And Strain
 
-| Concept | Meaning | Example |
-|---|---|---|
-| Stressor | Event or condition causing stress | Examination, noise, conflict |
-| Stress | Overall process of demand, appraisal, and response | Feeling pressured before exam |
-| Strain | Reaction to stressor | Headache, anxiety, poor sleep |
+| Concept  | Meaning                                            | Example                       |
+| -------- | -------------------------------------------------- | ----------------------------- |
+| Stressor | Event or condition causing stress                  | Examination, noise, conflict  |
+| Stress   | Overall process of demand, appraisal, and response | Feeling pressured before exam |
+| Strain   | Reaction to stressor                               | Headache, anxiety, poor sleep |
 
 ## 6. Hans Selye's View
 

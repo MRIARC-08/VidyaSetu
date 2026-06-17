@@ -1,4 +1,5 @@
 # Chapter 7: The Adventure
+
 ### NCERT Class 11 English Hornbill
 
 ---
@@ -30,16 +31,16 @@ After studying this chapter, you should be able to:
 
 ## 1. Chapter Snapshot
 
-| Element | Details |
-|---|---|
-| Text type | Science-fiction story |
-| Writer | Jayant Narlikar |
-| Main character | Professor Gaitonde, also called Gangadharpant |
-| Supporting character | Rajendra Deshpande |
-| Main event | The professor experiences an alternative version of India |
-| Central historical point | The Battle of Panipat |
-| Main themes | Alternate history, reality, science, determinism, historical change |
-| Tone | Curious, intellectual, suspenseful, speculative |
+| Element                  | Details                                                             |
+| ------------------------ | ------------------------------------------------------------------- |
+| Text type                | Science-fiction story                                               |
+| Writer                   | Jayant Narlikar                                                     |
+| Main character           | Professor Gaitonde, also called Gangadharpant                       |
+| Supporting character     | Rajendra Deshpande                                                  |
+| Main event               | The professor experiences an alternative version of India           |
+| Central historical point | The Battle of Panipat                                               |
+| Main themes              | Alternate history, reality, science, determinism, historical change |
+| Tone                     | Curious, intellectual, suspenseful, speculative                     |
 
 ---
 
@@ -65,22 +66,22 @@ Later, he returns to his familiar reality and narrates his experience to Rajendr
 
 ### Professor Gaitonde / Gangadharpant
 
-| Trait | Evidence from story situation |
-|---|---|
-| Scholarly | He is a historian and thinks deeply about historical consequences |
-| Curious | He investigates the altered world instead of ignoring it |
-| Shocked | He is disturbed by differences in historical records and public life |
-| Rational | He seeks an explanation rather than treating the experience casually |
-| Imaginative | His mind is open to possibilities about history and reality |
+| Trait       | Evidence from story situation                                        |
+| ----------- | -------------------------------------------------------------------- |
+| Scholarly   | He is a historian and thinks deeply about historical consequences    |
+| Curious     | He investigates the altered world instead of ignoring it             |
+| Shocked     | He is disturbed by differences in historical records and public life |
+| Rational    | He seeks an explanation rather than treating the experience casually |
+| Imaginative | His mind is open to possibilities about history and reality          |
 
 ### Rajendra Deshpande
 
-| Trait | Evidence from story situation |
-|---|---|
-| Scientific | He explains the experience through scientific theories |
-| Analytical | He connects history, catastrophe theory, and quantum ideas |
-| Calm | He listens and tries to rationalise the strange event |
-| Open-minded | He does not dismiss the professor's account immediately |
+| Trait       | Evidence from story situation                              |
+| ----------- | ---------------------------------------------------------- |
+| Scientific  | He explains the experience through scientific theories     |
+| Analytical  | He connects history, catastrophe theory, and quantum ideas |
+| Calm        | He listens and tries to rationalise the strange event      |
+| Open-minded | He does not dismiss the professor's account immediately    |
 
 ---
 
@@ -155,18 +156,18 @@ The professor and Rajendra both try to understand what happened, but the explana
 
 ## 8. Important Terms and Expressions
 
-| Expression | Learner meaning |
-|---|---|
-| Blow-by-blow account | A detailed account of events |
-| De facto | Existing in fact, even if not officially recognised |
-| Morale booster | Something that increases confidence |
-| Astute | Clever and sharp-minded |
-| Relegated to | Pushed down to a lower position |
-| Doctored accounts | Altered or manipulated records |
-| Political acumen | Sharp political understanding |
-| Gave vent to | Expressed strongly |
-| Catastrophe theory | Theory about sudden major change caused by small shifts |
-| Quantum theory | Physics theory dealing with very small particles and uncertainty |
+| Expression           | Learner meaning                                                  |
+| -------------------- | ---------------------------------------------------------------- |
+| Blow-by-blow account | A detailed account of events                                     |
+| De facto             | Existing in fact, even if not officially recognised              |
+| Morale booster       | Something that increases confidence                              |
+| Astute               | Clever and sharp-minded                                          |
+| Relegated to         | Pushed down to a lower position                                  |
+| Doctored accounts    | Altered or manipulated records                                   |
+| Political acumen     | Sharp political understanding                                    |
+| Gave vent to         | Expressed strongly                                               |
+| Catastrophe theory   | Theory about sudden major change caused by small shifts          |
+| Quantum theory       | Physics theory dealing with very small particles and uncertainty |
 
 ---
 

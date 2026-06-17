@@ -1,4 +1,5 @@
 # Chapter 5: Coordination Compounds
+
 ### NCERT Class 12 - Chemistry Part 1
 
 ## Chapter at a Glance
@@ -25,30 +26,30 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Coordination compound | Compound containing a coordination entity. |
-| Coordination entity | Central metal atom or ion plus attached ligands, usually written in square brackets. |
-| Central atom or ion | Metal atom or ion to which ligands are attached. |
-| Ligand | Ion or molecule donating electron pair to central metal. |
-| Coordination number | Number of donor atoms directly bonded to central metal. |
-| Coordination sphere | Part inside square brackets. |
-| Counter ion | Ion outside coordination sphere balancing charge. |
-| Denticity | Number of donor atoms through which a ligand binds. |
-| Chelate | Ring-like complex formed by polydentate ligand. |
-| Ambidentate ligand | Ligand that can coordinate through two different donor atoms, one at a time. |
+| Term                  | Meaning                                                                              |
+| --------------------- | ------------------------------------------------------------------------------------ |
+| Coordination compound | Compound containing a coordination entity.                                           |
+| Coordination entity   | Central metal atom or ion plus attached ligands, usually written in square brackets. |
+| Central atom or ion   | Metal atom or ion to which ligands are attached.                                     |
+| Ligand                | Ion or molecule donating electron pair to central metal.                             |
+| Coordination number   | Number of donor atoms directly bonded to central metal.                              |
+| Coordination sphere   | Part inside square brackets.                                                         |
+| Counter ion           | Ion outside coordination sphere balancing charge.                                    |
+| Denticity             | Number of donor atoms through which a ligand binds.                                  |
+| Chelate               | Ring-like complex formed by polydentate ligand.                                      |
+| Ambidentate ligand    | Ligand that can coordinate through two different donor atoms, one at a time.         |
 
 ## Quick Learning Map
 
-| Area | Core idea |
-|---|---|
+| Area          | Core idea                                                               |
+| ------------- | ----------------------------------------------------------------------- |
 | Werner theory | Primary valency is ionisable; secondary valency is coordination number. |
-| Ligands | Donate lone pair to metal. |
-| Naming | Ligands first, metal next, oxidation state in Roman numeral. |
-| Isomerism | Same formula, different arrangement. |
-| VBT | Hybridisation explains shape and magnetic nature. |
-| CFT | Ligand field splits d orbitals and explains colour. |
-| Applications | Biology, medicine, analysis, metallurgy. |
+| Ligands       | Donate lone pair to metal.                                              |
+| Naming        | Ligands first, metal next, oxidation state in Roman numeral.            |
+| Isomerism     | Same formula, different arrangement.                                    |
+| VBT           | Hybridisation explains shape and magnetic nature.                       |
+| CFT           | Ligand field splits d orbitals and explains colour.                     |
+| Applications  | Biology, medicine, analysis, metallurgy.                                |
 
 # Unit 5A: Coordination Entity
 
@@ -94,12 +95,12 @@ Secondary valency corresponds to coordination number. It is non-ionisable and is
 
 For cobalt ammine chlorides:
 
-| Compound | Ionisable chloride ions | Coordination sphere idea |
-|---|---|---|
-| `[Co(NH3)6]Cl3` | 3 | All six `NH3` inside sphere |
-| `[Co(NH3)5Cl]Cl2` | 2 | One `Cl-` inside sphere |
-| `[Co(NH3)4Cl2]Cl` | 1 | Two `Cl-` inside sphere |
-| `[Co(NH3)3Cl3]` | 0 | Three `Cl-` inside sphere |
+| Compound          | Ionisable chloride ions | Coordination sphere idea    |
+| ----------------- | ----------------------- | --------------------------- |
+| `[Co(NH3)6]Cl3`   | 3                       | All six `NH3` inside sphere |
+| `[Co(NH3)5Cl]Cl2` | 2                       | One `Cl-` inside sphere     |
+| `[Co(NH3)4Cl2]Cl` | 1                       | Two `Cl-` inside sphere     |
+| `[Co(NH3)3Cl3]`   | 0                       | Three `Cl-` inside sphere   |
 
 This explains why compounds with same overall elements can give different numbers of ions in solution.
 
@@ -109,19 +110,19 @@ Ligands donate electron pairs to the metal ion. The donor atom is the atom direc
 
 ## Classification by Charge
 
-| Type | Examples |
-|---|---|
-| Neutral ligands | `NH3`, `H2O`, `CO`, `NO` |
+| Type             | Examples                    |
+| ---------------- | --------------------------- |
+| Neutral ligands  | `NH3`, `H2O`, `CO`, `NO`    |
 | Negative ligands | `Cl-`, `CN-`, `OH-`, `NO2-` |
-| Positive ligands | `NO+` in special cases |
+| Positive ligands | `NO+` in special cases      |
 
 ## Classification by Denticity
 
-| Type | Meaning | Example |
-|---|---|---|
-| Monodentate | One donor atom | `Cl-`, `NH3`, `H2O` |
-| Bidentate | Two donor atoms | ethane-1,2-diamine |
-| Polydentate | Many donor atoms | EDTA |
+| Type        | Meaning          | Example             |
+| ----------- | ---------------- | ------------------- |
+| Monodentate | One donor atom   | `Cl-`, `NH3`, `H2O` |
+| Bidentate   | Two donor atoms  | ethane-1,2-diamine  |
+| Polydentate | Many donor atoms | EDTA                |
 
 ## Ambidentate Ligands
 
@@ -148,11 +149,11 @@ Coordination number is the number of donor atoms directly attached to the centra
 
 Common coordination numbers:
 
-| Coordination number | Common shape |
-|---|---|
-| 2 | Linear |
-| 4 | Tetrahedral or square planar |
-| 6 | Octahedral |
+| Coordination number | Common shape                 |
+| ------------------- | ---------------------------- |
+| 2                   | Linear                       |
+| 4                   | Tetrahedral or square planar |
+| 6                   | Octahedral                   |
 
 Examples:
 
@@ -195,16 +196,16 @@ So iron is in `+2` oxidation state.
 
 ## Common Ligand Names
 
-| Formula | Name in complex |
-|---|---|
-| `NH3` | ammine |
-| `H2O` | aqua |
-| `CO` | carbonyl |
-| `NO` | nitrosyl |
-| `Cl-` | chlorido |
-| `CN-` | cyanido |
-| `OH-` | hydroxido |
-| `NO2-` | nitrito or nitro depending on donor atom |
+| Formula | Name in complex                          |
+| ------- | ---------------------------------------- |
+| `NH3`   | ammine                                   |
+| `H2O`   | aqua                                     |
+| `CO`    | carbonyl                                 |
+| `NO`    | nitrosyl                                 |
+| `Cl-`   | chlorido                                 |
+| `CN-`   | cyanido                                  |
+| `OH-`   | hydroxido                                |
+| `NO2-`  | nitrito or nitro depending on donor atom |
 
 ## Examples
 
@@ -226,12 +227,12 @@ Isomers have same formula but different arrangements.
 
 ## Structural Isomerism
 
-| Type | Meaning |
-|---|---|
-| Ionisation isomerism | Different ion produced in solution. |
+| Type                         | Meaning                                                         |
+| ---------------------------- | --------------------------------------------------------------- |
+| Ionisation isomerism         | Different ion produced in solution.                             |
 | Solvate or hydrate isomerism | Solvent molecule inside or outside coordination sphere differs. |
-| Linkage isomerism | Ambidentate ligand attaches through different donor atoms. |
-| Coordination isomerism | Exchange of ligands between cationic and anionic complex ions. |
+| Linkage isomerism            | Ambidentate ligand attaches through different donor atoms.      |
+| Coordination isomerism       | Exchange of ligands between cationic and anionic complex ions.  |
 
 ## Stereoisomerism
 
@@ -256,20 +257,20 @@ Ligands donate electron pairs into vacant hybrid orbitals of metal ion.
 
 ## Inner and Outer Orbital Complexes
 
-| Type | Feature |
-|---|---|
+| Type                  | Feature                                       |
+| --------------------- | --------------------------------------------- |
 | Inner orbital complex | Uses inner `(n-1)d` orbitals; often low spin. |
-| Outer orbital complex | Uses outer `nd` orbitals; often high spin. |
+| Outer orbital complex | Uses outer `nd` orbitals; often high spin.    |
 
 ## Common Hybridisations
 
-| Coordination number | Shape | Hybridisation |
-|---|---|---|
-| 2 | Linear | `sp` |
-| 4 | Tetrahedral | `sp3` |
-| 4 | Square planar | `dsp2` |
-| 6 | Octahedral inner orbital | `d2sp3` |
-| 6 | Octahedral outer orbital | `sp3d2` |
+| Coordination number | Shape                    | Hybridisation |
+| ------------------- | ------------------------ | ------------- |
+| 2                   | Linear                   | `sp`          |
+| 4                   | Tetrahedral              | `sp3`         |
+| 4                   | Square planar            | `dsp2`        |
+| 6                   | Octahedral inner orbital | `d2sp3`       |
+| 6                   | Octahedral outer orbital | `sp3d2`       |
 
 VBT explains shape and magnetic behaviour, but does not explain colour well. Crystal field theory handles colour better.
 
@@ -297,8 +298,8 @@ In tetrahedral complexes:
 
 Strong field ligands cause large splitting and may force electron pairing. Weak field ligands cause small splitting and usually give high-spin complexes.
 
-| Weak field ligands | Strong field ligands |
-|---|---|
+| Weak field ligands              | Strong field ligands             |
+| ------------------------------- | -------------------------------- |
 | `I-`, `Br-`, `Cl-`, `F-`, `H2O` | `NH3`, `en`, `NO2-`, `CN-`, `CO` |
 
 # Unit 5K: Colour in Coordination Compounds
@@ -330,27 +331,27 @@ Chelating ligands generally form more stable complexes because multiple bonds mu
 
 # Unit 5M: Applications
 
-| Field | Example |
-|---|---|
-| Biology | Haemoglobin contains iron complex; chlorophyll contains magnesium complex. |
-| Medicine | Chelation therapy can remove toxic metal ions. |
-| Analytical chemistry | Complex formation helps identify ions. |
-| Metallurgy | Silver and gold extraction use cyanide complexes. |
-| Electroplating | Metal complexes control metal ion concentration. |
-| Hard water treatment | EDTA binds calcium and magnesium ions. |
+| Field                | Example                                                                    |
+| -------------------- | -------------------------------------------------------------------------- |
+| Biology              | Haemoglobin contains iron complex; chlorophyll contains magnesium complex. |
+| Medicine             | Chelation therapy can remove toxic metal ions.                             |
+| Analytical chemistry | Complex formation helps identify ions.                                     |
+| Metallurgy           | Silver and gold extraction use cyanide complexes.                          |
+| Electroplating       | Metal complexes control metal ion concentration.                           |
+| Hard water treatment | EDTA binds calcium and magnesium ions.                                     |
 
 # Unit 5N: Identification Toolkit
 
-| If question asks for | Look for |
-|---|---|
-| Oxidation number | Ligand charges and total complex charge |
-| Coordination number | Number of donor atoms attached |
-| Denticity | Number of donor atoms from one ligand |
-| Linkage isomerism | Ambidentate ligand |
-| Geometrical isomerism | cis and trans arrangement |
-| Optical isomerism | Non-superimposable mirror images |
-| Magnetic nature | Unpaired electrons |
-| Colour | d-d transition and ligand field splitting |
+| If question asks for  | Look for                                  |
+| --------------------- | ----------------------------------------- |
+| Oxidation number      | Ligand charges and total complex charge   |
+| Coordination number   | Number of donor atoms attached            |
+| Denticity             | Number of donor atoms from one ligand     |
+| Linkage isomerism     | Ambidentate ligand                        |
+| Geometrical isomerism | cis and trans arrangement                 |
+| Optical isomerism     | Non-superimposable mirror images          |
+| Magnetic nature       | Unpaired electrons                        |
+| Colour                | d-d transition and ligand field splitting |
 
 # Unit 5O: High-Quality Example
 
@@ -368,14 +369,14 @@ The coordination number is 6 because five nitrogen donor atoms from ammonia and 
 
 # Unit 5P: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Counting counter ions in coordination number | Count only donor atoms inside coordination sphere. |
-| Treating ligand count and coordination number as always same | Polydentate ligands can give more donor atoms than ligand molecules. |
-| Forgetting charge of ligands | Use ligand charges before solving oxidation state. |
-| Naming metal before ligands inside sphere | Ligands are named before metal. |
-| Using normal metal name for anionic complex | Use `-ate` form for anionic complex. |
-| Calling every isomer cis-trans | Identify exact type: ionisation, linkage, hydrate, geometrical, or optical. |
+| Mistake                                                      | Correction                                                                  |
+| ------------------------------------------------------------ | --------------------------------------------------------------------------- |
+| Counting counter ions in coordination number                 | Count only donor atoms inside coordination sphere.                          |
+| Treating ligand count and coordination number as always same | Polydentate ligands can give more donor atoms than ligand molecules.        |
+| Forgetting charge of ligands                                 | Use ligand charges before solving oxidation state.                          |
+| Naming metal before ligands inside sphere                    | Ligands are named before metal.                                             |
+| Using normal metal name for anionic complex                  | Use `-ate` form for anionic complex.                                        |
+| Calling every isomer cis-trans                               | Identify exact type: ionisation, linkage, hydrate, geometrical, or optical. |
 
 ## Practice Set
 

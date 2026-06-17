@@ -1,4 +1,5 @@
 # Chapter 2: Rebels and the Raj
+
 ### NCERT Class 12 - History Part 3
 
 ## Chapter at a Glance
@@ -24,32 +25,32 @@ By the end of this chapter, learners should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Mutiny | Collective disobedience by soldiers within the armed forces. |
-| Revolt | Wider rebellion against established authority, involving civilians as well as soldiers. |
-| Sepoy | Indian soldier in the Company's army. |
-| Firangi | Term used for foreigners, especially Europeans, often with a negative meaning. |
-| Bell of Arms | Storehouse where weapons were kept in a cantonment. |
-| Cantonment | Military station where soldiers were housed. |
-| Proclamation | Public declaration issued to mobilise support or state political aims. |
-| Taluqdar | Large landholder, especially important in Awadh. |
-| Annexation | Takeover of a territory by another power. |
+| Term                | Meaning                                                                                   |
+| ------------------- | ----------------------------------------------------------------------------------------- |
+| Mutiny              | Collective disobedience by soldiers within the armed forces.                              |
+| Revolt              | Wider rebellion against established authority, involving civilians as well as soldiers.   |
+| Sepoy               | Indian soldier in the Company's army.                                                     |
+| Firangi             | Term used for foreigners, especially Europeans, often with a negative meaning.            |
+| Bell of Arms        | Storehouse where weapons were kept in a cantonment.                                       |
+| Cantonment          | Military station where soldiers were housed.                                              |
+| Proclamation        | Public declaration issued to mobilise support or state political aims.                    |
+| Taluqdar            | Large landholder, especially important in Awadh.                                          |
+| Annexation          | Takeover of a territory by another power.                                                 |
 | Subsidiary Alliance | System by which Indian rulers accepted British control in return for military protection. |
-| Martial Law | Rule by military authority, often suspending normal legal protections. |
-| Counter-insurgency | Military and political operations used to suppress rebellion. |
+| Martial Law         | Rule by military authority, often suspending normal legal protections.                    |
+| Counter-insurgency  | Military and political operations used to suppress rebellion.                             |
 
 ## Quick Learning Map
 
-| Theme | What To Remember |
-|---|---|
-| Beginning | Meerut sepoys rebelled on 10 May 1857 and reached Delhi on 11 May. |
-| Symbolic leadership | Bahadur Shah Zafar's name gave legitimacy to the rebellion. |
-| Spread | Cantonments across north India rose as news travelled. |
-| Popular support | Peasants, zamindars, artisans, townspeople, religious figures, and displaced elites joined in many regions. |
-| Awadh | Annexation, revenue settlements, taluqdar displacement, and popular anger made it a major centre. |
-| British response | Martial law, military reconquest, executions, and reward-punishment policies. |
-| Representations | British images justified revenge; nationalist images celebrated resistance. |
+| Theme               | What To Remember                                                                                            |
+| ------------------- | ----------------------------------------------------------------------------------------------------------- |
+| Beginning           | Meerut sepoys rebelled on 10 May 1857 and reached Delhi on 11 May.                                          |
+| Symbolic leadership | Bahadur Shah Zafar's name gave legitimacy to the rebellion.                                                 |
+| Spread              | Cantonments across north India rose as news travelled.                                                      |
+| Popular support     | Peasants, zamindars, artisans, townspeople, religious figures, and displaced elites joined in many regions. |
+| Awadh               | Annexation, revenue settlements, taluqdar displacement, and popular anger made it a major centre.           |
+| British response    | Martial law, military reconquest, executions, and reward-punishment policies.                               |
+| Representations     | British images justified revenge; nationalist images celebrated resistance.                                 |
 
 # Unit 2A: Meerut and Delhi
 
@@ -127,15 +128,15 @@ The rebels needed leadership, legitimacy, and organisation. They often turned to
 
 ## Major Leaders
 
-| Leader | Region | Historical Role |
-|---|---|---|
-| Bahadur Shah Zafar | Delhi | Symbolic Mughal leader of the rebellion. |
-| Nana Sahib | Kanpur | Successor of Peshwa Baji Rao II; joined as a major leader. |
-| Rani Lakshmi Bai | Jhansi | Became a powerful symbol of resistance. |
-| Birjis Qadr | Awadh | Son of Nawab Wajid Ali Shah; hailed in Lucknow. |
-| Kunwar Singh | Arrah, Bihar | Local zamindar who led rebellion. |
-| Shah Mal | Barout, Uttar Pradesh | Mobilised Jat cultivators and village networks. |
-| Maulvi Ahmadullah Shah | Awadh and Faizabad | Religious leader and military figure in the revolt. |
+| Leader                 | Region                | Historical Role                                            |
+| ---------------------- | --------------------- | ---------------------------------------------------------- |
+| Bahadur Shah Zafar     | Delhi                 | Symbolic Mughal leader of the rebellion.                   |
+| Nana Sahib             | Kanpur                | Successor of Peshwa Baji Rao II; joined as a major leader. |
+| Rani Lakshmi Bai       | Jhansi                | Became a powerful symbol of resistance.                    |
+| Birjis Qadr            | Awadh                 | Son of Nawab Wajid Ali Shah; hailed in Lucknow.            |
+| Kunwar Singh           | Arrah, Bihar          | Local zamindar who led rebellion.                          |
+| Shah Mal               | Barout, Uttar Pradesh | Mobilised Jat cultivators and village networks.            |
+| Maulvi Ahmadullah Shah | Awadh and Faizabad    | Religious leader and military figure in the revolt.        |
 
 ## Why Older Leaders Were Chosen
 
@@ -301,20 +302,20 @@ The best historical answer compares evidence and asks who created it, why, and f
 
 # Unit 2M: Timeline
 
-| Date or Year | Event |
-|---|---|
-| 1801 | Subsidiary Alliance introduced in Awadh. |
-| 1856 | Nawab Wajid Ali Shah deposed; Awadh annexed. |
-| 1856-57 | Summary revenue settlements introduced in Awadh. |
-| 10 May 1857 | Mutiny began in Meerut. |
-| 11 May 1857 | Meerut sepoys reached Delhi. |
-| May-June 1857 | Mutiny spread and became a wider revolt. |
-| 30 May 1857 | Rising in Lucknow. |
-| 30 June 1857 | British defeated at Chinhat. |
-| July 1857 | Shah Mal killed in battle. |
-| September 1857 | British recaptured Delhi. |
-| March 1858 | Awadh brought under British control after prolonged resistance. |
-| 1858 | Rani Lakshmi Bai killed in battle; rebellion gradually suppressed. |
+| Date or Year   | Event                                                              |
+| -------------- | ------------------------------------------------------------------ |
+| 1801           | Subsidiary Alliance introduced in Awadh.                           |
+| 1856           | Nawab Wajid Ali Shah deposed; Awadh annexed.                       |
+| 1856-57        | Summary revenue settlements introduced in Awadh.                   |
+| 10 May 1857    | Mutiny began in Meerut.                                            |
+| 11 May 1857    | Meerut sepoys reached Delhi.                                       |
+| May-June 1857  | Mutiny spread and became a wider revolt.                           |
+| 30 May 1857    | Rising in Lucknow.                                                 |
+| 30 June 1857   | British defeated at Chinhat.                                       |
+| July 1857      | Shah Mal killed in battle.                                         |
+| September 1857 | British recaptured Delhi.                                          |
+| March 1858     | Awadh brought under British control after prolonged resistance.    |
+| 1858           | Rani Lakshmi Bai killed in battle; rebellion gradually suppressed. |
 
 # Unit 2N: Cause and Effect Chains
 
@@ -377,15 +378,15 @@ Write in this order:
 
 # Unit 2P: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Calling 1857 only a sepoy mutiny | In many regions it became a wider civilian revolt. |
-| Saying the revolt had one central plan | It had coordination, but much planning was local and network-based. |
-| Treating rumours as unimportant because they may be false | Rumours reveal real fears and political suspicion. |
-| Ignoring Awadh | Awadh was central because annexation affected soldiers, peasants, taluqdars, and court society. |
-| Saying all rebels wanted exactly the same thing | Different groups had different aims, though they shared anti-British anger. |
-| Reading British images as factual photographs of truth | Visuals were shaped by political emotion and imperial ideology. |
-| Ignoring repression | British suppression was military, legal, psychological, and political. |
+| Mistake                                                   | Correction                                                                                      |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| Calling 1857 only a sepoy mutiny                          | In many regions it became a wider civilian revolt.                                              |
+| Saying the revolt had one central plan                    | It had coordination, but much planning was local and network-based.                             |
+| Treating rumours as unimportant because they may be false | Rumours reveal real fears and political suspicion.                                              |
+| Ignoring Awadh                                            | Awadh was central because annexation affected soldiers, peasants, taluqdars, and court society. |
+| Saying all rebels wanted exactly the same thing           | Different groups had different aims, though they shared anti-British anger.                     |
+| Reading British images as factual photographs of truth    | Visuals were shaped by political emotion and imperial ideology.                                 |
+| Ignoring repression                                       | British suppression was military, legal, psychological, and political.                          |
 
 ## Practice Set
 

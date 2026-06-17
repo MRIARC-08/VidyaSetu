@@ -1,15 +1,16 @@
 # Chapter 4: Analysis of Financial Statements
+
 ### NCERT Class 12 - Accountancy Part 2
 
 ## Chapter at a Glance
 
-| Item | Details |
-|---|---|
-| Main idea | Financial statement analysis studies relationships among figures to understand performance, position, strengths, and weaknesses. |
-| Main tools | Comparative statements, common size statements, trend percentages, ratio analysis, and cash flow analysis. |
-| Main purpose | Convert raw financial statement data into useful interpretation. |
-| Main comparison types | Inter-firm comparison and intra-firm comparison over time. |
-| Most important skill | Calculate changes and percentages accurately, then interpret them with business meaning. |
+| Item                  | Details                                                                                                                          |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| Main idea             | Financial statement analysis studies relationships among figures to understand performance, position, strengths, and weaknesses. |
+| Main tools            | Comparative statements, common size statements, trend percentages, ratio analysis, and cash flow analysis.                       |
+| Main purpose          | Convert raw financial statement data into useful interpretation.                                                                 |
+| Main comparison types | Inter-firm comparison and intra-firm comparison over time.                                                                       |
+| Most important skill  | Calculate changes and percentages accurately, then interpret them with business meaning.                                         |
 
 ## Learning Outcomes
 
@@ -29,26 +30,26 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Financial analysis | Systematic study of financial statement data to understand relationships and meaning. |
-| Interpretation | Explaining what analysis results indicate. |
-| Comparative statement | Statement comparing figures of two or more periods. |
-| Common size statement | Statement expressing each item as a percentage of a common base. |
-| Trend percentage | Percentage showing movement over years using a base year. |
-| Ratio analysis | Study of relationships between financial figures using ratios. |
-| Intra-firm comparison | Comparison within the same firm over time. |
-| Inter-firm comparison | Comparison with another firm or industry standard. |
+| Term                  | Meaning                                                                               |
+| --------------------- | ------------------------------------------------------------------------------------- |
+| Financial analysis    | Systematic study of financial statement data to understand relationships and meaning. |
+| Interpretation        | Explaining what analysis results indicate.                                            |
+| Comparative statement | Statement comparing figures of two or more periods.                                   |
+| Common size statement | Statement expressing each item as a percentage of a common base.                      |
+| Trend percentage      | Percentage showing movement over years using a base year.                             |
+| Ratio analysis        | Study of relationships between financial figures using ratios.                        |
+| Intra-firm comparison | Comparison within the same firm over time.                                            |
+| Inter-firm comparison | Comparison with another firm or industry standard.                                    |
 
 ## Quick Learning Map
 
-| Tool | What It Shows |
-|---|---|
-| Comparative statement | Increase or decrease between periods. |
-| Common size statement | Structure of statement in percentage form. |
-| Trend percentage | Direction of movement over several years. |
-| Ratio analysis | Relationship between related items. |
-| Cash flow analysis | Cash generation and cash use by activities. |
+| Tool                  | What It Shows                               |
+| --------------------- | ------------------------------------------- |
+| Comparative statement | Increase or decrease between periods.       |
+| Common size statement | Structure of statement in percentage form.  |
+| Trend percentage      | Direction of movement over several years.   |
+| Ratio analysis        | Relationship between related items.         |
+| Cash flow analysis    | Cash generation and cash use by activities. |
 
 # Unit 4A: Meaning of Financial Statement Analysis
 
@@ -65,15 +66,15 @@ Without interpretation, percentages and ratios are just numbers.
 
 Financial analysis is useful because it helps users answer practical questions.
 
-| User | Question Answered |
-|---|---|
-| Management | Are operations efficient and profitable? |
-| Shareholders | Is the company earning enough and using funds well? |
-| Lenders | Can the company repay principal and interest? |
-| Creditors | Can short-term dues be paid on time? |
-| Employees | Is the company stable and growing? |
-| Government | Is the company complying and contributing economically? |
-| Analysts | Is performance improving or weakening? |
+| User         | Question Answered                                       |
+| ------------ | ------------------------------------------------------- |
+| Management   | Are operations efficient and profitable?                |
+| Shareholders | Is the company earning enough and using funds well?     |
+| Lenders      | Can the company repay principal and interest?           |
+| Creditors    | Can short-term dues be paid on time?                    |
+| Employees    | Is the company stable and growing?                      |
+| Government   | Is the company complying and contributing economically? |
+| Analysts     | Is performance improving or weakening?                  |
 
 # Unit 4C: Objectives of Financial Analysis
 
@@ -91,13 +92,13 @@ The main objectives are:
 
 # Unit 4D: Tools of Analysis
 
-| Tool | Use |
-|---|---|
-| Comparative statements | Measure absolute and percentage change. |
-| Common size statements | Show each item as percentage of total or revenue. |
-| Trend analysis | Study direction over multiple years. |
-| Ratio analysis | Measure relationships such as liquidity or profitability. |
-| Cash flow analysis | Understand cash inflow and outflow patterns. |
+| Tool                   | Use                                                       |
+| ---------------------- | --------------------------------------------------------- |
+| Comparative statements | Measure absolute and percentage change.                   |
+| Common size statements | Show each item as percentage of total or revenue.         |
+| Trend analysis         | Study direction over multiple years.                      |
+| Ratio analysis         | Measure relationships such as liquidity or profitability. |
+| Cash flow analysis     | Understand cash inflow and outflow patterns.              |
 
 # Unit 4E: Comparative Statements
 
@@ -144,13 +145,13 @@ It helps identify:
 
 Do not stop at calculation. Add meaning:
 
-| Observation | Possible Interpretation |
-|---|---|
-| Revenue rises faster than expenses | Operating performance may be improving. |
-| Expenses rise faster than revenue | Margins may be under pressure. |
-| Current assets rise but cash falls | Money may be tied in inventory or receivables. |
-| Borrowings rise sharply | Growth may be debt-funded; solvency needs review. |
-| Profit rises while sales fall | Could be cost cutting, one-time income, or accounting effect. |
+| Observation                        | Possible Interpretation                                       |
+| ---------------------------------- | ------------------------------------------------------------- |
+| Revenue rises faster than expenses | Operating performance may be improving.                       |
+| Expenses rise faster than revenue  | Margins may be under pressure.                                |
+| Current assets rise but cash falls | Money may be tied in inventory or receivables.                |
+| Borrowings rise sharply            | Growth may be debt-funded; solvency needs review.             |
+| Profit rises while sales fall      | Could be cost cutting, one-time income, or accounting effect. |
 
 # Unit 4F: Common Size Statements
 
@@ -158,10 +159,10 @@ Common size statements express each item as a percentage of a common base.
 
 ## Common Base
 
-| Statement | Common Base |
-|---|---|
-| Balance sheet | Total assets or total equity and liabilities. |
-| Statement of profit and loss | Revenue from operations or total revenue. |
+| Statement                    | Common Base                                   |
+| ---------------------------- | --------------------------------------------- |
+| Balance sheet                | Total assets or total equity and liabilities. |
+| Statement of profit and loss | Revenue from operations or total revenue.     |
 
 ## Formula
 
@@ -175,21 +176,21 @@ Example: A small company and a large company can both be compared by gross profi
 
 ## Common Size Balance Sheet Interpretation
 
-| Percentage Movement | Meaning |
-|---|---|
-| Fixed assets percentage increases | Business may be investing in capacity. |
-| Inventory percentage increases | Stock holding may be rising; check sales. |
-| Debt percentage increases | Financial risk may rise. |
-| Equity percentage increases | Capital base may be stronger. |
+| Percentage Movement               | Meaning                                   |
+| --------------------------------- | ----------------------------------------- |
+| Fixed assets percentage increases | Business may be investing in capacity.    |
+| Inventory percentage increases    | Stock holding may be rising; check sales. |
+| Debt percentage increases         | Financial risk may rise.                  |
+| Equity percentage increases       | Capital base may be stronger.             |
 
 ## Common Size Profit and Loss Interpretation
 
-| Percentage Movement | Meaning |
-|---|---|
-| Cost of goods sold percentage falls | Gross margin improves. |
-| Employee cost percentage rises | Labour cost pressure or expansion. |
-| Finance cost percentage rises | Borrowing burden increases. |
-| Net profit percentage rises | Overall profitability improves. |
+| Percentage Movement                 | Meaning                            |
+| ----------------------------------- | ---------------------------------- |
+| Cost of goods sold percentage falls | Gross margin improves.             |
+| Employee cost percentage rises      | Labour cost pressure or expansion. |
+| Finance cost percentage rises       | Borrowing burden increases.        |
+| Net profit percentage rises         | Overall profitability improves.    |
 
 # Unit 4G: Trend Percentages
 
@@ -203,11 +204,11 @@ Base year is taken as 100.
 
 ## Example
 
-| Year | Sales | Trend |
-|---|---:|---:|
-| 2023 | Rs. 1,00,000 | 100 |
-| 2024 | Rs. 1,20,000 | 120 |
-| 2025 | Rs. 1,50,000 | 150 |
+| Year |        Sales | Trend |
+| ---- | -----------: | ----: |
+| 2023 | Rs. 1,00,000 |   100 |
+| 2024 | Rs. 1,20,000 |   120 |
+| 2025 | Rs. 1,50,000 |   150 |
 
 Sales increased to 150 per cent of base year by 2025.
 
@@ -221,15 +222,15 @@ Sales increased to 150 per cent of base year by 2025.
 
 # Unit 4H: Limitations of Financial Analysis
 
-| Limitation | Explanation |
-|---|---|
-| Based on financial statements | If statements are inaccurate, analysis is also weak. |
-| Historical data | Past data may not represent current conditions. |
-| Price-level changes | Inflation can distort comparison. |
-| Accounting policy differences | Firms may use different depreciation or inventory methods. |
-| Window dressing | Figures may be arranged to look better. |
-| Qualitative factors ignored | Brand, employee quality, technology, and management skill may not appear directly. |
-| Not a final answer | Analysis supports judgement; it does not replace judgement. |
+| Limitation                    | Explanation                                                                        |
+| ----------------------------- | ---------------------------------------------------------------------------------- |
+| Based on financial statements | If statements are inaccurate, analysis is also weak.                               |
+| Historical data               | Past data may not represent current conditions.                                    |
+| Price-level changes           | Inflation can distort comparison.                                                  |
+| Accounting policy differences | Firms may use different depreciation or inventory methods.                         |
+| Window dressing               | Figures may be arranged to look better.                                            |
+| Qualitative factors ignored   | Brand, employee quality, technology, and management skill may not appear directly. |
+| Not a final answer            | Analysis supports judgement; it does not replace judgement.                        |
 
 # Unit 4I: Worked Mini Case
 
@@ -253,13 +254,13 @@ Revenue increased, but expenses increased faster. Profit may still increase in a
 
 # Unit 4J: Common Mistakes and Corrections
 
-| Mistake | Correct Approach |
-|---|---|
+| Mistake                                                  | Correct Approach                                  |
+| -------------------------------------------------------- | ------------------------------------------------- |
 | Calculating percentage change using current year as base | Use previous year as base for comparative change. |
-| Calling every increase good | Increase in debt or expenses may be risky. |
-| Ignoring the common base in common size statements | Use total assets or revenue consistently. |
-| Comparing unrelated figures | Analyse meaningful relationships. |
-| Treating analysis as exact prediction | It is a decision aid, not a guarantee. |
+| Calling every increase good                              | Increase in debt or expenses may be risky.        |
+| Ignoring the common base in common size statements       | Use total assets or revenue consistently.         |
+| Comparing unrelated figures                              | Analyse meaningful relationships.                 |
+| Treating analysis as exact prediction                    | It is a decision aid, not a guarantee.            |
 
 ## Practice Set
 

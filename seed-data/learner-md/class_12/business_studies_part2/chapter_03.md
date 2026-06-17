@@ -1,17 +1,18 @@
 # Chapter 3: Marketing
+
 ### NCERT Class 12 - Business Studies Part 2
 
 ## Chapter at a Glance
 
-| Item | Details |
-|---|---|
-| Main idea | Marketing identifies customer needs and satisfies them profitably through product, price, place, and promotion decisions. |
-| Core concept | Customer satisfaction is central to marketing. |
-| Main philosophy shift | From production and selling focus to marketing and societal marketing focus. |
-| Marketing mix | Product, price, place, and promotion. |
-| Product focus | Branding, packaging, labelling, and product decisions. |
-| Promotion focus | Advertising, personal selling, sales promotion, and public relations. |
-| Most important skill | Link a business action to the correct marketing function or marketing mix element. |
+| Item                  | Details                                                                                                                   |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Main idea             | Marketing identifies customer needs and satisfies them profitably through product, price, place, and promotion decisions. |
+| Core concept          | Customer satisfaction is central to marketing.                                                                            |
+| Main philosophy shift | From production and selling focus to marketing and societal marketing focus.                                              |
+| Marketing mix         | Product, price, place, and promotion.                                                                                     |
+| Product focus         | Branding, packaging, labelling, and product decisions.                                                                    |
+| Promotion focus       | Advertising, personal selling, sales promotion, and public relations.                                                     |
+| Most important skill  | Link a business action to the correct marketing function or marketing mix element.                                        |
 
 ## Learning Outcomes
 
@@ -32,33 +33,33 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Market | Set of actual and potential buyers of a product or service. |
-| Marketing | Process of identifying needs and satisfying them through exchange. |
-| Need | Basic human requirement. |
-| Want | Need shaped by culture, personality, and preference. |
-| Demand | Want backed by purchasing power and willingness to buy. |
-| Product | Anything offered to satisfy a need or want. |
-| Exchange | Obtaining desired product by offering something in return. |
-| Marketing mix | Combination of product, price, place, and promotion. |
-| Brand | Name, term, symbol, design, or combination identifying a seller's product. |
-| Packaging | Designing and producing container or wrapper for product. |
-| Labelling | Displaying information on product or package. |
-| Channel of distribution | Route through which product moves from producer to consumer. |
-| Promotion mix | Combination of promotional tools used to communicate with customers. |
+| Term                    | Meaning                                                                    |
+| ----------------------- | -------------------------------------------------------------------------- |
+| Market                  | Set of actual and potential buyers of a product or service.                |
+| Marketing               | Process of identifying needs and satisfying them through exchange.         |
+| Need                    | Basic human requirement.                                                   |
+| Want                    | Need shaped by culture, personality, and preference.                       |
+| Demand                  | Want backed by purchasing power and willingness to buy.                    |
+| Product                 | Anything offered to satisfy a need or want.                                |
+| Exchange                | Obtaining desired product by offering something in return.                 |
+| Marketing mix           | Combination of product, price, place, and promotion.                       |
+| Brand                   | Name, term, symbol, design, or combination identifying a seller's product. |
+| Packaging               | Designing and producing container or wrapper for product.                  |
+| Labelling               | Displaying information on product or package.                              |
+| Channel of distribution | Route through which product moves from producer to consumer.               |
+| Promotion mix           | Combination of promotional tools used to communicate with customers.       |
 
 ## Quick Learning Map
 
-| Area | Main Question |
-|---|---|
-| Meaning | How does business satisfy customers through exchange? |
+| Area       | Main Question                                                                         |
+| ---------- | ------------------------------------------------------------------------------------- |
+| Meaning    | How does business satisfy customers through exchange?                                 |
 | Philosophy | Is business production-driven, selling-driven, customer-driven, or society-conscious? |
-| Functions | What work is performed in marketing? |
-| Product | What is offered and how is it identified? |
-| Price | What value is charged? |
-| Place | How does product reach customer? |
-| Promotion | How is customer informed and persuaded? |
+| Functions  | What work is performed in marketing?                                                  |
+| Product    | What is offered and how is it identified?                                             |
+| Price      | What value is charged?                                                                |
+| Place      | How does product reach customer?                                                      |
+| Promotion  | How is customer informed and persuaded?                                               |
 
 # Unit 3A: Meaning of Market
 
@@ -112,15 +113,15 @@ Long-term marketing success depends on satisfying customers.
 
 # Unit 3D: Marketing vs Selling
 
-| Basis | Marketing | Selling |
-|---|---|---|
-| Starting point | Customer needs. | Product already made. |
-| Focus | Customer satisfaction. | Sales volume. |
-| Scope | Broad. | Narrow. |
-| Orientation | Outside-in. | Inside-out. |
-| Means | Integrated marketing efforts. | Persuasion and promotion. |
-| End | Profit through customer satisfaction. | Profit through sales. |
-| Time horizon | Long-term. | Often short-term. |
+| Basis          | Marketing                             | Selling                   |
+| -------------- | ------------------------------------- | ------------------------- |
+| Starting point | Customer needs.                       | Product already made.     |
+| Focus          | Customer satisfaction.                | Sales volume.             |
+| Scope          | Broad.                                | Narrow.                   |
+| Orientation    | Outside-in.                           | Inside-out.               |
+| Means          | Integrated marketing efforts.         | Persuasion and promotion. |
+| End            | Profit through customer satisfaction. | Profit through sales.     |
+| Time horizon   | Long-term.                            | Often short-term.         |
 
 ## Key Line
 
@@ -166,13 +167,13 @@ Focus: customer satisfaction plus social responsibility.
 
 ## Philosophy Comparison
 
-| Philosophy | Main Focus | Typical Risk |
-|---|---|---|
-| Production | Availability and low cost. | Ignores customer preference. |
-| Product | Quality and features. | Overlooks actual need. |
-| Selling | Aggressive promotion. | Short-term customer pressure. |
-| Marketing | Customer satisfaction. | Needs deep customer understanding. |
-| Societal marketing | Customer and society welfare. | More complex balancing. |
+| Philosophy         | Main Focus                    | Typical Risk                       |
+| ------------------ | ----------------------------- | ---------------------------------- |
+| Production         | Availability and low cost.    | Ignores customer preference.       |
+| Product            | Quality and features.         | Overlooks actual need.             |
+| Selling            | Aggressive promotion.         | Short-term customer pressure.      |
+| Marketing          | Customer satisfaction.        | Needs deep customer understanding. |
+| Societal marketing | Customer and society welfare. | More complex balancing.            |
 
 # Unit 3F: Functions of Marketing
 
@@ -239,11 +240,11 @@ The four main elements are:
 
 ## Marketing Mix Table
 
-| Element | Main Decisions |
-|---|---|
-| Product | Quality, design, features, brand, packaging, labelling, variety. |
-| Price | List price, discounts, credit terms, pricing strategy. |
-| Place | Channel, transport, warehousing, inventory, coverage. |
+| Element   | Main Decisions                                                    |
+| --------- | ----------------------------------------------------------------- |
+| Product   | Quality, design, features, brand, packaging, labelling, variety.  |
+| Price     | List price, discounts, credit terms, pricing strategy.            |
+| Place     | Channel, transport, warehousing, inventory, coverage.             |
 | Promotion | Advertising, personal selling, sales promotion, public relations. |
 
 # Unit 3H: Product
@@ -304,11 +305,11 @@ Packaging means designing and producing container or wrapper for product.
 
 ## Levels
 
-| Level | Example |
-|---|---|
-| Primary package | Tube containing toothpaste. |
-| Secondary package | Cardboard box around toothpaste tube. |
-| Transportation package | Carton used for shipping many boxes. |
+| Level                  | Example                               |
+| ---------------------- | ------------------------------------- |
+| Primary package        | Tube containing toothpaste.           |
+| Secondary package      | Cardboard box around toothpaste tube. |
+| Transportation package | Carton used for shipping many boxes.  |
 
 ## Functions of Packaging
 
@@ -350,14 +351,14 @@ Price is the amount of money paid by buyer to obtain product or service.
 
 ## Factors Affecting Price Determination
 
-| Factor | Effect |
-|---|---|
-| Product cost | Price must normally cover cost in long run. |
-| Utility and demand | Higher perceived value may allow higher price. |
-| Competition | Competitor prices influence price. |
-| Government and legal regulation | Some prices may be regulated. |
-| Marketing methods used | Heavy promotion or premium packaging may raise cost. |
-| Pricing objective | Survival, profit, market share, or quality leadership affects price. |
+| Factor                          | Effect                                                               |
+| ------------------------------- | -------------------------------------------------------------------- |
+| Product cost                    | Price must normally cover cost in long run.                          |
+| Utility and demand              | Higher perceived value may allow higher price.                       |
+| Competition                     | Competitor prices influence price.                                   |
+| Government and legal regulation | Some prices may be regulated.                                        |
+| Marketing methods used          | Heavy promotion or premium packaging may raise cost.                 |
+| Pricing objective               | Survival, profit, market share, or quality leadership affects price. |
 
 # Unit 3M: Place and Distribution
 
@@ -376,14 +377,14 @@ Channel of distribution is the route through which goods move from producer to c
 
 ## Factors Affecting Channel Choice
 
-| Factor | Effect |
-|---|---|
-| Product type | Perishable products need shorter channels. |
-| Product value | Expensive products may use direct channels. |
-| Market size | Large markets may need intermediaries. |
-| Customer location | Widely scattered customers need wider distribution. |
-| Company resources | Strong firms may use own distribution. |
-| Competitive practice | Industry pattern affects choice. |
+| Factor               | Effect                                              |
+| -------------------- | --------------------------------------------------- |
+| Product type         | Perishable products need shorter channels.          |
+| Product value        | Expensive products may use direct channels.         |
+| Market size          | Large markets may need intermediaries.              |
+| Customer location    | Widely scattered customers need wider distribution. |
+| Company resources    | Strong firms may use own distribution.              |
+| Competitive practice | Industry pattern affects choice.                    |
 
 # Unit 3N: Physical Distribution
 
@@ -497,26 +498,26 @@ Public relations builds and maintains favourable image of business among public 
 
 # Unit 3T: Promotion Tool Comparison
 
-| Tool | Nature | Best Use |
-|---|---|---|
-| Advertising | Paid, non-personal, mass communication. | Brand awareness and mass reach. |
-| Personal selling | Direct personal interaction. | Technical, costly, or customised products. |
-| Sales promotion | Short-term incentive. | Quick sales boost or trial. |
-| Public relations | Image and relationship building. | Trust, goodwill, and reputation. |
+| Tool             | Nature                                  | Best Use                                   |
+| ---------------- | --------------------------------------- | ------------------------------------------ |
+| Advertising      | Paid, non-personal, mass communication. | Brand awareness and mass reach.            |
+| Personal selling | Direct personal interaction.            | Technical, costly, or customised products. |
+| Sales promotion  | Short-term incentive.                   | Quick sales boost or trial.                |
+| Public relations | Image and relationship building.        | Trust, goodwill, and reputation.           |
 
 # Unit 3U: Marketing Mix Identification Toolkit
 
-| Case Clue | Marketing Mix Element |
-|---|---|
-| Company changes flavour, size, or quality | Product. |
-| Company gives discount or credit | Price. |
-| Company appoints wholesalers or retailers | Place. |
-| Company launches advertisement | Promotion. |
-| Company changes package design | Product, specifically packaging. |
-| Company prints ingredients and expiry date | Labelling. |
-| Salesperson visits industrial buyer | Personal selling. |
-| Free sample is given | Sales promotion. |
-| Company handles media after product complaint | Public relations. |
+| Case Clue                                     | Marketing Mix Element            |
+| --------------------------------------------- | -------------------------------- |
+| Company changes flavour, size, or quality     | Product.                         |
+| Company gives discount or credit              | Price.                           |
+| Company appoints wholesalers or retailers     | Place.                           |
+| Company launches advertisement                | Promotion.                       |
+| Company changes package design                | Product, specifically packaging. |
+| Company prints ingredients and expiry date    | Labelling.                       |
+| Salesperson visits industrial buyer           | Personal selling.                |
+| Free sample is given                          | Sales promotion.                 |
+| Company handles media after product complaint | Public relations.                |
 
 # Unit 3V: Case Answer Framework
 
@@ -540,15 +541,15 @@ Answer:
 
 # Unit 3W: Common Mistakes and Corrections
 
-| Mistake | Correct Understanding |
-|---|---|
-| Marketing means only selling | Marketing includes need identification, product, price, place, promotion, and satisfaction. |
-| Market means only physical place | Market means actual and potential buyers. |
-| Branding and packaging are same | Branding gives identity; packaging contains and protects product. |
-| Labelling is only decoration | Labelling provides information, legal details, and promotion. |
-| Advertising and personal selling are same | Advertising is non-personal; personal selling is direct interaction. |
-| Sales promotion builds long-term loyalty by itself | It usually gives short-term incentive; long-term loyalty needs value and satisfaction. |
-| Price depends only on cost | Demand, competition, objectives, and law also matter. |
+| Mistake                                            | Correct Understanding                                                                       |
+| -------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Marketing means only selling                       | Marketing includes need identification, product, price, place, promotion, and satisfaction. |
+| Market means only physical place                   | Market means actual and potential buyers.                                                   |
+| Branding and packaging are same                    | Branding gives identity; packaging contains and protects product.                           |
+| Labelling is only decoration                       | Labelling provides information, legal details, and promotion.                               |
+| Advertising and personal selling are same          | Advertising is non-personal; personal selling is direct interaction.                        |
+| Sales promotion builds long-term loyalty by itself | It usually gives short-term incentive; long-term loyalty needs value and satisfaction.      |
+| Price depends only on cost                         | Demand, competition, objectives, and law also matter.                                       |
 
 ## Practice Set
 

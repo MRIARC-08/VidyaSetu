@@ -1,4 +1,5 @@
 # Chapter 3: Current Electricity
+
 ### NCERT Class 12 - Physics Part 1
 
 ## Chapter at a Glance
@@ -26,40 +27,40 @@ By the end of this chapter, learners should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Electric current | Rate of flow of charge. |
-| Drift velocity | Average velocity acquired by electrons under electric field. |
-| Current density | Current per unit area normal to flow. |
-| Ohm's law | Current through conductor is proportional to potential difference at constant temperature. |
-| Resistance | Opposition offered to current. |
-| Resistivity | Material property determining resistance. |
-| Conductivity | Reciprocal of resistivity. |
-| Mobility | Drift velocity per unit electric field. |
-| emf | Work done by source per unit charge. |
-| Internal resistance | Resistance inside a cell. |
-| Terminal voltage | Potential difference across cell terminals. |
-| Kirchhoff's junction rule | Sum of currents entering a junction equals sum leaving. |
-| Kirchhoff's loop rule | Algebraic sum of potential changes in a closed loop is zero. |
-| Wheatstone bridge | Circuit used to compare resistances. |
+| Term                      | Meaning                                                                                    |
+| ------------------------- | ------------------------------------------------------------------------------------------ |
+| Electric current          | Rate of flow of charge.                                                                    |
+| Drift velocity            | Average velocity acquired by electrons under electric field.                               |
+| Current density           | Current per unit area normal to flow.                                                      |
+| Ohm's law                 | Current through conductor is proportional to potential difference at constant temperature. |
+| Resistance                | Opposition offered to current.                                                             |
+| Resistivity               | Material property determining resistance.                                                  |
+| Conductivity              | Reciprocal of resistivity.                                                                 |
+| Mobility                  | Drift velocity per unit electric field.                                                    |
+| emf                       | Work done by source per unit charge.                                                       |
+| Internal resistance       | Resistance inside a cell.                                                                  |
+| Terminal voltage          | Potential difference across cell terminals.                                                |
+| Kirchhoff's junction rule | Sum of currents entering a junction equals sum leaving.                                    |
+| Kirchhoff's loop rule     | Algebraic sum of potential changes in a closed loop is zero.                               |
+| Wheatstone bridge         | Circuit used to compare resistances.                                                       |
 
 ## Quick Formula Map
 
-| Concept | Formula |
-|---|---|
-| Current | `I = dQ/dt` |
-| Current density | `j = I/A` |
-| Current and drift velocity | `I = neA vd` |
-| Ohm's law | `V = IR` |
-| Resistance | `R = rho L/A` |
-| Conductivity | `sigma = 1/rho` |
-| Current density form | `j = sigma E` |
-| Mobility | `mu = vd/E` |
-| Temperature dependence | `R = R0[1 + alpha(T - T0)]` |
-| Power | `P = VI = I^2R = V^2/R` |
-| Terminal voltage, discharging cell | `V = epsilon - Ir` |
-| Terminal voltage, charging cell | `V = epsilon + Ir` |
-| Wheatstone balance | `P/Q = R/S` |
+| Concept                            | Formula                     |
+| ---------------------------------- | --------------------------- |
+| Current                            | `I = dQ/dt`                 |
+| Current density                    | `j = I/A`                   |
+| Current and drift velocity         | `I = neA vd`                |
+| Ohm's law                          | `V = IR`                    |
+| Resistance                         | `R = rho L/A`               |
+| Conductivity                       | `sigma = 1/rho`             |
+| Current density form               | `j = sigma E`               |
+| Mobility                           | `mu = vd/E`                 |
+| Temperature dependence             | `R = R0[1 + alpha(T - T0)]` |
+| Power                              | `P = VI = I^2R = V^2/R`     |
+| Terminal voltage, discharging cell | `V = epsilon - Ir`          |
+| Terminal voltage, charging cell    | `V = epsilon + Ir`          |
+| Wheatstone balance                 | `P/Q = R/S`                 |
 
 # Unit 3A: Electric Current
 
@@ -397,15 +398,15 @@ Write in this order:
 
 # Unit 3R: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Confusing electron direction with conventional current | Conventional current is opposite electron drift in metals. |
-| Forgetting area in `I = neA vd` | Current depends on cross-sectional area. |
-| Using Ohm's law for all devices | Ohm's law is not universal. |
-| Treating resistivity as same as resistance | Resistivity is material property; resistance depends on shape. |
-| Forgetting internal resistance | Real cells have terminal voltage different from emf. |
-| Wrong signs in Kirchhoff loop rule | Use one sign convention consistently. |
-| Applying Wheatstone condition when not balanced | `P/Q = R/S` only at balance. |
+| Mistake                                                | Correction                                                     |
+| ------------------------------------------------------ | -------------------------------------------------------------- |
+| Confusing electron direction with conventional current | Conventional current is opposite electron drift in metals.     |
+| Forgetting area in `I = neA vd`                        | Current depends on cross-sectional area.                       |
+| Using Ohm's law for all devices                        | Ohm's law is not universal.                                    |
+| Treating resistivity as same as resistance             | Resistivity is material property; resistance depends on shape. |
+| Forgetting internal resistance                         | Real cells have terminal voltage different from emf.           |
+| Wrong signs in Kirchhoff loop rule                     | Use one sign convention consistently.                          |
+| Applying Wheatstone condition when not balanced        | `P/Q = R/S` only at balance.                                   |
 
 ## Practice Set
 

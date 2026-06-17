@@ -984,16 +984,16 @@ provided `B` is not zero.
 
 ## 18. Choosing The Right Form
 
-| Given information | Best form |
-|---|---|
-| One point and slope | Point-slope |
-| Two points | Two-point |
-| Slope and y-intercept | Slope-intercept |
-| x-intercept and y-intercept | Intercept form |
-| Horizontal line | `y=c` |
-| Vertical line | `x=c` |
-| Distance problem | General form |
-| Parallel line to known line | Use same slope |
+| Given information                | Best form                     |
+| -------------------------------- | ----------------------------- |
+| One point and slope              | Point-slope                   |
+| Two points                       | Two-point                     |
+| Slope and y-intercept            | Slope-intercept               |
+| x-intercept and y-intercept      | Intercept form                |
+| Horizontal line                  | `y=c`                         |
+| Vertical line                    | `x=c`                         |
+| Distance problem                 | General form                  |
+| Parallel line to known line      | Use same slope                |
 | Perpendicular line to known line | Use negative reciprocal slope |
 
 ## 19. Distance Of A Point From A Line

@@ -39,26 +39,26 @@ By the end of this chapter, a learner should be able to:
 
 ## 3. Core Vocabulary
 
-| Term | Learner meaning |
-|---|---|
-| Atom | Smallest part of an element that participates in chemical reactions |
-| Electron | Negatively charged sub-atomic particle |
-| Proton | Positively charged sub-atomic particle in nucleus |
-| Neutron | Neutral sub-atomic particle in nucleus |
-| Atomic number | Number of protons in the nucleus |
-| Mass number | Number of protons plus neutrons |
-| Isotope | Atoms with same atomic number but different mass number |
-| Isobar | Atoms with same mass number but different atomic number |
-| Orbit | Fixed circular path in Bohr model |
-| Orbital | Region described by wave function where electron probability is high |
-| Photon | Quantum of electromagnetic radiation |
-| Spectrum | Arrangement of radiations by wavelength or frequency |
-| Quantum | Smallest packet of energy absorbed or emitted |
-| Work function | Minimum energy needed to eject electron from metal |
-| Quantum number | Number used to describe an electron or orbital |
-| Aufbau principle | Orbitals fill in order of increasing energy |
-| Pauli exclusion principle | No two electrons in an atom have same four quantum numbers |
-| Hund's rule | Degenerate orbitals fill singly before pairing |
+| Term                      | Learner meaning                                                      |
+| ------------------------- | -------------------------------------------------------------------- |
+| Atom                      | Smallest part of an element that participates in chemical reactions  |
+| Electron                  | Negatively charged sub-atomic particle                               |
+| Proton                    | Positively charged sub-atomic particle in nucleus                    |
+| Neutron                   | Neutral sub-atomic particle in nucleus                               |
+| Atomic number             | Number of protons in the nucleus                                     |
+| Mass number               | Number of protons plus neutrons                                      |
+| Isotope                   | Atoms with same atomic number but different mass number              |
+| Isobar                    | Atoms with same mass number but different atomic number              |
+| Orbit                     | Fixed circular path in Bohr model                                    |
+| Orbital                   | Region described by wave function where electron probability is high |
+| Photon                    | Quantum of electromagnetic radiation                                 |
+| Spectrum                  | Arrangement of radiations by wavelength or frequency                 |
+| Quantum                   | Smallest packet of energy absorbed or emitted                        |
+| Work function             | Minimum energy needed to eject electron from metal                   |
+| Quantum number            | Number used to describe an electron or orbital                       |
+| Aufbau principle          | Orbitals fill in order of increasing energy                          |
+| Pauli exclusion principle | No two electrons in an atom have same four quantum numbers           |
+| Hund's rule               | Degenerate orbitals fill singly before pairing                       |
 
 ## 4. Big Picture of the Chapter
 
@@ -209,10 +209,10 @@ Neutrons:
 ## 15. Fundamental Particles
 
 | Particle | Symbol | Relative charge | Approximate mass in u | Actual mass in kg |
-|---|---|---:|---:|---:|
-| Electron | e | -1 | 0.00054 | `9.1094 x 10^-31` |
-| Proton | p | +1 | 1.00727 | `1.6726 x 10^-27` |
-| Neutron | n | 0 | 1.00867 | `1.6749 x 10^-27` |
+| -------- | ------ | --------------: | --------------------: | ----------------: |
+| Electron | e      |              -1 |               0.00054 | `9.1094 x 10^-31` |
+| Proton   | p      |              +1 |               1.00727 | `1.6726 x 10^-27` |
+| Neutron  | n      |               0 |               1.00867 | `1.6749 x 10^-27` |
 
 ## 16. Why Atomic Models Were Needed
 
@@ -388,13 +388,13 @@ carbon-14 and nitrogen-14
 
 ## 28. Isotopes and Isobars Compared
 
-| Basis | Isotopes | Isobars |
-|---|---|---|
-| Atomic number | Same | Different |
-| Mass number | Different | Same |
-| Element | Same element | Different elements |
-| Chemical properties | Similar | Different |
-| Reason | Same electrons | Different protons and electrons |
+| Basis               | Isotopes       | Isobars                         |
+| ------------------- | -------------- | ------------------------------- |
+| Atomic number       | Same           | Different                       |
+| Mass number         | Different      | Same                            |
+| Element             | Same element   | Different elements              |
+| Chemical properties | Similar        | Different                       |
+| Reason              | Same electrons | Different protons and electrons |
 
 ## 29. Worked Example: Protons, Neutrons, Electrons
 
@@ -728,13 +728,13 @@ When excited hydrogen atoms emit radiation, spectral lines appear in different s
 
 Important series:
 
-| Series | Final level `n1` | Region |
-|---|---:|---|
-| Lyman | 1 | Ultraviolet |
-| Balmer | 2 | Visible |
-| Paschen | 3 | Infrared |
-| Brackett | 4 | Infrared |
-| Pfund | 5 | Infrared |
+| Series   | Final level `n1` | Region      |
+| -------- | ---------------: | ----------- |
+| Lyman    |                1 | Ultraviolet |
+| Balmer   |                2 | Visible     |
+| Paschen  |                3 | Infrared    |
+| Brackett |                4 | Infrared    |
+| Pfund    |                5 | Infrared    |
 
 ## 49. Rydberg Formula
 
@@ -972,13 +972,13 @@ Orbit is not the same as orbital.
 
 ## 65. Orbit and Orbital Compared
 
-| Basis | Orbit | Orbital |
-|---|---|---|
-| Model | Bohr model | Quantum mechanical model |
-| Meaning | Fixed circular path | Probability region |
-| Electron path | Definite | Not definite |
-| Basis | Classical picture | Wave function |
-| Validity | Limited | Modern atomic model |
+| Basis         | Orbit               | Orbital                  |
+| ------------- | ------------------- | ------------------------ |
+| Model         | Bohr model          | Quantum mechanical model |
+| Meaning       | Fixed circular path | Probability region       |
+| Electron path | Definite            | Not definite             |
+| Basis         | Classical picture   | Wave function            |
+| Validity      | Limited             | Modern atomic model      |
 
 ## 66. Main Features of Quantum Mechanical Model
 
@@ -1013,12 +1013,12 @@ Principal quantum number `n`:
 
 Shell names:
 
-| n | Shell |
-|---:|---|
-| 1 | K |
-| 2 | L |
-| 3 | M |
-| 4 | N |
+|   n | Shell |
+| --: | ----- |
+|   1 | K     |
+|   2 | L     |
+|   3 | M     |
+|   4 | N     |
 
 ## 69. Azimuthal Quantum Number
 
@@ -1030,13 +1030,13 @@ Azimuthal quantum number `l`:
 
 Subshell symbols:
 
-| l | Subshell |
-|---:|---|
-| 0 | s |
-| 1 | p |
-| 2 | d |
-| 3 | f |
-| 4 | g |
+|   l | Subshell |
+| --: | -------- |
+|   0 | s        |
+|   1 | p        |
+|   2 | d        |
+|   3 | f        |
+|   4 | g        |
 
 ## 70. Magnetic Quantum Number
 
@@ -1056,12 +1056,12 @@ $$
 
 Examples:
 
-| Subshell | l | Possible `m_l` values | Number of orbitals |
-|---|---:|---|---:|
-| s | 0 | 0 | 1 |
-| p | 1 | -1, 0, +1 | 3 |
-| d | 2 | -2, -1, 0, +1, +2 | 5 |
-| f | 3 | -3, -2, -1, 0, +1, +2, +3 | 7 |
+| Subshell |   l | Possible `m_l` values     | Number of orbitals |
+| -------- | --: | ------------------------- | -----------------: |
+| s        |   0 | 0                         |                  1 |
+| p        |   1 | -1, 0, +1                 |                  3 |
+| d        |   2 | -2, -1, 0, +1, +2         |                  5 |
+| f        |   3 | -3, -2, -1, 0, +1, +2, +3 |                  7 |
 
 ## 71. Spin Quantum Number
 
@@ -1209,10 +1209,10 @@ Rules:
 
 Examples:
 
-| Orbital | n | l | n + l |
-|---|---:|---:|---:|
-| 4s | 4 | 0 | 4 |
-| 3d | 3 | 2 | 5 |
+| Orbital |   n |   l | n + l |
+| ------- | --: | --: | ----: |
+| 4s      |   4 |   0 |     4 |
+| 3d      |   3 |   2 |     5 |
 
 So `4s` fills before `3d`.
 
@@ -1264,11 +1264,11 @@ For p orbitals:
 ## 85. Orbital Capacity
 
 | Subshell | Number of orbitals | Maximum electrons |
-|---|---:|---:|
-| s | 1 | 2 |
-| p | 3 | 6 |
-| d | 5 | 10 |
-| f | 7 | 14 |
+| -------- | -----------------: | ----------------: |
+| s        |                  1 |                 2 |
+| p        |                  3 |                 6 |
+| d        |                  5 |                10 |
+| f        |                  7 |                14 |
 
 Shell capacity:
 
@@ -1743,18 +1743,18 @@ Electronic configurations:
 
 ## 108. Common Student Confusions
 
-| Confusion | Correct understanding |
-|---|---|
-| Atom is indivisible | Atom contains sub-atomic particles |
-| Cathode rays are positive | Cathode rays are electrons and are negative |
-| Proton and neutron have same charge | Proton is positive; neutron is neutral |
-| Isotopes have different atomic numbers | Isotopes have same atomic number |
-| Rutherford model fully explains atom | It fails to explain stability and spectra |
-| Orbit and orbital are same | Orbit is path; orbital is probability region |
-| Bohr model works for all atoms | It works mainly for hydrogen-like species |
-| Brightness controls photoelectron energy | Frequency controls kinetic energy |
-| `psi` is probability | `psi^2` gives probability density |
-| `4s` always has higher energy than `3d` | `4s` fills before `3d` in Aufbau order |
+| Confusion                                | Correct understanding                        |
+| ---------------------------------------- | -------------------------------------------- |
+| Atom is indivisible                      | Atom contains sub-atomic particles           |
+| Cathode rays are positive                | Cathode rays are electrons and are negative  |
+| Proton and neutron have same charge      | Proton is positive; neutron is neutral       |
+| Isotopes have different atomic numbers   | Isotopes have same atomic number             |
+| Rutherford model fully explains atom     | It fails to explain stability and spectra    |
+| Orbit and orbital are same               | Orbit is path; orbital is probability region |
+| Bohr model works for all atoms           | It works mainly for hydrogen-like species    |
+| Brightness controls photoelectron energy | Frequency controls kinetic energy            |
+| `psi` is probability                     | `psi^2` gives probability density            |
+| `4s` always has higher energy than `3d`  | `4s` fills before `3d` in Aufbau order       |
 
 ## 109. Exam Answer: Discovery of Electron
 
@@ -1911,32 +1911,32 @@ Structure of atom
 
 ## 122. Glossary
 
-| Term | Meaning |
-|---|---|
-| Alpha particle | Positively charged helium nucleus |
-| Atomic number | Number of protons |
-| Atomic orbital | Wave function or probability region for electron |
-| Aufbau principle | Filling orbitals in increasing energy |
-| Black body | Ideal absorber and emitter of radiation |
-| Cathode rays | Streams of electrons |
-| Degenerate orbitals | Orbitals with same energy |
-| Electron | Negatively charged sub-atomic particle |
-| Frequency | Waves passing a point per second |
-| Hund's rule | Single filling before pairing in equal-energy orbitals |
-| Isobar | Same mass number, different atomic number |
-| Isotope | Same atomic number, different mass number |
-| Line spectrum | Spectrum of discrete lines |
-| Mass number | Protons plus neutrons |
-| Neutron | Neutral particle in nucleus |
-| Orbital | Region of high electron probability |
-| Pauli exclusion principle | No two electrons have same four quantum numbers |
-| Photon | Quantum of radiation |
-| Proton | Positively charged particle in nucleus |
-| Quantum | Discrete packet of energy |
-| Quantum number | Number describing orbital or electron state |
-| Threshold frequency | Minimum frequency for photoelectric emission |
-| Wavelength | Distance between successive wave crests |
-| Work function | Minimum energy needed to eject electron |
+| Term                      | Meaning                                                |
+| ------------------------- | ------------------------------------------------------ |
+| Alpha particle            | Positively charged helium nucleus                      |
+| Atomic number             | Number of protons                                      |
+| Atomic orbital            | Wave function or probability region for electron       |
+| Aufbau principle          | Filling orbitals in increasing energy                  |
+| Black body                | Ideal absorber and emitter of radiation                |
+| Cathode rays              | Streams of electrons                                   |
+| Degenerate orbitals       | Orbitals with same energy                              |
+| Electron                  | Negatively charged sub-atomic particle                 |
+| Frequency                 | Waves passing a point per second                       |
+| Hund's rule               | Single filling before pairing in equal-energy orbitals |
+| Isobar                    | Same mass number, different atomic number              |
+| Isotope                   | Same atomic number, different mass number              |
+| Line spectrum             | Spectrum of discrete lines                             |
+| Mass number               | Protons plus neutrons                                  |
+| Neutron                   | Neutral particle in nucleus                            |
+| Orbital                   | Region of high electron probability                    |
+| Pauli exclusion principle | No two electrons have same four quantum numbers        |
+| Photon                    | Quantum of radiation                                   |
+| Proton                    | Positively charged particle in nucleus                 |
+| Quantum                   | Discrete packet of energy                              |
+| Quantum number            | Number describing orbital or electron state            |
+| Threshold frequency       | Minimum frequency for photoelectric emission           |
+| Wavelength                | Distance between successive wave crests                |
+| Work function             | Minimum energy needed to eject electron                |
 
 ## 123. Final Revision Sheet
 

@@ -1,15 +1,16 @@
 # Chapter 5: Accounting Ratios
+
 ### NCERT Class 12 - Accountancy Part 2
 
 ## Chapter at a Glance
 
-| Item | Details |
-|---|---|
-| Main idea | Accounting ratios express relationships between financial figures to judge liquidity, solvency, efficiency, and profitability. |
-| Main groups | Liquidity ratios, solvency ratios, turnover ratios, and profitability ratios. |
-| Main skill | Choose the correct numerator and denominator. |
-| Main caution | A ratio is useful only when the two figures are meaningfully related. |
-| Interpretation focus | Compare with previous years, budgets, industry norms, or competitor ratios. |
+| Item                 | Details                                                                                                                        |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| Main idea            | Accounting ratios express relationships between financial figures to judge liquidity, solvency, efficiency, and profitability. |
+| Main groups          | Liquidity ratios, solvency ratios, turnover ratios, and profitability ratios.                                                  |
+| Main skill           | Choose the correct numerator and denominator.                                                                                  |
+| Main caution         | A ratio is useful only when the two figures are meaningfully related.                                                          |
+| Interpretation focus | Compare with previous years, budgets, industry norms, or competitor ratios.                                                    |
 
 ## Learning Outcomes
 
@@ -28,27 +29,27 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Ratio | Numerical relationship between two figures. |
-| Accounting ratio | Ratio calculated from accounting data. |
-| Liquidity | Ability to meet short-term obligations. |
-| Solvency | Ability to meet long-term obligations. |
-| Turnover | Efficiency with which assets or working capital generate revenue. |
-| Profitability | Ability to earn profit from sales, assets, or capital. |
-| Current assets | Assets expected to convert into cash within operating cycle or twelve months. |
-| Current liabilities | Liabilities payable within operating cycle or twelve months. |
-| Quick assets | Current assets excluding inventory and prepaid expenses. |
-| Capital employed | Long-term funds used in business. |
-| Shareholders' funds | Equity share capital plus reserves and surplus, adjusted as required. |
+| Term                | Meaning                                                                       |
+| ------------------- | ----------------------------------------------------------------------------- |
+| Ratio               | Numerical relationship between two figures.                                   |
+| Accounting ratio    | Ratio calculated from accounting data.                                        |
+| Liquidity           | Ability to meet short-term obligations.                                       |
+| Solvency            | Ability to meet long-term obligations.                                        |
+| Turnover            | Efficiency with which assets or working capital generate revenue.             |
+| Profitability       | Ability to earn profit from sales, assets, or capital.                        |
+| Current assets      | Assets expected to convert into cash within operating cycle or twelve months. |
+| Current liabilities | Liabilities payable within operating cycle or twelve months.                  |
+| Quick assets        | Current assets excluding inventory and prepaid expenses.                      |
+| Capital employed    | Long-term funds used in business.                                             |
+| Shareholders' funds | Equity share capital plus reserves and surplus, adjusted as required.         |
 
 ## Quick Learning Map
 
-| Ratio Group | Main Question |
-|---|---|
-| Liquidity | Can short-term dues be paid? |
-| Solvency | Is long-term debt risk manageable? |
-| Turnover | Are assets being used efficiently? |
+| Ratio Group   | Main Question                      |
+| ------------- | ---------------------------------- |
+| Liquidity     | Can short-term dues be paid?       |
+| Solvency      | Is long-term debt risk manageable? |
+| Turnover      | Are assets being used efficiently? |
 | Profitability | Is the firm earning enough profit? |
 
 # Unit 5A: Meaning of Accounting Ratios
@@ -84,32 +85,32 @@ Ratio analysis helps to:
 
 ## Advantages
 
-| Advantage | Explanation |
-|---|---|
-| Simplifies data | Converts large figures into relationships. |
-| Helps comparison | Enables comparison across periods and firms. |
-| Helps planning | Trends support budgets and forecasts. |
-| Measures efficiency | Shows how well assets and funds are used. |
-| Supports decisions | Useful for management, investors, lenders, and creditors. |
+| Advantage           | Explanation                                               |
+| ------------------- | --------------------------------------------------------- |
+| Simplifies data     | Converts large figures into relationships.                |
+| Helps comparison    | Enables comparison across periods and firms.              |
+| Helps planning      | Trends support budgets and forecasts.                     |
+| Measures efficiency | Shows how well assets and funds are used.                 |
+| Supports decisions  | Useful for management, investors, lenders, and creditors. |
 
 ## Limitations
 
-| Limitation | Explanation |
-|---|---|
-| Depends on statements | Wrong accounting data gives wrong ratios. |
-| Different policies | Depreciation or inventory methods may reduce comparability. |
+| Limitation                  | Explanation                                                 |
+| --------------------------- | ----------------------------------------------------------- |
+| Depends on statements       | Wrong accounting data gives wrong ratios.                   |
+| Different policies          | Depreciation or inventory methods may reduce comparability. |
 | Ignores qualitative factors | Brand, staff quality, and market conditions may not appear. |
-| No universal standard | Ideal ratio may vary by industry. |
-| Historical | Ratios often use past data. |
-| Can be manipulated | Window dressing can distort ratios. |
+| No universal standard       | Ideal ratio may vary by industry.                           |
+| Historical                  | Ratios often use past data.                                 |
+| Can be manipulated          | Window dressing can distort ratios.                         |
 
 # Unit 5D: Types of Ratios
 
-| Group | Main Ratios |
-|---|---|
-| Liquidity | Current ratio, quick ratio. |
-| Solvency | Debt-equity ratio, debt to capital employed, proprietary ratio, total assets to debt, interest coverage. |
-| Turnover | Inventory turnover, trade receivables turnover, trade payables turnover, capital employed turnover. |
+| Group         | Main Ratios                                                                                                                                                                                                |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Liquidity     | Current ratio, quick ratio.                                                                                                                                                                                |
+| Solvency      | Debt-equity ratio, debt to capital employed, proprietary ratio, total assets to debt, interest coverage.                                                                                                   |
+| Turnover      | Inventory turnover, trade receivables turnover, trade payables turnover, capital employed turnover.                                                                                                        |
 | Profitability | Gross profit ratio, operating ratio, operating profit ratio, net profit ratio, return on capital employed, return on shareholders' funds, EPS, book value per share, dividend payout, price earning ratio. |
 
 # Unit 5E: Liquidity Ratios
@@ -124,11 +125,11 @@ It is expressed as a ratio, such as 2:1.
 
 ## Interpretation
 
-| Current Ratio | Possible Meaning |
-|---|---|
-| Very low | Short-term payment risk. |
-| Around expected norm | Reasonable liquidity, depending on industry. |
-| Very high | Funds may be blocked in inventory or receivables. |
+| Current Ratio        | Possible Meaning                                  |
+| -------------------- | ------------------------------------------------- |
+| Very low             | Short-term payment risk.                          |
+| Around expected norm | Reasonable liquidity, depending on industry.      |
+| Very high            | Funds may be blocked in inventory or receivables. |
 
 ## Quick Ratio
 
@@ -270,38 +271,38 @@ It shows how much investors are willing to pay for each rupee of earnings.
 
 # Unit 5J: Formula Reference Table
 
-| Ratio | Formula |
-|---|---|
-| Current ratio | Current assets / Current liabilities |
-| Quick ratio | Quick assets / Current liabilities |
-| Debt-equity ratio | Long-term debt / Shareholders' funds |
-| Proprietary ratio | Shareholders' funds / Total assets |
-| Interest coverage | Profit before interest and tax / Interest |
-| Inventory turnover | Cost of revenue from operations / Average inventory |
-| Receivables turnover | Net credit revenue from operations / Average trade receivables |
-| Payables turnover | Net credit purchases / Average trade payables |
-| Capital employed turnover | Revenue from operations / Capital employed |
-| Gross profit ratio | Gross profit x 100 / Revenue from operations |
-| Operating ratio | Operating cost x 100 / Revenue from operations |
-| Net profit ratio | Net profit x 100 / Revenue from operations |
-| Return on capital employed | Profit before interest and tax x 100 / Capital employed |
-| Earnings per share | Profit available for equity shareholders / Number of equity shares |
-| Book value per share | Equity shareholders' funds / Number of equity shares |
-| Price earning ratio | Market price per share / Earnings per share |
+| Ratio                      | Formula                                                            |
+| -------------------------- | ------------------------------------------------------------------ |
+| Current ratio              | Current assets / Current liabilities                               |
+| Quick ratio                | Quick assets / Current liabilities                                 |
+| Debt-equity ratio          | Long-term debt / Shareholders' funds                               |
+| Proprietary ratio          | Shareholders' funds / Total assets                                 |
+| Interest coverage          | Profit before interest and tax / Interest                          |
+| Inventory turnover         | Cost of revenue from operations / Average inventory                |
+| Receivables turnover       | Net credit revenue from operations / Average trade receivables     |
+| Payables turnover          | Net credit purchases / Average trade payables                      |
+| Capital employed turnover  | Revenue from operations / Capital employed                         |
+| Gross profit ratio         | Gross profit x 100 / Revenue from operations                       |
+| Operating ratio            | Operating cost x 100 / Revenue from operations                     |
+| Net profit ratio           | Net profit x 100 / Revenue from operations                         |
+| Return on capital employed | Profit before interest and tax x 100 / Capital employed            |
+| Earnings per share         | Profit available for equity shareholders / Number of equity shares |
+| Book value per share       | Equity shareholders' funds / Number of equity shares               |
+| Price earning ratio        | Market price per share / Earnings per share                        |
 
 # Unit 5K: Interpretation Guide
 
-| Ratio Movement | Possible Meaning |
-|---|---|
-| Current ratio improves | Liquidity may improve, but too high may show idle funds. |
-| Quick ratio falls | Immediate payment ability may weaken. |
-| Debt-equity ratio rises | Financial risk may increase. |
-| Interest coverage rises | Interest payment capacity improves. |
-| Inventory turnover rises | Inventory moves faster, but too high may mean low stock levels. |
-| Receivables turnover falls | Collection may be slower. |
-| Gross profit ratio falls | Cost of goods sold may be rising or selling price may be falling. |
-| Net profit ratio rises | Overall profitability improves. |
-| Return on capital employed rises | Long-term funds are being used more effectively. |
+| Ratio Movement                   | Possible Meaning                                                  |
+| -------------------------------- | ----------------------------------------------------------------- |
+| Current ratio improves           | Liquidity may improve, but too high may show idle funds.          |
+| Quick ratio falls                | Immediate payment ability may weaken.                             |
+| Debt-equity ratio rises          | Financial risk may increase.                                      |
+| Interest coverage rises          | Interest payment capacity improves.                               |
+| Inventory turnover rises         | Inventory moves faster, but too high may mean low stock levels.   |
+| Receivables turnover falls       | Collection may be slower.                                         |
+| Gross profit ratio falls         | Cost of goods sold may be rising or selling price may be falling. |
+| Net profit ratio rises           | Overall profitability improves.                                   |
+| Return on capital employed rises | Long-term funds are being used more effectively.                  |
 
 # Unit 5L: Worked Mini Case
 
@@ -325,15 +326,15 @@ Current ratio is comfortable. Quick ratio is also above 1:1, suggesting reasonab
 
 # Unit 5M: Common Mistakes and Corrections
 
-| Mistake | Correct Approach |
-|---|---|
-| Including inventory in quick assets | Exclude inventory and prepaid expenses. |
+| Mistake                                                         | Correct Approach                                              |
+| --------------------------------------------------------------- | ------------------------------------------------------------- |
+| Including inventory in quick assets                             | Exclude inventory and prepaid expenses.                       |
 | Using total debt in debt-equity when long-term debt is required | Use long-term debt unless formula or question says otherwise. |
-| Using sales instead of cost of sales for inventory turnover | Use cost of revenue from operations. |
-| Ignoring average inventory or average receivables | Use average when opening and closing figures are available. |
-| Treating high current ratio as always good | Very high ratio may indicate idle current assets. |
-| Forgetting preference dividend in EPS | Deduct preference dividend from profit after tax. |
-| Mixing operating profit and net profit | Use the profit required by each ratio. |
+| Using sales instead of cost of sales for inventory turnover     | Use cost of revenue from operations.                          |
+| Ignoring average inventory or average receivables               | Use average when opening and closing figures are available.   |
+| Treating high current ratio as always good                      | Very high ratio may indicate idle current assets.             |
+| Forgetting preference dividend in EPS                           | Deduct preference dividend from profit after tax.             |
+| Mixing operating profit and net profit                          | Use the profit required by each ratio.                        |
 
 ## Practice Set
 

@@ -1,4 +1,5 @@
 # Chapter 4: Determinants
+
 ### NCERT Class 12 - Maths Part 1
 
 ## Chapter at a Glance
@@ -23,28 +24,28 @@ By the end of this chapter, learners should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Determinant | A scalar value associated with a square matrix. |
-| `det(A)` or `|A|` | Notation for determinant of matrix `A`. |
-| Singular matrix | Square matrix whose determinant is zero. |
-| Non-singular matrix | Square matrix whose determinant is non-zero. |
-| Minor | Determinant obtained by deleting one row and one column. |
-| Cofactor | Signed minor: `C_ij = (-1)^(i+j) M_ij`. |
-| Adjoint | Transpose of the cofactor matrix. |
-| Inverse | Matrix `A^-1` satisfying `AA^-1 = A^-1A = I`. |
+| Term                | Meaning                                                  |
+| ------------------- | -------------------------------------------------------- | --- | --------------------------------------- |
+| Determinant         | A scalar value associated with a square matrix.          |
+| `det(A)` or `       | A                                                        | `   | Notation for determinant of matrix `A`. |
+| Singular matrix     | Square matrix whose determinant is zero.                 |
+| Non-singular matrix | Square matrix whose determinant is non-zero.             |
+| Minor               | Determinant obtained by deleting one row and one column. |
+| Cofactor            | Signed minor: `C_ij = (-1)^(i+j) M_ij`.                  |
+| Adjoint             | Transpose of the cofactor matrix.                        |
+| Inverse             | Matrix `A^-1` satisfying `AA^-1 = A^-1A = I`.            |
 
 ## Quick Formula Map
 
-| Concept | Formula |
-|---|---|
-| Order 1 determinant | If `A = [a]`, then `|A| = a`. |
-| Order 2 determinant | `|a b; c d| = ad - bc`. |
-| Cofactor | `C_ij = (-1)^(i+j) M_ij`. |
-| Adjoint | `adj(A) = (cofactor matrix)^T`. |
-| Inverse | `A^-1 = adj(A)/|A|`, if `|A| != 0`. |
-| Area of triangle | `1/2 |x1(y2-y3) + x2(y3-y1) + x3(y1-y2)|`. |
-| Product rule | `det(AB) = det(A) det(B)`. |
+| Concept             | Formula                         |
+| ------------------- | ------------------------------- | --------------------------------- | ----------- | --- | ------ |
+| Order 1 determinant | If `A = [a]`, then `            | A                                 | = a`.       |
+| Order 2 determinant | `                               | a b; c d                          | = ad - bc`. |
+| Cofactor            | `C_ij = (-1)^(i+j) M_ij`.       |
+| Adjoint             | `adj(A) = (cofactor matrix)^T`. |
+| Inverse             | `A^-1 = adj(A)/                 | A                                 | `, if `     | A   | != 0`. |
+| Area of triangle    | `1/2                            | x1(y2-y3) + x2(y3-y1) + x3(y1-y2) | `.          |
+| Product rule        | `det(AB) = det(A) det(B)`.      |
 
 # Unit 4A: Determinant of Order One
 
@@ -515,15 +516,15 @@ Write in this order:
 
 # Unit 4Q: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Taking determinant of a non-square matrix | Determinants exist only for square matrices. |
-| Using `ab - cd` for `2 x 2` determinant | Correct formula is `ad - bc`. |
-| Forgetting sign changes in cofactor expansion | Use the sign pattern carefully. |
-| Confusing minor and cofactor | Cofactor is signed minor. |
-| Forgetting transpose in adjoint | Adjoint is transpose of the cofactor matrix. |
+| Mistake                                        | Correction                                      |
+| ---------------------------------------------- | ----------------------------------------------- |
+| Taking determinant of a non-square matrix      | Determinants exist only for square matrices.    |
+| Using `ab - cd` for `2 x 2` determinant        | Correct formula is `ad - bc`.                   |
+| Forgetting sign changes in cofactor expansion  | Use the sign pattern carefully.                 |
+| Confusing minor and cofactor                   | Cofactor is signed minor.                       |
+| Forgetting transpose in adjoint                | Adjoint is transpose of the cofactor matrix.    |
 | Saying inverse exists when determinant is zero | If determinant is zero, inverse does not exist. |
-| Ignoring absolute value in area formula | Area must be non-negative. |
+| Ignoring absolute value in area formula        | Area must be non-negative.                      |
 
 ## Practice Set
 

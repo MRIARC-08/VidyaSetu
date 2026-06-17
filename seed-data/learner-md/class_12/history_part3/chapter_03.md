@@ -2,14 +2,14 @@
 
 ## Chapter Identity
 
-| Item | Details |
-| --- | --- |
-| Class | 12 |
-| Subject | History Part 3 |
-| Chapter | Colonial Cities: Urbanisation, Planning and Architecture |
-| Period | Mainly eighteenth to early twentieth century |
-| Core Skill | Explaining how colonial rule reshaped Indian urban spaces, economies, records, planning, segregation, and architecture |
-| Main Idea | Colonial cities such as Madras, Bombay, and Calcutta grew as centres of trade, administration, racial segregation, and imperial display. |
+| Item       | Details                                                                                                                                  |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Class      | 12                                                                                                                                       |
+| Subject    | History Part 3                                                                                                                           |
+| Chapter    | Colonial Cities: Urbanisation, Planning and Architecture                                                                                 |
+| Period     | Mainly eighteenth to early twentieth century                                                                                             |
+| Core Skill | Explaining how colonial rule reshaped Indian urban spaces, economies, records, planning, segregation, and architecture                   |
+| Main Idea  | Colonial cities such as Madras, Bombay, and Calcutta grew as centres of trade, administration, racial segregation, and imperial display. |
 
 ## 1. Big Picture
 
@@ -32,13 +32,13 @@ The chapter also teaches how historians use maps, censuses, municipal records, s
 
 Before British rule, Indian towns had their own social and economic character.
 
-| Feature | Explanation |
-| --- | --- |
-| Fortified spaces | Many towns had walls marking separation from countryside. |
-| Ruling elites | Kings, nobles, administrators, and religious elites shaped urban life. |
-| Artisan and trading groups | Towns housed craftspeople, merchants, and service providers. |
-| Relationship with countryside | Towns depended on agricultural surplus and taxes. |
-| Fluid boundary | People, goods, pilgrims, traders, and labourers moved between town and village. |
+| Feature                       | Explanation                                                                     |
+| ----------------------------- | ------------------------------------------------------------------------------- |
+| Fortified spaces              | Many towns had walls marking separation from countryside.                       |
+| Ruling elites                 | Kings, nobles, administrators, and religious elites shaped urban life.          |
+| Artisan and trading groups    | Towns housed craftspeople, merchants, and service providers.                    |
+| Relationship with countryside | Towns depended on agricultural surplus and taxes.                               |
+| Fluid boundary                | People, goods, pilgrims, traders, and labourers moved between town and village. |
 
 Important pre-colonial cities included Delhi, Agra, Lahore, Surat, Masulipatnam, Dhaka, and others.
 
@@ -54,10 +54,10 @@ Older commercial centres such as Surat, Masulipatnam, and Dhaka declined when tr
 
 Madras, Bombay, and Calcutta rose because they were linked to the English East India Company's trade and later to British political control.
 
-| City | Early Colonial Importance |
-| --- | --- |
-| Madras | Company settlement with Fort St George. |
-| Bombay | Port city that grew through trade, reclamation, and later cotton industry. |
+| City     | Early Colonial Importance                                                        |
+| -------- | -------------------------------------------------------------------------------- |
+| Madras   | Company settlement with Fort St George.                                          |
+| Bombay   | Port city that grew through trade, reclamation, and later cotton industry.       |
 | Calcutta | Company settlement with Fort William; later capital of British India until 1911. |
 
 ## 4. Why Port Cities Grew
@@ -79,15 +79,15 @@ Colonial rule produced large amounts of data. This helps historians study coloni
 
 ### Major Sources
 
-| Source | What It Reveals |
-| --- | --- |
-| Census records | Population size, occupations, caste, religion, migration. |
-| Municipal records | Water, sanitation, roads, taxes, public health, urban services. |
-| Maps | Layout, roads, forts, neighbourhoods, expansion, planning. |
-| Surveys | Land use, property, topography, revenue. |
-| Official reports | Administrative concerns and policy decisions. |
-| Paintings/photographs | Visual evidence of buildings, streets, dress, and urban life. |
-| Travel accounts | Observations by visitors and officials. |
+| Source                | What It Reveals                                                 |
+| --------------------- | --------------------------------------------------------------- |
+| Census records        | Population size, occupations, caste, religion, migration.       |
+| Municipal records     | Water, sanitation, roads, taxes, public health, urban services. |
+| Maps                  | Layout, roads, forts, neighbourhoods, expansion, planning.      |
+| Surveys               | Land use, property, topography, revenue.                        |
+| Official reports      | Administrative concerns and policy decisions.                   |
+| Paintings/photographs | Visual evidence of buildings, streets, dress, and urban life.   |
+| Travel accounts       | Observations by visitors and officials.                         |
 
 ## 6. Reading Maps Critically
 
@@ -129,19 +129,19 @@ The rise of the three presidency cities did not mean India became highly industr
 
 The English East India Company built forts to protect trade and settlements.
 
-| City | Fort |
-| --- | --- |
-| Madras | Fort St George |
-| Calcutta | Fort William |
-| Bombay | The Fort |
+| City     | Fort           |
+| -------- | -------------- |
+| Madras   | Fort St George |
+| Calcutta | Fort William   |
+| Bombay   | The Fort       |
 
 Around these forts, separate European and Indian settlements developed.
 
 ### White Town and Black Town
 
-| Area | Meaning |
-| --- | --- |
-| White Town | European settlement near the fort; associated with colonial officials and merchants. |
+| Area       | Meaning                                                                                        |
+| ---------- | ---------------------------------------------------------------------------------------------- |
+| White Town | European settlement near the fort; associated with colonial officials and merchants.           |
 | Black Town | Indian settlement outside the fort; included merchants, artisans, workers, and service groups. |
 
 This division reflected racial segregation and colonial hierarchy.
@@ -179,12 +179,12 @@ Railways strengthened colonial economic extraction by linking interior productio
 
 Modern industries appeared in some cities:
 
-| Place | Industry |
-| --- | --- |
-| Bombay | Cotton mills. |
-| Calcutta outskirts | Jute mills. |
-| Kanpur | Leather, woollen and cotton textiles. |
-| Jamshedpur | Steel. |
+| Place              | Industry                              |
+| ------------------ | ------------------------------------- |
+| Bombay             | Cotton mills.                         |
+| Calcutta outskirts | Jute mills.                           |
+| Kanpur             | Leather, woollen and cotton textiles. |
+| Jamshedpur         | Steel.                                |
 
 However, Madras, Bombay, and Calcutta were not primarily industrial cities. Much of their workforce was in the tertiary sector: trade, transport, services, administration, and domestic work.
 
@@ -211,12 +211,12 @@ Bombay's growth created a housing crisis. Workers often lived in chawls.
 
 A chawl was a multi-storeyed tenement building divided into small one-room units, usually with shared facilities.
 
-| Feature | Impact |
-| --- | --- |
-| Small rooms | Crowded living conditions. |
-| Shared water/toilets | Poor sanitation and disease risk. |
-| Low rent | Accessible to workers. |
-| Dense community | Social networks and neighbourhood cultures formed. |
+| Feature              | Impact                                             |
+| -------------------- | -------------------------------------------------- |
+| Small rooms          | Crowded living conditions.                         |
+| Shared water/toilets | Poor sanitation and disease risk.                  |
+| Low rent             | Accessible to workers.                             |
+| Dense community      | Social networks and neighbourhood cultures formed. |
 
 ## 14. Segregation and Town Planning
 
@@ -273,25 +273,25 @@ Buildings in colonial cities displayed power and identity.
 
 ### Major Styles
 
-| Style | Features | Meaning |
-| --- | --- | --- |
-| Neo-classical | Columns, symmetry, grand proportions. | Linked British rule with classical authority. |
-| Neo-Gothic | Pointed arches, high roofs, towers, decorative detail. | Associated with modernity, civic pride, and European institutions. |
-| Indo-Saracenic | Combined Indian and Islamic elements with European design. | Tried to present British rule as connected to Indian tradition. |
+| Style          | Features                                                   | Meaning                                                            |
+| -------------- | ---------------------------------------------------------- | ------------------------------------------------------------------ |
+| Neo-classical  | Columns, symmetry, grand proportions.                      | Linked British rule with classical authority.                      |
+| Neo-Gothic     | Pointed arches, high roofs, towers, decorative detail.     | Associated with modernity, civic pride, and European institutions. |
+| Indo-Saracenic | Combined Indian and Islamic elements with European design. | Tried to present British rule as connected to Indian tradition.    |
 
 Architecture was not only practical. It expressed imperial power.
 
 ## 18. Important Buildings and Spaces
 
-| Building/Space | Historical Importance |
-| --- | --- |
-| Fort St George | Early British settlement in Madras. |
-| Fort William | British fort in Calcutta. |
-| Bombay Fort | Core of early colonial Bombay. |
-| Writers' Building | Administrative office in Calcutta. |
-| Victoria Terminus | Major railway station and symbol of imperial architecture. |
-| Bungalows | European residential form in Civil Lines. |
-| Clubs and racecourses | Exclusive spaces of colonial society. |
+| Building/Space        | Historical Importance                                      |
+| --------------------- | ---------------------------------------------------------- |
+| Fort St George        | Early British settlement in Madras.                        |
+| Fort William          | British fort in Calcutta.                                  |
+| Bombay Fort           | Core of early colonial Bombay.                             |
+| Writers' Building     | Administrative office in Calcutta.                         |
+| Victoria Terminus     | Major railway station and symbol of imperial architecture. |
+| Bungalows             | European residential form in Civil Lines.                  |
+| Clubs and racecourses | Exclusive spaces of colonial society.                      |
 
 ## 19. Bombay as an Example
 
@@ -325,13 +325,13 @@ Madras developed around Fort St George. It had a White Town near the fort and a 
 
 ## 22. Common Mistakes and Corrections
 
-| Mistake | Correction |
-| --- | --- |
+| Mistake                                                | Correction                                                                                 |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
 | Thinking colonial cities grew only because of industry | They grew mainly through trade, administration, ports, and services; industry was limited. |
-| Treating maps as neutral | Maps reflect colonial priorities and may hide many social realities. |
-| Ignoring racial segregation | White Town/Black Town and Civil Lines were central to colonial urban form. |
-| Assuming sanitation was only welfare | It was also a tool of regulation and control. |
-| Thinking architecture was only decorative | It displayed imperial authority and racial hierarchy. |
+| Treating maps as neutral                               | Maps reflect colonial priorities and may hide many social realities.                       |
+| Ignoring racial segregation                            | White Town/Black Town and Civil Lines were central to colonial urban form.                 |
+| Assuming sanitation was only welfare                   | It was also a tool of regulation and control.                                              |
+| Thinking architecture was only decorative              | It displayed imperial authority and racial hierarchy.                                      |
 
 ## 23. Exam Answer Frames
 
@@ -362,18 +362,18 @@ Colonial cities were marked by racial segregation. European settlements near for
 
 ## 25. Quick Revision Sheet
 
-| Term | Recall |
-| --- | --- |
-| Colonial city | City shaped by colonial trade, administration, planning, and segregation. |
-| White Town | European settlement. |
-| Black Town | Indian settlement. |
-| Civil Lines | Spacious European residential area. |
-| Cantonment | Military settlement. |
-| Chawl | Crowded worker tenement in Bombay. |
-| Hinterland | Interior region connected to a port/city. |
-| Neo-classical | European classical architectural style. |
-| Neo-Gothic | European Gothic revival style. |
-| Indo-Saracenic | Hybrid colonial style using Indian and Islamic elements. |
+| Term           | Recall                                                                    |
+| -------------- | ------------------------------------------------------------------------- |
+| Colonial city  | City shaped by colonial trade, administration, planning, and segregation. |
+| White Town     | European settlement.                                                      |
+| Black Town     | Indian settlement.                                                        |
+| Civil Lines    | Spacious European residential area.                                       |
+| Cantonment     | Military settlement.                                                      |
+| Chawl          | Crowded worker tenement in Bombay.                                        |
+| Hinterland     | Interior region connected to a port/city.                                 |
+| Neo-classical  | European classical architectural style.                                   |
+| Neo-Gothic     | European Gothic revival style.                                            |
+| Indo-Saracenic | Hybrid colonial style using Indian and Islamic elements.                  |
 
 ## 26. Final Learning Takeaway
 

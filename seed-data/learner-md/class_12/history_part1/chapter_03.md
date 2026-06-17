@@ -1,4 +1,5 @@
 # Chapter 3: Kinship, Caste and Class
+
 ### NCERT Class 12 - History Part 1
 
 ## Chapter at a Glance
@@ -22,28 +23,28 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Kinship | Social relationships based on family, descent, and marriage. |
-| Patriliny | Descent and inheritance traced through male line. |
-| Matriliny | Descent traced through female line. |
-| Gotra | Lineage or clan identity, especially among Brahmanas. |
-| Exogamy | Marriage outside a group. |
-| Endogamy | Marriage within a group. |
-| Varna | Fourfold social classification in Brahmanical texts. |
-| Jati | Birth-based social group, often linked with occupation and marriage. |
-| Normative text | Text prescribing ideal rules of conduct. |
+| Term           | Meaning                                                              |
+| -------------- | -------------------------------------------------------------------- |
+| Kinship        | Social relationships based on family, descent, and marriage.         |
+| Patriliny      | Descent and inheritance traced through male line.                    |
+| Matriliny      | Descent traced through female line.                                  |
+| Gotra          | Lineage or clan identity, especially among Brahmanas.                |
+| Exogamy        | Marriage outside a group.                                            |
+| Endogamy       | Marriage within a group.                                             |
+| Varna          | Fourfold social classification in Brahmanical texts.                 |
+| Jati           | Birth-based social group, often linked with occupation and marriage. |
+| Normative text | Text prescribing ideal rules of conduct.                             |
 
 ## Quick Learning Map
 
-| Social theme | Core issue |
-|---|---|
-| Kinship | Family, descent, inheritance |
-| Marriage | Alliance, rules, gender control |
-| Caste | Varna ideals and jati realities |
-| Class | Access to wealth and power |
-| Gender | Property, marriage, status |
-| Texts | Ideals vs actual practice |
+| Social theme | Core issue                      |
+| ------------ | ------------------------------- |
+| Kinship      | Family, descent, inheritance    |
+| Marriage     | Alliance, rules, gender control |
+| Caste        | Varna ideals and jati realities |
+| Class        | Access to wealth and power      |
+| Gender       | Property, marriage, status      |
+| Texts        | Ideals vs actual practice       |
 
 # Unit 3A: Mahabharata as a Historical Text
 
@@ -191,13 +192,13 @@ For gender:
 
 # Unit 3N: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
+| Mistake                                        | Correction                                             |
+| ---------------------------------------------- | ------------------------------------------------------ |
 | Treating Mahabharata as simple factual history | It is a layered text with social ideas and narratives. |
-| Assuming varna fully describes society | Jati and regional variation made society more complex. |
-| Ignoring women | Gender is central to kinship and property. |
-| Equating norms with practice | Prescribed rules may differ from actual life. |
-| Reading caste as fixed without contest | Social status was debated and sometimes challenged. |
+| Assuming varna fully describes society         | Jati and regional variation made society more complex. |
+| Ignoring women                                 | Gender is central to kinship and property.             |
+| Equating norms with practice                   | Prescribed rules may differ from actual life.          |
+| Reading caste as fixed without contest         | Social status was debated and sometimes challenged.    |
 
 ## Practice Set
 

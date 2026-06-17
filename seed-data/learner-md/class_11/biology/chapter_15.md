@@ -4,16 +4,16 @@ Class 11 Biology
 
 ## Chapter Profile
 
-| Item | Details |
-|---|---|
-| Class | 11 |
-| Subject | Biology |
-| Chapter | 15 |
-| Title | Body Fluids and Circulation |
-| Main theme | Transport of materials through blood, lymph, heart, and blood vessels |
-| Main processes | Blood composition, lymph formation, clotting, heart cycle, ECG, double circulation |
-| Core skill | Track blood flow through the heart and body while linking structure with function |
-| Learner goal | Explain how body fluids transport substances and how the heart maintains circulation |
+| Item           | Details                                                                              |
+| -------------- | ------------------------------------------------------------------------------------ |
+| Class          | 11                                                                                   |
+| Subject        | Biology                                                                              |
+| Chapter        | 15                                                                                   |
+| Title          | Body Fluids and Circulation                                                          |
+| Main theme     | Transport of materials through blood, lymph, heart, and blood vessels                |
+| Main processes | Blood composition, lymph formation, clotting, heart cycle, ECG, double circulation   |
+| Core skill     | Track blood flow through the heart and body while linking structure with function    |
+| Learner goal   | Explain how body fluids transport substances and how the heart maintains circulation |
 
 ## How To Study This Chapter
 
@@ -78,62 +78,62 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Blood | Fluid connective tissue with plasma and formed elements |
-| Plasma | Fluid matrix of blood |
-| Formed elements | RBCs, WBCs, and platelets |
-| Serum | Plasma without clotting factors |
-| Erythrocyte | Red blood cell |
-| Leucocyte | White blood cell |
-| Platelet | Cell fragment involved in clotting |
-| Fibrinogen | Plasma protein required for clotting |
-| Globulin | Plasma protein mainly involved in defence |
-| Albumin | Plasma protein helping osmotic balance |
-| Haemoglobin | Iron-containing protein in RBCs for gas transport |
-| Granulocyte | WBC with granules, such as neutrophil, eosinophil, basophil |
-| Agranulocyte | WBC without prominent granules, such as lymphocyte, monocyte |
-| Antigen | Molecule that can induce immune response |
-| Antibody | Protein produced against an antigen |
-| ABO grouping | Blood group system based on A and B antigens |
-| Rh factor | RBC antigen related to Rhesus factor |
-| Erythroblastosis foetalis | Rh incompatibility condition affecting fetus or newborn |
-| Coagulation | Blood clotting |
-| Fibrin | Thread-like clot protein formed from fibrinogen |
-| Thrombin | Enzyme converting fibrinogen to fibrin |
-| Prothrombin | Inactive precursor of thrombin |
-| Lymph | Fluid in lymphatic vessels derived from tissue fluid |
-| Tissue fluid | Interstitial fluid around tissue cells |
-| Open circulation | Blood flows into open spaces or sinuses |
-| Closed circulation | Blood remains within closed vessels |
-| Atrium | Upper receiving chamber of heart |
-| Ventricle | Lower pumping chamber of heart |
-| Tricuspid valve | Valve between right atrium and right ventricle |
-| Bicuspid valve | Mitral valve between left atrium and left ventricle |
-| Semilunar valve | Valve at opening of pulmonary artery or aorta |
-| SAN | Sino-atrial node, heart pacemaker |
-| AVN | Atrio-ventricular node |
-| Cardiac cycle | One complete sequence of heart contraction and relaxation |
-| Systole | Contraction phase |
-| Diastole | Relaxation phase |
-| Stroke volume | Blood pumped by each ventricle per beat |
-| Cardiac output | Blood pumped by each ventricle per minute |
-| ECG | Electrocardiogram, recording of heart electrical events |
-| Double circulation | Two separate pathways: pulmonary and systemic |
-| Myogenic heart | Heart whose beat originates in cardiac muscle tissue |
+| Term                      | Meaning                                                      |
+| ------------------------- | ------------------------------------------------------------ |
+| Blood                     | Fluid connective tissue with plasma and formed elements      |
+| Plasma                    | Fluid matrix of blood                                        |
+| Formed elements           | RBCs, WBCs, and platelets                                    |
+| Serum                     | Plasma without clotting factors                              |
+| Erythrocyte               | Red blood cell                                               |
+| Leucocyte                 | White blood cell                                             |
+| Platelet                  | Cell fragment involved in clotting                           |
+| Fibrinogen                | Plasma protein required for clotting                         |
+| Globulin                  | Plasma protein mainly involved in defence                    |
+| Albumin                   | Plasma protein helping osmotic balance                       |
+| Haemoglobin               | Iron-containing protein in RBCs for gas transport            |
+| Granulocyte               | WBC with granules, such as neutrophil, eosinophil, basophil  |
+| Agranulocyte              | WBC without prominent granules, such as lymphocyte, monocyte |
+| Antigen                   | Molecule that can induce immune response                     |
+| Antibody                  | Protein produced against an antigen                          |
+| ABO grouping              | Blood group system based on A and B antigens                 |
+| Rh factor                 | RBC antigen related to Rhesus factor                         |
+| Erythroblastosis foetalis | Rh incompatibility condition affecting fetus or newborn      |
+| Coagulation               | Blood clotting                                               |
+| Fibrin                    | Thread-like clot protein formed from fibrinogen              |
+| Thrombin                  | Enzyme converting fibrinogen to fibrin                       |
+| Prothrombin               | Inactive precursor of thrombin                               |
+| Lymph                     | Fluid in lymphatic vessels derived from tissue fluid         |
+| Tissue fluid              | Interstitial fluid around tissue cells                       |
+| Open circulation          | Blood flows into open spaces or sinuses                      |
+| Closed circulation        | Blood remains within closed vessels                          |
+| Atrium                    | Upper receiving chamber of heart                             |
+| Ventricle                 | Lower pumping chamber of heart                               |
+| Tricuspid valve           | Valve between right atrium and right ventricle               |
+| Bicuspid valve            | Mitral valve between left atrium and left ventricle          |
+| Semilunar valve           | Valve at opening of pulmonary artery or aorta                |
+| SAN                       | Sino-atrial node, heart pacemaker                            |
+| AVN                       | Atrio-ventricular node                                       |
+| Cardiac cycle             | One complete sequence of heart contraction and relaxation    |
+| Systole                   | Contraction phase                                            |
+| Diastole                  | Relaxation phase                                             |
+| Stroke volume             | Blood pumped by each ventricle per beat                      |
+| Cardiac output            | Blood pumped by each ventricle per minute                    |
+| ECG                       | Electrocardiogram, recording of heart electrical events      |
+| Double circulation        | Two separate pathways: pulmonary and systemic                |
+| Myogenic heart            | Heart whose beat originates in cardiac muscle tissue         |
 
 ## Chapter Map
 
-| Unit | Topic | What To Master |
-|---|---|---|
-| 15.1 | Blood | Plasma, formed elements, blood groups, clotting |
-| 15.2 | Lymph | Tissue fluid, lymphatic return, immune role |
-| 15.3 | Circulatory pathways | Open, closed, vertebrate hearts, human heart |
-| 15.3.2 | Cardiac cycle | Systole, diastole, stroke volume, cardiac output |
-| 15.3.3 | ECG | P wave, QRS complex, T wave |
-| 15.4 | Double circulation | Pulmonary and systemic pathways |
-| 15.5 | Heart regulation | Myogenic control, ANS, adrenal hormones |
-| 15.6 | Disorders | Hypertension, CAD, angina, heart failure |
+| Unit   | Topic                | What To Master                                   |
+| ------ | -------------------- | ------------------------------------------------ |
+| 15.1   | Blood                | Plasma, formed elements, blood groups, clotting  |
+| 15.2   | Lymph                | Tissue fluid, lymphatic return, immune role      |
+| 15.3   | Circulatory pathways | Open, closed, vertebrate hearts, human heart     |
+| 15.3.2 | Cardiac cycle        | Systole, diastole, stroke volume, cardiac output |
+| 15.3.3 | ECG                  | P wave, QRS complex, T wave                      |
+| 15.4   | Double circulation   | Pulmonary and systemic pathways                  |
+| 15.5   | Heart regulation     | Myogenic control, ANS, adrenal hormones          |
+| 15.6   | Disorders            | Hypertension, CAD, angina, heart failure         |
 
 ## 1. Need For Transport
 
@@ -174,10 +174,10 @@ It has:
 
 Approximate composition:
 
-| Component | Percentage Of Blood |
-|---|---:|
-| Plasma | 55 percent |
-| Formed elements | 45 percent |
+| Component       | Percentage Of Blood |
+| --------------- | ------------------: |
+| Plasma          |          55 percent |
+| Formed elements |          45 percent |
 
 ## 3.1 Why Blood Is A Connective Tissue
 
@@ -434,15 +434,15 @@ Low platelet count can cause clotting disorders and excessive blood loss.
 
 ## 9. Formed Elements Summary
 
-| Element | Count Or Share | Main Function |
-|---|---|---|
-| RBC | 5 to 5.5 million per mm3 in healthy adult male | Gas transport |
-| Neutrophils | 60 to 65 percent of WBCs | Phagocytosis |
-| Eosinophils | 2 to 3 percent of WBCs | Resist infections, allergy role |
-| Basophils | 0.5 to 1 percent of WBCs | Inflammation mediators |
-| Monocytes | 6 to 8 percent of WBCs | Phagocytosis |
-| Lymphocytes | 20 to 25 percent of WBCs | Immune responses |
-| Platelets | 150000 to 350000 per mm3 | Clotting |
+| Element     | Count Or Share                                 | Main Function                   |
+| ----------- | ---------------------------------------------- | ------------------------------- |
+| RBC         | 5 to 5.5 million per mm3 in healthy adult male | Gas transport                   |
+| Neutrophils | 60 to 65 percent of WBCs                       | Phagocytosis                    |
+| Eosinophils | 2 to 3 percent of WBCs                         | Resist infections, allergy role |
+| Basophils   | 0.5 to 1 percent of WBCs                       | Inflammation mediators          |
+| Monocytes   | 6 to 8 percent of WBCs                         | Phagocytosis                    |
+| Lymphocytes | 20 to 25 percent of WBCs                       | Immune responses                |
+| Platelets   | 150000 to 350000 per mm3                       | Clotting                        |
 
 ## 10. Blood Groups
 
@@ -466,11 +466,11 @@ Plasma contains natural antibodies against absent antigens.
 ## 11.1 ABO Table
 
 | Blood Group | Antigen On RBC | Antibody In Plasma | Can Receive From |
-|---|---|---|---|
-| A | A | anti-B | A, O |
-| B | B | anti-A | B, O |
-| AB | A and B | none | AB, A, B, O |
-| O | none | anti-A and anti-B | O |
+| ----------- | -------------- | ------------------ | ---------------- |
+| A           | A              | anti-B             | A, O             |
+| B           | B              | anti-A             | B, O             |
+| AB          | A and B        | none               | AB, A, B, O      |
+| O           | none           | anti-A and anti-B  | O                |
 
 ## 11.2 Universal Donor And Recipient
 
@@ -638,15 +638,15 @@ Fats are absorbed through lacteals in intestinal villi.
 
 ## 15. Blood And Lymph Compared
 
-| Feature | Blood | Lymph |
-|---|---|---|
-| Colour | Red due to haemoglobin | Colourless |
-| RBCs | Present | Absent normally |
-| Platelets | Present | Very few or absent normally |
-| Proteins | More plasma proteins | Less protein |
-| Main cells | RBCs, WBCs, platelets | Mainly lymphocytes |
-| Flow | Pumped by heart | Slow flow through lymphatic vessels |
-| Main role | Transport gases, nutrients, wastes | Return tissue fluid, immunity, fat transport |
+| Feature    | Blood                              | Lymph                                        |
+| ---------- | ---------------------------------- | -------------------------------------------- |
+| Colour     | Red due to haemoglobin             | Colourless                                   |
+| RBCs       | Present                            | Absent normally                              |
+| Platelets  | Present                            | Very few or absent normally                  |
+| Proteins   | More plasma proteins               | Less protein                                 |
+| Main cells | RBCs, WBCs, platelets              | Mainly lymphocytes                           |
+| Flow       | Pumped by heart                    | Slow flow through lymphatic vessels          |
+| Main role  | Transport gases, nutrients, wastes | Return tissue fluid, immunity, fat transport |
 
 ## 16. Circulatory Pathways
 
@@ -773,11 +773,11 @@ Openings in atrio-ventricular septa connect atria and ventricles of the same sid
 
 Valves maintain one-way blood flow.
 
-| Valve | Location | Main Role |
-|---|---|---|
-| Tricuspid valve | Right atrium to right ventricle | Prevents backflow to right atrium |
-| Bicuspid or mitral valve | Left atrium to left ventricle | Prevents backflow to left atrium |
-| Semilunar valves | Openings to pulmonary artery and aorta | Prevent backflow into ventricles |
+| Valve                    | Location                               | Main Role                         |
+| ------------------------ | -------------------------------------- | --------------------------------- |
+| Tricuspid valve          | Right atrium to right ventricle        | Prevents backflow to right atrium |
+| Bicuspid or mitral valve | Left atrium to left ventricle          | Prevents backflow to left atrium  |
+| Semilunar valves         | Openings to pulmonary artery and aorta | Prevent backflow into ventricles  |
 
 ## 19.3 Why Ventricles Have Thicker Walls
 
@@ -957,10 +957,10 @@ Athletes can have much higher cardiac output during exercise.
 
 Two main heart sounds occur in each cardiac cycle.
 
-| Sound | Cause |
-|---|---|
-| Lub | Closure of tricuspid and bicuspid valves |
-| Dub | Closure of semilunar valves |
+| Sound | Cause                                    |
+| ----- | ---------------------------------------- |
+| Lub   | Closure of tricuspid and bicuspid valves |
+| Dub   | Closure of semilunar valves              |
 
 These sounds are heard using a stethoscope.
 
@@ -1333,11 +1333,11 @@ Therefore its muscular wall is thick.
 
 ## 33.1 Components Of Formed Elements And One Function Each
 
-| Formed Element | Function |
-|---|---|
-| RBC | Transport respiratory gases |
-| WBC | Defence and immunity |
-| Platelets | Blood clotting |
+| Formed Element | Function                    |
+| -------------- | --------------------------- |
+| RBC            | Transport respiratory gases |
+| WBC            | Defence and immunity        |
+| Platelets      | Blood clotting              |
 
 ## 33.2 Importance Of Plasma Proteins
 
@@ -1349,13 +1349,13 @@ Albumins maintain osmotic balance.
 
 ## 33.3 Matching Answer
 
-| Column I | Correct Match |
-|---|---|
-| Eosinophils | Resist infections |
-| RBC | Gas transport |
-| AB group | Universal recipient |
-| Platelets | Coagulation |
-| Systole | Contraction of heart |
+| Column I    | Correct Match        |
+| ----------- | -------------------- |
+| Eosinophils | Resist infections    |
+| RBC         | Gas transport        |
+| AB group    | Universal recipient  |
+| Platelets   | Coagulation          |
+| Systole     | Contraction of heart |
 
 ## 33.4 Blood As Connective Tissue
 
@@ -1597,48 +1597,48 @@ Together, they form double circulation.
 
 ## 37. Rapid Revision Sheet
 
-| Topic | One-Line Revision |
-|---|---|
-| Blood | Fluid connective tissue |
-| Plasma | Fluid matrix |
-| Serum | Plasma without clotting factors |
-| Fibrinogen | Clotting |
-| Globulin | Defence |
-| Albumin | Osmotic balance |
-| RBC | Gas transport |
-| WBC | Defence |
-| Platelets | Clotting |
-| Neutrophil | Most abundant WBC |
-| Basophil | Least abundant WBC |
-| Lymphocyte | Immune response |
-| O group | Universal donor in ABO |
-| AB group | Universal recipient in ABO |
-| Rh mismatch | Can cause erythroblastosis foetalis |
-| Fibrin | Clot network |
-| Lymph | Tissue fluid in lymph vessels |
-| Open circulation | Blood in sinuses |
-| Closed circulation | Blood in vessels |
-| Fish heart | Two chambered |
-| Amphibian heart | Three chambered |
-| Mammal heart | Four chambered |
-| SAN | Pacemaker |
-| AVN | Conducts impulse to ventricles |
-| Myogenic | Heartbeat begins in heart muscle |
-| Cardiac cycle | One heartbeat sequence |
-| Stroke volume | 70 mL |
-| Cardiac output | About 5 L per minute |
-| Lub | AV valves close |
-| Dub | Semilunar valves close |
-| P wave | Atrial depolarisation |
-| QRS complex | Ventricular depolarisation |
-| T wave | Ventricular repolarisation |
-| Pulmonary circulation | Heart to lungs to heart |
-| Systemic circulation | Heart to body to heart |
-| Hypertension | 140/90 mm Hg or higher repeatedly |
+| Topic                 | One-Line Revision                   |
+| --------------------- | ----------------------------------- |
+| Blood                 | Fluid connective tissue             |
+| Plasma                | Fluid matrix                        |
+| Serum                 | Plasma without clotting factors     |
+| Fibrinogen            | Clotting                            |
+| Globulin              | Defence                             |
+| Albumin               | Osmotic balance                     |
+| RBC                   | Gas transport                       |
+| WBC                   | Defence                             |
+| Platelets             | Clotting                            |
+| Neutrophil            | Most abundant WBC                   |
+| Basophil              | Least abundant WBC                  |
+| Lymphocyte            | Immune response                     |
+| O group               | Universal donor in ABO              |
+| AB group              | Universal recipient in ABO          |
+| Rh mismatch           | Can cause erythroblastosis foetalis |
+| Fibrin                | Clot network                        |
+| Lymph                 | Tissue fluid in lymph vessels       |
+| Open circulation      | Blood in sinuses                    |
+| Closed circulation    | Blood in vessels                    |
+| Fish heart            | Two chambered                       |
+| Amphibian heart       | Three chambered                     |
+| Mammal heart          | Four chambered                      |
+| SAN                   | Pacemaker                           |
+| AVN                   | Conducts impulse to ventricles      |
+| Myogenic              | Heartbeat begins in heart muscle    |
+| Cardiac cycle         | One heartbeat sequence              |
+| Stroke volume         | 70 mL                               |
+| Cardiac output        | About 5 L per minute                |
+| Lub                   | AV valves close                     |
+| Dub                   | Semilunar valves close              |
+| P wave                | Atrial depolarisation               |
+| QRS complex           | Ventricular depolarisation          |
+| T wave                | Ventricular repolarisation          |
+| Pulmonary circulation | Heart to lungs to heart             |
+| Systemic circulation  | Heart to body to heart              |
+| Hypertension          | 140/90 mm Hg or higher repeatedly   |
 
 ## 38. Raw File Reference
 
-| Item | Path |
-|---|---|
-| Raw input | `data/class_11/biology/chapter_15.md` |
+| Item             | Path                                             |
+| ---------------- | ------------------------------------------------ |
+| Raw input        | `data/class_11/biology/chapter_15.md`            |
 | Formatted output | `data_learner_md/class_11/biology/chapter_15.md` |

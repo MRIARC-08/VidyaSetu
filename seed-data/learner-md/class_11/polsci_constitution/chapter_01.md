@@ -1,4 +1,5 @@
 # Chapter 1: Constitution: Why and How?
+
 ### NCERT Class 11 - Political Science: Indian Constitution at Work
 
 ---
@@ -17,16 +18,16 @@ Why should people obey a constitution, and what makes a constitution legitimate?
 
 ## Chapter Map
 
-| Theme | What You Should Understand |
-| --- | --- |
-| Need for a constitution | society needs basic, known, enforceable rules |
-| Coordination and assurance | people cooperate when rules are public and binding |
-| Power and limits | government power must be organised and restrained |
-| Rights and values | constitution protects rights and expresses shared ideals |
-| Authority | a constitution must be credible, just, and effective |
+| Theme                      | What You Should Understand                                                           |
+| -------------------------- | ------------------------------------------------------------------------------------ |
+| Need for a constitution    | society needs basic, known, enforceable rules                                        |
+| Coordination and assurance | people cooperate when rules are public and binding                                   |
+| Power and limits           | government power must be organised and restrained                                    |
+| Rights and values          | constitution protects rights and expresses shared ideals                             |
+| Authority                  | a constitution must be credible, just, and effective                                 |
 | Indian Constitution-making | made through the Constituent Assembly, public reasoning, and nationalist inheritance |
-| Institutional design | balanced powers among legislature, executive, judiciary, Union, and States |
-| Borrowing | India adapted useful ideas from other constitutions to Indian needs |
+| Institutional design       | balanced powers among legislature, executive, judiciary, Union, and States           |
+| Borrowing                  | India adapted useful ideas from other constitutions to Indian needs                  |
 
 ---
 
@@ -66,12 +67,12 @@ So the first function of a constitution is to create basic rules for coordinatio
 
 Rules must be:
 
-| Quality | Why It Matters |
-| --- | --- |
-| public | people must know what the rules are |
-| clear | people must understand what is allowed and forbidden |
-| enforceable | people must trust that others will follow them |
-| basic | they must settle fundamental questions of power and rights |
+| Quality     | Why It Matters                                             |
+| ----------- | ---------------------------------------------------------- |
+| public      | people must know what the rules are                        |
+| clear       | people must understand what is allowed and forbidden       |
+| enforceable | people must trust that others will follow them             |
+| basic       | they must settle fundamental questions of power and rights |
 
 If rules are not enforceable, citizens may think: "Why should I follow rules if others will not?" A constitution gives assurance by making basic rules legally binding.
 
@@ -85,11 +86,11 @@ A constitution defines which institution can do what.
 
 Example:
 
-| Institution | Broad Role |
-| --- | --- |
-| legislature | makes laws |
-| executive | implements laws and runs administration |
-| judiciary | interprets law and protects constitutional limits |
+| Institution | Broad Role                                        |
+| ----------- | ------------------------------------------------- |
+| legislature | makes laws                                        |
+| executive   | implements laws and runs administration           |
+| judiciary   | interprets law and protects constitutional limits |
 
 This demarcation prevents confusion and reduces misuse of power.
 
@@ -169,11 +170,11 @@ But a democratic constitution must do more than describe government. It must pro
 
 A constitution must answer three questions:
 
-| Question | Meaning |
-| --- | --- |
-| Is it clear? | Does it define institutions, powers, and rights? |
-| Is it effective? | Can it actually guide political life? |
-| Is it just? | Does it protect dignity, equality, and freedom? |
+| Question         | Meaning                                          |
+| ---------------- | ------------------------------------------------ |
+| Is it clear?     | Does it define institutions, powers, and rights? |
+| Is it effective? | Can it actually guide political life?            |
+| Is it just?      | Does it protect dignity, equality, and freedom?  |
 
 ---
 
@@ -346,12 +347,12 @@ The Constitution created institutions that distribute power.
 
 This includes:
 
-| Arrangement | Purpose |
-| --- | --- |
-| parliamentary government | links executive to legislature |
-| federal arrangement | divides power between Union and States |
-| independent judiciary | protects constitutional limits |
-| rights framework | protects citizens |
+| Arrangement              | Purpose                                |
+| ------------------------ | -------------------------------------- |
+| parliamentary government | links executive to legislature         |
+| federal arrangement      | divides power between Union and States |
+| independent judiciary    | protects constitutional limits         |
+| rights framework         | protects citizens                      |
 
 ---
 
@@ -375,13 +376,13 @@ Each borrowed provision had to be defended as suitable for India's needs.
 
 ## Examples Of Adapted Provisions
 
-| Source | Adapted Idea |
-| --- | --- |
-| British Constitution | parliamentary government, rule of law, Speaker, law-making procedure |
-| United States Constitution | fundamental rights, judicial review, independence of judiciary |
-| Irish Constitution | Directive Principles of State Policy |
-| French Constitution | liberty, equality, fraternity |
-| Canadian Constitution | strong Centre within a federal structure, residual powers |
+| Source                     | Adapted Idea                                                         |
+| -------------------------- | -------------------------------------------------------------------- |
+| British Constitution       | parliamentary government, rule of law, Speaker, law-making procedure |
+| United States Constitution | fundamental rights, judicial review, independence of judiciary       |
+| Irish Constitution         | Directive Principles of State Policy                                 |
+| French Constitution        | liberty, equality, fraternity                                        |
+| Canadian Constitution      | strong Centre within a federal structure, residual powers            |
 
 ---
 
@@ -523,4 +524,3 @@ Borrowed ideas were debated and modified to suit Indian conditions, problems, an
 - [ ] I can list the main values of the Objectives Resolution.
 - [ ] I can explain why India borrowed constitutional ideas.
 - [ ] I can write a balanced answer on whether the Constitution has succeeded.
-

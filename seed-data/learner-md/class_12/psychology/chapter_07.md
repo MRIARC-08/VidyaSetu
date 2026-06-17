@@ -26,24 +26,24 @@ The main idea is that people do not act only as isolated individuals. Much of hu
 
 ## Key Terms
 
-| Term | Meaning | Why it matters |
-|---|---|---|
-| Group | Organised system of two or more interacting and interdependent individuals with shared motives, roles, and norms | Central concept of the chapter |
-| Interdependence | Condition in which one member's behaviour affects others | Makes a group different from a mere collection |
-| Role | Socially defined expectation for behaviour in a given position | Organises group functioning |
-| Norm | Expected standard of behaviour in a group | Regulates members |
-| Status | Relative social position given to members | Shapes influence and prestige |
-| Cohesiveness | Mutual attraction and "we feeling" among members | Strengthens group identity |
-| Groupthink | Poor decision-making caused by pressure for unanimity in cohesive groups | Shows danger of extreme cohesion |
-| Primary group | Close, face-to-face group usually given to the individual | Important for early socialisation |
-| Secondary group | More impersonal group often joined by choice | Important for broader goals |
-| Formal group | Group formed by explicit rules, roles, and structure | Common in institutions |
-| Informal group | Group formed through personal relations without formal rules | Common in friendship networks |
-| Ingroup | Group to which a person belongs | Shapes identity and bias |
-| Outgroup | Group to which a person does not belong | Often compared with ingroup |
-| Social facilitation | Effect of others' presence on performance | Explains improved or worsened performance |
-| Social loafing | Reduction in individual effort on collective tasks | Important problem in group work |
-| Group polarisation | Strengthening of a group's initial position after interaction | Explains extreme group decisions |
+| Term                | Meaning                                                                                                          | Why it matters                                 |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| Group               | Organised system of two or more interacting and interdependent individuals with shared motives, roles, and norms | Central concept of the chapter                 |
+| Interdependence     | Condition in which one member's behaviour affects others                                                         | Makes a group different from a mere collection |
+| Role                | Socially defined expectation for behaviour in a given position                                                   | Organises group functioning                    |
+| Norm                | Expected standard of behaviour in a group                                                                        | Regulates members                              |
+| Status              | Relative social position given to members                                                                        | Shapes influence and prestige                  |
+| Cohesiveness        | Mutual attraction and "we feeling" among members                                                                 | Strengthens group identity                     |
+| Groupthink          | Poor decision-making caused by pressure for unanimity in cohesive groups                                         | Shows danger of extreme cohesion               |
+| Primary group       | Close, face-to-face group usually given to the individual                                                        | Important for early socialisation              |
+| Secondary group     | More impersonal group often joined by choice                                                                     | Important for broader goals                    |
+| Formal group        | Group formed by explicit rules, roles, and structure                                                             | Common in institutions                         |
+| Informal group      | Group formed through personal relations without formal rules                                                     | Common in friendship networks                  |
+| Ingroup             | Group to which a person belongs                                                                                  | Shapes identity and bias                       |
+| Outgroup            | Group to which a person does not belong                                                                          | Often compared with ingroup                    |
+| Social facilitation | Effect of others' presence on performance                                                                        | Explains improved or worsened performance      |
+| Social loafing      | Reduction in individual effort on collective tasks                                                               | Important problem in group work                |
+| Group polarisation  | Strengthening of a group's initial position after interaction                                                    | Explains extreme group decisions               |
 
 ## 1. The Chapter In One Sentence
 
@@ -651,13 +651,13 @@ Relationships are usually less close, less frequent, and more goal-oriented than
 
 ## 50. Primary Versus Secondary Groups
 
-| Basis | Primary group | Secondary group |
-|---|---|---|
-| Formation | Usually given | Often chosen |
+| Basis       | Primary group          | Secondary group         |
+| ----------- | ---------------------- | ----------------------- |
+| Formation   | Usually given          | Often chosen            |
 | Interaction | Close and face-to-face | More indirect or formal |
-| Bonds | Warm and emotional | More impersonal |
-| Duration | Often long-lasting | May be temporary |
-| Example | Family | Political party |
+| Bonds       | Warm and emotional     | More impersonal         |
+| Duration    | Often long-lasting     | May be temporary        |
+| Example     | Family                 | Political party         |
 
 ## 51. Formal Groups
 
@@ -888,21 +888,21 @@ The remedy is not silence, but balanced exposure to evidence and alternative vie
 
 ## 70. Comparing Groupthink And Group Polarisation
 
-| Basis | Groupthink | Group polarisation |
-|---|---|---|
-| Main problem | Pressure for unanimity reduces critical thinking | Group's initial view becomes stronger |
-| Key condition | High cohesion and closed decision-making | Interaction among like-minded members |
-| Main risk | Poor, unrealistic decisions | Extreme positions |
-| Prevention | Encourage criticism and alternatives | Include diverse views and evidence |
+| Basis         | Groupthink                                       | Group polarisation                    |
+| ------------- | ------------------------------------------------ | ------------------------------------- |
+| Main problem  | Pressure for unanimity reduces critical thinking | Group's initial view becomes stronger |
+| Key condition | High cohesion and closed decision-making         | Interaction among like-minded members |
+| Main risk     | Poor, unrealistic decisions                      | Extreme positions                     |
+| Prevention    | Encourage criticism and alternatives             | Include diverse views and evidence    |
 
 ## 71. Comparing Social Facilitation And Social Loafing
 
-| Basis | Social facilitation | Social loafing |
-|---|---|---|
-| Situation | Individual performs in presence of others | Individual works as part of pooled group task |
-| Effect | Performance may improve or worsen | Individual effort usually decreases |
-| Key factor | Arousal and evaluation | Identifiability and responsibility |
-| Example | Performing before an audience | Pulling in tug-of-war |
+| Basis      | Social facilitation                       | Social loafing                                |
+| ---------- | ----------------------------------------- | --------------------------------------------- |
+| Situation  | Individual performs in presence of others | Individual works as part of pooled group task |
+| Effect     | Performance may improve or worsen         | Individual effort usually decreases           |
+| Key factor | Arousal and evaluation                    | Identifiability and responsibility            |
+| Example    | Performing before an audience             | Pulling in tug-of-war                         |
 
 ## 72. Constructive And Harmful Effects Of Groups
 

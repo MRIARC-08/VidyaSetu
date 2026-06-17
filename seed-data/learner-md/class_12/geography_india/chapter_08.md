@@ -1,4 +1,5 @@
 # Chapter 8: International Trade
+
 ### NCERT Class 12 - Geography India
 
 ## Chapter at a Glance
@@ -23,27 +24,27 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| International trade | Exchange of goods and services between countries. |
-| Export | Goods or services sold to other countries. |
-| Import | Goods or services purchased from other countries. |
-| Balance of trade | Value of exports of goods minus imports of goods. |
-| Trade deficit | Imports exceed exports. |
-| Trade surplus | Exports exceed imports. |
-| Direction of trade | Countries or regions with which a country trades. |
-| Composition of trade | Types of goods and services traded. |
-| Port | Gateway handling overseas trade. |
+| Term                 | Meaning                                           |
+| -------------------- | ------------------------------------------------- |
+| International trade  | Exchange of goods and services between countries. |
+| Export               | Goods or services sold to other countries.        |
+| Import               | Goods or services purchased from other countries. |
+| Balance of trade     | Value of exports of goods minus imports of goods. |
+| Trade deficit        | Imports exceed exports.                           |
+| Trade surplus        | Exports exceed imports.                           |
+| Direction of trade   | Countries or regions with which a country trades. |
+| Composition of trade | Types of goods and services traded.               |
+| Port                 | Gateway handling overseas trade.                  |
 
 ## Quick Learning Map
 
-| Trade aspect | India pattern |
-|---|---|
-| Exports | Engineering goods, petroleum products, gems and jewellery, textiles, chemicals, services |
-| Imports | Petroleum, machinery, electronics, gold, chemicals, fertilisers |
-| Services | Software and business services are important |
-| Main gateway | Sea ports handle large share of merchandise trade |
-| Concern | Trade deficit in goods due to high import bill |
+| Trade aspect | India pattern                                                                            |
+| ------------ | ---------------------------------------------------------------------------------------- |
+| Exports      | Engineering goods, petroleum products, gems and jewellery, textiles, chemicals, services |
+| Imports      | Petroleum, machinery, electronics, gold, chemicals, fertilisers                          |
+| Services     | Software and business services are important                                             |
+| Main gateway | Sea ports handle large share of merchandise trade                                        |
+| Concern      | Trade deficit in goods due to high import bill                                           |
 
 # Unit 8A: Importance of International Trade
 
@@ -225,13 +226,13 @@ For role of ports:
 
 # Unit 8L: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Confusing direction and composition | Direction is trade partners; composition is traded items. |
-| Saying imports are always harmful | Imports may provide fuel, technology, and essential inputs. |
-| Ignoring services | India's services exports are very important. |
-| Treating ports as isolated | Ports depend on hinterland connectivity. |
-| Confusing trade deficit and fiscal deficit | Trade deficit is external goods trade gap. |
+| Mistake                                    | Correction                                                  |
+| ------------------------------------------ | ----------------------------------------------------------- |
+| Confusing direction and composition        | Direction is trade partners; composition is traded items.   |
+| Saying imports are always harmful          | Imports may provide fuel, technology, and essential inputs. |
+| Ignoring services                          | India's services exports are very important.                |
+| Treating ports as isolated                 | Ports depend on hinterland connectivity.                    |
+| Confusing trade deficit and fiscal deficit | Trade deficit is external goods trade gap.                  |
 
 ## Practice Set
 

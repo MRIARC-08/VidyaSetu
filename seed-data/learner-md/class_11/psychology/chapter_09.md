@@ -1,4 +1,5 @@
 # Chapter 9: Motivation and Emotion
+
 ### NCERT Class 11 Psychology
 
 ---
@@ -44,12 +45,12 @@ It answers questions such as:
 
 ### Need, Drive, and Goal
 
-| Term | Meaning | Example |
-|---|---|---|
-| Need | A state of deficiency | Lack of food |
-| Drive | Tension or arousal created by need | Hunger discomfort |
-| Goal-directed behaviour | Action taken to reduce need | Searching for food |
-| Goal | Object or condition that satisfies need | Eating a meal |
+| Term                    | Meaning                                 | Example            |
+| ----------------------- | --------------------------------------- | ------------------ |
+| Need                    | A state of deficiency                   | Lack of food       |
+| Drive                   | Tension or arousal created by need      | Hunger discomfort  |
+| Goal-directed behaviour | Action taken to reduce need             | Searching for food |
+| Goal                    | Object or condition that satisfies need | Eating a meal      |
 
 ---
 
@@ -67,9 +68,9 @@ Thirst creates tension. The person searches for water, drinks it, and returns to
 
 ## 3. Types of Motives
 
-| Type | Meaning | Examples |
-|---|---|---|
-| Biological motives | Based mainly on bodily needs | Hunger, thirst, sex |
+| Type                 | Meaning                              | Examples                                   |
+| -------------------- | ------------------------------------ | ------------------------------------------ |
+| Biological motives   | Based mainly on bodily needs         | Hunger, thirst, sex                        |
 | Psychosocial motives | Developed through social interaction | Achievement, affiliation, power, curiosity |
 
 Human motives often include both biological and social elements.
@@ -168,13 +169,13 @@ Safety needs
 Physiological needs
 ```
 
-| Level | Meaning |
-|---|---|
-| Physiological needs | Hunger, thirst, sleep |
-| Safety needs | Protection, security, stability |
+| Level               | Meaning                            |
+| ------------------- | ---------------------------------- |
+| Physiological needs | Hunger, thirst, sleep              |
+| Safety needs        | Protection, security, stability    |
 | Belongingness needs | Love, friendship, group membership |
-| Esteem needs | Respect, achievement, recognition |
-| Self-actualisation | Realising one's full potential |
+| Esteem needs        | Respect, achievement, recognition  |
+| Self-actualisation  | Realising one's full potential     |
 
 Lower needs usually demand attention first, but real life may show exceptions. People may sometimes risk safety for values, duty, or others.
 
@@ -203,11 +204,11 @@ Common responses:
 
 Conflict occurs when two or more motives are active at the same time.
 
-| Type | Meaning | Example |
-|---|---|---|
-| Approach-approach | Choice between two desirable goals | Two good colleges |
-| Avoidance-avoidance | Choice between two undesirable options | Dentist or toothache |
-| Approach-avoidance | Same goal has positive and negative aspects | Wanting a job but fearing interview |
+| Type                | Meaning                                     | Example                             |
+| ------------------- | ------------------------------------------- | ----------------------------------- |
+| Approach-approach   | Choice between two desirable goals          | Two good colleges                   |
+| Avoidance-avoidance | Choice between two undesirable options      | Dentist or toothache                |
+| Approach-avoidance  | Same goal has positive and negative aspects | Wanting a job but fearing interview |
 
 ---
 
@@ -226,12 +227,12 @@ Examples:
 
 ### Components of Emotion
 
-| Component | Meaning |
-|---|---|
+| Component     | Meaning                                    |
+| ------------- | ------------------------------------------ |
 | Physiological | Bodily changes such as heartbeat, sweating |
-| Cognitive | Interpretation of the situation |
-| Behavioural | Facial expressions, actions, gestures |
-| Subjective | Personal feeling experience |
+| Cognitive     | Interpretation of the situation            |
+| Behavioural   | Facial expressions, actions, gestures      |
+| Subjective    | Personal feeling experience                |
 
 ---
 
@@ -274,17 +275,17 @@ Emotional intelligence is the ability to understand, manage, and use emotions ef
 
 ### Intrapersonal Components
 
-| Component | Meaning |
-|---|---|
-| Self-awareness | Knowing one's emotions |
+| Component       | Meaning                                 |
+| --------------- | --------------------------------------- |
+| Self-awareness  | Knowing one's emotions                  |
 | Self-regulation | Managing impulses and negative emotions |
-| Self-motivation | Continuing effort despite setbacks |
+| Self-motivation | Continuing effort despite setbacks      |
 
 ### Interpersonal Components
 
-| Component | Meaning |
-|---|---|
-| Social awareness | Understanding others' feelings |
+| Component         | Meaning                                  |
+| ----------------- | ---------------------------------------- |
+| Social awareness  | Understanding others' feelings           |
 | Social competence | Managing relationships and communication |
 
 Emotionally intelligent people can respond thoughtfully rather than react impulsively.
@@ -315,12 +316,12 @@ Motivation and emotion influence each other.
 
 Examples:
 
-| Situation | Motivation | Emotion |
-|---|---|---|
-| Preparing for exam | Achievement motive | Anxiety or confidence |
-| Seeking friends | Affiliation motive | Joy or loneliness |
-| Facing threat | Safety motive | Fear |
-| Winning competition | Achievement/power | Pride |
+| Situation           | Motivation         | Emotion               |
+| ------------------- | ------------------ | --------------------- |
+| Preparing for exam  | Achievement motive | Anxiety or confidence |
+| Seeking friends     | Affiliation motive | Joy or loneliness     |
+| Facing threat       | Safety motive      | Fear                  |
+| Winning competition | Achievement/power  | Pride                 |
 
 Emotions can energise motives, and motives can create emotional reactions when fulfilled or blocked.
 
@@ -328,13 +329,13 @@ Emotions can energise motives, and motives can create emotional reactions when f
 
 ## 14. Common Mistakes
 
-| Mistake | Correct understanding |
-|---|---|
-| Treating motivation and emotion as separate | They interact strongly. |
-| Saying all motives are biological | Many motives are psychosocial. |
-| Confusing need and drive | Need is deficiency; drive is tension/arousal. |
-| Treating Maslow's hierarchy as rigid | Real-life behaviour may show exceptions. |
-| Saying negative emotions are useless | They can protect and guide action. |
+| Mistake                                          | Correct understanding                          |
+| ------------------------------------------------ | ---------------------------------------------- |
+| Treating motivation and emotion as separate      | They interact strongly.                        |
+| Saying all motives are biological                | Many motives are psychosocial.                 |
+| Confusing need and drive                         | Need is deficiency; drive is tension/arousal.  |
+| Treating Maslow's hierarchy as rigid             | Real-life behaviour may show exceptions.       |
+| Saying negative emotions are useless             | They can protect and guide action.             |
 | Thinking emotional intelligence means no emotion | It means understanding and regulating emotion. |
 
 ---

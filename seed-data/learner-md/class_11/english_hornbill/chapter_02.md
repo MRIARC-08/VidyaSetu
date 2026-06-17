@@ -23,41 +23,41 @@ By the end of this chapter, you should be able to:
 
 ## Core Facts
 
-| Detail | Information |
-|---|---|
-| Writers | Gordon Cook and Alan East |
-| Narrator | Gordon Cook, the captain and father |
-| Boat | Wavewalker |
-| Journey began | July 1976 |
-| Starting point | Plymouth, England |
-| Main aim | To duplicate Captain James Cook's round-the-world voyage |
-| Family members | Gordon, Mary, Jonathan, Suzanne |
-| Extra crew | Larry Vigil and Herb Seigler |
-| Dangerous region | Southern Indian Ocean |
-| Island reached | Ile Amsterdam |
-| Main conflict | A gigantic wave damages the boat and threatens everyone's life |
+| Detail           | Information                                                    |
+| ---------------- | -------------------------------------------------------------- |
+| Writers          | Gordon Cook and Alan East                                      |
+| Narrator         | Gordon Cook, the captain and father                            |
+| Boat             | Wavewalker                                                     |
+| Journey began    | July 1976                                                      |
+| Starting point   | Plymouth, England                                              |
+| Main aim         | To duplicate Captain James Cook's round-the-world voyage       |
+| Family members   | Gordon, Mary, Jonathan, Suzanne                                |
+| Extra crew       | Larry Vigil and Herb Seigler                                   |
+| Dangerous region | Southern Indian Ocean                                          |
+| Island reached   | Ile Amsterdam                                                  |
+| Main conflict    | A gigantic wave damages the boat and threatens everyone's life |
 
 ## Core Vocabulary
 
-| Word or Phrase | Meaning |
-|---|---|
-| Seafaring | Travelling by sea, especially regularly or skillfully |
-| Honing | Improving through practice |
-| Gale | Very strong wind |
-| Storm jib | Small strong sail used in stormy weather |
-| Stern | Back part of a ship |
-| Lifeline | Safety rope attached to a person or boat |
-| Oilskins | Waterproof clothing worn at sea |
-| Hatch | Opening in the deck or floor of a ship |
-| Starboard | Right side of a ship when facing forward |
-| Port | Left side of a ship when facing forward |
-| Keel | Main central structure along the bottom of a boat |
-| Mayday call | Emergency radio call for help |
-| Sextant | Navigational instrument used to find position |
-| Heave-to | Position a boat to reduce movement and face waves more safely |
-| Sea anchor | Device used to slow or stabilize a boat in rough water |
-| Respite | Short period of relief |
-| Direst | Most severe or terrible |
+| Word or Phrase | Meaning                                                       |
+| -------------- | ------------------------------------------------------------- |
+| Seafaring      | Travelling by sea, especially regularly or skillfully         |
+| Honing         | Improving through practice                                    |
+| Gale           | Very strong wind                                              |
+| Storm jib      | Small strong sail used in stormy weather                      |
+| Stern          | Back part of a ship                                           |
+| Lifeline       | Safety rope attached to a person or boat                      |
+| Oilskins       | Waterproof clothing worn at sea                               |
+| Hatch          | Opening in the deck or floor of a ship                        |
+| Starboard      | Right side of a ship when facing forward                      |
+| Port           | Left side of a ship when facing forward                       |
+| Keel           | Main central structure along the bottom of a boat             |
+| Mayday call    | Emergency radio call for help                                 |
+| Sextant        | Navigational instrument used to find position                 |
+| Heave-to       | Position a boat to reduce movement and face waves more safely |
+| Sea anchor     | Device used to slow or stabilize a boat in rough water        |
+| Respite        | Short period of relief                                        |
+| Direst         | Most severe or terrible                                       |
 
 ## 1. Background of the Voyage
 
@@ -79,14 +79,14 @@ The planned journey was long and demanding. It was expected to take three years 
 
 ## 2. The People on Board
 
-| Person | Role | Important Qualities |
-|---|---|---|
-| Gordon Cook | Captain, narrator, father | Skilled, responsible, determined |
-| Mary | Wife and mother | Brave, steady, supportive |
-| Jonathan | Son, age 6 | Innocent, courageous, emotionally strong |
-| Suzanne or Sue | Daughter, age 7 | Brave, selfless, hopeful |
-| Larry Vigil | American crewman | Cheerful, hardworking, optimistic |
-| Herb Seigler | Swiss crewman | Reliable, practical, optimistic |
+| Person         | Role                      | Important Qualities                      |
+| -------------- | ------------------------- | ---------------------------------------- |
+| Gordon Cook    | Captain, narrator, father | Skilled, responsible, determined         |
+| Mary           | Wife and mother           | Brave, steady, supportive                |
+| Jonathan       | Son, age 6                | Innocent, courageous, emotionally strong |
+| Suzanne or Sue | Daughter, age 7           | Brave, selfless, hopeful                 |
+| Larry Vigil    | American crewman          | Cheerful, hardworking, optimistic        |
+| Herb Seigler   | Swiss crewman             | Reliable, practical, optimistic          |
 
 The survival of the group depends on everyone. The narrator leads, but he is not alone. Mary, Larry, Herb, Sue, and Jonathan all contribute emotionally or physically.
 
@@ -326,11 +326,11 @@ The landfall ends the immediate danger.
 
 The chapter can be divided into three major sections.
 
-| Section | Suggested Subtitle | Main Focus |
-|---|---|---|
-| Section 1 | Dream Voyage and Disaster | Preparation, route, storm, gigantic wave |
-| Section 2 | Battle to Keep Wavewalker Alive | Repairs, pumping, injuries, fear, hope |
-| Section 3 | Last Calculations and Rescue | Navigation, children's courage, sighting the island |
+| Section   | Suggested Subtitle              | Main Focus                                          |
+| --------- | ------------------------------- | --------------------------------------------------- |
+| Section 1 | Dream Voyage and Disaster       | Preparation, route, storm, gigantic wave            |
+| Section 2 | Battle to Keep Wavewalker Alive | Repairs, pumping, injuries, fear, hope              |
+| Section 3 | Last Calculations and Rescue    | Navigation, children's courage, sighting the island |
 
 The structure moves from adventure to crisis to survival.
 
@@ -417,15 +417,15 @@ Such journeys involve risk, but they can also reveal human strength.
 
 ## 24. Important Expressions
 
-| Expression | Meaning |
-|---|---|
+| Expression                  | Meaning                                    |
+| --------------------------- | ------------------------------------------ |
 | Honing our seafaring skills | Improving sailing ability through practice |
-| Pinpricks in the vast ocean | Very tiny islands in a huge sea |
-| Ominous silence | A silence that suggests danger |
-| A tousled head | A head with untidy hair |
-| Mayday calls | Emergency distress radio calls |
-| Direst stress | Most extreme pressure or danger |
-| Respite was short-lived | Relief lasted only a short time |
+| Pinpricks in the vast ocean | Very tiny islands in a huge sea            |
+| Ominous silence             | A silence that suggests danger             |
+| A tousled head              | A head with untidy hair                    |
+| Mayday calls                | Emergency distress radio calls             |
+| Direst stress               | Most extreme pressure or danger            |
+| Respite was short-lived     | Relief lasted only a short time            |
 
 ## 25. Character Sketch: The Narrator
 
@@ -473,15 +473,15 @@ Their role shows that survival depends on teamwork, not only on one leader.
 
 ## 30. Symbols in the Chapter
 
-| Symbol | Meaning |
-|---|---|
-| Wavewalker | Human dream, skill, and vulnerability |
-| Sea | Nature's power and unpredictability |
-| Lifeline | Safety, survival, connection |
-| Pumps | Continuous effort against disaster |
-| Sue's card | Hope and love in crisis |
-| Ile Amsterdam | Survival, relief, and hope |
-| Sextant | Knowledge, skill, and rational action |
+| Symbol        | Meaning                               |
+| ------------- | ------------------------------------- |
+| Wavewalker    | Human dream, skill, and vulnerability |
+| Sea           | Nature's power and unpredictability   |
+| Lifeline      | Safety, survival, connection          |
+| Pumps         | Continuous effort against disaster    |
+| Sue's card    | Hope and love in crisis               |
+| Ile Amsterdam | Survival, relief, and hope            |
+| Sextant       | Knowledge, skill, and rational action |
 
 ## 31. Themes
 
@@ -573,21 +573,21 @@ Boatmen's songs often express rhythm, labour, longing, loneliness, courage, devo
 
 ## 35. Working With Words: Ship Terms With Other Meanings
 
-| Word | Ship Meaning | Other Meaning |
-|---|---|---|
-| Knot | Unit of speed or tied rope | A problem or a tied loop |
-| Stern | Back of a ship | Serious or strict |
-| Boom | Horizontal spar on a sail | Sudden increase or loud sound |
-| Hatch | Opening on a ship | To emerge from an egg |
+| Word   | Ship Meaning                 | Other Meaning                                  |
+| ------ | ---------------------------- | ---------------------------------------------- |
+| Knot   | Unit of speed or tied rope   | A problem or a tied loop                       |
+| Stern  | Back of a ship               | Serious or strict                              |
+| Boom   | Horizontal spar on a sail    | Sudden increase or loud sound                  |
+| Hatch  | Opening on a ship            | To emerge from an egg                          |
 | Anchor | Device to hold ship in place | Support, stabilizing person, or news presenter |
 
 ## 36. Compound Words Ending in -ship
 
-| Word | Meaning |
-|---|---|
-| Airship | A lighter-than-air flying craft |
-| Flagship | The most important ship, product, institution, or programme in a group |
-| Lightship | A ship fitted with a light to warn or guide other vessels |
+| Word      | Meaning                                                                |
+| --------- | ---------------------------------------------------------------------- |
+| Airship   | A lighter-than-air flying craft                                        |
+| Flagship  | The most important ship, product, institution, or programme in a group |
+| Lightship | A ship fitted with a light to warn or guide other vessels              |
 
 ## 37. Meaning of "Take On"
 
@@ -599,18 +599,18 @@ It also suggests allowing them to join the ship's crew.
 
 ## 38. Nautical Direction Guide
 
-| Term | Meaning |
-|---|---|
-| Bow | Front of a boat |
-| Stern | Back of a boat |
-| Port | Left side when facing forward |
-| Starboard | Right side when facing forward |
-| Mast | Tall vertical pole supporting sails |
-| Boom | Horizontal pole attached to a sail |
-| Rudder | Steering part under or behind boat |
-| Cabin | Enclosed room |
-| Cockpit | Open area where boat is controlled |
-| Mainsail | Main large sail |
+| Term      | Meaning                             |
+| --------- | ----------------------------------- |
+| Bow       | Front of a boat                     |
+| Stern     | Back of a boat                      |
+| Port      | Left side when facing forward       |
+| Starboard | Right side when facing forward      |
+| Mast      | Tall vertical pole supporting sails |
+| Boom      | Horizontal pole attached to a sail  |
+| Rudder    | Steering part under or behind boat  |
+| Cabin     | Enclosed room                       |
+| Cockpit   | Open area where boat is controlled  |
+| Mainsail  | Main large sail                     |
 
 ## 39. Exam-Ready Long Answer: Courage of the Children
 
@@ -689,4 +689,3 @@ We're Not Afraid to Die... if We Can All Be Together is a first-person survival 
 On January 2, a gigantic wave strikes the boat. The narrator is thrown overboard but survives through his lifeline. Wavewalker is badly damaged and begins taking in water. The captain and crew repair holes with canvas and hatch covers, pump continuously, and try to keep the boat afloat. Sue is badly injured but hides her pain. Jonathan shows great courage by saying that he is not afraid if the family remains together.
 
 The boat is too damaged to reach Australia, so the narrator aims for Ile Amsterdam, a tiny island in the vast ocean. After exhausting calculations and continued hope, the island is sighted. The story shows that courage, preparation, teamwork, optimism, and family love can help people survive even the most dangerous situations.
-

@@ -224,12 +224,12 @@ Membership in this form arises by birth in the family. The business is usually b
 
 ### 11.2 Important Terms
 
-| Term | Meaning |
-|---|---|
-| Hindu Undivided Family | A family unit recognised under Hindu law |
-| Karta | Head of the family business who manages it |
-| Coparceners | Members who have a right in ancestral property |
-| Ancestral property | Property inherited from earlier generations |
+| Term                   | Meaning                                        |
+| ---------------------- | ---------------------------------------------- |
+| Hindu Undivided Family | A family unit recognised under Hindu law       |
+| Karta                  | Head of the family business who manages it     |
+| Coparceners            | Members who have a right in ancestral property |
+| Ancestral property     | Property inherited from earlier generations    |
 
 ### 11.3 Gender Equality Note
 
@@ -460,15 +460,15 @@ Rules:
 
 ## 20. Partner Type Summary
 
-| Type of partner | Capital contribution | Management role | Profit or loss | Liability |
-|---|---|---|---|---|
-| Active partner | Yes | Active | Shares profit and loss | Unlimited |
-| Sleeping partner | Yes | Not active | Shares profit and loss | Unlimited |
-| Secret partner | Yes | May be active secretly | Shares profit and loss | Unlimited |
-| Nominal partner | Usually no | No active role | Usually no share | Liable to outsiders in some cases |
-| Partner by estoppel | No | No | No | Liable if representation is relied on |
-| Partner by holding out | No | No | No | Liable if representation is not denied |
-| Minor admitted to benefits | May contribute | No active role | Shares profit only | Limited to share in firm |
+| Type of partner            | Capital contribution | Management role        | Profit or loss         | Liability                              |
+| -------------------------- | -------------------- | ---------------------- | ---------------------- | -------------------------------------- |
+| Active partner             | Yes                  | Active                 | Shares profit and loss | Unlimited                              |
+| Sleeping partner           | Yes                  | Not active             | Shares profit and loss | Unlimited                              |
+| Secret partner             | Yes                  | May be active secretly | Shares profit and loss | Unlimited                              |
+| Nominal partner            | Usually no           | No active role         | Usually no share       | Liable to outsiders in some cases      |
+| Partner by estoppel        | No                   | No                     | No                     | Liable if representation is relied on  |
+| Partner by holding out     | No                   | No                     | No                     | Liable if representation is not denied |
+| Minor admitted to benefits | May contribute       | No active role         | Shares profit only     | Limited to share in firm               |
 
 ## 21. Types of Partnership
 
@@ -751,14 +751,14 @@ Functions:
 
 ## 31. Cooperative Society Type Summary
 
-| Type | Main members | Main purpose |
-|---|---|---|
-| Consumers' cooperative | Consumers | Goods at reasonable prices |
-| Producers' cooperative | Small producers | Inputs and bargaining power |
-| Marketing cooperative | Producers | Better selling price |
-| Farmers' cooperative | Farmers | Better inputs and large-scale farming benefits |
-| Credit cooperative | Borrowers and savers | Reasonable credit |
-| Housing cooperative | People needing housing | Affordable homes or plots |
+| Type                   | Main members           | Main purpose                                   |
+| ---------------------- | ---------------------- | ---------------------------------------------- |
+| Consumers' cooperative | Consumers              | Goods at reasonable prices                     |
+| Producers' cooperative | Small producers        | Inputs and bargaining power                    |
+| Marketing cooperative  | Producers              | Better selling price                           |
+| Farmers' cooperative   | Farmers                | Better inputs and large-scale farming benefits |
+| Credit cooperative     | Borrowers and savers   | Reasonable credit                              |
+| Housing cooperative    | People needing housing | Affordable homes or plots                      |
 
 ## 32. Joint Stock Company
 
@@ -947,30 +947,30 @@ A private company that is a subsidiary of a public company may be treated as a p
 
 ## 39. Private Company and Public Company: Comparison
 
-| Basis | Private company | Public company |
-|---|---|---|
-| Minimum members | 2 | 7 |
-| Maximum members | 200 | No limit |
-| Minimum directors | 2 | 3 |
-| Transfer of shares | Restricted | Generally free |
-| Public invitation | Cannot invite public to subscribe | Can invite public to subscribe |
-| Index of members | Not compulsory in the same way | Compulsory |
-| Name ending | Private Limited | Limited |
-| Suitability | Closely held businesses | Large capital and wider ownership |
+| Basis              | Private company                   | Public company                    |
+| ------------------ | --------------------------------- | --------------------------------- |
+| Minimum members    | 2                                 | 7                                 |
+| Maximum members    | 200                               | No limit                          |
+| Minimum directors  | 2                                 | 3                                 |
+| Transfer of shares | Restricted                        | Generally free                    |
+| Public invitation  | Cannot invite public to subscribe | Can invite public to subscribe    |
+| Index of members   | Not compulsory in the same way    | Compulsory                        |
+| Name ending        | Private Limited                   | Limited                           |
+| Suitability        | Closely held businesses           | Large capital and wider ownership |
 
 ## 40. Comparative View of All Forms
 
-| Basis | Sole proprietorship | Joint Hindu family business | Partnership | Cooperative society | Joint stock company |
-|---|---|---|---|---|---|
-| Ownership | One person | Family members | Two or more partners | Members | Shareholders |
-| Formation | Easiest | Easy if conditions exist | Easy through agreement | Registration compulsory | Registration compulsory and complex |
-| Capital | Limited | Ancestral property based | More than sole proprietorship | Limited to member support | Large capital possible |
-| Liability | Unlimited | Karta unlimited, others limited | Unlimited, joint and several | Limited | Limited |
-| Control | Owner | Karta | Partners | Elected committee | Board of Directors |
-| Continuity | Weak | Relatively stable | May be affected by partner changes | Stable | Very stable |
-| Secrecy | High | High | High | Lower | Lower, especially public company |
-| Management | One person | Karta | Shared by partners | Managing committee | Professional managers possible |
-| Suitability | Small personal business | Family business | Medium business and professional firms | Member welfare | Large business |
+| Basis       | Sole proprietorship     | Joint Hindu family business     | Partnership                            | Cooperative society       | Joint stock company                 |
+| ----------- | ----------------------- | ------------------------------- | -------------------------------------- | ------------------------- | ----------------------------------- |
+| Ownership   | One person              | Family members                  | Two or more partners                   | Members                   | Shareholders                        |
+| Formation   | Easiest                 | Easy if conditions exist        | Easy through agreement                 | Registration compulsory   | Registration compulsory and complex |
+| Capital     | Limited                 | Ancestral property based        | More than sole proprietorship          | Limited to member support | Large capital possible              |
+| Liability   | Unlimited               | Karta unlimited, others limited | Unlimited, joint and several           | Limited                   | Limited                             |
+| Control     | Owner                   | Karta                           | Partners                               | Elected committee         | Board of Directors                  |
+| Continuity  | Weak                    | Relatively stable               | May be affected by partner changes     | Stable                    | Very stable                         |
+| Secrecy     | High                    | High                            | High                                   | Lower                     | Lower, especially public company    |
+| Management  | One person              | Karta                           | Shared by partners                     | Managing committee        | Professional managers possible      |
+| Suitability | Small personal business | Family business                 | Medium business and professional firms | Member welfare            | Large business                      |
 
 ## 41. Choice of Form of Organisation
 
@@ -1034,13 +1034,13 @@ In a company, ownership and management are separated.
 
 The form should match the nature of business.
 
-| Nature of business | Suitable form |
-|---|---|
-| Small personal service | Sole proprietorship |
-| Professional service by experts | Partnership |
-| Family-based inherited business | Joint Hindu family business |
-| Member welfare | Cooperative society |
-| Large manufacturing or national expansion | Company |
+| Nature of business                        | Suitable form               |
+| ----------------------------------------- | --------------------------- |
+| Small personal service                    | Sole proprietorship         |
+| Professional service by experts           | Partnership                 |
+| Family-based inherited business           | Joint Hindu family business |
+| Member welfare                            | Cooperative society         |
+| Large manufacturing or national expansion | Company                     |
 
 ### 42.8 Flexibility
 
@@ -1321,16 +1321,16 @@ Types include consumers' cooperative, producers' cooperative, marketing cooperat
 
 ### 49.5 Distinguish between joint Hindu family business and partnership.
 
-| Basis | Joint Hindu family business | Partnership |
-|---|---|---|
-| Formation | By birth in family | By agreement |
-| Governing law | Hindu law | Partnership law |
-| Membership | Members of Hindu Undivided Family | Any persons competent to contract |
-| Minor status | Minor can be member by birth | Minor cannot be full partner |
-| Control | Karta controls | Partners usually share control |
-| Liability | Karta unlimited, others limited | Partners usually unlimited, joint, and several |
-| Registration | Not required in the same way | Optional for general partnership but advisable |
-| Continuity | More stable after death of karta | May be affected by death or insolvency of partner |
+| Basis         | Joint Hindu family business       | Partnership                                       |
+| ------------- | --------------------------------- | ------------------------------------------------- |
+| Formation     | By birth in family                | By agreement                                      |
+| Governing law | Hindu law                         | Partnership law                                   |
+| Membership    | Members of Hindu Undivided Family | Any persons competent to contract                 |
+| Minor status  | Minor can be member by birth      | Minor cannot be full partner                      |
+| Control       | Karta controls                    | Partners usually share control                    |
+| Liability     | Karta unlimited, others limited   | Partners usually unlimited, joint, and several    |
+| Registration  | Not required in the same way      | Optional for general partnership but advisable    |
+| Continuity    | More stable after death of karta  | May be affected by death or insolvency of partner |
 
 ### 49.6 Why do many people prefer sole proprietorship despite limits?
 
@@ -1361,42 +1361,42 @@ Many people prefer sole proprietorship because it is simple, inexpensive, flexib
 
 ## 51. Common Mistakes and Corrections
 
-| Mistake | Correct understanding |
-|---|---|
-| Sole proprietorship and company are both separate legal entities | Sole proprietorship has no separate legal entity; company has one |
-| Partnership always needs registration to exist | General partnership can exist without registration, but non-registration creates legal disadvantages |
-| A minor can be a full partner | A minor can only be admitted to benefits of partnership |
-| All partners must manage the firm | Some partners may be sleeping or nominal partners |
-| Cooperative society is formed mainly for profit maximisation | Cooperative society is mainly for member welfare |
-| Shareholders manage daily company work | Directors and managers handle daily operations |
-| Public company and private company have same transfer rules | Public company shares are generally transferable; private company shares are restricted |
-| Limited liability means no liability at all | It means liability is limited to the unpaid amount or capital contribution |
+| Mistake                                                          | Correct understanding                                                                                |
+| ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| Sole proprietorship and company are both separate legal entities | Sole proprietorship has no separate legal entity; company has one                                    |
+| Partnership always needs registration to exist                   | General partnership can exist without registration, but non-registration creates legal disadvantages |
+| A minor can be a full partner                                    | A minor can only be admitted to benefits of partnership                                              |
+| All partners must manage the firm                                | Some partners may be sleeping or nominal partners                                                    |
+| Cooperative society is formed mainly for profit maximisation     | Cooperative society is mainly for member welfare                                                     |
+| Shareholders manage daily company work                           | Directors and managers handle daily operations                                                       |
+| Public company and private company have same transfer rules      | Public company shares are generally transferable; private company shares are restricted              |
+| Limited liability means no liability at all                      | It means liability is limited to the unpaid amount or capital contribution                           |
 
 ## 52. Glossary
 
-| Term | Meaning |
-|---|---|
-| Sole proprietorship | One-owner business |
-| Proprietor | Owner of a sole proprietorship |
-| Unlimited liability | Personal assets can be used to pay business debts |
-| Separate legal entity | Business has identity separate from owners |
-| Karta | Head of joint Hindu family business |
-| Coparcener | Member having right in ancestral property |
-| Partnership | Agreement to carry on business and share profits |
-| Mutual agency | Each partner acts as agent and principal of other partners |
-| Partnership deed | Written agreement among partners |
-| Active partner | Partner who takes part in management |
-| Sleeping partner | Partner who invests but does not actively manage |
-| Nominal partner | Person who lends name to firm |
-| Partner by estoppel | Person liable because others believed them to be partner due to representation |
-| Partner by holding out | Person liable because they allowed themselves to be represented as partner |
-| Cooperative society | Voluntary democratic association for member welfare |
-| Joint stock company | Incorporated business with separate legal identity and share capital |
-| Shareholder | Owner of shares in a company |
-| Board of Directors | Elected body managing company affairs |
-| Perpetual succession | Continuous legal existence |
-| Private company | Company with restricted share transfer and no public invitation |
-| Public company | Company that may invite public subscription and has wider membership |
+| Term                   | Meaning                                                                        |
+| ---------------------- | ------------------------------------------------------------------------------ |
+| Sole proprietorship    | One-owner business                                                             |
+| Proprietor             | Owner of a sole proprietorship                                                 |
+| Unlimited liability    | Personal assets can be used to pay business debts                              |
+| Separate legal entity  | Business has identity separate from owners                                     |
+| Karta                  | Head of joint Hindu family business                                            |
+| Coparcener             | Member having right in ancestral property                                      |
+| Partnership            | Agreement to carry on business and share profits                               |
+| Mutual agency          | Each partner acts as agent and principal of other partners                     |
+| Partnership deed       | Written agreement among partners                                               |
+| Active partner         | Partner who takes part in management                                           |
+| Sleeping partner       | Partner who invests but does not actively manage                               |
+| Nominal partner        | Person who lends name to firm                                                  |
+| Partner by estoppel    | Person liable because others believed them to be partner due to representation |
+| Partner by holding out | Person liable because they allowed themselves to be represented as partner     |
+| Cooperative society    | Voluntary democratic association for member welfare                            |
+| Joint stock company    | Incorporated business with separate legal identity and share capital           |
+| Shareholder            | Owner of shares in a company                                                   |
+| Board of Directors     | Elected body managing company affairs                                          |
+| Perpetual succession   | Continuous legal existence                                                     |
+| Private company        | Company with restricted share transfer and no public invitation                |
+| Public company         | Company that may invite public subscription and has wider membership           |
 
 ## 53. Final Revision Sheet
 

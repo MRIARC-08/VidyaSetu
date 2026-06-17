@@ -1,37 +1,38 @@
 # Chapter 3: Metals and Non-metals
+
 ### NCERT Class 10 - Science
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 10 |
-| **Subject** | Science |
-| **Chapter** | 3 |
-| **Textbook Pages** | 1-21 |
-| **Core Theme** | How metals and non-metals differ in physical properties, chemical reactions, bonding, extraction, corrosion, and uses. |
-| **Main Skills** | Comparing metals and non-metals, predicting displacement reactions, reading the reactivity series, explaining ionic compounds, choosing extraction methods, and preventing corrosion. |
+| Detail             | Learner-Friendly Information                                                                                                                                                          |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Class**          | 10                                                                                                                                                                                    |
+| **Subject**        | Science                                                                                                                                                                               |
+| **Chapter**        | 3                                                                                                                                                                                     |
+| **Textbook Pages** | 1-21                                                                                                                                                                                  |
+| **Core Theme**     | How metals and non-metals differ in physical properties, chemical reactions, bonding, extraction, corrosion, and uses.                                                                |
+| **Main Skills**    | Comparing metals and non-metals, predicting displacement reactions, reading the reactivity series, explaining ionic compounds, choosing extraction methods, and preventing corrosion. |
 
 ---
 
 ## Section Structure
 
-| Unit | Topic | Main Learning Focus |
-|---|---|---|
-| **3A** | Metals and Non-metals in Daily Life | Uses and first classification. |
-| **3B** | Physical Properties of Metals | Lustre, malleability, ductility, conductivity, hardness, and sonority. |
-| **3C** | Physical Properties of Non-metals | Opposite properties and important exceptions. |
-| **3D** | Chemical Properties | Reactions with oxygen, water, acids, and salt solutions. |
-| **3E** | Reactivity Series | Arrangement of metals by decreasing reactivity. |
-| **3F** | Ionic Compounds | Electron transfer, cations, anions, and electrovalent bonding. |
-| **3G** | Properties of Ionic Compounds | High melting point, solubility, brittleness, and conductivity. |
-| **3H** | Occurrence of Metals | Minerals, ores, gangue, and natural forms. |
-| **3I** | Extraction of Metals | Low, middle, and high reactivity methods. |
-| **3J** | Refining of Metals | Electrolytic refining and anode mud. |
-| **3K** | Corrosion and Prevention | Rusting, tarnishing, galvanisation, anodising, and alloying. |
-| **3L** | Solved Questions | In-text and exercise-level answers. |
+| Unit   | Topic                               | Main Learning Focus                                                    |
+| ------ | ----------------------------------- | ---------------------------------------------------------------------- |
+| **3A** | Metals and Non-metals in Daily Life | Uses and first classification.                                         |
+| **3B** | Physical Properties of Metals       | Lustre, malleability, ductility, conductivity, hardness, and sonority. |
+| **3C** | Physical Properties of Non-metals   | Opposite properties and important exceptions.                          |
+| **3D** | Chemical Properties                 | Reactions with oxygen, water, acids, and salt solutions.               |
+| **3E** | Reactivity Series                   | Arrangement of metals by decreasing reactivity.                        |
+| **3F** | Ionic Compounds                     | Electron transfer, cations, anions, and electrovalent bonding.         |
+| **3G** | Properties of Ionic Compounds       | High melting point, solubility, brittleness, and conductivity.         |
+| **3H** | Occurrence of Metals                | Minerals, ores, gangue, and natural forms.                             |
+| **3I** | Extraction of Metals                | Low, middle, and high reactivity methods.                              |
+| **3J** | Refining of Metals                  | Electrolytic refining and anode mud.                                   |
+| **3K** | Corrosion and Prevention            | Rusting, tarnishing, galvanisation, anodising, and alloying.           |
+| **3L** | Solved Questions                    | In-text and exercise-level answers.                                    |
 
 ---
 
@@ -39,49 +40,49 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Compare physical properties** | Distinguish metals and non-metals using lustre, hardness, malleability, ductility, conductivity, and sonority. |
-| **Handle exceptions** | Explain why mercury, iodine, graphite, diamond, gallium, caesium, and alkali metals are important exceptions. |
-| **Write metal reactions** | Write balanced equations for reactions of metals with oxygen, water, acids, and salt solutions. |
-| **Use the reactivity series** | Predict whether one metal can displace another from its salt solution. |
-| **Explain ionic bonding** | Show electron transfer from metals to non-metals and identify cations/anions. |
-| **Explain ionic properties** | Link strong electrostatic forces with high melting points and conductivity in molten/aqueous states. |
-| **Understand metallurgy** | Choose extraction methods based on a metal's position in the reactivity series. |
-| **Explain corrosion** | State conditions needed for rusting and methods used to prevent corrosion. |
-| **Apply concepts** | Explain galvanisation, alloying, cleaning copper vessels, aqua regia, and why copper is used in hot-water tanks. |
+| Outcome                         | You Should Be Able To...                                                                                         |
+| ------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **Compare physical properties** | Distinguish metals and non-metals using lustre, hardness, malleability, ductility, conductivity, and sonority.   |
+| **Handle exceptions**           | Explain why mercury, iodine, graphite, diamond, gallium, caesium, and alkali metals are important exceptions.    |
+| **Write metal reactions**       | Write balanced equations for reactions of metals with oxygen, water, acids, and salt solutions.                  |
+| **Use the reactivity series**   | Predict whether one metal can displace another from its salt solution.                                           |
+| **Explain ionic bonding**       | Show electron transfer from metals to non-metals and identify cations/anions.                                    |
+| **Explain ionic properties**    | Link strong electrostatic forces with high melting points and conductivity in molten/aqueous states.             |
+| **Understand metallurgy**       | Choose extraction methods based on a metal's position in the reactivity series.                                  |
+| **Explain corrosion**           | State conditions needed for rusting and methods used to prevent corrosion.                                       |
+| **Apply concepts**              | Explain galvanisation, alloying, cleaning copper vessels, aqua regia, and why copper is used in hot-water tanks. |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Metal** | Element that generally loses electrons, forms positive ions, conducts heat/electricity, and is malleable and ductile. |
-| **Non-metal** | Element that generally gains or shares electrons, forms acidic/neutral oxides, and is usually non-lustrous, brittle, and a poor conductor. |
-| **Metallic lustre** | Shining surface of a metal in its pure or freshly cut state. |
-| **Malleability** | Ability of a substance to be beaten into thin sheets. |
-| **Ductility** | Ability of a substance to be drawn into thin wires. |
-| **Sonorous** | Producing a ringing sound when struck. |
-| **Amphoteric oxide** | Oxide that reacts with both acids and bases to form salt and water. |
-| **Reactivity series** | List of metals arranged in decreasing order of reactivity. |
-| **Displacement reaction** | Reaction in which a more reactive element displaces a less reactive element from its compound. |
-| **Cation** | Positively charged ion formed by loss of electrons. |
-| **Anion** | Negatively charged ion formed by gain of electrons. |
-| **Ionic compound** | Compound formed by transfer of electrons and held by electrostatic attraction between oppositely charged ions. |
-| **Mineral** | Naturally occurring element or compound found in the earth's crust. |
-| **Ore** | Mineral from which a metal can be profitably extracted. |
-| **Gangue** | Unwanted earthy impurities such as sand and soil present with ore. |
-| **Metallurgy** | Process of extracting metals from ores and refining them for use. |
-| **Roasting** | Heating sulphide ore strongly in excess air to convert it into oxide. |
-| **Calcination** | Heating carbonate ore strongly in limited air to convert it into oxide. |
-| **Reduction** | Removal of oxygen or gain of electrons; in metallurgy, converting metal oxide into metal. |
-| **Electrolytic reduction** | Extraction of highly reactive metals by electrolysis of molten compounds. |
-| **Electrolytic refining** | Purification of impure metal using electrolysis. |
-| **Corrosion** | Slow damage of a metal surface by reaction with air, moisture, chemicals, or gases. |
-| **Rusting** | Corrosion of iron in the presence of air and water. |
-| **Galvanisation** | Coating iron or steel with zinc to prevent rusting. |
-| **Alloy** | Homogeneous mixture of two or more metals, or a metal and a non-metal. |
+| Term                       | Meaning                                                                                                                                    |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Metal**                  | Element that generally loses electrons, forms positive ions, conducts heat/electricity, and is malleable and ductile.                      |
+| **Non-metal**              | Element that generally gains or shares electrons, forms acidic/neutral oxides, and is usually non-lustrous, brittle, and a poor conductor. |
+| **Metallic lustre**        | Shining surface of a metal in its pure or freshly cut state.                                                                               |
+| **Malleability**           | Ability of a substance to be beaten into thin sheets.                                                                                      |
+| **Ductility**              | Ability of a substance to be drawn into thin wires.                                                                                        |
+| **Sonorous**               | Producing a ringing sound when struck.                                                                                                     |
+| **Amphoteric oxide**       | Oxide that reacts with both acids and bases to form salt and water.                                                                        |
+| **Reactivity series**      | List of metals arranged in decreasing order of reactivity.                                                                                 |
+| **Displacement reaction**  | Reaction in which a more reactive element displaces a less reactive element from its compound.                                             |
+| **Cation**                 | Positively charged ion formed by loss of electrons.                                                                                        |
+| **Anion**                  | Negatively charged ion formed by gain of electrons.                                                                                        |
+| **Ionic compound**         | Compound formed by transfer of electrons and held by electrostatic attraction between oppositely charged ions.                             |
+| **Mineral**                | Naturally occurring element or compound found in the earth's crust.                                                                        |
+| **Ore**                    | Mineral from which a metal can be profitably extracted.                                                                                    |
+| **Gangue**                 | Unwanted earthy impurities such as sand and soil present with ore.                                                                         |
+| **Metallurgy**             | Process of extracting metals from ores and refining them for use.                                                                          |
+| **Roasting**               | Heating sulphide ore strongly in excess air to convert it into oxide.                                                                      |
+| **Calcination**            | Heating carbonate ore strongly in limited air to convert it into oxide.                                                                    |
+| **Reduction**              | Removal of oxygen or gain of electrons; in metallurgy, converting metal oxide into metal.                                                  |
+| **Electrolytic reduction** | Extraction of highly reactive metals by electrolysis of molten compounds.                                                                  |
+| **Electrolytic refining**  | Purification of impure metal using electrolysis.                                                                                           |
+| **Corrosion**              | Slow damage of a metal surface by reaction with air, moisture, chemicals, or gases.                                                        |
+| **Rusting**                | Corrosion of iron in the presence of air and water.                                                                                        |
+| **Galvanisation**          | Coating iron or steel with zinc to prevent rusting.                                                                                        |
+| **Alloy**                  | Homogeneous mixture of two or more metals, or a metal and a non-metal.                                                                     |
 
 ---
 
@@ -108,25 +109,25 @@ Corrosion is unwanted reaction of metals, but it can be controlled through coati
 
 ## Everyday Uses of Metals
 
-| Metal | Common Uses | Property Behind the Use |
-|---|---|---|
-| Iron | Bridges, machines, tools | Strong and hard. |
-| Copper | Electrical wires, hot water tanks | Good conductor and comparatively less reactive. |
-| Aluminium | Utensils, aircraft, foil | Light, malleable, good conductor, protective oxide layer. |
-| Gold | Jewellery | Lustrous, malleable, ductile, corrosion-resistant. |
-| Silver | Jewellery, electrical contacts | Lustrous and very good conductor. |
-| Zinc | Galvanising iron | More reactive than iron; protects iron from rusting. |
+| Metal     | Common Uses                       | Property Behind the Use                                   |
+| --------- | --------------------------------- | --------------------------------------------------------- |
+| Iron      | Bridges, machines, tools          | Strong and hard.                                          |
+| Copper    | Electrical wires, hot water tanks | Good conductor and comparatively less reactive.           |
+| Aluminium | Utensils, aircraft, foil          | Light, malleable, good conductor, protective oxide layer. |
+| Gold      | Jewellery                         | Lustrous, malleable, ductile, corrosion-resistant.        |
+| Silver    | Jewellery, electrical contacts    | Lustrous and very good conductor.                         |
+| Zinc      | Galvanising iron                  | More reactive than iron; protects iron from rusting.      |
 
 ## Everyday Uses of Non-metals
 
-| Non-metal | Common Uses | Property Behind the Use |
-|---|---|---|
-| Oxygen | Respiration, combustion | Supports life and burning. |
-| Nitrogen | Food packaging, fertilisers | Less reactive gas; important in compounds. |
-| Carbon | Graphite pencils, diamond tools, fuels | Exists in different allotropes with different properties. |
-| Sulphur | Medicines, vulcanisation, chemicals | Forms useful compounds. |
-| Chlorine | Water disinfection | Kills germs. |
-| Iodine | Antiseptic, iodised salt | Important for health in small amounts. |
+| Non-metal | Common Uses                            | Property Behind the Use                                   |
+| --------- | -------------------------------------- | --------------------------------------------------------- |
+| Oxygen    | Respiration, combustion                | Supports life and burning.                                |
+| Nitrogen  | Food packaging, fertilisers            | Less reactive gas; important in compounds.                |
+| Carbon    | Graphite pencils, diamond tools, fuels | Exists in different allotropes with different properties. |
+| Sulphur   | Medicines, vulcanisation, chemicals    | Forms useful compounds.                                   |
+| Chlorine  | Water disinfection                     | Kills germs.                                              |
+| Iodine    | Antiseptic, iodised salt               | Important for health in small amounts.                    |
 
 ## Why Classification Matters
 
@@ -159,11 +160,11 @@ Examples:
 
 Metals are generally hard, but hardness varies.
 
-| Metal Type | Observation |
-|---|---|
-| Iron, copper, aluminium | Hard and difficult to cut. |
-| Zinc, lead | Softer than iron. |
-| Sodium, potassium | Very soft; can be cut with a knife. |
+| Metal Type              | Observation                         |
+| ----------------------- | ----------------------------------- |
+| Iron, copper, aluminium | Hard and difficult to cut.          |
+| Zinc, lead              | Softer than iron.                   |
+| Sodium, potassium       | Very soft; can be cut with a knife. |
 
 ## 3. Malleability
 
@@ -202,11 +203,11 @@ This is why cooking vessels are commonly made from metals like:
 - stainless steel;
 - iron.
 
-| Conductor Type | Examples |
-|---|---|
-| Very good heat conductors | Silver, copper |
-| Good heat conductors | Aluminium, iron |
-| Poorer metallic conductors | Lead, mercury |
+| Conductor Type             | Examples        |
+| -------------------------- | --------------- |
+| Very good heat conductors  | Silver, copper  |
+| Good heat conductors       | Aluminium, iron |
+| Poorer metallic conductors | Lead, mercury   |
 
 ## 6. Conductivity of Electricity
 
@@ -224,15 +225,15 @@ This is why school bells are made of metals.
 
 ## Summary Table: Physical Properties of Metals
 
-| Property | Meaning | Common Metal Behaviour |
-|---|---|---|
-| Lustre | Shiny appearance | Usually shiny when clean. |
-| Hardness | Resistance to cutting/scratching | Generally hard, except alkali metals. |
-| Malleability | Can be beaten into sheets | Usually malleable. |
-| Ductility | Can be drawn into wires | Usually ductile. |
-| Heat conductivity | Transfers heat | Usually good conductors. |
-| Electrical conductivity | Allows current | Usually good conductors. |
-| Sonority | Produces ringing sound | Usually sonorous. |
+| Property                | Meaning                          | Common Metal Behaviour                |
+| ----------------------- | -------------------------------- | ------------------------------------- |
+| Lustre                  | Shiny appearance                 | Usually shiny when clean.             |
+| Hardness                | Resistance to cutting/scratching | Generally hard, except alkali metals. |
+| Malleability            | Can be beaten into sheets        | Usually malleable.                    |
+| Ductility               | Can be drawn into wires          | Usually ductile.                      |
+| Heat conductivity       | Transfers heat                   | Usually good conductors.              |
+| Electrical conductivity | Allows current                   | Usually good conductors.              |
+| Sonority                | Produces ringing sound           | Usually sonorous.                     |
 
 ---
 
@@ -242,42 +243,42 @@ This is why school bells are made of metals.
 
 Non-metals usually show properties opposite to metals.
 
-| Property | General Non-metal Behaviour |
-|---|---|
-| Lustre | Usually dull. |
-| Hardness | Usually soft or brittle if solid. |
-| Malleability | Not malleable. |
-| Ductility | Not ductile. |
-| Heat conductivity | Usually poor conductors. |
-| Electrical conductivity | Usually poor conductors. |
-| Sonority | Not sonorous. |
-| State | Many are gases or solids; bromine is liquid. |
+| Property                | General Non-metal Behaviour                  |
+| ----------------------- | -------------------------------------------- |
+| Lustre                  | Usually dull.                                |
+| Hardness                | Usually soft or brittle if solid.            |
+| Malleability            | Not malleable.                               |
+| Ductility               | Not ductile.                                 |
+| Heat conductivity       | Usually poor conductors.                     |
+| Electrical conductivity | Usually poor conductors.                     |
+| Sonority                | Not sonorous.                                |
+| State                   | Many are gases or solids; bromine is liquid. |
 
 ## Examples of Non-metals
 
 | Non-metal | State at Room Temperature |
-|---|---|
-| Oxygen | Gas |
-| Hydrogen | Gas |
-| Nitrogen | Gas |
-| Chlorine | Gas |
-| Carbon | Solid |
-| Sulphur | Solid |
-| Iodine | Solid |
-| Bromine | Liquid |
+| --------- | ------------------------- |
+| Oxygen    | Gas                       |
+| Hydrogen  | Gas                       |
+| Nitrogen  | Gas                       |
+| Chlorine  | Gas                       |
+| Carbon    | Solid                     |
+| Sulphur   | Solid                     |
+| Iodine    | Solid                     |
+| Bromine   | Liquid                    |
 
 ## Important Exceptions
 
 Physical properties alone cannot classify every element perfectly.
 
-| Exception | Why It Matters |
-|---|---|
-| Mercury | Metal but liquid at room temperature. |
-| Gallium and caesium | Metals with very low melting points; can melt near palm temperature. |
-| Sodium, potassium, lithium | Metals but very soft and can be cut with a knife. |
-| Iodine | Non-metal but lustrous. |
-| Graphite | Non-metal allotrope of carbon but conducts electricity. |
-| Diamond | Non-metal allotrope of carbon but extremely hard and has very high melting point. |
+| Exception                  | Why It Matters                                                                    |
+| -------------------------- | --------------------------------------------------------------------------------- |
+| Mercury                    | Metal but liquid at room temperature.                                             |
+| Gallium and caesium        | Metals with very low melting points; can melt near palm temperature.              |
+| Sodium, potassium, lithium | Metals but very soft and can be cut with a knife.                                 |
+| Iodine                     | Non-metal but lustrous.                                                           |
+| Graphite                   | Non-metal allotrope of carbon but conducts electricity.                           |
+| Diamond                    | Non-metal allotrope of carbon but extremely hard and has very high melting point. |
 
 ## Allotropes of Carbon
 
@@ -285,10 +286,10 @@ Allotropes are different physical forms of the same element.
 
 Carbon has important allotropes:
 
-| Allotrope | Important Property |
-|---|---|
-| Diamond | Hardest natural substance; very high melting and boiling point. |
-| Graphite | Conducts electricity; soft and slippery. |
+| Allotrope | Important Property                                              |
+| --------- | --------------------------------------------------------------- |
+| Diamond   | Hardest natural substance; very high melting and boiling point. |
+| Graphite  | Conducts electricity; soft and slippery.                        |
 
 ## Why Chemical Properties Are Needed
 
@@ -369,9 +370,9 @@ The solution is acidic and turns blue litmus red.
 
 ## Metal Oxides vs Non-metal Oxides
 
-| Oxide Type | Usual Nature | Example |
-|---|---|---|
-| Metal oxide | Basic | `MgO`, `CuO`, `Na2O` |
+| Oxide Type      | Usual Nature      | Example                   |
+| --------------- | ----------------- | ------------------------- |
+| Metal oxide     | Basic             | `MgO`, `CuO`, `Na2O`      |
 | Non-metal oxide | Acidic or neutral | `SO2`, `CO2`, `H2O`, `CO` |
 
 ---
@@ -437,12 +438,12 @@ This layer prevents further oxidation.
 
 ## Iron, Copper, Silver, and Gold
 
-| Metal | Reaction with Oxygen |
-|---|---|
-| Iron | Does not burn as a piece, but iron filings burn when sprinkled in flame. |
-| Copper | Forms black copper(II) oxide on heating. |
-| Silver | Does not react with oxygen easily. |
-| Gold | Does not react with oxygen even at high temperature. |
+| Metal  | Reaction with Oxygen                                                     |
+| ------ | ------------------------------------------------------------------------ |
+| Iron   | Does not burn as a piece, but iron filings burn when sprinkled in flame. |
+| Copper | Forms black copper(II) oxide on heating.                                 |
+| Silver | Does not react with oxygen easily.                                       |
+| Gold   | Does not react with oxygen even at high temperature.                     |
 
 ## Anodising
 
@@ -538,13 +539,13 @@ Lead, copper, silver, and gold do not react with water under ordinary conditions
 
 ## Water Reaction Summary
 
-| Metal | Reaction with Water |
-|---|---|
-| K, Na | Violent with cold water. |
-| Ca | Reacts with cold water, less violently. |
-| Mg | Reacts with hot water. |
-| Al, Zn, Fe | React with steam. |
-| Pb, Cu, Ag, Au | Do not react with water. |
+| Metal          | Reaction with Water                     |
+| -------------- | --------------------------------------- |
+| K, Na          | Violent with cold water.                |
+| Ca             | Reacts with cold water, less violently. |
+| Mg             | Reacts with hot water.                  |
+| Al, Zn, Fe     | React with steam.                       |
+| Pb, Cu, Ag, Au | Do not react with water.                |
 
 ---
 
@@ -644,11 +645,11 @@ $$
 
 Observations:
 
-| Observation | Reason |
-|---|---|
-| Blue copper sulphate solution turns green | Iron(II) sulphate forms. |
-| Brown deposit appears on iron nail | Copper metal is deposited. |
-| Iron nail surface changes | Iron dissolves into solution as `Fe2+`. |
+| Observation                               | Reason                                  |
+| ----------------------------------------- | --------------------------------------- |
+| Blue copper sulphate solution turns green | Iron(II) sulphate forms.                |
+| Brown deposit appears on iron nail        | Copper metal is deposited.              |
+| Iron nail surface changes                 | Iron dissolves into solution as `Fe2+`. |
 
 ## Copper Wire in Iron Sulphate Solution
 
@@ -658,10 +659,10 @@ No reaction occurs.
 
 ## Displacement Test Logic
 
-| Observation | Conclusion |
-|---|---|
-| Metal A displaces B from salt solution | A is more reactive than B. |
-| Metal A does not displace B | A is less reactive than B or similar in reactivity. |
+| Observation                            | Conclusion                                          |
+| -------------------------------------- | --------------------------------------------------- |
+| Metal A displaces B from salt solution | A is more reactive than B.                          |
+| Metal A does not displace B            | A is less reactive than B or similar in reactivity. |
 
 ---
 
@@ -677,31 +678,31 @@ K > Na > Ca > Mg > Al > Zn > Fe > Pb > H > Cu > Hg > Ag > Au
 
 ## Table Form
 
-| Position | Element | Reactivity |
-|---:|---|---|
-| 1 | Potassium, K | Most reactive |
-| 2 | Sodium, Na | Very reactive |
-| 3 | Calcium, Ca | Very reactive |
-| 4 | Magnesium, Mg | Reactive |
-| 5 | Aluminium, Al | Reactive |
-| 6 | Zinc, Zn | Moderately reactive |
-| 7 | Iron, Fe | Moderately reactive |
-| 8 | Lead, Pb | Less reactive |
-| 9 | Hydrogen, H | Reference point |
-| 10 | Copper, Cu | Below hydrogen |
-| 11 | Mercury, Hg | Low reactivity |
-| 12 | Silver, Ag | Very low reactivity |
-| 13 | Gold, Au | Least reactive |
+| Position | Element       | Reactivity          |
+| -------: | ------------- | ------------------- |
+|        1 | Potassium, K  | Most reactive       |
+|        2 | Sodium, Na    | Very reactive       |
+|        3 | Calcium, Ca   | Very reactive       |
+|        4 | Magnesium, Mg | Reactive            |
+|        5 | Aluminium, Al | Reactive            |
+|        6 | Zinc, Zn      | Moderately reactive |
+|        7 | Iron, Fe      | Moderately reactive |
+|        8 | Lead, Pb      | Less reactive       |
+|        9 | Hydrogen, H   | Reference point     |
+|       10 | Copper, Cu    | Below hydrogen      |
+|       11 | Mercury, Hg   | Low reactivity      |
+|       12 | Silver, Ag    | Very low reactivity |
+|       13 | Gold, Au      | Least reactive      |
 
 ## What the Series Helps You Predict
 
-| Question | Use of Reactivity Series |
-|---|---|
-| Will a metal react with dilute acid? | Metals above hydrogen usually displace hydrogen. |
-| Will displacement occur in salt solution? | Higher metal displaces lower metal. |
-| Is metal found free in nature? | Low-reactivity metals may occur free. |
-| How is a metal extracted? | High-reactivity metals need electrolysis; lower ones need simpler reduction. |
-| Which metal corrodes easily? | More reactive metals generally corrode more easily. |
+| Question                                  | Use of Reactivity Series                                                     |
+| ----------------------------------------- | ---------------------------------------------------------------------------- |
+| Will a metal react with dilute acid?      | Metals above hydrogen usually displace hydrogen.                             |
+| Will displacement occur in salt solution? | Higher metal displaces lower metal.                                          |
+| Is metal found free in nature?            | Low-reactivity metals may occur free.                                        |
+| How is a metal extracted?                 | High-reactivity metals need electrolysis; lower ones need simpler reduction. |
+| Which metal corrodes easily?              | More reactive metals generally corrode more easily.                          |
 
 ---
 
@@ -798,8 +799,8 @@ $$
 ## Ions Present in Magnesium Chloride
 
 | Compound | Cation | Anion |
-|---|---|---|
-| `MgCl2` | `Mg2+` | `Cl-` |
+| -------- | ------ | ----- |
+| `MgCl2`  | `Mg2+` | `Cl-` |
 
 ## Ionic or Electrovalent Compounds
 
@@ -817,11 +818,11 @@ Electron-dot structures show valence electrons as dots around the symbol of an e
 
 For text notes, we can represent them simply:
 
-| Element | Electronic Configuration | Valence Electrons | Dot Idea |
-|---|---|---:|---|
-| Sodium, Na | 2,8,1 | 1 | `Na.` |
-| Oxygen, O | 2,6 | 6 | `O` with 6 dots |
-| Magnesium, Mg | 2,8,2 | 2 | `Mg:` |
+| Element       | Electronic Configuration | Valence Electrons | Dot Idea        |
+| ------------- | ------------------------ | ----------------: | --------------- |
+| Sodium, Na    | 2,8,1                    |                 1 | `Na.`           |
+| Oxygen, O     | 2,6                      |                 6 | `O` with 6 dots |
+| Magnesium, Mg | 2,8,2                    |                 2 | `Mg:`           |
 
 ## Formation of Sodium Oxide, `Na2O`
 
@@ -848,8 +849,8 @@ $$
 Ions present:
 
 | Compound | Cation | Anion |
-|---|---|---|
-| `Na2O` | `Na+` | `O2-` |
+| -------- | ------ | ----- |
+| `Na2O`   | `Na+`  | `O2-` |
 
 ## Formation of Magnesium Oxide, `MgO`
 
@@ -876,8 +877,8 @@ $$
 Ions present:
 
 | Compound | Cation | Anion |
-|---|---|---|
-| `MgO` | `Mg2+` | `O2-` |
+| -------- | ------ | ----- |
+| `MgO`    | `Mg2+` | `O2-` |
 
 ---
 
@@ -905,12 +906,12 @@ A large amount of energy is needed to separate the ions.
 Examples from the raw chapter:
 
 | Ionic Compound | Melting Point (K) | Boiling Point (K) |
-|---|---:|---:|
-| NaCl | 1074 | 1686 |
-| LiCl | 887 | 1600 |
-| CaCl2 | 1045 | 1900 |
-| CaO | 2850 | 3120 |
-| MgCl2 | 981 | 1685 |
+| -------------- | ----------------: | ----------------: |
+| NaCl           |              1074 |              1686 |
+| LiCl           |               887 |              1600 |
+| CaCl2          |              1045 |              1900 |
+| CaO            |              2850 |              3120 |
+| MgCl2          |               981 |              1685 |
 
 ## 3. Solubility
 
@@ -925,11 +926,11 @@ Water can separate ions better than non-polar solvents like kerosene and petrol.
 
 Ionic compounds conduct electricity only when ions can move.
 
-| State | Conducts Electricity? | Reason |
-|---|---|---|
-| Solid | No | Ions are fixed in a rigid lattice. |
-| Molten | Yes | Ions are free to move. |
-| Aqueous solution | Yes | Ions are free to move in water. |
+| State            | Conducts Electricity? | Reason                             |
+| ---------------- | --------------------- | ---------------------------------- |
+| Solid            | No                    | Ions are fixed in a rigid lattice. |
+| Molten           | Yes                   | Ions are free to move.             |
+| Aqueous solution | Yes                   | Ions are free to move in water.    |
 
 ## Key Explanation
 
@@ -976,19 +977,19 @@ This process is called concentration or enrichment of ore.
 
 ## Free and Combined State
 
-| Metal Type | Occurrence |
-|---|---|
-| Very low reactivity metals | Often found in free state. |
-| Moderately reactive metals | Found mainly as oxides, sulphides, or carbonates. |
-| Highly reactive metals | Found only as compounds, never as free elements in nature. |
+| Metal Type                 | Occurrence                                                 |
+| -------------------------- | ---------------------------------------------------------- |
+| Very low reactivity metals | Often found in free state.                                 |
+| Moderately reactive metals | Found mainly as oxides, sulphides, or carbonates.          |
+| Highly reactive metals     | Found only as compounds, never as free elements in nature. |
 
 Examples:
 
-| Reactivity Level | Metals | Common Occurrence |
-|---|---|---|
-| Low | Au, Ag, Pt, sometimes Cu | Free/native state. |
-| Middle | Zn, Fe, Pb, Cu | Oxides, sulphides, carbonates. |
-| High | K, Na, Ca, Mg, Al | Stable compounds. |
+| Reactivity Level | Metals                   | Common Occurrence              |
+| ---------------- | ------------------------ | ------------------------------ |
+| Low              | Au, Ag, Pt, sometimes Cu | Free/native state.             |
+| Middle           | Zn, Fe, Pb, Cu           | Oxides, sulphides, carbonates. |
+| High             | K, Na, Ca, Mg, Al        | Stable compounds.              |
 
 ---
 
@@ -1018,11 +1019,11 @@ The raw chapter does not require detailed methods here, but the key concept is t
 
 The extraction method depends on the metal's position in the reactivity series.
 
-| Position in Series | Examples | Extraction Method |
-|---|---|---|
-| Low reactivity | Hg, Cu, Ag, Au | Heating ores; simple reduction; some found free. |
-| Middle reactivity | Zn, Fe, Pb | Convert sulphides/carbonates to oxides, then reduce with carbon or other reducing agent. |
-| High reactivity | K, Na, Ca, Mg, Al | Electrolytic reduction of molten compounds. |
+| Position in Series | Examples          | Extraction Method                                                                        |
+| ------------------ | ----------------- | ---------------------------------------------------------------------------------------- |
+| Low reactivity     | Hg, Cu, Ag, Au    | Heating ores; simple reduction; some found free.                                         |
+| Middle reactivity  | Zn, Fe, Pb        | Convert sulphides/carbonates to oxides, then reduce with carbon or other reducing agent. |
+| High reactivity    | K, Na, Ca, Mg, Al | Electrolytic reduction of molten compounds.                                              |
 
 ## Why Oxides Are Important
 
@@ -1156,10 +1157,10 @@ $$
 
 In this reaction:
 
-| Substance | Change |
-|---|---|
-| Aluminium | Oxidised to aluminium oxide. |
-| Manganese dioxide | Reduced to manganese. |
+| Substance         | Change                       |
+| ----------------- | ---------------------------- |
+| Aluminium         | Oxidised to aluminium oxide. |
+| Manganese dioxide | Reduced to manganese.        |
 
 ## Thermit Reaction
 
@@ -1213,10 +1214,10 @@ $$
 
 ## Electrode Rule
 
-| Electrode | Charge in Electrolysis | What Happens |
-|---|---|---|
-| Cathode | Negative | Metal cations gain electrons and form metal. |
-| Anode | Positive | Non-metal anions lose electrons and form non-metal. |
+| Electrode | Charge in Electrolysis | What Happens                                        |
+| --------- | ---------------------- | --------------------------------------------------- |
+| Cathode   | Negative               | Metal cations gain electrons and form metal.        |
+| Anode     | Positive               | Non-metal anions lose electrons and form non-metal. |
 
 For molten sodium chloride:
 
@@ -1254,18 +1255,18 @@ Examples:
 
 ## Setup for Electrolytic Refining
 
-| Part | Material Used |
-|---|---|
-| Anode | Impure metal |
-| Cathode | Thin strip of pure metal |
+| Part        | Material Used                                |
+| ----------- | -------------------------------------------- |
+| Anode       | Impure metal                                 |
+| Cathode     | Thin strip of pure metal                     |
 | Electrolyte | Solution of a soluble salt of the same metal |
 
 For copper refining:
 
-| Part | Material |
-|---|---|
-| Anode | Impure copper |
-| Cathode | Pure copper strip |
+| Part        | Material                           |
+| ----------- | ---------------------------------- |
+| Anode       | Impure copper                      |
+| Cathode     | Pure copper strip                  |
 | Electrolyte | Acidified copper sulphate solution |
 
 ## What Happens During Refining
@@ -1300,11 +1301,11 @@ Corrosion is the slow damage of a metal surface due to reaction with substances 
 
 ## Examples of Corrosion
 
-| Metal | Corrosion Observation | Compound/Layer |
-|---|---|---|
-| Silver | Turns black | Silver sulphide |
-| Copper | Green coating | Basic copper carbonate |
-| Iron | Brown flaky rust | Hydrated iron(III) oxide |
+| Metal  | Corrosion Observation | Compound/Layer           |
+| ------ | --------------------- | ------------------------ |
+| Silver | Turns black           | Silver sulphide          |
+| Copper | Green coating         | Basic copper carbonate   |
+| Iron   | Brown flaky rust      | Hydrated iron(III) oxide |
 
 ## Silver Tarnishing
 
@@ -1345,11 +1346,11 @@ Iron rusts when both are present:
 
 ## Test Tube Experiment Logic
 
-| Test Tube | Condition | Rusting? | Reason |
-|---|---|---|---|
-| A | Iron nail with water and air | Yes | Both air and water are present. |
-| B | Boiled water plus oil layer | No | Water is present, but dissolved air is removed and oil blocks air. |
-| C | Dry air with anhydrous calcium chloride | No | Air is present, but moisture is absent. |
+| Test Tube | Condition                               | Rusting? | Reason                                                             |
+| --------- | --------------------------------------- | -------- | ------------------------------------------------------------------ |
+| A         | Iron nail with water and air            | Yes      | Both air and water are present.                                    |
+| B         | Boiled water plus oil layer             | No       | Water is present, but dissolved air is removed and oil blocks air. |
+| C         | Dry air with anhydrous calcium chloride | No       | Air is present, but moisture is absent.                            |
 
 ## Conclusion
 
@@ -1436,13 +1437,13 @@ Alloying improves properties such as:
 
 ## Common Alloys
 
-| Alloy | Composition | Use/Property |
-|---|---|---|
-| Brass | Copper and zinc | Harder than copper; used in fittings and instruments. |
-| Bronze | Copper and tin | Strong and corrosion-resistant. |
-| Solder | Lead and tin | Low melting point; used to join electrical wires. |
-| Stainless steel | Iron, chromium, nickel, carbon | Hard and corrosion-resistant. |
-| Amalgam | Alloy containing mercury | Special uses depending on metal mixed. |
+| Alloy           | Composition                    | Use/Property                                          |
+| --------------- | ------------------------------ | ----------------------------------------------------- |
+| Brass           | Copper and zinc                | Harder than copper; used in fittings and instruments. |
+| Bronze          | Copper and tin                 | Strong and corrosion-resistant.                       |
+| Solder          | Lead and tin                   | Low melting point; used to join electrical wires.     |
+| Stainless steel | Iron, chromium, nickel, carbon | Hard and corrosion-resistant.                         |
+| Amalgam         | Alloy containing mercury       | Special uses depending on metal mixed.                |
 
 ## 24 Carat and 22 Carat Gold
 
@@ -1734,11 +1735,11 @@ $$
 
 Text representation:
 
-| Element | Valence Electrons | Dot Structure Idea |
-|---|---:|---|
-| Sodium, Na | 1 | `Na.` |
-| Oxygen, O | 6 | `O` with six dots |
-| Magnesium, Mg | 2 | `Mg:` |
+| Element       | Valence Electrons | Dot Structure Idea |
+| ------------- | ----------------: | ------------------ |
+| Sodium, Na    |                 1 | `Na.`              |
+| Oxygen, O     |                 6 | `O` with six dots  |
+| Magnesium, Mg |                 2 | `Mg:`              |
 
 Sodium has 1 valence electron, oxygen has 6, and magnesium has 2.
 
@@ -1782,10 +1783,10 @@ $$
 
 ## Answer
 
-| Compound | Ions Present |
-|---|---|
-| `Na2O` | `Na+` and `O2-` |
-| `MgO` | `Mg2+` and `O2-` |
+| Compound | Ions Present     |
+| -------- | ---------------- |
+| `Na2O`   | `Na+` and `O2-`  |
+| `MgO`    | `Mg2+` and `O2-` |
 
 ---
 
@@ -1803,11 +1804,11 @@ A large amount of heat energy is required to overcome these forces. Therefore, i
 
 ## Answer
 
-| Term | Definition |
-|---|---|
-| Mineral | Naturally occurring element or compound found in the earth's crust. |
-| Ore | Mineral from which metal can be extracted profitably. |
-| Gangue | Unwanted impurities such as sand, soil, and rocky material mixed with ore. |
+| Term    | Definition                                                                 |
+| ------- | -------------------------------------------------------------------------- |
+| Mineral | Naturally occurring element or compound found in the earth's crust.        |
+| Ore     | Mineral from which metal can be extracted profitably.                      |
+| Gangue  | Unwanted impurities such as sand, soil, and rocky material mixed with ore. |
 
 ---
 
@@ -1849,11 +1850,11 @@ A metal can displace another metal from its oxide only if it is more reactive.
 
 Displacement occurs in these cases:
 
-| Metal Heated | Oxide | Reaction? | Reason |
-|---|---|---|---|
-| Magnesium | Zinc oxide | Yes | Mg is more reactive than Zn. |
-| Magnesium | Copper oxide | Yes | Mg is more reactive than Cu. |
-| Zinc | Copper oxide | Yes | Zn is more reactive than Cu. |
+| Metal Heated | Oxide        | Reaction? | Reason                       |
+| ------------ | ------------ | --------- | ---------------------------- |
+| Magnesium    | Zinc oxide   | Yes       | Mg is more reactive than Zn. |
+| Magnesium    | Copper oxide | Yes       | Mg is more reactive than Cu. |
+| Zinc         | Copper oxide | Yes       | Zn is more reactive than Cu. |
 
 No displacement occurs when:
 
@@ -1914,12 +1915,12 @@ $$
 
 The other pairs do not react because the added metal is less reactive than the metal already present in the salt.
 
-| Pair | Reaction? | Reason |
-|---|---|---|
-| NaCl + Cu | No | Copper is less reactive than sodium. |
-| MgCl2 + Al | No | Aluminium is less reactive than magnesium. |
-| FeSO4 + Ag | No | Silver is less reactive than iron. |
-| AgNO3 + Cu | Yes | Copper is more reactive than silver. |
+| Pair       | Reaction? | Reason                                     |
+| ---------- | --------- | ------------------------------------------ |
+| NaCl + Cu  | No        | Copper is less reactive than sodium.       |
+| MgCl2 + Al | No        | Aluminium is less reactive than magnesium. |
+| FeSO4 + Ag | No        | Silver is less reactive than iron.         |
+| AgNO3 + Cu | Yes       | Copper is more reactive than silver.       |
 
 ---
 
@@ -1990,18 +1991,18 @@ Use two tests.
 
 Hit the sample gently with a hammer.
 
-| Observation | Inference |
-|---|---|
-| Flattens into sheet | Likely metal; malleable. |
-| Breaks into pieces | Likely non-metal; brittle. |
+| Observation         | Inference                  |
+| ------------------- | -------------------------- |
+| Flattens into sheet | Likely metal; malleable.   |
+| Breaks into pieces  | Likely non-metal; brittle. |
 
 ## Conductivity Test
 
 Make an electric circuit with battery, bulb, wires, and switch. Place the sample in the circuit.
 
-| Observation | Inference |
-|---|---|
-| Bulb glows | Sample conducts electricity; likely metal. |
+| Observation        | Inference                                  |
+| ------------------ | ------------------------------------------ |
+| Bulb glows         | Sample conducts electricity; likely metal. |
 | Bulb does not glow | Sample does not conduct; likely non-metal. |
 
 ---
@@ -2020,13 +2021,13 @@ Reasons:
 
 Examples of exceptions:
 
-| Exception | Why It Matters |
-|---|---|
-| Graphite | Non-metal but conducts electricity. |
-| Diamond | Non-metal but very hard. |
-| Iodine | Non-metal but lustrous. |
-| Sodium/potassium | Metals but soft. |
-| Mercury | Metal but liquid. |
+| Exception        | Why It Matters                      |
+| ---------------- | ----------------------------------- |
+| Graphite         | Non-metal but conducts electricity. |
+| Diamond          | Non-metal but very hard.            |
+| Iodine           | Non-metal but lustrous.             |
+| Sodium/potassium | Metals but soft.                    |
+| Mercury          | Metal but liquid.                   |
 
 Therefore, physical tests help, but chemical properties give more reliable classification.
 
@@ -2091,10 +2092,10 @@ Metals above hydrogen in the reactivity series displace hydrogen from dilute aci
 
 ## Answer
 
-| Part | What to Use |
-|---|---|
-| Anode | Impure metal M |
-| Cathode | Thin strip of pure metal M |
+| Part        | What to Use                           |
+| ----------- | ------------------------------------- |
+| Anode       | Impure metal M                        |
+| Cathode     | Thin strip of pure metal M            |
 | Electrolyte | Solution of a soluble salt of metal M |
 
 ## Explanation
@@ -2173,13 +2174,13 @@ Non-metals generally form acidic or neutral oxides.
 
 Examples:
 
-| Non-metal Oxide | Nature |
-|---|---|
-| `CO2` | Acidic |
-| `SO2` | Acidic |
-| `NO2` | Acidic |
-| `CO` | Neutral |
-| `H2O` | Neutral |
+| Non-metal Oxide | Nature  |
+| --------------- | ------- |
+| `CO2`           | Acidic  |
+| `SO2`           | Acidic  |
+| `NO2`           | Acidic  |
+| `CO`            | Neutral |
+| `H2O`           | Neutral |
 
 ---
 
@@ -2271,15 +2272,15 @@ As a result, the copper vessel becomes shiny again.
 
 ## Answer
 
-| Chemical Property | Metals | Non-metals |
-|---|---|---|
-| Electron behaviour | Lose electrons. | Gain or share electrons. |
-| Ion formed | Positive ions/cations. | Negative ions/anions in ionic compounds. |
-| Oxides | Usually basic; some amphoteric. | Usually acidic or neutral. |
-| Reaction with acids | Many metals above hydrogen produce hydrogen gas. | Do not usually displace hydrogen from dilute acids. |
-| Reaction with chlorine | Form ionic chlorides. | Often form covalent chlorides. |
-| Displacement | More reactive metal displaces less reactive metal from salt solution. | Non-metals have different displacement patterns, such as halogen displacement. |
-| Reaction with hydrogen | Some metals form hydrides. | Non-metals form hydrides such as `HCl`, `NH3`, `H2S`. |
+| Chemical Property      | Metals                                                                | Non-metals                                                                     |
+| ---------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| Electron behaviour     | Lose electrons.                                                       | Gain or share electrons.                                                       |
+| Ion formed             | Positive ions/cations.                                                | Negative ions/anions in ionic compounds.                                       |
+| Oxides                 | Usually basic; some amphoteric.                                       | Usually acidic or neutral.                                                     |
+| Reaction with acids    | Many metals above hydrogen produce hydrogen gas.                      | Do not usually displace hydrogen from dilute acids.                            |
+| Reaction with chlorine | Form ionic chlorides.                                                 | Often form covalent chlorides.                                                 |
+| Displacement           | More reactive metal displaces less reactive metal from salt solution. | Non-metals have different displacement patterns, such as halogen displacement. |
+| Reaction with hydrogen | Some metals form hydrides.                                            | Non-metals form hydrides such as `HCl`, `NH3`, `H2S`.                          |
 
 ---
 
@@ -2313,19 +2314,19 @@ Therefore, copper is preferred for hot water tanks.
 
 # Unit 3AA: Common Mistakes and Corrections
 
-| Mistake | Correct Understanding |
-|---|---|
-| Saying all metals are hard solids. | Mercury is liquid; sodium and potassium are soft. |
-| Saying all non-metals are dull and non-conducting. | Iodine is lustrous; graphite conducts electricity. |
-| Confusing malleability and ductility. | Malleability means sheets; ductility means wires. |
-| Saying metal oxides are always basic. | Some, such as `Al2O3` and `ZnO`, are amphoteric. |
-| Saying all metals react with water. | Copper, silver, gold, and lead do not react with water under ordinary conditions. |
-| Forgetting the hydrogen reference in the reactivity series. | Metals above hydrogen displace hydrogen from dilute acids. |
-| Predicting displacement without the reactivity series. | A more reactive metal displaces a less reactive metal from salt solution. |
-| Saying ionic compounds conduct electricity in solid state. | Solid ionic compounds do not conduct because ions cannot move. |
-| Confusing roasting and calcination. | Roasting is for sulphide ore in excess air; calcination is for carbonate ore in limited air. |
-| Saying rusting needs only air. | Rusting of iron needs both air and water. |
-| Saying galvanisation fails if scratched. | Zinc still protects iron because it is more reactive and corrodes first. |
+| Mistake                                                     | Correct Understanding                                                                        |
+| ----------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| Saying all metals are hard solids.                          | Mercury is liquid; sodium and potassium are soft.                                            |
+| Saying all non-metals are dull and non-conducting.          | Iodine is lustrous; graphite conducts electricity.                                           |
+| Confusing malleability and ductility.                       | Malleability means sheets; ductility means wires.                                            |
+| Saying metal oxides are always basic.                       | Some, such as `Al2O3` and `ZnO`, are amphoteric.                                             |
+| Saying all metals react with water.                         | Copper, silver, gold, and lead do not react with water under ordinary conditions.            |
+| Forgetting the hydrogen reference in the reactivity series. | Metals above hydrogen displace hydrogen from dilute acids.                                   |
+| Predicting displacement without the reactivity series.      | A more reactive metal displaces a less reactive metal from salt solution.                    |
+| Saying ionic compounds conduct electricity in solid state.  | Solid ionic compounds do not conduct because ions cannot move.                               |
+| Confusing roasting and calcination.                         | Roasting is for sulphide ore in excess air; calcination is for carbonate ore in limited air. |
+| Saying rusting needs only air.                              | Rusting of iron needs both air and water.                                                    |
+| Saying galvanisation fails if scratched.                    | Zinc still protects iron because it is more reactive and corrodes first.                     |
 
 ---
 
@@ -2333,14 +2334,14 @@ Therefore, copper is preferred for hot water tanks.
 
 ## Physical Properties
 
-| Property | Metals | Non-metals |
-|---|---|---|
-| Lustre | Usually lustrous | Usually dull |
-| State | Usually solid, except mercury | Solids/gases; bromine liquid |
-| Malleability | Malleable | Brittle |
-| Ductility | Ductile | Not ductile |
-| Conductivity | Good conductors | Poor conductors, except graphite |
-| Sonority | Sonorous | Not sonorous |
+| Property     | Metals                        | Non-metals                       |
+| ------------ | ----------------------------- | -------------------------------- |
+| Lustre       | Usually lustrous              | Usually dull                     |
+| State        | Usually solid, except mercury | Solids/gases; bromine liquid     |
+| Malleability | Malleable                     | Brittle                          |
+| Ductility    | Ductile                       | Not ductile                      |
+| Conductivity | Good conductors               | Poor conductors, except graphite |
+| Sonority     | Sonorous                      | Not sonorous                     |
 
 ## Reactivity Series
 
@@ -2350,38 +2351,38 @@ K > Na > Ca > Mg > Al > Zn > Fe > Pb > H > Cu > Hg > Ag > Au
 
 ## Reactivity With Water
 
-| Metal | Reaction |
-|---|---|
-| K, Na | Violent with cold water |
-| Ca | Reacts with cold water |
-| Mg | Reacts with hot water |
-| Al, Zn, Fe | React with steam |
-| Pb, Cu, Ag, Au | No reaction with water |
+| Metal          | Reaction                |
+| -------------- | ----------------------- |
+| K, Na          | Violent with cold water |
+| Ca             | Reacts with cold water  |
+| Mg             | Reacts with hot water   |
+| Al, Zn, Fe     | React with steam        |
+| Pb, Cu, Ag, Au | No reaction with water  |
 
 ## Extraction Summary
 
-| Metal Position | Extraction Route |
-|---|---|
-| Low reactivity | Heating or simple reduction; some found free. |
-| Middle reactivity | Roasting/calcination, then reduction. |
-| High reactivity | Electrolytic reduction. |
+| Metal Position    | Extraction Route                              |
+| ----------------- | --------------------------------------------- |
+| Low reactivity    | Heating or simple reduction; some found free. |
+| Middle reactivity | Roasting/calcination, then reduction.         |
+| High reactivity   | Electrolytic reduction.                       |
 
 ## Important Equations
 
-| Topic | Equation |
-|---|---|
-| Magnesium burns | `2Mg + O2 -> 2MgO` |
-| Copper heated | `2Cu + O2 -> 2CuO` |
-| Aluminium oxide with acid | `Al2O3 + 6HCl -> 2AlCl3 + 3H2O` |
-| Aluminium oxide with base | `Al2O3 + 2NaOH -> 2NaAlO2 + H2O` |
-| Sodium with water | `2Na + 2H2O -> 2NaOH + H2` |
-| Iron with steam | `3Fe + 4H2O -> Fe3O4 + 4H2` |
-| Zinc with HCl | `Zn + 2HCl -> ZnCl2 + H2` |
-| Iron + copper sulphate | `Fe + CuSO4 -> FeSO4 + Cu` |
-| Roasting zinc sulphide | `2ZnS + 3O2 -> 2ZnO + 2SO2` |
-| Calcination zinc carbonate | `ZnCO3 -> ZnO + CO2` |
-| Carbon reduction | `ZnO + C -> Zn + CO` |
-| Thermit reaction | `Fe2O3 + 2Al -> 2Fe + Al2O3 + Heat` |
+| Topic                      | Equation                            |
+| -------------------------- | ----------------------------------- |
+| Magnesium burns            | `2Mg + O2 -> 2MgO`                  |
+| Copper heated              | `2Cu + O2 -> 2CuO`                  |
+| Aluminium oxide with acid  | `Al2O3 + 6HCl -> 2AlCl3 + 3H2O`     |
+| Aluminium oxide with base  | `Al2O3 + 2NaOH -> 2NaAlO2 + H2O`    |
+| Sodium with water          | `2Na + 2H2O -> 2NaOH + H2`          |
+| Iron with steam            | `3Fe + 4H2O -> Fe3O4 + 4H2`         |
+| Zinc with HCl              | `Zn + 2HCl -> ZnCl2 + H2`           |
+| Iron + copper sulphate     | `Fe + CuSO4 -> FeSO4 + Cu`          |
+| Roasting zinc sulphide     | `2ZnS + 3O2 -> 2ZnO + 2SO2`         |
+| Calcination zinc carbonate | `ZnCO3 -> ZnO + CO2`                |
+| Carbon reduction           | `ZnO + C -> Zn + CO`                |
+| Thermit reaction           | `Fe2O3 + 2Al -> 2Fe + Al2O3 + Heat` |
 
 ---
 
@@ -2448,4 +2449,3 @@ Metals and non-metals often form ionic compounds by electron transfer. Ionic com
 Metals occur as minerals and ores. Low-reactivity metals may occur free. Middle-reactivity metals are extracted by converting ores to oxides and reducing them. High-reactivity metals are extracted by electrolysis.
 
 Corrosion damages metals. Iron rusts only when both air and water are present. Rusting can be prevented by painting, oiling, greasing, galvanising, chrome plating, anodising, and alloying.
-

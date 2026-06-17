@@ -1,4 +1,5 @@
 # Chapter 2: Inverse Trigonometric Functions
+
 ### NCERT Class 12 - Maths Part 1
 
 ## Chapter at a Glance
@@ -22,26 +23,26 @@ By the end of this chapter, learners should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Inverse function | Function that reverses the effect of another function. |
-| Principal value | The value chosen from the principal branch of an inverse trigonometric function. |
+| Term             | Meaning                                                                              |
+| ---------------- | ------------------------------------------------------------------------------------ |
+| Inverse function | Function that reverses the effect of another function.                               |
+| Principal value  | The value chosen from the principal branch of an inverse trigonometric function.     |
 | Principal branch | Restricted interval on which a trigonometric function is one-one and onto its range. |
-| Domain | Allowed input values of a function. |
-| Range | Output values actually produced by a function. |
-| Arc sine | Another name for inverse sine. |
-| Arc cosine | Another name for inverse cosine. |
-| Arc tangent | Another name for inverse tangent. |
+| Domain           | Allowed input values of a function.                                                  |
+| Range            | Output values actually produced by a function.                                       |
+| Arc sine         | Another name for inverse sine.                                                       |
+| Arc cosine       | Another name for inverse cosine.                                                     |
+| Arc tangent      | Another name for inverse tangent.                                                    |
 
 ## Principal Branch Table
 
-| Function | Domain | Principal Range |
-|---|---|---|
-| `sin^-1 x` | `[-1, 1]` | `[-pi/2, pi/2]` |
-| `cos^-1 x` | `[-1, 1]` | `[0, pi]` |
-| `tan^-1 x` | `R` | `(-pi/2, pi/2)` |
-| `cot^-1 x` | `R` | `(0, pi)` |
-| `sec^-1 x` | `(-infinity, -1] union [1, infinity)` | `[0, pi]` except `pi/2` |
+| Function     | Domain                                | Principal Range            |
+| ------------ | ------------------------------------- | -------------------------- |
+| `sin^-1 x`   | `[-1, 1]`                             | `[-pi/2, pi/2]`            |
+| `cos^-1 x`   | `[-1, 1]`                             | `[0, pi]`                  |
+| `tan^-1 x`   | `R`                                   | `(-pi/2, pi/2)`            |
+| `cot^-1 x`   | `R`                                   | `(0, pi)`                  |
+| `sec^-1 x`   | `(-infinity, -1] union [1, infinity)` | `[0, pi]` except `pi/2`    |
 | `cosec^-1 x` | `(-infinity, -1] union [1, infinity)` | `[-pi/2, pi/2]` except `0` |
 
 # Unit 2A: Why Inverse Trigonometric Functions Need Restricted Domains
@@ -86,13 +87,13 @@ Range: `[-pi/2, pi/2]`
 
 Important values:
 
-| x | `sin^-1 x` |
-|---|---|
-| `-1` | `-pi/2` |
-| `-1/2` | `-pi/6` |
-| `0` | `0` |
-| `1/2` | `pi/6` |
-| `1` | `pi/2` |
+| x      | `sin^-1 x` |
+| ------ | ---------- |
+| `-1`   | `-pi/2`    |
+| `-1/2` | `-pi/6`    |
+| `0`    | `0`        |
+| `1/2`  | `pi/6`     |
+| `1`    | `pi/2`     |
 
 ## Inverse Cosine
 
@@ -102,13 +103,13 @@ Range: `[0, pi]`
 
 Important values:
 
-| x | `cos^-1 x` |
-|---|---|
-| `-1` | `pi` |
-| `-1/2` | `2pi/3` |
-| `0` | `pi/2` |
-| `1/2` | `pi/3` |
-| `1` | `0` |
+| x      | `cos^-1 x` |
+| ------ | ---------- |
+| `-1`   | `pi`       |
+| `-1/2` | `2pi/3`    |
+| `0`    | `pi/2`     |
+| `1/2`  | `pi/3`     |
+| `1`    | `0`        |
 
 ## Inverse Tangent
 
@@ -118,12 +119,12 @@ Range: `(-pi/2, pi/2)`
 
 Important values:
 
-| x | `tan^-1 x` |
-|---|---|
-| `-1` | `-pi/4` |
-| `0` | `0` |
-| `1` | `pi/4` |
-| `sqrt(3)` | `pi/3` |
+| x         | `tan^-1 x` |
+| --------- | ---------- |
+| `-1`      | `-pi/4`    |
+| `0`       | `0`        |
+| `1`       | `pi/4`     |
+| `sqrt(3)` | `pi/3`     |
 
 # Unit 2D: Basic Cancellation Rules
 
@@ -354,14 +355,14 @@ Write in this order:
 
 # Unit 2K: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Treating `sin^-1 x` as `1/sin x` | `sin^-1 x` means inverse sine, not reciprocal sine. |
-| Writing `sin^-1(sin x) = x` for all `x` | This is true only when `x` is in the principal range. |
-| Forgetting the range of `cos^-1 x` | It is `[0, pi]`, never negative. |
-| Writing `cos^-1(-x) = -cos^-1 x` | Correct formula is `cos^-1(-x) = pi - cos^-1 x`. |
-| Ignoring domain | `sin^-1 2` is not real because `2` is outside `[-1,1]`. |
-| Applying tangent addition formula without conditions | Check denominator, sign, and quadrant. |
+| Mistake                                              | Correction                                              |
+| ---------------------------------------------------- | ------------------------------------------------------- |
+| Treating `sin^-1 x` as `1/sin x`                     | `sin^-1 x` means inverse sine, not reciprocal sine.     |
+| Writing `sin^-1(sin x) = x` for all `x`              | This is true only when `x` is in the principal range.   |
+| Forgetting the range of `cos^-1 x`                   | It is `[0, pi]`, never negative.                        |
+| Writing `cos^-1(-x) = -cos^-1 x`                     | Correct formula is `cos^-1(-x) = pi - cos^-1 x`.        |
+| Ignoring domain                                      | `sin^-1 2` is not real because `2` is outside `[-1,1]`. |
+| Applying tangent addition formula without conditions | Check denominator, sign, and quadrant.                  |
 
 ## Practice Set
 

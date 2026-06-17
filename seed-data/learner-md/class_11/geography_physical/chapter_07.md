@@ -58,115 +58,115 @@ By the end of this chapter, you should be able to:
 
 ## Big Picture Map
 
-| Geomorphic Agent | Main Environment | Main Work | Erosional Landforms | Depositional Landforms |
-| --- | --- | --- | --- | --- |
-| Running water | Humid regions; also active in deserts during heavy rains | Cuts valleys, transports sediment, builds plains | Valleys, gorges, canyons, potholes, plunge pools, incised meanders, terraces | Alluvial fans, deltas, floodplains, natural levees, point bars, braided channels |
-| Groundwater | Limestone and dolomite regions | Dissolves rock and deposits calcium carbonate | Sinkholes, dolines, uvalas, lapies, caves | Stalactites, stalagmites, pillars |
-| Glaciers | High mountains and polar areas | Abrades, plucks, deepens, widens, deposits till | Cirques, horns, aretes, glacial valleys, fjords | Moraines, eskers, outwash plains, drumlins |
-| Waves and currents | Coasts | Cut cliffs, move sediment, build beaches and bars | Sea cliffs, wave-cut terraces, caves, stacks | Beaches, dunes, bars, barriers, spits, lagoons |
-| Wind | Hot deserts and dry open surfaces | Deflates, abrades, transports, sorts sand | Pediments, pediplains, deflation hollows, pedestal rocks | Sand dunes |
+| Geomorphic Agent   | Main Environment                                         | Main Work                                         | Erosional Landforms                                                          | Depositional Landforms                                                           |
+| ------------------ | -------------------------------------------------------- | ------------------------------------------------- | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| Running water      | Humid regions; also active in deserts during heavy rains | Cuts valleys, transports sediment, builds plains  | Valleys, gorges, canyons, potholes, plunge pools, incised meanders, terraces | Alluvial fans, deltas, floodplains, natural levees, point bars, braided channels |
+| Groundwater        | Limestone and dolomite regions                           | Dissolves rock and deposits calcium carbonate     | Sinkholes, dolines, uvalas, lapies, caves                                    | Stalactites, stalagmites, pillars                                                |
+| Glaciers           | High mountains and polar areas                           | Abrades, plucks, deepens, widens, deposits till   | Cirques, horns, aretes, glacial valleys, fjords                              | Moraines, eskers, outwash plains, drumlins                                       |
+| Waves and currents | Coasts                                                   | Cut cliffs, move sediment, build beaches and bars | Sea cliffs, wave-cut terraces, caves, stacks                                 | Beaches, dunes, bars, barriers, spits, lagoons                                   |
+| Wind               | Hot deserts and dry open surfaces                        | Deflates, abrades, transports, sorts sand         | Pediments, pediplains, deflation hollows, pedestal rocks                     | Sand dunes                                                                       |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Landform | A small to medium tract or parcel of the earth's surface with a definite shape and origin. |
-| Landscape | A large tract of the earth's surface made of several related landforms. |
-| Landform evolution | Transformation of a landform or land surface through time. |
-| Geomorphology | Study of landforms, their materials, their processes, and their history. |
-| Erosional landform | A landform made mainly by removal of material. |
-| Depositional landform | A landform made mainly by accumulation of material. |
-| Overland flow | Sheet-like flow of water over the general land surface. |
-| Stream flow | Linear flow of water through channels and valleys. |
-| Sheet erosion | Removal of surface material by sheet-like overland flow. |
-| Rill | Small narrow channel formed by concentrated runoff. |
-| Gully | Larger channel formed by deepening and widening of rills. |
-| Valley | Elongated depression shaped by running water or other agents. |
-| Gorge | Deep narrow valley with very steep or almost straight sides. |
-| Canyon | Deep valley with steep step-like sides, wider at the top than at the bottom. |
-| Pothole | Circular depression on rocky stream bed formed by abrasion. |
-| Plunge pool | Deep pool formed at the base of a waterfall. |
-| Incised meander | Deep meander cut into hard rock. |
-| Entrenched meander | Meander deeply cut into bedrock due to erosion or uplift. |
-| River terrace | Old valley floor or floodplain level left above the present river. |
-| Paired terraces | River terraces at the same elevation on both sides of a river. |
-| Unpaired terraces | River terraces present on one side or at different levels on opposite sides. |
-| Alluvial fan | Cone-shaped deposit formed where a stream emerges from mountains onto a plain. |
-| Delta | Depositional landform built where a river deposits sediment into a sea or lake. |
-| Floodplain | Flat depositional surface built by a river during flooding and lateral shifting. |
-| Active floodplain | River bed or regularly flooded part made of recent river deposits. |
-| Inactive floodplain | Higher floodplain above normal bank level, flooded less frequently. |
-| Natural levee | Low ridge of coarse deposits along a river bank. |
-| Point bar | Depositional bar on the inner side of a meander bend. |
-| Meander | Loop-like channel pattern of a river on a gentle slope. |
-| Oxbow lake | Cut-off meander loop filled with water. |
-| Braided channel | River pattern with many interlacing channels separated by bars and islands. |
-| Karst topography | Limestone or dolomite landscape formed mainly by solution and deposition by water. |
-| Swallow hole | Small shallow opening in limestone where surface water disappears underground. |
-| Sinkhole | Circular or funnel-shaped depression in limestone terrain. |
-| Solution sink | Sinkhole formed mainly by chemical solution. |
-| Collapse sink | Sinkhole formed when the roof of an underground void collapses. |
-| Doline | Term often used for collapse sink or sinkhole in karst regions. |
-| Uvala | Long, narrow, or wide trench formed by joining of sinkholes or dolines. |
-| Lapies | Irregular limestone surface with sharp pinnacles, grooves, and ridges. |
-| Limestone pavement | Smoother pavement-like limestone surface formed after solution modifies lapies. |
-| Cave | Underground hollow formed mainly by solution along bedding planes, joints, and cracks. |
-| Tunnel | Cave with openings at both ends. |
-| Stalactite | Calcium carbonate deposit hanging from cave roof. |
-| Stalagmite | Calcium carbonate deposit rising from cave floor. |
-| Pillar | Column formed when stalactite and stalagmite join. |
-| Glacier | Moving mass of ice on land. |
-| Continental glacier | Broad ice sheet spread over a large land area. |
-| Piedmont glacier | Ice sheet spread over plains at the foot of mountains. |
-| Valley glacier | Linear glacier moving down a mountain valley. |
-| Plucking | Removal of rock blocks by moving glacier ice. |
-| Abrasion | Wearing down by rock fragments dragged by a glacier, river, wind, or waves. |
-| Cirque | Deep basin at the head of a glacial valley. |
-| Tarn | Lake formed in a cirque after glacier disappears. |
-| Horn | Sharp peak formed by headward erosion of several cirques. |
-| Arete | Sharp serrated ridge between glacial valleys or cirques. |
-| Glacial trough | U-shaped valley made by glacier erosion. |
-| Hanging valley | Smaller glacial valley left hanging above the main glacial valley. |
-| Truncated spur | Triangular cut face formed when a glacier cuts through projecting valley spurs. |
-| Fjord | Deep glacial trough filled with sea water. |
-| Till | Unsorted debris deposited directly by melting glacier ice. |
-| Outwash | Sorted and roughly stratified deposits laid down by glacial meltwater. |
-| Moraine | Ridge or sheet of glacial till. |
-| Terminal moraine | Ridge of till deposited at the end or toe of a glacier. |
-| Lateral moraine | Ridge of till along the side of a glacial valley. |
-| Ground moraine | Irregular sheet of till spread over a glacial valley floor. |
-| Medial moraine | Ridge of till in the centre of a glacial valley. |
-| Esker | Sinuous ridge deposited by meltwater streams flowing beneath glacier ice. |
-| Outwash plain | Broad plain of glacio-fluvial deposits beyond glaciers. |
-| Drumlin | Smooth oval ridge of till aligned with the direction of glacier movement. |
-| Stoss end | Blunter, steeper end of a drumlin facing the glacier. |
-| Sea cliff | Steep coastal rock face cut by wave erosion. |
-| Wave-cut terrace | Flat or gently sloping platform at the foot of a sea cliff. |
-| Sea cave | Hollow formed by waves cutting into the base of a cliff. |
-| Sea stack | Isolated resistant rock mass left offshore after cliff retreat. |
-| Beach | Depositional shoreline feature made mainly of sand or other loose sediment. |
-| Shingle beach | Beach made of small pebbles and cobbles. |
-| Offshore bar | Ridge of sand or shingle in the offshore zone. |
-| Barrier bar | Offshore bar exposed above water. |
-| Spit | Barrier bar attached to a headland or one side of a bay. |
-| Lagoon | Water body partly or fully enclosed behind a bar, barrier, or spit. |
-| Deflation | Lifting and removal of dust and fine particles by wind. |
-| Saltation | Hopping movement of sand grains by wind. |
-| Pediment | Gently inclined rocky floor at the foot of mountains in desert regions. |
-| Pediplain | Low featureless desert plain formed by expansion and joining of pediments. |
-| Inselberg | Isolated residual hill standing above a pediplain. |
-| Playa | Shallow temporary lake or flat basin in a desert. |
-| Alkali flat | Salt-covered playa plain. |
-| Deflation hollow | Shallow depression formed by wind removal of loose material. |
-| Blowout | Depression made by wind abrasion and deflation. |
-| Mushroom rock | Rock pedestal with narrow base and broad cap shaped by wind erosion. |
-| Barchan | Crescent-shaped dune with horns pointing downwind. |
-| Parabolic dune | Vegetation-anchored dune shaped like a reversed barchan. |
-| Seif dune | Long dune similar to a barchan but commonly with one wing. |
-| Longitudinal dune | Long low dune ridge parallel to wind direction. |
-| Transverse dune | Dune ridge aligned at right angles to wind direction. |
+| Term                  | Meaning                                                                                    |
+| --------------------- | ------------------------------------------------------------------------------------------ |
+| Landform              | A small to medium tract or parcel of the earth's surface with a definite shape and origin. |
+| Landscape             | A large tract of the earth's surface made of several related landforms.                    |
+| Landform evolution    | Transformation of a landform or land surface through time.                                 |
+| Geomorphology         | Study of landforms, their materials, their processes, and their history.                   |
+| Erosional landform    | A landform made mainly by removal of material.                                             |
+| Depositional landform | A landform made mainly by accumulation of material.                                        |
+| Overland flow         | Sheet-like flow of water over the general land surface.                                    |
+| Stream flow           | Linear flow of water through channels and valleys.                                         |
+| Sheet erosion         | Removal of surface material by sheet-like overland flow.                                   |
+| Rill                  | Small narrow channel formed by concentrated runoff.                                        |
+| Gully                 | Larger channel formed by deepening and widening of rills.                                  |
+| Valley                | Elongated depression shaped by running water or other agents.                              |
+| Gorge                 | Deep narrow valley with very steep or almost straight sides.                               |
+| Canyon                | Deep valley with steep step-like sides, wider at the top than at the bottom.               |
+| Pothole               | Circular depression on rocky stream bed formed by abrasion.                                |
+| Plunge pool           | Deep pool formed at the base of a waterfall.                                               |
+| Incised meander       | Deep meander cut into hard rock.                                                           |
+| Entrenched meander    | Meander deeply cut into bedrock due to erosion or uplift.                                  |
+| River terrace         | Old valley floor or floodplain level left above the present river.                         |
+| Paired terraces       | River terraces at the same elevation on both sides of a river.                             |
+| Unpaired terraces     | River terraces present on one side or at different levels on opposite sides.               |
+| Alluvial fan          | Cone-shaped deposit formed where a stream emerges from mountains onto a plain.             |
+| Delta                 | Depositional landform built where a river deposits sediment into a sea or lake.            |
+| Floodplain            | Flat depositional surface built by a river during flooding and lateral shifting.           |
+| Active floodplain     | River bed or regularly flooded part made of recent river deposits.                         |
+| Inactive floodplain   | Higher floodplain above normal bank level, flooded less frequently.                        |
+| Natural levee         | Low ridge of coarse deposits along a river bank.                                           |
+| Point bar             | Depositional bar on the inner side of a meander bend.                                      |
+| Meander               | Loop-like channel pattern of a river on a gentle slope.                                    |
+| Oxbow lake            | Cut-off meander loop filled with water.                                                    |
+| Braided channel       | River pattern with many interlacing channels separated by bars and islands.                |
+| Karst topography      | Limestone or dolomite landscape formed mainly by solution and deposition by water.         |
+| Swallow hole          | Small shallow opening in limestone where surface water disappears underground.             |
+| Sinkhole              | Circular or funnel-shaped depression in limestone terrain.                                 |
+| Solution sink         | Sinkhole formed mainly by chemical solution.                                               |
+| Collapse sink         | Sinkhole formed when the roof of an underground void collapses.                            |
+| Doline                | Term often used for collapse sink or sinkhole in karst regions.                            |
+| Uvala                 | Long, narrow, or wide trench formed by joining of sinkholes or dolines.                    |
+| Lapies                | Irregular limestone surface with sharp pinnacles, grooves, and ridges.                     |
+| Limestone pavement    | Smoother pavement-like limestone surface formed after solution modifies lapies.            |
+| Cave                  | Underground hollow formed mainly by solution along bedding planes, joints, and cracks.     |
+| Tunnel                | Cave with openings at both ends.                                                           |
+| Stalactite            | Calcium carbonate deposit hanging from cave roof.                                          |
+| Stalagmite            | Calcium carbonate deposit rising from cave floor.                                          |
+| Pillar                | Column formed when stalactite and stalagmite join.                                         |
+| Glacier               | Moving mass of ice on land.                                                                |
+| Continental glacier   | Broad ice sheet spread over a large land area.                                             |
+| Piedmont glacier      | Ice sheet spread over plains at the foot of mountains.                                     |
+| Valley glacier        | Linear glacier moving down a mountain valley.                                              |
+| Plucking              | Removal of rock blocks by moving glacier ice.                                              |
+| Abrasion              | Wearing down by rock fragments dragged by a glacier, river, wind, or waves.                |
+| Cirque                | Deep basin at the head of a glacial valley.                                                |
+| Tarn                  | Lake formed in a cirque after glacier disappears.                                          |
+| Horn                  | Sharp peak formed by headward erosion of several cirques.                                  |
+| Arete                 | Sharp serrated ridge between glacial valleys or cirques.                                   |
+| Glacial trough        | U-shaped valley made by glacier erosion.                                                   |
+| Hanging valley        | Smaller glacial valley left hanging above the main glacial valley.                         |
+| Truncated spur        | Triangular cut face formed when a glacier cuts through projecting valley spurs.            |
+| Fjord                 | Deep glacial trough filled with sea water.                                                 |
+| Till                  | Unsorted debris deposited directly by melting glacier ice.                                 |
+| Outwash               | Sorted and roughly stratified deposits laid down by glacial meltwater.                     |
+| Moraine               | Ridge or sheet of glacial till.                                                            |
+| Terminal moraine      | Ridge of till deposited at the end or toe of a glacier.                                    |
+| Lateral moraine       | Ridge of till along the side of a glacial valley.                                          |
+| Ground moraine        | Irregular sheet of till spread over a glacial valley floor.                                |
+| Medial moraine        | Ridge of till in the centre of a glacial valley.                                           |
+| Esker                 | Sinuous ridge deposited by meltwater streams flowing beneath glacier ice.                  |
+| Outwash plain         | Broad plain of glacio-fluvial deposits beyond glaciers.                                    |
+| Drumlin               | Smooth oval ridge of till aligned with the direction of glacier movement.                  |
+| Stoss end             | Blunter, steeper end of a drumlin facing the glacier.                                      |
+| Sea cliff             | Steep coastal rock face cut by wave erosion.                                               |
+| Wave-cut terrace      | Flat or gently sloping platform at the foot of a sea cliff.                                |
+| Sea cave              | Hollow formed by waves cutting into the base of a cliff.                                   |
+| Sea stack             | Isolated resistant rock mass left offshore after cliff retreat.                            |
+| Beach                 | Depositional shoreline feature made mainly of sand or other loose sediment.                |
+| Shingle beach         | Beach made of small pebbles and cobbles.                                                   |
+| Offshore bar          | Ridge of sand or shingle in the offshore zone.                                             |
+| Barrier bar           | Offshore bar exposed above water.                                                          |
+| Spit                  | Barrier bar attached to a headland or one side of a bay.                                   |
+| Lagoon                | Water body partly or fully enclosed behind a bar, barrier, or spit.                        |
+| Deflation             | Lifting and removal of dust and fine particles by wind.                                    |
+| Saltation             | Hopping movement of sand grains by wind.                                                   |
+| Pediment              | Gently inclined rocky floor at the foot of mountains in desert regions.                    |
+| Pediplain             | Low featureless desert plain formed by expansion and joining of pediments.                 |
+| Inselberg             | Isolated residual hill standing above a pediplain.                                         |
+| Playa                 | Shallow temporary lake or flat basin in a desert.                                          |
+| Alkali flat           | Salt-covered playa plain.                                                                  |
+| Deflation hollow      | Shallow depression formed by wind removal of loose material.                               |
+| Blowout               | Depression made by wind abrasion and deflation.                                            |
+| Mushroom rock         | Rock pedestal with narrow base and broad cap shaped by wind erosion.                       |
+| Barchan               | Crescent-shaped dune with horns pointing downwind.                                         |
+| Parabolic dune        | Vegetation-anchored dune shaped like a reversed barchan.                                   |
+| Seif dune             | Long dune similar to a barchan but commonly with one wing.                                 |
+| Longitudinal dune     | Long low dune ridge parallel to wind direction.                                            |
+| Transverse dune       | Dune ridge aligned at right angles to wind direction.                                      |
 
 ---
 
@@ -206,11 +206,11 @@ For example:
 
 ## 1.3 Landform vs Landscape
 
-| Basis | Landform | Landscape |
-| --- | --- | --- |
-| Size | Small to medium | Large tract of surface |
-| Composition | One distinct form | Group of related forms |
-| Example | Valley | River valley landscape |
+| Basis       | Landform                        | Landscape                            |
+| ----------- | ------------------------------- | ------------------------------------ |
+| Size        | Small to medium                 | Large tract of surface               |
+| Composition | One distinct form               | Group of related forms               |
+| Example     | Valley                          | River valley landscape               |
 | Study focus | Shape and origin of one feature | Pattern and history of many features |
 
 ## 1.4 Core Learning Line
@@ -558,11 +558,11 @@ It forms:
 
 River work changes with slope.
 
-| River Condition | Main Result |
-| --- | --- |
-| Steep gradient | Downward cutting and valley deepening |
+| River Condition   | Main Result                           |
+| ----------------- | ------------------------------------- |
+| Steep gradient    | Downward cutting and valley deepening |
 | Moderate gradient | Lateral erosion and floodplain growth |
-| Gentle gradient | Deposition, meanders, levees, deltas |
+| Gentle gradient   | Deposition, meanders, levees, deltas  |
 
 ## 6.6 Downcutting And Lateral Erosion
 
@@ -677,16 +677,16 @@ Rivers flow slowly and meander widely.
 
 ## 7.8 Stage Comparison
 
-| Feature | Youth | Mature | Old |
-| --- | --- | --- | --- |
-| Main process | Downcutting | Downcutting plus lateral erosion | Lateral erosion and deposition |
-| Stream number | Few | Many | Smaller tributaries fewer |
-| Valley form | Shallow V-shaped | Deep V-shaped | Broad valleys and floodplains |
-| Floodplain | Absent or narrow | Wider along trunk streams | Vast |
-| Divides | Broad and flat | Sharp | Broad and flat |
-| Waterfalls | Present | Disappear | Absent |
-| Meanders | May exist on uplands | Confined in valleys | Free over floodplains |
-| Relief | High and irregular | Moderately dissected | Low |
+| Feature       | Youth                | Mature                           | Old                            |
+| ------------- | -------------------- | -------------------------------- | ------------------------------ |
+| Main process  | Downcutting          | Downcutting plus lateral erosion | Lateral erosion and deposition |
+| Stream number | Few                  | Many                             | Smaller tributaries fewer      |
+| Valley form   | Shallow V-shaped     | Deep V-shaped                    | Broad valleys and floodplains  |
+| Floodplain    | Absent or narrow     | Wider along trunk streams        | Vast                           |
+| Divides       | Broad and flat       | Sharp                            | Broad and flat                 |
+| Waterfalls    | Present              | Disappear                        | Absent                         |
+| Meanders      | May exist on uplands | Confined in valleys              | Free over floodplains          |
+| Relief        | High and irregular   | Moderately dissected             | Low                            |
 
 ---
 
@@ -750,12 +750,12 @@ Canyons commonly form in horizontally bedded sedimentary rocks.
 
 ## 9.6 Gorge vs Canyon
 
-| Basis | Gorge | Canyon |
-| --- | --- | --- |
-| Sides | Very steep or straight | Steep and step-like |
-| Width | Nearly equal at top and bottom | Wider at top than bottom |
-| Common rock setting | Hard rocks | Horizontal sedimentary rocks |
-| Relation | Basic deep narrow valley | Variant of gorge |
+| Basis               | Gorge                          | Canyon                       |
+| ------------------- | ------------------------------ | ---------------------------- |
+| Sides               | Very steep or straight         | Steep and step-like          |
+| Width               | Nearly equal at top and bottom | Wider at top than bottom     |
+| Common rock setting | Hard rocks                     | Horizontal sedimentary rocks |
+| Relation            | Basic deep narrow valley       | Variant of gorge             |
 
 ## 9.7 Examples From Chapter
 
@@ -849,13 +849,13 @@ Incised meanders indicate:
 
 ## 11.5 Incised Meanders vs Floodplain Meanders
 
-| Basis | Incised Meander | Floodplain Meander |
-| --- | --- | --- |
-| Surface | Hard rock or bedrock | Alluvial floodplain |
-| Depth | Deeply cut | Shallow relative to floodplain |
-| Dominant process | Vertical erosion plus lateral pattern | Lateral erosion and deposition |
-| Valley form | Gorge or canyon-like | Broad floodplain |
-| Meaning | Older meander preserved during downcutting | Current low-gradient river adjustment |
+| Basis            | Incised Meander                            | Floodplain Meander                    |
+| ---------------- | ------------------------------------------ | ------------------------------------- |
+| Surface          | Hard rock or bedrock                       | Alluvial floodplain                   |
+| Depth            | Deeply cut                                 | Shallow relative to floodplain        |
+| Dominant process | Vertical erosion plus lateral pattern      | Lateral erosion and deposition        |
+| Valley form      | Gorge or canyon-like                       | Broad floodplain                      |
+| Meaning          | Older meander preserved during downcutting | Current low-gradient river adjustment |
 
 ---
 
@@ -1005,9 +1005,9 @@ This happens because the deposited material blocks or alters the channel.
 
 ## 14.5 Humid vs Arid Fans
 
-| Setting | Fan Shape |
-| --- | --- |
-| Humid areas | Low cones with gentle slopes |
+| Setting                  | Fan Shape                        |
+| ------------------------ | -------------------------------- |
+| Humid areas              | Low cones with gentle slopes     |
 | Arid and semi-arid areas | Higher cones with steeper slopes |
 
 ## 14.6 Example From Chapter
@@ -1067,13 +1067,13 @@ The chapter refers to Krishna river delta in Andhra Pradesh.
 
 ## 15.8 Alluvial Fan vs Delta
 
-| Basis | Alluvial Fan | Delta |
-| --- | --- | --- |
-| Location | Foot of mountain or high slope | River mouth |
-| Medium entered | Gentle land surface | Sea or lake |
-| Deposit sorting | Often poorly sorted | Well sorted and stratified |
-| Channel pattern | Distributaries over fan | Distributaries extending into water |
-| Main cause | Sudden decrease in slope | Entry into standing water |
+| Basis           | Alluvial Fan                   | Delta                               |
+| --------------- | ------------------------------ | ----------------------------------- |
+| Location        | Foot of mountain or high slope | River mouth                         |
+| Medium entered  | Gentle land surface            | Sea or lake                         |
+| Deposit sorting | Often poorly sorted            | Well sorted and stratified          |
+| Channel pattern | Distributaries over fan        | Distributaries extending into water |
+| Main cause      | Sudden decrease in slope       | Entry into standing water           |
 
 ---
 
@@ -1202,13 +1202,13 @@ Point bars are:
 
 ## 18.4 Natural Levees vs Point Bars
 
-| Basis | Natural Levee | Point Bar |
-| --- | --- | --- |
-| Location | Along river banks | Inner side of a meander bend |
-| Formation | Floodwater spills over bank | Slow flow deposits sediment inside bend |
-| Shape | Long ridge parallel to river | Curved bar following meander |
-| Material | Coarser than floodplain deposits | Mixed sediments |
-| Process link | Overbank flooding | Meander migration |
+| Basis        | Natural Levee                    | Point Bar                               |
+| ------------ | -------------------------------- | --------------------------------------- |
+| Location     | Along river banks                | Inner side of a meander bend            |
+| Formation    | Floodwater spills over bank      | Slow flow deposits sediment inside bend |
+| Shape        | Long ridge parallel to river     | Curved bar following meander            |
+| Material     | Coarser than floodplain deposits | Mixed sediments                         |
+| Process link | Overbank flooding                | Meander migration                       |
 
 ---
 
@@ -1344,22 +1344,22 @@ The chapter refers to braided channel segments of:
 
 # 21. Running Water Revision Table
 
-| Landform | Type | Agent | Key Condition | Main Process |
-| --- | --- | --- | --- | --- |
-| V-shaped valley | Erosional | River | Youthful river, steep gradient | Downcutting |
-| Gorge | Erosional | River | Hard rock, deep cutting | Vertical erosion |
-| Canyon | Erosional | River | Horizontal sedimentary rocks | Deep cutting with step-like sides |
-| Pothole | Erosional | River | Rocky bed, rotating pebbles | Abrasion |
-| Plunge pool | Erosional | River | Waterfall base | Impact and abrasion |
-| Incised meander | Erosional | River | Hard rock, uplift or renewed erosion | Downcutting of meander |
-| River terrace | Erosional | River | Renewed incision | Old floodplain level abandoned |
-| Alluvial fan | Depositional | Stream | Mountain front to plain | Sudden fall in velocity |
-| Delta | Depositional | River | River mouth | Deposition into sea or lake |
-| Floodplain | Depositional | River | Gentle gradient | Overbank deposition and lateral shift |
-| Natural levee | Depositional | River | Flooding | Coarse load dropped near bank |
-| Point bar | Depositional | River | Inner meander bend | Slow flow deposition |
-| Oxbow lake | Depositional and erosional sequence | River | Meander cut-off | Neck cutting and abandonment |
-| Braided channel | Depositional pattern | River | High load, variable discharge | Bars split flow |
+| Landform        | Type                                | Agent  | Key Condition                        | Main Process                          |
+| --------------- | ----------------------------------- | ------ | ------------------------------------ | ------------------------------------- |
+| V-shaped valley | Erosional                           | River  | Youthful river, steep gradient       | Downcutting                           |
+| Gorge           | Erosional                           | River  | Hard rock, deep cutting              | Vertical erosion                      |
+| Canyon          | Erosional                           | River  | Horizontal sedimentary rocks         | Deep cutting with step-like sides     |
+| Pothole         | Erosional                           | River  | Rocky bed, rotating pebbles          | Abrasion                              |
+| Plunge pool     | Erosional                           | River  | Waterfall base                       | Impact and abrasion                   |
+| Incised meander | Erosional                           | River  | Hard rock, uplift or renewed erosion | Downcutting of meander                |
+| River terrace   | Erosional                           | River  | Renewed incision                     | Old floodplain level abandoned        |
+| Alluvial fan    | Depositional                        | Stream | Mountain front to plain              | Sudden fall in velocity               |
+| Delta           | Depositional                        | River  | River mouth                          | Deposition into sea or lake           |
+| Floodplain      | Depositional                        | River  | Gentle gradient                      | Overbank deposition and lateral shift |
+| Natural levee   | Depositional                        | River  | Flooding                             | Coarse load dropped near bank         |
+| Point bar       | Depositional                        | River  | Inner meander bend                   | Slow flow deposition                  |
+| Oxbow lake      | Depositional and erosional sequence | River  | Meander cut-off                      | Neck cutting and abandonment          |
+| Braided channel | Depositional pattern                | River  | High load, variable discharge        | Bars split flow                       |
 
 ---
 
@@ -1713,33 +1713,33 @@ When a stalactite growing downward and a stalagmite growing upward join, they fo
 
 ## 29.6 Stalactite vs Stalagmite
 
-| Basis | Stalactite | Stalagmite |
-| --- | --- | --- |
-| Position | Hangs from roof | Rises from floor |
-| Direction of growth | Downward | Upward |
-| Formation | Mineral-rich water drips from roof | Drops fall and deposit on floor |
-| Shape | Icicle-like | Column, mound, disc, or cone-like |
-| Joined form | Forms pillar with stalagmite | Forms pillar with stalactite |
+| Basis               | Stalactite                         | Stalagmite                        |
+| ------------------- | ---------------------------------- | --------------------------------- |
+| Position            | Hangs from roof                    | Rises from floor                  |
+| Direction of growth | Downward                           | Upward                            |
+| Formation           | Mineral-rich water drips from roof | Drops fall and deposit on floor   |
+| Shape               | Icicle-like                        | Column, mound, disc, or cone-like |
+| Joined form         | Forms pillar with stalagmite       | Forms pillar with stalactite      |
 
 ---
 
 # 30. Karst Revision Table
 
-| Landform | Type | Process | Key Clue |
-| --- | --- | --- | --- |
-| Swallow hole | Erosional | Solution | Surface water disappears underground |
-| Sinkhole | Erosional | Solution or collapse | Circular top, funnel-shaped bottom |
-| Solution sink | Erosional | Chemical solution | Gradual dissolving |
-| Collapse sink | Erosional | Roof collapse | Opens into underground void |
-| Doline | Erosional | Collapse or sinkhole formation | Depression in karst |
-| Uvala | Erosional | Joining of sinkholes | Long trench-like depression |
-| Lapies | Erosional | Differential solution | Sharp grooves and ridges |
-| Limestone pavement | Erosional | Continued solution | Pavement-like rock surface |
-| Cave | Erosional | Solution along bedding/joints | Underground hollow |
-| Tunnel | Erosional | Cave open at both ends | Passage-like cave |
-| Stalactite | Depositional | Calcium carbonate deposition | Hangs from roof |
-| Stalagmite | Depositional | Calcium carbonate deposition | Rises from floor |
-| Pillar | Depositional | Joining of stalactite and stalagmite | Column in cave |
+| Landform           | Type         | Process                              | Key Clue                             |
+| ------------------ | ------------ | ------------------------------------ | ------------------------------------ |
+| Swallow hole       | Erosional    | Solution                             | Surface water disappears underground |
+| Sinkhole           | Erosional    | Solution or collapse                 | Circular top, funnel-shaped bottom   |
+| Solution sink      | Erosional    | Chemical solution                    | Gradual dissolving                   |
+| Collapse sink      | Erosional    | Roof collapse                        | Opens into underground void          |
+| Doline             | Erosional    | Collapse or sinkhole formation       | Depression in karst                  |
+| Uvala              | Erosional    | Joining of sinkholes                 | Long trench-like depression          |
+| Lapies             | Erosional    | Differential solution                | Sharp grooves and ridges             |
+| Limestone pavement | Erosional    | Continued solution                   | Pavement-like rock surface           |
+| Cave               | Erosional    | Solution along bedding/joints        | Underground hollow                   |
+| Tunnel             | Erosional    | Cave open at both ends               | Passage-like cave                    |
+| Stalactite         | Depositional | Calcium carbonate deposition         | Hangs from roof                      |
+| Stalagmite         | Depositional | Calcium carbonate deposition         | Rises from floor                     |
+| Pillar             | Depositional | Joining of stalactite and stalagmite | Column in cave                       |
 
 ---
 
@@ -1757,11 +1757,11 @@ It may move:
 
 ## 31.2 Types Mentioned In The Chapter
 
-| Glacier Type | Meaning |
-| --- | --- |
-| Continental glacier | Vast ice sheet over land |
-| Piedmont glacier | Ice spread over plains at foot of mountains |
-| Mountain or valley glacier | Linear ice flow down mountain valleys |
+| Glacier Type               | Meaning                                     |
+| -------------------------- | ------------------------------------------- |
+| Continental glacier        | Vast ice sheet over land                    |
+| Piedmont glacier           | Ice spread over plains at foot of mountains |
+| Mountain or valley glacier | Linear ice flow down mountain valleys       |
 
 ## 31.3 Movement
 
@@ -1938,12 +1938,12 @@ It has:
 
 ## 34.5 Horn vs Arete
 
-| Basis | Horn | Arete |
-| --- | --- | --- |
-| Shape | Sharp peak | Sharp ridge |
-| Formation | Erosion by three or more cirques | Erosion between two glacial valleys or cirques |
-| Appearance | Pointed summit | Serrated crest |
-| Example | Matterhorn, Everest | Saw-toothed glacial ridge |
+| Basis      | Horn                             | Arete                                          |
+| ---------- | -------------------------------- | ---------------------------------------------- |
+| Shape      | Sharp peak                       | Sharp ridge                                    |
+| Formation  | Erosion by three or more cirques | Erosion between two glacial valleys or cirques |
+| Appearance | Pointed summit                   | Serrated crest                                 |
+| Example    | Matterhorn, Everest              | Saw-toothed glacial ridge                      |
 
 ---
 
@@ -1970,14 +1970,14 @@ Glacial valleys have:
 
 ## 35.3 River Valley vs Glacial Valley
 
-| Basis | River Valley | Glacial Valley |
-| --- | --- | --- |
-| Agent | Running water | Glacier |
-| Typical shape | V-shaped | U-shaped |
-| Main erosion | Downcutting by water | Abrasion and plucking by ice |
-| Valley floor | Narrow in youth | Broad and smooth |
-| Valley sides | Sloping | Steep |
-| Deposits | Alluvium | Till and outwash |
+| Basis         | River Valley         | Glacial Valley               |
+| ------------- | -------------------- | ---------------------------- |
+| Agent         | Running water        | Glacier                      |
+| Typical shape | V-shaped             | U-shaped                     |
+| Main erosion  | Downcutting by water | Abrasion and plucking by ice |
+| Valley floor  | Narrow in youth      | Broad and smooth             |
+| Valley sides  | Sloping              | Steep                        |
+| Deposits      | Alluvium             | Till and outwash             |
 
 ## 35.4 Hanging Valley
 
@@ -2036,23 +2036,23 @@ They are:
 
 ## 36.3 Till vs Outwash
 
-| Basis | Till | Outwash |
-| --- | --- | --- |
-| Deposited by | Glacier ice directly | Meltwater streams |
-| Sorting | Unsorted | Sorted or assorted |
-| Stratification | Not well stratified | Roughly stratified |
-| Shape of fragments | Angular to sub-angular | More rounded edges |
-| Landforms | Moraines, drumlins | Outwash plains, eskers |
+| Basis              | Till                   | Outwash                |
+| ------------------ | ---------------------- | ---------------------- |
+| Deposited by       | Glacier ice directly   | Meltwater streams      |
+| Sorting            | Unsorted               | Sorted or assorted     |
+| Stratification     | Not well stratified    | Roughly stratified     |
+| Shape of fragments | Angular to sub-angular | More rounded edges     |
+| Landforms          | Moraines, drumlins     | Outwash plains, eskers |
 
 ## 36.4 Till vs Alluvium
 
-| Basis | Till | Alluvium |
-| --- | --- | --- |
-| Agent | Glacier | River |
-| Sorting | Poorly sorted | Better sorted |
-| Fragment shape | Angular or sub-angular | Rounded or sub-rounded |
-| Deposition | Direct ice melting | Flowing water |
-| Common forms | Moraines | Floodplains, fans, deltas |
+| Basis          | Till                   | Alluvium                  |
+| -------------- | ---------------------- | ------------------------- |
+| Agent          | Glacier                | River                     |
+| Sorting        | Poorly sorted          | Better sorted             |
+| Fragment shape | Angular or sub-angular | Rounded or sub-rounded    |
+| Deposition     | Direct ice melting     | Flowing water             |
+| Common forms   | Moraines               | Floodplains, fans, deltas |
 
 ---
 
@@ -2121,12 +2121,12 @@ Sometimes it is hard to distinguish from ground moraine.
 
 ## 38.7 Moraine Location Table
 
-| Moraine Type | Location |
-| --- | --- |
-| Terminal moraine | At glacier end or toe |
-| Lateral moraine | Along valley sides |
-| Ground moraine | Spread over valley floor |
-| Medial moraine | In centre of glacial valley |
+| Moraine Type     | Location                    |
+| ---------------- | --------------------------- |
+| Terminal moraine | At glacier end or toe       |
+| Lateral moraine  | Along valley sides          |
+| Ground moraine   | Spread over valley floor    |
+| Medial moraine   | In centre of glacial valley |
 
 ---
 
@@ -2200,13 +2200,13 @@ Outwash plains may contain:
 
 ## 40.4 River Alluvial Plain vs Glacial Outwash Plain
 
-| Basis | River Alluvial Plain | Glacial Outwash Plain |
-| --- | --- | --- |
-| Agent | River | Glacial meltwater |
-| Source | River basin sediment | Glacier-carried debris |
-| Setting | River valleys and plains | Ice margins and glacial mountain fronts |
-| Sorting | Water-sorted | Water-sorted but glacial source |
-| Related landforms | Levees, meanders, deltas | Moraines, eskers, drumlins |
+| Basis             | River Alluvial Plain     | Glacial Outwash Plain                   |
+| ----------------- | ------------------------ | --------------------------------------- |
+| Agent             | River                    | Glacial meltwater                       |
+| Source            | River basin sediment     | Glacier-carried debris                  |
+| Setting           | River valleys and plains | Ice margins and glacial mountain fronts |
+| Sorting           | Water-sorted             | Water-sorted but glacial source         |
+| Related landforms | Levees, meanders, deltas | Moraines, eskers, drumlins              |
 
 ---
 
@@ -2268,18 +2268,18 @@ Their long axes are parallel to ice movement.
 
 # 42. Glacial Revision Table
 
-| Landform | Type | Process | Key Clue |
-| --- | --- | --- | --- |
-| Cirque | Erosional | Plucking and abrasion at valley head | Steep basin, often with tarn |
-| Horn | Erosional | Headward erosion by several cirques | Sharp peak |
-| Arete | Erosional | Erosion between cirques/valleys | Serrated ridge |
-| Glacial trough | Erosional | Ice deepening and widening | U-shaped valley |
-| Hanging valley | Erosional | Unequal erosion by main and tributary glaciers | Tributary valley hangs above main valley |
-| Fjord | Erosional plus submergence | Sea fills glacial trough | Deep coastal inlet |
-| Moraine | Depositional | Till dropped by glacier | Ridge or sheet of unsorted debris |
-| Esker | Depositional | Meltwater beneath ice | Sinuous ridge |
-| Outwash plain | Depositional | Meltwater deposition | Broad flat plain |
-| Drumlin | Depositional | Till shaped by ice | Oval ridge, shows ice direction |
+| Landform       | Type                       | Process                                        | Key Clue                                 |
+| -------------- | -------------------------- | ---------------------------------------------- | ---------------------------------------- |
+| Cirque         | Erosional                  | Plucking and abrasion at valley head           | Steep basin, often with tarn             |
+| Horn           | Erosional                  | Headward erosion by several cirques            | Sharp peak                               |
+| Arete          | Erosional                  | Erosion between cirques/valleys                | Serrated ridge                           |
+| Glacial trough | Erosional                  | Ice deepening and widening                     | U-shaped valley                          |
+| Hanging valley | Erosional                  | Unequal erosion by main and tributary glaciers | Tributary valley hangs above main valley |
+| Fjord          | Erosional plus submergence | Sea fills glacial trough                       | Deep coastal inlet                       |
+| Moraine        | Depositional               | Till dropped by glacier                        | Ridge or sheet of unsorted debris        |
+| Esker          | Depositional               | Meltwater beneath ice                          | Sinuous ridge                            |
+| Outwash plain  | Depositional               | Meltwater deposition                           | Broad flat plain                         |
+| Drumlin        | Depositional               | Till shaped by ice                             | Oval ridge, shows ice direction          |
 
 ---
 
@@ -2429,14 +2429,14 @@ Depositional forms dominate there.
 
 ## 45.6 High Rocky Coast vs Low Sedimentary Coast
 
-| Basis | High Rocky Coast | Low Sedimentary Coast |
-| --- | --- | --- |
-| General nature | Steep and rocky | Low and gently sloping |
-| Coastline | Irregular and indented | Smooth |
-| Dominant process | Erosion | Deposition |
-| Rivers | May appear drowned | Extend by building deltas |
-| Common forms | Cliffs, caves, stacks, wave-cut terraces | Beaches, bars, spits, lagoons, deltas |
-| Indian example | West coast | East coast |
+| Basis            | High Rocky Coast                         | Low Sedimentary Coast                 |
+| ---------------- | ---------------------------------------- | ------------------------------------- |
+| General nature   | Steep and rocky                          | Low and gently sloping                |
+| Coastline        | Irregular and indented                   | Smooth                                |
+| Dominant process | Erosion                                  | Deposition                            |
+| Rivers           | May appear drowned                       | Extend by building deltas             |
+| Common forms     | Cliffs, caves, stacks, wave-cut terraces | Beaches, bars, spits, lagoons, deltas |
+| Indian example   | West coast                               | East coast                            |
 
 ---
 
@@ -2662,18 +2662,18 @@ Then settlements become more exposed to storm and tsunami waves.
 
 # 52. Coastal Revision Table
 
-| Landform | Type | Process | Key Clue |
-| --- | --- | --- | --- |
-| Sea cliff | Erosional | Wave attack | Steep coastal rock face |
-| Wave-cut terrace | Erosional | Cliff retreat | Platform at cliff base |
-| Sea cave | Erosional | Waves widen hollows | Hollow in cliff |
-| Sea stack | Erosional remnant | Cliff retreat | Isolated offshore rock |
-| Beach | Depositional | Wave deposition | Sand or shingle shore |
-| Coastal dune | Depositional | Wind deposits beach sand | Ridge behind beach |
-| Offshore bar | Depositional | Sand/shingle ridge offshore | Parallel to coast |
-| Barrier bar | Depositional | Exposed offshore bar | Above water |
-| Spit | Depositional | Bar attached to headland | Projects across bay |
-| Lagoon | Depositional enclosure | Bay blocked by bar/spit | Shallow enclosed water |
+| Landform         | Type                   | Process                     | Key Clue                |
+| ---------------- | ---------------------- | --------------------------- | ----------------------- |
+| Sea cliff        | Erosional              | Wave attack                 | Steep coastal rock face |
+| Wave-cut terrace | Erosional              | Cliff retreat               | Platform at cliff base  |
+| Sea cave         | Erosional              | Waves widen hollows         | Hollow in cliff         |
+| Sea stack        | Erosional remnant      | Cliff retreat               | Isolated offshore rock  |
+| Beach            | Depositional           | Wave deposition             | Sand or shingle shore   |
+| Coastal dune     | Depositional           | Wind deposits beach sand    | Ridge behind beach      |
+| Offshore bar     | Depositional           | Sand/shingle ridge offshore | Parallel to coast       |
+| Barrier bar      | Depositional           | Exposed offshore bar        | Above water             |
+| Spit             | Depositional           | Bar attached to headland    | Projects across bay     |
+| Lagoon           | Depositional enclosure | Bay blocked by bar/spit     | Shallow enclosed water  |
 
 ---
 
@@ -3039,29 +3039,29 @@ It forms where:
 
 ## 60.6 Dune Comparison
 
-| Dune Type | Shape | Wind Relation | Main Condition |
-| --- | --- | --- | --- |
-| Barchan | Crescent | Horns point downwind | Constant moderate wind, limited sand |
-| Parabolic | Reversed crescent | Arms anchored by vegetation | Partial vegetation |
-| Seif | Long with one wing | Linked to shifted wind | Changing wind conditions |
-| Longitudinal | Long ridge | Parallel to wind | Poor sand supply, constant wind |
-| Transverse | Long ridge | Perpendicular to wind | Sand source at right angles to wind |
+| Dune Type    | Shape              | Wind Relation               | Main Condition                       |
+| ------------ | ------------------ | --------------------------- | ------------------------------------ |
+| Barchan      | Crescent           | Horns point downwind        | Constant moderate wind, limited sand |
+| Parabolic    | Reversed crescent  | Arms anchored by vegetation | Partial vegetation                   |
+| Seif         | Long with one wing | Linked to shifted wind      | Changing wind conditions             |
+| Longitudinal | Long ridge         | Parallel to wind            | Poor sand supply, constant wind      |
+| Transverse   | Long ridge         | Perpendicular to wind       | Sand source at right angles to wind  |
 
 ---
 
 # 61. Desert Revision Table
 
-| Landform | Type | Process | Key Clue |
-| --- | --- | --- | --- |
-| Pediment | Erosional | Stream erosion and sheet flooding | Gently inclined rocky foot slope |
-| Pediplain | Erosional surface | Expansion of pediments | Low featureless desert plain |
-| Inselberg | Erosional remnant | Resistant mountain remnant | Isolated hill |
-| Playa | Depositional basin feature | Basin-centre deposition and temporary water | Shallow temporary lake |
-| Alkali flat | Depositional/evaporative | Salt accumulation | Salt-covered playa |
-| Deflation hollow | Erosional | Wind removes loose material | Shallow depression |
-| Blowout | Erosional | Deflation and abrasion | Wind-made hollow |
-| Mushroom rock | Erosional | Wind abrasion | Narrow stalk, broad cap |
-| Sand dune | Depositional | Wind deposition | Sand mound or ridge |
+| Landform         | Type                       | Process                                     | Key Clue                         |
+| ---------------- | -------------------------- | ------------------------------------------- | -------------------------------- |
+| Pediment         | Erosional                  | Stream erosion and sheet flooding           | Gently inclined rocky foot slope |
+| Pediplain        | Erosional surface          | Expansion of pediments                      | Low featureless desert plain     |
+| Inselberg        | Erosional remnant          | Resistant mountain remnant                  | Isolated hill                    |
+| Playa            | Depositional basin feature | Basin-centre deposition and temporary water | Shallow temporary lake           |
+| Alkali flat      | Depositional/evaporative   | Salt accumulation                           | Salt-covered playa               |
+| Deflation hollow | Erosional                  | Wind removes loose material                 | Shallow depression               |
+| Blowout          | Erosional                  | Deflation and abrasion                      | Wind-made hollow                 |
+| Mushroom rock    | Erosional                  | Wind abrasion                               | Narrow stalk, broad cap          |
+| Sand dune        | Depositional               | Wind deposition                             | Sand mound or ridge              |
 
 ---
 
@@ -3069,98 +3069,98 @@ It forms where:
 
 ## 62.1 Landform vs Landscape
 
-| Landform | Landscape |
-| --- | --- |
-| Single feature | Group of features |
-| Small to medium | Large tract |
-| Example: delta | Example: coastal landscape |
+| Landform        | Landscape                  |
+| --------------- | -------------------------- |
+| Single feature  | Group of features          |
+| Small to medium | Large tract                |
+| Example: delta  | Example: coastal landscape |
 
 ## 62.2 Erosional vs Depositional Landforms
 
-| Erosional | Depositional |
-| --- | --- |
-| Formed by removal | Formed by accumulation |
+| Erosional                        | Depositional                                |
+| -------------------------------- | ------------------------------------------- |
+| Formed by removal                | Formed by accumulation                      |
 | Often shows cutting or hollowing | Often shows ridges, plains, bars, or mounds |
-| Examples: gorge, cave, cliff | Examples: delta, moraine, beach |
+| Examples: gorge, cave, cliff     | Examples: delta, moraine, beach             |
 
 ## 62.3 Gorge vs Canyon
 
-| Gorge | Canyon |
-| --- | --- |
-| Very steep or straight sides | Step-like steep sides |
-| Nearly same width at top and bottom | Wider at top than bottom |
-| Often in hard rock | Often in horizontal sedimentary rocks |
+| Gorge                               | Canyon                                |
+| ----------------------------------- | ------------------------------------- |
+| Very steep or straight sides        | Step-like steep sides                 |
+| Nearly same width at top and bottom | Wider at top than bottom              |
+| Often in hard rock                  | Often in horizontal sedimentary rocks |
 
 ## 62.4 Alluvial Fan vs Delta
 
-| Alluvial Fan | Delta |
-| --- | --- |
-| Foot of mountains | River mouth |
-| Stream enters gentle land | River enters sea or lake |
+| Alluvial Fan               | Delta                          |
+| -------------------------- | ------------------------------ |
+| Foot of mountains          | River mouth                    |
+| Stream enters gentle land  | River enters sea or lake       |
 | Coarse load dumped rapidly | Sorted and stratified deposits |
 
 ## 62.5 Natural Levee vs Point Bar
 
-| Natural Levee | Point Bar |
-| --- | --- |
-| Along river bank | Inner meander bend |
-| Formed during floods | Formed by slow flow on inner bend |
-| Coarse material near bank | Mixed sediment bar |
+| Natural Levee             | Point Bar                         |
+| ------------------------- | --------------------------------- |
+| Along river bank          | Inner meander bend                |
+| Formed during floods      | Formed by slow flow on inner bend |
+| Coarse material near bank | Mixed sediment bar                |
 
 ## 62.6 Sinkhole vs Uvala
 
-| Sinkhole | Uvala |
-| --- | --- |
-| Single circular/funnel depression | Joined sinkholes or dolines |
-| Smaller | Larger trench-like form |
-| Solution or collapse | Slumping and joining of depressions |
+| Sinkhole                          | Uvala                               |
+| --------------------------------- | ----------------------------------- |
+| Single circular/funnel depression | Joined sinkholes or dolines         |
+| Smaller                           | Larger trench-like form             |
+| Solution or collapse              | Slumping and joining of depressions |
 
 ## 62.7 Cave vs Tunnel
 
-| Cave | Tunnel |
-| --- | --- |
-| Underground hollow | Cave open at both ends |
-| May have one opening | Has passage through |
+| Cave                 | Tunnel                 |
+| -------------------- | ---------------------- |
+| Underground hollow   | Cave open at both ends |
+| May have one opening | Has passage through    |
 
 ## 62.8 Stalactite vs Stalagmite
 
-| Stalactite | Stalagmite |
-| --- | --- |
-| Hangs from cave roof | Rises from cave floor |
-| Grows downward | Grows upward |
+| Stalactite                  | Stalagmite                        |
+| --------------------------- | --------------------------------- |
+| Hangs from cave roof        | Rises from cave floor             |
+| Grows downward              | Grows upward                      |
 | Broad at base, tapering end | Column, mound, disc, or cone-like |
 
 ## 62.9 River Valley vs Glacial Valley
 
-| River Valley | Glacial Valley |
-| --- | --- |
-| V-shaped | U-shaped |
-| Made by running water | Made by moving ice |
+| River Valley          | Glacial Valley                  |
+| --------------------- | ------------------------------- |
+| V-shaped              | U-shaped                        |
+| Made by running water | Made by moving ice              |
 | Downcutting important | Abrasion and plucking important |
 
 ## 62.10 Till vs Outwash
 
-| Till | Outwash |
-| --- | --- |
+| Till                   | Outwash           |
+| ---------------------- | ----------------- |
 | Direct glacier deposit | Meltwater deposit |
-| Unsorted | Sorted |
-| Angular fragments | Rounded edges |
+| Unsorted               | Sorted            |
+| Angular fragments      | Rounded edges     |
 
 ## 62.11 High Rocky Coast vs Low Sedimentary Coast
 
-| High Rocky Coast | Low Sedimentary Coast |
-| --- | --- |
-| Erosion dominant | Deposition dominant |
+| High Rocky Coast              | Low Sedimentary Coast         |
+| ----------------------------- | ----------------------------- |
+| Erosion dominant              | Deposition dominant           |
 | Cliffs and wave-cut platforms | Beaches, bars, spits, lagoons |
-| West coast of India | East coast of India |
+| West coast of India           | East coast of India           |
 
 ## 62.12 Barchan vs Parabolic Dune
 
-| Barchan | Parabolic |
-| --- | --- |
-| Crescent dune | Reversed crescent dune |
+| Barchan              | Parabolic                     |
+| -------------------- | ----------------------------- |
+| Crescent dune        | Reversed crescent dune        |
 | Horns point downwind | Arms often held by vegetation |
-| Little vegetation | Partial vegetation |
+| Little vegetation    | Partial vegetation            |
 
 ---
 
@@ -3553,16 +3553,16 @@ Over long periods, glaciers remove debris, lower divides, reduce slopes, and con
 
 Use this format to study landforms near your area:
 
-| Observation | Notes |
-| --- | --- |
-| Location | Write village, town, river, hill, coast, or plain name |
-| Main landform | Valley, floodplain, slope, beach, dune, hill, basin, etc. |
-| Material | Rock, sand, silt, clay, gravel, alluvium, soil |
-| Agent | Running water, wind, waves, groundwater, glacier, human action |
-| Process | Erosion, deposition, weathering, mass movement |
-| Evidence | Channel, bank erosion, deposit layer, slope, cracks, dunes, etc. |
-| Human use | Farming, settlement, road, grazing, mining, tourism |
-| Risk | Flooding, erosion, landslide, waterlogging, coastal erosion |
+| Observation   | Notes                                                            |
+| ------------- | ---------------------------------------------------------------- |
+| Location      | Write village, town, river, hill, coast, or plain name           |
+| Main landform | Valley, floodplain, slope, beach, dune, hill, basin, etc.        |
+| Material      | Rock, sand, silt, clay, gravel, alluvium, soil                   |
+| Agent         | Running water, wind, waves, groundwater, glacier, human action   |
+| Process       | Erosion, deposition, weathering, mass movement                   |
+| Evidence      | Channel, bank erosion, deposit layer, slope, cracks, dunes, etc. |
+| Human use     | Farming, settlement, road, grazing, mining, tourism              |
+| Risk          | Flooding, erosion, landslide, waterlogging, coastal erosion      |
 
 ## 68.2 How To Write Project Conclusion
 

@@ -45,47 +45,47 @@ After studying this chapter, you should be able to:
 
 ## Chapter Snapshot
 
-| Area | What To Remember |
-|---|---|
-| Main focus | Medieval western Europe and the three social orders |
-| Period | Ninth to sixteenth centuries, with special attention to 900 to 1300 |
-| Key concept | Feudalism |
-| First order | Clergy, those who prayed |
-| Second order | Nobility, those who fought |
-| Third order | Peasants, those who worked |
-| Economic base | Land and agricultural production |
-| Social bond | Lord-vassal relationship |
-| Main estate | Manor |
-| Key unfree group | Serfs |
-| Religious power | Catholic Church |
-| Major change | New agricultural technology and growth of towns |
-| Major crisis | Fourteenth-century famine, plague, labour shortage, social unrest |
-| Political change | Rise of stronger monarchies |
+| Area             | What To Remember                                                    |
+| ---------------- | ------------------------------------------------------------------- |
+| Main focus       | Medieval western Europe and the three social orders                 |
+| Period           | Ninth to sixteenth centuries, with special attention to 900 to 1300 |
+| Key concept      | Feudalism                                                           |
+| First order      | Clergy, those who prayed                                            |
+| Second order     | Nobility, those who fought                                          |
+| Third order      | Peasants, those who worked                                          |
+| Economic base    | Land and agricultural production                                    |
+| Social bond      | Lord-vassal relationship                                            |
+| Main estate      | Manor                                                               |
+| Key unfree group | Serfs                                                               |
+| Religious power  | Catholic Church                                                     |
+| Major change     | New agricultural technology and growth of towns                     |
+| Major crisis     | Fourteenth-century famine, plague, labour shortage, social unrest   |
+| Political change | Rise of stronger monarchies                                         |
 
 ## Big Picture Timeline
 
-| Date Or Period | Event Or Process |
-|---|---|
-| 481 | Clovis becomes king of the Franks |
-| 486 | Franks begin conquering northern Gaul |
-| 496 | Clovis and the Franks convert to Christianity |
-| 714 | Charles Martel becomes mayor of the palace |
-| 751 | Pepin becomes king and establishes a new dynasty |
-| 768 | Charlemagne succeeds Pepin |
-| 800 | Pope Leo III crowns Charlemagne as Holy Roman Emperor |
-| 840 onward | Viking raids affect western Europe |
-| 900 to 1300 | Marc Bloch's main period for studying feudal society |
-| 1066 | Normans conquer England |
-| 1100 onward | Cathedrals are built in France |
-| 1315 to 1317 | Great famine in Europe |
-| 1347 to 1350 | Black Death devastates Europe |
-| 1338 to 1461 | Hundred Years War between England and France |
-| 1381 | Peasant revolt in England |
-| 1461 to 1559 | New monarchs strengthen France |
-| 1474 to 1556 | New monarchs strengthen Spain |
-| 1485 to 1547 | New monarchs strengthen England |
-| 1614 | Estates-General meets in France, then is not called again until 1789 |
-| 1629 to 1640 | Charles I rules England without calling Parliament |
+| Date Or Period | Event Or Process                                                     |
+| -------------- | -------------------------------------------------------------------- |
+| 481            | Clovis becomes king of the Franks                                    |
+| 486            | Franks begin conquering northern Gaul                                |
+| 496            | Clovis and the Franks convert to Christianity                        |
+| 714            | Charles Martel becomes mayor of the palace                           |
+| 751            | Pepin becomes king and establishes a new dynasty                     |
+| 768            | Charlemagne succeeds Pepin                                           |
+| 800            | Pope Leo III crowns Charlemagne as Holy Roman Emperor                |
+| 840 onward     | Viking raids affect western Europe                                   |
+| 900 to 1300    | Marc Bloch's main period for studying feudal society                 |
+| 1066           | Normans conquer England                                              |
+| 1100 onward    | Cathedrals are built in France                                       |
+| 1315 to 1317   | Great famine in Europe                                               |
+| 1347 to 1350   | Black Death devastates Europe                                        |
+| 1338 to 1461   | Hundred Years War between England and France                         |
+| 1381           | Peasant revolt in England                                            |
+| 1461 to 1559   | New monarchs strengthen France                                       |
+| 1474 to 1556   | New monarchs strengthen Spain                                        |
+| 1485 to 1547   | New monarchs strengthen England                                      |
+| 1614           | Estates-General meets in France, then is not called again until 1789 |
+| 1629 to 1640   | Charles I rules England without calling Parliament                   |
 
 ## How To Read This Chapter
 
@@ -252,11 +252,11 @@ William I mapped land and distributed it to Norman nobles.
 
 Medieval society was often described as three orders.
 
-| Order | Group | Function |
-|---|---|---|
-| First order | Clergy | Pray and guide religious life |
-| Second order | Nobility | Fight and protect |
-| Third order | Peasants | Work and produce food |
+| Order        | Group    | Function                      |
+| ------------ | -------- | ----------------------------- |
+| First order  | Clergy   | Pray and guide religious life |
+| Second order | Nobility | Fight and protect             |
+| Third order  | Peasants | Work and produce food         |
 
 This model presented inequality as natural and divinely approved.
 
@@ -304,14 +304,14 @@ The relationship could be confirmed through ritual, oath, and symbolic transfer 
 
 ### Key Features
 
-| Element | Meaning |
-|---|---|
-| Seigneur | Lord or senior protector |
-| Vassal | Person owing loyalty and service |
-| Fief | Land granted in exchange for service |
-| Oath | Promise of loyalty |
-| Protection | Lord's duty toward vassal |
-| Service | Vassal's duty toward lord |
+| Element    | Meaning                              |
+| ---------- | ------------------------------------ |
+| Seigneur   | Lord or senior protector             |
+| Vassal     | Person owing loyalty and service     |
+| Fief       | Land granted in exchange for service |
+| Oath       | Promise of loyalty                   |
+| Protection | Lord's duty toward vassal            |
+| Service    | Vassal's duty toward lord            |
 
 Vassalage made politics personal.
 
@@ -327,16 +327,16 @@ The manor was the basic unit of rural feudal life.
 
 ### What A Manor Included
 
-| Part | Function |
-|---|---|
-| Manor house | Residence and centre of lordly control |
-| Fields | Cultivation by peasants |
-| Pastures | Grazing animals |
-| Woodlands | Hunting, fuel, timber |
-| Church | Religious life of the estate |
-| Castle | Defence and political authority |
-| Workshops | Repairs, tools, craft production |
-| Mill and wine-press | Processing grain and grapes |
+| Part                | Function                               |
+| ------------------- | -------------------------------------- |
+| Manor house         | Residence and centre of lordly control |
+| Fields              | Cultivation by peasants                |
+| Pastures            | Grazing animals                        |
+| Woodlands           | Hunting, fuel, timber                  |
+| Church              | Religious life of the estate           |
+| Castle              | Defence and political authority        |
+| Workshops           | Repairs, tools, craft production       |
+| Mill and wine-press | Processing grain and grapes            |
 
 The manor was partly self-sufficient.
 
@@ -683,16 +683,16 @@ From the eleventh century, several agricultural improvements appeared.
 
 ### Main Improvements
 
-| Technology Or Change | Effect |
-|---|---|
-| Heavy iron-tipped plough | Dug deeper into heavy soil |
-| Mould-board | Turned topsoil more effectively |
-| Shoulder harness | Allowed animals to pull with more power |
-| Iron horseshoes | Protected horses' feet |
-| Water mills | Increased mechanical power |
-| Windmills | Helped milling and processing |
-| Three-field system | Increased land use and crop output |
-| Small village forges | Repaired ploughs and horseshoes |
+| Technology Or Change     | Effect                                  |
+| ------------------------ | --------------------------------------- |
+| Heavy iron-tipped plough | Dug deeper into heavy soil              |
+| Mould-board              | Turned topsoil more effectively         |
+| Shoulder harness         | Allowed animals to pull with more power |
+| Iron horseshoes          | Protected horses' feet                  |
+| Water mills              | Increased mechanical power              |
+| Windmills                | Helped milling and processing           |
+| Three-field system       | Increased land use and crop output      |
+| Small village forges     | Repaired ploughs and horseshoes         |
 
 These changes increased food production.
 
@@ -858,17 +858,17 @@ Several problems came together.
 
 ### Main Causes
 
-| Cause | Explanation |
-|---|---|
-| Climate change | Colder summers reduced growing seasons |
-| Floods and storms | Destroyed farms and reduced tax income |
-| Soil exhaustion | Intensive cultivation damaged land |
-| Shortage of pasture | Reduced cattle numbers |
+| Cause               | Explanation                              |
+| ------------------- | ---------------------------------------- |
+| Climate change      | Colder summers reduced growing seasons   |
+| Floods and storms   | Destroyed farms and reduced tax income   |
+| Soil exhaustion     | Intensive cultivation damaged land       |
+| Shortage of pasture | Reduced cattle numbers                   |
 | Population pressure | More people than resources could support |
-| Famine | Severe food shortages in 1315 to 1317 |
-| Cattle disease | Massive cattle deaths in the 1320s |
-| Silver shortage | Metal shortage affected currency |
-| Plague | Black Death devastated population |
+| Famine              | Severe food shortages in 1315 to 1317    |
+| Cattle disease      | Massive cattle deaths in the 1320s       |
+| Silver shortage     | Metal shortage affected currency         |
+| Plague              | Black Death devastated population        |
 
 The crisis was not caused by one factor.
 
@@ -894,13 +894,13 @@ Europe's population fell from about 73 million in 1300 to about 45 million in 14
 
 The crisis produced major economic effects.
 
-| Effect | Explanation |
-|---|---|
-| Labour shortage | Fewer workers survived |
-| Agricultural price fall | Fewer people bought food |
-| Wage rise | Workers could demand higher wages |
-| Lordly income decline | Rents and agricultural profits weakened |
-| Social dislocation | Old obligations became harder to enforce |
+| Effect                  | Explanation                                             |
+| ----------------------- | ------------------------------------------------------- |
+| Labour shortage         | Fewer workers survived                                  |
+| Agricultural price fall | Fewer people bought food                                |
+| Wage rise               | Workers could demand higher wages                       |
+| Lordly income decline   | Rents and agricultural profits weakened                 |
+| Social dislocation      | Old obligations became harder to enforce                |
 | Manufacturing imbalance | Fewer people were available for both farming and crafts |
 
 The labour shortage gave surviving workers more bargaining power.
@@ -1010,84 +1010,84 @@ The king was executed, a republic was briefly established, and monarchy was late
 
 ## 51. Key Terms
 
-| Term | Meaning |
-|---|---|
-| Medieval era | Period in European history roughly between the fifth and fifteenth centuries |
-| Feudalism | Land-based system of lordship, vassalage, peasant labour, and social hierarchy |
-| Order | Social category with a recognised function |
-| Clergy | Church officials and religious specialists |
-| Nobility | Landholding warrior elite |
-| Peasantry | Agricultural working population |
-| Vassal | Person who owed loyalty and service to a lord |
-| Seigneur | Lord or senior protector |
-| Fief | Land granted for service |
-| Manor | Lord's estate |
-| Serf | Unfree peasant tied to the lord's land |
-| Tithe | One-tenth share of produce paid to the Church |
-| Taille | Direct tax imposed on peasants by kings in some regions |
-| Abbey | Religious community led by an abbot or abbess |
-| Monastery | Religious community where monks or nuns lived |
-| Friar | Religious preacher who moved among people and lived on charity |
-| Guild | Craft or trade association controlling production and sale |
-| Cathedral | Large church, often linked to pilgrimage and urban growth |
-| Black Death | Bubonic plague epidemic that devastated Europe in the fourteenth century |
-| New monarchy | Stronger royal state with taxation, bureaucracy, and standing armies |
-| Estates-General | French consultative assembly representing the three estates |
-| Parliament | English representative institution that developed from the Great Council |
+| Term            | Meaning                                                                        |
+| --------------- | ------------------------------------------------------------------------------ |
+| Medieval era    | Period in European history roughly between the fifth and fifteenth centuries   |
+| Feudalism       | Land-based system of lordship, vassalage, peasant labour, and social hierarchy |
+| Order           | Social category with a recognised function                                     |
+| Clergy          | Church officials and religious specialists                                     |
+| Nobility        | Landholding warrior elite                                                      |
+| Peasantry       | Agricultural working population                                                |
+| Vassal          | Person who owed loyalty and service to a lord                                  |
+| Seigneur        | Lord or senior protector                                                       |
+| Fief            | Land granted for service                                                       |
+| Manor           | Lord's estate                                                                  |
+| Serf            | Unfree peasant tied to the lord's land                                         |
+| Tithe           | One-tenth share of produce paid to the Church                                  |
+| Taille          | Direct tax imposed on peasants by kings in some regions                        |
+| Abbey           | Religious community led by an abbot or abbess                                  |
+| Monastery       | Religious community where monks or nuns lived                                  |
+| Friar           | Religious preacher who moved among people and lived on charity                 |
+| Guild           | Craft or trade association controlling production and sale                     |
+| Cathedral       | Large church, often linked to pilgrimage and urban growth                      |
+| Black Death     | Bubonic plague epidemic that devastated Europe in the fourteenth century       |
+| New monarchy    | Stronger royal state with taxation, bureaucracy, and standing armies           |
+| Estates-General | French consultative assembly representing the three estates                    |
+| Parliament      | English representative institution that developed from the Great Council       |
 
 ## 52. Major People
 
-| Person | Importance |
-|---|---|
-| Clovis | King of the Franks who converted to Christianity |
-| Charles Martel | Frankish leader, mayor of the palace |
-| Pepin | Established a new Frankish dynasty |
-| Charlemagne | Frankish ruler crowned Holy Roman Emperor in 800 |
-| Marc Bloch | Historian of feudal society |
-| William I | Norman conqueror of England in 1066 |
-| St Benedict | Associated with monastic rules |
-| Hildegard of Bingen | Abbess and important religious-cultural figure |
-| Geoffrey Chaucer | English writer who portrayed medieval religious figures |
-| Langland | English poet who criticised religious luxury |
-| Louis XI | New monarch in France |
-| Maximilian | New monarch in Austria |
-| Henry VII | New monarch in England |
-| Isabella and Ferdinand | New monarchs in Spain |
-| Charles I | English king whose conflict with Parliament led to civil war |
+| Person                 | Importance                                                   |
+| ---------------------- | ------------------------------------------------------------ |
+| Clovis                 | King of the Franks who converted to Christianity             |
+| Charles Martel         | Frankish leader, mayor of the palace                         |
+| Pepin                  | Established a new Frankish dynasty                           |
+| Charlemagne            | Frankish ruler crowned Holy Roman Emperor in 800             |
+| Marc Bloch             | Historian of feudal society                                  |
+| William I              | Norman conqueror of England in 1066                          |
+| St Benedict            | Associated with monastic rules                               |
+| Hildegard of Bingen    | Abbess and important religious-cultural figure               |
+| Geoffrey Chaucer       | English writer who portrayed medieval religious figures      |
+| Langland               | English poet who criticised religious luxury                 |
+| Louis XI               | New monarch in France                                        |
+| Maximilian             | New monarch in Austria                                       |
+| Henry VII              | New monarch in England                                       |
+| Isabella and Ferdinand | New monarchs in Spain                                        |
+| Charles I              | English king whose conflict with Parliament led to civil war |
 
 ## 53. Places To Know
 
-| Place | Importance |
-|---|---|
-| Gaul | Roman province that became associated with France |
-| France | Major region for feudal society |
-| England | Feudalism strengthened after Norman Conquest |
-| Normandy | Region ruled by William before conquering England |
-| Rome | Seat of the Pope in the western Church |
-| Cluny | Important monastery in Burgundy |
-| Burgundy | Region associated with Cluny monastery |
-| Avignon | Later papal town in southern France |
-| Reims | Example of cathedral town |
-| Chartres | Known for stained glass cathedral |
-| Canterbury | Important pilgrimage destination in England |
+| Place      | Importance                                        |
+| ---------- | ------------------------------------------------- |
+| Gaul       | Roman province that became associated with France |
+| France     | Major region for feudal society                   |
+| England    | Feudalism strengthened after Norman Conquest      |
+| Normandy   | Region ruled by William before conquering England |
+| Rome       | Seat of the Pope in the western Church            |
+| Cluny      | Important monastery in Burgundy                   |
+| Burgundy   | Region associated with Cluny monastery            |
+| Avignon    | Later papal town in southern France               |
+| Reims      | Example of cathedral town                         |
+| Chartres   | Known for stained glass cathedral                 |
+| Canterbury | Important pilgrimage destination in England       |
 
 ## 54. Cause And Effect Map
 
-| Cause | Effect |
-|---|---|
-| Collapse of western Roman power | Localised authority and Germanic kingdoms |
-| Frequent warfare | Need for protection and rise of warrior nobility |
-| Land as main wealth | Feudal relations centred on landholding |
-| Church survival | Clergy became a major order and landholder |
-| Peasant labour | Supported nobles and clergy |
-| Heavy plough and three-field system | Increased food production |
-| Population growth | Expansion of trade and towns |
-| Town growth | New urban groups and guilds emerged |
-| Black Death | Labour shortage and wage increases |
-| Peasant resistance | Old labour services could not be fully restored |
-| Money economy | Weakened personal feudal bonds |
-| Standing armies and guns | Kings reduced dependence on feudal levies |
-| Royal taxation | New monarchies became stronger |
+| Cause                               | Effect                                           |
+| ----------------------------------- | ------------------------------------------------ |
+| Collapse of western Roman power     | Localised authority and Germanic kingdoms        |
+| Frequent warfare                    | Need for protection and rise of warrior nobility |
+| Land as main wealth                 | Feudal relations centred on landholding          |
+| Church survival                     | Clergy became a major order and landholder       |
+| Peasant labour                      | Supported nobles and clergy                      |
+| Heavy plough and three-field system | Increased food production                        |
+| Population growth                   | Expansion of trade and towns                     |
+| Town growth                         | New urban groups and guilds emerged              |
+| Black Death                         | Labour shortage and wage increases               |
+| Peasant resistance                  | Old labour services could not be fully restored  |
+| Money economy                       | Weakened personal feudal bonds                   |
+| Standing armies and guns            | Kings reduced dependence on feudal levies        |
+| Royal taxation                      | New monarchies became stronger                   |
 
 ## 55. Feudal Society As A System
 
@@ -1121,49 +1121,49 @@ Kings relied on nobles, but later monarchs built stronger taxation, armies, and 
 
 ## 56. Common Misconceptions
 
-| Misconception | Correct Understanding |
-|---|---|
-| Feudalism was only about land | It also involved law, politics, military service, hierarchy, and culture |
-| Medieval society never changed | It changed through technology, population, money, towns, plague, and monarchy |
-| Peasants had no agency | Peasants resisted through passive action and open revolts |
-| The Church was only spiritual | It was also a landholder, tax collector, and political force |
-| Manors were fully self-sufficient | They still needed outside goods such as salt and metalware |
-| All peasants were serfs | Some were free tenants, while others were unfree serfs |
-| Towns fit neatly into the three orders | Townspeople formed a possible fourth order |
-| The Black Death only caused death | It also changed wages, labour relations, and lord-peasant conflict |
-| New monarchies destroyed nobles | Nobles survived but became more tied to royal service |
+| Misconception                          | Correct Understanding                                                         |
+| -------------------------------------- | ----------------------------------------------------------------------------- |
+| Feudalism was only about land          | It also involved law, politics, military service, hierarchy, and culture      |
+| Medieval society never changed         | It changed through technology, population, money, towns, plague, and monarchy |
+| Peasants had no agency                 | Peasants resisted through passive action and open revolts                     |
+| The Church was only spiritual          | It was also a landholder, tax collector, and political force                  |
+| Manors were fully self-sufficient      | They still needed outside goods such as salt and metalware                    |
+| All peasants were serfs                | Some were free tenants, while others were unfree serfs                        |
+| Towns fit neatly into the three orders | Townspeople formed a possible fourth order                                    |
+| The Black Death only caused death      | It also changed wages, labour relations, and lord-peasant conflict            |
+| New monarchies destroyed nobles        | Nobles survived but became more tied to royal service                         |
 
 ## 57. Comparison: Free Peasant And Serf
 
-| Feature | Free Peasant | Serf |
-|---|---|---|
-| Legal status | More independent | Unfree, tied to estate |
-| Land | Held land as tenant | Cultivated land belonging to lord |
-| Labour | Owed services and dues | Owed heavier unpaid labour |
-| Movement | More freedom | Could not leave without permission |
-| Marriage | More control | Lord could claim permission or fee |
-| Burden | Rent, labour, military service, taxes | Produce, labour, monopolies, restrictions |
+| Feature      | Free Peasant                          | Serf                                      |
+| ------------ | ------------------------------------- | ----------------------------------------- |
+| Legal status | More independent                      | Unfree, tied to estate                    |
+| Land         | Held land as tenant                   | Cultivated land belonging to lord         |
+| Labour       | Owed services and dues                | Owed heavier unpaid labour                |
+| Movement     | More freedom                          | Could not leave without permission        |
+| Marriage     | More control                          | Lord could claim permission or fee        |
+| Burden       | Rent, labour, military service, taxes | Produce, labour, monopolies, restrictions |
 
 ## 58. Comparison: France And England
 
-| Feature | France | England |
-|---|---|---|
-| Feudal pattern | Strong local noble power in many regions | Stronger royal control after Norman Conquest |
-| Key event | Charlemagne crowned in 800 | Norman Conquest in 1066 |
-| Nobility | Often powerful and regionally independent | Land distribution tied nobles to king |
-| Private warfare | More common in fragmented regions | Restricted under Norman rule |
-| Later politics | Estates-General not called for long period after 1614 | Parliament became central to taxation and politics |
+| Feature         | France                                                | England                                            |
+| --------------- | ----------------------------------------------------- | -------------------------------------------------- |
+| Feudal pattern  | Strong local noble power in many regions              | Stronger royal control after Norman Conquest       |
+| Key event       | Charlemagne crowned in 800                            | Norman Conquest in 1066                            |
+| Nobility        | Often powerful and regionally independent             | Land distribution tied nobles to king              |
+| Private warfare | More common in fragmented regions                     | Restricted under Norman rule                       |
+| Later politics  | Estates-General not called for long period after 1614 | Parliament became central to taxation and politics |
 
 ## 59. Comparison: Medieval Serf And Roman Slave
 
-| Feature | Medieval French Serf | Roman Slave |
-|---|---|---|
-| Legal position | Unfree but tied to land and customary obligations | Property of master |
-| Family life | Could have family and cultivate plots | Family rights depended on master and context |
-| Land | Worked lord's land and own holding | Usually did not own land as independent right |
-| Movement | Could not leave estate freely | Could be sold or moved by master |
-| Obligations | Labour services, dues, fees, monopolies | Labour controlled directly by owner |
-| Possibility of improvement | Sometimes gained freedom through towns or commutation | Manumission possible in some contexts |
+| Feature                    | Medieval French Serf                                  | Roman Slave                                   |
+| -------------------------- | ----------------------------------------------------- | --------------------------------------------- |
+| Legal position             | Unfree but tied to land and customary obligations     | Property of master                            |
+| Family life                | Could have family and cultivate plots                 | Family rights depended on master and context  |
+| Land                       | Worked lord's land and own holding                    | Usually did not own land as independent right |
+| Movement                   | Could not leave estate freely                         | Could be sold or moved by master              |
+| Obligations                | Labour services, dues, fees, monopolies               | Labour controlled directly by owner           |
+| Possibility of improvement | Sometimes gained freedom through towns or commutation | Manumission possible in some contexts         |
 
 ## 60. Practice Prompts For Understanding
 
@@ -1293,23 +1293,23 @@ The fourteenth-century crisis was caused by climate cooling, soil exhaustion, po
 
 ## 63. Revision Table
 
-| If Asked About | Write About |
-|---|---|
-| Feudalism | Land, lords, peasants, vassalage, protection, labour |
-| Three orders | Clergy, nobility, peasantry |
-| Clergy | Church, Pope, priests, tithe, monasteries |
-| Nobility | Land, vassalage, manor, courts, feudal levies |
-| Knights | Cavalry, fief, training, military service |
-| Peasants | Free peasants, serfs, labour rent, dues |
-| Manor | Estate, fields, church, castle, workshops |
-| England | Norman Conquest, land distribution, stronger royal control |
-| Technology | Heavy plough, horse harness, mills, three-field system |
-| Towns | Markets, guilds, paid work, freedom from lord |
-| Cathedrals | Pilgrimage, urban growth, stained glass |
-| Crisis | Famine, plague, labour shortage, wage rise |
-| Peasant revolts | Resistance to restoring labour services |
-| New monarchies | Taxes, standing armies, bureaucracy, centralisation |
-| France and England | Estates-General versus Parliament |
+| If Asked About     | Write About                                                |
+| ------------------ | ---------------------------------------------------------- |
+| Feudalism          | Land, lords, peasants, vassalage, protection, labour       |
+| Three orders       | Clergy, nobility, peasantry                                |
+| Clergy             | Church, Pope, priests, tithe, monasteries                  |
+| Nobility           | Land, vassalage, manor, courts, feudal levies              |
+| Knights            | Cavalry, fief, training, military service                  |
+| Peasants           | Free peasants, serfs, labour rent, dues                    |
+| Manor              | Estate, fields, church, castle, workshops                  |
+| England            | Norman Conquest, land distribution, stronger royal control |
+| Technology         | Heavy plough, horse harness, mills, three-field system     |
+| Towns              | Markets, guilds, paid work, freedom from lord              |
+| Cathedrals         | Pilgrimage, urban growth, stained glass                    |
+| Crisis             | Famine, plague, labour shortage, wage rise                 |
+| Peasant revolts    | Resistance to restoring labour services                    |
+| New monarchies     | Taxes, standing armies, bureaucracy, centralisation        |
+| France and England | Estates-General versus Parliament                          |
 
 ## 64. Memory Anchors
 
@@ -1442,4 +1442,3 @@ In the fifteenth and sixteenth centuries, new monarchies built stronger states t
 France and England then followed different political paths, helping shape later European history.
 
 The chapter's key lesson is that medieval society was hierarchical and land-based, but it was always changing.
-

@@ -1,4 +1,5 @@
 # Chapter 2: The Demographic Structure of Indian Society
+
 ### NCERT Class 12 - Sociology Indian Society
 
 ## Chapter at a Glance
@@ -26,39 +27,39 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Demography | Systematic study of population trends, processes, and structures. |
-| Formal demography | Quantitative study of population size, growth, and components of change. |
-| Social demography | Study of social causes and consequences of population patterns. |
-| Census | Official enumeration of people within a territory at regular intervals. |
-| Birth rate | Number of live births per 1000 population in a year. |
-| Death rate | Number of deaths per 1000 population in a year. |
-| Fertility rate | Number of live births per 1000 women in child-bearing age group. |
-| Infant mortality rate | Deaths of babies below age one per 1000 live births. |
-| Maternal mortality rate | Deaths of women due to childbirth per 100000 live births. |
-| Life expectancy | Average number of years a person is expected to live. |
-| Sex ratio | Number of females per 1000 males. |
-| Age structure | Distribution of population across age groups. |
-| Dependency ratio | Ratio of dependents to working-age population. |
-| Demographic dividend | Economic advantage from a large working-age population. |
-| Population momentum | Continued population growth due to large number of people in reproductive age group. |
+| Term                    | Meaning                                                                              |
+| ----------------------- | ------------------------------------------------------------------------------------ |
+| Demography              | Systematic study of population trends, processes, and structures.                    |
+| Formal demography       | Quantitative study of population size, growth, and components of change.             |
+| Social demography       | Study of social causes and consequences of population patterns.                      |
+| Census                  | Official enumeration of people within a territory at regular intervals.              |
+| Birth rate              | Number of live births per 1000 population in a year.                                 |
+| Death rate              | Number of deaths per 1000 population in a year.                                      |
+| Fertility rate          | Number of live births per 1000 women in child-bearing age group.                     |
+| Infant mortality rate   | Deaths of babies below age one per 1000 live births.                                 |
+| Maternal mortality rate | Deaths of women due to childbirth per 100000 live births.                            |
+| Life expectancy         | Average number of years a person is expected to live.                                |
+| Sex ratio               | Number of females per 1000 males.                                                    |
+| Age structure           | Distribution of population across age groups.                                        |
+| Dependency ratio        | Ratio of dependents to working-age population.                                       |
+| Demographic dividend    | Economic advantage from a large working-age population.                              |
+| Population momentum     | Continued population growth due to large number of people in reproductive age group. |
 
 ## Quick Indicator Map
 
-| Indicator | What it tells us |
-|---|---|
-| Birth rate | Speed at which population is being added through births. |
-| Death rate | Mortality conditions and public health situation. |
-| Growth rate | Difference between births and deaths, adjusted by migration when relevant. |
-| Fertility rate | Reproductive behaviour of women in child-bearing age group. |
-| Infant mortality | Health of infants, mothers, nutrition, sanitation, and medical access. |
-| Maternal mortality | Quality of maternal health services and gendered health access. |
-| Life expectancy | Overall survival conditions. |
-| Sex ratio | Gender balance and social treatment of females. |
-| Age structure | Proportion of children, workers, and elderly. |
-| Literacy rate | Educational access and empowerment. |
-| Rural-urban share | Settlement pattern, migration, and economic change. |
+| Indicator          | What it tells us                                                           |
+| ------------------ | -------------------------------------------------------------------------- |
+| Birth rate         | Speed at which population is being added through births.                   |
+| Death rate         | Mortality conditions and public health situation.                          |
+| Growth rate        | Difference between births and deaths, adjusted by migration when relevant. |
+| Fertility rate     | Reproductive behaviour of women in child-bearing age group.                |
+| Infant mortality   | Health of infants, mothers, nutrition, sanitation, and medical access.     |
+| Maternal mortality | Quality of maternal health services and gendered health access.            |
+| Life expectancy    | Overall survival conditions.                                               |
+| Sex ratio          | Gender balance and social treatment of females.                            |
+| Age structure      | Proportion of children, workers, and elderly.                              |
+| Literacy rate      | Educational access and empowerment.                                        |
+| Rural-urban share  | Settlement pattern, migration, and economic change.                        |
 
 # Unit 2A: Meaning and Scope of Demography
 
@@ -553,15 +554,15 @@ If a region has `950000` females and `1000000` males:
 
 # Unit 2O: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Treating population only as a number. | Demography studies structure, composition, and social consequences. |
-| Confusing birth rate with fertility rate. | Birth rate uses total population; fertility rate focuses on women in reproductive ages. |
-| Saying death rate falls slowly in transition. | Death rate often falls faster due to health and sanitation improvements. |
-| Assuming demographic dividend is automatic. | It requires productive employment and human development. |
-| Treating sex ratio as purely biological. | Social norms strongly affect sex ratio. |
-| Treating urbanisation as only city growth. | It also changes economy, culture, migration, and aspirations. |
-| Supporting coercive population control. | Sustainable demographic change requires social welfare and rights-based policy. |
+| Mistake                                       | Correction                                                                              |
+| --------------------------------------------- | --------------------------------------------------------------------------------------- |
+| Treating population only as a number.         | Demography studies structure, composition, and social consequences.                     |
+| Confusing birth rate with fertility rate.     | Birth rate uses total population; fertility rate focuses on women in reproductive ages. |
+| Saying death rate falls slowly in transition. | Death rate often falls faster due to health and sanitation improvements.                |
+| Assuming demographic dividend is automatic.   | It requires productive employment and human development.                                |
+| Treating sex ratio as purely biological.      | Social norms strongly affect sex ratio.                                                 |
+| Treating urbanisation as only city growth.    | It also changes economy, culture, migration, and aspirations.                           |
+| Supporting coercive population control.       | Sustainable demographic change requires social welfare and rights-based policy.         |
 
 ## Practice Set
 

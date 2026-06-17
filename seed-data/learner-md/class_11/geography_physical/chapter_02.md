@@ -45,50 +45,50 @@ By the end of this chapter, you should be able to:
 
 ## Big Picture Map
 
-| Stage | Main Idea | Approximate Time |
-| --- | --- | --- |
-| Big Bang | Universe begins expanding | 13.7 billion years before present |
-| Galaxies form | Matter gathers under gravity | After early universe density differences |
-| Stars form | Hydrogen clouds condense into stars | About 5-6 billion years ago for many stars discussed in text |
-| Solar system forms | Solar nebula collapses and planets accrete | About 5-5.6 billion years ago |
-| Earth forms | Planet earth forms with other planets | About 4.6 billion years ago |
-| Moon forms | Giant impact produces moon material | About 4.44 billion years ago |
-| Oceans form | Water vapour condenses and collects | Within 500 million years of earth formation |
-| Life begins | Early life evolves in oceans | About 3.8 billion years ago |
-| Photosynthesis evolves | Oxygen production begins | About 2.5-3.0 billion years ago |
-| Oxygen enters atmosphere | Atmosphere becomes oxygen-rich over time | About 2.0 billion years ago |
+| Stage                    | Main Idea                                  | Approximate Time                                             |
+| ------------------------ | ------------------------------------------ | ------------------------------------------------------------ |
+| Big Bang                 | Universe begins expanding                  | 13.7 billion years before present                            |
+| Galaxies form            | Matter gathers under gravity               | After early universe density differences                     |
+| Stars form               | Hydrogen clouds condense into stars        | About 5-6 billion years ago for many stars discussed in text |
+| Solar system forms       | Solar nebula collapses and planets accrete | About 5-5.6 billion years ago                                |
+| Earth forms              | Planet earth forms with other planets      | About 4.6 billion years ago                                  |
+| Moon forms               | Giant impact produces moon material        | About 4.44 billion years ago                                 |
+| Oceans form              | Water vapour condenses and collects        | Within 500 million years of earth formation                  |
+| Life begins              | Early life evolves in oceans               | About 3.8 billion years ago                                  |
+| Photosynthesis evolves   | Oxygen production begins                   | About 2.5-3.0 billion years ago                              |
+| Oxygen enters atmosphere | Atmosphere becomes oxygen-rich over time   | About 2.0 billion years ago                                  |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Universe | Totality of space, time, matter, and energy. |
-| Big Bang Theory | Theory that the universe began from an extremely dense, hot state and has been expanding. |
-| Expanding universe | Idea that space between galaxies is increasing. |
-| Steady state theory | Older idea that the universe remains roughly the same over time. |
-| Galaxy | Vast system containing stars, gas, dust, and dark matter. |
-| Nebula | Huge cloud of gas and dust in space. |
-| Solar nebula | Cloud of gas and dust from which the sun and planets formed. |
-| Accretion | Growth of bodies by collision and sticking together of particles. |
-| Planetesimal | Small body formed during planet formation; building block of planets. |
-| Light year | Distance travelled by light in one year. |
-| Astronomical unit | Average mean distance between earth and sun. |
-| Solar wind | Stream of charged particles from the sun. |
-| Terrestrial planets | Rocky inner planets: Mercury, Venus, Earth, Mars. |
-| Jovian planets | Gas giant outer planets: Jupiter, Saturn, Uranus, Neptune. |
-| Dwarf planet | Celestial body like Pluto, not classified as a full planet under modern classification. |
-| Giant impact theory | Theory that the moon formed after a large body collided with early earth. |
-| Primordial stage | Earliest stage of earth's formation. |
-| Differentiation | Separation of earth material into layers according to density. |
-| Lithosphere | Solid outer part of the earth. |
-| Atmosphere | Layer of gases surrounding earth. |
-| Hydrosphere | Water realm of earth, including oceans and other water bodies. |
-| Degassing | Release of gases and water vapour from earth's interior. |
-| Photosynthesis | Process by which organisms use sunlight to produce food and release oxygen. |
-| Fossil | Preserved remains or traces of past life in rocks. |
-| Geological time scale | Time scale showing major divisions of earth history and life evolution. |
+| Term                  | Meaning                                                                                   |
+| --------------------- | ----------------------------------------------------------------------------------------- |
+| Universe              | Totality of space, time, matter, and energy.                                              |
+| Big Bang Theory       | Theory that the universe began from an extremely dense, hot state and has been expanding. |
+| Expanding universe    | Idea that space between galaxies is increasing.                                           |
+| Steady state theory   | Older idea that the universe remains roughly the same over time.                          |
+| Galaxy                | Vast system containing stars, gas, dust, and dark matter.                                 |
+| Nebula                | Huge cloud of gas and dust in space.                                                      |
+| Solar nebula          | Cloud of gas and dust from which the sun and planets formed.                              |
+| Accretion             | Growth of bodies by collision and sticking together of particles.                         |
+| Planetesimal          | Small body formed during planet formation; building block of planets.                     |
+| Light year            | Distance travelled by light in one year.                                                  |
+| Astronomical unit     | Average mean distance between earth and sun.                                              |
+| Solar wind            | Stream of charged particles from the sun.                                                 |
+| Terrestrial planets   | Rocky inner planets: Mercury, Venus, Earth, Mars.                                         |
+| Jovian planets        | Gas giant outer planets: Jupiter, Saturn, Uranus, Neptune.                                |
+| Dwarf planet          | Celestial body like Pluto, not classified as a full planet under modern classification.   |
+| Giant impact theory   | Theory that the moon formed after a large body collided with early earth.                 |
+| Primordial stage      | Earliest stage of earth's formation.                                                      |
+| Differentiation       | Separation of earth material into layers according to density.                            |
+| Lithosphere           | Solid outer part of the earth.                                                            |
+| Atmosphere            | Layer of gases surrounding earth.                                                         |
+| Hydrosphere           | Water realm of earth, including oceans and other water bodies.                            |
+| Degassing             | Release of gases and water vapour from earth's interior.                                  |
+| Photosynthesis        | Process by which organisms use sunlight to produce food and release oxygen.               |
+| Fossil                | Preserved remains or traces of past life in rocks.                                        |
+| Geological time scale | Time scale showing major divisions of earth history and life evolution.                   |
 
 ---
 
@@ -191,11 +191,11 @@ Theories that considered the sun to have a companion or another star-like influe
 
 ## 4.4 Basic Difference From Nebular Hypothesis
 
-| Nebular Hypothesis | Chamberlain-Moulton Type Theory |
-| --- | --- |
+| Nebular Hypothesis                         | Chamberlain-Moulton Type Theory                               |
+| ------------------------------------------ | ------------------------------------------------------------- |
 | Planets formed from cloud around young sun | Planets formed from solar material pulled out by another star |
-| Emphasises rotating nebula | Emphasises close encounter and tidal extraction |
-| Associated with Kant and Laplace | Associated with Chamberlain and Moulton |
+| Emphasises rotating nebula                 | Emphasises close encounter and tidal extraction               |
+| Associated with Kant and Laplace           | Associated with Chamberlain and Moulton                       |
 
 ---
 
@@ -335,11 +335,11 @@ As more evidence accumulated for an expanding universe, the scientific community
 
 ## 8.3 Comparison
 
-| Big Bang Theory | Steady State Theory |
-| --- | --- |
-| Universe began from hot dense state | Universe roughly unchanged over time |
-| Universe is expanding | Universe appears steady overall |
-| Supported by expanding universe evidence | Less favoured after more evidence |
+| Big Bang Theory                          | Steady State Theory                  |
+| ---------------------------------------- | ------------------------------------ |
+| Universe began from hot dense state      | Universe roughly unchanged over time |
+| Universe is expanding                    | Universe appears steady overall      |
+| Supported by expanding universe evidence | Less favoured after more evidence    |
 
 ---
 
@@ -890,48 +890,48 @@ Eons are the longest among these.
 
 ## 22.2 Major Events Table
 
-| Time | Major Event |
-| --- | --- |
-| 13.7 billion years ago | Big Bang; origin of universe |
-| 12.0 billion years ago | Stars and supernova-related events |
-| 5.0 billion years ago | Origin of the sun |
-| 4.8-3.8 billion years ago | Hadean; oceans and continents begin forming |
-| 3.8-2.5 billion years ago | Archean; blue-green algae and unicellular bacteria |
-| 2.5 billion-570 million years ago | Proterozoic; soft-bodied organisms |
-| 570-245 million years ago | Palaeozoic era; marine life, fish, land plants, amphibians, reptiles |
-| 245-65 million years ago | Mesozoic era; reptiles and dinosaurs dominate |
-| 65 million years ago-present | Cenozoic era; mammals and humans |
+| Time                              | Major Event                                                          |
+| --------------------------------- | -------------------------------------------------------------------- |
+| 13.7 billion years ago            | Big Bang; origin of universe                                         |
+| 12.0 billion years ago            | Stars and supernova-related events                                   |
+| 5.0 billion years ago             | Origin of the sun                                                    |
+| 4.8-3.8 billion years ago         | Hadean; oceans and continents begin forming                          |
+| 3.8-2.5 billion years ago         | Archean; blue-green algae and unicellular bacteria                   |
+| 2.5 billion-570 million years ago | Proterozoic; soft-bodied organisms                                   |
+| 570-245 million years ago         | Palaeozoic era; marine life, fish, land plants, amphibians, reptiles |
+| 245-65 million years ago          | Mesozoic era; reptiles and dinosaurs dominate                        |
+| 65 million years ago-present      | Cenozoic era; mammals and humans                                     |
 
 ## 22.3 Palaeozoic Highlights
 
-| Period | Major Event |
-| --- | --- |
-| Cambrian | Marine invertebrates |
-| Ordovician | First fish |
-| Silurian | First traces of life on land; plants |
-| Devonian | Amphibians |
-| Carboniferous | First reptiles, coal beds |
-| Permian | Reptiles dominate and replace amphibians |
+| Period        | Major Event                              |
+| ------------- | ---------------------------------------- |
+| Cambrian      | Marine invertebrates                     |
+| Ordovician    | First fish                               |
+| Silurian      | First traces of life on land; plants     |
+| Devonian      | Amphibians                               |
+| Carboniferous | First reptiles, coal beds                |
+| Permian       | Reptiles dominate and replace amphibians |
 
 ## 22.4 Mesozoic Highlights
 
-| Period | Major Event |
-| --- | --- |
-| Triassic | Frogs and turtles |
-| Jurassic | Age of dinosaurs |
+| Period     | Major Event             |
+| ---------- | ----------------------- |
+| Triassic   | Frogs and turtles       |
+| Jurassic   | Age of dinosaurs        |
 | Cretaceous | Extinction of dinosaurs |
 
 ## 22.5 Cenozoic Highlights
 
-| Epoch | Major Event |
-| --- | --- |
-| Palaeocene | Small mammals |
-| Eocene | Rabbits and hares |
-| Oligocene | Anthropoid apes |
-| Miocene | Apes, flowering plants, and trees |
-| Pliocene | Early human ancestors |
-| Pleistocene | Homo sapiens |
-| Holocene | Modern humans |
+| Epoch       | Major Event                       |
+| ----------- | --------------------------------- |
+| Palaeocene  | Small mammals                     |
+| Eocene      | Rabbits and hares                 |
+| Oligocene   | Anthropoid apes                   |
+| Miocene     | Apes, flowering plants, and trees |
+| Pliocene    | Early human ancestors             |
+| Pleistocene | Homo sapiens                      |
+| Holocene    | Modern humans                     |
 
 ---
 
@@ -939,50 +939,50 @@ Eons are the longest among these.
 
 ## 23.1 Nebular Hypothesis vs Big Bang Theory
 
-| Nebular Hypothesis | Big Bang Theory |
-| --- | --- |
+| Nebular Hypothesis                         | Big Bang Theory                           |
+| ------------------------------------------ | ----------------------------------------- |
 | Explains origin of planets or solar system | Explains origin and expansion of universe |
-| Associated with Kant and Laplace | Supported by expanding universe evidence |
-| Focuses on cloud around young sun | Focuses on extremely dense early universe |
-| Early planetary theory | Modern cosmological theory |
+| Associated with Kant and Laplace           | Supported by expanding universe evidence  |
+| Focuses on cloud around young sun          | Focuses on extremely dense early universe |
+| Early planetary theory                     | Modern cosmological theory                |
 
 ## 23.2 Terrestrial vs Jovian Planets
 
-| Terrestrial Planets | Jovian Planets |
-| --- | --- |
+| Terrestrial Planets         | Jovian Planets                   |
+| --------------------------- | -------------------------------- |
 | Mercury, Venus, Earth, Mars | Jupiter, Saturn, Uranus, Neptune |
-| Inner planets | Outer planets |
-| Rocky and metallic | Gaseous giants |
-| High density | Lower density |
-| Smaller size | Larger size |
-| Formed near sun | Formed farther from sun |
+| Inner planets               | Outer planets                    |
+| Rocky and metallic          | Gaseous giants                   |
+| High density                | Lower density                    |
+| Smaller size                | Larger size                      |
+| Formed near sun             | Formed farther from sun          |
 
 ## 23.3 Primordial Atmosphere vs Present Atmosphere
 
-| Primordial Atmosphere | Present Atmosphere |
-| --- | --- |
-| Mainly hydrogen and helium | Mainly nitrogen and oxygen |
-| Stripped by solar winds | Modified by degassing and life |
-| Thin and unstable | Life-supporting |
+| Primordial Atmosphere      | Present Atmosphere                   |
+| -------------------------- | ------------------------------------ |
+| Mainly hydrogen and helium | Mainly nitrogen and oxygen           |
+| Stripped by solar winds    | Modified by degassing and life       |
+| Thin and unstable          | Life-supporting                      |
 | No significant free oxygen | Oxygen present due to photosynthesis |
 
 ## 23.4 Differentiation vs Degassing
 
-| Differentiation | Degassing |
-| --- | --- |
+| Differentiation                   | Degassing                              |
+| --------------------------------- | -------------------------------------- |
 | Separation of material by density | Release of gases from earth's interior |
-| Formed crust, mantle, core | Helped form atmosphere and hydrosphere |
-| Heavy materials sank | Water vapour and gases came out |
-| Related to internal layering | Related to atmospheric evolution |
+| Formed crust, mantle, core        | Helped form atmosphere and hydrosphere |
+| Heavy materials sank              | Water vapour and gases came out        |
+| Related to internal layering      | Related to atmospheric evolution       |
 
 ## 23.5 Light Year vs Astronomical Unit
 
-| Light Year | Astronomical Unit |
-| --- | --- |
-| Distance light travels in one year | Mean earth-sun distance |
-| Used for stars and galaxies | Used within solar system |
-| About 9.461 x 10^12 km | About 149,598,000 km |
-| Unit of distance, not time | Unit of distance |
+| Light Year                         | Astronomical Unit        |
+| ---------------------------------- | ------------------------ |
+| Distance light travels in one year | Mean earth-sun distance  |
+| Used for stars and galaxies        | Used within solar system |
+| About 9.461 x 10^12 km             | About 149,598,000 km     |
+| Unit of distance, not time         | Unit of distance         |
 
 ---
 
@@ -1102,24 +1102,24 @@ the atmosphere.
 
 # 25. Data Board
 
-| Data Point | Value | Use |
-| --- | ---: | --- |
-| Big Bang | 13.7 billion years ago | Origin of universe |
-| Universe transparency | About 300,000 years after Big Bang | Atomic matter stage |
-| Temperature at transparency stage | About 4,500 K | Big Bang stage |
-| Galaxy diameter | About 80,000-150,000 light years | Scale of galaxies |
-| Light speed | About 300,000 km/s | Light year explanation |
-| One light year | 9.461 x 10^12 km | Distance unit |
-| Earth-sun mean distance | 149,598,000 km | Astronomical unit |
-| Sunlight travel time to earth | About 8.311 minutes | Light travel time |
-| Solar system collapse | About 5-5.6 billion years ago | Solar system formation |
-| Earth and planets | About 4.6 billion years ago | Age of earth |
-| Moon formation | About 4.44 billion years ago | Giant impact theory |
-| Ocean formation | Within 500 million years of earth formation | Hydrosphere evolution |
-| Ocean age | About 4.0 billion years | Early oceans |
-| Life origin | About 3.8 billion years ago | Origin of life |
-| Photosynthesis | About 2.5-3.0 billion years ago | Oxygen production |
-| Oxygen in atmosphere | About 2.0 billion years ago | Atmospheric evolution |
+| Data Point                        |                                       Value | Use                    |
+| --------------------------------- | ------------------------------------------: | ---------------------- |
+| Big Bang                          |                      13.7 billion years ago | Origin of universe     |
+| Universe transparency             |          About 300,000 years after Big Bang | Atomic matter stage    |
+| Temperature at transparency stage |                               About 4,500 K | Big Bang stage         |
+| Galaxy diameter                   |            About 80,000-150,000 light years | Scale of galaxies      |
+| Light speed                       |                          About 300,000 km/s | Light year explanation |
+| One light year                    |                            9.461 x 10^12 km | Distance unit          |
+| Earth-sun mean distance           |                              149,598,000 km | Astronomical unit      |
+| Sunlight travel time to earth     |                         About 8.311 minutes | Light travel time      |
+| Solar system collapse             |               About 5-5.6 billion years ago | Solar system formation |
+| Earth and planets                 |                 About 4.6 billion years ago | Age of earth           |
+| Moon formation                    |                About 4.44 billion years ago | Giant impact theory    |
+| Ocean formation                   | Within 500 million years of earth formation | Hydrosphere evolution  |
+| Ocean age                         |                     About 4.0 billion years | Early oceans           |
+| Life origin                       |                 About 3.8 billion years ago | Origin of life         |
+| Photosynthesis                    |             About 2.5-3.0 billion years ago | Oxygen production      |
+| Oxygen in atmosphere              |                 About 2.0 billion years ago | Atmospheric evolution  |
 
 ---
 

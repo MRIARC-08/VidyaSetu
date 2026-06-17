@@ -1,20 +1,21 @@
 # Chapter 8: Heredity
+
 ### NCERT Class 10 — Science
 
 ---
 
 ## 📌 Chapter at a Glance
 
-| Detail | Info |
-|---|---|
-| Chapter | 8 — Heredity |
-| Class | Class 10 |
-| Subject | Science |
-| Pilot Subject Family | Science |
-| Source File | `data/class_10/science/chapter_08.md` |
-| Textbook Pages | 1 – 6 |
-| Raw Exercise Count | 10 |
-| Formatting Mode | Human-guided pilot for subject-specific automation |
+| Detail               | Info                                               |
+| -------------------- | -------------------------------------------------- |
+| Chapter              | 8 — Heredity                                       |
+| Class                | Class 10                                           |
+| Subject              | Science                                            |
+| Pilot Subject Family | Science                                            |
+| Source File          | `data/class_10/science/chapter_08.md`              |
+| Textbook Pages       | 1 – 6                                              |
+| Raw Exercise Count   | 10                                                 |
+| Formatting Mode      | Human-guided pilot for subject-specific automation |
 
 ---
 
@@ -23,59 +24,59 @@
 > [!NOTE]
 > Study this chapter through this route: **observable phenomenon -> experiment/activity -> inference -> concept -> application**.
 
-| Step | Learner Action | Why It Matters |
-|---|---|---|
-| 1 | Connect every concept to the activity or observation that motivates it. | Builds reliable recall and answer quality. |
-| 2 | Separate definitions from examples and consequences. | Builds reliable recall and answer quality. |
-| 3 | For experiments, identify aim, materials, variable changed, variable measured, and inference. | Builds reliable recall and answer quality. |
-| 4 | Use diagrams and comparison tables to revise structures and processes. | Builds reliable recall and answer quality. |
+| Step | Learner Action                                                                                | Why It Matters                             |
+| ---- | --------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| 1    | Connect every concept to the activity or observation that motivates it.                       | Builds reliable recall and answer quality. |
+| 2    | Separate definitions from examples and consequences.                                          | Builds reliable recall and answer quality. |
+| 3    | For experiments, identify aim, materials, variable changed, variable measured, and inference. | Builds reliable recall and answer quality. |
+| 4    | Use diagrams and comparison tables to revise structures and processes.                        | Builds reliable recall and answer quality. |
 
 ---
 
 ## 🎯 Learning Outcomes
 
-| # | After studying this chapter, you should be able to... |
-|---|---|
-| 1 | explain the key scientific concepts using observations and activities |
-| 2 | compare related terms, structures, or processes through tables |
-| 3 | apply chapter ideas to experiment-based and reasoning questions |
-| 4 | explain the role of 'A AA AACCUMUL CCUMULCCUMUL CCUMULCCUMUL AAA AATION OF VTION OF VTION OF VTION OF VTION OF V ARIA ARIAARIA ARIAARIA TION TIONTION TIONTION' in the chapter |
-| 5 | explain the role of 'HEREDITY8.2 HEREDITY8.2 HEREDITY8.2 HEREDITY8.2 HEREDITY' in the chapter |
-| 6 | explain the role of 'Inherited Traits' in the chapter |
+| #   | After studying this chapter, you should be able to...                                                                                                                          |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | explain the key scientific concepts using observations and activities                                                                                                          |
+| 2   | compare related terms, structures, or processes through tables                                                                                                                 |
+| 3   | apply chapter ideas to experiment-based and reasoning questions                                                                                                                |
+| 4   | explain the role of 'A AA AACCUMUL CCUMULCCUMUL CCUMULCCUMUL AAA AATION OF VTION OF VTION OF VTION OF VTION OF V ARIA ARIAARIA ARIAARIA TION TIONTION TIONTION' in the chapter |
+| 5   | explain the role of 'HEREDITY8.2 HEREDITY8.2 HEREDITY8.2 HEREDITY8.2 HEREDITY' in the chapter                                                                                  |
+| 6   | explain the role of 'Inherited Traits' in the chapter                                                                                                                          |
 
 ---
 
 ## 🗂️ Section Structure
 
-| Section | Title | Revision Focus |
-|---|---|---|
-| 8.18.1 | A AA AACCUMUL CCUMULCCUMUL CCUMULCCUMUL AAA AATION OF VTION OF VTION OF VTION OF VTION OF V ARIA ARIAARIA ARIAARIA TION TIONTION TIONTION | Definition, explanation, examples, and likely questions |
-| 8.2 | HEREDITY8.2 HEREDITY8.2 HEREDITY8.2 HEREDITY8.2 HEREDITY | Definition, explanation, examples, and likely questions |
-| 8.2.1 | Inherited Traits | Definition, explanation, examples, and likely questions |
-| 8.2.2 | Rules for the Inheritance of T raits – –– –– | Definition, explanation, examples, and likely questions |
-| 8.2.4 | Sex Determination | Definition, explanation, examples, and likely questions |
+| Section | Title                                                                                                                                     | Revision Focus                                          |
+| ------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| 8.18.1  | A AA AACCUMUL CCUMULCCUMUL CCUMULCCUMUL AAA AATION OF VTION OF VTION OF VTION OF VTION OF V ARIA ARIAARIA ARIAARIA TION TIONTION TIONTION | Definition, explanation, examples, and likely questions |
+| 8.2     | HEREDITY8.2 HEREDITY8.2 HEREDITY8.2 HEREDITY8.2 HEREDITY                                                                                  | Definition, explanation, examples, and likely questions |
+| 8.2.1   | Inherited Traits                                                                                                                          | Definition, explanation, examples, and likely questions |
+| 8.2.2   | Rules for the Inheritance of T raits – –– ––                                                                                              | Definition, explanation, examples, and likely questions |
+| 8.2.4   | Sex Determination                                                                                                                         | Definition, explanation, examples, and likely questions |
 
 ---
 
 ## 🧠 Subject-Specific Study Method
 
-| Part | How to Use It |
-|---|---|
-| Core lens | observable phenomenon -> experiment/activity -> inference -> concept -> application |
-| First pass | Read for meaning and mark unfamiliar terms. |
-| Second pass | Convert definitions, examples, data, and activities into tables. |
-| Revision pass | Use the quick reference and practice tracker at the end. |
+| Part          | How to Use It                                                                       |
+| ------------- | ----------------------------------------------------------------------------------- |
+| Core lens     | observable phenomenon -> experiment/activity -> inference -> concept -> application |
+| First pass    | Read for meaning and mark unfamiliar terms.                                         |
+| Second pass   | Convert definitions, examples, data, and activities into tables.                    |
+| Revision pass | Use the quick reference and practice tracker at the end.                            |
 
 ---
 
 ## 🔬 Process and Application Board
 
-| Learning Need | How To Build It |
-|---|---|
-| Structure | Identify parts, labels, and functions. |
-| Process | Write sequences as flowcharts. |
-| Comparison | Use tables for related terms and systems. |
-| Application | Connect concepts to experiments, observations, behaviour, or daily life. |
+| Learning Need | How To Build It                                                          |
+| ------------- | ------------------------------------------------------------------------ |
+| Structure     | Identify parts, labels, and functions.                                   |
+| Process       | Write sequences as flowcharts.                                           |
+| Comparison    | Use tables for related terms and systems.                                |
+| Application   | Connect concepts to experiments, observations, behaviour, or daily life. |
 
 ---
 
@@ -141,8 +142,8 @@ species and a trait B exists in 60% of the same population, which trait is likel
 
 Mendel’s Contributions The rules for inheritance of such traits in human beings are related to the fact that both the father and the mother contribute practically equal amounts of genetic material to the child. This means that each trait can be influenced by both paternal and maternal DNA. Thus, for each trait there will be two versions in each child. What will, then, the trait seen in the child be? Mendel (see box) worked out the main rules of such inheritance, and it is interesting to look at some of his experiments from more than a century ago. Figure 8.2Figure 8.2Figure 8.2Figure 8.2Figure 8.2
 
- - (a) Free and (b) attached
-earlobes. The lowest part of the ear, called the earlobe, is closely attached to the side of the head in some of us, and not in others. Free and attached earlobes are two variants found in human populations. different kinds of advantages. Bacteria that can withstand heat will survive better in a heat wave, as we have discussed earlier. Selection of variants by environmental factors forms the basis for evolutionary processes, as we will discuss in later sections. (a) (b) Science130 Mendel used a number of contrasting visible characters of garden peas – round/wrinkled seeds, tall/short plants, white/violet flowers and so on.
+- (a) Free and (b) attached
+  earlobes. The lowest part of the ear, called the earlobe, is closely attached to the side of the head in some of us, and not in others. Free and attached earlobes are two variants found in human populations. different kinds of advantages. Bacteria that can withstand heat will survive better in a heat wave, as we have discussed earlier. Selection of variants by environmental factors forms the basis for evolutionary processes, as we will discuss in later sections. (a) (b) Science130 Mendel used a number of contrasting visible characters of garden peas – round/wrinkled seeds, tall/short plants, white/violet flowers and so on.
 
 He took pea plants with different characteristics – a tall plant and a short plant, produced progeny by crossing them, and calculated the percentages of tall or short progeny. In the first place, there were no halfway characteristics in this first- generation, or F1 progeny – no ‘medium-height’ plants. All plants were tall. This meant that only one of the parental traits was seen, not some mixture of the two. So the next question was, were the tall plants in the F1 generation exactly the same as the tall plants of the parent generation? Mendelian experiments test this by getting both the parental plants and these F1 tall plants to reproduce by self-pollination. The progeny of the parental plants are, of course, all tall.
 
@@ -211,11 +212,11 @@ What you have learnt /square6Variations arising during the process of reproducti
 
 ## 🔑 Key Concepts & Definitions
 
-| Term | Learner-Friendly Meaning |
-|---|---|
-| **This** | that each trait can be influenced by both paternal and maternal DNA |
-| **section of DNA that provides information for one protein** | the gene for that protein |
-| **trait that gets expressed** | the dominant trait and the other is called the recessive trait |
+| Term                                                         | Learner-Friendly Meaning                                            |
+| ------------------------------------------------------------ | ------------------------------------------------------------------- |
+| **This**                                                     | that each trait can be influenced by both paternal and maternal DNA |
+| **section of DNA that provides information for one protein** | the gene for that protein                                           |
+| **trait that gets expressed**                                | the dominant trait and the other is called the recessive trait      |
 
 ---
 
@@ -228,80 +229,80 @@ What you have learnt /square6Variations arising during the process of reproducti
 
 ## 🔬 Activities, Projects, and Inquiry Prompts
 
-| # | Prompt | Learner Task |
-|---|---|---|
-| 1 | #### 🔬 Activity 8.1Activity 8.1Activity 8.1Activity 8.1Activity 8.1 | Observe, discuss, collect evidence, or write a short response. |
-| 2 | #### 🔬 Activity 8.2Activity 8.2Activity 8.2Activity 8.2Activity 8.2 | Observe, discuss, collect evidence, or write a short response. |
-| 3 | 3. Outline a project which aims to find the dominant coat colour in dogs. | Observe, discuss, collect evidence, or write a short response. |
-| 4 | Activity 8.1Activity 8.1Activity 8.1Activity 8.1Activity 8.1 | Observe, discuss, collect evidence, or write a short response. |
-| 5 | Activity 8.2Activity 8.2Activity 8.2Activity 8.2Activity 8.2 | Observe, discuss, collect evidence, or write a short response. |
+| #   | Prompt                                                                    | Learner Task                                                   |
+| --- | ------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| 1   | #### 🔬 Activity 8.1Activity 8.1Activity 8.1Activity 8.1Activity 8.1      | Observe, discuss, collect evidence, or write a short response. |
+| 2   | #### 🔬 Activity 8.2Activity 8.2Activity 8.2Activity 8.2Activity 8.2      | Observe, discuss, collect evidence, or write a short response. |
+| 3   | 3. Outline a project which aims to find the dominant coat colour in dogs. | Observe, discuss, collect evidence, or write a short response. |
+| 4   | Activity 8.1Activity 8.1Activity 8.1Activity 8.1Activity 8.1              | Observe, discuss, collect evidence, or write a short response. |
+| 5   | Activity 8.2Activity 8.2Activity 8.2Activity 8.2Activity 8.2              | Observe, discuss, collect evidence, or write a short response. |
 
 ---
 
 ## ✏️ Practice & Exercise Tracker
 
-| Q | Question / Task | Answer Strategy |
-|---|---|---|
-| 1 | 1. If a trait A exists in 10% of a population of an asexually reproducing species and a trait B exists in 60% of the same population, which trait is likely to have arisen earlier? | Identify command word, recall concept, structure answer, then review. |
-| 2 | 2. How does the creation of variations in a species promote survival? #### 🔬 Activity 8.1Activity 8.1Activity 8.1Activity 8.1Activity 8.1 /square6Observe the ears of all the students in the class. Prepare a list of students having free or attached earlobes and calculate the percentage of students having each (Fig. 8.2). Find out about the earlobes of the parents of each student in the class. Correlate the earlobe type of each student with that of their parents. Based on this evidence, suggest a possible rule for the inheritance of earlobe types. | Identify command word, recall concept, structure answer, then review. |
-| 3 | 1. How do Mendel’s experiments show that traits may be dominant or recessive? | Identify command word, recall concept, structure answer, then review. |
-| 4 | 2. How do Mendel’s experiments show that traits are inherited independently? | Identify command word, recall concept, structure answer, then review. |
-| 5 | 3. A man with blood group A marries a woman with blood group O and their daughter has blood group O. Is this information enough to tell you which of the traits – blood group A or O – is dominant? Why or why not? | Identify command word, recall concept, structure answer, then review. |
-| 6 | 4. How is the sex of the child determined in human beings? What you have learnt /square6Variations arising during the process of reproduction can be inherited. /square6These variations may lead to increased survival of the individuals. /square6Sexually reproducing individuals have two copies of genes for the same trait. If the copies are not identical, the trait that gets expressed is called the dominant trait and the other is called the recessive trait. /square6Traits in one individual may be inherited separately, giving rise to new combinations of traits in the offspring of sexual reproduction. /square6Sex is determined by different factors in various species. In human beings, the sex of the child depends on whether the paternal chromosome is X (for girls) or Y (for boys). | Identify command word, recall concept, structure answer, then review. |
-| 7 | 1. A Mendelian experiment consisted of breeding tall pea plants bearing violet flowers with short pea plants bearing white flowers. The progeny all bore violet flowers, but almost half of them were short. This suggests that the genetic make-up of the tall parent can be depicted as (a) TTWW (b) TTww (c) TtWW (d) TtWw | Identify command word, recall concept, structure answer, then review. |
-| 8 | 2. A study found that children with light-coloured eyes are likely to have parents with light-coloured eyes. On this basis, can we say anything about whether the light eye colour trait is dominant or recessive? Why or why not? | Identify command word, recall concept, structure answer, then review. |
-| 9 | 3. Outline a project which aims to find the dominant coat colour in dogs. | Identify command word, recall concept, structure answer, then review. |
-| 10 | 4. How is the equal genetic contribution of male and female parents ensured in the progeny? ## 🔬 Activities Activity 8.1Activity 8.1Activity 8.1Activity 8.1Activity 8.1 Activity 8.2Activity 8.2Activity 8.2Activity 8.2Activity 8.2 **Q1.** is likely to have arisen earlier? **Q2.** How does the creation of variations in a species promote survival? **Q3.** characteristics, rather than just one, are bred with each other? | Identify command word, recall concept, structure answer, then review. |
+| Q   | Question / Task                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Answer Strategy                                                       |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| 1   | 1. If a trait A exists in 10% of a population of an asexually reproducing species and a trait B exists in 60% of the same population, which trait is likely to have arisen earlier?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Identify command word, recall concept, structure answer, then review. |
+| 2   | 2. How does the creation of variations in a species promote survival? #### 🔬 Activity 8.1Activity 8.1Activity 8.1Activity 8.1Activity 8.1 /square6Observe the ears of all the students in the class. Prepare a list of students having free or attached earlobes and calculate the percentage of students having each (Fig. 8.2). Find out about the earlobes of the parents of each student in the class. Correlate the earlobe type of each student with that of their parents. Based on this evidence, suggest a possible rule for the inheritance of earlobe types.                                                                                                                                                                                                                                          | Identify command word, recall concept, structure answer, then review. |
+| 3   | 1. How do Mendel’s experiments show that traits may be dominant or recessive?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Identify command word, recall concept, structure answer, then review. |
+| 4   | 2. How do Mendel’s experiments show that traits are inherited independently?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Identify command word, recall concept, structure answer, then review. |
+| 5   | 3. A man with blood group A marries a woman with blood group O and their daughter has blood group O. Is this information enough to tell you which of the traits – blood group A or O – is dominant? Why or why not?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Identify command word, recall concept, structure answer, then review. |
+| 6   | 4. How is the sex of the child determined in human beings? What you have learnt /square6Variations arising during the process of reproduction can be inherited. /square6These variations may lead to increased survival of the individuals. /square6Sexually reproducing individuals have two copies of genes for the same trait. If the copies are not identical, the trait that gets expressed is called the dominant trait and the other is called the recessive trait. /square6Traits in one individual may be inherited separately, giving rise to new combinations of traits in the offspring of sexual reproduction. /square6Sex is determined by different factors in various species. In human beings, the sex of the child depends on whether the paternal chromosome is X (for girls) or Y (for boys). | Identify command word, recall concept, structure answer, then review. |
+| 7   | 1. A Mendelian experiment consisted of breeding tall pea plants bearing violet flowers with short pea plants bearing white flowers. The progeny all bore violet flowers, but almost half of them were short. This suggests that the genetic make-up of the tall parent can be depicted as (a) TTWW (b) TTww (c) TtWW (d) TtWw                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Identify command word, recall concept, structure answer, then review. |
+| 8   | 2. A study found that children with light-coloured eyes are likely to have parents with light-coloured eyes. On this basis, can we say anything about whether the light eye colour trait is dominant or recessive? Why or why not?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Identify command word, recall concept, structure answer, then review. |
+| 9   | 3. Outline a project which aims to find the dominant coat colour in dogs.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Identify command word, recall concept, structure answer, then review. |
+| 10  | 4. How is the equal genetic contribution of male and female parents ensured in the progeny? ## 🔬 Activities Activity 8.1Activity 8.1Activity 8.1Activity 8.1Activity 8.1 Activity 8.2Activity 8.2Activity 8.2Activity 8.2Activity 8.2 **Q1.** is likely to have arisen earlier? **Q2.** How does the creation of variations in a species promote survival? **Q3.** characteristics, rather than just one, are bred with each other?                                                                                                                                                                                                                                                                                                                                                                              | Identify command word, recall concept, structure answer, then review. |
 
 ---
 
 ## 🧩 Answer-Writing Framework
 
-| Step | What To Do |
-|---|---|
-| 1 | Name the phenomenon or concept. |
-| 2 | Describe the observation in simple language. |
-| 3 | Explain the scientific reason using key terms. |
-| 4 | Add an example or application. |
-| 5 | Mention exceptions or conditions if the chapter gives them. |
+| Step | What To Do                                                  |
+| ---- | ----------------------------------------------------------- |
+| 1    | Name the phenomenon or concept.                             |
+| 2    | Describe the observation in simple language.                |
+| 3    | Explain the scientific reason using key terms.              |
+| 4    | Add an example or application.                              |
+| 5    | Mention exceptions or conditions if the chapter gives them. |
 
 ---
 
 ## ⚠️ Common Misconceptions
 
-| # | Watch Out For This |
-|---|---|
-| 1 | A memorised definition is not enough; link it to an observation. |
-| 2 | Do not confuse similar processes such as diffusion/osmosis or mitosis/meiosis. |
-| 3 | Diagram labels matter as much as prose explanations. |
+| #   | Watch Out For This                                                             |
+| --- | ------------------------------------------------------------------------------ |
+| 1   | A memorised definition is not enough; link it to an observation.               |
+| 2   | Do not confuse similar processes such as diffusion/osmosis or mitosis/meiosis. |
+| 3   | Diagram labels matter as much as prose explanations.                           |
 
 ---
 
 ## 📋 Quick Revision Sheet
 
-| Revision Item | What To Recall |
-|---|---|
-| Chapter core | Heredity |
-| 8.18.1 | A AA AACCUMUL CCUMULCCUMUL CCUMULCCUMUL AAA AATION OF VTION OF VTION OF VTION OF VTION OF V ARIA ARIAARIA ARIAARIA TION TIONTION TIONTION |
-| 8.2 | HEREDITY8.2 HEREDITY8.2 HEREDITY8.2 HEREDITY8.2 HEREDITY |
-| 8.2.1 | Inherited Traits |
-| 8.2.2 | Rules for the Inheritance of T raits – –– –– |
-| 8.2.4 | Sex Determination |
-| Definition | This |
-| Definition | section of DNA that provides information for one protein |
-| Definition | trait that gets expressed |
+| Revision Item | What To Recall                                                                                                                            |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Chapter core  | Heredity                                                                                                                                  |
+| 8.18.1        | A AA AACCUMUL CCUMULCCUMUL CCUMULCCUMUL AAA AATION OF VTION OF VTION OF VTION OF VTION OF V ARIA ARIAARIA ARIAARIA TION TIONTION TIONTION |
+| 8.2           | HEREDITY8.2 HEREDITY8.2 HEREDITY8.2 HEREDITY8.2 HEREDITY                                                                                  |
+| 8.2.1         | Inherited Traits                                                                                                                          |
+| 8.2.2         | Rules for the Inheritance of T raits – –– ––                                                                                              |
+| 8.2.4         | Sex Determination                                                                                                                         |
+| Definition    | This                                                                                                                                      |
+| Definition    | section of DNA that provides information for one protein                                                                                  |
+| Definition    | trait that gets expressed                                                                                                                 |
 
 ---
 
 ## ✅ Pilot Quality Checklist
 
-| Check | Status |
-|---|---|
-| Raw data preserved | Yes — chapter content is retained and cleaned, not summarised away. |
-| Learner scaffolding added | Yes — roadmap, outcomes, answer framework, misconceptions, and revision sheet. |
-| Subject-aware structure | Yes — generated from the selected subject family profile. |
-| Needs human review | Yes — especially source extraction mismatches, diagrams, tables, formulas, and broken OCR words. |
+| Check                     | Status                                                                                           |
+| ------------------------- | ------------------------------------------------------------------------------------------------ |
+| Raw data preserved        | Yes — chapter content is retained and cleaned, not summarised away.                              |
+| Learner scaffolding added | Yes — roadmap, outcomes, answer framework, misconceptions, and revision sheet.                   |
+| Subject-aware structure   | Yes — generated from the selected subject family profile.                                        |
+| Needs human review        | Yes — especially source extraction mismatches, diagrams, tables, formulas, and broken OCR words. |
 
 ---
 
-*Source: NCERT Class 10 — Science, Chapter 8. Raw file: `data/class_10/science/chapter_08.md`.*
+_Source: NCERT Class 10 — Science, Chapter 8. Raw file: `data/class_10/science/chapter_08.md`._

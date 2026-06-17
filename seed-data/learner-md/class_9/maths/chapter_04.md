@@ -1,20 +1,21 @@
 # Chapter 4: Exploring Algebraic Identities
+
 ### NCERT Class 9 - Maths
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 9 |
-| **Subject** | Maths |
-| **Chapter** | 4 |
-| **Actual Chapter Title** | Exploring Algebraic Identities |
-| **Raw File Header** | "Linear Equations in Two Variables" |
-| **Textbook Pages** | 1-91 |
-| **Core Theme** | Understanding, visualising, expanding, factorising, and applying algebraic identities. |
-| **Main Skill** | Recognising identity patterns and using them to simplify calculations, factor expressions, and solve problems. |
+| Detail                   | Learner-Friendly Information                                                                                   |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------- |
+| **Class**                | 9                                                                                                              |
+| **Subject**              | Maths                                                                                                          |
+| **Chapter**              | 4                                                                                                              |
+| **Actual Chapter Title** | Exploring Algebraic Identities                                                                                 |
+| **Raw File Header**      | "Linear Equations in Two Variables"                                                                            |
+| **Textbook Pages**       | 1-91                                                                                                           |
+| **Core Theme**           | Understanding, visualising, expanding, factorising, and applying algebraic identities.                         |
+| **Main Skill**           | Recognising identity patterns and using them to simplify calculations, factor expressions, and solve problems. |
 
 > [!NOTE]
 > The raw source file is `chapter_04.md` and its extraction header says "Linear Equations in Two Variables", but the actual chapter content is **Exploring Algebraic Identities**. This learner-facing version follows the actual chapter content.
@@ -23,17 +24,17 @@
 
 ## Section Structure
 
-| Section | Title | Main Learning Focus |
-|---|---|---|
-| **4.0** | Introduction | Patterns and the need for algebraic identities. |
-| **4.1** | Introduction | Difference between equation and identity. |
-| **4.2** | Visualising Identities | Area models for \((a+b)^2\) and \((a-b)^2\). |
-| **4.3** | Factorisation Using Identities | Recognising perfect-square trinomials and using identities backwards. |
-| **4.4** | More Identities | \((a+b+c)^2\), \(a^2-b^2\), and related calculation methods. |
-| **4.5** | Factorisation Using Algebra Tiles | Visual factorisation of quadratic expressions. |
-| **4.6** | Factorisation Without Algebra Tiles | Splitting the middle term and factoring quadratics. |
-| **4.7** | Finding New Identities | Cubic identities and identities involving three variables. |
-| **4.8** | Simplifying Rational Expressions | Factor, cancel common factors, and respect non-zero denominators. |
+| Section | Title                               | Main Learning Focus                                                   |
+| ------- | ----------------------------------- | --------------------------------------------------------------------- |
+| **4.0** | Introduction                        | Patterns and the need for algebraic identities.                       |
+| **4.1** | Introduction                        | Difference between equation and identity.                             |
+| **4.2** | Visualising Identities              | Area models for \((a+b)^2\) and \((a-b)^2\).                          |
+| **4.3** | Factorisation Using Identities      | Recognising perfect-square trinomials and using identities backwards. |
+| **4.4** | More Identities                     | \((a+b+c)^2\), \(a^2-b^2\), and related calculation methods.          |
+| **4.5** | Factorisation Using Algebra Tiles   | Visual factorisation of quadratic expressions.                        |
+| **4.6** | Factorisation Without Algebra Tiles | Splitting the middle term and factoring quadratics.                   |
+| **4.7** | Finding New Identities              | Cubic identities and identities involving three variables.            |
+| **4.8** | Simplifying Rational Expressions    | Factor, cancel common factors, and respect non-zero denominators.     |
 
 ---
 
@@ -41,17 +42,17 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Define identity** | Distinguish algebraic identities from equations. |
-| **Visualise identities** | Use areas of squares and rectangles to understand identities. |
-| **Expand expressions** | Expand squares, products, and cubes using identities. |
-| **Calculate efficiently** | Use identities to square or multiply numbers mentally. |
-| **Factor expressions** | Recognise and factor perfect squares, differences of squares, and quadratic expressions. |
-| **Use algebra tiles conceptually** | Understand why middle-term splitting works. |
-| **Simplify rational expressions** | Factor numerator and denominator, then cancel common non-zero factors. |
-| **Apply cubic identities** | Use \((x+y)^3\), \((x-y)^3\), \(x^3-y^3\), and \(x^3+y^3\). |
-| **Solve geometric applications** | Interpret algebraic factors as dimensions of rectangles and cuboids. |
+| Outcome                            | You Should Be Able To...                                                                 |
+| ---------------------------------- | ---------------------------------------------------------------------------------------- |
+| **Define identity**                | Distinguish algebraic identities from equations.                                         |
+| **Visualise identities**           | Use areas of squares and rectangles to understand identities.                            |
+| **Expand expressions**             | Expand squares, products, and cubes using identities.                                    |
+| **Calculate efficiently**          | Use identities to square or multiply numbers mentally.                                   |
+| **Factor expressions**             | Recognise and factor perfect squares, differences of squares, and quadratic expressions. |
+| **Use algebra tiles conceptually** | Understand why middle-term splitting works.                                              |
+| **Simplify rational expressions**  | Factor numerator and denominator, then cancel common non-zero factors.                   |
+| **Apply cubic identities**         | Use \((x+y)^3\), \((x-y)^3\), \(x^3-y^3\), and \(x^3+y^3\).                              |
+| **Solve geometric applications**   | Interpret algebraic factors as dimensions of rectangles and cuboids.                     |
 
 ---
 
@@ -72,18 +73,18 @@ Identities are useful because they let us:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Equation** | Statement true for some values of variables. |
-| **Identity** | Equation true for all allowed values of variables. |
-| **Expansion** | Rewriting a product as a sum of terms. |
-| **Factorisation** | Rewriting an expression as a product of factors. |
-| **Factor** | Expression that divides another expression exactly. |
-| **Perfect-square trinomial** | Expression like \(a^2+2ab+b^2\) or \(a^2-2ab+b^2\). |
-| **Difference of squares** | Expression of the form \(a^2-b^2\). |
-| **Algebra tiles** | Visual blocks representing \(x^2\), \(x\), and unit terms. |
+| Term                              | Meaning                                                                |
+| --------------------------------- | ---------------------------------------------------------------------- |
+| **Equation**                      | Statement true for some values of variables.                           |
+| **Identity**                      | Equation true for all allowed values of variables.                     |
+| **Expansion**                     | Rewriting a product as a sum of terms.                                 |
+| **Factorisation**                 | Rewriting an expression as a product of factors.                       |
+| **Factor**                        | Expression that divides another expression exactly.                    |
+| **Perfect-square trinomial**      | Expression like \(a^2+2ab+b^2\) or \(a^2-2ab+b^2\).                    |
+| **Difference of squares**         | Expression of the form \(a^2-b^2\).                                    |
+| **Algebra tiles**                 | Visual blocks representing \(x^2\), \(x\), and unit terms.             |
 | **Rational algebraic expression** | Fraction whose numerator and/or denominator are algebraic expressions. |
-| **Common factor** | Factor shared by two or more terms or expressions. |
+| **Common factor**                 | Factor shared by two or more terms or expressions.                     |
 
 ---
 
@@ -232,12 +233,12 @@ Split the side into \(a\) and \(b\).
 
 The square breaks into:
 
-| Part | Area |
-|---|---|
-| Square of side \(a\) | \(a^2\) |
-| Square of side \(b\) | \(b^2\) |
-| Rectangle \(a\times b\) | \(ab\) |
-| Another rectangle \(a\times b\) | \(ab\) |
+| Part                            | Area    |
+| ------------------------------- | ------- |
+| Square of side \(a\)            | \(a^2\) |
+| Square of side \(b\)            | \(b^2\) |
+| Rectangle \(a\times b\)         | \(ab\)  |
+| Another rectangle \(a\times b\) | \(ab\)  |
 
 Total area:
 
@@ -321,11 +322,11 @@ $$
 
 the sign of \(2ab\) decides.
 
-| Condition | Result |
-|---|---|
-| \(ab>0\) | \((a+b)^2>a^2+b^2\) |
-| \(ab<0\) | \((a+b)^2<a^2+b^2\) |
-| \(ab=0\) | \((a+b)^2=a^2+b^2\) |
+| Condition | Result              |
+| --------- | ------------------- |
+| \(ab>0\)  | \((a+b)^2>a^2+b^2\) |
+| \(ab<0\)  | \((a+b)^2<a^2+b^2\) |
+| \(ab=0\)  | \((a+b)^2=a^2+b^2\) |
 
 ---
 
@@ -737,12 +738,12 @@ $$
 
 ## Core Identities So Far
 
-| Identity | Use |
-|---|---|
-| \((a+b)^2=a^2+2ab+b^2\) | Square of sum |
-| \((a-b)^2=a^2-2ab+b^2\) | Square of difference |
+| Identity                              | Use                   |
+| ------------------------------------- | --------------------- |
+| \((a+b)^2=a^2+2ab+b^2\)               | Square of sum         |
+| \((a-b)^2=a^2-2ab+b^2\)               | Square of difference  |
 | \((a+b+c)^2=a^2+b^2+c^2+2ab+2bc+2ca\) | Square of three terms |
-| \(a^2-b^2=(a+b)(a-b)\) | Difference of squares |
+| \(a^2-b^2=(a+b)(a-b)\)                | Difference of squares |
 
 ---
 
@@ -750,11 +751,11 @@ $$
 
 Algebra tiles represent algebraic expressions visually.
 
-| Tile | Represents |
-|---|---|
-| Large square | \(x^2\) |
-| Rectangle | \(x\) |
-| Small square | \(1\) |
+| Tile         | Represents |
+| ------------ | ---------- |
+| Large square | \(x^2\)    |
+| Rectangle    | \(x\)      |
+| Small square | \(1\)      |
 
 ### Example: \((x+3)(x+4)\)
 
@@ -897,9 +898,9 @@ $$
 Find two numbers whose:
 
 | Requirement | Value |
-|---|---:|
-| Sum | 11 |
-| Product | 30 |
+| ----------- | ----: |
+| Sum         |    11 |
+| Product     |    30 |
 
 Numbers:
 
@@ -1350,9 +1351,9 @@ $$
 Possible dimensions:
 
 | Dimension | Expression |
-|---|---|
-| Length | \(x+5\) |
-| Breadth | \(x+3\) |
+| --------- | ---------- |
+| Length    | \(x+5\)    |
+| Breadth   | \(x+3\)    |
 
 ---
 
@@ -1426,27 +1427,27 @@ $$
 Answer:
 
 | Dimension | Value |
-|---|---:|
-| Length | 12 m |
-| Breadth | 8 m |
+| --------- | ----: |
+| Length    |  12 m |
+| Breadth   |   8 m |
 
 ---
 
 ## Master Identity Sheet
 
-| No. | Identity |
-|---:|---|
-| 1 | \((x+y)^2=x^2+2xy+y^2\) |
-| 2 | \((x-y)^2=x^2-2xy+y^2\) |
-| 3 | \((x+y+z)^2=x^2+y^2+z^2+2xy+2yz+2zx\) |
-| 4 | \((x+y)(x-y)=x^2-y^2\) |
-| 5 | \((x+a)(x+b)=x^2+(a+b)x+ab\) |
-| 6 | \((ax+b)(cx+d)=acx^2+(ad+bc)x+bd\) |
-| 7 | \(x^3-y^3=(x-y)(x^2+xy+y^2)\) |
-| 8 | \(x^3+y^3=(x+y)(x^2-xy+y^2)\) |
-| 9 | \((x+y)^3=x^3+3x^2y+3xy^2+y^3\) |
-| 10 | \((x-y)^3=x^3-3x^2y+3xy^2-y^3\) |
-| 11 | \(x^3+y^3+z^3-3xyz=(x+y+z)(x^2+y^2+z^2-xy-xz-yz)\) |
+| No. | Identity                                           |
+| --: | -------------------------------------------------- |
+|   1 | \((x+y)^2=x^2+2xy+y^2\)                            |
+|   2 | \((x-y)^2=x^2-2xy+y^2\)                            |
+|   3 | \((x+y+z)^2=x^2+y^2+z^2+2xy+2yz+2zx\)              |
+|   4 | \((x+y)(x-y)=x^2-y^2\)                             |
+|   5 | \((x+a)(x+b)=x^2+(a+b)x+ab\)                       |
+|   6 | \((ax+b)(cx+d)=acx^2+(ad+bc)x+bd\)                 |
+|   7 | \(x^3-y^3=(x-y)(x^2+xy+y^2)\)                      |
+|   8 | \(x^3+y^3=(x+y)(x^2-xy+y^2)\)                      |
+|   9 | \((x+y)^3=x^3+3x^2y+3xy^2+y^3\)                    |
+|  10 | \((x-y)^3=x^3-3x^2y+3xy^2-y^3\)                    |
+|  11 | \(x^3+y^3+z^3-3xyz=(x+y+z)(x^2+y^2+z^2-xy-xz-yz)\) |
 
 ---
 
@@ -1454,15 +1455,15 @@ Answer:
 
 ### Perfect Square
 
-| Expression Form | Factor |
-|---|---|
+| Expression Form | Factor      |
+| --------------- | ----------- |
 | \(a^2+2ab+b^2\) | \((a+b)^2\) |
 | \(a^2-2ab+b^2\) | \((a-b)^2\) |
 
 ### Difference of Squares
 
-| Expression | Factor |
-|---|---|
+| Expression  | Factor         |
+| ----------- | -------------- |
 | \(a^2-b^2\) | \((a+b)(a-b)\) |
 
 ### Quadratic \(x^2+px+q\)
@@ -1498,17 +1499,17 @@ Use middle-term splitting:
 
 ## Common Mistakes
 
-| Mistake | Correction |
-|---|---|
-| Writing \((a+b)^2=a^2+b^2\). | Missing term is \(2ab\). |
-| Treating an equation as an identity. | An identity must be true for all allowed values. |
-| Forgetting signs in \((a-b)^2\). | Middle term is \(-2ab\), last term is \(+b^2\). |
-| Factoring \(a^2-b^2\) as \((a-b)^2\). | Correct factorisation is \((a+b)(a-b)\). |
-| Cancelling terms instead of factors. | Only common factors can be cancelled. |
-| Cancelling a factor without checking denominator restrictions. | Cancel only if the factor is non-zero. |
-| Middle-term split uses any product pair. | Pair must satisfy both sum and product conditions. |
-| Forgetting common factor before using identity. | Take common factor first when needed. |
-| Confusing \(x^3+y^3\) with \((x+y)^3\). | \(x^3+y^3=(x+y)(x^2-xy+y^2)\). |
+| Mistake                                                        | Correction                                         |
+| -------------------------------------------------------------- | -------------------------------------------------- |
+| Writing \((a+b)^2=a^2+b^2\).                                   | Missing term is \(2ab\).                           |
+| Treating an equation as an identity.                           | An identity must be true for all allowed values.   |
+| Forgetting signs in \((a-b)^2\).                               | Middle term is \(-2ab\), last term is \(+b^2\).    |
+| Factoring \(a^2-b^2\) as \((a-b)^2\).                          | Correct factorisation is \((a+b)(a-b)\).           |
+| Cancelling terms instead of factors.                           | Only common factors can be cancelled.              |
+| Cancelling a factor without checking denominator restrictions. | Cancel only if the factor is non-zero.             |
+| Middle-term split uses any product pair.                       | Pair must satisfy both sum and product conditions. |
+| Forgetting common factor before using identity.                | Take common factor first when needed.              |
+| Confusing \(x^3+y^3\) with \((x+y)^3\).                        | \(x^3+y^3=(x+y)(x^2-xy+y^2)\).                     |
 
 ---
 
@@ -1516,43 +1517,43 @@ Use middle-term splitting:
 
 ### A. Expanding and Calculating
 
-| Q | Question Focus | Best Identity |
-|---|---|---|
-| **Exercise 4.1 Q1** | Expand squares of binomials | \((a+b)^2\) |
-| **Exercise 4.1 Q2** | Calculate \(64^2,105^2,205^2\) | \((a+b)^2\) |
-| **Exercise 4.2 Q2** | Calculate \(79^2,193^2,299^2\) | \((a-b)^2\) |
+| Q                   | Question Focus                         | Best Identity                                     |
+| ------------------- | -------------------------------------- | ------------------------------------------------- |
+| **Exercise 4.1 Q1** | Expand squares of binomials            | \((a+b)^2\)                                       |
+| **Exercise 4.1 Q2** | Calculate \(64^2,105^2,205^2\)         | \((a+b)^2\)                                       |
+| **Exercise 4.2 Q2** | Calculate \(79^2,193^2,299^2\)         | \((a-b)^2\)                                       |
 | **Exercise 4.3 Q1** | Calculate squares like \(117^2,198^2\) | Choose \((a+b)^2\), \((a-b)^2\), or \((a+b+c)^2\) |
-| **End Q1** | Expand products | Use suitable identity from master sheet. |
-| **End Q2** | Calculate products and cubes | Use difference of squares or cube identities. |
+| **End Q1**          | Expand products                        | Use suitable identity from master sheet.          |
+| **End Q2**          | Calculate products and cubes           | Use difference of squares or cube identities.     |
 
 ### B. Factorisation
 
-| Q | Question Focus | Best Method |
-|---|---|---|
-| **Exercise 4.2 Q1** | Perfect-square trinomials | Recognise \(a^2+2ab+b^2\). |
-| **Exercise 4.3 Q2** | Factor using identities | Perfect square, square of three terms, difference of squares. |
-| **Exercise 4.4 Q1** | Fill factor blanks | Use middle-term splitting. |
-| **Exercise 4.4 Q3** | Factor expressions | Use identity recognition first, then splitting. |
-| **End Q3** | Factor many forms | Match with master identities. |
+| Q                   | Question Focus            | Best Method                                                   |
+| ------------------- | ------------------------- | ------------------------------------------------------------- |
+| **Exercise 4.2 Q1** | Perfect-square trinomials | Recognise \(a^2+2ab+b^2\).                                    |
+| **Exercise 4.3 Q2** | Factor using identities   | Perfect square, square of three terms, difference of squares. |
+| **Exercise 4.4 Q1** | Fill factor blanks        | Use middle-term splitting.                                    |
+| **Exercise 4.4 Q3** | Factor expressions        | Use identity recognition first, then splitting.               |
+| **End Q3**          | Factor many forms         | Match with master identities.                                 |
 
 ### C. Rational Expressions and Geometry
 
-| Q | Question Focus | Best Method |
-|---|---|---|
-| **Exercise 4.5 Q1** | Simplify rational expressions | Factor numerator and denominator, cancel common factors. |
-| **End Q5** | Rectangle dimensions from area | Factor area expression. |
-| **End Q6** | Cuboid dimensions from volume | Factor volume expression. |
-| **End Q7** | Path around square | Use area difference. |
-| **End Q9** | Pool length from area and width | Divide or factor expression. |
+| Q                   | Question Focus                  | Best Method                                              |
+| ------------------- | ------------------------------- | -------------------------------------------------------- |
+| **Exercise 4.5 Q1** | Simplify rational expressions   | Factor numerator and denominator, cancel common factors. |
+| **End Q5**          | Rectangle dimensions from area  | Factor area expression.                                  |
+| **End Q6**          | Cuboid dimensions from volume   | Factor volume expression.                                |
+| **End Q7**          | Path around square              | Use area difference.                                     |
+| **End Q9**          | Pool length from area and width | Divide or factor expression.                             |
 
 ### D. Advanced Identities
 
-| Q | Question Focus | Best Method |
-|---|---|---|
+| Q           | Question Focus                 | Best Method                    |
+| ----------- | ------------------------------ | ------------------------------ |
 | **End Q10** | Factor theorem-style condition | Substitute roots from factors. |
-| **End Q11** | Prove cubic expression | Use \(x^3+y^3+z^3-3xyz\). |
-| **End Q12** | Show \(n^3-n\) divisible by 6 | Factor as \(n(n-1)(n+1)\). |
-| **End Q13** | Evaluate cubic expressions | Convert using cube identities. |
+| **End Q11** | Prove cubic expression         | Use \(x^3+y^3+z^3-3xyz\).      |
+| **End Q12** | Show \(n^3-n\) divisible by 6  | Factor as \(n(n-1)(n+1)\).     |
+| **End Q13** | Evaluate cubic expressions     | Convert using cube identities. |
 
 ---
 
@@ -1895,24 +1896,24 @@ $$
 
 ### Expansion Direction
 
-| If You See | Use |
-|---|---|
-| \((a+b)^2\) | \(a^2+2ab+b^2\) |
-| \((a-b)^2\) | \(a^2-2ab+b^2\) |
+| If You See    | Use                         |
+| ------------- | --------------------------- |
+| \((a+b)^2\)   | \(a^2+2ab+b^2\)             |
+| \((a-b)^2\)   | \(a^2-2ab+b^2\)             |
 | \((a+b+c)^2\) | \(a^2+b^2+c^2+2ab+2bc+2ca\) |
-| \((a+b)^3\) | \(a^3+3a^2b+3ab^2+b^3\) |
-| \((a-b)^3\) | \(a^3-3a^2b+3ab^2-b^3\) |
+| \((a+b)^3\)   | \(a^3+3a^2b+3ab^2+b^3\)     |
+| \((a-b)^3\)   | \(a^3-3a^2b+3ab^2-b^3\)     |
 
 ### Factorisation Direction
 
-| If You See | Factor As |
-|---|---|
-| \(a^2+2ab+b^2\) | \((a+b)^2\) |
-| \(a^2-2ab+b^2\) | \((a-b)^2\) |
-| \(a^2-b^2\) | \((a+b)(a-b)\) |
-| \(x^2+(a+b)x+ab\) | \((x+a)(x+b)\) |
-| \(x^3-y^3\) | \((x-y)(x^2+xy+y^2)\) |
-| \(x^3+y^3\) | \((x+y)(x^2-xy+y^2)\) |
+| If You See        | Factor As             |
+| ----------------- | --------------------- |
+| \(a^2+2ab+b^2\)   | \((a+b)^2\)           |
+| \(a^2-2ab+b^2\)   | \((a-b)^2\)           |
+| \(a^2-b^2\)       | \((a+b)(a-b)\)        |
+| \(x^2+(a+b)x+ab\) | \((x+a)(x+b)\)        |
+| \(x^3-y^3\)       | \((x-y)(x^2+xy+y^2)\) |
+| \(x^3+y^3\)       | \((x+y)(x^2-xy+y^2)\) |
 
 ---
 
@@ -1970,4 +1971,3 @@ Identities are useful both ways: they expand products and factor expressions. Fo
 Cubic identities include \((a+b)^3=a^3+3a^2b+3ab^2+b^3\), \((a-b)^3=a^3-3a^2b+3ab^2-b^3\), \(x^3-y^3=(x-y)(x^2+xy+y^2)\), and \(x^3+y^3=(x+y)(x^2-xy+y^2)\).
 
 Rational algebraic expressions are simplified by factoring numerator and denominator and cancelling common factors only when those factors are non-zero. Identities therefore connect expansion, factorisation, geometry, arithmetic shortcuts, and algebraic simplification.
-

@@ -1,36 +1,37 @@
 # Chapter 1: Development
+
 ### NCERT Class 10 - Social Economics
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 10 |
-| **Subject** | Social Economics |
-| **Chapter** | 1 |
-| **Textbook Pages** | 1-16 |
-| **Core Theme** | Development is not only about higher income. It is about better life conditions, dignity, security, equality, public facilities, and sustainability. |
-| **Main Skills** | Identifying developmental goals, comparing income and non-income indicators, reading development data, explaining public facilities, and evaluating sustainable development. |
+| Detail             | Learner-Friendly Information                                                                                                                                                 |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Class**          | 10                                                                                                                                                                           |
+| **Subject**        | Social Economics                                                                                                                                                             |
+| **Chapter**        | 1                                                                                                                                                                            |
+| **Textbook Pages** | 1-16                                                                                                                                                                         |
+| **Core Theme**     | Development is not only about higher income. It is about better life conditions, dignity, security, equality, public facilities, and sustainability.                         |
+| **Main Skills**    | Identifying developmental goals, comparing income and non-income indicators, reading development data, explaining public facilities, and evaluating sustainable development. |
 
 ---
 
 ## Section Structure
 
-| Unit | Topic | Main Learning Focus |
-|---|---|---|
-| **1A** | Meaning of Development | Why people think about progress, better life, and social change. |
-| **1B** | Different People, Different Goals | Why development goals vary according to life situation. |
-| **1C** | Income and Other Goals | Why income matters but is not the whole of development. |
-| **1D** | National Development | How to think about development for a country fairly. |
-| **1E** | Comparing Countries and States | Why income and per capita income are used for comparison. |
-| **1F** | Average Income and Inequality | How averages help comparison and also hide disparities. |
-| **1G** | Income and Other Criteria | Why health, education, and quality of life must be included. |
-| **1H** | Public Facilities | Why some goods and services are best provided collectively. |
-| **1I** | Human Development | How UNDP compares countries using income, health, and education. |
-| **1J** | Sustainability | Why development must not destroy resources for future generations. |
-| **1K** | Answer Writing | How to write strong economics answers from this chapter. |
+| Unit   | Topic                             | Main Learning Focus                                                |
+| ------ | --------------------------------- | ------------------------------------------------------------------ |
+| **1A** | Meaning of Development            | Why people think about progress, better life, and social change.   |
+| **1B** | Different People, Different Goals | Why development goals vary according to life situation.            |
+| **1C** | Income and Other Goals            | Why income matters but is not the whole of development.            |
+| **1D** | National Development              | How to think about development for a country fairly.               |
+| **1E** | Comparing Countries and States    | Why income and per capita income are used for comparison.          |
+| **1F** | Average Income and Inequality     | How averages help comparison and also hide disparities.            |
+| **1G** | Income and Other Criteria         | Why health, education, and quality of life must be included.       |
+| **1H** | Public Facilities                 | Why some goods and services are best provided collectively.        |
+| **1I** | Human Development                 | How UNDP compares countries using income, health, and education.   |
+| **1J** | Sustainability                    | Why development must not destroy resources for future generations. |
+| **1K** | Answer Writing                    | How to write strong economics answers from this chapter.           |
 
 ---
 
@@ -38,43 +39,43 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Define development** | Explain development as improvement in people's lives, not only increase in income. |
-| **Recognise different goals** | Show how different people may want different or even conflicting things from development. |
-| **Explain non-income goals** | Discuss dignity, freedom, security, equality, respect, health, education, and clean environment. |
-| **Use per capita income** | Calculate and interpret average income as total income divided by population. |
-| **Criticise averages** | Explain why average income hides inequality. |
-| **Compare indicators** | Compare states/countries using income, literacy, IMR, attendance ratio, life expectancy, and HDI. |
+| Outcome                       | You Should Be Able To...                                                                               |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------ |
+| **Define development**        | Explain development as improvement in people's lives, not only increase in income.                     |
+| **Recognise different goals** | Show how different people may want different or even conflicting things from development.              |
+| **Explain non-income goals**  | Discuss dignity, freedom, security, equality, respect, health, education, and clean environment.       |
+| **Use per capita income**     | Calculate and interpret average income as total income divided by population.                          |
+| **Criticise averages**        | Explain why average income hides inequality.                                                           |
+| **Compare indicators**        | Compare states/countries using income, literacy, IMR, attendance ratio, life expectancy, and HDI.      |
 | **Explain public facilities** | Show why schools, healthcare, sanitation, ration shops, roads, and security need collective provision. |
-| **Discuss sustainability** | Explain why renewable and non-renewable resources must be used carefully. |
-| **Write exam answers** | Use definition, example, comparison, limitation, and conclusion in answer form. |
+| **Discuss sustainability**    | Explain why renewable and non-renewable resources must be used carefully.                              |
+| **Write exam answers**        | Use definition, example, comparison, limitation, and conclusion in answer form.                        |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Development** | A process of improving people's quality of life through income, security, dignity, freedom, equality, education, health, and sustainability. |
-| **Developmental goal** | A condition or achievement that a person, group, region, or country wants in order to live better. |
-| **Conflicting goals** | Goals where one person's or group's benefit may harm another person's or group's interest. |
-| **Income** | Money earned from work, business, farming, property, or other economic activity. |
-| **Non-material goals** | Goals that are not directly bought with money, such as respect, equality, freedom, safety, and dignity. |
-| **National development** | Thinking about what is fair, beneficial, and desirable for the country as a whole. |
-| **Total income** | Sum of incomes of all residents of a country or state. |
-| **Average income** | Total income divided by total population. |
-| **Per capita income** | Average income per person; used by the World Bank to compare countries. |
-| **Infant Mortality Rate (IMR)** | Number of children who die before one year of age per 1000 live births in a year. |
-| **Literacy rate** | Percentage of people aged 7 years and above who can read and write with understanding. |
-| **Net Attendance Ratio** | Percentage of children in a particular age group who are attending school. |
-| **Public facilities** | Goods and services provided collectively, usually by government, such as schools, healthcare, roads, sanitation, and ration shops. |
-| **Human Development Index (HDI)** | UNDP measure comparing countries using health, education, and income indicators. |
-| **Life expectancy** | Average number of years a person is expected to live at birth. |
-| **Gross National Income (GNI) per capita** | Average income of people of a country, often adjusted for purchasing power comparison. |
-| **Sustainable development** | Development that meets present needs without damaging the ability of future generations to meet their needs. |
-| **Renewable resources** | Resources replenished by nature, such as groundwater, forests, crops, and solar energy, if not overused. |
-| **Non-renewable resources** | Resources available in fixed stock, such as crude oil and coal, which get exhausted after use. |
+| Term                                       | Meaning                                                                                                                                      |
+| ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Development**                            | A process of improving people's quality of life through income, security, dignity, freedom, equality, education, health, and sustainability. |
+| **Developmental goal**                     | A condition or achievement that a person, group, region, or country wants in order to live better.                                           |
+| **Conflicting goals**                      | Goals where one person's or group's benefit may harm another person's or group's interest.                                                   |
+| **Income**                                 | Money earned from work, business, farming, property, or other economic activity.                                                             |
+| **Non-material goals**                     | Goals that are not directly bought with money, such as respect, equality, freedom, safety, and dignity.                                      |
+| **National development**                   | Thinking about what is fair, beneficial, and desirable for the country as a whole.                                                           |
+| **Total income**                           | Sum of incomes of all residents of a country or state.                                                                                       |
+| **Average income**                         | Total income divided by total population.                                                                                                    |
+| **Per capita income**                      | Average income per person; used by the World Bank to compare countries.                                                                      |
+| **Infant Mortality Rate (IMR)**            | Number of children who die before one year of age per 1000 live births in a year.                                                            |
+| **Literacy rate**                          | Percentage of people aged 7 years and above who can read and write with understanding.                                                       |
+| **Net Attendance Ratio**                   | Percentage of children in a particular age group who are attending school.                                                                   |
+| **Public facilities**                      | Goods and services provided collectively, usually by government, such as schools, healthcare, roads, sanitation, and ration shops.           |
+| **Human Development Index (HDI)**          | UNDP measure comparing countries using health, education, and income indicators.                                                             |
+| **Life expectancy**                        | Average number of years a person is expected to live at birth.                                                                               |
+| **Gross National Income (GNI) per capita** | Average income of people of a country, often adjusted for purchasing power comparison.                                                       |
+| **Sustainable development**                | Development that meets present needs without damaging the ability of future generations to meet their needs.                                 |
+| **Renewable resources**                    | Resources replenished by nature, such as groundwater, forests, crops, and solar energy, if not overused.                                     |
+| **Non-renewable resources**                | Resources available in fixed stock, such as crude oil and coal, which get exhausted after use.                                               |
 
 ---
 
@@ -112,11 +113,11 @@ Development is not a single fixed target. A person may call a change "developmen
 
 Example:
 
-| Situation | Why It Looks Like Development | Why It May Create Harm |
-|---|---|---|
-| Building a large dam | More electricity and irrigation for some regions. | Displacement of tribals, loss of forests, submergence of land. |
-| More industries | More production, jobs, and income. | Pollution, unsafe working conditions, land loss, or resource overuse. |
-| Large roads through forests | Faster transport and trade. | Loss of biodiversity and livelihood for forest communities. |
+| Situation                   | Why It Looks Like Development                     | Why It May Create Harm                                                |
+| --------------------------- | ------------------------------------------------- | --------------------------------------------------------------------- |
+| Building a large dam        | More electricity and irrigation for some regions. | Displacement of tribals, loss of forests, submergence of land.        |
+| More industries             | More production, jobs, and income.                | Pollution, unsafe working conditions, land loss, or resource overuse. |
+| Large roads through forests | Faster transport and trade.                       | Loss of biodiversity and livelihood for forest communities.           |
 
 ## Learner Insight
 
@@ -134,32 +135,32 @@ People have different developmental goals because their needs, problems, social 
 
 ## Examples of Developmental Goals
 
-| Person / Group | Likely Developmental Goals |
-|---|---|
-| **Landless rural labourer** | More days of work, better wages, no social discrimination, school for children, leadership rights in village. |
-| **Prosperous farmer in Punjab** | High crop prices, cheap labour, better irrigation, modern machines, good income, children settled well. |
-| **Rain-dependent farmer** | Reliable rainfall, irrigation, crop insurance, fair price, protection from drought. |
-| **Rural woman from land-owning family** | Freedom equal to her brother, education, respect, decision-making power, shared household work. |
-| **Urban unemployed youth** | A decent job, skill training, stable income, dignity, affordable housing. |
-| **Rich urban boy** | High-quality education, career opportunity, lifestyle, personal freedom. |
-| **Rich urban girl** | Same opportunities as boys, safety, freedom, higher studies, equality at home and outside. |
-| **Adivasi from Narmada valley** | Protection of land, forest, culture, livelihood, and fair rehabilitation if displaced. |
+| Person / Group                          | Likely Developmental Goals                                                                                    |
+| --------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| **Landless rural labourer**             | More days of work, better wages, no social discrimination, school for children, leadership rights in village. |
+| **Prosperous farmer in Punjab**         | High crop prices, cheap labour, better irrigation, modern machines, good income, children settled well.       |
+| **Rain-dependent farmer**               | Reliable rainfall, irrigation, crop insurance, fair price, protection from drought.                           |
+| **Rural woman from land-owning family** | Freedom equal to her brother, education, respect, decision-making power, shared household work.               |
+| **Urban unemployed youth**              | A decent job, skill training, stable income, dignity, affordable housing.                                     |
+| **Rich urban boy**                      | High-quality education, career opportunity, lifestyle, personal freedom.                                      |
+| **Rich urban girl**                     | Same opportunities as boys, safety, freedom, higher studies, equality at home and outside.                    |
+| **Adivasi from Narmada valley**         | Protection of land, forest, culture, livelihood, and fair rehabilitation if displaced.                        |
 
 ## Two Clear Conclusions
 
-| Conclusion | Explanation |
-|---|---|
+| Conclusion                                | Explanation                                                                             |
+| ----------------------------------------- | --------------------------------------------------------------------------------------- |
 | **Different people have different goals** | People do not live in the same conditions, so they do not want exactly the same things. |
-| **Goals may conflict** | What helps one group may harm another group. |
+| **Goals may conflict**                    | What helps one group may harm another group.                                            |
 
 ## Conflicting Goals
 
-| Conflict | Why It Happens |
-|---|---|
-| Industrialists want large dams; displaced people oppose them. | Dams may help industry and electricity supply but submerge land and homes. |
-| A girl wants equal freedom; her brother may resist sharing household work. | Equality changes old power relations inside the family. |
-| Urban expansion needs land; farmers may lose fields. | City development may reduce rural livelihood security. |
-| A factory wants cheaper labour; workers want secure wages and rights. | Profit goals and labour dignity may clash. |
+| Conflict                                                                   | Why It Happens                                                             |
+| -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| Industrialists want large dams; displaced people oppose them.              | Dams may help industry and electricity supply but submerge land and homes. |
+| A girl wants equal freedom; her brother may resist sharing household work. | Equality changes old power relations inside the family.                    |
+| Urban expansion needs land; farmers may lose fields.                       | City development may reduce rural livelihood security.                     |
+| A factory wants cheaper labour; workers want secure wages and rights.      | Profit goals and labour dignity may clash.                                 |
 
 ## Exam Language
 
@@ -189,23 +190,23 @@ Without income, many basic needs remain unmet.
 
 Money cannot buy everything needed for a good life.
 
-| Non-Income Goal | Why It Matters |
-|---|---|
-| **Equal treatment** | People want dignity, not discrimination. |
-| **Freedom** | People want to choose education, work, movement, and life decisions. |
-| **Security** | People need stable work, safe homes, and protection from violence. |
-| **Respect** | Social dignity is essential for well-being. |
-| **Friendship and family time** | Emotional life cannot be reduced to money. |
-| **Clean environment** | Clean air and water depend on collective action, not only personal income. |
-| **Health and education** | These require public systems and social support. |
+| Non-Income Goal                | Why It Matters                                                             |
+| ------------------------------ | -------------------------------------------------------------------------- |
+| **Equal treatment**            | People want dignity, not discrimination.                                   |
+| **Freedom**                    | People want to choose education, work, movement, and life decisions.       |
+| **Security**                   | People need stable work, safe homes, and protection from violence.         |
+| **Respect**                    | Social dignity is essential for well-being.                                |
+| **Friendship and family time** | Emotional life cannot be reduced to money.                                 |
+| **Clean environment**          | Clean air and water depend on collective action, not only personal income. |
+| **Health and education**       | These require public systems and social support.                           |
 
 ## Job Example
 
 Suppose a person has two job options:
 
-| Job | Income | Other Conditions | Development Judgment |
-|---|---:|---|---|
-| **Job A** | High salary | No job security, unsafe workplace, no family time. | Income is high, but quality of life may be poor. |
+| Job       |       Income | Other Conditions                                           | Development Judgment                                     |
+| --------- | -----------: | ---------------------------------------------------------- | -------------------------------------------------------- |
+| **Job A** |  High salary | No job security, unsafe workplace, no family time.         | Income is high, but quality of life may be poor.         |
 | **Job B** | Lower salary | Regular employment, safe atmosphere, learning opportunity. | Income is lower, but security and dignity may be better. |
 
 ## Women's Work Example
@@ -234,14 +235,14 @@ It asks:
 
 Different groups imagine national development differently.
 
-| Group | Possible View of National Development |
-|---|---|
-| Industrialists | More factories, power, roads, exports, and investment. |
-| Farmers | Irrigation, crop prices, credit, insurance, and stable markets. |
-| Workers | Secure employment, fair wages, social security, and safe conditions. |
-| Students | Better schools, colleges, skill training, and jobs. |
-| Adivasis | Protection of land, forests, culture, and livelihood. |
-| Environmentalists | Conservation, pollution control, and sustainable resource use. |
+| Group             | Possible View of National Development                                |
+| ----------------- | -------------------------------------------------------------------- |
+| Industrialists    | More factories, power, roads, exports, and investment.               |
+| Farmers           | Irrigation, crop prices, credit, insurance, and stable markets.      |
+| Workers           | Secure employment, fair wages, social security, and safe conditions. |
+| Students          | Better schools, colleges, skill training, and jobs.                  |
+| Adivasis          | Protection of land, forests, culture, and livelihood.                |
+| Environmentalists | Conservation, pollution control, and sustainable resource use.       |
 
 ## Fair Development
 
@@ -291,10 +292,10 @@ Total income is not good for comparing countries with different populations.
 
 Example:
 
-| Country | Total Income | Population | Why Total Income Misleads |
----|---:|---:|---|
-| Country X | Very high | Very large | Average person may not be rich. |
-| Country Y | Lower | Very small | Average person may be richer. |
+| Country   | Total Income | Population | Why Total Income Misleads       |
+| --------- | -----------: | ---------: | ------------------------------- |
+| Country X |    Very high | Very large | Average person may not be rich. |
+| Country Y |        Lower | Very small | Average person may be richer.   |
 
 ## Per Capita Income
 
@@ -312,10 +313,10 @@ The World Bank uses per capita income to classify countries into income groups.
 
 In the NCERT data:
 
-| Category | Per Capita Income Criterion |
-|---|---|
-| **Rich countries** | US$ 12,236 per annum and above in 2016. |
-| **Low-income countries** | US$ 1,005 per annum or less in 2016. |
+| Category                     | Per Capita Income Criterion                                           |
+| ---------------------------- | --------------------------------------------------------------------- |
+| **Rich countries**           | US$ 12,236 per annum and above in 2016.                               |
+| **Low-income countries**     | US$ 1,005 per annum or less in 2016.                                  |
 | **India's position in 2016** | Low middle income, with per capita income around US$ 1,840 per annum. |
 
 ## Limitation
@@ -343,23 +344,23 @@ Average income = Total income / Total population
 
 Assume two countries have five citizens each.
 
-| Citizen | Country A Income | Country B Income |
-|---|---:|---:|
-| I | 9,500 | 500 |
-| II | 10,500 | 500 |
-| III | 9,800 | 500 |
-| IV | 10,000 | 500 |
-| V | 10,200 | 48,000 |
-| **Total** | **50,000** | **50,000** |
-| **Average** | **10,000** | **10,000** |
+| Citizen     | Country A Income | Country B Income |
+| ----------- | ---------------: | ---------------: |
+| I           |            9,500 |              500 |
+| II          |           10,500 |              500 |
+| III         |            9,800 |              500 |
+| IV          |           10,000 |              500 |
+| V           |           10,200 |           48,000 |
+| **Total**   |       **50,000** |       **50,000** |
+| **Average** |       **10,000** |       **10,000** |
 
 Both countries have the same average income, but they are not equally developed in a real sense.
 
 ## What the Example Teaches
 
-| Country | Income Distribution | Development Meaning |
-|---|---|---|
-| **Country A** | Income is fairly equal. | Most citizens have a decent income. |
+| Country       | Income Distribution                               | Development Meaning                   |
+| ------------- | ------------------------------------------------- | ------------------------------------- |
+| **Country A** | Income is fairly equal.                           | Most citizens have a decent income.   |
 | **Country B** | One person is extremely rich; four are very poor. | Average hides poverty and inequality. |
 
 ## Key Lesson
@@ -383,11 +384,11 @@ NCERT compares Haryana, Kerala, and Bihar using per capita income and social ind
 
 ### Per Capita Income
 
-| State | Per Capita Income, 2015-16 |
-|---|---:|
-| Haryana | Rs 1,62,034 |
-| Kerala | Rs 1,55,516 |
-| Bihar | Rs 34,168 |
+| State   | Per Capita Income, 2015-16 |
+| ------- | -------------------------: |
+| Haryana |                Rs 1,62,034 |
+| Kerala  |                Rs 1,55,516 |
+| Bihar   |                  Rs 34,168 |
 
 If only income is used, Haryana appears ahead of Kerala.
 
@@ -395,11 +396,11 @@ But development cannot be judged only by income.
 
 ### Social Indicators
 
-| State | Infant Mortality Rate, 2015-16 | Literacy Rate | Net Attendance Ratio, age 14-15 |
-|---|---:|---:|---:|
-| Haryana | 36 | 82 | 61 |
-| Kerala | 12 | 94 | 83 |
-| Bihar | 42 | 62 | 43 |
+| State   | Infant Mortality Rate, 2015-16 | Literacy Rate | Net Attendance Ratio, age 14-15 |
+| ------- | -----------------------------: | ------------: | ------------------------------: |
+| Haryana |                             36 |            82 |                              61 |
+| Kerala  |                             12 |            94 |                              83 |
+| Bihar   |                             42 |            62 |                              43 |
 
 ## What the Data Shows
 
@@ -445,13 +446,13 @@ Examples:
 
 Many important goods cannot be purchased individually in an efficient or fair way.
 
-| Need | Why Individual Purchase Is Not Enough |
-|---|---|
-| **Pollution-free environment** | One rich person cannot buy clean air if the whole area is polluted. |
-| **Disease control** | Infectious diseases require community-level prevention. |
-| **Schooling** | A child can study properly only when schools, teachers, roads, and social support exist. |
-| **Security** | Collective security is cheaper and more effective than every house hiring private guards. |
-| **Food security** | A working Public Distribution System can help many families access food grains. |
+| Need                           | Why Individual Purchase Is Not Enough                                                     |
+| ------------------------------ | ----------------------------------------------------------------------------------------- |
+| **Pollution-free environment** | One rich person cannot buy clean air if the whole area is polluted.                       |
+| **Disease control**            | Infectious diseases require community-level prevention.                                   |
+| **Schooling**                  | A child can study properly only when schools, teachers, roads, and social support exist.  |
+| **Security**                   | Collective security is cheaper and more effective than every house hiring private guards. |
+| **Food security**              | A working Public Distribution System can help many families access food grains.           |
 
 ## Public Distribution System Example
 
@@ -459,10 +460,10 @@ If ration shops function well, poor households can access food grains at afforda
 
 NCERT compares Tamil Nadu and West Bengal:
 
-| State | Rural People Using Ration Shops |
-|---|---:|
-| Tamil Nadu | 90% |
-| West Bengal | 35% |
+| State       | Rural People Using Ration Shops |
+| ----------- | ------------------------------: |
+| Tamil Nadu  |                             90% |
+| West Bengal |                             35% |
 
 People are likely to be better off where the ration system works more effectively, because more households can access subsidised food.
 
@@ -489,23 +490,23 @@ Human development focuses on:
 
 The Human Development Report published by UNDP compares countries using indicators such as:
 
-| Indicator | What It Shows |
-|---|---|
-| **Per capita income / GNI per capita** | Average command over goods and services. |
-| **Life expectancy at birth** | Health and survival conditions. |
-| **Mean years of schooling** | Educational achievement of adults. |
-| **HDI rank** | Combined position based on health, education, and income. |
+| Indicator                              | What It Shows                                             |
+| -------------------------------------- | --------------------------------------------------------- |
+| **Per capita income / GNI per capita** | Average command over goods and services.                  |
+| **Life expectancy at birth**           | Health and survival conditions.                           |
+| **Mean years of schooling**            | Educational achievement of adults.                        |
+| **HDI rank**                           | Combined position based on health, education, and income. |
 
 ## India and Neighbouring Countries, 2015 Data
 
-| Country | GNI per capita, 2015 PPP $ | Life Expectancy | Mean Years of Schooling | HDI Rank, 2016 |
-|---|---:|---:|---:|---:|
-| Sri Lanka | 10,789 | 75 | 10.9 | 73 |
-| India | 5,663 | 68.3 | 6.3 | 131 |
-| Myanmar | 4,943 | 66.1 | 4.7 | 145 |
-| Pakistan | 5,031 | 66.4 | 5.1 | 147 |
-| Nepal | 2,377 | 70 | 4.1 | 145 |
-| Bangladesh | 3,341 | 72 | 5.2 | 139 |
+| Country    | GNI per capita, 2015 PPP $ | Life Expectancy | Mean Years of Schooling | HDI Rank, 2016 |
+| ---------- | -------------------------: | --------------: | ----------------------: | -------------: |
+| Sri Lanka  |                     10,789 |              75 |                    10.9 |             73 |
+| India      |                      5,663 |            68.3 |                     6.3 |            131 |
+| Myanmar    |                      4,943 |            66.1 |                     4.7 |            145 |
+| Pakistan   |                      5,031 |            66.4 |                     5.1 |            147 |
+| Nepal      |                      2,377 |              70 |                     4.1 |            145 |
+| Bangladesh |                      3,341 |              72 |                     5.2 |            139 |
 
 ## How to Read the Table
 
@@ -556,13 +557,13 @@ NCERT notes that many districts in India have reported serious decline in ground
 
 ## Why Groundwater Is Overused
 
-| Cause | Explanation |
-|---|---|
-| **Irrigation demand** | Farmers pump groundwater for water-intensive crops. |
-| **Urban growth** | Cities need water for households, construction, and services. |
-| **Industry** | Factories use groundwater for production and processing. |
-| **Weak regulation** | Many users extract water privately without enough community control. |
-| **Uneven rainfall** | Areas with uncertain rainfall depend more on groundwater. |
+| Cause                 | Explanation                                                          |
+| --------------------- | -------------------------------------------------------------------- |
+| **Irrigation demand** | Farmers pump groundwater for water-intensive crops.                  |
+| **Urban growth**      | Cities need water for households, construction, and services.        |
+| **Industry**          | Factories use groundwater for production and processing.             |
+| **Weak regulation**   | Many users extract water privately without enough community control. |
+| **Uneven rainfall**   | Areas with uncertain rainfall depend more on groundwater.            |
 
 ## Non-Renewable Resources
 
@@ -577,11 +578,11 @@ Examples:
 
 ## Crude Oil Example
 
-| Region / Country | Reserves, 2016 | Years Reserves Would Last |
-|---|---:|---:|
-| Middle East | 803 thousand million barrels | 69.9 years |
-| United States of America | 48 thousand million barrels | 10.6 years |
-| World | 1691.5 thousand million barrels | 50.6 years |
+| Region / Country         |                  Reserves, 2016 | Years Reserves Would Last |
+| ------------------------ | ------------------------------: | ------------------------: |
+| Middle East              |    803 thousand million barrels |                69.9 years |
+| United States of America |     48 thousand million barrels |                10.6 years |
+| World                    | 1691.5 thousand million barrels |                50.6 years |
 
 This shows that if extraction continues at the same rate, crude oil reserves will not last forever.
 
@@ -597,13 +598,13 @@ Sustainability is important because:
 
 ## Sustainable Development Examples
 
-| Problem | Sustainable Alternative |
-|---|---|
+| Problem                | Sustainable Alternative                                                       |
+| ---------------------- | ----------------------------------------------------------------------------- |
 | Overuse of groundwater | Rainwater harvesting, drip irrigation, crop planning, groundwater regulation. |
-| Fossil fuel dependence | Solar, wind, public transport, energy efficiency. |
-| Deforestation | Afforestation, community forest management, controlled use. |
-| Pollution | Cleaner technology, strict regulation, waste treatment. |
-| Unequal development | Public facilities, rights protection, democratic planning. |
+| Fossil fuel dependence | Solar, wind, public transport, energy efficiency.                             |
+| Deforestation          | Afforestation, community forest management, controlled use.                   |
+| Pollution              | Cleaner technology, strict regulation, waste treatment.                       |
+| Unequal development    | Public facilities, rights protection, democratic planning.                    |
 
 ---
 
@@ -621,17 +622,17 @@ Use this structure for most answers in this chapter:
 
 ## High-Value Examples to Remember
 
-| Example | Use It To Prove |
-|---|---|
-| Landless labourer vs prosperous farmer | Different people have different goals. |
-| Girl wanting same freedom as brother | Development includes equality and dignity. |
-| Dam and displaced adivasis | Development for one may be destructive for another. |
-| Country A and Country B average income | Averages hide inequality. |
-| Haryana and Kerala comparison | Income alone is not enough. |
-| Tamil Nadu ration shops | Public facilities improve welfare. |
-| Sri Lanka and India HDI data | Human development includes health and education. |
-| Groundwater overuse | Renewable resources can be exhausted locally. |
-| Crude oil reserves | Non-renewable resources are finite. |
+| Example                                | Use It To Prove                                     |
+| -------------------------------------- | --------------------------------------------------- |
+| Landless labourer vs prosperous farmer | Different people have different goals.              |
+| Girl wanting same freedom as brother   | Development includes equality and dignity.          |
+| Dam and displaced adivasis             | Development for one may be destructive for another. |
+| Country A and Country B average income | Averages hide inequality.                           |
+| Haryana and Kerala comparison          | Income alone is not enough.                         |
+| Tamil Nadu ration shops                | Public facilities improve welfare.                  |
+| Sri Lanka and India HDI data           | Human development includes health and education.    |
+| Groundwater overuse                    | Renewable resources can be exhausted locally.       |
+| Crude oil reserves                     | Non-renewable resources are finite.                 |
 
 ---
 
@@ -675,10 +676,10 @@ Limitations:
 
 ### 5. Difference between World Bank and UNDP criteria
 
-| World Bank | UNDP |
-|---|---|
-| Mainly uses per capita income. | Uses income, health, and education. |
-| Gives an income-based classification. | Gives a broader human development comparison. |
+| World Bank                                                         | UNDP                                               |
+| ------------------------------------------------------------------ | -------------------------------------------------- |
+| Mainly uses per capita income.                                     | Uses income, health, and education.                |
+| Gives an income-based classification.                              | Gives a broader human development comparison.      |
 | Does not directly include literacy, schooling, or life expectancy. | Includes life expectancy and schooling indicators. |
 
 ### 6. Why do we use averages? What are their limitations?
@@ -745,12 +746,12 @@ Examples:
 
 Using the given data:
 
-| Indicator | Top | Bottom |
-|---|---|---|
-| GNI per capita | Sri Lanka | Nepal |
-| Life expectancy | Sri Lanka | Myanmar |
-| Mean years of schooling | Sri Lanka | Nepal |
-| HDI rank | Sri Lanka | Pakistan |
+| Indicator               | Top       | Bottom   |
+| ----------------------- | --------- | -------- |
+| GNI per capita          | Sri Lanka | Nepal    |
+| Life expectancy         | Sri Lanka | Myanmar  |
+| Mean years of schooling | Sri Lanka | Nepal    |
+| HDI rank                | Sri Lanka | Pakistan |
 
 Note: A lower HDI rank number means better position.
 
@@ -764,34 +765,34 @@ Even when enough food exists in the country, many people may remain undernourish
 
 ## Quick Revision
 
-| Question | One-Line Recall |
-|---|---|
-| What is development? | Improvement in quality of life, not only income. |
-| Why do people have different goals? | Their life situations are different. |
-| Can goals conflict? | Yes, development for one may harm another. |
-| Why is income important? | It helps buy goods and services. |
-| Why is income not enough? | Respect, security, freedom, health, education, and environment also matter. |
-| What is per capita income? | Total income divided by total population. |
-| What is the limitation of average income? | It hides inequality. |
-| Why does Kerala perform better than Haryana in some indicators? | Better health and education facilities. |
-| Why are public facilities important? | Many essential services must be provided collectively. |
-| What does HDI include? | Health, education, and income. |
-| Why is sustainability important? | Future generations also need resources. |
+| Question                                                        | One-Line Recall                                                             |
+| --------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| What is development?                                            | Improvement in quality of life, not only income.                            |
+| Why do people have different goals?                             | Their life situations are different.                                        |
+| Can goals conflict?                                             | Yes, development for one may harm another.                                  |
+| Why is income important?                                        | It helps buy goods and services.                                            |
+| Why is income not enough?                                       | Respect, security, freedom, health, education, and environment also matter. |
+| What is per capita income?                                      | Total income divided by total population.                                   |
+| What is the limitation of average income?                       | It hides inequality.                                                        |
+| Why does Kerala perform better than Haryana in some indicators? | Better health and education facilities.                                     |
+| Why are public facilities important?                            | Many essential services must be provided collectively.                      |
+| What does HDI include?                                          | Health, education, and income.                                              |
+| Why is sustainability important?                                | Future generations also need resources.                                     |
 
 ---
 
 ## Practice Questions
 
-| Question | Strong Answer Shape |
-|---|---|
-| Why do different people have different developmental goals? | Definition -> life situation -> two examples -> conflict possibility. |
-| Explain why income is not the only goal of development. | Income importance -> non-material goals -> job/women/public facility example -> conclusion. |
-| What is national development? | Meaning -> fairness -> conflict -> democratic decision -> example. |
-| Why is per capita income used? | Total income problem -> formula -> comparison use -> limitation. |
-| How do averages hide disparities? | Define average -> Country A/B style example -> inequality conclusion. |
-| Why is Kerala ahead of Haryana in human development indicators? | Income comparison -> IMR/literacy/attendance -> role of public facilities. |
-| How is UNDP different from World Bank? | World Bank income criterion -> UNDP health, education, income -> broader development. |
-| Why is sustainable development necessary? | Resource limits -> groundwater/oil example -> future generations -> conclusion. |
+| Question                                                        | Strong Answer Shape                                                                         |
+| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Why do different people have different developmental goals?     | Definition -> life situation -> two examples -> conflict possibility.                       |
+| Explain why income is not the only goal of development.         | Income importance -> non-material goals -> job/women/public facility example -> conclusion. |
+| What is national development?                                   | Meaning -> fairness -> conflict -> democratic decision -> example.                          |
+| Why is per capita income used?                                  | Total income problem -> formula -> comparison use -> limitation.                            |
+| How do averages hide disparities?                               | Define average -> Country A/B style example -> inequality conclusion.                       |
+| Why is Kerala ahead of Haryana in human development indicators? | Income comparison -> IMR/literacy/attendance -> role of public facilities.                  |
+| How is UNDP different from World Bank?                          | World Bank income criterion -> UNDP health, education, income -> broader development.       |
+| Why is sustainable development necessary?                       | Resource limits -> groundwater/oil example -> future generations -> conclusion.             |
 
 ---
 

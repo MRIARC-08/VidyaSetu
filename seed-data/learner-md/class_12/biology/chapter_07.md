@@ -1,15 +1,16 @@
 # Chapter 7: Human Health and Disease
+
 ### NCERT Class 12 - Biology
 
 ## Chapter at a Glance
 
-| Item | Details |
-|---|---|
-| Main idea | Health is complete physical, mental, and social well-being, and disease occurs when normal body functioning is disturbed. |
-| Major themes | Infectious diseases, immunity, AIDS, cancer, drugs, and alcohol abuse. |
-| Defence focus | Innate and acquired immunity protect the body. |
-| Public health focus | Prevention, vaccination, hygiene, early diagnosis, and responsible behaviour. |
-| Most important skill | Link pathogen, disease, mode of transmission, symptoms, and prevention. |
+| Item                 | Details                                                                                                                   |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Main idea            | Health is complete physical, mental, and social well-being, and disease occurs when normal body functioning is disturbed. |
+| Major themes         | Infectious diseases, immunity, AIDS, cancer, drugs, and alcohol abuse.                                                    |
+| Defence focus        | Innate and acquired immunity protect the body.                                                                            |
+| Public health focus  | Prevention, vaccination, hygiene, early diagnosis, and responsible behaviour.                                             |
+| Most important skill | Link pathogen, disease, mode of transmission, symptoms, and prevention.                                                   |
 
 ## Learning Outcomes
 
@@ -29,31 +30,31 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Health | State of complete physical, mental, and social well-being. |
-| Disease | Disturbance in normal structure or function of body. |
-| Pathogen | Disease-causing organism or agent. |
-| Immunity | Ability of body to resist disease. |
-| Innate immunity | Inborn, non-specific defence. |
-| Acquired immunity | Specific defence developed after exposure to antigen. |
-| Antigen | Foreign substance that triggers immune response. |
-| Antibody | Protein produced by B cells against antigen. |
-| Vaccination | Introduction of antigenic preparation to develop immunity. |
-| Allergy | Hypersensitive immune response to harmless antigen. |
-| Autoimmunity | Immune attack against body's own cells. |
-| Metastasis | Spread of cancer cells to distant body parts. |
-| Addiction | Compulsive dependence on a substance despite harm. |
+| Term              | Meaning                                                    |
+| ----------------- | ---------------------------------------------------------- |
+| Health            | State of complete physical, mental, and social well-being. |
+| Disease           | Disturbance in normal structure or function of body.       |
+| Pathogen          | Disease-causing organism or agent.                         |
+| Immunity          | Ability of body to resist disease.                         |
+| Innate immunity   | Inborn, non-specific defence.                              |
+| Acquired immunity | Specific defence developed after exposure to antigen.      |
+| Antigen           | Foreign substance that triggers immune response.           |
+| Antibody          | Protein produced by B cells against antigen.               |
+| Vaccination       | Introduction of antigenic preparation to develop immunity. |
+| Allergy           | Hypersensitive immune response to harmless antigen.        |
+| Autoimmunity      | Immune attack against body's own cells.                    |
+| Metastasis        | Spread of cancer cells to distant body parts.              |
+| Addiction         | Compulsive dependence on a substance despite harm.         |
 
 ## Quick Learning Map
 
-| Area | Core Learning |
-|---|---|
-| Diseases | Learn pathogen, transmission, symptoms, and prevention. |
-| Immunity | Innate is non-specific; acquired is specific and memory-based. |
-| AIDS | HIV attacks immune cells and weakens defence. |
-| Cancer | Uncontrolled cell division and spread. |
-| Substance abuse | Affects body, mind, family, and society. |
+| Area            | Core Learning                                                  |
+| --------------- | -------------------------------------------------------------- |
+| Diseases        | Learn pathogen, transmission, symptoms, and prevention.        |
+| Immunity        | Innate is non-specific; acquired is specific and memory-based. |
+| AIDS            | HIV attacks immune cells and weakens defence.                  |
+| Cancer          | Uncontrolled cell division and spread.                         |
+| Substance abuse | Affects body, mind, family, and society.                       |
 
 # Unit 7A: Meaning of Health
 
@@ -100,69 +101,69 @@ Examples:
 
 ## Typhoid
 
-| Item | Details |
-|---|---|
-| Pathogen | Salmonella typhi |
-| Transmission | Contaminated food and water |
-| Symptoms | High fever, weakness, stomach pain, constipation, headache, loss of appetite |
-| Prevention | Clean water, sanitation, hygiene, vaccination where advised |
+| Item         | Details                                                                      |
+| ------------ | ---------------------------------------------------------------------------- |
+| Pathogen     | Salmonella typhi                                                             |
+| Transmission | Contaminated food and water                                                  |
+| Symptoms     | High fever, weakness, stomach pain, constipation, headache, loss of appetite |
+| Prevention   | Clean water, sanitation, hygiene, vaccination where advised                  |
 
 ## Pneumonia
 
-| Item | Details |
-|---|---|
-| Pathogens | Bacteria such as Streptococcus pneumoniae and Haemophilus influenzae |
-| Transmission | Droplets from infected person |
-| Affected organ | Lungs |
-| Symptoms | Fever, chills, cough, breathing difficulty |
-| Prevention | Avoid close contact with infected droplets, hygiene, vaccination where advised |
+| Item           | Details                                                                        |
+| -------------- | ------------------------------------------------------------------------------ |
+| Pathogens      | Bacteria such as Streptococcus pneumoniae and Haemophilus influenzae           |
+| Transmission   | Droplets from infected person                                                  |
+| Affected organ | Lungs                                                                          |
+| Symptoms       | Fever, chills, cough, breathing difficulty                                     |
+| Prevention     | Avoid close contact with infected droplets, hygiene, vaccination where advised |
 
 ## Common Cold
 
-| Item | Details |
-|---|---|
-| Pathogen | Rhinoviruses and other viruses |
-| Transmission | Droplets and contaminated surfaces |
-| Symptoms | Nasal congestion, sore throat, cough, headache |
-| Prevention | Hand hygiene and avoiding close exposure |
+| Item         | Details                                        |
+| ------------ | ---------------------------------------------- |
+| Pathogen     | Rhinoviruses and other viruses                 |
+| Transmission | Droplets and contaminated surfaces             |
+| Symptoms     | Nasal congestion, sore throat, cough, headache |
+| Prevention   | Hand hygiene and avoiding close exposure       |
 
 # Unit 7D: Protozoan and Helminth Diseases
 
 ## Malaria
 
-| Item | Details |
-|---|---|
-| Pathogen | Plasmodium species |
-| Vector | Female Anopheles mosquito |
-| Symptoms | Periodic fever, chills, sweating, anaemia, weakness |
-| Prevention | Mosquito control, nets, avoiding stagnant water |
+| Item       | Details                                             |
+| ---------- | --------------------------------------------------- |
+| Pathogen   | Plasmodium species                                  |
+| Vector     | Female Anopheles mosquito                           |
+| Symptoms   | Periodic fever, chills, sweating, anaemia, weakness |
+| Prevention | Mosquito control, nets, avoiding stagnant water     |
 
 ## Amoebiasis
 
-| Item | Details |
-|---|---|
-| Pathogen | Entamoeba histolytica |
-| Transmission | Contaminated food and water |
-| Symptoms | Abdominal pain, cramps, stools with mucus and blood |
-| Prevention | Sanitation, safe water, food hygiene |
+| Item         | Details                                             |
+| ------------ | --------------------------------------------------- |
+| Pathogen     | Entamoeba histolytica                               |
+| Transmission | Contaminated food and water                         |
+| Symptoms     | Abdominal pain, cramps, stools with mucus and blood |
+| Prevention   | Sanitation, safe water, food hygiene                |
 
 ## Ascariasis
 
-| Item | Details |
-|---|---|
-| Pathogen | Ascaris |
-| Transmission | Eggs through contaminated food, water, or soil |
-| Symptoms | Abdominal discomfort, weakness, intestinal issues |
-| Prevention | Sanitation and hygiene |
+| Item         | Details                                           |
+| ------------ | ------------------------------------------------- |
+| Pathogen     | Ascaris                                           |
+| Transmission | Eggs through contaminated food, water, or soil    |
+| Symptoms     | Abdominal discomfort, weakness, intestinal issues |
+| Prevention   | Sanitation and hygiene                            |
 
 ## Filariasis
 
-| Item | Details |
-|---|---|
-| Pathogen | Filarial worms |
-| Vector | Mosquitoes |
-| Effect | Chronic inflammation and swelling, often in limbs |
-| Prevention | Mosquito control |
+| Item       | Details                                           |
+| ---------- | ------------------------------------------------- |
+| Pathogen   | Filarial worms                                    |
+| Vector     | Mosquitoes                                        |
+| Effect     | Chronic inflammation and swelling, often in limbs |
+| Prevention | Mosquito control                                  |
 
 # Unit 7E: Fungal Disease
 
@@ -194,12 +195,12 @@ Innate immunity is present from birth and provides non-specific defence.
 
 ## Barriers
 
-| Barrier | Examples |
-|---|---|
-| Physical | Skin, mucous membranes. |
-| Physiological | Acid in stomach, saliva, tears. |
-| Cellular | Phagocytes, natural killer cells. |
-| Cytokine | Interferons against viral infection. |
+| Barrier       | Examples                             |
+| ------------- | ------------------------------------ |
+| Physical      | Skin, mucous membranes.              |
+| Physiological | Acid in stomach, saliva, tears.      |
+| Cellular      | Phagocytes, natural killer cells.    |
+| Cytokine      | Interferons against viral infection. |
 
 # Unit 7G: Acquired Immunity
 
@@ -222,10 +223,10 @@ T lymphocytes attack infected cells, cancer cells, and foreign grafts.
 
 # Unit 7H: Active and Passive Immunity
 
-| Type | Meaning | Example |
-|---|---|---|
-| Active immunity | Body produces its own antibodies after infection or vaccination. | Vaccination. |
-| Passive immunity | Ready-made antibodies are received. | Maternal antibodies, antiserum. |
+| Type             | Meaning                                                          | Example                         |
+| ---------------- | ---------------------------------------------------------------- | ------------------------------- |
+| Active immunity  | Body produces its own antibodies after infection or vaccination. | Vaccination.                    |
+| Passive immunity | Ready-made antibodies are received.                              | Maternal antibodies, antiserum. |
 
 Active immunity is slower but long-lasting. Passive immunity is quick but temporary.
 
@@ -318,12 +319,12 @@ Substance abuse damages physical and mental health.
 
 ## Effects
 
-| Area | Effect |
-|---|---|
-| Body | Liver damage, heart problems, infections, poor coordination. |
-| Brain | Dependence, impaired judgement, anxiety, depression. |
-| Family | Conflict, neglect, financial stress. |
-| Society | Accidents, violence, crime, reduced productivity. |
+| Area    | Effect                                                       |
+| ------- | ------------------------------------------------------------ |
+| Body    | Liver damage, heart problems, infections, poor coordination. |
+| Brain   | Dependence, impaired judgement, anxiety, depression.         |
+| Family  | Conflict, neglect, financial stress.                         |
+| Society | Accidents, violence, crime, reduced productivity.            |
 
 ## Prevention
 
@@ -336,14 +337,14 @@ Substance abuse damages physical and mental health.
 
 # Unit 7N: Common Mistakes and Corrections
 
-| Mistake | Correct Understanding |
-|---|---|
-| Health means no disease | Health includes physical, mental, and social well-being. |
-| Antibiotics work on all infections | Antibiotics do not treat viral infections. |
-| Immunity and vaccination are identical | Vaccination is one way to develop immunity. |
-| Passive immunity lasts longer than active immunity | Passive is quick but temporary. |
-| HIV spreads by casual contact | HIV does not spread through casual contact. |
-| Cancer is one disease | Cancer includes many diseases involving uncontrolled cell growth. |
+| Mistake                                            | Correct Understanding                                             |
+| -------------------------------------------------- | ----------------------------------------------------------------- |
+| Health means no disease                            | Health includes physical, mental, and social well-being.          |
+| Antibiotics work on all infections                 | Antibiotics do not treat viral infections.                        |
+| Immunity and vaccination are identical             | Vaccination is one way to develop immunity.                       |
+| Passive immunity lasts longer than active immunity | Passive is quick but temporary.                                   |
+| HIV spreads by casual contact                      | HIV does not spread through casual contact.                       |
+| Cancer is one disease                              | Cancer includes many diseases involving uncontrolled cell growth. |
 
 ## Practice Set
 

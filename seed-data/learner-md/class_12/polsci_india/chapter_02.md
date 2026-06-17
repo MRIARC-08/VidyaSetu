@@ -30,23 +30,23 @@ The chapter also explains why opposition parties still mattered even when they w
 
 ## Key Terms
 
-| Term | Meaning | Why it matters |
-|---|---|---|
-| One-party dominance | A situation where one party wins repeatedly and controls most governments | Central idea of the chapter |
-| Universal adult franchise | Right of all adult citizens to vote | Made Indian democracy bold and inclusive |
-| Election Commission | Constitutional body responsible for conducting elections | Built credibility of elections |
-| Electoral roll | List of eligible voters | Essential for fair elections |
-| Delimitation | Drawing boundaries of constituencies | Needed before elections can be held |
-| First-past-the-post | Electoral system where the candidate with the most votes in a constituency wins | Helped Congress convert votes into seats |
-| Congress system | Party system where Congress dominated both government and much internal opposition | Describes early Indian politics |
-| Faction | Group within a party with its own leaders, interests, or views | Congress managed many factions |
-| Social coalition | A broad alliance of social groups | Explains Congress's mass base |
-| Ideological coalition | A party containing different ideological tendencies | Explains Congress's flexibility |
-| Opposition party | Party outside the ruling party that criticises and offers alternatives | Important for democracy |
-| Article 356 | Constitutional provision allowing President's Rule in a state | Used controversially in Kerala in 1959 |
-| Democratic socialism | Ideology combining democracy with social and economic equality | Associated with socialist parties |
-| Left | Position favouring state role, redistribution, and social change | Helps understand socialist and communist politics |
-| Right | Position favouring market freedom and limited state control | Helps understand Swatantra Party and other groups |
+| Term                      | Meaning                                                                            | Why it matters                                    |
+| ------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------- |
+| One-party dominance       | A situation where one party wins repeatedly and controls most governments          | Central idea of the chapter                       |
+| Universal adult franchise | Right of all adult citizens to vote                                                | Made Indian democracy bold and inclusive          |
+| Election Commission       | Constitutional body responsible for conducting elections                           | Built credibility of elections                    |
+| Electoral roll            | List of eligible voters                                                            | Essential for fair elections                      |
+| Delimitation              | Drawing boundaries of constituencies                                               | Needed before elections can be held               |
+| First-past-the-post       | Electoral system where the candidate with the most votes in a constituency wins    | Helped Congress convert votes into seats          |
+| Congress system           | Party system where Congress dominated both government and much internal opposition | Describes early Indian politics                   |
+| Faction                   | Group within a party with its own leaders, interests, or views                     | Congress managed many factions                    |
+| Social coalition          | A broad alliance of social groups                                                  | Explains Congress's mass base                     |
+| Ideological coalition     | A party containing different ideological tendencies                                | Explains Congress's flexibility                   |
+| Opposition party          | Party outside the ruling party that criticises and offers alternatives             | Important for democracy                           |
+| Article 356               | Constitutional provision allowing President's Rule in a state                      | Used controversially in Kerala in 1959            |
+| Democratic socialism      | Ideology combining democracy with social and economic equality                     | Associated with socialist parties                 |
+| Left                      | Position favouring state role, redistribution, and social change                   | Helps understand socialist and communist politics |
+| Right                     | Position favouring market freedom and limited state control                        | Helps understand Swatantra Party and other groups |
 
 ## 1. The Chapter In One Sentence
 
@@ -359,10 +359,10 @@ It also shows that democratic competition existed in the era of Congress dominan
 
 One-party dominance can happen in two ways.
 
-| Type | Meaning |
-|---|---|
+| Type                     | Meaning                                                                 |
+| ------------------------ | ----------------------------------------------------------------------- |
 | Non-democratic dominance | Other parties are banned, suppressed, or made powerless by law or force |
-| Democratic dominance | Many parties compete freely, but one party repeatedly wins |
+| Democratic dominance     | Many parties compete freely, but one party repeatedly wins              |
 
 India's Congress dominance belonged to the second type.
 
@@ -706,10 +706,10 @@ This is why the exercise answer links Minoo Masani with the Swatantra Party and 
 
 The chapter uses left and right mainly to describe views on social change and the role of the state.
 
-| Position | Broad meaning |
-|---|---|
-| Left | Supports state intervention, redistribution, workers, peasants, and social equality |
-| Right | Supports market freedom, private enterprise, and limited state control |
+| Position | Broad meaning                                                                       |
+| -------- | ----------------------------------------------------------------------------------- |
+| Left     | Supports state intervention, redistribution, workers, peasants, and social equality |
+| Right    | Supports market freedom, private enterprise, and limited state control              |
 
 These terms are not insults. They help classify political ideas.
 
@@ -745,19 +745,19 @@ This is useful for reflective exam answers.
 
 ## 62. Important Leaders And Their Roles
 
-| Leader | Role in the chapter |
-|---|---|
-| Jawaharlal Nehru | Prime Minister and main Congress campaigner |
-| Sukumar Sen | First Chief Election Commissioner |
-| E. M. S. Namboodiripad | Leader of first elected Communist government in Kerala |
-| Dr. B. R. Ambedkar | Cabinet member, Constitution-maker, Dalit leader |
+| Leader                  | Role in the chapter                                                  |
+| ----------------------- | -------------------------------------------------------------------- |
+| Jawaharlal Nehru        | Prime Minister and main Congress campaigner                          |
+| Sukumar Sen             | First Chief Election Commissioner                                    |
+| E. M. S. Namboodiripad  | Leader of first elected Communist government in Kerala               |
+| Dr. B. R. Ambedkar      | Cabinet member, Constitution-maker, Dalit leader                     |
 | Maulana Abul Kalam Azad | Congress leader, Education Minister, supporter of Hindu-Muslim unity |
-| Rajkumari Amrit Kaur | Health Minister in free India's first ministry |
-| Shyama Prasad Mukherjee | Founder of Bharatiya Jana Sangh |
-| Acharya Narendra Dev | Socialist leader |
-| A. K. Gopalan | Communist leader and parliamentarian |
-| Deen Dayal Upadhyaya | Jana Sangh leader and thinker |
-| Minoo Masani | Swatantra Party leader |
+| Rajkumari Amrit Kaur    | Health Minister in free India's first ministry                       |
+| Shyama Prasad Mukherjee | Founder of Bharatiya Jana Sangh                                      |
+| Acharya Narendra Dev    | Socialist leader                                                     |
+| A. K. Gopalan           | Communist leader and parliamentarian                                 |
+| Deen Dayal Upadhyaya    | Jana Sangh leader and thinker                                        |
+| Minoo Masani            | Swatantra Party leader                                               |
 
 ## 63. Why The Congress System Was Stable
 
@@ -790,12 +790,12 @@ Later chapters explain this decline.
 
 This distinction is essential.
 
-| One-party dominance | One-party rule |
-|---|---|
-| Other parties are allowed | Other parties may be banned or suppressed |
-| Elections are competitive | Elections may be controlled |
-| Voters can choose alternatives | Real choice may be absent |
-| Example: Congress dominance in early India | Example: authoritarian one-party states |
+| One-party dominance                        | One-party rule                            |
+| ------------------------------------------ | ----------------------------------------- |
+| Other parties are allowed                  | Other parties may be banned or suppressed |
+| Elections are competitive                  | Elections may be controlled               |
+| Voters can choose alternatives             | Real choice may be absent                 |
+| Example: Congress dominance in early India | Example: authoritarian one-party states   |
 
 India had one-party dominance, not one-party rule.
 
@@ -959,59 +959,59 @@ This means groups with different views stayed within Congress and negotiated pow
 
 ## 81. Common Misunderstandings
 
-| Misunderstanding | Correct understanding |
-|---|---|
-| India had no opposition parties in the 1950s | India had many opposition parties, but they were weak electorally |
-| Congress dominance means dictatorship | Congress dominance operated within competitive elections |
-| Illiterate voters could not participate meaningfully | The first election proved mass participation was possible |
-| Congress won because it got almost all votes | It won many seats with less than half the votes in 1952 |
-| Factions always weaken parties | Congress used factions to absorb conflict |
-| Kerala's Communist government came through revolution | It came through democratic elections |
+| Misunderstanding                                      | Correct understanding                                             |
+| ----------------------------------------------------- | ----------------------------------------------------------------- |
+| India had no opposition parties in the 1950s          | India had many opposition parties, but they were weak electorally |
+| Congress dominance means dictatorship                 | Congress dominance operated within competitive elections          |
+| Illiterate voters could not participate meaningfully  | The first election proved mass participation was possible         |
+| Congress won because it got almost all votes          | It won many seats with less than half the votes in 1952           |
+| Factions always weaken parties                        | Congress used factions to absorb conflict                         |
+| Kerala's Communist government came through revolution | It came through democratic elections                              |
 
 ## 82. Timeline
 
-| Year or date | Event |
-|---|---|
-| 1934 | Congress Socialist Party formed within Congress |
-| 1948 | Socialists formed a separate Socialist Party |
-| 24 January 1950 | Constitution signed |
-| January 1950 | Election Commission set up |
-| 26 January 1950 | Constitution came into force |
-| 1951 | CPI decided to participate in elections |
-| 1951 | Bharatiya Jana Sangh formed |
-| October 1951 to February 1952 | First general election held |
-| 1952 | Congress won 364 of 489 Lok Sabha seats |
-| 1955 | Congress declared goal of socialist pattern of society |
-| 1957 | Second general election; CPI-led government formed in Kerala |
-| 1959 | Communist government in Kerala dismissed under Article 356 |
-| 1962 | Third general election |
-| 1964 | CPI split into CPI and CPI(M) |
+| Year or date                  | Event                                                        |
+| ----------------------------- | ------------------------------------------------------------ |
+| 1934                          | Congress Socialist Party formed within Congress              |
+| 1948                          | Socialists formed a separate Socialist Party                 |
+| 24 January 1950               | Constitution signed                                          |
+| January 1950                  | Election Commission set up                                   |
+| 26 January 1950               | Constitution came into force                                 |
+| 1951                          | CPI decided to participate in elections                      |
+| 1951                          | Bharatiya Jana Sangh formed                                  |
+| October 1951 to February 1952 | First general election held                                  |
+| 1952                          | Congress won 364 of 489 Lok Sabha seats                      |
+| 1955                          | Congress declared goal of socialist pattern of society       |
+| 1957                          | Second general election; CPI-led government formed in Kerala |
+| 1959                          | Communist government in Kerala dismissed under Article 356   |
+| 1962                          | Third general election                                       |
+| 1964                          | CPI split into CPI and CPI(M)                                |
 
 ## 83. Matching Leaders And Parties
 
-| Leader | Party |
-|---|---|
-| S. A. Dange | Communist Party of India |
-| Shyama Prasad Mukherjee | Bharatiya Jana Sangh |
-| Minoo Masani | Swatantra Party |
-| Asoka Mehta | Praja Socialist Party |
+| Leader                  | Party                    |
+| ----------------------- | ------------------------ |
+| S. A. Dange             | Communist Party of India |
+| Shyama Prasad Mukherjee | Bharatiya Jana Sangh     |
+| Minoo Masani            | Swatantra Party          |
+| Asoka Mehta             | Praja Socialist Party    |
 
 ## 84. True Or False: One-party Dominance
 
-| Statement | Answer | Explanation |
-|---|---|---|
-| One-party dominance is rooted in the absence of strong alternative political parties | True | Weak opposition helped Congress win repeatedly |
-| One-party dominance occurs because of weak public opinion | False | Voters were active, but Congress had broad support |
-| One-party dominance is linked to the nation's colonial past | True | Congress inherited the freedom movement legacy |
-| One-party dominance reflects the absence of democratic ideals | False | India had competitive elections and democratic ideals |
+| Statement                                                                            | Answer | Explanation                                           |
+| ------------------------------------------------------------------------------------ | ------ | ----------------------------------------------------- |
+| One-party dominance is rooted in the absence of strong alternative political parties | True   | Weak opposition helped Congress win repeatedly        |
+| One-party dominance occurs because of weak public opinion                            | False  | Voters were active, but Congress had broad support    |
+| One-party dominance is linked to the nation's colonial past                          | True   | Congress inherited the freedom movement legacy        |
+| One-party dominance reflects the absence of democratic ideals                        | False  | India had competitive elections and democratic ideals |
 
 ## 85. Fill-in Answers
 
-| Item | Correct answer |
-|---|---|
-| First general elections involved simultaneous elections to Lok Sabha and | State Assemblies |
-| Party with second largest number of Lok Sabha seats in the first election | Communist Party of India |
-| Guiding principle of Swatantra Party ideology | Economy free from state control |
+| Item                                                                      | Correct answer                  |
+| ------------------------------------------------------------------------- | ------------------------------- |
+| First general elections involved simultaneous elections to Lok Sabha and  | State Assemblies                |
+| Party with second largest number of Lok Sabha seats in the first election | Communist Party of India        |
+| Guiding principle of Swatantra Party ideology                             | Economy free from state control |
 
 ## 86. Short Answer Practice
 

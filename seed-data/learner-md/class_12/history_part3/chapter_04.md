@@ -2,14 +2,14 @@
 
 ## Chapter Identity
 
-| Item | Details |
-| --- | --- |
-| Class | 12 |
-| Subject | History Part 3 |
-| Chapter | Mahatma Gandhi and the Nationalist Movement |
-| Period | Mainly 1915-1948 |
-| Core Skill | Explaining Gandhi's role in mass nationalism, satyagraha, major movements, social reform, and historical sources |
-| Main Idea | Gandhi transformed Indian nationalism by turning it into a broad mass movement rooted in non-violence, moral politics, and popular participation. |
+| Item       | Details                                                                                                                                           |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Class      | 12                                                                                                                                                |
+| Subject    | History Part 3                                                                                                                                    |
+| Chapter    | Mahatma Gandhi and the Nationalist Movement                                                                                                       |
+| Period     | Mainly 1915-1948                                                                                                                                  |
+| Core Skill | Explaining Gandhi's role in mass nationalism, satyagraha, major movements, social reform, and historical sources                                  |
+| Main Idea  | Gandhi transformed Indian nationalism by turning it into a broad mass movement rooted in non-violence, moral politics, and popular participation. |
 
 ## 1. Big Picture
 
@@ -29,20 +29,20 @@ The chapter also teaches how historians reconstruct Gandhi's life and politics t
 
 ## 2. Timeline
 
-| Year | Event | Significance |
-| --- | --- | --- |
-| 1915 | Gandhi returned to India from South Africa | Began studying Indian conditions. |
-| 1916 | Speech at Banaras Hindu University | Criticised elite distance from masses. |
-| 1917 | Champaran Satyagraha | Supported indigo peasants in Bihar. |
-| 1918 | Kheda Satyagraha and Ahmedabad mill strike | Linked nationalism with peasants and workers. |
-| 1919 | Rowlatt Satyagraha and Jallianwala Bagh massacre | Created nationwide anger against colonial rule. |
-| 1920-22 | Non-Cooperation Movement | First major mass movement under Gandhi. |
-| 1922 | Chauri Chaura incident | Gandhi withdrew movement due to violence. |
-| 1930 | Salt March/Dandi March | Began Civil Disobedience Movement. |
-| 1931 | Gandhi-Irwin Pact; Second Round Table Conference | Negotiation with British government. |
-| 1942 | Quit India Movement | Demand for British withdrawal. |
-| 1946-47 | Communal violence and Partition crisis | Gandhi worked for peace. |
-| 30 January 1948 | Gandhi assassinated | End of his life, but not his influence. |
+| Year            | Event                                            | Significance                                    |
+| --------------- | ------------------------------------------------ | ----------------------------------------------- |
+| 1915            | Gandhi returned to India from South Africa       | Began studying Indian conditions.               |
+| 1916            | Speech at Banaras Hindu University               | Criticised elite distance from masses.          |
+| 1917            | Champaran Satyagraha                             | Supported indigo peasants in Bihar.             |
+| 1918            | Kheda Satyagraha and Ahmedabad mill strike       | Linked nationalism with peasants and workers.   |
+| 1919            | Rowlatt Satyagraha and Jallianwala Bagh massacre | Created nationwide anger against colonial rule. |
+| 1920-22         | Non-Cooperation Movement                         | First major mass movement under Gandhi.         |
+| 1922            | Chauri Chaura incident                           | Gandhi withdrew movement due to violence.       |
+| 1930            | Salt March/Dandi March                           | Began Civil Disobedience Movement.              |
+| 1931            | Gandhi-Irwin Pact; Second Round Table Conference | Negotiation with British government.            |
+| 1942            | Quit India Movement                              | Demand for British withdrawal.                  |
+| 1946-47         | Communal violence and Partition crisis           | Gandhi worked for peace.                        |
+| 30 January 1948 | Gandhi assassinated                              | End of his life, but not his influence.         |
 
 ## 3. Gandhi's South African Experience
 
@@ -66,13 +66,13 @@ Satyagraha means holding firmly to truth. It was Gandhi's method of non-violent 
 
 ### Key Features
 
-| Feature | Explanation |
-| --- | --- |
-| Truth | Protest must be based on moral truth. |
-| Non-violence | Violence corrupts the cause and the protester. |
+| Feature        | Explanation                                                 |
+| -------------- | ----------------------------------------------------------- |
+| Truth          | Protest must be based on moral truth.                       |
+| Non-violence   | Violence corrupts the cause and the protester.              |
 | Self-suffering | The satyagrahi accepts suffering rather than inflicting it. |
-| Moral appeal | The aim is to convert the opponent, not destroy them. |
-| Discipline | Protesters must control anger and action. |
+| Moral appeal   | The aim is to convert the opponent, not destroy them.       |
+| Discipline     | Protesters must control anger and action.                   |
 
 ## 5. Gandhi's Early Actions in India
 
@@ -231,15 +231,15 @@ His death highlighted the intensity of communal tensions, but also the moral for
 
 ## 15. How Gandhi Made Nationalism a Mass Movement
 
-| Method | Impact |
-| --- | --- |
-| Simple language and symbols | Ordinary people could understand the movement. |
-| Khadi and charkha | Connected nationalism to daily practice. |
-| Satyagraha | Gave disciplined method of protest. |
-| Local issues | Linked national politics with peasant and worker grievances. |
-| Religious idiom | Reached people emotionally, though it required careful handling. |
-| Travel across India | Built direct contact with people. |
-| Women participation | Expanded the social base of nationalism. |
+| Method                      | Impact                                                           |
+| --------------------------- | ---------------------------------------------------------------- |
+| Simple language and symbols | Ordinary people could understand the movement.                   |
+| Khadi and charkha           | Connected nationalism to daily practice.                         |
+| Satyagraha                  | Gave disciplined method of protest.                              |
+| Local issues                | Linked national politics with peasant and worker grievances.     |
+| Religious idiom             | Reached people emotionally, though it required careful handling. |
+| Travel across India         | Built direct contact with people.                                |
+| Women participation         | Expanded the social base of nationalism.                         |
 
 ## 16. Sources for Studying Gandhi
 
@@ -281,14 +281,14 @@ Ask these questions:
 
 ## 18. Common Mistakes and Corrections
 
-| Mistake | Correction |
-| --- | --- |
+| Mistake                                        | Correction                                                                                               |
+| ---------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | Treating Gandhi as the only nationalist leader | Gandhi was central, but many leaders, workers, peasants, women, and local activists shaped the movement. |
-| Memorising events without links | Connect each movement to causes, methods, participation, and consequences. |
-| Ignoring non-violence | Non-violence was not just a tactic; it was a moral principle for Gandhi. |
-| Seeing Salt March as symbolic only | It was symbolic and practical because salt affected everyone. |
-| Treating sources as neutral | Every source has perspective and limits. |
-| Forgetting Gandhi's work after 1947 | His last struggle was against communal violence. |
+| Memorising events without links                | Connect each movement to causes, methods, participation, and consequences.                               |
+| Ignoring non-violence                          | Non-violence was not just a tactic; it was a moral principle for Gandhi.                                 |
+| Seeing Salt March as symbolic only             | It was symbolic and practical because salt affected everyone.                                            |
+| Treating sources as neutral                    | Every source has perspective and limits.                                                                 |
+| Forgetting Gandhi's work after 1947            | His last struggle was against communal violence.                                                         |
 
 ## 19. Exam Answer Frames
 
@@ -321,18 +321,18 @@ Historians study Gandhi through writings, speeches, letters, newspapers, governm
 
 ## 21. Quick Revision Sheet
 
-| Term/Event | Recall |
-| --- | --- |
-| Satyagraha | Non-violent insistence on truth. |
-| Champaran | Indigo peasants; early Gandhian intervention. |
-| Rowlatt Act | Detention without trial. |
-| Jallianwala Bagh | Massacre in Amritsar, 1919. |
-| Non-Cooperation | Boycott of British institutions, 1920-22. |
-| Chauri Chaura | Violence led Gandhi to withdraw movement. |
-| Khadi | Self-reliance and swadeshi symbol. |
-| Salt March | Dandi, 1930; start of Civil Disobedience. |
-| Quit India | 1942 demand for British withdrawal. |
-| Noakhali/Delhi | Gandhi's peace work during communal violence. |
+| Term/Event       | Recall                                        |
+| ---------------- | --------------------------------------------- |
+| Satyagraha       | Non-violent insistence on truth.              |
+| Champaran        | Indigo peasants; early Gandhian intervention. |
+| Rowlatt Act      | Detention without trial.                      |
+| Jallianwala Bagh | Massacre in Amritsar, 1919.                   |
+| Non-Cooperation  | Boycott of British institutions, 1920-22.     |
+| Chauri Chaura    | Violence led Gandhi to withdraw movement.     |
+| Khadi            | Self-reliance and swadeshi symbol.            |
+| Salt March       | Dandi, 1930; start of Civil Disobedience.     |
+| Quit India       | 1942 demand for British withdrawal.           |
+| Noakhali/Delhi   | Gandhi's peace work during communal violence. |
 
 ## 22. Final Learning Takeaway
 

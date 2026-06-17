@@ -1,19 +1,20 @@
 # Chapter 4: Agriculture
+
 ### NCERT Class 10 - Social Geography
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-| --- | --- |
-| Class | 10 |
-| Subject | Social Geography |
-| Chapter | 4 - Agriculture |
-| Central Question | How does Indian agriculture vary across regions, crops, seasons, farming systems, technology, and markets? |
-| Main Themes | Types of farming, cropping seasons, major crops, crop conditions, institutional reforms, food security, globalisation |
-| Main Skills | Classification, map-based crop distribution, crop-condition matching, economic reasoning, answer writing |
-| Exam Importance | Very high: crop seasons, crop conditions, farming types, reforms, food security, globalisation |
+| Detail           | Learner-Friendly Information                                                                                          |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Class            | 10                                                                                                                    |
+| Subject          | Social Geography                                                                                                      |
+| Chapter          | 4 - Agriculture                                                                                                       |
+| Central Question | How does Indian agriculture vary across regions, crops, seasons, farming systems, technology, and markets?            |
+| Main Themes      | Types of farming, cropping seasons, major crops, crop conditions, institutional reforms, food security, globalisation |
+| Main Skills      | Classification, map-based crop distribution, crop-condition matching, economic reasoning, answer writing              |
+| Exam Importance  | Very high: crop seasons, crop conditions, farming types, reforms, food security, globalisation                        |
 
 ---
 
@@ -38,16 +39,16 @@ The most important study method for this chapter is:
 
 After studying this chapter, you should be able to:
 
-| Skill | You Should Be Able To |
-| --- | --- |
-| Define | Explain agriculture, subsistence farming, commercial farming, plantation, kharif, rabi, zaid, horticulture, sericulture, MSP, PDS, and food security. |
-| Classify | Classify farming into primitive subsistence, intensive subsistence, commercial, and plantation. |
-| Compare | Differentiate rabi, kharif, and zaid seasons. |
-| Locate | Identify major regions for rice, wheat, millets, pulses, sugarcane, tea, coffee, cotton, jute, and rubber. |
-| Explain | Describe geographical conditions required for major crops. |
-| Analyse | Explain problems faced by Indian farmers. |
-| Evaluate | Discuss government reforms and the impact of globalisation on agriculture. |
-| Write | Create clear 30-word and 120-word answers using facts, examples, and reasoning. |
+| Skill    | You Should Be Able To                                                                                                                                 |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Define   | Explain agriculture, subsistence farming, commercial farming, plantation, kharif, rabi, zaid, horticulture, sericulture, MSP, PDS, and food security. |
+| Classify | Classify farming into primitive subsistence, intensive subsistence, commercial, and plantation.                                                       |
+| Compare  | Differentiate rabi, kharif, and zaid seasons.                                                                                                         |
+| Locate   | Identify major regions for rice, wheat, millets, pulses, sugarcane, tea, coffee, cotton, jute, and rubber.                                            |
+| Explain  | Describe geographical conditions required for major crops.                                                                                            |
+| Analyse  | Explain problems faced by Indian farmers.                                                                                                             |
+| Evaluate | Discuss government reforms and the impact of globalisation on agriculture.                                                                            |
+| Write    | Create clear 30-word and 120-word answers using facts, examples, and reasoning.                                                                       |
 
 ---
 
@@ -81,43 +82,43 @@ There can be no real food security if small and marginal farmers are insecure, i
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Agriculture | Primary activity that produces food and raw material from land through crop cultivation and allied activities. |
-| Primary Activity | Economic activity directly dependent on natural resources, such as farming, fishing, forestry, and mining. |
-| Subsistence Farming | Farming mainly for the farmer's own family consumption. |
-| Primitive Subsistence Farming | Farming on small patches of land using primitive tools and family or community labour. |
-| Slash and Burn Agriculture | Farming in which vegetation is cleared and burned, crops are grown, and land is abandoned when fertility declines. |
-| Jhumming | Local name for slash and burn cultivation in north-eastern India. |
+| Term                          | Meaning                                                                                                                          |
+| ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| Agriculture                   | Primary activity that produces food and raw material from land through crop cultivation and allied activities.                   |
+| Primary Activity              | Economic activity directly dependent on natural resources, such as farming, fishing, forestry, and mining.                       |
+| Subsistence Farming           | Farming mainly for the farmer's own family consumption.                                                                          |
+| Primitive Subsistence Farming | Farming on small patches of land using primitive tools and family or community labour.                                           |
+| Slash and Burn Agriculture    | Farming in which vegetation is cleared and burned, crops are grown, and land is abandoned when fertility declines.               |
+| Jhumming                      | Local name for slash and burn cultivation in north-eastern India.                                                                |
 | Intensive Subsistence Farming | Labour-intensive farming in densely populated areas, using irrigation and biochemical inputs to get high output from small land. |
-| Commercial Farming | Farming mainly for sale in the market, often using modern inputs. |
-| Plantation Agriculture | Commercial farming where a single crop is grown on a large area with capital, labour, processing, and market links. |
-| Cropping Pattern | Seasonal and spatial arrangement of crops grown in an area. |
-| Rabi Season | Winter cropping season; crops are sown from October to December and harvested from April to June. |
-| Kharif Season | Monsoon cropping season; crops are grown with monsoon rains and harvested in September-October. |
-| Zaid Season | Short summer season between rabi and kharif. |
-| HYV Seeds | High yielding variety seeds used to increase crop production. |
-| Food Crops | Crops grown mainly for food, such as rice, wheat, millets, pulses, and maize. |
-| Non-Food Crops | Crops grown mainly for industrial or commercial use, such as cotton, jute, rubber, and oilseeds. |
-| Beverage Crops | Crops used for drinks, such as tea and coffee. |
-| Horticulture | Cultivation of fruits, vegetables, flowers, and ornamental plants. |
-| Fibre Crops | Crops that produce fibre, such as cotton, jute, hemp, and natural silk. |
-| Sericulture | Rearing of silkworms for silk fibre. |
-| Leguminous Crops | Crops that help fix nitrogen in soil, such as most pulses. |
-| Institutional Reforms | Changes in land ownership, credit, insurance, support prices, and farmer institutions. |
-| Consolidation of Holdings | Combining scattered plots into larger and more manageable holdings. |
-| Bhoodan | Voluntary donation of land for landless people, initiated by Vinoba Bhave. |
-| Gramdan | Voluntary donation of whole villages or village land for community use. |
-| Green Revolution | Increase in agricultural production through HYV seeds, irrigation, fertilizers, pesticides, and modern technology. |
-| White Revolution | Operation Flood, aimed at increasing milk production. |
-| MSP | Minimum Support Price announced by the government to protect farmers from price exploitation. |
-| Buffer Stock | Stock of foodgrains maintained by the government for food security. |
-| PDS | Public Distribution System that distributes foodgrains and essential commodities at subsidised prices. |
-| FCI | Food Corporation of India, responsible for procuring and stocking foodgrains. |
-| Food Security | Access by all people to sufficient, safe, and nutritious food. |
-| Globalisation | Integration of economies through trade, investment, technology, and markets across countries. |
-| Organic Farming | Farming without factory-made chemical fertilizers and pesticides. |
-| Gene Revolution | Use of genetic engineering to develop new seed varieties. |
+| Commercial Farming            | Farming mainly for sale in the market, often using modern inputs.                                                                |
+| Plantation Agriculture        | Commercial farming where a single crop is grown on a large area with capital, labour, processing, and market links.              |
+| Cropping Pattern              | Seasonal and spatial arrangement of crops grown in an area.                                                                      |
+| Rabi Season                   | Winter cropping season; crops are sown from October to December and harvested from April to June.                                |
+| Kharif Season                 | Monsoon cropping season; crops are grown with monsoon rains and harvested in September-October.                                  |
+| Zaid Season                   | Short summer season between rabi and kharif.                                                                                     |
+| HYV Seeds                     | High yielding variety seeds used to increase crop production.                                                                    |
+| Food Crops                    | Crops grown mainly for food, such as rice, wheat, millets, pulses, and maize.                                                    |
+| Non-Food Crops                | Crops grown mainly for industrial or commercial use, such as cotton, jute, rubber, and oilseeds.                                 |
+| Beverage Crops                | Crops used for drinks, such as tea and coffee.                                                                                   |
+| Horticulture                  | Cultivation of fruits, vegetables, flowers, and ornamental plants.                                                               |
+| Fibre Crops                   | Crops that produce fibre, such as cotton, jute, hemp, and natural silk.                                                          |
+| Sericulture                   | Rearing of silkworms for silk fibre.                                                                                             |
+| Leguminous Crops              | Crops that help fix nitrogen in soil, such as most pulses.                                                                       |
+| Institutional Reforms         | Changes in land ownership, credit, insurance, support prices, and farmer institutions.                                           |
+| Consolidation of Holdings     | Combining scattered plots into larger and more manageable holdings.                                                              |
+| Bhoodan                       | Voluntary donation of land for landless people, initiated by Vinoba Bhave.                                                       |
+| Gramdan                       | Voluntary donation of whole villages or village land for community use.                                                          |
+| Green Revolution              | Increase in agricultural production through HYV seeds, irrigation, fertilizers, pesticides, and modern technology.               |
+| White Revolution              | Operation Flood, aimed at increasing milk production.                                                                            |
+| MSP                           | Minimum Support Price announced by the government to protect farmers from price exploitation.                                    |
+| Buffer Stock                  | Stock of foodgrains maintained by the government for food security.                                                              |
+| PDS                           | Public Distribution System that distributes foodgrains and essential commodities at subsidised prices.                           |
+| FCI                           | Food Corporation of India, responsible for procuring and stocking foodgrains.                                                    |
+| Food Security                 | Access by all people to sufficient, safe, and nutritious food.                                                                   |
+| Globalisation                 | Integration of economies through trade, investment, technology, and markets across countries.                                    |
+| Organic Farming               | Farming without factory-made chemical fertilizers and pesticides.                                                                |
+| Gene Revolution               | Use of genetic engineering to develop new seed varieties.                                                                        |
 
 ---
 
@@ -129,27 +130,27 @@ India is an agriculturally important country. Agriculture produces most of the f
 
 ## Why Agriculture Is Important
 
-| Importance | Explanation |
-| --- | --- |
-| Food supply | Produces rice, wheat, pulses, millets, fruits, vegetables, and other food. |
-| Employment | Provides livelihood to a large share of the population. |
+| Importance              | Explanation                                                                               |
+| ----------------------- | ----------------------------------------------------------------------------------------- |
+| Food supply             | Produces rice, wheat, pulses, millets, fruits, vegetables, and other food.                |
+| Employment              | Provides livelihood to a large share of the population.                                   |
 | Industrial raw material | Supplies cotton, jute, sugarcane, oilseeds, rubber, tea, coffee, and other raw materials. |
-| Exports | Tea, coffee, spices, cotton, jute products, fruits, and other products are exported. |
-| Rural economy | Supports villages, markets, transport, storage, processing, and services. |
-| Food security | Determines whether people have access to affordable food. |
+| Exports                 | Tea, coffee, spices, cotton, jute products, fruits, and other products are exported.      |
+| Rural economy           | Supports villages, markets, transport, storage, processing, and services.                 |
+| Food security           | Determines whether people have access to affordable food.                                 |
 
 ## Agricultural Raw Material for Industries
 
-| Crop or Product | Industry |
-| --- | --- |
-| Cotton | Cotton textile industry |
-| Jute | Jute industry |
-| Sugarcane | Sugar industry |
-| Oilseeds | Edible oil, soap, cosmetics, ointments |
-| Tea | Tea processing and beverage industry |
-| Coffee | Coffee processing and export |
-| Rubber | Tyres, tubes, footwear, belts, hoses, industrial goods |
-| Fruits and vegetables | Food processing |
+| Crop or Product       | Industry                                               |
+| --------------------- | ------------------------------------------------------ |
+| Cotton                | Cotton textile industry                                |
+| Jute                  | Jute industry                                          |
+| Sugarcane             | Sugar industry                                         |
+| Oilseeds              | Edible oil, soap, cosmetics, ointments                 |
+| Tea                   | Tea processing and beverage industry                   |
+| Coffee                | Coffee processing and export                           |
+| Rubber                | Tyres, tubes, footwear, belts, hoses, industrial goods |
+| Fruits and vegetables | Food processing                                        |
 
 ---
 
@@ -174,15 +175,15 @@ Primitive subsistence farming is practised on small patches of land with primiti
 
 ## Main Features
 
-| Feature | Explanation |
-| --- | --- |
-| Land size | Small patches of land |
-| Tools | Hoe, dao, digging sticks |
-| Labour | Family or community labour |
-| Inputs | Very low use of fertilizers, pesticides, and modern inputs |
+| Feature    | Explanation                                                               |
+| ---------- | ------------------------------------------------------------------------- |
+| Land size  | Small patches of land                                                     |
+| Tools      | Hoe, dao, digging sticks                                                  |
+| Labour     | Family or community labour                                                |
+| Inputs     | Very low use of fertilizers, pesticides, and modern inputs                |
 | Dependence | Depends on monsoon, natural fertility, and local environmental conditions |
-| Output | Low productivity |
-| Purpose | Family subsistence |
+| Output     | Low productivity                                                          |
+| Purpose    | Family subsistence                                                        |
 
 ## Slash and Burn Method
 
@@ -197,30 +198,30 @@ Primitive subsistence farming is often a slash and burn system:
 
 ## Names in India
 
-| Region | Local Name |
-| --- | --- |
-| North-eastern India | Jhumming |
-| Manipur | Pamlou |
-| Bastar district of Chhattisgarh | Dipa |
-| Andaman and Nicobar Islands | Dipa |
-| Madhya Pradesh | Bewar or Dahiya |
-| Andhra Pradesh | Podu or Penda |
-| Odisha | Pama Dabi, Koman, or Bringa |
-| Western Ghats | Kumari |
-| South-eastern Rajasthan | Valre or Waltre |
-| Himalayan belt | Khil |
-| Jharkhand | Kuruwa |
+| Region                          | Local Name                  |
+| ------------------------------- | --------------------------- |
+| North-eastern India             | Jhumming                    |
+| Manipur                         | Pamlou                      |
+| Bastar district of Chhattisgarh | Dipa                        |
+| Andaman and Nicobar Islands     | Dipa                        |
+| Madhya Pradesh                  | Bewar or Dahiya             |
+| Andhra Pradesh                  | Podu or Penda               |
+| Odisha                          | Pama Dabi, Koman, or Bringa |
+| Western Ghats                   | Kumari                      |
+| South-eastern Rajasthan         | Valre or Waltre             |
+| Himalayan belt                  | Khil                        |
+| Jharkhand                       | Kuruwa                      |
 
 ## Names Outside India
 
-| Region | Name |
-| --- | --- |
-| Mexico and Central America | Milpa |
-| Venezuela | Conuco |
-| Brazil | Roca |
-| Central Africa | Masole |
-| Indonesia | Ladang |
-| Vietnam | Ray |
+| Region                     | Name   |
+| -------------------------- | ------ |
+| Mexico and Central America | Milpa  |
+| Venezuela                  | Conuco |
+| Brazil                     | Roca   |
+| Central Africa             | Masole |
+| Indonesia                  | Ladang |
+| Vietnam                    | Ray    |
 
 ## Rinjha Example
 
@@ -236,14 +237,14 @@ Intensive subsistence farming is practised in areas of high population pressure 
 
 ## Main Features
 
-| Feature | Explanation |
-| --- | --- |
-| Population pressure | Very high |
-| Landholding | Small and often fragmented |
-| Labour | Labour-intensive |
-| Inputs | High doses of biochemical inputs and irrigation |
-| Aim | Maximum production from limited land |
-| Problem | Landholdings become uneconomic due to inheritance and fragmentation |
+| Feature             | Explanation                                                         |
+| ------------------- | ------------------------------------------------------------------- |
+| Population pressure | Very high                                                           |
+| Landholding         | Small and often fragmented                                          |
+| Labour              | Labour-intensive                                                    |
+| Inputs              | High doses of biochemical inputs and irrigation                     |
+| Aim                 | Maximum production from limited land                                |
+| Problem             | Landholdings become uneconomic due to inheritance and fragmentation |
 
 ## Why It Happens
 
@@ -263,12 +264,12 @@ Commercial farming is farming mainly for sale in the market.
 
 ## Main Features
 
-| Feature | Explanation |
-| --- | --- |
-| Purpose | Market sale |
-| Inputs | HYV seeds, fertilizers, insecticides, pesticides, irrigation |
-| Productivity | Higher productivity is the aim |
-| Market link | Stronger connection with transport, markets, processing, and trade |
+| Feature      | Explanation                                                        |
+| ------------ | ------------------------------------------------------------------ |
+| Purpose      | Market sale                                                        |
+| Inputs       | HYV seeds, fertilizers, insecticides, pesticides, irrigation       |
+| Productivity | Higher productivity is the aim                                     |
+| Market link  | Stronger connection with transport, markets, processing, and trade |
 
 ## Commercialisation Varies by Region
 
@@ -291,15 +292,15 @@ Plantation is a type of commercial farming in which a single crop is grown on a 
 
 ## Main Features
 
-| Feature | Explanation |
-| --- | --- |
-| Crop pattern | Single crop over a large area |
-| Nature | Interface of agriculture and industry |
-| Land | Large estates or tracts |
-| Inputs | Capital-intensive inputs |
-| Labour | Often migrant labour |
-| Processing | Produce is processed as industrial raw material |
-| Market | Needs strong transport and communication network |
+| Feature      | Explanation                                      |
+| ------------ | ------------------------------------------------ |
+| Crop pattern | Single crop over a large area                    |
+| Nature       | Interface of agriculture and industry            |
+| Land         | Large estates or tracts                          |
+| Inputs       | Capital-intensive inputs                         |
+| Labour       | Often migrant labour                             |
+| Processing   | Produce is processed as industrial raw material  |
+| Market       | Needs strong transport and communication network |
 
 ## Important Plantation Crops in India
 
@@ -311,10 +312,10 @@ Plantation is a type of commercial farming in which a single crop is grown on a 
 
 ## Examples
 
-| Crop | Region |
-| --- | --- |
-| Tea | Assam and North Bengal |
-| Coffee | Karnataka |
+| Crop   | Region                        |
+| ------ | ----------------------------- |
+| Tea    | Assam and North Bengal        |
+| Coffee | Karnataka                     |
 | Rubber | Kerala, Tamil Nadu, Karnataka |
 
 ## Why Transport Matters
@@ -333,14 +334,14 @@ India has three cropping seasons:
 
 ## Rabi Season
 
-| Feature | Detail |
-| --- | --- |
-| Sowing time | October to December |
-| Harvesting time | April to June |
-| Climate | Winter season, cool growing period |
-| Important crops | Wheat, barley, peas, gram, mustard |
+| Feature           | Detail                                                                           |
+| ----------------- | -------------------------------------------------------------------------------- |
+| Sowing time       | October to December                                                              |
+| Harvesting time   | April to June                                                                    |
+| Climate           | Winter season, cool growing period                                               |
+| Important crops   | Wheat, barley, peas, gram, mustard                                               |
 | Important regions | Punjab, Haryana, Himachal Pradesh, Jammu and Kashmir, Uttarakhand, Uttar Pradesh |
-| Important support | Western temperate cyclones bring winter precipitation |
+| Important support | Western temperate cyclones bring winter precipitation                            |
 
 ## Why Rabi Crops Grow Well in North-West India
 
@@ -354,12 +355,12 @@ Rabi crops grow well in north and north-western India because:
 
 ## Kharif Season
 
-| Feature | Detail |
-| --- | --- |
-| Sowing time | With onset of monsoon |
-| Harvesting time | September-October |
-| Climate | Monsoon season |
-| Important crops | Paddy, maize, jowar, bajra, tur, moong, urad, cotton, jute, groundnut, soybean |
+| Feature                | Detail                                                                                                                          |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| Sowing time            | With onset of monsoon                                                                                                           |
+| Harvesting time        | September-October                                                                                                               |
+| Climate                | Monsoon season                                                                                                                  |
+| Important crops        | Paddy, maize, jowar, bajra, tur, moong, urad, cotton, jute, groundnut, soybean                                                  |
 | Important rice regions | Assam, West Bengal, Odisha coast, Andhra Pradesh, Telangana, Tamil Nadu, Kerala, Maharashtra Konkan coast, Uttar Pradesh, Bihar |
 
 ## Aus, Aman, and Boro
@@ -372,21 +373,21 @@ In states such as Assam, West Bengal, and Odisha, three crops of paddy are grown
 
 ## Zaid Season
 
-| Feature | Detail |
-| --- | --- |
-| Time | Short summer season between rabi and kharif |
+| Feature         | Detail                                                    |
+| --------------- | --------------------------------------------------------- |
+| Time            | Short summer season between rabi and kharif               |
 | Important crops | Watermelon, muskmelon, cucumber, vegetables, fodder crops |
-| Special note | Sugarcane takes almost a year to grow |
+| Special note    | Sugarcane takes almost a year to grow                     |
 
 ## Rabi, Kharif, Zaid Comparison
 
-| Point | Rabi | Kharif | Zaid |
-| --- | --- | --- | --- |
-| Season | Winter | Monsoon | Summer |
-| Sowing | October-December | Onset of monsoon | After rabi, before kharif |
-| Harvesting | April-June | September-October | Before monsoon |
-| Examples | Wheat, gram, mustard | Rice, maize, cotton, jute | Watermelon, cucumber, fodder |
-| Water source | Winter rain and irrigation | Monsoon rain | Irrigation often needed |
+| Point        | Rabi                       | Kharif                    | Zaid                         |
+| ------------ | -------------------------- | ------------------------- | ---------------------------- |
+| Season       | Winter                     | Monsoon                   | Summer                       |
+| Sowing       | October-December           | Onset of monsoon          | After rabi, before kharif    |
+| Harvesting   | April-June                 | September-October         | Before monsoon               |
+| Examples     | Wheat, gram, mustard       | Rice, maize, cotton, jute | Watermelon, cucumber, fodder |
+| Water source | Winter rain and irrigation | Monsoon rain              | Irrigation often needed      |
 
 ---
 
@@ -416,13 +417,13 @@ Rice is a kharif crop.
 
 ## Geographical Conditions
 
-| Requirement | Detail |
-| --- | --- |
-| Temperature | Above 25 degrees Celsius |
-| Humidity | High humidity |
-| Rainfall | Annual rainfall above 100 cm |
-| Water | Irrigation needed in areas of less rainfall |
-| Land | Plains, coastal areas, deltaic regions |
+| Requirement | Detail                                      |
+| ----------- | ------------------------------------------- |
+| Temperature | Above 25 degrees Celsius                    |
+| Humidity    | High humidity                               |
+| Rainfall    | Annual rainfall above 100 cm                |
+| Water       | Irrigation needed in areas of less rainfall |
+| Land        | Plains, coastal areas, deltaic regions      |
 
 ## Major Regions
 
@@ -468,11 +469,11 @@ Wheat is a rabi crop.
 
 ## Geographical Conditions
 
-| Requirement | Detail |
-| --- | --- |
-| Growing season | Cool |
-| Ripening season | Bright sunshine |
-| Rainfall | 50 to 75 cm, evenly distributed |
+| Requirement     | Detail                                              |
+| --------------- | --------------------------------------------------- |
+| Growing season  | Cool                                                |
+| Ripening season | Bright sunshine                                     |
+| Rainfall        | 50 to 75 cm, evenly distributed                     |
 | Soil and region | Ganga-Satluj plains and black soil region of Deccan |
 
 ## Major Wheat-Producing States
@@ -486,10 +487,10 @@ Wheat is a rabi crop.
 
 ## Wheat-Growing Zones
 
-| Zone | Region |
-| --- | --- |
+| Zone                | Region              |
+| ------------------- | ------------------- |
 | Ganga-Satluj plains | North-western India |
-| Black soil region | Deccan |
+| Black soil region   | Deccan              |
 
 ---
 
@@ -515,27 +516,27 @@ Millets are important because:
 
 ## Jowar
 
-| Feature | Detail |
-| --- | --- |
-| Importance | Third most important food crop by area and production |
-| Water need | Rain-fed crop, mostly in moist areas |
-| Irrigation | Hardly needs irrigation |
+| Feature      | Detail                                                 |
+| ------------ | ------------------------------------------------------ |
+| Importance   | Third most important food crop by area and production  |
+| Water need   | Rain-fed crop, mostly in moist areas                   |
+| Irrigation   | Hardly needs irrigation                                |
 | Major states | Maharashtra, Karnataka, Andhra Pradesh, Madhya Pradesh |
 
 ## Bajra
 
-| Feature | Detail |
-| --- | --- |
-| Soil | Sandy soils and shallow black soil |
+| Feature      | Detail                                                  |
+| ------------ | ------------------------------------------------------- |
+| Soil         | Sandy soils and shallow black soil                      |
 | Major states | Rajasthan, Uttar Pradesh, Maharashtra, Gujarat, Haryana |
 
 ## Ragi
 
-| Feature | Detail |
-| --- | --- |
-| Nutrition | Rich in iron, calcium, micronutrients, and roughage |
-| Region | Dry regions |
-| Soil | Red, black, sandy, loamy, and shallow black soils |
+| Feature      | Detail                                                                                     |
+| ------------ | ------------------------------------------------------------------------------------------ |
+| Nutrition    | Rich in iron, calcium, micronutrients, and roughage                                        |
+| Region       | Dry regions                                                                                |
+| Soil         | Red, black, sandy, loamy, and shallow black soils                                          |
 | Major states | Karnataka, Tamil Nadu, Himachal Pradesh, Uttarakhand, Sikkim, Jharkhand, Arunachal Pradesh |
 
 ---
@@ -552,11 +553,11 @@ Maize is mainly a kharif crop. In some states such as Bihar, it is also grown in
 
 ## Geographical Conditions
 
-| Requirement | Detail |
-| --- | --- |
-| Temperature | 21 degrees Celsius to 27 degrees Celsius |
-| Soil | Old alluvial soil |
-| Inputs | HYV seeds, fertilizers, and irrigation increase production |
+| Requirement | Detail                                                     |
+| ----------- | ---------------------------------------------------------- |
+| Temperature | 21 degrees Celsius to 27 degrees Celsius                   |
+| Soil        | Old alluvial soil                                          |
+| Inputs      | HYV seeds, fertilizers, and irrigation increase production |
 
 ## Major Maize-Producing States
 
@@ -623,14 +624,14 @@ India is the second largest producer of sugarcane after Brazil.
 
 ## Geographical Conditions
 
-| Requirement | Detail |
-| --- | --- |
-| Climate | Tropical and subtropical |
-| Temperature | 21 degrees Celsius to 27 degrees Celsius |
-| Rainfall | 75 cm to 100 cm |
-| Water | Irrigation required in low rainfall areas |
-| Soil | Can grow on a variety of soils |
-| Labour | Needs manual labour from sowing to harvesting |
+| Requirement | Detail                                        |
+| ----------- | --------------------------------------------- |
+| Climate     | Tropical and subtropical                      |
+| Temperature | 21 degrees Celsius to 27 degrees Celsius      |
+| Rainfall    | 75 cm to 100 cm                               |
+| Water       | Irrigation required in low rainfall areas     |
+| Soil        | Can grow on a variety of soils                |
+| Labour      | Needs manual labour from sowing to harvesting |
 
 ## Major Sugarcane-Producing States
 
@@ -658,15 +659,15 @@ India was the second largest producer of tea after China in 2014.
 
 ## Geographical Conditions
 
-| Requirement | Detail |
-| --- | --- |
-| Climate | Tropical and subtropical |
-| Soil | Deep, fertile, well-drained soil |
-| Soil quality | Rich in humus and organic matter |
-| Temperature and moisture | Warm, moist, frost-free climate throughout the year |
-| Rainfall | Frequent showers evenly distributed through the year |
-| Labour | Abundant, cheap, and skilled labour |
-| Processing | Tea must be processed within the tea garden to retain freshness |
+| Requirement              | Detail                                                          |
+| ------------------------ | --------------------------------------------------------------- |
+| Climate                  | Tropical and subtropical                                        |
+| Soil                     | Deep, fertile, well-drained soil                                |
+| Soil quality             | Rich in humus and organic matter                                |
+| Temperature and moisture | Warm, moist, frost-free climate throughout the year             |
+| Rainfall                 | Frequent showers evenly distributed through the year            |
+| Labour                   | Abundant, cheap, and skilled labour                             |
+| Processing               | Tea must be processed within the tea garden to retain freshness |
 
 ## Major Tea-Producing Regions
 
@@ -720,15 +721,15 @@ India produces both tropical and temperate fruits.
 
 ## Fruits and Regions
 
-| Fruit | Important Regions |
-| --- | --- |
-| Mango | Maharashtra, Andhra Pradesh, Telangana, Uttar Pradesh, West Bengal |
-| Orange | Nagpur, Cherrapunji in Meghalaya |
-| Banana | Kerala, Mizoram, Maharashtra, Tamil Nadu |
-| Litchi and guava | Uttar Pradesh, Bihar |
-| Pineapple | Meghalaya |
-| Grapes | Andhra Pradesh, Telangana, Maharashtra |
-| Apple, pear, apricot, walnut | Jammu and Kashmir, Himachal Pradesh |
+| Fruit                        | Important Regions                                                  |
+| ---------------------------- | ------------------------------------------------------------------ |
+| Mango                        | Maharashtra, Andhra Pradesh, Telangana, Uttar Pradesh, West Bengal |
+| Orange                       | Nagpur, Cherrapunji in Meghalaya                                   |
+| Banana                       | Kerala, Mizoram, Maharashtra, Tamil Nadu                           |
+| Litchi and guava             | Uttar Pradesh, Bihar                                               |
+| Pineapple                    | Meghalaya                                                          |
+| Grapes                       | Andhra Pradesh, Telangana, Maharashtra                             |
+| Apple, pear, apricot, walnut | Jammu and Kashmir, Himachal Pradesh                                |
 
 ## Vegetables
 
@@ -758,12 +759,12 @@ India ranked fourth among the world's natural rubber producers in 2012-13.
 
 ## Geographical Conditions
 
-| Requirement | Detail |
-| --- | --- |
-| Climate | Equatorial; also grown under special conditions in tropical and subtropical areas |
-| Rainfall | More than 200 cm |
-| Temperature | Above 25 degrees Celsius |
-| Moisture | Moist and humid climate |
+| Requirement | Detail                                                                            |
+| ----------- | --------------------------------------------------------------------------------- |
+| Climate     | Equatorial; also grown under special conditions in tropical and subtropical areas |
+| Rainfall    | More than 200 cm                                                                  |
+| Temperature | Above 25 degrees Celsius                                                          |
+| Moisture    | Moist and humid climate                                                           |
 
 ## Major Rubber-Producing Regions
 
@@ -815,15 +816,15 @@ India was the second largest producer of cotton after China in 2014.
 
 ## Geographical Conditions
 
-| Requirement | Detail |
-| --- | --- |
-| Soil | Black cotton soil of the Deccan Plateau |
-| Climate | High temperature |
-| Rainfall | Light rainfall or irrigation |
-| Frost-free days | 210 frost-free days |
-| Sunlight | Bright sunshine |
-| Season | Kharif |
-| Maturity | 6 to 8 months |
+| Requirement     | Detail                                  |
+| --------------- | --------------------------------------- |
+| Soil            | Black cotton soil of the Deccan Plateau |
+| Climate         | High temperature                        |
+| Rainfall        | Light rainfall or irrigation            |
+| Frost-free days | 210 frost-free days                     |
+| Sunlight        | Bright sunshine                         |
+| Season          | Kharif                                  |
+| Maturity        | 6 to 8 months                           |
 
 ## Major Cotton-Producing States
 
@@ -848,11 +849,11 @@ Jute is known as the golden fibre.
 
 ## Geographical Conditions
 
-| Requirement | Detail |
-| --- | --- |
-| Soil | Well-drained fertile soils in flood plains |
-| Soil renewal | Flood plains renew soil every year |
-| Temperature | High temperature during growth |
+| Requirement  | Detail                                     |
+| ------------ | ------------------------------------------ |
+| Soil         | Well-drained fertile soils in flood plains |
+| Soil renewal | Flood plains renew soil every year         |
+| Temperature  | High temperature during growth             |
 
 ## Major Jute-Producing States
 
@@ -881,21 +882,21 @@ Jute is losing market to synthetic fibres and packing materials, especially nylo
 
 # Unit 4I: Crop Summary Table
 
-| Crop | Season | Conditions | Major Regions or States | Important Use |
-| --- | --- | --- | --- | --- |
-| Rice | Kharif | Above 25 degrees Celsius, high humidity, over 100 cm rainfall or irrigation | Assam, West Bengal, Odisha, Andhra Pradesh, Telangana, Tamil Nadu, Kerala, Maharashtra, UP, Bihar, Punjab, Haryana | Staple food |
-| Wheat | Rabi | Cool growing season, bright sunshine at ripening, 50-75 cm rainfall | Punjab, Haryana, UP, Bihar, Rajasthan, MP | Food grain |
-| Jowar | Kharif mainly | Rain-fed, moist areas, little irrigation | Maharashtra, Karnataka, Andhra Pradesh, MP | Millet food crop |
-| Bajra | Kharif | Sandy and shallow black soils | Rajasthan, UP, Maharashtra, Gujarat, Haryana | Millet food crop |
-| Ragi | Kharif | Dry regions, red/black/sandy/loamy soils | Karnataka, Tamil Nadu, HP, Uttarakhand, Sikkim, Jharkhand, Arunachal Pradesh | Nutritious millet |
-| Maize | Kharif, sometimes rabi | 21-27 degrees Celsius, old alluvial soil | Karnataka, UP, Bihar, Andhra Pradesh, Telangana, MP | Food and fodder |
-| Pulses | Kharif and rabi | Less moisture, dry conditions | MP, UP, Rajasthan, Maharashtra, Karnataka | Protein source |
-| Sugarcane | Annual | 21-27 degrees Celsius, 75-100 cm rainfall, irrigation if needed | UP, Maharashtra, Karnataka, Tamil Nadu, Andhra Pradesh, Telangana, Bihar, Punjab, Haryana | Sugar, gur, khandsari, molasses |
-| Tea | Plantation | Warm, moist, frost-free, frequent showers, humus-rich soil | Assam, Darjeeling, Jalpaiguri, Tamil Nadu, Kerala | Beverage |
-| Coffee | Plantation | Hill regions, quality Arabica | Karnataka, Kerala, Tamil Nadu | Beverage export |
-| Rubber | Plantation | More than 200 cm rainfall, above 25 degrees Celsius, humid | Kerala, Tamil Nadu, Karnataka, Andaman and Nicobar, Garo Hills | Industrial raw material |
-| Cotton | Kharif | Black soil, high temperature, light rainfall or irrigation, 210 frost-free days | Maharashtra, Gujarat, MP, Karnataka, Andhra Pradesh, Telangana, Tamil Nadu, Punjab, Haryana, UP | Textile raw material |
-| Jute | Kharif | Fertile flood plains, high temperature | West Bengal, Bihar, Assam, Odisha, Meghalaya | Golden fibre, bags, ropes, mats |
+| Crop      | Season                 | Conditions                                                                      | Major Regions or States                                                                                            | Important Use                   |
+| --------- | ---------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------- |
+| Rice      | Kharif                 | Above 25 degrees Celsius, high humidity, over 100 cm rainfall or irrigation     | Assam, West Bengal, Odisha, Andhra Pradesh, Telangana, Tamil Nadu, Kerala, Maharashtra, UP, Bihar, Punjab, Haryana | Staple food                     |
+| Wheat     | Rabi                   | Cool growing season, bright sunshine at ripening, 50-75 cm rainfall             | Punjab, Haryana, UP, Bihar, Rajasthan, MP                                                                          | Food grain                      |
+| Jowar     | Kharif mainly          | Rain-fed, moist areas, little irrigation                                        | Maharashtra, Karnataka, Andhra Pradesh, MP                                                                         | Millet food crop                |
+| Bajra     | Kharif                 | Sandy and shallow black soils                                                   | Rajasthan, UP, Maharashtra, Gujarat, Haryana                                                                       | Millet food crop                |
+| Ragi      | Kharif                 | Dry regions, red/black/sandy/loamy soils                                        | Karnataka, Tamil Nadu, HP, Uttarakhand, Sikkim, Jharkhand, Arunachal Pradesh                                       | Nutritious millet               |
+| Maize     | Kharif, sometimes rabi | 21-27 degrees Celsius, old alluvial soil                                        | Karnataka, UP, Bihar, Andhra Pradesh, Telangana, MP                                                                | Food and fodder                 |
+| Pulses    | Kharif and rabi        | Less moisture, dry conditions                                                   | MP, UP, Rajasthan, Maharashtra, Karnataka                                                                          | Protein source                  |
+| Sugarcane | Annual                 | 21-27 degrees Celsius, 75-100 cm rainfall, irrigation if needed                 | UP, Maharashtra, Karnataka, Tamil Nadu, Andhra Pradesh, Telangana, Bihar, Punjab, Haryana                          | Sugar, gur, khandsari, molasses |
+| Tea       | Plantation             | Warm, moist, frost-free, frequent showers, humus-rich soil                      | Assam, Darjeeling, Jalpaiguri, Tamil Nadu, Kerala                                                                  | Beverage                        |
+| Coffee    | Plantation             | Hill regions, quality Arabica                                                   | Karnataka, Kerala, Tamil Nadu                                                                                      | Beverage export                 |
+| Rubber    | Plantation             | More than 200 cm rainfall, above 25 degrees Celsius, humid                      | Kerala, Tamil Nadu, Karnataka, Andaman and Nicobar, Garo Hills                                                     | Industrial raw material         |
+| Cotton    | Kharif                 | Black soil, high temperature, light rainfall or irrigation, 210 frost-free days | Maharashtra, Gujarat, MP, Karnataka, Andhra Pradesh, Telangana, Tamil Nadu, Punjab, Haryana, UP                    | Textile raw material            |
+| Jute      | Kharif                 | Fertile flood plains, high temperature                                          | West Bengal, Bihar, Assam, Odisha, Meghalaya                                                                       | Golden fibre, bags, ropes, mats |
 
 ---
 
@@ -921,13 +922,13 @@ Problems included:
 
 After Independence, the following reforms were given priority:
 
-| Reform | Purpose |
-| --- | --- |
-| Collectivisation | Promote collective agricultural effort. |
-| Consolidation of holdings | Combine scattered land parcels into manageable holdings. |
-| Cooperation | Encourage cooperative credit, marketing, and farming support. |
-| Abolition of zamindari | Remove exploitative intermediaries. |
-| Land reforms | Improve ownership and access to land. |
+| Reform                    | Purpose                                                       |
+| ------------------------- | ------------------------------------------------------------- |
+| Collectivisation          | Promote collective agricultural effort.                       |
+| Consolidation of holdings | Combine scattered land parcels into manageable holdings.      |
+| Cooperation               | Encourage cooperative credit, marketing, and farming support. |
+| Abolition of zamindari    | Remove exploitative intermediaries.                           |
+| Land reforms              | Improve ownership and access to land.                         |
 
 Land reform was the main focus of the First Five Year Plan.
 
@@ -937,10 +938,10 @@ Land reform laws were enacted, but implementation was often weak or lukewarm.
 
 ## Green Revolution and White Revolution
 
-| Reform | Meaning | Impact |
-| --- | --- | --- |
+| Reform           | Meaning                                                                      | Impact                                                    |
+| ---------------- | ---------------------------------------------------------------------------- | --------------------------------------------------------- |
 | Green Revolution | Use of HYV seeds, irrigation, fertilizers, pesticides, and modern technology | Increased foodgrain production, especially wheat and rice |
-| White Revolution | Operation Flood | Increased milk production |
+| White Revolution | Operation Flood                                                              | Increased milk production                                 |
 
 ## Limitation
 
@@ -1067,17 +1068,17 @@ The main objective is to ensure availability of foodgrains to common people at a
 
 ## Problems with Food Security and Agriculture
 
-| Problem | Explanation |
-| --- | --- |
-| BPL/APL categorisation | Some deserving poor are excluded from BPL. |
-| Crop failure | APL families may slip into poverty after one crop failure. |
-| MSP distortion | High MSP for wheat and paddy encourages overproduction of these crops. |
-| Subsidy inefficiency | Fertilizer, power, and water subsidies may lead to wasteful use. |
-| Environmental damage | Excessive fertilizers and water cause waterlogging, salinity, and loss of micronutrients. |
-| Cereal shift | Shift from food crops to fruits, vegetables, oilseeds, and industrial crops reduces area under cereals and pulses. |
-| Land competition | Housing and non-agricultural uses reduce net sown area. |
-| Water scarcity | Periodic scarcity reduces irrigated area. |
-| Poor storage and marketing | Farmers face distress sale and low bargaining power. |
+| Problem                    | Explanation                                                                                                        |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| BPL/APL categorisation     | Some deserving poor are excluded from BPL.                                                                         |
+| Crop failure               | APL families may slip into poverty after one crop failure.                                                         |
+| MSP distortion             | High MSP for wheat and paddy encourages overproduction of these crops.                                             |
+| Subsidy inefficiency       | Fertilizer, power, and water subsidies may lead to wasteful use.                                                   |
+| Environmental damage       | Excessive fertilizers and water cause waterlogging, salinity, and loss of micronutrients.                          |
+| Cereal shift               | Shift from food crops to fruits, vegetables, oilseeds, and industrial crops reduces area under cereals and pulses. |
+| Land competition           | Housing and non-agricultural uses reduce net sown area.                                                            |
+| Water scarcity             | Periodic scarcity reduces irrigated area.                                                                          |
+| Poor storage and marketing | Farmers face distress sale and low bargaining power.                                                               |
 
 ## Why Small Farmers Matter
 
@@ -1105,11 +1106,11 @@ The chapter explains that globalisation existed even during colonial times.
 
 Historical examples:
 
-| Period | Example |
-| --- | --- |
-| Nineteenth century | Indian spices were exported to many countries. |
-| British period | Cotton was exported to Britain for textile industries in Manchester and Liverpool. |
-| Champaran, 1917 | Farmers were forced to grow indigo for British textile needs. |
+| Period             | Example                                                                            |
+| ------------------ | ---------------------------------------------------------------------------------- |
+| Nineteenth century | Indian spices were exported to many countries.                                     |
+| British period     | Cotton was exported to Britain for textile industries in Manchester and Liverpool. |
+| Champaran, 1917    | Farmers were forced to grow indigo for British textile needs.                      |
 
 ## Globalisation after 1990
 
@@ -1117,15 +1118,15 @@ After 1990, Indian farmers faced new challenges because of liberalisation and gl
 
 ## Challenges
 
-| Challenge | Explanation |
-| --- | --- |
+| Challenge                            | Explanation                                                                       |
+| ------------------------------------ | --------------------------------------------------------------------------------- |
 | Competition with developed countries | Developed countries heavily subsidise agriculture, making their products cheaper. |
-| Reduced import duties | Foreign agricultural goods can compete with Indian produce. |
-| Falling investment | Farmers may withdraw investment due to uncertainty. |
-| Input costs | HYV seeds, fertilizers, pesticides, and irrigation can be expensive. |
-| Price uncertainty | Farmers often cannot fix prices in their favour. |
-| Land fragmentation | Holdings become smaller as population rises. |
-| Environmental problems | Chemical overuse, aquifer depletion, and biodiversity loss. |
+| Reduced import duties                | Foreign agricultural goods can compete with Indian produce.                       |
+| Falling investment                   | Farmers may withdraw investment due to uncertainty.                               |
+| Input costs                          | HYV seeds, fertilizers, pesticides, and irrigation can be expensive.              |
+| Price uncertainty                    | Farmers often cannot fix prices in their favour.                                  |
+| Land fragmentation                   | Holdings become smaller as population rises.                                      |
+| Environmental problems               | Chemical overuse, aquifer depletion, and biodiversity loss.                       |
 
 ## Globalisation and Crop Diversification
 
@@ -1159,19 +1160,19 @@ Indian agriculture can benefit from global markets and high-value crops, but sma
 
 # Unit 4N: Major Problems Faced by Indian Farmers
 
-| Problem | Explanation |
-| --- | --- |
-| Small landholdings | Holdings become smaller due to inheritance and population pressure. |
-| Monsoon dependence | Many farmers still depend on uncertain rainfall. |
-| High input cost | HYV seeds, fertilizers, pesticides, diesel, electricity, and irrigation are costly. |
-| Low bargaining power | Farmers often sell when supply is high and prices are low. |
-| Storage shortage | Lack of storage causes distress sale. |
-| Marketing problems | Middlemen and market uncertainty reduce farmer income. |
-| Water depletion | Free or cheap power encourages over-pumping of groundwater. |
-| Land degradation | Chemicals, waterlogging, salinity, and erosion reduce productivity. |
-| Global competition | Foreign subsidised products create pressure. |
-| Reduced investment | Falling public investment weakens irrigation, research, and infrastructure. |
-| Debt and distress | Crop failure and price fall can push farmers into debt. |
+| Problem              | Explanation                                                                         |
+| -------------------- | ----------------------------------------------------------------------------------- |
+| Small landholdings   | Holdings become smaller due to inheritance and population pressure.                 |
+| Monsoon dependence   | Many farmers still depend on uncertain rainfall.                                    |
+| High input cost      | HYV seeds, fertilizers, pesticides, diesel, electricity, and irrigation are costly. |
+| Low bargaining power | Farmers often sell when supply is high and prices are low.                          |
+| Storage shortage     | Lack of storage causes distress sale.                                               |
+| Marketing problems   | Middlemen and market uncertainty reduce farmer income.                              |
+| Water depletion      | Free or cheap power encourages over-pumping of groundwater.                         |
+| Land degradation     | Chemicals, waterlogging, salinity, and erosion reduce productivity.                 |
+| Global competition   | Foreign subsidised products create pressure.                                        |
+| Reduced investment   | Falling public investment weakens irrigation, research, and infrastructure.         |
+| Debt and distress    | Crop failure and price fall can push farmers into debt.                             |
 
 ## Unsustainable Water Use Examples
 
@@ -1305,18 +1306,18 @@ Use this structure:
 
 # Common Mistakes to Avoid
 
-| Mistake | Correct Understanding |
-| --- | --- |
-| Writing all agriculture is subsistence in India. | India has subsistence, intensive, commercial, and plantation farming. |
-| Confusing rabi and kharif. | Rabi is winter; kharif is monsoon. |
-| Writing rice is a rabi crop. | Rice is a kharif crop. |
-| Writing gram is a kharif crop. | Gram is a rabi crop. |
-| Forgetting irrigation in rice answers. | Rice can grow in low rainfall areas with irrigation. |
-| Calling millets low-value only. | Millets are coarse grains but highly nutritious. |
-| Writing all pulses fix nitrogen. | The chapter notes that all pulses except arhar help restore soil fertility by fixing nitrogen. |
-| Confusing plantation with shifting cultivation. | Plantation is commercial single-crop farming on large areas; shifting cultivation is slash and burn subsistence farming. |
-| Writing food security only means production. | Food security also means access, affordability, distribution, buffer stock, and PDS. |
-| Ignoring small farmers. | The chapter clearly says food security requires security of small farmers. |
+| Mistake                                          | Correct Understanding                                                                                                    |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| Writing all agriculture is subsistence in India. | India has subsistence, intensive, commercial, and plantation farming.                                                    |
+| Confusing rabi and kharif.                       | Rabi is winter; kharif is monsoon.                                                                                       |
+| Writing rice is a rabi crop.                     | Rice is a kharif crop.                                                                                                   |
+| Writing gram is a kharif crop.                   | Gram is a rabi crop.                                                                                                     |
+| Forgetting irrigation in rice answers.           | Rice can grow in low rainfall areas with irrigation.                                                                     |
+| Calling millets low-value only.                  | Millets are coarse grains but highly nutritious.                                                                         |
+| Writing all pulses fix nitrogen.                 | The chapter notes that all pulses except arhar help restore soil fertility by fixing nitrogen.                           |
+| Confusing plantation with shifting cultivation.  | Plantation is commercial single-crop farming on large areas; shifting cultivation is slash and burn subsistence farming. |
+| Writing food security only means production.     | Food security also means access, affordability, distribution, buffer stock, and PDS.                                     |
+| Ignoring small farmers.                          | The chapter clearly says food security requires security of small farmers.                                               |
 
 ---
 
@@ -1324,47 +1325,47 @@ Use this structure:
 
 ## Types of Farming
 
-| Type | Main Feature | Example |
-| --- | --- | --- |
-| Primitive subsistence | Small patches, primitive tools, family labour, slash and burn | Jhumming |
-| Intensive subsistence | High population pressure, labour-intensive, high inputs | Fertile densely populated plains |
-| Commercial farming | Market-oriented, HYV seeds, fertilizers, pesticides | Rice in Punjab/Haryana |
-| Plantation | Single crop on large area, agriculture-industry link | Tea in Assam, coffee in Karnataka |
+| Type                  | Main Feature                                                  | Example                           |
+| --------------------- | ------------------------------------------------------------- | --------------------------------- |
+| Primitive subsistence | Small patches, primitive tools, family labour, slash and burn | Jhumming                          |
+| Intensive subsistence | High population pressure, labour-intensive, high inputs       | Fertile densely populated plains  |
+| Commercial farming    | Market-oriented, HYV seeds, fertilizers, pesticides           | Rice in Punjab/Haryana            |
+| Plantation            | Single crop on large area, agriculture-industry link          | Tea in Assam, coffee in Karnataka |
 
 ## Cropping Seasons
 
-| Season | Time | Crops |
-| --- | --- | --- |
-| Rabi | Sown Oct-Dec, harvested Apr-Jun | Wheat, barley, peas, gram, mustard |
-| Kharif | Monsoon, harvested Sept-Oct | Rice, maize, jowar, bajra, cotton, jute, groundnut |
-| Zaid | Summer between rabi and kharif | Watermelon, muskmelon, cucumber, vegetables, fodder |
+| Season | Time                            | Crops                                               |
+| ------ | ------------------------------- | --------------------------------------------------- |
+| Rabi   | Sown Oct-Dec, harvested Apr-Jun | Wheat, barley, peas, gram, mustard                  |
+| Kharif | Monsoon, harvested Sept-Oct     | Rice, maize, jowar, bajra, cotton, jute, groundnut  |
+| Zaid   | Summer between rabi and kharif  | Watermelon, muskmelon, cucumber, vegetables, fodder |
 
 ## Crop Conditions Quick Table
 
-| Crop | Key Condition |
-| --- | --- |
-| Rice | Above 25 degrees Celsius, high humidity, over 100 cm rainfall |
-| Wheat | Cool growing season, bright sunshine, 50-75 cm rainfall |
-| Sugarcane | 21-27 degrees Celsius, 75-100 cm rainfall |
-| Tea | Warm, moist, frost-free, humus-rich soil, frequent showers |
-| Rubber | More than 200 cm rainfall, above 25 degrees Celsius |
-| Cotton | Black soil, high temperature, 210 frost-free days |
-| Jute | Fertile flood plains, high temperature |
-| Maize | 21-27 degrees Celsius, old alluvial soil |
+| Crop      | Key Condition                                                 |
+| --------- | ------------------------------------------------------------- |
+| Rice      | Above 25 degrees Celsius, high humidity, over 100 cm rainfall |
+| Wheat     | Cool growing season, bright sunshine, 50-75 cm rainfall       |
+| Sugarcane | 21-27 degrees Celsius, 75-100 cm rainfall                     |
+| Tea       | Warm, moist, frost-free, humus-rich soil, frequent showers    |
+| Rubber    | More than 200 cm rainfall, above 25 degrees Celsius           |
+| Cotton    | Black soil, high temperature, 210 frost-free days             |
+| Jute      | Fertile flood plains, high temperature                        |
+| Maize     | 21-27 degrees Celsius, old alluvial soil                      |
 
 ## Government Support
 
-| Support | Purpose |
-| --- | --- |
-| Land reforms | Improve land ownership and reduce exploitation |
-| Consolidation | Reduce fragmentation |
-| Green Revolution | Increase production |
-| Crop insurance | Protect against disasters |
-| Grameen banks | Provide rural credit |
-| KCC | Credit support |
-| MSP | Protect crop prices |
-| PDS | Provide subsidised food |
-| FCI | Procure and stock foodgrains |
+| Support          | Purpose                                        |
+| ---------------- | ---------------------------------------------- |
+| Land reforms     | Improve land ownership and reduce exploitation |
+| Consolidation    | Reduce fragmentation                           |
+| Green Revolution | Increase production                            |
+| Crop insurance   | Protect against disasters                      |
+| Grameen banks    | Provide rural credit                           |
+| KCC              | Credit support                                 |
+| MSP              | Protect crop prices                            |
+| PDS              | Provide subsidised food                        |
+| FCI              | Procure and stock foodgrains                   |
 
 ---
 

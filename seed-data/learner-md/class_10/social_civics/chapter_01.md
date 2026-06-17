@@ -1,20 +1,21 @@
 # Chapter 1: Power Sharing
+
 ### NCERT Class 10 - Social Civics
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-| --- | --- |
-| Class | 10 |
-| Subject | Social Civics |
-| Chapter | 1 - Power Sharing |
-| Central Question | Why should power be shared in a democracy instead of being concentrated in one person, group, organ, level, or community? |
-| Main Case Studies | Belgium and Sri Lanka |
-| Main Themes | Ethnic diversity, majoritarianism, accommodation, federalism, community government, prudential reasons, moral reasons, forms of power sharing |
-| Main Skills | Comparing countries, identifying democratic principles, classifying forms of power sharing, distinguishing moral and prudential reasons |
-| Exam Importance | Very high: Belgium model, Sri Lanka majoritarianism, reasons for power sharing, four forms of power sharing |
+| Detail            | Learner-Friendly Information                                                                                                                  |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Class             | 10                                                                                                                                            |
+| Subject           | Social Civics                                                                                                                                 |
+| Chapter           | 1 - Power Sharing                                                                                                                             |
+| Central Question  | Why should power be shared in a democracy instead of being concentrated in one person, group, organ, level, or community?                     |
+| Main Case Studies | Belgium and Sri Lanka                                                                                                                         |
+| Main Themes       | Ethnic diversity, majoritarianism, accommodation, federalism, community government, prudential reasons, moral reasons, forms of power sharing |
+| Main Skills       | Comparing countries, identifying democratic principles, classifying forms of power sharing, distinguishing moral and prudential reasons       |
+| Exam Importance   | Very high: Belgium model, Sri Lanka majoritarianism, reasons for power sharing, four forms of power sharing                                   |
 
 ---
 
@@ -40,15 +41,15 @@ The key idea is:
 
 After studying this chapter, you should be able to:
 
-| Skill | You Should Be Able To |
-| --- | --- |
-| Define | Explain ethnic group, majoritarianism, civil war, prudential reason, moral reason, horizontal distribution, vertical distribution, federal government, community government, coalition government, checks and balances. |
-| Describe | Explain ethnic composition of Belgium and Sri Lanka. |
-| Compare | Compare Belgium's accommodation model with Sri Lanka's majoritarian model. |
-| Analyse | Explain why power sharing is desirable in a democracy. |
-| Classify | Identify four forms of power sharing in modern democracies. |
-| Apply | Recognise real-life examples of horizontal, vertical, community, and party-based power sharing. |
-| Write | Prepare accurate answers for NCERT exercise questions. |
+| Skill    | You Should Be Able To                                                                                                                                                                                                   |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Define   | Explain ethnic group, majoritarianism, civil war, prudential reason, moral reason, horizontal distribution, vertical distribution, federal government, community government, coalition government, checks and balances. |
+| Describe | Explain ethnic composition of Belgium and Sri Lanka.                                                                                                                                                                    |
+| Compare  | Compare Belgium's accommodation model with Sri Lanka's majoritarian model.                                                                                                                                              |
+| Analyse  | Explain why power sharing is desirable in a democracy.                                                                                                                                                                  |
+| Classify | Identify four forms of power sharing in modern democracies.                                                                                                                                                             |
+| Apply    | Recognise real-life examples of horizontal, vertical, community, and party-based power sharing.                                                                                                                         |
+| Write    | Prepare accurate answers for NCERT exercise questions.                                                                                                                                                                  |
 
 ---
 
@@ -78,25 +79,25 @@ Belgium shows accommodation. Sri Lanka shows the danger of majoritarianism.
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Power Sharing | Distribution of political power among different organs, levels, groups, or parties so that no single group controls everything. |
-| Democracy | System in which people are the source of political power and participate through representatives and institutions. |
-| Ethnic Group | Social group based on shared culture, common descent, physical type, language, or cultural similarity. |
-| Majoritarianism | Belief that the majority community should rule in any way it wants, ignoring minority wishes and needs. |
-| Civil War | Violent conflict between groups within the same country, becoming intense like a war. |
-| Accommodation | Adjusting political arrangements to respect different communities and reduce conflict. |
-| Prudential Reason | Reason based on careful calculation of gains, losses, and practical outcomes. |
-| Moral Reason | Reason based on what is right, fair, and democratic in principle. |
-| Tyranny of Majority | Situation where the majority uses its power oppressively against minorities. |
-| Horizontal Distribution | Sharing power among different organs of government at the same level, such as legislature, executive, and judiciary. |
-| Checks and Balances | System in which each organ of government can check the others so that power is not unlimited. |
-| Vertical Distribution | Sharing power among governments at different levels, such as central, state, and local governments. |
-| Federal Government | System where power is divided between a general government and regional governments. |
-| Community Government | Government elected by people of one language community, with power over cultural, educational, and language issues. |
-| Reserved Constituency | Electoral arrangement that gives representation to weaker sections or specific groups. |
-| Coalition Government | Government formed by two or more political parties that share power. |
-| Pressure Group | Organisation that tries to influence government policy without directly forming government. |
+| Term                    | Meaning                                                                                                                         |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| Power Sharing           | Distribution of political power among different organs, levels, groups, or parties so that no single group controls everything. |
+| Democracy               | System in which people are the source of political power and participate through representatives and institutions.              |
+| Ethnic Group            | Social group based on shared culture, common descent, physical type, language, or cultural similarity.                          |
+| Majoritarianism         | Belief that the majority community should rule in any way it wants, ignoring minority wishes and needs.                         |
+| Civil War               | Violent conflict between groups within the same country, becoming intense like a war.                                           |
+| Accommodation           | Adjusting political arrangements to respect different communities and reduce conflict.                                          |
+| Prudential Reason       | Reason based on careful calculation of gains, losses, and practical outcomes.                                                   |
+| Moral Reason            | Reason based on what is right, fair, and democratic in principle.                                                               |
+| Tyranny of Majority     | Situation where the majority uses its power oppressively against minorities.                                                    |
+| Horizontal Distribution | Sharing power among different organs of government at the same level, such as legislature, executive, and judiciary.            |
+| Checks and Balances     | System in which each organ of government can check the others so that power is not unlimited.                                   |
+| Vertical Distribution   | Sharing power among governments at different levels, such as central, state, and local governments.                             |
+| Federal Government      | System where power is divided between a general government and regional governments.                                            |
+| Community Government    | Government elected by people of one language community, with power over cultural, educational, and language issues.             |
+| Reserved Constituency   | Electoral arrangement that gives representation to weaker sections or specific groups.                                          |
+| Coalition Government    | Government formed by two or more political parties that share power.                                                            |
+| Pressure Group          | Organisation that tries to influence government policy without directly forming government.                                     |
 
 ---
 
@@ -119,12 +120,12 @@ It is smaller in area than Haryana and has a population of a little over one cro
 
 ## Ethnic Composition of Belgium
 
-| Community / Region | Share and Language |
-| --- | --- |
-| Flemish region | 59 percent of population; Dutch-speaking |
-| Wallonia region | 40 percent of population; French-speaking |
-| German-speaking people | 1 percent of population |
-| Brussels | 80 percent French-speaking; 20 percent Dutch-speaking |
+| Community / Region     | Share and Language                                    |
+| ---------------------- | ----------------------------------------------------- |
+| Flemish region         | 59 percent of population; Dutch-speaking              |
+| Wallonia region        | 40 percent of population; French-speaking             |
+| German-speaking people | 1 percent of population                               |
+| Brussels               | 80 percent French-speaking; 20 percent Dutch-speaking |
 
 ## Why Belgium Had Tension
 
@@ -161,13 +162,13 @@ Sri Lanka is an island country with Sinhala-speaking and Tamil-speaking communit
 
 Sri Lanka has about two crore people.
 
-| Community | Share / Detail |
-| --- | --- |
-| Sinhala-speakers | 74 percent |
-| Tamil-speakers | 18 percent |
-| Sri Lankan Tamils | 13 percent; Tamil natives of Sri Lanka |
-| Indian Tamils | Descendants of plantation workers brought from India during colonial period |
-| Christians | About 7 percent; both Tamil and Sinhala |
+| Community         | Share / Detail                                                              |
+| ----------------- | --------------------------------------------------------------------------- |
+| Sinhala-speakers  | 74 percent                                                                  |
+| Tamil-speakers    | 18 percent                                                                  |
+| Sri Lankan Tamils | 13 percent; Tamil natives of Sri Lanka                                      |
+| Indian Tamils     | Descendants of plantation workers brought from India during colonial period |
+| Christians        | About 7 percent; both Tamil and Sinhala                                     |
 
 Most Sinhala-speaking people are Buddhists.
 
@@ -185,11 +186,11 @@ The elected government adopted majoritarian measures.
 
 ## Majoritarian Measures
 
-| Measure | Effect on Tamils |
-| --- | --- |
-| 1956 Act made Sinhala the only official language | Tamil language was disregarded. |
-| Preferential policies for Sinhala applicants | Tamils felt discriminated against in universities and government jobs. |
-| Constitution protected and fostered Buddhism | Tamil Hindus, Muslims, and Christians felt excluded. |
+| Measure                                          | Effect on Tamils                                                       |
+| ------------------------------------------------ | ---------------------------------------------------------------------- |
+| 1956 Act made Sinhala the only official language | Tamil language was disregarded.                                        |
+| Preferential policies for Sinhala applicants     | Tamils felt discriminated against in universities and government jobs. |
+| Constitution protected and fostered Buddhism     | Tamil Hindus, Muslims, and Christians felt excluded.                   |
 
 ## Tamil Alienation
 
@@ -296,13 +297,13 @@ When the European Union developed, Brussels was chosen as its headquarters.
 
 ## Belgium vs Sri Lanka
 
-| Belgium | Sri Lanka |
-| --- | --- |
-| Recognised diversity | Ignored minority demands |
-| Shared power | Concentrated power in majority |
-| Amended constitution for accommodation | Used majoritarian policies |
-| Protected language communities | Made Sinhala the only official language |
-| Avoided major conflict | Faced civil war |
+| Belgium                                | Sri Lanka                               |
+| -------------------------------------- | --------------------------------------- |
+| Recognised diversity                   | Ignored minority demands                |
+| Shared power                           | Concentrated power in majority          |
+| Amended constitution for accommodation | Used majoritarian policies              |
+| Protected language communities         | Made Sinhala the only official language |
+| Avoided major conflict                 | Faced civil war                         |
 
 ---
 
@@ -353,12 +354,12 @@ A legitimate government is one in which citizens participate and feel they have 
 
 ## Prudential vs Moral Reason
 
-| Basis | Prudential Reason | Moral Reason |
-| --- | --- | --- |
-| Main concern | Better outcomes | Democratic principle |
-| Focus | Stability and unity | People's right to participate |
-| Why power sharing is good | Reduces conflict | It is the essence of democracy |
-| Example | Belgium avoided conflict by sharing power | Citizens should be consulted because they are affected by government |
+| Basis                     | Prudential Reason                         | Moral Reason                                                         |
+| ------------------------- | ----------------------------------------- | -------------------------------------------------------------------- |
+| Main concern              | Better outcomes                           | Democratic principle                                                 |
+| Focus                     | Stability and unity                       | People's right to participate                                        |
+| Why power sharing is good | Reduces conflict                          | It is the essence of democracy                                       |
+| Example                   | Belgium avoided conflict by sharing power | Citizens should be consulted because they are affected by government |
 
 ## Model Answer
 
@@ -392,11 +393,11 @@ This creates a balance of power.
 
 ## Examples
 
-| Organ | Role |
-| --- | --- |
-| Legislature | Makes laws and represents people. |
-| Executive | Implements laws and runs administration. |
-| Judiciary | Interprets laws and checks unconstitutional actions. |
+| Organ       | Role                                                 |
+| ----------- | ---------------------------------------------------- |
+| Legislature | Makes laws and represents people.                    |
+| Executive   | Implements laws and runs administration.             |
+| Judiciary   | Interprets laws and checks unconstitutional actions. |
 
 Example:
 
@@ -498,23 +499,23 @@ They may participate in committees or influence decision-making from outside.
 
 ## Quick Identification Table
 
-| Example | Type of Power Sharing |
-| --- | --- |
-| Court checks government order | Horizontal sharing among organs |
-| State governments demand revenue share from federal government | Vertical sharing among levels |
-| Community government for language group | Sharing among social groups |
-| Reserved constituencies for weaker sections | Sharing among social groups |
-| Two parties form government together | Sharing among political parties |
-| Farmers' organisation influences policy | Sharing through pressure groups |
+| Example                                                        | Type of Power Sharing           |
+| -------------------------------------------------------------- | ------------------------------- |
+| Court checks government order                                  | Horizontal sharing among organs |
+| State governments demand revenue share from federal government | Vertical sharing among levels   |
+| Community government for language group                        | Sharing among social groups     |
+| Reserved constituencies for weaker sections                    | Sharing among social groups     |
+| Two parties form government together                           | Sharing among political parties |
+| Farmers' organisation influences policy                        | Sharing through pressure groups |
 
 ## NCERT Activity Examples
 
-| Example | Who Shares Power? | Form |
-| --- | --- | --- |
-| Bombay High Court orders Maharashtra government to improve children's homes | Judiciary and state executive | Horizontal distribution |
-| Ontario government settles land claim with aboriginal community | State government and social community | Sharing among social groups |
-| Russian parties unite into coalition | Political parties | Party-based sharing |
-| Nigerian state finance ministers demand income details from federal government | Federal and state governments | Vertical distribution |
+| Example                                                                        | Who Shares Power?                     | Form                        |
+| ------------------------------------------------------------------------------ | ------------------------------------- | --------------------------- |
+| Bombay High Court orders Maharashtra government to improve children's homes    | Judiciary and state executive         | Horizontal distribution     |
+| Ontario government settles land claim with aboriginal community                | State government and social community | Sharing among social groups |
+| Russian parties unite into coalition                                           | Political parties                     | Party-based sharing         |
+| Nigerian state finance ministers demand income details from federal government | Federal and state governments         | Vertical distribution       |
 
 ---
 
@@ -522,16 +523,16 @@ They may participate in committees or influence decision-making from outside.
 
 ## Belgium and Sri Lanka
 
-| Question | Belgium | Sri Lanka |
-| --- | --- | --- |
-| Main division | Dutch, French, German language communities | Sinhala and Tamil communities |
-| Majority | Dutch-speaking in country | Sinhala-speaking |
-| Minority | French-speaking nationally, Dutch-speaking in Brussels | Tamil-speaking |
-| Government response | Accommodation and power sharing | Majoritarian domination |
-| Language policy | Equal respect through arrangements | Sinhala only official language in 1956 |
-| Regional autonomy | Powers to regional governments | Tamil autonomy denied |
-| Result | Avoided major violence and division | Civil war and instability |
-| Lesson | Sharing power protects unity | Majoritarianism can destroy unity |
+| Question            | Belgium                                                | Sri Lanka                              |
+| ------------------- | ------------------------------------------------------ | -------------------------------------- |
+| Main division       | Dutch, French, German language communities             | Sinhala and Tamil communities          |
+| Majority            | Dutch-speaking in country                              | Sinhala-speaking                       |
+| Minority            | French-speaking nationally, Dutch-speaking in Brussels | Tamil-speaking                         |
+| Government response | Accommodation and power sharing                        | Majoritarian domination                |
+| Language policy     | Equal respect through arrangements                     | Sinhala only official language in 1956 |
+| Regional autonomy   | Powers to regional governments                         | Tamil autonomy denied                  |
+| Result              | Avoided major violence and division                    | Civil war and instability              |
+| Lesson              | Sharing power protects unity                           | Majoritarianism can destroy unity      |
 
 ---
 
@@ -576,12 +577,12 @@ Use this structure:
 
 Power sharing in modern democracies takes four main forms:
 
-| Form | Example |
-| --- | --- |
+| Form                       | Example                                                                        |
+| -------------------------- | ------------------------------------------------------------------------------ |
 | Among organs of government | Legislature, executive, and judiciary share power through checks and balances. |
-| Among levels of government | Union, State, and local governments in India share powers. |
-| Among social groups | Community government in Belgium; reserved constituencies in India. |
-| Among parties and groups | Coalition governments; pressure groups influencing policy. |
+| Among levels of government | Union, State, and local governments in India share powers.                     |
+| Among social groups        | Community government in Belgium; reserved constituencies in India.             |
+| Among parties and groups   | Coalition governments; pressure groups influencing policy.                     |
 
 ## Q2: One prudential and one moral reason for power sharing with Indian example
 
@@ -626,12 +627,12 @@ Correct option: **(d) B, C and D**
 
 ## Q8: Matching forms of power sharing
 
-| List I | List II |
-| --- | --- |
-| Power shared among organs | Separation of powers |
-| Power shared among levels | Federal government |
+| List I                        | List II              |
+| ----------------------------- | -------------------- |
+| Power shared among organs     | Separation of powers |
+| Power shared among levels     | Federal government   |
 | Power shared by social groups | Community government |
-| Power shared by parties | Coalition government |
+| Power shared by parties       | Coalition government |
 
 Correct option: **(c) B D A C**
 
@@ -647,15 +648,15 @@ Correct option: **(b) Both A and B are true**
 
 # Common Mistakes to Avoid
 
-| Mistake | Correct Understanding |
-| --- | --- |
-| "Power sharing means weakening the country." | Power sharing can strengthen unity by reducing conflict. |
-| "Democracy only means majority rule." | Democracy also means minority rights, consultation, and participation. |
-| "Belgium's model is simple." | It is complicated but effective in accommodation. |
+| Mistake                                                 | Correct Understanding                                                                           |
+| ------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| "Power sharing means weakening the country."            | Power sharing can strengthen unity by reducing conflict.                                        |
+| "Democracy only means majority rule."                   | Democracy also means minority rights, consultation, and participation.                          |
+| "Belgium's model is simple."                            | It is complicated but effective in accommodation.                                               |
 | "Sri Lanka was undemocratic because it held elections." | Sri Lanka was democratic electorally, but its majoritarian policies damaged equality and unity. |
-| "Prudential and moral reasons are the same." | Prudential is about practical outcomes; moral is about democratic principle. |
-| "Horizontal and vertical sharing are same." | Horizontal is among organs at same level; vertical is among different levels of government. |
-| "Pressure groups form governments." | Pressure groups influence power but do not normally form government. |
+| "Prudential and moral reasons are the same."            | Prudential is about practical outcomes; moral is about democratic principle.                    |
+| "Horizontal and vertical sharing are same."             | Horizontal is among organs at same level; vertical is among different levels of government.     |
+| "Pressure groups form governments."                     | Pressure groups influence power but do not normally form government.                            |
 
 ---
 
@@ -736,4 +737,3 @@ Before moving to the next chapter, make sure you can:
 - [ ] Explain power sharing among social groups.
 - [ ] Explain coalition governments and pressure groups.
 - [ ] Solve NCERT matching and multiple-choice questions.
-

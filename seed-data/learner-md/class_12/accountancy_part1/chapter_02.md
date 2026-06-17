@@ -2,13 +2,13 @@
 
 ## Chapter Identity
 
-| Item | Details |
-| --- | --- |
-| Class | 12 |
-| Subject | Accountancy Part 1 |
-| Chapter | Accounting for Partnership: Basic Concepts |
-| Core Skill | Applying partnership deed rules, preparing capital accounts, and distributing profit through Profit and Loss Appropriation Account |
-| Main Idea | Partnership accounting is built around agreement among partners and the correct treatment of profit, capital, drawings, salary, commission, and interest. |
+| Item       | Details                                                                                                                                                   |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Class      | 12                                                                                                                                                        |
+| Subject    | Accountancy Part 1                                                                                                                                        |
+| Chapter    | Accounting for Partnership: Basic Concepts                                                                                                                |
+| Core Skill | Applying partnership deed rules, preparing capital accounts, and distributing profit through Profit and Loss Appropriation Account                        |
+| Main Idea  | Partnership accounting is built around agreement among partners and the correct treatment of profit, capital, drawings, salary, commission, and interest. |
 
 ## 1. Big Picture
 
@@ -33,39 +33,39 @@ Partnership is a relationship between persons who agree to share the profits of 
 
 This definition contains four important ideas:
 
-| Idea | Meaning |
-| --- | --- |
-| Agreement | Partnership is created by agreement, not merely by joint ownership. |
-| Business | The activity must be business; charitable activity alone is not partnership. |
-| Profit sharing | Partners agree to share profits. Loss sharing is normally implied unless agreed otherwise. |
-| Mutual agency | Each partner is both an agent and a principal: a partner can bind the firm, and the firm can bind the partner. |
+| Idea           | Meaning                                                                                                        |
+| -------------- | -------------------------------------------------------------------------------------------------------------- |
+| Agreement      | Partnership is created by agreement, not merely by joint ownership.                                            |
+| Business       | The activity must be business; charitable activity alone is not partnership.                                   |
+| Profit sharing | Partners agree to share profits. Loss sharing is normally implied unless agreed otherwise.                     |
+| Mutual agency  | Each partner is both an agent and a principal: a partner can bind the firm, and the firm can bind the partner. |
 
 ## 3. Essential Features of Partnership
 
-| Feature | Explanation |
-| --- | --- |
-| Two or more persons | At least two persons are needed to form a partnership. |
-| Agreement | The relationship arises from agreement, oral or written. |
-| Lawful business | The firm must carry on lawful business. |
-| Sharing of profit | Partners must agree to share business profit. |
-| Mutual agency | Business may be carried on by all partners or by one acting for all. |
-| Unlimited liability | Partners are personally liable for firm debts, unless the structure is a limited liability partnership. |
-| No separate legal entity under ordinary partnership | The firm and partners are not fully separate in the way a company is separate from shareholders. |
+| Feature                                             | Explanation                                                                                             |
+| --------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| Two or more persons                                 | At least two persons are needed to form a partnership.                                                  |
+| Agreement                                           | The relationship arises from agreement, oral or written.                                                |
+| Lawful business                                     | The firm must carry on lawful business.                                                                 |
+| Sharing of profit                                   | Partners must agree to share business profit.                                                           |
+| Mutual agency                                       | Business may be carried on by all partners or by one acting for all.                                    |
+| Unlimited liability                                 | Partners are personally liable for firm debts, unless the structure is a limited liability partnership. |
+| No separate legal entity under ordinary partnership | The firm and partners are not fully separate in the way a company is separate from shareholders.        |
 
 ## 4. Important Terms
 
-| Term | Meaning |
-| --- | --- |
-| Partner | A person who has entered into partnership with others. |
-| Firm | Collective name for all partners. |
-| Firm name | Name under which partnership business is carried on. |
-| Partnership deed | Written agreement containing the terms and conditions of partnership. |
-| Profit sharing ratio | Ratio in which partners divide profit and loss. |
-| Capital | Amount invested by a partner in the firm. |
-| Drawings | Cash or goods withdrawn by a partner for personal use. |
-| Interest on capital | Return allowed to partners on capital contributed, if agreed. |
-| Interest on drawings | Charge imposed on partners for using firm funds personally, if agreed. |
-| Partner salary/commission | Appropriation of profit allowed to a partner for service, if agreed. |
+| Term                      | Meaning                                                                |
+| ------------------------- | ---------------------------------------------------------------------- |
+| Partner                   | A person who has entered into partnership with others.                 |
+| Firm                      | Collective name for all partners.                                      |
+| Firm name                 | Name under which partnership business is carried on.                   |
+| Partnership deed          | Written agreement containing the terms and conditions of partnership.  |
+| Profit sharing ratio      | Ratio in which partners divide profit and loss.                        |
+| Capital                   | Amount invested by a partner in the firm.                              |
+| Drawings                  | Cash or goods withdrawn by a partner for personal use.                 |
+| Interest on capital       | Return allowed to partners on capital contributed, if agreed.          |
+| Interest on drawings      | Charge imposed on partners for using firm funds personally, if agreed. |
+| Partner salary/commission | Appropriation of profit allowed to a partner for service, if agreed.   |
 
 ## 5. Partnership Deed
 
@@ -79,32 +79,32 @@ The deed reduces disputes because it states what partners have already agreed. I
 
 ### Usual Contents of a Partnership Deed
 
-| Clause | What It Decides |
-| --- | --- |
-| Name and address of firm | Identity of the business |
-| Names and addresses of partners | Identity of partners |
-| Nature of business | Type of activity carried on |
-| Capital contribution | Amount contributed by each partner |
-| Profit sharing ratio | How profit/loss will be divided |
-| Interest on capital | Whether partners receive interest on capital and at what rate |
-| Interest on drawings | Whether drawings are charged with interest and at what rate |
-| Partner salary/commission | Whether any partner receives remuneration |
-| Partner loan | Rate of interest on loans advanced by partners |
-| Admission/retirement/death terms | How reconstitution will be handled |
-| Dissolution terms | How accounts will be settled if the firm closes |
+| Clause                           | What It Decides                                               |
+| -------------------------------- | ------------------------------------------------------------- |
+| Name and address of firm         | Identity of the business                                      |
+| Names and addresses of partners  | Identity of partners                                          |
+| Nature of business               | Type of activity carried on                                   |
+| Capital contribution             | Amount contributed by each partner                            |
+| Profit sharing ratio             | How profit/loss will be divided                               |
+| Interest on capital              | Whether partners receive interest on capital and at what rate |
+| Interest on drawings             | Whether drawings are charged with interest and at what rate   |
+| Partner salary/commission        | Whether any partner receives remuneration                     |
+| Partner loan                     | Rate of interest on loans advanced by partners                |
+| Admission/retirement/death terms | How reconstitution will be handled                            |
+| Dissolution terms                | How accounts will be settled if the firm closes               |
 
 ## 6. Rules When Partnership Deed Is Silent
 
 If the partnership deed does not mention a matter, the Indian Partnership Act rules apply.
 
-| Matter | Rule When Deed Is Silent |
-| --- | --- |
-| Profit sharing | Profits and losses are shared equally. |
-| Interest on capital | Not allowed. |
-| Interest on drawings | Not charged. |
-| Partner salary/commission | Not allowed. |
-| Interest on partner loan | Allowed at 6% per annum. |
-| Remuneration for extra work | Not allowed unless agreed. |
+| Matter                      | Rule When Deed Is Silent               |
+| --------------------------- | -------------------------------------- |
+| Profit sharing              | Profits and losses are shared equally. |
+| Interest on capital         | Not allowed.                           |
+| Interest on drawings        | Not charged.                           |
+| Partner salary/commission   | Not allowed.                           |
+| Interest on partner loan    | Allowed at 6% per annum.               |
+| Remuneration for extra work | Not allowed unless agreed.             |
 
 ### Exam Warning
 
@@ -124,12 +124,12 @@ Profit and Loss Account calculates business profit from operations. Profit and L
 
 ### Format
 
-| Debit Side | Amount | Credit Side | Amount |
-| --- | ---: | --- | ---: |
-| Interest on capital | xxx | Net profit transferred from Profit and Loss Account | xxx |
-| Partner salary | xxx | Interest on drawings | xxx |
-| Partner commission | xxx |  |  |
-| Profit transferred to partners' capital/current accounts | xxx |  |  |
+| Debit Side                                               | Amount | Credit Side                                         | Amount |
+| -------------------------------------------------------- | -----: | --------------------------------------------------- | -----: |
+| Interest on capital                                      |    xxx | Net profit transferred from Profit and Loss Account |    xxx |
+| Partner salary                                           |    xxx | Interest on drawings                                |    xxx |
+| Partner commission                                       |    xxx |                                                     |        |
+| Profit transferred to partners' capital/current accounts |    xxx |                                                     |        |
 
 If there is a loss, the account may start with net loss on the debit side and then transfer loss to partners.
 
@@ -209,9 +209,9 @@ There are two methods:
 
 Under this method, each partner has two accounts:
 
-| Account | Purpose |
-| --- | --- |
-| Partner's Capital Account | Records permanent capital introduced and permanent capital withdrawn. |
+| Account                   | Purpose                                                                                                    |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| Partner's Capital Account | Records permanent capital introduced and permanent capital withdrawn.                                      |
 | Partner's Current Account | Records drawings, interest on drawings, interest on capital, salary, commission, and share of profit/loss. |
 
 ### Key Point
@@ -220,19 +220,19 @@ Capital Account remains fixed unless there is additional capital or permanent wi
 
 ### Capital Account Format
 
-| Debit | Amount | Credit | Amount |
-| --- | ---: | --- | ---: |
-| Bank: permanent withdrawal | xxx | Balance b/d | xxx |
-| Balance c/d | xxx | Bank: additional capital | xxx |
+| Debit                      | Amount | Credit                   | Amount |
+| -------------------------- | -----: | ------------------------ | -----: |
+| Bank: permanent withdrawal |    xxx | Balance b/d              |    xxx |
+| Balance c/d                |    xxx | Bank: additional capital |    xxx |
 
 ### Current Account Format
 
-| Debit | Amount | Credit | Amount |
-| --- | ---: | --- | ---: |
-| Drawings | xxx | Balance b/d | xxx |
-| Interest on drawings | xxx | Interest on capital | xxx |
-| Share of loss | xxx | Salary/commission | xxx |
-| Balance c/d | xxx | Share of profit | xxx |
+| Debit                | Amount | Credit              | Amount |
+| -------------------- | -----: | ------------------- | -----: |
+| Drawings             |    xxx | Balance b/d         |    xxx |
+| Interest on drawings |    xxx | Interest on capital |    xxx |
+| Share of loss        |    xxx | Salary/commission   |    xxx |
+| Balance c/d          |    xxx | Share of profit     |    xxx |
 
 ## 11. Fluctuating Capital Method
 
@@ -240,13 +240,13 @@ Under this method, only one capital account is maintained for each partner. All 
 
 ### Items Recorded
 
-| Debit Side | Credit Side |
-| --- | --- |
-| Drawings | Opening capital |
-| Interest on drawings | Additional capital |
-| Share of loss | Interest on capital |
-| Withdrawal of capital | Salary/commission |
-| Closing balance | Share of profit |
+| Debit Side            | Credit Side         |
+| --------------------- | ------------------- |
+| Drawings              | Opening capital     |
+| Interest on drawings  | Additional capital  |
+| Share of loss         | Interest on capital |
+| Withdrawal of capital | Salary/commission   |
+| Closing balance       | Share of profit     |
 
 ### Key Point
 
@@ -254,14 +254,14 @@ In the absence of instructions, capital accounts are usually prepared by the flu
 
 ## 12. Difference Between Fixed and Fluctuating Capital Methods
 
-| Basis | Fixed Capital Method | Fluctuating Capital Method |
-| --- | --- | --- |
-| Number of accounts | Capital Account and Current Account | Only Capital Account |
-| Capital balance | Normally remains fixed | Changes frequently |
-| Drawings | Recorded in Current Account | Recorded in Capital Account |
-| Interest on capital | Recorded in Current Account | Recorded in Capital Account |
-| Share of profit/loss | Recorded in Current Account | Recorded in Capital Account |
-| Default method if no instruction | Usually not assumed unless specified | Usually assumed |
+| Basis                            | Fixed Capital Method                 | Fluctuating Capital Method  |
+| -------------------------------- | ------------------------------------ | --------------------------- |
+| Number of accounts               | Capital Account and Current Account  | Only Capital Account        |
+| Capital balance                  | Normally remains fixed               | Changes frequently          |
+| Drawings                         | Recorded in Current Account          | Recorded in Capital Account |
+| Interest on capital              | Recorded in Current Account          | Recorded in Capital Account |
+| Share of profit/loss             | Recorded in Current Account          | Recorded in Capital Account |
+| Default method if no instruction | Usually not assumed unless specified | Usually assumed             |
 
 ## 13. Interest on Capital
 
@@ -323,10 +323,10 @@ Time is counted from the date of drawing to the end of the accounting year.
 If equal drawings are made every month:
 
 | Timing of Monthly Drawings | Average Period |
-| --- | --- |
-| Beginning of each month | 6.5 months |
-| Middle of each month | 6 months |
-| End of each month | 5.5 months |
+| -------------------------- | -------------- |
+| Beginning of each month    | 6.5 months     |
+| Middle of each month       | 6 months       |
+| End of each month          | 5.5 months     |
 
 Formula:
 
@@ -353,18 +353,18 @@ They are appropriations of profit, not normal employee expenses, because partner
 
 ### Treatment
 
-| Item | Partner's Account | Profit and Loss Appropriation Account |
-| --- | --- | --- |
-| Salary allowed | Credited | Debited |
-| Commission allowed | Credited | Debited |
+| Item               | Partner's Account | Profit and Loss Appropriation Account |
+| ------------------ | ----------------- | ------------------------------------- |
+| Salary allowed     | Credited          | Debited                               |
+| Commission allowed | Credited          | Debited                               |
 
 ### Commission Calculation Types
 
-| Type | Formula Idea |
-| --- | --- |
-| Commission as percentage of sales | Sales x Rate |
-| Commission as percentage of profit before commission | Profit before commission x Rate |
-| Commission as percentage of profit after commission | Profit before commission x Rate / (100 + Rate) |
+| Type                                                 | Formula Idea                                   |
+| ---------------------------------------------------- | ---------------------------------------------- |
+| Commission as percentage of sales                    | Sales x Rate                                   |
+| Commission as percentage of profit before commission | Profit before commission x Rate                |
+| Commission as percentage of profit after commission  | Profit before commission x Rate / (100 + Rate) |
 
 Example: Profit before commission is Rs. 1,10,000. Commission is 10% of profit after commission.
 
@@ -403,10 +403,10 @@ Deficiency:
 If A and B bear deficiency in their profit ratio 3:2:
 
 | Partner | Normal Share | Deficiency Adjustment | Final Share |
-| --- | ---: | ---: | ---: |
-| A | Rs. 30,000 | Less Rs. 3,000 | Rs. 27,000 |
-| B | Rs. 20,000 | Less Rs. 2,000 | Rs. 18,000 |
-| C | Rs. 10,000 | Add Rs. 5,000 | Rs. 15,000 |
+| ------- | -----------: | --------------------: | ----------: |
+| A       |   Rs. 30,000 |        Less Rs. 3,000 |  Rs. 27,000 |
+| B       |   Rs. 20,000 |        Less Rs. 2,000 |  Rs. 18,000 |
+| C       |   Rs. 10,000 |         Add Rs. 5,000 |  Rs. 15,000 |
 
 ## 17. Past Adjustments
 
@@ -446,22 +446,22 @@ Use the exact partner names and amounts from the adjustment statement.
 
 A and B are partners sharing profits equally. Net profit before appropriations is Rs. 1,00,000. The deed provides:
 
-| Item | A | B |
-| --- | ---: | ---: |
-| Interest on capital | Rs. 10,000 | Rs. 8,000 |
-| Salary | Rs. 12,000 | Nil |
-| Interest on drawings | Rs. 2,000 | Rs. 1,000 |
+| Item                 |          A |         B |
+| -------------------- | ---------: | --------: |
+| Interest on capital  | Rs. 10,000 | Rs. 8,000 |
+| Salary               | Rs. 12,000 |       Nil |
+| Interest on drawings |  Rs. 2,000 | Rs. 1,000 |
 
 Profit and Loss Appropriation Account:
 
-| Debit | Amount | Credit | Amount |
-| --- | ---: | --- | ---: |
-| Interest on capital: A | 10,000 | Net profit | 1,00,000 |
-| Interest on capital: B | 8,000 | Interest on drawings: A | 2,000 |
-| Salary to A | 12,000 | Interest on drawings: B | 1,000 |
-| Profit to A | 36,500 |  |  |
-| Profit to B | 36,500 |  |  |
-| Total | 1,03,000 | Total | 1,03,000 |
+| Debit                  |   Amount | Credit                  |   Amount |
+| ---------------------- | -------: | ----------------------- | -------: |
+| Interest on capital: A |   10,000 | Net profit              | 1,00,000 |
+| Interest on capital: B |    8,000 | Interest on drawings: A |    2,000 |
+| Salary to A            |   12,000 | Interest on drawings: B |    1,000 |
+| Profit to A            |   36,500 |                         |          |
+| Profit to B            |   36,500 |                         |          |
+| Total                  | 1,03,000 | Total                   | 1,03,000 |
 
 Explanation:
 
@@ -474,15 +474,15 @@ Each partner's share = Rs. 36,500
 
 ## 19. Common Mistakes and Corrections
 
-| Mistake | Correct Thinking |
-| --- | --- |
-| Allowing interest on capital when deed is silent | Interest on capital is not allowed unless agreed. |
-| Charging interest on drawings automatically | It is charged only if agreed. |
-| Sharing profit according to capital when deed is silent | Profit is shared equally when deed is silent. |
-| Treating partner salary as employee salary | Partner salary is an appropriation of profit. |
-| Recording all items in Capital Account under fixed capital method | Use Current Account for routine adjustments. |
-| Forgetting time in interest calculations | Capital and drawings must be adjusted for the period involved. |
-| Allowing full interest on capital when profit is insufficient | Restrict to available profit unless deed makes it a charge. |
+| Mistake                                                           | Correct Thinking                                               |
+| ----------------------------------------------------------------- | -------------------------------------------------------------- |
+| Allowing interest on capital when deed is silent                  | Interest on capital is not allowed unless agreed.              |
+| Charging interest on drawings automatically                       | It is charged only if agreed.                                  |
+| Sharing profit according to capital when deed is silent           | Profit is shared equally when deed is silent.                  |
+| Treating partner salary as employee salary                        | Partner salary is an appropriation of profit.                  |
+| Recording all items in Capital Account under fixed capital method | Use Current Account for routine adjustments.                   |
+| Forgetting time in interest calculations                          | Capital and drawings must be adjusted for the period involved. |
+| Allowing full interest on capital when profit is insufficient     | Restrict to available profit unless deed makes it a charge.    |
 
 ## 20. Exam Answer Frames
 
@@ -520,17 +520,17 @@ Under the fixed capital method, each partner has a Capital Account and a Current
 
 ## 22. Quick Revision Sheet
 
-| If the Question Says | Treatment |
-| --- | --- |
-| Deed silent about profit ratio | Share equally |
-| Deed silent about interest on capital | Do not allow |
-| Deed silent about interest on drawings | Do not charge |
-| Partner gives loan to firm | Interest allowed at 6% p.a. if no rate is given |
-| Fixed capital method | Use Capital Account plus Current Account |
-| Fluctuating capital method | Use only Capital Account |
-| Partner salary/commission | Debit Profit and Loss Appropriation Account; credit partner |
-| Interest on drawings | Debit partner; credit Profit and Loss Appropriation Account |
-| Profit insufficient for interest on capital | Restrict interest unless it is a charge |
+| If the Question Says                        | Treatment                                                   |
+| ------------------------------------------- | ----------------------------------------------------------- |
+| Deed silent about profit ratio              | Share equally                                               |
+| Deed silent about interest on capital       | Do not allow                                                |
+| Deed silent about interest on drawings      | Do not charge                                               |
+| Partner gives loan to firm                  | Interest allowed at 6% p.a. if no rate is given             |
+| Fixed capital method                        | Use Capital Account plus Current Account                    |
+| Fluctuating capital method                  | Use only Capital Account                                    |
+| Partner salary/commission                   | Debit Profit and Loss Appropriation Account; credit partner |
+| Interest on drawings                        | Debit partner; credit Profit and Loss Appropriation Account |
+| Profit insufficient for interest on capital | Restrict interest unless it is a charge                     |
 
 ## 23. Final Learning Takeaway
 

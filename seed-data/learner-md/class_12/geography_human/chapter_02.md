@@ -1,4 +1,5 @@
 # Chapter 2: The World Population - Distribution, Density and Growth
+
 ### NCERT Class 12 - Geography Human
 
 ## Chapter at a Glance
@@ -23,27 +24,27 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Population distribution | Spatial pattern of people across Earth's surface. |
-| Population density | Number of people per unit area. |
-| Birth rate | Number of live births per thousand population in a year. |
-| Death rate | Number of deaths per thousand population in a year. |
-| Natural growth | Difference between births and deaths. |
-| Actual growth | Natural growth plus net migration. |
-| Migration | Movement of people from one place to another. |
-| Demographic transition | Change from high birth and death rates to low birth and death rates. |
-| Age-sex pyramid | Diagram showing population by age group and sex. |
+| Term                    | Meaning                                                              |
+| ----------------------- | -------------------------------------------------------------------- |
+| Population distribution | Spatial pattern of people across Earth's surface.                    |
+| Population density      | Number of people per unit area.                                      |
+| Birth rate              | Number of live births per thousand population in a year.             |
+| Death rate              | Number of deaths per thousand population in a year.                  |
+| Natural growth          | Difference between births and deaths.                                |
+| Actual growth           | Natural growth plus net migration.                                   |
+| Migration               | Movement of people from one place to another.                        |
+| Demographic transition  | Change from high birth and death rates to low birth and death rates. |
+| Age-sex pyramid         | Diagram showing population by age group and sex.                     |
 
 ## Quick Learning Map
 
-| Population pattern | Main reasons |
-|---|---|
-| Dense population | Fertile plains, water, industry, jobs, transport |
-| Sparse population | Harsh climate, steep relief, poor soils, isolation |
-| Rapid growth | High birth rate and falling death rate |
-| Slow growth | Low birth rate and low death rate |
-| Negative growth | Deaths plus out-migration exceed births plus in-migration |
+| Population pattern | Main reasons                                              |
+| ------------------ | --------------------------------------------------------- |
+| Dense population   | Fertile plains, water, industry, jobs, transport          |
+| Sparse population  | Harsh climate, steep relief, poor soils, isolation        |
+| Rapid growth       | High birth rate and falling death rate                    |
+| Slow growth        | Low birth rate and low death rate                         |
+| Negative growth    | Deaths plus out-migration exceed births plus in-migration |
 
 # Unit 2A: Population Distribution
 
@@ -276,13 +277,13 @@ For demographic transition:
 
 # Unit 2M: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Confusing distribution and density | Distribution is pattern; density is people per unit area. |
-| Explaining density without area | Density requires population divided by area. |
-| Ignoring migration | Actual growth includes migration. |
-| Saying all high-density areas are rich | Some dense regions are agricultural and poor. |
-| Treating demographic transition as only two stages | Use four-stage explanation. |
+| Mistake                                            | Correction                                                |
+| -------------------------------------------------- | --------------------------------------------------------- |
+| Confusing distribution and density                 | Distribution is pattern; density is people per unit area. |
+| Explaining density without area                    | Density requires population divided by area.              |
+| Ignoring migration                                 | Actual growth includes migration.                         |
+| Saying all high-density areas are rich             | Some dense regions are agricultural and poor.             |
+| Treating demographic transition as only two stages | Use four-stage explanation.                               |
 
 ## Practice Set
 

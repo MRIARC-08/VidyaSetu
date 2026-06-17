@@ -2,13 +2,13 @@
 
 ## Chapter Identity
 
-| Item | Details |
-| --- | --- |
-| Class | 12 |
-| Subject | Biology |
-| Chapter | Sexual Reproduction in Flowering Plants |
+| Item       | Details                                                                                                                                  |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Class      | 12                                                                                                                                       |
+| Subject    | Biology                                                                                                                                  |
+| Chapter    | Sexual Reproduction in Flowering Plants                                                                                                  |
 | Core Skill | Explaining reproductive structures, gametophyte formation, pollination, double fertilisation, seed formation, apomixis, and polyembryony |
-| Main Idea | A flower is the reproductive organ of angiosperms; it produces gametes, enables fertilisation, and forms seeds and fruits. |
+| Main Idea  | A flower is the reproductive organ of angiosperms; it produces gametes, enables fertilisation, and forms seeds and fruits.               |
 
 ## 1. Big Picture
 
@@ -46,16 +46,16 @@ Stamen forms microspores
 
 The flower is the reproductive structure of angiosperms.
 
-| Floral Part | Reproductive Role |
-| --- | --- |
-| Stamen | Male reproductive organ; produces pollen grains. |
-| Anther | Part of stamen where microspores and pollen grains form. |
-| Filament | Stalk that supports the anther. |
-| Pistil/Carpel | Female reproductive organ. |
-| Stigma | Receives pollen grains. |
-| Style | Path through which pollen tube grows. |
-| Ovary | Contains ovules. |
-| Ovule | Contains embryo sac; later becomes seed. |
+| Floral Part   | Reproductive Role                                        |
+| ------------- | -------------------------------------------------------- |
+| Stamen        | Male reproductive organ; produces pollen grains.         |
+| Anther        | Part of stamen where microspores and pollen grains form. |
+| Filament      | Stalk that supports the anther.                          |
+| Pistil/Carpel | Female reproductive organ.                               |
+| Stigma        | Receives pollen grains.                                  |
+| Style         | Path through which pollen tube grows.                    |
+| Ovary         | Contains ovules.                                         |
+| Ovule         | Contains embryo sac; later becomes seed.                 |
 
 ## 4. Stamen, Anther, and Microsporangium
 
@@ -78,12 +78,12 @@ This means it has two lobes, two thecae, and four microsporangia.
 
 From outside to inside:
 
-| Layer | Function |
-| --- | --- |
-| Epidermis | Protective outer layer. |
-| Endothecium | Helps anther dehiscence. |
-| Middle layers | Temporary nutritive/supportive layers. |
-| Tapetum | Nourishes developing pollen grains and contributes materials for pollen wall formation. |
+| Layer         | Function                                                                                |
+| ------------- | --------------------------------------------------------------------------------------- |
+| Epidermis     | Protective outer layer.                                                                 |
+| Endothecium   | Helps anther dehiscence.                                                                |
+| Middle layers | Temporary nutritive/supportive layers.                                                  |
+| Tapetum       | Nourishes developing pollen grains and contributes materials for pollen wall formation. |
 
 ### Sporogenous Tissue
 
@@ -116,10 +116,10 @@ Pollen grain represents the male gametophyte.
 
 ### Wall Layers
 
-| Layer | Nature | Function |
-| --- | --- | --- |
-| Exine | Outer, tough layer made of sporopollenin | Protects pollen from harsh conditions. |
-| Intine | Inner, thin layer | Forms pollen tube during germination. |
+| Layer  | Nature                                   | Function                               |
+| ------ | ---------------------------------------- | -------------------------------------- |
+| Exine  | Outer, tough layer made of sporopollenin | Protects pollen from harsh conditions. |
+| Intine | Inner, thin layer                        | Forms pollen tube during germination.  |
 
 ### Sporopollenin
 
@@ -133,10 +133,10 @@ Germ pores are regions where exine is absent or thin. Pollen tube emerges throug
 
 In many angiosperms, pollen is shed at the two-celled stage:
 
-| Cell | Role |
-| --- | --- |
+| Cell            | Role                                   |
+| --------------- | -------------------------------------- |
 | Vegetative cell | Larger cell; helps pollen tube growth. |
-| Generative cell | Divides to form two male gametes. |
+| Generative cell | Divides to form two male gametes.      |
 
 In some plants, pollen is shed at the three-celled stage, already containing two male gametes.
 
@@ -144,34 +144,34 @@ In some plants, pollen is shed at the three-celled stage, already containing two
 
 ### Structure of Pistil
 
-| Part | Function |
-| --- | --- |
-| Stigma | Receives pollen. |
-| Style | Provides passage for pollen tube. |
-| Ovary | Contains ovules. |
+| Part   | Function                          |
+| ------ | --------------------------------- |
+| Stigma | Receives pollen.                  |
+| Style  | Provides passage for pollen tube. |
+| Ovary  | Contains ovules.                  |
 
 ### Types of Gynoecium
 
-| Type | Meaning |
-| --- | --- |
-| Monocarpellary | One carpel/pistil. |
+| Type            | Meaning               |
+| --------------- | --------------------- |
+| Monocarpellary  | One carpel/pistil.    |
 | Multicarpellary | More than one carpel. |
-| Syncarpous | Carpels fused. |
-| Apocarpous | Carpels free. |
+| Syncarpous      | Carpels fused.        |
+| Apocarpous      | Carpels free.         |
 
 ## 8. Structure of Ovule
 
 An ovule is also called a megasporangium.
 
-| Part | Function |
-| --- | --- |
-| Funicle | Stalk attaching ovule to placenta. |
-| Hilum | Junction between ovule and funicle. |
-| Integuments | Protective layers around nucellus. |
-| Micropyle | Small opening left by integuments; pollen tube usually enters here. |
-| Nucellus | Nutritive tissue containing embryo sac. |
-| Chalaza | Basal region opposite micropyle. |
-| Embryo sac | Female gametophyte. |
+| Part        | Function                                                            |
+| ----------- | ------------------------------------------------------------------- |
+| Funicle     | Stalk attaching ovule to placenta.                                  |
+| Hilum       | Junction between ovule and funicle.                                 |
+| Integuments | Protective layers around nucellus.                                  |
+| Micropyle   | Small opening left by integuments; pollen tube usually enters here. |
+| Nucellus    | Nutritive tissue containing embryo sac.                             |
+| Chalaza     | Basal region opposite micropyle.                                    |
+| Embryo sac  | Female gametophyte.                                                 |
 
 ## 9. Megasporogenesis
 
@@ -212,11 +212,11 @@ A typical embryo sac is:
 7-celled and 8-nucleate
 ```
 
-| Region | Cells/Nuclei | Role |
-| --- | --- | --- |
+| Region         | Cells/Nuclei                            | Role                                                      |
+| -------------- | --------------------------------------- | --------------------------------------------------------- |
 | Micropylar end | Egg apparatus: 1 egg cell + 2 synergids | Egg participates in syngamy; synergids guide pollen tube. |
-| Centre | Central cell with 2 polar nuclei | Forms primary endosperm nucleus after triple fusion. |
-| Chalazal end | 3 antipodal cells | Usually nutritive/supportive, often degenerate later. |
+| Centre         | Central cell with 2 polar nuclei        | Forms primary endosperm nucleus after triple fusion.      |
+| Chalazal end   | 3 antipodal cells                       | Usually nutritive/supportive, often degenerate later.     |
 
 ### Filiform Apparatus
 
@@ -232,18 +232,18 @@ Pollination is necessary because male and female gametes in flowering plants are
 
 ## 12. Types of Pollination
 
-| Type | Meaning | Genetic Result |
-| --- | --- | --- |
-| Autogamy | Pollen transfer from anther to stigma of the same flower. | Genetically self-pollination. |
+| Type        | Meaning                                                              | Genetic Result                                                              |
+| ----------- | -------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| Autogamy    | Pollen transfer from anther to stigma of the same flower.            | Genetically self-pollination.                                               |
 | Geitonogamy | Pollen transfer from one flower to another flower on the same plant. | Functionally cross-pollination but genetically similar to self-pollination. |
-| Xenogamy | Pollen transfer from one plant to another plant of the same species. | True cross-pollination; brings genetic variation. |
+| Xenogamy    | Pollen transfer from one plant to another plant of the same species. | True cross-pollination; brings genetic variation.                           |
 
 ## 13. Chasmogamous and Cleistogamous Flowers
 
-| Flower Type | Meaning | Pollination |
-| --- | --- | --- |
-| Chasmogamous | Flowers open and expose anthers and stigma. | Can allow cross-pollination. |
-| Cleistogamous | Flowers do not open. | Assured self-pollination; no cross-pollination. |
+| Flower Type   | Meaning                                     | Pollination                                     |
+| ------------- | ------------------------------------------- | ----------------------------------------------- |
+| Chasmogamous  | Flowers open and expose anthers and stigma. | Can allow cross-pollination.                    |
+| Cleistogamous | Flowers do not open.                        | Assured self-pollination; no cross-pollination. |
 
 ### Advantage of Cleistogamy
 
@@ -257,9 +257,9 @@ It reduces genetic variation because it promotes self-pollination.
 
 ### Abiotic Agents
 
-| Agent | Adaptations |
-| --- | --- |
-| Wind | Light, non-sticky pollen; exposed stamens; large feathery stigma; many pollen grains. |
+| Agent | Adaptations                                                                                      |
+| ----- | ------------------------------------------------------------------------------------------------ |
+| Wind  | Light, non-sticky pollen; exposed stamens; large feathery stigma; many pollen grains.            |
 | Water | Pollen protected from wetting; occurs in some aquatic plants such as Vallisneria and seagrasses. |
 
 ### Biotic Agents
@@ -280,12 +280,12 @@ Plants often avoid excessive self-pollination because it can reduce genetic vari
 
 Common outbreeding devices:
 
-| Device | How It Prevents Selfing |
-| --- | --- |
-| Pollen release and stigma receptivity at different times | Same flower cannot self-pollinate easily. |
-| Anther and stigma placed at different positions | Pollen does not easily reach stigma of same flower. |
-| Self-incompatibility | Genetic mechanism rejects self-pollen. |
-| Production of unisexual flowers | Male and female functions are separated. |
+| Device                                                   | How It Prevents Selfing                             |
+| -------------------------------------------------------- | --------------------------------------------------- |
+| Pollen release and stigma receptivity at different times | Same flower cannot self-pollinate easily.           |
+| Anther and stigma placed at different positions          | Pollen does not easily reach stigma of same flower. |
+| Self-incompatibility                                     | Genetic mechanism rejects self-pollen.              |
+| Production of unisexual flowers                          | Male and female functions are separated.            |
 
 If male and female flowers are on different plants, self-pollination is prevented completely.
 
@@ -332,9 +332,9 @@ Double fertilisation is a unique feature of angiosperms.
 
 Two male gametes enter the embryo sac:
 
-| Male Gamete | Fusion | Product |
-| --- | --- | --- |
-| First male gamete | Fuses with egg cell | Zygote (2n) |
+| Male Gamete        | Fusion                      | Product                        |
+| ------------------ | --------------------------- | ------------------------------ |
+| First male gamete  | Fuses with egg cell         | Zygote (2n)                    |
 | Second male gamete | Fuses with two polar nuclei | Primary endosperm nucleus (3n) |
 
 ### Syngamy
@@ -354,13 +354,13 @@ Because syngamy and triple fusion occur in the same embryo sac, the process is c
 After fertilisation:
 
 | Structure Before Fertilisation | Structure After Fertilisation |
-| --- | --- |
-| Zygote | Embryo |
-| Primary endosperm nucleus | Endosperm |
-| Ovule | Seed |
-| Integuments | Seed coats |
-| Ovary | Fruit |
-| Ovary wall | Pericarp |
+| ------------------------------ | ----------------------------- |
+| Zygote                         | Embryo                        |
+| Primary endosperm nucleus      | Endosperm                     |
+| Ovule                          | Seed                          |
+| Integuments                    | Seed coats                    |
+| Ovary                          | Fruit                         |
+| Ovary wall                     | Pericarp                      |
 
 ## 20. Endosperm
 
@@ -380,12 +380,12 @@ The zygote develops into an embryo after some endosperm has formed, so that nutr
 
 ### Dicot Embryo
 
-| Part | Role |
-| --- | --- |
+| Part           | Role                                      |
+| -------------- | ----------------------------------------- |
 | Two cotyledons | Store food or absorb food from endosperm. |
-| Embryonal axis | Main axis of embryo. |
-| Plumule | Future shoot. |
-| Radicle | Future root. |
+| Embryonal axis | Main axis of embryo.                      |
+| Plumule        | Future shoot.                             |
+| Radicle        | Future root.                              |
 
 ### Monocot Embryo
 
@@ -404,10 +404,10 @@ A seed is a fertilised ovule.
 
 ### Albuminous and Non-Albuminous Seeds
 
-| Type | Meaning | Examples |
-| --- | --- | --- |
-| Albuminous | Endosperm remains in mature seed. | Wheat, maize, barley, castor. |
-| Non-albuminous | Endosperm is consumed during embryo development. | Pea, groundnut. |
+| Type           | Meaning                                          | Examples                      |
+| -------------- | ------------------------------------------------ | ----------------------------- |
+| Albuminous     | Endosperm remains in mature seed.                | Wheat, maize, barley, castor. |
+| Non-albuminous | Endosperm is consumed during embryo development. | Pea, groundnut.               |
 
 ### Perisperm
 
@@ -419,9 +419,9 @@ Fruit develops from the ovary after fertilisation. The ovary wall becomes the pe
 
 ### True Fruit and False Fruit
 
-| Type | Meaning | Example |
-| --- | --- | --- |
-| True fruit | Develops only from ovary. | Mango, tomato. |
+| Type        | Meaning                             | Example            |
+| ----------- | ----------------------------------- | ------------------ |
+| True fruit  | Develops only from ovary.           | Mango, tomato.     |
 | False fruit | Other floral parts also contribute. | Apple, strawberry. |
 
 ## 24. Seed Dormancy and Importance of Seeds
@@ -463,34 +463,34 @@ Example: Citrus often shows polyembryony.
 
 ### Microsporogenesis vs Megasporogenesis
 
-| Basis | Microsporogenesis | Megasporogenesis |
-| --- | --- | --- |
-| Site | Microsporangium of anther | Nucellus of ovule |
-| Mother cell | Microspore mother cell | Megaspore mother cell |
-| Division | Meiosis | Meiosis |
-| Product | Four microspores | Four megaspores |
-| Functional cells | Usually all four may form pollen | Usually only one megaspore is functional |
-| Gametophyte formed | Male gametophyte | Female gametophyte |
+| Basis              | Microsporogenesis                | Megasporogenesis                         |
+| ------------------ | -------------------------------- | ---------------------------------------- |
+| Site               | Microsporangium of anther        | Nucellus of ovule                        |
+| Mother cell        | Microspore mother cell           | Megaspore mother cell                    |
+| Division           | Meiosis                          | Meiosis                                  |
+| Product            | Four microspores                 | Four megaspores                          |
+| Functional cells   | Usually all four may form pollen | Usually only one megaspore is functional |
+| Gametophyte formed | Male gametophyte                 | Female gametophyte                       |
 
 ### Pollen Grain vs Embryo Sac
 
-| Basis | Pollen Grain | Embryo Sac |
-| --- | --- | --- |
-| Gametophyte | Male gametophyte | Female gametophyte |
-| Location | Released from anther | Inside ovule |
-| Gametes | Produces two male gametes | Contains egg cell |
-| Transport | Reaches stigma by pollination | Remains inside ovule |
+| Basis       | Pollen Grain                  | Embryo Sac           |
+| ----------- | ----------------------------- | -------------------- |
+| Gametophyte | Male gametophyte              | Female gametophyte   |
+| Location    | Released from anther          | Inside ovule         |
+| Gametes     | Produces two male gametes     | Contains egg cell    |
+| Transport   | Reaches stigma by pollination | Remains inside ovule |
 
 ## 28. Common Mistakes and Corrections
 
-| Mistake | Correction |
-| --- | --- |
-| Saying pollination is fertilisation | Pollination is pollen transfer; fertilisation is gamete fusion. |
+| Mistake                                           | Correction                                                                                    |
+| ------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| Saying pollination is fertilisation               | Pollination is pollen transfer; fertilisation is gamete fusion.                               |
 | Confusing geitonogamy with true cross-pollination | Geitonogamy uses another flower but same plant, so genetically it resembles self-pollination. |
-| Saying embryo sac is 8-celled | Typical embryo sac is 7-celled and 8-nucleate. |
-| Forgetting triple fusion | Triple fusion forms primary endosperm nucleus. |
-| Saying ovary becomes seed | Ovule becomes seed; ovary becomes fruit. |
-| Treating apomixis as normal sexual reproduction | Apomixis forms seed without fertilisation. |
+| Saying embryo sac is 8-celled                     | Typical embryo sac is 7-celled and 8-nucleate.                                                |
+| Forgetting triple fusion                          | Triple fusion forms primary endosperm nucleus.                                                |
+| Saying ovary becomes seed                         | Ovule becomes seed; ovary becomes fruit.                                                      |
+| Treating apomixis as normal sexual reproduction   | Apomixis forms seed without fertilisation.                                                    |
 
 ## 29. Exam Answer Frames
 
@@ -527,21 +527,21 @@ The typical angiosperm embryo sac is 7-celled and 8-nucleate. It has an egg appa
 
 ## 31. Quick Revision Sheet
 
-| Term | One-Line Recall |
-| --- | --- |
-| Microsporogenesis | Formation of microspores by meiosis. |
-| Megasporogenesis | Formation of megaspores by meiosis. |
-| Pollen grain | Male gametophyte. |
-| Embryo sac | Female gametophyte. |
-| Pollination | Transfer of pollen to stigma. |
-| Syngamy | Male gamete + egg = zygote. |
-| Triple fusion | Male gamete + two polar nuclei = primary endosperm nucleus. |
-| Double fertilisation | Syngamy plus triple fusion. |
-| Endosperm | Nutritive tissue for embryo. |
-| Seed | Fertilised ovule. |
-| Fruit | Mature ovary. |
-| Apomixis | Seed formation without fertilisation. |
-| Polyembryony | More than one embryo in a seed. |
+| Term                 | One-Line Recall                                             |
+| -------------------- | ----------------------------------------------------------- |
+| Microsporogenesis    | Formation of microspores by meiosis.                        |
+| Megasporogenesis     | Formation of megaspores by meiosis.                         |
+| Pollen grain         | Male gametophyte.                                           |
+| Embryo sac           | Female gametophyte.                                         |
+| Pollination          | Transfer of pollen to stigma.                               |
+| Syngamy              | Male gamete + egg = zygote.                                 |
+| Triple fusion        | Male gamete + two polar nuclei = primary endosperm nucleus. |
+| Double fertilisation | Syngamy plus triple fusion.                                 |
+| Endosperm            | Nutritive tissue for embryo.                                |
+| Seed                 | Fertilised ovule.                                           |
+| Fruit                | Mature ovary.                                               |
+| Apomixis             | Seed formation without fertilisation.                       |
+| Polyembryony         | More than one embryo in a seed.                             |
 
 ## 32. Final Learning Takeaway
 

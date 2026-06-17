@@ -1,36 +1,37 @@
 # Chapter 6: Control and Coordination
+
 ### NCERT Class 10 - Science
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 10 |
-| **Subject** | Science |
-| **Chapter** | 6 |
-| **Textbook Pages** | 1-13 |
-| **Core Theme** | How animals and plants detect changes, process information, coordinate responses, and control body activities through nerves and hormones. |
-| **Main Skills** | Explaining neuron function, reflex arcs, brain roles, plant tropisms, plant hormones, animal hormones, and feedback control. |
+| Detail             | Learner-Friendly Information                                                                                                               |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Class**          | 10                                                                                                                                         |
+| **Subject**        | Science                                                                                                                                    |
+| **Chapter**        | 6                                                                                                                                          |
+| **Textbook Pages** | 1-13                                                                                                                                       |
+| **Core Theme**     | How animals and plants detect changes, process information, coordinate responses, and control body activities through nerves and hormones. |
+| **Main Skills**    | Explaining neuron function, reflex arcs, brain roles, plant tropisms, plant hormones, animal hormones, and feedback control.               |
 
 ---
 
 ## Section Structure
 
-| Unit | Topic | Main Learning Focus |
-|---|---|---|
-| **6A** | Need for Control and Coordination | Why organisms must detect stimuli and respond correctly. |
-| **6B** | Nervous System | Receptors, neurons, impulses, synapses, and muscles. |
-| **6C** | Reflex Actions | Reflex arcs, spinal cord, and fast protective responses. |
-| **6D** | Human Brain | Forebrain, midbrain, hindbrain, voluntary and involuntary control. |
-| **6E** | Protection of Nervous Tissue | Skull, cerebrospinal fluid, vertebral column. |
-| **6F** | Muscle Action | How nerve impulses cause muscle cells to shorten. |
-| **6G** | Coordination in Plants | Immediate movements and growth-based movements. |
-| **6H** | Tropisms | Phototropism, geotropism, hydrotropism, and chemotropism. |
-| **6I** | Plant Hormones | Auxin, gibberellin, cytokinin, and abscisic acid. |
-| **6J** | Animal Hormones | Adrenaline, thyroxin, growth hormone, sex hormones, insulin, and feedback. |
-| **6K** | Solved Questions | In-text and exercise-level answers. |
+| Unit   | Topic                             | Main Learning Focus                                                        |
+| ------ | --------------------------------- | -------------------------------------------------------------------------- |
+| **6A** | Need for Control and Coordination | Why organisms must detect stimuli and respond correctly.                   |
+| **6B** | Nervous System                    | Receptors, neurons, impulses, synapses, and muscles.                       |
+| **6C** | Reflex Actions                    | Reflex arcs, spinal cord, and fast protective responses.                   |
+| **6D** | Human Brain                       | Forebrain, midbrain, hindbrain, voluntary and involuntary control.         |
+| **6E** | Protection of Nervous Tissue      | Skull, cerebrospinal fluid, vertebral column.                              |
+| **6F** | Muscle Action                     | How nerve impulses cause muscle cells to shorten.                          |
+| **6G** | Coordination in Plants            | Immediate movements and growth-based movements.                            |
+| **6H** | Tropisms                          | Phototropism, geotropism, hydrotropism, and chemotropism.                  |
+| **6I** | Plant Hormones                    | Auxin, gibberellin, cytokinin, and abscisic acid.                          |
+| **6J** | Animal Hormones                   | Adrenaline, thyroxin, growth hormone, sex hormones, insulin, and feedback. |
+| **6K** | Solved Questions                  | In-text and exercise-level answers.                                        |
 
 ---
 
@@ -38,49 +39,49 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Explain coordination** | Describe why organisms need systems to connect stimulus, decision, and response. |
-| **Describe neurons** | Identify dendrite, cell body, axon, nerve ending, and synapse. |
-| **Trace impulse flow** | Explain how electrical impulses and chemical signals pass from one neuron to another. |
-| **Explain reflex action** | Trace a reflex arc and explain why reflexes are faster than conscious responses. |
-| **Explain brain functions** | State the roles of forebrain, midbrain, medulla, and cerebellum. |
-| **Compare responses** | Distinguish voluntary, involuntary, and reflex actions. |
-| **Explain plant movement** | Compare immediate turgor-based movement and slow growth-based movement. |
-| **Explain tropisms** | Describe directional growth responses to light, gravity, water, and chemicals. |
-| **Explain hormones** | Describe how plant and animal hormones coordinate body functions. |
-| **Explain feedback** | Use insulin secretion as an example of feedback regulation. |
+| Outcome                     | You Should Be Able To...                                                              |
+| --------------------------- | ------------------------------------------------------------------------------------- |
+| **Explain coordination**    | Describe why organisms need systems to connect stimulus, decision, and response.      |
+| **Describe neurons**        | Identify dendrite, cell body, axon, nerve ending, and synapse.                        |
+| **Trace impulse flow**      | Explain how electrical impulses and chemical signals pass from one neuron to another. |
+| **Explain reflex action**   | Trace a reflex arc and explain why reflexes are faster than conscious responses.      |
+| **Explain brain functions** | State the roles of forebrain, midbrain, medulla, and cerebellum.                      |
+| **Compare responses**       | Distinguish voluntary, involuntary, and reflex actions.                               |
+| **Explain plant movement**  | Compare immediate turgor-based movement and slow growth-based movement.               |
+| **Explain tropisms**        | Describe directional growth responses to light, gravity, water, and chemicals.        |
+| **Explain hormones**        | Describe how plant and animal hormones coordinate body functions.                     |
+| **Explain feedback**        | Use insulin secretion as an example of feedback regulation.                           |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Stimulus** | Change in environment detected by an organism. |
-| **Response** | Action or change produced by an organism after detecting a stimulus. |
-| **Coordination** | Working together of different body parts to produce a proper response. |
-| **Receptor** | Specialised cell or nerve ending that detects a stimulus. |
-| **Gustatory receptor** | Taste receptor. |
-| **Olfactory receptor** | Smell receptor. |
-| **Neuron** | Nerve cell specialised for transmitting impulses. |
-| **Dendrite** | Part of neuron that receives information. |
-| **Axon** | Long part of neuron through which impulse travels away from cell body. |
-| **Synapse** | Gap between two neurons where chemical transmission occurs. |
-| **Reflex action** | Sudden, automatic response to a stimulus without conscious thought. |
-| **Reflex arc** | Pathway of nerve impulse during a reflex action. |
-| **Central nervous system** | Brain and spinal cord. |
-| **Peripheral nervous system** | Cranial and spinal nerves connecting CNS to body. |
-| **Voluntary action** | Action under conscious control, such as writing or walking deliberately. |
-| **Involuntary action** | Automatic action not easily controlled by thinking, such as heartbeat. |
-| **Tropism** | Directional growth movement of a plant in response to a stimulus. |
-| **Phototropism** | Growth response to light. |
-| **Geotropism** | Growth response to gravity. |
-| **Hydrotropism** | Growth response to water. |
-| **Chemotropism** | Growth response to chemicals. |
-| **Hormone** | Chemical messenger produced in one part of an organism and acting elsewhere. |
-| **Endocrine gland** | Ductless gland that secretes hormones directly into blood. |
-| **Feedback mechanism** | Regulation system in which the effect of a hormone controls further hormone release. |
+| Term                          | Meaning                                                                              |
+| ----------------------------- | ------------------------------------------------------------------------------------ |
+| **Stimulus**                  | Change in environment detected by an organism.                                       |
+| **Response**                  | Action or change produced by an organism after detecting a stimulus.                 |
+| **Coordination**              | Working together of different body parts to produce a proper response.               |
+| **Receptor**                  | Specialised cell or nerve ending that detects a stimulus.                            |
+| **Gustatory receptor**        | Taste receptor.                                                                      |
+| **Olfactory receptor**        | Smell receptor.                                                                      |
+| **Neuron**                    | Nerve cell specialised for transmitting impulses.                                    |
+| **Dendrite**                  | Part of neuron that receives information.                                            |
+| **Axon**                      | Long part of neuron through which impulse travels away from cell body.               |
+| **Synapse**                   | Gap between two neurons where chemical transmission occurs.                          |
+| **Reflex action**             | Sudden, automatic response to a stimulus without conscious thought.                  |
+| **Reflex arc**                | Pathway of nerve impulse during a reflex action.                                     |
+| **Central nervous system**    | Brain and spinal cord.                                                               |
+| **Peripheral nervous system** | Cranial and spinal nerves connecting CNS to body.                                    |
+| **Voluntary action**          | Action under conscious control, such as writing or walking deliberately.             |
+| **Involuntary action**        | Automatic action not easily controlled by thinking, such as heartbeat.               |
+| **Tropism**                   | Directional growth movement of a plant in response to a stimulus.                    |
+| **Phototropism**              | Growth response to light.                                                            |
+| **Geotropism**                | Growth response to gravity.                                                          |
+| **Hydrotropism**              | Growth response to water.                                                            |
+| **Chemotropism**              | Growth response to chemicals.                                                        |
+| **Hormone**                   | Chemical messenger produced in one part of an organism and acting elsewhere.         |
+| **Endocrine gland**           | Ductless gland that secretes hormones directly into blood.                           |
+| **Feedback mechanism**        | Regulation system in which the effect of a hormone controls further hormone release. |
 
 ---
 
@@ -109,13 +110,13 @@ Living organisms move in response to changes around them.
 
 Examples:
 
-| Situation | Stimulus | Response |
-|---|---|---|
-| Cat sees a mouse | Visual stimulus | Cat runs. |
-| Hand touches hot object | Heat/pain stimulus | Hand withdraws. |
-| Bright light falls on eyes | Light stimulus | Pupil size changes/blinking may occur. |
-| Plant shoot receives light from one side | Light direction | Shoot bends toward light. |
-| Tendril touches support | Touch stimulus | Tendril coils around support. |
+| Situation                                | Stimulus           | Response                               |
+| ---------------------------------------- | ------------------ | -------------------------------------- |
+| Cat sees a mouse                         | Visual stimulus    | Cat runs.                              |
+| Hand touches hot object                  | Heat/pain stimulus | Hand withdraws.                        |
+| Bright light falls on eyes               | Light stimulus     | Pupil size changes/blinking may occur. |
+| Plant shoot receives light from one side | Light direction    | Shoot bends toward light.              |
+| Tendril touches support                  | Touch stimulus     | Tendril coils around support.          |
 
 ## Why Response Must Be Controlled
 
@@ -153,13 +154,13 @@ In plants:
 
 Receptors are specialised nerve endings or cells that detect stimuli.
 
-| Receptor Type | Detects | Example |
-|---|---|---|
-| Gustatory receptors | Taste | Tongue |
-| Olfactory receptors | Smell | Nose |
-| Photoreceptors | Light | Eyes |
-| Thermoreceptors | Temperature | Skin |
-| Mechanoreceptors | Touch/pressure | Skin, inner ear |
+| Receptor Type       | Detects        | Example         |
+| ------------------- | -------------- | --------------- |
+| Gustatory receptors | Taste          | Tongue          |
+| Olfactory receptors | Smell          | Nose            |
+| Photoreceptors      | Light          | Eyes            |
+| Thermoreceptors     | Temperature    | Skin            |
+| Mechanoreceptors    | Touch/pressure | Skin, inner ear |
 
 ## Why Taste Changes When Nose Is Blocked
 
@@ -179,13 +180,13 @@ This is common during a cold.
 
 ## Parts of a Neuron
 
-| Part | Function |
-|---|---|
-| Dendrite | Receives information from receptor or another neuron. |
-| Cell body | Contains nucleus and cytoplasm; maintains neuron. |
-| Axon | Carries electrical impulse away from cell body. |
-| Nerve ending | Releases chemicals at synapse. |
-| Synapse | Gap where signal passes chemically to next cell. |
+| Part         | Function                                              |
+| ------------ | ----------------------------------------------------- |
+| Dendrite     | Receives information from receptor or another neuron. |
+| Cell body    | Contains nucleus and cytoplasm; maintains neuron.     |
+| Axon         | Carries electrical impulse away from cell body.       |
+| Nerve ending | Releases chemicals at synapse.                        |
+| Synapse      | Gap where signal passes chemically to next cell.      |
 
 ## Text Diagram of a Neuron
 
@@ -311,11 +312,11 @@ It connects the central nervous system with the rest of the body.
 
 ## Major Brain Regions
 
-| Brain Region | Main Functions |
-|---|---|
-| Forebrain | Thinking, memory, interpretation of sensory information, voluntary actions, hunger centre. |
-| Midbrain | Some involuntary actions and relay functions. |
-| Hindbrain | Involuntary actions, posture, balance, coordination. |
+| Brain Region | Main Functions                                                                             |
+| ------------ | ------------------------------------------------------------------------------------------ |
+| Forebrain    | Thinking, memory, interpretation of sensory information, voluntary actions, hunger centre. |
+| Midbrain     | Some involuntary actions and relay functions.                                              |
+| Hindbrain    | Involuntary actions, posture, balance, coordination.                                       |
 
 ## Forebrain
 
@@ -404,9 +405,9 @@ When a nerve impulse reaches muscle cells:
 
 ## Voluntary and Involuntary Muscles
 
-| Type | Control | Example |
-|---|---|---|
-| Voluntary muscles | Under conscious control | Arm and leg muscles. |
+| Type                | Control                            | Example                               |
+| ------------------- | ---------------------------------- | ------------------------------------- |
+| Voluntary muscles   | Under conscious control            | Arm and leg muscles.                  |
 | Involuntary muscles | Not under direct conscious control | Muscles of gut, heart-related action. |
 
 ---
@@ -449,12 +450,12 @@ They often involve spinal cord pathways and are protective.
 
 ## Comparison
 
-| Feature | Voluntary Action | Involuntary Action | Reflex Action |
-|---|---|---|---|
-| Conscious control | Yes | No | No |
-| Speed | Usually slower than reflex | Varies | Very fast |
-| Control centre | Forebrain | Brainstem/other centres | Mostly spinal cord, brain also informed |
-| Example | Picking up a book | Heartbeat | Pulling hand from flame |
+| Feature           | Voluntary Action           | Involuntary Action      | Reflex Action                           |
+| ----------------- | -------------------------- | ----------------------- | --------------------------------------- |
+| Conscious control | Yes                        | No                      | No                                      |
+| Speed             | Usually slower than reflex | Varies                  | Very fast                               |
+| Control centre    | Forebrain                  | Brainstem/other centres | Mostly spinal cord, brain also informed |
+| Example           | Picking up a book          | Heartbeat               | Pulling hand from flame                 |
 
 ---
 
@@ -479,10 +480,10 @@ They use:
 
 ## Two Types of Plant Movement
 
-| Type | Growth Involved? | Speed | Example |
-|---|---|---|---|
-| Immediate response | No | Fast | Folding of Mimosa leaves on touch. |
-| Growth movement | Yes | Slow | Shoot bending toward light. |
+| Type               | Growth Involved? | Speed | Example                            |
+| ------------------ | ---------------- | ----- | ---------------------------------- |
+| Immediate response | No               | Fast  | Folding of Mimosa leaves on touch. |
+| Growth movement    | Yes              | Slow  | Shoot bending toward light.        |
 
 ---
 
@@ -543,10 +544,10 @@ Roots often show negative phototropism.
 
 Geotropism is growth response to gravity.
 
-| Plant Part | Response |
-|---|---|
-| Root | Positive geotropism; grows downward. |
-| Shoot | Negative geotropism; grows upward. |
+| Plant Part | Response                             |
+| ---------- | ------------------------------------ |
+| Root       | Positive geotropism; grows downward. |
+| Shoot      | Negative geotropism; grows upward.   |
 
 ## Hydrotropism
 
@@ -604,12 +605,12 @@ Plant hormones are chemical substances produced in one part of a plant and trans
 
 ## Important Plant Hormones
 
-| Hormone | Main Function |
-|---|---|
-| Auxin | Cell elongation; phototropism; tendril bending. |
-| Gibberellin | Stem growth and growth promotion. |
-| Cytokinin | Cell division; high in fruits and seeds. |
-| Abscisic acid | Growth inhibition; wilting; stress response. |
+| Hormone       | Main Function                                   |
+| ------------- | ----------------------------------------------- |
+| Auxin         | Cell elongation; phototropism; tendril bending. |
+| Gibberellin   | Stem growth and growth promotion.               |
+| Cytokinin     | Cell division; high in fruits and seeds.        |
+| Abscisic acid | Growth inhibition; wilting; stress response.    |
 
 ## Growth Promoters and Inhibitors
 
@@ -716,10 +717,10 @@ Excess secretion in childhood can lead to excessive growth.
 
 ## Sex Hormones
 
-| Hormone | Gland | Main Role |
-|---|---|---|
-| Testosterone | Testes | Development of male sex organs and male secondary sexual characters. |
-| Oestrogen | Ovaries | Development of female sex organs, female secondary sexual characters, and menstrual cycle regulation. |
+| Hormone      | Gland   | Main Role                                                                                             |
+| ------------ | ------- | ----------------------------------------------------------------------------------------------------- |
+| Testosterone | Testes  | Development of male sex organs and male secondary sexual characters.                                  |
+| Oestrogen    | Ovaries | Development of female sex organs, female secondary sexual characters, and menstrual cycle regulation. |
 
 These hormones cause many changes during puberty.
 
@@ -772,15 +773,15 @@ Precise regulation is needed to keep the body balanced.
 
 # Unit 6Q: Hormone Table
 
-| Hormone | Endocrine Gland | Main Function |
-|---|---|---|
-| Growth hormone | Pituitary gland | Stimulates growth in body organs. |
-| Thyroxin | Thyroid gland | Regulates metabolism for growth and energy balance. |
-| Insulin | Pancreas | Regulates blood sugar level. |
-| Testosterone | Testes | Develops male sex organs and secondary sexual characters. |
-| Oestrogen | Ovaries | Develops female sex organs and regulates menstrual cycle. |
-| Adrenaline | Adrenal gland | Prepares body for emergency response. |
-| Releasing hormones | Hypothalamus | Stimulate pituitary gland to release hormones. |
+| Hormone            | Endocrine Gland | Main Function                                             |
+| ------------------ | --------------- | --------------------------------------------------------- |
+| Growth hormone     | Pituitary gland | Stimulates growth in body organs.                         |
+| Thyroxin           | Thyroid gland   | Regulates metabolism for growth and energy balance.       |
+| Insulin            | Pancreas        | Regulates blood sugar level.                              |
+| Testosterone       | Testes          | Develops male sex organs and secondary sexual characters. |
+| Oestrogen          | Ovaries         | Develops female sex organs and regulates menstrual cycle. |
+| Adrenaline         | Adrenal gland   | Prepares body for emergency response.                     |
+| Releasing hormones | Hypothalamus    | Stimulate pituitary gland to release hormones.            |
 
 ---
 
@@ -794,12 +795,12 @@ Reflex action is sudden, automatic, and does not require conscious thinking.
 
 Walking is usually a voluntary action controlled by the brain.
 
-| Feature | Reflex Action | Walking |
-|---|---|---|
-| Control | Automatic | Voluntary, though rhythm can become habitual |
-| Speed | Very fast | Slower than reflex |
-| Main pathway | Often spinal cord reflex arc | Brain and spinal cord |
-| Example | Pulling hand from flame | Walking to school |
+| Feature      | Reflex Action                | Walking                                      |
+| ------------ | ---------------------------- | -------------------------------------------- |
+| Control      | Automatic                    | Voluntary, though rhythm can become habitual |
+| Speed        | Very fast                    | Slower than reflex                           |
+| Main pathway | Often spinal cord reflex arc | Brain and spinal cord                        |
+| Example      | Pulling hand from flame      | Walking to school                            |
 
 ---
 
@@ -870,13 +871,13 @@ Examples:
 
 ## Answer
 
-| Feature | Sensitive Plant Leaf Movement | Shoot Bending Toward Light |
-|---|---|---|
-| Cause | Touch stimulus | Light stimulus |
-| Growth involved | No | Yes |
-| Speed | Fast | Slow |
-| Mechanism | Change in water content/turgor | Unequal growth due to auxin |
-| Directional growth | No | Yes, phototropism |
+| Feature            | Sensitive Plant Leaf Movement  | Shoot Bending Toward Light  |
+| ------------------ | ------------------------------ | --------------------------- |
+| Cause              | Touch stimulus                 | Light stimulus              |
+| Growth involved    | No                             | Yes                         |
+| Speed              | Fast                           | Slow                        |
+| Mechanism          | Change in water content/turgor | Unequal growth due to auxin |
+| Directional growth | No                             | Yes, phototropism           |
 
 ---
 
@@ -1167,13 +1168,13 @@ Without coordination, body parts would act independently and survival would beco
 
 ## Answer
 
-| Feature | Involuntary Action | Reflex Action |
-|---|---|---|
-| Meaning | Automatic action not under conscious control | Sudden automatic response to stimulus |
-| Speed | May be continuous or rhythmic | Very quick |
-| Control centre | Mostly brainstem/hindbrain or other automatic centres | Usually spinal cord; brain informed |
-| Purpose | Maintains body functions | Protection or quick response |
-| Example | Heartbeat, digestion, breathing regulation | Pulling hand from flame, blinking |
+| Feature        | Involuntary Action                                    | Reflex Action                         |
+| -------------- | ----------------------------------------------------- | ------------------------------------- |
+| Meaning        | Automatic action not under conscious control          | Sudden automatic response to stimulus |
+| Speed          | May be continuous or rhythmic                         | Very quick                            |
+| Control centre | Mostly brainstem/hindbrain or other automatic centres | Usually spinal cord; brain informed   |
+| Purpose        | Maintains body functions                              | Protection or quick response          |
+| Example        | Heartbeat, digestion, breathing regulation            | Pulling hand from flame, blinking     |
 
 All reflex actions are involuntary, but all involuntary actions are not reflex actions.
 
@@ -1183,15 +1184,15 @@ All reflex actions are involuntary, but all involuntary actions are not reflex a
 
 ## Answer
 
-| Feature | Nervous Control | Hormonal Control |
-|---|---|---|
-| Signal type | Electrical impulse and chemicals at synapse | Chemical hormones |
-| Pathway | Neurons | Blood |
-| Speed | Very fast | Slower |
-| Duration | Short-lived | Often longer-lasting |
-| Target | Specific connected cells | Cells/organs with receptors |
-| Range | Local/precise | Widespread possible |
-| Example | Reflex action | Adrenaline response |
+| Feature     | Nervous Control                             | Hormonal Control            |
+| ----------- | ------------------------------------------- | --------------------------- |
+| Signal type | Electrical impulse and chemicals at synapse | Chemical hormones           |
+| Pathway     | Neurons                                     | Blood                       |
+| Speed       | Very fast                                   | Slower                      |
+| Duration    | Short-lived                                 | Often longer-lasting        |
+| Target      | Specific connected cells                    | Cells/organs with receptors |
+| Range       | Local/precise                               | Widespread possible         |
+| Example     | Reflex action                               | Adrenaline response         |
 
 Both systems work together to coordinate the body.
 
@@ -1201,30 +1202,30 @@ Both systems work together to coordinate the body.
 
 ## Answer
 
-| Feature | Sensitive Plant Movement | Leg Movement |
-|---|---|---|
-| Organism | Plant | Animal/human |
-| Tissue used | No nervous or muscle tissue | Nervous and muscle tissues |
-| Cause | Touch stimulus | Nerve impulse from brain/spinal cord |
-| Mechanism | Water movement changes cell shape | Muscle proteins change arrangement and muscle contracts |
-| Growth involved | No, for Mimosa leaf folding | No, for ordinary leg movement |
-| Control | Plant cell signalling | Nervous system control |
+| Feature         | Sensitive Plant Movement          | Leg Movement                                            |
+| --------------- | --------------------------------- | ------------------------------------------------------- |
+| Organism        | Plant                             | Animal/human                                            |
+| Tissue used     | No nervous or muscle tissue       | Nervous and muscle tissues                              |
+| Cause           | Touch stimulus                    | Nerve impulse from brain/spinal cord                    |
+| Mechanism       | Water movement changes cell shape | Muscle proteins change arrangement and muscle contracts |
+| Growth involved | No, for Mimosa leaf folding       | No, for ordinary leg movement                           |
+| Control         | Plant cell signalling             | Nervous system control                                  |
 
 ---
 
 # Unit 6T: Common Mistakes and Corrections
 
-| Mistake | Correct Understanding |
-|---|---|
-| Saying all plant movement is growth. | Mimosa leaf folding is not growth; shoot bending is growth. |
-| Saying reflex action is controlled only after brain thinks. | Reflex response is usually coordinated by spinal cord first. |
-| Confusing axon and dendrite. | Dendrite receives impulse; axon carries impulse away from cell body. |
-| Saying synapse is a solid connection. | Synapse is a gap crossed by chemicals. |
-| Saying cerebrum/cerebellum same thing. | Cerebellum maintains posture, balance, and precision. |
-| Saying hormones act on every cell equally. | Hormones act on target cells with suitable receptors. |
-| Saying auxin makes the lit side grow more. | In phototropism, auxin accumulates on the shaded side of the shoot. |
-| Calling insulin a plant hormone. | Insulin is an animal hormone from pancreas. |
-| Saying iodine is a hormone. | Iodine is needed to make thyroxin; it is not the hormone itself. |
+| Mistake                                                     | Correct Understanding                                                |
+| ----------------------------------------------------------- | -------------------------------------------------------------------- |
+| Saying all plant movement is growth.                        | Mimosa leaf folding is not growth; shoot bending is growth.          |
+| Saying reflex action is controlled only after brain thinks. | Reflex response is usually coordinated by spinal cord first.         |
+| Confusing axon and dendrite.                                | Dendrite receives impulse; axon carries impulse away from cell body. |
+| Saying synapse is a solid connection.                       | Synapse is a gap crossed by chemicals.                               |
+| Saying cerebrum/cerebellum same thing.                      | Cerebellum maintains posture, balance, and precision.                |
+| Saying hormones act on every cell equally.                  | Hormones act on target cells with suitable receptors.                |
+| Saying auxin makes the lit side grow more.                  | In phototropism, auxin accumulates on the shaded side of the shoot.  |
+| Calling insulin a plant hormone.                            | Insulin is an animal hormone from pancreas.                          |
+| Saying iodine is a hormone.                                 | Iodine is needed to make thyroxin; it is not the hormone itself.     |
 
 ---
 
@@ -1232,51 +1233,51 @@ Both systems work together to coordinate the body.
 
 ## Nervous System Flow
 
-| Step | Event |
-|---|---|
-| 1 | Receptor detects stimulus. |
-| 2 | Sensory neuron carries impulse. |
-| 3 | CNS processes information. |
-| 4 | Motor neuron carries command. |
-| 5 | Muscle/gland responds. |
+| Step | Event                           |
+| ---- | ------------------------------- |
+| 1    | Receptor detects stimulus.      |
+| 2    | Sensory neuron carries impulse. |
+| 3    | CNS processes information.      |
+| 4    | Motor neuron carries command.   |
+| 5    | Muscle/gland responds.          |
 
 ## Brain Parts
 
-| Brain Part | Function |
-|---|---|
-| Forebrain | Thinking, sensory interpretation, voluntary action, hunger. |
-| Midbrain | Some involuntary actions and relay functions. |
-| Medulla | Blood pressure, salivation, vomiting, many involuntary actions. |
-| Cerebellum | Balance, posture, precision of voluntary movement. |
+| Brain Part | Function                                                        |
+| ---------- | --------------------------------------------------------------- |
+| Forebrain  | Thinking, sensory interpretation, voluntary action, hunger.     |
+| Midbrain   | Some involuntary actions and relay functions.                   |
+| Medulla    | Blood pressure, salivation, vomiting, many involuntary actions. |
+| Cerebellum | Balance, posture, precision of voluntary movement.              |
 
 ## Plant Tropisms
 
-| Tropism | Stimulus | Example |
-|---|---|---|
-| Phototropism | Light | Shoot bends toward light. |
-| Geotropism | Gravity | Root grows downward. |
-| Hydrotropism | Water | Root grows toward moisture. |
+| Tropism      | Stimulus  | Example                         |
+| ------------ | --------- | ------------------------------- |
+| Phototropism | Light     | Shoot bends toward light.       |
+| Geotropism   | Gravity   | Root grows downward.            |
+| Hydrotropism | Water     | Root grows toward moisture.     |
 | Chemotropism | Chemicals | Pollen tube grows toward ovule. |
 
 ## Plant Hormones
 
-| Hormone | Function |
-|---|---|
-| Auxin | Cell elongation, phototropism, tendril bending. |
-| Gibberellin | Stem growth. |
-| Cytokinin | Cell division. |
-| Abscisic acid | Growth inhibition, wilting response. |
+| Hormone       | Function                                        |
+| ------------- | ----------------------------------------------- |
+| Auxin         | Cell elongation, phototropism, tendril bending. |
+| Gibberellin   | Stem growth.                                    |
+| Cytokinin     | Cell division.                                  |
+| Abscisic acid | Growth inhibition, wilting response.            |
 
 ## Animal Hormones
 
-| Hormone | Gland | Function |
-|---|---|---|
-| Adrenaline | Adrenal gland | Emergency response. |
-| Thyroxin | Thyroid gland | Metabolism and growth balance. |
-| Growth hormone | Pituitary gland | Growth and development. |
-| Insulin | Pancreas | Blood sugar regulation. |
-| Testosterone | Testes | Male sex organs and secondary characters. |
-| Oestrogen | Ovaries | Female sex organs and menstrual cycle. |
+| Hormone        | Gland           | Function                                  |
+| -------------- | --------------- | ----------------------------------------- |
+| Adrenaline     | Adrenal gland   | Emergency response.                       |
+| Thyroxin       | Thyroid gland   | Metabolism and growth balance.            |
+| Growth hormone | Pituitary gland | Growth and development.                   |
+| Insulin        | Pancreas        | Blood sugar regulation.                   |
+| Testosterone   | Testes          | Male sex organs and secondary characters. |
+| Oestrogen      | Ovaries         | Female sex organs and menstrual cycle.    |
 
 ---
 
@@ -1331,4 +1332,3 @@ Reflex actions are fast automatic responses usually coordinated through the spin
 Plants do not have nerves or muscles, but they respond through electrical-chemical signals, water movement, growth, and hormones. Mimosa leaf folding is a quick turgor-based response, while shoot bending toward light is a growth movement.
 
 Plant hormones include auxin, gibberellin, cytokinin, and abscisic acid. Animal hormones include adrenaline, thyroxin, growth hormone, testosterone, oestrogen, and insulin. Hormone secretion is regulated by feedback mechanisms.
-

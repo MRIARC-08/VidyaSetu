@@ -1,4 +1,5 @@
 # Chapter 5: Government Budget and the Economy
+
 ### NCERT Class 12 - Economics Macro
 
 ## Chapter at a Glance
@@ -23,28 +24,28 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Government budget | Annual statement of estimated government receipts and expenditure. |
-| Revenue receipt | Receipt that neither creates liability nor reduces asset. |
-| Capital receipt | Receipt that creates liability or reduces asset. |
-| Revenue expenditure | Expenditure that neither creates asset nor reduces liability. |
-| Capital expenditure | Expenditure that creates asset or reduces liability. |
-| Revenue deficit | Excess of revenue expenditure over revenue receipts. |
-| Fiscal deficit | Borrowing requirement of government. |
-| Primary deficit | Fiscal deficit minus interest payments. |
-| Tax revenue | Compulsory payment to government without direct quid pro quo. |
-| Non-tax revenue | Government revenue from fees, fines, interest, profits, etc. |
+| Term                | Meaning                                                            |
+| ------------------- | ------------------------------------------------------------------ |
+| Government budget   | Annual statement of estimated government receipts and expenditure. |
+| Revenue receipt     | Receipt that neither creates liability nor reduces asset.          |
+| Capital receipt     | Receipt that creates liability or reduces asset.                   |
+| Revenue expenditure | Expenditure that neither creates asset nor reduces liability.      |
+| Capital expenditure | Expenditure that creates asset or reduces liability.               |
+| Revenue deficit     | Excess of revenue expenditure over revenue receipts.               |
+| Fiscal deficit      | Borrowing requirement of government.                               |
+| Primary deficit     | Fiscal deficit minus interest payments.                            |
+| Tax revenue         | Compulsory payment to government without direct quid pro quo.      |
+| Non-tax revenue     | Government revenue from fees, fines, interest, profits, etc.       |
 
 ## Quick Learning Map
 
-| Classification question | Test |
-|---|---|
-| Revenue receipt | Does not create liability and does not reduce asset |
-| Capital receipt | Creates liability or reduces asset |
-| Revenue expenditure | Does not create asset and does not reduce liability |
-| Capital expenditure | Creates asset or reduces liability |
-| Fiscal deficit | Total expenditure minus non-borrowing receipts |
+| Classification question | Test                                                |
+| ----------------------- | --------------------------------------------------- |
+| Revenue receipt         | Does not create liability and does not reduce asset |
+| Capital receipt         | Creates liability or reduces asset                  |
+| Revenue expenditure     | Does not create asset and does not reduce liability |
+| Capital expenditure     | Creates asset or reduces liability                  |
+| Fiscal deficit          | Total expenditure minus non-borrowing receipts      |
 
 # Unit 5A: Meaning of Government Budget
 
@@ -106,10 +107,10 @@ Tax is a compulsory payment imposed by government without direct benefit in retu
 
 Types:
 
-| Type | Meaning | Example |
-|---|---|---|
-| Direct tax | Burden cannot be shifted easily | Income tax |
-| Indirect tax | Burden can be shifted | GST, excise duty |
+| Type         | Meaning                         | Example          |
+| ------------ | ------------------------------- | ---------------- |
+| Direct tax   | Burden cannot be shifted easily | Income tax       |
+| Indirect tax | Burden can be shifted           | GST, excise duty |
 
 ## Non-Tax Revenue
 
@@ -181,11 +182,11 @@ If yes to either, it is capital expenditure.
 
 # Unit 5G: Balanced, Surplus, and Deficit Budget
 
-| Budget type | Meaning |
-|---|---|
-| Balanced budget | Receipts equal expenditure. |
-| Surplus budget | Receipts exceed expenditure. |
-| Deficit budget | Expenditure exceeds receipts. |
+| Budget type     | Meaning                       |
+| --------------- | ----------------------------- |
+| Balanced budget | Receipts equal expenditure.   |
+| Surplus budget  | Receipts exceed expenditure.  |
+| Deficit budget  | Expenditure exceeds receipts. |
 
 Modern governments often use deficit budgets to support development or stabilisation, but persistent large deficits can create debt pressure.
 
@@ -234,11 +235,11 @@ If primary deficit is zero, current borrowing is only to pay interest on past lo
 
 # Unit 5K: Deficit Comparison
 
-| Deficit | Formula | Meaning |
-|---|---|---|
-| Revenue deficit | `revenue expenditure - revenue receipts` | Shortfall in revenue account |
-| Fiscal deficit | `total expenditure - receipts excluding borrowings` | Total borrowing need |
-| Primary deficit | `fiscal deficit - interest payments` | Borrowing need excluding interest burden |
+| Deficit         | Formula                                             | Meaning                                  |
+| --------------- | --------------------------------------------------- | ---------------------------------------- |
+| Revenue deficit | `revenue expenditure - revenue receipts`            | Shortfall in revenue account             |
+| Fiscal deficit  | `total expenditure - receipts excluding borrowings` | Total borrowing need                     |
+| Primary deficit | `fiscal deficit - interest payments`                | Borrowing need excluding interest burden |
 
 # Unit 5L: Fiscal Policy and Demand
 
@@ -270,18 +271,18 @@ Effect: lowers aggregate demand.
 
 # Unit 5M: Budget Classification Toolkit
 
-| Item | Classification logic |
-|---|---|
-| Income tax | Revenue receipt, tax revenue |
-| GST | Revenue receipt, tax revenue |
-| Fees | Revenue receipt, non-tax revenue |
-| Borrowing | Capital receipt because it creates liability |
-| Recovery of loan | Capital receipt because it reduces asset |
-| Disinvestment | Capital receipt because it reduces asset |
-| Salary payment | Revenue expenditure |
-| Interest payment | Revenue expenditure |
-| Road construction | Capital expenditure |
-| Loan repayment | Capital expenditure because it reduces liability |
+| Item              | Classification logic                             |
+| ----------------- | ------------------------------------------------ |
+| Income tax        | Revenue receipt, tax revenue                     |
+| GST               | Revenue receipt, tax revenue                     |
+| Fees              | Revenue receipt, non-tax revenue                 |
+| Borrowing         | Capital receipt because it creates liability     |
+| Recovery of loan  | Capital receipt because it reduces asset         |
+| Disinvestment     | Capital receipt because it reduces asset         |
+| Salary payment    | Revenue expenditure                              |
+| Interest payment  | Revenue expenditure                              |
+| Road construction | Capital expenditure                              |
+| Loan repayment    | Capital expenditure because it reduces liability |
 
 # Unit 5N: Calculation Toolkit
 
@@ -294,14 +295,14 @@ Effect: lowers aggregate demand.
 
 # Unit 5O: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Treating all government receipts as revenue receipts | Borrowing and disinvestment are capital receipts. |
-| Treating all development spending as capital expenditure | Classification depends on asset creation or liability reduction. |
-| Saying fiscal deficit is always bad | It depends on size, use, and sustainability. |
-| Including borrowings in receipts while calculating fiscal deficit | Fiscal deficit excludes borrowing receipts. |
-| Confusing primary deficit with fiscal deficit | Primary deficit excludes interest payments. |
-| Calling interest payment capital expenditure | Interest payment is revenue expenditure. |
+| Mistake                                                           | Correction                                                       |
+| ----------------------------------------------------------------- | ---------------------------------------------------------------- |
+| Treating all government receipts as revenue receipts              | Borrowing and disinvestment are capital receipts.                |
+| Treating all development spending as capital expenditure          | Classification depends on asset creation or liability reduction. |
+| Saying fiscal deficit is always bad                               | It depends on size, use, and sustainability.                     |
+| Including borrowings in receipts while calculating fiscal deficit | Fiscal deficit excludes borrowing receipts.                      |
+| Confusing primary deficit with fiscal deficit                     | Primary deficit excludes interest payments.                      |
+| Calling interest payment capital expenditure                      | Interest payment is revenue expenditure.                         |
 
 ## Practice Set
 

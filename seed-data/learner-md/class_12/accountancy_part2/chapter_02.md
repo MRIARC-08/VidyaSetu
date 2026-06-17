@@ -1,16 +1,17 @@
 # Chapter 2: Issue and Redemption of Debentures
+
 ### NCERT Class 12 - Accountancy Part 2
 
 ## Chapter at a Glance
 
-| Item | Details |
-|---|---|
-| Main idea | Debentures are borrowed funds acknowledged by a company and repaid according to terms of issue and redemption. |
-| Nature | Debt, not ownership. |
-| Main accounts | Debenture application, debenture allotment, debentures account, securities premium, discount or loss on issue, debenture interest, debenture redemption reserve, sinking fund. |
-| Issue possibilities | At par, premium, or discount; for cash, non-cash consideration, or collateral security. |
-| Redemption possibilities | Lump sum, instalments, open market purchase, or conversion. |
-| Most important skill | Separate issue price, redemption price, interest, and redemption reserve requirements. |
+| Item                     | Details                                                                                                                                                                        |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Main idea                | Debentures are borrowed funds acknowledged by a company and repaid according to terms of issue and redemption.                                                                 |
+| Nature                   | Debt, not ownership.                                                                                                                                                           |
+| Main accounts            | Debenture application, debenture allotment, debentures account, securities premium, discount or loss on issue, debenture interest, debenture redemption reserve, sinking fund. |
+| Issue possibilities      | At par, premium, or discount; for cash, non-cash consideration, or collateral security.                                                                                        |
+| Redemption possibilities | Lump sum, instalments, open market purchase, or conversion.                                                                                                                    |
+| Most important skill     | Separate issue price, redemption price, interest, and redemption reserve requirements.                                                                                         |
 
 ## Learning Outcomes
 
@@ -31,34 +32,34 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Debenture | Written acknowledgement of debt by a company. |
-| Bond | Debt instrument; often used interchangeably with debenture in practice. |
-| Debentureholder | Creditor of the company. |
-| Coupon rate | Stated interest rate on debenture. |
-| Secured debenture | Debenture backed by charge on assets. |
-| Unsecured debenture | Debenture without specific asset charge. |
-| Redeemable debenture | Debenture repayable after a specified period or event. |
-| Convertible debenture | Debenture convertible into shares or other securities. |
-| Collateral security | Secondary security given for a loan. |
-| Discount on issue | Issue price below face value. |
-| Premium on issue | Issue price above face value. |
-| Premium on redemption | Amount payable above face value at redemption. |
-| Loss on issue | Discount on issue plus premium payable on redemption. |
-| Debenture redemption reserve | Reserve created out of profits for redemption, where applicable. |
-| Sinking fund | Investment-backed fund built gradually for redemption. |
+| Term                         | Meaning                                                                 |
+| ---------------------------- | ----------------------------------------------------------------------- |
+| Debenture                    | Written acknowledgement of debt by a company.                           |
+| Bond                         | Debt instrument; often used interchangeably with debenture in practice. |
+| Debentureholder              | Creditor of the company.                                                |
+| Coupon rate                  | Stated interest rate on debenture.                                      |
+| Secured debenture            | Debenture backed by charge on assets.                                   |
+| Unsecured debenture          | Debenture without specific asset charge.                                |
+| Redeemable debenture         | Debenture repayable after a specified period or event.                  |
+| Convertible debenture        | Debenture convertible into shares or other securities.                  |
+| Collateral security          | Secondary security given for a loan.                                    |
+| Discount on issue            | Issue price below face value.                                           |
+| Premium on issue             | Issue price above face value.                                           |
+| Premium on redemption        | Amount payable above face value at redemption.                          |
+| Loss on issue                | Discount on issue plus premium payable on redemption.                   |
+| Debenture redemption reserve | Reserve created out of profits for redemption, where applicable.        |
+| Sinking fund                 | Investment-backed fund built gradually for redemption.                  |
 
 ## Quick Learning Map
 
-| Area | Core Rule |
-|---|---|
-| Shares vs debentures | Shareholder is owner; debentureholder is creditor. |
-| Interest | Debenture interest is a charge against profit. |
-| Issue | Record cash or non-cash consideration and face value separately. |
-| Collateral | May be shown by note or by journal entry. |
-| Redemption | Follow terms: par, premium, discount, conversion, or purchase. |
-| Loss on issue | Written off over debenture life or according to benefit period. |
+| Area                 | Core Rule                                                        |
+| -------------------- | ---------------------------------------------------------------- |
+| Shares vs debentures | Shareholder is owner; debentureholder is creditor.               |
+| Interest             | Debenture interest is a charge against profit.                   |
+| Issue                | Record cash or non-cash consideration and face value separately. |
+| Collateral           | May be shown by note or by journal entry.                        |
+| Redemption           | Follow terms: par, premium, discount, conversion, or purchase.   |
+| Loss on issue        | Written off over debenture life or according to benefit period.  |
 
 # Unit 2A: Meaning of Debenture
 
@@ -72,55 +73,55 @@ Both represent borrowing. The term bond is often used for government and large i
 
 # Unit 2B: Shares vs Debentures
 
-| Basis | Shares | Debentures |
-|---|---|---|
-| Nature | Ownership capital. | Borrowed capital. |
-| Holder | Shareholder is owner. | Debentureholder is creditor. |
-| Return | Dividend. | Interest. |
-| Return certainty | Dividend depends on profit and decision. | Interest is payable even if there is loss. |
-| Voting rights | Equity shareholders usually vote. | Debentureholders usually do not vote. |
-| Security | Not secured by assets. | May be secured by charge on assets. |
-| Repayment | Equity is normally not repaid during life of company. | Redeemable as per terms. |
-| Risk | Higher. | Lower than equity. |
+| Basis            | Shares                                                | Debentures                                 |
+| ---------------- | ----------------------------------------------------- | ------------------------------------------ |
+| Nature           | Ownership capital.                                    | Borrowed capital.                          |
+| Holder           | Shareholder is owner.                                 | Debentureholder is creditor.               |
+| Return           | Dividend.                                             | Interest.                                  |
+| Return certainty | Dividend depends on profit and decision.              | Interest is payable even if there is loss. |
+| Voting rights    | Equity shareholders usually vote.                     | Debentureholders usually do not vote.      |
+| Security         | Not secured by assets.                                | May be secured by charge on assets.        |
+| Repayment        | Equity is normally not repaid during life of company. | Redeemable as per terms.                   |
+| Risk             | Higher.                                               | Lower than equity.                         |
 
 # Unit 2C: Types of Debentures
 
 ## By Security
 
-| Type | Meaning |
-|---|---|
-| Secured | Carry charge on company assets. |
-| Unsecured | No specific asset charge. |
+| Type      | Meaning                         |
+| --------- | ------------------------------- |
+| Secured   | Carry charge on company assets. |
+| Unsecured | No specific asset charge.       |
 
 ## By Tenure
 
-| Type | Meaning |
-|---|---|
-| Redeemable | Repaid after a specified period. |
+| Type         | Meaning                                                                      |
+| ------------ | ---------------------------------------------------------------------------- |
+| Redeemable   | Repaid after a specified period.                                             |
 | Irredeemable | No fixed repayment date, though legal provisions may restrict practical use. |
 
 ## By Convertibility
 
-| Type | Meaning |
-|---|---|
-| Convertible | Can be converted into shares or other securities. |
-| Non-convertible | Cannot be converted. |
-| Fully convertible | Entire debenture converts. |
+| Type               | Meaning                                                  |
+| ------------------ | -------------------------------------------------------- |
+| Convertible        | Can be converted into shares or other securities.        |
+| Non-convertible    | Cannot be converted.                                     |
+| Fully convertible  | Entire debenture converts.                               |
 | Partly convertible | Only part converts; balance remains debt or is redeemed. |
 
 ## By Coupon
 
-| Type | Meaning |
-|---|---|
-| Specific coupon | Carries a stated interest rate. |
-| Zero coupon | Issued at deep discount and redeemed later, without regular interest. |
+| Type            | Meaning                                                               |
+| --------------- | --------------------------------------------------------------------- |
+| Specific coupon | Carries a stated interest rate.                                       |
+| Zero coupon     | Issued at deep discount and redeemed later, without regular interest. |
 
 ## By Registration
 
-| Type | Meaning |
-|---|---|
-| Registered | Holder details are recorded by company. |
-| Bearer | Transferable by delivery, where permitted. |
+| Type       | Meaning                                    |
+| ---------- | ------------------------------------------ |
+| Registered | Holder details are recorded by company.    |
+| Bearer     | Transferable by delivery, where permitted. |
 
 # Unit 2D: Issue of Debentures for Cash
 
@@ -134,32 +135,32 @@ Debentures may be issued at:
 
 Debenture face value equals issue price.
 
-| Event | Debit | Credit |
-|---|---|---|
-| Application money received | Bank A/c | Debenture Application A/c |
-| Debentures allotted | Debenture Application A/c | Debentures A/c |
+| Event                      | Debit                     | Credit                    |
+| -------------------------- | ------------------------- | ------------------------- |
+| Application money received | Bank A/c                  | Debenture Application A/c |
+| Debentures allotted        | Debenture Application A/c | Debentures A/c            |
 
 If collected in stages:
 
-| Event | Debit | Credit |
-|---|---|---|
-| Allotment due | Debenture Allotment A/c | Debentures A/c |
-| Allotment received | Bank A/c | Debenture Allotment A/c |
+| Event              | Debit                   | Credit                  |
+| ------------------ | ----------------------- | ----------------------- |
+| Allotment due      | Debenture Allotment A/c | Debentures A/c          |
+| Allotment received | Bank A/c                | Debenture Allotment A/c |
 
 ## Issue at Premium
 
 Issue price is above face value.
 
-| Debit | Credit |
-|---|---|
+| Debit                           | Credit                                    |
+| ------------------------------- | ----------------------------------------- |
 | Bank or Debenture Allotment A/c | Debentures A/c and Securities Premium A/c |
 
 ## Issue at Discount
 
 Issue price is below face value.
 
-| Debit | Credit |
-|---|---|
+| Debit                                            | Credit         |
+| ------------------------------------------------ | -------------- |
 | Bank A/c and Discount on Issue of Debentures A/c | Debentures A/c |
 
 Discount is a capital loss and is written off over the period benefiting from the borrowing.
@@ -180,12 +181,12 @@ A company may issue debentures to vendors for purchase of assets or business.
 
 ## Entries
 
-| Event | Debit | Credit |
-|---|---|---|
-| Assets purchased | Assets A/c | Vendor A/c |
-| Debentures issued at par | Vendor A/c | Debentures A/c |
-| Debentures issued at premium | Vendor A/c | Debentures A/c and Securities Premium A/c |
-| Debentures issued at discount | Vendor A/c and Discount on Issue A/c | Debentures A/c |
+| Event                         | Debit                                | Credit                                    |
+| ----------------------------- | ------------------------------------ | ----------------------------------------- |
+| Assets purchased              | Assets A/c                           | Vendor A/c                                |
+| Debentures issued at par      | Vendor A/c                           | Debentures A/c                            |
+| Debentures issued at premium  | Vendor A/c                           | Debentures A/c and Securities Premium A/c |
+| Debentures issued at discount | Vendor A/c and Discount on Issue A/c | Debentures A/c                            |
 
 ## Purchase Consideration Logic
 
@@ -205,8 +206,8 @@ No entry is passed. A note is added below the loan in balance sheet that debentu
 
 Entry:
 
-| Debit | Credit |
-|---|---|
+| Debit                  | Credit         |
+| ---------------------- | -------------- |
 | Debenture Suspense A/c | Debentures A/c |
 
 Presentation:
@@ -220,21 +221,21 @@ The first method is simpler and often preferred unless the question asks for ent
 
 Issue price and redemption price may differ.
 
-| Case | Meaning |
-|---|---|
-| Issued at par, redeemable at par | No discount or premium. |
-| Issued at discount, redeemable at par | Discount on issue. |
-| Issued at premium, redeemable at par | Securities premium on issue. |
-| Issued at par, redeemable at premium | Premium payable on redemption. |
-| Issued at discount, redeemable at premium | Loss on issue includes discount and redemption premium. |
-| Issued at premium, redeemable at premium | Premium received and premium payable treated separately. |
+| Case                                      | Meaning                                                  |
+| ----------------------------------------- | -------------------------------------------------------- |
+| Issued at par, redeemable at par          | No discount or premium.                                  |
+| Issued at discount, redeemable at par     | Discount on issue.                                       |
+| Issued at premium, redeemable at par      | Securities premium on issue.                             |
+| Issued at par, redeemable at premium      | Premium payable on redemption.                           |
+| Issued at discount, redeemable at premium | Loss on issue includes discount and redemption premium.  |
+| Issued at premium, redeemable at premium  | Premium received and premium payable treated separately. |
 
 ## Premium Payable on Redemption
 
 When premium on redemption is recognised at issue:
 
-| Debit | Credit |
-|---|---|
+| Debit                           | Credit                                  |
+| ------------------------------- | --------------------------------------- |
 | Loss on Issue of Debentures A/c | Premium on Redemption of Debentures A/c |
 
 The debenture account is credited with face value. Premium payable is a liability.
@@ -247,20 +248,20 @@ Interest = Face value of debentures x Rate x Time / 100
 
 ## Entry for Interest Due
 
-| Debit | Credit |
-|---|---|
+| Debit                  | Credit               |
+| ---------------------- | -------------------- |
 | Debenture Interest A/c | Debentureholders A/c |
 
 ## Entry for Tax Deducted at Payment, if applicable
 
-| Debit | Credit |
-|---|---|
+| Debit                | Credit                              |
+| -------------------- | ----------------------------------- |
 | Debentureholders A/c | Bank A/c and Income Tax Payable A/c |
 
 ## Transfer of Interest
 
-| Debit | Credit |
-|---|---|
+| Debit                            | Credit                 |
+| -------------------------------- | ---------------------- |
 | Statement of Profit and Loss A/c | Debenture Interest A/c |
 
 Interest is a charge against profit.
@@ -297,36 +298,36 @@ Where applicable, a reserve is created out of profits before redemption. It show
 
 Entry:
 
-| Debit | Credit |
-|---|---|
+| Debit                                       | Credit                           |
+| ------------------------------------------- | -------------------------------- |
 | Surplus in Statement of Profit and Loss A/c | Debenture Redemption Reserve A/c |
 
 # Unit 2L: Redemption by Lump Sum
 
 ## Debentures Due for Redemption at Par
 
-| Debit | Credit |
-|---|---|
+| Debit          | Credit               |
+| -------------- | -------------------- |
 | Debentures A/c | Debentureholders A/c |
 
 Payment:
 
-| Debit | Credit |
-|---|---|
+| Debit                | Credit   |
+| -------------------- | -------- |
 | Debentureholders A/c | Bank A/c |
 
 ## Redemption at Premium
 
 When due:
 
-| Debit | Credit |
-|---|---|
+| Debit                                        | Credit               |
+| -------------------------------------------- | -------------------- |
 | Debentures A/c and Premium on Redemption A/c | Debentureholders A/c |
 
 Payment:
 
-| Debit | Credit |
-|---|---|
+| Debit                | Credit   |
+| -------------------- | -------- |
 | Debentureholders A/c | Bank A/c |
 
 # Unit 2M: Redemption by Instalments
@@ -345,14 +346,14 @@ If purchase price is above face value, there is loss.
 
 ## Entry When Debentures Are Purchased for Cancellation
 
-| Debit | Credit |
-|---|---|
+| Debit              | Credit   |
+| ------------------ | -------- |
 | Own Debentures A/c | Bank A/c |
 
 Cancellation:
 
-| Debit | Credit |
-|---|---|
+| Debit          | Credit                                            |
+| -------------- | ------------------------------------------------- |
 | Debentures A/c | Own Debentures A/c and Profit on Cancellation A/c |
 
 If there is loss, debit loss on cancellation.
@@ -363,16 +364,16 @@ Debentures may be converted into shares or new debentures.
 
 ## Conversion into Shares
 
-| Debit | Credit |
-|---|---|
+| Debit                | Credit                                               |
+| -------------------- | ---------------------------------------------------- |
 | Debentureholders A/c | Share Capital A/c and Securities Premium A/c, if any |
 
 If shares are issued at premium, credit securities premium.
 
 ## Conversion into New Debentures
 
-| Debit | Credit |
-|---|---|
+| Debit                    | Credit             |
+| ------------------------ | ------------------ |
 | Old Debentureholders A/c | New Debentures A/c |
 
 # Unit 2P: Sinking Fund Method
@@ -399,18 +400,18 @@ A company issues 1,000 debentures of Rs. 100 each at Rs. 95, redeemable at Rs. 1
 
 ## Amounts
 
-| Item | Amount |
-|---|---:|
-| Face value | Rs. 1,00,000 |
-| Cash received | Rs. 95,000 |
-| Discount on issue | Rs. 5,000 |
-| Premium on redemption | Rs. 5,000 |
-| Total loss on issue | Rs. 10,000 |
+| Item                  |       Amount |
+| --------------------- | -----------: |
+| Face value            | Rs. 1,00,000 |
+| Cash received         |   Rs. 95,000 |
+| Discount on issue     |    Rs. 5,000 |
+| Premium on redemption |    Rs. 5,000 |
+| Total loss on issue   |   Rs. 10,000 |
 
 ## Issue Entry
 
-| Debit | Credit |
-|---|---|
+| Debit                                                           | Credit                                                           |
+| --------------------------------------------------------------- | ---------------------------------------------------------------- |
 | Bank A/c Rs. 95,000; Loss on Issue of Debentures A/c Rs. 10,000 | Debentures A/c Rs. 1,00,000; Premium on Redemption A/c Rs. 5,000 |
 
 If written off equally for five years:
@@ -419,14 +420,14 @@ Annual write-off = Rs. 10,000 / 5 = Rs. 2,000.
 
 # Unit 2R: Common Mistakes and Corrections
 
-| Mistake | Correct Approach |
-|---|---|
-| Treating debenture interest like dividend | Interest is a charge against profit. |
-| Crediting debentures with issue price | Credit debentures with face value. |
-| Mixing premium on issue with premium on redemption | Premium on issue is securities premium; premium on redemption is liability. |
-| Ignoring loss on issue when redemption is at premium | Loss includes discount plus redemption premium. |
-| Passing collateral entry when question says only note | Follow the method required. |
-| Writing off discount all at once without instruction | Spread over benefit period. |
+| Mistake                                               | Correct Approach                                                            |
+| ----------------------------------------------------- | --------------------------------------------------------------------------- |
+| Treating debenture interest like dividend             | Interest is a charge against profit.                                        |
+| Crediting debentures with issue price                 | Credit debentures with face value.                                          |
+| Mixing premium on issue with premium on redemption    | Premium on issue is securities premium; premium on redemption is liability. |
+| Ignoring loss on issue when redemption is at premium  | Loss includes discount plus redemption premium.                             |
+| Passing collateral entry when question says only note | Follow the method required.                                                 |
+| Writing off discount all at once without instruction  | Spread over benefit period.                                                 |
 
 ## Practice Set
 

@@ -1,17 +1,18 @@
 # Chapter 2: Theory Base of Accounting
+
 ### NCERT Class 11 - Accountancy Part 1
 
 ## Chapter at a Glance
 
-| Item | Details |
-|---|---|
-| Main idea | Accounting must follow accepted concepts, principles, rules, and standards so reports are reliable and comparable. |
-| Core framework | GAAP, accounting concepts, accounting standards, systems of accounting, and basis of accounting |
-| Most important equation | Assets = Liabilities + Capital |
-| Main systems | Double entry system and single entry system |
-| Main bases | Cash basis and accrual basis |
-| Main standard-setting body in India | Institute of Chartered Accountants of India, or ICAI |
-| Tax topic included | GST: CGST, SGST, and IGST |
+| Item                                | Details                                                                                                            |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Main idea                           | Accounting must follow accepted concepts, principles, rules, and standards so reports are reliable and comparable. |
+| Core framework                      | GAAP, accounting concepts, accounting standards, systems of accounting, and basis of accounting                    |
+| Most important equation             | Assets = Liabilities + Capital                                                                                     |
+| Main systems                        | Double entry system and single entry system                                                                        |
+| Main bases                          | Cash basis and accrual basis                                                                                       |
+| Main standard-setting body in India | Institute of Chartered Accountants of India, or ICAI                                                               |
+| Tax topic included                  | GST: CGST, SGST, and IGST                                                                                          |
 
 ## Learning Outcomes
 
@@ -32,42 +33,42 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Theory base | The concepts, principles, assumptions, rules, and standards that guide accounting. |
-| GAAP | Generally Accepted Accounting Principles used to record and report business transactions consistently. |
-| Concept | Fundamental accounting assumption or idea. |
-| Convention | Custom or tradition guiding accounting practice. |
-| Business entity concept | Business and owner are treated as separate entities for accounting. |
-| Money measurement concept | Only transactions measurable in money are recorded. |
-| Going concern concept | Business is assumed to continue for a long period. |
-| Accounting period concept | Life of business is divided into regular periods for reporting. |
-| Cost concept | Assets are recorded at historical cost. |
-| Dual aspect concept | Every transaction has two effects. |
-| Revenue recognition concept | Revenue is recorded when the right to receive it arises. |
-| Matching concept | Expenses of a period are matched with revenues of the same period. |
-| Full disclosure concept | All material and relevant facts must be disclosed. |
-| Consistency concept | Same accounting methods should be followed from period to period. |
-| Conservatism | Do not anticipate profits, but provide for expected losses. |
-| Materiality | Accounting should focus on facts that can influence user decisions. |
-| Objectivity | Transactions should be recorded on verifiable evidence, free from bias. |
-| Double entry system | Complete system where every transaction has debit and credit effects. |
-| Single entry system | Incomplete system where full two-sided effect is not always recorded. |
-| Cash basis | Transactions are recorded when cash is received or paid. |
-| Accrual basis | Transactions are recorded when they occur, not merely when cash moves. |
-| Accounting standards | Written policy documents on recognition, measurement, treatment, presentation, and disclosure. |
-| GST | Goods and Services Tax, a destination-based tax on consumption of goods and services. |
+| Term                        | Meaning                                                                                                |
+| --------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Theory base                 | The concepts, principles, assumptions, rules, and standards that guide accounting.                     |
+| GAAP                        | Generally Accepted Accounting Principles used to record and report business transactions consistently. |
+| Concept                     | Fundamental accounting assumption or idea.                                                             |
+| Convention                  | Custom or tradition guiding accounting practice.                                                       |
+| Business entity concept     | Business and owner are treated as separate entities for accounting.                                    |
+| Money measurement concept   | Only transactions measurable in money are recorded.                                                    |
+| Going concern concept       | Business is assumed to continue for a long period.                                                     |
+| Accounting period concept   | Life of business is divided into regular periods for reporting.                                        |
+| Cost concept                | Assets are recorded at historical cost.                                                                |
+| Dual aspect concept         | Every transaction has two effects.                                                                     |
+| Revenue recognition concept | Revenue is recorded when the right to receive it arises.                                               |
+| Matching concept            | Expenses of a period are matched with revenues of the same period.                                     |
+| Full disclosure concept     | All material and relevant facts must be disclosed.                                                     |
+| Consistency concept         | Same accounting methods should be followed from period to period.                                      |
+| Conservatism                | Do not anticipate profits, but provide for expected losses.                                            |
+| Materiality                 | Accounting should focus on facts that can influence user decisions.                                    |
+| Objectivity                 | Transactions should be recorded on verifiable evidence, free from bias.                                |
+| Double entry system         | Complete system where every transaction has debit and credit effects.                                  |
+| Single entry system         | Incomplete system where full two-sided effect is not always recorded.                                  |
+| Cash basis                  | Transactions are recorded when cash is received or paid.                                               |
+| Accrual basis               | Transactions are recorded when they occur, not merely when cash moves.                                 |
+| Accounting standards        | Written policy documents on recognition, measurement, treatment, presentation, and disclosure.         |
+| GST                         | Goods and Services Tax, a destination-based tax on consumption of goods and services.                  |
 
 ## Quick Concept Map
 
-| Area | What It Controls |
-|---|---|
-| GAAP | General accepted rules for uniform accounting. |
-| Accounting concepts | Basic assumptions behind recording and reporting. |
-| Accounting standards | Detailed written guidance for consistent financial statements. |
-| Systems of accounting | How transactions are recorded in books. |
-| Basis of accounting | When revenue and expenses are recognised. |
-| GST | How indirect tax is charged in intra-state and inter-state transactions. |
+| Area                  | What It Controls                                                         |
+| --------------------- | ------------------------------------------------------------------------ |
+| GAAP                  | General accepted rules for uniform accounting.                           |
+| Accounting concepts   | Basic assumptions behind recording and reporting.                        |
+| Accounting standards  | Detailed written guidance for consistent financial statements.           |
+| Systems of accounting | How transactions are recorded in books.                                  |
+| Basis of accounting   | When revenue and expenses are recognised.                                |
+| GST                   | How indirect tax is charged in intra-state and inter-state transactions. |
 
 # Unit 2A: Why Accounting Needs a Theory Base
 
@@ -102,23 +103,23 @@ GAAP refers to rules or guidelines adopted for recording and reporting business 
 
 ## Features of GAAP
 
-| Feature | Explanation |
-|---|---|
-| Generally accepted | Accepted by the accounting profession and users. |
-| Based on experience | Developed through practice, usage, professional statements, and regulation. |
-| Not static | Changes with legal, social, economic, and user needs. |
-| Promotes uniformity | Helps businesses prepare comparable reports. |
-| Improves reliability | Reduces arbitrary treatment. |
+| Feature              | Explanation                                                                 |
+| -------------------- | --------------------------------------------------------------------------- |
+| Generally accepted   | Accepted by the accounting profession and users.                            |
+| Based on experience  | Developed through practice, usage, professional statements, and regulation. |
+| Not static           | Changes with legal, social, economic, and user needs.                       |
+| Promotes uniformity  | Helps businesses prepare comparable reports.                                |
+| Improves reliability | Reduces arbitrary treatment.                                                |
 
 ## Principle, Concept, Convention, Assumption
 
 The chapter explains that these terms are often used interchangeably in practice.
 
-| Term | Simple Meaning |
-|---|---|
-| Principle | General rule or guide to action. |
-| Concept | Fundamental accounting idea or assumption. |
-| Convention | Custom or tradition followed in accounting. |
+| Term       | Simple Meaning                                   |
+| ---------- | ------------------------------------------------ |
+| Principle  | General rule or guide to action.                 |
+| Concept    | Fundamental accounting idea or assumption.       |
+| Convention | Custom or tradition followed in accounting.      |
 | Assumption | Basic belief accepted before preparing accounts. |
 
 For Class 11, focus more on application than on naming disputes.
@@ -151,12 +152,12 @@ The business and owner are treated as two separate accounting entities.
 
 ## Examples
 
-| Situation | Accounting Treatment |
-|---|---|
-| Owner brings cash into business. | Business records capital as liability to owner. |
-| Owner withdraws cash for personal use. | Business records drawings, reducing owner's capital. |
-| Owner has personal house loan. | Not recorded in business books unless business is involved. |
-| Business pays owner's personal expense. | Recorded as drawings, not business expense. |
+| Situation                               | Accounting Treatment                                        |
+| --------------------------------------- | ----------------------------------------------------------- |
+| Owner brings cash into business.        | Business records capital as liability to owner.             |
+| Owner withdraws cash for personal use.  | Business records drawings, reducing owner's capital.        |
+| Owner has personal house loan.          | Not recorded in business books unless business is involved. |
+| Business pays owner's personal expense. | Recorded as drawings, not business expense.                 |
 
 ## Why It Matters
 
@@ -239,10 +240,10 @@ They need periodic information for:
 
 ## Examples of Accounting Periods
 
-| Period | Use |
-|---|---|
-| One year | Normal annual financial statements. |
-| Quarter | Listed companies may publish quarterly results. |
+| Period         | Use                                                                        |
+| -------------- | -------------------------------------------------------------------------- |
+| One year       | Normal annual financial statements.                                        |
+| Quarter        | Listed companies may publish quarterly results.                            |
 | Shorter period | Needed for retirement of partner, sale of business, or internal reporting. |
 
 # Unit 2H: Cost Concept
@@ -259,13 +260,13 @@ Cost includes:
 
 ## Shiva Enterprise Example
 
-| Item | Amount |
-|---|---:|
-| Old plant purchase price | Rs. 50,00,000 |
-| Transport | Rs. 10,000 |
-| Repairs to make plant usable | Rs. 15,000 |
-| Installation | Rs. 25,000 |
-| Total recorded cost | Rs. 50,50,000 |
+| Item                         |        Amount |
+| ---------------------------- | ------------: |
+| Old plant purchase price     | Rs. 50,00,000 |
+| Transport                    |    Rs. 10,000 |
+| Repairs to make plant usable |    Rs. 15,000 |
+| Installation                 |    Rs. 25,000 |
+| Total recorded cost          | Rs. 50,50,000 |
 
 ## Why Historical Cost Is Used
 
@@ -289,12 +290,12 @@ This means assets of a business are financed by claims of owners and outsiders.
 
 ## Examples
 
-| Transaction | Effect 1 | Effect 2 |
-|---|---|---|
-| Owner invests Rs. 50,00,000 cash. | Cash asset increases. | Capital increases. |
-| Goods bought for cash. | Stock increases. | Cash decreases. |
-| Machine bought on credit. | Machinery increases. | Creditor liability increases. |
-| Loan taken from bank. | Cash or bank increases. | Loan liability increases. |
+| Transaction                       | Effect 1                | Effect 2                      |
+| --------------------------------- | ----------------------- | ----------------------------- |
+| Owner invests Rs. 50,00,000 cash. | Cash asset increases.   | Capital increases.            |
+| Goods bought for cash.            | Stock increases.        | Cash decreases.               |
+| Machine bought on credit.         | Machinery increases.    | Creditor liability increases. |
+| Loan taken from bank.             | Cash or bank increases. | Loan liability increases.     |
 
 The accounting equation must remain balanced after every transaction.
 
@@ -314,11 +315,11 @@ Credit sales are recorded as revenue when sales are made, not when cash is recei
 
 ## Examples
 
-| Situation | Revenue Recognition |
-|---|---|
-| Goods sold on credit in March, cash received in April. | Revenue belongs to March. |
-| Rent for March received in April. | Revenue belongs to March. |
-| Interest for April received in advance in March. | Revenue belongs to April, not March. |
+| Situation                                              | Revenue Recognition                  |
+| ------------------------------------------------------ | ------------------------------------ |
+| Goods sold on credit in March, cash received in April. | Revenue belongs to March.            |
+| Rent for March received in April.                      | Revenue belongs to March.            |
+| Interest for April received in advance in March.       | Revenue belongs to April, not March. |
 
 ## Exceptions
 
@@ -339,12 +340,12 @@ Revenue and expenses must belong to the same accounting period.
 
 ## Examples
 
-| Situation | Matching Treatment |
-|---|---|
-| Salary for March paid in April. | Expense belongs to March. |
-| Insurance paid for one year. | Only the part relating to current year is expense. |
-| Fixed asset used for many years. | Depreciation is charged over useful life. |
-| Goods purchased but unsold. | Cost of unsold goods is closing stock, not current expense. |
+| Situation                        | Matching Treatment                                          |
+| -------------------------------- | ----------------------------------------------------------- |
+| Salary for March paid in April.  | Expense belongs to March.                                   |
+| Insurance paid for one year.     | Only the part relating to current year is expense.          |
+| Fixed asset used for many years. | Depreciation is charged over useful life.                   |
+| Goods purchased but unsold.      | Cost of unsold goods is closing stock, not current expense. |
 
 Matching is the reason we adjust for outstanding expenses, prepaid expenses, accrued income, and income received in advance.
 
@@ -448,12 +449,12 @@ Each transaction should be supported by verifiable evidence.
 
 ## Evidence Examples
 
-| Transaction | Evidence |
-|---|---|
-| Cash purchase | Cash memo or receipt |
-| Credit purchase | Invoice and delivery challan |
+| Transaction      | Evidence                            |
+| ---------------- | ----------------------------------- |
+| Cash purchase    | Cash memo or receipt                |
+| Credit purchase  | Invoice and delivery challan        |
 | Machine purchase | Invoice, receipt, installation bill |
-| Payment | Payment voucher or bank record |
+| Payment          | Payment voucher or bank record      |
 
 Historical cost supports objectivity because the amount actually paid can be verified.
 
@@ -536,14 +537,14 @@ Accrual basis is more appropriate for calculating profit because it matches reve
 
 ## Cash Basis Versus Accrual Basis
 
-| Basis | Cash Basis | Accrual Basis |
-|---|---|---|
-| Revenue recorded | When cash is received | When earned |
-| Expense recorded | When cash is paid | When incurred |
-| Matching | Weak | Strong |
-| Simplicity | Simple | More systematic |
-| Accuracy of profit | Lower | Higher |
-| Business suitability | Limited | Preferred for most businesses |
+| Basis                | Cash Basis            | Accrual Basis                 |
+| -------------------- | --------------------- | ----------------------------- |
+| Revenue recorded     | When cash is received | When earned                   |
+| Expense recorded     | When cash is paid     | When incurred                 |
+| Matching             | Weak                  | Strong                        |
+| Simplicity           | Simple                | More systematic               |
+| Accuracy of profit   | Lower                 | Higher                        |
+| Business suitability | Limited               | Preferred for most businesses |
 
 # Unit 2S: Accounting Standards
 
@@ -600,11 +601,11 @@ Tax revenue goes to the place where goods or services are consumed, also called 
 
 ## Components of GST
 
-| Component | Full Form | When Used | Revenue Goes To |
-|---|---|---|---|
-| CGST | Central Goods and Services Tax | Intra-state sale | Central Government |
-| SGST | State Goods and Services Tax | Intra-state sale | State Government |
-| IGST | Integrated Goods and Services Tax | Inter-state sale or import | Collected by Centre and apportioned as per law |
+| Component | Full Form                         | When Used                  | Revenue Goes To                                |
+| --------- | --------------------------------- | -------------------------- | ---------------------------------------------- |
+| CGST      | Central Goods and Services Tax    | Intra-state sale           | Central Government                             |
+| SGST      | State Goods and Services Tax      | Intra-state sale           | State Government                               |
+| IGST      | Integrated Goods and Services Tax | Inter-state sale or import | Collected by Centre and apportioned as per law |
 
 ## Intra-State Sale
 
@@ -616,10 +617,10 @@ Example:
 
 Goods worth Rs. 10,000 are sold within Punjab. GST rate is 18 percent, split as 9 percent CGST and 9 percent SGST.
 
-| Tax | Calculation | Amount |
-|---|---:|---:|
-| CGST | 10,000 x 9% | Rs. 900 |
-| SGST | 10,000 x 9% | Rs. 900 |
+| Tax       |  Calculation |    Amount |
+| --------- | -----------: | --------: |
+| CGST      |  10,000 x 9% |   Rs. 900 |
+| SGST      |  10,000 x 9% |   Rs. 900 |
 | Total GST | 10,000 x 18% | Rs. 1,800 |
 
 ## Inter-State Sale
@@ -658,61 +659,61 @@ Goods worth Rs. 10,00,000 are sold from Madhya Pradesh to Rajasthan. If IGST is 
 
 Assume CGST is 9 percent, SGST is 9 percent, and IGST is 18 percent.
 
-| Case | Type | Tax Calculation | Total Tax |
-|---|---|---|---:|
-| Goods worth Rs. 10,000 sold within Maharashtra | Intra-state | CGST Rs. 900 + SGST Rs. 900 | Rs. 1,800 |
-| Dealer A in Maharashtra sells Rs. 25,000 goods to Dealer B in Gujarat | Inter-state | IGST = 25,000 x 18% | Rs. 4,500 |
-| Dealer B sells Rs. 30,000 goods to Sunita in Gujarat | Intra-state | CGST Rs. 2,700 + SGST Rs. 2,700 | Rs. 5,400 |
-| Sunita in Gujarat sells Rs. 65,000 goods to Ravindra in Rajasthan | Inter-state | IGST = 65,000 x 18% | Rs. 11,700 |
+| Case                                                                  | Type        | Tax Calculation                 |  Total Tax |
+| --------------------------------------------------------------------- | ----------- | ------------------------------- | ---------: |
+| Goods worth Rs. 10,000 sold within Maharashtra                        | Intra-state | CGST Rs. 900 + SGST Rs. 900     |  Rs. 1,800 |
+| Dealer A in Maharashtra sells Rs. 25,000 goods to Dealer B in Gujarat | Inter-state | IGST = 25,000 x 18%             |  Rs. 4,500 |
+| Dealer B sells Rs. 30,000 goods to Sunita in Gujarat                  | Intra-state | CGST Rs. 2,700 + SGST Rs. 2,700 |  Rs. 5,400 |
+| Sunita in Gujarat sells Rs. 65,000 goods to Ravindra in Rajasthan     | Inter-state | IGST = 65,000 x 18%             | Rs. 11,700 |
 
 # Unit 2V: Exam-Ready Concept Table
 
-| Concept | Core Rule | Example |
-|---|---|---|
-| Business entity | Business and owner are separate. | Owner's personal rent is not business expense. |
-| Money measurement | Record only money-measurable events. | Employee skill is not recorded as asset. |
-| Going concern | Business will continue. | Asset cost spread through depreciation. |
-| Accounting period | Prepare reports periodically. | Annual profit and balance sheet. |
-| Cost | Record asset at purchase cost. | Machine recorded at invoice plus installation cost. |
-| Dual aspect | Every transaction has two effects. | Cash invested increases asset and capital. |
-| Revenue recognition | Record revenue when earned. | Credit sale recorded on sale date. |
-| Matching | Match expenses with related revenue. | Depreciation charged over useful life. |
-| Full disclosure | Disclose material facts. | Pending legal liability disclosed. |
-| Consistency | Use same methods over time. | Same depreciation method used yearly. |
-| Conservatism | Provide expected losses, avoid unrealised gains. | Provision for doubtful debts. |
-| Materiality | Focus on decision-relevant facts. | Small stationery treated as expense. |
-| Objectivity | Use verifiable evidence. | Invoice supports purchase. |
+| Concept             | Core Rule                                        | Example                                             |
+| ------------------- | ------------------------------------------------ | --------------------------------------------------- |
+| Business entity     | Business and owner are separate.                 | Owner's personal rent is not business expense.      |
+| Money measurement   | Record only money-measurable events.             | Employee skill is not recorded as asset.            |
+| Going concern       | Business will continue.                          | Asset cost spread through depreciation.             |
+| Accounting period   | Prepare reports periodically.                    | Annual profit and balance sheet.                    |
+| Cost                | Record asset at purchase cost.                   | Machine recorded at invoice plus installation cost. |
+| Dual aspect         | Every transaction has two effects.               | Cash invested increases asset and capital.          |
+| Revenue recognition | Record revenue when earned.                      | Credit sale recorded on sale date.                  |
+| Matching            | Match expenses with related revenue.             | Depreciation charged over useful life.              |
+| Full disclosure     | Disclose material facts.                         | Pending legal liability disclosed.                  |
+| Consistency         | Use same methods over time.                      | Same depreciation method used yearly.               |
+| Conservatism        | Provide expected losses, avoid unrealised gains. | Provision for doubtful debts.                       |
+| Materiality         | Focus on decision-relevant facts.                | Small stationery treated as expense.                |
+| Objectivity         | Use verifiable evidence.                         | Invoice supports purchase.                          |
 
 # Practice Set 1: Multiple Choice Answers
 
-| Question | Correct Answer | Reason |
-|---|---|---|
-| During the life of an entity, financial statements are produced according to which concept? | Accounting period | Reports are prepared at regular intervals. |
-| Similar presentation for two enterprises shows which characteristic? | None of the given options | The correct characteristic is comparability. |
-| Business will not be sold or liquidated in near future. | Going concern | Business is assumed to continue. |
-| Primary qualities useful for decision-making. | Reliability and comparability, using the given checklist | Conceptually, relevance and reliability are central. |
+| Question                                                                                    | Correct Answer                                           | Reason                                               |
+| ------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------- |
+| During the life of an entity, financial statements are produced according to which concept? | Accounting period                                        | Reports are prepared at regular intervals.           |
+| Similar presentation for two enterprises shows which characteristic?                        | None of the given options                                | The correct characteristic is comparability.         |
+| Business will not be sold or liquidated in near future.                                     | Going concern                                            | Business is assumed to continue.                     |
+| Primary qualities useful for decision-making.                                               | Reliability and comparability, using the given checklist | Conceptually, relevance and reliability are central. |
 
 # Practice Set 2: Fill-in Answers
 
-| Prompt | Answer |
-|---|---|
-| Recognition of expenses in same period as related revenue | Matching |
-| Understating assets/revenues and overstating liabilities/expenses under uncertainty | Conservatism |
-| Revenue generally recognised at point of sale | Revenue realisation |
-| Same accounting method from one period to next | Consistency |
-| Transactions free from accountant bias | Objectivity |
+| Prompt                                                                              | Answer              |
+| ----------------------------------------------------------------------------------- | ------------------- |
+| Recognition of expenses in same period as related revenue                           | Matching            |
+| Understating assets/revenues and overstating liabilities/expenses under uncertainty | Conservatism        |
+| Revenue generally recognised at point of sale                                       | Revenue realisation |
+| Same accounting method from one period to next                                      | Consistency         |
+| Transactions free from accountant bias                                              | Objectivity         |
 
 # Practice Set 3: Concept Worksheet
 
-| Prompt | Concept |
-|---|---|
-| Possible debtor default should be recorded as possible loss. | Conservatism |
-| Business is separate from owner. | Business entity |
-| Everything owned is owed to someone. | Dual aspect |
-| Straight-line depreciation used this year should be used next year. | Consistency |
-| Increase in market value of stock is ignored until sold. | Conservatism |
-| Order received is not included in sales. | Revenue recognition |
-| Incompetent management is not recorded in books. | Money measurement |
+| Prompt                                                              | Concept             |
+| ------------------------------------------------------------------- | ------------------- |
+| Possible debtor default should be recorded as possible loss.        | Conservatism        |
+| Business is separate from owner.                                    | Business entity     |
+| Everything owned is owed to someone.                                | Dual aspect         |
+| Straight-line depreciation used this year should be used next year. | Consistency         |
+| Increase in market value of stock is ignored until sold.            | Conservatism        |
+| Order received is not included in sales.                            | Revenue recognition |
+| Incompetent management is not recorded in books.                    | Money measurement   |
 
 # Applied Case 1: Ruchica and Bank Statements
 
@@ -726,11 +727,11 @@ Ruchica prepared financial statements because the accountant was ill. The bank d
 
 ## Mistakes and Concepts Violated
 
-| Mistake | Concept Violated | Correct Treatment |
-|---|---|---|
-| Building shown at market value instead of purchase cost. | Cost concept and objectivity. | Record at historical cost, unless standards require otherwise. |
-| Stock valuation method changed without proper disclosure. | Consistency and full disclosure. | Use same method or disclose change and effect. |
-| Full computer cost charged in one year. | Going concern and matching. | Capitalise computer and charge depreciation over useful life. |
+| Mistake                                                   | Concept Violated                 | Correct Treatment                                              |
+| --------------------------------------------------------- | -------------------------------- | -------------------------------------------------------------- |
+| Building shown at market value instead of purchase cost.  | Cost concept and objectivity.    | Record at historical cost, unless standards require otherwise. |
+| Stock valuation method changed without proper disclosure. | Consistency and full disclosure. | Use same method or disclose change and effect.                 |
+| Full computer cost charged in one year.                   | Going concern and matching.      | Capitalise computer and charge depreciation over useful life.  |
 
 ## Explanation
 
@@ -840,17 +841,17 @@ The difficulty is that value of money changes over time due to inflation or defl
 
 # Common Mistakes to Avoid
 
-| Mistake | Correct Understanding |
-|---|---|
-| Treating owner and business as same. | Business entity concept keeps them separate. |
-| Recording every important non-financial fact. | Money measurement records only measurable events. |
-| Charging full cost of long-term asset in one year. | Going concern and matching require allocation over useful life. |
-| Recording market value increase as profit before sale. | Conservatism avoids unrealised gains. |
-| Changing methods without disclosure. | Consistency permits justified change with disclosure. |
-| Including order received as sales. | Revenue is recognised when sale is complete, not when order is received. |
-| Treating single entry as complete. | It is incomplete and less reliable. |
-| Confusing cash and accrual basis. | Cash basis follows cash movement; accrual follows earning and incurring. |
-| Applying CGST and SGST to inter-state sale. | Inter-state sale attracts IGST. |
+| Mistake                                                | Correct Understanding                                                    |
+| ------------------------------------------------------ | ------------------------------------------------------------------------ |
+| Treating owner and business as same.                   | Business entity concept keeps them separate.                             |
+| Recording every important non-financial fact.          | Money measurement records only measurable events.                        |
+| Charging full cost of long-term asset in one year.     | Going concern and matching require allocation over useful life.          |
+| Recording market value increase as profit before sale. | Conservatism avoids unrealised gains.                                    |
+| Changing methods without disclosure.                   | Consistency permits justified change with disclosure.                    |
+| Including order received as sales.                     | Revenue is recognised when sale is complete, not when order is received. |
+| Treating single entry as complete.                     | It is incomplete and less reliable.                                      |
+| Confusing cash and accrual basis.                      | Cash basis follows cash movement; accrual follows earning and incurring. |
+| Applying CGST and SGST to inter-state sale.            | Inter-state sale attracts IGST.                                          |
 
 # Final Study Summary
 

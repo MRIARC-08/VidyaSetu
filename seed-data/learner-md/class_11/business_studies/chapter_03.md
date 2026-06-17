@@ -132,16 +132,16 @@ The government allowed private enterprise but also created public enterprises to
 
 ## 7. Private Sector and Public Sector: Comparison
 
-| Basis | Private sector | Public sector |
-|---|---|---|
-| Ownership | Private individuals or groups | Government wholly or partly |
-| Main motive | Profit and growth | Public welfare, strategic needs, economic development, and sometimes profit |
-| Capital | Private funds, loans, shares | Public funds, government capital, public borrowings, revenue |
-| Control | Owners, partners, directors, managers | Ministry, government, board, statute, or government-appointed management |
-| Accountability | Owners, shareholders, customers, regulators | Government, Parliament or legislature, public, auditors |
-| Flexibility | Usually higher | Often lower because of rules |
-| Risk | Private owners or investors | Government and public funds, depending on form |
-| Examples | Shops, private companies, professional firms | Railways, statutory corporations, government companies |
+| Basis          | Private sector                               | Public sector                                                               |
+| -------------- | -------------------------------------------- | --------------------------------------------------------------------------- |
+| Ownership      | Private individuals or groups                | Government wholly or partly                                                 |
+| Main motive    | Profit and growth                            | Public welfare, strategic needs, economic development, and sometimes profit |
+| Capital        | Private funds, loans, shares                 | Public funds, government capital, public borrowings, revenue                |
+| Control        | Owners, partners, directors, managers        | Ministry, government, board, statute, or government-appointed management    |
+| Accountability | Owners, shareholders, customers, regulators  | Government, Parliament or legislature, public, auditors                     |
+| Flexibility    | Usually higher                               | Often lower because of rules                                                |
+| Risk           | Private owners or investors                  | Government and public funds, depending on form                              |
+| Examples       | Shops, private companies, professional firms | Railways, statutory corporations, government companies                      |
 
 ## 8. Public Sector Enterprises
 
@@ -421,17 +421,17 @@ A company funded by government money should remain accountable, but company stru
 
 ## 22. Public Sector Forms: Comparison
 
-| Basis | Departmental undertaking | Statutory corporation | Government company |
-|---|---|---|---|
-| Formation | By government department | By special Act | By Companies Act |
-| Legal entity | No separate legal entity | Separate legal entity | Separate legal entity |
-| Ownership | Government | Government | At least 51 percent government shareholding |
-| Control | Direct ministry control | Control as per Act | Board and government as majority owner |
-| Finance | Government budget | Own revenue, borrowings, government funds | Share capital, borrowings, market funds |
-| Employees | Government servants | Governed by Act | Governed by company rules |
-| Flexibility | Low | Moderate to high in theory | Higher than department |
-| Accountability | Direct to ministry and legislature | As provided by Act | Through company reporting and government ownership |
-| Suitability | Defence, strategic, essential government services | Public utilities and development bodies | Commercial public sector operations |
+| Basis          | Departmental undertaking                          | Statutory corporation                     | Government company                                 |
+| -------------- | ------------------------------------------------- | ----------------------------------------- | -------------------------------------------------- |
+| Formation      | By government department                          | By special Act                            | By Companies Act                                   |
+| Legal entity   | No separate legal entity                          | Separate legal entity                     | Separate legal entity                              |
+| Ownership      | Government                                        | Government                                | At least 51 percent government shareholding        |
+| Control        | Direct ministry control                           | Control as per Act                        | Board and government as majority owner             |
+| Finance        | Government budget                                 | Own revenue, borrowings, government funds | Share capital, borrowings, market funds            |
+| Employees      | Government servants                               | Governed by Act                           | Governed by company rules                          |
+| Flexibility    | Low                                               | Moderate to high in theory                | Higher than department                             |
+| Accountability | Direct to ministry and legislature                | As provided by Act                        | Through company reporting and government ownership |
+| Suitability    | Defence, strategic, essential government services | Public utilities and development bodies   | Commercial public sector operations                |
 
 ## 23. Changing Role of Public Sector
 
@@ -831,36 +831,36 @@ PPP may be used in:
 
 ## 40. Departmental Undertaking, Statutory Corporation, Government Company: Exam Comparison
 
-| Point | Departmental undertaking | Statutory corporation | Government company |
-|---|---|---|---|
-| Created by | Ministry or government department | Special Act | Companies Act |
-| Legal identity | No separate identity | Separate body corporate | Separate legal entity |
-| Autonomy | Lowest | More autonomy | More business autonomy |
-| Control | Direct ministry control | Act and government oversight | Government as majority shareholder |
-| Finance | Budget allocation | Own revenue and borrowings | Share capital and borrowings |
-| Employees | Government servants | Governed by Act | Company rules |
-| Best suited for | Defence, strategic government services | Public utilities and development institutions | Commercial public enterprises |
+| Point           | Departmental undertaking               | Statutory corporation                         | Government company                 |
+| --------------- | -------------------------------------- | --------------------------------------------- | ---------------------------------- |
+| Created by      | Ministry or government department      | Special Act                                   | Companies Act                      |
+| Legal identity  | No separate identity                   | Separate body corporate                       | Separate legal entity              |
+| Autonomy        | Lowest                                 | More autonomy                                 | More business autonomy             |
+| Control         | Direct ministry control                | Act and government oversight                  | Government as majority shareholder |
+| Finance         | Budget allocation                      | Own revenue and borrowings                    | Share capital and borrowings       |
+| Employees       | Government servants                    | Governed by Act                               | Company rules                      |
+| Best suited for | Defence, strategic government services | Public utilities and development institutions | Commercial public enterprises      |
 
 ## 41. Global Enterprise and Joint Venture: Difference
 
-| Basis | Global enterprise | Joint venture |
-|---|---|---|
-| Meaning | Large company operating in many countries | Agreement between two or more firms for common purpose |
-| Ownership | Belongs to one corporate group with subsidiaries or branches | Shared or agreed between parties |
-| Purpose | International production and marketing | Combine resources for a specific business goal |
-| Control | Head office controls broad policies | Shared control as per agreement |
-| Duration | Usually continuing | May be continuing or for a specific venture |
-| Example idea | MNC with branches in several countries | Indian company and foreign company forming a new venture |
+| Basis        | Global enterprise                                            | Joint venture                                            |
+| ------------ | ------------------------------------------------------------ | -------------------------------------------------------- |
+| Meaning      | Large company operating in many countries                    | Agreement between two or more firms for common purpose   |
+| Ownership    | Belongs to one corporate group with subsidiaries or branches | Shared or agreed between parties                         |
+| Purpose      | International production and marketing                       | Combine resources for a specific business goal           |
+| Control      | Head office controls broad policies                          | Shared control as per agreement                          |
+| Duration     | Usually continuing                                           | May be continuing or for a specific venture              |
+| Example idea | MNC with branches in several countries                       | Indian company and foreign company forming a new venture |
 
 ## 42. Public Sector and PPP: Difference
 
-| Basis | Public sector enterprise | Public-private partnership |
-|---|---|---|
-| Ownership | Government owns enterprise wholly or partly | Public and private parties cooperate under contract or arrangement |
-| Purpose | Public service, strategic needs, development, business | Delivery of infrastructure or public service |
-| Risk | Mainly public sector or as per enterprise form | Shared between public and private partners |
-| Management | Government-controlled structure | Shared roles; private party may manage selected tasks |
-| Example | Government company | Expressway built with land support from government and construction by private party |
+| Basis      | Public sector enterprise                               | Public-private partnership                                                           |
+| ---------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------ |
+| Ownership  | Government owns enterprise wholly or partly            | Public and private parties cooperate under contract or arrangement                   |
+| Purpose    | Public service, strategic needs, development, business | Delivery of infrastructure or public service                                         |
+| Risk       | Mainly public sector or as per enterprise form         | Shared between public and private partners                                           |
+| Management | Government-controlled structure                        | Shared roles; private party may manage selected tasks                                |
+| Example    | Government company                                     | Expressway built with land support from government and construction by private party |
 
 ## 43. Short Answer Practice
 
@@ -988,40 +988,40 @@ Identify it as a joint venture if:
 
 ## 47. Common Mistakes and Corrections
 
-| Mistake | Correct understanding |
-|---|---|
-| Public sector means only government departments | It also includes statutory corporations and government companies |
-| Government company is created by special Act | It is incorporated under company law |
-| Statutory corporation has no separate legal identity | It is a separate corporate body created by law |
-| Departmental undertaking is very flexible | It has low flexibility because of government procedures |
-| Disinvestment means closing a company | It means sale of government equity shares |
-| Global enterprise means any exporter | It means an enterprise operating in several countries |
-| Joint venture always creates a new company | Contractual joint venture may not create a new entity |
-| PPP means full privatisation | PPP is a partnership where public and private roles are shared |
+| Mistake                                              | Correct understanding                                            |
+| ---------------------------------------------------- | ---------------------------------------------------------------- |
+| Public sector means only government departments      | It also includes statutory corporations and government companies |
+| Government company is created by special Act         | It is incorporated under company law                             |
+| Statutory corporation has no separate legal identity | It is a separate corporate body created by law                   |
+| Departmental undertaking is very flexible            | It has low flexibility because of government procedures          |
+| Disinvestment means closing a company                | It means sale of government equity shares                        |
+| Global enterprise means any exporter                 | It means an enterprise operating in several countries            |
+| Joint venture always creates a new company           | Contractual joint venture may not create a new entity            |
+| PPP means full privatisation                         | PPP is a partnership where public and private roles are shared   |
 
 ## 48. Glossary
 
-| Term | Meaning |
-|---|---|
-| Private sector | Enterprises owned by private individuals or groups |
-| Public sector | Enterprises owned wholly or partly by government |
-| Mixed economy | Economy where private and public sectors coexist |
-| Public enterprise | Government-owned or government-controlled business entity |
-| Departmental undertaking | Public enterprise run as part of a ministry |
-| Statutory corporation | Public enterprise created by a special Act |
-| Government company | Company with at least 51 percent government shareholding |
-| Public accountability | Responsibility to answer for use of public funds and public power |
-| Disinvestment | Sale of government equity in public enterprises |
-| Privatisation | Transfer of ownership, control, or management from government to private sector |
-| Global enterprise | Large business operating in several countries |
-| Multinational corporation | Company with business operations in more than one country |
-| Joint venture | Arrangement where two or more businesses pool resources for common goal |
-| Contractual joint venture | Joint venture based on agreement without new jointly owned entity |
-| Equity-based joint venture | Joint venture involving shared ownership of an entity |
+| Term                       | Meaning                                                                             |
+| -------------------------- | ----------------------------------------------------------------------------------- |
+| Private sector             | Enterprises owned by private individuals or groups                                  |
+| Public sector              | Enterprises owned wholly or partly by government                                    |
+| Mixed economy              | Economy where private and public sectors coexist                                    |
+| Public enterprise          | Government-owned or government-controlled business entity                           |
+| Departmental undertaking   | Public enterprise run as part of a ministry                                         |
+| Statutory corporation      | Public enterprise created by a special Act                                          |
+| Government company         | Company with at least 51 percent government shareholding                            |
+| Public accountability      | Responsibility to answer for use of public funds and public power                   |
+| Disinvestment              | Sale of government equity in public enterprises                                     |
+| Privatisation              | Transfer of ownership, control, or management from government to private sector     |
+| Global enterprise          | Large business operating in several countries                                       |
+| Multinational corporation  | Company with business operations in more than one country                           |
+| Joint venture              | Arrangement where two or more businesses pool resources for common goal             |
+| Contractual joint venture  | Joint venture based on agreement without new jointly owned entity                   |
+| Equity-based joint venture | Joint venture involving shared ownership of an entity                               |
 | Public-private partnership | Cooperation between public and private sectors for infrastructure or public service |
-| MoU | Agreement setting autonomy, targets, and accountability |
-| Import substitution | Domestic production of goods earlier imported |
-| Economies of scale | Cost advantage from large-scale operation |
+| MoU                        | Agreement setting autonomy, targets, and accountability                             |
+| Import substitution        | Domestic production of goods earlier imported                                       |
+| Economies of scale         | Cost advantage from large-scale operation                                           |
 
 ## 49. Final Revision Sheet
 

@@ -1,38 +1,39 @@
 # Chapter 9: Light - Reflection and Refraction
+
 ### NCERT Class 10 - Science
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 10 |
-| **Subject** | Science |
-| **Chapter** | 9 |
-| **Textbook Pages** | 1-27 |
-| **Core Theme** | How light reflects from mirrors, refracts through media and lenses, forms images, and is described using sign conventions, formulae, magnification, refractive index, and lens power. |
-| **Main Skills** | Drawing ray diagrams, predicting image nature, applying mirror/lens formulae, using sign conventions, calculating refractive index and lens power. |
+| Detail             | Learner-Friendly Information                                                                                                                                                          |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Class**          | 10                                                                                                                                                                                    |
+| **Subject**        | Science                                                                                                                                                                               |
+| **Chapter**        | 9                                                                                                                                                                                     |
+| **Textbook Pages** | 1-27                                                                                                                                                                                  |
+| **Core Theme**     | How light reflects from mirrors, refracts through media and lenses, forms images, and is described using sign conventions, formulae, magnification, refractive index, and lens power. |
+| **Main Skills**    | Drawing ray diagrams, predicting image nature, applying mirror/lens formulae, using sign conventions, calculating refractive index and lens power.                                    |
 
 ---
 
 ## Section Structure
 
-| Unit | Topic | Main Learning Focus |
-|---|---|---|
-| **9A** | Nature of Light in Ray Optics | Straight-line propagation and limits of ray model. |
-| **9B** | Reflection of Light | Laws of reflection and plane mirror image properties. |
-| **9C** | Spherical Mirrors | Concave/convex mirrors, pole, focus, centre of curvature, aperture. |
-| **9D** | Image Formation by Mirrors | Concave and convex mirror image tables and ray rules. |
-| **9E** | Mirror Sign Convention | New Cartesian sign convention for mirrors. |
-| **9F** | Mirror Formula and Magnification | Numerical use of `u`, `v`, `f`, `R`, and `m`. |
-| **9G** | Refraction of Light | Bending of light, glass slab, Snell's law. |
-| **9H** | Refractive Index | Speed of light in media and optical density. |
-| **9I** | Spherical Lenses | Convex/concave lenses, optical centre, principal foci. |
-| **9J** | Image Formation by Lenses | Convex and concave lens image tables and ray rules. |
-| **9K** | Lens Formula and Magnification | Lens sign convention and numerical problems. |
-| **9L** | Power of a Lens | Dioptre, positive/negative power, lens combinations. |
-| **9M** | Solved Questions | In-text and exercise-level answers. |
+| Unit   | Topic                            | Main Learning Focus                                                 |
+| ------ | -------------------------------- | ------------------------------------------------------------------- |
+| **9A** | Nature of Light in Ray Optics    | Straight-line propagation and limits of ray model.                  |
+| **9B** | Reflection of Light              | Laws of reflection and plane mirror image properties.               |
+| **9C** | Spherical Mirrors                | Concave/convex mirrors, pole, focus, centre of curvature, aperture. |
+| **9D** | Image Formation by Mirrors       | Concave and convex mirror image tables and ray rules.               |
+| **9E** | Mirror Sign Convention           | New Cartesian sign convention for mirrors.                          |
+| **9F** | Mirror Formula and Magnification | Numerical use of `u`, `v`, `f`, `R`, and `m`.                       |
+| **9G** | Refraction of Light              | Bending of light, glass slab, Snell's law.                          |
+| **9H** | Refractive Index                 | Speed of light in media and optical density.                        |
+| **9I** | Spherical Lenses                 | Convex/concave lenses, optical centre, principal foci.              |
+| **9J** | Image Formation by Lenses        | Convex and concave lens image tables and ray rules.                 |
+| **9K** | Lens Formula and Magnification   | Lens sign convention and numerical problems.                        |
+| **9L** | Power of a Lens                  | Dioptre, positive/negative power, lens combinations.                |
+| **9M** | Solved Questions                 | In-text and exercise-level answers.                                 |
 
 ---
 
@@ -40,50 +41,50 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **State laws** | State laws of reflection and refraction. |
-| **Use mirror terms** | Define pole, principal axis, centre of curvature, radius of curvature, focus, focal length, and aperture. |
-| **Predict mirror images** | Use object position to predict image position, size, and nature for concave and convex mirrors. |
-| **Apply mirror formula** | Solve numerical problems using mirror formula and magnification. |
-| **Explain refraction** | Explain bending of light at media boundaries and through a rectangular glass slab. |
-| **Calculate refractive index** | Use speed ratio and Snell's law meaning. |
-| **Use lens terms** | Define optical centre, principal foci, focal length, convex lens, and concave lens. |
-| **Predict lens images** | Use object position to predict image position, size, and nature for convex and concave lenses. |
-| **Apply lens formula** | Solve numerical problems using lens formula and magnification. |
-| **Calculate power** | Find power from focal length and identify lens type from sign of power. |
+| Outcome                        | You Should Be Able To...                                                                                  |
+| ------------------------------ | --------------------------------------------------------------------------------------------------------- |
+| **State laws**                 | State laws of reflection and refraction.                                                                  |
+| **Use mirror terms**           | Define pole, principal axis, centre of curvature, radius of curvature, focus, focal length, and aperture. |
+| **Predict mirror images**      | Use object position to predict image position, size, and nature for concave and convex mirrors.           |
+| **Apply mirror formula**       | Solve numerical problems using mirror formula and magnification.                                          |
+| **Explain refraction**         | Explain bending of light at media boundaries and through a rectangular glass slab.                        |
+| **Calculate refractive index** | Use speed ratio and Snell's law meaning.                                                                  |
+| **Use lens terms**             | Define optical centre, principal foci, focal length, convex lens, and concave lens.                       |
+| **Predict lens images**        | Use object position to predict image position, size, and nature for convex and concave lenses.            |
+| **Apply lens formula**         | Solve numerical problems using lens formula and magnification.                                            |
+| **Calculate power**            | Find power from focal length and identify lens type from sign of power.                                   |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Ray of light** | Straight-line path used to represent direction of light travel in ray optics. |
-| **Reflection** | Bouncing back of light from a surface. |
-| **Refraction** | Change in direction of light when it passes obliquely from one transparent medium to another. |
-| **Incident ray** | Ray approaching a surface. |
-| **Reflected ray** | Ray that bounces from a reflecting surface. |
-| **Refracted ray** | Ray that changes direction after entering another medium. |
-| **Normal** | Perpendicular line drawn at the point of incidence. |
-| **Concave mirror** | Spherical mirror with reflecting surface curved inward. |
-| **Convex mirror** | Spherical mirror with reflecting surface curved outward. |
-| **Pole, P** | Centre point of reflecting surface of a spherical mirror. |
-| **Centre of curvature, C** | Centre of sphere of which mirror/lens surface is a part. |
-| **Radius of curvature, R** | Radius of sphere of which the mirror surface is a part. |
-| **Principal axis** | Straight line passing through pole and centre of curvature. |
-| **Principal focus, F** | Point where rays parallel to principal axis meet or appear to meet. |
-| **Focal length, f** | Distance from pole/optical centre to principal focus. |
-| **Real image** | Image formed by actual meeting of rays; can be obtained on a screen. |
-| **Virtual image** | Image formed where rays only appear to meet; cannot be obtained on a screen. |
-| **Magnification, m** | Ratio of image height to object height. |
-| **Refractive index** | Ratio comparing speed of light in two media; absolute refractive index is `c/v`. |
-| **Optically denser medium** | Medium with higher refractive index. |
-| **Optically rarer medium** | Medium with lower refractive index. |
-| **Convex lens** | Lens thicker at middle, converges light. |
-| **Concave lens** | Lens thinner at middle, diverges light. |
-| **Optical centre, O** | Central point of lens through which a ray passes undeviated. |
-| **Power of lens** | Reciprocal of focal length in metres; unit is dioptre. |
+| Term                        | Meaning                                                                                       |
+| --------------------------- | --------------------------------------------------------------------------------------------- |
+| **Ray of light**            | Straight-line path used to represent direction of light travel in ray optics.                 |
+| **Reflection**              | Bouncing back of light from a surface.                                                        |
+| **Refraction**              | Change in direction of light when it passes obliquely from one transparent medium to another. |
+| **Incident ray**            | Ray approaching a surface.                                                                    |
+| **Reflected ray**           | Ray that bounces from a reflecting surface.                                                   |
+| **Refracted ray**           | Ray that changes direction after entering another medium.                                     |
+| **Normal**                  | Perpendicular line drawn at the point of incidence.                                           |
+| **Concave mirror**          | Spherical mirror with reflecting surface curved inward.                                       |
+| **Convex mirror**           | Spherical mirror with reflecting surface curved outward.                                      |
+| **Pole, P**                 | Centre point of reflecting surface of a spherical mirror.                                     |
+| **Centre of curvature, C**  | Centre of sphere of which mirror/lens surface is a part.                                      |
+| **Radius of curvature, R**  | Radius of sphere of which the mirror surface is a part.                                       |
+| **Principal axis**          | Straight line passing through pole and centre of curvature.                                   |
+| **Principal focus, F**      | Point where rays parallel to principal axis meet or appear to meet.                           |
+| **Focal length, f**         | Distance from pole/optical centre to principal focus.                                         |
+| **Real image**              | Image formed by actual meeting of rays; can be obtained on a screen.                          |
+| **Virtual image**           | Image formed where rays only appear to meet; cannot be obtained on a screen.                  |
+| **Magnification, m**        | Ratio of image height to object height.                                                       |
+| **Refractive index**        | Ratio comparing speed of light in two media; absolute refractive index is `c/v`.              |
+| **Optically denser medium** | Medium with higher refractive index.                                                          |
+| **Optically rarer medium**  | Medium with lower refractive index.                                                           |
+| **Convex lens**             | Lens thicker at middle, converges light.                                                      |
+| **Concave lens**            | Lens thinner at middle, diverges light.                                                       |
+| **Optical centre, O**       | Central point of lens through which a ray passes undeviated.                                  |
+| **Power of lens**           | Reciprocal of focal length in metres; unit is dioptre.                                        |
 
 ---
 
@@ -207,10 +208,10 @@ A spherical mirror has a reflecting surface that forms part of a sphere.
 
 ## Types
 
-| Mirror | Surface | Behaviour |
-|---|---|---|
-| Concave mirror | Reflecting surface curves inward | Converging mirror |
-| Convex mirror | Reflecting surface curves outward | Diverging mirror |
+| Mirror         | Surface                           | Behaviour         |
+| -------------- | --------------------------------- | ----------------- |
+| Concave mirror | Reflecting surface curves inward  | Converging mirror |
+| Convex mirror  | Reflecting surface curves outward | Diverging mirror  |
 
 ## Spoon Analogy
 
@@ -220,15 +221,15 @@ The outer bulging side behaves roughly like a convex mirror.
 
 ## Important Terms
 
-| Term | Symbol | Meaning |
-|---|---|---|
-| Pole | `P` | Centre of reflecting surface. |
-| Centre of curvature | `C` | Centre of sphere of which mirror is a part. |
-| Radius of curvature | `R` | Distance `PC`. |
-| Principal axis | - | Line through `P` and `C`. |
-| Principal focus | `F` | Point where parallel rays meet or appear to meet. |
-| Focal length | `f` | Distance `PF`. |
-| Aperture | - | Diameter of reflecting surface. |
+| Term                | Symbol | Meaning                                           |
+| ------------------- | ------ | ------------------------------------------------- |
+| Pole                | `P`    | Centre of reflecting surface.                     |
+| Centre of curvature | `C`    | Centre of sphere of which mirror is a part.       |
+| Radius of curvature | `R`    | Distance `PC`.                                    |
+| Principal axis      | -      | Line through `P` and `C`.                         |
+| Principal focus     | `F`    | Point where parallel rays meet or appear to meet. |
+| Focal length        | `f`    | Distance `PF`.                                    |
+| Aperture            | -      | Diameter of reflecting surface.                   |
 
 ## Concave Mirror Focus
 
@@ -258,14 +259,14 @@ So the focus lies midway between pole and centre of curvature.
 
 ## Image Table for Concave Mirror
 
-| Object Position | Image Position | Size | Nature |
-|---|---|---|---|
-| At infinity | At focus `F` | Highly diminished, point-sized | Real and inverted |
-| Beyond `C` | Between `F` and `C` | Diminished | Real and inverted |
-| At `C` | At `C` | Same size | Real and inverted |
-| Between `C` and `F` | Beyond `C` | Enlarged | Real and inverted |
-| At `F` | At infinity | Highly enlarged | Image not obtained on nearby screen |
-| Between `P` and `F` | Behind mirror | Enlarged | Virtual and erect |
+| Object Position     | Image Position      | Size                           | Nature                              |
+| ------------------- | ------------------- | ------------------------------ | ----------------------------------- |
+| At infinity         | At focus `F`        | Highly diminished, point-sized | Real and inverted                   |
+| Beyond `C`          | Between `F` and `C` | Diminished                     | Real and inverted                   |
+| At `C`              | At `C`              | Same size                      | Real and inverted                   |
+| Between `C` and `F` | Beyond `C`          | Enlarged                       | Real and inverted                   |
+| At `F`              | At infinity         | Highly enlarged                | Image not obtained on nearby screen |
+| Between `P` and `F` | Behind mirror       | Enlarged                       | Virtual and erect                   |
 
 ## Key Pattern
 
@@ -276,12 +277,12 @@ Concave mirror can form:
 
 ## Uses of Concave Mirrors
 
-| Use | Reason |
-|---|---|
-| Torches/searchlights/headlights | Produce strong parallel beam when source is near focus. |
-| Shaving mirror | Gives enlarged erect image when face is between `P` and `F`. |
-| Dentist mirror | Gives enlarged image of teeth. |
-| Solar furnace | Concentrates sunlight at focus to produce heat. |
+| Use                             | Reason                                                       |
+| ------------------------------- | ------------------------------------------------------------ |
+| Torches/searchlights/headlights | Produce strong parallel beam when source is near focus.      |
+| Shaving mirror                  | Gives enlarged erect image when face is between `P` and `F`. |
+| Dentist mirror                  | Gives enlarged image of teeth.                               |
+| Solar furnace                   | Concentrates sunlight at focus to produce heat.              |
 
 ---
 
@@ -289,10 +290,10 @@ Concave mirror can form:
 
 ## Image Table for Convex Mirror
 
-| Object Position | Image Position | Size | Nature |
-|---|---|---|---|
-| At infinity | At focus behind mirror | Highly diminished | Virtual and erect |
-| Between infinity and pole | Between `P` and `F` behind mirror | Diminished | Virtual and erect |
+| Object Position           | Image Position                    | Size              | Nature            |
+| ------------------------- | --------------------------------- | ----------------- | ----------------- |
+| At infinity               | At focus behind mirror            | Highly diminished | Virtual and erect |
+| Between infinity and pole | Between `P` and `F` behind mirror | Diminished        | Virtual and erect |
 
 ## Key Pattern
 
@@ -350,30 +351,30 @@ Angle of incidence equals angle of reflection.
 
 ## New Cartesian Sign Convention
 
-| Rule | Meaning |
-|---|---|
-| Origin | Pole `P` is origin. |
-| Axis | Principal axis is x-axis. |
-| Object position | Object is placed to the left of mirror. |
-| Distances | All distances measured from pole. |
-| Right of pole | Positive. |
-| Left of pole | Negative. |
-| Above principal axis | Positive height. |
-| Below principal axis | Negative height. |
+| Rule                 | Meaning                                 |
+| -------------------- | --------------------------------------- |
+| Origin               | Pole `P` is origin.                     |
+| Axis                 | Principal axis is x-axis.               |
+| Object position      | Object is placed to the left of mirror. |
+| Distances            | All distances measured from pole.       |
+| Right of pole        | Positive.                               |
+| Left of pole         | Negative.                               |
+| Above principal axis | Positive height.                        |
+| Below principal axis | Negative height.                        |
 
 ## Mirror Focal Length Signs
 
-| Mirror | Focal Length Sign |
-|---|---|
-| Concave mirror | Negative |
-| Convex mirror | Positive |
+| Mirror         | Focal Length Sign |
+| -------------- | ----------------- |
+| Concave mirror | Negative          |
+| Convex mirror  | Positive          |
 
 ## Image Distance Signs for Mirrors
 
-| Image Type/Position | Sign of `v` |
-|---|---|
-| Real image in front of mirror | Negative |
-| Virtual image behind mirror | Positive |
+| Image Type/Position           | Sign of `v` |
+| ----------------------------- | ----------- |
+| Real image in front of mirror | Negative    |
+| Virtual image behind mirror   | Positive    |
 
 ---
 
@@ -387,11 +388,11 @@ $$
 
 Where:
 
-| Symbol | Meaning |
-|---|---|
-| `u` | Object distance from pole |
-| `v` | Image distance from pole |
-| `f` | Focal length |
+| Symbol | Meaning                   |
+| ------ | ------------------------- |
+| `u`    | Object distance from pole |
+| `v`    | Image distance from pole  |
+| `f`    | Focal length              |
 
 ## Magnification
 
@@ -407,13 +408,13 @@ $$
 
 ## Interpreting Magnification for Mirrors
 
-| Magnification | Meaning |
-|---|---|
-| `m > 0` | Virtual and erect image. |
-| `m < 0` | Real and inverted image. |
-| `|m| > 1` | Enlarged image. |
-| `|m| < 1` | Diminished image. |
-| `|m| = 1` | Same size image. |
+| Magnification | Meaning                  |
+| ------------- | ------------------------ | ---- | ----------------- |
+| `m > 0`       | Virtual and erect image. |
+| `m < 0`       | Real and inverted image. |
+| `             | m                        | > 1` | Enlarged image.   |
+| `             | m                        | < 1` | Diminished image. |
+| `             | m                        | = 1` | Same size image.  |
 
 ---
 
@@ -427,12 +428,12 @@ It happens because speed of light changes in different media.
 
 ## Everyday Examples
 
-| Observation | Cause |
-|---|---|
-| Pencil partly in water looks bent | Refraction at air-water boundary. |
-| Coin in water appears raised | Refraction makes apparent position different. |
-| Letters under glass slab appear raised | Refraction through glass. |
-| Lemon in water appears bigger | Refraction and magnification through curved water-glass surfaces. |
+| Observation                            | Cause                                                             |
+| -------------------------------------- | ----------------------------------------------------------------- |
+| Pencil partly in water looks bent      | Refraction at air-water boundary.                                 |
+| Coin in water appears raised           | Refraction makes apparent position different.                     |
+| Letters under glass slab appear raised | Refraction through glass.                                         |
+| Lemon in water appears bigger          | Refraction and magnification through curved water-glass surfaces. |
 
 ## Rarer to Denser
 
@@ -565,9 +566,9 @@ $$
 Optical density depends on refractive index, not mass density.
 
 | Higher Refractive Index | Lower Refractive Index |
-|---|---|
-| Optically denser | Optically rarer |
-| Light speed lower | Light speed higher |
+| ----------------------- | ---------------------- |
+| Optically denser        | Optically rarer        |
+| Light speed lower       | Light speed higher     |
 
 Example:
 
@@ -583,10 +584,10 @@ A lens is a transparent material bounded by two surfaces, at least one of which 
 
 ## Types
 
-| Lens | Shape | Action |
-|---|---|---|
-| Convex lens | Thicker at middle, thinner at edges | Converges light |
-| Concave lens | Thinner at middle, thicker at edges | Diverges light |
+| Lens         | Shape                               | Action          |
+| ------------ | ----------------------------------- | --------------- |
+| Convex lens  | Thicker at middle, thinner at edges | Converges light |
+| Concave lens | Thinner at middle, thicker at edges | Diverges light  |
 
 ## Convex Lens
 
@@ -602,14 +603,14 @@ Parallel rays appear to diverge from its focus after refraction.
 
 ## Lens Terms
 
-| Term | Meaning |
-|---|---|
-| Centres of curvature `C1`, `C2` | Centres of spheres forming lens surfaces. |
-| Principal axis | Line passing through both centres of curvature. |
-| Optical centre `O` | Central point of lens. |
-| Principal foci `F1`, `F2` | Focus points on two sides of lens. |
-| Focal length `f` | Distance between optical centre and principal focus. |
-| Aperture | Effective diameter of circular outline of lens. |
+| Term                            | Meaning                                              |
+| ------------------------------- | ---------------------------------------------------- |
+| Centres of curvature `C1`, `C2` | Centres of spheres forming lens surfaces.            |
+| Principal axis                  | Line passing through both centres of curvature.      |
+| Optical centre `O`              | Central point of lens.                               |
+| Principal foci `F1`, `F2`       | Focus points on two sides of lens.                   |
+| Focal length `f`                | Distance between optical centre and principal focus. |
+| Aperture                        | Effective diameter of circular outline of lens.      |
 
 ## Optical Centre Rule
 
@@ -621,14 +622,14 @@ A ray passing through the optical centre of a thin lens emerges without deviatio
 
 ## Convex Lens Image Table
 
-| Object Position | Image Position | Size | Nature |
-|---|---|---|---|
-| At infinity | At `F2` | Highly diminished | Real and inverted |
-| Beyond `2F1` | Between `F2` and `2F2` | Diminished | Real and inverted |
-| At `2F1` | At `2F2` | Same size | Real and inverted |
-| Between `F1` and `2F1` | Beyond `2F2` | Enlarged | Real and inverted |
-| At `F1` | At infinity | Highly enlarged | Image not formed on nearby screen |
-| Between `F1` and `O` | Same side as object | Enlarged | Virtual and erect |
+| Object Position        | Image Position         | Size              | Nature                            |
+| ---------------------- | ---------------------- | ----------------- | --------------------------------- |
+| At infinity            | At `F2`                | Highly diminished | Real and inverted                 |
+| Beyond `2F1`           | Between `F2` and `2F2` | Diminished        | Real and inverted                 |
+| At `2F1`               | At `2F2`               | Same size         | Real and inverted                 |
+| Between `F1` and `2F1` | Beyond `2F2`           | Enlarged          | Real and inverted                 |
+| At `F1`                | At infinity            | Highly enlarged   | Image not formed on nearby screen |
+| Between `F1` and `O`   | Same side as object    | Enlarged          | Virtual and erect                 |
 
 ## Key Pattern
 
@@ -645,10 +646,10 @@ This is why a convex lens can act as a magnifying glass.
 
 ## Concave Lens Image Table
 
-| Object Position | Image Position | Size | Nature |
-|---|---|---|---|
-| At infinity | At `F1` on same side | Highly diminished | Virtual and erect |
-| Between infinity and optical centre | Between `F1` and `O` on same side | Diminished | Virtual and erect |
+| Object Position                     | Image Position                    | Size              | Nature            |
+| ----------------------------------- | --------------------------------- | ----------------- | ----------------- |
+| At infinity                         | At `F1` on same side              | Highly diminished | Virtual and erect |
+| Between infinity and optical centre | Between `F1` and `O` on same side | Diminished        | Virtual and erect |
 
 ## Key Pattern
 
@@ -697,17 +698,17 @@ Sign convention for lenses is similar to mirrors, but distances are measured fro
 
 ## Lens Focal Length Signs
 
-| Lens | Focal Length Sign |
-|---|---|
-| Convex lens | Positive |
-| Concave lens | Negative |
+| Lens         | Focal Length Sign |
+| ------------ | ----------------- |
+| Convex lens  | Positive          |
+| Concave lens | Negative          |
 
 ## Image Distance Signs for Lenses
 
-| Image Position | Sign of `v` |
-|---|---|
-| Image on right side of lens | Positive |
-| Image on left side of lens | Negative |
+| Image Position              | Sign of `v` |
+| --------------------------- | ----------- |
+| Image on right side of lens | Positive    |
+| Image on left side of lens  | Negative    |
 
 For a real image formed by a convex lens on the other side, `v` is positive.
 
@@ -737,12 +738,12 @@ $$
 
 ## Interpreting Lens Magnification
 
-| Magnification | Meaning |
-|---|---|
-| `m > 0` | Virtual and erect image. |
-| `m < 0` | Real and inverted image. |
-| `|m| > 1` | Enlarged image. |
-| `|m| < 1` | Diminished image. |
+| Magnification | Meaning                  |
+| ------------- | ------------------------ | ---- | ----------------- |
+| `m > 0`       | Virtual and erect image. |
+| `m < 0`       | Real and inverted image. |
+| `             | m                        | > 1` | Enlarged image.   |
+| `             | m                        | < 1` | Diminished image. |
 
 ---
 
@@ -774,10 +775,10 @@ $$
 
 ## Positive and Negative Power
 
-| Lens | Power Sign |
-|---|---|
-| Convex lens | Positive |
-| Concave lens | Negative |
+| Lens         | Power Sign |
+| ------------ | ---------- |
+| Convex lens  | Positive   |
+| Concave lens | Negative   |
 
 ## Power of Lens Combination
 
@@ -973,11 +974,11 @@ Lowest optical density:
 
 Refractive indices:
 
-| Medium | Refractive Index |
-|---|---:|
-| Water | 1.33 |
-| Kerosene | 1.44 |
-| Turpentine oil | 1.47 |
+| Medium         | Refractive Index |
+| -------------- | ---------------: |
+| Water          |             1.33 |
+| Kerosene       |             1.44 |
+| Turpentine oil |             1.47 |
 
 Lower refractive index means higher speed of light.
 
@@ -1211,11 +1212,11 @@ Draw:
 
 ## Answer
 
-| Situation | Mirror | Reason |
-|---|---|---|
-| Headlights of car | Concave mirror | Produces strong parallel beam when bulb is at focus. |
-| Side/rear-view mirror | Convex mirror | Gives erect diminished image and wide field of view. |
-| Solar furnace | Concave mirror | Concentrates sunlight at focus to produce heat. |
+| Situation             | Mirror         | Reason                                               |
+| --------------------- | -------------- | ---------------------------------------------------- |
+| Headlights of car     | Concave mirror | Produces strong parallel beam when bulb is at focus. |
+| Side/rear-view mirror | Convex mirror  | Gives erect diminished image and wide field of view. |
+| Solar furnace         | Concave mirror | Concentrates sunlight at focus to produce heat.      |
 
 ---
 
@@ -1590,16 +1591,16 @@ Since power is positive, the lens is convex/converging.
 
 # Unit 9V: Common Mistakes and Corrections
 
-| Mistake | Correct Understanding |
-|---|---|
-| Using mirror and lens formula interchangeably. | Mirror: `1/v + 1/u = 1/f`; Lens: `1/v - 1/u = 1/f`. |
-| Forgetting object distance is usually negative. | Object is on left side, so `u` is negative in this convention. |
-| Treating all erect images as real. | Erect images in mirrors/lenses here are usually virtual. |
-| Saying convex mirror magnifies. | Convex mirror always gives diminished image. |
-| Saying concave lens can form real image of real object. | Concave lens always forms virtual, erect, diminished image for real object. |
-| Confusing optical density with mass density. | Optical density depends on refractive index, not mass density. |
-| Forgetting metres in lens power. | Use focal length in metres for dioptres. |
-| Missing sign of focal length. | Concave mirror and concave lens have negative `f`; convex mirror and convex lens have positive `f`. |
+| Mistake                                                 | Correct Understanding                                                                               |
+| ------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| Using mirror and lens formula interchangeably.          | Mirror: `1/v + 1/u = 1/f`; Lens: `1/v - 1/u = 1/f`.                                                 |
+| Forgetting object distance is usually negative.         | Object is on left side, so `u` is negative in this convention.                                      |
+| Treating all erect images as real.                      | Erect images in mirrors/lenses here are usually virtual.                                            |
+| Saying convex mirror magnifies.                         | Convex mirror always gives diminished image.                                                        |
+| Saying concave lens can form real image of real object. | Concave lens always forms virtual, erect, diminished image for real object.                         |
+| Confusing optical density with mass density.            | Optical density depends on refractive index, not mass density.                                      |
+| Forgetting metres in lens power.                        | Use focal length in metres for dioptres.                                                            |
+| Missing sign of focal length.                           | Concave mirror and concave lens have negative `f`; convex mirror and convex lens have positive `f`. |
 
 ---
 
@@ -1607,38 +1608,38 @@ Since power is positive, the lens is convex/converging.
 
 ## Mirror Signs
 
-| Quantity | Concave Mirror | Convex Mirror |
-|---|---|---|
-| `f` | Negative | Positive |
-| `R` | Negative | Positive |
-| Real image `v` | Negative | Not formed for real object |
-| Virtual image `v` | Positive | Positive |
+| Quantity          | Concave Mirror | Convex Mirror              |
+| ----------------- | -------------- | -------------------------- |
+| `f`               | Negative       | Positive                   |
+| `R`               | Negative       | Positive                   |
+| Real image `v`    | Negative       | Not formed for real object |
+| Virtual image `v` | Positive       | Positive                   |
 
 ## Lens Signs
 
-| Quantity | Convex Lens | Concave Lens |
-|---|---|---|
-| `f` | Positive | Negative |
-| Real image `v` | Positive | Not formed for real object |
-| Virtual image `v` | Negative | Negative |
+| Quantity          | Convex Lens | Concave Lens               |
+| ----------------- | ----------- | -------------------------- |
+| `f`               | Positive    | Negative                   |
+| Real image `v`    | Positive    | Not formed for real object |
+| Virtual image `v` | Negative    | Negative                   |
 
 ## Image Nature Shortcut
 
-| Device | Usual Image Behaviour |
-|---|---|
-| Plane mirror | Virtual, erect, same size. |
-| Convex mirror | Virtual, erect, diminished. |
+| Device         | Usual Image Behaviour       |
+| -------------- | --------------------------- |
+| Plane mirror   | Virtual, erect, same size.  |
+| Convex mirror  | Virtual, erect, diminished. |
 | Concave mirror | Depends on object position. |
-| Convex lens | Depends on object position. |
-| Concave lens | Virtual, erect, diminished. |
+| Convex lens    | Depends on object position. |
+| Concave lens   | Virtual, erect, diminished. |
 
 ## Bending of Light
 
-| Travel Direction | Speed Change | Bending |
-|---|---|---|
-| Rarer to denser | Slows down | Towards normal |
-| Denser to rarer | Speeds up | Away from normal |
-| Along normal | Speed changes | No bending |
+| Travel Direction | Speed Change  | Bending          |
+| ---------------- | ------------- | ---------------- |
+| Rarer to denser  | Slows down    | Towards normal   |
+| Denser to rarer  | Speeds up     | Away from normal |
+| Along normal     | Speed changes | No bending       |
 
 ---
 
@@ -1689,4 +1690,3 @@ Refraction is bending of light when it travels obliquely from one transparent me
 Convex lenses converge light and can form real or virtual images depending on object position. Concave lenses diverge light and always form virtual, erect, diminished images for real objects.
 
 Mirror formula is `1/v + 1/u = 1/f`; lens formula is `1/v - 1/u = 1/f`. Lens power is `P = 1/f` with `f` in metres and unit dioptre.
-

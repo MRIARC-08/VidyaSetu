@@ -7,17 +7,20 @@ This document summarizes the implementation of centralized role-based access con
 ## 🎯 Requirements Met
 
 ✅ **Middleware created** - `src/lib/middleware/role.middleware.ts`
+
 - Extract user role from request context
 - Check against required role(s)
 - Return 403 if insufficient permissions
 - Support role hierarchies (admin > moderator > user)
 
 ✅ **Roles supported**
+
 - `USER` (Level 1) - Standard user
 - `MODERATOR` (Level 2) - Content management
 - `ADMIN` (Level 3) - Full system access
 
 ✅ **Admin routes protected**
+
 - `/api/admin/add-question` - Add questions
 - `/api/admin/seed-ncert` - Seed NCERT data
 - `/api/admin/questions` - List questions (GET)
@@ -28,7 +31,9 @@ This document summarizes the implementation of centralized role-based access con
 ### Core Middleware Files
 
 #### [src/lib/middleware/role.middleware.ts](src/lib/middleware/role.middleware.ts) - CREATED/ENHANCED
+
 **Key Features:**
+
 - Role hierarchy validation with `requireRole()`
 - Exact role matching with `requireExactRole()`
 - Utility functions: `hasMinimumRole()`, `getAccessibleRoles()`
@@ -37,13 +42,15 @@ This document summarizes the implementation of centralized role-based access con
 
 ```typescript
 // Usage examples:
-requireRole('ADMIN')(auth);                    // ADMIN only
-requireRole('ADMIN', 'MODERATOR')(auth);      // Either role
-requireExactRole('MODERATOR')(auth);          // Exact match only
+requireRole('ADMIN')(auth); // ADMIN only
+requireRole('ADMIN', 'MODERATOR')(auth); // Either role
+requireExactRole('MODERATOR')(auth); // Exact match only
 ```
 
 #### [src/lib/middleware/auth.middleware.ts](src/lib/middleware/auth.middleware.ts) - ENHANCED
+
 **New Additions:**
+
 - `withRoleAuth()` - Route wrapper with role validation
 - `withExactRoleAuth()` - Exact role matching wrapper
 - `ensureMinimumRole()` - Conditional role checks
@@ -60,7 +67,9 @@ ensureMinimumRole(auth, 'MODERATOR'); // Throws if insufficient
 ```
 
 #### [src/lib/middleware/README.md](src/lib/middleware/README.md) - CREATED
+
 **Comprehensive documentation:**
+
 - Role definitions and hierarchy
 - Usage patterns and best practices
 - Integration examples
@@ -70,7 +79,9 @@ ensureMinimumRole(auth, 'MODERATOR'); // Throws if insufficient
 ### Admin Module Enhancements
 
 #### [src/modules/admin/admin.controller.ts](src/modules/admin/admin.controller.ts) - ENHANCED
+
 **Improvements:**
+
 - Refactored `requireAdmin()` to use enhanced role middleware
 - Proper `ForbiddenError` handling
 - JSDoc comments for all endpoints
@@ -80,7 +91,9 @@ ensureMinimumRole(auth, 'MODERATOR'); // Throws if insufficient
 ### Database Schema
 
 #### [src/prisma/schema.prisma](src/prisma/schema.prisma) - UPDATED
+
 **Changes:**
+
 - Updated `UserRole` enum: `STUDENT → USER`
 - Added `MODERATOR` role
 - Updated default role to `USER`
@@ -96,6 +109,7 @@ enum UserRole {
 ### Documentation
 
 #### [README.md](README.md) - UPDATED
+
 - Added "Role-Based Access Control (RBAC)" section
 - Role hierarchy table
 - Protected endpoints list
@@ -103,7 +117,9 @@ enum UserRole {
 - Link to detailed middleware documentation
 
 #### [MIGRATION_RBAC.md](MIGRATION_RBAC.md) - CREATED
+
 **Migration Guide includes:**
+
 - Step-by-step migration instructions
 - Schema change details
 - Seed data update examples
@@ -114,19 +130,23 @@ enum UserRole {
 ## 🔐 Security Features
 
 ### Role Hierarchy
+
 ```
 USER (1) → MODERATOR (2) → ADMIN (3)
 ```
+
 - Higher roles inherit lower role permissions
 - `requireRole('MODERATOR')` allows both MODERATOR and ADMIN
 - Support for multiple role checking
 
 ### Error Handling
+
 - **401 Unauthorized** - No authentication token
 - **403 Forbidden** - Valid token but insufficient role
 - Detailed error messages with user context
 
 ### Centralized Validation
+
 - All role checks go through middleware
 - Consistent error responses
 - Audit logging capability
@@ -136,12 +156,12 @@ USER (1) → MODERATOR (2) → ADMIN (3)
 
 All endpoints verified to require ADMIN role:
 
-| Endpoint | Method | Purpose | Role Required |
-|----------|--------|---------|----------------|
-| `/api/admin/seed-ncert` | POST | Seed curriculum data | ADMIN |
-| `/api/admin/add-question` | POST | Add questions | ADMIN |
-| `/api/admin/questions` | GET | List questions | ADMIN |
-| `/api/admin/questions/:id` | DELETE | Delete question | ADMIN |
+| Endpoint                   | Method | Purpose              | Role Required |
+| -------------------------- | ------ | -------------------- | ------------- |
+| `/api/admin/seed-ncert`    | POST   | Seed curriculum data | ADMIN         |
+| `/api/admin/add-question`  | POST   | Add questions        | ADMIN         |
+| `/api/admin/questions`     | GET    | List questions       | ADMIN         |
+| `/api/admin/questions/:id` | DELETE | Delete question      | ADMIN         |
 
 ## 📚 Usage Examples
 
@@ -154,9 +174,9 @@ import { withRoleAuth } from '@/lib/middleware/auth.middleware';
 export const POST = withRoleAuth('ADMIN', async (req, auth) => {
   const userId = auth.userId;
   const body = await req.json();
-  
+
   // Admin-only logic here
-  
+
   return NextResponse.json({ success: true });
 });
 ```
@@ -175,14 +195,14 @@ export const GET = withRoleAuth(['ADMIN', 'MODERATOR'], async (req, auth) => {
 ```typescript
 export const POST = withAuth(async (req, auth) => {
   // All authenticated users can access
-  
+
   // But admin-only features require additional check
   if (auth.role === 'ADMIN') {
     // Admin-specific logic
   } else {
     ensureMinimumRole(auth, 'MODERATOR'); // Throws if insufficient
   }
-  
+
   return NextResponse.json({ success: true });
 });
 ```
@@ -190,6 +210,7 @@ export const POST = withAuth(async (req, auth) => {
 ## 🚀 Deployment Instructions
 
 ### Prerequisites
+
 - Node.js and pnpm installed
 - PostgreSQL database configured
 - `.env` file with database credentials
@@ -197,16 +218,19 @@ export const POST = withAuth(async (req, auth) => {
 ### Steps
 
 1. **Update schema**
+
    ```bash
    cd /path/to/VidyaSetu
    ```
 
 2. **Create and apply migration**
+
    ```bash
    pnpm db:migrate dev --name add_moderator_role
    ```
 
 3. **Verify migration**
+
    ```bash
    pnpm db:migrate status
    pnpm db:studio  # Check UserRole enum and User table
@@ -232,8 +256,10 @@ describe('Admin Endpoints', () => {
   it('should allow ADMIN users', async () => {
     const response = await fetch('/api/admin/add-question', {
       method: 'POST',
-      headers: { 'Authorization': 'Bearer admin_token' },
-      body: JSON.stringify({ /* question data */ }),
+      headers: { Authorization: 'Bearer admin_token' },
+      body: JSON.stringify({
+        /* question data */
+      }),
     });
     expect(response.status).toBe(201);
   });
@@ -241,8 +267,10 @@ describe('Admin Endpoints', () => {
   it('should reject USER role with 403', async () => {
     const response = await fetch('/api/admin/add-question', {
       method: 'POST',
-      headers: { 'Authorization': 'Bearer user_token' },
-      body: JSON.stringify({ /* question data */ }),
+      headers: { Authorization: 'Bearer user_token' },
+      body: JSON.stringify({
+        /* question data */
+      }),
     });
     expect(response.status).toBe(403);
     const body = await response.json();
@@ -256,6 +284,7 @@ describe('Admin Endpoints', () => {
 When adding new admin features:
 
 1. **Use the recommended pattern:**
+
    ```typescript
    export const POST = withRoleAuth('ADMIN', async (req, auth) => {
      // Your implementation
@@ -263,13 +292,18 @@ When adding new admin features:
    ```
 
 2. **For moderator features:**
+
    ```typescript
-   export const POST = withRoleAuth(['ADMIN', 'MODERATOR'], async (req, auth) => {
-     // Your implementation
-   });
+   export const POST = withRoleAuth(
+     ['ADMIN', 'MODERATOR'],
+     async (req, auth) => {
+       // Your implementation
+     }
+   );
    ```
 
 3. **Document the role requirement:**
+
    ```typescript
    /**
     * Admin-only operation to manage content

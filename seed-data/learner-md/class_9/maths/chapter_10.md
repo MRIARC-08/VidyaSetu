@@ -1,20 +1,21 @@
 # Chapter 10: Heron's Formula
+
 ### NCERT Class 9 — Maths
 
 ---
 
 ## 📌 Chapter at a Glance
 
-| Detail | Info |
-|---|---|
-| Chapter | 10 — Heron's Formula |
-| Class | Class 9 |
-| Subject | Maths |
-| Pilot Subject Family | Mathematics |
-| Source File | `data/class_9/maths/chapter_10.md` |
-| Textbook Pages | 1 – 6 |
-| Raw Exercise Count | 3 |
-| Formatting Mode | Human-guided pilot for subject-specific automation |
+| Detail               | Info                                               |
+| -------------------- | -------------------------------------------------- |
+| Chapter              | 10 — Heron's Formula                               |
+| Class                | Class 9                                            |
+| Subject              | Maths                                              |
+| Pilot Subject Family | Mathematics                                        |
+| Source File          | `data/class_9/maths/chapter_10.md`                 |
+| Textbook Pages       | 1 – 6                                              |
+| Raw Exercise Count   | 3                                                  |
+| Formatting Mode      | Human-guided pilot for subject-specific automation |
 
 ---
 
@@ -23,50 +24,50 @@
 > [!NOTE]
 > Study this chapter through this route: **definitions -> standard forms -> worked examples -> exercise patterns -> quick formula recall**.
 
-| Step | Learner Action | Why It Matters |
-|---|---|---|
-| 1 | Rewrite every definition in symbolic form and in words. | Builds reliable recall and answer quality. |
-| 2 | Track each solved example as: given data, method used, steps, final result. | Builds reliable recall and answer quality. |
-| 3 | Keep formulas in a single revision card and note the condition under which each formula is valid. | Builds reliable recall and answer quality. |
-| 4 | For exercises, classify each question by type before solving. | Builds reliable recall and answer quality. |
+| Step | Learner Action                                                                                    | Why It Matters                             |
+| ---- | ------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| 1    | Rewrite every definition in symbolic form and in words.                                           | Builds reliable recall and answer quality. |
+| 2    | Track each solved example as: given data, method used, steps, final result.                       | Builds reliable recall and answer quality. |
+| 3    | Keep formulas in a single revision card and note the condition under which each formula is valid. | Builds reliable recall and answer quality. |
+| 4    | For exercises, classify each question by type before solving.                                     | Builds reliable recall and answer quality. |
 
 ---
 
 ## 🎯 Learning Outcomes
 
-| # | After studying this chapter, you should be able to... |
-|---|---|
-| 1 | identify the main mathematical objects, definitions, and standard forms in the chapter |
-| 2 | apply the chapter methods to solved examples and exercise questions |
-| 3 | maintain correct notation, conditions, and final-answer formatting |
-| 4 | explain the role of 'Area of a Triangle — by Heron’s Formula' in the chapter |
+| #   | After studying this chapter, you should be able to...                                  |
+| --- | -------------------------------------------------------------------------------------- |
+| 1   | identify the main mathematical objects, definitions, and standard forms in the chapter |
+| 2   | apply the chapter methods to solved examples and exercise questions                    |
+| 3   | maintain correct notation, conditions, and final-answer formatting                     |
+| 4   | explain the role of 'Area of a Triangle — by Heron’s Formula' in the chapter           |
 
 ---
 
 ## 🗂️ Section Structure
 
-| Section | Title | Revision Focus |
-|---|---|---|
-| 10.1 | Area of a Triangle — by Heron’s Formula | Definition, explanation, examples, and likely questions |
+| Section | Title                                   | Revision Focus                                          |
+| ------- | --------------------------------------- | ------------------------------------------------------- |
+| 10.1    | Area of a Triangle — by Heron’s Formula | Definition, explanation, examples, and likely questions |
 
 ---
 
 ## 🧠 Subject-Specific Study Method
 
-| Part | How to Use It |
-|---|---|
-| Core lens | definitions -> standard forms -> worked examples -> exercise patterns -> quick formula recall |
-| First pass | Read for meaning and mark unfamiliar terms. |
-| Second pass | Convert definitions, examples, data, and activities into tables. |
-| Revision pass | Use the quick reference and practice tracker at the end. |
+| Part          | How to Use It                                                                                 |
+| ------------- | --------------------------------------------------------------------------------------------- |
+| Core lens     | definitions -> standard forms -> worked examples -> exercise patterns -> quick formula recall |
+| First pass    | Read for meaning and mark unfamiliar terms.                                                   |
+| Second pass   | Convert definitions, examples, data, and activities into tables.                              |
+| Revision pass | Use the quick reference and practice tracker at the end.                                      |
 
 ---
 
 ## 🧮 High-Value Formula / Method Board
 
-| # | High-Value Item | Revision Use |
-|---|---|---|
-| 1 | Add formulas manually after reviewing diagrams and OCR. | Know meaning, condition, and one example. |
+| #   | High-Value Item                                         | Revision Use                              |
+| --- | ------------------------------------------------------- | ----------------------------------------- |
+| 1   | Add formulas manually after reviewing diagrams and OCR. | Know meaning, condition, and one example. |
 
 ---
 
@@ -94,8 +95,8 @@ Reprint 2025-26 132 MATHEMATICS where a, b and c are the sides of the triangle, 
 
 The largest side, i.e., BC which is 40 m will be the hypotenuse and the angle between the sides AB and AC will be 90°. We can check that the area of the park is 1 2 × 32 × 24 m 2 = 384 m 2. We find that the area we have got is the same as we found by using Heron’ s formula. Now using Heron’ s formula, you verify this fact by finding the areas of other triangles discussed earlier viz.,
 
- - (i) equilateral triangle with side 10 cm.
-(ii) isosceles triangle with unequal side as 8 cm and each equal side as 5 cm. You will see that For (i), we have s = 10 10 10 + + cm = 15 cm.
+- (i) equilateral triangle with side 10 cm.
+  (ii) isosceles triangle with unequal side as 8 cm and each equal side as 5 cm. You will see that For (i), we have s = 10 10 10 + + cm = 15 cm.
 
 Reprint 2025-26 HERON’S FORMULA 133 Area of triangle = 15(15 10) (15 10) (15 10)− − − cm2 = 2 215 5 5 5 cm 25 3 cm× × × = For (ii), we have s = 8 5 5 cm 9 cm2 + + = Area of triangle = 9(9 8) (9 5) (9 5)− − − cm2 = 2 29 1 4 4 cm 12 cm.× × × = Let us now solve some more examples:
 
@@ -126,8 +127,8 @@ is 300 m. Find its area. Solution: Suppose that the sides, in metres, are 3 x, 5
 
 ## 🔑 Key Concepts & Definitions
 
-| Term | Learner-Friendly Meaning |
-|---|---|
+| Term          | Learner-Friendly Meaning                                   |
+| ------------- | ---------------------------------------------------------- |
 | **Example 2** | A triangular park ABC has sides 120m, 80m and 50m (see Fig |
 
 ---
@@ -148,59 +149,59 @@ is 300 m. Find its area. Solution: Suppose that the sides, in metres, are 3 x, 5
 
 ## ✏️ Practice & Exercise Tracker
 
-| Q | Question / Task | Answer Strategy |
-|---|---|---|
-| 1 | 1. A traffic signal board, indicating ‘SCHOOL AHEAD’, is an equilateral triangle with side ‘a’. Find the area of the signal board, using Heron’s formula. If its perimeter is 180 cm, what will be the area of the signal board? Reprint 2025-26 HERON’S FORMULA 135 | Identify command word, recall concept, structure answer, then review. |
-| 2 | 2. The triangular side walls of a flyover have been used for advertisements. The sides of the walls are 122 m, 22 m and 120 m (see Fig. 10.6). The advertisements yield an earning of ` 5000 per m2 per year. A company hired one of its walls for 3 months. How much rent did it pay? | Identify command word, recall concept, structure answer, then review. |
-| 3 | 3. There is a slide in a park. One of its side walls has been painted in some colour with a message “KEEP THE PARK GREEN AND CLEAN” (see Fig. 10.7 ). If the sides of the wall are 15 m, 11 m and 6 m, find the area painted in colour. | Identify command word, recall concept, structure answer, then review. |
-| 4 | 4. Find the area of a triangle two sides of which are 18cm and 10cm and the perimeter is 42cm. | Identify command word, recall concept, structure answer, then review. |
-| 5 | 5. Sides of a triangle are in the ratio of 12 : 17 : 25 and its perimeter is 540cm. Find its area. | Identify command word, recall concept, structure answer, then review. |
-| 6 | 6. An isosceles triangle has perimeter 30 cm and each of the equal sides is 12 cm. Find the area of the triangle. Reprint 2025-26 136 MATHEMATICS ## 📖 10.2 — Summary In this chapter, you have studied the following points: | Identify command word, recall concept, structure answer, then review. |
-| 7 | 1. Area of a triangle with its sides as a, b and c is calculated by using Heron’ s formula, stated as Area of triangle = ( ) ( ) ( )− − −s s a s b s c where s = 2 + +a b c Reprint 2025-26 ## 🧮 Formulas & Equations $$ Third side c = 32 cm - (8 + 11) cm = 13 cm $$ ## 📐 Worked Examples Example 1 : Find the area of a triangle, two sides of which are 8 cm and 1 1 cm and | Identify command word, recall concept, structure answer, then review. |
+| Q   | Question / Task                                                                                                                                                                                                                                                                                                                                                                   | Answer Strategy                                                       |
+| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| 1   | 1. A traffic signal board, indicating ‘SCHOOL AHEAD’, is an equilateral triangle with side ‘a’. Find the area of the signal board, using Heron’s formula. If its perimeter is 180 cm, what will be the area of the signal board? Reprint 2025-26 HERON’S FORMULA 135                                                                                                              | Identify command word, recall concept, structure answer, then review. |
+| 2   | 2. The triangular side walls of a flyover have been used for advertisements. The sides of the walls are 122 m, 22 m and 120 m (see Fig. 10.6). The advertisements yield an earning of ` 5000 per m2 per year. A company hired one of its walls for 3 months. How much rent did it pay?                                                                                            | Identify command word, recall concept, structure answer, then review. |
+| 3   | 3. There is a slide in a park. One of its side walls has been painted in some colour with a message “KEEP THE PARK GREEN AND CLEAN” (see Fig. 10.7 ). If the sides of the wall are 15 m, 11 m and 6 m, find the area painted in colour.                                                                                                                                           | Identify command word, recall concept, structure answer, then review. |
+| 4   | 4. Find the area of a triangle two sides of which are 18cm and 10cm and the perimeter is 42cm.                                                                                                                                                                                                                                                                                    | Identify command word, recall concept, structure answer, then review. |
+| 5   | 5. Sides of a triangle are in the ratio of 12 : 17 : 25 and its perimeter is 540cm. Find its area.                                                                                                                                                                                                                                                                                | Identify command word, recall concept, structure answer, then review. |
+| 6   | 6. An isosceles triangle has perimeter 30 cm and each of the equal sides is 12 cm. Find the area of the triangle. Reprint 2025-26 136 MATHEMATICS ## 📖 10.2 — Summary In this chapter, you have studied the following points:                                                                                                                                                    | Identify command word, recall concept, structure answer, then review. |
+| 7   | 1. Area of a triangle with its sides as a, b and c is calculated by using Heron’ s formula, stated as Area of triangle = ( ) ( ) ( )− − −s s a s b s c where s = 2 + +a b c Reprint 2025-26 ## 🧮 Formulas & Equations $$ Third side c = 32 cm - (8 + 11) cm = 13 cm $$ ## 📐 Worked Examples Example 1 : Find the area of a triangle, two sides of which are 8 cm and 1 1 cm and | Identify command word, recall concept, structure answer, then review. |
 
 ---
 
 ## 🧩 Answer-Writing Framework
 
-| Step | What To Do |
-|---|---|
-| 1 | State the given information clearly. |
-| 2 | Write the required result or unknown. |
-| 3 | Choose the relevant definition, theorem, identity, or formula. |
-| 4 | Show algebraic steps without skipping transformations. |
-| 5 | Box the final answer and verify if possible. |
+| Step | What To Do                                                     |
+| ---- | -------------------------------------------------------------- |
+| 1    | State the given information clearly.                           |
+| 2    | Write the required result or unknown.                          |
+| 3    | Choose the relevant definition, theorem, identity, or formula. |
+| 4    | Show algebraic steps without skipping transformations.         |
+| 5    | Box the final answer and verify if possible.                   |
 
 ---
 
 ## ⚠️ Common Misconceptions
 
-| # | Watch Out For This |
-|---|---|
-| 1 | Do not decide the type of an expression before simplifying it. |
-| 2 | A formula is useful only when its conditions are satisfied. |
-| 3 | A numerical answer without reasoning is weak for learner notes. |
+| #   | Watch Out For This                                              |
+| --- | --------------------------------------------------------------- |
+| 1   | Do not decide the type of an expression before simplifying it.  |
+| 2   | A formula is useful only when its conditions are satisfied.     |
+| 3   | A numerical answer without reasoning is weak for learner notes. |
 
 ---
 
 ## 📋 Quick Revision Sheet
 
-| Revision Item | What To Recall |
-|---|---|
-| Chapter core | Heron's Formula |
-| 10.1 | Area of a Triangle — by Heron’s Formula |
-| Definition | Example 2 |
+| Revision Item | What To Recall                          |
+| ------------- | --------------------------------------- |
+| Chapter core  | Heron's Formula                         |
+| 10.1          | Area of a Triangle — by Heron’s Formula |
+| Definition    | Example 2                               |
 
 ---
 
 ## ✅ Pilot Quality Checklist
 
-| Check | Status |
-|---|---|
-| Raw data preserved | Yes — chapter content is retained and cleaned, not summarised away. |
-| Learner scaffolding added | Yes — roadmap, outcomes, answer framework, misconceptions, and revision sheet. |
-| Subject-aware structure | Yes — generated from the selected subject family profile. |
-| Needs human review | Yes — especially source extraction mismatches, diagrams, tables, formulas, and broken OCR words. |
+| Check                     | Status                                                                                           |
+| ------------------------- | ------------------------------------------------------------------------------------------------ |
+| Raw data preserved        | Yes — chapter content is retained and cleaned, not summarised away.                              |
+| Learner scaffolding added | Yes — roadmap, outcomes, answer framework, misconceptions, and revision sheet.                   |
+| Subject-aware structure   | Yes — generated from the selected subject family profile.                                        |
+| Needs human review        | Yes — especially source extraction mismatches, diagrams, tables, formulas, and broken OCR words. |
 
 ---
 
-*Source: NCERT Class 9 — Maths, Chapter 10. Raw file: `data/class_9/maths/chapter_10.md`.*
+_Source: NCERT Class 9 — Maths, Chapter 10. Raw file: `data/class_9/maths/chapter_10.md`._

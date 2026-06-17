@@ -1,16 +1,17 @@
 # Chapter 4: Principles of Inheritance and Variation
+
 ### NCERT Class 12 - Biology
 
 ## Chapter at a Glance
 
-| Item | Details |
-|---|---|
-| Main idea | Inheritance explains how traits pass from parents to offspring, while variation explains differences among individuals. |
-| Core founder | Gregor Mendel, through pea plant experiments. |
-| Main concepts | Gene, allele, dominant, recessive, genotype, phenotype, segregation, independent assortment. |
-| Expanded patterns | Incomplete dominance, codominance, multiple alleles, polygenic inheritance, pleiotropy, linkage, sex-linked inheritance. |
-| Human genetics focus | Blood groups, sex determination, pedigree analysis, genetic disorders. |
-| Most important skill | Track alleles through crosses and connect ratios with mechanisms. |
+| Item                 | Details                                                                                                                  |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Main idea            | Inheritance explains how traits pass from parents to offspring, while variation explains differences among individuals.  |
+| Core founder         | Gregor Mendel, through pea plant experiments.                                                                            |
+| Main concepts        | Gene, allele, dominant, recessive, genotype, phenotype, segregation, independent assortment.                             |
+| Expanded patterns    | Incomplete dominance, codominance, multiple alleles, polygenic inheritance, pleiotropy, linkage, sex-linked inheritance. |
+| Human genetics focus | Blood groups, sex determination, pedigree analysis, genetic disorders.                                                   |
+| Most important skill | Track alleles through crosses and connect ratios with mechanisms.                                                        |
 
 ## Learning Outcomes
 
@@ -32,33 +33,33 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Gene | Unit of inheritance controlling a trait. |
-| Allele | Alternative form of a gene. |
-| Genotype | Genetic constitution of an organism. |
-| Phenotype | Observable expression of a trait. |
-| Homozygous | Having identical alleles for a gene. |
-| Heterozygous | Having different alleles for a gene. |
-| Dominant allele | Allele expressed in heterozygous condition. |
-| Recessive allele | Allele expressed only when dominant allele is absent. |
-| Monohybrid cross | Cross involving one trait. |
-| Dihybrid cross | Cross involving two traits. |
-| Test cross | Cross with homozygous recessive individual to identify genotype. |
-| Linkage | Tendency of genes on same chromosome to be inherited together. |
-| Recombination | Formation of new allele combinations. |
-| Mutation | Heritable change in genetic material. |
+| Term             | Meaning                                                          |
+| ---------------- | ---------------------------------------------------------------- |
+| Gene             | Unit of inheritance controlling a trait.                         |
+| Allele           | Alternative form of a gene.                                      |
+| Genotype         | Genetic constitution of an organism.                             |
+| Phenotype        | Observable expression of a trait.                                |
+| Homozygous       | Having identical alleles for a gene.                             |
+| Heterozygous     | Having different alleles for a gene.                             |
+| Dominant allele  | Allele expressed in heterozygous condition.                      |
+| Recessive allele | Allele expressed only when dominant allele is absent.            |
+| Monohybrid cross | Cross involving one trait.                                       |
+| Dihybrid cross   | Cross involving two traits.                                      |
+| Test cross       | Cross with homozygous recessive individual to identify genotype. |
+| Linkage          | Tendency of genes on same chromosome to be inherited together.   |
+| Recombination    | Formation of new allele combinations.                            |
+| Mutation         | Heritable change in genetic material.                            |
 
 ## Quick Learning Map
 
-| Area | Core Learning |
-|---|---|
-| Mendel | Traits are controlled by discrete factors now called genes. |
-| Monohybrid | Explains segregation of alleles. |
-| Dihybrid | Explains independent assortment of alleles on different chromosomes. |
-| Non-Mendelian patterns | Some traits do not show simple dominance. |
-| Chromosomes | Genes are located on chromosomes. |
-| Human inheritance | Pedigree and disorders show inheritance patterns in families. |
+| Area                   | Core Learning                                                        |
+| ---------------------- | -------------------------------------------------------------------- |
+| Mendel                 | Traits are controlled by discrete factors now called genes.          |
+| Monohybrid             | Explains segregation of alleles.                                     |
+| Dihybrid               | Explains independent assortment of alleles on different chromosomes. |
+| Non-Mendelian patterns | Some traits do not show simple dominance.                            |
+| Chromosomes            | Genes are located on chromosomes.                                    |
+| Human inheritance      | Pedigree and disorders show inheritance patterns in families.        |
 
 # Unit 4A: Mendel's Experimental Approach
 
@@ -82,16 +83,16 @@ Gregor Mendel used garden pea because it had clear contrasting traits, short lif
 
 # Unit 4B: Basic Genetic Vocabulary
 
-| Concept | Example |
-|---|---|
-| Trait | Plant height. |
-| Character | Tallness or dwarfness as expression of height. |
-| Alleles | T and t for plant height. |
-| Homozygous dominant | TT. |
-| Homozygous recessive | tt. |
-| Heterozygous | Tt. |
-| Phenotype | Tall plant. |
-| Genotype | TT or Tt. |
+| Concept              | Example                                        |
+| -------------------- | ---------------------------------------------- |
+| Trait                | Plant height.                                  |
+| Character            | Tallness or dwarfness as expression of height. |
+| Alleles              | T and t for plant height.                      |
+| Homozygous dominant  | TT.                                            |
+| Homozygous recessive | tt.                                            |
+| Heterozygous         | Tt.                                            |
+| Phenotype            | Tall plant.                                    |
+| Genotype             | TT or Tt.                                      |
 
 ## Dominance
 
@@ -113,17 +114,17 @@ Selfing F1:
 
 Tt x Tt
 
-| Gametes | T | t |
-|---|---|---|
-| T | TT | Tt |
-| t | Tt | tt |
+| Gametes | T   | t   |
+| ------- | --- | --- |
+| T       | TT  | Tt  |
+| t       | Tt  | tt  |
 
 ## F2 Ratios
 
-| Type | Ratio |
-|---|---|
-| Genotypic ratio | 1 TT : 2 Tt : 1 tt |
-| Phenotypic ratio | 3 tall : 1 dwarf |
+| Type             | Ratio              |
+| ---------------- | ------------------ |
+| Genotypic ratio  | 1 TT : 2 Tt : 1 tt |
+| Phenotypic ratio | 3 tall : 1 dwarf   |
 
 # Unit 4D: Law of Segregation
 
@@ -199,12 +200,12 @@ ABO blood group is controlled by three alleles: IA, IB, and i.
 
 IA and IB are codominant. Both are dominant over i.
 
-| Genotype | Blood Group |
-|---|---|
-| IAIA or IAi | A |
-| IBIB or IBi | B |
-| IAIB | AB |
-| ii | O |
+| Genotype    | Blood Group |
+| ----------- | ----------- |
+| IAIA or IAi | A           |
+| IBIB or IBi | B           |
+| IAIB        | AB          |
+| ii          | O           |
 
 This is also an example of multiple alleles because more than two alleles exist in the population, though one individual carries only two.
 
@@ -234,11 +235,11 @@ The chromosomal theory states that genes are located on chromosomes and chromoso
 
 ## Parallels Between Genes and Chromosomes
 
-| Genes | Chromosomes |
-|---|---|
-| Occur in pairs. | Homologous chromosomes occur in pairs. |
-| Alleles segregate during gamete formation. | Homologous chromosomes separate during meiosis. |
-| Different genes may assort independently. | Different chromosome pairs assort independently. |
+| Genes                                      | Chromosomes                                      |
+| ------------------------------------------ | ------------------------------------------------ |
+| Occur in pairs.                            | Homologous chromosomes occur in pairs.           |
+| Alleles segregate during gamete formation. | Homologous chromosomes separate during meiosis.  |
+| Different genes may assort independently.  | Different chromosome pairs assort independently. |
 
 # Unit 4L: Linkage and Recombination
 
@@ -249,9 +250,9 @@ Recombination produces new allele combinations through crossing over.
 ## Relationship
 
 | Distance Between Genes | Linkage | Recombination |
-|---|---|---|
-| Close | Strong | Low |
-| Far apart | Weak | Higher |
+| ---------------------- | ------- | ------------- |
+| Close                  | Strong  | Low           |
+| Far apart              | Weak    | Higher        |
 
 Recombination frequency helps in chromosome mapping.
 
@@ -293,11 +294,11 @@ Pedigree analysis studies inheritance of traits in families using symbols.
 
 ## Pattern Clues
 
-| Pattern | Clue |
-|---|---|
-| Autosomal dominant | Trait often appears in every generation. |
+| Pattern             | Clue                                                                            |
+| ------------------- | ------------------------------------------------------------------------------- |
+| Autosomal dominant  | Trait often appears in every generation.                                        |
 | Autosomal recessive | Trait may skip generations; affected child may have unaffected carrier parents. |
-| X-linked recessive | More common in males; carrier females may pass it to sons. |
+| X-linked recessive  | More common in males; carrier females may pass it to sons.                      |
 
 # Unit 4O: Genetic Disorders
 
@@ -343,14 +344,14 @@ Mutation creates variation. Some mutations are harmful, some neutral, and rarely
 
 # Unit 4Q: Common Mistakes and Corrections
 
-| Mistake | Correct Understanding |
-|---|---|
-| Dominant means more common | Dominant means expressed in heterozygous condition, not necessarily common. |
-| Recessive traits disappear permanently | Recessive alleles can be hidden in heterozygotes and reappear. |
-| Phenotype always reveals genotype | Dominant phenotype may be homozygous or heterozygous. |
-| Independent assortment applies to all genes | Linked genes may not assort independently. |
-| Sex of child is determined by mother in humans | Sperm carrying X or Y determines sex in humans. |
-| Mutation is always harmful | Effects may be harmful, neutral, or sometimes beneficial. |
+| Mistake                                        | Correct Understanding                                                       |
+| ---------------------------------------------- | --------------------------------------------------------------------------- |
+| Dominant means more common                     | Dominant means expressed in heterozygous condition, not necessarily common. |
+| Recessive traits disappear permanently         | Recessive alleles can be hidden in heterozygotes and reappear.              |
+| Phenotype always reveals genotype              | Dominant phenotype may be homozygous or heterozygous.                       |
+| Independent assortment applies to all genes    | Linked genes may not assort independently.                                  |
+| Sex of child is determined by mother in humans | Sperm carrying X or Y determines sex in humans.                             |
+| Mutation is always harmful                     | Effects may be harmful, neutral, or sometimes beneficial.                   |
 
 ## Practice Set
 

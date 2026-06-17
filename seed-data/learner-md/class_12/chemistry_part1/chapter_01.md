@@ -1,4 +1,5 @@
 # Chapter 1: Solutions
+
 ### NCERT Class 12 - Chemistry Part 1
 
 ## Chapter at a Glance
@@ -25,34 +26,34 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Learner-friendly meaning |
-|---|---|
-| Solution | A homogeneous mixture of two or more substances. |
-| Solute | Component present in smaller amount, usually the dissolved substance. |
-| Solvent | Component present in larger amount, usually the dissolving medium. |
-| Binary solution | A solution containing two components. |
-| Concentration | Amount of solute present in a given amount of solution or solvent. |
-| Mole fraction | Fraction of total moles contributed by one component. |
-| Molarity | Moles of solute per litre of solution. |
-| Molality | Moles of solute per kilogram of solvent. |
-| Solubility | Maximum amount of solute that dissolves in a given amount of solvent at a stated temperature and pressure. |
-| Henry's law | At constant temperature, solubility of a gas is proportional to its partial pressure. |
-| Raoult's law | Partial vapour pressure of a volatile component equals its mole fraction multiplied by its pure vapour pressure. |
-| Ideal solution | A solution obeying Raoult's law over the entire composition range. |
-| Colligative property | A property depending on number of solute particles, not their chemical identity. |
-| Osmosis | Flow of solvent through a semipermeable membrane from dilute solution to concentrated solution. |
-| van't Hoff factor | Ratio used to correct colligative-property calculations for dissociation or association. |
+| Term                 | Learner-friendly meaning                                                                                         |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Solution             | A homogeneous mixture of two or more substances.                                                                 |
+| Solute               | Component present in smaller amount, usually the dissolved substance.                                            |
+| Solvent              | Component present in larger amount, usually the dissolving medium.                                               |
+| Binary solution      | A solution containing two components.                                                                            |
+| Concentration        | Amount of solute present in a given amount of solution or solvent.                                               |
+| Mole fraction        | Fraction of total moles contributed by one component.                                                            |
+| Molarity             | Moles of solute per litre of solution.                                                                           |
+| Molality             | Moles of solute per kilogram of solvent.                                                                         |
+| Solubility           | Maximum amount of solute that dissolves in a given amount of solvent at a stated temperature and pressure.       |
+| Henry's law          | At constant temperature, solubility of a gas is proportional to its partial pressure.                            |
+| Raoult's law         | Partial vapour pressure of a volatile component equals its mole fraction multiplied by its pure vapour pressure. |
+| Ideal solution       | A solution obeying Raoult's law over the entire composition range.                                               |
+| Colligative property | A property depending on number of solute particles, not their chemical identity.                                 |
+| Osmosis              | Flow of solvent through a semipermeable membrane from dilute solution to concentrated solution.                  |
+| van't Hoff factor    | Ratio used to correct colligative-property calculations for dissociation or association.                         |
 
 ## Quick Learning Map
 
-| Area | Core idea | Most-used relation |
-|---|---|---|
-| Concentration | Convert between amount measures | `M = n/V`, `m = n/kg solvent` |
-| Gas solubility | Higher pressure dissolves more gas | `p = KH x` |
-| Vapour pressure | Solute changes escaping tendency of solvent | `pA = xA pA0` |
-| Colligative properties | More particles mean larger effect | property is proportional to particle count |
-| Osmosis | Solvent moves through membrane | `pi = C R T` |
-| Abnormal molar mass | Association or dissociation changes particle count | `i = observed property / calculated property` |
+| Area                   | Core idea                                          | Most-used relation                            |
+| ---------------------- | -------------------------------------------------- | --------------------------------------------- |
+| Concentration          | Convert between amount measures                    | `M = n/V`, `m = n/kg solvent`                 |
+| Gas solubility         | Higher pressure dissolves more gas                 | `p = KH x`                                    |
+| Vapour pressure        | Solute changes escaping tendency of solvent        | `pA = xA pA0`                                 |
+| Colligative properties | More particles mean larger effect                  | property is proportional to particle count    |
+| Osmosis                | Solvent moves through membrane                     | `pi = C R T`                                  |
+| Abnormal molar mass    | Association or dissociation changes particle count | `i = observed property / calculated property` |
 
 # Unit 1A: What Is a Solution?
 
@@ -62,17 +63,17 @@ The component present in larger amount is usually called the solvent. The compon
 
 ## Types of Solutions by Physical State
 
-| Solute | Solvent | Example |
-|---|---|---|
-| Gas | Gas | Air, mainly nitrogen and oxygen |
-| Gas | Liquid | Carbon dioxide in soft drinks |
-| Gas | Solid | Hydrogen in palladium |
-| Liquid | Gas | Water vapour in air |
-| Liquid | Liquid | Ethanol in water |
-| Liquid | Solid | Amalgam of mercury with metal |
-| Solid | Gas | Camphor vapour in air |
-| Solid | Liquid | Salt in water |
-| Solid | Solid | Alloys such as brass |
+| Solute | Solvent | Example                         |
+| ------ | ------- | ------------------------------- |
+| Gas    | Gas     | Air, mainly nitrogen and oxygen |
+| Gas    | Liquid  | Carbon dioxide in soft drinks   |
+| Gas    | Solid   | Hydrogen in palladium           |
+| Liquid | Gas     | Water vapour in air             |
+| Liquid | Liquid  | Ethanol in water                |
+| Liquid | Solid   | Amalgam of mercury with metal   |
+| Solid  | Gas     | Camphor vapour in air           |
+| Solid  | Liquid  | Salt in water                   |
+| Solid  | Solid   | Alloys such as brass            |
 
 The most common school-level examples are solid in liquid, liquid in liquid, and gas in liquid solutions.
 
@@ -142,13 +143,13 @@ Molality does not change with temperature because it is based on mass, not volum
 
 ## Molarity vs Molality
 
-| Basis | Molarity | Molality |
-|---|---|---|
-| Formula | `moles solute / L solution` | `moles solute / kg solvent` |
-| Depends on | Volume of solution | Mass of solvent |
-| Temperature effect | Changes with temperature | Independent of temperature |
-| Symbol | `M` | `m` |
-| Common use | Titration, solution preparation | Colligative properties |
+| Basis              | Molarity                        | Molality                    |
+| ------------------ | ------------------------------- | --------------------------- |
+| Formula            | `moles solute / L solution`     | `moles solute / kg solvent` |
+| Depends on         | Volume of solution              | Mass of solvent             |
+| Temperature effect | Changes with temperature        | Independent of temperature  |
+| Symbol             | `M`                             | `m`                         |
+| Common use         | Titration, solution preparation | Colligative properties      |
 
 # Unit 1C: Solubility
 
@@ -184,12 +185,12 @@ A higher value of `KH` means lower solubility. Since `p = KH x`, for the same pr
 
 ## Applications of Henry's Law
 
-| Situation | Explanation |
-|---|---|
-| Soft drinks | Carbon dioxide is dissolved under high pressure. |
+| Situation       | Explanation                                                                        |
+| --------------- | ---------------------------------------------------------------------------------- |
+| Soft drinks     | Carbon dioxide is dissolved under high pressure.                                   |
 | Deep-sea diving | High pressure dissolves more nitrogen in blood; sudden ascent can release bubbles. |
-| High altitude | Lower oxygen partial pressure reduces oxygen dissolved in blood. |
-| Aquatic life | Warm water holds less dissolved oxygen. |
+| High altitude   | Lower oxygen partial pressure reduces oxygen dissolved in blood.                   |
+| Aquatic life    | Warm water holds less dissolved oxygen.                                            |
 
 # Unit 1E: Vapour Pressure of Liquid Solutions
 
@@ -253,13 +254,13 @@ Examples include chloroform and acetone.
 
 ## Deviation Table
 
-| Feature | Positive deviation | Negative deviation |
-|---|---|---|
-| A-B attraction | Weaker | Stronger |
-| Vapour pressure | Higher than ideal | Lower than ideal |
-| Enthalpy of mixing | Positive | Negative |
-| Volume change | Positive | Negative |
-| Boiling tendency | Lower boiling azeotrope may form | Higher boiling azeotrope may form |
+| Feature            | Positive deviation               | Negative deviation                |
+| ------------------ | -------------------------------- | --------------------------------- |
+| A-B attraction     | Weaker                           | Stronger                          |
+| Vapour pressure    | Higher than ideal                | Lower than ideal                  |
+| Enthalpy of mixing | Positive                         | Negative                          |
+| Volume change      | Positive                         | Negative                          |
+| Boiling tendency   | Lower boiling azeotrope may form | Higher boiling azeotrope may form |
 
 # Unit 1H: Colligative Properties
 
@@ -322,12 +323,12 @@ Osmotic pressure is very useful for biomolecules because it can be measured at r
 
 ## Important Osmosis Terms
 
-| Term | Meaning |
-|---|---|
-| Isotonic solutions | Same osmotic pressure at same temperature. |
-| Hypotonic solution | Lower osmotic pressure than another solution. |
-| Hypertonic solution | Higher osmotic pressure than another solution. |
-| Reverse osmosis | Solvent forced from solution to pure solvent side by applying pressure greater than osmotic pressure. |
+| Term                | Meaning                                                                                               |
+| ------------------- | ----------------------------------------------------------------------------------------------------- |
+| Isotonic solutions  | Same osmotic pressure at same temperature.                                                            |
+| Hypotonic solution  | Lower osmotic pressure than another solution.                                                         |
+| Hypertonic solution | Higher osmotic pressure than another solution.                                                        |
+| Reverse osmosis     | Solvent forced from solution to pure solvent side by applying pressure greater than osmotic pressure. |
 
 # Unit 1L: Abnormal Molar Mass
 
@@ -362,24 +363,24 @@ Corrected relations:
 
 ## Reading `i`
 
-| Value of `i` | Meaning |
-|---|---|
-| `i = 1` | No association or dissociation. |
-| `i < 1` | Association. |
-| `i > 1` | Dissociation. |
+| Value of `i` | Meaning                         |
+| ------------ | ------------------------------- |
+| `i = 1`      | No association or dissociation. |
+| `i < 1`      | Association.                    |
+| `i > 1`      | Dissociation.                   |
 
 # Unit 1M: Formula Selection Toolkit
 
-| Question clue | Use this idea |
-|---|---|
-| "mass percentage" | mass solute divided by mass solution |
-| "mole fraction" | moles of component divided by total moles |
-| "gas solubility and pressure" | Henry's law |
-| "vapour pressure of solution" | Raoult's law |
-| "boiling point increased" | elevation of boiling point |
-| "freezing point decreased" | depression of freezing point |
-| "semipermeable membrane" | osmosis or osmotic pressure |
-| "abnormal molar mass" | van't Hoff factor |
+| Question clue                 | Use this idea                             |
+| ----------------------------- | ----------------------------------------- |
+| "mass percentage"             | mass solute divided by mass solution      |
+| "mole fraction"               | moles of component divided by total moles |
+| "gas solubility and pressure" | Henry's law                               |
+| "vapour pressure of solution" | Raoult's law                              |
+| "boiling point increased"     | elevation of boiling point                |
+| "freezing point decreased"    | depression of freezing point              |
+| "semipermeable membrane"      | osmosis or osmotic pressure               |
+| "abnormal molar mass"         | van't Hoff factor                         |
 
 # Unit 1N: Worked Pattern Examples
 
@@ -427,14 +428,14 @@ Example for Henry's law:
 
 # Unit 1P: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Using Celsius in gas or osmotic pressure formulas | Use kelvin. |
-| Confusing molarity and molality | Molarity uses litre of solution; molality uses kg of solvent. |
-| Assuming higher `KH` means higher solubility | Higher `KH` means lower solubility. |
-| Forgetting solute mass is part of solution mass | In mass percentage, denominator is mass of solution. |
+| Mistake                                                  | Correction                                                     |
+| -------------------------------------------------------- | -------------------------------------------------------------- |
+| Using Celsius in gas or osmotic pressure formulas        | Use kelvin.                                                    |
+| Confusing molarity and molality                          | Molarity uses litre of solution; molality uses kg of solvent.  |
+| Assuming higher `KH` means higher solubility             | Higher `KH` means lower solubility.                            |
+| Forgetting solute mass is part of solution mass          | In mass percentage, denominator is mass of solution.           |
 | Using colligative formulas without checking electrolytes | Add van't Hoff factor when association or dissociation occurs. |
-| Calling all deviations positive | Compare observed vapour pressure with ideal vapour pressure. |
+| Calling all deviations positive                          | Compare observed vapour pressure with ideal vapour pressure.   |
 
 ## Practice Set
 

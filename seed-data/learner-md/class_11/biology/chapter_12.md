@@ -4,16 +4,16 @@ Class 11 Biology
 
 ## Chapter Profile
 
-| Item | Details |
-|---|---|
-| Class | 11 |
-| Subject | Biology |
-| Chapter | 12 |
-| Title | Respiration in Plants |
-| Main theme | Stepwise oxidation of food to release energy and form ATP |
+| Item           | Details                                                                                    |
+| -------------- | ------------------------------------------------------------------------------------------ |
+| Class          | 11                                                                                         |
+| Subject        | Biology                                                                                    |
+| Chapter        | 12                                                                                         |
+| Title          | Respiration in Plants                                                                      |
+| Main theme     | Stepwise oxidation of food to release energy and form ATP                                  |
 | Main processes | Glycolysis, fermentation, aerobic respiration, Krebs cycle, ETS, oxidative phosphorylation |
-| Core skill | Track carbon, electrons, ATP, NADH, FADH2, CO2, and O2 through respiration |
-| Learner goal | Explain how plants obtain usable energy from respiratory substrates |
+| Core skill     | Track carbon, electrons, ATP, NADH, FADH2, CO2, and O2 through respiration                 |
+| Learner goal   | Explain how plants obtain usable energy from respiratory substrates                        |
 
 ## How To Study This Chapter
 
@@ -43,12 +43,12 @@ Track four things in every pathway:
 
 The chapter becomes much easier if you keep these compartments clear:
 
-| Process | Location |
-|---|---|
-| Glycolysis | Cytoplasm |
-| Fermentation | Cytoplasm |
-| Pyruvate oxidation | Mitochondrial matrix |
-| Krebs cycle | Mitochondrial matrix |
+| Process                   | Location                     |
+| ------------------------- | ---------------------------- |
+| Glycolysis                | Cytoplasm                    |
+| Fermentation              | Cytoplasm                    |
+| Pyruvate oxidation        | Mitochondrial matrix         |
+| Krebs cycle               | Mitochondrial matrix         |
 | Electron transport system | Inner mitochondrial membrane |
 | Oxidative phosphorylation | Inner mitochondrial membrane |
 
@@ -87,53 +87,53 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Breathing | Exchange of gases with the external environment |
-| Cellular respiration | Stepwise oxidation of organic molecules inside cells to release energy and form ATP |
-| Respiratory substrate | Organic molecule oxidised during respiration |
-| ATP | Energy currency of the cell |
-| Glycolysis | Cytoplasmic pathway that converts glucose into pyruvate |
-| EMP pathway | Glycolysis pathway named after Embden, Meyerhof, and Parnas |
-| Pyruvate | Three-carbon end product of glycolysis |
-| Fermentation | Anaerobic incomplete oxidation of glucose through pyruvate |
-| Alcoholic fermentation | Conversion of pyruvate to ethanol and CO2 |
-| Lactic acid fermentation | Conversion of pyruvate to lactic acid |
-| Aerobic respiration | Complete oxidation of organic substrate in presence of oxygen |
-| Anaerobic respiration | Energy-yielding breakdown without oxygen as final acceptor |
-| Pyruvate dehydrogenase | Enzyme complex converting pyruvate to acetyl CoA |
-| Acetyl CoA | Two-carbon acetyl group linked to coenzyme A |
-| Krebs cycle | Cyclic pathway oxidising acetyl CoA in mitochondrial matrix |
-| TCA cycle | Tricarboxylic acid cycle, another name for Krebs cycle |
-| Citric acid cycle | Another name for Krebs cycle |
-| OAA | Oxaloacetic acid, four-carbon compound that combines with acetyl CoA |
-| Citrate | Six-carbon first product of Krebs cycle |
-| NAD+ | Coenzyme that accepts electrons and hydrogen to form NADH |
-| NADH | Reduced coenzyme carrying electrons to ETS |
-| FAD | Coenzyme that accepts hydrogen to form FADH2 |
-| FADH2 | Reduced coenzyme carrying electrons to ETS |
-| ETS | Electron transport system in inner mitochondrial membrane |
-| Oxidative phosphorylation | ATP synthesis coupled to oxidation-reduction reactions in ETS |
-| ATP synthase | Enzyme complex that forms ATP using proton gradient |
-| F0 | Membrane channel part of mitochondrial ATP synthase |
-| F1 | Catalytic headpiece of mitochondrial ATP synthase |
-| Substrate-level phosphorylation | Direct ATP or GTP formation during a metabolic reaction |
-| Amphibolic pathway | Pathway involved in both breakdown and synthesis |
-| Catabolism | Breakdown of complex molecules |
-| Anabolism | Synthesis of complex molecules |
-| Respiratory quotient | Ratio of CO2 evolved to O2 consumed during respiration |
+| Term                            | Meaning                                                                             |
+| ------------------------------- | ----------------------------------------------------------------------------------- |
+| Breathing                       | Exchange of gases with the external environment                                     |
+| Cellular respiration            | Stepwise oxidation of organic molecules inside cells to release energy and form ATP |
+| Respiratory substrate           | Organic molecule oxidised during respiration                                        |
+| ATP                             | Energy currency of the cell                                                         |
+| Glycolysis                      | Cytoplasmic pathway that converts glucose into pyruvate                             |
+| EMP pathway                     | Glycolysis pathway named after Embden, Meyerhof, and Parnas                         |
+| Pyruvate                        | Three-carbon end product of glycolysis                                              |
+| Fermentation                    | Anaerobic incomplete oxidation of glucose through pyruvate                          |
+| Alcoholic fermentation          | Conversion of pyruvate to ethanol and CO2                                           |
+| Lactic acid fermentation        | Conversion of pyruvate to lactic acid                                               |
+| Aerobic respiration             | Complete oxidation of organic substrate in presence of oxygen                       |
+| Anaerobic respiration           | Energy-yielding breakdown without oxygen as final acceptor                          |
+| Pyruvate dehydrogenase          | Enzyme complex converting pyruvate to acetyl CoA                                    |
+| Acetyl CoA                      | Two-carbon acetyl group linked to coenzyme A                                        |
+| Krebs cycle                     | Cyclic pathway oxidising acetyl CoA in mitochondrial matrix                         |
+| TCA cycle                       | Tricarboxylic acid cycle, another name for Krebs cycle                              |
+| Citric acid cycle               | Another name for Krebs cycle                                                        |
+| OAA                             | Oxaloacetic acid, four-carbon compound that combines with acetyl CoA                |
+| Citrate                         | Six-carbon first product of Krebs cycle                                             |
+| NAD+                            | Coenzyme that accepts electrons and hydrogen to form NADH                           |
+| NADH                            | Reduced coenzyme carrying electrons to ETS                                          |
+| FAD                             | Coenzyme that accepts hydrogen to form FADH2                                        |
+| FADH2                           | Reduced coenzyme carrying electrons to ETS                                          |
+| ETS                             | Electron transport system in inner mitochondrial membrane                           |
+| Oxidative phosphorylation       | ATP synthesis coupled to oxidation-reduction reactions in ETS                       |
+| ATP synthase                    | Enzyme complex that forms ATP using proton gradient                                 |
+| F0                              | Membrane channel part of mitochondrial ATP synthase                                 |
+| F1                              | Catalytic headpiece of mitochondrial ATP synthase                                   |
+| Substrate-level phosphorylation | Direct ATP or GTP formation during a metabolic reaction                             |
+| Amphibolic pathway              | Pathway involved in both breakdown and synthesis                                    |
+| Catabolism                      | Breakdown of complex molecules                                                      |
+| Anabolism                       | Synthesis of complex molecules                                                      |
+| Respiratory quotient            | Ratio of CO2 evolved to O2 consumed during respiration                              |
 
 ## Chapter Map
 
-| Unit | Topic | What To Master |
-|---|---|---|
-| 12.1 | Plants and breathing | Gas exchange without respiratory organs |
-| 12.2 | Glycolysis | Glucose to pyruvate, ATP and NADH accounting |
-| 12.3 | Fermentation | Anaerobic pyruvate fate and low ATP yield |
-| 12.4 | Aerobic respiration | Pyruvate oxidation, Krebs cycle, ETS |
-| 12.5 | Balance sheet | Why 38 ATP is theoretical |
-| 12.6 | Amphibolic pathway | Respiration links catabolism and anabolism |
-| 12.7 | Respiratory quotient | CO2 evolved to O2 consumed ratio |
+| Unit | Topic                | What To Master                               |
+| ---- | -------------------- | -------------------------------------------- |
+| 12.1 | Plants and breathing | Gas exchange without respiratory organs      |
+| 12.2 | Glycolysis           | Glucose to pyruvate, ATP and NADH accounting |
+| 12.3 | Fermentation         | Anaerobic pyruvate fate and low ATP yield    |
+| 12.4 | Aerobic respiration  | Pyruvate oxidation, Krebs cycle, ETS         |
+| 12.5 | Balance sheet        | Why 38 ATP is theoretical                    |
+| 12.6 | Amphibolic pathway   | Respiration links catabolism and anabolism   |
+| 12.7 | Respiratory quotient | CO2 evolved to O2 consumed ratio             |
 
 ## 1. Why Respiration Is Needed
 
@@ -352,15 +352,15 @@ Poorly aerated soil can reduce root respiration.
 
 ## 5. Respiration Versus Combustion
 
-| Feature | Respiration | Combustion |
-|---|---|---|
-| Site | Living cells | Outside living control |
-| Control | Enzyme-controlled | Not enzyme-controlled |
-| Temperature | Normal cellular temperature | High temperature |
-| Energy release | Stepwise | Sudden |
-| Energy capture | Partly trapped as ATP | Mostly lost as heat and light |
-| Intermediates | Many useful intermediates | No regulated metabolic intermediates |
-| Cell safety | Compatible with life | Would damage cells if uncontrolled |
+| Feature        | Respiration                 | Combustion                           |
+| -------------- | --------------------------- | ------------------------------------ |
+| Site           | Living cells                | Outside living control               |
+| Control        | Enzyme-controlled           | Not enzyme-controlled                |
+| Temperature    | Normal cellular temperature | High temperature                     |
+| Energy release | Stepwise                    | Sudden                               |
+| Energy capture | Partly trapped as ATP       | Mostly lost as heat and light        |
+| Intermediates  | Many useful intermediates   | No regulated metabolic intermediates |
+| Cell safety    | Compatible with life        | Would damage cells if uncontrolled   |
 
 ## 6. Glycolysis
 
@@ -497,13 +497,13 @@ Therefore:
 
 Per glucose:
 
-| Product | Amount |
-|---|---:|
-| Pyruvate | 2 |
-| ATP used | 2 |
-| ATP formed | 4 |
-| Net ATP | 2 |
-| NADH | 2 |
+| Product    | Amount |
+| ---------- | -----: |
+| Pyruvate   |      2 |
+| ATP used   |      2 |
+| ATP formed |      4 |
+| Net ATP    |      2 |
+| NADH       |      2 |
 
 Net summary:
 
@@ -674,15 +674,15 @@ After glycolysis:
 
 ## 9.2 Location Of Main Events
 
-| Event | Location |
-|---|---|
-| Glycolysis | Cytoplasm |
-| Pyruvate transport | From cytoplasm to mitochondrial matrix |
-| Pyruvate oxidation | Mitochondrial matrix |
-| Krebs cycle | Mitochondrial matrix |
-| ETS | Inner mitochondrial membrane |
-| Proton accumulation | Intermembrane space |
-| ATP synthesis | Inner mitochondrial membrane, matrix side catalytic head |
+| Event               | Location                                                 |
+| ------------------- | -------------------------------------------------------- |
+| Glycolysis          | Cytoplasm                                                |
+| Pyruvate transport  | From cytoplasm to mitochondrial matrix                   |
+| Pyruvate oxidation  | Mitochondrial matrix                                     |
+| Krebs cycle         | Mitochondrial matrix                                     |
+| ETS                 | Inner mitochondrial membrane                             |
+| Proton accumulation | Intermembrane space                                      |
+| ATP synthesis       | Inner mitochondrial membrane, matrix side catalytic head |
 
 ## 10. Pyruvate Oxidation
 
@@ -822,13 +822,13 @@ So per acetyl CoA:
 
 ## 11.7 Products Per Acetyl CoA
 
-| Product | Amount Per Acetyl CoA |
-|---|---:|
-| CO2 | 2 |
-| NADH | 3 |
-| FADH2 | 1 |
-| ATP or GTP | 1 |
-| OAA | Regenerated |
+| Product    | Amount Per Acetyl CoA |
+| ---------- | --------------------: |
+| CO2        |                     2 |
+| NADH       |                     3 |
+| FADH2      |                     1 |
+| ATP or GTP |                     1 |
+| OAA        |           Regenerated |
 
 ## 11.8 Products Per Glucose From Krebs Cycle
 
@@ -836,23 +836,23 @@ One glucose gives two acetyl CoA.
 
 Therefore Krebs cycle per glucose gives:
 
-| Product | Amount Per Glucose |
-|---|---:|
-| CO2 | 4 |
-| NADH | 6 |
-| FADH2 | 2 |
-| ATP or GTP | 2 |
+| Product    | Amount Per Glucose |
+| ---------- | -----------------: |
+| CO2        |                  4 |
+| NADH       |                  6 |
+| FADH2      |                  2 |
+| ATP or GTP |                  2 |
 
 ## 11.9 Pyruvate Oxidation Plus Krebs Cycle Per Glucose
 
 When pyruvate oxidation is included, per glucose:
 
-| Product | Amount |
-|---|---:|
-| CO2 | 6 |
-| NADH | 8 |
-| FADH2 | 2 |
-| ATP or GTP | 2 |
+| Product    | Amount |
+| ---------- | -----: |
+| CO2        |      6 |
+| NADH       |      8 |
+| FADH2      |      2 |
+| ATP or GTP |      2 |
 
 These 8 NADH include:
 
@@ -946,13 +946,13 @@ Oxidative phosphorylation is ATP synthesis coupled with electron transport and o
 
 It differs from photophosphorylation.
 
-| Feature | Photophosphorylation | Oxidative Phosphorylation |
-|---|---|---|
-| Energy input | Light energy | Energy from oxidation-reduction reactions |
-| Organelle in eukaryotes | Chloroplast | Mitochondrion |
-| Membrane | Thylakoid membrane | Inner mitochondrial membrane |
-| Final electron acceptor | NADP+ in non-cyclic flow | O2 |
-| Product emphasis | ATP and NADPH | ATP and water |
+| Feature                 | Photophosphorylation     | Oxidative Phosphorylation                 |
+| ----------------------- | ------------------------ | ----------------------------------------- |
+| Energy input            | Light energy             | Energy from oxidation-reduction reactions |
+| Organelle in eukaryotes | Chloroplast              | Mitochondrion                             |
+| Membrane                | Thylakoid membrane       | Inner mitochondrial membrane              |
+| Final electron acceptor | NADP+ in non-cyclic flow | O2                                        |
+| Product emphasis        | ATP and NADPH            | ATP and water                             |
 
 ## 14.1 Proton Gradient In Mitochondria
 
@@ -972,10 +972,10 @@ Mitochondrial ATP synthase is complex V.
 
 It has two major components:
 
-| Part | Location | Role |
-|---|---|---|
-| F0 | Integral membrane part | Proton channel |
-| F1 | Peripheral headpiece | ATP synthesis catalytic site |
+| Part | Location               | Role                         |
+| ---- | ---------------------- | ---------------------------- |
+| F0   | Integral membrane part | Proton channel               |
+| F1   | Peripheral headpiece   | ATP synthesis catalytic site |
 
 The F1 headpiece faces the mitochondrial matrix.
 
@@ -1000,9 +1000,9 @@ This proton movement down the electrochemical gradient powers ATP synthesis.
 In the textbook treatment:
 
 | Reduced Coenzyme | ATP Yield |
-|---|---:|
-| 1 NADH | 3 ATP |
-| 1 FADH2 | 2 ATP |
+| ---------------- | --------: |
+| 1 NADH           |     3 ATP |
+| 1 FADH2          |     2 ATP |
 
 This convention is used in the chapter balance sheet.
 
@@ -1022,12 +1022,12 @@ This is a theoretical calculation.
 
 Using the chapter convention:
 
-| Stage | Direct ATP | Reduced Coenzymes | ATP From Coenzymes |
-|---|---:|---|---:|
-| Glycolysis | 2 net | 2 NADH | 6 |
-| Pyruvate oxidation | 0 | 2 NADH | 6 |
-| Krebs cycle | 2 | 6 NADH + 2 FADH2 | 18 + 4 |
-| Total | 4 direct | 10 NADH + 2 FADH2 | 34 |
+| Stage              | Direct ATP | Reduced Coenzymes | ATP From Coenzymes |
+| ------------------ | ---------: | ----------------- | -----------------: |
+| Glycolysis         |      2 net | 2 NADH            |                  6 |
+| Pyruvate oxidation |          0 | 2 NADH            |                  6 |
+| Krebs cycle        |          2 | 6 NADH + 2 FADH2  |             18 + 4 |
+| Total              |   4 direct | 10 NADH + 2 FADH2 |                 34 |
 
 Total:
 
@@ -1086,51 +1086,51 @@ The balance sheet helps learners understand:
 
 ## 16. Fermentation Versus Aerobic Respiration
 
-| Feature | Fermentation | Aerobic Respiration |
-|---|---|---|
-| Oxygen requirement | No oxygen needed | Oxygen required |
-| Glucose breakdown | Partial | Complete |
-| Main site | Cytoplasm | Cytoplasm and mitochondria |
-| Final products | Ethanol and CO2, or lactic acid | CO2 and H2O |
-| Net ATP per glucose | 2 | Up to 38 by chapter convention |
-| NADH oxidation | Slower and limited | Efficient through ETS |
-| Energy extraction | Low | High |
-| Common in | Yeast, some bacteria, oxygen-limited cells | Most aerobic organisms |
+| Feature             | Fermentation                               | Aerobic Respiration            |
+| ------------------- | ------------------------------------------ | ------------------------------ |
+| Oxygen requirement  | No oxygen needed                           | Oxygen required                |
+| Glucose breakdown   | Partial                                    | Complete                       |
+| Main site           | Cytoplasm                                  | Cytoplasm and mitochondria     |
+| Final products      | Ethanol and CO2, or lactic acid            | CO2 and H2O                    |
+| Net ATP per glucose | 2                                          | Up to 38 by chapter convention |
+| NADH oxidation      | Slower and limited                         | Efficient through ETS          |
+| Energy extraction   | Low                                        | High                           |
+| Common in           | Yeast, some bacteria, oxygen-limited cells | Most aerobic organisms         |
 
 ## 17. Aerobic And Anaerobic Respiration
 
-| Feature | Aerobic Respiration | Anaerobic Respiration |
-|---|---|---|
-| Oxygen | Required as final acceptor | Not required as final acceptor |
-| Completeness | Complete oxidation common | Usually incomplete in fermentation treatment |
-| ATP yield | High | Low |
-| End products | CO2 and H2O | Ethanol, lactic acid, or other products |
-| ETS use | Present in aerobic respiration | Absent in fermentation |
-| Mitochondrial role in eukaryotes | Major role | Not required for fermentation |
+| Feature                          | Aerobic Respiration            | Anaerobic Respiration                        |
+| -------------------------------- | ------------------------------ | -------------------------------------------- |
+| Oxygen                           | Required as final acceptor     | Not required as final acceptor               |
+| Completeness                     | Complete oxidation common      | Usually incomplete in fermentation treatment |
+| ATP yield                        | High                           | Low                                          |
+| End products                     | CO2 and H2O                    | Ethanol, lactic acid, or other products      |
+| ETS use                          | Present in aerobic respiration | Absent in fermentation                       |
+| Mitochondrial role in eukaryotes | Major role                     | Not required for fermentation                |
 
 ## 18. Glycolysis And Krebs Cycle Compared
 
-| Feature | Glycolysis | Krebs Cycle |
-|---|---|---|
-| Location | Cytoplasm | Mitochondrial matrix |
-| Oxygen direct use | No direct oxygen use | No direct oxygen use |
-| Substrate | Glucose | Acetyl CoA |
-| Main product | Pyruvate | CO2, NADH, FADH2, ATP equivalent |
-| CO2 release | No | Yes |
-| ATP gain | 2 net directly | 2 ATP equivalent per glucose |
-| NADH formation | 2 per glucose | 6 per glucose |
-| FADH2 formation | None | 2 per glucose |
+| Feature           | Glycolysis           | Krebs Cycle                      |
+| ----------------- | -------------------- | -------------------------------- |
+| Location          | Cytoplasm            | Mitochondrial matrix             |
+| Oxygen direct use | No direct oxygen use | No direct oxygen use             |
+| Substrate         | Glucose              | Acetyl CoA                       |
+| Main product      | Pyruvate             | CO2, NADH, FADH2, ATP equivalent |
+| CO2 release       | No                   | Yes                              |
+| ATP gain          | 2 net directly       | 2 ATP equivalent per glucose     |
+| NADH formation    | 2 per glucose        | 6 per glucose                    |
+| FADH2 formation   | None                 | 2 per glucose                    |
 
 ## 19. Glycolysis And Fermentation Compared
 
-| Feature | Glycolysis | Fermentation |
-|---|---|---|
-| Meaning | Glucose to pyruvate | Pyruvate to ethanol or lactic acid |
-| Site | Cytoplasm | Cytoplasm |
-| ATP formation | Net 2 ATP | No additional ATP beyond glycolysis |
-| NADH role | NADH is formed | NADH is oxidised to NAD+ |
-| Oxygen need | Does not directly require oxygen | Occurs without oxygen |
-| Main purpose | Partial oxidation and ATP formation | Regenerate NAD+ |
+| Feature       | Glycolysis                          | Fermentation                        |
+| ------------- | ----------------------------------- | ----------------------------------- |
+| Meaning       | Glucose to pyruvate                 | Pyruvate to ethanol or lactic acid  |
+| Site          | Cytoplasm                           | Cytoplasm                           |
+| ATP formation | Net 2 ATP                           | No additional ATP beyond glycolysis |
+| NADH role     | NADH is formed                      | NADH is oxidised to NAD+            |
+| Oxygen need   | Does not directly require oxygen    | Occurs without oxygen               |
+| Main purpose  | Partial oxidation and ATP formation | Regenerate NAD+                     |
 
 ## 20. Respiratory Pathway As Amphibolic
 
@@ -1263,12 +1263,12 @@ Usually a mixture of substrates is respired.
 
 RQ gives clues about the respiratory substrate being used.
 
-| RQ Value | Likely Substrate |
-|---|---|
-| 1.0 | Carbohydrate |
+| RQ Value    | Likely Substrate              |
+| ----------- | ----------------------------- |
+| 1.0         | Carbohydrate                  |
 | Less than 1 | Fat or protein-rich substrate |
-| About 0.7 | Fat |
-| About 0.9 | Protein |
+| About 0.7   | Fat                           |
+| About 0.9   | Protein                       |
 
 ## 22. Carbon Tracking Through Respiration
 
@@ -1694,36 +1694,36 @@ Stepwise energy release:
 
 ## 29.1 Respiration And Combustion
 
-| Point | Respiration | Combustion |
-|---|---|---|
-| Nature | Biological oxidation | Physical and chemical burning |
-| Enzymes | Required | Not required |
-| Steps | Many small steps | One rapid process |
-| ATP | Formed | Not formed |
-| Heat | Limited and controlled | Large release |
-| Temperature | Cellular | High |
+| Point       | Respiration            | Combustion                    |
+| ----------- | ---------------------- | ----------------------------- |
+| Nature      | Biological oxidation   | Physical and chemical burning |
+| Enzymes     | Required               | Not required                  |
+| Steps       | Many small steps       | One rapid process             |
+| ATP         | Formed                 | Not formed                    |
+| Heat        | Limited and controlled | Large release                 |
+| Temperature | Cellular               | High                          |
 
 ## 29.2 Aerobic Respiration And Fermentation
 
-| Point | Aerobic Respiration | Fermentation |
-|---|---|---|
-| Oxygen | Required | Not required |
-| Site | Cytoplasm and mitochondria | Cytoplasm |
-| Glucose breakdown | Complete | Partial |
-| End products | CO2 and H2O | Ethanol and CO2, or lactic acid |
-| ATP yield | High | Low |
-| NADH oxidation | Through ETS | During conversion of pyruvate |
+| Point             | Aerobic Respiration        | Fermentation                    |
+| ----------------- | -------------------------- | ------------------------------- |
+| Oxygen            | Required                   | Not required                    |
+| Site              | Cytoplasm and mitochondria | Cytoplasm                       |
+| Glucose breakdown | Complete                   | Partial                         |
+| End products      | CO2 and H2O                | Ethanol and CO2, or lactic acid |
+| ATP yield         | High                       | Low                             |
+| NADH oxidation    | Through ETS                | During conversion of pyruvate   |
 
 ## 29.3 Glycolysis And Citric Acid Cycle
 
-| Point | Glycolysis | Citric Acid Cycle |
-|---|---|---|
-| Location | Cytoplasm | Mitochondrial matrix |
-| Starting molecule | Glucose | Acetyl CoA |
-| End product | Pyruvate | OAA regenerated, CO2 released |
-| CO2 release | No | Yes |
-| ATP | 2 net | 2 equivalent per glucose |
-| Reduced coenzymes | NADH | NADH and FADH2 |
+| Point             | Glycolysis | Citric Acid Cycle             |
+| ----------------- | ---------- | ----------------------------- |
+| Location          | Cytoplasm  | Mitochondrial matrix          |
+| Starting molecule | Glucose    | Acetyl CoA                    |
+| End product       | Pyruvate   | OAA regenerated, CO2 released |
+| CO2 release       | No         | Yes                           |
+| ATP               | 2 net      | 2 equivalent per glucose      |
+| Reduced coenzymes | NADH       | NADH and FADH2                |
 
 ## 30. High-Yield Facts
 
@@ -1886,38 +1886,38 @@ RQ = 102 / 145 = 0.72
 
 ## 33. Rapid Revision Sheet
 
-| Topic | One-Line Revision |
-|---|---|
-| Respiration | Stepwise oxidation of food to form ATP |
-| ATP | Energy currency |
-| Respiratory substrate | Molecule oxidised in respiration |
-| Plant gas exchange | Stomata, lenticels, air spaces |
-| Glycolysis | Glucose to pyruvate in cytoplasm |
-| EMP | Embden, Meyerhof, Parnas pathway |
-| Glycolysis ATP | 2 net ATP |
-| Glycolysis NADH | 2 NADH |
-| Pyruvate | Key product of glycolysis |
-| Alcoholic fermentation | Pyruvate to ethanol and CO2 |
-| Lactic fermentation | Pyruvate to lactic acid |
-| Fermentation yield | 2 ATP net |
-| Aerobic respiration | Complete oxidation with oxygen |
-| Pyruvate oxidation | Pyruvate to acetyl CoA |
-| Krebs cycle | Matrix pathway oxidising acetyl CoA |
-| OAA | Regenerated Krebs cycle acceptor |
-| Citrate | First Krebs cycle product |
-| ETS | Inner mitochondrial membrane electron chain |
-| Oxygen | Final electron acceptor |
-| Oxidative phosphorylation | ATP formation using ETS energy |
-| ATP synthase | F0 proton channel and F1 ATP-forming head |
-| Theoretical ATP | 38 per glucose in chapter convention |
-| Amphibolic | Both catabolic and anabolic |
-| RQ | CO2 evolved divided by O2 consumed |
-| Carbohydrate RQ | 1.0 |
-| Fat RQ | Less than 1, about 0.7 |
+| Topic                     | One-Line Revision                           |
+| ------------------------- | ------------------------------------------- |
+| Respiration               | Stepwise oxidation of food to form ATP      |
+| ATP                       | Energy currency                             |
+| Respiratory substrate     | Molecule oxidised in respiration            |
+| Plant gas exchange        | Stomata, lenticels, air spaces              |
+| Glycolysis                | Glucose to pyruvate in cytoplasm            |
+| EMP                       | Embden, Meyerhof, Parnas pathway            |
+| Glycolysis ATP            | 2 net ATP                                   |
+| Glycolysis NADH           | 2 NADH                                      |
+| Pyruvate                  | Key product of glycolysis                   |
+| Alcoholic fermentation    | Pyruvate to ethanol and CO2                 |
+| Lactic fermentation       | Pyruvate to lactic acid                     |
+| Fermentation yield        | 2 ATP net                                   |
+| Aerobic respiration       | Complete oxidation with oxygen              |
+| Pyruvate oxidation        | Pyruvate to acetyl CoA                      |
+| Krebs cycle               | Matrix pathway oxidising acetyl CoA         |
+| OAA                       | Regenerated Krebs cycle acceptor            |
+| Citrate                   | First Krebs cycle product                   |
+| ETS                       | Inner mitochondrial membrane electron chain |
+| Oxygen                    | Final electron acceptor                     |
+| Oxidative phosphorylation | ATP formation using ETS energy              |
+| ATP synthase              | F0 proton channel and F1 ATP-forming head   |
+| Theoretical ATP           | 38 per glucose in chapter convention        |
+| Amphibolic                | Both catabolic and anabolic                 |
+| RQ                        | CO2 evolved divided by O2 consumed          |
+| Carbohydrate RQ           | 1.0                                         |
+| Fat RQ                    | Less than 1, about 0.7                      |
 
 ## 34. Raw File Reference
 
-| Item | Path |
-|---|---|
-| Raw input | `data/class_11/biology/chapter_12.md` |
+| Item             | Path                                             |
+| ---------------- | ------------------------------------------------ |
+| Raw input        | `data/class_11/biology/chapter_12.md`            |
 | Formatted output | `data_learner_md/class_11/biology/chapter_12.md` |

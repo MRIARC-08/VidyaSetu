@@ -1,19 +1,20 @@
 # Chapter 6: Political Parties
+
 ### NCERT Class 10 - Social Civics
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-| --- | --- |
-| Class | 10 |
-| Subject | Social Civics |
-| Chapter | 6 - Political Parties |
-| Central Question | Why are political parties necessary in representative democracy, and what problems must they reform? |
-| Main Themes | Meaning of political party, functions, necessity, party systems, national and state parties, challenges, reforms |
-| Main Skills | Defining institutions, comparing party systems, identifying functions, evaluating reform proposals |
-| Exam Importance | Very high: functions of parties, one-party/two-party/multiparty systems, national parties, challenges, reforms |
+| Detail           | Learner-Friendly Information                                                                                     |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Class            | 10                                                                                                               |
+| Subject          | Social Civics                                                                                                    |
+| Chapter          | 6 - Political Parties                                                                                            |
+| Central Question | Why are political parties necessary in representative democracy, and what problems must they reform?             |
+| Main Themes      | Meaning of political party, functions, necessity, party systems, national and state parties, challenges, reforms |
+| Main Skills      | Defining institutions, comparing party systems, identifying functions, evaluating reform proposals               |
+| Exam Importance  | Very high: functions of parties, one-party/two-party/multiparty systems, national parties, challenges, reforms   |
 
 ---
 
@@ -46,15 +47,15 @@ The key idea is:
 
 After studying this chapter, you should be able to:
 
-| Skill | You Should Be Able To |
-| --- | --- |
-| Define | Explain political party, partisan, partisanship, ruling party, opposition party, one-party system, two-party system, multiparty system, coalition, alliance, recognised party, defection, affidavit. |
-| Describe | Explain the three components and seven functions of political parties. |
-| Analyse | Explain why modern democracies need political parties. |
-| Compare | Distinguish one-party, two-party, and multiparty systems. |
-| Identify | Name major national parties and their broad ideas. |
-| Evaluate | Explain the four major challenges faced by political parties. |
-| Suggest | Write reforms to strengthen political parties. |
+| Skill    | You Should Be Able To                                                                                                                                                                                |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Define   | Explain political party, partisan, partisanship, ruling party, opposition party, one-party system, two-party system, multiparty system, coalition, alliance, recognised party, defection, affidavit. |
+| Describe | Explain the three components and seven functions of political parties.                                                                                                                               |
+| Analyse  | Explain why modern democracies need political parties.                                                                                                                                               |
+| Compare  | Distinguish one-party, two-party, and multiparty systems.                                                                                                                                            |
+| Identify | Name major national parties and their broad ideas.                                                                                                                                                   |
+| Evaluate | Explain the four major challenges faced by political parties.                                                                                                                                        |
+| Suggest  | Write reforms to strengthen political parties.                                                                                                                                                       |
 
 ---
 
@@ -88,25 +89,25 @@ Legal reforms help, but citizens, media, pressure groups, and party members must
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Political Party | Group of people who come together to contest elections and hold power in government. |
-| Partisan | Person strongly committed to a party, group, or faction. |
-| Partisanship | Tendency to take a side and support one party or view. |
-| Ruling Party | Party that runs the government. |
-| Opposition Party | Party that loses election and criticises or checks the party in power. |
-| Coalition | Government or alliance formed by two or more political parties. |
-| Alliance / Front | Grouping of parties that join hands to contest elections or form government. |
-| One-Party System | System where only one party is allowed to control government. |
-| Two-Party System | System where power usually changes between two main parties. |
-| Multiparty System | System where several parties compete and more than two have a chance to influence or form government. |
-| Recognised Political Party | Party given special recognition and facilities by the Election Commission based on votes and seats. |
-| National Party | Recognised party with presence and vote share across several states. |
-| State Party | Recognised party that meets vote and seat criteria in a state. |
-| Defection | Changing party allegiance after being elected on one party's ticket. |
-| Affidavit | Sworn signed document submitted by a candidate giving personal details such as property and criminal cases. |
-| Internal Democracy | Democratic functioning inside a party through elections, transparency, and member participation. |
-| Dynastic Succession | Political power within a party passing to family members of top leaders. |
+| Term                       | Meaning                                                                                                     |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| Political Party            | Group of people who come together to contest elections and hold power in government.                        |
+| Partisan                   | Person strongly committed to a party, group, or faction.                                                    |
+| Partisanship               | Tendency to take a side and support one party or view.                                                      |
+| Ruling Party               | Party that runs the government.                                                                             |
+| Opposition Party           | Party that loses election and criticises or checks the party in power.                                      |
+| Coalition                  | Government or alliance formed by two or more political parties.                                             |
+| Alliance / Front           | Grouping of parties that join hands to contest elections or form government.                                |
+| One-Party System           | System where only one party is allowed to control government.                                               |
+| Two-Party System           | System where power usually changes between two main parties.                                                |
+| Multiparty System          | System where several parties compete and more than two have a chance to influence or form government.       |
+| Recognised Political Party | Party given special recognition and facilities by the Election Commission based on votes and seats.         |
+| National Party             | Recognised party with presence and vote share across several states.                                        |
+| State Party                | Recognised party that meets vote and seat criteria in a state.                                              |
+| Defection                  | Changing party allegiance after being elected on one party's ticket.                                        |
+| Affidavit                  | Sworn signed document submitted by a candidate giving personal details such as property and criminal cases. |
+| Internal Democracy         | Democratic functioning inside a party through elections, transparency, and member participation.            |
+| Dynastic Succession        | Political power within a party passing to family members of top leaders.                                    |
 
 ---
 
@@ -139,11 +140,11 @@ A party is known by:
 
 Every political party has three main components:
 
-| Component | Meaning |
-| --- | --- |
-| Leaders | People who guide and represent the party. |
-| Active members | People who work regularly for the party. |
-| Followers | Supporters and voters who identify with the party. |
+| Component      | Meaning                                            |
+| -------------- | -------------------------------------------------- |
+| Leaders        | People who guide and represent the party.          |
+| Active members | People who work regularly for the party.           |
+| Followers      | Supporters and voters who identify with the party. |
 
 ---
 
@@ -227,15 +228,15 @@ Parties help people access:
 
 ## Functions Summary Table
 
-| Function | Key Idea |
-| --- | --- |
-| Contest elections | Select candidates and compete for votes |
-| Policies and programmes | Offer choices to voters |
-| Law-making | Guide legislators |
-| Government formation | Run administration |
-| Opposition | Criticise and check government |
-| Public opinion | Raise and shape issues |
-| Access | Connect citizens to government |
+| Function                | Key Idea                                |
+| ----------------------- | --------------------------------------- |
+| Contest elections       | Select candidates and compete for votes |
+| Policies and programmes | Offer choices to voters                 |
+| Law-making              | Guide legislators                       |
+| Government formation    | Run administration                      |
+| Opposition              | Criticise and check government          |
+| Public opinion          | Raise and shape issues                  |
+| Access                  | Connect citizens to government          |
 
 ---
 
@@ -326,12 +327,12 @@ Examples from India:
 
 ## Is Multiparty System Good or Bad?
 
-| Advantage | Disadvantage |
-| --- | --- |
-| Represents many interests and opinions | Can appear messy |
-| Fits diverse society | May create instability |
-| Gives space to regional parties | Coalition management can be difficult |
-| Strengthens federalism | Policy-making may need compromise |
+| Advantage                              | Disadvantage                          |
+| -------------------------------------- | ------------------------------------- |
+| Represents many interests and opinions | Can appear messy                      |
+| Fits diverse society                   | May create instability                |
+| Gives space to regional parties        | Coalition management can be difficult |
+| Strengthens federalism                 | Policy-making may need compromise     |
 
 ## Important Understanding
 
@@ -766,29 +767,29 @@ The problem of bad politics can be solved by more and better politics.
 
 ## Party Systems
 
-| System | Meaning | Example | Democratic? |
-| --- | --- | --- | --- |
-| One-party | Only one party effectively rules | China | No, because free competition is absent |
-| Two-party | Two main parties compete for power | USA, UK | Yes |
-| Multiparty | Several parties compete and form alliances | India | Yes |
+| System     | Meaning                                    | Example | Democratic?                            |
+| ---------- | ------------------------------------------ | ------- | -------------------------------------- |
+| One-party  | Only one party effectively rules           | China   | No, because free competition is absent |
+| Two-party  | Two main parties compete for power         | USA, UK | Yes                                    |
+| Multiparty | Several parties compete and form alliances | India   | Yes                                    |
 
 ## Pressure Group vs Political Party
 
-| Basis | Pressure Group | Political Party |
-| --- | --- | --- |
-| Aim | Influence policy | Win power |
-| Election | Usually does not contest to form government | Contests elections |
-| Programme | Often narrow or issue-based | Broader political programme |
-| Example | Trade union | BJP, INC, AAP |
+| Basis     | Pressure Group                              | Political Party             |
+| --------- | ------------------------------------------- | --------------------------- |
+| Aim       | Influence policy                            | Win power                   |
+| Election  | Usually does not contest to form government | Contests elections          |
+| Programme | Often narrow or issue-based                 | Broader political programme |
+| Example   | Trade union                                 | BJP, INC, AAP               |
 
 ## Challenges and Reforms
 
-| Challenge | Possible Reform |
-| --- | --- |
+| Challenge                  | Possible Reform                                         |
+| -------------------------- | ------------------------------------------------------- |
 | Lack of internal democracy | Internal elections, member registers, transparent rules |
-| Dynastic succession | Open candidate selection and internal democracy |
-| Money and muscle power | Affidavits, election spending limits, state funding |
-| Lack of meaningful choice | Stronger ideology, internal debate, public pressure |
+| Dynastic succession        | Open candidate selection and internal democracy         |
+| Money and muscle power     | Affidavits, election spending limits, state funding     |
+| Lack of meaningful choice  | Stronger ideology, internal debate, public pressure     |
 
 ---
 
@@ -820,12 +821,12 @@ A group of people who come together to contest elections and hold power in gover
 
 ## Q7: Match alliances and parties
 
-| Party | Alliance / Type |
-| --- | --- |
-| Congress Party | United Progressive Alliance |
+| Party                  | Alliance / Type              |
+| ---------------------- | ---------------------------- |
+| Congress Party         | United Progressive Alliance  |
 | Bharatiya Janata Party | National Democratic Alliance |
-| CPI(M) | Left Front |
-| Telugu Desam Party | State party |
+| CPI(M)                 | Left Front                   |
+| Telugu Desam Party     | State party                  |
 
 Correct option: **(a) C A D B**
 
@@ -855,15 +856,15 @@ Yunus's decision can be defended because traditional parties may not always brin
 
 # Common Mistakes to Avoid
 
-| Mistake | Correct Understanding |
-| --- | --- |
-| "Parties only divide people." | Parties organise views and make representative democracy possible. |
-| "One-party system is efficient, so it is democratic." | Democracy requires free competition and fair chance to replace rulers. |
-| "Multiparty system is always bad." | It can be messy but represents diversity. |
-| "Recognised party means ruling party." | Recognition is given by Election Commission based on votes and seats. |
-| "State parties are always narrow-minded regional parties." | Many have broader ideologies but succeed mainly in some states. |
-| "Anti-defection law solves all party problems." | It reduces switching but also limits dissent. |
-| "Legal reforms alone can fix politics." | Citizens must participate and pressure parties. |
+| Mistake                                                    | Correct Understanding                                                  |
+| ---------------------------------------------------------- | ---------------------------------------------------------------------- |
+| "Parties only divide people."                              | Parties organise views and make representative democracy possible.     |
+| "One-party system is efficient, so it is democratic."      | Democracy requires free competition and fair chance to replace rulers. |
+| "Multiparty system is always bad."                         | It can be messy but represents diversity.                              |
+| "Recognised party means ruling party."                     | Recognition is given by Election Commission based on votes and seats.  |
+| "State parties are always narrow-minded regional parties." | Many have broader ideologies but succeed mainly in some states.        |
+| "Anti-defection law solves all party problems."            | It reduces switching but also limits dissent.                          |
+| "Legal reforms alone can fix politics."                    | Citizens must participate and pressure parties.                        |
 
 ---
 
@@ -944,4 +945,3 @@ Before moving to the next chapter, make sure you can:
 - [ ] Explain anti-defection law and affidavits.
 - [ ] Suggest reforms for parties.
 - [ ] Solve NCERT exercise questions.
-

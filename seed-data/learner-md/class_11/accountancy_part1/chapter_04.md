@@ -1,4 +1,5 @@
 # Chapter 4: Recording of Transactions - II
+
 ### NCERT Class 11 - Accountancy Part 1
 
 ## Chapter at a Glance
@@ -7,15 +8,15 @@ Chapter 3 explained how transactions are recorded in the journal and posted to l
 
 These special books are also called subsidiary books or day books.
 
-| Special Book | Records |
-|---|---|
-| Cash Book | Cash and bank receipts and payments |
-| Petty Cash Book | Small regular cash payments |
-| Purchases Book | Credit purchases of goods |
-| Purchases Return Book | Goods returned to suppliers |
-| Sales Book | Credit sales of goods |
-| Sales Return Book | Goods returned by customers |
-| Journal Proper | Entries that do not fit any special book |
+| Special Book          | Records                                  |
+| --------------------- | ---------------------------------------- |
+| Cash Book             | Cash and bank receipts and payments      |
+| Petty Cash Book       | Small regular cash payments              |
+| Purchases Book        | Credit purchases of goods                |
+| Purchases Return Book | Goods returned to suppliers              |
+| Sales Book            | Credit sales of goods                    |
+| Sales Return Book     | Goods returned by customers              |
+| Journal Proper        | Entries that do not fit any special book |
 
 ## Learning Outcomes
 
@@ -38,27 +39,27 @@ After studying this chapter, a learner should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Subsidiary book | A special book used for one class of repeated transactions |
-| Day book | Another name for a subsidiary book |
-| Cash book | Book for cash and bank transactions |
-| Single column cash book | Cash book with one amount column on each side |
-| Double column cash book | Cash book with cash and bank columns on both sides |
-| Contra entry | Entry affecting both cash and bank columns of the same cash book |
-| Bank overdraft | Credit balance in bank column caused when withdrawals exceed bank balance |
-| Petty cash book | Book for small payments |
-| Imprest amount | Fixed amount given to petty cashier at the start of a period |
-| Purchases book | Book for credit purchases of goods |
-| Sales book | Book for credit sales of goods |
-| Return outwards | Goods returned to suppliers |
-| Return inwards | Goods returned by customers |
-| Debit note | Document used when supplier's account is debited |
-| Credit note | Document used when customer's account is credited |
-| Journal proper | Residual journal for entries not recorded in special books |
-| Balancing | Finding the difference between debit and credit sides of an account |
-| Trade discount | Discount deducted from list price before invoice amount is recorded |
-| Cash discount | Discount allowed or received for prompt payment or settlement |
+| Term                    | Meaning                                                                   |
+| ----------------------- | ------------------------------------------------------------------------- |
+| Subsidiary book         | A special book used for one class of repeated transactions                |
+| Day book                | Another name for a subsidiary book                                        |
+| Cash book               | Book for cash and bank transactions                                       |
+| Single column cash book | Cash book with one amount column on each side                             |
+| Double column cash book | Cash book with cash and bank columns on both sides                        |
+| Contra entry            | Entry affecting both cash and bank columns of the same cash book          |
+| Bank overdraft          | Credit balance in bank column caused when withdrawals exceed bank balance |
+| Petty cash book         | Book for small payments                                                   |
+| Imprest amount          | Fixed amount given to petty cashier at the start of a period              |
+| Purchases book          | Book for credit purchases of goods                                        |
+| Sales book              | Book for credit sales of goods                                            |
+| Return outwards         | Goods returned to suppliers                                               |
+| Return inwards          | Goods returned by customers                                               |
+| Debit note              | Document used when supplier's account is debited                          |
+| Credit note             | Document used when customer's account is credited                         |
+| Journal proper          | Residual journal for entries not recorded in special books                |
+| Balancing               | Finding the difference between debit and credit sides of an account       |
+| Trade discount          | Discount deducted from list price before invoice amount is recorded       |
+| Cash discount           | Discount allowed or received for prompt payment or settlement             |
 
 # Unit 4A: Why Special Books Are Needed
 
@@ -82,33 +83,33 @@ If all of these are recorded only in the journal proper, the record becomes bulk
 
 Special books provide:
 
-| Benefit | Explanation |
-|---|---|
-| Faster recording | Similar transactions are recorded in one place |
-| Division of work | Different clerks can maintain different books |
-| Better checking | Totals can be verified periodically |
-| Less posting work | Periodic totals are posted to control accounts |
-| Clear classification | Purchases, sales, returns, cash, and bank are separated |
-| Less repetition | Similar narrations and ledger postings are reduced |
-| Stronger control | Missing invoices, return notes, and cash entries are easier to detect |
+| Benefit              | Explanation                                                           |
+| -------------------- | --------------------------------------------------------------------- |
+| Faster recording     | Similar transactions are recorded in one place                        |
+| Division of work     | Different clerks can maintain different books                         |
+| Better checking      | Totals can be verified periodically                                   |
+| Less posting work    | Periodic totals are posted to control accounts                        |
+| Clear classification | Purchases, sales, returns, cash, and bank are separated               |
+| Less repetition      | Similar narrations and ledger postings are reduced                    |
+| Stronger control     | Missing invoices, return notes, and cash entries are easier to detect |
 
 ## Which Book Should Be Used?
 
-| Transaction | Book |
-|---|---|
-| Cash sale of goods | Cash book |
-| Credit sale of goods | Sales book |
-| Cash purchase of goods | Cash book |
-| Credit purchase of goods | Purchases book |
-| Credit purchase of furniture | Journal proper |
-| Cash purchase of furniture | Cash book |
-| Goods returned to supplier | Purchases return book |
-| Goods returned by customer | Sales return book |
-| Owner withdraws cash | Cash book |
-| Owner withdraws goods | Journal proper |
-| Depreciation | Journal proper |
-| Outstanding salary | Journal proper |
-| Bank charges | Cash book, bank column |
+| Transaction                  | Book                   |
+| ---------------------------- | ---------------------- |
+| Cash sale of goods           | Cash book              |
+| Credit sale of goods         | Sales book             |
+| Cash purchase of goods       | Cash book              |
+| Credit purchase of goods     | Purchases book         |
+| Credit purchase of furniture | Journal proper         |
+| Cash purchase of furniture   | Cash book              |
+| Goods returned to supplier   | Purchases return book  |
+| Goods returned by customer   | Sales return book      |
+| Owner withdraws cash         | Cash book              |
+| Owner withdraws goods        | Journal proper         |
+| Depreciation                 | Journal proper         |
+| Outstanding salary           | Journal proper         |
+| Bank charges                 | Cash book, bank column |
 
 # Unit 4B: Cash Book
 
@@ -127,9 +128,9 @@ When a cash book is maintained:
 
 ## Debit and Credit Side of Cash Book
 
-| Side | Records | Meaning |
-|---|---|---|
-| Debit side | Receipts | Cash or bank comes in |
+| Side        | Records  | Meaning               |
+| ----------- | -------- | --------------------- |
+| Debit side  | Receipts | Cash or bank comes in |
 | Credit side | Payments | Cash or bank goes out |
 
 Cash in hand cannot normally have a credit balance because a business cannot pay more physical cash than it has.
@@ -146,8 +147,8 @@ A single column cash book has one amount column on each side. It records only ca
 Format:
 
 | Date | Receipts | L.F. | Amount Rs. | Date | Payments | L.F. | Amount Rs. |
-|---|---|---|---:|---|---|---|---:|
-|  |  |  |  |  |  |  |  |
+| ---- | -------- | ---- | ---------: | ---- | -------- | ---- | ---------: |
+|      |          |      |            |      |          |      |            |
 
 ## When Single Column Cash Book Is Used
 
@@ -164,36 +165,36 @@ It is used when:
 
 M/s Roopa Traders has the following transactions:
 
-| Date | Details | Rs. |
-|---|---|---:|
-| Nov. 1 | Cash in hand | 30,000 |
-| Nov. 4 | Cash received from Gurmeet | 12,000 |
-| Nov. 8 | Insurance paid | 6,000 |
-| Nov. 13 | Furniture purchased | 13,800 |
-| Nov. 16 | Goods sold for cash | 28,000 |
-| Nov. 17 | Goods purchased for cash | 17,400 |
-| Nov. 20 | Stationery purchased | 1,100 |
-| Nov. 24 | Cash paid to Rukmani | 12,500 |
-| Nov. 27 | Goods sold for cash | 18,200 |
-| Nov. 30 | Rent paid | 2,500 |
-| Nov. 30 | Salary paid | 3,500 |
-| Nov. 30 | Cash deposited in bank | 8,000 |
+| Date    | Details                    |    Rs. |
+| ------- | -------------------------- | -----: |
+| Nov. 1  | Cash in hand               | 30,000 |
+| Nov. 4  | Cash received from Gurmeet | 12,000 |
+| Nov. 8  | Insurance paid             |  6,000 |
+| Nov. 13 | Furniture purchased        | 13,800 |
+| Nov. 16 | Goods sold for cash        | 28,000 |
+| Nov. 17 | Goods purchased for cash   | 17,400 |
+| Nov. 20 | Stationery purchased       |  1,100 |
+| Nov. 24 | Cash paid to Rukmani       | 12,500 |
+| Nov. 27 | Goods sold for cash        | 18,200 |
+| Nov. 30 | Rent paid                  |  2,500 |
+| Nov. 30 | Salary paid                |  3,500 |
+| Nov. 30 | Cash deposited in bank     |  8,000 |
 
 ## Cash Book
 
-| Date | Receipts | Amount Rs. | Date | Payments | Amount Rs. |
-|---|---|---:|---|---|---:|
-| Nov. 1 | Balance b/d | 30,000 | Nov. 8 | Insurance | 6,000 |
-| Nov. 4 | Gurmeet | 12,000 | Nov. 13 | Furniture | 13,800 |
-| Nov. 16 | Sales | 28,000 | Nov. 17 | Purchases | 17,400 |
-| Nov. 27 | Sales | 18,200 | Nov. 20 | Stationery | 1,100 |
-|  |  |  | Nov. 24 | Rukmani | 12,500 |
-|  |  |  | Nov. 30 | Rent | 2,500 |
-|  |  |  | Nov. 30 | Salary | 3,500 |
-|  |  |  | Nov. 30 | Bank | 8,000 |
-|  |  |  | Nov. 30 | Balance c/d | 23,400 |
-|  | Total | 88,200 |  | Total | 88,200 |
-| Dec. 1 | Balance b/d | 23,400 |  |  |  |
+| Date    | Receipts    | Amount Rs. | Date    | Payments    | Amount Rs. |
+| ------- | ----------- | ---------: | ------- | ----------- | ---------: |
+| Nov. 1  | Balance b/d |     30,000 | Nov. 8  | Insurance   |      6,000 |
+| Nov. 4  | Gurmeet     |     12,000 | Nov. 13 | Furniture   |     13,800 |
+| Nov. 16 | Sales       |     28,000 | Nov. 17 | Purchases   |     17,400 |
+| Nov. 27 | Sales       |     18,200 | Nov. 20 | Stationery  |      1,100 |
+|         |             |            | Nov. 24 | Rukmani     |     12,500 |
+|         |             |            | Nov. 30 | Rent        |      2,500 |
+|         |             |            | Nov. 30 | Salary      |      3,500 |
+|         |             |            | Nov. 30 | Bank        |      8,000 |
+|         |             |            | Nov. 30 | Balance c/d |     23,400 |
+|         | Total       |     88,200 |         | Total       |     88,200 |
+| Dec. 1  | Balance b/d |     23,400 |         |             |            |
 
 ## Working of Balance
 
@@ -245,8 +246,8 @@ It records both cash and bank transactions.
 Format:
 
 | Date | Receipts | L.F. | Cash Rs. | Bank Rs. | Date | Payments | L.F. | Cash Rs. | Bank Rs. |
-|---|---|---|---:|---:|---|---|---|---:|---:|
-|  |  |  |  |  |  |  |  |  |  |
+| ---- | -------- | ---- | -------: | -------: | ---- | -------- | ---- | -------: | -------: |
+|      |          |      |          |          |      |          |      |          |          |
 
 ## Why Bank Column Is Useful
 
@@ -265,18 +266,18 @@ Adding a bank column keeps bank information available without opening a separate
 
 ## Bank Terms Learners Must Know
 
-| Term | Meaning |
-|---|---|
-| Pay-in slip | Form used to deposit cash or cheque into bank |
-| Cheque | Written order to bank to pay money |
-| Bearer cheque | Paid to the person holding the cheque |
-| Order cheque | Paid to named person or their order |
-| Crossed cheque | Paid through bank account, not directly over counter |
-| Account payee crossing | Amount must go only into named person's account |
-| Special crossing | Cheque must be collected through a named bank |
-| Endorsement | Transfer of cheque by signing on its back |
-| Dishonour | Bank refuses payment, usually due to insufficient funds |
-| Overdraft | Bank allows withdrawal beyond available balance |
+| Term                   | Meaning                                                 |
+| ---------------------- | ------------------------------------------------------- |
+| Pay-in slip            | Form used to deposit cash or cheque into bank           |
+| Cheque                 | Written order to bank to pay money                      |
+| Bearer cheque          | Paid to the person holding the cheque                   |
+| Order cheque           | Paid to named person or their order                     |
+| Crossed cheque         | Paid through bank account, not directly over counter    |
+| Account payee crossing | Amount must go only into named person's account         |
+| Special crossing       | Cheque must be collected through a named bank           |
+| Endorsement            | Transfer of cheque by signing on its back               |
+| Dishonour              | Bank refuses payment, usually due to insufficient funds |
+| Overdraft              | Bank allows withdrawal beyond available balance         |
 
 ## Contra Entry
 
@@ -284,31 +285,31 @@ A contra entry affects both cash and bank columns of the cash book. It is marked
 
 Common contra entries:
 
-| Transaction | Debit Side | Credit Side |
-|---|---|---|
-| Cash deposited into bank | Bank column | Cash column |
-| Cash withdrawn from bank for office use | Cash column | Bank column |
+| Transaction                                 | Debit Side  | Credit Side |
+| ------------------------------------------- | ----------- | ----------- |
+| Cash deposited into bank                    | Bank column | Cash column |
+| Cash withdrawn from bank for office use     | Cash column | Bank column |
 | Cheque received earlier and deposited later | Bank column | Cash column |
 
 Contra entries are not posted to ledger because both accounts affected are already inside the cash book.
 
 ## Cheque Received: Same Day Versus Later Deposit
 
-| Situation | Recording |
-|---|---|
-| Cheque received and deposited same day | Debit bank column |
-| Cheque received but kept in office | Debit cash column first |
-| Later deposited into bank | Contra entry: debit bank column and credit cash column |
-| Cheque dishonoured after deposit | Credit bank column and write customer's name |
+| Situation                              | Recording                                              |
+| -------------------------------------- | ------------------------------------------------------ |
+| Cheque received and deposited same day | Debit bank column                                      |
+| Cheque received but kept in office     | Debit cash column first                                |
+| Later deposited into bank              | Contra entry: debit bank column and credit cash column |
+| Cheque dishonoured after deposit       | Credit bank column and write customer's name           |
 
 ## Bank Charges and Interest
 
-| Transaction | Cash Book Treatment |
-|---|---|
-| Bank charges debited by bank | Credit side, bank column |
-| Bank interest charged | Credit side, bank column |
-| Interest collected by bank for business | Debit side, bank column |
-| Dividend collected by bank | Debit side, bank column |
+| Transaction                             | Cash Book Treatment      |
+| --------------------------------------- | ------------------------ |
+| Bank charges debited by bank            | Credit side, bank column |
+| Bank interest charged                   | Credit side, bank column |
+| Interest collected by bank for business | Debit side, bank column  |
+| Dividend collected by bank              | Debit side, bank column  |
 
 # Unit 4E: Double Column Cash Book Worked Example
 
@@ -316,36 +317,36 @@ Contra entries are not posted to ledger because both accounts affected are alrea
 
 M/s Tools India:
 
-| Date | Details | Rs. |
-|---|---|---:|
-| Sept. 1 | Bank balance | 42,000 |
-| Sept. 1 | Cash balance | 15,000 |
-| Sept. 4 | Goods purchased by cheque | 12,000 |
-| Sept. 8 | Goods sold for cash | 6,000 |
-| Sept. 13 | Machinery purchased by cheque | 5,500 |
-| Sept. 16 | Goods sold, cheque received and deposited same day | 4,500 |
-| Sept. 17 | Goods purchased for cash | 17,400 |
-| Sept. 20 | Stationery purchased by cheque | 1,100 |
-| Sept. 24 | Cheque given to Rohit | 1,500 |
-| Sept. 27 | Cash withdrawn from bank | 10,000 |
-| Sept. 30 | Rent paid by cheque | 2,500 |
-| Sept. 30 | Salary paid in cash | 3,500 |
+| Date     | Details                                            |    Rs. |
+| -------- | -------------------------------------------------- | -----: |
+| Sept. 1  | Bank balance                                       | 42,000 |
+| Sept. 1  | Cash balance                                       | 15,000 |
+| Sept. 4  | Goods purchased by cheque                          | 12,000 |
+| Sept. 8  | Goods sold for cash                                |  6,000 |
+| Sept. 13 | Machinery purchased by cheque                      |  5,500 |
+| Sept. 16 | Goods sold, cheque received and deposited same day |  4,500 |
+| Sept. 17 | Goods purchased for cash                           | 17,400 |
+| Sept. 20 | Stationery purchased by cheque                     |  1,100 |
+| Sept. 24 | Cheque given to Rohit                              |  1,500 |
+| Sept. 27 | Cash withdrawn from bank                           | 10,000 |
+| Sept. 30 | Rent paid by cheque                                |  2,500 |
+| Sept. 30 | Salary paid in cash                                |  3,500 |
 
 ## Cash Book
 
-| Date | Receipts | Cash Rs. | Bank Rs. | Date | Payments | Cash Rs. | Bank Rs. |
-|---|---|---:|---:|---|---|---:|---:|
-| Sept. 1 | Balance b/d | 15,000 | 42,000 | Sept. 4 | Purchases |  | 12,000 |
-| Sept. 8 | Sales | 6,000 |  | Sept. 13 | Machinery |  | 5,500 |
-| Sept. 16 | Sales |  | 4,500 | Sept. 17 | Purchases | 17,400 |  |
-| Sept. 27 | Bank C | 10,000 |  | Sept. 20 | Stationery |  | 1,100 |
-|  |  |  |  | Sept. 24 | Rohit |  | 1,500 |
-|  |  |  |  | Sept. 27 | Cash C |  | 10,000 |
-|  |  |  |  | Sept. 30 | Rent |  | 2,500 |
-|  |  |  |  | Sept. 30 | Salary | 3,500 |  |
-|  |  |  |  | Sept. 30 | Balance c/d | 10,100 | 13,900 |
-|  | Total | 31,000 | 46,500 |  | Total | 31,000 | 46,500 |
-| Oct. 1 | Balance b/d | 10,100 | 13,900 |  |  |  |  |
+| Date     | Receipts    | Cash Rs. | Bank Rs. | Date     | Payments    | Cash Rs. | Bank Rs. |
+| -------- | ----------- | -------: | -------: | -------- | ----------- | -------: | -------: |
+| Sept. 1  | Balance b/d |   15,000 |   42,000 | Sept. 4  | Purchases   |          |   12,000 |
+| Sept. 8  | Sales       |    6,000 |          | Sept. 13 | Machinery   |          |    5,500 |
+| Sept. 16 | Sales       |          |    4,500 | Sept. 17 | Purchases   |   17,400 |          |
+| Sept. 27 | Bank C      |   10,000 |          | Sept. 20 | Stationery  |          |    1,100 |
+|          |             |          |          | Sept. 24 | Rohit       |          |    1,500 |
+|          |             |          |          | Sept. 27 | Cash C      |          |   10,000 |
+|          |             |          |          | Sept. 30 | Rent        |          |    2,500 |
+|          |             |          |          | Sept. 30 | Salary      |    3,500 |          |
+|          |             |          |          | Sept. 30 | Balance c/d |   10,100 |   13,900 |
+|          | Total       |   31,000 |   46,500 |          | Total       |   31,000 |   46,500 |
+| Oct. 1   | Balance b/d |   10,100 |   13,900 |          |             |          |          |
 
 ## Ledger Posting From Double Column Cash Book
 
@@ -360,13 +361,13 @@ Post all other names appearing in the cash book.
 
 Examples:
 
-| Cash Book Entry | Ledger Posting |
-|---|---|
-| Sales Rs. 6,000 on debit side, cash column | Credit Sales A/c |
+| Cash Book Entry                                  | Ledger Posting      |
+| ------------------------------------------------ | ------------------- |
+| Sales Rs. 6,000 on debit side, cash column       | Credit Sales A/c    |
 | Purchases Rs. 12,000 on credit side, bank column | Debit Purchases A/c |
-| Machinery Rs. 5,500 on credit side, bank column | Debit Machinery A/c |
-| Rohit Rs. 1,500 on credit side, bank column | Debit Rohit A/c |
-| Rent Rs. 2,500 on credit side, bank column | Debit Rent A/c |
+| Machinery Rs. 5,500 on credit side, bank column  | Debit Machinery A/c |
+| Rohit Rs. 1,500 on credit side, bank column      | Debit Rohit A/c     |
+| Rent Rs. 2,500 on credit side, bank column       | Debit Rent A/c      |
 
 # Unit 4F: Petty Cash Book
 
@@ -418,20 +419,20 @@ Opening amount for next month again becomes:
 
 ## Advantages of Petty Cash Book
 
-| Advantage | Explanation |
-|---|---|
-| Saves main cashier's time | Chief cashier handles major receipts and payments |
-| Better control | Petty cashier is accountable for small cash |
-| Convenient recording | Small expenses are grouped in columns |
-| Less ledger work | Periodic column totals are posted, not every tiny payment |
-| Materiality | Main cash book shows important transactions clearly |
-| Reduced errors | Similar small payments are classified immediately |
+| Advantage                 | Explanation                                               |
+| ------------------------- | --------------------------------------------------------- |
+| Saves main cashier's time | Chief cashier handles major receipts and payments         |
+| Better control            | Petty cashier is accountable for small cash               |
+| Convenient recording      | Small expenses are grouped in columns                     |
+| Less ledger work          | Periodic column totals are posted, not every tiny payment |
+| Materiality               | Main cash book shows important transactions clearly       |
+| Reduced errors            | Similar small payments are classified immediately         |
 
 ## Analytical Petty Cash Book Format
 
 | Amount Received Rs. | Date | Particulars | Voucher No. | Total Paid Rs. | Postage Rs. | Conveyance Rs. | Stationery Rs. | Telephone Rs. | Misc. Rs. |
-|---:|---|---|---|---:|---:|---:|---:|---:|---:|
-|  |  |  |  |  |  |  |  |  |  |
+| ------------------: | ---- | ----------- | ----------- | -------------: | ----------: | -------------: | -------------: | ------------: | --------: |
+|                     |      |             |             |                |             |                |                |               |           |
 
 ## Petty Cash Book Posting
 
@@ -443,28 +444,28 @@ At period end:
 
 Example journal at the start:
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Petty Cash A/c Dr. | 2,000 |  |
-| To Cash A/c |  | 2,000 |
+| Particulars        | Debit Rs. | Credit Rs. |
+| ------------------ | --------: | ---------: |
+| Petty Cash A/c Dr. |     2,000 |            |
+| To Cash A/c        |           |      2,000 |
 
 At the end, if total expenses are Rs. 1,487:
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Postage A/c Dr. | 325 |  |
-| Telephone A/c Dr. | 121 |  |
-| Conveyance A/c Dr. | 349 |  |
-| Stationery A/c Dr. | 390 |  |
-| Miscellaneous Expenses A/c Dr. | 302 |  |
-| To Petty Cash A/c |  | 1,487 |
+| Particulars                    | Debit Rs. | Credit Rs. |
+| ------------------------------ | --------: | ---------: |
+| Postage A/c Dr.                |       325 |            |
+| Telephone A/c Dr.              |       121 |            |
+| Conveyance A/c Dr.             |       349 |            |
+| Stationery A/c Dr.             |       390 |            |
+| Miscellaneous Expenses A/c Dr. |       302 |            |
+| To Petty Cash A/c              |           |      1,487 |
 
 Reimbursement:
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Petty Cash A/c Dr. | 1,487 |  |
-| To Cash A/c |  | 1,487 |
+| Particulars        | Debit Rs. | Credit Rs. |
+| ------------------ | --------: | ---------: |
+| Petty Cash A/c Dr. |     1,487 |            |
+| To Cash A/c        |           |      1,487 |
 
 # Unit 4G: Purchases Book
 
@@ -482,19 +483,19 @@ It does not record:
 
 ## Purchases Book Rule
 
-| Transaction | Book |
-|---|---|
-| Goods bought on credit | Purchases book |
-| Goods bought for cash | Cash book |
-| Furniture bought on credit | Journal proper |
-| Furniture bought for cash | Cash book |
-| Goods bought by cheque | Cash book, bank column |
+| Transaction                | Book                   |
+| -------------------------- | ---------------------- |
+| Goods bought on credit     | Purchases book         |
+| Goods bought for cash      | Cash book              |
+| Furniture bought on credit | Journal proper         |
+| Furniture bought for cash  | Cash book              |
+| Goods bought by cheque     | Cash book, bank column |
 
 ## Format
 
-| Date | Invoice No. | Name of Supplier | L.F. | Amount Rs. |
-|---|---|---|---|---:|
-|  |  | Account to be credited |  |  |
+| Date | Invoice No. | Name of Supplier       | L.F. | Amount Rs. |
+| ---- | ----------- | ---------------------- | ---- | ---------: |
+|      |             | Account to be credited |      |            |
 
 ## Trade Discount in Purchases Book
 
@@ -516,13 +517,13 @@ Purchases book records Rs. 90,000, not Rs. 1,00,000 and not the discount separat
 
 M/s Kanika Traders:
 
-| Date | Supplier | Calculation | Net Amount Rs. |
-|---|---|---|---:|
-| Aug. 4 | Neema Electronics | 20 TV x 2,000 = 40,000; 15 recorders x 12,500 = 1,87,500; total 2,27,500 less 20% | 1,82,000 |
-| Aug. 10 | Pawan Electronics | 10 cassettes x 150 = 1,500; 20 recorders x 1,650 = 33,000; total 34,500 less 10% | 31,050 |
-| Aug. 18 | Northern Electronics | 15 stereos x 4,000 = 60,000; 20 TV x 14,500 = 2,90,000; total 3,50,000 less 12.5% | 3,06,250 |
-| Aug. 26 | Neema Electronics | 10 TV x 1,000 = 10,000; 5 colour TV x 12,500 = 62,500; total 72,500 less 20% | 58,000 |
-| Aug. 29 | Pawan Electronics | 20 cassettes x 150 = 3,000; 25 recorders x 1,600 = 40,000; total 43,000 less 10% | 38,700 |
+| Date    | Supplier             | Calculation                                                                       | Net Amount Rs. |
+| ------- | -------------------- | --------------------------------------------------------------------------------- | -------------: |
+| Aug. 4  | Neema Electronics    | 20 TV x 2,000 = 40,000; 15 recorders x 12,500 = 1,87,500; total 2,27,500 less 20% |       1,82,000 |
+| Aug. 10 | Pawan Electronics    | 10 cassettes x 150 = 1,500; 20 recorders x 1,650 = 33,000; total 34,500 less 10%  |         31,050 |
+| Aug. 18 | Northern Electronics | 15 stereos x 4,000 = 60,000; 20 TV x 14,500 = 2,90,000; total 3,50,000 less 12.5% |       3,06,250 |
+| Aug. 26 | Neema Electronics    | 10 TV x 1,000 = 10,000; 5 colour TV x 12,500 = 62,500; total 72,500 less 20%      |         58,000 |
+| Aug. 29 | Pawan Electronics    | 20 cassettes x 150 = 3,000; 25 recorders x 1,600 = 40,000; total 43,000 less 10%  |         38,700 |
 
 Note:
 
@@ -530,14 +531,14 @@ Some raw textbook extractions may show Rs. 54,000 for the Aug. 26 line. The calc
 
 ## Purchases Book
 
-| Date | Invoice No. | Supplier | Amount Rs. |
-|---|---|---|---:|
-| Aug. 4 | 3250 | Neema Electronics | 1,82,000 |
-| Aug. 10 | 8260 | Pawan Electronics | 31,050 |
-| Aug. 18 | 4256 | Northern Electronics | 3,06,250 |
-| Aug. 26 | 3294 | Neema Electronics | 58,000 |
-| Aug. 29 | 8281 | Pawan Electronics | 38,700 |
-| Aug. 31 | Total |  | 6,16,000 |
+| Date    | Invoice No. | Supplier             | Amount Rs. |
+| ------- | ----------- | -------------------- | ---------: |
+| Aug. 4  | 3250        | Neema Electronics    |   1,82,000 |
+| Aug. 10 | 8260        | Pawan Electronics    |     31,050 |
+| Aug. 18 | 4256        | Northern Electronics |   3,06,250 |
+| Aug. 26 | 3294        | Neema Electronics    |     58,000 |
+| Aug. 29 | 8281        | Pawan Electronics    |     38,700 |
+| Aug. 31 | Total       |                      |   6,16,000 |
 
 ## Posting From Purchases Book
 
@@ -571,18 +572,18 @@ When goods are returned to supplier, the buyer prepares a debit note. It informs
 
 ## Format
 
-| Date | Debit Note No. | Name of Supplier | L.F. | Amount Rs. |
-|---|---|---|---|---:|
-|  |  | Account to be debited |  |  |
+| Date | Debit Note No. | Name of Supplier      | L.F. | Amount Rs. |
+| ---- | -------------- | --------------------- | ---- | ---------: |
+|      |                | Account to be debited |      |            |
 
 ## Entry Logic
 
 If goods returned to supplier are Rs. 13,200:
 
-| Account | Debit or Credit | Reason |
-|---|---|---|
-| Supplier A/c | Debit | Liability decreases |
-| Purchases Return A/c | Credit | Return of goods reduces purchases |
+| Account              | Debit or Credit | Reason                            |
+| -------------------- | --------------- | --------------------------------- |
+| Supplier A/c         | Debit           | Liability decreases               |
+| Purchases Return A/c | Credit          | Return of goods reduces purchases |
 
 ## Posting From Purchases Return Book
 
@@ -612,19 +613,19 @@ It does not record:
 
 ## Sales Book Rule
 
-| Transaction | Book |
-|---|---|
-| Goods sold on credit | Sales book |
-| Goods sold for cash | Cash book |
-| Furniture sold on credit | Journal proper |
-| Machinery sold for cash | Cash book |
-| Customer returned goods | Sales return book |
+| Transaction              | Book              |
+| ------------------------ | ----------------- |
+| Goods sold on credit     | Sales book        |
+| Goods sold for cash      | Cash book         |
+| Furniture sold on credit | Journal proper    |
+| Machinery sold for cash  | Cash book         |
+| Customer returned goods  | Sales return book |
 
 ## Format
 
-| Date | Invoice No. | Name of Customer | L.F. | Amount Rs. |
-|---|---|---|---|---:|
-|  |  | Account to be debited |  |  |
+| Date | Invoice No. | Name of Customer      | L.F. | Amount Rs. |
+| ---- | ----------- | --------------------- | ---- | ---------: |
+|      |             | Account to be debited |      |            |
 
 ## Sales Book Worked Example
 
@@ -636,20 +637,20 @@ M/s Koina Supplies sold on credit:
 
 Calculations:
 
-| Customer | Calculation | Amount Rs. |
-|---|---|---:|
-| Raman Traders | 2 x 2,100 + 5 x 130 | 4,850 |
-| Nutan Enterprises | 5 x 4,200 | 21,000 |
-| Raman Traders | 100 x 850 | 85,000 |
+| Customer          | Calculation         | Amount Rs. |
+| ----------------- | ------------------- | ---------: |
+| Raman Traders     | 2 x 2,100 + 5 x 130 |      4,850 |
+| Nutan Enterprises | 5 x 4,200           |     21,000 |
+| Raman Traders     | 100 x 850           |     85,000 |
 
 Sales book:
 
-| Date | Invoice No. | Customer | Amount Rs. |
-|---|---|---|---:|
-| Apr. 6 | 178 | Raman Traders | 4,850 |
-| Apr. 9 | 180 | Nutan Enterprises | 21,000 |
-| Apr. 28 | 209 | Raman Traders | 85,000 |
-| Apr. 30 | Total |  | 1,10,850 |
+| Date    | Invoice No. | Customer          | Amount Rs. |
+| ------- | ----------- | ----------------- | ---------: |
+| Apr. 6  | 178         | Raman Traders     |      4,850 |
+| Apr. 9  | 180         | Nutan Enterprises |     21,000 |
+| Apr. 28 | 209         | Raman Traders     |     85,000 |
+| Apr. 30 | Total       |                   |   1,10,850 |
 
 ## Posting From Sales Book
 
@@ -674,18 +675,18 @@ When a customer returns goods, the seller prepares a credit note. It tells the c
 
 ## Format
 
-| Date | Credit Note No. | Name of Customer | L.F. | Amount Rs. |
-|---|---|---|---|---:|
-|  |  | Account to be credited |  |  |
+| Date | Credit Note No. | Name of Customer       | L.F. | Amount Rs. |
+| ---- | --------------- | ---------------------- | ---- | ---------: |
+|      |                 | Account to be credited |      |            |
 
 ## Entry Logic
 
 If customer returns goods worth Rs. 2,100:
 
-| Account | Debit or Credit | Reason |
-|---|---|---|
-| Sales Return A/c | Debit | Return reduces revenue |
-| Customer A/c | Credit | Amount receivable decreases |
+| Account          | Debit or Credit | Reason                      |
+| ---------------- | --------------- | --------------------------- |
+| Sales Return A/c | Debit           | Return reduces revenue      |
+| Customer A/c     | Credit          | Amount receivable decreases |
 
 ## Posting From Sales Return Book
 
@@ -702,13 +703,13 @@ Sales Return Account is debited.
 
 # Unit 4K: Debit Note Versus Credit Note
 
-| Basis | Debit Note | Credit Note |
-|---|---|---|
-| Prepared by | Buyer in case of purchase return | Seller in case of sales return |
-| Sent to | Supplier | Customer |
-| Account effect | Supplier is debited | Customer is credited |
-| Used in | Purchases return book | Sales return book |
-| Common reason | Defective goods returned to supplier | Goods returned by customer |
+| Basis          | Debit Note                           | Credit Note                    |
+| -------------- | ------------------------------------ | ------------------------------ |
+| Prepared by    | Buyer in case of purchase return     | Seller in case of sales return |
+| Sent to        | Supplier                             | Customer                       |
+| Account effect | Supplier is debited                  | Customer is credited           |
+| Used in        | Purchases return book                | Sales return book              |
+| Common reason  | Defective goods returned to supplier | Goods returned by customer     |
 
 ## Easy Memory Rule
 
@@ -750,21 +751,21 @@ Discount received = Rs. 150.
 
 Entry:
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Supplier A/c Dr. | 7,000 |  |
-| To Cash A/c |  | 6,850 |
-| To Discount Received A/c |  | 150 |
+| Particulars              | Debit Rs. | Credit Rs. |
+| ------------------------ | --------: | ---------: |
+| Supplier A/c Dr.         |     7,000 |            |
+| To Cash A/c              |           |      6,850 |
+| To Discount Received A/c |           |        150 |
 
 ## Difference Table
 
-| Basis | Trade Discount | Cash Discount |
-|---|---|---|
-| Purpose | Increase sales or bulk purchase | Encourage quick payment |
-| Time | Before invoice amount is recorded | At payment or settlement |
-| Recorded separately? | No | Yes |
-| Book amount | Net amount after trade discount | Gross amount adjusted with discount |
-| Appears in ledger? | No separate account | Discount Allowed or Discount Received Account |
+| Basis                | Trade Discount                    | Cash Discount                                 |
+| -------------------- | --------------------------------- | --------------------------------------------- |
+| Purpose              | Increase sales or bulk purchase   | Encourage quick payment                       |
+| Time                 | Before invoice amount is recorded | At payment or settlement                      |
+| Recorded separately? | No                                | Yes                                           |
+| Book amount          | Net amount after trade discount   | Gross amount adjusted with discount           |
+| Appears in ledger?   | No separate account               | Discount Allowed or Discount Received Account |
 
 # Unit 4M: Journal Proper
 
@@ -776,42 +777,42 @@ It is a residual journal.
 
 ## Entries Recorded in Journal Proper
 
-| Entry Type | Example |
-|---|---|
-| Opening entries | Assets, liabilities, and capital brought forward at beginning |
-| Adjustment entries | Outstanding salary, prepaid insurance, depreciation |
-| Rectification entries | Correction of errors |
-| Transfer entries | Drawings transferred to capital |
-| Closing entries | Expenses and revenues transferred to profit and loss |
-| Credit purchase of assets | Furniture purchased on credit |
-| Credit sale of assets | Machinery sold on credit |
-| Goods withdrawn by owner | Drawings A/c Dr. To Purchases A/c |
-| Goods used as samples | Advertisement A/c Dr. To Purchases A/c |
-| Goods lost by fire | Loss by Fire A/c Dr. To Purchases or Stock A/c |
-| Dishonour entries needing reversal | Customer's cheque dishonoured after discount allowed |
+| Entry Type                         | Example                                                       |
+| ---------------------------------- | ------------------------------------------------------------- |
+| Opening entries                    | Assets, liabilities, and capital brought forward at beginning |
+| Adjustment entries                 | Outstanding salary, prepaid insurance, depreciation           |
+| Rectification entries              | Correction of errors                                          |
+| Transfer entries                   | Drawings transferred to capital                               |
+| Closing entries                    | Expenses and revenues transferred to profit and loss          |
+| Credit purchase of assets          | Furniture purchased on credit                                 |
+| Credit sale of assets              | Machinery sold on credit                                      |
+| Goods withdrawn by owner           | Drawings A/c Dr. To Purchases A/c                             |
+| Goods used as samples              | Advertisement A/c Dr. To Purchases A/c                        |
+| Goods lost by fire                 | Loss by Fire A/c Dr. To Purchases or Stock A/c                |
+| Dishonour entries needing reversal | Customer's cheque dishonoured after discount allowed          |
 
 ## Examples
 
 ### Credit Purchase of Furniture
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Furniture A/c Dr. | 8,000 |  |
-| To Quality Furniture A/c |  | 8,000 |
+| Particulars              | Debit Rs. | Credit Rs. |
+| ------------------------ | --------: | ---------: |
+| Furniture A/c Dr.        |     8,000 |            |
+| To Quality Furniture A/c |           |      8,000 |
 
 ### Discount Received on Settlement
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Supplier A/c Dr. | 320 |  |
-| To Discount Received A/c |  | 320 |
+| Particulars              | Debit Rs. | Credit Rs. |
+| ------------------------ | --------: | ---------: |
+| Supplier A/c Dr.         |       320 |            |
+| To Discount Received A/c |           |        320 |
 
 ### Stationery Purchased on Credit
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Stationery A/c Dr. | 3,200 |  |
-| To Mohit Mart A/c |  | 3,200 |
+| Particulars        | Debit Rs. | Credit Rs. |
+| ------------------ | --------: | ---------: |
+| Stationery A/c Dr. |     3,200 |            |
+| To Mohit Mart A/c  |           |      3,200 |
 
 # Unit 4N: Balancing the Accounts
 
@@ -862,54 +863,54 @@ The balance is written on debit side as Balance c/d, and brought down on credit 
 
 ## Which Accounts Are Balanced?
 
-| Account Type | Treatment |
-|---|---|
-| Assets | Balanced and carried forward |
-| Liabilities | Balanced and carried forward |
-| Capital | Balanced and carried forward |
-| Expenses | Closed to profit and loss |
-| Revenues | Closed to profit and loss |
-| Gains | Closed to profit and loss |
-| Losses | Closed to profit and loss |
+| Account Type | Treatment                    |
+| ------------ | ---------------------------- |
+| Assets       | Balanced and carried forward |
+| Liabilities  | Balanced and carried forward |
+| Capital      | Balanced and carried forward |
+| Expenses     | Closed to profit and loss    |
+| Revenues     | Closed to profit and loss    |
+| Gains        | Closed to profit and loss    |
+| Losses       | Closed to profit and loss    |
 
 # Unit 4O: Complete Classification Guide
 
 ## Cash Book or Other Book?
 
-| Transaction | Correct Book | Reason |
-|---|---|---|
-| Cash sales | Cash book | Cash received |
-| Credit sales of goods | Sales book | Goods sold on credit |
-| Credit sale of machine | Journal proper | Asset sold on credit, not goods |
-| Cash purchase of goods | Cash book | Cash paid |
-| Credit purchase of goods | Purchases book | Goods bought on credit |
-| Credit purchase of machine | Journal proper | Asset purchased on credit |
-| Goods returned to supplier | Purchases return book | Return outwards |
-| Goods returned by customer | Sales return book | Return inwards |
-| Rent paid by cheque | Cash book | Bank payment |
-| Depreciation charged | Journal proper | Non-cash adjustment |
-| Petty postage paid | Petty cash book | Small expense |
-| Bank charges | Cash book | Bank column credit side |
+| Transaction                | Correct Book          | Reason                          |
+| -------------------------- | --------------------- | ------------------------------- |
+| Cash sales                 | Cash book             | Cash received                   |
+| Credit sales of goods      | Sales book            | Goods sold on credit            |
+| Credit sale of machine     | Journal proper        | Asset sold on credit, not goods |
+| Cash purchase of goods     | Cash book             | Cash paid                       |
+| Credit purchase of goods   | Purchases book        | Goods bought on credit          |
+| Credit purchase of machine | Journal proper        | Asset purchased on credit       |
+| Goods returned to supplier | Purchases return book | Return outwards                 |
+| Goods returned by customer | Sales return book     | Return inwards                  |
+| Rent paid by cheque        | Cash book             | Bank payment                    |
+| Depreciation charged       | Journal proper        | Non-cash adjustment             |
+| Petty postage paid         | Petty cash book       | Small expense                   |
+| Bank charges               | Cash book             | Bank column credit side         |
 
 ## Purchase Book or Journal Proper?
 
-| Item Purchased on Credit | Book |
-|---|---|
-| Goods for resale | Purchases book |
-| Furniture for office | Journal proper |
-| Machinery | Journal proper |
-| Motor car for business | Journal proper |
-| Stationery for use | Journal proper |
+| Item Purchased on Credit                   | Book           |
+| ------------------------------------------ | -------------- |
+| Goods for resale                           | Purchases book |
+| Furniture for office                       | Journal proper |
+| Machinery                                  | Journal proper |
+| Motor car for business                     | Journal proper |
+| Stationery for use                         | Journal proper |
 | Stationery for resale by stationery dealer | Purchases book |
 
 ## Sales Book or Journal Proper?
 
-| Item Sold on Credit | Book |
-|---|---|
-| Goods normally sold by business | Sales book |
-| Old furniture | Journal proper |
-| Old machinery | Journal proper |
-| Motor car | Journal proper |
+| Item Sold on Credit               | Book                                              |
+| --------------------------------- | ------------------------------------------------- |
+| Goods normally sold by business   | Sales book                                        |
+| Old furniture                     | Journal proper                                    |
+| Old machinery                     | Journal proper                                    |
+| Motor car                         | Journal proper                                    |
 | Scrap if treated as regular goods | Sales book or separate sales record as instructed |
 
 # Unit 4P: Analytical Books With GST
@@ -934,14 +935,14 @@ This helps the business know:
 ## Analytical Purchases Book Format
 
 | Date | Invoice No. | Supplier | Taxable Purchases Rs. | Input CGST Rs. | Input SGST Rs. | Input IGST Rs. | Total Rs. |
-|---|---|---|---:|---:|---:|---:|---:|
-|  |  |  |  |  |  |  |  |
+| ---- | ----------- | -------- | --------------------: | -------------: | -------------: | -------------: | --------: |
+|      |             |          |                       |                |                |                |           |
 
 ## Analytical Sales Book Format
 
 | Date | Invoice No. | Customer | Taxable Sales Rs. | Output CGST Rs. | Output SGST Rs. | Output IGST Rs. | Total Rs. |
-|---|---|---|---:|---:|---:|---:|---:|
-|  |  |  |  |  |  |  |  |
+| ---- | ----------- | -------- | ----------------: | --------------: | --------------: | --------------: | --------: |
+|      |             |          |                   |                 |                 |                 |           |
 
 ## GST Purchase Example
 
@@ -954,23 +955,23 @@ Purchased from Ramakant, Delhi:
 
 Calculation:
 
-| Step | Amount Rs. |
-|---|---:|
-| List price | 3,50,000 |
-| Less trade discount 10% | 35,000 |
-| Taxable value | 3,15,000 |
-| CGST 9% | 28,350 |
-| SGST 9% | 28,350 |
-| Invoice total | 3,71,700 |
+| Step                    | Amount Rs. |
+| ----------------------- | ---------: |
+| List price              |   3,50,000 |
+| Less trade discount 10% |     35,000 |
+| Taxable value           |   3,15,000 |
+| CGST 9%                 |     28,350 |
+| SGST 9%                 |     28,350 |
+| Invoice total           |   3,71,700 |
 
 Entry logic:
 
-| Account | Debit or Credit | Amount Rs. |
-|---|---|---:|
-| Purchases A/c | Debit | 3,15,000 |
-| Input CGST A/c | Debit | 28,350 |
-| Input SGST A/c | Debit | 28,350 |
-| Supplier A/c | Credit | 3,71,700 |
+| Account        | Debit or Credit | Amount Rs. |
+| -------------- | --------------- | ---------: |
+| Purchases A/c  | Debit           |   3,15,000 |
+| Input CGST A/c | Debit           |     28,350 |
+| Input SGST A/c | Debit           |     28,350 |
+| Supplier A/c   | Credit          |   3,71,700 |
 
 ## GST Sales Example
 
@@ -983,21 +984,21 @@ Sold to Rahul Bros., Delhi from Rajasthan:
 
 Calculation:
 
-| Step | Amount Rs. |
-|---|---:|
-| List price | 21,500 |
-| Less trade discount 8% | 1,720 |
-| Taxable value | 19,780 |
-| IGST 5% | 989 |
-| Invoice total | 20,769 |
+| Step                   | Amount Rs. |
+| ---------------------- | ---------: |
+| List price             |     21,500 |
+| Less trade discount 8% |      1,720 |
+| Taxable value          |     19,780 |
+| IGST 5%                |        989 |
+| Invoice total          |     20,769 |
 
 Entry logic:
 
-| Account | Debit or Credit | Amount Rs. |
-|---|---|---:|
-| Customer A/c | Debit | 20,769 |
-| Sales A/c | Credit | 19,780 |
-| Output IGST A/c | Credit | 989 |
+| Account         | Debit or Credit | Amount Rs. |
+| --------------- | --------------- | ---------: |
+| Customer A/c    | Debit           |     20,769 |
+| Sales A/c       | Credit          |     19,780 |
+| Output IGST A/c | Credit          |        989 |
 
 # Unit 4Q: Fully Solved Subsidiary Book Set
 
@@ -1005,85 +1006,85 @@ Entry logic:
 
 Transactions:
 
-| Date | Details |
-|---|---|
-| Sept. 1 | Bought 25 shirts at Rs. 300 and 20 pants at Rs. 700 from Ratana Traders, less 10% trade discount |
-| Sept. 8 | Bought 10 fancy trousers at Rs. 500 and 20 fancy hats at Rs. 100 from Bombay Fashion House, less 5% trade discount |
-| Sept. 10 | Returned 3 shirts and 1 pant to Ratana Traders, less 10% trade discount |
-| Sept. 15 | Bought 10 jackets at Rs. 1,000 and 5 plain shirts at Rs. 200 from Zolta Fashions, less 15% trade discount |
-| Sept. 20 | Bought 10 fancy lenghas at Rs. 2,000 from Bride Palace, less 5% trade discount |
-| Sept. 24 | Returned 2 fancy trousers and 4 fancy hats to Bombay Fashion House, less 5% trade discount |
-| Sept. 28 | Returned 1 fancy lengha to Bride Palace, less 5% trade discount |
+| Date     | Details                                                                                                            |
+| -------- | ------------------------------------------------------------------------------------------------------------------ |
+| Sept. 1  | Bought 25 shirts at Rs. 300 and 20 pants at Rs. 700 from Ratana Traders, less 10% trade discount                   |
+| Sept. 8  | Bought 10 fancy trousers at Rs. 500 and 20 fancy hats at Rs. 100 from Bombay Fashion House, less 5% trade discount |
+| Sept. 10 | Returned 3 shirts and 1 pant to Ratana Traders, less 10% trade discount                                            |
+| Sept. 15 | Bought 10 jackets at Rs. 1,000 and 5 plain shirts at Rs. 200 from Zolta Fashions, less 15% trade discount          |
+| Sept. 20 | Bought 10 fancy lenghas at Rs. 2,000 from Bride Palace, less 5% trade discount                                     |
+| Sept. 24 | Returned 2 fancy trousers and 4 fancy hats to Bombay Fashion House, less 5% trade discount                         |
+| Sept. 28 | Returned 1 fancy lengha to Bride Palace, less 5% trade discount                                                    |
 
 ## Calculations
 
-| Date | Calculation | Amount Rs. |
-|---|---|---:|
-| Sept. 1 | 25 x 300 + 20 x 700 = 21,500; less 10% | 19,350 |
-| Sept. 8 | 10 x 500 + 20 x 100 = 7,000; less 5% | 6,650 |
-| Sept. 15 | 10 x 1,000 + 5 x 200 = 11,000; less 15% | 9,350 |
-| Sept. 20 | 10 x 2,000 = 20,000; less 5% | 19,000 |
-| Sept. 10 return | 3 x 300 + 1 x 700 = 1,600; less 10% | 1,440 |
-| Sept. 24 return | 2 x 500 + 4 x 100 = 1,400; less 5% | 1,330 |
-| Sept. 28 return | 1 x 2,000; less 5% | 1,900 |
+| Date            | Calculation                             | Amount Rs. |
+| --------------- | --------------------------------------- | ---------: |
+| Sept. 1         | 25 x 300 + 20 x 700 = 21,500; less 10%  |     19,350 |
+| Sept. 8         | 10 x 500 + 20 x 100 = 7,000; less 5%    |      6,650 |
+| Sept. 15        | 10 x 1,000 + 5 x 200 = 11,000; less 15% |      9,350 |
+| Sept. 20        | 10 x 2,000 = 20,000; less 5%            |     19,000 |
+| Sept. 10 return | 3 x 300 + 1 x 700 = 1,600; less 10%     |      1,440 |
+| Sept. 24 return | 2 x 500 + 4 x 100 = 1,400; less 5%      |      1,330 |
+| Sept. 28 return | 1 x 2,000; less 5%                      |      1,900 |
 
 ## Purchases Book
 
-| Date | Invoice No. | Supplier | Amount Rs. |
-|---|---|---|---:|
-| Sept. 1 | 714 | Ratana Traders | 19,350 |
-| Sept. 8 | 327 | Bombay Fashion House | 6,650 |
-| Sept. 15 | 6781 | Zolta Fashions | 9,350 |
-| Sept. 20 | 1076 | Bride Palace | 19,000 |
-| Sept. 30 | Total |  | 54,350 |
+| Date     | Invoice No. | Supplier             | Amount Rs. |
+| -------- | ----------- | -------------------- | ---------: |
+| Sept. 1  | 714         | Ratana Traders       |     19,350 |
+| Sept. 8  | 327         | Bombay Fashion House |      6,650 |
+| Sept. 15 | 6781        | Zolta Fashions       |      9,350 |
+| Sept. 20 | 1076        | Bride Palace         |     19,000 |
+| Sept. 30 | Total       |                      |     54,350 |
 
 ## Purchases Return Book
 
-| Date | Debit Note No. | Supplier | Amount Rs. |
-|---|---|---|---:|
-| Sept. 10 | 102 | Ratana Traders | 1,440 |
-| Sept. 24 | 103 | Bombay Fashion House | 1,330 |
-| Sept. 28 | 105 | Bride Palace | 1,900 |
-| Sept. 30 | Total |  | 4,670 |
+| Date     | Debit Note No. | Supplier             | Amount Rs. |
+| -------- | -------------- | -------------------- | ---------: |
+| Sept. 10 | 102            | Ratana Traders       |      1,440 |
+| Sept. 24 | 103            | Bombay Fashion House |      1,330 |
+| Sept. 28 | 105            | Bride Palace         |      1,900 |
+| Sept. 30 | Total          |                      |      4,670 |
 
 ## Ledger Posting
 
-| Account | Debit Rs. | Credit Rs. | Explanation |
-|---|---:|---:|---|
-| Ratana Traders | 1,440 | 19,350 | Return debited, purchase credited |
-| Bombay Fashion House | 1,330 | 6,650 | Return debited, purchase credited |
-| Zolta Fashions | - | 9,350 | Purchase credited |
-| Bride Palace | 1,900 | 19,000 | Return debited, purchase credited |
-| Purchases A/c | 54,350 | - | Total purchases debited |
-| Purchases Return A/c | - | 4,670 | Total returns credited |
+| Account              | Debit Rs. | Credit Rs. | Explanation                       |
+| -------------------- | --------: | ---------: | --------------------------------- |
+| Ratana Traders       |     1,440 |     19,350 | Return debited, purchase credited |
+| Bombay Fashion House |     1,330 |      6,650 | Return debited, purchase credited |
+| Zolta Fashions       |         - |      9,350 | Purchase credited                 |
+| Bride Palace         |     1,900 |     19,000 | Return debited, purchase credited |
+| Purchases A/c        |    54,350 |          - | Total purchases debited           |
+| Purchases Return A/c |         - |      4,670 | Total returns credited            |
 
 ## Sales and Sales Returns: Vineet Stores
 
 Transactions:
 
-| Date | Details |
-|---|---|
-| Dec. 1 | Sold 30 kids books at Rs. 60 and 20 animal books at Rs. 50 to Rohit Stores |
-| Dec. 5 | Sold 100 greeting cards at Rs. 12 and 50 musical cards at Rs. 50 to Mera Stores, less 5% |
+| Date    | Details                                                                                                 |
+| ------- | ------------------------------------------------------------------------------------------------------- |
+| Dec. 1  | Sold 30 kids books at Rs. 60 and 20 animal books at Rs. 50 to Rohit Stores                              |
+| Dec. 5  | Sold 100 greeting cards at Rs. 12 and 50 musical cards at Rs. 50 to Mera Stores, less 5%                |
 | Dec. 10 | Sold 50 writing pads at Rs. 20, 50 colour books at Rs. 30, and 20 ink pads at Rs. 16 to Mega Stationers |
-| Dec. 15 | Rohit Stores returned 2 kids books and 1 animal book |
-| Dec. 19 | Sold 100 card books at Rs. 10 and 50 note books at Rs. 35 to Abha Traders, less 5% |
-| Dec. 22 | Mega Stationers returned 5 colour books at Rs. 30 |
-| Dec. 26 | Sold 100 greeting cards at Rs. 20 and 100 fancy envelopes at Rs. 5 to Bharti Stores |
-| Dec. 30 | Abha Traders returned 20 card books and 5 note books, less 5% |
+| Dec. 15 | Rohit Stores returned 2 kids books and 1 animal book                                                    |
+| Dec. 19 | Sold 100 card books at Rs. 10 and 50 note books at Rs. 35 to Abha Traders, less 5%                      |
+| Dec. 22 | Mega Stationers returned 5 colour books at Rs. 30                                                       |
+| Dec. 26 | Sold 100 greeting cards at Rs. 20 and 100 fancy envelopes at Rs. 5 to Bharti Stores                     |
+| Dec. 30 | Abha Traders returned 20 card books and 5 note books, less 5%                                           |
 
 ## Calculations
 
-| Date | Calculation | Amount Rs. |
-|---|---|---:|
-| Dec. 1 | 30 x 60 + 20 x 50 | 2,800 |
-| Dec. 5 | 100 x 12 + 50 x 50 = 3,700; less 5% | 3,515 |
-| Dec. 10 | 50 x 20 + 50 x 30 + 20 x 16 | 2,820 |
-| Dec. 19 | 100 x 10 + 50 x 35 = 2,750; less 5% | 2,612.50 |
-| Dec. 26 | 100 x 20 + 100 x 5 | 2,500 |
-| Dec. 15 return | 2 x 60 + 1 x 50 | 170 |
-| Dec. 22 return | 5 x 30 | 150 |
-| Dec. 30 return | 20 x 10 + 5 x 35 = 375; less 5% | 356.25 |
+| Date           | Calculation                         | Amount Rs. |
+| -------------- | ----------------------------------- | ---------: |
+| Dec. 1         | 30 x 60 + 20 x 50                   |      2,800 |
+| Dec. 5         | 100 x 12 + 50 x 50 = 3,700; less 5% |      3,515 |
+| Dec. 10        | 50 x 20 + 50 x 30 + 20 x 16         |      2,820 |
+| Dec. 19        | 100 x 10 + 50 x 35 = 2,750; less 5% |   2,612.50 |
+| Dec. 26        | 100 x 20 + 100 x 5                  |      2,500 |
+| Dec. 15 return | 2 x 60 + 1 x 50                     |        170 |
+| Dec. 22 return | 5 x 30                              |        150 |
+| Dec. 30 return | 20 x 10 + 5 x 35 = 375; less 5%     |     356.25 |
 
 Note:
 
@@ -1091,23 +1092,23 @@ If an exercise's printed answer differs, check whether the item name, rate, or d
 
 ## Sales Book
 
-| Date | Invoice No. | Customer | Amount Rs. |
-|---|---|---|---:|
-| Dec. 1 | 325 | Rohit Stores | 2,800 |
-| Dec. 5 | 328 | Mera Stores | 3,515 |
-| Dec. 10 | 329 | Mega Stationers | 2,820 |
-| Dec. 19 | 355 | Abha Traders | 2,612.50 |
-| Dec. 26 | 340 | Bharti Stores | 2,500 |
-| Dec. 31 | Total |  | 14,247.50 |
+| Date    | Invoice No. | Customer        | Amount Rs. |
+| ------- | ----------- | --------------- | ---------: |
+| Dec. 1  | 325         | Rohit Stores    |      2,800 |
+| Dec. 5  | 328         | Mera Stores     |      3,515 |
+| Dec. 10 | 329         | Mega Stationers |      2,820 |
+| Dec. 19 | 355         | Abha Traders    |   2,612.50 |
+| Dec. 26 | 340         | Bharti Stores   |      2,500 |
+| Dec. 31 | Total       |                 |  14,247.50 |
 
 ## Sales Return Book
 
-| Date | Credit Note No. | Customer | Amount Rs. |
-|---|---|---|---:|
-| Dec. 15 | 201 | Rohit Stores | 170 |
-| Dec. 22 | 204 | Mega Stationers | 150 |
-| Dec. 30 | 207 | Abha Traders | 356.25 |
-| Dec. 31 | Total |  | 676.25 |
+| Date    | Credit Note No. | Customer        | Amount Rs. |
+| ------- | --------------- | --------------- | ---------: |
+| Dec. 15 | 201             | Rohit Stores    |        170 |
+| Dec. 22 | 204             | Mega Stationers |        150 |
+| Dec. 30 | 207             | Abha Traders    |     356.25 |
+| Dec. 31 | Total           |                 |     676.25 |
 
 # Unit 4R: Solved Simple Cash Book Practice
 
@@ -1115,30 +1116,30 @@ If an exercise's printed answer differs, check whether the item name, rate, or d
 
 Prepare a simple cash book:
 
-| Date | Transaction | Rs. |
-|---|---|---:|
-| Dec. 1 | Cash in hand | 12,000 |
-| Dec. 5 | Cash received from Bhanu | 4,000 |
-| Dec. 7 | Rent paid | 2,000 |
-| Dec. 10 | Goods purchased for cash | 6,000 |
-| Dec. 15 | Goods sold for cash | 9,000 |
-| Dec. 18 | Stationery purchased | 300 |
-| Dec. 22 | Cash paid to Rahul | 2,000 |
-| Dec. 28 | Salary paid | 1,000 |
-| Dec. 30 | Rent paid | 500 |
+| Date    | Transaction              |    Rs. |
+| ------- | ------------------------ | -----: |
+| Dec. 1  | Cash in hand             | 12,000 |
+| Dec. 5  | Cash received from Bhanu |  4,000 |
+| Dec. 7  | Rent paid                |  2,000 |
+| Dec. 10 | Goods purchased for cash |  6,000 |
+| Dec. 15 | Goods sold for cash      |  9,000 |
+| Dec. 18 | Stationery purchased     |    300 |
+| Dec. 22 | Cash paid to Rahul       |  2,000 |
+| Dec. 28 | Salary paid              |  1,000 |
+| Dec. 30 | Rent paid                |    500 |
 
 ## Solution
 
-| Date | Receipts | Amount Rs. | Date | Payments | Amount Rs. |
-|---|---|---:|---|---|---:|
-| Dec. 1 | Balance b/d | 12,000 | Dec. 7 | Rent | 2,000 |
-| Dec. 5 | Bhanu | 4,000 | Dec. 10 | Purchases | 6,000 |
-| Dec. 15 | Sales | 9,000 | Dec. 18 | Stationery | 300 |
-|  |  |  | Dec. 22 | Rahul | 2,000 |
-|  |  |  | Dec. 28 | Salary | 1,000 |
-|  |  |  | Dec. 30 | Rent | 500 |
-|  |  |  | Dec. 31 | Balance c/d | 13,200 |
-|  | Total | 25,000 |  | Total | 25,000 |
+| Date    | Receipts    | Amount Rs. | Date    | Payments    | Amount Rs. |
+| ------- | ----------- | ---------: | ------- | ----------- | ---------: |
+| Dec. 1  | Balance b/d |     12,000 | Dec. 7  | Rent        |      2,000 |
+| Dec. 5  | Bhanu       |      4,000 | Dec. 10 | Purchases   |      6,000 |
+| Dec. 15 | Sales       |      9,000 | Dec. 18 | Stationery  |        300 |
+|         |             |            | Dec. 22 | Rahul       |      2,000 |
+|         |             |            | Dec. 28 | Salary      |      1,000 |
+|         |             |            | Dec. 30 | Rent        |        500 |
+|         |             |            | Dec. 31 | Balance c/d |     13,200 |
+|         | Total       |     25,000 |         | Total       |     25,000 |
 
 Final cash in hand:
 
@@ -1150,29 +1151,29 @@ Final cash in hand:
 
 Prepare a double column cash book:
 
-| Date | Transaction | Rs. |
-|---|---|---:|
-| Dec. 1 | Started business with cash | 80,000 |
-| Dec. 4 | Deposited into bank | 50,000 |
-| Dec. 10 | Received cash from Rahul | 1,000 |
-| Dec. 15 | Bought goods for cash | 8,000 |
-| Dec. 22 | Bought goods by cheque | 10,000 |
-| Dec. 25 | Paid Shyam by cash | 20,000 |
-| Dec. 30 | Withdrew from bank for office use | 2,000 |
-| Dec. 31 | Rent paid by cheque | 1,000 |
+| Date    | Transaction                       |    Rs. |
+| ------- | --------------------------------- | -----: |
+| Dec. 1  | Started business with cash        | 80,000 |
+| Dec. 4  | Deposited into bank               | 50,000 |
+| Dec. 10 | Received cash from Rahul          |  1,000 |
+| Dec. 15 | Bought goods for cash             |  8,000 |
+| Dec. 22 | Bought goods by cheque            | 10,000 |
+| Dec. 25 | Paid Shyam by cash                | 20,000 |
+| Dec. 30 | Withdrew from bank for office use |  2,000 |
+| Dec. 31 | Rent paid by cheque               |  1,000 |
 
 ## Solution
 
-| Date | Receipts | Cash Rs. | Bank Rs. | Date | Payments | Cash Rs. | Bank Rs. |
-|---|---|---:|---:|---|---|---:|---:|
-| Dec. 1 | Capital | 80,000 |  | Dec. 4 | Bank C | 50,000 |  |
-| Dec. 4 | Cash C |  | 50,000 | Dec. 15 | Purchases | 8,000 |  |
-| Dec. 10 | Rahul | 1,000 |  | Dec. 22 | Purchases |  | 10,000 |
-| Dec. 30 | Bank C | 2,000 |  | Dec. 25 | Shyam | 20,000 |  |
-|  |  |  |  | Dec. 30 | Cash C |  | 2,000 |
-|  |  |  |  | Dec. 31 | Rent |  | 1,000 |
-|  |  |  |  | Dec. 31 | Balance c/d | 5,000 | 37,000 |
-|  | Total | 83,000 | 50,000 |  | Total | 83,000 | 50,000 |
+| Date    | Receipts | Cash Rs. | Bank Rs. | Date    | Payments    | Cash Rs. | Bank Rs. |
+| ------- | -------- | -------: | -------: | ------- | ----------- | -------: | -------: |
+| Dec. 1  | Capital  |   80,000 |          | Dec. 4  | Bank C      |   50,000 |          |
+| Dec. 4  | Cash C   |          |   50,000 | Dec. 15 | Purchases   |    8,000 |          |
+| Dec. 10 | Rahul    |    1,000 |          | Dec. 22 | Purchases   |          |   10,000 |
+| Dec. 30 | Bank C   |    2,000 |          | Dec. 25 | Shyam       |   20,000 |          |
+|         |          |          |          | Dec. 30 | Cash C      |          |    2,000 |
+|         |          |          |          | Dec. 31 | Rent        |          |    1,000 |
+|         |          |          |          | Dec. 31 | Balance c/d |    5,000 |   37,000 |
+|         | Total    |   83,000 |   50,000 |         | Total       |   83,000 |   50,000 |
 
 Final balances:
 
@@ -1218,13 +1219,13 @@ Subsidiary journals are maintained to save time, divide accounting work, reduce 
 
 ## 7. Difference between return inwards and return outwards.
 
-| Basis | Return Inwards | Return Outwards |
-|---|---|---|
-| Meaning | Goods returned by customers | Goods returned to suppliers |
-| Book | Sales return book | Purchases return book |
-| Document | Credit note | Debit note |
-| Account effect | Sales Return A/c debited | Purchases Return A/c credited |
-| Customer or supplier | Customer credited | Supplier debited |
+| Basis                | Return Inwards              | Return Outwards               |
+| -------------------- | --------------------------- | ----------------------------- |
+| Meaning              | Goods returned by customers | Goods returned to suppliers   |
+| Book                 | Sales return book           | Purchases return book         |
+| Document             | Credit note                 | Debit note                    |
+| Account effect       | Sales Return A/c debited    | Purchases Return A/c credited |
+| Customer or supplier | Customer credited           | Supplier debited              |
 
 ## 8. What is ledger folio?
 
@@ -1272,11 +1273,11 @@ Cash book records cash and bank receipts and payments. It is both a book of orig
 
 Main types:
 
-| Type | Meaning |
-|---|---|
-| Single column cash book | Records only cash transactions |
+| Type                    | Meaning                            |
+| ----------------------- | ---------------------------------- |
+| Single column cash book | Records only cash transactions     |
 | Double column cash book | Records cash and bank transactions |
-| Petty cash book | Records small payments |
+| Petty cash book         | Records small payments             |
 
 Some courses also include triple column cash book with cash, bank, and discount columns, but this chapter focuses mainly on cash, bank, and petty cash formats.
 
@@ -1328,97 +1329,97 @@ Asset accounts usually show debit balances. Liability and capital accounts usual
 
 ## Multiple Choice Answers
 
-| Item | Answer | Reason |
-|---|---|---|
-| Firm maintains cash book, no need to maintain | Bank and Cash Account in ledger | Cash book serves those accounts |
-| Double column cash book records | Cash and bank transactions | It has both cash and bank columns |
-| Goods purchased for cash are recorded in | Cash book | Cash payment is involved |
-| Cash book does not record | Credit transactions | No cash or bank movement |
-| Total posted to Purchases Account | Cash and credit purchases of goods, through relevant books | Purchases Account collects goods purchases |
-| Periodic total of sales return journal posted to | Sales Return Account | It is debited with total returns |
-| Credit balance in bank column shows | Overdraft | Bank has been overdrawn |
-| Periodic total of purchases return journal posted to | Purchases Return Account | It is credited with total returns |
-| Balancing means | Difference in total of debit and credit | The difference becomes balance |
+| Item                                                 | Answer                                                     | Reason                                     |
+| ---------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------ |
+| Firm maintains cash book, no need to maintain        | Bank and Cash Account in ledger                            | Cash book serves those accounts            |
+| Double column cash book records                      | Cash and bank transactions                                 | It has both cash and bank columns          |
+| Goods purchased for cash are recorded in             | Cash book                                                  | Cash payment is involved                   |
+| Cash book does not record                            | Credit transactions                                        | No cash or bank movement                   |
+| Total posted to Purchases Account                    | Cash and credit purchases of goods, through relevant books | Purchases Account collects goods purchases |
+| Periodic total of sales return journal posted to     | Sales Return Account                                       | It is debited with total returns           |
+| Credit balance in bank column shows                  | Overdraft                                                  | Bank has been overdrawn                    |
+| Periodic total of purchases return journal posted to | Purchases Return Account                                   | It is credited with total returns          |
+| Balancing means                                      | Difference in total of debit and credit                    | The difference becomes balance             |
 
 ## Fill-In Answers
 
-| Prompt | Answer |
-|---|---|
-| Cash book is a blank journal | Subsidiary |
-| In journal proper, only blank discount is recorded | Cash |
-| Goods returned to supplier entered in blank journal | Purchases return |
-| Assets sold on credit are entered in | Journal proper |
-| Double column cash book records | Cash and bank |
-| Total of debit side of cash book is blank than credit side | More |
-| Cash book does not record blank transactions | Credit |
-| Double column cash book includes blank transactions | Bank |
-| Credit balance in bank column is | Overdraft |
-| Amount given to petty cashier is | Imprest |
-| Purchases book records goods bought on | Credit |
+| Prompt                                                     | Answer           |
+| ---------------------------------------------------------- | ---------------- |
+| Cash book is a blank journal                               | Subsidiary       |
+| In journal proper, only blank discount is recorded         | Cash             |
+| Goods returned to supplier entered in blank journal        | Purchases return |
+| Assets sold on credit are entered in                       | Journal proper   |
+| Double column cash book records                            | Cash and bank    |
+| Total of debit side of cash book is blank than credit side | More             |
+| Cash book does not record blank transactions               | Credit           |
+| Double column cash book includes blank transactions        | Bank             |
+| Credit balance in bank column is                           | Overdraft        |
+| Amount given to petty cashier is                           | Imprest          |
+| Purchases book records goods bought on                     | Credit           |
 
 ## True or False Answers
 
-| Statement | Answer | Correction |
-|---|---|---|
-| Journal is a book of secondary entry | False | Journal is a book of original entry |
-| One debit and more than one credit is compound entry | True | More than two accounts are involved |
-| Assets sold on credit are entered in sales journal | False | Enter in journal proper |
-| Cash and credit purchases are entered in purchases journal | False | Only credit purchases of goods |
-| Cash sales are entered in sales journal | False | Cash sales go to cash book |
-| Cash book records receipts and payments | True | It records cash and bank movements |
-| Ledger is a subsidiary book | False | Ledger is the principal book |
-| Petty cash book records big payments | False | It records small payments |
-| Cash received is entered on debit side of cash book | True | Receipts are debited |
-| Transaction on both debit and credit side of cash book is contra | True | It affects cash and bank |
-| Balancing means total of debit and credit side | False | It means finding the difference |
-| Credit purchase of machine is entered in purchases journal | False | It is recorded in journal proper |
+| Statement                                                        | Answer | Correction                          |
+| ---------------------------------------------------------------- | ------ | ----------------------------------- |
+| Journal is a book of secondary entry                             | False  | Journal is a book of original entry |
+| One debit and more than one credit is compound entry             | True   | More than two accounts are involved |
+| Assets sold on credit are entered in sales journal               | False  | Enter in journal proper             |
+| Cash and credit purchases are entered in purchases journal       | False  | Only credit purchases of goods      |
+| Cash sales are entered in sales journal                          | False  | Cash sales go to cash book          |
+| Cash book records receipts and payments                          | True   | It records cash and bank movements  |
+| Ledger is a subsidiary book                                      | False  | Ledger is the principal book        |
+| Petty cash book records big payments                             | False  | It records small payments           |
+| Cash received is entered on debit side of cash book              | True   | Receipts are debited                |
+| Transaction on both debit and credit side of cash book is contra | True   | It affects cash and bank            |
+| Balancing means total of debit and credit side                   | False  | It means finding the difference     |
+| Credit purchase of machine is entered in purchases journal       | False  | It is recorded in journal proper    |
 
 # Unit 4W: Common Mistakes to Avoid
 
-| Mistake | Correct Approach |
-|---|---|
-| Recording cash purchases in purchases book | Record cash purchases in cash book |
-| Recording credit purchase of furniture in purchases book | Record in journal proper |
-| Recording cash sales in sales book | Record in cash book |
-| Recording credit sale of old machinery in sales book | Record in journal proper |
-| Posting contra entries to ledger | Do not post contra entries |
-| Treating trade discount as separate ledger entry | Record only net amount |
-| Ignoring cash discount | Record cash discount when payment/settlement happens |
-| Opening separate cash account when cash book exists | Cash book itself acts as cash account |
-| Forgetting bank overdraft can be credit balance | Bank column may show debit or credit balance |
-| Treating petty cash reimbursement as expense again | Expenses are recorded when petty cash columns are posted |
-| Crediting customer for credit sales | Customer is debited for credit sales |
-| Debiting supplier for credit purchases | Supplier is credited for credit purchases |
-| Debiting purchases return account | Purchases Return Account is credited |
-| Crediting sales return account | Sales Return Account is debited |
+| Mistake                                                  | Correct Approach                                         |
+| -------------------------------------------------------- | -------------------------------------------------------- |
+| Recording cash purchases in purchases book               | Record cash purchases in cash book                       |
+| Recording credit purchase of furniture in purchases book | Record in journal proper                                 |
+| Recording cash sales in sales book                       | Record in cash book                                      |
+| Recording credit sale of old machinery in sales book     | Record in journal proper                                 |
+| Posting contra entries to ledger                         | Do not post contra entries                               |
+| Treating trade discount as separate ledger entry         | Record only net amount                                   |
+| Ignoring cash discount                                   | Record cash discount when payment/settlement happens     |
+| Opening separate cash account when cash book exists      | Cash book itself acts as cash account                    |
+| Forgetting bank overdraft can be credit balance          | Bank column may show debit or credit balance             |
+| Treating petty cash reimbursement as expense again       | Expenses are recorded when petty cash columns are posted |
+| Crediting customer for credit sales                      | Customer is debited for credit sales                     |
+| Debiting supplier for credit purchases                   | Supplier is credited for credit purchases                |
+| Debiting purchases return account                        | Purchases Return Account is credited                     |
+| Crediting sales return account                           | Sales Return Account is debited                          |
 
 # Unit 4X: Final Revision Sheet
 
 ## Book Selection
 
-| If You See | Think |
-|---|---|
-| Cash received or paid | Cash book |
-| Cheque received or issued | Double column cash book |
-| Small cash expense | Petty cash book |
-| Goods bought on credit | Purchases book |
-| Goods sold on credit | Sales book |
-| Goods returned to supplier | Purchases return book |
-| Goods returned by customer | Sales return book |
-| Asset bought or sold on credit | Journal proper |
-| Adjustment or rectification | Journal proper |
+| If You See                     | Think                   |
+| ------------------------------ | ----------------------- |
+| Cash received or paid          | Cash book               |
+| Cheque received or issued      | Double column cash book |
+| Small cash expense             | Petty cash book         |
+| Goods bought on credit         | Purchases book          |
+| Goods sold on credit           | Sales book              |
+| Goods returned to supplier     | Purchases return book   |
+| Goods returned by customer     | Sales return book       |
+| Asset bought or sold on credit | Journal proper          |
+| Adjustment or rectification    | Journal proper          |
 
 ## Posting Rules
 
-| Book | Individual Posting | Total Posting |
-|---|---|---|
-| Cash book debit side | Credit related accounts | Cash/bank account already in book |
-| Cash book credit side | Debit related accounts | Cash/bank account already in book |
-| Purchases book | Credit suppliers | Debit Purchases Account |
-| Purchases return book | Debit suppliers | Credit Purchases Return Account |
-| Sales book | Debit customers | Credit Sales Account |
-| Sales return book | Credit customers | Debit Sales Return Account |
-| Petty cash book | Debit expense accounts | Credit Petty Cash Account |
+| Book                  | Individual Posting      | Total Posting                     |
+| --------------------- | ----------------------- | --------------------------------- |
+| Cash book debit side  | Credit related accounts | Cash/bank account already in book |
+| Cash book credit side | Debit related accounts  | Cash/bank account already in book |
+| Purchases book        | Credit suppliers        | Debit Purchases Account           |
+| Purchases return book | Debit suppliers         | Credit Purchases Return Account   |
+| Sales book            | Debit customers         | Credit Sales Account              |
+| Sales return book     | Credit customers        | Debit Sales Return Account        |
+| Petty cash book       | Debit expense accounts  | Credit Petty Cash Account         |
 
 ## Final Summary
 

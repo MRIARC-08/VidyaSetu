@@ -2,14 +2,14 @@
 
 ## Chapter Identity
 
-| Item | Details |
-| --- | --- |
-| Class | 12 |
-| Subject | History Part 2 |
-| Chapter | Kings and Chronicles: The Mughal Courts |
-| Period | Mainly sixteenth and seventeenth centuries |
-| Core Skill | Using court chronicles, paintings, manuscripts, and administrative records to understand Mughal kingship and empire |
-| Main Idea | Mughal chronicles were not neutral records; they helped create and spread an imperial vision of power, justice, hierarchy, and sovereignty. |
+| Item       | Details                                                                                                                                     |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Class      | 12                                                                                                                                          |
+| Subject    | History Part 2                                                                                                                              |
+| Chapter    | Kings and Chronicles: The Mughal Courts                                                                                                     |
+| Period     | Mainly sixteenth and seventeenth centuries                                                                                                  |
+| Core Skill | Using court chronicles, paintings, manuscripts, and administrative records to understand Mughal kingship and empire                         |
+| Main Idea  | Mughal chronicles were not neutral records; they helped create and spread an imperial vision of power, justice, hierarchy, and sovereignty. |
 
 ## 1. Big Picture
 
@@ -19,15 +19,15 @@ The main sources are court chronicles such as the Akbar Nama, Ain-i Akbari, Bads
 
 ## 2. Timeline of Major Mughal Rulers
 
-| Ruler | Reign | Key Point |
-| --- | --- | --- |
-| Babur | 1526-1530 | Founder of Mughal rule in India; Timurid background. |
-| Humayun | 1530-1540, 1555-1556 | Lost empire to Sher Shah Sur; later regained it. |
-| Akbar | 1556-1605 | Expanded and consolidated empire; major administrative and ideological reforms. |
-| Jahangir | 1605-1627 | Continued Mughal traditions; known for justice symbolism and court culture. |
-| Shah Jahan | 1628-1658 | Height of architectural and courtly splendour. |
-| Aurangzeb | 1658-1707 | Expanded territory but faced growing tensions; after his death Mughal power declined. |
-| Bahadur Shah Zafar II | Deposed in 1857 | Last Mughal ruler; removed by the British after the Revolt of 1857. |
+| Ruler                 | Reign                | Key Point                                                                             |
+| --------------------- | -------------------- | ------------------------------------------------------------------------------------- |
+| Babur                 | 1526-1530            | Founder of Mughal rule in India; Timurid background.                                  |
+| Humayun               | 1530-1540, 1555-1556 | Lost empire to Sher Shah Sur; later regained it.                                      |
+| Akbar                 | 1556-1605            | Expanded and consolidated empire; major administrative and ideological reforms.       |
+| Jahangir              | 1605-1627            | Continued Mughal traditions; known for justice symbolism and court culture.           |
+| Shah Jahan            | 1628-1658            | Height of architectural and courtly splendour.                                        |
+| Aurangzeb             | 1658-1707            | Expanded territory but faced growing tensions; after his death Mughal power declined. |
+| Bahadur Shah Zafar II | Deposed in 1857      | Last Mughal ruler; removed by the British after the Revolt of 1857.                   |
 
 ## 3. Who Were the Mughals?
 
@@ -59,12 +59,12 @@ Mughal chronicles are important because they:
 
 Court chronicles are rich sources, but they are not neutral.
 
-| Strength | Limitation |
-| --- | --- |
-| Provide detailed information about court, administration, and events. | Often glorify the emperor. |
-| Written by educated insiders close to power. | Focus more on rulers than ordinary people. |
-| Preserve names, dates, ranks, institutions, and ceremonies. | May ignore failure, resistance, or dissent. |
-| Include ideological concepts of kingship. | Present the official view of empire. |
+| Strength                                                              | Limitation                                  |
+| --------------------------------------------------------------------- | ------------------------------------------- |
+| Provide detailed information about court, administration, and events. | Often glorify the emperor.                  |
+| Written by educated insiders close to power.                          | Focus more on rulers than ordinary people.  |
+| Preserve names, dates, ranks, institutions, and ceremonies.           | May ignore failure, resistance, or dissent. |
+| Include ideological concepts of kingship.                             | Present the official view of empire.        |
 
 Historical skill: use chronicles as evidence, but always ask who wrote them, for whom, and why.
 
@@ -96,10 +96,10 @@ The Mughal court sponsored translations to bring different knowledge traditions 
 
 Examples:
 
-| Text/Tradition | Mughal Treatment |
-| --- | --- |
-| Babur's memoirs | Translated from Turkish into Persian as Babur Nama. |
-| Mahabharata | Translated into Persian as Razmnama. |
+| Text/Tradition                  | Mughal Treatment                                             |
+| ------------------------------- | ------------------------------------------------------------ |
+| Babur's memoirs                 | Translated from Turkish into Persian as Babur Nama.          |
+| Mahabharata                     | Translated into Persian as Razmnama.                         |
 | Sanskrit and other Indian works | Translated to make knowledge available within court culture. |
 
 These projects supported Akbar's wider interest in cultural dialogue and imperial integration.
@@ -114,14 +114,14 @@ The imperial kitabkhana was both a library and a workshop where manuscripts were
 
 ### People Involved
 
-| Specialist | Work |
-| --- | --- |
-| Paper makers | Prepared paper folios. |
-| Calligraphers/scribes | Copied the text beautifully. |
-| Gilders | Decorated pages with gold and ornament. |
-| Painters | Created illustrations. |
-| Bookbinders | Bound folios into volumes. |
-| Supervisors | Checked quality and coordination. |
+| Specialist            | Work                                    |
+| --------------------- | --------------------------------------- |
+| Paper makers          | Prepared paper folios.                  |
+| Calligraphers/scribes | Copied the text beautifully.            |
+| Gilders               | Decorated pages with gold and ornament. |
+| Painters              | Created illustrations.                  |
+| Bookbinders           | Bound folios into volumes.              |
+| Supervisors           | Checked quality and coordination.       |
 
 Manuscripts were valuable objects combining knowledge, beauty, craftsmanship, and imperial patronage.
 
@@ -153,10 +153,10 @@ Abu'l Fazl was one of Akbar's closest advisers and the author of the Akbar Nama.
 
 ### Structure of Akbar Nama
 
-| Part | Content |
-| --- | --- |
-| Book 1 | History before and early part of Akbar's life. |
-| Book 2 | Chronological account of Akbar's reign. |
+| Part   | Content                                                                                |
+| ------ | -------------------------------------------------------------------------------------- |
+| Book 1 | History before and early part of Akbar's life.                                         |
+| Book 2 | Chronological account of Akbar's reign.                                                |
 | Book 3 | Ain-i Akbari: administrative, social, cultural, and statistical account of the empire. |
 
 ## 11. Badshah Nama
@@ -169,14 +169,14 @@ Like other Mughal chronicles, it presents imperial power in a grand and ordered 
 
 Mughal kingship was represented through several ideas.
 
-| Idea | Meaning |
-| --- | --- |
-| Divine light | The emperor was imagined as receiving light or favour from God. |
-| Sulh-i kul | Peace with all; principle of universal harmony and tolerance. |
-| Justice | The emperor was expected to protect weak and strong alike. |
-| Hierarchy | Court rituals ranked everyone according to status. |
-| Sovereignty | The emperor was the centre of political authority. |
-| Universal rule | The emperor was presented as ruler of a diverse population. |
+| Idea           | Meaning                                                         |
+| -------------- | --------------------------------------------------------------- |
+| Divine light   | The emperor was imagined as receiving light or favour from God. |
+| Sulh-i kul     | Peace with all; principle of universal harmony and tolerance.   |
+| Justice        | The emperor was expected to protect weak and strong alike.      |
+| Hierarchy      | Court rituals ranked everyone according to status.              |
+| Sovereignty    | The emperor was the centre of political authority.              |
+| Universal rule | The emperor was presented as ruler of a diverse population.     |
 
 ## 13. Divine Light
 
@@ -225,12 +225,12 @@ Court etiquette mattered because small gestures showed hierarchy and loyalty.
 
 Mughal capitals shifted over time.
 
-| Capital/Place | Significance |
-| --- | --- |
-| Agra | Important early Mughal capital. |
-| Fatehpur Sikri | Akbar's planned capital; linked with imperial vision and Sufi association. |
-| Lahore | Important during campaigns and north-western concerns. |
-| Shahjahanabad/Delhi | Shah Jahan's grand capital. |
+| Capital/Place       | Significance                                                               |
+| ------------------- | -------------------------------------------------------------------------- |
+| Agra                | Important early Mughal capital.                                            |
+| Fatehpur Sikri      | Akbar's planned capital; linked with imperial vision and Sufi association. |
+| Lahore              | Important during campaigns and north-western concerns.                     |
+| Shahjahanabad/Delhi | Shah Jahan's grand capital.                                                |
 
 Capital cities were not only administrative centres. They displayed imperial power through forts, palaces, mosques, markets, and ceremonial spaces.
 
@@ -240,34 +240,34 @@ The Mughal Empire depended on officials at central and provincial levels.
 
 ### Central Officials
 
-| Official | Function |
-| --- | --- |
-| Wazir/Diwan | Finance and revenue administration. |
-| Mir bakhshi | Military pay, ranks, and appointments. |
+| Official      | Function                                 |
+| ------------- | ---------------------------------------- |
+| Wazir/Diwan   | Finance and revenue administration.      |
+| Mir bakhshi   | Military pay, ranks, and appointments.   |
 | Sadr-us-sudur | Grants and religious/legal appointments. |
-| Qazi | Judicial function. |
+| Qazi          | Judicial function.                       |
 
 ### Provincial Administration
 
-| Unit/Official | Role |
-| --- | --- |
-| Suba | Province. |
-| Subadar | Provincial governor. |
-| Diwan | Provincial finance officer. |
-| Faujdar | Military commander in districts. |
+| Unit/Official    | Role                                    |
+| ---------------- | --------------------------------------- |
+| Suba             | Province.                               |
+| Subadar          | Provincial governor.                    |
+| Diwan            | Provincial finance officer.             |
+| Faujdar          | Military commander in districts.        |
 | Pargana officers | Local revenue and legal administration. |
-| Qanungo | Keeper of revenue records. |
-| Chaudhuri | Revenue collection role. |
+| Qanungo          | Keeper of revenue records.              |
+| Chaudhuri        | Revenue collection role.                |
 
 ## 19. Mansabdari System
 
 The mansabdari system ranked imperial officials and military commanders.
 
-| Term | Meaning |
-| --- | --- |
-| Mansab | Rank or position. |
-| Zat | Personal rank/status of the officer. |
-| Sawar | Number of cavalrymen the officer was expected to maintain. |
+| Term   | Meaning                                                    |
+| ------ | ---------------------------------------------------------- |
+| Mansab | Rank or position.                                          |
+| Zat    | Personal rank/status of the officer.                       |
+| Sawar  | Number of cavalrymen the officer was expected to maintain. |
 
 This system linked status, salary, military obligation, and imperial service.
 
@@ -309,30 +309,30 @@ When analysing a source, ask:
 
 ### Chronicle vs Modern History
 
-| Chronicle | Modern History |
-| --- | --- |
-| Often written by court insiders. | Written through critical study of multiple sources. |
-| May glorify ruler. | Tries to evaluate evidence critically. |
-| Focuses on emperor and court. | May include ordinary people, economy, gender, regions, and resistance. |
-| Preserves valuable details. | Interprets details in wider context. |
+| Chronicle                        | Modern History                                                         |
+| -------------------------------- | ---------------------------------------------------------------------- |
+| Often written by court insiders. | Written through critical study of multiple sources.                    |
+| May glorify ruler.               | Tries to evaluate evidence critically.                                 |
+| Focuses on emperor and court.    | May include ordinary people, economy, gender, regions, and resistance. |
+| Preserves valuable details.      | Interprets details in wider context.                                   |
 
 ### Written Text vs Painting
 
-| Written Chronicle | Painting |
-| --- | --- |
-| Gives narrative and explanation. | Gives visual representation. |
-| Records events, policies, ranks. | Shows hierarchy, symbols, gestures, and splendour. |
-| Can explain ideology directly. | Communicates ideology through image and composition. |
+| Written Chronicle                | Painting                                             |
+| -------------------------------- | ---------------------------------------------------- |
+| Gives narrative and explanation. | Gives visual representation.                         |
+| Records events, policies, ranks. | Shows hierarchy, symbols, gestures, and splendour.   |
+| Can explain ideology directly.   | Communicates ideology through image and composition. |
 
 ## 25. Common Mistakes and Corrections
 
-| Mistake | Correction |
-| --- | --- |
-| Treating chronicles as fully objective | They are valuable but court-centred and ideological. |
-| Forgetting Persian's importance | Persian was central to Mughal administration and culture. |
-| Ignoring manuscript production | Manuscripts were collaborative works of many specialists. |
-| Thinking paintings were only decorative | They communicated power, justice, and imperial ideas. |
-| Confusing Akbar Nama and Ain-i Akbari | Ain-i Akbari is the third book of Akbar Nama. |
+| Mistake                                         | Correction                                                   |
+| ----------------------------------------------- | ------------------------------------------------------------ |
+| Treating chronicles as fully objective          | They are valuable but court-centred and ideological.         |
+| Forgetting Persian's importance                 | Persian was central to Mughal administration and culture.    |
+| Ignoring manuscript production                  | Manuscripts were collaborative works of many specialists.    |
+| Thinking paintings were only decorative         | They communicated power, justice, and imperial ideas.        |
+| Confusing Akbar Nama and Ain-i Akbari           | Ain-i Akbari is the third book of Akbar Nama.                |
 | Treating sulh-i kul as only religious tolerance | It was also a principle of governance over a diverse empire. |
 
 ## 26. Exam Answer Frames
@@ -366,21 +366,21 @@ Sulh-i kul means peace with all. Under Akbar, it became a principle of governanc
 
 ## 28. Quick Revision Sheet
 
-| Term | Recall |
-| --- | --- |
-| Chronicle | Continuous historical account. |
-| Kitabkhana | Imperial manuscript workshop/library. |
-| Nastaliq | Important Persian calligraphy style. |
-| Akbar Nama | Court chronicle of Akbar's reign. |
+| Term         | Recall                                                         |
+| ------------ | -------------------------------------------------------------- |
+| Chronicle    | Continuous historical account.                                 |
+| Kitabkhana   | Imperial manuscript workshop/library.                          |
+| Nastaliq     | Important Persian calligraphy style.                           |
+| Akbar Nama   | Court chronicle of Akbar's reign.                              |
 | Ain-i Akbari | Administrative and cultural account; third book of Akbar Nama. |
-| Badshah Nama | Chronicle of Shah Jahan's reign. |
-| Sulh-i kul | Peace with all. |
-| Mansab | Rank in Mughal service. |
-| Zat | Personal rank. |
-| Sawar | Cavalry obligation/rank. |
-| Suba | Province. |
-| Subadar | Provincial governor. |
-| Divine light | Ideology of sacred kingship. |
+| Badshah Nama | Chronicle of Shah Jahan's reign.                               |
+| Sulh-i kul   | Peace with all.                                                |
+| Mansab       | Rank in Mughal service.                                        |
+| Zat          | Personal rank.                                                 |
+| Sawar        | Cavalry obligation/rank.                                       |
+| Suba         | Province.                                                      |
+| Subadar      | Provincial governor.                                           |
+| Divine light | Ideology of sacred kingship.                                   |
 
 ## 29. Final Learning Takeaway
 

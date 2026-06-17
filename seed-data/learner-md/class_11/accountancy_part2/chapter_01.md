@@ -1,4 +1,5 @@
 # Chapter 1: Financial Statements - I
+
 ### NCERT Class 11 - Accountancy Part 2
 
 ## Chapter at a Glance
@@ -12,19 +13,19 @@ After journal, ledger, and trial balance, the accountant prepares financial stat
 
 The chapter also explains the difference between capital and revenue items, because final accounts become wrong if this difference is ignored.
 
-| Area | Main Skill |
-|---|---|
-| Stakeholders | Knowing who uses accounting information |
-| Capital and revenue items | Classifying expenditure and receipts correctly |
-| Trading account | Finding gross profit or gross loss |
-| Profit and loss account | Finding net profit or net loss |
-| Closing entries | Transferring nominal accounts to final accounts |
-| Cost of goods sold | Calculating cost of goods actually sold |
-| Operating profit | Finding profit from normal business operations |
-| Balance sheet | Showing assets, liabilities, and capital |
-| Grouping | Putting similar balance sheet items under proper heads |
-| Marshalling | Arranging assets and liabilities in a meaningful order |
-| Opening entry | Bringing balance sheet balances into the next year |
+| Area                      | Main Skill                                             |
+| ------------------------- | ------------------------------------------------------ |
+| Stakeholders              | Knowing who uses accounting information                |
+| Capital and revenue items | Classifying expenditure and receipts correctly         |
+| Trading account           | Finding gross profit or gross loss                     |
+| Profit and loss account   | Finding net profit or net loss                         |
+| Closing entries           | Transferring nominal accounts to final accounts        |
+| Cost of goods sold        | Calculating cost of goods actually sold                |
+| Operating profit          | Finding profit from normal business operations         |
+| Balance sheet             | Showing assets, liabilities, and capital               |
+| Grouping                  | Putting similar balance sheet items under proper heads |
+| Marshalling               | Arranging assets and liabilities in a meaningful order |
+| Opening entry             | Bringing balance sheet balances into the next year     |
 
 ## Learning Outcomes
 
@@ -54,30 +55,30 @@ After studying this chapter, a learner should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Financial statements | Statements prepared from trial balance to show profit or loss and financial position |
-| Trading account | First part of final accounts used to calculate gross profit or gross loss |
-| Profit and loss account | Account used to calculate net profit or net loss |
-| Balance sheet | Statement showing assets, liabilities, and capital on a particular date |
-| Stakeholder | Person or group interested in business information |
-| Capital expenditure | Expenditure giving benefit for more than one accounting period |
-| Revenue expenditure | Expenditure normally giving benefit within one accounting period |
-| Deferred revenue expenditure | Revenue-type expenditure whose benefit extends beyond one year |
-| Capital receipt | Receipt that creates obligation or comes from sale of fixed asset |
-| Revenue receipt | Receipt from normal business operations or income |
-| Direct expenses | Expenses directly related to purchase, production, or bringing goods to saleable condition |
-| Indirect expenses | Expenses related to administration, selling, financing, or general business running |
-| Gross profit | Sales minus cost of goods sold |
-| Net profit | Gross profit plus other income minus indirect expenses |
-| Operating profit | Profit from normal operations before non-operating items |
-| Closing stock | Goods unsold at the end of the accounting period |
-| Current assets | Assets expected to become cash or be used within one year |
-| Current liabilities | Liabilities expected to be paid within one year |
-| Fixed assets | Long-term assets used in the business and not meant for resale |
-| Grouping | Combining similar items under common headings |
-| Marshalling | Arranging assets and liabilities in order of liquidity or permanence |
-| Opening entry | Journal entry passed to open asset, liability, and capital accounts of the new year |
+| Term                         | Meaning                                                                                    |
+| ---------------------------- | ------------------------------------------------------------------------------------------ |
+| Financial statements         | Statements prepared from trial balance to show profit or loss and financial position       |
+| Trading account              | First part of final accounts used to calculate gross profit or gross loss                  |
+| Profit and loss account      | Account used to calculate net profit or net loss                                           |
+| Balance sheet                | Statement showing assets, liabilities, and capital on a particular date                    |
+| Stakeholder                  | Person or group interested in business information                                         |
+| Capital expenditure          | Expenditure giving benefit for more than one accounting period                             |
+| Revenue expenditure          | Expenditure normally giving benefit within one accounting period                           |
+| Deferred revenue expenditure | Revenue-type expenditure whose benefit extends beyond one year                             |
+| Capital receipt              | Receipt that creates obligation or comes from sale of fixed asset                          |
+| Revenue receipt              | Receipt from normal business operations or income                                          |
+| Direct expenses              | Expenses directly related to purchase, production, or bringing goods to saleable condition |
+| Indirect expenses            | Expenses related to administration, selling, financing, or general business running        |
+| Gross profit                 | Sales minus cost of goods sold                                                             |
+| Net profit                   | Gross profit plus other income minus indirect expenses                                     |
+| Operating profit             | Profit from normal operations before non-operating items                                   |
+| Closing stock                | Goods unsold at the end of the accounting period                                           |
+| Current assets               | Assets expected to become cash or be used within one year                                  |
+| Current liabilities          | Liabilities expected to be paid within one year                                            |
+| Fixed assets                 | Long-term assets used in the business and not meant for resale                             |
+| Grouping                     | Combining similar items under common headings                                              |
+| Marshalling                  | Arranging assets and liabilities in order of liquidity or permanence                       |
+| Opening entry                | Journal entry passed to open asset, liability, and capital accounts of the new year        |
 
 # Unit 1A: Accounting Process up to Financial Statements
 
@@ -85,13 +86,13 @@ After studying this chapter, a learner should be able to:
 
 Financial statements are not prepared directly from memory. They are the result of a sequence.
 
-| Stage | Work Done |
-|---|---|
-| 1. Identify transactions | Select events measurable in money |
-| 2. Record in books | Enter transactions in journal or subsidiary books |
-| 3. Post to ledger | Transfer entries to individual accounts |
-| 4. Balance accounts | Find debit or credit balance of each account |
-| 5. Prepare trial balance | List balances and check debit-credit equality |
+| Stage                     | Work Done                                                           |
+| ------------------------- | ------------------------------------------------------------------- |
+| 1. Identify transactions  | Select events measurable in money                                   |
+| 2. Record in books        | Enter transactions in journal or subsidiary books                   |
+| 3. Post to ledger         | Transfer entries to individual accounts                             |
+| 4. Balance accounts       | Find debit or credit balance of each account                        |
+| 5. Prepare trial balance  | List balances and check debit-credit equality                       |
 | 6. Prepare final accounts | Prepare trading account, profit and loss account, and balance sheet |
 
 ## Trial Balance as the Starting Point
@@ -108,14 +109,14 @@ Trial balance contains:
 
 Final accounts sort these balances into performance items and position items.
 
-| Trial Balance Item | Goes To |
-|---|---|
+| Trial Balance Item  | Goes To                                    |
+| ------------------- | ------------------------------------------ |
 | Expenses and losses | Trading account or profit and loss account |
-| Incomes and gains | Trading account or profit and loss account |
-| Assets | Balance sheet |
-| Liabilities | Balance sheet |
-| Capital | Balance sheet |
-| Drawings | Deducted from capital in balance sheet |
+| Incomes and gains   | Trading account or profit and loss account |
+| Assets              | Balance sheet                              |
+| Liabilities         | Balance sheet                              |
+| Capital             | Balance sheet                              |
+| Drawings            | Deducted from capital in balance sheet     |
 
 ## Final Accounts of a Sole Proprietor
 
@@ -151,24 +152,24 @@ They may also have:
 
 Internal users are inside the business.
 
-| User | Main Interest | Information Needed |
-|---|---|---|
-| Owner | Profit, capital growth, safety of investment | Profit earned, assets, liabilities, capital position |
-| Manager | Planning, control, career performance | Profitability, liquidity, expenses, efficiency, financial position |
-| Employees | Job security, salary, bonus, growth | Profitability, stability, future prospects |
+| User      | Main Interest                                | Information Needed                                                 |
+| --------- | -------------------------------------------- | ------------------------------------------------------------------ |
+| Owner     | Profit, capital growth, safety of investment | Profit earned, assets, liabilities, capital position               |
+| Manager   | Planning, control, career performance        | Profitability, liquidity, expenses, efficiency, financial position |
+| Employees | Job security, salary, bonus, growth          | Profitability, stability, future prospects                         |
 
 ## External Users
 
 External users are outside the business.
 
-| User | Main Interest | Information Needed |
-|---|---|---|
-| Government | Regulation and taxation | Profit, tax liability, compliance information |
-| Bank | Loan safety and interest recovery | Profitability, liquidity, asset structure, debt-paying ability |
-| Prospective owner | Future investment | Past profit, financial position, risk, expected return |
-| Creditors | Payment of dues | Short-term liquidity and payment record |
-| Customers | Continuity of supply | Stability and long-term survival |
-| Researchers | Study and analysis | Financial trends and business patterns |
+| User              | Main Interest                     | Information Needed                                             |
+| ----------------- | --------------------------------- | -------------------------------------------------------------- |
+| Government        | Regulation and taxation           | Profit, tax liability, compliance information                  |
+| Bank              | Loan safety and interest recovery | Profitability, liquidity, asset structure, debt-paying ability |
+| Prospective owner | Future investment                 | Past profit, financial position, risk, expected return         |
+| Creditors         | Payment of dues                   | Short-term liquidity and payment record                        |
+| Customers         | Continuity of supply              | Stability and long-term survival                               |
+| Researchers       | Study and analysis                | Financial trends and business patterns                         |
 
 ## Why One Set of Statements Is Prepared
 
@@ -315,26 +316,26 @@ The key test is future benefit.
 
 # Unit 1G: Capital and Revenue Expenditure Compared
 
-| Basis | Capital Expenditure | Revenue Expenditure |
-|---|---|---|
-| Benefit period | More than one accounting period | Usually one accounting period |
-| Purpose | Acquire, improve, or extend asset | Run day-to-day business |
-| Earning capacity | Increases earning capacity | Maintains earning capacity |
-| Recurrence | Usually non-recurring | Usually recurring |
+| Basis                   | Capital Expenditure                    | Revenue Expenditure                        |
+| ----------------------- | -------------------------------------- | ------------------------------------------ |
+| Benefit period          | More than one accounting period        | Usually one accounting period              |
+| Purpose                 | Acquire, improve, or extend asset      | Run day-to-day business                    |
+| Earning capacity        | Increases earning capacity             | Maintains earning capacity                 |
+| Recurrence              | Usually non-recurring                  | Usually recurring                          |
 | Final account treatment | Balance sheet, subject to depreciation | Trading account or profit and loss account |
-| Examples | Machinery, building improvement | Salary, rent, routine repair |
+| Examples                | Machinery, building improvement        | Salary, rent, routine repair               |
 
 ## Classification Drill
 
-| Item | Classification | Reason |
-|---|---|---|
-| Repairs and whitewashing at time of purchase of old building to make it usable | Capital expenditure | Necessary to bring building into usable condition |
-| Extra exit in cinema hall due to government order | Capital expenditure | Improves building and gives long-term benefit |
-| Registration fee paid on purchase of building | Capital expenditure | Directly related to acquiring building |
-| Maintenance of tea garden that will produce tea after four years | Capital expenditure or deferred revenue treatment | Benefit relates to future earning period |
-| Depreciation on plant | Revenue expenditure | Current-period expired cost of fixed asset |
-| Platform erected for fixing machine | Capital expenditure | Necessary for installation and use of machine |
-| Advertising benefit lasting four years | Deferred revenue expenditure | Revenue nature, but benefit extends beyond current year |
+| Item                                                                           | Classification                                    | Reason                                                  |
+| ------------------------------------------------------------------------------ | ------------------------------------------------- | ------------------------------------------------------- |
+| Repairs and whitewashing at time of purchase of old building to make it usable | Capital expenditure                               | Necessary to bring building into usable condition       |
+| Extra exit in cinema hall due to government order                              | Capital expenditure                               | Improves building and gives long-term benefit           |
+| Registration fee paid on purchase of building                                  | Capital expenditure                               | Directly related to acquiring building                  |
+| Maintenance of tea garden that will produce tea after four years               | Capital expenditure or deferred revenue treatment | Benefit relates to future earning period                |
+| Depreciation on plant                                                          | Revenue expenditure                               | Current-period expired cost of fixed asset              |
+| Platform erected for fixing machine                                            | Capital expenditure                               | Necessary for installation and use of machine           |
+| Advertising benefit lasting four years                                         | Deferred revenue expenditure                      | Revenue nature, but benefit extends beyond current year |
 
 # Unit 1H: Capital and Revenue Receipts
 
@@ -369,12 +370,12 @@ Examples:
 
 ## Comparison
 
-| Basis | Capital Receipt | Revenue Receipt |
-|---|---|---|
-| Nature | Non-operating capital inflow or liability-creating inflow | Income from operations or regular income |
-| Obligation | May create obligation to repay | Usually no repayment obligation |
-| Final account effect | Balance sheet, or capital profit treatment | Trading account or profit and loss account |
-| Example | Loan from bank | Sales |
+| Basis                | Capital Receipt                                           | Revenue Receipt                            |
+| -------------------- | --------------------------------------------------------- | ------------------------------------------ |
+| Nature               | Non-operating capital inflow or liability-creating inflow | Income from operations or regular income   |
+| Obligation           | May create obligation to repay                            | Usually no repayment obligation            |
+| Final account effect | Balance sheet, or capital profit treatment                | Trading account or profit and loss account |
+| Example              | Loan from bank                                            | Sales                                      |
 
 # Unit 1I: Effect of Wrong Classification
 
@@ -446,47 +447,47 @@ Financial statements are prepared:
 
 ## Performance vs Position
 
-| Statement | Shows | Period or Date |
-|---|---|---|
-| Trading account | Gross profit or gross loss | For a period |
-| Profit and loss account | Net profit or net loss | For a period |
-| Balance sheet | Assets, liabilities, capital | On a date |
+| Statement               | Shows                        | Period or Date |
+| ----------------------- | ---------------------------- | -------------- |
+| Trading account         | Gross profit or gross loss   | For a period   |
+| Profit and loss account | Net profit or net loss       | For a period   |
+| Balance sheet           | Assets, liabilities, capital | On a date      |
 
 # Unit 1K: Trial Balance Classification
 
 ## Example Trial Balance of Ankit
 
-| Account | Debit Rs. | Credit Rs. | Element |
-|---|---:|---:|---|
-| Cash | 1,000 |  | Asset |
-| Bank | 5,000 |  | Asset |
-| Wages | 8,000 |  | Direct expense |
-| Salaries | 25,000 |  | Indirect expense |
-| Furniture | 15,000 |  | Asset |
-| Rent of building | 13,000 |  | Indirect expense |
-| Debtors | 15,500 |  | Asset |
-| Bad debts | 4,500 |  | Loss |
-| Purchases | 75,000 |  | Direct cost |
-| Capital |  | 12,000 | Capital |
-| Sales |  | 1,25,000 | Revenue |
-| Creditors |  | 15,000 | Liability |
-| 10% long-term loan |  | 5,000 | Liability |
-| Commission received |  | 5,000 | Income |
-| Total | 1,62,000 | 1,62,000 |  |
+| Account             | Debit Rs. | Credit Rs. | Element          |
+| ------------------- | --------: | ---------: | ---------------- |
+| Cash                |     1,000 |            | Asset            |
+| Bank                |     5,000 |            | Asset            |
+| Wages               |     8,000 |            | Direct expense   |
+| Salaries            |    25,000 |            | Indirect expense |
+| Furniture           |    15,000 |            | Asset            |
+| Rent of building    |    13,000 |            | Indirect expense |
+| Debtors             |    15,500 |            | Asset            |
+| Bad debts           |     4,500 |            | Loss             |
+| Purchases           |    75,000 |            | Direct cost      |
+| Capital             |           |     12,000 | Capital          |
+| Sales               |           |   1,25,000 | Revenue          |
+| Creditors           |           |     15,000 | Liability        |
+| 10% long-term loan  |           |      5,000 | Liability        |
+| Commission received |           |      5,000 | Income           |
+| Total               |  1,62,000 |   1,62,000 |                  |
 
 ## Final Account Placement
 
-| Account | Final Account Treatment |
-|---|---|
-| Purchases | Debit side of trading account |
-| Wages | Debit side of trading account |
-| Sales | Credit side of trading account |
-| Salaries | Debit side of profit and loss account |
-| Rent of building | Debit side of profit and loss account |
-| Bad debts | Debit side of profit and loss account |
-| Commission received | Credit side of profit and loss account |
-| Cash, bank, furniture, debtors | Asset side of balance sheet |
-| Capital, loan, creditors | Liabilities side of balance sheet |
+| Account                        | Final Account Treatment                |
+| ------------------------------ | -------------------------------------- |
+| Purchases                      | Debit side of trading account          |
+| Wages                          | Debit side of trading account          |
+| Sales                          | Credit side of trading account         |
+| Salaries                       | Debit side of profit and loss account  |
+| Rent of building               | Debit side of profit and loss account  |
+| Bad debts                      | Debit side of profit and loss account  |
+| Commission received            | Credit side of profit and loss account |
+| Cash, bank, furniture, debtors | Asset side of balance sheet            |
+| Capital, loan, creditors       | Liabilities side of balance sheet      |
 
 # Unit 1L: Trading Account
 
@@ -551,17 +552,17 @@ Examples:
 
 ## Trading Account Format
 
-| Dr. Expenses/Losses | Rs. | Cr. Revenues/Gains | Rs. |
-|---|---:|---|---:|
-| Opening stock | xxx | Sales | xxx |
-| Purchases | xxx | Less: Sales return | (xxx) |
-| Less: Purchases return | (xxx) | Net sales | xxx |
-| Net purchases | xxx | Closing stock | xxx |
-| Direct wages | xxx | Gross loss c/d | xxx |
-| Carriage inward | xxx |  |  |
-| Other direct expenses | xxx |  |  |
-| Gross profit c/d | xxx |  |  |
-| Total | xxx | Total | xxx |
+| Dr. Expenses/Losses    |   Rs. | Cr. Revenues/Gains |   Rs. |
+| ---------------------- | ----: | ------------------ | ----: |
+| Opening stock          |   xxx | Sales              |   xxx |
+| Purchases              |   xxx | Less: Sales return | (xxx) |
+| Less: Purchases return | (xxx) | Net sales          |   xxx |
+| Net purchases          |   xxx | Closing stock      |   xxx |
+| Direct wages           |   xxx | Gross loss c/d     |   xxx |
+| Carriage inward        |   xxx |                    |       |
+| Other direct expenses  |   xxx |                    |       |
+| Gross profit c/d       |   xxx |                    |       |
+| Total                  |   xxx | Total              |   xxx |
 
 ## Gross Profit and Gross Loss
 
@@ -624,16 +625,16 @@ Items usually credited:
 
 ## Profit and Loss Account Format
 
-| Dr. Expenses/Losses | Rs. | Cr. Revenues/Gains | Rs. |
-|---|---:|---|---:|
-| Gross loss b/d | xxx | Gross profit b/d | xxx |
-| Salaries | xxx | Interest received | xxx |
-| Rent | xxx | Commission received | xxx |
-| Repairs | xxx | Discount received | xxx |
-| Bad debts | xxx | Other income | xxx |
-| Depreciation | xxx | Net loss transferred to capital | xxx |
-| Net profit transferred to capital | xxx |  |  |
-| Total | xxx | Total | xxx |
+| Dr. Expenses/Losses               | Rs. | Cr. Revenues/Gains              | Rs. |
+| --------------------------------- | --: | ------------------------------- | --: |
+| Gross loss b/d                    | xxx | Gross profit b/d                | xxx |
+| Salaries                          | xxx | Interest received               | xxx |
+| Rent                              | xxx | Commission received             | xxx |
+| Repairs                           | xxx | Discount received               | xxx |
+| Bad debts                         | xxx | Other income                    | xxx |
+| Depreciation                      | xxx | Net loss transferred to capital | xxx |
+| Net profit transferred to capital | xxx |                                 |     |
+| Total                             | xxx | Total                           | xxx |
 
 ## Net Profit and Net Loss
 
@@ -647,17 +648,17 @@ If indirect expenses exceed gross profit plus other incomes, the result is net l
 
 For net profit:
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Profit and Loss A/c Dr. | xxx |  |
-| To Capital A/c |  | xxx |
+| Entry                   | Debit Rs. | Credit Rs. |
+| ----------------------- | --------: | ---------: |
+| Profit and Loss A/c Dr. |       xxx |            |
+| To Capital A/c          |           |        xxx |
 
 For net loss:
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Capital A/c Dr. | xxx |  |
-| To Profit and Loss A/c |  | xxx |
+| Entry                  | Debit Rs. | Credit Rs. |
+| ---------------------- | --------: | ---------: |
+| Capital A/c Dr.        |       xxx |            |
+| To Profit and Loss A/c |           |        xxx |
 
 # Unit 1N: Closing Entries
 
@@ -676,119 +677,119 @@ After closing entries, these accounts do not carry balances to the next year.
 
 ## Closing Direct Expenses to Trading Account
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Trading A/c Dr. | xxx |  |
-| To Opening Stock A/c |  | xxx |
-| To Purchases A/c |  | xxx |
-| To Wages A/c |  | xxx |
-| To Carriage Inwards A/c |  | xxx |
-| To Other Direct Expenses A/c |  | xxx |
+| Entry                        | Debit Rs. | Credit Rs. |
+| ---------------------------- | --------: | ---------: |
+| Trading A/c Dr.              |       xxx |            |
+| To Opening Stock A/c         |           |        xxx |
+| To Purchases A/c             |           |        xxx |
+| To Wages A/c                 |           |        xxx |
+| To Carriage Inwards A/c      |           |        xxx |
+| To Other Direct Expenses A/c |           |        xxx |
 
 ## Closing Purchases Return
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Purchases Return A/c Dr. | xxx |  |
-| To Purchases A/c |  | xxx |
+| Entry                    | Debit Rs. | Credit Rs. |
+| ------------------------ | --------: | ---------: |
+| Purchases Return A/c Dr. |       xxx |            |
+| To Purchases A/c         |           |        xxx |
 
 ## Closing Sales Return
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Sales A/c Dr. | xxx |  |
-| To Sales Return A/c |  | xxx |
+| Entry               | Debit Rs. | Credit Rs. |
+| ------------------- | --------: | ---------: |
+| Sales A/c Dr.       |       xxx |            |
+| To Sales Return A/c |           |        xxx |
 
 ## Closing Sales to Trading Account
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Sales A/c Dr. | xxx |  |
-| To Trading A/c |  | xxx |
+| Entry          | Debit Rs. | Credit Rs. |
+| -------------- | --------: | ---------: |
+| Sales A/c Dr.  |       xxx |            |
+| To Trading A/c |           |        xxx |
 
 ## Closing Indirect Expenses and Losses
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Profit and Loss A/c Dr. | xxx |  |
-| To Salaries A/c |  | xxx |
-| To Rent A/c |  | xxx |
-| To Bad Debts A/c |  | xxx |
-| To Depreciation A/c |  | xxx |
-| To Other Expenses/Losses A/c |  | xxx |
+| Entry                        | Debit Rs. | Credit Rs. |
+| ---------------------------- | --------: | ---------: |
+| Profit and Loss A/c Dr.      |       xxx |            |
+| To Salaries A/c              |           |        xxx |
+| To Rent A/c                  |           |        xxx |
+| To Bad Debts A/c             |           |        xxx |
+| To Depreciation A/c          |           |        xxx |
+| To Other Expenses/Losses A/c |           |        xxx |
 
 ## Closing Incomes and Gains
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Commission Received A/c Dr. | xxx |  |
-| Interest Received A/c Dr. | xxx |  |
-| Rent Received A/c Dr. | xxx |  |
-| Other Incomes/Gains A/c Dr. | xxx |  |
-| To Profit and Loss A/c |  | xxx |
+| Entry                       | Debit Rs. | Credit Rs. |
+| --------------------------- | --------: | ---------: |
+| Commission Received A/c Dr. |       xxx |            |
+| Interest Received A/c Dr.   |       xxx |            |
+| Rent Received A/c Dr.       |       xxx |            |
+| Other Incomes/Gains A/c Dr. |       xxx |            |
+| To Profit and Loss A/c      |           |        xxx |
 
 ## Example: Closing Entries for Ankit
 
 Direct expenses:
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Trading A/c Dr. | 83,000 |  |
-| To Purchases A/c |  | 75,000 |
-| To Wages A/c |  | 8,000 |
+| Entry            | Debit Rs. | Credit Rs. |
+| ---------------- | --------: | ---------: |
+| Trading A/c Dr.  |    83,000 |            |
+| To Purchases A/c |           |     75,000 |
+| To Wages A/c     |           |      8,000 |
 
 Indirect expenses:
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Profit and Loss A/c Dr. | 42,500 |  |
-| To Salaries A/c |  | 25,000 |
-| To Rent of Building A/c |  | 13,000 |
-| To Bad Debts A/c |  | 4,500 |
+| Entry                   | Debit Rs. | Credit Rs. |
+| ----------------------- | --------: | ---------: |
+| Profit and Loss A/c Dr. |    42,500 |            |
+| To Salaries A/c         |           |     25,000 |
+| To Rent of Building A/c |           |     13,000 |
+| To Bad Debts A/c        |           |      4,500 |
 
 Sales:
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Sales A/c Dr. | 1,25,000 |  |
-| To Trading A/c |  | 1,25,000 |
+| Entry          | Debit Rs. | Credit Rs. |
+| -------------- | --------: | ---------: |
+| Sales A/c Dr.  |  1,25,000 |            |
+| To Trading A/c |           |   1,25,000 |
 
 Income:
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Commission Received A/c Dr. | 5,000 |  |
-| To Profit and Loss A/c |  | 5,000 |
+| Entry                       | Debit Rs. | Credit Rs. |
+| --------------------------- | --------: | ---------: |
+| Commission Received A/c Dr. |     5,000 |            |
+| To Profit and Loss A/c      |           |      5,000 |
 
 # Unit 1O: Worked Example - Ankit Without Closing Stock
 
 ## Trial Balance Extract
 
-| Account | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Cash | 1,000 |  |
-| Bank | 5,000 |  |
-| Wages | 8,000 |  |
-| Salaries | 25,000 |  |
-| Furniture | 15,000 |  |
-| Rent of building | 13,000 |  |
-| Debtors | 15,500 |  |
-| Bad debts | 4,500 |  |
-| Purchases | 75,000 |  |
-| Capital |  | 12,000 |
-| Sales |  | 1,25,000 |
-| Creditors |  | 15,000 |
-| Long-term loan |  | 5,000 |
-| Commission received |  | 5,000 |
+| Account             | Debit Rs. | Credit Rs. |
+| ------------------- | --------: | ---------: |
+| Cash                |     1,000 |            |
+| Bank                |     5,000 |            |
+| Wages               |     8,000 |            |
+| Salaries            |    25,000 |            |
+| Furniture           |    15,000 |            |
+| Rent of building    |    13,000 |            |
+| Debtors             |    15,500 |            |
+| Bad debts           |     4,500 |            |
+| Purchases           |    75,000 |            |
+| Capital             |           |     12,000 |
+| Sales               |           |   1,25,000 |
+| Creditors           |           |     15,000 |
+| Long-term loan      |           |      5,000 |
+| Commission received |           |      5,000 |
 
 ## Trading Account
 
-| Dr. Expenses/Losses | Rs. | Cr. Revenues/Gains | Rs. |
-|---|---:|---|---:|
-| Purchases | 75,000 | Sales | 1,25,000 |
-| Wages | 8,000 |  |  |
-| Gross profit c/d | 42,000 |  |  |
-| Total | 1,25,000 | Total | 1,25,000 |
+| Dr. Expenses/Losses |      Rs. | Cr. Revenues/Gains |      Rs. |
+| ------------------- | -------: | ------------------ | -------: |
+| Purchases           |   75,000 | Sales              | 1,25,000 |
+| Wages               |    8,000 |                    |          |
+| Gross profit c/d    |   42,000 |                    |          |
+| Total               | 1,25,000 | Total              | 1,25,000 |
 
 Gross profit:
 
@@ -796,24 +797,24 @@ Gross profit:
 
 ## Profit and Loss Account
 
-| Dr. Expenses/Losses | Rs. | Cr. Revenues/Gains | Rs. |
-|---|---:|---|---:|
-| Salaries | 25,000 | Gross profit b/d | 42,000 |
-| Rent of building | 13,000 | Commission received | 5,000 |
-| Bad debts | 4,500 |  |  |
-| Net profit transferred to capital | 4,500 |  |  |
-| Total | 47,000 | Total | 47,000 |
+| Dr. Expenses/Losses               |    Rs. | Cr. Revenues/Gains  |    Rs. |
+| --------------------------------- | -----: | ------------------- | -----: |
+| Salaries                          | 25,000 | Gross profit b/d    | 42,000 |
+| Rent of building                  | 13,000 | Commission received |  5,000 |
+| Bad debts                         |  4,500 |                     |        |
+| Net profit transferred to capital |  4,500 |                     |        |
+| Total                             | 47,000 | Total               | 47,000 |
 
 ## Balance Sheet
 
-| Liabilities | Rs. | Assets | Rs. |
-|---|---:|---|---:|
-| Capital | 12,000 | Furniture | 15,000 |
-| Add: Net profit | 4,500 | Cash | 1,000 |
-| Adjusted capital | 16,500 | Bank | 5,000 |
-| Long-term loan | 5,000 | Debtors | 15,500 |
-| Creditors | 15,000 |  |  |
-| Total | 36,500 | Total | 36,500 |
+| Liabilities      |    Rs. | Assets    |    Rs. |
+| ---------------- | -----: | --------- | -----: |
+| Capital          | 12,000 | Furniture | 15,000 |
+| Add: Net profit  |  4,500 | Cash      |  1,000 |
+| Adjusted capital | 16,500 | Bank      |  5,000 |
+| Long-term loan   |  5,000 | Debtors   | 15,500 |
+| Creditors        | 15,000 |           |        |
+| Total            | 36,500 | Total     | 36,500 |
 
 # Unit 1P: Cost of Goods Sold and Closing Stock
 
@@ -856,10 +857,10 @@ Because a business may have:
 
 Closing stock is usually not in trial balance. It is brought into books by:
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Closing Stock A/c Dr. | xxx |  |
-| To Trading A/c |  | xxx |
+| Entry                 | Debit Rs. | Credit Rs. |
+| --------------------- | --------: | ---------: |
+| Closing Stock A/c Dr. |       xxx |            |
+| To Trading A/c        |           |        xxx |
 
 Closing stock appears:
 
@@ -880,22 +881,22 @@ Gross profit:
 
 ## Trading Account With Closing Stock
 
-| Dr. Expenses/Losses | Rs. | Cr. Revenues/Gains | Rs. |
-|---|---:|---|---:|
-| Purchases | 75,000 | Sales | 1,25,000 |
-| Wages | 8,000 | Closing stock | 15,000 |
-| Gross profit c/d | 57,000 |  |  |
-| Total | 1,40,000 | Total | 1,40,000 |
+| Dr. Expenses/Losses |      Rs. | Cr. Revenues/Gains |      Rs. |
+| ------------------- | -------: | ------------------ | -------: |
+| Purchases           |   75,000 | Sales              | 1,25,000 |
+| Wages               |    8,000 | Closing stock      |   15,000 |
+| Gross profit c/d    |   57,000 |                    |          |
+| Total               | 1,40,000 | Total              | 1,40,000 |
 
 ## Profit and Loss Account With Closing Stock
 
-| Dr. Expenses/Losses | Rs. | Cr. Revenues/Gains | Rs. |
-|---|---:|---|---:|
-| Salaries | 25,000 | Gross profit b/d | 57,000 |
-| Rent of building | 13,000 | Commission received | 5,000 |
-| Bad debts | 4,500 |  |  |
-| Net profit transferred to capital | 19,500 |  |  |
-| Total | 62,000 | Total | 62,000 |
+| Dr. Expenses/Losses               |    Rs. | Cr. Revenues/Gains  |    Rs. |
+| --------------------------------- | -----: | ------------------- | -----: |
+| Salaries                          | 25,000 | Gross profit b/d    | 57,000 |
+| Rent of building                  | 13,000 | Commission received |  5,000 |
+| Bad debts                         |  4,500 |                     |        |
+| Net profit transferred to capital | 19,500 |                     |        |
+| Total                             | 62,000 | Total               | 62,000 |
 
 ## Important Learning Point
 
@@ -907,37 +908,37 @@ Closing stock increases gross profit because goods not sold should not be treate
 
 Calculate cost of goods sold and prepare trading account.
 
-| Particulars | Rs. |
-|---|---:|
-| Sales | 20,00,000 |
-| Purchases | 15,00,000 |
-| Wages | 1,00,000 |
-| Opening stock | 3,00,000 |
-| Closing stock | 4,00,000 |
-| Freight inward | 1,00,000 |
+| Particulars    |       Rs. |
+| -------------- | --------: |
+| Sales          | 20,00,000 |
+| Purchases      | 15,00,000 |
+| Wages          |  1,00,000 |
+| Opening stock  |  3,00,000 |
+| Closing stock  |  4,00,000 |
+| Freight inward |  1,00,000 |
 
 ## Cost of Goods Sold
 
-| Particulars | Rs. |
-|---|---:|
-| Opening stock | 3,00,000 |
-| Add: Purchases | 15,00,000 |
-| Add: Freight inward | 1,00,000 |
-| Add: Wages | 1,00,000 |
+| Particulars              |       Rs. |
+| ------------------------ | --------: |
+| Opening stock            |  3,00,000 |
+| Add: Purchases           | 15,00,000 |
+| Add: Freight inward      |  1,00,000 |
+| Add: Wages               |  1,00,000 |
 | Goods available for sale | 20,00,000 |
-| Less: Closing stock | 4,00,000 |
-| Cost of goods sold | 16,00,000 |
+| Less: Closing stock      |  4,00,000 |
+| Cost of goods sold       | 16,00,000 |
 
 ## Trading Account
 
-| Dr. Expenses/Losses | Rs. | Cr. Revenues/Gains | Rs. |
-|---|---:|---|---:|
-| Opening stock | 3,00,000 | Sales | 20,00,000 |
-| Purchases | 15,00,000 | Closing stock | 4,00,000 |
-| Freight inward | 1,00,000 |  |  |
-| Wages | 1,00,000 |  |  |
-| Gross profit c/d | 4,00,000 |  |  |
-| Total | 24,00,000 | Total | 24,00,000 |
+| Dr. Expenses/Losses |       Rs. | Cr. Revenues/Gains |       Rs. |
+| ------------------- | --------: | ------------------ | --------: |
+| Opening stock       |  3,00,000 | Sales              | 20,00,000 |
+| Purchases           | 15,00,000 | Closing stock      |  4,00,000 |
+| Freight inward      |  1,00,000 |                    |           |
+| Wages               |  1,00,000 |                    |           |
+| Gross profit c/d    |  4,00,000 |                    |           |
+| Total               | 24,00,000 | Total              | 24,00,000 |
 
 # Unit 1R: Operating Profit
 
@@ -982,12 +983,12 @@ Because they were added while finding net profit, but they do not belong to norm
 
 ## Examples of Non-Operating Items
 
-| Non-Operating Income | Non-Operating Expense |
-|---|---|
-| Dividend on investment | Loss on sale of old furniture |
-| Profit on sale of investment | Interest on loan, when calculating EBIT |
-| Rent from non-business property | Loss by fire |
-| Interest on investment | Abnormal loss |
+| Non-Operating Income            | Non-Operating Expense                   |
+| ------------------------------- | --------------------------------------- |
+| Dividend on investment          | Loss on sale of old furniture           |
+| Profit on sale of investment    | Interest on loan, when calculating EBIT |
+| Rent from non-business property | Loss by fire                            |
+| Interest on investment          | Abnormal loss                           |
 
 ## Example
 
@@ -1003,19 +1004,19 @@ Operating profit:
 
 ## Worked Example
 
-| Particulars | Rs. |
-|---|---:|
-| Sales | 75,250 |
-| Sales return | 1,250 |
-| Purchases | 32,250 |
-| Purchases return | 250 |
-| Opening stock | 7,600 |
-| Closing stock | 8,000 |
-| Wages | 2,600 |
-| Operating indirect expenses | 8,600 |
-| Loss on sale of old furniture | 300 |
-| Profit on sale of investment | 500 |
-| Dividend on investment | 2,500 |
+| Particulars                   |    Rs. |
+| ----------------------------- | -----: |
+| Sales                         | 75,250 |
+| Sales return                  |  1,250 |
+| Purchases                     | 32,250 |
+| Purchases return              |    250 |
+| Opening stock                 |  7,600 |
+| Closing stock                 |  8,000 |
+| Wages                         |  2,600 |
+| Operating indirect expenses   |  8,600 |
+| Loss on sale of old furniture |    300 |
+| Profit on sale of investment  |    500 |
+| Dividend on investment        |  2,500 |
 
 Net sales:
 
@@ -1081,16 +1082,16 @@ or
 
 ## Balance Sheet Format
 
-| Liabilities | Rs. | Assets | Rs. |
-|---|---:|---|---:|
-| Capital | xxx | Cash | xxx |
-| Add: Net profit | xxx | Bank | xxx |
-| Less: Drawings | (xxx) | Debtors | xxx |
-| Long-term loan | xxx | Closing stock | xxx |
-| Creditors | xxx | Furniture | xxx |
-| Bills payable | xxx | Building | xxx |
-| Bank overdraft | xxx | Goodwill | xxx |
-| Total | xxx | Total | xxx |
+| Liabilities     |   Rs. | Assets        | Rs. |
+| --------------- | ----: | ------------- | --: |
+| Capital         |   xxx | Cash          | xxx |
+| Add: Net profit |   xxx | Bank          | xxx |
+| Less: Drawings  | (xxx) | Debtors       | xxx |
+| Long-term loan  |   xxx | Closing stock | xxx |
+| Creditors       |   xxx | Furniture     | xxx |
+| Bills payable   |   xxx | Building      | xxx |
+| Bank overdraft  |   xxx | Goodwill      | xxx |
+| Total           |   xxx | Total         | xxx |
 
 # Unit 1T: Balance Sheet Items
 
@@ -1178,14 +1179,14 @@ It is affected by:
 
 Basic presentation:
 
-| Particulars | Rs. |
-|---|---:|
-| Opening capital | xxx |
-| Add: Additional capital | xxx |
-| Add: Net profit | xxx |
-| Less: Drawings | (xxx) |
-| Less: Net loss | (xxx) |
-| Closing capital | xxx |
+| Particulars             |   Rs. |
+| ----------------------- | ----: |
+| Opening capital         |   xxx |
+| Add: Additional capital |   xxx |
+| Add: Net profit         |   xxx |
+| Less: Drawings          | (xxx) |
+| Less: Net loss          | (xxx) |
+| Closing capital         |   xxx |
 
 ## Drawings
 
@@ -1227,13 +1228,13 @@ Liabilities side:
 
 ## Example: Order of Permanence
 
-| Liabilities | Rs. | Assets | Rs. |
-|---|---:|---|---:|
-| Capital | 16,500 | Furniture | 15,000 |
-| Long-term loan | 5,000 | Debtors | 15,500 |
-| Creditors | 15,000 | Bank | 5,000 |
-|  |  | Cash | 1,000 |
-| Total | 36,500 | Total | 36,500 |
+| Liabilities    |    Rs. | Assets    |    Rs. |
+| -------------- | -----: | --------- | -----: |
+| Capital        | 16,500 | Furniture | 15,000 |
+| Long-term loan |  5,000 | Debtors   | 15,500 |
+| Creditors      | 15,000 | Bank      |  5,000 |
+|                |        | Cash      |  1,000 |
+| Total          | 36,500 | Total     | 36,500 |
 
 ## Order of Liquidity
 
@@ -1255,13 +1256,13 @@ Liabilities side:
 
 ## Example: Order of Liquidity
 
-| Liabilities | Rs. | Assets | Rs. |
-|---|---:|---|---:|
-| Creditors | 15,000 | Cash | 1,000 |
-| Long-term loan | 5,000 | Bank | 5,000 |
-| Capital | 16,500 | Debtors | 15,500 |
-|  |  | Furniture | 15,000 |
-| Total | 36,500 | Total | 36,500 |
+| Liabilities    |    Rs. | Assets    |    Rs. |
+| -------------- | -----: | --------- | -----: |
+| Creditors      | 15,000 | Cash      |  1,000 |
+| Long-term loan |  5,000 | Bank      |  5,000 |
+| Capital        | 16,500 | Debtors   | 15,500 |
+|                |        | Furniture | 15,000 |
+| Total          | 36,500 | Total     | 36,500 |
 
 ## Which Order Should Be Used?
 
@@ -1281,27 +1282,27 @@ It improves readability.
 
 ## Common Groups
 
-| Group | Items |
-|---|---|
-| Owner's funds | Capital, additions, profit, drawings adjustment |
-| Non-current liabilities | Long-term loans |
-| Current liabilities | Creditors, bills payable, bank overdraft, outstanding expenses |
-| Non-current assets | Land, building, plant, machinery, furniture |
-| Current assets | Cash, bank, debtors, stock, bills receivable |
-| Intangible assets | Goodwill, patents, trademarks |
-| Investments | Government securities, shares, bonds |
+| Group                   | Items                                                          |
+| ----------------------- | -------------------------------------------------------------- |
+| Owner's funds           | Capital, additions, profit, drawings adjustment                |
+| Non-current liabilities | Long-term loans                                                |
+| Current liabilities     | Creditors, bills payable, bank overdraft, outstanding expenses |
+| Non-current assets      | Land, building, plant, machinery, furniture                    |
+| Current assets          | Cash, bank, debtors, stock, bills receivable                   |
+| Intangible assets       | Goodwill, patents, trademarks                                  |
+| Investments             | Government securities, shares, bonds                           |
 
 ## Grouped Balance Sheet Example
 
-| Liabilities | Rs. | Assets | Rs. |
-|---|---:|---|---:|
-| Owner's funds |  | Non-current assets |  |
-| Capital plus profit | 16,500 | Furniture | 15,000 |
-| Non-current liabilities |  | Current assets |  |
-| Long-term loan | 5,000 | Debtors | 15,500 |
-| Current liabilities |  | Bank | 5,000 |
-| Creditors | 15,000 | Cash | 1,000 |
-| Total | 36,500 | Total | 36,500 |
+| Liabilities             |    Rs. | Assets             |    Rs. |
+| ----------------------- | -----: | ------------------ | -----: |
+| Owner's funds           |        | Non-current assets |        |
+| Capital plus profit     | 16,500 | Furniture          | 15,000 |
+| Non-current liabilities |        | Current assets     |        |
+| Long-term loan          |  5,000 | Debtors            | 15,500 |
+| Current liabilities     |        | Bank               |  5,000 |
+| Creditors               | 15,000 | Cash               |  1,000 |
+| Total                   | 36,500 | Total              | 36,500 |
 
 # Unit 1W: Opening Entry
 
@@ -1315,11 +1316,11 @@ Liabilities and capital are credited.
 
 ## Format
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Assets A/c Dr. | xxx |  |
-| To Liabilities A/c |  | xxx |
-| To Capital A/c |  | xxx |
+| Entry              | Debit Rs. | Credit Rs. |
+| ------------------ | --------: | ---------: |
+| Assets A/c Dr.     |       xxx |            |
+| To Liabilities A/c |           |        xxx |
+| To Capital A/c     |           |        xxx |
 
 ## Example
 
@@ -1340,15 +1341,15 @@ Liabilities and capital:
 
 Opening entry:
 
-| Particulars | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Furniture A/c Dr. | 15,000 |  |
-| Debtors A/c Dr. | 15,500 |  |
-| Bank A/c Dr. | 5,000 |  |
-| Cash A/c Dr. | 1,000 |  |
-| To Capital A/c |  | 16,500 |
-| To Long-term Loan A/c |  | 5,000 |
-| To Creditors A/c |  | 15,000 |
+| Particulars           | Debit Rs. | Credit Rs. |
+| --------------------- | --------: | ---------: |
+| Furniture A/c Dr.     |    15,000 |            |
+| Debtors A/c Dr.       |    15,500 |            |
+| Bank A/c Dr.          |     5,000 |            |
+| Cash A/c Dr.          |     1,000 |            |
+| To Capital A/c        |           |     16,500 |
+| To Long-term Loan A/c |           |      5,000 |
+| To Creditors A/c      |           |     15,000 |
 
 # Unit 1X: Worked Example - Full Final Accounts
 
@@ -1356,70 +1357,70 @@ Opening entry:
 
 Prepare trading and profit and loss account and balance sheet from these balances.
 
-| Account | Rs. | Account | Rs. |
-|---|---:|---|---:|
-| Carriage on goods purchased | 8,000 | Cash in hand | 2,500 |
-| Carriage on goods sold | 3,500 | Bank overdraft | 30,000 |
-| Manufacturing expenses | 42,000 | Motor car | 60,000 |
-| Drawings | 8,000 | Advertisement | 7,000 |
-| Audit fees | 2,700 | Excise duty | 6,000 |
-| Plant | 1,53,900 | Factory lighting | 4,400 |
-| Repairs to plant | 2,200 | Debtors | 80,000 |
-| Closing stock | 76,000 | Creditors | 61,000 |
-| Purchases less returns | 1,60,000 | Dock and clearing charges | 5,200 |
-| Commission on purchases | 2,000 | Postage and telegram | 800 |
-| Incidental trade expenses | 3,200 | Fire insurance premium | 3,600 |
-| Investment | 30,000 | Patents | 12,000 |
-| Interest on investment | 4,500 | Income tax | 24,000 |
-| Capital | 1,00,000 | Office expenses | 7,200 |
-| Sales less returns | 5,20,000 | Sales tax paid | 12,000 |
-| Discount allowed | 2,700 | Discount on purchases | 3,400 |
+| Account                     |      Rs. | Account                   |    Rs. |
+| --------------------------- | -------: | ------------------------- | -----: |
+| Carriage on goods purchased |    8,000 | Cash in hand              |  2,500 |
+| Carriage on goods sold      |    3,500 | Bank overdraft            | 30,000 |
+| Manufacturing expenses      |   42,000 | Motor car                 | 60,000 |
+| Drawings                    |    8,000 | Advertisement             |  7,000 |
+| Audit fees                  |    2,700 | Excise duty               |  6,000 |
+| Plant                       | 1,53,900 | Factory lighting          |  4,400 |
+| Repairs to plant            |    2,200 | Debtors                   | 80,000 |
+| Closing stock               |   76,000 | Creditors                 | 61,000 |
+| Purchases less returns      | 1,60,000 | Dock and clearing charges |  5,200 |
+| Commission on purchases     |    2,000 | Postage and telegram      |    800 |
+| Incidental trade expenses   |    3,200 | Fire insurance premium    |  3,600 |
+| Investment                  |   30,000 | Patents                   | 12,000 |
+| Interest on investment      |    4,500 | Income tax                | 24,000 |
+| Capital                     | 1,00,000 | Office expenses           |  7,200 |
+| Sales less returns          | 5,20,000 | Sales tax paid            | 12,000 |
+| Discount allowed            |    2,700 | Discount on purchases     |  3,400 |
 
 ## Trading Account
 
-| Dr. Expenses/Losses | Rs. | Cr. Revenues/Gains | Rs. |
-|---|---:|---|---:|
-| Purchases less returns | 1,60,000 | Sales less returns | 5,20,000 |
-| Commission on purchases | 2,000 |  |  |
-| Carriage on goods purchased | 8,000 |  |  |
-| Manufacturing expenses | 42,000 |  |  |
-| Factory lighting | 4,400 |  |  |
-| Dock and clearing charges | 5,200 |  |  |
-| Gross profit c/d | 2,98,400 |  |  |
-| Total | 5,20,000 | Total | 5,20,000 |
+| Dr. Expenses/Losses         |      Rs. | Cr. Revenues/Gains |      Rs. |
+| --------------------------- | -------: | ------------------ | -------: |
+| Purchases less returns      | 1,60,000 | Sales less returns | 5,20,000 |
+| Commission on purchases     |    2,000 |                    |          |
+| Carriage on goods purchased |    8,000 |                    |          |
+| Manufacturing expenses      |   42,000 |                    |          |
+| Factory lighting            |    4,400 |                    |          |
+| Dock and clearing charges   |    5,200 |                    |          |
+| Gross profit c/d            | 2,98,400 |                    |          |
+| Total                       | 5,20,000 | Total              | 5,20,000 |
 
 ## Profit and Loss Account
 
-| Dr. Expenses/Losses | Rs. | Cr. Revenues/Gains | Rs. |
-|---|---:|---|---:|
-| Carriage on goods sold | 3,500 | Gross profit b/d | 2,98,400 |
-| Advertisement | 7,000 | Interest on investment | 4,500 |
-| Excise duty | 6,000 | Discount on purchases | 3,400 |
-| Postage and telegram | 800 |  |  |
-| Fire insurance premium | 3,600 |  |  |
-| Office expenses | 7,200 |  |  |
-| Audit fees | 2,700 |  |  |
-| Repairs to plant | 2,200 |  |  |
-| Incidental trade expenses | 3,200 |  |  |
-| Sales tax paid | 12,000 |  |  |
-| Discount allowed | 2,700 |  |  |
-| Net profit transferred to capital | 2,55,400 |  |  |
-| Total | 3,06,300 | Total | 3,06,300 |
+| Dr. Expenses/Losses               |      Rs. | Cr. Revenues/Gains     |      Rs. |
+| --------------------------------- | -------: | ---------------------- | -------: |
+| Carriage on goods sold            |    3,500 | Gross profit b/d       | 2,98,400 |
+| Advertisement                     |    7,000 | Interest on investment |    4,500 |
+| Excise duty                       |    6,000 | Discount on purchases  |    3,400 |
+| Postage and telegram              |      800 |                        |          |
+| Fire insurance premium            |    3,600 |                        |          |
+| Office expenses                   |    7,200 |                        |          |
+| Audit fees                        |    2,700 |                        |          |
+| Repairs to plant                  |    2,200 |                        |          |
+| Incidental trade expenses         |    3,200 |                        |          |
+| Sales tax paid                    |   12,000 |                        |          |
+| Discount allowed                  |    2,700 |                        |          |
+| Net profit transferred to capital | 2,55,400 |                        |          |
+| Total                             | 3,06,300 | Total                  | 3,06,300 |
 
 ## Balance Sheet
 
-| Liabilities | Rs. | Assets | Rs. |
-|---|---:|---|---:|
-| Bank overdraft | 30,000 | Cash in hand | 2,500 |
-| Creditors | 61,000 | Debtors | 80,000 |
-| Capital | 1,00,000 | Closing stock | 76,000 |
-| Add: Net profit | 2,55,400 | Investment | 30,000 |
-|  | 3,55,400 | Motor car | 60,000 |
-| Less: Drawings | 8,000 | Plant | 1,53,900 |
-|  | 3,47,400 | Patents | 12,000 |
-| Less: Income tax | 24,000 |  |  |
-| Adjusted capital | 3,23,400 |  |  |
-| Total | 4,14,400 | Total | 4,14,400 |
+| Liabilities      |      Rs. | Assets        |      Rs. |
+| ---------------- | -------: | ------------- | -------: |
+| Bank overdraft   |   30,000 | Cash in hand  |    2,500 |
+| Creditors        |   61,000 | Debtors       |   80,000 |
+| Capital          | 1,00,000 | Closing stock |   76,000 |
+| Add: Net profit  | 2,55,400 | Investment    |   30,000 |
+|                  | 3,55,400 | Motor car     |   60,000 |
+| Less: Drawings   |    8,000 | Plant         | 1,53,900 |
+|                  | 3,47,400 | Patents       |   12,000 |
+| Less: Income tax |   24,000 |               |          |
+| Adjusted capital | 3,23,400 |               |          |
+| Total            | 4,14,400 | Total         | 4,14,400 |
 
 ## Notes
 
@@ -1430,18 +1431,18 @@ Prepare trading and profit and loss account and balance sheet from these balance
 
 # Unit 1Y: Quick Formula Sheet
 
-| Formula | Meaning |
-|---|---|
-| Net purchases = Purchases - Purchases return | Purchases after return to suppliers |
-| Net sales = Sales - Sales return | Sales after return by customers |
-| Goods available for sale = Opening stock + Net purchases + Direct expenses | Total goods cost before closing stock |
-| Cost of goods sold = Opening stock + Net purchases + Direct expenses - Closing stock | Cost of goods actually sold |
-| Gross profit = Net sales - Cost of goods sold | Profit from trading operations |
-| Gross loss = Cost of goods sold - Net sales | Loss from trading operations |
-| Net profit = Gross profit + Other incomes - Indirect expenses | Final profit after indirect items |
-| Operating profit = Net profit + Non-operating expenses - Non-operating incomes | Profit from normal operations |
-| Capital = Assets - Liabilities | Owner's claim |
-| Assets = Liabilities + Capital | Accounting equation |
+| Formula                                                                              | Meaning                               |
+| ------------------------------------------------------------------------------------ | ------------------------------------- |
+| Net purchases = Purchases - Purchases return                                         | Purchases after return to suppliers   |
+| Net sales = Sales - Sales return                                                     | Sales after return by customers       |
+| Goods available for sale = Opening stock + Net purchases + Direct expenses           | Total goods cost before closing stock |
+| Cost of goods sold = Opening stock + Net purchases + Direct expenses - Closing stock | Cost of goods actually sold           |
+| Gross profit = Net sales - Cost of goods sold                                        | Profit from trading operations        |
+| Gross loss = Cost of goods sold - Net sales                                          | Loss from trading operations          |
+| Net profit = Gross profit + Other incomes - Indirect expenses                        | Final profit after indirect items     |
+| Operating profit = Net profit + Non-operating expenses - Non-operating incomes       | Profit from normal operations         |
+| Capital = Assets - Liabilities                                                       | Owner's claim                         |
+| Assets = Liabilities + Capital                                                       | Accounting equation                   |
 
 # Unit 1Z: Common Mistakes and Corrections
 
@@ -1529,22 +1530,22 @@ It is fixed asset and appears in balance sheet, subject to depreciation.
 
 ## True or False
 
-| Statement | Answer | Reason |
-|---|---|---|
-| Gross profit is total revenue. | False | It is net sales minus cost of goods sold |
-| Opening stock appears on debit side of trading account. | True | It is part of cost of goods sold |
-| Rent, rates, and taxes are always direct expenses. | False | Office rent is indirect; factory rent may be direct |
-| If credit side of profit and loss account exceeds debit side, the difference is net profit. | True | Income exceeds expenses |
+| Statement                                                                                   | Answer | Reason                                              |
+| ------------------------------------------------------------------------------------------- | ------ | --------------------------------------------------- |
+| Gross profit is total revenue.                                                              | False  | It is net sales minus cost of goods sold            |
+| Opening stock appears on debit side of trading account.                                     | True   | It is part of cost of goods sold                    |
+| Rent, rates, and taxes are always direct expenses.                                          | False  | Office rent is indirect; factory rent may be direct |
+| If credit side of profit and loss account exceeds debit side, the difference is net profit. | True   | Income exceeds expenses                             |
 
 ## Matching
 
-| Item | Correct Match |
-|---|---|
-| Closing stock is credited to | Trading account |
-| Accuracy of books is tested by | Trial balance |
-| When buyer returns goods to seller, buyer sends | Debit note |
-| Financial position is determined by | Balance sheet |
-| When seller receives returned goods from buyer, seller sends | Credit note |
+| Item                                                         | Correct Match   |
+| ------------------------------------------------------------ | --------------- |
+| Closing stock is credited to                                 | Trading account |
+| Accuracy of books is tested by                               | Trial balance   |
+| When buyer returns goods to seller, buyer sends              | Debit note      |
+| Financial position is determined by                          | Balance sheet   |
+| When seller receives returned goods from buyer, seller sends | Credit note     |
 
 ## Operating Profit Multiple Choice
 
@@ -1671,13 +1672,13 @@ In order of liquidity, items closest to cash or payment appear first.
 
 ## Problem
 
-| Particulars | Rs. |
-|---|---:|
-| Closing stock | 2,50,000 |
-| Net sales | 40,00,000 |
-| Net purchases | 15,00,000 |
-| Opening stock | 15,00,000 |
-| Direct expenses | 80,000 |
+| Particulars     |       Rs. |
+| --------------- | --------: |
+| Closing stock   |  2,50,000 |
+| Net sales       | 40,00,000 |
+| Net purchases   | 15,00,000 |
+| Opening stock   | 15,00,000 |
+| Direct expenses |    80,000 |
 
 ## Solution
 
@@ -1693,18 +1694,18 @@ Gross profit:
 
 ## Problem
 
-| Particulars | Rs. |
-|---|---:|
-| Opening stock | 25,000 |
-| Credit purchases | 7,50,000 |
-| Cash purchases | 3,00,000 |
-| Credit sales | 12,00,000 |
-| Cash sales | 4,00,000 |
-| Wages | 1,00,000 |
-| Salaries | 1,40,000 |
-| Closing stock | 30,000 |
-| Sales return | 50,000 |
-| Purchases return | 10,000 |
+| Particulars      |       Rs. |
+| ---------------- | --------: |
+| Opening stock    |    25,000 |
+| Credit purchases |  7,50,000 |
+| Cash purchases   |  3,00,000 |
+| Credit sales     | 12,00,000 |
+| Cash sales       |  4,00,000 |
+| Wages            |  1,00,000 |
+| Salaries         |  1,40,000 |
+| Closing stock    |    30,000 |
+| Sales return     |    50,000 |
+| Purchases return |    10,000 |
 
 ## Solution
 
@@ -1734,16 +1735,16 @@ Salaries are indirect expenses, so they are not included in cost of goods sold.
 
 ## Problem
 
-| Particulars | Rs. |
-|---|---:|
-| Opening stock | 50,000 |
-| Net sales | 11,00,000 |
-| Net purchases | 6,00,000 |
-| Direct expenses | 60,000 |
-| Administration expenses | 45,000 |
-| Selling and distribution expenses | 65,000 |
-| Loss due to fire | 20,000 |
-| Closing stock | 70,000 |
+| Particulars                       |       Rs. |
+| --------------------------------- | --------: |
+| Opening stock                     |    50,000 |
+| Net sales                         | 11,00,000 |
+| Net purchases                     |  6,00,000 |
+| Direct expenses                   |    60,000 |
+| Administration expenses           |    45,000 |
+| Selling and distribution expenses |    65,000 |
+| Loss due to fire                  |    20,000 |
+| Closing stock                     |    70,000 |
 
 ## Solution
 
@@ -1789,19 +1790,19 @@ Opening stock is Rs. 2,00,000, purchases are Rs. 8,10,000, sales are Rs. 10,10,0
 
 ## Closing Stock Entry
 
-| Entry | Debit Rs. | Credit Rs. |
-|---|---:|---:|
-| Closing Stock A/c Dr. | 3,00,000 |  |
-| To Trading A/c |  | 3,00,000 |
+| Entry                 | Debit Rs. | Credit Rs. |
+| --------------------- | --------: | ---------: |
+| Closing Stock A/c Dr. |  3,00,000 |            |
+| To Trading A/c        |           |   3,00,000 |
 
 ## Trading Account
 
-| Dr. Expenses/Losses | Rs. | Cr. Revenues/Gains | Rs. |
-|---|---:|---|---:|
-| Opening stock | 2,00,000 | Sales | 10,10,000 |
-| Purchases | 8,10,000 | Closing stock | 3,00,000 |
-| Gross profit c/d | 3,00,000 |  |  |
-| Total | 13,10,000 | Total | 13,10,000 |
+| Dr. Expenses/Losses |       Rs. | Cr. Revenues/Gains |       Rs. |
+| ------------------- | --------: | ------------------ | --------: |
+| Opening stock       |  2,00,000 | Sales              | 10,10,000 |
+| Purchases           |  8,10,000 | Closing stock      |  3,00,000 |
+| Gross profit c/d    |  3,00,000 |                    |           |
+| Total               | 13,10,000 | Total              | 13,10,000 |
 
 Closing stock also appears as an asset in the balance sheet at Rs. 3,00,000.
 

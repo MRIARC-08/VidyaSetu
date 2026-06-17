@@ -1,32 +1,33 @@
 # Chapter 1: Real Numbers
+
 ### NCERT Class 10 - Maths
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 10 |
-| **Subject** | Maths |
-| **Chapter** | 1 |
-| **Core Theme** | Prime factorisation, Fundamental Theorem of Arithmetic, HCF, LCM, and proofs of irrationality. |
-| **Main Skills** | Factorising numbers into primes, finding HCF and LCM, using HCF-LCM relation, proving numbers irrational by contradiction. |
+| Detail          | Learner-Friendly Information                                                                                                       |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| **Class**       | 10                                                                                                                                 |
+| **Subject**     | Maths                                                                                                                              |
+| **Chapter**     | 1                                                                                                                                  |
+| **Core Theme**  | Prime factorisation, Fundamental Theorem of Arithmetic, HCF, LCM, and proofs of irrationality.                                     |
+| **Main Skills** | Factorising numbers into primes, finding HCF and LCM, using HCF-LCM relation, proving numbers irrational by contradiction.         |
 | **Proof Focus** | Understanding uniqueness of prime factorisation and applying it to irrational numbers such as `sqrt(2)`, `sqrt(3)`, and `sqrt(5)`. |
 
 ---
 
 ## Section Structure
 
-| Unit | Topic | Main Learning Focus |
-|---|---|---|
-| **1A** | Real Numbers Refresher | Rational and irrational numbers. |
-| **1B** | Prime Factorisation | Expressing natural numbers as products of primes. |
-| **1C** | Fundamental Theorem of Arithmetic | Existence and uniqueness of prime factorisation. |
-| **1D** | HCF and LCM | Prime factorisation method and product relation for two numbers. |
+| Unit   | Topic                               | Main Learning Focus                                               |
+| ------ | ----------------------------------- | ----------------------------------------------------------------- |
+| **1A** | Real Numbers Refresher              | Rational and irrational numbers.                                  |
+| **1B** | Prime Factorisation                 | Expressing natural numbers as products of primes.                 |
+| **1C** | Fundamental Theorem of Arithmetic   | Existence and uniqueness of prime factorisation.                  |
+| **1D** | HCF and LCM                         | Prime factorisation method and product relation for two numbers.  |
 | **1E** | Applications of Prime Factorisation | Ending digits, composite-number reasoning, meeting-time problems. |
-| **1F** | Irrational Numbers | Proving irrationality using contradiction. |
-| **1G** | Solved Exercises | Complete solutions to Exercise 1.1 and 1.2. |
+| **1F** | Irrational Numbers                  | Proving irrationality using contradiction.                        |
+| **1G** | Solved Exercises                    | Complete solutions to Exercise 1.1 and 1.2.                       |
 
 ---
 
@@ -34,34 +35,34 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Factorise numbers** | Write any composite number as a product of prime factors. |
-| **Use exponent notation** | Write repeated prime factors as powers. |
-| **State the Fundamental Theorem** | Explain existence and uniqueness of prime factorisation. |
-| **Find HCF** | Use the smallest powers of common prime factors. |
-| **Find LCM** | Use the greatest powers of all prime factors involved. |
-| **Verify HCF-LCM relation** | Check `HCF(a,b) x LCM(a,b) = a x b` for two positive integers. |
-| **Recognise composite forms** | Prove expressions composite by taking a common factor. |
-| **Solve meeting problems** | Use LCM for repeated simultaneous events. |
-| **Prove irrationality** | Use contradiction to prove irrationality of square roots and related expressions. |
+| Outcome                           | You Should Be Able To...                                                          |
+| --------------------------------- | --------------------------------------------------------------------------------- |
+| **Factorise numbers**             | Write any composite number as a product of prime factors.                         |
+| **Use exponent notation**         | Write repeated prime factors as powers.                                           |
+| **State the Fundamental Theorem** | Explain existence and uniqueness of prime factorisation.                          |
+| **Find HCF**                      | Use the smallest powers of common prime factors.                                  |
+| **Find LCM**                      | Use the greatest powers of all prime factors involved.                            |
+| **Verify HCF-LCM relation**       | Check `HCF(a,b) x LCM(a,b) = a x b` for two positive integers.                    |
+| **Recognise composite forms**     | Prove expressions composite by taking a common factor.                            |
+| **Solve meeting problems**        | Use LCM for repeated simultaneous events.                                         |
+| **Prove irrationality**           | Use contradiction to prove irrationality of square roots and related expressions. |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Natural number** | Counting number: `1, 2, 3, ...`. |
-| **Prime number** | Number greater than 1 with exactly two factors: 1 and itself. |
-| **Composite number** | Number greater than 1 with more than two factors. |
-| **Prime factorisation** | Writing a number as a product of prime numbers. |
-| **Unique factorisation** | A number has only one prime factorisation, except for order of factors. |
-| **HCF** | Highest Common Factor; greatest number that divides all given numbers. |
-| **LCM** | Least Common Multiple; smallest positive number divisible by all given numbers. |
-| **Coprime numbers** | Numbers whose HCF is 1. |
-| **Rational number** | Number expressible as `p/q`, where `p` and `q` are integers and `q != 0`. |
-| **Irrational number** | Number that cannot be expressed as `p/q`, where `p` and `q` are integers and `q != 0`. |
+| Term                       | Meaning                                                                                                    |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| **Natural number**         | Counting number: `1, 2, 3, ...`.                                                                           |
+| **Prime number**           | Number greater than 1 with exactly two factors: 1 and itself.                                              |
+| **Composite number**       | Number greater than 1 with more than two factors.                                                          |
+| **Prime factorisation**    | Writing a number as a product of prime numbers.                                                            |
+| **Unique factorisation**   | A number has only one prime factorisation, except for order of factors.                                    |
+| **HCF**                    | Highest Common Factor; greatest number that divides all given numbers.                                     |
+| **LCM**                    | Least Common Multiple; smallest positive number divisible by all given numbers.                            |
+| **Coprime numbers**        | Numbers whose HCF is 1.                                                                                    |
+| **Rational number**        | Number expressible as `p/q`, where `p` and `q` are integers and `q != 0`.                                  |
+| **Irrational number**      | Number that cannot be expressed as `p/q`, where `p` and `q` are integers and `q != 0`.                     |
 | **Proof by contradiction** | Proof method where we assume the opposite of what we want, reach impossibility, and reject the assumption. |
 
 ---
@@ -108,10 +109,10 @@ This result is used in irrationality proofs.
 
 Real numbers include rational and irrational numbers.
 
-| Number Type | Meaning | Examples |
-|---|---|---|
-| Rational | Can be written as `p/q`, where `p`, `q` are integers and `q != 0`. | `2`, `-3/5`, `0.75`, `1.333...` |
-| Irrational | Cannot be written as `p/q`. | `sqrt(2)`, `sqrt(3)`, `sqrt(5)`, `pi` |
+| Number Type | Meaning                                                            | Examples                              |
+| ----------- | ------------------------------------------------------------------ | ------------------------------------- |
+| Rational    | Can be written as `p/q`, where `p`, `q` are integers and `q != 0`. | `2`, `-3/5`, `0.75`, `1.333...`       |
+| Irrational  | Cannot be written as `p/q`.                                        | `sqrt(2)`, `sqrt(3)`, `sqrt(5)`, `pi` |
 
 ## Why This Chapter Matters
 
@@ -138,12 +139,12 @@ $$
 
 where:
 
-| Symbol | Meaning |
-|---|---|
-| `a` | dividend |
-| `b` | divisor |
-| `q` | quotient |
-| `r` | remainder |
+| Symbol | Meaning   |
+| ------ | --------- |
+| `a`    | dividend  |
+| `b`    | divisor   |
+| `q`    | quotient  |
+| `r`    | remainder |
 
 The remainder always satisfies:
 
@@ -159,13 +160,13 @@ This is the formal version of ordinary long division.
 
 ## Prime Numbers and Composite Numbers
 
-| Number | Type | Reason |
-|---|---|---|
-| `2` | Prime | Factors are `1` and `2`. |
-| `3` | Prime | Factors are `1` and `3`. |
-| `4` | Composite | Factors include `1, 2, 4`. |
-| `11` | Prime | Factors are `1` and `11`. |
-| `15` | Composite | Factors include `1, 3, 5, 15`. |
+| Number | Type      | Reason                         |
+| ------ | --------- | ------------------------------ |
+| `2`    | Prime     | Factors are `1` and `2`.       |
+| `3`    | Prime     | Factors are `1` and `3`.       |
+| `4`    | Composite | Factors include `1, 2, 4`.     |
+| `11`   | Prime     | Factors are `1` and `11`.      |
+| `15`   | Composite | Factors include `1, 3, 5, 15`. |
 
 The number `1` is neither prime nor composite.
 
@@ -233,9 +234,9 @@ Every composite number can be expressed as a product of primes, and this factori
 
 The theorem has two parts:
 
-| Part | Meaning |
-|---|---|
-| Existence | Every composite number can be factorised into primes. |
+| Part       | Meaning                                                  |
+| ---------- | -------------------------------------------------------- |
+| Existence  | Every composite number can be factorised into primes.    |
 | Uniqueness | There is only one prime factorisation, except for order. |
 
 ## Example of Uniqueness
@@ -550,8 +551,8 @@ If `p` is prime and `p` divides `a^2`, then `p` divides `a`.
 
 Examples:
 
-| Statement | Conclusion |
-|---|---|
+| Statement            | Conclusion       |
+| -------------------- | ---------------- |
 | If `2` divides `a^2` | `2` divides `a`. |
 | If `3` divides `a^2` | `3` divides `a`. |
 | If `5` divides `a^2` | `5` divides `a`. |
@@ -1368,17 +1369,17 @@ is irrational.
 
 # Unit 1I: Common Mistakes and Corrections
 
-| Mistake | Correct Understanding |
-|---|---|
-| Treating `1` as prime. | `1` is neither prime nor composite. |
-| Forgetting repeated prime factors. | Use powers such as `2^3` and `3^2`. |
-| Using largest common powers for HCF. | HCF uses smallest powers of common factors. |
-| Using smallest powers for LCM. | LCM uses greatest powers of all involved factors. |
-| Applying `HCF x LCM = product` to three numbers. | That relation is guaranteed for two positive integers, not generally for three. |
-| Saying a number ending in `0` only needs factor `2`. | It needs both `2` and `5`, because `10 = 2 x 5`. |
-| Assuming `sqrt(2) = a/b` without lowest form. | Use coprime `a` and `b` to create contradiction. |
-| Forgetting that rational minus rational is rational. | This fact is used in proofs like `3 + 2sqrt(5)`. |
-| Saying non-zero rational times irrational may be rational. | It is irrational if the rational factor is non-zero. |
+| Mistake                                                    | Correct Understanding                                                           |
+| ---------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| Treating `1` as prime.                                     | `1` is neither prime nor composite.                                             |
+| Forgetting repeated prime factors.                         | Use powers such as `2^3` and `3^2`.                                             |
+| Using largest common powers for HCF.                       | HCF uses smallest powers of common factors.                                     |
+| Using smallest powers for LCM.                             | LCM uses greatest powers of all involved factors.                               |
+| Applying `HCF x LCM = product` to three numbers.           | That relation is guaranteed for two positive integers, not generally for three. |
+| Saying a number ending in `0` only needs factor `2`.       | It needs both `2` and `5`, because `10 = 2 x 5`.                                |
+| Assuming `sqrt(2) = a/b` without lowest form.              | Use coprime `a` and `b` to create contradiction.                                |
+| Forgetting that rational minus rational is rational.       | This fact is used in proofs like `3 + 2sqrt(5)`.                                |
+| Saying non-zero rational times irrational may be rational. | It is irrational if the rational factor is non-zero.                            |
 
 ---
 
@@ -1386,42 +1387,42 @@ is irrational.
 
 ## HCF and LCM Strategy
 
-| Task | Method |
-|---|---|
-| Prime factorise | Break number into prime factors. |
-| HCF | Take smallest powers of common prime factors. |
-| LCM | Take greatest powers of all prime factors present. |
-| Verify for two numbers | Check `HCF x LCM = product`. |
+| Task                   | Method                                             |
+| ---------------------- | -------------------------------------------------- |
+| Prime factorise        | Break number into prime factors.                   |
+| HCF                    | Take smallest powers of common prime factors.      |
+| LCM                    | Take greatest powers of all prime factors present. |
+| Verify for two numbers | Check `HCF x LCM = product`.                       |
 
 ## Ending Digit Zero Test
 
-| Requirement | Explanation |
-|---|---|
-| Number ends in `0` | It is divisible by `10`. |
-| Divisible by `10` | Prime factorisation contains `2 x 5`. |
-| No factor `5` | Cannot end in `0`. |
+| Requirement        | Explanation                           |
+| ------------------ | ------------------------------------- |
+| Number ends in `0` | It is divisible by `10`.              |
+| Divisible by `10`  | Prime factorisation contains `2 x 5`. |
+| No factor `5`      | Cannot end in `0`.                    |
 
 ## Irrational Proof Pattern
 
-| Step | Action |
-|---|---|
-| 1 | Assume the number is rational. |
-| 2 | Write it as `a/b` in lowest form. |
-| 3 | Square if needed. |
-| 4 | Use prime divisibility result. |
-| 5 | Show the same prime divides both `a` and `b`. |
-| 6 | Contradict coprime condition. |
-| 7 | Conclude the number is irrational. |
+| Step | Action                                        |
+| ---- | --------------------------------------------- |
+| 1    | Assume the number is rational.                |
+| 2    | Write it as `a/b` in lowest form.             |
+| 3    | Square if needed.                             |
+| 4    | Use prime divisibility result.                |
+| 5    | Show the same prime divides both `a` and `b`. |
+| 6    | Contradict coprime condition.                 |
+| 7    | Conclude the number is irrational.            |
 
 ## Results to Remember
 
-| Result | Meaning |
-|---|---|
-| Fundamental Theorem of Arithmetic | Prime factorisation is unique apart from order. |
-| If prime `p` divides `a^2`, then `p` divides `a`. | Used in irrationality proofs. |
-| HCF-LCM relation | Works for two positive integers. |
-| Rational plus irrational | Irrational. |
-| Non-zero rational times irrational | Irrational. |
+| Result                                            | Meaning                                         |
+| ------------------------------------------------- | ----------------------------------------------- |
+| Fundamental Theorem of Arithmetic                 | Prime factorisation is unique apart from order. |
+| If prime `p` divides `a^2`, then `p` divides `a`. | Used in irrationality proofs.                   |
+| HCF-LCM relation                                  | Works for two positive integers.                |
+| Rational plus irrational                          | Irrational.                                     |
+| Non-zero rational times irrational                | Irrational.                                     |
 
 ---
 
@@ -1442,14 +1443,14 @@ Memorise:
 
 Practise:
 
-| Skill | Practice Method |
-|---|---|
-| Prime factorisation | Factorise numbers using division or factor trees. |
-| HCF and LCM | Solve pairs and triples separately. |
-| Verification | Check product relation only for pairs. |
-| Composite proofs | Pull out a common factor. |
-| LCM word problems | Look for repeated events meeting again. |
-| Irrational proofs | Write clean contradiction proofs with coprime assumption. |
+| Skill               | Practice Method                                           |
+| ------------------- | --------------------------------------------------------- |
+| Prime factorisation | Factorise numbers using division or factor trees.         |
+| HCF and LCM         | Solve pairs and triples separately.                       |
+| Verification        | Check product relation only for pairs.                    |
+| Composite proofs    | Pull out a common factor.                                 |
+| LCM word problems   | Look for repeated events meeting again.                   |
+| Irrational proofs   | Write clean contradiction proofs with coprime assumption. |
 
 ## One-Page Chapter Summary
 

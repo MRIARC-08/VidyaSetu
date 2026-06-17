@@ -1,4 +1,5 @@
 # Chapter 4: Kinetic Theory
+
 ### NCERT Class 11 - Physics Part 2
 
 ---
@@ -19,16 +20,16 @@ The chapter connects:
 
 ## Chapter Map
 
-| Section | Main Idea |
-| --- | --- |
-| Molecular nature of matter | matter is made of atoms and molecules |
-| Behaviour of gases | ideal gas equation and gas laws |
-| Kinetic theory of ideal gas | pressure arises from molecular collisions |
-| Temperature interpretation | temperature measures average molecular kinetic energy |
-| Maxwell distribution | molecules have a distribution of speeds |
-| Equipartition of energy | energy is shared equally among quadratic modes |
-| Specific heats | degrees of freedom explain heat capacities |
-| Mean free path | average distance between molecular collisions |
+| Section                     | Main Idea                                             |
+| --------------------------- | ----------------------------------------------------- |
+| Molecular nature of matter  | matter is made of atoms and molecules                 |
+| Behaviour of gases          | ideal gas equation and gas laws                       |
+| Kinetic theory of ideal gas | pressure arises from molecular collisions             |
+| Temperature interpretation  | temperature measures average molecular kinetic energy |
+| Maxwell distribution        | molecules have a distribution of speeds               |
+| Equipartition of energy     | energy is shared equally among quadratic modes        |
+| Specific heats              | degrees of freedom explain heat capacities            |
+| Mean free path              | average distance between molecular collisions         |
 
 ---
 
@@ -52,11 +53,11 @@ In gases, molecules are far apart compared with their own size. Therefore, inter
 
 This makes gases easier to describe than solids and liquids.
 
-| State | Molecular Spacing | Motion | Intermolecular Force |
-| --- | --- | --- | --- |
-| solid | very close | vibration about fixed positions | strong |
-| liquid | close | molecules move around but remain near | significant |
-| gas | far apart | rapid random motion | negligible except during collision |
+| State  | Molecular Spacing | Motion                                | Intermolecular Force               |
+| ------ | ----------------- | ------------------------------------- | ---------------------------------- |
+| solid  | very close        | vibration about fixed positions       | strong                             |
+| liquid | close             | molecules move around but remain near | significant                        |
+| gas    | far apart         | rapid random motion                   | negligible except during collision |
 
 ---
 
@@ -104,15 +105,15 @@ PV = NkB T
 
 where:
 
-| Symbol | Meaning |
-| --- | --- |
-| `P` | pressure |
-| `V` | volume |
-| `n` | number of moles |
-| `R` | universal gas constant |
-| `N` | number of molecules |
-| `kB` | Boltzmann constant |
-| `T` | absolute temperature |
+| Symbol | Meaning                |
+| ------ | ---------------------- |
+| `P`    | pressure               |
+| `V`    | volume                 |
+| `n`    | number of moles        |
+| `R`    | universal gas constant |
+| `N`    | number of molecules    |
+| `kB`   | Boltzmann constant     |
+| `T`    | absolute temperature   |
 
 Constants:
 
@@ -281,11 +282,11 @@ P = (1/3) n_mol m <v^2>
 
 where:
 
-| Symbol | Meaning |
-| --- | --- |
+| Symbol  | Meaning                             |
+| ------- | ----------------------------------- |
 | `n_mol` | number of molecules per unit volume |
-| `m` | mass of one molecule |
-| `<v^2>` | mean square speed |
+| `m`     | mass of one molecule                |
+| `<v^2>` | mean square speed                   |
 
 Avoid confusing `n_mol` with number of moles. Here it means number density.
 
@@ -461,12 +462,12 @@ Average kinetic energy decreases, so temperature falls.
 
 ## Daily-Life Connection
 
-| Process | Observation |
-| --- | --- |
-| gas compressed rapidly | temperature rises |
-| gas expands rapidly | temperature falls |
-| bicycle pump used quickly | pump warms |
-| aerosol spray expansion | spray feels cold |
+| Process                   | Observation       |
+| ------------------------- | ----------------- |
+| gas compressed rapidly    | temperature rises |
+| gas expands rapidly       | temperature falls |
+| bicycle pump used quickly | pump warms        |
+| aerosol spray expansion   | spray feels cold  |
 
 ---
 
@@ -476,11 +477,11 @@ Average kinetic energy decreases, so temperature falls.
 
 A degree of freedom is an independent way in which a molecule can store energy.
 
-| Motion | Degrees Of Freedom |
-| --- | --- |
-| motion along a line | 1 translational |
-| motion in a plane | 2 translational |
-| motion in space | 3 translational |
+| Motion              | Degrees Of Freedom |
+| ------------------- | ------------------ |
+| motion along a line | 1 translational    |
+| motion in a plane   | 2 translational    |
+| motion in space     | 3 translational    |
 
 ---
 
@@ -761,44 +762,44 @@ Molecules move very fast, but they collide frequently and keep changing directio
 
 ## Ideal Gas
 
-| Formula | Meaning |
-| --- | --- |
-| `PV = nRT` | ideal gas equation in mole form |
-| `PV = NkB T` | ideal gas equation in molecule form |
-| `P = n_mol kB T` | pressure using number density |
-| `R = NA kB` | relation between gas constants |
-| `PV = constant` | Boyle's law at fixed `n` and `T` |
-| `V proportional to T` | Charles' law at fixed `n` and `P` |
-| `P = P1 + P2 + ...` | Dalton's law of partial pressures |
+| Formula               | Meaning                             |
+| --------------------- | ----------------------------------- |
+| `PV = nRT`            | ideal gas equation in mole form     |
+| `PV = NkB T`          | ideal gas equation in molecule form |
+| `P = n_mol kB T`      | pressure using number density       |
+| `R = NA kB`           | relation between gas constants      |
+| `PV = constant`       | Boyle's law at fixed `n` and `T`    |
+| `V proportional to T` | Charles' law at fixed `n` and `P`   |
+| `P = P1 + P2 + ...`   | Dalton's law of partial pressures   |
 
 ## Kinetic Theory
 
-| Formula | Meaning |
-| --- | --- |
-| `P = (1/3)n_mol m <v^2>` | pressure from molecular motion |
-| `P = (1/3)rho v_rms^2` | pressure using density |
-| `v_rms = sqrt(<v^2>)` | root mean square speed |
+| Formula                   | Meaning                                |
+| ------------------------- | -------------------------------------- |
+| `P = (1/3)n_mol m <v^2>`  | pressure from molecular motion         |
+| `P = (1/3)rho v_rms^2`    | pressure using density                 |
+| `v_rms = sqrt(<v^2>)`     | root mean square speed                 |
 | `(1/2)m<v^2> = (3/2)kB T` | temperature and average kinetic energy |
-| `v_rms = sqrt(3kB T/m)` | molecular rms speed |
-| `v_rms = sqrt(3RT/M)` | molar-mass form |
+| `v_rms = sqrt(3kB T/m)`   | molecular rms speed                    |
+| `v_rms = sqrt(3RT/M)`     | molar-mass form                        |
 
 ## Equipartition And Heat Capacity
 
-| Formula | Meaning |
-| --- | --- |
-| each quadratic term gives `(1/2)kB T` | equipartition |
-| monatomic `Cv = (3/2)R` | constant-volume molar heat capacity |
-| monatomic `Cp = (5/2)R` | constant-pressure molar heat capacity |
-| rigid diatomic `Cv = (5/2)R` | constant-volume molar heat capacity |
-| rigid diatomic `Cp = (7/2)R` | constant-pressure molar heat capacity |
-| `Cp - Cv = R` | ideal gas heat capacity relation |
+| Formula                               | Meaning                               |
+| ------------------------------------- | ------------------------------------- |
+| each quadratic term gives `(1/2)kB T` | equipartition                         |
+| monatomic `Cv = (3/2)R`               | constant-volume molar heat capacity   |
+| monatomic `Cp = (5/2)R`               | constant-pressure molar heat capacity |
+| rigid diatomic `Cv = (5/2)R`          | constant-volume molar heat capacity   |
+| rigid diatomic `Cp = (7/2)R`          | constant-pressure molar heat capacity |
+| `Cp - Cv = R`                         | ideal gas heat capacity relation      |
 
 ## Mean Free Path
 
-| Formula | Meaning |
-| --- | --- |
-| `lambda = 1/(sqrt(2)n_mol pi d^2)` | mean free path |
-| `tau = lambda/<v>` | average time between collisions |
+| Formula                            | Meaning                         |
+| ---------------------------------- | ------------------------------- |
+| `lambda = 1/(sqrt(2)n_mol pi d^2)` | mean free path                  |
+| `tau = lambda/<v>`                 | average time between collisions |
 
 ---
 
@@ -924,4 +925,3 @@ It decreases when number density increases or molecular diameter increases.
 - [ ] I can calculate `Cv`, `Cp`, and `gamma` for simple gases.
 - [ ] I can explain Brownian motion.
 - [ ] I can define and use mean free path.
-

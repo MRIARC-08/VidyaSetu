@@ -2,14 +2,14 @@
 
 ## Chapter Identity
 
-| Item | Details |
-| --- | --- |
-| Class | 12 |
-| Subject | English Vistas |
-| Text Type | Satirical Story |
-| Author | Kalki |
-| Core Skill | Understanding satire, irony, character, power, superstition, and ecological criticism |
-| Main Idea | The story satirises arrogant rulers who misuse power and destroy nature while trying to escape fate. |
+| Item       | Details                                                                                              |
+| ---------- | ---------------------------------------------------------------------------------------------------- |
+| Class      | 12                                                                                                   |
+| Subject    | English Vistas                                                                                       |
+| Text Type  | Satirical Story                                                                                      |
+| Author     | Kalki                                                                                                |
+| Core Skill | Understanding satire, irony, character, power, superstition, and ecological criticism                |
+| Main Idea  | The story satirises arrogant rulers who misuse power and destroy nature while trying to escape fate. |
 
 ## 1. Big Picture
 
@@ -36,14 +36,14 @@ Later, the Maharaja buys a wooden toy tiger for his son. A tiny sliver from the 
 
 ## 3. Main Characters
 
-| Character | Role | What to Remember |
-| --- | --- | --- |
-| The Maharaja/Tiger King | Central figure | Proud, powerful, obsessed with defeating prophecy. |
-| Astrologers | Predictors of fate | Their prophecy shapes the king's life. |
-| Dewan | Minister | Fearful official who tries to satisfy the king. |
-| British officer | Colonial authority figure | Wants a tiger-hunting photograph; exposes political pressure. |
-| Palace officials | Servants of power | Obey the king even when the situation is absurd. |
-| Crown prince | Maharaja's son | Linked to the toy tiger that causes the king's death. |
+| Character               | Role                      | What to Remember                                              |
+| ----------------------- | ------------------------- | ------------------------------------------------------------- |
+| The Maharaja/Tiger King | Central figure            | Proud, powerful, obsessed with defeating prophecy.            |
+| Astrologers             | Predictors of fate        | Their prophecy shapes the king's life.                        |
+| Dewan                   | Minister                  | Fearful official who tries to satisfy the king.               |
+| British officer         | Colonial authority figure | Wants a tiger-hunting photograph; exposes political pressure. |
+| Palace officials        | Servants of power         | Obey the king even when the situation is absurd.              |
+| Crown prince            | Maharaja's son            | Linked to the toy tiger that causes the king's death.         |
 
 ## 4. The Maharaja's Character
 
@@ -65,14 +65,14 @@ Satire uses humour, exaggeration, irony, and absurdity to criticise human flaws 
 
 In this story, satire targets kingship and absolute power.
 
-| Satirical Target | How the Story Criticises It |
-| --- | --- |
-| Royal pride | The king believes he can defeat fate by killing tigers. |
-| Blind authority | Officials obey irrational orders. |
-| Colonial politics | A British officer's wish for a hunting photograph becomes a political issue. |
-| Superstition | A prophecy controls the ruler's entire life. |
-| Hunting culture | Tigers are killed for ego, not necessity. |
-| Administrative fear | Ministers act to protect themselves, not truth. |
+| Satirical Target    | How the Story Criticises It                                                  |
+| ------------------- | ---------------------------------------------------------------------------- |
+| Royal pride         | The king believes he can defeat fate by killing tigers.                      |
+| Blind authority     | Officials obey irrational orders.                                            |
+| Colonial politics   | A British officer's wish for a hunting photograph becomes a political issue. |
+| Superstition        | A prophecy controls the ruler's entire life.                                 |
+| Hunting culture     | Tigers are killed for ego, not necessity.                                    |
+| Administrative fear | Ministers act to protect themselves, not truth.                              |
 
 ## 6. Dramatic Irony
 
@@ -145,23 +145,23 @@ The servants and officials are driven more by fear than sincerity. They obey the
 
 ## 12. Symbols
 
-| Symbol | Meaning |
-| --- | --- |
-| Tiger | Fate, fear, royal ego, and exploited nature. |
-| Hundredth tiger | The king's illusion of complete control. |
-| Wooden tiger | Irony of fate; false harmlessness becoming fatal. |
-| Hunting | Abuse of power and cruelty toward nature. |
-| Prophecy | The fear that controls the king's life. |
+| Symbol          | Meaning                                           |
+| --------------- | ------------------------------------------------- |
+| Tiger           | Fate, fear, royal ego, and exploited nature.      |
+| Hundredth tiger | The king's illusion of complete control.          |
+| Wooden tiger    | Irony of fate; false harmlessness becoming fatal. |
+| Hunting         | Abuse of power and cruelty toward nature.         |
+| Prophecy        | The fear that controls the king's life.           |
 
 ## 13. Common Mistakes and Corrections
 
-| Mistake | Correction |
-| --- | --- |
-| Reading it only as a funny story | It is a satire with political and ecological criticism. |
-| Calling the Maharaja heroic | His courage is mixed with vanity, cruelty, and foolishness. |
-| Ignoring the wooden tiger | It completes the irony of the prophecy. |
-| Saying officials are loyal | They are mostly fearful and self-protective. |
-| Missing the ecological message | The story criticises hunting and human arrogance toward wildlife. |
+| Mistake                          | Correction                                                        |
+| -------------------------------- | ----------------------------------------------------------------- |
+| Reading it only as a funny story | It is a satire with political and ecological criticism.           |
+| Calling the Maharaja heroic      | His courage is mixed with vanity, cruelty, and foolishness.       |
+| Ignoring the wooden tiger        | It completes the irony of the prophecy.                           |
+| Saying officials are loyal       | They are mostly fearful and self-protective.                      |
+| Missing the ecological message   | The story criticises hunting and human arrogance toward wildlife. |
 
 ## 14. Exam Answer Frame
 
@@ -186,15 +186,15 @@ Identify the satirical situation
 
 ## 16. Quick Revision Sheet
 
-| Point | Recall |
-| --- | --- |
-| Main theme | Arrogance of power and failure to escape fate. |
-| Genre | Satire. |
-| Central irony | King kills tigers but dies because of a toy tiger. |
-| Main flaw | Pride and obsession. |
-| Ecological angle | Criticism of hunting and cruelty to animals. |
-| Officials | Fearful, dishonest, obedient. |
-| Tone | Humorous, ironic, critical. |
+| Point            | Recall                                             |
+| ---------------- | -------------------------------------------------- |
+| Main theme       | Arrogance of power and failure to escape fate.     |
+| Genre            | Satire.                                            |
+| Central irony    | King kills tigers but dies because of a toy tiger. |
+| Main flaw        | Pride and obsession.                               |
+| Ecological angle | Criticism of hunting and cruelty to animals.       |
+| Officials        | Fearful, dishonest, obedient.                      |
+| Tone             | Humorous, ironic, critical.                        |
 
 ## 17. Final Learning Takeaway
 

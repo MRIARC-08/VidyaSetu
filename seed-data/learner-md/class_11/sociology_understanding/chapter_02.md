@@ -280,18 +280,18 @@ Changes in transport can alter the social character of a city.
 
 ## 18. Key Terms
 
-| Term | Meaning |
-|---|---|
-| Social change | Transformation in social structure or relations |
-| Social order | Stable pattern of social life |
-| Rural society | Village and agrarian social life |
-| Urbanisation | Growth of cities and urban ways of life |
-| Agrarian structure | Social relations around land and agriculture |
-| Dominant caste | Numerically and economically powerful caste in a region |
-| Gated community | Enclosed urban locality with controlled access |
-| Gentrification | Upgrading that often displaces poorer residents |
-| Ghettoisation | Concentration of a community in segregated space |
-| Mass transit | Large-scale public transport system |
+| Term               | Meaning                                                 |
+| ------------------ | ------------------------------------------------------- |
+| Social change      | Transformation in social structure or relations         |
+| Social order       | Stable pattern of social life                           |
+| Rural society      | Village and agrarian social life                        |
+| Urbanisation       | Growth of cities and urban ways of life                 |
+| Agrarian structure | Social relations around land and agriculture            |
+| Dominant caste     | Numerically and economically powerful caste in a region |
+| Gated community    | Enclosed urban locality with controlled access          |
+| Gentrification     | Upgrading that often displaces poorer residents         |
+| Ghettoisation      | Concentration of a community in segregated space        |
+| Mass transit       | Large-scale public transport system                     |
 
 ## 19. Exam-Oriented Summary
 
@@ -311,4 +311,3 @@ Urban society is shaped by migration, density, occupations, housing, transport, 
 8. What is urbanisation?
 9. Explain gentrification.
 10. What is ghettoisation?
-

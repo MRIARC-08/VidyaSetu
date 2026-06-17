@@ -30,23 +30,23 @@ The main story has four parts:
 
 ## Key Terms
 
-| Term | Meaning | Why it matters |
-|---|---|---|
-| Nation-building | The process of creating a shared political community and common institutions | Central theme of the chapter |
-| Partition | Division of British India into India and Pakistan in 1947 | Created violence, migration, and minority concerns |
-| Two-nation theory | Idea that Hindus and Muslims were separate nations | Used by the Muslim League to demand Pakistan |
-| Secular state | A state that gives equal citizenship to people of all religions | India chose this path after Partition |
-| Princely state | A territory ruled by a prince under British paramountcy | Had to be integrated after independence |
-| Instrument of Accession | Legal document by which princely states joined India or Pakistan | Main tool of integration |
-| Standstill Agreement | Temporary arrangement to continue existing relations | Used in cases such as Hyderabad |
-| Razakars | Armed supporters of the Nizam of Hyderabad | Used violence against the people's movement |
-| Linguistic state | A state organised mainly around a language community | Became the basis of many Indian states |
-| Vishalandhra | Movement for a Telugu-speaking state | Led to Andhra and later linguistic reorganisation |
-| States Reorganisation Commission | Commission appointed in 1953 to redraw state boundaries | Recommended linguistic reorganisation |
-| Federalism | System where power is shared between central and state governments | Helps govern diversity |
-| Universal adult franchise | Right of all adult citizens to vote | Key democratic commitment from the beginning |
-| Integration | Bringing territories into one political union | Essential for India's unity |
-| Diversity | Presence of many languages, religions, regions, castes, and cultures | The reality Indian nation-building had to respect |
+| Term                             | Meaning                                                                      | Why it matters                                     |
+| -------------------------------- | ---------------------------------------------------------------------------- | -------------------------------------------------- |
+| Nation-building                  | The process of creating a shared political community and common institutions | Central theme of the chapter                       |
+| Partition                        | Division of British India into India and Pakistan in 1947                    | Created violence, migration, and minority concerns |
+| Two-nation theory                | Idea that Hindus and Muslims were separate nations                           | Used by the Muslim League to demand Pakistan       |
+| Secular state                    | A state that gives equal citizenship to people of all religions              | India chose this path after Partition              |
+| Princely state                   | A territory ruled by a prince under British paramountcy                      | Had to be integrated after independence            |
+| Instrument of Accession          | Legal document by which princely states joined India or Pakistan             | Main tool of integration                           |
+| Standstill Agreement             | Temporary arrangement to continue existing relations                         | Used in cases such as Hyderabad                    |
+| Razakars                         | Armed supporters of the Nizam of Hyderabad                                   | Used violence against the people's movement        |
+| Linguistic state                 | A state organised mainly around a language community                         | Became the basis of many Indian states             |
+| Vishalandhra                     | Movement for a Telugu-speaking state                                         | Led to Andhra and later linguistic reorganisation  |
+| States Reorganisation Commission | Commission appointed in 1953 to redraw state boundaries                      | Recommended linguistic reorganisation              |
+| Federalism                       | System where power is shared between central and state governments           | Helps govern diversity                             |
+| Universal adult franchise        | Right of all adult citizens to vote                                          | Key democratic commitment from the beginning       |
+| Integration                      | Bringing territories into one political union                                | Essential for India's unity                        |
+| Diversity                        | Presence of many languages, religions, regions, castes, and cultures         | The reality Indian nation-building had to respect  |
 
 ## 1. The Chapter In One Sentence
 
@@ -85,11 +85,11 @@ So independence was not a simple celebration. It was also the beginning of a dif
 
 Independent India faced three major challenges.
 
-| Challenge | Meaning | Why it was difficult |
-|---|---|---|
-| National unity | Creating one Indian nation from many communities and regions | Partition had strengthened fears of division |
-| Democracy | Establishing representative government and equal political rights | Many believed a poor and diverse country could not sustain democracy |
-| Development | Improving the lives of all citizens, especially the poor and disadvantaged | Colonial rule had left poverty, inequality, and weak infrastructure |
+| Challenge      | Meaning                                                                    | Why it was difficult                                                 |
+| -------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| National unity | Creating one Indian nation from many communities and regions               | Partition had strengthened fears of division                         |
+| Democracy      | Establishing representative government and equal political rights          | Many believed a poor and diverse country could not sustain democracy |
+| Development    | Improving the lives of all citizens, especially the poor and disadvantaged | Colonial rule had left poverty, inequality, and weak infrastructure  |
 
 These three challenges were connected. Unity without democracy could become authoritarian. Democracy without development could become shallow. Development without unity could become uneven and conflict-ridden.
 
@@ -357,10 +357,10 @@ That decision shaped the future of Indian democracy.
 
 British India had two types of territories:
 
-| Type of territory | Description |
-|---|---|
-| British Indian provinces | Directly ruled by the British |
-| Princely states | Ruled by Indian princes under British paramountcy |
+| Type of territory        | Description                                       |
+| ------------------------ | ------------------------------------------------- |
+| British Indian provinces | Directly ruled by the British                     |
+| Princely states          | Ruled by Indian princes under British paramountcy |
 
 When British rule ended, British paramountcy over princely states also ended.
 
@@ -419,11 +419,11 @@ This shows that nation-building required both political leadership and bureaucra
 
 The government's approach to princely states was guided by three broad considerations.
 
-| Principle | Meaning |
-|---|---|
-| Popular will | In most princely states, people wanted to join India |
-| Flexibility | The government was willing to give some internal autonomy or privileges during transition |
-| Territorial urgency | Partition made territorial consolidation extremely important |
+| Principle           | Meaning                                                                                   |
+| ------------------- | ----------------------------------------------------------------------------------------- |
+| Popular will        | In most princely states, people wanted to join India                                      |
+| Flexibility         | The government was willing to give some internal autonomy or privileges during transition |
+| Territorial urgency | Partition made territorial consolidation extremely important                              |
 
 These principles helped India avoid widespread fragmentation.
 
@@ -462,12 +462,12 @@ The main difficult cases were:
 
 Each case was different and must not be mixed up.
 
-| State | Main issue |
-|---|---|
-| Junagadh | Muslim ruler, Hindu-majority population, accession to Pakistan despite location near India |
-| Hyderabad | Nizam wanted independence despite being surrounded by India |
-| Kashmir | Covered in detail in a later chapter |
-| Manipur | Merger after an elected assembly had already come into existence |
+| State     | Main issue                                                                                 |
+| --------- | ------------------------------------------------------------------------------------------ |
+| Junagadh  | Muslim ruler, Hindu-majority population, accession to Pakistan despite location near India |
+| Hyderabad | Nizam wanted independence despite being surrounded by India                                |
+| Kashmir   | Covered in detail in a later chapter                                                       |
+| Manipur   | Merger after an elected assembly had already come into existence                           |
 
 ## 33. Junagadh
 
@@ -742,15 +742,15 @@ The process did not end in 1956.
 
 More states were created later.
 
-| Year | Change |
-|---|---|
-| 1960 | Bombay state divided into Maharashtra and Gujarat |
-| 1963 | Nagaland became a state |
+| Year | Change                                                     |
+| ---- | ---------------------------------------------------------- |
+| 1960 | Bombay state divided into Maharashtra and Gujarat          |
+| 1963 | Nagaland became a state                                    |
 | 1966 | Punjab reorganised; Haryana and Himachal Pradesh separated |
-| 1972 | Meghalaya, Manipur, and Tripura became states |
-| 1987 | Mizoram and Arunachal Pradesh became states |
-| 2000 | Chhattisgarh, Uttarakhand, and Jharkhand were created |
-| 2014 | Telangana became a state |
+| 1972 | Meghalaya, Manipur, and Tripura became states              |
+| 1987 | Mizoram and Arunachal Pradesh became states                |
+| 2000 | Chhattisgarh, Uttarakhand, and Jharkhand were created      |
+| 2014 | Telangana became a state                                   |
 
 These later changes show that Indian federalism remained flexible.
 
@@ -838,10 +838,10 @@ Such demands show that nation-building is not a finished event. It is an ongoing
 
 Do not confuse reorganisation within India with secession from India.
 
-| Type | Meaning | Example |
-|---|---|---|
-| Reorganisation | Redrawing boundaries within the Indian Union | Andhra, Gujarat, Telangana |
-| Secession | Leaving the Indian Union entirely | A demand for complete separation |
+| Type           | Meaning                                      | Example                          |
+| -------------- | -------------------------------------------- | -------------------------------- |
+| Reorganisation | Redrawing boundaries within the Indian Union | Andhra, Gujarat, Telangana       |
+| Secession      | Leaving the Indian Union entirely            | A demand for complete separation |
 
 Most linguistic and regional state movements demanded recognition inside India, not outside India.
 
@@ -851,10 +851,10 @@ This distinction is extremely important for exam answers.
 
 The chapter gives two major strategies of nation-building.
 
-| Strategy | Meaning | Example |
-|---|---|---|
-| Integration | Bringing territory into the Indian Union | Princely states |
-| Accommodation | Recognising diversity within the Union | Linguistic states |
+| Strategy      | Meaning                                  | Example           |
+| ------------- | ---------------------------------------- | ----------------- |
+| Integration   | Bringing territory into the Indian Union | Princely states   |
+| Accommodation | Recognising diversity within the Union   | Linguistic states |
 
 India needed both.
 
@@ -916,46 +916,46 @@ This is why the challenge of development was linked to equality and welfare.
 
 ## 70. Why The Three Challenges Were Interconnected
 
-| Challenge | If ignored, the danger was |
-|---|---|
-| Unity | Fragmentation and conflict |
-| Democracy | Authoritarian rule and exclusion |
+| Challenge   | If ignored, the danger was                           |
+| ----------- | ---------------------------------------------------- |
+| Unity       | Fragmentation and conflict                           |
+| Democracy   | Authoritarian rule and exclusion                     |
 | Development | Poverty, inequality, and disappointment with freedom |
 
 India's early leaders had to address all three together.
 
 ## 71. Common Misunderstandings
 
-| Misunderstanding | Correct understanding |
-|---|---|
-| Partition solved the religious question completely | Many minorities remained on both sides |
-| India became secular only because it had no choice | Secularism was rooted in the national movement's idea of equal citizenship |
-| Princely states were already part of India automatically | They had to sign accession or merger arrangements |
-| Linguistic states were anti-national | They strengthened unity by recognising diversity |
-| State reorganisation happened only in 1956 | It continued in later decades |
-| Nation-building ended after independence | It continues through federal negotiation and democratic politics |
+| Misunderstanding                                         | Correct understanding                                                      |
+| -------------------------------------------------------- | -------------------------------------------------------------------------- |
+| Partition solved the religious question completely       | Many minorities remained on both sides                                     |
+| India became secular only because it had no choice       | Secularism was rooted in the national movement's idea of equal citizenship |
+| Princely states were already part of India automatically | They had to sign accession or merger arrangements                          |
+| Linguistic states were anti-national                     | They strengthened unity by recognising diversity                           |
+| State reorganisation happened only in 1956               | It continued in later decades                                              |
+| Nation-building ended after independence                 | It continues through federal negotiation and democratic politics           |
 
 ## 72. Timeline
 
-| Year or date | Event |
-|---|---|
-| 1920 | Congress reorganised Provincial Congress Committees on linguistic lines |
-| 14-15 August 1947 | India and Pakistan became independent |
-| November 1947 | Hyderabad signed Standstill Agreement with India |
-| June 1948 | Manipur held elections on universal adult franchise |
-| September 1948 | Hyderabad acceded after Indian army action |
-| September 1949 | Manipur Merger Agreement signed |
-| 19 October 1952 | Potti Sriramulu began his fast |
-| 15 December 1952 | Potti Sriramulu died after 56 days |
-| 1953 | States Reorganisation Commission appointed |
-| 1956 | States Reorganisation Act created 14 states and 6 union territories |
-| 1960 | Maharashtra and Gujarat created |
-| 1963 | Nagaland became a state |
-| 1966 | Punjab reorganised; Haryana and Himachal Pradesh separated |
-| 1972 | Meghalaya, Manipur, and Tripura became states |
-| 1987 | Mizoram and Arunachal Pradesh became states |
-| 2000 | Chhattisgarh, Uttarakhand, and Jharkhand created |
-| 2 June 2014 | Telangana became a state |
+| Year or date      | Event                                                                   |
+| ----------------- | ----------------------------------------------------------------------- |
+| 1920              | Congress reorganised Provincial Congress Committees on linguistic lines |
+| 14-15 August 1947 | India and Pakistan became independent                                   |
+| November 1947     | Hyderabad signed Standstill Agreement with India                        |
+| June 1948         | Manipur held elections on universal adult franchise                     |
+| September 1948    | Hyderabad acceded after Indian army action                              |
+| September 1949    | Manipur Merger Agreement signed                                         |
+| 19 October 1952   | Potti Sriramulu began his fast                                          |
+| 15 December 1952  | Potti Sriramulu died after 56 days                                      |
+| 1953              | States Reorganisation Commission appointed                              |
+| 1956              | States Reorganisation Act created 14 states and 6 union territories     |
+| 1960              | Maharashtra and Gujarat created                                         |
+| 1963              | Nagaland became a state                                                 |
+| 1966              | Punjab reorganised; Haryana and Himachal Pradesh separated              |
+| 1972              | Meghalaya, Manipur, and Tripura became states                           |
+| 1987              | Mizoram and Arunachal Pradesh became states                             |
+| 2000              | Chhattisgarh, Uttarakhand, and Jharkhand created                        |
+| 2 June 2014       | Telangana became a state                                                |
 
 ## 73. Map-based Understanding
 
@@ -1051,22 +1051,22 @@ This flexibility helped India manage conflict without breaking apart.
 
 ## 80. Comparison: Partition And Linguistic Reorganisation
 
-| Point | Partition | Linguistic reorganisation |
-|---|---|---|
-| Basis | Religion and colonial transfer of power | Language and regional identity |
-| Result | Creation of two sovereign states | Redrawing boundaries inside India |
-| Violence | Massive violence and migration | Protests occurred, but within Indian politics |
-| Political meaning | Territorial division of British India | Federal accommodation within India |
-| Long-term lesson | Religious division did not solve minority questions | Recognition of diversity can strengthen unity |
+| Point             | Partition                                           | Linguistic reorganisation                     |
+| ----------------- | --------------------------------------------------- | --------------------------------------------- |
+| Basis             | Religion and colonial transfer of power             | Language and regional identity                |
+| Result            | Creation of two sovereign states                    | Redrawing boundaries inside India             |
+| Violence          | Massive violence and migration                      | Protests occurred, but within Indian politics |
+| Political meaning | Territorial division of British India               | Federal accommodation within India            |
+| Long-term lesson  | Religious division did not solve minority questions | Recognition of diversity can strengthen unity |
 
 ## 81. Comparison: Hyderabad And Manipur
 
-| Point | Hyderabad | Manipur |
-|---|---|---|
-| Ruler | Nizam | Maharaja Bodhachandra Singh |
-| Main issue | Nizam wanted independence | Merger after elected assembly existed |
-| People's role | Strong movement against Nizam | Elected assembly was divided |
-| Final outcome | Acceded after Indian army action in 1948 | Merger Agreement signed in 1949 |
+| Point         | Hyderabad                                        | Manipur                                                  |
+| ------------- | ------------------------------------------------ | -------------------------------------------------------- |
+| Ruler         | Nizam                                            | Maharaja Bodhachandra Singh                              |
+| Main issue    | Nizam wanted independence                        | Merger after elected assembly existed                    |
+| People's role | Strong movement against Nizam                    | Elected assembly was divided                             |
+| Final outcome | Acceded after Indian army action in 1948         | Merger Agreement signed in 1949                          |
 | Larger lesson | Territorial unity sometimes required firm action | Integration could create questions of democratic consent |
 
 ## 82. Very Short Answer Practice

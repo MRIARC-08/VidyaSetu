@@ -22,18 +22,18 @@ The main point is that globalisation is not only about foreign products or world
 
 ## Key Terms
 
-| Term | Meaning | Why it matters |
-|---|---|---|
-| Globalisation | Growing interdependence of people, regions, and countries as social and economic relations stretch worldwide | Core process studied in this chapter |
-| Liberalisation | Policy shift that opens the economy by reducing state controls and encouraging market forces | In India, liberalisation since 1991 helped intensify globalisation |
-| Sociological imagination | Ability to connect personal life with larger social processes | Helps link a village farmer, call centre worker, or consumer to global systems |
-| Transnational corporation | Company that produces or markets goods and services in more than one country | Major driver of economic globalisation |
-| Electronic economy | Movement of money through digital networks | Allows rapid global financial transactions |
-| Knowledge economy | Economy based on information, design, services, technology, and symbolic products | Important in IT, media, finance, and services |
-| New international division of labour | Global distribution of production across countries according to cost and skill | Explains outsourcing and relocation of manufacturing |
-| Glocalisation | Mixing of global products or forms with local culture | Shows that global culture is adapted locally |
-| Homogenisation | Process by which cultures become similar | A major fear associated with global media and markets |
-| Corporate culture | Management-created organisational culture meant to increase loyalty and productivity | Linked with global firms and professional workplaces |
+| Term                                 | Meaning                                                                                                      | Why it matters                                                                 |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| Globalisation                        | Growing interdependence of people, regions, and countries as social and economic relations stretch worldwide | Core process studied in this chapter                                           |
+| Liberalisation                       | Policy shift that opens the economy by reducing state controls and encouraging market forces                 | In India, liberalisation since 1991 helped intensify globalisation             |
+| Sociological imagination             | Ability to connect personal life with larger social processes                                                | Helps link a village farmer, call centre worker, or consumer to global systems |
+| Transnational corporation            | Company that produces or markets goods and services in more than one country                                 | Major driver of economic globalisation                                         |
+| Electronic economy                   | Movement of money through digital networks                                                                   | Allows rapid global financial transactions                                     |
+| Knowledge economy                    | Economy based on information, design, services, technology, and symbolic products                            | Important in IT, media, finance, and services                                  |
+| New international division of labour | Global distribution of production across countries according to cost and skill                               | Explains outsourcing and relocation of manufacturing                           |
+| Glocalisation                        | Mixing of global products or forms with local culture                                                        | Shows that global culture is adapted locally                                   |
+| Homogenisation                       | Process by which cultures become similar                                                                     | A major fear associated with global media and markets                          |
+| Corporate culture                    | Management-created organisational culture meant to increase loyalty and productivity                         | Linked with global firms and professional workplaces                           |
 
 ## 1. Why Globalisation Matters
 
@@ -661,4 +661,3 @@ Glocalisation refers to the mixing of global and local culture. It happens when 
 - Culture under globalisation involves both homogenisation and glocalisation.
 - Consumption, corporate culture, and global media reshape everyday life.
 - Indigenous traditions and livelihoods may be threatened by global markets.
-

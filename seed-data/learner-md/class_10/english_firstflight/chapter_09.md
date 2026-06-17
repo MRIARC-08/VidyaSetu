@@ -1,44 +1,45 @@
 # Chapter 9: Madam Rides the Bus
+
 ### NCERT Class 10 - English Firstflight
 
 ---
 
 ## Chapter At A Glance
 
-| Detail | Learner-Friendly Information |
-| --- | --- |
-| Class | 10 |
-| Subject | English Firstflight |
-| Chapter | 9 - Madam Rides the Bus |
-| Source File | data/class_10/english_firstflight/chapter_09.md |
+| Detail       | Learner-Friendly Information                                                                 |
+| ------------ | -------------------------------------------------------------------------------------------- |
+| Class        | 10                                                                                           |
+| Subject      | English Firstflight                                                                          |
+| Chapter      | 9 - Madam Rides the Bus                                                                      |
+| Source File  | data/class_10/english_firstflight/chapter_09.md                                              |
 | Subject Lens | context -> plot/situation -> character voice -> theme -> language feature -> reader response |
-| Best Use | Use this as a detailed learner guide: read, mark, answer, revise, and test. |
+| Best Use     | Use this as a detailed learner guide: read, mark, answer, revise, and test.                  |
 
 ## Learning Roadmap
 
-| Step | Learner Action | Why It Matters |
-| --- | --- | --- |
-| 1 | Read once for the literal story and again for tone, conflict, and theme. | Turns raw textbook material into answer-ready understanding. |
-| 2 | Maintain a character evidence table with quotations or paraphrased moments. | Turns raw textbook material into answer-ready understanding. |
-| 3 | Track difficult expressions and infer meaning from context. | Turns raw textbook material into answer-ready understanding. |
-| 4 | For long answers, connect textual evidence to the central theme. | Turns raw textbook material into answer-ready understanding. |
+| Step | Learner Action                                                              | Why It Matters                                               |
+| ---- | --------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| 1    | Read once for the literal story and again for tone, conflict, and theme.    | Turns raw textbook material into answer-ready understanding. |
+| 2    | Maintain a character evidence table with quotations or paraphrased moments. | Turns raw textbook material into answer-ready understanding. |
+| 3    | Track difficult expressions and infer meaning from context.                 | Turns raw textbook material into answer-ready understanding. |
+| 4    | For long answers, connect textual evidence to the central theme.            | Turns raw textbook material into answer-ready understanding. |
 
 ## Learning Outcomes
 
-| # | After Studying, You Should Be Able To |
-| --- | --- |
-| 1 | Explain the core idea of **Madam Rides the Bus** in clear learner language. |
-| 2 | Use chapter evidence, examples, data, formulas, characters, events, or concepts accurately. |
-| 3 | Separate definitions, explanations, examples, and conclusions while answering. |
-| 4 | Prepare short-answer and long-answer responses without copying disconnected textbook lines. |
-| 5 | Revise the chapter through keywords, section summaries, and practice prompts. |
+| #   | After Studying, You Should Be Able To                                                       |
+| --- | ------------------------------------------------------------------------------------------- |
+| 1   | Explain the core idea of **Madam Rides the Bus** in clear learner language.                 |
+| 2   | Use chapter evidence, examples, data, formulas, characters, events, or concepts accurately. |
+| 3   | Separate definitions, explanations, examples, and conclusions while answering.              |
+| 4   | Prepare short-answer and long-answer responses without copying disconnected textbook lines. |
+| 5   | Revise the chapter through keywords, section summaries, and practice prompts.               |
 
 ## Section Map
 
-| Section | Learner Focus |
-| --- | --- |
+| Section                | Learner Focus                                              |
+| ---------------------- | ---------------------------------------------------------- |
 | Core chapter narrative | Main idea, supporting details, examples, and answer value. |
-| Activity | Main idea, supporting details, examples, and answer value. |
+| Activity               | Main idea, supporting details, examples, and answer value. |
 
 ## High-Yield Chapter Summary
 
@@ -59,22 +60,22 @@
 
 ## Key Terms, Concepts, And Recall Anchors
 
-| Anchor Word | What To Do With It |
-| --- | --- |
-| Alli | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| What | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Said | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Conductor | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Valli | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Little | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Then | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Does | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Town | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Poem | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Just | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Like | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Belinda | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Find | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Anchor Word | What To Do With It                                                                                    |
+| ----------- | ----------------------------------------------------------------------------------------------------- |
+| Alli        | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| What        | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Said        | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Conductor   | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Valli       | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Little      | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Then        | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Does        | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Town        | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Poem        | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Just        | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Like        | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Belinda     | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Find        | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
 
 ### Literature Reading Anchors
 
@@ -84,8 +85,8 @@
 
 ## Formula, Evidence, Data, And Example Board
 
-| Source Point | How Learners Should Use It |
-| --- | --- |
+| Source Point                                                                                                                                                                         | How Learners Should Use It                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------- |
 | What are your concerns? **Q19.** How would you make road travel safer and more enjoyable? **Q20.** “Belinda tickled him, she tickled him unmerciful...” Why? **Q21.** used in the po | Use this as supporting evidence in short or long answers. |
 | 2018-19 Belinda tickled him, she tickled him unmerciful, Ink, Blink and Mustard, they rudely called him Percival, They all sat laughing in the little red wagon At the realio, truli | Use this as supporting evidence in short or long answers. |
 | Speak briefly about some of these scenes, or about other such scenes that you have seen; or write a sentence or two about them. rivers green fields hills roadside shops market plac | Use this as supporting evidence in short or long answers. |
@@ -127,7 +128,7 @@
 
 #### Clean Study Notes
 
-Look at the words and phrases given below. Then put a tick against the ones you think you will find in the text. ___ a set of passengers ___ get on the bus ___ get off the bus ___ platform ___ Tickets, please ___ a roar and a rattle ___ a row of seats ___ slowing down to a crawl ___ blowing a whistle 2. You must have travelled by bus more than once.
+Look at the words and phrases given below. Then put a tick against the ones you think you will find in the text. **_ a set of passengers _** get on the bus **_ get off the bus _** platform **_ Tickets, please _** a roar and a rattle **_ a row of seats _** slowing down to a crawl \_\_\_ blowing a whistle 2. You must have travelled by bus more than once.
 
 What can you see from a fast-moving bus? Speak briefly about some of these scenes, or about other such scenes that you have seen; or write a sentence or two about them. rivers green fields hills roadside shops market places railway tracks moving trains vehicles on the road trees a crowd clothes in shops animals 2018-19 I T HERE was a girl named Valliammai who was called V alli for short. She was eight years old and very curious about things.
 
@@ -158,12 +159,12 @@ Their faces would kindle in her longings, dreams, and hopes. If one of her frien
 
 ### Likely Question Bank
 
-| Question Type | Strong Answer Shape |
-| --- | --- |
-| Explain Core chapter narrative. | Definition or context -> key points -> evidence/example -> significance. |
-| How does Core chapter narrative develop the chapter's theme? | Situation -> character/speaker response -> language/detail -> theme. |
-| Explain Activity. | Definition or context -> key points -> evidence/example -> significance. |
-| How does Activity develop the chapter's theme? | Situation -> character/speaker response -> language/detail -> theme. |
+| Question Type                                                | Strong Answer Shape                                                      |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------ |
+| Explain Core chapter narrative.                              | Definition or context -> key points -> evidence/example -> significance. |
+| How does Core chapter narrative develop the chapter's theme? | Situation -> character/speaker response -> language/detail -> theme.     |
+| Explain Activity.                                            | Definition or context -> key points -> evidence/example -> significance. |
+| How does Activity develop the chapter's theme?               | Situation -> character/speaker response -> language/detail -> theme.     |
 
 ### Common Mistakes To Avoid
 
@@ -189,12 +190,12 @@ Their faces would kindle in her longings, dreams, and hopes. If one of her frien
 
 ## One-Page Quick Revision
 
-| Revision Item | What To Recall |
-| --- | --- |
-| Chapter | 9 — Madam Rides the Bus |
-| Subject Lens | context -> plot/situation -> character voice -> theme -> language feature -> reader response |
-| Main Keywords | Alli, What, Said, Conductor, Valli, Little, Then, Does, Town, Poem |
-| Best First Step | Read the section titles, then explain each title aloud before revising details. |
+| Revision Item   | What To Recall                                                                                  |
+| --------------- | ----------------------------------------------------------------------------------------------- |
+| Chapter         | 9 — Madam Rides the Bus                                                                         |
+| Subject Lens    | context -> plot/situation -> character voice -> theme -> language feature -> reader response    |
+| Main Keywords   | Alli, What, Said, Conductor, Valli, Little, Then, Does, Town, Poem                              |
+| Best First Step | Read the section titles, then explain each title aloud before revising details.                 |
 | Best Final Step | Attempt the likely question bank and check whether every answer uses evidence from the chapter. |
 
 ---
@@ -203,7 +204,7 @@ Their faces would kindle in her longings, dreams, and hopes. If one of her frien
 
 The notes above organise the chapter for learning. The cleaned source flow below keeps the original chapter material close at hand for detailed reading.
 
-## 🌍 Introduction    In this sensitive story, an eight-year old girl’s first bus journey into the world outside her village is also her induction into the mystery of life and death. She sees the gap between our knowing that there is death, and our understanding of it. Look at the words and phrases given below. Then put a tick against the ones you think you will find in the text. ___ a set of passengers ___ get on the bus ___ get off the bus ___ platform ___ Tickets, please ___ a roar and a rattle ___ a row of seats ___ slowing down to a crawl ___ blowing a whistle 2.
+## 🌍 Introduction    In this sensitive story, an eight-year old girl’s first bus journey into the world outside her village is also her induction into the mystery of life and death. She sees the gap between our knowing that there is death, and our understanding of it. Look at the words and phrases given below. Then put a tick against the ones you think you will find in the text. **_ a set of passengers _** get on the bus **_ get off the bus _** platform **_ Tickets, please _** a roar and a rattle **_ a row of seats _** slowing down to a crawl \_\_\_ blowing a whistle 2.
 
 You must have travelled by bus more than once. What can you see from a fast-moving bus? Speak briefly about some of these scenes, or about other such scenes that you have seen; or write a sentence or two about them. rivers green fields hills roadside shops market places railway tracks moving trains vehicles on the road trees a crowd clothes in shops animals 2018-19 I T HERE was a girl named Valliammai who was called V alli for short. She was eight years old and very curious about things.
 
@@ -299,4 +300,4 @@ This poem, in ballad form, tells a story. Have you come across any such modern s
 
 Revise and edit your ballad to make it entertaining. What does she see now? **Q7.** What does Valli tell the elderly man when he calls her a child? **Q8.** Why didn’t V alli want to make friends with the elderly woman? **Q9.** How did V alli save up money for her first jour ney? Can you find evidence from the text for this statement? **Q18.** Are you concerned about traffic and road safety? What are your concerns? **Q19.** How would you make road travel safer and more enjoyable? **Q20.** “Belinda tickled him, she tickled him unmerciful...” Why? **Q21.** used in the poem? **Q22.** Can you find out the rhyme scheme of two or three stanzas of the poem? **Q23.** they mean.
 
-Can you trace some images used in the poem? --- *Source: NCERT Class 10 — English Firstflight, Chapter 9.
+Can you trace some images used in the poem? --- \*Source: NCERT Class 10 — English Firstflight, Chapter 9.

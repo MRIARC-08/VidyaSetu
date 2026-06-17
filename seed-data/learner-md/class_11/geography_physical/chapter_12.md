@@ -53,60 +53,60 @@ By the end of this chapter, you should be able to:
 
 ## Big Picture Map
 
-| Theme | Core Idea | Key Details |
-| --- | --- | --- |
-| Climate classification | Organises climate data into meaningful groups | Empirical, genetic, applied |
-| Koeppen system | Most widely used empirical classification | Based on temperature, precipitation, vegetation relation |
-| Letter codes | Capital and small letters describe climate groups and types | A, B, C, D, E, H; f, m, w, s; S, W |
-| Tropical climates | Hot and humid between tropics | Af, Am, Aw |
-| Dry climates | Evaporation exceeds precipitation | Steppe and desert |
-| Warm temperate climates | Warm summers, mild winters | Cwa, Cs, Cfa, Cfb |
-| Cold snow forest climates | Severe winters in northern continents | Df, Dw |
-| Polar climates | Very cold, no true warm summer | ET, EF |
-| Highland climates | Controlled by elevation | Vertical climatic zonation |
-| Climate change | Climate changes naturally and by human influence | Glacial cycles, sunspots, volcanism, greenhouse gases |
-| Global warming | Warming due to rising greenhouse gases | CO2, CFCs, CH4, N2O, ozone |
+| Theme                     | Core Idea                                                   | Key Details                                              |
+| ------------------------- | ----------------------------------------------------------- | -------------------------------------------------------- |
+| Climate classification    | Organises climate data into meaningful groups               | Empirical, genetic, applied                              |
+| Koeppen system            | Most widely used empirical classification                   | Based on temperature, precipitation, vegetation relation |
+| Letter codes              | Capital and small letters describe climate groups and types | A, B, C, D, E, H; f, m, w, s; S, W                       |
+| Tropical climates         | Hot and humid between tropics                               | Af, Am, Aw                                               |
+| Dry climates              | Evaporation exceeds precipitation                           | Steppe and desert                                        |
+| Warm temperate climates   | Warm summers, mild winters                                  | Cwa, Cs, Cfa, Cfb                                        |
+| Cold snow forest climates | Severe winters in northern continents                       | Df, Dw                                                   |
+| Polar climates            | Very cold, no true warm summer                              | ET, EF                                                   |
+| Highland climates         | Controlled by elevation                                     | Vertical climatic zonation                               |
+| Climate change            | Climate changes naturally and by human influence            | Glacial cycles, sunspots, volcanism, greenhouse gases    |
+| Global warming            | Warming due to rising greenhouse gases                      | CO2, CFCs, CH4, N2O, ozone                               |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Climate classification | Systematic grouping of climates for understanding and comparison. |
-| Empirical classification | Classification based on observed data such as temperature and precipitation. |
-| Genetic classification | Classification based on causes of climate. |
-| Applied classification | Classification made for a specific purpose. |
-| Koeppen classification | Empirical climate classification based on temperature, precipitation, and vegetation relationships. |
-| Climatic group | Broad climate category in Koeppen's scheme. |
-| Climatic type | Subdivision of a climatic group. |
-| Tropical humid climate | Hot, humid climate between Tropic of Cancer and Tropic of Capricorn. |
-| Tropical wet climate | Af climate with rainfall in every month. |
-| Tropical monsoon climate | Am climate with heavy summer rain and short dry winter. |
-| Tropical wet and dry climate | Aw climate with wet and dry seasons. |
-| Dry climate | Climate where potential evaporation exceeds precipitation. |
-| Steppe climate | Semi-arid climate, drier than humid regions but wetter than desert. |
-| Desert climate | Arid climate with very low rainfall. |
-| Warm temperate climate | Mid-latitude climate with warm summers and mild winters. |
-| Mediterranean climate | Climate with hot dry summer and mild rainy winter. |
-| Marine west coast climate | Mild ocean-influenced west coast climate with precipitation throughout the year. |
-| Cold snow forest climate | Cold continental climate with severe winters. |
-| Tundra climate | Polar climate with low-growing vegetation and permafrost. |
-| Ice cap climate | Polar climate with perennial ice and below-freezing summer temperature. |
-| Highland climate | Climate controlled by altitude and mountain topography. |
-| Permafrost | Permanently frozen subsoil. |
-| Climate change | Long-term change in climate conditions. |
-| Glacial period | Cold period when glaciers expand. |
-| Interglacial period | Warmer period between glacial periods. |
-| Sunspots | Dark cooler patches on the sun linked with solar-output variation. |
-| Milankovitch oscillations | Cycles in earth's orbit, wobble, and axial tilt that affect insolation. |
-| Aerosols | Tiny particles in the atmosphere, often emitted by volcanoes and human activity. |
-| Greenhouse effect | Warming process where gases absorb outgoing longwave radiation. |
-| Greenhouse gases | Gases that absorb longwave radiation and warm the atmosphere. |
-| Global warming | Long-term warming of the earth due to increased greenhouse gases. |
-| Carbon sink | Natural store that absorbs carbon dioxide, such as forests and oceans. |
-| Ozone hole | Depletion of ozone concentration in the stratosphere. |
-| Kyoto Protocol | International agreement proclaimed in 1997 to reduce greenhouse gas emissions. |
+| Term                         | Meaning                                                                                             |
+| ---------------------------- | --------------------------------------------------------------------------------------------------- |
+| Climate classification       | Systematic grouping of climates for understanding and comparison.                                   |
+| Empirical classification     | Classification based on observed data such as temperature and precipitation.                        |
+| Genetic classification       | Classification based on causes of climate.                                                          |
+| Applied classification       | Classification made for a specific purpose.                                                         |
+| Koeppen classification       | Empirical climate classification based on temperature, precipitation, and vegetation relationships. |
+| Climatic group               | Broad climate category in Koeppen's scheme.                                                         |
+| Climatic type                | Subdivision of a climatic group.                                                                    |
+| Tropical humid climate       | Hot, humid climate between Tropic of Cancer and Tropic of Capricorn.                                |
+| Tropical wet climate         | Af climate with rainfall in every month.                                                            |
+| Tropical monsoon climate     | Am climate with heavy summer rain and short dry winter.                                             |
+| Tropical wet and dry climate | Aw climate with wet and dry seasons.                                                                |
+| Dry climate                  | Climate where potential evaporation exceeds precipitation.                                          |
+| Steppe climate               | Semi-arid climate, drier than humid regions but wetter than desert.                                 |
+| Desert climate               | Arid climate with very low rainfall.                                                                |
+| Warm temperate climate       | Mid-latitude climate with warm summers and mild winters.                                            |
+| Mediterranean climate        | Climate with hot dry summer and mild rainy winter.                                                  |
+| Marine west coast climate    | Mild ocean-influenced west coast climate with precipitation throughout the year.                    |
+| Cold snow forest climate     | Cold continental climate with severe winters.                                                       |
+| Tundra climate               | Polar climate with low-growing vegetation and permafrost.                                           |
+| Ice cap climate              | Polar climate with perennial ice and below-freezing summer temperature.                             |
+| Highland climate             | Climate controlled by altitude and mountain topography.                                             |
+| Permafrost                   | Permanently frozen subsoil.                                                                         |
+| Climate change               | Long-term change in climate conditions.                                                             |
+| Glacial period               | Cold period when glaciers expand.                                                                   |
+| Interglacial period          | Warmer period between glacial periods.                                                              |
+| Sunspots                     | Dark cooler patches on the sun linked with solar-output variation.                                  |
+| Milankovitch oscillations    | Cycles in earth's orbit, wobble, and axial tilt that affect insolation.                             |
+| Aerosols                     | Tiny particles in the atmosphere, often emitted by volcanoes and human activity.                    |
+| Greenhouse effect            | Warming process where gases absorb outgoing longwave radiation.                                     |
+| Greenhouse gases             | Gases that absorb longwave radiation and warm the atmosphere.                                       |
+| Global warming               | Long-term warming of the earth due to increased greenhouse gases.                                   |
+| Carbon sink                  | Natural store that absorbs carbon dioxide, such as forests and oceans.                              |
+| Ozone hole                   | Depletion of ozone concentration in the stratosphere.                                               |
+| Kyoto Protocol               | International agreement proclaimed in 1997 to reduce greenhouse gas emissions.                      |
 
 ---
 
@@ -189,12 +189,12 @@ Examples:
 
 ## 2.4 Empirical vs Genetic
 
-| Basis | Empirical Classification | Genetic Classification |
-| --- | --- | --- |
-| Main basis | Observed data | Causes of climate |
+| Basis          | Empirical Classification      | Genetic Classification                 |
+| -------------- | ----------------------------- | -------------------------------------- |
+| Main basis     | Observed data                 | Causes of climate                      |
 | Main variables | Temperature and precipitation | Radiation, winds, pressure, air masses |
-| Example | Koeppen | Circulation-based systems |
-| Question asked | What is the climate like? | Why does this climate occur? |
+| Example        | Koeppen                       | Circulation-based systems              |
+| Question asked | What is the climate like?     | Why does this climate occur?           |
 
 ---
 
@@ -250,14 +250,14 @@ One is based on precipitation.
 
 ## 4.2 Main Group Table
 
-| Group | Name | Main Characteristic |
-| --- | --- | --- |
-| A | Tropical | Average temperature of coldest month is 18 degrees Celsius or higher |
-| B | Dry climates | Potential evaporation exceeds precipitation |
-| C | Warm temperate mid-latitude climates | Coldest month above -3 degrees Celsius but below 18 degrees Celsius |
-| D | Cold snow forest climates | Coldest month is -3 degrees Celsius or below |
-| E | Cold climates | Average temperature for all months below 10 degrees Celsius |
-| H | Highland | Cold due to elevation |
+| Group | Name                                 | Main Characteristic                                                  |
+| ----- | ------------------------------------ | -------------------------------------------------------------------- |
+| A     | Tropical                             | Average temperature of coldest month is 18 degrees Celsius or higher |
+| B     | Dry climates                         | Potential evaporation exceeds precipitation                          |
+| C     | Warm temperate mid-latitude climates | Coldest month above -3 degrees Celsius but below 18 degrees Celsius  |
+| D     | Cold snow forest climates            | Coldest month is -3 degrees Celsius or below                         |
+| E     | Cold climates                        | Average temperature for all months below 10 degrees Celsius          |
+| H     | Highland                             | Cold due to elevation                                                |
 
 ## 4.3 Humid And Dry Groups
 
@@ -271,12 +271,12 @@ H represents highland climates controlled by elevation.
 
 Small letters indicate seasonality of precipitation:
 
-| Letter | Meaning |
-| --- | --- |
-| f | No dry season |
-| m | Monsoon climate |
-| w | Winter dry season |
-| s | Summer dry season |
+| Letter | Meaning           |
+| ------ | ----------------- |
+| f      | No dry season     |
+| m      | Monsoon climate   |
+| w      | Winter dry season |
+| s      | Summer dry season |
 
 ## 4.5 Temperature Severity Letters
 
@@ -288,30 +288,30 @@ They help further distinguish climate types.
 
 B dry climates are subdivided using:
 
-| Letter | Meaning |
-| --- | --- |
-| S | Steppe or semi-arid |
-| W | Desert |
+| Letter | Meaning             |
+| ------ | ------------------- |
+| S      | Steppe or semi-arid |
+| W      | Desert              |
 
 ## 4.7 Climatic Type Table
 
-| Group | Type | Code | Main Characteristic |
-| --- | --- | --- | --- |
-| Tropical humid | Tropical wet | Af | No dry season |
-| Tropical humid | Tropical monsoon | Am | Monsoonal, short dry season |
-| Tropical humid | Tropical wet and dry | Aw | Winter dry season |
-| Dry | Subtropical steppe | BSh | Low-latitude semi-arid |
-| Dry | Subtropical desert | BWh | Low-latitude arid |
-| Dry | Mid-latitude steppe | BSk | Mid-latitude semi-arid |
-| Dry | Mid-latitude desert | BWk | Mid-latitude arid |
-| Warm temperate | Humid subtropical | Cfa | No dry season, warm summer |
-| Warm temperate | Mediterranean | Cs | Dry hot summer |
-| Warm temperate | Marine west coast | Cfb | No dry season, warm and cool summer |
-| Cold snow forest | Humid continental | Df | No dry season, severe winter |
-| Cold snow forest | Subarctic | Dw | Winter dry and very severe |
-| Cold | Tundra | ET | No true summer |
-| Cold | Polar ice cap | EF | Perennial ice |
-| Highland | Highland | H | Highland with snow cover |
+| Group            | Type                 | Code | Main Characteristic                 |
+| ---------------- | -------------------- | ---- | ----------------------------------- |
+| Tropical humid   | Tropical wet         | Af   | No dry season                       |
+| Tropical humid   | Tropical monsoon     | Am   | Monsoonal, short dry season         |
+| Tropical humid   | Tropical wet and dry | Aw   | Winter dry season                   |
+| Dry              | Subtropical steppe   | BSh  | Low-latitude semi-arid              |
+| Dry              | Subtropical desert   | BWh  | Low-latitude arid                   |
+| Dry              | Mid-latitude steppe  | BSk  | Mid-latitude semi-arid              |
+| Dry              | Mid-latitude desert  | BWk  | Mid-latitude arid                   |
+| Warm temperate   | Humid subtropical    | Cfa  | No dry season, warm summer          |
+| Warm temperate   | Mediterranean        | Cs   | Dry hot summer                      |
+| Warm temperate   | Marine west coast    | Cfb  | No dry season, warm and cool summer |
+| Cold snow forest | Humid continental    | Df   | No dry season, severe winter        |
+| Cold snow forest | Subarctic            | Dw   | Winter dry and very severe          |
+| Cold             | Tundra               | ET   | No true summer                      |
+| Cold             | Polar ice cap        | EF   | Perennial ice                       |
+| Highland         | Highland             | H    | Highland with snow cover            |
 
 ---
 
@@ -555,12 +555,12 @@ Dry climates are divided into:
 
 ## 9.8 Subtypes
 
-| Code | Meaning | Latitude |
-| --- | --- | --- |
-| BSh | Subtropical steppe | 15-35 degrees |
-| BWh | Subtropical desert | 15-35 degrees |
-| BSk | Mid-latitude steppe | 35-60 degrees |
-| BWk | Mid-latitude desert | 35-60 degrees |
+| Code | Meaning             | Latitude      |
+| ---- | ------------------- | ------------- |
+| BSh  | Subtropical steppe  | 15-35 degrees |
+| BWh  | Subtropical desert  | 15-35 degrees |
+| BSk  | Mid-latitude steppe | 35-60 degrees |
+| BWk  | Mid-latitude desert | 35-60 degrees |
 
 ---
 
@@ -613,12 +613,12 @@ The highest shade temperature of 58 degrees Celsius was recorded at Al Aziziyah,
 
 ## 10.7 Steppe vs Desert
 
-| Basis | Steppe | Desert |
-| --- | --- | --- |
-| Rainfall | Slightly more | Very low |
-| Vegetation | Sparse grassland | Very sparse xerophytic vegetation |
-| Moisture | Semi-arid | Arid |
-| Risk | Drought and famine | Soil moisture rarely builds |
+| Basis      | Steppe             | Desert                            |
+| ---------- | ------------------ | --------------------------------- |
+| Rainfall   | Slightly more      | Very low                          |
+| Vegetation | Sparse grassland   | Very sparse xerophytic vegetation |
+| Moisture   | Semi-arid          | Arid                              |
+| Risk       | Drought and famine | Soil moisture rarely builds       |
 
 ---
 
@@ -1016,14 +1016,14 @@ Highland climate changes with height.
 
 # 23. A And B Climate Comparison
 
-| Basis | A: Tropical Humid | B: Dry |
-| --- | --- | --- |
-| Main control | High temperature and moisture | Evaporation greater than precipitation |
-| Temperature | Coldest month 18 degrees Celsius or higher | Often high in subtropics, cold in mid-latitude deserts |
-| Rainfall | High to seasonal | Very low and unreliable |
-| Vegetation | Evergreen forest, monsoon forest, savanna/grassland | Sparse grassland, desert vegetation |
-| Location | Between tropics | 15-60 degrees, subtropical highs and interiors |
-| Types | Af, Am, Aw | BSh, BWh, BSk, BWk |
+| Basis        | A: Tropical Humid                                   | B: Dry                                                 |
+| ------------ | --------------------------------------------------- | ------------------------------------------------------ |
+| Main control | High temperature and moisture                       | Evaporation greater than precipitation                 |
+| Temperature  | Coldest month 18 degrees Celsius or higher          | Often high in subtropics, cold in mid-latitude deserts |
+| Rainfall     | High to seasonal                                    | Very low and unreliable                                |
+| Vegetation   | Evergreen forest, monsoon forest, savanna/grassland | Sparse grassland, desert vegetation                    |
+| Location     | Between tropics                                     | 15-60 degrees, subtropical highs and interiors         |
+| Types        | Af, Am, Aw                                          | BSh, BWh, BSk, BWk                                     |
 
 ---
 
@@ -1577,54 +1577,54 @@ Deforestation reduces this sink capacity.
 
 ## 39.1 Empirical vs Genetic Classification
 
-| Empirical | Genetic |
-| --- | --- |
-| Based on observed data | Based on causes |
+| Empirical                          | Genetic                                           |
+| ---------------------------------- | ------------------------------------------------- |
+| Based on observed data             | Based on causes                                   |
 | Uses temperature and precipitation | Uses circulation, air masses, pressure, radiation |
-| Koeppen is example | Cause-based systems are examples |
+| Koeppen is example                 | Cause-based systems are examples                  |
 
 ## 39.2 Af vs Am vs Aw
 
-| Type | Rainfall | Seasonality | Vegetation |
-| --- | --- | --- | --- |
-| Af | Rain every month | No dry season | Evergreen forest |
-| Am | Heavy summer rainfall | Short dry winter | Monsoon vegetation |
-| Aw | Less and variable rainfall | Wet and dry seasons | Deciduous forest and grasslands |
+| Type | Rainfall                   | Seasonality         | Vegetation                      |
+| ---- | -------------------------- | ------------------- | ------------------------------- |
+| Af   | Rain every month           | No dry season       | Evergreen forest                |
+| Am   | Heavy summer rainfall      | Short dry winter    | Monsoon vegetation              |
+| Aw   | Less and variable rainfall | Wet and dry seasons | Deciduous forest and grasslands |
 
 ## 39.3 Steppe vs Desert
 
-| Steppe | Desert |
-| --- | --- |
-| Semi-arid | Arid |
-| Slightly more rain | Very low rain |
-| Sparse grassland | Very sparse vegetation |
+| Steppe                        | Desert                 |
+| ----------------------------- | ---------------------- |
+| Semi-arid                     | Arid                   |
+| Slightly more rain            | Very low rain          |
+| Sparse grassland              | Very sparse vegetation |
 | Drought affects life strongly | Rain often ineffective |
 
 ## 39.4 Mediterranean vs Marine West Coast
 
-| Mediterranean Cs | Marine West Coast Cfb |
-| --- | --- |
-| Hot dry summer | Mild summer |
-| Mild rainy winter | Precipitation throughout year |
-| 30-40 degree west coasts | Poleward of Mediterranean west coasts |
-| Subtropical high in summer | Strong marine influence |
+| Mediterranean Cs           | Marine West Coast Cfb                 |
+| -------------------------- | ------------------------------------- |
+| Hot dry summer             | Mild summer                           |
+| Mild rainy winter          | Precipitation throughout year         |
+| 30-40 degree west coasts   | Poleward of Mediterranean west coasts |
+| Subtropical high in summer | Strong marine influence               |
 
 ## 39.5 Tundra vs Ice Cap
 
-| Tundra ET | Ice Cap EF |
-| --- | --- |
-| Low-growing mosses, lichens, flowering plants | Perennial ice |
-| Permafrost | Ice sheets |
-| Short growing season | No real growing season |
-| Summer daylight long | Summer below freezing |
+| Tundra ET                                     | Ice Cap EF             |
+| --------------------------------------------- | ---------------------- |
+| Low-growing mosses, lichens, flowering plants | Perennial ice          |
+| Permafrost                                    | Ice sheets             |
+| Short growing season                          | No real growing season |
+| Summer daylight long                          | Summer below freezing  |
 
 ## 39.6 Greenhouse Effect vs Global Warming
 
-| Greenhouse Effect | Global Warming |
-| --- | --- |
+| Greenhouse Effect                           | Global Warming                                      |
+| ------------------------------------------- | --------------------------------------------------- |
 | Natural warming process by greenhouse gases | Long-term warming due to increased greenhouse gases |
-| Necessary for maintaining warmth | Becomes harmful when intensified |
-| Involves absorption of longwave radiation | Leads to climate change impacts |
+| Necessary for maintaining warmth            | Becomes harmful when intensified                    |
+| Involves absorption of longwave radiation   | Leads to climate change impacts                     |
 
 ---
 
@@ -1766,16 +1766,16 @@ Increasing greenhouse gases may lead to global warming, sea-level rise, glacier 
 
 Use this structure for project work:
 
-| Topic | Notes |
-| --- | --- |
-| Name | Kyoto Protocol |
-| Year proclaimed | 1997 |
-| Entered into effect | 2005 |
-| Nations ratified | 141 |
-| Main target | Reduce greenhouse gas emissions |
-| Industrialised countries | 35 countries bound by target |
-| Emission target | 5 per cent below 1990 levels by 2012 |
-| Importance | International climate-change response |
+| Topic                    | Notes                                 |
+| ------------------------ | ------------------------------------- |
+| Name                     | Kyoto Protocol                        |
+| Year proclaimed          | 1997                                  |
+| Entered into effect      | 2005                                  |
+| Nations ratified         | 141                                   |
+| Main target              | Reduce greenhouse gas emissions       |
+| Industrialised countries | 35 countries bound by target          |
+| Emission target          | 5 per cent below 1990 levels by 2012  |
+| Importance               | International climate-change response |
 
 ## 42.2 Project Conclusion Frame
 

@@ -39,47 +39,47 @@ By the end of this chapter, you should be able to:
 
 ## Big Picture Map
 
-| Level | Division | Main Idea |
-| --- | --- | --- |
-| Geological divisions | Peninsular Block | Old, stable, rigid block made mainly of ancient rocks. |
-| Geological divisions | Himalayas and other mountains | Young, weak, folded, tectonic mountains. |
-| Geological divisions | Indo-Ganga-Brahmaputra Plain | Alluvial plain formed by deposition in a former depression. |
-| Physiographic divisions | Northern and Northeastern Mountains | Himalayas and eastern hill ranges. |
-| Physiographic divisions | Northern Plain | Alluvial plain of Indus, Ganga, and Brahmaputra systems. |
-| Physiographic divisions | Peninsular Plateau | Old plateau with residual hills, rift valleys, scarps, and mineral areas. |
-| Physiographic divisions | Indian Desert | Arid region northwest of Aravali with dunes and inland drainage. |
-| Physiographic divisions | Coastal Plains | Western submerged coast and eastern emergent coast. |
-| Physiographic divisions | Islands | Andaman-Nicobar and Lakshadweep groups. |
+| Level                   | Division                            | Main Idea                                                                 |
+| ----------------------- | ----------------------------------- | ------------------------------------------------------------------------- |
+| Geological divisions    | Peninsular Block                    | Old, stable, rigid block made mainly of ancient rocks.                    |
+| Geological divisions    | Himalayas and other mountains       | Young, weak, folded, tectonic mountains.                                  |
+| Geological divisions    | Indo-Ganga-Brahmaputra Plain        | Alluvial plain formed by deposition in a former depression.               |
+| Physiographic divisions | Northern and Northeastern Mountains | Himalayas and eastern hill ranges.                                        |
+| Physiographic divisions | Northern Plain                      | Alluvial plain of Indus, Ganga, and Brahmaputra systems.                  |
+| Physiographic divisions | Peninsular Plateau                  | Old plateau with residual hills, rift valleys, scarps, and mineral areas. |
+| Physiographic divisions | Indian Desert                       | Arid region northwest of Aravali with dunes and inland drainage.          |
+| Physiographic divisions | Coastal Plains                      | Western submerged coast and eastern emergent coast.                       |
+| Physiographic divisions | Islands                             | Andaman-Nicobar and Lakshadweep groups.                                   |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Structure | The geological arrangement of rocks, plates, folds, faults, and formations. |
-| Physiography | Physical form of land produced by structure, process, and stage of development. |
-| Endogenic forces | Internal earth forces such as tectonic movement, folding, faulting, and uplift. |
-| Exogenic forces | External forces such as weathering, erosion, transportation, and deposition. |
-| Plate tectonics | Theory explaining movement of earth's lithospheric plates. |
-| Peninsular Block | Old, rigid, stable block of India made mainly of ancient rocks. |
-| Rift valley | A valley formed by faulting and sinking of land between faults. |
-| Relict mountains | Old mountains that have been reduced by long erosion. |
-| Residual mountains | Remnants left after surrounding material has been eroded. |
-| Geosyncline | A large trough-like depression where sediments accumulate. |
-| Alluvium | Sediments deposited by rivers. |
-| Bhabar | Pebbly belt near Shiwalik foothills where streams often disappear. |
-| Tarai | Marshy belt south of Bhabar where streams re-emerge. |
-| Bhangar | Older alluvium of the northern plains. |
-| Khadar | Newer alluvium of the northern plains. |
-| Dun | Longitudinal valley in the Shiwalik region. |
-| Karewa | Thick deposits of glacial clay and other material in Kashmir, useful for saffron cultivation. |
-| Duar | Foothill zone in eastern Himalayas used for passage and tea gardens. |
-| Jhum | Shifting or slash-and-burn cultivation. |
-| Barchan | Crescent-shaped sand dune. |
-| Kayal | Backwater lagoon along the Malabar coast. |
-| Emergent coast | Coast where land has emerged relative to sea level. |
-| Submerged coast | Coast where land has sunk relative to sea level. |
+| Term               | Meaning                                                                                       |
+| ------------------ | --------------------------------------------------------------------------------------------- |
+| Structure          | The geological arrangement of rocks, plates, folds, faults, and formations.                   |
+| Physiography       | Physical form of land produced by structure, process, and stage of development.               |
+| Endogenic forces   | Internal earth forces such as tectonic movement, folding, faulting, and uplift.               |
+| Exogenic forces    | External forces such as weathering, erosion, transportation, and deposition.                  |
+| Plate tectonics    | Theory explaining movement of earth's lithospheric plates.                                    |
+| Peninsular Block   | Old, rigid, stable block of India made mainly of ancient rocks.                               |
+| Rift valley        | A valley formed by faulting and sinking of land between faults.                               |
+| Relict mountains   | Old mountains that have been reduced by long erosion.                                         |
+| Residual mountains | Remnants left after surrounding material has been eroded.                                     |
+| Geosyncline        | A large trough-like depression where sediments accumulate.                                    |
+| Alluvium           | Sediments deposited by rivers.                                                                |
+| Bhabar             | Pebbly belt near Shiwalik foothills where streams often disappear.                            |
+| Tarai              | Marshy belt south of Bhabar where streams re-emerge.                                          |
+| Bhangar            | Older alluvium of the northern plains.                                                        |
+| Khadar             | Newer alluvium of the northern plains.                                                        |
+| Dun                | Longitudinal valley in the Shiwalik region.                                                   |
+| Karewa             | Thick deposits of glacial clay and other material in Kashmir, useful for saffron cultivation. |
+| Duar               | Foothill zone in eastern Himalayas used for passage and tea gardens.                          |
+| Jhum               | Shifting or slash-and-burn cultivation.                                                       |
+| Barchan            | Crescent-shaped sand dune.                                                                    |
+| Kayal              | Backwater lagoon along the Malabar coast.                                                     |
+| Emergent coast     | Coast where land has emerged relative to sea level.                                           |
+| Submerged coast    | Coast where land has sunk relative to sea level.                                              |
 
 ---
 
@@ -388,14 +388,14 @@ India can be divided into six major physiographic divisions:
 
 ## 7.1 Quick Comparison
 
-| Division | Main Character |
-| --- | --- |
-| Northern and Northeastern Mountains | Young folded mountains and eastern hill systems. |
-| Northern Plain | Alluvial plain formed by Indus, Ganga, and Brahmaputra systems. |
-| Peninsular Plateau | Old stable plateau with residual hills, rift valleys, and mineral resources. |
-| Indian Desert | Arid region with dunes, ephemeral streams, and inland drainage. |
-| Coastal Plains | Western submerged coast and eastern emergent coast. |
-| Islands | Bay of Bengal and Arabian Sea island groups. |
+| Division                            | Main Character                                                               |
+| ----------------------------------- | ---------------------------------------------------------------------------- |
+| Northern and Northeastern Mountains | Young folded mountains and eastern hill systems.                             |
+| Northern Plain                      | Alluvial plain formed by Indus, Ganga, and Brahmaputra systems.              |
+| Peninsular Plateau                  | Old stable plateau with residual hills, rift valleys, and mineral resources. |
+| Indian Desert                       | Arid region with dunes, ephemeral streams, and inland drainage.              |
+| Coastal Plains                      | Western submerged coast and eastern emergent coast.                          |
+| Islands                             | Bay of Bengal and Arabian Sea island groups.                                 |
 
 ---
 
@@ -420,12 +420,12 @@ Important ranges include:
 
 The orientation of Himalayan ranges changes regionally:
 
-| Region | General Direction |
-| --- | --- |
-| Northwestern India | Northwest to southeast |
-| Darjiling and Sikkim | East-west |
-| Arunachal Pradesh | Southwest to northeast |
-| Nagaland, Manipur, Mizoram | North-south |
+| Region                     | General Direction      |
+| -------------------------- | ---------------------- |
+| Northwestern India         | Northwest to southeast |
+| Darjiling and Sikkim       | East-west              |
+| Arunachal Pradesh          | Southwest to northeast |
+| Nagaland, Manipur, Mizoram | North-south            |
 
 ## 8.3 Size Of Great Himalayas
 
@@ -512,12 +512,12 @@ They are important for cultivation of saffron, locally called Zafran.
 
 Important passes include:
 
-| Pass | Range |
-| --- | --- |
-| Zoji La | Great Himalayas |
-| Banihal | Pir Panjal |
-| Photu La | Zaskar |
-| Khardung La | Ladakh |
+| Pass        | Range           |
+| ----------- | --------------- |
+| Zoji La     | Great Himalayas |
+| Banihal     | Pir Panjal      |
+| Photu La    | Zaskar          |
+| Khardung La | Ladakh          |
 
 ## 10.7 Lakes
 
@@ -896,10 +896,10 @@ The Tarai supports:
 
 ## 15.6 Bhangar And Khadar
 
-| Type | Meaning |
-| --- | --- |
+| Type    | Meaning                  |
+| ------- | ------------------------ |
 | Bhangar | Older alluvial deposits. |
-| Khadar | Newer alluvial deposits. |
+| Khadar  | Newer alluvial deposits. |
 
 Khadar is generally renewed by floods and is often very fertile.
 
@@ -1371,13 +1371,13 @@ Examples of important eastern ports include:
 
 # 24. Western Coast Versus Eastern Coast
 
-| Feature | Western Coastal Plain | Eastern Coastal Plain |
-| --- | --- | --- |
-| Type | Submerged coast | Emergent coast |
-| Width | Narrower | Broader |
-| Deltas | Generally absent | Well-developed deltas |
-| Rivers | Short, swift | Longer east-flowing rivers |
-| Ports | More natural harbour conditions | Fewer natural harbours |
+| Feature         | Western Coastal Plain                 | Eastern Coastal Plain                               |
+| --------------- | ------------------------------------- | --------------------------------------------------- |
+| Type            | Submerged coast                       | Emergent coast                                      |
+| Width           | Narrower                              | Broader                                             |
+| Deltas          | Generally absent                      | Well-developed deltas                               |
+| Rivers          | Short, swift                          | Longer east-flowing rivers                          |
+| Ports           | More natural harbour conditions       | Fewer natural harbours                              |
 | Special feature | Kayals or backwaters on Malabar coast | Large deltas of Mahanadi, Godavari, Krishna, Kaveri |
 
 ---
@@ -1434,12 +1434,12 @@ Barren Island is the only active volcano in India and is part of the Andaman and
 
 Important peaks include:
 
-| Peak | Location | Height |
-| --- | --- | ---: |
-| Saddle Peak | North Andaman | 738 m |
-| Mount Diavolo | Middle Andaman | 515 m |
-| Mount Koyob | South Andaman | 460 m |
-| Mount Thuiller | Great Nicobar | 642 m |
+| Peak           | Location       | Height |
+| -------------- | -------------- | -----: |
+| Saddle Peak    | North Andaman  |  738 m |
+| Mount Diavolo  | Middle Andaman |  515 m |
+| Mount Koyob    | South Andaman  |  460 m |
+| Mount Thuiller | Great Nicobar  |  642 m |
 
 ## 26.5 Climate And Vegetation
 
@@ -1506,15 +1506,15 @@ These islands have storm beaches made of unconsolidated materials such as:
 
 # 28. Bay Of Bengal Islands Versus Arabian Sea Islands
 
-| Feature | Bay Of Bengal Islands | Arabian Sea Islands |
-| --- | --- | --- |
-| Main group | Andaman and Nicobar | Lakshadweep and Minicoy |
-| Approximate number | About 572 islands and islets | About 36 islands |
-| Origin | Submarine mountains, some volcanic | Coral deposits |
-| Important channel | Ten Degree Channel separates Andaman and Nicobar | Channels separate smaller island groups |
-| Vegetation | Equatorial type vegetation | Coral island ecosystem |
-| Volcano | Barren Island | No active volcano |
-| Location | Bay of Bengal | Arabian Sea, off Kerala coast |
+| Feature            | Bay Of Bengal Islands                            | Arabian Sea Islands                     |
+| ------------------ | ------------------------------------------------ | --------------------------------------- |
+| Main group         | Andaman and Nicobar                              | Lakshadweep and Minicoy                 |
+| Approximate number | About 572 islands and islets                     | About 36 islands                        |
+| Origin             | Submarine mountains, some volcanic               | Coral deposits                          |
+| Important channel  | Ten Degree Channel separates Andaman and Nicobar | Channels separate smaller island groups |
+| Vegetation         | Equatorial type vegetation                       | Coral island ecosystem                  |
+| Volcano            | Barren Island                                    | No active volcano                       |
+| Location           | Bay of Bengal                                    | Arabian Sea, off Kerala coast           |
 
 ---
 
@@ -1522,12 +1522,12 @@ These islands have storm beaches made of unconsolidated materials such as:
 
 ## 29.1 Multiple Choice Facts
 
-| Question | Answer |
-| --- | --- |
-| Where are Karewa formations found? | Kashmir Himalayas |
-| In which state is Loktak Lake situated? | Manipur |
+| Question                                        | Answer             |
+| ----------------------------------------------- | ------------------ |
+| Where are Karewa formations found?              | Kashmir Himalayas  |
+| In which state is Loktak Lake situated?         | Manipur            |
 | Which water body separates Andaman and Nicobar? | Ten Degree Channel |
-| Dodabetta peak is on which hills? | Nilgiri Hills |
+| Dodabetta peak is on which hills?               | Nilgiri Hills      |
 
 ## 29.2 Cold Desert
 
@@ -1653,19 +1653,19 @@ The Andaman and Nicobar group is larger in number and has equatorial vegetation,
 
 # 33. Common Mistakes And Corrections
 
-| Mistake | Correct Understanding |
-| --- | --- |
+| Mistake                                         | Correct Understanding                                                                                          |
+| ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | Structure and physiography mean the same thing. | Structure is geological arrangement; physiography is visible relief produced by structure, process, and stage. |
-| Peninsular India is young like the Himalayas. | Peninsular Block is old, stable, and rigid. |
-| Himalayas are old residual mountains. | Himalayas are young tectonic fold mountains. |
-| Bhabar and Tarai are the same. | Bhabar is pebbly and porous; Tarai is marshy where streams re-emerge. |
-| Bhangar is new alluvium. | Bhangar is older alluvium; Khadar is newer alluvium. |
-| Western coast has large deltas. | Western coast generally lacks large deltas. |
-| Eastern coast is narrower than western coast. | Eastern coast is broader; western coast is narrower. |
-| Lakshadweep is volcanic. | Lakshadweep is mainly coral in origin. |
-| Barren Island is in Lakshadweep. | Barren Island belongs to the Andaman and Nicobar island region. |
-| Loktak Lake is in Kerala. | Loktak Lake is in Manipur. |
-| Karewas are in Arunachal Himalayas. | Karewas are in Kashmir Himalayas. |
+| Peninsular India is young like the Himalayas.   | Peninsular Block is old, stable, and rigid.                                                                    |
+| Himalayas are old residual mountains.           | Himalayas are young tectonic fold mountains.                                                                   |
+| Bhabar and Tarai are the same.                  | Bhabar is pebbly and porous; Tarai is marshy where streams re-emerge.                                          |
+| Bhangar is new alluvium.                        | Bhangar is older alluvium; Khadar is newer alluvium.                                                           |
+| Western coast has large deltas.                 | Western coast generally lacks large deltas.                                                                    |
+| Eastern coast is narrower than western coast.   | Eastern coast is broader; western coast is narrower.                                                           |
+| Lakshadweep is volcanic.                        | Lakshadweep is mainly coral in origin.                                                                         |
+| Barren Island is in Lakshadweep.                | Barren Island belongs to the Andaman and Nicobar island region.                                                |
+| Loktak Lake is in Kerala.                       | Loktak Lake is in Manipur.                                                                                     |
+| Karewas are in Arunachal Himalayas.             | Karewas are in Kashmir Himalayas.                                                                              |
 
 ---
 
@@ -1832,4 +1832,3 @@ Before moving on, make sure you can:
 - compare western and eastern coastal plains,
 - compare Andaman-Nicobar and Lakshadweep,
 - answer the MCQ facts correctly.
-

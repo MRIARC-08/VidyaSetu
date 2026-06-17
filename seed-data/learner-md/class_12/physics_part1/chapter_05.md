@@ -1,4 +1,5 @@
 # Chapter 5: Magnetism and Matter
+
 ### NCERT Class 12 - Physics Part 1
 
 ## Chapter at a Glance
@@ -24,32 +25,32 @@ By the end of this chapter, learners should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Magnetic dipole | Magnetic system with north and south poles together. |
-| Magnetic field lines | Lines showing direction of magnetic field. |
-| Magnetic moment | Strength and orientation of a magnetic dipole. |
-| Magnetisation | Magnetic moment per unit volume. |
-| Magnetic intensity | Field quantity `H` related to free currents. |
-| Susceptibility | Measure of how much a material gets magnetised. |
-| Permeability | Ability of a material to allow magnetic field. |
-| Diamagnetic | Weakly repelled by magnetic field. |
-| Paramagnetic | Weakly attracted by magnetic field. |
-| Ferromagnetic | Strongly attracted and can retain magnetisation. |
+| Term                 | Meaning                                              |
+| -------------------- | ---------------------------------------------------- |
+| Magnetic dipole      | Magnetic system with north and south poles together. |
+| Magnetic field lines | Lines showing direction of magnetic field.           |
+| Magnetic moment      | Strength and orientation of a magnetic dipole.       |
+| Magnetisation        | Magnetic moment per unit volume.                     |
+| Magnetic intensity   | Field quantity `H` related to free currents.         |
+| Susceptibility       | Measure of how much a material gets magnetised.      |
+| Permeability         | Ability of a material to allow magnetic field.       |
+| Diamagnetic          | Weakly repelled by magnetic field.                   |
+| Paramagnetic         | Weakly attracted by magnetic field.                  |
+| Ferromagnetic        | Strongly attracted and can retain magnetisation.     |
 
 ## Quick Formula Map
 
-| Concept | Formula |
-|---|---|
-| Torque on magnetic dipole | `tau = mB sin theta` |
-| Potential energy of dipole | `U = -mB cos theta` |
-| Axial field of short bar magnet | `B = (mu0/(4 pi))(2m/r^3)` |
-| Equatorial field of short bar magnet | `B = (mu0/(4 pi))(m/r^3)` |
-| Gauss law for magnetism | `net magnetic flux through closed surface = 0` |
-| Magnetisation | `M = magnetic moment/volume` |
-| Relation among fields | `B = mu0(H + M)` |
-| Susceptibility | `M = chi H` |
-| Relative permeability | `mu_r = 1 + chi` |
+| Concept                              | Formula                                        |
+| ------------------------------------ | ---------------------------------------------- |
+| Torque on magnetic dipole            | `tau = mB sin theta`                           |
+| Potential energy of dipole           | `U = -mB cos theta`                            |
+| Axial field of short bar magnet      | `B = (mu0/(4 pi))(2m/r^3)`                     |
+| Equatorial field of short bar magnet | `B = (mu0/(4 pi))(m/r^3)`                      |
+| Gauss law for magnetism              | `net magnetic flux through closed surface = 0` |
+| Magnetisation                        | `M = magnetic moment/volume`                   |
+| Relation among fields                | `B = mu0(H + M)`                               |
+| Susceptibility                       | `M = chi H`                                    |
+| Relative permeability                | `mu_r = 1 + chi`                               |
 
 # Unit 5A: Bar Magnet
 
@@ -347,14 +348,14 @@ Write in this order:
 
 # Unit 5P: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Thinking isolated magnetic poles exist | A magnet always has both poles. |
-| Drawing magnetic field lines starting and ending separately | Magnetic field lines form closed loops. |
-| Confusing electric and magnetic Gauss laws | Magnetic flux through closed surface is zero. |
-| Taking magnetic moment direction from north to south | For bar magnet, moment is from south to north. |
-| Confusing diamagnetic and paramagnetic | Diamagnetic has negative susceptibility; paramagnetic positive. |
-| Saying ferromagnets and paramagnets are equally strong | Ferromagnets are much stronger. |
+| Mistake                                                     | Correction                                                      |
+| ----------------------------------------------------------- | --------------------------------------------------------------- |
+| Thinking isolated magnetic poles exist                      | A magnet always has both poles.                                 |
+| Drawing magnetic field lines starting and ending separately | Magnetic field lines form closed loops.                         |
+| Confusing electric and magnetic Gauss laws                  | Magnetic flux through closed surface is zero.                   |
+| Taking magnetic moment direction from north to south        | For bar magnet, moment is from south to north.                  |
+| Confusing diamagnetic and paramagnetic                      | Diamagnetic has negative susceptibility; paramagnetic positive. |
+| Saying ferromagnets and paramagnets are equally strong      | Ferromagnets are much stronger.                                 |
 
 ## Practice Set
 

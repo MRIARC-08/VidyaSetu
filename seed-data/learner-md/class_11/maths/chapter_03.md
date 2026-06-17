@@ -38,35 +38,35 @@ After studying this chapter, you should be able to:
 
 ## Chapter Snapshot
 
-| Topic | Main Idea |
-|---|---|
-| Angle | Measure of rotation of a ray about its initial point |
-| Positive angle | Anticlockwise rotation |
-| Negative angle | Clockwise rotation |
-| Degree | One full revolution is 360 degrees |
-| Radian | Angle subtended by arc length equal to radius |
-| Arc length | `l = r theta`, where theta is in radians |
-| Unit circle | Circle of radius 1 centered at origin |
-| Sine | y-coordinate on unit circle |
-| Cosine | x-coordinate on unit circle |
-| Tangent | `sin x / cos x` |
-| Periodicity | Sine and cosine repeat after `2pi`; tangent and cotangent repeat after `pi` |
-| Identities | Equations true for all allowed values of variables |
+| Topic          | Main Idea                                                                   |
+| -------------- | --------------------------------------------------------------------------- |
+| Angle          | Measure of rotation of a ray about its initial point                        |
+| Positive angle | Anticlockwise rotation                                                      |
+| Negative angle | Clockwise rotation                                                          |
+| Degree         | One full revolution is 360 degrees                                          |
+| Radian         | Angle subtended by arc length equal to radius                               |
+| Arc length     | `l = r theta`, where theta is in radians                                    |
+| Unit circle    | Circle of radius 1 centered at origin                                       |
+| Sine           | y-coordinate on unit circle                                                 |
+| Cosine         | x-coordinate on unit circle                                                 |
+| Tangent        | `sin x / cos x`                                                             |
+| Periodicity    | Sine and cosine repeat after `2pi`; tangent and cotangent repeat after `pi` |
+| Identities     | Equations true for all allowed values of variables                          |
 
 ## Essential Notation
 
-| Notation | Meaning |
-|---|---|
-| `deg` | Degree measure in text |
-| `rad` | Radian measure in text |
-| `theta` | A general angle |
-| `sin x` | Sine of x |
-| `cos x` | Cosine of x |
-| `tan x` | Tangent of x |
-| `cot x` | Cotangent of x |
-| `sec x` | Secant of x |
-| `cosec x` | Cosecant of x |
-| `Z` | Set of integers |
+| Notation  | Meaning                |
+| --------- | ---------------------- |
+| `deg`     | Degree measure in text |
+| `rad`     | Radian measure in text |
+| `theta`   | A general angle        |
+| `sin x`   | Sine of x              |
+| `cos x`   | Cosine of x            |
+| `tan x`   | Tangent of x           |
+| `cot x`   | Cotangent of x         |
+| `sec x`   | Secant of x            |
+| `cosec x` | Cosecant of x          |
+| `Z`       | Set of integers        |
 
 In formulas:
 
@@ -224,15 +224,15 @@ $$
 ## 7. Common Angle Conversion Table
 
 | Degree Measure | Radian Measure |
-|---|---|
-| `0 deg` | `0` |
-| `30 deg` | `pi/6` |
-| `45 deg` | `pi/4` |
-| `60 deg` | `pi/3` |
-| `90 deg` | `pi/2` |
-| `180 deg` | `pi` |
-| `270 deg` | `3pi/2` |
-| `360 deg` | `2pi` |
+| -------------- | -------------- |
+| `0 deg`        | `0`            |
+| `30 deg`       | `pi/6`         |
+| `45 deg`       | `pi/4`         |
+| `60 deg`       | `pi/3`         |
+| `90 deg`       | `pi/2`         |
+| `180 deg`      | `pi`           |
+| `270 deg`      | `3pi/2`        |
+| `360 deg`      | `2pi`          |
 
 ## 8. Worked Conversion: Degrees To Radians
 
@@ -400,10 +400,10 @@ are called quadrantal angles.
 
 Important values:
 
-| x | `0` | `pi/2` | `pi` | `3pi/2` | `2pi` |
-|---|---|---|---|---|---|
-| `sin x` | 0 | 1 | 0 | -1 | 0 |
-| `cos x` | 1 | 0 | -1 | 0 | 1 |
+| x       | `0` | `pi/2` | `pi` | `3pi/2` | `2pi` |
+| ------- | --- | ------ | ---- | ------- | ----- |
+| `sin x` | 0   | 1      | 0    | -1      | 0     |
+| `cos x` | 1   | 0      | -1   | 0       | 1     |
 
 ## 13. Other Trigonometric Functions
 
@@ -499,11 +499,11 @@ $$
 
 ## 16. Standard Values
 
-| x | `0` | `pi/6` | `pi/4` | `pi/3` | `pi/2` |
-|---|---|---|---|---|---|
-| `sin x` | 0 | `1/2` | `1/sqrt(2)` | `sqrt(3)/2` | 1 |
-| `cos x` | 1 | `sqrt(3)/2` | `1/sqrt(2)` | `1/2` | 0 |
-| `tan x` | 0 | `1/sqrt(3)` | 1 | `sqrt(3)` | not defined |
+| x       | `0` | `pi/6`      | `pi/4`      | `pi/3`      | `pi/2`      |
+| ------- | --- | ----------- | ----------- | ----------- | ----------- |
+| `sin x` | 0   | `1/2`       | `1/sqrt(2)` | `sqrt(3)/2` | 1           |
+| `cos x` | 1   | `sqrt(3)/2` | `1/sqrt(2)` | `1/2`       | 0           |
+| `tan x` | 0   | `1/sqrt(3)` | 1           | `sqrt(3)`   | not defined |
 
 Use reciprocals for cosecant, secant, and cotangent.
 
@@ -583,12 +583,12 @@ $$
 
 ## 20. Signs In Quadrants
 
-| Quadrant | `sin x` | `cos x` | `tan x` |
-|---|---|---|---|
-| I | positive | positive | positive |
-| II | positive | negative | negative |
-| III | negative | negative | positive |
-| IV | negative | positive | negative |
+| Quadrant | `sin x`  | `cos x`  | `tan x`  |
+| -------- | -------- | -------- | -------- |
+| I        | positive | positive | positive |
+| II       | positive | negative | negative |
+| III      | negative | negative | positive |
+| IV       | negative | positive | negative |
 
 Memory rule:
 
@@ -605,14 +605,14 @@ Reciprocal functions have the same signs as their base functions:
 
 ## 21. Domains And Ranges
 
-| Function | Domain | Range |
-|---|---|---|
-| `sin x` | `R` | `[-1, 1]` |
-| `cos x` | `R` | `[-1, 1]` |
-| `tan x` | `R - {(2n+1)pi/2 : n in Z}` | `R` |
-| `cot x` | `R - {npi : n in Z}` | `R` |
-| `sec x` | `R - {(2n+1)pi/2 : n in Z}` | `(-infinity, -1] union [1, infinity)` |
-| `cosec x` | `R - {npi : n in Z}` | `(-infinity, -1] union [1, infinity)` |
+| Function  | Domain                      | Range                                 |
+| --------- | --------------------------- | ------------------------------------- |
+| `sin x`   | `R`                         | `[-1, 1]`                             |
+| `cos x`   | `R`                         | `[-1, 1]`                             |
+| `tan x`   | `R - {(2n+1)pi/2 : n in Z}` | `R`                                   |
+| `cot x`   | `R - {npi : n in Z}`        | `R`                                   |
+| `sec x`   | `R - {(2n+1)pi/2 : n in Z}` | `(-infinity, -1] union [1, infinity)` |
+| `cosec x` | `R - {npi : n in Z}`        | `(-infinity, -1] union [1, infinity)` |
 
 ## 22. Finding Other Trigonometric Functions
 
@@ -947,12 +947,12 @@ $$
 \text{radians} = \frac{\pi}{180} \times \text{degrees}
 $$
 
-| Part | Given | Radian Measure |
-|---|---|---|
-| i | `25 deg` | `5pi/36` |
-| ii | `-47 deg 30'` | `-19pi/72` |
-| iii | `240 deg` | `4pi/3` |
-| iv | `520 deg` | `26pi/9` |
+| Part | Given         | Radian Measure |
+| ---- | ------------- | -------------- |
+| i    | `25 deg`      | `5pi/36`       |
+| ii   | `-47 deg 30'` | `-19pi/72`     |
+| iii  | `240 deg`     | `4pi/3`        |
+| iv   | `520 deg`     | `26pi/9`       |
 
 ### 2. Radians To Degree Measures
 
@@ -968,12 +968,12 @@ $$
 \pi = \frac{22}{7}
 $$
 
-| Part | Given | Degree Measure |
-|---|---|---|
-| i | `11/16` | `39 deg 22' 30''` |
-| ii | `-4` | approximately `-229 deg 5' 27''` |
-| iii | `5pi/3` | `300 deg` |
-| iv | `7pi/6` | `210 deg` |
+| Part | Given   | Degree Measure                   |
+| ---- | ------- | -------------------------------- |
+| i    | `11/16` | `39 deg 22' 30''`                |
+| ii   | `-4`    | approximately `-229 deg 5' 27''` |
+| iii  | `5pi/3` | `300 deg`                        |
+| iv   | `7pi/6` | `210 deg`                        |
 
 ### 3. Wheel Revolutions
 
@@ -1130,10 +1130,10 @@ r = 75 \text{ cm}
 $$
 
 | Arc Length | Angle In Radians |
-|---|---|
-| `10 cm` | `2/15` |
-| `15 cm` | `1/5` |
-| `21 cm` | `7/25` |
+| ---------- | ---------------- |
+| `10 cm`    | `2/15`           |
+| `15 cm`    | `1/5`            |
+| `21 cm`    | `7/25`           |
 
 ## 34. Exercise 3.2 Answer Key
 
@@ -1295,13 +1295,13 @@ $$
 
 ### 6 To 10. Reduce Using Periodicity
 
-| Part | Expression | Value |
-|---|---|---|
-| 6 | `sin 765 deg` | `sqrt(2)/2` |
-| 7 | `cosec(-1410 deg)` | `-2` |
-| 8 | `tan(19pi/3)` | `sqrt(3)` |
-| 9 | `sin(-11pi/3)` | `1/2` |
-| 10 | `cot(-15pi/4)` | `1` |
+| Part | Expression         | Value       |
+| ---- | ------------------ | ----------- |
+| 6    | `sin 765 deg`      | `sqrt(2)/2` |
+| 7    | `cosec(-1410 deg)` | `-2`        |
+| 8    | `tan(19pi/3)`      | `sqrt(3)`   |
+| 9    | `sin(-11pi/3)`     | `1/2`       |
+| 10   | `cot(-15pi/4)`     | `1`         |
 
 Reasoning:
 
@@ -1767,16 +1767,16 @@ $$
 
 ## 39. Common Mistakes And Corrections
 
-| Mistake | Correction |
-|---|---|
-| Using `l = r theta` with theta in degrees | Convert theta to radians first |
-| Forgetting signs in quadrants | Use the quadrant sign table |
-| Writing `sin(x+y)=sin x + sin y` | False; use the sum identity |
-| Writing `cos(x-y)=cos x - cos y` | False; use the difference identity |
-| Ignoring undefined points | Tangent and secant are undefined where cosine is zero |
-| Treating radians and degrees as the same | They are different measures of the same angle |
-| Forgetting periodicity | Reduce large angles before evaluating |
-| Using wrong half-angle sign | Decide quadrant of `x/2` first |
+| Mistake                                   | Correction                                            |
+| ----------------------------------------- | ----------------------------------------------------- |
+| Using `l = r theta` with theta in degrees | Convert theta to radians first                        |
+| Forgetting signs in quadrants             | Use the quadrant sign table                           |
+| Writing `sin(x+y)=sin x + sin y`          | False; use the sum identity                           |
+| Writing `cos(x-y)=cos x - cos y`          | False; use the difference identity                    |
+| Ignoring undefined points                 | Tangent and secant are undefined where cosine is zero |
+| Treating radians and degrees as the same  | They are different measures of the same angle         |
+| Forgetting periodicity                    | Reduce large angles before evaluating                 |
+| Using wrong half-angle sign               | Decide quadrant of `x/2` first                        |
 
 ## 40. Quick Self-Test
 

@@ -1,15 +1,16 @@
 # Chapter 5: Molecular Basis of Inheritance
+
 ### NCERT Class 12 - Biology
 
 ## Chapter at a Glance
 
-| Item | Details |
-|---|---|
-| Main idea | DNA stores genetic information, replicates accurately, expresses information through RNA and proteins, and can be analysed for identity. |
-| Main molecules | DNA, RNA, proteins, enzymes. |
-| Core processes | Replication, transcription, translation, regulation, mutation, DNA fingerprinting. |
-| Main principle | Genetic information flows from DNA to RNA to protein, with important exceptions in some viruses. |
-| Most important skill | Connect molecular steps with enzymes, templates, products, and direction. |
+| Item                 | Details                                                                                                                                  |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Main idea            | DNA stores genetic information, replicates accurately, expresses information through RNA and proteins, and can be analysed for identity. |
+| Main molecules       | DNA, RNA, proteins, enzymes.                                                                                                             |
+| Core processes       | Replication, transcription, translation, regulation, mutation, DNA fingerprinting.                                                       |
+| Main principle       | Genetic information flows from DNA to RNA to protein, with important exceptions in some viruses.                                         |
+| Most important skill | Connect molecular steps with enzymes, templates, products, and direction.                                                                |
 
 ## Learning Outcomes
 
@@ -29,33 +30,33 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| DNA | Deoxyribonucleic acid, genetic material in most organisms. |
-| RNA | Ribonucleic acid, involved in gene expression and genetic material in some viruses. |
-| Nucleotide | Unit made of sugar, phosphate, and nitrogenous base. |
-| Double helix | Two-stranded helical structure of DNA. |
-| Replication | Copying of DNA. |
-| Transcription | Synthesis of RNA from DNA template. |
-| Translation | Synthesis of protein using mRNA code. |
-| Codon | Three-base sequence on mRNA specifying amino acid or stop signal. |
-| Anticodon | Three-base sequence on tRNA complementary to codon. |
-| Template strand | DNA strand used to make RNA. |
-| Coding strand | DNA strand with sequence similar to RNA except T is replaced by U. |
-| Operon | Functional unit of gene regulation in bacteria. |
-| VNTR | Variable number tandem repeat used in DNA fingerprinting. |
+| Term            | Meaning                                                                             |
+| --------------- | ----------------------------------------------------------------------------------- |
+| DNA             | Deoxyribonucleic acid, genetic material in most organisms.                          |
+| RNA             | Ribonucleic acid, involved in gene expression and genetic material in some viruses. |
+| Nucleotide      | Unit made of sugar, phosphate, and nitrogenous base.                                |
+| Double helix    | Two-stranded helical structure of DNA.                                              |
+| Replication     | Copying of DNA.                                                                     |
+| Transcription   | Synthesis of RNA from DNA template.                                                 |
+| Translation     | Synthesis of protein using mRNA code.                                               |
+| Codon           | Three-base sequence on mRNA specifying amino acid or stop signal.                   |
+| Anticodon       | Three-base sequence on tRNA complementary to codon.                                 |
+| Template strand | DNA strand used to make RNA.                                                        |
+| Coding strand   | DNA strand with sequence similar to RNA except T is replaced by U.                  |
+| Operon          | Functional unit of gene regulation in bacteria.                                     |
+| VNTR            | Variable number tandem repeat used in DNA fingerprinting.                           |
 
 ## Quick Learning Map
 
-| Area | Core Learning |
-|---|---|
-| DNA structure | Complementary base pairing enables copying. |
+| Area             | Core Learning                                             |
+| ---------------- | --------------------------------------------------------- |
+| DNA structure    | Complementary base pairing enables copying.               |
 | Genetic material | DNA is stable, replicates, mutates, and expresses traits. |
-| Replication | Semi-conservative copying produces two DNA molecules. |
-| Transcription | DNA information is copied into RNA. |
-| Translation | mRNA codons guide amino acid sequence. |
-| Regulation | Genes can be switched on or off. |
-| Fingerprinting | DNA variation helps identify individuals. |
+| Replication      | Semi-conservative copying produces two DNA molecules.     |
+| Transcription    | DNA information is copied into RNA.                       |
+| Translation      | mRNA codons guide amino acid sequence.                    |
+| Regulation       | Genes can be switched on or off.                          |
+| Fingerprinting   | DNA variation helps identify individuals.                 |
 
 # Unit 5A: Structure of DNA
 
@@ -67,8 +68,8 @@ DNA is a polymer of nucleotides. Each nucleotide contains:
 
 ## Bases in DNA
 
-| Purines | Pyrimidines |
-|---|---|
+| Purines          | Pyrimidines       |
+| ---------------- | ----------------- |
 | Adenine, guanine | Cytosine, thymine |
 
 Adenine pairs with thymine using two hydrogen bonds. Guanine pairs with cytosine using three hydrogen bonds.
@@ -91,11 +92,11 @@ RNA has adenine, guanine, cytosine, and uracil. Uracil replaces thymine.
 
 ## Types of RNA
 
-| RNA Type | Function |
-|---|---|
-| mRNA | Carries genetic message from DNA to ribosome. |
-| tRNA | Brings amino acids during translation. |
-| rRNA | Structural and catalytic component of ribosome. |
+| RNA Type | Function                                        |
+| -------- | ----------------------------------------------- |
+| mRNA     | Carries genetic message from DNA to ribosome.   |
+| tRNA     | Brings amino acids during translation.          |
+| rRNA     | Structural and catalytic component of ribosome. |
 
 # Unit 5C: DNA as Genetic Material
 
@@ -129,13 +130,13 @@ DNA replication is semi-conservative. Each new DNA molecule contains one parenta
 
 ## Key Enzymes and Proteins
 
-| Component | Function |
-|---|---|
-| Helicase | Unwinds DNA helix. |
+| Component      | Function                            |
+| -------------- | ----------------------------------- |
+| Helicase       | Unwinds DNA helix.                  |
 | DNA polymerase | Adds nucleotides to growing strand. |
-| Primase | Makes RNA primer. |
-| Ligase | Joins DNA fragments. |
-| Topoisomerase | Reduces supercoiling. |
+| Primase        | Makes RNA primer.                   |
+| Ligase         | Joins DNA fragments.                |
+| Topoisomerase  | Reduces supercoiling.               |
 
 ## Direction
 
@@ -167,10 +168,10 @@ Transcription is synthesis of RNA from DNA template.
 
 ## DNA Strands
 
-| Strand | Role |
-|---|---|
-| Template strand | Read by RNA polymerase to make RNA. |
-| Coding strand | Has sequence similar to RNA, except T instead of U. |
+| Strand          | Role                                                |
+| --------------- | --------------------------------------------------- |
+| Template strand | Read by RNA polymerase to make RNA.                 |
+| Coding strand   | Has sequence similar to RNA, except T instead of U. |
 
 ## Transcription Unit
 
@@ -186,11 +187,11 @@ In eukaryotes, primary RNA transcript is processed before translation.
 
 ## Processing Steps
 
-| Step | Meaning |
-|---|---|
-| Capping | Modified nucleotide added at 5' end. |
-| Tailing | Adenine-rich tail added at 3' end. |
-| Splicing | Introns removed and exons joined. |
+| Step     | Meaning                              |
+| -------- | ------------------------------------ |
+| Capping  | Modified nucleotide added at 5' end. |
+| Tailing  | Adenine-rich tail added at 3' end.   |
+| Splicing | Introns removed and exons joined.    |
 
 Introns are non-coding sequences removed during processing. Exons are expressed sequences retained in mature mRNA.
 
@@ -319,15 +320,15 @@ Individuals differ in repeated DNA sequences such as VNTRs. The number and arran
 
 # Unit 5N: Common Mistakes and Corrections
 
-| Mistake | Correct Understanding |
-|---|---|
-| DNA strands are parallel | They are antiparallel. |
-| RNA has thymine | RNA has uracil instead of thymine. |
+| Mistake                                       | Correct Understanding                           |
+| --------------------------------------------- | ----------------------------------------------- |
+| DNA strands are parallel                      | They are antiparallel.                          |
+| RNA has thymine                               | RNA has uracil instead of thymine.              |
 | Both DNA strands are transcribed for one gene | Usually one strand acts as template for a gene. |
-| Replication is conservative | It is semi-conservative. |
-| All mutations are visible | Many are silent or not expressed. |
-| Introns code for protein | Introns are removed during RNA processing. |
-| Codon is on tRNA | Codon is on mRNA; anticodon is on tRNA. |
+| Replication is conservative                   | It is semi-conservative.                        |
+| All mutations are visible                     | Many are silent or not expressed.               |
+| Introns code for protein                      | Introns are removed during RNA processing.      |
+| Codon is on tRNA                              | Codon is on mRNA; anticodon is on tRNA.         |
 
 ## Practice Set
 

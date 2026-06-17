@@ -1,20 +1,21 @@
 # Chapter 3: Democracy and Diversity
+
 ### NCERT Class 10 - Social Civics
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-| --- | --- |
-| Class | 10 |
-| Subject | Social Civics |
-| Chapter | 3 - Democracy and Diversity |
-| Central Question | How do social differences become social divisions, and how does democracy handle diversity? |
-| Main Case Studies | Mexico Olympics 1968, Civil Rights Movement in the USA, Northern Ireland, Netherlands, Yugoslavia, Belgium, Sri Lanka |
-| Main Themes | Social differences, social divisions, overlapping differences, cross-cutting differences, multiple identities, politics of social divisions, accommodation |
-| Main Skills | Distinguishing difference and division, analysing case studies, identifying outcomes of social diversity in politics |
-| Exam Importance | High: social difference vs social division, overlapping and cross-cutting differences, three determinants of outcomes, democracy and social divisions |
+| Detail            | Learner-Friendly Information                                                                                                                               |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Class             | 10                                                                                                                                                         |
+| Subject           | Social Civics                                                                                                                                              |
+| Chapter           | 3 - Democracy and Diversity                                                                                                                                |
+| Central Question  | How do social differences become social divisions, and how does democracy handle diversity?                                                                |
+| Main Case Studies | Mexico Olympics 1968, Civil Rights Movement in the USA, Northern Ireland, Netherlands, Yugoslavia, Belgium, Sri Lanka                                      |
+| Main Themes       | Social differences, social divisions, overlapping differences, cross-cutting differences, multiple identities, politics of social divisions, accommodation |
+| Main Skills       | Distinguishing difference and division, analysing case studies, identifying outcomes of social diversity in politics                                       |
+| Exam Importance   | High: social difference vs social division, overlapping and cross-cutting differences, three determinants of outcomes, democracy and social divisions      |
 
 ---
 
@@ -40,15 +41,15 @@ The key idea is:
 
 After studying this chapter, you should be able to:
 
-| Skill | You Should Be Able To |
-| --- | --- |
-| Define | Explain social difference, social division, overlapping difference, cross-cutting difference, homogeneous society, migrant, civil rights movement, Black Power. |
-| Describe | Explain the 1968 Mexico Olympics protest by Tommie Smith and John Carlos. |
-| Analyse | Explain when social differences become social divisions. |
-| Compare | Distinguish overlapping and cross-cutting differences using examples. |
-| Evaluate | Explain why politics of social divisions can have different outcomes. |
-| Identify | State the three factors that determine outcomes of social divisions in politics. |
-| Write | Prepare clear NCERT-style answers with examples. |
+| Skill    | You Should Be Able To                                                                                                                                           |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Define   | Explain social difference, social division, overlapping difference, cross-cutting difference, homogeneous society, migrant, civil rights movement, Black Power. |
+| Describe | Explain the 1968 Mexico Olympics protest by Tommie Smith and John Carlos.                                                                                       |
+| Analyse  | Explain when social differences become social divisions.                                                                                                        |
+| Compare  | Distinguish overlapping and cross-cutting differences using examples.                                                                                           |
+| Evaluate | Explain why politics of social divisions can have different outcomes.                                                                                           |
+| Identify | State the three factors that determine outcomes of social divisions in politics.                                                                                |
+| Write    | Prepare clear NCERT-style answers with examples.                                                                                                                |
 
 ---
 
@@ -86,22 +87,22 @@ Democracy allows peaceful, constitutional expression of demands and gives groups
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Social Difference | Difference between people or groups based on birth, choice, culture, class, gender, religion, caste, language, region, or other identities. |
-| Social Division | Situation where social differences become the basis of separation, inequality, conflict, or political mobilisation. |
-| Accident of Birth | Identity received by birth, such as family, caste, gender, race, or community. |
-| Choice-Based Difference | Difference based on individual choice, such as occupation, study, sport, political belief, or chosen religion. |
-| Overlapping Difference | Situation where one social difference overlaps with another and reinforces inequality or separation. |
-| Cross-Cutting Difference | Situation where social differences cut across one another, so groups share interests on some issues and differ on others. |
-| Homogeneous Society | Society with similar kinds of people, especially without significant ethnic differences. |
-| Migrant | Person who moves from one region or country to another, usually for work or economic opportunity. |
-| Civil Rights Movement | US movement from 1954 to 1968 against legal racial discrimination against African-Americans. |
-| African-American | Term used for descendants of Africans brought to America as slaves between the seventeenth and early nineteenth centuries. |
-| Black Power | More militant anti-racist movement in the US that emerged in 1966 and lasted till 1975. |
-| Ethno-Political Conflict | Political conflict linked with ethnic, religious, or cultural identity. |
-| Accommodation | Political adjustment that respects different groups and allows them to live together. |
-| Marginalised Group | Group pushed to the edge of social, economic, or political life. |
+| Term                     | Meaning                                                                                                                                     |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Social Difference        | Difference between people or groups based on birth, choice, culture, class, gender, religion, caste, language, region, or other identities. |
+| Social Division          | Situation where social differences become the basis of separation, inequality, conflict, or political mobilisation.                         |
+| Accident of Birth        | Identity received by birth, such as family, caste, gender, race, or community.                                                              |
+| Choice-Based Difference  | Difference based on individual choice, such as occupation, study, sport, political belief, or chosen religion.                              |
+| Overlapping Difference   | Situation where one social difference overlaps with another and reinforces inequality or separation.                                        |
+| Cross-Cutting Difference | Situation where social differences cut across one another, so groups share interests on some issues and differ on others.                   |
+| Homogeneous Society      | Society with similar kinds of people, especially without significant ethnic differences.                                                    |
+| Migrant                  | Person who moves from one region or country to another, usually for work or economic opportunity.                                           |
+| Civil Rights Movement    | US movement from 1954 to 1968 against legal racial discrimination against African-Americans.                                                |
+| African-American         | Term used for descendants of Africans brought to America as slaves between the seventeenth and early nineteenth centuries.                  |
+| Black Power              | More militant anti-racist movement in the US that emerged in 1966 and lasted till 1975.                                                     |
+| Ethno-Political Conflict | Political conflict linked with ethnic, religious, or cultural identity.                                                                     |
+| Accommodation            | Political adjustment that respects different groups and allows them to live together.                                                       |
+| Marginalised Group       | Group pushed to the edge of social, economic, or political life.                                                                            |
 
 ---
 
@@ -115,10 +116,10 @@ Two African-American athletes, Tommie Smith and John Carlos, used the medal cere
 
 ## What Happened?
 
-| Person | Role |
-| --- | --- |
-| Tommie Smith | US athlete; won gold medal in 200 metres race. |
-| John Carlos | US athlete; won bronze medal in 200 metres race. |
+| Person       | Role                                                                  |
+| ------------ | --------------------------------------------------------------------- |
+| Tommie Smith | US athlete; won gold medal in 200 metres race.                        |
+| John Carlos  | US athlete; won bronze medal in 200 metres race.                      |
 | Peter Norman | White Australian athlete; won silver medal and supported the protest. |
 
 During the medal ceremony:
@@ -130,13 +131,13 @@ During the medal ceremony:
 
 ## Meaning of the Symbols
 
-| Symbol | Meaning |
-| --- | --- |
-| Raised clenched fists | Black Power and resistance against racism |
-| Black gloves | Collective strength and protest |
-| Bowed heads | Silent protest during the national anthem |
-| Black socks with no shoes | Black poverty |
-| Human rights badge | Support for racial equality |
+| Symbol                    | Meaning                                   |
+| ------------------------- | ----------------------------------------- |
+| Raised clenched fists     | Black Power and resistance against racism |
+| Black gloves              | Collective strength and protest           |
+| Bowed heads               | Silent protest during the national anthem |
+| Black socks with no shoes | Black poverty                             |
+| Human rights badge        | Support for racial equality               |
 
 ## Civil Rights Movement
 
@@ -319,13 +320,13 @@ Both Northern Ireland and the Netherlands are predominantly Christian societies 
 
 But the nature of division is different.
 
-| Feature | Northern Ireland | Netherlands |
-| --- | --- | --- |
-| Main religious groups | Catholics and Protestants | Catholics and Protestants |
-| Class and religion | Overlap | Cut across each other |
-| Catholics | More likely to be poor and historically discriminated against | About equally likely to be rich or poor |
-| Protestants | More linked with political dominance | About equally likely to be rich or poor |
-| Result | Conflict between communities | Easier accommodation |
+| Feature               | Northern Ireland                                              | Netherlands                             |
+| --------------------- | ------------------------------------------------------------- | --------------------------------------- |
+| Main religious groups | Catholics and Protestants                                     | Catholics and Protestants               |
+| Class and religion    | Overlap                                                       | Cut across each other                   |
+| Catholics             | More likely to be poor and historically discriminated against | About equally likely to be rich or poor |
+| Protestants           | More linked with political dominance                          | About equally likely to be rich or poor |
+| Result                | Conflict between communities                                  | Easier accommodation                    |
 
 ## Lesson
 
@@ -402,10 +403,10 @@ Population:
 
 Political positions:
 
-| Group | Political Demand |
-| --- | --- |
+| Group                          | Political Demand                                               |
+| ------------------------------ | -------------------------------------------------------------- |
 | Nationalists, mostly Catholics | Wanted Northern Ireland to unite with the Republic of Ireland. |
-| Unionists, mostly Protestants | Wanted Northern Ireland to remain with the United Kingdom. |
+| Unionists, mostly Protestants  | Wanted Northern Ireland to remain with the United Kingdom.     |
 
 Hundreds of civilians, militants, and security forces were killed.
 
@@ -491,10 +492,10 @@ Examples:
 
 ## Summary Table
 
-| Determinant | Positive Outcome | Negative Outcome |
-| --- | --- | --- |
-| People's identities | Multiple and complementary | Singular and exclusive |
-| Leaders' demands | Constitutional and negotiable | Exclusive and at others' cost |
+| Determinant         | Positive Outcome                | Negative Outcome                   |
+| ------------------- | ------------------------------- | ---------------------------------- |
+| People's identities | Multiple and complementary      | Singular and exclusive             |
+| Leaders' demands    | Constitutional and negotiable   | Exclusive and at others' cost      |
 | Government response | Accommodation and power sharing | Suppression and forced integration |
 
 ---
@@ -549,30 +550,30 @@ Sometimes struggles may become violent if injustice becomes extreme, but history
 
 ## Social Difference vs Social Division
 
-| Basis | Social Difference | Social Division |
-| --- | --- | --- |
-| Meaning | Difference between people or groups | Difference that creates separation, inequality, or conflict |
-| Source | Birth or choice | Overlapping inequality and identity |
-| Effect | May unite or divide | Often produces tension |
-| Example | Different religions, regions, games, occupations | Race plus poverty and discrimination in the US |
+| Basis   | Social Difference                                | Social Division                                             |
+| ------- | ------------------------------------------------ | ----------------------------------------------------------- |
+| Meaning | Difference between people or groups              | Difference that creates separation, inequality, or conflict |
+| Source  | Birth or choice                                  | Overlapping inequality and identity                         |
+| Effect  | May unite or divide                              | Often produces tension                                      |
+| Example | Different religions, regions, games, occupations | Race plus poverty and discrimination in the US              |
 
 ## Overlapping vs Cross-Cutting Differences
 
-| Basis | Overlapping Differences | Cross-Cutting Differences |
-| --- | --- | --- |
-| Meaning | One difference reinforces another | Differences cut across one another |
-| Conflict risk | High | Lower |
-| Example | Blacks in US more likely to be poor and discriminated against | Catholics and Protestants in Netherlands are both rich and poor |
-| Result | Deep social division | Easier accommodation |
+| Basis         | Overlapping Differences                                       | Cross-Cutting Differences                                       |
+| ------------- | ------------------------------------------------------------- | --------------------------------------------------------------- |
+| Meaning       | One difference reinforces another                             | Differences cut across one another                              |
+| Conflict risk | High                                                          | Lower                                                           |
+| Example       | Blacks in US more likely to be poor and discriminated against | Catholics and Protestants in Netherlands are both rich and poor |
+| Result        | Deep social division                                          | Easier accommodation                                            |
 
 ## Northern Ireland vs Netherlands
 
-| Point | Northern Ireland | Netherlands |
-| --- | --- | --- |
-| Religious division | Catholic and Protestant | Catholic and Protestant |
-| Class link | Overlaps with religion | Cuts across religion |
-| Conflict | Serious and violent | Less intense |
-| Lesson | Overlap deepens division | Cross-cutting reduces conflict |
+| Point              | Northern Ireland         | Netherlands                    |
+| ------------------ | ------------------------ | ------------------------------ |
+| Religious division | Catholic and Protestant  | Catholic and Protestant        |
+| Class link         | Overlaps with religion   | Cuts across religion           |
+| Conflict           | Serious and violent      | Less intense                   |
+| Lesson             | Overlap deepens division | Cross-cutting reduces conflict |
 
 ---
 
@@ -638,15 +639,15 @@ Martin Luther King Jr. was talking about racial division and discrimination agai
 
 # Common Mistakes to Avoid
 
-| Mistake | Correct Understanding |
-| --- | --- |
-| "All social differences become social divisions." | Only some differences become divisions, especially when they overlap with inequality. |
-| "Social divisions exist only in India." | They exist in most countries, including Europe and the US. |
-| "Politics of social divisions is always bad." | It can be healthy when it gives voice to disadvantaged groups. |
-| "Democracy removes diversity." | Democracy accommodates diversity. |
-| "One person has only one identity." | People have multiple identities. |
-| "Overlapping and cross-cutting differences are the same." | Overlapping deepens conflict; cross-cutting reduces it. |
-| "Suppressing demands protects unity." | Suppression can increase conflict and cause disintegration. |
+| Mistake                                                   | Correct Understanding                                                                 |
+| --------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| "All social differences become social divisions."         | Only some differences become divisions, especially when they overlap with inequality. |
+| "Social divisions exist only in India."                   | They exist in most countries, including Europe and the US.                            |
+| "Politics of social divisions is always bad."             | It can be healthy when it gives voice to disadvantaged groups.                        |
+| "Democracy removes diversity."                            | Democracy accommodates diversity.                                                     |
+| "One person has only one identity."                       | People have multiple identities.                                                      |
+| "Overlapping and cross-cutting differences are the same." | Overlapping deepens conflict; cross-cutting reduces it.                               |
+| "Suppressing demands protects unity."                     | Suppression can increase conflict and cause disintegration.                           |
 
 ---
 
@@ -724,4 +725,3 @@ Before moving to the next chapter, make sure you can:
 - [ ] Explain the three determinants of outcomes.
 - [ ] Explain why democracy can accommodate diversity.
 - [ ] Solve all NCERT MCQs from the chapter.
-

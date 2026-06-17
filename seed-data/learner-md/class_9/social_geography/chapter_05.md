@@ -1,20 +1,21 @@
 # Chapter 5: Natural Vegetation and Wildlife
+
 ### NCERT Class 9 — Social Geography
 
 ---
 
 ## 📌 Chapter at a Glance
 
-| Detail | Info |
-|---|---|
-| Chapter | 5 — Natural Vegetation and Wildlife |
-| Class | Class 9 |
-| Subject | Social Geography |
-| Pilot Subject Family | Geography |
-| Source File | `data/class_9/social_geography/chapter_05.md` |
-| Textbook Pages | 1 – 9 |
-| Raw Exercise Count | 11 |
-| Formatting Mode | Human-guided pilot for subject-specific automation |
+| Detail               | Info                                               |
+| -------------------- | -------------------------------------------------- |
+| Chapter              | 5 — Natural Vegetation and Wildlife                |
+| Class                | Class 9                                            |
+| Subject              | Social Geography                                   |
+| Pilot Subject Family | Geography                                          |
+| Source File          | `data/class_9/social_geography/chapter_05.md`      |
+| Textbook Pages       | 1 – 9                                              |
+| Raw Exercise Count   | 11                                                 |
+| Formatting Mode      | Human-guided pilot for subject-specific automation |
 
 ---
 
@@ -23,52 +24,52 @@
 > [!NOTE]
 > Study this chapter through this route: **place -> distribution -> process -> human-environment relation -> map/data interpretation**.
 
-| Step | Learner Action | Why It Matters |
-|---|---|---|
-| 1 | Mark every place, region, river, resource, or climatic zone on a map where possible. | Builds reliable recall and answer quality. |
-| 2 | Convert classifications into tables. | Builds reliable recall and answer quality. |
-| 3 | Distinguish natural processes from human causes and impacts. | Builds reliable recall and answer quality. |
-| 4 | Use data tables to compare regions rather than memorising isolated values. | Builds reliable recall and answer quality. |
+| Step | Learner Action                                                                       | Why It Matters                             |
+| ---- | ------------------------------------------------------------------------------------ | ------------------------------------------ |
+| 1    | Mark every place, region, river, resource, or climatic zone on a map where possible. | Builds reliable recall and answer quality. |
+| 2    | Convert classifications into tables.                                                 | Builds reliable recall and answer quality. |
+| 3    | Distinguish natural processes from human causes and impacts.                         | Builds reliable recall and answer quality. |
+| 4    | Use data tables to compare regions rather than memorising isolated values.           | Builds reliable recall and answer quality. |
 
 ---
 
 ## 🎯 Learning Outcomes
 
-| # | After studying this chapter, you should be able to... |
-|---|---|
-| 1 | describe places, distributions, resources, and human-environment relationships |
-| 2 | read maps, tables, and regional comparisons with purpose |
-| 3 | explain causes, processes, impacts, and planning responses |
+| #   | After studying this chapter, you should be able to...                          |
+| --- | ------------------------------------------------------------------------------ |
+| 1   | describe places, distributions, resources, and human-environment relationships |
+| 2   | read maps, tables, and regional comparisons with purpose                       |
+| 3   | explain causes, processes, impacts, and planning responses                     |
 
 ---
 
 ## 🗂️ Section Structure
 
-| Section | Title | Revision Focus |
-|---|---|---|
-| Intro | Core chapter narrative | Definition, explanation, examples, and likely questions |
+| Section | Title                  | Revision Focus                                          |
+| ------- | ---------------------- | ------------------------------------------------------- |
+| Intro   | Core chapter narrative | Definition, explanation, examples, and likely questions |
 
 ---
 
 ## 🧠 Subject-Specific Study Method
 
-| Part | How to Use It |
-|---|---|
-| Core lens | place -> distribution -> process -> human-environment relation -> map/data interpretation |
-| First pass | Read for meaning and mark unfamiliar terms. |
-| Second pass | Convert definitions, examples, data, and activities into tables. |
-| Revision pass | Use the quick reference and practice tracker at the end. |
+| Part          | How to Use It                                                                             |
+| ------------- | ----------------------------------------------------------------------------------------- |
+| Core lens     | place -> distribution -> process -> human-environment relation -> map/data interpretation |
+| First pass    | Read for meaning and mark unfamiliar terms.                                               |
+| Second pass   | Convert definitions, examples, data, and activities into tables.                          |
+| Revision pass | Use the quick reference and practice tracker at the end.                                  |
 
 ---
 
 ## 🧭 Concept, Evidence, and Example Board
 
-| Learning Need | How To Build It |
-|---|---|
-| Core concepts | Turn each definition into a one-line meaning and one example. |
-| Evidence | Use dates, places, maps, data, thinkers, laws, institutions, or case studies from the chapter. |
-| Comparison | Prepare tables for contrasts, causes, consequences, and viewpoints. |
-| Answer quality | Move from description to explanation to significance. |
+| Learning Need  | How To Build It                                                                                |
+| -------------- | ---------------------------------------------------------------------------------------------- |
+| Core concepts  | Turn each definition into a one-line meaning and one example.                                  |
+| Evidence       | Use dates, places, maps, data, thinkers, laws, institutions, or case studies from the chapter. |
+| Comparison     | Prepare tables for contrasts, causes, consequences, and viewpoints.                            |
+| Answer quality | Move from description to explanation to significance.                                          |
 
 ---
 
@@ -83,11 +84,11 @@ NATURAL VEGETATION AND WILDLIFE 39 H ave you observed the type of trees, bushes,
 
 India also has approximately 90,000 species of animals, as well as, a rich variety of fish in its fresh and marine waters. Natural vegetation refers to a plant community, which has grown naturally without human aid and has been left undisturbed by humans for a long time. This is termed as a virgin vegetation. Thus, cultivated crops and fruits, orchards form part of vegetation but not natural vegetation. NATURAL V EGETATION AND W ILDLIFE TYPES OF V EGETATION The following major types of vegetation may be identified in our country (Figure 5.4).
 
- - (i) T
-ropical Evergreen Forests (ii) Tropical Deciduous Forests (iii) Tropical Thorn Forests and Scrubs (iv) Montane Forests
+- (i) T
+  ropical Evergreen Forests (ii) Tropical Deciduous Forests (iii) Tropical Thorn Forests and Scrubs (iv) Montane Forests
 
- - (v) Mangrove Forests
-The virgin vegetation, which are purely Indian are known as endemic or indigenous species but those which have come from outside India are termed as exotic plants. The term flora is used to denote plants of a particular region or period. Similarly, the species of animals are referred to as fauna. Figure 5.1 : Tropical Evergreen Forest Reprint 2025-26 40 CONTEMPORARY INDIA-I Tropical Ever green For ests These forests are restricted to heavy rainfall areas of the W estern Ghats and the island groups of Lakshadweep, Andaman and Nicobar, upper parts of Assam and Tamil Nadu coast. They are at their best in areas having more than 200 cm of rainfall with a short dry season. The trees reach great heights up to 60 metres or even above.
+- (v) Mangrove Forests
+  The virgin vegetation, which are purely Indian are known as endemic or indigenous species but those which have come from outside India are termed as exotic plants. The term flora is used to denote plants of a particular region or period. Similarly, the species of animals are referred to as fauna. Figure 5.1 : Tropical Evergreen Forest Reprint 2025-26 40 CONTEMPORARY INDIA-I Tropical Ever green For ests These forests are restricted to heavy rainfall areas of the W estern Ghats and the island groups of Lakshadweep, Andaman and Nicobar, upper parts of Assam and Tamil Nadu coast. They are at their best in areas having more than 200 cm of rainfall with a short dry season. The trees reach great heights up to 60 metres or even above.
 
 Since the region is warm and wet throughout the year, it has a luxuriant vegetation of all kinds — trees, shrubs and creepers giving it a multilayered structure. There is no definite time for trees to shed their leaves. As such, these forests appear green all the year round. Some of the commercially important trees of this forest are ebony, mahogany, rosewood, rubber and cinchona. The common animals found in these forests are elephant, monkey, lemur and deer. One- horned rhinoceroses are found in the jungles of Assam and W est Bengal. Besides these animals, plenty of birds, bats, sloth, scorpions and snails are also found in these jungles. Tropical Deciduous For ests These are the most widespread forests of India.
 
@@ -121,15 +122,15 @@ Many insects help in pollination of crops and fruit trees and exerting biologica
 
 Activity ActivityActivityActivityActivity
 
- - (i) Find out from the above newspaper cuttings, the main concern highlighted in the given news items.
-(ii) Collect more information about various endangered species from newspapers and magazines. (iii) Find out various steps taken by the Indian government to protect them. (iv) Describe how you can contribute to the protection of endangered animals and birds. Reprint 2025-26 NATURAL VEGETATION AND WILDLIFE 45 Figure 5.7 : Wildlife Reserves Dampara Reprint 2025-26 46 CONTEMPORARY INDIA-I Migratory Birds Some of the wetlands of India are popular with migratory bir ds. During winter, birds, such as Siberian Crane, come in large numbers. One such place favourable with birds is the Rann of Kachchh. At a place where the desert merges with the sea, flamingo with their brilliant pink plumage come in thousands to build nest mounds from the salty mud and raise their young ones.
+- (i) Find out from the above newspaper cuttings, the main concern highlighted in the given news items.
+  (ii) Collect more information about various endangered species from newspapers and magazines. (iii) Find out various steps taken by the Indian government to protect them. (iv) Describe how you can contribute to the protection of endangered animals and birds. Reprint 2025-26 NATURAL VEGETATION AND WILDLIFE 45 Figure 5.7 : Wildlife Reserves Dampara Reprint 2025-26 46 CONTEMPORARY INDIA-I Migratory Birds Some of the wetlands of India are popular with migratory bir ds. During winter, birds, such as Siberian Crane, come in large numbers. One such place favourable with birds is the Rann of Kachchh. At a place where the desert merges with the sea, flamingo with their brilliant pink plumage come in thousands to build nest mounds from the salty mud and raise their young ones.
 
 It is one among many extraordinary sights in the country. Is it not a rich natural heritage of ours? ecosystem. Hence, conservation is essential. As has been mentioned earlier due to excessive exploitation of plant and animal resources by human beings, the ecosystem has been disturbed. About 1,300 plant species are endangered and 20 species are extinct. Quite a few animal species are also endangered and some have become extinct. The main causes for this major threat to nature are hunting by greedy hunters for commercial purposes. Pollution due to chemical and industrial waste, acid deposits, introduction of alien species and reckless cutting of the forests to bring land under cultivation and habitation, are also responsible for the imbalance.
 
 To protect the flora and fauna of the country, the government has taken many steps.
 
- - (i) Eighteen biosphere reserves have been
-set up in the country to protect flora and fauna. Twelve out of these, the Sundarbans Nanda Devi, the Gulf of Mannar, the Nilgiri, Nokr ek, Gr eat Nicobar, Simlipal, Pachmarhi, Achanakmar -Amarkantak, Agasthyamalai, Kangchendzonga and Panna have been included in the world network of biosphere reserves. Eighteen Bio-reserves
+- (i) Eighteen biosphere reserves have been
+  set up in the country to protect flora and fauna. Twelve out of these, the Sundarbans Nanda Devi, the Gulf of Mannar, the Nilgiri, Nokr ek, Gr eat Nicobar, Simlipal, Pachmarhi, Achanakmar -Amarkantak, Agasthyamalai, Kangchendzonga and Panna have been included in the world network of biosphere reserves. Eighteen Bio-reserves
 - Sundarbans
 - Simlipal
 - Gulf of Mannar
@@ -151,30 +152,31 @@ set up in the country to protect flora and fauna. Twelve out of these, the Sunda
 
 1. Choose the right answer from the four alternatives given below:
 
- - (i) To which one of the following types of vegetation does rubber belong to?
- - (a) Tundra (c) Himalayan
- - (b) Tidal (d) Tropical Evergreen
-(ii) Cinchona trees are found in the areas of rainfall more than
+- (i) To which one of the following types of vegetation does rubber belong to?
+- (a) Tundra (c) Himalayan
+- (b) Tidal (d) Tropical Evergreen
+  (ii) Cinchona trees are found in the areas of rainfall more than
 
- - (a) 100 cm (c) 70 cm
- - (b) 50 cm (d) less than 50 cm
-(iii) In which of the following state is the Simlipal bio-reserve located?
+- (a) 100 cm (c) 70 cm
+- (b) 50 cm (d) less than 50 cm
+  (iii) In which of the following state is the Simlipal bio-reserve located?
 
- - (a) Punjab (b) Delhi
- - (c) Odisha (d) West Bengal
-(iv) Which one of the following bio-reserves of India is not included in the world network of bioreserve?
+- (a) Punjab (b) Delhi
+- (c) Odisha (d) West Bengal
+  (iv) Which one of the following bio-reserves of India is not included in the world network of bioreserve?
 
- - (a) Manas (c) Gulf of Mannar
- - (b) Nilgiri (d) Panna
+- (a) Manas (c) Gulf of Mannar
+- (b) Nilgiri (d) Panna
+
 2. Answer the following questions briefly.
 
- - (i) What is a bio-reserve? Give two examples.
-(ii) Name two animals having habitat in tropical and montane type of vegetation.
+- (i) What is a bio-reserve? Give two examples.
+  (ii) Name two animals having habitat in tropical and montane type of vegetation.
 
 3. Distinguish between
 
- - (i) Flora and Fauna
-(ii) Tropical Evergreen and Deciduous forests
+- (i) Flora and Fauna
+  (ii) Tropical Evergreen and Deciduous forests
 
 4. Name different types of Vegetation found in India and describe the vegetation of
 
@@ -186,21 +188,21 @@ high altitudes.
 
 Map Skills On an outline map of India, label the following.
 
- - (i) Areas of Evergreen Forests
-(ii) Areas of Dry Deciduous Forests (iii) Two national parks each in Norther n, Southern, Eastern and Western parts of the Country Project/Activity
+- (i) Areas of Evergreen Forests
+  (ii) Areas of Dry Deciduous Forests (iii) Two national parks each in Norther n, Southern, Eastern and Western parts of the Country Project/Activity
 
- - (i) Find some trees in your neighbourhood having medicinal values.
-(ii) Find ten occupations getting raw material from forests and wildlife. (iii) Write a poem or paragraph showing the importance of wildlife. (iv) Write the script of a str eet play giving the importance of tr ee plantation and try to enact it in your locality.
+- (i) Find some trees in your neighbourhood having medicinal values.
+  (ii) Find ten occupations getting raw material from forests and wildlife. (iii) Write a poem or paragraph showing the importance of wildlife. (iv) Write the script of a str eet play giving the importance of tr ee plantation and try to enact it in your locality.
 
- - (v) Plant a tree either on your birthday or one of your family member’s birthday.
-Note the gr owth of the tr ee and notice in which season it gr ows faster.
+- (v) Plant a tree either on your birthday or one of your family member’s birthday.
+  Note the gr owth of the tr ee and notice in which season it gr ows faster.
 
 ---
 
 ## 🔑 Key Concepts & Definitions
 
-| Term | Learner-Friendly Meaning |
-|---|---|
+| Term                   | Learner-Friendly Meaning                                                                                               |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | **Natural vegetation** | a plant community, which has grown naturally without human aid and has been left undisturbed by humans for a long time |
 
 ---
@@ -214,67 +216,67 @@ Note the gr owth of the tr ee and notice in which season it gr ows faster.
 
 ## 🔬 Activities, Projects, and Inquiry Prompts
 
-| # | Prompt | Learner Task |
-|---|---|---|
-| 1 | Activity ActivityActivityActivityActivity | Observe, discuss, collect evidence, or write a short response. |
-| 2 | (i) Find out from the above newspaper cuttings, the main concern highlighted in the given news items. | Observe, discuss, collect evidence, or write a short response. |
-| 3 | (ii) Areas of Dry Deciduous Forests (iii) Two national parks each in Norther n, Southern, Eastern and Western parts of the Country Project/Activity | Observe, discuss, collect evidence, or write a short response. |
+| #   | Prompt                                                                                                                                              | Learner Task                                                   |
+| --- | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| 1   | Activity ActivityActivityActivityActivity                                                                                                           | Observe, discuss, collect evidence, or write a short response. |
+| 2   | (i) Find out from the above newspaper cuttings, the main concern highlighted in the given news items.                                               | Observe, discuss, collect evidence, or write a short response. |
+| 3   | (ii) Areas of Dry Deciduous Forests (iii) Two national parks each in Norther n, Southern, Eastern and Western parts of the Country Project/Activity | Observe, discuss, collect evidence, or write a short response. |
 
 ---
 
 ## ✏️ Practice & Exercise Tracker
 
-| Q | Question / Task | Answer Strategy |
-|---|---|---|
-| 1 | 1. Choose the right answer from the four alternatives given below: (i) To which one of the following types of vegetation does rubber belong to? (a) Tundra (c) Himalayan (b) Tidal (d) Tropical Evergreen (ii) Cinchona trees are found in the areas of rainfall more than (a) 100 cm (c) 70 cm (b) 50 cm (d) less than 50 cm (iii) In which of the following state is the Simlipal bio-reserve located? | Identify command word, recall concept, structure answer, then review. |
-| 2 | 3. Distinguish between (i) Flora and Fauna (ii) Tropical Evergreen and Deciduous forests | Identify command word, recall concept, structure answer, then review. |
-| 3 | 4. Name different types of Vegetation found in India and describe the vegetation of high altitudes. | Identify command word, recall concept, structure answer, then review. |
-| 4 | 5. Quite a few species of plants and animals are endangered in India. Why? | Identify command word, recall concept, structure answer, then review. |
-| 5 | 6. Why has India a rich heritage of flora and fauna? Map Skills On an outline map of India, label the following. (i) Areas of Evergreen Forests (ii) Areas of Dry Deciduous Forests (iii) Two national parks each in Norther n, Southern, Eastern and Western parts of the Country Project/Activity (i) Find some trees in your neighbourhood having medicinal values. (ii) Find ten occupations getting raw material from forests and wildlife. (iii) Write a poem or paragraph showing the importance of wildlife. (iv) Write the script of a str eet play giving the importance of tr ee plantation and try to enact it in your locality. | Identify command word, recall concept, structure answer, then review. |
+| Q   | Question / Task                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Answer Strategy                                                       |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| 1   | 1. Choose the right answer from the four alternatives given below: (i) To which one of the following types of vegetation does rubber belong to? (a) Tundra (c) Himalayan (b) Tidal (d) Tropical Evergreen (ii) Cinchona trees are found in the areas of rainfall more than (a) 100 cm (c) 70 cm (b) 50 cm (d) less than 50 cm (iii) In which of the following state is the Simlipal bio-reserve located?                                                                                                                                                                                                                                     | Identify command word, recall concept, structure answer, then review. |
+| 2   | 3. Distinguish between (i) Flora and Fauna (ii) Tropical Evergreen and Deciduous forests                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Identify command word, recall concept, structure answer, then review. |
+| 3   | 4. Name different types of Vegetation found in India and describe the vegetation of high altitudes.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Identify command word, recall concept, structure answer, then review. |
+| 4   | 5. Quite a few species of plants and animals are endangered in India. Why?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Identify command word, recall concept, structure answer, then review. |
+| 5   | 6. Why has India a rich heritage of flora and fauna? Map Skills On an outline map of India, label the following. (i) Areas of Evergreen Forests (ii) Areas of Dry Deciduous Forests (iii) Two national parks each in Norther n, Southern, Eastern and Western parts of the Country Project/Activity (i) Find some trees in your neighbourhood having medicinal values. (ii) Find ten occupations getting raw material from forests and wildlife. (iii) Write a poem or paragraph showing the importance of wildlife. (iv) Write the script of a str eet play giving the importance of tr ee plantation and try to enact it in your locality. | Identify command word, recall concept, structure answer, then review. |
 
 ---
 
 ## 🧩 Answer-Writing Framework
 
-| Step | What To Do |
-|---|---|
-| 1 | Define the geographical term or locate the region. |
-| 2 | Describe the spatial pattern or distribution. |
-| 3 | Explain the process or cause. |
-| 4 | Add human, environmental, or economic impact. |
-| 5 | Use map/data evidence if available. |
+| Step | What To Do                                         |
+| ---- | -------------------------------------------------- |
+| 1    | Define the geographical term or locate the region. |
+| 2    | Describe the spatial pattern or distribution.      |
+| 3    | Explain the process or cause.                      |
+| 4    | Add human, environmental, or economic impact.      |
+| 5    | Use map/data evidence if available.                |
 
 ---
 
 ## ⚠️ Common Misconceptions
 
-| # | Watch Out For This |
-|---|---|
-| 1 | A map is part of the argument, not an extra picture. |
-| 2 | Distribution and cause are different things. |
-| 3 | Geography answers need place-specific detail. |
+| #   | Watch Out For This                                   |
+| --- | ---------------------------------------------------- |
+| 1   | A map is part of the argument, not an extra picture. |
+| 2   | Distribution and cause are different things.         |
+| 3   | Geography answers need place-specific detail.        |
 
 ---
 
 ## 📋 Quick Revision Sheet
 
-| Revision Item | What To Recall |
-|---|---|
-| Chapter core | Natural Vegetation and Wildlife |
-| Intro | Core chapter narrative |
-| Definition | Natural vegetation |
+| Revision Item | What To Recall                  |
+| ------------- | ------------------------------- |
+| Chapter core  | Natural Vegetation and Wildlife |
+| Intro         | Core chapter narrative          |
+| Definition    | Natural vegetation              |
 
 ---
 
 ## ✅ Pilot Quality Checklist
 
-| Check | Status |
-|---|---|
-| Raw data preserved | Yes — chapter content is retained and cleaned, not summarised away. |
-| Learner scaffolding added | Yes — roadmap, outcomes, answer framework, misconceptions, and revision sheet. |
-| Subject-aware structure | Yes — generated from the selected subject family profile. |
-| Needs human review | Yes — especially source extraction mismatches, diagrams, tables, formulas, and broken OCR words. |
+| Check                     | Status                                                                                           |
+| ------------------------- | ------------------------------------------------------------------------------------------------ |
+| Raw data preserved        | Yes — chapter content is retained and cleaned, not summarised away.                              |
+| Learner scaffolding added | Yes — roadmap, outcomes, answer framework, misconceptions, and revision sheet.                   |
+| Subject-aware structure   | Yes — generated from the selected subject family profile.                                        |
+| Needs human review        | Yes — especially source extraction mismatches, diagrams, tables, formulas, and broken OCR words. |
 
 ---
 
-*Source: NCERT Class 9 — Social Geography, Chapter 5. Raw file: `data/class_9/social_geography/chapter_05.md`.*
+_Source: NCERT Class 9 — Social Geography, Chapter 5. Raw file: `data/class_9/social_geography/chapter_05.md`._

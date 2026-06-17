@@ -1,16 +1,17 @@
 # Chapter 8: Controlling
+
 ### NCERT Class 12 - Business Studies Part 1
 
 ## Chapter at a Glance
 
-| Item | Details |
-|---|---|
-| Main idea | Controlling ensures that actual performance conforms to planned standards. |
-| Core action | Set standards, measure performance, compare, analyse deviations, and take corrective action. |
-| Link with planning | Planning sets standards; controlling checks achievement. |
-| Main purpose | Keep work on track and improve future performance. |
-| Key idea | Control is forward-looking because corrective action improves future results. |
-| Most important skill | Apply the control process to a practical performance gap. |
+| Item                 | Details                                                                                      |
+| -------------------- | -------------------------------------------------------------------------------------------- |
+| Main idea            | Controlling ensures that actual performance conforms to planned standards.                   |
+| Core action          | Set standards, measure performance, compare, analyse deviations, and take corrective action. |
+| Link with planning   | Planning sets standards; controlling checks achievement.                                     |
+| Main purpose         | Keep work on track and improve future performance.                                           |
+| Key idea             | Control is forward-looking because corrective action improves future results.                |
+| Most important skill | Apply the control process to a practical performance gap.                                    |
 
 ## Learning Outcomes
 
@@ -28,26 +29,26 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Controlling | Process of ensuring that actual performance matches planned standards. |
-| Standard | Benchmark against which actual performance is measured. |
-| Deviation | Difference between actual performance and standard. |
-| Corrective action | Step taken to remove cause of deviation. |
-| Critical point control | Focus on key result areas that strongly affect success. |
-| Management by exception | Focus managerial attention on significant deviations. |
-| Budgetary control | Controlling through budgets. |
-| Responsibility centre | Unit or person responsible for a particular result. |
+| Term                    | Meaning                                                                |
+| ----------------------- | ---------------------------------------------------------------------- |
+| Controlling             | Process of ensuring that actual performance matches planned standards. |
+| Standard                | Benchmark against which actual performance is measured.                |
+| Deviation               | Difference between actual performance and standard.                    |
+| Corrective action       | Step taken to remove cause of deviation.                               |
+| Critical point control  | Focus on key result areas that strongly affect success.                |
+| Management by exception | Focus managerial attention on significant deviations.                  |
+| Budgetary control       | Controlling through budgets.                                           |
+| Responsibility centre   | Unit or person responsible for a particular result.                    |
 
 ## Quick Learning Map
 
-| Area | Core Question |
-|---|---|
-| Meaning | Are results matching plans? |
-| Importance | Why must performance be monitored? |
-| Planning link | Which standard was set earlier? |
-| Process | What gap exists and how should it be corrected? |
-| Techniques | Which tool helps monitor performance? |
+| Area          | Core Question                                   |
+| ------------- | ----------------------------------------------- |
+| Meaning       | Are results matching plans?                     |
+| Importance    | Why must performance be monitored?              |
+| Planning link | Which standard was set earlier?                 |
+| Process       | What gap exists and how should it be corrected? |
+| Techniques    | Which tool helps monitor performance?           |
 
 # Unit 8A: Meaning of Controlling
 
@@ -121,12 +122,12 @@ Control is impossible without standards. Planning provides those standards.
 
 ## Relationship Table
 
-| Planning | Controlling |
-|---|---|
-| Sets objectives and standards. | Measures achievement of standards. |
-| Looks ahead. | Checks results and improves future action. |
-| First function. | Follows implementation. |
-| Decides what should happen. | Checks what actually happened. |
+| Planning                       | Controlling                                |
+| ------------------------------ | ------------------------------------------ |
+| Sets objectives and standards. | Measures achievement of standards.         |
+| Looks ahead.                   | Checks results and improves future action. |
+| First function.                | Follows implementation.                    |
+| Decides what should happen.    | Checks what actually happened.             |
 
 ## Key Line
 
@@ -173,14 +174,14 @@ Possible causes:
 
 Corrective action depends on cause.
 
-| Cause | Possible Corrective Action |
-|---|---|
-| Poor training | Arrange training. |
-| Machine breakdown | Repair or replace machine. |
-| Unrealistic standard | Revise standard. |
-| Low motivation | Improve incentives and leadership. |
-| Poor material quality | Change supplier or inspect input. |
-| Weak sales | Improve promotion, pricing, or sales effort. |
+| Cause                 | Possible Corrective Action                   |
+| --------------------- | -------------------------------------------- |
+| Poor training         | Arrange training.                            |
+| Machine breakdown     | Repair or replace machine.                   |
+| Unrealistic standard  | Revise standard.                             |
+| Low motivation        | Improve incentives and leadership.           |
+| Poor material quality | Change supplier or inspect input.            |
+| Weak sales            | Improve promotion, pricing, or sales effort. |
 
 # Unit 8F: Critical Point Control
 
@@ -246,24 +247,24 @@ Network techniques help plan and control complex tasks by showing sequence and t
 
 # Unit 8I: Corrective Action Guide
 
-| Deviation | Possible Question to Ask |
-|---|---|
-| Low sales | Is demand low, price high, product weak, or sales effort poor? |
-| High cost | Are materials costly, wastage high, or labour inefficient? |
-| Late delivery | Is scheduling poor or supplier unreliable? |
-| Poor quality | Is training weak, machine faulty, or input defective? |
-| High absenteeism | Are working conditions, morale, or supervision poor? |
+| Deviation        | Possible Question to Ask                                       |
+| ---------------- | -------------------------------------------------------------- |
+| Low sales        | Is demand low, price high, product weak, or sales effort poor? |
+| High cost        | Are materials costly, wastage high, or labour inefficient?     |
+| Late delivery    | Is scheduling poor or supplier unreliable?                     |
+| Poor quality     | Is training weak, machine faulty, or input defective?          |
+| High absenteeism | Are working conditions, morale, or supervision poor?           |
 
 # Unit 8J: Common Mistakes and Corrections
 
-| Mistake | Correct Understanding |
-|---|---|
-| Controlling means only finding faults | It aims to improve performance through corrective action. |
-| Planning and controlling are unrelated | Planning sets standards; controlling checks them. |
-| Every deviation needs top management attention | Only significant deviations need higher-level attention. |
-| Standards must always be quantitative | Some standards are qualitative. |
-| Corrective action is same for every deviation | Action depends on cause. |
-| Control is only backward-looking | It also improves future action. |
+| Mistake                                        | Correct Understanding                                     |
+| ---------------------------------------------- | --------------------------------------------------------- |
+| Controlling means only finding faults          | It aims to improve performance through corrective action. |
+| Planning and controlling are unrelated         | Planning sets standards; controlling checks them.         |
+| Every deviation needs top management attention | Only significant deviations need higher-level attention.  |
+| Standards must always be quantitative          | Some standards are qualitative.                           |
+| Corrective action is same for every deviation  | Action depends on cause.                                  |
+| Control is only backward-looking               | It also improves future action.                           |
 
 ## Practice Set
 
@@ -280,43 +281,43 @@ Network techniques help plan and control complex tasks by showing sequence and t
 
 ## Control Diagnosis Toolkit
 
-| Case Detail | Control Step |
-|---|---|
-| Target sales are fixed at Rs. 50,00,000 | Setting standards. |
-| Actual sales report shows Rs. 42,00,000 | Measuring performance. |
-| Sales shortfall is Rs. 8,00,000 | Comparing actual with standard. |
-| Shortfall is due to weak distribution | Analysing deviation. |
-| Company appoints new distributors | Corrective action. |
+| Case Detail                             | Control Step                    |
+| --------------------------------------- | ------------------------------- |
+| Target sales are fixed at Rs. 50,00,000 | Setting standards.              |
+| Actual sales report shows Rs. 42,00,000 | Measuring performance.          |
+| Sales shortfall is Rs. 8,00,000         | Comparing actual with standard. |
+| Shortfall is due to weak distribution   | Analysing deviation.            |
+| Company appoints new distributors       | Corrective action.              |
 
 ## Deviation Interpretation Table
 
-| Standard | Actual | Deviation Meaning |
-|---|---|---|
-| Cost Rs. 10 per unit | Cost Rs. 12 per unit | Unfavourable cost deviation. |
-| Sales Rs. 5,00,000 | Sales Rs. 6,00,000 | Favourable sales deviation. |
+| Standard               | Actual                 | Deviation Meaning               |
+| ---------------------- | ---------------------- | ------------------------------- |
+| Cost Rs. 10 per unit   | Cost Rs. 12 per unit   | Unfavourable cost deviation.    |
+| Sales Rs. 5,00,000     | Sales Rs. 6,00,000     | Favourable sales deviation.     |
 | Defect rate 2 per cent | Defect rate 6 per cent | Unfavourable quality deviation. |
-| Delivery time 2 days | Delivery time 5 days | Unfavourable service deviation. |
-| Customer rating 4.5 | Customer rating 4.1 | Possible qualitative concern. |
+| Delivery time 2 days   | Delivery time 5 days   | Unfavourable service deviation. |
+| Customer rating 4.5    | Customer rating 4.1    | Possible qualitative concern.   |
 
 ## Choosing Corrective Action
 
-| Root Cause | Weak Correction | Strong Correction |
-|---|---|---|
-| Workers lack skill | Scold workers | Provide training and supervision. |
-| Machine breaks often | Push workers harder | Repair, maintain, or replace machine. |
-| Raw material is defective | Increase inspection only | Improve supplier quality and incoming checks. |
-| Standard is unrealistic | Blame employees | Revise standard after analysis. |
-| Sales territory is too large | Demand more visits | Redesign territories or add sales staff. |
+| Root Cause                   | Weak Correction          | Strong Correction                             |
+| ---------------------------- | ------------------------ | --------------------------------------------- |
+| Workers lack skill           | Scold workers            | Provide training and supervision.             |
+| Machine breaks often         | Push workers harder      | Repair, maintain, or replace machine.         |
+| Raw material is defective    | Increase inspection only | Improve supplier quality and incoming checks. |
+| Standard is unrealistic      | Blame employees          | Revise standard after analysis.               |
+| Sales territory is too large | Demand more visits       | Redesign territories or add sales staff.      |
 
 ## Critical Point Examples by Department
 
-| Department | Critical Points |
-|---|---|
-| Production | Output, wastage, machine downtime, defect rate. |
-| Finance | Cash balance, receivables, cost, profit margin. |
-| Marketing | Sales volume, market share, customer complaints. |
-| Human resources | Absenteeism, turnover, training completion. |
-| Logistics | Delivery time, transport cost, damaged goods. |
+| Department      | Critical Points                                  |
+| --------------- | ------------------------------------------------ |
+| Production      | Output, wastage, machine downtime, defect rate.  |
+| Finance         | Cash balance, receivables, cost, profit margin.  |
+| Marketing       | Sales volume, market share, customer complaints. |
+| Human resources | Absenteeism, turnover, training completion.      |
+| Logistics       | Delivery time, transport cost, damaged goods.    |
 
 ## Management by Exception in Practice
 

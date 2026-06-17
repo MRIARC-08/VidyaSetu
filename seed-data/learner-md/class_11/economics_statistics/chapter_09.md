@@ -1,4 +1,5 @@
 # Chapter 9: Use of Statistical Tools
+
 ### NCERT Class 11 Statistics for Economics
 
 ---
@@ -36,15 +37,15 @@ A project helps students move from theory to application.
 
 Earlier chapters taught:
 
-| Tool | Use |
-|---|---|
-| Collection of data | Gathering facts |
-| Organisation of data | Classifying and arranging data |
-| Presentation of data | Tables, diagrams, graphs |
-| Central tendency | Finding average or typical value |
-| Dispersion | Measuring variation |
-| Correlation | Studying relationship |
-| Index numbers | Measuring relative change |
+| Tool                 | Use                              |
+| -------------------- | -------------------------------- |
+| Collection of data   | Gathering facts                  |
+| Organisation of data | Classifying and arranging data   |
+| Presentation of data | Tables, diagrams, graphs         |
+| Central tendency     | Finding average or typical value |
+| Dispersion           | Measuring variation              |
+| Correlation          | Studying relationship            |
+| Index numbers        | Measuring relative change        |
 
 This chapter shows how these tools can be combined to study a real problem.
 
@@ -80,14 +81,14 @@ A good topic should be:
 
 Examples:
 
-| Broad area | Better project topic |
-|---|---|
-| Transport | Problems faced by students using public transport |
-| Consumer awareness | Awareness of consumer rights among households |
-| Education | Reasons for dropout among school children in a locality |
-| Banking | Saving habits of households in a neighbourhood |
-| Farming | Problems faced by farmers in a selected village |
-| Product study | Effect of advertisement on demand for a product |
+| Broad area         | Better project topic                                    |
+| ------------------ | ------------------------------------------------------- |
+| Transport          | Problems faced by students using public transport       |
+| Consumer awareness | Awareness of consumer rights among households           |
+| Education          | Reasons for dropout among school children in a locality |
+| Banking            | Saving habits of households in a neighbourhood          |
+| Farming            | Problems faced by farmers in a selected village         |
+| Product study      | Effect of advertisement on demand for a product         |
 
 Avoid topics that are too large, such as "poverty in India", unless the study is narrowed to a specific area and sample.
 
@@ -99,13 +100,13 @@ The target group is the group from which information will be collected.
 
 Example:
 
-| Project topic | Target group |
-|---|---|
-| Use of public transport by students | Students in selected schools or colleges |
-| Consumer awareness | Households in selected area |
-| Demand for a new soap | Rural and urban consumers |
-| Bank saving habits | Earners or households in selected locality |
-| School dropout reasons | Students, parents, teachers, and school records |
+| Project topic                       | Target group                                    |
+| ----------------------------------- | ----------------------------------------------- |
+| Use of public transport by students | Students in selected schools or colleges        |
+| Consumer awareness                  | Households in selected area                     |
+| Demand for a new soap               | Rural and urban consumers                       |
+| Bank saving habits                  | Earners or households in selected locality      |
+| School dropout reasons              | Students, parents, teachers, and school records |
 
 Choosing the target group correctly helps frame relevant questions.
 
@@ -213,13 +214,13 @@ Steps:
 
 ### Suitable Presentation Tools
 
-| Data type | Suitable presentation |
-|---|---|
-| Categories | Bar diagram |
-| Parts of total | Pie diagram |
-| Frequency distribution | Histogram |
-| Time-based data | Line graph |
-| Exact comparison | Table |
+| Data type              | Suitable presentation |
+| ---------------------- | --------------------- |
+| Categories             | Bar diagram           |
+| Parts of total         | Pie diagram           |
+| Frequency distribution | Histogram             |
+| Time-based data        | Line graph            |
+| Exact comparison       | Table                 |
 
 Presentation should make findings easier to understand, not just decorate the report.
 
@@ -233,16 +234,16 @@ Interpretation means explaining what the results show.
 
 Possible tools:
 
-| Tool | Use |
-|---|---|
-| Mean | Average level |
-| Median | Middle value |
-| Mode | Most common response |
-| Range | Simple spread |
-| Standard deviation | Variation |
-| Correlation | Relationship between two variables |
-| Percentage | Share or proportion |
-| Index number | Change over time |
+| Tool               | Use                                |
+| ------------------ | ---------------------------------- |
+| Mean               | Average level                      |
+| Median             | Middle value                       |
+| Mode               | Most common response               |
+| Range              | Simple spread                      |
+| Standard deviation | Variation                          |
+| Correlation        | Relationship between two variables |
+| Percentage         | Share or proportion                |
+| Index number       | Change over time                   |
 
 Example:
 
@@ -282,12 +283,12 @@ Suggestions should follow from findings.
 
 Example:
 
-| Finding | Suitable suggestion |
-|---|---|
-| Most students report bus delay | Increase frequency during peak hours |
-| Many households lack consumer rights awareness | Conduct local awareness campaigns |
-| Farmers report lack of irrigation | Improve water access and extension support |
-| Low saving among households | Promote financial literacy and small saving schemes |
+| Finding                                        | Suitable suggestion                                 |
+| ---------------------------------------------- | --------------------------------------------------- |
+| Most students report bus delay                 | Increase frequency during peak hours                |
+| Many households lack consumer rights awareness | Conduct local awareness campaigns                   |
+| Farmers report lack of irrigation              | Improve water access and extension support          |
+| Low saving among households                    | Promote financial literacy and small saving schemes |
 
 Avoid suggestions unrelated to data.
 
@@ -340,17 +341,17 @@ A clean project report may follow this structure:
 
 ## 13. Examples of Project Topics
 
-| Topic | Possible statistical tools |
-|---|---|
-| Saving habits of households | Percentages, mean, bar diagram |
-| Consumer awareness | Frequency table, pie chart |
-| Use of mobile phones among students | Bar diagram, mode, percentages |
-| Public transport problems | Ranking, percentages, bar diagram |
-| Effect of advertisement on sales | Correlation, table, line graph |
-| Literacy levels in a locality | Percentages, comparison tables |
-| Food adulteration complaint survey | Frequency table, pie diagram |
-| Farming practices in a village | Tables, averages, qualitative interpretation |
-| Expenditure pattern of households | Mean, pie diagram, bar diagram |
+| Topic                               | Possible statistical tools                   |
+| ----------------------------------- | -------------------------------------------- |
+| Saving habits of households         | Percentages, mean, bar diagram               |
+| Consumer awareness                  | Frequency table, pie chart                   |
+| Use of mobile phones among students | Bar diagram, mode, percentages               |
+| Public transport problems           | Ranking, percentages, bar diagram            |
+| Effect of advertisement on sales    | Correlation, table, line graph               |
+| Literacy levels in a locality       | Percentages, comparison tables               |
+| Food adulteration complaint survey  | Frequency table, pie diagram                 |
+| Farming practices in a village      | Tables, averages, qualitative interpretation |
+| Expenditure pattern of households   | Mean, pie diagram, bar diagram               |
 
 ---
 
@@ -403,16 +404,16 @@ Conclusion should state whether income and saving appear related, what proportio
 
 ## 15. Common Mistakes
 
-| Mistake | Correct understanding |
-|---|---|
-| Choosing a very broad topic | Narrow the topic to a manageable area and group. |
-| Asking irrelevant questions | Every question should support the objective. |
-| Collecting data without target group | Define who will be studied first. |
-| Showing tables without interpretation | Explain what each table means. |
-| Using diagrams for decoration | Diagrams should clarify data. |
-| Making conclusions not supported by data | Conclusions must follow evidence. |
-| Forgetting bibliography | Sources must be recorded. |
-| Ignoring limitations | Every project has limits such as sample size and area. |
+| Mistake                                  | Correct understanding                                  |
+| ---------------------------------------- | ------------------------------------------------------ |
+| Choosing a very broad topic              | Narrow the topic to a manageable area and group.       |
+| Asking irrelevant questions              | Every question should support the objective.           |
+| Collecting data without target group     | Define who will be studied first.                      |
+| Showing tables without interpretation    | Explain what each table means.                         |
+| Using diagrams for decoration            | Diagrams should clarify data.                          |
+| Making conclusions not supported by data | Conclusions must follow evidence.                      |
+| Forgetting bibliography                  | Sources must be recorded.                              |
+| Ignoring limitations                     | Every project has limits such as sample size and area. |
 
 ---
 

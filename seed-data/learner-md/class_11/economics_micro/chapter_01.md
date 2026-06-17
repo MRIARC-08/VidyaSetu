@@ -1,4 +1,5 @@
 # Chapter 1: Introduction
+
 ### NCERT Class 11 - Economics Micro
 
 ---
@@ -31,24 +32,24 @@ The central idea is:
 
 ## Chapter at a Glance
 
-| Area | Main Idea |
-| --- | --- |
-| Goods | Physical objects that satisfy wants, such as food and clothes. |
-| Services | Intangible activities that satisfy wants, such as teaching and medical care. |
-| Resources | Inputs used to produce goods and services, such as land, labour, tools, and machinery. |
-| Scarcity | Resources are limited compared with wants. |
-| Choice | Scarcity forces individuals and societies to choose among alternatives. |
-| Opportunity cost | The amount of one thing sacrificed to get more of another thing. |
-| Central problems | What to produce, how to produce, and for whom to produce. |
-| Production possibility set | All combinations of goods and services that can be produced with available resources and technology. |
-| Production possibility frontier | Boundary showing maximum possible combinations when resources are fully used. |
-| Centrally planned economy | Central authority makes major economic decisions. |
-| Market economy | Economic activities are coordinated through markets and prices. |
-| Mixed economy | Both government planning and markets play important roles. |
-| Positive economics | Studies how economic mechanisms work. |
-| Normative economics | Studies whether outcomes are desirable. |
-| Microeconomics | Studies individual economic agents and specific markets. |
-| Macroeconomics | Studies the economy as a whole using aggregate measures. |
+| Area                            | Main Idea                                                                                            |
+| ------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| Goods                           | Physical objects that satisfy wants, such as food and clothes.                                       |
+| Services                        | Intangible activities that satisfy wants, such as teaching and medical care.                         |
+| Resources                       | Inputs used to produce goods and services, such as land, labour, tools, and machinery.               |
+| Scarcity                        | Resources are limited compared with wants.                                                           |
+| Choice                          | Scarcity forces individuals and societies to choose among alternatives.                              |
+| Opportunity cost                | The amount of one thing sacrificed to get more of another thing.                                     |
+| Central problems                | What to produce, how to produce, and for whom to produce.                                            |
+| Production possibility set      | All combinations of goods and services that can be produced with available resources and technology. |
+| Production possibility frontier | Boundary showing maximum possible combinations when resources are fully used.                        |
+| Centrally planned economy       | Central authority makes major economic decisions.                                                    |
+| Market economy                  | Economic activities are coordinated through markets and prices.                                      |
+| Mixed economy                   | Both government planning and markets play important roles.                                           |
+| Positive economics              | Studies how economic mechanisms work.                                                                |
+| Normative economics             | Studies whether outcomes are desirable.                                                              |
+| Microeconomics                  | Studies individual economic agents and specific markets.                                             |
+| Macroeconomics                  | Studies the economy as a whole using aggregate measures.                                             |
 
 ---
 
@@ -56,62 +57,62 @@ The central idea is:
 
 By the end of this chapter, you should be able to:
 
-| Skill | You Should Be Able To |
-| --- | --- |
-| Define | Define economy, goods, services, resources, scarcity, opportunity cost, market, and mixed economy. |
-| Explain | Explain why scarcity creates choice and why choice creates opportunity cost. |
-| Identify | Identify the three central problems of an economy. |
-| Interpret | Read a production possibility table and explain a production possibility frontier. |
-| Compare | Compare centrally planned economy and market economy. |
-| Distinguish | Distinguish positive economics from normative economics. |
-| Distinguish | Distinguish microeconomics from macroeconomics. |
-| Apply | Use examples such as corn/cotton, education/health, labour/machines, and government/market decisions. |
-| Write | Write clear exam answers using definitions, examples, and conclusions. |
+| Skill       | You Should Be Able To                                                                                 |
+| ----------- | ----------------------------------------------------------------------------------------------------- |
+| Define      | Define economy, goods, services, resources, scarcity, opportunity cost, market, and mixed economy.    |
+| Explain     | Explain why scarcity creates choice and why choice creates opportunity cost.                          |
+| Identify    | Identify the three central problems of an economy.                                                    |
+| Interpret   | Read a production possibility table and explain a production possibility frontier.                    |
+| Compare     | Compare centrally planned economy and market economy.                                                 |
+| Distinguish | Distinguish positive economics from normative economics.                                              |
+| Distinguish | Distinguish microeconomics from macroeconomics.                                                       |
+| Apply       | Use examples such as corn/cotton, education/health, labour/machines, and government/market decisions. |
+| Write       | Write clear exam answers using definitions, examples, and conclusions.                                |
 
 ---
 
 ## Big Map of the Chapter
 
-| Unit | Main Question | Main Answer |
-| --- | --- | --- |
-| Simple economy | Why do people exchange? | No individual has all goods and services needed, so people use resources to produce and exchange. |
-| Scarcity | Why is choice necessary? | Wants exceed available resources. |
-| Central problems | What must every society decide? | What to produce, how to produce, and for whom to produce. |
-| PPF | How can choices be shown? | By a frontier showing possible production combinations. |
-| Opportunity cost | What is sacrificed when one option is chosen? | The next best alternative given up. |
-| Organisation | Who solves economic problems? | Either markets, a central authority, or both. |
-| Positive/normative | Are we describing or judging? | Positive describes what is; normative discusses what ought to be. |
-| Micro/macro | Are we studying a part or the whole? | Micro studies individuals/markets; macro studies aggregate economy. |
+| Unit               | Main Question                                 | Main Answer                                                                                       |
+| ------------------ | --------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| Simple economy     | Why do people exchange?                       | No individual has all goods and services needed, so people use resources to produce and exchange. |
+| Scarcity           | Why is choice necessary?                      | Wants exceed available resources.                                                                 |
+| Central problems   | What must every society decide?               | What to produce, how to produce, and for whom to produce.                                         |
+| PPF                | How can choices be shown?                     | By a frontier showing possible production combinations.                                           |
+| Opportunity cost   | What is sacrificed when one option is chosen? | The next best alternative given up.                                                               |
+| Organisation       | Who solves economic problems?                 | Either markets, a central authority, or both.                                                     |
+| Positive/normative | Are we describing or judging?                 | Positive describes what is; normative discusses what ought to be.                                 |
+| Micro/macro        | Are we studying a part or the whole?          | Micro studies individuals/markets; macro studies aggregate economy.                               |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Economy | System through which people produce, exchange, distribute, and consume goods and services. |
-| Goods | Physical, tangible objects used to satisfy wants and needs. |
-| Services | Intangible activities that satisfy wants and needs. |
-| Resource | Input used to produce goods and services. |
-| Scarcity | Situation where available resources are insufficient to satisfy all wants. |
-| Choice | Selection among alternatives because all wants cannot be satisfied. |
-| Allocation | Assignment of resources to different uses. |
-| Distribution | Division of final goods and services among individuals. |
-| Production | Creation of goods and services. |
-| Consumption | Use of goods and services to satisfy wants. |
-| Exchange | Giving one good/service or money to obtain another. |
-| Opportunity cost | The value of the next best alternative forgone. |
-| Production possibility set | All production combinations possible with available resources and technology. |
-| Production possibility frontier | Curve showing maximum possible combinations of two goods when resources are fully used. |
-| Market | Arrangement that allows buyers and sellers to exchange goods and services. |
-| Price signal | Information carried by prices that guides buyers and producers. |
-| Centrally planned economy | Economy where a central authority makes major decisions about production, exchange, and distribution. |
-| Market economy | Economy where decisions are coordinated mainly through markets and prices. |
-| Mixed economy | Economy with both government role and market mechanism. |
-| Positive economics | Analysis of how economic mechanisms function. |
-| Normative economics | Evaluation of whether economic outcomes are desirable. |
-| Microeconomics | Study of individual consumers, producers, and markets. |
-| Macroeconomics | Study of aggregate variables such as output, employment, and price level. |
+| Term                            | Meaning                                                                                               |
+| ------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| Economy                         | System through which people produce, exchange, distribute, and consume goods and services.            |
+| Goods                           | Physical, tangible objects used to satisfy wants and needs.                                           |
+| Services                        | Intangible activities that satisfy wants and needs.                                                   |
+| Resource                        | Input used to produce goods and services.                                                             |
+| Scarcity                        | Situation where available resources are insufficient to satisfy all wants.                            |
+| Choice                          | Selection among alternatives because all wants cannot be satisfied.                                   |
+| Allocation                      | Assignment of resources to different uses.                                                            |
+| Distribution                    | Division of final goods and services among individuals.                                               |
+| Production                      | Creation of goods and services.                                                                       |
+| Consumption                     | Use of goods and services to satisfy wants.                                                           |
+| Exchange                        | Giving one good/service or money to obtain another.                                                   |
+| Opportunity cost                | The value of the next best alternative forgone.                                                       |
+| Production possibility set      | All production combinations possible with available resources and technology.                         |
+| Production possibility frontier | Curve showing maximum possible combinations of two goods when resources are fully used.               |
+| Market                          | Arrangement that allows buyers and sellers to exchange goods and services.                            |
+| Price signal                    | Information carried by prices that guides buyers and producers.                                       |
+| Centrally planned economy       | Economy where a central authority makes major decisions about production, exchange, and distribution. |
+| Market economy                  | Economy where decisions are coordinated mainly through markets and prices.                            |
+| Mixed economy                   | Economy with both government role and market mechanism.                                               |
+| Positive economics              | Analysis of how economic mechanisms function.                                                         |
+| Normative economics             | Evaluation of whether economic outcomes are desirable.                                                |
+| Microeconomics                  | Study of individual consumers, producers, and markets.                                                |
+| Macroeconomics                  | Study of aggregate variables such as output, employment, and price level.                             |
 
 ---
 
@@ -139,12 +140,12 @@ Each person or decision-making unit has only some resources.
 
 Examples:
 
-| Decision-Making Unit | Resources It May Have | What It Can Produce or Provide |
-| --- | --- | --- |
-| Family farm | land, grains, tools, bullocks, family labour | crops such as corn |
-| Weaver | yarn, cotton, weaving instruments, skill | cloth |
-| Teacher | knowledge and teaching skill | education service |
-| Labourer | labour power | work/service for wage |
+| Decision-Making Unit | Resources It May Have                        | What It Can Produce or Provide |
+| -------------------- | -------------------------------------------- | ------------------------------ |
+| Family farm          | land, grains, tools, bullocks, family labour | crops such as corn             |
+| Weaver               | yarn, cotton, weaving instruments, skill     | cloth                          |
+| Teacher              | knowledge and teaching skill                 | education service              |
+| Labourer             | labour power                                 | work/service for wage          |
 
 ## 1.2 Why Exchange Is Needed
 
@@ -184,10 +185,10 @@ Economics studies how these decision-making units use resources and make choices
 
 ## 1.4 Goods and Services
 
-| Type | Meaning | Examples |
-| --- | --- | --- |
-| Goods | Physical things that satisfy wants | food, clothes, houses, machines |
-| Services | Activities that satisfy wants | teaching, treatment by doctors, transport, banking |
+| Type     | Meaning                            | Examples                                           |
+| -------- | ---------------------------------- | -------------------------------------------------- |
+| Goods    | Physical things that satisfy wants | food, clothes, houses, machines                    |
+| Services | Activities that satisfy wants      | teaching, treatment by doctors, transport, banking |
 
 Important difference:
 
@@ -289,10 +290,10 @@ So society must coordinate:
 
 Every society faces two broad problems:
 
-| Problem | Meaning |
-| --- | --- |
-| Allocation of resources | How scarce resources are assigned to different goods and services. |
-| Distribution of final goods and services | How produced goods and services are divided among people. |
+| Problem                                  | Meaning                                                            |
+| ---------------------------------------- | ------------------------------------------------------------------ |
+| Allocation of resources                  | How scarce resources are assigned to different goods and services. |
+| Distribution of final goods and services | How produced goods and services are divided among people.          |
 
 Allocation answers:
 
@@ -322,13 +323,13 @@ Society must decide what goods and services to produce and how much of each.
 
 Examples of choices:
 
-| Choice | Economic Meaning |
-| --- | --- |
-| More food or more luxury goods? | Basic needs vs comfort/luxury. |
-| More agriculture or more industry? | Allocation between sectors. |
-| More education/health or more military services? | Social welfare vs defence. |
-| More basic education or more higher education? | Type of public investment. |
-| More consumer goods or more machines? | Present consumption vs future production. |
+| Choice                                           | Economic Meaning                          |
+| ------------------------------------------------ | ----------------------------------------- |
+| More food or more luxury goods?                  | Basic needs vs comfort/luxury.            |
+| More agriculture or more industry?               | Allocation between sectors.               |
+| More education/health or more military services? | Social welfare vs defence.                |
+| More basic education or more higher education?   | Type of public investment.                |
+| More consumer goods or more machines?            | Present consumption vs future production. |
 
 This problem exists because resources used for one purpose cannot be used for another at the same time.
 
@@ -365,11 +366,11 @@ This problem concerns equity and distribution.
 
 ## 3.4 Summary of Central Problems
 
-| Central Problem | Main Question | Example |
-| --- | --- | --- |
-| What to produce? | Which goods and how much? | food or luxury cars |
-| How to produce? | Which technique and resources? | labour or machines |
-| For whom to produce? | Who receives output? | rich only or wider population |
+| Central Problem      | Main Question                  | Example                       |
+| -------------------- | ------------------------------ | ----------------------------- |
+| What to produce?     | Which goods and how much?      | food or luxury cars           |
+| How to produce?      | Which technique and resources? | labour or machines            |
+| For whom to produce? | Who receives output?           | rich only or wider population |
 
 ---
 
@@ -402,12 +403,12 @@ The chapter gives an example of an economy that can produce corn or cotton.
 Production possibilities:
 
 | Possibility | Corn | Cotton |
-| --- | ---: | ---: |
-| A | 0 | 10 |
-| B | 1 | 9 |
-| C | 2 | 7 |
-| D | 3 | 4 |
-| E | 4 | 0 |
+| ----------- | ---: | -----: |
+| A           |    0 |     10 |
+| B           |    1 |      9 |
+| C           |    2 |      7 |
+| D           |    3 |      4 |
+| E           |    4 |      0 |
 
 If all resources are used for cotton, the economy can produce 10 units of cotton and 0 corn.
 
@@ -420,11 +421,11 @@ Other combinations are also possible.
 Moving from A to E:
 
 | Movement | Corn Gained | Cotton Given Up |
-| --- | ---: | ---: |
-| A to B | +1 | -1 |
-| B to C | +1 | -2 |
-| C to D | +1 | -3 |
-| D to E | +1 | -4 |
+| -------- | ----------: | --------------: |
+| A to B   |          +1 |              -1 |
+| B to C   |          +1 |              -2 |
+| C to D   |          +1 |              -3 |
+| D to E   |          +1 |              -4 |
 
 The table shows that as the economy produces more corn, it must give up more cotton.
 
@@ -514,11 +515,11 @@ Opportunity cost of more corn is the cotton sacrificed.
 From the table:
 
 | Movement | Opportunity Cost of 1 More Corn |
-| --- | --- |
-| A to B | 1 cotton |
-| B to C | 2 cotton |
-| C to D | 3 cotton |
-| D to E | 4 cotton |
+| -------- | ------------------------------- |
+| A to B   | 1 cotton                        |
+| B to C   | 2 cotton                        |
+| C to D   | 3 cotton                        |
+| D to E   | 4 cotton                        |
 
 ## 5.7 Exam Answer Frame: Production Possibility Frontier
 
@@ -538,12 +539,12 @@ It is also called economic cost.
 
 ## 6.2 Simple Examples
 
-| Choice | Opportunity Cost |
-| --- | --- |
-| Studying for two hours | leisure or work you gave up |
-| Producing more corn | cotton production sacrificed |
+| Choice                  | Opportunity Cost                                 |
+| ----------------------- | ------------------------------------------------ |
+| Studying for two hours  | leisure or work you gave up                      |
+| Producing more corn     | cotton production sacrificed                     |
 | Building more hospitals | other projects not built with the same resources |
-| Buying a machine | alternative use of that money |
+| Buying a machine        | alternative use of that money                    |
 
 ## 6.3 Opportunity Cost in PPF
 
@@ -622,21 +623,21 @@ If education is under-produced by individuals, the government may produce it dir
 
 ## 7.3 Strengths of Central Planning
 
-| Strength | Explanation |
-| --- | --- |
+| Strength          | Explanation                                                 |
+| ----------------- | ----------------------------------------------------------- |
 | Social priorities | Government can focus on health, education, and basic needs. |
-| Equity | It can try to reduce extreme inequality. |
-| Long-term goals | It can direct resources toward national development. |
-| Public goods | It can provide goods that markets may under-provide. |
+| Equity            | It can try to reduce extreme inequality.                    |
+| Long-term goals   | It can direct resources toward national development.        |
+| Public goods      | It can provide goods that markets may under-provide.        |
 
 ## 7.4 Limitations of Central Planning
 
-| Limitation | Explanation |
-| --- | --- |
+| Limitation          | Explanation                                     |
+| ------------------- | ----------------------------------------------- |
 | Information problem | Central authority may not know all local needs. |
-| Inefficiency | Resources may be misallocated. |
-| Low incentives | Producers may lack motivation to innovate. |
-| Slow response | Decisions may take time. |
+| Inefficiency        | Resources may be misallocated.                  |
+| Low incentives      | Producers may lack motivation to innovate.      |
+| Slow response       | Decisions may take time.                        |
 
 ---
 
@@ -696,21 +697,21 @@ This is how market coordination works.
 
 ## 7.8 Strengths of Market Economy
 
-| Strength | Explanation |
-| --- | --- |
+| Strength                | Explanation                                                     |
+| ----------------------- | --------------------------------------------------------------- |
 | Decentralised decisions | Many individuals make decisions based on their own information. |
-| Price signals | Prices guide producers and consumers. |
-| Incentives | Profit encourages production and innovation. |
-| Flexibility | Markets may respond quickly to changing demand. |
+| Price signals           | Prices guide producers and consumers.                           |
+| Incentives              | Profit encourages production and innovation.                    |
+| Flexibility             | Markets may respond quickly to changing demand.                 |
 
 ## 7.9 Limitations of Market Economy
 
-| Limitation | Explanation |
-| --- | --- |
-| Inequality | Markets may distribute goods according to purchasing power, not need. |
-| Public goods | Some goods may not be provided adequately by private markets. |
-| Externalities | Pollution and social costs may be ignored. |
-| Basic services | Health and education may remain unaffordable for some. |
+| Limitation     | Explanation                                                           |
+| -------------- | --------------------------------------------------------------------- |
+| Inequality     | Markets may distribute goods according to purchasing power, not need. |
+| Public goods   | Some goods may not be provided adequately by private markets.         |
+| Externalities  | Pollution and social costs may be ignored.                            |
+| Basic services | Health and education may remain unaffordable for some.                |
 
 ---
 
@@ -727,14 +728,14 @@ India is an example where the government played a major planning role after Inde
 
 ## 7.11 Comparison: Planning and Market
 
-| Basis | Centrally Planned Economy | Market Economy |
-| --- | --- | --- |
-| Main decision-maker | Government/central authority | Buyers and sellers |
-| Coordination tool | Plan/directive | Price mechanism |
-| Production decision | Based on social plan | Based on demand, cost, and profit |
-| Distribution | Can be shaped by policy | Based largely on income and purchasing power |
-| Strength | Can focus on equity and public welfare | Can use price signals and incentives |
-| Limitation | May suffer from information and efficiency problems | May create inequality and under-provide public goods |
+| Basis               | Centrally Planned Economy                           | Market Economy                                       |
+| ------------------- | --------------------------------------------------- | ---------------------------------------------------- |
+| Main decision-maker | Government/central authority                        | Buyers and sellers                                   |
+| Coordination tool   | Plan/directive                                      | Price mechanism                                      |
+| Production decision | Based on social plan                                | Based on demand, cost, and profit                    |
+| Distribution        | Can be shaped by policy                             | Based largely on income and purchasing power         |
+| Strength            | Can focus on equity and public welfare              | Can use price signals and incentives                 |
+| Limitation          | May suffer from information and efficiency problems | May create inequality and under-provide public goods |
 
 ---
 
@@ -764,12 +765,12 @@ It asks:
 
 Examples:
 
-| Positive Statement | Why Positive? |
-| --- | --- |
-| If price rises, quantity demanded usually falls. | It describes a relationship. |
-| A rise in income may increase demand for normal goods. | It explains likely behaviour. |
-| A tax on petrol may reduce petrol consumption. | It predicts an effect. |
-| In a market, price signals coordinate buyers and sellers. | It explains a mechanism. |
+| Positive Statement                                        | Why Positive?                 |
+| --------------------------------------------------------- | ----------------------------- |
+| If price rises, quantity demanded usually falls.          | It describes a relationship.  |
+| A rise in income may increase demand for normal goods.    | It explains likely behaviour. |
+| A tax on petrol may reduce petrol consumption.            | It predicts an effect.        |
+| In a market, price signals coordinate buyers and sellers. | It explains a mechanism.      |
 
 Positive statements can be tested using logic, evidence, and data.
 
@@ -786,22 +787,22 @@ It asks:
 
 Examples:
 
-| Normative Statement | Why Normative? |
-| --- | --- |
-| The government should provide free basic education. | It recommends a policy. |
-| Income inequality should be reduced. | It contains a value judgement. |
-| Health services ought to be available to everyone. | It expresses what should happen. |
-| More resources should be spent on public transport. | It evaluates priorities. |
+| Normative Statement                                 | Why Normative?                   |
+| --------------------------------------------------- | -------------------------------- |
+| The government should provide free basic education. | It recommends a policy.          |
+| Income inequality should be reduced.                | It contains a value judgement.   |
+| Health services ought to be available to everyone.  | It expresses what should happen. |
+| More resources should be spent on public transport. | It evaluates priorities.         |
 
 Normative statements involve values and judgement.
 
 ## 8.4 Positive vs Normative
 
-| Basis | Positive Economics | Normative Economics |
-| --- | --- | --- |
-| Focus | What is, how it works | What ought to be |
-| Nature | Descriptive/explanatory | Evaluative/prescriptive |
-| Testability | Can often be tested | Depends on values and goals |
+| Basis            | Positive Economics           | Normative Economics          |
+| ---------------- | ---------------------------- | ---------------------------- |
+| Focus            | What is, how it works        | What ought to be             |
+| Nature           | Descriptive/explanatory      | Evaluative/prescriptive      |
+| Testability      | Can often be tested          | Depends on values and goals  |
 | Example question | What happens if price rises? | Should prices be controlled? |
 
 ## 8.5 Important Note
@@ -864,13 +865,13 @@ Examples of macroeconomic questions:
 
 ## 9.3 Comparison
 
-| Basis | Microeconomics | Macroeconomics |
-| --- | --- | --- |
-| Unit of study | Individual agent or market | Economy as a whole |
+| Basis          | Microeconomics                                                        | Macroeconomics                                       |
+| -------------- | --------------------------------------------------------------------- | ---------------------------------------------------- |
+| Unit of study  | Individual agent or market                                            | Economy as a whole                                   |
 | Main variables | Price of one good, quantity of one good, consumer choice, firm output | National income, total output, employment, inflation |
-| Example | Price of rice | General price level |
-| Example | Output of one firm | Total output of the economy |
-| Example | Demand for one commodity | Aggregate demand |
+| Example        | Price of rice                                                         | General price level                                  |
+| Example        | Output of one firm                                                    | Total output of the economy                          |
+| Example        | Demand for one commodity                                              | Aggregate demand                                     |
 
 ## 9.4 Plan of the Microeconomics Book
 
@@ -948,15 +949,15 @@ Microeconomics studies the behaviour of individual economic agents such as consu
 
 # 11. Common Mistakes
 
-| Mistake | Correction |
-| --- | --- |
-| Saying scarcity means poverty | Scarcity means wants exceed resources; even rich societies face scarcity. |
-| Treating goods and services as the same | Goods are tangible; services are intangible. |
-| Thinking opportunity cost means only money cost | Opportunity cost means next best alternative forgone. |
-| Saying points inside PPF are impossible | Points inside PPF are possible but inefficient. |
-| Saying points outside PPF are inefficient | Points outside PPF are unattainable with current resources and technology. |
-| Confusing market with physical marketplace | In economics, market means exchange arrangement, physical or non-physical. |
-| Calling every government action macroeconomics | Micro/macro depends on level of analysis, not who acts. |
+| Mistake                                                | Correction                                                                        |
+| ------------------------------------------------------ | --------------------------------------------------------------------------------- |
+| Saying scarcity means poverty                          | Scarcity means wants exceed resources; even rich societies face scarcity.         |
+| Treating goods and services as the same                | Goods are tangible; services are intangible.                                      |
+| Thinking opportunity cost means only money cost        | Opportunity cost means next best alternative forgone.                             |
+| Saying points inside PPF are impossible                | Points inside PPF are possible but inefficient.                                   |
+| Saying points outside PPF are inefficient              | Points outside PPF are unattainable with current resources and technology.        |
+| Confusing market with physical marketplace             | In economics, market means exchange arrangement, physical or non-physical.        |
+| Calling every government action macroeconomics         | Micro/macro depends on level of analysis, not who acts.                           |
 | Treating positive and normative as completely separate | They are related, but the distinction helps clarify analysis and value judgement. |
 
 ---
@@ -965,44 +966,44 @@ Microeconomics studies the behaviour of individual economic agents such as consu
 
 ## 12.1 Scarcity Chain
 
-| Step | Meaning |
-| --- | --- |
-| Wants | People need many goods and services. |
-| Resources | Inputs are limited. |
-| Scarcity | Wants exceed resources. |
-| Choice | Alternatives must be selected. |
+| Step             | Meaning                               |
+| ---------------- | ------------------------------------- |
+| Wants            | People need many goods and services.  |
+| Resources        | Inputs are limited.                   |
+| Scarcity         | Wants exceed resources.               |
+| Choice           | Alternatives must be selected.        |
 | Opportunity cost | One option is sacrificed for another. |
 
 ## 12.2 PPF Points
 
-| Point Location | Meaning |
-| --- | --- |
-| On PPF | Efficient and attainable. |
-| Inside PPF | Attainable but inefficient. |
-| Outside PPF | Unattainable with current resources and technology. |
+| Point Location | Meaning                                             |
+| -------------- | --------------------------------------------------- |
+| On PPF         | Efficient and attainable.                           |
+| Inside PPF     | Attainable but inefficient.                         |
+| Outside PPF    | Unattainable with current resources and technology. |
 
 ## 12.3 Central Problems
 
-| Problem | Short Meaning |
-| --- | --- |
-| What to produce? | Which goods and how much. |
-| How to produce? | Which resources and technology. |
-| For whom to produce? | How output is distributed. |
+| Problem              | Short Meaning                   |
+| -------------------- | ------------------------------- |
+| What to produce?     | Which goods and how much.       |
+| How to produce?      | Which resources and technology. |
+| For whom to produce? | How output is distributed.      |
 
 ## 12.4 Economy Types
 
-| Economy Type | Main Coordinator |
-| --- | --- |
+| Economy Type      | Main Coordinator             |
+| ----------------- | ---------------------------- |
 | Centrally planned | Government/central authority |
-| Market economy | Market and price signals |
-| Mixed economy | Both government and market |
+| Market economy    | Market and price signals     |
+| Mixed economy     | Both government and market   |
 
 ## 12.5 Positive and Normative
 
-| Statement Type | Keyword Test |
-| --- | --- |
-| Positive | is, does, causes, leads to, will happen |
-| Normative | should, ought to, desirable, better, fair |
+| Statement Type | Keyword Test                              |
+| -------------- | ----------------------------------------- |
+| Positive       | is, does, causes, leads to, will happen   |
+| Normative      | should, ought to, desirable, better, fair |
 
 ---
 

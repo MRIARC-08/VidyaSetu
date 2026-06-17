@@ -26,33 +26,33 @@ By the end of this chapter, you should be able to:
 
 ## Texts Covered
 
-| Text | Writer | Form | Main Focus |
-|---|---|---|---|
+| Text                                | Writer         | Form                      | Main Focus                                            |
+| ----------------------------------- | -------------- | ------------------------- | ----------------------------------------------------- |
 | Discovering Tut: the Saga Continues | A. R. Williams | Informative prose article | Archaeology, technology, death mystery, ancient Egypt |
-| The Laburnum Top | Ted Hughes | Poem | Tree, bird, movement, sound, life energy |
-| The Voice of the Rain | Walt Whitman | Poem | Rain, nature, water cycle, poetry, renewal |
+| The Laburnum Top                    | Ted Hughes     | Poem                      | Tree, bird, movement, sound, life energy              |
+| The Voice of the Rain               | Walt Whitman   | Poem                      | Rain, nature, water cycle, poetry, renewal            |
 
 ## Core Vocabulary
 
-| Word or Phrase | Meaning |
-|---|---|
-| Forensic reconstruction | Rebuilding details of a body or face using scientific evidence |
-| Funerary treasures | Valuable objects buried with the dead |
-| Scudded across | Moved quickly, especially clouds across the sky |
-| Circumvented | Found a way around an obstacle or rule |
-| Casket grey | Grey like a coffin or burial box |
-| Computed tomography | CT scan; imaging method using many X-rays to create cross-section images |
-| Resurrection | Rising again after death |
-| Eerie detail | Strange, unsettling detail |
-| Pharaoh | Ancient Egyptian ruler |
-| Mummy | Preserved dead body |
-| Artefact | Object made by humans, especially of historical value |
-| Resin | Sticky natural substance used in ancient embalming |
-| Dynasty | Line of rulers from the same family |
-| Laburnum | Tree with yellow flowers and hanging branches |
-| Goldfinch | Small bird with yellow markings |
-| Impalpable | Unable to be touched |
-| Latent | Hidden, present but not yet active |
+| Word or Phrase          | Meaning                                                                  |
+| ----------------------- | ------------------------------------------------------------------------ |
+| Forensic reconstruction | Rebuilding details of a body or face using scientific evidence           |
+| Funerary treasures      | Valuable objects buried with the dead                                    |
+| Scudded across          | Moved quickly, especially clouds across the sky                          |
+| Circumvented            | Found a way around an obstacle or rule                                   |
+| Casket grey             | Grey like a coffin or burial box                                         |
+| Computed tomography     | CT scan; imaging method using many X-rays to create cross-section images |
+| Resurrection            | Rising again after death                                                 |
+| Eerie detail            | Strange, unsettling detail                                               |
+| Pharaoh                 | Ancient Egyptian ruler                                                   |
+| Mummy                   | Preserved dead body                                                      |
+| Artefact                | Object made by humans, especially of historical value                    |
+| Resin                   | Sticky natural substance used in ancient embalming                       |
+| Dynasty                 | Line of rulers from the same family                                      |
+| Laburnum                | Tree with yellow flowers and hanging branches                            |
+| Goldfinch               | Small bird with yellow markings                                          |
+| Impalpable              | Unable to be touched                                                     |
+| Latent                  | Hidden, present but not yet active                                       |
 
 ## Part A: Discovering Tut
 
@@ -290,14 +290,14 @@ The image gives the article a solemn and poetic ending.
 
 ## 16. Key Ideas in Discovering Tut
 
-| Idea | Explanation |
-|---|---|
-| Mystery | Tut's death remains a question that attracts investigation |
-| Technology | CT scans help study the mummy without major damage |
-| Respect | The dead must be studied carefully and ethically |
-| Change in archaeology | Modern archaeology values context and science, not only treasure |
-| Ancient belief | Treasures and burial rituals show belief in afterlife |
-| Historical restoration | Tut restored worship of Amun after Akhenaten |
+| Idea                   | Explanation                                                      |
+| ---------------------- | ---------------------------------------------------------------- |
+| Mystery                | Tut's death remains a question that attracts investigation       |
+| Technology             | CT scans help study the mummy without major damage               |
+| Respect                | The dead must be studied carefully and ethically                 |
+| Change in archaeology  | Modern archaeology values context and science, not only treasure |
+| Ancient belief         | Treasures and burial rituals show belief in afterlife            |
+| Historical restoration | Tut restored worship of Amun after Akhenaten                     |
 
 ## 17. Understanding the Text: Reasons
 
@@ -405,32 +405,32 @@ Languages and dialects can be preserved by:
 
 ## 23. Word Combinations from Discovering Tut
 
-| Combination | Explanation |
-|---|---|
-| Ghostly dust devils | Dust spirals in the desert that appear strange or ghost-like |
-| Desert sky | Sky above the dry desert landscape |
-| Stunning artefacts | Beautiful historical objects that amaze viewers |
-| Funerary treasures | Valuable objects placed in a tomb for burial rituals |
-| Scientific detachment | Objective, unemotional attitude in scientific reporting |
-| Dark-bellied clouds | Clouds dark underneath, suggesting storm or heaviness |
-| Casket grey | Grey colour associated with death and burial |
-| Eternal brilliance | Lasting shine, especially of gold |
-| Ritual resins | Resins used in burial and mummification rites |
-| Virtual body | Digital reconstruction of the body through imaging |
+| Combination           | Explanation                                                  |
+| --------------------- | ------------------------------------------------------------ |
+| Ghostly dust devils   | Dust spirals in the desert that appear strange or ghost-like |
+| Desert sky            | Sky above the dry desert landscape                           |
+| Stunning artefacts    | Beautiful historical objects that amaze viewers              |
+| Funerary treasures    | Valuable objects placed in a tomb for burial rituals         |
+| Scientific detachment | Objective, unemotional attitude in scientific reporting      |
+| Dark-bellied clouds   | Clouds dark underneath, suggesting storm or heaviness        |
+| Casket grey           | Grey colour associated with death and burial                 |
+| Eternal brilliance    | Lasting shine, especially of gold                            |
+| Ritual resins         | Resins used in burial and mummification rites                |
+| Virtual body          | Digital reconstruction of the body through imaging           |
 
 ## 24. Common Medical Terms
 
-| Term | Meaning |
-|---|---|
-| CT scan | Imaging method using X-rays to produce cross-section images |
-| MRI | Imaging method using magnetic fields and radio waves |
-| Tomography | Imaging by sections or slices |
-| Autopsy | Medical examination of a dead body to find cause of death |
-| Dialysis | Medical process that filters blood when kidneys cannot do so properly |
-| ECG | Test that records electrical activity of the heart |
-| Post mortem | Examination after death |
-| Angiography | Imaging of blood vessels |
-| Biopsy | Examination of tissue removed from the body |
+| Term        | Meaning                                                               |
+| ----------- | --------------------------------------------------------------------- |
+| CT scan     | Imaging method using X-rays to produce cross-section images           |
+| MRI         | Imaging method using magnetic fields and radio waves                  |
+| Tomography  | Imaging by sections or slices                                         |
+| Autopsy     | Medical examination of a dead body to find cause of death             |
+| Dialysis    | Medical process that filters blood when kidneys cannot do so properly |
+| ECG         | Test that records electrical activity of the heart                    |
+| Post mortem | Examination after death                                               |
+| Angiography | Imaging of blood vessels                                              |
+| Biopsy      | Examination of tissue removed from the body                           |
 
 ## Part B: The Laburnum Top
 
@@ -456,11 +456,11 @@ The poem shows how one small bird can transform a quiet tree into a living, musi
 
 ## 27. Structure of the Poem
 
-| Stage | Mood |
-|---|---|
+| Stage     | Mood                             |
+| --------- | -------------------------------- |
 | Beginning | Silence, stillness, yellow light |
-| Middle | Sudden movement, sound, energy |
-| Ending | Silence and emptiness return |
+| Middle    | Sudden movement, sound, energy   |
+| Ending    | Silence and emptiness return     |
 
 The poem begins and ends in stillness. The middle is full of life.
 
@@ -529,13 +529,13 @@ The dominant colour is yellow or gold.
 
 ## 32. Themes in The Laburnum Top
 
-| Theme | Explanation |
-|---|---|
-| Nature's hidden life | A silent tree contains a lively bird family |
-| Motherhood | The goldfinch feeds and energizes her young |
-| Transformation | Stillness becomes motion when the bird arrives |
-| Sound and silence | The poem contrasts quiet with sudden noise |
-| Interdependence | The tree shelters the bird; the bird gives the tree life |
+| Theme                | Explanation                                              |
+| -------------------- | -------------------------------------------------------- |
+| Nature's hidden life | A silent tree contains a lively bird family              |
+| Motherhood           | The goldfinch feeds and energizes her young              |
+| Transformation       | Stillness becomes motion when the bird arrives           |
+| Sound and silence    | The poem contrasts quiet with sudden noise               |
+| Interdependence      | The tree shelters the bird; the bird gives the tree life |
 
 ## 33. Answers: The Laburnum Top
 
@@ -714,14 +714,14 @@ Pairs include rise and descend, day and night, land and sea, changed and same, h
 
 ## 44. Comparison of the Two Poems
 
-| Point | The Laburnum Top | The Voice of the Rain |
-|---|---|---|
-| Main image | Tree and goldfinch | Rain and earth |
-| Movement | Bird enters and leaves | Rain rises and descends |
-| Main contrast | Silence and sound | Earth and sky |
-| Nature idea | Hidden life in a tree | Water cycle and renewal |
-| Dominant technique | Imagery of sound and movement | Personification |
-| Mood | Sudden, lively, delicate | Reflective, musical, philosophical |
+| Point              | The Laburnum Top              | The Voice of the Rain              |
+| ------------------ | ----------------------------- | ---------------------------------- |
+| Main image         | Tree and goldfinch            | Rain and earth                     |
+| Movement           | Bird enters and leaves        | Rain rises and descends            |
+| Main contrast      | Silence and sound             | Earth and sky                      |
+| Nature idea        | Hidden life in a tree         | Water cycle and renewal            |
+| Dominant technique | Imagery of sound and movement | Personification                    |
+| Mood               | Sudden, lively, delicate      | Reflective, musical, philosophical |
 
 ## 45. Common Mistakes
 
@@ -804,4 +804,3 @@ Discovering Tut: the Saga Continues is an article about King Tutankhamun and the
 The Laburnum Top by Ted Hughes describes a silent tree that becomes alive when a goldfinch enters it. The bird feeds her young, and the whole tree fills with movement and sound. When she leaves, silence returns. The poem uses sound imagery, movement imagery, and the engine metaphor to show hidden life in nature.
 
 The Voice of the Rain by Walt Whitman personifies rain. The rain explains that it rises from land and sea, changes form, returns to earth, washes and nourishes, and gives life back to its origin. The poem connects the water cycle with poetry and music. Together, the three texts show the value of scientific curiosity, cultural memory, and close attention to nature.
-

@@ -1,34 +1,35 @@
 # Chapter 13: Our Environment
+
 ### NCERT Class 10 - Science
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 10 |
-| **Subject** | Science |
-| **Chapter** | 13 |
-| **Core Theme** | How living and non-living components interact in ecosystems, how energy flows through food chains, and how human activities affect the environment. |
-| **Main Skills** | Identifying ecosystem components, constructing food chains, explaining trophic levels, analysing biomagnification, ozone depletion, and waste management. |
-| **Key Environmental Concerns** | Ozone layer depletion, pesticide accumulation, biodegradable and non-biodegradable waste, overloading waste systems. |
+| Detail                         | Learner-Friendly Information                                                                                                                              |
+| ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Class**                      | 10                                                                                                                                                        |
+| **Subject**                    | Science                                                                                                                                                   |
+| **Chapter**                    | 13                                                                                                                                                        |
+| **Core Theme**                 | How living and non-living components interact in ecosystems, how energy flows through food chains, and how human activities affect the environment.       |
+| **Main Skills**                | Identifying ecosystem components, constructing food chains, explaining trophic levels, analysing biomagnification, ozone depletion, and waste management. |
+| **Key Environmental Concerns** | Ozone layer depletion, pesticide accumulation, biodegradable and non-biodegradable waste, overloading waste systems.                                      |
 
 ---
 
 ## Section Structure
 
-| Unit | Topic | Main Learning Focus |
-|---|---|---|
-| **13A** | Environment and Ecosystem | Meaning of environment, ecosystem, biotic and abiotic components. |
-| **13B** | Producers, Consumers, Decomposers | Feeding relationships and ecological roles. |
-| **13C** | Food Chains and Trophic Levels | Stepwise transfer of food and energy. |
-| **13D** | Energy Flow and Food Webs | 1 percent capture, 10 percent transfer, unidirectional energy flow. |
-| **13E** | Biological Magnification | Accumulation of non-biodegradable chemicals in food chains. |
-| **13F** | Human Activities and Environment | Pollution, chemicals, waste disposal, ecosystem imbalance. |
-| **13G** | Ozone Layer Depletion | Ozone formation, UV protection, CFC damage, control measures. |
-| **13H** | Managing Garbage | Biodegradable and non-biodegradable waste, segregation, disposal. |
-| **13I** | Solved Questions | In-text questions and exercise solutions. |
+| Unit    | Topic                             | Main Learning Focus                                                 |
+| ------- | --------------------------------- | ------------------------------------------------------------------- |
+| **13A** | Environment and Ecosystem         | Meaning of environment, ecosystem, biotic and abiotic components.   |
+| **13B** | Producers, Consumers, Decomposers | Feeding relationships and ecological roles.                         |
+| **13C** | Food Chains and Trophic Levels    | Stepwise transfer of food and energy.                               |
+| **13D** | Energy Flow and Food Webs         | 1 percent capture, 10 percent transfer, unidirectional energy flow. |
+| **13E** | Biological Magnification          | Accumulation of non-biodegradable chemicals in food chains.         |
+| **13F** | Human Activities and Environment  | Pollution, chemicals, waste disposal, ecosystem imbalance.          |
+| **13G** | Ozone Layer Depletion             | Ozone formation, UV protection, CFC damage, control measures.       |
+| **13H** | Managing Garbage                  | Biodegradable and non-biodegradable waste, segregation, disposal.   |
+| **13I** | Solved Questions                  | In-text questions and exercise solutions.                           |
 
 ---
 
@@ -36,47 +37,47 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Define ecosystem** | Explain how living organisms and physical surroundings form an interacting system. |
-| **Classify components** | Separate biotic and abiotic components of an ecosystem. |
-| **Identify roles** | Distinguish producers, consumers, and decomposers. |
-| **Build food chains** | Arrange organisms in feeding order and label trophic levels. |
-| **Explain food webs** | Show how multiple food chains connect in nature. |
-| **Explain energy flow** | Describe why energy flow is unidirectional and why food chains are short. |
-| **Use the 10 percent law** | Explain why only a small fraction of energy reaches the next trophic level. |
-| **Explain biomagnification** | Describe accumulation of harmful chemicals at higher trophic levels. |
-| **Explain ozone depletion** | Describe ozone layer function, CFC damage, and protection steps. |
-| **Classify waste** | Distinguish biodegradable and non-biodegradable substances. |
-| **Suggest waste solutions** | Recommend practical ways to reduce waste disposal problems. |
+| Outcome                      | You Should Be Able To...                                                           |
+| ---------------------------- | ---------------------------------------------------------------------------------- |
+| **Define ecosystem**         | Explain how living organisms and physical surroundings form an interacting system. |
+| **Classify components**      | Separate biotic and abiotic components of an ecosystem.                            |
+| **Identify roles**           | Distinguish producers, consumers, and decomposers.                                 |
+| **Build food chains**        | Arrange organisms in feeding order and label trophic levels.                       |
+| **Explain food webs**        | Show how multiple food chains connect in nature.                                   |
+| **Explain energy flow**      | Describe why energy flow is unidirectional and why food chains are short.          |
+| **Use the 10 percent law**   | Explain why only a small fraction of energy reaches the next trophic level.        |
+| **Explain biomagnification** | Describe accumulation of harmful chemicals at higher trophic levels.               |
+| **Explain ozone depletion**  | Describe ozone layer function, CFC damage, and protection steps.                   |
+| **Classify waste**           | Distinguish biodegradable and non-biodegradable substances.                        |
+| **Suggest waste solutions**  | Recommend practical ways to reduce waste disposal problems.                        |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Environment** | All physical, chemical, and biological surroundings of an organism. |
-| **Ecosystem** | System formed by living organisms and non-living surroundings interacting in an area. |
-| **Biotic components** | Living parts of an ecosystem, such as plants, animals, fungi, and microorganisms. |
-| **Abiotic components** | Non-living factors, such as air, water, soil, minerals, temperature, rainfall, and sunlight. |
-| **Natural ecosystem** | Ecosystem formed naturally, such as forest, pond, lake, grassland, or ocean. |
-| **Artificial ecosystem** | Human-made ecosystem, such as aquarium, garden, or crop field. |
-| **Producer** | Organism that makes food from inorganic substances, usually by photosynthesis. |
-| **Consumer** | Organism that depends directly or indirectly on producers for food. |
-| **Herbivore** | Consumer that eats plants. |
-| **Carnivore** | Consumer that eats other animals. |
-| **Omnivore** | Consumer that eats both plants and animals. |
-| **Parasite** | Organism that obtains nutrition from another living organism and harms it. |
-| **Decomposer** | Organism, mainly bacteria or fungi, that breaks down dead bodies and wastes. |
-| **Food chain** | Series of organisms in which each organism is eaten by the next. |
-| **Food web** | Network of interconnected food chains. |
-| **Trophic level** | Feeding level in a food chain. |
+| Term                         | Meaning                                                                                         |
+| ---------------------------- | ----------------------------------------------------------------------------------------------- |
+| **Environment**              | All physical, chemical, and biological surroundings of an organism.                             |
+| **Ecosystem**                | System formed by living organisms and non-living surroundings interacting in an area.           |
+| **Biotic components**        | Living parts of an ecosystem, such as plants, animals, fungi, and microorganisms.               |
+| **Abiotic components**       | Non-living factors, such as air, water, soil, minerals, temperature, rainfall, and sunlight.    |
+| **Natural ecosystem**        | Ecosystem formed naturally, such as forest, pond, lake, grassland, or ocean.                    |
+| **Artificial ecosystem**     | Human-made ecosystem, such as aquarium, garden, or crop field.                                  |
+| **Producer**                 | Organism that makes food from inorganic substances, usually by photosynthesis.                  |
+| **Consumer**                 | Organism that depends directly or indirectly on producers for food.                             |
+| **Herbivore**                | Consumer that eats plants.                                                                      |
+| **Carnivore**                | Consumer that eats other animals.                                                               |
+| **Omnivore**                 | Consumer that eats both plants and animals.                                                     |
+| **Parasite**                 | Organism that obtains nutrition from another living organism and harms it.                      |
+| **Decomposer**               | Organism, mainly bacteria or fungi, that breaks down dead bodies and wastes.                    |
+| **Food chain**               | Series of organisms in which each organism is eaten by the next.                                |
+| **Food web**                 | Network of interconnected food chains.                                                          |
+| **Trophic level**            | Feeding level in a food chain.                                                                  |
 | **Biological magnification** | Increase in concentration of non-biodegradable harmful substances at successive trophic levels. |
-| **Ozone** | Molecule of three oxygen atoms, written as `O3`. |
-| **CFCs** | Chlorofluorocarbons; chemicals linked to ozone layer depletion. |
-| **Biodegradable** | Substance that can be broken down by biological processes. |
-| **Non-biodegradable** | Substance that cannot be broken down easily by biological processes. |
+| **Ozone**                    | Molecule of three oxygen atoms, written as `O3`.                                                |
+| **CFCs**                     | Chlorofluorocarbons; chemicals linked to ozone layer depletion.                                 |
+| **Biodegradable**            | Substance that can be broken down by biological processes.                                      |
+| **Non-biodegradable**        | Substance that cannot be broken down easily by biological processes.                            |
 
 ---
 
@@ -88,11 +89,11 @@ Environment means the surroundings in which organisms live.
 
 It includes:
 
-| Component | Examples |
-|---|---|
-| Living things | Plants, animals, humans, bacteria, fungi. |
-| Non-living things | Air, water, soil, sunlight, temperature, minerals. |
-| Human-made surroundings | Houses, roads, farms, industries, waste systems. |
+| Component               | Examples                                           |
+| ----------------------- | -------------------------------------------------- |
+| Living things           | Plants, animals, humans, bacteria, fungi.          |
+| Non-living things       | Air, water, soil, sunlight, temperature, minerals. |
+| Human-made surroundings | Houses, roads, farms, industries, waste systems.   |
 
 The environment is not only a background. It actively affects living organisms, and organisms also change it.
 
@@ -102,23 +103,23 @@ An ecosystem is formed when living organisms in an area interact with one anothe
 
 Examples:
 
-| Ecosystem | Type | Main Components |
-|---|---|---|
-| Forest | Natural | Trees, animals, soil, rainfall, microorganisms. |
-| Pond | Natural | Aquatic plants, fish, insects, water, sunlight, dissolved oxygen. |
-| Lake | Natural | Water, algae, fish, birds, decomposers, minerals. |
-| Garden | Artificial or human-managed | Grass, flowers, insects, birds, soil, water. |
-| Crop field | Artificial | Crop plants, weeds, insects, soil, irrigation, fertilisers. |
-| Aquarium | Artificial | Fish, water, oxygen pump, aquatic plants, food, decomposers if present. |
+| Ecosystem  | Type                        | Main Components                                                         |
+| ---------- | --------------------------- | ----------------------------------------------------------------------- |
+| Forest     | Natural                     | Trees, animals, soil, rainfall, microorganisms.                         |
+| Pond       | Natural                     | Aquatic plants, fish, insects, water, sunlight, dissolved oxygen.       |
+| Lake       | Natural                     | Water, algae, fish, birds, decomposers, minerals.                       |
+| Garden     | Artificial or human-managed | Grass, flowers, insects, birds, soil, water.                            |
+| Crop field | Artificial                  | Crop plants, weeds, insects, soil, irrigation, fertilisers.             |
+| Aquarium   | Artificial                  | Fish, water, oxygen pump, aquatic plants, food, decomposers if present. |
 
 ## Biotic and Abiotic Components
 
 Every ecosystem has two broad types of components.
 
-| Component Type | Meaning | Examples |
-|---|---|---|
-| Biotic | Living components | Plants, animals, fungi, bacteria. |
-| Abiotic | Non-living components | Air, water, soil, temperature, minerals, rainfall, wind, sunlight. |
+| Component Type | Meaning               | Examples                                                           |
+| -------------- | --------------------- | ------------------------------------------------------------------ |
+| Biotic         | Living components     | Plants, animals, fungi, bacteria.                                  |
+| Abiotic        | Non-living components | Air, water, soil, temperature, minerals, rainfall, wind, sunlight. |
 
 The growth, reproduction, movement, and survival of organisms depend on both biotic and abiotic components.
 
@@ -128,15 +129,15 @@ An aquarium is a useful example because it shows how a system needs balance.
 
 For fish to survive, an aquarium needs:
 
-| Need | Why It Is Required |
-|---|---|
-| Water | Medium in which fish live. |
-| Space | Allows movement and reduces stress. |
-| Oxygen | Needed for respiration. |
-| Food | Provides energy and materials for growth. |
-| Aquatic plants | Can release oxygen and provide shelter. |
-| Decomposers | Help break down wastes and dead matter. |
-| Cleaning | Prevents waste build-up if the system is not self-sustaining. |
+| Need           | Why It Is Required                                            |
+| -------------- | ------------------------------------------------------------- |
+| Water          | Medium in which fish live.                                    |
+| Space          | Allows movement and reduces stress.                           |
+| Oxygen         | Needed for respiration.                                       |
+| Food           | Provides energy and materials for growth.                     |
+| Aquatic plants | Can release oxygen and provide shelter.                       |
+| Decomposers    | Help break down wastes and dead matter.                       |
+| Cleaning       | Prevents waste build-up if the system is not self-sustaining. |
 
 Natural ponds and lakes do not need cleaning in the same way because they usually have larger, more balanced systems with producers, consumers, decomposers, and natural circulation.
 
@@ -176,12 +177,12 @@ Consumers cannot make their own food from inorganic materials.
 
 They depend directly or indirectly on producers.
 
-| Consumer Type | Food Source | Example |
-|---|---|---|
-| Herbivore | Plants | Deer, goat, rabbit, grasshopper. |
-| Carnivore | Animals | Lion, snake, frog, eagle. |
-| Omnivore | Plants and animals | Human, crow, bear. |
-| Parasite | Host organism | Tapeworm, lice, Cuscuta. |
+| Consumer Type | Food Source        | Example                          |
+| ------------- | ------------------ | -------------------------------- |
+| Herbivore     | Plants             | Deer, goat, rabbit, grasshopper. |
+| Carnivore     | Animals            | Lion, snake, frog, eagle.        |
+| Omnivore      | Plants and animals | Human, crow, bear.               |
+| Parasite      | Host organism      | Tapeworm, lice, Cuscuta.         |
 
 ## Decomposers
 
@@ -196,13 +197,13 @@ They convert complex organic substances into simpler inorganic substances that r
 
 ## Role of Decomposers
 
-| Role | Importance |
-|---|---|
-| Break down dead bodies | Prevents accumulation of dead plants and animals. |
-| Break down wastes | Helps clean the environment naturally. |
-| Recycle nutrients | Returns minerals to soil for plants. |
-| Maintain soil fertility | Supports growth of producers. |
-| Complete material cycles | Keeps ecosystem functioning. |
+| Role                     | Importance                                        |
+| ------------------------ | ------------------------------------------------- |
+| Break down dead bodies   | Prevents accumulation of dead plants and animals. |
+| Break down wastes        | Helps clean the environment naturally.            |
+| Recycle nutrients        | Returns minerals to soil for plants.              |
+| Maintain soil fertility  | Supports growth of producers.                     |
+| Complete material cycles | Keeps ecosystem functioning.                      |
 
 If decomposers were absent, dead organisms and wastes would accumulate and nutrients would not return to soil efficiently.
 
@@ -230,22 +231,22 @@ This means:
 
 Each step in a food chain is called a trophic level.
 
-| Trophic Level | Organism Type | Example in Chain |
-|---|---|---|
-| First trophic level | Producer | Grass |
-| Second trophic level | Primary consumer or herbivore | Grasshopper |
-| Third trophic level | Secondary consumer | Frog |
-| Fourth trophic level | Tertiary consumer | Snake |
-| Fifth trophic level | Top consumer | Eagle |
+| Trophic Level        | Organism Type                 | Example in Chain |
+| -------------------- | ----------------------------- | ---------------- |
+| First trophic level  | Producer                      | Grass            |
+| Second trophic level | Primary consumer or herbivore | Grasshopper      |
+| Third trophic level  | Secondary consumer            | Frog             |
+| Fourth trophic level | Tertiary consumer             | Snake            |
+| Fifth trophic level  | Top consumer                  | Eagle            |
 
 ## More Examples of Food Chains
 
-| Ecosystem | Food Chain |
-|---|---|
-| Grassland | Grass -> Deer -> Tiger |
-| Pond | Phytoplankton -> Zooplankton -> Small fish -> Large fish |
-| Crop field | Wheat -> Rat -> Snake -> Eagle |
-| Forest | Leaves -> Caterpillar -> Bird -> Hawk |
+| Ecosystem  | Food Chain                                               |
+| ---------- | -------------------------------------------------------- |
+| Grassland  | Grass -> Deer -> Tiger                                   |
+| Pond       | Phytoplankton -> Zooplankton -> Small fish -> Large fish |
+| Crop field | Wheat -> Rat -> Snake -> Eagle                           |
+| Forest     | Leaves -> Caterpillar -> Bird -> Hawk                    |
 
 ## Why Producers Form the First Trophic Level
 
@@ -283,13 +284,13 @@ The rest is lost mainly as:
 
 If producers have `10000 units` of energy:
 
-| Trophic Level | Organism Type | Energy Available |
-|---|---|---:|
-| First | Producers | 10000 units |
-| Second | Herbivores | 1000 units |
-| Third | Secondary consumers | 100 units |
-| Fourth | Tertiary consumers | 10 units |
-| Fifth | Top consumers | 1 unit |
+| Trophic Level | Organism Type       | Energy Available |
+| ------------- | ------------------- | ---------------: |
+| First         | Producers           |      10000 units |
+| Second        | Herbivores          |       1000 units |
+| Third         | Secondary consumers |        100 units |
+| Fourth        | Tertiary consumers  |         10 units |
+| Fifth         | Top consumers       |           1 unit |
 
 This explains why long food chains are rare.
 
@@ -315,13 +316,13 @@ A food web is a network of interconnected food chains.
 
 Example:
 
-| Organism | Can Be Eaten By |
-|---|---|
-| Grass | Grasshopper, goat, rabbit. |
-| Grasshopper | Frog, bird. |
-| Frog | Snake, bird. |
-| Snake | Eagle. |
-| Rabbit | Fox, eagle. |
+| Organism    | Can Be Eaten By            |
+| ----------- | -------------------------- |
+| Grass       | Grasshopper, goat, rabbit. |
+| Grasshopper | Frog, bird.                |
+| Frog        | Snake, bird.               |
+| Snake       | Eagle.                     |
+| Rabbit      | Fox, eagle.                |
 
 Food webs make ecosystems more stable than single food chains because organisms may have alternative food sources.
 
@@ -384,14 +385,14 @@ Changes in the environment affect us, and our activities change the environment.
 
 Examples:
 
-| Human Activity | Environmental Effect |
-|---|---|
-| Excess pesticide use | Soil and water contamination, biological magnification. |
-| Burning fossil fuels | Air pollution and greenhouse gas increase. |
-| Cutting forests | Habitat loss, soil erosion, biodiversity loss. |
-| Throwing plastic waste | Soil and water pollution, animal injury. |
-| Untreated sewage | Water pollution and disease spread. |
-| Industrial waste discharge | Toxic pollution of soil and water. |
+| Human Activity             | Environmental Effect                                    |
+| -------------------------- | ------------------------------------------------------- |
+| Excess pesticide use       | Soil and water contamination, biological magnification. |
+| Burning fossil fuels       | Air pollution and greenhouse gas increase.              |
+| Cutting forests            | Habitat loss, soil erosion, biodiversity loss.          |
+| Throwing plastic waste     | Soil and water pollution, animal injury.                |
+| Untreated sewage           | Water pollution and disease spread.                     |
+| Industrial waste discharge | Toxic pollution of soil and water.                      |
 
 ## Two Major Problems Discussed in This Chapter
 
@@ -420,13 +421,13 @@ The ozone layer protects life on Earth by absorbing harmful ultraviolet radiatio
 
 Excess ultraviolet radiation can:
 
-| Effect | Explanation |
-|---|---|
-| Cause skin cancer | UV can damage DNA in skin cells. |
-| Damage eyes | UV exposure can contribute to eye problems. |
-| Harm plants | Photosynthesis and growth can be affected. |
-| Harm aquatic life | Plankton and early life stages of organisms are sensitive. |
-| Disturb ecosystems | Damage to producers affects food chains. |
+| Effect             | Explanation                                                |
+| ------------------ | ---------------------------------------------------------- |
+| Cause skin cancer  | UV can damage DNA in skin cells.                           |
+| Damage eyes        | UV exposure can contribute to eye problems.                |
+| Harm plants        | Photosynthesis and growth can be affected.                 |
+| Harm aquatic life  | Plankton and early life stages of organisms are sensitive. |
+| Disturb ecosystems | Damage to producers affects food chains.                   |
 
 ## Formation of Ozone
 
@@ -477,14 +478,14 @@ So ozone layer protection needs international cooperation.
 
 Daily waste may include:
 
-| Waste Type | Examples |
-|---|---|
-| Kitchen waste | Vegetable peels, spoilt food, tea leaves. |
-| Paper waste | Newspapers, cartons, notebooks. |
-| Plastic waste | Packets, wrappers, bottles, packaging. |
-| Textile waste | Old clothes, torn fabric. |
-| Medical packaging | Strips, bottles, bubble packs. |
-| E-waste | Old phones, batteries, wires, circuit boards. |
+| Waste Type        | Examples                                      |
+| ----------------- | --------------------------------------------- |
+| Kitchen waste     | Vegetable peels, spoilt food, tea leaves.     |
+| Paper waste       | Newspapers, cartons, notebooks.               |
+| Plastic waste     | Packets, wrappers, bottles, packaging.        |
+| Textile waste     | Old clothes, torn fabric.                     |
+| Medical packaging | Strips, bottles, bubble packs.                |
+| E-waste           | Old phones, batteries, wires, circuit boards. |
 
 ## Biodegradable Waste
 
@@ -534,13 +535,13 @@ Biodegradable waste is not always harmless.
 
 If produced in excess or dumped carelessly, it can:
 
-| Effect | Explanation |
-|---|---|
-| Produce foul smell | Rotting organic matter releases unpleasant gases. |
-| Attract pests | Flies, rats, and stray animals may gather. |
-| Spread disease | Pathogens may multiply in waste. |
-| Reduce oxygen in water | Decomposition in water uses dissolved oxygen. |
-| Release methane | Anaerobic decomposition can produce methane. |
+| Effect                 | Explanation                                       |
+| ---------------------- | ------------------------------------------------- |
+| Produce foul smell     | Rotting organic matter releases unpleasant gases. |
+| Attract pests          | Flies, rats, and stray animals may gather.        |
+| Spread disease         | Pathogens may multiply in waste.                  |
+| Reduce oxygen in water | Decomposition in water uses dissolved oxygen.     |
+| Release methane        | Anaerobic decomposition can produce methane.      |
 
 But if managed properly, biodegradable waste can be composted and returned to soil.
 
@@ -548,26 +549,26 @@ But if managed properly, biodegradable waste can be composted and returned to so
 
 Non-biodegradable waste can:
 
-| Effect | Explanation |
-|---|---|
-| Persist for years | It does not decompose easily. |
-| Block drains | Plastic and packaging can clog drainage. |
-| Harm animals | Animals may eat plastic or get trapped. |
-| Pollute soil and water | Chemicals can leach into surroundings. |
+| Effect                         | Explanation                                     |
+| ------------------------------ | ----------------------------------------------- |
+| Persist for years              | It does not decompose easily.                   |
+| Block drains                   | Plastic and packaging can clog drainage.        |
+| Harm animals                   | Animals may eat plastic or get trapped.         |
+| Pollute soil and water         | Chemicals can leach into surroundings.          |
 | Cause biological magnification | Some toxic chemicals accumulate in food chains. |
-| Occupy landfills | Waste volume remains for long periods. |
+| Occupy landfills               | Waste volume remains for long periods.          |
 
 ## Waste Segregation
 
 Waste should be separated at source.
 
-| Waste Category | Treatment |
-|---|---|
-| Wet biodegradable waste | Composting or biogas production. |
-| Dry recyclable waste | Recycling of paper, metal, glass, some plastics. |
-| Hazardous waste | Safe collection and special treatment. |
-| E-waste | Authorised recycling and recovery. |
-| Biomedical waste | Separate safe disposal. |
+| Waste Category          | Treatment                                        |
+| ----------------------- | ------------------------------------------------ |
+| Wet biodegradable waste | Composting or biogas production.                 |
+| Dry recyclable waste    | Recycling of paper, metal, glass, some plastics. |
+| Hazardous waste         | Safe collection and special treatment.           |
+| E-waste                 | Authorised recycling and recovery.               |
+| Biomedical waste        | Separate safe disposal.                          |
 
 ## Reducing Waste Disposal Problem
 
@@ -587,11 +588,11 @@ Useful methods include:
 
 Different disposable cup materials have different environmental costs.
 
-| Cup Type | Advantage | Problem |
-|---|---|---|
-| Plastic cup | Cheap, waterproof | Non-biodegradable and persistent. |
-| Clay kulhad | Biodegradable and traditional | Large-scale production can remove fertile topsoil. |
-| Paper cup | Often more biodegradable than plastic | Uses paper resources and may have coating. |
+| Cup Type    | Advantage                             | Problem                                            |
+| ----------- | ------------------------------------- | -------------------------------------------------- |
+| Plastic cup | Cheap, waterproof                     | Non-biodegradable and persistent.                  |
+| Clay kulhad | Biodegradable and traditional         | Large-scale production can remove fertile topsoil. |
+| Paper cup   | Often more biodegradable than plastic | Uses paper resources and may have coating.         |
 
 The best solution is not only changing material but also reducing unnecessary disposables.
 
@@ -607,12 +608,12 @@ Example:
 
 `Grass -> Grasshopper -> Frog -> Snake`
 
-| Trophic Level | Organism | Role |
-|---|---|---|
-| First | Grass | Producer |
-| Second | Grasshopper | Primary consumer |
-| Third | Frog | Secondary consumer |
-| Fourth | Snake | Tertiary consumer |
+| Trophic Level | Organism    | Role               |
+| ------------- | ----------- | ------------------ |
+| First         | Grass       | Producer           |
+| Second        | Grasshopper | Primary consumer   |
+| Third         | Frog        | Secondary consumer |
+| Fourth        | Snake       | Tertiary consumer  |
 
 ## Question 2: What Is the Role of Decomposers in the Ecosystem?
 
@@ -677,12 +678,12 @@ Other valid methods include composting kitchen waste, recycling paper and metal,
 
 Options:
 
-| Option | Items | Only Biodegradable? |
-|---|---|---|
-| (a) | Grass, flowers, leather | Yes |
-| (b) | Grass, wood, plastic | No, plastic is non-biodegradable |
-| (c) | Fruit peels, cake, lime juice | Yes |
-| (d) | Cake, wood, grass | Yes |
+| Option | Items                         | Only Biodegradable?              |
+| ------ | ----------------------------- | -------------------------------- |
+| (a)    | Grass, flowers, leather       | Yes                              |
+| (b)    | Grass, wood, plastic          | No, plastic is non-biodegradable |
+| (c)    | Fruit peels, cake, lime juice | Yes                              |
+| (d)    | Cake, wood, grass             | Yes                              |
 
 **Answer:** `(a)`, `(c)`, and `(d)`.
 
@@ -690,12 +691,12 @@ Options:
 
 A food chain must show a feeding relationship from producer to consumer.
 
-| Option | Correct? | Reason |
-|---|---|---|
-| (a) Grass, wheat, mango | No | All are producers. |
-| (b) Grass, goat, human | Yes | Grass is eaten by goat, goat products/meat may be consumed by humans. |
-| (c) Goat, cow, elephant | No | These are mostly herbivores; not a feeding chain. |
-| (d) Grass, fish, goat | No | This is not a natural feeding sequence. |
+| Option                  | Correct? | Reason                                                                |
+| ----------------------- | -------- | --------------------------------------------------------------------- |
+| (a) Grass, wheat, mango | No       | All are producers.                                                    |
+| (b) Grass, goat, human  | Yes      | Grass is eaten by goat, goat products/meat may be consumed by humans. |
+| (c) Goat, cow, elephant | No       | These are mostly herbivores; not a feeding chain.                     |
+| (d) Grass, fish, goat   | No       | This is not a natural feeding sequence.                               |
 
 **Answer:** `(b) Grass, goat and human`.
 
@@ -803,22 +804,22 @@ Steps taken to limit damage:
 
 ## Activity 13.1: Observing Environment Around Us
 
-| Task | Learning Point |
-|---|---|
+| Task                                                | Learning Point                                                 |
+| --------------------------------------------------- | -------------------------------------------------------------- |
 | Notice environmental issues in news and daily life. | Environment affects health, climate, farming, and development. |
-| Discuss changes elders mention. | Human activities can change local surroundings over time. |
-| Identify local environmental problems. | Environment is both global and local. |
+| Discuss changes elders mention.                     | Human activities can change local surroundings over time.      |
+| Identify local environmental problems.              | Environment is both global and local.                          |
 
 ## Activity 13.2: Designing an Aquarium
 
-| Requirement | Why It Matters |
-|---|---|
-| Water | Habitat for fish. |
-| Space | Movement and survival. |
-| Oxygen | Respiration. |
-| Food | Energy. |
-| Aquatic plants | Oxygen and shelter. |
-| Cleaning | Prevents waste accumulation in artificial systems. |
+| Requirement    | Why It Matters                                     |
+| -------------- | -------------------------------------------------- |
+| Water          | Habitat for fish.                                  |
+| Space          | Movement and survival.                             |
+| Oxygen         | Respiration.                                       |
+| Food           | Energy.                                            |
+| Aquatic plants | Oxygen and shelter.                                |
+| Cleaning       | Prevents waste accumulation in artificial systems. |
 
 **Conclusion:** An aquarium is a human-made ecosystem that needs balanced components.
 
@@ -837,11 +838,11 @@ Questions to think about:
 
 ## Activity 13.4: Pesticides in Food
 
-| Question | Learner Answer |
-|---|---|
-| Source of pesticides in food? | Pesticides used in agriculture may remain on or inside crops. |
-| Can they enter through other foods? | Yes, through grains, vegetables, fruits, milk, meat, and fish. |
-| How can intake be reduced? | Reduce pesticide use, wash food, peel when suitable, support safer farming, regulate residues. |
+| Question                            | Learner Answer                                                                                 |
+| ----------------------------------- | ---------------------------------------------------------------------------------------------- |
+| Source of pesticides in food?       | Pesticides used in agriculture may remain on or inside crops.                                  |
+| Can they enter through other foods? | Yes, through grains, vegetables, fruits, milk, meat, and fish.                                 |
+| How can intake be reduced?          | Reduce pesticide use, wash food, peel when suitable, support safer farming, regulate residues. |
 
 ## Activity 13.5: Ozone Layer Research
 
@@ -854,14 +855,14 @@ Research points:
 
 ## Activity 13.6: Burying Waste and Observing Change
 
-| Waste Type | Expected Observation |
-|---|---|
-| Vegetable peels | Decompose quickly. |
-| Food waste | Decomposes, may smell if unmanaged. |
-| Paper | Breaks down over time. |
-| Cloth | Natural cloth decomposes slowly; synthetic cloth persists longer. |
-| Plastic packet | Remains mostly unchanged. |
-| Glass or metal | Remains for long time. |
+| Waste Type      | Expected Observation                                              |
+| --------------- | ----------------------------------------------------------------- |
+| Vegetable peels | Decompose quickly.                                                |
+| Food waste      | Decomposes, may smell if unmanaged.                               |
+| Paper           | Breaks down over time.                                            |
+| Cloth           | Natural cloth decomposes slowly; synthetic cloth persists longer. |
+| Plastic packet  | Remains mostly unchanged.                                         |
+| Glass or metal  | Remains for long time.                                            |
 
 **Conclusion:** Some substances are biodegradable, others are non-biodegradable.
 
@@ -869,10 +870,10 @@ Research points:
 
 Useful record table:
 
-| Place | Total Waste | Biodegradable Waste | Non-Biodegradable Waste | Suggested Action |
-|---|---:|---:|---:|---|
-| Home | Measure daily | Kitchen waste | Plastic, metal, glass | Segregate, compost, recycle. |
-| Classroom | Measure daily | Paper, food scraps | Wrappers, pens | Reduce wrappers, collect paper. |
+| Place     |   Total Waste | Biodegradable Waste | Non-Biodegradable Waste | Suggested Action                |
+| --------- | ------------: | ------------------: | ----------------------: | ------------------------------- |
+| Home      | Measure daily |       Kitchen waste |   Plastic, metal, glass | Segregate, compost, recycle.    |
+| Classroom | Measure daily |  Paper, food scraps |          Wrappers, pens | Reduce wrappers, collect paper. |
 
 ## Activity 13.8: Sewage and Industrial Waste
 
@@ -887,12 +888,12 @@ Questions:
 
 ## Activity 13.9: E-Waste and Plastic Recycling
 
-| Waste | Environmental Concern |
-|---|---|
-| Batteries | Heavy metals and toxic chemicals. |
-| Circuit boards | Metals and chemical residues. |
-| Old phones | Plastic, metals, and hazardous components. |
-| Plastics | Sorting and recycling may require energy and can create pollution if unmanaged. |
+| Waste          | Environmental Concern                                                           |
+| -------------- | ------------------------------------------------------------------------------- |
+| Batteries      | Heavy metals and toxic chemicals.                                               |
+| Circuit boards | Metals and chemical residues.                                                   |
+| Old phones     | Plastic, metals, and hazardous components.                                      |
+| Plastics       | Sorting and recycling may require energy and can create pollution if unmanaged. |
 
 **Conclusion:** E-waste and plastic should be handled through authorised systems, not mixed with ordinary garbage.
 
@@ -900,18 +901,18 @@ Questions:
 
 # Unit 13L: Common Mistakes and Corrections
 
-| Mistake | Correct Understanding |
-|---|---|
-| Calling only animals biotic components. | Plants, animals, fungi, bacteria, and humans are all biotic. |
+| Mistake                                                           | Correct Understanding                                                       |
+| ----------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| Calling only animals biotic components.                           | Plants, animals, fungi, bacteria, and humans are all biotic.                |
 | Thinking producers are most important only because they are many. | Producers are essential because they introduce food energy into ecosystems. |
-| Treating food chains as isolated in nature. | Most food chains are interconnected as food webs. |
-| Assuming all energy passes to next level. | Only about 10 percent passes to next trophic level. |
-| Saying energy cycles in ecosystem. | Materials cycle, but energy flows in one direction and is lost as heat. |
-| Thinking biodegradable waste has no impact. | Excess biodegradable waste can still pollute and spread disease. |
-| Thinking plastic disappears when broken into pieces. | It may become smaller but can still persist and harm organisms. |
-| Saying ozone is always good. | Ozone high in atmosphere is protective; ground-level ozone can be harmful. |
-| Thinking washing removes all pesticides. | Some chemicals may be absorbed inside tissues. |
-| Calling recycling the only solution. | Reduce and reuse are often better before recycling. |
+| Treating food chains as isolated in nature.                       | Most food chains are interconnected as food webs.                           |
+| Assuming all energy passes to next level.                         | Only about 10 percent passes to next trophic level.                         |
+| Saying energy cycles in ecosystem.                                | Materials cycle, but energy flows in one direction and is lost as heat.     |
+| Thinking biodegradable waste has no impact.                       | Excess biodegradable waste can still pollute and spread disease.            |
+| Thinking plastic disappears when broken into pieces.              | It may become smaller but can still persist and harm organisms.             |
+| Saying ozone is always good.                                      | Ozone high in atmosphere is protective; ground-level ozone can be harmful.  |
+| Thinking washing removes all pesticides.                          | Some chemicals may be absorbed inside tissues.                              |
+| Calling recycling the only solution.                              | Reduce and reuse are often better before recycling.                         |
 
 ---
 
@@ -919,46 +920,46 @@ Questions:
 
 ## Ecosystem Components
 
-| Category | Examples |
-|---|---|
-| Biotic | Plants, animals, fungi, bacteria. |
-| Abiotic | Water, air, soil, minerals, sunlight, temperature. |
+| Category | Examples                                           |
+| -------- | -------------------------------------------------- |
+| Biotic   | Plants, animals, fungi, bacteria.                  |
+| Abiotic  | Water, air, soil, minerals, sunlight, temperature. |
 
 ## Ecological Roles
 
-| Role | Function | Example |
-|---|---|---|
-| Producer | Makes food | Grass, algae, green plants. |
-| Primary consumer | Eats producer | Goat, grasshopper. |
-| Secondary consumer | Eats primary consumer | Frog, small fish. |
-| Tertiary consumer | Eats secondary consumer | Snake, large fish. |
-| Decomposer | Breaks down dead matter | Bacteria, fungi. |
+| Role               | Function                | Example                     |
+| ------------------ | ----------------------- | --------------------------- |
+| Producer           | Makes food              | Grass, algae, green plants. |
+| Primary consumer   | Eats producer           | Goat, grasshopper.          |
+| Secondary consumer | Eats primary consumer   | Frog, small fish.           |
+| Tertiary consumer  | Eats secondary consumer | Snake, large fish.          |
+| Decomposer         | Breaks down dead matter | Bacteria, fungi.            |
 
 ## Energy Flow
 
-| Concept | Remember |
-|---|---|
-| Sunlight captured by plants | About 1 percent. |
-| Energy transferred to next trophic level | About 10 percent. |
-| Direction of energy flow | Unidirectional. |
-| Food chain length | Usually limited to 3 or 4 steps. |
+| Concept                                  | Remember                         |
+| ---------------------------------------- | -------------------------------- |
+| Sunlight captured by plants              | About 1 percent.                 |
+| Energy transferred to next trophic level | About 10 percent.                |
+| Direction of energy flow                 | Unidirectional.                  |
+| Food chain length                        | Usually limited to 3 or 4 steps. |
 
 ## Waste Types
 
-| Waste Type | Breaks Down Biologically? | Examples |
-|---|---|---|
-| Biodegradable | Yes | Food waste, paper, leaves. |
-| Non-biodegradable | No or very slowly | Plastic, glass, metal, many synthetic materials. |
+| Waste Type        | Breaks Down Biologically? | Examples                                         |
+| ----------------- | ------------------------- | ------------------------------------------------ |
+| Biodegradable     | Yes                       | Food waste, paper, leaves.                       |
+| Non-biodegradable | No or very slowly         | Plastic, glass, metal, many synthetic materials. |
 
 ## Ozone Layer
 
-| Point | Remember |
-|---|---|
-| Ozone formula | `O3` |
-| Useful location | Upper atmosphere. |
-| Main function | Absorbs harmful UV radiation. |
-| Damaging chemicals | CFCs and other ozone-depleting substances. |
-| Protection | CFC control, safer alternatives, global agreements. |
+| Point              | Remember                                            |
+| ------------------ | --------------------------------------------------- |
+| Ozone formula      | `O3`                                                |
+| Useful location    | Upper atmosphere.                                   |
+| Main function      | Absorbs harmful UV radiation.                       |
+| Damaging chemicals | CFCs and other ozone-depleting substances.          |
+| Protection         | CFC control, safer alternatives, global agreements. |
 
 ---
 
@@ -983,14 +984,14 @@ Memorise:
 
 Practise:
 
-| Skill | Practice Method |
-|---|---|
-| Food chain construction | Make at least five chains from different ecosystems. |
-| Trophic labels | Label producer, primary consumer, secondary consumer, tertiary consumer. |
-| Energy flow | Calculate 10 percent transfer from one level to another. |
-| Biomagnification | Explain why top consumers have highest chemical concentration. |
-| Waste classification | Sort daily waste into biodegradable, recyclable, hazardous, and residual. |
-| Long answers | Practise ozone depletion and waste management answers in points. |
+| Skill                   | Practice Method                                                           |
+| ----------------------- | ------------------------------------------------------------------------- |
+| Food chain construction | Make at least five chains from different ecosystems.                      |
+| Trophic labels          | Label producer, primary consumer, secondary consumer, tertiary consumer.  |
+| Energy flow             | Calculate 10 percent transfer from one level to another.                  |
+| Biomagnification        | Explain why top consumers have highest chemical concentration.            |
+| Waste classification    | Sort daily waste into biodegradable, recyclable, hazardous, and residual. |
+| Long answers            | Practise ozone depletion and waste management answers in points.          |
 
 ## One-Page Chapter Summary
 

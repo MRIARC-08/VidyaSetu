@@ -2,13 +2,13 @@
 
 ## Chapter Identity
 
-| Item | Details |
-| --- | --- |
-| Class | 12 |
-| Subject | Biology |
-| Chapter | Human Reproduction |
-| Core Skill | Explaining human reproductive organs, gametogenesis, menstrual cycle, fertilisation, implantation, pregnancy, parturition, and lactation |
-| Main Idea | Human reproduction is a coordinated sequence involving gamete formation, fertilisation, embryonic development, birth, and nourishment of the newborn. |
+| Item       | Details                                                                                                                                               |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Class      | 12                                                                                                                                                    |
+| Subject    | Biology                                                                                                                                               |
+| Chapter    | Human Reproduction                                                                                                                                    |
+| Core Skill | Explaining human reproductive organs, gametogenesis, menstrual cycle, fertilisation, implantation, pregnancy, parturition, and lactation              |
+| Main Idea  | Human reproduction is a coordinated sequence involving gamete formation, fertilisation, embryonic development, birth, and nourishment of the newborn. |
 
 ## 1. Big Picture
 
@@ -36,20 +36,20 @@ The chapter has two main layers:
 
 ## 2. Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Gametogenesis | Formation of gametes. |
-| Spermatogenesis | Formation of sperms in testes. |
-| Oogenesis | Formation of ovum in ovaries. |
-| Insemination | Transfer of semen into female reproductive tract. |
-| Fertilisation | Fusion of sperm and ovum. |
-| Zygote | Diploid cell formed after fertilisation. |
-| Cleavage | Rapid mitotic divisions of zygote. |
-| Blastocyst | Early embryonic stage that implants in uterus. |
-| Implantation | Attachment of blastocyst to uterine wall. |
-| Gestation | Period of pregnancy. |
-| Parturition | Childbirth. |
-| Lactation | Milk production and secretion by mammary glands. |
+| Term            | Meaning                                           |
+| --------------- | ------------------------------------------------- |
+| Gametogenesis   | Formation of gametes.                             |
+| Spermatogenesis | Formation of sperms in testes.                    |
+| Oogenesis       | Formation of ovum in ovaries.                     |
+| Insemination    | Transfer of semen into female reproductive tract. |
+| Fertilisation   | Fusion of sperm and ovum.                         |
+| Zygote          | Diploid cell formed after fertilisation.          |
+| Cleavage        | Rapid mitotic divisions of zygote.                |
+| Blastocyst      | Early embryonic stage that implants in uterus.    |
+| Implantation    | Attachment of blastocyst to uterine wall.         |
+| Gestation       | Period of pregnancy.                              |
+| Parturition     | Childbirth.                                       |
+| Lactation       | Milk production and secretion by mammary glands.  |
 
 ## 3. Male Reproductive System
 
@@ -80,10 +80,10 @@ Seminiferous tubules are the sites of sperm formation.
 
 They contain:
 
-| Cell Type | Function |
-| --- | --- |
+| Cell Type                     | Function                          |
+| ----------------------------- | --------------------------------- |
 | Male germ cells/spermatogonia | Undergo divisions to form sperms. |
-| Sertoli cells | Nourish developing germ cells. |
+| Sertoli cells                 | Nourish developing germ cells.    |
 
 ### Leydig Cells
 
@@ -104,24 +104,24 @@ Seminiferous tubules
 -> outside body
 ```
 
-| Duct | Role |
-| --- | --- |
-| Rete testis | Receives sperm from seminiferous tubules. |
-| Vasa efferentia | Carry sperm from rete testis to epididymis. |
-| Epididymis | Stores and helps mature sperm. |
-| Vas deferens | Transports sperm toward urethra. |
-| Ejaculatory duct | Formed after vas deferens receives duct from seminal vesicle. |
-| Urethra | Common passage for semen and urine, though not at the same time. |
+| Duct             | Role                                                             |
+| ---------------- | ---------------------------------------------------------------- |
+| Rete testis      | Receives sperm from seminiferous tubules.                        |
+| Vasa efferentia  | Carry sperm from rete testis to epididymis.                      |
+| Epididymis       | Stores and helps mature sperm.                                   |
+| Vas deferens     | Transports sperm toward urethra.                                 |
+| Ejaculatory duct | Formed after vas deferens receives duct from seminal vesicle.    |
+| Urethra          | Common passage for semen and urine, though not at the same time. |
 
 ## 6. Male Accessory Glands and External Genitalia
 
 ### Accessory Glands
 
-| Gland | Secretion/Role |
-| --- | --- |
-| Seminal vesicles | Contribute fluid rich in fructose and other substances. |
-| Prostate gland | Adds fluid that supports sperm function. |
-| Bulbourethral glands | Secrete lubricating fluid. |
+| Gland                | Secretion/Role                                          |
+| -------------------- | ------------------------------------------------------- |
+| Seminal vesicles     | Contribute fluid rich in fructose and other substances. |
+| Prostate gland       | Adds fluid that supports sperm function.                |
+| Bulbourethral glands | Secrete lubricating fluid.                              |
 
 The secretions of these glands form seminal plasma. Seminal plasma nourishes, protects, and transports sperms.
 
@@ -157,11 +157,11 @@ The ovary contains follicles at different stages of development. Each follicle m
 
 The oviduct has three main regions:
 
-| Region | Function |
-| --- | --- |
+| Region       | Function                                                            |
+| ------------ | ------------------------------------------------------------------- |
 | Infundibulum | Funnel-shaped part near ovary; has fimbriae that help collect ovum. |
-| Ampulla | Wider region; usual site of fertilisation. |
-| Isthmus | Narrow region joining uterus. |
+| Ampulla      | Wider region; usual site of fertilisation.                          |
+| Isthmus      | Narrow region joining uterus.                                       |
 
 ### Uterus
 
@@ -187,10 +187,10 @@ Milk production after childbirth is important for nutrition and immunity of the 
 
 Gametogenesis means formation of gametes.
 
-| Type | Site | Product |
-| --- | --- | --- |
-| Spermatogenesis | Testes | Sperms |
-| Oogenesis | Ovaries | Ovum |
+| Type            | Site    | Product |
+| --------------- | ------- | ------- |
+| Spermatogenesis | Testes  | Sperms  |
+| Oogenesis       | Ovaries | Ovum    |
 
 ## 12. Spermatogenesis
 
@@ -227,23 +227,23 @@ Spermiation is the release of spermatozoa from Sertoli cells into the lumen of s
 
 Spermatogenesis begins at puberty and is controlled by hormones.
 
-| Hormone | Source | Role |
-| --- | --- | --- |
-| GnRH | Hypothalamus | Stimulates pituitary to release LH and FSH. |
-| LH | Anterior pituitary | Stimulates Leydig cells to produce testosterone. |
-| FSH | Anterior pituitary | Acts on Sertoli cells and supports sperm formation. |
-| Testosterone | Leydig cells | Supports spermatogenesis and male secondary sexual characters. |
+| Hormone      | Source             | Role                                                           |
+| ------------ | ------------------ | -------------------------------------------------------------- |
+| GnRH         | Hypothalamus       | Stimulates pituitary to release LH and FSH.                    |
+| LH           | Anterior pituitary | Stimulates Leydig cells to produce testosterone.               |
+| FSH          | Anterior pituitary | Acts on Sertoli cells and supports sperm formation.            |
+| Testosterone | Leydig cells       | Supports spermatogenesis and male secondary sexual characters. |
 
 ## 14. Structure of Sperm
 
 A human sperm has four main parts:
 
-| Part | Function |
-| --- | --- |
-| Head | Contains haploid nucleus. |
-| Acrosome | Cap-like structure with enzymes that help sperm enter ovum. |
-| Middle piece | Contains mitochondria for energy. |
-| Tail | Helps movement. |
+| Part         | Function                                                    |
+| ------------ | ----------------------------------------------------------- |
+| Head         | Contains haploid nucleus.                                   |
+| Acrosome     | Cap-like structure with enzymes that help sperm enter ovum. |
+| Middle piece | Contains mitochondria for energy.                           |
+| Tail         | Helps movement.                                             |
 
 Sperm must have proper shape and motility for normal fertility.
 
@@ -276,14 +276,14 @@ Polar bodies allow the ovum to retain most cytoplasm while still reducing chromo
 
 ## 16. Spermatogenesis vs Oogenesis
 
-| Basis | Spermatogenesis | Oogenesis |
-| --- | --- | --- |
-| Site | Testes | Ovaries |
-| Begins | At puberty | Before birth |
-| Continuity | Continuous after puberty | Cyclic after puberty |
-| Products from one primary cell | Four functional sperms | One functional ovum and polar bodies |
-| Cytoplasm distribution | Equal | Unequal |
-| Completion | Completed in testes | Meiosis II completes after fertilisation |
+| Basis                          | Spermatogenesis          | Oogenesis                                |
+| ------------------------------ | ------------------------ | ---------------------------------------- |
+| Site                           | Testes                   | Ovaries                                  |
+| Begins                         | At puberty               | Before birth                             |
+| Continuity                     | Continuous after puberty | Cyclic after puberty                     |
+| Products from one primary cell | Four functional sperms   | One functional ovum and polar bodies     |
+| Cytoplasm distribution         | Equal                    | Unequal                                  |
+| Completion                     | Completed in testes      | Meiosis II completes after fertilisation |
 
 ## 17. Menstrual Cycle
 
@@ -293,9 +293,9 @@ The menstrual cycle is the cyclic change in ovaries and uterus of female primate
 
 ### Menarche and Menopause
 
-| Term | Meaning |
-| --- | --- |
-| Menarche | First menstruation at puberty. |
+| Term      | Meaning                                                           |
+| --------- | ----------------------------------------------------------------- |
+| Menarche  | First menstruation at puberty.                                    |
 | Menopause | Natural cessation of menstrual cycles, usually around middle age. |
 
 ## 18. Phases of Menstrual Cycle
@@ -332,12 +332,12 @@ If fertilisation does not occur, corpus luteum degenerates and menstruation begi
 
 ## 19. Hormonal Summary of Menstrual Cycle
 
-| Hormone | Main Role |
-| --- | --- |
-| FSH | Stimulates follicular growth. |
-| LH | Triggers ovulation and supports corpus luteum formation. |
-| Estrogen | Helps regenerate and thicken endometrium. |
-| Progesterone | Maintains endometrium for implantation and pregnancy. |
+| Hormone      | Main Role                                                |
+| ------------ | -------------------------------------------------------- |
+| FSH          | Stimulates follicular growth.                            |
+| LH           | Triggers ovulation and supports corpus luteum formation. |
+| Estrogen     | Helps regenerate and thicken endometrium.                |
+| Progesterone | Maintains endometrium for implantation and pregnancy.    |
 
 ## 20. Fertilisation
 
@@ -363,9 +363,9 @@ Semen deposited in vagina
 Human females produce ova with X chromosome. Human males produce two types of sperms: X-bearing and Y-bearing.
 
 | Fertilising Sperm | Zygote | Child's Genetic Sex |
-| --- | --- | --- |
-| X-bearing sperm | XX | Female |
-| Y-bearing sperm | XY | Male |
+| ----------------- | ------ | ------------------- |
+| X-bearing sperm   | XX     | Female              |
+| Y-bearing sperm   | XY     | Male                |
 
 Therefore, chromosomal sex of the child is determined by the sperm.
 
@@ -388,10 +388,10 @@ Zygote
 
 The blastocyst has:
 
-| Part | Role |
-| --- | --- |
-| Trophoblast | Outer layer; helps implantation and contributes to placenta. |
-| Inner cell mass | Develops into embryo. |
+| Part            | Role                                                         |
+| --------------- | ------------------------------------------------------------ |
+| Trophoblast     | Outer layer; helps implantation and contributes to placenta. |
+| Inner cell mass | Develops into embryo.                                        |
 
 ## 22. Implantation
 
@@ -407,43 +407,43 @@ Placenta is a temporary structure formed between maternal tissue and embryonic t
 
 ### Functions
 
-| Function | Explanation |
-| --- | --- |
-| Nutrition | Transfers nutrients from mother to foetus. |
-| Respiration | Transfers oxygen to foetus and carbon dioxide to mother. |
-| Excretion | Removes foetal wastes. |
-| Endocrine role | Produces hormones that maintain pregnancy. |
+| Function       | Explanation                                              |
+| -------------- | -------------------------------------------------------- |
+| Nutrition      | Transfers nutrients from mother to foetus.               |
+| Respiration    | Transfers oxygen to foetus and carbon dioxide to mother. |
+| Excretion      | Removes foetal wastes.                                   |
+| Endocrine role | Produces hormones that maintain pregnancy.               |
 
 ### Placental Hormones
 
-| Hormone | Importance |
-| --- | --- |
-| hCG | Maintains early pregnancy; detected in pregnancy tests. |
-| hPL | Supports changes in maternal metabolism. |
-| Estrogens | Support uterine and mammary development. |
-| Progesterone | Maintains pregnancy. |
-| Relaxin | Helps prepare for childbirth; secreted later in pregnancy. |
+| Hormone      | Importance                                                 |
+| ------------ | ---------------------------------------------------------- |
+| hCG          | Maintains early pregnancy; detected in pregnancy tests.    |
+| hPL          | Supports changes in maternal metabolism.                   |
+| Estrogens    | Support uterine and mammary development.                   |
+| Progesterone | Maintains pregnancy.                                       |
+| Relaxin      | Helps prepare for childbirth; secreted later in pregnancy. |
 
 ## 24. Embryonic Development
 
 The inner cell mass differentiates into germ layers:
 
-| Germ Layer | Gives Rise To |
-| --- | --- |
-| Ectoderm | Nervous system, skin-related structures. |
-| Mesoderm | Muscles, bones, blood, heart, kidneys, reproductive organs. |
-| Endoderm | Lining of digestive and respiratory tracts and associated glands. |
+| Germ Layer | Gives Rise To                                                     |
+| ---------- | ----------------------------------------------------------------- |
+| Ectoderm   | Nervous system, skin-related structures.                          |
+| Mesoderm   | Muscles, bones, blood, heart, kidneys, reproductive organs.       |
+| Endoderm   | Lining of digestive and respiratory tracts and associated glands. |
 
 ### Major Milestones
 
-| Stage | Important Development |
-| --- | --- |
-| About 1 month | Heart forms. |
-| About 2 months | Limbs and digits develop. |
-| About 3 months | Major organ systems are formed. |
-| About 5 months | First foetal movements may be noticed; hair appears. |
+| Stage          | Important Development                                             |
+| -------------- | ----------------------------------------------------------------- |
+| About 1 month  | Heart forms.                                                      |
+| About 2 months | Limbs and digits develop.                                         |
+| About 3 months | Major organ systems are formed.                                   |
+| About 5 months | First foetal movements may be noticed; hair appears.              |
 | About 6 months | Body is covered with fine hair, eyelids separate, eyelashes form. |
-| About 9 months | Foetus is ready for birth. |
+| About 9 months | Foetus is ready for birth.                                        |
 
 ## 25. Parturition
 
@@ -490,38 +490,38 @@ The first milk produced after childbirth is called colostrum. It is rich in anti
 
 ### Reproductive Events in Order
 
-| Step | Event | Meaning |
-| --- | --- | --- |
-| 1 | Gametogenesis | Formation of sperm and ovum. |
-| 2 | Insemination | Deposition of semen in female tract. |
-| 3 | Fertilisation | Fusion of sperm and ovum. |
-| 4 | Cleavage | Mitotic divisions of zygote. |
-| 5 | Blastocyst formation | Formation of implanting embryo stage. |
-| 6 | Implantation | Blastocyst attaches to uterus. |
-| 7 | Gestation | Pregnancy period. |
-| 8 | Parturition | Birth. |
-| 9 | Lactation | Milk production. |
+| Step | Event                | Meaning                               |
+| ---- | -------------------- | ------------------------------------- |
+| 1    | Gametogenesis        | Formation of sperm and ovum.          |
+| 2    | Insemination         | Deposition of semen in female tract.  |
+| 3    | Fertilisation        | Fusion of sperm and ovum.             |
+| 4    | Cleavage             | Mitotic divisions of zygote.          |
+| 5    | Blastocyst formation | Formation of implanting embryo stage. |
+| 6    | Implantation         | Blastocyst attaches to uterus.        |
+| 7    | Gestation            | Pregnancy period.                     |
+| 8    | Parturition          | Birth.                                |
+| 9    | Lactation            | Milk production.                      |
 
 ### Male and Female Gametes
 
-| Basis | Sperm | Ovum |
-| --- | --- | --- |
-| Size | Small | Large |
-| Motility | Motile | Non-motile |
-| Cytoplasm | Very little | Abundant |
-| Number produced | Millions | Usually one per cycle |
-| Chromosome number | Haploid | Haploid |
+| Basis             | Sperm       | Ovum                  |
+| ----------------- | ----------- | --------------------- |
+| Size              | Small       | Large                 |
+| Motility          | Motile      | Non-motile            |
+| Cytoplasm         | Very little | Abundant              |
+| Number produced   | Millions    | Usually one per cycle |
+| Chromosome number | Haploid     | Haploid               |
 
 ## 28. Common Mistakes and Corrections
 
-| Mistake | Correction |
-| --- | --- |
-| Saying fertilisation occurs in uterus | It usually occurs in the oviduct, especially near the ampullary-isthmic junction. |
-| Saying ovum completes meiosis before fertilisation | Secondary oocyte completes meiosis II only after fertilisation. |
-| Confusing spermiogenesis and spermiation | Spermiogenesis forms sperm from spermatids; spermiation releases sperm from Sertoli cells. |
-| Saying placenta only provides nutrition | Placenta also helps respiration, excretion, and hormone production. |
-| Treating menstruation as a sign of pregnancy | Menstruation usually occurs when fertilisation and implantation do not happen. |
-| Saying mother determines child's chromosomal sex | X or Y sperm from father determines XX or XY zygote. |
+| Mistake                                            | Correction                                                                                 |
+| -------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| Saying fertilisation occurs in uterus              | It usually occurs in the oviduct, especially near the ampullary-isthmic junction.          |
+| Saying ovum completes meiosis before fertilisation | Secondary oocyte completes meiosis II only after fertilisation.                            |
+| Confusing spermiogenesis and spermiation           | Spermiogenesis forms sperm from spermatids; spermiation releases sperm from Sertoli cells. |
+| Saying placenta only provides nutrition            | Placenta also helps respiration, excretion, and hormone production.                        |
+| Treating menstruation as a sign of pregnancy       | Menstruation usually occurs when fertilisation and implantation do not happen.             |
+| Saying mother determines child's chromosomal sex   | X or Y sperm from father determines XX or XY zygote.                                       |
 
 ## 29. Exam Answer Frames
 
@@ -557,23 +557,23 @@ Fertilisation is the fusion of sperm and ovum, usually occurring in the oviduct.
 
 ## 31. Quick Revision Sheet
 
-| Term | One-Line Recall |
-| --- | --- |
-| Scrotum | Maintains lower temperature for sperm formation. |
-| Seminiferous tubules | Site of spermatogenesis. |
-| Sertoli cells | Nourish developing sperm cells. |
-| Leydig cells | Produce testosterone. |
-| Epididymis | Stores and helps mature sperm. |
-| Ampulla | Common site of fertilisation. |
-| Endometrium | Uterine lining for implantation. |
-| Spermiogenesis | Spermatids become spermatozoa. |
-| Spermiation | Sperm released from Sertoli cells. |
-| Ovulation | Release of secondary oocyte. |
-| Corpus luteum | Secretes progesterone. |
-| Blastocyst | Stage that implants in uterus. |
-| Placenta | Exchange and endocrine organ during pregnancy. |
-| Parturition | Childbirth. |
-| Lactation | Milk production. |
+| Term                 | One-Line Recall                                  |
+| -------------------- | ------------------------------------------------ |
+| Scrotum              | Maintains lower temperature for sperm formation. |
+| Seminiferous tubules | Site of spermatogenesis.                         |
+| Sertoli cells        | Nourish developing sperm cells.                  |
+| Leydig cells         | Produce testosterone.                            |
+| Epididymis           | Stores and helps mature sperm.                   |
+| Ampulla              | Common site of fertilisation.                    |
+| Endometrium          | Uterine lining for implantation.                 |
+| Spermiogenesis       | Spermatids become spermatozoa.                   |
+| Spermiation          | Sperm released from Sertoli cells.               |
+| Ovulation            | Release of secondary oocyte.                     |
+| Corpus luteum        | Secretes progesterone.                           |
+| Blastocyst           | Stage that implants in uterus.                   |
+| Placenta             | Exchange and endocrine organ during pregnancy.   |
+| Parturition          | Childbirth.                                      |
+| Lactation            | Milk production.                                 |
 
 ## 32. Final Learning Takeaway
 

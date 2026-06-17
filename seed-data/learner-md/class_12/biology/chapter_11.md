@@ -1,15 +1,16 @@
 # Chapter 11: Organisms and Populations
+
 ### NCERT Class 12 - Biology
 
 ## Chapter at a Glance
 
-| Item | Details |
-|---|---|
-| Main idea | Ecology studies organisms in relation to their environment, and population ecology studies groups of individuals of the same species. |
-| Main levels | Organism, population, community, ecosystem, biome. |
-| Main population features | Density, natality, mortality, immigration, emigration, age structure, growth. |
-| Main interactions | Predation, competition, parasitism, commensalism, mutualism, amensalism. |
-| Most important skill | Read population changes as additions and removals, then connect interactions with signs of benefit or harm. |
+| Item                     | Details                                                                                                                               |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Main idea                | Ecology studies organisms in relation to their environment, and population ecology studies groups of individuals of the same species. |
+| Main levels              | Organism, population, community, ecosystem, biome.                                                                                    |
+| Main population features | Density, natality, mortality, immigration, emigration, age structure, growth.                                                         |
+| Main interactions        | Predation, competition, parasitism, commensalism, mutualism, amensalism.                                                              |
+| Most important skill     | Read population changes as additions and removals, then connect interactions with signs of benefit or harm.                           |
 
 ## Learning Outcomes
 
@@ -28,29 +29,29 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Ecology | Study of interactions between organisms and environment. |
-| Population | Group of individuals of same species in a given area at a given time. |
-| Population density | Number of individuals per unit area or volume. |
-| Natality | Birth rate in a population. |
-| Mortality | Death rate in a population. |
-| Immigration | Entry of individuals into a population. |
-| Emigration | Exit of individuals from a population. |
-| Exponential growth | Rapid growth under unlimited resources. |
-| Carrying capacity | Maximum population size environment can support sustainably. |
-| Logistic growth | Growth that slows as population approaches carrying capacity. |
-| Predation | Interaction where predator kills and eats prey. |
-| Mutualism | Interaction where both species benefit. |
+| Term               | Meaning                                                               |
+| ------------------ | --------------------------------------------------------------------- |
+| Ecology            | Study of interactions between organisms and environment.              |
+| Population         | Group of individuals of same species in a given area at a given time. |
+| Population density | Number of individuals per unit area or volume.                        |
+| Natality           | Birth rate in a population.                                           |
+| Mortality          | Death rate in a population.                                           |
+| Immigration        | Entry of individuals into a population.                               |
+| Emigration         | Exit of individuals from a population.                                |
+| Exponential growth | Rapid growth under unlimited resources.                               |
+| Carrying capacity  | Maximum population size environment can support sustainably.          |
+| Logistic growth    | Growth that slows as population approaches carrying capacity.         |
+| Predation          | Interaction where predator kills and eats prey.                       |
+| Mutualism          | Interaction where both species benefit.                               |
 
 ## Quick Learning Map
 
-| Area | Core Learning |
-|---|---|
-| Organism | Individual responds to environment through adaptation. |
-| Population | Density changes through births, deaths, immigration, and emigration. |
-| Growth | Unlimited resources give exponential growth; limited resources give logistic growth. |
-| Interactions | Species affect each other's survival and reproduction. |
+| Area         | Core Learning                                                                        |
+| ------------ | ------------------------------------------------------------------------------------ |
+| Organism     | Individual responds to environment through adaptation.                               |
+| Population   | Density changes through births, deaths, immigration, and emigration.                 |
+| Growth       | Unlimited resources give exponential growth; limited resources give logistic growth. |
+| Interactions | Species affect each other's survival and reproduction.                               |
 
 # Unit 11A: Organism and Environment
 
@@ -72,12 +73,12 @@ Each factor can affect survival, growth, reproduction, and distribution of organ
 
 Organisms respond to environmental change in different ways.
 
-| Response | Meaning |
-|---|---|
+| Response | Meaning                                               |
+| -------- | ----------------------------------------------------- |
 | Regulate | Maintain internal conditions despite external change. |
-| Conform | Internal conditions change with external conditions. |
-| Migrate | Move temporarily to favourable habitat. |
-| Suspend | Enter dormant state during unfavourable conditions. |
+| Conform  | Internal conditions change with external conditions.  |
+| Migrate  | Move temporarily to favourable habitat.               |
+| Suspend  | Enter dormant state during unfavourable conditions.   |
 
 ## Examples
 
@@ -115,13 +116,13 @@ A population has attributes that an individual does not.
 
 ## Main Attributes
 
-| Attribute | Meaning |
-|---|---|
-| Population density | Size of population per unit area or volume. |
-| Birth rate | Number of births per unit population per unit time. |
-| Death rate | Number of deaths per unit population per unit time. |
-| Sex ratio | Proportion of males and females. |
-| Age structure | Distribution of individuals among age groups. |
+| Attribute          | Meaning                                             |
+| ------------------ | --------------------------------------------------- |
+| Population density | Size of population per unit area or volume.         |
+| Birth rate         | Number of births per unit population per unit time. |
+| Death rate         | Number of deaths per unit population per unit time. |
+| Sex ratio          | Proportion of males and females.                    |
+| Age structure      | Distribution of individuals among age groups.       |
 
 ## Population Density Formula
 
@@ -133,10 +134,10 @@ Population change = Births + Immigration - Deaths - Emigration
 
 Age pyramids show proportions of pre-reproductive, reproductive, and post-reproductive individuals.
 
-| Shape | Meaning |
-|---|---|
-| Expanding | Large young population; growing population. |
-| Stable | Balanced age groups; stable population. |
+| Shape     | Meaning                                         |
+| --------- | ----------------------------------------------- |
+| Expanding | Large young population; growing population.     |
+| Stable    | Balanced age groups; stable population.         |
 | Declining | Fewer young individuals; decreasing population. |
 
 # Unit 11F: Population Growth
@@ -162,9 +163,9 @@ K is carrying capacity.
 ## Growth Curve
 
 | Growth Type | Curve Shape |
-|---|---|
-| Exponential | J-shaped. |
-| Logistic | S-shaped. |
+| ----------- | ----------- |
+| Exponential | J-shaped.   |
+| Logistic    | S-shaped.   |
 
 # Unit 11G: Life History Variation
 
@@ -188,16 +189,16 @@ Species interact in different ways.
 
 ## Interaction Symbols
 
-| Interaction | Species A | Species B |
-|---|---|---|
-| Mutualism | + | + |
-| Competition | - | - |
-| Predation | + | - |
-| Parasitism | + | - |
-| Commensalism | + | 0 |
-| Amensalism | - | 0 |
+| Interaction  | Species A | Species B |
+| ------------ | --------- | --------- |
+| Mutualism    | +         | +         |
+| Competition  | -         | -         |
+| Predation    | +         | -         |
+| Parasitism   | +         | -         |
+| Commensalism | +         | 0         |
+| Amensalism   | -         | 0         |
 
-+ means benefit, - means harm, and 0 means no major effect.
+- means benefit, - means harm, and 0 means no major effect.
 
 # Unit 11I: Predation
 
@@ -248,10 +249,10 @@ A parasite lives in or on host and derives nutrition at host's expense.
 
 ## Types
 
-| Type | Meaning |
-|---|---|
-| Ectoparasite | Lives on body surface. |
-| Endoparasite | Lives inside host body. |
+| Type           | Meaning                               |
+| -------------- | ------------------------------------- |
+| Ectoparasite   | Lives on body surface.                |
+| Endoparasite   | Lives inside host body.               |
 | Brood parasite | Lays eggs in nest of another species. |
 
 # Unit 11L: Mutualism and Commensalism
@@ -278,14 +279,14 @@ Examples:
 
 # Unit 11M: Common Mistakes and Corrections
 
-| Mistake | Correct Understanding |
-|---|---|
-| Population density always means number per area | It may also use biomass, percentage cover, or relative abundance. |
-| Exponential growth is permanent in nature | Resources become limiting, so logistic growth is more realistic. |
-| Carrying capacity is fixed forever | It can change with environment and resources. |
-| Predation is always harmful for ecosystem | Predation can maintain balance and diversity. |
-| Competition occurs only between different species | It can occur within same species too. |
-| Commensalism and mutualism are the same | In mutualism both benefit; in commensalism one benefits and other is neutral. |
+| Mistake                                           | Correct Understanding                                                         |
+| ------------------------------------------------- | ----------------------------------------------------------------------------- |
+| Population density always means number per area   | It may also use biomass, percentage cover, or relative abundance.             |
+| Exponential growth is permanent in nature         | Resources become limiting, so logistic growth is more realistic.              |
+| Carrying capacity is fixed forever                | It can change with environment and resources.                                 |
+| Predation is always harmful for ecosystem         | Predation can maintain balance and diversity.                                 |
+| Competition occurs only between different species | It can occur within same species too.                                         |
+| Commensalism and mutualism are the same           | In mutualism both benefit; in commensalism one benefits and other is neutral. |
 
 ## Practice Set
 

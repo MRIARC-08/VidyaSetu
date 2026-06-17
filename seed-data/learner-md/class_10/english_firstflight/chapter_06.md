@@ -1,21 +1,22 @@
 # Chapter 6: Mijbil the Otter and Fog
+
 ### NCERT Class 10 - English First Flight
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 10 |
-| **Subject** | English First Flight |
-| **Chapter** | 6 |
-| **Actual Main Prose** | "Mijbil the Otter" by Gavin Maxwell |
-| **Poem Included** | "Fog" by Carl Sandburg |
-| **Raw File Header** | "The Hundred Dresses - II" |
-| **Textbook Pages** | 80-93 |
-| **Core Theme** | Human-animal companionship, responsible pet ownership, curiosity, travel, humour, animal intelligence, metaphor, and free verse. |
-| **Main Skills** | Narrative reading, character observation, inference, vocabulary, past habit expressions, noun modifiers, quantity phrases, descriptive writing, and poetry appreciation. |
+| Detail                | Learner-Friendly Information                                                                                                                                             |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Class**             | 10                                                                                                                                                                       |
+| **Subject**           | English First Flight                                                                                                                                                     |
+| **Chapter**           | 6                                                                                                                                                                        |
+| **Actual Main Prose** | "Mijbil the Otter" by Gavin Maxwell                                                                                                                                      |
+| **Poem Included**     | "Fog" by Carl Sandburg                                                                                                                                                   |
+| **Raw File Header**   | "The Hundred Dresses - II"                                                                                                                                               |
+| **Textbook Pages**    | 80-93                                                                                                                                                                    |
+| **Core Theme**        | Human-animal companionship, responsible pet ownership, curiosity, travel, humour, animal intelligence, metaphor, and free verse.                                         |
+| **Main Skills**       | Narrative reading, character observation, inference, vocabulary, past habit expressions, noun modifiers, quantity phrases, descriptive writing, and poetry appreciation. |
 
 > [!NOTE]
 > The raw source file is `chapter_06.md` and its extraction header says "The Hundred Dresses - II", but the actual chapter content contains **Mijbil the Otter** and the poem **Fog**. This learner-facing version follows the actual chapter content.
@@ -24,17 +25,17 @@
 
 ## Section Structure
 
-| Unit | Text / Skill | Main Learning Focus |
-|---|---|---|
-| **6A** | Before Reading | Pet care, animal responsibility, otter habitat, and practical planning. |
-| **6B** | Mijbil the Otter: Part I | Maxwell's journey to Iraq, his loneliness after losing a dog, and the arrival of Mijbil. |
-| **6C** | Mijbil the Otter: Part II | Mijbil's appearance, naming, early behaviour, love of water, and playful intelligence. |
-| **6D** | Mijbil the Otter: Part III | Transporting Mijbil, the dangerous box incident, and the comic airplane episode. |
-| **6E** | Mijbil the Otter: Part IV | Mijbil's life in London, invented games, habits, and public reactions. |
-| **6F** | Thinking About the Text | Character traits, otter facts, Maxwell's narration, and descriptive technique. |
-| **6G** | Language Work | Would/used to, noun modifiers, and expressions of quantity. |
-| **6H** | Speaking and Writing | Dumb charades, animal description, pet ethics, and research tasks. |
-| **6I** | Fog | Metaphor, animal comparison, free verse, silence, movement, and atmosphere. |
+| Unit   | Text / Skill               | Main Learning Focus                                                                      |
+| ------ | -------------------------- | ---------------------------------------------------------------------------------------- |
+| **6A** | Before Reading             | Pet care, animal responsibility, otter habitat, and practical planning.                  |
+| **6B** | Mijbil the Otter: Part I   | Maxwell's journey to Iraq, his loneliness after losing a dog, and the arrival of Mijbil. |
+| **6C** | Mijbil the Otter: Part II  | Mijbil's appearance, naming, early behaviour, love of water, and playful intelligence.   |
+| **6D** | Mijbil the Otter: Part III | Transporting Mijbil, the dangerous box incident, and the comic airplane episode.         |
+| **6E** | Mijbil the Otter: Part IV  | Mijbil's life in London, invented games, habits, and public reactions.                   |
+| **6F** | Thinking About the Text    | Character traits, otter facts, Maxwell's narration, and descriptive technique.           |
+| **6G** | Language Work              | Would/used to, noun modifiers, and expressions of quantity.                              |
+| **6H** | Speaking and Writing       | Dumb charades, animal description, pet ethics, and research tasks.                       |
+| **6I** | Fog                        | Metaphor, animal comparison, free verse, silence, movement, and atmosphere.              |
 
 ---
 
@@ -42,53 +43,53 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Understand narrative sequence** | Retell how Maxwell receives, names, transports, and lives with Mijbil. |
-| **Infer character feelings** | Explain Maxwell's loneliness, anxiety, gratitude, amusement, and affection. |
-| **Observe animal behaviour** | Identify actions that show Mijbil is intelligent, playful, curious, and affectionate. |
-| **Read humour** | Explain how the airplane episode and Londoners' guesses create comedy. |
-| **Use vocabulary in context** | Understand words such as aloof, apathy, squirmed, nuzzle, barrage, and compulsive. |
-| **Discuss responsibility** | Explain why keeping pets, especially unusual animals, demands knowledge and commitment. |
-| **Use past habit forms** | Distinguish `would` from `used to` while speaking about repeated past actions and states. |
-| **Build noun phrases** | Use noun modifiers and adjective-noun combinations correctly. |
-| **Write descriptions** | Describe a person or animal through observed actions and inferred feelings. |
-| **Analyse poetry** | Explain how "Fog" uses metaphor and free verse to create a quiet visual picture. |
+| Outcome                           | You Should Be Able To...                                                                  |
+| --------------------------------- | ----------------------------------------------------------------------------------------- |
+| **Understand narrative sequence** | Retell how Maxwell receives, names, transports, and lives with Mijbil.                    |
+| **Infer character feelings**      | Explain Maxwell's loneliness, anxiety, gratitude, amusement, and affection.               |
+| **Observe animal behaviour**      | Identify actions that show Mijbil is intelligent, playful, curious, and affectionate.     |
+| **Read humour**                   | Explain how the airplane episode and Londoners' guesses create comedy.                    |
+| **Use vocabulary in context**     | Understand words such as aloof, apathy, squirmed, nuzzle, barrage, and compulsive.        |
+| **Discuss responsibility**        | Explain why keeping pets, especially unusual animals, demands knowledge and commitment.   |
+| **Use past habit forms**          | Distinguish `would` from `used to` while speaking about repeated past actions and states. |
+| **Build noun phrases**            | Use noun modifiers and adjective-noun combinations correctly.                             |
+| **Write descriptions**            | Describe a person or animal through observed actions and inferred feelings.               |
+| **Analyse poetry**                | Explain how "Fog" uses metaphor and free verse to create a quiet visual picture.          |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Otter** | A semi-aquatic mammal that lives near water and is known for swimming and playfulness. |
-| **Camusfearna** | Maxwell's home in the West Highlands of Scotland, close to water. |
-| **Basra** | City in Iraq where Maxwell receives Mijbil. |
-| **Tigris marshes** | Wetland region where otters were common. |
-| **Consulate-General** | Government office in another country that helps citizens and handles official matters. |
-| **Squirmed** | Twisted or wriggled. |
-| **Thraldom** | State of being under strong control or attachment. |
-| **Fixation** | Very strong interest or attachment. |
-| **Christened** | Named. |
-| **Aloof** | Distant and not friendly. |
-| **Indifferent** | Not showing interest or concern. |
-| **Apathy** | Lack of interest. |
-| **Fumbling** | Trying to do something clumsily. |
-| **Dreaded** | Feared strongly. |
-| **Appalling** | Shocking and disturbing. |
-| **Whimpered** | Made a low sound of pain or distress. |
-| **Ricochetting** | Bouncing off surfaces and changing direction. |
-| **Infuriated** | Extremely angry. |
-| **Portly** | Stout or heavy in build. |
-| **Nuzzle** | Rub gently with the nose or face. |
-| **Engrossed** | Completely absorbed or interested. |
-| **Ambush** | Attack or catch by surprise from a hidden position. |
-| **Compulsive habit** | Repeated habit that feels difficult to control. |
-| **Mustellines** | Animal group that includes otters, badgers, weasels, stoats, minks, and related animals. |
-| **Barrage** | A continuous stream, often of questions or attacks. |
-| **Conjectural** | Based on guesses. |
-| **Metaphor** | Direct comparison in which one thing is spoken of as another. |
-| **Free verse** | Poetry without a fixed rhyme scheme or regular rhythm. |
+| Term                  | Meaning                                                                                  |
+| --------------------- | ---------------------------------------------------------------------------------------- |
+| **Otter**             | A semi-aquatic mammal that lives near water and is known for swimming and playfulness.   |
+| **Camusfearna**       | Maxwell's home in the West Highlands of Scotland, close to water.                        |
+| **Basra**             | City in Iraq where Maxwell receives Mijbil.                                              |
+| **Tigris marshes**    | Wetland region where otters were common.                                                 |
+| **Consulate-General** | Government office in another country that helps citizens and handles official matters.   |
+| **Squirmed**          | Twisted or wriggled.                                                                     |
+| **Thraldom**          | State of being under strong control or attachment.                                       |
+| **Fixation**          | Very strong interest or attachment.                                                      |
+| **Christened**        | Named.                                                                                   |
+| **Aloof**             | Distant and not friendly.                                                                |
+| **Indifferent**       | Not showing interest or concern.                                                         |
+| **Apathy**            | Lack of interest.                                                                        |
+| **Fumbling**          | Trying to do something clumsily.                                                         |
+| **Dreaded**           | Feared strongly.                                                                         |
+| **Appalling**         | Shocking and disturbing.                                                                 |
+| **Whimpered**         | Made a low sound of pain or distress.                                                    |
+| **Ricochetting**      | Bouncing off surfaces and changing direction.                                            |
+| **Infuriated**        | Extremely angry.                                                                         |
+| **Portly**            | Stout or heavy in build.                                                                 |
+| **Nuzzle**            | Rub gently with the nose or face.                                                        |
+| **Engrossed**         | Completely absorbed or interested.                                                       |
+| **Ambush**            | Attack or catch by surprise from a hidden position.                                      |
+| **Compulsive habit**  | Repeated habit that feels difficult to control.                                          |
+| **Mustellines**       | Animal group that includes otters, badgers, weasels, stoats, minks, and related animals. |
+| **Barrage**           | A continuous stream, often of questions or attacks.                                      |
+| **Conjectural**       | Based on guesses.                                                                        |
+| **Metaphor**          | Direct comparison in which one thing is spoken of as another.                            |
+| **Free verse**        | Poetry without a fixed rhyme scheme or regular rhythm.                                   |
 
 ---
 
@@ -125,55 +126,55 @@ Owning an animal is not only about affection. It requires:
 
 ## Basic Pet Care Checklist
 
-| Area | Questions a Responsible Owner Should Ask |
-|---|---|
-| **Food** | What does the animal eat? How often? What foods are harmful? |
-| **Water** | Does the animal need constant drinking water, bathing water, or swimming space? |
-| **Health** | What vaccinations, check-ups, and emergency care are needed? |
-| **Legal rules** | Is a licence required? Is the animal protected by law? |
-| **Training** | Does the animal need toilet training, obedience training, or socialisation? |
-| **Space** | Does it need a cage, open yard, pond, tank, or natural enclosure? |
-| **Exercise** | How much daily movement does it require? |
-| **Safety** | Can it bite, scratch, escape, or damage household items? |
-| **Companionship** | Does it need human attention or other animals? |
-| **Lifetime care** | Can the family care for it for many years? |
+| Area              | Questions a Responsible Owner Should Ask                                        |
+| ----------------- | ------------------------------------------------------------------------------- |
+| **Food**          | What does the animal eat? How often? What foods are harmful?                    |
+| **Water**         | Does the animal need constant drinking water, bathing water, or swimming space? |
+| **Health**        | What vaccinations, check-ups, and emergency care are needed?                    |
+| **Legal rules**   | Is a licence required? Is the animal protected by law?                          |
+| **Training**      | Does the animal need toilet training, obedience training, or socialisation?     |
+| **Space**         | Does it need a cage, open yard, pond, tank, or natural enclosure?               |
+| **Exercise**      | How much daily movement does it require?                                        |
+| **Safety**        | Can it bite, scratch, escape, or damage household items?                        |
+| **Companionship** | Does it need human attention or other animals?                                  |
+| **Lifetime care** | Can the family care for it for many years?                                      |
 
 ## If Someone Gifts You a Pet
 
 You should not simply accept the pet emotionally. You should first learn:
 
-| Need | Example |
-|---|---|
-| **Food** | The food it eats and the amount it needs. |
-| **Habitat** | Whether it needs warmth, shade, water, soil, bedding, or climbing space. |
-| **Health care** | Vaccinations, medicines, grooming, and vet access. |
-| **Behaviour** | Whether it is playful, shy, noisy, aggressive, nocturnal, or social. |
-| **Legal status** | Whether keeping it is allowed. |
-| **Daily routine** | Feeding time, exercise time, cleaning, and sleep pattern. |
+| Need              | Example                                                                  |
+| ----------------- | ------------------------------------------------------------------------ |
+| **Food**          | The food it eats and the amount it needs.                                |
+| **Habitat**       | Whether it needs warmth, shade, water, soil, bedding, or climbing space. |
+| **Health care**   | Vaccinations, medicines, grooming, and vet access.                       |
+| **Behaviour**     | Whether it is playful, shy, noisy, aggressive, nocturnal, or social.     |
+| **Legal status**  | Whether keeping it is allowed.                                           |
+| **Daily routine** | Feeding time, exercise time, cleaning, and sleep pattern.                |
 
 ## Planning for an Otter from Iraq to London
 
 An otter is not like a dog or cat. It is a semi-aquatic animal, so special arrangements would be necessary.
 
-| Requirement | Why It Matters |
-|---|---|
-| **Water space** | Otters need swimming, bathing, splashing, and play in water. |
-| **Secure enclosure** | They are active, flexible, and likely to escape. |
-| **Suitable food** | Otters eat fish and other aquatic food; the diet must be reliable. |
-| **Climate adjustment** | Iraq's marshes and London's climate are different. |
-| **Travel permit** | Moving animals between countries requires legal permission. |
-| **Transport box** | The box must be safe, ventilated, spacious enough, and free from sharp edges. |
-| **Veterinary certificate** | Health checks prevent disease and suffering during travel. |
-| **Ethical decision** | A wild animal may not be suited to being removed from its natural habitat. |
+| Requirement                | Why It Matters                                                                |
+| -------------------------- | ----------------------------------------------------------------------------- |
+| **Water space**            | Otters need swimming, bathing, splashing, and play in water.                  |
+| **Secure enclosure**       | They are active, flexible, and likely to escape.                              |
+| **Suitable food**          | Otters eat fish and other aquatic food; the diet must be reliable.            |
+| **Climate adjustment**     | Iraq's marshes and London's climate are different.                            |
+| **Travel permit**          | Moving animals between countries requires legal permission.                   |
+| **Transport box**          | The box must be safe, ventilated, spacious enough, and free from sharp edges. |
+| **Veterinary certificate** | Health checks prevent disease and suffering during travel.                    |
+| **Ethical decision**       | A wild animal may not be suited to being removed from its natural habitat.    |
 
 ## Iraq and London: Habitat Contrast
 
-| Feature | Iraq | London |
-|---|---|---|
-| **Landscape** | Broad plains, marshes, desert, mountain areas. | Dense city, buildings, parks, open public spaces. |
-| **Weather** | Hot, dry summers; cold mountain winters; marshland in the south. | Temperate climate, light rain or snow, generally mild. |
-| **Water availability** | Marshes near Basra provide natural wet habitats. | Water must be arranged artificially or through parks and ponds. |
-| **Challenge for an otter** | Heat and marshes may suit its origin. | Urban life may restrict movement and natural behaviour. |
+| Feature                    | Iraq                                                             | London                                                          |
+| -------------------------- | ---------------------------------------------------------------- | --------------------------------------------------------------- |
+| **Landscape**              | Broad plains, marshes, desert, mountain areas.                   | Dense city, buildings, parks, open public spaces.               |
+| **Weather**                | Hot, dry summers; cold mountain winters; marshland in the south. | Temperate climate, light rain or snow, generally mild.          |
+| **Water availability**     | Marshes near Basra provide natural wet habitats.                 | Water must be arranged artificially or through parks and ponds. |
+| **Challenge for an otter** | Heat and marshes may suit its origin.                            | Urban life may restrict movement and natural behaviour.         |
 
 ---
 
@@ -181,15 +182,15 @@ An otter is not like a dog or cat. It is a semi-aquatic animal, so special arran
 
 ## Text Identity
 
-| Detail | Information |
-|---|---|
-| **Title** | Mijbil the Otter |
-| **Author** | Gavin Maxwell |
-| **Form** | Autobiographical animal narrative |
-| **Narrator** | First-person narrator, Maxwell himself |
-| **Setting** | Southern Iraq, Basra, then London |
-| **Main Animal** | Mijbil, an otter later linked with Maxwell's name |
-| **Main Mood** | Curious, affectionate, humorous, anxious, observant |
+| Detail          | Information                                         |
+| --------------- | --------------------------------------------------- |
+| **Title**       | Mijbil the Otter                                    |
+| **Author**      | Gavin Maxwell                                       |
+| **Form**        | Autobiographical animal narrative                   |
+| **Narrator**    | First-person narrator, Maxwell himself              |
+| **Setting**     | Southern Iraq, Basra, then London                   |
+| **Main Animal** | Mijbil, an otter later linked with Maxwell's name   |
+| **Main Mood**   | Curious, affectionate, humorous, anxious, observant |
 
 ## Background
 
@@ -197,12 +198,12 @@ Gavin Maxwell lives in Camusfearna in the West Highlands of Scotland. His home i
 
 ## Why Maxwell Thinks of Keeping an Otter
 
-| Reason | Explanation |
-|---|---|
-| **Loneliness** | His dog has died, and he misses animal companionship. |
-| **Suitable home** | Camusfearna is near water, ideal for an otter. |
+| Reason                     | Explanation                                            |
+| -------------------------- | ------------------------------------------------------ |
+| **Loneliness**             | His dog has died, and he misses animal companionship.  |
+| **Suitable home**          | Camusfearna is near water, ideal for an otter.         |
 | **Suggestion from friend** | A friend says otters are common in the Tigris marshes. |
-| **Curiosity** | Maxwell is willing to try an unusual pet. |
+| **Curiosity**              | Maxwell is willing to try an unusual pet.              |
 
 ## Journey to Basra
 
@@ -226,13 +227,13 @@ This is the beginning of Maxwell's life with Mijbil.
 
 ## Oral Comprehension Check
 
-| Question | Model Answer |
-|---|---|
-| What experiment did Maxwell think Camusfearna would be suitable for? | He thought it would be suitable for keeping an otter, because his home was close to water. |
-| Why does he go to Basra? | He goes to the Consulate-General in Basra to collect and answer mail from Europe. |
-| How long does he wait there, and why? | He waits several days because his mail does not arrive and attempts to communicate with England fail. |
-| How does he get the otter? | His friend arranges for the otter to be brought to Maxwell. Two Arabs bring it in a sack with a note. |
-| Does he like it? | Yes. His later words about "thraldom to otters" and "otter fixation" show deep attachment. |
+| Question                                                             | Model Answer                                                                                          |
+| -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| What experiment did Maxwell think Camusfearna would be suitable for? | He thought it would be suitable for keeping an otter, because his home was close to water.            |
+| Why does he go to Basra?                                             | He goes to the Consulate-General in Basra to collect and answer mail from Europe.                     |
+| How long does he wait there, and why?                                | He waits several days because his mail does not arrive and attempts to communicate with England fail. |
+| How does he get the otter?                                           | His friend arranges for the otter to be brought to Maxwell. Two Arabs bring it in a sack with a note. |
+| Does he like it?                                                     | Yes. His later words about "thraldom to otters" and "otter fixation" show deep attachment.            |
 
 ## Learning Point: First-Person Narration
 
@@ -258,20 +259,20 @@ Under the mud, Mijbil has soft brown fur. Maxwell does not see his true appearan
 
 ## Naming Mijbil
 
-| Detail | Explanation |
-|---|---|
-| **Pet name** | Maxwell calls the otter Mijbil, often shortened to Mij. |
-| **Scientific importance** | Zoologists identify Mijbil as belonging to a race previously unknown to science. |
-| **Scientific name** | The otter is later associated with the name `Lutrogale perspicillata maxwelli`. |
+| Detail                     | Explanation                                                                                |
+| -------------------------- | ------------------------------------------------------------------------------------------ |
+| **Pet name**               | Maxwell calls the otter Mijbil, often shortened to Mij.                                    |
+| **Scientific importance**  | Zoologists identify Mijbil as belonging to a race previously unknown to science.           |
+| **Scientific name**        | The otter is later associated with the name `Lutrogale perspicillata maxwelli`.            |
 | **Common reason for name** | The species becomes known as Maxwell's otter because of its connection with Gavin Maxwell. |
 
 ## Mijbil's Behaviour in the First Two Days
 
-| Time | Behaviour |
-|---|---|
+| Time                        | Behaviour                                                             |
+| --------------------------- | --------------------------------------------------------------------- |
 | **First twenty-four hours** | He is neither hostile nor friendly; he stays distant and indifferent. |
-| **Second night** | He sleeps on Maxwell's bed near his knees. |
-| **Next day** | He becomes more interested in his surroundings. |
+| **Second night**            | He sleeps on Maxwell's bed near his knees.                            |
+| **Next day**                | He becomes more interested in his surroundings.                       |
 
 Mijbil changes from aloofness to trust. This gradual shift helps readers see the beginning of a bond.
 
@@ -305,41 +306,41 @@ Mijbil sometimes turns the tap the wrong way and becomes irritated when water do
 
 Mijbil spends much of his time playing.
 
-| Toy / Activity | What Mijbil Does |
-|---|---|
-| **Rubber ball** | Pushes and shuffles it around like a four-footed football player. |
-| **Small objects** | Lies on his back and juggles them between his paws. |
-| **Marbles** | Rolls them on his belly without dropping them. |
-| **Bathroom water** | Plunges, rolls, splashes, and swims. |
+| Toy / Activity     | What Mijbil Does                                                  |
+| ------------------ | ----------------------------------------------------------------- |
+| **Rubber ball**    | Pushes and shuffles it around like a four-footed football player. |
+| **Small objects**  | Lies on his back and juggles them between his paws.               |
+| **Marbles**        | Rolls them on his belly without dropping them.                    |
+| **Bathroom water** | Plunges, rolls, splashes, and swims.                              |
 
 ## Character Traits Shown
 
-| Trait | Evidence |
-|---|---|
-| **Playful** | He spends hours with balls and marbles. |
-| **Intelligent** | He learns to turn taps and invents games. |
-| **Curious** | He explores rooms, objects, and water sources. |
-| **Affectionate** | He later sleeps near Maxwell and responds to him. |
-| **Energetic** | He moves quickly, splashes water, and plays constantly. |
+| Trait            | Evidence                                                |
+| ---------------- | ------------------------------------------------------- |
+| **Playful**      | He spends hours with balls and marbles.                 |
+| **Intelligent**  | He learns to turn taps and invents games.               |
+| **Curious**      | He explores rooms, objects, and water sources.          |
+| **Affectionate** | He later sleeps near Maxwell and responds to him.       |
+| **Energetic**    | He moves quickly, splashes water, and plays constantly. |
 
 ## Oral Comprehension Check
 
-| Question | Model Answer |
-|---|---|
-| Why was the otter named Maxwell's otter? | Zoologists identified it as a previously unknown race and associated it with Maxwell, who owned and described it. |
-| What was Mijbil like in the beginning? | He was aloof and indifferent, neither friendly nor hostile. |
-| What happened when Maxwell took Mijbil to the bathroom? | Mijbil became extremely joyful, splashing, rolling, and swimming in the bathtub. |
-| What did Mijbil do two days later? | He escaped to the bathroom and tried to turn on the bathtub taps. |
+| Question                                                | Model Answer                                                                                                      |
+| ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Why was the otter named Maxwell's otter?                | Zoologists identified it as a previously unknown race and associated it with Maxwell, who owned and described it. |
+| What was Mijbil like in the beginning?                  | He was aloof and indifferent, neither friendly nor hostile.                                                       |
+| What happened when Maxwell took Mijbil to the bathroom? | Mijbil became extremely joyful, splashing, rolling, and swimming in the bathtub.                                  |
+| What did Mijbil do two days later?                      | He escaped to the bathroom and tried to turn on the bathtub taps.                                                 |
 
 ## Vocabulary in Context
 
-| Word | Meaning in the Chapter | Sentence |
-|---|---|---|
-| **Aloof** | Distant and not friendly | The new animal remained aloof at first. |
-| **Apathy** | Lack of interest | Mijbil's apathy disappeared when he began exploring. |
-| **Fumbling** | Trying clumsily | He was fumbling with the taps. |
-| **Provoking** | Annoying or causing irritation | Still water seemed provoking to Mijbil. |
-| **Flick** | Quick movement | He threw the ball with a flick of his neck. |
+| Word          | Meaning in the Chapter         | Sentence                                             |
+| ------------- | ------------------------------ | ---------------------------------------------------- |
+| **Aloof**     | Distant and not friendly       | The new animal remained aloof at first.              |
+| **Apathy**    | Lack of interest               | Mijbil's apathy disappeared when he began exploring. |
+| **Fumbling**  | Trying clumsily                | He was fumbling with the taps.                       |
+| **Provoking** | Annoying or causing irritation | Still water seemed provoking to Mijbil.              |
+| **Flick**     | Quick movement                 | He threw the ball with a flick of his neck.          |
 
 ---
 
@@ -349,12 +350,12 @@ Mijbil spends much of his time playing.
 
 Maxwell must take Mijbil from Basra to England. This creates anxiety because animals are not easily transported by air.
 
-| Problem | Detail |
-|---|---|
-| **Airline rule** | The British airline will not fly animals. |
-| **Alternative plan** | Maxwell books a flight to Paris and then onward to London. |
-| **Box rule** | The airline insists Mijbil must travel in a small box at Maxwell's feet. |
-| **Time pressure** | Trouble with the box happens just before the flight. |
+| Problem              | Detail                                                                   |
+| -------------------- | ------------------------------------------------------------------------ |
+| **Airline rule**     | The British airline will not fly animals.                                |
+| **Alternative plan** | Maxwell books a flight to Paris and then onward to London.               |
+| **Box rule**         | The airline insists Mijbil must travel in a small box at Maxwell's feet. |
+| **Time pressure**    | Trouble with the box happens just before the flight.                     |
 
 ## The Box Incident
 
@@ -371,13 +372,13 @@ Maxwell removes the dangerous lining, but there are only a few minutes before th
 
 ## Maxwell's Feelings
 
-| Moment | Likely Feeling |
-|---|---|
-| Before travel | Anxiety and dread. |
-| Seeing blood | Shock, guilt, fear, and concern. |
-| Putting Mijbil back | Distress and helplessness. |
-| Rushing to airport | Panic and urgency. |
-| Meeting the air hostess | Relief and gratitude. |
+| Moment                  | Likely Feeling                   |
+| ----------------------- | -------------------------------- |
+| Before travel           | Anxiety and dread.               |
+| Seeing blood            | Shock, guilt, fear, and concern. |
+| Putting Mijbil back     | Distress and helplessness.       |
+| Rushing to airport      | Panic and urgency.               |
+| Meeting the air hostess | Relief and gratitude.            |
 
 ## Why the Air Hostess Matters
 
@@ -400,24 +401,24 @@ Eventually, Mijbil returns to Maxwell, makes a sound of recognition, climbs onto
 
 ## Why the Episode Is Funny
 
-| Comic Element | Explanation |
-|---|---|
-| **Mistaken identity** | A passenger screams that Mijbil is a rat. |
-| **Fast movement** | Mijbil runs under seats before anyone can control him. |
-| **Maxwell's failed dive** | He tries to catch Mijbil and ends up in an embarrassing situation. |
-| **Calm air hostess** | Her politeness contrasts with the chaos. |
-| **Mijbil's return** | After all the panic, he simply comes back to Maxwell affectionately. |
+| Comic Element             | Explanation                                                          |
+| ------------------------- | -------------------------------------------------------------------- |
+| **Mistaken identity**     | A passenger screams that Mijbil is a rat.                            |
+| **Fast movement**         | Mijbil runs under seats before anyone can control him.               |
+| **Maxwell's failed dive** | He tries to catch Mijbil and ends up in an embarrassing situation.   |
+| **Calm air hostess**      | Her politeness contrasts with the chaos.                             |
+| **Mijbil's return**       | After all the panic, he simply comes back to Maxwell affectionately. |
 
 ## Oral Comprehension Check
 
-| Question | Model Answer |
-|---|---|
-| How was Mijbil to be transported to England? | He was to travel by air in a small box placed on the floor near Maxwell's feet. |
-| What did Mijbil do to the box? | He tore its lining, injured himself, and left blood near the air holes and lid. |
-| Why did Maxwell put the otter back in the box? | The flight was about to leave, and he had no time to arrange safer transport. |
-| How do you think Maxwell felt when he did this? | He probably felt guilty, anxious, helpless, and worried about Mijbil's pain. |
-| Why does Maxwell praise the air hostess? | She shows kindness by allowing Mijbil out of the box and by helping during the confusion. |
-| What happened when the box was opened? | Mijbil ran through the aircraft, caused panic, and later returned to Maxwell. |
+| Question                                        | Model Answer                                                                              |
+| ----------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| How was Mijbil to be transported to England?    | He was to travel by air in a small box placed on the floor near Maxwell's feet.           |
+| What did Mijbil do to the box?                  | He tore its lining, injured himself, and left blood near the air holes and lid.           |
+| Why did Maxwell put the otter back in the box?  | The flight was about to leave, and he had no time to arrange safer transport.             |
+| How do you think Maxwell felt when he did this? | He probably felt guilty, anxious, helpless, and worried about Mijbil's pain.              |
+| Why does Maxwell praise the air hostess?        | She shows kindness by allowing Mijbil out of the box and by helping during the confusion. |
+| What happened when the box was opened?          | Mijbil ran through the aircraft, caused panic, and later returned to Maxwell.             |
 
 ## Learning Point: Tension and Relief
 
@@ -458,10 +459,10 @@ Compulsive habits are repeated actions that a person or animal feels driven to p
 
 The chapter compares Mijbil's habits with children's walking rituals.
 
-| Example | Habit |
-|---|---|
+| Example             | Habit                                                                                  |
+| ------------------- | -------------------------------------------------------------------------------------- |
 | **School children** | Stepping on the centre of paving blocks, touching railings, or following a fixed path. |
-| **Mijbil** | Pulling Maxwell toward a low wall and running along it on the way home. |
+| **Mijbil**          | Pulling Maxwell toward a low wall and running along it on the way home.                |
 
 ## Mijbil and the School Wall
 
@@ -479,29 +480,29 @@ The episode is humorous because a normal walk becomes a public performance.
 
 Most Londoners do not recognize Mijbil as an otter. Their guesses are wildly varied.
 
-| Guess | Why It Is Funny |
-|---|---|
-| **Baby seal** | Otters and seals both like water, but the city street setting makes the guess odd. |
-| **Squirrel** | Mijbil is far larger and very different. |
-| **Walrus** | A walrus is much bigger and tusked, so the guess is absurd. |
-| **Hippo** | A hippopotamus is enormous compared with Mijbil. |
-| **Beaver** | Closer than some guesses, but still wrong. |
-| **Bear cub** | Shows confusion caused by Mijbil's unfamiliar appearance. |
-| **Leopard** | Completely impossible in the context. |
-| **Brontosaur** | Comic exaggeration; people name anything except otter. |
+| Guess          | Why It Is Funny                                                                    |
+| -------------- | ---------------------------------------------------------------------------------- |
+| **Baby seal**  | Otters and seals both like water, but the city street setting makes the guess odd. |
+| **Squirrel**   | Mijbil is far larger and very different.                                           |
+| **Walrus**     | A walrus is much bigger and tusked, so the guess is absurd.                        |
+| **Hippo**      | A hippopotamus is enormous compared with Mijbil.                                   |
+| **Beaver**     | Closer than some guesses, but still wrong.                                         |
+| **Bear cub**   | Shows confusion caused by Mijbil's unfamiliar appearance.                          |
+| **Leopard**    | Completely impossible in the context.                                              |
+| **Brontosaur** | Comic exaggeration; people name anything except otter.                             |
 
 The best question, in Maxwell's view, comes from a labourer who does not even try to identify Mijbil. He simply asks what the animal is "supposed to be." This question is funny because it suggests Mijbil looks like an impossible creature.
 
 ## Oral Comprehension Check
 
-| Question | Model Answer |
-|---|---|
-| What game had Mijbil invented? | He rolled a ping-pong ball down a sloping suitcase lid, ambushed it at the other end, and repeated the game. |
-| What are compulsive habits? | They are repeated actions that feel difficult to resist. |
-| What compulsive habits of children are mentioned? | Children may step on paving blocks in a fixed way, touch railings, or follow fixed walking rules. |
-| What compulsive habit does Mijbil have? | On the way home, he insists on running along a low wall near the school. |
-| What group of animals do otters belong to? | They belong to the mustelline group. |
-| What guesses did Londoners make? | They guessed baby seal, squirrel, walrus, hippo, beaver, bear cub, leopard, and brontosaur, among others. |
+| Question                                          | Model Answer                                                                                                 |
+| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| What game had Mijbil invented?                    | He rolled a ping-pong ball down a sloping suitcase lid, ambushed it at the other end, and repeated the game. |
+| What are compulsive habits?                       | They are repeated actions that feel difficult to resist.                                                     |
+| What compulsive habits of children are mentioned? | Children may step on paving blocks in a fixed way, touch railings, or follow fixed walking rules.            |
+| What compulsive habit does Mijbil have?           | On the way home, he insists on running along a low wall near the school.                                     |
+| What group of animals do otters belong to?        | They belong to the mustelline group.                                                                         |
+| What guesses did Londoners make?                  | They guessed baby seal, squirrel, walrus, hippo, beaver, bear cub, leopard, and brontosaur, among others.    |
 
 ---
 
@@ -509,14 +510,14 @@ The best question, in Maxwell's view, comes from a labourer who does not even tr
 
 ## Mijbil as Intelligent, Friendly, and Fun-Loving
 
-| Quality | Evidence from the Story |
-|---|---|
-| **Intelligent** | He learns to turn taps, invents games, and uses objects creatively. |
-| **Friendly** | He comes when Maxwell calls and returns to him in the airplane. |
-| **Affectionate** | He sleeps near Maxwell and nuzzles his face and neck. |
-| **Fun-loving** | He plays with water, balls, marbles, and the suitcase game. |
-| **Curious** | He explores his surroundings and investigates taps. |
-| **Energetic** | He runs, splashes, rolls, climbs, and plays for long periods. |
+| Quality          | Evidence from the Story                                             |
+| ---------------- | ------------------------------------------------------------------- |
+| **Intelligent**  | He learns to turn taps, invents games, and uses objects creatively. |
+| **Friendly**     | He comes when Maxwell calls and returns to him in the airplane.     |
+| **Affectionate** | He sleeps near Maxwell and nuzzles his face and neck.               |
+| **Fun-loving**   | He plays with water, balls, marbles, and the suitcase game.         |
+| **Curious**      | He explores his surroundings and investigates taps.                 |
+| **Energetic**    | He runs, splashes, rolls, climbs, and plays for long periods.       |
 
 ## What We Learn About Otters
 
@@ -538,28 +539,28 @@ Mijbil belonged to a race of otter previously unknown to science. Because Gavin 
 
 ## Completing Maxwell's View of Mijbil
 
-| What Mijbil Does | What Maxwell Thinks Mijbil Feels or Thinks |
-|---|---|
-| Plunges and rolls in water | He feels intense joy and treats water as something to play with. |
-| Turns the tap the wrong way | He is irritated and disappointed because the tap does not cooperate. |
-| Nuzzles Maxwell in the airplane | He recognizes Maxwell, feels safe, and shows affection. |
-| Sleeps near Maxwell's knees | He begins to trust Maxwell and accepts him as companion. |
-| Plays with marbles | He is deeply absorbed in skillful, enjoyable play. |
-| Runs along the school wall | He follows a favourite ritual and enjoys the route. |
+| What Mijbil Does                | What Maxwell Thinks Mijbil Feels or Thinks                           |
+| ------------------------------- | -------------------------------------------------------------------- |
+| Plunges and rolls in water      | He feels intense joy and treats water as something to play with.     |
+| Turns the tap the wrong way     | He is irritated and disappointed because the tap does not cooperate. |
+| Nuzzles Maxwell in the airplane | He recognizes Maxwell, feels safe, and shows affection.              |
+| Sleeps near Maxwell's knees     | He begins to trust Maxwell and accepts him as companion.             |
+| Plays with marbles              | He is deeply absorbed in skillful, enjoyable play.                   |
+| Runs along the school wall      | He follows a favourite ritual and enjoys the route.                  |
 
 ## Maxwell's Description of Mijbil
 
 Maxwell makes Mijbil seem vivid because he observes exact behaviour rather than giving only general praise.
 
-| Statement | Supported? | Explanation |
-|---|---|---|
-| Mij seems almost human, like a small boy. | Yes | He learns, sulks, plays, returns affection, and has habits. |
-| Maxwell is often irritated with Mijbil. | Partly | He sometimes faces trouble, but affection is stronger than irritation. |
-| Maxwell is often surprised by Mijbil. | Yes | The tap incident, games, and airplane return surprise him. |
-| Mijbil's antics are comical. | Yes | The airplane scene and London guesses are humorous. |
-| Maxwell observes Mijbil carefully. | Yes | His descriptions are precise and detailed. |
-| Maxwell thinks Mijbil is ordinary. | No | He presents Mijbil as unusual and fascinating. |
-| Maxwell thinks the otter is unusual. | Yes | Scientific naming and unique behaviour support this. |
+| Statement                                 | Supported? | Explanation                                                            |
+| ----------------------------------------- | ---------- | ---------------------------------------------------------------------- |
+| Mij seems almost human, like a small boy. | Yes        | He learns, sulks, plays, returns affection, and has habits.            |
+| Maxwell is often irritated with Mijbil.   | Partly     | He sometimes faces trouble, but affection is stronger than irritation. |
+| Maxwell is often surprised by Mijbil.     | Yes        | The tap incident, games, and airplane return surprise him.             |
+| Mijbil's antics are comical.              | Yes        | The airplane scene and London guesses are humorous.                    |
+| Maxwell observes Mijbil carefully.        | Yes        | His descriptions are precise and detailed.                             |
+| Maxwell thinks Mijbil is ordinary.        | No         | He presents Mijbil as unusual and fascinating.                         |
+| Maxwell thinks the otter is unusual.      | Yes        | Scientific naming and unique behaviour support this.                   |
 
 ## Narrative Method
 
@@ -575,15 +576,15 @@ Maxwell's narration works because he combines:
 
 ## Character Map
 
-| Character / Figure | Role in the Chapter |
-|---|---|
-| **Gavin Maxwell** | Narrator, owner of Mijbil, careful observer. |
-| **Mijbil / Mij** | Otter whose behaviour drives the story. |
-| **Maxwell's friend** | Suggests and arranges the otter. |
-| **Two Arabs** | Bring the otter in a sack. |
-| **Air hostess** | Helps Maxwell during the flight. |
-| **Londoners** | React comically to an unfamiliar animal. |
-| **Labourer** | Asks the funniest question about Mijbil's identity. |
+| Character / Figure   | Role in the Chapter                                 |
+| -------------------- | --------------------------------------------------- |
+| **Gavin Maxwell**    | Narrator, owner of Mijbil, careful observer.        |
+| **Mijbil / Mij**     | Otter whose behaviour drives the story.             |
+| **Maxwell's friend** | Suggests and arranges the otter.                    |
+| **Two Arabs**        | Bring the otter in a sack.                          |
+| **Air hostess**      | Helps Maxwell during the flight.                    |
+| **Londoners**        | React comically to an unfamiliar animal.            |
+| **Labourer**         | Asks the funniest question about Mijbil's identity. |
 
 ---
 
@@ -615,22 +616,22 @@ Examples:
 
 ## Would vs Used To
 
-| Situation | Use | Example |
-|---|---|---|
-| Repeated action in the past | `would` or `used to` | He would play for hours. / He used to play for hours. |
-| Past state or situation | only `used to` | He used to be shy at first. |
-| Belief or feeling in the past | only `used to` | Children used to believe many stories. |
-| Possession in the past | only `used to` | Very few people used to own cars. |
+| Situation                     | Use                  | Example                                               |
+| ----------------------------- | -------------------- | ----------------------------------------------------- |
+| Repeated action in the past   | `would` or `used to` | He would play for hours. / He used to play for hours. |
+| Past state or situation       | only `used to`       | He used to be shy at first.                           |
+| Belief or feeling in the past | only `used to`       | Children used to believe many stories.                |
+| Possession in the past        | only `used to`       | Very few people used to own cars.                     |
 
 ## Practice: Would or Used To
 
-| Prompt | Correct Sentence |
-|---|---|
-| Emperor Akbar / be fond of musical evenings | Emperor Akbar used to be fond of musical evenings. |
-| Every evening / we / take long walks | Every evening we would take long walks. / We used to take long walks. |
-| Fifty years ago / few people / own cars | Fifty years ago, very few people used to own cars. |
-| Till the 1980s / Shanghai / have dirty streets | Till the 1980s, Shanghai used to have very dirty streets. |
-| My uncle / spend holidays by the sea | My uncle would spend his holidays by the sea. / My uncle used to spend his holidays by the sea. |
+| Prompt                                         | Correct Sentence                                                                                |
+| ---------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| Emperor Akbar / be fond of musical evenings    | Emperor Akbar used to be fond of musical evenings.                                              |
+| Every evening / we / take long walks           | Every evening we would take long walks. / We used to take long walks.                           |
+| Fifty years ago / few people / own cars        | Fifty years ago, very few people used to own cars.                                              |
+| Till the 1980s / Shanghai / have dirty streets | Till the 1980s, Shanghai used to have very dirty streets.                                       |
+| My uncle / spend holidays by the sea           | My uncle would spend his holidays by the sea. / My uncle used to spend his holidays by the sea. |
 
 ## Learner Tip
 
@@ -651,41 +652,41 @@ Modifiers may be:
 
 ## Examples from the Chapter
 
-| Phrase | Main Noun | Modifier Type |
-|---|---|---|
-| **otter fixation** | fixation | noun modifier |
-| **Tigris marshes** | marshes | proper noun modifier |
-| **iron railings** | railings | noun modifier |
-| **London streets** | streets | proper noun modifier |
-| **soft velvet fur** | fur | adjective + noun modifier |
-| **four-footed soccer player** | player | adjective + noun modifier |
+| Phrase                        | Main Noun | Modifier Type             |
+| ----------------------------- | --------- | ------------------------- |
+| **otter fixation**            | fixation  | noun modifier             |
+| **Tigris marshes**            | marshes   | proper noun modifier      |
+| **iron railings**             | railings  | noun modifier             |
+| **London streets**            | streets   | proper noun modifier      |
+| **soft velvet fur**           | fur       | adjective + noun modifier |
+| **four-footed soccer player** | player    | adjective + noun modifier |
 
 ## How to Read Noun Phrases
 
 In English, the main noun usually comes at the end.
 
-| Phrase | Meaning |
-|---|---|
-| **tea garden manager** | manager of a tea garden |
-| **school wall ritual** | ritual connected with a school wall |
-| **animal transport rule** | rule about transporting animals |
-| **London street crowd** | crowd on a London street |
-| **otter care guide** | guide for caring for an otter |
+| Phrase                    | Meaning                             |
+| ------------------------- | ----------------------------------- |
+| **tea garden manager**    | manager of a tea garden             |
+| **school wall ritual**    | ritual connected with a school wall |
+| **animal transport rule** | rule about transporting animals     |
+| **London street crowd**   | crowd on a London street            |
+| **otter care guide**      | guide for caring for an otter       |
 
 ## Practice Phrases
 
-| Noun | Possible Modifiers |
-|---|---|
-| **dresses** | hundred dresses, cotton dresses, festival dresses |
-| **person** | ordinary person, brave person, thoughtful person |
-| **boys** | school boys, noisy boys, first boys |
-| **roar** | loud roar, tremendous roar |
-| **gifts** | birthday gifts, farewell gifts, thoughtful gifts |
-| **expression** | uncomfortable expression, ridiculous expression |
-| **view** | panoramic view, mountain view |
-| **celebration** | family celebration, birthday celebration |
-| **profession** | medical profession, teaching profession |
-| **coffee** | strong coffee, hot coffee, plantation coffee |
+| Noun            | Possible Modifiers                                |
+| --------------- | ------------------------------------------------- |
+| **dresses**     | hundred dresses, cotton dresses, festival dresses |
+| **person**      | ordinary person, brave person, thoughtful person  |
+| **boys**        | school boys, noisy boys, first boys               |
+| **roar**        | loud roar, tremendous roar                        |
+| **gifts**       | birthday gifts, farewell gifts, thoughtful gifts  |
+| **expression**  | uncomfortable expression, ridiculous expression   |
+| **view**        | panoramic view, mountain view                     |
+| **celebration** | family celebration, birthday celebration          |
+| **profession**  | medical profession, teaching profession           |
+| **coffee**      | strong coffee, hot coffee, plantation coffee      |
 
 ---
 
@@ -704,27 +705,27 @@ Examples:
 
 ## Matching Quantity Phrases
 
-| Phrase | Possible Completion |
-|---|---|
-| **a portion of** | fried fish |
-| **a pool of** | water / blood |
-| **flakes of** | snow |
-| **a huge heap of** | stones |
-| **a gust of** | wind |
-| **little drops of** | water / blood |
-| **a piece of** | paper / advice |
-| **a pot of** | tea |
+| Phrase              | Possible Completion |
+| ------------------- | ------------------- |
+| **a portion of**    | fried fish          |
+| **a pool of**       | water / blood       |
+| **flakes of**       | snow                |
+| **a huge heap of**  | stones              |
+| **a gust of**       | wind                |
+| **little drops of** | water / blood       |
+| **a piece of**      | paper / advice      |
+| **a pot of**        | tea                 |
 
 ## Sentence Practice
 
-| Original Idea | Improved Sentence |
-|---|---|
-| My teacher gave me some advice. | My teacher gave me a bit of advice. |
-| Can you give me some clay? | Can you give me a lump of clay? |
-| The information was useful. | The piece of information you gave was useful. |
-| Smoke hangs over the city. | A cloud of smoke hangs over the city. |
-| Two stones produced fire. | Two stones produced sparks of fire. |
-| He gave me flowers. | He gave me a bunch of flowers. |
+| Original Idea                   | Improved Sentence                             |
+| ------------------------------- | --------------------------------------------- |
+| My teacher gave me some advice. | My teacher gave me a bit of advice.           |
+| Can you give me some clay?      | Can you give me a lump of clay?               |
+| The information was useful.     | The piece of information you gave was useful. |
+| Smoke hangs over the city.      | A cloud of smoke hangs over the city.         |
+| Two stones produced fire.       | Two stones produced sparks of fire.           |
+| He gave me flowers.             | He gave me a bunch of flowers.                |
 
 ---
 
@@ -754,25 +755,25 @@ Maxwell cannot ask Mijbil what he feels. He observes actions and guesses feeling
 
 A good description should include:
 
-| Element | What to Write |
-|---|---|
-| **Introduction** | Who or what you are describing. |
-| **Appearance** | Size, colour, movement, face, clothes, fur, or posture. |
-| **Habits** | Repeated actions that reveal personality. |
-| **Actions** | Specific things the person or animal does. |
-| **Feelings** | What you infer from behaviour. |
-| **Relationship** | Your bond with the person or animal. |
-| **Conclusion** | Why the person or animal matters to you. |
+| Element          | What to Write                                           |
+| ---------------- | ------------------------------------------------------- |
+| **Introduction** | Who or what you are describing.                         |
+| **Appearance**   | Size, colour, movement, face, clothes, fur, or posture. |
+| **Habits**       | Repeated actions that reveal personality.               |
+| **Actions**      | Specific things the person or animal does.              |
+| **Feelings**     | What you infer from behaviour.                          |
+| **Relationship** | Your bond with the person or animal.                    |
+| **Conclusion**   | Why the person or animal matters to you.                |
 
 ## Model Description Plan
 
-| Paragraph | Focus |
-|---|---|
-| **1** | Introduce the animal and your relationship with it. |
-| **2** | Describe appearance and first impression. |
-| **3** | Describe daily habits and favourite activities. |
-| **4** | Explain what its behaviour shows about its feelings. |
-| **5** | Conclude with what you have learned from it. |
+| Paragraph | Focus                                                |
+| --------- | ---------------------------------------------------- |
+| **1**     | Introduce the animal and your relationship with it.  |
+| **2**     | Describe appearance and first impression.            |
+| **3**     | Describe daily habits and favourite activities.      |
+| **4**     | Explain what its behaviour shows about its feelings. |
+| **5**     | Conclude with what you have learned from it.         |
 
 ## Sample Opening
 
@@ -796,13 +797,13 @@ Topics for discussion:
 
 ## Ethics of Keeping Wild Animals
 
-| Question | Thinking Direction |
-|---|---|
-| Is it cute to keep a wild animal on a leash? | It may look cute, but it may restrict natural behaviour. |
-| What does a wild animal lose in captivity? | Habitat, freedom, natural diet, social life, hunting, movement. |
-| Can affection replace habitat? | Affection helps, but it cannot fully replace ecological needs. |
-| Was Maxwell cruel? | The text shows affection, but modern readers should still discuss animal welfare seriously. |
-| What is the safer modern approach? | Protect habitats, support rescue centres, avoid illegal wildlife trade. |
+| Question                                     | Thinking Direction                                                                          |
+| -------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Is it cute to keep a wild animal on a leash? | It may look cute, but it may restrict natural behaviour.                                    |
+| What does a wild animal lose in captivity?   | Habitat, freedom, natural diet, social life, hunting, movement.                             |
+| Can affection replace habitat?               | Affection helps, but it cannot fully replace ecological needs.                              |
+| Was Maxwell cruel?                           | The text shows affection, but modern readers should still discuss animal welfare seriously. |
+| What is the safer modern approach?           | Protect habitats, support rescue centres, avoid illegal wildlife trade.                     |
 
 ## Research Task
 
@@ -821,14 +822,14 @@ Students can research:
 
 ## Text Identity
 
-| Detail | Information |
-|---|---|
-| **Poem** | Fog |
-| **Poet** | Carl Sandburg |
-| **Form** | Short free verse poem |
-| **Main Device** | Metaphor |
-| **Main Comparison** | Fog is compared to a quiet cat. |
-| **Mood** | Silent, gentle, watchful, mysterious. |
+| Detail              | Information                           |
+| ------------------- | ------------------------------------- |
+| **Poem**            | Fog                                   |
+| **Poet**            | Carl Sandburg                         |
+| **Form**            | Short free verse poem                 |
+| **Main Device**     | Metaphor                              |
+| **Main Comparison** | Fog is compared to a quiet cat.       |
+| **Mood**            | Silent, gentle, watchful, mysterious. |
 
 ## Short Summary
 
@@ -850,13 +851,13 @@ The poet suggests this through:
 
 ## Important Questions and Answers
 
-| Question | Model Answer |
-|---|---|
-| What does Sandburg think the fog is like? | He thinks fog is like a cat. |
-| How does the fog come? | It comes silently and softly. |
-| What does "it" refer to? | "It" refers to the fog. |
-| Does the poet directly say the fog is like a cat? | No. He implies it through cat-like movement and posture. |
-| Which details make the fog cat-like? | Its soft arrival, silent sitting, watchfulness, and quiet movement away. |
+| Question                                          | Model Answer                                                             |
+| ------------------------------------------------- | ------------------------------------------------------------------------ |
+| What does Sandburg think the fog is like?         | He thinks fog is like a cat.                                             |
+| How does the fog come?                            | It comes silently and softly.                                            |
+| What does "it" refer to?                          | "It" refers to the fog.                                                  |
+| Does the poet directly say the fog is like a cat? | No. He implies it through cat-like movement and posture.                 |
+| Which details make the fog cat-like?              | Its soft arrival, silent sitting, watchfulness, and quiet movement away. |
 
 ## Metaphor in the Poem
 
@@ -866,13 +867,13 @@ Here, fog is not said to be "like" a cat using a simile. Instead, the fog is des
 
 ## Why the Cat Image Works
 
-| Cat Quality | Fog Quality |
-|---|---|
-| Moves quietly | Fog appears without noise. |
-| Has soft feet | Fog spreads gently. |
-| Sits still | Fog can settle over a city. |
-| Watches silently | Fog seems to cover and observe everything. |
-| Leaves without warning | Fog can disappear gradually. |
+| Cat Quality            | Fog Quality                                |
+| ---------------------- | ------------------------------------------ |
+| Moves quietly          | Fog appears without noise.                 |
+| Has soft feet          | Fog spreads gently.                        |
+| Sits still             | Fog can settle over a city.                |
+| Watches silently       | Fog seems to cover and observe everything. |
+| Leaves without warning | Fog can disappear gradually.               |
 
 ## Free Verse
 
@@ -886,25 +887,25 @@ The poem has no clear rhyme scheme. That means there is no repeated pattern such
 
 ## Tone and Mood
 
-| Feature | Effect |
-|---|---|
-| **Short lines** | Make the poem quiet and controlled. |
-| **Simple words** | Create a clear image. |
-| **Animal metaphor** | Makes fog feel alive. |
-| **Silence** | Creates mystery and calm. |
-| **Movement away** | Gives the poem a complete little journey. |
+| Feature             | Effect                                    |
+| ------------------- | ----------------------------------------- |
+| **Short lines**     | Make the poem quiet and controlled.       |
+| **Simple words**    | Create a clear image.                     |
+| **Animal metaphor** | Makes fog feel alive.                     |
+| **Silence**         | Creates mystery and calm.                 |
+| **Movement away**   | Gives the poem a complete little journey. |
 
 ## Metaphor Practice
 
 The exercise asks learners to create metaphors for common things.
 
-| Word | Possible Metaphor | Similarity |
-|---|---|---|
-| **Storm** | A tiger over the fields | Fierce, loud, sudden, powerful. |
-| **Train** | An iron snake | Long, moving, winding, noisy. |
-| **Fire** | A hungry dancer | Moves quickly, consumes, flickers. |
-| **School** | A beehive of minds | Busy, active, full of organised work. |
-| **Home** | A warm lamp | Gives comfort, safety, and belonging. |
+| Word       | Possible Metaphor       | Similarity                            |
+| ---------- | ----------------------- | ------------------------------------- |
+| **Storm**  | A tiger over the fields | Fierce, loud, sudden, powerful.       |
+| **Train**  | An iron snake           | Long, moving, winding, noisy.         |
+| **Fire**   | A hungry dancer         | Moves quickly, consumes, flickers.    |
+| **School** | A beehive of minds      | Busy, active, full of organised work. |
+| **Home**   | A warm lamp             | Gives comfort, safety, and belonging. |
 
 ## Writing a Storm Poem
 
@@ -929,12 +930,12 @@ the road lay shining and still.
 
 ## Connection Between "Mijbil the Otter" and "Fog"
 
-| Mijbil the Otter | Fog |
-|---|---|
-| Describes a real animal through behaviour. | Describes weather as if it were an animal. |
-| Shows movement, curiosity, and play. | Shows quiet arrival, stillness, and departure. |
-| Uses detailed observation. | Uses compressed poetic observation. |
-| Animal is literal. | Animal quality is metaphorical. |
+| Mijbil the Otter                           | Fog                                            |
+| ------------------------------------------ | ---------------------------------------------- |
+| Describes a real animal through behaviour. | Describes weather as if it were an animal.     |
+| Shows movement, curiosity, and play.       | Shows quiet arrival, stillness, and departure. |
+| Uses detailed observation.                 | Uses compressed poetic observation.            |
+| Animal is literal.                         | Animal quality is metaphorical.                |
 
 Both texts ask the reader to notice how living things move.
 
@@ -944,54 +945,54 @@ Both texts ask the reader to notice how living things move.
 
 ## Prose Facts
 
-| Item | Key Point |
-|---|---|
-| **Author** | Gavin Maxwell |
-| **Animal** | Mijbil the otter |
-| **Place where otter is received** | Basra, Iraq |
-| **Natural source region** | Tigris marshes |
-| **Maxwell's home** | Camusfearna, West Highlands, Scotland |
-| **Scientific importance** | Mijbil belonged to a race previously unknown to science. |
-| **Main relationship** | Trust and affection between Maxwell and Mijbil. |
+| Item                              | Key Point                                                |
+| --------------------------------- | -------------------------------------------------------- |
+| **Author**                        | Gavin Maxwell                                            |
+| **Animal**                        | Mijbil the otter                                         |
+| **Place where otter is received** | Basra, Iraq                                              |
+| **Natural source region**         | Tigris marshes                                           |
+| **Maxwell's home**                | Camusfearna, West Highlands, Scotland                    |
+| **Scientific importance**         | Mijbil belonged to a race previously unknown to science. |
+| **Main relationship**             | Trust and affection between Maxwell and Mijbil.          |
 
 ## Mijbil's Main Actions
 
-| Action | What It Shows |
-|---|---|
-| Sleeps near Maxwell | Growing trust. |
-| Plays in water | Natural otter behaviour. |
-| Turns taps | Intelligence and curiosity. |
-| Juggles marbles | Playfulness and coordination. |
-| Tears box lining | Fear and distress during confinement. |
-| Returns to Maxwell in airplane | Recognition and affection. |
-| Runs along school wall | Compulsive habit and love of movement. |
+| Action                         | What It Shows                          |
+| ------------------------------ | -------------------------------------- |
+| Sleeps near Maxwell            | Growing trust.                         |
+| Plays in water                 | Natural otter behaviour.               |
+| Turns taps                     | Intelligence and curiosity.            |
+| Juggles marbles                | Playfulness and coordination.          |
+| Tears box lining               | Fear and distress during confinement.  |
+| Returns to Maxwell in airplane | Recognition and affection.             |
+| Runs along school wall         | Compulsive habit and love of movement. |
 
 ## Poem Facts
 
-| Item | Key Point |
-|---|---|
-| **Poet** | Carl Sandburg |
-| **Poem** | Fog |
-| **Main comparison** | Fog compared to a cat. |
-| **Device** | Metaphor. |
-| **Form** | Free verse. |
-| **Mood** | Silent, soft, watchful. |
+| Item                | Key Point               |
+| ------------------- | ----------------------- |
+| **Poet**            | Carl Sandburg           |
+| **Poem**            | Fog                     |
+| **Main comparison** | Fog compared to a cat.  |
+| **Device**          | Metaphor.               |
+| **Form**            | Free verse.             |
+| **Mood**            | Silent, soft, watchful. |
 
 ---
 
 # Unit 6K: Common Mistakes and Corrections
 
-| Mistake | Better Understanding |
-|---|---|
+| Mistake                                                   | Better Understanding                                                         |
+| --------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | Thinking the chapter is about "The Hundred Dresses - II". | The raw header is wrong; the actual content is "Mijbil the Otter" and "Fog". |
-| Saying Maxwell gets another dog. | He chooses an otter after his dog Jonnie dies. |
-| Thinking Mijbil is friendly immediately. | At first he is aloof and indifferent. |
-| Missing the importance of water. | Water is central to Mijbil's natural behaviour. |
-| Treating the airplane scene only as comedy. | It is comic, but it also shows animal distress and human kindness. |
-| Saying Londoners recognized Mijbil. | They made many wrong guesses. |
-| Using `would` for past states. | Use `used to` for past states like be, have, believe, own. |
-| Calling "Fog" a simile. | The poem mainly uses metaphor, not direct "like/as" comparison. |
-| Looking for rhyme in "Fog". | It is free verse with no obvious rhyme scheme. |
+| Saying Maxwell gets another dog.                          | He chooses an otter after his dog Jonnie dies.                               |
+| Thinking Mijbil is friendly immediately.                  | At first he is aloof and indifferent.                                        |
+| Missing the importance of water.                          | Water is central to Mijbil's natural behaviour.                              |
+| Treating the airplane scene only as comedy.               | It is comic, but it also shows animal distress and human kindness.           |
+| Saying Londoners recognized Mijbil.                       | They made many wrong guesses.                                                |
+| Using `would` for past states.                            | Use `used to` for past states like be, have, believe, own.                   |
+| Calling "Fog" a simile.                                   | The poem mainly uses metaphor, not direct "like/as" comparison.              |
+| Looking for rhyme in "Fog".                               | It is free verse with no obvious rhyme scheme.                               |
 
 ---
 
@@ -1068,4 +1069,4 @@ Both texts ask the reader to notice how living things move.
 
 ---
 
-*Source: NCERT Class 10 - English First Flight, Chapter 6 raw file. Learner-facing version manually rewritten from the extracted content of "Mijbil the Otter" and "Fog".*
+_Source: NCERT Class 10 - English First Flight, Chapter 6 raw file. Learner-facing version manually rewritten from the extracted content of "Mijbil the Otter" and "Fog"._

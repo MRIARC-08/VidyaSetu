@@ -1,4 +1,5 @@
 # Chapter 4: Primary Activities
+
 ### NCERT Class 12 - Geography Human
 
 ## Chapter at a Glance
@@ -22,28 +23,28 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Primary activity | Work directly using natural resources. |
-| Subsistence agriculture | Farming mainly for family or local consumption. |
-| Commercial agriculture | Farming mainly for sale in market. |
-| Shifting cultivation | Farming by clearing forest, cultivating briefly, then moving. |
-| Pastoral nomadism | Movement with animals in search of pasture and water. |
-| Plantation agriculture | Large-scale specialised farming of cash crops. |
-| Mixed farming | Crop cultivation combined with livestock rearing. |
-| Extensive farming | Farming over large areas with low labour per unit area. |
-| Intensive farming | Farming with high labour and input use per unit area. |
+| Term                    | Meaning                                                       |
+| ----------------------- | ------------------------------------------------------------- |
+| Primary activity        | Work directly using natural resources.                        |
+| Subsistence agriculture | Farming mainly for family or local consumption.               |
+| Commercial agriculture  | Farming mainly for sale in market.                            |
+| Shifting cultivation    | Farming by clearing forest, cultivating briefly, then moving. |
+| Pastoral nomadism       | Movement with animals in search of pasture and water.         |
+| Plantation agriculture  | Large-scale specialised farming of cash crops.                |
+| Mixed farming           | Crop cultivation combined with livestock rearing.             |
+| Extensive farming       | Farming over large areas with low labour per unit area.       |
+| Intensive farming       | Farming with high labour and input use per unit area.         |
 
 ## Quick Learning Map
 
-| Primary activity | Environment link |
-|---|---|
-| Gathering | Forest products and wild plants |
-| Pastoralism | Grasslands and dry regions |
-| Fishing | Marine and inland water bodies |
-| Agriculture | Soil, water, climate, and labour |
-| Mining | Mineral deposits |
-| Forestry | Forest resources |
+| Primary activity | Environment link                 |
+| ---------------- | -------------------------------- |
+| Gathering        | Forest products and wild plants  |
+| Pastoralism      | Grasslands and dry regions       |
+| Fishing          | Marine and inland water bodies   |
+| Agriculture      | Soil, water, climate, and labour |
+| Mining           | Mineral deposits                 |
+| Forestry         | Forest resources                 |
 
 # Unit 4A: Meaning of Primary Activities
 
@@ -251,24 +252,24 @@ Types:
 
 # Unit 4M: Comparison Toolkit
 
-| Type | Main feature | Example |
-|---|---|---|
-| Shifting cultivation | Moving fields after fertility decline | Tropical forest regions |
-| Intensive subsistence | High labour on small farms | Monsoon Asia |
-| Extensive grain farming | Large mechanised farms | Temperate grasslands |
-| Plantation | Single cash crop on estate | Tea, rubber, coffee |
-| Mixed farming | Crops plus livestock | Western Europe |
-| Dairy farming | Milk production | Near urban markets |
+| Type                    | Main feature                          | Example                 |
+| ----------------------- | ------------------------------------- | ----------------------- |
+| Shifting cultivation    | Moving fields after fertility decline | Tropical forest regions |
+| Intensive subsistence   | High labour on small farms            | Monsoon Asia            |
+| Extensive grain farming | Large mechanised farms                | Temperate grasslands    |
+| Plantation              | Single cash crop on estate            | Tea, rubber, coffee     |
+| Mixed farming           | Crops plus livestock                  | Western Europe          |
+| Dairy farming           | Milk production                       | Near urban markets      |
 
 # Unit 4N: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Calling all agriculture subsistence | Agriculture may be subsistence or commercial. |
+| Mistake                                   | Correction                                                     |
+| ----------------------------------------- | -------------------------------------------------------------- |
+| Calling all agriculture subsistence       | Agriculture may be subsistence or commercial.                  |
 | Confusing intensive and extensive farming | Intensive uses high input per area; extensive uses large area. |
-| Treating plantation as small farming | Plantations are large, specialised, and commercial. |
-| Ignoring market access | Commercial primary activities need transport and markets. |
-| Saying mining is secondary | Extraction is primary; processing minerals is secondary. |
+| Treating plantation as small farming      | Plantations are large, specialised, and commercial.            |
+| Ignoring market access                    | Commercial primary activities need transport and markets.      |
+| Saying mining is secondary                | Extraction is primary; processing minerals is secondary.       |
 
 ## Practice Set
 

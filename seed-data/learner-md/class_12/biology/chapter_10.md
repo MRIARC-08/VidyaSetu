@@ -1,15 +1,16 @@
 # Chapter 10: Biotechnology and its Applications
+
 ### NCERT Class 12 - Biology
 
 ## Chapter at a Glance
 
-| Item | Details |
-|---|---|
-| Main idea | Biotechnology applies genetic and cellular techniques in agriculture, medicine, diagnostics, and environmental problem solving. |
-| Agriculture focus | Genetically modified crops, pest resistance, improved nutrition, and reduced chemical dependence. |
-| Medicine focus | Recombinant insulin, gene therapy, molecular diagnosis, vaccines, and therapeutic proteins. |
-| Social focus | Ethical issues, biosafety, patents, and regulation. |
-| Most important skill | Link each application with the biological principle behind it. |
+| Item                 | Details                                                                                                                         |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| Main idea            | Biotechnology applies genetic and cellular techniques in agriculture, medicine, diagnostics, and environmental problem solving. |
+| Agriculture focus    | Genetically modified crops, pest resistance, improved nutrition, and reduced chemical dependence.                               |
+| Medicine focus       | Recombinant insulin, gene therapy, molecular diagnosis, vaccines, and therapeutic proteins.                                     |
+| Social focus         | Ethical issues, biosafety, patents, and regulation.                                                                             |
+| Most important skill | Link each application with the biological principle behind it.                                                                  |
 
 ## Learning Outcomes
 
@@ -28,27 +29,27 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Genetically modified organism | Organism whose genetic material has been altered using biotechnology. |
-| Bt toxin | Insecticidal protein from Bacillus thuringiensis. |
-| Cry gene | Gene coding for Bt toxin protein. |
-| RNA interference | Gene silencing mechanism involving RNA molecules. |
-| Recombinant insulin | Human insulin produced using genetically engineered microbes. |
-| Gene therapy | Treatment approach involving correction or compensation of defective gene function. |
-| Molecular diagnosis | Detection of disease using molecular tools such as DNA, RNA, or proteins. |
-| ELISA | Enzyme-linked immunosorbent assay used to detect antigens or antibodies. |
-| Transgenic animal | Animal carrying a foreign gene introduced by biotechnology. |
-| Biosafety | Safety measures for handling genetically modified organisms and products. |
+| Term                          | Meaning                                                                             |
+| ----------------------------- | ----------------------------------------------------------------------------------- |
+| Genetically modified organism | Organism whose genetic material has been altered using biotechnology.               |
+| Bt toxin                      | Insecticidal protein from Bacillus thuringiensis.                                   |
+| Cry gene                      | Gene coding for Bt toxin protein.                                                   |
+| RNA interference              | Gene silencing mechanism involving RNA molecules.                                   |
+| Recombinant insulin           | Human insulin produced using genetically engineered microbes.                       |
+| Gene therapy                  | Treatment approach involving correction or compensation of defective gene function. |
+| Molecular diagnosis           | Detection of disease using molecular tools such as DNA, RNA, or proteins.           |
+| ELISA                         | Enzyme-linked immunosorbent assay used to detect antigens or antibodies.            |
+| Transgenic animal             | Animal carrying a foreign gene introduced by biotechnology.                         |
+| Biosafety                     | Safety measures for handling genetically modified organisms and products.           |
 
 ## Quick Learning Map
 
-| Area | Application |
-|---|---|
+| Area        | Application                                                              |
+| ----------- | ------------------------------------------------------------------------ |
 | Agriculture | Bt crops, pest resistance, herbicide tolerance, nutritional improvement. |
-| Medicine | Insulin, vaccines, gene therapy, diagnosis. |
-| Animals | Disease models, biological products, safety testing. |
-| Ethics | Safety, fairness, consent, environment, regulation. |
+| Medicine    | Insulin, vaccines, gene therapy, diagnosis.                              |
+| Animals     | Disease models, biological products, safety testing.                     |
+| Ethics      | Safety, fairness, consent, environment, regulation.                      |
 
 # Unit 10A: Biotechnology in Agriculture
 
@@ -73,14 +74,14 @@ Genetically modified crops carry introduced genes that provide desired traits.
 
 ## Desired Traits
 
-| Trait | Purpose |
-|---|---|
-| Insect resistance | Reduce crop loss and pesticide use. |
-| Herbicide tolerance | Help weed management. |
-| Disease resistance | Reduce pathogen damage. |
-| Delayed ripening | Improve shelf life. |
-| Nutritional enhancement | Improve food quality. |
-| Stress tolerance | Help survival under drought, salinity, or temperature stress. |
+| Trait                   | Purpose                                                       |
+| ----------------------- | ------------------------------------------------------------- |
+| Insect resistance       | Reduce crop loss and pesticide use.                           |
+| Herbicide tolerance     | Help weed management.                                         |
+| Disease resistance      | Reduce pathogen damage.                                       |
+| Delayed ripening        | Improve shelf life.                                           |
+| Nutritional enhancement | Improve food quality.                                         |
+| Stress tolerance        | Help survival under drought, salinity, or temperature stress. |
 
 # Unit 10C: Bt Crops
 
@@ -247,14 +248,14 @@ They consider:
 
 # Unit 10L: Common Mistakes and Corrections
 
-| Mistake | Correct Understanding |
-|---|---|
-| Bt toxin is active inside bacteria exactly as in insect | It is produced as inactive protoxin and activated in insect gut. |
-| All GM crops are the same | Traits differ by inserted gene and purpose. |
-| RNA interference changes the DNA sequence | It silences gene expression at RNA level. |
-| Recombinant insulin is extracted from animals | It is produced using genetically engineered cells. |
-| Gene therapy is simple permanent cure for all genetic diseases | It is complex, disease-specific, and needs safety review. |
-| Molecular diagnosis always detects symptoms | It detects molecular markers; symptoms may or may not be present. |
+| Mistake                                                        | Correct Understanding                                             |
+| -------------------------------------------------------------- | ----------------------------------------------------------------- |
+| Bt toxin is active inside bacteria exactly as in insect        | It is produced as inactive protoxin and activated in insect gut.  |
+| All GM crops are the same                                      | Traits differ by inserted gene and purpose.                       |
+| RNA interference changes the DNA sequence                      | It silences gene expression at RNA level.                         |
+| Recombinant insulin is extracted from animals                  | It is produced using genetically engineered cells.                |
+| Gene therapy is simple permanent cure for all genetic diseases | It is complex, disease-specific, and needs safety review.         |
+| Molecular diagnosis always detects symptoms                    | It detects molecular markers; symptoms may or may not be present. |
 
 ## Practice Set
 

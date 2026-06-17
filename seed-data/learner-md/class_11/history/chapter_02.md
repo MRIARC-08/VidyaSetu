@@ -38,48 +38,48 @@ After studying this chapter, you should be able to:
 
 ## Chapter Snapshot
 
-| Area | What To Remember |
-|---|---|
-| Main focus | Roman Empire from the early empire to late antiquity |
-| Geographic spread | Europe, North Africa, and western Asia |
-| Central sea | Mediterranean Sea |
-| Northern frontier | Rhine and Danube rivers |
-| Southern frontier | Sahara desert |
-| Eastern rival | Iran, ruled by Parthians and later Sasanians |
-| First emperor | Augustus |
-| Political form under Augustus | Principate |
-| Major political forces | Emperor, Senate, army |
-| Major administrative strength | Cities and provincial elites |
-| Major economic signs | Trade, agriculture, mining, money, amphorae evidence |
-| Major social issues | Slavery, wage labour, debt bondage, hierarchy |
-| Major late changes | Stronger bureaucracy, gold currency, Constantinople, Christianity |
-| Western outcome | Political fragmentation into post-Roman kingdoms |
-| Eastern outcome | Continued imperial strength, later called Byzantium |
+| Area                          | What To Remember                                                  |
+| ----------------------------- | ----------------------------------------------------------------- |
+| Main focus                    | Roman Empire from the early empire to late antiquity              |
+| Geographic spread             | Europe, North Africa, and western Asia                            |
+| Central sea                   | Mediterranean Sea                                                 |
+| Northern frontier             | Rhine and Danube rivers                                           |
+| Southern frontier             | Sahara desert                                                     |
+| Eastern rival                 | Iran, ruled by Parthians and later Sasanians                      |
+| First emperor                 | Augustus                                                          |
+| Political form under Augustus | Principate                                                        |
+| Major political forces        | Emperor, Senate, army                                             |
+| Major administrative strength | Cities and provincial elites                                      |
+| Major economic signs          | Trade, agriculture, mining, money, amphorae evidence              |
+| Major social issues           | Slavery, wage labour, debt bondage, hierarchy                     |
+| Major late changes            | Stronger bureaucracy, gold currency, Constantinople, Christianity |
+| Western outcome               | Political fragmentation into post-Roman kingdoms                  |
+| Eastern outcome               | Continued imperial strength, later called Byzantium               |
 
 ## Big Picture Timeline
 
-| Period | Main Development |
-|---|---|
-| 509 BCE to 27 BCE | Roman Republic before the empire |
-| 27 BCE | Augustus establishes the Principate |
-| 1st to 2nd centuries CE | Early empire remains comparatively stable and prosperous |
-| 113 to 117 CE | Trajan campaigns east of the Euphrates |
-| c. 115 CE | Roman Empire reaches one of its greatest territorial extents |
-| 212 CE | Free inhabitants of the empire become Roman citizens |
-| 224 or 225 CE | Sasanian dynasty rises in Iran |
-| 230s onward | Rome faces serious military pressure on multiple frontiers |
-| 284 to 305 CE | Diocletian reforms government and frontiers |
-| c. 310 CE | Constantine introduces the solidus gold coin |
-| 312 CE | Constantine converts to Christianity |
-| 324 CE | Constantine becomes sole ruler and develops Constantinople |
-| 378 CE | Goths defeat Roman armies at Adrianople |
-| 410 CE | Visigoths sack Rome |
-| 428 CE | Vandals capture Africa |
-| 533 to 550 CE | Justinian recovers Africa and Italy, but Italy is damaged |
-| 541 to 570 CE | Plague affects Mediterranean regions |
-| 614 to 619 CE | Sasanian Iran occupies major eastern Roman territories |
-| 633 to 642 CE | Early Arab conquests take Syria, Palestine, Egypt, Iraq, and parts of Iran |
-| 711 CE | Arab forces enter Spain |
+| Period                  | Main Development                                                           |
+| ----------------------- | -------------------------------------------------------------------------- |
+| 509 BCE to 27 BCE       | Roman Republic before the empire                                           |
+| 27 BCE                  | Augustus establishes the Principate                                        |
+| 1st to 2nd centuries CE | Early empire remains comparatively stable and prosperous                   |
+| 113 to 117 CE           | Trajan campaigns east of the Euphrates                                     |
+| c. 115 CE               | Roman Empire reaches one of its greatest territorial extents               |
+| 212 CE                  | Free inhabitants of the empire become Roman citizens                       |
+| 224 or 225 CE           | Sasanian dynasty rises in Iran                                             |
+| 230s onward             | Rome faces serious military pressure on multiple frontiers                 |
+| 284 to 305 CE           | Diocletian reforms government and frontiers                                |
+| c. 310 CE               | Constantine introduces the solidus gold coin                               |
+| 312 CE                  | Constantine converts to Christianity                                       |
+| 324 CE                  | Constantine becomes sole ruler and develops Constantinople                 |
+| 378 CE                  | Goths defeat Roman armies at Adrianople                                    |
+| 410 CE                  | Visigoths sack Rome                                                        |
+| 428 CE                  | Vandals capture Africa                                                     |
+| 533 to 550 CE           | Justinian recovers Africa and Italy, but Italy is damaged                  |
+| 541 to 570 CE           | Plague affects Mediterranean regions                                       |
+| 614 to 619 CE           | Sasanian Iran occupies major eastern Roman territories                     |
+| 633 to 642 CE           | Early Arab conquests take Syria, Palestine, Egypt, Iraq, and parts of Iran |
+| 711 CE                  | Arab forces enter Spain                                                    |
 
 ## How To Read This Chapter
 
@@ -89,17 +89,17 @@ Do not treat it as a list of emperors.
 
 Every major section answers a wider historical question.
 
-| Chapter Section | Main Question |
-|---|---|
-| Geography | How could one empire cover three continents? |
-| Political structure | Who really controlled Roman power? |
-| Cities | How did Rome govern without a modern state system? |
-| Crisis | Why did the empire become unstable in the third century? |
-| Society | How did family, gender, literacy, and culture work? |
-| Economy | Why was the empire commercially strong? |
-| Labour | How were workers, slaves, and peasants controlled? |
-| Social hierarchy | Who stood at the top and who stood below? |
-| Late antiquity | How did the empire transform rather than simply vanish? |
+| Chapter Section     | Main Question                                            |
+| ------------------- | -------------------------------------------------------- |
+| Geography           | How could one empire cover three continents?             |
+| Political structure | Who really controlled Roman power?                       |
+| Cities              | How did Rome govern without a modern state system?       |
+| Crisis              | Why did the empire become unstable in the third century? |
+| Society             | How did family, gender, literacy, and culture work?      |
+| Economy             | Why was the empire commercially strong?                  |
+| Labour              | How were workers, slaves, and peasants controlled?       |
+| Social hierarchy    | Who stood at the top and who stood below?                |
+| Late antiquity      | How did the empire transform rather than simply vanish?  |
 
 ## 1. The Meaning Of "An Empire Across Three Continents"
 
@@ -125,12 +125,12 @@ The sea allowed the empire to hold together territories that would have been muc
 
 ### Main Boundaries
 
-| Direction | Boundary Or Region |
-|---|---|
-| North | Rhine and Danube rivers |
-| South | Sahara desert |
-| West | Spain, Gaul, Britain, and western Mediterranean lands |
-| East | Euphrates region and frontier with Iran |
+| Direction | Boundary Or Region                                    |
+| --------- | ----------------------------------------------------- |
+| North     | Rhine and Danube rivers                               |
+| South     | Sahara desert                                         |
+| West      | Spain, Gaul, Britain, and western Mediterranean lands |
+| East      | Euphrates region and frontier with Iran               |
 
 ### Why Geography Mattered
 
@@ -154,10 +154,10 @@ Frontier regions needed armies and fortifications.
 
 During much of the period studied in this chapter, two great empires dominated western Eurasia.
 
-| Empire | Main Region | Important Features |
-|---|---|---|
-| Roman Empire | Mediterranean, Europe, North Africa, western Asia | Culturally diverse, city-based administration, Latin and Greek for administration |
-| Iranian Empire | South of the Caspian Sea, eastern Arabia, sometimes Afghanistan | Ruled by Parthians and later Sasanians, more culturally Iranian in composition |
+| Empire         | Main Region                                                     | Important Features                                                                |
+| -------------- | --------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| Roman Empire   | Mediterranean, Europe, North Africa, western Asia               | Culturally diverse, city-based administration, Latin and Greek for administration |
+| Iranian Empire | South of the Caspian Sea, eastern Arabia, sometimes Afghanistan | Ruled by Parthians and later Sasanians, more culturally Iranian in composition    |
 
 Rome and Iran were rivals.
 
@@ -232,10 +232,10 @@ For example, pottery containers called amphorae help historians understand where
 
 The Roman Empire is often divided into two broad phases.
 
-| Phase | Approximate Period | Main Features |
-|---|---|---|
-| Early empire | Up to the main part of the third century CE | Stability, strong army, provincial administration, economic growth |
-| Late empire | After the third-century crisis | Stronger bureaucracy, military reforms, new gold currency, Christianisation, eastern strength, western fragmentation |
+| Phase        | Approximate Period                          | Main Features                                                                                                        |
+| ------------ | ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| Early empire | Up to the main part of the third century CE | Stability, strong army, provincial administration, economic growth                                                   |
+| Late empire  | After the third-century crisis              | Stronger bureaucracy, military reforms, new gold currency, Christianisation, eastern strength, western fragmentation |
 
 The third century acts as a turning point because Rome faced severe military, political, and financial stress.
 
@@ -271,11 +271,11 @@ It was a monarchy disguised under older political language.
 
 The raw chapter identifies three major forces in Roman political history.
 
-| Political Player | Role |
-|---|---|
-| Emperor | Central ruler, highest authority, controller of major decisions |
-| Senate | Aristocratic body with prestige, wealth, and political tradition |
-| Army | Paid professional force with power to protect, pressure, or remove emperors |
+| Political Player | Role                                                                        |
+| ---------------- | --------------------------------------------------------------------------- |
+| Emperor          | Central ruler, highest authority, controller of major decisions             |
+| Senate           | Aristocratic body with prestige, wealth, and political tradition            |
+| Army             | Paid professional force with power to protect, pressure, or remove emperors |
 
 ### The Emperor
 
@@ -317,12 +317,12 @@ In periods of crisis, armies could make or break rulers.
 
 ## 8. Roman Army Compared With A Conscripted Army
 
-| Feature | Roman Army | Conscripted Army |
-|---|---|---|
-| Recruitment | Paid professional soldiers | Compulsory service for selected groups |
-| Service | Long-term service | Often based on obligation |
-| Loyalty | Often tied to commanders, emperor, pay, and rewards | Tied to state command and obligation |
-| Political role | Very strong in imperial Rome | Varies by system |
+| Feature        | Roman Army                                          | Conscripted Army                       |
+| -------------- | --------------------------------------------------- | -------------------------------------- |
+| Recruitment    | Paid professional soldiers                          | Compulsory service for selected groups |
+| Service        | Long-term service                                   | Often based on obligation              |
+| Loyalty        | Often tied to commanders, emperor, pay, and rewards | Tied to state command and obligation   |
+| Political role | Very strong in imperial Rome                        | Varies by system                       |
 
 The paid army gave Rome a strong military machine.
 
@@ -429,13 +429,13 @@ During shortages, city dwellers and officials could draw grain and other food fr
 
 ### Town And Countryside Contrast
 
-| Towns | Countryside |
-|---|---|
-| More public buildings | More agricultural labour |
-| Better food supply in many crises | More exposed during famine |
-| Administrative power | Tax and grain burden |
-| Public baths and entertainment | Harder physical work |
-| Elite residence and council life | Peasants, tenants, and estate labour |
+| Towns                             | Countryside                          |
+| --------------------------------- | ------------------------------------ |
+| More public buildings             | More agricultural labour             |
+| Better food supply in many crises | More exposed during famine           |
+| Administrative power              | Tax and grain burden                 |
+| Public baths and entertainment    | Harder physical work                 |
+| Elite residence and council life  | Peasants, tenants, and estate labour |
 
 ## 14. The Third-Century Crisis
 
@@ -447,13 +447,13 @@ From the 230s onward, the empire faced military threats on several fronts.
 
 ### Main Causes
 
-| Cause | Explanation |
-|---|---|
-| Sasanian rise in Iran | A new and aggressive dynasty challenged Rome in the east |
-| Pressure on Rhine and Danube | Germanic groups moved against northern frontiers |
-| Repeated invasions | Provinces from the Black Sea to southern Germany faced attacks |
-| Financial strain | Military defence required heavy taxation |
-| Rapid imperial turnover | Many emperors ruled briefly, showing instability |
+| Cause                        | Explanation                                                    |
+| ---------------------------- | -------------------------------------------------------------- |
+| Sasanian rise in Iran        | A new and aggressive dynasty challenged Rome in the east       |
+| Pressure on Rhine and Danube | Germanic groups moved against northern frontiers               |
+| Repeated invasions           | Provinces from the Black Sea to southern Germany faced attacks |
+| Financial strain             | Military defence required heavy taxation                       |
+| Rapid imperial turnover      | Many emperors ruled briefly, showing instability               |
 
 ### Why It Was Serious
 
@@ -511,12 +511,12 @@ So, Roman women could have property rights and legal identity, but they lived in
 
 ### Balanced View
 
-| Stronger Position | Continuing Inequality |
-|---|---|
-| Could own and manage property | Married young |
-| Could retain natal property rights | Arranged marriages common |
-| Divorce could be legally easier | Male authority remained strong |
-| Not always legally absorbed into husband's family | Domestic domination existed |
+| Stronger Position                                 | Continuing Inequality          |
+| ------------------------------------------------- | ------------------------------ |
+| Could own and manage property                     | Married young                  |
+| Could retain natal property rights                | Arranged marriages common      |
+| Divorce could be legally easier                   | Male authority remained strong |
+| Not always legally absorbed into husband's family | Domestic domination existed    |
 
 ## 16. Literacy
 
@@ -555,14 +555,14 @@ It contained many languages, religions, local customs, forms of dress, food habi
 
 ### Languages
 
-| Region | Language Or Language Group |
-|---|---|
-| Western empire | Latin widely used in administration and elite culture |
-| Eastern empire | Greek widely used |
-| Near East | Aramaic language group |
-| Egypt | Coptic |
-| North Africa | Punic and Berber |
-| Spain and northwest | Celtic languages |
+| Region              | Language Or Language Group                            |
+| ------------------- | ----------------------------------------------------- |
+| Western empire      | Latin widely used in administration and elite culture |
+| Eastern empire      | Greek widely used                                     |
+| Near East           | Aramaic language group                                |
+| Egypt               | Coptic                                                |
+| North Africa        | Punic and Berber                                      |
+| Spain and northwest | Celtic languages                                      |
 
 Latin and Greek were the most important administrative languages.
 
@@ -613,13 +613,13 @@ Fragments of amphorae help historians reconstruct trade.
 
 ### What Amphorae Can Tell Us
 
-| Evidence From Amphorae | What It Reveals |
-|---|---|
-| Shape | Type of container and sometimes product |
-| Clay content | Region of production |
-| Stamp or mark | Producer or workshop |
-| Distribution across sites | Trade routes and market reach |
-| Quantity of fragments | Scale of trade and consumption |
+| Evidence From Amphorae    | What It Reveals                         |
+| ------------------------- | --------------------------------------- |
+| Shape                     | Type of container and sometimes product |
+| Clay content              | Region of production                    |
+| Stamp or mark             | Producer or workshop                    |
+| Distribution across sites | Trade routes and market reach           |
+| Quantity of fragments     | Scale of trade and consumption          |
 
 Archaeologists can compare amphorae fragments with clay pits and production sites.
 
@@ -639,15 +639,15 @@ Others were less urbanised or more pastoral.
 
 ### Wealthy Or Fertile Regions
 
-| Region | Importance |
-|---|---|
-| Campania in Italy | Famous for wine |
-| Sicily | Grain production |
-| Fayum in Egypt | Fertile agriculture |
-| Galilee | Dense cultivation |
-| Byzacium in North Africa | Wheat and agricultural richness |
-| Southern Gaul | Strong agricultural and commercial zone |
-| Baetica in southern Spain | Olive oil estates |
+| Region                    | Importance                              |
+| ------------------------- | --------------------------------------- |
+| Campania in Italy         | Famous for wine                         |
+| Sicily                    | Grain production                        |
+| Fayum in Egypt            | Fertile agriculture                     |
+| Galilee                   | Dense cultivation                       |
+| Byzacium in North Africa  | Wheat and agricultural richness         |
+| Southern Gaul             | Strong agricultural and commercial zone |
+| Baetica in southern Spain | Olive oil estates                       |
 
 ### Less Developed Or Pastoral Regions
 
@@ -667,15 +667,15 @@ The Roman economy should not be dismissed as primitive simply because it belonge
 
 The chapter points to several signs of sophistication.
 
-| Area | Roman Achievement |
-|---|---|
-| Water power | Mills and water-powered technology |
-| Mining | Hydraulic mining and large-scale output |
-| Trade | Organised Mediterranean networks |
-| Money | Widespread use of coins |
-| Agriculture | Large estates and commercial crops |
-| Transport | Roads, ships, harbours, amphorae |
-| Urban construction | Aqueducts, baths, theatres, forums |
+| Area               | Roman Achievement                       |
+| ------------------ | --------------------------------------- |
+| Water power        | Mills and water-powered technology      |
+| Mining             | Hydraulic mining and large-scale output |
+| Trade              | Organised Mediterranean networks        |
+| Money              | Widespread use of coins                 |
+| Agriculture        | Large estates and commercial crops      |
+| Transport          | Roads, ships, harbours, amphorae        |
+| Urban construction | Aqueducts, baths, theatres, forums      |
 
 The Roman economy was uneven but highly developed in many regions.
 
@@ -726,15 +726,15 @@ This applied to both slaves and free workers.
 
 ### Methods Of Control
 
-| Method | Purpose |
-|---|---|
-| Close supervision | Prevent idleness and increase output |
-| Work gangs | Make monitoring easier |
-| Small teams | Identify effort and negligence |
-| Chains or restraint in harsh contexts | Prevent escape |
-| Branding in some cases | Identify runaway workers |
-| Debt contracts | Tie poor workers to employers |
-| Factory checks | Prevent theft of valuable goods |
+| Method                                | Purpose                              |
+| ------------------------------------- | ------------------------------------ |
+| Close supervision                     | Prevent idleness and increase output |
+| Work gangs                            | Make monitoring easier               |
+| Small teams                           | Identify effort and negligence       |
+| Chains or restraint in harsh contexts | Prevent escape                       |
+| Branding in some cases                | Identify runaway workers             |
+| Debt contracts                        | Tie poor workers to employers        |
+| Factory checks                        | Prevent theft of valuable goods      |
 
 The chapter uses Roman writers such as Columella, Pliny the Elder, Tacitus, and Augustine to show how labour was organised, controlled, and debated.
 
@@ -772,13 +772,13 @@ This is an elite view, but it helps reveal how Roman society was imagined by upp
 
 ### Early Empire Hierarchy
 
-| Group | Position |
-|---|---|
-| Senators | Highest aristocratic order, landowning elite |
-| Equestrians | Wealthy second order, often involved in business and administration |
-| Respectable dependents | Clients and followers of elite houses |
-| Plebs | Lower urban population |
-| Slaves | Unfree labouring population |
+| Group                  | Position                                                            |
+| ---------------------- | ------------------------------------------------------------------- |
+| Senators               | Highest aristocratic order, landowning elite                        |
+| Equestrians            | Wealthy second order, often involved in business and administration |
+| Respectable dependents | Clients and followers of elite houses                               |
+| Plebs                  | Lower urban population                                              |
+| Slaves                 | Unfree labouring population                                         |
 
 ## 27. Social Hierarchies In The Late Empire
 
@@ -883,13 +883,13 @@ He recognised that the empire was too large and pressured to manage in the older
 
 ### Main Reforms
 
-| Reform | Purpose |
-|---|---|
-| Abandoned some territories | Reduce burden of defending areas with low value |
-| Fortified frontiers | Strengthen defence |
-| Reorganised provinces | Improve administration |
-| Separated civil and military functions | Make command more specialised |
-| Gave more autonomy to military commanders | Improve frontier defence |
+| Reform                                    | Purpose                                         |
+| ----------------------------------------- | ----------------------------------------------- |
+| Abandoned some territories                | Reduce burden of defending areas with low value |
+| Fortified frontiers                       | Strengthen defence                              |
+| Reorganised provinces                     | Improve administration                          |
+| Separated civil and military functions    | Make command more specialised                   |
+| Gave more autonomy to military commanders | Improve frontier defence                        |
 
 These reforms show that the empire was adapting to pressure.
 
@@ -899,11 +899,11 @@ Constantine consolidated earlier changes and added major innovations.
 
 ### Major Innovations
 
-| Innovation | Importance |
-|---|---|
-| Solidus gold coin | Stabilised high-value currency |
-| Constantinople | Created a new imperial capital in the east |
-| Support for Christianity | Transformed imperial religious policy |
+| Innovation                 | Importance                                    |
+| -------------------------- | --------------------------------------------- |
+| Solidus gold coin          | Stabilised high-value currency                |
+| Constantinople             | Created a new imperial capital in the east    |
+| Support for Christianity   | Transformed imperial religious policy         |
 | Expanded governing classes | Needed for the new capital and administration |
 
 Constantinople was strategically located at the site of Byzantium, near key routes between Europe and Asia.
@@ -965,12 +965,12 @@ It affected:
 
 The empire developed differently in east and west.
 
-| Western Empire | Eastern Empire |
-|---|---|
-| Faced political fragmentation | Remained more unified |
-| Germanic groups took over major provinces | Constantinople remained powerful |
-| Post-Roman kingdoms emerged | Stronger tax base and urban prosperity |
-| Rome's direct imperial control weakened | Continued as Byzantium |
+| Western Empire                            | Eastern Empire                         |
+| ----------------------------------------- | -------------------------------------- |
+| Faced political fragmentation             | Remained more unified                  |
+| Germanic groups took over major provinces | Constantinople remained powerful       |
+| Post-Roman kingdoms emerged               | Stronger tax base and urban prosperity |
+| Rome's direct imperial control weakened   | Continued as Byzantium                 |
 
 ## 37. Post-Roman Kingdoms In The West
 
@@ -1020,81 +1020,81 @@ The chapter links this transformation to the next wider historical theme.
 
 ## 40. Key Terms
 
-| Term | Meaning |
-|---|---|
-| Empire | A large political formation ruling many regions and peoples |
-| Mediterranean | Sea at the centre of Roman imperial power |
-| Principate | Political system established by Augustus, presenting the ruler as leading citizen |
-| Princeps | Latin term meaning leading citizen |
-| Senate | Aristocratic Roman body with prestige and political tradition |
-| Republic | Earlier Roman regime where power was associated with the Senate and magistracies |
-| Province | Territory organised under Roman rule outside Italy |
-| Client kingdom | Local kingdom allied with and dependent on Rome |
-| Civil war | Armed conflict within the same political community |
-| Conscripted army | Army based on compulsory recruitment |
-| Amphora | Transport container, often for wine or olive oil |
-| Transhumance | Seasonal movement of herders between pastures |
-| Freedman | Former slave who had been freed |
-| Humiliores | Lower-status groups in Roman society |
-| Equestrians | Wealthy Roman order below senators in older hierarchy |
-| Solidus | Gold coin introduced by Constantine |
-| Late antiquity | Period of Roman transformation from roughly fourth to seventh centuries |
-| Christianisation | Spread and dominance of Christianity in society and state |
-| Polytheism | Worship of many gods |
-| Byzantium | Name often used for the eastern Roman Empire in its later history |
+| Term             | Meaning                                                                           |
+| ---------------- | --------------------------------------------------------------------------------- |
+| Empire           | A large political formation ruling many regions and peoples                       |
+| Mediterranean    | Sea at the centre of Roman imperial power                                         |
+| Principate       | Political system established by Augustus, presenting the ruler as leading citizen |
+| Princeps         | Latin term meaning leading citizen                                                |
+| Senate           | Aristocratic Roman body with prestige and political tradition                     |
+| Republic         | Earlier Roman regime where power was associated with the Senate and magistracies  |
+| Province         | Territory organised under Roman rule outside Italy                                |
+| Client kingdom   | Local kingdom allied with and dependent on Rome                                   |
+| Civil war        | Armed conflict within the same political community                                |
+| Conscripted army | Army based on compulsory recruitment                                              |
+| Amphora          | Transport container, often for wine or olive oil                                  |
+| Transhumance     | Seasonal movement of herders between pastures                                     |
+| Freedman         | Former slave who had been freed                                                   |
+| Humiliores       | Lower-status groups in Roman society                                              |
+| Equestrians      | Wealthy Roman order below senators in older hierarchy                             |
+| Solidus          | Gold coin introduced by Constantine                                               |
+| Late antiquity   | Period of Roman transformation from roughly fourth to seventh centuries           |
+| Christianisation | Spread and dominance of Christianity in society and state                         |
+| Polytheism       | Worship of many gods                                                              |
+| Byzantium        | Name often used for the eastern Roman Empire in its later history                 |
 
 ## 41. Major People
 
-| Person | Role In The Chapter |
-|---|---|
-| Augustus | First emperor, founder of the Principate |
-| Tiberius | Successor of Augustus, adopted to secure succession |
-| Trajan | Emperor associated with major eastern campaigns |
-| Gallienus | Emperor who reduced senatorial access to military command |
-| Diocletian | Reformer of late imperial administration and defence |
+| Person      | Role In The Chapter                                              |
+| ----------- | ---------------------------------------------------------------- |
+| Augustus    | First emperor, founder of the Principate                         |
+| Tiberius    | Successor of Augustus, adopted to secure succession              |
+| Trajan      | Emperor associated with major eastern campaigns                  |
+| Gallienus   | Emperor who reduced senatorial access to military command        |
+| Diocletian  | Reformer of late imperial administration and defence             |
 | Constantine | Introduced solidus, supported Christianity, built Constantinople |
-| Shapur I | Sasanian ruler who challenged Rome |
-| Augustine | Bishop of Hippo, important Christian thinker |
-| Ambrose | Bishop who could confront imperial harshness |
-| Justinian | Eastern emperor who tried to recover western territories |
-| Khusro II | Sasanian ruler who invaded eastern Roman territories |
-| Muhammad | Prophet whose movement preceded the early Arab conquests |
+| Shapur I    | Sasanian ruler who challenged Rome                               |
+| Augustine   | Bishop of Hippo, important Christian thinker                     |
+| Ambrose     | Bishop who could confront imperial harshness                     |
+| Justinian   | Eastern emperor who tried to recover western territories         |
+| Khusro II   | Sasanian ruler who invaded eastern Roman territories             |
+| Muhammad    | Prophet whose movement preceded the early Arab conquests         |
 
 ## 42. Places To Know
 
-| Place | Importance |
-|---|---|
-| Rome | Original centre of Roman power |
-| Mediterranean Sea | Central connecting zone of the empire |
-| Rhine | Northern frontier river |
-| Danube | Northern frontier river |
-| Sahara | Southern limit of Roman expansion |
-| Euphrates | Sensitive frontier between Rome and Iran |
-| Carthage | Major city in North Africa |
-| Alexandria | Major city in Egypt |
-| Antioch | Major city in the eastern Mediterranean |
-| Constantinople | New eastern capital founded by Constantine |
-| Pompeii | Evidence for urban life and casual literacy |
-| Baetica | Spanish region important for olive oil |
-| Byzacium | North African region important for agriculture |
-| Egypt | Grain, papyri, taxes, and late antique prosperity |
+| Place               | Importance                                                      |
+| ------------------- | --------------------------------------------------------------- |
+| Rome                | Original centre of Roman power                                  |
+| Mediterranean Sea   | Central connecting zone of the empire                           |
+| Rhine               | Northern frontier river                                         |
+| Danube              | Northern frontier river                                         |
+| Sahara              | Southern limit of Roman expansion                               |
+| Euphrates           | Sensitive frontier between Rome and Iran                        |
+| Carthage            | Major city in North Africa                                      |
+| Alexandria          | Major city in Egypt                                             |
+| Antioch             | Major city in the eastern Mediterranean                         |
+| Constantinople      | New eastern capital founded by Constantine                      |
+| Pompeii             | Evidence for urban life and casual literacy                     |
+| Baetica             | Spanish region important for olive oil                          |
+| Byzacium            | North African region important for agriculture                  |
+| Egypt               | Grain, papyri, taxes, and late antique prosperity               |
 | Syria and Palestine | Important eastern provinces and later targets of Arab conquests |
 
 ## 43. Cause And Effect Map
 
-| Cause | Effect |
-|---|---|
-| Control of Mediterranean routes | Easier trade, military movement, and administration |
-| Paid professional army | Strong defence but political pressure on emperors |
-| Dependence on cities | Local elites became essential to tax collection |
-| Provincial elites gained power | Italy's dominance declined |
-| Sasanian pressure and Germanic invasions | Third-century crisis |
-| Exhaustion of silver mines | Shift from silver-based currency to gold solidus |
-| Diocletian's reforms | More organised late imperial state |
-| Constantine's new capital | Greater importance of eastern empire |
-| Christianisation | Religious and cultural transformation |
-| Germanic settlement and invasion | Western political fragmentation |
-| Arab conquests | Major transformation of West Asia and North Africa |
+| Cause                                    | Effect                                              |
+| ---------------------------------------- | --------------------------------------------------- |
+| Control of Mediterranean routes          | Easier trade, military movement, and administration |
+| Paid professional army                   | Strong defence but political pressure on emperors   |
+| Dependence on cities                     | Local elites became essential to tax collection     |
+| Provincial elites gained power           | Italy's dominance declined                          |
+| Sasanian pressure and Germanic invasions | Third-century crisis                                |
+| Exhaustion of silver mines               | Shift from silver-based currency to gold solidus    |
+| Diocletian's reforms                     | More organised late imperial state                  |
+| Constantine's new capital                | Greater importance of eastern empire                |
+| Christianisation                         | Religious and cultural transformation               |
+| Germanic settlement and invasion         | Western political fragmentation                     |
+| Arab conquests                           | Major transformation of West Asia and North Africa  |
 
 ## 44. The Roman Empire As A System
 
@@ -1144,29 +1144,29 @@ Christianity gradually gained dominance.
 
 ## 45. Common Misconceptions
 
-| Misconception | Correct Understanding |
-|---|---|
-| Rome was only a city in Italy | Rome became the centre of a vast empire across three continents |
-| The emperor ruled alone without support | The emperor depended on the army, elites, cities, and officials |
-| The Senate controlled the empire as before | The Senate had prestige, but the emperor held real central authority |
-| The Roman economy was backward | Many regions had advanced trade, mining, water power, and monetary systems |
-| All Roman work was done by slaves | Rome used slaves, wage labourers, freedmen, peasants, tenants, and debt-bound workers |
-| Christianisation happened instantly | It was gradual, uneven, and contested |
-| The Roman Empire simply collapsed everywhere | The west fragmented, but the east continued strongly for centuries |
-| Late antiquity was only decline | It was also a period of reform, prosperity in the east, and cultural transformation |
+| Misconception                                | Correct Understanding                                                                 |
+| -------------------------------------------- | ------------------------------------------------------------------------------------- |
+| Rome was only a city in Italy                | Rome became the centre of a vast empire across three continents                       |
+| The emperor ruled alone without support      | The emperor depended on the army, elites, cities, and officials                       |
+| The Senate controlled the empire as before   | The Senate had prestige, but the emperor held real central authority                  |
+| The Roman economy was backward               | Many regions had advanced trade, mining, water power, and monetary systems            |
+| All Roman work was done by slaves            | Rome used slaves, wage labourers, freedmen, peasants, tenants, and debt-bound workers |
+| Christianisation happened instantly          | It was gradual, uneven, and contested                                                 |
+| The Roman Empire simply collapsed everywhere | The west fragmented, but the east continued strongly for centuries                    |
+| Late antiquity was only decline              | It was also a period of reform, prosperity in the east, and cultural transformation   |
 
 ## 46. Comparison: Early Empire And Late Empire
 
-| Feature | Early Empire | Late Empire |
-|---|---|---|
-| Political image | Principate, emperor as leading citizen | More openly centralised rule |
-| Elite base | Senate and Italian families still important | Provincial aristocracy, bureaucracy, and military elites stronger |
-| Army | Professional army central to power | Expanded and reorganised military command |
-| Economy | Strong Mediterranean trade | Eastern prosperity and gold-based currency |
-| Religion | Polytheism and many cults dominant | Christianity increasingly dominant |
-| Capital focus | Rome symbolic and political centre | Constantinople rises as eastern capital |
-| Main stress | Managing expansion and succession | Frontier wars, administrative pressure, religious change |
-| Western outcome | Unified under imperial rule | Fragmented into post-Roman kingdoms |
+| Feature         | Early Empire                                | Late Empire                                                       |
+| --------------- | ------------------------------------------- | ----------------------------------------------------------------- |
+| Political image | Principate, emperor as leading citizen      | More openly centralised rule                                      |
+| Elite base      | Senate and Italian families still important | Provincial aristocracy, bureaucracy, and military elites stronger |
+| Army            | Professional army central to power          | Expanded and reorganised military command                         |
+| Economy         | Strong Mediterranean trade                  | Eastern prosperity and gold-based currency                        |
+| Religion        | Polytheism and many cults dominant          | Christianity increasingly dominant                                |
+| Capital focus   | Rome symbolic and political centre          | Constantinople rises as eastern capital                           |
+| Main stress     | Managing expansion and succession           | Frontier wars, administrative pressure, religious change          |
+| Western outcome | Unified under imperial rule                 | Fragmented into post-Roman kingdoms                               |
 
 ## 47. Why Cities Were The Bedrock Of Empire
 
@@ -1360,12 +1360,12 @@ I would prefer to live in a town because Roman towns had better access to food s
 
 Possible list:
 
-| Category | Examples |
-|---|---|
-| Cities | Rome, Carthage, Alexandria, Antioch, Constantinople, Pompeii |
-| Rivers | Rhine, Danube, Euphrates, Guadalquivir |
-| Seas | Mediterranean, Caspian, Black Sea |
-| Regions or provinces | Egypt, Syria, Palestine, Baetica, Byzacium, Gaul, Numidia |
+| Category             | Examples                                                     |
+| -------------------- | ------------------------------------------------------------ |
+| Cities               | Rome, Carthage, Alexandria, Antioch, Constantinople, Pompeii |
+| Rivers               | Rhine, Danube, Euphrates, Guadalquivir                       |
+| Seas                 | Mediterranean, Caspian, Black Sea                            |
+| Regions or provinces | Egypt, Syria, Palestine, Baetica, Byzacium, Gaul, Numidia    |
 
 Three examples:
 
@@ -1472,23 +1472,23 @@ Late antiquity was the period from roughly the fourth to seventh centuries when 
 
 ## 56. Revision Table
 
-| If Asked About | Write About |
-|---|---|
-| Roman geography | Mediterranean, Rhine, Danube, Sahara, Euphrates |
-| Roman political players | Emperor, Senate, army |
-| Principate | Augustus, leading citizen, monarchy in practice |
-| Administration | Cities, local elites, tax collection |
-| Third-century crisis | Sasanians, Germanic groups, military pressure, unstable emperors |
-| Women | Property rights plus patriarchal limits |
-| Literacy | Regional variation, Pompeii, Egypt, scribes |
-| Culture | Latin, Greek, local languages, religious plurality |
-| Economy | Trade, amphorae, agriculture, mining, money |
-| Labour | Slavery, wage labour, freedmen, debt bondage |
-| Hierarchy | Senators, equestrians, aristocracy, humiliores, slaves |
-| Late empire | Diocletian, Constantine, solidus, Constantinople |
-| Religion | Polytheism, Judaism, Christianisation |
-| West and east | Western fragmentation, eastern survival |
-| Arab conquests | Transformation after Roman-Iranian wars |
+| If Asked About          | Write About                                                      |
+| ----------------------- | ---------------------------------------------------------------- |
+| Roman geography         | Mediterranean, Rhine, Danube, Sahara, Euphrates                  |
+| Roman political players | Emperor, Senate, army                                            |
+| Principate              | Augustus, leading citizen, monarchy in practice                  |
+| Administration          | Cities, local elites, tax collection                             |
+| Third-century crisis    | Sasanians, Germanic groups, military pressure, unstable emperors |
+| Women                   | Property rights plus patriarchal limits                          |
+| Literacy                | Regional variation, Pompeii, Egypt, scribes                      |
+| Culture                 | Latin, Greek, local languages, religious plurality               |
+| Economy                 | Trade, amphorae, agriculture, mining, money                      |
+| Labour                  | Slavery, wage labour, freedmen, debt bondage                     |
+| Hierarchy               | Senators, equestrians, aristocracy, humiliores, slaves           |
+| Late empire             | Diocletian, Constantine, solidus, Constantinople                 |
+| Religion                | Polytheism, Judaism, Christianisation                            |
+| West and east           | Western fragmentation, eastern survival                          |
+| Arab conquests          | Transformation after Roman-Iranian wars                          |
 
 ## 57. Memory Anchors
 
@@ -1625,4 +1625,3 @@ The later Arab conquests transformed the Roman and Iranian worlds and opened a n
 The key lesson is that Rome did not simply rise and fall in a straight line.
 
 It expanded, adapted, struggled, transformed, fragmented in the west, and survived in the east.
-

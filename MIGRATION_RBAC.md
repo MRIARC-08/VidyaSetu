@@ -11,6 +11,7 @@ The following changes have been made to `src/prisma/schema.prisma`:
 ### UserRole Enum Updated
 
 **Before:**
+
 ```prisma
 enum UserRole {
   STUDENT
@@ -19,6 +20,7 @@ enum UserRole {
 ```
 
 **After:**
+
 ```prisma
 enum UserRole {
   USER
@@ -28,6 +30,7 @@ enum UserRole {
 ```
 
 **User Model Default Updated:**
+
 ```prisma
 role UserRole @default(USER)  // Was: @default(STUDENT)
 ```
@@ -43,6 +46,7 @@ pnpm db:migrate dev --name add_moderator_role
 ```
 
 Prisma will:
+
 1. Detect the enum changes
 2. Generate SQL migration files
 3. Apply the migration to your database
@@ -53,21 +57,23 @@ Prisma will:
 If you have seed scripts using STUDENT role, update them:
 
 **Before:**
+
 ```typescript
 const user = await prisma.user.create({
   data: {
     email: 'user@example.com',
-    role: 'STUDENT',  // ❌ This will fail after migration
+    role: 'STUDENT', // ❌ This will fail after migration
   },
 });
 ```
 
 **After:**
+
 ```typescript
 const user = await prisma.user.create({
   data: {
     email: 'user@example.com',
-    role: 'USER',  // ✅ Use USER instead
+    role: 'USER', // ✅ Use USER instead
   },
 });
 ```
@@ -93,6 +99,7 @@ pnpm db:migrate resolve --rolled-back add_moderator_role
 ```
 
 This will:
+
 1. Remove the migration from your database
 2. Revert the schema changes
 3. Allow you to run `pnpm db:migrate dev` again if needed
@@ -108,6 +115,7 @@ This will:
 ### Backward Compatibility
 
 The middleware is backward compatible:
+
 - CODE using `requireRole('USER')` works the same as before when you had `requireRole('STUDENT')`
 - `requireRole('ADMIN')` works unchanged
 - MODERATOR is a new role with intermediate permissions
@@ -162,6 +170,7 @@ pnpm db:studio
 ```
 
 In Prisma Studio, check the `User` table:
+
 - All existing users should have valid roles (ADMIN, USER)
 - New users should default to USER role
 - No STUDENT values should remain (unless not updated)
@@ -175,6 +184,7 @@ PostgreSQL enum types are immutable. The migration will:
 3. Drop the old enum
 
 You may see messages like:
+
 ```
 DROP TYPE "UserRole" CASCADE
 CREATE TYPE "UserRole" AS ENUM (...)
@@ -209,6 +219,7 @@ pnpm dev
 This means the old migration might still be cached.
 
 **Solution:**
+
 ```bash
 pnpm db:generate
 pnpm db:migrate dev

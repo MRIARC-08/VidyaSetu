@@ -1,15 +1,16 @@
 # Chapter 8: Microbes in Human Welfare
+
 ### NCERT Class 12 - Biology
 
 ## Chapter at a Glance
 
-| Item | Details |
-|---|---|
-| Main idea | Microbes are not only disease-causing agents; they are essential in food, industry, sewage treatment, biogas, agriculture, and pest control. |
-| Main groups | Bacteria, fungi, protozoa, algae, viruses, and viroids. |
-| Useful areas | Household products, industrial products, sewage treatment, biogas, biocontrol, biofertilisers. |
-| Key principle | Microbes transform substances through enzymes and metabolism. |
-| Most important skill | Match each microbe with its product, process, and use. |
+| Item                 | Details                                                                                                                                      |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Main idea            | Microbes are not only disease-causing agents; they are essential in food, industry, sewage treatment, biogas, agriculture, and pest control. |
+| Main groups          | Bacteria, fungi, protozoa, algae, viruses, and viroids.                                                                                      |
+| Useful areas         | Household products, industrial products, sewage treatment, biogas, biocontrol, biofertilisers.                                               |
+| Key principle        | Microbes transform substances through enzymes and metabolism.                                                                                |
+| Most important skill | Match each microbe with its product, process, and use.                                                                                       |
 
 ## Learning Outcomes
 
@@ -27,26 +28,26 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Microbe | Microscopic organism or biological agent. |
-| Fermentation | Anaerobic breakdown of substances by microbes. |
-| LAB | Lactic acid bacteria used in curd formation and gut health. |
-| Antibiotic | Substance produced by microbes that kills or inhibits other microbes. |
-| Biochemical oxygen demand | Amount of oxygen used by microbes to decompose organic matter in water. |
-| Flocs | Masses of bacteria and fungal filaments formed during sewage treatment. |
-| Biogas | Gas mixture mainly containing methane, produced by anaerobic microbial action. |
-| Biocontrol | Use of living organisms to control pests or pathogens. |
-| Biofertiliser | Organism that enriches soil nutrients naturally. |
+| Term                      | Meaning                                                                        |
+| ------------------------- | ------------------------------------------------------------------------------ |
+| Microbe                   | Microscopic organism or biological agent.                                      |
+| Fermentation              | Anaerobic breakdown of substances by microbes.                                 |
+| LAB                       | Lactic acid bacteria used in curd formation and gut health.                    |
+| Antibiotic                | Substance produced by microbes that kills or inhibits other microbes.          |
+| Biochemical oxygen demand | Amount of oxygen used by microbes to decompose organic matter in water.        |
+| Flocs                     | Masses of bacteria and fungal filaments formed during sewage treatment.        |
+| Biogas                    | Gas mixture mainly containing methane, produced by anaerobic microbial action. |
+| Biocontrol                | Use of living organisms to control pests or pathogens.                         |
+| Biofertiliser             | Organism that enriches soil nutrients naturally.                               |
 
 ## Quick Learning Map
 
-| Area | Examples |
-|---|---|
-| Household | Curd, cheese, bread, fermented foods. |
-| Industry | Alcohol, antibiotics, enzymes, acids. |
-| Sewage | Microbial decomposition reduces organic load. |
-| Energy | Methanogens produce biogas. |
+| Area        | Examples                                                               |
+| ----------- | ---------------------------------------------------------------------- |
+| Household   | Curd, cheese, bread, fermented foods.                                  |
+| Industry    | Alcohol, antibiotics, enzymes, acids.                                  |
+| Sewage      | Microbial decomposition reduces organic load.                          |
+| Energy      | Methanogens produce biogas.                                            |
 | Agriculture | Biocontrol agents reduce pests; biofertilisers improve soil fertility. |
 
 # Unit 8A: Microbes Around Us
@@ -101,10 +102,10 @@ Industrial production uses microbes in large vessels called fermenters.
 
 Yeast ferments sugars to ethanol and carbon dioxide.
 
-| Product | Raw Material or Process |
-|---|---|
-| Wine | Fermentation of fruit juice. |
-| Beer | Fermentation of malted grains. |
+| Product             | Raw Material or Process                     |
+| ------------------- | ------------------------------------------- |
+| Wine                | Fermentation of fruit juice.                |
+| Beer                | Fermentation of malted grains.              |
 | Whisky, rum, brandy | Fermented product followed by distillation. |
 
 ## Antibiotics
@@ -115,20 +116,20 @@ Penicillin was discovered from Penicillium fungus and became a major medical bre
 
 ## Organic Acids
 
-| Product | Microbe |
-|---|---|
-| Citric acid | Aspergillus niger |
-| Acetic acid | Acetobacter aceti |
+| Product      | Microbe               |
+| ------------ | --------------------- |
+| Citric acid  | Aspergillus niger     |
+| Acetic acid  | Acetobacter aceti     |
 | Butyric acid | Clostridium butylicum |
-| Lactic acid | Lactobacillus |
+| Lactic acid  | Lactobacillus         |
 
 ## Enzymes
 
-| Enzyme | Use |
-|---|---|
-| Lipase | Detergents and fat removal. |
-| Pectinase | Clearing fruit juices. |
-| Protease | Detergents and leather processing. |
+| Enzyme        | Use                                         |
+| ------------- | ------------------------------------------- |
+| Lipase        | Detergents and fat removal.                 |
+| Pectinase     | Clearing fruit juices.                      |
+| Protease      | Detergents and leather processing.          |
 | Streptokinase | Dissolves blood clots in medical treatment. |
 
 ## Bioactive Molecules
@@ -219,13 +220,13 @@ Biocontrol is often more specific and environmentally safer.
 
 ## Examples
 
-| Agent | Use |
-|---|---|
-| Ladybird beetle | Controls aphids. |
-| Dragonfly | Controls mosquitoes. |
-| Bacillus thuringiensis | Controls insect larvae. |
-| Trichoderma | Controls plant pathogens in soil. |
-| Baculoviruses | Control specific insect pests. |
+| Agent                  | Use                               |
+| ---------------------- | --------------------------------- |
+| Ladybird beetle        | Controls aphids.                  |
+| Dragonfly              | Controls mosquitoes.              |
+| Bacillus thuringiensis | Controls insect larvae.           |
+| Trichoderma            | Controls plant pathogens in soil. |
+| Baculoviruses          | Control specific insect pests.    |
 
 ## Bacillus thuringiensis
 
@@ -237,11 +238,11 @@ Biofertilisers increase nutrient availability in soil.
 
 ## Nitrogen Fixers
 
-| Organism | Role |
-|---|---|
-| Rhizobium | Symbiotic nitrogen fixation in legume root nodules. |
-| Azotobacter | Free-living nitrogen fixation. |
-| Azospirillum | Associative nitrogen fixation near roots. |
+| Organism      | Role                                                   |
+| ------------- | ------------------------------------------------------ |
+| Rhizobium     | Symbiotic nitrogen fixation in legume root nodules.    |
+| Azotobacter   | Free-living nitrogen fixation.                         |
+| Azospirillum  | Associative nitrogen fixation near roots.              |
 | Cyanobacteria | Nitrogen fixation in paddy fields and aquatic systems. |
 
 ## Mycorrhiza
@@ -258,14 +259,14 @@ Mycorrhiza is association between fungi and plant roots. The fungus improves abs
 
 # Unit 8H: Common Mistakes and Corrections
 
-| Mistake | Correct Understanding |
-|---|---|
-| All microbes are harmful | Many microbes are useful and essential. |
-| Fermentation always needs oxygen | Many fermentation processes are anaerobic. |
+| Mistake                                | Correct Understanding                                                    |
+| -------------------------------------- | ------------------------------------------------------------------------ |
+| All microbes are harmful               | Many microbes are useful and essential.                                  |
+| Fermentation always needs oxygen       | Many fermentation processes are anaerobic.                               |
 | Primary sewage treatment uses microbes | Primary treatment is mainly physical; secondary treatment is biological. |
-| High BOD means clean water | High BOD means high organic pollution. |
-| Biogas is pure methane | It is a mixture, mainly methane. |
-| Biofertilisers kill pests | Biofertilisers improve nutrients; biocontrol agents manage pests. |
+| High BOD means clean water             | High BOD means high organic pollution.                                   |
+| Biogas is pure methane                 | It is a mixture, mainly methane.                                         |
+| Biofertilisers kill pests              | Biofertilisers improve nutrients; biocontrol agents manage pests.        |
 
 ## Practice Set
 

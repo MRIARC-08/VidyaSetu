@@ -1,64 +1,65 @@
 # Chapter 7: Nationalism
+
 ### NCERT Class 11 - Polsci Theory
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-| --- | --- |
-| Class | 11 |
-| Subject | Polsci Theory |
-| Chapter | 7 - Nationalism |
-| Core Theme | Understanding Nationalism through Ationalism / Well / Them. |
-| Main Skills | define concepts, connect institutions with democratic principles, and evaluate examples |
-| Study Lens | concept -> institution -> constitutional principle -> conflict/problem -> democratic resolution |
+| Detail      | Learner-Friendly Information                                                                    |
+| ----------- | ----------------------------------------------------------------------------------------------- |
+| Class       | 11                                                                                              |
+| Subject     | Polsci Theory                                                                                   |
+| Chapter     | 7 - Nationalism                                                                                 |
+| Core Theme  | Understanding Nationalism through Ationalism / Well / Them.                                     |
+| Main Skills | define concepts, connect institutions with democratic principles, and evaluate examples         |
+| Study Lens  | concept -> institution -> constitutional principle -> conflict/problem -> democratic resolution |
 
 ## Section Structure
 
-| Unit | Topic | Main Learning Focus |
-| --- | --- | --- |
-| 7A | Ationalism / Well / Them | Ationalism, Well, Them, Introduction, Ntroducing |
+| Unit | Topic                    | Main Learning Focus                              |
+| ---- | ------------------------ | ------------------------------------------------ |
+| 7A   | Ationalism / Well / Them | Ationalism, Well, Them, Introduction, Ntroducing |
 
 ## Learning Outcomes
 
-| Outcome | You Should Be Able To |
-| --- | --- |
-| Understand | Explain the main idea of Nationalism in your own words. |
-| Organise | Separate definitions, examples, causes, effects, and conclusions. |
-| Use Evidence | Support answers with chapter-specific facts, examples, formulas, events, or textual moments. |
-| Compare | Distinguish similar terms, cases, processes, characters, or institutions. |
-| Write Answers | Convert notes into short and long answers without copying disconnected lines. |
+| Outcome       | You Should Be Able To                                                                        |
+| ------------- | -------------------------------------------------------------------------------------------- |
+| Understand    | Explain the main idea of Nationalism in your own words.                                      |
+| Organise      | Separate definitions, examples, causes, effects, and conclusions.                            |
+| Use Evidence  | Support answers with chapter-specific facts, examples, formulas, events, or textual moments. |
+| Compare       | Distinguish similar terms, cases, processes, characters, or institutions.                    |
+| Write Answers | Convert notes into short and long answers without copying disconnected lines.                |
 
 ## Study Roadmap
 
-| Step | Learner Action |
-| --- | --- |
-| 1 | Define every political concept in one precise sentence. |
-| 2 | Connect concepts to examples from India and other countries. |
-| 3 | Separate moral reasons from practical or prudential reasons. |
-| 4 | Use flowcharts for institutions, levels of government, and power-sharing arrangements. |
+| Step | Learner Action                                                                         |
+| ---- | -------------------------------------------------------------------------------------- |
+| 1    | Define every political concept in one precise sentence.                                |
+| 2    | Connect concepts to examples from India and other countries.                           |
+| 3    | Separate moral reasons from practical or prudential reasons.                           |
+| 4    | Use flowcharts for institutions, levels of government, and power-sharing arrangements. |
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| democracy | A system in which people choose rulers and can hold them accountable. |
+| Term        | Meaning                                                                                      |
+| ----------- | -------------------------------------------------------------------------------------------- |
+| democracy   | A system in which people choose rulers and can hold them accountable.                        |
 | Nationalist | A political keyword; connect it to democratic principles, institutions, rights, or conflict. |
-| Ationalism | A political keyword; connect it to democratic principles, institutions, rights, or conflict. |
+| Ationalism  | A political keyword; connect it to democratic principles, institutions, rights, or conflict. |
 | Nationalism | A political keyword; connect it to democratic principles, institutions, rights, or conflict. |
-| Nation | A political keyword; connect it to democratic principles, institutions, rights, or conflict. |
-| Differ | A political keyword; connect it to democratic principles, institutions, rights, or conflict. |
-| Collective | A political keyword; connect it to democratic principles, institutions, rights, or conflict. |
-| Belonging | A political keyword; connect it to democratic principles, institutions, rights, or conflict. |
-| Well | A political keyword; connect it to democratic principles, institutions, rights, or conflict. |
-| Them | A political keyword; connect it to democratic principles, institutions, rights, or conflict. |
-| Illustrate | A political keyword; connect it to democratic principles, institutions, rights, or conflict. |
-| Dealing | A political keyword; connect it to democratic principles, institutions, rights, or conflict. |
+| Nation      | A political keyword; connect it to democratic principles, institutions, rights, or conflict. |
+| Differ      | A political keyword; connect it to democratic principles, institutions, rights, or conflict. |
+| Collective  | A political keyword; connect it to democratic principles, institutions, rights, or conflict. |
+| Belonging   | A political keyword; connect it to democratic principles, institutions, rights, or conflict. |
+| Well        | A political keyword; connect it to democratic principles, institutions, rights, or conflict. |
+| Them        | A political keyword; connect it to democratic principles, institutions, rights, or conflict. |
+| Illustrate  | A political keyword; connect it to democratic principles, institutions, rights, or conflict. |
+| Dealing     | A political keyword; connect it to democratic principles, institutions, rights, or conflict. |
 | Conflicting | A political keyword; connect it to democratic principles, institutions, rights, or conflict. |
 | Aspirations | A political keyword; connect it to democratic principles, institutions, rights, or conflict. |
-| What | A political keyword; connect it to democratic principles, institutions, rights, or conflict. |
-| Think | A political keyword; connect it to democratic principles, institutions, rights, or conflict. |
+| What        | A political keyword; connect it to democratic principles, institutions, rights, or conflict. |
+| Think       | A political keyword; connect it to democratic principles, institutions, rights, or conflict. |
 
 ## Big Ideas
 
@@ -81,19 +82,19 @@ Illustrate with suitable examples the factors that lead to the emer gence of nat
 
 ## Key Points
 
-| What To Remember | Why It Matters |
-| --- | --- |
-| 3. “We have seen that nationalism can unite people as well as divide them, liberate them as well as generate bitter ness and conflict”. | It shows how a political idea works through institutions, conflict, or citizen action. |
-| Neither descent, nor language, nor religion or ethnicity can claim to be a common factor in nationalisms all over the world. | It shows how a political idea works through institutions, conflict, or citizen action. |
+| What To Remember                                                                                                                                | Why It Matters                                                                         |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| 3. “We have seen that nationalism can unite people as well as divide them, liberate them as well as generate bitter ness and conflict”.         | It shows how a political idea works through institutions, conflict, or citizen action. |
+| Neither descent, nor language, nor religion or ethnicity can claim to be a common factor in nationalisms all over the world.                    | It shows how a political idea works through institutions, conflict, or citizen action. |
 | ## Introduction ## 7.1 — I NTRODUCING N ATIONALISM ## 7.2 — N A TIONS AND N ATIONALISM ## 7.3 — N A TIONAL S ELF -DE TERMINA TION ## 7.4 — N... | It shows how a political idea works through institutions, conflict, or citizen action. |
-| Illustrate with suitable examples the factors that lead to the emer gence of nationalist feelings. | It shows how a political idea works through institutions, conflict, or citizen action. |
+| Illustrate with suitable examples the factors that lead to the emer gence of nationalist feelings.                                              | It shows how a political idea works through institutions, conflict, or citizen action. |
 
 ## Examples, Evidence, Or Diagrams
 
-| Chapter Evidence | How To Use It |
-| --- | --- |
+| Chapter Evidence                                                                                                                                                          | How To Use It                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | ## Introduction ## 7.1 — I NTRODUCING N ATIONALISM ## 7.2 — N A TIONS AND N ATIONALISM ## 7.3 — N A TIONAL S ELF -DE TERMINA TION ## 7.4 — N ATIONALISM AND P LURALISM 1. | It shows how a political idea works through institutions, conflict, or citizen action. |
-| Illustrate with suitable examples the factors that lead to the emer gence of nationalist feelings. | It shows how a political idea works through institutions, conflict, or citizen action. |
+| Illustrate with suitable examples the factors that lead to the emer gence of nationalist feelings.                                                                        | It shows how a political idea works through institutions, conflict, or citizen action. |
 
 ## How To Write This In Answers
 
@@ -110,15 +111,15 @@ Illustrate with suitable examples the factors that lead to the emer gence of nat
 
 ## Quick Revision
 
-| Unit | Revise This | Recall Keywords |
-| --- | --- | --- |
-| 7A | Ationalism / Well / Them | Ationalism, Well, Them, Introduction, Ntroducing |
+| Unit | Revise This              | Recall Keywords                                  |
+| ---- | ------------------------ | ------------------------------------------------ |
+| 7A   | Ationalism / Well / Them | Ationalism, Well, Them, Introduction, Ntroducing |
 
 ## Exam Practice
 
-| Question | Strong Answer Shape |
-| --- | --- |
-| Explain Ationalism / Well / Them. | Context -> key points -> evidence/example -> significance. |
+| Question                                       | Strong Answer Shape                                                 |
+| ---------------------------------------------- | ------------------------------------------------------------------- |
+| Explain Ationalism / Well / Them.              | Context -> key points -> evidence/example -> significance.          |
 | What is the overall importance of Nationalism? | Main idea -> 3 supporting points -> example/evidence -> conclusion. |
 
 ## Answer-Writing Frame
@@ -145,4 +146,4 @@ Illustrate with suitable examples the factors that lead to the emer gence of nat
 
 ---
 
-*Learner notes rebuilt from: data/class_11/polsci_theory/chapter_07.md*
+_Learner notes rebuilt from: data/class_11/polsci_theory/chapter_07.md_

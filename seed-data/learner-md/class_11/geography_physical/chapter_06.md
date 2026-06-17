@@ -47,73 +47,73 @@ By the end of this chapter, you should be able to:
 
 ## Big Picture Map
 
-| Theme | Core Idea | Examples |
-| --- | --- | --- |
-| Endogenic forces | Internal land-building forces | Diastrophism, volcanism |
-| Exogenic processes | External land-wearing processes | Weathering, mass wasting, erosion, deposition |
-| Gravity | Drives downslope movement | Creep, landslides, flow |
-| Weathering | Breaks rocks in place | Chemical, physical, biological |
-| Mass movement | Gravity-driven movement of material | Creep, slump, mudflow |
-| Erosion | Acquisition and transport of debris by agents | Rivers, wind, glaciers, waves |
-| Deposition | Settling of transported material | Coarse first, fine later |
-| Soil formation | Development of soil from weathered material | Parent material, climate, biology, time |
-| Human relevance | Surface misuse reduces future potential | Resource use, slope failure, soil degradation |
+| Theme              | Core Idea                                     | Examples                                      |
+| ------------------ | --------------------------------------------- | --------------------------------------------- |
+| Endogenic forces   | Internal land-building forces                 | Diastrophism, volcanism                       |
+| Exogenic processes | External land-wearing processes               | Weathering, mass wasting, erosion, deposition |
+| Gravity            | Drives downslope movement                     | Creep, landslides, flow                       |
+| Weathering         | Breaks rocks in place                         | Chemical, physical, biological                |
+| Mass movement      | Gravity-driven movement of material           | Creep, slump, mudflow                         |
+| Erosion            | Acquisition and transport of debris by agents | Rivers, wind, glaciers, waves                 |
+| Deposition         | Settling of transported material              | Coarse first, fine later                      |
+| Soil formation     | Development of soil from weathered material   | Parent material, climate, biology, time       |
+| Human relevance    | Surface misuse reduces future potential       | Resource use, slope failure, soil degradation |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Geomorphic process | Endogenic or exogenic force causing physical or chemical change in earth materials and surface form. |
-| Geomorphic agent | Mobile natural medium that removes, transports, and deposits earth material. |
-| Endogenic force | Internal force originating within the earth. |
-| Exogenic force | External force acting at or near the earth's surface. |
-| Degradation | Wearing down of relief or elevations. |
-| Aggradation | Filling up of depressions or basins by deposition. |
-| Gradation | Wearing down of relief differences through erosion and deposition. |
-| Diastrophism | Crustal processes that move, elevate, warp, fold, fault, or build up parts of the earth. |
-| Orogeny | Mountain-building process involving severe folding in long narrow belts. |
-| Epeirogeny | Uplift or warping of large continental areas. |
-| Volcanism | Movement of magma toward or onto the surface and formation of volcanic forms. |
-| Denudation | General term for stripping or uncovering the surface through weathering, mass wasting, erosion, and transportation. |
-| Stress | Force applied per unit area. |
-| Shear stress | Stress acting along surfaces, causing separation or slippage. |
-| Weathering | Mechanical disintegration and chemical decomposition of rocks by weather and climate. |
-| In-situ process | Process occurring in place, without significant transport. |
-| Weathering mantle | Layer of weathered material produced over rock. |
-| Solution | Removal of soluble minerals in water or weak acid. |
-| Carbonation | Reaction of carbonates and bicarbonates with minerals, often aided by carbonic acid. |
-| Hydration | Chemical addition of water to minerals, causing expansion. |
-| Oxidation | Combination of minerals with oxygen to form oxides or hydroxides. |
-| Reduction | Chemical change under oxygen-poor conditions, often below water table. |
-| Frost wedging | Rock breaking caused by repeated freezing and thawing of water in cracks. |
-| Salt weathering | Rock breakdown caused by salt expansion, hydration, or crystallisation. |
-| Biological weathering | Weathering caused or aided by organisms and organic activity. |
-| Exfoliation | Flaking or peeling of curved sheets from rock surfaces. |
-| Regolith | Loose weathered material over bedrock. |
-| Mass movement | Downslope movement of rock debris under direct influence of gravity. |
-| Creep | Extremely slow downslope movement of soil or rock debris. |
-| Solifluction | Slow flow of water-saturated soil or fine debris over an impervious layer. |
-| Earthflow | Flow of water-saturated clayey or silty material downslope. |
-| Mudflow | Flow of saturated weathered material as a stream of mud along channels. |
-| Debris avalanche | Very rapid movement of debris on steep slopes. |
-| Slump | Sliding of rock debris with backward rotation. |
-| Debris slide | Rapid sliding or rolling of earth debris without backward rotation. |
-| Rockslide | Sliding of rock mass along bedding, joint, or fault surface. |
-| Rock fall | Free fall of rock blocks from a steep slope or cliff. |
-| Erosion | Acquisition and transportation of rock debris by geomorphic agents. |
-| Deposition | Settling of transported material when energy declines. |
-| Kinetic energy | Energy of motion; KE = 1/2 mv^2. |
-| Pedology | Science of soils. |
-| Pedogenesis | Process of soil formation. |
-| Parent material | Weathered rock debris or transported deposit from which soil forms. |
-| Eluviation | Downward movement/removal of soil components by water. |
-| Illuviation | Deposition of moved soil components in lower layers. |
-| Desilication | Removal of silica from soil. |
-| Hardpan | Hard crust or layer formed by accumulation of salts or other materials. |
-| Humus | Finely divided organic matter in soil. |
-| Nitrogen fixation | Conversion of atmospheric nitrogen into plant-usable form by organisms. |
+| Term                  | Meaning                                                                                                             |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| Geomorphic process    | Endogenic or exogenic force causing physical or chemical change in earth materials and surface form.                |
+| Geomorphic agent      | Mobile natural medium that removes, transports, and deposits earth material.                                        |
+| Endogenic force       | Internal force originating within the earth.                                                                        |
+| Exogenic force        | External force acting at or near the earth's surface.                                                               |
+| Degradation           | Wearing down of relief or elevations.                                                                               |
+| Aggradation           | Filling up of depressions or basins by deposition.                                                                  |
+| Gradation             | Wearing down of relief differences through erosion and deposition.                                                  |
+| Diastrophism          | Crustal processes that move, elevate, warp, fold, fault, or build up parts of the earth.                            |
+| Orogeny               | Mountain-building process involving severe folding in long narrow belts.                                            |
+| Epeirogeny            | Uplift or warping of large continental areas.                                                                       |
+| Volcanism             | Movement of magma toward or onto the surface and formation of volcanic forms.                                       |
+| Denudation            | General term for stripping or uncovering the surface through weathering, mass wasting, erosion, and transportation. |
+| Stress                | Force applied per unit area.                                                                                        |
+| Shear stress          | Stress acting along surfaces, causing separation or slippage.                                                       |
+| Weathering            | Mechanical disintegration and chemical decomposition of rocks by weather and climate.                               |
+| In-situ process       | Process occurring in place, without significant transport.                                                          |
+| Weathering mantle     | Layer of weathered material produced over rock.                                                                     |
+| Solution              | Removal of soluble minerals in water or weak acid.                                                                  |
+| Carbonation           | Reaction of carbonates and bicarbonates with minerals, often aided by carbonic acid.                                |
+| Hydration             | Chemical addition of water to minerals, causing expansion.                                                          |
+| Oxidation             | Combination of minerals with oxygen to form oxides or hydroxides.                                                   |
+| Reduction             | Chemical change under oxygen-poor conditions, often below water table.                                              |
+| Frost wedging         | Rock breaking caused by repeated freezing and thawing of water in cracks.                                           |
+| Salt weathering       | Rock breakdown caused by salt expansion, hydration, or crystallisation.                                             |
+| Biological weathering | Weathering caused or aided by organisms and organic activity.                                                       |
+| Exfoliation           | Flaking or peeling of curved sheets from rock surfaces.                                                             |
+| Regolith              | Loose weathered material over bedrock.                                                                              |
+| Mass movement         | Downslope movement of rock debris under direct influence of gravity.                                                |
+| Creep                 | Extremely slow downslope movement of soil or rock debris.                                                           |
+| Solifluction          | Slow flow of water-saturated soil or fine debris over an impervious layer.                                          |
+| Earthflow             | Flow of water-saturated clayey or silty material downslope.                                                         |
+| Mudflow               | Flow of saturated weathered material as a stream of mud along channels.                                             |
+| Debris avalanche      | Very rapid movement of debris on steep slopes.                                                                      |
+| Slump                 | Sliding of rock debris with backward rotation.                                                                      |
+| Debris slide          | Rapid sliding or rolling of earth debris without backward rotation.                                                 |
+| Rockslide             | Sliding of rock mass along bedding, joint, or fault surface.                                                        |
+| Rock fall             | Free fall of rock blocks from a steep slope or cliff.                                                               |
+| Erosion               | Acquisition and transportation of rock debris by geomorphic agents.                                                 |
+| Deposition            | Settling of transported material when energy declines.                                                              |
+| Kinetic energy        | Energy of motion; KE = 1/2 mv^2.                                                                                    |
+| Pedology              | Science of soils.                                                                                                   |
+| Pedogenesis           | Process of soil formation.                                                                                          |
+| Parent material       | Weathered rock debris or transported deposit from which soil forms.                                                 |
+| Eluviation            | Downward movement/removal of soil components by water.                                                              |
+| Illuviation           | Deposition of moved soil components in lower layers.                                                                |
+| Desilication          | Removal of silica from soil.                                                                                        |
+| Hardpan               | Hard crust or layer formed by accumulation of salts or other materials.                                             |
+| Humus                 | Finely divided organic matter in soil.                                                                              |
+| Nitrogen fixation     | Conversion of atmospheric nitrogen into plant-usable form by organisms.                                             |
 
 ---
 
@@ -277,10 +277,10 @@ Geomorphic processes are endogenic and exogenic forces that cause physical stres
 
 ## 4.2 Major Types
 
-| Type | Processes |
-| --- | --- |
-| Endogenic | Diastrophism, volcanism |
-| Exogenic | Weathering, mass wasting, erosion, deposition |
+| Type      | Processes                                     |
+| --------- | --------------------------------------------- |
+| Endogenic | Diastrophism, volcanism                       |
+| Exogenic  | Weathering, mass wasting, erosion, deposition |
 
 ## 4.3 Process vs Agent
 
@@ -449,12 +449,12 @@ It can create:
 
 ## 7.7 Orogeny vs Epeirogeny
 
-| Orogeny | Epeirogeny |
-| --- | --- |
-| Mountain building | Continental building |
+| Orogeny            | Epeirogeny              |
+| ------------------ | ----------------------- |
+| Mountain building  | Continental building    |
 | Severe deformation | Broad uplift or warping |
-| Long narrow belts | Large crustal areas |
-| Strong folding | Simpler deformation |
+| Long narrow belts  | Large crustal areas     |
+| Strong folding     | Simpler deformation     |
 
 ## 7.8 Link With Metamorphism
 
@@ -982,11 +982,11 @@ In granites, exfoliation can produce smooth rounded boulders called tors.
 
 ## 20.5 Exfoliation Dome vs Exfoliated Tor
 
-| Exfoliation Dome | Exfoliated Tor |
-| --- | --- |
-| Large smooth rounded dome | Smaller rounded boulder or rock mass |
+| Exfoliation Dome                                 | Exfoliated Tor                                      |
+| ------------------------------------------------ | --------------------------------------------------- |
+| Large smooth rounded dome                        | Smaller rounded boulder or rock mass                |
 | Often linked with unloading and pressure release | Often linked with thermal expansion and exfoliation |
-| Massive surface form | Isolated blocky rounded form |
+| Massive surface form                             | Isolated blocky rounded form                        |
 
 ---
 
@@ -1561,13 +1561,13 @@ Velocity is especially powerful because it is squared in the formula.
 
 ## 37.4 Comparing Agents
 
-| Agent | State | Climate Control | Erosive Note |
-| --- | --- | --- | --- |
-| Wind | Gas | Climatically controlled | Less effective due to low mass |
-| Running water | Liquid | Climatically controlled | Highly effective where discharge and slope are high |
-| Glacier | Solid | Climatically controlled | Very effective despite low speed due to huge mass |
-| Waves | Water movement | Location controlled | Work occurs along coast |
-| Groundwater | Subsurface water | Lithology controlled | Effective in soluble and permeable rocks |
+| Agent         | State            | Climate Control         | Erosive Note                                        |
+| ------------- | ---------------- | ----------------------- | --------------------------------------------------- |
+| Wind          | Gas              | Climatically controlled | Less effective due to low mass                      |
+| Running water | Liquid           | Climatically controlled | Highly effective where discharge and slope are high |
+| Glacier       | Solid            | Climatically controlled | Very effective despite low speed due to huge mass   |
+| Waves         | Water movement   | Location controlled     | Work occurs along coast                             |
+| Groundwater   | Subsurface water | Lithology controlled    | Effective in soluble and permeable rocks            |
 
 ## 37.5 Glaciers vs Wind
 
@@ -1625,12 +1625,12 @@ Both involve movement of material from one place to another.
 
 ## 39.2 Difference
 
-| Mass Movement | Erosion |
-| --- | --- |
-| Directly driven by gravity | Driven by mobile geomorphic agents |
-| Material moves downslope as a mass | Material is acquired and transported by water, wind, ice, waves, or groundwater |
-| No agent carries the debris as the main transporter | Agent carries the debris |
-| Includes creep, slump, slide, fall | Includes river, wind, glacial, wave, groundwater erosion |
+| Mass Movement                                       | Erosion                                                                         |
+| --------------------------------------------------- | ------------------------------------------------------------------------------- |
+| Directly driven by gravity                          | Driven by mobile geomorphic agents                                              |
+| Material moves downslope as a mass                  | Material is acquired and transported by water, wind, ice, waves, or groundwater |
+| No agent carries the debris as the main transporter | Agent carries the debris                                                        |
+| Includes creep, slump, slide, fall                  | Includes river, wind, glacial, wave, groundwater erosion                        |
 
 ## 39.3 Best Term
 
@@ -2028,11 +2028,11 @@ They include:
 
 ## 48.3 Difference
 
-| Soil Formation Process | Soil-Forming Factors |
-| --- | --- |
-| Actual steps by which soil develops | Conditions controlling those steps |
+| Soil Formation Process                 | Soil-Forming Factors                                |
+| -------------------------------------- | --------------------------------------------------- |
+| Actual steps by which soil develops    | Conditions controlling those steps                  |
 | Weathering, humus, profile development | Parent material, climate, topography, biology, time |
-| Dynamic activity | Controls or influences |
+| Dynamic activity                       | Controls or influences                              |
 
 ---
 
@@ -2040,56 +2040,56 @@ They include:
 
 ## 49.1 Endogenic vs Exogenic
 
-| Endogenic Processes | Exogenic Processes |
-| --- | --- |
-| Originate inside earth | Originate at or near surface |
-| Land-building | Land-wearing |
+| Endogenic Processes     | Exogenic Processes                             |
+| ----------------------- | ---------------------------------------------- |
+| Originate inside earth  | Originate at or near surface                   |
+| Land-building           | Land-wearing                                   |
 | Diastrophism, volcanism | Weathering, mass movement, erosion, deposition |
-| Driven by internal heat | Driven by sun, atmosphere, gravity, gradients |
+| Driven by internal heat | Driven by sun, atmosphere, gravity, gradients  |
 
 ## 49.2 Process vs Agent
 
-| Process | Agent |
-| --- | --- |
-| Force or action affecting earth material | Mobile medium doing work |
-| Weathering, erosion, deposition | Running water, wind, glacier, waves |
-| Can be chemical or physical action | Usually transports material |
+| Process                                  | Agent                               |
+| ---------------------------------------- | ----------------------------------- |
+| Force or action affecting earth material | Mobile medium doing work            |
+| Weathering, erosion, deposition          | Running water, wind, glacier, waves |
+| Can be chemical or physical action       | Usually transports material         |
 
 ## 49.3 Weathering vs Erosion
 
-| Weathering | Erosion |
-| --- | --- |
+| Weathering                          | Erosion                          |
+| ----------------------------------- | -------------------------------- |
 | Breaks or decomposes rocks in place | Acquires and transports material |
-| In-situ process | Movement by agent |
-| No major transport | Transport is essential |
-| Prepares material for erosion | Removes material |
+| In-situ process                     | Movement by agent                |
+| No major transport                  | Transport is essential           |
+| Prepares material for erosion       | Removes material                 |
 
 ## 49.4 Physical vs Chemical Weathering
 
-| Physical Weathering | Chemical Weathering |
-| --- | --- |
-| Mechanical breakage | Chemical decomposition |
-| No major chemical change | Mineral composition changes |
+| Physical Weathering                       | Chemical Weathering                         |
+| ----------------------------------------- | ------------------------------------------- |
+| Mechanical breakage                       | Chemical decomposition                      |
+| No major chemical change                  | Mineral composition changes                 |
 | Frost wedging, salt weathering, unloading | Solution, carbonation, hydration, oxidation |
-| Common in dry/cold/high-relief areas | Strong in warm, moist climates |
+| Common in dry/cold/high-relief areas      | Strong in warm, moist climates              |
 
 ## 49.5 Slow vs Rapid Mass Movement
 
-| Slow Movement | Rapid Movement |
-| --- | --- |
-| Imperceptible or gradual | Perceptible and quick |
-| Creep, solifluction | Earthflow, mudflow, debris avalanche, landslide |
-| Needs long observation | Often sudden hazard |
-| May bend poles and fences | May destroy roads and houses |
+| Slow Movement             | Rapid Movement                                  |
+| ------------------------- | ----------------------------------------------- |
+| Imperceptible or gradual  | Perceptible and quick                           |
+| Creep, solifluction       | Earthflow, mudflow, debris avalanche, landslide |
+| Needs long observation    | Often sudden hazard                             |
+| May bend poles and fences | May destroy roads and houses                    |
 
 ## 49.6 Erosion vs Deposition
 
-| Erosion | Deposition |
-| --- | --- |
-| Acquisition and transport | Settling of transported material |
-| Needs moving agent and energy | Happens when energy declines |
-| Degrades relief | Fills depressions |
-| Coarser/finer material moved | Coarser deposited first |
+| Erosion                       | Deposition                       |
+| ----------------------------- | -------------------------------- |
+| Acquisition and transport     | Settling of transported material |
+| Needs moving agent and energy | Happens when energy declines     |
+| Degrades relief               | Fills depressions                |
+| Coarser/finer material moved  | Coarser deposited first          |
 
 ---
 
@@ -2187,18 +2187,18 @@ mature soil.
 
 # 51. Data Board
 
-| Data Point | Value Or Fact | Use |
-| --- | --- | --- |
-| Main external energy | Sun's heat | Exogenic processes |
-| Main internal energy | Earth's internal heat | Endogenic processes |
-| Kinetic energy formula | KE = 1/2 mv^2 | Erosion |
-| Salt weathering temperature range | 30-50 degrees C surface temperatures in deserts | Salt expansion |
-| Main weathering groups | Chemical, physical, biological | Weathering classification |
-| Main denudation components | Weathering, mass wasting, erosion, transportation | Denudation |
-| Soil-forming factors | Parent material, topography, climate, biological activity, time | Pedogenesis |
-| Climate controls | Temperature and precipitation | Weathering and soil |
-| Mass movement force | Gravity | Downslope movement |
-| Climatically controlled erosion agents | Wind, running water, glaciers | Erosion comparison |
+| Data Point                             | Value Or Fact                                                   | Use                       |
+| -------------------------------------- | --------------------------------------------------------------- | ------------------------- |
+| Main external energy                   | Sun's heat                                                      | Exogenic processes        |
+| Main internal energy                   | Earth's internal heat                                           | Endogenic processes       |
+| Kinetic energy formula                 | KE = 1/2 mv^2                                                   | Erosion                   |
+| Salt weathering temperature range      | 30-50 degrees C surface temperatures in deserts                 | Salt expansion            |
+| Main weathering groups                 | Chemical, physical, biological                                  | Weathering classification |
+| Main denudation components             | Weathering, mass wasting, erosion, transportation               | Denudation                |
+| Soil-forming factors                   | Parent material, topography, climate, biological activity, time | Pedogenesis               |
+| Climate controls                       | Temperature and precipitation                                   | Weathering and soil       |
+| Mass movement force                    | Gravity                                                         | Downslope movement        |
+| Climatically controlled erosion agents | Wind, running water, glaciers                                   | Erosion comparison        |
 
 ---
 

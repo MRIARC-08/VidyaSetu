@@ -1,20 +1,21 @@
 # Chapter 3: Electoral Politics
+
 ### NCERT Class 9 — Social Civics
 
 ---
 
 ## 📌 Chapter at a Glance
 
-| Detail | Info |
-|---|---|
-| Chapter | 3 — Electoral Politics |
-| Class | Class 9 |
-| Subject | Social Civics |
-| Pilot Subject Family | Political Science |
-| Source File | `data/class_9/social_civics/chapter_03.md` |
-| Textbook Pages | 1 – 55 |
-| Raw Exercise Count | 33 |
-| Formatting Mode | Human-guided pilot for subject-specific automation |
+| Detail               | Info                                               |
+| -------------------- | -------------------------------------------------- |
+| Chapter              | 3 — Electoral Politics                             |
+| Class                | Class 9                                            |
+| Subject              | Social Civics                                      |
+| Pilot Subject Family | Political Science                                  |
+| Source File          | `data/class_9/social_civics/chapter_03.md`         |
+| Textbook Pages       | 1 – 55                                             |
+| Raw Exercise Count   | 33                                                 |
+| Formatting Mode      | Human-guided pilot for subject-specific automation |
 
 ---
 
@@ -23,52 +24,52 @@
 > [!NOTE]
 > Study this chapter through this route: **concept -> institution -> constitutional principle -> conflict/problem -> democratic resolution**.
 
-| Step | Learner Action | Why It Matters |
-|---|---|---|
-| 1 | Define every political concept in one precise sentence. | Builds reliable recall and answer quality. |
-| 2 | Connect concepts to examples from India and other countries. | Builds reliable recall and answer quality. |
-| 3 | Separate moral reasons from practical or prudential reasons. | Builds reliable recall and answer quality. |
-| 4 | Use flowcharts for institutions, levels of government, and power-sharing arrangements. | Builds reliable recall and answer quality. |
+| Step | Learner Action                                                                         | Why It Matters                             |
+| ---- | -------------------------------------------------------------------------------------- | ------------------------------------------ |
+| 1    | Define every political concept in one precise sentence.                                | Builds reliable recall and answer quality. |
+| 2    | Connect concepts to examples from India and other countries.                           | Builds reliable recall and answer quality. |
+| 3    | Separate moral reasons from practical or prudential reasons.                           | Builds reliable recall and answer quality. |
+| 4    | Use flowcharts for institutions, levels of government, and power-sharing arrangements. | Builds reliable recall and answer quality. |
 
 ---
 
 ## 🎯 Learning Outcomes
 
-| # | After studying this chapter, you should be able to... |
-|---|---|
-| 1 | define democratic and constitutional concepts precisely |
-| 2 | connect institutions and power arrangements with real examples |
-| 3 | distinguish moral, prudential, legal, and practical arguments |
+| #   | After studying this chapter, you should be able to...          |
+| --- | -------------------------------------------------------------- |
+| 1   | define democratic and constitutional concepts precisely        |
+| 2   | connect institutions and power arrangements with real examples |
+| 3   | distinguish moral, prudential, legal, and practical arguments  |
 
 ---
 
 ## 🗂️ Section Structure
 
-| Section | Title | Revision Focus |
-|---|---|---|
-| Intro | Core chapter narrative | Definition, explanation, examples, and likely questions |
+| Section | Title                  | Revision Focus                                          |
+| ------- | ---------------------- | ------------------------------------------------------- |
+| Intro   | Core chapter narrative | Definition, explanation, examples, and likely questions |
 
 ---
 
 ## 🧠 Subject-Specific Study Method
 
-| Part | How to Use It |
-|---|---|
-| Core lens | concept -> institution -> constitutional principle -> conflict/problem -> democratic resolution |
-| First pass | Read for meaning and mark unfamiliar terms. |
-| Second pass | Convert definitions, examples, data, and activities into tables. |
-| Revision pass | Use the quick reference and practice tracker at the end. |
+| Part          | How to Use It                                                                                   |
+| ------------- | ----------------------------------------------------------------------------------------------- |
+| Core lens     | concept -> institution -> constitutional principle -> conflict/problem -> democratic resolution |
+| First pass    | Read for meaning and mark unfamiliar terms.                                                     |
+| Second pass   | Convert definitions, examples, data, and activities into tables.                                |
+| Revision pass | Use the quick reference and practice tracker at the end.                                        |
 
 ---
 
 ## 🧭 Concept, Evidence, and Example Board
 
-| Learning Need | How To Build It |
-|---|---|
-| Core concepts | Turn each definition into a one-line meaning and one example. |
-| Evidence | Use dates, places, maps, data, thinkers, laws, institutions, or case studies from the chapter. |
-| Comparison | Prepare tables for contrasts, causes, consequences, and viewpoints. |
-| Answer quality | Move from description to explanation to significance. |
+| Learning Need  | How To Build It                                                                                |
+| -------------- | ---------------------------------------------------------------------------------------------- |
+| Core concepts  | Turn each definition into a one-line meaning and one example.                                  |
+| Evidence       | Use dates, places, maps, data, thinkers, laws, institutions, or case studies from the chapter. |
+| Comparison     | Prepare tables for contrasts, causes, consequences, and viewpoints.                            |
+| Answer quality | Move from description to explanation to significance.                                          |
 
 ---
 
@@ -183,7 +184,7 @@ the excesses committed during Emergency and restore civil liberties. /g31The Lef
 
 Principles Features of election system Each constituency has roughly the same population Everyone who is 18 years of age or older has a right to vote Anyone can form a party or contest elections Reservation of seats for the SCs and the STs Universal adult franchise Representation of weaker sections Open political competition One vote one value CHECK YOUR PROGRESS Reprint 2025-26 campaigns to ensure that every political party and candidate gets a fair and equal chance to compete.
 
-According to our election law, no party or candidate can: < Bribe or threaten voters; < Appeal to them in the name of caste or religion; < Use government resources for election campaign; and < Spend more than ` 25 lakh in a constituency for a Lok Sabha election or ` 10 lakh in a constituency in an Assembly election. If they do so, their election can be rejected by the court even after they have been declared elected. In addition to the laws, all the political parties in our country have agreed to a Model Code of Conduct for election campaigns.
+According to our election law, no party or candidate can: < Bribe or threaten voters; < Appeal to them in the name of caste or religion; < Use government resources for election campaign; and < Spend more than `25 lakh in a constituency for a Lok Sabha election or` 10 lakh in a constituency in an Assembly election. If they do so, their election can be rejected by the court even after they have been declared elected. In addition to the laws, all the political parties in our country have agreed to a Model Code of Conduct for election campaigns.
 
 According to this, no party or candidate can: < Use any place of worship for election propaganda; < Use government vehicles, aircrafts and officials for elections; and < Once elections are announced, Ministers shall not lay foundation stones of any projects, take any big policy decisions or make any promises of providing public facilities. P PP PPolling and c olling and colling and c olling and colling and c oun ounoun ounoun ting of v ting of vting of v ting of vting of v ot otot ototes eses eses The final stage of an election is the day when the voters cast or ‘poll’ their vote. That day is usually called the election day. Every person whose name is on the voters’ list can go to a nearby ‘polling booth’, situated usually in a local school or a government office.
 
@@ -296,13 +297,13 @@ Reprint 2025-26
 
 ## 🔑 Key Concepts & Definitions
 
-| Term | Learner-Friendly Meaning |
-|---|---|
-| **This mechanism** | election |
-| **This** | that everyone should have one vote and every vote should have equal value |
-| **representative elected from each constituency** | a Member of Parliament or an MP |
-| **elected representative** | the Member of Legislative Assembly or an MLA |
-| **In practice it** | that everyone should have one vote and each vote should have equal value |
+| Term                                              | Learner-Friendly Meaning                                                  |
+| ------------------------------------------------- | ------------------------------------------------------------------------- |
+| **This mechanism**                                | election                                                                  |
+| **This**                                          | that everyone should have one vote and every vote should have equal value |
+| **representative elected from each constituency** | a Member of Parliament or an MP                                           |
+| **elected representative**                        | the Member of Legislative Assembly or an MLA                              |
+| **In practice it**                                | that everyone should have one vote and each vote should have equal value  |
 
 ---
 
@@ -315,67 +316,67 @@ Reprint 2025-26
 
 ## 🔬 Activities, Projects, and Inquiry Prompts
 
-| # | Prompt | Learner Task |
-|---|---|---|
-| 1 | ACTIVITY | Observe, discuss, collect evidence, or write a short response. |
+| #   | Prompt   | Learner Task                                                   |
+| --- | -------- | -------------------------------------------------------------- |
+| 1   | ACTIVITY | Observe, discuss, collect evidence, or write a short response. |
 
 ---
 
 ## ✏️ Practice & Exercise Tracker
 
-| Q | Question / Task | Answer Strategy |
-|---|---|---|
-| 1 | 1977. The party promised to undo the excesses committed during Emergency and restore civil liberties. /g31The Left Front used the slogan of Land to the Tiller in the West Bengal Assembly elections held in 1977. /g31‘Protect the Self-Respect of the Telugus’ was the slogan used by N. T. Rama Rao, the leader of the Telugu Desam Party in Andhra Pradesh Assembly elections in 1983. In a democracy it is best to leave political parties and candidates free to conduct their election campaigns the way they want to. But it is sometimes necessary to regulate Match the following features of our electoral system with the principles they reflect. Principles Features of election system Each constituency has roughly the same population Everyone who is 18 years of age or older has a right to vote Anyone can form a party or contest elections Reservation of seats for the SCs and the STs Universal adult franchise Representation of weaker sections Open political competition One vote one value CHECK YOUR PROGRESS Reprint 2025-26 campaigns to ensure that every political party and candidate gets a fair and equal chance to compete. According to our election law, no party or candidate can: < Bribe or threaten voters; < Appeal to them in the name of caste or religion; < Use government resources for election campaign; and < Spend more than ` 25 lakh in a constituency for a Lok Sabha election or ` 10 lakh in a constituency in an Assembly election. If they do so, their election can be rejected by the court even after they have been declared elected. In addition to the laws, all the political parties in our country have agreed to a Model Code of Conduct for election campaigns. According to this, no party or candidate can: < Use any place of worship for election propaganda; < Use government vehicles, aircrafts and officials for elections; and < Once elections are announced, Ministers shall not lay foundation stones of any projects, take any big policy decisions or make any promises of providing public facilities. P PP PPolling and c olling and colling and c olling and colling and c oun ounoun ounoun ting of v ting of vting of v ting of vting of v ot otot ototes eses eses The final stage of an election is the day when the voters cast or ‘poll’ their vote. That day is usually called the election day. Every person whose name is on the voters’ list can go to a nearby ‘polling booth’, situated usually in a local school or a government office. Once the voter goes inside the booth, the election officials identify her, put a mark on her finger and allow her to cast her vote. An agent of each candidate is allowed to sit inside the polling booth and ensure that the voting takes place in a fair way. ELECTORAL P OLITICS Are the ele ctions too e xpensivefor our country? A large amount of money is spent in conducting elections in India. For instance, the government spent about `3,500 crores in conducting Lok Sabha elections in 2014. That works out to about `40 per person on the voters’ list. The amount spent by parties and candidates was more than what the government spent. Roughly speaking, the expenditure made by government, par ties and candidates was around `30,000 crores or `500 per voter. Some people say that elections are a burden on our people, that our poor country cannot afford to hold elections once ever y five years. Let us compare this expenditure with some other figures: < In 2005, our government decided to buy six nuclear submarines from France. Each subma- rine cost about `3,000 crores. < Delhi hosted the Commonwealth Games in | Identify command word, recall concept, structure answer, then review. |
-| 2 | 2010. The estimate for its cost is around `20,000 crores. Are the elections too expensive? You decide. Reprint 2025-26 46 DEMOCRATIC P OLITICS Earlier the voters used to indicate who they wanted to vote for by putting a stamp on the ballot paper. A ballot paper is a sheet of paper on which the names of the contesting candidates along with party name and symbols are listed. Nowadays electronic voting machines (EVM) are used to record votes. The machine shows the names of the candidates and the party symbols. Independent candidates too have their own symbols, allotted by election commission. All that the voter has to do is to press the button against the name of the candidate she wants to give her vote. Once the polling is over, all the EVMs are sealed and taken to a Why are party agents present in the polling booth and the counting centre? Election result in Gulbarga Let us go back to our example of Gulbarga. In 2014, a total of 8 candidates contested elections in that constituency. The total eligible voters were 17.21 lakhs. Of these 9.98 lakh voters had cast their votes. The candidate of the Congress party, Mallikarjun Kharge secured about 5.07 lakh votes. This was 50.82 percent of the total votes polled. But since he had secured more votes than anyone else, he was declared elected a Member of Parliament from Gulbarga Lok Sabha constituency. Election Result of Gulbarga constituency, GENERAL ELECTION TO LOK SABHA, 2014 CANDIDATE PARTY VOTES POLLED % OF VOTES D.G. Sagar JD(S) 1.57 Mallikarjun Kharge INC 50.82 Danni Mahadev B. BSP 1.14 Revunaik Belamagi BJP 43.33 B.T. Lalitha Naik AAAP 0.91 S.M. Sharma SUCI 0.50 Shankar Jadhav BHPP 0.29 Ramu IND 0.41 None of the Above NOTA 0.99 CHECK YOUR PROGRESS Identify the fair and the unfair electoral practices among the following: /UIstopA minister flags off a new train in his constituency a week before polling day. /UIstopA candidate promises that she will get a new train for her constituency if she is elected. /UIstopSupporters of a candidate take the voters to a temple and make them take an oath that they will vote for him. /UIstopThe supporters of a candidate distribute blankets in slums in return for a promise for vote. secure place. A few days later, on a fixed date, all the EVMs from a constituency are opened and the votes secured by each candidate are counted. The agents of all candidates are present there to ensure that the counting is done properly. The candidate who secures the highest number of votes from a constituency is declared elected. In a general election, usually the counting of votes in all the constituencies takes place at the same time, on the same day. Television channels, radio and newspapers report this event. Within a few hours of counting, all the results are declared and it becomes clear as to who will form the next government. /UIstopWhat is the percentage of voters who had actually cast their votes? /UIstopTo win an election is it necessary for a person to secure more than half the votes polled? Reprint 2025-26 | Identify command word, recall concept, structure answer, then review. |
-| 3 | 2000. But no one could change those decisions. 10 Here are some reports of malpractices in Indian elections. Identify what the problem in each case is. What should be done to correct the situation? a Following the announcement of elections, the minister promised to provide financial aid to reopen the closed sugar mill. b Opposition parties alleged that their statements and campaign was not given due attention in Doordarshan and All India Radio. c An inquiry by the Election Commission showed that electoral rolls of a state contain name of 20 lakh fake voters. d The hoodlums of a political party were moving with guns, physically preventing supporters of other political parties to meet the voters and attacking meetings of other parties. 11 Ramesh was not in class when this chapter was being taught. He came the next day and repeated what he had heard from his father. Can you tell Ramesh what is wrong with these statements? a Women always vote the way men tell them to. So what is the point of giving them the right to vote? b Party politics creates tension in society. Elections should be decided by consensus not by competition. c Only graduates should be allowed to stand as candidates for elections. Assembly elections are usually held every year in a few states of the country. You can collect information about the elections that take place during this session. While collecting news items, divide these into three parts: /UIstopImportant events that took place before the election – main agenda discussed by political parties; information about people’s demand; role of the Election Commission. /UIstopImportant events on the day of the election and counting – turnout in elections; reports of malpractice; re-polls; the types of predictions made; and the final outcome. /UIstopPost elections – reasons offered by political parties for winning or losing elections; analysis of the election verdict by the media; selection of the Chief Minister. Reprint 2025-26 Is Electoral Literacy Club (ELC) functioning in your school? For details about Systematic Voters’ Education and Electoral Participation (SVEEP) programme of the Election Commission of India, visit http://ecisveep.nic.in How did your school celebrate the National Voters’ Day on 25th January? Did you take the NVD Pledge? National Voters’ Day (NVD) Pledge We, the citizens of India, having abiding faith in democracy, hereby pledge to uphold the democratic traditions of our country and the dignity of free, fair and peaceful elections, and to vote in every election fearlessly and without being influenced by considerations of religion, race, caste, community, language or any inducement. The tableau of the Election Commission of India passes through the Rajpath, New Delhi, on the occasion of the 67th Republic Day Parade in 2016. Reprint 2025-26 | Identify command word, recall concept, structure answer, then review. |
+| Q   | Question / Task                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Answer Strategy                                                       |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------- |
+| 1   | 1977. The party promised to undo the excesses committed during Emergency and restore civil liberties. /g31The Left Front used the slogan of Land to the Tiller in the West Bengal Assembly elections held in 1977. /g31‘Protect the Self-Respect of the Telugus’ was the slogan used by N. T. Rama Rao, the leader of the Telugu Desam Party in Andhra Pradesh Assembly elections in 1983. In a democracy it is best to leave political parties and candidates free to conduct their election campaigns the way they want to. But it is sometimes necessary to regulate Match the following features of our electoral system with the principles they reflect. Principles Features of election system Each constituency has roughly the same population Everyone who is 18 years of age or older has a right to vote Anyone can form a party or contest elections Reservation of seats for the SCs and the STs Universal adult franchise Representation of weaker sections Open political competition One vote one value CHECK YOUR PROGRESS Reprint 2025-26 campaigns to ensure that every political party and candidate gets a fair and equal chance to compete. According to our election law, no party or candidate can: < Bribe or threaten voters; < Appeal to them in the name of caste or religion; < Use government resources for election campaign; and < Spend more than `25 lakh in a constituency for a Lok Sabha election or` 10 lakh in a constituency in an Assembly election. If they do so, their election can be rejected by the court even after they have been declared elected. In addition to the laws, all the political parties in our country have agreed to a Model Code of Conduct for election campaigns. According to this, no party or candidate can: < Use any place of worship for election propaganda; < Use government vehicles, aircrafts and officials for elections; and < Once elections are announced, Ministers shall not lay foundation stones of any projects, take any big policy decisions or make any promises of providing public facilities. P PP PPolling and c olling and colling and c olling and colling and c oun ounoun ounoun ting of v ting of vting of v ting of vting of v ot otot ototes eses eses The final stage of an election is the day when the voters cast or ‘poll’ their vote. That day is usually called the election day. Every person whose name is on the voters’ list can go to a nearby ‘polling booth’, situated usually in a local school or a government office. Once the voter goes inside the booth, the election officials identify her, put a mark on her finger and allow her to cast her vote. An agent of each candidate is allowed to sit inside the polling booth and ensure that the voting takes place in a fair way. ELECTORAL P OLITICS Are the ele ctions too e xpensivefor our country? A large amount of money is spent in conducting elections in India. For instance, the government spent about `3,500 crores in conducting Lok Sabha elections in 2014. That works out to about `40 per person on the voters’ list. The amount spent by parties and candidates was more than what the government spent. Roughly speaking, the expenditure made by government, par ties and candidates was around `30,000 crores or `500 per voter. Some people say that elections are a burden on our people, that our poor country cannot afford to hold elections once ever y five years. Let us compare this expenditure with some other figures: < In 2005, our government decided to buy six nuclear submarines from France. Each subma- rine cost about `3,000 crores. < Delhi hosted the Commonwealth Games in | Identify command word, recall concept, structure answer, then review. |
+| 2   | 2010. The estimate for its cost is around `20,000 crores. Are the elections too expensive? You decide. Reprint 2025-26 46 DEMOCRATIC P OLITICS Earlier the voters used to indicate who they wanted to vote for by putting a stamp on the ballot paper. A ballot paper is a sheet of paper on which the names of the contesting candidates along with party name and symbols are listed. Nowadays electronic voting machines (EVM) are used to record votes. The machine shows the names of the candidates and the party symbols. Independent candidates too have their own symbols, allotted by election commission. All that the voter has to do is to press the button against the name of the candidate she wants to give her vote. Once the polling is over, all the EVMs are sealed and taken to a Why are party agents present in the polling booth and the counting centre? Election result in Gulbarga Let us go back to our example of Gulbarga. In 2014, a total of 8 candidates contested elections in that constituency. The total eligible voters were 17.21 lakhs. Of these 9.98 lakh voters had cast their votes. The candidate of the Congress party, Mallikarjun Kharge secured about 5.07 lakh votes. This was 50.82 percent of the total votes polled. But since he had secured more votes than anyone else, he was declared elected a Member of Parliament from Gulbarga Lok Sabha constituency. Election Result of Gulbarga constituency, GENERAL ELECTION TO LOK SABHA, 2014 CANDIDATE PARTY VOTES POLLED % OF VOTES D.G. Sagar JD(S) 1.57 Mallikarjun Kharge INC 50.82 Danni Mahadev B. BSP 1.14 Revunaik Belamagi BJP 43.33 B.T. Lalitha Naik AAAP 0.91 S.M. Sharma SUCI 0.50 Shankar Jadhav BHPP 0.29 Ramu IND 0.41 None of the Above NOTA 0.99 CHECK YOUR PROGRESS Identify the fair and the unfair electoral practices among the following: /UIstopA minister flags off a new train in his constituency a week before polling day. /UIstopA candidate promises that she will get a new train for her constituency if she is elected. /UIstopSupporters of a candidate take the voters to a temple and make them take an oath that they will vote for him. /UIstopThe supporters of a candidate distribute blankets in slums in return for a promise for vote. secure place. A few days later, on a fixed date, all the EVMs from a constituency are opened and the votes secured by each candidate are counted. The agents of all candidates are present there to ensure that the counting is done properly. The candidate who secures the highest number of votes from a constituency is declared elected. In a general election, usually the counting of votes in all the constituencies takes place at the same time, on the same day. Television channels, radio and newspapers report this event. Within a few hours of counting, all the results are declared and it becomes clear as to who will form the next government. /UIstopWhat is the percentage of voters who had actually cast their votes? /UIstopTo win an election is it necessary for a person to secure more than half the votes polled? Reprint 2025-26                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Identify command word, recall concept, structure answer, then review. |
+| 3   | 2000. But no one could change those decisions. 10 Here are some reports of malpractices in Indian elections. Identify what the problem in each case is. What should be done to correct the situation? a Following the announcement of elections, the minister promised to provide financial aid to reopen the closed sugar mill. b Opposition parties alleged that their statements and campaign was not given due attention in Doordarshan and All India Radio. c An inquiry by the Election Commission showed that electoral rolls of a state contain name of 20 lakh fake voters. d The hoodlums of a political party were moving with guns, physically preventing supporters of other political parties to meet the voters and attacking meetings of other parties. 11 Ramesh was not in class when this chapter was being taught. He came the next day and repeated what he had heard from his father. Can you tell Ramesh what is wrong with these statements? a Women always vote the way men tell them to. So what is the point of giving them the right to vote? b Party politics creates tension in society. Elections should be decided by consensus not by competition. c Only graduates should be allowed to stand as candidates for elections. Assembly elections are usually held every year in a few states of the country. You can collect information about the elections that take place during this session. While collecting news items, divide these into three parts: /UIstopImportant events that took place before the election – main agenda discussed by political parties; information about people’s demand; role of the Election Commission. /UIstopImportant events on the day of the election and counting – turnout in elections; reports of malpractice; re-polls; the types of predictions made; and the final outcome. /UIstopPost elections – reasons offered by political parties for winning or losing elections; analysis of the election verdict by the media; selection of the Chief Minister. Reprint 2025-26 Is Electoral Literacy Club (ELC) functioning in your school? For details about Systematic Voters’ Education and Electoral Participation (SVEEP) programme of the Election Commission of India, visit http://ecisveep.nic.in How did your school celebrate the National Voters’ Day on 25th January? Did you take the NVD Pledge? National Voters’ Day (NVD) Pledge We, the citizens of India, having abiding faith in democracy, hereby pledge to uphold the democratic traditions of our country and the dignity of free, fair and peaceful elections, and to vote in every election fearlessly and without being influenced by considerations of religion, race, caste, community, language or any inducement. The tableau of the Election Commission of India passes through the Rajpath, New Delhi, on the occasion of the 67th Republic Day Parade in 2016. Reprint 2025-26                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Identify command word, recall concept, structure answer, then review. |
 
 ---
 
 ## 🧩 Answer-Writing Framework
 
-| Step | What To Do |
-|---|---|
-| 1 | Define the political idea. |
-| 2 | Explain why it matters in democracy. |
-| 3 | Give one institutional mechanism or constitutional provision. |
-| 4 | Use one example. |
-| 5 | Conclude with its effect on citizens or governance. |
+| Step | What To Do                                                    |
+| ---- | ------------------------------------------------------------- |
+| 1    | Define the political idea.                                    |
+| 2    | Explain why it matters in democracy.                          |
+| 3    | Give one institutional mechanism or constitutional provision. |
+| 4    | Use one example.                                              |
+| 5    | Conclude with its effect on citizens or governance.           |
 
 ---
 
 ## ⚠️ Common Misconceptions
 
-| # | Watch Out For This |
-|---|---|
-| 1 | Democracy is not only elections; it includes participation and accountability. |
-| 2 | Majority rule and majoritarianism are not the same. |
-| 3 | Institutions matter because they distribute and limit power. |
+| #   | Watch Out For This                                                             |
+| --- | ------------------------------------------------------------------------------ |
+| 1   | Democracy is not only elections; it includes participation and accountability. |
+| 2   | Majority rule and majoritarianism are not the same.                            |
+| 3   | Institutions matter because they distribute and limit power.                   |
 
 ---
 
 ## 📋 Quick Revision Sheet
 
-| Revision Item | What To Recall |
-|---|---|
-| Chapter core | Electoral Politics |
-| Intro | Core chapter narrative |
-| Definition | This mechanism |
-| Definition | This |
-| Definition | representative elected from each constituency |
-| Definition | elected representative |
-| Definition | In practice it |
+| Revision Item | What To Recall                                |
+| ------------- | --------------------------------------------- |
+| Chapter core  | Electoral Politics                            |
+| Intro         | Core chapter narrative                        |
+| Definition    | This mechanism                                |
+| Definition    | This                                          |
+| Definition    | representative elected from each constituency |
+| Definition    | elected representative                        |
+| Definition    | In practice it                                |
 
 ---
 
 ## ✅ Pilot Quality Checklist
 
-| Check | Status |
-|---|---|
-| Raw data preserved | Yes — chapter content is retained and cleaned, not summarised away. |
-| Learner scaffolding added | Yes — roadmap, outcomes, answer framework, misconceptions, and revision sheet. |
-| Subject-aware structure | Yes — generated from the selected subject family profile. |
-| Needs human review | Yes — especially source extraction mismatches, diagrams, tables, formulas, and broken OCR words. |
+| Check                     | Status                                                                                           |
+| ------------------------- | ------------------------------------------------------------------------------------------------ |
+| Raw data preserved        | Yes — chapter content is retained and cleaned, not summarised away.                              |
+| Learner scaffolding added | Yes — roadmap, outcomes, answer framework, misconceptions, and revision sheet.                   |
+| Subject-aware structure   | Yes — generated from the selected subject family profile.                                        |
+| Needs human review        | Yes — especially source extraction mismatches, diagrams, tables, formulas, and broken OCR words. |
 
 ---
 
-*Source: NCERT Class 9 — Social Civics, Chapter 3. Raw file: `data/class_9/social_civics/chapter_03.md`.*
+_Source: NCERT Class 9 — Social Civics, Chapter 3. Raw file: `data/class_9/social_civics/chapter_03.md`._

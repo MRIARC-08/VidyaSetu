@@ -1,4 +1,5 @@
 # Chapter 6: Waves
+
 ### NCERT Class 11 - Physics Part 2
 
 ---
@@ -19,20 +20,20 @@ The central ideas are:
 
 ## Chapter Map
 
-| Section | Main Idea |
-| --- | --- |
-| Nature of waves | disturbance travels, matter does not move bodily |
-| Wave types | mechanical, electromagnetic, matter waves |
+| Section                           | Main Idea                                                     |
+| --------------------------------- | ------------------------------------------------------------- |
+| Nature of waves                   | disturbance travels, matter does not move bodily              |
+| Wave types                        | mechanical, electromagnetic, matter waves                     |
 | Transverse and longitudinal waves | particle oscillation perpendicular or parallel to propagation |
-| Progressive wave equation | displacement depends on position and time |
-| Wave speed | `v = nu lambda = omega/k` |
-| String waves | speed depends on tension and linear mass density |
-| Sound waves | speed depends on elastic and inertial properties |
-| Superposition | net displacement is algebraic sum |
-| Reflection | rigid and open boundaries change reflected phase differently |
-| Standing waves | nodes, antinodes, normal modes |
-| Beats | periodic loudness variation due to close frequencies |
-| Doppler effect | apparent frequency changes due to relative motion |
+| Progressive wave equation         | displacement depends on position and time                     |
+| Wave speed                        | `v = nu lambda = omega/k`                                     |
+| String waves                      | speed depends on tension and linear mass density              |
+| Sound waves                       | speed depends on elastic and inertial properties              |
+| Superposition                     | net displacement is algebraic sum                             |
+| Reflection                        | rigid and open boundaries change reflected phase differently  |
+| Standing waves                    | nodes, antinodes, normal modes                                |
+| Beats                             | periodic loudness variation due to close frequencies          |
+| Doppler effect                    | apparent frequency changes due to relative motion             |
 
 ---
 
@@ -76,12 +77,12 @@ Mechanical waves require a material medium.
 
 Examples:
 
-| Wave | Medium |
-| --- | --- |
-| sound wave | air, liquid, solid |
-| wave on string | stretched string |
-| water wave | water surface |
-| seismic wave | Earth material |
+| Wave           | Medium             |
+| -------------- | ------------------ |
+| sound wave     | air, liquid, solid |
+| wave on string | stretched string   |
+| water wave     | water surface      |
+| seismic wave   | Earth material     |
 
 Mechanical waves cannot travel through vacuum.
 
@@ -143,9 +144,9 @@ The medium forms compressions and rarefactions.
 
 ## Medium Requirement
 
-| Wave Type | Medium Requirement |
-| --- | --- |
-| transverse mechanical wave | medium must sustain shearing stress |
+| Wave Type                    | Medium Requirement                     |
+| ---------------------------- | -------------------------------------- |
+| transverse mechanical wave   | medium must sustain shearing stress    |
 | longitudinal mechanical wave | medium must sustain compressive stress |
 
 Fluids cannot sustain shear stress, so transverse mechanical waves do not propagate through the bulk of fluids. Sound in air is longitudinal.
@@ -178,14 +179,14 @@ y(x,t) = a sin(kx + omega t + phi)
 
 ## Meaning Of Symbols
 
-| Symbol | Meaning |
-| --- | --- |
-| `y(x,t)` | displacement at position `x` and time `t` |
-| `a` | amplitude |
-| `k` | angular wave number |
-| `omega` | angular frequency |
-| `phi` | initial phase |
-| `kx - omega t + phi` | phase of the wave |
+| Symbol               | Meaning                                   |
+| -------------------- | ----------------------------------------- |
+| `y(x,t)`             | displacement at position `x` and time `t` |
+| `a`                  | amplitude                                 |
+| `k`                  | angular wave number                       |
+| `omega`              | angular frequency                         |
+| `phi`                | initial phase                             |
+| `kx - omega t + phi` | phase of the wave                         |
 
 ---
 
@@ -358,10 +359,10 @@ v = sqrt(T/mu)
 
 where:
 
-| Symbol | Meaning |
-| --- | --- |
-| `T` | tension in string |
-| `mu` | linear mass density |
+| Symbol | Meaning             |
+| ------ | ------------------- |
+| `T`    | tension in string   |
+| `mu`   | linear mass density |
 
 Linear mass density:
 
@@ -413,10 +414,10 @@ v = sqrt(B/rho)
 
 where:
 
-| Symbol | Meaning |
-| --- | --- |
-| `B` | bulk modulus |
-| `rho` | density |
+| Symbol | Meaning      |
+| ------ | ------------ |
+| `B`    | bulk modulus |
+| `rho`  | density      |
 
 ### Meaning
 
@@ -651,11 +652,11 @@ nu_1 = v/(2L)
 
 ## Harmonics
 
-| Mode | Name | Frequency |
-| --- | --- | --- |
-| `n = 1` | first harmonic, fundamental | `v/(2L)` |
-| `n = 2` | second harmonic | `2v/(2L)` |
-| `n = 3` | third harmonic | `3v/(2L)` |
+| Mode    | Name                        | Frequency |
+| ------- | --------------------------- | --------- |
+| `n = 1` | first harmonic, fundamental | `v/(2L)`  |
+| `n = 2` | second harmonic             | `2v/(2L)` |
+| `n = 3` | third harmonic              | `3v/(2L)` |
 
 ---
 
@@ -711,11 +712,11 @@ The pitch of a siren is higher when an ambulance approaches and lower when it mo
 
 ## Qualitative Rule
 
-| Relative Motion | Observed Frequency |
-| --- | --- |
-| source and observer approach each other | higher |
-| source and observer move away from each other | lower |
-| no relative motion along line joining them | no Doppler shift |
+| Relative Motion                               | Observed Frequency |
+| --------------------------------------------- | ------------------ |
+| source and observer approach each other       | higher             |
+| source and observer move away from each other | lower              |
+| no relative motion along line joining them    | no Doppler shift   |
 
 ---
 
@@ -729,12 +730,12 @@ When the source moves away, wavefronts are spread farther apart. The observed wa
 
 ## Applications
 
-| Application | Use |
-| --- | --- |
+| Application             | Use                                |
+| ----------------------- | ---------------------------------- |
 | radar speed measurement | detects speed from frequency shift |
-| astronomy | motion of stars and galaxies |
-| medical ultrasound | blood flow and heart imaging |
-| weather radar | storm motion |
+| astronomy               | motion of stars and galaxies       |
+| medical ultrasound      | blood flow and heart imaging       |
+| weather radar           | storm motion                       |
 
 ---
 
@@ -742,41 +743,41 @@ When the source moves away, wavefronts are spread farther apart. The observed wa
 
 ## Wave Equation
 
-| Formula | Meaning |
-| --- | --- |
+| Formula                              | Meaning                             |
+| ------------------------------------ | ----------------------------------- |
 | `y(x,t) = a sin(kx - omega t + phi)` | wave moving in positive x-direction |
 | `y(x,t) = a sin(kx + omega t + phi)` | wave moving in negative x-direction |
-| `k = 2 pi/lambda` | angular wave number |
-| `omega = 2 pi nu` | angular frequency |
-| `T = 1/nu` | period-frequency relation |
-| `v = omega/k` | wave speed |
-| `v = nu lambda` | wave speed relation |
+| `k = 2 pi/lambda`                    | angular wave number                 |
+| `omega = 2 pi nu`                    | angular frequency                   |
+| `T = 1/nu`                           | period-frequency relation           |
+| `v = omega/k`                        | wave speed                          |
+| `v = nu lambda`                      | wave speed relation                 |
 
 ## Wave Speed In Media
 
-| Formula | Meaning |
-| --- | --- |
-| `v = sqrt(T/mu)` | transverse wave on stretched string |
-| `mu = mass/length` | linear mass density |
-| `v = sqrt(B/rho)` | longitudinal wave in bulk medium |
-| `v = sqrt(Y/rho)` | longitudinal wave in solid bar |
+| Formula                 | Meaning                                    |
+| ----------------------- | ------------------------------------------ |
+| `v = sqrt(T/mu)`        | transverse wave on stretched string        |
+| `mu = mass/length`      | linear mass density                        |
+| `v = sqrt(B/rho)`       | longitudinal wave in bulk medium           |
+| `v = sqrt(Y/rho)`       | longitudinal wave in solid bar             |
 | `v = sqrt(gamma P/rho)` | sound in ideal gas with Laplace correction |
 
 ## Superposition And Standing Waves
 
-| Formula | Meaning |
-| --- | --- |
-| `y = y1 + y2` | superposition |
-| `A = 2a cos(phi/2)` | resultant amplitude for equal waves |
-| `y = 2a sin kx cos omega t` | standing wave |
-| `lambda_n = 2L/n` | fixed string allowed wavelengths |
-| `nu_n = n v/(2L)` | fixed string allowed frequencies |
+| Formula                     | Meaning                             |
+| --------------------------- | ----------------------------------- |
+| `y = y1 + y2`               | superposition                       |
+| `A = 2a cos(phi/2)`         | resultant amplitude for equal waves |
+| `y = 2a sin kx cos omega t` | standing wave                       |
+| `lambda_n = 2L/n`           | fixed string allowed wavelengths    |
+| `nu_n = n v/(2L)`           | fixed string allowed frequencies    |
 
 ## Beats
 
-| Formula | Meaning |
-| --- | --- |
-| `nu_beat = |nu1 - nu2|` | beat frequency |
+| Formula    | Meaning   |
+| ---------- | --------- | --- | -------------- |
+| `nu_beat = | nu1 - nu2 | `   | beat frequency |
 
 ---
 
@@ -899,4 +900,3 @@ Frequency increases when source and observer approach each other and decreases w
 - [ ] I can identify nodes, antinodes, and harmonics.
 - [ ] I can calculate beat frequency.
 - [ ] I can explain Doppler effect qualitatively.
-

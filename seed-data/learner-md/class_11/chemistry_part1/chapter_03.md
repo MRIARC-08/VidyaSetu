@@ -43,29 +43,29 @@ By the end of this chapter, a learner should be able to:
 
 ## 3. Core Vocabulary
 
-| Term | Learner meaning |
-|---|---|
-| Periodic table | Arrangement of elements based on repeating properties |
-| Period | Horizontal row in the periodic table |
-| Group | Vertical column in the periodic table |
-| Periodicity | Repetition of properties at regular intervals |
-| Atomic number | Number of protons in the nucleus |
-| Valence shell | Outermost shell of an atom |
-| Valence electrons | Electrons present in the valence shell |
-| Block | Region of periodic table named by the subshell being filled |
-| s-block | Elements in which last electron enters s subshell |
-| p-block | Elements in which last electron enters p subshell |
-| d-block | Elements in which last electron enters d subshell |
-| f-block | Elements in which last electron enters f subshell |
-| Atomic radius | Approximate size of an atom |
-| Ionic radius | Approximate size of an ion |
-| Isoelectronic species | Species having the same number of electrons |
-| Ionization enthalpy | Energy required to remove an electron from gaseous atom |
-| Electron gain enthalpy | Enthalpy change when an electron is added to gaseous atom |
-| Electronegativity | Tendency of bonded atom to attract shared electrons |
-| Metallic character | Tendency to lose electrons and form cations |
-| Non-metallic character | Tendency to gain or attract electrons |
-| Oxidation state | Apparent charge assigned to an atom in a compound |
+| Term                   | Learner meaning                                             |
+| ---------------------- | ----------------------------------------------------------- |
+| Periodic table         | Arrangement of elements based on repeating properties       |
+| Period                 | Horizontal row in the periodic table                        |
+| Group                  | Vertical column in the periodic table                       |
+| Periodicity            | Repetition of properties at regular intervals               |
+| Atomic number          | Number of protons in the nucleus                            |
+| Valence shell          | Outermost shell of an atom                                  |
+| Valence electrons      | Electrons present in the valence shell                      |
+| Block                  | Region of periodic table named by the subshell being filled |
+| s-block                | Elements in which last electron enters s subshell           |
+| p-block                | Elements in which last electron enters p subshell           |
+| d-block                | Elements in which last electron enters d subshell           |
+| f-block                | Elements in which last electron enters f subshell           |
+| Atomic radius          | Approximate size of an atom                                 |
+| Ionic radius           | Approximate size of an ion                                  |
+| Isoelectronic species  | Species having the same number of electrons                 |
+| Ionization enthalpy    | Energy required to remove an electron from gaseous atom     |
+| Electron gain enthalpy | Enthalpy change when an electron is added to gaseous atom   |
+| Electronegativity      | Tendency of bonded atom to attract shared electrons         |
+| Metallic character     | Tendency to lose electrons and form cations                 |
+| Non-metallic character | Tendency to gain or attract electrons                       |
+| Oxidation state        | Apparent charge assigned to an atom in a compound           |
 
 ## 4. Big Picture Map
 
@@ -130,11 +130,11 @@ In a triad:
 
 Example:
 
-| Triad | Approximate idea |
-|---|---|
-| Li, Na, K | Sodium lies between lithium and potassium |
+| Triad      | Approximate idea                          |
+| ---------- | ----------------------------------------- |
+| Li, Na, K  | Sodium lies between lithium and potassium |
 | Ca, Sr, Ba | Strontium lies between calcium and barium |
-| Cl, Br, I | Bromine lies between chlorine and iodine |
+| Cl, Br, I  | Bromine lies between chlorine and iodine  |
 
 Limitation:
 
@@ -214,9 +214,9 @@ He also:
 Classic examples:
 
 | Mendeleev name | Later element |
-|---|---|
-| Eka-aluminium | Gallium |
-| Eka-silicon | Germanium |
+| -------------- | ------------- |
+| Eka-aluminium  | Gallium       |
+| Eka-silicon    | Germanium     |
 
 Mendeleev predicted their approximate atomic weights, densities, and formulas of oxides and chlorides.
 
@@ -294,15 +294,15 @@ A period is a horizontal row.
 
 The period number generally corresponds to the highest principal quantum number `n` of the valence shell.
 
-| Period | Shell being filled mainly | Number of elements |
-|---|---:|---:|
-| 1 | n = 1 | 2 |
-| 2 | n = 2 | 8 |
-| 3 | n = 3 | 8 |
-| 4 | n = 4 with 3d filling | 18 |
-| 5 | n = 5 with 4d filling | 18 |
-| 6 | n = 6 with 4f and 5d filling | 32 |
-| 7 | n = 7 with 5f and 6d filling | 32 maximum |
+| Period |    Shell being filled mainly | Number of elements |
+| ------ | ---------------------------: | -----------------: |
+| 1      |                        n = 1 |                  2 |
+| 2      |                        n = 2 |                  8 |
+| 3      |                        n = 3 |                  8 |
+| 4      |        n = 4 with 3d filling |                 18 |
+| 5      |        n = 5 with 4d filling |                 18 |
+| 6      | n = 6 with 4f and 5d filling |                 32 |
+| 7      | n = 7 with 5f and 6d filling |         32 maximum |
 
 ## 19. Why Periods Have 2, 8, 18, and 32 Elements
 
@@ -311,11 +311,11 @@ The number of elements in a period depends on the number of orbitals being fille
 Each orbital can hold 2 electrons.
 
 | Orbitals involved | Number of orbitals | Maximum electrons |
-|---|---:|---:|
-| s | 1 | 2 |
-| s + p | 1 + 3 = 4 | 8 |
-| s + d + p | 1 + 5 + 3 = 9 | 18 |
-| s + f + d + p | 1 + 7 + 5 + 3 = 16 | 32 |
+| ----------------- | -----------------: | ----------------: |
+| s                 |                  1 |                 2 |
+| s + p             |          1 + 3 = 4 |                 8 |
+| s + d + p         |      1 + 5 + 3 = 9 |                18 |
+| s + f + d + p     | 1 + 7 + 5 + 3 = 16 |                32 |
 
 So a period can contain 2, 8, 18, or 32 elements depending on the subshells involved.
 
@@ -373,17 +373,17 @@ Before an official name is accepted, a temporary systematic name can be made fro
 Digit roots:
 
 | Digit | Root | Symbol letter |
-|---:|---|---|
-| 0 | nil | n |
-| 1 | un | u |
-| 2 | bi | b |
-| 3 | tri | t |
-| 4 | quad | q |
-| 5 | pent | p |
-| 6 | hex | h |
-| 7 | sept | s |
-| 8 | oct | o |
-| 9 | enn | e |
+| ----: | ---- | ------------- |
+|     0 | nil  | n             |
+|     1 | un   | u             |
+|     2 | bi   | b             |
+|     3 | tri  | t             |
+|     4 | quad | q             |
+|     5 | pent | p             |
+|     6 | hex  | h             |
+|     7 | sept | s             |
+|     8 | oct  | o             |
+|     9 | enn  | e             |
 
 Rules:
 
@@ -421,33 +421,33 @@ Elements up to atomic number 118 have official names.
 Some examples above 100:
 
 | Atomic number | Official name | Symbol |
-|---:|---|---|
-| 104 | Rutherfordium | Rf |
-| 105 | Dubnium | Db |
-| 106 | Seaborgium | Sg |
-| 107 | Bohrium | Bh |
-| 108 | Hassium | Hs |
-| 109 | Meitnerium | Mt |
-| 110 | Darmstadtium | Ds |
-| 111 | Roentgenium | Rg |
-| 112 | Copernicium | Cn |
-| 113 | Nihonium | Nh |
-| 114 | Flerovium | Fl |
-| 115 | Moscovium | Mc |
-| 116 | Livermorium | Lv |
-| 117 | Tennessine | Ts |
-| 118 | Oganesson | Og |
+| ------------: | ------------- | ------ |
+|           104 | Rutherfordium | Rf     |
+|           105 | Dubnium       | Db     |
+|           106 | Seaborgium    | Sg     |
+|           107 | Bohrium       | Bh     |
+|           108 | Hassium       | Hs     |
+|           109 | Meitnerium    | Mt     |
+|           110 | Darmstadtium  | Ds     |
+|           111 | Roentgenium   | Rg     |
+|           112 | Copernicium   | Cn     |
+|           113 | Nihonium      | Nh     |
+|           114 | Flerovium     | Fl     |
+|           115 | Moscovium     | Mc     |
+|           116 | Livermorium   | Lv     |
+|           117 | Tennessine    | Ts     |
+|           118 | Oganesson     | Og     |
 
 ## 24. Blocks of the Periodic Table
 
 The periodic table is divided into blocks according to the subshell that receives the last electron.
 
-| Block | Last electron enters | General area |
-|---|---|---|
-| s-block | s subshell | Groups 1 and 2 |
-| p-block | p subshell | Groups 13 to 18 |
-| d-block | d subshell | Groups 3 to 12 |
-| f-block | f subshell | Lanthanoids and actinoids |
+| Block   | Last electron enters | General area              |
+| ------- | -------------------- | ------------------------- |
+| s-block | s subshell           | Groups 1 and 2            |
+| p-block | p subshell           | Groups 13 to 18           |
+| d-block | d subshell           | Groups 3 to 12            |
+| f-block | f subshell           | Lanthanoids and actinoids |
 
 ## 25. s-Block Elements
 
@@ -458,10 +458,10 @@ s-block elements include:
 
 General outer configurations:
 
-| Group | General configuration |
-|---|---|
-| Group 1 | ns1 |
-| Group 2 | ns2 |
+| Group   | General configuration |
+| ------- | --------------------- |
+| Group 1 | ns1                   |
+| Group 2 | ns2                   |
 
 Key features:
 
@@ -485,14 +485,14 @@ ns2 np1 to ns2 np6
 
 Important families:
 
-| Group | Common family |
-|---:|---|
-| 13 | Boron family |
-| 14 | Carbon family |
-| 15 | Nitrogen family |
-| 16 | Chalcogens |
-| 17 | Halogens |
-| 18 | Noble gases |
+| Group | Common family   |
+| ----: | --------------- |
+|    13 | Boron family    |
+|    14 | Carbon family   |
+|    15 | Nitrogen family |
+|    16 | Chalcogens      |
+|    17 | Halogens        |
+|    18 | Noble gases     |
 
 Key features:
 
@@ -588,11 +588,11 @@ Chemical behaviour decides its practical position.
 
 Elements can also be classified by broad physical and chemical character.
 
-| Type | Main position | Common properties |
-|---|---|---|
-| Metals | Left and centre | Conductive, malleable, ductile, tend to lose electrons |
-| Non-metals | Upper right | Poor conductors, often gain or share electrons |
-| Metalloids | Border region | Intermediate properties |
+| Type       | Main position   | Common properties                                      |
+| ---------- | --------------- | ------------------------------------------------------ |
+| Metals     | Left and centre | Conductive, malleable, ductile, tend to lose electrons |
+| Non-metals | Upper right     | Poor conductors, often gain or share electrons         |
+| Metalloids | Border region   | Intermediate properties                                |
 
 Common metalloids include:
 
@@ -677,10 +677,10 @@ Atoms do not have sharp boundaries, so atomic radius is estimated from distances
 
 Two useful forms:
 
-| Radius type | Meaning |
-|---|---|
+| Radius type     | Meaning                                                                  |
+| --------------- | ------------------------------------------------------------------------ |
 | Covalent radius | Half the distance between nuclei of two bonded identical non-metal atoms |
-| Metallic radius | Half the distance between adjacent metal atom cores in metallic crystal |
+| Metallic radius | Half the distance between adjacent metal atom cores in metallic crystal  |
 
 Example:
 
@@ -1133,13 +1133,13 @@ Reason down a group:
 
 ## 60. Electron Gain Enthalpy vs Electronegativity
 
-| Point | Electron gain enthalpy | Electronegativity |
-|---|---|---|
-| Meaning | Enthalpy change when isolated gaseous atom gains electron | Tendency of bonded atom to attract shared electrons |
-| Applies to | Isolated gaseous atom | Atom in a compound |
-| Nature | Thermodynamic quantity | Relative tendency |
-| Units | kJ mol^-1 | Usually unitless scale |
-| Sign used | Can be negative or positive | No sign |
+| Point      | Electron gain enthalpy                                    | Electronegativity                                   |
+| ---------- | --------------------------------------------------------- | --------------------------------------------------- |
+| Meaning    | Enthalpy change when isolated gaseous atom gains electron | Tendency of bonded atom to attract shared electrons |
+| Applies to | Isolated gaseous atom                                     | Atom in a compound                                  |
+| Nature     | Thermodynamic quantity                                    | Relative tendency                                   |
+| Units      | kJ mol^-1                                                 | Usually unitless scale                              |
+| Sign used  | Can be negative or positive                               | No sign                                             |
 
 ## 61. Electronegativity Is Not Constant in All Compounds
 
@@ -1163,15 +1163,15 @@ Valence is the combining capacity of an element.
 For representative elements, valence often relates to valence electrons:
 
 | Group | Valence electrons | Common valence |
-|---:|---:|---:|
-| 1 | 1 | 1 |
-| 2 | 2 | 2 |
-| 13 | 3 | 3 |
-| 14 | 4 | 4 |
-| 15 | 5 | 3 or 5 |
-| 16 | 6 | 2 or 6 |
-| 17 | 7 | 1 or 7 |
-| 18 | 8 | 0 or 8 |
+| ----: | ----------------: | -------------: |
+|     1 |                 1 |              1 |
+|     2 |                 2 |              2 |
+|    13 |                 3 |              3 |
+|    14 |                 4 |              4 |
+|    15 |                 5 |         3 or 5 |
+|    16 |                 6 |         2 or 6 |
+|    17 |                 7 |         1 or 7 |
+|    18 |                 8 |         0 or 8 |
 
 ## 63. Oxidation State
 
@@ -1199,12 +1199,12 @@ To predict formulas:
 
 Examples:
 
-| Elements | Valence pattern | Formula |
-|---|---|---|
-| Silicon and bromine | Si = 4, Br = 1 | SiBr4 |
-| Aluminium and sulfur | Al = 3, S = 2 | Al2S3 |
-| Lithium and oxygen | Li = 1, O = 2 | Li2O |
-| Magnesium and nitrogen | Mg = 2, N = 3 | Mg3N2 |
+| Elements               | Valence pattern | Formula |
+| ---------------------- | --------------- | ------- |
+| Silicon and bromine    | Si = 4, Br = 1  | SiBr4   |
+| Aluminium and sulfur   | Al = 3, S = 2   | Al2S3   |
+| Lithium and oxygen     | Li = 1, O = 2   | Li2O    |
+| Magnesium and nitrogen | Mg = 2, N = 3   | Mg3N2   |
 
 ## 65. Anomalous Behaviour of Second Period Elements
 
@@ -1318,12 +1318,12 @@ Across a period:
 
 Examples:
 
-| Type | Example | Nature |
-|---|---|---|
-| Metal oxide | Na2O | Basic |
-| Amphoteric oxide | Al2O3 | Acidic with bases, basic with acids |
-| Neutral oxide | CO | Neither acidic nor basic |
-| Non-metal oxide | Cl2O7 | Acidic |
+| Type             | Example | Nature                              |
+| ---------------- | ------- | ----------------------------------- |
+| Metal oxide      | Na2O    | Basic                               |
+| Amphoteric oxide | Al2O3   | Acidic with bases, basic with acids |
+| Neutral oxide    | CO      | Neither acidic nor basic            |
+| Non-metal oxide  | Cl2O7   | Acidic                              |
 
 ## 72. Basic and Acidic Oxides with Water
 
@@ -1386,27 +1386,27 @@ $$
 
 ## 74. Trend Summary Table
 
-| Property | Across a period left to right | Down a group |
-|---|---|---|
-| Atomic radius | Decreases | Increases |
-| Ionic radius | Generally decreases for comparable ions | Increases |
-| Effective nuclear charge | Increases | Valence effect decreases due to shielding |
-| Ionization enthalpy | Generally increases | Generally decreases |
-| Electron gain enthalpy | Generally more negative | Generally less negative |
-| Electronegativity | Increases | Decreases |
-| Metallic character | Decreases | Increases |
-| Non-metallic character | Increases | Decreases |
-| Basic nature of oxides | Decreases | Often increases for metallic groups |
-| Acidic nature of oxides | Increases | Often decreases for non-metal groups |
+| Property                 | Across a period left to right           | Down a group                              |
+| ------------------------ | --------------------------------------- | ----------------------------------------- |
+| Atomic radius            | Decreases                               | Increases                                 |
+| Ionic radius             | Generally decreases for comparable ions | Increases                                 |
+| Effective nuclear charge | Increases                               | Valence effect decreases due to shielding |
+| Ionization enthalpy      | Generally increases                     | Generally decreases                       |
+| Electron gain enthalpy   | Generally more negative                 | Generally less negative                   |
+| Electronegativity        | Increases                               | Decreases                                 |
+| Metallic character       | Decreases                               | Increases                                 |
+| Non-metallic character   | Increases                               | Decreases                                 |
+| Basic nature of oxides   | Decreases                               | Often increases for metallic groups       |
+| Acidic nature of oxides  | Increases                               | Often decreases for non-metal groups      |
 
 ## 75. Block Summary Table
 
-| Block | Groups or region | General configuration | Broad character |
-|---|---|---|---|
-| s | 1 and 2 | ns1-2 | Reactive metals, except hydrogen |
-| p | 13 to 18 | ns2 np1-6 | Metals, metalloids, non-metals, noble gases |
-| d | 3 to 12 | (n - 1)d1-10 ns0-2 | Transition metals |
-| f | Bottom rows | (n - 2)f1-14 (n - 1)d0-1 ns2 | Inner-transition metals |
+| Block | Groups or region | General configuration        | Broad character                             |
+| ----- | ---------------- | ---------------------------- | ------------------------------------------- |
+| s     | 1 and 2          | ns1-2                        | Reactive metals, except hydrogen            |
+| p     | 13 to 18         | ns2 np1-6                    | Metals, metalloids, non-metals, noble gases |
+| d     | 3 to 12          | (n - 1)d1-10 ns0-2           | Transition metals                           |
+| f     | Bottom rows      | (n - 2)f1-14 (n - 1)d0-1 ns2 | Inner-transition metals                     |
 
 ## 76. Worked Example: Fifth Period Has 18 Elements
 
@@ -1597,11 +1597,11 @@ Name species isoelectronic with `F-`, `Ar`, `Mg2+`, and `Rb+`.
 Solutions:
 
 | Given species | Electrons | Isoelectronic examples |
-|---|---:|---|
-| F- | 10 | Ne, Na+, Mg2+, O2- |
-| Ar | 18 | Cl-, K+, Ca2+, S2- |
-| Mg2+ | 10 | Ne, F-, Na+, O2- |
-| Rb+ | 36 | Kr, Br-, Sr2+ |
+| ------------- | --------: | ---------------------- |
+| F-            |        10 | Ne, Na+, Mg2+, O2-     |
+| Ar            |        18 | Cl-, K+, Ca2+, S2-     |
+| Mg2+          |        10 | Ne, F-, Na+, O2-       |
+| Rb+           |        36 | Kr, Br-, Sr2+          |
 
 ## 84. Worked Example: Isoelectronic Radius Order
 
@@ -1833,14 +1833,14 @@ So oxidation state is `+3`, but covalency is `6`.
 
 Predict formulas:
 
-| Pair | Reason | Formula |
-|---|---|---|
-| Lithium and oxygen | Li+ and O2- | Li2O |
-| Magnesium and nitrogen | Mg2+ and N3- | Mg3N2 |
-| Aluminium and iodine | Al3+ and I- | AlI3 |
-| Silicon and oxygen | Si4+ and O2- in common oxide | SiO2 |
-| Phosphorus and fluorine | P can show 3 and 5 | PF3 or PF5 |
-| Element 71 and fluorine | Lu commonly forms +3 | LuF3 |
+| Pair                    | Reason                       | Formula    |
+| ----------------------- | ---------------------------- | ---------- |
+| Lithium and oxygen      | Li+ and O2-                  | Li2O       |
+| Magnesium and nitrogen  | Mg2+ and N3-                 | Mg3N2      |
+| Aluminium and iodine    | Al3+ and I-                  | AlI3       |
+| Silicon and oxygen      | Si4+ and O2- in common oxide | SiO2       |
+| Phosphorus and fluorine | P can show 3 and 5           | PF3 or PF5 |
+| Element 71 and fluorine | Lu commonly forms +3         | LuF3       |
 
 ## 93. Exercise Support: Mendeleev's Classification
 
@@ -2002,12 +2002,12 @@ Group 17, the halogens.
 
 ## 101. Exercise Support: General Outer Configurations
 
-| Block | General outer electronic configuration |
-|---|---|
-| s-block | ns1-2 |
-| p-block | ns2 np1-6 |
-| d-block | (n - 1)d1-10 ns0-2 |
-| f-block | (n - 2)f1-14 (n - 1)d0-1 ns2 |
+| Block   | General outer electronic configuration |
+| ------- | -------------------------------------- |
+| s-block | ns1-2                                  |
+| p-block | ns2 np1-6                              |
+| d-block | (n - 1)d1-10 ns0-2                     |
+| f-block | (n - 2)f1-14 (n - 1)d0-1 ns2           |
 
 ## 102. Exercise Support: Assigning Positions
 
@@ -2075,25 +2075,25 @@ Period 6, f-block, lanthanoid series
 
 Given elements:
 
-| Element label | Delta_i H1 | Delta_i H2 | Delta_eg H | Likely type |
-|---|---:|---:|---:|---|
-| I | 520 | 7300 | -60 | Group 1 metal, like Li |
-| II | 419 | 3051 | -48 | Group 1 metal, like K |
-| III | 1681 | 3374 | -328 | Halogen, like F |
-| IV | 1008 | 1846 | -295 | Halogen, like I |
-| V | 2372 | 5251 | +48 | Noble gas, like He |
-| VI | 738 | 1451 | -40 | Group 2 metal, like Mg |
+| Element label | Delta_i H1 | Delta_i H2 | Delta_eg H | Likely type            |
+| ------------- | ---------: | ---------: | ---------: | ---------------------- |
+| I             |        520 |       7300 |        -60 | Group 1 metal, like Li |
+| II            |        419 |       3051 |        -48 | Group 1 metal, like K  |
+| III           |       1681 |       3374 |       -328 | Halogen, like F        |
+| IV            |       1008 |       1846 |       -295 | Halogen, like I        |
+| V             |       2372 |       5251 |        +48 | Noble gas, like He     |
+| VI            |        738 |       1451 |        -40 | Group 2 metal, like Mg |
 
 Answers:
 
-| Prompt | Answer |
-|---|---|
-| Least reactive element | V |
-| Most reactive metal | II |
-| Most reactive non-metal | III |
-| Least reactive non-metal | IV |
-| Metal forming stable binary halide MX2 | VI |
-| Metal forming predominantly covalent halide MX | I |
+| Prompt                                         | Answer |
+| ---------------------------------------------- | ------ |
+| Least reactive element                         | V      |
+| Most reactive metal                            | II     |
+| Most reactive non-metal                        | III    |
+| Least reactive non-metal                       | IV     |
+| Metal forming stable binary halide MX2         | VI     |
+| Metal forming predominantly covalent halide MX | I      |
 
 Why:
 
@@ -2181,17 +2181,17 @@ Fluorine is the strongest oxidizing element among these, chlorine remains a stro
 
 ## 106. Common Confusions
 
-| Confusion | Correct idea |
-|---|---|
-| Atomic mass is the modern basis of table | Atomic number is the modern basis |
-| Same period means same properties | Same group usually means similar properties |
-| Atomic radius is directly measured like a ball | It is estimated from interatomic distances |
-| Cation is larger because it has positive charge | Cation is smaller because electrons are removed |
-| Anion is smaller because it has extra electron attraction | Anion is larger due to increased repulsion |
-| Electron gain enthalpy and electronegativity are same | They are different concepts |
-| Fluorine has most negative electron gain enthalpy | Chlorine is more negative than fluorine |
-| d-block has 8 columns | d-block has 10 columns |
-| Helium is placed in group 18 by last subshell | Helium is placed there due to noble gas behaviour |
+| Confusion                                                 | Correct idea                                      |
+| --------------------------------------------------------- | ------------------------------------------------- |
+| Atomic mass is the modern basis of table                  | Atomic number is the modern basis                 |
+| Same period means same properties                         | Same group usually means similar properties       |
+| Atomic radius is directly measured like a ball            | It is estimated from interatomic distances        |
+| Cation is larger because it has positive charge           | Cation is smaller because electrons are removed   |
+| Anion is smaller because it has extra electron attraction | Anion is larger due to increased repulsion        |
+| Electron gain enthalpy and electronegativity are same     | They are different concepts                       |
+| Fluorine has most negative electron gain enthalpy         | Chlorine is more negative than fluorine           |
+| d-block has 8 columns                                     | d-block has 10 columns                            |
+| Helium is placed in group 18 by last subshell             | Helium is placed there due to noble gas behaviour |
 
 ## 107. Exam Answer: Need for Classification
 
@@ -2350,33 +2350,33 @@ Classification
 
 ## 120. Glossary
 
-| Term | Meaning |
-|---|---|
-| Actinoids | 5f inner-transition series |
-| Alkali metals | Group 1 metals |
-| Alkaline earth metals | Group 2 metals |
-| Atomic radius | Approximate atomic size |
-| Block | Periodic table region based on subshell filling |
-| Chalcogens | Group 16 elements |
-| Covalent radius | Half bond length between identical bonded atoms |
-| d-block | Elements with last electron entering d subshell |
-| Effective nuclear charge | Net nuclear pull on outer electron |
-| Electron gain enthalpy | Enthalpy change when gaseous atom gains electron |
-| Electronegativity | Tendency to attract shared electrons |
-| f-block | Elements with last electron entering f subshell |
-| Group | Vertical column |
-| Halogens | Group 17 elements |
-| Ionization enthalpy | Energy required to remove electron |
-| Isoelectronic | Having same electron count |
-| Lanthanoids | 4f inner-transition series |
-| Metallic character | Tendency to lose electrons |
-| Metalloids | Elements with mixed metallic and non-metallic properties |
-| Modern periodic law | Properties are periodic functions of atomic numbers |
-| Non-metallic character | Tendency to gain or attract electrons |
-| Period | Horizontal row |
-| Periodicity | Repetition of properties |
-| Shielding | Reduction of nuclear attraction by inner electrons |
-| Valence | Combining capacity |
+| Term                     | Meaning                                                  |
+| ------------------------ | -------------------------------------------------------- |
+| Actinoids                | 5f inner-transition series                               |
+| Alkali metals            | Group 1 metals                                           |
+| Alkaline earth metals    | Group 2 metals                                           |
+| Atomic radius            | Approximate atomic size                                  |
+| Block                    | Periodic table region based on subshell filling          |
+| Chalcogens               | Group 16 elements                                        |
+| Covalent radius          | Half bond length between identical bonded atoms          |
+| d-block                  | Elements with last electron entering d subshell          |
+| Effective nuclear charge | Net nuclear pull on outer electron                       |
+| Electron gain enthalpy   | Enthalpy change when gaseous atom gains electron         |
+| Electronegativity        | Tendency to attract shared electrons                     |
+| f-block                  | Elements with last electron entering f subshell          |
+| Group                    | Vertical column                                          |
+| Halogens                 | Group 17 elements                                        |
+| Ionization enthalpy      | Energy required to remove electron                       |
+| Isoelectronic            | Having same electron count                               |
+| Lanthanoids              | 4f inner-transition series                               |
+| Metallic character       | Tendency to lose electrons                               |
+| Metalloids               | Elements with mixed metallic and non-metallic properties |
+| Modern periodic law      | Properties are periodic functions of atomic numbers      |
+| Non-metallic character   | Tendency to gain or attract electrons                    |
+| Period                   | Horizontal row                                           |
+| Periodicity              | Repetition of properties                                 |
+| Shielding                | Reduction of nuclear attraction by inner electrons       |
+| Valence                  | Combining capacity                                       |
 
 ## 121. Final Revision Sheet
 

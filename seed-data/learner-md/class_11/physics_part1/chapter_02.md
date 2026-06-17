@@ -79,11 +79,11 @@ Position may be positive, negative, or zero.
 
 Examples:
 
-| Position | Meaning if positive direction is right |
-|---:|---|
-| \(+5\ \text{m}\) | 5 m to the right of origin |
-| \(-3\ \text{m}\) | 3 m to the left of origin |
-| \(0\ \text{m}\) | at the origin |
+|         Position | Meaning if positive direction is right |
+| ---------------: | -------------------------------------- |
+| \(+5\ \text{m}\) | 5 m to the right of origin             |
+| \(-3\ \text{m}\) | 3 m to the left of origin              |
+|  \(0\ \text{m}\) | at the origin                          |
 
 ## 5. Displacement
 
@@ -163,10 +163,10 @@ because he returns to the starting point.
 
 ## 7. Distance Versus Displacement
 
-| Quantity | Meaning | Can be negative? | Depends on path? |
-|---|---|---|---|
-| distance | total path length | no | yes |
-| displacement | final position minus initial position | yes | no |
+| Quantity     | Meaning                               | Can be negative? | Depends on path? |
+| ------------ | ------------------------------------- | ---------------- | ---------------- |
+| distance     | total path length                     | no               | yes              |
+| displacement | final position minus initial position | yes              | no               |
 
 For one-dimensional motion:
 
@@ -330,13 +330,13 @@ At an instant, the slope of the tangent gives instantaneous velocity.
 
 ### 13.1 Interpreting Slopes
 
-| Shape of \(x-t\) graph | Meaning |
-|---|---|
-| horizontal line | object at rest |
-| straight line with positive slope | constant positive velocity |
-| straight line with negative slope | constant negative velocity |
-| curve getting steeper upward | increasing positive velocity |
-| curve flattening | decreasing speed in positive direction |
+| Shape of \(x-t\) graph            | Meaning                                |
+| --------------------------------- | -------------------------------------- |
+| horizontal line                   | object at rest                         |
+| straight line with positive slope | constant positive velocity             |
+| straight line with negative slope | constant negative velocity             |
+| curve getting steeper upward      | increasing positive velocity           |
+| curve flattening                  | decreasing speed in positive direction |
 
 ## 14. Worked Example: Velocity From Position Function
 
@@ -474,12 +474,12 @@ Speed increases when velocity and acceleration have the same sign.
 
 Speed decreases when velocity and acceleration have opposite signs.
 
-| Velocity | Acceleration | Speed behavior |
-|---:|---:|---|
-| positive | positive | speed increases |
-| positive | negative | speed decreases |
-| negative | negative | speed increases |
-| negative | positive | speed decreases |
+| Velocity | Acceleration | Speed behavior  |
+| -------: | -----------: | --------------- |
+| positive |     positive | speed increases |
+| positive |     negative | speed decreases |
+| negative |     negative | speed increases |
+| negative |     positive | speed decreases |
 
 ## 18. Velocity-Time Graph
 
@@ -581,12 +581,12 @@ These are the kinematic equations for one-dimensional motion with constant accel
 
 ## 22. Kinematic Equations: When To Use Which
 
-| Equation | Missing quantity | Useful when |
-|---|---|---|
-| \(v=v_0+at\) | displacement | final velocity, time, acceleration |
-| \(x-x_0=v_0t+\frac{1}{2}at^2\) | final velocity | displacement and time |
-| \(v^2=v_0^2+2a(x-x_0)\) | time | displacement without time |
-| \(x-x_0=\frac{v_0+v}{2}t\) | acceleration | average velocity under constant acceleration |
+| Equation                       | Missing quantity | Useful when                                  |
+| ------------------------------ | ---------------- | -------------------------------------------- |
+| \(v=v_0+at\)                   | displacement     | final velocity, time, acceleration           |
+| \(x-x_0=v_0t+\frac{1}{2}at^2\) | final velocity   | displacement and time                        |
+| \(v^2=v_0^2+2a(x-x_0)\)        | time             | displacement without time                    |
+| \(x-x_0=\frac{v_0+v}{2}t\)     | acceleration     | average velocity under constant acceleration |
 
 These equations are algebraic. Insert signs carefully.
 
@@ -1109,12 +1109,12 @@ $$
 
 ## 34. Graph Shape Summary
 
-| Motion | \(x-t\) graph | \(v-t\) graph | \(a-t\) graph |
-|---|---|---|---|
-| rest | horizontal line | zero line | zero line |
-| uniform velocity | straight sloping line | horizontal line | zero line |
-| uniform acceleration | parabola | straight sloping line | horizontal line |
-| increasing acceleration | curve changing more rapidly | curve | not constant |
+| Motion                  | \(x-t\) graph               | \(v-t\) graph         | \(a-t\) graph   |
+| ----------------------- | --------------------------- | --------------------- | --------------- |
+| rest                    | horizontal line             | zero line             | zero line       |
+| uniform velocity        | straight sloping line       | horizontal line       | zero line       |
+| uniform acceleration    | parabola                    | straight sloping line | horizontal line |
+| increasing acceleration | curve changing more rapidly | curve                 | not constant    |
 
 ## 35. Common Conceptual Points
 
@@ -1676,4 +1676,3 @@ Relative velocity:
 $$
 v_{BA}=v_B-v_A
 $$
-

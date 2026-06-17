@@ -1,32 +1,33 @@
 # Chapter 3: Pair of Linear Equations in Two Variables
+
 ### NCERT Class 10 - Maths
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 10 |
-| **Subject** | Maths |
-| **Chapter** | 3 |
-| **Core Theme** | Representing real-life situations using two linear equations in two variables and solving them graphically or algebraically. |
-| **Main Skills** | Forming equations, comparing ratios, identifying consistency, solving by graph, substitution, and elimination. |
-| **Core Interpretation** | A pair of linear equations represents two lines. Their intersection behaviour tells the number of solutions. |
+| Detail                  | Learner-Friendly Information                                                                                                 |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **Class**               | 10                                                                                                                           |
+| **Subject**             | Maths                                                                                                                        |
+| **Chapter**             | 3                                                                                                                            |
+| **Core Theme**          | Representing real-life situations using two linear equations in two variables and solving them graphically or algebraically. |
+| **Main Skills**         | Forming equations, comparing ratios, identifying consistency, solving by graph, substitution, and elimination.               |
+| **Core Interpretation** | A pair of linear equations represents two lines. Their intersection behaviour tells the number of solutions.                 |
 
 ---
 
 ## Section Structure
 
-| Unit | Topic | Main Learning Focus |
-|---|---|---|
-| **3A** | Pair of Linear Equations | Forming two equations from a situation. |
-| **3B** | Graphical Meaning | Intersecting, parallel, and coincident lines. |
-| **3C** | Ratio Test | Using coefficients to decide number of solutions. |
-| **3D** | Substitution Method | Solving by writing one variable in terms of another. |
-| **3E** | Elimination Method | Solving by removing one variable. |
-| **3F** | Word Problems | Age, cost, digits, fraction, geometry, taxi, library problems. |
-| **3G** | Solved Exercises | Complete solutions for Exercises 3.1, 3.2, and 3.3. |
+| Unit   | Topic                    | Main Learning Focus                                            |
+| ------ | ------------------------ | -------------------------------------------------------------- |
+| **3A** | Pair of Linear Equations | Forming two equations from a situation.                        |
+| **3B** | Graphical Meaning        | Intersecting, parallel, and coincident lines.                  |
+| **3C** | Ratio Test               | Using coefficients to decide number of solutions.              |
+| **3D** | Substitution Method      | Solving by writing one variable in terms of another.           |
+| **3E** | Elimination Method       | Solving by removing one variable.                              |
+| **3F** | Word Problems            | Age, cost, digits, fraction, geometry, taxi, library problems. |
+| **3G** | Solved Exercises         | Complete solutions for Exercises 3.1, 3.2, and 3.3.            |
 
 ---
 
@@ -34,33 +35,33 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Form equations** | Translate word problems into two linear equations. |
-| **Recognise standard form** | Write equations as `a x + b y + c = 0`. |
-| **Interpret graphs** | Connect line intersection with solution count. |
-| **Use ratio test** | Decide whether lines intersect, are parallel, or coincide. |
-| **Classify systems** | Identify consistent, inconsistent, and dependent systems. |
-| **Solve by substitution** | Express one variable in terms of another and substitute. |
-| **Solve by elimination** | Add or subtract equations after matching coefficients. |
-| **Verify answers** | Substitute values back into both equations. |
-| **Solve word problems** | Use suitable variables and interpret final values in context. |
+| Outcome                     | You Should Be Able To...                                      |
+| --------------------------- | ------------------------------------------------------------- |
+| **Form equations**          | Translate word problems into two linear equations.            |
+| **Recognise standard form** | Write equations as `a x + b y + c = 0`.                       |
+| **Interpret graphs**        | Connect line intersection with solution count.                |
+| **Use ratio test**          | Decide whether lines intersect, are parallel, or coincide.    |
+| **Classify systems**        | Identify consistent, inconsistent, and dependent systems.     |
+| **Solve by substitution**   | Express one variable in terms of another and substitute.      |
+| **Solve by elimination**    | Add or subtract equations after matching coefficients.        |
+| **Verify answers**          | Substitute values back into both equations.                   |
+| **Solve word problems**     | Use suitable variables and interpret final values in context. |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
+| Term                                 | Meaning                                                                  |
+| ------------------------------------ | ------------------------------------------------------------------------ |
 | **Linear equation in two variables** | Equation of form `ax + by + c = 0`, where `a` and `b` are not both zero. |
-| **Pair of linear equations** | Two linear equations in the same two variables. |
-| **Solution of a pair** | Ordered pair `(x, y)` satisfying both equations. |
-| **Consistent pair** | Pair having at least one solution. |
-| **Inconsistent pair** | Pair having no solution. |
-| **Dependent pair** | Pair representing the same line and having infinitely many solutions. |
-| **Graphical method** | Solving by drawing graphs and reading intersection. |
-| **Substitution method** | Solving by substituting one variable expression into another equation. |
-| **Elimination method** | Solving by adding or subtracting equations to eliminate one variable. |
+| **Pair of linear equations**         | Two linear equations in the same two variables.                          |
+| **Solution of a pair**               | Ordered pair `(x, y)` satisfying both equations.                         |
+| **Consistent pair**                  | Pair having at least one solution.                                       |
+| **Inconsistent pair**                | Pair having no solution.                                                 |
+| **Dependent pair**                   | Pair representing the same line and having infinitely many solutions.    |
+| **Graphical method**                 | Solving by drawing graphs and reading intersection.                      |
+| **Substitution method**              | Solving by substituting one variable expression into another equation.   |
+| **Elimination method**               | Solving by adding or subtracting equations to eliminate one variable.    |
 
 ---
 
@@ -142,10 +143,10 @@ Akhila takes rides on a Giant Wheel and plays Hoopla.
 
 Let:
 
-| Variable | Meaning |
-|---|---|
-| `x` | Number of Giant Wheel rides |
-| `y` | Number of Hoopla games |
+| Variable | Meaning                     |
+| -------- | --------------------------- |
+| `x`      | Number of Giant Wheel rides |
+| `y`      | Number of Hoopla games      |
 
 Given:
 
@@ -209,11 +210,11 @@ The solution depends on how the two lines are placed.
 
 ## Three Possibilities
 
-| Graphical Situation | Number of Solutions | Type of Pair |
-|---|---:|---|
-| Lines intersect at one point | One solution | Consistent |
-| Lines are parallel | No solution | Inconsistent |
-| Lines coincide | Infinitely many solutions | Dependent and consistent |
+| Graphical Situation          |       Number of Solutions | Type of Pair             |
+| ---------------------------- | ------------------------: | ------------------------ |
+| Lines intersect at one point |              One solution | Consistent               |
+| Lines are parallel           |               No solution | Inconsistent             |
+| Lines coincide               | Infinitely many solutions | Dependent and consistent |
 
 ## Intersecting Lines
 
@@ -291,11 +292,11 @@ $$
 
 ## Decision Table
 
-| Condition | Graph | Solution Type |
-|---|---|---|
-| `a1/a2 != b1/b2` | Intersecting lines | Unique solution, consistent |
-| `a1/a2 = b1/b2 != c1/c2` | Parallel lines | No solution, inconsistent |
-| `a1/a2 = b1/b2 = c1/c2` | Coincident lines | Infinitely many solutions, dependent consistent |
+| Condition                | Graph              | Solution Type                                   |
+| ------------------------ | ------------------ | ----------------------------------------------- |
+| `a1/a2 != b1/b2`         | Intersecting lines | Unique solution, consistent                     |
+| `a1/a2 = b1/b2 != c1/c2` | Parallel lines     | No solution, inconsistent                       |
+| `a1/a2 = b1/b2 = c1/c2`  | Coincident lines   | Infinitely many solutions, dependent consistent |
 
 ## Example: Intersecting
 
@@ -570,10 +571,10 @@ $$
 
 Use:
 
-| Variable | Meaning |
-|---|---|
-| `x` | cost of one item |
-| `y` | cost of another item |
+| Variable | Meaning              |
+| -------- | -------------------- |
+| `x`      | cost of one item     |
+| `y`      | cost of another item |
 
 Then write total cost equations.
 
@@ -591,21 +592,21 @@ Use present ages as variables.
 
 Translate:
 
-| Phrase | Algebra |
-|---|---|
-| Five years ago | subtract 5 |
-| Five years hence | add 5 |
-| Three times | multiply by 3 |
-| Seven times | multiply by 7 |
+| Phrase           | Algebra       |
+| ---------------- | ------------- |
+| Five years ago   | subtract 5    |
+| Five years hence | add 5         |
+| Three times      | multiply by 3 |
+| Seven times      | multiply by 7 |
 
 ## Digit Problems
 
 For a two-digit number:
 
-| Variable | Meaning |
-|---|---|
-| `x` | tens digit |
-| `y` | units digit |
+| Variable | Meaning     |
+| -------- | ----------- |
+| `x`      | tens digit  |
+| `y`      | units digit |
 
 Number:
 
@@ -647,10 +648,10 @@ $$
 
 Let:
 
-| Variable | Meaning |
-|---|---|
-| `x` | number of boys |
-| `y` | number of girls |
+| Variable | Meaning         |
+| -------- | --------------- |
+| `x`      | number of boys  |
+| `y`      | number of girls |
 
 Total students:
 
@@ -704,10 +705,10 @@ Graphically, the two lines intersect at `(3, 7)`.
 
 Let:
 
-| Variable | Meaning |
-|---|---|
-| `x` | cost of one pencil |
-| `y` | cost of one pen |
+| Variable | Meaning            |
+| -------- | ------------------ |
+| `x`      | cost of one pencil |
+| `y`      | cost of one pen    |
 
 Equations:
 
@@ -1108,9 +1109,9 @@ The pair is inconsistent and has no solution.
 Let:
 
 | Variable | Meaning |
-|---|---|
-| `l` | length |
-| `w` | width |
+| -------- | ------- |
+| `l`      | length  |
+| `w`      | width   |
 
 Half perimeter is:
 
@@ -1704,10 +1705,10 @@ $$
 
 Let:
 
-| Variable | Meaning |
-|---|---|
-| `x` | cost of one bat |
-| `y` | cost of one ball |
+| Variable | Meaning          |
+| -------- | ---------------- |
+| `x`      | cost of one bat  |
+| `y`      | cost of one ball |
 
 Equations:
 
@@ -1761,10 +1762,10 @@ $$
 
 Let:
 
-| Variable | Meaning |
-|---|---|
-| `x` | fixed charge |
-| `y` | charge per km |
+| Variable | Meaning       |
+| -------- | ------------- |
+| `x`      | fixed charge  |
+| `y`      | charge per km |
 
 For 10 km:
 
@@ -1896,10 +1897,10 @@ $$
 
 Let:
 
-| Variable | Meaning |
-|---|---|
-| `x` | present age of Jacob |
-| `y` | present age of son |
+| Variable | Meaning              |
+| -------- | -------------------- |
+| `x`      | present age of Jacob |
+| `y`      | present age of son   |
 
 Five years hence:
 
@@ -2211,10 +2212,10 @@ $$
 
 Let:
 
-| Variable | Meaning |
-|---|---|
-| `x` | present age of Nuri |
-| `y` | present age of Sonu |
+| Variable | Meaning             |
+| -------- | ------------------- |
+| `x`      | present age of Nuri |
+| `y`      | present age of Sonu |
 
 Five years ago:
 
@@ -2258,10 +2259,10 @@ $$
 
 Let:
 
-| Variable | Meaning |
-|---|---|
-| `x` | tens digit |
-| `y` | units digit |
+| Variable | Meaning     |
+| -------- | ----------- |
+| `x`      | tens digit  |
+| `y`      | units digit |
 
 Sum of digits:
 
@@ -2335,10 +2336,10 @@ $$
 
 Let:
 
-| Variable | Meaning |
-|---|---|
-| `x` | number of Rs 50 notes |
-| `y` | number of Rs 100 notes |
+| Variable | Meaning                |
+| -------- | ---------------------- |
+| `x`      | number of Rs 50 notes  |
+| `y`      | number of Rs 100 notes |
 
 Number of notes:
 
@@ -2380,10 +2381,10 @@ $$
 
 Let:
 
-| Variable | Meaning |
-|---|---|
-| `x` | fixed charge for first 3 days |
-| `y` | charge for each extra day |
+| Variable | Meaning                       |
+| -------- | ----------------------------- |
+| `x`      | fixed charge for first 3 days |
+| `y`      | charge for each extra day     |
 
 Saritha kept book for 7 days, so extra days are `4`:
 
@@ -2423,17 +2424,17 @@ $$
 
 # Unit 3J: Common Mistakes and Corrections
 
-| Mistake | Correct Understanding |
-|---|---|
-| Forgetting to write equations in standard form before ratio test. | Use `a x + b y + c = 0`. |
-| Comparing constants without signs. | Keep signs of `c1` and `c2`. |
-| Saying parallel lines have one solution. | Parallel distinct lines have no solution. |
-| Saying coincident lines have no solution. | Coincident lines have infinitely many solutions. |
-| Reading graph inaccurately for fractional solutions. | Use algebraic methods when graph coordinates are not clear. |
-| Substituting into the same equation only. | Substitute into the other equation to solve. |
-| Eliminating without matching coefficients. | First make coefficients equal or opposite. |
-| In digit problems, writing number as `x + y`. | Two-digit number is `10x + y`. |
-| In age problems, mixing present and past ages. | Define present ages first, then add or subtract years. |
+| Mistake                                                           | Correct Understanding                                       |
+| ----------------------------------------------------------------- | ----------------------------------------------------------- |
+| Forgetting to write equations in standard form before ratio test. | Use `a x + b y + c = 0`.                                    |
+| Comparing constants without signs.                                | Keep signs of `c1` and `c2`.                                |
+| Saying parallel lines have one solution.                          | Parallel distinct lines have no solution.                   |
+| Saying coincident lines have no solution.                         | Coincident lines have infinitely many solutions.            |
+| Reading graph inaccurately for fractional solutions.              | Use algebraic methods when graph coordinates are not clear. |
+| Substituting into the same equation only.                         | Substitute into the other equation to solve.                |
+| Eliminating without matching coefficients.                        | First make coefficients equal or opposite.                  |
+| In digit problems, writing number as `x + y`.                     | Two-digit number is `10x + y`.                              |
+| In age problems, mixing present and past ages.                    | Define present ages first, then add or subtract years.      |
 
 ---
 
@@ -2441,31 +2442,31 @@ $$
 
 ## Ratio Test
 
-| Ratio Condition | Lines | Solutions | Pair Type |
-|---|---|---:|---|
-| `a1/a2 != b1/b2` | Intersecting | 1 | Consistent |
-| `a1/a2 = b1/b2 != c1/c2` | Parallel | 0 | Inconsistent |
-| `a1/a2 = b1/b2 = c1/c2` | Coincident | Infinitely many | Dependent consistent |
+| Ratio Condition          | Lines        |       Solutions | Pair Type            |
+| ------------------------ | ------------ | --------------: | -------------------- |
+| `a1/a2 != b1/b2`         | Intersecting |               1 | Consistent           |
+| `a1/a2 = b1/b2 != c1/c2` | Parallel     |               0 | Inconsistent         |
+| `a1/a2 = b1/b2 = c1/c2`  | Coincident   | Infinitely many | Dependent consistent |
 
 ## Method Choice
 
-| Situation | Good Method |
-|---|---|
-| Need visual solution with simple integer point | Graphical method |
-| One variable is easy to isolate | Substitution method |
-| Coefficients can be matched easily | Elimination method |
-| Word problem with exact answer needed | Algebraic method |
+| Situation                                      | Good Method         |
+| ---------------------------------------------- | ------------------- |
+| Need visual solution with simple integer point | Graphical method    |
+| One variable is easy to isolate                | Substitution method |
+| Coefficients can be matched easily             | Elimination method  |
+| Word problem with exact answer needed          | Algebraic method    |
 
 ## Word Problem Variables
 
-| Problem Type | Useful Variables |
-|---|---|
-| Cost | cost of one item, cost of other item |
-| Age | present ages |
-| Fraction | numerator and denominator |
-| Digits | tens digit and units digit |
-| Taxi/library | fixed charge and variable charge |
-| Geometry | length and width, larger and smaller angle |
+| Problem Type | Useful Variables                           |
+| ------------ | ------------------------------------------ |
+| Cost         | cost of one item, cost of other item       |
+| Age          | present ages                               |
+| Fraction     | numerator and denominator                  |
+| Digits       | tens digit and units digit                 |
+| Taxi/library | fixed charge and variable charge           |
+| Geometry     | length and width, larger and smaller angle |
 
 ---
 
@@ -2486,14 +2487,14 @@ Memorise:
 
 Practise:
 
-| Skill | Practice Method |
-|---|---|
-| Ratio test | Convert to standard form and compare three ratios. |
-| Graphical solutions | Make two-point tables and locate intersection. |
-| Substitution | Isolate the easiest variable first. |
-| Elimination | Match coefficients before adding/subtracting. |
-| Word problems | Define variables clearly before writing equations. |
-| Verification | Substitute final values into original conditions. |
+| Skill               | Practice Method                                    |
+| ------------------- | -------------------------------------------------- |
+| Ratio test          | Convert to standard form and compare three ratios. |
+| Graphical solutions | Make two-point tables and locate intersection.     |
+| Substitution        | Isolate the easiest variable first.                |
+| Elimination         | Match coefficients before adding/subtracting.      |
+| Word problems       | Define variables clearly before writing equations. |
+| Verification        | Substitute final values into original conditions.  |
 
 ## One-Page Chapter Summary
 

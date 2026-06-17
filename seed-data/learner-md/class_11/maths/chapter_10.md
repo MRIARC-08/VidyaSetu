@@ -1667,14 +1667,14 @@ $$
 
 ## 27. Comparing Ellipse And Hyperbola
 
-| Feature | Ellipse | Hyperbola |
-|---|---|---|
-| Distance condition | Sum of distances from foci is constant | Difference of distances from foci is constant |
-| Relation among a, b, c | `c^2=a^2-b^2` | `c^2=a^2+b^2` |
-| Eccentricity | `0<e<1` | `e>1` |
-| Standard x-axis form | `x^2/a^2+y^2/b^2=1` | `x^2/a^2-y^2/b^2=1` |
-| Shape | Closed oval | Two open branches |
-| Major or transverse axis | Along foci | Along foci |
+| Feature                  | Ellipse                                | Hyperbola                                     |
+| ------------------------ | -------------------------------------- | --------------------------------------------- |
+| Distance condition       | Sum of distances from foci is constant | Difference of distances from foci is constant |
+| Relation among a, b, c   | `c^2=a^2-b^2`                          | `c^2=a^2+b^2`                                 |
+| Eccentricity             | `0<e<1`                                | `e>1`                                         |
+| Standard x-axis form     | `x^2/a^2+y^2/b^2=1`                    | `x^2/a^2-y^2/b^2=1`                           |
+| Shape                    | Closed oval                            | Two open branches                             |
+| Major or transverse axis | Along foci                             | Along foci                                    |
 
 ## 28. Application: Parabolic Mirror
 

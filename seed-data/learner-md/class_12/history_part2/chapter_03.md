@@ -1,4 +1,5 @@
 # Chapter 3: An Imperial Capital - Vijayanagara
+
 ### NCERT Class 12 - History Part 2
 
 ## Chapter at a Glance
@@ -22,26 +23,26 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Vijayanagara | Major South Indian empire and its capital city. |
-| Hampi | Modern name associated with Vijayanagara ruins. |
-| Raya | Vijayanagara ruler. |
-| Nayaka | Military chief or local leader under Vijayanagara system. |
-| Sacred centre | Temple-rich area linked with religious landscape. |
-| Royal centre | Area associated with royal buildings and ceremonies. |
-| Mahanavami Dibba | Ceremonial platform linked with royal rituals. |
-| Fortification | Defensive wall or structure. |
+| Term             | Meaning                                                   |
+| ---------------- | --------------------------------------------------------- |
+| Vijayanagara     | Major South Indian empire and its capital city.           |
+| Hampi            | Modern name associated with Vijayanagara ruins.           |
+| Raya             | Vijayanagara ruler.                                       |
+| Nayaka           | Military chief or local leader under Vijayanagara system. |
+| Sacred centre    | Temple-rich area linked with religious landscape.         |
+| Royal centre     | Area associated with royal buildings and ceremonies.      |
+| Mahanavami Dibba | Ceremonial platform linked with royal rituals.            |
+| Fortification    | Defensive wall or structure.                              |
 
 ## Quick Learning Map
 
-| City feature | Historical meaning |
-|---|---|
-| Fort walls | Defence and imperial control |
-| Temples | Sacred authority and economy |
-| Bazaars | Trade and urban life |
-| Waterworks | Adaptation to dry environment |
-| Royal centre | Power and ceremony |
+| City feature         | Historical meaning                  |
+| -------------------- | ----------------------------------- |
+| Fort walls           | Defence and imperial control        |
+| Temples              | Sacred authority and economy        |
+| Bazaars              | Trade and urban life                |
+| Waterworks           | Adaptation to dry environment       |
+| Royal centre         | Power and ceremony                  |
 | Travellers' accounts | Outside descriptions of city wealth |
 
 # Unit 3A: Location and Landscape
@@ -202,13 +203,13 @@ For royal power:
 
 # Unit 3M: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Treating Vijayanagara only as ruins | It was a living capital with trade, ritual, and politics. |
-| Ignoring landscape | Rocky terrain and river shaped the city. |
-| Saying temples were only religious | They were also economic and political institutions. |
-| Treating fort walls as palace walls only | They enclosed fields and settlements too. |
-| Ignoring evidence limits | Many structures survive only partly. |
+| Mistake                                  | Correction                                                |
+| ---------------------------------------- | --------------------------------------------------------- |
+| Treating Vijayanagara only as ruins      | It was a living capital with trade, ritual, and politics. |
+| Ignoring landscape                       | Rocky terrain and river shaped the city.                  |
+| Saying temples were only religious       | They were also economic and political institutions.       |
+| Treating fort walls as palace walls only | They enclosed fields and settlements too.                 |
+| Ignoring evidence limits                 | Many structures survive only partly.                      |
 
 ## Practice Set
 

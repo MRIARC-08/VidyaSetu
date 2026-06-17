@@ -1,43 +1,44 @@
 # Chapter 9: Bholi
+
 ### NCERT Class 10 - English Footprints
 
 ---
 
 ## Chapter At A Glance
 
-| Detail | Learner-Friendly Information |
-| --- | --- |
-| Class | 10 |
-| Subject | English Footprints |
-| Chapter | 9 - Bholi |
-| Source File | data/class_10/english_footprints/chapter_09.md |
+| Detail       | Learner-Friendly Information                                                                 |
+| ------------ | -------------------------------------------------------------------------------------------- |
+| Class        | 10                                                                                           |
+| Subject      | English Footprints                                                                           |
+| Chapter      | 9 - Bholi                                                                                    |
+| Source File  | data/class_10/english_footprints/chapter_09.md                                               |
 | Subject Lens | context -> plot/situation -> character voice -> theme -> language feature -> reader response |
-| Best Use | Use this as a detailed learner guide: read, mark, answer, revise, and test. |
+| Best Use     | Use this as a detailed learner guide: read, mark, answer, revise, and test.                  |
 
 ## Learning Roadmap
 
-| Step | Learner Action | Why It Matters |
-| --- | --- | --- |
-| 1 | Read once for the literal story and again for tone, conflict, and theme. | Turns raw textbook material into answer-ready understanding. |
-| 2 | Maintain a character evidence table with quotations or paraphrased moments. | Turns raw textbook material into answer-ready understanding. |
-| 3 | Track difficult expressions and infer meaning from context. | Turns raw textbook material into answer-ready understanding. |
-| 4 | For long answers, connect textual evidence to the central theme. | Turns raw textbook material into answer-ready understanding. |
+| Step | Learner Action                                                              | Why It Matters                                               |
+| ---- | --------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| 1    | Read once for the literal story and again for tone, conflict, and theme.    | Turns raw textbook material into answer-ready understanding. |
+| 2    | Maintain a character evidence table with quotations or paraphrased moments. | Turns raw textbook material into answer-ready understanding. |
+| 3    | Track difficult expressions and infer meaning from context.                 | Turns raw textbook material into answer-ready understanding. |
+| 4    | For long answers, connect textual evidence to the central theme.            | Turns raw textbook material into answer-ready understanding. |
 
 ## Learning Outcomes
 
-| # | After Studying, You Should Be Able To |
-| --- | --- |
-| 1 | Explain the core idea of **Bholi** in clear learner language. |
-| 2 | Use chapter evidence, examples, data, formulas, characters, events, or concepts accurately. |
-| 3 | Separate definitions, explanations, examples, and conclusions while answering. |
-| 4 | Prepare short-answer and long-answer responses without copying disconnected textbook lines. |
-| 5 | Revise the chapter through keywords, section summaries, and practice prompts. |
+| #   | After Studying, You Should Be Able To                                                       |
+| --- | ------------------------------------------------------------------------------------------- |
+| 1   | Explain the core idea of **Bholi** in clear learner language.                               |
+| 2   | Use chapter evidence, examples, data, formulas, characters, events, or concepts accurately. |
+| 3   | Separate definitions, explanations, examples, and conclusions while answering.              |
+| 4   | Prepare short-answer and long-answer responses without copying disconnected textbook lines. |
+| 5   | Revise the chapter through keywords, section summaries, and practice prompts.               |
 
 ## Section Map
 
-| Section | Learner Focus |
-| --- | --- |
-| READ AND FIND OUT | Main idea, supporting details, examples, and answer value. |
+| Section                                                            | Learner Focus                                              |
+| ------------------------------------------------------------------ | ---------------------------------------------------------- |
+| READ AND FIND OUT                                                  | Main idea, supporting details, examples, and answer value. |
 | Bholi’s teacher helped her overcome social barriers by encouraging | Main idea, supporting details, examples, and answer value. |
 
 ## High-Yield Chapter Summary
@@ -59,27 +60,27 @@
 
 ## Key Terms, Concepts, And Recall Anchors
 
-| Term | Learner Meaning |
-| --- | --- |
-| Why do you think she | Sulekha at that point in the story |
-| scheme | Beti Bachao Beti Padhao, Save the Girl Child |
+| Term                 | Learner Meaning                              |
+| -------------------- | -------------------------------------------- |
+| Why do you think she | Sulekha at that point in the story           |
+| scheme               | Beti Bachao Beti Padhao, Save the Girl Child |
 
-| Anchor Word | What To Do With It |
-| --- | --- |
-| Bholi | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| School | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| What | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Will | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Ramlal | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Teacher | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Were | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Said | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Girls | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Like | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Bishamber | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Does | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Village | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Face | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Anchor Word | What To Do With It                                                                                    |
+| ----------- | ----------------------------------------------------------------------------------------------------- |
+| Bholi       | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| School      | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| What        | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Will        | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Ramlal      | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Teacher     | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Were        | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Said        | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Girls       | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Like        | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Bishamber   | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Does        | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Village     | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Face        | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
 
 ### Literature Reading Anchors
 
@@ -89,8 +90,8 @@
 
 ## Formula, Evidence, Data, And Example Board
 
-| Source Point | How Learners Should Use It |
-| --- | --- |
+| Source Point                                                                                                                                                            | How Learners Should Use It                                |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
 | 2018-19 Bholi 57 Bholi did not know what exactly a school was like and what happened there, but she was glad to find so many girls almost of her own age present there. | Use this as supporting evidence in short or long answers. |
 
 ## Deep Learner Walkthrough
@@ -146,7 +147,7 @@ How do you think you can contribute towar ds changing the social attitudes illus
 
 What are some of the ways in which society treats them differently? When we speak of ‘human rights’, do we differentiate between girls’ rights and boys’ rights? Do you think the characters in the story were speaking to each other in English?
 
-What does this tell us about her? **Q11.** point in the story? **Q12.** changing the social attitudes illustrated in this story? **Q13.** and boys’ rights? **Q14.** other in English? If not, in which language were they speaking? --- *Source: NCERT Class 10 — English Footprints, Chapter 9.
+What does this tell us about her? **Q11.** point in the story? **Q12.** changing the social attitudes illustrated in this story? **Q13.** and boys’ rights? **Q14.** other in English? If not, in which language were they speaking? --- \*Source: NCERT Class 10 — English Footprints, Chapter 9.
 
 #### How To Convert This Into An Answer
 
@@ -167,12 +168,12 @@ What does this tell us about her? **Q11.** point in the story? **Q12.** changing
 
 ### Likely Question Bank
 
-| Question Type | Strong Answer Shape |
-| --- | --- |
-| Explain READ AND FIND OUT. | Definition or context -> key points -> evidence/example -> significance. |
-| How does READ AND FIND OUT develop the chapter's theme? | Situation -> character/speaker response -> language/detail -> theme. |
-| Explain Bholi’s teacher helped her overcome social barriers by encouraging. | Definition or context -> key points -> evidence/example -> significance. |
-| How does Bholi’s teacher helped her overcome social barriers by encouraging develop the chapter's theme? | Situation -> character/speaker response -> language/detail -> theme. |
+| Question Type                                                                                            | Strong Answer Shape                                                      |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| Explain READ AND FIND OUT.                                                                               | Definition or context -> key points -> evidence/example -> significance. |
+| How does READ AND FIND OUT develop the chapter's theme?                                                  | Situation -> character/speaker response -> language/detail -> theme.     |
+| Explain Bholi’s teacher helped her overcome social barriers by encouraging.                              | Definition or context -> key points -> evidence/example -> significance. |
+| How does Bholi’s teacher helped her overcome social barriers by encouraging develop the chapter's theme? | Situation -> character/speaker response -> language/detail -> theme.     |
 
 ### Common Mistakes To Avoid
 
@@ -198,12 +199,12 @@ What does this tell us about her? **Q11.** point in the story? **Q12.** changing
 
 ## One-Page Quick Revision
 
-| Revision Item | What To Recall |
-| --- | --- |
-| Chapter | 9 — Bholi |
-| Subject Lens | context -> plot/situation -> character voice -> theme -> language feature -> reader response |
-| Main Keywords | Bholi, School, What, Will, Ramlal, Were, Teacher, Said, Girls, Like |
-| Best First Step | Read the section titles, then explain each title aloud before revising details. |
+| Revision Item   | What To Recall                                                                                  |
+| --------------- | ----------------------------------------------------------------------------------------------- |
+| Chapter         | 9 — Bholi                                                                                       |
+| Subject Lens    | context -> plot/situation -> character voice -> theme -> language feature -> reader response    |
+| Main Keywords   | Bholi, School, What, Will, Ramlal, Were, Teacher, Said, Girls, Like                             |
+| Best First Step | Read the section titles, then explain each title aloud before revising details.                 |
 | Best Final Step | Attempt the likely question bank and check whether every answer uses evidence from the chapter. |
 
 ---
@@ -282,4 +283,4 @@ Read about the scheme and design a poster in groups of four and display on the s
 
 Should girls and boys have the same rights, duties and privileges? What are some of the ways in which society treats them differently? When we speak of ‘human rights’, do we differentiate between girls’ rights and boys’ rights? Do you think the characters in the story were speaking to each other in English?
 
-What does this tell us about her? **Q11.** point in the story? **Q12.** changing the social attitudes illustrated in this story? **Q13.** and boys’ rights? **Q14.** other in English? If not, in which language were they speaking? --- *Source: NCERT Class 10 — English Footprints, Chapter 9.
+What does this tell us about her? **Q11.** point in the story? **Q12.** changing the social attitudes illustrated in this story? **Q13.** and boys’ rights? **Q14.** other in English? If not, in which language were they speaking? --- \*Source: NCERT Class 10 — English Footprints, Chapter 9.

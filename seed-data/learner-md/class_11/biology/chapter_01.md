@@ -1,4 +1,5 @@
 # Chapter 1: The Living World
+
 ### NCERT Class 11 - Biology
 
 ## Chapter at a Glance
@@ -7,17 +8,17 @@ This chapter introduces the enormous variety of living organisms and explains ho
 
 The living world is highly diverse. Organisms differ in size, shape, colour, habitat, structure, development, reproduction, and ecological role. To study such diversity meaningfully, biologists use systematic methods of naming and classification.
 
-| Area | Main Idea |
-|---|---|
-| Biodiversity | Variety of living organisms on Earth |
-| Identification | Recognising an organism correctly |
-| Nomenclature | Giving an organism a standard scientific name |
-| Binomial nomenclature | Two-word scientific naming system |
-| Classification | Grouping organisms based on similarities and differences |
-| Taxonomy | Identification, nomenclature, and classification |
-| Systematics | Taxonomy plus evolutionary relationships |
-| Taxon | A unit or category of classification |
-| Taxonomic hierarchy | Ordered arrangement from species to kingdom |
+| Area                  | Main Idea                                                |
+| --------------------- | -------------------------------------------------------- |
+| Biodiversity          | Variety of living organisms on Earth                     |
+| Identification        | Recognising an organism correctly                        |
+| Nomenclature          | Giving an organism a standard scientific name            |
+| Binomial nomenclature | Two-word scientific naming system                        |
+| Classification        | Grouping organisms based on similarities and differences |
+| Taxonomy              | Identification, nomenclature, and classification         |
+| Systematics           | Taxonomy plus evolutionary relationships                 |
+| Taxon                 | A unit or category of classification                     |
+| Taxonomic hierarchy   | Ordered arrangement from species to kingdom              |
 
 ## Learning Outcomes
 
@@ -40,25 +41,25 @@ After studying this chapter, a learner should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Biology | Science of life forms and living processes |
-| Biodiversity | Number and kinds of organisms present in an area or on Earth |
-| Species | Group of similar individuals with fundamental similarities and distinct differences from related groups |
-| Identification | Correct recognition of an organism |
-| Nomenclature | Scientific naming of organisms using accepted rules |
-| Binomial nomenclature | Two-word naming system with genus and specific epithet |
-| Genus | Group of closely related species |
-| Family | Group of related genera |
-| Order | Group of related families |
-| Class | Group of related orders |
-| Phylum | Group of related classes in animals |
-| Division | Plant equivalent of phylum in many classification systems |
-| Kingdom | Highest broad category in the hierarchy used in this chapter |
-| Taxon | Unit of classification at any rank |
-| Taxa | Plural of taxon |
-| Taxonomy | Study of identification, nomenclature, and classification |
-| Systematics | Study of organism diversity and evolutionary relationships |
+| Term                  | Meaning                                                                                                 |
+| --------------------- | ------------------------------------------------------------------------------------------------------- |
+| Biology               | Science of life forms and living processes                                                              |
+| Biodiversity          | Number and kinds of organisms present in an area or on Earth                                            |
+| Species               | Group of similar individuals with fundamental similarities and distinct differences from related groups |
+| Identification        | Correct recognition of an organism                                                                      |
+| Nomenclature          | Scientific naming of organisms using accepted rules                                                     |
+| Binomial nomenclature | Two-word naming system with genus and specific epithet                                                  |
+| Genus                 | Group of closely related species                                                                        |
+| Family                | Group of related genera                                                                                 |
+| Order                 | Group of related families                                                                               |
+| Class                 | Group of related orders                                                                                 |
+| Phylum                | Group of related classes in animals                                                                     |
+| Division              | Plant equivalent of phylum in many classification systems                                               |
+| Kingdom               | Highest broad category in the hierarchy used in this chapter                                            |
+| Taxon                 | Unit of classification at any rank                                                                      |
+| Taxa                  | Plural of taxon                                                                                         |
+| Taxonomy              | Study of identification, nomenclature, and classification                                               |
+| Systematics           | Study of organism diversity and evolutionary relationships                                              |
 
 # Unit 1A: Meaning of the Living World
 
@@ -240,14 +241,14 @@ Each scientific name has two parts:
 
 Scientific name of mango:
 
-*Mangifera indica*
+_Mangifera indica_
 
-| Part | Meaning |
-|---|---|
-| *Mangifera* | Genus |
-| *indica* | Specific epithet |
+| Part        | Meaning          |
+| ----------- | ---------------- |
+| _Mangifera_ | Genus            |
+| _indica_    | Specific epithet |
 
-Together, *Mangifera indica* represents a species.
+Together, _Mangifera indica_ represents a species.
 
 ## Rules of Binomial Nomenclature
 
@@ -263,23 +264,23 @@ Together, *Mangifera indica* represents a species.
 
 ## Examples
 
-| Common Name | Scientific Name | Genus | Specific Epithet |
-|---|---|---|---|
-| Mango | *Mangifera indica* | *Mangifera* | *indica* |
-| Human | *Homo sapiens* | *Homo* | *sapiens* |
-| Lion | *Panthera leo* | *Panthera* | *leo* |
-| Tiger | *Panthera tigris* | *Panthera* | *tigris* |
-| Potato | *Solanum tuberosum* | *Solanum* | *tuberosum* |
+| Common Name | Scientific Name     | Genus       | Specific Epithet |
+| ----------- | ------------------- | ----------- | ---------------- |
+| Mango       | _Mangifera indica_  | _Mangifera_ | _indica_         |
+| Human       | _Homo sapiens_      | _Homo_      | _sapiens_        |
+| Lion        | _Panthera leo_      | _Panthera_  | _leo_            |
+| Tiger       | _Panthera tigris_   | _Panthera_  | _tigris_         |
+| Potato      | _Solanum tuberosum_ | _Solanum_   | _tuberosum_      |
 
 ## Correct Writing
 
 Correct:
 
-*Mangifera indica*
+_Mangifera indica_
 
 Incorrect:
 
-*Mangifera Indica*
+_Mangifera Indica_
 
 Reason:
 
@@ -371,17 +372,17 @@ It includes:
 
 The word systematics comes from the Latin word "systema", meaning systematic arrangement.
 
-Linnaeus used the title *Systema Naturae* for one of his major works.
+Linnaeus used the title _Systema Naturae_ for one of his major works.
 
 ## Taxonomy vs Systematics
 
-| Basis | Taxonomy | Systematics |
-|---|---|---|
-| Main focus | Naming and classification | Diversity plus evolutionary relationships |
-| Includes identification | Yes | Yes |
-| Includes nomenclature | Yes | Yes |
-| Includes classification | Yes | Yes |
-| Evolutionary relationships | Not always central in older usage | Central |
+| Basis                      | Taxonomy                          | Systematics                               |
+| -------------------------- | --------------------------------- | ----------------------------------------- |
+| Main focus                 | Naming and classification         | Diversity plus evolutionary relationships |
+| Includes identification    | Yes                               | Yes                                       |
+| Includes nomenclature      | Yes                               | Yes                                       |
+| Includes classification    | Yes                               | Yes                                       |
+| Evolutionary relationships | Not always central in older usage | Central                                   |
 
 # Unit 1I: Taxon and Taxa
 
@@ -413,8 +414,8 @@ The word "taxon" can refer to any rank.
 
 For example:
 
-1. *Homo sapiens* is a taxon at species level.
-2. *Homo* is a taxon at genus level.
+1. _Homo sapiens_ is a taxon at species level.
+2. _Homo_ is a taxon at genus level.
 3. Hominidae is a taxon at family level.
 4. Mammalia is a taxon at class level.
 
@@ -446,19 +447,19 @@ Lower categories have more common characters.
 
 Higher categories have fewer common characters.
 
-| Direction | What Happens |
-|---|---|
-| Species to kingdom | Common features decrease |
+| Direction          | What Happens                |
+| ------------------ | --------------------------- |
+| Species to kingdom | Common features decrease    |
 | Kingdom to species | Similarity becomes stronger |
-| Lower taxon | More specific |
-| Higher taxon | More general |
+| Lower taxon        | More specific               |
+| Higher taxon       | More general                |
 
 ## Example
 
 Human belongs to:
 
-1. species: *Homo sapiens*,
-2. genus: *Homo*,
+1. species: _Homo sapiens_,
+2. genus: _Homo_,
 3. family: Hominidae,
 4. order: Primata,
 5. class: Mammalia,
@@ -477,12 +478,12 @@ Members of one species can be distinguished from closely related species by clea
 
 ## Examples
 
-| Organism | Scientific Name | Species Epithet |
-|---|---|---|
-| Mango | *Mangifera indica* | *indica* |
-| Potato | *Solanum tuberosum* | *tuberosum* |
-| Lion | *Panthera leo* | *leo* |
-| Human | *Homo sapiens* | *sapiens* |
+| Organism | Scientific Name     | Species Epithet |
+| -------- | ------------------- | --------------- |
+| Mango    | _Mangifera indica_  | _indica_        |
+| Potato   | _Solanum tuberosum_ | _tuberosum_     |
+| Lion     | _Panthera leo_      | _leo_           |
+| Human    | _Homo sapiens_      | _sapiens_       |
 
 ## Important Point
 
@@ -490,11 +491,11 @@ The specific epithet alone is not the full species name.
 
 Correct:
 
-*Homo sapiens*
+_Homo sapiens_
 
 Incomplete:
 
-*sapiens*
+_sapiens_
 
 The genus and specific epithet together form the scientific name of the species.
 
@@ -508,29 +509,29 @@ Species in the same genus share more common characters with each other than with
 
 ## Examples
 
-| Genus | Species in That Genus |
-|---|---|
-| *Solanum* | Potato, brinjal, black nightshade |
-| *Panthera* | Lion, tiger, leopard |
-| *Homo* | Human species |
+| Genus      | Species in That Genus             |
+| ---------- | --------------------------------- |
+| _Solanum_  | Potato, brinjal, black nightshade |
+| _Panthera_ | Lion, tiger, leopard              |
+| _Homo_     | Human species                     |
 
-## Example: *Panthera*
+## Example: _Panthera_
 
-Lion = *Panthera leo*
+Lion = _Panthera leo_
 
-Tiger = *Panthera tigris*
+Tiger = _Panthera tigris_
 
-Leopard = *Panthera pardus*
+Leopard = _Panthera pardus_
 
 These species are grouped in the same genus because they share several major characters.
 
 ## Genus vs Species
 
-| Basis | Species | Genus |
-|---|---|---|
-| Rank | Lower | Higher |
-| Includes | Similar individuals | Related species |
-| Example | *Panthera leo* | *Panthera* |
+| Basis      | Species                  | Genus                                  |
+| ---------- | ------------------------ | -------------------------------------- |
+| Rank       | Lower                    | Higher                                 |
+| Includes   | Similar individuals      | Related species                        |
+| Example    | _Panthera leo_           | _Panthera_                             |
 | Similarity | Maximum within hierarchy | Less than species but more than family |
 
 # Unit 1M: Family
@@ -545,9 +546,9 @@ Members of a family share fewer similarities than members of the same genus, but
 
 Family Solanaceae includes genera such as:
 
-1. *Solanum*,
-2. *Petunia*,
-3. *Datura*.
+1. _Solanum_,
+2. _Petunia_,
+3. _Datura_.
 
 These genera are placed together based on vegetative and reproductive features.
 
@@ -555,8 +556,8 @@ These genera are placed together based on vegetative and reproductive features.
 
 Family Felidae includes:
 
-1. *Panthera*,
-2. *Felis*.
+1. _Panthera_,
+2. _Felis_.
 
 Lions, tigers, leopards, and cats are placed in Felidae.
 
@@ -574,9 +575,9 @@ Members of an order share fewer common characters than members of a family.
 
 ## Examples
 
-| Order | Families Included |
-|---|---|
-| Carnivora | Felidae and Canidae |
+| Order        | Families Included             |
+| ------------ | ----------------------------- |
+| Carnivora    | Felidae and Canidae           |
 | Polymoniales | Solanaceae and Convolvulaceae |
 
 ## Key Idea
@@ -652,10 +653,10 @@ Kingdom is the highest broad category used in this chapter's hierarchy.
 
 ## Examples
 
-| Kingdom | Includes |
-|---|---|
-| Animalia | All animal phyla |
-| Plantae | All plant divisions |
+| Kingdom  | Includes            |
+| -------- | ------------------- |
+| Animalia | All animal phyla    |
+| Plantae  | All plant divisions |
 
 ## Important Point
 
@@ -665,55 +666,55 @@ Kingdom includes the widest range of organisms and therefore has the fewest shar
 
 ## Human
 
-| Rank | Taxon |
-|---|---|
-| Common name | Human |
-| Biological name | *Homo sapiens* |
-| Genus | *Homo* |
-| Family | Hominidae |
-| Order | Primata |
-| Class | Mammalia |
-| Phylum | Chordata |
-| Kingdom | Animalia |
+| Rank            | Taxon          |
+| --------------- | -------------- |
+| Common name     | Human          |
+| Biological name | _Homo sapiens_ |
+| Genus           | _Homo_         |
+| Family          | Hominidae      |
+| Order           | Primata        |
+| Class           | Mammalia       |
+| Phylum          | Chordata       |
+| Kingdom         | Animalia       |
 
 ## Housefly
 
-| Rank | Taxon |
-|---|---|
-| Common name | Housefly |
-| Biological name | *Musca domestica* |
-| Genus | *Musca* |
-| Family | Muscidae |
-| Order | Diptera |
-| Class | Insecta |
-| Phylum | Arthropoda |
-| Kingdom | Animalia |
+| Rank            | Taxon             |
+| --------------- | ----------------- |
+| Common name     | Housefly          |
+| Biological name | _Musca domestica_ |
+| Genus           | _Musca_           |
+| Family          | Muscidae          |
+| Order           | Diptera           |
+| Class           | Insecta           |
+| Phylum          | Arthropoda        |
+| Kingdom         | Animalia          |
 
 ## Mango
 
-| Rank | Taxon |
-|---|---|
-| Common name | Mango |
-| Biological name | *Mangifera indica* |
-| Genus | *Mangifera* |
-| Family | Anacardiaceae |
-| Order | Sapindales |
-| Class | Dicotyledonae |
-| Division | Angiospermae |
-| Kingdom | Plantae |
+| Rank            | Taxon              |
+| --------------- | ------------------ |
+| Common name     | Mango              |
+| Biological name | _Mangifera indica_ |
+| Genus           | _Mangifera_        |
+| Family          | Anacardiaceae      |
+| Order           | Sapindales         |
+| Class           | Dicotyledonae      |
+| Division        | Angiospermae       |
+| Kingdom         | Plantae            |
 
 ## Wheat
 
-| Rank | Taxon |
-|---|---|
-| Common name | Wheat |
-| Biological name | *Triticum aestivum* |
-| Genus | *Triticum* |
-| Family | Poaceae |
-| Order | Poales |
-| Class | Monocotyledonae |
-| Division | Angiospermae |
-| Kingdom | Plantae |
+| Rank            | Taxon               |
+| --------------- | ------------------- |
+| Common name     | Wheat               |
+| Biological name | _Triticum aestivum_ |
+| Genus           | _Triticum_          |
+| Family          | Poaceae             |
+| Order           | Poales              |
+| Class           | Monocotyledonae     |
+| Division        | Angiospermae        |
+| Kingdom         | Plantae             |
 
 # Unit 1S: Relationship Between Similarity and Rank
 
@@ -733,42 +734,42 @@ They all share basic animal features, but not as many detailed similarities as o
 
 ## Summary Table
 
-| Rank | Similarity Among Members | Example |
-|---|---|---|
-| Species | Highest | Humans in *Homo sapiens* |
-| Genus | Very high | Lion and tiger in *Panthera* |
-| Family | Moderate | Cats and lions in Felidae |
-| Order | Broader | Felidae and Canidae in Carnivora |
-| Class | Still broader | Carnivora and Primata in Mammalia |
-| Phylum | Very broad | Mammals and birds in Chordata |
-| Kingdom | Broadest | All animals in Animalia |
+| Rank    | Similarity Among Members | Example                           |
+| ------- | ------------------------ | --------------------------------- |
+| Species | Highest                  | Humans in _Homo sapiens_          |
+| Genus   | Very high                | Lion and tiger in _Panthera_      |
+| Family  | Moderate                 | Cats and lions in Felidae         |
+| Order   | Broader                  | Felidae and Canidae in Carnivora  |
+| Class   | Still broader            | Carnivora and Primata in Mammalia |
+| Phylum  | Very broad               | Mammals and birds in Chordata     |
+| Kingdom | Broadest                 | All animals in Animalia           |
 
 # Unit 1T: Quick Revision Tables
 
 ## Identification, Nomenclature, Classification
 
-| Process | Meaning | Example |
-|---|---|---|
-| Identification | Finding what organism it is | Recognising a plant as mango |
-| Nomenclature | Giving accepted scientific name | *Mangifera indica* |
-| Classification | Placing organism in groups | Mango in Anacardiaceae and Plantae |
+| Process        | Meaning                         | Example                            |
+| -------------- | ------------------------------- | ---------------------------------- |
+| Identification | Finding what organism it is     | Recognising a plant as mango       |
+| Nomenclature   | Giving accepted scientific name | _Mangifera indica_                 |
+| Classification | Placing organism in groups      | Mango in Anacardiaceae and Plantae |
 
 ## Taxonomy and Systematics
 
-| Term | Includes |
-|---|---|
-| Taxonomy | Characterisation, identification, nomenclature, classification |
-| Systematics | Taxonomy plus evolutionary relationships |
+| Term        | Includes                                                       |
+| ----------- | -------------------------------------------------------------- |
+| Taxonomy    | Characterisation, identification, nomenclature, classification |
+| Systematics | Taxonomy plus evolutionary relationships                       |
 
 ## Binomial Name Rules
 
-| Rule | Correct Example |
-|---|---|
-| Genus starts capital | *Mangifera* |
-| Specific epithet starts small | *indica* |
-| Printed name italicised | *Mangifera indica* |
+| Rule                                    | Correct Example                            |
+| --------------------------------------- | ------------------------------------------ |
+| Genus starts capital                    | _Mangifera_                                |
+| Specific epithet starts small           | _indica_                                   |
+| Printed name italicised                 | _Mangifera indica_                         |
 | Handwritten words underlined separately | Mangifera and indica separately underlined |
-| Author may be abbreviated | *Mangifera indica* Linn. |
+| Author may be abbreviated               | _Mangifera indica_ Linn.                   |
 
 # Unit 1U: Common Mistakes and Corrections
 
@@ -776,11 +777,11 @@ They all share basic animal features, but not as many detailed similarities as o
 
 Wrong:
 
-*Mangifera Indica*
+_Mangifera Indica_
 
 Correct:
 
-*Mangifera indica*
+_Mangifera indica_
 
 Reason:
 
@@ -794,17 +795,17 @@ Wrong:
 
 Correct:
 
-*Homo sapiens* is the species name. The word *sapiens* is the specific epithet.
+_Homo sapiens_ is the species name. The word _sapiens_ is the specific epithet.
 
 ## Mistake 3: Confusing Genus and Family
 
 Wrong:
 
-*Panthera* is a family.
+_Panthera_ is a family.
 
 Correct:
 
-*Panthera* is a genus. Felidae is the family.
+_Panthera_ is a genus. Felidae is the family.
 
 ## Mistake 4: Putting Kingdom Before Species in Ascending Order
 
@@ -890,11 +891,11 @@ Identification helps us know:
 
 Correct:
 
-*Mangifera indica*
+_Mangifera indica_
 
 Reason:
 
-The genus *Mangifera* begins with a capital letter, while the specific epithet *indica* begins with a small letter.
+The genus _Mangifera_ begins with a capital letter, while the specific epithet _indica_ begins with a small letter.
 
 ## 6. Define Taxon With Examples
 
@@ -902,8 +903,8 @@ A taxon is a unit of classification at any rank.
 
 Examples:
 
-1. species: *Homo sapiens*,
-2. genus: *Homo*,
+1. species: _Homo sapiens_,
+2. genus: _Homo_,
 3. family: Hominidae,
 4. order: Primata,
 5. class: Mammalia,
@@ -950,33 +951,33 @@ A category that includes related families. Example: Carnivora.
 
 Genus:
 
-A category that includes closely related species. Example: *Panthera*.
+A category that includes closely related species. Example: _Panthera_.
 
 ## 10. Taxonomic Hierarchy With Plant and Animal Examples
 
 Plant example: mango.
 
-| Rank | Taxon |
-|---|---|
-| Species | *Mangifera indica* |
-| Genus | *Mangifera* |
-| Family | Anacardiaceae |
-| Order | Sapindales |
-| Class | Dicotyledonae |
-| Division | Angiospermae |
-| Kingdom | Plantae |
+| Rank     | Taxon              |
+| -------- | ------------------ |
+| Species  | _Mangifera indica_ |
+| Genus    | _Mangifera_        |
+| Family   | Anacardiaceae      |
+| Order    | Sapindales         |
+| Class    | Dicotyledonae      |
+| Division | Angiospermae       |
+| Kingdom  | Plantae            |
 
 Animal example: human.
 
-| Rank | Taxon |
-|---|---|
-| Species | *Homo sapiens* |
-| Genus | *Homo* |
-| Family | Hominidae |
-| Order | Primata |
-| Class | Mammalia |
-| Phylum | Chordata |
-| Kingdom | Animalia |
+| Rank    | Taxon          |
+| ------- | -------------- |
+| Species | _Homo sapiens_ |
+| Genus   | _Homo_         |
+| Family  | Hominidae      |
+| Order   | Primata        |
+| Class   | Mammalia       |
+| Phylum  | Chordata       |
+| Kingdom | Animalia       |
 
 # Unit 1W: Practice Questions
 
@@ -995,8 +996,8 @@ Animal example: human.
 
 ## Application Questions
 
-1. A student writes *homo sapiens*. Identify the error.
-2. A student writes *Mangifera Indica*. Identify the error.
+1. A student writes _homo sapiens_. Identify the error.
+2. A student writes _Mangifera Indica_. Identify the error.
 3. Lion, tiger, and leopard are placed in the same genus. What does this show?
 4. Felidae and Canidae are placed in the order Carnivora. What does this show?
 5. Why is species considered a basic taxonomic category?
@@ -1021,12 +1022,12 @@ Lower categories show more similarities. Higher categories are broader and show 
 
 ## Must-Know Examples
 
-| Organism | Species | Genus | Family | Order | Class | Phylum/Division | Kingdom |
-|---|---|---|---|---|---|---|---|
-| Human | *Homo sapiens* | *Homo* | Hominidae | Primata | Mammalia | Chordata | Animalia |
-| Housefly | *Musca domestica* | *Musca* | Muscidae | Diptera | Insecta | Arthropoda | Animalia |
-| Mango | *Mangifera indica* | *Mangifera* | Anacardiaceae | Sapindales | Dicotyledonae | Angiospermae | Plantae |
-| Wheat | *Triticum aestivum* | *Triticum* | Poaceae | Poales | Monocotyledonae | Angiospermae | Plantae |
+| Organism | Species             | Genus       | Family        | Order      | Class           | Phylum/Division | Kingdom  |
+| -------- | ------------------- | ----------- | ------------- | ---------- | --------------- | --------------- | -------- |
+| Human    | _Homo sapiens_      | _Homo_      | Hominidae     | Primata    | Mammalia        | Chordata        | Animalia |
+| Housefly | _Musca domestica_   | _Musca_     | Muscidae      | Diptera    | Insecta         | Arthropoda      | Animalia |
+| Mango    | _Mangifera indica_  | _Mangifera_ | Anacardiaceae | Sapindales | Dicotyledonae   | Angiospermae    | Plantae  |
+| Wheat    | _Triticum aestivum_ | _Triticum_  | Poaceae       | Poales     | Monocotyledonae | Angiospermae    | Plantae  |
 
 ## Learner Checklist
 

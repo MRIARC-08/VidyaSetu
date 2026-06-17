@@ -1,21 +1,22 @@
 # Chapter 7: Madam Rides the Bus and The Tale of Custard the Dragon
+
 ### NCERT Class 10 - English First Flight
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 10 |
-| **Subject** | English First Flight |
-| **Chapter** | 7 |
-| **Actual Main Prose** | "Madam Rides the Bus" |
-| **Poem Included** | "The Tale of Custard the Dragon" by Ogden Nash |
-| **Raw File Header** | "Glimpses of India" |
-| **Textbook Pages** | 94-110 |
-| **Core Theme** | Curiosity, independence, childhood imagination, first contact with the wider world, joy and sorrow, courage, false boasting, humour, and ballad storytelling. |
-| **Main Skills** | Narrative sequence, point of view, character analysis, dialogue, inference, road-safety discussion, comic verse, rhyme, rhythm, poetic devices, and ballad writing. |
+| Detail                | Learner-Friendly Information                                                                                                                                        |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Class**             | 10                                                                                                                                                                  |
+| **Subject**           | English First Flight                                                                                                                                                |
+| **Chapter**           | 7                                                                                                                                                                   |
+| **Actual Main Prose** | "Madam Rides the Bus"                                                                                                                                               |
+| **Poem Included**     | "The Tale of Custard the Dragon" by Ogden Nash                                                                                                                      |
+| **Raw File Header**   | "Glimpses of India"                                                                                                                                                 |
+| **Textbook Pages**    | 94-110                                                                                                                                                              |
+| **Core Theme**        | Curiosity, independence, childhood imagination, first contact with the wider world, joy and sorrow, courage, false boasting, humour, and ballad storytelling.       |
+| **Main Skills**       | Narrative sequence, point of view, character analysis, dialogue, inference, road-safety discussion, comic verse, rhyme, rhythm, poetic devices, and ballad writing. |
 
 > [!NOTE]
 > The raw source file is `chapter_07.md` and its extraction header says "Glimpses of India", but the actual chapter content contains **Madam Rides the Bus** and **The Tale of Custard the Dragon**. This learner-facing version follows the actual chapter content.
@@ -24,17 +25,17 @@
 
 ## Section Structure
 
-| Unit | Text / Skill | Main Learning Focus |
-|---|---|---|
-| **7A** | Before Reading | Bus travel vocabulary, roadside scenes, and observation from a moving vehicle. |
-| **7B** | Madam Rides the Bus: Part I | Valli's curiosity, bus fascination, desire, and planning. |
-| **7C** | Madam Rides the Bus: Part II | Valli boards the bus, behaves independently, and watches the world outside. |
-| **7D** | Madam Rides the Bus: Part III | Saving money, the journey to town, the cow episode, and Valli's self-control. |
-| **7E** | Madam Rides the Bus: Part IV | Return journey, dead cow, sadness, secrecy, and new understanding. |
-| **7F** | Thinking About the Text | Valli's character, conductor's role, child point of view, and meaning of experience. |
-| **7G** | Speaking and Writing | Mimicry, personal planning, unforgettable journeys, traffic, and road safety. |
-| **7H** | The Tale of Custard the Dragon | Ballad, comic heroism, characters, plot, rhyme, rhythm, and poetic devices. |
-| **7I** | Ballad Writing | Planning characters, conflict, refrain, rhythm, rhyme, and revision. |
+| Unit   | Text / Skill                   | Main Learning Focus                                                                  |
+| ------ | ------------------------------ | ------------------------------------------------------------------------------------ |
+| **7A** | Before Reading                 | Bus travel vocabulary, roadside scenes, and observation from a moving vehicle.       |
+| **7B** | Madam Rides the Bus: Part I    | Valli's curiosity, bus fascination, desire, and planning.                            |
+| **7C** | Madam Rides the Bus: Part II   | Valli boards the bus, behaves independently, and watches the world outside.          |
+| **7D** | Madam Rides the Bus: Part III  | Saving money, the journey to town, the cow episode, and Valli's self-control.        |
+| **7E** | Madam Rides the Bus: Part IV   | Return journey, dead cow, sadness, secrecy, and new understanding.                   |
+| **7F** | Thinking About the Text        | Valli's character, conductor's role, child point of view, and meaning of experience. |
+| **7G** | Speaking and Writing           | Mimicry, personal planning, unforgettable journeys, traffic, and road safety.        |
+| **7H** | The Tale of Custard the Dragon | Ballad, comic heroism, characters, plot, rhyme, rhythm, and poetic devices.          |
+| **7I** | Ballad Writing                 | Planning characters, conflict, refrain, rhythm, rhyme, and revision.                 |
 
 ---
 
@@ -42,53 +43,53 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Retell a narrative** | Explain Valli's plan, journey, return, and emotional change. |
+| Outcome                       | You Should Be Able To...                                                |
+| ----------------------------- | ----------------------------------------------------------------------- |
+| **Retell a narrative**        | Explain Valli's plan, journey, return, and emotional change.            |
 | **Analyse a child character** | Describe Valli's curiosity, courage, pride, innocence, and sensitivity. |
-| **Understand point of view** | Explain how the world is shown through an eight-year-old's eyes. |
-| **Read dialogue** | Identify humour, teasing, concern, and self-assertion in conversations. |
-| **Infer meaning** | Explain why the dead cow changes Valli's mood. |
-| **Discuss road safety** | Connect the story's traffic incident with responsible travel. |
-| **Understand ballad form** | Explain how a poem can tell a story through rhythm and rhyme. |
-| **Identify poetic devices** | Recognise simile, alliteration, repetition, humour, and imagery. |
-| **Analyse courage** | Compare real courage with loud boasting in the poem. |
-| **Write creatively** | Draft a short ballad or journey-based paragraph. |
+| **Understand point of view**  | Explain how the world is shown through an eight-year-old's eyes.        |
+| **Read dialogue**             | Identify humour, teasing, concern, and self-assertion in conversations. |
+| **Infer meaning**             | Explain why the dead cow changes Valli's mood.                          |
+| **Discuss road safety**       | Connect the story's traffic incident with responsible travel.           |
+| **Understand ballad form**    | Explain how a poem can tell a story through rhythm and rhyme.           |
+| **Identify poetic devices**   | Recognise simile, alliteration, repetition, humour, and imagery.        |
+| **Analyse courage**           | Compare real courage with loud boasting in the poem.                    |
+| **Write creatively**          | Draft a short ballad or journey-based paragraph.                        |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Pastime** | Activity done for enjoyment. |
-| **Wistfully** | Longingly, with desire. |
-| **Kindle** | To light a feeling or make it stronger. |
-| **Slang** | Informal language used by a group. |
-| **Discreet** | Careful and tactful. |
-| **Slack time** | Time when there is not much work or crowd. |
-| **Haughtily** | Proudly, as if superior. |
-| **Mimicking** | Copying someone's speech or manner. |
-| **Repulsive** | Causing strong dislike. |
-| **Curtly** | Briefly and rudely. |
-| **Drivel** | Foolish or meaningless talk. |
-| **Thriftily** | Carefully with money. |
-| **Resolutely** | With firm determination. |
-| **Stifled** | Suppressed or held back. |
-| **Venture** | Go somewhere carefully or bravely. |
-| **Thoroughfare** | Busy public road. |
-| **Merchandise** | Goods for sale. |
-| **Spreadeagled** | Spread out widely. |
-| **Haunted** | Returned repeatedly to the mind. |
-| **Chatterbox** | Person who talks a lot. |
-| **Pokes her nose** | Interferes in something that does not concern her. |
-| **Ballad** | Song-like poem that tells a story. |
-| **Parody** | Humorous imitation of a serious form. |
-| **Rhyme scheme** | Pattern of rhyming sounds at line endings. |
-| **Simile** | Comparison using like or as. |
-| **Imagery** | Language that creates a picture in the reader's mind. |
-| **Comic verse** | Humorous poetry. |
-| **Refrain** | Repeated line or phrase in a poem or song. |
+| Term               | Meaning                                               |
+| ------------------ | ----------------------------------------------------- |
+| **Pastime**        | Activity done for enjoyment.                          |
+| **Wistfully**      | Longingly, with desire.                               |
+| **Kindle**         | To light a feeling or make it stronger.               |
+| **Slang**          | Informal language used by a group.                    |
+| **Discreet**       | Careful and tactful.                                  |
+| **Slack time**     | Time when there is not much work or crowd.            |
+| **Haughtily**      | Proudly, as if superior.                              |
+| **Mimicking**      | Copying someone's speech or manner.                   |
+| **Repulsive**      | Causing strong dislike.                               |
+| **Curtly**         | Briefly and rudely.                                   |
+| **Drivel**         | Foolish or meaningless talk.                          |
+| **Thriftily**      | Carefully with money.                                 |
+| **Resolutely**     | With firm determination.                              |
+| **Stifled**        | Suppressed or held back.                              |
+| **Venture**        | Go somewhere carefully or bravely.                    |
+| **Thoroughfare**   | Busy public road.                                     |
+| **Merchandise**    | Goods for sale.                                       |
+| **Spreadeagled**   | Spread out widely.                                    |
+| **Haunted**        | Returned repeatedly to the mind.                      |
+| **Chatterbox**     | Person who talks a lot.                               |
+| **Pokes her nose** | Interferes in something that does not concern her.    |
+| **Ballad**         | Song-like poem that tells a story.                    |
+| **Parody**         | Humorous imitation of a serious form.                 |
+| **Rhyme scheme**   | Pattern of rhyming sounds at line endings.            |
+| **Simile**         | Comparison using like or as.                          |
+| **Imagery**        | Language that creates a picture in the reader's mind. |
+| **Comic verse**    | Humorous poetry.                                      |
+| **Refrain**        | Repeated line or phrase in a poem or song.            |
 
 ---
 
@@ -113,17 +114,17 @@ Both texts question appearances:
 
 Before reading the story, learners are asked to notice common travel expressions.
 
-| Phrase | Meaning |
-|---|---|
-| **A set of passengers** | A group of people travelling together on a trip. |
-| **Get on the bus** | Enter the bus. |
-| **Get off the bus** | Leave the bus. |
-| **Platform** | Place where passengers wait, usually at stations. |
-| **Tickets, please** | Common phrase used by a conductor or ticket checker. |
-| **A roar and a rattle** | Loud engine and shaking sound of a vehicle. |
-| **A row of seats** | Seats arranged in a line. |
-| **Slowing down to a crawl** | Moving very slowly. |
-| **Blowing a whistle** | Signal used by a conductor to start or stop movement. |
+| Phrase                      | Meaning                                               |
+| --------------------------- | ----------------------------------------------------- |
+| **A set of passengers**     | A group of people travelling together on a trip.      |
+| **Get on the bus**          | Enter the bus.                                        |
+| **Get off the bus**         | Leave the bus.                                        |
+| **Platform**                | Place where passengers wait, usually at stations.     |
+| **Tickets, please**         | Common phrase used by a conductor or ticket checker.  |
+| **A roar and a rattle**     | Loud engine and shaking sound of a vehicle.           |
+| **A row of seats**          | Seats arranged in a line.                             |
+| **Slowing down to a crawl** | Moving very slowly.                                   |
+| **Blowing a whistle**       | Signal used by a conductor to start or stop movement. |
 
 ## What Can Be Seen from a Fast-Moving Bus?
 
@@ -156,15 +157,15 @@ Valli's story is built through observation. She learns about the bus by watching
 
 ## Text Identity
 
-| Detail | Information |
-|---|---|
-| **Title** | Madam Rides the Bus |
-| **Form** | Short story |
-| **Main Character** | Valliammai, called Valli |
-| **Age** | Eight years old |
-| **Setting** | A village, a bus route, and the nearby town |
-| **Central Event** | Valli's first bus journey alone |
-| **Main Theme** | A child's first independent step into the larger world |
+| Detail             | Information                                            |
+| ------------------ | ------------------------------------------------------ |
+| **Title**          | Madam Rides the Bus                                    |
+| **Form**           | Short story                                            |
+| **Main Character** | Valliammai, called Valli                               |
+| **Age**            | Eight years old                                        |
+| **Setting**        | A village, a bus route, and the nearby town            |
+| **Central Event**  | Valli's first bus journey alone                        |
+| **Main Theme**     | A child's first independent step into the larger world |
 
 ## Valli's Favourite Pastime
 
@@ -200,14 +201,14 @@ The desire grows slowly:
 
 Valli carefully gathers information before acting.
 
-| Detail | Information |
-|---|---|
-| **Distance to town** | Six miles. |
-| **Fare one way** | Thirty paise. |
-| **Fare both ways** | Sixty paise. |
-| **Time one way** | Forty-five minutes. |
+| Detail                | Information                                                                         |
+| --------------------- | ----------------------------------------------------------------------------------- |
+| **Distance to town**  | Six miles.                                                                          |
+| **Fare one way**      | Thirty paise.                                                                       |
+| **Fare both ways**    | Sixty paise.                                                                        |
+| **Time one way**      | Forty-five minutes.                                                                 |
 | **Possible schedule** | Leave at one o'clock, reach town at one forty-five, return by about two forty-five. |
-| **How to return** | Stay in the same bus and pay another fare. |
+| **How to return**     | Stay in the same bus and pay another fare.                                          |
 
 ## How She Finds Out
 
@@ -221,14 +222,14 @@ Valli does not ask openly because she wants to keep her plan secret. She:
 
 ## Oral Comprehension Check
 
-| Question | Model Answer |
-|---|---|
-| What was Valli's favourite pastime? | Standing at the front doorway and watching the street. |
-| What was a source of unending joy for her? | The bus passing through her street. |
-| What was her strongest desire? | To ride the bus at least once. |
+| Question                                     | Model Answer                                                    |
+| -------------------------------------------- | --------------------------------------------------------------- |
+| What was Valli's favourite pastime?          | Standing at the front doorway and watching the street.          |
+| What was a source of unending joy for her?   | The bus passing through her street.                             |
+| What was her strongest desire?               | To ride the bus at least once.                                  |
 | What did she find out about the bus journey? | Distance, fare, travel time, and how to return on the same bus. |
-| How did she find out these details? | By listening to people and asking discreet questions. |
-| What was she planning to do? | She was planning to ride the bus to town and back alone. |
+| How did she find out these details?          | By listening to people and asking discreet questions.           |
+| What was she planning to do?                 | She was planning to ride the bus to town and back alone.        |
 
 ## Character Trait: Curiosity with Planning
 
@@ -268,13 +269,13 @@ This tells us that she:
 
 Valli notices the bus carefully.
 
-| Detail | What Valli Notices |
-|---|---|
-| **Exterior** | White paint with green stripes. |
-| **Interior** | Shining overhead bars. |
-| **Clock** | Beautiful clock above the windshield. |
-| **Seats** | Soft and luxurious. |
-| **Window** | Lower view blocked by a canvas blind. |
+| Detail       | What Valli Notices                    |
+| ------------ | ------------------------------------- |
+| **Exterior** | White paint with green stripes.       |
+| **Interior** | Shining overhead bars.                |
+| **Clock**    | Beautiful clock above the windshield. |
+| **Seats**    | Soft and luxurious.                   |
+| **Window**   | Lower view blocked by a canvas blind. |
 
 ## Why Valli Stands on the Seat
 
@@ -311,13 +312,13 @@ Valli does not want to make friends with her because:
 
 ## Oral Comprehension Check
 
-| Question | Model Answer |
-|---|---|
+| Question                                   | Model Answer                                                                 |
+| ------------------------------------------ | ---------------------------------------------------------------------------- |
 | Why does the conductor call Valli "madam"? | He jokingly treats her like a grown-up because she is confident and serious. |
-| Why does Valli stand up on the seat? | She wants to see outside over the canvas blind. |
-| What does she see? | Canal, palm trees, grassland, mountains, sky, ditch, and green fields. |
-| What does she tell the elderly man? | She says she is not a child and has paid her fare like everyone else. |
-| Why does she avoid the elderly woman? | She dislikes the woman's appearance, betel chewing, and intrusive questions. |
+| Why does Valli stand up on the seat?       | She wants to see outside over the canvas blind.                              |
+| What does she see?                         | Canal, palm trees, grassland, mountains, sky, ditch, and green fields.       |
+| What does she tell the elderly man?        | She says she is not a child and has paid her fare like everyone else.        |
+| Why does she avoid the elderly woman?      | She dislikes the woman's appearance, betel chewing, and intrusive questions. |
 
 ## Dialogue and Humour
 
@@ -404,14 +405,14 @@ This shows:
 
 ## Oral Comprehension Check
 
-| Question | Model Answer |
-|---|---|
-| How did Valli save money? | She saved stray coins and gave up small pleasures like sweets, toys, balloons, and a fair ride. |
-| Was it easy? | No. It required discipline and sacrifice. |
-| What made her laugh on the way? | A young cow running in front of the bus. |
-| Why did she not get off at the bus station? | She was afraid to wander alone and had planned only to ride the bus. |
-| Why did she refuse the drink? | She did not want a free treat and wanted to manage with her own money. |
-| What does this tell us about her? | She is proud, careful, independent, and self-respecting. |
+| Question                                    | Model Answer                                                                                    |
+| ------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| How did Valli save money?                   | She saved stray coins and gave up small pleasures like sweets, toys, balloons, and a fair ride. |
+| Was it easy?                                | No. It required discipline and sacrifice.                                                       |
+| What made her laugh on the way?             | A young cow running in front of the bus.                                                        |
+| Why did she not get off at the bus station? | She was afraid to wander alone and had planned only to ride the bus.                            |
+| Why did she refuse the drink?               | She did not want a free treat and wanted to manage with her own money.                          |
+| What does this tell us about her?           | She is proud, careful, independent, and self-respecting.                                        |
 
 ---
 
@@ -432,12 +433,12 @@ This shocks her because the animal that had seemed lively and funny has suddenly
 ## Emotional Change
 
 | Before Seeing the Dead Cow | After Seeing the Dead Cow |
-|---|---|
-| Joyful | Sad |
-| Curious | Quiet |
-| Laughing | Haunted |
-| Looking outside eagerly | Refuses to look out |
-| Enjoying movement | Aware of death |
+| -------------------------- | ------------------------- |
+| Joyful                     | Sad                       |
+| Curious                    | Quiet                     |
+| Laughing                   | Haunted                   |
+| Looking outside eagerly    | Refuses to look out       |
+| Enjoying movement          | Aware of death            |
 
 This is the story's emotional turning point.
 
@@ -459,12 +460,12 @@ Valli smiles because her mother and aunt do not know what she has done. She has 
 
 ## Oral Comprehension Check
 
-| Question | Model Answer |
-|---|---|
-| Why does Valli refuse to look out on the way back? | She has seen the dead cow and feels deeply saddened. |
-| What does she mean by agreeing with her mother? | She means that things can happen without others knowing, and even when known, they may not be fully understood. |
-| Why is the cow important to the story? | It changes the journey from pure excitement into an encounter with death. |
-| Why does Valli keep quiet at home? | She wants to keep her bus journey secret. |
+| Question                                           | Model Answer                                                                                                    |
+| -------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| Why does Valli refuse to look out on the way back? | She has seen the dead cow and feels deeply saddened.                                                            |
+| What does she mean by agreeing with her mother?    | She means that things can happen without others knowing, and even when known, they may not be fully understood. |
+| Why is the cow important to the story?             | It changes the journey from pure excitement into an encounter with death.                                       |
+| Why does Valli keep quiet at home?                 | She wants to keep her bus journey secret.                                                                       |
 
 ---
 
@@ -484,39 +485,39 @@ Key clues:
 
 ## How Valli Planned the Bus Ride
 
-| Planning Area | Valli's Action |
-|---|---|
+| Planning Area   | Valli's Action                                         |
+| --------------- | ------------------------------------------------------ |
 | **Information** | Learns distance, fare, travel time, and return method. |
-| **Money** | Saves sixty paise. |
-| **Timing** | Chooses afternoon nap time. |
-| **Secrecy** | Avoids openly asking adults. |
-| **Return plan** | Stays on the same bus and pays again. |
+| **Money**       | Saves sixty paise.                                     |
+| **Timing**      | Chooses afternoon nap time.                            |
+| **Secrecy**     | Avoids openly asking adults.                           |
+| **Return plan** | Stays on the same bus and pays again.                  |
 
 ## What Kind of Person Is Valli?
 
-| Trait | Evidence |
-|---|---|
-| **Curious** | Watches the street and wants to see the world. |
-| **Observant** | Gathers bus details carefully. |
-| **Determined** | Saves money despite temptations. |
-| **Independent** | Refuses help while boarding. |
-| **Proud** | Insists she is not a child. |
-| **Brave** | Travels alone to town. |
-| **Cautious** | Does not get off in town or accept a drink. |
-| **Sensitive** | The dead cow deeply affects her. |
-| **Secretive** | Keeps the journey hidden from her family. |
-| **Polite when she chooses** | Says goodbye to the conductor respectfully. |
+| Trait                       | Evidence                                       |
+| --------------------------- | ---------------------------------------------- |
+| **Curious**                 | Watches the street and wants to see the world. |
+| **Observant**               | Gathers bus details carefully.                 |
+| **Determined**              | Saves money despite temptations.               |
+| **Independent**             | Refuses help while boarding.                   |
+| **Proud**                   | Insists she is not a child.                    |
+| **Brave**                   | Travels alone to town.                         |
+| **Cautious**                | Does not get off in town or accept a drink.    |
+| **Sensitive**               | The dead cow deeply affects her.               |
+| **Secretive**               | Keeps the journey hidden from her family.      |
+| **Polite when she chooses** | Says goodbye to the conductor respectfully.    |
 
 ## Filling the Character Clues
 
-| Text Clue | Quality Revealed |
-|---|---|
+| Text Clue                              | Quality Revealed              |
+| -------------------------------------- | ----------------------------- |
 | "Stop the bus!" with a commanding hand | Confidence and determination. |
-| "I simply have to go to town" | Firm purpose. |
-| "There's nobody here who's a child" | Pride and self-assertion. |
-| "I can get on by myself" | Independence. |
-| "I can take care of myself" | Self-confidence. |
-| "I hope to see you again" | Courtesy and warmth. |
+| "I simply have to go to town"          | Firm purpose.                 |
+| "There's nobody here who's a child"    | Pride and self-assertion.     |
+| "I can get on by myself"               | Independence.                 |
+| "I can take care of myself"            | Self-confidence.              |
+| "I hope to see you again"              | Courtesy and warmth.          |
 
 ## Why the Conductor Calls Valli "Madam"
 
@@ -552,14 +553,14 @@ Valli agrees because:
 
 The story is told in a way that respects how a child sees the world.
 
-| Evidence | Explanation |
-|---|---|
-| Bus as wonder | Adults may see a bus as ordinary; Valli sees it as magical. |
-| Thirty paise as fortune | The fare seems huge to a child with little money. |
-| Adult concern as interference | Valli thinks safety advice is an insult. |
-| Cow as comedy | A running cow appears hilarious to her. |
-| Dead cow as shock | Death becomes real through a familiar creature. |
-| Town as dazzling | Shops and crowds seem grand and overwhelming. |
+| Evidence                      | Explanation                                                 |
+| ----------------------------- | ----------------------------------------------------------- |
+| Bus as wonder                 | Adults may see a bus as ordinary; Valli sees it as magical. |
+| Thirty paise as fortune       | The fare seems huge to a child with little money.           |
+| Adult concern as interference | Valli thinks safety advice is an insult.                    |
+| Cow as comedy                 | A running cow appears hilarious to her.                     |
+| Dead cow as shock             | Death becomes real through a familiar creature.             |
+| Town as dazzling              | Shops and crowds seem grand and overwhelming.               |
 
 ---
 
@@ -582,11 +583,11 @@ Learners can practise reading dialogue aloud by changing tone, pace, and express
 
 Structure:
 
-| Paragraph | Content |
-|---|---|
-| **1** | What you planned and why. |
-| **2** | How you gathered information, saved money, or arranged time. |
-| **3** | What happened, what you learned, and whether secrecy was wise. |
+| Paragraph | Content                                                        |
+| --------- | -------------------------------------------------------------- |
+| **1**     | What you planned and why.                                      |
+| **2**     | How you gathered information, saved money, or arranged time.   |
+| **3**     | What happened, what you learned, and whether secrecy was wise. |
 
 ## Writing Topic 2: Unforgettable Journey
 
@@ -613,13 +614,13 @@ Possible concerns:
 
 ## Making Road Travel Safer
 
-| Problem | Safety Measure |
-|---|---|
-| Speeding | Speed limits, enforcement, awareness. |
-| Animals on roads | Better fencing, warning signs, slower driving near villages. |
-| Pedestrian risk | Crossings, footpaths, school-zone signs. |
-| Unsafe buses | Regular inspection, trained drivers, no overcrowding. |
-| Passenger carelessness | Sitting properly, holding rails, not leaning out. |
+| Problem                | Safety Measure                                               |
+| ---------------------- | ------------------------------------------------------------ |
+| Speeding               | Speed limits, enforcement, awareness.                        |
+| Animals on roads       | Better fencing, warning signs, slower driving near villages. |
+| Pedestrian risk        | Crossings, footpaths, school-zone signs.                     |
+| Unsafe buses           | Regular inspection, trained drivers, no overcrowding.        |
+| Passenger carelessness | Sitting properly, holding rails, not leaning out.            |
 
 ## Ticket Collage Activity
 
@@ -657,14 +658,14 @@ The aim is not to dramatise sadness but to understand how experience changes per
 
 ## Text Identity
 
-| Detail | Information |
-|---|---|
-| **Poem** | The Tale of Custard the Dragon |
-| **Poet** | Ogden Nash |
-| **Form** | Humorous ballad / comic narrative poem |
-| **Main Character** | Custard, the dragon |
-| **Main Theme** | Real courage may appear where others least expect it. |
-| **Tone** | Comic, playful, mock-heroic, rhythmic. |
+| Detail             | Information                                           |
+| ------------------ | ----------------------------------------------------- |
+| **Poem**           | The Tale of Custard the Dragon                        |
+| **Poet**           | Ogden Nash                                            |
+| **Form**           | Humorous ballad / comic narrative poem                |
+| **Main Character** | Custard, the dragon                                   |
+| **Main Theme**     | Real courage may appear where others least expect it. |
+| **Tone**           | Comic, playful, mock-heroic, rhythmic.                |
 
 ## What Is a Ballad?
 
@@ -674,14 +675,14 @@ This poem uses ballad form humorously. It sounds like a story of heroic courage,
 
 ## Characters and Pet Names
 
-| Character | Pet Name / Description |
-|---|---|
-| **Belinda** | Little girl who lives in the white house. |
-| **Black kitten** | Ink. |
-| **Grey mouse** | Blink. |
-| **Yellow dog** | Mustard. |
-| **Dragon** | Custard. |
-| **Pirate** | Intruder and villain. |
+| Character        | Pet Name / Description                    |
+| ---------------- | ----------------------------------------- |
+| **Belinda**      | Little girl who lives in the white house. |
+| **Black kitten** | Ink.                                      |
+| **Grey mouse**   | Blink.                                    |
+| **Yellow dog**   | Mustard.                                  |
+| **Dragon**       | Custard.                                  |
+| **Pirate**       | Intruder and villain.                     |
 
 ## Plot Summary
 
@@ -718,39 +719,39 @@ The pirate appears suddenly and looks dangerous. He has weapons and a threatenin
 
 When danger becomes real:
 
-| Character | Reaction |
-|---|---|
-| **Belinda** | Cries for help. |
+| Character   | Reaction              |
+| ----------- | --------------------- |
+| **Belinda** | Cries for help.       |
 | **Mustard** | Runs away frightened. |
-| **Ink** | Slips away to hide. |
-| **Blink** | Hides cleverly. |
-| **Custard** | Attacks the pirate. |
+| **Ink**     | Slips away to hide.   |
+| **Blink**   | Hides cleverly.       |
+| **Custard** | Attacks the pirate.   |
 
 This reversal is the heart of the poem.
 
 ## Real Courage vs Boasting
 
-| False Bravery | Real Courage |
-|---|---|
-| Loudly claiming to be brave. | Acting when danger arrives. |
+| False Bravery                    | Real Courage                    |
+| -------------------------------- | ------------------------------- |
+| Loudly claiming to be brave.     | Acting when danger arrives.     |
 | Laughing at someone else's fear. | Protecting others despite fear. |
-| Imagining heroic actions. | Facing the actual threat. |
-| Making excuses afterward. | Doing what is needed. |
+| Imagining heroic actions.        | Facing the actual threat.       |
+| Making excuses afterward.        | Doing what is needed.           |
 
 Custard is the real hero because he acts.
 
 ## Poetic Devices
 
-| Device | Example / Explanation |
-|---|---|
-| **Simile** | Comparisons are used to make courage, movement, and attack vivid. |
-| **Repetition** | Repeated phrases about the little house, pets, and Custard create song-like rhythm. |
-| **Alliteration** | Repeated consonant sounds make lines playful and musical. |
-| **Humour** | A fierce dragon wanting a safe cage is comic. |
-| **Parody** | The poem imitates heroic ballads but turns them into playful comedy. |
-| **Imagery** | Teeth, spikes, weapons, and action create strong visual pictures. |
-| **Onomatopoeia-like sound** | Invented and sound-rich words create comic noise and movement. |
-| **Contrast** | Boastful pets hide; timid Custard fights. |
+| Device                      | Example / Explanation                                                               |
+| --------------------------- | ----------------------------------------------------------------------------------- |
+| **Simile**                  | Comparisons are used to make courage, movement, and attack vivid.                   |
+| **Repetition**              | Repeated phrases about the little house, pets, and Custard create song-like rhythm. |
+| **Alliteration**            | Repeated consonant sounds make lines playful and musical.                           |
+| **Humour**                  | A fierce dragon wanting a safe cage is comic.                                       |
+| **Parody**                  | The poem imitates heroic ballads but turns them into playful comedy.                |
+| **Imagery**                 | Teeth, spikes, weapons, and action create strong visual pictures.                   |
+| **Onomatopoeia-like sound** | Invented and sound-rich words create comic noise and movement.                      |
+| **Contrast**                | Boastful pets hide; timid Custard fights.                                           |
 
 ## Rhyme Scheme
 
@@ -758,11 +759,11 @@ Many stanzas follow paired rhymes, commonly close to `aabb`.
 
 Example pattern:
 
-| Line Ending Pattern | Effect |
-|---|---|
-| **1 rhymes with 2** | Creates a quick comic beat. |
-| **3 rhymes with 4** | Completes the stanza neatly. |
-| **Regular rhyme** | Makes the poem easy to read aloud. |
+| Line Ending Pattern | Effect                             |
+| ------------------- | ---------------------------------- |
+| **1 rhymes with 2** | Creates a quick comic beat.        |
+| **3 rhymes with 4** | Completes the stanza neatly.       |
+| **Regular rhyme**   | Makes the poem easy to read aloud. |
 
 Because Ogden Nash often plays with sound, some rhymes are deliberately comic or exaggerated rather than smooth and serious.
 
@@ -795,27 +796,27 @@ However, it also teaches a serious lesson: real courage is proved through action
 
 ## Images in the Poem
 
-| Image | Effect |
-|---|---|
-| Little white house | Creates a simple, storybook setting. |
+| Image                                | Effect                                   |
+| ------------------------------------ | ---------------------------------------- |
+| Little white house                   | Creates a simple, storybook setting.     |
 | Black kitten, grey mouse, yellow dog | Gives visual colour and childlike charm. |
-| Dragon's teeth, spikes, and scales | Makes Custard look fearsome. |
-| Pirate with weapons | Creates danger and adventure. |
-| Pets hiding or fleeing | Creates comedy through reversal. |
-| Dragon attacking | Creates heroic action. |
+| Dragon's teeth, spikes, and scales   | Makes Custard look fearsome.             |
+| Pirate with weapons                  | Creates danger and adventure.            |
+| Pets hiding or fleeing               | Creates comedy through reversal.         |
+| Dragon attacking                     | Creates heroic action.                   |
 
 ## Important Questions and Answers
 
-| Question | Model Answer |
-|---|---|
-| Who are the characters? | Belinda, Ink, Blink, Mustard, Custard, and the pirate. |
-| Why did Custard cry for a safe cage? | He was timid and wanted protection, despite being a dragon. |
-| Why is he called cowardly? | The others judge him by his repeated desire for safety. |
-| Why does Belinda tickle him? | She teases him because he seems cowardly. |
-| What happens when the pirate appears? | The boastful characters panic, while Custard fights and defeats the pirate. |
-| What is the poem's main irony? | The one called cowardly proves to be the bravest. |
-| What is the rhyme scheme of many stanzas? | Paired rhyme, often `aabb`. |
-| Is the poem serious or light-hearted? | Light-hearted, though it carries a serious message about courage. |
+| Question                                  | Model Answer                                                                |
+| ----------------------------------------- | --------------------------------------------------------------------------- |
+| Who are the characters?                   | Belinda, Ink, Blink, Mustard, Custard, and the pirate.                      |
+| Why did Custard cry for a safe cage?      | He was timid and wanted protection, despite being a dragon.                 |
+| Why is he called cowardly?                | The others judge him by his repeated desire for safety.                     |
+| Why does Belinda tickle him?              | She teases him because he seems cowardly.                                   |
+| What happens when the pirate appears?     | The boastful characters panic, while Custard fights and defeats the pirate. |
+| What is the poem's main irony?            | The one called cowardly proves to be the bravest.                           |
+| What is the rhyme scheme of many stanzas? | Paired rhyme, often `aabb`.                                                 |
+| Is the poem serious or light-hearted?     | Light-hearted, though it carries a serious message about courage.           |
 
 ---
 
@@ -834,26 +835,26 @@ A ballad should:
 
 ## Planning a Ballad
 
-| Step | Question |
-|---|---|
-| **Theme** | What is the ballad about? Courage, friendship, mistake, journey, rescue? |
-| **Characters** | Who appears in the story? |
-| **Setting** | Where does the action happen? |
-| **Conflict** | What problem or danger appears? |
-| **Action** | What do the characters do? |
-| **Twist** | Is there a surprise or reversal? |
-| **Ending** | What changes by the end? |
+| Step           | Question                                                                 |
+| -------------- | ------------------------------------------------------------------------ |
+| **Theme**      | What is the ballad about? Courage, friendship, mistake, journey, rescue? |
+| **Characters** | Who appears in the story?                                                |
+| **Setting**    | Where does the action happen?                                            |
+| **Conflict**   | What problem or danger appears?                                          |
+| **Action**     | What do the characters do?                                               |
+| **Twist**      | Is there a surprise or reversal?                                         |
+| **Ending**     | What changes by the end?                                                 |
 
 ## Suggested Structure
 
-| Stanza | Purpose |
-|---|---|
-| **1** | Introduce setting and characters. |
-| **2** | Show habits or claims. |
-| **3** | Introduce danger or conflict. |
-| **4** | Show reactions. |
-| **5** | Show the hero's action. |
-| **6** | End with humour, lesson, or repeated refrain. |
+| Stanza | Purpose                                       |
+| ------ | --------------------------------------------- |
+| **1**  | Introduce setting and characters.             |
+| **2**  | Show habits or claims.                        |
+| **3**  | Introduce danger or conflict.                 |
+| **4**  | Show reactions.                               |
+| **5**  | Show the hero's action.                       |
+| **6**  | End with humour, lesson, or repeated refrain. |
 
 ## Revision Checklist
 
@@ -873,47 +874,47 @@ Before finalising a ballad, check:
 
 ## Prose Facts
 
-| Item | Key Point |
-|---|---|
-| **Main character** | Valli / Valliammai. |
-| **Age** | Eight years. |
-| **Favourite pastime** | Watching the street from the doorway. |
-| **Deepest desire** | Riding the bus. |
-| **Fare** | Thirty paise one way, sixty paise round trip. |
-| **Distance** | Six miles to town. |
-| **Travel time** | Forty-five minutes one way. |
-| **Most joyful sight** | The running cow. |
-| **Most painful sight** | The same cow dead on the roadside. |
-| **Main change** | Valli moves from excitement to a deeper awareness of life and death. |
+| Item                   | Key Point                                                            |
+| ---------------------- | -------------------------------------------------------------------- |
+| **Main character**     | Valli / Valliammai.                                                  |
+| **Age**                | Eight years.                                                         |
+| **Favourite pastime**  | Watching the street from the doorway.                                |
+| **Deepest desire**     | Riding the bus.                                                      |
+| **Fare**               | Thirty paise one way, sixty paise round trip.                        |
+| **Distance**           | Six miles to town.                                                   |
+| **Travel time**        | Forty-five minutes one way.                                          |
+| **Most joyful sight**  | The running cow.                                                     |
+| **Most painful sight** | The same cow dead on the roadside.                                   |
+| **Main change**        | Valli moves from excitement to a deeper awareness of life and death. |
 
 ## Poem Facts
 
-| Item | Key Point |
-|---|---|
-| **Poem** | The Tale of Custard the Dragon |
-| **Poet** | Ogden Nash |
-| **Form** | Humorous ballad |
-| **Hero** | Custard |
-| **Villain** | Pirate |
+| Item           | Key Point                                              |
+| -------------- | ------------------------------------------------------ |
+| **Poem**       | The Tale of Custard the Dragon                         |
+| **Poet**       | Ogden Nash                                             |
+| **Form**       | Humorous ballad                                        |
+| **Hero**       | Custard                                                |
+| **Villain**    | Pirate                                                 |
 | **Main irony** | The "cowardly" dragon is the only brave one in danger. |
-| **Rhyme** | Often paired rhyme, close to `aabb`. |
-| **Tone** | Comic and playful. |
+| **Rhyme**      | Often paired rhyme, close to `aabb`.                   |
+| **Tone**       | Comic and playful.                                     |
 
 ---
 
 # Unit 7K: Common Mistakes and Corrections
 
-| Mistake | Better Understanding |
-|---|---|
+| Mistake                                            | Better Understanding                                                                                       |
+| -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | Thinking the chapter is about "Glimpses of India". | The raw header is wrong; the actual content is "Madam Rides the Bus" and "The Tale of Custard the Dragon". |
-| Saying Valli acts randomly. | She plans carefully by learning fare, timing, and route. |
-| Calling Valli disobedient only. | She is secretive, but also curious, disciplined, brave, and sensitive. |
-| Thinking the bus ride is only joyful. | It includes joy and an encounter with death. |
-| Missing why the dead cow matters. | It changes Valli's understanding of the outside world. |
-| Treating the conductor as mocking cruelly. | His teasing is mostly friendly and affectionate. |
-| Thinking Custard is truly cowardly. | He may desire safety, but he acts bravely in real danger. |
-| Calling the poem a serious heroic ballad only. | It is a humorous ballad and a parody of heroic style. |
-| Forgetting the rhyme scheme. | Many stanzas use paired rhyme, often `aabb`. |
+| Saying Valli acts randomly.                        | She plans carefully by learning fare, timing, and route.                                                   |
+| Calling Valli disobedient only.                    | She is secretive, but also curious, disciplined, brave, and sensitive.                                     |
+| Thinking the bus ride is only joyful.              | It includes joy and an encounter with death.                                                               |
+| Missing why the dead cow matters.                  | It changes Valli's understanding of the outside world.                                                     |
+| Treating the conductor as mocking cruelly.         | His teasing is mostly friendly and affectionate.                                                           |
+| Thinking Custard is truly cowardly.                | He may desire safety, but he acts bravely in real danger.                                                  |
+| Calling the poem a serious heroic ballad only.     | It is a humorous ballad and a parody of heroic style.                                                      |
+| Forgetting the rhyme scheme.                       | Many stanzas use paired rhyme, often `aabb`.                                                               |
 
 ---
 
@@ -1003,4 +1004,4 @@ Before finalising a ballad, check:
 
 ---
 
-*Source: NCERT Class 10 - English First Flight, Chapter 7 raw file. Learner-facing version manually rewritten from the extracted content of "Madam Rides the Bus" and "The Tale of Custard the Dragon".*
+_Source: NCERT Class 10 - English First Flight, Chapter 7 raw file. Learner-facing version manually rewritten from the extracted content of "Madam Rides the Bus" and "The Tale of Custard the Dragon"._

@@ -51,50 +51,50 @@ By the end of this chapter, you should be able to:
 
 ## Big Picture Map
 
-| Movement | Direction | Main Cause | Key Result |
-| --- | --- | --- | --- |
-| Waves | Horizontal wave motion | Wind energy | Energy moves across ocean surface and breaks near shore |
-| Currents | Horizontal flow | Wind, density, gravity, Coriolis force | Water moves in definite paths |
-| Tides | Vertical rise and fall | Moon and sun gravity plus centrifugal force | High tide and low tide |
-| Upwelling | Vertical upward motion | Winds and water displacement | Cold deep water rises |
-| Sinking | Vertical downward motion | Density increase due to cooling/salinity | Surface water descends |
+| Movement  | Direction                | Main Cause                                  | Key Result                                              |
+| --------- | ------------------------ | ------------------------------------------- | ------------------------------------------------------- |
+| Waves     | Horizontal wave motion   | Wind energy                                 | Energy moves across ocean surface and breaks near shore |
+| Currents  | Horizontal flow          | Wind, density, gravity, Coriolis force      | Water moves in definite paths                           |
+| Tides     | Vertical rise and fall   | Moon and sun gravity plus centrifugal force | High tide and low tide                                  |
+| Upwelling | Vertical upward motion   | Winds and water displacement                | Cold deep water rises                                   |
+| Sinking   | Vertical downward motion | Density increase due to cooling/salinity    | Surface water descends                                  |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Wave | Movement of energy across the ocean surface; water particles move mainly in small circles. |
-| Ocean current | Continuous flow of a large amount of ocean water in a definite direction. |
-| Tide | Periodic rise and fall of sea level once or twice a day, mainly due to sun and moon attraction. |
-| Surge | Irregular water movement caused by meteorological effects such as wind and pressure change. |
-| Crest | Highest point of a wave. |
-| Trough | Lowest point of a wave. |
-| Wave height | Vertical distance from trough bottom to crest top. |
-| Wave amplitude | Half of wave height. |
-| Wave period | Time interval between two successive crests or troughs passing a fixed point. |
-| Wavelength | Horizontal distance between two successive crests. |
-| Wave speed | Rate at which a wave moves through water, measured in knots. |
-| Wave frequency | Number of waves passing a fixed point in one second. |
-| Tidal bulge | Rise of ocean water caused by tide-generating forces. |
-| Tide-generating force | Difference between moon's gravitational attraction and centrifugal force. |
-| Tidal current | Current formed when tide is channelled between islands, bays, or estuaries. |
-| Semi-diurnal tide | Tidal pattern with two high tides and two low tides in a day. |
-| Diurnal tide | Tidal pattern with one high tide and one low tide in a day. |
-| Mixed tide | Tide with variation in height between successive high or low tides. |
-| Spring tide | High tidal range when sun, moon, and earth are in a straight line. |
-| Neap tide | Lower tidal range when sun and moon are at right angles to each other. |
-| Perigee | Moon's closest position to earth. |
-| Apogee | Moon's farthest position from earth. |
-| Perihelion | Earth's closest position to sun, around January 3. |
-| Aphelion | Earth's farthest position from sun, around July 4. |
-| Ebb | Time between high tide and low tide when water level is falling. |
-| Flow or flood | Time between low tide and high tide when water level is rising. |
-| Gyre | Large circular ocean-current system. |
-| Drift | Speed of an ocean current, measured in knots. |
-| Surface current | Current in the upper 400 m of ocean water. |
-| Deep-water current | Current below surface layer, driven mainly by density and gravity. |
+| Term                  | Meaning                                                                                         |
+| --------------------- | ----------------------------------------------------------------------------------------------- |
+| Wave                  | Movement of energy across the ocean surface; water particles move mainly in small circles.      |
+| Ocean current         | Continuous flow of a large amount of ocean water in a definite direction.                       |
+| Tide                  | Periodic rise and fall of sea level once or twice a day, mainly due to sun and moon attraction. |
+| Surge                 | Irregular water movement caused by meteorological effects such as wind and pressure change.     |
+| Crest                 | Highest point of a wave.                                                                        |
+| Trough                | Lowest point of a wave.                                                                         |
+| Wave height           | Vertical distance from trough bottom to crest top.                                              |
+| Wave amplitude        | Half of wave height.                                                                            |
+| Wave period           | Time interval between two successive crests or troughs passing a fixed point.                   |
+| Wavelength            | Horizontal distance between two successive crests.                                              |
+| Wave speed            | Rate at which a wave moves through water, measured in knots.                                    |
+| Wave frequency        | Number of waves passing a fixed point in one second.                                            |
+| Tidal bulge           | Rise of ocean water caused by tide-generating forces.                                           |
+| Tide-generating force | Difference between moon's gravitational attraction and centrifugal force.                       |
+| Tidal current         | Current formed when tide is channelled between islands, bays, or estuaries.                     |
+| Semi-diurnal tide     | Tidal pattern with two high tides and two low tides in a day.                                   |
+| Diurnal tide          | Tidal pattern with one high tide and one low tide in a day.                                     |
+| Mixed tide            | Tide with variation in height between successive high or low tides.                             |
+| Spring tide           | High tidal range when sun, moon, and earth are in a straight line.                              |
+| Neap tide             | Lower tidal range when sun and moon are at right angles to each other.                          |
+| Perigee               | Moon's closest position to earth.                                                               |
+| Apogee                | Moon's farthest position from earth.                                                            |
+| Perihelion            | Earth's closest position to sun, around January 3.                                              |
+| Aphelion              | Earth's farthest position from sun, around July 4.                                              |
+| Ebb                   | Time between high tide and low tide when water level is falling.                                |
+| Flow or flood         | Time between low tide and high tide when water level is rising.                                 |
+| Gyre                  | Large circular ocean-current system.                                                            |
+| Drift                 | Speed of an ocean current, measured in knots.                                                   |
+| Surface current       | Current in the upper 400 m of ocean water.                                                      |
+| Deep-water current    | Current below surface layer, driven mainly by density and gravity.                              |
 
 ---
 
@@ -145,12 +145,12 @@ Ocean currents move water from one place to another in definite directions.
 
 ## 1.6 Simple Difference
 
-| Feature | Waves | Currents |
-| --- | --- | --- |
-| What mainly moves | Energy | Water mass |
-| Direction | Across surface as wave trains | Definite path and direction |
-| Main cause | Wind | Wind, density, gravity, Coriolis force |
-| Example | Surf at beach | Gulf Stream |
+| Feature           | Waves                         | Currents                               |
+| ----------------- | ----------------------------- | -------------------------------------- |
+| What mainly moves | Energy                        | Water mass                             |
+| Direction         | Across surface as wave trains | Definite path and direction            |
+| Main cause        | Wind                          | Wind, density, gravity, Coriolis force |
+| Example           | Surf at beach                 | Gulf Stream                            |
 
 ---
 
@@ -283,16 +283,16 @@ Wave frequency is the number of waves passing a fixed point during one second.
 
 ## 4.9 Wave Terms Table
 
-| Term | Meaning |
-| --- | --- |
-| Crest | Highest point |
-| Trough | Lowest point |
-| Height | Crest-to-trough vertical distance |
-| Amplitude | Half of height |
-| Period | Time between successive crests/troughs |
-| Wavelength | Distance between successive crests |
-| Speed | Rate of movement through water |
-| Frequency | Number of waves per second |
+| Term       | Meaning                                |
+| ---------- | -------------------------------------- |
+| Crest      | Highest point                          |
+| Trough     | Lowest point                           |
+| Height     | Crest-to-trough vertical distance      |
+| Amplitude  | Half of height                         |
+| Period     | Time between successive crests/troughs |
+| Wavelength | Distance between successive crests     |
+| Speed      | Rate of movement through water         |
+| Frequency  | Number of waves per second             |
 
 ---
 
@@ -457,11 +457,11 @@ They generally occur:
 
 ## 8.5 Frequency Table
 
-| Tide Type | Daily Pattern | Height Character |
-| --- | --- | --- |
-| Semi-diurnal | Two high, two low | Heights nearly same |
-| Diurnal | One high, one low | Heights nearly same |
-| Mixed | Two or more with variation | Heights vary |
+| Tide Type    | Daily Pattern              | Height Character    |
+| ------------ | -------------------------- | ------------------- |
+| Semi-diurnal | Two high, two low          | Heights nearly same |
+| Diurnal      | One high, one low          | Heights nearly same |
+| Mixed        | Two or more with variation | Heights vary        |
 
 ---
 
@@ -502,12 +502,12 @@ Normally, there is about a seven-day interval between spring tides and neap tide
 
 ## 9.6 Spring vs Neap
 
-| Basis | Spring Tide | Neap Tide |
-| --- | --- | --- |
-| Sun-moon-earth position | Straight line | Right angle |
-| Tide height/range | Higher | Lower |
-| Occurrence | Full moon and new moon | About seven days after spring tide |
-| Force relation | Sun and moon reinforce | Sun and moon partly counteract |
+| Basis                   | Spring Tide            | Neap Tide                          |
+| ----------------------- | ---------------------- | ---------------------------------- |
+| Sun-moon-earth position | Straight line          | Right angle                        |
+| Tide height/range       | Higher                 | Lower                              |
+| Occurrence              | Full moon and new moon | About seven days after spring tide |
+| Force relation          | Sun and moon reinforce | Sun and moon partly counteract     |
 
 ---
 
@@ -773,12 +773,12 @@ They are usually found:
 
 ## 17.3 Warm vs Cold Currents
 
-| Warm Current | Cold Current |
-| --- | --- |
-| Moves warm water poleward | Moves cold water equatorward |
-| Raises coastal temperature | Lowers coastal temperature |
+| Warm Current                           | Cold Current                           |
+| -------------------------------------- | -------------------------------------- |
+| Moves warm water poleward              | Moves cold water equatorward           |
+| Raises coastal temperature             | Lowers coastal temperature             |
 | Often east coasts in low/mid latitudes | Often west coasts in low/mid latitudes |
-| Can increase rainfall | Often linked with fog and aridity |
+| Can increase rainfall                  | Often linked with fog and aridity      |
 
 ---
 
@@ -973,45 +973,45 @@ This supports major fishing grounds.
 
 ## 22.1 Waves vs Tides vs Currents
 
-| Basis | Waves | Tides | Currents |
-| --- | --- | --- | --- |
-| Main type of movement | Energy across surface | Rise and fall of sea level | Water flow in definite direction |
-| Main cause | Wind | Moon and sun gravity | Wind, density, gravity, Coriolis |
-| Regularity | Variable | Predictable | Persistent but variable |
-| Main effect | Surf and coastal energy | High/low water, navigation | Heat transport and climate |
+| Basis                 | Waves                   | Tides                      | Currents                         |
+| --------------------- | ----------------------- | -------------------------- | -------------------------------- |
+| Main type of movement | Energy across surface   | Rise and fall of sea level | Water flow in definite direction |
+| Main cause            | Wind                    | Moon and sun gravity       | Wind, density, gravity, Coriolis |
+| Regularity            | Variable                | Predictable                | Persistent but variable          |
+| Main effect           | Surf and coastal energy | High/low water, navigation | Heat transport and climate       |
 
 ## 22.2 Semi-Diurnal vs Diurnal Tide
 
-| Semi-Diurnal | Diurnal |
-| --- | --- |
+| Semi-Diurnal                           | Diurnal                              |
+| -------------------------------------- | ------------------------------------ |
 | Two high tides and two low tides daily | One high tide and one low tide daily |
-| Most common pattern | Less common |
-| Successive tides roughly same height | Successive tides roughly same height |
+| Most common pattern                    | Less common                          |
+| Successive tides roughly same height   | Successive tides roughly same height |
 
 ## 22.3 Spring vs Neap Tide
 
-| Spring Tide | Neap Tide |
-| --- | --- |
-| Sun, moon, earth in straight line | Sun and moon at right angle |
-| Higher tidal range | Lower tidal range |
-| Full moon and new moon | About seven days after spring tide |
+| Spring Tide                       | Neap Tide                          |
+| --------------------------------- | ---------------------------------- |
+| Sun, moon, earth in straight line | Sun and moon at right angle        |
+| Higher tidal range                | Lower tidal range                  |
+| Full moon and new moon            | About seven days after spring tide |
 
 ## 22.4 Surface vs Deep Currents
 
-| Surface Currents | Deep Currents |
-| --- | --- |
-| Upper 400 m | Below surface layer |
+| Surface Currents                 | Deep Currents                    |
+| -------------------------------- | -------------------------------- |
+| Upper 400 m                      | Below surface layer              |
 | About 10 per cent of ocean water | About 90 per cent of ocean water |
-| Strongly wind-influenced | Density and gravity controlled |
-| Faster | Slower |
+| Strongly wind-influenced         | Density and gravity controlled   |
+| Faster                           | Slower                           |
 
 ## 22.5 Warm vs Cold Currents
 
-| Warm Currents | Cold Currents |
-| --- | --- |
+| Warm Currents                    | Cold Currents                    |
+| -------------------------------- | -------------------------------- |
 | Bring warm water to colder areas | Bring cold water to warmer areas |
-| Raise temperature | Lower temperature |
-| Often make coasts mild/wet | Often create fog/aridity |
+| Raise temperature                | Lower temperature                |
+| Often make coasts mild/wet       | Often create fog/aridity         |
 
 ---
 

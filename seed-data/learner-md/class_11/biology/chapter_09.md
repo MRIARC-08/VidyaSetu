@@ -4,16 +4,16 @@ Class 11 Biology
 
 ## Chapter Profile
 
-| Item | Details |
-|---|---|
-| Class | 11 |
-| Subject | Biology |
-| Chapter | 9 |
-| Title | Biomolecules |
-| Main theme | Chemical composition of living tissues and biological molecules |
-| Main groups | Amino acids, lipids, sugars, nucleotides, proteins, polysaccharides, nucleic acids, enzymes |
-| Core skill | Connect molecular structure with biological function |
-| Learner goal | Understand how small biomolecules and biomacromolecules form the chemical basis of life |
+| Item         | Details                                                                                     |
+| ------------ | ------------------------------------------------------------------------------------------- |
+| Class        | 11                                                                                          |
+| Subject      | Biology                                                                                     |
+| Chapter      | 9                                                                                           |
+| Title        | Biomolecules                                                                                |
+| Main theme   | Chemical composition of living tissues and biological molecules                             |
+| Main groups  | Amino acids, lipids, sugars, nucleotides, proteins, polysaccharides, nucleic acids, enzymes |
+| Core skill   | Connect molecular structure with biological function                                        |
+| Learner goal | Understand how small biomolecules and biomacromolecules form the chemical basis of life     |
 
 ## How To Study This Chapter
 
@@ -48,55 +48,55 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Biomolecule | Chemical compound found in living organisms |
-| Wet weight | Weight of living tissue before drying |
-| Dry weight | Weight after water is removed |
-| Ash | Inorganic residue left after complete burning |
-| Acid-soluble pool | Filtrate obtained after grinding tissue in trichloroacetic acid and straining |
-| Acid-insoluble fraction | Retentate left after straining tissue slurry |
-| Micromolecule | Small biomolecule, usually less than 1000 Da |
-| Biomacromolecule | Large biological molecule, usually above 10000 Da |
-| Metabolite | Chemical involved in metabolism |
-| Primary metabolite | Metabolite with known role in normal physiological processes |
-| Secondary metabolite | Metabolite often found in plants, fungi, or microbes with specialised roles |
-| Amino acid | Organic compound with amino group and carboxyl group on alpha-carbon |
-| Zwitterion | Form of amino acid with both positive and negative charges |
-| Fatty acid | Carboxyl group attached to hydrocarbon chain |
-| Saturated fatty acid | Fatty acid without carbon-carbon double bond |
-| Unsaturated fatty acid | Fatty acid with one or more carbon-carbon double bonds |
-| Triglyceride | Glycerol esterified with three fatty acids |
-| Phospholipid | Lipid with phosphate-containing group |
-| Nucleoside | Nitrogen base plus sugar |
-| Nucleotide | Nitrogen base plus sugar plus phosphate |
-| Polynucleotide | Chain of nucleotides |
-| Polypeptide | Chain of amino acids linked by peptide bonds |
-| Peptide bond | Bond joining amino acids in proteins |
-| Heteropolymer | Polymer made of more than one kind of monomer |
-| Homopolymer | Polymer made of one kind of monomer |
-| Enzyme | Biological catalyst, usually a protein |
-| Ribozyme | RNA molecule with catalytic activity |
-| Active site | Pocket of enzyme where substrate binds |
-| Substrate | Reactant on which enzyme acts |
-| Product | Substance formed after enzyme action |
-| Activation energy | Energy barrier that reactants must cross to form products |
-| Cofactor | Non-protein component required by some enzymes |
-| Apoenzyme | Protein portion of enzyme without cofactor |
+| Term                    | Meaning                                                                       |
+| ----------------------- | ----------------------------------------------------------------------------- |
+| Biomolecule             | Chemical compound found in living organisms                                   |
+| Wet weight              | Weight of living tissue before drying                                         |
+| Dry weight              | Weight after water is removed                                                 |
+| Ash                     | Inorganic residue left after complete burning                                 |
+| Acid-soluble pool       | Filtrate obtained after grinding tissue in trichloroacetic acid and straining |
+| Acid-insoluble fraction | Retentate left after straining tissue slurry                                  |
+| Micromolecule           | Small biomolecule, usually less than 1000 Da                                  |
+| Biomacromolecule        | Large biological molecule, usually above 10000 Da                             |
+| Metabolite              | Chemical involved in metabolism                                               |
+| Primary metabolite      | Metabolite with known role in normal physiological processes                  |
+| Secondary metabolite    | Metabolite often found in plants, fungi, or microbes with specialised roles   |
+| Amino acid              | Organic compound with amino group and carboxyl group on alpha-carbon          |
+| Zwitterion              | Form of amino acid with both positive and negative charges                    |
+| Fatty acid              | Carboxyl group attached to hydrocarbon chain                                  |
+| Saturated fatty acid    | Fatty acid without carbon-carbon double bond                                  |
+| Unsaturated fatty acid  | Fatty acid with one or more carbon-carbon double bonds                        |
+| Triglyceride            | Glycerol esterified with three fatty acids                                    |
+| Phospholipid            | Lipid with phosphate-containing group                                         |
+| Nucleoside              | Nitrogen base plus sugar                                                      |
+| Nucleotide              | Nitrogen base plus sugar plus phosphate                                       |
+| Polynucleotide          | Chain of nucleotides                                                          |
+| Polypeptide             | Chain of amino acids linked by peptide bonds                                  |
+| Peptide bond            | Bond joining amino acids in proteins                                          |
+| Heteropolymer           | Polymer made of more than one kind of monomer                                 |
+| Homopolymer             | Polymer made of one kind of monomer                                           |
+| Enzyme                  | Biological catalyst, usually a protein                                        |
+| Ribozyme                | RNA molecule with catalytic activity                                          |
+| Active site             | Pocket of enzyme where substrate binds                                        |
+| Substrate               | Reactant on which enzyme acts                                                 |
+| Product                 | Substance formed after enzyme action                                          |
+| Activation energy       | Energy barrier that reactants must cross to form products                     |
+| Cofactor                | Non-protein component required by some enzymes                                |
+| Apoenzyme               | Protein portion of enzyme without cofactor                                    |
 
 ## Chapter Map
 
-| Unit | Topic | What To Master |
-|---|---|---|
-| 9.1 | Chemical analysis | Acid-soluble and acid-insoluble fractions |
-| 9.2 | Biomolecules | Organic and inorganic constituents |
-| 9.3 | Primary and secondary metabolites | Roles and examples |
-| 9.4 | Biomacromolecules | Proteins, nucleic acids, polysaccharides, lipids in membrane fraction |
-| 9.5 | Proteins | Amino acids, peptide bonds, functions |
-| 9.6 | Polysaccharides | Cellulose, starch, glycogen, chitin |
-| 9.7 | Nucleic acids | Nucleotides, DNA, RNA |
-| 9.8 | Protein structure | Primary to quaternary levels |
-| 9.9 | Enzymes | Catalysis, factors, classification, cofactors |
+| Unit | Topic                             | What To Master                                                        |
+| ---- | --------------------------------- | --------------------------------------------------------------------- |
+| 9.1  | Chemical analysis                 | Acid-soluble and acid-insoluble fractions                             |
+| 9.2  | Biomolecules                      | Organic and inorganic constituents                                    |
+| 9.3  | Primary and secondary metabolites | Roles and examples                                                    |
+| 9.4  | Biomacromolecules                 | Proteins, nucleic acids, polysaccharides, lipids in membrane fraction |
+| 9.5  | Proteins                          | Amino acids, peptide bonds, functions                                 |
+| 9.6  | Polysaccharides                   | Cellulose, starch, glycogen, chitin                                   |
+| 9.7  | Nucleic acids                     | Nucleotides, DNA, RNA                                                 |
+| 9.8  | Protein structure                 | Primary to quaternary levels                                          |
+| 9.9  | Enzymes                           | Catalysis, factors, classification, cofactors                         |
 
 ## 1. Chemical Composition Of Living Matter
 
@@ -134,10 +134,10 @@ When this slurry is strained through cotton or cheesecloth, two fractions are ob
 
 ## 2.1 Two Fractions
 
-| Fraction | Also Called | What It Contains |
-|---|---|---|
-| Filtrate | Acid-soluble pool | Small organic compounds and inorganic ions |
-| Retentate | Acid-insoluble fraction | Biomacromolecules and membrane fragments |
+| Fraction  | Also Called             | What It Contains                           |
+| --------- | ----------------------- | ------------------------------------------ |
+| Filtrate  | Acid-soluble pool       | Small organic compounds and inorganic ions |
+| Retentate | Acid-insoluble fraction | Biomacromolecules and membrane fragments   |
 
 ## 2.2 Why This Separation Matters
 
@@ -147,11 +147,11 @@ The acid-insoluble fraction contains large molecules such as proteins, nucleic a
 
 ## 2.3 Wet Weight, Dry Weight, And Ash
 
-| Term | Meaning |
-|---|---|
-| Wet weight | Weight of tissue before drying |
-| Dry weight | Weight after water evaporates |
-| Ash | Inorganic residue left after complete burning |
+| Term       | Meaning                                       |
+| ---------- | --------------------------------------------- |
+| Wet weight | Weight of tissue before drying                |
+| Dry weight | Weight after water evaporates                 |
+| Ash        | Inorganic residue left after complete burning |
 
 When tissue is fully burnt:
 
@@ -160,9 +160,9 @@ When tissue is fully burnt:
 
 ## 2.4 Organic And Inorganic Constituents
 
-| Type | Examples |
-|---|---|
-| Organic constituents | Amino acids, sugars, fatty acids, nucleotides, proteins |
+| Type                   | Examples                                                                                        |
+| ---------------------- | ----------------------------------------------------------------------------------------------- |
+| Organic constituents   | Amino acids, sugars, fatty acids, nucleotides, proteins                                         |
 | Inorganic constituents | Water, sodium ions, potassium ions, calcium ions, magnesium ions, chloride, phosphate, sulphate |
 
 ## 3. Small Organic Biomolecules
@@ -212,12 +212,12 @@ Examples:
 
 ## 4.3 Classification Of Amino Acids
 
-| Type | Basis | Example |
-|---|---|---|
-| Acidic amino acid | More acidic groups | Glutamic acid |
-| Basic amino acid | More basic groups | Lysine |
-| Neutral amino acid | Balanced amino and carboxyl groups | Valine |
-| Aromatic amino acid | Aromatic ring in R group | Tyrosine, phenylalanine, tryptophan |
+| Type                | Basis                              | Example                             |
+| ------------------- | ---------------------------------- | ----------------------------------- |
+| Acidic amino acid   | More acidic groups                 | Glutamic acid                       |
+| Basic amino acid    | More basic groups                  | Lysine                              |
+| Neutral amino acid  | Balanced amino and carboxyl groups | Valine                              |
+| Aromatic amino acid | Aromatic ring in R group           | Tyrosine, phenylalanine, tryptophan |
 
 ## 4.4 Zwitterionic Nature
 
@@ -253,9 +253,9 @@ Examples:
 
 ## 5.2 Saturated And Unsaturated Fatty Acids
 
-| Type | Feature |
-|---|---|
-| Saturated fatty acid | No carbon-carbon double bond |
+| Type                   | Feature                                |
+| ---------------------- | -------------------------------------- |
+| Saturated fatty acid   | No carbon-carbon double bond           |
 | Unsaturated fatty acid | One or more carbon-carbon double bonds |
 
 ## 5.3 Glycerol And Glycerides
@@ -290,19 +290,19 @@ Living organisms contain nitrogen bases with heterocyclic rings.
 
 ## 6.1 Nitrogen Bases
 
-| Base | Type |
-|---|---|
-| Adenine | Purine |
-| Guanine | Purine |
+| Base     | Type       |
+| -------- | ---------- |
+| Adenine  | Purine     |
+| Guanine  | Purine     |
 | Cytosine | Pyrimidine |
-| Uracil | Pyrimidine |
-| Thymine | Pyrimidine |
+| Uracil   | Pyrimidine |
+| Thymine  | Pyrimidine |
 
 ## 6.2 Nucleoside And Nucleotide
 
-| Term | Components |
-|---|---|
-| Nucleoside | Nitrogen base plus sugar |
+| Term       | Components                              |
+| ---------- | --------------------------------------- |
+| Nucleoside | Nitrogen base plus sugar                |
 | Nucleotide | Nitrogen base plus sugar plus phosphate |
 
 Examples of nucleosides:
@@ -350,16 +350,16 @@ Their role in the host organism may not always be fully understood, but many are
 
 ## 7.3 Examples Of Secondary Metabolites
 
-| Category | Examples |
-|---|---|
-| Pigments | Carotenoids, anthocyanins |
-| Alkaloids | Morphine, codeine |
-| Terpenoids | Monoterpenes, diterpenes |
-| Essential oils | Lemongrass oil |
-| Toxins | Abrin, ricin |
-| Lectins | Concanavalin A |
-| Drugs | Vinblastine, curcumin |
-| Polymeric substances | Rubber, gums, cellulose |
+| Category             | Examples                  |
+| -------------------- | ------------------------- |
+| Pigments             | Carotenoids, anthocyanins |
+| Alkaloids            | Morphine, codeine         |
+| Terpenoids           | Monoterpenes, diterpenes  |
+| Essential oils       | Lemongrass oil            |
+| Toxins               | Abrin, ricin              |
+| Lectins              | Concanavalin A            |
+| Drugs                | Vinblastine, curcumin     |
+| Polymeric substances | Rubber, gums, cellulose   |
 
 ## 8. Biomacromolecules
 
@@ -403,14 +403,14 @@ Therefore, lipids appear in the macromolecular fraction because of membrane asso
 
 ## 8.4 Average Cell Composition
 
-| Component | Approximate Share Of Cellular Mass |
-|---|---|
-| Water | 70 to 90 percent |
-| Proteins | 10 to 15 percent |
-| Carbohydrates | About 3 percent |
-| Lipids | About 2 percent |
-| Nucleic acids | 5 to 7 percent |
-| Ions | About 1 percent |
+| Component     | Approximate Share Of Cellular Mass |
+| ------------- | ---------------------------------- |
+| Water         | 70 to 90 percent                   |
+| Proteins      | 10 to 15 percent                   |
+| Carbohydrates | About 3 percent                    |
+| Lipids        | About 2 percent                    |
+| Nucleic acids | 5 to 7 percent                     |
+| Ions          | About 1 percent                    |
 
 ## 9. Proteins
 
@@ -428,23 +428,23 @@ Since proteins may contain many of the 20 amino acids in different sequences, th
 
 ## 9.2 Essential And Non-Essential Amino Acids
 
-| Type | Meaning |
-|---|---|
-| Essential amino acids | Must be obtained through diet |
-| Non-essential amino acids | Can be made by the body |
+| Type                      | Meaning                       |
+| ------------------------- | ----------------------------- |
+| Essential amino acids     | Must be obtained through diet |
+| Non-essential amino acids | Can be made by the body       |
 
 Dietary proteins are important because they provide essential amino acids.
 
 ## 9.3 Functions Of Proteins
 
-| Protein | Function |
-|---|---|
-| Collagen | Intercellular ground substance |
-| Trypsin | Enzyme |
-| Insulin | Hormone |
-| Antibody | Defence against infectious agents |
+| Protein  | Function                                                    |
+| -------- | ----------------------------------------------------------- |
+| Collagen | Intercellular ground substance                              |
+| Trypsin  | Enzyme                                                      |
+| Insulin  | Hormone                                                     |
+| Antibody | Defence against infectious agents                           |
 | Receptor | Sensory reception such as smell, taste, or hormone response |
-| GLUT-4 | Enables glucose transport into cells |
+| GLUT-4   | Enables glucose transport into cells                        |
 
 Collagen is the most abundant protein in the animal world.
 
@@ -458,13 +458,13 @@ They are carbohydrates found in the acid-insoluble fraction.
 
 ## 10.1 Important Polysaccharides
 
-| Polysaccharide | Building Block | Function Or Occurrence |
-|---|---|---|
-| Cellulose | Glucose | Plant cell wall |
-| Starch | Glucose | Storage form in plants |
-| Glycogen | Glucose | Storage form in animals |
-| Inulin | Fructose | Plant storage polysaccharide |
-| Chitin | Amino-sugars and modified sugars | Arthropod exoskeleton |
+| Polysaccharide | Building Block                   | Function Or Occurrence       |
+| -------------- | -------------------------------- | ---------------------------- |
+| Cellulose      | Glucose                          | Plant cell wall              |
+| Starch         | Glucose                          | Storage form in plants       |
+| Glycogen       | Glucose                          | Storage form in animals      |
+| Inulin         | Fructose                         | Plant storage polysaccharide |
+| Chitin         | Amino-sugars and modified sugars | Arthropod exoskeleton        |
 
 ## 10.2 Cellulose
 
@@ -504,10 +504,10 @@ Each nucleotide has:
 
 ## 11.2 DNA And RNA
 
-| Nucleic Acid | Sugar | Full Name |
-|---|---|---|
-| DNA | Deoxyribose | Deoxyribonucleic acid |
-| RNA | Ribose | Ribonucleic acid |
+| Nucleic Acid | Sugar       | Full Name             |
+| ------------ | ----------- | --------------------- |
+| DNA          | Deoxyribose | Deoxyribonucleic acid |
+| RNA          | Ribose      | Ribonucleic acid      |
 
 DNA and RNA function as genetic material or participate in genetic processes.
 
@@ -550,12 +550,12 @@ Example: adult human haemoglobin has four subunits, two alpha-type and two beta-
 
 ## 12.5 Protein Structure Summary
 
-| Level | Meaning |
-|---|---|
-| Primary | Amino acid sequence |
-| Secondary | Local folding such as helix or sheet |
-| Tertiary | Overall 3D structure of one polypeptide |
-| Quaternary | Arrangement of multiple subunits |
+| Level      | Meaning                                 |
+| ---------- | --------------------------------------- |
+| Primary    | Amino acid sequence                     |
+| Secondary  | Local folding such as helix or sheet    |
+| Tertiary   | Overall 3D structure of one polypeptide |
+| Quaternary | Arrangement of multiple subunits        |
 
 ## 13. Enzymes
 
@@ -629,11 +629,11 @@ Glucose -> 2 pyruvic acid
 
 In different conditions, the same broad pathway may produce different end products:
 
-| Condition | Product |
-|---|---|
-| Aerobic condition | Pyruvic acid proceeds into aerobic respiration |
-| Anaerobic skeletal muscle | Lactic acid |
-| Yeast fermentation | Ethanol |
+| Condition                 | Product                                        |
+| ------------------------- | ---------------------------------------------- |
+| Aerobic condition         | Pyruvic acid proceeds into aerobic respiration |
+| Anaerobic skeletal muscle | Lactic acid                                    |
+| Yeast fermentation        | Ethanol                                        |
 
 ## 15. How Enzymes Increase Reaction Rate
 
@@ -744,14 +744,14 @@ Enzymes are classified according to the type of reaction they catalyse.
 
 ## 18.1 Major Classes Of Enzymes
 
-| Class | Reaction Type |
-|---|---|
-| Oxidoreductases or dehydrogenases | Oxidation-reduction reactions |
-| Transferases | Transfer of a group other than hydrogen |
-| Hydrolases | Hydrolysis of bonds |
-| Lyases | Removal of groups without hydrolysis, often forming double bonds |
-| Isomerases | Interconversion of isomers |
-| Ligases | Joining of two compounds using energy |
+| Class                             | Reaction Type                                                    |
+| --------------------------------- | ---------------------------------------------------------------- |
+| Oxidoreductases or dehydrogenases | Oxidation-reduction reactions                                    |
+| Transferases                      | Transfer of a group other than hydrogen                          |
+| Hydrolases                        | Hydrolysis of bonds                                              |
+| Lyases                            | Removal of groups without hydrolysis, often forming double bonds |
+| Isomerases                        | Interconversion of isomers                                       |
+| Ligases                           | Joining of two compounds using energy                            |
 
 ## 19. Cofactors
 
@@ -763,11 +763,11 @@ The complete active enzyme requires the cofactor.
 
 ## 19.1 Types Of Cofactors
 
-| Type | Nature | Binding | Example |
-|---|---|---|---|
-| Prosthetic group | Organic compound | Tightly bound | Haem in peroxidase and catalase |
-| Coenzyme | Organic compound | Transient association | NAD and NADP |
-| Metal ion | Inorganic ion | Coordinates with enzyme and substrate | Zinc in carboxypeptidase |
+| Type             | Nature           | Binding                               | Example                         |
+| ---------------- | ---------------- | ------------------------------------- | ------------------------------- |
+| Prosthetic group | Organic compound | Tightly bound                         | Haem in peroxidase and catalase |
+| Coenzyme         | Organic compound | Transient association                 | NAD and NADP                    |
+| Metal ion        | Inorganic ion    | Coordinates with enzyme and substrate | Zinc in carboxypeptidase        |
 
 ## 19.2 Importance Of Cofactors
 
@@ -781,51 +781,51 @@ Many coenzymes contain vitamins. For example, NAD and NADP contain niacin.
 
 ## 20.1 Micromolecules Versus Macromolecules
 
-| Feature | Micromolecules | Macromolecules |
-|---|---|---|
-| Molecular weight | Usually below 1000 Da | Usually above 10000 Da |
-| Fraction | Acid-soluble pool | Acid-insoluble fraction |
-| Polymer nature | Usually not polymers | Mostly polymers |
-| Examples | Amino acids, sugars, nucleotides | Proteins, nucleic acids, polysaccharides |
+| Feature          | Micromolecules                   | Macromolecules                           |
+| ---------------- | -------------------------------- | ---------------------------------------- |
+| Molecular weight | Usually below 1000 Da            | Usually above 10000 Da                   |
+| Fraction         | Acid-soluble pool                | Acid-insoluble fraction                  |
+| Polymer nature   | Usually not polymers             | Mostly polymers                          |
+| Examples         | Amino acids, sugars, nucleotides | Proteins, nucleic acids, polysaccharides |
 
 ## 20.2 Primary Versus Secondary Metabolites
 
-| Feature | Primary Metabolites | Secondary Metabolites |
-|---|---|---|
-| Role | Known normal physiological roles | Specialised roles, not always fully known |
-| Occurrence | Common in living cells | Common in plants, fungi, microbes |
-| Examples | Amino acids, sugars, nucleotides | Alkaloids, pigments, rubber, essential oils |
-| Human use | Nutrition and metabolism | Drugs, spices, scents, pigments, rubber |
+| Feature    | Primary Metabolites              | Secondary Metabolites                       |
+| ---------- | -------------------------------- | ------------------------------------------- |
+| Role       | Known normal physiological roles | Specialised roles, not always fully known   |
+| Occurrence | Common in living cells           | Common in plants, fungi, microbes           |
+| Examples   | Amino acids, sugars, nucleotides | Alkaloids, pigments, rubber, essential oils |
+| Human use  | Nutrition and metabolism         | Drugs, spices, scents, pigments, rubber     |
 
 ## 20.3 DNA Versus RNA
 
-| Feature | DNA | RNA |
-|---|---|---|
-| Sugar | Deoxyribose | Ribose |
-| Bases | A, G, C, T | A, G, C, U |
+| Feature   | DNA              | RNA                          |
+| --------- | ---------------- | ---------------------------- |
+| Sugar     | Deoxyribose      | Ribose                       |
+| Bases     | A, G, C, T       | A, G, C, U                   |
 | Main role | Genetic material | Genetic and functional roles |
-| Polymer | Polynucleotide | Polynucleotide |
+| Polymer   | Polynucleotide   | Polynucleotide               |
 
 ## 20.4 Prosthetic Group Versus Coenzyme
 
-| Feature | Prosthetic Group | Coenzyme |
-|---|---|---|
-| Nature | Organic compound | Organic compound |
-| Binding | Tightly bound | Transiently associated |
-| Example | Haem | NAD, NADP |
+| Feature | Prosthetic Group | Coenzyme               |
+| ------- | ---------------- | ---------------------- |
+| Nature  | Organic compound | Organic compound       |
+| Binding | Tightly bound    | Transiently associated |
+| Example | Haem             | NAD, NADP              |
 
 ## 21. Common Learner Mistakes
 
-| Mistake | Correction |
-|---|---|
-| Calling all acid-insoluble molecules true macromolecules | Lipids are in that fraction due to membrane association, not polymeric size |
-| Confusing nucleoside and nucleotide | Nucleoside lacks phosphate; nucleotide has phosphate |
-| Saying all proteins are enzymes | Many enzymes are proteins, but proteins also act as hormones, receptors, antibodies, and structural molecules |
-| Forgetting RuBisCO | RuBisCO is the most abundant protein in the biosphere |
-| Calling cellulose a heteropolymer | Cellulose is a homopolymer of glucose |
-| Saying starch and cellulose both give iodine blue colour | Starch does; cellulose does not |
-| Thinking enzymes change reaction equilibrium by being used up | Enzymes lower activation energy and are released unchanged |
-| Confusing coenzyme and apoenzyme | Apoenzyme is protein part; coenzyme is non-protein cofactor |
+| Mistake                                                       | Correction                                                                                                    |
+| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Calling all acid-insoluble molecules true macromolecules      | Lipids are in that fraction due to membrane association, not polymeric size                                   |
+| Confusing nucleoside and nucleotide                           | Nucleoside lacks phosphate; nucleotide has phosphate                                                          |
+| Saying all proteins are enzymes                               | Many enzymes are proteins, but proteins also act as hormones, receptors, antibodies, and structural molecules |
+| Forgetting RuBisCO                                            | RuBisCO is the most abundant protein in the biosphere                                                         |
+| Calling cellulose a heteropolymer                             | Cellulose is a homopolymer of glucose                                                                         |
+| Saying starch and cellulose both give iodine blue colour      | Starch does; cellulose does not                                                                               |
+| Thinking enzymes change reaction equilibrium by being used up | Enzymes lower activation energy and are released unchanged                                                    |
+| Confusing coenzyme and apoenzyme                              | Apoenzyme is protein part; coenzyme is non-protein cofactor                                                   |
 
 ## 22. Exercise Answers
 
@@ -855,18 +855,18 @@ Tertiary structure is essential for many biological activities of proteins becau
 
 Representative small biomolecules include:
 
-| Biomolecule | Category | Example Use Or Importance |
-|---|---|---|
-| Glycine | Amino acid | Protein building block |
-| Alanine | Amino acid | Protein building block |
-| Serine | Amino acid | Protein building block with hydroxyl group |
-| Glucose | Sugar | Cellular energy substrate |
-| Ribose | Sugar | RNA component |
-| Palmitic acid | Fatty acid | Lipid component |
-| Glycerol | Alcohol | Backbone of fats |
-| Adenine | Nitrogen base | DNA, RNA, ATP |
-| Uracil | Nitrogen base | RNA |
-| Adenylic acid | Nucleotide | Nucleic acid building block |
+| Biomolecule   | Category      | Example Use Or Importance                  |
+| ------------- | ------------- | ------------------------------------------ |
+| Glycine       | Amino acid    | Protein building block                     |
+| Alanine       | Amino acid    | Protein building block                     |
+| Serine        | Amino acid    | Protein building block with hydroxyl group |
+| Glucose       | Sugar         | Cellular energy substrate                  |
+| Ribose        | Sugar         | RNA component                              |
+| Palmitic acid | Fatty acid    | Lipid component                            |
+| Glycerol      | Alcohol       | Backbone of fats                           |
+| Adenine       | Nitrogen base | DNA, RNA, ATP                              |
+| Uracil        | Nitrogen base | RNA                                        |
+| Adenylic acid | Nucleotide    | Nucleic acid building block                |
 
 Many such compounds are manufactured or purified industrially. Buyers include pharmaceutical companies, food industries, research laboratories, diagnostic companies, cosmetics industries, and biotechnology companies.
 
@@ -944,13 +944,13 @@ Fevicol is different from natural gums. It is a synthetic adhesive mainly based 
 
 Common qualitative tests:
 
-| Substance | Test | Positive Indication |
-|---|---|---|
-| Proteins | Biuret test | Violet colour |
-| Amino acids | Ninhydrin test | Purple or blue colour |
-| Fats and oils | Sudan dye test | Red-stained oily layer |
-| Fats and oils | Grease spot test | Translucent spot on paper |
-| Reducing sugars | Benedict's test | Green, yellow, orange, or red precipitate depending on amount |
+| Substance       | Test             | Positive Indication                                           |
+| --------------- | ---------------- | ------------------------------------------------------------- |
+| Proteins        | Biuret test      | Violet colour                                                 |
+| Amino acids     | Ninhydrin test   | Purple or blue colour                                         |
+| Fats and oils   | Sudan dye test   | Red-stained oily layer                                        |
+| Fats and oils   | Grease spot test | Translucent spot on paper                                     |
+| Reducing sugars | Benedict's test  | Green, yellow, orange, or red precipitate depending on amount |
 
 Samples such as fruit juice, saliva, sweat, and urine can be tested only with proper lab supervision, clean handling, and safe disposal.
 
@@ -1050,32 +1050,32 @@ At high substrate concentration, all enzyme active sites become occupied. Once e
 
 ## 25. Rapid Revision Sheet
 
-| Topic | One-Line Revision |
-|---|---|
-| Biomolecules | Chemicals found in living organisms |
-| Acid-soluble pool | Small molecules in filtrate |
-| Acid-insoluble fraction | Macromolecules and membrane fragments |
-| Water | Most abundant chemical in living cells |
-| Amino acid | Amino group, carboxyl group, H, R on alpha-carbon |
-| Lipid | Water-insoluble biomolecule |
-| Triglyceride | Glycerol plus three fatty acids |
-| Nucleoside | Base plus sugar |
-| Nucleotide | Base plus sugar plus phosphate |
-| Protein | Polypeptide heteropolymer |
-| Cellulose | Glucose homopolymer |
-| Starch | Plant storage polysaccharide |
-| Glycogen | Animal storage polysaccharide |
-| DNA | Deoxyribose nucleic acid |
-| RNA | Ribose nucleic acid |
-| Enzyme | Biological catalyst |
-| Active site | Substrate-binding pocket |
-| Activation energy | Energy barrier lowered by enzyme |
-| Vmax | Maximum enzyme reaction velocity |
-| Cofactor | Non-protein helper for enzyme |
+| Topic                   | One-Line Revision                                 |
+| ----------------------- | ------------------------------------------------- |
+| Biomolecules            | Chemicals found in living organisms               |
+| Acid-soluble pool       | Small molecules in filtrate                       |
+| Acid-insoluble fraction | Macromolecules and membrane fragments             |
+| Water                   | Most abundant chemical in living cells            |
+| Amino acid              | Amino group, carboxyl group, H, R on alpha-carbon |
+| Lipid                   | Water-insoluble biomolecule                       |
+| Triglyceride            | Glycerol plus three fatty acids                   |
+| Nucleoside              | Base plus sugar                                   |
+| Nucleotide              | Base plus sugar plus phosphate                    |
+| Protein                 | Polypeptide heteropolymer                         |
+| Cellulose               | Glucose homopolymer                               |
+| Starch                  | Plant storage polysaccharide                      |
+| Glycogen                | Animal storage polysaccharide                     |
+| DNA                     | Deoxyribose nucleic acid                          |
+| RNA                     | Ribose nucleic acid                               |
+| Enzyme                  | Biological catalyst                               |
+| Active site             | Substrate-binding pocket                          |
+| Activation energy       | Energy barrier lowered by enzyme                  |
+| Vmax                    | Maximum enzyme reaction velocity                  |
+| Cofactor                | Non-protein helper for enzyme                     |
 
 ## 26. Raw File Reference
 
-| Item | Path |
-|---|---|
-| Raw input | `data/class_11/biology/chapter_09.md` |
+| Item             | Path                                             |
+| ---------------- | ------------------------------------------------ |
+| Raw input        | `data/class_11/biology/chapter_09.md`            |
 | Formatted output | `data_learner_md/class_11/biology/chapter_09.md` |

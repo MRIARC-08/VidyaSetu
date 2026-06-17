@@ -1,4 +1,5 @@
 # Chapter 1: Introduction to Macroeconomics
+
 ### NCERT Class 12 - Economics Macro
 
 ## Chapter at a Glance
@@ -23,29 +24,29 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Macroeconomics | Study of economy-wide aggregates. |
-| Aggregate | Economy-wide total, such as total output or total consumption. |
-| National income | Money value of final goods and services produced by residents during a period. |
-| Employment | Use of labour resources in production. |
-| Inflation | Sustained rise in general price level. |
-| Aggregate demand | Total planned spending in the economy. |
-| Aggregate supply | Total output available in the economy. |
-| Circular flow | Flow of income, output, and expenditure among sectors. |
-| Stock variable | Variable measured at a point of time. |
-| Flow variable | Variable measured over a period of time. |
+| Term             | Meaning                                                                        |
+| ---------------- | ------------------------------------------------------------------------------ |
+| Macroeconomics   | Study of economy-wide aggregates.                                              |
+| Aggregate        | Economy-wide total, such as total output or total consumption.                 |
+| National income  | Money value of final goods and services produced by residents during a period. |
+| Employment       | Use of labour resources in production.                                         |
+| Inflation        | Sustained rise in general price level.                                         |
+| Aggregate demand | Total planned spending in the economy.                                         |
+| Aggregate supply | Total output available in the economy.                                         |
+| Circular flow    | Flow of income, output, and expenditure among sectors.                         |
+| Stock variable   | Variable measured at a point of time.                                          |
+| Flow variable    | Variable measured over a period of time.                                       |
 
 ## Quick Learning Map
 
-| Question | Macroeconomic focus |
-|---|---|
-| How much does the economy produce? | National income and output |
-| Are workers employed? | Employment and unemployment |
-| Are prices stable? | Inflation |
-| How does money affect spending? | Money and banking |
-| How does government influence economy? | Budget and fiscal policy |
-| How does foreign trade matter? | Open economy |
+| Question                               | Macroeconomic focus         |
+| -------------------------------------- | --------------------------- |
+| How much does the economy produce?     | National income and output  |
+| Are workers employed?                  | Employment and unemployment |
+| Are prices stable?                     | Inflation                   |
+| How does money affect spending?        | Money and banking           |
+| How does government influence economy? | Budget and fiscal policy    |
+| How does foreign trade matter?         | Open economy                |
 
 # Unit 1A: Meaning of Macroeconomics
 
@@ -66,13 +67,13 @@ Macroeconomics does not ignore individuals completely. Rather, it groups individ
 
 # Unit 1B: Microeconomics vs Macroeconomics
 
-| Basis | Microeconomics | Macroeconomics |
-|---|---|---|
-| Unit of study | Individual consumer, firm, market | Economy as a whole |
-| Main variables | Price and quantity of one good | Output, income, employment, price level |
-| Key question | How is price of a commodity determined? | How is national income determined? |
-| Method | Partial equilibrium often | Aggregate analysis |
-| Example | Demand for wheat | Total demand in economy |
+| Basis          | Microeconomics                          | Macroeconomics                          |
+| -------------- | --------------------------------------- | --------------------------------------- |
+| Unit of study  | Individual consumer, firm, market       | Economy as a whole                      |
+| Main variables | Price and quantity of one good          | Output, income, employment, price level |
+| Key question   | How is price of a commodity determined? | How is national income determined?      |
+| Method         | Partial equilibrium often               | Aggregate analysis                      |
+| Example        | Demand for wheat                        | Total demand in economy                 |
 
 Both branches are connected. The aggregate economy is built from individual decisions, but aggregate outcomes can behave differently from individual outcomes.
 
@@ -176,11 +177,11 @@ Examples:
 
 ## Comparison
 
-| Basis | Stock | Flow |
-|---|---|---|
-| Time reference | Point of time | Period of time |
-| Example | Wealth | Income |
-| Measurement | At a date | Per hour, month, or year |
+| Basis          | Stock         | Flow                     |
+| -------------- | ------------- | ------------------------ |
+| Time reference | Point of time | Period of time           |
+| Example        | Wealth        | Income                   |
+| Measurement    | At a date     | Per hour, month, or year |
 
 # Unit 1H: Major Macroeconomic Concerns
 
@@ -228,13 +229,13 @@ For circular flow:
 
 # Unit 1K: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Saying macroeconomics is just large-scale microeconomics | Aggregates can behave differently from individual units. |
-| Confusing income and wealth | Income is flow; wealth is stock. |
-| Counting intermediate goods in national output | Use final goods or value added to avoid double counting. |
-| Ignoring government and foreign sector | Advanced circular flow includes both. |
-| Treating saving only as good for economy | Excess saving can reduce aggregate demand in Keynesian analysis. |
+| Mistake                                                  | Correction                                                       |
+| -------------------------------------------------------- | ---------------------------------------------------------------- |
+| Saying macroeconomics is just large-scale microeconomics | Aggregates can behave differently from individual units.         |
+| Confusing income and wealth                              | Income is flow; wealth is stock.                                 |
+| Counting intermediate goods in national output           | Use final goods or value added to avoid double counting.         |
+| Ignoring government and foreign sector                   | Advanced circular flow includes both.                            |
+| Treating saving only as good for economy                 | Excess saving can reduce aggregate demand in Keynesian analysis. |
 
 ## Practice Set
 

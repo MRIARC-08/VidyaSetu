@@ -20,17 +20,17 @@ The central point is that democracy does not automatically remove inequality. In
 
 ## Key Terms
 
-| Term | Meaning | Why it matters |
-|---|---|---|
-| Constitution | Basic legal and political framework of a country | It provides the foundation for law, rights, institutions, and social justice |
-| Social justice | Fairness in social arrangements, especially for disadvantaged groups | It is a guiding ideal of the Indian Constitution |
-| Fundamental Rights | Rights guaranteed by the Constitution and enforceable by courts | They protect life, liberty, equality, expression, and other basic freedoms |
-| Directive Principles | Constitutional guidelines for state policy | They express social and economic goals such as welfare and equality |
-| Panchayati raj | System of elected local self-government in rural India | It brings democracy closer to village-level citizens |
-| Gram Sabha | General body of all adult citizens in a village | It is the base of village democracy |
-| Pressure group | Organisation that tries to influence government policy without directly seeking power | Trade unions, business groups, and farmers' groups may act this way |
-| Interest group | Group organised around a specific interest in the political arena | It tries to protect or advance its members' concerns |
-| Political party | Organisation seeking legitimate control of government through elections | Parties are central actors in representative democracy |
+| Term                 | Meaning                                                                               | Why it matters                                                               |
+| -------------------- | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| Constitution         | Basic legal and political framework of a country                                      | It provides the foundation for law, rights, institutions, and social justice |
+| Social justice       | Fairness in social arrangements, especially for disadvantaged groups                  | It is a guiding ideal of the Indian Constitution                             |
+| Fundamental Rights   | Rights guaranteed by the Constitution and enforceable by courts                       | They protect life, liberty, equality, expression, and other basic freedoms   |
+| Directive Principles | Constitutional guidelines for state policy                                            | They express social and economic goals such as welfare and equality          |
+| Panchayati raj       | System of elected local self-government in rural India                                | It brings democracy closer to village-level citizens                         |
+| Gram Sabha           | General body of all adult citizens in a village                                       | It is the base of village democracy                                          |
+| Pressure group       | Organisation that tries to influence government policy without directly seeking power | Trade unions, business groups, and farmers' groups may act this way          |
+| Interest group       | Group organised around a specific interest in the political arena                     | It tries to protect or advance its members' concerns                         |
+| Political party      | Organisation seeking legitimate control of government through elections               | Parties are central actors in representative democracy                       |
 
 ## 1. Constitution And Social Change
 
@@ -171,11 +171,11 @@ In principle, the Gram Sabha is the most direct expression of democracy. In prac
 
 The structure is usually like a pyramid.
 
-| Level | Unit | Main role |
-|---|---|---|
-| Village level | Gram Panchayat and Gram Sabha | Local works, welfare, village decisions |
-| Block level | Panchayat Samiti or intermediate body | Coordination among villages, development planning |
-| District level | Zilla Parishad | District planning, resource allocation, coordination |
+| Level          | Unit                                  | Main role                                            |
+| -------------- | ------------------------------------- | ---------------------------------------------------- |
+| Village level  | Gram Panchayat and Gram Sabha         | Local works, welfare, village decisions              |
+| Block level    | Panchayat Samiti or intermediate body | Coordination among villages, development planning    |
+| District level | Zilla Parishad                        | District planning, resource allocation, coordination |
 
 The exact names may differ across states, but the broad structure is similar.
 
@@ -447,4 +447,3 @@ Political parties are organisations that seek to gain legitimate control of gove
 - Political parties seek government power.
 - Pressure groups and interest groups influence policy.
 - Democracy is a field of social struggle as well as a system of elections.
-

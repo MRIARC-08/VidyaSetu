@@ -39,47 +39,47 @@ By the end of this chapter, you should be able to:
 
 ## Big Picture Map
 
-| Theme | Core Idea | Examples |
-| --- | --- | --- |
-| Drainage | Flow of water through defined channels | Rivers, nalas, streams |
-| Drainage system | Network of channels | Ganga system, Indus system |
-| Drainage basin | Area drained by a river and tributaries | Ganga basin |
-| Watershed | Boundary or smaller drainage unit | Ridge between basins |
-| Drainage pattern | Arrangement of streams | Dendritic, radial, trellis, centripetal |
-| Himalayan drainage | Perennial, snow-fed and rain-fed | Indus, Ganga, Brahmaputra |
-| Peninsular drainage | Older, more fixed, mostly rain-fed | Mahanadi, Godavari, Krishna, Kaveri |
-| River regime | Seasonal pattern of river flow | Monsoon peak, dry-season low flow |
-| Water management | Use and regulation of river water | Canals, river linking, pollution control |
+| Theme               | Core Idea                               | Examples                                 |
+| ------------------- | --------------------------------------- | ---------------------------------------- |
+| Drainage            | Flow of water through defined channels  | Rivers, nalas, streams                   |
+| Drainage system     | Network of channels                     | Ganga system, Indus system               |
+| Drainage basin      | Area drained by a river and tributaries | Ganga basin                              |
+| Watershed           | Boundary or smaller drainage unit       | Ridge between basins                     |
+| Drainage pattern    | Arrangement of streams                  | Dendritic, radial, trellis, centripetal  |
+| Himalayan drainage  | Perennial, snow-fed and rain-fed        | Indus, Ganga, Brahmaputra                |
+| Peninsular drainage | Older, more fixed, mostly rain-fed      | Mahanadi, Godavari, Krishna, Kaveri      |
+| River regime        | Seasonal pattern of river flow          | Monsoon peak, dry-season low flow        |
+| Water management    | Use and regulation of river water       | Canals, river linking, pollution control |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Drainage | Flow of water through well-defined channels. |
-| Drainage system | Network of river channels in an area. |
-| Drainage pattern | Arrangement of streams in a drainage system. |
-| Catchment area | Area from which a river collects water. |
-| Drainage basin | Area drained by a river and its tributaries. |
-| River basin | Large drainage basin of a major river. |
-| Watershed | Boundary separating one drainage basin from another; also used for small drainage units. |
-| Water divide | High land or ridge separating two drainage systems. |
-| Perennial river | River carrying water throughout the year. |
-| Ephemeral river | River carrying water mainly during rainy season. |
-| Dendritic pattern | Tree-branch-like drainage pattern. |
-| Radial pattern | Rivers flowing outward in all directions from a highland. |
-| Trellis pattern | Parallel main tributaries joined by smaller streams at near right angles. |
-| Centripetal pattern | Rivers flowing inward into a lake or depression. |
-| River regime | Seasonal pattern of flow in a river over a year. |
-| Discharge | Volume of water flowing through a river channel per unit time. |
-| Cusec | Cubic feet per second. |
-| Cumec | Cubic metres per second. |
-| Delta | Depositional landform at a river mouth with distributaries. |
-| Estuary | Funnel-shaped river mouth where river meets the sea, often without a large delta. |
-| Antecedent river | River that maintains its course despite uplift of land. |
-| Inter-basin transfer | Transfer of water from one river basin to another. |
-| Thalweg | Deepest line or channel of a river valley. |
+| Term                 | Meaning                                                                                  |
+| -------------------- | ---------------------------------------------------------------------------------------- |
+| Drainage             | Flow of water through well-defined channels.                                             |
+| Drainage system      | Network of river channels in an area.                                                    |
+| Drainage pattern     | Arrangement of streams in a drainage system.                                             |
+| Catchment area       | Area from which a river collects water.                                                  |
+| Drainage basin       | Area drained by a river and its tributaries.                                             |
+| River basin          | Large drainage basin of a major river.                                                   |
+| Watershed            | Boundary separating one drainage basin from another; also used for small drainage units. |
+| Water divide         | High land or ridge separating two drainage systems.                                      |
+| Perennial river      | River carrying water throughout the year.                                                |
+| Ephemeral river      | River carrying water mainly during rainy season.                                         |
+| Dendritic pattern    | Tree-branch-like drainage pattern.                                                       |
+| Radial pattern       | Rivers flowing outward in all directions from a highland.                                |
+| Trellis pattern      | Parallel main tributaries joined by smaller streams at near right angles.                |
+| Centripetal pattern  | Rivers flowing inward into a lake or depression.                                         |
+| River regime         | Seasonal pattern of flow in a river over a year.                                         |
+| Discharge            | Volume of water flowing through a river channel per unit time.                           |
+| Cusec                | Cubic feet per second.                                                                   |
+| Cumec                | Cubic metres per second.                                                                 |
+| Delta                | Depositional landform at a river mouth with distributaries.                              |
+| Estuary              | Funnel-shaped river mouth where river meets the sea, often without a large delta.        |
+| Antecedent river     | River that maintains its course despite uplift of land.                                  |
+| Inter-basin transfer | Transfer of water from one river basin to another.                                       |
+| Thalweg              | Deepest line or channel of a river valley.                                               |
 
 ---
 
@@ -209,12 +209,12 @@ The term watershed is also used for smaller drainage units.
 
 ## 3.5 Basin Versus Watershed
 
-| Basis | River Basin | Watershed |
-| --- | --- | --- |
-| Size | Larger area | Smaller area or boundary unit |
-| Example | Ganga Basin | Local catchment divided by a ridge |
-| Planning level | Macro or meso level | Micro level |
-| Meaning | Area drained by a river and tributaries | Divide or smaller drainage unit |
+| Basis          | River Basin                             | Watershed                          |
+| -------------- | --------------------------------------- | ---------------------------------- |
+| Size           | Larger area                             | Smaller area or boundary unit      |
+| Example        | Ganga Basin                             | Local catchment divided by a ridge |
+| Planning level | Macro or meso level                     | Micro level                        |
+| Meaning        | Area drained by a river and tributaries | Divide or smaller drainage unit    |
 
 ## 3.6 Unity Of Basin
 
@@ -452,13 +452,13 @@ The Indus, also called Sindhu, is the westernmost Himalayan river in India.
 
 It is one of the world's large river basins.
 
-| Feature | Detail |
-| --- | --- |
-| Total basin area | About 11,65,000 sq km |
-| Basin area in India | About 3,21,289 sq km |
-| Total length | About 2,880 km |
-| Length in India | About 1,114 km |
-| Outlet | Arabian Sea east of Karachi |
+| Feature             | Detail                      |
+| ------------------- | --------------------------- |
+| Total basin area    | About 11,65,000 sq km       |
+| Basin area in India | About 3,21,289 sq km        |
+| Total length        | About 2,880 km              |
+| Length in India     | About 1,114 km              |
+| Outlet              | Arabian Sea east of Karachi |
 
 ## 10.2 Source
 
@@ -622,12 +622,12 @@ The Alaknanda originates from the Satopanth glacier above Badrinath.
 
 Important confluences:
 
-| Confluence | Rivers |
-| --- | --- |
+| Confluence   | Rivers                                              |
+| ------------ | --------------------------------------------------- |
 | Vishnuprayag | Dhauli Ganga and Vishnu Ganga meet Alaknanda system |
-| Karnaprayag | Pindar joins Alaknanda |
-| Rudraprayag | Mandakini joins Alaknanda |
-| Devprayag | Bhagirathi and Alaknanda form Ganga |
+| Karnaprayag  | Pindar joins Alaknanda                              |
+| Rudraprayag  | Mandakini joins Alaknanda                           |
+| Devprayag    | Bhagirathi and Alaknanda form Ganga                 |
 
 ## 12.5 Course And Length
 
@@ -645,12 +645,12 @@ Its total length is about:
 
 Approximate state-wise course:
 
-| State | Length |
-| --- | ---: |
-| Uttarakhand | 110 km |
+| State         |   Length |
+| ------------- | -------: |
+| Uttarakhand   |   110 km |
 | Uttar Pradesh | 1,450 km |
-| Bihar | 445 km |
-| West Bengal | 520 km |
+| Bihar         |   445 km |
+| West Bengal   |   520 km |
 
 The Ganga basin covers about:
 
@@ -966,12 +966,12 @@ It flows through Odisha and drains into the Bay of Bengal.
 
 Key facts:
 
-| Feature | Detail |
-| --- | --- |
-| Length | About 851 km |
-| Catchment area | About 1.42 lakh sq km |
+| Feature            | Detail                                                                    |
+| ------------------ | ------------------------------------------------------------------------- |
+| Length             | About 851 km                                                              |
+| Catchment area     | About 1.42 lakh sq km                                                     |
 | Basin distribution | About 53 percent in Madhya Pradesh and Chhattisgarh, 47 percent in Odisha |
-| Navigation | Some navigation in lower course |
+| Navigation         | Some navigation in lower course                                           |
 
 ## 17.2 Godavari
 
@@ -987,13 +987,13 @@ It rises in Nashik district of Maharashtra and drains into the Bay of Bengal.
 
 Key facts:
 
-| Feature | Detail |
-| --- | --- |
-| Length | About 1,465 km |
-| Catchment area | About 3.13 lakh sq km |
-| Major tributaries | Penganga, Indravati, Pranhita, Manjra |
-| Basin states | Maharashtra, Madhya Pradesh, Chhattisgarh, Odisha, Andhra Pradesh |
-| Delta | Forms a large delta after Rajahmundry |
+| Feature           | Detail                                                            |
+| ----------------- | ----------------------------------------------------------------- |
+| Length            | About 1,465 km                                                    |
+| Catchment area    | About 3.13 lakh sq km                                             |
+| Major tributaries | Penganga, Indravati, Pranhita, Manjra                             |
+| Basin states      | Maharashtra, Madhya Pradesh, Chhattisgarh, Odisha, Andhra Pradesh |
+| Delta             | Forms a large delta after Rajahmundry                             |
 
 The lower reaches south of Polavaram are prone to heavy floods.
 
@@ -1005,11 +1005,11 @@ It rises near Mahabaleshwar in the Sahyadri.
 
 Key facts:
 
-| Feature | Detail |
-| --- | --- |
-| Length | About 1,401 km |
-| Major tributaries | Koyna, Tungabhadra, Bhima |
-| Basin share | Maharashtra 27 percent, Karnataka 44 percent, Andhra Pradesh and Telangana 29 percent |
+| Feature           | Detail                                                                                |
+| ----------------- | ------------------------------------------------------------------------------------- |
+| Length            | About 1,401 km                                                                        |
+| Major tributaries | Koyna, Tungabhadra, Bhima                                                             |
+| Basin share       | Maharashtra 27 percent, Karnataka 44 percent, Andhra Pradesh and Telangana 29 percent |
 
 ## 17.4 Kaveri
 
@@ -1017,12 +1017,12 @@ The Kaveri rises in the Brahmagiri hills of Kodagu district in Karnataka at abou
 
 Key facts:
 
-| Feature | Detail |
-| --- | --- |
-| Length | About 800 km |
-| Catchment area | About 81,155 sq km |
-| Basin share | Kerala 3 percent, Karnataka 41 percent, Tamil Nadu 56 percent |
-| Important tributaries | Kabini, Bhavani, Amravati |
+| Feature               | Detail                                                        |
+| --------------------- | ------------------------------------------------------------- |
+| Length                | About 800 km                                                  |
+| Catchment area        | About 81,155 sq km                                            |
+| Basin share           | Kerala 3 percent, Karnataka 41 percent, Tamil Nadu 56 percent |
+| Important tributaries | Kabini, Bhavani, Amravati                                     |
 
 Because its upper catchment receives southwest monsoon rainfall and lower catchment receives northeast monsoon rainfall, the Kaveri has less seasonal fluctuation than many other Peninsular rivers.
 
@@ -1044,12 +1044,12 @@ Important features:
 
 Key facts:
 
-| Feature | Detail |
-| --- | --- |
-| Length | About 1,312 km |
-| Catchment area | About 98,796 sq km |
-| Estuary | About 27 km long south of Bharuch |
-| Project | Sardar Sarovar Project |
+| Feature        | Detail                            |
+| -------------- | --------------------------------- |
+| Length         | About 1,312 km                    |
+| Catchment area | About 98,796 sq km                |
+| Estuary        | About 27 km long south of Bharuch |
+| Project        | Sardar Sarovar Project            |
 
 ## 17.6 Tapi
 
@@ -1059,11 +1059,11 @@ It originates from Multai in Betul district of Madhya Pradesh.
 
 Key facts:
 
-| Feature | Detail |
-| --- | --- |
-| Length | About 724 km |
-| Catchment area | About 65,145 sq km |
-| Basin share | Maharashtra 79 percent, Madhya Pradesh 15 percent, Gujarat 6 percent |
+| Feature        | Detail                                                               |
+| -------------- | -------------------------------------------------------------------- |
+| Length         | About 724 km                                                         |
+| Catchment area | About 65,145 sq km                                                   |
+| Basin share    | Maharashtra 79 percent, Madhya Pradesh 15 percent, Gujarat 6 percent |
 
 ## 17.7 Luni
 
@@ -1090,13 +1090,13 @@ West-flowing rivers toward the Arabian Sea usually have short courses because th
 
 Important examples:
 
-| Region | Rivers |
-| --- | --- |
-| Gujarat | Shetrunji, Bhadra, Dhadhar, Sabarmati, Mahi |
+| Region      | Rivers                                       |
+| ----------- | -------------------------------------------- |
+| Gujarat     | Shetrunji, Bhadra, Dhadhar, Sabarmati, Mahi  |
 | Maharashtra | Vaitarna and other short west-flowing rivers |
-| Karnataka | Kalinadi, Bedti, Sharavati |
-| Goa | Mandovi, Zuari |
-| Kerala | Bharathapuzha, Periyar, Pamba |
+| Karnataka   | Kalinadi, Bedti, Sharavati                   |
+| Goa         | Mandovi, Zuari                               |
+| Kerala      | Bharathapuzha, Periyar, Pamba                |
 
 ## 18.1 Sharavati
 
@@ -1114,15 +1114,15 @@ The Pamba flows into Vembanad Lake after a course of about 177 km.
 
 ## 18.3 Catchment Examples
 
-| River | Catchment Area |
-| --- | ---: |
-| Sabarmati | 21,674 sq km |
-| Mahi | 34,842 sq km |
-| Dhadhar | 2,770 sq km |
-| Kalinadi | 5,179 sq km |
-| Sharavati | 2,029 sq km |
-| Bharathapuzha | 5,397 sq km |
-| Periyar | 5,243 sq km |
+| River         | Catchment Area |
+| ------------- | -------------: |
+| Sabarmati     |   21,674 sq km |
+| Mahi          |   34,842 sq km |
+| Dhadhar       |    2,770 sq km |
+| Kalinadi      |    5,179 sq km |
+| Sharavati     |    2,029 sq km |
+| Bharathapuzha |    5,397 sq km |
+| Periyar       |    5,243 sq km |
 
 ---
 
@@ -1142,29 +1142,29 @@ Important examples:
 
 ## 19.1 Catchment Examples
 
-| River | Catchment Area |
-| --- | ---: |
-| Subarnarekha | 19,296 sq km |
-| Baitarni | 12,789 sq km |
-| Brahmani | 39,033 sq km |
-| Pennar | 55,213 sq km |
-| Palar | 17,870 sq km |
+| River        | Catchment Area |
+| ------------ | -------------: |
+| Subarnarekha |   19,296 sq km |
+| Baitarni     |   12,789 sq km |
+| Brahmani     |   39,033 sq km |
+| Pennar       |   55,213 sq km |
+| Palar        |   17,870 sq km |
 
 ---
 
 # 20. Himalayan Rivers Versus Peninsular Rivers
 
-| Aspect | Himalayan Rivers | Peninsular Rivers |
-| --- | --- | --- |
-| Place of origin | Himalayan mountains covered with glaciers | Peninsular plateau and central highlands |
-| Nature of flow | Perennial; fed by snowmelt and rainfall | Mostly seasonal; dependent on monsoon rainfall |
-| Drainage type | Antecedent and consequent; dendritic in plains | Superimposed, rejuvenated, trellis, radial, rectangular patterns |
-| Course | Long course through mountains and plains | Smaller, fixed course with adjusted valleys |
-| Valley character | Deep valleys, headward erosion, river capture in mountains; meanders in plains | Broad, shallow, mature valleys |
-| Catchment area | Very large basins | Relatively smaller basins |
-| Age | Young and youthful in upper reaches | Old rivers with graded profiles near base level |
-| Meandering | Strong in plains | Generally limited |
-| Water source | Snow, glaciers, rainfall | Mainly rainfall |
+| Aspect           | Himalayan Rivers                                                               | Peninsular Rivers                                                |
+| ---------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
+| Place of origin  | Himalayan mountains covered with glaciers                                      | Peninsular plateau and central highlands                         |
+| Nature of flow   | Perennial; fed by snowmelt and rainfall                                        | Mostly seasonal; dependent on monsoon rainfall                   |
+| Drainage type    | Antecedent and consequent; dendritic in plains                                 | Superimposed, rejuvenated, trellis, radial, rectangular patterns |
+| Course           | Long course through mountains and plains                                       | Smaller, fixed course with adjusted valleys                      |
+| Valley character | Deep valleys, headward erosion, river capture in mountains; meanders in plains | Broad, shallow, mature valleys                                   |
+| Catchment area   | Very large basins                                                              | Relatively smaller basins                                        |
+| Age              | Young and youthful in upper reaches                                            | Old rivers with graded profiles near base level                  |
+| Meandering       | Strong in plains                                                               | Generally limited                                                |
+| Water source     | Snow, glaciers, rainfall                                                       | Mainly rainfall                                                  |
 
 ---
 
@@ -1345,13 +1345,13 @@ It also mentions the Namami Gange Programme, an integrated conservation mission 
 
 ## 24.1 Multiple Choice
 
-| Question | Answer |
-| --- | --- |
-| Which river was known as the Sorrow of Bengal? | Damodar |
-| Which river has the largest river basin in India? | Ganga |
-| Which river is not included in Panjnad? | Indus |
-| Which river flows in a rift valley? | Narmada |
-| Where do Alaknanda and Bhagirathi meet? | Devprayag |
+| Question                                          | Answer    |
+| ------------------------------------------------- | --------- |
+| Which river was known as the Sorrow of Bengal?    | Damodar   |
+| Which river has the largest river basin in India? | Ganga     |
+| Which river is not included in Panjnad?           | Indus     |
+| Which river flows in a rift valley?               | Narmada   |
+| Where do Alaknanda and Bhagirathi meet?           | Devprayag |
 
 ## 24.2 River Basin And Watershed
 
@@ -1493,18 +1493,18 @@ Himalayan rivers have more sustained flow because they receive snowmelt and rain
 
 # 27. Common Mistakes And Corrections
 
-| Mistake | Correct Understanding |
-| --- | --- |
-| Drainage means only rivers. | Drainage includes the full network of channels. |
-| Basin and watershed are identical in all uses. | Basin is usually larger; watershed is smaller or a divide. |
-| All Indian rivers flow east. | Narmada, Tapi, Mahi, Sabarmati, Periyar, and many west coast rivers flow west. |
-| Himalayan rivers are seasonal. | Himalayan rivers are perennial because of snowmelt and rainfall. |
-| Peninsular rivers have very large shifting courses. | Peninsular rivers are generally more fixed and mature. |
-| Kosi is the sorrow of Bengal. | Kosi is the sorrow of Bihar; Damodar was sorrow of Bengal. |
-| Indus is part of Panjnad. | Panjnad means Satluj, Beas, Ravi, Chenab, and Jhelum. |
-| Narmada forms a large delta. | Narmada forms an estuary, not a large delta. |
-| River linking is only a canal construction issue. | It involves terrain, pumping, cost, ecology, disputes, and seasonal flow. |
-| Pollution is only industrial. | Sewage, waste, rituals, washing, agriculture, and settlements also pollute rivers. |
+| Mistake                                             | Correct Understanding                                                              |
+| --------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| Drainage means only rivers.                         | Drainage includes the full network of channels.                                    |
+| Basin and watershed are identical in all uses.      | Basin is usually larger; watershed is smaller or a divide.                         |
+| All Indian rivers flow east.                        | Narmada, Tapi, Mahi, Sabarmati, Periyar, and many west coast rivers flow west.     |
+| Himalayan rivers are seasonal.                      | Himalayan rivers are perennial because of snowmelt and rainfall.                   |
+| Peninsular rivers have very large shifting courses. | Peninsular rivers are generally more fixed and mature.                             |
+| Kosi is the sorrow of Bengal.                       | Kosi is the sorrow of Bihar; Damodar was sorrow of Bengal.                         |
+| Indus is part of Panjnad.                           | Panjnad means Satluj, Beas, Ravi, Chenab, and Jhelum.                              |
+| Narmada forms a large delta.                        | Narmada forms an estuary, not a large delta.                                       |
+| River linking is only a canal construction issue.   | It involves terrain, pumping, cost, ecology, disputes, and seasonal flow.          |
+| Pollution is only industrial.                       | Sewage, waste, rituals, washing, agriculture, and settlements also pollute rivers. |
 
 ---
 
@@ -1667,4 +1667,3 @@ Before moving on, make sure you can:
 - answer the MCQ facts,
 - explain river water use problems,
 - write a balanced answer on river linking.
-

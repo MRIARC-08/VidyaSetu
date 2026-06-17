@@ -1,4 +1,5 @@
 # Chapter 1: Introducing Indian Society
+
 ### NCERT Class 12 - Sociology Indian Society
 
 ## Chapter at a Glance
@@ -23,28 +24,28 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Sociology | Systematic study of society, social relationships, groups, institutions, and social change. |
-| Common sense | Everyday knowledge acquired through social experience, often partial and shaped by one's group location. |
-| Unlearning | Questioning and moving beyond taken-for-granted assumptions. |
-| Socialisation | Process through which individuals learn norms, values, roles, and expectations of society. |
-| Reflexivity | Ability to examine oneself and one's society critically. |
-| Self-reflexivity | Turning the sociological gaze back on oneself and one's own social location. |
-| Social map | A way of locating oneself or others within networks of social groups and relations. |
-| Personal trouble | A problem experienced at the individual level. |
-| Social issue | A problem connected to wider social structures and affecting groups. |
-| Social group | A collectivity of people sharing some identity, location, interest, or relationship. |
+| Term             | Meaning                                                                                                  |
+| ---------------- | -------------------------------------------------------------------------------------------------------- |
+| Sociology        | Systematic study of society, social relationships, groups, institutions, and social change.              |
+| Common sense     | Everyday knowledge acquired through social experience, often partial and shaped by one's group location. |
+| Unlearning       | Questioning and moving beyond taken-for-granted assumptions.                                             |
+| Socialisation    | Process through which individuals learn norms, values, roles, and expectations of society.               |
+| Reflexivity      | Ability to examine oneself and one's society critically.                                                 |
+| Self-reflexivity | Turning the sociological gaze back on oneself and one's own social location.                             |
+| Social map       | A way of locating oneself or others within networks of social groups and relations.                      |
+| Personal trouble | A problem experienced at the individual level.                                                           |
+| Social issue     | A problem connected to wider social structures and affecting groups.                                     |
+| Social group     | A collectivity of people sharing some identity, location, interest, or relationship.                     |
 
 ## Concept Map
 
-| Everyday experience | Sociological move |
-|---|---|
-| "I know society because I live in it." | Ask how that knowledge was formed. |
-| "My view is natural." | Ask which social group shaped that view. |
-| "This is my personal problem." | Ask whether many people face it due to social conditions. |
-| "My identity is only personal." | Locate identity on a social map. |
-| "Society is obvious." | Treat society as something to be studied systematically. |
+| Everyday experience                    | Sociological move                                         |
+| -------------------------------------- | --------------------------------------------------------- |
+| "I know society because I live in it." | Ask how that knowledge was formed.                        |
+| "My view is natural."                  | Ask which social group shaped that view.                  |
+| "This is my personal problem."         | Ask whether many people face it due to social conditions. |
+| "My identity is only personal."        | Locate identity on a social map.                          |
+| "Society is obvious."                  | Treat society as something to be studied systematically.  |
 
 # Unit 1A: Why Sociology Feels Familiar
 
@@ -377,14 +378,14 @@ Sociological question:
 
 # Unit 1M: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Treating common sense as always wrong. | Common sense is a starting point, but it must be examined critically. |
-| Writing only personal opinions. | Use sociological concepts and evidence. |
-| Assuming one's own group represents all Indians. | Indian society is diverse and unequal. |
-| Confusing reflexivity with self-praise. | Reflexivity means critical self-examination. |
-| Treating personal problems as always private. | Many personal problems are linked to social structures. |
-| Forgetting history. | Institutions change over time and must be understood historically. |
+| Mistake                                          | Correction                                                            |
+| ------------------------------------------------ | --------------------------------------------------------------------- |
+| Treating common sense as always wrong.           | Common sense is a starting point, but it must be examined critically. |
+| Writing only personal opinions.                  | Use sociological concepts and evidence.                               |
+| Assuming one's own group represents all Indians. | Indian society is diverse and unequal.                                |
+| Confusing reflexivity with self-praise.          | Reflexivity means critical self-examination.                          |
+| Treating personal problems as always private.    | Many personal problems are linked to social structures.               |
+| Forgetting history.                              | Institutions change over time and must be understood historically.    |
 
 ## Practice Set
 

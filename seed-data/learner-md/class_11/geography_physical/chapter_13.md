@@ -47,55 +47,55 @@ By the end of this chapter, you should be able to:
 
 ## Big Picture Map
 
-| Theme | Core Idea | Key Details |
-| --- | --- | --- |
-| Hydrological cycle | Water circulates through hydrosphere | Evaporation, transpiration, condensation, precipitation, runoff, infiltration |
-| Blue Planet | Earth has abundant surface water | About 71 per cent of planetary water in oceans |
-| Water distribution | Water is unevenly distributed | Oceans dominate; freshwater is limited |
-| Ocean floor relief | Ocean basins have landforms like continents | Shelves, slopes, plains, trenches, ridges |
-| Continental shelf | Shallow submerged continental margin | Average width about 80 km |
-| Continental slope | Steep zone from shelf to ocean basin | 200-3000 m depth |
-| Deep sea plain | Flat, smooth deep ocean basin | 3000-6000 m depth |
-| Oceanic deeps | Deepest ocean parts | Trenches, plate movement, earthquakes |
-| Ocean temperature | Varies by latitude, currents, winds, land-water distribution | Surface average about 27 degrees Celsius |
-| Thermocline | Rapid temperature decline zone | Begins around 100-400 m |
-| Salinity | Dissolved salt content in seawater | Expressed in ppt or parts per thousand |
-| Halocline | Zone of rapid salinity increase with depth | Controls density stratification |
+| Theme              | Core Idea                                                    | Key Details                                                                   |
+| ------------------ | ------------------------------------------------------------ | ----------------------------------------------------------------------------- |
+| Hydrological cycle | Water circulates through hydrosphere                         | Evaporation, transpiration, condensation, precipitation, runoff, infiltration |
+| Blue Planet        | Earth has abundant surface water                             | About 71 per cent of planetary water in oceans                                |
+| Water distribution | Water is unevenly distributed                                | Oceans dominate; freshwater is limited                                        |
+| Ocean floor relief | Ocean basins have landforms like continents                  | Shelves, slopes, plains, trenches, ridges                                     |
+| Continental shelf  | Shallow submerged continental margin                         | Average width about 80 km                                                     |
+| Continental slope  | Steep zone from shelf to ocean basin                         | 200-3000 m depth                                                              |
+| Deep sea plain     | Flat, smooth deep ocean basin                                | 3000-6000 m depth                                                             |
+| Oceanic deeps      | Deepest ocean parts                                          | Trenches, plate movement, earthquakes                                         |
+| Ocean temperature  | Varies by latitude, currents, winds, land-water distribution | Surface average about 27 degrees Celsius                                      |
+| Thermocline        | Rapid temperature decline zone                               | Begins around 100-400 m                                                       |
+| Salinity           | Dissolved salt content in seawater                           | Expressed in ppt or parts per thousand                                        |
+| Halocline          | Zone of rapid salinity increase with depth                   | Controls density stratification                                               |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Hydrological cycle | Continuous circulation of water within the earth's hydrosphere in liquid, solid, and gaseous forms. |
-| Blue Planet | Name for earth because it has abundant surface water. |
-| Evaporation | Change of water from liquid to vapour. |
-| Evapotranspiration | Combined evaporation and transpiration. |
-| Sublimation | Change from solid directly to vapour. |
-| Condensation | Change of water vapour into liquid droplets. |
-| Precipitation | Falling of water from atmosphere as rain, snow, sleet, or hail. |
-| Surface runoff | Flow of water over land surface. |
-| Infiltration | Movement of water into the ground. |
-| Groundwater discharge | Release of groundwater through springs or into streams. |
-| Ocean basin | Large depression of the earth's outer layer occupied by ocean water. |
-| Continental shelf | Extended submerged margin of a continent with shallow seas and gulfs. |
-| Shelf break | Steep break at the end of continental shelf. |
-| Continental slope | Steep slope connecting continental shelf with deep ocean basin. |
-| Deep sea plain | Flat and smooth deep ocean floor between 3000 and 6000 m. |
-| Oceanic deep | Deepest part of the ocean, usually a trench. |
-| Trench | Steep-sided narrow deep basin in ocean floor. |
-| Mid-oceanic ridge | Underwater mountain chain separated by a central depression. |
-| Seamount | Volcanic underwater mountain with pointed summit not reaching sea surface. |
-| Submarine canyon | Deep valley cutting across continental shelf or slope. |
-| Guyot | Flat-topped seamount. |
-| Atoll | Low coral island around a central lagoon or depression. |
-| Thermocline | Ocean layer where temperature decreases rapidly with depth. |
-| Salinity | Total dissolved salt content in seawater. |
-| Parts per thousand | Unit used for salinity, grams of salt per 1000 grams of seawater. |
-| Brackish water | Water with salinity below or around the upper limit of 24.7 ppt as used for demarcation. |
-| Halocline | Layer where salinity increases sharply with depth. |
-| Density | Mass per unit volume; affected by salinity and temperature in seawater. |
+| Term                  | Meaning                                                                                             |
+| --------------------- | --------------------------------------------------------------------------------------------------- |
+| Hydrological cycle    | Continuous circulation of water within the earth's hydrosphere in liquid, solid, and gaseous forms. |
+| Blue Planet           | Name for earth because it has abundant surface water.                                               |
+| Evaporation           | Change of water from liquid to vapour.                                                              |
+| Evapotranspiration    | Combined evaporation and transpiration.                                                             |
+| Sublimation           | Change from solid directly to vapour.                                                               |
+| Condensation          | Change of water vapour into liquid droplets.                                                        |
+| Precipitation         | Falling of water from atmosphere as rain, snow, sleet, or hail.                                     |
+| Surface runoff        | Flow of water over land surface.                                                                    |
+| Infiltration          | Movement of water into the ground.                                                                  |
+| Groundwater discharge | Release of groundwater through springs or into streams.                                             |
+| Ocean basin           | Large depression of the earth's outer layer occupied by ocean water.                                |
+| Continental shelf     | Extended submerged margin of a continent with shallow seas and gulfs.                               |
+| Shelf break           | Steep break at the end of continental shelf.                                                        |
+| Continental slope     | Steep slope connecting continental shelf with deep ocean basin.                                     |
+| Deep sea plain        | Flat and smooth deep ocean floor between 3000 and 6000 m.                                           |
+| Oceanic deep          | Deepest part of the ocean, usually a trench.                                                        |
+| Trench                | Steep-sided narrow deep basin in ocean floor.                                                       |
+| Mid-oceanic ridge     | Underwater mountain chain separated by a central depression.                                        |
+| Seamount              | Volcanic underwater mountain with pointed summit not reaching sea surface.                          |
+| Submarine canyon      | Deep valley cutting across continental shelf or slope.                                              |
+| Guyot                 | Flat-topped seamount.                                                                               |
+| Atoll                 | Low coral island around a central lagoon or depression.                                             |
+| Thermocline           | Ocean layer where temperature decreases rapidly with depth.                                         |
+| Salinity              | Total dissolved salt content in seawater.                                                           |
+| Parts per thousand    | Unit used for salinity, grams of salt per 1000 grams of seawater.                                   |
+| Brackish water        | Water with salinity below or around the upper limit of 24.7 ppt as used for demarcation.            |
+| Halocline             | Layer where salinity increases sharply with depth.                                                  |
+| Density               | Mass per unit volume; affected by salinity and temperature in seawater.                             |
 
 ---
 
@@ -206,16 +206,16 @@ About 71 per cent of planetary water is found in the oceans.
 
 ## 3.2 Water Reservoir Table
 
-| Reservoir | Volume | Percentage Of Total |
-| --- | --- | --- |
-| Oceans | 1370 million cubic km | 97.25 |
-| Ice caps and glaciers | 29 million cubic km | 2.05 |
-| Groundwater | 9.5 million cubic km | 0.68 |
-| Lakes | 0.125 million cubic km | 0.01 |
-| Soil moisture | 0.065 million cubic km | 0.005 |
-| Atmosphere | 0.013 million cubic km | 0.001 |
-| Streams and rivers | 0.0017 million cubic km | 0.0001 |
-| Biosphere | 0.0006 million cubic km | 0.00004 |
+| Reservoir             | Volume                  | Percentage Of Total |
+| --------------------- | ----------------------- | ------------------- |
+| Oceans                | 1370 million cubic km   | 97.25               |
+| Ice caps and glaciers | 29 million cubic km     | 2.05                |
+| Groundwater           | 9.5 million cubic km    | 0.68                |
+| Lakes                 | 0.125 million cubic km  | 0.01                |
+| Soil moisture         | 0.065 million cubic km  | 0.005               |
+| Atmosphere            | 0.013 million cubic km  | 0.001               |
+| Streams and rivers    | 0.0017 million cubic km | 0.0001              |
+| Biosphere             | 0.0006 million cubic km | 0.00004             |
 
 ## 3.3 Meaning Of The Table
 
@@ -752,12 +752,12 @@ Average rate:
 
 ## 16.3 Temperature By Latitude
 
-| Latitude | Average Temperature |
-| --- | --- |
+| Latitude                   | Average Temperature       |
+| -------------------------- | ------------------------- |
 | Near equator/low latitudes | Around 27 degrees Celsius |
-| 20 degrees | Around 22 degrees Celsius |
-| 40 degrees | Around 14 degrees Celsius |
-| Near poles | Around 0 degrees Celsius |
+| 20 degrees                 | Around 22 degrees Celsius |
+| 40 degrees                 | Around 14 degrees Celsius |
+| Near poles                 | Around 0 degrees Celsius  |
 
 ## 16.4 Northern And Southern Hemisphere
 
@@ -929,17 +929,17 @@ Salinity is important because it affects:
 # 20. Dissolved Salts In Seawater
 
 | Dissolved Component | Grams Per Kg Of Water |
-| --- | --- |
-| Chlorine | 18.97 |
-| Sodium | 10.47 |
-| Sulphate | 2.65 |
-| Magnesium | 1.28 |
-| Calcium | 0.41 |
-| Potassium | 0.38 |
-| Bicarbonate | 0.14 |
-| Bromine | 0.06 |
-| Borate | 0.02 |
-| Strontium | 0.01 |
+| ------------------- | --------------------- |
+| Chlorine            | 18.97                 |
+| Sodium              | 10.47                 |
+| Sulphate            | 2.65                  |
+| Magnesium           | 1.28                  |
+| Calcium             | 0.41                  |
+| Potassium           | 0.38                  |
+| Bicarbonate         | 0.14                  |
+| Bromine             | 0.06                  |
+| Borate              | 0.02                  |
+| Strontium           | 0.01                  |
 
 ## 20.1 Dominant Components
 
@@ -1003,11 +1003,11 @@ Normal open-ocean salinity ranges between:
 
 Examples:
 
-| Water Body | Salinity |
-| --- | --- |
-| Lake Van, Turkey | 330 ppt |
-| Dead Sea | 238 ppt |
-| Great Salt Lake | 220 ppt |
+| Water Body       | Salinity |
+| ---------------- | -------- |
+| Lake Van, Turkey | 330 ppt  |
+| Dead Sea         | 238 ppt  |
+| Great Salt Lake  | 220 ppt  |
 
 ## 22.3 Red Sea
 
@@ -1133,45 +1133,45 @@ This creates stratification by salinity.
 
 ## 24.1 Continental Shelf vs Continental Slope
 
-| Continental Shelf | Continental Slope |
-| --- | --- |
+| Continental Shelf                    | Continental Slope          |
+| ------------------------------------ | -------------------------- |
 | Shallow submerged continental margin | Steep slope to ocean basin |
-| Gradient 1 degree or less | Gradient 2-5 degrees |
-| Average width about 80 km | Depth 200-3000 m |
-| Sediment and fossil fuel deposits | Marks end of continent |
+| Gradient 1 degree or less            | Gradient 2-5 degrees       |
+| Average width about 80 km            | Depth 200-3000 m           |
+| Sediment and fossil fuel deposits    | Marks end of continent     |
 
 ## 24.2 Deep Sea Plain vs Oceanic Deep
 
-| Deep Sea Plain | Oceanic Deep |
-| --- | --- |
-| Flat, smooth basin floor | Deepest ocean part |
-| 3000-6000 m depth | 3-5 km deeper than surrounding floor |
-| Covered with clay and silt | Steep-sided narrow trench |
-| Depositional feature | Plate-tectonic significance |
+| Deep Sea Plain             | Oceanic Deep                         |
+| -------------------------- | ------------------------------------ |
+| Flat, smooth basin floor   | Deepest ocean part                   |
+| 3000-6000 m depth          | 3-5 km deeper than surrounding floor |
+| Covered with clay and silt | Steep-sided narrow trench            |
+| Depositional feature       | Plate-tectonic significance          |
 
 ## 24.3 Seamount vs Guyot
 
-| Seamount | Guyot |
-| --- | --- |
-| Pointed summit | Flat top |
-| Volcanic underwater mountain | Flattened/subsided seamount |
-| Does not reach surface | Submerged flat-topped mountain |
+| Seamount                     | Guyot                          |
+| ---------------------------- | ------------------------------ |
+| Pointed summit               | Flat top                       |
+| Volcanic underwater mountain | Flattened/subsided seamount    |
+| Does not reach surface       | Submerged flat-topped mountain |
 
 ## 24.4 Thermocline vs Halocline
 
-| Thermocline | Halocline |
-| --- | --- |
+| Thermocline                           | Halocline                          |
+| ------------------------------------- | ---------------------------------- |
 | Rapid temperature decrease with depth | Rapid salinity increase with depth |
-| Temperature structure | Salinity structure |
-| Begins around 100-400 m | Location varies |
+| Temperature structure                 | Salinity structure                 |
+| Begins around 100-400 m               | Location varies                    |
 
 ## 24.5 Bay Of Bengal vs Arabian Sea Salinity
 
-| Bay Of Bengal | Arabian Sea |
-| --- | --- |
-| Lower salinity | Higher salinity |
-| Large river-water influx | High evaporation |
-| More freshwater input | Low freshwater influx |
+| Bay Of Bengal            | Arabian Sea           |
+| ------------------------ | --------------------- |
+| Lower salinity           | Higher salinity       |
+| Large river-water influx | High evaporation      |
+| More freshwater input    | Low freshwater influx |
 
 ---
 

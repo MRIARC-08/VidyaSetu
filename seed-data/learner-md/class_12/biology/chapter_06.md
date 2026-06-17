@@ -1,16 +1,17 @@
 # Chapter 6: Evolution
+
 ### NCERT Class 12 - Biology
 
 ## Chapter at a Glance
 
-| Item | Details |
-|---|---|
-| Main idea | Evolution explains the origin, diversification, and change of life forms over time. |
-| Central mechanism | Natural selection acts on heritable variation. |
-| Major evidence | Fossils, comparative anatomy, embryology, biogeography, molecular similarities, and adaptive radiation. |
-| Population focus | Evolution is change in allele frequencies in populations. |
-| Important concepts | Hardy-Weinberg equilibrium, genetic drift, gene flow, mutation, recombination, selection, speciation. |
-| Most important skill | Link evidence and mechanism, not just memorise examples. |
+| Item                 | Details                                                                                                 |
+| -------------------- | ------------------------------------------------------------------------------------------------------- |
+| Main idea            | Evolution explains the origin, diversification, and change of life forms over time.                     |
+| Central mechanism    | Natural selection acts on heritable variation.                                                          |
+| Major evidence       | Fossils, comparative anatomy, embryology, biogeography, molecular similarities, and adaptive radiation. |
+| Population focus     | Evolution is change in allele frequencies in populations.                                               |
+| Important concepts   | Hardy-Weinberg equilibrium, genetic drift, gene flow, mutation, recombination, selection, speciation.   |
+| Most important skill | Link evidence and mechanism, not just memorise examples.                                                |
 
 ## Learning Outcomes
 
@@ -30,30 +31,30 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Evolution | Descent with modification; change in life forms over generations. |
-| Fossil | Preserved remains, impressions, or traces of past organisms. |
-| Homology | Similar basic structure due to common ancestry. |
-| Analogy | Similar function due to convergent evolution, not common structure. |
-| Adaptive radiation | Evolution of different species from a common ancestor in different habitats. |
-| Natural selection | Differential survival and reproduction of individuals with favourable heritable traits. |
-| Gene pool | Total genes and alleles in a population. |
-| Allele frequency | Proportion of a particular allele in a population. |
-| Genetic drift | Random change in allele frequency, especially in small populations. |
-| Founder effect | Genetic drift when a small group starts a new population. |
-| Speciation | Formation of new species. |
+| Term               | Meaning                                                                                 |
+| ------------------ | --------------------------------------------------------------------------------------- |
+| Evolution          | Descent with modification; change in life forms over generations.                       |
+| Fossil             | Preserved remains, impressions, or traces of past organisms.                            |
+| Homology           | Similar basic structure due to common ancestry.                                         |
+| Analogy            | Similar function due to convergent evolution, not common structure.                     |
+| Adaptive radiation | Evolution of different species from a common ancestor in different habitats.            |
+| Natural selection  | Differential survival and reproduction of individuals with favourable heritable traits. |
+| Gene pool          | Total genes and alleles in a population.                                                |
+| Allele frequency   | Proportion of a particular allele in a population.                                      |
+| Genetic drift      | Random change in allele frequency, especially in small populations.                     |
+| Founder effect     | Genetic drift when a small group starts a new population.                               |
+| Speciation         | Formation of new species.                                                               |
 
 ## Quick Learning Map
 
-| Area | Core Learning |
-|---|---|
-| Origin | Life likely arose through gradual chemical evolution. |
-| Evidence | Different lines of evidence support common ancestry. |
-| Darwin | Variation, struggle, and survival lead to natural selection. |
-| Population genetics | Evolution is measurable through allele frequency changes. |
-| Speciation | Isolation and accumulated differences can create new species. |
-| Human evolution | Humans share ancestry with other primates and evolved through stages. |
+| Area                | Core Learning                                                         |
+| ------------------- | --------------------------------------------------------------------- |
+| Origin              | Life likely arose through gradual chemical evolution.                 |
+| Evidence            | Different lines of evidence support common ancestry.                  |
+| Darwin              | Variation, struggle, and survival lead to natural selection.          |
+| Population genetics | Evolution is measurable through allele frequency changes.             |
+| Speciation          | Isolation and accumulated differences can create new species.         |
+| Human evolution     | Humans share ancestry with other primates and evolved through stages. |
 
 # Unit 6A: Origin of Life
 
@@ -192,13 +193,13 @@ Evolution occurs when equilibrium is disturbed.
 
 ## Factors
 
-| Factor | Effect |
-|---|---|
-| Mutation | Creates new genetic variation. |
-| Recombination | Creates new allele combinations. |
-| Gene flow | Adds or removes alleles through migration. |
-| Genetic drift | Random allele frequency change in small populations. |
-| Natural selection | Favourable alleles become more common. |
+| Factor            | Effect                                               |
+| ----------------- | ---------------------------------------------------- |
+| Mutation          | Creates new genetic variation.                       |
+| Recombination     | Creates new allele combinations.                     |
+| Gene flow         | Adds or removes alleles through migration.           |
+| Genetic drift     | Random allele frequency change in small populations. |
+| Natural selection | Favourable alleles become more common.               |
 
 # Unit 6I: Genetic Drift and Founder Effect
 
@@ -212,11 +213,11 @@ Genetic drift can reduce variation and may contribute to speciation.
 
 # Unit 6J: Natural Selection Patterns
 
-| Type | Meaning |
-|---|---|
-| Stabilising selection | Favours average phenotype. |
-| Directional selection | Favours one extreme phenotype. |
-| Disruptive selection | Favours both extremes over intermediate phenotype. |
+| Type                  | Meaning                                            |
+| --------------------- | -------------------------------------------------- |
+| Stabilising selection | Favours average phenotype.                         |
+| Directional selection | Favours one extreme phenotype.                     |
+| Disruptive selection  | Favours both extremes over intermediate phenotype. |
 
 # Unit 6K: Speciation
 
@@ -255,14 +256,14 @@ Humans did not evolve from modern apes. Humans and modern apes share common ance
 
 # Unit 6M: Common Mistakes and Corrections
 
-| Mistake | Correct Understanding |
-|---|---|
-| Evolution means progress toward perfection | Evolution means change and adaptation, not guaranteed perfection. |
-| Individuals evolve during life | Populations evolve over generations. |
-| Acquired characters are always inherited | Heritable genetic changes matter in evolution. |
-| Homologous means same function | Homologous means same basic origin; function may differ. |
-| Analogous means common ancestry | Analogous organs show similar function, not necessarily common ancestry. |
-| Fitness means physical strength | Fitness means reproductive success. |
+| Mistake                                    | Correct Understanding                                                    |
+| ------------------------------------------ | ------------------------------------------------------------------------ |
+| Evolution means progress toward perfection | Evolution means change and adaptation, not guaranteed perfection.        |
+| Individuals evolve during life             | Populations evolve over generations.                                     |
+| Acquired characters are always inherited   | Heritable genetic changes matter in evolution.                           |
+| Homologous means same function             | Homologous means same basic origin; function may differ.                 |
+| Analogous means common ancestry            | Analogous organs show similar function, not necessarily common ancestry. |
+| Fitness means physical strength            | Fitness means reproductive success.                                      |
 
 ## Practice Set
 

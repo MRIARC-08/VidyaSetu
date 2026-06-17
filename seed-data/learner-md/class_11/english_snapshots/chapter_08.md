@@ -1,4 +1,5 @@
 # Chapter 8: The Tale of Melon City
+
 ### NCERT Class 11 English Snapshots
 
 ---
@@ -30,15 +31,15 @@ After studying this chapter, you should be able to:
 
 ## 1. Chapter Snapshot
 
-| Element | Details |
-|---|---|
-| Text type | Narrative poem and satire |
-| Poet | Vikram Seth |
-| Setting | An imaginary kingdom |
-| Main figure | A foolish king |
-| Central event | A chain of blame after the king loses his crown under an arch |
-| Tone | Humorous, ironic, satirical |
-| Main themes | Misgovernance, blind justice, public passivity, absurd authority |
+| Element       | Details                                                          |
+| ------------- | ---------------------------------------------------------------- |
+| Text type     | Narrative poem and satire                                        |
+| Poet          | Vikram Seth                                                      |
+| Setting       | An imaginary kingdom                                             |
+| Main figure   | A foolish king                                                   |
+| Central event | A chain of blame after the king loses his crown under an arch    |
+| Tone          | Humorous, ironic, satirical                                      |
+| Main themes   | Misgovernance, blind justice, public passivity, absurd authority |
 
 ---
 
@@ -67,10 +68,10 @@ After the king's death, the ministers need a new ruler. Following an old custom,
 
 The poem repeatedly calls the king just and placid, but the phrase is ironic.
 
-| Word | Surface meaning | Actual effect in the poem |
-|---|---|---|
-| Just | Fair and lawful | He makes foolish and shifting decisions |
-| Placid | Calm and peaceful | He is passive, confused, and weak |
+| Word   | Surface meaning   | Actual effect in the poem               |
+| ------ | ----------------- | --------------------------------------- |
+| Just   | Fair and lawful   | He makes foolish and shifting decisions |
+| Placid | Calm and peaceful | He is passive, confused, and weak       |
 
 The king is not truly wise or just. He simply wants to appear fair while avoiding real responsibility.
 
@@ -99,13 +100,13 @@ The poem is funny because events become increasingly unreasonable.
 
 Examples of absurdity:
 
-| Event | Why it is absurd |
-|---|---|
-| The arch is treated like a culprit | A structure cannot be morally guilty |
-| Blame keeps shifting | Nobody accepts responsibility |
-| The crowd demands any hanging | Justice becomes entertainment |
+| Event                                | Why it is absurd                          |
+| ------------------------------------ | ----------------------------------------- |
+| The arch is treated like a culprit   | A structure cannot be morally guilty      |
+| Blame keeps shifting                 | Nobody accepts responsibility             |
+| The crowd demands any hanging        | Justice becomes entertainment             |
 | The king is hanged by his own decree | Law becomes mindless and self-destructive |
-| A melon is crowned king | Leadership becomes meaningless |
+| A melon is crowned king              | Leadership becomes meaningless            |
 
 Absurdity reveals the failure of thought in the kingdom.
 
@@ -167,14 +168,14 @@ The verse form makes the absurd story memorable and playful.
 
 ## 10. Theme Board
 
-| Theme | Explanation |
-|---|---|
-| Misgovernance | The ruler and ministers lack wisdom |
-| Blind justice | Punishment becomes mechanical, not moral |
-| Absurd authority | A melon can become king |
-| Public passivity | Citizens accept foolish rule if left alone |
-| Satire | Humour exposes political stupidity |
-| Responsibility | Everyone shifts blame instead of accepting it |
+| Theme            | Explanation                                   |
+| ---------------- | --------------------------------------------- |
+| Misgovernance    | The ruler and ministers lack wisdom           |
+| Blind justice    | Punishment becomes mechanical, not moral      |
+| Absurd authority | A melon can become king                       |
+| Public passivity | Citizens accept foolish rule if left alone    |
+| Satire           | Humour exposes political stupidity            |
+| Responsibility   | Everyone shifts blame instead of accepting it |
 
 ---
 

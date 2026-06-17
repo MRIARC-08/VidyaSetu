@@ -1,19 +1,20 @@
 # Chapter 3: Water Resources
+
 ### NCERT Class 10 - Social Geography
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-| --- | --- |
-| Class | 10 |
-| Subject | Social Geography |
-| Chapter | 3 - Water Resources |
-| Central Question | If water is renewable and Earth has so much water, why do people still face water scarcity? |
-| Main Themes | Freshwater, water scarcity, conservation, multi-purpose river projects, dams, water disputes, rainwater harvesting |
-| Main Skills | Cause-effect reasoning, data interpretation, comparison, evaluating development projects, writing balanced answers |
-| Exam Importance | Very high: scarcity causes, dams, advantages and disadvantages, rainwater harvesting, Rajasthan tankas, bamboo drip irrigation |
+| Detail           | Learner-Friendly Information                                                                                                   |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| Class            | 10                                                                                                                             |
+| Subject          | Social Geography                                                                                                               |
+| Chapter          | 3 - Water Resources                                                                                                            |
+| Central Question | If water is renewable and Earth has so much water, why do people still face water scarcity?                                    |
+| Main Themes      | Freshwater, water scarcity, conservation, multi-purpose river projects, dams, water disputes, rainwater harvesting             |
+| Main Skills      | Cause-effect reasoning, data interpretation, comparison, evaluating development projects, writing balanced answers             |
+| Exam Importance  | Very high: scarcity causes, dams, advantages and disadvantages, rainwater harvesting, Rajasthan tankas, bamboo drip irrigation |
 
 ---
 
@@ -45,16 +46,16 @@ The chapter then compares two approaches to water management:
 
 After studying this chapter, you should be able to:
 
-| Skill | You Should Be Able To |
-| --- | --- |
-| Define | Explain freshwater, hydrological cycle, water scarcity, water stress, dam, multi-purpose project, rainwater harvesting, tanka, khadin, johad, and bamboo drip irrigation. |
-| Explain | Show how water becomes a renewable resource. |
-| Analyse | Identify the causes of water scarcity even in regions with rainfall. |
-| Compare | Compare advantages and disadvantages of multi-purpose river projects. |
-| Evaluate | Explain why large dams create conflicts and environmental problems. |
-| Describe | Explain traditional rainwater harvesting methods in different regions. |
-| Apply | Suggest water conservation measures for daily life and local communities. |
-| Write | Build balanced answers using facts, examples, and consequences. |
+| Skill    | You Should Be Able To                                                                                                                                                     |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Define   | Explain freshwater, hydrological cycle, water scarcity, water stress, dam, multi-purpose project, rainwater harvesting, tanka, khadin, johad, and bamboo drip irrigation. |
+| Explain  | Show how water becomes a renewable resource.                                                                                                                              |
+| Analyse  | Identify the causes of water scarcity even in regions with rainfall.                                                                                                      |
+| Compare  | Compare advantages and disadvantages of multi-purpose river projects.                                                                                                     |
+| Evaluate | Explain why large dams create conflicts and environmental problems.                                                                                                       |
+| Describe | Explain traditional rainwater harvesting methods in different regions.                                                                                                    |
+| Apply    | Suggest water conservation measures for daily life and local communities.                                                                                                 |
+| Write    | Build balanced answers using facts, examples, and consequences.                                                                                                           |
 
 ---
 
@@ -84,34 +85,34 @@ Traditional systems such as tankas, johads, khadins, guls, kuls, and bamboo drip
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Freshwater | Water that is not salty and can be used by humans after suitable treatment. |
-| Surface Runoff | Water flowing over the land surface after rainfall or snowmelt. |
-| Groundwater | Water stored below the ground in soil and rock layers. |
-| Aquifer | Underground layer that stores and transmits groundwater. |
-| Hydrological Cycle | Continuous movement of water through evaporation, condensation, precipitation, runoff, infiltration, and groundwater recharge. |
-| Renewable Resource | A resource that can be replenished naturally, if not overused or polluted. |
-| Water Scarcity | Shortage of usable water because of low supply, overuse, pollution, or unequal access. |
-| Water Stress | Condition when water availability is low compared with demand. |
-| Absolute Water Scarcity | Severe water shortage where available water is not enough to meet basic needs. |
-| Water Conservation | Careful use, protection, and management of water resources. |
-| Water Management | Planning and regulating water use for domestic, agricultural, industrial, and ecological needs. |
-| Dam | A barrier across flowing water that obstructs, directs, or slows the flow and often creates a reservoir. |
-| Reservoir | Stored water body created behind a dam. |
-| Spillway | Part of a dam through which excess water can flow safely. |
+| Term                        | Meaning                                                                                                                                                 |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Freshwater                  | Water that is not salty and can be used by humans after suitable treatment.                                                                             |
+| Surface Runoff              | Water flowing over the land surface after rainfall or snowmelt.                                                                                         |
+| Groundwater                 | Water stored below the ground in soil and rock layers.                                                                                                  |
+| Aquifer                     | Underground layer that stores and transmits groundwater.                                                                                                |
+| Hydrological Cycle          | Continuous movement of water through evaporation, condensation, precipitation, runoff, infiltration, and groundwater recharge.                          |
+| Renewable Resource          | A resource that can be replenished naturally, if not overused or polluted.                                                                              |
+| Water Scarcity              | Shortage of usable water because of low supply, overuse, pollution, or unequal access.                                                                  |
+| Water Stress                | Condition when water availability is low compared with demand.                                                                                          |
+| Absolute Water Scarcity     | Severe water shortage where available water is not enough to meet basic needs.                                                                          |
+| Water Conservation          | Careful use, protection, and management of water resources.                                                                                             |
+| Water Management            | Planning and regulating water use for domestic, agricultural, industrial, and ecological needs.                                                         |
+| Dam                         | A barrier across flowing water that obstructs, directs, or slows the flow and often creates a reservoir.                                                |
+| Reservoir                   | Stored water body created behind a dam.                                                                                                                 |
+| Spillway                    | Part of a dam through which excess water can flow safely.                                                                                               |
 | Multi-Purpose River Project | A project designed to use river water for several purposes such as irrigation, electricity, flood control, water supply, navigation, and fish breeding. |
-| Hydroelectric Power | Electricity generated using flowing or falling water. |
-| Sedimentation | Deposition of silt, sand, and other materials in a river, reservoir, or water body. |
-| Salinisation | Increase of salts in soil, often due to over-irrigation and poor drainage. |
-| Rainwater Harvesting | Collecting and storing rainwater for use or groundwater recharge. |
-| Tanka | Underground tank used in Rajasthan to store rooftop rainwater. |
-| Palar Pani | Rainwater, considered pure in parts of Rajasthan. |
-| Khadin | Rain-fed storage structure in Jaisalmer where fields store water and moisture. |
-| Johad | Traditional rainwater storage structure in Rajasthan. |
-| Gul or Kul | Diversion channel used in the western Himalayas for irrigation. |
-| Inundation Channel | Channel used in flood plains to carry floodwater to fields. |
-| Bamboo Drip Irrigation | Traditional Meghalaya system using bamboo pipes to carry spring water to plants. |
+| Hydroelectric Power         | Electricity generated using flowing or falling water.                                                                                                   |
+| Sedimentation               | Deposition of silt, sand, and other materials in a river, reservoir, or water body.                                                                     |
+| Salinisation                | Increase of salts in soil, often due to over-irrigation and poor drainage.                                                                              |
+| Rainwater Harvesting        | Collecting and storing rainwater for use or groundwater recharge.                                                                                       |
+| Tanka                       | Underground tank used in Rajasthan to store rooftop rainwater.                                                                                          |
+| Palar Pani                  | Rainwater, considered pure in parts of Rajasthan.                                                                                                       |
+| Khadin                      | Rain-fed storage structure in Jaisalmer where fields store water and moisture.                                                                          |
+| Johad                       | Traditional rainwater storage structure in Rajasthan.                                                                                                   |
+| Gul or Kul                  | Diversion channel used in the western Himalayas for irrigation.                                                                                         |
+| Inundation Channel          | Channel used in flood plains to carry floodwater to fields.                                                                                             |
+| Bamboo Drip Irrigation      | Traditional Meghalaya system using bamboo pipes to carry spring water to plants.                                                                        |
 
 ---
 
@@ -125,16 +126,16 @@ Most water is in oceans and is salty. Freshwater is found in glaciers, ice sheet
 
 ## Important Water Facts
 
-| Fact | Detail |
-| --- | --- |
-| Earth's surface covered by water | About three-fourths |
-| World's water in oceans | About 96.5 percent |
-| World's water as freshwater | About 2.5 percent |
-| Freshwater in ice sheets and glaciers | Nearly 70 percent of freshwater |
-| Freshwater stored as groundwater | A little less than 30 percent |
-| India's share of global precipitation | Nearly 4 percent |
-| India's rank in water availability per person per year | 133 |
-| India's total renewable water resources | About 1,897 sq km per annum |
+| Fact                                                   | Detail                          |
+| ------------------------------------------------------ | ------------------------------- |
+| Earth's surface covered by water                       | About three-fourths             |
+| World's water in oceans                                | About 96.5 percent              |
+| World's water as freshwater                            | About 2.5 percent               |
+| Freshwater in ice sheets and glaciers                  | Nearly 70 percent of freshwater |
+| Freshwater stored as groundwater                       | A little less than 30 percent   |
+| India's share of global precipitation                  | Nearly 4 percent                |
+| India's rank in water availability per person per year | 133                             |
+| India's total renewable water resources                | About 1,897 sq km per annum     |
 
 ## Why Freshwater Is Actually Limited
 
@@ -167,15 +168,15 @@ Water becomes renewable through the hydrological cycle. This cycle continuously 
 
 ## Main Steps
 
-| Step | Explanation |
-| --- | --- |
-| Evaporation | Sun heats water and changes it into water vapour. |
-| Transpiration | Plants release water vapour into the air. |
-| Condensation | Water vapour cools and forms clouds. |
-| Precipitation | Water falls as rain, snow, hail, or sleet. |
-| Runoff | Water flows over land into rivers, lakes, and seas. |
-| Infiltration | Water enters the ground. |
-| Groundwater Recharge | Underground water stores are replenished. |
+| Step                 | Explanation                                         |
+| -------------------- | --------------------------------------------------- |
+| Evaporation          | Sun heats water and changes it into water vapour.   |
+| Transpiration        | Plants release water vapour into the air.           |
+| Condensation         | Water vapour cools and forms clouds.                |
+| Precipitation        | Water falls as rain, snow, hail, or sleet.          |
+| Runoff               | Water flows over land into rivers, lakes, and seas. |
+| Infiltration         | Water enters the ground.                            |
+| Groundwater Recharge | Underground water stores are replenished.           |
 
 ## Important Understanding
 
@@ -214,18 +215,18 @@ A region may receive rainfall and still face water scarcity if:
 
 ## Main Causes of Water Scarcity
 
-| Cause | Explanation |
-| --- | --- |
-| Low rainfall | Less water enters rivers, ponds, tanks, and groundwater. |
-| Seasonal rainfall | Water is available during monsoon but scarce in dry months. |
-| Over-exploitation | Water is withdrawn faster than it is recharged. |
-| Excessive use | Agriculture, industries, and cities use large quantities. |
-| Unequal access | Some social groups get water while others remain deprived. |
-| Large population | More people need more water for domestic use and food production. |
-| Intensive agriculture | Irrigation for dry-season agriculture consumes huge water. |
-| Industrialisation | Industries use and pollute water. |
-| Urbanisation | Cities pump groundwater and create high domestic demand. |
-| Pollution | Domestic waste, industrial waste, chemicals, pesticides, and fertilizers make water unsafe. |
+| Cause                 | Explanation                                                                                 |
+| --------------------- | ------------------------------------------------------------------------------------------- |
+| Low rainfall          | Less water enters rivers, ponds, tanks, and groundwater.                                    |
+| Seasonal rainfall     | Water is available during monsoon but scarce in dry months.                                 |
+| Over-exploitation     | Water is withdrawn faster than it is recharged.                                             |
+| Excessive use         | Agriculture, industries, and cities use large quantities.                                   |
+| Unequal access        | Some social groups get water while others remain deprived.                                  |
+| Large population      | More people need more water for domestic use and food production.                           |
+| Intensive agriculture | Irrigation for dry-season agriculture consumes huge water.                                  |
+| Industrialisation     | Industries use and pollute water.                                                           |
+| Urbanisation          | Cities pump groundwater and create high domestic demand.                                    |
+| Pollution             | Domestic waste, industrial waste, chemicals, pesticides, and fertilizers make water unsafe. |
 
 ## Water Scarcity and Agriculture
 
@@ -304,13 +305,13 @@ Water must be conserved and managed because:
 
 ## What Water Conservation Protects
 
-| Area | Why It Matters |
-| --- | --- |
-| Health | Clean water prevents disease. |
-| Food security | Agriculture needs reliable water. |
-| Livelihoods | Farmers, fishers, industries, and households need water. |
-| Ecosystems | Rivers, wetlands, forests, and wildlife need water. |
-| Social peace | Unequal water access can create conflict. |
+| Area          | Why It Matters                                           |
+| ------------- | -------------------------------------------------------- |
+| Health        | Clean water prevents disease.                            |
+| Food security | Agriculture needs reliable water.                        |
+| Livelihoods   | Farmers, fishers, industries, and households need water. |
+| Ecosystems    | Rivers, wetlands, forests, and wildlife need water.      |
+| Social peace  | Unequal water access can create conflict.                |
 
 ## Local Water Conservation Ideas
 
@@ -337,11 +338,11 @@ A dam is a barrier across flowing water that obstructs, directs, or slows the fl
 
 ## Parts and Features
 
-| Feature | Meaning |
-| --- | --- |
-| Reservoir | Stored water behind a dam. |
-| Spillway or weir | Structure through which water can flow intermittently or continuously. |
-| Dam wall or barrier | Structure that holds back or regulates water. |
+| Feature             | Meaning                                                                |
+| ------------------- | ---------------------------------------------------------------------- |
+| Reservoir           | Stored water behind a dam.                                             |
+| Spillway or weir    | Structure through which water can flow intermittently or continuously. |
+| Dam wall or barrier | Structure that holds back or regulates water.                          |
 
 ## Classification of Dams
 
@@ -373,16 +374,16 @@ Traditionally, dams were built to store river water and rainwater for irrigation
 
 Today dams are used for many purposes:
 
-| Purpose | Explanation |
-| --- | --- |
-| Irrigation | Stored water is supplied to agricultural fields. |
-| Electricity generation | Flowing water is used to produce hydroelectric power. |
-| Domestic water supply | Water is supplied to towns and villages. |
-| Industrial water supply | Industries receive water for production and cooling. |
-| Flood control | River flow is regulated to reduce floods. |
-| Recreation | Reservoirs may be used for boating and tourism. |
-| Inland navigation | Waterways may support transport. |
-| Fish breeding | Reservoirs may support fisheries. |
+| Purpose                 | Explanation                                           |
+| ----------------------- | ----------------------------------------------------- |
+| Irrigation              | Stored water is supplied to agricultural fields.      |
+| Electricity generation  | Flowing water is used to produce hydroelectric power. |
+| Domestic water supply   | Water is supplied to towns and villages.              |
+| Industrial water supply | Industries receive water for production and cooling.  |
+| Flood control           | River flow is regulated to reduce floods.             |
+| Recreation              | Reservoirs may be used for boating and tourism.       |
+| Inland navigation       | Waterways may support transport.                      |
+| Fish breeding           | Reservoirs may support fisheries.                     |
 
 ## Why They Are Called Multi-Purpose Projects
 
@@ -390,10 +391,10 @@ They are called multi-purpose projects because the same stored water is used for
 
 ## Examples
 
-| Project | River Basin | Purposes Mentioned |
-| --- | --- | --- |
-| Bhakra-Nangal Project | Sutluj-Beas basin | Hydel power and irrigation |
-| Hirakud Project | Mahanadi basin | Water conservation and flood control |
+| Project                | River Basin            | Purposes Mentioned                                                      |
+| ---------------------- | ---------------------- | ----------------------------------------------------------------------- |
+| Bhakra-Nangal Project  | Sutluj-Beas basin      | Hydel power and irrigation                                              |
+| Hirakud Project        | Mahanadi basin         | Water conservation and flood control                                    |
 | Sardar Sarovar Project | Narmada River, Gujarat | Water supply to drought-prone and desert areas of Gujarat and Rajasthan |
 
 ## Nehru's View
@@ -406,13 +407,13 @@ After Independence, multi-purpose river valley projects were seen as symbols of 
 
 The chapter shows that water management is not new in India. Ancient and medieval India had sophisticated hydraulic structures.
 
-| Period or Place | Water Structure or Practice |
-| --- | --- |
-| First century B.C., Sringaverapura near Allahabad | Water harvesting system that channelled floodwater of the Ganga |
-| Time of Chandragupta Maurya | Dams, lakes, and irrigation systems were extensively built |
-| Kalinga, Nagarjunakonda, Bennur, Kolhapur | Evidence of sophisticated irrigation works |
-| 11th century | Bhopal Lake, one of the largest artificial lakes of its time |
-| 14th century | Hauz Khas tank in Delhi built by Iltutmish to supply water to Siri Fort area |
+| Period or Place                                   | Water Structure or Practice                                                  |
+| ------------------------------------------------- | ---------------------------------------------------------------------------- |
+| First century B.C., Sringaverapura near Allahabad | Water harvesting system that channelled floodwater of the Ganga              |
+| Time of Chandragupta Maurya                       | Dams, lakes, and irrigation systems were extensively built                   |
+| Kalinga, Nagarjunakonda, Bennur, Kolhapur         | Evidence of sophisticated irrigation works                                   |
+| 11th century                                      | Bhopal Lake, one of the largest artificial lakes of its time                 |
+| 14th century                                      | Hauz Khas tank in Delhi built by Iltutmish to supply water to Siri Fort area |
 
 ## Importance
 
@@ -426,29 +427,29 @@ Large dams have benefits, but they have also come under criticism because of env
 
 ## Environmental Problems
 
-| Problem | Explanation |
-| --- | --- |
-| Disturbed river flow | Dams regulate and reduce natural river flow. |
-| Poor sediment flow | Sediment gets trapped in reservoirs instead of moving downstream. |
-| Excessive sedimentation | Reservoir bottoms fill with silt, reducing storage capacity. |
-| Rocky stream beds | Lack of sediment can make river beds rockier downstream. |
-| Poor aquatic habitat | Fish and other aquatic organisms lose suitable habitat. |
-| Blocked migration | Dams fragment rivers and prevent fish migration, especially for spawning. |
-| Submergence | Reservoirs submerge forests, soil, farms, and settlements. |
-| Decomposition | Submerged vegetation decomposes under water. |
-| Soil salinisation | Over-irrigation can increase salt in soil. |
-| Flood problems | Sudden water releases and reservoir sedimentation may worsen floods. |
-| Water-borne diseases | Stored water can encourage diseases and pests. |
-| Pollution | Excessive water use and stagnant water can create pollution issues. |
+| Problem                 | Explanation                                                               |
+| ----------------------- | ------------------------------------------------------------------------- |
+| Disturbed river flow    | Dams regulate and reduce natural river flow.                              |
+| Poor sediment flow      | Sediment gets trapped in reservoirs instead of moving downstream.         |
+| Excessive sedimentation | Reservoir bottoms fill with silt, reducing storage capacity.              |
+| Rocky stream beds       | Lack of sediment can make river beds rockier downstream.                  |
+| Poor aquatic habitat    | Fish and other aquatic organisms lose suitable habitat.                   |
+| Blocked migration       | Dams fragment rivers and prevent fish migration, especially for spawning. |
+| Submergence             | Reservoirs submerge forests, soil, farms, and settlements.                |
+| Decomposition           | Submerged vegetation decomposes under water.                              |
+| Soil salinisation       | Over-irrigation can increase salt in soil.                                |
+| Flood problems          | Sudden water releases and reservoir sedimentation may worsen floods.      |
+| Water-borne diseases    | Stored water can encourage diseases and pests.                            |
+| Pollution               | Excessive water use and stagnant water can create pollution issues.       |
 
 ## Social Problems
 
-| Problem | Explanation |
-| --- | --- |
-| Displacement | Villages, farms, forests, and homes may be submerged. |
-| Loss of livelihood | Farmers, fishers, pastoralists, and forest users may lose resources. |
-| Unequal benefits | Benefits often go to large farmers, industries, and urban centres. |
-| Local sacrifice | Local communities bear costs for national development. |
+| Problem               | Explanation                                                              |
+| --------------------- | ------------------------------------------------------------------------ |
+| Displacement          | Villages, farms, forests, and homes may be submerged.                    |
+| Loss of livelihood    | Farmers, fishers, pastoralists, and forest users may lose resources.     |
+| Unequal benefits      | Benefits often go to large farmers, industries, and urban centres.       |
+| Local sacrifice       | Local communities bear costs for national development.                   |
 | Rehabilitation issues | Displaced people may not receive fair compensation or secure livelihood. |
 
 ## Economic and Political Problems
@@ -550,14 +551,14 @@ This local adaptation is the strength of traditional water systems.
 
 ## Regional Methods
 
-| Region | Traditional System | Purpose |
-| --- | --- | --- |
-| Western Himalayas | Guls or kuls | Diversion channels for agriculture |
-| Rajasthan | Rooftop rainwater harvesting and tankas | Drinking water storage |
-| Bengal flood plains | Inundation channels | Irrigation using floodwater |
-| Jaisalmer, Rajasthan | Khadins | Rain-fed storage fields that moisten soil |
-| Other parts of Rajasthan | Johads | Water storage and groundwater recharge |
-| Meghalaya | Bamboo drip irrigation | Carrying spring water to plants |
+| Region                   | Traditional System                      | Purpose                                   |
+| ------------------------ | --------------------------------------- | ----------------------------------------- |
+| Western Himalayas        | Guls or kuls                            | Diversion channels for agriculture        |
+| Rajasthan                | Rooftop rainwater harvesting and tankas | Drinking water storage                    |
+| Bengal flood plains      | Inundation channels                     | Irrigation using floodwater               |
+| Jaisalmer, Rajasthan     | Khadins                                 | Rain-fed storage fields that moisten soil |
+| Other parts of Rajasthan | Johads                                  | Water storage and groundwater recharge    |
+| Meghalaya                | Bamboo drip irrigation                  | Carrying spring water to plants           |
 
 ## Guls and Kuls
 
@@ -756,13 +757,13 @@ Competing users include:
 
 ## Common Conflict Questions
 
-| Conflict | Core Issue |
-| --- | --- |
-| City versus village | Should water go first to urban supply or agriculture? |
-| Upstream versus downstream | Does upstream diversion reduce downstream water? |
-| Large farmer versus landless labourer | Who receives irrigation benefits? |
-| Industry versus household | Should water support factories or drinking needs? |
-| Project beneficiaries versus displaced people | Who gains and who sacrifices? |
+| Conflict                                      | Core Issue                                            |
+| --------------------------------------------- | ----------------------------------------------------- |
+| City versus village                           | Should water go first to urban supply or agriculture? |
+| Upstream versus downstream                    | Does upstream diversion reduce downstream water?      |
+| Large farmer versus landless labourer         | Who receives irrigation benefits?                     |
+| Industry versus household                     | Should water support factories or drinking needs?     |
+| Project beneficiaries versus displaced people | Who gains and who sacrifices?                         |
 
 ## Sabarmati Basin Example
 
@@ -782,42 +783,42 @@ Water management must consider fairness, not just engineering. A project is not 
 
 ## Water Scarcity: Quantity and Quality
 
-| Type | Meaning | Example |
-| --- | --- | --- |
-| Quantity scarcity | Not enough water available. | Low rainfall, overuse, falling groundwater. |
-| Quality scarcity | Water exists but is unsafe. | Pollution by sewage, chemicals, pesticides, industrial waste. |
+| Type              | Meaning                     | Example                                                       |
+| ----------------- | --------------------------- | ------------------------------------------------------------- |
+| Quantity scarcity | Not enough water available. | Low rainfall, overuse, falling groundwater.                   |
+| Quality scarcity  | Water exists but is unsafe. | Pollution by sewage, chemicals, pesticides, industrial waste. |
 
 ## Traditional and Modern Water Management
 
-| Point | Traditional Systems | Large Modern Projects |
-| --- | --- | --- |
-| Scale | Local or regional | Large river basin scale |
-| Knowledge | Based on local ecology | Based on engineering and state planning |
-| Examples | Tankas, johads, khadins, guls, kuls, bamboo drip | Bhakra-Nangal, Hirakud, Sardar Sarovar |
-| Benefits | Low-cost, community-based, locally adapted | Irrigation, power, water supply, flood control |
-| Risks | May decline if neglected | Displacement, ecological damage, disputes |
+| Point     | Traditional Systems                              | Large Modern Projects                          |
+| --------- | ------------------------------------------------ | ---------------------------------------------- |
+| Scale     | Local or regional                                | Large river basin scale                        |
+| Knowledge | Based on local ecology                           | Based on engineering and state planning        |
+| Examples  | Tankas, johads, khadins, guls, kuls, bamboo drip | Bhakra-Nangal, Hirakud, Sardar Sarovar         |
+| Benefits  | Low-cost, community-based, locally adapted       | Irrigation, power, water supply, flood control |
+| Risks     | May decline if neglected                         | Displacement, ecological damage, disputes      |
 
 ## Advantages and Disadvantages of Multi-Purpose Projects
 
-| Advantages | Disadvantages |
-| --- | --- |
-| Irrigation | Displacement of local communities |
-| Hydroelectricity | Submergence of forests and farmland |
-| Domestic water supply | Loss of livelihood |
-| Industrial water supply | Sedimentation in reservoirs |
-| Flood control | Disturbed river flow |
-| Fish breeding | Blocked fish migration |
-| Inland navigation | Inter-state water disputes |
-| Recreation | Soil salinisation and water-borne diseases |
+| Advantages              | Disadvantages                              |
+| ----------------------- | ------------------------------------------ |
+| Irrigation              | Displacement of local communities          |
+| Hydroelectricity        | Submergence of forests and farmland        |
+| Domestic water supply   | Loss of livelihood                         |
+| Industrial water supply | Sedimentation in reservoirs                |
+| Flood control           | Disturbed river flow                       |
+| Fish breeding           | Blocked fish migration                     |
+| Inland navigation       | Inter-state water disputes                 |
+| Recreation              | Soil salinisation and water-borne diseases |
 
 ## Rooftop Harvesting and Groundwater Pumping
 
-| Point | Rooftop Rainwater Harvesting | Excessive Groundwater Pumping |
-| --- | --- | --- |
-| Effect on groundwater | Recharges groundwater | Depletes groundwater |
-| Sustainability | More sustainable | Unsustainable if overused |
-| Cost | Often low to moderate | Can become costly as water table falls |
-| Equity | Can be community-friendly | Often favours those who can afford pumps |
+| Point                 | Rooftop Rainwater Harvesting | Excessive Groundwater Pumping            |
+| --------------------- | ---------------------------- | ---------------------------------------- |
+| Effect on groundwater | Recharges groundwater        | Depletes groundwater                     |
+| Sustainability        | More sustainable             | Unsustainable if overused                |
+| Cost                  | Often low to moderate        | Can become costly as water table falls   |
+| Equity                | Can be community-friendly    | Often favours those who can afford pumps |
 
 ---
 
@@ -827,12 +828,12 @@ Water management must consider fairness, not just engineering. A project is not 
 
 ### 1. Classify the situations as suffering or not suffering from water scarcity.
 
-| Situation | Classification | Reason |
-| --- | --- | --- |
-| Region with high annual rainfall | Not suffering from water scarcity, if demand and pollution are not problems | Rainfall is high and no other pressure is mentioned. |
-| Region with high annual rainfall and large population | Suffering from water scarcity | High demand may exceed available usable water. |
-| Region with high annual rainfall but highly polluted water | Suffering from water scarcity | Water exists but is unsafe for use. |
-| Region with low rainfall and low population | Not necessarily suffering from water scarcity | Low demand may balance low supply, depending on management. |
+| Situation                                                  | Classification                                                              | Reason                                                      |
+| ---------------------------------------------------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| Region with high annual rainfall                           | Not suffering from water scarcity, if demand and pollution are not problems | Rainfall is high and no other pressure is mentioned.        |
+| Region with high annual rainfall and large population      | Suffering from water scarcity                                               | High demand may exceed available usable water.              |
+| Region with high annual rainfall but highly polluted water | Suffering from water scarcity                                               | Water exists but is unsafe for use.                         |
+| Region with low rainfall and low population                | Not necessarily suffering from water scarcity                               | Low demand may balance low supply, depending on management. |
 
 ### 2. Which statement is not an argument in favour of multi-purpose river projects?
 
@@ -842,11 +843,11 @@ This is an argument against multi-purpose projects, not in favour of them.
 
 ### 3. Rewrite the false statements correctly.
 
-| False Statement | Correct Statement |
-| --- | --- |
-| Multiplying urban centres with dense populations and urban lifestyles have helped in proper utilisation of water resources. | Multiplying urban centres with dense populations and urban lifestyles have increased water demand and aggravated pressure on water resources. |
-| Regulating and damming of rivers does not affect natural flow and sediment flow. | Regulating and damming of rivers affects natural flow and reduces sediment flow. |
-| In Gujarat, Sabarmati basin farmers were not agitated when priority was given to urban water supply during droughts. | In Gujarat, Sabarmati basin farmers were agitated when higher priority was given to urban water supply during droughts. |
+| False Statement                                                                                                                     | Correct Statement                                                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Multiplying urban centres with dense populations and urban lifestyles have helped in proper utilisation of water resources.         | Multiplying urban centres with dense populations and urban lifestyles have increased water demand and aggravated pressure on water resources.                                   |
+| Regulating and damming of rivers does not affect natural flow and sediment flow.                                                    | Regulating and damming of rivers affects natural flow and reduces sediment flow.                                                                                                |
+| In Gujarat, Sabarmati basin farmers were not agitated when priority was given to urban water supply during droughts.                | In Gujarat, Sabarmati basin farmers were agitated when higher priority was given to urban water supply during droughts.                                                         |
 | Today in Rajasthan, rooftop rainwater harvesting has gained popularity due to high water availability from the Indira Gandhi Canal. | In western Rajasthan, rooftop rainwater harvesting has declined because perennial water is available through the Indira Gandhi Canal, though some houses still maintain tankas. |
 
 ---
@@ -929,15 +930,15 @@ Use this structure:
 
 # Common Mistakes to Avoid
 
-| Mistake | Correct Understanding |
-| --- | --- |
-| Writing that water scarcity happens only in deserts. | Scarcity can happen in cities and high-rainfall areas due to pollution, demand, and unequal access. |
-| Writing that water is unlimited because it is renewable. | Water is renewable through the hydrological cycle, but overuse and pollution create scarcity. |
-| Giving only advantages of dams. | Always include disadvantages when asked to evaluate multi-purpose projects. |
-| Calling all dams bad. | Dams have benefits, but they need careful planning and fair rehabilitation. |
-| Confusing tanka with johad. | Tanka is an underground household tank; johad is a traditional water storage structure. |
-| Forgetting quality scarcity. | Polluted water can create scarcity even where water quantity seems sufficient. |
-| Ignoring examples. | Use Bhakra-Nangal, Hirakud, Sardar Sarovar, Narmada Bachao, Shillong, Gendathur, and Rajasthan tankas. |
+| Mistake                                                  | Correct Understanding                                                                                  |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Writing that water scarcity happens only in deserts.     | Scarcity can happen in cities and high-rainfall areas due to pollution, demand, and unequal access.    |
+| Writing that water is unlimited because it is renewable. | Water is renewable through the hydrological cycle, but overuse and pollution create scarcity.          |
+| Giving only advantages of dams.                          | Always include disadvantages when asked to evaluate multi-purpose projects.                            |
+| Calling all dams bad.                                    | Dams have benefits, but they need careful planning and fair rehabilitation.                            |
+| Confusing tanka with johad.                              | Tanka is an underground household tank; johad is a traditional water storage structure.                |
+| Forgetting quality scarcity.                             | Polluted water can create scarcity even where water quantity seems sufficient.                         |
+| Ignoring examples.                                       | Use Bhakra-Nangal, Hirakud, Sardar Sarovar, Narmada Bachao, Shillong, Gendathur, and Rajasthan tankas. |
 
 ---
 
@@ -945,46 +946,46 @@ Use this structure:
 
 ## Causes of Water Scarcity
 
-| Cause | Key Point |
-| --- | --- |
-| Low rainfall | Less water supply |
-| Seasonal rainfall | Dry months create shortage |
-| Large population | More domestic and food demand |
-| Intensive agriculture | Irrigation consumes most water |
-| Industries | Use and pollute water |
-| Urbanisation | Dense cities increase demand |
-| Groundwater pumping | Lowers water table |
-| Pollution | Makes water unsafe |
-| Unequal access | Some groups get water, others do not |
+| Cause                 | Key Point                            |
+| --------------------- | ------------------------------------ |
+| Low rainfall          | Less water supply                    |
+| Seasonal rainfall     | Dry months create shortage           |
+| Large population      | More domestic and food demand        |
+| Intensive agriculture | Irrigation consumes most water       |
+| Industries            | Use and pollute water                |
+| Urbanisation          | Dense cities increase demand         |
+| Groundwater pumping   | Lowers water table                   |
+| Pollution             | Makes water unsafe                   |
+| Unequal access        | Some groups get water, others do not |
 
 ## Multi-Purpose Project Examples
 
-| Project | Basin or River | Use |
-| --- | --- | --- |
-| Bhakra-Nangal | Sutluj-Beas | Hydel power and irrigation |
-| Hirakud | Mahanadi | Water conservation and flood control |
-| Sardar Sarovar | Narmada | Water supply to drought-prone and desert areas |
+| Project        | Basin or River | Use                                            |
+| -------------- | -------------- | ---------------------------------------------- |
+| Bhakra-Nangal  | Sutluj-Beas    | Hydel power and irrigation                     |
+| Hirakud        | Mahanadi       | Water conservation and flood control           |
+| Sardar Sarovar | Narmada        | Water supply to drought-prone and desert areas |
 
 ## Traditional Water Systems
 
-| System | Region | Purpose |
-| --- | --- | --- |
-| Guls or kuls | Western Himalayas | Diversion channels for irrigation |
-| Tankas | Rajasthan | Rooftop drinking water storage |
-| Khadins | Jaisalmer | Field water storage and soil moisture |
-| Johads | Rajasthan | Water storage and recharge |
-| Inundation channels | Bengal | Floodwater irrigation |
-| Bamboo drip irrigation | Meghalaya | Drip watering from springs |
+| System                 | Region            | Purpose                               |
+| ---------------------- | ----------------- | ------------------------------------- |
+| Guls or kuls           | Western Himalayas | Diversion channels for irrigation     |
+| Tankas                 | Rajasthan         | Rooftop drinking water storage        |
+| Khadins                | Jaisalmer         | Field water storage and soil moisture |
+| Johads                 | Rajasthan         | Water storage and recharge            |
+| Inundation channels    | Bengal            | Floodwater irrigation                 |
+| Bamboo drip irrigation | Meghalaya         | Drip watering from springs            |
 
 ## Rainwater Harvesting Examples
 
-| Place | Example |
-| --- | --- |
-| Rajasthan | Rooftop water stored in tankas |
-| Shillong | Rooftop harvesting supplies part of household water |
-| Gendathur, Karnataka | Village households collect rainwater from rooftops |
-| Tamil Nadu | Rooftop harvesting made compulsory |
-| Meghalaya | Bamboo drip irrigation |
+| Place                | Example                                             |
+| -------------------- | --------------------------------------------------- |
+| Rajasthan            | Rooftop water stored in tankas                      |
+| Shillong             | Rooftop harvesting supplies part of household water |
+| Gendathur, Karnataka | Village households collect rainwater from rooftops  |
+| Tamil Nadu           | Rooftop harvesting made compulsory                  |
+| Meghalaya            | Bamboo drip irrigation                              |
 
 ---
 

@@ -1,4 +1,5 @@
 # Chapter 4: Water Resources
+
 ### NCERT Class 12 - Geography India
 
 ## Chapter at a Glance
@@ -23,27 +24,27 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Surface water | Water found in rivers, lakes, ponds, tanks, and reservoirs. |
-| Groundwater | Water stored below Earth's surface in aquifers. |
-| River basin | Area drained by a river and its tributaries. |
-| Watershed | Smaller drainage unit dividing water flow. |
-| Irrigation | Artificial supply of water to crops. |
+| Term                 | Meaning                                                                             |
+| -------------------- | ----------------------------------------------------------------------------------- |
+| Surface water        | Water found in rivers, lakes, ponds, tanks, and reservoirs.                         |
+| Groundwater          | Water stored below Earth's surface in aquifers.                                     |
+| River basin          | Area drained by a river and its tributaries.                                        |
+| Watershed            | Smaller drainage unit dividing water flow.                                          |
+| Irrigation           | Artificial supply of water to crops.                                                |
 | Multipurpose project | River project serving irrigation, power, flood control, navigation, and other uses. |
-| Water scarcity | Shortage of usable water compared with demand. |
-| Rainwater harvesting | Collection and storage of rainwater for use or recharge. |
+| Water scarcity       | Shortage of usable water compared with demand.                                      |
+| Rainwater harvesting | Collection and storage of rainwater for use or recharge.                            |
 
 ## Quick Learning Map
 
-| Water issue | Main reason |
-|---|---|
-| Seasonal shortage | Monsoon concentration |
-| Regional shortage | Uneven rainfall |
-| Groundwater decline | Over-extraction |
-| Pollution | Domestic, industrial, and agricultural waste |
-| Conflict | Competing users and states |
-| Conservation need | Rising demand and limited usable water |
+| Water issue         | Main reason                                  |
+| ------------------- | -------------------------------------------- |
+| Seasonal shortage   | Monsoon concentration                        |
+| Regional shortage   | Uneven rainfall                              |
+| Groundwater decline | Over-extraction                              |
+| Pollution           | Domestic, industrial, and agricultural waste |
+| Conflict            | Competing users and states                   |
+| Conservation need   | Rising demand and limited usable water       |
 
 # Unit 4A: India's Water Resources
 
@@ -261,13 +262,13 @@ For multipurpose projects:
 
 # Unit 4N: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Saying India has no water problem because rainfall is high | Rainfall is uneven and seasonal. |
-| Ignoring groundwater | Groundwater is crucial for irrigation and drinking water. |
-| Treating dams as only beneficial | They also create social and ecological concerns. |
-| Confusing watershed and river basin | Watershed is a smaller drainage unit. |
-| Suggesting only more supply | Demand management and conservation are essential. |
+| Mistake                                                    | Correction                                                |
+| ---------------------------------------------------------- | --------------------------------------------------------- |
+| Saying India has no water problem because rainfall is high | Rainfall is uneven and seasonal.                          |
+| Ignoring groundwater                                       | Groundwater is crucial for irrigation and drinking water. |
+| Treating dams as only beneficial                           | They also create social and ecological concerns.          |
+| Confusing watershed and river basin                        | Watershed is a smaller drainage unit.                     |
+| Suggesting only more supply                                | Demand management and conservation are essential.         |
 
 ## Practice Set
 

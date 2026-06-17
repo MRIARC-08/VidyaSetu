@@ -259,7 +259,7 @@ export default function DashboardPage() {
 
       {/* streak tracking */}
 
-      <div className='flex flex-col gap-4 w-full'>
+      <div className="flex flex-col gap-4 w-full">
         <StreakDashboard />
       </div>
 

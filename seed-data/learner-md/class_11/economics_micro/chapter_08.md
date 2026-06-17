@@ -48,58 +48,58 @@ By the end of this chapter, you should be able to:
 
 ## Big Picture Map
 
-| Topic | Main Question | Core Answer |
-| --- | --- | --- |
-| Supply | What quantity does a firm sell at a price? | The quantity it chooses to sell, given technology and input prices. |
-| Supply schedule | How is supply shown in a table? | A table of price and quantity supplied. |
-| Supply curve | How is supply shown in a graph? | Output on x-axis, price on y-axis. |
-| Short-run supply | When does the firm produce in the short run? | If price is at least minimum AVC. |
-| Long-run supply | When does the firm produce in the long run? | If price is at least minimum LRAC. |
-| Shutdown point | When does output become zero? | Below minimum AVC in short run; below minimum LRAC in long run. |
-| Break-even point | When does the firm earn only normal profit? | At minimum average cost. |
-| Technology | What if production improves? | MC falls, supply shifts right. |
-| Input prices | What if inputs become costlier? | MC rises, supply shifts left. |
-| Unit tax | What if tax is imposed per unit? | Cost rises per unit, supply shifts left. |
-| Market supply | How do firms combine? | Add firm supplies at each price. |
+| Topic            | Main Question                                | Core Answer                                                         |
+| ---------------- | -------------------------------------------- | ------------------------------------------------------------------- |
+| Supply           | What quantity does a firm sell at a price?   | The quantity it chooses to sell, given technology and input prices. |
+| Supply schedule  | How is supply shown in a table?              | A table of price and quantity supplied.                             |
+| Supply curve     | How is supply shown in a graph?              | Output on x-axis, price on y-axis.                                  |
+| Short-run supply | When does the firm produce in the short run? | If price is at least minimum AVC.                                   |
+| Long-run supply  | When does the firm produce in the long run?  | If price is at least minimum LRAC.                                  |
+| Shutdown point   | When does output become zero?                | Below minimum AVC in short run; below minimum LRAC in long run.     |
+| Break-even point | When does the firm earn only normal profit?  | At minimum average cost.                                            |
+| Technology       | What if production improves?                 | MC falls, supply shifts right.                                      |
+| Input prices     | What if inputs become costlier?              | MC rises, supply shifts left.                                       |
+| Unit tax         | What if tax is imposed per unit?             | Cost rises per unit, supply shifts left.                            |
+| Market supply    | How do firms combine?                        | Add firm supplies at each price.                                    |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Supply | Quantity a firm chooses to sell at a given price, given technology and factor prices. |
-| Supply schedule | A table showing quantities supplied at different prices. |
-| Supply curve | A graph showing quantities supplied at different prices. |
-| Short-run supply curve | The rising part of the SMC curve from and above minimum AVC, plus zero output below minimum AVC. |
-| Long-run supply curve | The rising part of the LRMC curve from and above minimum LRAC, plus zero output below minimum LRAC. |
-| SMC | Short-run marginal cost. |
-| AVC | Average variable cost. |
-| SAC | Short-run average cost. |
-| LRMC | Long-run marginal cost. |
-| LRAC | Long-run average cost. |
-| Shutdown point | Price-output point below which the firm stops production. |
-| Normal profit | Minimum profit needed to keep the firm in its current business. |
-| Supernormal profit | Profit over and above normal profit. |
-| Break-even point | Point where the firm earns only normal profit. |
-| Opportunity cost | Value of the best alternative opportunity sacrificed. |
-| Unit tax | A tax imposed per unit of output sold. |
-| Market supply | Total quantity supplied by all firms in the market at a given price. |
-| Horizontal summation | Adding quantities supplied by individual firms at each price to get market supply. |
+| Term                   | Meaning                                                                                             |
+| ---------------------- | --------------------------------------------------------------------------------------------------- |
+| Supply                 | Quantity a firm chooses to sell at a given price, given technology and factor prices.               |
+| Supply schedule        | A table showing quantities supplied at different prices.                                            |
+| Supply curve           | A graph showing quantities supplied at different prices.                                            |
+| Short-run supply curve | The rising part of the SMC curve from and above minimum AVC, plus zero output below minimum AVC.    |
+| Long-run supply curve  | The rising part of the LRMC curve from and above minimum LRAC, plus zero output below minimum LRAC. |
+| SMC                    | Short-run marginal cost.                                                                            |
+| AVC                    | Average variable cost.                                                                              |
+| SAC                    | Short-run average cost.                                                                             |
+| LRMC                   | Long-run marginal cost.                                                                             |
+| LRAC                   | Long-run average cost.                                                                              |
+| Shutdown point         | Price-output point below which the firm stops production.                                           |
+| Normal profit          | Minimum profit needed to keep the firm in its current business.                                     |
+| Supernormal profit     | Profit over and above normal profit.                                                                |
+| Break-even point       | Point where the firm earns only normal profit.                                                      |
+| Opportunity cost       | Value of the best alternative opportunity sacrificed.                                               |
+| Unit tax               | A tax imposed per unit of output sold.                                                              |
+| Market supply          | Total quantity supplied by all firms in the market at a given price.                                |
+| Horizontal summation   | Adding quantities supplied by individual firms at each price to get market supply.                  |
 
 ---
 
 ## Formula Board
 
-| Formula Or Rule | Meaning | Use |
-| --- | --- | --- |
-| `Supply = quantity sold at a given price` | Supply is price-specific. | Used in definitions. |
-| Short-run supply | Rising part of `SMC` from and above minimum `AVC` | Used to derive short-run firm supply. |
-| Long-run supply | Rising part of `LRMC` from and above minimum `LRAC` | Used to derive long-run firm supply. |
-| Short-run shutdown | Price < minimum `AVC` | Firm produces zero output in short run. |
-| Long-run shutdown | Price < minimum `LRAC` | Firm produces zero output in long run. |
-| Market supply | `S1(p) + S2(p) + ... + Sn(p)` | Add firm supplies at each price. |
-| Unit tax burden | `Tax = unit tax x quantity sold` | Used to calculate tax payment. |
+| Formula Or Rule                           | Meaning                                             | Use                                     |
+| ----------------------------------------- | --------------------------------------------------- | --------------------------------------- |
+| `Supply = quantity sold at a given price` | Supply is price-specific.                           | Used in definitions.                    |
+| Short-run supply                          | Rising part of `SMC` from and above minimum `AVC`   | Used to derive short-run firm supply.   |
+| Long-run supply                           | Rising part of `LRMC` from and above minimum `LRAC` | Used to derive long-run firm supply.    |
+| Short-run shutdown                        | Price < minimum `AVC`                               | Firm produces zero output in short run. |
+| Long-run shutdown                         | Price < minimum `LRAC`                              | Firm produces zero output in long run.  |
+| Market supply                             | `S1(p) + S2(p) + ... + Sn(p)`                       | Add firm supplies at each price.        |
+| Unit tax burden                           | `Tax = unit tax x quantity sold`                    | Used to calculate tax payment.          |
 
 ---
 
@@ -131,13 +131,13 @@ But conceptually:
 
 Supply depends on:
 
-| Determinant | Why It Matters |
-| --- | --- |
-| Market price | Higher price can make production more profitable. |
-| Technology | Better technology lowers cost and raises supply. |
-| Factor prices | Higher input prices raise cost and reduce supply. |
-| Cost curves | Supply is derived from marginal and average cost curves. |
-| Time period | Short-run and long-run supply conditions differ. |
+| Determinant   | Why It Matters                                           |
+| ------------- | -------------------------------------------------------- |
+| Market price  | Higher price can make production more profitable.        |
+| Technology    | Better technology lowers cost and raises supply.         |
+| Factor prices | Higher input prices raise cost and reduce supply.        |
+| Cost curves   | Supply is derived from marginal and average cost curves. |
+| Time period   | Short-run and long-run supply conditions differ.         |
 
 ---
 
@@ -150,11 +150,11 @@ A supply schedule is a table that shows how much a firm supplies at different pr
 Example:
 
 | Price | Quantity Supplied |
-| ---: | ---: |
-| 5 | 0 |
-| 10 | 2 |
-| 15 | 5 |
-| 20 | 9 |
+| ----: | ----------------: |
+|     5 |                 0 |
+|    10 |                 2 |
+|    15 |                 5 |
+|    20 |                 9 |
 
 This table shows that the firm supplies more at higher prices.
 
@@ -297,10 +297,10 @@ If price does not cover average variable cost, production increases losses.
 
 ## 4.3 Shutdown Rule
 
-| Price Condition | Firm's Short-Run Decision |
-| --- | --- |
-| `Price > minimum AVC` | Produce positive output. |
-| `Price = minimum AVC` | Just willing to produce. |
+| Price Condition       | Firm's Short-Run Decision       |
+| --------------------- | ------------------------------- |
+| `Price > minimum AVC` | Produce positive output.        |
+| `Price = minimum AVC` | Just willing to produce.        |
 | `Price < minimum AVC` | Shut down; produce zero output. |
 
 ## 4.4 Important Clarification
@@ -368,14 +368,14 @@ Below this price, the firm will not produce in the long run.
 
 # 6. Short Run Versus Long Run Supply
 
-| Basis | Short Run | Long Run |
-| --- | --- | --- |
-| Some costs fixed? | Yes | No |
-| Relevant average cost for shutdown | AVC | LRAC |
-| Supply curve based on | Rising part of SMC | Rising part of LRMC |
-| Positive output condition | Price >= minimum AVC | Price >= minimum LRAC |
-| Shutdown point | Minimum AVC | Minimum LRAC |
-| Exit possible? | Not fully, because fixed factors remain | Yes, the firm can leave the industry |
+| Basis                              | Short Run                               | Long Run                             |
+| ---------------------------------- | --------------------------------------- | ------------------------------------ |
+| Some costs fixed?                  | Yes                                     | No                                   |
+| Relevant average cost for shutdown | AVC                                     | LRAC                                 |
+| Supply curve based on              | Rising part of SMC                      | Rising part of LRMC                  |
+| Positive output condition          | Price >= minimum AVC                    | Price >= minimum LRAC                |
+| Shutdown point                     | Minimum AVC                             | Minimum LRAC                         |
+| Exit possible?                     | Not fully, because fixed factors remain | Yes, the firm can leave the industry |
 
 ## 6.1 Why The Difference Exists
 
@@ -446,10 +446,10 @@ In the short run, the break-even point is connected with SAC.
 
 ## 7.6 Shutdown Point Versus Break-Even Point
 
-| Concept | Short Run | Long Run | Meaning |
-| --- | --- | --- | --- |
-| Shutdown point | Minimum AVC | Minimum LRAC | Below this, firm supplies zero. |
-| Break-even point | Minimum SAC | Minimum LRAC | Firm earns only normal profit. |
+| Concept          | Short Run   | Long Run     | Meaning                         |
+| ---------------- | ----------- | ------------ | ------------------------------- |
+| Shutdown point   | Minimum AVC | Minimum LRAC | Below this, firm supplies zero. |
+| Break-even point | Minimum SAC | Minimum LRAC | Firm earns only normal profit.  |
 
 In the long run, shutdown and break-even both relate to LRAC because all costs must be covered.
 
@@ -765,13 +765,13 @@ Sm(p) = 2p - 25, if p >= 15
 ## 13.5 Sample Table
 
 | Price `p` | Firm 1 Supply | Firm 2 Supply | Market Supply |
-| ---: | ---: | ---: | ---: |
-| 8 | 0 | 0 | 0 |
-| 10 | 0 | 0 | 0 |
-| 12 | 2 | 0 | 2 |
-| 15 | 5 | 0 | 5 |
-| 20 | 10 | 5 | 15 |
-| 25 | 15 | 10 | 25 |
+| --------: | ------------: | ------------: | ------------: |
+|         8 |             0 |             0 |             0 |
+|        10 |             0 |             0 |             0 |
+|        12 |             2 |             0 |             2 |
+|        15 |             5 |             0 |             5 |
+|        20 |            10 |             5 |            15 |
+|        25 |            15 |            10 |            25 |
 
 Note: At `p = 15`, firm 2's supply is `15 - 15 = 0`. It begins positive supply only when price rises above 15.
 
@@ -837,14 +837,14 @@ Causes include:
 
 ## 15.3 Shift Summary
 
-| Event | Effect On Cost | Effect On Supply |
-| --- | --- | --- |
-| Better technology | Cost falls | Supply shifts right |
-| Input price rises | Cost rises | Supply shifts left |
-| Input price falls | Cost falls | Supply shifts right |
-| Unit tax imposed | Cost rises | Supply shifts left |
-| Number of firms rises | More producers | Market supply shifts right |
-| Number of firms falls | Fewer producers | Market supply shifts left |
+| Event                 | Effect On Cost  | Effect On Supply           |
+| --------------------- | --------------- | -------------------------- |
+| Better technology     | Cost falls      | Supply shifts right        |
+| Input price rises     | Cost rises      | Supply shifts left         |
+| Input price falls     | Cost falls      | Supply shifts right        |
+| Unit tax imposed      | Cost rises      | Supply shifts left         |
+| Number of firms rises | More producers  | Market supply shifts right |
+| Number of firms falls | Fewer producers | Market supply shifts left  |
 
 ---
 
@@ -871,12 +871,12 @@ Examples:
 
 ## 16.3 Movement Versus Shift Table
 
-| Basis | Movement Along Supply Curve | Shift Of Supply Curve |
-| --- | --- | --- |
-| Cause | Change in own price | Change in cost or number of firms |
-| Curve | Same curve | New curve |
-| Example | Market price rises | Wage rate rises |
-| Language | Quantity supplied changes | Supply changes |
+| Basis    | Movement Along Supply Curve | Shift Of Supply Curve             |
+| -------- | --------------------------- | --------------------------------- |
+| Cause    | Change in own price         | Change in cost or number of firms |
+| Curve    | Same curve                  | New curve                         |
+| Example  | Market price rises          | Wage rate rises                   |
+| Language | Quantity supplied changes   | Supply changes                    |
 
 ---
 
@@ -1006,18 +1006,18 @@ The firm's supply curve shifts left, so at any given price the firm supplies les
 
 # 19. Common Mistakes And Corrections
 
-| Mistake | Correct Understanding |
-| --- | --- |
-| Supply means total production. | Supply means quantity offered for sale at a given price. |
-| The whole SMC curve is the short-run supply curve. | Only the rising part of SMC from and above minimum AVC is the short-run supply curve. |
-| A firm produces whenever price equals MC. | Price must equal MC on the rising part and must also cover the relevant average cost condition. |
-| Shutdown point is minimum SAC in the short run. | Short-run shutdown point is minimum AVC. |
-| Break-even point and shutdown point are always the same. | They differ in the short run; shutdown uses AVC, break-even uses average cost. |
-| Normal profit is extra profit. | Normal profit is the minimum profit needed to stay in business and is included in cost. |
-| Market supply is found by adding prices. | Market supply is found by adding quantities at each price. |
-| A unit tax shifts supply right. | A unit tax raises cost and shifts supply left. |
-| Technological progress shifts supply left. | Technological progress lowers cost and shifts supply right. |
-| Increase in number of firms causes movement along supply curve. | It shifts the market supply curve right. |
+| Mistake                                                         | Correct Understanding                                                                           |
+| --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| Supply means total production.                                  | Supply means quantity offered for sale at a given price.                                        |
+| The whole SMC curve is the short-run supply curve.              | Only the rising part of SMC from and above minimum AVC is the short-run supply curve.           |
+| A firm produces whenever price equals MC.                       | Price must equal MC on the rising part and must also cover the relevant average cost condition. |
+| Shutdown point is minimum SAC in the short run.                 | Short-run shutdown point is minimum AVC.                                                        |
+| Break-even point and shutdown point are always the same.        | They differ in the short run; shutdown uses AVC, break-even uses average cost.                  |
+| Normal profit is extra profit.                                  | Normal profit is the minimum profit needed to stay in business and is included in cost.         |
+| Market supply is found by adding prices.                        | Market supply is found by adding quantities at each price.                                      |
+| A unit tax shifts supply right.                                 | A unit tax raises cost and shifts supply left.                                                  |
+| Technological progress shifts supply left.                      | Technological progress lowers cost and shifts supply right.                                     |
+| Increase in number of firms causes movement along supply curve. | It shifts the market supply curve right.                                                        |
 
 ---
 
@@ -1220,4 +1220,3 @@ Before moving on, make sure you can:
 - derive market supply by horizontal summation,
 - solve the two-firm supply example,
 - distinguish movement along supply curve from shift of supply curve.
-

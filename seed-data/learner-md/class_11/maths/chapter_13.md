@@ -37,17 +37,17 @@ But a central value does not tell us how the values are distributed around it.
 Consider two batsmen and their runs in ten matches.
 
 | Match | Batsman A | Batsman B |
-|---:|---:|---:|
-| 1 | 30 | 53 |
-| 2 | 91 | 46 |
-| 3 | 0 | 48 |
-| 4 | 64 | 50 |
-| 5 | 42 | 53 |
-| 6 | 80 | 53 |
-| 7 | 30 | 58 |
-| 8 | 5 | 60 |
-| 9 | 117 | 57 |
-| 10 | 71 | 52 |
+| ----: | --------: | --------: |
+|     1 |        30 |        53 |
+|     2 |        91 |        46 |
+|     3 |         0 |        48 |
+|     4 |        64 |        50 |
+|     5 |        42 |        53 |
+|     6 |        80 |        53 |
+|     7 |        30 |        58 |
+|     8 |         5 |        60 |
+|     9 |       117 |        57 |
+|    10 |        71 |        52 |
 
 For both players:
 
@@ -77,9 +77,9 @@ If observations are far from one another, dispersion is large.
 Suppose two data sets have the same mean:
 
 | Data set | Observations | Mean |
-|---|---|---:|
-| A | 48, 50, 52 | 50 |
-| B | 10, 50, 90 | 50 |
+| -------- | ------------ | ---: |
+| A        | 48, 50, 52   |   50 |
+| B        | 10, 50, 90   |   50 |
 
 Both means are 50.
 
@@ -93,12 +93,12 @@ So data set B has greater dispersion.
 
 This chapter studies the following measures:
 
-| Measure | Basic idea |
-|---|---|
-| Range | Difference between the maximum and minimum values |
-| Mean deviation | Average absolute distance from a central value |
-| Variance | Average squared distance from the mean |
-| Standard deviation | Positive square root of variance |
+| Measure            | Basic idea                                        |
+| ------------------ | ------------------------------------------------- |
+| Range              | Difference between the maximum and minimum values |
+| Mean deviation     | Average absolute distance from a central value    |
+| Variance           | Average squared distance from the mean            |
+| Standard deviation | Positive square root of variance                  |
 
 Quartile deviation is also a measure of dispersion, but it is not developed in this chapter.
 
@@ -143,10 +143,10 @@ It ignores every other observation.
 
 For example:
 
-| Data set | Range |
-|---|---:|
-| 10, 11, 12, 13, 14 | 4 |
-| 10, 10, 10, 10, 14 | 4 |
+| Data set           | Range |
+| ------------------ | ----: |
+| 10, 11, 12, 13, 14 |     4 |
+| 10, 10, 10, 10, 14 |     4 |
 
 Both have the same range, but their internal spread is not the same.
 
@@ -169,10 +169,10 @@ If \(x = a\), the deviation is zero.
 Example:
 
 | Observation \(x\) | Fixed value \(a\) | Deviation \(x-a\) |
-|---:|---:|---:|
-| 12 | 10 | 2 |
-| 8 | 10 | -2 |
-| 10 | 10 | 0 |
+| ----------------: | ----------------: | ----------------: |
+|                12 |                10 |                 2 |
+|                 8 |                10 |                -2 |
+|                10 |                10 |                 0 |
 
 The difficulty is that positive and negative deviations may cancel out.
 
@@ -281,16 +281,16 @@ $$
 
 Now find deviations from 9 and their absolute values.
 
-| \(x_i\) | \(x_i-\bar{x}\) | \(|x_i-\bar{x}|\) |
-|---:|---:|---:|
-| 6 | -3 | 3 |
-| 7 | -2 | 2 |
-| 10 | 1 | 1 |
-| 12 | 3 | 3 |
-| 13 | 4 | 4 |
-| 4 | -5 | 5 |
-| 8 | -1 | 1 |
-| 12 | 3 | 3 |
+| \(x_i\) | \(x_i-\bar{x}\) |  \( | x_i-\bar{x} | \)  |
+| ------: | --------------: | --: | ----------- | --- |
+|       6 |              -3 |   3 |
+|       7 |              -2 |   2 |
+|      10 |               1 |   1 |
+|      12 |               3 |   3 |
+|      13 |               4 |   4 |
+|       4 |              -5 |   5 |
+|       8 |              -1 |   1 |
+|      12 |               3 |   3 |
 
 Sum of absolute deviations:
 
@@ -351,19 +351,19 @@ $$
 
 Now compute absolute deviations from 9.
 
-| \(x_i\) | \(|x_i-M|\) |
-|---:|---:|
-| 3 | 6 |
-| 3 | 6 |
-| 4 | 5 |
-| 5 | 4 |
-| 7 | 2 |
-| 9 | 0 |
-| 10 | 1 |
-| 12 | 3 |
-| 18 | 9 |
-| 19 | 10 |
-| 21 | 12 |
+| \(x_i\) |  \( | x_i-M | \)  |
+| ------: | --: | ----- | --- |
+|       3 |   6 |
+|       3 |   6 |
+|       4 |   5 |
+|       5 |   4 |
+|       7 |   2 |
+|       9 |   0 |
+|      10 |   1 |
+|      12 |   3 |
+|      18 |   9 |
+|      19 |  10 |
+|      21 |  12 |
 
 Sum:
 
@@ -392,8 +392,8 @@ $$
 In a discrete frequency distribution, each observation has a frequency.
 
 | Observation | \(x_1\) | \(x_2\) | \(x_3\) | ... | \(x_n\) |
-|---|---:|---:|---:|---:|---:|
-| Frequency | \(f_1\) | \(f_2\) | \(f_3\) | ... | \(f_n\) |
+| ----------- | ------: | ------: | ------: | --: | ------: |
+| Frequency   | \(f_1\) | \(f_2\) | \(f_3\) | ... | \(f_n\) |
 
 The total frequency is:
 
@@ -492,22 +492,22 @@ In many frequency tables, both middle positions may correspond to the same obser
 
 Find the mean deviation about median for the following distribution.
 
-| \(x_i\) | 3 | 6 | 9 | 12 | 13 | 15 | 21 | 22 |
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| \(f_i\) | 3 | 4 | 5 | 2 | 4 | 5 | 4 | 3 |
+| \(x_i\) |   3 |   6 |   9 |  12 |  13 |  15 |  21 |  22 |
+| ------: | --: | --: | --: | --: | --: | --: | --: | --: |
+| \(f_i\) |   3 |   4 |   5 |   2 |   4 |   5 |   4 |   3 |
 
 First form cumulative frequencies.
 
 | \(x_i\) | \(f_i\) | Cumulative frequency |
-|---:|---:|---:|
-| 3 | 3 | 3 |
-| 6 | 4 | 7 |
-| 9 | 5 | 12 |
-| 12 | 2 | 14 |
-| 13 | 4 | 18 |
-| 15 | 5 | 23 |
-| 21 | 4 | 27 |
-| 22 | 3 | 30 |
+| ------: | ------: | -------------------: |
+|       3 |       3 |                    3 |
+|       6 |       4 |                    7 |
+|       9 |       5 |                   12 |
+|      12 |       2 |                   14 |
+|      13 |       4 |                   18 |
+|      15 |       5 |                   23 |
+|      21 |       4 |                   27 |
+|      22 |       3 |                   30 |
 
 Here:
 
@@ -527,16 +527,16 @@ $$
 
 Now compute absolute deviations.
 
-| \(x_i\) | \(f_i\) | \(|x_i-M|\) | \(f_i|x_i-M|\) |
-|---:|---:|---:|---:|
-| 3 | 3 | 10 | 30 |
-| 6 | 4 | 7 | 28 |
-| 9 | 5 | 4 | 20 |
-| 12 | 2 | 1 | 2 |
-| 13 | 4 | 0 | 0 |
-| 15 | 5 | 2 | 10 |
-| 21 | 4 | 8 | 32 |
-| 22 | 3 | 9 | 27 |
+| \(x_i\) | \(f_i\) |  \( | x_i-M | \)  | \(f_i | x_i-M | \)  |
+| ------: | ------: | --: | ----: | --- | ----- | ----- | --- |
+|       3 |       3 |  10 |    30 |
+|       6 |       4 |   7 |    28 |
+|       9 |       5 |   4 |    20 |
+|      12 |       2 |   1 |     2 |
+|      13 |       4 |   0 |     0 |
+|      15 |       5 |   2 |    10 |
+|      21 |       4 |   8 |    32 |
+|      22 |       3 |   9 |    27 |
 
 Sum:
 
@@ -566,9 +566,9 @@ In a continuous frequency distribution, observations are given in class interval
 
 Example:
 
-| Marks | 10-20 | 20-30 | 30-40 | 40-50 |
-|---|---:|---:|---:|---:|
-| Frequency | 2 | 3 | 8 | 14 |
+| Marks     | 10-20 | 20-30 | 30-40 | 40-50 |
+| --------- | ----: | ----: | ----: | ----: |
+| Frequency |     2 |     3 |     8 |    14 |
 
 In such data, individual observations are not listed.
 
@@ -604,21 +604,21 @@ where \(x_i\) is the class midpoint.
 
 Find mean deviation about mean.
 
-| Marks | 10-20 | 20-30 | 30-40 | 40-50 | 50-60 | 60-70 | 70-80 |
-|---|---:|---:|---:|---:|---:|---:|---:|
-| Frequency | 2 | 3 | 8 | 14 | 8 | 3 | 2 |
+| Marks     | 10-20 | 20-30 | 30-40 | 40-50 | 50-60 | 60-70 | 70-80 |
+| --------- | ----: | ----: | ----: | ----: | ----: | ----: | ----: |
+| Frequency |     2 |     3 |     8 |    14 |     8 |     3 |     2 |
 
 First find midpoints.
 
 | Class | \(f_i\) | Midpoint \(x_i\) | \(f_i x_i\) |
-|---|---:|---:|---:|
-| 10-20 | 2 | 15 | 30 |
-| 20-30 | 3 | 25 | 75 |
-| 30-40 | 8 | 35 | 280 |
-| 40-50 | 14 | 45 | 630 |
-| 50-60 | 8 | 55 | 440 |
-| 60-70 | 3 | 65 | 195 |
-| 70-80 | 2 | 75 | 150 |
+| ----- | ------: | ---------------: | ----------: |
+| 10-20 |       2 |               15 |          30 |
+| 20-30 |       3 |               25 |          75 |
+| 30-40 |       8 |               35 |         280 |
+| 40-50 |      14 |               45 |         630 |
+| 50-60 |       8 |               55 |         440 |
+| 60-70 |       3 |               65 |         195 |
+| 70-80 |       2 |               75 |         150 |
 
 Totals:
 
@@ -638,15 +638,15 @@ $$
 
 Now compute absolute deviations from 45.
 
-| \(x_i\) | \(f_i\) | \(|x_i-\bar{x}|\) | \(f_i|x_i-\bar{x}|\) |
-|---:|---:|---:|---:|
-| 15 | 2 | 30 | 60 |
-| 25 | 3 | 20 | 60 |
-| 35 | 8 | 10 | 80 |
-| 45 | 14 | 0 | 0 |
-| 55 | 8 | 10 | 80 |
-| 65 | 3 | 20 | 60 |
-| 75 | 2 | 30 | 60 |
+| \(x_i\) | \(f_i\) |  \( | x_i-\bar{x} | \)  | \(f_i | x_i-\bar{x} | \)  |
+| ------: | ------: | --: | ----------: | --- | ----- | ----------- | --- |
+|      15 |       2 |  30 |          60 |
+|      25 |       3 |  20 |          60 |
+|      35 |       8 |  10 |          80 |
+|      45 |      14 |   0 |           0 |
+|      55 |       8 |  10 |          80 |
+|      65 |       3 |  20 |          60 |
+|      75 |       2 |  30 |          60 |
 
 Sum:
 
@@ -707,13 +707,13 @@ $$
 
 where:
 
-| Symbol | Meaning |
-|---|---|
-| \(l\) | lower limit of median class |
-| \(N\) | total frequency |
-| \(C\) | cumulative frequency before median class |
-| \(f\) | frequency of median class |
-| \(h\) | class width |
+| Symbol | Meaning                                  |
+| ------ | ---------------------------------------- |
+| \(l\)  | lower limit of median class              |
+| \(N\)  | total frequency                          |
+| \(C\)  | cumulative frequency before median class |
+| \(f\)  | frequency of median class                |
+| \(h\)  | class width                              |
 
 The median class is the class whose cumulative frequency is just greater than or equal to \(\frac{N}{2}\).
 
@@ -731,20 +731,20 @@ Again, \(x_i\) is the midpoint of each class.
 
 Find mean deviation about median.
 
-| Class | 0-10 | 10-20 | 20-30 | 30-40 | 40-50 | 50-60 |
-|---|---:|---:|---:|---:|---:|---:|
-| Frequency | 6 | 7 | 15 | 16 | 4 | 2 |
+| Class     | 0-10 | 10-20 | 20-30 | 30-40 | 40-50 | 50-60 |
+| --------- | ---: | ----: | ----: | ----: | ----: | ----: |
+| Frequency |    6 |     7 |    15 |    16 |     4 |     2 |
 
 First form cumulative frequencies and midpoints.
 
 | Class | \(f_i\) | Cumulative frequency | Midpoint \(x_i\) |
-|---|---:|---:|---:|
-| 0-10 | 6 | 6 | 5 |
-| 10-20 | 7 | 13 | 15 |
-| 20-30 | 15 | 28 | 25 |
-| 30-40 | 16 | 44 | 35 |
-| 40-50 | 4 | 48 | 45 |
-| 50-60 | 2 | 50 | 55 |
+| ----- | ------: | -------------------: | ---------------: |
+| 0-10  |       6 |                    6 |                5 |
+| 10-20 |       7 |                   13 |               15 |
+| 20-30 |      15 |                   28 |               25 |
+| 30-40 |      16 |                   44 |               35 |
+| 40-50 |       4 |                   48 |               45 |
+| 50-60 |       2 |                   50 |               55 |
 
 Here:
 
@@ -782,14 +782,14 @@ $$
 
 Now calculate absolute deviations from 28.
 
-| \(x_i\) | \(f_i\) | \(|x_i-M|\) | \(f_i|x_i-M|\) |
-|---:|---:|---:|---:|
-| 5 | 6 | 23 | 138 |
-| 15 | 7 | 13 | 91 |
-| 25 | 15 | 3 | 45 |
-| 35 | 16 | 7 | 112 |
-| 45 | 4 | 17 | 68 |
-| 55 | 2 | 27 | 54 |
+| \(x_i\) | \(f_i\) |  \( | x_i-M | \)  | \(f_i | x_i-M | \)  |
+| ------: | ------: | --: | ----: | --- | ----- | ----- | --- |
+|       5 |       6 |  23 |   138 |
+|      15 |       7 |  13 |    91 |
+|      25 |      15 |   3 |    45 |
+|      35 |      16 |   7 |   112 |
+|      45 |       4 |  17 |    68 |
+|      55 |       2 |  27 |    54 |
 
 Sum:
 
@@ -943,17 +943,17 @@ $$
 Now compute squared deviations.
 
 | \(x_i\) | \(x_i-\bar{x}\) | \((x_i-\bar{x})^2\) |
-|---:|---:|---:|
-| 6 | -9 | 81 |
-| 8 | -7 | 49 |
-| 10 | -5 | 25 |
-| 12 | -3 | 9 |
-| 14 | -1 | 1 |
-| 16 | 1 | 1 |
-| 18 | 3 | 9 |
-| 20 | 5 | 25 |
-| 22 | 7 | 49 |
-| 24 | 9 | 81 |
+| ------: | --------------: | ------------------: |
+|       6 |              -9 |                  81 |
+|       8 |              -7 |                  49 |
+|      10 |              -5 |                  25 |
+|      12 |              -3 |                   9 |
+|      14 |              -1 |                   1 |
+|      16 |               1 |                   1 |
+|      18 |               3 |                   9 |
+|      20 |               5 |                  25 |
+|      22 |               7 |                  49 |
+|      24 |               9 |                  81 |
 
 Sum:
 
@@ -1019,21 +1019,21 @@ $$
 
 Find variance and standard deviation.
 
-| \(x_i\) | 4 | 8 | 11 | 17 | 20 | 24 | 32 |
-|---:|---:|---:|---:|---:|---:|---:|---:|
-| \(f_i\) | 3 | 5 | 9 | 5 | 4 | 3 | 1 |
+| \(x_i\) |   4 |   8 |  11 |  17 |  20 |  24 |  32 |
+| ------: | --: | --: | --: | --: | --: | --: | --: |
+| \(f_i\) |   3 |   5 |   9 |   5 |   4 |   3 |   1 |
 
 First compute \(N\) and \(\sum f_i x_i\).
 
 | \(x_i\) | \(f_i\) | \(f_i x_i\) |
-|---:|---:|---:|
-| 4 | 3 | 12 |
-| 8 | 5 | 40 |
-| 11 | 9 | 99 |
-| 17 | 5 | 85 |
-| 20 | 4 | 80 |
-| 24 | 3 | 72 |
-| 32 | 1 | 32 |
+| ------: | ------: | ----------: |
+|       4 |       3 |          12 |
+|       8 |       5 |          40 |
+|      11 |       9 |          99 |
+|      17 |       5 |          85 |
+|      20 |       4 |          80 |
+|      24 |       3 |          72 |
+|      32 |       1 |          32 |
 
 Totals:
 
@@ -1054,14 +1054,14 @@ $$
 Now compute squared deviations.
 
 | \(x_i\) | \(f_i\) | \(x_i-\bar{x}\) | \((x_i-\bar{x})^2\) | \(f_i(x_i-\bar{x})^2\) |
-|---:|---:|---:|---:|---:|
-| 4 | 3 | -10 | 100 | 300 |
-| 8 | 5 | -6 | 36 | 180 |
-| 11 | 9 | -3 | 9 | 81 |
-| 17 | 5 | 3 | 9 | 45 |
-| 20 | 4 | 6 | 36 | 144 |
-| 24 | 3 | 10 | 100 | 300 |
-| 32 | 1 | 18 | 324 | 324 |
+| ------: | ------: | --------------: | ------------------: | ---------------------: |
+|       4 |       3 |             -10 |                 100 |                    300 |
+|       8 |       5 |              -6 |                  36 |                    180 |
+|      11 |       9 |              -3 |                   9 |                     81 |
+|      17 |       5 |               3 |                   9 |                     45 |
+|      20 |       4 |               6 |                  36 |                    144 |
+|      24 |       3 |              10 |                 100 |                    300 |
+|      32 |       1 |              18 |                 324 |                    324 |
 
 Sum:
 
@@ -1113,21 +1113,21 @@ $$
 
 Find mean, variance, and standard deviation.
 
-| Class | 30-40 | 40-50 | 50-60 | 60-70 | 70-80 | 80-90 | 90-100 |
-|---|---:|---:|---:|---:|---:|---:|---:|
-| Frequency | 3 | 7 | 12 | 15 | 8 | 3 | 2 |
+| Class     | 30-40 | 40-50 | 50-60 | 60-70 | 70-80 | 80-90 | 90-100 |
+| --------- | ----: | ----: | ----: | ----: | ----: | ----: | -----: |
+| Frequency |     3 |     7 |    12 |    15 |     8 |     3 |      2 |
 
 First find midpoints.
 
-| Class | \(f_i\) | \(x_i\) | \(f_i x_i\) |
-|---|---:|---:|---:|
-| 30-40 | 3 | 35 | 105 |
-| 40-50 | 7 | 45 | 315 |
-| 50-60 | 12 | 55 | 660 |
-| 60-70 | 15 | 65 | 975 |
-| 70-80 | 8 | 75 | 600 |
-| 80-90 | 3 | 85 | 255 |
-| 90-100 | 2 | 95 | 190 |
+| Class  | \(f_i\) | \(x_i\) | \(f_i x_i\) |
+| ------ | ------: | ------: | ----------: |
+| 30-40  |       3 |      35 |         105 |
+| 40-50  |       7 |      45 |         315 |
+| 50-60  |      12 |      55 |         660 |
+| 60-70  |      15 |      65 |         975 |
+| 70-80  |       8 |      75 |         600 |
+| 80-90  |       3 |      85 |         255 |
+| 90-100 |       2 |      95 |         190 |
 
 Totals:
 
@@ -1148,14 +1148,14 @@ $$
 Now compute squared deviations from 62.
 
 | \(x_i\) | \(f_i\) | \(x_i-\bar{x}\) | \((x_i-\bar{x})^2\) | \(f_i(x_i-\bar{x})^2\) |
-|---:|---:|---:|---:|---:|
-| 35 | 3 | -27 | 729 | 2187 |
-| 45 | 7 | -17 | 289 | 2023 |
-| 55 | 12 | -7 | 49 | 588 |
-| 65 | 15 | 3 | 9 | 135 |
-| 75 | 8 | 13 | 169 | 1352 |
-| 85 | 3 | 23 | 529 | 1587 |
-| 95 | 2 | 33 | 1089 | 2178 |
+| ------: | ------: | --------------: | ------------------: | ---------------------: |
+|      35 |       3 |             -27 |                 729 |                   2187 |
+|      45 |       7 |             -17 |                 289 |                   2023 |
+|      55 |      12 |              -7 |                  49 |                    588 |
+|      65 |      15 |               3 |                   9 |                    135 |
+|      75 |       8 |              13 |                 169 |                   1352 |
+|      85 |       3 |              23 |                 529 |                   1587 |
+|      95 |       2 |              33 |                1089 |                   2178 |
 
 Sum:
 
@@ -1207,19 +1207,19 @@ This formula is especially useful when values are already arranged in a frequenc
 
 Find the standard deviation.
 
-| \(x_i\) | 3 | 8 | 13 | 18 | 23 |
-|---:|---:|---:|---:|---:|---:|
-| \(f_i\) | 7 | 10 | 15 | 10 | 6 |
+| \(x_i\) |   3 |   8 |  13 |  18 |  23 |
+| ------: | --: | --: | --: | --: | --: |
+| \(f_i\) |   7 |  10 |  15 |  10 |   6 |
 
 Make the table.
 
 | \(x_i\) | \(f_i\) | \(f_i x_i\) | \(x_i^2\) | \(f_i x_i^2\) |
-|---:|---:|---:|---:|---:|
-| 3 | 7 | 21 | 9 | 63 |
-| 8 | 10 | 80 | 64 | 640 |
-| 13 | 15 | 195 | 169 | 2535 |
-| 18 | 10 | 180 | 324 | 3240 |
-| 23 | 6 | 138 | 529 | 3174 |
+| ------: | ------: | ----------: | --------: | ------------: |
+|       3 |       7 |          21 |         9 |            63 |
+|       8 |      10 |          80 |        64 |           640 |
+|      13 |      15 |         195 |       169 |          2535 |
+|      18 |      10 |         180 |       324 |          3240 |
+|      23 |       6 |         138 |       529 |          3174 |
 
 Totals:
 
@@ -1290,9 +1290,9 @@ $$
 
 Use the shortcut method for the following distribution.
 
-| Class | 30-40 | 40-50 | 50-60 | 60-70 | 70-80 | 80-90 | 90-100 |
-|---|---:|---:|---:|---:|---:|---:|---:|
-| Frequency | 3 | 7 | 12 | 15 | 8 | 3 | 2 |
+| Class     | 30-40 | 40-50 | 50-60 | 60-70 | 70-80 | 80-90 | 90-100 |
+| --------- | ----: | ----: | ----: | ----: | ----: | ----: | -----: |
+| Frequency |     3 |     7 |    12 |    15 |     8 |     3 |      2 |
 
 Midpoints are:
 
@@ -1315,14 +1315,14 @@ $$
 Make the table.
 
 | \(x_i\) | \(f_i\) | \(y_i\) | \(y_i^2\) | \(f_i y_i\) | \(f_i y_i^2\) |
-|---:|---:|---:|---:|---:|---:|
-| 35 | 3 | -3 | 9 | -9 | 27 |
-| 45 | 7 | -2 | 4 | -14 | 28 |
-| 55 | 12 | -1 | 1 | -12 | 12 |
-| 65 | 15 | 0 | 0 | 0 | 0 |
-| 75 | 8 | 1 | 1 | 8 | 8 |
-| 85 | 3 | 2 | 4 | 6 | 12 |
-| 95 | 2 | 3 | 9 | 6 | 18 |
+| ------: | ------: | ------: | --------: | ----------: | ------------: |
+|      35 |       3 |      -3 |         9 |          -9 |            27 |
+|      45 |       7 |      -2 |         4 |         -14 |            28 |
+|      55 |      12 |      -1 |         1 |         -12 |            12 |
+|      65 |      15 |       0 |         0 |           0 |             0 |
+|      75 |       8 |       1 |         1 |           8 |             8 |
+|      85 |       3 |       2 |         4 |           6 |            12 |
+|      95 |       2 |       3 |         9 |           6 |            18 |
 
 Totals:
 
@@ -1719,12 +1719,12 @@ $$
 
 ## 26. Choosing The Right Measure
 
-| Measure | Best used when | Main weakness |
-|---|---|---|
-| Range | You need a quick rough spread | Uses only two observations |
-| Mean deviation | You want average absolute distance | Harder for algebraic work |
-| Variance | You need mathematically useful spread | Unit is squared |
-| Standard deviation | You need interpretable spread with original unit | Requires more calculation |
+| Measure            | Best used when                                   | Main weakness              |
+| ------------------ | ------------------------------------------------ | -------------------------- |
+| Range              | You need a quick rough spread                    | Uses only two observations |
+| Mean deviation     | You want average absolute distance               | Harder for algebraic work  |
+| Variance           | You need mathematically useful spread            | Unit is squared            |
+| Standard deviation | You need interpretable spread with original unit | Requires more calculation  |
 
 Standard deviation is the most widely used measure because it uses all observations and has good algebraic properties.
 
@@ -2054,19 +2054,19 @@ $$
 
 Find mean deviation about mean.
 
-| \(x_i\) | 5 | 10 | 15 | 20 | 25 |
-|---:|---:|---:|---:|---:|---:|
-| \(f_i\) | 7 | 4 | 6 | 3 | 5 |
+| \(x_i\) |   5 |  10 |  15 |  20 |  25 |
+| ------: | --: | --: | --: | --: | --: |
+| \(f_i\) |   7 |   4 |   6 |   3 |   5 |
 
 Suggested table columns:
 
-| Column | Meaning |
-|---|---|
-| \(x_i\) | observation |
-| \(f_i\) | frequency |
+| Column      | Meaning          |
+| ----------- | ---------------- | --- | --------------------------- |
+| \(x_i\)     | observation      |
+| \(f_i\)     | frequency        |
 | \(f_i x_i\) | product for mean |
-| \(|x_i-\bar{x}|\) | absolute deviation |
-| \(f_i|x_i-\bar{x}|\) | weighted absolute deviation |
+| \(          | x_i-\bar{x}      | \)  | absolute deviation          |
+| \(f_i       | x_i-\bar{x}      | \)  | weighted absolute deviation |
 
 Final formula:
 
@@ -2078,9 +2078,9 @@ $$
 
 Find mean and standard deviation.
 
-| Class | 0-10 | 10-20 | 20-30 | 30-40 | 40-50 |
-|---|---:|---:|---:|---:|---:|
-| Frequency | 5 | 8 | 15 | 16 | 6 |
+| Class     | 0-10 | 10-20 | 20-30 | 30-40 | 40-50 |
+| --------- | ---: | ----: | ----: | ----: | ----: |
+| Frequency |    5 |     8 |    15 |    16 |     6 |
 
 Steps:
 
@@ -2212,4 +2212,3 @@ Transformation rules:
 - adding or subtracting a constant does not change variance or standard deviation
 - multiplying every observation by \(k\) makes variance \(k^2\) times
 - multiplying every observation by \(k\) makes standard deviation \(|k|\) times
-

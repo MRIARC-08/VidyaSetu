@@ -1,20 +1,21 @@
 # Chapter 10: 84/Li'kZ v#.k dey
+
 ### NCERT Class 9 — Hindi Sparsh
 
 ---
 
 ## 📌 Chapter at a Glance
 
-| Detail | Info |
-|---|---|
-| Chapter | 10 — 84/Li'kZ v#.k dey |
-| Class | Class 9 |
-| Subject | Hindi Sparsh |
-| Pilot Subject Family | Hindi |
-| Source File | `data/class_9/hindi_sparsh/chapter_10.md` |
-| Textbook Pages | 1 – 9 |
-| Raw Exercise Count | 0 |
-| Formatting Mode | Human-guided pilot for subject-specific automation |
+| Detail               | Info                                               |
+| -------------------- | -------------------------------------------------- |
+| Chapter              | 10 — 84/Li'kZ v#.k dey                             |
+| Class                | Class 9                                            |
+| Subject              | Hindi Sparsh                                       |
+| Pilot Subject Family | Hindi                                              |
+| Source File          | `data/class_9/hindi_sparsh/chapter_10.md`          |
+| Textbook Pages       | 1 – 9                                              |
+| Raw Exercise Count   | 0                                                  |
+| Formatting Mode      | Human-guided pilot for subject-specific automation |
 
 ---
 
@@ -23,53 +24,53 @@
 > [!NOTE]
 > Study this chapter through this route: **context -> text situation -> speaker/character voice -> bhav/theme -> language feature -> answer evidence**.
 
-| Step | Learner Action | Why It Matters |
-|---|---|---|
-| 1 | Read once for literal meaning and again for bhav, tone, and central idea. | Builds reliable recall and answer quality. |
-| 2 | Keep difficult words, idioms, poetic expressions, and author cues in a separate vocabulary table. | Builds reliable recall and answer quality. |
-| 3 | Track speaker, audience, situation, and emotional change for prose and poetry. | Builds reliable recall and answer quality. |
-| 4 | For answers, connect the text moment with the larger theme instead of retelling everything. | Builds reliable recall and answer quality. |
+| Step | Learner Action                                                                                    | Why It Matters                             |
+| ---- | ------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| 1    | Read once for literal meaning and again for bhav, tone, and central idea.                         | Builds reliable recall and answer quality. |
+| 2    | Keep difficult words, idioms, poetic expressions, and author cues in a separate vocabulary table. | Builds reliable recall and answer quality. |
+| 3    | Track speaker, audience, situation, and emotional change for prose and poetry.                    | Builds reliable recall and answer quality. |
+| 4    | For answers, connect the text moment with the larger theme instead of retelling everything.       | Builds reliable recall and answer quality. |
 
 ---
 
 ## 🎯 Learning Outcomes
 
-| # | After studying this chapter, you should be able to... |
-|---|---|
-| 1 | understand the literal meaning and deeper bhav or theme of the text |
-| 2 | explain speaker, character, tone, expression, and language choices using textual evidence |
-| 3 | answer comprehension, vocabulary, and writing tasks in a structured way |
+| #   | After studying this chapter, you should be able to...                                     |
+| --- | ----------------------------------------------------------------------------------------- |
+| 1   | understand the literal meaning and deeper bhav or theme of the text                       |
+| 2   | explain speaker, character, tone, expression, and language choices using textual evidence |
+| 3   | answer comprehension, vocabulary, and writing tasks in a structured way                   |
 
 ---
 
 ## 🗂️ Section Structure
 
-| Section | Title | Revision Focus |
-|---|---|---|
-| Intro | Core chapter narrative | Definition, explanation, examples, and likely questions |
+| Section | Title                  | Revision Focus                                          |
+| ------- | ---------------------- | ------------------------------------------------------- |
+| Intro   | Core chapter narrative | Definition, explanation, examples, and likely questions |
 
 ---
 
 ## 🧠 Subject-Specific Study Method
 
-| Part | How to Use It |
-|---|---|
-| Core lens | context -> text situation -> speaker/character voice -> bhav/theme -> language feature -> answer evidence |
-| First pass | Read for meaning and mark unfamiliar terms. |
-| Second pass | Convert definitions, examples, data, and activities into tables. |
-| Revision pass | Use the quick reference and practice tracker at the end. |
+| Part          | How to Use It                                                                                             |
+| ------------- | --------------------------------------------------------------------------------------------------------- |
+| Core lens     | context -> text situation -> speaker/character voice -> bhav/theme -> language feature -> answer evidence |
+| First pass    | Read for meaning and mark unfamiliar terms.                                                               |
+| Second pass   | Convert definitions, examples, data, and activities into tables.                                          |
+| Revision pass | Use the quick reference and practice tracker at the end.                                                  |
 
 ---
 
 ## 🪶 Literature Study Board
 
-| Element | Learner Notes |
-|---|---|
-| Text | 84/Li'kZ v#.k dey |
-| First reading | Understand what happens literally: situation, characters, conflict, and ending. |
-| Second reading | Track emotional change, tone, symbols, and social/political context. |
-| Evidence habit | Keep short textual moments ready for long-answer questions. |
-| Vocabulary habit | Infer expression meanings from context before checking a dictionary. |
+| Element          | Learner Notes                                                                   |
+| ---------------- | ------------------------------------------------------------------------------- |
+| Text             | 84/Li'kZ v#.k dey                                                               |
+| First reading    | Understand what happens literally: situation, characters, conflict, and ending. |
+| Second reading   | Track emotional change, tone, symbols, and social/political context.            |
+| Evidence habit   | Keep short textual moments ready for long-answer questions.                     |
+| Vocabulary habit | Infer expression meanings from context before checking a dictionary.            |
 
 ---
 
@@ -90,8 +91,8 @@ vkf[kj dc rd\ v#.k dey /85 Reprint 2025-26 86/Li'kZ (1) u, bykosQ esa bu u, clrs
 
 (d) u, clrs bykosQ esa dfo jkLrk D;ksa Hkwy tkrk gS\ ([k) dfork esa dkSu&dkSu ls iqjkus fu'kkuksa dk mYys[k fd;k x;k gS\
 
- - (x) dfo,d?kj ihNs;k nks?kj vkxs D;ksa py nsrk gS\
-(?k) ^olar dk x;k ir>M+* vkSj ^cSlk[k dk x;k Hkknksa dks ykSVk* ls D;k vfHkizk; gS\ (Ä) dfo us bl dfork esa ^le; dh deh* dh vksj D;ksa b'kkjk fd;k gS\ (p) bl dfork esa dfo us 'kgjksa dh fdl foMacuk dh vksj laosQr fd;k gS\ Reprint 2025-26 u, bykosQ esa /[kq'kcw jprs gSa gkFk /89
+- (x) dfo,d?kj ihNs;k nks?kj vkxs D;ksa py nsrk gS\
+  (?k) ^olar dk x;k ir>M+_ vkSj ^cSlk[k dk x;k Hkknksa dks ykSVk_ ls D;k vfHkizk; gS\ (Ä) dfo us bl dfork esa ^le; dh deh\* dh vksj D;ksa b'kkjk fd;k gS\ (p) bl dfork esa dfo us 'kgjksa dh fdl foMacuk dh vksj laosQr fd;k gS\ Reprint 2025-26 u, bykosQ esa /[kq'kcw jprs gSa gkFk /89
 
 2. O;k[;k dhft,µ
 
@@ -99,17 +100,17 @@ vkf[kj dc rd\ v#.k dey /85 Reprint 2025-26 86/Li'kZ (1) u, bykosQ esa bu u, clrs
 
 1. fuEufyf[kr iz'uksa osQ mÙkj nhft,µ
 
-(d) ^[kq'kcw jpusokys gkFk* oSQlh ifjfLFkfr;ksa esa rFkk dgk¡&dgk¡ jgrs gSa\ ([k) dfork esa fdrus rjg osQ gkFkksa dh ppkZ gqbZ gS\
+(d) ^[kq'kcw jpusokys gkFk\* oSQlh ifjfLFkfr;ksa esa rFkk dgk¡&dgk¡ jgrs gSa\ ([k) dfork esa fdrus rjg osQ gkFkksa dh ppkZ gqbZ gS\
 
- - (x) dfo us;g D;ksa dgk gS fd ^[kq'kcw jprs gSa gkFk*\
-(?k) tgk¡ vxjcfÙk;k¡ curh gSa] ogk¡ dk ekgkSy oSQlk gksrk gS\ (Ä) bl dfork dks fy[kus dk eq[; mís'; D;k gS\
+- (x) dfo us;g D;ksa dgk gS fd ^[kq'kcw jprs gSa gkFk*\
+  (?k) tgk¡ vxjcfÙk;k¡ curh gSa] ogk¡ dk ekgkSy oSQlk gksrk gS\ (Ä) bl dfork dks fy[kus dk eq[; mís'; D;k gS\
 
 2. O;k[;k dhft,µ
 
-(d) (i) ihiy osQ iÙks&ls u,&u, gkFk twgh dh Mky&ls [kq'kcwnkj gkFk (ii) nqfu;k dh lkjh xanxh osQ chp nqfu;k dh lkjh [kq'kcw jprs jgrs gSa gkFk ([k) dfo us bl dfork esa ^cgqopu* dk iz;ksx vfèkd fd;k gS\ bldk D;k dkj.k gS\
+(d) (i) ihiy osQ iÙks&ls u,&u, gkFk twgh dh Mky&ls [kq'kcwnkj gkFk (ii) nqfu;k dh lkjh xanxh osQ chp nqfu;k dh lkjh [kq'kcw jprs jgrs gSa gkFk ([k) dfo us bl dfork esa ^cgqopu\* dk iz;ksx vfèkd fd;k gS\ bldk D;k dkj.k gS\
 
- - (x) dfo us gkFkksa osQ fy, dkSu&dkSu ls fo'ks"k.kksa dk iz;ksx fd;k gS\
-;ksX;rk&foLrkj vxjcÙkh cukuk] ekfpl cukuk] eksecÙkh cukuk] fyI+kQkI+ ksQ cukuk] ikiM+ cukuk] elkys owQVuk vkfn y?kq m|ksxksa osQ fo"k; esa tkudkjh,df=kr dhft,A Reprint 2025-26 90/Li'kZ 'kCnkFkZ vkSj fVIif.k;k¡ bykdk µ {ks=k vdlj µ izk;%] cgqèkk rkdrk µ ns[krk <gk µ fxjk gqvk] èoLr Bdedkrk µ èkhjs&èkhjs] Mxexkrs gq, Le`fr µ ;kn olar µ Ng Írqvksa esa ls,d ir>M+ µ ,d Írq tc isM+ksa osQ iÙks >M+rs gSa oSlk[k (oS'kk[k) µ pSr (pS=k) osQ ckn vkus okyk eghuk Hkknksa µ lkou osQ ckn vkus okyk eghuk vdkl (vkdk'k) µ xxu ukyksa µ ?kjksa vkSj lM+dksa osQ fdukjs xans ikuh osQ cgko osQ fy, cuk;k x;k jkLrk owQM+k&djdV µ jíh] dpjk Vksys µ NksVh cLrh ”k[e µ ?kko] pksV eqYd µ ns'k osQoM+k µ ,d NksVk o`{k ftlosQ iwQy viuh lqxaèk osQ fy, izfl¼ gSa [kl µ iksLrk jkrjkuh µ ,d lqxafèkr iwQy e'kgwj µ izfl¼ Reprint 2025-26 fVIi.kh Reprint 2025-26 fVIi.kh Reprint 2025-26
+- (x) dfo us gkFkksa osQ fy, dkSu&dkSu ls fo'ks"k.kksa dk iz;ksx fd;k gS\
+  ;ksX;rk&foLrkj vxjcÙkh cukuk] ekfpl cukuk] eksecÙkh cukuk] fyI+kQkI+ ksQ cukuk] ikiM+ cukuk] elkys owQVuk vkfn y?kq m|ksxksa osQ fo"k; esa tkudkjh,df=kr dhft,A Reprint 2025-26 90/Li'kZ 'kCnkFkZ vkSj fVIif.k;k¡ bykdk µ {ks=k vdlj µ izk;%] cgqèkk rkdrk µ ns[krk <gk µ fxjk gqvk] èoLr Bdedkrk µ èkhjs&èkhjs] Mxexkrs gq, Le`fr µ ;kn olar µ Ng Írqvksa esa ls,d ir>M+ µ ,d Írq tc isM+ksa osQ iÙks >M+rs gSa oSlk[k (oS'kk[k) µ pSr (pS=k) osQ ckn vkus okyk eghuk Hkknksa µ lkou osQ ckn vkus okyk eghuk vdkl (vkdk'k) µ xxu ukyksa µ ?kjksa vkSj lM+dksa osQ fdukjs xans ikuh osQ cgko osQ fy, cuk;k x;k jkLrk owQM+k&djdV µ jíh] dpjk Vksys µ NksVh cLrh ”k[e µ ?kko] pksV eqYd µ ns'k osQoM+k µ ,d NksVk o`{k ftlosQ iwQy viuh lqxaèk osQ fy, izfl¼ gSa [kl µ iksLrk jkrjkuh µ ,d lqxafèkr iwQy e'kgwj µ izfl¼ Reprint 2025-26 fVIi.kh Reprint 2025-26 fVIi.kh Reprint 2025-26
 
 ---
 
@@ -136,55 +137,55 @@ vkf[kj dc rd\ v#.k dey /85 Reprint 2025-26 86/Li'kZ (1) u, bykosQ esa bu u, clrs
 
 ## ✏️ Practice & Exercise Tracker
 
-| Q | Question / Task | Answer Strategy |
-|---|---|---|
-| 1 | 1. fuEufyf[kr iz'uksa osQ mÙkj nhft,µ (d) u, clrs bykosQ esa dfo jkLrk D;ksa Hkwy tkrk gS\ ([k) dfork esa dkSu&dkSu ls iqjkus fu'kkuksa dk mYys[k fd;k x;k gS\ (x) dfo,d?kj ihNs;k nks?kj vkxs D;ksa py nsrk gS\ (?k) ^olar dk x;k ir>M+* vkSj ^cSlk[k dk x;k Hkknksa dks ykSVk* ls D;k vfHkizk; gS\ (Ä) dfo us bl dfork esa ^le; dh deh* dh vksj D;ksa b'kkjk fd;k gS\ (p) bl dfork esa dfo us 'kgjksa dh fdl foMacuk dh vksj laosQr fd;k gS\ Reprint 2025-26 u, bykosQ esa /[kq'kcw jprs gSa gkFk /89 | Identify command word, recall concept, structure answer, then review. |
-| 2 | 2. O;k[;k dhft,µ (d) ;gk¡ Le`fr dk Hkjkslk ugha,d gh fnu esa iqjkuh iM+ tkrh gS nqfu;k ([k) le; cgqr de gS rqEgkjs ikl vk pyk ikuh <gk vk jgk vdkl 'kk;n iqdkj ys dksbZ igpkuk mQij ls ns[kdj;ksX;rk&foLrkj ikB esa fganh eghuksa osQ oqQN uke vk, gSaA vki lHkh fganh eghuksa osQ uke Øe ls fyf[k,A (2) [kq'kcw jprs gSa gkFk | Identify command word, recall concept, structure answer, then review. |
-| 3 | 1. fuEufyf[kr iz'uksa osQ mÙkj nhft,µ (d) ^[kq'kcw jpusokys gkFk* oSQlh ifjfLFkfr;ksa esa rFkk dgk¡&dgk¡ jgrs gSa\ ([k) dfork esa fdrus rjg osQ gkFkksa dh ppkZ gqbZ gS\ (x) dfo us;g D;ksa dgk gS fd ^[kq'kcw jprs gSa gkFk*\ (?k) tgk¡ vxjcfÙk;k¡ curh gSa] ogk¡ dk ekgkSy oSQlk gksrk gS\ (Ä) bl dfork dks fy[kus dk eq[; mís'; D;k gS\ | Identify command word, recall concept, structure answer, then review. |
-| 4 | 2. O;k[;k dhft,µ (d) (i) ihiy osQ iÙks&ls u,&u, gkFk twgh dh Mky&ls [kq'kcwnkj gkFk (ii) nqfu;k dh lkjh xanxh osQ chp nqfu;k dh lkjh [kq'kcw jprs jgrs gSa gkFk ([k) dfo us bl dfork esa ^cgqopu* dk iz;ksx vfèkd fd;k gS\ bldk D;k dkj.k gS\ (x) dfo us gkFkksa osQ fy, dkSu&dkSu ls fo'ks"k.kksa dk iz;ksx fd;k gS\ ;ksX;rk&foLrkj vxjcÙkh cukuk] ekfpl cukuk] eksecÙkh cukuk] fyI+kQkI+ ksQ cukuk] ikiM+ cukuk] elkys owQVuk vkfn y?kq m\|ksxksa osQ fo"k; esa tkudkjh,df=kr dhft,A Reprint 2025-26 90/Li'kZ 'kCnkFkZ vkSj fVIif.k;k¡ bykdk µ {ks=k vdlj µ izk;%] cgqèkk rkdrk µ ns[krk <gk µ fxjk gqvk] èoLr Bdedkrk µ èkhjs&èkhjs] Mxexkrs gq, Le`fr µ ;kn olar µ Ng Írqvksa esa ls,d ir>M+ µ ,d Írq tc isM+ksa osQ iÙks >M+rs gSa oSlk[k (oS'kk[k) µ pSr (pS=k) osQ ckn vkus okyk eghuk Hkknksa µ lkou osQ ckn vkus okyk eghuk vdkl (vkdk'k) µ xxu ukyksa µ ?kjksa vkSj lM+dksa osQ fdukjs xans ikuh osQ cgko osQ fy, cuk;k x;k jkLrk owQM+k&djdV µ jíh] dpjk Vksys µ NksVh cLrh ”k[e µ ?kko] pksV eqYd µ ns'k osQoM+k µ ,d NksVk o`{k ftlosQ iwQy viuh lqxaèk osQ fy, izfl¼ gSa [kl µ iksLrk jkrjkuh µ ,d lqxafèkr iwQy e'kgwj µ izfl¼ Reprint 2025-26 fVIi.kh Reprint 2025-26 fVIi.kh Reprint 2025-26 | Identify command word, recall concept, structure answer, then review. |
+| Q   | Question / Task                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Answer Strategy                                                       |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| 1   | 1. fuEufyf[kr iz'uksa osQ mÙkj nhft,µ (d) u, clrs bykosQ esa dfo jkLrk D;ksa Hkwy tkrk gS\ ([k) dfork esa dkSu&dkSu ls iqjkus fu'kkuksa dk mYys[k fd;k x;k gS\ (x) dfo,d?kj ihNs;k nks?kj vkxs D;ksa py nsrk gS\ (?k) ^olar dk x;k ir>M+_ vkSj ^cSlk[k dk x;k Hkknksa dks ykSVk_ ls D;k vfHkizk; gS\ (Ä) dfo us bl dfork esa ^le; dh deh\* dh vksj D;ksa b'kkjk fd;k gS\ (p) bl dfork esa dfo us 'kgjksa dh fdl foMacuk dh vksj laosQr fd;k gS\ Reprint 2025-26 u, bykosQ esa /[kq'kcw jprs gSa gkFk /89                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Identify command word, recall concept, structure answer, then review. |
+| 2   | 2. O;k[;k dhft,µ (d) ;gk¡ Le`fr dk Hkjkslk ugha,d gh fnu esa iqjkuh iM+ tkrh gS nqfu;k ([k) le; cgqr de gS rqEgkjs ikl vk pyk ikuh <gk vk jgk vdkl 'kk;n iqdkj ys dksbZ igpkuk mQij ls ns[kdj;ksX;rk&foLrkj ikB esa fganh eghuksa osQ oqQN uke vk, gSaA vki lHkh fganh eghuksa osQ uke Øe ls fyf[k,A (2) [kq'kcw jprs gSa gkFk                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Identify command word, recall concept, structure answer, then review. |
+| 3   | 1. fuEufyf[kr iz'uksa osQ mÙkj nhft,µ (d) ^[kq'kcw jpusokys gkFk* oSQlh ifjfLFkfr;ksa esa rFkk dgk¡&dgk¡ jgrs gSa\ ([k) dfork esa fdrus rjg osQ gkFkksa dh ppkZ gqbZ gS\ (x) dfo us;g D;ksa dgk gS fd ^[kq'kcw jprs gSa gkFk*\ (?k) tgk¡ vxjcfÙk;k¡ curh gSa] ogk¡ dk ekgkSy oSQlk gksrk gS\ (Ä) bl dfork dks fy[kus dk eq[; mís'; D;k gS\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Identify command word, recall concept, structure answer, then review. |
+| 4   | 2. O;k[;k dhft,µ (d) (i) ihiy osQ iÙks&ls u,&u, gkFk twgh dh Mky&ls [kq'kcwnkj gkFk (ii) nqfu;k dh lkjh xanxh osQ chp nqfu;k dh lkjh [kq'kcw jprs jgrs gSa gkFk ([k) dfo us bl dfork esa ^cgqopu* dk iz;ksx vfèkd fd;k gS\ bldk D;k dkj.k gS\ (x) dfo us gkFkksa osQ fy, dkSu&dkSu ls fo'ks"k.kksa dk iz;ksx fd;k gS\ ;ksX;rk&foLrkj vxjcÙkh cukuk] ekfpl cukuk] eksecÙkh cukuk] fyI+kQkI+ ksQ cukuk] ikiM+ cukuk] elkys owQVuk vkfn y?kq m\|ksxksa osQ fo"k; esa tkudkjh,df=kr dhft,A Reprint 2025-26 90/Li'kZ 'kCnkFkZ vkSj fVIif.k;k¡ bykdk µ {ks=k vdlj µ izk;%] cgqèkk rkdrk µ ns[krk <gk µ fxjk gqvk] èoLr Bdedkrk µ èkhjs&èkhjs] Mxexkrs gq, Le`fr µ ;kn olar µ Ng Írqvksa esa ls,d ir>M+ µ ,d Írq tc isM+ksa osQ iÙks >M+rs gSa oSlk[k (oS'kk[k) µ pSr (pS=k) osQ ckn vkus okyk eghuk Hkknksa µ lkou osQ ckn vkus okyk eghuk vdkl (vkdk'k) µ xxu ukyksa µ ?kjksa vkSj lM+dksa osQ fdukjs xans ikuh osQ cgko osQ fy, cuk;k x;k jkLrk owQM+k&djdV µ jíh] dpjk Vksys µ NksVh cLrh ”k[e µ ?kko] pksV eqYd µ ns'k osQoM+k µ ,d NksVk o`{k ftlosQ iwQy viuh lqxaèk osQ fy, izfl¼ gSa [kl µ iksLrk jkrjkuh µ ,d lqxafèkr iwQy e'kgwj µ izfl¼ Reprint 2025-26 fVIi.kh Reprint 2025-26 fVIi.kh Reprint 2025-26 | Identify command word, recall concept, structure answer, then review. |
 
 ---
 
 ## 🧩 Answer-Writing Framework
 
-| Step | What To Do |
-|---|---|
-| 1 | Begin with the text situation or speaker. |
-| 2 | State the key idea, bhav, theme, or conflict. |
-| 3 | Use one short textual reference or paraphrased moment. |
-| 4 | Explain the language feature, character quality, or social meaning. |
-| 5 | Close with the wider message of the passage or chapter. |
+| Step | What To Do                                                          |
+| ---- | ------------------------------------------------------------------- |
+| 1    | Begin with the text situation or speaker.                           |
+| 2    | State the key idea, bhav, theme, or conflict.                       |
+| 3    | Use one short textual reference or paraphrased moment.              |
+| 4    | Explain the language feature, character quality, or social meaning. |
+| 5    | Close with the wider message of the passage or chapter.             |
 
 ---
 
 ## ⚠️ Common Misconceptions
 
-| # | Watch Out For This |
-|---|---|
-| 1 | Do not translate mechanically; explain the meaning in context. |
-| 2 | A theme is more than a one-word topic; it is the idea the text develops. |
-| 3 | Long answers should use evidence from the chapter, not only general opinion. |
+| #   | Watch Out For This                                                           |
+| --- | ---------------------------------------------------------------------------- |
+| 1   | Do not translate mechanically; explain the meaning in context.               |
+| 2   | A theme is more than a one-word topic; it is the idea the text develops.     |
+| 3   | Long answers should use evidence from the chapter, not only general opinion. |
 
 ---
 
 ## 📋 Quick Revision Sheet
 
-| Revision Item | What To Recall |
-|---|---|
-| Chapter core | 84/Li'kZ v#.k dey |
-| Intro | Core chapter narrative |
+| Revision Item | What To Recall         |
+| ------------- | ---------------------- |
+| Chapter core  | 84/Li'kZ v#.k dey      |
+| Intro         | Core chapter narrative |
 
 ---
 
 ## ✅ Pilot Quality Checklist
 
-| Check | Status |
-|---|---|
-| Raw data preserved | Yes — chapter content is retained and cleaned, not summarised away. |
-| Learner scaffolding added | Yes — roadmap, outcomes, answer framework, misconceptions, and revision sheet. |
-| Subject-aware structure | Yes — generated from the selected subject family profile. |
-| Needs human review | Yes — especially source extraction mismatches, diagrams, tables, formulas, and broken OCR words. |
+| Check                     | Status                                                                                           |
+| ------------------------- | ------------------------------------------------------------------------------------------------ |
+| Raw data preserved        | Yes — chapter content is retained and cleaned, not summarised away.                              |
+| Learner scaffolding added | Yes — roadmap, outcomes, answer framework, misconceptions, and revision sheet.                   |
+| Subject-aware structure   | Yes — generated from the selected subject family profile.                                        |
+| Needs human review        | Yes — especially source extraction mismatches, diagrams, tables, formulas, and broken OCR words. |
 
 ---
 
-*Source: NCERT Class 9 — Hindi Sparsh, Chapter 10. Raw file: `data/class_9/hindi_sparsh/chapter_10.md`.*
+_Source: NCERT Class 9 — Hindi Sparsh, Chapter 10. Raw file: `data/class_9/hindi_sparsh/chapter_10.md`._

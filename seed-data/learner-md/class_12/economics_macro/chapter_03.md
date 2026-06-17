@@ -1,4 +1,5 @@
 # Chapter 3: Money and Banking
+
 ### NCERT Class 12 - Economics Macro
 
 ## Chapter at a Glance
@@ -25,30 +26,30 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Money | Generally accepted medium of exchange. |
-| Barter | Direct exchange of goods for goods. |
-| Medium of exchange | Function of money used to buy and sell goods. |
-| Unit of account | Money as common measure of value. |
-| Store of value | Money preserves purchasing power for future use. |
-| Commercial bank | Institution accepting deposits and giving loans. |
-| Central bank | Apex monetary authority of a country. |
-| Credit creation | Process by which banks create deposits through lending. |
-| CRR | Fraction of deposits commercial banks keep with central bank. |
-| SLR | Fraction of deposits kept in liquid assets by commercial banks. |
-| Repo rate | Rate at which central bank lends to commercial banks against securities. |
+| Term               | Meaning                                                                  |
+| ------------------ | ------------------------------------------------------------------------ |
+| Money              | Generally accepted medium of exchange.                                   |
+| Barter             | Direct exchange of goods for goods.                                      |
+| Medium of exchange | Function of money used to buy and sell goods.                            |
+| Unit of account    | Money as common measure of value.                                        |
+| Store of value     | Money preserves purchasing power for future use.                         |
+| Commercial bank    | Institution accepting deposits and giving loans.                         |
+| Central bank       | Apex monetary authority of a country.                                    |
+| Credit creation    | Process by which banks create deposits through lending.                  |
+| CRR                | Fraction of deposits commercial banks keep with central bank.            |
+| SLR                | Fraction of deposits kept in liquid assets by commercial banks.          |
+| Repo rate          | Rate at which central bank lends to commercial banks against securities. |
 
 ## Quick Learning Map
 
-| Area | Core idea |
-|---|---|
-| Money | Solves barter problems |
+| Area             | Core idea                                           |
+| ---------------- | --------------------------------------------------- |
+| Money            | Solves barter problems                              |
 | Demand for money | People hold money for transactions and asset choice |
-| Supply of money | Currency plus deposits |
-| Banks | Accept deposits and make loans |
-| Credit creation | Deposits multiply through lending |
-| Central bank | Controls money and credit |
+| Supply of money  | Currency plus deposits                              |
+| Banks            | Accept deposits and make loans                      |
+| Credit creation  | Deposits multiply through lending                   |
+| Central bank     | Controls money and credit                           |
 
 # Unit 3A: Barter System and Its Problems
 
@@ -121,12 +122,12 @@ Money held by government or banking system is not counted as money with public.
 
 Common monetary aggregates include:
 
-| Measure | Basic idea |
-|---|---|
-| M1 | Currency with public plus demand deposits plus other deposits with central bank |
-| M2 | M1 plus savings deposits with post office savings banks |
-| M3 | M1 plus net time deposits with commercial banks |
-| M4 | M3 plus total deposits with post office savings organisations excluding national savings certificates |
+| Measure | Basic idea                                                                                            |
+| ------- | ----------------------------------------------------------------------------------------------------- |
+| M1      | Currency with public plus demand deposits plus other deposits with central bank                       |
+| M2      | M1 plus savings deposits with post office savings banks                                               |
+| M3      | M1 plus net time deposits with commercial banks                                                       |
+| M4      | M3 plus total deposits with post office savings organisations excluding national savings certificates |
 
 M1 is the most liquid narrow money measure. M3 is a broader measure.
 
@@ -136,12 +137,12 @@ Commercial banks are financial institutions that accept deposits and provide loa
 
 ## Main Functions
 
-| Function | Explanation |
-|---|---|
-| Accept deposits | Current, savings, and fixed deposits |
-| Give loans | Loans, overdrafts, cash credit, discounting bills |
-| Agency services | Payments, collections, fund transfers |
-| General services | Locker, cards, online banking |
+| Function         | Explanation                                       |
+| ---------------- | ------------------------------------------------- |
+| Accept deposits  | Current, savings, and fixed deposits              |
+| Give loans       | Loans, overdrafts, cash credit, discounting bills |
+| Agency services  | Payments, collections, fund transfers             |
+| General services | Locker, cards, online banking                     |
 
 Commercial banks connect savers and borrowers.
 
@@ -185,15 +186,15 @@ The central bank is the apex monetary institution. In India, the Reserve Bank of
 
 ## Main Functions
 
-| Function | Meaning |
-|---|---|
-| Currency authority | Issues currency notes. |
-| Banker to government | Manages government accounts and borrowing. |
-| Banker's bank | Holds reserves of commercial banks and lends to them. |
-| Controller of credit | Uses monetary policy tools. |
-| Custodian of foreign exchange | Manages foreign exchange reserves. |
-| Lender of last resort | Provides emergency support to banks. |
-| Clearing house | Settles interbank claims. |
+| Function                      | Meaning                                               |
+| ----------------------------- | ----------------------------------------------------- |
+| Currency authority            | Issues currency notes.                                |
+| Banker to government          | Manages government accounts and borrowing.            |
+| Banker's bank                 | Holds reserves of commercial banks and lends to them. |
+| Controller of credit          | Uses monetary policy tools.                           |
+| Custodian of foreign exchange | Manages foreign exchange reserves.                    |
+| Lender of last resort         | Provides emergency support to banks.                  |
+| Clearing house                | Settles interbank claims.                             |
 
 # Unit 3J: Monetary Policy Tools
 
@@ -265,22 +266,22 @@ Tools:
 
 # Unit 3L: Formula Bank
 
-| Concept | Formula |
-|---|---|
-| Money multiplier | `1 / reserve ratio` |
+| Concept                | Formula                              |
+| ---------------------- | ------------------------------------ |
+| Money multiplier       | `1 / reserve ratio`                  |
 | Total deposit creation | `initial deposit x money multiplier` |
-| Reserve required | `deposit x reserve ratio` |
-| Excess reserve | `deposit - required reserve` |
+| Reserve required       | `deposit x reserve ratio`            |
+| Excess reserve         | `deposit - required reserve`         |
 
 # Unit 3M: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Calling all bank deposits money supply | Only deposits with public are counted, depending on measure. |
-| Confusing repo and reverse repo | Repo: central bank lends to banks; reverse repo: central bank borrows from banks. |
-| Thinking banks can lend unlimited amounts | Credit creation is limited by reserve ratio and demand for loans. |
-| Saying higher CRR increases lending | Higher CRR reduces lendable funds. |
-| Confusing central bank with commercial bank | Central bank regulates; commercial banks deal with public. |
+| Mistake                                     | Correction                                                                        |
+| ------------------------------------------- | --------------------------------------------------------------------------------- |
+| Calling all bank deposits money supply      | Only deposits with public are counted, depending on measure.                      |
+| Confusing repo and reverse repo             | Repo: central bank lends to banks; reverse repo: central bank borrows from banks. |
+| Thinking banks can lend unlimited amounts   | Credit creation is limited by reserve ratio and demand for loans.                 |
+| Saying higher CRR increases lending         | Higher CRR reduces lendable funds.                                                |
+| Confusing central bank with commercial bank | Central bank regulates; commercial banks deal with public.                        |
 
 ## Practice Set
 

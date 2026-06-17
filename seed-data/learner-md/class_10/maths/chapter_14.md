@@ -1,4 +1,5 @@
 # Chapter 14: Probability
+
 ### NCERT Class 10 - Maths
 
 This learner version rewrites the raw chapter into a clear guide to theoretical probability. It focuses on equally likely outcomes, favourable outcomes, complements, and complete solved answers for Exercise 14.1.
@@ -7,15 +8,15 @@ This learner version rewrites the raw chapter into a clear guide to theoretical 
 
 ## Chapter at a Glance
 
-| Item | Details |
-|---|---|
-| Class | 10 |
-| Subject | Maths |
-| Chapter | 14 |
-| Chapter name | Probability |
-| Main approach | Theoretical probability |
-| Main formula | Probability = favourable outcomes / total outcomes |
-| Common experiments | Coins, dice, cards, balls, counters, discs, pens |
+| Item               | Details                                            |
+| ------------------ | -------------------------------------------------- |
+| Class              | 10                                                 |
+| Subject            | Maths                                              |
+| Chapter            | 14                                                 |
+| Chapter name       | Probability                                        |
+| Main approach      | Theoretical probability                            |
+| Main formula       | Probability = favourable outcomes / total outcomes |
+| Common experiments | Coins, dice, cards, balls, counters, discs, pens   |
 
 ---
 
@@ -36,16 +37,16 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Random experiment | An experiment whose exact outcome is not known in advance |
-| Outcome | A possible result of an experiment |
-| Equally likely outcomes | Outcomes with the same chance of occurring |
-| Event | A collection of one or more outcomes |
-| Elementary event | Event with exactly one outcome |
-| Impossible event | Event with probability `0` |
-| Sure event | Event with probability `1` |
-| Complement | Event "not E", written as `not E` or `E'` |
+| Term                    | Meaning                                                   |
+| ----------------------- | --------------------------------------------------------- |
+| Random experiment       | An experiment whose exact outcome is not known in advance |
+| Outcome                 | A possible result of an experiment                        |
+| Equally likely outcomes | Outcomes with the same chance of occurring                |
+| Event                   | A collection of one or more outcomes                      |
+| Elementary event        | Event with exactly one outcome                            |
+| Impossible event        | Event with probability `0`                                |
+| Sure event              | Event with probability `1`                                |
+| Complement              | Event "not E", written as `not E` or `E'`                 |
 
 ---
 
@@ -144,18 +145,18 @@ $$
 For sums of two dice:
 
 | Sum | Number of outcomes |
-|---:|---:|
-| 2 | 1 |
-| 3 | 2 |
-| 4 | 3 |
-| 5 | 4 |
-| 6 | 5 |
-| 7 | 6 |
-| 8 | 5 |
-| 9 | 4 |
-| 10 | 3 |
-| 11 | 2 |
-| 12 | 1 |
+| --: | -----------------: |
+|   2 |                  1 |
+|   3 |                  2 |
+|   4 |                  3 |
+|   5 |                  4 |
+|   6 |                  5 |
+|   7 |                  6 |
+|   8 |                  5 |
+|   9 |                  4 |
+|  10 |                  3 |
+|  11 |                  2 |
+|  12 |                  1 |
 
 ## Deck of Cards
 
@@ -934,18 +935,18 @@ $$
 equally likely outcomes.
 
 | Sum | Probability |
-|---:|---:|
-| 2 | `1/36` |
-| 3 | `2/36` |
-| 4 | `3/36` |
-| 5 | `4/36` |
-| 6 | `5/36` |
-| 7 | `6/36` |
-| 8 | `5/36` |
-| 9 | `4/36` |
-| 10 | `3/36` |
-| 11 | `2/36` |
-| 12 | `1/36` |
+| --: | ----------: |
+|   2 |      `1/36` |
+|   3 |      `2/36` |
+|   4 |      `3/36` |
+|   5 |      `4/36` |
+|   6 |      `5/36` |
+|   7 |      `6/36` |
+|   8 |      `5/36` |
+|   9 |      `4/36` |
+|  10 |      `3/36` |
+|  11 |      `2/36` |
+|  12 |      `1/36` |
 
 The argument that each sum has probability `1/11` is incorrect.
 
@@ -1096,14 +1097,14 @@ $$
 
 # Unit 14D: Common Mistakes and Corrections
 
-| Mistake | Why it is wrong | Correct habit |
-|---|---|---|
-| Treating grouped outcomes as equally likely | Groups may contain different numbers of elementary outcomes | Count elementary outcomes |
-| Forgetting complement rule | Makes "not" and "at least one" questions longer | Use `1 - P(E)` |
-| Saying probability can be more than 1 | Probability is a ratio of favourable to total outcomes | Keep answers between 0 and 1 |
-| Counting cards without suits | A deck has 4 suits | Use 52 total cards |
-| Forgetting order in two dice | `(1,4)` and `(4,1)` are different outcomes | Use ordered pairs |
-| Treating repeated trials as one trial | Tossing three coins has 8 outcomes | Multiply possibilities |
+| Mistake                                     | Why it is wrong                                             | Correct habit                |
+| ------------------------------------------- | ----------------------------------------------------------- | ---------------------------- |
+| Treating grouped outcomes as equally likely | Groups may contain different numbers of elementary outcomes | Count elementary outcomes    |
+| Forgetting complement rule                  | Makes "not" and "at least one" questions longer             | Use `1 - P(E)`               |
+| Saying probability can be more than 1       | Probability is a ratio of favourable to total outcomes      | Keep answers between 0 and 1 |
+| Counting cards without suits                | A deck has 4 suits                                          | Use 52 total cards           |
+| Forgetting order in two dice                | `(1,4)` and `(4,1)` are different outcomes                  | Use ordered pairs            |
+| Treating repeated trials as one trial       | Tossing three coins has 8 outcomes                          | Multiply possibilities       |
 
 ---
 
@@ -1146,4 +1147,3 @@ $$
 10. Two dice have 36 outcomes.
 11. A deck has 52 cards.
 12. Always count elementary outcomes, not just named categories.
-

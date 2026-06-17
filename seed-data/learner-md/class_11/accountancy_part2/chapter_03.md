@@ -1,4 +1,5 @@
 # Chapter 3: Accounts from Incomplete Records
+
 ### NCERT Class 11 - Accountancy Part 2
 
 ---
@@ -26,20 +27,20 @@ conversion method
 
 ## Chapter Map
 
-| Section | What You Must Learn |
-| --- | --- |
-| Meaning | incomplete records are not maintained fully under double entry |
-| Features | unsystematic, partial, often based on cash and personal accounts |
-| Limitations | trial balance cannot be prepared; profit is less reliable |
-| Statement of affairs | assets and liabilities statement used to find capital |
-| Profit/loss formula | closing capital adjusted for drawings and fresh capital |
-| Balance sheet difference | statement of affairs is less reliable than balance sheet |
-| Conversion method | missing figures are found through ledger logic |
-| Total creditors account | finds credit purchases or missing creditor information |
-| Total debtors account | finds credit sales or missing debtor information |
-| Bills accounts | finds bills received or accepted |
-| Cash summary | finds missing cash/bank receipts or payments |
-| Final accounts | trading account, profit and loss account, balance sheet |
+| Section                  | What You Must Learn                                              |
+| ------------------------ | ---------------------------------------------------------------- |
+| Meaning                  | incomplete records are not maintained fully under double entry   |
+| Features                 | unsystematic, partial, often based on cash and personal accounts |
+| Limitations              | trial balance cannot be prepared; profit is less reliable        |
+| Statement of affairs     | assets and liabilities statement used to find capital            |
+| Profit/loss formula      | closing capital adjusted for drawings and fresh capital          |
+| Balance sheet difference | statement of affairs is less reliable than balance sheet         |
+| Conversion method        | missing figures are found through ledger logic                   |
+| Total creditors account  | finds credit purchases or missing creditor information           |
+| Total debtors account    | finds credit sales or missing debtor information                 |
+| Bills accounts           | finds bills received or accepted                                 |
+| Cash summary             | finds missing cash/bank receipts or payments                     |
+| Final accounts           | trading account, profit and loss account, balance sheet          |
 
 ---
 
@@ -63,28 +64,28 @@ In practice, incomplete records mean:
 
 Small businesses often maintain:
 
-| Record | Usually Maintained? |
-| --- | --- |
-| cash book | yes |
-| debtors' personal accounts | often |
-| creditors' personal accounts | often |
-| assets records | partial |
-| liabilities records | partial |
-| expenses records | partial |
-| revenue records | partial |
+| Record                       | Usually Maintained? |
+| ---------------------------- | ------------------- |
+| cash book                    | yes                 |
+| debtors' personal accounts   | often               |
+| creditors' personal accounts | often               |
+| assets records               | partial             |
+| liabilities records          | partial             |
+| expenses records             | partial             |
+| revenue records              | partial             |
 
 ---
 
 # Part 2: Features Of Incomplete Records
 
-| Feature | Explanation |
-| --- | --- |
-| unsystematic | no uniform double-entry procedure |
-| partial records | some accounts are maintained, others are ignored |
-| personal transactions mixed | owner's personal transactions may enter cash book |
-| lack of uniformity | different businesses record according to convenience |
-| dependence on vouchers | invoices, receipts, and physical records are needed |
-| estimated results | profit/loss and position may not be fully accurate |
+| Feature                     | Explanation                                          |
+| --------------------------- | ---------------------------------------------------- |
+| unsystematic                | no uniform double-entry procedure                    |
+| partial records             | some accounts are maintained, others are ignored     |
+| personal transactions mixed | owner's personal transactions may enter cash book    |
+| lack of uniformity          | different businesses record according to convenience |
+| dependence on vouchers      | invoices, receipts, and physical records are needed  |
+| estimated results           | profit/loss and position may not be fully accurate   |
 
 ---
 
@@ -102,13 +103,13 @@ Businesses may keep incomplete records because:
 
 ## Limitations
 
-| Limitation | Why It Matters |
-| --- | --- |
-| trial balance cannot be prepared | arithmetical accuracy cannot be checked |
-| profit is not fully reliable | complete expenses and income may be missing |
-| financial position may be incomplete | assets or liabilities may be omitted |
-| difficult to analyse business | profitability, liquidity, and solvency are unclear |
-| difficult for tax and insurance | income or loss claims may be hard to prove |
+| Limitation                           | Why It Matters                                     |
+| ------------------------------------ | -------------------------------------------------- |
+| trial balance cannot be prepared     | arithmetical accuracy cannot be checked            |
+| profit is not fully reliable         | complete expenses and income may be missing        |
+| financial position may be incomplete | assets or liabilities may be omitted               |
+| difficult to analyse business        | profitability, liquidity, and solvency are unclear |
+| difficult for tax and insurance      | income or loss claims may be hard to prove         |
 
 ---
 
@@ -116,10 +117,10 @@ Businesses may keep incomplete records because:
 
 ## Two Methods
 
-| Method | Use |
-| --- | --- |
-| Statement of Affairs or Net Worth Method | compares capital at beginning and end |
-| Conversion Method | reconstructs missing figures and prepares final accounts |
+| Method                                   | Use                                                      |
+| ---------------------------------------- | -------------------------------------------------------- |
+| Statement of Affairs or Net Worth Method | compares capital at beginning and end                    |
+| Conversion Method                        | reconstructs missing figures and prepares final accounts |
 
 ---
 
@@ -135,15 +136,15 @@ It resembles a balance sheet, but it is not as reliable because many figures are
 
 ## Format Of Statement Of Affairs
 
-| Liabilities | Amount | Assets | Amount |
-| --- | ---: | --- | ---: |
-| Bills Payable | ... | Land and Building | ... |
-| Creditors | ... | Machinery | ... |
-| Outstanding Expenses | ... | Furniture | ... |
-| Capital | balancing figure | Stock | ... |
-|  |  | Debtors | ... |
-|  |  | Cash/Bank | ... |
-|  |  | Prepaid Expenses | ... |
+| Liabilities          |           Amount | Assets            | Amount |
+| -------------------- | ---------------: | ----------------- | -----: |
+| Bills Payable        |              ... | Land and Building |    ... |
+| Creditors            |              ... | Machinery         |    ... |
+| Outstanding Expenses |              ... | Furniture         |    ... |
+| Capital              | balancing figure | Stock             |    ... |
+|                      |                  | Debtors           |    ... |
+|                      |                  | Cash/Bank         |    ... |
+|                      |                  | Prepaid Expenses  |    ... |
 
 Capital is found as:
 
@@ -217,13 +218,13 @@ Profit                                  60,000
 
 # Part 5: Statement Of Affairs Versus Balance Sheet
 
-| Basis | Statement Of Affairs | Balance Sheet |
-| --- | --- | --- |
-| reliability | less reliable | more reliable |
-| records used | incomplete records, estimates, physical counts | double-entry ledger balances |
-| objective | estimate capital on a date | show true financial position |
-| omission | omissions may remain hidden | omissions likely disturb agreement |
-| preparation | used in incomplete records | used after proper accounting records |
+| Basis        | Statement Of Affairs                           | Balance Sheet                        |
+| ------------ | ---------------------------------------------- | ------------------------------------ |
+| reliability  | less reliable                                  | more reliable                        |
+| records used | incomplete records, estimates, physical counts | double-entry ledger balances         |
+| objective    | estimate capital on a date                     | show true financial position         |
+| omission     | omissions may remain hidden                    | omissions likely disturb agreement   |
+| preparation  | used in incomplete records                     | used after proper accounting records |
 
 ---
 
@@ -239,16 +240,16 @@ This method is more detailed than the statement of affairs method.
 
 ## Common Missing Figures
 
-| Missing Figure | Usually Found Through |
-| --- | --- |
-| opening capital | opening statement of affairs |
-| credit purchases | total creditors account |
-| credit sales | total debtors account |
-| bills receivable received | total bills receivable account |
-| bills payable accepted | total bills payable account |
-| cash received from debtors | cash summary or total debtors |
-| cash paid to creditors | cash summary or total creditors |
-| closing cash/bank | cash summary |
+| Missing Figure             | Usually Found Through           |
+| -------------------------- | ------------------------------- |
+| opening capital            | opening statement of affairs    |
+| credit purchases           | total creditors account         |
+| credit sales               | total debtors account           |
+| bills receivable received  | total bills receivable account  |
+| bills payable accepted     | total bills payable account     |
+| cash received from debtors | cash summary or total debtors   |
+| cash paid to creditors     | cash summary or total creditors |
+| closing cash/bank          | cash summary                    |
 
 ---
 
@@ -276,13 +277,13 @@ Creditors decrease when:
 
 ## Format
 
-| Debit Side | Credit Side |
-| --- | --- |
-| Cash/Bank paid | Opening balance |
+| Debit Side             | Credit Side               |
+| ---------------------- | ------------------------- |
+| Cash/Bank paid         | Opening balance           |
 | Bills payable accepted | Bills payable dishonoured |
-| Discount received | Credit purchases |
-| Purchases return |  |
-| Closing balance |  |
+| Discount received      | Credit purchases          |
+| Purchases return       |                           |
+| Closing balance        |                           |
 
 Credit purchases are often the balancing figure.
 
@@ -339,14 +340,14 @@ Debtors decrease when:
 
 ## Format
 
-| Debit Side | Credit Side |
-| --- | --- |
-| Opening balance | Cash/Bank received |
-| Bills receivable dishonoured | Discount allowed |
-| Credit sales | Bad debts |
-|  | Sales return |
-|  | Bills receivable received |
-|  | Closing balance |
+| Debit Side                   | Credit Side               |
+| ---------------------------- | ------------------------- |
+| Opening balance              | Cash/Bank received        |
+| Bills receivable dishonoured | Discount allowed          |
+| Credit sales                 | Bad debts                 |
+|                              | Sales return              |
+|                              | Bills receivable received |
+|                              | Closing balance           |
 
 Credit sales are often the balancing figure.
 
@@ -376,11 +377,11 @@ depending on whether credit sales is gross or net in the question.
 
 Prepared when bills received during the year or another bills receivable figure is missing.
 
-| Debit Side | Credit Side |
-| --- | --- |
-| Opening bills receivable | Bank/cash: bills honoured |
+| Debit Side                     | Credit Side                       |
+| ------------------------------ | --------------------------------- |
+| Opening bills receivable       | Bank/cash: bills honoured         |
 | Sundry debtors: bills received | Sundry debtors: bills dishonoured |
-|  | Closing bills receivable |
+|                                | Closing bills receivable          |
 
 ---
 
@@ -388,11 +389,11 @@ Prepared when bills received during the year or another bills receivable figure 
 
 Prepared when bills accepted during the year or another bills payable figure is missing.
 
-| Debit Side | Credit Side |
-| --- | --- |
-| Bank/cash: bills matured | Opening bills payable |
+| Debit Side                          | Credit Side                      |
+| ----------------------------------- | -------------------------------- |
+| Bank/cash: bills matured            | Opening bills payable            |
 | Sundry creditors: bills dishonoured | Sundry creditors: bills accepted |
-| Closing bills payable |  |
+| Closing bills payable               |                                  |
 
 ---
 
@@ -422,13 +423,13 @@ It may help find:
 
 ## Basic Structure
 
-| Receipts | Payments |
-| --- | --- |
-| opening cash/bank | cash purchases |
-| cash sales | cash paid to creditors |
-| receipts from debtors | expenses |
-| capital introduced | drawings |
-| loans received | closing cash/bank |
+| Receipts              | Payments               |
+| --------------------- | ---------------------- |
+| opening cash/bank     | cash purchases         |
+| cash sales            | cash paid to creditors |
+| receipts from debtors | expenses               |
+| capital introduced    | drawings               |
+| loans received        | closing cash/bank      |
 
 The missing item is the balancing figure.
 
@@ -452,40 +453,40 @@ The missing item is the balancing figure.
 
 ## Trading Account Inputs
 
-| Item | Source |
-| --- | --- |
-| opening stock | opening list |
-| purchases | cash purchases + credit purchases |
-| sales | cash sales + credit sales |
-| closing stock | closing list |
+| Item            | Source                            |
+| --------------- | --------------------------------- |
+| opening stock   | opening list                      |
+| purchases       | cash purchases + credit purchases |
+| sales           | cash sales + credit sales         |
+| closing stock   | closing list                      |
 | direct expenses | cash summary or extra information |
 
 ---
 
 ## Profit And Loss Account Inputs
 
-| Item | Source |
-| --- | --- |
-| gross profit | trading account |
-| salaries | cash summary or extra information |
-| sundry expenses | cash summary |
-| discount allowed | total debtors or extra information |
+| Item              | Source                               |
+| ----------------- | ------------------------------------ |
+| gross profit      | trading account                      |
+| salaries          | cash summary or extra information    |
+| sundry expenses   | cash summary                         |
+| discount allowed  | total debtors or extra information   |
 | discount received | total creditors or extra information |
-| bad debts | total debtors or extra information |
-| depreciation | adjustment |
+| bad debts         | total debtors or extra information   |
+| depreciation      | adjustment                           |
 
 ---
 
 ## Balance Sheet Inputs
 
-| Item | Source |
-| --- | --- |
-| closing assets | closing list |
-| closing liabilities | closing list |
-| closing capital | opening capital + profit + additional capital - drawings |
-| closing cash/bank | cash summary |
-| debtors/creditors | closing balances |
-| stock | closing valuation |
+| Item                | Source                                                   |
+| ------------------- | -------------------------------------------------------- |
+| closing assets      | closing list                                             |
+| closing liabilities | closing list                                             |
+| closing capital     | opening capital + profit + additional capital - drawings |
+| closing cash/bank   | cash summary                                             |
+| debtors/creditors   | closing balances                                         |
+| stock               | closing valuation                                        |
 
 ---
 
@@ -680,4 +681,3 @@ After these figures are found, proper Trading Account, Profit and Loss Account, 
 - [ ] I can use bills receivable and bills payable accounts.
 - [ ] I can use cash summary to find missing cash figures.
 - [ ] I can prepare final accounts after reconstructing missing information.
-

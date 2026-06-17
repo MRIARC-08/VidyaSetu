@@ -4,17 +4,17 @@ Class 11 Biology
 
 ## Chapter Profile
 
-| Item | Details |
-|---|---|
-| Class | 11 |
-| Subject | Biology |
-| Chapter | 2 |
-| Title | Biological Classification |
-| Main theme | How living organisms are grouped using scientific criteria |
-| Core system studied | Whittaker's five-kingdom classification |
-| Main kingdoms covered | Monera, Protista, Fungi, Plantae, Animalia |
-| Additional agents covered | Viruses, viroids, prions, lichens |
-| Learner goal | Understand why classification changes and how major biological groups differ |
+| Item                      | Details                                                                      |
+| ------------------------- | ---------------------------------------------------------------------------- |
+| Class                     | 11                                                                           |
+| Subject                   | Biology                                                                      |
+| Chapter                   | 2                                                                            |
+| Title                     | Biological Classification                                                    |
+| Main theme                | How living organisms are grouped using scientific criteria                   |
+| Core system studied       | Whittaker's five-kingdom classification                                      |
+| Main kingdoms covered     | Monera, Protista, Fungi, Plantae, Animalia                                   |
+| Additional agents covered | Viruses, viroids, prions, lichens                                            |
+| Learner goal              | Understand why classification changes and how major biological groups differ |
 
 ## How To Study This Chapter
 
@@ -51,49 +51,49 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Classification | Arrangement of organisms into groups based on similarities and differences |
-| Taxonomy | Identification, naming, and classification of organisms |
-| Kingdom | A major taxonomic category used to group organisms |
-| Prokaryote | Organism whose cells lack a true nucleus and membrane-bound organelles |
-| Eukaryote | Organism whose cells have a true nucleus and membrane-bound organelles |
-| Autotroph | Organism that prepares its own food from inorganic substances |
-| Heterotroph | Organism that depends on other organisms or organic matter for food |
-| Saprophyte | Organism that absorbs food from dead and decaying organic matter |
-| Parasite | Organism that lives on or inside another living organism and obtains nutrition from it |
-| Phylogeny | Evolutionary history or evolutionary relationship of organisms |
-| Monera | Kingdom containing prokaryotic organisms such as bacteria |
-| Protista | Kingdom containing mostly unicellular eukaryotic organisms |
-| Fungi | Kingdom of heterotrophic organisms with chitinous cell walls |
-| Mycelium | Network of fungal hyphae |
-| Hypha | Thread-like filament of a fungus |
-| Coenocytic | Multinucleate condition without cross walls |
-| Septate | Having cross walls or septa |
-| Plasmogamy | Fusion of cytoplasm of two compatible cells or gametes |
-| Karyogamy | Fusion of nuclei |
-| Dikaryon | Fungal cell condition with two unfused haploid nuclei, written as n + n |
-| Capsid | Protein coat of a virus |
-| Capsomere | Small protein subunit of the viral capsid |
-| Viroid | Infectious agent made of small RNA without protein coat |
-| Prion | Infectious agent made of abnormally folded protein |
-| Lichen | Association between a fungus and an alga or cyanobacterium |
-| Phycobiont | Algal component of a lichen |
-| Mycobiont | Fungal component of a lichen |
+| Term           | Meaning                                                                                |
+| -------------- | -------------------------------------------------------------------------------------- |
+| Classification | Arrangement of organisms into groups based on similarities and differences             |
+| Taxonomy       | Identification, naming, and classification of organisms                                |
+| Kingdom        | A major taxonomic category used to group organisms                                     |
+| Prokaryote     | Organism whose cells lack a true nucleus and membrane-bound organelles                 |
+| Eukaryote      | Organism whose cells have a true nucleus and membrane-bound organelles                 |
+| Autotroph      | Organism that prepares its own food from inorganic substances                          |
+| Heterotroph    | Organism that depends on other organisms or organic matter for food                    |
+| Saprophyte     | Organism that absorbs food from dead and decaying organic matter                       |
+| Parasite       | Organism that lives on or inside another living organism and obtains nutrition from it |
+| Phylogeny      | Evolutionary history or evolutionary relationship of organisms                         |
+| Monera         | Kingdom containing prokaryotic organisms such as bacteria                              |
+| Protista       | Kingdom containing mostly unicellular eukaryotic organisms                             |
+| Fungi          | Kingdom of heterotrophic organisms with chitinous cell walls                           |
+| Mycelium       | Network of fungal hyphae                                                               |
+| Hypha          | Thread-like filament of a fungus                                                       |
+| Coenocytic     | Multinucleate condition without cross walls                                            |
+| Septate        | Having cross walls or septa                                                            |
+| Plasmogamy     | Fusion of cytoplasm of two compatible cells or gametes                                 |
+| Karyogamy      | Fusion of nuclei                                                                       |
+| Dikaryon       | Fungal cell condition with two unfused haploid nuclei, written as n + n                |
+| Capsid         | Protein coat of a virus                                                                |
+| Capsomere      | Small protein subunit of the viral capsid                                              |
+| Viroid         | Infectious agent made of small RNA without protein coat                                |
+| Prion          | Infectious agent made of abnormally folded protein                                     |
+| Lichen         | Association between a fungus and an alga or cyanobacterium                             |
+| Phycobiont     | Algal component of a lichen                                                            |
+| Mycobiont      | Fungal component of a lichen                                                           |
 
 ## Chapter Map
 
-| Unit | Topic | What You Must Master |
-|---|---|---|
-| 2.1 | Changing systems of classification | Why old systems became insufficient |
-| 2.2 | Five-kingdom classification | Criteria and kingdom comparison |
-| 2.3 | Kingdom Monera | Bacteria, archaebacteria, eubacteria, cyanobacteria, mycoplasma |
-| 2.4 | Kingdom Protista | Chrysophytes, dinoflagellates, euglenoids, slime moulds, protozoans |
-| 2.5 | Kingdom Fungi | Structure, nutrition, reproduction, classes |
-| 2.6 | Kingdom Plantae | Main features and alternation of generations |
-| 2.7 | Kingdom Animalia | Main features of animals |
-| 2.8 | Viruses and similar agents | Viruses, viroids, prions |
-| 2.9 | Lichens | Symbiosis and pollution indication |
+| Unit | Topic                              | What You Must Master                                                |
+| ---- | ---------------------------------- | ------------------------------------------------------------------- |
+| 2.1  | Changing systems of classification | Why old systems became insufficient                                 |
+| 2.2  | Five-kingdom classification        | Criteria and kingdom comparison                                     |
+| 2.3  | Kingdom Monera                     | Bacteria, archaebacteria, eubacteria, cyanobacteria, mycoplasma     |
+| 2.4  | Kingdom Protista                   | Chrysophytes, dinoflagellates, euglenoids, slime moulds, protozoans |
+| 2.5  | Kingdom Fungi                      | Structure, nutrition, reproduction, classes                         |
+| 2.6  | Kingdom Plantae                    | Main features and alternation of generations                        |
+| 2.7  | Kingdom Animalia                   | Main features of animals                                            |
+| 2.8  | Viruses and similar agents         | Viruses, viroids, prions                                            |
+| 2.9  | Lichens                            | Symbiosis and pollution indication                                  |
 
 ## 1. Why Biological Classification Was Needed
 
@@ -116,9 +116,9 @@ For example, if an organism is placed under Fungi, we expect it to be eukaryotic
 
 Aristotle was among the earliest thinkers to classify organisms on a more scientific basis. His system used simple visible characters.
 
-| Group | Basis Used |
-|---|---|
-| Plants | Divided into herbs, shrubs, and trees |
+| Group   | Basis Used                                                        |
+| ------- | ----------------------------------------------------------------- |
+| Plants  | Divided into herbs, shrubs, and trees                             |
 | Animals | Divided into animals with red blood and animals without red blood |
 
 This was an important beginning, but it was limited because it used only a few external characters. Organisms that look similar may be very different internally, and organisms that look different may share deep evolutionary relationships.
@@ -127,9 +127,9 @@ This was an important beginning, but it was limited because it used only a few e
 
 During Linnaeus' time, organisms were mainly placed into two kingdoms:
 
-| Kingdom | General Idea |
-|---|---|
-| Plantae | Plants and plant-like organisms |
+| Kingdom  | General Idea                      |
+| -------- | --------------------------------- |
+| Plantae  | Plants and plant-like organisms   |
 | Animalia | Animals and animal-like organisms |
 
 This system was simple and easy to use, but it could not handle many organisms properly.
@@ -138,13 +138,13 @@ This system was simple and easy to use, but it could not handle many organisms p
 
 The two-kingdom system grouped together organisms that were very different in important ways.
 
-| Problem | Explanation |
-|---|---|
-| Prokaryotes and eukaryotes were not separated | Bacteria and blue-green algae were grouped with eukaryotic plants |
-| Unicellular and multicellular forms were mixed | Chlamydomonas and large plants could be treated under broad plant groups |
-| Photosynthetic and non-photosynthetic forms were mixed | Fungi were grouped with plants even though fungi do not photosynthesise |
-| Cell wall composition was ignored | Fungi have chitin in their walls, while green plants have cellulose |
-| Evolutionary relationships were not clear | The system was not strongly phylogenetic |
+| Problem                                                | Explanation                                                              |
+| ------------------------------------------------------ | ------------------------------------------------------------------------ |
+| Prokaryotes and eukaryotes were not separated          | Bacteria and blue-green algae were grouped with eukaryotic plants        |
+| Unicellular and multicellular forms were mixed         | Chlamydomonas and large plants could be treated under broad plant groups |
+| Photosynthetic and non-photosynthetic forms were mixed | Fungi were grouped with plants even though fungi do not photosynthesise  |
+| Cell wall composition was ignored                      | Fungi have chitin in their walls, while green plants have cellulose      |
+| Evolutionary relationships were not clear              | The system was not strongly phylogenetic                                 |
 
 The major issue was this: having a cell wall alone is not enough to place organisms together. Bacteria, fungi, algae, and plants may all have walls, but their cell structure, nutrition, and evolutionary relationships differ strongly.
 
@@ -152,15 +152,15 @@ The major issue was this: having a cell wall alone is not enough to place organi
 
 As biology advanced, scientists began using more reliable criteria.
 
-| Criterion | Question It Answers | Example |
-|---|---|---|
-| Cell structure | Is the cell prokaryotic or eukaryotic? | Bacteria are prokaryotic; fungi are eukaryotic |
-| Cell wall | Is a wall present, and what is it made of? | Fungi have chitin; plants have cellulose |
-| Body organisation | Is the body unicellular, colonial, filamentous, or multicellular? | Protists are mostly unicellular; animals are multicellular |
-| Mode of nutrition | Is nutrition autotrophic or heterotrophic? | Plants are photosynthetic; fungi are absorptive heterotrophs |
-| Reproduction | How does the organism reproduce? | Fungi form spores; bacteria divide by fission |
-| Habitat | Where does it live? | Archaebacteria can live in extreme habitats |
-| Phylogenetic relationship | What is its evolutionary relationship? | Modern systems aim to reflect evolutionary lines |
+| Criterion                 | Question It Answers                                               | Example                                                      |
+| ------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------ |
+| Cell structure            | Is the cell prokaryotic or eukaryotic?                            | Bacteria are prokaryotic; fungi are eukaryotic               |
+| Cell wall                 | Is a wall present, and what is it made of?                        | Fungi have chitin; plants have cellulose                     |
+| Body organisation         | Is the body unicellular, colonial, filamentous, or multicellular? | Protists are mostly unicellular; animals are multicellular   |
+| Mode of nutrition         | Is nutrition autotrophic or heterotrophic?                        | Plants are photosynthetic; fungi are absorptive heterotrophs |
+| Reproduction              | How does the organism reproduce?                                  | Fungi form spores; bacteria divide by fission                |
+| Habitat                   | Where does it live?                                               | Archaebacteria can live in extreme habitats                  |
+| Phylogenetic relationship | What is its evolutionary relationship?                            | Modern systems aim to reflect evolutionary lines             |
 
 The more criteria we use, the more natural and useful classification becomes.
 
@@ -188,26 +188,26 @@ This was a major improvement because it separated prokaryotes, unicellular eukar
 
 ## 4.2 Quick Comparison Of The Five Kingdoms
 
-| Character | Monera | Protista | Fungi | Plantae | Animalia |
-|---|---|---|---|---|---|
-| Cell type | Prokaryotic | Eukaryotic | Eukaryotic | Eukaryotic | Eukaryotic |
-| Nuclear membrane | Absent | Present | Present | Present | Present |
-| Cell wall | Usually present; non-cellulosic | Present in some | Present; chitin | Present; cellulose | Absent |
-| Body organisation | Cellular, mostly unicellular | Cellular, mostly unicellular | Multicellular or loose tissue; yeast unicellular | Tissue and organ level | Tissue, organ, and organ system level |
-| Nutrition | Autotrophic or heterotrophic | Autotrophic or heterotrophic | Heterotrophic by absorption | Mostly photosynthetic autotrophic | Heterotrophic, mainly holozoic |
-| Examples | Bacteria, cyanobacteria | Amoeba, Euglena, diatoms | Rhizopus, yeast, mushrooms | Algae, bryophytes, pteridophytes, seed plants | Sponges, insects, fishes, humans |
+| Character         | Monera                          | Protista                     | Fungi                                            | Plantae                                       | Animalia                              |
+| ----------------- | ------------------------------- | ---------------------------- | ------------------------------------------------ | --------------------------------------------- | ------------------------------------- |
+| Cell type         | Prokaryotic                     | Eukaryotic                   | Eukaryotic                                       | Eukaryotic                                    | Eukaryotic                            |
+| Nuclear membrane  | Absent                          | Present                      | Present                                          | Present                                       | Present                               |
+| Cell wall         | Usually present; non-cellulosic | Present in some              | Present; chitin                                  | Present; cellulose                            | Absent                                |
+| Body organisation | Cellular, mostly unicellular    | Cellular, mostly unicellular | Multicellular or loose tissue; yeast unicellular | Tissue and organ level                        | Tissue, organ, and organ system level |
+| Nutrition         | Autotrophic or heterotrophic    | Autotrophic or heterotrophic | Heterotrophic by absorption                      | Mostly photosynthetic autotrophic             | Heterotrophic, mainly holozoic        |
+| Examples          | Bacteria, cyanobacteria         | Amoeba, Euglena, diatoms     | Rhizopus, yeast, mushrooms                       | Algae, bryophytes, pteridophytes, seed plants | Sponges, insects, fishes, humans      |
 
 ## 4.3 Why Fungi Became A Separate Kingdom
 
 Fungi were once placed with plants because both often have cell walls and are generally stationary. But this grouping was artificial.
 
-| Feature | Green Plants | Fungi |
-|---|---|---|
-| Nutrition | Photosynthetic autotrophs | Heterotrophs by absorption |
-| Main wall material | Cellulose | Chitin and polysaccharides |
-| Chlorophyll | Present in green plants | Absent |
-| Food reserve | Commonly starch | Commonly glycogen and oils |
-| Ecological role | Producers | Decomposers, parasites, symbionts |
+| Feature            | Green Plants              | Fungi                             |
+| ------------------ | ------------------------- | --------------------------------- |
+| Nutrition          | Photosynthetic autotrophs | Heterotrophs by absorption        |
+| Main wall material | Cellulose                 | Chitin and polysaccharides        |
+| Chlorophyll        | Present in green plants   | Absent                            |
+| Food reserve       | Commonly starch           | Commonly glycogen and oils        |
+| Ecological role    | Producers                 | Decomposers, parasites, symbionts |
 
 The separation of fungi shows an important principle: classification must use internal and functional features, not only outward appearance.
 
@@ -223,16 +223,16 @@ Kingdom Monera includes prokaryotic organisms. Bacteria are the main members of 
 
 ## 5.1 General Features Of Monera
 
-| Feature | Description |
-|---|---|
-| Cell type | Prokaryotic |
-| Nucleus | True nucleus absent |
-| Membrane-bound organelles | Absent |
-| Body organisation | Mostly unicellular |
-| Cell wall | Usually present, but not made of cellulose |
-| Nutrition | Autotrophic or heterotrophic |
-| Reproduction | Mainly by fission |
-| Habitat | Nearly everywhere, including extreme habitats |
+| Feature                   | Description                                   |
+| ------------------------- | --------------------------------------------- |
+| Cell type                 | Prokaryotic                                   |
+| Nucleus                   | True nucleus absent                           |
+| Membrane-bound organelles | Absent                                        |
+| Body organisation         | Mostly unicellular                            |
+| Cell wall                 | Usually present, but not made of cellulose    |
+| Nutrition                 | Autotrophic or heterotrophic                  |
+| Reproduction              | Mainly by fission                             |
+| Habitat                   | Nearly everywhere, including extreme habitats |
 
 Monerans are simple in cell structure but very diverse in metabolism. They can live in soil, water, air, hot springs, deserts, snow, deep oceans, and inside other organisms.
 
@@ -249,12 +249,12 @@ Bacteria are among the most abundant microorganisms. A small handful of soil can
 
 ## 5.3 Main Shapes Of Bacteria
 
-| Shape | Singular Name | Plural Name | Description |
-|---|---|---|---|
-| Spherical | Coccus | Cocci | Round bacteria |
-| Rod-shaped | Bacillus | Bacilli | Cylindrical or rod-like bacteria |
-| Comma-shaped | Vibrio | Vibrios | Curved comma-like bacteria |
-| Spiral | Spirillum | Spirilla | Spiral or twisted bacteria |
+| Shape        | Singular Name | Plural Name | Description                      |
+| ------------ | ------------- | ----------- | -------------------------------- |
+| Spherical    | Coccus        | Cocci       | Round bacteria                   |
+| Rod-shaped   | Bacillus      | Bacilli     | Cylindrical or rod-like bacteria |
+| Comma-shaped | Vibrio        | Vibrios     | Curved comma-like bacteria       |
+| Spiral       | Spirillum     | Spirilla    | Spiral or twisted bacteria       |
 
 Memory aid: cocci are circular, bacilli are bars, vibrios are curved, spirilla are spiral.
 
@@ -262,11 +262,11 @@ Memory aid: cocci are circular, bacilli are bars, vibrios are curved, spirilla a
 
 Bacteria show great metabolic diversity.
 
-| Type | Meaning | Examples Or Role |
-|---|---|---|
-| Photosynthetic autotrophs | Use light energy to prepare food | Cyanobacteria |
-| Chemosynthetic autotrophs | Use energy from oxidation of inorganic substances | Bacteria involved in nutrient cycles |
-| Heterotrophs | Depend on organic matter or other organisms | Decomposers, parasites, useful bacteria |
+| Type                      | Meaning                                           | Examples Or Role                        |
+| ------------------------- | ------------------------------------------------- | --------------------------------------- |
+| Photosynthetic autotrophs | Use light energy to prepare food                  | Cyanobacteria                           |
+| Chemosynthetic autotrophs | Use energy from oxidation of inorganic substances | Bacteria involved in nutrient cycles    |
+| Heterotrophs              | Depend on organic matter or other organisms       | Decomposers, parasites, useful bacteria |
 
 Most bacteria are heterotrophic, but bacterial metabolism is broader than that of most other organism groups.
 
@@ -276,11 +276,11 @@ Archaebacteria are special bacteria that often live in extreme habitats. Their c
 
 ## 6.1 Types Of Archaebacteria
 
-| Type | Habitat | Important Point |
-|---|---|---|
-| Halophiles | Extremely salty areas | Adapted to high salt concentration |
-| Thermoacidophiles | Hot acidic environments such as hot springs | Tolerate heat and acidity |
-| Methanogens | Marshes and gut of ruminant animals | Produce methane |
+| Type              | Habitat                                     | Important Point                    |
+| ----------------- | ------------------------------------------- | ---------------------------------- |
+| Halophiles        | Extremely salty areas                       | Adapted to high salt concentration |
+| Thermoacidophiles | Hot acidic environments such as hot springs | Tolerate heat and acidity          |
+| Methanogens       | Marshes and gut of ruminant animals         | Produce methane                    |
 
 ## 6.2 Methanogens And Biogas
 
@@ -303,14 +303,14 @@ Eubacteria are often called true bacteria. They are more common in ordinary envi
 
 ## 7.1 General Features Of Eubacteria
 
-| Feature | Description |
-|---|---|
-| Cell wall | Rigid |
-| Motility | Motile forms may have flagella |
-| Cell type | Prokaryotic |
-| Nutrition | Autotrophic or heterotrophic |
-| Reproduction | Mainly fission |
-| Importance | Decomposition, disease, curd formation, antibiotics, nitrogen fixation |
+| Feature      | Description                                                            |
+| ------------ | ---------------------------------------------------------------------- |
+| Cell wall    | Rigid                                                                  |
+| Motility     | Motile forms may have flagella                                         |
+| Cell type    | Prokaryotic                                                            |
+| Nutrition    | Autotrophic or heterotrophic                                           |
+| Reproduction | Mainly fission                                                         |
+| Importance   | Decomposition, disease, curd formation, antibiotics, nitrogen fixation |
 
 ## 7.2 Cyanobacteria
 
@@ -318,15 +318,15 @@ Cyanobacteria are photosynthetic eubacteria. They are also called blue-green alg
 
 ## 7.3 Features Of Cyanobacteria
 
-| Feature | Description |
-|---|---|
-| Pigment | Chlorophyll a |
-| Nutrition | Photosynthetic autotrophic |
-| Organisation | Unicellular, colonial, or filamentous |
-| Habitat | Freshwater, marine water, or terrestrial habitats |
-| Colony covering | Often surrounded by a gelatinous sheath |
-| Water bloom | Can multiply rapidly in polluted water bodies |
-| Nitrogen fixation | Some forms fix atmospheric nitrogen |
+| Feature           | Description                                       |
+| ----------------- | ------------------------------------------------- |
+| Pigment           | Chlorophyll a                                     |
+| Nutrition         | Photosynthetic autotrophic                        |
+| Organisation      | Unicellular, colonial, or filamentous             |
+| Habitat           | Freshwater, marine water, or terrestrial habitats |
+| Colony covering   | Often surrounded by a gelatinous sheath           |
+| Water bloom       | Can multiply rapidly in polluted water bodies     |
+| Nitrogen fixation | Some forms fix atmospheric nitrogen               |
 
 Examples include Nostoc and Anabaena.
 
@@ -365,24 +365,24 @@ Heterotrophic bacteria are the most abundant bacteria in nature. They depend on 
 
 ## 7.8 Useful Roles Of Heterotrophic Bacteria
 
-| Role | Explanation |
-|---|---|
-| Decomposition | Break down dead organic matter |
-| Curd formation | Convert milk into curd |
-| Antibiotic production | Some bacteria help produce antibiotics |
-| Nitrogen fixation | Some bacteria fix nitrogen in legume roots |
-| Nutrient recycling | Return minerals to the environment |
+| Role                  | Explanation                                |
+| --------------------- | ------------------------------------------ |
+| Decomposition         | Break down dead organic matter             |
+| Curd formation        | Convert milk into curd                     |
+| Antibiotic production | Some bacteria help produce antibiotics     |
+| Nitrogen fixation     | Some bacteria fix nitrogen in legume roots |
+| Nutrient recycling    | Return minerals to the environment         |
 
 ## 7.9 Harmful Roles Of Bacteria
 
 Some bacteria are pathogens. They cause diseases in humans, animals, and plants.
 
-| Disease Or Damage | Type |
-|---|---|
-| Cholera | Human bacterial disease |
-| Typhoid | Human bacterial disease |
-| Tetanus | Human bacterial disease |
-| Citrus canker | Plant bacterial disease |
+| Disease Or Damage | Type                    |
+| ----------------- | ----------------------- |
+| Cholera           | Human bacterial disease |
+| Typhoid           | Human bacterial disease |
+| Tetanus           | Human bacterial disease |
+| Citrus canker     | Plant bacterial disease |
 
 ## 7.10 Reproduction In Bacteria
 
@@ -398,11 +398,11 @@ Bacteria can also exchange genetic material through primitive forms of DNA trans
 
 Mycoplasma are unusual prokaryotic organisms.
 
-| Feature | Description |
-|---|---|
-| Cell wall | Completely absent |
-| Size | Among the smallest living cells known |
-| Oxygen need | Can survive without oxygen |
+| Feature       | Description                                    |
+| ------------- | ---------------------------------------------- |
+| Cell wall     | Completely absent                              |
+| Size          | Among the smallest living cells known          |
+| Oxygen need   | Can survive without oxygen                     |
 | Pathogenicity | Many forms cause disease in plants and animals |
 
 Mycoplasma are important because they show that not all bacteria-like organisms have a cell wall.
@@ -413,28 +413,28 @@ Kingdom Protista includes single-celled eukaryotic organisms. It is a connecting
 
 ## 8.1 General Features Of Protista
 
-| Feature | Description |
-|---|---|
-| Cell type | Eukaryotic |
-| Body organisation | Mostly unicellular |
-| Habitat | Mainly aquatic |
-| Nucleus | Well-defined nucleus present |
-| Organelles | Membrane-bound organelles present |
-| Locomotion | Some have cilia or flagella |
-| Nutrition | Autotrophic or heterotrophic |
-| Reproduction | Asexual and sexual methods |
+| Feature           | Description                       |
+| ----------------- | --------------------------------- |
+| Cell type         | Eukaryotic                        |
+| Body organisation | Mostly unicellular                |
+| Habitat           | Mainly aquatic                    |
+| Nucleus           | Well-defined nucleus present      |
+| Organelles        | Membrane-bound organelles present |
+| Locomotion        | Some have cilia or flagella       |
+| Nutrition         | Autotrophic or heterotrophic      |
+| Reproduction      | Asexual and sexual methods        |
 
 Protista has flexible boundaries. A photosynthetic protist may look plant-like, while a protozoan may look animal-like in behaviour.
 
 ## 8.2 Major Groups Of Protista
 
-| Group | Main Character |
-|---|---|
-| Chrysophytes | Diatoms and golden algae |
-| Dinoflagellates | Mostly marine, often photosynthetic, two flagella |
-| Euglenoids | Flexible pellicle, photosynthetic in light, heterotrophic in dark |
-| Slime moulds | Saprophytic protists with plasmodium stage |
-| Protozoans | Heterotrophic, predator or parasite forms |
+| Group           | Main Character                                                    |
+| --------------- | ----------------------------------------------------------------- |
+| Chrysophytes    | Diatoms and golden algae                                          |
+| Dinoflagellates | Mostly marine, often photosynthetic, two flagella                 |
+| Euglenoids      | Flexible pellicle, photosynthetic in light, heterotrophic in dark |
+| Slime moulds    | Saprophytic protists with plasmodium stage                        |
+| Protozoans      | Heterotrophic, predator or parasite forms                         |
 
 ## 9. Chrysophytes
 
@@ -442,14 +442,14 @@ Chrysophytes include diatoms and golden algae, including desmids.
 
 ## 9.1 Main Features Of Chrysophytes
 
-| Feature | Description |
-|---|---|
-| Members | Diatoms and golden algae |
-| Habitat | Freshwater and marine water |
-| Size | Microscopic |
+| Feature           | Description                 |
+| ----------------- | --------------------------- |
+| Members           | Diatoms and golden algae    |
+| Habitat           | Freshwater and marine water |
+| Size              | Microscopic                 |
 | Movement in water | Float passively as plankton |
-| Nutrition | Mostly photosynthetic |
-| Importance | Chief producers in oceans |
+| Nutrition         | Mostly photosynthetic       |
+| Importance        | Chief producers in oceans   |
 
 ## 9.2 Diatom Cell Wall
 
@@ -463,10 +463,10 @@ Over long periods, dead diatoms leave behind large deposits of their silica-rich
 
 ## 9.4 Uses Of Diatomaceous Earth
 
-| Property | Use |
-|---|---|
-| Gritty texture | Polishing |
-| Fine porous nature | Filtration of oils and syrups |
+| Property                | Use                                    |
+| ----------------------- | -------------------------------------- |
+| Gritty texture          | Polishing                              |
+| Fine porous nature      | Filtration of oils and syrups          |
 | Silica-rich composition | Industrial filtering and abrasive uses |
 
 ## 9.5 Exam Point On Diatoms
@@ -481,13 +481,13 @@ Dinoflagellates are mostly marine protists. Many are photosynthetic.
 
 ## 10.1 Main Features Of Dinoflagellates
 
-| Feature | Description |
-|---|---|
-| Habitat | Mostly marine |
-| Nutrition | Mostly photosynthetic |
-| Pigments | May appear yellow, green, brown, blue, or red |
-| Cell covering | Stiff cellulose plates |
-| Flagella | Usually two |
+| Feature               | Description                                   |
+| --------------------- | --------------------------------------------- |
+| Habitat               | Mostly marine                                 |
+| Nutrition             | Mostly photosynthetic                         |
+| Pigments              | May appear yellow, green, brown, blue, or red |
+| Cell covering         | Stiff cellulose plates                        |
+| Flagella              | Usually two                                   |
 | Flagellar arrangement | One longitudinal and one transverse flagellum |
 
 The two flagella help dinoflagellates move in a spinning or whirling manner.
@@ -510,17 +510,17 @@ Euglenoids are interesting because they show both plant-like and animal-like fea
 
 ## 11.1 Main Features Of Euglenoids
 
-| Feature | Description |
-|---|---|
-| Habitat | Mostly freshwater, especially stagnant water |
-| Cell wall | Absent |
-| Outer covering | Protein-rich pellicle |
-| Body | Flexible |
-| Flagella | Two flagella, one short and one long |
-| Nutrition in sunlight | Photosynthetic |
-| Nutrition without sunlight | Heterotrophic |
-| Pigments | Similar to higher plants |
-| Example | Euglena |
+| Feature                    | Description                                  |
+| -------------------------- | -------------------------------------------- |
+| Habitat                    | Mostly freshwater, especially stagnant water |
+| Cell wall                  | Absent                                       |
+| Outer covering             | Protein-rich pellicle                        |
+| Body                       | Flexible                                     |
+| Flagella                   | Two flagella, one short and one long         |
+| Nutrition in sunlight      | Photosynthetic                               |
+| Nutrition without sunlight | Heterotrophic                                |
+| Pigments                   | Similar to higher plants                     |
+| Example                    | Euglena                                      |
 
 ## 11.2 Why Euglenoids Are Important
 
@@ -534,16 +534,16 @@ Slime moulds are saprophytic protists. They feed on decaying organic material.
 
 ## 12.1 Main Features Of Slime Moulds
 
-| Feature | Description |
-|---|---|
-| Nutrition | Saprophytic |
-| Habitat | Decaying twigs and leaves |
-| Movement | Body moves over decaying matter |
-| Feeding | Engulfs organic material |
-| Favourable condition | Forms plasmodium |
-| Unfavourable condition | Forms fruiting bodies with spores |
-| Spore survival | Spores are resistant and may survive for years |
-| Dispersal | Spores are dispersed by air currents |
+| Feature                | Description                                    |
+| ---------------------- | ---------------------------------------------- |
+| Nutrition              | Saprophytic                                    |
+| Habitat                | Decaying twigs and leaves                      |
+| Movement               | Body moves over decaying matter                |
+| Feeding                | Engulfs organic material                       |
+| Favourable condition   | Forms plasmodium                               |
+| Unfavourable condition | Forms fruiting bodies with spores              |
+| Spore survival         | Spores are resistant and may survive for years |
+| Dispersal              | Spores are dispersed by air currents           |
 
 ## 12.2 Plasmodium
 
@@ -557,12 +557,12 @@ Protozoans are heterotrophic protists. They live as predators or parasites and a
 
 ## 13.1 Four Major Groups Of Protozoans
 
-| Group | Locomotion Or Main Feature | Habitat Or Role | Example |
-|---|---|---|---|
-| Amoeboid protozoans | Pseudopodia | Freshwater, seawater, moist soil; some parasitic | Amoeba, Entamoeba |
-| Flagellated protozoans | Flagella | Free-living or parasitic | Trypanosoma |
-| Ciliated protozoans | Cilia | Aquatic and actively moving | Paramoecium |
-| Sporozoans | Infectious spore-like stage | Mostly parasitic | Plasmodium |
+| Group                  | Locomotion Or Main Feature  | Habitat Or Role                                  | Example           |
+| ---------------------- | --------------------------- | ------------------------------------------------ | ----------------- |
+| Amoeboid protozoans    | Pseudopodia                 | Freshwater, seawater, moist soil; some parasitic | Amoeba, Entamoeba |
+| Flagellated protozoans | Flagella                    | Free-living or parasitic                         | Trypanosoma       |
+| Ciliated protozoans    | Cilia                       | Aquatic and actively moving                      | Paramoecium       |
+| Sporozoans             | Infectious spore-like stage | Mostly parasitic                                 | Plasmodium        |
 
 ## 13.2 Amoeboid Protozoans
 
@@ -596,27 +596,27 @@ Fungi form a separate kingdom of heterotrophic eukaryotes.
 
 ## 14.1 Common Examples Of Fungi
 
-| Example | Context |
-|---|---|
-| Bread mould | Grows on moist bread |
-| Rotten fruit mould | Common on decaying fruits |
-| Mushroom | Edible fungal body in many species |
-| Toadstools | Mushroom-like fungi, often not edible |
-| Yeast | Used in bread and beer |
-| Puccinia | Causes wheat rust |
-| Penicillium | Linked with antibiotic production |
+| Example            | Context                               |
+| ------------------ | ------------------------------------- |
+| Bread mould        | Grows on moist bread                  |
+| Rotten fruit mould | Common on decaying fruits             |
+| Mushroom           | Edible fungal body in many species    |
+| Toadstools         | Mushroom-like fungi, often not edible |
+| Yeast              | Used in bread and beer                |
+| Puccinia           | Causes wheat rust                     |
+| Penicillium        | Linked with antibiotic production     |
 
 ## 14.2 General Features Of Fungi
 
-| Feature | Description |
-|---|---|
-| Cell type | Eukaryotic |
-| Nutrition | Heterotrophic by absorption |
-| Cell wall | Chitin and polysaccharides |
-| Body | Usually filamentous |
-| Habitat | Air, water, soil, plants, animals |
-| Preferred condition | Warm and humid places |
-| Reproduction | Vegetative, asexual, and sexual |
+| Feature             | Description                       |
+| ------------------- | --------------------------------- |
+| Cell type           | Eukaryotic                        |
+| Nutrition           | Heterotrophic by absorption       |
+| Cell wall           | Chitin and polysaccharides        |
+| Body                | Usually filamentous               |
+| Habitat             | Air, water, soil, plants, animals |
+| Preferred condition | Warm and humid places             |
+| Reproduction        | Vegetative, asexual, and sexual   |
 
 Fungi are cosmopolitan, meaning they occur in many regions and habitats.
 
@@ -630,31 +630,31 @@ Fungi grow well in warm and humid conditions. Reducing temperature makes growth 
 
 Most fungi are filamentous. Yeast is an exception because it is unicellular.
 
-| Structure | Meaning |
-|---|---|
-| Hypha | Long thread-like fungal filament |
-| Mycelium | Network of hyphae |
+| Structure        | Meaning                                            |
+| ---------------- | -------------------------------------------------- |
+| Hypha            | Long thread-like fungal filament                   |
+| Mycelium         | Network of hyphae                                  |
 | Coenocytic hypha | Continuous multinucleate hypha without cross walls |
-| Septate hypha | Hypha divided by cross walls |
+| Septate hypha    | Hypha divided by cross walls                       |
 
 ## 14.5 Nutrition In Fungi
 
 Fungi are heterotrophic. They absorb soluble organic matter.
 
-| Mode | Meaning | Example Or Context |
-|---|---|---|
+| Mode        | Meaning                                  | Example Or Context            |
+| ----------- | ---------------------------------------- | ----------------------------- |
 | Saprophytic | Feed on dead and decaying organic matter | Bread mould, decomposer fungi |
-| Parasitic | Obtain nutrition from living hosts | Puccinia on wheat |
-| Symbiotic | Live in mutual association | Lichens and mycorrhiza |
+| Parasitic   | Obtain nutrition from living hosts       | Puccinia on wheat             |
+| Symbiotic   | Live in mutual association               | Lichens and mycorrhiza        |
 
 ## 14.6 Symbiotic Fungi
 
 Fungi may form mutual associations:
 
-| Association | Partners | Benefit |
-|---|---|---|
-| Lichen | Fungus with algae or cyanobacteria | Food and shelter exchange |
-| Mycorrhiza | Fungus with roots of higher plants | Mineral absorption support for plant, food for fungus |
+| Association | Partners                           | Benefit                                               |
+| ----------- | ---------------------------------- | ----------------------------------------------------- |
+| Lichen      | Fungus with algae or cyanobacteria | Food and shelter exchange                             |
+| Mycorrhiza  | Fungus with roots of higher plants | Mineral absorption support for plant, food for fungus |
 
 ## 15. Reproduction In Fungi
 
@@ -662,11 +662,11 @@ Fungi reproduce by vegetative, asexual, and sexual methods.
 
 ## 15.1 Vegetative Reproduction
 
-| Method | Meaning |
-|---|---|
+| Method        | Meaning                                       |
+| ------------- | --------------------------------------------- |
 | Fragmentation | Mycelium breaks into pieces, each piece grows |
-| Fission | A cell divides into two |
-| Budding | A small outgrowth forms and separates |
+| Fission       | A cell divides into two                       |
+| Budding       | A small outgrowth forms and separates         |
 
 Yeast commonly reproduces by budding.
 
@@ -674,11 +674,11 @@ Yeast commonly reproduces by budding.
 
 Asexual reproduction in fungi occurs by spores.
 
-| Asexual Spore | General Meaning |
-|---|---|
-| Conidia | Non-motile spores often produced externally |
-| Sporangiospores | Spores produced inside sporangia |
-| Zoospores | Motile spores |
+| Asexual Spore   | General Meaning                             |
+| --------------- | ------------------------------------------- |
+| Conidia         | Non-motile spores often produced externally |
+| Sporangiospores | Spores produced inside sporangia            |
+| Zoospores       | Motile spores                               |
 
 ## 15.3 Sexual Reproduction
 
@@ -692,11 +692,11 @@ These spores are produced in distinct structures called fruiting bodies.
 
 ## 15.4 Three Steps In The Fungal Sexual Cycle
 
-| Step | Name | What Happens |
-|---|---|---|
-| 1 | Plasmogamy | Cytoplasm of two compatible cells or gametes fuses |
-| 2 | Karyogamy | The nuclei fuse |
-| 3 | Meiosis | Reduction division produces haploid spores |
+| Step | Name       | What Happens                                       |
+| ---- | ---------- | -------------------------------------------------- |
+| 1    | Plasmogamy | Cytoplasm of two compatible cells or gametes fuses |
+| 2    | Karyogamy  | The nuclei fuse                                    |
+| 3    | Meiosis    | Reduction division produces haploid spores         |
 
 ## 15.5 Dikaryotic Stage
 
@@ -710,13 +710,13 @@ This stage is especially important in ascomycetes and basidiomycetes.
 
 ## 15.6 Order Of Events In Fungal Sexual Reproduction
 
-| Order | Event | Result |
-|---|---|---|
-| 1 | Compatible haploid cells come together | Beginning of sexual process |
-| 2 | Plasmogamy occurs | Cytoplasm fuses |
-| 3 | Dikaryotic stage may occur | Two unfused nuclei remain in one cell |
-| 4 | Karyogamy occurs | Diploid nucleus forms |
-| 5 | Meiosis occurs | Haploid spores form |
+| Order | Event                                  | Result                                |
+| ----- | -------------------------------------- | ------------------------------------- |
+| 1     | Compatible haploid cells come together | Beginning of sexual process           |
+| 2     | Plasmogamy occurs                      | Cytoplasm fuses                       |
+| 3     | Dikaryotic stage may occur             | Two unfused nuclei remain in one cell |
+| 4     | Karyogamy occurs                       | Diploid nucleus forms                 |
+| 5     | Meiosis occurs                         | Haploid spores form                   |
 
 ## 16. Classification Of Fungi
 
@@ -738,28 +738,28 @@ The four classes in this chapter are:
 
 ## 17.1 Main Features Of Phycomycetes
 
-| Feature | Description |
-|---|---|
-| Habitat | Aquatic habitats, decaying wood, moist places |
-| Other occurrence | Some are obligate parasites on plants |
-| Mycelium | Aseptate and coenocytic |
-| Asexual reproduction | Zoospores or aplanospores |
-| Spore production | Spores produced inside sporangia |
-| Sexual reproduction | Zygospore formation |
-| Gamete fusion | Isogamous, anisogamous, or oogamous |
-| Examples | Mucor, Rhizopus, Albugo |
+| Feature              | Description                                   |
+| -------------------- | --------------------------------------------- |
+| Habitat              | Aquatic habitats, decaying wood, moist places |
+| Other occurrence     | Some are obligate parasites on plants         |
+| Mycelium             | Aseptate and coenocytic                       |
+| Asexual reproduction | Zoospores or aplanospores                     |
+| Spore production     | Spores produced inside sporangia              |
+| Sexual reproduction  | Zygospore formation                           |
+| Gamete fusion        | Isogamous, anisogamous, or oogamous           |
+| Examples             | Mucor, Rhizopus, Albugo                       |
 
 ## 17.2 Important Terms In Phycomycetes
 
-| Term | Meaning |
-|---|---|
-| Zoospore | Motile asexual spore |
-| Aplanospore | Non-motile asexual spore |
-| Sporangium | Structure in which spores are produced |
-| Zygospore | Thick-walled sexual spore formed by gamete fusion |
-| Isogamous | Gametes similar in shape and size |
-| Anisogamous | Gametes dissimilar in size |
-| Oogamous | Large non-motile female gamete and small motile male gamete |
+| Term        | Meaning                                                     |
+| ----------- | ----------------------------------------------------------- |
+| Zoospore    | Motile asexual spore                                        |
+| Aplanospore | Non-motile asexual spore                                    |
+| Sporangium  | Structure in which spores are produced                      |
+| Zygospore   | Thick-walled sexual spore formed by gamete fusion           |
+| Isogamous   | Gametes similar in shape and size                           |
+| Anisogamous | Gametes dissimilar in size                                  |
+| Oogamous    | Large non-motile female gamete and small motile male gamete |
 
 ## 18. Ascomycetes
 
@@ -767,38 +767,38 @@ Ascomycetes are commonly called sac fungi.
 
 ## 18.1 Main Features Of Ascomycetes
 
-| Feature | Description |
-|---|---|
-| Common name | Sac fungi |
-| Body | Mostly multicellular; yeast is unicellular |
-| Nutrition | Saprophytic, decomposer, parasitic, or coprophilous |
-| Mycelium | Branched and septate |
-| Asexual spores | Conidia |
-| Asexual spore formation | Exogenously on conidiophores |
-| Sexual spores | Ascospores |
-| Sexual spore formation | Endogenously in asci |
-| Fruiting body | Ascocarp |
-| Examples | Aspergillus, Claviceps, Neurospora, Penicillium, Saccharomyces |
+| Feature                 | Description                                                    |
+| ----------------------- | -------------------------------------------------------------- |
+| Common name             | Sac fungi                                                      |
+| Body                    | Mostly multicellular; yeast is unicellular                     |
+| Nutrition               | Saprophytic, decomposer, parasitic, or coprophilous            |
+| Mycelium                | Branched and septate                                           |
+| Asexual spores          | Conidia                                                        |
+| Asexual spore formation | Exogenously on conidiophores                                   |
+| Sexual spores           | Ascospores                                                     |
+| Sexual spore formation  | Endogenously in asci                                           |
+| Fruiting body           | Ascocarp                                                       |
+| Examples                | Aspergillus, Claviceps, Neurospora, Penicillium, Saccharomyces |
 
 ## 18.2 Important Terms In Ascomycetes
 
-| Term | Meaning |
-|---|---|
-| Conidium | Asexual spore formed externally |
-| Conidiophore | Special hypha bearing conidia |
-| Ascus | Sac-like structure that contains ascospores |
-| Ascospores | Sexual spores formed inside asci |
-| Ascocarp | Fruiting body containing asci |
-| Coprophilous | Growing on dung |
+| Term         | Meaning                                     |
+| ------------ | ------------------------------------------- |
+| Conidium     | Asexual spore formed externally             |
+| Conidiophore | Special hypha bearing conidia               |
+| Ascus        | Sac-like structure that contains ascospores |
+| Ascospores   | Sexual spores formed inside asci            |
+| Ascocarp     | Fruiting body containing asci               |
+| Coprophilous | Growing on dung                             |
 
 ## 18.3 Importance Of Ascomycetes
 
-| Example | Importance |
-|---|---|
-| Yeast | Used in bread and alcoholic fermentation |
-| Penicillium | Antibiotic-related importance |
-| Neurospora | Used in biochemical and genetic studies |
-| Morels and truffles | Edible delicacies |
+| Example             | Importance                               |
+| ------------------- | ---------------------------------------- |
+| Yeast               | Used in bread and alcoholic fermentation |
+| Penicillium         | Antibiotic-related importance            |
+| Neurospora          | Used in biochemical and genetic studies  |
+| Morels and truffles | Edible delicacies                        |
 
 ## 19. Basidiomycetes
 
@@ -806,21 +806,21 @@ Basidiomycetes include mushrooms, bracket fungi, and puffballs.
 
 ## 19.1 Main Features Of Basidiomycetes
 
-| Feature | Description |
-|---|---|
-| Common forms | Mushrooms, bracket fungi, puffballs |
-| Habitat | Soil, logs, tree stumps, living plant bodies |
-| Parasitic examples | Rusts and smuts |
-| Mycelium | Branched and septate |
-| Asexual spores | Generally absent |
-| Vegetative reproduction | Commonly by fragmentation |
-| Sex organs | Absent |
-| Plasmogamy | Fusion of somatic cells of different strains |
-| Dikaryotic stage | Present |
-| Basidium | Structure where karyogamy and meiosis occur |
-| Sexual spores | Basidiospores |
-| Fruiting body | Basidiocarp |
-| Examples | Agaricus, Ustilago, Puccinia |
+| Feature                 | Description                                  |
+| ----------------------- | -------------------------------------------- |
+| Common forms            | Mushrooms, bracket fungi, puffballs          |
+| Habitat                 | Soil, logs, tree stumps, living plant bodies |
+| Parasitic examples      | Rusts and smuts                              |
+| Mycelium                | Branched and septate                         |
+| Asexual spores          | Generally absent                             |
+| Vegetative reproduction | Commonly by fragmentation                    |
+| Sex organs              | Absent                                       |
+| Plasmogamy              | Fusion of somatic cells of different strains |
+| Dikaryotic stage        | Present                                      |
+| Basidium                | Structure where karyogamy and meiosis occur  |
+| Sexual spores           | Basidiospores                                |
+| Fruiting body           | Basidiocarp                                  |
+| Examples                | Agaricus, Ustilago, Puccinia                 |
 
 ## 19.2 Basidium And Basidiospores
 
@@ -836,16 +836,16 @@ Deuteromycetes are commonly called imperfect fungi because only their asexual or
 
 ## 20.1 Main Features Of Deuteromycetes
 
-| Feature | Description |
-|---|---|
-| Common name | Imperfect fungi |
-| Known phase | Asexual or vegetative phase |
-| Sexual stage | Not known in many forms |
-| Asexual spores | Conidia |
-| Mycelium | Septate and branched |
-| Nutrition | Saprophytic or parasitic |
+| Feature         | Description                                   |
+| --------------- | --------------------------------------------- |
+| Common name     | Imperfect fungi                               |
+| Known phase     | Asexual or vegetative phase                   |
+| Sexual stage    | Not known in many forms                       |
+| Asexual spores  | Conidia                                       |
+| Mycelium        | Septate and branched                          |
+| Nutrition       | Saprophytic or parasitic                      |
 | Ecological role | Many are decomposers and help mineral cycling |
-| Examples | Alternaria, Colletotrichum, Trichoderma |
+| Examples        | Alternaria, Colletotrichum, Trichoderma       |
 
 ## 20.2 Why Some Deuteromycetes Were Reclassified
 
@@ -855,17 +855,17 @@ This shows that classification is partly dependent on available knowledge. Bette
 
 ## 21. Comparative Table Of Fungal Classes
 
-| Character | Phycomycetes | Ascomycetes | Basidiomycetes | Deuteromycetes |
-|---|---|---|---|---|
-| Common name | Lower fungi in many school texts | Sac fungi | Club fungi | Imperfect fungi |
-| Mycelium | Aseptate, coenocytic | Branched, septate | Branched, septate | Septate, branched |
-| Habitat | Aquatic, moist, decaying matter, plant parasites | Many habitats; dung, dead matter, hosts | Soil, logs, stumps, plant hosts | Dead matter or living hosts |
-| Nutrition | Saprophytic or parasitic | Saprophytic, decomposer, parasitic, coprophilous | Saprophytic or parasitic | Saprophytic or parasitic |
-| Asexual spores | Zoospores or aplanospores | Conidia | Generally absent | Conidia |
-| Asexual spore position | Inside sporangium | Externally on conidiophores | Usually not seen | Conidia |
-| Sexual spore | Zygospore | Ascospore | Basidiospore | Sexual stage unknown in classic grouping |
-| Sexual structure | Formed by gamete fusion | Asci in ascocarps | Basidia in basidiocarps | Not clearly known |
-| Examples | Mucor, Rhizopus, Albugo | Aspergillus, Penicillium, yeast, Neurospora | Agaricus, Ustilago, Puccinia | Alternaria, Colletotrichum, Trichoderma |
+| Character              | Phycomycetes                                     | Ascomycetes                                      | Basidiomycetes                  | Deuteromycetes                           |
+| ---------------------- | ------------------------------------------------ | ------------------------------------------------ | ------------------------------- | ---------------------------------------- |
+| Common name            | Lower fungi in many school texts                 | Sac fungi                                        | Club fungi                      | Imperfect fungi                          |
+| Mycelium               | Aseptate, coenocytic                             | Branched, septate                                | Branched, septate               | Septate, branched                        |
+| Habitat                | Aquatic, moist, decaying matter, plant parasites | Many habitats; dung, dead matter, hosts          | Soil, logs, stumps, plant hosts | Dead matter or living hosts              |
+| Nutrition              | Saprophytic or parasitic                         | Saprophytic, decomposer, parasitic, coprophilous | Saprophytic or parasitic        | Saprophytic or parasitic                 |
+| Asexual spores         | Zoospores or aplanospores                        | Conidia                                          | Generally absent                | Conidia                                  |
+| Asexual spore position | Inside sporangium                                | Externally on conidiophores                      | Usually not seen                | Conidia                                  |
+| Sexual spore           | Zygospore                                        | Ascospore                                        | Basidiospore                    | Sexual stage unknown in classic grouping |
+| Sexual structure       | Formed by gamete fusion                          | Asci in ascocarps                                | Basidia in basidiocarps         | Not clearly known                        |
+| Examples               | Mucor, Rhizopus, Albugo                          | Aspergillus, Penicillium, yeast, Neurospora      | Agaricus, Ustilago, Puccinia    | Alternaria, Colletotrichum, Trichoderma  |
 
 ## 22. Kingdom Plantae
 
@@ -873,24 +873,24 @@ Kingdom Plantae includes eukaryotic organisms that contain chlorophyll and are c
 
 ## 22.1 General Features Of Plantae
 
-| Feature | Description |
-|---|---|
-| Cell type | Eukaryotic |
-| Chlorophyll | Present in most members |
-| Cell wall | Mainly cellulose |
-| Nutrition | Mostly photosynthetic autotrophic |
-| Organelles | Chloroplasts present |
+| Feature         | Description                                                |
+| --------------- | ---------------------------------------------------------- |
+| Cell type       | Eukaryotic                                                 |
+| Chlorophyll     | Present in most members                                    |
+| Cell wall       | Mainly cellulose                                           |
+| Nutrition       | Mostly photosynthetic autotrophic                          |
+| Organelles      | Chloroplasts present                                       |
 | Groups included | Algae, bryophytes, pteridophytes, gymnosperms, angiosperms |
 
 ## 22.2 Partially Heterotrophic Plants
 
 Although plants are generally autotrophic, some are partially heterotrophic.
 
-| Plant | Type | Explanation |
-|---|---|---|
-| Bladderwort | Insectivorous | Traps small organisms to supplement nutrition |
-| Venus flytrap | Insectivorous | Captures insects |
-| Cuscuta | Parasitic | Obtains food from a host plant |
+| Plant         | Type          | Explanation                                   |
+| ------------- | ------------- | --------------------------------------------- |
+| Bladderwort   | Insectivorous | Traps small organisms to supplement nutrition |
+| Venus flytrap | Insectivorous | Captures insects                              |
+| Cuscuta       | Parasitic     | Obtains food from a host plant                |
 
 These examples show that classification often uses overall body plan and evolutionary relationship, not only one feature such as nutrition.
 
@@ -898,10 +898,10 @@ These examples show that classification often uses overall body plan and evoluti
 
 Plants have two main phases in their life cycle:
 
-| Phase | Chromosome Condition | Role |
-|---|---|---|
-| Gametophyte | Haploid | Produces gametes |
-| Sporophyte | Diploid | Produces spores |
+| Phase       | Chromosome Condition | Role             |
+| ----------- | -------------------- | ---------------- |
+| Gametophyte | Haploid              | Produces gametes |
+| Sporophyte  | Diploid              | Produces spores  |
 
 The alternation between haploid gametophytic and diploid sporophytic phases is called alternation of generations.
 
@@ -913,19 +913,19 @@ Kingdom Animalia includes multicellular eukaryotic heterotrophs that lack cell w
 
 ## 23.1 General Features Of Animalia
 
-| Feature | Description |
-|---|---|
-| Cell type | Eukaryotic |
-| Body organisation | Multicellular |
-| Cell wall | Absent |
-| Nutrition | Heterotrophic |
-| Food intake | Mainly ingestion |
-| Digestion | Internal digestion |
-| Food reserve | Glycogen or fat |
-| Growth | Definite growth pattern |
-| Movement | Most animals can move |
-| Control systems | Higher forms have sensory and neuromotor mechanisms |
-| Reproduction | Mostly sexual, with embryological development |
+| Feature           | Description                                         |
+| ----------------- | --------------------------------------------------- |
+| Cell type         | Eukaryotic                                          |
+| Body organisation | Multicellular                                       |
+| Cell wall         | Absent                                              |
+| Nutrition         | Heterotrophic                                       |
+| Food intake       | Mainly ingestion                                    |
+| Digestion         | Internal digestion                                  |
+| Food reserve      | Glycogen or fat                                     |
+| Growth            | Definite growth pattern                             |
+| Movement          | Most animals can move                               |
+| Control systems   | Higher forms have sensory and neuromotor mechanisms |
+| Reproduction      | Mostly sexual, with embryological development       |
 
 ## 23.2 Holozoic Nutrition
 
@@ -952,22 +952,22 @@ Viruses are acellular infectious agents. They are not made of cells.
 
 Viruses show both living and non-living features.
 
-| Living-Like Feature | Non-Living Feature |
-|---|---|
-| They reproduce inside host cells | They cannot reproduce independently |
-| They contain genetic material | They lack cellular structure |
-| They can mutate | Outside the host they are inert |
-| They infect specific hosts | They have no cytoplasm or organelles |
+| Living-Like Feature              | Non-Living Feature                   |
+| -------------------------------- | ------------------------------------ |
+| They reproduce inside host cells | They cannot reproduce independently  |
+| They contain genetic material    | They lack cellular structure         |
+| They can mutate                  | Outside the host they are inert      |
+| They infect specific hosts       | They have no cytoplasm or organelles |
 
 Because of this, viruses are not placed in the five kingdoms.
 
 ## 25.2 Important Historical Points
 
-| Scientist | Contribution |
-|---|---|
+| Scientist        | Contribution                                                                                     |
+| ---------------- | ------------------------------------------------------------------------------------------------ |
 | Dmitri Ivanowsky | Studied the agent causing tobacco mosaic disease; found it passed through bacteria-proof filters |
-| M. W. Beijerinck | Called the infectious agent a virus and described it as an infectious living fluid |
-| W. M. Stanley | Crystallised viruses and showed that the crystals largely consisted of protein |
+| M. W. Beijerinck | Called the infectious agent a virus and described it as an infectious living fluid               |
+| W. M. Stanley    | Crystallised viruses and showed that the crystals largely consisted of protein                   |
 
 ## 25.3 Structure Of A Virus
 
@@ -982,13 +982,13 @@ Capsomeres are arranged in definite patterns such as helical or polyhedral forms
 
 ## 25.4 Genetic Material In Viruses
 
-| Point | Explanation |
-|---|---|
-| Genetic material | Either DNA or RNA |
-| Both DNA and RNA together | Not found in one virus |
-| Plant viruses | Usually single-stranded RNA |
-| Animal viruses | Single-stranded RNA, double-stranded RNA, or double-stranded DNA |
-| Bacteriophages | Usually double-stranded DNA |
+| Point                     | Explanation                                                      |
+| ------------------------- | ---------------------------------------------------------------- |
+| Genetic material          | Either DNA or RNA                                                |
+| Both DNA and RNA together | Not found in one virus                                           |
+| Plant viruses             | Usually single-stranded RNA                                      |
+| Animal viruses            | Single-stranded RNA, double-stranded RNA, or double-stranded DNA |
+| Bacteriophages            | Usually double-stranded DNA                                      |
 
 ## 25.5 Viral Lifestyle
 
@@ -1000,13 +1000,13 @@ Inside the host cell, they take over the host machinery to produce more virus pa
 
 ## 25.6 Diseases Caused By Viruses
 
-| Disease | Host |
-|---|---|
-| Mumps | Humans |
-| Smallpox | Humans |
-| Herpes | Humans |
-| Influenza | Humans |
-| AIDS | Humans |
+| Disease                | Host   |
+| ---------------------- | ------ |
+| Mumps                  | Humans |
+| Smallpox               | Humans |
+| Herpes                 | Humans |
+| Influenza              | Humans |
+| AIDS                   | Humans |
 | Tobacco mosaic disease | Plants |
 
 ## 25.7 Symptoms Of Viral Infection In Plants
@@ -1027,24 +1027,24 @@ Viroids are smaller than viruses.
 
 ## 26.1 Features Of Viroids
 
-| Feature | Description |
-|---|---|
-| Discovered by | T. O. Diener |
-| Year | 1971 |
-| Size | Smaller than viruses |
-| Composition | Free RNA |
-| Protein coat | Absent |
+| Feature         | Description                  |
+| --------------- | ---------------------------- |
+| Discovered by   | T. O. Diener                 |
+| Year            | 1971                         |
+| Size            | Smaller than viruses         |
+| Composition     | Free RNA                     |
+| Protein coat    | Absent                       |
 | Disease example | Potato spindle tuber disease |
 
 ## 26.2 Viroid Versus Virus
 
-| Feature | Virus | Viroid |
-|---|---|---|
-| Genetic material | DNA or RNA | RNA |
-| Protein coat | Present | Absent |
-| Cellular structure | Absent | Absent |
-| Size | Larger than viroids | Smaller |
-| Example disease | Tobacco mosaic disease, influenza | Potato spindle tuber disease |
+| Feature            | Virus                             | Viroid                       |
+| ------------------ | --------------------------------- | ---------------------------- |
+| Genetic material   | DNA or RNA                        | RNA                          |
+| Protein coat       | Present                           | Absent                       |
+| Cellular structure | Absent                            | Absent                       |
+| Size               | Larger than viroids               | Smaller                      |
+| Example disease    | Tobacco mosaic disease, influenza | Potato spindle tuber disease |
 
 ## 27. Prions
 
@@ -1052,13 +1052,13 @@ Prions are infectious agents made of abnormally folded proteins.
 
 ## 27.1 Features Of Prions
 
-| Feature | Description |
-|---|---|
-| Composition | Protein only |
-| Genetic material | No DNA or RNA mentioned in this chapter |
-| Disease type | Neurological diseases |
+| Feature           | Description                                                   |
+| ----------------- | ------------------------------------------------------------- |
+| Composition       | Protein only                                                  |
+| Genetic material  | No DNA or RNA mentioned in this chapter                       |
+| Disease type      | Neurological diseases                                         |
 | Example in cattle | Bovine spongiform encephalopathy, also called mad cow disease |
-| Example in humans | Variant Creutzfeldt-Jakob disease |
+| Example in humans | Variant Creutzfeldt-Jakob disease                             |
 
 Prions are unusual because the infectious agent is not a nucleic acid-based organism. It is an abnormal protein form that can affect normal proteins.
 
@@ -1068,10 +1068,10 @@ Lichens are symbiotic associations between an algal partner and a fungal partner
 
 ## 28.1 Components Of A Lichen
 
-| Component | Meaning | Role |
-|---|---|---|
-| Phycobiont | Algal component | Prepares food by photosynthesis |
-| Mycobiont | Fungal component | Provides shelter and absorbs water and minerals |
+| Component  | Meaning          | Role                                            |
+| ---------- | ---------------- | ----------------------------------------------- |
+| Phycobiont | Algal component  | Prepares food by photosynthesis                 |
+| Mycobiont  | Fungal component | Provides shelter and absorbs water and minerals |
 
 ## 28.2 Nature Of The Association
 
@@ -1091,59 +1091,59 @@ If lichens are absent from an area where they would normally be expected, it may
 
 ## 29.1 Monera Versus Protista
 
-| Feature | Monera | Protista |
-|---|---|---|
-| Cell type | Prokaryotic | Eukaryotic |
-| Nucleus | Absent | Present |
+| Feature    | Monera                           | Protista                          |
+| ---------- | -------------------------------- | --------------------------------- |
+| Cell type  | Prokaryotic                      | Eukaryotic                        |
+| Nucleus    | Absent                           | Present                           |
 | Organelles | Membrane-bound organelles absent | Membrane-bound organelles present |
-| Body | Mostly unicellular | Mostly unicellular |
-| Examples | Bacteria, cyanobacteria | Euglena, Amoeba, diatoms |
+| Body       | Mostly unicellular               | Mostly unicellular                |
+| Examples   | Bacteria, cyanobacteria          | Euglena, Amoeba, diatoms          |
 
 ## 29.2 Plantae Versus Fungi
 
-| Feature | Plantae | Fungi |
-|---|---|---|
-| Nutrition | Photosynthetic autotrophic | Heterotrophic by absorption |
-| Chlorophyll | Present in most | Absent |
-| Cell wall | Cellulose | Chitin and polysaccharides |
-| Reserve food | Commonly starch | Commonly glycogen and oils |
-| Ecological role | Producers | Decomposers, parasites, symbionts |
+| Feature         | Plantae                    | Fungi                             |
+| --------------- | -------------------------- | --------------------------------- |
+| Nutrition       | Photosynthetic autotrophic | Heterotrophic by absorption       |
+| Chlorophyll     | Present in most            | Absent                            |
+| Cell wall       | Cellulose                  | Chitin and polysaccharides        |
+| Reserve food    | Commonly starch            | Commonly glycogen and oils        |
+| Ecological role | Producers                  | Decomposers, parasites, symbionts |
 
 ## 29.3 Fungi Versus Animalia
 
-| Feature | Fungi | Animalia |
-|---|---|---|
-| Cell wall | Present | Absent |
-| Nutrition | Absorption | Ingestion |
-| Food digestion | Outside body or substrate, then absorption | Internal digestion |
-| Body organisation | Hyphae and mycelium in most | Tissues, organs, organ systems |
-| Movement | Usually non-motile | Most animals show movement |
+| Feature           | Fungi                                      | Animalia                       |
+| ----------------- | ------------------------------------------ | ------------------------------ |
+| Cell wall         | Present                                    | Absent                         |
+| Nutrition         | Absorption                                 | Ingestion                      |
+| Food digestion    | Outside body or substrate, then absorption | Internal digestion             |
+| Body organisation | Hyphae and mycelium in most                | Tissues, organs, organ systems |
+| Movement          | Usually non-motile                         | Most animals show movement     |
 
 ## 29.4 Virus Versus Bacterium
 
-| Feature | Virus | Bacterium |
-|---|---|---|
-| Cellular structure | Absent | Present |
-| Cell type | Acellular | Prokaryotic |
-| Metabolism | No independent metabolism | Has metabolism |
-| Reproduction | Only inside host cell | Mainly by fission |
-| Genetic material | DNA or RNA | DNA as genetic material |
-| Kingdom placement | Not placed in five kingdoms | Monera |
+| Feature            | Virus                       | Bacterium               |
+| ------------------ | --------------------------- | ----------------------- |
+| Cellular structure | Absent                      | Present                 |
+| Cell type          | Acellular                   | Prokaryotic             |
+| Metabolism         | No independent metabolism   | Has metabolism          |
+| Reproduction       | Only inside host cell       | Mainly by fission       |
+| Genetic material   | DNA or RNA                  | DNA as genetic material |
+| Kingdom placement  | Not placed in five kingdoms | Monera                  |
 
 ## 30. Common Learner Mistakes
 
-| Mistake | Correction |
-|---|---|
-| Calling cyanobacteria true algae | Cyanobacteria are prokaryotic bacteria, not eukaryotic algae |
-| Thinking all bacteria are harmful | Many bacteria are useful decomposers, fermenters, and nitrogen fixers |
-| Placing fungi with plants because both have walls | Fungi differ from plants in nutrition and wall composition |
-| Saying all protists are photosynthetic | Protists may be autotrophic or heterotrophic |
-| Saying viruses contain both DNA and RNA | A virus contains either DNA or RNA, not both |
-| Treating viroids as small viruses with protein coat | Viroids lack a protein coat |
-| Calling prions microorganisms | Prions are infectious proteins, not cellular organisms |
-| Forgetting the dikaryotic stage | It is important in ascomycetes and basidiomycetes |
-| Confusing ascospores and basidiospores | Ascospores form in asci; basidiospores form on basidia |
-| Treating lichens as single organisms | A lichen is a symbiotic association |
+| Mistake                                             | Correction                                                            |
+| --------------------------------------------------- | --------------------------------------------------------------------- |
+| Calling cyanobacteria true algae                    | Cyanobacteria are prokaryotic bacteria, not eukaryotic algae          |
+| Thinking all bacteria are harmful                   | Many bacteria are useful decomposers, fermenters, and nitrogen fixers |
+| Placing fungi with plants because both have walls   | Fungi differ from plants in nutrition and wall composition            |
+| Saying all protists are photosynthetic              | Protists may be autotrophic or heterotrophic                          |
+| Saying viruses contain both DNA and RNA             | A virus contains either DNA or RNA, not both                          |
+| Treating viroids as small viruses with protein coat | Viroids lack a protein coat                                           |
+| Calling prions microorganisms                       | Prions are infectious proteins, not cellular organisms                |
+| Forgetting the dikaryotic stage                     | It is important in ascomycetes and basidiomycetes                     |
+| Confusing ascospores and basidiospores              | Ascospores form in asci; basidiospores form on basidia                |
+| Treating lichens as single organisms                | A lichen is a symbiotic association                                   |
 
 ## 31. Memory Anchors
 
@@ -1157,31 +1157,31 @@ The order moves broadly from prokaryotic forms to unicellular eukaryotes to mult
 
 ## 31.2 Bacterial Shapes
 
-| Shape | Anchor |
-|---|---|
-| Coccus | Circular |
-| Bacillus | Bar-like |
-| Vibrio | Curved comma |
-| Spirillum | Spiral |
+| Shape     | Anchor       |
+| --------- | ------------ |
+| Coccus    | Circular     |
+| Bacillus  | Bar-like     |
+| Vibrio    | Curved comma |
+| Spirillum | Spiral       |
 
 ## 31.3 Fungal Classes
 
-| Class | Key Anchor |
-|---|---|
-| Phycomycetes | Coenocytic mycelium, zygospore |
-| Ascomycetes | Ascus, ascospore, sac fungi |
+| Class          | Key Anchor                        |
+| -------------- | --------------------------------- |
+| Phycomycetes   | Coenocytic mycelium, zygospore    |
+| Ascomycetes    | Ascus, ascospore, sac fungi       |
 | Basidiomycetes | Basidium, basidiospore, mushrooms |
-| Deuteromycetes | Only asexual stage known |
+| Deuteromycetes | Only asexual stage known          |
 
 ## 31.4 Protist Groups
 
-| Group | Anchor |
-|---|---|
-| Chrysophytes | Diatoms and silica walls |
-| Dinoflagellates | Two flagella and red tides |
-| Euglenoids | Pellicle and dual nutrition |
-| Slime moulds | Plasmodium and resistant spores |
-| Protozoans | Heterotrophic protists |
+| Group           | Anchor                          |
+| --------------- | ------------------------------- |
+| Chrysophytes    | Diatoms and silica walls        |
+| Dinoflagellates | Two flagella and red tides      |
+| Euglenoids      | Pellicle and dual nutrition     |
+| Slime moulds    | Plasmodium and resistant spores |
+| Protozoans      | Heterotrophic protists          |
 
 ## 32. Exercise Answers
 
@@ -1225,24 +1225,24 @@ A red tide is caused by rapid multiplication of red dinoflagellates such as Gony
 
 ## 32.6 How Are Viroids Different From Viruses?
 
-| Feature | Virus | Viroid |
-|---|---|---|
-| Size | Larger than viroids | Smaller than viruses |
-| Composition | Genetic material plus protein coat | Free RNA only |
-| Protein coat | Present | Absent |
-| Genetic material | DNA or RNA | RNA |
-| Example | Tobacco mosaic virus | Potato spindle tuber disease agent |
+| Feature          | Virus                              | Viroid                             |
+| ---------------- | ---------------------------------- | ---------------------------------- |
+| Size             | Larger than viroids                | Smaller than viruses               |
+| Composition      | Genetic material plus protein coat | Free RNA only                      |
+| Protein coat     | Present                            | Absent                             |
+| Genetic material | DNA or RNA                         | RNA                                |
+| Example          | Tobacco mosaic virus               | Potato spindle tuber disease agent |
 
 Viroids are simpler than viruses because they lack the protein coat found in viruses.
 
 ## 32.7 Describe The Four Major Groups Of Protozoa
 
-| Group | Description | Example |
-|---|---|---|
-| Amoeboid protozoans | Move and capture prey using pseudopodia; live in freshwater, seawater, or moist soil | Amoeba, Entamoeba |
-| Flagellated protozoans | Have flagella; may be free-living or parasitic | Trypanosoma |
-| Ciliated protozoans | Move actively using cilia; cilia also help feed | Paramoecium |
-| Sporozoans | Have an infectious spore-like stage in the life cycle | Plasmodium |
+| Group                  | Description                                                                          | Example           |
+| ---------------------- | ------------------------------------------------------------------------------------ | ----------------- |
+| Amoeboid protozoans    | Move and capture prey using pseudopodia; live in freshwater, seawater, or moist soil | Amoeba, Entamoeba |
+| Flagellated protozoans | Have flagella; may be free-living or parasitic                                       | Trypanosoma       |
+| Ciliated protozoans    | Move actively using cilia; cilia also help feed                                      | Paramoecium       |
+| Sporozoans             | Have an infectious spore-like stage in the life cycle                                | Plasmodium        |
 
 ## 32.8 Give Examples Of Partially Heterotrophic Plants
 
@@ -1267,12 +1267,12 @@ The phycobiont prepares food by photosynthesis. The mycobiont provides shelter a
 
 ## 32.10 Give A Comparative Account Of Fungal Classes Based On Nutrition And Reproduction
 
-| Class | Mode Of Nutrition | Mode Of Reproduction |
-|---|---|---|
-| Phycomycetes | Saprophytic or parasitic | Asexual by zoospores or aplanospores; sexual by zygospore |
-| Ascomycetes | Saprophytic, decomposer, parasitic, or coprophilous | Asexual by conidia; sexual by ascospores in asci |
-| Basidiomycetes | Saprophytic or parasitic | Vegetative reproduction by fragmentation; sexual by basidiospores on basidia |
-| Deuteromycetes | Saprophytic or parasitic | Asexual by conidia; sexual stage not known in the classic grouping |
+| Class          | Mode Of Nutrition                                   | Mode Of Reproduction                                                         |
+| -------------- | --------------------------------------------------- | ---------------------------------------------------------------------------- |
+| Phycomycetes   | Saprophytic or parasitic                            | Asexual by zoospores or aplanospores; sexual by zygospore                    |
+| Ascomycetes    | Saprophytic, decomposer, parasitic, or coprophilous | Asexual by conidia; sexual by ascospores in asci                             |
+| Basidiomycetes | Saprophytic or parasitic                            | Vegetative reproduction by fragmentation; sexual by basidiospores on basidia |
+| Deuteromycetes | Saprophytic or parasitic                            | Asexual by conidia; sexual stage not known in the classic grouping           |
 
 ## 32.11 What Are The Characteristic Features Of Euglenoids?
 
@@ -1408,40 +1408,40 @@ Lichens are sensitive to pollution and do not grow well in polluted areas. Their
 
 ## 35. Rapid Revision Sheet
 
-| Topic | One-Line Revision |
-|---|---|
-| Aristotle | Used simple morphological characters |
-| Two kingdoms | Plantae and Animalia |
+| Topic                       | One-Line Revision                                           |
+| --------------------------- | ----------------------------------------------------------- |
+| Aristotle                   | Used simple morphological characters                        |
+| Two kingdoms                | Plantae and Animalia                                        |
 | Main problem in old systems | Failed to separate key cellular and nutritional differences |
-| Whittaker | Proposed five kingdoms in 1969 |
-| Monera | Prokaryotes |
-| Protista | Mostly unicellular eukaryotes |
-| Fungi | Heterotrophs with chitinous walls |
-| Plantae | Chlorophyll-containing eukaryotes with cellulose walls |
-| Animalia | Multicellular heterotrophs without cell walls |
-| Archaebacteria | Extreme habitat bacteria |
-| Methanogens | Produce methane in marshes and ruminant gut |
-| Eubacteria | True bacteria |
-| Cyanobacteria | Photosynthetic prokaryotes with chlorophyll a |
-| Mycoplasma | Wall-less smallest living cells known |
-| Diatoms | Silica walls and ocean producers |
-| Dinoflagellates | Two flagella, red tides in some |
-| Euglenoids | Pellicle, dual nutrition |
-| Slime moulds | Plasmodium and resistant spores |
-| Protozoans | Heterotrophic protists |
-| Fungal hyphae | Thread-like filaments |
-| Mycelium | Network of hyphae |
-| Plasmogamy | Cytoplasmic fusion |
-| Karyogamy | Nuclear fusion |
-| Dikaryon | n + n condition |
-| Phycomycetes | Aseptate coenocytic mycelium |
-| Ascomycetes | Asci and ascospores |
-| Basidiomycetes | Basidia and basidiospores |
-| Deuteromycetes | Asexual phase known |
-| Virus | DNA or RNA with protein coat |
-| Viroid | RNA without protein coat |
-| Prion | Infectious protein |
-| Lichen | Alga plus fungus |
+| Whittaker                   | Proposed five kingdoms in 1969                              |
+| Monera                      | Prokaryotes                                                 |
+| Protista                    | Mostly unicellular eukaryotes                               |
+| Fungi                       | Heterotrophs with chitinous walls                           |
+| Plantae                     | Chlorophyll-containing eukaryotes with cellulose walls      |
+| Animalia                    | Multicellular heterotrophs without cell walls               |
+| Archaebacteria              | Extreme habitat bacteria                                    |
+| Methanogens                 | Produce methane in marshes and ruminant gut                 |
+| Eubacteria                  | True bacteria                                               |
+| Cyanobacteria               | Photosynthetic prokaryotes with chlorophyll a               |
+| Mycoplasma                  | Wall-less smallest living cells known                       |
+| Diatoms                     | Silica walls and ocean producers                            |
+| Dinoflagellates             | Two flagella, red tides in some                             |
+| Euglenoids                  | Pellicle, dual nutrition                                    |
+| Slime moulds                | Plasmodium and resistant spores                             |
+| Protozoans                  | Heterotrophic protists                                      |
+| Fungal hyphae               | Thread-like filaments                                       |
+| Mycelium                    | Network of hyphae                                           |
+| Plasmogamy                  | Cytoplasmic fusion                                          |
+| Karyogamy                   | Nuclear fusion                                              |
+| Dikaryon                    | n + n condition                                             |
+| Phycomycetes                | Aseptate coenocytic mycelium                                |
+| Ascomycetes                 | Asci and ascospores                                         |
+| Basidiomycetes              | Basidia and basidiospores                                   |
+| Deuteromycetes              | Asexual phase known                                         |
+| Virus                       | DNA or RNA with protein coat                                |
+| Viroid                      | RNA without protein coat                                    |
+| Prion                       | Infectious protein                                          |
+| Lichen                      | Alga plus fungus                                            |
 
 ## 36. Concept Flow For Revision
 
@@ -1468,8 +1468,7 @@ Finally, keep viruses, viroids, prions, and lichens separate because they do not
 
 ## 37. Raw File Reference
 
-| Item | Path |
-|---|---|
-| Raw input | `data/class_11/biology/chapter_02.md` |
+| Item             | Path                                             |
+| ---------------- | ------------------------------------------------ |
+| Raw input        | `data/class_11/biology/chapter_02.md`            |
 | Formatted output | `data_learner_md/class_11/biology/chapter_02.md` |
-

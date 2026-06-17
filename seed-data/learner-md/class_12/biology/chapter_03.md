@@ -1,15 +1,16 @@
 # Chapter 3: Reproductive Health
+
 ### NCERT Class 12 - Biology
 
 ## Chapter at a Glance
 
-| Item | Details |
-|---|---|
-| Main idea | Reproductive health means physical, emotional, behavioural, and social well-being in all aspects of reproduction. |
-| Major concerns | Awareness, population stabilisation, contraception, reproductive tract infections, medical termination of pregnancy, infertility. |
-| Public health focus | Education, accessible healthcare, safe reproductive choices, and prevention of infections. |
-| Key methods | Contraception, counselling, diagnosis, treatment, assisted reproductive technologies. |
-| Most important skill | Connect biological methods with their purpose, advantages, and limitations. |
+| Item                 | Details                                                                                                                           |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Main idea            | Reproductive health means physical, emotional, behavioural, and social well-being in all aspects of reproduction.                 |
+| Major concerns       | Awareness, population stabilisation, contraception, reproductive tract infections, medical termination of pregnancy, infertility. |
+| Public health focus  | Education, accessible healthcare, safe reproductive choices, and prevention of infections.                                        |
+| Key methods          | Contraception, counselling, diagnosis, treatment, assisted reproductive technologies.                                             |
+| Most important skill | Connect biological methods with their purpose, advantages, and limitations.                                                       |
 
 ## Learning Outcomes
 
@@ -28,31 +29,31 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Reproductive health | Total well-being in physical, emotional, behavioural, and social aspects of reproduction. |
-| Population explosion | Rapid increase in population size over a short period. |
-| Contraception | Prevention of pregnancy by blocking ovulation, fertilisation, implantation, or gamete transfer. |
-| Barrier method | Contraceptive method that physically prevents sperm from meeting ovum. |
-| IUD | Intrauterine device placed in uterus to prevent conception or implantation. |
-| Oral contraceptive | Hormonal pill used to prevent ovulation and conception. |
-| Vasectomy | Surgical sterilisation in males by cutting or blocking vas deferens. |
-| Tubectomy | Surgical sterilisation in females by cutting or blocking fallopian tubes. |
-| MTP | Medical termination of pregnancy under legal and medical conditions. |
-| STI | Sexually transmitted infection. |
-| Infertility | Inability to produce children despite unprotected sexual life, often due to biological, medical, or physiological causes. |
-| ART | Assisted reproductive technology used to help infertile couples conceive. |
+| Term                 | Meaning                                                                                                                   |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Reproductive health  | Total well-being in physical, emotional, behavioural, and social aspects of reproduction.                                 |
+| Population explosion | Rapid increase in population size over a short period.                                                                    |
+| Contraception        | Prevention of pregnancy by blocking ovulation, fertilisation, implantation, or gamete transfer.                           |
+| Barrier method       | Contraceptive method that physically prevents sperm from meeting ovum.                                                    |
+| IUD                  | Intrauterine device placed in uterus to prevent conception or implantation.                                               |
+| Oral contraceptive   | Hormonal pill used to prevent ovulation and conception.                                                                   |
+| Vasectomy            | Surgical sterilisation in males by cutting or blocking vas deferens.                                                      |
+| Tubectomy            | Surgical sterilisation in females by cutting or blocking fallopian tubes.                                                 |
+| MTP                  | Medical termination of pregnancy under legal and medical conditions.                                                      |
+| STI                  | Sexually transmitted infection.                                                                                           |
+| Infertility          | Inability to produce children despite unprotected sexual life, often due to biological, medical, or physiological causes. |
+| ART                  | Assisted reproductive technology used to help infertile couples conceive.                                                 |
 
 ## Quick Learning Map
 
-| Area | Core Learning |
-|---|---|
-| Health meaning | It includes body, mind, behaviour, and social relations. |
-| Population | Stabilisation requires awareness and voluntary, safe choices. |
-| Contraception | Methods differ by site of action and reversibility. |
-| MTP | Useful in specific medical and legal situations; unsafe use is dangerous. |
-| STIs | Prevention depends on safe behaviour, awareness, early diagnosis, and treatment. |
-| Infertility | ART can help when natural conception is difficult. |
+| Area           | Core Learning                                                                    |
+| -------------- | -------------------------------------------------------------------------------- |
+| Health meaning | It includes body, mind, behaviour, and social relations.                         |
+| Population     | Stabilisation requires awareness and voluntary, safe choices.                    |
+| Contraception  | Methods differ by site of action and reversibility.                              |
+| MTP            | Useful in specific medical and legal situations; unsafe use is dangerous.        |
+| STIs           | Prevention depends on safe behaviour, awareness, early diagnosis, and treatment. |
+| Infertility    | ART can help when natural conception is difficult.                               |
 
 # Unit 3A: Meaning of Reproductive Health
 
@@ -88,15 +89,15 @@ Common reproductive health problems include:
 
 ## Strategies
 
-| Strategy | Purpose |
-|---|---|
-| Sex education | Build correct knowledge and remove myths. |
-| Counselling | Help adolescents and couples make informed choices. |
-| Maternal healthcare | Reduce pregnancy and childbirth risks. |
-| Child immunisation | Improve child survival. |
-| Contraceptive access | Support planned families. |
-| STI diagnosis and treatment | Reduce infection spread and complications. |
-| Legal safeguards | Prevent misuse of medical technologies and unsafe practices. |
+| Strategy                    | Purpose                                                      |
+| --------------------------- | ------------------------------------------------------------ |
+| Sex education               | Build correct knowledge and remove myths.                    |
+| Counselling                 | Help adolescents and couples make informed choices.          |
+| Maternal healthcare         | Reduce pregnancy and childbirth risks.                       |
+| Child immunisation          | Improve child survival.                                      |
+| Contraceptive access        | Support planned families.                                    |
+| STI diagnosis and treatment | Reduce infection spread and complications.                   |
+| Legal safeguards            | Prevent misuse of medical technologies and unsafe practices. |
 
 # Unit 3C: Population Explosion
 
@@ -113,14 +114,14 @@ Population explosion means a rapid increase in population. It occurs when birth 
 
 ## Consequences
 
-| Area | Effect |
-|---|---|
-| Food | More demand and pressure on supply. |
-| Housing | Overcrowding and urban stress. |
-| Education | More pressure on schools. |
-| Healthcare | Greater burden on hospitals and clinics. |
-| Employment | Competition for jobs. |
-| Environment | More resource use and waste. |
+| Area        | Effect                                   |
+| ----------- | ---------------------------------------- |
+| Food        | More demand and pressure on supply.      |
+| Housing     | Overcrowding and urban stress.           |
+| Education   | More pressure on schools.                |
+| Healthcare  | Greater burden on hospitals and clinics. |
+| Employment  | Competition for jobs.                    |
+| Environment | More resource use and waste.             |
 
 ## Population Stabilisation
 
@@ -149,13 +150,13 @@ An ideal contraceptive should be:
 
 ## Main Categories
 
-| Method | Main Action |
-|---|---|
-| Natural methods | Avoid sperm-ovum meeting without devices or drugs. |
-| Barrier methods | Physically block sperm. |
-| IUDs | Create uterine conditions unfavourable for fertilisation or implantation. |
-| Hormonal methods | Prevent ovulation or implantation and alter cervical mucus. |
-| Surgical methods | Permanently block gamete transport. |
+| Method           | Main Action                                                               |
+| ---------------- | ------------------------------------------------------------------------- |
+| Natural methods  | Avoid sperm-ovum meeting without devices or drugs.                        |
+| Barrier methods  | Physically block sperm.                                                   |
+| IUDs             | Create uterine conditions unfavourable for fertilisation or implantation. |
+| Hormonal methods | Prevent ovulation or implantation and alter cervical mucus.               |
+| Surgical methods | Permanently block gamete transport.                                       |
 
 # Unit 3E: Natural Methods
 
@@ -210,11 +211,11 @@ IUDs are inserted into the uterus by trained medical personnel.
 
 ## Types
 
-| Type | Examples | Main Effect |
-|---|---|---|
-| Non-medicated IUD | Lippes loop | Increases phagocytosis of sperm in uterus. |
-| Copper-releasing IUD | CuT, Cu7, Multiload 375 | Copper ions suppress sperm motility and fertilising ability. |
-| Hormone-releasing IUD | LNG-20, Progestasert | Makes uterus unsuitable for implantation and cervix hostile to sperm. |
+| Type                  | Examples                | Main Effect                                                           |
+| --------------------- | ----------------------- | --------------------------------------------------------------------- |
+| Non-medicated IUD     | Lippes loop             | Increases phagocytosis of sperm in uterus.                            |
+| Copper-releasing IUD  | CuT, Cu7, Multiload 375 | Copper ions suppress sperm motility and fertilising ability.          |
+| Hormone-releasing IUD | LNG-20, Progestasert    | Makes uterus unsuitable for implantation and cervix hostile to sperm. |
 
 ## Advantages
 
@@ -325,13 +326,13 @@ Infertility means inability to conceive despite unprotected sexual life over a s
 
 ## Possible Causes
 
-| Male Factors | Female Factors |
-|---|---|
-| Low sperm count | Ovulation problems |
-| Poor sperm motility | Blocked fallopian tubes |
-| Abnormal sperm structure | Endometriosis |
-| Hormonal imbalance | Uterine abnormalities |
-| Infection | Cervical mucus problems |
+| Male Factors             | Female Factors          |
+| ------------------------ | ----------------------- |
+| Low sperm count          | Ovulation problems      |
+| Poor sperm motility      | Blocked fallopian tubes |
+| Abnormal sperm structure | Endometriosis           |
+| Hormonal imbalance       | Uterine abnormalities   |
+| Infection                | Cervical mucus problems |
 
 # Unit 3M: Assisted Reproductive Technologies
 
@@ -339,16 +340,18 @@ ART helps couples conceive when natural conception is difficult.
 
 ## Main Techniques
 
-| Technique | Meaning |
-|---|---|
-| IVF | Fertilisation outside body in laboratory conditions. |
-| Embryo transfer | Transfer of embryo into female reproductive tract. |
-| ZIFT | Zygote or early embryo transferred into fallopian tube. |
-| IUT | Embryo with more cells transferred into uterus. |
-| GIFT | Transfer of ovum from donor into fallopian tube. |
-| ICSI | Sperm injected directly into ovum in laboratory. |
-| AI | Artificial insemination using semen from husband or donor. |
+| Technique       | Meaning                                                    |
+| --------------- | ---------------------------------------------------------- |
+| IVF             | Fertilisation outside body in laboratory conditions.       |
+| Embryo transfer | Transfer of embryo into female reproductive tract.         |
+| ZIFT            | Zygote or early embryo transferred into fallopian tube.    |
+| IUT             | Embryo with more cells transferred into uterus.            |
+| GIFT            | Transfer of ovum from donor into fallopian tube.           |
+| ICSI            | Sperm injected directly into ovum in laboratory.           |
+| AI              | Artificial insemination using semen from husband or donor. |
+
 |
+
 ## IVF and Embryo Transfer
 
 In IVF, ova and sperm are collected and fertilised outside the body. The resulting embryo is transferred at a suitable stage.
@@ -359,14 +362,14 @@ ART requires expert medical supervision, ethical responsibility, and emotional c
 
 # Unit 3N: Common Mistakes and Corrections
 
-| Mistake | Correct Understanding |
-|---|---|
-| Reproductive health means only absence of disease | It includes emotional, behavioural, and social well-being too. |
-| Condoms only prevent pregnancy | Condoms also reduce STI risk. |
-| Surgical sterilisation stops hormone production | It blocks gamete transport, not hormone secretion. |
-| MTP and contraception are the same | Contraception prevents pregnancy; MTP terminates an existing pregnancy under conditions. |
-| Infertility is always due to female factors | Male factors, female factors, both, or unexplained factors may be involved. |
-| Emergency pills are routine pills | They are for emergency situations. |
+| Mistake                                           | Correct Understanding                                                                    |
+| ------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Reproductive health means only absence of disease | It includes emotional, behavioural, and social well-being too.                           |
+| Condoms only prevent pregnancy                    | Condoms also reduce STI risk.                                                            |
+| Surgical sterilisation stops hormone production   | It blocks gamete transport, not hormone secretion.                                       |
+| MTP and contraception are the same                | Contraception prevents pregnancy; MTP terminates an existing pregnancy under conditions. |
+| Infertility is always due to female factors       | Male factors, female factors, both, or unexplained factors may be involved.              |
+| Emergency pills are routine pills                 | They are for emergency situations.                                                       |
 
 ## Practice Set
 

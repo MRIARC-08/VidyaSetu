@@ -46,7 +46,7 @@ const mockUser = {
   id: 'user-1',
   email: 'student@example.com',
   password: 'hashed-password',
-  role: 'STUDENT',
+  role: 'USER',
   firstTime: true,
 };
 

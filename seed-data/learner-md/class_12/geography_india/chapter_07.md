@@ -1,4 +1,5 @@
 # Chapter 7: Transport and Communication
+
 ### NCERT Class 12 - Geography India
 
 ## Chapter at a Glance
@@ -22,27 +23,27 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Transport | Movement of people and goods. |
-| Communication | Transmission of information and messages. |
-| National highway | Major road connecting important cities and regions. |
-| State highway | Road connecting state capitals and district centres. |
-| Golden Quadrilateral | Highway network connecting Delhi, Mumbai, Chennai, and Kolkata. |
-| Inland waterway | Navigable river, canal, or backwater route. |
-| Pipeline | Transport system for liquids and gases. |
-| Digital divide | Gap between those with and without access to digital communication. |
+| Term                 | Meaning                                                             |
+| -------------------- | ------------------------------------------------------------------- |
+| Transport            | Movement of people and goods.                                       |
+| Communication        | Transmission of information and messages.                           |
+| National highway     | Major road connecting important cities and regions.                 |
+| State highway        | Road connecting state capitals and district centres.                |
+| Golden Quadrilateral | Highway network connecting Delhi, Mumbai, Chennai, and Kolkata.     |
+| Inland waterway      | Navigable river, canal, or backwater route.                         |
+| Pipeline             | Transport system for liquids and gases.                             |
+| Digital divide       | Gap between those with and without access to digital communication. |
 
 ## Quick Learning Map
 
-| Mode | Role in India |
-|---|---|
-| Roads | Flexible, rural and last-mile connectivity |
-| Railways | Bulk goods and passenger movement |
-| Waterways | Low-cost heavy cargo movement |
-| Airways | Fast long-distance and remote-area connection |
-| Pipelines | Petroleum, gas, and product movement |
-| Communication | Information, governance, markets, services |
+| Mode          | Role in India                                 |
+| ------------- | --------------------------------------------- |
+| Roads         | Flexible, rural and last-mile connectivity    |
+| Railways      | Bulk goods and passenger movement             |
+| Waterways     | Low-cost heavy cargo movement                 |
+| Airways       | Fast long-distance and remote-area connection |
+| Pipelines     | Petroleum, gas, and product movement          |
+| Communication | Information, governance, markets, services    |
 
 # Unit 7A: Importance of Transport
 
@@ -251,13 +252,13 @@ For communication:
 
 # Unit 7M: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Saying roads are always better than rail | Mode depends on distance, cargo, cost, and terrain. |
-| Ignoring rural roads | They are crucial for inclusive development. |
-| Treating waterways as outdated | They can be efficient for bulk cargo. |
+| Mistake                                    | Correction                                                      |
+| ------------------------------------------ | --------------------------------------------------------------- |
+| Saying roads are always better than rail   | Mode depends on distance, cargo, cost, and terrain.             |
+| Ignoring rural roads                       | They are crucial for inclusive development.                     |
+| Treating waterways as outdated             | They can be efficient for bulk cargo.                           |
 | Saying communication is only mobile phones | It includes postal, broadcast, satellite, and internet systems. |
-| Ignoring digital divide | Access and skills are uneven. |
+| Ignoring digital divide                    | Access and skills are uneven.                                   |
 
 ## Practice Set
 

@@ -1,19 +1,20 @@
 # Chapter 1: Resources and Development
+
 ### NCERT Class 10 - Social Geography
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-| --- | --- |
-| Class | 10 |
-| Subject | Social Geography |
-| Chapter | 1 - Resources and Development |
-| Central Question | How do things in nature become resources, and how should humans use them without destroying future possibilities? |
-| Main Themes | Resource classification, sustainable development, resource planning, land use, land degradation, soil types, soil erosion, soil conservation |
-| Skills Needed | Classification, comparison, cause-effect reasoning, map reading, interpreting data, writing balanced answers |
-| Exam Importance | Very high: definitions, classification tables, reasons, regional examples, soil-type questions, conservation measures |
+| Detail           | Learner-Friendly Information                                                                                                                 |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Class            | 10                                                                                                                                           |
+| Subject          | Social Geography                                                                                                                             |
+| Chapter          | 1 - Resources and Development                                                                                                                |
+| Central Question | How do things in nature become resources, and how should humans use them without destroying future possibilities?                            |
+| Main Themes      | Resource classification, sustainable development, resource planning, land use, land degradation, soil types, soil erosion, soil conservation |
+| Skills Needed    | Classification, comparison, cause-effect reasoning, map reading, interpreting data, writing balanced answers                                 |
+| Exam Importance  | Very high: definitions, classification tables, reasons, regional examples, soil-type questions, conservation measures                        |
 
 ---
 
@@ -39,16 +40,16 @@ The full logic is:
 
 After studying this chapter, you should be able to:
 
-| Skill | You Should Be Able To |
-| --- | --- |
-| Define | Explain resource, conservation, sustainable development, resource planning, land degradation, soil erosion, and soil conservation. |
-| Classify | Sort resources by origin, exhaustibility, ownership, and status of development. |
-| Compare | Distinguish renewable and non-renewable resources, potential and developed resources, stock and reserves, bangar and khadar. |
-| Explain | Show why resource planning is necessary in India. |
-| Analyse | Connect human activities with land degradation and soil erosion. |
-| Apply | Suggest conservation measures for land, water, soil, forests, and minerals. |
-| Map | Identify regions associated with major soil types and important resource examples. |
-| Write | Build exam answers using definition, explanation, example, and conclusion. |
+| Skill    | You Should Be Able To                                                                                                              |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Define   | Explain resource, conservation, sustainable development, resource planning, land degradation, soil erosion, and soil conservation. |
+| Classify | Sort resources by origin, exhaustibility, ownership, and status of development.                                                    |
+| Compare  | Distinguish renewable and non-renewable resources, potential and developed resources, stock and reserves, bangar and khadar.       |
+| Explain  | Show why resource planning is necessary in India.                                                                                  |
+| Analyse  | Connect human activities with land degradation and soil erosion.                                                                   |
+| Apply    | Suggest conservation measures for land, water, soil, forests, and minerals.                                                        |
+| Map      | Identify regions associated with major soil types and important resource examples.                                                 |
+| Write    | Build exam answers using definition, explanation, example, and conclusion.                                                         |
 
 ---
 
@@ -78,46 +79,46 @@ Development must meet present needs without reducing the ability of future gener
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Resource | Anything available in the environment that can satisfy human needs, if it is technologically accessible, economically feasible, and culturally acceptable. |
-| Technology | The knowledge, tools, and methods used to transform materials into useful resources. |
-| Institutions | Organized systems such as governments, laws, local bodies, scientific agencies, and markets that help manage resources. |
-| Biotic Resources | Resources obtained from living things, such as human beings, plants, animals, fisheries, and livestock. |
-| Abiotic Resources | Resources made of non-living things, such as rocks and metals. |
-| Renewable Resources | Resources that can be renewed or reproduced by physical, chemical, or mechanical processes. |
-| Non-Renewable Resources | Resources that take a very long geological time to form and can be exhausted by use. |
-| Individual Resources | Resources owned privately by individuals, such as a farmer's field or a house plot. |
-| Community-Owned Resources | Resources available to all members of a community, such as grazing grounds, public parks, ponds, and village commons. |
-| National Resources | Resources that belong to the nation, including land, minerals, forests, water, roads, railways, and territorial waters. |
-| International Resources | Resources beyond national jurisdiction, regulated by international institutions. |
-| Potential Resources | Resources found in a region but not yet fully used. |
-| Developed Resources | Resources that have been surveyed, measured, and prepared for use. |
-| Stock | Materials in the environment that could satisfy needs but cannot yet be used because suitable technology is not available. |
-| Reserves | Part of stock that can be used with present technology but is saved for future use. |
-| Sustainable Development | Development that does not damage the environment and does not compromise the needs of future generations. |
-| Resource Planning | The process of identifying resources, estimating their quantity and quality, and matching them with development plans. |
-| Conservation | Judicious and planned use of resources to prevent waste, exhaustion, and environmental damage. |
-| Land Use | The way land is used for forests, farming, settlements, pastures, industries, transport, mining, or wasteland. |
-| Net Sown Area | Land on which crops are grown in a particular agricultural year. |
-| Gross Cropped Area | Net sown area plus area sown more than once in the same year. |
-| Current Fallow | Land left uncultivated for one agricultural year or less. |
-| Culturable Waste Land | Land left uncultivated for more than five agricultural years, though it can be brought under cultivation with improvement. |
-| Land Degradation | Decline in the quality and productivity of land due to natural processes or human activities. |
-| Soil | The uppermost layer of the earth's crust, which supports plant growth. |
-| Humus | Organic matter in soil formed by decayed plants and animals. |
-| Alluvial Soil | Soil deposited by rivers, common in northern plains and river deltas. |
-| Bangar | Older alluvial soil, often containing kankar nodules. |
-| Khadar | Newer alluvial soil, more fertile than bangar. |
-| Black Soil | Regur soil, also called black cotton soil, formed from basaltic rocks of the Deccan Trap. |
-| Laterite Soil | Soil formed under high temperature and heavy rainfall, often through intense leaching. |
-| Leaching | Washing away of soluble nutrients from soil due to heavy rainfall. |
-| Soil Erosion | Removal of soil cover, especially topsoil, by water, wind, or human activity. |
-| Gully Erosion | Erosion that cuts deep channels into land, making it unsuitable for cultivation. |
-| Sheet Erosion | Removal of topsoil over a large area by flowing water. |
-| Shelter Belts | Rows of trees planted to reduce wind speed and protect soil. |
-| Contour Ploughing | Ploughing along contour lines to slow water flow and reduce erosion. |
-| Terrace Cultivation | Cutting steps on slopes to reduce runoff and soil erosion in hilly areas. |
+| Term                      | Meaning                                                                                                                                                    |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Resource                  | Anything available in the environment that can satisfy human needs, if it is technologically accessible, economically feasible, and culturally acceptable. |
+| Technology                | The knowledge, tools, and methods used to transform materials into useful resources.                                                                       |
+| Institutions              | Organized systems such as governments, laws, local bodies, scientific agencies, and markets that help manage resources.                                    |
+| Biotic Resources          | Resources obtained from living things, such as human beings, plants, animals, fisheries, and livestock.                                                    |
+| Abiotic Resources         | Resources made of non-living things, such as rocks and metals.                                                                                             |
+| Renewable Resources       | Resources that can be renewed or reproduced by physical, chemical, or mechanical processes.                                                                |
+| Non-Renewable Resources   | Resources that take a very long geological time to form and can be exhausted by use.                                                                       |
+| Individual Resources      | Resources owned privately by individuals, such as a farmer's field or a house plot.                                                                        |
+| Community-Owned Resources | Resources available to all members of a community, such as grazing grounds, public parks, ponds, and village commons.                                      |
+| National Resources        | Resources that belong to the nation, including land, minerals, forests, water, roads, railways, and territorial waters.                                    |
+| International Resources   | Resources beyond national jurisdiction, regulated by international institutions.                                                                           |
+| Potential Resources       | Resources found in a region but not yet fully used.                                                                                                        |
+| Developed Resources       | Resources that have been surveyed, measured, and prepared for use.                                                                                         |
+| Stock                     | Materials in the environment that could satisfy needs but cannot yet be used because suitable technology is not available.                                 |
+| Reserves                  | Part of stock that can be used with present technology but is saved for future use.                                                                        |
+| Sustainable Development   | Development that does not damage the environment and does not compromise the needs of future generations.                                                  |
+| Resource Planning         | The process of identifying resources, estimating their quantity and quality, and matching them with development plans.                                     |
+| Conservation              | Judicious and planned use of resources to prevent waste, exhaustion, and environmental damage.                                                             |
+| Land Use                  | The way land is used for forests, farming, settlements, pastures, industries, transport, mining, or wasteland.                                             |
+| Net Sown Area             | Land on which crops are grown in a particular agricultural year.                                                                                           |
+| Gross Cropped Area        | Net sown area plus area sown more than once in the same year.                                                                                              |
+| Current Fallow            | Land left uncultivated for one agricultural year or less.                                                                                                  |
+| Culturable Waste Land     | Land left uncultivated for more than five agricultural years, though it can be brought under cultivation with improvement.                                 |
+| Land Degradation          | Decline in the quality and productivity of land due to natural processes or human activities.                                                              |
+| Soil                      | The uppermost layer of the earth's crust, which supports plant growth.                                                                                     |
+| Humus                     | Organic matter in soil formed by decayed plants and animals.                                                                                               |
+| Alluvial Soil             | Soil deposited by rivers, common in northern plains and river deltas.                                                                                      |
+| Bangar                    | Older alluvial soil, often containing kankar nodules.                                                                                                      |
+| Khadar                    | Newer alluvial soil, more fertile than bangar.                                                                                                             |
+| Black Soil                | Regur soil, also called black cotton soil, formed from basaltic rocks of the Deccan Trap.                                                                  |
+| Laterite Soil             | Soil formed under high temperature and heavy rainfall, often through intense leaching.                                                                     |
+| Leaching                  | Washing away of soluble nutrients from soil due to heavy rainfall.                                                                                         |
+| Soil Erosion              | Removal of soil cover, especially topsoil, by water, wind, or human activity.                                                                              |
+| Gully Erosion             | Erosion that cuts deep channels into land, making it unsuitable for cultivation.                                                                           |
+| Sheet Erosion             | Removal of topsoil over a large area by flowing water.                                                                                                     |
+| Shelter Belts             | Rows of trees planted to reduce wind speed and protect soil.                                                                                               |
+| Contour Ploughing         | Ploughing along contour lines to slow water flow and reduce erosion.                                                                                       |
+| Terrace Cultivation       | Cutting steps on slopes to reduce runoff and soil erosion in hilly areas.                                                                                  |
 
 ---
 
@@ -137,21 +138,21 @@ So the correct definition is:
 
 ## Understanding the Three Conditions
 
-| Condition | Meaning | Example |
-| --- | --- | --- |
-| Technologically accessible | Humans must have the knowledge and tools to use it. | Petroleum under the sea becomes useful only when drilling technology exists. |
-| Economically feasible | Using it should not cost more than its benefit. | A mineral deposit may exist, but mining it may be too costly. |
-| Culturally acceptable | Society must accept its use. | A resource use may be rejected if it harms sacred places, community rights, or local traditions. |
+| Condition                  | Meaning                                             | Example                                                                                          |
+| -------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| Technologically accessible | Humans must have the knowledge and tools to use it. | Petroleum under the sea becomes useful only when drilling technology exists.                     |
+| Economically feasible      | Using it should not cost more than its benefit.     | A mineral deposit may exist, but mining it may be too costly.                                    |
+| Culturally acceptable      | Society must accept its use.                        | A resource use may be rejected if it harms sacred places, community rights, or local traditions. |
 
 ## Nature, Technology, and Institutions
 
 The chapter emphasizes that resources are created through an interactive relationship among:
 
-| Element | Role |
-| --- | --- |
-| Nature | Provides materials such as land, water, forests, minerals, animals, and sunlight. |
-| Technology | Helps transform these materials into usable forms. |
-| Institutions | Organize ownership, rules, management, distribution, and development. |
+| Element      | Role                                                                              |
+| ------------ | --------------------------------------------------------------------------------- |
+| Nature       | Provides materials such as land, water, forests, minerals, animals, and sunlight. |
+| Technology   | Helps transform these materials into usable forms.                                |
+| Institutions | Organize ownership, rules, management, distribution, and development.             |
 
 Human beings are central in this process. They identify needs, invent tools, create institutions, and transform natural materials into resources.
 
@@ -187,10 +188,10 @@ Resources are classified in four main ways:
 
 ## 1. Classification on the Basis of Origin
 
-| Type | Meaning | Examples |
-| --- | --- | --- |
-| Biotic Resources | Resources obtained from the biosphere and having life. | Human beings, flora, fauna, fisheries, livestock |
-| Abiotic Resources | Resources made of non-living things. | Rocks, metals, minerals, land |
+| Type              | Meaning                                                | Examples                                         |
+| ----------------- | ------------------------------------------------------ | ------------------------------------------------ |
+| Biotic Resources  | Resources obtained from the biosphere and having life. | Human beings, flora, fauna, fisheries, livestock |
+| Abiotic Resources | Resources made of non-living things.                   | Rocks, metals, minerals, land                    |
 
 ### Easy Memory
 
@@ -206,10 +207,10 @@ Do not write that all natural resources are biotic. Land, minerals, metals, and 
 
 ## 2. Classification on the Basis of Exhaustibility
 
-| Type | Meaning | Examples |
-| --- | --- | --- |
-| Renewable Resources | Resources that can be renewed or reproduced by physical, chemical, or mechanical processes. | Solar energy, wind energy, water, forests, wildlife |
-| Non-Renewable Resources | Resources that take millions of years to form and may get exhausted with use. | Coal, petroleum, natural gas, metallic minerals |
+| Type                    | Meaning                                                                                     | Examples                                            |
+| ----------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| Renewable Resources     | Resources that can be renewed or reproduced by physical, chemical, or mechanical processes. | Solar energy, wind energy, water, forests, wildlife |
+| Non-Renewable Resources | Resources that take millions of years to form and may get exhausted with use.               | Coal, petroleum, natural gas, metallic minerals     |
 
 ## Renewable Resources
 
@@ -243,12 +244,12 @@ Do not write that all non-renewable resources are non-recyclable. Many metals ca
 
 ## 3. Classification on the Basis of Ownership
 
-| Type | Meaning | Examples |
-| --- | --- | --- |
-| Individual Resources | Owned privately by individuals. | Houses, fields, orchards, plantation plots, private wells |
-| Community-Owned Resources | Accessible to all members of a community. | Village ponds, grazing grounds, public parks, burial grounds, picnic spots |
-| National Resources | Belong to the nation. | Land, forests, minerals, water resources, roads, railways, territorial waters |
-| International Resources | Found beyond national boundaries and regulated by international institutions. | Oceanic resources beyond 200 nautical miles of the Exclusive Economic Zone |
+| Type                      | Meaning                                                                       | Examples                                                                      |
+| ------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| Individual Resources      | Owned privately by individuals.                                               | Houses, fields, orchards, plantation plots, private wells                     |
+| Community-Owned Resources | Accessible to all members of a community.                                     | Village ponds, grazing grounds, public parks, burial grounds, picnic spots    |
+| National Resources        | Belong to the nation.                                                         | Land, forests, minerals, water resources, roads, railways, territorial waters |
+| International Resources   | Found beyond national boundaries and regulated by international institutions. | Oceanic resources beyond 200 nautical miles of the Exclusive Economic Zone    |
 
 ## National Resources: Important Detail
 
@@ -262,29 +263,29 @@ The oceanic resources beyond 200 nautical miles of the Exclusive Economic Zone c
 
 ## 4. Classification on the Basis of Status of Development
 
-| Type | Meaning | Example |
-| --- | --- | --- |
-| Potential Resources | Found in a region but not fully used. | Wind and solar energy in Rajasthan and Gujarat |
-| Developed Resources | Surveyed, measured, and ready for use. | Coal fields, iron ore mines, developed river valley projects |
-| Stock | Materials that can satisfy needs but cannot yet be used because technology is lacking. | Hydrogen and oxygen in water as a possible energy source, if technology is not available |
-| Reserves | Part of stock that can be used with present technology but is saved for future use. | Water stored in dams, forests reserved for future use |
+| Type                | Meaning                                                                                | Example                                                                                  |
+| ------------------- | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Potential Resources | Found in a region but not fully used.                                                  | Wind and solar energy in Rajasthan and Gujarat                                           |
+| Developed Resources | Surveyed, measured, and ready for use.                                                 | Coal fields, iron ore mines, developed river valley projects                             |
+| Stock               | Materials that can satisfy needs but cannot yet be used because technology is lacking. | Hydrogen and oxygen in water as a possible energy source, if technology is not available |
+| Reserves            | Part of stock that can be used with present technology but is saved for future use.    | Water stored in dams, forests reserved for future use                                    |
 
 ## Potential vs Developed Resources
 
-| Point | Potential Resources | Developed Resources |
-| --- | --- | --- |
-| Use | Not fully used yet | Already being used |
-| Survey | May not be fully surveyed | Surveyed and measured |
-| Example | Solar energy in Rajasthan | Coal mining in developed coal fields |
-| Key Idea | Possibility exists | Use has already begun |
+| Point    | Potential Resources       | Developed Resources                  |
+| -------- | ------------------------- | ------------------------------------ |
+| Use      | Not fully used yet        | Already being used                   |
+| Survey   | May not be fully surveyed | Surveyed and measured                |
+| Example  | Solar energy in Rajasthan | Coal mining in developed coal fields |
+| Key Idea | Possibility exists        | Use has already begun                |
 
 ## Stock vs Reserves
 
-| Point | Stock | Reserves |
-| --- | --- | --- |
-| Technology | Present technology is not enough for use. | Present technology can use them. |
-| Use | Cannot be used at present. | Can be used now, but may be saved. |
-| Example | Water as a source of hydrogen energy when technology is not available. | Water stored in dams for future generation and irrigation. |
+| Point      | Stock                                                                  | Reserves                                                   |
+| ---------- | ---------------------------------------------------------------------- | ---------------------------------------------------------- |
+| Technology | Present technology is not enough for use.                              | Present technology can use them.                           |
+| Use        | Cannot be used at present.                                             | Can be used now, but may be saved.                         |
+| Example    | Water as a source of hydrogen energy when technology is not available. | Water stored in dams for future generation and irrigation. |
 
 ### Exam Tip
 
@@ -312,12 +313,12 @@ But the chapter warns that resources must be used carefully. If a few people use
 
 ## Problems Created by Indiscriminate Resource Use
 
-| Problem | Explanation |
-| --- | --- |
-| Resource depletion | Resources are exhausted when they are used faster than they can be renewed or replaced. |
-| Concentration in few hands | Powerful groups may control resources, increasing inequality. |
-| Global ecological crisis | Careless use causes pollution, global warming, ozone layer depletion, and land degradation. |
-| Conflict | Unequal access to resources can create social tension and political conflict. |
+| Problem                    | Explanation                                                                                 |
+| -------------------------- | ------------------------------------------------------------------------------------------- |
+| Resource depletion         | Resources are exhausted when they are used faster than they can be renewed or replaced.     |
+| Concentration in few hands | Powerful groups may control resources, increasing inequality.                               |
+| Global ecological crisis   | Careless use causes pollution, global warming, ozone layer depletion, and land degradation. |
+| Conflict                   | Unequal access to resources can create social tension and political conflict.               |
 
 ## Why Equitable Distribution Matters
 
@@ -391,12 +392,12 @@ Sustainable development is development that meets present needs without damaging
 
 Resource planning is necessary because resources are unevenly distributed across India. Some regions are rich in one resource but poor in another.
 
-| Region | Resource Situation |
-| --- | --- |
-| Jharkhand, Chhattisgarh, Madhya Pradesh | Rich in minerals and coal deposits |
-| Arunachal Pradesh | Abundant water resources, but lacks infrastructure development |
-| Rajasthan and Gujarat | Great potential for wind and solar energy, but shortage of water in many areas |
-| Ladakh | Rich cultural heritage, but deficient in water, infrastructure, and some minerals |
+| Region                                  | Resource Situation                                                                |
+| --------------------------------------- | --------------------------------------------------------------------------------- |
+| Jharkhand, Chhattisgarh, Madhya Pradesh | Rich in minerals and coal deposits                                                |
+| Arunachal Pradesh                       | Abundant water resources, but lacks infrastructure development                    |
+| Rajasthan and Gujarat                   | Great potential for wind and solar energy, but shortage of water in many areas    |
+| Ladakh                                  | Rich cultural heritage, but deficient in water, infrastructure, and some minerals |
 
 This proves that the availability of resources alone does not guarantee development.
 
@@ -419,11 +420,11 @@ For example, a region may have minerals, but if there are no roads, no skilled w
 
 Resource planning is a complex process. It has three main stages:
 
-| Stage | What Happens |
-| --- | --- |
-| Identification and inventory | Resources are identified across regions through surveying, mapping, and measurement. |
-| Planning structure | Technology, skills, institutions, and financial systems are developed for resource use. |
-| Matching with national plans | Resource development plans are linked with national development plans. |
+| Stage                        | What Happens                                                                            |
+| ---------------------------- | --------------------------------------------------------------------------------------- |
+| Identification and inventory | Resources are identified across regions through surveying, mapping, and measurement.    |
+| Planning structure           | Technology, skills, institutions, and financial systems are developed for resource use. |
+| Matching with national plans | Resource development plans are linked with national development plans.                  |
 
 ## Stage 1: Identification and Inventory
 
@@ -484,12 +485,12 @@ This means the earth can support human needs if resources are used fairly and mo
 
 ## Important Milestones in Resource Conservation
 
-| Year | Event | Importance |
-| --- | --- | --- |
-| 1968 | Club of Rome advocated resource conservation | Drew attention to limits of resource use and global ecological concerns |
-| 1974 | E. F. Schumacher wrote Small is Beautiful | Emphasized people-centered and sustainable development |
-| 1987 | Brundtland Commission Report | Popularized the idea of sustainable development |
-| 1992 | Rio Earth Summit | Brought global attention to environmental protection and sustainable development |
+| Year | Event                                        | Importance                                                                       |
+| ---- | -------------------------------------------- | -------------------------------------------------------------------------------- |
+| 1968 | Club of Rome advocated resource conservation | Drew attention to limits of resource use and global ecological concerns          |
+| 1974 | E. F. Schumacher wrote Small is Beautiful    | Emphasized people-centered and sustainable development                           |
+| 1987 | Brundtland Commission Report                 | Popularized the idea of sustainable development                                  |
+| 1992 | Rio Earth Summit                             | Brought global attention to environmental protection and sustainable development |
 
 ## Conservation Answer Frame
 
@@ -519,11 +520,11 @@ Land is a fixed and limited resource. We cannot increase the total land area of 
 
 India has three major relief divisions:
 
-| Relief Feature | Share of Land Area | Importance |
-| --- | --- | --- |
-| Plains | About 43 percent | Suitable for agriculture, settlements, roads, railways, and industries |
-| Mountains | About 30 percent | Support forests, rivers, tourism, biodiversity, and ecological balance |
-| Plateaus | About 27 percent | Rich in minerals, forests, and fossil fuels |
+| Relief Feature | Share of Land Area | Importance                                                             |
+| -------------- | ------------------ | ---------------------------------------------------------------------- |
+| Plains         | About 43 percent   | Suitable for agriculture, settlements, roads, railways, and industries |
+| Mountains      | About 30 percent   | Support forests, rivers, tourism, biodiversity, and ecological balance |
+| Plateaus       | About 27 percent   | Rich in minerals, forests, and fossil fuels                            |
 
 ## Why Relief Matters
 
@@ -543,27 +544,27 @@ Forests are land areas covered with trees and natural vegetation. They provide t
 
 This includes:
 
-| Type | Meaning |
-| --- | --- |
-| Barren and waste land | Land that cannot be cultivated easily. |
+| Type                              | Meaning                                                                                      |
+| --------------------------------- | -------------------------------------------------------------------------------------------- |
+| Barren and waste land             | Land that cannot be cultivated easily.                                                       |
 | Land put to non-agricultural uses | Land used for buildings, roads, railways, factories, canals, and other non-farming purposes. |
 
 ## 3. Other Uncultivated Land Excluding Fallow Land
 
 This includes:
 
-| Type | Meaning |
-| --- | --- |
-| Permanent pastures and grazing land | Land used for grazing animals. |
-| Land under miscellaneous tree crops and groves | Land under trees not counted in net sown area. |
-| Culturable waste land | Land left uncultivated for more than five agricultural years, though it can be improved and cultivated. |
+| Type                                           | Meaning                                                                                                 |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| Permanent pastures and grazing land            | Land used for grazing animals.                                                                          |
+| Land under miscellaneous tree crops and groves | Land under trees not counted in net sown area.                                                          |
+| Culturable waste land                          | Land left uncultivated for more than five agricultural years, though it can be improved and cultivated. |
 
 ## 4. Fallow Land
 
-| Type | Meaning |
-| --- | --- |
-| Current fallow | Land left without cultivation for one agricultural year or less. |
-| Other than current fallow | Land left uncultivated for one to five agricultural years. |
+| Type                      | Meaning                                                          |
+| ------------------------- | ---------------------------------------------------------------- |
+| Current fallow            | Land left without cultivation for one agricultural year or less. |
+| Other than current fallow | Land left uncultivated for one to five agricultural years.       |
 
 ## 5. Net Sown Area
 
@@ -585,30 +586,30 @@ For example, if a field grows wheat in winter and rice in the monsoon, the same 
 
 Land use is determined by both physical and human factors.
 
-| Physical Factors | Human Factors |
-| --- | --- |
-| Topography | Population density |
-| Climate | Technology |
-| Soil type | Culture and traditions |
-| Availability of water | Economic needs |
-| Relief | Infrastructure and institutions |
+| Physical Factors      | Human Factors                   |
+| --------------------- | ------------------------------- |
+| Topography            | Population density              |
+| Climate               | Technology                      |
+| Soil type             | Culture and traditions          |
+| Availability of water | Economic needs                  |
+| Relief                | Infrastructure and institutions |
 
 ## Important Data
 
-| Fact | Detail |
-| --- | --- |
-| Total geographical area of India | About 3.28 million square kilometres |
-| Land use data availability | Available for about 93 percent of the total area |
-| Desired forest area | About 33 percent of total geographical area |
-| Actual concern | Forest area is lower than the desired level |
+| Fact                             | Detail                                           |
+| -------------------------------- | ------------------------------------------------ |
+| Total geographical area of India | About 3.28 million square kilometres             |
+| Land use data availability       | Available for about 93 percent of the total area |
+| Desired forest area              | About 33 percent of total geographical area      |
+| Actual concern                   | Forest area is lower than the desired level      |
 
 ## Variation in Net Sown Area
 
 Net sown area varies greatly from state to state.
 
-| Region | Net Sown Area Pattern |
-| --- | --- |
-| Punjab and Haryana | More than 80 percent of land is under cultivation |
+| Region                                                           | Net Sown Area Pattern                             |
+| ---------------------------------------------------------------- | ------------------------------------------------- |
+| Punjab and Haryana                                               | More than 80 percent of land is under cultivation |
 | Arunachal Pradesh, Mizoram, Manipur, Andaman and Nicobar Islands | Less than 10 percent of land is under cultivation |
 
 ## Why Forest Area Has Not Increased Much
@@ -654,36 +655,36 @@ If fertile land becomes degraded, farmers produce less. If forests are degraded,
 
 ## Major Causes of Land Degradation
 
-| Cause | How It Degrades Land |
-| --- | --- |
-| Deforestation | Removes tree cover, exposes soil, increases erosion, reduces fertility. |
-| Overgrazing | Animals remove vegetation faster than it can regrow, leaving soil exposed. |
-| Mining and quarrying | Leave deep scars, pits, waste heaps, and dust pollution. |
-| Over-irrigation | Causes waterlogging and increases salinity and alkalinity in soil. |
-| Industrial effluents | Pollute land with chemicals and waste. |
-| Mineral processing | Produces dust and waste that degrade surrounding land. |
+| Cause                | How It Degrades Land                                                       |
+| -------------------- | -------------------------------------------------------------------------- |
+| Deforestation        | Removes tree cover, exposes soil, increases erosion, reduces fertility.    |
+| Overgrazing          | Animals remove vegetation faster than it can regrow, leaving soil exposed. |
+| Mining and quarrying | Leave deep scars, pits, waste heaps, and dust pollution.                   |
+| Over-irrigation      | Causes waterlogging and increases salinity and alkalinity in soil.         |
+| Industrial effluents | Pollute land with chemicals and waste.                                     |
+| Mineral processing   | Produces dust and waste that degrade surrounding land.                     |
 
 ## Regional Examples
 
-| Region | Major Cause |
-| --- | --- |
-| Jharkhand, Chhattisgarh, Madhya Pradesh, Odisha | Mining and deforestation |
-| Gujarat, Rajasthan, Madhya Pradesh, Maharashtra | Overgrazing |
-| Punjab, Haryana, western Uttar Pradesh | Over-irrigation causing waterlogging, salinity, and alkalinity |
-| Industrial regions | Effluents and industrial waste |
+| Region                                          | Major Cause                                                    |
+| ----------------------------------------------- | -------------------------------------------------------------- |
+| Jharkhand, Chhattisgarh, Madhya Pradesh, Odisha | Mining and deforestation                                       |
+| Gujarat, Rajasthan, Madhya Pradesh, Maharashtra | Overgrazing                                                    |
+| Punjab, Haryana, western Uttar Pradesh          | Over-irrigation causing waterlogging, salinity, and alkalinity |
+| Industrial regions                              | Effluents and industrial waste                                 |
 
 ## Measures to Control Land Degradation
 
-| Measure | How It Helps |
-| --- | --- |
-| Afforestation | Restores vegetation and protects soil. |
-| Proper management of grazing | Prevents overuse of grasslands. |
-| Planting shelter belts | Reduces wind erosion. |
-| Stabilising sand dunes with thorny bushes | Controls desert expansion and wind erosion. |
-| Proper management of wasteland | Brings degraded land back into productive use. |
-| Control of mining activities | Reduces pits, scars, dumping, and deforestation. |
-| Treatment of industrial effluents | Prevents chemical pollution of land and water. |
-| Proper disposal of industrial waste | Reduces contamination and land damage. |
+| Measure                                   | How It Helps                                     |
+| ----------------------------------------- | ------------------------------------------------ |
+| Afforestation                             | Restores vegetation and protects soil.           |
+| Proper management of grazing              | Prevents overuse of grasslands.                  |
+| Planting shelter belts                    | Reduces wind erosion.                            |
+| Stabilising sand dunes with thorny bushes | Controls desert expansion and wind erosion.      |
+| Proper management of wasteland            | Brings degraded land back into productive use.   |
+| Control of mining activities              | Reduces pits, scars, dumping, and deforestation. |
+| Treatment of industrial effluents         | Prevents chemical pollution of land and water.   |
+| Proper disposal of industrial waste       | Reduces contamination and land damage.           |
 
 ## Answer Frame: Land Degradation
 
@@ -712,14 +713,14 @@ Soil formation is a slow process. It may take millions of years to form a few ce
 
 ## Factors of Soil Formation
 
-| Factor | Role in Soil Formation |
-| --- | --- |
-| Parent rock | Provides the basic mineral material. |
-| Relief | Affects drainage, erosion, and depth of soil. |
-| Climate | Temperature and rainfall affect weathering and organic activity. |
-| Vegetation | Adds organic matter and protects soil. |
-| Other life forms | Microorganisms and animals help decompose organic matter. |
-| Time | Longer time allows deeper and more mature soil to develop. |
+| Factor           | Role in Soil Formation                                           |
+| ---------------- | ---------------------------------------------------------------- |
+| Parent rock      | Provides the basic mineral material.                             |
+| Relief           | Affects drainage, erosion, and depth of soil.                    |
+| Climate          | Temperature and rainfall affect weathering and organic activity. |
+| Vegetation       | Adds organic matter and protects soil.                           |
+| Other life forms | Microorganisms and animals help decompose organic matter.        |
+| Time             | Longer time allows deeper and more mature soil to develop.       |
 
 ## Natural Agents Involved
 
@@ -793,10 +794,10 @@ In upper river valleys near the foothills, the soil is often coarser. In lower p
 
 ## Bangar and Khadar
 
-| Type | Meaning | Fertility |
-| --- | --- | --- |
+| Type   | Meaning                                                                         | Fertility                             |
+| ------ | ------------------------------------------------------------------------------- | ------------------------------------- |
 | Bangar | Older alluvial soil, found above flood plains, often containing kankar nodules. | Fertile but less fertile than khadar. |
-| Khadar | Newer alluvial soil, renewed by floods. | More fertile than bangar. |
+| Khadar | Newer alluvial soil, renewed by floods.                                         | More fertile than bangar.             |
 
 ## Nutrient Quality
 
@@ -849,13 +850,13 @@ Black soil is formed from basaltic rocks of the Deccan Trap region.
 
 ## Characteristics
 
-| Feature | Explanation |
-| --- | --- |
-| Colour | Black, due to parent rock and mineral composition. |
-| Texture | Clayey. |
-| Moisture | Holds moisture for a long time. |
-| Cracks | Develops deep cracks in hot weather, which helps aeration. |
-| Wet condition | Becomes sticky when wet and difficult to work. |
+| Feature       | Explanation                                                |
+| ------------- | ---------------------------------------------------------- |
+| Colour        | Black, due to parent rock and mineral composition.         |
+| Texture       | Clayey.                                                    |
+| Moisture      | Holds moisture for a long time.                            |
+| Cracks        | Develops deep cracks in hot weather, which helps aeration. |
+| Wet condition | Becomes sticky when wet and difficult to work.             |
 
 ## Nutrient Quality
 
@@ -904,10 +905,10 @@ These soils develop on crystalline igneous rocks in areas of low rainfall.
 
 ## Colour
 
-| Colour | Reason |
-| --- | --- |
-| Red | Diffusion of iron in crystalline and metamorphic rocks. |
-| Yellow | Hydration of iron compounds. |
+| Colour | Reason                                                  |
+| ------ | ------------------------------------------------------- |
+| Red    | Diffusion of iron in crystalline and metamorphic rocks. |
+| Yellow | Hydration of iron compounds.                            |
 
 ## Important Point
 
@@ -934,12 +935,12 @@ Heavy rainfall washes away soluble nutrients, leaving behind less fertile materi
 
 ## Characteristics
 
-| Feature | Explanation |
-| --- | --- |
-| Leached | Nutrients are washed away by heavy rain. |
-| Acidic | Generally acidic, often with pH below 6. |
-| Nutrient deficient | Poor in plant nutrients unless managed carefully. |
-| Variable humus | More humus under forests, less humus under sparse vegetation. |
+| Feature            | Explanation                                                   |
+| ------------------ | ------------------------------------------------------------- |
+| Leached            | Nutrients are washed away by heavy rain.                      |
+| Acidic             | Generally acidic, often with pH below 6.                      |
+| Nutrient deficient | Poor in plant nutrients unless managed carefully.             |
+| Variable humus     | More humus under forests, less humus under sparse vegetation. |
 
 ## Distribution
 
@@ -971,14 +972,14 @@ Arid soil is mainly found in dry regions, especially western Rajasthan.
 
 ## Characteristics
 
-| Feature | Explanation |
-| --- | --- |
-| Colour | Ranges from red to brown. |
-| Texture | Sandy. |
-| Salt content | Often saline because of high evaporation. |
-| Humus | Low, due to dry climate and limited vegetation. |
-| Moisture | Low moisture content. |
-| Kankar layer | Kankar nodules may form in lower horizons. |
+| Feature      | Explanation                                     |
+| ------------ | ----------------------------------------------- |
+| Colour       | Ranges from red to brown.                       |
+| Texture      | Sandy.                                          |
+| Salt content | Often saline because of high evaporation.       |
+| Humus        | Low, due to dry climate and limited vegetation. |
+| Moisture     | Low moisture content.                           |
+| Kankar layer | Kankar nodules may form in lower horizons.      |
 
 ## Cultivation
 
@@ -994,12 +995,12 @@ Forest soils are found in hilly and mountainous regions where sufficient forest 
 
 ## Texture Variation
 
-| Location | Soil Texture |
-| --- | --- |
-| Valley sides | Loamy and silty |
-| Upper slopes | Coarse-grained |
-| Snow-covered Himalayan areas | Acidic, low in humus |
-| Lower valleys and river terraces | More fertile |
+| Location                         | Soil Texture         |
+| -------------------------------- | -------------------- |
+| Valley sides                     | Loamy and silty      |
+| Upper slopes                     | Coarse-grained       |
+| Snow-covered Himalayan areas     | Acidic, low in humus |
+| Lower valleys and river terraces | More fertile         |
 
 ## Important Point
 
@@ -1017,16 +1018,16 @@ Topsoil is the most fertile layer. When it is removed, land becomes less product
 
 ## Causes of Soil Erosion
 
-| Cause | How It Causes Erosion |
-| --- | --- |
-| Deforestation | Removes roots that bind soil. |
-| Overgrazing | Removes grass cover and exposes soil. |
-| Construction | Disturbs land surface and increases runoff. |
-| Mining | Removes vegetation and creates loose debris. |
-| Wrong ploughing | Allows water to flow quickly down slopes. |
-| Wind | Blows away dry, loose soil. |
-| Running water | Washes away topsoil. |
-| Glaciers | Scrape and transport soil and rock material. |
+| Cause           | How It Causes Erosion                        |
+| --------------- | -------------------------------------------- |
+| Deforestation   | Removes roots that bind soil.                |
+| Overgrazing     | Removes grass cover and exposes soil.        |
+| Construction    | Disturbs land surface and increases runoff.  |
+| Mining          | Removes vegetation and creates loose debris. |
+| Wrong ploughing | Allows water to flow quickly down slopes.    |
+| Wind            | Blows away dry, loose soil.                  |
+| Running water   | Washes away topsoil.                         |
+| Glaciers        | Scrape and transport soil and rock material. |
 
 ## Gully Erosion
 
@@ -1050,15 +1051,15 @@ Wind erosion occurs in dry and sandy regions where vegetation cover is weak. Str
 
 ## Methods of Soil Conservation
 
-| Method | Best Used In | How It Works |
-| --- | --- | --- |
-| Contour ploughing | Sloping land | Ploughing along contour lines slows water flow. |
-| Terrace cultivation | Hilly areas | Steps cut into slopes reduce runoff and erosion. |
-| Strip cropping | Large fields exposed to wind | Strips of grass between crops reduce wind force. |
-| Shelter belts | Dry and sandy areas | Rows of trees reduce wind speed. |
-| Afforestation | Degraded land | Tree roots bind soil and reduce runoff. |
-| Controlled grazing | Grasslands | Prevents removal of protective vegetation. |
-| Stabilising sand dunes | Desert margins | Thorny bushes and grasses hold sand in place. |
+| Method                 | Best Used In                 | How It Works                                     |
+| ---------------------- | ---------------------------- | ------------------------------------------------ |
+| Contour ploughing      | Sloping land                 | Ploughing along contour lines slows water flow.  |
+| Terrace cultivation    | Hilly areas                  | Steps cut into slopes reduce runoff and erosion. |
+| Strip cropping         | Large fields exposed to wind | Strips of grass between crops reduce wind force. |
+| Shelter belts          | Dry and sandy areas          | Rows of trees reduce wind speed.                 |
+| Afforestation          | Degraded land                | Tree roots bind soil and reduce runoff.          |
+| Controlled grazing     | Grasslands                   | Prevents removal of protective vegetation.       |
+| Stabilising sand dunes | Desert margins               | Thorny bushes and grasses hold sand in place.    |
 
 ## Contour Ploughing
 
@@ -1088,20 +1089,20 @@ In Sukhomajri, tree density increased from 13 trees per hectare in 1976 to 1,272
 
 ## Regions to Remember
 
-| Topic | Regions |
-| --- | --- |
-| Mineral and coal richness | Jharkhand, Chhattisgarh, Madhya Pradesh |
-| Water resources but less infrastructure | Arunachal Pradesh |
-| Wind and solar potential | Rajasthan and Gujarat |
-| Cultural heritage but lack of water and infrastructure | Ladakh |
-| Black soil | Maharashtra, Madhya Pradesh, Gujarat, Chhattisgarh, Saurashtra, Malwa, Godavari-Krishna valleys |
-| Alluvial soil | Northern plains, river valleys, eastern coastal deltas |
-| Arid soil | Western Rajasthan |
-| Laterite soil | Western Ghats, Odisha, West Bengal, north-east, southern states |
-| Mining-related degradation | Jharkhand, Chhattisgarh, Madhya Pradesh, Odisha |
-| Overgrazing | Gujarat, Rajasthan, Madhya Pradesh, Maharashtra |
-| Over-irrigation | Punjab, Haryana, western Uttar Pradesh |
-| Chambal ravines | Chambal basin |
+| Topic                                                  | Regions                                                                                         |
+| ------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
+| Mineral and coal richness                              | Jharkhand, Chhattisgarh, Madhya Pradesh                                                         |
+| Water resources but less infrastructure                | Arunachal Pradesh                                                                               |
+| Wind and solar potential                               | Rajasthan and Gujarat                                                                           |
+| Cultural heritage but lack of water and infrastructure | Ladakh                                                                                          |
+| Black soil                                             | Maharashtra, Madhya Pradesh, Gujarat, Chhattisgarh, Saurashtra, Malwa, Godavari-Krishna valleys |
+| Alluvial soil                                          | Northern plains, river valleys, eastern coastal deltas                                          |
+| Arid soil                                              | Western Rajasthan                                                                               |
+| Laterite soil                                          | Western Ghats, Odisha, West Bengal, north-east, southern states                                 |
+| Mining-related degradation                             | Jharkhand, Chhattisgarh, Madhya Pradesh, Odisha                                                 |
+| Overgrazing                                            | Gujarat, Rajasthan, Madhya Pradesh, Maharashtra                                                 |
+| Over-irrigation                                        | Punjab, Haryana, western Uttar Pradesh                                                          |
+| Chambal ravines                                        | Chambal basin                                                                                   |
 
 ## How to Study the Map
 
@@ -1118,38 +1119,38 @@ In Sukhomajri, tree density increased from 13 trees per hectare in 1976 to 1,272
 
 ## Renewable and Non-Renewable Resources
 
-| Point | Renewable Resources | Non-Renewable Resources |
-| --- | --- | --- |
-| Formation | Replenished naturally or through physical, chemical, or mechanical processes. | Form over a very long geological period. |
-| Exhaustion | Can be renewed if managed carefully. | Can be exhausted after use. |
-| Examples | Solar, wind, water, forests, wildlife. | Coal, petroleum, natural gas, minerals. |
-| Risk | Overuse can still damage them. | Once exhausted, they cannot be replaced quickly. |
+| Point      | Renewable Resources                                                           | Non-Renewable Resources                          |
+| ---------- | ----------------------------------------------------------------------------- | ------------------------------------------------ |
+| Formation  | Replenished naturally or through physical, chemical, or mechanical processes. | Form over a very long geological period.         |
+| Exhaustion | Can be renewed if managed carefully.                                          | Can be exhausted after use.                      |
+| Examples   | Solar, wind, water, forests, wildlife.                                        | Coal, petroleum, natural gas, minerals.          |
+| Risk       | Overuse can still damage them.                                                | Once exhausted, they cannot be replaced quickly. |
 
 ## Bangar and Khadar
 
-| Point | Bangar | Khadar |
-| --- | --- | --- |
-| Age | Older alluvium | Newer alluvium |
-| Location | Above flood plains | Flood plains |
+| Point       | Bangar                  | Khadar                  |
+| ----------- | ----------------------- | ----------------------- |
+| Age         | Older alluvium          | Newer alluvium          |
+| Location    | Above flood plains      | Flood plains            |
 | Composition | Contains kankar nodules | Finer and renewed often |
-| Fertility | Fertile | More fertile |
+| Fertility   | Fertile                 | More fertile            |
 
 ## Stock and Reserves
 
-| Point | Stock | Reserves |
-| --- | --- | --- |
-| Use now | Cannot be used due to lack of technology. | Can be used with present technology. |
-| Future role | May become useful with future technology. | Saved for future use. |
-| Example | Energy potential of water if technology is unavailable. | Water stored in dams. |
+| Point       | Stock                                                   | Reserves                             |
+| ----------- | ------------------------------------------------------- | ------------------------------------ |
+| Use now     | Cannot be used due to lack of technology.               | Can be used with present technology. |
+| Future role | May become useful with future technology.               | Saved for future use.                |
+| Example     | Energy potential of water if technology is unavailable. | Water stored in dams.                |
 
 ## Land Degradation and Soil Erosion
 
-| Point | Land Degradation | Soil Erosion |
-| --- | --- | --- |
-| Meaning | Decline in quality and productivity of land. | Removal of topsoil. |
-| Scope | Broader problem. | One important form of land degradation. |
-| Causes | Mining, overgrazing, deforestation, over-irrigation, industrial waste. | Water, wind, deforestation, overgrazing, wrong ploughing. |
-| Result | Land becomes less useful. | Soil fertility declines. |
+| Point   | Land Degradation                                                       | Soil Erosion                                              |
+| ------- | ---------------------------------------------------------------------- | --------------------------------------------------------- |
+| Meaning | Decline in quality and productivity of land.                           | Removal of topsoil.                                       |
+| Scope   | Broader problem.                                                       | One important form of land degradation.                   |
+| Causes  | Mining, overgrazing, deforestation, over-irrigation, industrial waste. | Water, wind, deforestation, overgrazing, wrong ploughing. |
+| Result  | Land becomes less useful.                                              | Soil fertility declines.                                  |
 
 ---
 
@@ -1291,16 +1292,16 @@ Use when the question asks for measures.
 
 # Common Mistakes to Avoid
 
-| Mistake | Correct Understanding |
-| --- | --- |
-| Writing that resources are only natural things. | Resources can be natural, human-made, or human, but this chapter focuses on how things become useful through humans and technology. |
-| Confusing renewable with unlimited. | Renewable resources can also be damaged by overuse. |
-| Confusing stock and reserves. | Stock cannot be used with present technology; reserves can be used but are saved for future. |
-| Writing that black soil is found only in Maharashtra. | Maharashtra is important, but black soil is also found in parts of Gujarat, Madhya Pradesh, Chhattisgarh, Saurashtra, Malwa, and river valleys of Godavari and Krishna. |
-| Calling bangar more fertile than khadar. | Khadar is newer and generally more fertile. |
-| Treating soil erosion and land degradation as the same. | Soil erosion is one form of land degradation. |
-| Ignoring regional examples. | Geography answers become stronger with examples from states and regions. |
-| Writing only environmental points for sustainable development. | Sustainable development also includes social and economic fairness. |
+| Mistake                                                        | Correct Understanding                                                                                                                                                   |
+| -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Writing that resources are only natural things.                | Resources can be natural, human-made, or human, but this chapter focuses on how things become useful through humans and technology.                                     |
+| Confusing renewable with unlimited.                            | Renewable resources can also be damaged by overuse.                                                                                                                     |
+| Confusing stock and reserves.                                  | Stock cannot be used with present technology; reserves can be used but are saved for future.                                                                            |
+| Writing that black soil is found only in Maharashtra.          | Maharashtra is important, but black soil is also found in parts of Gujarat, Madhya Pradesh, Chhattisgarh, Saurashtra, Malwa, and river valleys of Godavari and Krishna. |
+| Calling bangar more fertile than khadar.                       | Khadar is newer and generally more fertile.                                                                                                                             |
+| Treating soil erosion and land degradation as the same.        | Soil erosion is one form of land degradation.                                                                                                                           |
+| Ignoring regional examples.                                    | Geography answers become stronger with examples from states and regions.                                                                                                |
+| Writing only environmental points for sustainable development. | Sustainable development also includes social and economic fairness.                                                                                                     |
 
 ---
 
@@ -1308,42 +1309,42 @@ Use when the question asks for measures.
 
 ## Resource Classification
 
-| Basis | Types |
-| --- | --- |
-| Origin | Biotic, abiotic |
-| Exhaustibility | Renewable, non-renewable |
-| Ownership | Individual, community-owned, national, international |
-| Status of development | Potential, developed, stock, reserves |
+| Basis                 | Types                                                |
+| --------------------- | ---------------------------------------------------- |
+| Origin                | Biotic, abiotic                                      |
+| Exhaustibility        | Renewable, non-renewable                             |
+| Ownership             | Individual, community-owned, national, international |
+| Status of development | Potential, developed, stock, reserves                |
 
 ## Soil Types and Main Features
 
-| Soil | Main Region | Key Feature | Important Crops |
-| --- | --- | --- | --- |
-| Alluvial | Northern plains, deltas | Very fertile, river deposited | Paddy, wheat, sugarcane, pulses |
-| Black | Deccan Trap | Moisture-retentive, clayey | Cotton |
-| Red and Yellow | Eastern and southern Deccan | Iron gives colour | Millets, pulses, crops with support |
-| Laterite | Western Ghats, Odisha, NE, southern states | Leached, acidic | Tea, coffee, cashew with management |
-| Arid | Western Rajasthan | Sandy, saline, low humus | Cultivable with irrigation |
-| Forest | Mountains | Varies with slope and altitude | Forest produce, terrace crops in valleys |
+| Soil           | Main Region                                | Key Feature                    | Important Crops                          |
+| -------------- | ------------------------------------------ | ------------------------------ | ---------------------------------------- |
+| Alluvial       | Northern plains, deltas                    | Very fertile, river deposited  | Paddy, wheat, sugarcane, pulses          |
+| Black          | Deccan Trap                                | Moisture-retentive, clayey     | Cotton                                   |
+| Red and Yellow | Eastern and southern Deccan                | Iron gives colour              | Millets, pulses, crops with support      |
+| Laterite       | Western Ghats, Odisha, NE, southern states | Leached, acidic                | Tea, coffee, cashew with management      |
+| Arid           | Western Rajasthan                          | Sandy, saline, low humus       | Cultivable with irrigation               |
+| Forest         | Mountains                                  | Varies with slope and altitude | Forest produce, terrace crops in valleys |
 
 ## Land Degradation Causes by Region
 
-| Region | Cause |
-| --- | --- |
+| Region                                          | Cause                    |
+| ----------------------------------------------- | ------------------------ |
 | Jharkhand, Chhattisgarh, Madhya Pradesh, Odisha | Mining and deforestation |
-| Gujarat, Rajasthan, Madhya Pradesh, Maharashtra | Overgrazing |
-| Punjab, Haryana, western Uttar Pradesh | Over-irrigation |
+| Gujarat, Rajasthan, Madhya Pradesh, Maharashtra | Overgrazing              |
+| Punjab, Haryana, western Uttar Pradesh          | Over-irrigation          |
 
 ## Soil Conservation Methods
 
-| Method | Purpose |
-| --- | --- |
-| Contour ploughing | Reduces water flow on slopes |
-| Terrace cultivation | Controls erosion in hilly areas |
-| Strip cropping | Reduces wind erosion |
-| Shelter belts | Protects soil from strong winds |
-| Afforestation | Binds soil and restores vegetation |
-| Controlled grazing | Protects grass cover |
+| Method              | Purpose                            |
+| ------------------- | ---------------------------------- |
+| Contour ploughing   | Reduces water flow on slopes       |
+| Terrace cultivation | Controls erosion in hilly areas    |
+| Strip cropping      | Reduces wind erosion               |
+| Shelter belts       | Protects soil from strong winds    |
+| Afforestation       | Binds soil and restores vegetation |
+| Controlled grazing  | Protects grass cover               |
 
 ---
 

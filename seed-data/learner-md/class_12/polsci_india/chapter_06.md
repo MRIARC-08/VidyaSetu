@@ -30,23 +30,23 @@ Read this chapter through one central question: how can a democratic Constitutio
 
 ## Key Terms
 
-| Term | Meaning | Why it matters |
-|---|---|---|
-| Emergency | Extraordinary constitutional situation giving the Union government special powers | Central event of the chapter |
-| Internal disturbance | Ground used in 1975 to declare Emergency | Later replaced for internal Emergency by armed rebellion |
-| Article 352 | Constitutional provision for proclamation of Emergency | Used in 1975 |
-| Civil liberties | Basic freedoms of citizens | Suspended or restricted during Emergency |
-| Press censorship | Prior government approval of news and opinion | Major effect of Emergency |
-| Preventive detention | Arresting people to prevent possible future acts | Used widely during Emergency |
-| Habeas corpus | Legal remedy asking court to examine detention | Severely weakened during Emergency |
-| Total Revolution | JP's call for transformation of social, economic, and political life | Mobilised opposition |
-| Naxalite movement | Armed Marxist-Leninist movement against the state | Part of background unrest |
-| Committed judiciary | Idea that judiciary should align with government's social vision | Raised concerns about independence of institutions |
-| Basic structure | Doctrine that Parliament cannot alter basic features of Constitution | Emerged from Kesavananda Bharati case |
-| 42nd Amendment | Major constitutional amendment passed during Emergency | Expanded central power and changed many provisions |
-| Shah Commission | Commission appointed by Janata government to inquire into Emergency excesses | Documented misuse of authority |
-| Janata Party | Opposition party formed before 1977 election | Defeated Congress nationally |
-| Congress for Democracy | Party formed by Jagjivan Ram and others before 1977 election | Later merged with Janata Party |
+| Term                   | Meaning                                                                           | Why it matters                                           |
+| ---------------------- | --------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| Emergency              | Extraordinary constitutional situation giving the Union government special powers | Central event of the chapter                             |
+| Internal disturbance   | Ground used in 1975 to declare Emergency                                          | Later replaced for internal Emergency by armed rebellion |
+| Article 352            | Constitutional provision for proclamation of Emergency                            | Used in 1975                                             |
+| Civil liberties        | Basic freedoms of citizens                                                        | Suspended or restricted during Emergency                 |
+| Press censorship       | Prior government approval of news and opinion                                     | Major effect of Emergency                                |
+| Preventive detention   | Arresting people to prevent possible future acts                                  | Used widely during Emergency                             |
+| Habeas corpus          | Legal remedy asking court to examine detention                                    | Severely weakened during Emergency                       |
+| Total Revolution       | JP's call for transformation of social, economic, and political life              | Mobilised opposition                                     |
+| Naxalite movement      | Armed Marxist-Leninist movement against the state                                 | Part of background unrest                                |
+| Committed judiciary    | Idea that judiciary should align with government's social vision                  | Raised concerns about independence of institutions       |
+| Basic structure        | Doctrine that Parliament cannot alter basic features of Constitution              | Emerged from Kesavananda Bharati case                    |
+| 42nd Amendment         | Major constitutional amendment passed during Emergency                            | Expanded central power and changed many provisions       |
+| Shah Commission        | Commission appointed by Janata government to inquire into Emergency excesses      | Documented misuse of authority                           |
+| Janata Party           | Opposition party formed before 1977 election                                      | Defeated Congress nationally                             |
+| Congress for Democracy | Party formed by Jagjivan Ram and others before 1977 election                      | Later merged with Janata Party                           |
 
 ## 1. The Chapter In One Sentence
 
@@ -717,57 +717,57 @@ The experience made citizens more aware of the importance of rights.
 
 ## 61. Common Misunderstandings
 
-| Misunderstanding | Correct understanding |
-|---|---|
-| Emergency was declared only because of economic crisis | Government cited internal disturbance; economic crisis formed background |
-| Emergency was a normal war-time measure | It was imposed during internal political crisis |
-| All Fundamental Rights worked normally | Rights were suspended or restricted |
-| Courts fully protected citizens during Emergency | The Supreme Court accepted the government's position on detention |
-| 1977 election was only about party change | It was widely seen as a referendum on Emergency |
-| Congress lost everywhere in 1977 | It lost heavily in north India but retained strength in south and some western states |
-| Janata failed because voters wanted Emergency back | Janata failed mainly because of instability and internal conflict |
+| Misunderstanding                                       | Correct understanding                                                                 |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------- |
+| Emergency was declared only because of economic crisis | Government cited internal disturbance; economic crisis formed background              |
+| Emergency was a normal war-time measure                | It was imposed during internal political crisis                                       |
+| All Fundamental Rights worked normally                 | Rights were suspended or restricted                                                   |
+| Courts fully protected citizens during Emergency       | The Supreme Court accepted the government's position on detention                     |
+| 1977 election was only about party change              | It was widely seen as a referendum on Emergency                                       |
+| Congress lost everywhere in 1977                       | It lost heavily in north India but retained strength in south and some western states |
+| Janata failed because voters wanted Emergency back     | Janata failed mainly because of instability and internal conflict                     |
 
 ## 62. Timeline
 
-| Year or date | Event |
-|---|---|
-| 1971 | Congress won election with Garibi Hatao slogan |
-| 1972-1973 | Monsoon failure and agricultural decline |
-| 1973 | Prices rose by about 23 percent |
-| 1973 | Justice A. N. Ray appointed Chief Justice after supersession |
-| January 1974 | Gujarat student agitation began |
-| March 1974 | Bihar student movement began |
-| May 1974 | Railway strike led by George Fernandes |
-| 1974 | Prices rose by about 30 percent |
+| Year or date | Event                                                          |
+| ------------ | -------------------------------------------------------------- |
+| 1971         | Congress won election with Garibi Hatao slogan                 |
+| 1972-1973    | Monsoon failure and agricultural decline                       |
+| 1973         | Prices rose by about 23 percent                                |
+| 1973         | Justice A. N. Ray appointed Chief Justice after supersession   |
+| January 1974 | Gujarat student agitation began                                |
+| March 1974   | Bihar student movement began                                   |
+| May 1974     | Railway strike led by George Fernandes                         |
+| 1974         | Prices rose by about 30 percent                                |
 | 12 June 1975 | Allahabad High Court declared Indira Gandhi's election invalid |
-| 24 June 1975 | Supreme Court granted partial stay |
-| 25 June 1975 | JP rally at Ramlila grounds |
-| 25 June 1975 | Emergency proclaimed under Article 352 |
-| 26 June 1975 | Cabinet informed after early arrests and censorship steps |
-| April 1976 | Supreme Court accepted government's position on detention |
-| 1976 | 42nd Amendment passed |
-| January 1977 | Elections announced; leaders released |
-| March 1977 | Janata Party defeated Congress |
-| January 1980 | Congress returned to power |
+| 24 June 1975 | Supreme Court granted partial stay                             |
+| 25 June 1975 | JP rally at Ramlila grounds                                    |
+| 25 June 1975 | Emergency proclaimed under Article 352                         |
+| 26 June 1975 | Cabinet informed after early arrests and censorship steps      |
+| April 1976   | Supreme Court accepted government's position on detention      |
+| 1976         | 42nd Amendment passed                                          |
+| January 1977 | Elections announced; leaders released                          |
+| March 1977   | Janata Party defeated Congress                                 |
+| January 1980 | Congress returned to power                                     |
 
 ## 63. Matching Practice
 
-| Item | Match |
-|---|---|
-| Total Revolution | Jayaprakash Narayan |
-| Garibi Hatao | Indira Gandhi |
-| Students' protest | Bihar movement |
-| Railway strike | George Fernandes |
+| Item              | Match               |
+| ----------------- | ------------------- |
+| Total Revolution  | Jayaprakash Narayan |
+| Garibi Hatao      | Indira Gandhi       |
+| Students' protest | Bihar movement      |
+| Railway strike    | George Fernandes    |
 
 ## 64. Correct Or Incorrect Practice
 
-| Statement | Answer | Explanation |
-|---|---|---|
-| Emergency was declared in 1975 by Indira Gandhi's government | Correct | It was proclaimed on 25 June 1975 |
-| It led to suspension or restriction of Fundamental Rights | Correct | Rights and court remedies were curtailed |
+| Statement                                                       | Answer    | Explanation                                |
+| --------------------------------------------------------------- | --------- | ------------------------------------------ |
+| Emergency was declared in 1975 by Indira Gandhi's government    | Correct   | It was proclaimed on 25 June 1975          |
+| It led to suspension or restriction of Fundamental Rights       | Correct   | Rights and court remedies were curtailed   |
 | It was proclaimed only due to deteriorating economic conditions | Incorrect | The formal ground was internal disturbance |
-| Many opposition leaders were arrested | Correct | Large-scale arrests took place |
-| CPI supported the proclamation of Emergency | Correct | CPI supported the Emergency |
+| Many opposition leaders were arrested                           | Correct   | Large-scale arrests took place             |
+| CPI supported the proclamation of Emergency                     | Correct   | CPI supported the Emergency                |
 
 ## 65. Odd One Out Practice
 

@@ -1,20 +1,21 @@
 # Chapter 5: Popular Struggles and Movements
+
 ### NCERT Class 10 - Social Civics
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-| --- | --- |
-| Class | 10 |
-| Subject | Social Civics |
-| Chapter | 5 - Popular Struggles and Movements |
-| Central Question | How do ordinary citizens, pressure groups, and movements influence power in a democracy without directly forming government? |
-| Main Case Studies | Nepal's democracy movement, Bolivia's Water War |
-| Main Themes | Popular struggles, mass mobilisation, pressure groups, interest groups, sectional groups, public interest groups, movements, political parties |
-| Main Skills | Comparing movements, classifying organisations, explaining influence on democracy, evaluating pressure politics |
-| Exam Importance | High: Nepal, Bolivia, pressure groups, movements, sectional vs public interest groups, relation with political parties |
+| Detail            | Learner-Friendly Information                                                                                                                   |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Class             | 10                                                                                                                                             |
+| Subject           | Social Civics                                                                                                                                  |
+| Chapter           | 5 - Popular Struggles and Movements                                                                                                            |
+| Central Question  | How do ordinary citizens, pressure groups, and movements influence power in a democracy without directly forming government?                   |
+| Main Case Studies | Nepal's democracy movement, Bolivia's Water War                                                                                                |
+| Main Themes       | Popular struggles, mass mobilisation, pressure groups, interest groups, sectional groups, public interest groups, movements, political parties |
+| Main Skills       | Comparing movements, classifying organisations, explaining influence on democracy, evaluating pressure politics                                |
+| Exam Importance   | High: Nepal, Bolivia, pressure groups, movements, sectional vs public interest groups, relation with political parties                         |
 
 ---
 
@@ -46,15 +47,15 @@ The key idea is:
 
 After studying this chapter, you should be able to:
 
-| Skill | You Should Be Able To |
-| --- | --- |
-| Define | Explain popular struggle, pressure group, interest group, movement, sectional interest group, public interest group, political party, mass mobilisation. |
-| Describe | Explain the movement for democracy in Nepal and the Water War in Bolivia. |
-| Compare | Distinguish pressure groups, movements, and political parties. |
-| Classify | Identify sectional interest groups, public interest groups, single-issue movements, and long-term movements. |
-| Analyse | Explain how pressure groups and movements influence politics. |
-| Evaluate | Discuss whether pressure groups and movements are healthy for democracy. |
-| Write | Prepare NCERT-style answers with examples. |
+| Skill    | You Should Be Able To                                                                                                                                    |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Define   | Explain popular struggle, pressure group, interest group, movement, sectional interest group, public interest group, political party, mass mobilisation. |
+| Describe | Explain the movement for democracy in Nepal and the Water War in Bolivia.                                                                                |
+| Compare  | Distinguish pressure groups, movements, and political parties.                                                                                           |
+| Classify | Identify sectional interest groups, public interest groups, single-issue movements, and long-term movements.                                             |
+| Analyse  | Explain how pressure groups and movements influence politics.                                                                                            |
+| Evaluate | Discuss whether pressure groups and movements are healthy for democracy.                                                                                 |
+| Write    | Prepare NCERT-style answers with examples.                                                                                                               |
 
 ---
 
@@ -88,24 +89,24 @@ When many groups are active, governments hear different interests and no one gro
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Popular Struggle | Collective action by people to demand rights, resist injustice, or influence government. |
-| Mass Mobilisation | Large-scale participation of people in protest, strike, campaign, or movement. |
-| Pressure Group | Organisation that tries to influence government policy without directly controlling political power. |
-| Interest Group | Group formed by people with common interests, occupation, opinion, or aspiration. |
-| Movement | Collective action around a cause, often with loose organisation and mass participation. |
-| Sectional Interest Group | Group that promotes the interest of a particular section of society. |
-| Public Interest Group | Group that promotes a common or general interest, often helping people beyond its own members. |
-| Promotional Group | Another term for public interest group. |
-| Political Party | Organisation that contests elections and tries to form government. |
-| Maoist | Communist who follows Mao's ideology and seeks armed revolution to establish rule of peasants and workers. |
-| SPA | Seven Party Alliance in Nepal that led the 2006 democracy movement. |
-| FEDECOR | Bolivian organisation that led the protest against water privatisation in Cochabamba. |
-| MNC | Multinational company operating in more than one country. |
-| RTI | Right to Information; law allowing citizens to seek information from government offices. |
-| Lobbyist | Professional hired to influence government decisions. |
-| NAPM | National Alliance for Peoples' Movements, a loose umbrella organisation of people's movements in India. |
+| Term                     | Meaning                                                                                                    |
+| ------------------------ | ---------------------------------------------------------------------------------------------------------- |
+| Popular Struggle         | Collective action by people to demand rights, resist injustice, or influence government.                   |
+| Mass Mobilisation        | Large-scale participation of people in protest, strike, campaign, or movement.                             |
+| Pressure Group           | Organisation that tries to influence government policy without directly controlling political power.       |
+| Interest Group           | Group formed by people with common interests, occupation, opinion, or aspiration.                          |
+| Movement                 | Collective action around a cause, often with loose organisation and mass participation.                    |
+| Sectional Interest Group | Group that promotes the interest of a particular section of society.                                       |
+| Public Interest Group    | Group that promotes a common or general interest, often helping people beyond its own members.             |
+| Promotional Group        | Another term for public interest group.                                                                    |
+| Political Party          | Organisation that contests elections and tries to form government.                                         |
+| Maoist                   | Communist who follows Mao's ideology and seeks armed revolution to establish rule of peasants and workers. |
+| SPA                      | Seven Party Alliance in Nepal that led the 2006 democracy movement.                                        |
+| FEDECOR                  | Bolivian organisation that led the protest against water privatisation in Cochabamba.                      |
+| MNC                      | Multinational company operating in more than one country.                                                  |
+| RTI                      | Right to Information; law allowing citizens to seek information from government offices.                   |
+| Lobbyist                 | Professional hired to influence government decisions.                                                      |
+| NAPM                     | National Alliance for Peoples' Movements, a loose umbrella organisation of people's movements in India.    |
 
 ---
 
@@ -254,14 +255,14 @@ Nepal and Bolivia were different struggles, but both show how democracy is shape
 
 ## Comparison
 
-| Point | Nepal | Bolivia |
-| --- | --- | --- |
-| Main issue | Restoration of democracy | Water privatisation |
-| Target | King and monarchy | Elected government and MNC contract |
-| Level of impact | Foundation of political system | Specific public policy |
-| Main actors | SPA, Maoists, unions, citizens | FEDECOR, workers, farmers, students, citizens |
-| Method | Strike, protest, mass mobilisation | Strike, protest, resistance |
-| Outcome | Monarchy weakened and later abolished | Water contract cancelled |
+| Point           | Nepal                                 | Bolivia                                       |
+| --------------- | ------------------------------------- | --------------------------------------------- |
+| Main issue      | Restoration of democracy              | Water privatisation                           |
+| Target          | King and monarchy                     | Elected government and MNC contract           |
+| Level of impact | Foundation of political system        | Specific public policy                        |
+| Main actors     | SPA, Maoists, unions, citizens        | FEDECOR, workers, farmers, students, citizens |
+| Method          | Strike, protest, mass mobilisation    | Strike, protest, resistance                   |
+| Outcome         | Monarchy weakened and later abolished | Water contract cancelled                      |
 
 ## Shared Features
 
@@ -349,9 +350,9 @@ In 2006, the Socialist Party came to power in Bolivia.
 
 People can participate in politics in two broad ways:
 
-| Type | Meaning | Examples |
-| --- | --- | --- |
-| Direct participation | Contesting elections and forming government | Political parties |
+| Type                   | Meaning                                               | Examples                                        |
+| ---------------------- | ----------------------------------------------------- | ----------------------------------------------- |
+| Direct participation   | Contesting elections and forming government           | Political parties                               |
 | Indirect participation | Influencing government without seeking power directly | Pressure groups, movements, petitions, protests |
 
 ## Learner Point
@@ -399,13 +400,13 @@ Examples:
 
 ## Pressure Group vs Movement
 
-| Basis | Pressure Group | Movement |
-| --- | --- | --- |
-| Organisation | More organised | Looser and flexible |
-| Membership | Often defined | Often broad and changing |
-| Aim | Influence policy | Influence politics around a cause |
-| Participation | Members act through organisation | Mass participation is important |
-| Duration | Can be long-term and stable | Can be short-term or long-term |
+| Basis         | Pressure Group                   | Movement                          |
+| ------------- | -------------------------------- | --------------------------------- |
+| Organisation  | More organised                   | Looser and flexible               |
+| Membership    | Often defined                    | Often broad and changing          |
+| Aim           | Influence policy                 | Influence politics around a cause |
+| Participation | Members act through organisation | Mass participation is important   |
+| Duration      | Can be long-term and stable      | Can be short-term or long-term    |
 
 ---
 
@@ -457,12 +458,12 @@ It addresses problems faced by its members, but its wider concern is social just
 
 ## Comparison
 
-| Basis | Sectional Interest Group | Public Interest Group |
-| --- | --- | --- |
-| Main aim | Interest of one section | Common or collective good |
-| Beneficiaries | Members of group | Wider society or disadvantaged groups |
-| Examples | Trade union, business association | Human rights group, anti-bonded labour group |
-| Scope | Narrower | Broader |
+| Basis         | Sectional Interest Group          | Public Interest Group                        |
+| ------------- | --------------------------------- | -------------------------------------------- |
+| Main aim      | Interest of one section           | Common or collective good                    |
+| Beneficiaries | Members of group                  | Wider society or disadvantaged groups        |
+| Examples      | Trade union, business association | Human rights group, anti-bonded labour group |
+| Scope         | Narrower                          | Broader                                      |
 
 ---
 
@@ -698,31 +699,31 @@ The movement showed that environmental struggles can also be struggles against c
 
 ## Pressure Group vs Political Party
 
-| Basis | Pressure Group | Political Party |
-| --- | --- | --- |
-| Aim | Influence policy | Capture political power |
-| Elections | Does not contest to form government | Contests elections |
-| Power | Does not directly control government | Tries to form government |
-| Membership | Often issue or interest-based | Broad political programme |
-| Accountability | Not directly accountable through elections | Accountable to voters |
-| Example | Trade union, FEDECOR | Congress, BJP, Socialist Party |
+| Basis          | Pressure Group                             | Political Party                |
+| -------------- | ------------------------------------------ | ------------------------------ |
+| Aim            | Influence policy                           | Capture political power        |
+| Elections      | Does not contest to form government        | Contests elections             |
+| Power          | Does not directly control government       | Tries to form government       |
+| Membership     | Often issue or interest-based              | Broad political programme      |
+| Accountability | Not directly accountable through elections | Accountable to voters          |
+| Example        | Trade union, FEDECOR                       | Congress, BJP, Socialist Party |
 
 ## Sectional vs Public Interest Group
 
-| Basis | Sectional Group | Public Interest Group |
-| --- | --- | --- |
-| Whose interest? | One section | Wider public or disadvantaged groups |
-| Benefit | Selective | Collective |
-| Examples | Trade unions, business associations | Human rights groups, RTI movement |
+| Basis           | Sectional Group                     | Public Interest Group                |
+| --------------- | ----------------------------------- | ------------------------------------ |
+| Whose interest? | One section                         | Wider public or disadvantaged groups |
+| Benefit         | Selective                           | Collective                           |
+| Examples        | Trade unions, business associations | Human rights groups, RTI movement    |
 
 ## Issue-Specific vs Long-Term Movement
 
-| Basis | Issue-Specific Movement | Long-Term Movement |
-| --- | --- | --- |
-| Aim | Single issue | Broad goal |
-| Time frame | Limited | Long-term |
-| Organisation | Often clearer leadership | Loose network |
-| Example | Nepal democracy movement, early Narmada Bachao Andolan | Women's movement, environmental movement |
+| Basis        | Issue-Specific Movement                                | Long-Term Movement                       |
+| ------------ | ------------------------------------------------------ | ---------------------------------------- |
+| Aim          | Single issue                                           | Broad goal                               |
+| Time frame   | Limited                                                | Long-term                                |
+| Organisation | Often clearer leadership                               | Loose network                            |
+| Example      | Nepal democracy movement, early Narmada Bachao Andolan | Women's movement, environmental movement |
 
 ---
 
@@ -758,23 +759,23 @@ Correct option: **(c) Pressure groups do not seek to get into power, while polit
 
 ## Q8: Matching organisations and struggles
 
-| List I | List II |
-| --- | --- |
+| List I                                  | List II                   |
+| --------------------------------------- | ------------------------- |
 | Promote interests of particular section | Sectional interest groups |
-| Promote common interest | Public interest groups |
-| Struggles for resolving social problem | Movement |
-| Mobilise people to win political power | Political parties |
+| Promote common interest                 | Public interest groups    |
+| Struggles for resolving social problem  | Movement                  |
+| Mobilise people to win political power  | Political parties         |
 
 Correct option: **(b) C D A B**
 
 ## Q9: Match List I with List II
 
-| List I | List II |
-| --- | --- |
-| Pressure group | Fertilizer dealers' association |
-| Long-term movement | Women's movement |
-| Single issue movement | Narmada Bachao Andolan |
-| Political party | Asom Gana Parishad |
+| List I                | List II                         |
+| --------------------- | ------------------------------- |
+| Pressure group        | Fertilizer dealers' association |
+| Long-term movement    | Women's movement                |
+| Single issue movement | Narmada Bachao Andolan          |
+| Political party       | Asom Gana Parishad              |
 
 Correct option: **(a) D C A B**
 
@@ -796,15 +797,15 @@ The Mewat example shows that movements can raise local demands, pressure politic
 
 # Common Mistakes to Avoid
 
-| Mistake | Correct Understanding |
-| --- | --- |
-| "Democracy only works through elections." | Movements and pressure groups also influence democracy. |
-| "All protests are anti-democratic." | Peaceful protest is a normal democratic method. |
-| "Pressure groups and parties are same." | Parties seek power; pressure groups influence power. |
-| "Movements always have formal organisation." | Movements are often loose and flexible. |
-| "Sectional groups are useless." | They represent real interests and balance other groups. |
-| "Public interest groups help only their members." | They aim at wider collective good. |
-| "Mass mobilisation means might is right." | Democratic mobilisation must connect with public reasoning, rights, and negotiation. |
+| Mistake                                           | Correct Understanding                                                                |
+| ------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| "Democracy only works through elections."         | Movements and pressure groups also influence democracy.                              |
+| "All protests are anti-democratic."               | Peaceful protest is a normal democratic method.                                      |
+| "Pressure groups and parties are same."           | Parties seek power; pressure groups influence power.                                 |
+| "Movements always have formal organisation."      | Movements are often loose and flexible.                                              |
+| "Sectional groups are useless."                   | They represent real interests and balance other groups.                              |
+| "Public interest groups help only their members." | They aim at wider collective good.                                                   |
+| "Mass mobilisation means might is right."         | Democratic mobilisation must connect with public reasoning, rights, and negotiation. |
 
 ---
 
@@ -886,4 +887,3 @@ Before moving to the next chapter, make sure you can:
 - [ ] Explain links between pressure groups and parties.
 - [ ] Write a balanced answer on whether pressure groups are healthy.
 - [ ] Solve all NCERT exercise questions.
-

@@ -1,4 +1,5 @@
 # Chapter 7: Waves
+
 ### NCERT Class 11 - Physics Part 2
 
 ---
@@ -13,20 +14,20 @@ Study this chapter as the learner version of the raw `chapter_07.md` file. It ov
 
 ## Chapter Map
 
-| Section | Main Learning Focus |
-| --- | --- |
-| Introduction | waves carry energy and information without carrying matter as a whole |
-| Mechanical waves | waves that need a material medium |
-| Transverse waves | medium particles oscillate perpendicular to wave travel |
-| Longitudinal waves | medium particles oscillate parallel to wave travel |
-| Progressive wave equation | `y(x,t) = a sin(kx - omega t + phi)` |
-| Wave speed | `v = omega/k = nu lambda` |
-| String waves | speed `v = sqrt(T/mu)` |
-| Sound waves | speed depends on elasticity and density |
-| Superposition | overlapping waves add algebraically |
-| Reflection | rigid boundary reverses phase; open boundary does not |
-| Standing waves | fixed nodes and antinodes |
-| Beats | loud-soft variation due to close frequencies |
+| Section                   | Main Learning Focus                                                   |
+| ------------------------- | --------------------------------------------------------------------- |
+| Introduction              | waves carry energy and information without carrying matter as a whole |
+| Mechanical waves          | waves that need a material medium                                     |
+| Transverse waves          | medium particles oscillate perpendicular to wave travel               |
+| Longitudinal waves        | medium particles oscillate parallel to wave travel                    |
+| Progressive wave equation | `y(x,t) = a sin(kx - omega t + phi)`                                  |
+| Wave speed                | `v = omega/k = nu lambda`                                             |
+| String waves              | speed `v = sqrt(T/mu)`                                                |
+| Sound waves               | speed depends on elasticity and density                               |
+| Superposition             | overlapping waves add algebraically                                   |
+| Reflection                | rigid boundary reverses phase; open boundary does not                 |
+| Standing waves            | fixed nodes and antinodes                                             |
+| Beats                     | loud-soft variation due to close frequencies                          |
 
 ---
 
@@ -74,12 +75,12 @@ Mechanical waves require a material medium.
 
 Examples:
 
-| Wave | Medium |
-| --- | --- |
-| sound wave | air, liquid, or solid |
-| string wave | stretched string |
-| water wave | water surface |
-| seismic wave | Earth material |
+| Wave         | Medium                |
+| ------------ | --------------------- |
+| sound wave   | air, liquid, or solid |
+| string wave  | stretched string      |
+| water wave   | water surface         |
+| seismic wave | Earth material        |
 
 Mechanical waves cannot travel through vacuum.
 
@@ -138,10 +139,10 @@ This is a simple model of wave propagation.
 
 Sound travels as compressions and rarefactions.
 
-| Region | Meaning |
-| --- | --- |
+| Region      | Meaning                                                            |
+| ----------- | ------------------------------------------------------------------ |
 | compression | air molecules are closer together; pressure and density are higher |
-| rarefaction | air molecules are farther apart; pressure and density are lower |
+| rarefaction | air molecules are farther apart; pressure and density are lower    |
 
 The pressure-density disturbance moves through air.
 
@@ -224,14 +225,14 @@ So the same equation describes both:
 
 ## Symbols
 
-| Symbol | Meaning |
-| --- | --- |
-| `y(x,t)` | displacement of medium particle |
-| `a` | amplitude |
-| `k` | angular wave number |
-| `omega` | angular frequency |
-| `phi` | initial phase |
-| `kx - omega t + phi` | phase |
+| Symbol               | Meaning                         |
+| -------------------- | ------------------------------- |
+| `y(x,t)`             | displacement of medium particle |
+| `a`                  | amplitude                       |
+| `k`                  | angular wave number             |
+| `omega`              | angular frequency               |
+| `phi`                | initial phase                   |
+| `kx - omega t + phi` | phase                           |
 
 ---
 
@@ -438,10 +439,10 @@ v = sqrt(T/mu)
 
 where:
 
-| Symbol | Meaning |
-| --- | --- |
-| `T` | tension in string |
-| `mu` | linear mass density |
+| Symbol | Meaning             |
+| ------ | ------------------- |
+| `T`    | tension in string   |
+| `mu`   | linear mass density |
 
 Linear mass density:
 
@@ -502,10 +503,10 @@ v = sqrt(B/rho)
 
 where:
 
-| Symbol | Meaning |
-| --- | --- |
-| `B` | bulk modulus |
-| `rho` | density |
+| Symbol | Meaning      |
+| ------ | ------------ |
+| `B`    | bulk modulus |
+| `rho`  | density      |
 
 ---
 
@@ -770,11 +771,11 @@ n = 1, 2, 3, ...
 
 ## Fundamental And Harmonics
 
-| Mode | Name | Frequency |
-| --- | --- | --- |
-| `n = 1` | fundamental or first harmonic | `v/(2L)` |
-| `n = 2` | second harmonic | `2v/(2L)` |
-| `n = 3` | third harmonic | `3v/(2L)` |
+| Mode    | Name                          | Frequency |
+| ------- | ----------------------------- | --------- |
+| `n = 1` | fundamental or first harmonic | `v/(2L)`  |
+| `n = 2` | second harmonic               | `2v/(2L)` |
+| `n = 3` | third harmonic                | `3v/(2L)` |
 
 ---
 
@@ -824,36 +825,36 @@ When beats disappear, the frequencies are equal.
 
 ## Progressive Waves
 
-| Formula | Use |
-| --- | --- |
-| `y(x,t) = a sin(kx - omega t + phi)` | positive x-direction wave |
-| `y(x,t) = a sin(kx + omega t + phi)` | negative x-direction wave |
-| `k = 2 pi/lambda` | wave number |
-| `omega = 2 pi nu` | angular frequency |
-| `T = 1/nu` | period-frequency relation |
-| `v = omega/k` | speed from angular quantities |
-| `v = nu lambda` | general wave-speed relation |
+| Formula                              | Use                           |
+| ------------------------------------ | ----------------------------- |
+| `y(x,t) = a sin(kx - omega t + phi)` | positive x-direction wave     |
+| `y(x,t) = a sin(kx + omega t + phi)` | negative x-direction wave     |
+| `k = 2 pi/lambda`                    | wave number                   |
+| `omega = 2 pi nu`                    | angular frequency             |
+| `T = 1/nu`                           | period-frequency relation     |
+| `v = omega/k`                        | speed from angular quantities |
+| `v = nu lambda`                      | general wave-speed relation   |
 
 ## Wave Speed
 
-| Formula | Use |
-| --- | --- |
-| `v = sqrt(T/mu)` | transverse wave on string |
-| `mu = mass/length` | linear mass density |
-| `v = sqrt(B/rho)` | longitudinal wave in bulk medium |
-| `v = sqrt(Y/rho)` | longitudinal wave in solid bar |
+| Formula                 | Use                                  |
+| ----------------------- | ------------------------------------ |
+| `v = sqrt(T/mu)`        | transverse wave on string            |
+| `mu = mass/length`      | linear mass density                  |
+| `v = sqrt(B/rho)`       | longitudinal wave in bulk medium     |
+| `v = sqrt(Y/rho)`       | longitudinal wave in solid bar       |
 | `v = sqrt(gamma P/rho)` | sound in gas with Laplace correction |
 
 ## Superposition And Standing Waves
 
-| Formula | Use |
-| --- | --- |
-| `y = y1 + y2` | superposition |
-| `A = 2a cos(phi/2)` | resultant amplitude for two equal waves |
-| `y = 2a sin kx cos omega t` | standing wave |
-| `lambda_n = 2L/n` | fixed string wavelengths |
-| `nu_n = n v/(2L)` | fixed string frequencies |
-| `nu_beat = |nu1 - nu2|` | beat frequency |
+| Formula                     | Use                                     |
+| --------------------------- | --------------------------------------- | --- | -------------- |
+| `y = y1 + y2`               | superposition                           |
+| `A = 2a cos(phi/2)`         | resultant amplitude for two equal waves |
+| `y = 2a sin kx cos omega t` | standing wave                           |
+| `lambda_n = 2L/n`           | fixed string wavelengths                |
+| `nu_n = n v/(2L)`           | fixed string frequencies                |
+| `nu_beat =                  | nu1 - nu2                               | `   | beat frequency |
 
 ---
 
@@ -985,4 +986,3 @@ Boundary conditions allow only certain normal modes.
 - [ ] I can explain reflection at rigid and open boundaries.
 - [ ] I can identify nodes, antinodes, normal modes, and harmonics.
 - [ ] I can calculate beat frequency.
-

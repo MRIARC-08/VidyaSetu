@@ -1,16 +1,17 @@
 # Chapter 13: Biodiversity and Conservation
+
 ### NCERT Class 12 - Biology
 
 ## Chapter at a Glance
 
-| Item | Details |
-|---|---|
-| Main idea | Biodiversity is the variety of life at genetic, species, and ecosystem levels, and conservation protects this variety. |
-| Main levels | Genetic diversity, species diversity, ecosystem diversity. |
-| Major patterns | Species richness varies with latitude, area, and habitat. |
-| Major threats | Habitat loss, over-exploitation, alien species invasion, co-extinctions. |
-| Conservation methods | In situ and ex situ conservation. |
-| Most important skill | Connect biodiversity value, threats, and conservation strategies. |
+| Item                 | Details                                                                                                                |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Main idea            | Biodiversity is the variety of life at genetic, species, and ecosystem levels, and conservation protects this variety. |
+| Main levels          | Genetic diversity, species diversity, ecosystem diversity.                                                             |
+| Major patterns       | Species richness varies with latitude, area, and habitat.                                                              |
+| Major threats        | Habitat loss, over-exploitation, alien species invasion, co-extinctions.                                               |
+| Conservation methods | In situ and ex situ conservation.                                                                                      |
+| Most important skill | Connect biodiversity value, threats, and conservation strategies.                                                      |
 
 ## Learning Outcomes
 
@@ -29,29 +30,29 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Biodiversity | Variety of life forms at all levels of biological organisation. |
-| Genetic diversity | Variation of genes within a species. |
-| Species diversity | Variety of species in a region. |
-| Ecosystem diversity | Variety of ecosystems in a region. |
-| Species richness | Number of species in an area. |
-| Endemism | Species restricted to a particular region. |
-| Hotspot | Region with high endemism and high threat. |
-| Extinction | Complete disappearance of a species. |
-| In situ conservation | Conservation in natural habitat. |
-| Ex situ conservation | Conservation outside natural habitat. |
-| Sacred grove | Community-protected forest patch with cultural value. |
-| Cryopreservation | Preservation at very low temperature. |
+| Term                 | Meaning                                                         |
+| -------------------- | --------------------------------------------------------------- |
+| Biodiversity         | Variety of life forms at all levels of biological organisation. |
+| Genetic diversity    | Variation of genes within a species.                            |
+| Species diversity    | Variety of species in a region.                                 |
+| Ecosystem diversity  | Variety of ecosystems in a region.                              |
+| Species richness     | Number of species in an area.                                   |
+| Endemism             | Species restricted to a particular region.                      |
+| Hotspot              | Region with high endemism and high threat.                      |
+| Extinction           | Complete disappearance of a species.                            |
+| In situ conservation | Conservation in natural habitat.                                |
+| Ex situ conservation | Conservation outside natural habitat.                           |
+| Sacred grove         | Community-protected forest patch with cultural value.           |
+| Cryopreservation     | Preservation at very low temperature.                           |
 
 ## Quick Learning Map
 
-| Area | Core Learning |
-|---|---|
-| Meaning | Biodiversity exists at gene, species, and ecosystem levels. |
-| Patterns | Tropics are richer in species; larger areas usually hold more species. |
-| Importance | Diversity supports stability, productivity, and ecosystem services. |
-| Threats | Habitat loss is the most serious threat. |
+| Area         | Core Learning                                                           |
+| ------------ | ----------------------------------------------------------------------- |
+| Meaning      | Biodiversity exists at gene, species, and ecosystem levels.             |
+| Patterns     | Tropics are richer in species; larger areas usually hold more species.  |
+| Importance   | Diversity supports stability, productivity, and ecosystem services.     |
+| Threats      | Habitat loss is the most serious threat.                                |
 | Conservation | Protect habitats and also preserve species outside habitat when needed. |
 
 # Unit 13A: Meaning of Biodiversity
@@ -60,11 +61,11 @@ Biodiversity is the variety and variability of living organisms. It includes all
 
 ## Three Levels
 
-| Level | Meaning | Example |
-|---|---|---|
-| Genetic diversity | Variation within a species. | Different rice varieties. |
-| Species diversity | Variety of species in an area. | More species in rainforest than a small plantation. |
-| Ecosystem diversity | Variety of habitats and ecosystems. | Forests, deserts, wetlands, grasslands. |
+| Level               | Meaning                             | Example                                             |
+| ------------------- | ----------------------------------- | --------------------------------------------------- |
+| Genetic diversity   | Variation within a species.         | Different rice varieties.                           |
+| Species diversity   | Variety of species in an area.      | More species in rainforest than a small plantation. |
+| Ecosystem diversity | Variety of habitats and ecosystems. | Forests, deserts, wetlands, grasslands.             |
 
 # Unit 13B: Genetic Diversity
 
@@ -155,13 +156,13 @@ Species in an ecosystem can be compared to rivets in an airplane. Losing a few m
 
 Biodiversity has many values.
 
-| Value | Meaning |
-|---|---|
-| Direct economic value | Food, medicine, timber, fibre, fuel. |
-| Indirect value | Pollination, climate regulation, water purification, nutrient cycling. |
-| Ethical value | Other species have a right to exist. |
-| Aesthetic value | Beauty, recreation, inspiration. |
-| Scientific value | Research, education, genetic information. |
+| Value                 | Meaning                                                                |
+| --------------------- | ---------------------------------------------------------------------- |
+| Direct economic value | Food, medicine, timber, fibre, fuel.                                   |
+| Indirect value        | Pollination, climate regulation, water purification, nutrient cycling. |
+| Ethical value         | Other species have a right to exist.                                   |
+| Aesthetic value       | Beauty, recreation, inspiration.                                       |
+| Scientific value      | Research, education, genetic information.                              |
 
 # Unit 13I: Loss of Biodiversity
 
@@ -271,24 +272,24 @@ Ex situ conservation protects species outside natural habitat.
 
 # Unit 13O: In Situ vs Ex Situ Conservation
 
-| Basis | In Situ | Ex Situ |
-|---|---|---|
-| Place | Natural habitat. | Outside natural habitat. |
-| Protects | Ecosystem and interactions. | Selected species or genetic material. |
-| Evolution | Natural processes continue. | More controlled conditions. |
-| Examples | National parks, sanctuaries, sacred groves. | Zoos, botanical gardens, seed banks. |
-| Best for | Whole habitat conservation. | Emergency rescue and controlled breeding. |
+| Basis     | In Situ                                     | Ex Situ                                   |
+| --------- | ------------------------------------------- | ----------------------------------------- |
+| Place     | Natural habitat.                            | Outside natural habitat.                  |
+| Protects  | Ecosystem and interactions.                 | Selected species or genetic material.     |
+| Evolution | Natural processes continue.                 | More controlled conditions.               |
+| Examples  | National parks, sanctuaries, sacred groves. | Zoos, botanical gardens, seed banks.      |
+| Best for  | Whole habitat conservation.                 | Emergency rescue and controlled breeding. |
 
 # Unit 13P: Common Mistakes and Corrections
 
-| Mistake | Correct Understanding |
-|---|---|
-| Biodiversity means only number of species | It includes genetic, species, and ecosystem diversity. |
-| Hotspots are simply beautiful places | They are regions with high endemism and high threat. |
-| Ex situ is always better | In situ protects natural interactions and ecosystems. |
-| Alien species are always harmless | Some become invasive and damage native biodiversity. |
-| Extinction affects only one species | Co-extinctions and ecosystem effects can follow. |
-| Conservation is only for animals | It includes plants, microbes, genes, habitats, and ecosystems. |
+| Mistake                                   | Correct Understanding                                          |
+| ----------------------------------------- | -------------------------------------------------------------- |
+| Biodiversity means only number of species | It includes genetic, species, and ecosystem diversity.         |
+| Hotspots are simply beautiful places      | They are regions with high endemism and high threat.           |
+| Ex situ is always better                  | In situ protects natural interactions and ecosystems.          |
+| Alien species are always harmless         | Some become invasive and damage native biodiversity.           |
+| Extinction affects only one species       | Co-extinctions and ecosystem effects can follow.               |
+| Conservation is only for animals          | It includes plants, microbes, genes, habitats, and ecosystems. |
 
 ## Practice Set
 

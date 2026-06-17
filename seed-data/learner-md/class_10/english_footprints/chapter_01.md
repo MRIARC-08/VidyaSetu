@@ -1,35 +1,36 @@
 # Chapter 1: A Triumph of Surgery
+
 ### NCERT Class 10 - English Footprints
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 10 |
-| **Subject** | English Footprints |
-| **Chapter** | 1 |
-| **Text** | "A Triumph of Surgery" by James Herriot |
-| **Textbook Pages** | 1-7 |
-| **Genre** | Humorous veterinary story / realistic animal episode |
-| **Core Theme** | Overindulgence, responsible care, common sense, health, class contrast, comic irony, and the difference between love and harmful pampering. |
-| **Main Skills** | Character analysis, irony, inference, vocabulary, ethical discussion, personal response, and reflective writing. |
+| Detail             | Learner-Friendly Information                                                                                                                |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Class**          | 10                                                                                                                                          |
+| **Subject**        | English Footprints                                                                                                                          |
+| **Chapter**        | 1                                                                                                                                           |
+| **Text**           | "A Triumph of Surgery" by James Herriot                                                                                                     |
+| **Textbook Pages** | 1-7                                                                                                                                         |
+| **Genre**          | Humorous veterinary story / realistic animal episode                                                                                        |
+| **Core Theme**     | Overindulgence, responsible care, common sense, health, class contrast, comic irony, and the difference between love and harmful pampering. |
+| **Main Skills**    | Character analysis, irony, inference, vocabulary, ethical discussion, personal response, and reflective writing.                            |
 
 ---
 
 ## Section Structure
 
-| Unit | Text / Skill | Main Learning Focus |
-|---|---|---|
-| **1A** | Before Reading | Tricki's illness, Mrs Pumphrey's worry, and narrator identity. |
-| **1B** | Problem | Overfeeding, lack of exercise, and mistaken care. |
-| **1C** | Hospitalisation | Herriot takes Tricki away from the indulgent home environment. |
-| **1D** | Recovery | Water, fasting, exercise, competition, and normal dog life. |
-| **1E** | Mrs Pumphrey's Gifts | Eggs, wine, brandy, and comic temptation. |
-| **1F** | Return Home | Tricki's transformation and the title's irony. |
-| **1G** | Thinking About It | Narrator, Tricki's future, realism, overindulgence, and parental comparison. |
-| **1H** | Language and Vocabulary | Glossary, idioms, tone, and inference words. |
+| Unit   | Text / Skill            | Main Learning Focus                                                          |
+| ------ | ----------------------- | ---------------------------------------------------------------------------- |
+| **1A** | Before Reading          | Tricki's illness, Mrs Pumphrey's worry, and narrator identity.               |
+| **1B** | Problem                 | Overfeeding, lack of exercise, and mistaken care.                            |
+| **1C** | Hospitalisation         | Herriot takes Tricki away from the indulgent home environment.               |
+| **1D** | Recovery                | Water, fasting, exercise, competition, and normal dog life.                  |
+| **1E** | Mrs Pumphrey's Gifts    | Eggs, wine, brandy, and comic temptation.                                    |
+| **1F** | Return Home             | Tricki's transformation and the title's irony.                               |
+| **1G** | Thinking About It       | Narrator, Tricki's future, realism, overindulgence, and parental comparison. |
+| **1H** | Language and Vocabulary | Glossary, idioms, tone, and inference words.                                 |
 
 ---
 
@@ -37,36 +38,36 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Retell the story** | Explain Tricki's illness, treatment, recovery, and return. |
-| **Analyse character** | Describe Mrs Pumphrey, Tricki, and Mr Herriot with evidence. |
-| **Understand irony** | Explain why the title "A Triumph of Surgery" is humorous. |
-| **Infer causes** | Identify the real cause of Tricki's illness. |
-| **Discuss responsible care** | Explain why love without discipline can harm. |
-| **Read humour** | Notice exaggeration, contrast, and comic misunderstanding. |
-| **Use vocabulary** | Understand words such as listless, lumbago, regime, distraught, convalescing, and lithe. |
-| **Write reflectively** | Discuss overindulgence in pets, children, or relationships. |
+| Outcome                      | You Should Be Able To...                                                                 |
+| ---------------------------- | ---------------------------------------------------------------------------------------- |
+| **Retell the story**         | Explain Tricki's illness, treatment, recovery, and return.                               |
+| **Analyse character**        | Describe Mrs Pumphrey, Tricki, and Mr Herriot with evidence.                             |
+| **Understand irony**         | Explain why the title "A Triumph of Surgery" is humorous.                                |
+| **Infer causes**             | Identify the real cause of Tricki's illness.                                             |
+| **Discuss responsible care** | Explain why love without discipline can harm.                                            |
+| **Read humour**              | Notice exaggeration, contrast, and comic misunderstanding.                               |
+| **Use vocabulary**           | Understand words such as listless, lumbago, regime, distraught, convalescing, and lithe. |
+| **Write reflectively**       | Discuss overindulgence in pets, children, or relationships.                              |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Veterinary surgeon** | Doctor who treats animals. |
-| **Mistress** | Female owner of a pet or servant-employing household. |
-| **Pampered** | Treated with excessive comfort and attention. |
-| **Overfed** | Given more food than needed. |
-| **Malnutrition** | Poor nutrition; may mean lack of proper nutrients, not simply lack of food. |
-| **Regime** | Prescribed plan of diet, exercise, or discipline. |
-| **Distraught** | Extremely worried or upset. |
-| **Surgery** | In this story, the vet's clinic; also can mean operation. |
-| **Convalescing** | Recovering after illness. |
-| **Scrimmage** | Rough, confused, playful struggle. |
-| **Lithe** | Flexible, healthy, and active. |
-| **Irony** | Meaning created when reality differs from expectation or words. |
-| **Indulgence** | Giving in too much to someone's wishes. |
+| Term                   | Meaning                                                                     |
+| ---------------------- | --------------------------------------------------------------------------- |
+| **Veterinary surgeon** | Doctor who treats animals.                                                  |
+| **Mistress**           | Female owner of a pet or servant-employing household.                       |
+| **Pampered**           | Treated with excessive comfort and attention.                               |
+| **Overfed**            | Given more food than needed.                                                |
+| **Malnutrition**       | Poor nutrition; may mean lack of proper nutrients, not simply lack of food. |
+| **Regime**             | Prescribed plan of diet, exercise, or discipline.                           |
+| **Distraught**         | Extremely worried or upset.                                                 |
+| **Surgery**            | In this story, the vet's clinic; also can mean operation.                   |
+| **Convalescing**       | Recovering after illness.                                                   |
+| **Scrimmage**          | Rough, confused, playful struggle.                                          |
+| **Lithe**              | Flexible, healthy, and active.                                              |
+| **Irony**              | Meaning created when reality differs from expectation or words.             |
+| **Indulgence**         | Giving in too much to someone's wishes.                                     |
 
 ---
 
@@ -84,12 +85,12 @@ The humour lies in the title. Mrs Pumphrey believes Tricki's recovery is a medic
 
 ## Read and Find Out Questions
 
-| Question | Short Answer |
-|---|---|
-| Why is Mrs Pumphrey worried about Tricki? | Tricki has become extremely fat, listless, weak-looking, and unhealthy. |
-| What does she do to help him? | She gives him extra food, supplements, Horlicks, cream cakes, chocolates, and rich treats. |
-| Is she wise? | No. Her "help" worsens the problem because Tricki needs less food and more exercise. |
-| Who does "I" refer to? | Mr James Herriot, the veterinary surgeon and narrator. |
+| Question                                  | Short Answer                                                                               |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------ |
+| Why is Mrs Pumphrey worried about Tricki? | Tricki has become extremely fat, listless, weak-looking, and unhealthy.                    |
+| What does she do to help him?             | She gives him extra food, supplements, Horlicks, cream cakes, chocolates, and rich treats. |
+| Is she wise?                              | No. Her "help" worsens the problem because Tricki needs less food and more exercise.       |
+| Who does "I" refer to?                    | Mr James Herriot, the veterinary surgeon and narrator.                                     |
 
 ## The Central Situation
 
@@ -105,26 +106,26 @@ Mr Herriot recognises the real cause and decides that the dog must be removed fr
 
 When Mr Herriot sees Tricki in the street, he is shocked.
 
-| Symptom | What It Suggests |
-|---|---|
-| **Hugely fat body** | Overfeeding and lack of exercise. |
-| **Bloodshot, watery eyes** | Poor health and discomfort. |
-| **Tongue hanging out** | Exhaustion and difficulty moving. |
-| **Listlessness** | Lack of energy. |
-| **Vomiting later** | Digestive overload. |
-| **No interest in walks** | Physical weakness and habit of inactivity. |
+| Symptom                    | What It Suggests                           |
+| -------------------------- | ------------------------------------------ |
+| **Hugely fat body**        | Overfeeding and lack of exercise.          |
+| **Bloodshot, watery eyes** | Poor health and discomfort.                |
+| **Tongue hanging out**     | Exhaustion and difficulty moving.          |
+| **Listlessness**           | Lack of energy.                            |
+| **Vomiting later**         | Digestive overload.                        |
+| **No interest in walks**   | Physical weakness and habit of inactivity. |
 
 ## Mrs Pumphrey's Mistake
 
 Mrs Pumphrey thinks Tricki may be weak because of malnutrition. Her response is to give him more food.
 
-| What She Gives | Why It Is a Problem |
-|---|---|
-| **Extra food between meals** | Adds unnecessary calories. |
-| **Malt and cod-liver oil** | Supplements are not needed when overfeeding is the issue. |
-| **Horlicks at night** | Another rich addition to the diet. |
-| **Cream cakes and chocolates** | Unsuitable and unhealthy treats for a dog. |
-| **Too little exercise** | Food energy is not burned. |
+| What She Gives                 | Why It Is a Problem                                       |
+| ------------------------------ | --------------------------------------------------------- |
+| **Extra food between meals**   | Adds unnecessary calories.                                |
+| **Malt and cod-liver oil**     | Supplements are not needed when overfeeding is the issue. |
+| **Horlicks at night**          | Another rich addition to the diet.                        |
+| **Cream cakes and chocolates** | Unsuitable and unhealthy treats for a dog.                |
+| **Too little exercise**        | Food energy is not burned.                                |
 
 ## Tricki's Real Fault
 
@@ -191,12 +192,12 @@ Herriot cannot take all of it. He leaves quickly with Tricki wrapped in a blanke
 
 ## What This Scene Reveals
 
-| Detail | Meaning |
-|---|---|
-| Many beds and bowls | Tricki is treated like a luxury guest, not an ordinary dog. |
-| Staff crying | The household shares Mrs Pumphrey's excessive concern. |
-| Coats thrown into car | Mrs Pumphrey thinks comfort items are essential. |
-| Herriot leaving quickly | He knows the cure requires separation from this pampering. |
+| Detail                  | Meaning                                                     |
+| ----------------------- | ----------------------------------------------------------- |
+| Many beds and bowls     | Tricki is treated like a luxury guest, not an ordinary dog. |
+| Staff crying            | The household shares Mrs Pumphrey's excessive concern.      |
+| Coats thrown into car   | Mrs Pumphrey thinks comfort items are essential.            |
+| Herriot leaving quickly | He knows the cure requires separation from this pampering.  |
 
 ---
 
@@ -230,12 +231,12 @@ The cure is diet and exercise.
 
 ## Tricki's First Days
 
-| Day | Condition |
-|---|---|
-| **Arrival** | Motionless, dull, ignored by other dogs. |
-| **First two days** | Given water but no food; watched carefully. |
-| **End of second day** | Starts showing interest in surroundings. |
-| **Third day** | Whimpers when he hears other dogs. |
+| Day                    | Condition                                       |
+| ---------------------- | ----------------------------------------------- |
+| **Arrival**            | Motionless, dull, ignored by other dogs.        |
+| **First two days**     | Given water but no food; watched carefully.     |
+| **End of second day**  | Starts showing interest in surroundings.        |
+| **Third day**          | Whimpers when he hears other dogs.              |
 | **After joining dogs** | Begins moving, playing, and following the pack. |
 
 ## Role of Other Dogs
@@ -276,11 +277,11 @@ He tells her that Tricki is out of danger and convalescing.
 
 The word `convalescing` affects Mrs Pumphrey strongly. She sends rich items to build Tricki's strength.
 
-| Gift | Claimed Purpose | Actual Result |
-|---|---|---|
-| **Fresh eggs** | Build strength. | Herriot and partners eat them. |
-| **Wine** | Enrich Tricki's blood. | The household enjoys it. |
-| **Brandy** | Improve Tricki's constitution. | The vet's household drinks it. |
+| Gift           | Claimed Purpose                | Actual Result                  |
+| -------------- | ------------------------------ | ------------------------------ |
+| **Fresh eggs** | Build strength.                | Herriot and partners eat them. |
+| **Wine**       | Enrich Tricki's blood.         | The household enjoys it.       |
+| **Brandy**     | Improve Tricki's constitution. | The vet's household drinks it. |
 
 ## Why Herriot Is Tempted to Keep Tricki
 
@@ -300,13 +301,13 @@ Herriot is ethical. He knows Mrs Pumphrey is suffering and Tricki has recovered.
 
 When Herriot sees Tricki in the garden, he has been transformed.
 
-| Before | After |
-|---|---|
+| Before       | After                  |
+| ------------ | ---------------------- |
 | Fat and weak | Lithe and hard-muscled |
-| Listless | Energetic |
-| Panting | Running |
-| Isolated | Part of a dog pack |
-| Overfed | Active and fit |
+| Listless     | Energetic              |
+| Panting      | Running                |
+| Isolated     | Part of a dog pack     |
+| Overfed      | Active and fit         |
 
 ## Tricki's Reaction to Mrs Pumphrey
 
@@ -432,37 +433,37 @@ A sensible response would be exactly what Herriot does:
 
 ## Glossary from the Chapter
 
-| Word | Meaning |
-|---|---|
-| **Sausage** | Minced meat packed into long cylindrical casing; used in the story as a comic comparison for Tricki's shape. |
-| **Rheumy** | Watery discharge from eyes or nose. |
-| **Listless** | Without energy or enthusiasm. |
-| **Lumbago** | Pain in the lower back. |
-| **Regime** | Prescribed plan of diet or exercise. |
-| **Distraught** | Extremely worried. |
-| **Surgery** | Clinic where a doctor, dentist, or vet treats patients. |
-| **Scrimmage** | Rough and confused struggle or play. |
-| **Convalescing** | Recovering after illness. |
-| **Lithe** | Flexible, healthy, and active. |
+| Word             | Meaning                                                                                                      |
+| ---------------- | ------------------------------------------------------------------------------------------------------------ |
+| **Sausage**      | Minced meat packed into long cylindrical casing; used in the story as a comic comparison for Tricki's shape. |
+| **Rheumy**       | Watery discharge from eyes or nose.                                                                          |
+| **Listless**     | Without energy or enthusiasm.                                                                                |
+| **Lumbago**      | Pain in the lower back.                                                                                      |
+| **Regime**       | Prescribed plan of diet or exercise.                                                                         |
+| **Distraught**   | Extremely worried.                                                                                           |
+| **Surgery**      | Clinic where a doctor, dentist, or vet treats patients.                                                      |
+| **Scrimmage**    | Rough and confused struggle or play.                                                                         |
+| **Convalescing** | Recovering after illness.                                                                                    |
+| **Lithe**        | Flexible, healthy, and active.                                                                               |
 
 ## Important Expressions
 
-| Expression | Meaning |
-|---|---|
-| **Harden your heart** | Be firm even when it feels emotionally difficult. |
-| **Keep an eye on** | Watch carefully. |
-| **Out of danger** | No longer in a serious or risky condition. |
-| **Permanent guest** | Someone who stays for a long time; used humorously here. |
-| **A triumph of surgery** | Mrs Pumphrey's mistaken phrase for Tricki's recovery. |
+| Expression               | Meaning                                                  |
+| ------------------------ | -------------------------------------------------------- |
+| **Harden your heart**    | Be firm even when it feels emotionally difficult.        |
+| **Keep an eye on**       | Watch carefully.                                         |
+| **Out of danger**        | No longer in a serious or risky condition.               |
+| **Permanent guest**      | Someone who stays for a long time; used humorously here. |
+| **A triumph of surgery** | Mrs Pumphrey's mistaken phrase for Tricki's recovery.    |
 
 ## Tone of the Story
 
-| Feature | Effect |
-|---|---|
-| **Humorous exaggeration** | Tricki's fatness and luxury are described comically. |
-| **Gentle satire** | Mrs Pumphrey's rich lifestyle is mocked but not cruelly. |
-| **Warm narration** | Herriot cares for both dog and owner. |
-| **Irony** | The cure is not surgical despite the title. |
+| Feature                   | Effect                                                   |
+| ------------------------- | -------------------------------------------------------- |
+| **Humorous exaggeration** | Tricki's fatness and luxury are described comically.     |
+| **Gentle satire**         | Mrs Pumphrey's rich lifestyle is mocked but not cruelly. |
+| **Warm narration**        | Herriot cares for both dog and owner.                    |
+| **Irony**                 | The cure is not surgical despite the title.              |
 
 ---
 
@@ -470,34 +471,34 @@ A sensible response would be exactly what Herriot does:
 
 ## Mrs Pumphrey
 
-| Trait | Evidence |
-|---|---|
-| **Loving** | She worries deeply about Tricki. |
+| Trait             | Evidence                                                         |
+| ----------------- | ---------------------------------------------------------------- |
+| **Loving**        | She worries deeply about Tricki.                                 |
 | **Overindulgent** | Gives him cream cakes, chocolates, supplements, and rich drinks. |
-| **Anxious** | Calls the vet repeatedly for updates. |
-| **Wealthy** | Has staff, chauffeur, luxury car, and many pet accessories. |
-| **Unwise** | Misunderstands overfeeding as care. |
-| **Grateful** | Thanks Herriot emotionally at the end. |
+| **Anxious**       | Calls the vet repeatedly for updates.                            |
+| **Wealthy**       | Has staff, chauffeur, luxury car, and many pet accessories.      |
+| **Unwise**        | Misunderstands overfeeding as care.                              |
+| **Grateful**      | Thanks Herriot emotionally at the end.                           |
 
 ## Tricki
 
-| Trait | Evidence |
-|---|---|
-| **Greedy** | Never refuses food. |
-| **Pampered** | Has coats, beds, cushions, bowls, and toys. |
-| **Weak at first** | Cannot move properly and refuses activity. |
-| **Adaptable** | Recovers among other dogs. |
-| **Affectionate** | Leaps into Mrs Pumphrey's lap at the end. |
+| Trait             | Evidence                                    |
+| ----------------- | ------------------------------------------- |
+| **Greedy**        | Never refuses food.                         |
+| **Pampered**      | Has coats, beds, cushions, bowls, and toys. |
+| **Weak at first** | Cannot move properly and refuses activity.  |
+| **Adaptable**     | Recovers among other dogs.                  |
+| **Affectionate**  | Leaps into Mrs Pumphrey's lap at the end.   |
 
 ## Mr Herriot
 
-| Trait | Evidence |
-|---|---|
-| **Practical** | Gives water, rest, exercise, and simple diet. |
-| **Tactful** | Does not blame Mrs Pumphrey harshly. |
-| **Ethical** | Sends Tricki home after recovery despite enjoying gifts. |
-| **Humorous** | Narrates the rich gifts and household enjoyment lightly. |
-| **Firm** | Takes Tricki away when necessary. |
+| Trait         | Evidence                                                 |
+| ------------- | -------------------------------------------------------- |
+| **Practical** | Gives water, rest, exercise, and simple diet.            |
+| **Tactful**   | Does not blame Mrs Pumphrey harshly.                     |
+| **Ethical**   | Sends Tricki home after recovery despite enjoying gifts. |
+| **Humorous**  | Narrates the rich gifts and household enjoyment lightly. |
+| **Firm**      | Takes Tricki away when necessary.                        |
 
 ---
 
@@ -562,4 +563,4 @@ A sensible response would be exactly what Herriot does:
 
 ---
 
-*Source: NCERT Class 10 - English Footprints, Chapter 1 raw file. Learner-facing version manually rewritten from the extracted content of "A Triumph of Surgery".*
+_Source: NCERT Class 10 - English Footprints, Chapter 1 raw file. Learner-facing version manually rewritten from the extracted content of "A Triumph of Surgery"._

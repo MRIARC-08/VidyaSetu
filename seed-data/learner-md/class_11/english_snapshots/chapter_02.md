@@ -4,17 +4,17 @@
 
 ### Text And Chapter Identity
 
-| Item | Details |
-|---|---|
-| Class | 11 |
-| Book | English Snapshots |
-| Chapter | 2 |
-| Title | The Address |
-| Author | Marga Minco |
-| Genre | Short story |
-| Historical background | War-time and post-war Holland |
-| Core concern | Memory, loss, survival, and the painful meaning of possessions after war |
-| Main characters | The narrator, Mrs S, Mrs Dorling, Mrs Dorling's daughter |
+| Item                  | Details                                                                  |
+| --------------------- | ------------------------------------------------------------------------ |
+| Class                 | 11                                                                       |
+| Book                  | English Snapshots                                                        |
+| Chapter               | 2                                                                        |
+| Title                 | The Address                                                              |
+| Author                | Marga Minco                                                              |
+| Genre                 | Short story                                                              |
+| Historical background | War-time and post-war Holland                                            |
+| Core concern          | Memory, loss, survival, and the painful meaning of possessions after war |
+| Main characters       | The narrator, Mrs S, Mrs Dorling, Mrs Dorling's daughter                 |
 
 ### How To Read This Chapter
 
@@ -26,13 +26,13 @@ The narrator does not reject the objects because they are worthless. She rejects
 
 In exam answers, avoid retelling only the door visit. Connect every event to one of these ideas:
 
-| Event | Deeper meaning |
-|---|---|
-| The narrator visits Marconi Street | Return to a painful past |
-| Mrs Dorling refuses to welcome her | Guilt, selfishness, and moral discomfort |
-| The narrator remembers her mother | Love mixed with loss |
-| Objects appear in a strange room | Memory becomes painful instead of comforting |
-| The narrator leaves | Choosing emotional survival over material recovery |
+| Event                              | Deeper meaning                                     |
+| ---------------------------------- | -------------------------------------------------- |
+| The narrator visits Marconi Street | Return to a painful past                           |
+| Mrs Dorling refuses to welcome her | Guilt, selfishness, and moral discomfort           |
+| The narrator remembers her mother  | Love mixed with loss                               |
+| Objects appear in a strange room   | Memory becomes painful instead of comforting       |
+| The narrator leaves                | Choosing emotional survival over material recovery |
 
 ## Learning Goals
 
@@ -67,13 +67,13 @@ The narrator arrives at Number 46, Marconi Street. This address was given to her
 
 The first meeting creates tension:
 
-| Detail | Meaning |
-|---|---|
-| The door opens only slightly | Mrs Dorling is defensive |
-| Mrs Dorling denies recognition | She wants to avoid responsibility |
-| The narrator identifies herself | The past returns |
-| The green cardigan appears | The truth becomes visible |
-| The door closes | The past is shut out |
+| Detail                          | Meaning                           |
+| ------------------------------- | --------------------------------- |
+| The door opens only slightly    | Mrs Dorling is defensive          |
+| Mrs Dorling denies recognition  | She wants to avoid responsibility |
+| The narrator identifies herself | The past returns                  |
+| The green cardigan appears      | The truth becomes visible         |
+| The door closes                 | The past is shut out              |
 
 The cardigan is important because it proves that Mrs Dorling has kept the mother's belongings. She cannot fully hide the truth because she is literally wearing part of the narrator's past.
 
@@ -91,11 +91,11 @@ The mother trusted her. The narrator was more doubtful.
 
 This memory matters because it shows the difference between:
 
-| The mother's view | The narrator's suspicion |
-|---|---|
-| Mrs Dorling is helping | Mrs Dorling may be exploiting the situation |
-| Keeping things safe is kind | Carrying them away may be opportunistic |
-| Agreement is unnecessary because trust exists | Lack of formal agreement is dangerous |
+| The mother's view                             | The narrator's suspicion                    |
+| --------------------------------------------- | ------------------------------------------- |
+| Mrs Dorling is helping                        | Mrs Dorling may be exploiting the situation |
+| Keeping things safe is kind                   | Carrying them away may be opportunistic     |
+| Agreement is unnecessary because trust exists | Lack of formal agreement is dangerous       |
 
 ### Stage 4: After The War
 
@@ -155,14 +155,14 @@ The narrator is the daughter of Mrs S. She has survived the war and returns to l
 
 Key traits:
 
-| Trait | Evidence from the story | Importance |
-|---|---|---|
-| Sensitive | Objects deeply affect her | Shows emotional depth |
-| Observant | She notices the cardigan and room details | Builds realism |
-| Wounded | She avoids familiar streets and memories | Shows trauma |
-| Thoughtful | She reflects on why objects lose meaning | Gives the story philosophical weight |
-| Dignified | She does not create a public scene | Shows inner strength |
-| Self-protective | She chooses to forget the address | Shows maturity |
+| Trait           | Evidence from the story                   | Importance                           |
+| --------------- | ----------------------------------------- | ------------------------------------ |
+| Sensitive       | Objects deeply affect her                 | Shows emotional depth                |
+| Observant       | She notices the cardigan and room details | Builds realism                       |
+| Wounded         | She avoids familiar streets and memories  | Shows trauma                         |
+| Thoughtful      | She reflects on why objects lose meaning  | Gives the story philosophical weight |
+| Dignified       | She does not create a public scene        | Shows inner strength                 |
+| Self-protective | She chooses to forget the address         | Shows maturity                       |
 
 The narrator's journey is not from ignorance to possession. It is from curiosity to renunciation. She learns that reclaiming objects cannot heal the loss of people and home.
 
@@ -172,12 +172,12 @@ Mrs S is the narrator's mother. She appears through memory. She trusted Mrs Dorl
 
 Key traits:
 
-| Trait | Evidence from the story | Importance |
-|---|---|---|
-| Trusting | She accepts Mrs Dorling's offer | Makes the loss possible |
-| Gentle | She worries about Mrs Dorling carrying heavy items | Shows kindness |
-| Attached to home | Her possessions are carefully remembered | Deepens the narrator's grief |
-| Vulnerable | War places her household at risk | Shows human helplessness in crisis |
+| Trait            | Evidence from the story                            | Importance                         |
+| ---------------- | -------------------------------------------------- | ---------------------------------- |
+| Trusting         | She accepts Mrs Dorling's offer                    | Makes the loss possible            |
+| Gentle           | She worries about Mrs Dorling carrying heavy items | Shows kindness                     |
+| Attached to home | Her possessions are carefully remembered           | Deepens the narrator's grief       |
+| Vulnerable       | War places her household at risk                   | Shows human helplessness in crisis |
 
 Mrs S represents the lost world of family, home, and pre-war security.
 
@@ -187,13 +187,13 @@ Mrs Dorling is an old acquaintance of Mrs S. She repeatedly takes household belo
 
 Key traits:
 
-| Trait | Evidence from the story | Importance |
-|---|---|---|
-| Opportunistic | She takes many valuables during war | Reveals moral failure |
-| Guilty | She avoids recognition | Shows she knows the truth |
-| Possessive | She keeps and uses the objects | Shows selfishness |
-| Emotionally cold | She refuses the narrator entry | Contrasts with Mrs S's trust |
-| Defensive | She keeps the door nearly closed | Reveals fear of exposure |
+| Trait            | Evidence from the story             | Importance                   |
+| ---------------- | ----------------------------------- | ---------------------------- |
+| Opportunistic    | She takes many valuables during war | Reveals moral failure        |
+| Guilty           | She avoids recognition              | Shows she knows the truth    |
+| Possessive       | She keeps and uses the objects      | Shows selfishness            |
+| Emotionally cold | She refuses the narrator entry      | Contrasts with Mrs S's trust |
+| Defensive        | She keeps the door nearly closed    | Reveals fear of exposure     |
 
 Mrs Dorling is not shown through long explanation. Her behaviour reveals her character. The door, the cardigan, and her refusal all speak for her.
 
@@ -203,12 +203,12 @@ Mrs Dorling's daughter is about fifteen. She lets the narrator in and speaks cas
 
 Key traits:
 
-| Trait | Evidence from the story | Importance |
-|---|---|---|
-| Innocent | She does not seem to know the full history | Creates contrast with her mother |
-| Casual | She treats the objects as ordinary | Intensifies the narrator's pain |
-| Unaware | She does not understand the narrator's reaction | Shows how memory can be private |
-| Hospitable | She offers tea | Makes the scene more complex |
+| Trait      | Evidence from the story                         | Importance                       |
+| ---------- | ----------------------------------------------- | -------------------------------- |
+| Innocent   | She does not seem to know the full history      | Creates contrast with her mother |
+| Casual     | She treats the objects as ordinary              | Intensifies the narrator's pain  |
+| Unaware    | She does not understand the narrator's reaction | Shows how memory can be private  |
+| Hospitable | She offers tea                                  | Makes the scene more complex     |
 
 The daughter is not the villain. She has inherited the objects without understanding their moral history.
 
@@ -241,12 +241,12 @@ The narrator can find the address. She can see the possessions. She may even hav
 
 The story therefore distinguishes between:
 
-| Material recovery | Emotional recovery |
-|---|---|
-| Getting objects back | Healing grief |
-| Locating an address | Returning to a former life |
-| Touching old things | Restoring lost relationships |
-| Proving ownership | Finding peace |
+| Material recovery    | Emotional recovery           |
+| -------------------- | ---------------------------- |
+| Getting objects back | Healing grief                |
+| Locating an address  | Returning to a former life   |
+| Touching old things  | Restoring lost relationships |
+| Proving ownership    | Finding peace                |
 
 The narrator realizes that material recovery is not enough.
 
@@ -286,13 +286,13 @@ An address usually helps a person find a place. In this story, the address helps
 
 The title works on several levels:
 
-| Level | Meaning |
-|---|---|
-| Literal | Number 46, Marconi Street |
-| Emotional | A connection to the narrator's mother |
-| Moral | A place where betrayal is hidden |
-| Psychological | A memory the narrator chooses to erase |
-| Ironic | The correct address leads to emotional refusal, not recovery |
+| Level         | Meaning                                                      |
+| ------------- | ------------------------------------------------------------ |
+| Literal       | Number 46, Marconi Street                                    |
+| Emotional     | A connection to the narrator's mother                        |
+| Moral         | A place where betrayal is hidden                             |
+| Psychological | A memory the narrator chooses to erase                       |
+| Ironic        | The correct address leads to emotional refusal, not recovery |
 
 By the end, the address becomes something to forget. This reversal gives the title its depth.
 
@@ -326,32 +326,32 @@ The room symbolizes the distortion of memory. The objects are familiar, but thei
 
 ### Before The War And After The War
 
-| Before the war | After the war |
-|---|---|
-| Family home exists | Home is gone |
-| Objects have emotional place | Objects are displaced |
-| Mother is present | Mother is absent |
-| Trust seems possible | Trust has been betrayed |
-| Daily life feels natural | Daily life must be rebuilt |
+| Before the war               | After the war              |
+| ---------------------------- | -------------------------- |
+| Family home exists           | Home is gone               |
+| Objects have emotional place | Objects are displaced      |
+| Mother is present            | Mother is absent           |
+| Trust seems possible         | Trust has been betrayed    |
+| Daily life feels natural     | Daily life must be rebuilt |
 
 ### Mrs S And Mrs Dorling
 
-| Mrs S | Mrs Dorling |
-|---|---|
-| Trusting | Evasive |
-| Generous in judgement | Selfish in action |
-| Vulnerable | Opportunistic |
-| Emotionally warm | Emotionally cold |
-| Connected to memory | Connected to possession |
+| Mrs S                 | Mrs Dorling             |
+| --------------------- | ----------------------- |
+| Trusting              | Evasive                 |
+| Generous in judgement | Selfish in action       |
+| Vulnerable            | Opportunistic           |
+| Emotionally warm      | Emotionally cold        |
+| Connected to memory   | Connected to possession |
 
 ### The Narrator And Mrs Dorling's Daughter
 
-| Narrator | Mrs Dorling's daughter |
-|---|---|
+| Narrator                         | Mrs Dorling's daughter                  |
+| -------------------------------- | --------------------------------------- |
 | Knows the history of the objects | Does not know or does not understand it |
-| Feels pain | Feels ordinary comfort |
-| Sees memory | Sees household items |
-| Wants emotional truth | Offers casual hospitality |
+| Feels pain                       | Feels ordinary comfort                  |
+| Sees memory                      | Sees household items                    |
+| Wants emotional truth            | Offers casual hospitality               |
 
 ### Possession And Belonging
 
@@ -640,18 +640,18 @@ Her final decision to forget the address is therefore meaningful. It shows that 
 
 ## Vocabulary For Better Answers
 
-| Word | Meaning | Use in this chapter |
-|---|---|---|
-| Predicament | Difficult situation with no easy solution | The narrator faces a post-war predicament |
-| Displacement | Removal from proper place | The objects are displaced from their home |
-| Opportunism | Taking advantage of a situation | Mrs Dorling shows opportunism |
-| Renunciation | Giving something up deliberately | The narrator renounces the possessions |
-| Trauma | Deep emotional injury | The narrator carries trauma from war |
-| Possession | Something owned or held | The story questions the value of possessions |
-| Belonging | Emotional or rightful connection | The objects no longer feel as if they belong |
-| Evasive | Avoiding direct truth | Mrs Dorling behaves evasively |
-| Nostalgia | Longing for the past | The narrator's memories contain nostalgia and pain |
-| Restraint | Control over emotion | The narrator shows restraint |
+| Word         | Meaning                                   | Use in this chapter                                |
+| ------------ | ----------------------------------------- | -------------------------------------------------- |
+| Predicament  | Difficult situation with no easy solution | The narrator faces a post-war predicament          |
+| Displacement | Removal from proper place                 | The objects are displaced from their home          |
+| Opportunism  | Taking advantage of a situation           | Mrs Dorling shows opportunism                      |
+| Renunciation | Giving something up deliberately          | The narrator renounces the possessions             |
+| Trauma       | Deep emotional injury                     | The narrator carries trauma from war               |
+| Possession   | Something owned or held                   | The story questions the value of possessions       |
+| Belonging    | Emotional or rightful connection          | The objects no longer feel as if they belong       |
+| Evasive      | Avoiding direct truth                     | Mrs Dorling behaves evasively                      |
+| Nostalgia    | Longing for the past                      | The narrator's memories contain nostalgia and pain |
+| Restraint    | Control over emotion                      | The narrator shows restraint                       |
 
 ## Quick Revision Sheet
 
@@ -679,23 +679,23 @@ A war survivor visits the woman who kept her mother's belongings, but after seei
 
 ### Main Symbols
 
-| Symbol | Meaning |
-|---|---|
-| Address | Link to the past that must be forgotten |
+| Symbol         | Meaning                                 |
+| -------------- | --------------------------------------- |
+| Address        | Link to the past that must be forgotten |
 | Green cardigan | Proof of possession and moral violation |
-| Tablecloth | Domestic memory |
-| Silver cutlery | Family value and painful continuity |
-| Half-open door | Guilt and exclusion |
-| Strange room | Memory displaced from home |
+| Tablecloth     | Domestic memory                         |
+| Silver cutlery | Family value and painful continuity     |
+| Half-open door | Guilt and exclusion                     |
+| Strange room   | Memory displaced from home              |
 
 ### Character Keywords
 
-| Character | Keywords |
-|---|---|
-| Narrator | Sensitive, wounded, dignified, reflective |
-| Mrs S | Trusting, gentle, vulnerable |
-| Mrs Dorling | Evasive, selfish, opportunistic, guilty |
-| Daughter | Unaware, casual, hospitable |
+| Character   | Keywords                                  |
+| ----------- | ----------------------------------------- |
+| Narrator    | Sensitive, wounded, dignified, reflective |
+| Mrs S       | Trusting, gentle, vulnerable              |
+| Mrs Dorling | Evasive, selfish, opportunistic, guilty   |
+| Daughter    | Unaware, casual, hospitable               |
 
 ## Final Takeaway
 

@@ -22,19 +22,19 @@ The chapter's central idea is that agriculture is not only an economic activity.
 
 ## Key Terms
 
-| Term | Meaning | Why it matters |
-|---|---|---|
-| Agrarian society | Society in which land and agriculture are central to livelihood and social relations | Rural India is deeply shaped by agrarian relations |
-| Agrarian structure | Distribution of land and organisation of agricultural production | It determines class relations in rural areas |
-| Dominant caste | Caste that is numerically strong, owns land, and has local power | It often controls rural economy and politics |
-| Land reform | State action to change land ownership and tenancy patterns | It aimed to reduce rural inequality |
-| Tenancy | Cultivation of land leased from a landowner | Tenants often have insecure rights and low income |
-| Land ceiling | Legal upper limit on land a family can own | Intended to redistribute surplus land |
-| Green Revolution | Agricultural modernisation through HYV seeds, fertilisers, pesticides, irrigation, and technology | It increased productivity but also deepened some inequalities |
-| Commercialisation of agriculture | Production mainly for market sale rather than self-consumption | It links farmers more closely to markets and risks |
-| Footloose labour | Migrant labourers moving from place to place for work | Shows insecurity of landless workers |
-| Contract farming | Farming under agreement with a company that supplies inputs and buys produce | It links farmers to global markets but may increase dependence |
-| Agrarian distress | Crisis in farming caused by debt, unstable markets, high input costs, and policy changes | Helps explain farmer suicides and rural insecurity |
+| Term                             | Meaning                                                                                           | Why it matters                                                 |
+| -------------------------------- | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| Agrarian society                 | Society in which land and agriculture are central to livelihood and social relations              | Rural India is deeply shaped by agrarian relations             |
+| Agrarian structure               | Distribution of land and organisation of agricultural production                                  | It determines class relations in rural areas                   |
+| Dominant caste                   | Caste that is numerically strong, owns land, and has local power                                  | It often controls rural economy and politics                   |
+| Land reform                      | State action to change land ownership and tenancy patterns                                        | It aimed to reduce rural inequality                            |
+| Tenancy                          | Cultivation of land leased from a landowner                                                       | Tenants often have insecure rights and low income              |
+| Land ceiling                     | Legal upper limit on land a family can own                                                        | Intended to redistribute surplus land                          |
+| Green Revolution                 | Agricultural modernisation through HYV seeds, fertilisers, pesticides, irrigation, and technology | It increased productivity but also deepened some inequalities  |
+| Commercialisation of agriculture | Production mainly for market sale rather than self-consumption                                    | It links farmers more closely to markets and risks             |
+| Footloose labour                 | Migrant labourers moving from place to place for work                                             | Shows insecurity of landless workers                           |
+| Contract farming                 | Farming under agreement with a company that supplies inputs and buys produce                      | It links farmers to global markets but may increase dependence |
+| Agrarian distress                | Crisis in farming caused by debt, unstable markets, high input costs, and policy changes          | Helps explain farmer suicides and rural insecurity             |
 
 ## 1. Rural India And Agriculture
 
@@ -644,4 +644,3 @@ The Green Revolution was a programme of agricultural modernisation based on high
 - Women perform major agricultural work but often lack land rights.
 - Liberalisation exposed farmers to global markets and private input companies.
 - Agrarian distress is linked to debt, high costs, unstable markets, and declining support.
-

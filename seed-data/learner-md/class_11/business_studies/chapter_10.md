@@ -33,25 +33,25 @@ By the end of this chapter, a learner should be able to:
 
 ## 3. Core Vocabulary
 
-| Term | Learner meaning |
-|---|---|
-| Trade | Buying and selling goods or services for profit |
-| Internal trade | Trade within the boundaries of one country |
-| External trade | Trade between two or more countries |
-| Wholesale trade | Buying and selling in large quantities for resale or intermediate use |
-| Retail trade | Buying and selling in small quantities to final consumers |
-| Wholesaler | Trader who buys in bulk and sells mainly to retailers or institutional users |
-| Retailer | Trader who sells directly to final consumers |
-| Itinerant retailer | Retailer without a fixed place of business |
-| Fixed shop retailer | Retailer with a permanent shop or establishment |
-| Departmental store | Large store with many departments under one roof |
-| Chain store | Network of similar retail shops under common control |
-| Mail order house | Retailer selling through mail without direct personal contact |
-| Consumer cooperative store | Store owned and controlled by consumers |
-| Supermarket | Large self-service store selling a wide variety of consumer goods |
-| Vending machine | Machine that sells goods or services automatically |
-| GST | Goods and Services Tax |
-| Chamber of Commerce | Association that promotes and protects business and industry interests |
+| Term                       | Learner meaning                                                              |
+| -------------------------- | ---------------------------------------------------------------------------- |
+| Trade                      | Buying and selling goods or services for profit                              |
+| Internal trade             | Trade within the boundaries of one country                                   |
+| External trade             | Trade between two or more countries                                          |
+| Wholesale trade            | Buying and selling in large quantities for resale or intermediate use        |
+| Retail trade               | Buying and selling in small quantities to final consumers                    |
+| Wholesaler                 | Trader who buys in bulk and sells mainly to retailers or institutional users |
+| Retailer                   | Trader who sells directly to final consumers                                 |
+| Itinerant retailer         | Retailer without a fixed place of business                                   |
+| Fixed shop retailer        | Retailer with a permanent shop or establishment                              |
+| Departmental store         | Large store with many departments under one roof                             |
+| Chain store                | Network of similar retail shops under common control                         |
+| Mail order house           | Retailer selling through mail without direct personal contact                |
+| Consumer cooperative store | Store owned and controlled by consumers                                      |
+| Supermarket                | Large self-service store selling a wide variety of consumer goods            |
+| Vending machine            | Machine that sells goods or services automatically                           |
+| GST                        | Goods and Services Tax                                                       |
+| Chamber of Commerce        | Association that promotes and protects business and industry interests       |
 
 ## 4. Big Picture of the Chapter
 
@@ -100,13 +100,13 @@ On the basis of geographical location of buyers and sellers, trade is divided in
 1. Internal trade.
 2. External trade.
 
-| Basis | Internal trade | External trade |
-|---|---|---|
-| Meaning | Buying and selling within one country | Buying and selling between countries |
-| Boundaries | Within national boundaries | Across national boundaries |
-| Currency | Usually domestic legal tender | May involve foreign currency |
-| Custom duty | Not involved as import duty | May involve import or export duties |
-| Example | Goods sold from a factory in Delhi to a retailer in Jaipur | Goods exported from India to another country |
+| Basis       | Internal trade                                             | External trade                               |
+| ----------- | ---------------------------------------------------------- | -------------------------------------------- |
+| Meaning     | Buying and selling within one country                      | Buying and selling between countries         |
+| Boundaries  | Within national boundaries                                 | Across national boundaries                   |
+| Currency    | Usually domestic legal tender                              | May involve foreign currency                 |
+| Custom duty | Not involved as import duty                                | May involve import or export duties          |
+| Example     | Goods sold from a factory in Delhi to a retailer in Jaipur | Goods exported from India to another country |
 
 ## 7. Meaning of Internal Trade
 
@@ -170,13 +170,13 @@ Internal trade is classified into:
 1. Wholesale trade.
 2. Retail trade.
 
-| Basis | Wholesale trade | Retail trade |
-|---|---|---|
-| Quantity | Large quantities | Small quantities |
-| Buyer | Retailers, institutions, industrial users | Final consumers |
-| Purpose | Resale or intermediate use | Personal or non-business use |
-| Link | Between producer and retailer | Between business and final consumer |
-| Example | Wholesaler buying 5,000 cartons from manufacturer | Consumer buying one packet from a shop |
+| Basis    | Wholesale trade                                   | Retail trade                           |
+| -------- | ------------------------------------------------- | -------------------------------------- |
+| Quantity | Large quantities                                  | Small quantities                       |
+| Buyer    | Retailers, institutions, industrial users         | Final consumers                        |
+| Purpose  | Resale or intermediate use                        | Personal or non-business use           |
+| Link     | Between producer and retailer                     | Between business and final consumer    |
+| Example  | Wholesaler buying 5,000 cartons from manufacturer | Consumer buying one packet from a shop |
 
 ## 12. Meaning of Wholesale Trade
 
@@ -805,12 +805,12 @@ Examples:
 
 ## 59. Itinerant Retailers Compared
 
-| Type | Place of operation | Movement | Goods or services |
-|---|---|---|---|
-| Peddlers and hawkers | Doorsteps, streets, busy places | Very frequent | Vegetables, toys, snacks, small goods |
-| Market traders | Weekly or periodic markets | Move by fixed market schedule | Garments, toys, crockery, daily-use goods |
-| Street traders | Railway stations, bus stands, pavements | Less frequent | Stationery, eatables, newspapers, garments |
-| Cheap jacks | Temporary shops in localities | Occasional shifting | Low-priced goods and repair services |
+| Type                 | Place of operation                      | Movement                      | Goods or services                          |
+| -------------------- | --------------------------------------- | ----------------------------- | ------------------------------------------ |
+| Peddlers and hawkers | Doorsteps, streets, busy places         | Very frequent                 | Vegetables, toys, snacks, small goods      |
+| Market traders       | Weekly or periodic markets              | Move by fixed market schedule | Garments, toys, crockery, daily-use goods  |
+| Street traders       | Railway stations, bus stands, pavements | Less frequent                 | Stationery, eatables, newspapers, garments |
+| Cheap jacks          | Temporary shops in localities           | Occasional shifting           | Low-priced goods and repair services       |
 
 ## 60. Fixed Shop Retailers
 
@@ -953,12 +953,12 @@ Single-line stores are different from speciality shops because they may deal in 
 
 ## 68. Single-Line Stores and Speciality Shops
 
-| Basis | Single-line store | Speciality shop |
-|---|---|---|
-| Focus | One broad line of goods | One specific product category or segment |
-| Variety | Many items within one line | Deep choice in a specialised segment |
-| Example | Shoe store | Sports shoe store |
-| Customer need | General need within one line | Specific need within a narrow area |
+| Basis         | Single-line store            | Speciality shop                          |
+| ------------- | ---------------------------- | ---------------------------------------- |
+| Focus         | One broad line of goods      | One specific product category or segment |
+| Variety       | Many items within one line   | Deep choice in a specialised segment     |
+| Example       | Shoe store                   | Sports shoe store                        |
+| Customer need | General need within one line | Specific need within a narrow area       |
 
 ## 69. Departmental Stores
 
@@ -1095,16 +1095,16 @@ Limitations:
 
 ## 80. Departmental Stores and Chain Stores Compared
 
-| Basis | Departmental store | Chain store or multiple shop |
-|---|---|---|
-| Location | Central city location | Many localities |
-| Product range | Very wide variety under one roof | Limited or standardised range |
-| Services | Many services and facilities | Limited services |
-| Pricing | May vary across departments | Fixed and uniform pricing |
-| Customers | Often higher-income customers | Broad customer groups |
-| Credit | May offer credit to regular customers | Usually cash sales |
-| Flexibility | Flexible product range | Less flexible product line |
-| Main appeal | All shopping under one roof | Standard goods near customer location |
+| Basis         | Departmental store                    | Chain store or multiple shop          |
+| ------------- | ------------------------------------- | ------------------------------------- |
+| Location      | Central city location                 | Many localities                       |
+| Product range | Very wide variety under one roof      | Limited or standardised range         |
+| Services      | Many services and facilities          | Limited services                      |
+| Pricing       | May vary across departments           | Fixed and uniform pricing             |
+| Customers     | Often higher-income customers         | Broad customer groups                 |
+| Credit        | May offer credit to regular customers | Usually cash sales                    |
+| Flexibility   | Flexible product range                | Less flexible product line            |
+| Main appeal   | All shopping under one roof           | Standard goods near customer location |
 
 ## 81. Mail Order Houses
 
@@ -1307,15 +1307,15 @@ Limitations:
 
 ## 96. Departmental Store and Supermarket Compared
 
-| Basis | Departmental store | Supermarket |
-|---|---|---|
-| Product range | Very wide, many departments | Mainly consumer goods and groceries |
-| Service level | High service | Self-service |
-| Credit | May provide credit | Usually cash sales |
-| Personal selling | More staff support | Limited staff persuasion |
-| Location | Central city location | Main shopping areas |
-| Cost | High operating cost | Lower selling cost but high setup cost |
-| Customer appeal | Service and variety | Convenience, variety, and price |
+| Basis            | Departmental store          | Supermarket                            |
+| ---------------- | --------------------------- | -------------------------------------- |
+| Product range    | Very wide, many departments | Mainly consumer goods and groceries    |
+| Service level    | High service                | Self-service                           |
+| Credit           | May provide credit          | Usually cash sales                     |
+| Personal selling | More staff support          | Limited staff persuasion               |
+| Location         | Central city location       | Main shopping areas                    |
+| Cost             | High operating cost         | Lower selling cost but high setup cost |
+| Customer appeal  | Service and variety         | Convenience, variety, and price        |
 
 ## 97. Vending Machines
 
@@ -1360,18 +1360,18 @@ Limitations:
 
 ## 100. Retail Formats Summary
 
-| Retail format | Main feature | Best suited for |
-|---|---|---|
-| General store | Daily-use variety near homes | Convenience goods |
-| Speciality shop | Narrow product specialisation | Specific customer needs |
-| Street stall | Small stall in busy area | Low-priced items |
-| Second-hand shop | Used goods | Budget buyers or antique buyers |
-| Departmental store | Many departments under one roof | Wide shopping and services |
-| Chain store | Similar shops under common control | Standardised branded goods |
-| Mail order house | Selling through mail | Standardised goods easy to describe |
-| Consumer cooperative store | Consumer-owned store | Member welfare and fair prices |
-| Supermarket | Self-service large retailing | Food and consumer goods |
-| Vending machine | Automatic selling | Pre-packed low-priced goods |
+| Retail format              | Main feature                       | Best suited for                     |
+| -------------------------- | ---------------------------------- | ----------------------------------- |
+| General store              | Daily-use variety near homes       | Convenience goods                   |
+| Speciality shop            | Narrow product specialisation      | Specific customer needs             |
+| Street stall               | Small stall in busy area           | Low-priced items                    |
+| Second-hand shop           | Used goods                         | Budget buyers or antique buyers     |
+| Departmental store         | Many departments under one roof    | Wide shopping and services          |
+| Chain store                | Similar shops under common control | Standardised branded goods          |
+| Mail order house           | Selling through mail               | Standardised goods easy to describe |
+| Consumer cooperative store | Consumer-owned store               | Member welfare and fair prices      |
+| Supermarket                | Self-service large retailing       | Food and consumer goods             |
+| Vending machine            | Automatic selling                  | Pre-packed low-priced goods         |
 
 ## 101. Goods and Services Tax in the Textbook Context
 
@@ -1433,10 +1433,10 @@ Input tax credit helps avoid repeated taxation on the same value.
 
 The chapter uses the following terms:
 
-| Term | Meaning |
-|---|---|
-| CGST | Central Goods and Services Tax |
-| SGST | State Goods and Services Tax |
+| Term | Meaning                           |
+| ---- | --------------------------------- |
+| CGST | Central Goods and Services Tax    |
+| SGST | State Goods and Services Tax      |
 | IGST | Integrated Goods and Services Tax |
 
 Textbook explanation:
@@ -1620,17 +1620,17 @@ Commerce and industry associations interact with government on issues such as:
 
 ## 120. Commerce Association Role Summary
 
-| Area | How associations help internal trade |
-|---|---|
-| Interstate movement | Support transport policies and road development |
-| Local levies | Work against barriers to smooth trade |
-| Tax structure | Support harmonisation and simplicity |
-| Agro marketing | Improve agricultural marketing systems |
-| Weights and measures | Support fairness and consumer protection |
-| Brand protection | Help prevent duplicate brands |
-| Excise policy | Represent business concerns on duties |
-| Infrastructure | Encourage roads, railways, ports, and power |
-| Labour laws | Support workable industrial relations |
+| Area                 | How associations help internal trade            |
+| -------------------- | ----------------------------------------------- |
+| Interstate movement  | Support transport policies and road development |
+| Local levies         | Work against barriers to smooth trade           |
+| Tax structure        | Support harmonisation and simplicity            |
+| Agro marketing       | Improve agricultural marketing systems          |
+| Weights and measures | Support fairness and consumer protection        |
+| Brand protection     | Help prevent duplicate brands                   |
+| Excise policy        | Represent business concerns on duties           |
+| Infrastructure       | Encourage roads, railways, ports, and power     |
+| Labour laws          | Support workable industrial relations           |
 
 ## 121. Internal Trade Flow Example
 
@@ -1676,16 +1676,16 @@ Retailers make goods accessible to final consumers.
 
 ## 124. Common Student Confusions
 
-| Confusion | Correct understanding |
-|---|---|
-| Internal trade means only retail shops | It includes wholesale and retail trade within a country |
-| Wholesalers sell mainly to consumers | Wholesalers sell mainly to retailers and other users |
-| Retailers always sell from shops | Retailing may happen through stalls, machines, mail, or door-to-door methods |
-| Itinerant retailers are fixed | Itinerant retailers move from place to place |
+| Confusion                                        | Correct understanding                                                                                          |
+| ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
+| Internal trade means only retail shops           | It includes wholesale and retail trade within a country                                                        |
+| Wholesalers sell mainly to consumers             | Wholesalers sell mainly to retailers and other users                                                           |
+| Retailers always sell from shops                 | Retailing may happen through stalls, machines, mail, or door-to-door methods                                   |
+| Itinerant retailers are fixed                    | Itinerant retailers move from place to place                                                                   |
 | Departmental store and supermarket are identical | Departmental stores emphasise departments and services; supermarkets emphasise self-service and consumer goods |
-| Chain store means one large shop | Chain store means many similar shops under common ownership |
-| Mail order house suits all products | It suits standardised, easy-to-transport goods |
-| GST is origin-based | The chapter explains GST as destination-based consumption tax |
+| Chain store means one large shop                 | Chain store means many similar shops under common ownership                                                    |
+| Mail order house suits all products              | It suits standardised, easy-to-transport goods                                                                 |
+| GST is origin-based                              | The chapter explains GST as destination-based consumption tax                                                  |
 
 ## 125. Exam Answer: Meaning of Internal Trade
 
@@ -1859,38 +1859,38 @@ Model points:
 
 ## 145. Comparison: Wholesale and Retail Trade
 
-| Basis | Wholesale trade | Retail trade |
-|---|---|---|
-| Quantity | Large | Small |
-| Buyer | Retailers, institutions, industrial users | Final consumers |
-| Purpose | Resale or intermediate use | Personal consumption |
-| Capital | Usually higher | May be low, medium, or high |
-| Location | Often warehouses or wholesale markets | Near consumers |
-| Contact with consumer | Usually indirect | Direct |
-| Main role | Link between producer and retailer | Link between business and consumer |
+| Basis                 | Wholesale trade                           | Retail trade                       |
+| --------------------- | ----------------------------------------- | ---------------------------------- |
+| Quantity              | Large                                     | Small                              |
+| Buyer                 | Retailers, institutions, industrial users | Final consumers                    |
+| Purpose               | Resale or intermediate use                | Personal consumption               |
+| Capital               | Usually higher                            | May be low, medium, or high        |
+| Location              | Often warehouses or wholesale markets     | Near consumers                     |
+| Contact with consumer | Usually indirect                          | Direct                             |
+| Main role             | Link between producer and retailer        | Link between business and consumer |
 
 ## 146. Comparison: Itinerant and Fixed Shop Retailers
 
-| Basis | Itinerant retailer | Fixed shop retailer |
-|---|---|---|
-| Place | No fixed place | Permanent place |
-| Scale | Small | Small to large |
-| Resources | Limited | More than itinerant retailers |
-| Goods | Daily-use, low-value goods | Durable and non-durable goods |
-| Customer service | Doorstep or convenient place | More services possible |
-| Credibility | Lower | Higher |
-| Examples | Hawker, peddler, market trader | General store, supermarket, departmental store |
+| Basis            | Itinerant retailer             | Fixed shop retailer                            |
+| ---------------- | ------------------------------ | ---------------------------------------------- |
+| Place            | No fixed place                 | Permanent place                                |
+| Scale            | Small                          | Small to large                                 |
+| Resources        | Limited                        | More than itinerant retailers                  |
+| Goods            | Daily-use, low-value goods     | Durable and non-durable goods                  |
+| Customer service | Doorstep or convenient place   | More services possible                         |
+| Credibility      | Lower                          | Higher                                         |
+| Examples         | Hawker, peddler, market trader | General store, supermarket, departmental store |
 
 ## 147. Comparison: Departmental Store, Supermarket, and Chain Store
 
-| Basis | Departmental store | Supermarket | Chain store |
-|---|---|---|---|
-| Main idea | Many departments under one roof | Self-service consumer goods store | Many similar shops under one organisation |
-| Service | High | Limited personal service | Limited and standardised |
-| Product range | Very wide | Wide but mainly consumer goods | Limited or standardised |
-| Location | Central | Shopping centres | Many localities |
-| Credit | Possible | Usually no | Usually no |
-| Management | Central administration with departments | Store management | Head office and branch managers |
+| Basis         | Departmental store                      | Supermarket                       | Chain store                               |
+| ------------- | --------------------------------------- | --------------------------------- | ----------------------------------------- |
+| Main idea     | Many departments under one roof         | Self-service consumer goods store | Many similar shops under one organisation |
+| Service       | High                                    | Limited personal service          | Limited and standardised                  |
+| Product range | Very wide                               | Wide but mainly consumer goods    | Limited or standardised                   |
+| Location      | Central                                 | Shopping centres                  | Many localities                           |
+| Credit        | Possible                                | Usually no                        | Usually no                                |
+| Management    | Central administration with departments | Store management                  | Head office and branch managers           |
 
 ## 148. Memory Map
 
@@ -1955,35 +1955,35 @@ Internal trade
 
 ## 151. Glossary
 
-| Term | Meaning |
-|---|---|
-| After-sales service | Service given after sale, such as repair or installation |
-| Cash on delivery | Payment made when goods are delivered |
-| Chain store | Network of retail shops under common control |
-| Cheap jack | Petty retailer with temporary shop in a business locality |
-| CIF | Cost, insurance and freight |
-| COD | Cash on delivery |
-| Consumer cooperative store | Store owned and controlled by consumers |
-| Departmental store | Large store with different departments under one roof |
-| E&OE | Errors and omissions excepted |
-| Fixed shop retailer | Retailer with permanent place of business |
-| FoB | Free on Board |
-| FOR | Free on Rail |
-| General store | Local shop selling daily-use goods |
-| GST | Goods and Services Tax |
-| Hawker | Mobile seller who moves from place to place |
-| Internal trade | Trade within national boundaries |
-| Itinerant retailer | Retailer without fixed business place |
-| Mail order house | Retail outlet selling through mail |
-| Market trader | Retailer selling at different places on fixed market days |
-| Place utility | Availability of goods where needed |
-| Retail trade | Sale to final consumers |
-| Speciality shop | Shop specialising in a specific product category |
-| Supermarket | Large self-service retail store |
-| Time utility | Availability of goods when needed |
-| Vending machine | Machine that sells products automatically |
-| Wholesale trade | Purchase and sale in bulk for resale or intermediate use |
-| Wholesaler | Bulk trader selling mainly to retailers or institutional users |
+| Term                       | Meaning                                                        |
+| -------------------------- | -------------------------------------------------------------- |
+| After-sales service        | Service given after sale, such as repair or installation       |
+| Cash on delivery           | Payment made when goods are delivered                          |
+| Chain store                | Network of retail shops under common control                   |
+| Cheap jack                 | Petty retailer with temporary shop in a business locality      |
+| CIF                        | Cost, insurance and freight                                    |
+| COD                        | Cash on delivery                                               |
+| Consumer cooperative store | Store owned and controlled by consumers                        |
+| Departmental store         | Large store with different departments under one roof          |
+| E&OE                       | Errors and omissions excepted                                  |
+| Fixed shop retailer        | Retailer with permanent place of business                      |
+| FoB                        | Free on Board                                                  |
+| FOR                        | Free on Rail                                                   |
+| General store              | Local shop selling daily-use goods                             |
+| GST                        | Goods and Services Tax                                         |
+| Hawker                     | Mobile seller who moves from place to place                    |
+| Internal trade             | Trade within national boundaries                               |
+| Itinerant retailer         | Retailer without fixed business place                          |
+| Mail order house           | Retail outlet selling through mail                             |
+| Market trader              | Retailer selling at different places on fixed market days      |
+| Place utility              | Availability of goods where needed                             |
+| Retail trade               | Sale to final consumers                                        |
+| Speciality shop            | Shop specialising in a specific product category               |
+| Supermarket                | Large self-service retail store                                |
+| Time utility               | Availability of goods when needed                              |
+| Vending machine            | Machine that sells products automatically                      |
+| Wholesale trade            | Purchase and sale in bulk for resale or intermediate use       |
+| Wholesaler                 | Bulk trader selling mainly to retailers or institutional users |
 
 ## 152. Final Revision Sheet
 

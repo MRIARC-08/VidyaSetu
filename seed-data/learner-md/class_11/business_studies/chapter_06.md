@@ -96,14 +96,14 @@ Social responsibility is wider. It includes legal responsibility but also includ
 
 ### 7.1 Difference Between Legal and Social Responsibility
 
-| Basis | Legal responsibility | Social responsibility |
-|---|---|---|
-| Meaning | Duty to obey law | Duty to act according to social values and expectations |
-| Scope | Narrower | Wider |
-| Nature | Compulsory | Partly compulsory, partly voluntary |
-| Enforced by | Courts, regulators, government | Society, conscience, public opinion, long-term business interest |
-| Example | Paying tax as required by law | Paying tax honestly and also supporting community welfare |
-| Minimum or higher standard | Minimum legal standard | Higher social and ethical standard |
+| Basis                      | Legal responsibility           | Social responsibility                                            |
+| -------------------------- | ------------------------------ | ---------------------------------------------------------------- |
+| Meaning                    | Duty to obey law               | Duty to act according to social values and expectations          |
+| Scope                      | Narrower                       | Wider                                                            |
+| Nature                     | Compulsory                     | Partly compulsory, partly voluntary                              |
+| Enforced by                | Courts, regulators, government | Society, conscience, public opinion, long-term business interest |
+| Example                    | Paying tax as required by law  | Paying tax honestly and also supporting community welfare        |
+| Minimum or higher standard | Minimum legal standard         | Higher social and ethical standard                               |
 
 ## 8. Why Social Responsibility Is an Ethical Issue
 
@@ -850,36 +850,36 @@ It performs discretionary responsibility because the action is voluntary and sup
 
 ## 75. Common Mistakes and Corrections
 
-| Mistake | Correct understanding |
-|---|---|
-| Social responsibility means charity only | It includes responsibilities toward all stakeholders and environment |
-| Legal compliance is enough | Social responsibility goes beyond law |
-| Ethics and law are the same | Ethics is wider and may demand more than law |
+| Mistake                                   | Correct understanding                                                 |
+| ----------------------------------------- | --------------------------------------------------------------------- |
+| Social responsibility means charity only  | It includes responsibilities toward all stakeholders and environment  |
+| Legal compliance is enough                | Social responsibility goes beyond law                                 |
+| Ethics and law are the same               | Ethics is wider and may demand more than law                          |
 | Pollution control is only government duty | Business, government, consumers, and society all share responsibility |
-| Profit and ethics cannot go together | Ethics supports long-term trust and profit |
-| CSR is only for publicity | CSR should create genuine social and environmental value |
-| Consumers only need low prices | Consumers also need quality, safety, information, and fair treatment |
-| Workers are only a cost | Workers are stakeholders with rights and dignity |
+| Profit and ethics cannot go together      | Ethics supports long-term trust and profit                            |
+| CSR is only for publicity                 | CSR should create genuine social and environmental value              |
+| Consumers only need low prices            | Consumers also need quality, safety, information, and fair treatment  |
+| Workers are only a cost                   | Workers are stakeholders with rights and dignity                      |
 
 ## 76. Glossary
 
-| Term | Meaning |
-|---|---|
-| Social responsibility | Duty of business to act according to society's values and objectives |
-| Legal responsibility | Duty to obey law |
-| Ethical responsibility | Duty to follow moral expectations of society |
-| Discretionary responsibility | Voluntary social duty accepted by business |
-| CSR | Corporate Social Responsibility |
-| Environment | Totality of human surroundings |
-| Pollution | Introduction of harmful substances into environment |
-| Air pollution | Degradation of air quality |
-| Water pollution | Degradation of water quality |
-| Land pollution | Damage to land through toxic waste or harmful dumping |
-| Noise pollution | Harmful or excessive sound |
-| Environmental protection | Steps to protect natural and man-made surroundings |
-| Business ethics | Moral principles governing business conduct |
-| Code of ethics | Written principles of ethical conduct |
-| Compliance mechanism | System to ensure rules and ethics are followed |
+| Term                         | Meaning                                                              |
+| ---------------------------- | -------------------------------------------------------------------- |
+| Social responsibility        | Duty of business to act according to society's values and objectives |
+| Legal responsibility         | Duty to obey law                                                     |
+| Ethical responsibility       | Duty to follow moral expectations of society                         |
+| Discretionary responsibility | Voluntary social duty accepted by business                           |
+| CSR                          | Corporate Social Responsibility                                      |
+| Environment                  | Totality of human surroundings                                       |
+| Pollution                    | Introduction of harmful substances into environment                  |
+| Air pollution                | Degradation of air quality                                           |
+| Water pollution              | Degradation of water quality                                         |
+| Land pollution               | Damage to land through toxic waste or harmful dumping                |
+| Noise pollution              | Harmful or excessive sound                                           |
+| Environmental protection     | Steps to protect natural and man-made surroundings                   |
+| Business ethics              | Moral principles governing business conduct                          |
+| Code of ethics               | Written principles of ethical conduct                                |
+| Compliance mechanism         | System to ensure rules and ethics are followed                       |
 
 ## 77. Final Revision Sheet
 

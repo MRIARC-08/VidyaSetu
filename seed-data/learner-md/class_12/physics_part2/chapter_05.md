@@ -1,4 +1,5 @@
 # Chapter 5: Nuclei
+
 ### NCERT Class 12 - Physics Part 2
 
 ## Chapter at a Glance
@@ -26,43 +27,43 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Atomic mass unit | `1/12` of mass of a carbon-12 atom. |
-| Proton | Positively charged nucleon. |
-| Neutron | Neutral nucleon. |
-| Nucleon | Common name for proton or neutron. |
-| Atomic number | Number of protons in nucleus, denoted `Z`. |
-| Neutron number | Number of neutrons, denoted `N`. |
-| Mass number | Total number of nucleons, `A = Z + N`. |
-| Isotopes | Nuclides with same `Z` but different `N`. |
-| Isobars | Nuclides with same `A` but different `Z`. |
-| Isotones | Nuclides with same `N` but different `Z`. |
-| Mass defect | Difference between mass of separated nucleons and actual nuclear mass. |
-| Binding energy | Energy required to separate nucleus into free nucleons. |
-| Radioactivity | Spontaneous decay of unstable nuclei. |
-| Fission | Splitting of a heavy nucleus into lighter nuclei. |
-| Fusion | Combining of light nuclei to form a heavier nucleus. |
+| Term             | Meaning                                                                |
+| ---------------- | ---------------------------------------------------------------------- |
+| Atomic mass unit | `1/12` of mass of a carbon-12 atom.                                    |
+| Proton           | Positively charged nucleon.                                            |
+| Neutron          | Neutral nucleon.                                                       |
+| Nucleon          | Common name for proton or neutron.                                     |
+| Atomic number    | Number of protons in nucleus, denoted `Z`.                             |
+| Neutron number   | Number of neutrons, denoted `N`.                                       |
+| Mass number      | Total number of nucleons, `A = Z + N`.                                 |
+| Isotopes         | Nuclides with same `Z` but different `N`.                              |
+| Isobars          | Nuclides with same `A` but different `Z`.                              |
+| Isotones         | Nuclides with same `N` but different `Z`.                              |
+| Mass defect      | Difference between mass of separated nucleons and actual nuclear mass. |
+| Binding energy   | Energy required to separate nucleus into free nucleons.                |
+| Radioactivity    | Spontaneous decay of unstable nuclei.                                  |
+| Fission          | Splitting of a heavy nucleus into lighter nuclei.                      |
+| Fusion           | Combining of light nuclei to form a heavier nucleus.                   |
 
 ## Quick Formula Map
 
-| Idea | Formula |
-|---|---|
-| Mass number | `A = Z + N` |
-| Atomic mass unit | `1 u = 1.6605 x 10^-27 kg` |
-| Energy equivalent of 1 u | `1 u = 931.5 MeV/c^2` |
-| Mass-energy relation | `E = mc^2` |
-| Nuclear radius | `R = R0 A^(1/3)` |
-| Nuclear radius constant | `R0 = 1.2 x 10^-15 m` |
-| Nuclear volume | `V = (4/3) pi R^3` |
-| Mass defect | `Delta M = Zmp + (A - Z)mn - M` |
-| Binding energy | `Eb = Delta M c^2` |
-| Binding energy per nucleon | `Eb/A` |
-| Radioactive decay law | `N = N0 e^(-lambda t)` |
-| Decay rate | `R = lambda N` |
-| Half-life | `T1/2 = 0.693/lambda` |
-| Mean life | `tau = 1/lambda` |
-| Q value | `Q = (sum initial masses - sum final masses)c^2` |
+| Idea                       | Formula                                          |
+| -------------------------- | ------------------------------------------------ |
+| Mass number                | `A = Z + N`                                      |
+| Atomic mass unit           | `1 u = 1.6605 x 10^-27 kg`                       |
+| Energy equivalent of 1 u   | `1 u = 931.5 MeV/c^2`                            |
+| Mass-energy relation       | `E = mc^2`                                       |
+| Nuclear radius             | `R = R0 A^(1/3)`                                 |
+| Nuclear radius constant    | `R0 = 1.2 x 10^-15 m`                            |
+| Nuclear volume             | `V = (4/3) pi R^3`                               |
+| Mass defect                | `Delta M = Zmp + (A - Z)mn - M`                  |
+| Binding energy             | `Eb = Delta M c^2`                               |
+| Binding energy per nucleon | `Eb/A`                                           |
+| Radioactive decay law      | `N = N0 e^(-lambda t)`                           |
+| Decay rate                 | `R = lambda N`                                   |
+| Half-life                  | `T1/2 = 0.693/lambda`                            |
+| Mean life                  | `tau = 1/lambda`                                 |
+| Q value                    | `Q = (sum initial masses - sum final masses)c^2` |
 
 # Unit 5A: Composition of Nucleus
 
@@ -540,16 +541,16 @@ A radioactive isotope has decay constant `2 x 10^-4 s^-1`. Find half-life.
 
 # Unit 5S: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Treating atomic number as number of neutrons. | Atomic number `Z` is number of protons. |
-| Forgetting `A = Z + N`. | Neutron number is `N = A - Z`. |
-| Saying isotopes have different atomic number. | Isotopes have same `Z`, different `N`. |
-| Using mass defect with wrong sign. | Mass defect is free nucleon mass minus actual nuclear mass. |
-| Thinking high binding energy means easy to break. | High binding energy means more energy needed to break nucleus. |
-| Saying gamma decay changes `A` or `Z`. | Gamma decay changes energy state, not `A` or `Z`. |
+| Mistake                                            | Correction                                                      |
+| -------------------------------------------------- | --------------------------------------------------------------- |
+| Treating atomic number as number of neutrons.      | Atomic number `Z` is number of protons.                         |
+| Forgetting `A = Z + N`.                            | Neutron number is `N = A - Z`.                                  |
+| Saying isotopes have different atomic number.      | Isotopes have same `Z`, different `N`.                          |
+| Using mass defect with wrong sign.                 | Mass defect is free nucleon mass minus actual nuclear mass.     |
+| Thinking high binding energy means easy to break.  | High binding energy means more energy needed to break nucleus.  |
+| Saying gamma decay changes `A` or `Z`.             | Gamma decay changes energy state, not `A` or `Z`.               |
 | Assuming fusion occurs easily at room temperature. | Fusion needs very high temperature to overcome Coulomb barrier. |
-| Mixing chemical and nuclear energy scales. | Nuclear energies are about a million times larger. |
+| Mixing chemical and nuclear energy scales.         | Nuclear energies are about a million times larger.              |
 
 ## Practice Set
 

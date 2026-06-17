@@ -1,4 +1,5 @@
 # Chapter 14: Aunt Jennifer's Tigers
+
 ### NCERT Class 12 - English Flamingo
 
 ## Chapter at a Glance
@@ -21,15 +22,15 @@ By the end of this poem, you should be able to:
 
 ## Key Facts
 
-| Element | Detail |
-|---|---|
-| Poet | Adrienne Rich |
-| Form | Short lyric poem |
-| Central figure | Aunt Jennifer |
-| Central symbol | Tigers |
-| Major theme | Patriarchal oppression and imagined freedom |
-| Tone | Controlled, sympathetic, critical |
-| Main contrast | Fearful woman vs fearless artistic creation |
+| Element        | Detail                                      |
+| -------------- | ------------------------------------------- |
+| Poet           | Adrienne Rich                               |
+| Form           | Short lyric poem                            |
+| Central figure | Aunt Jennifer                               |
+| Central symbol | Tigers                                      |
+| Major theme    | Patriarchal oppression and imagined freedom |
+| Tone           | Controlled, sympathetic, critical           |
+| Main contrast  | Fearful woman vs fearless artistic creation |
 
 # Unit 14A: Central Situation
 
@@ -94,14 +95,14 @@ Art becomes:
 
 # Unit 14F: Major Contrast
 
-| Aunt Jennifer | Tigers |
-|---|---|
-| Fearful | Fearless |
-| Burdened | Free |
-| Physically weak | Energetic |
-| Socially trapped | Uncontrolled |
+| Aunt Jennifer       | Tigers                |
+| ------------------- | --------------------- |
+| Fearful             | Fearless              |
+| Burdened            | Free                  |
+| Physically weak     | Energetic             |
+| Socially trapped    | Uncontrolled          |
 | Human and temporary | Artistic and enduring |
-| Silent suffering | Visual power |
+| Silent suffering    | Visual power          |
 
 This contrast drives the poem's emotional force.
 
@@ -121,14 +122,14 @@ Aunt Jennifer's oppression is not described through a long story. It is suggeste
 
 # Unit 14H: Poetic Devices
 
-| Device | Effect |
-|---|---|
-| Symbolism | Tigers and wedding band carry deep meaning |
-| Contrast | Highlights gap between art and life |
-| Imagery | Makes tigers vivid and Aunt Jennifer fragile |
-| Irony | The oppressed woman creates fearless creatures |
-| Alliteration | Adds musical emphasis |
-| Rhyme | Gives controlled structure against emotional tension |
+| Device       | Effect                                               |
+| ------------ | ---------------------------------------------------- |
+| Symbolism    | Tigers and wedding band carry deep meaning           |
+| Contrast     | Highlights gap between art and life                  |
+| Imagery      | Makes tigers vivid and Aunt Jennifer fragile         |
+| Irony        | The oppressed woman creates fearless creatures       |
+| Alliteration | Adds musical emphasis                                |
+| Rhyme        | Gives controlled structure against emotional tension |
 
 # Unit 14I: Tone
 
@@ -171,13 +172,13 @@ This is both tragic and hopeful:
 
 # Unit 14M: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Saying the poem is about real tigers only | Tigers are symbolic creations in art. |
-| Treating Aunt Jennifer as simply timid | Her fear is produced by oppressive structures. |
-| Reading wedding band only as love | Here it symbolises burden and control. |
-| Missing the role of art | Art expresses freedom denied in life. |
-| Calling the ending fully happy | It is both tragic and quietly hopeful. |
+| Mistake                                   | Correction                                     |
+| ----------------------------------------- | ---------------------------------------------- |
+| Saying the poem is about real tigers only | Tigers are symbolic creations in art.          |
+| Treating Aunt Jennifer as simply timid    | Her fear is produced by oppressive structures. |
+| Reading wedding band only as love         | Here it symbolises burden and control.         |
+| Missing the role of art                   | Art expresses freedom denied in life.          |
+| Calling the ending fully happy            | It is both tragic and quietly hopeful.         |
 
 ## Practice Set
 

@@ -1,20 +1,21 @@
 # Chapter 2: Physical Features of India
+
 ### NCERT Class 9 — Social Geography
 
 ---
 
 ## 📌 Chapter at a Glance
 
-| Detail | Info |
-|---|---|
-| Chapter | 2 — Physical Features of India |
-| Class | Class 9 |
-| Subject | Social Geography |
-| Pilot Subject Family | Geography |
-| Source File | `data/class_9/social_geography/chapter_02.md` |
-| Textbook Pages | 1 – 10 |
-| Raw Exercise Count | 3 |
-| Formatting Mode | Human-guided pilot for subject-specific automation |
+| Detail               | Info                                               |
+| -------------------- | -------------------------------------------------- |
+| Chapter              | 2 — Physical Features of India                     |
+| Class                | Class 9                                            |
+| Subject              | Social Geography                                   |
+| Pilot Subject Family | Geography                                          |
+| Source File          | `data/class_9/social_geography/chapter_02.md`      |
+| Textbook Pages       | 1 – 10                                             |
+| Raw Exercise Count   | 3                                                  |
+| Formatting Mode      | Human-guided pilot for subject-specific automation |
 
 ---
 
@@ -23,52 +24,52 @@
 > [!NOTE]
 > Study this chapter through this route: **place -> distribution -> process -> human-environment relation -> map/data interpretation**.
 
-| Step | Learner Action | Why It Matters |
-|---|---|---|
-| 1 | Mark every place, region, river, resource, or climatic zone on a map where possible. | Builds reliable recall and answer quality. |
-| 2 | Convert classifications into tables. | Builds reliable recall and answer quality. |
-| 3 | Distinguish natural processes from human causes and impacts. | Builds reliable recall and answer quality. |
-| 4 | Use data tables to compare regions rather than memorising isolated values. | Builds reliable recall and answer quality. |
+| Step | Learner Action                                                                       | Why It Matters                             |
+| ---- | ------------------------------------------------------------------------------------ | ------------------------------------------ |
+| 1    | Mark every place, region, river, resource, or climatic zone on a map where possible. | Builds reliable recall and answer quality. |
+| 2    | Convert classifications into tables.                                                 | Builds reliable recall and answer quality. |
+| 3    | Distinguish natural processes from human causes and impacts.                         | Builds reliable recall and answer quality. |
+| 4    | Use data tables to compare regions rather than memorising isolated values.           | Builds reliable recall and answer quality. |
 
 ---
 
 ## 🎯 Learning Outcomes
 
-| # | After studying this chapter, you should be able to... |
-|---|---|
-| 1 | describe places, distributions, resources, and human-environment relationships |
-| 2 | read maps, tables, and regional comparisons with purpose |
-| 3 | explain causes, processes, impacts, and planning responses |
+| #   | After studying this chapter, you should be able to...                          |
+| --- | ------------------------------------------------------------------------------ |
+| 1   | describe places, distributions, resources, and human-environment relationships |
+| 2   | read maps, tables, and regional comparisons with purpose                       |
+| 3   | explain causes, processes, impacts, and planning responses                     |
 
 ---
 
 ## 🗂️ Section Structure
 
-| Section | Title | Revision Focus |
-|---|---|---|
-| Intro | Core chapter narrative | Definition, explanation, examples, and likely questions |
+| Section | Title                  | Revision Focus                                          |
+| ------- | ---------------------- | ------------------------------------------------------- |
+| Intro   | Core chapter narrative | Definition, explanation, examples, and likely questions |
 
 ---
 
 ## 🧠 Subject-Specific Study Method
 
-| Part | How to Use It |
-|---|---|
-| Core lens | place -> distribution -> process -> human-environment relation -> map/data interpretation |
-| First pass | Read for meaning and mark unfamiliar terms. |
-| Second pass | Convert definitions, examples, data, and activities into tables. |
-| Revision pass | Use the quick reference and practice tracker at the end. |
+| Part          | How to Use It                                                                             |
+| ------------- | ----------------------------------------------------------------------------------------- |
+| Core lens     | place -> distribution -> process -> human-environment relation -> map/data interpretation |
+| First pass    | Read for meaning and mark unfamiliar terms.                                               |
+| Second pass   | Convert definitions, examples, data, and activities into tables.                          |
+| Revision pass | Use the quick reference and practice tracker at the end.                                  |
 
 ---
 
 ## 🧭 Concept, Evidence, and Example Board
 
-| Learning Need | How To Build It |
-|---|---|
-| Core concepts | Turn each definition into a one-line meaning and one example. |
-| Evidence | Use dates, places, maps, data, thinkers, laws, institutions, or case studies from the chapter. |
-| Comparison | Prepare tables for contrasts, causes, consequences, and viewpoints. |
-| Answer quality | Move from description to explanation to significance. |
+| Learning Need  | How To Build It                                                                                |
+| -------------- | ---------------------------------------------------------------------------------------------- |
+| Core concepts  | Turn each definition into a one-line meaning and one example.                                  |
+| Evidence       | Use dates, places, maps, data, thinkers, laws, institutions, or case studies from the chapter. |
+| Comparison     | Prepare tables for contrasts, causes, consequences, and viewpoints.                            |
+| Answer quality | Move from description to explanation to significance.                                          |
 
 ---
 
@@ -90,6 +91,7 @@ The altitudinal variations are greater in the eastern half than those in the wes
 Everest Nepal 8848 Kanchenjunga India 8598 Makalu Nepal 8481 Dhaulagiri Nepal 8172 Nanga Parbat India 8126 Annapurna Nepal 8078 Nanda Devi India 7817 Kamet India 7756 Namcha Barwa India 7756 Gurla Mandhata Nepal 7728 The folds of the Great Himalayas are asymmetrical in nature. The core of this part of Himalayas is composed of granite. It is perennially snow bound, and a number of glaciers descend from this range. Figure 2.1 : Himalayas The range lying to the south of the Himadri forms the most rugged mountain system and is known as Himachal or lesser Himalaya. The ranges are mainly composed of highly compressed and altered rocks. The altitude varies between 3,700 and 4,500 metres and the average width is of 50 Km.
 
 While the Pir Panjal range forms the longest and the most important range, the Dhaula Dhar and the Mahabharat ranges are also prominent ones. This range consists of the famous valley of Kashmir, the Kangra and Kullu V alley in Himachal Pradesh. This region is well-known for its hill stations.
+
 - The names of the glaciers and passes that lie in the Great Himalayas.
 - The name of the states where the highest peaks are located.
 - Location of Mussoorie, Nainital, Ranikhet from your atlas and also name the state where they are located. The outer-most range of the Himalayas is called the Shiwaliks. They extend over a width Reprint 2025-26 PHYSICAL FEATURES OF INDIA 9 Figure 2.2 : Relief Reprint 2025-26 10 CONTEMPORARY INDIA-I Figure 2.3 : The Himalayas Figure 2.4 : Mizo Hills of 10-50 Km and have an altitude varying between 900 and 1100 metres. These ranges are composed of unconsolidated sediments brought down by rivers from the main Himalayan ranges located farther north. These valleys are covered with thick gravel and alluvium. The longitudinal valley lying between lesser Himalaya and the Shiwaliks are known as Duns. Dehra Dun, Kotli Dun and Patli Dun are some of the well-known Duns.
@@ -134,30 +136,30 @@ The coastal region and island groups provide sites for fishing and port activiti
 
 1. Choose the right answer from the four alternatives given below.
 
- - (i) A landmass bounded by sea on three sides is referred to as
- - (a) Coast (c) Peninsula
- - (b) Island (d) None of the above
-(ii) Mountain ranges in the eastern part of India forming its boundary with Myanmar are collectively called
+- (i) A landmass bounded by sea on three sides is referred to as
+- (a) Coast (c) Peninsula
+- (b) Island (d) None of the above
+  (ii) Mountain ranges in the eastern part of India forming its boundary with Myanmar are collectively called
 
- - (a) Himachal (c) Purvachal
- - (b) Uttarakhand (d) None of the above
-(iii) The western coastal strip, south of Goa is referred to as
+- (a) Himachal (c) Purvachal
+- (b) Uttarakhand (d) None of the above
+  (iii) The western coastal strip, south of Goa is referred to as
 
- - (a) Coromandel (c) Kannad
- - (b) Konkan (d) Northern Circar
-(iv) The highest peak in the Eastern Ghats is
+- (a) Coromandel (c) Kannad
+- (b) Konkan (d) Northern Circar
+  (iv) The highest peak in the Eastern Ghats is
 
- - (a) Anai Mudi (c) Mahendragiri
- - (b) Kanchenjunga (d) Khasi
-2 Answer the following questions briefly.
+- (a) Anai Mudi (c) Mahendragiri
+- (b) Kanchenjunga (d) Khasi
+  2 Answer the following questions briefly.
 
- - (i) What is the bhabar?
-(ii) Name the three major divisions of the Himalayas from north to south. (iii) Which plateau lies between the Aravali and the Vindhyan ranges? (iv) Name the island group of India having coral origin.
+- (i) What is the bhabar?
+  (ii) Name the three major divisions of the Himalayas from north to south. (iii) Which plateau lies between the Aravali and the Vindhyan ranges? (iv) Name the island group of India having coral origin.
 
 3. Distinguish between
 
- - (i) Bhangar and Khadar
-(ii) Western Ghats and Easter n Ghats
+- (i) Bhangar and Khadar
+  (ii) Western Ghats and Easter n Ghats
 
 4. Which are the major physiographic divisions of India? Contrast the relief of the
 
@@ -167,25 +169,25 @@ Himalayan region with that of the Peninsular plateau.
 
 6. Write short notes on the following.
 
- - (i) The Indian Desert
-(ii) The Central Highlands (iii) The Island groups of India MAP S KILLS On an outline map of India show the following.
+- (i) The Indian Desert
+  (ii) The Central Highlands (iii) The Island groups of India MAP S KILLS On an outline map of India show the following.
 
- - (i) Mountain and hill ranges – the Karakoram, the Zaskar, the Patkai Bum,
-the Jaintia, the Vindhya range, the Aravali, and the Cardamom hills. (ii) Peaks – K2, Kanchenjunga, Nanga Parbat and the Anai Mudi. (iii) Plateaus, Chotanagpur and Malwa (iv) The Indian Desert, W estern Ghats, Lakshadweep Islands
+- (i) Mountain and hill ranges – the Karakoram, the Zaskar, the Patkai Bum,
+  the Jaintia, the Vindhya range, the Aravali, and the Cardamom hills. (ii) Peaks – K2, Kanchenjunga, Nanga Parbat and the Anai Mudi. (iii) Plateaus, Chotanagpur and Malwa (iv) The Indian Desert, W estern Ghats, Lakshadweep Islands
 
 ---
 
 ## 🔑 Key Concepts & Definitions
 
-| Term | Learner-Friendly Meaning |
-|---|---|
-| **northern-most range** | the Great or Inner Himalayas or the Himadri |
-| **outh of the Himadri forms the most rugged mountain system and** | Himachal or lesser Himalaya |
-| **outer-most range of the Himalayas** | the Shiwaliks |
-| **e part of the Himalayas lying between Satl uj and Kali rivers** | Kumaon Himalayas |
-| **imalayas and the part lying between T eesta and Dihang rivers** | Assam Himalayas |
-| **northern part of the coast** | the Konkan (Mumbai – Goa), the central stretch is called the Kannad Plain, while the southern stretch is referred to as the Malabar coast |
-| **while the southern part** | the Coromandel Coast |
+| Term                                                              | Learner-Friendly Meaning                                                                                                                  |
+| ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| **northern-most range**                                           | the Great or Inner Himalayas or the Himadri                                                                                               |
+| **outh of the Himadri forms the most rugged mountain system and** | Himachal or lesser Himalaya                                                                                                               |
+| **outer-most range of the Himalayas**                             | the Shiwaliks                                                                                                                             |
+| **e part of the Himalayas lying between Satl uj and Kali rivers** | Kumaon Himalayas                                                                                                                          |
+| **imalayas and the part lying between T eesta and Dihang rivers** | Assam Himalayas                                                                                                                           |
+| **northern part of the coast**                                    | the Konkan (Mumbai – Goa), the central stretch is called the Kannad Plain, while the southern stretch is referred to as the Malabar coast |
+| **while the southern part**                                       | the Coromandel Coast                                                                                                                      |
 
 ---
 
@@ -205,61 +207,61 @@ the Jaintia, the Vindhya range, the Aravali, and the Cardamom hills. (ii) Peaks 
 
 ## ✏️ Practice & Exercise Tracker
 
-| Q | Question / Task | Answer Strategy |
-|---|---|---|
-| 1 | 1. Choose the right answer from the four alternatives given below. (i) A landmass bounded by sea on three sides is referred to as (a) Coast (c) Peninsula (b) Island (d) None of the above (ii) Mountain ranges in the eastern part of India forming its boundary with Myanmar are collectively called (a) Himachal (c) Purvachal (b) Uttarakhand (d) None of the above (iii) The western coastal strip, south of Goa is referred to as | Identify command word, recall concept, structure answer, then review. |
-| 2 | 3. Distinguish between (i) Bhangar and Khadar (ii) Western Ghats and Easter n Ghats | Identify command word, recall concept, structure answer, then review. |
-| 3 | 4. Which are the major physiographic divisions of India? Contrast the relief of the Himalayan region with that of the Peninsular plateau. | Identify command word, recall concept, structure answer, then review. |
-| 4 | 5. Give an account of the Northern Plains of India. | Identify command word, recall concept, structure answer, then review. |
-| 5 | 6. Write short notes on the following. (i) The Indian Desert (ii) The Central Highlands (iii) The Island groups of India MAP S KILLS On an outline map of India show the following. (i) Mountain and hill ranges – the Karakoram, the Zaskar, the Patkai Bum, the Jaintia, the Vindhya range, the Aravali, and the Cardamom hills. (ii) Peaks – K2, Kanchenjunga, Nanga Parbat and the Anai Mudi. (iii) Plateaus, Chotanagpur and Malwa (iv) The Indian Desert, W estern Ghats, Lakshadweep Islands | Identify command word, recall concept, structure answer, then review. |
+| Q   | Question / Task                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Answer Strategy                                                       |
+| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| 1   | 1. Choose the right answer from the four alternatives given below. (i) A landmass bounded by sea on three sides is referred to as (a) Coast (c) Peninsula (b) Island (d) None of the above (ii) Mountain ranges in the eastern part of India forming its boundary with Myanmar are collectively called (a) Himachal (c) Purvachal (b) Uttarakhand (d) None of the above (iii) The western coastal strip, south of Goa is referred to as                                                             | Identify command word, recall concept, structure answer, then review. |
+| 2   | 3. Distinguish between (i) Bhangar and Khadar (ii) Western Ghats and Easter n Ghats                                                                                                                                                                                                                                                                                                                                                                                                                 | Identify command word, recall concept, structure answer, then review. |
+| 3   | 4. Which are the major physiographic divisions of India? Contrast the relief of the Himalayan region with that of the Peninsular plateau.                                                                                                                                                                                                                                                                                                                                                           | Identify command word, recall concept, structure answer, then review. |
+| 4   | 5. Give an account of the Northern Plains of India.                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Identify command word, recall concept, structure answer, then review. |
+| 5   | 6. Write short notes on the following. (i) The Indian Desert (ii) The Central Highlands (iii) The Island groups of India MAP S KILLS On an outline map of India show the following. (i) Mountain and hill ranges – the Karakoram, the Zaskar, the Patkai Bum, the Jaintia, the Vindhya range, the Aravali, and the Cardamom hills. (ii) Peaks – K2, Kanchenjunga, Nanga Parbat and the Anai Mudi. (iii) Plateaus, Chotanagpur and Malwa (iv) The Indian Desert, W estern Ghats, Lakshadweep Islands | Identify command word, recall concept, structure answer, then review. |
 
 ---
 
 ## 🧩 Answer-Writing Framework
 
-| Step | What To Do |
-|---|---|
-| 1 | Define the geographical term or locate the region. |
-| 2 | Describe the spatial pattern or distribution. |
-| 3 | Explain the process or cause. |
-| 4 | Add human, environmental, or economic impact. |
-| 5 | Use map/data evidence if available. |
+| Step | What To Do                                         |
+| ---- | -------------------------------------------------- |
+| 1    | Define the geographical term or locate the region. |
+| 2    | Describe the spatial pattern or distribution.      |
+| 3    | Explain the process or cause.                      |
+| 4    | Add human, environmental, or economic impact.      |
+| 5    | Use map/data evidence if available.                |
 
 ---
 
 ## ⚠️ Common Misconceptions
 
-| # | Watch Out For This |
-|---|---|
-| 1 | A map is part of the argument, not an extra picture. |
-| 2 | Distribution and cause are different things. |
-| 3 | Geography answers need place-specific detail. |
+| #   | Watch Out For This                                   |
+| --- | ---------------------------------------------------- |
+| 1   | A map is part of the argument, not an extra picture. |
+| 2   | Distribution and cause are different things.         |
+| 3   | Geography answers need place-specific detail.        |
 
 ---
 
 ## 📋 Quick Revision Sheet
 
-| Revision Item | What To Recall |
-|---|---|
-| Chapter core | Physical Features of India |
-| Intro | Core chapter narrative |
-| Definition | northern-most range |
-| Definition | outh of the Himadri forms the most rugged mountain system and |
-| Definition | outer-most range of the Himalayas |
-| Definition | e part of the Himalayas lying between Satl uj and Kali rivers |
-| Definition | imalayas and the part lying between T eesta and Dihang rivers |
+| Revision Item | What To Recall                                                |
+| ------------- | ------------------------------------------------------------- |
+| Chapter core  | Physical Features of India                                    |
+| Intro         | Core chapter narrative                                        |
+| Definition    | northern-most range                                           |
+| Definition    | outh of the Himadri forms the most rugged mountain system and |
+| Definition    | outer-most range of the Himalayas                             |
+| Definition    | e part of the Himalayas lying between Satl uj and Kali rivers |
+| Definition    | imalayas and the part lying between T eesta and Dihang rivers |
 
 ---
 
 ## ✅ Pilot Quality Checklist
 
-| Check | Status |
-|---|---|
-| Raw data preserved | Yes — chapter content is retained and cleaned, not summarised away. |
-| Learner scaffolding added | Yes — roadmap, outcomes, answer framework, misconceptions, and revision sheet. |
-| Subject-aware structure | Yes — generated from the selected subject family profile. |
-| Needs human review | Yes — especially source extraction mismatches, diagrams, tables, formulas, and broken OCR words. |
+| Check                     | Status                                                                                           |
+| ------------------------- | ------------------------------------------------------------------------------------------------ |
+| Raw data preserved        | Yes — chapter content is retained and cleaned, not summarised away.                              |
+| Learner scaffolding added | Yes — roadmap, outcomes, answer framework, misconceptions, and revision sheet.                   |
+| Subject-aware structure   | Yes — generated from the selected subject family profile.                                        |
+| Needs human review        | Yes — especially source extraction mismatches, diagrams, tables, formulas, and broken OCR words. |
 
 ---
 
-*Source: NCERT Class 9 — Social Geography, Chapter 2. Raw file: `data/class_9/social_geography/chapter_02.md`.*
+_Source: NCERT Class 9 — Social Geography, Chapter 2. Raw file: `data/class_9/social_geography/chapter_02.md`._

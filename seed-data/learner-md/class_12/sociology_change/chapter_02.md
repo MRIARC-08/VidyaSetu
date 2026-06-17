@@ -25,16 +25,16 @@ The chapter's main message is that cultural change in India was not a simple rep
 
 ## Key Terms
 
-| Term | Meaning | Why it matters |
-|---|---|---|
-| Cultural change | Change in norms, values, lifestyles, beliefs, practices, and meanings | The chapter studies changes in ways of life and thought |
-| Social reform movement | Organised effort to change social practices seen as unjust or harmful | Reformers challenged sati, child marriage, caste discrimination, and restrictions on widows and women |
-| Sanskritisation | Process by which a lower caste, tribe, or group adopts customs and lifestyle of a higher caste | Shows status mobility within caste hierarchy, but also has serious limits |
-| Westernisation | Changes caused by long contact with western culture and British rule | Includes changes in technology, institutions, values, dress, education, art, and lifestyle |
-| Modernisation | Movement toward modern values such as science, individual choice, achievement, bureaucracy, and universalism | Helps analyse social change beyond outward western habits |
-| Secularisation | Decline or transformation of religious influence in social life | In India it often means religion and caste changing their social role rather than disappearing |
-| Secularisation of caste | Shift of caste from ritual hierarchy toward political and interest-based mobilisation | Important for understanding caste associations and caste politics |
-| Gendered change | Change that affects men and women differently | Many processes of cultural change have different consequences for women |
+| Term                    | Meaning                                                                                                      | Why it matters                                                                                        |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- |
+| Cultural change         | Change in norms, values, lifestyles, beliefs, practices, and meanings                                        | The chapter studies changes in ways of life and thought                                               |
+| Social reform movement  | Organised effort to change social practices seen as unjust or harmful                                        | Reformers challenged sati, child marriage, caste discrimination, and restrictions on widows and women |
+| Sanskritisation         | Process by which a lower caste, tribe, or group adopts customs and lifestyle of a higher caste               | Shows status mobility within caste hierarchy, but also has serious limits                             |
+| Westernisation          | Changes caused by long contact with western culture and British rule                                         | Includes changes in technology, institutions, values, dress, education, art, and lifestyle            |
+| Modernisation           | Movement toward modern values such as science, individual choice, achievement, bureaucracy, and universalism | Helps analyse social change beyond outward western habits                                             |
+| Secularisation          | Decline or transformation of religious influence in social life                                              | In India it often means religion and caste changing their social role rather than disappearing        |
+| Secularisation of caste | Shift of caste from ritual hierarchy toward political and interest-based mobilisation                        | Important for understanding caste associations and caste politics                                     |
+| Gendered change         | Change that affects men and women differently                                                                | Many processes of cultural change have different consequences for women                               |
 
 ## 1. Culture And Social Structure
 
@@ -489,12 +489,12 @@ Sanskritisation may improve status for some, but it does not abolish caste hiera
 
 ## 28. Comparison Table
 
-| Process | Main idea | Example | Limitation |
-|---|---|---|---|
-| Sanskritisation | Lower group imitates higher caste customs | Adopting upper caste rituals | Does not change caste structure |
-| Westernisation | Western influence changes lifestyle, institutions, or values | English education, western dress | May be external without equality |
-| Modernisation | Move toward science, choice, achievement, bureaucracy | Jobs based on qualifications | Can be uneven and exclusionary |
-| Secularisation | Religious or caste practices change their social role | Caste associations as political groups | Religion and caste may persist |
+| Process         | Main idea                                                    | Example                                | Limitation                       |
+| --------------- | ------------------------------------------------------------ | -------------------------------------- | -------------------------------- |
+| Sanskritisation | Lower group imitates higher caste customs                    | Adopting upper caste rituals           | Does not change caste structure  |
+| Westernisation  | Western influence changes lifestyle, institutions, or values | English education, western dress       | May be external without equality |
+| Modernisation   | Move toward science, choice, achievement, bureaucracy        | Jobs based on qualifications           | Can be uneven and exclusionary   |
+| Secularisation  | Religious or caste practices change their social role        | Caste associations as political groups | Religion and caste may persist   |
 
 ## 29. Model Answer: Sanskritisation
 
@@ -527,4 +527,3 @@ Westernisation refers to changes in Indian society caused by long contact with w
 - Secularisation in India often means transformation of religion and caste rather than their disappearance.
 - Caste has become an important political identity in modern India.
 - Cultural change is uneven and shaped by caste, class, gender, region, and religion.
-

@@ -1,4 +1,5 @@
 # Chapter 4: Applications of Computers in Accounting
+
 ### NCERT Class 11 Accountancy Part 2
 
 ---
@@ -13,12 +14,12 @@ Do not study this chapter as a computer science chapter only. In Accountancy, th
 
 The chapter connects four ideas:
 
-| Idea | Meaning in this chapter |
-|---|---|
-| Computer system | The complete arrangement of hardware, software, people, procedures, data, and connectivity |
-| Accounting information | Processed accounting data used by owners, managers, creditors, government, and other users |
-| Transaction processing | Recording, validating, processing, storing, and reporting business transactions |
-| MIS and AIS | Management Information System and Accounting Information System used for decisions and control |
+| Idea                   | Meaning in this chapter                                                                        |
+| ---------------------- | ---------------------------------------------------------------------------------------------- |
+| Computer system        | The complete arrangement of hardware, software, people, procedures, data, and connectivity     |
+| Accounting information | Processed accounting data used by owners, managers, creditors, government, and other users     |
+| Transaction processing | Recording, validating, processing, storing, and reporting business transactions                |
+| MIS and AIS            | Management Information System and Accounting Information System used for decisions and control |
 
 ---
 
@@ -70,14 +71,14 @@ A computer is an electronic device that performs operations according to a set o
 
 A computer system is not just the machine kept on a desk. It is a complete arrangement that includes:
 
-| Element | Explanation | Accounting example |
-|---|---|---|
-| Hardware | Physical parts of the computer | Keyboard, monitor, CPU, printer, scanner |
-| Software | Programs that make the computer work | Accounting package, operating system, database software |
-| People | Users and specialists who operate or design the system | Accountant, data entry operator, system analyst |
-| Procedures | Steps followed to operate the system correctly | Voucher entry procedure, backup procedure, approval procedure |
-| Data | Facts entered into the computer | Invoice amount, customer name, GST amount, date |
-| Connectivity | Link with other computers or networks | Branch office connected to head office |
+| Element      | Explanation                                            | Accounting example                                            |
+| ------------ | ------------------------------------------------------ | ------------------------------------------------------------- |
+| Hardware     | Physical parts of the computer                         | Keyboard, monitor, CPU, printer, scanner                      |
+| Software     | Programs that make the computer work                   | Accounting package, operating system, database software       |
+| People       | Users and specialists who operate or design the system | Accountant, data entry operator, system analyst               |
+| Procedures   | Steps followed to operate the system correctly         | Voucher entry procedure, backup procedure, approval procedure |
+| Data         | Facts entered into the computer                        | Invoice amount, customer name, GST amount, date               |
+| Connectivity | Link with other computers or networks                  | Branch office connected to head office                        |
 
 The most important point is that a computerised accounting system works properly only when all these elements support one another. Good software cannot compensate for wrong data, weak controls, or untrained users.
 
@@ -91,15 +92,15 @@ Hardware means the physical and visible parts of a computer system.
 
 Examples:
 
-| Hardware | Use in accounting |
-|---|---|
-| Keyboard | Enter voucher details, amounts, and names |
-| Mouse | Select menus and commands |
-| Monitor | Display vouchers, ledgers, and reports |
-| CPU | Process accounting data |
-| Printer | Print invoices, ledgers, trial balance, and reports |
-| Scanner | Capture documents or barcodes |
-| Storage devices | Store accounting files and backups |
+| Hardware        | Use in accounting                                   |
+| --------------- | --------------------------------------------------- |
+| Keyboard        | Enter voucher details, amounts, and names           |
+| Mouse           | Select menus and commands                           |
+| Monitor         | Display vouchers, ledgers, and reports              |
+| CPU             | Process accounting data                             |
+| Printer         | Print invoices, ledgers, trial balance, and reports |
+| Scanner         | Capture documents or barcodes                       |
+| Storage devices | Store accounting files and backups                  |
 
 Hardware provides the physical capacity to input, process, store, and output accounting data.
 
@@ -107,14 +108,14 @@ Hardware provides the physical capacity to input, process, store, and output acc
 
 Software means the programs used to operate hardware and perform tasks.
 
-| Type of software | Meaning | Example |
-|---|---|---|
-| Operating system | Manages computer resources and provides user interface | Windows, Linux, Unix |
-| Utility programs | Support maintenance and system tasks | Disk formatting, backup tools, antivirus |
-| Application software | Performs specific user tasks | Accounting software, payroll software |
-| Language processors | Translate programming language into machine-understandable form | Compiler, interpreter |
-| System software | Controls internal computer functions | Device control programs |
-| Connectivity software | Helps computers connect and share resources | Network communication tools |
+| Type of software      | Meaning                                                         | Example                                  |
+| --------------------- | --------------------------------------------------------------- | ---------------------------------------- |
+| Operating system      | Manages computer resources and provides user interface          | Windows, Linux, Unix                     |
+| Utility programs      | Support maintenance and system tasks                            | Disk formatting, backup tools, antivirus |
+| Application software  | Performs specific user tasks                                    | Accounting software, payroll software    |
+| Language processors   | Translate programming language into machine-understandable form | Compiler, interpreter                    |
+| System software       | Controls internal computer functions                            | Device control programs                  |
+| Connectivity software | Helps computers connect and share resources                     | Network communication tools              |
 
 For Accountancy, application software is especially important because it directly records vouchers, maintains accounts, and produces reports.
 
@@ -122,11 +123,11 @@ For Accountancy, application software is especially important because it directl
 
 People are also called live-ware because they interact with the computer system.
 
-| Person | Role |
-|---|---|
-| System analyst | Studies the organisation's needs and designs the information system |
-| Programmer | Writes programs according to the system design |
-| Operator | Runs the computer system and enters or processes data |
+| Person          | Role                                                                   |
+| --------------- | ---------------------------------------------------------------------- |
+| System analyst  | Studies the organisation's needs and designs the information system    |
+| Programmer      | Writes programs according to the system design                         |
+| Operator        | Runs the computer system and enters or processes data                  |
 | Accountant/user | Uses accounting software to record and interpret financial information |
 
 Computers do not decide the correctness of accounting treatment on their own. People remain responsible for choosing accounts, entering correct data, interpreting reports, and maintaining controls.
@@ -139,13 +140,13 @@ In accounting, procedures are essential because financial information must be ac
 
 Examples of accounting procedures:
 
-| Procedure | Why it matters |
-|---|---|
-| Voucher approval before entry | Prevents unauthorised transactions |
-| Data backup every day | Protects against data loss |
-| Password control | Restricts access to sensitive records |
-| Error correction procedure | Maintains reliability of records |
-| Report generation schedule | Ensures timely information for managers |
+| Procedure                     | Why it matters                          |
+| ----------------------------- | --------------------------------------- |
+| Voucher approval before entry | Prevents unauthorised transactions      |
+| Data backup every day         | Protects against data loss              |
+| Password control              | Restricts access to sensitive records   |
+| Error correction procedure    | Maintains reliability of records        |
+| Report generation schedule    | Ensures timely information for managers |
 
 Procedures may be hardware-oriented, software-oriented, or internal organisational procedures.
 
@@ -167,12 +168,12 @@ Data becomes information only after it is processed and arranged for a purpose.
 
 Example:
 
-| Raw data | Processed information |
-|---|---|
-| Individual credit sales invoices | Debtors balance report |
-| Purchase bills | Supplier outstanding report |
-| Cash receipts and payments | Cash position report |
-| Stock purchases and sales | Inventory status report |
+| Raw data                         | Processed information       |
+| -------------------------------- | --------------------------- |
+| Individual credit sales invoices | Debtors balance report      |
+| Purchase bills                   | Supplier outstanding report |
+| Cash receipts and payments       | Cash position report        |
+| Stock purchases and sales        | Inventory status report     |
 
 ### 2.6 Connectivity
 
@@ -247,13 +248,13 @@ In manual accounting, ledgers, vouchers, and registers require physical storage.
 
 Computers are powerful tools, but they are not intelligent accountants. Their limitations must be understood clearly.
 
-| Limitation | Meaning | Accounting impact |
-|---|---|---|
-| Lack of common sense | Computer cannot judge like a human | It cannot know that an unusual transaction is suspicious unless programmed |
-| Zero IQ | Computer follows instructions only | It cannot decide accounting treatment without rules or user input |
-| Lack of decision-making | Computer cannot take independent business decisions | It can generate reports, but managers must interpret them |
-| Dependence on input quality | Wrong input leads to wrong output | Incorrect voucher entry produces incorrect reports |
-| Dependence on program design | Software works only as designed | Weak software controls may allow wrong entries |
+| Limitation                   | Meaning                                             | Accounting impact                                                          |
+| ---------------------------- | --------------------------------------------------- | -------------------------------------------------------------------------- |
+| Lack of common sense         | Computer cannot judge like a human                  | It cannot know that an unusual transaction is suspicious unless programmed |
+| Zero IQ                      | Computer follows instructions only                  | It cannot decide accounting treatment without rules or user input          |
+| Lack of decision-making      | Computer cannot take independent business decisions | It can generate reports, but managers must interpret them                  |
+| Dependence on input quality  | Wrong input leads to wrong output                   | Incorrect voucher entry produces incorrect reports                         |
+| Dependence on program design | Software works only as designed                     | Weak software controls may allow wrong entries                             |
 
 The key principle is:
 
@@ -271,11 +272,11 @@ Input -> Processing -> Output
 
 These functions are performed by:
 
-| Component | Function |
-|---|---|
-| Input unit | Accepts data and instructions |
-| Central Processing Unit | Processes data according to instructions |
-| Output unit | Communicates processed information to users |
+| Component               | Function                                    |
+| ----------------------- | ------------------------------------------- |
+| Input unit              | Accepts data and instructions               |
+| Central Processing Unit | Processes data according to instructions    |
+| Output unit             | Communicates processed information to users |
 
 ### 5.1 Input Unit
 
@@ -283,14 +284,14 @@ The input unit allows data to enter the computer.
 
 Examples:
 
-| Input device | Accounting use |
-|---|---|
-| Keyboard | Enter voucher details |
-| Mouse | Select options |
-| Scanner | Capture document images |
+| Input device   | Accounting use            |
+| -------------- | ------------------------- |
+| Keyboard       | Enter voucher details     |
+| Mouse          | Select options            |
+| Scanner        | Capture document images   |
 | Barcode reader | Record inventory movement |
-| MICR reader | Read cheque information |
-| Touch screen | Select menu options |
+| MICR reader    | Read cheque information   |
+| Touch screen   | Select menu options       |
 
 The quality of input matters greatly. If wrong data enters the system, the output will also be wrong.
 
@@ -300,11 +301,11 @@ The CPU is the main processing part of the computer. It controls and processes d
 
 It includes three important units:
 
-| Unit | Function |
-|---|---|
-| Arithmetic and Logic Unit | Performs calculations and comparisons |
-| Memory unit | Stores data and instructions temporarily or permanently |
-| Control unit | Coordinates activities of all parts of the computer |
+| Unit                      | Function                                                |
+| ------------------------- | ------------------------------------------------------- |
+| Arithmetic and Logic Unit | Performs calculations and comparisons                   |
+| Memory unit               | Stores data and instructions temporarily or permanently |
+| Control unit              | Coordinates activities of all parts of the computer     |
 
 Accounting example:
 
@@ -316,12 +317,12 @@ The output unit presents processed information in a usable form.
 
 Examples:
 
-| Output device/report | Use |
-|---|---|
-| Monitor | View vouchers and reports |
-| Printer | Print invoices, ledgers, statements |
-| Report file | Save financial statements |
-| Dashboard | Show key business figures |
+| Output device/report | Use                                 |
+| -------------------- | ----------------------------------- |
+| Monitor              | View vouchers and reports           |
+| Printer              | Print invoices, ledgers, statements |
+| Report file          | Save financial statements           |
+| Dashboard            | Show key business figures           |
 
 The output should be readable, timely, accurate, and relevant.
 
@@ -343,14 +344,14 @@ Manual accounting is suitable when transactions are few and simple. But modern o
 
 Computers help by:
 
-| Need | Computerised support |
-|---|---|
-| Fast recording | Vouchers can be entered quickly |
-| Fast processing | Ledgers and reports update immediately |
-| Large storage | Many years of data can be stored electronically |
-| Quick retrieval | Reports can be searched and produced quickly |
-| Better control | Passwords, audit trails, and validation checks can be used |
-| Decision support | Managers can receive useful reports on time |
+| Need             | Computerised support                                       |
+| ---------------- | ---------------------------------------------------------- |
+| Fast recording   | Vouchers can be entered quickly                            |
+| Fast processing  | Ledgers and reports update immediately                     |
+| Large storage    | Many years of data can be stored electronically            |
+| Quick retrieval  | Reports can be searched and produced quickly               |
+| Better control   | Passwords, audit trails, and validation checks can be used |
+| Decision support | Managers can receive useful reports on time                |
 
 ---
 
@@ -358,12 +359,12 @@ Computers help by:
 
 Accounting moved gradually from manual books to computerised systems.
 
-| Stage | Description |
-|---|---|
-| Manual accounting | Cash book, journal, ledger, and final accounts maintained by hand |
-| Mechanical assistance | Machines helped with billing, typing, and calculations |
-| Computer support | Computers began processing accounting data faster |
-| Database-based accounting | Transactions stored in databases and reports generated from stored data |
+| Stage                          | Description                                                                |
+| ------------------------------ | -------------------------------------------------------------------------- |
+| Manual accounting              | Cash book, journal, ledger, and final accounts maintained by hand          |
+| Mechanical assistance          | Machines helped with billing, typing, and calculations                     |
+| Computer support               | Computers began processing accounting data faster                          |
+| Database-based accounting      | Transactions stored in databases and reports generated from stored data    |
 | Integrated information systems | Accounting connected with inventory, payroll, manufacturing, sales, and HR |
 
 The reason for this evolution was not fashion. It was the need for faster, more reliable, and more useful information.
@@ -378,12 +379,12 @@ Accounting data becomes useful when it is processed into decision-ready informat
 
 Example:
 
-| Accounting data | Information produced | Decision supported |
-|---|---|---|
-| Customer invoices | Debtors ageing report | Which customers need follow-up? |
-| Purchase records | Supplier analysis | Which supplier is used most? |
-| Inventory records | Stock status report | Which items need reorder? |
-| Cash entries | Cash position report | Can the business pay current obligations? |
+| Accounting data   | Information produced  | Decision supported                        |
+| ----------------- | --------------------- | ----------------------------------------- |
+| Customer invoices | Debtors ageing report | Which customers need follow-up?           |
+| Purchase records  | Supplier analysis     | Which supplier is used most?              |
+| Inventory records | Stock status report   | Which items need reorder?                 |
+| Cash entries      | Cash position report  | Can the business pay current obligations? |
 
 Computers make this transformation faster and more systematic.
 
@@ -395,24 +396,24 @@ A Transaction Processing System, or TPS, records, processes, validates, stores, 
 
 Transactions may be:
 
-| Type | Meaning | Example |
-|---|---|---|
-| External transaction | Transaction with outsiders | Purchase from supplier, sale to customer |
-| Internal transaction | Transaction within the organisation | Material requisition from stores |
+| Type                 | Meaning                             | Example                                  |
+| -------------------- | ----------------------------------- | ---------------------------------------- |
+| External transaction | Transaction with outsiders          | Purchase from supplier, sale to customer |
+| Internal transaction | Transaction within the organisation | Material requisition from stores         |
 
 Financial accounting mainly focuses on external transactions, but modern information systems may capture both external and internal data for management use.
 
 ### 9.1 Steps in Transaction Processing
 
-| Step | Meaning | Accounting example |
-|---|---|---|
-| Data entry | Transaction details are entered | Sales invoice entered in software |
-| Data validation | Input is checked for correctness | Software checks customer code or amount format |
-| Processing | Data is transformed according to rules | Ledger accounts are updated |
-| Revalidation | Output or completion is checked | System confirms voucher posting |
-| Storage | Valid transaction data is stored | Voucher saved in database |
-| Information | Stored data is processed into useful form | Customer balance report |
-| Reporting | Information is presented to users | Trial balance, stock report, ageing report |
+| Step            | Meaning                                   | Accounting example                             |
+| --------------- | ----------------------------------------- | ---------------------------------------------- |
+| Data entry      | Transaction details are entered           | Sales invoice entered in software              |
+| Data validation | Input is checked for correctness          | Software checks customer code or amount format |
+| Processing      | Data is transformed according to rules    | Ledger accounts are updated                    |
+| Revalidation    | Output or completion is checked           | System confirms voucher posting                |
+| Storage         | Valid transaction data is stored          | Voucher saved in database                      |
+| Information     | Stored data is processed into useful form | Customer balance report                        |
+| Reporting       | Information is presented to users         | Trial balance, stock report, ageing report     |
 
 ### 9.2 Example: ATM Withdrawal
 
@@ -434,12 +435,12 @@ Accounting software follows a similar logic: accept data, check it, process it, 
 
 Computerised accounting may process data in different ways.
 
-| Basis | Batch processing | Real-time processing |
-|---|---|---|
-| Meaning | Transactions are collected and processed together | Transactions are processed immediately |
-| Time gap | There is a delay between transaction and report effect | Report effect is immediate or nearly immediate |
-| Suitable for | Large volume periodic processing | Online and current information needs |
-| Example | Payroll processed at month end | Sales invoice updates stock and customer balance instantly |
+| Basis        | Batch processing                                       | Real-time processing                                       |
+| ------------ | ------------------------------------------------------ | ---------------------------------------------------------- |
+| Meaning      | Transactions are collected and processed together      | Transactions are processed immediately                     |
+| Time gap     | There is a delay between transaction and report effect | Report effect is immediate or nearly immediate             |
+| Suitable for | Large volume periodic processing                       | Online and current information needs                       |
+| Example      | Payroll processed at month end                         | Sales invoice updates stock and customer balance instantly |
 
 ### How to remember
 
@@ -452,16 +453,16 @@ Computerised accounting may process data in different ways.
 
 A computerised accounting system usually provides:
 
-| Feature | Explanation |
-|---|---|
-| Online data entry | Transactions are entered directly into the system |
-| Data storage | Accounting data is stored electronically |
-| Invoice printing | Purchase and sales invoices can be printed |
-| Account coding | Accounts and transactions are assigned codes |
-| Grouping of accounts | Accounts can be grouped for reports |
-| Instant reports | Trial balance, ledger, stock reports, and statements can be produced quickly |
-| Query facility | Users can retrieve specific information |
-| Integration | Accounting may connect with inventory, payroll, and sales |
+| Feature              | Explanation                                                                  |
+| -------------------- | ---------------------------------------------------------------------------- |
+| Online data entry    | Transactions are entered directly into the system                            |
+| Data storage         | Accounting data is stored electronically                                     |
+| Invoice printing     | Purchase and sales invoices can be printed                                   |
+| Account coding       | Accounts and transactions are assigned codes                                 |
+| Grouping of accounts | Accounts can be grouped for reports                                          |
+| Instant reports      | Trial balance, ledger, stock reports, and statements can be produced quickly |
+| Query facility       | Users can retrieve specific information                                      |
+| Integration          | Accounting may connect with inventory, payroll, and sales                    |
 
 Important learner point:
 
@@ -475,19 +476,19 @@ Management Information System, or MIS, is a system that provides information nee
 
 MIS supports different levels of management:
 
-| Level | Information need |
-|---|---|
-| Operational level | Routine daily information |
-| Tactical level | Departmental planning and control information |
-| Strategic level | Long-term and policy-related information |
+| Level             | Information need                              |
+| ----------------- | --------------------------------------------- |
+| Operational level | Routine daily information                     |
+| Tactical level    | Departmental planning and control information |
+| Strategic level   | Long-term and policy-related information      |
 
 Examples:
 
-| Management question | MIS report that may help |
-|---|---|
-| Are customers paying on time? | Debtors ageing report |
-| Is stock too high or too low? | Inventory status report |
-| Is cash sufficient? | Cash position report |
+| Management question               | MIS report that may help          |
+| --------------------------------- | --------------------------------- |
+| Are customers paying on time?     | Debtors ageing report             |
+| Is stock too high or too low?     | Inventory status report           |
+| Is cash sufficient?               | Cash position report              |
 | Which product line is profitable? | Product-wise profitability report |
 
 ---
@@ -512,21 +513,21 @@ AIS does not work in isolation. It receives information from other departments a
 
 ### 13.1 AIS as a Subsystem of MIS
 
-| AIS receives from | Example of data received |
-|---|---|
-| Sales department | Sales orders, customer details |
-| Purchase department | Purchase orders, supplier bills |
-| Stores/inventory | Stock movement |
-| HR department | Salary and worker details |
-| Production department | Production and cost data |
+| AIS receives from     | Example of data received        |
+| --------------------- | ------------------------------- |
+| Sales department      | Sales orders, customer details  |
+| Purchase department   | Purchase orders, supplier bills |
+| Stores/inventory      | Stock movement                  |
+| HR department         | Salary and worker details       |
+| Production department | Production and cost data        |
 
-| AIS provides to | Example of information provided |
-|---|---|
-| Management | Profit, cost, cash, and performance reports |
-| Sales department | Customer outstanding balances |
-| Purchase department | Supplier payment status |
-| HR department | Payroll cost data |
-| Production department | Cost and inventory information |
+| AIS provides to       | Example of information provided             |
+| --------------------- | ------------------------------------------- |
+| Management            | Profit, cost, cash, and performance reports |
+| Sales department      | Customer outstanding balances               |
+| Purchase department   | Supplier payment status                     |
+| HR department         | Payroll cost data                           |
+| Production department | Cost and inventory information              |
 
 ---
 
@@ -536,24 +537,24 @@ Data becomes useful only when it is arranged into a report that supports a decis
 
 A good accounting report should be:
 
-| Quality | Meaning |
-|---|---|
-| Relevant | Connected with the decision to be made |
-| Timely | Available when needed |
-| Accurate | Free from material errors |
-| Complete | Includes all necessary information |
-| Summarised | Presents information in usable form |
+| Quality    | Meaning                                |
+| ---------- | -------------------------------------- |
+| Relevant   | Connected with the decision to be made |
+| Timely     | Available when needed                  |
+| Accurate   | Free from material errors              |
+| Complete   | Includes all necessary information     |
+| Summarised | Presents information in usable form    |
 
 ### Steps in Designing an Accounting Report
 
-| Step | Explanation |
-|---|---|
-| Define objective | Decide why the report is needed |
-| Identify user | Decide who will use the report |
-| Decide information content | Select what information should appear |
-| Decide structure | Choose format, headings, columns, and grouping |
-| Query database | Retrieve the required accounting data |
-| Finalise report | Present it clearly for decision-making |
+| Step                       | Explanation                                    |
+| -------------------------- | ---------------------------------------------- |
+| Define objective           | Decide why the report is needed                |
+| Identify user              | Decide who will use the report                 |
+| Decide information content | Select what information should appear          |
+| Decide structure           | Choose format, headings, columns, and grouping |
+| Query database             | Retrieve the required accounting data          |
+| Finalise report            | Present it clearly for decision-making         |
 
 Example:
 
@@ -637,45 +638,45 @@ An information system becomes stronger when departments share useful data.
 
 ### 16.1 AIS and Human Resource Information System
 
-| HR system provides | AIS uses it for |
-|---|---|
-| Employee details | Salary records |
-| Attendance | Wage calculation |
-| Worker list | Payroll processing |
+| HR system provides | AIS uses it for    |
+| ------------------ | ------------------ |
+| Employee details   | Salary records     |
+| Attendance         | Wage calculation   |
+| Worker list        | Payroll processing |
 
-| AIS provides | HR uses it for |
-|---|---|
-| Salary paid | Employee records |
-| Statutory deductions | Compliance tracking |
-| Wage cost | Performance and cost analysis |
+| AIS provides         | HR uses it for                |
+| -------------------- | ----------------------------- |
+| Salary paid          | Employee records              |
+| Statutory deductions | Compliance tracking           |
+| Wage cost            | Performance and cost analysis |
 
 ### 16.2 AIS and Marketing Information System
 
-| Marketing system provides | AIS uses it for |
-|---|---|
-| Customer orders | Sales recording |
-| Dispatch details | Billing |
-| Credit requests | Credit authorisation |
+| Marketing system provides | AIS uses it for      |
+| ------------------------- | -------------------- |
+| Customer orders           | Sales recording      |
+| Dispatch details          | Billing              |
+| Credit requests           | Credit authorisation |
 
-| AIS provides | Marketing uses it for |
-|---|---|
-| Customer outstanding | Credit control |
-| Ageing report | Follow-up with customers |
-| Sales value | Sales performance review |
+| AIS provides         | Marketing uses it for    |
+| -------------------- | ------------------------ |
+| Customer outstanding | Credit control           |
+| Ageing report        | Follow-up with customers |
+| Sales value          | Sales performance review |
 
 ### 16.3 AIS and Manufacturing Information System
 
-| Manufacturing system provides | AIS uses it for |
-|---|---|
-| Material usage | Cost records |
-| Production quantity | Inventory and cost reports |
-| Labour usage | Cost allocation |
+| Manufacturing system provides | AIS uses it for            |
+| ----------------------------- | -------------------------- |
+| Material usage                | Cost records               |
+| Production quantity           | Inventory and cost reports |
+| Labour usage                  | Cost allocation            |
 
-| AIS provides | Manufacturing uses it for |
-|---|---|
-| Cost information | Production planning |
-| Inventory valuation | Stock control |
-| Variance information | Efficiency review |
+| AIS provides         | Manufacturing uses it for |
+| -------------------- | ------------------------- |
+| Cost information     | Production planning       |
+| Inventory valuation  | Stock control             |
+| Variance information | Efficiency review         |
 
 ---
 
@@ -683,43 +684,43 @@ An information system becomes stronger when departments share useful data.
 
 ### Data vs Information
 
-| Basis | Data | Information |
-|---|---|---|
-| Meaning | Raw facts | Processed and meaningful data |
-| Example | Invoice amounts | Customer outstanding report |
-| Usefulness | Limited until processed | Useful for decisions |
+| Basis      | Data                    | Information                   |
+| ---------- | ----------------------- | ----------------------------- |
+| Meaning    | Raw facts               | Processed and meaningful data |
+| Example    | Invoice amounts         | Customer outstanding report   |
+| Usefulness | Limited until processed | Useful for decisions          |
 
 ### TPS vs MIS vs AIS
 
-| Term | Full form | Main role |
-|---|---|---|
-| TPS | Transaction Processing System | Records and processes transactions |
-| MIS | Management Information System | Provides information for management decisions |
-| AIS | Accounting Information System | Processes economic and accounting information |
+| Term | Full form                     | Main role                                     |
+| ---- | ----------------------------- | --------------------------------------------- |
+| TPS  | Transaction Processing System | Records and processes transactions            |
+| MIS  | Management Information System | Provides information for management decisions |
+| AIS  | Accounting Information System | Processes economic and accounting information |
 
 ### Manual Processing vs Computerised Processing
 
-| Basis | Manual | Computerised |
-|---|---|---|
-| Speed | Slower | Faster |
-| Storage | Physical books and files | Electronic database |
-| Retrieval | Time-consuming | Quick |
-| Calculations | Human effort | Software processing |
-| Reports | Prepared manually | Generated through system |
-| Control | Physical and procedural | Procedural plus software controls |
+| Basis        | Manual                   | Computerised                      |
+| ------------ | ------------------------ | --------------------------------- |
+| Speed        | Slower                   | Faster                            |
+| Storage      | Physical books and files | Electronic database               |
+| Retrieval    | Time-consuming           | Quick                             |
+| Calculations | Human effort             | Software processing               |
+| Reports      | Prepared manually        | Generated through system          |
+| Control      | Physical and procedural  | Procedural plus software controls |
 
 ---
 
 ## 18. Common Mistakes
 
-| Mistake | Correction |
-|---|---|
-| Writing that computers make no mistakes | Computers can process wrong input and poorly designed programs. |
-| Treating AIS and MIS as the same | AIS is a part of MIS, focused on accounting information. |
-| Ignoring people and procedures | A computer system includes people and procedures, not just hardware and software. |
-| Confusing data with information | Data is raw; information is processed and useful. |
-| Assuming reports are useful automatically | Reports must be relevant, timely, accurate, complete, and summarised. |
-| Forgetting transaction validation | A good TPS checks data before storing and reporting it. |
+| Mistake                                   | Correction                                                                        |
+| ----------------------------------------- | --------------------------------------------------------------------------------- |
+| Writing that computers make no mistakes   | Computers can process wrong input and poorly designed programs.                   |
+| Treating AIS and MIS as the same          | AIS is a part of MIS, focused on accounting information.                          |
+| Ignoring people and procedures            | A computer system includes people and procedures, not just hardware and software. |
+| Confusing data with information           | Data is raw; information is processed and useful.                                 |
+| Assuming reports are useful automatically | Reports must be relevant, timely, accurate, complete, and summarised.             |
+| Forgetting transaction validation         | A good TPS checks data before storing and reporting it.                           |
 
 ---
 
@@ -772,33 +773,33 @@ Use this order:
 
 ### Capabilities of Computers
 
-| Capability | Keyword |
-|---|---|
-| Speed | Fast processing |
-| Accuracy | Correct calculations if input and program are correct |
-| Reliability | Consistent repetitive work |
-| Versatility | Many tasks |
-| Storage | Large data in small space |
+| Capability  | Keyword                                               |
+| ----------- | ----------------------------------------------------- |
+| Speed       | Fast processing                                       |
+| Accuracy    | Correct calculations if input and program are correct |
+| Reliability | Consistent repetitive work                            |
+| Versatility | Many tasks                                            |
+| Storage     | Large data in small space                             |
 
 ### Limitations of Computers
 
-| Limitation | Keyword |
-|---|---|
-| Lack of common sense | No human judgement |
-| Zero IQ | Follows instructions |
-| Lack of decision-making | Cannot decide independently |
-| Dependence on data | Wrong input gives wrong output |
-| Dependence on program | Works only as designed |
+| Limitation              | Keyword                        |
+| ----------------------- | ------------------------------ |
+| Lack of common sense    | No human judgement             |
+| Zero IQ                 | Follows instructions           |
+| Lack of decision-making | Cannot decide independently    |
+| Dependence on data      | Wrong input gives wrong output |
+| Dependence on program   | Works only as designed         |
 
 ### Report Qualities
 
-| Quality | Question to ask |
-|---|---|
-| Relevant | Does it help the decision? |
-| Timely | Is it available when needed? |
-| Accurate | Is it free from major error? |
-| Complete | Does it include necessary facts? |
-| Summarised | Is it easy to use? |
+| Quality    | Question to ask                  |
+| ---------- | -------------------------------- |
+| Relevant   | Does it help the decision?       |
+| Timely     | Is it available when needed?     |
+| Accurate   | Is it free from major error?     |
+| Complete   | Does it include necessary facts? |
+| Summarised | Is it easy to use?               |
 
 ---
 

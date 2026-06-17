@@ -1,35 +1,36 @@
 # Chapter 10: Human Eye and Colourful World
+
 ### NCERT Class 10 - Science
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 10 |
-| **Subject** | Science |
-| **Chapter** | 10 |
-| **Textbook Pages** | 1-10 |
-| **Core Theme** | How the human eye forms images, how vision defects are corrected, and how refraction, dispersion, atmospheric refraction, and scattering create colourful natural phenomena. |
-| **Main Skills** | Explaining eye parts, accommodation, myopia, hypermetropia, presbyopia, prism refraction, dispersion, rainbow formation, twinkling, blue sky, and lens-power calculations. |
+| Detail             | Learner-Friendly Information                                                                                                                                                 |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Class**          | 10                                                                                                                                                                           |
+| **Subject**        | Science                                                                                                                                                                      |
+| **Chapter**        | 10                                                                                                                                                                           |
+| **Textbook Pages** | 1-10                                                                                                                                                                         |
+| **Core Theme**     | How the human eye forms images, how vision defects are corrected, and how refraction, dispersion, atmospheric refraction, and scattering create colourful natural phenomena. |
+| **Main Skills**    | Explaining eye parts, accommodation, myopia, hypermetropia, presbyopia, prism refraction, dispersion, rainbow formation, twinkling, blue sky, and lens-power calculations.   |
 
 ---
 
 ## Section Structure
 
-| Unit | Topic | Main Learning Focus |
-|---|---|---|
-| **10A** | Human Eye | Cornea, iris, pupil, lens, retina, optic nerve. |
-| **10B** | Accommodation | Ciliary muscles, near point, far point, least distance of distinct vision. |
-| **10C** | Vision Defects | Myopia, hypermetropia, presbyopia, cataract. |
-| **10D** | Correction of Defects | Concave, convex, bifocal, contact lenses, surgery. |
-| **10E** | Prism Refraction | Refraction through triangular prism and angle of deviation. |
-| **10F** | Dispersion | Splitting of white light, spectrum, VIBGYOR, Newton experiment. |
-| **10G** | Rainbow | Refraction, dispersion, internal reflection in water droplets. |
-| **10H** | Atmospheric Refraction | Twinkling, advanced sunrise, delayed sunset, apparent flattening. |
-| **10I** | Scattering | Tyndall effect, blue sky, red danger signals. |
-| **10J** | Solved Questions | In-text and exercise-level answers. |
+| Unit    | Topic                  | Main Learning Focus                                                        |
+| ------- | ---------------------- | -------------------------------------------------------------------------- |
+| **10A** | Human Eye              | Cornea, iris, pupil, lens, retina, optic nerve.                            |
+| **10B** | Accommodation          | Ciliary muscles, near point, far point, least distance of distinct vision. |
+| **10C** | Vision Defects         | Myopia, hypermetropia, presbyopia, cataract.                               |
+| **10D** | Correction of Defects  | Concave, convex, bifocal, contact lenses, surgery.                         |
+| **10E** | Prism Refraction       | Refraction through triangular prism and angle of deviation.                |
+| **10F** | Dispersion             | Splitting of white light, spectrum, VIBGYOR, Newton experiment.            |
+| **10G** | Rainbow                | Refraction, dispersion, internal reflection in water droplets.             |
+| **10H** | Atmospheric Refraction | Twinkling, advanced sunrise, delayed sunset, apparent flattening.          |
+| **10I** | Scattering             | Tyndall effect, blue sky, red danger signals.                              |
+| **10J** | Solved Questions       | In-text and exercise-level answers.                                        |
 
 ---
 
@@ -37,43 +38,43 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Describe the eye** | Explain how cornea, iris, pupil, lens, retina, and optic nerve help in vision. |
-| **Explain accommodation** | Describe how ciliary muscles change lens curvature to focus near and distant objects. |
-| **Identify vision defects** | Distinguish myopia, hypermetropia, presbyopia, and cataract. |
-| **Choose corrective lenses** | Explain why myopia uses concave lens and hypermetropia uses convex lens. |
-| **Explain prism refraction** | Identify incident ray, refracted ray, emergent ray, angle of prism, and angle of deviation. |
-| **Explain dispersion** | State why white light splits into seven colours and why violet bends most. |
+| Outcome                       | You Should Be Able To...                                                                       |
+| ----------------------------- | ---------------------------------------------------------------------------------------------- |
+| **Describe the eye**          | Explain how cornea, iris, pupil, lens, retina, and optic nerve help in vision.                 |
+| **Explain accommodation**     | Describe how ciliary muscles change lens curvature to focus near and distant objects.          |
+| **Identify vision defects**   | Distinguish myopia, hypermetropia, presbyopia, and cataract.                                   |
+| **Choose corrective lenses**  | Explain why myopia uses concave lens and hypermetropia uses convex lens.                       |
+| **Explain prism refraction**  | Identify incident ray, refracted ray, emergent ray, angle of prism, and angle of deviation.    |
+| **Explain dispersion**        | State why white light splits into seven colours and why violet bends most.                     |
 | **Explain natural phenomena** | Explain rainbow, twinkling stars, advanced sunrise, delayed sunset, blue sky, and red signals. |
-| **Solve power numericals** | Use `P = 1/f` with focal length in metres. |
+| **Solve power numericals**    | Use `P = 1/f` with focal length in metres.                                                     |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Cornea** | Transparent front bulge of the eye; most refraction occurs here. |
-| **Iris** | Dark muscular diaphragm that controls pupil size. |
-| **Pupil** | Opening that regulates amount of light entering the eye. |
-| **Eye lens** | Crystalline lens that fine-adjusts focus on retina. |
-| **Ciliary muscles** | Muscles that change curvature and focal length of eye lens. |
-| **Retina** | Light-sensitive screen where real inverted image forms. |
-| **Optic nerve** | Carries electrical signals from retina to brain. |
-| **Accommodation** | Ability of eye lens to adjust focal length for near and distant objects. |
-| **Near point** | Minimum distance for clear vision without strain; about 25 cm for young adult. |
-| **Far point** | Farthest point seen clearly; infinity for normal eye. |
-| **Myopia** | Near-sightedness; distant objects appear blurred. |
-| **Hypermetropia** | Far-sightedness; nearby objects appear blurred. |
-| **Presbyopia** | Age-related decrease in power of accommodation. |
-| **Cataract** | Milky/cloudy lens condition causing partial or complete vision loss. |
-| **Prism** | Transparent object with refracting surfaces inclined to each other. |
-| **Dispersion** | Splitting of white light into component colours. |
-| **Spectrum** | Band of colours produced by dispersion. |
-| **Atmospheric refraction** | Refraction of light by earth's atmosphere. |
-| **Scattering** | Redirection of light by tiny particles. |
-| **Tyndall effect** | Visibility of light path due to scattering by colloidal particles. |
+| Term                       | Meaning                                                                        |
+| -------------------------- | ------------------------------------------------------------------------------ |
+| **Cornea**                 | Transparent front bulge of the eye; most refraction occurs here.               |
+| **Iris**                   | Dark muscular diaphragm that controls pupil size.                              |
+| **Pupil**                  | Opening that regulates amount of light entering the eye.                       |
+| **Eye lens**               | Crystalline lens that fine-adjusts focus on retina.                            |
+| **Ciliary muscles**        | Muscles that change curvature and focal length of eye lens.                    |
+| **Retina**                 | Light-sensitive screen where real inverted image forms.                        |
+| **Optic nerve**            | Carries electrical signals from retina to brain.                               |
+| **Accommodation**          | Ability of eye lens to adjust focal length for near and distant objects.       |
+| **Near point**             | Minimum distance for clear vision without strain; about 25 cm for young adult. |
+| **Far point**              | Farthest point seen clearly; infinity for normal eye.                          |
+| **Myopia**                 | Near-sightedness; distant objects appear blurred.                              |
+| **Hypermetropia**          | Far-sightedness; nearby objects appear blurred.                                |
+| **Presbyopia**             | Age-related decrease in power of accommodation.                                |
+| **Cataract**               | Milky/cloudy lens condition causing partial or complete vision loss.           |
+| **Prism**                  | Transparent object with refracting surfaces inclined to each other.            |
+| **Dispersion**             | Splitting of white light into component colours.                               |
+| **Spectrum**               | Band of colours produced by dispersion.                                        |
+| **Atmospheric refraction** | Refraction of light by earth's atmosphere.                                     |
+| **Scattering**             | Redirection of light by tiny particles.                                        |
+| **Tyndall effect**         | Visibility of light path due to scattering by colloidal particles.             |
 
 ---
 
@@ -111,17 +112,17 @@ It uses a lens system to form an image on a light-sensitive screen called the re
 
 ## Main Parts and Functions
 
-| Part | Function |
-|---|---|
-| Cornea | Transparent bulge at front; does most refraction of incoming light. |
-| Iris | Controls pupil size. |
-| Pupil | Controls amount of light entering eye. |
-| Eye lens | Fine-adjusts focus so image forms on retina. |
-| Ciliary muscles | Change curvature of eye lens. |
-| Retina | Light-sensitive screen where image forms. |
-| Light-sensitive cells | Convert light into electrical signals. |
-| Optic nerve | Sends signals to brain. |
-| Brain | Interprets signals so we perceive objects correctly. |
+| Part                  | Function                                                            |
+| --------------------- | ------------------------------------------------------------------- |
+| Cornea                | Transparent bulge at front; does most refraction of incoming light. |
+| Iris                  | Controls pupil size.                                                |
+| Pupil                 | Controls amount of light entering eye.                              |
+| Eye lens              | Fine-adjusts focus so image forms on retina.                        |
+| Ciliary muscles       | Change curvature of eye lens.                                       |
+| Retina                | Light-sensitive screen where image forms.                           |
+| Light-sensitive cells | Convert light into electrical signals.                              |
+| Optic nerve           | Sends signals to brain.                                             |
+| Brain                 | Interprets signals so we perceive objects correctly.                |
 
 ## Image Formed by Eye
 
@@ -315,10 +316,10 @@ Some people suffer from both myopia and hypermetropia.
 
 They may use bifocal lenses:
 
-| Part of Lens | Type | Use |
-|---|---|---|
-| Upper part | Concave | Distant vision |
-| Lower part | Convex | Near vision |
+| Part of Lens | Type    | Use            |
+| ------------ | ------- | -------------- |
+| Upper part   | Concave | Distant vision |
+| Lower part   | Convex  | Near vision    |
 
 Contact lenses and surgery can also correct some refractive defects.
 
@@ -342,11 +343,11 @@ The angle between two refracting faces of the prism is called the angle of the p
 
 Important rays:
 
-| Symbol/Name | Meaning |
-|---|---|
-| Incident ray | Ray entering prism. |
-| Refracted ray | Ray inside prism. |
-| Emergent ray | Ray leaving prism. |
+| Symbol/Name   | Meaning             |
+| ------------- | ------------------- |
+| Incident ray  | Ray entering prism. |
+| Refracted ray | Ray inside prism.   |
+| Emergent ray  | Ray leaving prism.  |
 
 At first surface:
 
@@ -366,11 +367,11 @@ The angle between direction of incident ray and emergent ray is called angle of 
 
 ## Difference from Glass Slab
 
-| Glass Slab | Prism |
-|---|---|
-| Opposite faces are parallel. | Refracting faces are inclined. |
+| Glass Slab                                | Prism                                          |
+| ----------------------------------------- | ---------------------------------------------- |
+| Opposite faces are parallel.              | Refracting faces are inclined.                 |
 | Emergent ray is parallel to incident ray. | Emergent ray deviates from original direction. |
-| Causes lateral displacement. | Causes angular deviation and dispersion. |
+| Causes lateral displacement.              | Causes angular deviation and dispersion.       |
 
 ---
 
@@ -401,9 +402,9 @@ VIBGYOR
 Different colours of light bend by different amounts in a prism.
 
 | Colour | Bending |
-|---|---|
-| Red | Least |
-| Violet | Most |
+| ------ | ------- |
+| Red    | Least   |
+| Violet | Most    |
 
 Therefore, colours separate and form a spectrum.
 
@@ -535,10 +536,10 @@ Examples:
 
 ## Particle Size and Colour
 
-| Particle Size | Scattered Light |
-|---|---|
-| Very fine particles | Mainly blue light |
-| Larger particles | Longer wavelengths too |
+| Particle Size        | Scattered Light                  |
+| -------------------- | -------------------------------- |
+| Very fine particles  | Mainly blue light                |
+| Larger particles     | Longer wavelengths too           |
 | Very large particles | Scattered light may appear white |
 
 ---
@@ -632,10 +633,10 @@ Myopia causes distant images to form in front of the retina. A concave lens dive
 
 For a normal young adult eye:
 
-| Point | Distance |
-|---|---|
-| Near point | 25 cm |
-| Far point | Infinity |
+| Point      | Distance |
+| ---------- | -------- |
+| Near point | 25 cm    |
+| Far point  | Infinity |
 
 ---
 
@@ -765,10 +766,10 @@ f = +66.7 cm
 
 ## Answer
 
-| Vision Correction | Power | Focal Length |
-|---|---:|---:|
-| Distant vision | `-5.5 D` | `-0.1818 m` or `-18.2 cm` |
-| Near vision | `+1.5 D` | `+0.6667 m` or `+66.7 cm` |
+| Vision Correction |    Power |              Focal Length |
+| ----------------- | -------: | ------------------------: |
+| Distant vision    | `-5.5 D` | `-0.1818 m` or `-18.2 cm` |
+| Near vision       | `+1.5 D` | `+0.6667 m` or `+66.7 cm` |
 
 ---
 
@@ -956,17 +957,17 @@ Therefore, the sky appears dark to an astronaut.
 
 # Unit 10P: Common Mistakes and Corrections
 
-| Mistake | Correct Understanding |
-|---|---|
-| Saying the eye image forms on the cornea. | Image forms on the retina. |
-| Confusing pupil and iris. | Pupil is opening; iris controls pupil size. |
-| Saying eye lens does most refraction. | Most refraction occurs at cornea; lens fine-adjusts focus. |
-| Mixing myopia and hypermetropia. | Myopia: distant blur, concave lens. Hypermetropia: near blur, convex lens. |
-| Using centimetres in power formula. | Convert focal length to metres for `P = 1/f`. |
-| Saying prism creates colours. | Prism separates colours already present in white light. |
-| Saying stars twinkle because they move. | Twinkling is due to atmospheric refraction. |
+| Mistake                                          | Correct Understanding                                                                       |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------- |
+| Saying the eye image forms on the cornea.        | Image forms on the retina.                                                                  |
+| Confusing pupil and iris.                        | Pupil is opening; iris controls pupil size.                                                 |
+| Saying eye lens does most refraction.            | Most refraction occurs at cornea; lens fine-adjusts focus.                                  |
+| Mixing myopia and hypermetropia.                 | Myopia: distant blur, concave lens. Hypermetropia: near blur, convex lens.                  |
+| Using centimetres in power formula.              | Convert focal length to metres for `P = 1/f`.                                               |
+| Saying prism creates colours.                    | Prism separates colours already present in white light.                                     |
+| Saying stars twinkle because they move.          | Twinkling is due to atmospheric refraction.                                                 |
 | Saying planets never refract through atmosphere. | Planet light refracts too, but variations average out because planets are extended sources. |
-| Saying sky is blue because air is blue. | Sky is blue because shorter wavelength blue light scatters more. |
+| Saying sky is blue because air is blue.          | Sky is blue because shorter wavelength blue light scatters more.                            |
 
 ---
 
@@ -974,35 +975,35 @@ Therefore, the sky appears dark to an astronaut.
 
 ## Eye Parts
 
-| Part | Function |
-|---|---|
-| Cornea | Main refraction at front of eye. |
-| Iris | Controls pupil. |
-| Pupil | Regulates light entry. |
-| Lens | Fine focusing. |
-| Ciliary muscles | Change lens curvature. |
-| Retina | Image screen. |
-| Optic nerve | Carries signals to brain. |
+| Part            | Function                         |
+| --------------- | -------------------------------- |
+| Cornea          | Main refraction at front of eye. |
+| Iris            | Controls pupil.                  |
+| Pupil           | Regulates light entry.           |
+| Lens            | Fine focusing.                   |
+| Ciliary muscles | Change lens curvature.           |
+| Retina          | Image screen.                    |
+| Optic nerve     | Carries signals to brain.        |
 
 ## Vision Defects
 
-| Defect | Can See | Cannot See | Image Forms | Correction |
-|---|---|---|---|---|
-| Myopia | Near objects | Distant objects | In front of retina | Concave lens |
-| Hypermetropia | Distant objects | Nearby objects | Behind retina | Convex lens |
-| Presbyopia | Varies with age | Often nearby objects | Due to reduced accommodation | Convex/bifocal lenses |
-| Cataract | Blurred/cloudy vision | Clear image | Lens becomes cloudy | Surgery |
+| Defect        | Can See               | Cannot See           | Image Forms                  | Correction            |
+| ------------- | --------------------- | -------------------- | ---------------------------- | --------------------- |
+| Myopia        | Near objects          | Distant objects      | In front of retina           | Concave lens          |
+| Hypermetropia | Distant objects       | Nearby objects       | Behind retina                | Convex lens           |
+| Presbyopia    | Varies with age       | Often nearby objects | Due to reduced accommodation | Convex/bifocal lenses |
+| Cataract      | Blurred/cloudy vision | Clear image          | Lens becomes cloudy          | Surgery               |
 
 ## Colour Phenomena
 
-| Phenomenon | Cause |
-|---|---|
-| Dispersion | Different colours bend by different amounts. |
-| Rainbow | Refraction, dispersion, internal reflection, and refraction in raindrops. |
-| Twinkling stars | Atmospheric refraction of point-source starlight. |
-| Blue sky | Scattering of shorter wavelength blue light. |
-| Red danger signal | Red light scatters least. |
-| Dark sky in space | No atmosphere, no scattering. |
+| Phenomenon        | Cause                                                                     |
+| ----------------- | ------------------------------------------------------------------------- |
+| Dispersion        | Different colours bend by different amounts.                              |
+| Rainbow           | Refraction, dispersion, internal reflection, and refraction in raindrops. |
+| Twinkling stars   | Atmospheric refraction of point-source starlight.                         |
+| Blue sky          | Scattering of shorter wavelength blue light.                              |
+| Red danger signal | Red light scatters least.                                                 |
+| Dark sky in space | No atmosphere, no scattering.                                             |
 
 ---
 
@@ -1050,4 +1051,3 @@ Myopia makes distant objects blurred and is corrected by a concave lens. Hyperme
 A prism refracts light through inclined surfaces and causes deviation. White light disperses into seven colours because different colours bend by different amounts. Rainbow forms when raindrops refract, disperse, internally reflect, and refract sunlight.
 
 Atmospheric refraction causes twinkling of stars, advanced sunrise, delayed sunset, and apparent flattening of the Sun. Scattering causes the blue sky; red light scatters least, so danger signals are red.
-

@@ -67,7 +67,10 @@ export class QuizControllers {
       }
 
       const body = await parseJsonBody(request);
-      const input = createQuizSchema.parse({ ...body, userId: tokenPayload.sub });
+      const input = createQuizSchema.parse({
+        ...body,
+        userId: tokenPayload.sub,
+      });
 
       const result = await QuizServices.createQuiz(input);
 
@@ -92,7 +95,10 @@ export class QuizControllers {
       }
 
       const body = await parseJsonBody(request);
-      const input = startQuizSchema.parse({ ...body, userId: tokenPayload.sub });
+      const input = startQuizSchema.parse({
+        ...body,
+        userId: tokenPayload.sub,
+      });
       const result = await QuizServices.startQuiz(input);
 
       return NextResponse.json(

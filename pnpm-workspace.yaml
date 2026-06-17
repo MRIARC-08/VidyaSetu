@@ -1,0 +1,11 @@
+allowBuilds:
+  '@prisma/engines': true
+  base64: true
+  bcrypt: true
+  canvas: true
+  esbuild: true
+  msw: true
+  prisma: true
+  sharp: true
+  tesseract.js: true
+  unrs-resolver: true

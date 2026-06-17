@@ -1,4 +1,5 @@
 # Chapter 13: A Roadside Stand
+
 ### NCERT Class 12 - English Flamingo
 
 ## Chapter at a Glance
@@ -21,15 +22,15 @@ By the end of this poem, you should be able to:
 
 ## Key Facts
 
-| Element | Detail |
-|---|---|
-| Poet | Robert Frost |
-| Form | Socially critical lyric |
-| Setting | A small roadside stand near a highway |
-| Main contrast | Rural poverty vs urban comfort |
-| Central symbol | Roadside stand |
-| Tone | Sympathetic, critical, angry, helpless |
-| Major theme | Economic inequality and rural neglect |
+| Element        | Detail                                 |
+| -------------- | -------------------------------------- |
+| Poet           | Robert Frost                           |
+| Form           | Socially critical lyric                |
+| Setting        | A small roadside stand near a highway  |
+| Main contrast  | Rural poverty vs urban comfort         |
+| Central symbol | Roadside stand                         |
+| Tone           | Sympathetic, critical, angry, helpless |
+| Major theme    | Economic inequality and rural neglect  |
 
 # Unit 13A: Situation of the Poem
 
@@ -99,14 +100,14 @@ Frost does not offer an easy solution. The poem's pain comes from seeing sufferi
 
 # Unit 13H: Poetic Devices
 
-| Device | Effect |
-|---|---|
-| Contrast | City wealth vs rural poverty |
-| Irony | Development passes by those who need it |
-| Symbolism | Roadside stand represents rural hope |
-| Imagery | Makes the stand and road visually real |
-| Satire | Criticises urban attitudes |
-| Rhetorical movement | Shows speaker's emotional struggle |
+| Device              | Effect                                  |
+| ------------------- | --------------------------------------- |
+| Contrast            | City wealth vs rural poverty            |
+| Irony               | Development passes by those who need it |
+| Symbolism           | Roadside stand represents rural hope    |
+| Imagery             | Makes the stand and road visually real  |
+| Satire              | Criticises urban attitudes              |
+| Rhetorical movement | Shows speaker's emotional struggle      |
 
 # Unit 13I: Major Themes
 
@@ -132,13 +133,13 @@ The stand is built with hope, but repeated neglect turns hope into pain.
 
 # Unit 13J: Symbol Map
 
-| Image | Meaning |
-|---|---|
-| Road | Connection that fails to create equality |
-| Stand | Rural hope and economic need |
-| Passing cars | Urban wealth and indifference |
-| City money | Desired dignity and survival |
-| Polished traffic | Modern progress without compassion |
+| Image            | Meaning                                  |
+| ---------------- | ---------------------------------------- |
+| Road             | Connection that fails to create equality |
+| Stand            | Rural hope and economic need             |
+| Passing cars     | Urban wealth and indifference            |
+| City money       | Desired dignity and survival             |
+| Polished traffic | Modern progress without compassion       |
 
 # Unit 13K: Exam Answer Frameworks
 
@@ -160,13 +161,13 @@ The stand is built with hope, but repeated neglect turns hope into pain.
 
 # Unit 13L: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Saying the stand owners want charity | They want customers and earned income. |
-| Treating the poem as only scenery | It is a social criticism. |
-| Ignoring city people's role | Urban indifference is central. |
-| Calling the poet fully hopeless | The poem is pained and critical, not careless. |
-| Missing irony of development | The road brings traffic but not justice. |
+| Mistake                              | Correction                                     |
+| ------------------------------------ | ---------------------------------------------- |
+| Saying the stand owners want charity | They want customers and earned income.         |
+| Treating the poem as only scenery    | It is a social criticism.                      |
+| Ignoring city people's role          | Urban indifference is central.                 |
+| Calling the poet fully hopeless      | The poem is pained and critical, not careless. |
+| Missing irony of development         | The road brings traffic but not justice.       |
 
 ## Practice Set
 

@@ -1,4 +1,5 @@
 # Chapter 3: Deep Water
+
 ### NCERT Class 12 - English Flamingo
 
 ## Chapter at a Glance
@@ -21,15 +22,15 @@ By the end of this chapter, you should be able to:
 
 ## Key Facts
 
-| Element | Detail |
-|---|---|
-| Author | William Douglas |
-| Genre | Autobiographical prose |
-| Central experience | Near-drowning and fear of water |
-| Main conflict | Human will vs paralysing fear |
-| Setting | YMCA pool and later natural water bodies |
-| Major theme | Overcoming fear through disciplined effort |
-| Tone | Reflective, intense, triumphant |
+| Element            | Detail                                     |
+| ------------------ | ------------------------------------------ |
+| Author             | William Douglas                            |
+| Genre              | Autobiographical prose                     |
+| Central experience | Near-drowning and fear of water            |
+| Main conflict      | Human will vs paralysing fear              |
+| Setting            | YMCA pool and later natural water bodies   |
+| Major theme        | Overcoming fear through disciplined effort |
+| Tone               | Reflective, intense, triumphant            |
 
 # Unit 3A: Early Fear at the Beach
 
@@ -144,13 +145,13 @@ Features:
 
 # Unit 3K: Symbols
 
-| Symbol | Meaning |
-|---|---|
-| Deep water | Fear, danger, unconscious terror |
-| Pool | Controlled place that becomes site of trauma |
-| Rope and belt | Safety, method, guided recovery |
-| Lakes | Final test in real world |
-| Swimming | Freedom from inner fear |
+| Symbol        | Meaning                                      |
+| ------------- | -------------------------------------------- |
+| Deep water    | Fear, danger, unconscious terror             |
+| Pool          | Controlled place that becomes site of trauma |
+| Rope and belt | Safety, method, guided recovery              |
+| Lakes         | Final test in real world                     |
+| Swimming      | Freedom from inner fear                      |
 
 # Unit 3L: Exam Answer Frameworks
 
@@ -172,13 +173,13 @@ Features:
 
 # Unit 3M: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Saying the chapter is only about swimming | It is about overcoming fear. |
-| Ignoring the long-term effect | The trauma controls him for years. |
-| Calling courage instant bravery | Courage is shown through practice and persistence. |
-| Forgetting instructor's role | The instructor provides method and safety. |
-| Saying fear disappears forever immediately | It returns, but the narrator learns to face it. |
+| Mistake                                    | Correction                                         |
+| ------------------------------------------ | -------------------------------------------------- |
+| Saying the chapter is only about swimming  | It is about overcoming fear.                       |
+| Ignoring the long-term effect              | The trauma controls him for years.                 |
+| Calling courage instant bravery            | Courage is shown through practice and persistence. |
+| Forgetting instructor's role               | The instructor provides method and safety.         |
+| Saying fear disappears forever immediately | It returns, but the narrator learns to face it.    |
 
 ## Practice Set
 

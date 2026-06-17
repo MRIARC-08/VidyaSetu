@@ -1,4 +1,5 @@
 # Chapter 5: Indigo
+
 ### NCERT Class 12 - English Flamingo
 
 ## Chapter at a Glance
@@ -22,15 +23,15 @@ By the end of this chapter, you should be able to:
 
 ## Key Facts
 
-| Element | Detail |
-|---|---|
-| Author | Louis Fischer |
-| Genre | Biographical prose / historical account |
-| Central figure | Mahatma Gandhi |
-| Setting | Champaran, Bihar |
-| Major issue | Exploitation of indigo sharecroppers |
-| Main method | Non-violent resistance and investigation |
-| Central theme | Freedom from fear and injustice |
+| Element        | Detail                                   |
+| -------------- | ---------------------------------------- |
+| Author         | Louis Fischer                            |
+| Genre          | Biographical prose / historical account  |
+| Central figure | Mahatma Gandhi                           |
+| Setting        | Champaran, Bihar                         |
+| Major issue    | Exploitation of indigo sharecroppers     |
+| Main method    | Non-violent resistance and investigation |
+| Central theme  | Freedom from fear and injustice          |
 
 # Unit 5A: Background of Indigo Exploitation
 
@@ -188,13 +189,13 @@ Education, health, and sanitation are part of freedom because oppressed people n
 
 # Unit 5M: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Treating Shukla as unimportant | His persistence brings Gandhi to Champaran. |
-| Focusing only on refund percentage | Psychological victory was more important. |
-| Calling civil disobedience lawlessness | It is open, non-violent, morally responsible resistance. |
-| Ignoring social work | Gandhi linked political justice with village uplift. |
-| Saying Gandhi worked alone | Lawyers, peasants, and volunteers became part of the movement. |
+| Mistake                                | Correction                                                     |
+| -------------------------------------- | -------------------------------------------------------------- |
+| Treating Shukla as unimportant         | His persistence brings Gandhi to Champaran.                    |
+| Focusing only on refund percentage     | Psychological victory was more important.                      |
+| Calling civil disobedience lawlessness | It is open, non-violent, morally responsible resistance.       |
+| Ignoring social work                   | Gandhi linked political justice with village uplift.           |
+| Saying Gandhi worked alone             | Lawyers, peasants, and volunteers became part of the movement. |
 
 ## Practice Set
 

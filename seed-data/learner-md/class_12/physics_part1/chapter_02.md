@@ -1,4 +1,5 @@
 # Chapter 2: Electrostatic Potential and Capacitance
+
 ### NCERT Class 12 - Physics Part 1
 
 ## Chapter at a Glance
@@ -25,36 +26,36 @@ By the end of this chapter, learners should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Electric potential | Work done per unit positive charge in bringing charge from infinity to a point. |
-| Potential difference | Work done per unit charge in moving charge between two points. |
-| Volt | SI unit of potential, equal to joule per coulomb. |
-| Equipotential surface | Surface on which potential is same at every point. |
-| Potential energy | Energy due to position of charges in an electric field. |
-| Dielectric | Insulating material that can be polarised in an electric field. |
-| Polarisation | Separation or alignment of charges inside dielectric. |
-| Capacitor | Device that stores charge and electrical energy. |
-| Capacitance | Charge stored per unit potential difference. |
-| Farad | SI unit of capacitance. |
+| Term                  | Meaning                                                                         |
+| --------------------- | ------------------------------------------------------------------------------- |
+| Electric potential    | Work done per unit positive charge in bringing charge from infinity to a point. |
+| Potential difference  | Work done per unit charge in moving charge between two points.                  |
+| Volt                  | SI unit of potential, equal to joule per coulomb.                               |
+| Equipotential surface | Surface on which potential is same at every point.                              |
+| Potential energy      | Energy due to position of charges in an electric field.                         |
+| Dielectric            | Insulating material that can be polarised in an electric field.                 |
+| Polarisation          | Separation or alignment of charges inside dielectric.                           |
+| Capacitor             | Device that stores charge and electrical energy.                                |
+| Capacitance           | Charge stored per unit potential difference.                                    |
+| Farad                 | SI unit of capacitance.                                                         |
 
 ## Quick Formula Map
 
-| Concept | Formula |
-|---|---|
-| Potential | `V = W/q0` |
-| Potential due to point charge | `V = kq/r` |
-| Potential energy of charge | `U = qV` |
-| Potential energy of two charges | `U = k q1 q2/r` |
-| Potential of dipole, far point | `V = k p cos theta/r^2` |
-| Field-potential relation | `E = -dV/dr` for one-dimensional variation |
-| Capacitance | `C = Q/V` |
-| Parallel plate capacitor | `C = epsilon0 A/d` |
-| With dielectric fully inserted | `C = K epsilon0 A/d` |
-| Capacitors in series | `1/Ceq = 1/C1 + 1/C2 + ...` |
-| Capacitors in parallel | `Ceq = C1 + C2 + ...` |
-| Energy stored | `U = (1/2)CV^2 = Q^2/(2C) = (1/2)QV` |
-| Energy density in field | `u = (1/2)epsilon0 E^2` |
+| Concept                         | Formula                                    |
+| ------------------------------- | ------------------------------------------ |
+| Potential                       | `V = W/q0`                                 |
+| Potential due to point charge   | `V = kq/r`                                 |
+| Potential energy of charge      | `U = qV`                                   |
+| Potential energy of two charges | `U = k q1 q2/r`                            |
+| Potential of dipole, far point  | `V = k p cos theta/r^2`                    |
+| Field-potential relation        | `E = -dV/dr` for one-dimensional variation |
+| Capacitance                     | `C = Q/V`                                  |
+| Parallel plate capacitor        | `C = epsilon0 A/d`                         |
+| With dielectric fully inserted  | `C = K epsilon0 A/d`                       |
+| Capacitors in series            | `1/Ceq = 1/C1 + 1/C2 + ...`                |
+| Capacitors in parallel          | `Ceq = C1 + C2 + ...`                      |
+| Energy stored                   | `U = (1/2)CV^2 = Q^2/(2C) = (1/2)QV`       |
+| Energy density in field         | `u = (1/2)epsilon0 E^2`                    |
 
 # Unit 2A: Electric Potential
 
@@ -72,11 +73,11 @@ Electric potential is a scalar. It has no direction. This makes adding potential
 
 ## Important Difference
 
-| Electric Field | Electric Potential |
-|---|---|
-| Vector | Scalar |
-| Unit `N/C` or `V/m` | Unit `V` |
-| Added vectorially | Added algebraically |
+| Electric Field        | Electric Potential   |
+| --------------------- | -------------------- |
+| Vector                | Scalar               |
+| Unit `N/C` or `V/m`   | Unit `V`             |
+| Added vectorially     | Added algebraically  |
 | Force per unit charge | Work per unit charge |
 
 # Unit 2B: Potential Difference
@@ -439,16 +440,16 @@ Write in this order:
 
 # Unit 2U: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Treating potential as vector | Potential is scalar; add algebraically. |
-| Confusing potential and potential energy | `V` is energy per unit charge; `U = qV`. |
-| Forgetting signs of charges | Potential can be positive or negative. |
-| Saying field is zero when potential is zero | Potential may be zero while field is non-zero. |
-| Using series capacitor rule for parallel | Series uses reciprocal; parallel uses direct sum. |
-| Forgetting same charge in series | Capacitors in series carry same charge. |
-| Forgetting same voltage in parallel | Capacitors in parallel have same potential difference. |
-| Missing factor `1/2` in capacitor energy | Energy is `(1/2)CV^2`, not `CV^2`. |
+| Mistake                                     | Correction                                             |
+| ------------------------------------------- | ------------------------------------------------------ |
+| Treating potential as vector                | Potential is scalar; add algebraically.                |
+| Confusing potential and potential energy    | `V` is energy per unit charge; `U = qV`.               |
+| Forgetting signs of charges                 | Potential can be positive or negative.                 |
+| Saying field is zero when potential is zero | Potential may be zero while field is non-zero.         |
+| Using series capacitor rule for parallel    | Series uses reciprocal; parallel uses direct sum.      |
+| Forgetting same charge in series            | Capacitors in series carry same charge.                |
+| Forgetting same voltage in parallel         | Capacitors in parallel have same potential difference. |
+| Missing factor `1/2` in capacitor energy    | Energy is `(1/2)CV^2`, not `CV^2`.                     |
 
 ## Practice Set
 

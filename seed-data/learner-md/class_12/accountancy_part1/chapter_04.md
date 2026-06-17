@@ -2,13 +2,13 @@
 
 ## Chapter Identity
 
-| Item | Details |
-| --- | --- |
-| Class | 12 |
-| Subject | Accountancy Part 1 |
-| Chapter | Reconstitution of a Partnership Firm - Retirement or Death of a Partner |
-| Core Skill | Calculating dues of a retiring or deceased partner and adjusting the accounts of continuing partners |
-| Main Idea | Retirement or death changes the profit-sharing relationship, so the firm must settle the outgoing partner's rights fairly. |
+| Item       | Details                                                                                                                    |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Class      | 12                                                                                                                         |
+| Subject    | Accountancy Part 1                                                                                                         |
+| Chapter    | Reconstitution of a Partnership Firm - Retirement or Death of a Partner                                                    |
+| Core Skill | Calculating dues of a retiring or deceased partner and adjusting the accounts of continuing partners                       |
+| Main Idea  | Retirement or death changes the profit-sharing relationship, so the firm must settle the outgoing partner's rights fairly. |
 
 ## 1. Big Picture
 
@@ -44,11 +44,11 @@ The accounting treatment is mostly the same. In both cases, the outgoing partner
 
 ### Difference
 
-| Retirement | Death |
-| --- | --- |
-| Amount is payable to the retiring partner. | Amount is payable to executor/legal representative. |
-| Date is usually agreed. | Date is the date of death. |
-| Retiring partner may negotiate settlement directly. | Legal representative receives the settlement. |
+| Retirement                                          | Death                                               |
+| --------------------------------------------------- | --------------------------------------------------- |
+| Amount is payable to the retiring partner.          | Amount is payable to executor/legal representative. |
+| Date is usually agreed.                             | Date is the date of death.                          |
+| Retiring partner may negotiate settlement directly. | Legal representative receives the settlement.       |
 
 ## 3. Accounting Matters to Be Settled
 
@@ -75,11 +75,11 @@ New profit sharing ratio is the ratio in which the remaining partners share futu
 
 There are three common situations.
 
-| Situation | Treatment |
-| --- | --- |
-| Question gives new ratio directly | Use the given ratio. |
-| Remaining partners acquire outgoing partner's share in a given ratio | Add acquired share to each continuing partner's old share. |
-| No information is given | Continuing partners continue in their old ratio among themselves. |
+| Situation                                                            | Treatment                                                         |
+| -------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| Question gives new ratio directly                                    | Use the given ratio.                                              |
+| Remaining partners acquire outgoing partner's share in a given ratio | Add acquired share to each continuing partner's old share.        |
+| No information is given                                              | Continuing partners continue in their old ratio among themselves. |
 
 ### Example: No Information Given
 
@@ -205,11 +205,11 @@ C's share of goodwill:
 
 Adjustment:
 
-| Partner | Ratio | Debit |
-| --- | ---: | ---: |
-| A | 3/5 | Rs. 6,000 |
-| B | 2/5 | Rs. 4,000 |
-| C | Credit | Rs. 10,000 |
+| Partner |  Ratio |      Debit |
+| ------- | -----: | ---------: |
+| A       |    3/5 |  Rs. 6,000 |
+| B       |    2/5 |  Rs. 4,000 |
+| C       | Credit | Rs. 10,000 |
 
 Entry:
 
@@ -368,11 +368,11 @@ Debit all partners in old ratio.
 
 This item is often tested because it depends on the liability.
 
-| Situation | Treatment |
-| --- | --- |
-| No claim/liability exists | Distribute full reserve among old partners in old ratio. |
-| Claim equals reserve | Transfer reserve to liability; no distribution. |
-| Claim is less than reserve | Transfer claim to liability and distribute excess reserve among old partners. |
+| Situation                  | Treatment                                                                        |
+| -------------------------- | -------------------------------------------------------------------------------- |
+| No claim/liability exists  | Distribute full reserve among old partners in old ratio.                         |
+| Claim equals reserve       | Transfer reserve to liability; no distribution.                                  |
+| Claim is less than reserve | Transfer claim to liability and distribute excess reserve among old partners.    |
 | Claim is more than reserve | Transfer full reserve to liability and debit excess through Revaluation Account. |
 
 ## 12. Share of Profit up to Date of Retirement or Death
@@ -381,10 +381,10 @@ If a partner leaves during the year, their share of profit up to that date must 
 
 ### Common Methods
 
-| Method | Formula Idea |
-| --- | --- |
-| Time basis | Previous year's profit or estimated profit x period completed x outgoing partner's share |
-| Sales/turnover basis | Profit estimated using sales up to retirement/death |
+| Method               | Formula Idea                                                                             |
+| -------------------- | ---------------------------------------------------------------------------------------- |
+| Time basis           | Previous year's profit or estimated profit x period completed x outgoing partner's share |
+| Sales/turnover basis | Profit estimated using sales up to retirement/death                                      |
 
 ### Time Basis Example
 
@@ -548,45 +548,45 @@ C's share:
 
 A and B gain in 3:2, so:
 
-| Partner | Debit |
-| --- | ---: |
-| A | Rs. 9,000 |
-| B | Rs. 6,000 |
-| C | Credit Rs. 15,000 |
+| Partner |             Debit |
+| ------- | ----------------: |
+| A       |         Rs. 9,000 |
+| B       |         Rs. 6,000 |
+| C       | Credit Rs. 15,000 |
 
 ### General Reserve
 
 Distributed in old ratio 3:2:1:
 
-| Partner | Credit |
-| --- | ---: |
-| A | Rs. 15,000 |
-| B | Rs. 10,000 |
-| C | Rs. 5,000 |
+| Partner |     Credit |
+| ------- | ---------: |
+| A       | Rs. 15,000 |
+| B       | Rs. 10,000 |
+| C       |  Rs. 5,000 |
 
 ### Revaluation Profit
 
 Distributed in old ratio 3:2:1:
 
-| Partner | Credit |
-| --- | ---: |
-| A | Rs. 6,000 |
-| B | Rs. 4,000 |
-| C | Rs. 2,000 |
+| Partner |    Credit |
+| ------- | --------: |
+| A       | Rs. 6,000 |
+| B       | Rs. 4,000 |
+| C       | Rs. 2,000 |
 
 C receives credit for goodwill, reserve, and revaluation because all three relate to the period when C was a partner.
 
 ## 19. Common Mistakes and Corrections
 
-| Mistake | Correct Thinking |
-| --- | --- |
-| Sharing goodwill in old ratio | Outgoing partner's share of goodwill is compensated by gaining partners in gaining ratio. |
-| Sharing revaluation in new ratio | Revaluation belongs to old period, so use old ratio. |
-| Ignoring existing goodwill | Existing goodwill should generally be written off in old ratio before fresh adjustment. |
-| Treating reserves as belonging only to continuing partners | Reserves belong to all old partners. |
-| Confusing gaining ratio with new ratio | Gaining ratio is new share minus old share. |
-| Crediting deceased partner directly with payment | Transfer balance to Executor's Account first. |
-| Forgetting profit up to date of death | The deceased partner is entitled to profit up to the date of death if applicable. |
+| Mistake                                                    | Correct Thinking                                                                          |
+| ---------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| Sharing goodwill in old ratio                              | Outgoing partner's share of goodwill is compensated by gaining partners in gaining ratio. |
+| Sharing revaluation in new ratio                           | Revaluation belongs to old period, so use old ratio.                                      |
+| Ignoring existing goodwill                                 | Existing goodwill should generally be written off in old ratio before fresh adjustment.   |
+| Treating reserves as belonging only to continuing partners | Reserves belong to all old partners.                                                      |
+| Confusing gaining ratio with new ratio                     | Gaining ratio is new share minus old share.                                               |
+| Crediting deceased partner directly with payment           | Transfer balance to Executor's Account first.                                             |
+| Forgetting profit up to date of death                      | The deceased partner is entitled to profit up to the date of death if applicable.         |
 
 ## 20. Exam Answer Frames
 
@@ -625,15 +625,15 @@ Revaluation Account is prepared at the time of retirement or death of a partner 
 
 ## 22. Quick Revision Sheet
 
-| Item | Ratio Used |
-| --- | --- |
-| Revaluation profit/loss | Old ratio |
-| Accumulated profits/reserves | Old ratio |
-| Accumulated losses | Old ratio |
-| Existing goodwill written off | Old ratio |
+| Item                                     | Ratio Used    |
+| ---------------------------------------- | ------------- |
+| Revaluation profit/loss                  | Old ratio     |
+| Accumulated profits/reserves             | Old ratio     |
+| Accumulated losses                       | Old ratio     |
+| Existing goodwill written off            | Old ratio     |
 | Outgoing partner's goodwill compensation | Gaining ratio |
-| Future profits after retirement/death | New ratio |
-| Capital adjustment after reconstitution | New ratio |
+| Future profits after retirement/death    | New ratio     |
+| Capital adjustment after reconstitution  | New ratio     |
 
 ## 23. Final Learning Takeaway
 

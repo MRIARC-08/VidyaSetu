@@ -27,25 +27,25 @@ The most important lesson is that regional aspirations are not automatically ant
 
 ## Key Terms
 
-| Term | Meaning | Why it matters |
-|---|---|---|
-| Regional aspiration | Political demand based on regional identity, needs, or autonomy | Central theme of the chapter |
-| Regionalism | Political expression of regional identity | Not always anti-national |
-| Autonomy | Greater power for a region to govern its own affairs | Many movements demanded it |
-| Secession | Demand to separate from India and form another country | More serious challenge than autonomy |
-| Accord | Negotiated agreement between government and movement leaders | Used to settle conflicts |
-| Kashmiriyat | Sense of Kashmiri identity above religious division | Important in Jammu and Kashmir |
-| Article 370 | Special constitutional provision for Jammu and Kashmir, abrogated in August 2019 | Core issue in Kashmir politics |
-| Instrument of Accession | Document by which Maharaja Hari Singh acceded to India | Basis of Jammu and Kashmir's accession |
-| Dravidian movement | Movement in Tamil Nadu asserting Dravidian identity and opposing northern domination | Example of regionalism within democracy |
-| Anandpur Sahib Resolution | Akali Dal resolution of 1973 demanding greater state autonomy | Became controversial in Punjab politics |
-| Operation Blue Star | Army action in Golden Temple in June 1984 | Deepened Punjab crisis |
-| Punjab Accord | 1985 Rajiv Gandhi-Longowal agreement | Attempted peace settlement |
-| AASU | All Assam Students' Union | Led Assam movement |
-| Assam Accord | 1985 agreement between government and AASU leaders | Settled phase of anti-foreigner agitation |
-| MNF | Mizo National Front | Led Mizo insurgency, later signed peace agreement |
-| Sixth Schedule | Constitutional provision for tribal autonomy in some regions | Helped accommodate North-East diversity |
-| Protectorate | Territory protected by another state but not fully integrated | Sikkim before merger |
+| Term                      | Meaning                                                                              | Why it matters                                    |
+| ------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------- |
+| Regional aspiration       | Political demand based on regional identity, needs, or autonomy                      | Central theme of the chapter                      |
+| Regionalism               | Political expression of regional identity                                            | Not always anti-national                          |
+| Autonomy                  | Greater power for a region to govern its own affairs                                 | Many movements demanded it                        |
+| Secession                 | Demand to separate from India and form another country                               | More serious challenge than autonomy              |
+| Accord                    | Negotiated agreement between government and movement leaders                         | Used to settle conflicts                          |
+| Kashmiriyat               | Sense of Kashmiri identity above religious division                                  | Important in Jammu and Kashmir                    |
+| Article 370               | Special constitutional provision for Jammu and Kashmir, abrogated in August 2019     | Core issue in Kashmir politics                    |
+| Instrument of Accession   | Document by which Maharaja Hari Singh acceded to India                               | Basis of Jammu and Kashmir's accession            |
+| Dravidian movement        | Movement in Tamil Nadu asserting Dravidian identity and opposing northern domination | Example of regionalism within democracy           |
+| Anandpur Sahib Resolution | Akali Dal resolution of 1973 demanding greater state autonomy                        | Became controversial in Punjab politics           |
+| Operation Blue Star       | Army action in Golden Temple in June 1984                                            | Deepened Punjab crisis                            |
+| Punjab Accord             | 1985 Rajiv Gandhi-Longowal agreement                                                 | Attempted peace settlement                        |
+| AASU                      | All Assam Students' Union                                                            | Led Assam movement                                |
+| Assam Accord              | 1985 agreement between government and AASU leaders                                   | Settled phase of anti-foreigner agitation         |
+| MNF                       | Mizo National Front                                                                  | Led Mizo insurgency, later signed peace agreement |
+| Sixth Schedule            | Constitutional provision for tribal autonomy in some regions                         | Helped accommodate North-East diversity           |
+| Protectorate              | Territory protected by another state but not fully integrated                        | Sikkim before merger                              |
 
 ## 1. The Chapter In One Sentence
 
@@ -154,11 +154,11 @@ Each case shows a different form of regional aspiration.
 
 Jammu and Kashmir contained three major social and political regions:
 
-| Region | Broad features |
-|---|---|
-| Jammu | Foothills and plains; Hindu majority with Muslims, Sikhs, and others |
-| Kashmir Valley | Mostly Kashmiri Muslim population with minorities |
-| Ladakh | Mountainous region with Buddhist and Muslim populations |
+| Region         | Broad features                                                       |
+| -------------- | -------------------------------------------------------------------- |
+| Jammu          | Foothills and plains; Hindu majority with Muslims, Sikhs, and others |
+| Kashmir Valley | Mostly Kashmiri Muslim population with minorities                    |
+| Ladakh         | Mountainous region with Buddhist and Muslim populations              |
 
 This internal diversity created multiple regional aspirations within the larger Jammu and Kashmir issue.
 
@@ -247,10 +247,10 @@ India agreed to provisional autonomy under Article 370.
 
 The Kashmir issue had two dimensions.
 
-| Dimension | Main issue |
-|---|---|
-| External | Pakistan's claim over Kashmir and conflict with India |
-| Internal | Dispute over the status and autonomy of Jammu and Kashmir within India |
+| Dimension | Main issue                                                             |
+| --------- | ---------------------------------------------------------------------- |
+| External  | Pakistan's claim over Kashmir and conflict with India                  |
+| Internal  | Dispute over the status and autonomy of Jammu and Kashmir within India |
 
 Good answers should include both dimensions.
 
@@ -258,13 +258,13 @@ Good answers should include both dimensions.
 
 There were different positions on Kashmir.
 
-| Position | Basic view |
-|---|---|
-| Full integration view | Article 370 prevented complete integration and should be removed |
-| Autonomy view | Article 370 had been eroded and greater autonomy should be restored |
-| Plebiscite view | People should decide because the earlier promise was not fulfilled |
-| Separatist view | Kashmir should not remain part of India |
-| Pro-Pakistan view | Kashmir should join Pakistan |
+| Position              | Basic view                                                          |
+| --------------------- | ------------------------------------------------------------------- |
+| Full integration view | Article 370 prevented complete integration and should be removed    |
+| Autonomy view         | Article 370 had been eroded and greater autonomy should be restored |
+| Plebiscite view       | People should decide because the earlier promise was not fulfilled  |
+| Separatist view       | Kashmir should not remain part of India                             |
+| Pro-Pakistan view     | Kashmir should join Pakistan                                        |
 
 The chapter asks learners to understand these differences, not collapse them into one.
 
@@ -837,67 +837,67 @@ These arrangements help accommodate diversity within the Union.
 
 ## 74. Matching Practice
 
-| Nature of regional aspiration | State or region |
-|---|---|
-| Socio-religious identity leading to statehood | Punjab |
-| Linguistic identity and tension with Centre | Tamil Nadu |
+| Nature of regional aspiration                      | State or region           |
+| -------------------------------------------------- | ------------------------- |
+| Socio-religious identity leading to statehood      | Punjab                    |
+| Linguistic identity and tension with Centre        | Tamil Nadu                |
 | Regional imbalance leading to demand for statehood | Jharkhand or Chhattisgarh |
-| Secessionist demands on account of tribal identity | Nagaland or Mizoram |
+| Secessionist demands on account of tribal identity | Nagaland or Mizoram       |
 
 ## 75. Regional Movements: Type Table
 
-| Type | Example |
-|---|---|
-| Autonomy demand | Bodo, Karbi, Dimasa demands in Assam |
-| Secessionist movement | Mizoram before 1986, Nagaland |
-| Movement against outsiders | Assam movement |
-| Democratic regional movement | Dravidian movement in Tamil Nadu |
-| Merger through popular approval | Sikkim |
-| Liberation from colonial rule | Goa |
+| Type                            | Example                              |
+| ------------------------------- | ------------------------------------ |
+| Autonomy demand                 | Bodo, Karbi, Dimasa demands in Assam |
+| Secessionist movement           | Mizoram before 1986, Nagaland        |
+| Movement against outsiders      | Assam movement                       |
+| Democratic regional movement    | Dravidian movement in Tamil Nadu     |
+| Merger through popular approval | Sikkim                               |
+| Liberation from colonial rule   | Goa                                  |
 
 ## 76. Common Misunderstandings
 
-| Misunderstanding | Correct understanding |
-|---|---|
-| Regionalism is always anti-national | Many regional movements work within Indian democracy |
-| Every autonomy demand is separatist | Autonomy means more power within India; secession means separation |
-| Tamil regionalism weakened India | Dravidian politics became part of democratic national politics |
-| Punjab Accord solved everything immediately | Violence continued for nearly a decade |
-| Assam movement was only about culture | It combined cultural pride with economic backwardness |
-| North-East problems are all the same | Autonomy, secession, and outsider issues are distinct |
-| Suppression is enough to solve regional conflict | Durable peace often requires negotiation and power sharing |
+| Misunderstanding                                 | Correct understanding                                              |
+| ------------------------------------------------ | ------------------------------------------------------------------ |
+| Regionalism is always anti-national              | Many regional movements work within Indian democracy               |
+| Every autonomy demand is separatist              | Autonomy means more power within India; secession means separation |
+| Tamil regionalism weakened India                 | Dravidian politics became part of democratic national politics     |
+| Punjab Accord solved everything immediately      | Violence continued for nearly a decade                             |
+| Assam movement was only about culture            | It combined cultural pride with economic backwardness              |
+| North-East problems are all the same             | Autonomy, secession, and outsider issues are distinct              |
+| Suppression is enough to solve regional conflict | Durable peace often requires negotiation and power sharing         |
 
 ## 77. Timeline
 
-| Year or date | Event |
-|---|---|
-| October 1947 | Tribal infiltrators entered Kashmir; Maharaja signed Instrument of Accession |
-| 21 April 1948 | UN resolution proposed steps on Kashmir |
-| March 1948 | Sheikh Abdullah became Prime Minister of J&K |
-| 1951 | Phizo-led Naga section declared independence |
-| 1953 | Sheikh Abdullah dismissed and detained |
-| 1953-1954 | DMK's three agitations |
-| 1959 | Great famine in Mizo Hills |
-| 1961 | Goa, Diu, and Daman liberated from Portuguese rule |
-| 1963 | Nagaland became a state |
-| 1965 | Anti-Hindi agitation increased DMK's popularity |
-| 1965 | Head of J&K government renamed Chief Minister |
-| 1966 | Punjab and Haryana created; MNF began armed campaign |
-| 1967 | DMK came to power; Goa opinion poll held |
-| 1972 | Manipur, Tripura, and Meghalaya became states |
-| 1973 | Anandpur Sahib Resolution |
-| 1974 | Indira Gandhi-Sheikh Abdullah agreement |
-| 1975 | Sikkim became India's 22nd state |
-| 1977 | National Conference won J&K assembly elections |
-| 1979 | Assam movement began |
-| June 1984 | Operation Blue Star |
-| 31 October 1984 | Indira Gandhi assassinated |
-| 1985 | Punjab Accord and Assam Accord |
-| 1986 | Mizoram peace accord |
-| 1987 | Mizoram and Arunachal Pradesh became states; Goa became a state |
-| 1992 | Punjab election had low turnout |
-| 1997 | Akali Dal (Badal)-BJP won in Punjab |
-| August 2019 | Article 370 abrogated |
+| Year or date    | Event                                                                        |
+| --------------- | ---------------------------------------------------------------------------- |
+| October 1947    | Tribal infiltrators entered Kashmir; Maharaja signed Instrument of Accession |
+| 21 April 1948   | UN resolution proposed steps on Kashmir                                      |
+| March 1948      | Sheikh Abdullah became Prime Minister of J&K                                 |
+| 1951            | Phizo-led Naga section declared independence                                 |
+| 1953            | Sheikh Abdullah dismissed and detained                                       |
+| 1953-1954       | DMK's three agitations                                                       |
+| 1959            | Great famine in Mizo Hills                                                   |
+| 1961            | Goa, Diu, and Daman liberated from Portuguese rule                           |
+| 1963            | Nagaland became a state                                                      |
+| 1965            | Anti-Hindi agitation increased DMK's popularity                              |
+| 1965            | Head of J&K government renamed Chief Minister                                |
+| 1966            | Punjab and Haryana created; MNF began armed campaign                         |
+| 1967            | DMK came to power; Goa opinion poll held                                     |
+| 1972            | Manipur, Tripura, and Meghalaya became states                                |
+| 1973            | Anandpur Sahib Resolution                                                    |
+| 1974            | Indira Gandhi-Sheikh Abdullah agreement                                      |
+| 1975            | Sikkim became India's 22nd state                                             |
+| 1977            | National Conference won J&K assembly elections                               |
+| 1979            | Assam movement began                                                         |
+| June 1984       | Operation Blue Star                                                          |
+| 31 October 1984 | Indira Gandhi assassinated                                                   |
+| 1985            | Punjab Accord and Assam Accord                                               |
+| 1986            | Mizoram peace accord                                                         |
+| 1987            | Mizoram and Arunachal Pradesh became states; Goa became a state              |
+| 1992            | Punjab election had low turnout                                              |
+| 1997            | Akali Dal (Badal)-BJP won in Punjab                                          |
+| August 2019     | Article 370 abrogated                                                        |
 
 ## 78. Short Answer Practice
 

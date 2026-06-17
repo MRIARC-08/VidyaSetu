@@ -1,4 +1,5 @@
 # Chapter 1: Colonialism and the Countryside
+
 ### NCERT Class 12 - History Part 3
 
 ## Chapter at a Glance
@@ -24,31 +25,31 @@ By the end of this chapter, learners should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Permanent Settlement | Revenue settlement introduced in Bengal in 1793 that fixed the state demand permanently. |
-| Zamindar | Revenue-collecting intermediary recognised by the Company in Bengal. |
-| Ryot | Peasant or cultivator, often written as raiyat in older usage. |
-| Mahal | Revenue estate or unit from which land revenue was assessed. |
-| Taluqdar | Holder of a territorial unit called a taluq. |
-| Sunset Law | Rule under which zamindari estates could be auctioned if revenue was not paid by sunset on the due date. |
-| Jotedar | Rich peasant in Bengal who controlled land, trade, moneylending, and poorer cultivators. |
-| Adhiyar or Bargadar | Sharecropper who cultivated land and handed over a share of the produce. |
-| Benami | Transaction made in another person's name while the real beneficiary remains hidden. |
-| Paharia | Hill people of the Rajmahal region who practised shifting cultivation, hunting, gathering, and forest-based livelihoods. |
-| Santhal | Community that settled in the Rajmahal region and expanded settled cultivation. |
-| Damin-i-Koh | Area marked out by the British for Santhal settlement in the Rajmahal hills. |
-| Ryotwari Settlement | Revenue system in which the state settled revenue directly with the peasant cultivator. |
-| Sahukar | Moneylender or rural creditor. |
-| Deccan Riots | Peasant uprisings in 1875 in the Bombay Deccan, directed mainly against moneylenders and debt records. |
+| Term                 | Meaning                                                                                                                  |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Permanent Settlement | Revenue settlement introduced in Bengal in 1793 that fixed the state demand permanently.                                 |
+| Zamindar             | Revenue-collecting intermediary recognised by the Company in Bengal.                                                     |
+| Ryot                 | Peasant or cultivator, often written as raiyat in older usage.                                                           |
+| Mahal                | Revenue estate or unit from which land revenue was assessed.                                                             |
+| Taluqdar             | Holder of a territorial unit called a taluq.                                                                             |
+| Sunset Law           | Rule under which zamindari estates could be auctioned if revenue was not paid by sunset on the due date.                 |
+| Jotedar              | Rich peasant in Bengal who controlled land, trade, moneylending, and poorer cultivators.                                 |
+| Adhiyar or Bargadar  | Sharecropper who cultivated land and handed over a share of the produce.                                                 |
+| Benami               | Transaction made in another person's name while the real beneficiary remains hidden.                                     |
+| Paharia              | Hill people of the Rajmahal region who practised shifting cultivation, hunting, gathering, and forest-based livelihoods. |
+| Santhal              | Community that settled in the Rajmahal region and expanded settled cultivation.                                          |
+| Damin-i-Koh          | Area marked out by the British for Santhal settlement in the Rajmahal hills.                                             |
+| Ryotwari Settlement  | Revenue system in which the state settled revenue directly with the peasant cultivator.                                  |
+| Sahukar              | Moneylender or rural creditor.                                                                                           |
+| Deccan Riots         | Peasant uprisings in 1875 in the Bombay Deccan, directed mainly against moneylenders and debt records.                   |
 
 ## Quick Learning Map
 
-| Region | Main Issue | Groups Involved | Historical Result |
-|---|---|---|---|
-| Bengal | Permanent Settlement and zamindari crisis | Company, zamindars, jotedars, ryots | Revenue auctions, fictitious sales, rise of rich peasants |
-| Rajmahal hills | Forest, cultivation, and territorial control | Paharias, Santhals, British officials | Santhal settlement, displacement pressures, rebellion |
-| Bombay Deccan | Revenue demand, debt, cotton boom and bust | Ryots, sahukars, officials, cotton merchants | Peasant anger and riots of 1875 |
+| Region         | Main Issue                                   | Groups Involved                              | Historical Result                                         |
+| -------------- | -------------------------------------------- | -------------------------------------------- | --------------------------------------------------------- |
+| Bengal         | Permanent Settlement and zamindari crisis    | Company, zamindars, jotedars, ryots          | Revenue auctions, fictitious sales, rise of rich peasants |
+| Rajmahal hills | Forest, cultivation, and territorial control | Paharias, Santhals, British officials        | Santhal settlement, displacement pressures, rebellion     |
+| Bombay Deccan  | Revenue demand, debt, cotton boom and bust   | Ryots, sahukars, officials, cotton merchants | Peasant anger and riots of 1875                           |
 
 # Unit 1A: Colonial Rule in the Countryside
 
@@ -153,12 +154,12 @@ They were powerful because they could:
 
 ## Jotedars versus Zamindars
 
-| Zamindars | Jotedars |
-|---|---|
-| Often controlled many villages from a distance | Lived inside or near villages |
-| Had recognised revenue obligations to the Company | Had direct control over poorer peasants |
-| Depended on collection through officials | Controlled labour, credit, and local trade |
-| Faced auction if revenue was unpaid | Often gained from zamindari weakness |
+| Zamindars                                         | Jotedars                                   |
+| ------------------------------------------------- | ------------------------------------------ |
+| Often controlled many villages from a distance    | Lived inside or near villages              |
+| Had recognised revenue obligations to the Company | Had direct control over poorer peasants    |
+| Depended on collection through officials          | Controlled labour, credit, and local trade |
+| Faced auction if revenue was unpaid               | Often gained from zamindari weakness       |
 
 The rise of jotedars shows that rural power was not located only at the top. A rich peasant group could become more effective locally than a large zamindar.
 
@@ -429,21 +430,21 @@ History becomes stronger when evidence is compared rather than accepted at face 
 
 # Unit 1Q: Timeline
 
-| Year | Event |
-|---|---|
-| 1765 | East India Company acquired Diwani of Bengal. |
-| 1773 | Regulating Act passed by British Parliament. |
-| 1793 | Permanent Settlement introduced in Bengal. |
-| 1800s | Santhals began settling in the Rajmahal hills. |
-| 1813 | Fifth Report submitted to British Parliament. |
-| 1818 | First revenue settlement in the Bombay Deccan. |
-| 1820s | Agricultural prices began to fall. |
-| 1832-34 | Famine affected the Deccan. |
-| 1840s-50s | Agrarian expansion resumed in parts of the Deccan. |
-| 1855-56 | Santhal rebellion. |
-| 1861 | Cotton boom began after the American Civil War disrupted supply. |
-| 1875 | Deccan ryots rebelled against moneylenders. |
-| 1878 | Deccan Riots Report presented to British Parliament. |
+| Year      | Event                                                            |
+| --------- | ---------------------------------------------------------------- |
+| 1765      | East India Company acquired Diwani of Bengal.                    |
+| 1773      | Regulating Act passed by British Parliament.                     |
+| 1793      | Permanent Settlement introduced in Bengal.                       |
+| 1800s     | Santhals began settling in the Rajmahal hills.                   |
+| 1813      | Fifth Report submitted to British Parliament.                    |
+| 1818      | First revenue settlement in the Bombay Deccan.                   |
+| 1820s     | Agricultural prices began to fall.                               |
+| 1832-34   | Famine affected the Deccan.                                      |
+| 1840s-50s | Agrarian expansion resumed in parts of the Deccan.               |
+| 1855-56   | Santhal rebellion.                                               |
+| 1861      | Cotton boom began after the American Civil War disrupted supply. |
+| 1875      | Deccan ryots rebelled against moneylenders.                      |
+| 1878      | Deccan Riots Report presented to British Parliament.             |
 
 # Unit 1R: Cause and Effect Chains
 
@@ -497,15 +498,15 @@ Write in this order:
 
 # Unit 1T: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Saying the Permanent Settlement benefited all zamindars | Many zamindars defaulted and faced auction. |
-| Treating zamindars as simple landowners | They were revenue intermediaries with complex local authority. |
-| Ignoring jotedars | Jotedars were crucial to village-level power in Bengal. |
-| Saying Santhals rebelled only because of British officials | They rebelled against a wider world of dikus, including moneylenders and traders. |
-| Saying ryotwari was light on peasants | It could be harsh because revenue demand was high and revisable. |
-| Blaming only moneylenders for Deccan riots | Moneylenders mattered, but revenue demand, courts, bonds, and market shifts also mattered. |
-| Accepting official reports without question | Colonial reports must be read critically and compared with other evidence. |
+| Mistake                                                    | Correction                                                                                 |
+| ---------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| Saying the Permanent Settlement benefited all zamindars    | Many zamindars defaulted and faced auction.                                                |
+| Treating zamindars as simple landowners                    | They were revenue intermediaries with complex local authority.                             |
+| Ignoring jotedars                                          | Jotedars were crucial to village-level power in Bengal.                                    |
+| Saying Santhals rebelled only because of British officials | They rebelled against a wider world of dikus, including moneylenders and traders.          |
+| Saying ryotwari was light on peasants                      | It could be harsh because revenue demand was high and revisable.                           |
+| Blaming only moneylenders for Deccan riots                 | Moneylenders mattered, but revenue demand, courts, bonds, and market shifts also mattered. |
+| Accepting official reports without question                | Colonial reports must be read critically and compared with other evidence.                 |
 
 ## Practice Set
 

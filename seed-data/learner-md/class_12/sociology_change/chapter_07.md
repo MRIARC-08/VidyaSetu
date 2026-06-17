@@ -22,18 +22,18 @@ The main idea is that media and society influence each other. Media is shaped by
 
 ## Key Terms
 
-| Term | Meaning | Why it matters |
-|---|---|---|
-| Mass media | Communication forms that reach large audiences, such as television, newspapers, radio, film, internet, and magazines | Media is central to contemporary public life |
-| Mass communication | Communication from organised producers to large audiences | Requires technology, capital, and management |
-| Print media | Newspapers, magazines, books, pamphlets, and other printed forms | Played a major role in reform and nationalism |
-| Public broadcasting | Broadcasting intended to serve public interest, often supported by the state | All India Radio and Doordarshan were shaped by development goals |
-| Commercialisation | Shift toward advertising, profit, ratings, and consumer markets | Changed media content and priorities |
-| Infotainment | Mix of information and entertainment | Used to attract audiences but may weaken serious public debate |
-| Media conglomerate | Large company owning many media platforms | Concentrates media power |
-| Localisation | Adapting media content to local languages, cultures, and audiences | Helped global and national media reach Indian audiences |
-| Digital divide | Unequal access to digital technology and media | Shapes who can use new communication forms |
-| Audience segmentation | Dividing audiences by interest, language, age, class, region, or lifestyle | Drives specialised media content |
+| Term                  | Meaning                                                                                                              | Why it matters                                                   |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| Mass media            | Communication forms that reach large audiences, such as television, newspapers, radio, film, internet, and magazines | Media is central to contemporary public life                     |
+| Mass communication    | Communication from organised producers to large audiences                                                            | Requires technology, capital, and management                     |
+| Print media           | Newspapers, magazines, books, pamphlets, and other printed forms                                                     | Played a major role in reform and nationalism                    |
+| Public broadcasting   | Broadcasting intended to serve public interest, often supported by the state                                         | All India Radio and Doordarshan were shaped by development goals |
+| Commercialisation     | Shift toward advertising, profit, ratings, and consumer markets                                                      | Changed media content and priorities                             |
+| Infotainment          | Mix of information and entertainment                                                                                 | Used to attract audiences but may weaken serious public debate   |
+| Media conglomerate    | Large company owning many media platforms                                                                            | Concentrates media power                                         |
+| Localisation          | Adapting media content to local languages, cultures, and audiences                                                   | Helped global and national media reach Indian audiences          |
+| Digital divide        | Unequal access to digital technology and media                                                                       | Shapes who can use new communication forms                       |
+| Audience segmentation | Dividing audiences by interest, language, age, class, region, or lifestyle                                           | Drives specialised media content                                 |
 
 ## 1. What Is Mass Media?
 

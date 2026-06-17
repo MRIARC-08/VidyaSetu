@@ -28,25 +28,25 @@ The central idea is simple but powerful: development involves choices, and choic
 
 ## Key Terms
 
-| Term | Meaning | Why it matters |
-|---|---|---|
-| Development | Improvement in economic and social well-being | Central challenge of the chapter |
-| Political contestation | Conflict among different interests over public decisions | Shows why development is political |
-| Planning | State-led design for economic development | Main strategy adopted after independence |
-| Planning Commission | Advisory body set up in March 1950 to guide planning | Central institution of planned development |
-| Five Year Plan | Development plan covering government priorities over five years | Main planning instrument |
-| Mixed economy | Economy where both public and private sectors operate | India's broad development model |
-| Liberal-capitalist model | Development model based on private enterprise and markets | One model available to India |
-| Socialist model | Development model based on state ownership and planning | Strong influence on Indian planners |
-| Left | Supports state intervention, redistribution, and social justice | Helps explain ideological debate |
-| Right | Supports market freedom and limited state intervention | Helps explain opposition to planning controls |
-| Bombay Plan | 1944 proposal by leading industrialists supporting planned development | Shows planning had support beyond the left |
-| Public sector | Government-owned economic sector | Important in heavy industries |
-| Private sector | Privately owned economic sector | Continued to operate under planning |
-| Import substitution | Producing goods domestically instead of importing them | Protected Indian industries |
-| Land reforms | Changes in land ownership and tenancy arrangements | Linked to agricultural development |
-| Plan holiday | Period when regular Five Year Plans were suspended | Result of crisis after the Third Plan |
-| NITI Aayog | Institution that replaced the Planning Commission in 2015 | Later institutional change |
+| Term                     | Meaning                                                                | Why it matters                                |
+| ------------------------ | ---------------------------------------------------------------------- | --------------------------------------------- |
+| Development              | Improvement in economic and social well-being                          | Central challenge of the chapter              |
+| Political contestation   | Conflict among different interests over public decisions               | Shows why development is political            |
+| Planning                 | State-led design for economic development                              | Main strategy adopted after independence      |
+| Planning Commission      | Advisory body set up in March 1950 to guide planning                   | Central institution of planned development    |
+| Five Year Plan           | Development plan covering government priorities over five years        | Main planning instrument                      |
+| Mixed economy            | Economy where both public and private sectors operate                  | India's broad development model               |
+| Liberal-capitalist model | Development model based on private enterprise and markets              | One model available to India                  |
+| Socialist model          | Development model based on state ownership and planning                | Strong influence on Indian planners           |
+| Left                     | Supports state intervention, redistribution, and social justice        | Helps explain ideological debate              |
+| Right                    | Supports market freedom and limited state intervention                 | Helps explain opposition to planning controls |
+| Bombay Plan              | 1944 proposal by leading industrialists supporting planned development | Shows planning had support beyond the left    |
+| Public sector            | Government-owned economic sector                                       | Important in heavy industries                 |
+| Private sector           | Privately owned economic sector                                        | Continued to operate under planning           |
+| Import substitution      | Producing goods domestically instead of importing them                 | Protected Indian industries                   |
+| Land reforms             | Changes in land ownership and tenancy arrangements                     | Linked to agricultural development            |
+| Plan holiday             | Period when regular Five Year Plans were suspended                     | Result of crisis after the Third Plan         |
+| NITI Aayog               | Institution that replaced the Planning Commission in 2015              | Later institutional change                    |
 
 ## 1. The Chapter In One Sentence
 
@@ -125,14 +125,14 @@ This example shows why development is contested.
 
 Development means different things to different groups.
 
-| Group | What development may mean to them |
-|---|---|
-| Industrialist | Permission, land, minerals, investment, profit |
-| State government | Jobs, tax revenue, growth, prestige |
-| Urban consumer | More steel, better infrastructure, lower prices |
-| Adivasi community | Protection of land, forests, culture, and livelihood |
-| Environmentalist | Ecological protection and sustainable use of resources |
-| Central government | National growth and investment confidence |
+| Group              | What development may mean to them                      |
+| ------------------ | ------------------------------------------------------ |
+| Industrialist      | Permission, land, minerals, investment, profit         |
+| State government   | Jobs, tax revenue, growth, prestige                    |
+| Urban consumer     | More steel, better infrastructure, lower prices        |
+| Adivasi community  | Protection of land, forests, culture, and livelihood   |
+| Environmentalist   | Ecological protection and sustainable use of resources |
+| Central government | National growth and investment confidence              |
 
 There is no single automatic answer to whose view should prevail.
 
@@ -215,10 +215,10 @@ But India also considered other routes to modernity.
 
 At independence, India had two broad development models before it.
 
-| Model | Main features |
-|---|---|
+| Model                    | Main features                                                                       |
+| ------------------------ | ----------------------------------------------------------------------------------- |
 | Liberal-capitalist model | Private enterprise, market competition, limited state intervention, Western example |
-| Socialist model | State control, planning, public sector, redistribution, Soviet example |
+| Socialist model          | State control, planning, public sector, redistribution, Soviet example              |
 
 India did not fully copy either model. It adopted a mixed economy with planning.
 
@@ -253,10 +253,10 @@ The state was expected to play a major role.
 
 In economic politics:
 
-| Position | Broad meaning |
-|---|---|
-| Left | Favours state control, redistribution, regulation, workers, peasants, and social equality |
-| Right | Favours free competition, market economy, private enterprise, and limited state intervention |
+| Position | Broad meaning                                                                                |
+| -------- | -------------------------------------------------------------------------------------------- |
+| Left     | Favours state control, redistribution, regulation, workers, peasants, and social equality    |
+| Right    | Favours free competition, market economy, private enterprise, and limited state intervention |
 
 In India, the Congress of the early years was not simply left or right. It contained both tendencies and tried to balance them.
 
@@ -381,10 +381,10 @@ It helped the state decide:
 
 During the planning period, government expenditure was often divided into:
 
-| Type | Meaning |
-|---|---|
-| Plan expenditure | Spending linked to Five Year Plan priorities |
-| Non-plan expenditure | Routine annual spending |
+| Type                 | Meaning                                      |
+| -------------------- | -------------------------------------------- |
+| Plan expenditure     | Spending linked to Five Year Plan priorities |
+| Non-plan expenditure | Routine annual spending                      |
 
 This distinction helped planners focus on long-term development works.
 
@@ -541,14 +541,14 @@ Instead of only improving existing production, it wanted to build industrial cap
 
 ## 41. Comparing The First And Second Plans
 
-| Point | First Five Year Plan | Second Five Year Plan |
-|---|---|---|
-| Period | 1951-1956 | Began in 1956 |
-| Main focus | Agriculture, irrigation, rural development | Heavy industry and public sector |
+| Point        | First Five Year Plan                        | Second Five Year Plan                               |
+| ------------ | ------------------------------------------- | --------------------------------------------------- |
+| Period       | 1951-1956                                   | Began in 1956                                       |
+| Main focus   | Agriculture, irrigation, rural development  | Heavy industry and public sector                    |
 | Main thinker | K. N. Raj associated with cautious approach | P. C. Mahalanobis associated with industrialisation |
-| Strategy | Stabilise economy and reduce poverty cycle | Structural transformation |
-| Mood | Hasten slowly | Rapid industrial push |
-| Key concern | Food, agriculture, land reforms | Steel, machinery, electricity, industrial base |
+| Strategy     | Stabilise economy and reduce poverty cycle  | Structural transformation                           |
+| Mood         | Hasten slowly                               | Rapid industrial push                               |
+| Key concern  | Food, agriculture, land reforms             | Steel, machinery, electricity, industrial base      |
 
 ## 42. The Agriculture Versus Industry Debate
 
@@ -844,48 +844,48 @@ Later governments moved away from the earlier planning model.
 
 ## 67. Common Misunderstandings
 
-| Misunderstanding | Correct understanding |
-|---|---|
-| Development is only an economic issue | Development involves political choices and social conflict |
-| Everyone benefits equally from development | Different groups may benefit or suffer differently |
-| Planning was supported only by socialists | Even some industrialists supported planning through the Bombay Plan |
-| India adopted full socialism | India adopted a mixed economy |
-| The First Plan focused on heavy industry | The First Plan focused mainly on agriculture |
-| The Second Plan focused mainly on agriculture | The Second Plan focused on heavy industry |
-| Congress had a single economic ideology | Congress contained socialist and pro-private investment tendencies |
+| Misunderstanding                              | Correct understanding                                               |
+| --------------------------------------------- | ------------------------------------------------------------------- |
+| Development is only an economic issue         | Development involves political choices and social conflict          |
+| Everyone benefits equally from development    | Different groups may benefit or suffer differently                  |
+| Planning was supported only by socialists     | Even some industrialists supported planning through the Bombay Plan |
+| India adopted full socialism                  | India adopted a mixed economy                                       |
+| The First Plan focused on heavy industry      | The First Plan focused mainly on agriculture                        |
+| The Second Plan focused mainly on agriculture | The Second Plan focused on heavy industry                           |
+| Congress had a single economic ideology       | Congress contained socialist and pro-private investment tendencies  |
 
 ## 68. Timeline
 
-| Year | Event |
-|---|---|
-| 1944 | Bombay Plan prepared by leading industrialists |
-| March 1950 | Planning Commission set up |
-| December 1951 | First Five Year Plan document released |
-| 1951-1956 | First Five Year Plan |
-| 1955 | Congress declared goal of socialist pattern of society at Avadi |
-| 1956 | Second Five Year Plan launched |
-| 1961 | Third Five Year Plan launched |
-| 1966 | Fourth Plan postponed; plan holiday began |
-| 1 January 2015 | NITI Aayog replaced Planning Commission |
+| Year           | Event                                                           |
+| -------------- | --------------------------------------------------------------- |
+| 1944           | Bombay Plan prepared by leading industrialists                  |
+| March 1950     | Planning Commission set up                                      |
+| December 1951  | First Five Year Plan document released                          |
+| 1951-1956      | First Five Year Plan                                            |
+| 1955           | Congress declared goal of socialist pattern of society at Avadi |
+| 1956           | Second Five Year Plan launched                                  |
+| 1961           | Third Five Year Plan launched                                   |
+| 1966           | Fourth Plan postponed; plan holiday began                       |
+| 1 January 2015 | NITI Aayog replaced Planning Commission                         |
 
 ## 69. Comparing Development Models
 
-| Model | Strength | Weakness |
-|---|---|---|
-| Liberal-capitalist | Encourages private initiative and competition | May increase inequality and ignore social justice |
-| Socialist | Allows state-led redistribution and public investment | May create excessive state control and inefficiency |
-| Mixed economy | Combines state planning with private sector | Can create contradictions and policy confusion |
+| Model              | Strength                                              | Weakness                                            |
+| ------------------ | ----------------------------------------------------- | --------------------------------------------------- |
+| Liberal-capitalist | Encourages private initiative and competition         | May increase inequality and ignore social justice   |
+| Socialist          | Allows state-led redistribution and public investment | May create excessive state control and inefficiency |
+| Mixed economy      | Combines state planning with private sector           | Can create contradictions and policy confusion      |
 
 India chose the mixed economy route.
 
 ## 70. Matching Practice
 
-| Item | Match |
-|---|---|
-| Charan Singh | Farmers |
+| Item              | Match             |
+| ----------------- | ----------------- |
+| Charan Singh      | Farmers           |
 | P. C. Mahalanobis | Industrialisation |
-| Bihar Famine | Zoning |
-| Verghese Kurien | Milk Cooperatives |
+| Bihar Famine      | Zoning            |
+| Verghese Kurien   | Milk Cooperatives |
 
 ## 71. Multiple Choice Practice
 

@@ -11,10 +11,10 @@ import { NextResponse } from 'next/server';
 
 export const POST = withRoleAuth('ADMIN', async (req, auth) => {
   const body = await req.json();
-  
+
   // Your admin logic here
   console.log(`Admin ${auth.userId} performed action`);
-  
+
   return NextResponse.json({ success: true }, { status: 201 });
 });
 ```
@@ -29,7 +29,7 @@ import { ForbiddenError } from '@/lib/middleware/auth.middleware';
 
 async function requireAdmin() {
   const payload = await getAuthPayload();
-  
+
   try {
     requireRole('ADMIN')({
       userId: payload.sub,
@@ -42,7 +42,7 @@ async function requireAdmin() {
     }
     throw error;
   }
-  
+
   return payload;
 }
 ```
@@ -52,9 +52,9 @@ async function requireAdmin() {
 ### Pattern 1: Single Role
 
 ```typescript
-requireRole('ADMIN')(auth);        // ADMIN only
-requireRole('MODERATOR')(auth);    // MODERATOR and ADMIN
-requireRole('USER')(auth);         // All authenticated users
+requireRole('ADMIN')(auth); // ADMIN only
+requireRole('MODERATOR')(auth); // MODERATOR and ADMIN
+requireRole('USER')(auth); // All authenticated users
 ```
 
 ### Pattern 2: Multiple Roles (OR condition)
@@ -100,12 +100,14 @@ try {
 ### Add Admin-Only Endpoint
 
 **Step 1: Create route file**
+
 ```bash
 mkdir -p src/app/api/admin/my-action
 touch src/app/api/admin/my-action/route.ts
 ```
 
 **Step 2: Implement with role protection**
+
 ```typescript
 import { withRoleAuth } from '@/lib/middleware/auth.middleware';
 import { NextResponse } from 'next/server';
@@ -118,16 +120,19 @@ export const POST = withRoleAuth('ADMIN', async (req, auth) => {
 ```
 
 **Step 3: Update README**
+
 - Add endpoint to admin routes list in [README.md](README.md)
 
 ### Allow Moderators Too
 
 Change from:
+
 ```typescript
 export const POST = withRoleAuth('ADMIN', async ...)
 ```
 
 To:
+
 ```typescript
 export const POST = withRoleAuth(['ADMIN', 'MODERATOR'], async ...)
 ```
@@ -178,6 +183,7 @@ export const POST = withRoleAuth('ADMIN', async (req, auth) => {
 ## Response Examples
 
 ### Successful Request
+
 ```json
 HTTP 201 Created
 {
@@ -187,6 +193,7 @@ HTTP 201 Created
 ```
 
 ### Authorization Failure
+
 ```json
 HTTP 403 Forbidden
 {
@@ -196,6 +203,7 @@ HTTP 403 Forbidden
 ```
 
 ### Authentication Failure
+
 ```json
 HTTP 401 Unauthorized
 {
@@ -207,6 +215,7 @@ HTTP 401 Unauthorized
 ## Testing Endpoints
 
 ### With Admin Token
+
 ```bash
 curl -X POST http://localhost:3000/api/admin/add-question \
   -H "Cookie: access_token=<admin-token>" \
@@ -215,6 +224,7 @@ curl -X POST http://localhost:3000/api/admin/add-question \
 ```
 
 ### With User Token (Should Fail)
+
 ```bash
 curl -X POST http://localhost:3000/api/admin/add-question \
   -H "Cookie: access_token=<user-token>" \
@@ -228,31 +238,37 @@ curl -X POST http://localhost:3000/api/admin/add-question \
 ```typescript
 // For route handlers (recommended)
 import { withRoleAuth, withAuth } from '@/lib/middleware/auth.middleware';
-import { ForbiddenError, UnauthorizedError } from '@/lib/middleware/auth.middleware';
+import {
+  ForbiddenError,
+  UnauthorizedError,
+} from '@/lib/middleware/auth.middleware';
 import type { AuthContext } from '@/lib/middleware/auth.middleware';
 
 // For role validation (in services/controllers)
-import { 
-  requireRole, 
+import {
+  requireRole,
   requireExactRole,
   hasMinimumRole,
-  ROLE_HIERARCHY 
+  ROLE_HIERARCHY,
 } from '@/lib/middleware/role.middleware';
 ```
 
 ## Troubleshooting
 
 **Q: User gets 403 for MODERATOR endpoint despite being ADMIN**
+
 - Check: ADMIN should inherit MODERATOR permissions
 - Verify: `requireRole('MODERATOR')` should pass for ADMIN
 - Solution: Use role hierarchy correctly
 
 **Q: Roles not enforcing properly**
+
 - Clear browser cookies
 - Verify token has correct role in JWT
 - Check: Is `ADMIN` string capitalization correct?
 
 **Q: Migration not applying**
+
 - Run: `pnpm db:migrate dev --name add_moderator_role`
 - Verify: `pnpm db:migrate status`
 - Check: Is `DIRECT_URL` set correctly in `.env`?
@@ -273,23 +289,23 @@ import { AdminServices } from '@/modules/admin/admin.service';
 export const POST = withRoleAuth('ADMIN', async (req, auth) => {
   try {
     const file = await req.blob();
-    
+
     // Admin action - log it
     console.log(`[ADMIN] userId=${auth.userId} action=bulk-import`);
-    
+
     const result = await AdminServices.bulkImport(file);
-    
-    return NextResponse.json({
-      success: true,
-      message: 'Import completed successfully',
-      data: result,
-    }, { status: 201 });
+
+    return NextResponse.json(
+      {
+        success: true,
+        message: 'Import completed successfully',
+        data: result,
+      },
+      { status: 201 }
+    );
   } catch (error) {
     const message = error instanceof Error ? error.message : 'Import failed';
-    return NextResponse.json(
-      { success: false, message },
-      { status: 400 }
-    );
+    return NextResponse.json({ success: false, message }, { status: 400 });
   }
 });
 ```

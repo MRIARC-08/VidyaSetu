@@ -47,58 +47,58 @@ By the end of this chapter, you should be able to:
 
 ## Big Picture Map
 
-| Theme | Core Idea | Examples |
-| --- | --- | --- |
-| Soil | Mixture of mineral matter, organic matter, water, and air | Topsoil, subsoil, parent material |
-| Soil formation | Slow process controlled by many factors | Relief, parent rock, climate, organisms, time |
-| Soil profile | Vertical arrangement of soil horizons | A, B, C horizons and bedrock |
-| Soil classification | Scientific grouping of soils | Alluvial, black, laterite, arid |
-| Fertility | Capacity of soil to support plant growth | Humus, nutrients, texture, moisture |
-| Soil degradation | Decline in soil fertility and depth | Erosion, salinity, misuse |
-| Soil erosion | Removal of soil cover | Sheet erosion, gully erosion, wind erosion |
-| Soil conservation | Protection and improvement of soil | Terracing, bunding, crop rotation |
+| Theme               | Core Idea                                                 | Examples                                      |
+| ------------------- | --------------------------------------------------------- | --------------------------------------------- |
+| Soil                | Mixture of mineral matter, organic matter, water, and air | Topsoil, subsoil, parent material             |
+| Soil formation      | Slow process controlled by many factors                   | Relief, parent rock, climate, organisms, time |
+| Soil profile        | Vertical arrangement of soil horizons                     | A, B, C horizons and bedrock                  |
+| Soil classification | Scientific grouping of soils                              | Alluvial, black, laterite, arid               |
+| Fertility           | Capacity of soil to support plant growth                  | Humus, nutrients, texture, moisture           |
+| Soil degradation    | Decline in soil fertility and depth                       | Erosion, salinity, misuse                     |
+| Soil erosion        | Removal of soil cover                                     | Sheet erosion, gully erosion, wind erosion    |
+| Soil conservation   | Protection and improvement of soil                        | Terracing, bunding, crop rotation             |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Soil | Mixture of rock debris and organic materials developed on the earth's surface. |
-| Parent material | Rock material from which soil develops. |
-| Parent rock | Bedrock beneath soil horizons. |
-| Weathering | Breakdown of rocks into smaller particles by physical, chemical, or biological processes. |
-| Gradation | Wearing down and levelling of land by natural agents. |
-| Humus | Dark organic matter formed from decomposed plant and animal remains. |
-| Soil profile | Vertical section of soil showing different horizons. |
-| Horizon A | Topsoil layer containing organic matter, minerals, nutrients, and water. |
-| Horizon B | Transition layer with material from above and below. |
-| Horizon C | Loose parent material from which upper horizons develop. |
-| Bedrock | Solid rock beneath the soil profile. |
-| Urvara | Ancient term for fertile soil. |
-| Usara | Ancient term for sterile or infertile soil; also used for saline soils. |
-| Alluvial soil | Depositional soil transported and laid down by rivers and streams. |
-| Khadar | New alluvium deposited by annual floods. |
-| Bhangar | Older alluvium deposited away from active floodplains. |
-| Kankar | Calcareous concretions found in some alluvial soils. |
-| Regur soil | Another name for black soil. |
-| Black cotton soil | Another name for black soil because it supports cotton cultivation. |
-| Leaching | Removal of soluble minerals from soil by percolating water. |
-| Laterite | Soil formed under high temperature and high rainfall, rich in iron and aluminium compounds. |
-| Arid soil | Dry-region soil, often sandy and saline. |
-| Saline soil | Soil with excess salts such as sodium, potassium, and magnesium. |
-| Peaty soil | Soil rich in organic matter, formed in wet and humid areas. |
-| Forest soil | Soil formed in forested mountain environments. |
-| Soil degradation | Decline in soil fertility, nutrient status, or depth due to erosion or misuse. |
-| Soil erosion | Removal or destruction of soil cover by water, wind, or human action. |
-| Sheet erosion | Uniform removal of thin soil layer from a broad surface. |
-| Gully erosion | Erosion by running water that cuts deep channels into land. |
-| Ravine | Deep gully or badland feature formed by severe erosion. |
-| Badland topography | Land cut into deep gullies and ravines, often unsuitable for cultivation. |
-| Soil conservation | Methods used to maintain fertility, prevent erosion, and improve degraded soil. |
-| Contour bunding | Building bunds along contour lines to reduce runoff and erosion. |
-| Terrace farming | Cutting slopes into steps to reduce erosion and allow cultivation. |
-| Shelter belt | Row of trees planted to reduce wind speed and protect soil. |
+| Term               | Meaning                                                                                     |
+| ------------------ | ------------------------------------------------------------------------------------------- |
+| Soil               | Mixture of rock debris and organic materials developed on the earth's surface.              |
+| Parent material    | Rock material from which soil develops.                                                     |
+| Parent rock        | Bedrock beneath soil horizons.                                                              |
+| Weathering         | Breakdown of rocks into smaller particles by physical, chemical, or biological processes.   |
+| Gradation          | Wearing down and levelling of land by natural agents.                                       |
+| Humus              | Dark organic matter formed from decomposed plant and animal remains.                        |
+| Soil profile       | Vertical section of soil showing different horizons.                                        |
+| Horizon A          | Topsoil layer containing organic matter, minerals, nutrients, and water.                    |
+| Horizon B          | Transition layer with material from above and below.                                        |
+| Horizon C          | Loose parent material from which upper horizons develop.                                    |
+| Bedrock            | Solid rock beneath the soil profile.                                                        |
+| Urvara             | Ancient term for fertile soil.                                                              |
+| Usara              | Ancient term for sterile or infertile soil; also used for saline soils.                     |
+| Alluvial soil      | Depositional soil transported and laid down by rivers and streams.                          |
+| Khadar             | New alluvium deposited by annual floods.                                                    |
+| Bhangar            | Older alluvium deposited away from active floodplains.                                      |
+| Kankar             | Calcareous concretions found in some alluvial soils.                                        |
+| Regur soil         | Another name for black soil.                                                                |
+| Black cotton soil  | Another name for black soil because it supports cotton cultivation.                         |
+| Leaching           | Removal of soluble minerals from soil by percolating water.                                 |
+| Laterite           | Soil formed under high temperature and high rainfall, rich in iron and aluminium compounds. |
+| Arid soil          | Dry-region soil, often sandy and saline.                                                    |
+| Saline soil        | Soil with excess salts such as sodium, potassium, and magnesium.                            |
+| Peaty soil         | Soil rich in organic matter, formed in wet and humid areas.                                 |
+| Forest soil        | Soil formed in forested mountain environments.                                              |
+| Soil degradation   | Decline in soil fertility, nutrient status, or depth due to erosion or misuse.              |
+| Soil erosion       | Removal or destruction of soil cover by water, wind, or human action.                       |
+| Sheet erosion      | Uniform removal of thin soil layer from a broad surface.                                    |
+| Gully erosion      | Erosion by running water that cuts deep channels into land.                                 |
+| Ravine             | Deep gully or badland feature formed by severe erosion.                                     |
+| Badland topography | Land cut into deep gullies and ravines, often unsuitable for cultivation.                   |
+| Soil conservation  | Methods used to maintain fertility, prevent erosion, and improve degraded soil.             |
+| Contour bunding    | Building bunds along contour lines to reduce runoff and erosion.                            |
+| Terrace farming    | Cutting slopes into steps to reduce erosion and allow cultivation.                          |
+| Shelter belt       | Row of trees planted to reduce wind speed and protect soil.                                 |
 
 ---
 
@@ -170,12 +170,12 @@ The amount of each component varies from one soil type to another.
 
 ## 2.3 Why Components Matter
 
-| Component | Importance |
-| --- | --- |
-| Mineral particles | Provide texture and some nutrients |
-| Humus | Improves fertility and water-holding capacity |
-| Water | Dissolves nutrients and supports plant growth |
-| Air | Supports roots and soil organisms |
+| Component         | Importance                                    |
+| ----------------- | --------------------------------------------- |
+| Mineral particles | Provide texture and some nutrients            |
+| Humus             | Improves fertility and water-holding capacity |
+| Water             | Dissolves nutrients and supports plant growth |
+| Air               | Supports roots and soil organisms             |
 
 ## 2.4 Soil As A Living System
 
@@ -411,16 +411,16 @@ This made Indian soil classification more scientific and comparable at an intern
 
 The chapter gives the following soil orders under USDA Soil Taxonomy.
 
-| Soil Order | Area In Thousand Hectares | Percentage |
-| --- | ---: | ---: |
-| Inceptisols | 130372.90 | 39.74 |
-| Entisols | 92131.71 | 28.08 |
-| Alfisols | 44448.68 | 13.55 |
-| Vertisols | 27960.00 | 8.52 |
-| Aridisols | 14069.00 | 4.28 |
-| Ultisols | 8250.00 | 2.51 |
-| Mollisols | 1320.00 | 0.40 |
-| Others | 9503.10 | 2.92 |
+| Soil Order  | Area In Thousand Hectares | Percentage |
+| ----------- | ------------------------: | ---------: |
+| Inceptisols |                 130372.90 |      39.74 |
+| Entisols    |                  92131.71 |      28.08 |
+| Alfisols    |                  44448.68 |      13.55 |
+| Vertisols   |                  27960.00 |       8.52 |
+| Aridisols   |                  14069.00 |       4.28 |
+| Ultisols    |                   8250.00 |       2.51 |
+| Mollisols   |                   1320.00 |       0.40 |
+| Others      |                   9503.10 |       2.92 |
 
 ## 6.1 How To Use This Table
 
@@ -447,16 +447,16 @@ On the basis of genesis, colour, composition, and location, Indian soils are cla
 
 ## 7.1 Quick Overview
 
-| Soil Type | Main Region | Key Feature |
-| --- | --- | --- |
-| Alluvial | Northern plains, river valleys, deltas | Deposited by rivers; very productive |
-| Black | Deccan Plateau | Clayey, moisture-retentive, black cotton soil |
-| Red and yellow | Deccan, Odisha, Chhattisgarh, southern middle Ganga plain | Iron-rich; red or yellow colour |
-| Laterite | High rainfall and temperature regions | Leached; iron and aluminium rich |
-| Arid | Western Rajasthan | Sandy, dry, often saline |
-| Saline | Arid, semi-arid, waterlogged, coastal areas | Excess salts |
-| Peaty | Wet, humid, organic-rich areas | High humus and organic matter |
-| Forest | Forested mountain areas | Varies with altitude and slope |
+| Soil Type      | Main Region                                               | Key Feature                                   |
+| -------------- | --------------------------------------------------------- | --------------------------------------------- |
+| Alluvial       | Northern plains, river valleys, deltas                    | Deposited by rivers; very productive          |
+| Black          | Deccan Plateau                                            | Clayey, moisture-retentive, black cotton soil |
+| Red and yellow | Deccan, Odisha, Chhattisgarh, southern middle Ganga plain | Iron-rich; red or yellow colour               |
+| Laterite       | High rainfall and temperature regions                     | Leached; iron and aluminium rich              |
+| Arid           | Western Rajasthan                                         | Sandy, dry, often saline                      |
+| Saline         | Arid, semi-arid, waterlogged, coastal areas               | Excess salts                                  |
+| Peaty          | Wet, humid, organic-rich areas                            | High humus and organic matter                 |
+| Forest         | Forested mountain areas                                   | Varies with altitude and slope                |
 
 ---
 
@@ -562,13 +562,13 @@ Both Khadar and Bhangar may contain calcareous concretions called kankar.
 
 ## 9.4 Comparison
 
-| Khadar | Bhangar |
-| --- | --- |
-| New alluvium | Old alluvium |
+| Khadar                     | Bhangar                         |
+| -------------------------- | ------------------------------- |
+| New alluvium               | Old alluvium                    |
 | Deposited by annual floods | Deposited away from floodplains |
-| More frequently renewed | Less frequently renewed |
-| Usually more fertile | Comparatively less fertile |
-| Fine silt added regularly | May contain more kankar |
+| More frequently renewed    | Less frequently renewed         |
+| Usually more fertile       | Comparatively less fertile      |
+| Fine silt added regularly  | May contain more kankar         |
 
 ---
 
@@ -1539,57 +1539,57 @@ Soil conservation must become a people's practice, not only a government plan.
 
 ## 31.1 Soil Formation vs Soil Erosion
 
-| Soil Formation | Soil Erosion |
-| --- | --- |
-| Adds material to soil layer | Removes soil material |
-| Slow process | Can be rapid |
+| Soil Formation                                  | Soil Erosion                  |
+| ----------------------------------------------- | ----------------------------- |
+| Adds material to soil layer                     | Removes soil material         |
+| Slow process                                    | Can be rapid                  |
 | Caused by weathering, organic matter, organisms | Caused by water, wind, misuse |
-| Builds fertility | Reduces fertility |
+| Builds fertility                                | Reduces fertility             |
 
 ## 31.2 Khadar vs Bhangar
 
-| Khadar | Bhangar |
-| --- | --- |
-| New alluvium | Old alluvium |
-| Deposited by annual floods | Deposited away from floodplain |
-| Finer and often more fertile | Older and more mature |
-| Renewed regularly | Not renewed annually |
+| Khadar                       | Bhangar                        |
+| ---------------------------- | ------------------------------ |
+| New alluvium                 | Old alluvium                   |
+| Deposited by annual floods   | Deposited away from floodplain |
+| Finer and often more fertile | Older and more mature          |
+| Renewed regularly            | Not renewed annually           |
 
 ## 31.3 Black Soil vs Alluvial Soil
 
-| Black Soil | Alluvial Soil |
-| --- | --- |
-| Found mainly in Deccan Plateau | Found mainly in northern plains and river valleys |
-| Clayey, deep, moisture-retentive | Varies from sandy loam to clay |
-| Rich in lime, iron, magnesia, alumina | Rich in potash, poor in phosphorus |
-| Called Regur or black cotton soil | Deposited by rivers |
+| Black Soil                            | Alluvial Soil                                     |
+| ------------------------------------- | ------------------------------------------------- |
+| Found mainly in Deccan Plateau        | Found mainly in northern plains and river valleys |
+| Clayey, deep, moisture-retentive      | Varies from sandy loam to clay                    |
+| Rich in lime, iron, magnesia, alumina | Rich in potash, poor in phosphorus                |
+| Called Regur or black cotton soil     | Deposited by rivers                               |
 
 ## 31.4 Laterite Soil vs Arid Soil
 
-| Laterite Soil | Arid Soil |
-| --- | --- |
-| High rainfall and high temperature | Dry climate and high evaporation |
-| Intense leaching | Salt accumulation and low humus |
-| Rich in iron and aluminium compounds | Sandy and often saline |
+| Laterite Soil                        | Arid Soil                           |
+| ------------------------------------ | ----------------------------------- |
+| High rainfall and high temperature   | Dry climate and high evaporation    |
+| Intense leaching                     | Salt accumulation and low humus     |
+| Rich in iron and aluminium compounds | Sandy and often saline              |
 | Poor in organic matter and nutrients | Poor in moisture and organic matter |
 
 ## 31.5 Sheet Erosion vs Gully Erosion
 
-| Sheet Erosion | Gully Erosion |
-| --- | --- |
-| Thin layer removed over broad area | Deep channels cut into land |
-| Not easily noticed | Clearly visible |
-| Common after heavy shower on level land | Common on slopes |
-| Removes fertile topsoil | Creates ravines and badlands |
+| Sheet Erosion                           | Gully Erosion                |
+| --------------------------------------- | ---------------------------- |
+| Thin layer removed over broad area      | Deep channels cut into land  |
+| Not easily noticed                      | Clearly visible              |
+| Common after heavy shower on level land | Common on slopes             |
+| Removes fertile topsoil                 | Creates ravines and badlands |
 
 ## 31.6 Soil Degradation vs Soil Erosion
 
-| Soil Degradation | Soil Erosion |
-| --- | --- |
-| Broad decline in soil quality | Specific removal of soil cover |
+| Soil Degradation                                  | Soil Erosion                    |
+| ------------------------------------------------- | ------------------------------- |
+| Broad decline in soil quality                     | Specific removal of soil cover  |
 | Includes salinity, nutrient loss, erosion, misuse | Mainly caused by water and wind |
-| Reduces fertility and depth | Removes topsoil physically |
-| Erosion is one cause of degradation | Part of degradation process |
+| Reduces fertility and depth                       | Removes topsoil physically      |
+| Erosion is one cause of degradation               | Part of degradation process     |
 
 ---
 
@@ -1631,20 +1631,20 @@ For map practice, link soil types with major physiographic regions.
 
 # 33. Data Board
 
-| Data Point | Value Or Fact | Use In Answer |
-| --- | --- | --- |
-| Soil Survey of India | Established in 1956 | Scientific soil study |
-| Alluvial soil area | About 40 percent of India | Most widespread and productive |
-| Inceptisols | 39.74 percent | ICAR soil order table |
-| Entisols | 28.08 percent | ICAR soil order table |
-| Alfisols | 13.55 percent | ICAR soil order table |
-| Vertisols | 8.52 percent | ICAR soil order table |
-| Aridisols | 4.28 percent | ICAR soil order table |
-| Laterite word origin | Latin later, meaning brick | Laterite explanation |
-| Peaty organic matter | 40-50 percent in some places | Peaty soil feature |
-| Ravine land loss | About 8,000 hectares per year | Gully erosion impact |
-| Degraded land | About half of India's total land under some degree of degradation | Soil degradation seriousness |
-| Slope risk | 15-25 percent slopes should generally not be cultivated without terraces | Soil conservation |
+| Data Point           | Value Or Fact                                                            | Use In Answer                  |
+| -------------------- | ------------------------------------------------------------------------ | ------------------------------ |
+| Soil Survey of India | Established in 1956                                                      | Scientific soil study          |
+| Alluvial soil area   | About 40 percent of India                                                | Most widespread and productive |
+| Inceptisols          | 39.74 percent                                                            | ICAR soil order table          |
+| Entisols             | 28.08 percent                                                            | ICAR soil order table          |
+| Alfisols             | 13.55 percent                                                            | ICAR soil order table          |
+| Vertisols            | 8.52 percent                                                             | ICAR soil order table          |
+| Aridisols            | 4.28 percent                                                             | ICAR soil order table          |
+| Laterite word origin | Latin later, meaning brick                                               | Laterite explanation           |
+| Peaty organic matter | 40-50 percent in some places                                             | Peaty soil feature             |
+| Ravine land loss     | About 8,000 hectares per year                                            | Gully erosion impact           |
+| Degraded land        | About half of India's total land under some degree of degradation        | Soil degradation seriousness   |
+| Slope risk           | 15-25 percent slopes should generally not be cultivated without terraces | Soil conservation              |
 
 ---
 
@@ -1987,16 +1987,16 @@ Use this structure:
 
 ## 39.2 Soil Type Memory Table
 
-| Soil | Memory Clue |
-| --- | --- |
-| Alluvial | Rivers deposit it; northern plains; productive |
-| Black | Deccan; cotton; cracks; moisture retention |
-| Red and yellow | Iron colour; Deccan and eastern-southern regions |
-| Laterite | High rainfall; leaching; brick-like |
-| Arid | Rajasthan; dry, sandy, saline |
-| Saline | Excess salts; Gujarat, deltas, over-irrigated zones |
-| Peaty | Wet, humid, organic-rich |
-| Forest | Mountain forest areas; varies by altitude and slope |
+| Soil           | Memory Clue                                         |
+| -------------- | --------------------------------------------------- |
+| Alluvial       | Rivers deposit it; northern plains; productive      |
+| Black          | Deccan; cotton; cracks; moisture retention          |
+| Red and yellow | Iron colour; Deccan and eastern-southern regions    |
+| Laterite       | High rainfall; leaching; brick-like                 |
+| Arid           | Rajasthan; dry, sandy, saline                       |
+| Saline         | Excess salts; Gujarat, deltas, over-irrigated zones |
+| Peaty          | Wet, humid, organic-rich                            |
+| Forest         | Mountain forest areas; varies by altitude and slope |
 
 ## 39.3 Must-Remember Conservation Measures
 

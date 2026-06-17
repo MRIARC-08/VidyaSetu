@@ -22,20 +22,20 @@ The chapter's central idea is that the way people work is deeply connected to wh
 
 ## Key Terms
 
-| Term | Meaning | Why it matters |
-|---|---|---|
-| Industrial society | Society where machine production, factories, services, and wage work become important | It changes social relations and identities |
-| Division of labour | Specialisation of tasks among different workers | Industrial work often breaks production into small repetitive tasks |
-| Alienation | Condition in which workers feel separated from the product, process, and meaning of their work | Marx used it to analyse industrial labour |
-| Organised sector | Registered units with formal rules, wages, and benefits | Only a small share of Indian workers are in this sector |
-| Unorganised sector | Informal work with weak regulation and little security | Most Indian workers are located here |
-| Liberalisation | Policy shift reducing state controls and opening markets to private and foreign capital | It changed Indian industry and employment patterns |
-| Outsourcing | Giving work to outside firms, contractors, or households | It reduces costs but often increases worker insecurity |
-| Contract labour | Workers hired through contractors or temporary arrangements | It reduces job security and benefits |
-| Badli worker | Substitute worker used in place of permanent workers | Often works for years without permanent status |
-| Piece-rate work | Payment based on number of pieces produced | Common in home-based work and often underpaid |
-| Strike | Collective refusal to work by workers | Used to demand wages, rights, and recognition |
-| Lockout | Closure of workplace by management to pressure workers | Shows conflict between labour and management |
+| Term               | Meaning                                                                                        | Why it matters                                                      |
+| ------------------ | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| Industrial society | Society where machine production, factories, services, and wage work become important          | It changes social relations and identities                          |
+| Division of labour | Specialisation of tasks among different workers                                                | Industrial work often breaks production into small repetitive tasks |
+| Alienation         | Condition in which workers feel separated from the product, process, and meaning of their work | Marx used it to analyse industrial labour                           |
+| Organised sector   | Registered units with formal rules, wages, and benefits                                        | Only a small share of Indian workers are in this sector             |
+| Unorganised sector | Informal work with weak regulation and little security                                         | Most Indian workers are located here                                |
+| Liberalisation     | Policy shift reducing state controls and opening markets to private and foreign capital        | It changed Indian industry and employment patterns                  |
+| Outsourcing        | Giving work to outside firms, contractors, or households                                       | It reduces costs but often increases worker insecurity              |
+| Contract labour    | Workers hired through contractors or temporary arrangements                                    | It reduces job security and benefits                                |
+| Badli worker       | Substitute worker used in place of permanent workers                                           | Often works for years without permanent status                      |
+| Piece-rate work    | Payment based on number of pieces produced                                                     | Common in home-based work and often underpaid                       |
+| Strike             | Collective refusal to work by workers                                                          | Used to demand wages, rights, and recognition                       |
+| Lockout            | Closure of workplace by management to pressure workers                                         | Shows conflict between labour and management                        |
 
 ## 1. Work And Social Identity
 

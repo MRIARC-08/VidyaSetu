@@ -1,4 +1,5 @@
 # Chapter 2: Bhakti-Sufi Traditions
+
 ### NCERT Class 12 - History Part 2
 
 ## Chapter at a Glance
@@ -22,29 +23,29 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Bhakti | Devotional worship based on love and surrender. |
-| Alvars | Tamil Vaishnava poet-saints devoted to Vishnu. |
-| Nayanars | Tamil Shaiva poet-saints devoted to Shiva. |
-| Sufism | Mystical tradition in Islam stressing love of God and inner experience. |
-| Silsila | Sufi spiritual lineage or order. |
-| Khanqah | Sufi hospice or centre of teaching and community life. |
-| Pir | Sufi guide or teacher. |
-| Ziyarat | Pilgrimage to a Sufi shrine. |
-| Nirguna | Devotion to formless divine. |
-| Saguna | Devotion to divine with form or attributes. |
+| Term     | Meaning                                                                 |
+| -------- | ----------------------------------------------------------------------- |
+| Bhakti   | Devotional worship based on love and surrender.                         |
+| Alvars   | Tamil Vaishnava poet-saints devoted to Vishnu.                          |
+| Nayanars | Tamil Shaiva poet-saints devoted to Shiva.                              |
+| Sufism   | Mystical tradition in Islam stressing love of God and inner experience. |
+| Silsila  | Sufi spiritual lineage or order.                                        |
+| Khanqah  | Sufi hospice or centre of teaching and community life.                  |
+| Pir      | Sufi guide or teacher.                                                  |
+| Ziyarat  | Pilgrimage to a Sufi shrine.                                            |
+| Nirguna  | Devotion to formless divine.                                            |
+| Saguna   | Devotion to divine with form or attributes.                             |
 
 ## Quick Learning Map
 
-| Tradition | Main features |
-|---|---|
-| Alvar-Nayanar | Tamil devotional poetry, temple culture, emotional devotion |
-| Virashaiva | Devotion to Shiva, critique of caste and ritual |
-| Sufi | Love, remembrance, spiritual guide, khanqah |
-| Kabir | Critique of ritual, formless divine, social questioning |
-| Guru Nanak | One divine reality, ethical living, community |
-| Mirabai | Personal devotion to Krishna, defiance of social expectations |
+| Tradition     | Main features                                                 |
+| ------------- | ------------------------------------------------------------- |
+| Alvar-Nayanar | Tamil devotional poetry, temple culture, emotional devotion   |
+| Virashaiva    | Devotion to Shiva, critique of caste and ritual               |
+| Sufi          | Love, remembrance, spiritual guide, khanqah                   |
+| Kabir         | Critique of ritual, formless divine, social questioning       |
+| Guru Nanak    | One divine reality, ethical living, community                 |
+| Mirabai       | Personal devotion to Krishna, defiance of social expectations |
 
 # Unit 2A: Meaning of Bhakti
 
@@ -262,13 +263,13 @@ For Sufism:
 
 # Unit 2P: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Treating Bhakti as one uniform movement | It was diverse and regional. |
-| Confusing Alvars and Nayanars | Alvars were Vaishnava; Nayanars were Shaiva. |
-| Saying all Bhakti rejected temples | Some traditions were temple-centred, others critical. |
-| Reducing Sufism to shrine worship | It includes discipline, teaching, and spiritual lineages. |
-| Ignoring language | Regional languages were central to spread. |
+| Mistake                                 | Correction                                                |
+| --------------------------------------- | --------------------------------------------------------- |
+| Treating Bhakti as one uniform movement | It was diverse and regional.                              |
+| Confusing Alvars and Nayanars           | Alvars were Vaishnava; Nayanars were Shaiva.              |
+| Saying all Bhakti rejected temples      | Some traditions were temple-centred, others critical.     |
+| Reducing Sufism to shrine worship       | It includes discipline, teaching, and spiritual lineages. |
+| Ignoring language                       | Regional languages were central to spread.                |
 
 ## Practice Set
 

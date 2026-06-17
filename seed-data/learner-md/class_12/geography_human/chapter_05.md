@@ -1,4 +1,5 @@
 # Chapter 5: Secondary Activities
+
 ### NCERT Class 12 - Geography Human
 
 ## Chapter at a Glance
@@ -22,25 +23,25 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Secondary activity | Work that processes or transforms raw materials. |
-| Manufacturing | Production of goods by processing raw materials. |
-| Value addition | Increase in value after processing. |
-| Agro-based industry | Industry using agricultural raw materials. |
-| Mineral-based industry | Industry using minerals as raw materials. |
-| Footloose industry | Industry not strongly tied to raw material location. |
-| Cottage industry | Household-based small production. |
+| Term                     | Meaning                                                  |
+| ------------------------ | -------------------------------------------------------- |
+| Secondary activity       | Work that processes or transforms raw materials.         |
+| Manufacturing            | Production of goods by processing raw materials.         |
+| Value addition           | Increase in value after processing.                      |
+| Agro-based industry      | Industry using agricultural raw materials.               |
+| Mineral-based industry   | Industry using minerals as raw materials.                |
+| Footloose industry       | Industry not strongly tied to raw material location.     |
+| Cottage industry         | Household-based small production.                        |
 | High technology industry | Advanced industry using research, skill, and innovation. |
 
 ## Quick Learning Map
 
-| Industrial question | Main answer |
-|---|---|
+| Industrial question             | Main answer                                             |
+| ------------------------------- | ------------------------------------------------------- |
 | Why industries locate somewhere | Raw material, power, labour, market, transport, capital |
-| Why processing matters | It adds value to raw materials |
-| Why modern industry is flexible | Technology and transport reduce location limits |
-| Why industrial regions grow | Agglomeration, infrastructure, skilled labour, market |
+| Why processing matters          | It adds value to raw materials                          |
+| Why modern industry is flexible | Technology and transport reduce location limits         |
+| Why industrial regions grow     | Agglomeration, infrastructure, skilled labour, market   |
 
 # Unit 5A: Meaning of Secondary Activities
 
@@ -74,36 +75,36 @@ Manufacturing creates:
 
 ## By Raw Material
 
-| Type | Raw material | Example |
-|---|---|---|
-| Agro-based | Agricultural produce | Cotton textile, sugar |
-| Mineral-based | Minerals | Iron and steel |
-| Forest-based | Forest produce | Paper, furniture |
-| Animal-based | Animal products | Leather, woollen textiles |
+| Type          | Raw material         | Example                   |
+| ------------- | -------------------- | ------------------------- |
+| Agro-based    | Agricultural produce | Cotton textile, sugar     |
+| Mineral-based | Minerals             | Iron and steel            |
+| Forest-based  | Forest produce       | Paper, furniture          |
+| Animal-based  | Animal products      | Leather, woollen textiles |
 
 ## By Size
 
-| Type | Features |
-|---|---|
-| Cottage | Household labour, simple tools |
-| Small-scale | Limited capital and labour |
+| Type        | Features                                |
+| ----------- | --------------------------------------- |
+| Cottage     | Household labour, simple tools          |
+| Small-scale | Limited capital and labour              |
 | Large-scale | Large capital, machines, labour, output |
 
 ## By Product
 
-| Type | Meaning |
-|---|---|
-| Basic industry | Produces inputs for other industries, such as steel |
-| Consumer goods industry | Produces goods for direct consumption |
+| Type                    | Meaning                                             |
+| ----------------------- | --------------------------------------------------- |
+| Basic industry          | Produces inputs for other industries, such as steel |
+| Consumer goods industry | Produces goods for direct consumption               |
 
 ## By Ownership
 
-| Type | Meaning |
-|---|---|
-| Public sector | Owned by government |
-| Private sector | Owned by private individuals or companies |
-| Joint sector | Joint ownership by government and private sector |
-| Cooperative sector | Owned by members collectively |
+| Type               | Meaning                                          |
+| ------------------ | ------------------------------------------------ |
+| Public sector      | Owned by government                              |
+| Private sector     | Owned by private individuals or companies        |
+| Joint sector       | Joint ownership by government and private sector |
+| Cooperative sector | Owned by members collectively                    |
 
 # Unit 5D: Factors Affecting Industrial Location
 
@@ -280,13 +281,13 @@ For high technology industry:
 
 # Unit 5M: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Calling all industries secondary | Manufacturing is secondary; trade and transport are tertiary. |
-| Ignoring value addition | Secondary activity transforms and adds value. |
-| Saying all industries locate near raw materials | Market, labour, power, and transport also matter. |
-| Treating high technology industry as heavy industry | It is skill, research, and innovation intensive. |
-| Forgetting environmental impact | Industrial development needs sustainability. |
+| Mistake                                             | Correction                                                    |
+| --------------------------------------------------- | ------------------------------------------------------------- |
+| Calling all industries secondary                    | Manufacturing is secondary; trade and transport are tertiary. |
+| Ignoring value addition                             | Secondary activity transforms and adds value.                 |
+| Saying all industries locate near raw materials     | Market, labour, power, and transport also matter.             |
+| Treating high technology industry as heavy industry | It is skill, research, and innovation intensive.              |
+| Forgetting environmental impact                     | Industrial development needs sustainability.                  |
 
 ## Practice Set
 

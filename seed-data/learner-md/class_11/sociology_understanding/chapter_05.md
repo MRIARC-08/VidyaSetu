@@ -243,12 +243,12 @@ This concept helped explain rural power in democratic India.
 
 ## 18. Comparing Indian Sociologists
 
-| Sociologist | Main Focus | Key Ideas |
-|---|---|---|
-| G.S. Ghurye | Caste, race, tribe, culture | Features of caste, tribe-Hindu relation |
-| D.P. Mukerji | Tradition and change | Living tradition, collective experience |
-| A.R. Desai | Political economy | Marxist study of nationalism and state |
-| M.N. Srinivas | Village, caste, mobility | Sanskritisation, dominant caste, fieldwork |
+| Sociologist   | Main Focus                  | Key Ideas                                  |
+| ------------- | --------------------------- | ------------------------------------------ |
+| G.S. Ghurye   | Caste, race, tribe, culture | Features of caste, tribe-Hindu relation    |
+| D.P. Mukerji  | Tradition and change        | Living tradition, collective experience    |
+| A.R. Desai    | Political economy           | Marxist study of nationalism and state     |
+| M.N. Srinivas | Village, caste, mobility    | Sanskritisation, dominant caste, fieldwork |
 
 ## 19. Indian Sociology: Shared Concerns
 
@@ -269,17 +269,17 @@ These themes remain important today.
 
 ## 20. Key Terms
 
-| Term | Meaning |
-|---|---|
-| Administrator-anthropologists | Colonial officials who studied Indian society |
-| Anthropometry | Measurement of human bodies for racial classification |
-| Endogamy | Marriage within a defined group |
-| Exogamy | Marriage outside a prohibited group |
-| Assimilation | Absorption of one culture into another |
-| Sanskritisation | Status mobility through adopting higher-caste practices |
-| Dominant caste | Locally powerful caste group |
-| Marxist sociology | Analysis focused on class, economy, and power |
-| Tradition | Inherited practices and meanings transmitted over time |
+| Term                          | Meaning                                                 |
+| ----------------------------- | ------------------------------------------------------- |
+| Administrator-anthropologists | Colonial officials who studied Indian society           |
+| Anthropometry                 | Measurement of human bodies for racial classification   |
+| Endogamy                      | Marriage within a defined group                         |
+| Exogamy                       | Marriage outside a prohibited group                     |
+| Assimilation                  | Absorption of one culture into another                  |
+| Sanskritisation               | Status mobility through adopting higher-caste practices |
+| Dominant caste                | Locally powerful caste group                            |
+| Marxist sociology             | Analysis focused on class, economy, and power           |
+| Tradition                     | Inherited practices and meanings transmitted over time  |
 
 ## 21. Exam-Oriented Summary
 
@@ -299,4 +299,3 @@ These thinkers show that Indian sociology is not a copy of Western sociology. It
 8. What is Sanskritisation?
 9. What is dominant caste?
 10. Compare Ghurye and Srinivas on caste.
-

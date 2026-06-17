@@ -4,16 +4,16 @@ Class 11 Biology
 
 ## Chapter Profile
 
-| Item | Details |
-|---|---|
-| Class | 11 |
-| Subject | Biology |
-| Chapter | 17 |
-| Title | Locomotion and Movement |
-| Main theme | How cells, muscles, bones, and joints produce movement |
-| Main processes | Amoeboid movement, ciliary movement, muscular movement, muscle contraction, skeletal support |
-| Core skill | Connect muscle protein structure with contraction and connect skeleton structure with movement |
-| Learner goal | Explain how coordinated muscular, skeletal, and neural systems produce locomotion |
+| Item           | Details                                                                                        |
+| -------------- | ---------------------------------------------------------------------------------------------- |
+| Class          | 11                                                                                             |
+| Subject        | Biology                                                                                        |
+| Chapter        | 17                                                                                             |
+| Title          | Locomotion and Movement                                                                        |
+| Main theme     | How cells, muscles, bones, and joints produce movement                                         |
+| Main processes | Amoeboid movement, ciliary movement, muscular movement, muscle contraction, skeletal support   |
+| Core skill     | Connect muscle protein structure with contraction and connect skeleton structure with movement |
+| Learner goal   | Explain how coordinated muscular, skeletal, and neural systems produce locomotion              |
 
 ## How To Study This Chapter
 
@@ -76,67 +76,67 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Movement | Change in position of body part, cell part, or whole organism |
-| Locomotion | Voluntary movement causing change of place |
-| Amoeboid movement | Movement by pseudopodia and protoplasmic streaming |
-| Ciliary movement | Movement produced by coordinated beating of cilia |
-| Muscular movement | Movement produced by muscle contraction |
-| Muscle | Specialised mesodermal tissue with contractile ability |
-| Excitability | Ability to respond to stimulus |
-| Contractility | Ability to shorten and generate force |
-| Extensibility | Ability to be stretched |
-| Elasticity | Ability to return to original shape after stretch |
-| Skeletal muscle | Striated voluntary muscle attached to skeleton |
-| Visceral muscle | Smooth involuntary muscle in walls of hollow organs |
-| Cardiac muscle | Striated involuntary branched muscle of heart |
-| Fascicle | Bundle of muscle fibres |
-| Fascia | Collagenous connective tissue covering muscle bundles |
-| Muscle fibre | Muscle cell |
-| Sarcolemma | Plasma membrane of muscle fibre |
-| Sarcoplasm | Cytoplasm of muscle fibre |
-| Sarcoplasmic reticulum | Calcium-storing endoplasmic reticulum of muscle fibre |
-| Myofibril | Parallel contractile filament bundle inside muscle fibre |
-| Myofilament | Actin or myosin filament |
-| Actin | Thin filament protein |
-| Myosin | Thick filament protein |
-| I band | Light isotropic band containing actin |
-| A band | Dark anisotropic band containing myosin |
-| Z line | Elastic line bisecting I band |
-| M line | Middle line holding thick filaments |
-| H zone | Central part of A band with only thick filaments in resting muscle |
-| Sarcomere | Functional unit of contraction between two Z lines |
-| Troponin | Protein complex regulating actin-myosin interaction |
-| Tropomyosin | Protein covering myosin-binding sites on actin at rest |
-| Meromyosin | Monomeric unit of myosin filament |
-| HMM | Heavy meromyosin, head and short arm |
-| LMM | Light meromyosin, tail portion |
-| Motor unit | Motor neuron and muscle fibres supplied by it |
-| Neuromuscular junction | Junction between motor neuron and muscle fibre |
-| Acetylcholine | Neurotransmitter released at neuromuscular junction |
-| Cross-bridge | Temporary link between myosin head and actin |
-| Myoglobin | Oxygen-storing red pigment in muscle |
-| Skeleton | Framework of bones and cartilage |
-| Axial skeleton | Skull, vertebral column, sternum, and ribs |
-| Appendicular skeleton | Limb bones and girdles |
-| Joint | Point of contact between bones or bone and cartilage |
-| Fibrous joint | Immovable joint |
-| Cartilaginous joint | Slightly movable joint joined by cartilage |
-| Synovial joint | Freely movable joint with synovial cavity |
+| Term                   | Meaning                                                            |
+| ---------------------- | ------------------------------------------------------------------ |
+| Movement               | Change in position of body part, cell part, or whole organism      |
+| Locomotion             | Voluntary movement causing change of place                         |
+| Amoeboid movement      | Movement by pseudopodia and protoplasmic streaming                 |
+| Ciliary movement       | Movement produced by coordinated beating of cilia                  |
+| Muscular movement      | Movement produced by muscle contraction                            |
+| Muscle                 | Specialised mesodermal tissue with contractile ability             |
+| Excitability           | Ability to respond to stimulus                                     |
+| Contractility          | Ability to shorten and generate force                              |
+| Extensibility          | Ability to be stretched                                            |
+| Elasticity             | Ability to return to original shape after stretch                  |
+| Skeletal muscle        | Striated voluntary muscle attached to skeleton                     |
+| Visceral muscle        | Smooth involuntary muscle in walls of hollow organs                |
+| Cardiac muscle         | Striated involuntary branched muscle of heart                      |
+| Fascicle               | Bundle of muscle fibres                                            |
+| Fascia                 | Collagenous connective tissue covering muscle bundles              |
+| Muscle fibre           | Muscle cell                                                        |
+| Sarcolemma             | Plasma membrane of muscle fibre                                    |
+| Sarcoplasm             | Cytoplasm of muscle fibre                                          |
+| Sarcoplasmic reticulum | Calcium-storing endoplasmic reticulum of muscle fibre              |
+| Myofibril              | Parallel contractile filament bundle inside muscle fibre           |
+| Myofilament            | Actin or myosin filament                                           |
+| Actin                  | Thin filament protein                                              |
+| Myosin                 | Thick filament protein                                             |
+| I band                 | Light isotropic band containing actin                              |
+| A band                 | Dark anisotropic band containing myosin                            |
+| Z line                 | Elastic line bisecting I band                                      |
+| M line                 | Middle line holding thick filaments                                |
+| H zone                 | Central part of A band with only thick filaments in resting muscle |
+| Sarcomere              | Functional unit of contraction between two Z lines                 |
+| Troponin               | Protein complex regulating actin-myosin interaction                |
+| Tropomyosin            | Protein covering myosin-binding sites on actin at rest             |
+| Meromyosin             | Monomeric unit of myosin filament                                  |
+| HMM                    | Heavy meromyosin, head and short arm                               |
+| LMM                    | Light meromyosin, tail portion                                     |
+| Motor unit             | Motor neuron and muscle fibres supplied by it                      |
+| Neuromuscular junction | Junction between motor neuron and muscle fibre                     |
+| Acetylcholine          | Neurotransmitter released at neuromuscular junction                |
+| Cross-bridge           | Temporary link between myosin head and actin                       |
+| Myoglobin              | Oxygen-storing red pigment in muscle                               |
+| Skeleton               | Framework of bones and cartilage                                   |
+| Axial skeleton         | Skull, vertebral column, sternum, and ribs                         |
+| Appendicular skeleton  | Limb bones and girdles                                             |
+| Joint                  | Point of contact between bones or bone and cartilage               |
+| Fibrous joint          | Immovable joint                                                    |
+| Cartilaginous joint    | Slightly movable joint joined by cartilage                         |
+| Synovial joint         | Freely movable joint with synovial cavity                          |
 
 ## Chapter Map
 
-| Unit | Topic | What To Master |
-|---|---|---|
-| 17.0 | Movement and locomotion | Difference and purpose |
-| 17.1 | Types of movement | Amoeboid, ciliary, muscular |
-| 17.2 | Muscle | Types, properties, structure |
-| 17.2.1 | Contractile proteins | Actin, myosin, troponin, tropomyosin |
-| 17.2.2 | Contraction | Sliding filament theory |
-| 17.3 | Skeletal system | Axial and appendicular skeleton |
-| 17.4 | Joints | Fibrous, cartilaginous, synovial |
-| 17.5 | Disorders | Myasthenia, dystrophy, tetany, arthritis, osteoporosis, gout |
+| Unit   | Topic                   | What To Master                                               |
+| ------ | ----------------------- | ------------------------------------------------------------ |
+| 17.0   | Movement and locomotion | Difference and purpose                                       |
+| 17.1   | Types of movement       | Amoeboid, ciliary, muscular                                  |
+| 17.2   | Muscle                  | Types, properties, structure                                 |
+| 17.2.1 | Contractile proteins    | Actin, myosin, troponin, tropomyosin                         |
+| 17.2.2 | Contraction             | Sliding filament theory                                      |
+| 17.3   | Skeletal system         | Axial and appendicular skeleton                              |
+| 17.4   | Joints                  | Fibrous, cartilaginous, synovial                             |
+| 17.5   | Disorders               | Myasthenia, dystrophy, tetany, arthritis, osteoporosis, gout |
 
 ## 1. Movement As A Living Feature
 
@@ -373,13 +373,13 @@ Cardiac muscle cells form a branching network that allows coordinated contractio
 
 ## 15. Muscle Types Compared
 
-| Feature | Skeletal Muscle | Visceral Muscle | Cardiac Muscle |
-|---|---|---|---|
-| Location | Attached to bones | Walls of internal organs | Heart |
-| Appearance | Striated | Non-striated | Striated |
-| Control | Voluntary | Involuntary | Involuntary |
-| Cell shape | Long cylindrical fibres | Spindle-shaped cells | Branched cells |
-| Main role | Locomotion and posture | Internal organ movement | Pumping blood |
+| Feature    | Skeletal Muscle         | Visceral Muscle          | Cardiac Muscle |
+| ---------- | ----------------------- | ------------------------ | -------------- |
+| Location   | Attached to bones       | Walls of internal organs | Heart          |
+| Appearance | Striated                | Non-striated             | Striated       |
+| Control    | Voluntary               | Involuntary              | Involuntary    |
+| Cell shape | Long cylindrical fibres | Spindle-shaped cells     | Branched cells |
+| Main role  | Locomotion and posture  | Internal organ movement  | Pumping blood  |
 
 ## 16. Organisation Of Skeletal Muscle
 
@@ -676,14 +676,14 @@ Muscle fibre relaxes.
 
 ## 28. Changes During Contraction
 
-| Sarcomere Region | Change During Contraction |
-|---|---|
-| Sarcomere length | Decreases |
-| Z lines | Move closer |
-| I band | Shortens |
-| H zone | Shortens |
-| A band | Remains same length |
-| Actin and myosin filament length | Remains same |
+| Sarcomere Region                 | Change During Contraction |
+| -------------------------------- | ------------------------- |
+| Sarcomere length                 | Decreases                 |
+| Z lines                          | Move closer               |
+| I band                           | Shortens                  |
+| H zone                           | Shortens                  |
+| A band                           | Remains same length       |
+| Actin and myosin filament length | Remains same              |
 
 ## 29. Muscle Fatigue
 
@@ -725,14 +725,14 @@ They contract rapidly but fatigue faster.
 
 ## 30.3 Red And White Fibres Compared
 
-| Feature | Red Fibres | White Fibres |
-|---|---|---|
-| Myoglobin | High | Low |
-| Colour | Red | Pale |
-| Mitochondria | Many | Few |
-| Main metabolism | Aerobic | Anaerobic |
-| Fatigue resistance | High | Lower |
-| Best suited for | Sustained work | Quick bursts |
+| Feature            | Red Fibres     | White Fibres |
+| ------------------ | -------------- | ------------ |
+| Myoglobin          | High           | Low          |
+| Colour             | Red            | Pale         |
+| Mitochondria       | Many           | Few          |
+| Main metabolism    | Aerobic        | Anaerobic    |
+| Fatigue resistance | High           | Lower        |
+| Best suited for    | Sustained work | Quick bursts |
 
 ## 31. Skeletal System
 
@@ -841,12 +841,12 @@ Each vertebra has a neural canal for spinal cord.
 
 ## 35.1 Regions Of Vertebral Column
 
-| Region | Number |
-|---|---:|
-| Cervical | 7 |
-| Thoracic | 12 |
-| Lumbar | 5 |
-| Sacral | 1 fused |
+| Region    |  Number |
+| --------- | ------: |
+| Cervical  |       7 |
+| Thoracic  |      12 |
+| Lumbar    |       5 |
+| Sacral    | 1 fused |
 | Coccygeal | 1 fused |
 
 Total:
@@ -1051,13 +1051,13 @@ They are important in locomotion.
 
 ## 42. Synovial Joint Types
 
-| Joint Type | Example |
-|---|---|
+| Joint Type      | Example                                           |
+| --------------- | ------------------------------------------------- |
 | Ball and socket | Humerus and pectoral girdle, femur and acetabulum |
-| Hinge | Knee, elbow, between phalanges |
-| Pivot | Atlas and axis |
-| Gliding | Between carpals |
-| Saddle | Carpal and metacarpal of thumb |
+| Hinge           | Knee, elbow, between phalanges                    |
+| Pivot           | Atlas and axis                                    |
+| Gliding         | Between carpals                                   |
+| Saddle          | Carpal and metacarpal of thumb                    |
 
 ## 43. Disorders Of Muscular And Skeletal System
 
@@ -1250,83 +1250,83 @@ The I band and H zone reduce, while A band remains the same length.
 
 ## 46.3 Actin And Myosin Difference
 
-| Feature | Actin | Myosin |
-|---|---|---|
-| Filament type | Thin filament | Thick filament |
-| Band | I band mainly, with overlap into A band | A band |
-| Associated proteins | Troponin and tropomyosin | Meromyosin units |
-| Main role | Provides binding sites for myosin | Pulls actin using ATP |
-| ATPase activity | No major ATPase head | Myosin head has ATPase |
+| Feature             | Actin                                   | Myosin                 |
+| ------------------- | --------------------------------------- | ---------------------- |
+| Filament type       | Thin filament                           | Thick filament         |
+| Band                | I band mainly, with overlap into A band | A band                 |
+| Associated proteins | Troponin and tropomyosin                | Meromyosin units       |
+| Main role           | Provides binding sites for myosin       | Pulls actin using ATP  |
+| ATPase activity     | No major ATPase head                    | Myosin head has ATPase |
 
 ## 46.4 Red And White Muscles Difference
 
-| Feature | Red Muscle Fibres | White Muscle Fibres |
-|---|---|---|
-| Myoglobin | High | Low |
-| Mitochondria | Many | Few |
-| Colour | Red | Pale |
-| Metabolism | Aerobic | Anaerobic |
-| Fatigue | Slow fatigue | Faster fatigue |
+| Feature      | Red Muscle Fibres | White Muscle Fibres |
+| ------------ | ----------------- | ------------------- |
+| Myoglobin    | High              | Low                 |
+| Mitochondria | Many              | Few                 |
+| Colour       | Red               | Pale                |
+| Metabolism   | Aerobic           | Anaerobic           |
+| Fatigue      | Slow fatigue      | Faster fatigue      |
 
 ## 46.5 Pectoral And Pelvic Girdle Difference
 
-| Feature | Pectoral Girdle | Pelvic Girdle |
-|---|---|---|
-| Limb supported | Upper limb | Lower limb |
-| Main bones | Clavicle and scapula | Coxal bones |
-| Socket | Glenoid cavity | Acetabulum |
-| Function | Shoulder articulation | Hip articulation and weight support |
+| Feature        | Pectoral Girdle       | Pelvic Girdle                       |
+| -------------- | --------------------- | ----------------------------------- |
+| Limb supported | Upper limb            | Lower limb                          |
+| Main bones     | Clavicle and scapula  | Coxal bones                         |
+| Socket         | Glenoid cavity        | Acetabulum                          |
+| Function       | Shoulder articulation | Hip articulation and weight support |
 
 ## 46.6 Skeletal Muscle And Cardiac Muscle
 
-| Feature | Skeletal Muscle | Cardiac Muscle |
-|---|---|---|
-| Location | Attached to bones | Heart wall |
-| Control | Voluntary | Involuntary |
-| Appearance | Striated | Striated |
-| Cell form | Long cylindrical fibres | Branched cells |
-| Main function | Locomotion and posture | Pumping blood |
+| Feature       | Skeletal Muscle         | Cardiac Muscle |
+| ------------- | ----------------------- | -------------- |
+| Location      | Attached to bones       | Heart wall     |
+| Control       | Voluntary               | Involuntary    |
+| Appearance    | Striated                | Striated       |
+| Cell form     | Long cylindrical fibres | Branched cells |
+| Main function | Locomotion and posture  | Pumping blood  |
 
 ## 46.7 Joint Identification
 
-| Location | Joint Type |
-|---|---|
-| Atlas and axis | Pivot joint |
-| Carpal and metacarpal of thumb | Saddle joint |
-| Between phalanges | Hinge joint |
-| Femur and acetabulum | Ball and socket joint |
-| Between cranial bones | Fibrous joint |
-| Between pubic bones | Cartilaginous joint |
+| Location                       | Joint Type            |
+| ------------------------------ | --------------------- |
+| Atlas and axis                 | Pivot joint           |
+| Carpal and metacarpal of thumb | Saddle joint          |
+| Between phalanges              | Hinge joint           |
+| Femur and acetabulum           | Ball and socket joint |
+| Between cranial bones          | Fibrous joint         |
+| Between pubic bones            | Cartilaginous joint   |
 
 ## 46.8 True Or False Corrections
 
-| Statement | Answer | Correction If Needed |
-|---|---|---|
-| Actin is present in thin filament | True | No correction |
-| H zone represents both thick and thin filaments | False | H zone contains only thick filaments in resting sarcomere |
-| Human skeleton has 206 bones | True | No correction |
-| There are 11 pairs of ribs in humans | False | Humans have 12 pairs of ribs |
-| Sternum is present on ventral side of body | True | No correction |
+| Statement                                       | Answer | Correction If Needed                                      |
+| ----------------------------------------------- | ------ | --------------------------------------------------------- |
+| Actin is present in thin filament               | True   | No correction                                             |
+| H zone represents both thick and thin filaments | False  | H zone contains only thick filaments in resting sarcomere |
+| Human skeleton has 206 bones                    | True   | No correction                                             |
+| There are 11 pairs of ribs in humans            | False  | Humans have 12 pairs of ribs                              |
+| Sternum is present on ventral side of body      | True   | No correction                                             |
 
 ## 46.9 Matching Answer
 
-| Column I | Correct Match |
-|---|---|
-| Smooth muscle | Involuntary |
-| Tropomyosin | Thin filament |
-| Red muscle | Myoglobin |
-| Skull | Sutures |
+| Column I      | Correct Match |
+| ------------- | ------------- |
+| Smooth muscle | Involuntary   |
+| Tropomyosin   | Thin filament |
+| Red muscle    | Myoglobin     |
+| Skull         | Sutures       |
 
 ## 46.10 Fill-In Answers
 
-| Prompt | Answer |
-|---|---|
-| Mammals generally have blank cervical vertebrae | 7 |
-| Number of phalanges in each limb of human | 14 |
-| Thin filament contains F-actin plus | Troponin and tropomyosin |
-| In muscle fibre Ca++ is stored in | Sarcoplasmic reticulum |
-| Floating ribs are pairs | 11th and 12th |
-| Human cranium is made of | 8 bones |
+| Prompt                                          | Answer                   |
+| ----------------------------------------------- | ------------------------ |
+| Mammals generally have blank cervical vertebrae | 7                        |
+| Number of phalanges in each limb of human       | 14                       |
+| Thin filament contains F-actin plus             | Troponin and tropomyosin |
+| In muscle fibre Ca++ is stored in               | Sarcoplasmic reticulum   |
+| Floating ribs are pairs                         | 11th and 12th            |
+| Human cranium is made of                        | 8 bones                  |
 
 ## 47. High-Yield Facts
 
@@ -1450,46 +1450,46 @@ ATP hydrolysis re-energises the myosin head.
 
 ## 50. Rapid Revision Sheet
 
-| Topic | One-Line Revision |
-|---|---|
-| Movement | Change in position |
-| Locomotion | Movement causing change of place |
-| Amoeboid movement | Pseudopodia |
-| Ciliary movement | Cilia beating |
-| Muscular movement | Muscle contraction |
-| Skeletal muscle | Striated voluntary |
-| Visceral muscle | Smooth involuntary |
-| Cardiac muscle | Striated involuntary |
-| Sarcolemma | Muscle cell membrane |
-| Sarcoplasmic reticulum | Stores Ca++ |
-| Actin | Thin filament |
-| Myosin | Thick filament |
-| I band | Actin, light band |
-| A band | Myosin, dark band |
-| Z line | Boundary of sarcomere |
-| H zone | Thick filament only |
-| Sarcomere | Contractile unit |
-| Troponin | Binds Ca++ |
-| Tropomyosin | Masks actin sites |
-| Myosin head | ATPase and actin binding |
-| Sliding filament | Actin slides over myosin |
-| Red fibre | Myoglobin-rich |
-| White fibre | Low myoglobin |
-| Skeleton | 206 bones |
-| Axial skeleton | 80 bones |
-| Skull | 22 bones |
-| Vertebral column | 26 units |
-| Ribs | 12 pairs |
-| True ribs | First 7 pairs |
-| Floating ribs | 11th and 12th pairs |
-| Femur | Longest bone |
-| Fibrous joint | Immovable |
-| Cartilaginous joint | Limited movement |
-| Synovial joint | Free movement |
+| Topic                  | One-Line Revision                |
+| ---------------------- | -------------------------------- |
+| Movement               | Change in position               |
+| Locomotion             | Movement causing change of place |
+| Amoeboid movement      | Pseudopodia                      |
+| Ciliary movement       | Cilia beating                    |
+| Muscular movement      | Muscle contraction               |
+| Skeletal muscle        | Striated voluntary               |
+| Visceral muscle        | Smooth involuntary               |
+| Cardiac muscle         | Striated involuntary             |
+| Sarcolemma             | Muscle cell membrane             |
+| Sarcoplasmic reticulum | Stores Ca++                      |
+| Actin                  | Thin filament                    |
+| Myosin                 | Thick filament                   |
+| I band                 | Actin, light band                |
+| A band                 | Myosin, dark band                |
+| Z line                 | Boundary of sarcomere            |
+| H zone                 | Thick filament only              |
+| Sarcomere              | Contractile unit                 |
+| Troponin               | Binds Ca++                       |
+| Tropomyosin            | Masks actin sites                |
+| Myosin head            | ATPase and actin binding         |
+| Sliding filament       | Actin slides over myosin         |
+| Red fibre              | Myoglobin-rich                   |
+| White fibre            | Low myoglobin                    |
+| Skeleton               | 206 bones                        |
+| Axial skeleton         | 80 bones                         |
+| Skull                  | 22 bones                         |
+| Vertebral column       | 26 units                         |
+| Ribs                   | 12 pairs                         |
+| True ribs              | First 7 pairs                    |
+| Floating ribs          | 11th and 12th pairs              |
+| Femur                  | Longest bone                     |
+| Fibrous joint          | Immovable                        |
+| Cartilaginous joint    | Limited movement                 |
+| Synovial joint         | Free movement                    |
 
 ## 51. Raw File Reference
 
-| Item | Path |
-|---|---|
-| Raw input | `data/class_11/biology/chapter_17.md` |
+| Item             | Path                                             |
+| ---------------- | ------------------------------------------------ |
+| Raw input        | `data/class_11/biology/chapter_17.md`            |
 | Formatted output | `data_learner_md/class_11/biology/chapter_17.md` |

@@ -97,7 +97,7 @@ In fixed-axis rotation:
 - all particles have the same angular velocity
 - linear speed depends on distance from the axis
 
-If the angular velocity is \(\omega\), and a particle is at perpendicular distance \(r_\perp\) from the axis, then its speed is:
+If the angular velocity is \(\omega\), and a particle is at perpendicular distance \(r\_\perp\) from the axis, then its speed is:
 
 $$
 v=\omega r_\perp
@@ -119,7 +119,7 @@ $$
 
 where:
 
-- \(v_{cm}\) is the speed of the centre of mass
+- \(v\_{cm}\) is the speed of the centre of mass
 - \(R\) is the radius of the wheel
 - \(\omega\) is the angular speed
 
@@ -238,7 +238,7 @@ $$
 where:
 
 - \(\vec{R}\) is the position vector of the centre of mass
-- \(\vec{r}_i\) is the position vector of the \(i\)th particle
+- \(\vec{r}\_i\) is the position vector of the \(i\)th particle
 - \(M\) is the total mass
 
 ## 7. Centre Of Mass Of Continuous Bodies
@@ -824,7 +824,7 @@ If the fingers of the right hand curl in the direction of rotation, the thumb gi
 
 ## 20. Linear Velocity In Rotation
 
-For a particle at perpendicular distance \(r_\perp\) from the axis:
+For a particle at perpendicular distance \(r\_\perp\) from the axis:
 
 $$
 v=\omega r_\perp
@@ -876,7 +876,7 @@ If angular speed increases, \(\vec{\alpha}\) is in the same direction as \(\vec{
 
 If angular speed decreases, \(\vec{\alpha}\) is opposite to \(\vec{\omega}\).
 
-Tangential acceleration of a point at distance \(r_\perp\) from the axis is:
+Tangential acceleration of a point at distance \(r\_\perp\) from the axis is:
 
 $$
 a_t=\alpha r_\perp
@@ -920,13 +920,13 @@ Torque has the same dimensional formula as work, but torque is a vector and work
 
 The perpendicular distance from the axis to the line of action of the force is called the moment arm.
 
-If this perpendicular distance is \(r_\perp\), then:
+If this perpendicular distance is \(r\_\perp\), then:
 
 $$
 \tau=Fr_\perp
 $$
 
-Equivalently, if \(F_\perp\) is the component of force perpendicular to \(\vec{r}\), then:
+Equivalently, if \(F\_\perp\) is the component of force perpendicular to \(\vec{r}\), then:
 
 $$
 \tau=rF_\perp
@@ -1425,18 +1425,18 @@ Larger \(k\) means the mass is effectively farther from the axis.
 
 These results should be remembered carefully.
 
-| Body | Axis | Moment of inertia |
-|---|---|---|
-| Thin ring | through centre, perpendicular to plane | \(MR^2\) |
-| Thin ring | about a diameter | \(\frac{1}{2}MR^2\) |
-| Circular disc | through centre, perpendicular to plane | \(\frac{1}{2}MR^2\) |
-| Circular disc | about a diameter | \(\frac{1}{4}MR^2\) |
-| Solid cylinder | symmetry axis | \(\frac{1}{2}MR^2\) |
-| Hollow cylinder, thin shell | symmetry axis | \(MR^2\) |
-| Solid sphere | about a diameter | \(\frac{2}{5}MR^2\) |
-| Thin spherical shell | about a diameter | \(\frac{2}{3}MR^2\) |
-| Uniform rod | through centre, perpendicular to length | \(\frac{1}{12}ML^2\) |
-| Uniform rod | through one end, perpendicular to length | \(\frac{1}{3}ML^2\) |
+| Body                        | Axis                                     | Moment of inertia    |
+| --------------------------- | ---------------------------------------- | -------------------- |
+| Thin ring                   | through centre, perpendicular to plane   | \(MR^2\)             |
+| Thin ring                   | about a diameter                         | \(\frac{1}{2}MR^2\)  |
+| Circular disc               | through centre, perpendicular to plane   | \(\frac{1}{2}MR^2\)  |
+| Circular disc               | about a diameter                         | \(\frac{1}{4}MR^2\)  |
+| Solid cylinder              | symmetry axis                            | \(\frac{1}{2}MR^2\)  |
+| Hollow cylinder, thin shell | symmetry axis                            | \(MR^2\)             |
+| Solid sphere                | about a diameter                         | \(\frac{2}{5}MR^2\)  |
+| Thin spherical shell        | about a diameter                         | \(\frac{2}{3}MR^2\)  |
+| Uniform rod                 | through centre, perpendicular to length  | \(\frac{1}{12}ML^2\) |
+| Uniform rod                 | through one end, perpendicular to length | \(\frac{1}{3}ML^2\)  |
 
 ### 35.1 How To Compare Values
 
@@ -1500,7 +1500,7 @@ The parallel-axis theorem relates moment of inertia about an axis through the ce
 
 If:
 
-- \(I_{cm}\) is moment of inertia about an axis through centre of mass
+- \(I\_{cm}\) is moment of inertia about an axis through centre of mass
 - \(I\) is moment of inertia about a parallel axis
 - \(a\) is distance between the two axes
 - \(M\) is total mass
@@ -1667,14 +1667,14 @@ This applies when:
 
 The comparison with linear motion is:
 
-| Translation | Rotation |
-|---|---|
-| force \(F\) | torque \(\tau\) |
-| mass \(m\) | moment of inertia \(I\) |
-| acceleration \(a\) | angular acceleration \(\alpha\) |
-| velocity \(v\) | angular velocity \(\omega\) |
-| displacement \(s\) | angular displacement \(\theta\) |
-| momentum \(p=mv\) | angular momentum \(L=I\omega\) |
+| Translation                        | Rotation                                |
+| ---------------------------------- | --------------------------------------- |
+| force \(F\)                        | torque \(\tau\)                         |
+| mass \(m\)                         | moment of inertia \(I\)                 |
+| acceleration \(a\)                 | angular acceleration \(\alpha\)         |
+| velocity \(v\)                     | angular velocity \(\omega\)             |
+| displacement \(s\)                 | angular displacement \(\theta\)         |
+| momentum \(p=mv\)                  | angular momentum \(L=I\omega\)          |
 | kinetic energy \(\frac{1}{2}mv^2\) | kinetic energy \(\frac{1}{2}I\omega^2\) |
 
 ## 41. Work Done By Torque
@@ -1941,18 +1941,18 @@ The extra energy comes from internal work done by the child while pulling the ar
 
 ## 46. Comparing Translational And Rotational Motion
 
-| Translational motion | Rotational motion |
-|---|---|
-| position \(x\) | angular position \(\theta\) |
-| displacement \(s\) | angular displacement \(\theta\) |
-| velocity \(v\) | angular velocity \(\omega\) |
-| acceleration \(a\) | angular acceleration \(\alpha\) |
-| mass \(m\) | moment of inertia \(I\) |
-| force \(F\) | torque \(\tau\) |
-| linear momentum \(p=mv\) | angular momentum \(L=I\omega\) |
-| \(F=ma\) | \(\tau=I\alpha\) |
-| work \(W=Fs\) | work \(W=\tau\theta\) |
-| power \(P=Fv\) | power \(P=\tau\omega\) |
+| Translational motion                 | Rotational motion                         |
+| ------------------------------------ | ----------------------------------------- |
+| position \(x\)                       | angular position \(\theta\)               |
+| displacement \(s\)                   | angular displacement \(\theta\)           |
+| velocity \(v\)                       | angular velocity \(\omega\)               |
+| acceleration \(a\)                   | angular acceleration \(\alpha\)           |
+| mass \(m\)                           | moment of inertia \(I\)                   |
+| force \(F\)                          | torque \(\tau\)                           |
+| linear momentum \(p=mv\)             | angular momentum \(L=I\omega\)            |
+| \(F=ma\)                             | \(\tau=I\alpha\)                          |
+| work \(W=Fs\)                        | work \(W=\tau\theta\)                     |
+| power \(P=Fv\)                       | power \(P=\tau\omega\)                    |
 | kinetic energy \(K=\frac{1}{2}mv^2\) | kinetic energy \(K=\frac{1}{2}I\omega^2\) |
 
 This comparison is useful, but it should not be used blindly.
@@ -2059,7 +2059,7 @@ $$
 \frac{d\vec{P}}{dt}=\vec{F}_{ext}
 $$
 
-If \(\vec{F}_{ext}=0\):
+If \(\vec{F}\_{ext}=0\):
 
 $$
 \vec{P}=\text{constant}
@@ -2139,7 +2139,7 @@ $$
 \frac{d\vec{L}}{dt}=\vec{\tau}_{ext}
 $$
 
-If \(\vec{\tau}_{ext}=0\):
+If \(\vec{\tau}\_{ext}=0\):
 
 $$
 \vec{L}=\text{constant}
@@ -2271,7 +2271,7 @@ $$
 
 2. A ring and a disc have the same mass and radius. Which has larger \(I\) about the central perpendicular axis?
 
-3. A rod has \(I_{cm}=\frac{1}{12}ML^2\). Use the parallel-axis theorem to find \(I\) about one end.
+3. A rod has \(I\_{cm}=\frac{1}{12}ML^2\). Use the parallel-axis theorem to find \(I\) about one end.
 
 4. A disc has \(I_z=\frac{1}{2}MR^2\). Use the perpendicular-axis theorem to find moment of inertia about a diameter.
 
@@ -2345,7 +2345,7 @@ You are ready for this chapter when you can:
 - calculate centre of mass for particles on a line
 - calculate centre of mass in two dimensions
 - use symmetry to locate centre of mass
-- explain why \(M\vec{A}=\vec{F}_{ext}\)
+- explain why \(M\vec{A}=\vec{F}\_{ext}\)
 - connect total momentum with centre of mass velocity
 - state conservation of linear momentum
 - calculate cross products using magnitude and direction

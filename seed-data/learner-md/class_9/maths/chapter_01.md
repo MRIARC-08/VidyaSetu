@@ -1,20 +1,21 @@
 # Chapter 1: Orienting Yourself: The Use of Coordinates
+
 ### NCERT Class 9 - Maths
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 9 |
-| **Subject** | Maths |
-| **Chapter** | 1 |
-| **Actual Chapter Title** | Orienting Yourself: The Use of Coordinates |
-| **Raw File Header** | "Number Systems" |
-| **Textbook Pages** | 1-15 |
-| **Core Theme** | Locating points on a plane using coordinates and measuring distances between points. |
-| **Main Skill** | Translating between physical positions, ordered pairs, graphs, quadrants, and distance calculations. |
+| Detail                   | Learner-Friendly Information                                                                         |
+| ------------------------ | ---------------------------------------------------------------------------------------------------- |
+| **Class**                | 9                                                                                                    |
+| **Subject**              | Maths                                                                                                |
+| **Chapter**              | 1                                                                                                    |
+| **Actual Chapter Title** | Orienting Yourself: The Use of Coordinates                                                           |
+| **Raw File Header**      | "Number Systems"                                                                                     |
+| **Textbook Pages**       | 1-15                                                                                                 |
+| **Core Theme**           | Locating points on a plane using coordinates and measuring distances between points.                 |
+| **Main Skill**           | Translating between physical positions, ordered pairs, graphs, quadrants, and distance calculations. |
 
 > [!NOTE]
 > The raw source file is `chapter_01.md` and its extraction header says "Number Systems", but the actual chapter content is **Orienting Yourself: The Use of Coordinates**. This learner-facing version follows the actual chapter content.
@@ -23,12 +24,12 @@
 
 ## Section Structure
 
-| Section | Title | Main Learning Focus |
-|---|---|---|
-| **1.0** | Introduction | Why coordinates are useful for locating objects. |
-| **1.1** | Introduction | Historical and practical background of coordinate systems. |
-| **1.2** | Settling In | Using a room map to understand coordinate location. |
-| **1.3** | The 2-D Cartesian Coordinate System | Axes, origin, coordinates, quadrants, and plotting points. |
+| Section | Title                                        | Main Learning Focus                                                          |
+| ------- | -------------------------------------------- | ---------------------------------------------------------------------------- |
+| **1.0** | Introduction                                 | Why coordinates are useful for locating objects.                             |
+| **1.1** | Introduction                                 | Historical and practical background of coordinate systems.                   |
+| **1.2** | Settling In                                  | Using a room map to understand coordinate location.                          |
+| **1.3** | The 2-D Cartesian Coordinate System          | Axes, origin, coordinates, quadrants, and plotting points.                   |
 | **1.4** | Distance Between Two Points in the 2-D Plane | Using horizontal and vertical shifts with the Baudhayana-Pythagoras theorem. |
 
 ---
@@ -37,18 +38,18 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Understand coordinates** | Explain why two numbers are needed to locate a point on a plane. |
-| **Identify axes** | Distinguish the x-axis, y-axis, and origin. |
-| **Read ordered pairs** | Interpret a point written as \((x, y)\). |
-| **Plot points** | Mark points correctly in all four quadrants. |
-| **Use signs** | Connect positive and negative coordinates with direction from the origin. |
-| **Identify quadrants** | Decide which quadrant a point belongs to from its signs. |
-| **Understand axis points** | Recognize points on the x-axis and y-axis. |
-| **Calculate distances** | Use horizontal and vertical differences to find distance between two points. |
-| **Apply coordinates** | Use coordinates in room plans, city grids, screen pixels, and map-like layouts. |
-| **Handle extension problems** | Use midpoint and distance reasoning for harder coordinate problems. |
+| Outcome                       | You Should Be Able To...                                                        |
+| ----------------------------- | ------------------------------------------------------------------------------- |
+| **Understand coordinates**    | Explain why two numbers are needed to locate a point on a plane.                |
+| **Identify axes**             | Distinguish the x-axis, y-axis, and origin.                                     |
+| **Read ordered pairs**        | Interpret a point written as \((x, y)\).                                        |
+| **Plot points**               | Mark points correctly in all four quadrants.                                    |
+| **Use signs**                 | Connect positive and negative coordinates with direction from the origin.       |
+| **Identify quadrants**        | Decide which quadrant a point belongs to from its signs.                        |
+| **Understand axis points**    | Recognize points on the x-axis and y-axis.                                      |
+| **Calculate distances**       | Use horizontal and vertical differences to find distance between two points.    |
+| **Apply coordinates**         | Use coordinates in room plans, city grids, screen pixels, and map-like layouts. |
+| **Handle extension problems** | Use midpoint and distance reasoning for harder coordinate problems.             |
 
 ---
 
@@ -62,33 +63,33 @@ These two numbers are called coordinates.
 
 The coordinate system lets us convert geometry into numbers and numbers into geometry.
 
-| Situation | Coordinate Idea |
-|---|---|
-| A room floor plan | Locate furniture by distances from two walls. |
-| A city grid | Locate street intersections using two road numbers. |
+| Situation         | Coordinate Idea                                     |
+| ----------------- | --------------------------------------------------- |
+| A room floor plan | Locate furniture by distances from two walls.       |
+| A city grid       | Locate street intersections using two road numbers. |
 | A computer screen | Locate pixels by horizontal and vertical positions. |
-| A graph | Locate a point using x-coordinate and y-coordinate. |
+| A graph           | Locate a point using x-coordinate and y-coordinate. |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Coordinate system** | A structured system for locating points using numbers. |
-| **Cartesian plane** | Plane formed by two perpendicular coordinate axes. |
-| **Coordinate plane / xy-plane** | Another name for the Cartesian plane. |
-| **x-axis** | Horizontal axis. |
-| **y-axis** | Vertical axis. |
-| **Origin** | Point where x-axis and y-axis meet; coordinates \((0,0)\). |
-| **Coordinate axes** | The x-axis and y-axis together. |
-| **Ordered pair** | A pair of numbers written in order as \((x,y)\). |
-| **x-coordinate** | First coordinate; horizontal position from the y-axis. |
-| **y-coordinate** | Second coordinate; vertical position from the x-axis. |
-| **Quadrant** | One of the four regions formed by the coordinate axes. |
-| **Distance formula** | Formula for distance between two points in a plane. |
-| **Reflection** | Mirror image of a point or figure across a line such as an axis. |
-| **Midpoint** | Point exactly halfway between two points. |
+| Term                            | Meaning                                                          |
+| ------------------------------- | ---------------------------------------------------------------- |
+| **Coordinate system**           | A structured system for locating points using numbers.           |
+| **Cartesian plane**             | Plane formed by two perpendicular coordinate axes.               |
+| **Coordinate plane / xy-plane** | Another name for the Cartesian plane.                            |
+| **x-axis**                      | Horizontal axis.                                                 |
+| **y-axis**                      | Vertical axis.                                                   |
+| **Origin**                      | Point where x-axis and y-axis meet; coordinates \((0,0)\).       |
+| **Coordinate axes**             | The x-axis and y-axis together.                                  |
+| **Ordered pair**                | A pair of numbers written in order as \((x,y)\).                 |
+| **x-coordinate**                | First coordinate; horizontal position from the y-axis.           |
+| **y-coordinate**                | Second coordinate; vertical position from the x-axis.            |
+| **Quadrant**                    | One of the four regions formed by the coordinate axes.           |
+| **Distance formula**            | Formula for distance between two points in a plane.              |
+| **Reflection**                  | Mirror image of a point or figure across a line such as an axis. |
+| **Midpoint**                    | Point exactly halfway between two points.                        |
 
 ---
 
@@ -100,14 +101,14 @@ Coordinates help us answer a simple but powerful question:
 
 Examples:
 
-| Context | Why Coordinates Help |
-|---|---|
-| Map | Locate a town, school, or shop. |
-| Classroom layout | Place desks, doors, windows, and boards accurately. |
-| Architecture | Draw floor plans with exact positions. |
-| Navigation | Locate places using latitude and longitude. |
-| Astronomy | Locate stars and planets in the sky. |
-| Computer graphics | Place images and icons on a screen. |
+| Context              | Why Coordinates Help                                   |
+| -------------------- | ------------------------------------------------------ |
+| Map                  | Locate a town, school, or shop.                        |
+| Classroom layout     | Place desks, doors, windows, and boards accurately.    |
+| Architecture         | Draw floor plans with exact positions.                 |
+| Navigation           | Locate places using latitude and longitude.            |
+| Astronomy            | Locate stars and planets in the sky.                   |
+| Computer graphics    | Place images and icons on a screen.                    |
 | Algebra and geometry | Represent equations as shapes and shapes as equations. |
 
 ---
@@ -118,16 +119,16 @@ The idea of locating places using grids is very old.
 
 The raw chapter highlights several historical connections:
 
-| Historical Link | Coordinate Idea |
-|---|---|
-| Sindhu-Sarasvati Civilisation | Streets arranged in North-South and East-West directions like a grid. |
-| Baudhayana | Used geometric ideas involving perpendicular directions. |
-| Ujjayini | Used as an important reference meridian in ancient astronomy and geography. |
-| Aryabhata | Used trigonometric ideas to calculate positions of stars and cities. |
-| Brahmagupta | Formalized zero and negative numbers, essential for modern coordinate axes. |
-| Al-Biruni | Used Indian mathematical methods for geographic coordinates. |
-| Omar Khayyam | Connected algebraic problems with geometry. |
-| Rene Descartes | Formalized coordinate geometry in Europe. |
+| Historical Link               | Coordinate Idea                                                             |
+| ----------------------------- | --------------------------------------------------------------------------- |
+| Sindhu-Sarasvati Civilisation | Streets arranged in North-South and East-West directions like a grid.       |
+| Baudhayana                    | Used geometric ideas involving perpendicular directions.                    |
+| Ujjayini                      | Used as an important reference meridian in ancient astronomy and geography. |
+| Aryabhata                     | Used trigonometric ideas to calculate positions of stars and cities.        |
+| Brahmagupta                   | Formalized zero and negative numbers, essential for modern coordinate axes. |
+| Al-Biruni                     | Used Indian mathematical methods for geographic coordinates.                |
+| Omar Khayyam                  | Connected algebraic problems with geometry.                                 |
+| Rene Descartes                | Formalized coordinate geometry in Europe.                                   |
 
 ### Why Zero and Negative Numbers Matter
 
@@ -164,10 +165,10 @@ $$
 This means:
 
 | Map Distance | Real Distance |
-|---|---|
-| 1 cm | 1 foot |
-| 2 cm | 2 feet |
-| 5 cm | 5 feet |
+| ------------ | ------------- |
+| 1 cm         | 1 foot        |
+| 2 cm         | 2 feet        |
+| 5 cm         | 5 feet        |
 
 ### Why a Floor Map Cannot Show Everything
 
@@ -218,10 +219,10 @@ To locate a point on a plane, we use two perpendicular number lines.
 
 ## Coordinate Axes
 
-| Axis | Direction | Role |
-|---|---|---|
+| Axis       | Direction  | Role                          |
+| ---------- | ---------- | ----------------------------- |
 | **x-axis** | Horizontal | Measures left-right position. |
-| **y-axis** | Vertical | Measures up-down position. |
+| **y-axis** | Vertical   | Measures up-down position.    |
 
 The axes meet at the origin.
 
@@ -231,12 +232,12 @@ $$
 
 ### Sign Convention
 
-| Direction from Origin | Sign |
-|---|---|
-| Right | Positive x |
-| Left | Negative x |
-| Up | Positive y |
-| Down | Negative y |
+| Direction from Origin | Sign       |
+| --------------------- | ---------- |
+| Right                 | Positive x |
+| Left                  | Negative x |
+| Up                    | Positive y |
+| Down                  | Negative y |
 
 ---
 
@@ -254,10 +255,10 @@ The second number is the y-coordinate.
 
 ### Meaning
 
-| Coordinate | Meaning |
-|---|---|
-| \(x\) | Horizontal distance from the y-axis, with sign showing left or right. |
-| \(y\) | Vertical distance from the x-axis, with sign showing up or down. |
+| Coordinate | Meaning                                                               |
+| ---------- | --------------------------------------------------------------------- |
+| \(x\)      | Horizontal distance from the y-axis, with sign showing left or right. |
+| \(y\)      | Vertical distance from the x-axis, with sign showing up or down.      |
 
 ### Reading an Ordered Pair
 
@@ -267,10 +268,10 @@ $$
 S(3,-5)
 $$
 
-| Coordinate | Meaning |
-|---|---|
-| \(3\) | Move 3 units right from the origin. |
-| \(-5\) | Move 5 units down. |
+| Coordinate | Meaning                             |
+| ---------- | ----------------------------------- |
+| \(3\)      | Move 3 units right from the origin. |
+| \(-5\)     | Move 5 units down.                  |
 
 So \(S(3,-5)\) lies in Quadrant IV.
 
@@ -290,10 +291,10 @@ $$
 
 Examples:
 
-| Point | Meaning |
-|---|---|
-| \(B(4.5,0)\) | 4.5 units right of origin on x-axis. |
-| \(E(-2.9,0)\) | 2.9 units left of origin on x-axis. |
+| Point         | Meaning                              |
+| ------------- | ------------------------------------ |
+| \(B(4.5,0)\)  | 4.5 units right of origin on x-axis. |
+| \(E(-2.9,0)\) | 2.9 units left of origin on x-axis.  |
 
 ### Points on the y-axis
 
@@ -307,9 +308,9 @@ $$
 
 Examples:
 
-| Point | Meaning |
-|---|---|
-| \(H(0,4)\) | 4 units above origin on y-axis. |
+| Point         | Meaning                           |
+| ------------- | --------------------------------- |
+| \(H(0,4)\)    | 4 units above origin on y-axis.   |
 | \(G(0,-4.5)\) | 4.5 units below origin on y-axis. |
 
 ### Origin
@@ -326,12 +327,12 @@ $$
 
 The axes divide the coordinate plane into four regions called quadrants.
 
-| Quadrant | Sign of x | Sign of y | Example |
-|---|---:|---:|---|
-| **I** | + | + | \((3,4)\) |
-| **II** | - | + | \((-5,3)\) |
-| **III** | - | - | \((-2,-6)\) |
-| **IV** | + | - | \((3,-5)\) |
+| Quadrant | Sign of x | Sign of y | Example     |
+| -------- | --------: | --------: | ----------- |
+| **I**    |         + |         + | \((3,4)\)   |
+| **II**   |         - |         + | \((-5,3)\)  |
+| **III**  |         - |         - | \((-2,-6)\) |
+| **IV**   |         + |         - | \((3,-5)\)  |
 
 ### Quadrant Rule
 
@@ -343,14 +344,14 @@ To identify the quadrant:
 
 ### Examples
 
-| Point | Sign Pattern | Location |
-|---|---|---|
-| \(P(2,7)\) | \(+,+\) | Quadrant I |
-| \(Q(-5,3)\) | \(-,+\) | Quadrant II |
-| \(R(-4,-2)\) | \(-,-\) | Quadrant III |
-| \(S(3,-5)\) | \(+,-\) | Quadrant IV |
-| \(A(0,-2)\) | x is 0 | y-axis, not in a quadrant |
-| \(B(4,0)\) | y is 0 | x-axis, not in a quadrant |
+| Point        | Sign Pattern | Location                  |
+| ------------ | ------------ | ------------------------- |
+| \(P(2,7)\)   | \(+,+\)      | Quadrant I                |
+| \(Q(-5,3)\)  | \(-,+\)      | Quadrant II               |
+| \(R(-4,-2)\) | \(-,-\)      | Quadrant III              |
+| \(S(3,-5)\)  | \(+,-\)      | Quadrant IV               |
+| \(A(0,-2)\)  | x is 0       | y-axis, not in a quadrant |
+| \(B(4,0)\)   | y is 0       | x-axis, not in a quadrant |
 
 > [!IMPORTANT]
 > Points on the axes are not considered to be in any quadrant.
@@ -391,22 +392,22 @@ $$
 
 To plot \(P(x,y)\):
 
-| Step | Action |
-|---|---|
-| **1** | Start at origin \(O(0,0)\). |
-| **2** | Move horizontally according to x. |
+| Step  | Action                                      |
+| ----- | ------------------------------------------- |
+| **1** | Start at origin \(O(0,0)\).                 |
+| **2** | Move horizontally according to x.           |
 | **3** | From there, move vertically according to y. |
-| **4** | Mark the point. |
-| **5** | Label it clearly. |
+| **4** | Mark the point.                             |
+| **5** | Label it clearly.                           |
 
 ### Direction Guide
 
 | Coordinate | Direction |
-|---|---|
-| Positive x | Right |
-| Negative x | Left |
-| Positive y | Up |
-| Negative y | Down |
+| ---------- | --------- |
+| Positive x | Right     |
+| Negative x | Left      |
+| Positive y | Up        |
+| Negative y | Down      |
 
 ### Example: Plot \(Q(-5,3)\)
 
@@ -423,13 +424,13 @@ This exercise uses the room layout.
 
 ### Main Skills
 
-| Question Type | Skill |
-|---|---|
-| Door distance from wall | Read x-coordinate or y-coordinate from graph. |
-| Coordinates of door point | Write ordered pair accurately. |
-| Door width | Subtract coordinate values along the same axis. |
-| Accessibility | Interpret mathematical measurement in a real-world context. |
-| Bathroom door comparison | Compare lengths using coordinate differences. |
+| Question Type             | Skill                                                       |
+| ------------------------- | ----------------------------------------------------------- |
+| Door distance from wall   | Read x-coordinate or y-coordinate from graph.               |
+| Coordinates of door point | Write ordered pair accurately.                              |
+| Door width                | Subtract coordinate values along the same axis.             |
+| Accessibility             | Interpret mathematical measurement in a real-world context. |
+| Bathroom door comparison  | Compare lengths using coordinate differences.               |
 
 ### Door Width Reasoning
 
@@ -455,15 +456,15 @@ This exercise asks you to mark a room on a coordinate grid and place furniture.
 
 ### Skills Practiced
 
-| Task | Mathematical Idea |
-|---|---|
+| Task                              | Mathematical Idea                                  |
+| --------------------------------- | -------------------------------------------------- |
 | Marking a table with 3 given feet | Use rectangle properties to find the fourth point. |
-| Checking door swing | Use coordinates and shape reasoning. |
-| Bathroom corners | Read and write coordinates. |
-| Shower area shape | Identify rectangle/square from coordinates. |
-| Washbasin/toilet area | Mark rectangles with given dimensions. |
-| Dining room extension | Draw a larger coordinate plan. |
-| Centering a dining table | Use equal distances from room boundaries. |
+| Checking door swing               | Use coordinates and shape reasoning.               |
+| Bathroom corners                  | Read and write coordinates.                        |
+| Shower area shape                 | Identify rectangle/square from coordinates.        |
+| Washbasin/toilet area             | Mark rectangles with given dimensions.             |
+| Dining room extension             | Draw a larger coordinate plan.                     |
+| Centering a dining table          | Use equal distances from room boundaries.          |
 
 ### Finding the Fourth Corner of a Rectangle
 
@@ -718,18 +719,18 @@ Distance is always non-negative.
 When a point is reflected in the y-axis:
 
 | Original Point | Reflected Point |
-|---|---|
-| \((x,y)\) | \((-x,y)\) |
+| -------------- | --------------- |
+| \((x,y)\)      | \((-x,y)\)      |
 
 The x-coordinate changes sign. The y-coordinate stays the same.
 
 Examples:
 
-| Original | Reflection in y-axis |
-|---|---|
-| \(A(3,4)\) | \(A'(-3,4)\) |
-| \(D(7,1)\) | \(D'(-7,1)\) |
-| \(M(9,6)\) | \(M'(-9,6)\) |
+| Original   | Reflection in y-axis |
+| ---------- | -------------------- |
+| \(A(3,4)\) | \(A'(-3,4)\)         |
+| \(D(7,1)\) | \(D'(-7,1)\)         |
+| \(M(9,6)\) | \(M'(-9,6)\)         |
 
 ### What Remains the Same?
 
@@ -744,8 +745,8 @@ The triangle changes position, but side lengths are preserved.
 When a point is reflected in the x-axis:
 
 | Original Point | Reflected Point |
-|---|---|
-| \((x,y)\) | \((x,-y)\) |
+| -------------- | --------------- |
+| \((x,y)\)      | \((x,-y)\)      |
 
 The y-coordinate changes sign. The x-coordinate stays the same.
 
@@ -815,25 +816,25 @@ $$
 
 ### To Find the Quadrant
 
-| x Sign | y Sign | Location |
-|---|---|---|
-| + | + | Quadrant I |
-| - | + | Quadrant II |
-| - | - | Quadrant III |
-| + | - | Quadrant IV |
-| 0 | any | y-axis |
-| any | 0 | x-axis |
+| x Sign | y Sign | Location     |
+| ------ | ------ | ------------ |
+| +      | +      | Quadrant I   |
+| -      | +      | Quadrant II  |
+| -      | -      | Quadrant III |
+| +      | -      | Quadrant IV  |
+| 0      | any    | y-axis       |
+| any    | 0      | x-axis       |
 
 ### To Find Distance
 
-| Step | Action |
-|---|---|
+| Step  | Action                                           |
+| ----- | ------------------------------------------------ |
 | **1** | Label points as \((x_1,y_1)\) and \((x_2,y_2)\). |
-| **2** | Find \(x_2-x_1\). |
-| **3** | Find \(y_2-y_1\). |
-| **4** | Square both differences. |
-| **5** | Add them. |
-| **6** | Take the square root. |
+| **2** | Find \(x_2-x_1\).                                |
+| **3** | Find \(y_2-y_1\).                                |
+| **4** | Square both differences.                         |
+| **5** | Add them.                                        |
+| **6** | Take the square root.                            |
 
 ### To Check if a Point Is on a Circle Centered at Origin
 
@@ -851,38 +852,38 @@ $$
 
 Compare \(OP\) with radius \(r\):
 
-| Condition | Meaning |
-|---|---|
-| \(OP < r\) | Point is inside the circle. |
-| \(OP = r\) | Point is on the circle. |
+| Condition  | Meaning                      |
+| ---------- | ---------------------------- |
+| \(OP < r\) | Point is inside the circle.  |
+| \(OP = r\) | Point is on the circle.      |
 | \(OP > r\) | Point is outside the circle. |
 
 ### To Check if Two Circles Intersect
 
 If two circles have radii \(r_1\) and \(r_2\), and the distance between centers is \(d\):
 
-| Condition | Meaning |
-|---|---|
-| \(d > r_1+r_2\) | Circles are separate. |
+| Condition       | Meaning                   |
+| --------------- | ------------------------- | --------------- | -------------------------------------------------- |
+| \(d > r_1+r_2\) | Circles are separate.     |
 | \(d = r_1+r_2\) | Circles touch externally. |
-| \(|r_1-r_2| < d < r_1+r_2\) | Circles intersect at two points. |
-| \(d = |r_1-r_2|\) | Circles touch internally. |
-| \(d < |r_1-r_2|\) | One circle lies inside the other without touching. |
+| \(              | r_1-r_2                   | < d < r_1+r_2\) | Circles intersect at two points.                   |
+| \(d =           | r_1-r_2                   | \)              | Circles touch internally.                          |
+| \(d <           | r_1-r_2                   | \)              | One circle lies inside the other without touching. |
 
 ---
 
 ## Common Mistakes
 
-| Mistake | Correction |
-|---|---|
-| Writing \((y,x)\) instead of \((x,y)\). | Always write x-coordinate first, y-coordinate second. |
-| Treating a point on an axis as a quadrant point. | Axis points are not in quadrants. |
-| Saying distance can be negative. | Distance is always non-negative. |
-| Forgetting absolute value for horizontal/vertical distance. | Use \(|x_2-x_1|\) or \(|y_2-y_1|\). |
-| Mixing left/right and up/down. | x controls horizontal movement; y controls vertical movement. |
-| Using only one coordinate to locate a point in a plane. | A plane location needs two coordinates. |
-| Assuming \((3,5)\) and \((5,3)\) are same. | They are different unless both coordinates are equal. |
-| Forgetting square root in distance formula. | Distance is the square root of the sum of squares. |
+| Mistake                                                     | Correction                                                    |
+| ----------------------------------------------------------- | ------------------------------------------------------------- | ------- | -------- | ------- | --- |
+| Writing \((y,x)\) instead of \((x,y)\).                     | Always write x-coordinate first, y-coordinate second.         |
+| Treating a point on an axis as a quadrant point.            | Axis points are not in quadrants.                             |
+| Saying distance can be negative.                            | Distance is always non-negative.                              |
+| Forgetting absolute value for horizontal/vertical distance. | Use \(                                                        | x_2-x_1 | \) or \( | y_2-y_1 | \). |
+| Mixing left/right and up/down.                              | x controls horizontal movement; y controls vertical movement. |
+| Using only one coordinate to locate a point in a plane.     | A plane location needs two coordinates.                       |
+| Assuming \((3,5)\) and \((5,3)\) are same.                  | They are different unless both coordinates are equal.         |
+| Forgetting square root in distance formula.                 | Distance is the square root of the sum of squares.            |
 
 ---
 
@@ -890,44 +891,44 @@ If two circles have radii \(r_1\) and \(r_2\), and the distance between centers 
 
 ### A. Coordinate Basics
 
-| Q | Question Focus | How to Think |
-|---|---|---|
-| **1** | Coordinates of intersection of axes. | The axes meet at the origin. |
-| **2** | Points on a vertical line through \(W\). | Same x-coordinate; y-coordinate can vary. |
-| **3** | Rectangle-like figure RAMP. | Use equal x or y values to detect parallel/perpendicular sides. |
-| **5** | Coordinate system without negative numbers. | Without negatives, only part of the plane can be located. |
-| **8** | Plot triangles using origin as one vertex. | Choose points that satisfy triangle conditions and quadrant restrictions. |
+| Q     | Question Focus                              | How to Think                                                              |
+| ----- | ------------------------------------------- | ------------------------------------------------------------------------- |
+| **1** | Coordinates of intersection of axes.        | The axes meet at the origin.                                              |
+| **2** | Points on a vertical line through \(W\).    | Same x-coordinate; y-coordinate can vary.                                 |
+| **3** | Rectangle-like figure RAMP.                 | Use equal x or y values to detect parallel/perpendicular sides.           |
+| **5** | Coordinate system without negative numbers. | Without negatives, only part of the plane can be located.                 |
+| **8** | Plot triangles using origin as one vertex.  | Choose points that satisfy triangle conditions and quadrant restrictions. |
 
 ### B. Plotting and Shapes
 
-| Q | Question Focus | How to Think |
-|---|---|---|
-| **4** | Constructing a right triangle from \(Z(5,-6)\). | Drop perpendiculars to axes or choose convenient points. |
-| **16** | Checking whether ABCD is a square. | Compare side lengths and diagonals using distance formula. |
+| Q      | Question Focus                                  | How to Think                                               |
+| ------ | ----------------------------------------------- | ---------------------------------------------------------- |
+| **4**  | Constructing a right triangle from \(Z(5,-6)\). | Drop perpendiculars to axes or choose convenient points.   |
+| **16** | Checking whether ABCD is a square.              | Compare side lengths and diagonals using distance formula. |
 
 ### C. Collinearity and Distance
 
-| Q | Question Focus | How to Think |
-|---|---|---|
-| **6** | Whether \(M(-3,-4)\), \(A(0,0)\), \(G(6,8)\) are collinear. | Compare slopes or check if distances add. |
-| **7** | Whether \(R(-5,-1)\), \(B(-2,-5)\), \(C(4,-12)\) are collinear. | Use same method as Q6. |
-| **12** | Points on a circle centered at origin. | Calculate distance from origin and compare with radius. |
-| **15** | Computer screen circles. | Check center-radius boundary and distance between centers. |
+| Q      | Question Focus                                                  | How to Think                                               |
+| ------ | --------------------------------------------------------------- | ---------------------------------------------------------- |
+| **6**  | Whether \(M(-3,-4)\), \(A(0,0)\), \(G(6,8)\) are collinear.     | Compare slopes or check if distances add.                  |
+| **7**  | Whether \(R(-5,-1)\), \(B(-2,-5)\), \(C(4,-12)\) are collinear. | Use same method as Q6.                                     |
+| **12** | Points on a circle centered at origin.                          | Calculate distance from origin and compare with radius.    |
+| **15** | Computer screen circles.                                        | Check center-radius boundary and distance between centers. |
 
 ### D. Midpoint and Division
 
-| Q | Question Focus | How to Think |
-|---|---|---|
-| **9** | Whether \(M\) is midpoint of \(ST\). | Compare average of x-coordinates and average of y-coordinates. |
-| **10** | Find missing endpoint from midpoint. | Use midpoint equations and solve for missing coordinates. |
-| **11** | Points of trisection. | Divide the segment in ratio 1:2 and 2:1 from the endpoints. |
-| **13** | Triangle vertices from side midpoints. | Use midpoint equations for each side. |
+| Q      | Question Focus                         | How to Think                                                   |
+| ------ | -------------------------------------- | -------------------------------------------------------------- |
+| **9**  | Whether \(M\) is midpoint of \(ST\).   | Compare average of x-coordinates and average of y-coordinates. |
+| **10** | Find missing endpoint from midpoint.   | Use midpoint equations and solve for missing coordinates.      |
+| **11** | Points of trisection.                  | Divide the segment in ratio 1:2 and 2:1 from the endpoints.    |
+| **13** | Triangle vertices from side midpoints. | Use midpoint equations for each side.                          |
 
 ### E. Real-World Coordinate Applications
 
-| Q | Question Focus | How to Think |
-|---|---|---|
-| **14** | City road grid. | Treat intersections as coordinate pairs. |
+| Q      | Question Focus            | How to Think                                     |
+| ------ | ------------------------- | ------------------------------------------------ |
+| **14** | City road grid.           | Treat intersections as coordinate pairs.         |
 | **15** | Computer graphics screen. | Coordinates represent pixels from screen origin. |
 
 ---
@@ -960,11 +961,11 @@ $$
 
 Depending on \(y\):
 
-| y-value | Location |
-|---|---|
-| \(y>0\) | Quadrant II |
+| y-value | Location     |
+| ------- | ------------ |
+| \(y>0\) | Quadrant II  |
 | \(y<0\) | Quadrant III |
-| \(y=0\) | On x-axis |
+| \(y=0\) | On x-axis    |
 
 ---
 
@@ -1270,22 +1271,22 @@ $$
 
 Screen:
 
-| Dimension | Value |
-|---|---|
-| Width | 800 pixels |
-| Height | 600 pixels |
+| Dimension | Value      |
+| --------- | ---------- |
+| Width     | 800 pixels |
+| Height    | 600 pixels |
 
 Circle A:
 
-| Centre | Radius |
-|---|---|
-| \(A(100,150)\) | 80 |
+| Centre         | Radius |
+| -------------- | ------ |
+| \(A(100,150)\) | 80     |
 
 Circle B:
 
-| Centre | Radius |
-|---|---|
-| \(B(250,230)\) | 100 |
+| Centre         | Radius |
+| -------------- | ------ |
+| \(B(250,230)\) | 100    |
 
 #### Boundary Check
 
@@ -1435,32 +1436,32 @@ $$
 
 ### Must-Know Facts
 
-| Fact | Meaning |
-|---|---|
-| Origin | \((0,0)\) |
-| x-axis | Horizontal line |
-| y-axis | Vertical line |
-| Point on x-axis | \((x,0)\) |
-| Point on y-axis | \((0,y)\) |
-| Quadrant I | \(+,+\) |
-| Quadrant II | \(-,+\) |
-| Quadrant III | \(-,-\) |
-| Quadrant IV | \(+,-\) |
-| Distance formula | \(d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}\) |
+| Fact             | Meaning                                                |
+| ---------------- | ------------------------------------------------------ |
+| Origin           | \((0,0)\)                                              |
+| x-axis           | Horizontal line                                        |
+| y-axis           | Vertical line                                          |
+| Point on x-axis  | \((x,0)\)                                              |
+| Point on y-axis  | \((0,y)\)                                              |
+| Quadrant I       | \(+,+\)                                                |
+| Quadrant II      | \(-,+\)                                                |
+| Quadrant III     | \(-,-\)                                                |
+| Quadrant IV      | \(+,-\)                                                |
+| Distance formula | \(d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}\)                   |
 | Midpoint formula | \(M=\left(\frac{x_1+x_2}{2},\frac{y_1+y_2}{2}\right)\) |
 
 ### Best Mental Checks
 
-| When You See... | Think... |
-|---|---|
-| \((0,y)\) | Point is on y-axis. |
-| \((x,0)\) | Point is on x-axis. |
-| Two points with same x | Vertical line segment. |
-| Two points with same y | Horizontal line segment. |
-| Distance problem | Build a right triangle. |
-| Midpoint problem | Average x-values and y-values. |
-| Reflection in y-axis | Change sign of x only. |
-| Reflection in x-axis | Change sign of y only. |
+| When You See...        | Think...                       |
+| ---------------------- | ------------------------------ |
+| \((0,y)\)              | Point is on y-axis.            |
+| \((x,0)\)              | Point is on x-axis.            |
+| Two points with same x | Vertical line segment.         |
+| Two points with same y | Horizontal line segment.       |
+| Distance problem       | Build a right triangle.        |
+| Midpoint problem       | Average x-values and y-values. |
+| Reflection in y-axis   | Change sign of x only.         |
+| Reflection in x-axis   | Change sign of y only.         |
 
 ---
 

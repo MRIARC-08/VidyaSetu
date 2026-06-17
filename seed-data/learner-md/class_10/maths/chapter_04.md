@@ -1,31 +1,32 @@
 # Chapter 4: Quadratic Equations
+
 ### NCERT Class 10 - Maths
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 10 |
-| **Subject** | Maths |
-| **Chapter** | 4 |
-| **Core Theme** | Quadratic equations, roots, factorisation method, quadratic formula, discriminant, and real-life applications. |
-| **Main Skills** | Identifying quadratic equations, forming equations from word problems, solving by factorisation, using discriminant to decide nature of roots. |
-| **Important Idea** | The roots of `ax^2 + bx + c = 0` are the zeroes of the polynomial `ax^2 + bx + c`. |
+| Detail             | Learner-Friendly Information                                                                                                                   |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Class**          | 10                                                                                                                                             |
+| **Subject**        | Maths                                                                                                                                          |
+| **Chapter**        | 4                                                                                                                                              |
+| **Core Theme**     | Quadratic equations, roots, factorisation method, quadratic formula, discriminant, and real-life applications.                                 |
+| **Main Skills**    | Identifying quadratic equations, forming equations from word problems, solving by factorisation, using discriminant to decide nature of roots. |
+| **Important Idea** | The roots of `ax^2 + bx + c = 0` are the zeroes of the polynomial `ax^2 + bx + c`.                                                             |
 
 ---
 
 ## Section Structure
 
-| Unit | Topic | Main Learning Focus |
-|---|---|---|
-| **4A** | Meaning of Quadratic Equation | Standard form and examples. |
-| **4B** | Forming Quadratic Equations | Translating real-life situations into equations. |
-| **4C** | Roots of Quadratic Equations | Meaning of root and relation to zeroes. |
-| **4D** | Factorisation Method | Splitting middle term and equating factors to zero. |
-| **4E** | Quadratic Formula and Discriminant | Formula, `D = b^2 - 4ac`, and nature of roots. |
-| **4F** | Solved Exercises | Complete solutions for Exercises 4.1, 4.2, and 4.3. |
+| Unit   | Topic                              | Main Learning Focus                                 |
+| ------ | ---------------------------------- | --------------------------------------------------- |
+| **4A** | Meaning of Quadratic Equation      | Standard form and examples.                         |
+| **4B** | Forming Quadratic Equations        | Translating real-life situations into equations.    |
+| **4C** | Roots of Quadratic Equations       | Meaning of root and relation to zeroes.             |
+| **4D** | Factorisation Method               | Splitting middle term and equating factors to zero. |
+| **4E** | Quadratic Formula and Discriminant | Formula, `D = b^2 - 4ac`, and nature of roots.      |
+| **4F** | Solved Exercises                   | Complete solutions for Exercises 4.1, 4.2, and 4.3. |
 
 ---
 
@@ -33,32 +34,32 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Identify quadratic equations** | Simplify equations and check whether they reduce to degree 2. |
-| **Write standard form** | Convert equations to `ax^2 + bx + c = 0`, where `a != 0`. |
-| **Find roots** | Solve factorable quadratic equations. |
-| **Reject invalid roots** | Reject negative roots when the variable represents length, age, speed, or quantity. |
-| **Use discriminant** | Decide whether roots are distinct real, equal real, or not real. |
-| **Use quadratic formula** | Find roots when factorisation is difficult. |
-| **Model word problems** | Form quadratic equations from area, age, speed, number, and geometry contexts. |
+| Outcome                          | You Should Be Able To...                                                            |
+| -------------------------------- | ----------------------------------------------------------------------------------- |
+| **Identify quadratic equations** | Simplify equations and check whether they reduce to degree 2.                       |
+| **Write standard form**          | Convert equations to `ax^2 + bx + c = 0`, where `a != 0`.                           |
+| **Find roots**                   | Solve factorable quadratic equations.                                               |
+| **Reject invalid roots**         | Reject negative roots when the variable represents length, age, speed, or quantity. |
+| **Use discriminant**             | Decide whether roots are distinct real, equal real, or not real.                    |
+| **Use quadratic formula**        | Find roots when factorisation is difficult.                                         |
+| **Model word problems**          | Form quadratic equations from area, age, speed, number, and geometry contexts.      |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Quadratic polynomial** | Polynomial of form `ax^2 + bx + c`, where `a != 0`. |
-| **Quadratic equation** | Equation of form `ax^2 + bx + c = 0`, where `a != 0`. |
-| **Standard form** | `ax^2 + bx + c = 0`. |
-| **Root** | Value of the variable that satisfies the quadratic equation. |
-| **Solution** | Same as root for an equation. |
+| Term                     | Meaning                                                            |
+| ------------------------ | ------------------------------------------------------------------ |
+| **Quadratic polynomial** | Polynomial of form `ax^2 + bx + c`, where `a != 0`.                |
+| **Quadratic equation**   | Equation of form `ax^2 + bx + c = 0`, where `a != 0`.              |
+| **Standard form**        | `ax^2 + bx + c = 0`.                                               |
+| **Root**                 | Value of the variable that satisfies the quadratic equation.       |
+| **Solution**             | Same as root for an equation.                                      |
 | **Factorisation method** | Solving by writing the quadratic as product of two linear factors. |
-| **Quadratic formula** | Formula giving roots of `ax^2 + bx + c = 0`. |
-| **Discriminant** | `b^2 - 4ac`, used to decide nature of roots. |
-| **Real roots** | Roots that are real numbers. |
-| **Equal roots** | Both roots are the same number. |
+| **Quadratic formula**    | Formula giving roots of `ax^2 + bx + c = 0`.                       |
+| **Discriminant**         | `b^2 - 4ac`, used to decide nature of roots.                       |
+| **Real roots**           | Roots that are real numbers.                                       |
+| **Equal roots**          | Both roots are the same number.                                    |
 
 ---
 
@@ -98,11 +99,11 @@ $$
 
 ## Nature of Roots
 
-| Discriminant | Nature of Roots |
-|---|---|
-| `D > 0` | Two distinct real roots. |
-| `D = 0` | Two equal real roots. |
-| `D < 0` | No real roots. |
+| Discriminant | Nature of Roots          |
+| ------------ | ------------------------ |
+| `D > 0`      | Two distinct real roots. |
+| `D = 0`      | Two equal real roots.    |
+| `D < 0`      | No real roots.           |
 
 ## Repeated Root
 
@@ -144,12 +145,12 @@ $$
 
 ## Examples of Quadratic Equations
 
-| Equation | Why Quadratic? |
-|---|---|
-| `2x^2 + x - 300 = 0` | Highest power is `2`. |
-| `2x^2 - 3x + 1 = 0` | Standard quadratic form. |
-| `-3x^2 + 4x + 2 = 0` | `a = -3`, and `a != 0`. |
-| `1 - x^2 + 300 = 0` | Can be written as `-x^2 + 301 = 0`. |
+| Equation             | Why Quadratic?                      |
+| -------------------- | ----------------------------------- |
+| `2x^2 + x - 300 = 0` | Highest power is `2`.               |
+| `2x^2 - 3x + 1 = 0`  | Standard quadratic form.            |
+| `-3x^2 + 4x + 2 = 0` | `a = -3`, and `a != 0`.             |
+| `1 - x^2 + 300 = 0`  | Can be written as `-x^2 + 301 = 0`. |
 
 ## Not Every Equation That Looks Quadratic Stays Quadratic
 
@@ -259,10 +260,10 @@ $$
 
 After both lose `5` marbles:
 
-| Person | Marbles Left |
-|---|---|
-| John | `x - 5` |
-| Jivanti | `40 - x` |
+| Person  | Marbles Left |
+| ------- | ------------ |
+| John    | `x - 5`      |
+| Jivanti | `40 - x`     |
 
 Product is `124`:
 
@@ -495,13 +496,13 @@ In word problems, a root may be mathematically valid but physically impossible.
 
 Examples:
 
-| Variable Represents | Invalid Root Type |
-|---|---|
-| Length | Negative length rejected. |
-| Breadth | Negative breadth rejected. |
-| Age | Negative age rejected. |
-| Number of articles | Negative or fractional articles rejected if count required. |
-| Speed | Non-positive speed rejected. |
+| Variable Represents | Invalid Root Type                                           |
+| ------------------- | ----------------------------------------------------------- |
+| Length              | Negative length rejected.                                   |
+| Breadth             | Negative breadth rejected.                                  |
+| Age                 | Negative age rejected.                                      |
+| Number of articles  | Negative or fractional articles rejected if count required. |
+| Speed               | Non-positive speed rejected.                                |
 
 ---
 
@@ -537,11 +538,11 @@ It decides the nature of roots.
 
 ## Nature of Roots
 
-| Value of `D` | Roots |
-|---|---|
-| `D > 0` | Two distinct real roots. |
-| `D = 0` | Two equal real roots. |
-| `D < 0` | No real roots. |
+| Value of `D` | Roots                    |
+| ------------ | ------------------------ |
+| `D > 0`      | Two distinct real roots. |
+| `D = 0`      | Two equal real roots.    |
+| `D < 0`      | No real roots.           |
 
 ## Example: No Real Roots
 
@@ -871,9 +872,9 @@ $$
 
 After 3 years:
 
-| Person | Age |
-|---|---|
-| Rohan | `x + 3` |
+| Person | Age      |
+| ------ | -------- |
+| Rohan  | `x + 3`  |
 | Mother | `x + 29` |
 
 Product:
@@ -1808,16 +1809,16 @@ $$
 
 # Unit 4I: Common Mistakes and Corrections
 
-| Mistake | Correct Understanding |
-|---|---|
-| Deciding degree before simplifying. | Always expand and simplify first. |
-| Forgetting `a != 0`. | If coefficient of `x^2` becomes zero, it is not quadratic. |
-| Solving only one factor after factorisation. | Set both linear factors equal to zero. |
-| Accepting negative length or age. | Reject roots invalid in the context. |
-| Using discriminant as `b^2 + 4ac`. | Correct discriminant is `b^2 - 4ac`. |
-| Saying `D = 0` means no roots. | `D = 0` means two equal real roots. |
-| Forgetting denominator `2a` in formula. | Roots are `(-b +/- sqrt(D))/(2a)`. |
-| Not converting word problems into standard form. | Put all terms on one side before solving. |
+| Mistake                                          | Correct Understanding                                      |
+| ------------------------------------------------ | ---------------------------------------------------------- |
+| Deciding degree before simplifying.              | Always expand and simplify first.                          |
+| Forgetting `a != 0`.                             | If coefficient of `x^2` becomes zero, it is not quadratic. |
+| Solving only one factor after factorisation.     | Set both linear factors equal to zero.                     |
+| Accepting negative length or age.                | Reject roots invalid in the context.                       |
+| Using discriminant as `b^2 + 4ac`.               | Correct discriminant is `b^2 - 4ac`.                       |
+| Saying `D = 0` means no roots.                   | `D = 0` means two equal real roots.                        |
+| Forgetting denominator `2a` in formula.          | Roots are `(-b +/- sqrt(D))/(2a)`.                         |
+| Not converting word problems into standard form. | Put all terms on one side before solving.                  |
 
 ---
 
@@ -1825,41 +1826,41 @@ $$
 
 ## Identifying Quadratic Equations
 
-| After Simplification | Type |
-|---|---|
-| Highest power is `2` and coefficient of `x^2` is non-zero | Quadratic |
-| Highest power is `1` | Linear |
-| Highest power is `3` | Cubic |
-| Variable in denominator or radical | Not a quadratic equation in standard polynomial form |
+| After Simplification                                      | Type                                                 |
+| --------------------------------------------------------- | ---------------------------------------------------- |
+| Highest power is `2` and coefficient of `x^2` is non-zero | Quadratic                                            |
+| Highest power is `1`                                      | Linear                                               |
+| Highest power is `3`                                      | Cubic                                                |
+| Variable in denominator or radical                        | Not a quadratic equation in standard polynomial form |
 
 ## Factorisation Steps
 
-| Step | Action |
-|---|---|
-| 1 | Write equation as `ax^2 + bx + c = 0`. |
-| 2 | Split middle term. |
-| 3 | Factor by grouping. |
-| 4 | Set each factor equal to zero. |
-| 5 | Solve linear equations. |
-| 6 | Check context if word problem. |
+| Step | Action                                 |
+| ---- | -------------------------------------- |
+| 1    | Write equation as `ax^2 + bx + c = 0`. |
+| 2    | Split middle term.                     |
+| 3    | Factor by grouping.                    |
+| 4    | Set each factor equal to zero.         |
+| 5    | Solve linear equations.                |
+| 6    | Check context if word problem.         |
 
 ## Discriminant
 
-| `D = b^2 - 4ac` | Nature |
-|---|---|
-| `D > 0` | Two distinct real roots |
-| `D = 0` | Two equal real roots |
-| `D < 0` | No real roots |
+| `D = b^2 - 4ac` | Nature                  |
+| --------------- | ----------------------- |
+| `D > 0`         | Two distinct real roots |
+| `D = 0`         | Two equal real roots    |
+| `D < 0`         | No real roots           |
 
 ## Common Word Problem Models
 
-| Situation | Model |
-|---|---|
-| Rectangle area | `length x breadth = area` |
-| Consecutive integers | `x` and `x + 1` |
-| Ages after years | Present age plus years |
-| Train speed | `time = distance/speed` |
-| Right triangle | `base^2 + altitude^2 = hypotenuse^2` |
+| Situation            | Model                                |
+| -------------------- | ------------------------------------ |
+| Rectangle area       | `length x breadth = area`            |
+| Consecutive integers | `x` and `x + 1`                      |
+| Ages after years     | Present age plus years               |
+| Train speed          | `time = distance/speed`              |
+| Right triangle       | `base^2 + altitude^2 = hypotenuse^2` |
 
 ---
 
@@ -1880,14 +1881,14 @@ Memorise:
 
 Practise:
 
-| Skill | Practice Method |
-|---|---|
-| Checking quadratic | Expand, simplify, and inspect degree. |
-| Factorisation | Split middle term and group. |
-| Word problems | Define variable and write relation carefully. |
-| Discriminant | Identify `a`, `b`, `c` and compute `D`. |
-| Quadratic formula | Use when factorisation is not quick. |
-| Context checking | Reject negative ages, lengths, speeds, and quantities. |
+| Skill              | Practice Method                                        |
+| ------------------ | ------------------------------------------------------ |
+| Checking quadratic | Expand, simplify, and inspect degree.                  |
+| Factorisation      | Split middle term and group.                           |
+| Word problems      | Define variable and write relation carefully.          |
+| Discriminant       | Identify `a`, `b`, `c` and compute `D`.                |
+| Quadratic formula  | Use when factorisation is not quick.                   |
+| Context checking   | Reject negative ages, lengths, speeds, and quantities. |
 
 ## One-Page Chapter Summary
 

@@ -1,4 +1,5 @@
 # Chapter 6: Application of Derivatives
+
 ### NCERT Class 12 - Maths Part 1
 
 ## Chapter at a Glance
@@ -24,36 +25,36 @@ By the end of this chapter, learners should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Rate of change | Derivative of one quantity with respect to another. |
-| Related rates | Problems where multiple changing quantities are connected by an equation. |
-| Marginal cost | Instantaneous rate of change of cost with respect to output. |
-| Marginal revenue | Instantaneous rate of change of revenue with respect to output. |
-| Increasing function | Function whose values rise as input increases. |
-| Decreasing function | Function whose values fall as input increases. |
-| Critical point | Point where `f'(x) = 0` or derivative does not exist. |
-| Local maximum | Value greater than nearby values. |
-| Local minimum | Value less than nearby values. |
-| Absolute maximum | Greatest value on the whole given domain or interval. |
-| Absolute minimum | Smallest value on the whole given domain or interval. |
+| Term                | Meaning                                                                   |
+| ------------------- | ------------------------------------------------------------------------- |
+| Rate of change      | Derivative of one quantity with respect to another.                       |
+| Related rates       | Problems where multiple changing quantities are connected by an equation. |
+| Marginal cost       | Instantaneous rate of change of cost with respect to output.              |
+| Marginal revenue    | Instantaneous rate of change of revenue with respect to output.           |
+| Increasing function | Function whose values rise as input increases.                            |
+| Decreasing function | Function whose values fall as input increases.                            |
+| Critical point      | Point where `f'(x) = 0` or derivative does not exist.                     |
+| Local maximum       | Value greater than nearby values.                                         |
+| Local minimum       | Value less than nearby values.                                            |
+| Absolute maximum    | Greatest value on the whole given domain or interval.                     |
+| Absolute minimum    | Smallest value on the whole given domain or interval.                     |
 
 ## Quick Formula Map
 
-| Concept | Formula or Test |
-|---|---|
-| Rate of change of `y` with respect to `x` | `dy/dx` |
-| Related rates through time | `dy/dx = (dy/dt)/(dx/dt)` |
-| Area of circle | `A = pi r^2` |
-| Circumference of circle | `C = 2 pi r` |
-| Volume of sphere | `V = (4/3) pi r^3` |
-| Surface area of sphere | `S = 4 pi r^2` |
-| Volume of cube | `V = x^3` |
-| Surface area of cube | `S = 6x^2` |
-| Increasing test | `f'(x) > 0` on an interval |
-| Decreasing test | `f'(x) < 0` on an interval |
-| Local maximum test | `f'` changes from positive to negative |
-| Local minimum test | `f'` changes from negative to positive |
+| Concept                                   | Formula or Test                        |
+| ----------------------------------------- | -------------------------------------- |
+| Rate of change of `y` with respect to `x` | `dy/dx`                                |
+| Related rates through time                | `dy/dx = (dy/dt)/(dx/dt)`              |
+| Area of circle                            | `A = pi r^2`                           |
+| Circumference of circle                   | `C = 2 pi r`                           |
+| Volume of sphere                          | `V = (4/3) pi r^3`                     |
+| Surface area of sphere                    | `S = 4 pi r^2`                         |
+| Volume of cube                            | `V = x^3`                              |
+| Surface area of cube                      | `S = 6x^2`                             |
+| Increasing test                           | `f'(x) > 0` on an interval             |
+| Decreasing test                           | `f'(x) < 0` on an interval             |
+| Local maximum test                        | `f'` changes from positive to negative |
+| Local minimum test                        | `f'` changes from negative to positive |
 
 # Unit 6A: Derivative as Rate of Change
 
@@ -506,16 +507,16 @@ Write in this order:
 
 # Unit 6R: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Substituting changing values before differentiating | Differentiate first, then substitute instant values. |
-| Forgetting negative sign for decreasing quantity | If a quantity decreases, its rate is negative. |
-| Confusing `dy/dx` with `dy/dt` | Use chain rule carefully in related rates. |
-| Saying `f'(x) = 0` always means maximum or minimum | It gives only a critical point candidate. |
-| Ignoring intervals where derivative is undefined | Such points can also be critical. |
-| Forgetting endpoints on closed intervals | Absolute extrema require endpoint comparison. |
-| Giving local maximum when absolute maximum is asked | Local and absolute extrema are different. |
-| Ignoring practical domain in word problems | Lengths, areas, and volumes must satisfy physical constraints. |
+| Mistake                                             | Correction                                                     |
+| --------------------------------------------------- | -------------------------------------------------------------- |
+| Substituting changing values before differentiating | Differentiate first, then substitute instant values.           |
+| Forgetting negative sign for decreasing quantity    | If a quantity decreases, its rate is negative.                 |
+| Confusing `dy/dx` with `dy/dt`                      | Use chain rule carefully in related rates.                     |
+| Saying `f'(x) = 0` always means maximum or minimum  | It gives only a critical point candidate.                      |
+| Ignoring intervals where derivative is undefined    | Such points can also be critical.                              |
+| Forgetting endpoints on closed intervals            | Absolute extrema require endpoint comparison.                  |
+| Giving local maximum when absolute maximum is asked | Local and absolute extrema are different.                      |
+| Ignoring practical domain in word problems          | Lengths, areas, and volumes must satisfy physical constraints. |
 
 ## Practice Set
 

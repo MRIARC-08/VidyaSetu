@@ -1,35 +1,36 @@
 # Chapter 4: Globalisation and the Indian Economy
+
 ### NCERT Class 10 - Social Economics
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 10 |
-| **Subject** | Social Economics |
-| **Chapter** | 4 |
-| **Textbook Pages** | 54-71 |
-| **Core Theme** | Globalisation connects countries through trade, investment, technology, and MNC-led production, but its benefits and burdens are unevenly distributed. |
-| **Main Skills** | Explaining MNCs, foreign trade, market integration, liberalisation, WTO, impact of globalisation, worker insecurity, and fair globalisation. |
+| Detail             | Learner-Friendly Information                                                                                                                           |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Class**          | 10                                                                                                                                                     |
+| **Subject**        | Social Economics                                                                                                                                       |
+| **Chapter**        | 4                                                                                                                                                      |
+| **Textbook Pages** | 54-71                                                                                                                                                  |
+| **Core Theme**     | Globalisation connects countries through trade, investment, technology, and MNC-led production, but its benefits and burdens are unevenly distributed. |
+| **Main Skills**    | Explaining MNCs, foreign trade, market integration, liberalisation, WTO, impact of globalisation, worker insecurity, and fair globalisation.           |
 
 ---
 
 ## Section Structure
 
-| Unit | Topic | Main Learning Focus |
-|---|---|---|
-| **4A** | Meaning of Globalisation | Integration of countries through trade, investment, technology, and markets. |
-| **4B** | Production Across Countries | How MNCs spread production globally to reduce cost and increase profit. |
-| **4C** | Interlinking Production | Partnerships, buying local firms, outsourcing, and control over small producers. |
-| **4D** | Foreign Trade and Markets | How trade connects markets and affects buyers and producers. |
-| **4E** | Factors Enabling Globalisation | Technology, transport, communication, liberalisation, and WTO. |
-| **4F** | Liberalisation and WTO | Removal of trade barriers and international pressure for free trade. |
-| **4G** | Impact in India | Benefits for consumers and large firms; pressure on small producers and workers. |
-| **4H** | Labour and Competition | Flexible labour laws, temporary work, low wages, and uncertain employment. |
-| **4I** | Fair Globalisation | Government, workers, people, and developing countries shaping fairer rules. |
-| **4J** | Answer Writing | How to build balanced answers using examples and consequences. |
+| Unit   | Topic                          | Main Learning Focus                                                              |
+| ------ | ------------------------------ | -------------------------------------------------------------------------------- |
+| **4A** | Meaning of Globalisation       | Integration of countries through trade, investment, technology, and markets.     |
+| **4B** | Production Across Countries    | How MNCs spread production globally to reduce cost and increase profit.          |
+| **4C** | Interlinking Production        | Partnerships, buying local firms, outsourcing, and control over small producers. |
+| **4D** | Foreign Trade and Markets      | How trade connects markets and affects buyers and producers.                     |
+| **4E** | Factors Enabling Globalisation | Technology, transport, communication, liberalisation, and WTO.                   |
+| **4F** | Liberalisation and WTO         | Removal of trade barriers and international pressure for free trade.             |
+| **4G** | Impact in India                | Benefits for consumers and large firms; pressure on small producers and workers. |
+| **4H** | Labour and Competition         | Flexible labour laws, temporary work, low wages, and uncertain employment.       |
+| **4I** | Fair Globalisation             | Government, workers, people, and developing countries shaping fairer rules.      |
+| **4J** | Answer Writing                 | How to build balanced answers using examples and consequences.                   |
 
 ---
 
@@ -37,35 +38,35 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Define globalisation** | Explain it as rapid integration of countries through trade, investment, production, services, and technology. |
-| **Explain MNCs** | Describe how multinational corporations organise production across countries. |
-| **Use examples** | Use Ford Motors, Cargill, Chinese toys, Ravi's capacitor unit, SEZs, and garment workers as evidence. |
-| **Explain trade** | Show how foreign trade expands choice, connects markets, and increases competition. |
-| **Explain liberalisation** | Describe removal of trade and investment barriers after 1991. |
-| **Explain WTO** | Discuss WTO's role and why free trade may not be fair trade. |
-| **Evaluate impact** | Identify who benefited and who suffered from globalisation. |
-| **Discuss workers** | Explain flexible employment, temporary work, low wages, and loss of security. |
-| **Propose fair globalisation** | Explain how government and people can make globalisation more just. |
+| Outcome                        | You Should Be Able To...                                                                                      |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------- |
+| **Define globalisation**       | Explain it as rapid integration of countries through trade, investment, production, services, and technology. |
+| **Explain MNCs**               | Describe how multinational corporations organise production across countries.                                 |
+| **Use examples**               | Use Ford Motors, Cargill, Chinese toys, Ravi's capacitor unit, SEZs, and garment workers as evidence.         |
+| **Explain trade**              | Show how foreign trade expands choice, connects markets, and increases competition.                           |
+| **Explain liberalisation**     | Describe removal of trade and investment barriers after 1991.                                                 |
+| **Explain WTO**                | Discuss WTO's role and why free trade may not be fair trade.                                                  |
+| **Evaluate impact**            | Identify who benefited and who suffered from globalisation.                                                   |
+| **Discuss workers**            | Explain flexible employment, temporary work, low wages, and loss of security.                                 |
+| **Propose fair globalisation** | Explain how government and people can make globalisation more just.                                           |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Globalisation** | Rapid integration or interconnection between countries through trade, investment, technology, services, and movement of goods. |
-| **Multinational Corporation (MNC)** | A company that owns or controls production in more than one country. |
-| **Foreign investment** | Investment made by an MNC or foreign company in another country to buy assets or set up production. |
-| **Foreign trade** | Exchange of goods and services between countries. |
-| **Integration of markets** | Linking of markets across countries so producers and consumers in different countries compete and exchange goods. |
-| **Trade barrier** | Government restriction on trade, such as tax on imports or quota on quantity imported. |
-| **Liberalisation** | Removing or reducing government restrictions on trade and investment. |
-| **World Trade Organization (WTO)** | International organisation that sets and supervises rules for global trade. |
-| **Special Economic Zone (SEZ)** | Industrial zone with world-class facilities and tax concessions to attract investment. |
-| **Flexible labour laws** | Policies allowing firms to hire workers temporarily or adjust labour according to business needs. |
-| **Fair globalisation** | Globalisation that creates opportunities for all and shares benefits more equally. |
+| Term                                | Meaning                                                                                                                        |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Globalisation**                   | Rapid integration or interconnection between countries through trade, investment, technology, services, and movement of goods. |
+| **Multinational Corporation (MNC)** | A company that owns or controls production in more than one country.                                                           |
+| **Foreign investment**              | Investment made by an MNC or foreign company in another country to buy assets or set up production.                            |
+| **Foreign trade**                   | Exchange of goods and services between countries.                                                                              |
+| **Integration of markets**          | Linking of markets across countries so producers and consumers in different countries compete and exchange goods.              |
+| **Trade barrier**                   | Government restriction on trade, such as tax on imports or quota on quantity imported.                                         |
+| **Liberalisation**                  | Removing or reducing government restrictions on trade and investment.                                                          |
+| **World Trade Organization (WTO)**  | International organisation that sets and supervises rules for global trade.                                                    |
+| **Special Economic Zone (SEZ)**     | Industrial zone with world-class facilities and tax concessions to attract investment.                                         |
+| **Flexible labour laws**            | Policies allowing firms to hire workers temporarily or adjust labour according to business needs.                              |
+| **Fair globalisation**              | Globalisation that creates opportunities for all and shares benefits more equally.                                             |
 
 ---
 
@@ -103,13 +104,13 @@ This connection happens through:
 
 ## Everyday Signs
 
-| Everyday Example | What It Shows |
-|---|---|
-| Many foreign car brands in India | Global companies selling in Indian markets. |
-| Mobile phones with parts from different countries | Production spread across countries. |
-| Online services from India for foreign companies | Services can be traded globally. |
-| Imported toys, electronics, clothes, and food products | Markets are more open and connected. |
-| Call centres in India serving foreign customers | Technology connects work across borders. |
+| Everyday Example                                       | What It Shows                               |
+| ------------------------------------------------------ | ------------------------------------------- |
+| Many foreign car brands in India                       | Global companies selling in Indian markets. |
+| Mobile phones with parts from different countries      | Production spread across countries.         |
+| Online services from India for foreign companies       | Services can be traded globally.            |
+| Imported toys, electronics, clothes, and food products | Markets are more open and connected.        |
+| Call centres in India serving foreign customers        | Technology connects work across borders.    |
 
 ## Simple Definition
 
@@ -141,13 +142,13 @@ An MNC sets up offices or factories where it can get:
 
 ## Why MNCs Spread Production
 
-| Reason | Explanation |
-|---|---|
-| **Lower cost** | Labour and other resources may be cheaper in some countries. |
-| **Access to markets** | Producing near customers reduces transport cost and increases sales. |
-| **Skilled workforce** | Countries like India provide engineers, IT workers, and English-speaking service workers. |
-| **Government support** | Tax benefits, SEZs, and flexible labour laws attract foreign companies. |
-| **Profit** | Lower cost and wider markets increase profits. |
+| Reason                 | Explanation                                                                               |
+| ---------------------- | ----------------------------------------------------------------------------------------- |
+| **Lower cost**         | Labour and other resources may be cheaper in some countries.                              |
+| **Access to markets**  | Producing near customers reduces transport cost and increases sales.                      |
+| **Skilled workforce**  | Countries like India provide engineers, IT workers, and English-speaking service workers. |
+| **Government support** | Tax benefits, SEZs, and flexible labour laws attract foreign companies.                   |
+| **Profit**             | Lower cost and wider markets increase profits.                                            |
 
 ## Global Production Example
 
@@ -230,12 +231,12 @@ It allows producers to sell beyond domestic markets and buyers to access goods p
 
 ## Basic Function of Foreign Trade
 
-| For Producers | For Consumers |
-|---|---|
-| Access to larger markets. | More choice of goods. |
-| Opportunity to export. | Often lower prices. |
-| Competition with foreign producers. | Better quality and new designs. |
-| Possibility of business expansion. | Access to products not made locally. |
+| For Producers                       | For Consumers                        |
+| ----------------------------------- | ------------------------------------ |
+| Access to larger markets.           | More choice of goods.                |
+| Opportunity to export.              | Often lower prices.                  |
+| Competition with foreign producers. | Better quality and new designs.      |
+| Possibility of business expansion.  | Access to products not made locally. |
 
 ## Chinese Toys Example
 
@@ -245,12 +246,12 @@ Because Chinese toys are cheaper and have new designs, many buyers prefer them. 
 
 ## Effects of Foreign Trade in the Toy Example
 
-| Group | Effect |
-|---|---|
-| Indian consumers | More choice and lower prices. |
-| Chinese producers | Bigger market and more business. |
-| Indian toy producers | Losses due to reduced sales. |
-| Indian toy workers | Possible job loss if local units close. |
+| Group                | Effect                                  |
+| -------------------- | --------------------------------------- |
+| Indian consumers     | More choice and lower prices.           |
+| Chinese producers    | Bigger market and more business.        |
+| Indian toy producers | Losses due to reduced sales.            |
+| Indian toy workers   | Possible job loss if local units close. |
 
 ## Integration of Markets
 
@@ -386,13 +387,13 @@ Free trade is not always fair trade. Fair trade requires equal rules, protection
 
 Globalisation has benefited some groups.
 
-| Group | Benefit |
-|---|---|
-| Well-off urban consumers | More choice, better quality, lower prices for many goods. |
-| MNCs | More markets, lower cost, higher profits. |
-| Large Indian companies | New technology, collaborations, global expansion. |
-| Skilled professionals | More jobs in IT, banking, engineering, services, and outsourcing. |
-| Local suppliers to MNCs | More orders and business opportunities. |
+| Group                    | Benefit                                                           |
+| ------------------------ | ----------------------------------------------------------------- |
+| Well-off urban consumers | More choice, better quality, lower prices for many goods.         |
+| MNCs                     | More markets, lower cost, higher profits.                         |
+| Large Indian companies   | New technology, collaborations, global expansion.                 |
+| Skilled professionals    | More jobs in IT, banking, engineering, services, and outsourcing. |
+| Local suppliers to MNCs  | More orders and business opportunities.                           |
 
 ## Examples of Indian Companies Becoming Global
 
@@ -421,12 +422,12 @@ India gained opportunities in:
 
 Globalisation has not benefited everyone.
 
-| Group | Problem |
-|---|---|
-| Small producers | Competition from cheaper imports and MNC brands. |
-| Workers | Temporary jobs, long hours, low wages, insecurity. |
-| Informal units | Difficulty competing with large firms. |
-| Local industries | Some shut down due to import competition. |
+| Group                           | Problem                                                |
+| ------------------------------- | ------------------------------------------------------ |
+| Small producers                 | Competition from cheaper imports and MNC brands.       |
+| Workers                         | Temporary jobs, long hours, low wages, insecurity.     |
+| Informal units                  | Difficulty competing with large firms.                 |
+| Local industries                | Some shut down due to import competition.              |
 | Farmers in developing countries | May be hurt by subsidised imports from rich countries. |
 
 ---
@@ -490,15 +491,15 @@ Fair globalisation means globalisation that:
 
 Government can make globalisation fair by:
 
-| Action | Purpose |
-|---|---|
-| Enforce labour laws | Protect workers' wages, safety, and rights. |
-| Support small producers | Help with credit, technology, marketing, and infrastructure. |
-| Use trade barriers when necessary | Protect vulnerable sectors temporarily. |
-| Negotiate at WTO | Demand fairer rules from developed countries. |
-| Align with developing countries | Strengthen bargaining power. |
-| Invest in education and skills | Help workers access better jobs. |
-| Regulate MNCs | Prevent exploitation and environmental damage. |
+| Action                            | Purpose                                                      |
+| --------------------------------- | ------------------------------------------------------------ |
+| Enforce labour laws               | Protect workers' wages, safety, and rights.                  |
+| Support small producers           | Help with credit, technology, marketing, and infrastructure. |
+| Use trade barriers when necessary | Protect vulnerable sectors temporarily.                      |
+| Negotiate at WTO                  | Demand fairer rules from developed countries.                |
+| Align with developing countries   | Strengthen bargaining power.                                 |
+| Invest in education and skills    | Help workers access better jobs.                             |
+| Regulate MNCs                     | Prevent exploitation and environmental damage.               |
 
 ## Role of People
 
@@ -532,18 +533,18 @@ Use this structure:
 
 ## High-Value Examples
 
-| Example | Use It To Explain |
-|---|---|
-| Ford Motors in Chennai | MNC investment and production linkage. |
-| Cargill buying Parakh Foods | MNCs buying local companies. |
-| Garments/footwear/sports goods | MNCs placing orders with small producers. |
-| Chinese toys in India | Foreign trade and market integration. |
-| Containers and internet | Technology enabling globalisation. |
-| 1991 liberalisation | Removal of trade and investment barriers. |
-| WTO agricultural debate | Free trade vs fair trade. |
-| Ravi's capacitor unit | Small producers harmed by import competition. |
-| Sushila garment worker | Workers facing insecure employment. |
-| SEZs | Government steps to attract foreign investment. |
+| Example                        | Use It To Explain                               |
+| ------------------------------ | ----------------------------------------------- |
+| Ford Motors in Chennai         | MNC investment and production linkage.          |
+| Cargill buying Parakh Foods    | MNCs buying local companies.                    |
+| Garments/footwear/sports goods | MNCs placing orders with small producers.       |
+| Chinese toys in India          | Foreign trade and market integration.           |
+| Containers and internet        | Technology enabling globalisation.              |
+| 1991 liberalisation            | Removal of trade and investment barriers.       |
+| WTO agricultural debate        | Free trade vs fair trade.                       |
+| Ravi's capacitor unit          | Small producers harmed by import competition.   |
+| Sushila garment worker         | Workers facing insecure employment.             |
+| SEZs                           | Government steps to attract foreign investment. |
 
 ---
 
@@ -570,10 +571,10 @@ MNCs control production by:
 
 ### 4. Difference between foreign trade and foreign investment
 
-| Foreign Trade | Foreign Investment |
-|---|---|
+| Foreign Trade                                       | Foreign Investment                                                                      |
+| --------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Buying and selling goods/services across countries. | Money spent by foreign companies to buy assets or set up production in another country. |
-| Example: Chinese toys sold in India. | Example: Ford setting up a plant near Chennai. |
+| Example: Chinese toys sold in India.                | Example: Ford setting up a plant near Chennai.                                          |
 
 ### 5. How does foreign trade integrate markets?
 
@@ -611,34 +612,34 @@ Government should protect workers, support small producers, enforce labour laws,
 
 ## Quick Revision
 
-| Question | One-Line Recall |
-|---|---|
-| What is globalisation? | Rapid integration of countries through trade, investment, technology, and production. |
-| What is an MNC? | Company owning or controlling production in more than one country. |
-| Why do MNCs spread production? | Lower cost, larger markets, skilled labour, and higher profit. |
-| What is foreign investment? | MNC spending on assets or production in another country. |
-| What is foreign trade? | Exchange of goods and services between countries. |
-| What is market integration? | Connecting markets through trade and competition. |
-| What is liberalisation? | Removing trade and investment restrictions. |
-| What is WTO? | International body making and supervising trade rules. |
-| Who benefits from globalisation? | Well-off consumers, MNCs, large firms, skilled workers. |
-| Who may suffer? | Small producers and insecure workers. |
-| What is fair globalisation? | Globalisation that shares benefits and protects the vulnerable. |
+| Question                         | One-Line Recall                                                                       |
+| -------------------------------- | ------------------------------------------------------------------------------------- |
+| What is globalisation?           | Rapid integration of countries through trade, investment, technology, and production. |
+| What is an MNC?                  | Company owning or controlling production in more than one country.                    |
+| Why do MNCs spread production?   | Lower cost, larger markets, skilled labour, and higher profit.                        |
+| What is foreign investment?      | MNC spending on assets or production in another country.                              |
+| What is foreign trade?           | Exchange of goods and services between countries.                                     |
+| What is market integration?      | Connecting markets through trade and competition.                                     |
+| What is liberalisation?          | Removing trade and investment restrictions.                                           |
+| What is WTO?                     | International body making and supervising trade rules.                                |
+| Who benefits from globalisation? | Well-off consumers, MNCs, large firms, skilled workers.                               |
+| Who may suffer?                  | Small producers and insecure workers.                                                 |
+| What is fair globalisation?      | Globalisation that shares benefits and protects the vulnerable.                       |
 
 ---
 
 ## Practice Questions
 
-| Question | Strong Answer Shape |
-|---|---|
-| How do MNCs spread production globally? | Define MNC -> reasons -> methods -> example -> result. |
-| How does foreign trade integrate markets? | Define trade -> movement of goods -> Chinese toys example -> effect on buyers/producers. |
-| Explain factors that enabled globalisation. | Technology -> transport -> ICT -> liberalisation -> WTO. |
-| What is liberalisation? | Meaning -> pre-1991 barriers -> removal -> effects. |
-| Discuss WTO and fair trade. | WTO aim -> developed country protection -> developing country concern -> conclusion. |
-| Explain uneven impact of globalisation. | Benefits -> harmed groups -> examples -> fair globalisation. |
-| How are workers affected by globalisation? | Competition -> cost cutting -> temporary jobs -> Sushila example. |
-| How can government make globalisation fair? | Labour laws -> support small producers -> WTO negotiation -> public action. |
+| Question                                    | Strong Answer Shape                                                                      |
+| ------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| How do MNCs spread production globally?     | Define MNC -> reasons -> methods -> example -> result.                                   |
+| How does foreign trade integrate markets?   | Define trade -> movement of goods -> Chinese toys example -> effect on buyers/producers. |
+| Explain factors that enabled globalisation. | Technology -> transport -> ICT -> liberalisation -> WTO.                                 |
+| What is liberalisation?                     | Meaning -> pre-1991 barriers -> removal -> effects.                                      |
+| Discuss WTO and fair trade.                 | WTO aim -> developed country protection -> developing country concern -> conclusion.     |
+| Explain uneven impact of globalisation.     | Benefits -> harmed groups -> examples -> fair globalisation.                             |
+| How are workers affected by globalisation?  | Competition -> cost cutting -> temporary jobs -> Sushila example.                        |
+| How can government make globalisation fair? | Labour laws -> support small producers -> WTO negotiation -> public action.              |
 
 ---
 

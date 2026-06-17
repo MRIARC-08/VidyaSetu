@@ -1,45 +1,46 @@
 # Chapter 11: The Proposal
+
 ### NCERT Class 10 - English Firstflight
 
 ---
 
 ## Chapter At A Glance
 
-| Detail | Learner-Friendly Information |
-| --- | --- |
-| Class | 10 |
-| Subject | English Firstflight |
-| Chapter | 11 - The Proposal |
-| Source File | data/class_10/english_firstflight/chapter_11.md |
+| Detail       | Learner-Friendly Information                                                                 |
+| ------------ | -------------------------------------------------------------------------------------------- |
+| Class        | 10                                                                                           |
+| Subject      | English Firstflight                                                                          |
+| Chapter      | 11 - The Proposal                                                                            |
+| Source File  | data/class_10/english_firstflight/chapter_11.md                                              |
 | Subject Lens | context -> plot/situation -> character voice -> theme -> language feature -> reader response |
-| Best Use | Use this as a detailed learner guide: read, mark, answer, revise, and test. |
+| Best Use     | Use this as a detailed learner guide: read, mark, answer, revise, and test.                  |
 
 ## Learning Roadmap
 
-| Step | Learner Action | Why It Matters |
-| --- | --- | --- |
-| 1 | Read once for the literal story and again for tone, conflict, and theme. | Turns raw textbook material into answer-ready understanding. |
-| 2 | Maintain a character evidence table with quotations or paraphrased moments. | Turns raw textbook material into answer-ready understanding. |
-| 3 | Track difficult expressions and infer meaning from context. | Turns raw textbook material into answer-ready understanding. |
-| 4 | For long answers, connect textual evidence to the central theme. | Turns raw textbook material into answer-ready understanding. |
+| Step | Learner Action                                                              | Why It Matters                                               |
+| ---- | --------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| 1    | Read once for the literal story and again for tone, conflict, and theme.    | Turns raw textbook material into answer-ready understanding. |
+| 2    | Maintain a character evidence table with quotations or paraphrased moments. | Turns raw textbook material into answer-ready understanding. |
+| 3    | Track difficult expressions and infer meaning from context.                 | Turns raw textbook material into answer-ready understanding. |
+| 4    | For long answers, connect textual evidence to the central theme.            | Turns raw textbook material into answer-ready understanding. |
 
 ## Learning Outcomes
 
-| # | After Studying, You Should Be Able To |
-| --- | --- |
-| 1 | Explain the core idea of **The Proposal** in clear learner language. |
-| 2 | Use chapter evidence, examples, data, formulas, characters, events, or concepts accurately. |
-| 3 | Separate definitions, explanations, examples, and conclusions while answering. |
-| 4 | Prepare short-answer and long-answer responses without copying disconnected textbook lines. |
-| 5 | Revise the chapter through keywords, section summaries, and practice prompts. |
+| #   | After Studying, You Should Be Able To                                                       |
+| --- | ------------------------------------------------------------------------------------------- |
+| 1   | Explain the core idea of **The Proposal** in clear learner language.                        |
+| 2   | Use chapter evidence, examples, data, formulas, characters, events, or concepts accurately. |
+| 3   | Separate definitions, explanations, examples, and conclusions while answering.              |
+| 4   | Prepare short-answer and long-answer responses without copying disconnected textbook lines. |
+| 5   | Revise the chapter through keywords, section summaries, and practice prompts.               |
 
 ## Section Map
 
-| Section | Learner Focus |
-| --- | --- |
-| Activity | Main idea, supporting details, examples, and answer value. |
+| Section                                                   | Learner Focus                                              |
+| --------------------------------------------------------- | ---------------------------------------------------------- |
+| Activity                                                  | Main idea, supporting details, examples, and answer value. |
 | Do you think Indian and Russian weddings have any customs | Main idea, supporting details, examples, and answer value. |
-| Notes NotesNotesNotesNotes | Main idea, supporting details, examples, and answer value. |
+| Notes NotesNotesNotesNotes                                | Main idea, supporting details, examples, and answer value. |
 
 ## High-Yield Chapter Summary
 
@@ -60,28 +61,28 @@
 
 ## Key Terms, Concepts, And Recall Anchors
 
-| Term | Learner Meaning |
-| --- | --- |
-| which | that Oxen Meadows were ours |
-| and an overshot always | the dog is a bad hunter |
-| This | indirect speech or reported speech |
+| Term                   | Learner Meaning                    |
+| ---------------------- | ---------------------------------- |
+| which                  | that Oxen Meadows were ours        |
+| and an overshot always | the dog is a bad hunter            |
+| This                   | indirect speech or reported speech |
 
-| Anchor Word | What To Do With It |
-| --- | --- |
-| Lomov | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| What | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Chubukov | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Omov | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Meadows | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Natalya | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Speech | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Hubukov | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Stepanovna | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Squeezer | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Heart | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Guess | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Know | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Mine | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Anchor Word | What To Do With It                                                                                    |
+| ----------- | ----------------------------------------------------------------------------------------------------- |
+| Lomov       | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| What        | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Chubukov    | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Omov        | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Meadows     | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Natalya     | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Speech      | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Hubukov     | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Stepanovna  | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Squeezer    | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Heart       | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Guess       | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Know        | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Mine        | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
 
 ### Literature Reading Anchors
 
@@ -91,11 +92,11 @@
 
 ## Formula, Evidence, Data, And Example Board
 
-| Source Point | How Learners Should Use It |
-| --- | --- |
+| Source Point                                                                                                                                                                         | How Learners Should Use It                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------- |
 | What are you shouting for? **Q15.** Meadows, we or he? **Q16.** LOMOV: But, please, Stepan Stepanovitch, how can they be yours? **Q17.** somebody else’s property? **Q18.** HUBUKOV: | Use this as supporting evidence in short or long answers. |
 | Why? **Q29.** NAT AL YA: Have you measured? **Q30.** to say he isn’t? **Q31.** LOMOV: Why shout madam? **Q32.** HUBUKOV: What’s the matter now? **Q33.** thing: is your Squeezer ove | Use this as supporting evidence in short or long answers. |
-| T ell me, why are you got up like that? **Q12.** AT AL YA: What’s the matter? [pause ] W ell? **Q13.** But are they yours? **Q14.** HUBUKOV: What’s the matter? | Use this as supporting evidence in short or long answers. |
+| T ell me, why are you got up like that? **Q12.** AT AL YA: What’s the matter? [pause ] W ell? **Q13.** But are they yours? **Q14.** HUBUKOV: What’s the matter?                      | Use this as supporting evidence in short or long answers. |
 
 ## Deep Learner Walkthrough
 
@@ -175,7 +176,7 @@ L OMOV: W ell, you see, it’s like this. [ T akes his ar m ] I’ve come to you
 - Why didn’t you tell me so before? **Q25.** CHUBUKOV: Bring whom here? **Q26.** AT AL YA: [ Natalya Stepanovna wails.] What have they done to me? **Q27.** him started. [ aloud] Are you going to start shooting soon? **Q28.** AT AL YA: What a pity!
 - And how may you be getting on? **Q5.** anywhere, my treasure? **Q6.** [aloud] What is it, my beauty? **Q7.** HUBUKOV: Oh, don’t go round and r ound it, darling!
 - What’s the matter? **Q38.** OMOV: I see stars... mist... where am I? **Q39.** LOMOV: [ getting up] Eh?
-- To whom? **Q40.** (iii) Can you now imagine what these characters will quarrel about next? **Q41.** by an older man as my darling or my treasure in an English play? **Q42.** benefits from anger? --- *Source: NCERT Class 10 — English Firstflight, Chapter 11.
+- To whom? **Q40.** (iii) Can you now imagine what these characters will quarrel about next? **Q41.** by an older man as my darling or my treasure in an English play? **Q42.** benefits from anger? --- \*Source: NCERT Class 10 — English Firstflight, Chapter 11.
 
 #### Clean Study Notes
 
@@ -189,7 +190,7 @@ What? **Q23.** AT AL YA: What proposal? **Q24.** NAT AL YA: To propose? Why didn
 
 Yes or no? **Q34.** OMOV: But isn’t my Guess better? Really, now? **Q35.** CHUBUKOV: [ teasing him ] I remember, too! What do you remember? **Q36.** horse! [To her father ] Papa, what’s the matter with him? **Q37.** CHUBUKOV: Oh!
 
-What’s the matter? **Q38.** OMOV: I see stars... mist... where am I? **Q39.** LOMOV: [ getting up] Eh? To whom? **Q40.** (iii) Can you now imagine what these characters will quarrel about next? **Q41.** by an older man as my darling or my treasure in an English play? **Q42.** benefits from anger? --- *Source: NCERT Class 10 — English Firstflight, Chapter 11.
+What’s the matter? **Q38.** OMOV: I see stars... mist... where am I? **Q39.** LOMOV: [ getting up] Eh? To whom? **Q40.** (iii) Can you now imagine what these characters will quarrel about next? **Q41.** by an older man as my darling or my treasure in an English play? **Q42.** benefits from anger? --- \*Source: NCERT Class 10 — English Firstflight, Chapter 11.
 
 #### How To Convert This Into An Answer
 
@@ -210,14 +211,14 @@ What’s the matter? **Q38.** OMOV: I see stars... mist... where am I? **Q39.** 
 
 ### Likely Question Bank
 
-| Question Type | Strong Answer Shape |
-| --- | --- |
-| Explain Activity. | Definition or context -> key points -> evidence/example -> significance. |
-| How does Activity develop the chapter's theme? | Situation -> character/speaker response -> language/detail -> theme. |
-| Explain Do you think Indian and Russian weddings have any customs. | Definition or context -> key points -> evidence/example -> significance. |
-| How does Do you think Indian and Russian weddings have any customs develop the chapter's theme? | Situation -> character/speaker response -> language/detail -> theme. |
-| Explain Notes NotesNotesNotesNotes. | Definition or context -> key points -> evidence/example -> significance. |
-| How does Notes NotesNotesNotesNotes develop the chapter's theme? | Situation -> character/speaker response -> language/detail -> theme. |
+| Question Type                                                                                   | Strong Answer Shape                                                      |
+| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| Explain Activity.                                                                               | Definition or context -> key points -> evidence/example -> significance. |
+| How does Activity develop the chapter's theme?                                                  | Situation -> character/speaker response -> language/detail -> theme.     |
+| Explain Do you think Indian and Russian weddings have any customs.                              | Definition or context -> key points -> evidence/example -> significance. |
+| How does Do you think Indian and Russian weddings have any customs develop the chapter's theme? | Situation -> character/speaker response -> language/detail -> theme.     |
+| Explain Notes NotesNotesNotesNotes.                                                             | Definition or context -> key points -> evidence/example -> significance. |
+| How does Notes NotesNotesNotesNotes develop the chapter's theme?                                | Situation -> character/speaker response -> language/detail -> theme.     |
 
 ### Common Mistakes To Avoid
 
@@ -243,12 +244,12 @@ What’s the matter? **Q38.** OMOV: I see stars... mist... where am I? **Q39.** 
 
 ## One-Page Quick Revision
 
-| Revision Item | What To Recall |
-| --- | --- |
-| Chapter | 11 — The Proposal |
-| Subject Lens | context -> plot/situation -> character voice -> theme -> language feature -> reader response |
-| Main Keywords | Lomov, What, Chubukov, Omov, Meadows, Natalya, Speech, Hubukov, Stepanovna, Squeezer |
-| Best First Step | Read the section titles, then explain each title aloud before revising details. |
+| Revision Item   | What To Recall                                                                                  |
+| --------------- | ----------------------------------------------------------------------------------------------- |
+| Chapter         | 11 — The Proposal                                                                               |
+| Subject Lens    | context -> plot/situation -> character voice -> theme -> language feature -> reader response    |
+| Main Keywords   | Lomov, What, Chubukov, Omov, Meadows, Natalya, Speech, Hubukov, Stepanovna, Squeezer            |
+| Best First Step | Read the section titles, then explain each title aloud before revising details.                 |
 | Best Final Step | Attempt the likely question bank and check whether every answer uses evidence from the chapter. |
 
 ---

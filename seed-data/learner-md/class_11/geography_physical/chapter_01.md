@@ -42,55 +42,55 @@ By the end of this chapter, you should be able to:
 
 ## Big Picture Map
 
-| Theme | Core Idea | Examples |
-| --- | --- | --- |
-| Meaning of geography | Description and explanation of the earth as human home | Geo + graphos |
-| Spatial variation | Features vary from place to place | Mountains, cities, crops, climate |
-| Areal differentiation | Study of regional differences | Different forests, settlements, industries |
-| Cause-effect | Geography explains why patterns exist | Cropping pattern and soil, climate, market |
-| Nature-human interaction | Humans adapt to and modify nature | Agriculture, settlements, technology |
-| Integrating discipline | Geography combines natural and social sciences | Climate plus farming plus economy |
-| Spatial synthesis | Geography integrates phenomena over space | Region, map, distribution |
-| Temporal synthesis | History integrates events over time | Historical sequence |
-| Branches | Geography has many fields | Physical, human, biogeography, regional |
-| Physical geography | Study of natural environment | Landforms, climate, water, soil, biosphere |
+| Theme                    | Core Idea                                              | Examples                                   |
+| ------------------------ | ------------------------------------------------------ | ------------------------------------------ |
+| Meaning of geography     | Description and explanation of the earth as human home | Geo + graphos                              |
+| Spatial variation        | Features vary from place to place                      | Mountains, cities, crops, climate          |
+| Areal differentiation    | Study of regional differences                          | Different forests, settlements, industries |
+| Cause-effect             | Geography explains why patterns exist                  | Cropping pattern and soil, climate, market |
+| Nature-human interaction | Humans adapt to and modify nature                      | Agriculture, settlements, technology       |
+| Integrating discipline   | Geography combines natural and social sciences         | Climate plus farming plus economy          |
+| Spatial synthesis        | Geography integrates phenomena over space              | Region, map, distribution                  |
+| Temporal synthesis       | History integrates events over time                    | Historical sequence                        |
+| Branches                 | Geography has many fields                              | Physical, human, biogeography, regional    |
+| Physical geography       | Study of natural environment                           | Landforms, climate, water, soil, biosphere |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Geography | Study of the earth's surface, spatial variation, and nature-human relationships. |
-| Geo | Greek root meaning earth. |
-| Graphos | Greek root meaning description. |
-| Eratosthenes | Greek scholar credited with coining the term geography. |
-| Spatial | Related to space, location, area, or distribution. |
-| Spatial attribute | A feature's location, distribution, pattern, or relationship in space. |
-| Areal differentiation | Study of how areas differ from one another. |
-| Spatial organisation | Arrangement of features and activities over space. |
-| Spatial integration | Linking of places through routes, networks, flows, and relationships. |
-| Nature-human interaction | Relationship between physical environment and human society. |
-| Adaptation | Human adjustment to natural conditions. |
-| Modification | Human alteration of the natural environment. |
-| Synthesis | Combining different facts or disciplines into an integrated understanding. |
-| Spatial synthesis | Integration of phenomena in their spatial setting; geography's major approach. |
-| Temporal synthesis | Integration of phenomena over time; history's major approach. |
-| Systematic geography | Study of one geographical phenomenon across the world. |
-| Regional geography | Study of all geographical phenomena within a particular region. |
-| Physical geography | Branch of geography studying natural environment. |
-| Human geography | Branch of geography studying human activities and their spatial patterns. |
-| Biogeography | Branch studying spatial patterns of plants, animals, ecosystems, and environment. |
-| Cartography | Science and art of map-making. |
-| GIS | Geographic Information System; tool for storing, analysing, and mapping spatial data. |
-| GPS | Global Positioning System; tool for finding exact locations. |
-| Remote sensing | Collecting information about the earth from satellites or aircraft. |
-| Lithosphere | Solid outer part of the earth, including landforms and rocks. |
-| Atmosphere | Layer of air around the earth. |
-| Hydrosphere | Water realm of the earth, including oceans, rivers, lakes, and groundwater. |
-| Biosphere | Realm of life on earth. |
-| Pedogenesis | Process of soil formation. |
-| Sustainable development | Development that uses resources without destroying future possibilities. |
+| Term                     | Meaning                                                                               |
+| ------------------------ | ------------------------------------------------------------------------------------- |
+| Geography                | Study of the earth's surface, spatial variation, and nature-human relationships.      |
+| Geo                      | Greek root meaning earth.                                                             |
+| Graphos                  | Greek root meaning description.                                                       |
+| Eratosthenes             | Greek scholar credited with coining the term geography.                               |
+| Spatial                  | Related to space, location, area, or distribution.                                    |
+| Spatial attribute        | A feature's location, distribution, pattern, or relationship in space.                |
+| Areal differentiation    | Study of how areas differ from one another.                                           |
+| Spatial organisation     | Arrangement of features and activities over space.                                    |
+| Spatial integration      | Linking of places through routes, networks, flows, and relationships.                 |
+| Nature-human interaction | Relationship between physical environment and human society.                          |
+| Adaptation               | Human adjustment to natural conditions.                                               |
+| Modification             | Human alteration of the natural environment.                                          |
+| Synthesis                | Combining different facts or disciplines into an integrated understanding.            |
+| Spatial synthesis        | Integration of phenomena in their spatial setting; geography's major approach.        |
+| Temporal synthesis       | Integration of phenomena over time; history's major approach.                         |
+| Systematic geography     | Study of one geographical phenomenon across the world.                                |
+| Regional geography       | Study of all geographical phenomena within a particular region.                       |
+| Physical geography       | Branch of geography studying natural environment.                                     |
+| Human geography          | Branch of geography studying human activities and their spatial patterns.             |
+| Biogeography             | Branch studying spatial patterns of plants, animals, ecosystems, and environment.     |
+| Cartography              | Science and art of map-making.                                                        |
+| GIS                      | Geographic Information System; tool for storing, analysing, and mapping spatial data. |
+| GPS                      | Global Positioning System; tool for finding exact locations.                          |
+| Remote sensing           | Collecting information about the earth from satellites or aircraft.                   |
+| Lithosphere              | Solid outer part of the earth, including landforms and rocks.                         |
+| Atmosphere               | Layer of air around the earth.                                                        |
+| Hydrosphere              | Water realm of the earth, including oceans, rivers, lakes, and groundwater.           |
+| Biosphere                | Realm of life on earth.                                                               |
+| Pedogenesis              | Process of soil formation.                                                            |
+| Sustainable development  | Development that uses resources without destroying future possibilities.              |
 
 ---
 
@@ -813,12 +813,12 @@ If studying the Deccan Plateau region, we examine:
 
 ## 11.3 Systematic vs Regional
 
-| Systematic Approach | Regional Approach |
-| --- | --- |
-| Studies one theme globally | Studies many themes in one region |
-| Identifies typologies and patterns | Searches unity in regional diversity |
-| Example: world climates | Example: climate, soil, farming, people of Rajasthan |
-| Associated with Humboldt | Associated with Ritter |
+| Systematic Approach                | Regional Approach                                    |
+| ---------------------------------- | ---------------------------------------------------- |
+| Studies one theme globally         | Studies many themes in one region                    |
+| Identifies typologies and patterns | Searches unity in regional diversity                 |
+| Example: world climates            | Example: climate, soil, farming, people of Rajasthan |
+| Associated with Humboldt           | Associated with Ritter                               |
 
 ---
 
@@ -1451,47 +1451,47 @@ It helps us use resources without destroying ecological balance.
 
 ## 25.1 Geography vs History
 
-| Geography | History |
-| --- | --- |
-| Studies spatial synthesis | Studies temporal synthesis |
-| Focuses on space, location, distribution | Focuses on time, sequence, events |
-| Explains where and why features vary | Explains when and how events happened |
-| Uses maps and spatial data | Uses timelines and historical records |
+| Geography                                | History                               |
+| ---------------------------------------- | ------------------------------------- |
+| Studies spatial synthesis                | Studies temporal synthesis            |
+| Focuses on space, location, distribution | Focuses on time, sequence, events     |
+| Explains where and why features vary     | Explains when and how events happened |
+| Uses maps and spatial data               | Uses timelines and historical records |
 
 ## 25.2 Physical Geography vs Human Geography
 
-| Physical Geography | Human Geography |
-| --- | --- |
-| Studies natural environment | Studies human activities |
+| Physical Geography              | Human Geography                          |
+| ------------------------------- | ---------------------------------------- |
+| Studies natural environment     | Studies human activities                 |
 | Landforms, climate, water, soil | Population, settlement, economy, culture |
-| Linked with natural sciences | Linked with social sciences |
-| Explains natural processes | Explains spatial organisation of society |
+| Linked with natural sciences    | Linked with social sciences              |
+| Explains natural processes      | Explains spatial organisation of society |
 
 ## 25.3 Systematic vs Regional Approach
 
-| Systematic Approach | Regional Approach |
-| --- | --- |
-| One theme across world | Many themes in one region |
-| General geography | Regional geography |
+| Systematic Approach           | Regional Approach          |
+| ----------------------------- | -------------------------- |
+| One theme across world        | Many themes in one region  |
+| General geography             | Regional geography         |
 | Identifies patterns and types | Studies unity in diversity |
-| Humboldt | Ritter |
+| Humboldt                      | Ritter                     |
 
 ## 25.4 What, Where, Why
 
-| Question | Purpose | Example |
-| --- | --- | --- |
-| What? | Identification | What feature is present? |
-| Where? | Location and distribution | Where is it found? |
-| Why? | Explanation | Why is it found there? |
+| Question | Purpose                   | Example                  |
+| -------- | ------------------------- | ------------------------ |
+| What?    | Identification            | What feature is present? |
+| Where?   | Location and distribution | Where is it found?       |
+| Why?     | Explanation               | Why is it found there?   |
 
 ## 25.5 Adaptation vs Modification
 
-| Adaptation | Modification |
-| --- | --- |
-| Adjusting to nature | Changing nature |
-| Wearing warm clothes in cold regions | Building dams and canals |
-| Terraced farming on slopes | Cutting roads through mountains |
-| Stilt houses in flood areas | Draining wetlands |
+| Adaptation                           | Modification                    |
+| ------------------------------------ | ------------------------------- |
+| Adjusting to nature                  | Changing nature                 |
+| Wearing warm clothes in cold regions | Building dams and canals        |
+| Terraced farming on slopes           | Cutting roads through mountains |
+| Stilt houses in flood areas          | Draining wetlands               |
 
 ---
 

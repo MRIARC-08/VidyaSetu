@@ -1,4 +1,5 @@
 # Chapter 5: Continuity and Differentiability
+
 ### NCERT Class 12 - Maths Part 1
 
 ## Chapter at a Glance
@@ -28,31 +29,31 @@ By the end of this chapter, learners should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Continuous at a point | Limit at the point equals the function value. |
-| Left-hand limit | Value approached as `x` approaches `a` from the left. |
-| Right-hand limit | Value approached as `x` approaches `a` from the right. |
-| Discontinuous | Not continuous at a point. |
-| Differentiable | Derivative exists at a point. |
-| Derivative | Instantaneous rate of change. |
-| Chain rule | Rule for differentiating composite functions. |
-| Implicit function | Relation where `y` is not explicitly written as a function of `x`. |
-| Logarithmic differentiation | Taking logarithm before differentiating. |
-| Parametric form | Variables expressed in terms of a third variable. |
-| Second order derivative | Derivative of the first derivative. |
+| Term                        | Meaning                                                            |
+| --------------------------- | ------------------------------------------------------------------ |
+| Continuous at a point       | Limit at the point equals the function value.                      |
+| Left-hand limit             | Value approached as `x` approaches `a` from the left.              |
+| Right-hand limit            | Value approached as `x` approaches `a` from the right.             |
+| Discontinuous               | Not continuous at a point.                                         |
+| Differentiable              | Derivative exists at a point.                                      |
+| Derivative                  | Instantaneous rate of change.                                      |
+| Chain rule                  | Rule for differentiating composite functions.                      |
+| Implicit function           | Relation where `y` is not explicitly written as a function of `x`. |
+| Logarithmic differentiation | Taking logarithm before differentiating.                           |
+| Parametric form             | Variables expressed in terms of a third variable.                  |
+| Second order derivative     | Derivative of the first derivative.                                |
 
 ## Quick Formula Map
 
-| Concept | Formula |
-|---|---|
-| Continuity at `a` | `lim x->a f(x) = f(a)` |
-| Derivative at `a` | `f'(a) = lim h->0 [f(a+h)-f(a)]/h` |
-| Product rule | `(uv)' = u'v + uv'` |
-| Quotient rule | `(u/v)' = (u'v - uv')/v^2` |
-| Chain rule | `d/dx f(g(x)) = f'(g(x))g'(x)` |
-| Parametric derivative | `dy/dx = (dy/dt)/(dx/dt)` |
-| Second derivative in parameter | `d2y/dx2 = [d/dt(dy/dx)]/(dx/dt)` |
+| Concept                        | Formula                            |
+| ------------------------------ | ---------------------------------- |
+| Continuity at `a`              | `lim x->a f(x) = f(a)`             |
+| Derivative at `a`              | `f'(a) = lim h->0 [f(a+h)-f(a)]/h` |
+| Product rule                   | `(uv)' = u'v + uv'`                |
+| Quotient rule                  | `(u/v)' = (u'v - uv')/v^2`         |
+| Chain rule                     | `d/dx f(g(x)) = f'(g(x))g'(x)`     |
+| Parametric derivative          | `dy/dx = (dy/dt)/(dx/dt)`          |
+| Second derivative in parameter | `d2y/dx2 = [d/dt(dy/dx)]/(dx/dt)`  |
 
 # Unit 5A: Continuity at a Point
 
@@ -299,14 +300,14 @@ So:
 
 ## Standard Formulas
 
-| Function | Derivative |
-|---|---|
-| `sin^-1 x` | `1/sqrt(1 - x^2)` |
-| `cos^-1 x` | `-1/sqrt(1 - x^2)` |
-| `tan^-1 x` | `1/(1 + x^2)` |
-| `cot^-1 x` | `-1/(1 + x^2)` |
-| `sec^-1 x` | `1/(|x| sqrt(x^2 - 1))` |
-| `cosec^-1 x` | `-1/(|x| sqrt(x^2 - 1))` |
+| Function     | Derivative         |
+| ------------ | ------------------ | --- | --------------- |
+| `sin^-1 x`   | `1/sqrt(1 - x^2)`  |
+| `cos^-1 x`   | `-1/sqrt(1 - x^2)` |
+| `tan^-1 x`   | `1/(1 + x^2)`      |
+| `cot^-1 x`   | `-1/(1 + x^2)`     |
+| `sec^-1 x`   | `1/(               | x   | sqrt(x^2 - 1))` |
+| `cosec^-1 x` | `-1/(              | x   | sqrt(x^2 - 1))` |
 
 ## Chain Rule Forms
 
@@ -328,21 +329,21 @@ Here `u = 3x`, so `u' = 3`.
 
 ## Exponential Functions
 
-| Function | Derivative |
-|---|---|
-| `e^x` | `e^x` |
-| `e^u` | `e^u u'` |
-| `a^x` | `a^x log a` |
-| `a^u` | `a^u log a * u'` |
+| Function | Derivative       |
+| -------- | ---------------- |
+| `e^x`    | `e^x`            |
+| `e^u`    | `e^u u'`         |
+| `a^x`    | `a^x log a`      |
+| `a^u`    | `a^u log a * u'` |
 
 Here `log` means natural logarithm unless another base is specified.
 
 ## Logarithmic Functions
 
-| Function | Derivative |
-|---|---|
-| `log x` | `1/x` |
-| `log u` | `u'/u` |
+| Function  | Derivative    |
+| --------- | ------------- |
+| `log x`   | `1/x`         |
+| `log u`   | `u'/u`        |
 | `log_a x` | `1/(x log a)` |
 
 ## Example
@@ -544,16 +545,16 @@ Write in this order:
 
 # Unit 5S: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Checking only function value for continuity | Continuity needs limit and value to match. |
-| Ignoring left and right limits in piecewise functions | Both must be checked. |
-| Assuming continuity implies differentiability | Differentiability implies continuity, not conversely. |
-| Forgetting inside derivative in chain rule | Always multiply by derivative of inner function. |
-| Treating `y` as constant in implicit differentiation | `y` is a function of `x`, so use `dy/dx`. |
-| Forgetting negative sign in `cos^-1 x` derivative | Derivative is `-1/sqrt(1-x^2)`. |
-| Differentiating `x^x` by power rule only | Use logarithmic differentiation. |
-| Using wrong second derivative formula in parametric form | Use `[d/dt(dy/dx)]/(dx/dt)`. |
+| Mistake                                                  | Correction                                            |
+| -------------------------------------------------------- | ----------------------------------------------------- |
+| Checking only function value for continuity              | Continuity needs limit and value to match.            |
+| Ignoring left and right limits in piecewise functions    | Both must be checked.                                 |
+| Assuming continuity implies differentiability            | Differentiability implies continuity, not conversely. |
+| Forgetting inside derivative in chain rule               | Always multiply by derivative of inner function.      |
+| Treating `y` as constant in implicit differentiation     | `y` is a function of `x`, so use `dy/dx`.             |
+| Forgetting negative sign in `cos^-1 x` derivative        | Derivative is `-1/sqrt(1-x^2)`.                       |
+| Differentiating `x^x` by power rule only                 | Use logarithmic differentiation.                      |
+| Using wrong second derivative formula in parametric form | Use `[d/dt(dy/dx)]/(dx/dt)`.                          |
 
 ## Practice Set
 

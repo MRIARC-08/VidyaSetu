@@ -1,4 +1,5 @@
 # Chapter 2: Kings, Farmers and Towns
+
 ### NCERT Class 12 - History Part 1
 
 ## Chapter at a Glance
@@ -22,26 +23,26 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Janapada | Land where a jana or people settled. |
-| Mahajanapada | Large state or chiefdom in early historic India. |
-| Magadha | Powerful mahajanapada that became centre of empire. |
-| Dhamma | Ashoka's ethical policy stressing moral conduct and social harmony. |
-| Inscription | Writing engraved on stone, metal, or other hard material. |
-| Prashasti | Eulogistic inscription praising a ruler. |
-| Land grant | Gift of land, often recorded in copper plates. |
-| Punch-marked coins | Early coins with symbols stamped on them. |
+| Term               | Meaning                                                             |
+| ------------------ | ------------------------------------------------------------------- |
+| Janapada           | Land where a jana or people settled.                                |
+| Mahajanapada       | Large state or chiefdom in early historic India.                    |
+| Magadha            | Powerful mahajanapada that became centre of empire.                 |
+| Dhamma             | Ashoka's ethical policy stressing moral conduct and social harmony. |
+| Inscription        | Writing engraved on stone, metal, or other hard material.           |
+| Prashasti          | Eulogistic inscription praising a ruler.                            |
+| Land grant         | Gift of land, often recorded in copper plates.                      |
+| Punch-marked coins | Early coins with symbols stamped on them.                           |
 
 ## Quick Learning Map
 
-| Evidence | Historical use |
-|---|---|
-| Inscriptions | Rulers, orders, gifts, administration |
-| Coins | Trade, economy, political authority |
-| Texts | Ideas, norms, narratives |
-| Archaeology | Towns, crafts, settlement patterns |
-| Land grants | Agrarian expansion and social relations |
+| Evidence     | Historical use                          |
+| ------------ | --------------------------------------- |
+| Inscriptions | Rulers, orders, gifts, administration   |
+| Coins        | Trade, economy, political authority     |
+| Texts        | Ideas, norms, narratives                |
+| Archaeology  | Towns, crafts, settlement patterns      |
+| Land grants  | Agrarian expansion and social relations |
 
 # Unit 2A: Mahajanapadas
 
@@ -220,13 +221,13 @@ For inscriptions:
 
 # Unit 2M: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Treating all mahajanapadas as monarchies | Some were ganas or sanghas. |
-| Explaining Magadha only by rulers | Geography and resources mattered. |
-| Reading prashastis literally | They are praise texts and need comparison. |
-| Ignoring farmers | Agrarian surplus supported states and towns. |
-| Treating land grants as simple charity | They also involved rights, revenue, and power. |
+| Mistake                                  | Correction                                     |
+| ---------------------------------------- | ---------------------------------------------- |
+| Treating all mahajanapadas as monarchies | Some were ganas or sanghas.                    |
+| Explaining Magadha only by rulers        | Geography and resources mattered.              |
+| Reading prashastis literally             | They are praise texts and need comparison.     |
+| Ignoring farmers                         | Agrarian surplus supported states and towns.   |
+| Treating land grants as simple charity   | They also involved rights, revenue, and power. |
 
 ## Practice Set
 

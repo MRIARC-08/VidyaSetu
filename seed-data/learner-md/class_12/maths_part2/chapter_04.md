@@ -1,4 +1,5 @@
 # Chapter 4: Vector Algebra
+
 ### NCERT Class 12 - Maths Part 2
 
 ## Chapter at a Glance
@@ -24,35 +25,35 @@ By the end of this chapter, learners should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Scalar | Quantity with magnitude only. |
-| Vector | Quantity with magnitude and direction. |
-| Magnitude | Length of a vector. |
-| Unit vector | Vector of magnitude `1`. |
-| Zero vector | Vector with magnitude `0`. |
-| Position vector | Vector from origin to a point. |
-| Collinear vectors | Vectors parallel to the same line. |
-| Equal vectors | Vectors with same magnitude and same direction. |
-| Negative vector | Vector with same magnitude but opposite direction. |
-| Dot product | Scalar product of two vectors. |
-| Cross product | Vector product of two vectors. |
-| Component along vector | Component of one vector along another. |
+| Term                   | Meaning                                            |
+| ---------------------- | -------------------------------------------------- |
+| Scalar                 | Quantity with magnitude only.                      |
+| Vector                 | Quantity with magnitude and direction.             |
+| Magnitude              | Length of a vector.                                |
+| Unit vector            | Vector of magnitude `1`.                           |
+| Zero vector            | Vector with magnitude `0`.                         |
+| Position vector        | Vector from origin to a point.                     |
+| Collinear vectors      | Vectors parallel to the same line.                 |
+| Equal vectors          | Vectors with same magnitude and same direction.    |
+| Negative vector        | Vector with same magnitude but opposite direction. |
+| Dot product            | Scalar product of two vectors.                     |
+| Cross product          | Vector product of two vectors.                     |
+| Component along vector | Component of one vector along another.             |
 
 ## Quick Formula Map
 
-| Concept | Formula |
-|---|---|
-| Vector in components | `a = a1 i + a2 j + a3 k` |
-| Magnitude | `|a| = sqrt(a1^2 + a2^2 + a3^2)` |
-| Unit vector along `a` | `a/|a|`, if `a != 0` |
-| Vector from A to B | `AB = b - a` |
-| Dot product | `a.b = |a||b| cos theta` |
+| Concept                   | Formula                    |
+| ------------------------- | -------------------------- | ----- | --------------------------- | --- | ---------- | --- | ---------- |
+| Vector in components      | `a = a1 i + a2 j + a3 k`   |
+| Magnitude                 | `                          | a     | = sqrt(a1^2 + a2^2 + a3^2)` |
+| Unit vector along `a`     | `a/                        | a     | `, if `a != 0`              |
+| Vector from A to B        | `AB = b - a`               |
+| Dot product               | `a.b =                     | a     |                             | b   | cos theta` |
 | Dot product in components | `a.b = a1b1 + a2b2 + a3b3` |
-| Perpendicular condition | `a.b = 0` |
-| Cross product magnitude | `|a x b| = |a||b| sin theta` |
-| Area of parallelogram | `|a x b|` |
-| Area of triangle | `(1/2)|a x b|` |
+| Perpendicular condition   | `a.b = 0`                  |
+| Cross product magnitude   | `                          | a x b | =                           | a   |            | b   | sin theta` |
+| Area of parallelogram     | `                          | a x b | `                           |
+| Area of triangle          | `(1/2)                     | a x b | `                           |
 
 # Unit 4A: Scalars and Vectors
 
@@ -455,15 +456,15 @@ Write in this order:
 
 # Unit 4S: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Treating vector like scalar | Direction matters. |
+| Mistake                             | Correction                                  |
+| ----------------------------------- | ------------------------------------------- |
+| Treating vector like scalar         | Direction matters.                          |
 | Forgetting square root in magnitude | Magnitude is square root of sum of squares. |
-| Confusing dot and cross product | Dot gives scalar; cross gives vector. |
-| Saying `a x b = b x a` | Correct relation is `a x b = -b x a`. |
-| Using dot product for area | Area uses cross product. |
-| Forgetting half for triangle area | Triangle area is half parallelogram area. |
-| Ignoring absolute value in volume | Volume is non-negative. |
+| Confusing dot and cross product     | Dot gives scalar; cross gives vector.       |
+| Saying `a x b = b x a`              | Correct relation is `a x b = -b x a`.       |
+| Using dot product for area          | Area uses cross product.                    |
+| Forgetting half for triangle area   | Triangle area is half parallelogram area.   |
+| Ignoring absolute value in volume   | Volume is non-negative.                     |
 
 ## Practice Set
 

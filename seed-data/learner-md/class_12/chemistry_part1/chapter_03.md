@@ -1,4 +1,5 @@
 # Chapter 3: Chemical Kinetics
+
 ### NCERT Class 12 - Chemistry Part 1
 
 ## Chapter at a Glance
@@ -24,29 +25,29 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Reaction rate | Change in concentration of reactant or product per unit time. |
-| Average rate | Rate measured over a finite time interval. |
-| Instantaneous rate | Rate at a particular moment. |
-| Rate law | Experimental relation between rate and concentration. |
-| Rate constant | Proportionality constant in rate law. |
-| Order | Sum of powers of concentration terms in rate law. |
-| Molecularity | Number of reacting species colliding in an elementary step. |
-| Half-life | Time required for concentration of a reactant to become half. |
-| Activation energy | Minimum energy needed for effective collision. |
-| Catalyst | Substance that changes reaction rate without being consumed. |
+| Term               | Meaning                                                       |
+| ------------------ | ------------------------------------------------------------- |
+| Reaction rate      | Change in concentration of reactant or product per unit time. |
+| Average rate       | Rate measured over a finite time interval.                    |
+| Instantaneous rate | Rate at a particular moment.                                  |
+| Rate law           | Experimental relation between rate and concentration.         |
+| Rate constant      | Proportionality constant in rate law.                         |
+| Order              | Sum of powers of concentration terms in rate law.             |
+| Molecularity       | Number of reacting species colliding in an elementary step.   |
+| Half-life          | Time required for concentration of a reactant to become half. |
+| Activation energy  | Minimum energy needed for effective collision.                |
+| Catalyst           | Substance that changes reaction rate without being consumed.  |
 
 ## Quick Learning Map
 
-| Area | Main idea | Key expression |
-|---|---|---|
-| Rate | Speed of concentration change | `rate = -Delta[R] / Delta t` |
-| Rate law | Found experimentally | `rate = k[A]^x[B]^y` |
-| Zero order | Rate independent of concentration | `[R] = [R]0 - kt` |
-| First order | Rate proportional to concentration | `k = (2.303/t) log([R]0/[R])` |
-| Half-life | Time for half completion | `t1/2 = 0.693/k` for first order |
-| Temperature | Rate rises with temperature | `k = A e^(-Ea/RT)` |
+| Area        | Main idea                          | Key expression                   |
+| ----------- | ---------------------------------- | -------------------------------- |
+| Rate        | Speed of concentration change      | `rate = -Delta[R] / Delta t`     |
+| Rate law    | Found experimentally               | `rate = k[A]^x[B]^y`             |
+| Zero order  | Rate independent of concentration  | `[R] = [R]0 - kt`                |
+| First order | Rate proportional to concentration | `k = (2.303/t) log([R]0/[R])`    |
+| Half-life   | Time for half completion           | `t1/2 = 0.693/k` for first order |
+| Temperature | Rate rises with temperature        | `k = A e^(-Ea/RT)`               |
 
 # Unit 3A: Rate of Reaction
 
@@ -80,24 +81,24 @@ Stoichiometric coefficients must be included when defining a single reaction rat
 
 Average rate is measured over a time interval. Instantaneous rate is measured at a particular time and is obtained from slope of tangent to concentration-time graph.
 
-| Feature | Average rate | Instantaneous rate |
-|---|---|---|
-| Time basis | Interval | Specific moment |
-| Graph method | Slope of chord | Slope of tangent |
-| Use | Approximate reaction speed | Exact speed at that time |
+| Feature      | Average rate               | Instantaneous rate       |
+| ------------ | -------------------------- | ------------------------ |
+| Time basis   | Interval                   | Specific moment          |
+| Graph method | Slope of chord             | Slope of tangent         |
+| Use          | Approximate reaction speed | Exact speed at that time |
 
 Rate usually decreases with time because reactant concentration decreases.
 
 # Unit 3C: Factors Affecting Reaction Rate
 
-| Factor | Effect |
-|---|---|
-| Concentration | Higher concentration usually increases rate. |
-| Temperature | Higher temperature increases kinetic energy and effective collisions. |
-| Catalyst | Provides path with lower activation energy. |
-| Surface area | Finely divided solids react faster. |
+| Factor              | Effect                                                                  |
+| ------------------- | ----------------------------------------------------------------------- |
+| Concentration       | Higher concentration usually increases rate.                            |
+| Temperature         | Higher temperature increases kinetic energy and effective collisions.   |
+| Catalyst            | Provides path with lower activation energy.                             |
+| Surface area        | Finely divided solids react faster.                                     |
 | Nature of reactants | Ionic reactions are often faster than covalent bond-breaking reactions. |
-| Medium | Solvent and pH can change mechanism and rate. |
+| Medium              | Solvent and pH can change mechanism and rate.                           |
 
 # Unit 3D: Rate Law and Rate Constant
 
@@ -128,13 +129,13 @@ Order is the sum of powers of concentration terms in the rate law.
 
 Examples:
 
-| Rate law | Order |
-|---|---|
-| `rate = k` | Zero order |
-| `rate = k[A]` | First order |
-| `rate = k[A]^2` | Second order |
-| `rate = k[A][B]` | Second order |
-| `rate = k[A]^(1/2)[B]^2` | `2.5` order |
+| Rate law                 | Order        |
+| ------------------------ | ------------ |
+| `rate = k`               | Zero order   |
+| `rate = k[A]`            | First order  |
+| `rate = k[A]^2`          | Second order |
+| `rate = k[A][B]`         | Second order |
+| `rate = k[A]^(1/2)[B]^2` | `2.5` order  |
 
 Order can be zero, whole number, fraction, or even negative. It is experimental.
 
@@ -142,13 +143,13 @@ Order can be zero, whole number, fraction, or even negative. It is experimental.
 
 Molecularity is the number of reacting species involved in an elementary step.
 
-| Feature | Order | Molecularity |
-|---|---|---|
-| Basis | Rate law | Mechanism step |
-| Determination | Experimental | Theoretical for elementary step |
-| Values | Zero, fraction, integer | Positive integer only |
-| Applies to | Overall reaction | Elementary step |
-| Can be zero? | Yes | No |
+| Feature       | Order                   | Molecularity                    |
+| ------------- | ----------------------- | ------------------------------- |
+| Basis         | Rate law                | Mechanism step                  |
+| Determination | Experimental            | Theoretical for elementary step |
+| Values        | Zero, fraction, integer | Positive integer only           |
+| Applies to    | Overall reaction        | Elementary step                 |
+| Can be zero?  | Yes                     | No                              |
 
 Common molecularities are unimolecular, bimolecular, and rarely termolecular.
 
@@ -205,13 +206,13 @@ For first order, half-life is independent of initial concentration.
 
 # Unit 3H: Identifying Reaction Order
 
-| Evidence | Likely order |
-|---|---|
-| Rate remains constant as concentration changes | Zero order |
-| `[R]` vs `t` is straight line | Zero order |
-| `log[R]` vs `t` is straight line | First order |
-| Half-life independent of initial concentration | First order |
-| Half-life proportional to initial concentration | Zero order |
+| Evidence                                        | Likely order |
+| ----------------------------------------------- | ------------ |
+| Rate remains constant as concentration changes  | Zero order   |
+| `[R]` vs `t` is straight line                   | Zero order   |
+| `log[R]` vs `t` is straight line                | First order  |
+| Half-life independent of initial concentration  | First order  |
+| Half-life proportional to initial concentration | Zero order   |
 
 ## Experimental Initial Rate Method
 
@@ -251,13 +252,13 @@ For two temperatures:
 
 ## Meaning of Terms
 
-| Term | Meaning |
-|---|---|
-| `k` | Rate constant |
-| `A` | Frequency factor |
-| `Ea` | Activation energy |
-| `R` | Gas constant |
-| `T` | Absolute temperature |
+| Term | Meaning              |
+| ---- | -------------------- |
+| `k`  | Rate constant        |
+| `A`  | Frequency factor     |
+| `Ea` | Activation energy    |
+| `R`  | Gas constant         |
+| `T`  | Absolute temperature |
 
 # Unit 3K: Activation Energy
 
@@ -299,15 +300,15 @@ Steric factor accounts for proper orientation. Even if molecules have enough ene
 
 # Unit 3N: Formula Bank
 
-| Purpose | Formula |
-|---|---|
-| Average rate | `rate = -Delta[R]/Delta t` |
-| General rate law | `rate = k[A]^x[B]^y` |
-| Zero-order integrated law | `[R] = [R]0 - kt` |
-| Zero-order half-life | `t1/2 = [R]0/(2k)` |
-| First-order integrated law | `k = (2.303/t) log([R]0/[R])` |
-| First-order half-life | `t1/2 = 0.693/k` |
-| Arrhenius equation | `k = A e^(-Ea/RT)` |
+| Purpose                        | Formula                                  |
+| ------------------------------ | ---------------------------------------- |
+| Average rate                   | `rate = -Delta[R]/Delta t`               |
+| General rate law               | `rate = k[A]^x[B]^y`                     |
+| Zero-order integrated law      | `[R] = [R]0 - kt`                        |
+| Zero-order half-life           | `t1/2 = [R]0/(2k)`                       |
+| First-order integrated law     | `k = (2.303/t) log([R]0/[R])`            |
+| First-order half-life          | `t1/2 = 0.693/k`                         |
+| Arrhenius equation             | `k = A e^(-Ea/RT)`                       |
 | Two-temperature Arrhenius form | `log(k2/k1) = Ea(T2-T1)/(2.303 R T1 T2)` |
 
 # Unit 3O: Unit of Rate Constant
@@ -318,25 +319,25 @@ For a reaction of order `n`:
 
 Examples:
 
-| Order | Unit of `k` |
-|---|---|
-| Zero | `mol L^-1 s^-1` |
-| First | `s^-1` |
-| Second | `L mol^-1 s^-1` |
-| Third | `L^2 mol^-2 s^-1` |
+| Order  | Unit of `k`       |
+| ------ | ----------------- |
+| Zero   | `mol L^-1 s^-1`   |
+| First  | `s^-1`            |
+| Second | `L mol^-1 s^-1`   |
+| Third  | `L^2 mol^-2 s^-1` |
 
 # Unit 3P: Problem-Solving Toolkit
 
-| Clue in question | Method |
-|---|---|
-| Concentration changes over a time interval | Average rate |
-| Initial rates table | Compare experiments |
-| `log[R]` and time | First-order equation |
-| Half-life independent of initial concentration | First order |
-| Straight `[R]` vs time graph | Zero order |
-| Rate doubles on temperature rise | Temperature coefficient or Arrhenius |
-| Two `k` values at two temperatures | Arrhenius two-temperature equation |
-| Catalyst explanation | Lower activation energy pathway |
+| Clue in question                               | Method                               |
+| ---------------------------------------------- | ------------------------------------ |
+| Concentration changes over a time interval     | Average rate                         |
+| Initial rates table                            | Compare experiments                  |
+| `log[R]` and time                              | First-order equation                 |
+| Half-life independent of initial concentration | First order                          |
+| Straight `[R]` vs time graph                   | Zero order                           |
+| Rate doubles on temperature rise               | Temperature coefficient or Arrhenius |
+| Two `k` values at two temperatures             | Arrhenius two-temperature equation   |
+| Catalyst explanation                           | Lower activation energy pathway      |
 
 # Unit 3Q: High-Quality Example
 
@@ -358,14 +359,14 @@ The important idea is that first-order equations can use concentration, pressure
 
 # Unit 3R: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Finding order from balanced equation | Order is found experimentally. |
-| Treating molecularity as fractional | Molecularity is a positive integer. |
+| Mistake                                             | Correction                                             |
+| --------------------------------------------------- | ------------------------------------------------------ |
+| Finding order from balanced equation                | Order is found experimentally.                         |
+| Treating molecularity as fractional                 | Molecularity is a positive integer.                    |
 | Forgetting negative sign for reactant disappearance | Rate is written positive; reactant change is negative. |
-| Using Celsius in Arrhenius equation | Use kelvin. |
-| Assuming catalyst changes equilibrium constant | Catalyst changes rate, not equilibrium position. |
-| Applying first-order half-life to all reactions | `t1/2 = 0.693/k` only for first order. |
+| Using Celsius in Arrhenius equation                 | Use kelvin.                                            |
+| Assuming catalyst changes equilibrium constant      | Catalyst changes rate, not equilibrium position.       |
+| Applying first-order half-life to all reactions     | `t1/2 = 0.693/k` only for first order.                 |
 
 ## Practice Set
 

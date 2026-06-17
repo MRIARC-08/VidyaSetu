@@ -1,15 +1,16 @@
 # Chapter 9: Biotechnology - Principles and Processes
+
 ### NCERT Class 12 - Biology
 
 ## Chapter at a Glance
 
-| Item | Details |
-|---|---|
-| Main idea | Biotechnology uses organisms, cells, enzymes, and genetic material to create useful products and processes. |
-| Core modern method | Recombinant DNA technology. |
-| Main tools | Restriction enzymes, DNA ligase, polymerase, vectors, host cells, selectable markers. |
-| Main processes | Isolation of DNA, cutting, joining, amplification, insertion into host, selection, expression, downstream processing. |
-| Most important skill | Understand what each tool does and where it acts in the recombinant DNA workflow. |
+| Item                 | Details                                                                                                               |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Main idea            | Biotechnology uses organisms, cells, enzymes, and genetic material to create useful products and processes.           |
+| Core modern method   | Recombinant DNA technology.                                                                                           |
+| Main tools           | Restriction enzymes, DNA ligase, polymerase, vectors, host cells, selectable markers.                                 |
+| Main processes       | Isolation of DNA, cutting, joining, amplification, insertion into host, selection, expression, downstream processing. |
+| Most important skill | Understand what each tool does and where it acts in the recombinant DNA workflow.                                     |
 
 ## Learning Outcomes
 
@@ -29,32 +30,32 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Biotechnology | Use of biological systems or organisms to make useful products or processes. |
-| Recombinant DNA | DNA formed by joining genetic material from different sources. |
-| Restriction enzyme | Enzyme that cuts DNA at specific recognition sequences. |
-| DNA ligase | Enzyme that joins DNA fragments. |
-| Vector | DNA molecule used to carry foreign DNA into host cell. |
-| Plasmid | Small circular DNA molecule often used as vector. |
-| Selectable marker | Gene that helps identify transformed cells. |
-| PCR | Polymerase chain reaction used to amplify DNA. |
-| Gel electrophoresis | Technique for separating DNA fragments by size. |
-| Transformation | Introduction of foreign DNA into host cell. |
-| Bioreactor | Vessel used for large-scale biological production. |
-| Downstream processing | Recovery, purification, and finishing of product after production. |
+| Term                  | Meaning                                                                      |
+| --------------------- | ---------------------------------------------------------------------------- |
+| Biotechnology         | Use of biological systems or organisms to make useful products or processes. |
+| Recombinant DNA       | DNA formed by joining genetic material from different sources.               |
+| Restriction enzyme    | Enzyme that cuts DNA at specific recognition sequences.                      |
+| DNA ligase            | Enzyme that joins DNA fragments.                                             |
+| Vector                | DNA molecule used to carry foreign DNA into host cell.                       |
+| Plasmid               | Small circular DNA molecule often used as vector.                            |
+| Selectable marker     | Gene that helps identify transformed cells.                                  |
+| PCR                   | Polymerase chain reaction used to amplify DNA.                               |
+| Gel electrophoresis   | Technique for separating DNA fragments by size.                              |
+| Transformation        | Introduction of foreign DNA into host cell.                                  |
+| Bioreactor            | Vessel used for large-scale biological production.                           |
+| Downstream processing | Recovery, purification, and finishing of product after production.           |
 
 ## Quick Learning Map
 
-| Stage | Core Question |
-|---|---|
-| DNA isolation | How is genetic material obtained? |
-| Cutting | Which enzyme cuts at specific sites? |
-| Joining | How is foreign DNA linked to vector? |
-| Transfer | How does recombinant DNA enter host? |
-| Selection | How are transformed cells identified? |
-| Expression | Does the inserted gene produce desired product? |
-| Processing | How is product purified and made usable? |
+| Stage         | Core Question                                   |
+| ------------- | ----------------------------------------------- |
+| DNA isolation | How is genetic material obtained?               |
+| Cutting       | Which enzyme cuts at specific sites?            |
+| Joining       | How is foreign DNA linked to vector?            |
+| Transfer      | How does recombinant DNA enter host?            |
+| Selection     | How are transformed cells identified?           |
+| Expression    | Does the inserted gene produce desired product? |
+| Processing    | How is product purified and made usable?        |
 
 # Unit 9A: Meaning of Biotechnology
 
@@ -85,10 +86,10 @@ Genetic engineering changes the genetic material of an organism by introducing, 
 
 ## Two Core Abilities
 
-| Ability | Meaning |
-|---|---|
-| DNA manipulation | Cut and join DNA precisely. |
-| DNA transfer | Insert recombinant DNA into host cell. |
+| Ability          | Meaning                                |
+| ---------------- | -------------------------------------- |
+| DNA manipulation | Cut and join DNA precisely.            |
+| DNA transfer     | Insert recombinant DNA into host cell. |
 
 # Unit 9C: Recombinant DNA Technology
 
@@ -139,13 +140,13 @@ A vector carries foreign DNA into host cells.
 
 ## Features of a Good Vector
 
-| Feature | Importance |
-|---|---|
-| Origin of replication | Allows vector to replicate in host. |
-| Selectable marker | Helps identify transformed cells. |
-| Cloning site | Place where foreign DNA can be inserted. |
-| Small size | Easier to handle and transfer. |
-| High copy number | Produces many copies of inserted DNA. |
+| Feature               | Importance                               |
+| --------------------- | ---------------------------------------- |
+| Origin of replication | Allows vector to replicate in host.      |
+| Selectable marker     | Helps identify transformed cells.        |
+| Cloning site          | Place where foreign DNA can be inserted. |
+| Small size            | Easier to handle and transfer.           |
+| High copy number      | Produces many copies of inserted DNA.    |
 
 ## Plasmids
 
@@ -197,11 +198,11 @@ PCR amplifies DNA, making millions of copies of a specific segment.
 
 ## Steps
 
-| Step | Meaning |
-|---|---|
-| Denaturation | DNA strands separate at high temperature. |
-| Annealing | Primers bind to complementary sequences. |
-| Extension | DNA polymerase extends primers to make new DNA. |
+| Step         | Meaning                                         |
+| ------------ | ----------------------------------------------- |
+| Denaturation | DNA strands separate at high temperature.       |
+| Annealing    | Primers bind to complementary sequences.        |
+| Extension    | DNA polymerase extends primers to make new DNA. |
 
 Heat-stable DNA polymerase is used because PCR involves repeated heating.
 
@@ -269,27 +270,27 @@ The product must be safe, pure, stable, and effective before use.
 
 # Unit 9N: Complete Workflow Summary
 
-| Step | Main Tool |
-|---|---|
-| Isolate DNA | Enzymes and extraction methods. |
-| Cut DNA | Restriction enzyme. |
-| Join DNA | DNA ligase. |
-| Carry DNA | Vector. |
-| Transfer DNA | Transformation method. |
-| Select cells | Selectable marker. |
-| Multiply cells | Culture system or bioreactor. |
-| Purify product | Downstream processing. |
+| Step           | Main Tool                       |
+| -------------- | ------------------------------- |
+| Isolate DNA    | Enzymes and extraction methods. |
+| Cut DNA        | Restriction enzyme.             |
+| Join DNA       | DNA ligase.                     |
+| Carry DNA      | Vector.                         |
+| Transfer DNA   | Transformation method.          |
+| Select cells   | Selectable marker.              |
+| Multiply cells | Culture system or bioreactor.   |
+| Purify product | Downstream processing.          |
 
 # Unit 9O: Common Mistakes and Corrections
 
-| Mistake | Correct Understanding |
-|---|---|
-| Restriction enzymes join DNA | They cut DNA; ligase joins DNA. |
-| Any vector can be used | A vector needs origin, marker, and cloning site. |
-| PCR needs living cells | PCR can amplify DNA in vitro. |
-| Larger DNA fragments move farther in gel | Smaller fragments move farther. |
-| Transformed cells are always recombinant | Some may carry vector without insert; selection is needed. |
-| Product is ready immediately after cell growth | Downstream processing is required. |
+| Mistake                                        | Correct Understanding                                      |
+| ---------------------------------------------- | ---------------------------------------------------------- |
+| Restriction enzymes join DNA                   | They cut DNA; ligase joins DNA.                            |
+| Any vector can be used                         | A vector needs origin, marker, and cloning site.           |
+| PCR needs living cells                         | PCR can amplify DNA in vitro.                              |
+| Larger DNA fragments move farther in gel       | Smaller fragments move farther.                            |
+| Transformed cells are always recombinant       | Some may carry vector without insert; selection is needed. |
+| Product is ready immediately after cell growth | Downstream processing is required.                         |
 
 ## Practice Set
 

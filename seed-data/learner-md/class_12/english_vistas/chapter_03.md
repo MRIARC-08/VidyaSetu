@@ -2,14 +2,14 @@
 
 ## Chapter Identity
 
-| Item | Details |
-| --- | --- |
-| Class | 12 |
-| Subject | English Vistas |
-| Text Type | Travelogue / Environmental Essay |
-| Writer | Tishani Doshi |
-| Core Skill | Understanding travel writing, environmental awareness, geological history, climate change, and interconnected ecosystems |
-| Main Idea | Antarctica helps us understand Earth's past, observe climate change in the present, and think seriously about humanity's future. |
+| Item       | Details                                                                                                                          |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| Class      | 12                                                                                                                               |
+| Subject    | English Vistas                                                                                                                   |
+| Text Type  | Travelogue / Environmental Essay                                                                                                 |
+| Writer     | Tishani Doshi                                                                                                                    |
+| Core Skill | Understanding travel writing, environmental awareness, geological history, climate change, and interconnected ecosystems         |
+| Main Idea  | Antarctica helps us understand Earth's past, observe climate change in the present, and think seriously about humanity's future. |
 
 ## 1. Big Picture
 
@@ -47,13 +47,13 @@ The lack of ordinary human markers such as trees, buildings, and signboards make
 
 ## 4. Why Antarctica Matters
 
-| Reason | Explanation |
-| --- | --- |
-| Geological history | It was once part of the supercontinent Gondwana. |
-| Climate records | Ice cores preserve ancient carbon and climate data. |
-| Human impact | Its ice and ecosystems reveal effects of global warming. |
-| Scientific study | Its simple ecosystem helps scientists observe environmental changes clearly. |
-| Moral awakening | Its vastness makes humans realise their small place in Earth's history. |
+| Reason             | Explanation                                                                  |
+| ------------------ | ---------------------------------------------------------------------------- |
+| Geological history | It was once part of the supercontinent Gondwana.                             |
+| Climate records    | Ice cores preserve ancient carbon and climate data.                          |
+| Human impact       | Its ice and ecosystems reveal effects of global warming.                     |
+| Scientific study   | Its simple ecosystem helps scientists observe environmental changes clearly. |
+| Moral awakening    | Its vastness makes humans realise their small place in Earth's history.      |
 
 ## 5. Gondwana and Geological History
 
@@ -71,11 +71,11 @@ This geological history helps us understand:
 
 Human civilisation has existed for only a very short time compared with Earth's history. The essay stresses this contrast:
 
-| Earth Time | Human Time |
-| --- | --- |
+| Earth Time                     | Human Time                           |
+| ------------------------------ | ------------------------------------ |
 | Millions and billions of years | A few thousand years of civilisation |
-| Slow geological processes | Rapid human industrial impact |
-| Natural cycles | Human-made disruption |
+| Slow geological processes      | Rapid human industrial impact        |
+| Natural cycles                 | Human-made disruption                |
 
 The writer suggests that human beings have been around for a brief moment but have created enormous environmental disturbance.
 
@@ -127,12 +127,12 @@ Young people are future citizens, leaders, scientists, voters, and policy-makers
 
 Phytoplankton are microscopic organisms in the ocean. They are small, but their role is huge.
 
-| Role of Phytoplankton | Importance |
-| --- | --- |
-| Photosynthesis | They absorb carbon and produce organic matter. |
-| Food chain base | They support marine animals and birds indirectly. |
-| Carbon cycle | They influence global carbon balance. |
-| Climate sensitivity | Ozone depletion and climate change can affect them. |
+| Role of Phytoplankton | Importance                                          |
+| --------------------- | --------------------------------------------------- |
+| Photosynthesis        | They absorb carbon and produce organic matter.      |
+| Food chain base       | They support marine animals and birds indirectly.   |
+| Carbon cycle          | They influence global carbon balance.               |
+| Climate sensitivity   | Ozone depletion and climate change can affect them. |
 
 The statement "take care of the small things" means that tiny organisms and small ecological processes support large systems. If small links break, the entire chain can suffer.
 
@@ -191,23 +191,23 @@ Antarctica reveals Earth's past through geological evidence and ice-core records
 
 ## 14. Language and Style
 
-| Feature | Effect |
-| --- | --- |
-| First-person narration | Makes the essay personal and experiential. |
-| Scientific references | Adds factual seriousness. |
-| Vivid description | Helps readers imagine Antarctica. |
-| Reflection | Turns travel into environmental awareness. |
-| Contrast | Compares human short history with Earth's vast geological time. |
+| Feature                | Effect                                                          |
+| ---------------------- | --------------------------------------------------------------- |
+| First-person narration | Makes the essay personal and experiential.                      |
+| Scientific references  | Adds factual seriousness.                                       |
+| Vivid description      | Helps readers imagine Antarctica.                               |
+| Reflection             | Turns travel into environmental awareness.                      |
+| Contrast               | Compares human short history with Earth's vast geological time. |
 
 ## 15. Common Mistakes and Corrections
 
-| Mistake | Correction |
-| --- | --- |
-| Treating the chapter as only a travel story | It is also an environmental and scientific essay. |
-| Ignoring Gondwana | Gondwana connects Antarctica to Earth's geological history. |
-| Thinking Antarctica is unimportant because it is remote | It is central to climate and environmental study. |
-| Underestimating phytoplankton | They support food chains and carbon cycles. |
-| Missing the role of students | The expedition is about education and future action. |
+| Mistake                                                 | Correction                                                  |
+| ------------------------------------------------------- | ----------------------------------------------------------- |
+| Treating the chapter as only a travel story             | It is also an environmental and scientific essay.           |
+| Ignoring Gondwana                                       | Gondwana connects Antarctica to Earth's geological history. |
+| Thinking Antarctica is unimportant because it is remote | It is central to climate and environmental study.           |
+| Underestimating phytoplankton                           | They support food chains and carbon cycles.                 |
+| Missing the role of students                            | The expedition is about education and future action.        |
 
 ## 16. Exam Answer Frame
 
@@ -232,16 +232,16 @@ Start with Antarctica's importance
 
 ## 18. Quick Revision Sheet
 
-| Point | Recall |
-| --- | --- |
-| Text type | Travelogue and environmental essay. |
-| Place | Antarctica. |
-| Ancient landmass | Gondwana. |
-| Main concern | Climate change and human impact. |
-| Key programme | Students on Ice. |
-| Tiny organism | Phytoplankton. |
-| Main lesson | Everything on Earth is connected. |
-| Tone | Wonder-filled, reflective, urgent. |
+| Point            | Recall                              |
+| ---------------- | ----------------------------------- |
+| Text type        | Travelogue and environmental essay. |
+| Place            | Antarctica.                         |
+| Ancient landmass | Gondwana.                           |
+| Main concern     | Climate change and human impact.    |
+| Key programme    | Students on Ice.                    |
+| Tiny organism    | Phytoplankton.                      |
+| Main lesson      | Everything on Earth is connected.   |
+| Tone             | Wonder-filled, reflective, urgent.  |
 
 ## 19. Final Learning Takeaway
 

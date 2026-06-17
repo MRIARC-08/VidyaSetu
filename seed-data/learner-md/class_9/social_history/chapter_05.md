@@ -1,20 +1,21 @@
 # Chapter 5: Pastoralists in the Modern World
+
 ### NCERT Class 9 — Social History
 
 ---
 
 ## 📌 Chapter at a Glance
 
-| Detail | Info |
-|---|---|
-| Chapter | 5 — Pastoralists in the Modern World |
-| Class | Class 9 |
-| Subject | Social History |
-| Pilot Subject Family | History |
-| Source File | `data/class_9/social_history/chapter_05.md` |
-| Textbook Pages | 97 – 118 |
-| Raw Exercise Count | 8 |
-| Formatting Mode | Human-guided pilot for subject-specific automation |
+| Detail               | Info                                               |
+| -------------------- | -------------------------------------------------- |
+| Chapter              | 5 — Pastoralists in the Modern World               |
+| Class                | Class 9                                            |
+| Subject              | Social History                                     |
+| Pilot Subject Family | History                                            |
+| Source File          | `data/class_9/social_history/chapter_05.md`        |
+| Textbook Pages       | 97 – 118                                           |
+| Raw Exercise Count   | 8                                                  |
+| Formatting Mode      | Human-guided pilot for subject-specific automation |
 
 ---
 
@@ -23,52 +24,52 @@
 > [!NOTE]
 > Study this chapter through this route: **time period -> actors -> causes -> events/processes -> consequences -> historical interpretation**.
 
-| Step | Learner Action | Why It Matters |
-|---|---|---|
-| 1 | Build a timeline before memorising details. | Builds reliable recall and answer quality. |
-| 2 | Separate causes, course, and consequences for each historical process. | Builds reliable recall and answer quality. |
-| 3 | Track people, places, dates, and sources in separate tables. | Builds reliable recall and answer quality. |
-| 4 | Notice how maps, images, and primary sources support the narrative. | Builds reliable recall and answer quality. |
+| Step | Learner Action                                                         | Why It Matters                             |
+| ---- | ---------------------------------------------------------------------- | ------------------------------------------ |
+| 1    | Build a timeline before memorising details.                            | Builds reliable recall and answer quality. |
+| 2    | Separate causes, course, and consequences for each historical process. | Builds reliable recall and answer quality. |
+| 3    | Track people, places, dates, and sources in separate tables.           | Builds reliable recall and answer quality. |
+| 4    | Notice how maps, images, and primary sources support the narrative.    | Builds reliable recall and answer quality. |
 
 ---
 
 ## 🎯 Learning Outcomes
 
-| # | After studying this chapter, you should be able to... |
-|---|---|
-| 1 | place events, people, and processes in chronological order |
-| 2 | explain causes, developments, consequences, and historical significance |
-| 3 | interpret maps, sources, images, and timelines as historical evidence |
+| #   | After studying this chapter, you should be able to...                   |
+| --- | ----------------------------------------------------------------------- |
+| 1   | place events, people, and processes in chronological order              |
+| 2   | explain causes, developments, consequences, and historical significance |
+| 3   | interpret maps, sources, images, and timelines as historical evidence   |
 
 ---
 
 ## 🗂️ Section Structure
 
-| Section | Title | Revision Focus |
-|---|---|---|
-| Intro | Core chapter narrative | Definition, explanation, examples, and likely questions |
+| Section | Title                  | Revision Focus                                          |
+| ------- | ---------------------- | ------------------------------------------------------- |
+| Intro   | Core chapter narrative | Definition, explanation, examples, and likely questions |
 
 ---
 
 ## 🧠 Subject-Specific Study Method
 
-| Part | How to Use It |
-|---|---|
-| Core lens | time period -> actors -> causes -> events/processes -> consequences -> historical interpretation |
-| First pass | Read for meaning and mark unfamiliar terms. |
-| Second pass | Convert definitions, examples, data, and activities into tables. |
-| Revision pass | Use the quick reference and practice tracker at the end. |
+| Part          | How to Use It                                                                                    |
+| ------------- | ------------------------------------------------------------------------------------------------ |
+| Core lens     | time period -> actors -> causes -> events/processes -> consequences -> historical interpretation |
+| First pass    | Read for meaning and mark unfamiliar terms.                                                      |
+| Second pass   | Convert definitions, examples, data, and activities into tables.                                 |
+| Revision pass | Use the quick reference and practice tracker at the end.                                         |
 
 ---
 
 ## 🧭 Concept, Evidence, and Example Board
 
-| Learning Need | How To Build It |
-|---|---|
-| Core concepts | Turn each definition into a one-line meaning and one example. |
-| Evidence | Use dates, places, maps, data, thinkers, laws, institutions, or case studies from the chapter. |
-| Comparison | Prepare tables for contrasts, causes, consequences, and viewpoints. |
-| Answer quality | Move from description to explanation to significance. |
+| Learning Need  | How To Build It                                                                                |
+| -------------- | ---------------------------------------------------------------------------------------------- |
+| Core concepts  | Turn each definition into a one-line meaning and one example.                                  |
+| Evidence       | Use dates, places, maps, data, thinkers, laws, institutions, or case studies from the chapter. |
+| Comparison     | Prepare tables for contrasts, causes, consequences, and viewpoints.                            |
+| Answer quality | Move from description to explanation to significance.                                          |
 
 ---
 
@@ -256,10 +257,10 @@ Reprint 2025-26
 
 ## 🔑 Key Concepts & Definitions
 
-| Term | Learner-Friendly Meaning |
-|---|---|
-| **forming what** | a kafila |
-| **and their settlement** | a dhandi |
+| Term                     | Learner-Friendly Meaning |
+| ------------------------ | ------------------------ |
+| **forming what**         | a kafila                 |
+| **and their settlement** | a dhandi                 |
 
 ---
 
@@ -272,70 +273,70 @@ Reprint 2025-26
 
 ## 🔬 Activities, Projects, and Inquiry Prompts
 
-| # | Prompt | Learner Task |
-|---|---|---|
-| 1 | Activity | Observe, discuss, collect evidence, or write a short response. |
-| 2 | 2. Discuss why the colonial government in India brought in the following | Observe, discuss, collect evidence, or write a short response. |
-| 3 | 3. Find out more about the some of the pastoral communities marked in Figs. | Observe, discuss, collect evidence, or write a short response. |
+| #   | Prompt                                                                      | Learner Task                                                   |
+| --- | --------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| 1   | Activity                                                                    | Observe, discuss, collect evidence, or write a short response. |
+| 2   | 2. Discuss why the colonial government in India brought in the following    | Observe, discuss, collect evidence, or write a short response. |
+| 3   | 3. Find out more about the some of the pastoral communities marked in Figs. | Observe, discuss, collect evidence, or write a short response. |
 
 ---
 
 ## ✏️ Practice & Exercise Tracker
 
-| Q | Question / Task | Answer Strategy |
-|---|---|---|
-| 1 | 1. Explain why nomadic tribes need to move from one place to another. What are the advantages to the environment of this continuous movement? | Identify command word, recall concept, structure answer, then review. |
-| 2 | 2. Discuss why the colonial government in India brought in the following laws. In each case, explain how the law changed the lives of pastoralists: /head2rightWaste Land rules /head2rightForest Acts /head2rightCriminal Tribes Act /head2rightGrazing Tax | Identify command word, recall concept, structure answer, then review. |
-| 3 | 3. Give reasons to explain why the Maasai community lost their grazing lands. | Identify command word, recall concept, structure answer, then review. |
-| 4 | 4. There are many similarities in the way in which the modern world forced changes in the lives of p astoral communities in India and East Africa. Write about any two examples of changes which were similar for Indian pastoralists and the Maasai herders. | Identify command word, recall concept, structure answer, then review. |
-| 5 | 1. Imagine that it is 1950 and you are a 60 -year-old Raika herder living in post-Independence India. You are telling your grand-daughter about the changes which have taken place in your lifestyle after Independence. What would you say? | Identify command word, recall concept, structure answer, then review. |
-| 6 | 2. Imagine that you have been asked by a famous magazine to write an article about the life and customs of the Maasai in pre-colonial Africa. Write the article, giving it an interesting title. | Identify command word, recall concept, structure answer, then review. |
-| 7 | 3. Find out more about the some of the pastoral communities marked in Figs. 11 and 13. Activities Reprint 2025-26 Clothing: A Social History Photographs and pictures We would like to acknowledge the following: Institutions and photo archives: Central State Archives of Film-Photo Phono Documents of the USSR (II: 13) Forest Research Institute in Dehradun (IV: 17) Jewish Historical Institute, Warsaw, Poland (III: 31) Majdanek Museum Archives, Lublin, Poland (III: 22) Publications Division, Ministry of Information and Broadcasting, GOI (Most of the Gandhi Photographs) The United States Holocaust Memorial Museum (III: 14, 22) Journals Indian Forester (IV: 10, 11) The Illustrated London News (II: 2; VII: 7, 8, 9,16) Individuals Barnela, Sanjay (IV: 11, 12, 15, 16; V: 8, 10 ) Saberwal, Vasant (V: 3, 4) Sundar, Nandini (IV: 6, 13, 14, 17) Publishers and authors Ballantine, Betty and Ian Ballantine, eds., The Native Americans: An Illustrated History. Atlanta: Turner Publishing Inc., 1993 (IV: 2) Berelowitch, Wladimir and Laurent Gervereau, Russie URSS, 1914 -1991 (II: 10) Burleigh, Michael and Wolfgang Wippermann, The Racial State: Germany 1933-1945, Cambridge University Press (III: 13, 15, 16, 25, 31, 32) Davidson, Eugene, The Making of Adolf Hitler: The Birth and Rise of Nazism, University of Missouri Press, 1977 (III: 4, 5, 6) Credits Clothing: A Social History Karlekar, Malavika, ed., Visualizing Indian Women 1875–1947, OUP, New Delhi. Moynahan, Brian, The Russian Century, Seven Dials Illustrated Division, The Orion Publishing Group, 1999 (II: 5, 7, 8, 19) Obolensky, Chloe, The Russian Empire: A Portrait in Photographs, Jonathan Cape Ltd., London, 1980 (II: 6) Obshchestvo i Vlast v 30 – yegody, Moscow 1998 (II: 15, 16,17) Peluso, Nancy, Rich Forests, Poor People, Berkeley: University of California Press, 1992 (IV: 15, 21, 24) Rees, Laurence, The Nazis: A Warning from History, The New Press, New York, 1997 (III: 7, 17) Rurup, Reinhard, ed., Topography of Terror: A Documentation, Verlag Willmuth Arenhovel, Berlin, 1987 (III: 1, 3, 18, 27) Scott, James, Seeing like a State, New Haven: Yale University Press, 1998 (IV: 8) Stebbing, E P, The Forests of India, John Lane, London (IV: 3, 4, 5, 13, 14, 21) The Times Atlas of World History, ed. Geoffrey Barraclough, Hammond, 1985 (IV: 22) Wegner, Gregory Paul, Anti-Semitism and Schooling under the Third Reich, Routledge Falmer, 2002 (III: 23, 24) Welch, David, The Third Reich: Politics and Propaganda, Routledge, London, 1993(III: 10) Text Some chapters or sections draw substantially from: Peluso, Nancy, Rich Forests, Poor People, Berkeley: University of California Press, 1992 (IV: Section 4) | Identify command word, recall concept, structure answer, then review. |
+| Q   | Question / Task                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Answer Strategy                                                       |
+| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| 1   | 1. Explain why nomadic tribes need to move from one place to another. What are the advantages to the environment of this continuous movement?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Identify command word, recall concept, structure answer, then review. |
+| 2   | 2. Discuss why the colonial government in India brought in the following laws. In each case, explain how the law changed the lives of pastoralists: /head2rightWaste Land rules /head2rightForest Acts /head2rightCriminal Tribes Act /head2rightGrazing Tax                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Identify command word, recall concept, structure answer, then review. |
+| 3   | 3. Give reasons to explain why the Maasai community lost their grazing lands.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Identify command word, recall concept, structure answer, then review. |
+| 4   | 4. There are many similarities in the way in which the modern world forced changes in the lives of p astoral communities in India and East Africa. Write about any two examples of changes which were similar for Indian pastoralists and the Maasai herders.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Identify command word, recall concept, structure answer, then review. |
+| 5   | 1. Imagine that it is 1950 and you are a 60 -year-old Raika herder living in post-Independence India. You are telling your grand-daughter about the changes which have taken place in your lifestyle after Independence. What would you say?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Identify command word, recall concept, structure answer, then review. |
+| 6   | 2. Imagine that you have been asked by a famous magazine to write an article about the life and customs of the Maasai in pre-colonial Africa. Write the article, giving it an interesting title.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Identify command word, recall concept, structure answer, then review. |
+| 7   | 3. Find out more about the some of the pastoral communities marked in Figs. 11 and 13. Activities Reprint 2025-26 Clothing: A Social History Photographs and pictures We would like to acknowledge the following: Institutions and photo archives: Central State Archives of Film-Photo Phono Documents of the USSR (II: 13) Forest Research Institute in Dehradun (IV: 17) Jewish Historical Institute, Warsaw, Poland (III: 31) Majdanek Museum Archives, Lublin, Poland (III: 22) Publications Division, Ministry of Information and Broadcasting, GOI (Most of the Gandhi Photographs) The United States Holocaust Memorial Museum (III: 14, 22) Journals Indian Forester (IV: 10, 11) The Illustrated London News (II: 2; VII: 7, 8, 9,16) Individuals Barnela, Sanjay (IV: 11, 12, 15, 16; V: 8, 10 ) Saberwal, Vasant (V: 3, 4) Sundar, Nandini (IV: 6, 13, 14, 17) Publishers and authors Ballantine, Betty and Ian Ballantine, eds., The Native Americans: An Illustrated History. Atlanta: Turner Publishing Inc., 1993 (IV: 2) Berelowitch, Wladimir and Laurent Gervereau, Russie URSS, 1914 -1991 (II: 10) Burleigh, Michael and Wolfgang Wippermann, The Racial State: Germany 1933-1945, Cambridge University Press (III: 13, 15, 16, 25, 31, 32) Davidson, Eugene, The Making of Adolf Hitler: The Birth and Rise of Nazism, University of Missouri Press, 1977 (III: 4, 5, 6) Credits Clothing: A Social History Karlekar, Malavika, ed., Visualizing Indian Women 1875–1947, OUP, New Delhi. Moynahan, Brian, The Russian Century, Seven Dials Illustrated Division, The Orion Publishing Group, 1999 (II: 5, 7, 8, 19) Obolensky, Chloe, The Russian Empire: A Portrait in Photographs, Jonathan Cape Ltd., London, 1980 (II: 6) Obshchestvo i Vlast v 30 – yegody, Moscow 1998 (II: 15, 16,17) Peluso, Nancy, Rich Forests, Poor People, Berkeley: University of California Press, 1992 (IV: 15, 21, 24) Rees, Laurence, The Nazis: A Warning from History, The New Press, New York, 1997 (III: 7, 17) Rurup, Reinhard, ed., Topography of Terror: A Documentation, Verlag Willmuth Arenhovel, Berlin, 1987 (III: 1, 3, 18, 27) Scott, James, Seeing like a State, New Haven: Yale University Press, 1998 (IV: 8) Stebbing, E P, The Forests of India, John Lane, London (IV: 3, 4, 5, 13, 14, 21) The Times Atlas of World History, ed. Geoffrey Barraclough, Hammond, 1985 (IV: 22) Wegner, Gregory Paul, Anti-Semitism and Schooling under the Third Reich, Routledge Falmer, 2002 (III: 23, 24) Welch, David, The Third Reich: Politics and Propaganda, Routledge, London, 1993(III: 10) Text Some chapters or sections draw substantially from: Peluso, Nancy, Rich Forests, Poor People, Berkeley: University of California Press, 1992 (IV: Section 4) | Identify command word, recall concept, structure answer, then review. |
 
 ---
 
 ## 🧩 Answer-Writing Framework
 
-| Step | What To Do |
-|---|---|
-| 1 | Place the event or process in time and region. |
-| 2 | Name the main actors or groups. |
-| 3 | Explain causes and conditions. |
-| 4 | Describe major developments in sequence. |
-| 5 | End with consequences or historical significance. |
+| Step | What To Do                                        |
+| ---- | ------------------------------------------------- |
+| 1    | Place the event or process in time and region.    |
+| 2    | Name the main actors or groups.                   |
+| 3    | Explain causes and conditions.                    |
+| 4    | Describe major developments in sequence.          |
+| 5    | End with consequences or historical significance. |
 
 ---
 
 ## ⚠️ Common Misconceptions
 
-| # | Watch Out For This |
-|---|---|
-| 1 | History is not only dates; dates support change over time. |
-| 2 | Do not confuse immediate causes with long-term causes. |
-| 3 | A source or image must be interpreted, not merely described. |
+| #   | Watch Out For This                                           |
+| --- | ------------------------------------------------------------ |
+| 1   | History is not only dates; dates support change over time.   |
+| 2   | Do not confuse immediate causes with long-term causes.       |
+| 3   | A source or image must be interpreted, not merely described. |
 
 ---
 
 ## 📋 Quick Revision Sheet
 
-| Revision Item | What To Recall |
-|---|---|
-| Chapter core | Pastoralists in the Modern World |
-| Intro | Core chapter narrative |
-| Definition | forming what |
-| Definition | and their settlement |
+| Revision Item | What To Recall                   |
+| ------------- | -------------------------------- |
+| Chapter core  | Pastoralists in the Modern World |
+| Intro         | Core chapter narrative           |
+| Definition    | forming what                     |
+| Definition    | and their settlement             |
 
 ---
 
 ## ✅ Pilot Quality Checklist
 
-| Check | Status |
-|---|---|
-| Raw data preserved | Yes — chapter content is retained and cleaned, not summarised away. |
-| Learner scaffolding added | Yes — roadmap, outcomes, answer framework, misconceptions, and revision sheet. |
-| Subject-aware structure | Yes — generated from the selected subject family profile. |
-| Needs human review | Yes — especially source extraction mismatches, diagrams, tables, formulas, and broken OCR words. |
+| Check                     | Status                                                                                           |
+| ------------------------- | ------------------------------------------------------------------------------------------------ |
+| Raw data preserved        | Yes — chapter content is retained and cleaned, not summarised away.                              |
+| Learner scaffolding added | Yes — roadmap, outcomes, answer framework, misconceptions, and revision sheet.                   |
+| Subject-aware structure   | Yes — generated from the selected subject family profile.                                        |
+| Needs human review        | Yes — especially source extraction mismatches, diagrams, tables, formulas, and broken OCR words. |
 
 ---
 
-*Source: NCERT Class 9 — Social History, Chapter 5. Raw file: `data/class_9/social_history/chapter_05.md`.*
+_Source: NCERT Class 9 — Social History, Chapter 5. Raw file: `data/class_9/social_history/chapter_05.md`._

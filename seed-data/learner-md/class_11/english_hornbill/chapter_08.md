@@ -1,4 +1,5 @@
 # Chapter 8: Silk Road
+
 ### NCERT Class 11 English Hornbill
 
 ---
@@ -34,15 +35,15 @@ After studying this chapter, you should be able to:
 
 ## 1. Chapter Snapshot
 
-| Element | Details |
-|---|---|
-| Text type | Travelogue |
-| Writer | Nick Middleton |
-| Main journey | Across Tibet toward Mount Kailash |
-| Main places | Tibetan plateau, Hor, Darchen, route to Kailash |
-| Main companions | Tsetan, Daniel, Norbu |
-| Tone | Observant, humorous, reflective, sometimes anxious |
-| Themes | Travel hardship, pilgrimage, cultural contact, endurance, companionship |
+| Element         | Details                                                                 |
+| --------------- | ----------------------------------------------------------------------- |
+| Text type       | Travelogue                                                              |
+| Writer          | Nick Middleton                                                          |
+| Main journey    | Across Tibet toward Mount Kailash                                       |
+| Main places     | Tibetan plateau, Hor, Darchen, route to Kailash                         |
+| Main companions | Tsetan, Daniel, Norbu                                                   |
+| Tone            | Observant, humorous, reflective, sometimes anxious                      |
+| Themes          | Travel hardship, pilgrimage, cultural contact, endurance, companionship |
 
 ---
 
@@ -82,12 +83,12 @@ Mount Kailash is a sacred mountain for several religious traditions. The kora is
 
 For pilgrims, the journey is spiritual. For the narrator, it is also physical, cultural, and personal.
 
-| Term | Meaning |
-|---|---|
-| Kailash | Sacred mountain |
-| Kora | Pilgrimage circuit around a sacred place |
-| Darchen | Starting point for the Kailash kora |
-| Pilgrim | A person making a religious journey |
+| Term    | Meaning                                  |
+| ------- | ---------------------------------------- |
+| Kailash | Sacred mountain                          |
+| Kora    | Pilgrimage circuit around a sacred place |
+| Darchen | Starting point for the Kailash kora      |
+| Pilgrim | A person making a religious journey      |
 
 ---
 
@@ -111,13 +112,13 @@ This part shows that travel in high-altitude regions is not romantic or easy. It
 
 Tsetan is practical, experienced, and helpful.
 
-| Trait | Explanation |
-|---|---|
-| Responsible | He takes the narrator to the doctor |
-| Experienced | He understands travel conditions |
-| Calm | He does not panic during the narrator's illness |
-| Practical | He leaves after seeing the narrator is better |
-| Humorous | His comments mix concern with businesslike realism |
+| Trait       | Explanation                                        |
+| ----------- | -------------------------------------------------- |
+| Responsible | He takes the narrator to the doctor                |
+| Experienced | He understands travel conditions                   |
+| Calm        | He does not panic during the narrator's illness    |
+| Practical   | He leaves after seeing the narrator is better      |
+| Humorous    | His comments mix concern with businesslike realism |
 
 Tsetan represents local knowledge and reliable support.
 
@@ -127,12 +128,12 @@ Tsetan represents local knowledge and reliable support.
 
 The author expects Darchen to be full of pilgrims because it is the starting point for the kora. Instead, he finds it dusty, quiet, and disappointing.
 
-| Expectation | Reality |
-|---|---|
-| Busy pilgrimage town | Few or no pilgrims at that time |
-| Spiritual excitement | Dust, rubble, basic shops |
-| Clear onward plan | Uncertainty about route and snow |
-| Company for kora | Loneliness until Norbu appears |
+| Expectation          | Reality                          |
+| -------------------- | -------------------------------- |
+| Busy pilgrimage town | Few or no pilgrims at that time  |
+| Spiritual excitement | Dust, rubble, basic shops        |
+| Clear onward plan    | Uncertainty about route and snow |
+| Company for kora     | Loneliness until Norbu appears   |
 
 His view improves after rest and recovery, showing how physical condition affects perception.
 
@@ -172,31 +173,31 @@ Humour makes the travelogue human and lively.
 
 ## 10. Travel-Writing Features
 
-| Feature | Use in the chapter |
-|---|---|
-| First-person narration | Gives personal experience directly |
-| Description of place | Makes Tibetan landscape and towns visible |
-| Cultural detail | Shows local medicine, prayer flags, pilgrimage practice |
-| Physical hardship | Makes journey realistic |
-| Character encounters | Tsetan and Norbu shape the journey |
-| Reflection | The author interprets his own fear, hope, and disappointment |
+| Feature                | Use in the chapter                                           |
+| ---------------------- | ------------------------------------------------------------ |
+| First-person narration | Gives personal experience directly                           |
+| Description of place   | Makes Tibetan landscape and towns visible                    |
+| Cultural detail        | Shows local medicine, prayer flags, pilgrimage practice      |
+| Physical hardship      | Makes journey realistic                                      |
+| Character encounters   | Tsetan and Norbu shape the journey                           |
+| Reflection             | The author interprets his own fear, hope, and disappointment |
 
 ---
 
 ## 11. Important Vocabulary
 
-| Word or expression | Learner meaning |
-|---|---|
-| Aversion | Strong dislike or unwillingness |
-| Paraphernalia | Equipment or items connected with an activity |
-| Rudimentary | Basic, simple, not fully developed |
-| Incongruous | Strange because it does not fit the surroundings |
-| Kora | Pilgrimage circuit around a sacred place |
-| Derelict | Neglected or in poor condition |
-| Self-help programme | Personal attempt to improve one's outlook |
-| Positive thinking | Trying to remain hopeful |
-| Pilgrimage | Religious journey |
-| Fieldwork | Research done outside the library or office |
+| Word or expression  | Learner meaning                                  |
+| ------------------- | ------------------------------------------------ |
+| Aversion            | Strong dislike or unwillingness                  |
+| Paraphernalia       | Equipment or items connected with an activity    |
+| Rudimentary         | Basic, simple, not fully developed               |
+| Incongruous         | Strange because it does not fit the surroundings |
+| Kora                | Pilgrimage circuit around a sacred place         |
+| Derelict            | Neglected or in poor condition                   |
+| Self-help programme | Personal attempt to improve one's outlook        |
+| Positive thinking   | Trying to remain hopeful                         |
+| Pilgrimage          | Religious journey                                |
+| Fieldwork           | Research done outside the library or office      |
 
 ---
 
@@ -252,14 +253,14 @@ Humour makes the travelogue human and lively.
 
 ## 14. Poem Snapshot
 
-| Element | Details |
-|---|---|
-| Poem | Father to Son |
-| Poet | Elizabeth Jennings |
-| Speaker | A father |
-| Main concern | Emotional distance between father and son |
-| Tone | Sad, helpless, reflective, longing |
-| Themes | Generation gap, alienation, communication failure, desire for reconciliation |
+| Element      | Details                                                                      |
+| ------------ | ---------------------------------------------------------------------------- |
+| Poem         | Father to Son                                                                |
+| Poet         | Elizabeth Jennings                                                           |
+| Speaker      | A father                                                                     |
+| Main concern | Emotional distance between father and son                                    |
+| Tone         | Sad, helpless, reflective, longing                                           |
+| Themes       | Generation gap, alienation, communication failure, desire for reconciliation |
 
 ---
 
@@ -277,13 +278,13 @@ The central idea is:
 
 The conflict is not a loud quarrel. It is a silent emotional distance.
 
-| Father's feeling | Explanation |
-|---|---|
-| Confusion | He does not understand his son |
-| Regret | He wonders whether he failed as a parent |
-| Longing | He wants the son to return emotionally |
-| Helplessness | He cannot find the right way to communicate |
-| Love | He still wants reconciliation |
+| Father's feeling | Explanation                                 |
+| ---------------- | ------------------------------------------- |
+| Confusion        | He does not understand his son              |
+| Regret           | He wonders whether he failed as a parent    |
+| Longing          | He wants the son to return emotionally      |
+| Helplessness     | He cannot find the right way to communicate |
+| Love             | He still wants reconciliation               |
 
 The son is also troubled. The poem suggests that both sides suffer, even if they cannot express it properly.
 
@@ -291,26 +292,26 @@ The son is also troubled. The poem suggests that both sides suffer, even if they
 
 ## 17. Major Themes in Father to Son
 
-| Theme | Explanation |
-|---|---|
-| Generation gap | Parent and child belong to different emotional worlds |
-| Communication failure | They speak but do not truly understand |
-| Alienation | They feel like strangers despite living together |
-| Regret | The father questions his own role |
-| Forgiveness | Both long for something to forgive |
-| Reconciliation | The poem ends with a desire to reconnect |
+| Theme                 | Explanation                                           |
+| --------------------- | ----------------------------------------------------- |
+| Generation gap        | Parent and child belong to different emotional worlds |
+| Communication failure | They speak but do not truly understand                |
+| Alienation            | They feel like strangers despite living together      |
+| Regret                | The father questions his own role                     |
+| Forgiveness           | Both long for something to forgive                    |
+| Reconciliation        | The poem ends with a desire to reconnect              |
 
 ---
 
 ## 18. Poetic Features
 
-| Feature | Effect |
-|---|---|
-| First-person voice | Shows father's inner pain directly |
-| Simple language | Makes the emotional conflict clear |
-| Metaphor of seed and land | Suggests parenting, growth, and separation |
-| Silence imagery | Shows lack of communication |
-| Open emotional ending | Shows longing rather than complete solution |
+| Feature                   | Effect                                      |
+| ------------------------- | ------------------------------------------- |
+| First-person voice        | Shows father's inner pain directly          |
+| Simple language           | Makes the emotional conflict clear          |
+| Metaphor of seed and land | Suggests parenting, growth, and separation  |
+| Silence imagery           | Shows lack of communication                 |
+| Open emotional ending     | Shows longing rather than complete solution |
 
 ---
 

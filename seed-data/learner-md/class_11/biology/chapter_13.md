@@ -4,16 +4,16 @@ Class 11 Biology
 
 ## Chapter Profile
 
-| Item | Details |
-|---|---|
-| Class | 11 |
-| Subject | Biology |
-| Chapter | 13 |
-| Title | Plant Growth and Development |
-| Main theme | How plants grow, differentiate, respond to signals, and complete development |
-| Main processes | Growth, differentiation, dedifferentiation, redifferentiation, development, PGR action |
-| Core skill | Connect meristems, growth rates, and plant growth regulators with plant form and function |
-| Learner goal | Explain how internal and external factors control plant growth and development |
+| Item           | Details                                                                                   |
+| -------------- | ----------------------------------------------------------------------------------------- |
+| Class          | 11                                                                                        |
+| Subject        | Biology                                                                                   |
+| Chapter        | 13                                                                                        |
+| Title          | Plant Growth and Development                                                              |
+| Main theme     | How plants grow, differentiate, respond to signals, and complete development              |
+| Main processes | Growth, differentiation, dedifferentiation, redifferentiation, development, PGR action    |
+| Core skill     | Connect meristems, growth rates, and plant growth regulators with plant form and function |
+| Learner goal   | Explain how internal and external factors control plant growth and development            |
 
 ## How To Study This Chapter
 
@@ -85,49 +85,49 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Growth | Irreversible permanent increase in size of an organ, part, organism, or cell |
-| Development | Overall sequence of changes from germination to senescence |
-| Differentiation | Maturation of cells for specific functions |
-| Dedifferentiation | Regaining division capacity by mature living cells |
-| Redifferentiation | Newly divided cells again mature into specialised cells |
-| Meristem | Plant tissue with actively dividing cells |
-| Indeterminate growth | Growth that can continue throughout life |
-| Determinate growth | Growth that stops after a certain stage |
-| Open growth | Continuous addition of new cells by meristems |
-| Primary growth | Length increase due to apical meristems |
-| Secondary growth | Girth increase due to lateral meristems |
-| Growth rate | Increase in growth per unit time |
-| Arithmetic growth | Growth where only one daughter cell continues division |
-| Geometric growth | Growth where both daughter cells continue division for a time |
-| Sigmoid curve | S-shaped growth curve with lag, log, and stationary phases |
-| Absolute growth rate | Total growth per unit time |
-| Relative growth rate | Growth per unit time expressed relative to initial size |
-| Plasticity | Ability of plants to follow different developmental pathways |
-| Heterophylly | Production of different leaf forms in the same plant |
-| PGR | Plant growth regulator |
-| Auxin | PGR mainly linked with cell elongation, apical dominance, rooting, and parthenocarpy |
-| Gibberellin | PGR linked with stem elongation, bolting, seed germination, and delayed senescence |
-| Cytokinin | PGR linked with cell division, shoot formation, nutrient mobilisation, and delayed senescence |
-| Ethylene | Gaseous PGR linked with fruit ripening, senescence, abscission, and stress responses |
-| Abscisic acid | PGR linked with dormancy, stomatal closure, and stress tolerance |
-| Apical dominance | Inhibition of lateral buds by growing shoot apex |
-| Senescence | Ageing process leading to functional decline |
-| Abscission | Shedding of leaves, flowers, or fruits |
-| Dormancy | Suspended growth state |
-| Photoperiodism | Flowering response to relative lengths of light and darkness |
-| Vernalisation | Promotion of flowering by cold treatment |
+| Term                 | Meaning                                                                                       |
+| -------------------- | --------------------------------------------------------------------------------------------- |
+| Growth               | Irreversible permanent increase in size of an organ, part, organism, or cell                  |
+| Development          | Overall sequence of changes from germination to senescence                                    |
+| Differentiation      | Maturation of cells for specific functions                                                    |
+| Dedifferentiation    | Regaining division capacity by mature living cells                                            |
+| Redifferentiation    | Newly divided cells again mature into specialised cells                                       |
+| Meristem             | Plant tissue with actively dividing cells                                                     |
+| Indeterminate growth | Growth that can continue throughout life                                                      |
+| Determinate growth   | Growth that stops after a certain stage                                                       |
+| Open growth          | Continuous addition of new cells by meristems                                                 |
+| Primary growth       | Length increase due to apical meristems                                                       |
+| Secondary growth     | Girth increase due to lateral meristems                                                       |
+| Growth rate          | Increase in growth per unit time                                                              |
+| Arithmetic growth    | Growth where only one daughter cell continues division                                        |
+| Geometric growth     | Growth where both daughter cells continue division for a time                                 |
+| Sigmoid curve        | S-shaped growth curve with lag, log, and stationary phases                                    |
+| Absolute growth rate | Total growth per unit time                                                                    |
+| Relative growth rate | Growth per unit time expressed relative to initial size                                       |
+| Plasticity           | Ability of plants to follow different developmental pathways                                  |
+| Heterophylly         | Production of different leaf forms in the same plant                                          |
+| PGR                  | Plant growth regulator                                                                        |
+| Auxin                | PGR mainly linked with cell elongation, apical dominance, rooting, and parthenocarpy          |
+| Gibberellin          | PGR linked with stem elongation, bolting, seed germination, and delayed senescence            |
+| Cytokinin            | PGR linked with cell division, shoot formation, nutrient mobilisation, and delayed senescence |
+| Ethylene             | Gaseous PGR linked with fruit ripening, senescence, abscission, and stress responses          |
+| Abscisic acid        | PGR linked with dormancy, stomatal closure, and stress tolerance                              |
+| Apical dominance     | Inhibition of lateral buds by growing shoot apex                                              |
+| Senescence           | Ageing process leading to functional decline                                                  |
+| Abscission           | Shedding of leaves, flowers, or fruits                                                        |
+| Dormancy             | Suspended growth state                                                                        |
+| Photoperiodism       | Flowering response to relative lengths of light and darkness                                  |
+| Vernalisation        | Promotion of flowering by cold treatment                                                      |
 
 ## Chapter Map
 
-| Unit | Topic | What To Master |
-|---|---|---|
-| 13.1 | Growth | Definition, measurement, phases, rates, conditions |
-| 13.2 | Differentiation | Differentiation, dedifferentiation, redifferentiation |
-| 13.3 | Development | Plasticity, heterophylly, intrinsic and extrinsic control |
-| 13.4 | PGRs | Types, discovery, functions, applications |
-| 13.5 | Flowering control | Photoperiodism and vernalisation |
+| Unit | Topic             | What To Master                                            |
+| ---- | ----------------- | --------------------------------------------------------- |
+| 13.1 | Growth            | Definition, measurement, phases, rates, conditions        |
+| 13.2 | Differentiation   | Differentiation, dedifferentiation, redifferentiation     |
+| 13.3 | Development       | Plasticity, heterophylly, intrinsic and extrinsic control |
+| 13.4 | PGRs              | Types, discovery, functions, applications                 |
+| 13.5 | Flowering control | Photoperiodism and vernalisation                          |
 
 ## 1. Big Idea Of Plant Development
 
@@ -340,14 +340,14 @@ Different organs grow in different ways.
 
 ## 6.2 Examples Of Growth Measurement
 
-| Plant Part Or Situation | Best Growth Parameter |
-|---|---|
-| Root tip | Cell number or length |
-| Pollen tube | Length |
-| Leaf | Area |
-| Fruit | Volume or fresh weight |
-| Storage tissue | Dry weight |
-| Meristem | Cell division rate |
+| Plant Part Or Situation | Best Growth Parameter  |
+| ----------------------- | ---------------------- |
+| Root tip                | Cell number or length  |
+| Pollen tube             | Length                 |
+| Leaf                    | Area                   |
+| Fruit                   | Volume or fresh weight |
+| Storage tissue          | Dry weight             |
+| Meristem                | Cell division rate     |
 
 ## 7. Phases Of Growth
 
@@ -825,13 +825,13 @@ PGRs have diverse chemical nature.
 
 Examples:
 
-| PGR Type | Chemical Nature Example |
-|---|---|
-| Auxin | Indole compound such as IAA |
-| Cytokinin | Adenine derivative such as kinetin |
-| ABA | Carotenoid derivative |
-| Gibberellin | Terpene such as GA3 |
-| Ethylene | Gas, C2H4 |
+| PGR Type    | Chemical Nature Example            |
+| ----------- | ---------------------------------- |
+| Auxin       | Indole compound such as IAA        |
+| Cytokinin   | Adenine derivative such as kinetin |
+| ABA         | Carotenoid derivative              |
+| Gibberellin | Terpene such as GA3                |
+| Ethylene    | Gas, C2H4                          |
 
 ## 21.2 Functional Groups Of PGRs
 
@@ -1311,14 +1311,14 @@ After vernalisation, the plant becomes competent to flower when other conditions
 
 ## 32. Applied PGR Choices
 
-| Desired Effect | Suitable PGR |
-|---|---|
-| Induce rooting in a twig | Auxin, such as IBA or NAA |
-| Quickly ripen a fruit | Ethylene or ethephon |
-| Delay leaf senescence | Cytokinin |
+| Desired Effect                 | Suitable PGR                                        |
+| ------------------------------ | --------------------------------------------------- |
+| Induce rooting in a twig       | Auxin, such as IBA or NAA                           |
+| Quickly ripen a fruit          | Ethylene or ethephon                                |
+| Delay leaf senescence          | Cytokinin                                           |
 | Induce growth in axillary buds | Cytokinin, often along with reduced auxin dominance |
-| Bolt a rosette plant | Gibberellin, especially GA3 |
-| Immediate stomatal closure | ABA |
+| Bolt a rosette plant           | Gibberellin, especially GA3                         |
+| Immediate stomatal closure     | ABA                                                 |
 
 ## 33. Common Misconceptions
 
@@ -1868,41 +1868,41 @@ Without leaves, the flowering signal may not form or reach the shoot apex.
 
 ## 40. Rapid Revision Sheet
 
-| Topic | One-Line Revision |
-|---|---|
-| Growth | Irreversible permanent size increase |
-| True growth | Living, metabolic, permanent |
-| Wood swelling | Physical, not true growth |
-| Meristem | Dividing plant tissue |
-| Open growth | Continuous growth from meristems |
-| Primary growth | Length increase |
-| Secondary growth | Girth increase |
+| Topic              | One-Line Revision                         |
+| ------------------ | ----------------------------------------- |
+| Growth             | Irreversible permanent size increase      |
+| True growth        | Living, metabolic, permanent              |
+| Wood swelling      | Physical, not true growth                 |
+| Meristem           | Dividing plant tissue                     |
+| Open growth        | Continuous growth from meristems          |
+| Primary growth     | Length increase                           |
+| Secondary growth   | Girth increase                            |
 | Growth measurement | Weight, length, area, volume, cell number |
-| Meristematic phase | Cell division |
-| Elongation phase | Cell enlargement |
-| Maturation phase | Specialisation |
-| Arithmetic growth | Linear growth |
-| Geometric growth | Exponential growth phase |
-| Sigmoid curve | Lag, log, stationary |
-| Absolute growth | Total increase per time |
-| Relative growth | Increase relative to initial size |
-| Differentiation | Specialisation |
-| Dedifferentiation | Mature cell divides again |
-| Redifferentiation | Specialisation again |
-| Development | Growth plus differentiation |
-| Plasticity | Flexible development |
-| Heterophylly | Different leaf forms |
-| Auxin | Rooting, apical dominance |
-| Gibberellin | Stem elongation, bolting |
-| Cytokinin | Cell division, delayed senescence |
-| Ethylene | Fruit ripening |
-| ABA | Dormancy, stress, stomatal closure |
-| Photoperiodism | Flowering response to day-night length |
-| Vernalisation | Cold-induced flowering competence |
+| Meristematic phase | Cell division                             |
+| Elongation phase   | Cell enlargement                          |
+| Maturation phase   | Specialisation                            |
+| Arithmetic growth  | Linear growth                             |
+| Geometric growth   | Exponential growth phase                  |
+| Sigmoid curve      | Lag, log, stationary                      |
+| Absolute growth    | Total increase per time                   |
+| Relative growth    | Increase relative to initial size         |
+| Differentiation    | Specialisation                            |
+| Dedifferentiation  | Mature cell divides again                 |
+| Redifferentiation  | Specialisation again                      |
+| Development        | Growth plus differentiation               |
+| Plasticity         | Flexible development                      |
+| Heterophylly       | Different leaf forms                      |
+| Auxin              | Rooting, apical dominance                 |
+| Gibberellin        | Stem elongation, bolting                  |
+| Cytokinin          | Cell division, delayed senescence         |
+| Ethylene           | Fruit ripening                            |
+| ABA                | Dormancy, stress, stomatal closure        |
+| Photoperiodism     | Flowering response to day-night length    |
+| Vernalisation      | Cold-induced flowering competence         |
 
 ## 41. Raw File Reference
 
-| Item | Path |
-|---|---|
-| Raw input | `data/class_11/biology/chapter_13.md` |
+| Item             | Path                                             |
+| ---------------- | ------------------------------------------------ |
+| Raw input        | `data/class_11/biology/chapter_13.md`            |
 | Formatted output | `data_learner_md/class_11/biology/chapter_13.md` |

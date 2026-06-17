@@ -39,57 +39,57 @@ By the end of this chapter, you should be able to:
 
 ## Big Picture Map
 
-| Theme | Key Fact | Why It Matters |
-| --- | --- | --- |
-| Latitude | Mainland India extends roughly from 8 degrees 4 minutes N to 37 degrees 6 minutes N | Explains tropical and subtropical location. |
-| Southern territorial extent | India's southern boundary extends to about 6 degrees 45 minutes N in the Bay of Bengal | Includes island territory. |
-| Longitude | India has nearly 30 degrees of east-west extent | Creates almost two hours of local time difference. |
-| Standard meridian | 82 degrees 30 minutes E | Basis of Indian Standard Time. |
-| Area | About 3.28 million sq km | India is the seventh largest country. |
-| World share | About 2.4 percent of world land area | Shows India's geographical scale. |
-| North-south distance | About 3,214 km | Shows latitudinal spread. |
-| East-west distance | About 2,933 km | Shows longitudinal spread. |
-| Coastline | About 6,100 km mainland and 7,517 km including islands | Gives maritime links and resources. |
-| Subcontinent | India, Pakistan, Nepal, Bhutan, Bangladesh | A geographic region shaped partly by barriers and shared history. |
+| Theme                       | Key Fact                                                                               | Why It Matters                                                    |
+| --------------------------- | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| Latitude                    | Mainland India extends roughly from 8 degrees 4 minutes N to 37 degrees 6 minutes N    | Explains tropical and subtropical location.                       |
+| Southern territorial extent | India's southern boundary extends to about 6 degrees 45 minutes N in the Bay of Bengal | Includes island territory.                                        |
+| Longitude                   | India has nearly 30 degrees of east-west extent                                        | Creates almost two hours of local time difference.                |
+| Standard meridian           | 82 degrees 30 minutes E                                                                | Basis of Indian Standard Time.                                    |
+| Area                        | About 3.28 million sq km                                                               | India is the seventh largest country.                             |
+| World share                 | About 2.4 percent of world land area                                                   | Shows India's geographical scale.                                 |
+| North-south distance        | About 3,214 km                                                                         | Shows latitudinal spread.                                         |
+| East-west distance          | About 2,933 km                                                                         | Shows longitudinal spread.                                        |
+| Coastline                   | About 6,100 km mainland and 7,517 km including islands                                 | Gives maritime links and resources.                               |
+| Subcontinent                | India, Pakistan, Nepal, Bhutan, Bangladesh                                             | A geographic region shaped partly by barriers and shared history. |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Latitude | Angular distance north or south of the equator. |
-| Longitude | Angular distance east or west of the Prime Meridian. |
-| Standard meridian | A selected longitude used to calculate standard time for a country. |
-| Indian Standard Time | The standard time followed across India, based on 82 degrees 30 minutes E. |
-| Greenwich Mean Time | Time at the Prime Meridian, used as a global reference. |
-| Territorial waters | Sea area extending from the coast over which a country has legal authority. |
-| Nautical mile | A unit used for sea distance; one nautical mile is about 1.852 km. |
-| Indian subcontinent | A large geographical region including India and nearby countries, separated partly by mountains and seas. |
-| Coastline | The boundary where land meets the sea. |
-| Gulf | A large inlet of sea partly enclosed by land. |
-| Strait | A narrow passage of water connecting two larger water bodies. |
-| Maritime location | Location related to the sea and sea routes. |
-| Physical barrier | A natural feature such as a mountain range that restricts movement. |
+| Term                 | Meaning                                                                                                   |
+| -------------------- | --------------------------------------------------------------------------------------------------------- |
+| Latitude             | Angular distance north or south of the equator.                                                           |
+| Longitude            | Angular distance east or west of the Prime Meridian.                                                      |
+| Standard meridian    | A selected longitude used to calculate standard time for a country.                                       |
+| Indian Standard Time | The standard time followed across India, based on 82 degrees 30 minutes E.                                |
+| Greenwich Mean Time  | Time at the Prime Meridian, used as a global reference.                                                   |
+| Territorial waters   | Sea area extending from the coast over which a country has legal authority.                               |
+| Nautical mile        | A unit used for sea distance; one nautical mile is about 1.852 km.                                        |
+| Indian subcontinent  | A large geographical region including India and nearby countries, separated partly by mountains and seas. |
+| Coastline            | The boundary where land meets the sea.                                                                    |
+| Gulf                 | A large inlet of sea partly enclosed by land.                                                             |
+| Strait               | A narrow passage of water connecting two larger water bodies.                                             |
+| Maritime location    | Location related to the sea and sea routes.                                                               |
+| Physical barrier     | A natural feature such as a mountain range that restricts movement.                                       |
 
 ---
 
 ## Data Board
 
-| Fact | Value |
-| --- | --- |
-| India's area | About 3.28 million sq km |
-| Share of world land area | About 2.4 percent |
-| Rank by area | Seventh largest country |
-| North-south extent | About 3,214 km |
-| East-west extent | About 2,933 km |
-| Mainland latitudinal extent | About 8 degrees 4 minutes N to 37 degrees 6 minutes N |
-| Southern boundary including islands | About 6 degrees 45 minutes N |
-| Standard meridian | 82 degrees 30 minutes E |
-| IST ahead of GMT | 5 hours 30 minutes |
-| Territorial sea limit | 12 nautical miles, about 21.9 km |
-| Mainland coastline | About 6,100 km |
-| Coastline including islands | About 7,517 km |
+| Fact                                | Value                                                 |
+| ----------------------------------- | ----------------------------------------------------- |
+| India's area                        | About 3.28 million sq km                              |
+| Share of world land area            | About 2.4 percent                                     |
+| Rank by area                        | Seventh largest country                               |
+| North-south extent                  | About 3,214 km                                        |
+| East-west extent                    | About 2,933 km                                        |
+| Mainland latitudinal extent         | About 8 degrees 4 minutes N to 37 degrees 6 minutes N |
+| Southern boundary including islands | About 6 degrees 45 minutes N                          |
+| Standard meridian                   | 82 degrees 30 minutes E                               |
+| IST ahead of GMT                    | 5 hours 30 minutes                                    |
+| Territorial sea limit               | 12 nautical miles, about 21.9 km                      |
+| Mainland coastline                  | About 6,100 km                                        |
+| Coastline including islands         | About 7,517 km                                        |
 
 ---
 
@@ -228,10 +228,10 @@ India has about 30 degrees of latitudinal extent and about 30 degrees of longitu
 
 But the actual distances are not equal.
 
-| Direction | Approximate Distance |
-| --- | ---: |
-| North to south | 3,214 km |
-| East to west | 2,933 km |
+| Direction      | Approximate Distance |
+| -------------- | -------------------: |
+| North to south |             3,214 km |
+| East to west   |             2,933 km |
 
 North-south distance is greater than east-west distance.
 
@@ -533,10 +533,10 @@ about 7,517 km of coastline including mainland and islands
 
 India has two major island groups:
 
-| Island Group | Location |
-| --- | --- |
+| Island Group                | Location      |
+| --------------------------- | ------------- |
 | Andaman and Nicobar Islands | Bay of Bengal |
-| Lakshadweep | Arabian Sea |
+| Lakshadweep                 | Arabian Sea   |
 
 ## 8.4 Importance Of Long Coastline
 
@@ -600,10 +600,10 @@ This shows how narrow water bodies can separate countries while still allowing c
 
 ## 9.4 Gulf And Strait
 
-| Term | Meaning | Example |
-| --- | --- | --- |
-| Gulf | A large inlet of sea partly enclosed by land. | Gulf of Mannar |
-| Strait | A narrow water passage connecting two larger water bodies. | Palk Strait |
+| Term   | Meaning                                                    | Example        |
+| ------ | ---------------------------------------------------------- | -------------- |
+| Gulf   | A large inlet of sea partly enclosed by land.              | Gulf of Mannar |
+| Strait | A narrow water passage connecting two larger water bodies. | Palk Strait    |
 
 ---
 
@@ -764,17 +764,17 @@ Sri Lanka is separated from India by the Gulf of Mannar and Palk Strait.
 
 # 13. Common Mistakes And Corrections
 
-| Mistake | Correct Understanding |
-| --- | --- |
-| India has the same local time everywhere naturally. | Local time differs by longitude, but official time is standardised as IST. |
-| Standard meridian is 82 degrees 30 minutes W. | India's standard meridian is 82 degrees 30 minutes E. |
-| IST is behind GMT. | IST is ahead of GMT by 5 hours 30 minutes. |
-| India's southernmost mainland point is the same as its southern boundary including islands. | Mainland and island extents must be distinguished. |
-| Longitude distance remains the same everywhere. | Distance between longitudes decreases toward the poles. |
-| India's coastline is only 6,100 km. | Mainland coastline is about 6,100 km; including islands it is about 7,517 km. |
-| Sri Lanka is connected to India by land. | It is separated by Gulf of Mannar and Palk Strait. |
-| Gulf and strait mean the same thing. | A gulf is a large inlet; a strait is a narrow water passage connecting larger water bodies. |
-| Physical barriers completely stop interaction today. | Modern transport and communication reduce their limiting effect. |
+| Mistake                                                                                     | Correct Understanding                                                                       |
+| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| India has the same local time everywhere naturally.                                         | Local time differs by longitude, but official time is standardised as IST.                  |
+| Standard meridian is 82 degrees 30 minutes W.                                               | India's standard meridian is 82 degrees 30 minutes E.                                       |
+| IST is behind GMT.                                                                          | IST is ahead of GMT by 5 hours 30 minutes.                                                  |
+| India's southernmost mainland point is the same as its southern boundary including islands. | Mainland and island extents must be distinguished.                                          |
+| Longitude distance remains the same everywhere.                                             | Distance between longitudes decreases toward the poles.                                     |
+| India's coastline is only 6,100 km.                                                         | Mainland coastline is about 6,100 km; including islands it is about 7,517 km.               |
+| Sri Lanka is connected to India by land.                                                    | It is separated by Gulf of Mannar and Palk Strait.                                          |
+| Gulf and strait mean the same thing.                                                        | A gulf is a large inlet; a strait is a narrow water passage connecting larger water bodies. |
+| Physical barriers completely stop interaction today.                                        | Modern transport and communication reduce their limiting effect.                            |
 
 ---
 
@@ -930,4 +930,3 @@ Before moving on, make sure you can:
 - list India's neighbours,
 - distinguish gulf and strait,
 - answer map-based questions clearly.
-

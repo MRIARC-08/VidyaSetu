@@ -46,57 +46,57 @@ By the end of this chapter, you should be able to:
 
 ## Big Picture Map
 
-| Theme | Core Idea | Examples |
-| --- | --- | --- |
-| Natural vegetation | Plant community growing naturally over a long period | Forests, grasslands, mangroves |
-| Vegetation diversity | Climate, soil, relief, and moisture create variation | Himalayas, Western Ghats, deserts, deltas |
-| Forest types | Indian forests are classified by climate and vegetation | Evergreen, deciduous, thorn, montane, littoral |
-| Forest cover | Actual area under tree canopy | Measured by satellite imagery and aerial photographs |
-| Forest conservation | Protection and sustainable management of forests | Forest Policy 1952 and 1988 |
-| Social forestry | Tree planting for environmental and rural development | Urban, rural, community, farm forestry |
-| Wildlife | Natural heritage of animals and plants | Tiger, elephant, snow leopard, musk deer |
-| Biosphere reserves | Representative ecosystems for conservation and research | Nilgiri, Nanda Devi, Sunderbans |
-| People and forests | Forests support livelihoods and culture | Tribal districts and minor forest produce |
+| Theme                | Core Idea                                               | Examples                                             |
+| -------------------- | ------------------------------------------------------- | ---------------------------------------------------- |
+| Natural vegetation   | Plant community growing naturally over a long period    | Forests, grasslands, mangroves                       |
+| Vegetation diversity | Climate, soil, relief, and moisture create variation    | Himalayas, Western Ghats, deserts, deltas            |
+| Forest types         | Indian forests are classified by climate and vegetation | Evergreen, deciduous, thorn, montane, littoral       |
+| Forest cover         | Actual area under tree canopy                           | Measured by satellite imagery and aerial photographs |
+| Forest conservation  | Protection and sustainable management of forests        | Forest Policy 1952 and 1988                          |
+| Social forestry      | Tree planting for environmental and rural development   | Urban, rural, community, farm forestry               |
+| Wildlife             | Natural heritage of animals and plants                  | Tiger, elephant, snow leopard, musk deer             |
+| Biosphere reserves   | Representative ecosystems for conservation and research | Nilgiri, Nanda Devi, Sunderbans                      |
+| People and forests   | Forests support livelihoods and culture                 | Tribal districts and minor forest produce            |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Natural vegetation | Plant community left undisturbed for a long time so species adjust to climate and soil. |
-| Planted vegetation | Vegetation grown under human supervision, such as orchards or plantations. |
-| Forest | Large area dominated by trees, shrubs, climbers, herbs, and associated life forms. |
-| Evergreen forest | Forest that remains green throughout the year because trees do not shed leaves at one fixed time. |
-| Semi-evergreen forest | Forest with a mixture of evergreen and moist deciduous species. |
-| Deciduous forest | Forest where trees shed leaves during a dry season. |
-| Monsoon forest | Another name for tropical deciduous forest in India. |
-| Thorn forest | Dry forest with thorny, drought-resistant shrubs and small trees. |
-| Montane forest | Forest found in mountain areas, changing with altitude. |
-| Alpine pasture | High-altitude grassland used for grazing in mountain regions. |
-| Littoral forest | Coastal forest influenced by sea, tides, estuaries, or coastal wetlands. |
-| Swamp forest | Forest found in waterlogged or marshy areas. |
-| Mangrove | Salt-tolerant coastal vegetation found in tidal flats, estuaries, creeks, and deltas. |
-| Wetland | Area where land is saturated with water for long enough to support water-based ecosystems. |
-| Ramsar Convention | International agreement for protection of wetlands of international importance. |
-| Forest area | Officially recorded forest land, whether trees are present or not. |
-| Forest cover | Actual land area covered by forest canopy. |
-| Dense forest | Forest cover with comparatively higher canopy density. |
-| Open forest | Forest cover with lower canopy density. |
-| Afforestation | Planting trees on land where forest is absent. |
-| Social forestry | Management, protection, and planting of trees to support environmental, social, and rural development. |
-| Agro-forestry | Raising trees and agricultural crops on the same land. |
-| Community forestry | Raising trees on public or community land for community benefit. |
-| Farm forestry | Farmers growing trees on farmland for commercial or non-commercial purposes. |
-| Wildlife | Wild animals, birds, plants, and other organisms living in natural habitats. |
-| Poaching | Illegal hunting or capture of wild animals. |
-| National park | Protected area with strict conservation rules. |
-| Wildlife sanctuary | Protected area for conservation of wildlife and habitat. |
-| Biosphere reserve | Representative terrestrial or coastal ecosystem recognised for conservation, research, and sustainable use. |
-| MAB Programme | UNESCO's Man and Biosphere Programme. |
-| Biodiversity | Variety of life forms in an ecosystem or region. |
-| Endemic species | Species naturally found in a particular region and not widely elsewhere. |
-| Ecotourism | Tourism based on natural areas, ideally supporting conservation and local communities. |
+| Term                  | Meaning                                                                                                     |
+| --------------------- | ----------------------------------------------------------------------------------------------------------- |
+| Natural vegetation    | Plant community left undisturbed for a long time so species adjust to climate and soil.                     |
+| Planted vegetation    | Vegetation grown under human supervision, such as orchards or plantations.                                  |
+| Forest                | Large area dominated by trees, shrubs, climbers, herbs, and associated life forms.                          |
+| Evergreen forest      | Forest that remains green throughout the year because trees do not shed leaves at one fixed time.           |
+| Semi-evergreen forest | Forest with a mixture of evergreen and moist deciduous species.                                             |
+| Deciduous forest      | Forest where trees shed leaves during a dry season.                                                         |
+| Monsoon forest        | Another name for tropical deciduous forest in India.                                                        |
+| Thorn forest          | Dry forest with thorny, drought-resistant shrubs and small trees.                                           |
+| Montane forest        | Forest found in mountain areas, changing with altitude.                                                     |
+| Alpine pasture        | High-altitude grassland used for grazing in mountain regions.                                               |
+| Littoral forest       | Coastal forest influenced by sea, tides, estuaries, or coastal wetlands.                                    |
+| Swamp forest          | Forest found in waterlogged or marshy areas.                                                                |
+| Mangrove              | Salt-tolerant coastal vegetation found in tidal flats, estuaries, creeks, and deltas.                       |
+| Wetland               | Area where land is saturated with water for long enough to support water-based ecosystems.                  |
+| Ramsar Convention     | International agreement for protection of wetlands of international importance.                             |
+| Forest area           | Officially recorded forest land, whether trees are present or not.                                          |
+| Forest cover          | Actual land area covered by forest canopy.                                                                  |
+| Dense forest          | Forest cover with comparatively higher canopy density.                                                      |
+| Open forest           | Forest cover with lower canopy density.                                                                     |
+| Afforestation         | Planting trees on land where forest is absent.                                                              |
+| Social forestry       | Management, protection, and planting of trees to support environmental, social, and rural development.      |
+| Agro-forestry         | Raising trees and agricultural crops on the same land.                                                      |
+| Community forestry    | Raising trees on public or community land for community benefit.                                            |
+| Farm forestry         | Farmers growing trees on farmland for commercial or non-commercial purposes.                                |
+| Wildlife              | Wild animals, birds, plants, and other organisms living in natural habitats.                                |
+| Poaching              | Illegal hunting or capture of wild animals.                                                                 |
+| National park         | Protected area with strict conservation rules.                                                              |
+| Wildlife sanctuary    | Protected area for conservation of wildlife and habitat.                                                    |
+| Biosphere reserve     | Representative terrestrial or coastal ecosystem recognised for conservation, research, and sustainable use. |
+| MAB Programme         | UNESCO's Man and Biosphere Programme.                                                                       |
+| Biodiversity          | Variety of life forms in an ecosystem or region.                                                            |
+| Endemic species       | Species naturally found in a particular region and not widely elsewhere.                                    |
+| Ecotourism            | Tourism based on natural areas, ideally supporting conservation and local communities.                      |
 
 ---
 
@@ -125,12 +125,12 @@ Example:
 
 ## 1.3 Main Difference
 
-| Natural Vegetation | Planted Vegetation |
-| --- | --- |
-| Grows under natural conditions | Grown under human supervision |
-| Species adjust over time | Species selected by people |
+| Natural Vegetation                     | Planted Vegetation                      |
+| -------------------------------------- | --------------------------------------- |
+| Grows under natural conditions         | Grown under human supervision           |
+| Species adjust over time               | Species selected by people              |
 | Found in forests, grasslands, wetlands | Found in orchards, plantations, gardens |
-| Ecologically complex | Often managed for production or beauty |
+| Ecologically complex                   | Often managed for production or beauty  |
 
 ## 1.4 Why Natural Vegetation Matters
 
@@ -162,14 +162,14 @@ India has a wide variety of natural vegetation because the country has wide vari
 
 ## 2.1 Regional Examples
 
-| Region | Vegetation Feature |
-| --- | --- |
-| Himalayan heights | Temperate and alpine vegetation |
-| Western Ghats | Tropical rain forests and shola forests in high areas |
-| Andaman and Nicobar Islands | Tropical rain forests and mangroves |
-| Deltaic regions | Mangroves and swamp forests |
-| Rajasthan desert and semi-desert | Cacti, thorny bushes, scrub vegetation |
-| Northeastern hills | Evergreen and semi-evergreen forests |
+| Region                           | Vegetation Feature                                    |
+| -------------------------------- | ----------------------------------------------------- |
+| Himalayan heights                | Temperate and alpine vegetation                       |
+| Western Ghats                    | Tropical rain forests and shola forests in high areas |
+| Andaman and Nicobar Islands      | Tropical rain forests and mangroves                   |
+| Deltaic regions                  | Mangroves and swamp forests                           |
+| Rajasthan desert and semi-desert | Cacti, thorny bushes, scrub vegetation                |
+| Northeastern hills               | Evergreen and semi-evergreen forests                  |
 
 ## 2.2 Main Lesson
 
@@ -207,15 +207,15 @@ The classification is based on:
 
 ## 3.2 Quick Comparison
 
-| Forest Type | Rainfall Or Location | Major Feature |
-| --- | --- | --- |
-| Tropical evergreen | Above 200 cm; warm humid areas | Dense, layered, green all year |
-| Semi-evergreen | Less rainy parts of evergreen regions | Evergreen and moist deciduous mix |
-| Moist deciduous | 100-200 cm rainfall | Monsoon forests with valuable timber |
-| Dry deciduous | 70-100 cm rainfall | Trees shed leaves in dry season |
-| Thorn | Below 50 cm rainfall | Scrub, thorny, drought resistant |
-| Montane | Mountain areas | Vegetation changes with altitude |
-| Littoral and swamp | Coasts, deltas, wetlands | Mangroves and water-tolerant species |
+| Forest Type        | Rainfall Or Location                  | Major Feature                        |
+| ------------------ | ------------------------------------- | ------------------------------------ |
+| Tropical evergreen | Above 200 cm; warm humid areas        | Dense, layered, green all year       |
+| Semi-evergreen     | Less rainy parts of evergreen regions | Evergreen and moist deciduous mix    |
+| Moist deciduous    | 100-200 cm rainfall                   | Monsoon forests with valuable timber |
+| Dry deciduous      | 70-100 cm rainfall                    | Trees shed leaves in dry season      |
+| Thorn              | Below 50 cm rainfall                  | Scrub, thorny, drought resistant     |
+| Montane            | Mountain areas                        | Vegetation changes with altitude     |
+| Littoral and swamp | Coasts, deltas, wetlands              | Mangroves and water-tolerant species |
 
 ---
 
@@ -311,12 +311,12 @@ Important species include:
 
 ## 5.5 Comparison With Evergreen Forest
 
-| Tropical Evergreen | Tropical Semi-Evergreen |
-| --- | --- |
-| Higher rainfall | Slightly less rainfall |
+| Tropical Evergreen      | Tropical Semi-Evergreen                 |
+| ----------------------- | --------------------------------------- |
+| Higher rainfall         | Slightly less rainfall                  |
 | Denser and more layered | Mixed evergreen and deciduous character |
-| Always green | Mostly evergreen appearance |
-| Taller closed canopy | Somewhat more open |
+| Always green            | Mostly evergreen appearance             |
+| Taller closed canopy    | Somewhat more open                      |
 
 ---
 
@@ -896,12 +896,12 @@ It is measured using:
 
 ## 17.3 Key Difference
 
-| Forest Area | Forest Cover |
-| --- | --- |
-| Legal or recorded category | Actual tree canopy on land |
-| Based on revenue records | Based on remote sensing |
+| Forest Area                    | Forest Cover                  |
+| ------------------------------ | ----------------------------- |
+| Legal or recorded category     | Actual tree canopy on land    |
+| Based on revenue records       | Based on remote sensing       |
 | May include land without trees | Shows actual forested surface |
-| Official land status | Ecological reality |
+| Official land status           | Ecological reality            |
 
 ## 17.4 Why The Difference Matters
 
@@ -972,12 +972,12 @@ The chapter notes strong variation in actual forest cover, ranging from low cove
 
 States can be grouped by forest cover percentage:
 
-| Region | Forest Cover Percentage |
-| --- | --- |
-| High concentration | More than 40 percent |
-| Medium concentration | 20-40 percent |
-| Low concentration | 10-20 percent |
-| Very low concentration | Less than 10 percent |
+| Region                 | Forest Cover Percentage |
+| ---------------------- | ----------------------- |
+| High concentration     | More than 40 percent    |
+| Medium concentration   | 20-40 percent           |
+| Low concentration      | 10-20 percent           |
+| Very low concentration | Less than 10 percent    |
 
 ---
 
@@ -1492,26 +1492,26 @@ It also states that 10 biosphere reserves had been recognised by UNESCO's World 
 
 # 31. List Of Biosphere Reserves Mentioned
 
-| No. | Biosphere Reserve | State Or Region |
-| --- | --- | --- |
-| 1 | Nilgiri | Tamil Nadu, Kerala, Karnataka |
-| 2 | Nanda Devi | Uttarakhand |
-| 3 | Nokrek | Meghalaya |
-| 4 | Manas | Assam |
-| 5 | Sunderban | West Bengal |
-| 6 | Gulf of Mannar | Tamil Nadu |
-| 7 | Great Nicobar | Andaman and Nicobar Islands |
-| 8 | Similipal | Odisha |
-| 9 | Dibru-Saikhowa | Assam |
-| 10 | Dehang Debang | Arunachal Pradesh |
-| 11 | Pachmarhi | Madhya Pradesh |
-| 12 | Khangchendzonga | Sikkim |
-| 13 | Agasthyamalai | Tamil Nadu and Kerala |
-| 14 | Achanakmar-Amarkantak | Madhya Pradesh and Chhattisgarh |
-| 15 | Kachchh | Gujarat |
-| 16 | Cold Desert | Himachal Pradesh |
-| 17 | Seshachalam | Andhra Pradesh |
-| 18 | Panna | Madhya Pradesh |
+| No. | Biosphere Reserve     | State Or Region                 |
+| --- | --------------------- | ------------------------------- |
+| 1   | Nilgiri               | Tamil Nadu, Kerala, Karnataka   |
+| 2   | Nanda Devi            | Uttarakhand                     |
+| 3   | Nokrek                | Meghalaya                       |
+| 4   | Manas                 | Assam                           |
+| 5   | Sunderban             | West Bengal                     |
+| 6   | Gulf of Mannar        | Tamil Nadu                      |
+| 7   | Great Nicobar         | Andaman and Nicobar Islands     |
+| 8   | Similipal             | Odisha                          |
+| 9   | Dibru-Saikhowa        | Assam                           |
+| 10  | Dehang Debang         | Arunachal Pradesh               |
+| 11  | Pachmarhi             | Madhya Pradesh                  |
+| 12  | Khangchendzonga       | Sikkim                          |
+| 13  | Agasthyamalai         | Tamil Nadu and Kerala           |
+| 14  | Achanakmar-Amarkantak | Madhya Pradesh and Chhattisgarh |
+| 15  | Kachchh               | Gujarat                         |
+| 16  | Cold Desert           | Himachal Pradesh                |
+| 17  | Seshachalam           | Andhra Pradesh                  |
+| 18  | Panna                 | Madhya Pradesh                  |
 
 ## 31.1 How To Study This List
 
@@ -1732,57 +1732,57 @@ This shows that conservation includes oceans, islands, reefs, and coasts.
 
 ## 36.1 Natural Vegetation vs Planted Vegetation
 
-| Natural Vegetation | Planted Vegetation |
-| --- | --- |
-| Develops naturally | Planted and managed by humans |
-| Species adjust to local conditions | Species selected for use |
-| Ecologically diverse | Often single-species or simplified |
-| Example: natural forest | Example: orchard, plantation |
+| Natural Vegetation                 | Planted Vegetation                 |
+| ---------------------------------- | ---------------------------------- |
+| Develops naturally                 | Planted and managed by humans      |
+| Species adjust to local conditions | Species selected for use           |
+| Ecologically diverse               | Often single-species or simplified |
+| Example: natural forest            | Example: orchard, plantation       |
 
 ## 36.2 Evergreen vs Deciduous Forests
 
-| Evergreen Forest | Deciduous Forest |
-| --- | --- |
-| No fixed leaf-shedding season | Trees shed leaves in dry season |
-| High rainfall and humidity | Moderate rainfall, seasonal dryness |
-| Dense and layered | More open in dry season |
-| Western Ghats, northeast, islands | Large parts of India |
+| Evergreen Forest                  | Deciduous Forest                    |
+| --------------------------------- | ----------------------------------- |
+| No fixed leaf-shedding season     | Trees shed leaves in dry season     |
+| High rainfall and humidity        | Moderate rainfall, seasonal dryness |
+| Dense and layered                 | More open in dry season             |
+| Western Ghats, northeast, islands | Large parts of India                |
 
 ## 36.3 Moist Deciduous vs Dry Deciduous
 
-| Moist Deciduous | Dry Deciduous |
-| --- | --- |
-| 100-200 cm rainfall | 70-100 cm rainfall |
-| More dense | More open |
-| Teak, sal, shisham | Tendu, palas, bel, khair |
+| Moist Deciduous                          | Dry Deciduous                 |
+| ---------------------------------------- | ----------------------------- |
+| 100-200 cm rainfall                      | 70-100 cm rainfall            |
+| More dense                               | More open                     |
+| Teak, sal, shisham                       | Tendu, palas, bel, khair      |
 | Foothills, Odisha, eastern Western Ghats | Peninsular plateau, UP, Bihar |
 
 ## 36.4 Forest Area vs Forest Cover
 
-| Forest Area | Forest Cover |
-| --- | --- |
-| Officially recorded forest land | Actual area with tree canopy |
-| Based on revenue records | Based on remote sensing |
-| May not have trees everywhere | Shows real vegetation cover |
-| Legal concept | Ecological and spatial concept |
+| Forest Area                     | Forest Cover                   |
+| ------------------------------- | ------------------------------ |
+| Officially recorded forest land | Actual area with tree canopy   |
+| Based on revenue records        | Based on remote sensing        |
+| May not have trees everywhere   | Shows real vegetation cover    |
+| Legal concept                   | Ecological and spatial concept |
 
 ## 36.5 National Park vs Wildlife Sanctuary
 
-| National Park | Wildlife Sanctuary |
-| --- | --- |
-| Usually stricter protection | Protection with somewhat more flexibility |
-| Stronger restrictions on human activity | Some regulated activities may be allowed |
-| Protects whole ecosystem | Often focused on species and habitat |
-| Legal conservation area | Legal conservation area |
+| National Park                           | Wildlife Sanctuary                        |
+| --------------------------------------- | ----------------------------------------- |
+| Usually stricter protection             | Protection with somewhat more flexibility |
+| Stronger restrictions on human activity | Some regulated activities may be allowed  |
+| Protects whole ecosystem                | Often focused on species and habitat      |
+| Legal conservation area                 | Legal conservation area                   |
 
 ## 36.6 Social Forestry vs Farm Forestry
 
-| Social Forestry | Farm Forestry |
-| --- | --- |
-| Broad programme for social, environmental, rural development | Trees grown by farmers on farmland |
-| Includes urban, rural, and farm forestry | One part of wider forestry efforts |
-| Often community-oriented | Often household or farm-oriented |
-| Uses public, community, or private land | Uses farm boundaries, fields, pastures |
+| Social Forestry                                              | Farm Forestry                          |
+| ------------------------------------------------------------ | -------------------------------------- |
+| Broad programme for social, environmental, rural development | Trees grown by farmers on farmland     |
+| Includes urban, rural, and farm forestry                     | One part of wider forestry efforts     |
+| Often community-oriented                                     | Often household or farm-oriented       |
+| Uses public, community, or private land                      | Uses farm boundaries, fields, pastures |
 
 ---
 
@@ -1930,30 +1930,30 @@ It is located at Dehradun.
 
 # 39. Data Board
 
-| Data Point | Textbook Value | Use In Answer |
-| --- | --- | --- |
-| Evergreen forest rainfall | Above 200 cm | Forest type conditions |
-| Evergreen forest temperature | Above 22 degrees C mean annual temperature | Climate-vegetation link |
-| Evergreen tree height | Up to 60 m or more | Dense forest structure |
-| Moist deciduous rainfall | 100-200 cm | Forest subtype |
-| Dry deciduous rainfall | 70-100 cm | Forest subtype |
-| Thorn forest rainfall | Below 50 cm | Dry vegetation |
-| Wetland area | 3.9 million hectares | Wetland distribution |
-| Paddy in wetlands | About 70 percent of wetland area | Human use of wetlands |
-| Mangrove area | 6,740 sq km | Mangrove distribution |
-| Indian mangrove share | About 7 percent of world mangroves | Global relevance |
-| Recorded forest area | 23.28 percent | Forest area vs cover |
-| Actual forest cover | 21.05 percent | India State of Forest Report 2011 |
-| Dense forest cover | 12.29 percent | Forest cover category |
-| Open forest cover | 8.75 percent | Forest cover category |
-| Forest policy target | 33 percent geographical area under forest | Conservation policy |
-| Wildlife Act | 1972 | Legal framework |
-| Project Tiger | 1973 | Tiger conservation |
-| Project Elephant | 1992 | Elephant conservation |
-| National parks | 103 | Textbook figure |
-| Wildlife sanctuaries | 535 | Textbook figure |
-| Biosphere reserves | 18 | Table in chapter |
-| UNESCO-recognised biosphere reserves | 10 | Textbook period figure |
+| Data Point                           | Textbook Value                             | Use In Answer                     |
+| ------------------------------------ | ------------------------------------------ | --------------------------------- |
+| Evergreen forest rainfall            | Above 200 cm                               | Forest type conditions            |
+| Evergreen forest temperature         | Above 22 degrees C mean annual temperature | Climate-vegetation link           |
+| Evergreen tree height                | Up to 60 m or more                         | Dense forest structure            |
+| Moist deciduous rainfall             | 100-200 cm                                 | Forest subtype                    |
+| Dry deciduous rainfall               | 70-100 cm                                  | Forest subtype                    |
+| Thorn forest rainfall                | Below 50 cm                                | Dry vegetation                    |
+| Wetland area                         | 3.9 million hectares                       | Wetland distribution              |
+| Paddy in wetlands                    | About 70 percent of wetland area           | Human use of wetlands             |
+| Mangrove area                        | 6,740 sq km                                | Mangrove distribution             |
+| Indian mangrove share                | About 7 percent of world mangroves         | Global relevance                  |
+| Recorded forest area                 | 23.28 percent                              | Forest area vs cover              |
+| Actual forest cover                  | 21.05 percent                              | India State of Forest Report 2011 |
+| Dense forest cover                   | 12.29 percent                              | Forest cover category             |
+| Open forest cover                    | 8.75 percent                               | Forest cover category             |
+| Forest policy target                 | 33 percent geographical area under forest  | Conservation policy               |
+| Wildlife Act                         | 1972                                       | Legal framework                   |
+| Project Tiger                        | 1973                                       | Tiger conservation                |
+| Project Elephant                     | 1992                                       | Elephant conservation             |
+| National parks                       | 103                                        | Textbook figure                   |
+| Wildlife sanctuaries                 | 535                                        | Textbook figure                   |
+| Biosphere reserves                   | 18                                         | Table in chapter                  |
+| UNESCO-recognised biosphere reserves | 10                                         | Textbook period figure            |
 
 ---
 

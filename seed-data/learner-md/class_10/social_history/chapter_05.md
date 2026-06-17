@@ -1,21 +1,22 @@
 # Chapter 5: Print Culture and the Modern World
+
 ### NCERT Class 10 - Social History
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-| --- | --- |
-| Class | 10 |
-| Subject | Social History |
-| Chapter | 5 - Print Culture and the Modern World |
-| Central Question | How did print technology change knowledge, religion, politics, society, reading habits, reform, nationalism, and censorship? |
-| Main Regions | China, Japan, Korea, Europe, Germany, France, Britain, Goa, Bengal, Bombay, North India, Madras, Punjab |
-| Main Period | From early print in East Asia to print culture in nineteenth- and twentieth-century India |
-| Main Themes | Woodblock printing, Gutenberg press, print revolution, reading public, religious debate, French Revolution, women and print, poor readers, reform, nationalism, censorship |
-| Main Skills | Chronology, cause-effect analysis, social change, source interpretation, comparing regions, linking technology with politics |
-| Exam Importance | Very high: Gutenberg press, Luther, print revolution, French Revolution, Vernacular Press Act, women and print, poor people, reformers, nationalism |
+| Detail           | Learner-Friendly Information                                                                                                                                               |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Class            | 10                                                                                                                                                                         |
+| Subject          | Social History                                                                                                                                                             |
+| Chapter          | 5 - Print Culture and the Modern World                                                                                                                                     |
+| Central Question | How did print technology change knowledge, religion, politics, society, reading habits, reform, nationalism, and censorship?                                               |
+| Main Regions     | China, Japan, Korea, Europe, Germany, France, Britain, Goa, Bengal, Bombay, North India, Madras, Punjab                                                                    |
+| Main Period      | From early print in East Asia to print culture in nineteenth- and twentieth-century India                                                                                  |
+| Main Themes      | Woodblock printing, Gutenberg press, print revolution, reading public, religious debate, French Revolution, women and print, poor readers, reform, nationalism, censorship |
+| Main Skills      | Chronology, cause-effect analysis, social change, source interpretation, comparing regions, linking technology with politics                                               |
+| Exam Importance  | Very high: Gutenberg press, Luther, print revolution, French Revolution, Vernacular Press Act, women and print, poor people, reformers, nationalism                        |
 
 ---
 
@@ -47,16 +48,16 @@ The key idea is:
 
 After studying this chapter, you should be able to:
 
-| Skill | You Should Be Able To |
-| --- | --- |
-| Define | Explain calligraphy, vellum, platen, compositor, galley, ballad, tavern, Reformation, inquisition, heretical, chapbook, almanac, despotism, manuscript, ulama, fatwa, vernacular press, censorship, sedition. |
-| Describe | Trace the development of print from China, Japan, and Korea to Europe and India. |
-| Explain | Explain how Gutenberg's press changed book production. |
-| Analyse | Explain why print created a new reading public and new public debates. |
-| Evaluate | Discuss why some people celebrated print while others feared it. |
-| Connect | Link print culture with religious reform, French Revolution, social reform, nationalism, and censorship. |
-| Compare | Compare manuscript culture with print culture, and European print with Indian print. |
-| Write | Prepare strong answers for NCERT short and long questions. |
+| Skill    | You Should Be Able To                                                                                                                                                                                         |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Define   | Explain calligraphy, vellum, platen, compositor, galley, ballad, tavern, Reformation, inquisition, heretical, chapbook, almanac, despotism, manuscript, ulama, fatwa, vernacular press, censorship, sedition. |
+| Describe | Trace the development of print from China, Japan, and Korea to Europe and India.                                                                                                                              |
+| Explain  | Explain how Gutenberg's press changed book production.                                                                                                                                                        |
+| Analyse  | Explain why print created a new reading public and new public debates.                                                                                                                                        |
+| Evaluate | Discuss why some people celebrated print while others feared it.                                                                                                                                              |
+| Connect  | Link print culture with religious reform, French Revolution, social reform, nationalism, and censorship.                                                                                                      |
+| Compare  | Compare manuscript culture with print culture, and European print with Indian print.                                                                                                                          |
+| Write    | Prepare strong answers for NCERT short and long questions.                                                                                                                                                    |
 
 ---
 
@@ -94,38 +95,38 @@ Governments censored print because newspapers, books, and pamphlets could create
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Print Culture | Social world created by printed books, newspapers, images, pamphlets, calendars, and public reading. |
-| Woodblock Printing | Printing method in which text or image is carved on a wooden block, inked, and pressed on paper. |
-| Calligraphy | Art of beautiful and stylised writing. |
-| Accordion Book | Traditional Chinese book form folded and stitched at the side. |
-| Manuscript | Handwritten text, often copied on palm leaves or handmade paper. |
-| Vellum | Parchment made from animal skin, used for expensive handwritten books. |
-| Printing Press | Machine that reproduces text or images by pressing inked type or blocks onto paper. |
-| Movable Type | Separate metal letters that can be arranged and rearranged to print different pages. |
-| Platen | Board pressed against paper to take impression from type in letterpress printing. |
-| Compositor | Person who arranges type for printing. |
-| Galley | Metal frame in which type is arranged. |
-| Print Revolution | Transformation in society caused by widespread mechanical printing and circulation of books. |
-| Reading Public | People who read printed material individually or collectively. |
-| Hearing Public | People who received stories, ballads, and religious texts through oral recitation. |
-| Ballad | Historical account or folk tale in verse, usually sung or recited. |
-| Tavern | Public place where people gathered to drink, eat, talk, and exchange news. |
-| Protestant Reformation | Sixteenth-century movement to reform the Roman Catholic Church. |
-| Inquisition | Roman Catholic institution used to identify and punish heresy. |
-| Heretical | Beliefs that went against accepted Church teachings. |
-| Index of Prohibited Books | List of banned books maintained by the Roman Catholic Church from 1558. |
-| Denomination | Subgroup within a religion. |
-| Almanac | Annual publication containing calendar, astronomical, and practical information. |
-| Chapbook | Cheap pocket-size book sold by travelling pedlars called chapmen. |
-| Despotism | Rule by absolute power without legal or constitutional checks. |
-| Vernacular | Everyday regional language spoken by ordinary people. |
-| Ulama | Islamic legal scholars. |
-| Fatwa | Legal opinion on Islamic law given by a qualified scholar. |
-| Censorship | Control or suppression of printed or spoken material by authority. |
-| Sedition | Writing, speech, or action seen as opposing government authority. |
-| Vernacular Press Act | 1878 colonial law giving government power to censor vernacular newspapers in India. |
+| Term                      | Meaning                                                                                              |
+| ------------------------- | ---------------------------------------------------------------------------------------------------- |
+| Print Culture             | Social world created by printed books, newspapers, images, pamphlets, calendars, and public reading. |
+| Woodblock Printing        | Printing method in which text or image is carved on a wooden block, inked, and pressed on paper.     |
+| Calligraphy               | Art of beautiful and stylised writing.                                                               |
+| Accordion Book            | Traditional Chinese book form folded and stitched at the side.                                       |
+| Manuscript                | Handwritten text, often copied on palm leaves or handmade paper.                                     |
+| Vellum                    | Parchment made from animal skin, used for expensive handwritten books.                               |
+| Printing Press            | Machine that reproduces text or images by pressing inked type or blocks onto paper.                  |
+| Movable Type              | Separate metal letters that can be arranged and rearranged to print different pages.                 |
+| Platen                    | Board pressed against paper to take impression from type in letterpress printing.                    |
+| Compositor                | Person who arranges type for printing.                                                               |
+| Galley                    | Metal frame in which type is arranged.                                                               |
+| Print Revolution          | Transformation in society caused by widespread mechanical printing and circulation of books.         |
+| Reading Public            | People who read printed material individually or collectively.                                       |
+| Hearing Public            | People who received stories, ballads, and religious texts through oral recitation.                   |
+| Ballad                    | Historical account or folk tale in verse, usually sung or recited.                                   |
+| Tavern                    | Public place where people gathered to drink, eat, talk, and exchange news.                           |
+| Protestant Reformation    | Sixteenth-century movement to reform the Roman Catholic Church.                                      |
+| Inquisition               | Roman Catholic institution used to identify and punish heresy.                                       |
+| Heretical                 | Beliefs that went against accepted Church teachings.                                                 |
+| Index of Prohibited Books | List of banned books maintained by the Roman Catholic Church from 1558.                              |
+| Denomination              | Subgroup within a religion.                                                                          |
+| Almanac                   | Annual publication containing calendar, astronomical, and practical information.                     |
+| Chapbook                  | Cheap pocket-size book sold by travelling pedlars called chapmen.                                    |
+| Despotism                 | Rule by absolute power without legal or constitutional checks.                                       |
+| Vernacular                | Everyday regional language spoken by ordinary people.                                                |
+| Ulama                     | Islamic legal scholars.                                                                              |
+| Fatwa                     | Legal opinion on Islamic law given by a qualified scholar.                                           |
+| Censorship                | Control or suppression of printed or spoken material by authority.                                   |
+| Sedition                  | Writing, speech, or action seen as opposing government authority.                                    |
+| Vernacular Press Act      | 1878 colonial law giving government power to censor vernacular newspapers in India.                  |
 
 ---
 
@@ -152,14 +153,14 @@ Because print is so common, we may forget that there was a time before printed m
 
 ## What Print Changed
 
-| Before Wide Print | After Wide Print |
-| --- | --- |
+| Before Wide Print                                               | After Wide Print                                     |
+| --------------------------------------------------------------- | ---------------------------------------------------- |
 | Knowledge moved slowly through manuscripts and oral recitation. | Texts and images could circulate quickly and widely. |
-| Books were costly and limited. | Books became cheaper and more numerous. |
-| Reading was mainly for elites. | New groups became readers. |
-| Debate was limited to smaller circles. | Public debate expanded. |
-| Authority controlled knowledge more easily. | Critics could circulate alternative views. |
-| Local identities dominated. | Print connected people across regions. |
+| Books were costly and limited.                                  | Books became cheaper and more numerous.              |
+| Reading was mainly for elites.                                  | New groups became readers.                           |
+| Debate was limited to smaller circles.                          | Public debate expanded.                              |
+| Authority controlled knowledge more easily.                     | Critics could circulate alternative views.           |
+| Local identities dominated.                                     | Print connected people across regions.               |
 
 ## Important Understanding
 
@@ -200,13 +201,13 @@ China had a large bureaucratic system. Officials were recruited through civil se
 
 ## Growth of Print in China
 
-| Period | Change |
-| --- | --- |
-| From AD 594 | Woodblock printing used for books. |
-| Long imperial period | State printed examination textbooks. |
-| Sixteenth century | More candidates meant more printed material. |
-| Seventeenth century | Urban culture expanded and print uses diversified. |
-| Late nineteenth century | Western mechanical presses entered China. |
+| Period                  | Change                                             |
+| ----------------------- | -------------------------------------------------- |
+| From AD 594             | Woodblock printing used for books.                 |
+| Long imperial period    | State printed examination textbooks.               |
+| Sixteenth century       | More candidates meant more printed material.       |
+| Seventeenth century     | Urban culture expanded and print uses diversified. |
+| Late nineteenth century | Western mechanical presses entered China.          |
 
 ## New Readers in China
 
@@ -238,12 +239,12 @@ Japan received hand-printing technology from Chinese Buddhist missionaries.
 
 ## Early Japanese Print
 
-| Fact | Detail |
-| --- | --- |
-| Introduction | Buddhist missionaries from China brought hand-printing to Japan. |
-| Date | Around AD 768-770. |
-| Oldest printed book | Buddhist Diamond Sutra, printed in AD 868. |
-| Printed forms | Texts, woodcut illustrations, textiles, playing cards, and paper money. |
+| Fact                | Detail                                                                  |
+| ------------------- | ----------------------------------------------------------------------- |
+| Introduction        | Buddhist missionaries from China brought hand-printing to Japan.        |
+| Date                | Around AD 768-770.                                                      |
+| Oldest printed book | Buddhist Diamond Sutra, printed in AD 868.                              |
+| Printed forms       | Texts, woodcut illustrations, textiles, playing cards, and paper money. |
 
 ## Japanese Urban Print Culture
 
@@ -323,13 +324,13 @@ Some elites dismissed printed books as cheap or vulgar.
 
 ## Why Manuscripts Could Not Meet Demand
 
-| Problem | Explanation |
-| --- | --- |
-| Expensive | Copying by hand took skilled labour. |
-| Slow | Each copy had to be written manually. |
-| Fragile | Manuscripts could be damaged easily. |
-| Awkward | They were difficult to handle and transport. |
-| Limited circulation | Few copies could be made. |
+| Problem             | Explanation                                  |
+| ------------------- | -------------------------------------------- |
+| Expensive           | Copying by hand took skilled labour.         |
+| Slow                | Each copy had to be written manually.        |
+| Fragile             | Manuscripts could be damaged easily.         |
+| Awkward             | They were difficult to handle and transport. |
+| Limited circulation | Few copies could be made.                    |
 
 ## Growth of Woodblock Printing
 
@@ -366,13 +367,13 @@ He adapted these skills to create a printing system.
 
 ## How Gutenberg's Press Worked
 
-| Element | Role |
-| --- | --- |
-| Olive press model | Inspired the pressing mechanism. |
-| Metal moulds | Used to cast letters. |
-| Movable type | Metal letters could be arranged to form words. |
-| Platen | Pressed paper onto inked type. |
-| Screw and handle | Created pressure for printing. |
+| Element           | Role                                           |
+| ----------------- | ---------------------------------------------- |
+| Olive press model | Inspired the pressing mechanism.               |
+| Metal moulds      | Used to cast letters.                          |
+| Movable type      | Metal letters could be arranged to form words. |
+| Platen            | Pressed paper onto inked type.                 |
+| Screw and handle  | Created pressure for printing.                 |
 
 ## Gutenberg Bible
 
@@ -563,15 +564,15 @@ This created a "reading mania."
 
 Printers produced material for new audiences.
 
-| Printed Form | Features |
-| --- | --- |
-| Almanacs | Calendars with astronomical and practical information. |
-| Ballads | Songs and folk tales in verse. |
-| Chapbooks | Cheap pocket-size books sold by chapmen in England. |
+| Printed Form       | Features                                                                    |
+| ------------------ | --------------------------------------------------------------------------- |
+| Almanacs           | Calendars with astronomical and practical information.                      |
+| Ballads            | Songs and folk tales in verse.                                              |
+| Chapbooks          | Cheap pocket-size books sold by chapmen in England.                         |
 | Bibliotheque Bleue | Cheap small books in France printed on poor-quality paper with blue covers. |
-| Romances | Short entertaining stories. |
-| Histories | Stories about the past. |
-| Periodicals | Newspapers and journals with news and entertainment. |
+| Romances           | Short entertaining stories.                                                 |
+| Histories          | Stories about the past.                                                     |
+| Periodicals        | Newspapers and journals with news and entertainment.                        |
 
 ## Newspapers and Journals
 
@@ -761,14 +762,14 @@ After working hours were shortened from the mid-nineteenth century, some workers
 
 ## Print Technology Innovations
 
-| Innovation | Importance |
-| --- | --- |
-| Metal press | Stronger and more durable than earlier presses. |
-| Power-driven cylindrical press | Perfected by Richard M. Hoe; printed about 8,000 sheets per hour. |
-| Offset press | Could print up to six colours at a time. |
-| Electrically operated presses | Accelerated printing in the twentieth century. |
-| Better paper feeding | Improved speed and regularity. |
-| Better plates and colour controls | Improved appearance of printed texts. |
+| Innovation                        | Importance                                                        |
+| --------------------------------- | ----------------------------------------------------------------- |
+| Metal press                       | Stronger and more durable than earlier presses.                   |
+| Power-driven cylindrical press    | Perfected by Richard M. Hoe; printed about 8,000 sheets per hour. |
+| Offset press                      | Could print up to six colours at a time.                          |
+| Electrically operated presses     | Accelerated printing in the twentieth century.                    |
+| Better paper feeding              | Improved speed and regularity.                                    |
+| Better plates and colour controls | Improved appearance of printed texts.                             |
 
 ## Selling Strategies
 
@@ -809,13 +810,13 @@ They were often:
 
 ## Limits of Manuscripts
 
-| Limitation | Explanation |
-| --- | --- |
-| Expensive | Hand copying required skilled labour. |
-| Fragile | Manuscripts had to be handled carefully. |
-| Difficult to read | Scripts were written in different styles. |
-| Limited circulation | Few copies could be made. |
-| Not everyday objects | They were not widely used in daily life. |
+| Limitation           | Explanation                               |
+| -------------------- | ----------------------------------------- |
+| Expensive            | Hand copying required skilled labour.     |
+| Fragile              | Manuscripts had to be handled carefully.  |
+| Difficult to read    | Scripts were written in different styles. |
+| Limited circulation  | Few copies could be made.                 |
+| Not everyday objects | They were not widely used in daily life.  |
 
 ## Learning Without Reading
 
@@ -835,13 +836,13 @@ Printing came to India through European missionaries and later expanded through 
 
 ## Early Printing in India
 
-| Date / Period | Development |
-| --- | --- |
-| Mid-sixteenth century | Printing press came to Goa with Portuguese missionaries. |
-| By 1674 | About 50 books printed in Konkani and Kanara languages. |
-| 1579 | First Tamil book printed by Catholic priests at Cochin. |
-| 1713 | First Malayalam book printed by Catholic priests. |
-| By 1710 | Dutch Protestant missionaries printed 32 Tamil texts. |
+| Date / Period            | Development                                                                       |
+| ------------------------ | --------------------------------------------------------------------------------- |
+| Mid-sixteenth century    | Printing press came to Goa with Portuguese missionaries.                          |
+| By 1674                  | About 50 books printed in Konkani and Kanara languages.                           |
+| 1579                     | First Tamil book printed by Catholic priests at Cochin.                           |
+| 1713                     | First Malayalam book printed by Catholic priests.                                 |
+| By 1710                  | Dutch Protestant missionaries printed 32 Tamil texts.                             |
 | Late seventeenth century | English East India Company began importing presses, but English press grew later. |
 
 ## Hickey's Bengal Gazette
@@ -1136,10 +1137,10 @@ From the late nineteenth century, caste discrimination became a subject of print
 
 Important figures:
 
-| Figure | Contribution |
-| --- | --- |
-| Jyotiba Phule | Wrote Gulamgiri in 1871, criticising caste injustice. |
-| B.R. Ambedkar | Wrote powerfully against caste oppression in Maharashtra. |
+| Figure                           | Contribution                                                   |
+| -------------------------------- | -------------------------------------------------------------- |
+| Jyotiba Phule                    | Wrote Gulamgiri in 1871, criticising caste injustice.          |
+| B.R. Ambedkar                    | Wrote powerfully against caste oppression in Maharashtra.      |
 | E.V. Ramaswamy Naicker (Periyar) | Wrote against caste hierarchy and social inequality in Madras. |
 
 Local protest movements and sects also produced journals and tracts criticising old scriptures and imagining a just future.
@@ -1204,12 +1205,12 @@ It gave the government extensive power to censor reports and editorials in verna
 
 ## How It Worked
 
-| Step | Government Action |
-| --- | --- |
-| Monitoring | Government tracked vernacular newspapers in different provinces. |
-| Warning | If a report was judged seditious, the newspaper was warned. |
-| Punishment | If warning was ignored, the press could be seized. |
-| Confiscation | Printing machinery could be confiscated. |
+| Step         | Government Action                                                |
+| ------------ | ---------------------------------------------------------------- |
+| Monitoring   | Government tracked vernacular newspapers in different provinces. |
+| Warning      | If a report was judged seditious, the newspaper was warned.      |
+| Punishment   | If warning was ignored, the press could be seized.               |
+| Confiscation | Printing machinery could be confiscated.                         |
 
 ## Nationalist Newspapers
 
@@ -1252,35 +1253,35 @@ This means political freedom required the right to express and form public opini
 
 # Chapter Timeline
 
-| Date / Period | Event |
-| --- | --- |
-| AD 594 | Hand printing began in China through woodblocks. |
-| AD 768-770 | Buddhist missionaries introduced hand printing to Japan. |
-| AD 868 | Diamond Sutra printed. |
-| Eleventh century | Chinese paper reached Europe through the Silk Route. |
-| 1295 | Marco Polo returned to Italy with knowledge of woodblock printing. |
-| 1430s | Gutenberg developed the first known printing press in Europe. |
-| 1448 | Gutenberg perfected his printing system. |
-| 1450-1550 | Printing presses spread across Europe. |
-| 1517 | Martin Luther wrote Ninety-Five Theses. |
-| 1558 | Roman Catholic Church began maintaining Index of Prohibited Books. |
-| Mid-sixteenth century | Printing press came to Goa with Portuguese missionaries. |
-| 1579 | First Tamil book printed at Cochin. |
-| 1674 | About 50 Konkani and Kanara books had been printed. |
-| 1710 | Dutch Protestant missionaries had printed 32 Tamil texts. |
-| 1713 | First Malayalam book printed. |
-| 1780 | Hickey began Bengal Gazette. |
-| 1810 | First printed Ramcharitmanas came out from Calcutta. |
-| 1821 | Rammohun Roy published Sambad Kaumudi. |
-| 1822 | Jam-i-Jahan Nama, Shamsul Akhbar, and Bombay Samachar appeared. |
-| 1857 | Children's press set up in France. |
-| 1867 | Deoband Seminary founded. |
-| 1871 | Jyotiba Phule wrote Gulamgiri. |
-| 1876 | Rashsundari Debi's Amar Jiban published. |
-| 1878 | Vernacular Press Act passed. |
-| 1908 | Tilak imprisoned after writings in Kesari. |
-| 1938 | Kashibaba published Chhote Aur Bade Ka Sawal. |
-| 1942 | Many newspapers suppressed during Quit India Movement. |
+| Date / Period         | Event                                                              |
+| --------------------- | ------------------------------------------------------------------ |
+| AD 594                | Hand printing began in China through woodblocks.                   |
+| AD 768-770            | Buddhist missionaries introduced hand printing to Japan.           |
+| AD 868                | Diamond Sutra printed.                                             |
+| Eleventh century      | Chinese paper reached Europe through the Silk Route.               |
+| 1295                  | Marco Polo returned to Italy with knowledge of woodblock printing. |
+| 1430s                 | Gutenberg developed the first known printing press in Europe.      |
+| 1448                  | Gutenberg perfected his printing system.                           |
+| 1450-1550             | Printing presses spread across Europe.                             |
+| 1517                  | Martin Luther wrote Ninety-Five Theses.                            |
+| 1558                  | Roman Catholic Church began maintaining Index of Prohibited Books. |
+| Mid-sixteenth century | Printing press came to Goa with Portuguese missionaries.           |
+| 1579                  | First Tamil book printed at Cochin.                                |
+| 1674                  | About 50 Konkani and Kanara books had been printed.                |
+| 1710                  | Dutch Protestant missionaries had printed 32 Tamil texts.          |
+| 1713                  | First Malayalam book printed.                                      |
+| 1780                  | Hickey began Bengal Gazette.                                       |
+| 1810                  | First printed Ramcharitmanas came out from Calcutta.               |
+| 1821                  | Rammohun Roy published Sambad Kaumudi.                             |
+| 1822                  | Jam-i-Jahan Nama, Shamsul Akhbar, and Bombay Samachar appeared.    |
+| 1857                  | Children's press set up in France.                                 |
+| 1867                  | Deoband Seminary founded.                                          |
+| 1871                  | Jyotiba Phule wrote Gulamgiri.                                     |
+| 1876                  | Rashsundari Debi's Amar Jiban published.                           |
+| 1878                  | Vernacular Press Act passed.                                       |
+| 1908                  | Tilak imprisoned after writings in Kesari.                         |
+| 1938                  | Kashibaba published Chhote Aur Bade Ka Sawal.                      |
+| 1942                  | Many newspapers suppressed during Quit India Movement.             |
 
 ---
 
@@ -1288,32 +1289,32 @@ This means political freedom required the right to express and form public opini
 
 ## 1. Effects of Gutenberg's Press
 
-| Cause | Effect |
-| --- | --- |
-| Movable metal type | Faster printing of different texts. |
-| Press mechanism | Multiple copies could be produced. |
-| Lower production cost | Books became cheaper. |
-| More books | Wider reading public emerged. |
-| More circulation | Ideas spread rapidly. |
+| Cause                 | Effect                              |
+| --------------------- | ----------------------------------- |
+| Movable metal type    | Faster printing of different texts. |
+| Press mechanism       | Multiple copies could be produced.  |
+| Lower production cost | Books became cheaper.               |
+| More books            | Wider reading public emerged.       |
+| More circulation      | Ideas spread rapidly.               |
 
 ## 2. Why Print Created Fear
 
-| Cause | Effect |
-| --- | --- |
-| Ideas could circulate widely | Religious and political authorities felt threatened. |
-| Ordinary people could interpret texts | Church feared heresy. |
-| Criticism could be printed | Monarchs and governments feared rebellion. |
-| Cheap literature spread | Scholars feared decline in quality. |
+| Cause                                 | Effect                                               |
+| ------------------------------------- | ---------------------------------------------------- |
+| Ideas could circulate widely          | Religious and political authorities felt threatened. |
+| Ordinary people could interpret texts | Church feared heresy.                                |
+| Criticism could be printed            | Monarchs and governments feared rebellion.           |
+| Cheap literature spread               | Scholars feared decline in quality.                  |
 
 ## 3. How Print Helped Nationalism in India
 
-| Print Form | Nationalist Effect |
-| --- | --- |
-| Newspapers | Reported colonial misrule and connected regions. |
-| Pamphlets | Spread political arguments quickly. |
-| Vernacular print | Reached ordinary people in regional languages. |
-| Cartoons | Criticised imperial rule visually. |
-| Public debate | Created political awareness. |
+| Print Form            | Nationalist Effect                                  |
+| --------------------- | --------------------------------------------------- |
+| Newspapers            | Reported colonial misrule and connected regions.    |
+| Pamphlets             | Spread political arguments quickly.                 |
+| Vernacular print      | Reached ordinary people in regional languages.      |
+| Cartoons              | Criticised imperial rule visually.                  |
+| Public debate         | Created political awareness.                        |
 | Censorship resistance | Made press freedom part of the struggle for swaraj. |
 
 ---
@@ -1322,35 +1323,35 @@ This means political freedom required the right to express and form public opini
 
 ## Manuscript Culture vs Print Culture
 
-| Basis | Manuscript Culture | Print Culture |
-| --- | --- | --- |
-| Production | Handwritten | Mechanically reproduced |
-| Cost | Expensive | Cheaper over time |
-| Speed | Slow | Faster |
-| Copies | Few | Many |
-| Access | Mainly elite | Wider public |
-| Durability | Fragile | Easier circulation |
+| Basis         | Manuscript Culture       | Print Culture                        |
+| ------------- | ------------------------ | ------------------------------------ |
+| Production    | Handwritten              | Mechanically reproduced              |
+| Cost          | Expensive                | Cheaper over time                    |
+| Speed         | Slow                     | Faster                               |
+| Copies        | Few                      | Many                                 |
+| Access        | Mainly elite             | Wider public                         |
+| Durability    | Fragile                  | Easier circulation                   |
 | Reading style | Often formal and limited | Individual, collective, oral, public |
 
 ## Woodblock Printing vs Gutenberg Press
 
-| Basis | Woodblock Printing | Gutenberg Press |
-| --- | --- | --- |
-| Method | Carved blocks | Movable metal type |
-| Flexibility | Whole block needed for each page | Letters rearranged for different pages |
-| Speed | Slower for text-heavy work | Faster for book production |
-| Early region | East Asia | Europe |
-| Use | Books, pictures, textiles, cards | Books, pamphlets, newspapers |
+| Basis        | Woodblock Printing               | Gutenberg Press                        |
+| ------------ | -------------------------------- | -------------------------------------- |
+| Method       | Carved blocks                    | Movable metal type                     |
+| Flexibility  | Whole block needed for each page | Letters rearranged for different pages |
+| Speed        | Slower for text-heavy work       | Faster for book production             |
+| Early region | East Asia                        | Europe                                 |
+| Use          | Books, pictures, textiles, cards | Books, pamphlets, newspapers           |
 
 ## Celebration of Print vs Fear of Print
 
-| Celebration | Fear |
-| --- | --- |
-| Spread knowledge | Spread dangerous ideas |
-| Encourage reason | Encourage rebellion |
-| Challenge tyranny | Challenge Church or state authority |
-| Educate readers | Flood society with bad writing |
-| Create public debate | Create dissent and disorder |
+| Celebration          | Fear                                |
+| -------------------- | ----------------------------------- |
+| Spread knowledge     | Spread dangerous ideas              |
+| Encourage reason     | Encourage rebellion                 |
+| Challenge tyranny    | Challenge Church or state authority |
+| Educate readers      | Flood society with bad writing      |
+| Create public debate | Create dissent and disorder         |
 
 ---
 
@@ -1412,16 +1413,16 @@ Print culture assisted nationalism by spreading news, criticism, and political i
 
 # Common Mistakes to Avoid
 
-| Mistake | Correct Understanding |
-| --- | --- |
-| "Print began in Europe." | Early print developed in China, Japan, and Korea. |
-| "Gutenberg invented all printing." | Gutenberg developed the first known European mechanical printing press using movable type. |
-| "Print immediately made everyone literate." | Literacy expanded slowly; oral culture continued. |
-| "Print only spread good knowledge." | It also spread conflict, fear, propaganda, and censorship. |
+| Mistake                                        | Correct Understanding                                                                             |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| "Print began in Europe."                       | Early print developed in China, Japan, and Korea.                                                 |
+| "Gutenberg invented all printing."             | Gutenberg developed the first known European mechanical printing press using movable type.        |
+| "Print immediately made everyone literate."    | Literacy expanded slowly; oral culture continued.                                                 |
+| "Print only spread good knowledge."            | It also spread conflict, fear, propaganda, and censorship.                                        |
 | "Print directly caused the French Revolution." | It helped create conditions for debate and criticism but did not directly control people's minds. |
-| "Women were only readers." | Women also became writers, editors, critics, and autobiographers. |
-| "The poor had no connection with print." | Cheap books, libraries, caste tracts, and worker writing reached poor readers. |
-| "Censorship shows print was weak." | Censorship shows that authorities feared print's power. |
+| "Women were only readers."                     | Women also became writers, editors, critics, and autobiographers.                                 |
+| "The poor had no connection with print."       | Cheap books, libraries, caste tracts, and worker writing reached poor readers.                    |
+| "Censorship shows print was weak."             | Censorship shows that authorities feared print's power.                                           |
 
 ---
 
@@ -1526,24 +1527,24 @@ Example:
 
 ## Must-Remember Names
 
-| Name | Importance |
-| --- | --- |
-| Marco Polo | Brought knowledge of woodblock printing from China to Italy. |
-| Johann Gutenberg | Developed European movable type printing press. |
-| Martin Luther | Used print to spread Reformation ideas. |
-| Menocchio | Ordinary reader whose independent religious views angered the Church. |
-| Erasmus | Feared uncontrolled spread of printed books. |
-| Mercier | Believed print could spread enlightenment and weaken tyranny. |
-| Voltaire and Rousseau | Enlightenment thinkers widely circulated in print. |
-| James Augustus Hickey | Edited Bengal Gazette from 1780. |
-| Rammohun Roy | Published Sambad Kaumudi. |
-| Rashsundari Debi | Wrote Amar Jiban. |
-| Tarabai Shinde | Criticised women's oppression. |
-| Pandita Ramabai | Wrote about upper-caste Hindu women's suffering. |
-| Jyotiba Phule | Wrote Gulamgiri against caste injustice. |
-| B.R. Ambedkar | Wrote against caste oppression. |
-| Periyar | Criticised caste hierarchy. |
-| Bal Gangadhar Tilak | Wrote in Kesari and was imprisoned in 1908. |
+| Name                  | Importance                                                            |
+| --------------------- | --------------------------------------------------------------------- |
+| Marco Polo            | Brought knowledge of woodblock printing from China to Italy.          |
+| Johann Gutenberg      | Developed European movable type printing press.                       |
+| Martin Luther         | Used print to spread Reformation ideas.                               |
+| Menocchio             | Ordinary reader whose independent religious views angered the Church. |
+| Erasmus               | Feared uncontrolled spread of printed books.                          |
+| Mercier               | Believed print could spread enlightenment and weaken tyranny.         |
+| Voltaire and Rousseau | Enlightenment thinkers widely circulated in print.                    |
+| James Augustus Hickey | Edited Bengal Gazette from 1780.                                      |
+| Rammohun Roy          | Published Sambad Kaumudi.                                             |
+| Rashsundari Debi      | Wrote Amar Jiban.                                                     |
+| Tarabai Shinde        | Criticised women's oppression.                                        |
+| Pandita Ramabai       | Wrote about upper-caste Hindu women's suffering.                      |
+| Jyotiba Phule         | Wrote Gulamgiri against caste injustice.                              |
+| B.R. Ambedkar         | Wrote against caste oppression.                                       |
+| Periyar               | Criticised caste hierarchy.                                           |
+| Bal Gangadhar Tilak   | Wrote in Kesari and was imprisoned in 1908.                           |
 
 ## Last-Minute Memory Chain
 
@@ -1573,4 +1574,3 @@ Before moving to the next chapter, make sure you can:
 - [ ] Explain how print helped Indian nationalism.
 - [ ] Describe the Vernacular Press Act.
 - [ ] Write a balanced answer on print as both liberating and dangerous to authority.
-

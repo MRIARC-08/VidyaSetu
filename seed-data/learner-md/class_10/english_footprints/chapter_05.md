@@ -1,35 +1,36 @@
 # Chapter 5: Footprints without Feet
+
 ### NCERT Class 10 - English Footprints
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 10 |
-| **Subject** | English Footprints |
-| **Chapter** | 5 |
-| **Text** | "Footprints without Feet" by H. G. Wells |
-| **Textbook Pages** | 26-31 |
-| **Genre** | Science fiction / adventure episode |
-| **Core Theme** | Scientific discovery, invisibility, misuse of knowledge, lawlessness, fear, responsibility, and ethics in science. |
-| **Main Skills** | Plot sequencing, character judgement, science-fiction analysis, inference, ethical discussion, and vocabulary. |
+| Detail             | Learner-Friendly Information                                                                                       |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| **Class**          | 10                                                                                                                 |
+| **Subject**        | English Footprints                                                                                                 |
+| **Chapter**        | 5                                                                                                                  |
+| **Text**           | "Footprints without Feet" by H. G. Wells                                                                           |
+| **Textbook Pages** | 26-31                                                                                                              |
+| **Genre**          | Science fiction / adventure episode                                                                                |
+| **Core Theme**     | Scientific discovery, invisibility, misuse of knowledge, lawlessness, fear, responsibility, and ethics in science. |
+| **Main Skills**    | Plot sequencing, character judgement, science-fiction analysis, inference, ethical discussion, and vocabulary.     |
 
 ---
 
 ## Section Structure
 
-| Unit | Text / Skill | Main Learning Focus |
-|---|---|---|
-| **5A** | Opening Mystery | Footprints without a visible body and first signs of invisibility. |
-| **5B** | Griffin the Scientist | His discovery, invisibility, revenge, and homelessness. |
-| **5C** | London Store and Theatre Shop | Clothing, food, escape, disguise, violence, and theft. |
-| **5D** | Iping Inn | Mrs Hall, eccentric behaviour, stolen money, and suspicion. |
-| **5E** | Invisible Violence | Haunted furniture, headless man, constable Jaffers, and escape. |
-| **5F** | Thinking About It | Griffin's lawlessness, scientific brilliance, and moral failure. |
-| **5G** | Talk About It | Invisibility, invisible forces, transparency, and science fiction. |
-| **5H** | Vocabulary and Style | Important terms, suspense, science fiction, and character study. |
+| Unit   | Text / Skill                  | Main Learning Focus                                                |
+| ------ | ----------------------------- | ------------------------------------------------------------------ |
+| **5A** | Opening Mystery               | Footprints without a visible body and first signs of invisibility. |
+| **5B** | Griffin the Scientist         | His discovery, invisibility, revenge, and homelessness.            |
+| **5C** | London Store and Theatre Shop | Clothing, food, escape, disguise, violence, and theft.             |
+| **5D** | Iping Inn                     | Mrs Hall, eccentric behaviour, stolen money, and suspicion.        |
+| **5E** | Invisible Violence            | Haunted furniture, headless man, constable Jaffers, and escape.    |
+| **5F** | Thinking About It             | Griffin's lawlessness, scientific brilliance, and moral failure.   |
+| **5G** | Talk About It                 | Invisibility, invisible forces, transparency, and science fiction. |
+| **5H** | Vocabulary and Style          | Important terms, suspense, science fiction, and character study.   |
 
 ---
 
@@ -37,34 +38,34 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Retell the episode** | Explain how Griffin becomes visible, invisible, disguised, suspected, and chased. |
-| **Analyse character** | Judge Griffin as a scientist and as a human being. |
-| **Understand science fiction** | Explain how scientific imagination drives the story. |
-| **Discuss ethics** | Show why discovery without responsibility becomes dangerous. |
-| **Identify suspense** | Explain how invisible actions create fear and mystery. |
-| **Infer causes** | Connect Griffin's crimes with his need for survival and his lawless nature. |
-| **Use vocabulary** | Understand eccentric, solitude, burglary, hysterics, constable, warrant, and transparent. |
-| **Debate invisibility** | Discuss advantages, disadvantages, and moral risks of being invisible. |
+| Outcome                        | You Should Be Able To...                                                                  |
+| ------------------------------ | ----------------------------------------------------------------------------------------- |
+| **Retell the episode**         | Explain how Griffin becomes visible, invisible, disguised, suspected, and chased.         |
+| **Analyse character**          | Judge Griffin as a scientist and as a human being.                                        |
+| **Understand science fiction** | Explain how scientific imagination drives the story.                                      |
+| **Discuss ethics**             | Show why discovery without responsibility becomes dangerous.                              |
+| **Identify suspense**          | Explain how invisible actions create fear and mystery.                                    |
+| **Infer causes**               | Connect Griffin's crimes with his need for survival and his lawless nature.               |
+| **Use vocabulary**             | Understand eccentric, solitude, burglary, hysterics, constable, warrant, and transparent. |
+| **Debate invisibility**        | Discuss advantages, disadvantages, and moral risks of being invisible.                    |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Invisible** | Unable to be seen. |
-| **Transparent** | Allowing light to pass through so objects can be seen through it. |
-| **Scientist** | Person who studies or experiments in science. |
-| **Lawless** | Not obeying laws or moral rules. |
-| **Eccentric** | Strange or unusual in behaviour. |
-| **Solitude** | State of being alone. |
-| **Burglary** | Illegal entry into a building to steal. |
-| **Constable** | Police officer. |
-| **Warrant** | Legal order authorising arrest or search. |
-| **Hysterics** | Extreme emotional panic or uncontrolled reaction. |
-| **Witchcraft** | Supposed magic, often associated with fear or superstition. |
+| Term                | Meaning                                                              |
+| ------------------- | -------------------------------------------------------------------- |
+| **Invisible**       | Unable to be seen.                                                   |
+| **Transparent**     | Allowing light to pass through so objects can be seen through it.    |
+| **Scientist**       | Person who studies or experiments in science.                        |
+| **Lawless**         | Not obeying laws or moral rules.                                     |
+| **Eccentric**       | Strange or unusual in behaviour.                                     |
+| **Solitude**        | State of being alone.                                                |
+| **Burglary**        | Illegal entry into a building to steal.                              |
+| **Constable**       | Police officer.                                                      |
+| **Warrant**         | Legal order authorising arrest or search.                            |
+| **Hysterics**       | Extreme emotional panic or uncontrolled reaction.                    |
+| **Witchcraft**      | Supposed magic, often associated with fear or superstition.          |
 | **Science fiction** | Fiction based on imagined scientific or technological possibilities. |
 
 ---
@@ -83,10 +84,10 @@ Griffin's invisibility gives him power, but it does not make him free. He become
 
 ## Read and Find Out Questions
 
-| Question | Short Answer |
-|---|---|
+| Question                                        | Short Answer                                                                                                |
+| ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | How did the invisible man first become visible? | He stepped in mud, so his footprints became visible. Later clothes and disguise also made his form visible. |
-| Why was he wandering the streets? | He had removed his clothes to escape unseen after setting fire to his landlord's house. |
+| Why was he wandering the streets?               | He had removed his clothes to escape unseen after setting fire to his landlord's house.                     |
 
 ## The Footprints
 
@@ -145,12 +146,12 @@ His landlord dislikes him and tries to eject him. In revenge, Griffin sets fire 
 
 ## Important Contrast
 
-| Scientific Ability | Moral Behaviour |
-|---|---|
-| Brilliant experimenter | Criminal and violent |
-| Makes body invisible | Cannot control temper |
-| Understands science | Misuses discovery |
-| Powerful knowledge | Weak ethics |
+| Scientific Ability     | Moral Behaviour       |
+| ---------------------- | --------------------- |
+| Brilliant experimenter | Criminal and violent  |
+| Makes body invisible   | Cannot control temper |
+| Understands science    | Misuses discovery     |
+| Powerful knowledge     | Weak ethics           |
 
 ---
 
@@ -288,15 +289,15 @@ This statement is correct.
 
 Evidence:
 
-| Action | Why It Is Lawless |
-|---|---|
-| Sets fire to landlord's house | Revenge and destruction of property. |
-| Steals from London store | Takes clothes and food without paying. |
-| Attacks shopkeeper | Uses violence. |
-| Robs shopkeeper | Steals money. |
-| Steals clergyman's money | Commits burglary. |
-| Frightens Mrs Hall | Misuses invisibility to terrorise. |
-| Assaults Jaffers | Resists arrest violently. |
+| Action                        | Why It Is Lawless                      |
+| ----------------------------- | -------------------------------------- |
+| Sets fire to landlord's house | Revenge and destruction of property.   |
+| Steals from London store      | Takes clothes and food without paying. |
+| Attacks shopkeeper            | Uses violence.                         |
+| Robs shopkeeper               | Steals money.                          |
+| Steals clergyman's money      | Commits burglary.                      |
+| Frightens Mrs Hall            | Misuses invisibility to terrorise.     |
+| Assaults Jaffers              | Resists arrest violently.              |
 
 Griffin's lawlessness is repeated, not accidental.
 
@@ -306,13 +307,13 @@ Balanced answer:
 
 Griffin is scientifically brilliant but morally dangerous. His discovery is extraordinary, but he lacks responsibility, compassion, and self-control.
 
-| As Scientist | As Human Being |
-|---|---|
-| Brilliant | Selfish |
-| Innovative | Violent |
-| Determined | Lawless |
+| As Scientist            | As Human Being         |
+| ----------------------- | ---------------------- |
+| Brilliant               | Selfish                |
+| Innovative              | Violent                |
+| Determined              | Lawless                |
 | Successful experimenter | Socially irresponsible |
-| Imaginative | Ethically weak |
+| Imaginative             | Ethically weak         |
 
 ## Why Science Needs Ethics
 
@@ -353,13 +354,13 @@ Possible disadvantages:
 
 Some forces or aspects of matter are invisible to the naked eye.
 
-| Invisible Thing | How We Know It Exists |
-|---|---|
-| **Magnetism** | It moves iron objects and affects compass needles. |
-| **Gravity** | Objects fall; planets orbit. |
-| **Electric current** | Devices work, bulbs glow, shocks occur. |
-| **Air** | We feel wind and need oxygen. |
-| **Germs** | Seen through microscopes; cause disease. |
+| Invisible Thing         | How We Know It Exists                               |
+| ----------------------- | --------------------------------------------------- |
+| **Magnetism**           | It moves iron objects and affects compass needles.  |
+| **Gravity**             | Objects fall; planets orbit.                        |
+| **Electric current**    | Devices work, bulbs glow, shocks occur.             |
+| **Air**                 | We feel wind and need oxygen.                       |
+| **Germs**               | Seen through microscopes; cause disease.            |
 | **Atoms and molecules** | Studied through scientific instruments and effects. |
 
 ## What If We Could See Invisible Forces?
@@ -383,53 +384,53 @@ Science fiction imagines possibilities beyond current reality. Sometimes such im
 
 ## Important Vocabulary
 
-| Word | Meaning |
-|---|---|
-| **Imprints** | Marks left by pressure. |
-| **Bewildered** | Confused. |
-| **Transparent** | See-through. |
-| **Eject** | Force someone to leave. |
-| **Wanderer** | Person moving without fixed home or direction. |
-| **Callously** | Cruelly, without feeling. |
-| **Solitude** | Being alone. |
-| **Irritable** | Easily annoyed. |
-| **Chink** | Small ringing sound, often of coins. |
-| **Housekeeping money** | Money kept for household expenses. |
-| **Hysterics** | Extreme uncontrolled emotion. |
-| **Warrant** | Legal document authorising action. |
+| Word                   | Meaning                                        |
+| ---------------------- | ---------------------------------------------- |
+| **Imprints**           | Marks left by pressure.                        |
+| **Bewildered**         | Confused.                                      |
+| **Transparent**        | See-through.                                   |
+| **Eject**              | Force someone to leave.                        |
+| **Wanderer**           | Person moving without fixed home or direction. |
+| **Callously**          | Cruelly, without feeling.                      |
+| **Solitude**           | Being alone.                                   |
+| **Irritable**          | Easily annoyed.                                |
+| **Chink**              | Small ringing sound, often of coins.           |
+| **Housekeeping money** | Money kept for household expenses.             |
+| **Hysterics**          | Extreme uncontrolled emotion.                  |
+| **Warrant**            | Legal document authorising action.             |
 
 ## Science Fiction Features
 
-| Feature | Example in Story |
-|---|---|
-| **Scientific idea** | Human invisibility through drugs. |
+| Feature                  | Example in Story                         |
+| ------------------------ | ---------------------------------------- |
+| **Scientific idea**      | Human invisibility through drugs.        |
 | **Speculative question** | What if a person could become invisible? |
-| **Real-world setting** | London, store, village inn. |
-| **Social consequences** | Theft, fear, police action. |
-| **Ethical problem** | Discovery is misused. |
+| **Real-world setting**   | London, store, village inn.              |
+| **Social consequences**  | Theft, fear, police action.              |
+| **Ethical problem**      | Discovery is misused.                    |
 
 ## Suspense Techniques
 
-| Technique | Effect |
-|---|---|
-| Footprints without body | Creates mystery immediately. |
-| Covered stranger | Makes Griffin suspicious. |
-| Empty room robbery | Builds fear and confusion. |
-| Moving furniture | Turns invisibility into apparent haunting. |
-| Headless man | Creates shock. |
-| Invisible fight | Makes the final scene chaotic and exciting. |
+| Technique               | Effect                                      |
+| ----------------------- | ------------------------------------------- |
+| Footprints without body | Creates mystery immediately.                |
+| Covered stranger        | Makes Griffin suspicious.                   |
+| Empty room robbery      | Builds fear and confusion.                  |
+| Moving furniture        | Turns invisibility into apparent haunting.  |
+| Headless man            | Creates shock.                              |
+| Invisible fight         | Makes the final scene chaotic and exciting. |
 
 ## Character Study: Griffin
 
-| Trait | Evidence |
-|---|---|
-| **Brilliant** | Discovers invisibility. |
-| **Secretive** | Hides his face and work. |
-| **Quick-tempered** | Becomes furious when questioned. |
-| **Selfish** | Uses discovery for personal gain. |
-| **Violent** | Attacks people and resists arrest. |
-| **Resourceful** | Finds clothes, disguise, and money. |
-| **Irresponsible** | Creates danger wherever he goes. |
+| Trait              | Evidence                            |
+| ------------------ | ----------------------------------- |
+| **Brilliant**      | Discovers invisibility.             |
+| **Secretive**      | Hides his face and work.            |
+| **Quick-tempered** | Becomes furious when questioned.    |
+| **Selfish**        | Uses discovery for personal gain.   |
+| **Violent**        | Attacks people and resists arrest.  |
+| **Resourceful**    | Finds clothes, disguise, and money. |
+| **Irresponsible**  | Creates danger wherever he goes.    |
 
 ---
 
@@ -493,4 +494,4 @@ Science fiction imagines possibilities beyond current reality. Sometimes such im
 
 ---
 
-*Source: NCERT Class 10 - English Footprints, Chapter 5 raw file. Learner-facing version manually rewritten from the extracted content of "Footprints without Feet".*
+_Source: NCERT Class 10 - English Footprints, Chapter 5 raw file. Learner-facing version manually rewritten from the extracted content of "Footprints without Feet"._

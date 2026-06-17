@@ -4,16 +4,16 @@ Class 11 Biology
 
 ## Chapter Profile
 
-| Item | Details |
-|---|---|
-| Class | 11 |
-| Subject | Biology |
-| Chapter | 19 |
-| Title | Chemical Coordination and Integration |
-| Main theme | Hormonal coordination through endocrine glands and hormone-producing tissues |
+| Item           | Details                                                                             |
+| -------------- | ----------------------------------------------------------------------------------- |
+| Class          | 11                                                                                  |
+| Subject        | Biology                                                                             |
+| Chapter        | 19                                                                                  |
+| Title          | Chemical Coordination and Integration                                               |
+| Main theme     | Hormonal coordination through endocrine glands and hormone-producing tissues        |
 | Main processes | Hormone secretion, feedback regulation, target-cell response, endocrine integration |
-| Core skill | Match each endocrine gland with its hormones, target effects, and disorders |
-| Learner goal | Explain how hormones coordinate long-term physiological regulation in the body |
+| Core skill     | Match each endocrine gland with its hormones, target effects, and disorders         |
+| Learner goal   | Explain how hormones coordinate long-term physiological regulation in the body      |
 
 ## How To Study This Chapter
 
@@ -70,69 +70,69 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Chemical coordination | Regulation by chemical messengers such as hormones |
-| Endocrine gland | Ductless gland releasing hormones into blood |
-| Exocrine gland | Gland releasing secretion through ducts |
-| Hormone | Non-nutrient intercellular messenger produced in trace amount |
-| Target tissue | Tissue with receptors for a specific hormone |
-| Hormone receptor | Specific protein that binds a hormone |
-| Hormone-receptor complex | Complex formed when hormone binds receptor |
-| Membrane-bound receptor | Receptor on target cell membrane |
-| Intracellular receptor | Receptor inside target cell, often nuclear |
-| Second messenger | Intracellular signal produced after hormone binds membrane receptor |
-| Hypothalamus | Forebrain region producing releasing and inhibiting hormones |
-| Releasing hormone | Hypothalamic hormone stimulating pituitary secretion |
-| Inhibiting hormone | Hypothalamic hormone reducing pituitary secretion |
-| Pituitary gland | Endocrine gland attached to hypothalamus |
-| Adenohypophysis | Anterior pituitary region |
-| Neurohypophysis | Posterior pituitary region |
-| Tropic hormone | Hormone that acts on another endocrine gland |
-| GH | Growth hormone |
-| PRL | Prolactin |
-| TSH | Thyroid stimulating hormone |
-| ACTH | Adrenocorticotrophic hormone |
-| LH | Luteinizing hormone |
-| FSH | Follicle stimulating hormone |
-| MSH | Melanocyte stimulating hormone |
-| ADH | Antidiuretic hormone, also vasopressin |
-| Oxytocin | Posterior pituitary hormone causing uterine contraction and milk ejection |
-| Melatonin | Pineal hormone regulating 24-hour rhythms |
-| Thyroxine | T4, a thyroid hormone |
-| Triiodothyronine | T3, a thyroid hormone |
-| Thyrocalcitonin | Thyroid hormone lowering blood calcium |
-| PTH | Parathyroid hormone, raises blood calcium |
-| Thymosin | Thymus hormone involved in immune development |
-| Catecholamines | Adrenal medulla hormones adrenaline and noradrenaline |
-| Glucocorticoid | Adrenal cortex hormone regulating carbohydrate metabolism |
-| Mineralocorticoid | Adrenal cortex hormone regulating water and electrolytes |
-| Insulin | Pancreatic beta-cell hormone lowering blood glucose |
-| Glucagon | Pancreatic alpha-cell hormone raising blood glucose |
-| Androgen | Male sex hormone group, mainly testosterone |
-| Estrogen | Female steroid hormone group |
-| Progesterone | Ovarian hormone supporting pregnancy |
-| ANF | Atrial natriuretic factor, lowers blood pressure |
-| Erythropoietin | Kidney hormone stimulating RBC formation |
+| Term                     | Meaning                                                                   |
+| ------------------------ | ------------------------------------------------------------------------- |
+| Chemical coordination    | Regulation by chemical messengers such as hormones                        |
+| Endocrine gland          | Ductless gland releasing hormones into blood                              |
+| Exocrine gland           | Gland releasing secretion through ducts                                   |
+| Hormone                  | Non-nutrient intercellular messenger produced in trace amount             |
+| Target tissue            | Tissue with receptors for a specific hormone                              |
+| Hormone receptor         | Specific protein that binds a hormone                                     |
+| Hormone-receptor complex | Complex formed when hormone binds receptor                                |
+| Membrane-bound receptor  | Receptor on target cell membrane                                          |
+| Intracellular receptor   | Receptor inside target cell, often nuclear                                |
+| Second messenger         | Intracellular signal produced after hormone binds membrane receptor       |
+| Hypothalamus             | Forebrain region producing releasing and inhibiting hormones              |
+| Releasing hormone        | Hypothalamic hormone stimulating pituitary secretion                      |
+| Inhibiting hormone       | Hypothalamic hormone reducing pituitary secretion                         |
+| Pituitary gland          | Endocrine gland attached to hypothalamus                                  |
+| Adenohypophysis          | Anterior pituitary region                                                 |
+| Neurohypophysis          | Posterior pituitary region                                                |
+| Tropic hormone           | Hormone that acts on another endocrine gland                              |
+| GH                       | Growth hormone                                                            |
+| PRL                      | Prolactin                                                                 |
+| TSH                      | Thyroid stimulating hormone                                               |
+| ACTH                     | Adrenocorticotrophic hormone                                              |
+| LH                       | Luteinizing hormone                                                       |
+| FSH                      | Follicle stimulating hormone                                              |
+| MSH                      | Melanocyte stimulating hormone                                            |
+| ADH                      | Antidiuretic hormone, also vasopressin                                    |
+| Oxytocin                 | Posterior pituitary hormone causing uterine contraction and milk ejection |
+| Melatonin                | Pineal hormone regulating 24-hour rhythms                                 |
+| Thyroxine                | T4, a thyroid hormone                                                     |
+| Triiodothyronine         | T3, a thyroid hormone                                                     |
+| Thyrocalcitonin          | Thyroid hormone lowering blood calcium                                    |
+| PTH                      | Parathyroid hormone, raises blood calcium                                 |
+| Thymosin                 | Thymus hormone involved in immune development                             |
+| Catecholamines           | Adrenal medulla hormones adrenaline and noradrenaline                     |
+| Glucocorticoid           | Adrenal cortex hormone regulating carbohydrate metabolism                 |
+| Mineralocorticoid        | Adrenal cortex hormone regulating water and electrolytes                  |
+| Insulin                  | Pancreatic beta-cell hormone lowering blood glucose                       |
+| Glucagon                 | Pancreatic alpha-cell hormone raising blood glucose                       |
+| Androgen                 | Male sex hormone group, mainly testosterone                               |
+| Estrogen                 | Female steroid hormone group                                              |
+| Progesterone             | Ovarian hormone supporting pregnancy                                      |
+| ANF                      | Atrial natriuretic factor, lowers blood pressure                          |
+| Erythropoietin           | Kidney hormone stimulating RBC formation                                  |
 
 ## Chapter Map
 
-| Unit | Topic | What To Master |
-|---|---|---|
-| 19.1 | Endocrine glands and hormones | Ductless glands and hormone definition |
-| 19.2 | Human endocrine system | Major glands and hormones |
-| 19.2.1 | Hypothalamus | Releasing and inhibiting hormones |
-| 19.2.2 | Pituitary | Anterior and posterior pituitary hormones |
-| 19.2.3 | Pineal | Melatonin and rhythms |
-| 19.2.4 | Thyroid | T3, T4, TCT, iodine disorders |
-| 19.2.5 | Parathyroid | PTH and calcium balance |
-| 19.2.6 | Thymus | Thymosins and immunity |
-| 19.2.7 | Adrenal | Medulla and cortex hormones |
-| 19.2.8 | Pancreas | Insulin and glucagon |
-| 19.2.9 | Testis | Androgens |
-| 19.2.10 | Ovary | Estrogens and progesterone |
-| 19.3 | Other hormone tissues | Heart, kidney, GI tract |
-| 19.4 | Hormone action | Membrane and intracellular receptors |
+| Unit    | Topic                         | What To Master                            |
+| ------- | ----------------------------- | ----------------------------------------- |
+| 19.1    | Endocrine glands and hormones | Ductless glands and hormone definition    |
+| 19.2    | Human endocrine system        | Major glands and hormones                 |
+| 19.2.1  | Hypothalamus                  | Releasing and inhibiting hormones         |
+| 19.2.2  | Pituitary                     | Anterior and posterior pituitary hormones |
+| 19.2.3  | Pineal                        | Melatonin and rhythms                     |
+| 19.2.4  | Thyroid                       | T3, T4, TCT, iodine disorders             |
+| 19.2.5  | Parathyroid                   | PTH and calcium balance                   |
+| 19.2.6  | Thymus                        | Thymosins and immunity                    |
+| 19.2.7  | Adrenal                       | Medulla and cortex hormones               |
+| 19.2.8  | Pancreas                      | Insulin and glucagon                      |
+| 19.2.9  | Testis                        | Androgens                                 |
+| 19.2.10 | Ovary                         | Estrogens and progesterone                |
+| 19.3    | Other hormone tissues         | Heart, kidney, GI tract                   |
+| 19.4    | Hormone action                | Membrane and intracellular receptors      |
 
 ## 1. Why Chemical Coordination Is Needed
 
@@ -895,12 +895,12 @@ Main groups:
 
 ## 30.1 Examples
 
-| Hormone Class | Examples |
-|---|---|
+| Hormone Class                 | Examples                                                     |
+| ----------------------------- | ------------------------------------------------------------ |
 | Peptide, polypeptide, protein | Insulin, glucagon, pituitary hormones, hypothalamic hormones |
-| Steroids | Cortisol, testosterone, estradiol, progesterone |
-| Iodothyronines | T3, T4 |
-| Amino-acid derivatives | Epinephrine |
+| Steroids                      | Cortisol, testosterone, estradiol, progesterone              |
+| Iodothyronines                | T3, T4                                                       |
+| Amino-acid derivatives        | Epinephrine                                                  |
 
 ## 31. Hormone Receptors
 
@@ -958,48 +958,48 @@ Cumulative biochemical actions produce physiological and developmental effects.
 
 ## 34. Membrane And Intracellular Mechanisms Compared
 
-| Feature | Membrane Receptor Hormones | Intracellular Receptor Hormones |
-|---|---|---|
-| Receptor location | Cell membrane | Cytoplasm or nucleus |
-| Hormone entry into cell | Usually no | Usually yes |
-| Signal method | Second messenger | Gene regulation |
-| Examples | Insulin, glucagon, FSH, pituitary hormones | Steroids, thyroid hormones |
-| Effect speed | Often faster metabolic effects | Often slower genomic effects |
+| Feature                 | Membrane Receptor Hormones                 | Intracellular Receptor Hormones |
+| ----------------------- | ------------------------------------------ | ------------------------------- |
+| Receptor location       | Cell membrane                              | Cytoplasm or nucleus            |
+| Hormone entry into cell | Usually no                                 | Usually yes                     |
+| Signal method           | Second messenger                           | Gene regulation                 |
+| Examples                | Insulin, glucagon, FSH, pituitary hormones | Steroids, thyroid hormones      |
+| Effect speed            | Often faster metabolic effects             | Often slower genomic effects    |
 
 ## 35. Major Hormone Table
 
-| Gland Or Tissue | Hormone | Main Effect |
-|---|---|---|
-| Hypothalamus | Releasing hormones | Stimulate anterior pituitary |
-| Hypothalamus | Inhibiting hormones | Inhibit anterior pituitary |
-| Anterior pituitary | GH | Growth |
-| Anterior pituitary | PRL | Mammary growth and milk formation |
-| Anterior pituitary | TSH | Thyroid stimulation |
-| Anterior pituitary | ACTH | Adrenal cortex stimulation |
-| Anterior pituitary | LH | Ovulation, corpus luteum, androgen secretion |
-| Anterior pituitary | FSH | Follicle growth, spermatogenesis support |
-| Pars intermedia | MSH | Pigmentation |
-| Posterior pituitary | Oxytocin | Uterine contraction, milk ejection |
-| Posterior pituitary | ADH | Water reabsorption |
-| Pineal | Melatonin | Sleep-wake and 24-hour rhythms |
-| Thyroid | T3 and T4 | Metabolism and development |
-| Thyroid | TCT | Lowers blood calcium |
-| Parathyroid | PTH | Raises blood calcium |
-| Thymus | Thymosins | T cell differentiation |
-| Adrenal medulla | Adrenaline, noradrenaline | Emergency responses |
-| Adrenal cortex | Cortisol | Metabolism, anti-inflammatory effect |
-| Adrenal cortex | Aldosterone | Na+ and water reabsorption |
-| Pancreatic alpha cells | Glucagon | Raises blood glucose |
-| Pancreatic beta cells | Insulin | Lowers blood glucose |
-| Testis | Androgens | Male reproductive function and secondary characters |
-| Ovary | Estrogens | Female secondary characters and reproductive growth |
-| Ovary | Progesterone | Pregnancy support |
-| Heart atrium | ANF | Lowers blood pressure |
-| Kidney | Erythropoietin | RBC formation |
-| GI tract | Gastrin | HCl and pepsinogen secretion |
-| GI tract | Secretin | Water and bicarbonate secretion |
-| GI tract | CCK | Pancreatic enzymes and bile release |
-| GI tract | GIP | Inhibits gastric secretion and motility |
+| Gland Or Tissue        | Hormone                   | Main Effect                                         |
+| ---------------------- | ------------------------- | --------------------------------------------------- |
+| Hypothalamus           | Releasing hormones        | Stimulate anterior pituitary                        |
+| Hypothalamus           | Inhibiting hormones       | Inhibit anterior pituitary                          |
+| Anterior pituitary     | GH                        | Growth                                              |
+| Anterior pituitary     | PRL                       | Mammary growth and milk formation                   |
+| Anterior pituitary     | TSH                       | Thyroid stimulation                                 |
+| Anterior pituitary     | ACTH                      | Adrenal cortex stimulation                          |
+| Anterior pituitary     | LH                        | Ovulation, corpus luteum, androgen secretion        |
+| Anterior pituitary     | FSH                       | Follicle growth, spermatogenesis support            |
+| Pars intermedia        | MSH                       | Pigmentation                                        |
+| Posterior pituitary    | Oxytocin                  | Uterine contraction, milk ejection                  |
+| Posterior pituitary    | ADH                       | Water reabsorption                                  |
+| Pineal                 | Melatonin                 | Sleep-wake and 24-hour rhythms                      |
+| Thyroid                | T3 and T4                 | Metabolism and development                          |
+| Thyroid                | TCT                       | Lowers blood calcium                                |
+| Parathyroid            | PTH                       | Raises blood calcium                                |
+| Thymus                 | Thymosins                 | T cell differentiation                              |
+| Adrenal medulla        | Adrenaline, noradrenaline | Emergency responses                                 |
+| Adrenal cortex         | Cortisol                  | Metabolism, anti-inflammatory effect                |
+| Adrenal cortex         | Aldosterone               | Na+ and water reabsorption                          |
+| Pancreatic alpha cells | Glucagon                  | Raises blood glucose                                |
+| Pancreatic beta cells  | Insulin                   | Lowers blood glucose                                |
+| Testis                 | Androgens                 | Male reproductive function and secondary characters |
+| Ovary                  | Estrogens                 | Female secondary characters and reproductive growth |
+| Ovary                  | Progesterone              | Pregnancy support                                   |
+| Heart atrium           | ANF                       | Lowers blood pressure                               |
+| Kidney                 | Erythropoietin            | RBC formation                                       |
+| GI tract               | Gastrin                   | HCl and pepsinogen secretion                        |
+| GI tract               | Secretin                  | Water and bicarbonate secretion                     |
+| GI tract               | CCK                       | Pancreatic enzymes and bile release                 |
+| GI tract               | GIP                       | Inhibits gastric secretion and motility             |
 
 ## 36. Common Misconceptions
 
@@ -1117,30 +1117,30 @@ A hormone is a non-nutrient chemical messenger produced in trace amounts and act
 
 ## 38.4 Hormones Secreted By Major Glands
 
-| Gland Or Tissue | Hormones |
-|---|---|
-| Hypothalamus | Releasing hormones, inhibiting hormones |
-| Pituitary | GH, PRL, TSH, ACTH, LH, FSH, MSH, oxytocin, ADH |
-| Thyroid | T3, T4, TCT |
-| Parathyroid | PTH |
-| Adrenal | Adrenaline, noradrenaline, cortisol, aldosterone, small amounts of androgens |
-| Pancreas | Insulin, glucagon |
-| Testis | Androgens, mainly testosterone |
-| Ovary | Estrogens, progesterone |
-| Thymus | Thymosins |
-| Atrium | ANF |
-| Kidney | Erythropoietin |
-| GI tract | Gastrin, secretin, CCK, GIP |
+| Gland Or Tissue | Hormones                                                                     |
+| --------------- | ---------------------------------------------------------------------------- |
+| Hypothalamus    | Releasing hormones, inhibiting hormones                                      |
+| Pituitary       | GH, PRL, TSH, ACTH, LH, FSH, MSH, oxytocin, ADH                              |
+| Thyroid         | T3, T4, TCT                                                                  |
+| Parathyroid     | PTH                                                                          |
+| Adrenal         | Adrenaline, noradrenaline, cortisol, aldosterone, small amounts of androgens |
+| Pancreas        | Insulin, glucagon                                                            |
+| Testis          | Androgens, mainly testosterone                                               |
+| Ovary           | Estrogens, progesterone                                                      |
+| Thymus          | Thymosins                                                                    |
+| Atrium          | ANF                                                                          |
+| Kidney          | Erythropoietin                                                               |
+| GI tract        | Gastrin, secretin, CCK, GIP                                                  |
 
 ## 38.5 Target Glands For Pituitary-Related Hormones
 
-| Hormone | Target |
-|---|---|
-| Hypothalamic hormones | Pituitary |
-| TSH | Thyroid gland |
-| ACTH | Adrenal cortex |
-| LH and FSH | Gonads |
-| MSH | Melanocytes |
+| Hormone               | Target         |
+| --------------------- | -------------- |
+| Hypothalamic hormones | Pituitary      |
+| TSH                   | Thyroid gland  |
+| ACTH                  | Adrenal cortex |
+| LH and FSH            | Gonads         |
+| MSH                   | Melanocytes    |
 
 ## 38.6 PTH Function
 
@@ -1176,24 +1176,24 @@ Together they maintain glucose homeostasis.
 
 ## 38.12 Hormone Examples
 
-| Prompt | Example |
-|---|---|
-| Hyperglycemic hormone | Glucagon |
-| Hypoglycemic hormone | Insulin |
-| Hypercalcemic hormone | PTH |
-| Gonadotrophic hormones | LH and FSH |
-| Progestational hormone | Progesterone |
-| Blood pressure lowering hormone | ANF |
-| Androgen | Testosterone |
-| Estrogen | Estradiol |
+| Prompt                          | Example      |
+| ------------------------------- | ------------ |
+| Hyperglycemic hormone           | Glucagon     |
+| Hypoglycemic hormone            | Insulin      |
+| Hypercalcemic hormone           | PTH          |
+| Gonadotrophic hormones          | LH and FSH   |
+| Progestational hormone          | Progesterone |
+| Blood pressure lowering hormone | ANF          |
+| Androgen                        | Testosterone |
+| Estrogen                        | Estradiol    |
 
 ## 38.13 Hormonal Deficiency
 
-| Condition | Deficiency Or Cause |
-|---|---|
-| Diabetes mellitus | Insulin deficiency or insulin resistance |
-| Goitre | Iodine deficiency causing low thyroid hormone synthesis |
-| Cretinism | Thyroid hormone deficiency during development |
+| Condition         | Deficiency Or Cause                                     |
+| ----------------- | ------------------------------------------------------- |
+| Diabetes mellitus | Insulin deficiency or insulin resistance                |
+| Goitre            | Iodine deficiency causing low thyroid hormone synthesis |
+| Cretinism         | Thyroid hormone deficiency during development           |
 
 ## 38.14 Mechanism Of FSH Action
 
@@ -1212,11 +1212,11 @@ In males, it supports spermatogenesis along with androgens.
 ## 38.15 Matching Answer
 
 | Column I | Correct Match |
-|---|---|
-| T4 | Thyroid |
-| PTH | Parathyroid |
-| GnRH | Hypothalamus |
-| LH | Pituitary |
+| -------- | ------------- |
+| T4       | Thyroid       |
+| PTH      | Parathyroid   |
+| GnRH     | Hypothalamus  |
+| LH       | Pituitary     |
 
 ## 39. High-Yield Facts
 
@@ -1347,45 +1347,45 @@ It stimulates erythropoiesis, the formation of RBCs.
 
 ## 42. Rapid Revision Sheet
 
-| Topic | One-Line Revision |
-|---|---|
-| Endocrine gland | Ductless gland |
-| Hormone | Trace intercellular messenger |
-| Hypothalamus | Releasing and inhibiting hormones |
-| GH | Growth |
-| PRL | Milk formation |
-| TSH | Thyroid stimulation |
-| ACTH | Adrenal cortex stimulation |
-| LH | Ovulation and androgen secretion |
-| FSH | Follicles and spermatogenesis |
-| MSH | Pigmentation |
-| Oxytocin | Uterus contraction and milk ejection |
-| ADH | Water reabsorption |
-| Melatonin | 24-hour rhythms |
-| T3 and T4 | Metabolism |
-| TCT | Lowers blood calcium |
-| PTH | Raises blood calcium |
-| Thymosin | T cell development |
-| Adrenaline | Emergency response |
-| Cortisol | Glucocorticoid |
-| Aldosterone | Mineralocorticoid |
-| Glucagon | Raises glucose |
-| Insulin | Lowers glucose |
-| Testosterone | Main androgen |
-| Estrogen | Female secondary characters |
-| Progesterone | Pregnancy support |
-| ANF | Lowers blood pressure |
-| Erythropoietin | RBC formation |
-| Gastrin | HCl and pepsinogen |
-| Secretin | Bicarbonate secretion |
-| CCK | Pancreatic enzymes and bile |
-| GIP | Inhibits gastric secretion |
-| Peptide hormone action | Membrane receptor |
-| Steroid hormone action | Intracellular receptor |
+| Topic                  | One-Line Revision                    |
+| ---------------------- | ------------------------------------ |
+| Endocrine gland        | Ductless gland                       |
+| Hormone                | Trace intercellular messenger        |
+| Hypothalamus           | Releasing and inhibiting hormones    |
+| GH                     | Growth                               |
+| PRL                    | Milk formation                       |
+| TSH                    | Thyroid stimulation                  |
+| ACTH                   | Adrenal cortex stimulation           |
+| LH                     | Ovulation and androgen secretion     |
+| FSH                    | Follicles and spermatogenesis        |
+| MSH                    | Pigmentation                         |
+| Oxytocin               | Uterus contraction and milk ejection |
+| ADH                    | Water reabsorption                   |
+| Melatonin              | 24-hour rhythms                      |
+| T3 and T4              | Metabolism                           |
+| TCT                    | Lowers blood calcium                 |
+| PTH                    | Raises blood calcium                 |
+| Thymosin               | T cell development                   |
+| Adrenaline             | Emergency response                   |
+| Cortisol               | Glucocorticoid                       |
+| Aldosterone            | Mineralocorticoid                    |
+| Glucagon               | Raises glucose                       |
+| Insulin                | Lowers glucose                       |
+| Testosterone           | Main androgen                        |
+| Estrogen               | Female secondary characters          |
+| Progesterone           | Pregnancy support                    |
+| ANF                    | Lowers blood pressure                |
+| Erythropoietin         | RBC formation                        |
+| Gastrin                | HCl and pepsinogen                   |
+| Secretin               | Bicarbonate secretion                |
+| CCK                    | Pancreatic enzymes and bile          |
+| GIP                    | Inhibits gastric secretion           |
+| Peptide hormone action | Membrane receptor                    |
+| Steroid hormone action | Intracellular receptor               |
 
 ## 43. Raw File Reference
 
-| Item | Path |
-|---|---|
-| Raw input | `data/class_11/biology/chapter_19.md` |
+| Item             | Path                                             |
+| ---------------- | ------------------------------------------------ |
+| Raw input        | `data/class_11/biology/chapter_19.md`            |
 | Formatted output | `data_learner_md/class_11/biology/chapter_19.md` |

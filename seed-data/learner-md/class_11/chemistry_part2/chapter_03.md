@@ -1,4 +1,5 @@
 # Chapter 3: Organic Chemistry: Some Basic Principles and Techniques
+
 ### NCERT Class 11 - Chemistry Part 2
 
 ---
@@ -24,20 +25,20 @@ The central idea is:
 
 ## Chapter at a Glance
 
-| Area | What You Must Understand |
-| --- | --- |
-| Carbon bonding | Carbon is tetravalent and forms `sp3`, `sp2`, and `sp` hybridised compounds. |
-| Shapes | Methane is tetrahedral, ethene is planar, ethyne is linear. |
-| Structural formulas | Organic compounds can be written as complete, condensed, bond-line, and 3D formulas. |
-| Classification | Compounds are classified as open-chain, cyclic, alicyclic, aromatic, homocyclic, heterocyclic, and by functional group. |
-| Functional group | Atom or group of atoms responsible for characteristic reactions. |
-| Homologous series | Family of compounds with same functional group and successive members differing by `-CH2-`. |
-| IUPAC nomenclature | Systematic naming based on parent chain, substituents, functional groups, and locants. |
-| Isomerism | Same molecular formula but different structures or spatial arrangements. |
-| Reaction mechanism | Stepwise explanation of bond breaking, bond making, intermediates, and electron movement. |
-| Electronic effects | Inductive, resonance, electromeric, and hyperconjugation effects control reactivity. |
-| Purification | Sublimation, crystallisation, distillation, extraction, and chromatography. |
-| Analysis | Qualitative and quantitative methods determine elements present and their percentages. |
+| Area                | What You Must Understand                                                                                                |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Carbon bonding      | Carbon is tetravalent and forms `sp3`, `sp2`, and `sp` hybridised compounds.                                            |
+| Shapes              | Methane is tetrahedral, ethene is planar, ethyne is linear.                                                             |
+| Structural formulas | Organic compounds can be written as complete, condensed, bond-line, and 3D formulas.                                    |
+| Classification      | Compounds are classified as open-chain, cyclic, alicyclic, aromatic, homocyclic, heterocyclic, and by functional group. |
+| Functional group    | Atom or group of atoms responsible for characteristic reactions.                                                        |
+| Homologous series   | Family of compounds with same functional group and successive members differing by `-CH2-`.                             |
+| IUPAC nomenclature  | Systematic naming based on parent chain, substituents, functional groups, and locants.                                  |
+| Isomerism           | Same molecular formula but different structures or spatial arrangements.                                                |
+| Reaction mechanism  | Stepwise explanation of bond breaking, bond making, intermediates, and electron movement.                               |
+| Electronic effects  | Inductive, resonance, electromeric, and hyperconjugation effects control reactivity.                                    |
+| Purification        | Sublimation, crystallisation, distillation, extraction, and chromatography.                                             |
+| Analysis            | Qualitative and quantitative methods determine elements present and their percentages.                                  |
 
 ---
 
@@ -45,64 +46,64 @@ The central idea is:
 
 By the end of this chapter, you should be able to:
 
-| Skill | You Should Be Able To |
-| --- | --- |
-| Explain | Explain tetravalence, catenation, hybridisation, sigma bonds, pi bonds, and shapes of organic molecules. |
-| Represent | Convert between complete, condensed, bond-line, wedge-dash, and molecular model representations. |
-| Classify | Classify compounds based on chain/ring structure and functional group. |
-| Name | Apply IUPAC rules to alkanes, functional compounds, and benzene derivatives. |
-| Identify | Identify chain, position, functional group, metameric, geometrical, and optical isomerism. |
-| Analyse mechanisms | Recognise heterolysis, homolysis, carbocations, carbanions, free radicals, nucleophiles, and electrophiles. |
-| Apply effects | Use inductive, resonance, electromeric, and hyperconjugation effects to explain stability and reactivity. |
-| Choose purification | Select suitable purification method based on physical properties. |
-| Perform analysis logically | Explain Lassaigne's test, Dumas method, Kjeldahl method, Carius method, and combustion analysis. |
+| Skill                      | You Should Be Able To                                                                                       |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| Explain                    | Explain tetravalence, catenation, hybridisation, sigma bonds, pi bonds, and shapes of organic molecules.    |
+| Represent                  | Convert between complete, condensed, bond-line, wedge-dash, and molecular model representations.            |
+| Classify                   | Classify compounds based on chain/ring structure and functional group.                                      |
+| Name                       | Apply IUPAC rules to alkanes, functional compounds, and benzene derivatives.                                |
+| Identify                   | Identify chain, position, functional group, metameric, geometrical, and optical isomerism.                  |
+| Analyse mechanisms         | Recognise heterolysis, homolysis, carbocations, carbanions, free radicals, nucleophiles, and electrophiles. |
+| Apply effects              | Use inductive, resonance, electromeric, and hyperconjugation effects to explain stability and reactivity.   |
+| Choose purification        | Select suitable purification method based on physical properties.                                           |
+| Perform analysis logically | Explain Lassaigne's test, Dumas method, Kjeldahl method, Carius method, and combustion analysis.            |
 
 ---
 
 ## Big Map of the Chapter
 
-| Unit | Main Question | Main Idea |
-| --- | --- | --- |
-| Introduction | Why is carbon chemistry so large? | Carbon forms stable covalent networks. |
-| Tetravalence | Why does carbon form four bonds? | Electronic configuration, hybridisation, and covalent bonding. |
-| Representation | How do we draw organic molecules efficiently? | Complete, condensed, bond-line, wedge-dash, models. |
-| Classification | How do we organise millions of compounds? | Structure and functional group classification. |
-| Nomenclature | How do we name compounds systematically? | IUPAC rules. |
-| Isomerism | How can same formula mean different compounds? | Different connectivity or spatial arrangement. |
-| Mechanism | How do reactions actually happen? | Bond fission, intermediates, reagents, electron movement. |
-| Electronic effects | Why are some sites more reactive? | Electron displacement. |
-| Purification | How do we obtain pure compound? | Physical separation techniques. |
-| Qualitative analysis | Which elements are present? | Element detection tests. |
-| Quantitative analysis | How much of each element is present? | Percentage composition methods. |
+| Unit                  | Main Question                                  | Main Idea                                                      |
+| --------------------- | ---------------------------------------------- | -------------------------------------------------------------- |
+| Introduction          | Why is carbon chemistry so large?              | Carbon forms stable covalent networks.                         |
+| Tetravalence          | Why does carbon form four bonds?               | Electronic configuration, hybridisation, and covalent bonding. |
+| Representation        | How do we draw organic molecules efficiently?  | Complete, condensed, bond-line, wedge-dash, models.            |
+| Classification        | How do we organise millions of compounds?      | Structure and functional group classification.                 |
+| Nomenclature          | How do we name compounds systematically?       | IUPAC rules.                                                   |
+| Isomerism             | How can same formula mean different compounds? | Different connectivity or spatial arrangement.                 |
+| Mechanism             | How do reactions actually happen?              | Bond fission, intermediates, reagents, electron movement.      |
+| Electronic effects    | Why are some sites more reactive?              | Electron displacement.                                         |
+| Purification          | How do we obtain pure compound?                | Physical separation techniques.                                |
+| Qualitative analysis  | Which elements are present?                    | Element detection tests.                                       |
+| Quantitative analysis | How much of each element is present?           | Percentage composition methods.                                |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Organic chemistry | Branch of chemistry mainly dealing with carbon compounds. |
-| Catenation | Ability of carbon to bond with itself and form chains/rings. |
-| Tetravalence | Carbon forms four covalent bonds. |
-| Hybridisation | Mixing of atomic orbitals to form hybrid orbitals used in bonding. |
-| Sigma bond | Bond formed by head-on overlap of orbitals. |
-| Pi bond | Bond formed by sideways overlap of parallel p orbitals. |
-| Functional group | Atom or group responsible for characteristic reactions of a compound. |
-| Homologous series | Series of compounds with same functional group and similar properties, differing by `-CH2-`. |
-| IUPAC | International Union of Pure and Applied Chemistry naming system. |
-| Isomerism | Existence of compounds with same molecular formula but different structures or spatial arrangements. |
-| Substrate | Organic molecule whose carbon framework is attacked or changed in a reaction. |
-| Reagent | Chemical species that attacks or reacts with substrate. |
-| Carbocation | Positively charged carbon species. |
-| Carbanion | Negatively charged carbon species. |
-| Free radical | Neutral species with an unpaired electron. |
-| Nucleophile | Electron-rich species that donates an electron pair. |
-| Electrophile | Electron-deficient species that accepts an electron pair. |
-| Inductive effect | Permanent electron displacement through sigma bonds due to electronegativity difference. |
-| Resonance | Delocalisation of pi electrons or lone pairs represented by contributing structures. |
-| Electromeric effect | Temporary complete transfer of pi electrons under influence of attacking reagent. |
-| Hyperconjugation | Delocalisation of sigma electrons of C-H bonds into adjacent pi or empty p orbital. |
-| Lassaigne's test | Sodium fusion test used to detect N, S, halogens, and P in organic compounds. |
+| Term                | Meaning                                                                                              |
+| ------------------- | ---------------------------------------------------------------------------------------------------- |
+| Organic chemistry   | Branch of chemistry mainly dealing with carbon compounds.                                            |
+| Catenation          | Ability of carbon to bond with itself and form chains/rings.                                         |
+| Tetravalence        | Carbon forms four covalent bonds.                                                                    |
+| Hybridisation       | Mixing of atomic orbitals to form hybrid orbitals used in bonding.                                   |
+| Sigma bond          | Bond formed by head-on overlap of orbitals.                                                          |
+| Pi bond             | Bond formed by sideways overlap of parallel p orbitals.                                              |
+| Functional group    | Atom or group responsible for characteristic reactions of a compound.                                |
+| Homologous series   | Series of compounds with same functional group and similar properties, differing by `-CH2-`.         |
+| IUPAC               | International Union of Pure and Applied Chemistry naming system.                                     |
+| Isomerism           | Existence of compounds with same molecular formula but different structures or spatial arrangements. |
+| Substrate           | Organic molecule whose carbon framework is attacked or changed in a reaction.                        |
+| Reagent             | Chemical species that attacks or reacts with substrate.                                              |
+| Carbocation         | Positively charged carbon species.                                                                   |
+| Carbanion           | Negatively charged carbon species.                                                                   |
+| Free radical        | Neutral species with an unpaired electron.                                                           |
+| Nucleophile         | Electron-rich species that donates an electron pair.                                                 |
+| Electrophile        | Electron-deficient species that accepts an electron pair.                                            |
+| Inductive effect    | Permanent electron displacement through sigma bonds due to electronegativity difference.             |
+| Resonance           | Delocalisation of pi electrons or lone pairs represented by contributing structures.                 |
+| Electromeric effect | Temporary complete transfer of pi electrons under influence of attacking reagent.                    |
+| Hyperconjugation    | Delocalisation of sigma electrons of C-H bonds into adjacent pi or empty p orbital.                  |
+| Lassaigne's test    | Sodium fusion test used to detect N, S, halogens, and P in organic compounds.                        |
 
 ---
 
@@ -179,11 +180,11 @@ This explains why carbon forms compounds such as:
 
 Carbon can use different hybridisations.
 
-| Hybridisation | Example | Shape Around Carbon | Bond Angle | Main Bond Type |
-| --- | --- | --- | --- | --- |
-| `sp3` | methane, `CH4` | tetrahedral | about 109.5 degrees | single bonds |
-| `sp2` | ethene, `C2H4` | trigonal planar | about 120 degrees | double bond present |
-| `sp` | ethyne, `C2H2` | linear | 180 degrees | triple bond present |
+| Hybridisation | Example        | Shape Around Carbon | Bond Angle          | Main Bond Type      |
+| ------------- | -------------- | ------------------- | ------------------- | ------------------- |
+| `sp3`         | methane, `CH4` | tetrahedral         | about 109.5 degrees | single bonds        |
+| `sp2`         | ethene, `C2H4` | trigonal planar     | about 120 degrees   | double bond present |
+| `sp`          | ethyne, `C2H2` | linear              | 180 degrees         | triple bond present |
 
 ---
 
@@ -191,11 +192,11 @@ Carbon can use different hybridisations.
 
 Hybridisation affects bond length and bond strength.
 
-| Hybrid Orbital | s-Character | Bond Length Trend | Electronegativity of Carbon |
-| --- | ---: | --- | --- |
-| `sp3` | 25 percent | longest among these | lowest |
-| `sp2` | 33 percent | intermediate | intermediate |
-| `sp` | 50 percent | shortest | highest |
+| Hybrid Orbital | s-Character | Bond Length Trend   | Electronegativity of Carbon |
+| -------------- | ----------: | ------------------- | --------------------------- |
+| `sp3`          |  25 percent | longest among these | lowest                      |
+| `sp2`          |  33 percent | intermediate        | intermediate                |
+| `sp`           |  50 percent | shortest            | highest                     |
 
 More s-character means the hybrid orbital is closer to the nucleus.
 
@@ -267,13 +268,13 @@ Condensed formula omits many bond lines but preserves connectivity.
 
 Examples:
 
-| Compound | Condensed Formula |
-| --- | --- |
-| Ethane | `CH3CH3` |
-| Ethene | `CH2=CH2` |
-| Ethyne | `HCCH` or `HC≡CH` in printed form |
-| Methanol | `CH3OH` |
-| Octane | `CH3(CH2)6CH3` |
+| Compound | Condensed Formula                 |
+| -------- | --------------------------------- |
+| Ethane   | `CH3CH3`                          |
+| Ethene   | `CH2=CH2`                         |
+| Ethyne   | `HCCH` or `HC≡CH` in printed form |
+| Methanol | `CH3OH`                           |
+| Octane   | `CH3(CH2)6CH3`                    |
 
 Condensed formulas are compact but still show the order of atoms.
 
@@ -314,11 +315,11 @@ A line with three connected segments may represent a four-carbon chain.
 
 Rings are drawn as polygons.
 
-| Ring | Meaning |
-| --- | --- |
+| Ring     | Meaning      |
+| -------- | ------------ |
 | Triangle | Cyclopropane |
 | Pentagon | Cyclopentane |
-| Hexagon | Cyclohexane |
+| Hexagon  | Cyclohexane  |
 
 If a heteroatom or substituent is present, it is written explicitly.
 
@@ -330,10 +331,10 @@ Some organic molecules are three-dimensional. A flat drawing may not show true s
 
 Wedge-dash notation is used:
 
-| Symbol | Meaning |
-| --- | --- |
-| Normal line | Bond lies in plane of paper. |
-| Solid wedge | Bond projects out of plane toward observer. |
+| Symbol       | Meaning                                        |
+| ------------ | ---------------------------------------------- |
+| Normal line  | Bond lies in plane of paper.                   |
+| Solid wedge  | Bond projects out of plane toward observer.    |
 | Dashed wedge | Bond projects behind plane away from observer. |
 
 This is especially important for tetrahedral carbon and stereochemistry.
@@ -344,11 +345,11 @@ This is especially important for tetrahedral carbon and stereochemistry.
 
 Three common molecular models are:
 
-| Model | What It Shows Best |
-| --- | --- |
-| Framework model | Bond pattern and skeleton. |
-| Ball-and-stick model | Atoms and bonds clearly. |
-| Space-filling model | Relative size and volume occupied by atoms. |
+| Model                | What It Shows Best                          |
+| -------------------- | ------------------------------------------- |
+| Framework model      | Bond pattern and skeleton.                  |
+| Ball-and-stick model | Atoms and bonds clearly.                    |
+| Space-filling model  | Relative size and volume occupied by atoms. |
 
 Computer graphics can also be used for molecular modelling.
 
@@ -448,16 +449,16 @@ A functional group is an atom or group of atoms that gives an organic compound i
 
 Examples:
 
-| Functional Group | Class |
-| --- | --- |
-| `-OH` | Alcohol |
-| `-CHO` | Aldehyde |
-| `>C=O` | Ketone |
-| `-COOH` | Carboxylic acid |
-| `-NH2` | Amine |
-| `-X` | Halo compound |
-| `-CN` | Nitrile |
-| `-NO2` | Nitro compound |
+| Functional Group | Class           |
+| ---------------- | --------------- |
+| `-OH`            | Alcohol         |
+| `-CHO`           | Aldehyde        |
+| `>C=O`           | Ketone          |
+| `-COOH`          | Carboxylic acid |
+| `-NH2`           | Amine           |
+| `-X`             | Halo compound   |
+| `-CN`            | Nitrile         |
+| `-NO2`           | Nitro compound  |
 
 Compounds with the same functional group usually undergo similar chemical reactions.
 
@@ -515,27 +516,27 @@ An IUPAC name generally contains:
 ## Root Words
 
 | Number of Carbon Atoms | Root |
-| ---: | --- |
-| 1 | meth |
-| 2 | eth |
-| 3 | prop |
-| 4 | but |
-| 5 | pent |
-| 6 | hex |
-| 7 | hept |
-| 8 | oct |
-| 9 | non |
-| 10 | dec |
+| ---------------------: | ---- |
+|                      1 | meth |
+|                      2 | eth  |
+|                      3 | prop |
+|                      4 | but  |
+|                      5 | pent |
+|                      6 | hex  |
+|                      7 | hept |
+|                      8 | oct  |
+|                      9 | non  |
+|                     10 | dec  |
 
 ---
 
 ## Primary Suffix
 
-| Bond Type | Suffix |
-| --- | --- |
+| Bond Type             | Suffix |
+| --------------------- | ------ |
 | C-C single bonds only | `-ane` |
-| C=C double bond | `-ene` |
-| C≡C triple bond | `-yne` |
+| C=C double bond       | `-ene` |
+| C≡C triple bond       | `-yne` |
 
 In ASCII writing, a triple bond may be written as `C#C`.
 
@@ -548,12 +549,12 @@ Straight-chain saturated hydrocarbons end in `-ane`.
 Examples:
 
 | Formula | IUPAC Name |
-| --- | --- |
-| `CH4` | methane |
-| `C2H6` | ethane |
-| `C3H8` | propane |
-| `C4H10` | butane |
-| `C5H12` | pentane |
+| ------- | ---------- |
+| `CH4`   | methane    |
+| `C2H6`  | ethane     |
+| `C3H8`  | propane    |
+| `C4H10` | butane     |
+| `C5H12` | pentane    |
 
 ---
 
@@ -561,12 +562,12 @@ Examples:
 
 An alkyl group is formed by removing one hydrogen from an alkane.
 
-| Alkane | Alkyl Group |
-| --- | --- |
+| Alkane  | Alkyl Group    |
+| ------- | -------------- |
 | methane | methyl, `-CH3` |
-| ethane | ethyl, `-C2H5` |
-| propane | propyl |
-| butane | butyl |
+| ethane  | ethyl, `-C2H5` |
+| propane | propyl         |
+| butane  | butyl          |
 
 The suffix changes from `-ane` to `-yl`.
 
@@ -772,13 +773,13 @@ The parent alkane name is retained before the suffix when needed.
 
 Examples:
 
-| Compound | Common/IUPAC Style |
-| --- | --- |
-| `C6H5CH3` | methylbenzene, toluene |
+| Compound   | Common/IUPAC Style      |
+| ---------- | ----------------------- |
+| `C6H5CH3`  | methylbenzene, toluene  |
 | `C6H5OCH3` | methoxybenzene, anisole |
-| `C6H5NH2` | aminobenzene, aniline |
-| `C6H5NO2` | nitrobenzene |
-| `C6H5Br` | bromobenzene |
+| `C6H5NH2`  | aminobenzene, aniline   |
+| `C6H5NO2`  | nitrobenzene            |
+| `C6H5Br`   | bromobenzene            |
 
 ---
 
@@ -787,10 +788,10 @@ Examples:
 For two substituents, positions may be:
 
 | Positions | Common Prefix |
-| --- | --- |
-| 1,2 | ortho or o- |
-| 1,3 | meta or m- |
-| 1,4 | para or p- |
+| --------- | ------------- |
+| 1,2       | ortho or o-   |
+| 1,3       | meta or m-    |
+| 1,4       | para or p-    |
 
 Examples:
 
@@ -834,10 +835,10 @@ Such compounds are called isomers.
 
 ## Main Types
 
-| Type | Meaning |
-| --- | --- |
-| Structural isomerism | Same molecular formula but different connectivity. |
-| Stereoisomerism | Same connectivity but different spatial arrangement. |
+| Type                 | Meaning                                              |
+| -------------------- | ---------------------------------------------------- |
+| Structural isomerism | Same molecular formula but different connectivity.   |
+| Stereoisomerism      | Same connectivity but different spatial arrangement. |
 
 Structural isomerism includes:
 
@@ -941,10 +942,10 @@ Organic reactions usually involve breaking and forming covalent bonds.
 
 ## Substrate and Reagent
 
-| Term | Meaning |
-| --- | --- |
+| Term      | Meaning                                                               |
+| --------- | --------------------------------------------------------------------- |
 | Substrate | Organic molecule whose carbon framework is being attacked or changed. |
-| Reagent | Species that attacks or reacts with the substrate. |
+| Reagent   | Species that attacks or reacts with the substrate.                    |
 
 In many reactions, the substrate contains the reactive carbon centre and the reagent brings or takes electrons.
 
@@ -1047,11 +1048,11 @@ Radicals are often formed in reactions involving heat, light, or peroxides.
 
 ## Comparing Intermediates
 
-| Intermediate | Charge | Electron Nature | Formed By |
-| --- | --- | --- | --- |
-| Carbocation | positive | electron-deficient | heterolysis |
-| Carbanion | negative | electron-rich | heterolysis |
-| Free radical | neutral | unpaired electron | homolysis |
+| Intermediate | Charge   | Electron Nature    | Formed By   |
+| ------------ | -------- | ------------------ | ----------- |
+| Carbocation  | positive | electron-deficient | heterolysis |
+| Carbanion    | negative | electron-rich      | heterolysis |
+| Free radical | neutral  | unpaired electron  | homolysis   |
 
 ---
 
@@ -1098,10 +1099,10 @@ Electrophiles attack electron-rich centres.
 
 ## How to Remember
 
-| Species | Gives or Takes Electron Pair? | Attacks |
-| --- | --- | --- |
-| Nucleophile | gives | positive/electron-poor centre |
-| Electrophile | takes | negative/electron-rich centre |
+| Species      | Gives or Takes Electron Pair? | Attacks                       |
+| ------------ | ----------------------------- | ----------------------------- |
+| Nucleophile  | gives                         | positive/electron-poor centre |
+| Electrophile | takes                         | negative/electron-rich centre |
 
 ---
 
@@ -1345,12 +1346,12 @@ In `-E` effect, pi electrons move away from the atom to which the attacking reag
 
 ## Electromeric Versus Inductive
 
-| Feature | Inductive Effect | Electromeric Effect |
-| --- | --- | --- |
-| Nature | Permanent | Temporary |
-| Bond involved | Sigma bonds | Pi bonds |
-| Needs reagent? | No | Yes |
-| Electron shift | Partial | Complete |
+| Feature        | Inductive Effect | Electromeric Effect |
+| -------------- | ---------------- | ------------------- |
+| Nature         | Permanent        | Temporary           |
+| Bond involved  | Sigma bonds      | Pi bonds            |
+| Needs reagent? | No               | Yes                 |
+| Electron shift | Partial          | Complete            |
 
 If inductive and electromeric effects operate in opposite directions during attack, electromeric effect usually predominates.
 
@@ -1404,11 +1405,11 @@ This helps explain why more substituted alkenes are generally more stable.
 
 Organic reactions are broadly classified into:
 
-| Type | Meaning |
-| --- | --- |
-| Substitution | One atom/group replaces another. |
-| Addition | Atoms/groups add across a multiple bond. |
-| Elimination | Atoms/groups are removed, often forming a multiple bond. |
+| Type          | Meaning                                                        |
+| ------------- | -------------------------------------------------------------- |
+| Substitution  | One atom/group replaces another.                               |
+| Addition      | Atoms/groups add across a multiple bond.                       |
+| Elimination   | Atoms/groups are removed, often forming a multiple bond.       |
 | Rearrangement | Carbon skeleton or group positions change within the molecule. |
 
 These are studied in more detail in Hydrocarbons and Class 12 organic chemistry.
@@ -1587,10 +1588,10 @@ Components separate because they interact differently with the two phases.
 
 ## Stationary and Mobile Phases
 
-| Phase | Meaning |
-| --- | --- |
-| Stationary phase | Fixed phase, solid or liquid. |
-| Mobile phase | Moving solvent, solvent mixture, or gas. |
+| Phase            | Meaning                                  |
+| ---------------- | ---------------------------------------- |
+| Stationary phase | Fixed phase, solid or liquid.            |
+| Mobile phase     | Moving solvent, solvent mixture, or gas. |
 
 Different components move at different rates, causing separation.
 
@@ -1698,10 +1699,10 @@ Hydrogen is oxidised to water:
 
 Tests:
 
-| Product | Test | Observation |
-| --- | --- | --- |
-| `CO2` | lime water | turns milky due to `CaCO3` |
-| `H2O` | anhydrous copper sulphate | white turns blue |
+| Product | Test                      | Observation                |
+| ------- | ------------------------- | -------------------------- |
+| `CO2`   | lime water                | turns milky due to `CaCO3` |
+| `H2O`   | anhydrous copper sulphate | white turns blue           |
 
 Equations:
 
@@ -1795,11 +1796,11 @@ Sodium fusion extract is acidified with nitric acid and treated with silver nitr
 
 `X- + Ag+ -> AgX`
 
-| Halogen | Precipitate | Solubility in Ammonium Hydroxide |
-| --- | --- | --- |
-| Chlorine | white `AgCl` | soluble |
-| Bromine | pale yellow `AgBr` | sparingly soluble |
-| Iodine | yellow `AgI` | insoluble |
+| Halogen  | Precipitate        | Solubility in Ammonium Hydroxide |
+| -------- | ------------------ | -------------------------------- |
+| Chlorine | white `AgCl`       | soluble                          |
+| Bromine  | pale yellow `AgBr` | sparingly soluble                |
+| Iodine   | yellow `AgI`       | insoluble                        |
 
 Nitric acid is added before silver nitrate to decompose interfering `CN-` and `S2-` ions.
 
@@ -2238,4 +2239,3 @@ Electronic effects control reactivity. Inductive effect is permanent sigma elect
 ## Best Final Line for Answers
 
 Organic chemistry becomes understandable when every compound is studied through its carbon skeleton, functional group, electron distribution, reaction mechanism, and method of purification or analysis.
-

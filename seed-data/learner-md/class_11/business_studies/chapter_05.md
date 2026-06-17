@@ -117,13 +117,13 @@ E-business > E-commerce
 
 ## 7. Difference Between E-Business and E-Commerce
 
-| Basis | E-commerce | E-business |
-|---|---|---|
-| Meaning | Electronic buying and selling | Electronic conduct of business functions |
-| Scope | Narrower | Wider |
-| Main focus | Transactions with customers and suppliers | Complete business processes |
-| Includes | Online shopping, online selling, online payment | Production, inventory, finance, HR, accounting, procurement, customer service, internal processes |
-| Example | Customer buys a phone online | Firm manages purchase, stock, payment, delivery, HR, and customer support digitally |
+| Basis      | E-commerce                                      | E-business                                                                                        |
+| ---------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| Meaning    | Electronic buying and selling                   | Electronic conduct of business functions                                                          |
+| Scope      | Narrower                                        | Wider                                                                                             |
+| Main focus | Transactions with customers and suppliers       | Complete business processes                                                                       |
+| Includes   | Online shopping, online selling, online payment | Production, inventory, finance, HR, accounting, procurement, customer service, internal processes |
+| Example    | Customer buys a phone online                    | Firm manages purchase, stock, payment, delivery, HR, and customer support digitally               |
 
 ## 8. Scope of E-Business
 
@@ -437,23 +437,23 @@ E-business benefits consumers and society through:
 
 ## 27. Traditional Business and E-Business: Comparison
 
-| Basis | Traditional business | E-business |
-|---|---|---|
-| Ease of formation | More difficult | Easier |
-| Physical presence | Required | Not always required |
-| Location | Important; near raw materials or market | Less important |
-| Setup cost | High | Lower |
-| Operating cost | High due to physical facilities | Lower due to digital networks |
-| Contact with suppliers and customers | Often through intermediaries | Direct |
-| Internal communication | Hierarchical | Direct, vertical, horizontal, and diagonal |
-| Response time | Longer | Faster |
-| Organisation shape | Tall and vertical | Flatter and more networked |
-| Process cycle | Sequential | Simultaneous |
-| Personal touch | More | Less |
-| Physical pre-sampling | More possible | Less for physical goods; high for digital goods |
-| Going global | More difficult | Easier |
-| Human capital | Semi-skilled and unskilled may be enough in many roles | Technically skilled people needed |
-| Transaction risk | Lower because of face-to-face contact | Higher because of distance and anonymity |
+| Basis                                | Traditional business                                   | E-business                                      |
+| ------------------------------------ | ------------------------------------------------------ | ----------------------------------------------- |
+| Ease of formation                    | More difficult                                         | Easier                                          |
+| Physical presence                    | Required                                               | Not always required                             |
+| Location                             | Important; near raw materials or market                | Less important                                  |
+| Setup cost                           | High                                                   | Lower                                           |
+| Operating cost                       | High due to physical facilities                        | Lower due to digital networks                   |
+| Contact with suppliers and customers | Often through intermediaries                           | Direct                                          |
+| Internal communication               | Hierarchical                                           | Direct, vertical, horizontal, and diagonal      |
+| Response time                        | Longer                                                 | Faster                                          |
+| Organisation shape                   | Tall and vertical                                      | Flatter and more networked                      |
+| Process cycle                        | Sequential                                             | Simultaneous                                    |
+| Personal touch                       | More                                                   | Less                                            |
+| Physical pre-sampling                | More possible                                          | Less for physical goods; high for digital goods |
+| Going global                         | More difficult                                         | Easier                                          |
+| Human capital                        | Semi-skilled and unskilled may be enough in many roles | Technically skilled people needed               |
+| Transaction risk                     | Lower because of face-to-face contact                  | Higher because of distance and anonymity        |
 
 ## 28. Limitations of E-Business
 
@@ -1036,46 +1036,46 @@ Identify it as C2C commerce because both seller and buyer are consumers.
 
 ## 68. Common Mistakes and Corrections
 
-| Mistake | Correct understanding |
-|---|---|
-| E-business and e-commerce are exactly the same | E-business is wider than e-commerce |
-| B2C means only online sale | It includes marketing, payment, delivery, feedback, and support |
-| E-business has no risks | It has transaction, data, privacy, and security risks |
-| Digital goods need physical delivery | Digital goods can be delivered electronically |
-| Outsourcing means selling the business | Outsourcing means contracting selected processes to outside agencies |
-| All outsourced work is low-skill | KPO includes high-skill knowledge work |
-| Encryption prevents all fraud | Encryption protects data transmission, but other safeguards are also needed |
-| Online business needs no resources | It needs hardware, software, website, payment, security, people, and logistics |
+| Mistake                                        | Correct understanding                                                          |
+| ---------------------------------------------- | ------------------------------------------------------------------------------ |
+| E-business and e-commerce are exactly the same | E-business is wider than e-commerce                                            |
+| B2C means only online sale                     | It includes marketing, payment, delivery, feedback, and support                |
+| E-business has no risks                        | It has transaction, data, privacy, and security risks                          |
+| Digital goods need physical delivery           | Digital goods can be delivered electronically                                  |
+| Outsourcing means selling the business         | Outsourcing means contracting selected processes to outside agencies           |
+| All outsourced work is low-skill               | KPO includes high-skill knowledge work                                         |
+| Encryption prevents all fraud                  | Encryption protects data transmission, but other safeguards are also needed    |
+| Online business needs no resources             | It needs hardware, software, website, payment, security, people, and logistics |
 
 ## 69. Glossary
 
-| Term | Meaning |
-|---|---|
-| Emerging modes | New ways of conducting business |
-| Digitisation | Conversion of information into electronic form |
-| E-business | Conducting business through computer networks |
-| E-commerce | Online buying and selling |
-| B2B | Business-to-business commerce |
-| B2C | Business-to-consumer commerce |
-| Intra-B | Electronic transactions within a business firm |
-| C2C | Consumer-to-consumer commerce |
-| EDI | Electronic exchange of business documents |
-| E-procurement | Internet-based purchasing |
-| E-bidding | Online price quoting or tendering |
-| E-auction | Online auction |
-| E-delivery | Digital delivery of products or services |
-| E-trading | Online trading of securities or financial instruments |
-| Shopping cart | Online list of selected goods before checkout |
-| Digital cash | Electronic form of money for online use |
-| Virus | Harmful program that can replicate and damage computer systems |
-| Encryption | Converting readable data into unreadable form |
-| SSL | Security technology for protecting web data transmission |
-| BPO | Business process outsourcing |
-| KPO | Knowledge process outsourcing |
-| Call centre | Unit handling customer calls and support |
-| Captive BPO | Outsourcing unit owned by the client company |
-| Horizontal service | Common support service across industries |
-| Vertical service | Industry-specific outsourced service |
+| Term               | Meaning                                                        |
+| ------------------ | -------------------------------------------------------------- |
+| Emerging modes     | New ways of conducting business                                |
+| Digitisation       | Conversion of information into electronic form                 |
+| E-business         | Conducting business through computer networks                  |
+| E-commerce         | Online buying and selling                                      |
+| B2B                | Business-to-business commerce                                  |
+| B2C                | Business-to-consumer commerce                                  |
+| Intra-B            | Electronic transactions within a business firm                 |
+| C2C                | Consumer-to-consumer commerce                                  |
+| EDI                | Electronic exchange of business documents                      |
+| E-procurement      | Internet-based purchasing                                      |
+| E-bidding          | Online price quoting or tendering                              |
+| E-auction          | Online auction                                                 |
+| E-delivery         | Digital delivery of products or services                       |
+| E-trading          | Online trading of securities or financial instruments          |
+| Shopping cart      | Online list of selected goods before checkout                  |
+| Digital cash       | Electronic form of money for online use                        |
+| Virus              | Harmful program that can replicate and damage computer systems |
+| Encryption         | Converting readable data into unreadable form                  |
+| SSL                | Security technology for protecting web data transmission       |
+| BPO                | Business process outsourcing                                   |
+| KPO                | Knowledge process outsourcing                                  |
+| Call centre        | Unit handling customer calls and support                       |
+| Captive BPO        | Outsourcing unit owned by the client company                   |
+| Horizontal service | Common support service across industries                       |
+| Vertical service   | Industry-specific outsourced service                           |
 
 ## 70. Final Revision Sheet
 

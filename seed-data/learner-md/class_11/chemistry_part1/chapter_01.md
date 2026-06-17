@@ -41,28 +41,28 @@ By the end of this chapter, a learner should be able to:
 
 ## 3. Core Vocabulary
 
-| Term | Learner meaning |
-|---|---|
-| Chemistry | Study of matter, its properties, structure, composition, and changes |
-| Matter | Anything that has mass and occupies space |
-| Element | Pure substance containing only one type of atom |
-| Compound | Pure substance formed by elements combined in fixed ratio |
-| Mixture | Physical combination of two or more substances |
-| Physical property | Property observed without changing chemical identity |
-| Chemical property | Property observed through chemical change |
-| SI units | International System of Units |
-| Scientific notation | Writing a number as `N x 10^n`, where `1 <= N < 10` |
-| Significant figures | Certain digits plus one uncertain digit in measurement |
-| Accuracy | Closeness to the true value |
-| Precision | Closeness among repeated measurements |
-| Mole | Amount containing exactly `6.02214076 x 10^23` entities |
-| Molar mass | Mass of one mole of a substance |
-| Empirical formula | Simplest whole-number ratio of atoms |
-| Molecular formula | Actual number of atoms in one molecule |
-| Stoichiometry | Quantitative calculation using balanced chemical equations |
-| Limiting reagent | Reactant consumed first and limiting product formation |
-| Molarity | Moles of solute per litre of solution |
-| Molality | Moles of solute per kilogram of solvent |
+| Term                | Learner meaning                                                      |
+| ------------------- | -------------------------------------------------------------------- |
+| Chemistry           | Study of matter, its properties, structure, composition, and changes |
+| Matter              | Anything that has mass and occupies space                            |
+| Element             | Pure substance containing only one type of atom                      |
+| Compound            | Pure substance formed by elements combined in fixed ratio            |
+| Mixture             | Physical combination of two or more substances                       |
+| Physical property   | Property observed without changing chemical identity                 |
+| Chemical property   | Property observed through chemical change                            |
+| SI units            | International System of Units                                        |
+| Scientific notation | Writing a number as `N x 10^n`, where `1 <= N < 10`                  |
+| Significant figures | Certain digits plus one uncertain digit in measurement               |
+| Accuracy            | Closeness to the true value                                          |
+| Precision           | Closeness among repeated measurements                                |
+| Mole                | Amount containing exactly `6.02214076 x 10^23` entities              |
+| Molar mass          | Mass of one mole of a substance                                      |
+| Empirical formula   | Simplest whole-number ratio of atoms                                 |
+| Molecular formula   | Actual number of atoms in one molecule                               |
+| Stoichiometry       | Quantitative calculation using balanced chemical equations           |
+| Limiting reagent    | Reactant consumed first and limiting product formation               |
+| Molarity            | Moles of solute per litre of solution                                |
+| Molality            | Moles of solute per kilogram of solvent                              |
 
 ## 4. Big Picture of the Chapter
 
@@ -174,11 +174,11 @@ Matter commonly exists in three physical states:
 2. Liquid.
 3. Gas.
 
-| State | Shape | Volume | Particle arrangement |
-|---|---|---|---|
-| Solid | Definite | Definite | Particles closely packed and orderly |
-| Liquid | Not definite | Definite | Particles close but able to move |
-| Gas | Not definite | Not definite | Particles far apart and move freely |
+| State  | Shape        | Volume       | Particle arrangement                 |
+| ------ | ------------ | ------------ | ------------------------------------ |
+| Solid  | Definite     | Definite     | Particles closely packed and orderly |
+| Liquid | Not definite | Definite     | Particles close but able to move     |
+| Gas    | Not definite | Not definite | Particles far apart and move freely  |
 
 ## 11. Interconversion of States
 
@@ -276,21 +276,21 @@ Examples:
 
 ## 17. Homogeneous and Heterogeneous Mixtures
 
-| Basis | Homogeneous mixture | Heterogeneous mixture |
-|---|---|---|
-| Composition | Uniform throughout | Not uniform throughout |
-| Appearance | Single phase | Two or more visible phases |
-| Example | Salt solution | Sand and iron filings |
-| Separation | Physical methods | Physical methods |
+| Basis       | Homogeneous mixture | Heterogeneous mixture      |
+| ----------- | ------------------- | -------------------------- |
+| Composition | Uniform throughout  | Not uniform throughout     |
+| Appearance  | Single phase        | Two or more visible phases |
+| Example     | Salt solution       | Sand and iron filings      |
+| Separation  | Physical methods    | Physical methods           |
 
 ## 18. Element, Compound, and Mixture Compared
 
-| Basis | Element | Compound | Mixture |
-|---|---|---|---|
-| Composition | One type of atom | Fixed ratio of elements | Variable ratio |
-| Separation | Cannot be broken chemically into simpler elements | Can be decomposed chemically | Can often be separated physically |
-| Properties | Characteristic of element | Different from constituent elements | Components retain properties |
-| Example | Iron | Water | Air |
+| Basis       | Element                                           | Compound                            | Mixture                           |
+| ----------- | ------------------------------------------------- | ----------------------------------- | --------------------------------- |
+| Composition | One type of atom                                  | Fixed ratio of elements             | Variable ratio                    |
+| Separation  | Cannot be broken chemically into simpler elements | Can be decomposed chemically        | Can often be separated physically |
+| Properties  | Characteristic of element                         | Different from constituent elements | Components retain properties      |
+| Example     | Iron                                              | Water                               | Air                               |
 
 ## 19. Physical Properties
 
@@ -342,31 +342,31 @@ It gives a common measurement language for science.
 
 ## 23. Seven SI Base Quantities and Units
 
-| Quantity | SI unit | Symbol |
-|---|---|---|
-| Length | metre | m |
-| Mass | kilogram | kg |
-| Time | second | s |
-| Electric current | ampere | A |
-| Thermodynamic temperature | kelvin | K |
-| Amount of substance | mole | mol |
-| Luminous intensity | candela | cd |
+| Quantity                  | SI unit  | Symbol |
+| ------------------------- | -------- | ------ |
+| Length                    | metre    | m      |
+| Mass                      | kilogram | kg     |
+| Time                      | second   | s      |
+| Electric current          | ampere   | A      |
+| Thermodynamic temperature | kelvin   | K      |
+| Amount of substance       | mole     | mol    |
+| Luminous intensity        | candela  | cd     |
 
 ## 24. Common SI Prefixes
 
-| Prefix | Symbol | Multiple |
-|---|---|---:|
-| tera | T | `10^12` |
-| giga | G | `10^9` |
-| mega | M | `10^6` |
-| kilo | k | `10^3` |
-| deci | d | `10^-1` |
-| centi | c | `10^-2` |
-| milli | m | `10^-3` |
-| micro | use word micro | `10^-6` |
-| nano | n | `10^-9` |
-| pico | p | `10^-12` |
-| femto | f | `10^-15` |
+| Prefix | Symbol         | Multiple |
+| ------ | -------------- | -------: |
+| tera   | T              |  `10^12` |
+| giga   | G              |   `10^9` |
+| mega   | M              |   `10^6` |
+| kilo   | k              |   `10^3` |
+| deci   | d              |  `10^-1` |
+| centi  | c              |  `10^-2` |
+| milli  | m              |  `10^-3` |
+| micro  | use word micro |  `10^-6` |
+| nano   | n              |  `10^-9` |
+| pico   | p              | `10^-12` |
+| femto  | f              | `10^-15` |
 
 ## 25. Mass and Weight
 
@@ -374,12 +374,12 @@ Mass is the amount of matter in a substance.
 
 Weight is the force exerted by gravity on the substance.
 
-| Basis | Mass | Weight |
-|---|---|---|
-| Meaning | Amount of matter | Gravitational force |
-| SI unit | kilogram | newton |
-| Changes with place | No | Yes |
-| Measured by | Balance | Spring balance |
+| Basis              | Mass             | Weight              |
+| ------------------ | ---------------- | ------------------- |
+| Meaning            | Amount of matter | Gravitational force |
+| SI unit            | kilogram         | newton              |
+| Changes with place | No               | Yes                 |
+| Measured by        | Balance          | Spring balance      |
 
 In chemistry laboratories, mass is often measured in grams because chemical samples are small.
 
@@ -461,12 +461,12 @@ where `1 <= N < 10` and `n` is an integer.
 
 Examples:
 
-| Ordinary number | Scientific notation |
-|---:|---:|
-| 232.508 | `2.32508 x 10^2` |
-| 0.00016 | `1.6 x 10^-4` |
-| 602200000000000000000000 | `6.022 x 10^23` |
-| 0.00000000000000000000000166 | `1.66 x 10^-24` |
+|              Ordinary number | Scientific notation |
+| ---------------------------: | ------------------: |
+|                      232.508 |    `2.32508 x 10^2` |
+|                      0.00016 |       `1.6 x 10^-4` |
+|     602200000000000000000000 |     `6.022 x 10^23` |
+| 0.00000000000000000000000166 |     `1.66 x 10^-24` |
 
 ## 30. Rules for Scientific Notation
 
@@ -514,15 +514,15 @@ If a reading is `11.2 mL`, then `11` is certain and `2` is uncertain in the last
 
 ## 34. Significant Figures Examples
 
-| Number | Significant figures | Reason |
-|---:|---:|---|
-| `285` | 3 | All non-zero digits count |
-| `0.25` | 2 | Leading zero does not count |
-| `0.0052` | 2 | Leading zeros do not count |
-| `2.005` | 4 | Captive zeros count |
-| `0.200` | 3 | Trailing decimal zeros count |
-| `100` | 1, unless specified otherwise | Trailing zeros without decimal are ambiguous |
-| `100.0` | 4 | Decimal shows zeros are significant |
+|   Number |           Significant figures | Reason                                       |
+| -------: | ----------------------------: | -------------------------------------------- |
+|    `285` |                             3 | All non-zero digits count                    |
+|   `0.25` |                             2 | Leading zero does not count                  |
+| `0.0052` |                             2 | Leading zeros do not count                   |
+|  `2.005` |                             4 | Captive zeros count                          |
+|  `0.200` |                             3 | Trailing decimal zeros count                 |
+|    `100` | 1, unless specified otherwise | Trailing zeros without decimal are ambiguous |
+|  `100.0` |                             4 | Decimal shows zeros are significant          |
 
 ## 35. Accuracy and Precision
 
@@ -534,11 +534,11 @@ Example:
 
 If the true value is `2.00 g`:
 
-| Measurements | Accuracy | Precision |
-|---|---|---|
-| `1.95 g`, `1.93 g` | Not accurate | Precise |
+| Measurements       | Accuracy     | Precision   |
+| ------------------ | ------------ | ----------- |
+| `1.95 g`, `1.93 g` | Not accurate | Precise     |
 | `1.94 g`, `2.05 g` | Not accurate | Not precise |
-| `2.01 g`, `1.99 g` | Accurate | Precise |
+| `2.01 g`, `1.99 g` | Accurate     | Precise     |
 
 ## 36. Significant Figures in Addition and Subtraction
 
@@ -913,10 +913,10 @@ A compound contains `4.07% H`, `24.27% C`, and `71.65% Cl`. Its molar mass is `9
 Assume `100 g` sample:
 
 | Element | Mass in 100 g | Atomic mass | Moles |
-|---|---:|---:|---:|
-| H | 4.07 g | 1.008 | 4.04 |
-| C | 24.27 g | 12.01 | 2.021 |
-| Cl | 71.65 g | 35.45 | 2.021 |
+| ------- | ------------: | ----------: | ----: |
+| H       |        4.07 g |       1.008 |  4.04 |
+| C       |       24.27 g |       12.01 | 2.021 |
+| Cl      |       71.65 g |       35.45 | 2.021 |
 
 Divide by smallest value, `2.021`:
 
@@ -1220,13 +1220,13 @@ Molality does not change with temperature because mass is not temperature-depend
 
 ## 77. Molarity and Molality Compared
 
-| Basis | Molarity | Molality |
-|---|---|---|
-| Formula | Moles solute per litre solution | Moles solute per kg solvent |
-| Symbol | `M` | `m` |
-| Depends on volume | Yes | No |
-| Changes with temperature | Yes | No |
-| Common use | Laboratory solutions | Colligative properties and temperature-variable cases |
+| Basis                    | Molarity                        | Molality                                              |
+| ------------------------ | ------------------------------- | ----------------------------------------------------- |
+| Formula                  | Moles solute per litre solution | Moles solute per kg solvent                           |
+| Symbol                   | `M`                             | `m`                                                   |
+| Depends on volume        | Yes                             | No                                                    |
+| Changes with temperature | Yes                             | No                                                    |
+| Common use               | Laboratory solutions            | Colligative properties and temperature-variable cases |
 
 ## 78. Worked Example: Molarity of NaOH
 
@@ -1528,12 +1528,12 @@ $$
 ## 90. Exercise Support: Prefix Matching
 
 | Prefix | Correct multiple |
-|---|---:|
-| micro | `10^-6` |
-| deca | `10^1` |
-| mega | `10^6` |
-| giga | `10^9` |
-| femto | `10^-15` |
+| ------ | ---------------: |
+| micro  |          `10^-6` |
+| deca   |           `10^1` |
+| mega   |           `10^6` |
+| giga   |           `10^9` |
+| femto  |         `10^-15` |
 
 ## 91. Exercise Support: Chloroform in Water
 
@@ -1567,33 +1567,33 @@ $$
 
 ## 92. Exercise Support: Scientific Notation
 
-| Number | Scientific notation |
-|---:|---:|
-| `0.0048` | `4.8 x 10^-3` |
-| `234000` | `2.34 x 10^5` |
-| `8008` | `8.008 x 10^3` |
-| `500.0` | `5.000 x 10^2` |
-| `6.0012` | `6.0012 x 10^0` |
+|   Number | Scientific notation |
+| -------: | ------------------: |
+| `0.0048` |       `4.8 x 10^-3` |
+| `234000` |       `2.34 x 10^5` |
+|   `8008` |      `8.008 x 10^3` |
+|  `500.0` |      `5.000 x 10^2` |
+| `6.0012` |     `6.0012 x 10^0` |
 
 ## 93. Exercise Support: Significant Figures
 
-| Number | Significant figures |
-|---:|---:|
-| `0.0025` | 2 |
-| `208` | 3 |
-| `5005` | 4 |
+|   Number |                Significant figures |
+| -------: | ---------------------------------: |
+| `0.0025` |                                  2 |
+|    `208` |                                  3 |
+|   `5005` |                                  4 |
 | `126000` | 3 if no decimal point is specified |
-| `500.0` | 4 |
-| `2.0034` | 5 |
+|  `500.0` |                                  4 |
+| `2.0034` |                                  5 |
 
 ## 94. Exercise Support: Rounding to Three Significant Figures
 
-| Number | Rounded value |
-|---:|---:|
-| `34.216` | `34.2` |
-| `10.4107` | `10.4` |
-| `0.04597` | `0.0460` |
-| `2808` | `2.81 x 10^3` |
+|    Number | Rounded value |
+| --------: | ------------: |
+|  `34.216` |        `34.2` |
+| `10.4107` |        `10.4` |
+| `0.04597` |      `0.0460` |
+|    `2808` | `2.81 x 10^3` |
 
 ## 95. Exercise Support: Law of Multiple Proportions
 
@@ -1870,16 +1870,16 @@ Answer:
 
 ## 106. Common Student Confusions
 
-| Confusion | Correct understanding |
-|---|---|
-| Mass and weight are same | Mass is amount of matter; weight is gravitational force |
-| A compound and mixture are same | Compound has fixed ratio; mixture has variable composition |
-| Accuracy and precision are same | Accuracy is closeness to true value; precision is closeness among measurements |
-| Leading zeros are significant | Leading zeros only locate decimal point |
-| Molarity and molality are same | Molarity uses litre of solution; molality uses kg of solvent |
-| Empirical formula is always molecular formula | Molecular formula can be a multiple of empirical formula |
-| Limiting reagent is the reactant with smaller mass | It is the reactant that runs out first according to mole ratio |
-| Subscripts can be changed while balancing | Only coefficients can be changed |
+| Confusion                                          | Correct understanding                                                          |
+| -------------------------------------------------- | ------------------------------------------------------------------------------ |
+| Mass and weight are same                           | Mass is amount of matter; weight is gravitational force                        |
+| A compound and mixture are same                    | Compound has fixed ratio; mixture has variable composition                     |
+| Accuracy and precision are same                    | Accuracy is closeness to true value; precision is closeness among measurements |
+| Leading zeros are significant                      | Leading zeros only locate decimal point                                        |
+| Molarity and molality are same                     | Molarity uses litre of solution; molality uses kg of solvent                   |
+| Empirical formula is always molecular formula      | Molecular formula can be a multiple of empirical formula                       |
+| Limiting reagent is the reactant with smaller mass | It is the reactant that runs out first according to mole ratio                 |
+| Subscripts can be changed while balancing          | Only coefficients can be changed                                               |
 
 ## 107. Exam Answer: Importance of Chemistry
 
@@ -2033,32 +2033,32 @@ Basic chemistry
 
 ## 118. Glossary
 
-| Term | Meaning |
-|---|---|
-| Accuracy | Closeness to true value |
-| Atomic mass | Mass of an atom relative to carbon-12 standard |
-| Avogadro constant | `6.02214076 x 10^23 mol^-1` |
-| Chemical property | Property observed through chemical change |
-| Compound | Pure substance with elements in fixed ratio |
-| Density | Mass per unit volume |
-| Dimensional analysis | Unit conversion using unit factors |
-| Element | Pure substance with one type of atom |
-| Empirical formula | Simplest whole-number atom ratio |
-| Formula mass | Sum of atomic masses in formula unit |
-| Homogeneous mixture | Mixture uniform throughout |
-| Heterogeneous mixture | Mixture not uniform throughout |
-| Limiting reagent | Reactant consumed first |
-| Mass percent | Mass of component per 100 mass units of solution or compound |
-| Matter | Anything with mass and volume |
-| Molality | Moles solute per kg solvent |
-| Molarity | Moles solute per litre solution |
-| Molar mass | Mass of one mole |
-| Molecular formula | Actual atom numbers in molecule |
-| Molecular mass | Sum of atomic masses in molecule |
-| Mole fraction | Moles of component divided by total moles |
-| Precision | Closeness among repeated measurements |
-| Significant figures | Certain digits plus one uncertain digit |
-| Stoichiometry | Quantitative reaction calculation |
+| Term                  | Meaning                                                      |
+| --------------------- | ------------------------------------------------------------ |
+| Accuracy              | Closeness to true value                                      |
+| Atomic mass           | Mass of an atom relative to carbon-12 standard               |
+| Avogadro constant     | `6.02214076 x 10^23 mol^-1`                                  |
+| Chemical property     | Property observed through chemical change                    |
+| Compound              | Pure substance with elements in fixed ratio                  |
+| Density               | Mass per unit volume                                         |
+| Dimensional analysis  | Unit conversion using unit factors                           |
+| Element               | Pure substance with one type of atom                         |
+| Empirical formula     | Simplest whole-number atom ratio                             |
+| Formula mass          | Sum of atomic masses in formula unit                         |
+| Homogeneous mixture   | Mixture uniform throughout                                   |
+| Heterogeneous mixture | Mixture not uniform throughout                               |
+| Limiting reagent      | Reactant consumed first                                      |
+| Mass percent          | Mass of component per 100 mass units of solution or compound |
+| Matter                | Anything with mass and volume                                |
+| Molality              | Moles solute per kg solvent                                  |
+| Molarity              | Moles solute per litre solution                              |
+| Molar mass            | Mass of one mole                                             |
+| Molecular formula     | Actual atom numbers in molecule                              |
+| Molecular mass        | Sum of atomic masses in molecule                             |
+| Mole fraction         | Moles of component divided by total moles                    |
+| Precision             | Closeness among repeated measurements                        |
+| Significant figures   | Certain digits plus one uncertain digit                      |
+| Stoichiometry         | Quantitative reaction calculation                            |
 
 ## 119. Final Revision Sheet
 

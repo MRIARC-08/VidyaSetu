@@ -1,20 +1,21 @@
 # Chapter 12: Patterns in Life: Diversity and Classification
+
 ### NCERT Class 9 - Science
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 9 |
-| **Subject** | Science |
-| **Chapter** | 12 |
-| **Actual Chapter Title** | Patterns in Life: Diversity and Classification |
-| **Raw File Header** | "Improvement in Food Resources" |
-| **Textbook Pages** | 228-251 |
-| **Core Theme** | Biodiversity, classification, five kingdoms, plant and animal groups, scientific naming, fossils, and conservation. |
-| **Main Skill** | Using observable, cellular, nutritional, structural, and evolutionary features to classify organisms systematically. |
+| Detail                   | Learner-Friendly Information                                                                                         |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------- |
+| **Class**                | 9                                                                                                                    |
+| **Subject**              | Science                                                                                                              |
+| **Chapter**              | 12                                                                                                                   |
+| **Actual Chapter Title** | Patterns in Life: Diversity and Classification                                                                       |
+| **Raw File Header**      | "Improvement in Food Resources"                                                                                      |
+| **Textbook Pages**       | 228-251                                                                                                              |
+| **Core Theme**           | Biodiversity, classification, five kingdoms, plant and animal groups, scientific naming, fossils, and conservation.  |
+| **Main Skill**           | Using observable, cellular, nutritional, structural, and evolutionary features to classify organisms systematically. |
 
 > [!NOTE]
 > The raw source file is `chapter_12.md` and its extraction header says "Improvement in Food Resources", but the actual chapter content is **Patterns in Life: Diversity and Classification**. This learner-facing version follows the actual chapter content.
@@ -23,26 +24,26 @@
 
 ## Section Structure
 
-| Section | Title | Main Learning Focus |
-|---|---|---|
-| **12.0** | Introduction | Biodiversity and why organisms are grouped. |
-| **12.1** | India as a Biodiversity Hotspot | Endemic species, hotspots, and conservation importance. |
-| **12.2** | How Biodiversity Evolved | Variation, adaptation, survival, and long-term change. |
-| **12.3** | How to Classify Organisms? | Grouping organisms using different criteria. |
-| **12.3.1** | Criteria for Classification | External features, cell structure, nutrition, reproduction, and DNA. |
-| **12.4** | Need for Classification | Why scientific grouping makes biodiversity easier to study. |
-| **12.5** | Classification Systems Over Time | Aristotle, two kingdom, three kingdom, four kingdom, and five kingdom systems. |
-| **12.6** | Five Kingdom Classification | Monera, Protista, Fungi, Plantae, and Animalia. |
-| **12.6.1** | Kingdom Monera | Unicellular prokaryotes such as bacteria and cyanobacteria. |
-| **12.6.2** | Kingdom Protista | Unicellular eukaryotes such as Amoeba, Paramecium, Euglena, and Chlamydomonas. |
-| **12.6.3** | Kingdom Fungi | Heterotrophic organisms with chitin cell walls. |
-| **12.6.4** | Kingdom Plantae | Multicellular autotrophs with cellulose cell walls. |
-| **12.6.5** | Kingdom Animalia | Multicellular heterotrophs without cell walls. |
-| **12.7** | Adaptations as Structural Change | How body structures support survival. |
-| **12.7.1** | Classification Hierarchy | Kingdom to species. |
-| **12.8** | Binomial Nomenclature | Universal scientific naming system. |
-| **12.9** | Fossils as Evidence | Fossils as records of life changing over time. |
-| **12.10** | Biodiversity Under Threat | Human impacts, extinction risk, and conservation. |
+| Section    | Title                            | Main Learning Focus                                                            |
+| ---------- | -------------------------------- | ------------------------------------------------------------------------------ |
+| **12.0**   | Introduction                     | Biodiversity and why organisms are grouped.                                    |
+| **12.1**   | India as a Biodiversity Hotspot  | Endemic species, hotspots, and conservation importance.                        |
+| **12.2**   | How Biodiversity Evolved         | Variation, adaptation, survival, and long-term change.                         |
+| **12.3**   | How to Classify Organisms?       | Grouping organisms using different criteria.                                   |
+| **12.3.1** | Criteria for Classification      | External features, cell structure, nutrition, reproduction, and DNA.           |
+| **12.4**   | Need for Classification          | Why scientific grouping makes biodiversity easier to study.                    |
+| **12.5**   | Classification Systems Over Time | Aristotle, two kingdom, three kingdom, four kingdom, and five kingdom systems. |
+| **12.6**   | Five Kingdom Classification      | Monera, Protista, Fungi, Plantae, and Animalia.                                |
+| **12.6.1** | Kingdom Monera                   | Unicellular prokaryotes such as bacteria and cyanobacteria.                    |
+| **12.6.2** | Kingdom Protista                 | Unicellular eukaryotes such as Amoeba, Paramecium, Euglena, and Chlamydomonas. |
+| **12.6.3** | Kingdom Fungi                    | Heterotrophic organisms with chitin cell walls.                                |
+| **12.6.4** | Kingdom Plantae                  | Multicellular autotrophs with cellulose cell walls.                            |
+| **12.6.5** | Kingdom Animalia                 | Multicellular heterotrophs without cell walls.                                 |
+| **12.7**   | Adaptations as Structural Change | How body structures support survival.                                          |
+| **12.7.1** | Classification Hierarchy         | Kingdom to species.                                                            |
+| **12.8**   | Binomial Nomenclature            | Universal scientific naming system.                                            |
+| **12.9**   | Fossils as Evidence              | Fossils as records of life changing over time.                                 |
+| **12.10**  | Biodiversity Under Threat        | Human impacts, extinction risk, and conservation.                              |
 
 ---
 
@@ -50,19 +51,19 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Define biodiversity** | Explain biodiversity as the variety of life forms and their habitats, roles, and relationships. |
-| **Explain hotspots** | Describe why some regions are called biodiversity hotspots. |
-| **Classify organisms** | Use cell type, cell number, nutrition, body organisation, ecological role, and reproduction as criteria. |
-| **Compare kingdoms** | Distinguish Monera, Protista, Fungi, Plantae, and Animalia. |
-| **Trace classification history** | Explain why classification systems changed as scientific knowledge improved. |
-| **Identify plant groups** | Compare thallophytes, bryophytes, pteridophytes, gymnosperms, and angiosperms. |
-| **Identify animal groups** | Compare major invertebrate phyla, protochordates, and vertebrates. |
-| **Use hierarchy** | Arrange organisms from kingdom to species. |
-| **Write scientific names** | Apply the basic rules of binomial nomenclature. |
-| **Explain fossils** | Describe fossils as evidence for past life and evolutionary change. |
-| **Connect classification and conservation** | Explain how classification helps protect biodiversity. |
+| Outcome                                     | You Should Be Able To...                                                                                 |
+| ------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| **Define biodiversity**                     | Explain biodiversity as the variety of life forms and their habitats, roles, and relationships.          |
+| **Explain hotspots**                        | Describe why some regions are called biodiversity hotspots.                                              |
+| **Classify organisms**                      | Use cell type, cell number, nutrition, body organisation, ecological role, and reproduction as criteria. |
+| **Compare kingdoms**                        | Distinguish Monera, Protista, Fungi, Plantae, and Animalia.                                              |
+| **Trace classification history**            | Explain why classification systems changed as scientific knowledge improved.                             |
+| **Identify plant groups**                   | Compare thallophytes, bryophytes, pteridophytes, gymnosperms, and angiosperms.                           |
+| **Identify animal groups**                  | Compare major invertebrate phyla, protochordates, and vertebrates.                                       |
+| **Use hierarchy**                           | Arrange organisms from kingdom to species.                                                               |
+| **Write scientific names**                  | Apply the basic rules of binomial nomenclature.                                                          |
+| **Explain fossils**                         | Describe fossils as evidence for past life and evolutionary change.                                      |
+| **Connect classification and conservation** | Explain how classification helps protect biodiversity.                                                   |
 
 ---
 
@@ -85,33 +86,33 @@ Classification helps us organize this diversity so we can:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Biodiversity** | Variety of living organisms, their genetic differences, habitats, and ecological roles. |
-| **Classification** | Scientific grouping of organisms based on shared features and relationships. |
-| **Biological classification** | Systematic arrangement of living organisms into groups. |
-| **Endemic species** | Species naturally found only in a particular region. |
-| **Biodiversity hotspot** | Region with many endemic species and significant habitat loss. |
-| **Species** | Group of similar organisms that can interbreed and produce offspring. |
-| **Genus** | Group of closely related species. |
-| **Taxonomy** | Science of identifying, naming, and classifying organisms. |
-| **Prokaryote** | Cell without a membrane-bound nucleus. |
-| **Eukaryote** | Cell with a membrane-bound nucleus. |
-| **Unicellular** | Made of one cell. |
-| **Multicellular** | Made of many cells. |
-| **Autotroph** | Organism that makes its own food, usually by photosynthesis. |
-| **Heterotroph** | Organism that depends on other organisms for food. |
-| **Producer** | Organism that prepares food and supports food chains. |
-| **Consumer** | Organism that obtains food by consuming other organisms. |
-| **Decomposer** | Organism that breaks down dead matter and recycles nutrients. |
-| **Cell wall** | Rigid outer covering of many cells, such as plant, fungal, and bacterial cells. |
-| **Chitin** | Material in fungal cell walls and arthropod exoskeletons. |
-| **Cellulose** | Main material of plant cell walls. |
-| **Notochord** | Flexible rod-like support structure present in chordates at least at one stage. |
-| **Vertebral column** | Backbone in vertebrates. |
-| **Binomial nomenclature** | Two-part scientific naming system using genus and species. |
-| **Fossil** | Preserved remains or traces of ancient organisms. |
-| **Adaptation** | Feature that helps an organism survive and reproduce in its environment. |
+| Term                          | Meaning                                                                                 |
+| ----------------------------- | --------------------------------------------------------------------------------------- |
+| **Biodiversity**              | Variety of living organisms, their genetic differences, habitats, and ecological roles. |
+| **Classification**            | Scientific grouping of organisms based on shared features and relationships.            |
+| **Biological classification** | Systematic arrangement of living organisms into groups.                                 |
+| **Endemic species**           | Species naturally found only in a particular region.                                    |
+| **Biodiversity hotspot**      | Region with many endemic species and significant habitat loss.                          |
+| **Species**                   | Group of similar organisms that can interbreed and produce offspring.                   |
+| **Genus**                     | Group of closely related species.                                                       |
+| **Taxonomy**                  | Science of identifying, naming, and classifying organisms.                              |
+| **Prokaryote**                | Cell without a membrane-bound nucleus.                                                  |
+| **Eukaryote**                 | Cell with a membrane-bound nucleus.                                                     |
+| **Unicellular**               | Made of one cell.                                                                       |
+| **Multicellular**             | Made of many cells.                                                                     |
+| **Autotroph**                 | Organism that makes its own food, usually by photosynthesis.                            |
+| **Heterotroph**               | Organism that depends on other organisms for food.                                      |
+| **Producer**                  | Organism that prepares food and supports food chains.                                   |
+| **Consumer**                  | Organism that obtains food by consuming other organisms.                                |
+| **Decomposer**                | Organism that breaks down dead matter and recycles nutrients.                           |
+| **Cell wall**                 | Rigid outer covering of many cells, such as plant, fungal, and bacterial cells.         |
+| **Chitin**                    | Material in fungal cell walls and arthropod exoskeletons.                               |
+| **Cellulose**                 | Main material of plant cell walls.                                                      |
+| **Notochord**                 | Flexible rod-like support structure present in chordates at least at one stage.         |
+| **Vertebral column**          | Backbone in vertebrates.                                                                |
+| **Binomial nomenclature**     | Two-part scientific naming system using genus and species.                              |
+| **Fossil**                    | Preserved remains or traces of ancient organisms.                                       |
+| **Adaptation**                | Feature that helps an organism survive and reproduce in its environment.                |
 
 ---
 
@@ -132,14 +133,14 @@ This immense variety of living organisms is called **biodiversity**.
 
 ### Why Biodiversity Is Essential
 
-| Organism / Group | Role in Nature |
-|---|---|
-| Microscopic algae | Release oxygen through photosynthesis. |
-| Fungi and bacteria | Decompose dead matter and recycle nutrients. |
-| Bees, birds, and bats | Pollinate flowers. |
-| Plants | Produce food and oxygen. |
-| Animals | Help in pollination, seed dispersal, food webs, and ecological balance. |
-| Microorganisms in soil | Improve soil fertility and nutrient cycling. |
+| Organism / Group       | Role in Nature                                                          |
+| ---------------------- | ----------------------------------------------------------------------- |
+| Microscopic algae      | Release oxygen through photosynthesis.                                  |
+| Fungi and bacteria     | Decompose dead matter and recycle nutrients.                            |
+| Bees, birds, and bats  | Pollinate flowers.                                                      |
+| Plants                 | Produce food and oxygen.                                                |
+| Animals                | Help in pollination, seed dispersal, food webs, and ecological balance. |
+| Microorganisms in soil | Improve soil fertility and nutrient cycling.                            |
 
 ### Human Dependence on Biodiversity
 
@@ -172,13 +173,13 @@ Diversity reduces the risk of total crop failure.
 
 India has many types of landscapes:
 
-| Region | Habitat Features |
-|---|---|
-| Himalayas | Mountains, forests, snow, alpine habitats. |
-| Western desert | Dry climate, desert plants and animals. |
-| North East India | Rainforests and very high species diversity. |
-| Southern plateaus | Diverse soils and seasonal climates. |
-| Arabian Sea coast | Coastal and marine ecosystems. |
+| Region              | Habitat Features                                   |
+| ------------------- | -------------------------------------------------- |
+| Himalayas           | Mountains, forests, snow, alpine habitats.         |
+| Western desert      | Dry climate, desert plants and animals.            |
+| North East India    | Rainforests and very high species diversity.       |
+| Southern plateaus   | Diverse soils and seasonal climates.               |
+| Arabian Sea coast   | Coastal and marine ecosystems.                     |
 | Bay of Bengal coast | Mangroves, beaches, wetlands, and marine habitats. |
 
 Different regions have different:
@@ -200,12 +201,12 @@ An endemic species is naturally found only in a particular region.
 
 Examples from India:
 
-| Endemic Species | Known For |
-|---|---|
-| Nilgiri tahr | Mountain goat-like mammal of the Western Ghats. |
-| Lion-tailed macaque | Primate found in Western Ghats rainforests. |
-| Nepenthes khasiana | Indian pitcher plant. |
-| Neelakurinji | Plant known for mass flowering in the Western Ghats. |
+| Endemic Species     | Known For                                            |
+| ------------------- | ---------------------------------------------------- |
+| Nilgiri tahr        | Mountain goat-like mammal of the Western Ghats.      |
+| Lion-tailed macaque | Primate found in Western Ghats rainforests.          |
+| Nepenthes khasiana  | Indian pitcher plant.                                |
+| Neelakurinji        | Plant known for mass flowering in the Western Ghats. |
 
 ### Biodiversity Hotspot
 
@@ -250,13 +251,13 @@ Over many generations, useful differences may accumulate. This can lead to new f
 
 ### Biodiversity as a Long-Term Outcome
 
-| Process | Result |
-|---|---|
-| Variation among individuals | Some organisms survive better than others. |
-| Environmental change | Organisms face new challenges. |
-| Better adaptation | Certain traits become more common. |
-| Accumulation over generations | Populations change. |
-| Long-term change | Biodiversity increases and new forms arise. |
+| Process                       | Result                                      |
+| ----------------------------- | ------------------------------------------- |
+| Variation among individuals   | Some organisms survive better than others.  |
+| Environmental change          | Organisms face new challenges.              |
+| Better adaptation             | Certain traits become more common.          |
+| Accumulation over generations | Populations change.                         |
+| Long-term change              | Biodiversity increases and new forms arise. |
 
 ---
 
@@ -295,24 +296,24 @@ Learners observe organisms in a picture and group them using different criteria.
 
 ### Observation Table
 
-| Organism | Where Seen? | Active When? | Visible Features |
-|---|---|---|---|
-| Owl | Tree | Night | Feathers, eyes, beak |
-| Eagle | Air / tree | Day | Wings, feathers, hooked beak |
-| Tiger | Forest floor | Day or night | Fur, claws, carnivorous teeth |
-| Fish | Water | Variable | Fins, streamlined body |
+| Organism | Where Seen?  | Active When? | Visible Features              |
+| -------- | ------------ | ------------ | ----------------------------- |
+| Owl      | Tree         | Night        | Feathers, eyes, beak          |
+| Eagle    | Air / tree   | Day          | Wings, feathers, hooked beak  |
+| Tiger    | Forest floor | Day or night | Fur, claws, carnivorous teeth |
+| Fish     | Water        | Variable     | Fins, streamlined body        |
 
 ### Grouping by Different Criteria
 
 The same organism can fit into different groups depending on the criterion.
 
-| Criterion | Example Group |
-|---|---|
-| Habitat | Aquatic, terrestrial, aerial, arboreal |
-| Food habit | Herbivore, carnivore, omnivore |
-| Body covering | Feathers, scales, hair, shell |
-| Activity time | Diurnal, nocturnal, both |
-| Movement | Flying, swimming, crawling, walking |
+| Criterion     | Example Group                          |
+| ------------- | -------------------------------------- |
+| Habitat       | Aquatic, terrestrial, aerial, arboreal |
+| Food habit    | Herbivore, carnivore, omnivore         |
+| Body covering | Feathers, scales, hair, shell          |
+| Activity time | Diurnal, nocturnal, both               |
+| Movement      | Flying, swimming, crawling, walking    |
 
 ### Main Lesson
 
@@ -324,17 +325,17 @@ Classification depends on the feature chosen. Scientists choose features that re
 
 Scientists use many characteristics. Broad features are usually considered first, followed by more detailed features.
 
-| Criterion | What It Means | Example Use |
-|---|---|---|
-| **External features** | Shape, size, body covering, limbs | Distinguish bird, fish, insect, mammal. |
-| **Mode of nutrition** | Autotrophic or heterotrophic | Separate plants from animals and fungi. |
-| **Internal structure** | Tissues, organs, skeleton | Compare animal body plans. |
-| **Cell type** | Prokaryotic or eukaryotic | Separate bacteria from protists. |
-| **Cell number** | Unicellular or multicellular | Separate Amoeba from animals and plants. |
-| **Cell wall** | Present or absent; cellulose or chitin | Separate plants and fungi. |
-| **Ecological role** | Producer, consumer, decomposer | Understand ecosystem function. |
-| **Reproduction** | Asexual, sexual, or both | Compare life cycles. |
-| **Genetic similarity** | DNA similarities | Understand evolutionary relationships. |
+| Criterion              | What It Means                          | Example Use                              |
+| ---------------------- | -------------------------------------- | ---------------------------------------- |
+| **External features**  | Shape, size, body covering, limbs      | Distinguish bird, fish, insect, mammal.  |
+| **Mode of nutrition**  | Autotrophic or heterotrophic           | Separate plants from animals and fungi.  |
+| **Internal structure** | Tissues, organs, skeleton              | Compare animal body plans.               |
+| **Cell type**          | Prokaryotic or eukaryotic              | Separate bacteria from protists.         |
+| **Cell number**        | Unicellular or multicellular           | Separate Amoeba from animals and plants. |
+| **Cell wall**          | Present or absent; cellulose or chitin | Separate plants and fungi.               |
+| **Ecological role**    | Producer, consumer, decomposer         | Understand ecosystem function.           |
+| **Reproduction**       | Asexual, sexual, or both               | Compare life cycles.                     |
+| **Genetic similarity** | DNA similarities                       | Understand evolutionary relationships.   |
 
 ### Why Genetic Similarity Matters
 
@@ -371,12 +372,12 @@ Pakke also supports four hornbill species:
 
 ### Why Hornbills Are Important for Classification
 
-| Observation | Scientific Question |
-|---|---|
-| Hornbills look similar in some ways. | Which features distinguish the species? |
-| They nest in large old trees. | What habitat features are essential? |
-| They feed on specific fruits. | Which plants and birds are linked? |
-| Different species use different forest parts. | How are species distributed? |
+| Observation                                   | Scientific Question                     |
+| --------------------------------------------- | --------------------------------------- |
+| Hornbills look similar in some ways.          | Which features distinguish the species? |
+| They nest in large old trees.                 | What habitat features are essential?    |
+| They feed on specific fruits.                 | Which plants and birds are linked?      |
+| Different species use different forest parts. | How are species distributed?            |
 
 ### If Large Old Trees Disappear
 
@@ -388,15 +389,15 @@ Hornbills may lose nesting sites. This can reduce hornbill populations and affec
 
 Biological classification helps us:
 
-| Benefit | Explanation |
-|---|---|
-| Organize study | Millions of organisms become easier to study. |
-| Compare organisms | Similarities and differences become clearer. |
-| Understand relationships | Groups can show evolutionary links. |
-| Identify new organisms | Unknown organisms can be compared with known groups. |
-| Support conservation | Threatened species and habitats can be recognized. |
-| Communicate globally | Scientists use common names and systems. |
-| Understand ecosystems | Ecological roles and interactions become clearer. |
+| Benefit                  | Explanation                                          |
+| ------------------------ | ---------------------------------------------------- |
+| Organize study           | Millions of organisms become easier to study.        |
+| Compare organisms        | Similarities and differences become clearer.         |
+| Understand relationships | Groups can show evolutionary links.                  |
+| Identify new organisms   | Unknown organisms can be compared with known groups. |
+| Support conservation     | Threatened species and habitats can be recognized.   |
+| Communicate globally     | Scientists use common names and systems.             |
+| Understand ecosystems    | Ecological roles and interactions become clearer.    |
 
 ---
 
@@ -406,13 +407,13 @@ Classification systems changed as knowledge increased.
 
 ### Timeline of Classification
 
-| Stage | Main Idea | Limitation / Improvement |
-|---|---|---|
-| **Aristotle's artificial system** | Grouped animals by habitat such as land, water, air, and external features. | Too simple; unrelated organisms may share habitats. |
-| **Two kingdom system** | Plantae and Animalia. | Could not place bacteria, Amoeba, Paramecium, fungi clearly. |
-| **Three kingdom system** | Added Protista for microscopic unicellular organisms. | Bacteria and unicellular eukaryotes were still very different. |
-| **Four kingdom system** | Added Monera for bacteria and other prokaryotes. | Fungi still grouped awkwardly with plants. |
-| **Five kingdom system** | Monera, Protista, Fungi, Plantae, Animalia. | Better, but later DNA evidence showed even deeper differences. |
+| Stage                             | Main Idea                                                                   | Limitation / Improvement                                       |
+| --------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| **Aristotle's artificial system** | Grouped animals by habitat such as land, water, air, and external features. | Too simple; unrelated organisms may share habitats.            |
+| **Two kingdom system**            | Plantae and Animalia.                                                       | Could not place bacteria, Amoeba, Paramecium, fungi clearly.   |
+| **Three kingdom system**          | Added Protista for microscopic unicellular organisms.                       | Bacteria and unicellular eukaryotes were still very different. |
+| **Four kingdom system**           | Added Monera for bacteria and other prokaryotes.                            | Fungi still grouped awkwardly with plants.                     |
+| **Five kingdom system**           | Monera, Protista, Fungi, Plantae, Animalia.                                 | Better, but later DNA evidence showed even deeper differences. |
 
 ### Why Systems Changed
 
@@ -443,26 +444,26 @@ Whittaker's five kingdom classification groups life into:
 
 ### Main Criteria
 
-| Criterion | Main Question |
-|---|---|
-| Cell type | Prokaryotic or eukaryotic? |
-| Cell number | Unicellular or multicellular? |
-| Cell wall | Present or absent? If present, what type? |
-| Nutrition | Autotrophic or heterotrophic? |
-| Ecological role | Producer, consumer, or decomposer? |
+| Criterion         | Main Question                                   |
+| ----------------- | ----------------------------------------------- |
+| Cell type         | Prokaryotic or eukaryotic?                      |
+| Cell number       | Unicellular or multicellular?                   |
+| Cell wall         | Present or absent? If present, what type?       |
+| Nutrition         | Autotrophic or heterotrophic?                   |
+| Ecological role   | Producer, consumer, or decomposer?              |
 | Body organisation | Cellular, tissue, organ, or organ-system level? |
 
 ---
 
 ## Five Kingdoms: Overview
 
-| Kingdom | Cell Type | Cell Number | Cell Wall | Nutrition | Examples |
-|---|---|---|---|---|---|
-| **Monera** | Prokaryotic | Unicellular | Usually present | Autotrophic or heterotrophic | Bacteria, cyanobacteria |
-| **Protista** | Eukaryotic | Unicellular | May be absent or present | Autotrophic or heterotrophic | Amoeba, Paramecium, Euglena |
-| **Fungi** | Eukaryotic | Mostly multicellular; yeast unicellular | Chitin | Heterotrophic by absorption | Mushroom, yeast, Aspergillus |
-| **Plantae** | Eukaryotic | Multicellular | Cellulose | Autotrophic | Moss, fern, pine, rose |
-| **Animalia** | Eukaryotic | Multicellular | Absent | Heterotrophic by ingestion | Ant, frog, snake, bird, human |
+| Kingdom      | Cell Type   | Cell Number                             | Cell Wall                | Nutrition                    | Examples                      |
+| ------------ | ----------- | --------------------------------------- | ------------------------ | ---------------------------- | ----------------------------- |
+| **Monera**   | Prokaryotic | Unicellular                             | Usually present          | Autotrophic or heterotrophic | Bacteria, cyanobacteria       |
+| **Protista** | Eukaryotic  | Unicellular                             | May be absent or present | Autotrophic or heterotrophic | Amoeba, Paramecium, Euglena   |
+| **Fungi**    | Eukaryotic  | Mostly multicellular; yeast unicellular | Chitin                   | Heterotrophic by absorption  | Mushroom, yeast, Aspergillus  |
+| **Plantae**  | Eukaryotic  | Multicellular                           | Cellulose                | Autotrophic                  | Moss, fern, pine, rose        |
+| **Animalia** | Eukaryotic  | Multicellular                           | Absent                   | Heterotrophic by ingestion   | Ant, frog, snake, bird, human |
 
 ---
 
@@ -478,23 +479,23 @@ Examples:
 
 ### Main Features
 
-| Feature | Monera |
-|---|---|
-| Cell type | Prokaryotic |
-| Nucleus | No true membrane-bound nucleus |
-| Cell number | Unicellular |
-| Habitat | Soil, water, air, hot springs, extreme environments, bodies of organisms |
-| Nutrition | Autotrophic or heterotrophic |
-| Ecological role | Decomposers, nitrogen fixers, pathogens, symbionts, producers |
+| Feature         | Monera                                                                   |
+| --------------- | ------------------------------------------------------------------------ |
+| Cell type       | Prokaryotic                                                              |
+| Nucleus         | No true membrane-bound nucleus                                           |
+| Cell number     | Unicellular                                                              |
+| Habitat         | Soil, water, air, hot springs, extreme environments, bodies of organisms |
+| Nutrition       | Autotrophic or heterotrophic                                             |
+| Ecological role | Decomposers, nitrogen fixers, pathogens, symbionts, producers            |
 
 ### Useful Bacteria
 
-| Bacterium / Group | Use |
-|---|---|
-| Lactobacillus | Helps convert milk into curd. |
-| Rhizobium | Fixes nitrogen in root nodules of legumes. |
-| Gut bacteria in ruminants | Help digestion and biogas production from dung. |
-| Decomposer bacteria | Break down organic matter and recycle nutrients. |
+| Bacterium / Group            | Use                                                        |
+| ---------------------------- | ---------------------------------------------------------- |
+| Lactobacillus                | Helps convert milk into curd.                              |
+| Rhizobium                    | Fixes nitrogen in root nodules of legumes.                 |
+| Gut bacteria in ruminants    | Help digestion and biogas production from dung.            |
+| Decomposer bacteria          | Break down organic matter and recycle nutrients.           |
 | Pollutant-degrading bacteria | Help break down oil, pesticides, sewage, and other wastes. |
 
 ### Harmful Bacteria
@@ -519,27 +520,27 @@ Protista includes single-celled eukaryotes.
 
 ### Main Features
 
-| Feature | Protista |
-|---|---|
-| Cell type | Eukaryotic |
-| Cell number | Unicellular |
-| Nucleus | True membrane-bound nucleus |
-| Cell wall | May be absent or may be present in some forms |
-| Habitat | Mostly water or moist places |
-| Nutrition | Autotrophic, heterotrophic, or both in some cases |
-| Examples | Amoeba, Paramecium, Euglena, Chlamydomonas |
+| Feature     | Protista                                          |
+| ----------- | ------------------------------------------------- |
+| Cell type   | Eukaryotic                                        |
+| Cell number | Unicellular                                       |
+| Nucleus     | True membrane-bound nucleus                       |
+| Cell wall   | May be absent or may be present in some forms     |
+| Habitat     | Mostly water or moist places                      |
+| Nutrition   | Autotrophic, heterotrophic, or both in some cases |
+| Examples    | Amoeba, Paramecium, Euglena, Chlamydomonas        |
 
 ### Activity 12.5 - Hay Infusion
 
 Hay infusion helps observe microscopic protists.
 
-| Step | Action | Purpose |
-|---|---|---|
-| **1** | Put grass, straw, or fodder in a bottle. | Provides organic matter. |
-| **2** | Add pond or stagnant water. | Introduces microscopic organisms. |
-| **3** | Cover with muslin cloth. | Allows air but reduces contamination. |
-| **4** | Leave for about a week. | Protists multiply. |
-| **5** | Observe a drop under microscope. | Moving unicellular organisms may be seen. |
+| Step  | Action                                   | Purpose                                   |
+| ----- | ---------------------------------------- | ----------------------------------------- |
+| **1** | Put grass, straw, or fodder in a bottle. | Provides organic matter.                  |
+| **2** | Add pond or stagnant water.              | Introduces microscopic organisms.         |
+| **3** | Cover with muslin cloth.                 | Allows air but reduces contamination.     |
+| **4** | Leave for about a week.                  | Protists multiply.                        |
+| **5** | Observe a drop under microscope.         | Moving unicellular organisms may be seen. |
 
 ### Safety
 
@@ -564,16 +565,16 @@ Most fungi are multicellular, but yeast is unicellular.
 
 ### Main Features
 
-| Feature | Fungi |
-|---|---|
-| Cell type | Eukaryotic |
-| Cell number | Mostly multicellular; yeast is unicellular |
-| Cell wall | Chitin |
-| Nutrition | Heterotrophic by absorption |
-| Chlorophyll | Absent |
+| Feature         | Fungi                                            |
+| --------------- | ------------------------------------------------ |
+| Cell type       | Eukaryotic                                       |
+| Cell number     | Mostly multicellular; yeast is unicellular       |
+| Cell wall       | Chitin                                           |
+| Nutrition       | Heterotrophic by absorption                      |
+| Chlorophyll     | Absent                                           |
 | Ecological role | Mostly decomposers; some parasites and symbionts |
-| Reproduction | Sexual and asexual; often by spores |
-| Conditions | Grow well in warm, moist places |
+| Reproduction    | Sexual and asexual; often by spores              |
+| Conditions      | Grow well in warm, moist places                  |
 
 ### Fungal Body
 
@@ -583,11 +584,11 @@ Fungi absorb nutrients from dead or decaying matter, living hosts, or symbiotic 
 
 ### Types of Fungi by Role
 
-| Type | Meaning | Example |
-|---|---|---|
-| Saprophyte | Feeds on dead organic matter. | Many moulds and mushrooms |
-| Parasite | Lives on or in a host and harms it. | Some disease-causing fungi |
-| Symbiont | Lives in mutual association. | Lichens |
+| Type       | Meaning                             | Example                    |
+| ---------- | ----------------------------------- | -------------------------- |
+| Saprophyte | Feeds on dead organic matter.       | Many moulds and mushrooms  |
+| Parasite   | Lives on or in a host and harms it. | Some disease-causing fungi |
+| Symbiont   | Lives in mutual association.        | Lichens                    |
 
 ### Importance of Fungi
 
@@ -607,10 +608,10 @@ Lichens are mutual associations between:
 - an autotrophic alga; and
 - a heterotrophic fungus.
 
-| Partner | Role |
-|---|---|
-| Alga | Performs photosynthesis and provides food. |
-| Fungus | Provides protection and absorbs water/minerals. |
+| Partner | Role                                            |
+| ------- | ----------------------------------------------- |
+| Alga    | Performs photosynthesis and provides food.      |
+| Fungus  | Provides protection and absorbs water/minerals. |
 
 Lichens can act as bioindicators of air quality because some change with air pollution.
 
@@ -622,15 +623,15 @@ Plants are multicellular eukaryotes that perform photosynthesis.
 
 ### Main Features
 
-| Feature | Plantae |
-|---|---|
-| Cell type | Eukaryotic |
-| Cell number | Multicellular |
-| Cell wall | Cellulose |
-| Nutrition | Autotrophic |
-| Chlorophyll | Present |
-| Ecological role | Producers |
-| Importance | Base of most food chains; release oxygen |
+| Feature         | Plantae                                  |
+| --------------- | ---------------------------------------- |
+| Cell type       | Eukaryotic                               |
+| Cell number     | Multicellular                            |
+| Cell wall       | Cellulose                                |
+| Nutrition       | Autotrophic                              |
+| Chlorophyll     | Present                                  |
+| Ecological role | Producers                                |
+| Importance      | Base of most food chains; release oxygen |
 
 Kingdom Plantae is divided into major groups:
 
@@ -644,13 +645,13 @@ Kingdom Plantae is divided into major groups:
 
 ## Plant Groups at a Glance
 
-| Plant Group | Body Differentiation | Vascular Tissue | Seeds | Flowers | Water Needed for Fertilisation? | Example |
-|---|---|---|---|---|---|---|
-| **Thallophyta** | Thallus-like body | Absent | No | No | Yes / aquatic dependence | Spirogyra |
-| **Bryophyta** | Simple root-like, stem-like, leaf-like structures | Absent | No | No | Yes | Moss, Marchantia |
-| **Pteridophyta** | True roots, stems, leaves | Present | No | No | Yes | Fern |
-| **Gymnosperms** | Well-developed plant body | Present | Naked seeds | No true flowers | No | Pine, cycas |
-| **Angiosperms** | Well-developed plant body | Present | Enclosed in fruit | Yes | No external water needed | Gulmohar, rose, grasses |
+| Plant Group      | Body Differentiation                              | Vascular Tissue | Seeds             | Flowers         | Water Needed for Fertilisation? | Example                 |
+| ---------------- | ------------------------------------------------- | --------------- | ----------------- | --------------- | ------------------------------- | ----------------------- |
+| **Thallophyta**  | Thallus-like body                                 | Absent          | No                | No              | Yes / aquatic dependence        | Spirogyra               |
+| **Bryophyta**    | Simple root-like, stem-like, leaf-like structures | Absent          | No                | No              | Yes                             | Moss, Marchantia        |
+| **Pteridophyta** | True roots, stems, leaves                         | Present         | No                | No              | Yes                             | Fern                    |
+| **Gymnosperms**  | Well-developed plant body                         | Present         | Naked seeds       | No true flowers | No                              | Pine, cycas             |
+| **Angiosperms**  | Well-developed plant body                         | Present         | Enclosed in fruit | Yes             | No external water needed        | Gulmohar, rose, grasses |
 
 ---
 
@@ -660,13 +661,13 @@ Thallophytes have an undifferentiated body called a thallus.
 
 ### Features
 
-| Feature | Thallophyta |
-|---|---|
-| Body | Simple thallus |
-| Habitat | Mostly water or moist places |
+| Feature              | Thallophyta                      |
+| -------------------- | -------------------------------- |
+| Body                 | Simple thallus                   |
+| Habitat              | Mostly water or moist places     |
 | Roots, stems, leaves | Not true roots, stems, or leaves |
-| Vascular tissue | Absent |
-| Example | Spirogyra |
+| Vascular tissue      | Absent                           |
+| Example              | Spirogyra                        |
 
 ### Advantage
 
@@ -689,14 +690,14 @@ Examples:
 
 ### Features
 
-| Feature | Bryophyta |
-|---|---|
-| Habitat | Moist and shady places |
-| Body | More differentiated than thallophytes |
-| Structures | Rhizoids, stem-like and leaf-like parts |
-| Vascular tissue | Absent |
-| Seeds | Absent |
-| Reproduction | Needs water |
+| Feature         | Bryophyta                               |
+| --------------- | --------------------------------------- |
+| Habitat         | Moist and shady places                  |
+| Body            | More differentiated than thallophytes   |
+| Structures      | Rhizoids, stem-like and leaf-like parts |
+| Vascular tissue | Absent                                  |
+| Seeds           | Absent                                  |
+| Reproduction    | Needs water                             |
 
 Bryophytes are called the **amphibians of the plant kingdom** because they live on land but need water for reproduction.
 
@@ -716,14 +717,14 @@ Pteridophytes include ferns.
 
 ### Features
 
-| Feature | Pteridophyta |
-|---|---|
+| Feature              | Pteridophyta                  |
+| -------------------- | ----------------------------- |
 | Roots, stems, leaves | True roots, stems, and leaves |
-| Vascular tissue | Present |
-| Xylem | Transports water |
-| Phloem | Transports food |
-| Seeds | Absent |
-| Reproduction | Still requires water |
+| Vascular tissue      | Present                       |
+| Xylem                | Transports water              |
+| Phloem               | Transports food               |
+| Seeds                | Absent                        |
+| Reproduction         | Still requires water          |
 
 ### Importance of Vascular Tissue
 
@@ -757,15 +758,15 @@ The word gymnosperm means "naked seed".
 
 ### Features
 
-| Feature | Gymnosperms |
-|---|---|
-| Habitat | Often cold or dry regions |
-| Leaves | Needle-like or scale-like |
-| Vascular tissue | Present |
-| Seeds | Present but not enclosed in fruit |
-| Flowers | Absent |
-| Water for fertilisation | Not required |
-| Example | Pine |
+| Feature                 | Gymnosperms                       |
+| ----------------------- | --------------------------------- |
+| Habitat                 | Often cold or dry regions         |
+| Leaves                  | Needle-like or scale-like         |
+| Vascular tissue         | Present                           |
+| Seeds                   | Present but not enclosed in fruit |
+| Flowers                 | Absent                            |
+| Water for fertilisation | Not required                      |
+| Example                 | Pine                              |
 
 ### Adaptations
 
@@ -781,14 +782,14 @@ Angiosperms are flowering plants.
 
 ### Features
 
-| Feature | Angiosperms |
-|---|---|
-| Body | Well-developed roots, stems, leaves |
-| Vascular tissue | Present |
-| Flowers | Present |
-| Seeds | Enclosed inside fruits |
-| Pollination | By insects, birds, wind, water, and other agents |
-| Examples | Rose, gulmohar, grasses, mango |
+| Feature         | Angiosperms                                      |
+| --------------- | ------------------------------------------------ |
+| Body            | Well-developed roots, stems, leaves              |
+| Vascular tissue | Present                                          |
+| Flowers         | Present                                          |
+| Seeds           | Enclosed inside fruits                           |
+| Pollination     | By insects, birds, wind, water, and other agents |
+| Examples        | Rose, gulmohar, grasses, mango                   |
 
 ### Why Angiosperms Are Successful
 
@@ -806,10 +807,10 @@ Angiosperms have:
 
 Learners collect leaves and classify them by shape and venation.
 
-| Feature | Monocots | Dicots |
-|---|---|---|
-| Leaf venation | Usually parallel | Usually reticulate / net-like |
-| Examples | Grasses, maize, rice | Pea, rose, mango |
+| Feature       | Monocots             | Dicots                        |
+| ------------- | -------------------- | ----------------------------- |
+| Leaf venation | Usually parallel     | Usually reticulate / net-like |
+| Examples      | Grasses, maize, rice | Pea, rose, mango              |
 
 The activity shows that visible structural features can help classify plants.
 
@@ -817,13 +818,13 @@ The activity shows that visible structural features can help classify plants.
 
 ## Activity 12.9 - Plant Groups, Advantages, and Challenges
 
-| Plant Group | Survival Advantage | Challenge |
-|---|---|---|
-| Thallophyta | Simple body supports life in water. | Cannot survive well on dry land. |
-| Bryophyta | Can live on moist land. | Needs water for reproduction; lacks vascular tissue. |
-| Pteridophyta | Has true roots, stems, leaves, and vascular tissue. | Does not produce seeds; needs water for reproduction. |
-| Gymnosperms | Seeds and needle-like leaves help survival in dry/cold habitats. | Seeds are not enclosed in fruits. |
-| Angiosperms | Flowers, fruits, seeds, and vascular tissues support wide success. | Reproduction depends on pollination and complex structures. |
+| Plant Group  | Survival Advantage                                                 | Challenge                                                   |
+| ------------ | ------------------------------------------------------------------ | ----------------------------------------------------------- |
+| Thallophyta  | Simple body supports life in water.                                | Cannot survive well on dry land.                            |
+| Bryophyta    | Can live on moist land.                                            | Needs water for reproduction; lacks vascular tissue.        |
+| Pteridophyta | Has true roots, stems, leaves, and vascular tissue.                | Does not produce seeds; needs water for reproduction.       |
+| Gymnosperms  | Seeds and needle-like leaves help survival in dry/cold habitats.   | Seeds are not enclosed in fruits.                           |
+| Angiosperms  | Flowers, fruits, seeds, and vascular tissues support wide success. | Reproduction depends on pollination and complex structures. |
 
 ### Big Pattern in Plant Evolution
 
@@ -843,24 +844,24 @@ Animals are multicellular eukaryotes that depend on other organisms for food.
 
 ### Main Features
 
-| Feature | Animalia |
-|---|---|
-| Cell type | Eukaryotic |
-| Cell number | Multicellular |
-| Cell wall | Absent |
-| Nutrition | Heterotrophic |
-| Movement | Most show locomotion |
-| Response | Rapid response to stimuli |
+| Feature           | Animalia                             |
+| ----------------- | ------------------------------------ |
+| Cell type         | Eukaryotic                           |
+| Cell number       | Multicellular                        |
+| Cell wall         | Absent                               |
+| Nutrition         | Heterotrophic                        |
+| Movement          | Most show locomotion                 |
+| Response          | Rapid response to stimuli            |
 | Body organisation | Tissue, organ, or organ-system level |
 
 ### Major Criterion: Notochord
 
 Animals are broadly classified based on presence or absence of notochord.
 
-| Group | Notochord | Also Called |
-|---|---|---|
-| Non-chordata | Absent | Invertebrates |
-| Chordata | Present at least at one stage | Chordates |
+| Group        | Notochord                     | Also Called   |
+| ------------ | ----------------------------- | ------------- |
+| Non-chordata | Absent                        | Invertebrates |
+| Chordata     | Present at least at one stage | Chordates     |
 
 Chordata includes:
 
@@ -873,16 +874,16 @@ Chordata includes:
 
 ### Overview
 
-| Phylum | Main Feature | Examples |
-|---|---|---|
-| Porifera | Pores; cellular level of organisation | Sponges |
-| Cnidaria | Tissue level; tentacles; single opening | Hydra, jellyfish, corals |
-| Platyhelminthes | Flat body; bilateral symmetry | Flatworms, tapeworms |
-| Nematoda | Cylindrical body; two openings | Roundworms |
-| Annelida | Segmented body; body cavity | Earthworm |
-| Arthropoda | Jointed legs; exoskeleton | Insects, crabs, spiders |
-| Mollusca | Soft body; often shell | Snail, squid, octopus |
-| Echinodermata | Spiny skin; internal skeleton | Starfish, sea urchin |
+| Phylum          | Main Feature                            | Examples                 |
+| --------------- | --------------------------------------- | ------------------------ |
+| Porifera        | Pores; cellular level of organisation   | Sponges                  |
+| Cnidaria        | Tissue level; tentacles; single opening | Hydra, jellyfish, corals |
+| Platyhelminthes | Flat body; bilateral symmetry           | Flatworms, tapeworms     |
+| Nematoda        | Cylindrical body; two openings          | Roundworms               |
+| Annelida        | Segmented body; body cavity             | Earthworm                |
+| Arthropoda      | Jointed legs; exoskeleton               | Insects, crabs, spiders  |
+| Mollusca        | Soft body; often shell                  | Snail, squid, octopus    |
+| Echinodermata   | Spiny skin; internal skeleton           | Starfish, sea urchin     |
 
 ---
 
@@ -890,14 +891,14 @@ Chordata includes:
 
 Sponges are among the simplest animals.
 
-| Feature | Porifera |
-|---|---|
-| Habitat | Aquatic, mostly marine |
-| Organisation | Cellular level |
-| Tissues and organs | Absent |
-| Body pores | Present |
-| Movement | Mostly fixed in one place |
-| Feeding | Water flow brings food and oxygen |
+| Feature            | Porifera                          |
+| ------------------ | --------------------------------- |
+| Habitat            | Aquatic, mostly marine            |
+| Organisation       | Cellular level                    |
+| Tissues and organs | Absent                            |
+| Body pores         | Present                           |
+| Movement           | Mostly fixed in one place         |
+| Feeding            | Water flow brings food and oxygen |
 
 Water enters through pores and carries food and oxygen to cells. Waste is carried away by water flow.
 
@@ -911,13 +912,13 @@ Examples:
 - jellyfish;
 - corals.
 
-| Feature | Cnidaria |
-|---|---|
-| Habitat | Freshwater or marine |
-| Organisation | Tissue level |
-| Tentacles | Present |
+| Feature      | Cnidaria                                         |
+| ------------ | ------------------------------------------------ |
+| Habitat      | Freshwater or marine                             |
+| Organisation | Tissue level                                     |
+| Tentacles    | Present                                          |
 | Body opening | Single opening for food intake and waste removal |
-| Feeding | Tentacles capture prey |
+| Feeding      | Tentacles capture prey                           |
 
 ### Limitation
 
@@ -929,14 +930,14 @@ A single opening limits efficiency because the same opening is used for ingestio
 
 Flatworms show bilateral symmetry.
 
-| Feature | Platyhelminthes |
-|---|---|
-| Body shape | Flattened |
-| Symmetry | Bilateral |
+| Feature      | Platyhelminthes                  |
+| ------------ | -------------------------------- |
+| Body shape   | Flattened                        |
+| Symmetry     | Bilateral                        |
 | Body regions | Head-tail and front-back regions |
-| Organisation | Organ level |
-| Body opening | Usually single opening |
-| Lifestyle | Many are parasitic |
+| Organisation | Organ level                      |
+| Body opening | Usually single opening           |
+| Lifestyle    | Many are parasitic               |
 
 ### Bilateral Symmetry
 
@@ -959,13 +960,13 @@ Some parasitic worms enter through contaminated food or water. Prevention includ
 
 Roundworms have elongated cylindrical bodies.
 
-| Feature | Nematoda |
-|---|---|
-| Body | Cylindrical and unsegmented |
-| Openings | Mouth and anus |
-| Habitat | Soil, water, or inside host |
-| Organisation | Organ-system level |
-| Lifestyle | Free-living or parasitic |
+| Feature      | Nematoda                    |
+| ------------ | --------------------------- |
+| Body         | Cylindrical and unsegmented |
+| Openings     | Mouth and anus              |
+| Habitat      | Soil, water, or inside host |
+| Organisation | Organ-system level          |
+| Lifestyle    | Free-living or parasitic    |
 
 Having two openings makes digestion more efficient than a single-opening system.
 
@@ -975,13 +976,13 @@ Having two openings makes digestion more efficient than a single-opening system.
 
 Example: earthworm.
 
-| Feature | Annelida |
-|---|---|
-| Body | Cylindrical and segmented |
-| Body cavity | Present |
-| Organisation | Organ-system level |
-| Movement | Muscles and segmentation help locomotion |
-| Nervous system | Nerve cord supports coordination |
+| Feature        | Annelida                                 |
+| -------------- | ---------------------------------------- |
+| Body           | Cylindrical and segmented                |
+| Body cavity    | Present                                  |
+| Organisation   | Organ-system level                       |
+| Movement       | Muscles and segmentation help locomotion |
+| Nervous system | Nerve cord supports coordination         |
 
 ### Advantage of Segmentation
 
@@ -1003,13 +1004,13 @@ Examples:
 - spiders;
 - beetles.
 
-| Feature | Arthropoda |
-|---|---|
-| Body | Segmented |
-| Appendages | Jointed |
-| Skeleton | Hard external skeleton |
-| Habitat | Land and water |
-| Success | Largest animal group |
+| Feature    | Arthropoda             |
+| ---------- | ---------------------- |
+| Body       | Segmented              |
+| Appendages | Jointed                |
+| Skeleton   | Hard external skeleton |
+| Habitat    | Land and water         |
+| Success    | Largest animal group   |
 
 ### Exoskeleton Advantages
 
@@ -1034,13 +1035,13 @@ Examples:
 - squid;
 - octopus.
 
-| Feature | Mollusca |
-|---|---|
-| Body | Soft |
-| Shell | Often present |
-| Organisation | Organ-system level |
-| Body parts | Head, muscular foot, hump-like visceral mass |
-| Habitat | Water or moist land |
+| Feature      | Mollusca                                     |
+| ------------ | -------------------------------------------- |
+| Body         | Soft                                         |
+| Shell        | Often present                                |
+| Organisation | Organ-system level                           |
+| Body parts   | Head, muscular foot, hump-like visceral mass |
+| Habitat      | Water or moist land                          |
 
 Shells protect soft bodies in many molluscs.
 
@@ -1053,13 +1054,13 @@ Examples:
 - starfish;
 - sea urchin.
 
-| Feature | Echinodermata |
-|---|---|
-| Habitat | Marine |
-| Skeleton | Internal skeleton of calcium carbonate |
-| Body covering | Often spiny |
-| Notochord | Absent |
-| Organisation | Organ-system level |
+| Feature       | Echinodermata                          |
+| ------------- | -------------------------------------- |
+| Habitat       | Marine                                 |
+| Skeleton      | Internal skeleton of calcium carbonate |
+| Body covering | Often spiny                            |
+| Notochord     | Absent                                 |
+| Organisation  | Organ-system level                     |
 
 Although echinoderms lack a notochord, their internal skeleton gives support and protection.
 
@@ -1069,15 +1070,15 @@ Although echinoderms lack a notochord, their internal skeleton gives support and
 
 Animal body plans show increasing complexity.
 
-| Body Feature | Why It Matters |
-|---|---|
-| Multicellularity | Allows more complex bodies than unicellular organisms. |
-| Tissues | Specialized cells perform specific functions. |
-| Bilateral symmetry | Supports directional movement. |
-| Two body openings | Makes digestion more efficient. |
-| Segmentation | Improves movement and flexibility. |
-| Exoskeleton | Protects and reduces water loss. |
-| Internal skeleton | Supports larger and more complex movement. |
+| Body Feature       | Why It Matters                                         |
+| ------------------ | ------------------------------------------------------ |
+| Multicellularity   | Allows more complex bodies than unicellular organisms. |
+| Tissues            | Specialized cells perform specific functions.          |
+| Bilateral symmetry | Supports directional movement.                         |
+| Two body openings  | Makes digestion more efficient.                        |
+| Segmentation       | Improves movement and flexibility.                     |
+| Exoskeleton        | Protects and reduces water loss.                       |
+| Internal skeleton  | Supports larger and more complex movement.             |
 
 ---
 
@@ -1113,13 +1114,13 @@ The vertebral column:
 
 ### Major Vertebrate Groups
 
-| Group | Main Features |
-|---|---|
-| Fish | Aquatic; gills; fins. |
-| Amphibians | Live on land and water; moist skin; aquatic early life. |
-| Reptiles | Dry scaly skin; mostly lay eggs on land. |
-| Birds | Feathers; wings; hollow bones; lay eggs. |
-| Mammals | Hair or fur; mammary glands; most give birth to young ones. |
+| Group      | Main Features                                               |
+| ---------- | ----------------------------------------------------------- |
+| Fish       | Aquatic; gills; fins.                                       |
+| Amphibians | Live on land and water; moist skin; aquatic early life.     |
+| Reptiles   | Dry scaly skin; mostly lay eggs on land.                    |
+| Birds      | Feathers; wings; hollow bones; lay eggs.                    |
+| Mammals    | Hair or fur; mammary glands; most give birth to young ones. |
 
 ---
 
@@ -1129,12 +1130,12 @@ Rich biodiversity can reduce disaster impacts.
 
 Examples:
 
-| Biodiversity Feature | Protective Role |
-|---|---|
-| Mangrove forests | Reduce cyclone and storm impact by acting as physical barriers. |
-| Diverse forests | Can reduce disease spread by supporting many host species where pathogens may not multiply well. |
-| Soil microorganisms | Break down pollutants and improve water quality. |
-| Mangrove soils | Trap sediments and heavy metals. |
+| Biodiversity Feature | Protective Role                                                                                  |
+| -------------------- | ------------------------------------------------------------------------------------------------ |
+| Mangrove forests     | Reduce cyclone and storm impact by acting as physical barriers.                                  |
+| Diverse forests      | Can reduce disease spread by supporting many host species where pathogens may not multiply well. |
+| Soil microorganisms  | Break down pollutants and improve water quality.                                                 |
+| Mangrove soils       | Trap sediments and heavy metals.                                                                 |
 
 The chapter mentions that villages with more mangroves faced less destruction during the 1999 super cyclone in Orissa.
 
@@ -1146,15 +1147,15 @@ Adaptations are features that help organisms survive in their environments.
 
 ### Examples
 
-| Organism / Group | Adaptation | Survival Use |
-|---|---|---|
-| Fish | Fins | Movement in water |
-| Fish | Gills | Breathing in water |
-| Birds | Feathers | Flight and insulation |
-| Birds | Hollow bones | Lighter body for flight |
-| Camel | Fat storage | Survival in dry conditions |
-| Polar bear | Thick fur | Survival in cold climate |
-| Mammals | Mammary glands | Nourishment of young ones |
+| Organism / Group | Adaptation     | Survival Use               |
+| ---------------- | -------------- | -------------------------- |
+| Fish             | Fins           | Movement in water          |
+| Fish             | Gills          | Breathing in water         |
+| Birds            | Feathers       | Flight and insulation      |
+| Birds            | Hollow bones   | Lighter body for flight    |
+| Camel            | Fat storage    | Survival in dry conditions |
+| Polar bear       | Thick fur      | Survival in cold climate   |
+| Mammals          | Mammary glands | Nourishment of young ones  |
 
 ### Main Idea
 
@@ -1168,15 +1169,15 @@ Classification moves from broad groups to specific groups.
 
 ### Hierarchy
 
-| Level | Meaning |
-|---|---|
+| Level   | Meaning                                     |
+| ------- | ------------------------------------------- |
 | Kingdom | Broadest group in this chapter's hierarchy. |
-| Phylum | Major body-plan group. |
-| Class | More specific group within phylum. |
-| Order | More specific than class. |
-| Family | Closely related genera. |
-| Genus | Closely related species. |
-| Species | Most specific basic unit. |
+| Phylum  | Major body-plan group.                      |
+| Class   | More specific group within phylum.          |
+| Order   | More specific than class.                   |
+| Family  | Closely related genera.                     |
+| Genus   | Closely related species.                    |
+| Species | Most specific basic unit.                   |
 
 Order:
 
@@ -1188,27 +1189,27 @@ At each lower level, organisms share more features.
 
 ### Tiger Classification
 
-| Level | Tiger |
-|---|---|
-| Kingdom | Animalia |
-| Phylum | Chordata |
-| Sub-phylum | Vertebrata |
-| Class | Mammalia |
-| Order | Carnivora |
-| Family | Felidae |
-| Genus | Panthera |
-| Species | Panthera tigris |
+| Level      | Tiger           |
+| ---------- | --------------- |
+| Kingdom    | Animalia        |
+| Phylum     | Chordata        |
+| Sub-phylum | Vertebrata      |
+| Class      | Mammalia        |
+| Order      | Carnivora       |
+| Family     | Felidae         |
+| Genus      | Panthera        |
+| Species    | Panthera tigris |
 
 ### Pea Plant Classification
 
-| Level | Pea Plant |
-|---|---|
-| Kingdom | Plantae |
-| Phylum | Magnoliophyta |
-| Class | Magnoliopsida |
-| Order | Fabales |
-| Family | Fabaceae |
-| Genus | Pisum |
+| Level   | Pea Plant     |
+| ------- | ------------- |
+| Kingdom | Plantae       |
+| Phylum  | Magnoliophyta |
+| Class   | Magnoliopsida |
+| Order   | Fabales       |
+| Family  | Fabaceae      |
+| Genus   | Pisum         |
 | Species | Pisum sativum |
 
 ### Class vs Genus
@@ -1224,11 +1225,11 @@ Common names vary by language and region.
 Example:
 
 | Language | Name for Tiger |
-|---|---|
-| Hindi | Bagh |
-| Tamil | Puli |
-| English | Tiger |
-| French | Tigre |
+| -------- | -------------- |
+| Hindi    | Bagh           |
+| Tamil    | Puli           |
+| English  | Tiger          |
+| French   | Tigre          |
 
 To avoid confusion, scientists use scientific names.
 
@@ -1243,29 +1244,29 @@ Each scientific name has:
 
 ### Examples
 
-| Common Name | Scientific Name |
-|---|---|
-| Tiger | *Panthera tigris* |
-| Mango | *Mangifera indica* |
-| Lion | *Panthera leo* |
-| Pea | *Pisum sativum* |
+| Common Name | Scientific Name    |
+| ----------- | ------------------ |
+| Tiger       | _Panthera tigris_  |
+| Mango       | _Mangifera indica_ |
+| Lion        | _Panthera leo_     |
+| Pea         | _Pisum sativum_    |
 
 ### Rules for Scientific Names
 
-| Rule | Example |
-|---|---|
-| Name has two parts. | *Panthera tigris* |
-| Genus comes first. | *Panthera* |
-| Genus begins with capital letter. | *Panthera* |
-| Species begins with lower-case letter. | *tigris* |
-| Printed name is italicized. | *Mangifera indica* |
-| Handwritten name is underlined. | Underline both words separately or together as instructed. |
+| Rule                                   | Example                                                    |
+| -------------------------------------- | ---------------------------------------------------------- |
+| Name has two parts.                    | _Panthera tigris_                                          |
+| Genus comes first.                     | _Panthera_                                                 |
+| Genus begins with capital letter.      | _Panthera_                                                 |
+| Species begins with lower-case letter. | _tigris_                                                   |
+| Printed name is italicized.            | _Mangifera indica_                                         |
+| Handwritten name is underlined.        | Underline both words separately or together as instructed. |
 
 ### Genus and Species Meaning
 
-| Term | Meaning |
-|---|---|
-| Genus | Group of closely related species. |
+| Term    | Meaning                                                                      |
+| ------- | ---------------------------------------------------------------------------- |
+| Genus   | Group of closely related species.                                            |
 | Species | Group of similar organisms capable of interbreeding and producing offspring. |
 
 Example:
@@ -1298,12 +1299,12 @@ Fossils are preserved remains or traces of ancient plants and animals found in l
 
 ### What Fossils Show
 
-| Fossil Evidence | Meaning |
-|---|---|
-| Older rock layers often contain simpler organisms. | Life has changed over time. |
-| Newer layers show more complex forms. | Complexity increased in many lineages. |
-| Fossils of extinct organisms | Some species no longer exist. |
-| Fossil plants | Help connect present plants with ancestors. |
+| Fossil Evidence                                    | Meaning                                     |
+| -------------------------------------------------- | ------------------------------------------- |
+| Older rock layers often contain simpler organisms. | Life has changed over time.                 |
+| Newer layers show more complex forms.              | Complexity increased in many lineages.      |
+| Fossils of extinct organisms                       | Some species no longer exist.               |
+| Fossil plants                                      | Help connect present plants with ancestors. |
 
 Fossils are natural records of life on Earth.
 
@@ -1319,12 +1320,12 @@ His work helped connect present-day plants with ancient plant life and showed th
 
 Each species plays a role in nature.
 
-| Group | Role |
-|---|---|
-| Plants | Produce food and oxygen. |
-| Animals | Pollinate flowers, disperse seeds, and maintain food webs. |
-| Microorganisms | Recycle nutrients and decompose waste. |
-| Fungi | Break down dead matter and maintain soil fertility. |
+| Group          | Role                                                       |
+| -------------- | ---------------------------------------------------------- |
+| Plants         | Produce food and oxygen.                                   |
+| Animals        | Pollinate flowers, disperse seeds, and maintain food webs. |
+| Microorganisms | Recycle nutrients and decompose waste.                     |
+| Fungi          | Break down dead matter and maintain soil fertility.        |
 
 ### Threats to Biodiversity
 
@@ -1353,15 +1354,15 @@ Example:
 
 ## Purple Frog Example
 
-The Purple Frog, *Nasikabatrachus sahyadrensis*, is found in Kerala.
+The Purple Frog, _Nasikabatrachus sahyadrensis_, is found in Kerala.
 
-| Feature | Importance |
-|---|---|
-| Lives underground most of the year | Shows special adaptation. |
-| Comes out during monsoon to breed | Linked to seasonal habitat. |
-| Species name refers to Sahyadri Hills | Scientific names may reflect place of discovery. |
-| Belongs to ancient frog lineage | Helps understand amphibian evolution. |
-| Discovery highlighted Western Ghats conservation | Classification supports conservation. |
+| Feature                                          | Importance                                       |
+| ------------------------------------------------ | ------------------------------------------------ |
+| Lives underground most of the year               | Shows special adaptation.                        |
+| Comes out during monsoon to breed                | Linked to seasonal habitat.                      |
+| Species name refers to Sahyadri Hills            | Scientific names may reflect place of discovery. |
+| Belongs to ancient frog lineage                  | Helps understand amphibian evolution.            |
+| Discovery highlighted Western Ghats conservation | Classification supports conservation.            |
 
 ---
 
@@ -1375,10 +1376,10 @@ The endangered Sangai deer depends on this habitat.
 
 ### Conservation Concerns
 
-| Problem | Effect |
-|---|---|
-| Phumdi degradation | Reduces Sangai habitat. |
-| Habitat loss | Decreases population survival. |
+| Problem                | Effect                           |
+| ---------------------- | -------------------------------- |
+| Phumdi degradation     | Reduces Sangai habitat.          |
+| Habitat loss           | Decreases population survival.   |
 | Small restricted range | Species becomes more vulnerable. |
 
 ### Conservation Suggestions
@@ -1395,17 +1396,17 @@ The endangered Sangai deer depends on this habitat.
 
 ## Activity Bank
 
-| Activity | Purpose | Main Learning |
-|---|---|---|
-| **12.1** | Compare and classify organisms in an image. | Same organisms can be grouped by different criteria. |
-| **12.2** | Read Pakke Tiger Reserve case study. | Classification helps track biodiversity and ecological links. |
-| **12.3** | Study five kingdom concept map. | Kingdom classification uses cell type, cell wall, nutrition, and organization. |
-| **12.4** | Observe bacteria and cyanobacteria slides. | Monera contains unicellular prokaryotes. |
-| **12.5** | Make hay infusion. | Protists can be observed in pond-like samples. |
-| **12.6** | Observe bryophytes. | Bryophytes are simple moist-land plants. |
-| **12.7** | Compare fern and sunflower stems. | Vascular tissue supports transport and land adaptation. |
-| **12.8** | Group leaves as monocots or dicots. | Venation and leaf structure help classify plants. |
-| **12.9** | Analyze plant group advantages and challenges. | Plant evolution shows increasing land adaptation. |
+| Activity | Purpose                                        | Main Learning                                                                  |
+| -------- | ---------------------------------------------- | ------------------------------------------------------------------------------ |
+| **12.1** | Compare and classify organisms in an image.    | Same organisms can be grouped by different criteria.                           |
+| **12.2** | Read Pakke Tiger Reserve case study.           | Classification helps track biodiversity and ecological links.                  |
+| **12.3** | Study five kingdom concept map.                | Kingdom classification uses cell type, cell wall, nutrition, and organization. |
+| **12.4** | Observe bacteria and cyanobacteria slides.     | Monera contains unicellular prokaryotes.                                       |
+| **12.5** | Make hay infusion.                             | Protists can be observed in pond-like samples.                                 |
+| **12.6** | Observe bryophytes.                            | Bryophytes are simple moist-land plants.                                       |
+| **12.7** | Compare fern and sunflower stems.              | Vascular tissue supports transport and land adaptation.                        |
+| **12.8** | Group leaves as monocots or dicots.            | Venation and leaf structure help classify plants.                              |
+| **12.9** | Analyze plant group advantages and challenges. | Plant evolution shows increasing land adaptation.                              |
 
 ---
 
@@ -1413,75 +1414,75 @@ The endangered Sangai deer depends on this habitat.
 
 ### Prokaryotes vs Eukaryotes
 
-| Feature | Prokaryotes | Eukaryotes |
-|---|---|---|
-| True nucleus | Absent | Present |
-| Cell complexity | Simpler | More complex |
-| Examples | Bacteria, cyanobacteria | Amoeba, fungi, plants, animals |
+| Feature         | Prokaryotes             | Eukaryotes                     |
+| --------------- | ----------------------- | ------------------------------ |
+| True nucleus    | Absent                  | Present                        |
+| Cell complexity | Simpler                 | More complex                   |
+| Examples        | Bacteria, cyanobacteria | Amoeba, fungi, plants, animals |
 
 ### Autotrophs vs Heterotrophs
 
-| Feature | Autotrophs | Heterotrophs |
-|---|---|---|
-| Food source | Make own food | Depend on other organisms |
-| Example | Plants, cyanobacteria | Animals, fungi |
-| Ecological role | Producers | Consumers or decomposers |
+| Feature         | Autotrophs            | Heterotrophs              |
+| --------------- | --------------------- | ------------------------- |
+| Food source     | Make own food         | Depend on other organisms |
+| Example         | Plants, cyanobacteria | Animals, fungi            |
+| Ecological role | Producers             | Consumers or decomposers  |
 
 ### Fungi vs Plants
 
-| Feature | Fungi | Plants |
-|---|---|---|
-| Nutrition | Heterotrophic by absorption | Autotrophic |
-| Chlorophyll | Absent | Present |
-| Cell wall | Chitin | Cellulose |
-| Ecological role | Decomposers, parasites, symbionts | Producers |
+| Feature         | Fungi                             | Plants      |
+| --------------- | --------------------------------- | ----------- |
+| Nutrition       | Heterotrophic by absorption       | Autotrophic |
+| Chlorophyll     | Absent                            | Present     |
+| Cell wall       | Chitin                            | Cellulose   |
+| Ecological role | Decomposers, parasites, symbionts | Producers   |
 
 ### Protista vs Monera
 
-| Feature | Protista | Monera |
-|---|---|---|
-| Cell type | Eukaryotic | Prokaryotic |
-| True nucleus | Present | Absent |
-| Cell number | Unicellular | Unicellular |
-| Examples | Amoeba, Euglena | Bacteria, cyanobacteria |
+| Feature      | Protista        | Monera                  |
+| ------------ | --------------- | ----------------------- |
+| Cell type    | Eukaryotic      | Prokaryotic             |
+| True nucleus | Present         | Absent                  |
+| Cell number  | Unicellular     | Unicellular             |
+| Examples     | Amoeba, Euglena | Bacteria, cyanobacteria |
 
 ### Bryophytes vs Pteridophytes
 
-| Feature | Bryophytes | Pteridophytes |
-|---|---|---|
-| True roots, stems, leaves | Absent | Present |
-| Vascular tissue | Absent | Present |
-| Seeds | Absent | Absent |
-| Water needed for reproduction | Yes | Yes |
-| Example | Moss | Fern |
+| Feature                       | Bryophytes | Pteridophytes |
+| ----------------------------- | ---------- | ------------- |
+| True roots, stems, leaves     | Absent     | Present       |
+| Vascular tissue               | Absent     | Present       |
+| Seeds                         | Absent     | Absent        |
+| Water needed for reproduction | Yes        | Yes           |
+| Example                       | Moss       | Fern          |
 
 ### Gymnosperms vs Angiosperms
 
-| Feature | Gymnosperms | Angiosperms |
-|---|---|---|
-| Seeds | Naked, often on cones | Enclosed inside fruits |
-| Flowers | Absent | Present |
-| Fruits | Absent | Present |
-| Examples | Pine, cycas | Rose, mango, grass |
+| Feature  | Gymnosperms           | Angiosperms            |
+| -------- | --------------------- | ---------------------- |
+| Seeds    | Naked, often on cones | Enclosed inside fruits |
+| Flowers  | Absent                | Present                |
+| Fruits   | Absent                | Present                |
+| Examples | Pine, cycas           | Rose, mango, grass     |
 
 ---
 
 ## Common Misconceptions
 
-| Misconception | Correct Understanding |
-|---|---|
-| Biodiversity means only number of animals. | Biodiversity includes plants, animals, microbes, genes, habitats, and interactions. |
-| Classification is only naming. | Classification also explains relationships, roles, evolution, and conservation needs. |
-| Habitat alone is enough for classification. | Habitat can group unrelated organisms; cellular and structural features are deeper criteria. |
-| All unicellular organisms belong in one kingdom. | Unicellular prokaryotes and unicellular eukaryotes are very different. |
-| Fungi are plants. | Fungi lack chlorophyll, have chitin cell walls, and absorb food. |
-| All bacteria are harmful. | Many bacteria are useful and essential for ecosystems. |
-| All plants have flowers and seeds. | Algae, bryophytes, and pteridophytes do not have flowers or seeds. |
-| Bryophytes and pteridophytes are the same because both lack seeds. | Pteridophytes have true roots, stems, leaves, and vascular tissue; bryophytes do not. |
-| Invertebrates are simple in every way. | Invertebrates include many complex groups such as arthropods and molluscs. |
-| Scientific names are optional decoration. | Scientific names prevent confusion across languages and regions. |
-| Classification never changes. | Classification changes as evidence and tools improve. |
-| Viruses fit neatly into the five kingdom system. | Viruses lack cellular organization and are generally kept outside the five kingdoms. |
+| Misconception                                                      | Correct Understanding                                                                        |
+| ------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
+| Biodiversity means only number of animals.                         | Biodiversity includes plants, animals, microbes, genes, habitats, and interactions.          |
+| Classification is only naming.                                     | Classification also explains relationships, roles, evolution, and conservation needs.        |
+| Habitat alone is enough for classification.                        | Habitat can group unrelated organisms; cellular and structural features are deeper criteria. |
+| All unicellular organisms belong in one kingdom.                   | Unicellular prokaryotes and unicellular eukaryotes are very different.                       |
+| Fungi are plants.                                                  | Fungi lack chlorophyll, have chitin cell walls, and absorb food.                             |
+| All bacteria are harmful.                                          | Many bacteria are useful and essential for ecosystems.                                       |
+| All plants have flowers and seeds.                                 | Algae, bryophytes, and pteridophytes do not have flowers or seeds.                           |
+| Bryophytes and pteridophytes are the same because both lack seeds. | Pteridophytes have true roots, stems, leaves, and vascular tissue; bryophytes do not.        |
+| Invertebrates are simple in every way.                             | Invertebrates include many complex groups such as arthropods and molluscs.                   |
+| Scientific names are optional decoration.                          | Scientific names prevent confusion across languages and regions.                             |
+| Classification never changes.                                      | Classification changes as evidence and tools improve.                                        |
+| Viruses fit neatly into the five kingdom system.                   | Viruses lack cellular organization and are generally kept outside the five kingdoms.         |
 
 ---
 
@@ -1489,46 +1490,46 @@ The endangered Sangai deer depends on this habitat.
 
 ### A. Classification Criteria
 
-| Q | Question Focus | How to Approach |
-|---|---|---|
-| **1** | Confirming whether an animal is an insect. | Look for jointed legs and arthropod features. |
-| **2** | Sponge classification under Animalia. | Animals lack cell walls and are heterotrophic; check options carefully. |
-| **3** | Distinguishing two animals nearby. | Compare body covering, limbs, segmentation, habitat, movement, and feeding. |
-| **4** | Cellular organization vs xylem/phloem. | Cell type applies to all organisms; xylem/phloem only to certain plants. |
-| **5** | Single-celled organism with nucleus and cilia. | Eukaryotic unicellular organism suggests Protista. |
-| **7** | Problem with grouping all unicellular organisms together. | Prokaryotes and eukaryotes would be mixed incorrectly. |
-| **13** | Locomotion and autotrophic nutrition. | Protists such as Euglena may show both movement and photosynthesis. |
-| **14** | Unicellular eukaryote identified as fungi. | Check chitin cell wall and absorptive heterotrophic nutrition, as in yeast. |
+| Q      | Question Focus                                            | How to Approach                                                             |
+| ------ | --------------------------------------------------------- | --------------------------------------------------------------------------- |
+| **1**  | Confirming whether an animal is an insect.                | Look for jointed legs and arthropod features.                               |
+| **2**  | Sponge classification under Animalia.                     | Animals lack cell walls and are heterotrophic; check options carefully.     |
+| **3**  | Distinguishing two animals nearby.                        | Compare body covering, limbs, segmentation, habitat, movement, and feeding. |
+| **4**  | Cellular organization vs xylem/phloem.                    | Cell type applies to all organisms; xylem/phloem only to certain plants.    |
+| **5**  | Single-celled organism with nucleus and cilia.            | Eukaryotic unicellular organism suggests Protista.                          |
+| **7**  | Problem with grouping all unicellular organisms together. | Prokaryotes and eukaryotes would be mixed incorrectly.                      |
+| **13** | Locomotion and autotrophic nutrition.                     | Protists such as Euglena may show both movement and photosynthesis.         |
+| **14** | Unicellular eukaryote identified as fungi.                | Check chitin cell wall and absorptive heterotrophic nutrition, as in yeast. |
 
 ### B. Ecosystems and Biodiversity
 
-| Q | Question Focus | How to Approach |
-|---|---|---|
-| **6** | Biodiversity and ecosystem stability. | Use roles: producers, consumers, decomposers, pollinators, seed dispersers. |
-| **9** | Creating or rejecting a virus category. | Discuss scientific evidence and changing classification systems. |
-| **10** | Why viruses do not fit five kingdoms. | Viruses are acellular and inactive outside host cells. |
+| Q      | Question Focus                           | How to Approach                                                              |
+| ------ | ---------------------------------------- | ---------------------------------------------------------------------------- |
+| **6**  | Biodiversity and ecosystem stability.    | Use roles: producers, consumers, decomposers, pollinators, seed dispersers.  |
+| **9**  | Creating or rejecting a virus category.  | Discuss scientific evidence and changing classification systems.             |
+| **10** | Why viruses do not fit five kingdoms.    | Viruses are acellular and inactive outside host cells.                       |
 | **15** | Case study with organisms P, Q, R, S, T. | Use cell type, cell wall, nutrition, body organization, and cellular nature. |
 
 ### C. Plant and Animal Grouping
 
-| Q | Question Focus | How to Approach |
-|---|---|---|
-| **11** | Bryophytes vs pteridophytes. | Compare vascular tissue and true roots, stems, leaves. |
-| **12** | Class vs genus. | Genus has fewer members and more shared features. |
-| **15(iv)** | Why organism S cannot be classified by nutrition alone. | Many animals are heterotrophic; structure such as backbone and life history are needed. |
-| **15(vii)** | Multicellular eukaryote, no chlorophyll, absorbs nutrients from host. | Fungi if chitin cell wall and absorptive nutrition are present. |
+| Q           | Question Focus                                                        | How to Approach                                                                         |
+| ----------- | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| **11**      | Bryophytes vs pteridophytes.                                          | Compare vascular tissue and true roots, stems, leaves.                                  |
+| **12**      | Class vs genus.                                                       | Genus has fewer members and more shared features.                                       |
+| **15(iv)**  | Why organism S cannot be classified by nutrition alone.               | Many animals are heterotrophic; structure such as backbone and life history are needed. |
+| **15(vii)** | Multicellular eukaryote, no chlorophyll, absorbs nutrients from host. | Fungi if chitin cell wall and absorptive nutrition are present.                         |
 
 ### D. Project and Extension Work
 
-| Task | Suggested Output |
-|---|---|
-| Classify ten organisms near a park or water body | Table with kingdom, visible features, habitat, and reason. |
-| Interview gardener or forest worker | Compare traditional identification with scientific criteria. |
-| Bird sanctuary data organization | Species list grouped by habitat, food, nesting, activity, and conservation status. |
-| Mushroom survey | Report with community knowledge, edible/poisonous distinction, and safety caution. |
-| Postal stamp classification | Classify flora and fauna stamps using self-made criteria. |
-| Extinct species investigation | Explain ecological effects after disappearance. |
-| Farm animal diversity study | Compare breeds, traits, uses, and possible classification updates. |
+| Task                                             | Suggested Output                                                                   |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------- |
+| Classify ten organisms near a park or water body | Table with kingdom, visible features, habitat, and reason.                         |
+| Interview gardener or forest worker              | Compare traditional identification with scientific criteria.                       |
+| Bird sanctuary data organization                 | Species list grouped by habitat, food, nesting, activity, and conservation status. |
+| Mushroom survey                                  | Report with community knowledge, edible/poisonous distinction, and safety caution. |
+| Postal stamp classification                      | Classify flora and fauna stamps using self-made criteria.                          |
+| Extinct species investigation                    | Explain ecological effects after disappearance.                                    |
+| Farm animal diversity study                      | Compare breeds, traits, uses, and possible classification updates.                 |
 
 ---
 
@@ -1618,11 +1619,11 @@ These features prevent them from fitting into Monera, Protista, Fungi, Plantae, 
 
 Bryophytes and pteridophytes both lack flowers and seeds, but they differ strongly.
 
-| Feature | Bryophytes | Pteridophytes |
-|---|---|---|
-| True roots, stems, leaves | No | Yes |
-| Vascular tissue | No | Yes |
-| Size and complexity | Simpler | More complex |
+| Feature                   | Bryophytes | Pteridophytes |
+| ------------------------- | ---------- | ------------- |
+| True roots, stems, leaves | No         | Yes           |
+| Vascular tissue           | No         | Yes           |
+| Size and complexity       | Simpler    | More complex  |
 
 Therefore, they are placed in different groups.
 
@@ -1640,13 +1641,13 @@ Kingdom -> Phylum -> Class -> Order -> Family -> Genus -> Species
 
 ### Exercise 15 - Case Study Guide
 
-| Organism | Likely Group | Reason |
-|---|---|---|
-| **P** | Monera | Microscopic, no true nucleus, survives extreme conditions. |
-| **Q** | Fungi | Multicellular, filamentous, cell wall, no chlorophyll, grows on dead matter. |
-| **R** | Protista | Unicellular eukaryote, flagella, photosynthetic in light, heterotrophic without light. |
-| **S** | Animalia / vertebrate | Multicellular, differentiated tissues, backbone, aquatic respiration in early life. |
-| **T** | Virus-like, outside five kingdoms | Acellular, genetic material, inactive outside host. |
+| Organism | Likely Group                      | Reason                                                                                 |
+| -------- | --------------------------------- | -------------------------------------------------------------------------------------- |
+| **P**    | Monera                            | Microscopic, no true nucleus, survives extreme conditions.                             |
+| **Q**    | Fungi                             | Multicellular, filamentous, cell wall, no chlorophyll, grows on dead matter.           |
+| **R**    | Protista                          | Unicellular eukaryote, flagella, photosynthetic in light, heterotrophic without light. |
+| **S**    | Animalia / vertebrate             | Multicellular, differentiated tissues, backbone, aquatic respiration in early life.    |
+| **T**    | Virus-like, outside five kingdoms | Acellular, genetic material, inactive outside host.                                    |
 
 #### 15(i)
 
@@ -1705,49 +1706,49 @@ It should not be placed in Animalia because animals usually ingest food and lack
 
 ### Five Kingdom Decision Guide
 
-| If the Organism Is... | Likely Kingdom |
-|---|---|
-| Unicellular and prokaryotic | Monera |
-| Unicellular and eukaryotic | Protista |
-| Eukaryotic, chitin cell wall, absorbs food | Fungi |
-| Multicellular, cellulose cell wall, photosynthetic | Plantae |
-| Multicellular, no cell wall, heterotrophic by ingestion | Animalia |
+| If the Organism Is...                                   | Likely Kingdom |
+| ------------------------------------------------------- | -------------- |
+| Unicellular and prokaryotic                             | Monera         |
+| Unicellular and eukaryotic                              | Protista       |
+| Eukaryotic, chitin cell wall, absorbs food              | Fungi          |
+| Multicellular, cellulose cell wall, photosynthetic      | Plantae        |
+| Multicellular, no cell wall, heterotrophic by ingestion | Animalia       |
 
 ### Plant Group Decision Guide
 
-| If the Plant Has... | Group |
-|---|---|
-| Simple thallus body | Thallophyta |
-| Simple land plant body, no vascular tissue | Bryophyta |
+| If the Plant Has...                                  | Group        |
+| ---------------------------------------------------- | ------------ |
+| Simple thallus body                                  | Thallophyta  |
+| Simple land plant body, no vascular tissue           | Bryophyta    |
 | True roots, stems, leaves, vascular tissue, no seeds | Pteridophyta |
-| Naked seeds on cones | Gymnosperms |
-| Flowers and seeds inside fruits | Angiosperms |
+| Naked seeds on cones                                 | Gymnosperms  |
+| Flowers and seeds inside fruits                      | Angiosperms  |
 
 ### Animal Group Decision Guide
 
-| If the Animal Has... | Group |
-|---|---|
-| Pores and no true tissues | Porifera |
-| Tentacles and tissue level organisation | Cnidaria |
-| Flat bilateral body | Platyhelminthes |
-| Cylindrical unsegmented body | Nematoda |
-| Segmented worm-like body | Annelida |
-| Jointed legs and exoskeleton | Arthropoda |
-| Soft body, often shell | Mollusca |
-| Spiny skin and internal skeleton | Echinodermata |
-| Notochord at least once | Chordata |
-| Backbone | Vertebrata |
+| If the Animal Has...                    | Group           |
+| --------------------------------------- | --------------- |
+| Pores and no true tissues               | Porifera        |
+| Tentacles and tissue level organisation | Cnidaria        |
+| Flat bilateral body                     | Platyhelminthes |
+| Cylindrical unsegmented body            | Nematoda        |
+| Segmented worm-like body                | Annelida        |
+| Jointed legs and exoskeleton            | Arthropoda      |
+| Soft body, often shell                  | Mollusca        |
+| Spiny skin and internal skeleton        | Echinodermata   |
+| Notochord at least once                 | Chordata        |
+| Backbone                                | Vertebrata      |
 
 ### Scientific Naming Rules
 
-| Rule | Example |
-|---|---|
-| Two words | *Panthera tigris* |
-| First word is genus | *Panthera* |
-| Second word is species | *tigris* |
-| Genus capitalized | *Panthera* |
-| Species lower-case | *tigris* |
-| Printed in italics | *Mangifera indica* |
+| Rule                   | Example            |
+| ---------------------- | ------------------ |
+| Two words              | _Panthera tigris_  |
+| First word is genus    | _Panthera_         |
+| Second word is species | _tigris_           |
+| Genus capitalized      | _Panthera_         |
+| Species lower-case     | _tigris_           |
+| Printed in italics     | _Mangifera indica_ |
 
 ---
 
@@ -1807,7 +1808,6 @@ Classification systems have changed over time. Early systems used habitat and ex
 
 Monera includes unicellular prokaryotes such as bacteria and cyanobacteria. Protista includes unicellular eukaryotes such as Amoeba, Paramecium, and Euglena. Fungi are heterotrophs with chitin cell walls and absorb nutrients. Plants are multicellular autotrophs with cellulose cell walls. Animals are multicellular heterotrophs without cell walls.
 
-Plant groups show increasing adaptation to land: thallophytes, bryophytes, pteridophytes, gymnosperms, and angiosperms. Animal groups show increasing complexity in body organization, from sponges to vertebrates. Classification hierarchy moves from kingdom to species, and scientific names use binomial nomenclature, such as *Panthera tigris*.
+Plant groups show increasing adaptation to land: thallophytes, bryophytes, pteridophytes, gymnosperms, and angiosperms. Animal groups show increasing complexity in body organization, from sponges to vertebrates. Classification hierarchy moves from kingdom to species, and scientific names use binomial nomenclature, such as _Panthera tigris_.
 
 Fossils provide evidence of ancient life and show how life has changed over time. Biodiversity is under threat from human activities such as deforestation, pollution, overuse of resources, and climate change. Classification helps us understand and protect biodiversity.
-

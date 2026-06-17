@@ -1,4 +1,5 @@
 # Chapter 2: Application of Integrals
+
 ### NCERT Class 12 - Maths Part 2
 
 ## Chapter at a Glance
@@ -22,27 +23,27 @@ By the end of this chapter, learners should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
+| Term             | Meaning                                              |
+| ---------------- | ---------------------------------------------------- |
 | Area under curve | Region between a curve and an axis over an interval. |
-| Vertical strip | Thin rectangle of width `dx`. |
-| Horizontal strip | Thin rectangle of width `dy`. |
-| Upper curve | Curve with larger `y` value in a vertical strip. |
-| Lower curve | Curve with smaller `y` value in a vertical strip. |
-| Right curve | Curve with larger `x` value in a horizontal strip. |
-| Left curve | Curve with smaller `x` value in a horizontal strip. |
-| Bounded region | Region enclosed by curves or axes. |
+| Vertical strip   | Thin rectangle of width `dx`.                        |
+| Horizontal strip | Thin rectangle of width `dy`.                        |
+| Upper curve      | Curve with larger `y` value in a vertical strip.     |
+| Lower curve      | Curve with smaller `y` value in a vertical strip.    |
+| Right curve      | Curve with larger `x` value in a horizontal strip.   |
+| Left curve       | Curve with smaller `x` value in a horizontal strip.  |
+| Bounded region   | Region enclosed by curves or axes.                   |
 
 ## Quick Formula Map
 
-| Situation | Area Formula |
-|---|---|
-| Area under `y = f(x)` above x-axis from `a` to `b` | `int_a^b f(x) dx` |
-| Area between `y = f(x)` and x-axis | `int_a^b |f(x)| dx` |
-| Area between curves using vertical strips | `int_a^b [upper - lower] dx` |
-| Area between curves using horizontal strips | `int_c^d [right - left] dy` |
-| Circle `x^2 + y^2 = a^2` | Area `= pi a^2` |
-| Ellipse `x^2/a^2 + y^2/b^2 = 1` | Area `= pi ab` |
+| Situation                                          | Area Formula                 |
+| -------------------------------------------------- | ---------------------------- | ---- | --- |
+| Area under `y = f(x)` above x-axis from `a` to `b` | `int_a^b f(x) dx`            |
+| Area between `y = f(x)` and x-axis                 | `int_a^b                     | f(x) | dx` |
+| Area between curves using vertical strips          | `int_a^b [upper - lower] dx` |
+| Area between curves using horizontal strips        | `int_c^d [right - left] dy`  |
+| Circle `x^2 + y^2 = a^2`                           | Area `= pi a^2`              |
+| Ellipse `x^2/a^2 + y^2/b^2 = 1`                    | Area `= pi ab`               |
 
 # Unit 2A: Area as a Definite Integral
 
@@ -303,15 +304,15 @@ Write in this order:
 
 # Unit 2L: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Using lower curve minus upper curve | Use upper minus lower for vertical strips. |
-| Forgetting absolute area | Area cannot be negative. |
-| Not finding intersection points | Intersections usually give limits. |
-| Using one integral when curves switch order | Split the region. |
+| Mistake                                              | Correction                                               |
+| ---------------------------------------------------- | -------------------------------------------------------- |
+| Using lower curve minus upper curve                  | Use upper minus lower for vertical strips.               |
+| Forgetting absolute area                             | Area cannot be negative.                                 |
+| Not finding intersection points                      | Intersections usually give limits.                       |
+| Using one integral when curves switch order          | Split the region.                                        |
 | Choosing `dx` when curves are easier in terms of `y` | Use horizontal strips and integrate with respect to `y`. |
-| Ignoring symmetry | Symmetry can reduce calculation. |
-| Writing answer without units | Area is in square units. |
+| Ignoring symmetry                                    | Symmetry can reduce calculation.                         |
+| Writing answer without units                         | Area is in square units.                                 |
 
 ## Practice Set
 

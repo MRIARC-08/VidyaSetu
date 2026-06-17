@@ -1,4 +1,5 @@
 # Chapter 7: Human Memory
+
 ### NCERT Class 11 Psychology
 
 ---
@@ -36,10 +37,10 @@ Memory is the ability to retain information over time and use it later.
 
 It involves three stages:
 
-| Stage | Meaning |
-|---|---|
-| Encoding | Recording information in a usable form |
-| Storage | Holding information over time |
+| Stage     | Meaning                                                |
+| --------- | ------------------------------------------------------ |
+| Encoding  | Recording information in a usable form                 |
+| Storage   | Holding information over time                          |
 | Retrieval | Bringing stored information back into awareness or use |
 
 If any stage fails, memory performance becomes weak.
@@ -52,11 +53,11 @@ Encoding is the first stage of memory. It converts information into a form that 
 
 Types of encoding:
 
-| Type | Example |
-|---|---|
-| Visual encoding | Remembering a diagram |
+| Type              | Example                         |
+| ----------------- | ------------------------------- |
+| Visual encoding   | Remembering a diagram           |
 | Acoustic encoding | Remembering the sound of a word |
-| Semantic encoding | Remembering meaning |
+| Semantic encoding | Remembering meaning             |
 
 Semantic encoding is usually strongest because meaning connects information with existing knowledge.
 
@@ -95,11 +96,11 @@ Many cases of forgetting are actually retrieval failures: the information may be
 
 ## 5. Three-Stage Model of Memory
 
-| Store | Duration | Capacity | Example |
-|---|---|---|---|
-| Sensory memory | Very brief | Large | Brief visual trace after seeing something |
-| Short-term memory | Few seconds | Limited | Remembering a phone number briefly |
-| Long-term memory | Long duration | Very large | Remembering language, facts, skills |
+| Store             | Duration      | Capacity   | Example                                   |
+| ----------------- | ------------- | ---------- | ----------------------------------------- |
+| Sensory memory    | Very brief    | Large      | Brief visual trace after seeing something |
+| Short-term memory | Few seconds   | Limited    | Remembering a phone number briefly        |
+| Long-term memory  | Long duration | Very large | Remembering language, facts, skills       |
 
 Information must be attended to if it is to move from sensory memory to short-term memory.
 
@@ -123,17 +124,17 @@ Long-term memory stores information for long periods.
 
 ### Declarative and Procedural Memory
 
-| Type | Meaning | Example |
-|---|---|---|
-| Declarative memory | Memory of facts and events | Capital of India, birthday memory |
-| Procedural memory | Memory of skills and procedures | Cycling, typing, swimming |
+| Type               | Meaning                         | Example                           |
+| ------------------ | ------------------------------- | --------------------------------- |
+| Declarative memory | Memory of facts and events      | Capital of India, birthday memory |
+| Procedural memory  | Memory of skills and procedures | Cycling, typing, swimming         |
 
 ### Episodic and Semantic Memory
 
-| Type | Meaning | Example |
-|---|---|---|
-| Episodic memory | Personal events | First day at school |
-| Semantic memory | General knowledge | Meaning of a word |
+| Type            | Meaning           | Example             |
+| --------------- | ----------------- | ------------------- |
+| Episodic memory | Personal events   | First day at school |
+| Semantic memory | General knowledge | Meaning of a word   |
 
 ---
 
@@ -141,11 +142,11 @@ Long-term memory stores information for long periods.
 
 The level of processing approach says memory depends on how information is processed.
 
-| Level | Processing type | Memory strength |
-|---|---|---|
-| Structural | Appearance | Shallow |
-| Phonetic | Sound | Moderate |
-| Semantic | Meaning | Deep and stronger |
+| Level      | Processing type | Memory strength   |
+| ---------- | --------------- | ----------------- |
+| Structural | Appearance      | Shallow           |
+| Phonetic   | Sound           | Moderate          |
+| Semantic   | Meaning         | Deep and stronger |
 
 Example:
 
@@ -175,10 +176,10 @@ Forgetting is the loss of stored information over time or failure to retrieve it
 
 Major explanations:
 
-| Explanation | Meaning |
-|---|---|
-| Trace decay | Memory trace weakens over time |
-| Interference | Other learning blocks recall |
+| Explanation       | Meaning                                      |
+| ----------------- | -------------------------------------------- |
+| Trace decay       | Memory trace weakens over time               |
+| Interference      | Other learning blocks recall                 |
 | Retrieval failure | Information is stored but cannot be accessed |
 
 ---
@@ -187,9 +188,9 @@ Major explanations:
 
 Interference occurs when one memory disrupts another.
 
-| Type | Meaning | Example |
-|---|---|---|
-| Proactive interference | Old learning interferes with new learning | Old password makes it hard to remember new one |
+| Type                     | Meaning                                   | Example                                         |
+| ------------------------ | ----------------------------------------- | ----------------------------------------------- |
+| Proactive interference   | Old learning interferes with new learning | Old password makes it hard to remember new one  |
 | Retroactive interference | New learning interferes with old learning | New phone number makes old one harder to recall |
 
 ---
@@ -198,15 +199,15 @@ Interference occurs when one memory disrupts another.
 
 Mnemonics are strategies that improve memory.
 
-| Strategy | How it helps |
-|---|---|
-| Organisation | Groups information meaningfully |
-| Chunking | Combines small units into larger units |
-| Keyword method | Links unfamiliar word with familiar image |
-| Method of loci | Links items with locations |
-| Elaboration | Adds meaning and examples |
-| Rehearsal | Repeats information |
-| Self-questioning | Checks understanding |
+| Strategy         | How it helps                              |
+| ---------------- | ----------------------------------------- |
+| Organisation     | Groups information meaningfully           |
+| Chunking         | Combines small units into larger units    |
+| Keyword method   | Links unfamiliar word with familiar image |
+| Method of loci   | Links items with locations                |
+| Elaboration      | Adds meaning and examples                 |
+| Rehearsal        | Repeats information                       |
+| Self-questioning | Checks understanding                      |
 
 Best memory strategy:
 
@@ -216,13 +217,13 @@ Best memory strategy:
 
 ## 13. Common Mistakes
 
-| Mistake | Correct understanding |
-|---|---|
-| Treating memory as simple storage | Memory is active and reconstructive. |
-| Ignoring encoding | Poor encoding causes poor recall. |
-| Confusing STM and LTM | STM is brief and limited; LTM is long-lasting and vast. |
-| Thinking forgetting always means erasure | It may be retrieval failure. |
-| Confusing proactive and retroactive interference | Old affects new; new affects old. |
+| Mistake                                          | Correct understanding                                   |
+| ------------------------------------------------ | ------------------------------------------------------- |
+| Treating memory as simple storage                | Memory is active and reconstructive.                    |
+| Ignoring encoding                                | Poor encoding causes poor recall.                       |
+| Confusing STM and LTM                            | STM is brief and limited; LTM is long-lasting and vast. |
+| Thinking forgetting always means erasure         | It may be retrieval failure.                            |
+| Confusing proactive and retroactive interference | Old affects new; new affects old.                       |
 
 ---
 

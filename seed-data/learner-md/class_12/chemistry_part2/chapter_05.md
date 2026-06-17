@@ -1,4 +1,5 @@
 # Chapter 5: Biomolecules
+
 ### NCERT Class 12 - Chemistry Part 2
 
 ## Chapter at a Glance
@@ -24,30 +25,30 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Biomolecule | Molecule present in living systems and involved in structure or function. |
-| Carbohydrate | Polyhydroxy aldehyde or ketone, or compound producing such units on hydrolysis. |
-| Monosaccharide | Carbohydrate that cannot be hydrolysed into simpler carbohydrate units. |
-| Oligosaccharide | Carbohydrate yielding two to ten monosaccharide units on hydrolysis. |
-| Polysaccharide | Carbohydrate yielding many monosaccharide units on hydrolysis. |
-| Reducing sugar | Sugar that reduces Tollens' reagent or Fehling's solution. |
-| Glycosidic linkage | Linkage joining monosaccharide units. |
-| Amino acid | Compound containing amino and carboxyl groups. |
-| Peptide bond | `-CO-NH-` linkage between amino acids. |
-| Denaturation | Loss of native protein structure without breaking primary structure. |
-| Nucleotide | Base plus sugar plus phosphate. |
-| Nucleic acid | Polymer of nucleotides, such as DNA or RNA. |
+| Term               | Meaning                                                                         |
+| ------------------ | ------------------------------------------------------------------------------- |
+| Biomolecule        | Molecule present in living systems and involved in structure or function.       |
+| Carbohydrate       | Polyhydroxy aldehyde or ketone, or compound producing such units on hydrolysis. |
+| Monosaccharide     | Carbohydrate that cannot be hydrolysed into simpler carbohydrate units.         |
+| Oligosaccharide    | Carbohydrate yielding two to ten monosaccharide units on hydrolysis.            |
+| Polysaccharide     | Carbohydrate yielding many monosaccharide units on hydrolysis.                  |
+| Reducing sugar     | Sugar that reduces Tollens' reagent or Fehling's solution.                      |
+| Glycosidic linkage | Linkage joining monosaccharide units.                                           |
+| Amino acid         | Compound containing amino and carboxyl groups.                                  |
+| Peptide bond       | `-CO-NH-` linkage between amino acids.                                          |
+| Denaturation       | Loss of native protein structure without breaking primary structure.            |
+| Nucleotide         | Base plus sugar plus phosphate.                                                 |
+| Nucleic acid       | Polymer of nucleotides, such as DNA or RNA.                                     |
 
 ## Quick Learning Map
 
-| Biomolecule group | Building unit | Important bond or feature |
-|---|---|---|
-| Carbohydrates | Monosaccharides | Glycosidic linkage |
-| Proteins | Amino acids | Peptide bond |
-| Nucleic acids | Nucleotides | Phosphodiester linkage |
-| Vitamins | Small organic molecules | Required in small amounts |
-| Hormones | Chemical messengers | Regulate body processes |
+| Biomolecule group | Building unit           | Important bond or feature |
+| ----------------- | ----------------------- | ------------------------- |
+| Carbohydrates     | Monosaccharides         | Glycosidic linkage        |
+| Proteins          | Amino acids             | Peptide bond              |
+| Nucleic acids     | Nucleotides             | Phosphodiester linkage    |
+| Vitamins          | Small organic molecules | Required in small amounts |
+| Hormones          | Chemical messengers     | Regulate body processes   |
 
 # Unit 5A: Carbohydrates
 
@@ -67,28 +68,28 @@ Examples:
 
 ## Based on Hydrolysis
 
-| Class | Meaning | Examples |
-|---|---|---|
-| Monosaccharides | Cannot be hydrolysed further | glucose, fructose, ribose |
-| Oligosaccharides | Give 2 to 10 monosaccharide units | sucrose, maltose, lactose |
-| Polysaccharides | Give many monosaccharide units | starch, cellulose, glycogen |
+| Class            | Meaning                           | Examples                    |
+| ---------------- | --------------------------------- | --------------------------- |
+| Monosaccharides  | Cannot be hydrolysed further      | glucose, fructose, ribose   |
+| Oligosaccharides | Give 2 to 10 monosaccharide units | sucrose, maltose, lactose   |
+| Polysaccharides  | Give many monosaccharide units    | starch, cellulose, glycogen |
 
 ## Based on Functional Group
 
-| Class | Functional group | Example |
-|---|---|---|
-| Aldose | Aldehyde group | glucose |
-| Ketose | Ketone group | fructose |
+| Class  | Functional group | Example  |
+| ------ | ---------------- | -------- |
+| Aldose | Aldehyde group   | glucose  |
+| Ketose | Ketone group     | fructose |
 
 ## Based on Number of Carbon Atoms
 
-| Carbon atoms | Name |
-|---|---|
-| 3 | Triose |
-| 4 | Tetrose |
-| 5 | Pentose |
-| 6 | Hexose |
-| 7 | Heptose |
+| Carbon atoms | Name    |
+| ------------ | ------- |
+| 3            | Triose  |
+| 4            | Tetrose |
+| 5            | Pentose |
+| 6            | Hexose  |
+| 7            | Heptose |
 
 Glucose is an aldohexose. Fructose is a ketohexose.
 
@@ -96,10 +97,10 @@ Glucose is an aldohexose. Fructose is a ketohexose.
 
 Reducing sugars reduce Tollens' reagent and Fehling's solution. They have a free aldehydic or ketonic group, or can generate one in solution.
 
-| Type | Meaning | Examples |
-|---|---|---|
-| Reducing sugars | Can reduce mild oxidising reagents | glucose, fructose, maltose, lactose |
-| Non-reducing sugars | Do not reduce these reagents | sucrose |
+| Type                | Meaning                            | Examples                            |
+| ------------------- | ---------------------------------- | ----------------------------------- |
+| Reducing sugars     | Can reduce mild oxidising reagents | glucose, fructose, maltose, lactose |
+| Non-reducing sugars | Do not reduce these reagents       | sucrose                             |
 
 Sucrose is non-reducing because the reducing groups of glucose and fructose are involved in glycosidic linkage.
 
@@ -133,10 +134,10 @@ Fructose also forms cyclic structures. It is a reducing sugar because under test
 Disaccharides contain two monosaccharide units joined by glycosidic linkage.
 
 | Disaccharide | Hydrolysis products | Reducing? |
-|---|---|---|
-| Sucrose | Glucose + fructose | No |
-| Maltose | Glucose + glucose | Yes |
-| Lactose | Glucose + galactose | Yes |
+| ------------ | ------------------- | --------- |
+| Sucrose      | Glucose + fructose  | No        |
+| Maltose      | Glucose + glucose   | Yes       |
+| Lactose      | Glucose + galactose | Yes       |
 
 ## Sucrose
 
@@ -209,16 +210,16 @@ Formation:
 
 ## Classification by Shape
 
-| Type | Description | Example |
-|---|---|---|
-| Fibrous proteins | Long, thread-like, generally insoluble | keratin, collagen |
-| Globular proteins | Compact, folded, often soluble | enzymes, albumin |
+| Type              | Description                            | Example           |
+| ----------------- | -------------------------------------- | ----------------- |
+| Fibrous proteins  | Long, thread-like, generally insoluble | keratin, collagen |
+| Globular proteins | Compact, folded, often soluble         | enzymes, albumin  |
 
 ## Classification by Composition
 
-| Type | Description |
-|---|---|
-| Simple proteins | Give only amino acids on hydrolysis |
+| Type                | Description                                   |
+| ------------------- | --------------------------------------------- |
+| Simple proteins     | Give only amino acids on hydrolysis           |
 | Conjugated proteins | Contain amino acid part plus non-protein part |
 
 # Unit 5J: Structure of Proteins
@@ -270,21 +271,21 @@ Vitamins are organic compounds required in small amounts for normal growth and h
 
 ## Classification
 
-| Type | Vitamins | Key point |
-|---|---|---|
-| Fat-soluble | A, D, E, K | Stored in body fat; excess may accumulate. |
+| Type          | Vitamins   | Key point                                       |
+| ------------- | ---------- | ----------------------------------------------- |
+| Fat-soluble   | A, D, E, K | Stored in body fat; excess may accumulate.      |
 | Water-soluble | B group, C | Usually not stored much; regular intake needed. |
 
 ## Deficiency Examples
 
 | Vitamin | Deficiency disease or issue |
-|---|---|
-| A | Night blindness |
-| B1 | Beriberi |
-| B12 | Pernicious anaemia |
-| C | Scurvy |
-| D | Rickets |
-| K | Blood clotting problems |
+| ------- | --------------------------- |
+| A       | Night blindness             |
+| B1      | Beriberi                    |
+| B12     | Pernicious anaemia          |
+| C       | Scurvy                      |
+| D       | Rickets                     |
+| K       | Blood clotting problems     |
 
 # Unit 5N: Nucleic Acids
 
@@ -339,13 +340,13 @@ Base pairing in RNA uses uracil instead of thymine.
 
 ## DNA vs RNA
 
-| Feature | DNA | RNA |
-|---|---|---|
-| Sugar | Deoxyribose | Ribose |
-| Bases | A, G, C, T | A, G, C, U |
-| Usual structure | Double strand | Single strand |
-| Main role | Genetic storage | Protein synthesis and gene expression |
-| Stability | More stable | Less stable |
+| Feature         | DNA             | RNA                                   |
+| --------------- | --------------- | ------------------------------------- |
+| Sugar           | Deoxyribose     | Ribose                                |
+| Bases           | A, G, C, T      | A, G, C, U                            |
+| Usual structure | Double strand   | Single strand                         |
+| Main role       | Genetic storage | Protein synthesis and gene expression |
+| Stability       | More stable     | Less stable                           |
 
 # Unit 5P: Hormones
 
@@ -375,14 +376,14 @@ Example for proteins:
 
 # Unit 5R: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Calling all carbohydrates sweet | Polysaccharides such as starch and cellulose are not sweet. |
-| Saying sucrose is reducing | Sucrose is non-reducing because both reducing ends are involved in linkage. |
-| Confusing nucleoside and nucleotide | Nucleotide has phosphate; nucleoside does not. |
-| Thinking denaturation breaks all peptide bonds | Denaturation mainly disrupts higher structures, not primary sequence. |
-| Saying DNA contains uracil | DNA contains thymine; RNA contains uracil. |
-| Treating all vitamins as stored | Water-soluble vitamins are not stored much and need regular intake. |
+| Mistake                                        | Correction                                                                  |
+| ---------------------------------------------- | --------------------------------------------------------------------------- |
+| Calling all carbohydrates sweet                | Polysaccharides such as starch and cellulose are not sweet.                 |
+| Saying sucrose is reducing                     | Sucrose is non-reducing because both reducing ends are involved in linkage. |
+| Confusing nucleoside and nucleotide            | Nucleotide has phosphate; nucleoside does not.                              |
+| Thinking denaturation breaks all peptide bonds | Denaturation mainly disrupts higher structures, not primary sequence.       |
+| Saying DNA contains uracil                     | DNA contains thymine; RNA contains uracil.                                  |
+| Treating all vitamins as stored                | Water-soluble vitamins are not stored much and need regular intake.         |
 
 ## Practice Set
 

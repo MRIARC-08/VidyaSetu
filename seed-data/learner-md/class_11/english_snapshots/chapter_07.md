@@ -1,4 +1,5 @@
 # Chapter 7: Birth
+
 ### NCERT Class 11 English Snapshots
 
 ---
@@ -29,15 +30,15 @@ After studying this chapter, you should be able to:
 
 ## 1. Chapter Snapshot
 
-| Element | Details |
-|---|---|
-| Text type | Short story |
-| Writer | A. J. Cronin |
-| Main character | Dr Andrew Manson |
-| Setting | A working-class home in Blaenelly |
-| Main conflict | Saving mother and child during childbirth |
-| Tone | Tense, serious, emotional, triumphant |
-| Main themes | Duty, medical ethics, persistence, hope, professional fulfilment |
+| Element        | Details                                                          |
+| -------------- | ---------------------------------------------------------------- |
+| Text type      | Short story                                                      |
+| Writer         | A. J. Cronin                                                     |
+| Main character | Dr Andrew Manson                                                 |
+| Setting        | A working-class home in Blaenelly                                |
+| Main conflict  | Saving mother and child during childbirth                        |
+| Tone           | Tense, serious, emotional, triumphant                            |
+| Main themes    | Duty, medical ethics, persistence, hope, professional fulfilment |
 
 ---
 
@@ -55,14 +56,14 @@ Andrew leaves exhausted but deeply fulfilled. He feels that he has done somethin
 
 ## 3. Andrew Manson's Character
 
-| Trait | Explanation |
-|---|---|
-| Responsible | He stays through the night and does not abandon the case |
-| Skilled | He applies medical knowledge under pressure |
-| Persistent | He keeps trying even when the child seems dead |
-| Compassionate | He understands the family's emotional stake |
-| Courageous | He acts decisively during crisis |
-| Self-critical | He wants his work to have real meaning |
+| Trait         | Explanation                                              |
+| ------------- | -------------------------------------------------------- |
+| Responsible   | He stays through the night and does not abandon the case |
+| Skilled       | He applies medical knowledge under pressure              |
+| Persistent    | He keeps trying even when the child seems dead           |
+| Compassionate | He understands the family's emotional stake              |
+| Courageous    | He acts decisively during crisis                         |
+| Self-critical | He wants his work to have real meaning                   |
 
 Andrew's greatness in the story lies not in confidence alone, but in refusing to stop when failure seems certain.
 
@@ -107,12 +108,12 @@ The word "real" contrasts with routine work or empty ambition. This case gives h
 
 The family creates the emotional background of the story.
 
-| Character | Role |
-|---|---|
-| Joe Morgan | Anxious husband waiting outside |
-| Mrs Morgan | Mother in danger |
+| Character           | Role                                      |
+| ------------------- | ----------------------------------------- |
+| Joe Morgan          | Anxious husband waiting outside           |
+| Mrs Morgan          | Mother in danger                          |
 | Mrs Morgan's mother | Represents hope, fear, and family longing |
-| Midwife | Assists but loses hope about the child |
+| Midwife             | Assists but loses hope about the child    |
 
 Their anxiety makes Andrew's responsibility heavier.
 
@@ -120,14 +121,14 @@ Their anxiety makes Andrew's responsibility heavier.
 
 ## 7. Themes
 
-| Theme | Explanation |
-|---|---|
-| Professional duty | Andrew must act despite fatigue and pressure |
-| Perseverance | He refuses to accept defeat |
-| Hope | The baby's cry transforms despair into joy |
-| Human life | Saving life becomes the highest achievement |
-| Responsibility | A doctor carries moral as well as technical duty |
-| Growth | Andrew matures through this experience |
+| Theme             | Explanation                                      |
+| ----------------- | ------------------------------------------------ |
+| Professional duty | Andrew must act despite fatigue and pressure     |
+| Perseverance      | He refuses to accept defeat                      |
+| Hope              | The baby's cry transforms despair into joy       |
+| Human life        | Saving life becomes the highest achievement      |
+| Responsibility    | A doctor carries moral as well as technical duty |
+| Growth            | Andrew matures through this experience           |
 
 ---
 

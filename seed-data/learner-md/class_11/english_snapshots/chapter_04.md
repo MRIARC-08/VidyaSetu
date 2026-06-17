@@ -1,4 +1,5 @@
 # Chapter 4: Albert Einstein at School
+
 ### NCERT Class 11 English Snapshots
 
 ---
@@ -29,14 +30,14 @@ After studying this chapter, you should be able to:
 
 ## 1. Chapter Snapshot
 
-| Element | Details |
-|---|---|
-| Text type | Biographical story episode |
-| Main character | Young Albert Einstein |
-| Setting | School and lodgings in Munich |
-| Main conflict | Einstein's independent thinking versus rigid schooling |
-| Tone | Critical, sympathetic, quietly humorous |
-| Main theme | Real education is understanding, not memorisation |
+| Element        | Details                                                |
+| -------------- | ------------------------------------------------------ |
+| Text type      | Biographical story episode                             |
+| Main character | Young Albert Einstein                                  |
+| Setting        | School and lodgings in Munich                          |
+| Main conflict  | Einstein's independent thinking versus rigid schooling |
+| Tone           | Critical, sympathetic, quietly humorous                |
+| Main theme     | Real education is understanding, not memorisation      |
 
 ---
 
@@ -52,13 +53,13 @@ Before he can use the certificate, the head teacher tells him that the school wa
 
 ## 3. Albert's Character
 
-| Trait | Explanation |
-|---|---|
-| Intelligent | He understands mathematics beyond the school level |
-| Honest | He openly admits he does not try to memorise dates |
-| Curious | He wants to know why events happen, not just when |
-| Independent | He refuses to accept education as blind repetition |
-| Sensitive | He is deeply unhappy in school and lodgings |
+| Trait            | Explanation                                             |
+| ---------------- | ------------------------------------------------------- |
+| Intelligent      | He understands mathematics beyond the school level      |
+| Honest           | He openly admits he does not try to memorise dates      |
+| Curious          | He wants to know why events happen, not just when       |
+| Independent      | He refuses to accept education as blind repetition      |
+| Sensitive        | He is deeply unhappy in school and lodgings             |
 | Bad at deception | Yuri and Dr Weil both see that he is not a skilled liar |
 
 Albert is not lazy. He rejects meaningless learning, not learning itself.
@@ -71,12 +72,12 @@ Mr Braun represents the rigid school system. He expects students to learn dates 
 
 The deeper issue is:
 
-| Mr Braun's view | Albert's view |
-|---|---|
+| Mr Braun's view         | Albert's view                      |
+| ----------------------- | ---------------------------------- |
 | Facts must be memorised | Facts should lead to understanding |
-| Discipline matters most | Thought and curiosity matter |
-| Student should obey | Student should question |
-| Education is repetition | Education is insight |
+| Discipline matters most | Thought and curiosity matter       |
+| Student should obey     | Student should question            |
+| Education is repetition | Education is insight               |
 
 Albert's question about why soldiers fought is important because it shows historical understanding, not just factual recall.
 
@@ -86,13 +87,13 @@ Albert's question about why soldiers fought is important because it shows histor
 
 The chapter strongly contrasts information gathering and insight formation.
 
-| Information gathering | Insight formation |
-|---|---|
-| Collecting facts | Understanding meaning |
-| Memorising dates | Understanding causes and consequences |
-| Repeating answers | Thinking independently |
-| Exam-oriented | Life-oriented |
-| Mechanical | Creative and analytical |
+| Information gathering | Insight formation                     |
+| --------------------- | ------------------------------------- |
+| Collecting facts      | Understanding meaning                 |
+| Memorising dates      | Understanding causes and consequences |
+| Repeating answers     | Thinking independently                |
+| Exam-oriented         | Life-oriented                         |
+| Mechanical            | Creative and analytical               |
 
 Albert values insight. The school values information.
 
@@ -139,14 +140,14 @@ The school cannot recognise Einstein's genius because it measures him by the wro
 
 ## 8. Theme Board
 
-| Theme | Explanation |
-|---|---|
-| Rote learning vs understanding | Albert rejects memorising facts without meaning |
-| Individual talent | The system fails to recognise Albert's brilliance |
-| Non-conformity | Albert does not fit the school's expectations |
-| Emotional pressure | School makes Albert miserable |
-| True education | Real learning requires curiosity and insight |
-| Irony | The school expels the student who later becomes a great thinker |
+| Theme                          | Explanation                                                     |
+| ------------------------------ | --------------------------------------------------------------- |
+| Rote learning vs understanding | Albert rejects memorising facts without meaning                 |
+| Individual talent              | The system fails to recognise Albert's brilliance               |
+| Non-conformity                 | Albert does not fit the school's expectations                   |
+| Emotional pressure             | School makes Albert miserable                                   |
+| True education                 | Real learning requires curiosity and insight                    |
+| Irony                          | The school expels the student who later becomes a great thinker |
 
 ---
 

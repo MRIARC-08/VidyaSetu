@@ -1,39 +1,40 @@
 # Chapter 5: Life Processes
+
 ### NCERT Class 10 - Science
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 10 |
-| **Subject** | Science |
-| **Chapter** | 5 |
-| **Textbook Pages** | 1-21 |
-| **Core Theme** | How living organisms maintain life through nutrition, respiration, transportation, and excretion. |
-| **Main Skills** | Explaining life processes, tracing digestion and respiration pathways, comparing transport systems, and describing urine formation and plant excretion. |
+| Detail             | Learner-Friendly Information                                                                                                                            |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Class**          | 10                                                                                                                                                      |
+| **Subject**        | Science                                                                                                                                                 |
+| **Chapter**        | 5                                                                                                                                                       |
+| **Textbook Pages** | 1-21                                                                                                                                                    |
+| **Core Theme**     | How living organisms maintain life through nutrition, respiration, transportation, and excretion.                                                       |
+| **Main Skills**    | Explaining life processes, tracing digestion and respiration pathways, comparing transport systems, and describing urine formation and plant excretion. |
 
 ---
 
 ## Section Structure
 
-| Unit | Topic | Main Learning Focus |
-|---|---|---|
-| **5A** | What Is Life? | Visible movement, molecular movement, maintenance, and repair. |
-| **5B** | Life Processes | Nutrition, respiration, transportation, and excretion. |
-| **5C** | Nutrition | Autotrophic and heterotrophic modes. |
-| **5D** | Photosynthesis | Raw materials, chlorophyll, sunlight, stomata, and starch tests. |
-| **5E** | Heterotrophic Nutrition | Saprophytic, parasitic, and holozoic nutrition. |
-| **5F** | Nutrition in Amoeba and Paramecium | Food vacuoles, cilia, digestion, and egestion. |
-| **5G** | Human Digestion | Alimentary canal, enzymes, bile, absorption, and assimilation. |
-| **5H** | Respiration | Glucose breakdown, aerobic and anaerobic pathways, ATP. |
-| **5I** | Human Breathing | Respiratory tract, alveoli, haemoglobin, and gas exchange. |
-| **5J** | Human Transportation | Blood, heart, vessels, double circulation, platelets, and lymph. |
-| **5K** | Plant Transportation | Xylem, phloem, transpiration pull, and translocation. |
-| **5L** | Human Excretion | Kidneys, nephrons, urine formation, and dialysis. |
-| **5M** | Plant Excretion | Transpiration, storage, leaf fall, gums, resins, and soil excretion. |
-| **5N** | Solved Questions | In-text and exercise-level answers. |
+| Unit   | Topic                              | Main Learning Focus                                                  |
+| ------ | ---------------------------------- | -------------------------------------------------------------------- |
+| **5A** | What Is Life?                      | Visible movement, molecular movement, maintenance, and repair.       |
+| **5B** | Life Processes                     | Nutrition, respiration, transportation, and excretion.               |
+| **5C** | Nutrition                          | Autotrophic and heterotrophic modes.                                 |
+| **5D** | Photosynthesis                     | Raw materials, chlorophyll, sunlight, stomata, and starch tests.     |
+| **5E** | Heterotrophic Nutrition            | Saprophytic, parasitic, and holozoic nutrition.                      |
+| **5F** | Nutrition in Amoeba and Paramecium | Food vacuoles, cilia, digestion, and egestion.                       |
+| **5G** | Human Digestion                    | Alimentary canal, enzymes, bile, absorption, and assimilation.       |
+| **5H** | Respiration                        | Glucose breakdown, aerobic and anaerobic pathways, ATP.              |
+| **5I** | Human Breathing                    | Respiratory tract, alveoli, haemoglobin, and gas exchange.           |
+| **5J** | Human Transportation               | Blood, heart, vessels, double circulation, platelets, and lymph.     |
+| **5K** | Plant Transportation               | Xylem, phloem, transpiration pull, and translocation.                |
+| **5L** | Human Excretion                    | Kidneys, nephrons, urine formation, and dialysis.                    |
+| **5M** | Plant Excretion                    | Transpiration, storage, leaf fall, gums, resins, and soil excretion. |
+| **5N** | Solved Questions                   | In-text and exercise-level answers.                                  |
 
 ---
 
@@ -41,50 +42,50 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Define life processes** | Explain why maintenance processes must continue even when an organism is resting. |
-| **Explain nutrition** | Compare autotrophic and heterotrophic nutrition and identify their raw materials. |
-| **Explain photosynthesis** | State the events of photosynthesis and describe starch, chlorophyll, carbon dioxide, and sunlight tests. |
-| **Trace digestion** | Follow food from mouth to anus and explain the role of enzymes, acid, bile, pancreas, villi, and large intestine. |
-| **Explain respiration** | Compare aerobic respiration, anaerobic respiration in yeast, and lactic acid formation in muscles. |
-| **Describe gas exchange** | Explain how alveoli maximise diffusion and how oxygen and carbon dioxide are transported in blood. |
-| **Describe circulation** | Explain the four chambers of the heart, double circulation, arteries, veins, capillaries, platelets, and lymph. |
-| **Explain plant transport** | Compare xylem and phloem and describe root pressure, transpiration pull, and ATP-driven translocation. |
-| **Describe excretion** | Explain nephron structure, urine formation, regulation of urine amount, dialysis, and plant waste removal. |
+| Outcome                     | You Should Be Able To...                                                                                          |
+| --------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| **Define life processes**   | Explain why maintenance processes must continue even when an organism is resting.                                 |
+| **Explain nutrition**       | Compare autotrophic and heterotrophic nutrition and identify their raw materials.                                 |
+| **Explain photosynthesis**  | State the events of photosynthesis and describe starch, chlorophyll, carbon dioxide, and sunlight tests.          |
+| **Trace digestion**         | Follow food from mouth to anus and explain the role of enzymes, acid, bile, pancreas, villi, and large intestine. |
+| **Explain respiration**     | Compare aerobic respiration, anaerobic respiration in yeast, and lactic acid formation in muscles.                |
+| **Describe gas exchange**   | Explain how alveoli maximise diffusion and how oxygen and carbon dioxide are transported in blood.                |
+| **Describe circulation**    | Explain the four chambers of the heart, double circulation, arteries, veins, capillaries, platelets, and lymph.   |
+| **Explain plant transport** | Compare xylem and phloem and describe root pressure, transpiration pull, and ATP-driven translocation.            |
+| **Describe excretion**      | Explain nephron structure, urine formation, regulation of urine amount, dialysis, and plant waste removal.        |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Life processes** | Maintenance activities essential for keeping an organism alive. |
-| **Nutrition** | Process of taking in and using food/raw materials for energy, growth, repair, and maintenance. |
-| **Autotrophic nutrition** | Mode of nutrition in which organisms make food from simple inorganic substances using energy, usually sunlight. |
-| **Heterotrophic nutrition** | Mode of nutrition in which organisms depend on other organisms for complex food materials. |
-| **Photosynthesis** | Process by which green plants use sunlight, chlorophyll, carbon dioxide, and water to make carbohydrates. |
-| **Stomata** | Tiny pores on leaves used for gas exchange and transpiration. |
-| **Guard cells** | Cells that control opening and closing of stomata. |
-| **Enzyme** | Biological catalyst that speeds up chemical reactions in living organisms. |
-| **Peristalsis** | Rhythmic muscular movement that pushes food through the alimentary canal. |
-| **Villi** | Finger-like projections in small intestine that increase surface area for absorption. |
-| **Respiration** | Process of breaking down food to release energy, usually stored as ATP. |
-| **Aerobic respiration** | Respiration in presence of oxygen; releases more energy. |
-| **Anaerobic respiration** | Respiration without oxygen; releases less energy. |
-| **ATP** | Energy currency of the cell; stores usable energy for cellular processes. |
-| **Alveoli** | Balloon-like air sacs in lungs where gas exchange occurs. |
-| **Haemoglobin** | Respiratory pigment in red blood cells that carries oxygen. |
-| **Plasma** | Fluid part of blood that transports dissolved substances. |
-| **Platelets** | Blood cells/fragments that help clot blood at injuries. |
-| **Double circulation** | Blood passes through the heart twice in one complete cycle: once to lungs and once to body. |
-| **Xylem** | Plant tissue that transports water and minerals from roots upward. |
-| **Phloem** | Plant tissue that transports soluble food and other substances. |
-| **Transpiration** | Loss of water vapour from aerial parts of plants, mainly through stomata. |
-| **Translocation** | Transport of soluble products of photosynthesis through phloem. |
-| **Excretion** | Removal of harmful metabolic wastes from the body. |
-| **Nephron** | Basic filtration unit of the kidney. |
-| **Dialysis** | Artificial removal of nitrogenous wastes from blood when kidneys fail. |
+| Term                        | Meaning                                                                                                         |
+| --------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| **Life processes**          | Maintenance activities essential for keeping an organism alive.                                                 |
+| **Nutrition**               | Process of taking in and using food/raw materials for energy, growth, repair, and maintenance.                  |
+| **Autotrophic nutrition**   | Mode of nutrition in which organisms make food from simple inorganic substances using energy, usually sunlight. |
+| **Heterotrophic nutrition** | Mode of nutrition in which organisms depend on other organisms for complex food materials.                      |
+| **Photosynthesis**          | Process by which green plants use sunlight, chlorophyll, carbon dioxide, and water to make carbohydrates.       |
+| **Stomata**                 | Tiny pores on leaves used for gas exchange and transpiration.                                                   |
+| **Guard cells**             | Cells that control opening and closing of stomata.                                                              |
+| **Enzyme**                  | Biological catalyst that speeds up chemical reactions in living organisms.                                      |
+| **Peristalsis**             | Rhythmic muscular movement that pushes food through the alimentary canal.                                       |
+| **Villi**                   | Finger-like projections in small intestine that increase surface area for absorption.                           |
+| **Respiration**             | Process of breaking down food to release energy, usually stored as ATP.                                         |
+| **Aerobic respiration**     | Respiration in presence of oxygen; releases more energy.                                                        |
+| **Anaerobic respiration**   | Respiration without oxygen; releases less energy.                                                               |
+| **ATP**                     | Energy currency of the cell; stores usable energy for cellular processes.                                       |
+| **Alveoli**                 | Balloon-like air sacs in lungs where gas exchange occurs.                                                       |
+| **Haemoglobin**             | Respiratory pigment in red blood cells that carries oxygen.                                                     |
+| **Plasma**                  | Fluid part of blood that transports dissolved substances.                                                       |
+| **Platelets**               | Blood cells/fragments that help clot blood at injuries.                                                         |
+| **Double circulation**      | Blood passes through the heart twice in one complete cycle: once to lungs and once to body.                     |
+| **Xylem**                   | Plant tissue that transports water and minerals from roots upward.                                              |
+| **Phloem**                  | Plant tissue that transports soluble food and other substances.                                                 |
+| **Transpiration**           | Loss of water vapour from aerial parts of plants, mainly through stomata.                                       |
+| **Translocation**           | Transport of soluble products of photosynthesis through phloem.                                                 |
+| **Excretion**               | Removal of harmful metabolic wastes from the body.                                                              |
+| **Nephron**                 | Basic filtration unit of the kidney.                                                                            |
+| **Dialysis**                | Artificial removal of nitrogenous wastes from blood when kidneys fail.                                          |
 
 ---
 
@@ -162,12 +163,12 @@ They continue even when the organism is resting or sleeping.
 
 ## Main Life Processes
 
-| Life Process | Main Function |
-|---|---|
-| Nutrition | Supplies energy and raw materials. |
-| Respiration | Breaks down food to release usable energy. |
+| Life Process   | Main Function                                                              |
+| -------------- | -------------------------------------------------------------------------- |
+| Nutrition      | Supplies energy and raw materials.                                         |
+| Respiration    | Breaks down food to release usable energy.                                 |
 | Transportation | Moves food, gases, wastes, hormones, and other substances inside the body. |
-| Excretion | Removes harmful metabolic wastes. |
+| Excretion      | Removes harmful metabolic wastes.                                          |
 
 ## Why Energy Is Needed
 
@@ -212,10 +213,10 @@ Food provides:
 
 ## Two Main Modes of Nutrition
 
-| Mode | Meaning | Examples |
-|---|---|---|
-| Autotrophic | Organism makes its own food from simple inorganic substances. | Green plants, some bacteria. |
-| Heterotrophic | Organism depends on other organisms for complex food. | Animals, fungi, many bacteria. |
+| Mode          | Meaning                                                       | Examples                       |
+| ------------- | ------------------------------------------------------------- | ------------------------------ |
+| Autotrophic   | Organism makes its own food from simple inorganic substances. | Green plants, some bacteria.   |
+| Heterotrophic | Organism depends on other organisms for complex food.         | Animals, fungi, many bacteria. |
 
 ## Autotrophs
 
@@ -251,13 +252,13 @@ $$
 
 ## Raw Materials and Conditions
 
-| Requirement | Source/Role |
-|---|---|
-| Carbon dioxide | Enters leaves through stomata. |
-| Water | Absorbed by roots from soil. |
-| Sunlight | Provides energy. |
-| Chlorophyll | Absorbs light energy. |
-| Minerals | Taken from soil; help build proteins and other molecules. |
+| Requirement    | Source/Role                                               |
+| -------------- | --------------------------------------------------------- |
+| Carbon dioxide | Enters leaves through stomata.                            |
+| Water          | Absorbed by roots from soil.                              |
+| Sunlight       | Provides energy.                                          |
+| Chlorophyll    | Absorbs light energy.                                     |
+| Minerals       | Taken from soil; help build proteins and other molecules. |
 
 ## Main Events of Photosynthesis
 
@@ -307,9 +308,9 @@ Experiment idea:
 
 Observation:
 
-| Leaf Area | Iodine Result | Meaning |
-|---|---|---|
-| Green area | Blue-black | Starch is present; photosynthesis occurred. |
+| Leaf Area      | Iodine Result        | Meaning                                      |
+| -------------- | -------------------- | -------------------------------------------- |
+| Green area     | Blue-black           | Starch is present; photosynthesis occurred.  |
 | Non-green area | No blue-black colour | Starch absent; photosynthesis did not occur. |
 
 Conclusion:
@@ -330,10 +331,10 @@ Functions:
 
 Guard cells control stomatal opening and closing.
 
-| Guard Cell Condition | Stomatal Pore |
-|---|---|
-| Guard cells swell with water | Pore opens |
-| Guard cells lose water and shrink | Pore closes |
+| Guard Cell Condition              | Stomatal Pore |
+| --------------------------------- | ------------- |
+| Guard cells swell with water      | Pore opens    |
+| Guard cells lose water and shrink | Pore closes   |
 
 Plants close stomata when carbon dioxide is not needed or when they must reduce water loss.
 
@@ -348,10 +349,10 @@ In the bell-jar experiment:
 
 Observation:
 
-| Setup | Result |
-|---|---|
-| With `KOH` | Little/no starch because carbon dioxide is absorbed. |
-| Without `KOH` | Starch present. |
+| Setup         | Result                                               |
+| ------------- | ---------------------------------------------------- |
+| With `KOH`    | Little/no starch because carbon dioxide is absorbed. |
+| Without `KOH` | Starch present.                                      |
 
 Conclusion:
 
@@ -381,11 +382,11 @@ Sunlight is necessary for photosynthesis.
 
 ## Types of Heterotrophic Nutrition
 
-| Type | Method | Examples |
-|---|---|---|
-| Saprophytic | Food is broken down outside the body and then absorbed. | Bread mould, yeast, mushrooms. |
-| Holozoic | Food is taken into the body and digested internally. | Humans, Amoeba, animals. |
-| Parasitic | Organism obtains food from a living host without immediately killing it. | Cuscuta, ticks, lice, leeches, tapeworms. |
+| Type        | Method                                                                   | Examples                                  |
+| ----------- | ------------------------------------------------------------------------ | ----------------------------------------- |
+| Saprophytic | Food is broken down outside the body and then absorbed.                  | Bread mould, yeast, mushrooms.            |
+| Holozoic    | Food is taken into the body and digested internally.                     | Humans, Amoeba, animals.                  |
+| Parasitic   | Organism obtains food from a living host without immediately killing it. | Cuscuta, ticks, lice, leeches, tapeworms. |
 
 ## Why Nutrition Differs Among Organisms
 
@@ -432,12 +433,12 @@ Cilia move food particles toward this feeding region.
 
 ## Comparison
 
-| Feature | Amoeba | Paramecium |
-|---|---|---|
-| Shape | Irregular | Definite |
+| Feature     | Amoeba                    | Paramecium                      |
+| ----------- | ------------------------- | ------------------------------- |
+| Shape       | Irregular                 | Definite                        |
 | Food intake | Pseudopodia surround food | Cilia move food to a fixed spot |
-| Digestion | Food vacuole | Food vacuole |
-| Egestion | Through cell surface | Through a specific region |
+| Digestion   | Food vacuole              | Food vacuole                    |
+| Egestion    | Through cell surface      | Through a specific region       |
 
 ---
 
@@ -477,11 +478,11 @@ These are too large to be absorbed directly.
 
 Digestion breaks them into simpler molecules:
 
-| Complex Food | Final Simpler Form |
-|---|---|
-| Carbohydrates | Glucose/simple sugars |
-| Proteins | Amino acids |
-| Fats | Fatty acids and glycerol |
+| Complex Food  | Final Simpler Form       |
+| ------------- | ------------------------ |
+| Carbohydrates | Glucose/simple sugars    |
+| Proteins      | Amino acids              |
+| Fats          | Fatty acids and glycerol |
 
 ---
 
@@ -514,19 +515,19 @@ It breaks starch into simpler sugars.
 
 Two test tubes:
 
-| Test Tube | Contents |
-|---|---|
-| A | Starch solution + saliva |
-| B | Starch solution only |
+| Test Tube | Contents                 |
+| --------- | ------------------------ |
+| A         | Starch solution + saliva |
+| B         | Starch solution only     |
 
 After 20-30 minutes, iodine is added.
 
 Expected result:
 
-| Test Tube | Observation | Reason |
-|---|---|---|
-| A | Little/no blue-black colour | Salivary amylase breaks starch down. |
-| B | Blue-black colour | Starch remains present. |
+| Test Tube | Observation                 | Reason                               |
+| --------- | --------------------------- | ------------------------------------ |
+| A         | Little/no blue-black colour | Salivary amylase breaks starch down. |
+| B         | Blue-black colour           | Starch remains present.              |
 
 Conclusion:
 
@@ -572,11 +573,11 @@ Functions:
 
 Gastric glands secrete:
 
-| Secretion | Function |
-|---|---|
+| Secretion         | Function                                    |
+| ----------------- | ------------------------------------------- |
 | Hydrochloric acid | Creates acidic medium and kills many germs. |
-| Pepsin | Digests proteins. |
-| Mucus | Protects stomach lining from acid. |
+| Pepsin            | Digests proteins.                           |
+| Mucus             | Protects stomach lining from acid.          |
 
 ## Role of Acid
 
@@ -615,10 +616,10 @@ It is the site of complete digestion of:
 
 ## Length and Diet
 
-| Animal Type | Small Intestine |
-|---|---|
-| Herbivores | Longer, because cellulose-rich plant food is harder to digest. |
-| Carnivores | Shorter, because meat is easier to digest. |
+| Animal Type | Small Intestine                                                |
+| ----------- | -------------------------------------------------------------- |
+| Herbivores  | Longer, because cellulose-rich plant food is harder to digest. |
+| Carnivores  | Shorter, because meat is easier to digest.                     |
 
 ## Bile
 
@@ -643,10 +644,10 @@ Pancreas secretes pancreatic juice.
 
 Important enzymes:
 
-| Enzyme | Function |
-|---|---|
-| Trypsin | Digests proteins. |
-| Lipase | Digests emulsified fats. |
+| Enzyme  | Function                 |
+| ------- | ------------------------ |
+| Trypsin | Digests proteins.        |
+| Lipase  | Digests emulsified fats. |
 
 ## Intestinal Juice
 
@@ -654,11 +655,11 @@ Intestinal glands secrete intestinal juice.
 
 Its enzymes complete digestion:
 
-| Food Type | Final Products |
-|---|---|
-| Proteins | Amino acids |
-| Complex carbohydrates | Glucose |
-| Fats | Fatty acids and glycerol |
+| Food Type             | Final Products           |
+| --------------------- | ------------------------ |
+| Proteins              | Amino acids              |
+| Complex carbohydrates | Glucose                  |
+| Fats                  | Fatty acids and glycerol |
 
 ## Absorption by Villi
 
@@ -803,11 +804,11 @@ Lactic acid build-up causes muscle cramps.
 
 ## Comparison
 
-| Pathway | Oxygen? | Site | Products | Energy |
-|---|---|---|---|---|
-| Yeast fermentation | No | Cytoplasm | Ethanol + `CO2` | Low |
-| Aerobic respiration | Yes | Mitochondria | `CO2` + `H2O` | High |
-| Muscle anaerobic pathway | Low/absent | Muscle cells | Lactic acid | Low |
+| Pathway                  | Oxygen?    | Site         | Products        | Energy |
+| ------------------------ | ---------- | ------------ | --------------- | ------ |
+| Yeast fermentation       | No         | Cytoplasm    | Ethanol + `CO2` | Low    |
+| Aerobic respiration      | Yes        | Mitochondria | `CO2` + `H2O`   | High   |
+| Muscle anaerobic pathway | Low/absent | Muscle cells | Lactic acid     | Low    |
 
 ---
 
@@ -979,10 +980,10 @@ During exhalation:
 
 ## Gas Exchange in Alveoli
 
-| Gas | Direction |
-|---|---|
-| Oxygen | From alveolar air into blood. |
-| Carbon dioxide | From blood into alveoli. |
+| Gas            | Direction                     |
+| -------------- | ----------------------------- |
+| Oxygen         | From alveolar air into blood. |
+| Carbon dioxide | From blood into alveoli.      |
 
 Blood brings carbon dioxide from body tissues to the lungs.
 
@@ -1030,23 +1031,23 @@ Diffusion alone is too slow for a large body.
 
 ## Components of Human Transport System
 
-| Component | Function |
-|---|---|
-| Blood | Transports gases, food, wastes, salts, hormones, and heat. |
-| Heart | Pumps blood. |
-| Blood vessels | Carry blood throughout the body. |
-| Lymph | Returns excess tissue fluid and transports absorbed fats. |
+| Component     | Function                                                   |
+| ------------- | ---------------------------------------------------------- |
+| Blood         | Transports gases, food, wastes, salts, hormones, and heat. |
+| Heart         | Pumps blood.                                               |
+| Blood vessels | Carry blood throughout the body.                           |
+| Lymph         | Returns excess tissue fluid and transports absorbed fats.  |
 
 ## Blood
 
 Blood is a fluid connective tissue.
 
-| Blood Component | Function |
-|---|---|
-| Plasma | Transports food, carbon dioxide, nitrogenous wastes, salts, and other dissolved substances. |
-| Red blood cells | Carry oxygen using haemoglobin. |
-| White blood cells | Help defend against infection. |
-| Platelets | Help in blood clotting. |
+| Blood Component   | Function                                                                                    |
+| ----------------- | ------------------------------------------------------------------------------------------- |
+| Plasma            | Transports food, carbon dioxide, nitrogenous wastes, salts, and other dissolved substances. |
+| Red blood cells   | Carry oxygen using haemoglobin.                                                             |
+| White blood cells | Help defend against infection.                                                              |
+| Platelets         | Help in blood clotting.                                                                     |
 
 ---
 
@@ -1058,12 +1059,12 @@ The heart is a muscular organ about the size of a fist.
 
 It has four chambers:
 
-| Chamber | Main Role |
-|---|---|
-| Right atrium | Receives deoxygenated blood from body. |
-| Right ventricle | Pumps deoxygenated blood to lungs. |
-| Left atrium | Receives oxygenated blood from lungs. |
-| Left ventricle | Pumps oxygenated blood to body. |
+| Chamber         | Main Role                              |
+| --------------- | -------------------------------------- |
+| Right atrium    | Receives deoxygenated blood from body. |
+| Right ventricle | Pumps deoxygenated blood to lungs.     |
+| Left atrium     | Receives oxygenated blood from lungs.  |
+| Left ventricle  | Pumps oxygenated blood to body.        |
 
 ## Why Ventricles Have Thicker Walls
 
@@ -1104,11 +1105,11 @@ Complete separation of oxygenated and deoxygenated blood ensures:
 
 ## Other Vertebrates
 
-| Group | Heart Type | Circulation Note |
-|---|---|---|
-| Fish | Two chambers | Blood passes once through heart per body cycle. |
-| Amphibians/reptiles | Usually three chambers | Some mixing tolerated. |
-| Birds/mammals | Four chambers | Complete separation; efficient oxygen supply. |
+| Group               | Heart Type             | Circulation Note                                |
+| ------------------- | ---------------------- | ----------------------------------------------- |
+| Fish                | Two chambers           | Blood passes once through heart per body cycle. |
+| Amphibians/reptiles | Usually three chambers | Some mixing tolerated.                          |
+| Birds/mammals       | Four chambers          | Complete separation; efficient oxygen supply.   |
 
 ---
 
@@ -1148,10 +1149,10 @@ Normal adult blood pressure is about:
 120/80 mm Hg
 ```
 
-| Pressure | Meaning |
-|---|---|
-| Systolic | Pressure during ventricular contraction. |
-| Diastolic | Pressure during ventricular relaxation. |
+| Pressure  | Meaning                                  |
+| --------- | ---------------------------------------- |
+| Systolic  | Pressure during ventricular contraction. |
+| Diastolic | Pressure during ventricular relaxation.  |
 
 High blood pressure is called hypertension.
 
@@ -1200,9 +1201,9 @@ Large plants cannot depend only on diffusion.
 
 ## Plant Transport Tissues
 
-| Tissue | Main Material Transported | Direction |
-|---|---|---|
-| Xylem | Water and minerals | Mainly upward |
+| Tissue | Main Material Transported       | Direction           |
+| ------ | ------------------------------- | ------------------- |
+| Xylem  | Water and minerals              | Mainly upward       |
 | Phloem | Food and other soluble products | Upward and downward |
 
 ## Why Plant Transport Can Be Slower
@@ -1253,10 +1254,10 @@ Transpiration helps:
 
 ## Root Pressure vs Transpiration Pull
 
-| Force | More Important When? | Role |
-|---|---|---|
-| Root pressure | Night or low transpiration | Pushes water upward from roots. |
-| Transpiration pull | Day when stomata are open | Major force pulling water upward. |
+| Force              | More Important When?       | Role                              |
+| ------------------ | -------------------------- | --------------------------------- |
+| Root pressure      | Night or low transpiration | Pushes water upward from roots.   |
+| Transpiration pull | Day when stomata are open  | Major force pulling water upward. |
 
 ---
 
@@ -1335,12 +1336,12 @@ Humans use kidneys as major excretory organs for nitrogenous wastes.
 
 ## Main Parts
 
-| Organ | Function |
-|---|---|
-| Kidneys | Filter blood and form urine. |
-| Ureters | Carry urine from kidneys to urinary bladder. |
-| Urinary bladder | Stores urine. |
-| Urethra | Carries urine out of body. |
+| Organ           | Function                                     |
+| --------------- | -------------------------------------------- |
+| Kidneys         | Filter blood and form urine.                 |
+| Ureters         | Carry urine from kidneys to urinary bladder. |
+| Urinary bladder | Stores urine.                                |
+| Urethra         | Carries urine out of body.                   |
 
 ## Nitrogenous Wastes
 
@@ -1359,12 +1360,12 @@ Each kidney contains many nephrons.
 
 ## Parts of a Nephron
 
-| Part | Function |
-|---|---|
-| Glomerulus | Cluster of thin-walled blood capillaries where filtration begins. |
-| Bowman's capsule | Cup-shaped structure that collects filtrate. |
-| Tubule | Reabsorbs useful substances and water; forms urine. |
-| Collecting duct | Carries urine toward ureter. |
+| Part             | Function                                                          |
+| ---------------- | ----------------------------------------------------------------- |
+| Glomerulus       | Cluster of thin-walled blood capillaries where filtration begins. |
+| Bowman's capsule | Cup-shaped structure that collects filtrate.                      |
+| Tubule           | Reabsorbs useful substances and water; forms urine.               |
+| Collecting duct  | Carries urine toward ureter.                                      |
 
 ## Urine Formation
 
@@ -1450,14 +1451,14 @@ They remove or manage wastes in several ways.
 
 ## Methods
 
-| Waste Method | Example |
-|---|---|
-| Gas diffusion | Oxygen from photosynthesis and carbon dioxide from respiration diffuse out. |
-| Transpiration | Excess water is lost as vapour. |
-| Vacuole storage | Wastes stored inside cell vacuoles. |
-| Leaf fall | Wastes stored in leaves are removed when leaves fall. |
-| Old xylem storage | Wastes stored as resins and gums. |
-| Soil excretion | Some wastes are released into surrounding soil. |
+| Waste Method      | Example                                                                     |
+| ----------------- | --------------------------------------------------------------------------- |
+| Gas diffusion     | Oxygen from photosynthesis and carbon dioxide from respiration diffuse out. |
+| Transpiration     | Excess water is lost as vapour.                                             |
+| Vacuole storage   | Wastes stored inside cell vacuoles.                                         |
+| Leaf fall         | Wastes stored in leaves are removed when leaves fall.                       |
+| Old xylem storage | Wastes stored as resins and gums.                                           |
+| Soil excretion    | Some wastes are released into surrounding soil.                             |
 
 ## Oxygen as Waste
 
@@ -1540,12 +1541,12 @@ Other important processes include growth, repair, response, and reproduction, bu
 
 ## Answer
 
-| Feature | Autotrophic Nutrition | Heterotrophic Nutrition |
-|---|---|---|
-| Food source | Makes own food | Depends on other organisms |
-| Raw materials | `CO2`, water, minerals | Complex organic food |
-| Energy source | Sunlight or chemical energy | Energy in consumed food |
-| Examples | Green plants, some bacteria | Animals, fungi |
+| Feature        | Autotrophic Nutrition              | Heterotrophic Nutrition                     |
+| -------------- | ---------------------------------- | ------------------------------------------- |
+| Food source    | Makes own food                     | Depends on other organisms                  |
+| Raw materials  | `CO2`, water, minerals             | Complex organic food                        |
+| Energy source  | Sunlight or chemical energy        | Energy in consumed food                     |
+| Examples       | Green plants, some bacteria        | Animals, fungi                              |
 | Digestion need | Builds food from simple substances | Breaks complex food into simpler substances |
 
 ---
@@ -1554,13 +1555,13 @@ Other important processes include growth, repair, response, and reproduction, bu
 
 ## Answer
 
-| Raw Material | Source |
-|---|---|
-| Carbon dioxide | Air, through stomata. |
-| Water | Soil, absorbed by roots. |
-| Sunlight | Sun. |
-| Chlorophyll | Present in chloroplasts of green cells. |
-| Minerals | Soil, absorbed by roots. |
+| Raw Material   | Source                                  |
+| -------------- | --------------------------------------- |
+| Carbon dioxide | Air, through stomata.                   |
+| Water          | Soil, absorbed by roots.                |
+| Sunlight       | Sun.                                    |
+| Chlorophyll    | Present in chloroplasts of green cells. |
+| Minerals       | Soil, absorbed by roots.                |
 
 Nitrogen is taken as nitrates/nitrites from soil or as organic compounds prepared by bacteria from atmospheric nitrogen.
 
@@ -1585,12 +1586,12 @@ Digestive enzymes break complex food molecules into simpler, soluble molecules t
 
 Examples:
 
-| Enzyme | Function |
-|---|---|
-| Salivary amylase | Breaks starch into sugars. |
-| Pepsin | Digests proteins in stomach. |
-| Trypsin | Digests proteins in small intestine. |
-| Lipase | Breaks fats into fatty acids and glycerol. |
+| Enzyme           | Function                                   |
+| ---------------- | ------------------------------------------ |
+| Salivary amylase | Breaks starch into sugars.                 |
+| Pepsin           | Digests proteins in stomach.               |
+| Trypsin          | Digests proteins in small intestine.       |
+| Lipase           | Breaks fats into fatty acids and glycerol. |
 
 ---
 
@@ -1631,11 +1632,11 @@ Glucose first breaks down into pyruvate in the cytoplasm.
 
 Then pyruvate may follow different pathways:
 
-| Condition | Pathway | Products |
-|---|---|---|
-| No oxygen, yeast | Anaerobic fermentation | Ethanol + `CO2` + energy |
-| Oxygen present | Aerobic respiration in mitochondria | `CO2` + `H2O` + much energy |
-| Oxygen shortage in muscles | Anaerobic pathway | Lactic acid + energy |
+| Condition                  | Pathway                             | Products                    |
+| -------------------------- | ----------------------------------- | --------------------------- |
+| No oxygen, yeast           | Anaerobic fermentation              | Ethanol + `CO2` + energy    |
+| Oxygen present             | Aerobic respiration in mitochondria | `CO2` + `H2O` + much energy |
+| Oxygen shortage in muscles | Anaerobic pathway                   | Lactic acid + energy        |
 
 ---
 
@@ -1671,12 +1672,12 @@ This design maximises oxygen uptake and carbon dioxide removal.
 
 ## Answer
 
-| Component | Function |
-|---|---|
-| Heart | Pumps blood. |
-| Blood | Transports oxygen, food, carbon dioxide, wastes, salts, hormones, and heat. |
-| Blood vessels | Carry blood to and from all tissues. |
-| Lymph | Returns excess tissue fluid and transports absorbed fat. |
+| Component     | Function                                                                    |
+| ------------- | --------------------------------------------------------------------------- |
+| Heart         | Pumps blood.                                                                |
+| Blood         | Transports oxygen, food, carbon dioxide, wastes, salts, hormones, and heat. |
+| Blood vessels | Carry blood to and from all tissues.                                        |
+| Lymph         | Returns excess tissue fluid and transports absorbed fat.                    |
 
 ---
 
@@ -1929,13 +1930,13 @@ $$
 
 ## Answer
 
-| Feature | Aerobic Respiration | Anaerobic Respiration |
-|---|---|---|
-| Oxygen | Required | Not required |
-| Site | Mainly mitochondria after glycolysis | Cytoplasm |
-| Breakdown | Complete | Incomplete |
-| Products | `CO2`, `H2O`, energy | Ethanol + `CO2` or lactic acid + energy |
-| Energy released | More | Less |
+| Feature         | Aerobic Respiration                  | Anaerobic Respiration                   |
+| --------------- | ------------------------------------ | --------------------------------------- |
+| Oxygen          | Required                             | Not required                            |
+| Site            | Mainly mitochondria after glycolysis | Cytoplasm                               |
+| Breakdown       | Complete                             | Incomplete                              |
+| Products        | `CO2`, `H2O`, energy                 | Ethanol + `CO2` or lactic acid + energy |
+| Energy released | More                                 | Less                                    |
 
 Organisms/cells using anaerobic respiration:
 
@@ -2016,14 +2017,14 @@ Double circulation:
 
 ## Answer
 
-| Feature | Xylem | Phloem |
-|---|---|---|
-| Material transported | Water and minerals | Food, amino acids, other soluble substances |
-| Direction | Mainly upward | Upward and downward |
-| Energy use | Mostly passive; driven by root pressure and transpiration pull | Uses ATP for loading food |
-| Cells | Vessels and tracheids, mostly dead | Sieve tubes and companion cells, living |
-| Main source | Roots | Leaves/storage organs |
-| Main destination | Leaves and aerial parts | Growing/storage/using tissues |
+| Feature              | Xylem                                                          | Phloem                                      |
+| -------------------- | -------------------------------------------------------------- | ------------------------------------------- |
+| Material transported | Water and minerals                                             | Food, amino acids, other soluble substances |
+| Direction            | Mainly upward                                                  | Upward and downward                         |
+| Energy use           | Mostly passive; driven by root pressure and transpiration pull | Uses ATP for loading food                   |
+| Cells                | Vessels and tracheids, mostly dead                             | Sieve tubes and companion cells, living     |
+| Main source          | Roots                                                          | Leaves/storage organs                       |
+| Main destination     | Leaves and aerial parts                                        | Growing/storage/using tissues               |
 
 ---
 
@@ -2031,16 +2032,16 @@ Double circulation:
 
 ## Answer
 
-| Feature | Alveoli | Nephrons |
-|---|---|---|
-| Organ system | Respiratory system | Excretory system |
-| Location | Lungs | Kidneys |
-| Basic function | Gas exchange | Blood filtration and urine formation |
-| Surface | Thin, moist walls | Thin capillary walls and tubules |
-| Blood supply | Surrounded by capillary network | Glomerulus is a capillary cluster |
-| Main exchange | `O2` enters blood; `CO2` leaves blood | Wastes enter filtrate; useful substances reabsorbed |
-| Product removed | Carbon dioxide | Urea/uric acid and excess water/salts |
-| Design advantage | Large surface for diffusion | Large filtration and reabsorption surface |
+| Feature          | Alveoli                               | Nephrons                                            |
+| ---------------- | ------------------------------------- | --------------------------------------------------- |
+| Organ system     | Respiratory system                    | Excretory system                                    |
+| Location         | Lungs                                 | Kidneys                                             |
+| Basic function   | Gas exchange                          | Blood filtration and urine formation                |
+| Surface          | Thin, moist walls                     | Thin capillary walls and tubules                    |
+| Blood supply     | Surrounded by capillary network       | Glomerulus is a capillary cluster                   |
+| Main exchange    | `O2` enters blood; `CO2` leaves blood | Wastes enter filtrate; useful substances reabsorbed |
+| Product removed  | Carbon dioxide                        | Urea/uric acid and excess water/salts               |
+| Design advantage | Large surface for diffusion           | Large filtration and reabsorption surface           |
 
 Both structures are closely associated with blood capillaries and have thin surfaces that allow exchange of materials.
 
@@ -2048,19 +2049,19 @@ Both structures are closely associated with blood capillaries and have thin surf
 
 # Unit 5AE: Common Mistakes and Corrections
 
-| Mistake | Correct Understanding |
-|---|---|
-| Thinking visible movement alone proves life. | Molecular movement and maintenance are essential. |
-| Saying diffusion is enough for humans. | Diffusion is too slow for large multicellular bodies. |
-| Confusing respiration with breathing. | Breathing is gas exchange; respiration is cellular food breakdown for energy. |
-| Saying plants breathe only at night. | Plants respire all the time; photosynthesis occurs in light. |
-| Saying oxygen is made in respiration. | Oxygen is used in aerobic respiration; it is released in photosynthesis. |
-| Saying bile digests fat chemically. | Bile emulsifies fat; lipase digests fat chemically. |
-| Saying villi digest food. | Villi absorb digested food. |
-| Saying arteries always carry oxygenated blood. | Pulmonary artery carries deoxygenated blood to lungs. |
-| Saying veins always carry deoxygenated blood. | Pulmonary veins carry oxygenated blood from lungs to heart. |
-| Saying xylem transports food. | Xylem transports water and minerals; phloem transports food. |
-| Saying nephron only filters and does nothing else. | Nephron filters and selectively reabsorbs useful substances. |
+| Mistake                                            | Correct Understanding                                                         |
+| -------------------------------------------------- | ----------------------------------------------------------------------------- |
+| Thinking visible movement alone proves life.       | Molecular movement and maintenance are essential.                             |
+| Saying diffusion is enough for humans.             | Diffusion is too slow for large multicellular bodies.                         |
+| Confusing respiration with breathing.              | Breathing is gas exchange; respiration is cellular food breakdown for energy. |
+| Saying plants breathe only at night.               | Plants respire all the time; photosynthesis occurs in light.                  |
+| Saying oxygen is made in respiration.              | Oxygen is used in aerobic respiration; it is released in photosynthesis.      |
+| Saying bile digests fat chemically.                | Bile emulsifies fat; lipase digests fat chemically.                           |
+| Saying villi digest food.                          | Villi absorb digested food.                                                   |
+| Saying arteries always carry oxygenated blood.     | Pulmonary artery carries deoxygenated blood to lungs.                         |
+| Saying veins always carry deoxygenated blood.      | Pulmonary veins carry oxygenated blood from lungs to heart.                   |
+| Saying xylem transports food.                      | Xylem transports water and minerals; phloem transports food.                  |
+| Saying nephron only filters and does nothing else. | Nephron filters and selectively reabsorbs useful substances.                  |
 
 ---
 
@@ -2068,61 +2069,61 @@ Both structures are closely associated with blood capillaries and have thin surf
 
 ## Four Main Life Processes
 
-| Process | Function |
-|---|---|
-| Nutrition | Obtains energy and raw materials. |
-| Respiration | Releases energy from food. |
-| Transportation | Moves materials inside body. |
-| Excretion | Removes metabolic wastes. |
+| Process        | Function                          |
+| -------------- | --------------------------------- |
+| Nutrition      | Obtains energy and raw materials. |
+| Respiration    | Releases energy from food.        |
+| Transportation | Moves materials inside body.      |
+| Excretion      | Removes metabolic wastes.         |
 
 ## Digestive Secretions
 
-| Secretion | Source | Function |
-|---|---|---|
-| Saliva | Salivary glands | Amylase digests starch; moistens food. |
-| Hydrochloric acid | Stomach gastric glands | Acidic medium; kills germs. |
-| Pepsin | Stomach gastric glands | Digests proteins. |
-| Mucus | Stomach gastric glands | Protects stomach lining. |
-| Bile | Liver | Neutralises acid; emulsifies fats. |
-| Pancreatic juice | Pancreas | Trypsin digests proteins; lipase digests fats. |
-| Intestinal juice | Small intestine glands | Completes digestion. |
+| Secretion         | Source                 | Function                                       |
+| ----------------- | ---------------------- | ---------------------------------------------- |
+| Saliva            | Salivary glands        | Amylase digests starch; moistens food.         |
+| Hydrochloric acid | Stomach gastric glands | Acidic medium; kills germs.                    |
+| Pepsin            | Stomach gastric glands | Digests proteins.                              |
+| Mucus             | Stomach gastric glands | Protects stomach lining.                       |
+| Bile              | Liver                  | Neutralises acid; emulsifies fats.             |
+| Pancreatic juice  | Pancreas               | Trypsin digests proteins; lipase digests fats. |
+| Intestinal juice  | Small intestine glands | Completes digestion.                           |
 
 ## Respiration Pathways
 
-| Pathway | Oxygen | Products |
-|---|---|---|
-| Aerobic | Present | `CO2`, `H2O`, high energy |
-| Yeast fermentation | Absent | Ethanol, `CO2`, low energy |
-| Muscle anaerobic | Low/absent | Lactic acid, low energy |
+| Pathway            | Oxygen     | Products                   |
+| ------------------ | ---------- | -------------------------- |
+| Aerobic            | Present    | `CO2`, `H2O`, high energy  |
+| Yeast fermentation | Absent     | Ethanol, `CO2`, low energy |
+| Muscle anaerobic   | Low/absent | Lactic acid, low energy    |
 
 ## Human Transport Components
 
-| Component | Main Function |
-|---|---|
-| Heart | Pump |
-| Blood | Transport medium |
-| Arteries | Carry blood away from heart |
-| Veins | Carry blood toward heart |
-| Capillaries | Exchange materials |
-| Platelets | Blood clotting |
-| Lymph | Returns tissue fluid and transports fats |
+| Component   | Main Function                            |
+| ----------- | ---------------------------------------- |
+| Heart       | Pump                                     |
+| Blood       | Transport medium                         |
+| Arteries    | Carry blood away from heart              |
+| Veins       | Carry blood toward heart                 |
+| Capillaries | Exchange materials                       |
+| Platelets   | Blood clotting                           |
+| Lymph       | Returns tissue fluid and transports fats |
 
 ## Plant Transport
 
-| Tissue | Transports | Direction | Energy |
-|---|---|---|---|
-| Xylem | Water and minerals | Mostly upward | Mostly passive |
-| Phloem | Food and soluble substances | Both directions | Requires ATP |
+| Tissue | Transports                  | Direction       | Energy         |
+| ------ | --------------------------- | --------------- | -------------- |
+| Xylem  | Water and minerals          | Mostly upward   | Mostly passive |
+| Phloem | Food and soluble substances | Both directions | Requires ATP   |
 
 ## Excretory System
 
-| Part | Function |
-|---|---|
-| Kidney | Filters blood and forms urine |
-| Ureter | Carries urine to bladder |
-| Urinary bladder | Stores urine |
-| Urethra | Releases urine outside body |
-| Nephron | Filtration and reabsorption unit |
+| Part            | Function                         |
+| --------------- | -------------------------------- |
+| Kidney          | Filters blood and forms urine    |
+| Ureter          | Carries urine to bladder         |
+| Urinary bladder | Stores urine                     |
+| Urethra         | Releases urine outside body      |
+| Nephron         | Filtration and reabsorption unit |
 
 ---
 
@@ -2184,4 +2185,3 @@ Respiration breaks glucose into pyruvate in the cytoplasm. Pyruvate may form eth
 Humans exchange gases through alveoli. Oxygen is carried by haemoglobin, and carbon dioxide is mostly dissolved in blood. The heart, blood, and vessels transport materials. Double circulation separates oxygenated and deoxygenated blood.
 
 Plants transport water and minerals through xylem and food through phloem. Humans excrete nitrogenous wastes using kidneys and nephrons. Plants remove wastes by diffusion, transpiration, storage, leaf fall, resins, gums, and soil excretion.
-

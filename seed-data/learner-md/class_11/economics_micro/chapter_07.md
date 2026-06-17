@@ -41,55 +41,55 @@ By the end of this chapter, you should be able to:
 
 ## Big Picture Map
 
-| Topic | Main Question | Core Answer |
-| --- | --- | --- |
-| Demand | What is demand? | Quantity a consumer is willing and able to buy. |
-| Demand function | What determines demand? | Own price, income, related prices, preferences. |
-| Demand curve | How do price and quantity demanded relate? | It usually slopes downward. |
-| Law of demand | What happens when price rises? | Quantity demanded falls, other things equal. |
-| Normal and inferior goods | How does income affect demand? | Normal goods move with income; inferior goods move opposite to income. |
-| Substitutes and complements | How do related prices matter? | Substitute prices move demand in same direction; complement prices in opposite direction. |
-| Shifts | What changes the whole demand curve? | Income, related prices, preferences. |
-| Movement | What causes movement along the same demand curve? | Change in own price. |
-| Market demand | How do we move from one consumer to all consumers? | Add individual demands at each price. |
+| Topic                       | Main Question                                      | Core Answer                                                                               |
+| --------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| Demand                      | What is demand?                                    | Quantity a consumer is willing and able to buy.                                           |
+| Demand function             | What determines demand?                            | Own price, income, related prices, preferences.                                           |
+| Demand curve                | How do price and quantity demanded relate?         | It usually slopes downward.                                                               |
+| Law of demand               | What happens when price rises?                     | Quantity demanded falls, other things equal.                                              |
+| Normal and inferior goods   | How does income affect demand?                     | Normal goods move with income; inferior goods move opposite to income.                    |
+| Substitutes and complements | How do related prices matter?                      | Substitute prices move demand in same direction; complement prices in opposite direction. |
+| Shifts                      | What changes the whole demand curve?               | Income, related prices, preferences.                                                      |
+| Movement                    | What causes movement along the same demand curve?  | Change in own price.                                                                      |
+| Market demand               | How do we move from one consumer to all consumers? | Add individual demands at each price.                                                     |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Demand | Quantity of a commodity that a consumer is willing and able to buy at given prices, income, and preferences. |
-| Quantity demanded | The amount of a commodity demanded at a particular price. |
-| Demand function | A relation showing quantity demanded as a function of its determinants. |
-| Demand curve | Graphical representation of the relation between price and quantity demanded. |
-| Law of demand | Other things remaining constant, price and quantity demanded are usually inversely related. |
-| Ceteris paribus | Other things remaining the same. |
-| Function | A rule that assigns one value of a dependent variable for each value of an independent variable. |
-| Independent variable | The variable whose value is taken as given to determine another variable. |
-| Dependent variable | The variable whose value depends on another variable. |
-| Normal good | A good whose demand rises when consumer income rises. |
-| Inferior good | A good whose demand falls when consumer income rises. |
-| Giffen good | A special inferior good for which demand may rise when price rises because the income effect dominates the substitution effect. |
-| Substitute goods | Goods that can be used in place of each other. |
-| Complementary goods | Goods that are consumed together. |
-| Shift in demand curve | Movement of the entire demand curve due to change in income, related prices, or preferences. |
-| Movement along demand curve | Change in quantity demanded due to change in the commodity's own price. |
-| Market demand | Total demand of all consumers in a market at a given price. |
-| Horizontal summation | Adding individual demand quantities at each price to get market demand. |
+| Term                        | Meaning                                                                                                                         |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| Demand                      | Quantity of a commodity that a consumer is willing and able to buy at given prices, income, and preferences.                    |
+| Quantity demanded           | The amount of a commodity demanded at a particular price.                                                                       |
+| Demand function             | A relation showing quantity demanded as a function of its determinants.                                                         |
+| Demand curve                | Graphical representation of the relation between price and quantity demanded.                                                   |
+| Law of demand               | Other things remaining constant, price and quantity demanded are usually inversely related.                                     |
+| Ceteris paribus             | Other things remaining the same.                                                                                                |
+| Function                    | A rule that assigns one value of a dependent variable for each value of an independent variable.                                |
+| Independent variable        | The variable whose value is taken as given to determine another variable.                                                       |
+| Dependent variable          | The variable whose value depends on another variable.                                                                           |
+| Normal good                 | A good whose demand rises when consumer income rises.                                                                           |
+| Inferior good               | A good whose demand falls when consumer income rises.                                                                           |
+| Giffen good                 | A special inferior good for which demand may rise when price rises because the income effect dominates the substitution effect. |
+| Substitute goods            | Goods that can be used in place of each other.                                                                                  |
+| Complementary goods         | Goods that are consumed together.                                                                                               |
+| Shift in demand curve       | Movement of the entire demand curve due to change in income, related prices, or preferences.                                    |
+| Movement along demand curve | Change in quantity demanded due to change in the commodity's own price.                                                         |
+| Market demand               | Total demand of all consumers in a market at a given price.                                                                     |
+| Horizontal summation        | Adding individual demand quantities at each price to get market demand.                                                         |
 
 ---
 
 ## Formula Board
 
-| Formula | Meaning | Use |
-| --- | --- | --- |
-| `X = f(P)` | Quantity demanded depends on price. | Used when income, related prices, and preferences are constant. |
-| `d(p) = a - bp` | Linear demand function. | Shows demand falls as price rises. |
-| `d(p) = 0` when `p > a / b` | Demand becomes zero above the choke price. | Used to complete a linear demand schedule. |
-| `Market demand = q1 + q2 + ... + qn` | Market demand is the sum of individual demands. | Used for horizontal summation. |
-| `d1(p) = 10 - p` | Individual demand of consumer 1 in the NCERT example. | Used to build market demand. |
-| `d2(p) = 15 - p` | Individual demand of consumer 2 in the NCERT example. | Used to build market demand. |
+| Formula                              | Meaning                                               | Use                                                             |
+| ------------------------------------ | ----------------------------------------------------- | --------------------------------------------------------------- |
+| `X = f(P)`                           | Quantity demanded depends on price.                   | Used when income, related prices, and preferences are constant. |
+| `d(p) = a - bp`                      | Linear demand function.                               | Shows demand falls as price rises.                              |
+| `d(p) = 0` when `p > a / b`          | Demand becomes zero above the choke price.            | Used to complete a linear demand schedule.                      |
+| `Market demand = q1 + q2 + ... + qn` | Market demand is the sum of individual demands.       | Used for horizontal summation.                                  |
+| `d1(p) = 10 - p`                     | Individual demand of consumer 1 in the NCERT example. | Used to build market demand.                                    |
+| `d2(p) = 15 - p`                     | Individual demand of consumer 2 in the NCERT example. | Used to build market demand.                                    |
 
 ---
 
@@ -122,12 +122,12 @@ Demand for a commodity is the quantity that a consumer is willing and able to bu
 
 The amount of a commodity chosen by a consumer depends on:
 
-| Factor | How It Matters |
-| --- | --- |
-| Own price of the commodity | Usually, a higher price reduces demand and a lower price increases demand. |
-| Prices of related goods | Demand changes if substitutes or complements become costlier or cheaper. |
-| Consumer income | Demand changes differently for normal and inferior goods. |
-| Tastes and preferences | Favourable preferences increase demand; unfavourable preferences reduce demand. |
+| Factor                     | How It Matters                                                                  |
+| -------------------------- | ------------------------------------------------------------------------------- |
+| Own price of the commodity | Usually, a higher price reduces demand and a lower price increases demand.      |
+| Prices of related goods    | Demand changes if substitutes or complements become costlier or cheaper.        |
+| Consumer income            | Demand changes differently for normal and inferior goods.                       |
+| Tastes and preferences     | Favourable preferences increase demand; unfavourable preferences reduce demand. |
 
 ## 1.4 Example
 
@@ -169,12 +169,12 @@ then:
 
 Suppose:
 
-| x | y |
-| ---: | ---: |
-| 0 | 10 |
-| 1 | 15 |
-| 2 | 18 |
-| 3 | 20 |
+|   x |   y |
+| --: | --: |
+|   0 |  10 |
+|   1 |  15 |
+|   2 |  18 |
+|   3 |  20 |
 
 Here each value of `x` gives one value of `y`.
 
@@ -312,12 +312,12 @@ That is why the law of demand is a ceteris paribus law.
 ## 4.4 Simple Demand Schedule
 
 | Price | Quantity Demanded |
-| ---: | ---: |
-| 10 | 2 |
-| 8 | 4 |
-| 6 | 6 |
-| 4 | 8 |
-| 2 | 10 |
+| ----: | ----------------: |
+|    10 |                 2 |
+|     8 |                 4 |
+|     6 |                 6 |
+|     4 |                 8 |
+|     2 |                10 |
 
 This schedule follows the law of demand because quantity demanded rises as price falls.
 
@@ -662,12 +662,12 @@ Demand for a good usually moves in the opposite direction from the price of its 
 
 ## 9.5 Substitutes Versus Complements
 
-| Feature | Substitutes | Complements |
-| --- | --- | --- |
-| Relationship | Used instead of each other | Used together |
-| Example | Tea and coffee | Tea and sugar |
+| Feature                       | Substitutes                | Complements                |
+| ----------------------------- | -------------------------- | -------------------------- |
+| Relationship                  | Used instead of each other | Used together              |
+| Example                       | Tea and coffee             | Tea and sugar              |
 | If related good's price rises | Demand for this good rises | Demand for this good falls |
-| Direction | Same direction | Opposite direction |
+| Direction                     | Same direction             | Opposite direction         |
 
 ---
 
@@ -770,18 +770,18 @@ Examples:
 
 ## 10.7 Shift Summary
 
-| Cause | Direction Of Demand Curve |
-| --- | --- |
-| Income rises for normal good | Right |
-| Income falls for normal good | Left |
-| Income rises for inferior good | Left |
-| Income falls for inferior good | Right |
-| Price of substitute rises | Right |
-| Price of substitute falls | Left |
-| Price of complement rises | Left |
-| Price of complement falls | Right |
-| Preference becomes favourable | Right |
-| Preference becomes unfavourable | Left |
+| Cause                           | Direction Of Demand Curve |
+| ------------------------------- | ------------------------- |
+| Income rises for normal good    | Right                     |
+| Income falls for normal good    | Left                      |
+| Income rises for inferior good  | Left                      |
+| Income falls for inferior good  | Right                     |
+| Price of substitute rises       | Right                     |
+| Price of substitute falls       | Left                      |
+| Price of complement rises       | Left                      |
+| Price of complement falls       | Right                     |
+| Preference becomes favourable   | Right                     |
+| Preference becomes unfavourable | Left                      |
 
 ---
 
@@ -819,13 +819,13 @@ The whole curve moves right or left.
 
 ## 11.3 Movement Versus Shift
 
-| Basis | Movement Along Demand Curve | Shift Of Demand Curve |
-| --- | --- | --- |
-| Cause | Change in own price | Change in other determinants |
-| Curve | Same curve | New curve |
-| Diagram | Point moves on same curve | Entire curve moves |
-| Example | Price of tea falls | Income rises or coffee price rises |
-| Terms | Extension or contraction | Increase or decrease in demand |
+| Basis   | Movement Along Demand Curve | Shift Of Demand Curve              |
+| ------- | --------------------------- | ---------------------------------- |
+| Cause   | Change in own price         | Change in other determinants       |
+| Curve   | Same curve                  | New curve                          |
+| Diagram | Point moves on same curve   | Entire curve moves                 |
+| Example | Price of tea falls          | Income rises or coffee price rises |
+| Terms   | Extension or contraction    | Increase or decrease in demand     |
 
 ## 11.4 Exam Warning
 
@@ -998,12 +998,12 @@ Market demand = 0, for p > 15
 ## 13.5 Sample Table
 
 | Price | Consumer 1 Demand `10 - p` | Consumer 2 Demand `15 - p` | Market Demand |
-| ---: | ---: | ---: | ---: |
-| 5 | 5 | 10 | 15 |
-| 10 | 0 | 5 | 5 |
-| 12 | 0 | 3 | 3 |
-| 15 | 0 | 0 | 0 |
-| 16 | 0 | 0 | 0 |
+| ----: | -------------------------: | -------------------------: | ------------: |
+|     5 |                          5 |                         10 |            15 |
+|    10 |                          0 |                          5 |             5 |
+|    12 |                          0 |                          3 |             3 |
+|    15 |                          0 |                          0 |             0 |
+|    16 |                          0 |                          0 |             0 |
 
 This table shows why the market demand curve is obtained by adding quantities at each price.
 
@@ -1071,18 +1071,18 @@ Graphically, the market demand curve is obtained by horizontal summation of indi
 
 # 15. Common Mistakes And Corrections
 
-| Mistake | Correct Understanding |
-| --- | --- |
-| Demand means desire. | Demand means willingness and ability to buy at given conditions. |
-| Demand depends only on price. | Demand depends on own price, income, related prices, and preferences. |
-| Price is put on horizontal axis in demand diagrams. | In economics, price is usually on the vertical axis and quantity on the horizontal axis. |
-| Demand curve always shifts when price changes. | Own price change causes movement along the same demand curve. |
-| Demand increases when price falls. | More precise: quantity demanded increases when own price falls. |
-| Income rise always increases demand. | It increases demand for normal goods but reduces demand for inferior goods. |
-| Substitute price rise reduces demand. | Substitute price rise increases demand for this good. |
-| Complement price rise increases demand. | Complement price rise reduces demand for this good. |
-| Market demand is found by adding prices. | Market demand is found by adding quantities at each price. |
-| All inferior goods are Giffen goods. | Giffen goods are rare special inferior goods where income effect dominates substitution effect. |
+| Mistake                                             | Correct Understanding                                                                           |
+| --------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| Demand means desire.                                | Demand means willingness and ability to buy at given conditions.                                |
+| Demand depends only on price.                       | Demand depends on own price, income, related prices, and preferences.                           |
+| Price is put on horizontal axis in demand diagrams. | In economics, price is usually on the vertical axis and quantity on the horizontal axis.        |
+| Demand curve always shifts when price changes.      | Own price change causes movement along the same demand curve.                                   |
+| Demand increases when price falls.                  | More precise: quantity demanded increases when own price falls.                                 |
+| Income rise always increases demand.                | It increases demand for normal goods but reduces demand for inferior goods.                     |
+| Substitute price rise reduces demand.               | Substitute price rise increases demand for this good.                                           |
+| Complement price rise increases demand.             | Complement price rise reduces demand for this good.                                             |
+| Market demand is found by adding prices.            | Market demand is found by adding quantities at each price.                                      |
+| All inferior goods are Giffen goods.                | Giffen goods are rare special inferior goods where income effect dominates substitution effect. |
 
 ---
 
@@ -1090,36 +1090,36 @@ Graphically, the market demand curve is obtained by horizontal summation of indi
 
 ## 16.1 Demand Determinants
 
-| Determinant | If It Changes | Effect |
-| --- | --- | --- |
-| Own price | Changes | Movement along demand curve |
-| Income | Changes | Shift of demand curve |
-| Price of substitute | Changes | Shift of demand curve |
-| Price of complement | Changes | Shift of demand curve |
-| Preferences | Change | Shift of demand curve |
+| Determinant         | If It Changes | Effect                      |
+| ------------------- | ------------- | --------------------------- |
+| Own price           | Changes       | Movement along demand curve |
+| Income              | Changes       | Shift of demand curve       |
+| Price of substitute | Changes       | Shift of demand curve       |
+| Price of complement | Changes       | Shift of demand curve       |
+| Preferences         | Change        | Shift of demand curve       |
 
 ## 16.2 Goods And Income
 
-| Type Of Good | Income Rises | Income Falls |
-| --- | --- | --- |
-| Normal good | Demand rises | Demand falls |
+| Type Of Good  | Income Rises | Income Falls |
+| ------------- | ------------ | ------------ |
+| Normal good   | Demand rises | Demand falls |
 | Inferior good | Demand falls | Demand rises |
 
 ## 16.3 Related Goods
 
-| Type | Example | Related Price Rises | Related Price Falls |
-| --- | --- | --- | --- |
+| Type       | Example        | Related Price Rises        | Related Price Falls        |
+| ---------- | -------------- | -------------------------- | -------------------------- |
 | Substitute | Tea and coffee | Demand for this good rises | Demand for this good falls |
-| Complement | Tea and sugar | Demand for this good falls | Demand for this good rises |
+| Complement | Tea and sugar  | Demand for this good falls | Demand for this good rises |
 
 ## 16.4 Curve Changes
 
-| Event | Curve Effect |
-| --- | --- |
-| Own price rises | Upward movement along demand curve |
-| Own price falls | Downward movement along demand curve |
-| Demand increases | Rightward shift |
-| Demand decreases | Leftward shift |
+| Event            | Curve Effect                         |
+| ---------------- | ------------------------------------ |
+| Own price rises  | Upward movement along demand curve   |
+| Own price falls  | Downward movement along demand curve |
+| Demand increases | Rightward shift                      |
+| Demand decreases | Leftward shift                       |
 
 ---
 
@@ -1343,4 +1343,3 @@ Before moving on, make sure you can:
 - define market demand,
 - add two individual demand curves horizontally,
 - write short and long answers without mixing up demand and quantity demanded.
-

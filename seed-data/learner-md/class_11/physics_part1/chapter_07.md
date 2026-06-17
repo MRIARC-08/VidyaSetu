@@ -357,7 +357,7 @@ Small changes in distance can matter greatly.
 
 If many masses exert gravitational force on a particle, the net force is the vector sum of the individual forces.
 
-If forces on a mass are \(\vec{F}_1,\vec{F}_2,\ldots,\vec{F}_n\), then:
+If forces on a mass are \(\vec{F}\_1,\vec{F}\_2,\ldots,\vec{F}\_n\), then:
 
 $$
 \vec{F}_{net}=\vec{F}_1+\vec{F}_2+\cdots+\vec{F}_n

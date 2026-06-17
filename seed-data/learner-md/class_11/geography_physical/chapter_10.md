@@ -55,72 +55,72 @@ By the end of this chapter, you should be able to:
 
 ## Big Picture Map
 
-| Theme | Core Idea | Key Examples |
-| --- | --- | --- |
-| Pressure | Air has weight and exerts pressure | 1013.25 mb at sea level |
-| Pressure gradient | Pressure difference over distance creates force | Close isobars mean strong wind |
-| Wind | Horizontal movement of air | From high pressure toward low pressure |
-| Coriolis force | Earth's rotation deflects wind | Right in Northern Hemisphere, left in Southern Hemisphere |
-| Friction | Slows wind near surface | Strongest at surface, weaker over sea |
-| Pressure belts | Global belts of low and high pressure | Equatorial low, subtropical highs, subpolar lows, polar highs |
-| General circulation | Planetary wind pattern | Hadley, Ferrel, Polar cells |
-| Local winds | Daily or regional wind systems | Sea breeze, land breeze, valley breeze, mountain wind |
-| Air masses | Large air bodies with similar temperature and moisture | Maritime tropical, continental polar |
-| Fronts | Boundaries between air masses | Cold front, warm front, occluded front |
-| Cyclones | Low-pressure systems with circulating winds | Extra tropical and tropical cyclones |
-| Local storms | Violent small-area storms | Thunderstorms, tornadoes |
+| Theme               | Core Idea                                              | Key Examples                                                  |
+| ------------------- | ------------------------------------------------------ | ------------------------------------------------------------- |
+| Pressure            | Air has weight and exerts pressure                     | 1013.25 mb at sea level                                       |
+| Pressure gradient   | Pressure difference over distance creates force        | Close isobars mean strong wind                                |
+| Wind                | Horizontal movement of air                             | From high pressure toward low pressure                        |
+| Coriolis force      | Earth's rotation deflects wind                         | Right in Northern Hemisphere, left in Southern Hemisphere     |
+| Friction            | Slows wind near surface                                | Strongest at surface, weaker over sea                         |
+| Pressure belts      | Global belts of low and high pressure                  | Equatorial low, subtropical highs, subpolar lows, polar highs |
+| General circulation | Planetary wind pattern                                 | Hadley, Ferrel, Polar cells                                   |
+| Local winds         | Daily or regional wind systems                         | Sea breeze, land breeze, valley breeze, mountain wind         |
+| Air masses          | Large air bodies with similar temperature and moisture | Maritime tropical, continental polar                          |
+| Fronts              | Boundaries between air masses                          | Cold front, warm front, occluded front                        |
+| Cyclones            | Low-pressure systems with circulating winds            | Extra tropical and tropical cyclones                          |
+| Local storms        | Violent small-area storms                              | Thunderstorms, tornadoes                                      |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Atmospheric pressure | Weight of a column of air over a unit area from mean sea level to the top of atmosphere. |
-| Millibar | Unit used for measuring atmospheric pressure. |
-| Barometer | Instrument used to measure air pressure. |
-| Isobar | Line joining places of equal atmospheric pressure. |
-| Low-pressure system | Pressure system with lowest pressure at the centre. |
-| High-pressure system | Pressure system with highest pressure at the centre. |
-| Pressure gradient | Rate of change of pressure with distance. |
-| Pressure gradient force | Force produced by pressure differences. |
-| Frictional force | Force that slows wind near the earth's surface. |
-| Coriolis force | Apparent force caused by earth's rotation that deflects moving air. |
-| Geostrophic wind | Upper-air wind blowing parallel to straight isobars when pressure gradient force balances Coriolis force. |
-| Cyclonic circulation | Wind circulation around a low-pressure system. |
-| Anticyclonic circulation | Wind circulation around a high-pressure system. |
-| Convergence | Movement of air toward a common low-pressure area. |
-| Divergence | Movement of air away from a high-pressure area. |
-| Subsidence | Sinking of air from above. |
-| ITCZ | Inter Tropical Convergence Zone where trade winds converge and air rises. |
-| Hadley cell | Tropical circulation cell between equator and subtropics. |
-| Ferrel cell | Middle-latitude circulation cell between subtropical highs and subpolar lows. |
-| Polar cell | High-latitude circulation cell involving polar easterlies. |
-| El Nino | Appearance of warm water off the coast of Peru, replacing the cool Peruvian current. |
-| Southern Oscillation | Pressure change pattern over the Pacific and Australia. |
-| ENSO | Combined El Nino and Southern Oscillation phenomenon. |
-| Sea breeze | Daytime wind blowing from sea to land. |
-| Land breeze | Night-time wind blowing from land to sea. |
-| Valley breeze | Daytime upslope or up-valley wind. |
-| Mountain wind | Night-time downslope wind from mountain to valley. |
-| Katabatic wind | Cold dense air draining from high plateaus or ice fields into valleys. |
-| Air mass | Large body of air with little horizontal variation in temperature and moisture. |
-| Source region | Homogeneous surface over which an air mass forms. |
-| Front | Boundary zone between two different air masses. |
-| Frontogenesis | Process of front formation. |
-| Cold front | Front where cold air advances toward warm air. |
-| Warm front | Front where warm air advances toward cold air. |
-| Stationary front | Front that remains nearly stationary. |
-| Occluded front | Front formed when warm air is lifted above the surface. |
-| Extra tropical cyclone | Mid-latitude or high-latitude cyclone with frontal system. |
-| Tropical cyclone | Violent tropical oceanic storm with spiral winds, heavy rain, and storm surge. |
-| Eye | Calm central region of a mature tropical cyclone. |
-| Eye wall | Zone of strongest winds and torrential rain around cyclone eye. |
-| Landfall | Place where a tropical cyclone crosses the coast. |
-| Storm surge | Abnormal rise of sea water caused by cyclone winds and low pressure. |
-| Thunderstorm | Cumulonimbus storm with thunder and lightning. |
-| Tornado | Violent rotating column of air descending from a thunderstorm. |
-| Waterspout | Tornado over the sea. |
+| Term                     | Meaning                                                                                                   |
+| ------------------------ | --------------------------------------------------------------------------------------------------------- |
+| Atmospheric pressure     | Weight of a column of air over a unit area from mean sea level to the top of atmosphere.                  |
+| Millibar                 | Unit used for measuring atmospheric pressure.                                                             |
+| Barometer                | Instrument used to measure air pressure.                                                                  |
+| Isobar                   | Line joining places of equal atmospheric pressure.                                                        |
+| Low-pressure system      | Pressure system with lowest pressure at the centre.                                                       |
+| High-pressure system     | Pressure system with highest pressure at the centre.                                                      |
+| Pressure gradient        | Rate of change of pressure with distance.                                                                 |
+| Pressure gradient force  | Force produced by pressure differences.                                                                   |
+| Frictional force         | Force that slows wind near the earth's surface.                                                           |
+| Coriolis force           | Apparent force caused by earth's rotation that deflects moving air.                                       |
+| Geostrophic wind         | Upper-air wind blowing parallel to straight isobars when pressure gradient force balances Coriolis force. |
+| Cyclonic circulation     | Wind circulation around a low-pressure system.                                                            |
+| Anticyclonic circulation | Wind circulation around a high-pressure system.                                                           |
+| Convergence              | Movement of air toward a common low-pressure area.                                                        |
+| Divergence               | Movement of air away from a high-pressure area.                                                           |
+| Subsidence               | Sinking of air from above.                                                                                |
+| ITCZ                     | Inter Tropical Convergence Zone where trade winds converge and air rises.                                 |
+| Hadley cell              | Tropical circulation cell between equator and subtropics.                                                 |
+| Ferrel cell              | Middle-latitude circulation cell between subtropical highs and subpolar lows.                             |
+| Polar cell               | High-latitude circulation cell involving polar easterlies.                                                |
+| El Nino                  | Appearance of warm water off the coast of Peru, replacing the cool Peruvian current.                      |
+| Southern Oscillation     | Pressure change pattern over the Pacific and Australia.                                                   |
+| ENSO                     | Combined El Nino and Southern Oscillation phenomenon.                                                     |
+| Sea breeze               | Daytime wind blowing from sea to land.                                                                    |
+| Land breeze              | Night-time wind blowing from land to sea.                                                                 |
+| Valley breeze            | Daytime upslope or up-valley wind.                                                                        |
+| Mountain wind            | Night-time downslope wind from mountain to valley.                                                        |
+| Katabatic wind           | Cold dense air draining from high plateaus or ice fields into valleys.                                    |
+| Air mass                 | Large body of air with little horizontal variation in temperature and moisture.                           |
+| Source region            | Homogeneous surface over which an air mass forms.                                                         |
+| Front                    | Boundary zone between two different air masses.                                                           |
+| Frontogenesis            | Process of front formation.                                                                               |
+| Cold front               | Front where cold air advances toward warm air.                                                            |
+| Warm front               | Front where warm air advances toward cold air.                                                            |
+| Stationary front         | Front that remains nearly stationary.                                                                     |
+| Occluded front           | Front formed when warm air is lifted above the surface.                                                   |
+| Extra tropical cyclone   | Mid-latitude or high-latitude cyclone with frontal system.                                                |
+| Tropical cyclone         | Violent tropical oceanic storm with spiral winds, heavy rain, and storm surge.                            |
+| Eye                      | Calm central region of a mature tropical cyclone.                                                         |
+| Eye wall                 | Zone of strongest winds and torrential rain around cyclone eye.                                           |
+| Landfall                 | Place where a tropical cyclone crosses the coast.                                                         |
+| Storm surge              | Abnormal rise of sea water caused by cyclone winds and low pressure.                                      |
+| Thunderstorm             | Cumulonimbus storm with thunder and lightning.                                                            |
+| Tornado                  | Violent rotating column of air descending from a thunderstorm.                                            |
+| Waterspout               | Tornado over the sea.                                                                                     |
 
 ---
 
@@ -254,12 +254,12 @@ This rate is not constant everywhere or at every height.
 
 ## 3.3 Standard Pressure And Temperature Table
 
-| Level | Pressure | Temperature |
-| --- | --- | --- |
-| Sea level | 1013.25 mb | 15.2 degrees Celsius |
-| 1 km | 898.76 mb | 8.7 degrees Celsius |
-| 5 km | 540.48 mb | -17.3 degrees Celsius |
-| 10 km | 265.00 mb | -49.7 degrees Celsius |
+| Level     | Pressure   | Temperature           |
+| --------- | ---------- | --------------------- |
+| Sea level | 1013.25 mb | 15.2 degrees Celsius  |
+| 1 km      | 898.76 mb  | 8.7 degrees Celsius   |
+| 5 km      | 540.48 mb  | -17.3 degrees Celsius |
+| 10 km     | 265.00 mb  | -49.7 degrees Celsius |
 
 ## 3.4 Vertical Pressure Gradient
 
@@ -598,10 +598,10 @@ Wind circulation around a high-pressure system is called anticyclonic circulatio
 
 ## 11.3 Direction Table
 
-| Pressure System | Centre | Northern Hemisphere | Southern Hemisphere |
-| --- | --- | --- | --- |
-| Cyclone | Low pressure | Anticlockwise | Clockwise |
-| Anticyclone | High pressure | Clockwise | Anticlockwise |
+| Pressure System | Centre        | Northern Hemisphere | Southern Hemisphere |
+| --------------- | ------------- | ------------------- | ------------------- |
+| Cyclone         | Low pressure  | Anticlockwise       | Clockwise           |
+| Anticyclone     | High pressure | Clockwise           | Anticlockwise       |
 
 ## 11.4 Low Pressure At Surface
 
@@ -911,12 +911,12 @@ Formation sequence:
 
 ## 18.4 Sea Breeze vs Land Breeze
 
-| Basis | Sea Breeze | Land Breeze |
-| --- | --- | --- |
-| Time | Day | Night |
-| Direction | Sea to land | Land to sea |
-| Land condition | Warmer, low pressure | Cooler, high pressure |
-| Sea condition | Cooler, high pressure | Warmer, low pressure |
+| Basis          | Sea Breeze            | Land Breeze           |
+| -------------- | --------------------- | --------------------- |
+| Time           | Day                   | Night                 |
+| Direction      | Sea to land           | Land to sea           |
+| Land condition | Warmer, low pressure  | Cooler, high pressure |
+| Sea condition  | Cooler, high pressure | Warmer, low pressure  |
 
 ---
 
@@ -966,12 +966,12 @@ Formation sequence:
 
 ## 19.5 Valley Breeze vs Mountain Wind
 
-| Basis | Valley Breeze | Mountain Wind |
-| --- | --- | --- |
-| Time | Day | Night |
-| Direction | Upslope/up valley | Downslope/down valley |
-| Cause | Slope heating | Slope cooling |
-| Air character | Warm rising air | Cold dense descending air |
+| Basis         | Valley Breeze     | Mountain Wind             |
+| ------------- | ----------------- | ------------------------- |
+| Time          | Day               | Night                     |
+| Direction     | Upslope/up valley | Downslope/down valley     |
+| Cause         | Slope heating     | Slope cooling             |
+| Air character | Warm rising air   | Cold dense descending air |
 
 ---
 
@@ -1011,13 +1011,13 @@ The chapter lists five major source regions:
 
 ## 20.5 Air Mass Types
 
-| Air Mass | Symbol | Source Character |
-| --- | --- | --- |
-| Maritime tropical | mT | Warm tropical ocean |
-| Continental tropical | cT | Hot desert or tropical land |
-| Maritime polar | mP | Cold high-latitude ocean |
-| Continental polar | cP | Cold snow-covered continent |
-| Continental arctic | cA | Very cold ice-covered land |
+| Air Mass             | Symbol | Source Character            |
+| -------------------- | ------ | --------------------------- |
+| Maritime tropical    | mT     | Warm tropical ocean         |
+| Continental tropical | cT     | Hot desert or tropical land |
+| Maritime polar       | mP     | Cold high-latitude ocean    |
+| Continental polar    | cP     | Cold snow-covered continent |
+| Continental arctic   | cA     | Very cold ice-covered land  |
 
 ## 20.6 Temperature Character
 
@@ -1187,12 +1187,12 @@ They bring:
 
 ## 23.2 Names In Different Regions
 
-| Region | Name |
-| --- | --- |
-| Indian Ocean | Cyclones |
-| Atlantic Ocean | Hurricanes |
-| Western Pacific and South China Sea | Typhoons |
-| Western Australia | Willy-willies |
+| Region                              | Name          |
+| ----------------------------------- | ------------- |
+| Indian Ocean                        | Cyclones      |
+| Atlantic Ocean                      | Hurricanes    |
+| Western Pacific and South China Sea | Typhoons      |
+| Western Australia                   | Willy-willies |
 
 ## 23.3 Conditions For Formation
 
@@ -1317,17 +1317,17 @@ The storm peters out over land because moisture supply is cut off and friction i
 
 # 25. Extra Tropical vs Tropical Cyclones
 
-| Basis | Extra Tropical Cyclone | Tropical Cyclone |
-| --- | --- | --- |
-| Region | Middle and high latitudes | Tropical oceans |
-| Origin surface | Land or sea | Only over seas |
-| Fronts | Clear frontal system present | No frontal system |
-| Area affected | Larger area | Smaller than extra tropical, but very intense |
-| Wind velocity | Lower than tropical cyclone | Much higher |
-| Destructiveness | Widespread weather changes | Very destructive winds, rain, surge |
-| Movement | Generally west to east | Generally east to west before recurving |
-| Energy source | Temperature contrast and fronts | Latent heat from warm ocean moisture |
-| Land effect | Can exist over land | Weakens after landfall |
+| Basis           | Extra Tropical Cyclone          | Tropical Cyclone                              |
+| --------------- | ------------------------------- | --------------------------------------------- |
+| Region          | Middle and high latitudes       | Tropical oceans                               |
+| Origin surface  | Land or sea                     | Only over seas                                |
+| Fronts          | Clear frontal system present    | No frontal system                             |
+| Area affected   | Larger area                     | Smaller than extra tropical, but very intense |
+| Wind velocity   | Lower than tropical cyclone     | Much higher                                   |
+| Destructiveness | Widespread weather changes      | Very destructive winds, rain, surge           |
+| Movement        | Generally west to east          | Generally east to west before recurving       |
+| Energy source   | Temperature contrast and fronts | Latent heat from warm ocean moisture          |
+| Land effect     | Can exist over land             | Weakens after landfall                        |
 
 ---
 
@@ -1403,56 +1403,56 @@ After adjustment, the atmosphere returns toward stability.
 
 ## 27.1 Pressure Gradient Force vs Coriolis Force
 
-| Pressure Gradient Force | Coriolis Force |
-| --- | --- |
-| Caused by pressure difference | Caused by earth's rotation |
-| Acts from high to low pressure | Deflects moving air |
-| Perpendicular to isobars | Perpendicular to moving wind/pressure-gradient result |
-| Controls wind speed strongly | Controls wind direction strongly |
+| Pressure Gradient Force        | Coriolis Force                                        |
+| ------------------------------ | ----------------------------------------------------- |
+| Caused by pressure difference  | Caused by earth's rotation                            |
+| Acts from high to low pressure | Deflects moving air                                   |
+| Perpendicular to isobars       | Perpendicular to moving wind/pressure-gradient result |
+| Controls wind speed strongly   | Controls wind direction strongly                      |
 
 ## 27.2 Surface Wind vs Upper-Air Wind
 
-| Surface Wind | Upper-Air Wind |
-| --- | --- |
-| Affected by friction | Mostly free from friction above 2 to 3 km |
-| Crosses isobars more | May blow parallel to isobars |
-| Slower | Faster |
-| Controlled by PGF, friction, Coriolis | Controlled mainly by PGF and Coriolis |
+| Surface Wind                          | Upper-Air Wind                            |
+| ------------------------------------- | ----------------------------------------- |
+| Affected by friction                  | Mostly free from friction above 2 to 3 km |
+| Crosses isobars more                  | May blow parallel to isobars              |
+| Slower                                | Faster                                    |
+| Controlled by PGF, friction, Coriolis | Controlled mainly by PGF and Coriolis     |
 
 ## 27.3 Cyclone vs Anticyclone
 
-| Cyclone | Anticyclone |
-| --- | --- |
-| Low pressure centre | High pressure centre |
-| Surface convergence | Surface divergence |
-| Rising air | Sinking air |
+| Cyclone             | Anticyclone            |
+| ------------------- | ---------------------- |
+| Low pressure centre | High pressure centre   |
+| Surface convergence | Surface divergence     |
+| Rising air          | Sinking air            |
 | Cloud/rain possible | Clearer weather common |
-| NH anticlockwise | NH clockwise |
+| NH anticlockwise    | NH clockwise           |
 
 ## 27.4 Cold Front vs Warm Front
 
-| Cold Front | Warm Front |
-| --- | --- |
-| Cold air advances | Warm air advances |
+| Cold Front                     | Warm Front                              |
+| ------------------------------ | --------------------------------------- |
+| Cold air advances              | Warm air advances                       |
 | Warm air forced upward sharply | Warm air glides gradually over cold air |
-| Cumulus clouds common | Layered cloud sequence common |
-| Faster moving | Slower moving |
+| Cumulus clouds common          | Layered cloud sequence common           |
+| Faster moving                  | Slower moving                           |
 
 ## 27.5 Sea Breeze vs Land Breeze
 
-| Sea Breeze | Land Breeze |
-| --- | --- |
-| Day | Night |
-| Sea to land | Land to sea |
+| Sea Breeze        | Land Breeze        |
+| ----------------- | ------------------ |
+| Day               | Night              |
+| Sea to land       | Land to sea        |
 | Land low pressure | Land high pressure |
-| Sea high pressure | Sea low pressure |
+| Sea high pressure | Sea low pressure   |
 
 ## 27.6 Valley Breeze vs Mountain Wind
 
-| Valley Breeze | Mountain Wind |
-| --- | --- |
-| Daytime | Night-time |
-| Upslope | Downslope |
+| Valley Breeze   | Mountain Wind             |
+| --------------- | ------------------------- |
+| Daytime         | Night-time                |
+| Upslope         | Downslope                 |
 | Warm rising air | Cold dense descending air |
 
 ---
@@ -1730,15 +1730,15 @@ Torrential rain and high velocity winds occur in the eye wall because pressure g
 
 ## 32.1 Weather Observation Template
 
-| Day | Pressure | Wind Direction | Wind Speed | Clouds | Rainfall | Weather System Inferred |
-| --- | --- | --- | --- | --- | --- | --- |
-| Monday |  |  |  |  |  |  |
-| Tuesday |  |  |  |  |  |  |
-| Wednesday |  |  |  |  |  |  |
-| Thursday |  |  |  |  |  |  |
-| Friday |  |  |  |  |  |  |
-| Saturday |  |  |  |  |  |  |
-| Sunday |  |  |  |  |  |  |
+| Day       | Pressure | Wind Direction | Wind Speed | Clouds | Rainfall | Weather System Inferred |
+| --------- | -------- | -------------- | ---------- | ------ | -------- | ----------------------- |
+| Monday    |          |                |            |        |          |                         |
+| Tuesday   |          |                |            |        |          |                         |
+| Wednesday |          |                |            |        |          |                         |
+| Thursday  |          |                |            |        |          |                         |
+| Friday    |          |                |            |        |          |                         |
+| Saturday  |          |                |            |        |          |                         |
+| Sunday    |          |                |            |        |          |                         |
 
 ## 32.2 How To Infer Circulation From Cloud Maps
 
@@ -1842,12 +1842,12 @@ Then count how many days the forecast was accurate.
 
 ## 34.1 Must-Remember Pressure Values
 
-| Level | Pressure |
-| --- | --- |
+| Level     | Pressure   |
+| --------- | ---------- |
 | Sea level | 1013.25 mb |
-| 1 km | 898.76 mb |
-| 5 km | 540.48 mb |
-| 10 km | 265.00 mb |
+| 1 km      | 898.76 mb  |
+| 5 km      | 540.48 mb  |
+| 10 km     | 265.00 mb  |
 
 ## 34.2 Must-Remember Pressure Belts
 
@@ -1865,10 +1865,10 @@ Then count how many days the forecast was accurate.
 
 ## 34.4 Must-Remember Cyclone Direction
 
-| System | Northern Hemisphere | Southern Hemisphere |
-| --- | --- | --- |
-| Cyclone | Anticlockwise | Clockwise |
-| Anticyclone | Clockwise | Anticlockwise |
+| System      | Northern Hemisphere | Southern Hemisphere |
+| ----------- | ------------------- | ------------------- |
+| Cyclone     | Anticlockwise       | Clockwise           |
+| Anticyclone | Clockwise           | Anticlockwise       |
 
 ## 34.5 Must-Remember Tropical Cyclone Conditions
 

@@ -1,43 +1,44 @@
 # Chapter 10: The Sermon at Benares
+
 ### NCERT Class 10 - English Firstflight
 
 ---
 
 ## Chapter At A Glance
 
-| Detail | Learner-Friendly Information |
-| --- | --- |
-| Class | 10 |
-| Subject | English Firstflight |
-| Chapter | 10 - The Sermon at Benares |
-| Source File | data/class_10/english_firstflight/chapter_10.md |
+| Detail       | Learner-Friendly Information                                                                 |
+| ------------ | -------------------------------------------------------------------------------------------- |
+| Class        | 10                                                                                           |
+| Subject      | English Firstflight                                                                          |
+| Chapter      | 10 - The Sermon at Benares                                                                   |
+| Source File  | data/class_10/english_firstflight/chapter_10.md                                              |
 | Subject Lens | context -> plot/situation -> character voice -> theme -> language feature -> reader response |
-| Best Use | Use this as a detailed learner guide: read, mark, answer, revise, and test. |
+| Best Use     | Use this as a detailed learner guide: read, mark, answer, revise, and test.                  |
 
 ## Learning Roadmap
 
-| Step | Learner Action | Why It Matters |
-| --- | --- | --- |
-| 1 | Read once for the literal story and again for tone, conflict, and theme. | Turns raw textbook material into answer-ready understanding. |
-| 2 | Maintain a character evidence table with quotations or paraphrased moments. | Turns raw textbook material into answer-ready understanding. |
-| 3 | Track difficult expressions and infer meaning from context. | Turns raw textbook material into answer-ready understanding. |
-| 4 | For long answers, connect textual evidence to the central theme. | Turns raw textbook material into answer-ready understanding. |
+| Step | Learner Action                                                              | Why It Matters                                               |
+| ---- | --------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| 1    | Read once for the literal story and again for tone, conflict, and theme.    | Turns raw textbook material into answer-ready understanding. |
+| 2    | Maintain a character evidence table with quotations or paraphrased moments. | Turns raw textbook material into answer-ready understanding. |
+| 3    | Track difficult expressions and infer meaning from context.                 | Turns raw textbook material into answer-ready understanding. |
+| 4    | For long answers, connect textual evidence to the central theme.            | Turns raw textbook material into answer-ready understanding. |
 
 ## Learning Outcomes
 
-| # | After Studying, You Should Be Able To |
-| --- | --- |
-| 1 | Explain the core idea of **The Sermon at Benares** in clear learner language. |
-| 2 | Use chapter evidence, examples, data, formulas, characters, events, or concepts accurately. |
-| 3 | Separate definitions, explanations, examples, and conclusions while answering. |
-| 4 | Prepare short-answer and long-answer responses without copying disconnected textbook lines. |
-| 5 | Revise the chapter through keywords, section summaries, and practice prompts. |
+| #   | After Studying, You Should Be Able To                                                       |
+| --- | ------------------------------------------------------------------------------------------- |
+| 1   | Explain the core idea of **The Sermon at Benares** in clear learner language.               |
+| 2   | Use chapter evidence, examples, data, formulas, characters, events, or concepts accurately. |
+| 3   | Separate definitions, explanations, examples, and conclusions while answering.              |
+| 4   | Prepare short-answer and long-answer responses without copying disconnected textbook lines. |
+| 5   | Revise the chapter through keywords, section summaries, and practice prompts.               |
 
 ## Section Map
 
-| Section | Learner Focus |
-| --- | --- |
-| Activity | Main idea, supporting details, examples, and answer value. |
+| Section                                        | Learner Focus                                              |
+| ---------------------------------------------- | ---------------------------------------------------------- |
+| Activity                                       | Main idea, supporting details, examples, and answer value. |
 | Helping each other to get over difficult times | Main idea, supporting details, examples, and answer value. |
 
 ## High-Yield Chapter Summary
@@ -59,26 +60,26 @@
 
 ## Key Terms, Concepts, And Recall Anchors
 
-| Term | Learner Meaning |
-| --- | --- |
+| Term                 | Learner Meaning                                                                                                              |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | For there is not any | by which those who have been born can avoid dying; after reaching old age there is death; of such a nature are living beings |
 
-| Anchor Word | What To Do With It |
-| --- | --- |
-| What | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Grief | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Buddha | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Kisa | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Will | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Death | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Sermon | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Gotami | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Does | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Love | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| House | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Young | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Understand | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
-| Time | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Anchor Word | What To Do With It                                                                                    |
+| ----------- | ----------------------------------------------------------------------------------------------------- |
+| What        | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Grief       | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Buddha      | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Kisa        | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Will        | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Death       | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Sermon      | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Gotami      | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Does        | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Love        | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| House       | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Young       | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Understand  | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
+| Time        | Locate this term in the chapter and connect it to a definition, example, process, event, or argument. |
 
 ### Literature Reading Anchors
 
@@ -88,8 +89,8 @@
 
 ## Formula, Evidence, Data, And Example Board
 
-| Source Point | How Learners Should Use It |
-| --- | --- |
+| Source Point                                                                                                                                                                         | How Learners Should Use It                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------- |
 | Does she get it? **Q6.** what way did the Buddha change her understanding? **Q7.** Kisa Gotami that she was being ‘selfish in her grief ’? **Q8.** using semicolons, or the three si | Use this as supporting evidence in short or long answers. |
 
 ## Deep Learner Walkthrough
@@ -172,12 +173,12 @@ Who delivered it? **Q3.** Who do you think delivered a sermon at Benares? **Q4.*
 
 ### Likely Question Bank
 
-| Question Type | Strong Answer Shape |
-| --- | --- |
-| Explain Activity. | Definition or context -> key points -> evidence/example -> significance. |
-| How does Activity develop the chapter's theme? | Situation -> character/speaker response -> language/detail -> theme. |
-| Explain Helping each other to get over difficult times. | Definition or context -> key points -> evidence/example -> significance. |
-| How does Helping each other to get over difficult times develop the chapter's theme? | Situation -> character/speaker response -> language/detail -> theme. |
+| Question Type                                                                        | Strong Answer Shape                                                      |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
+| Explain Activity.                                                                    | Definition or context -> key points -> evidence/example -> significance. |
+| How does Activity develop the chapter's theme?                                       | Situation -> character/speaker response -> language/detail -> theme.     |
+| Explain Helping each other to get over difficult times.                              | Definition or context -> key points -> evidence/example -> significance. |
+| How does Helping each other to get over difficult times develop the chapter's theme? | Situation -> character/speaker response -> language/detail -> theme.     |
 
 ### Common Mistakes To Avoid
 
@@ -203,12 +204,12 @@ Who delivered it? **Q3.** Who do you think delivered a sermon at Benares? **Q4.*
 
 ## One-Page Quick Revision
 
-| Revision Item | What To Recall |
-| --- | --- |
-| Chapter | 10 — The Sermon at Benares |
-| Subject Lens | context -> plot/situation -> character voice -> theme -> language feature -> reader response |
-| Main Keywords | What, Grief, Buddha, Kisa, Will, Death, Sermon, Gotami, Does, Love |
-| Best First Step | Read the section titles, then explain each title aloud before revising details. |
+| Revision Item   | What To Recall                                                                                  |
+| --------------- | ----------------------------------------------------------------------------------------------- |
+| Chapter         | 10 — The Sermon at Benares                                                                      |
+| Subject Lens    | context -> plot/situation -> character voice -> theme -> language feature -> reader response    |
+| Main Keywords   | What, Grief, Buddha, Kisa, Will, Death, Sermon, Gotami, Does, Love                              |
+| Best First Step | Read the section titles, then explain each title aloud before revising details.                 |
 | Best Final Step | Attempt the likely question bank and check whether every answer uses evidence from the chapter. |
 
 ---
@@ -273,4 +274,4 @@ But elsewher e Y eats asks the question: How can we separate the dancer from the
 
 In what way?  2018-19 --- ## ✏️ Exercise Questions **Q1.** “my mother’s sermon about getting my work done on time…”)? **Q2.** Have you heard of the Sermon on the Mount? Who delivered it? **Q3.** Who do you think delivered a sermon at Benares? **Q4.** ask for? What does she ask for, the second time ar ound? Does she get it? **Q6.** what way did the Buddha change her understanding? **Q7.** Kisa Gotami that she was being ‘selfish in her grief ’? **Q8.** using semicolons, or the three simple sentences? **Q9.** woman.
 
-What are they arguing about? **Q10.** it to? Why would she want to do so? **Q11.** what qualities would you emphasise? **Q12.** physical or mental? Or is it possible to love someone “for themselves alone”? **Q13.** your family has changed over the years. Has your relationship also changed? --- *Source: NCERT Class 10 — English Firstflight, Chapter 10.
+What are they arguing about? **Q10.** it to? Why would she want to do so? **Q11.** what qualities would you emphasise? **Q12.** physical or mental? Or is it possible to love someone “for themselves alone”? **Q13.** your family has changed over the years. Has your relationship also changed? --- \*Source: NCERT Class 10 — English Firstflight, Chapter 10.

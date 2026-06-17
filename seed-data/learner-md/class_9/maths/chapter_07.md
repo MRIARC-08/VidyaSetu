@@ -1,20 +1,21 @@
 # Chapter 7: The Mathematics of Maybe - Introduction to Probability
+
 ### NCERT Class 9 - Maths
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 9 |
-| **Subject** | Maths |
-| **Chapter** | 7 |
-| **Actual Chapter Title** | The Mathematics of Maybe: Introduction to Probability |
-| **Raw File Header** | "Triangles" |
-| **Textbook Pages** | 1-173 |
-| **Core Theme** | Measuring chance, uncertainty, randomness, and likelihood. |
-| **Main Skill** | Listing possible outcomes, identifying events, and calculating experimental and theoretical probability. |
+| Detail                   | Learner-Friendly Information                                                                             |
+| ------------------------ | -------------------------------------------------------------------------------------------------------- |
+| **Class**                | 9                                                                                                        |
+| **Subject**              | Maths                                                                                                    |
+| **Chapter**              | 7                                                                                                        |
+| **Actual Chapter Title** | The Mathematics of Maybe: Introduction to Probability                                                    |
+| **Raw File Header**      | "Triangles"                                                                                              |
+| **Textbook Pages**       | 1-173                                                                                                    |
+| **Core Theme**           | Measuring chance, uncertainty, randomness, and likelihood.                                               |
+| **Main Skill**           | Listing possible outcomes, identifying events, and calculating experimental and theoretical probability. |
 
 > [!NOTE]
 > The raw source file is `chapter_07.md` and its extraction header says "Triangles", but the actual chapter content is **The Mathematics of Maybe: Introduction to Probability**. This learner-facing version follows the actual chapter content.
@@ -23,20 +24,20 @@
 
 ## Section Structure
 
-| Section | Title | Main Learning Focus |
-|---|---|---|
-| **7.0** | Introduction | Why probability helps us reason about uncertain situations. |
-| **7.1** | What Is Probability? | Probability as a measurement of likelihood. |
-| **7.1.1** | What Is Randomness? | Random experiments, unpredictability, and known possible outcomes. |
-| **7.1.2** | The Probability Scale | Values from \(0\) to \(1\), from impossible to certain. |
-| **7.2** | Measuring Probability Objectively | Experimental probability and theoretical probability. |
-| **7.2.1** | Experimental Probability | Estimating probability using trials and relative frequency. |
-| **7.2.2** | Theoretical Probability | Calculating probability when equally likely outcomes are known. |
-| **7.2.3** | Statistical Data and Probability | Sampling, population, sample estimates, and long-run behaviour. |
-| **7.3** | Sample Spaces and Events | Listing all possible outcomes and selecting event outcomes. |
-| **7.3.1** | Sample Space | Complete, non-repeated list of possible outcomes. |
-| **7.3.2** | Events | Subsets of sample space. |
-| **7.4** | Tree Diagrams | Visualising multi-step experiments and listing outcomes systematically. |
+| Section   | Title                             | Main Learning Focus                                                     |
+| --------- | --------------------------------- | ----------------------------------------------------------------------- |
+| **7.0**   | Introduction                      | Why probability helps us reason about uncertain situations.             |
+| **7.1**   | What Is Probability?              | Probability as a measurement of likelihood.                             |
+| **7.1.1** | What Is Randomness?               | Random experiments, unpredictability, and known possible outcomes.      |
+| **7.1.2** | The Probability Scale             | Values from \(0\) to \(1\), from impossible to certain.                 |
+| **7.2**   | Measuring Probability Objectively | Experimental probability and theoretical probability.                   |
+| **7.2.1** | Experimental Probability          | Estimating probability using trials and relative frequency.             |
+| **7.2.2** | Theoretical Probability           | Calculating probability when equally likely outcomes are known.         |
+| **7.2.3** | Statistical Data and Probability  | Sampling, population, sample estimates, and long-run behaviour.         |
+| **7.3**   | Sample Spaces and Events          | Listing all possible outcomes and selecting event outcomes.             |
+| **7.3.1** | Sample Space                      | Complete, non-repeated list of possible outcomes.                       |
+| **7.3.2** | Events                            | Subsets of sample space.                                                |
+| **7.4**   | Tree Diagrams                     | Visualising multi-step experiments and listing outcomes systematically. |
 
 ---
 
@@ -44,32 +45,32 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Explain probability** | Describe probability as a number measuring likelihood. |
-| **Use probability language** | Correctly use impossible, unlikely, even chance, likely, and certain. |
-| **Recognise randomness** | Identify random experiments and explain why exact outcomes cannot be known in advance. |
-| **Use the probability scale** | Place events between \(0\) and \(1\). |
-| **Find experimental probability** | Use data from trials to estimate probability. |
-| **Find theoretical probability** | Use favourable outcomes and total equally likely outcomes. |
-| **Build sample spaces** | List outcomes completely without duplicates. |
-| **Describe events** | Represent an event as a subset of the sample space. |
-| **Use tree diagrams** | Organise outcomes for two-step or multi-step experiments. |
-| **Avoid common fallacies** | Explain why past independent outcomes do not force future outcomes. |
+| Outcome                           | You Should Be Able To...                                                               |
+| --------------------------------- | -------------------------------------------------------------------------------------- |
+| **Explain probability**           | Describe probability as a number measuring likelihood.                                 |
+| **Use probability language**      | Correctly use impossible, unlikely, even chance, likely, and certain.                  |
+| **Recognise randomness**          | Identify random experiments and explain why exact outcomes cannot be known in advance. |
+| **Use the probability scale**     | Place events between \(0\) and \(1\).                                                  |
+| **Find experimental probability** | Use data from trials to estimate probability.                                          |
+| **Find theoretical probability**  | Use favourable outcomes and total equally likely outcomes.                             |
+| **Build sample spaces**           | List outcomes completely without duplicates.                                           |
+| **Describe events**               | Represent an event as a subset of the sample space.                                    |
+| **Use tree diagrams**             | Organise outcomes for two-step or multi-step experiments.                              |
+| **Avoid common fallacies**        | Explain why past independent outcomes do not force future outcomes.                    |
 
 ---
 
 ## Prerequisite Toolkit
 
-| Tool | Why It Matters Here |
-|---|---|
-| **Fractions** | Probabilities are often written as fractions. |
-| **Decimals** | Probabilities may be written as decimals between \(0\) and \(1\). |
-| **Percentages** | Probability can be interpreted as a percentage chance. |
-| **Sets** | Sample spaces and events are written using set notation. |
-| **Ratios** | Probability compares favourable outcomes with total outcomes. |
-| **Tables** | Tables help organise sample spaces and survey data. |
-| **Multiplication principle** | Multi-step experiments often multiply numbers of choices. |
+| Tool                         | Why It Matters Here                                               |
+| ---------------------------- | ----------------------------------------------------------------- |
+| **Fractions**                | Probabilities are often written as fractions.                     |
+| **Decimals**                 | Probabilities may be written as decimals between \(0\) and \(1\). |
+| **Percentages**              | Probability can be interpreted as a percentage chance.            |
+| **Sets**                     | Sample spaces and events are written using set notation.          |
+| **Ratios**                   | Probability compares favourable outcomes with total outcomes.     |
+| **Tables**                   | Tables help organise sample spaces and survey data.               |
+| **Multiplication principle** | Multi-step experiments often multiply numbers of choices.         |
 
 ### Converting Probability Forms
 
@@ -125,25 +126,25 @@ It is used in:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Probability** | A number that measures how likely an event is. |
-| **Random experiment** | A repeatable action whose exact outcome cannot be predicted in advance. |
-| **Trial** | One performance of a random experiment. |
-| **Outcome** | A possible result of a random experiment. |
-| **Sample space** | The set of all possible outcomes. |
-| **Event** | A single outcome or a group of outcomes from the sample space. |
-| **Favourable outcome** | Outcome that satisfies the event being studied. |
-| **Experimental probability** | Probability estimated from actual trials or observations. |
-| **Relative frequency** | Fraction of trials in which an event occurs. |
-| **Theoretical probability** | Probability calculated from equally likely outcomes. |
-| **Population** | Entire group being studied. |
-| **Sample** | Smaller part of a population used to estimate information about the whole. |
-| **Sampling** | Process of collecting data from a sample. |
-| **Fair** | All relevant outcomes are equally likely. |
-| **Unbiased** | No outcome is favoured by the object or process. |
-| **Independent events** | Events where one result does not change the probability of another. |
-| **Tree diagram** | Branching diagram used to list multi-step outcomes. |
+| Term                         | Meaning                                                                    |
+| ---------------------------- | -------------------------------------------------------------------------- |
+| **Probability**              | A number that measures how likely an event is.                             |
+| **Random experiment**        | A repeatable action whose exact outcome cannot be predicted in advance.    |
+| **Trial**                    | One performance of a random experiment.                                    |
+| **Outcome**                  | A possible result of a random experiment.                                  |
+| **Sample space**             | The set of all possible outcomes.                                          |
+| **Event**                    | A single outcome or a group of outcomes from the sample space.             |
+| **Favourable outcome**       | Outcome that satisfies the event being studied.                            |
+| **Experimental probability** | Probability estimated from actual trials or observations.                  |
+| **Relative frequency**       | Fraction of trials in which an event occurs.                               |
+| **Theoretical probability**  | Probability calculated from equally likely outcomes.                       |
+| **Population**               | Entire group being studied.                                                |
+| **Sample**                   | Smaller part of a population used to estimate information about the whole. |
+| **Sampling**                 | Process of collecting data from a sample.                                  |
+| **Fair**                     | All relevant outcomes are equally likely.                                  |
+| **Unbiased**                 | No outcome is favoured by the object or process.                           |
+| **Independent events**       | Events where one result does not change the probability of another.        |
+| **Tree diagram**             | Branching diagram used to list multi-step outcomes.                        |
 
 ---
 
@@ -181,13 +182,13 @@ probability measures how likely an event is to occur.
 
 ### Probability Language
 
-| Phrase | Meaning |
-|---|---|
-| **Impossible** | Cannot happen. |
-| **Less likely** | Can happen, but chance is small. |
+| Phrase                           | Meaning                                            |
+| -------------------------------- | -------------------------------------------------- |
+| **Impossible**                   | Cannot happen.                                     |
+| **Less likely**                  | Can happen, but chance is small.                   |
 | **Equally likely / even chance** | Chance of happening and not happening is the same. |
-| **More likely** | Chance is greater than half. |
-| **Certain** | Must happen. |
+| **More likely**                  | Chance is greater than half.                       |
+| **Certain**                      | Must happen.                                       |
 
 ### Subjective Probability
 
@@ -226,13 +227,13 @@ Randomness means that the exact result cannot be predicted in advance, even thou
 
 ### Examples of Random Experiments
 
-| Experiment | Possible Outcomes | Why It Is Random |
-|---|---|---|
-| Tossing a coin | Heads, tails | You cannot know the result of one toss in advance. |
-| Rolling a die | \(1,2,3,4,5,6\) | Any face may appear. |
-| Lucky draw | Any eligible name | The selected name is not known beforehand. |
-| Tossing a paper cup | Bottom, top, side | Landing position is uncertain. |
-| Weather tomorrow | Rain, no rain, or more detailed categories | Weather depends on many changing factors. |
+| Experiment          | Possible Outcomes                          | Why It Is Random                                   |
+| ------------------- | ------------------------------------------ | -------------------------------------------------- |
+| Tossing a coin      | Heads, tails                               | You cannot know the result of one toss in advance. |
+| Rolling a die       | \(1,2,3,4,5,6\)                            | Any face may appear.                               |
+| Lucky draw          | Any eligible name                          | The selected name is not known beforehand.         |
+| Tossing a paper cup | Bottom, top, side                          | Landing position is uncertain.                     |
+| Weather tomorrow    | Rain, no rain, or more detailed categories | Weather depends on many changing factors.          |
 
 ### Random Experiment
 
@@ -272,23 +273,23 @@ Probability is measured from \(0\) to \(1\).
 
 ### Probability Scale
 
-| Probability | Meaning |
-|---|---|
-| \(0\) | Impossible |
+| Probability               | Meaning     |
+| ------------------------- | ----------- |
+| \(0\)                     | Impossible  |
 | Between \(0\) and \(0.5\) | Less likely |
-| \(0.5\) | Even chance |
+| \(0.5\)                   | Even chance |
 | Between \(0.5\) and \(1\) | More likely |
-| \(1\) | Certain |
+| \(1\)                     | Certain     |
 
 ### Examples
 
-| Event | Probability Type | Explanation |
-|---|---|---|
-| Getting a number greater than \(6\) on a standard die | Impossible | Die has only \(1\) to \(6\). |
-| Rolling a \(3\) on a die | Less likely | Only one face is \(3\). |
-| Getting heads on a fair coin | Even chance | Heads and tails are equally likely. |
-| Drawing a number card from 2 to 10 in a standard deck | More likely | Many cards have these numbers. |
-| Choosing a red sweet from a bag of all red sweets | Certain | Every sweet is red. |
+| Event                                                 | Probability Type | Explanation                         |
+| ----------------------------------------------------- | ---------------- | ----------------------------------- |
+| Getting a number greater than \(6\) on a standard die | Impossible       | Die has only \(1\) to \(6\).        |
+| Rolling a \(3\) on a die                              | Less likely      | Only one face is \(3\).             |
+| Getting heads on a fair coin                          | Even chance      | Heads and tails are equally likely. |
+| Drawing a number card from 2 to 10 in a standard deck | More likely      | Many cards have these numbers.      |
+| Choosing a red sweet from a bag of all red sweets     | Certain          | Every sweet is red.                 |
 
 ### Probability Cannot Be Negative or Greater Than 1
 
@@ -326,12 +327,12 @@ chance in the probability model.
 
 Rank each event from \(0\) to \(1\), and label it as impossible, less likely, even chance, more likely, or certain.
 
-| Event | Suggested Ranking | Reason |
-|---|---|---|
-| The next Monday will come after Sunday. | \(1\), certain | In the normal calendar, Monday follows Sunday. |
-| It will snow in Mumbai in July. | \(0\), impossible or extremely close to impossible in ordinary school probability context | Mumbai's July climate does not support snowfall. |
-| An elephant will walk through your classroom today. | Very close to \(0\), less likely | Not logically impossible, but extremely unlikely in ordinary circumstances. |
-| You will greet at least one friend at school tomorrow. | More likely | If you attend school and meet friends, this is likely, but not absolutely certain. |
+| Event                                                  | Suggested Ranking                                                                         | Reason                                                                             |
+| ------------------------------------------------------ | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| The next Monday will come after Sunday.                | \(1\), certain                                                                            | In the normal calendar, Monday follows Sunday.                                     |
+| It will snow in Mumbai in July.                        | \(0\), impossible or extremely close to impossible in ordinary school probability context | Mumbai's July climate does not support snowfall.                                   |
+| An elephant will walk through your classroom today.    | Very close to \(0\), less likely                                                          | Not logically impossible, but extremely unlikely in ordinary circumstances.        |
+| You will greet at least one friend at school tomorrow. | More likely                                                                               | If you attend school and meet friends, this is likely, but not absolutely certain. |
 
 ### Learner Note
 
@@ -374,10 +375,10 @@ $$
 
 ### Comparison
 
-| Type | Based On | Used When |
-|---|---|---|
+| Type                     | Based On                         | Used When                                      |
+| ------------------------ | -------------------------------- | ---------------------------------------------- |
 | Experimental probability | Data from trials or observations | We can collect evidence or observe real cases. |
-| Theoretical probability | Equally likely possible outcomes | We have a fair, ideal model. |
+| Theoretical probability  | Equally likely possible outcomes | We have a fair, ideal model.                   |
 
 ---
 
@@ -611,12 +612,12 @@ This is common in:
 Suppose 50 students are surveyed.
 
 | Favourite Fruit | Number of Students |
-|---|---:|
-| Mango | 20 |
-| Apple | 15 |
-| Banana | 10 |
-| Grapes | 5 |
-| **Total** | **50** |
+| --------------- | -----------------: |
+| Mango           |                 20 |
+| Apple           |                 15 |
+| Banana          |                 10 |
+| Grapes          |                  5 |
+| **Total**       |             **50** |
 
 Estimated probability that a randomly chosen student likes mango:
 
@@ -648,11 +649,11 @@ So we estimate about 600 students may prefer mango.
 
 ### Population and Sample
 
-| Term | Meaning in Example |
-|---|---|
-| Population | All 1500 students in the school |
-| Sample | The 50 students surveyed |
-| Sample estimate | \(20/50=0.4\) |
+| Term                | Meaning in Example                      |
+| ------------------- | --------------------------------------- |
+| Population          | All 1500 students in the school         |
+| Sample              | The 50 students surveyed                |
+| Sample estimate     | \(20/50=0.4\)                           |
 | Population estimate | About \(600\) mango-preferring students |
 
 ### Better Samples
@@ -728,12 +729,12 @@ Each fair die roll is independent.
 
 Sample:
 
-| Colour | Count |
-|---|---:|
-| Red | 10 |
-| Green | 8 |
-| Yellow | 7 |
-| Blue | 5 |
+| Colour    |  Count |
+| --------- | -----: |
+| Red       |     10 |
+| Green     |      8 |
+| Yellow    |      7 |
+| Blue      |      5 |
 | **Total** | **30** |
 
 Probability of green:
@@ -758,12 +759,12 @@ $$
 
 Sample:
 
-| Club | Count |
-|---|---:|
-| Science | 14 |
-| Arts | 11 |
-| Sports | 9 |
-| Debate | 6 |
+| Club      |  Count |
+| --------- | -----: |
+| Science   |     14 |
+| Arts      |     11 |
+| Sports    |      9 |
+| Debate    |      6 |
 | **Total** | **40** |
 
 Probability a sample student prefers Arts Club:
@@ -903,13 +904,13 @@ $$
 
 ### Examples
 
-| Experiment | Sample Space | Sample Size |
-|---|---|---:|
-| Will it rain tomorrow? | \(\{\text{Rain},\text{No Rain}\}\) | 2 |
-| Match result | \(\{\text{Win},\text{Lose},\text{Draw}\}\) | 3 |
-| Toss one coin | \(\{H,T\}\) | 2 |
-| Roll one die | \(\{1,2,3,4,5,6\}\) | 6 |
-| Toss two coins | \(\{HH,HT,TH,TT\}\) | 4 |
+| Experiment             | Sample Space                               | Sample Size |
+| ---------------------- | ------------------------------------------ | ----------: |
+| Will it rain tomorrow? | \(\{\text{Rain},\text{No Rain}\}\)         |           2 |
+| Match result           | \(\{\text{Win},\text{Lose},\text{Draw}\}\) |           3 |
+| Toss one coin          | \(\{H,T\}\)                                |           2 |
+| Roll one die           | \(\{1,2,3,4,5,6\}\)                        |           6 |
+| Toss two coins         | \(\{HH,HT,TH,TT\}\)                        |           4 |
 
 ### Level of Detail
 
@@ -1311,11 +1312,11 @@ $$
 
 ### Question 1: Fill in the Blanks
 
-| Blank | Answer |
-|---|---|
-| Probability of an impossible event | \(0\) |
-| Set of all possible outcomes | sample space |
-| Probability of a certain event | \(1\) |
+| Blank                               | Answer          |
+| ----------------------------------- | --------------- |
+| Probability of an impossible event  | \(0\)           |
+| Set of all possible outcomes        | sample space    |
+| Probability of a certain event      | \(1\)           |
 | Probability of heads on a fair coin | \(\frac{1}{2}\) |
 
 ### Question 2: Survey of Football Preference
@@ -1336,13 +1337,13 @@ $$
 
 ### Question 3: Equally Likely Outcomes
 
-| Experiment | Equally Likely? | Reason |
-|---|---|---|
-| Car starts or does not start | Not necessarily | A working car is more likely to start. |
-| Tossing a fair coin | Yes | Heads and tails are equally likely. |
-| Rolling a fair 6-sided die | Yes | Each face is equally likely. |
-| Choosing a marble from 3 red and 7 blue | Individual marbles are equally likely; colours are not | Red has probability \(3/10\), blue \(7/10\). |
-| A baby is born, boy or girl | Not safe to assume exactly equally likely in real data | A simple classroom model may approximate, but real population data need evidence. |
+| Experiment                              | Equally Likely?                                        | Reason                                                                            |
+| --------------------------------------- | ------------------------------------------------------ | --------------------------------------------------------------------------------- |
+| Car starts or does not start            | Not necessarily                                        | A working car is more likely to start.                                            |
+| Tossing a fair coin                     | Yes                                                    | Heads and tails are equally likely.                                               |
+| Rolling a fair 6-sided die              | Yes                                                    | Each face is equally likely.                                                      |
+| Choosing a marble from 3 red and 7 blue | Individual marbles are equally likely; colours are not | Red has probability \(3/10\), blue \(7/10\).                                      |
+| A baby is born, boy or girl             | Not safe to assume exactly equally likely in real data | A simple classroom model may approximate, but real population data need evidence. |
 
 ### Question 4: Sample Spaces and Probabilities
 
@@ -1468,14 +1469,14 @@ $$
 \{\text{Jeans},\text{Khakis},\text{Shorts}\}
 $$
 
-| Shirt | Pants |
-|---|---|
-| Red | Jeans |
-| Red | Khakis |
-| Red | Shorts |
-| Blue | Jeans |
-| Blue | Khakis |
-| Blue | Shorts |
+| Shirt | Pants  |
+| ----- | ------ |
+| Red   | Jeans  |
+| Red   | Khakis |
+| Red   | Shorts |
+| Blue  | Jeans  |
+| Blue  | Khakis |
+| Blue  | Shorts |
 
 Total combinations:
 
@@ -1491,12 +1492,12 @@ $$
 1000
 $$
 
-| Distance Category | Cases |
-|---|---:|
-| Less than \(4000\text{ km}\) | 20 |
-| \(4000\) to \(9000\text{ km}\) | 210 |
-| \(9000\) to \(14000\text{ km}\) | 325 |
-| More than \(14000\text{ km}\) | 445 |
+| Distance Category               | Cases |
+| ------------------------------- | ----: |
+| Less than \(4000\text{ km}\)    |    20 |
+| \(4000\) to \(9000\text{ km}\)  |   210 |
+| \(9000\) to \(14000\text{ km}\) |   325 |
+| More than \(14000\text{ km}\)   |   445 |
 
 Probability less than \(4000\text{ km}\):
 
@@ -1574,13 +1575,13 @@ $$
 
 All 8 outcomes are equally likely.
 
-| Event | Favourable Outcomes | Probability |
-|---|---|---|
-| Points at 8 | \(\{8\}\) | \(\frac{1}{8}\) |
-| Odd number | \(\{1,3,5,7\}\) | \(\frac{4}{8}=\frac{1}{2}\) |
-| Greater than 2 | \(\{3,4,5,6,7,8\}\) | \(\frac{6}{8}=\frac{3}{4}\) |
-| Less than 9 | \(\{1,2,3,4,5,6,7,8\}\) | \(1\) |
-| Multiple of 3 | \(\{3,6\}\) | \(\frac{2}{8}=\frac{1}{4}\) |
+| Event          | Favourable Outcomes     | Probability                 |
+| -------------- | ----------------------- | --------------------------- |
+| Points at 8    | \(\{8\}\)               | \(\frac{1}{8}\)             |
+| Odd number     | \(\{1,3,5,7\}\)         | \(\frac{4}{8}=\frac{1}{2}\) |
+| Greater than 2 | \(\{3,4,5,6,7,8\}\)     | \(\frac{6}{8}=\frac{3}{4}\) |
+| Less than 9    | \(\{1,2,3,4,5,6,7,8\}\) | \(1\)                       |
+| Multiple of 3  | \(\{3,6\}\)             | \(\frac{2}{8}=\frac{1}{4}\) |
 
 ### Question 10: Drawing Balls Without Replacement
 
@@ -1871,12 +1872,12 @@ $$
 
 Why the others fail:
 
-| List | Problem |
-|---|---|
-| \(\{1,2,3\}\) | Missing \(0\) heads. |
-| \(\{0,1,2\}\) | Missing \(3\) heads. |
+| List              | Problem                                  |
+| ----------------- | ---------------------------------------- |
+| \(\{1,2,3\}\)     | Missing \(0\) heads.                     |
+| \(\{0,1,2\}\)     | Missing \(3\) heads.                     |
 | \(\{0,1,2,3,4\}\) | Includes impossible outcome \(4\) heads. |
-| \(\{0,1,2,3\}\) | Correct. |
+| \(\{0,1,2,3\}\)   | Correct.                                 |
 
 ### Question 16: Dye Dropped on a Rectangle
 
@@ -2124,35 +2125,35 @@ $$
 
 ## Common Mistakes and Corrections
 
-| Mistake | Why It Is Wrong | Correct Thinking |
-|---|---|---|
-| Saying probability can be \(120\%\) | Probability cannot exceed \(1\) or \(100\%\). | Always check \(0\le P(E)\le 1\). |
-| Treating past coin tosses as changing the next toss | A fair coin has no memory. | Independent trials keep the same probability. |
-| Forgetting repeated letters in words | Each card/letter position counts. | In "PEACE", \(E\) appears twice. |
-| Listing incomplete sample spaces | Missing outcomes gives wrong probability. | Write all outcomes systematically. |
-| Repeating outcomes in sample space | Repetition changes counts incorrectly. | Each outcome should be listed once, unless physical objects are labelled separately. |
-| Assuming outcomes are equally likely without evidence | Real-world outcomes may be biased. | Use equally likely only when the model supports it. |
-| Confusing event and outcome | An event may contain many outcomes. | Outcome is one result; event is a set of results. |
-| Ignoring replacement in drawing problems | Replacement changes the second probability. | Ask: was the first item put back? |
-| Using colour sample space \(\{R,B\}\) as equally likely when counts differ | Colour outcomes may not have equal chances. | Use counts: \(P(R)=\frac{\text{red count}}{\text{total}}\). |
-| Thinking experimental probability must equal theoretical probability | Small samples vary. | More trials usually bring experimental probability closer. |
+| Mistake                                                                    | Why It Is Wrong                               | Correct Thinking                                                                     |
+| -------------------------------------------------------------------------- | --------------------------------------------- | ------------------------------------------------------------------------------------ |
+| Saying probability can be \(120\%\)                                        | Probability cannot exceed \(1\) or \(100\%\). | Always check \(0\le P(E)\le 1\).                                                     |
+| Treating past coin tosses as changing the next toss                        | A fair coin has no memory.                    | Independent trials keep the same probability.                                        |
+| Forgetting repeated letters in words                                       | Each card/letter position counts.             | In "PEACE", \(E\) appears twice.                                                     |
+| Listing incomplete sample spaces                                           | Missing outcomes gives wrong probability.     | Write all outcomes systematically.                                                   |
+| Repeating outcomes in sample space                                         | Repetition changes counts incorrectly.        | Each outcome should be listed once, unless physical objects are labelled separately. |
+| Assuming outcomes are equally likely without evidence                      | Real-world outcomes may be biased.            | Use equally likely only when the model supports it.                                  |
+| Confusing event and outcome                                                | An event may contain many outcomes.           | Outcome is one result; event is a set of results.                                    |
+| Ignoring replacement in drawing problems                                   | Replacement changes the second probability.   | Ask: was the first item put back?                                                    |
+| Using colour sample space \(\{R,B\}\) as equally likely when counts differ | Colour outcomes may not have equal chances.   | Use counts: \(P(R)=\frac{\text{red count}}{\text{total}}\).                          |
+| Thinking experimental probability must equal theoretical probability       | Small samples vary.                           | More trials usually bring experimental probability closer.                           |
 
 ---
 
 ## Concept Map
 
-| Concept | Connects To |
-|---|---|
-| Randomness | Unpredictable individual outcomes |
-| Probability scale | Values from impossible \(0\) to certain \(1\) |
-| Experimental probability | Relative frequency from data |
-| Theoretical probability | Equally likely outcomes |
-| Sample space | Complete list of possible outcomes |
-| Event | Subset of sample space |
-| Tree diagram | Multi-step sample spaces |
-| Sampling | Estimating population behaviour |
-| Law of large numbers | Long-run experimental probability |
-| Gambler's fallacy | Misunderstanding independent trials |
+| Concept                  | Connects To                                   |
+| ------------------------ | --------------------------------------------- |
+| Randomness               | Unpredictable individual outcomes             |
+| Probability scale        | Values from impossible \(0\) to certain \(1\) |
+| Experimental probability | Relative frequency from data                  |
+| Theoretical probability  | Equally likely outcomes                       |
+| Sample space             | Complete list of possible outcomes            |
+| Event                    | Subset of sample space                        |
+| Tree diagram             | Multi-step sample spaces                      |
+| Sampling                 | Estimating population behaviour               |
+| Law of large numbers     | Long-run experimental probability             |
+| Gambler's fallacy        | Misunderstanding independent trials           |
 
 ---
 
@@ -2364,4 +2365,4 @@ The best habit is to slow down at the start. Most probability mistakes happen be
 
 ---
 
-*Source: NCERT Class 9 - Maths, Chapter 7 raw file. Learner-facing version manually rewritten from the extracted chapter content about probability.*
+_Source: NCERT Class 9 - Maths, Chapter 7 raw file. Learner-facing version manually rewritten from the extracted chapter content about probability._

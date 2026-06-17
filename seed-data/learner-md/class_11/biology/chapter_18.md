@@ -4,16 +4,16 @@ Class 11 Biology
 
 ## Chapter Profile
 
-| Item | Details |
-|---|---|
-| Class | 11 |
-| Subject | Biology |
-| Chapter | 18 |
-| Title | Neural Control and Coordination |
-| Main theme | Rapid coordination through neurons, nerves, synapses, brain, and spinal cord |
-| Main processes | Impulse generation, impulse conduction, synaptic transmission, brain control |
-| Core skill | Track information flow from stimulus to neuron to CNS to response |
-| Learner goal | Explain how the neural system detects stimuli, transmits impulses, and coordinates body functions |
+| Item           | Details                                                                                           |
+| -------------- | ------------------------------------------------------------------------------------------------- |
+| Class          | 11                                                                                                |
+| Subject        | Biology                                                                                           |
+| Chapter        | 18                                                                                                |
+| Title          | Neural Control and Coordination                                                                   |
+| Main theme     | Rapid coordination through neurons, nerves, synapses, brain, and spinal cord                      |
+| Main processes | Impulse generation, impulse conduction, synaptic transmission, brain control                      |
+| Core skill     | Track information flow from stimulus to neuron to CNS to response                                 |
+| Learner goal   | Explain how the neural system detects stimuli, transmits impulses, and coordinates body functions |
 
 ## How To Study This Chapter
 
@@ -73,56 +73,56 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Coordination | Interaction of organs so their functions complement one another |
-| Homeostasis | Maintenance of stable internal conditions |
-| Neural system | System of neurons and nerves for rapid coordination |
-| Endocrine system | Hormone-based coordination system |
-| Neuron | Structural and functional unit of neural system |
-| CNS | Central neural system, brain and spinal cord |
-| PNS | Peripheral neural system, nerves associated with CNS |
-| Afferent fibre | Nerve fibre carrying impulses from tissues to CNS |
-| Efferent fibre | Nerve fibre carrying impulses from CNS to tissues |
-| Somatic neural system | PNS division carrying impulses to skeletal muscles |
-| Autonomic neural system | PNS division controlling involuntary organs |
-| Sympathetic system | Autonomic division often linked with emergency responses |
-| Parasympathetic system | Autonomic division often linked with rest and maintenance |
-| Cell body | Neuron part containing nucleus, cytoplasm, organelles, and Nissl granules |
-| Dendrite | Short branched fibre carrying impulses toward cell body |
-| Axon | Long fibre carrying impulses away from cell body |
-| Synaptic knob | Bulb-like axon terminal containing neurotransmitter vesicles |
-| Neurotransmitter | Chemical transmitting signal across chemical synapse |
-| Nissl granules | Granular bodies in neuron cell body and dendrites |
-| Myelin sheath | Insulating covering around some axons |
-| Schwann cell | Cell forming myelin sheath in peripheral nerve fibres |
-| Node of Ranvier | Gap between adjacent myelin sheath segments |
-| Resting potential | Electrical potential difference across resting neuron membrane |
-| Action potential | Electrical change produced during nerve impulse |
-| Polarisation | Resting state with outside positive and inside negative |
-| Depolarisation | Reversal of membrane polarity during impulse generation |
-| Repolarisation | Return of membrane toward resting polarity |
-| Sodium-potassium pump | Pump moving 3 Na+ out and 2 K+ in |
-| Synapse | Junction between two neurons or neuron and effector cell |
-| Synaptic cleft | Gap between pre-synaptic and post-synaptic membranes |
-| Electrical synapse | Synapse allowing direct electrical current flow |
-| Chemical synapse | Synapse using neurotransmitters |
-| Brain stem | Midbrain, pons, and medulla oblongata |
-| Cerebral cortex | Outer grey matter of cerebrum |
-| Corpus callosum | Nerve tract connecting cerebral hemispheres |
-| Limbic system | Brain region linked with emotion, motivation, and behaviour |
+| Term                    | Meaning                                                                   |
+| ----------------------- | ------------------------------------------------------------------------- |
+| Coordination            | Interaction of organs so their functions complement one another           |
+| Homeostasis             | Maintenance of stable internal conditions                                 |
+| Neural system           | System of neurons and nerves for rapid coordination                       |
+| Endocrine system        | Hormone-based coordination system                                         |
+| Neuron                  | Structural and functional unit of neural system                           |
+| CNS                     | Central neural system, brain and spinal cord                              |
+| PNS                     | Peripheral neural system, nerves associated with CNS                      |
+| Afferent fibre          | Nerve fibre carrying impulses from tissues to CNS                         |
+| Efferent fibre          | Nerve fibre carrying impulses from CNS to tissues                         |
+| Somatic neural system   | PNS division carrying impulses to skeletal muscles                        |
+| Autonomic neural system | PNS division controlling involuntary organs                               |
+| Sympathetic system      | Autonomic division often linked with emergency responses                  |
+| Parasympathetic system  | Autonomic division often linked with rest and maintenance                 |
+| Cell body               | Neuron part containing nucleus, cytoplasm, organelles, and Nissl granules |
+| Dendrite                | Short branched fibre carrying impulses toward cell body                   |
+| Axon                    | Long fibre carrying impulses away from cell body                          |
+| Synaptic knob           | Bulb-like axon terminal containing neurotransmitter vesicles              |
+| Neurotransmitter        | Chemical transmitting signal across chemical synapse                      |
+| Nissl granules          | Granular bodies in neuron cell body and dendrites                         |
+| Myelin sheath           | Insulating covering around some axons                                     |
+| Schwann cell            | Cell forming myelin sheath in peripheral nerve fibres                     |
+| Node of Ranvier         | Gap between adjacent myelin sheath segments                               |
+| Resting potential       | Electrical potential difference across resting neuron membrane            |
+| Action potential        | Electrical change produced during nerve impulse                           |
+| Polarisation            | Resting state with outside positive and inside negative                   |
+| Depolarisation          | Reversal of membrane polarity during impulse generation                   |
+| Repolarisation          | Return of membrane toward resting polarity                                |
+| Sodium-potassium pump   | Pump moving 3 Na+ out and 2 K+ in                                         |
+| Synapse                 | Junction between two neurons or neuron and effector cell                  |
+| Synaptic cleft          | Gap between pre-synaptic and post-synaptic membranes                      |
+| Electrical synapse      | Synapse allowing direct electrical current flow                           |
+| Chemical synapse        | Synapse using neurotransmitters                                           |
+| Brain stem              | Midbrain, pons, and medulla oblongata                                     |
+| Cerebral cortex         | Outer grey matter of cerebrum                                             |
+| Corpus callosum         | Nerve tract connecting cerebral hemispheres                               |
+| Limbic system           | Brain region linked with emotion, motivation, and behaviour               |
 
 ## Chapter Map
 
-| Unit | Topic | What To Master |
-|---|---|---|
-| 18.0 | Coordination | Neural and endocrine integration |
-| 18.1 | Neural system | Neurons and animal neural organisation |
-| 18.2 | Human neural system | CNS, PNS, somatic, autonomic |
-| 18.3 | Neuron | Structure, types, myelin |
-| 18.3.1 | Impulse conduction | Polarisation, depolarisation, repolarisation |
-| 18.3.2 | Synapse | Electrical and chemical transmission |
-| 18.4 | CNS | Brain regions and functions |
+| Unit   | Topic               | What To Master                               |
+| ------ | ------------------- | -------------------------------------------- |
+| 18.0   | Coordination        | Neural and endocrine integration             |
+| 18.1   | Neural system       | Neurons and animal neural organisation       |
+| 18.2   | Human neural system | CNS, PNS, somatic, autonomic                 |
+| 18.3   | Neuron              | Structure, types, myelin                     |
+| 18.3.1 | Impulse conduction  | Polarisation, depolarisation, repolarisation |
+| 18.3.2 | Synapse             | Electrical and chemical transmission         |
+| 18.4   | CNS                 | Brain regions and functions                  |
 
 ## 1. Coordination
 
@@ -172,13 +172,13 @@ Hormones travel through blood to target tissues.
 
 ## 2.3 Neural And Endocrine Systems Compared
 
-| Feature | Neural System | Endocrine System |
-|---|---|---|
-| Signal | Nerve impulse and neurotransmitter | Hormone |
-| Speed | Fast | Usually slower |
-| Pathway | Neurons and synapses | Blood |
-| Effect duration | Usually short | Often longer |
-| Targeting | Point-to-point | Depends on receptors in target tissues |
+| Feature         | Neural System                      | Endocrine System                       |
+| --------------- | ---------------------------------- | -------------------------------------- |
+| Signal          | Nerve impulse and neurotransmitter | Hormone                                |
+| Speed           | Fast                               | Usually slower                         |
+| Pathway         | Neurons and synapses               | Blood                                  |
+| Effect duration | Usually short                      | Often longer                           |
+| Targeting       | Point-to-point                     | Depends on receptors in target tissues |
 
 ## 3. Neural System In Animals
 
@@ -457,13 +457,13 @@ Conduction is generally slower than in myelinated fibres.
 
 ## 15.3 Myelinated And Non-Myelinated Fibres Compared
 
-| Feature | Myelinated Fibre | Non-Myelinated Fibre |
-|---|---|---|
-| Myelin sheath | Present | Absent |
-| Schwann cell role | Forms myelin | Encloses axon without myelin |
-| Nodes of Ranvier | Present | Absent |
-| Conduction speed | Faster | Slower |
-| Common location | Spinal and cranial nerves | Autonomic fibres and some somatic fibres |
+| Feature           | Myelinated Fibre          | Non-Myelinated Fibre                     |
+| ----------------- | ------------------------- | ---------------------------------------- |
+| Myelin sheath     | Present                   | Absent                                   |
+| Schwann cell role | Forms myelin              | Encloses axon without myelin             |
+| Nodes of Ranvier  | Present                   | Absent                                   |
+| Conduction speed  | Faster                    | Slower                                   |
+| Common location   | Spinal and cranial nerves | Autonomic fibres and some somatic fibres |
 
 ## 16. Resting Neuron Is Polarised
 
@@ -573,14 +573,14 @@ This return toward resting state is repolarisation.
 
 ## 23. Impulse Conduction Summary
 
-| Stage | Main Event |
-|---|---|
-| Resting state | Outside positive, inside negative |
-| Stimulus | Na+ channels open |
-| Depolarisation | Na+ enters, inside becomes positive |
-| Local current | Adjacent membrane region is stimulated |
-| Propagation | Depolarisation moves along axon |
-| Repolarisation | K+ exits, resting state returns |
+| Stage          | Main Event                             |
+| -------------- | -------------------------------------- |
+| Resting state  | Outside positive, inside negative      |
+| Stimulus       | Na+ channels open                      |
+| Depolarisation | Na+ enters, inside becomes positive    |
+| Local current  | Adjacent membrane region is stimulated |
+| Propagation    | Depolarisation moves along axon        |
+| Repolarisation | K+ exits, resting state returns        |
 
 ## 24. Synapse
 
@@ -636,13 +636,13 @@ The new potential may be:
 
 ## 28. Electrical And Chemical Synapses Compared
 
-| Feature | Electrical Synapse | Chemical Synapse |
-|---|---|---|
-| Gap | Very small or direct contact | Synaptic cleft present |
-| Signal | Electrical current | Neurotransmitter |
-| Speed | Faster | Slower |
-| Direction | Often direct current flow | Usually one-way in typical synapse |
-| Commonness in humans | Rare | Common |
+| Feature              | Electrical Synapse           | Chemical Synapse                   |
+| -------------------- | ---------------------------- | ---------------------------------- |
+| Gap                  | Very small or direct contact | Synaptic cleft present             |
+| Signal               | Electrical current           | Neurotransmitter                   |
+| Speed                | Faster                       | Slower                             |
+| Direction            | Often direct current flow    | Usually one-way in typical synapse |
+| Commonness in humans | Rare                         | Common                             |
 
 ## 29. Central Neural System
 
@@ -680,11 +680,11 @@ Brain is protected by:
 
 Cranial meninges have three layers:
 
-| Layer | Position |
-|---|---|
-| Dura mater | Outer layer |
-| Arachnoid | Thin middle layer |
-| Pia mater | Inner layer in contact with brain tissue |
+| Layer      | Position                                 |
+| ---------- | ---------------------------------------- |
+| Dura mater | Outer layer                              |
+| Arachnoid  | Thin middle layer                        |
+| Pia mater  | Inner layer in contact with brain tissue |
 
 ## 31. Major Parts Of Brain
 
@@ -852,16 +852,16 @@ It contains centres controlling:
 
 ## 39. Major Brain Functions Summary
 
-| Brain Part | Major Functions |
-|---|---|
-| Cerebrum | Higher functions, sensory and motor areas, memory, communication |
-| Thalamus | Sensory and motor relay |
-| Hypothalamus | Temperature, hunger, thirst, hormones, circadian rhythms |
-| Limbic system | Emotion, motivation, sexual behaviour |
-| Midbrain | Visual and auditory reflex integration |
-| Pons | Interconnects brain regions |
-| Cerebellum | Balance and motor coordination |
-| Medulla | Respiration, cardiovascular reflexes, gastric secretions |
+| Brain Part    | Major Functions                                                  |
+| ------------- | ---------------------------------------------------------------- |
+| Cerebrum      | Higher functions, sensory and motor areas, memory, communication |
+| Thalamus      | Sensory and motor relay                                          |
+| Hypothalamus  | Temperature, hunger, thirst, hormones, circadian rhythms         |
+| Limbic system | Emotion, motivation, sexual behaviour                            |
+| Midbrain      | Visual and auditory reflex integration                           |
+| Pons          | Interconnects brain regions                                      |
+| Cerebellum    | Balance and motor coordination                                   |
+| Medulla       | Respiration, cardiovascular reflexes, gastric secretions         |
 
 ## 40. Common Misconceptions
 
@@ -979,74 +979,74 @@ It regulates circadian rhythms.
 
 ## 42.1 CNS And PNS
 
-| Feature | CNS | PNS |
-|---|---|---|
-| Components | Brain and spinal cord | Nerves associated with CNS |
-| Main role | Processing and control | Communication between CNS and body |
-| Location | Central axis | Throughout body |
-| Includes | Brain, spinal cord | Cranial nerves, spinal nerves, peripheral fibres |
+| Feature    | CNS                    | PNS                                              |
+| ---------- | ---------------------- | ------------------------------------------------ |
+| Components | Brain and spinal cord  | Nerves associated with CNS                       |
+| Main role  | Processing and control | Communication between CNS and body               |
+| Location   | Central axis           | Throughout body                                  |
+| Includes   | Brain, spinal cord     | Cranial nerves, spinal nerves, peripheral fibres |
 
 ## 42.2 Resting Potential And Action Potential
 
-| Feature | Resting Potential | Action Potential |
-|---|---|---|
-| State | Neuron not conducting impulse | Neuron conducting impulse |
-| Polarity | Outside positive, inside negative | Local reversal of polarity |
-| Ion event | K+ permeability high, Na+ low | Na+ influx |
-| Meaning | Polarised membrane | Nerve impulse |
+| Feature   | Resting Potential                 | Action Potential           |
+| --------- | --------------------------------- | -------------------------- |
+| State     | Neuron not conducting impulse     | Neuron conducting impulse  |
+| Polarity  | Outside positive, inside negative | Local reversal of polarity |
+| Ion event | K+ permeability high, Na+ low     | Na+ influx                 |
+| Meaning   | Polarised membrane                | Nerve impulse              |
 
 ## 42.3 Dendrite And Axon
 
-| Feature | Dendrite | Axon |
-|---|---|---|
-| Length | Usually short | Usually long |
-| Branching | Highly branched near cell body | Branched at distal end |
-| Direction | Toward cell body | Away from cell body |
-| Nissl granules | Present | Usually absent in axon |
-| Terminal | No synaptic knob as main feature | Synaptic knobs present |
+| Feature        | Dendrite                         | Axon                   |
+| -------------- | -------------------------------- | ---------------------- |
+| Length         | Usually short                    | Usually long           |
+| Branching      | Highly branched near cell body   | Branched at distal end |
+| Direction      | Toward cell body                 | Away from cell body    |
+| Nissl granules | Present                          | Usually absent in axon |
+| Terminal       | No synaptic knob as main feature | Synaptic knobs present |
 
 ## 42.4 Thalamus And Hypothalamus
 
-| Feature | Thalamus | Hypothalamus |
-|---|---|---|
-| Position | Forebrain, wrapped by cerebrum | Base of thalamus |
-| Main role | Sensory and motor coordination relay | Homeostatic and endocrine control |
-| Controls | Signal relay | Temperature, hunger, thirst, hormones |
-| Circadian role | Not main master clock | Master clock region |
+| Feature        | Thalamus                             | Hypothalamus                          |
+| -------------- | ------------------------------------ | ------------------------------------- |
+| Position       | Forebrain, wrapped by cerebrum       | Base of thalamus                      |
+| Main role      | Sensory and motor coordination relay | Homeostatic and endocrine control     |
+| Controls       | Signal relay                         | Temperature, hunger, thirst, hormones |
+| Circadian role | Not main master clock                | Master clock region                   |
 
 ## 42.5 Cerebrum And Cerebellum
 
-| Feature | Cerebrum | Cerebellum |
-|---|---|---|
-| Brain division | Forebrain | Hindbrain |
-| Size | Largest and most developed | Smaller but highly folded |
-| Main role | Higher functions, sensory, motor, memory | Balance and coordination |
-| Cortex | Cerebral cortex | Cerebellar cortex |
+| Feature        | Cerebrum                                 | Cerebellum                |
+| -------------- | ---------------------------------------- | ------------------------- |
+| Brain division | Forebrain                                | Hindbrain                 |
+| Size           | Largest and most developed               | Smaller but highly folded |
+| Main role      | Higher functions, sensory, motor, memory | Balance and coordination  |
+| Cortex         | Cerebral cortex                          | Cerebellar cortex         |
 
 ## 42.6 Myelinated And Non-Myelinated Axons
 
-| Feature | Myelinated Axon | Non-Myelinated Axon |
-|---|---|---|
-| Myelin sheath | Present | Absent |
-| Nodes of Ranvier | Present | Absent |
-| Conduction | Faster | Slower |
-| Schwann cell | Forms sheath | Encloses without sheath |
+| Feature          | Myelinated Axon | Non-Myelinated Axon     |
+| ---------------- | --------------- | ----------------------- |
+| Myelin sheath    | Present         | Absent                  |
+| Nodes of Ranvier | Present         | Absent                  |
+| Conduction       | Faster          | Slower                  |
+| Schwann cell     | Forms sheath    | Encloses without sheath |
 
 ## 42.7 Afferent And Efferent Neurons
 
-| Feature | Afferent | Efferent |
-|---|---|---|
-| Direction | Tissue to CNS | CNS to tissue |
-| Function | Sensory input | Motor or regulatory output |
-| Example | Pain signal to spinal cord | Signal to skeletal muscle |
+| Feature   | Afferent                   | Efferent                   |
+| --------- | -------------------------- | -------------------------- |
+| Direction | Tissue to CNS              | CNS to tissue              |
+| Function  | Sensory input              | Motor or regulatory output |
+| Example   | Pain signal to spinal cord | Signal to skeletal muscle  |
 
 ## 42.8 Cranial And Spinal Nerves
 
-| Feature | Cranial Nerves | Spinal Nerves |
-|---|---|---|
-| Origin | Brain | Spinal cord |
-| Number in humans | 12 pairs | 31 pairs |
-| Distribution | Mainly head, neck, and some visceral regions | Trunk and limbs |
+| Feature          | Cranial Nerves                               | Spinal Nerves   |
+| ---------------- | -------------------------------------------- | --------------- |
+| Origin           | Brain                                        | Spinal cord     |
+| Number in humans | 12 pairs                                     | 31 pairs        |
+| Distribution     | Mainly head, neck, and some visceral regions | Trunk and limbs |
 
 ## 43. Exam-Oriented Answers
 
@@ -1270,45 +1270,45 @@ The neurotransmitter binds receptors and generates a new potential in the post-s
 
 ## 47. Rapid Revision Sheet
 
-| Topic | One-Line Revision |
-|---|---|
-| Coordination | Organ functions work together |
-| Neural system | Fast point-to-point control |
-| Endocrine system | Hormonal integration |
-| CNS | Brain and spinal cord |
-| PNS | Nerves outside CNS |
-| Afferent | To CNS |
-| Efferent | From CNS |
-| Somatic | Skeletal muscles |
-| Autonomic | Involuntary organs |
-| Dendrite | Toward cell body |
-| Axon | Away from cell body |
-| Synaptic knob | Neurotransmitter vesicles |
-| Multipolar | One axon, many dendrites |
-| Bipolar | One axon, one dendrite |
-| Myelin | Speeds conduction |
-| Resting potential | Polarised membrane |
-| Depolarisation | Na+ influx |
-| Repolarisation | K+ efflux |
-| Electrical synapse | Faster, rare |
-| Chemical synapse | Neurotransmitter-based |
-| Dura mater | Outer meninx |
-| Arachnoid | Middle meninx |
-| Pia mater | Inner meninx |
-| Cerebrum | Most developed brain part |
-| Corpus callosum | Connects hemispheres |
-| Cerebral cortex | Grey matter |
-| Thalamus | Sensory motor relay |
-| Hypothalamus | Temperature, hunger, thirst, hormones |
-| Limbic system | Emotion and motivation |
-| Midbrain | Corpora quadrigemina |
-| Pons | Brain region connections |
-| Cerebellum | Balance and coordination |
-| Medulla | Respiration and cardiovascular centres |
+| Topic              | One-Line Revision                      |
+| ------------------ | -------------------------------------- |
+| Coordination       | Organ functions work together          |
+| Neural system      | Fast point-to-point control            |
+| Endocrine system   | Hormonal integration                   |
+| CNS                | Brain and spinal cord                  |
+| PNS                | Nerves outside CNS                     |
+| Afferent           | To CNS                                 |
+| Efferent           | From CNS                               |
+| Somatic            | Skeletal muscles                       |
+| Autonomic          | Involuntary organs                     |
+| Dendrite           | Toward cell body                       |
+| Axon               | Away from cell body                    |
+| Synaptic knob      | Neurotransmitter vesicles              |
+| Multipolar         | One axon, many dendrites               |
+| Bipolar            | One axon, one dendrite                 |
+| Myelin             | Speeds conduction                      |
+| Resting potential  | Polarised membrane                     |
+| Depolarisation     | Na+ influx                             |
+| Repolarisation     | K+ efflux                              |
+| Electrical synapse | Faster, rare                           |
+| Chemical synapse   | Neurotransmitter-based                 |
+| Dura mater         | Outer meninx                           |
+| Arachnoid          | Middle meninx                          |
+| Pia mater          | Inner meninx                           |
+| Cerebrum           | Most developed brain part              |
+| Corpus callosum    | Connects hemispheres                   |
+| Cerebral cortex    | Grey matter                            |
+| Thalamus           | Sensory motor relay                    |
+| Hypothalamus       | Temperature, hunger, thirst, hormones  |
+| Limbic system      | Emotion and motivation                 |
+| Midbrain           | Corpora quadrigemina                   |
+| Pons               | Brain region connections               |
+| Cerebellum         | Balance and coordination               |
+| Medulla            | Respiration and cardiovascular centres |
 
 ## 48. Raw File Reference
 
-| Item | Path |
-|---|---|
-| Raw input | `data/class_11/biology/chapter_18.md` |
+| Item             | Path                                             |
+| ---------------- | ------------------------------------------------ |
+| Raw input        | `data/class_11/biology/chapter_18.md`            |
 | Formatted output | `data_learner_md/class_11/biology/chapter_18.md` |

@@ -1,4 +1,5 @@
 # Chapter 1: Ray Optics and Optical Instruments
+
 ### NCERT Class 12 - Physics Part 2
 
 ## Chapter at a Glance
@@ -27,48 +28,48 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Ray | Ideal straight-line path followed by light energy in geometrical optics. |
-| Beam | A bundle of rays. |
-| Pole | Geometrical centre of a spherical mirror. |
-| Centre of curvature | Centre of the sphere of which a mirror or refracting surface is a part. |
-| Principal axis | Line joining the pole and centre of curvature of a mirror, or optical centre and focus of a lens. |
-| Principal focus | Point on the principal axis where parallel paraxial rays meet or appear to meet. |
-| Focal length | Distance between the pole or optical centre and the principal focus. |
-| Paraxial rays | Rays close to the principal axis and making small angles with it. |
-| Real image | Image formed when rays actually meet. |
-| Virtual image | Image formed when rays only appear to meet when extended backward. |
-| Refractive index | Ratio of speed of light in vacuum to speed of light in the medium. |
-| Critical angle | Angle of incidence in denser medium for which angle of refraction in rarer medium is 90 degrees. |
+| Term                      | Meaning                                                                                                    |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| Ray                       | Ideal straight-line path followed by light energy in geometrical optics.                                   |
+| Beam                      | A bundle of rays.                                                                                          |
+| Pole                      | Geometrical centre of a spherical mirror.                                                                  |
+| Centre of curvature       | Centre of the sphere of which a mirror or refracting surface is a part.                                    |
+| Principal axis            | Line joining the pole and centre of curvature of a mirror, or optical centre and focus of a lens.          |
+| Principal focus           | Point on the principal axis where parallel paraxial rays meet or appear to meet.                           |
+| Focal length              | Distance between the pole or optical centre and the principal focus.                                       |
+| Paraxial rays             | Rays close to the principal axis and making small angles with it.                                          |
+| Real image                | Image formed when rays actually meet.                                                                      |
+| Virtual image             | Image formed when rays only appear to meet when extended backward.                                         |
+| Refractive index          | Ratio of speed of light in vacuum to speed of light in the medium.                                         |
+| Critical angle            | Angle of incidence in denser medium for which angle of refraction in rarer medium is 90 degrees.           |
 | Total internal reflection | Complete reflection of light inside the denser medium when incidence angle is greater than critical angle. |
-| Dioptre | SI unit of power of a lens, equal to inverse metre. |
+| Dioptre                   | SI unit of power of a lens, equal to inverse metre.                                                        |
 
 ## Quick Formula Map
 
-| Idea | Formula |
-|---|---|
-| Speed of light in vacuum | `c = 3 x 10^8 m/s` |
-| Mirror focal length | `f = R/2` |
-| Mirror formula | `1/v + 1/u = 1/f` |
-| Mirror magnification | `m = h'/h = -v/u` |
-| Snell's law | `n1 sin i = n2 sin r` |
-| Relative refractive index | `n21 = v1/v2 = n2/n1` |
-| Apparent depth | `apparent depth = real depth / n` |
-| Critical angle | `sin ic = n2/n1` for `n1 > n2` |
-| Refraction at spherical surface | `n2/v - n1/u = (n2 - n1)/R` |
-| Thin lens formula | `1/v - 1/u = 1/f` |
-| Lens magnification | `m = h'/h = v/u` |
-| Lens maker's formula in air | `1/f = (n - 1)(1/R1 - 1/R2)` |
-| Power of lens | `P = 1/f` when `f` is in metre |
-| Lenses in contact | `P = P1 + P2 + P3 + ...` |
-| Prism relation | `r1 + r2 = A` |
-| Prism deviation | `delta = i + e - A` |
-| Prism refractive index | `n = sin[(A + Dm)/2] / sin(A/2)` |
-| Simple microscope, near point | `M = 1 + D/f` |
-| Simple microscope, final image at infinity | `M = D/f` |
-| Compound microscope, near point | `M = (L/fo)(1 + D/fe)` |
-| Astronomical telescope, normal adjustment | `M = fo/fe` |
+| Idea                                       | Formula                           |
+| ------------------------------------------ | --------------------------------- |
+| Speed of light in vacuum                   | `c = 3 x 10^8 m/s`                |
+| Mirror focal length                        | `f = R/2`                         |
+| Mirror formula                             | `1/v + 1/u = 1/f`                 |
+| Mirror magnification                       | `m = h'/h = -v/u`                 |
+| Snell's law                                | `n1 sin i = n2 sin r`             |
+| Relative refractive index                  | `n21 = v1/v2 = n2/n1`             |
+| Apparent depth                             | `apparent depth = real depth / n` |
+| Critical angle                             | `sin ic = n2/n1` for `n1 > n2`    |
+| Refraction at spherical surface            | `n2/v - n1/u = (n2 - n1)/R`       |
+| Thin lens formula                          | `1/v - 1/u = 1/f`                 |
+| Lens magnification                         | `m = h'/h = v/u`                  |
+| Lens maker's formula in air                | `1/f = (n - 1)(1/R1 - 1/R2)`      |
+| Power of lens                              | `P = 1/f` when `f` is in metre    |
+| Lenses in contact                          | `P = P1 + P2 + P3 + ...`          |
+| Prism relation                             | `r1 + r2 = A`                     |
+| Prism deviation                            | `delta = i + e - A`               |
+| Prism refractive index                     | `n = sin[(A + Dm)/2] / sin(A/2)`  |
+| Simple microscope, near point              | `M = 1 + D/f`                     |
+| Simple microscope, final image at infinity | `M = D/f`                         |
+| Compound microscope, near point            | `M = (L/fo)(1 + D/fe)`            |
+| Astronomical telescope, normal adjustment  | `M = fo/fe`                       |
 
 # Unit 1A: Ray Optics Approximation
 
@@ -705,16 +706,16 @@ A prism has angle `60 degrees` and minimum deviation `40 degrees`. Find refracti
 
 # Unit 1U: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Using mirror and lens formula interchangeably. | Mirror: `1/v + 1/u = 1/f`; lens: `1/v - 1/u = 1/f`. |
-| Forgetting signs. | Assign signs before substituting values. |
-| Treating optical density as mass density. | Optical density depends on speed of light in medium. |
-| Saying convex mirror forms real image. | Convex mirror normally forms virtual, erect, diminished image. |
-| Using focal length in cm for power. | Convert focal length to metre before `P = 1/f`. |
-| Saying total internal reflection occurs from rarer to denser medium. | It occurs only from denser to rarer medium. |
-| Assuming all virtual images are diminished. | A concave mirror can form virtual and enlarged image. |
-| Forgetting that prism minimum deviation has symmetric path. | At minimum deviation, `i = e` and `r1 = r2`. |
+| Mistake                                                              | Correction                                                     |
+| -------------------------------------------------------------------- | -------------------------------------------------------------- |
+| Using mirror and lens formula interchangeably.                       | Mirror: `1/v + 1/u = 1/f`; lens: `1/v - 1/u = 1/f`.            |
+| Forgetting signs.                                                    | Assign signs before substituting values.                       |
+| Treating optical density as mass density.                            | Optical density depends on speed of light in medium.           |
+| Saying convex mirror forms real image.                               | Convex mirror normally forms virtual, erect, diminished image. |
+| Using focal length in cm for power.                                  | Convert focal length to metre before `P = 1/f`.                |
+| Saying total internal reflection occurs from rarer to denser medium. | It occurs only from denser to rarer medium.                    |
+| Assuming all virtual images are diminished.                          | A concave mirror can form virtual and enlarged image.          |
+| Forgetting that prism minimum deviation has symmetric path.          | At minimum deviation, `i = e` and `r1 = r2`.                   |
 
 ## Practice Set
 

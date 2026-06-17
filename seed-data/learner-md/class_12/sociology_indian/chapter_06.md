@@ -1,4 +1,5 @@
 # Chapter 6: The Challenges of Cultural Diversity
+
 ### NCERT Class 12 - Sociology Indian Society
 
 ## Chapter at a Glance
@@ -26,32 +27,32 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Cultural diversity | Coexistence of many cultural groups, languages, religions, regions, castes, tribes, and identities. |
-| Community identity | Sense of belonging to a group based on birth, culture, language, religion, region, or shared history. |
-| Ascriptive identity | Identity given by birth, not achieved by choice or qualification. |
-| Nation | Large political community that sees itself as belonging together. |
-| State | Political-legal institution claiming authority over territory and population. |
-| Nation-state | Modern form where state claims to represent a nation. |
-| Assimilation | Policy pushing groups to adopt dominant culture. |
-| Integration | Policy allowing private difference but requiring common public national culture. |
-| Regionalism | Assertion of regional identity, interest, or autonomy. |
-| Minority | Group smaller or less powerful than dominant group, often needing protection. |
-| Communalism | Aggressive political ideology based on religious identity. |
-| Secularism | Principle that state should not privilege one religion over others. |
-| Civil society | Non-state, non-market public sphere of voluntary associations and active citizenship. |
+| Term                | Meaning                                                                                               |
+| ------------------- | ----------------------------------------------------------------------------------------------------- |
+| Cultural diversity  | Coexistence of many cultural groups, languages, religions, regions, castes, tribes, and identities.   |
+| Community identity  | Sense of belonging to a group based on birth, culture, language, religion, region, or shared history. |
+| Ascriptive identity | Identity given by birth, not achieved by choice or qualification.                                     |
+| Nation              | Large political community that sees itself as belonging together.                                     |
+| State               | Political-legal institution claiming authority over territory and population.                         |
+| Nation-state        | Modern form where state claims to represent a nation.                                                 |
+| Assimilation        | Policy pushing groups to adopt dominant culture.                                                      |
+| Integration         | Policy allowing private difference but requiring common public national culture.                      |
+| Regionalism         | Assertion of regional identity, interest, or autonomy.                                                |
+| Minority            | Group smaller or less powerful than dominant group, often needing protection.                         |
+| Communalism         | Aggressive political ideology based on religious identity.                                            |
+| Secularism          | Principle that state should not privilege one religion over others.                                   |
+| Civil society       | Non-state, non-market public sphere of voluntary associations and active citizenship.                 |
 
 ## Concept Map
 
-| Theme | Main question |
-|---|---|
+| Theme              | Main question                                                   |
+| ------------------ | --------------------------------------------------------------- |
 | Community identity | Why do people feel strongly attached to birth-based identities? |
-| Nation-state | How does state build unity across diversity? |
-| Assimilation | What happens when minorities are forced into dominant culture? |
-| Secularism | How can state treat religions fairly? |
-| Minority rights | Why is formal equality not always enough? |
-| Civil society | How do citizens hold state accountable? |
+| Nation-state       | How does state build unity across diversity?                    |
+| Assimilation       | What happens when minorities are forced into dominant culture?  |
+| Secularism         | How can state treat religions fairly?                           |
+| Minority rights    | Why is formal equality not always enough?                       |
+| Civil society      | How do citizens hold state accountable?                         |
 
 # Unit 6A: Meaning of Cultural Diversity
 
@@ -425,16 +426,16 @@ A secular state does not mean citizens must abandon religion. In India, it means
 
 # Unit 6O: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Treating diversity and inequality as same. | Diversity means difference; inequality means unequal power and resources. |
-| Saying community identity is always chosen. | Many community identities are ascriptive. |
-| Confusing nation and state. | Nation is imagined political community; state is political-legal institution. |
-| Assuming one language or religion is necessary for unity. | India shows unity can coexist with diversity. |
-| Treating communalism as religion. | Communalism is political use of religious identity. |
-| Saying secularism means hatred of religion. | Indian secularism means equal respect and non-favouritism. |
-| Treating minority protection as anti-national. | Minority rights can strengthen democratic unity. |
-| Thinking civil society is the same as government. | Civil society is outside state control. |
+| Mistake                                                   | Correction                                                                    |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| Treating diversity and inequality as same.                | Diversity means difference; inequality means unequal power and resources.     |
+| Saying community identity is always chosen.               | Many community identities are ascriptive.                                     |
+| Confusing nation and state.                               | Nation is imagined political community; state is political-legal institution. |
+| Assuming one language or religion is necessary for unity. | India shows unity can coexist with diversity.                                 |
+| Treating communalism as religion.                         | Communalism is political use of religious identity.                           |
+| Saying secularism means hatred of religion.               | Indian secularism means equal respect and non-favouritism.                    |
+| Treating minority protection as anti-national.            | Minority rights can strengthen democratic unity.                              |
+| Thinking civil society is the same as government.         | Civil society is outside state control.                                       |
 
 ## Practice Set
 

@@ -60,34 +60,34 @@ After studying this chapter, you should be able to:
 
 ## Chapter Snapshot
 
-| Topic | Main Idea |
-|---|---|
-| Imaginary unit | `i^2 = -1` |
-| Complex number | Number of the form `a + ib`, where a and b are real |
-| Real part | a in `a + ib` |
-| Imaginary part | b in `a + ib` |
-| Equality | Real parts equal and imaginary parts equal |
-| Addition | Add real parts and imaginary parts separately |
-| Multiplication | Use distributive law and `i^2 = -1` |
-| Division | Multiply numerator and denominator by conjugate of denominator |
-| Conjugate | Change sign of imaginary part |
-| Modulus | Distance from origin in Argand plane |
-| Argand plane | Geometric plane for complex numbers |
-| Polar form | `r(cos theta + i sin theta)` |
-| Complex roots | Quadratic roots when discriminant is negative |
+| Topic          | Main Idea                                                      |
+| -------------- | -------------------------------------------------------------- |
+| Imaginary unit | `i^2 = -1`                                                     |
+| Complex number | Number of the form `a + ib`, where a and b are real            |
+| Real part      | a in `a + ib`                                                  |
+| Imaginary part | b in `a + ib`                                                  |
+| Equality       | Real parts equal and imaginary parts equal                     |
+| Addition       | Add real parts and imaginary parts separately                  |
+| Multiplication | Use distributive law and `i^2 = -1`                            |
+| Division       | Multiply numerator and denominator by conjugate of denominator |
+| Conjugate      | Change sign of imaginary part                                  |
+| Modulus        | Distance from origin in Argand plane                           |
+| Argand plane   | Geometric plane for complex numbers                            |
+| Polar form     | `r(cos theta + i sin theta)`                                   |
+| Complex roots  | Quadratic roots when discriminant is negative                  |
 
 ## Essential Notation
 
-| Notation | Meaning |
-|---|---|
-| `i` | Imaginary unit |
-| `i^2 = -1` | Defining property of i |
+| Notation     | Meaning                           |
+| ------------ | --------------------------------- | --- | ------------ |
+| `i`          | Imaginary unit                    |
+| `i^2 = -1`   | Defining property of i            |
 | `z = a + ib` | Standard form of a complex number |
-| `Re z` | Real part of z |
-| `Im z` | Imaginary part of z |
-| `bar z` | Conjugate of z |
-| `|z|` | Modulus of z |
-| `arg z` | Argument of z |
+| `Re z`       | Real part of z                    |
+| `Im z`       | Imaginary part of z               |
+| `bar z`      | Conjugate of z                    |
+| `            | z                                 | `   | Modulus of z |
+| `arg z`      | Argument of z                     |
 
 In formulas:
 
@@ -994,13 +994,13 @@ The vertical axis is the imaginary axis.
 Examples:
 
 | Complex Number | Point In Argand Plane |
-|---|---|
-| `2 + 4i` | `(2, 4)` |
-| `-2 + 3i` | `(-2, 3)` |
-| `i` | `(0, 1)` |
-| `2` | `(2, 0)` |
-| `-5 - 2i` | `(-5, -2)` |
-| `1 - 2i` | `(1, -2)` |
+| -------------- | --------------------- |
+| `2 + 4i`       | `(2, 4)`              |
+| `-2 + 3i`      | `(-2, 3)`             |
+| `i`            | `(0, 1)`              |
+| `2`            | `(2, 0)`              |
+| `-5 - 2i`      | `(-5, -2)`            |
+| `1 - 2i`       | `(1, -2)`             |
 
 ## 23. Modulus In The Argand Plane
 
@@ -1367,34 +1367,34 @@ If an expression involving `x` and `y` is said to equal the conjugate of a given
 
 ## 31. Key Formulas In One Table
 
-| Idea | Formula |
-|---|---|
-| Imaginary unit | `i^2 = -1` |
-| Complex number | `z = a + ib` |
-| Equality | `a+ib = c+id` means `a=c` and `b=d` |
-| Addition | `(a+ib)+(c+id) = (a+c)+i(b+d)` |
-| Difference | `(a+ib)-(c+id) = (a-c)+i(b-d)` |
-| Product | `(a+ib)(c+id) = (ac-bd)+i(ad+bc)` |
-| Conjugate | `bar z = a - ib` |
-| Modulus | `|z| = sqrt(a^2+b^2)` |
-| Modulus square | `z bar z = |z|^2` |
-| Inverse | `1/(a+ib) = (a-ib)/(a^2+b^2)` |
-| Polar form | `z = r(cos theta + i sin theta)` |
-| Quadratic formula | `x = (-b +- sqrt(D))/(2a)` |
-| Negative discriminant roots | `x = (-b +- i sqrt(-D))/(2a)` |
+| Idea                        | Formula                             |
+| --------------------------- | ----------------------------------- | --- | ---------------- |
+| Imaginary unit              | `i^2 = -1`                          |
+| Complex number              | `z = a + ib`                        |
+| Equality                    | `a+ib = c+id` means `a=c` and `b=d` |
+| Addition                    | `(a+ib)+(c+id) = (a+c)+i(b+d)`      |
+| Difference                  | `(a+ib)-(c+id) = (a-c)+i(b-d)`      |
+| Product                     | `(a+ib)(c+id) = (ac-bd)+i(ad+bc)`   |
+| Conjugate                   | `bar z = a - ib`                    |
+| Modulus                     | `                                   | z   | = sqrt(a^2+b^2)` |
+| Modulus square              | `z bar z =                          | z   | ^2`              |
+| Inverse                     | `1/(a+ib) = (a-ib)/(a^2+b^2)`       |
+| Polar form                  | `z = r(cos theta + i sin theta)`    |
+| Quadratic formula           | `x = (-b +- sqrt(D))/(2a)`          |
+| Negative discriminant roots | `x = (-b +- i sqrt(-D))/(2a)`       |
 
 ## 32. Common Mistakes And Corrections
 
-| Mistake | Correction |
-|---|---|
-| Thinking imaginary part of `3+5i` is `5i` | Imaginary part is `5` |
-| Forgetting `i^2 = -1` | Replace every `i^2` by `-1` |
-| Adding real and imaginary parts together | Combine real with real, imaginary with imaginary |
-| Dividing without conjugate | Multiply denominator by its conjugate |
-| Using square-root product law for two negatives | Do not use it when both radicands are negative |
-| Thinking modulus can be negative | Modulus is always non-negative |
-| Thinking conjugate changes real part | Conjugate only changes sign of imaginary part |
-| Forgetting complex roots come in pairs | With real coefficients, non-real roots occur as conjugates |
+| Mistake                                         | Correction                                                 |
+| ----------------------------------------------- | ---------------------------------------------------------- |
+| Thinking imaginary part of `3+5i` is `5i`       | Imaginary part is `5`                                      |
+| Forgetting `i^2 = -1`                           | Replace every `i^2` by `-1`                                |
+| Adding real and imaginary parts together        | Combine real with real, imaginary with imaginary           |
+| Dividing without conjugate                      | Multiply denominator by its conjugate                      |
+| Using square-root product law for two negatives | Do not use it when both radicands are negative             |
+| Thinking modulus can be negative                | Modulus is always non-negative                             |
+| Thinking conjugate changes real part            | Conjugate only changes sign of imaginary part              |
+| Forgetting complex roots come in pairs          | With real coefficients, non-real roots occur as conjugates |
 
 ## 33. Fast Problem-Solving Checklist
 

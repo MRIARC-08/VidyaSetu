@@ -1,4 +1,5 @@
 # Chapter 8: Index Numbers
+
 ### NCERT Class 11 Statistics for Economics
 
 ---
@@ -42,12 +43,12 @@ Base period value is commonly taken as 100.
 
 Example:
 
-| Price index | Meaning |
-|---:|---|
-| 100 | No change from base period |
-| 120 | Prices are 20 percent higher than base period |
-| 80 | Prices are 20 percent lower than base period |
-| 250 | Prices are 150 percent higher than base period |
+| Price index | Meaning                                        |
+| ----------: | ---------------------------------------------- |
+|         100 | No change from base period                     |
+|         120 | Prices are 20 percent higher than base period  |
+|          80 | Prices are 20 percent lower than base period   |
+|         250 | Prices are 150 percent higher than base period |
 
 ---
 
@@ -61,38 +62,38 @@ A household buys rice, wheat, milk, vegetables, fuel, clothing, and transport. I
 
 Index numbers help in:
 
-| Use | Explanation |
-|---|---|
-| Measuring inflation | Shows rise in general price level |
-| Comparing periods | Compares current year with base year |
-| Wage adjustment | Dearness allowance may be linked to price index |
-| Policy decisions | Government studies price, output, and production trends |
-| Business decisions | Firms study demand, production, and market trends |
-| Stock market tracking | Sensex tracks selected share price movement |
+| Use                   | Explanation                                             |
+| --------------------- | ------------------------------------------------------- |
+| Measuring inflation   | Shows rise in general price level                       |
+| Comparing periods     | Compares current year with base year                    |
+| Wage adjustment       | Dearness allowance may be linked to price index         |
+| Policy decisions      | Government studies price, output, and production trends |
+| Business decisions    | Firms study demand, production, and market trends       |
+| Stock market tracking | Sensex tracks selected share price movement             |
 
 ---
 
 ## 3. Important Terms
 
-| Term | Meaning |
-|---|---|
-| Base period | Period used as the reference point |
-| Current period | Period being compared with base period |
-| Price relative | Current price as a percentage of base price |
-| Weight | Relative importance of an item |
-| Basket | Selected group of commodities included in an index |
-| Inflation | Rise in general price level |
+| Term             | Meaning                                                  |
+| ---------------- | -------------------------------------------------------- |
+| Base period      | Period used as the reference point                       |
+| Current period   | Period being compared with base period                   |
+| Price relative   | Current price as a percentage of base price              |
+| Weight           | Relative importance of an item                           |
+| Basket           | Selected group of commodities included in an index       |
+| Inflation        | Rise in general price level                              |
 | Purchasing power | Value of money in terms of goods and services it can buy |
 
 ---
 
 ## 4. Types of Index Numbers
 
-| Type | Measures |
-|---|---|
-| Price index | Change in prices |
+| Type           | Measures                                         |
+| -------------- | ------------------------------------------------ |
+| Price index    | Change in prices                                 |
 | Quantity index | Change in quantities produced, sold, or consumed |
-| Value index | Change in total value, price x quantity |
+| Value index    | Change in total value, price x quantity          |
 
 This chapter mainly focuses on price index numbers.
 
@@ -110,11 +111,11 @@ P01 = (Sigma P1 / Sigma P0) x 100
 
 Where:
 
-| Symbol | Meaning |
-|---|---|
-| P01 | Price index for current period with base period reference |
-| P1 | Current period price |
-| P0 | Base period price |
+| Symbol | Meaning                                                   |
+| ------ | --------------------------------------------------------- |
+| P01    | Price index for current period with base period reference |
+| P1     | Current period price                                      |
+| P0     | Base period price                                         |
 
 ### Steps
 
@@ -182,9 +183,9 @@ P01 = (Sigma P1 Q0 / Sigma P0 Q0) x 100
 
 Where:
 
-| Symbol | Meaning |
-|---|---|
-| Q0 | Base period quantity |
+| Symbol | Meaning              |
+| ------ | -------------------- |
+| Q0     | Base period quantity |
 
 It answers:
 
@@ -202,9 +203,9 @@ P01 = (Sigma P1 Q1 / Sigma P0 Q1) x 100
 
 Where:
 
-| Symbol | Meaning |
-|---|---|
-| Q1 | Current period quantity |
+| Symbol | Meaning                 |
+| ------ | ----------------------- |
+| Q1     | Current period quantity |
 
 It answers:
 
@@ -212,12 +213,12 @@ It answers:
 
 ### Laspeyres vs Paasche
 
-| Basis | Laspeyres | Paasche |
-|---|---|---|
-| Weight used | Base period quantity | Current period quantity |
-| Basket | Base period basket | Current period basket |
-| Formula | Sigma P1Q0 / Sigma P0Q0 x 100 | Sigma P1Q1 / Sigma P0Q1 x 100 |
-| Practical feature | Easier if base quantities are fixed | Requires current quantities |
+| Basis             | Laspeyres                           | Paasche                       |
+| ----------------- | ----------------------------------- | ----------------------------- |
+| Weight used       | Base period quantity                | Current period quantity       |
+| Basket            | Base period basket                  | Current period basket         |
+| Formula           | Sigma P1Q0 / Sigma P0Q0 x 100       | Sigma P1Q1 / Sigma P0Q1 x 100 |
+| Practical feature | Easier if base quantities are fixed | Requires current quantities   |
 
 ---
 
@@ -231,10 +232,10 @@ P01 = Sigma WR / Sigma W
 
 Where:
 
-| Symbol | Meaning |
-|---|---|
-| W | Weight |
-| R | Price relative = (P1/P0) x 100 |
+| Symbol | Meaning                        |
+| ------ | ------------------------------ |
+| W      | Weight                         |
+| R      | Price relative = (P1/P0) x 100 |
 
 This method averages percentage price changes after assigning weights.
 
@@ -383,28 +384,28 @@ Prices, quantities, and weights must be collected from reliable sources.
 
 ## 13. Common Mistakes
 
-| Mistake | Correct understanding |
-|---|---|
-| Saying index number is always a price index | Index can measure price, quantity, or value. |
-| Ignoring base period | Every index needs a reference period. |
-| Treating all items as equally important | Weighted index is needed when importance differs. |
-| Confusing Laspeyres and Paasche | Laspeyres uses base quantities; Paasche uses current quantities. |
-| Saying CPI and WPI are the same | CPI measures retail consumer prices; WPI measures wholesale prices. |
-| Ignoring purchasing power | Higher prices reduce purchasing power of money. |
+| Mistake                                     | Correct understanding                                               |
+| ------------------------------------------- | ------------------------------------------------------------------- |
+| Saying index number is always a price index | Index can measure price, quantity, or value.                        |
+| Ignoring base period                        | Every index needs a reference period.                               |
+| Treating all items as equally important     | Weighted index is needed when importance differs.                   |
+| Confusing Laspeyres and Paasche             | Laspeyres uses base quantities; Paasche uses current quantities.    |
+| Saying CPI and WPI are the same             | CPI measures retail consumer prices; WPI measures wholesale prices. |
+| Ignoring purchasing power                   | Higher prices reduce purchasing power of money.                     |
 
 ---
 
 ## 14. Formula Board
 
-| Measure | Formula |
-|---|---|
-| Simple aggregative price index | P01 = (Sigma P1 / Sigma P0) x 100 |
-| Price relative | R = (P1 / P0) x 100 |
-| Simple average of price relatives | P01 = Sigma R / N |
-| Laspeyres price index | P01 = (Sigma P1Q0 / Sigma P0Q0) x 100 |
-| Paasche price index | P01 = (Sigma P1Q1 / Sigma P0Q1) x 100 |
-| Weighted average of relatives | P01 = Sigma WR / Sigma W |
-| Purchasing power | 100 / Price index |
+| Measure                           | Formula                               |
+| --------------------------------- | ------------------------------------- |
+| Simple aggregative price index    | P01 = (Sigma P1 / Sigma P0) x 100     |
+| Price relative                    | R = (P1 / P0) x 100                   |
+| Simple average of price relatives | P01 = Sigma R / N                     |
+| Laspeyres price index             | P01 = (Sigma P1Q0 / Sigma P0Q0) x 100 |
+| Paasche price index               | P01 = (Sigma P1Q1 / Sigma P0Q1) x 100 |
+| Weighted average of relatives     | P01 = Sigma WR / Sigma W              |
+| Purchasing power                  | 100 / Price index                     |
 
 ---
 

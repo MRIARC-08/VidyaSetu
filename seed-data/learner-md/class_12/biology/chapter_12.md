@@ -1,15 +1,16 @@
 # Chapter 12: Ecosystem
+
 ### NCERT Class 12 - Biology
 
 ## Chapter at a Glance
 
-| Item | Details |
-|---|---|
-| Main idea | An ecosystem is a functional unit where organisms interact with each other and with the physical environment. |
-| Main components | Producers, consumers, decomposers, abiotic factors. |
-| Main functions | Productivity, decomposition, energy flow, nutrient cycling, ecological succession. |
-| Main principle | Energy flows in one direction, while nutrients cycle. |
-| Most important skill | Connect trophic levels, productivity, decomposition, and nutrient cycles. |
+| Item                 | Details                                                                                                       |
+| -------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Main idea            | An ecosystem is a functional unit where organisms interact with each other and with the physical environment. |
+| Main components      | Producers, consumers, decomposers, abiotic factors.                                                           |
+| Main functions       | Productivity, decomposition, energy flow, nutrient cycling, ecological succession.                            |
+| Main principle       | Energy flows in one direction, while nutrients cycle.                                                         |
+| Most important skill | Connect trophic levels, productivity, decomposition, and nutrient cycles.                                     |
 
 ## Learning Outcomes
 
@@ -28,31 +29,31 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Ecosystem | Functional unit of organisms and physical environment interacting together. |
-| Producer | Autotroph that converts inorganic substances into organic matter. |
-| Consumer | Heterotroph that depends directly or indirectly on producers. |
-| Decomposer | Organism that breaks down dead organic matter. |
-| Productivity | Rate of biomass production. |
-| GPP | Gross primary productivity, total organic matter produced by photosynthesis. |
-| NPP | Net primary productivity, biomass available to consumers after plant respiration. |
-| Decomposition | Breakdown of complex organic matter into simpler substances. |
-| Food chain | Linear feeding relationship. |
-| Food web | Network of interconnected food chains. |
-| Trophic level | Feeding position in food chain. |
-| Ecological pyramid | Graphical representation of number, biomass, or energy at trophic levels. |
-| Succession | Gradual change in species composition over time. |
+| Term               | Meaning                                                                           |
+| ------------------ | --------------------------------------------------------------------------------- |
+| Ecosystem          | Functional unit of organisms and physical environment interacting together.       |
+| Producer           | Autotroph that converts inorganic substances into organic matter.                 |
+| Consumer           | Heterotroph that depends directly or indirectly on producers.                     |
+| Decomposer         | Organism that breaks down dead organic matter.                                    |
+| Productivity       | Rate of biomass production.                                                       |
+| GPP                | Gross primary productivity, total organic matter produced by photosynthesis.      |
+| NPP                | Net primary productivity, biomass available to consumers after plant respiration. |
+| Decomposition      | Breakdown of complex organic matter into simpler substances.                      |
+| Food chain         | Linear feeding relationship.                                                      |
+| Food web           | Network of interconnected food chains.                                            |
+| Trophic level      | Feeding position in food chain.                                                   |
+| Ecological pyramid | Graphical representation of number, biomass, or energy at trophic levels.         |
+| Succession         | Gradual change in species composition over time.                                  |
 
 ## Quick Learning Map
 
-| Function | Main Idea |
-|---|---|
-| Productivity | Producers capture energy as biomass. |
-| Decomposition | Decomposers recycle nutrients from dead matter. |
-| Energy flow | Energy moves from producers to consumers and is lost as heat. |
-| Nutrient cycle | Elements move between organisms and environment. |
-| Succession | Communities change toward more stable stages. |
+| Function       | Main Idea                                                     |
+| -------------- | ------------------------------------------------------------- |
+| Productivity   | Producers capture energy as biomass.                          |
+| Decomposition  | Decomposers recycle nutrients from dead matter.               |
+| Energy flow    | Energy moves from producers to consumers and is lost as heat. |
+| Nutrient cycle | Elements move between organisms and environment.              |
+| Succession     | Communities change toward more stable stages.                 |
 
 # Unit 12A: Ecosystem Structure
 
@@ -70,11 +71,11 @@ An ecosystem has biotic and abiotic components.
 
 ## Biotic Components
 
-| Component | Role |
-|---|---|
-| Producers | Make food through photosynthesis or chemosynthesis. |
-| Consumers | Eat producers or other consumers. |
-| Decomposers | Break down dead organic matter. |
+| Component   | Role                                                |
+| ----------- | --------------------------------------------------- |
+| Producers   | Make food through photosynthesis or chemosynthesis. |
+| Consumers   | Eat producers or other consumers.                   |
+| Decomposers | Break down dead organic matter.                     |
 
 # Unit 12B: Stratification
 
@@ -123,13 +124,13 @@ Decomposition is breakdown of dead organic matter, called detritus.
 
 ## Steps
 
-| Step | Meaning |
-|---|---|
-| Fragmentation | Detritivores break detritus into smaller particles. |
-| Leaching | Water-soluble nutrients move into soil. |
-| Catabolism | Enzymes degrade complex organic matter. |
-| Humification | Formation of dark, resistant humus. |
-| Mineralisation | Release of inorganic nutrients. |
+| Step           | Meaning                                             |
+| -------------- | --------------------------------------------------- |
+| Fragmentation  | Detritivores break detritus into smaller particles. |
+| Leaching       | Water-soluble nutrients move into soil.             |
+| Catabolism     | Enzymes degrade complex organic matter.             |
+| Humification   | Formation of dark, resistant humus.                 |
+| Mineralisation | Release of inorganic nutrients.                     |
 
 ## Factors Affecting Decomposition
 
@@ -184,11 +185,11 @@ Ecological pyramids represent trophic structure.
 
 ## Types
 
-| Pyramid | Shows |
-|---|---|
-| Pyramid of number | Number of individuals at each trophic level. |
-| Pyramid of biomass | Biomass at each trophic level. |
-| Pyramid of energy | Energy flow at each trophic level. |
+| Pyramid            | Shows                                        |
+| ------------------ | -------------------------------------------- |
+| Pyramid of number  | Number of individuals at each trophic level. |
+| Pyramid of biomass | Biomass at each trophic level.               |
+| Pyramid of energy  | Energy flow at each trophic level.           |
 
 ## Important Points
 
@@ -271,10 +272,10 @@ Phosphorus enters soil through weathering, moves into plants, passes through foo
 
 ## Carbon vs Phosphorus
 
-| Carbon Cycle | Phosphorus Cycle |
-|---|---|
-| Main reservoir includes atmosphere and oceans. | Main reservoir is rocks. |
-| Has gaseous phase. | No major gaseous phase. |
+| Carbon Cycle                                       | Phosphorus Cycle                      |
+| -------------------------------------------------- | ------------------------------------- |
+| Main reservoir includes atmosphere and oceans.     | Main reservoir is rocks.              |
+| Has gaseous phase.                                 | No major gaseous phase.               |
 | Strongly linked to photosynthesis and respiration. | Strongly linked to sediment and soil. |
 
 # Unit 12L: Ecosystem Services
@@ -294,14 +295,14 @@ Examples:
 
 # Unit 12M: Common Mistakes and Corrections
 
-| Mistake | Correct Understanding |
-|---|---|
-| Energy cycles like nutrients | Energy flows one way; nutrients cycle. |
-| GPP and NPP are same | NPP = GPP - respiration loss. |
-| Decomposition only means rotting | It includes fragmentation, leaching, catabolism, humification, and mineralisation. |
-| Pyramid of energy can be inverted | It is always upright. |
-| Succession is random | It is directional and influenced by environment. |
-| Secondary succession starts from bare rock | Primary succession starts from bare areas without soil. |
+| Mistake                                    | Correct Understanding                                                              |
+| ------------------------------------------ | ---------------------------------------------------------------------------------- |
+| Energy cycles like nutrients               | Energy flows one way; nutrients cycle.                                             |
+| GPP and NPP are same                       | NPP = GPP - respiration loss.                                                      |
+| Decomposition only means rotting           | It includes fragmentation, leaching, catabolism, humification, and mineralisation. |
+| Pyramid of energy can be inverted          | It is always upright.                                                              |
+| Succession is random                       | It is directional and influenced by environment.                                   |
+| Secondary succession starts from bare rock | Primary succession starts from bare areas without soil.                            |
 
 ## Practice Set
 

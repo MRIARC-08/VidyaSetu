@@ -1,4 +1,5 @@
 # Chapter 13: Statistics
+
 ### NCERT Class 10 - Maths
 
 This learner version rewrites the raw chapter into a structured guide for grouped-data statistics. It explains mean, mode, median, cumulative frequency, and gives solved exercise results with the key setup needed to reproduce each answer.
@@ -7,14 +8,14 @@ This learner version rewrites the raw chapter into a structured guide for groupe
 
 ## Chapter at a Glance
 
-| Item | Details |
-|---|---|
-| Class | 10 |
-| Subject | Maths |
-| Chapter | 13 |
-| Chapter name | Statistics |
-| Main topics | Mean, mode, median of grouped data |
-| New idea | Cumulative frequency |
+| Item         | Details                                                             |
+| ------------ | ------------------------------------------------------------------- |
+| Class        | 10                                                                  |
+| Subject      | Maths                                                               |
+| Chapter      | 13                                                                  |
+| Chapter name | Statistics                                                          |
+| Main topics  | Mean, mode, median of grouped data                                  |
+| New idea     | Cumulative frequency                                                |
 | Common tools | Class mark, assumed mean, step deviation, modal class, median class |
 
 ---
@@ -37,18 +38,18 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Frequency | Number of observations in a class |
-| Class mark | Midpoint of a class interval |
-| Mean | Average value of observations |
-| Mode | Most frequent value or typical value in modal class |
-| Median | Middle value dividing data into two equal halves |
-| Modal class | Class with maximum frequency |
-| Median class | Class whose cumulative frequency first exceeds `n/2` |
-| Cumulative frequency | Running total of frequencies |
-| Assumed mean | Convenient central value chosen to simplify calculation |
-| Step deviation | Simplified deviations divided by class width |
+| Term                 | Meaning                                                 |
+| -------------------- | ------------------------------------------------------- |
+| Frequency            | Number of observations in a class                       |
+| Class mark           | Midpoint of a class interval                            |
+| Mean                 | Average value of observations                           |
+| Mode                 | Most frequent value or typical value in modal class     |
+| Median               | Middle value dividing data into two equal halves        |
+| Modal class          | Class with maximum frequency                            |
+| Median class         | Class whose cumulative frequency first exceeds `n/2`    |
+| Cumulative frequency | Running total of frequencies                            |
+| Assumed mean         | Convenient central value chosen to simplify calculation |
+| Step deviation       | Simplified deviations divided by class width            |
 
 ---
 
@@ -124,13 +125,13 @@ $$
 
 where:
 
-| Symbol | Meaning |
-|---|---|
-| `l` | lower limit of modal class |
-| `h` | class size |
-| `f_1` | frequency of modal class |
-| `f_0` | frequency of preceding class |
-| `f_2` | frequency of succeeding class |
+| Symbol | Meaning                       |
+| ------ | ----------------------------- |
+| `l`    | lower limit of modal class    |
+| `h`    | class size                    |
+| `f_1`  | frequency of modal class      |
+| `f_0`  | frequency of preceding class  |
+| `f_2`  | frequency of succeeding class |
 
 Use mode when the question asks for the most common or most popular value.
 
@@ -158,13 +159,13 @@ $$
 
 where:
 
-| Symbol | Meaning |
-|---|---|
-| `l` | lower limit of median class |
-| `n` | total frequency |
-| `cf` | cumulative frequency before the median class |
-| `f` | frequency of median class |
-| `h` | class size |
+| Symbol | Meaning                                      |
+| ------ | -------------------------------------------- |
+| `l`    | lower limit of median class                  |
+| `n`    | total frequency                              |
+| `cf`   | cumulative frequency before the median class |
+| `f`    | frequency of median class                    |
+| `h`    | class size                                   |
 
 Use median when extreme values may distort the mean.
 
@@ -172,14 +173,14 @@ Use median when extreme values may distort the mean.
 
 # Unit 13D: Choosing Mean, Median, or Mode
 
-| Situation | Best measure |
-|---|---|
-| Need average performance | Mean |
-| Need middle value | Median |
-| Need most common value | Mode |
-| Extreme values are present | Median |
-| Comparing two groups overall | Mean |
-| Finding most popular size, item, or category | Mode |
+| Situation                                    | Best measure |
+| -------------------------------------------- | ------------ |
+| Need average performance                     | Mean         |
+| Need middle value                            | Median       |
+| Need most common value                       | Mode         |
+| Extreme values are present                   | Median       |
+| Comparing two groups overall                 | Mean         |
+| Finding most popular size, item, or category | Mode         |
 
 Empirical relation:
 
@@ -840,16 +841,16 @@ $$
 Convert less-than cumulative data to class frequencies:
 
 | Class | Frequency |
-|---|---:|
-| 18-20 | 2 |
-| 20-25 | 4 |
-| 25-30 | 18 |
-| 30-35 | 21 |
-| 35-40 | 33 |
-| 40-45 | 11 |
-| 45-50 | 3 |
-| 50-55 | 6 |
-| 55-60 | 2 |
+| ----- | --------: |
+| 18-20 |         2 |
+| 20-25 |         4 |
+| 25-30 |        18 |
+| 30-35 |        21 |
+| 35-40 |        33 |
+| 40-45 |        11 |
+| 45-50 |         3 |
+| 50-55 |         6 |
+| 55-60 |         2 |
 
 Total:
 
@@ -1117,15 +1118,15 @@ $$
 
 # Unit 13H: Common Mistakes and Corrections
 
-| Mistake | Why it is wrong | Correct habit |
-|---|---|---|
-| Using class limits instead of class marks for mean | Mean needs representative values | Find midpoints first |
-| Choosing modal class by class mark | Mode depends on maximum frequency | Look at frequency column |
-| Using `n` instead of `n/2` for median class | Median divides data in half | Locate `n/2` in cumulative frequency |
-| Forgetting `cf` is before median class | Formula uses previous cumulative frequency | Do not use cumulative frequency of median class |
-| Mixing class width values | Wrong `h` changes answer | Check common class size |
-| Applying median formula to discontinuous classes without correction | Formula assumes continuous classes | Convert inclusive classes if needed |
-| Treating mean, median, and mode as always equal | They measure different things | Interpret based on context |
+| Mistake                                                             | Why it is wrong                            | Correct habit                                   |
+| ------------------------------------------------------------------- | ------------------------------------------ | ----------------------------------------------- |
+| Using class limits instead of class marks for mean                  | Mean needs representative values           | Find midpoints first                            |
+| Choosing modal class by class mark                                  | Mode depends on maximum frequency          | Look at frequency column                        |
+| Using `n` instead of `n/2` for median class                         | Median divides data in half                | Locate `n/2` in cumulative frequency            |
+| Forgetting `cf` is before median class                              | Formula uses previous cumulative frequency | Do not use cumulative frequency of median class |
+| Mixing class width values                                           | Wrong `h` changes answer                   | Check common class size                         |
+| Applying median formula to discontinuous classes without correction | Formula assumes continuous classes         | Convert inclusive classes if needed             |
+| Treating mean, median, and mode as always equal                     | They measure different things              | Interpret based on context                      |
 
 ---
 
@@ -1170,4 +1171,3 @@ $$
 7. Mean uses all observations.
 8. Median gives the middle value.
 9. Mode gives the most common value.
-

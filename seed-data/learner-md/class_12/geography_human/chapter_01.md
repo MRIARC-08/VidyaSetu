@@ -1,4 +1,5 @@
 # Chapter 1: Human Geography - Nature and Scope
+
 ### NCERT Class 12 - Geography Human
 
 ## Chapter at a Glance
@@ -21,27 +22,27 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Human geography | Study of interrelationship between humans and environment through space. |
-| Physical environment | Natural surroundings such as landforms, climate, water, soil, and vegetation. |
-| Cultural landscape | Landscape modified by human activity. |
-| Determinism | View that environment strongly controls human activities. |
-| Possibilism | View that environment offers possibilities and humans choose among them. |
-| Neo-determinism | Balanced view that humans can act within environmental limits. |
-| Naturalisation of humans | Early stage where humans adapt closely to nature. |
-| Humanisation of nature | Stage where humans modify nature through technology and culture. |
+| Term                     | Meaning                                                                       |
+| ------------------------ | ----------------------------------------------------------------------------- |
+| Human geography          | Study of interrelationship between humans and environment through space.      |
+| Physical environment     | Natural surroundings such as landforms, climate, water, soil, and vegetation. |
+| Cultural landscape       | Landscape modified by human activity.                                         |
+| Determinism              | View that environment strongly controls human activities.                     |
+| Possibilism              | View that environment offers possibilities and humans choose among them.      |
+| Neo-determinism          | Balanced view that humans can act within environmental limits.                |
+| Naturalisation of humans | Early stage where humans adapt closely to nature.                             |
+| Humanisation of nature   | Stage where humans modify nature through technology and culture.              |
 
 ## Quick Learning Map
 
-| Question | Human geography answer |
-|---|---|
-| Who lives where? | Population geography |
-| How do people earn? | Economic geography |
-| How do people organise space? | Settlement and urban geography |
-| How do people move? | Transport and migration studies |
-| How do culture and place connect? | Cultural geography |
-| How do states use territory? | Political geography |
+| Question                          | Human geography answer          |
+| --------------------------------- | ------------------------------- |
+| Who lives where?                  | Population geography            |
+| How do people earn?               | Economic geography              |
+| How do people organise space?     | Settlement and urban geography  |
+| How do people move?               | Transport and migration studies |
+| How do culture and place connect? | Cultural geography              |
+| How do states use territory?      | Political geography             |
 
 # Unit 1A: Meaning of Human Geography
 
@@ -151,16 +152,16 @@ Human geography is:
 
 # Unit 1I: Fields of Human Geography
 
-| Field | Focus |
-|---|---|
-| Population geography | Distribution, density, growth, migration |
-| Settlement geography | Rural and urban settlements |
-| Economic geography | Agriculture, industry, trade, transport |
-| Social geography | Social groups and spatial inequality |
-| Cultural geography | Language, religion, customs, cultural landscapes |
-| Political geography | Boundaries, states, geopolitics |
-| Urban geography | Cities, urban growth, land use |
-| Historical geography | Geography of past landscapes |
+| Field                | Focus                                            |
+| -------------------- | ------------------------------------------------ |
+| Population geography | Distribution, density, growth, migration         |
+| Settlement geography | Rural and urban settlements                      |
+| Economic geography   | Agriculture, industry, trade, transport          |
+| Social geography     | Social groups and spatial inequality             |
+| Cultural geography   | Language, religion, customs, cultural landscapes |
+| Political geography  | Boundaries, states, geopolitics                  |
+| Urban geography      | Cities, urban growth, land use                   |
+| Historical geography | Geography of past landscapes                     |
 
 # Unit 1J: Why Technology Matters
 
@@ -196,13 +197,13 @@ For determinism vs possibilism:
 
 # Unit 1L: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Saying human geography ignores nature | It studies humans in relation to nature and space. |
-| Treating determinism as fully correct | It overstates environmental control. |
-| Treating possibilism as unlimited freedom | Environment still sets limits. |
-| Forgetting technology | Technology changes how humans use environment. |
-| Writing definitions without examples | Use examples such as irrigation, settlements, or transport. |
+| Mistake                                   | Correction                                                  |
+| ----------------------------------------- | ----------------------------------------------------------- |
+| Saying human geography ignores nature     | It studies humans in relation to nature and space.          |
+| Treating determinism as fully correct     | It overstates environmental control.                        |
+| Treating possibilism as unlimited freedom | Environment still sets limits.                              |
+| Forgetting technology                     | Technology changes how humans use environment.              |
+| Writing definitions without examples      | Use examples such as irrigation, settlements, or transport. |
 
 ## Practice Set
 

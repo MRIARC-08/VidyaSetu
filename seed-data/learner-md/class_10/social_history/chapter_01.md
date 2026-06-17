@@ -1,20 +1,21 @@
 # Chapter 1: The Rise of Nationalism in Europe
+
 ### NCERT Class 10 - Social History
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-| --- | --- |
-| Class | 10 |
-| Subject | Social History |
-| Chapter | 1 - The Rise of Nationalism in Europe |
-| Central Question | How did the idea of the nation-state develop in nineteenth-century Europe? |
-| Time Period | Mainly 1789 to 1914 |
-| Main Themes | French Revolution, liberal nationalism, conservatism, revolutions, Germany and Italy, Britain, national symbols, Balkans |
-| Main Skills | Timeline building, cause-effect reasoning, comparing national movements, interpreting symbols and sources |
-| Exam Importance | Very high: French Revolution measures, liberalism, Zollverein, 1848, German/Italian unification, Britain, Balkans |
+| Detail           | Learner-Friendly Information                                                                                             |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Class            | 10                                                                                                                       |
+| Subject          | Social History                                                                                                           |
+| Chapter          | 1 - The Rise of Nationalism in Europe                                                                                    |
+| Central Question | How did the idea of the nation-state develop in nineteenth-century Europe?                                               |
+| Time Period      | Mainly 1789 to 1914                                                                                                      |
+| Main Themes      | French Revolution, liberal nationalism, conservatism, revolutions, Germany and Italy, Britain, national symbols, Balkans |
+| Main Skills      | Timeline building, cause-effect reasoning, comparing national movements, interpreting symbols and sources                |
+| Exam Importance  | Very high: French Revolution measures, liberalism, Zollverein, 1848, German/Italian unification, Britain, Balkans        |
 
 ---
 
@@ -46,15 +47,15 @@ The key learning is:
 
 After studying this chapter, you should be able to:
 
-| Skill | You Should Be Able To |
-| --- | --- |
-| Define | Explain nationalism, nation-state, liberalism, conservatism, suffrage, plebiscite, allegory, romanticism, and imperialism. |
-| Explain | Describe how the French Revolution created a sense of collective identity. |
-| Analyse | Explain how liberalism, economic change, culture, and revolutions shaped nationalism. |
-| Compare | Compare German, Italian, and British nation formation. |
-| Interpret | Explain Marianne, Germania, Sorrieu's print, and nationalist symbols. |
-| Evaluate | Explain why nationalism became aggressive and imperialist by the late nineteenth century. |
-| Write | Prepare strong notes and answers for NCERT questions. |
+| Skill     | You Should Be Able To                                                                                                      |
+| --------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Define    | Explain nationalism, nation-state, liberalism, conservatism, suffrage, plebiscite, allegory, romanticism, and imperialism. |
+| Explain   | Describe how the French Revolution created a sense of collective identity.                                                 |
+| Analyse   | Explain how liberalism, economic change, culture, and revolutions shaped nationalism.                                      |
+| Compare   | Compare German, Italian, and British nation formation.                                                                     |
+| Interpret | Explain Marianne, Germania, Sorrieu's print, and nationalist symbols.                                                      |
+| Evaluate  | Explain why nationalism became aggressive and imperialist by the late nineteenth century.                                  |
+| Write     | Prepare strong notes and answers for NCERT questions.                                                                      |
 
 ---
 
@@ -92,35 +93,35 @@ Nationalism mixed with imperial rivalry created tension, wars, and eventually co
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Nationalism | A sense of collective belonging to a nation, often linked with shared history, symbols, territory, political goals, and identity. |
-| Nation-State | A state where the majority of citizens imagine themselves as part of one nation with shared identity and political belonging. |
-| Absolutist | A government or system of rule with no restraints on the ruler's power; often centralised, militarised, and repressive. |
-| Utopian | An ideal vision of society that is unlikely to exist fully in reality. |
-| Sovereignty | Supreme power or authority. |
-| La Patrie | French term meaning the fatherland. |
-| Le Citoyen | French term meaning the citizen. |
-| Tricolour | Three-coloured French national flag adopted during the Revolution. |
-| Napoleonic Code | Civil Code of 1804 that established equality before law, right to property, and abolition of birth-based privileges. |
-| Liberalism | Political and economic idea linked with individual freedom, equality before law, government by consent, private property, and free markets. |
-| Suffrage | Right to vote. |
-| Universal Male Suffrage | Right to vote for all adult men. |
-| Zollverein | Customs union formed in 1834 at the initiative of Prussia, joining most German states. |
-| Conservatism | Political philosophy that valued tradition, monarchy, Church, hierarchy, property, and gradual change. |
-| Treaty of Vienna | 1815 settlement that restored conservative order after Napoleon's defeat. |
-| Secret Societies | Underground groups formed to spread revolutionary nationalist ideas. |
-| Romanticism | Cultural movement that valued emotion, intuition, folk traditions, and national heritage. |
-| Das Volk | German term meaning the common people. |
-| Volksgeist | Spirit of the nation, expressed through folk culture. |
-| Feminist | Person or idea supporting social, economic, and political equality of genders. |
-| Ideology | System of ideas reflecting a social and political vision. |
-| Junkers | Large landowners of Prussia who supported monarchy and military power. |
-| Allegory | Representation of an abstract idea through a person, object, or symbol. |
-| Marianne | Female allegory of the French nation. |
-| Germania | Female allegory of the German nation. |
-| Imperialism | Policy of extending control over other territories or peoples. |
-| Balkans | Region of geographical and ethnic diversity in south-eastern Europe, including modern Romania, Bulgaria, Albania, Greece, Macedonia, Croatia, Bosnia-Herzegovina, Slovenia, Serbia, and Montenegro. |
+| Term                    | Meaning                                                                                                                                                                                             |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Nationalism             | A sense of collective belonging to a nation, often linked with shared history, symbols, territory, political goals, and identity.                                                                   |
+| Nation-State            | A state where the majority of citizens imagine themselves as part of one nation with shared identity and political belonging.                                                                       |
+| Absolutist              | A government or system of rule with no restraints on the ruler's power; often centralised, militarised, and repressive.                                                                             |
+| Utopian                 | An ideal vision of society that is unlikely to exist fully in reality.                                                                                                                              |
+| Sovereignty             | Supreme power or authority.                                                                                                                                                                         |
+| La Patrie               | French term meaning the fatherland.                                                                                                                                                                 |
+| Le Citoyen              | French term meaning the citizen.                                                                                                                                                                    |
+| Tricolour               | Three-coloured French national flag adopted during the Revolution.                                                                                                                                  |
+| Napoleonic Code         | Civil Code of 1804 that established equality before law, right to property, and abolition of birth-based privileges.                                                                                |
+| Liberalism              | Political and economic idea linked with individual freedom, equality before law, government by consent, private property, and free markets.                                                         |
+| Suffrage                | Right to vote.                                                                                                                                                                                      |
+| Universal Male Suffrage | Right to vote for all adult men.                                                                                                                                                                    |
+| Zollverein              | Customs union formed in 1834 at the initiative of Prussia, joining most German states.                                                                                                              |
+| Conservatism            | Political philosophy that valued tradition, monarchy, Church, hierarchy, property, and gradual change.                                                                                              |
+| Treaty of Vienna        | 1815 settlement that restored conservative order after Napoleon's defeat.                                                                                                                           |
+| Secret Societies        | Underground groups formed to spread revolutionary nationalist ideas.                                                                                                                                |
+| Romanticism             | Cultural movement that valued emotion, intuition, folk traditions, and national heritage.                                                                                                           |
+| Das Volk                | German term meaning the common people.                                                                                                                                                              |
+| Volksgeist              | Spirit of the nation, expressed through folk culture.                                                                                                                                               |
+| Feminist                | Person or idea supporting social, economic, and political equality of genders.                                                                                                                      |
+| Ideology                | System of ideas reflecting a social and political vision.                                                                                                                                           |
+| Junkers                 | Large landowners of Prussia who supported monarchy and military power.                                                                                                                              |
+| Allegory                | Representation of an abstract idea through a person, object, or symbol.                                                                                                                             |
+| Marianne                | Female allegory of the French nation.                                                                                                                                                               |
+| Germania                | Female allegory of the German nation.                                                                                                                                                               |
+| Imperialism             | Policy of extending control over other territories or peoples.                                                                                                                                      |
+| Balkans                 | Region of geographical and ethnic diversity in south-eastern Europe, including modern Romania, Bulgaria, Albania, Greece, Macedonia, Croatia, Bosnia-Herzegovina, Slovenia, Serbia, and Montenegro. |
 
 ---
 
@@ -134,18 +135,18 @@ His first print shows people of Europe and America marching in a long procession
 
 ## What the Print Shows
 
-| Element | Meaning |
-| --- | --- |
+| Element                               | Meaning                                                    |
+| ------------------------------------- | ---------------------------------------------------------- |
 | Men and women of all ages and classes | People across society participating in a democratic future |
-| Statue of Liberty | Freedom and Enlightenment |
-| Torch | Light of Enlightenment |
-| Charter of the Rights of Man | Rights, citizenship, and revolution |
-| Broken symbols of absolutism | Fall of monarchies and repressive institutions |
-| Flags and national costumes | Nations imagined as distinct communities |
-| United States and Switzerland leading | They were already nation-states |
-| France with tricolour | Revolutionary France as a model of nationalism |
-| German black, red, and gold flag | Liberal hope for German unification |
-| Christ, saints, and angels | Fraternity among nations |
+| Statue of Liberty                     | Freedom and Enlightenment                                  |
+| Torch                                 | Light of Enlightenment                                     |
+| Charter of the Rights of Man          | Rights, citizenship, and revolution                        |
+| Broken symbols of absolutism          | Fall of monarchies and repressive institutions             |
+| Flags and national costumes           | Nations imagined as distinct communities                   |
+| United States and Switzerland leading | They were already nation-states                            |
+| France with tricolour                 | Revolutionary France as a model of nationalism             |
+| German black, red, and gold flag      | Liberal hope for German unification                        |
+| Christ, saints, and angels            | Fraternity among nations                                   |
 
 ## Why It Is Utopian
 
@@ -167,12 +168,12 @@ It is different from a dynastic empire because loyalty is not only to a ruler. P
 
 ## Nation-State vs Dynastic Empire
 
-| Point | Nation-State | Dynastic Empire |
-| --- | --- | --- |
-| Basis | Common national identity | Rule of a dynasty or emperor |
-| People | Citizens imagine shared belonging | Subjects may belong to many languages and cultures |
-| Power | Nation and citizens are central | Monarch or dynasty is central |
-| Example in chapter | France after Revolution, Germany after 1871 | Habsburg Empire, Ottoman Empire |
+| Point              | Nation-State                                | Dynastic Empire                                    |
+| ------------------ | ------------------------------------------- | -------------------------------------------------- |
+| Basis              | Common national identity                    | Rule of a dynasty or emperor                       |
+| People             | Citizens imagine shared belonging           | Subjects may belong to many languages and cultures |
+| Power              | Nation and citizens are central             | Monarch or dynasty is central                      |
+| Example in chapter | France after Revolution, Germany after 1871 | Habsburg Empire, Ottoman Empire                    |
 
 ## Ernst Renan's View of a Nation
 
@@ -217,19 +218,19 @@ The Revolution declared that:
 
 ## Measures Taken to Create Collective Identity
 
-| Measure | How It Created National Feeling |
-| --- | --- |
-| La patrie | Created idea of a shared fatherland |
-| Le citoyen | Created idea of equal citizens |
-| Tricolour flag | Replaced royal standard with national symbol |
-| Estates General renamed National Assembly | Shifted authority from monarchy to citizens |
-| New hymns and oaths | Built emotional loyalty to the nation |
-| Martyrs commemorated | Created shared memory of sacrifice |
-| Centralised administration | Unified political system |
-| Uniform laws | Applied same law to all citizens |
-| Internal customs duties abolished | Encouraged economic unity |
-| Uniform weights and measures | Made exchange easier |
-| Regional dialects discouraged | Promoted French as common national language |
+| Measure                                   | How It Created National Feeling              |
+| ----------------------------------------- | -------------------------------------------- |
+| La patrie                                 | Created idea of a shared fatherland          |
+| Le citoyen                                | Created idea of equal citizens               |
+| Tricolour flag                            | Replaced royal standard with national symbol |
+| Estates General renamed National Assembly | Shifted authority from monarchy to citizens  |
+| New hymns and oaths                       | Built emotional loyalty to the nation        |
+| Martyrs commemorated                      | Created shared memory of sacrifice           |
+| Centralised administration                | Unified political system                     |
+| Uniform laws                              | Applied same law to all citizens             |
+| Internal customs duties abolished         | Encouraged economic unity                    |
+| Uniform weights and measures              | Made exchange easier                         |
+| Regional dialects discouraged             | Promoted French as common national language  |
 
 ## Mission of French Revolutionaries
 
@@ -282,8 +283,8 @@ These changes helped economic exchange.
 
 ## Mixed Reaction to French Rule
 
-| Initial Reaction | Later Reaction |
-| --- | --- |
+| Initial Reaction                                                                                                               | Later Reaction                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
 | French armies were welcomed in places such as Holland, Switzerland, Brussels, Mainz, Milan, and Warsaw as bringers of liberty. | Enthusiasm turned to hostility because of taxation, censorship, forced conscription, and lack of political freedom. |
 
 ## Answer Frame: Napoleon's Administrative Changes
@@ -309,14 +310,14 @@ Examples:
 
 The Habsburg Empire was a patchwork of many regions and peoples.
 
-| Region or Group | Identity |
-| --- | --- |
-| Tyrol, Austria, Sudetenland | Alpine regions |
-| Bohemia | Aristocracy mainly German-speaking |
-| Lombardy and Venetia | Italian-speaking provinces |
-| Hungary | Magyar speakers and other dialect groups |
-| Galicia | Polish-speaking aristocracy |
-| Peasant peoples | Bohemians, Slovaks, Slovenes, Croats, Roumans |
+| Region or Group             | Identity                                      |
+| --------------------------- | --------------------------------------------- |
+| Tyrol, Austria, Sudetenland | Alpine regions                                |
+| Bohemia                     | Aristocracy mainly German-speaking            |
+| Lombardy and Venetia        | Italian-speaking provinces                    |
+| Hungary                     | Magyar speakers and other dialect groups      |
+| Galicia                     | Polish-speaking aristocracy                   |
+| Peasant peoples             | Bohemians, Slovaks, Slovenes, Croats, Roumans |
 
 ## Why Unity Was Difficult
 
@@ -343,10 +344,10 @@ Features:
 
 Most people were peasants.
 
-| Region | Peasant Condition |
-| --- | --- |
-| Western Europe | Land farmed by tenants and small owners |
-| Eastern and Central Europe | Large estates cultivated by serfs |
+| Region                     | Peasant Condition                       |
+| -------------------------- | --------------------------------------- |
+| Western Europe             | Land farmed by tenants and small owners |
+| Eastern and Central Europe | Large estates cultivated by serfs       |
 
 ## New Middle Classes
 
@@ -483,17 +484,17 @@ The Treaty of Vienna aimed to undo many Napoleonic changes and restore conservat
 
 Main decisions:
 
-| Decision | Purpose |
-| --- | --- |
-| Bourbon dynasty restored in France | Restore monarchy |
-| France lost territories annexed under Napoleon | Reduce French power |
-| Kingdom of Netherlands set up in north | Prevent French expansion |
-| Genoa added to Piedmont in south | Strengthen states around France |
-| Prussia gained western territories | Strengthen Prussia |
-| Austria gained control of northern Italy | Strengthen Austria |
-| German confederation of 39 states left untouched | Maintain balance |
-| Russia got part of Poland | Reward Russia |
-| Prussia got part of Saxony | Reward Prussia |
+| Decision                                         | Purpose                         |
+| ------------------------------------------------ | ------------------------------- |
+| Bourbon dynasty restored in France               | Restore monarchy                |
+| France lost territories annexed under Napoleon   | Reduce French power             |
+| Kingdom of Netherlands set up in north           | Prevent French expansion        |
+| Genoa added to Piedmont in south                 | Strengthen states around France |
+| Prussia gained western territories               | Strengthen Prussia              |
+| Austria gained control of northern Italy         | Strengthen Austria              |
+| German confederation of 39 states left untouched | Maintain balance                |
+| Russia got part of Poland                        | Reward Russia                   |
+| Prussia got part of Saxony                       | Reward Prussia                  |
 
 ## Conservative Repression
 
@@ -704,14 +705,14 @@ They drafted a constitution for a German nation headed by a monarchy subject to 
 
 ## Why Frankfurt Parliament Failed
 
-| Reason | Explanation |
-| --- | --- |
-| King rejected crown | Friedrich Wilhelm IV of Prussia rejected the crown offered by elected deputies. |
-| Monarchs opposed assembly | Other monarchs joined opposition. |
-| Aristocracy and military grew stronger | Conservative forces suppressed the parliament. |
-| Middle-class limits | Parliament resisted demands of workers and artisans. |
-| Loss of social support | Workers and artisans withdrew support. |
-| Military repression | Troops forced the assembly to disband. |
+| Reason                                 | Explanation                                                                     |
+| -------------------------------------- | ------------------------------------------------------------------------------- |
+| King rejected crown                    | Friedrich Wilhelm IV of Prussia rejected the crown offered by elected deputies. |
+| Monarchs opposed assembly              | Other monarchs joined opposition.                                               |
+| Aristocracy and military grew stronger | Conservative forces suppressed the parliament.                                  |
+| Middle-class limits                    | Parliament resisted demands of workers and artisans.                            |
+| Loss of social support                 | Workers and artisans withdrew support.                                          |
+| Military repression                    | Troops forced the assembly to disband.                                          |
 
 ## Women and 1848
 
@@ -806,11 +807,11 @@ In the mid-nineteenth century, Italy was divided into seven states.
 
 Only Sardinia-Piedmont was ruled by an Italian princely house.
 
-| Region | Control |
-| --- | --- |
-| North | Austrian Habsburgs |
-| Centre | Pope |
-| South | Bourbon kings of Spain |
+| Region            | Control                |
+| ----------------- | ---------------------- |
+| North             | Austrian Habsburgs     |
+| Centre            | Pope                   |
+| South             | Bourbon kings of Spain |
 | Sardinia-Piedmont | Italian princely house |
 
 Italian language also had many regional and local variations.
@@ -973,15 +974,15 @@ She wore a crown of oak leaves because the German oak symbolised heroism.
 
 ## Symbols of Germania
 
-| Attribute | Significance |
-| --- | --- |
-| Broken chains | Being freed |
-| Breastplate with eagle | Strength of German empire |
-| Crown of oak leaves | Heroism |
-| Sword | Readiness to fight |
-| Olive branch around sword | Willingness to make peace |
+| Attribute                      | Significance                         |
+| ------------------------------ | ------------------------------------ |
+| Broken chains                  | Being freed                          |
+| Breastplate with eagle         | Strength of German empire            |
+| Crown of oak leaves            | Heroism                              |
+| Sword                          | Readiness to fight                   |
+| Olive branch around sword      | Willingness to make peace            |
 | Black, red, and gold tricolour | Flag of liberal nationalists in 1848 |
-| Rays of rising sun | Beginning of a new era |
+| Rays of rising sun             | Beginning of a new era               |
 
 ---
 
@@ -1020,15 +1021,15 @@ The inhabitants were broadly known as Slavs.
 
 ## Why the Balkans Became Explosive
 
-| Cause | Explanation |
-| --- | --- |
-| Ethnic diversity | Many Slavic and other groups lived in the region. |
-| Ottoman control | Large parts were under Ottoman Empire. |
-| Ottoman decline | Subject nationalities broke away one by one. |
-| Romantic nationalism | Groups used history to claim past independence. |
-| Territorial jealousy | Balkan states wanted more territory from each other. |
-| Big power rivalry | Russia, Germany, England, and Austro-Hungary competed for influence. |
-| Imperial interests | Trade, colonies, naval power, and military power intensified rivalry. |
+| Cause                | Explanation                                                           |
+| -------------------- | --------------------------------------------------------------------- |
+| Ethnic diversity     | Many Slavic and other groups lived in the region.                     |
+| Ottoman control      | Large parts were under Ottoman Empire.                                |
+| Ottoman decline      | Subject nationalities broke away one by one.                          |
+| Romantic nationalism | Groups used history to claim past independence.                       |
+| Territorial jealousy | Balkan states wanted more territory from each other.                  |
+| Big power rivalry    | Russia, Germany, England, and Austro-Hungary competed for influence.  |
+| Imperial interests   | Trade, colonies, naval power, and military power intensified rivalry. |
 
 ## Result
 
@@ -1044,23 +1045,23 @@ European nationalism was not copied exactly everywhere. Different societies deve
 
 # Timeline of the Chapter
 
-| Year | Event |
-| --- | --- |
-| 1789 | French Revolution begins |
-| 1804 | Napoleonic Code introduced |
-| 1815 | Congress and Treaty of Vienna |
-| 1821 | Greek struggle for independence begins |
-| 1830 | July Revolution in France; Belgium uprising |
-| 1832 | Treaty of Constantinople recognises Greece as independent |
-| 1834 | Zollverein formed under Prussian initiative |
-| 1845 | Silesian weavers' uprising |
-| 1848 | Revolutions in Europe; Frankfurt Parliament |
-| 1859 | Sardinia-Piedmont defeats Austria with French support |
-| 1861 | Victor Emmanuel II proclaimed king of united Italy |
-| 1866-1871 | German unification through Prussian wars |
-| 1870 | Papal States joined Italy |
-| 18 January 1871 | German Empire proclaimed at Versailles |
-| 1914 | Nationalism and imperialism help lead Europe into First World War |
+| Year            | Event                                                             |
+| --------------- | ----------------------------------------------------------------- |
+| 1789            | French Revolution begins                                          |
+| 1804            | Napoleonic Code introduced                                        |
+| 1815            | Congress and Treaty of Vienna                                     |
+| 1821            | Greek struggle for independence begins                            |
+| 1830            | July Revolution in France; Belgium uprising                       |
+| 1832            | Treaty of Constantinople recognises Greece as independent         |
+| 1834            | Zollverein formed under Prussian initiative                       |
+| 1845            | Silesian weavers' uprising                                        |
+| 1848            | Revolutions in Europe; Frankfurt Parliament                       |
+| 1859            | Sardinia-Piedmont defeats Austria with French support             |
+| 1861            | Victor Emmanuel II proclaimed king of united Italy                |
+| 1866-1871       | German unification through Prussian wars                          |
+| 1870            | Papal States joined Italy                                         |
+| 18 January 1871 | German Empire proclaimed at Versailles                            |
+| 1914            | Nationalism and imperialism help lead Europe into First World War |
 
 ---
 
@@ -1068,30 +1069,30 @@ European nationalism was not copied exactly everywhere. Different societies deve
 
 ## French, German, Italian, and British Nationalism
 
-| Country | Main Path to Nation-State |
-| --- | --- |
-| France | Revolution transferred sovereignty from monarch to citizens. |
-| Germany | Prussian army, bureaucracy, and Bismarck's wars unified German states. |
-| Italy | Mazzini's ideas, Cavour's diplomacy, Garibaldi's volunteers, and Victor Emmanuel II's monarchy unified Italy. |
-| Britain | Gradual expansion of English power over Scotland, Wales, and Ireland created British identity. |
+| Country | Main Path to Nation-State                                                                                     |
+| ------- | ------------------------------------------------------------------------------------------------------------- |
+| France  | Revolution transferred sovereignty from monarch to citizens.                                                  |
+| Germany | Prussian army, bureaucracy, and Bismarck's wars unified German states.                                        |
+| Italy   | Mazzini's ideas, Cavour's diplomacy, Garibaldi's volunteers, and Victor Emmanuel II's monarchy unified Italy. |
+| Britain | Gradual expansion of English power over Scotland, Wales, and Ireland created British identity.                |
 
 ## Liberalism and Conservatism
 
-| Point | Liberalism | Conservatism |
-| --- | --- | --- |
-| Main idea | Freedom, equality before law, constitution, representative government | Tradition, monarchy, Church, hierarchy, property, family |
-| Economic view | Free markets and movement of goods/capital | Modernisation only if it strengthens traditional institutions |
-| Political demand | Government by consent | Strong state and order |
-| Limitation | Often excluded women and non-propertied men | Repressed criticism and dissent |
+| Point            | Liberalism                                                            | Conservatism                                                  |
+| ---------------- | --------------------------------------------------------------------- | ------------------------------------------------------------- |
+| Main idea        | Freedom, equality before law, constitution, representative government | Tradition, monarchy, Church, hierarchy, property, family      |
+| Economic view    | Free markets and movement of goods/capital                            | Modernisation only if it strengthens traditional institutions |
+| Political demand | Government by consent                                                 | Strong state and order                                        |
+| Limitation       | Often excluded women and non-propertied men                           | Repressed criticism and dissent                               |
 
 ## Marianne and Germania
 
-| Point | Marianne | Germania |
-| --- | --- | --- |
-| Represents | France | Germany |
-| Type | Female allegory of nation | Female allegory of nation |
-| Symbols | Red cap, tricolour, cockade | Oak crown, sword, eagle, tricolour, broken chains |
-| Purpose | National unity and republic | German unity, heroism, freedom |
+| Point      | Marianne                    | Germania                                          |
+| ---------- | --------------------------- | ------------------------------------------------- |
+| Represents | France                      | Germany                                           |
+| Type       | Female allegory of nation   | Female allegory of nation                         |
+| Symbols    | Red cap, tricolour, cockade | Oak crown, sword, eagle, tricolour, broken chains |
+| Purpose    | National unity and republic | German unity, heroism, freedom                    |
 
 ---
 
@@ -1191,16 +1192,16 @@ Use this structure:
 
 # Common Mistakes to Avoid
 
-| Mistake | Correct Understanding |
-| --- | --- |
-| Writing that nationalism existed naturally from ancient times. | Modern nationalism was constructed through struggle, culture, politics, and state formation. |
-| Confusing nation-state with empire. | Nation-state is based on shared national identity; empire may include many peoples under one ruler. |
-| Treating liberalism as full democracy. | Nineteenth-century liberalism often excluded women and non-propertied men. |
-| Forgetting economic nationalism. | Zollverein helped German economic unity and encouraged political nationalism. |
-| Writing that Bismarck was a liberal democrat. | Bismarck used conservative state power, army, and bureaucracy. |
-| Confusing Mazzini, Cavour, and Garibaldi. | Mazzini was revolutionary thinker, Cavour was diplomat, Garibaldi was military volunteer leader. |
-| Writing Britain unified like Germany. | Britain formed through gradual English domination, not a single unification war. |
-| Ignoring the Balkans. | The Balkans are central to the chapter's final argument about nationalism and imperialism. |
+| Mistake                                                        | Correct Understanding                                                                               |
+| -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| Writing that nationalism existed naturally from ancient times. | Modern nationalism was constructed through struggle, culture, politics, and state formation.        |
+| Confusing nation-state with empire.                            | Nation-state is based on shared national identity; empire may include many peoples under one ruler. |
+| Treating liberalism as full democracy.                         | Nineteenth-century liberalism often excluded women and non-propertied men.                          |
+| Forgetting economic nationalism.                               | Zollverein helped German economic unity and encouraged political nationalism.                       |
+| Writing that Bismarck was a liberal democrat.                  | Bismarck used conservative state power, army, and bureaucracy.                                      |
+| Confusing Mazzini, Cavour, and Garibaldi.                      | Mazzini was revolutionary thinker, Cavour was diplomat, Garibaldi was military volunteer leader.    |
+| Writing Britain unified like Germany.                          | Britain formed through gradual English domination, not a single unification war.                    |
+| Ignoring the Balkans.                                          | The Balkans are central to the chapter's final argument about nationalism and imperialism.          |
 
 ---
 

@@ -1,4 +1,5 @@
 # Chapter 3: Thermodynamics
+
 ### NCERT Class 11 - Physics Part 2
 
 ---
@@ -18,20 +19,20 @@ This chapter answers four major questions:
 
 ## Chapter Map
 
-| Section | Main Learning Focus |
-| --- | --- |
-| Introduction | thermodynamics as energy conversion between heat and work |
-| Thermal equilibrium | equilibrium state and role of walls |
-| Zeroth law | temperature as the common variable in thermal equilibrium |
-| Heat, work, internal energy | distinction between state variable and energy transfer |
-| First law | conservation of energy for thermodynamic systems |
-| State variables | path-independent quantities such as pressure, volume, temperature, internal energy |
-| Thermodynamic processes | isothermal, adiabatic, isobaric, isochoric, cyclic |
-| Heat engines | conversion of heat into work in a cycle |
-| Refrigerators and heat pumps | moving heat from cold region to hot region using work |
-| Second law | direction limits on natural processes |
-| Reversible processes | ideal processes with no dissipative effects |
-| Carnot engine | maximum possible efficiency between two reservoirs |
+| Section                      | Main Learning Focus                                                                |
+| ---------------------------- | ---------------------------------------------------------------------------------- |
+| Introduction                 | thermodynamics as energy conversion between heat and work                          |
+| Thermal equilibrium          | equilibrium state and role of walls                                                |
+| Zeroth law                   | temperature as the common variable in thermal equilibrium                          |
+| Heat, work, internal energy  | distinction between state variable and energy transfer                             |
+| First law                    | conservation of energy for thermodynamic systems                                   |
+| State variables              | path-independent quantities such as pressure, volume, temperature, internal energy |
+| Thermodynamic processes      | isothermal, adiabatic, isobaric, isochoric, cyclic                                 |
+| Heat engines                 | conversion of heat into work in a cycle                                            |
+| Refrigerators and heat pumps | moving heat from cold region to hot region using work                              |
+| Second law                   | direction limits on natural processes                                              |
+| Reversible processes         | ideal processes with no dissipative effects                                        |
+| Carnot engine                | maximum possible efficiency between two reservoirs                                 |
 
 ---
 
@@ -43,12 +44,12 @@ Thermodynamics deals with the interconversion of heat and other forms of energy,
 
 Examples:
 
-| Situation | Energy Conversion |
-| --- | --- |
-| rubbing palms in winter | work converts into thermal energy |
-| steam engine | heat of steam helps produce mechanical work |
-| bullet stopped by wood | kinetic energy converts into internal energy of bullet and wood |
-| refrigerator | external work helps move heat from cold region to hot region |
+| Situation               | Energy Conversion                                               |
+| ----------------------- | --------------------------------------------------------------- |
+| rubbing palms in winter | work converts into thermal energy                               |
+| steam engine            | heat of steam helps produce mechanical work                     |
+| bullet stopped by wood  | kinetic energy converts into internal energy of bullet and wood |
+| refrigerator            | external work helps move heat from cold region to hot region    |
 
 ---
 
@@ -58,14 +59,14 @@ Thermodynamics does not describe every molecule separately. Instead, it describe
 
 ### Macroscopic Variables
 
-| Variable | Meaning |
-| --- | --- |
-| `P` | pressure |
-| `V` | volume |
-| `T` | temperature |
-| `m` | mass |
-| `U` | internal energy |
-| entropy | measure related to disorder and energy dispersal |
+| Variable | Meaning                                          |
+| -------- | ------------------------------------------------ |
+| `P`      | pressure                                         |
+| `V`      | volume                                           |
+| `T`      | temperature                                      |
+| `m`      | mass                                             |
+| `U`      | internal energy                                  |
+| entropy  | measure related to disorder and energy dispersal |
 
 ### Why This Matters
 
@@ -75,11 +76,11 @@ A gas contains an enormous number of molecules. Tracking every position and velo
 
 ## Mechanics Versus Thermodynamics
 
-| Mechanics | Thermodynamics |
-| --- | --- |
-| studies motion of bodies as a whole | studies internal macroscopic state |
+| Mechanics                                | Thermodynamics                                      |
+| ---------------------------------------- | --------------------------------------------------- |
+| studies motion of bodies as a whole      | studies internal macroscopic state                  |
 | focuses on forces, torques, acceleration | focuses on heat, work, temperature, internal energy |
-| kinetic energy of whole body matters | random molecular energy matters |
+| kinetic energy of whole body matters     | random molecular energy matters                     |
 
 ### Example
 
@@ -105,10 +106,10 @@ Then the gas is in equilibrium.
 
 ## Adiabatic Wall And Diathermic Wall
 
-| Wall Type | Meaning |
-| --- | --- |
-| adiabatic wall | does not allow heat flow |
-| diathermic wall | allows heat flow |
+| Wall Type       | Meaning                  |
+| --------------- | ------------------------ |
+| adiabatic wall  | does not allow heat flow |
+| diathermic wall | allows heat flow         |
 
 ### Learner Explanation
 
@@ -228,14 +229,14 @@ Heat and work depend on the path followed during a process.
 
 Internal energy is a state variable. It depends only on the state, not on the path.
 
-| Quantity | State Variable? | Why |
-| --- | --- | --- |
-| pressure | yes | value describes state |
-| volume | yes | value describes state |
-| temperature | yes | value describes state |
-| internal energy | yes | depends on state |
-| heat | no | energy transfer during process |
-| work | no | energy transfer during process |
+| Quantity        | State Variable? | Why                            |
+| --------------- | --------------- | ------------------------------ |
+| pressure        | yes             | value describes state          |
+| volume          | yes             | value describes state          |
+| temperature     | yes             | value describes state          |
+| internal energy | yes             | depends on state               |
+| heat            | no              | energy transfer during process |
+| work            | no              | energy transfer during process |
 
 ---
 
@@ -365,10 +366,10 @@ J mol^-1 K^-1
 
 ## For Gases: `Cp` And `Cv`
 
-| Symbol | Condition |
-| --- | --- |
-| `Cv` | heat supplied at constant volume |
-| `Cp` | heat supplied at constant pressure |
+| Symbol | Condition                          |
+| ------ | ---------------------------------- |
+| `Cv`   | heat supplied at constant volume   |
+| `Cp`   | heat supplied at constant pressure |
 
 For an ideal gas:
 
@@ -416,13 +417,13 @@ This relates pressure, volume, temperature, and number of moles.
 
 ## Process Overview
 
-| Process | Quantity Kept Constant | Main Relation |
-| --- | --- | --- |
-| isothermal | temperature | `Delta U = 0` for ideal gas |
-| adiabatic | heat exchange zero | `Delta Q = 0` |
-| isobaric | pressure | `W = P Delta V` |
-| isochoric | volume | `W = 0` |
-| cyclic | initial and final states same | `Delta U = 0` |
+| Process    | Quantity Kept Constant        | Main Relation               |
+| ---------- | ----------------------------- | --------------------------- |
+| isothermal | temperature                   | `Delta U = 0` for ideal gas |
+| adiabatic  | heat exchange zero            | `Delta Q = 0`               |
+| isobaric   | pressure                      | `W = P Delta V`             |
+| isochoric  | volume                        | `W = 0`                     |
+| cyclic     | initial and final states same | `Delta U = 0`               |
 
 ---
 
@@ -721,13 +722,13 @@ Most natural processes are irreversible.
 
 Examples:
 
-| Process | Why Irreversible |
-| --- | --- |
-| heat flowing from hot body to cold body | reverse would violate second law |
-| free expansion of gas | system passes through non-equilibrium states |
-| combustion | chemical and thermal dissipation |
-| diffusion of gas | spontaneous spreading does not reverse |
-| friction stopping a moving body | mechanical energy dissipates as heat |
+| Process                                 | Why Irreversible                             |
+| --------------------------------------- | -------------------------------------------- |
+| heat flowing from hot body to cold body | reverse would violate second law             |
+| free expansion of gas                   | system passes through non-equilibrium states |
+| combustion                              | chemical and thermal dissipation             |
+| diffusion of gas                        | spontaneous spreading does not reverse       |
+| friction stopping a moving body         | mechanical energy dissipates as heat         |
 
 ---
 
@@ -780,12 +781,12 @@ Temperatures must be in kelvin.
 
 ## Carnot Cycle Steps
 
-| Step | Process | What Happens |
-| --- | --- | --- |
-| 1 to 2 | isothermal expansion at `T1` | gas absorbs heat `Q1` and does work |
-| 2 to 3 | adiabatic expansion | gas cools from `T1` to `T2` |
-| 3 to 4 | isothermal compression at `T2` | gas rejects heat `Q2` |
-| 4 to 1 | adiabatic compression | gas warms from `T2` back to `T1` |
+| Step   | Process                        | What Happens                        |
+| ------ | ------------------------------ | ----------------------------------- |
+| 1 to 2 | isothermal expansion at `T1`   | gas absorbs heat `Q1` and does work |
+| 2 to 3 | adiabatic expansion            | gas cools from `T1` to `T2`         |
+| 3 to 4 | isothermal compression at `T2` | gas rejects heat `Q2`               |
+| 4 to 1 | adiabatic compression          | gas warms from `T2` back to `T1`    |
 
 ---
 
@@ -847,40 +848,40 @@ No real engine between these reservoirs can exceed this.
 
 ## First Law And Work
 
-| Formula | Meaning |
-| --- | --- |
+| Formula                       | Meaning                                   |
+| ----------------------------- | ----------------------------------------- |
 | `Delta Q = Delta U + Delta W` | first law, work done by system convention |
-| `Delta U = Delta Q - Delta W` | change in internal energy |
-| `Delta W = P Delta V` | work at constant pressure |
+| `Delta U = Delta Q - Delta W` | change in internal energy                 |
+| `Delta W = P Delta V`         | work at constant pressure                 |
 
 ## Heat Capacities
 
-| Formula | Meaning |
-| --- | --- |
-| `S = Delta Q/Delta T` | heat capacity |
-| `s = Delta Q/(m Delta T)` | specific heat capacity |
+| Formula                   | Meaning                      |
+| ------------------------- | ---------------------------- |
+| `S = Delta Q/Delta T`     | heat capacity                |
+| `s = Delta Q/(m Delta T)` | specific heat capacity       |
 | `C = Delta Q/(n Delta T)` | molar specific heat capacity |
-| `Cp - Cv = R` | ideal gas relation |
+| `Cp - Cv = R`             | ideal gas relation           |
 
 ## Processes
 
-| Formula | Meaning |
-| --- | --- |
-| `PV = nRT` | ideal gas equation |
-| `W = nRT ln(V2/V1)` | reversible isothermal ideal-gas work |
+| Formula               | Meaning                                |
+| --------------------- | -------------------------------------- |
+| `PV = nRT`            | ideal gas equation                     |
+| `W = nRT ln(V2/V1)`   | reversible isothermal ideal-gas work   |
 | `PV^gamma = constant` | reversible adiabatic ideal-gas process |
-| `gamma = Cp/Cv` | heat capacity ratio |
+| `gamma = Cp/Cv`       | heat capacity ratio                    |
 
 ## Engines And Refrigerators
 
-| Formula | Meaning |
-| --- | --- |
-| `W = Q1 - Q2` | heat engine work output |
-| `eta = W/Q1` | heat engine efficiency |
-| `eta = 1 - Q2/Q1` | efficiency in heat terms |
-| `alpha = Q2/W` | refrigerator coefficient of performance |
-| `Q1 = Q2 + W` | refrigerator energy balance |
-| `eta_Carnot = 1 - T2/T1` | Carnot engine efficiency |
+| Formula                  | Meaning                                 |
+| ------------------------ | --------------------------------------- |
+| `W = Q1 - Q2`            | heat engine work output                 |
+| `eta = W/Q1`             | heat engine efficiency                  |
+| `eta = 1 - Q2/Q1`        | efficiency in heat terms                |
+| `alpha = Q2/W`           | refrigerator coefficient of performance |
+| `Q1 = Q2 + W`            | refrigerator energy balance             |
+| `eta_Carnot = 1 - T2/T1` | Carnot engine efficiency                |
 
 ---
 
@@ -1023,4 +1024,3 @@ No engine working between the same temperatures can be more efficient.
 - [ ] I can state Kelvin-Planck and Clausius forms of the second law.
 - [ ] I can explain reversible and irreversible processes.
 - [ ] I can use Carnot efficiency with temperatures in kelvin.
-

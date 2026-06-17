@@ -1,4 +1,5 @@
 # Chapter 7: Suggestions for research work
+
 ### NCERT Class 12 - Sociology Indian Society
 
 ## Chapter at a Glance
@@ -24,33 +25,33 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Research question | Specific question that guides evidence collection. |
-| Method | Systematic way of collecting evidence. |
-| Survey | Method using fixed questions with many respondents. |
-| Questionnaire | Written set of questions used in survey. |
-| Interview | In-person conversation for collecting detailed responses. |
-| Structured interview | Interview using fixed sequence of questions. |
-| Unstructured interview | Flexible interview guided by broad themes. |
-| Observation | Systematic watching and recording of behaviour or setting. |
-| Archival method | Use of records, newspapers, old documents, photographs, or other stored material. |
-| Respondent | Person who answers survey or interview questions. |
-| Field notes | Written record of observations during research. |
-| Sampling | Choosing people, places, or documents to study. |
+| Term                   | Meaning                                                                           |
+| ---------------------- | --------------------------------------------------------------------------------- |
+| Research question      | Specific question that guides evidence collection.                                |
+| Method                 | Systematic way of collecting evidence.                                            |
+| Survey                 | Method using fixed questions with many respondents.                               |
+| Questionnaire          | Written set of questions used in survey.                                          |
+| Interview              | In-person conversation for collecting detailed responses.                         |
+| Structured interview   | Interview using fixed sequence of questions.                                      |
+| Unstructured interview | Flexible interview guided by broad themes.                                        |
+| Observation            | Systematic watching and recording of behaviour or setting.                        |
+| Archival method        | Use of records, newspapers, old documents, photographs, or other stored material. |
+| Respondent             | Person who answers survey or interview questions.                                 |
+| Field notes            | Written record of observations during research.                                   |
+| Sampling               | Choosing people, places, or documents to study.                                   |
 
 ## Research Design Map
 
-| Step | Question to ask |
-|---|---|
-| Choose theme | What broad area interests me? |
-| Narrow the topic | Which specific aspect can I study? |
-| Frame question | What exactly do I want to find out? |
-| Choose method | What evidence will answer this question? |
-| Select sample | Whom, what, or where will I study? |
-| Collect data | How will I record answers or observations? |
-| Analyse | What patterns do I see? |
-| Report | What did I find, and what are the limits? |
+| Step             | Question to ask                            |
+| ---------------- | ------------------------------------------ |
+| Choose theme     | What broad area interests me?              |
+| Narrow the topic | Which specific aspect can I study?         |
+| Frame question   | What exactly do I want to find out?        |
+| Choose method    | What evidence will answer this question?   |
+| Select sample    | Whom, what, or where will I study?         |
+| Collect data     | How will I record answers or observations? |
+| Analyse          | What patterns do I see?                    |
+| Report           | What did I find, and what are the limits?  |
 
 # Unit 7A: Why Do Practical Research?
 
@@ -565,16 +566,16 @@ Students may under-report entertainment use if they think teachers will judge th
 
 # Unit 7S: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Starting with a huge topic. | Narrow it into a specific research question. |
-| Choosing method before question. | Let the question guide the method. |
-| Asking leading questions. | Use neutral wording. |
-| Treating one interview as proof for everyone. | State limits of sample. |
-| Ignoring non-response. | Record incomplete or missing responses as a limitation. |
-| Observing casually without notes. | Keep systematic field notes. |
-| Embarrassing respondents. | Respect privacy and dignity. |
-| Making up data to complete report. | Report real findings, even if limited. |
+| Mistake                                       | Correction                                              |
+| --------------------------------------------- | ------------------------------------------------------- |
+| Starting with a huge topic.                   | Narrow it into a specific research question.            |
+| Choosing method before question.              | Let the question guide the method.                      |
+| Asking leading questions.                     | Use neutral wording.                                    |
+| Treating one interview as proof for everyone. | State limits of sample.                                 |
+| Ignoring non-response.                        | Record incomplete or missing responses as a limitation. |
+| Observing casually without notes.             | Keep systematic field notes.                            |
+| Embarrassing respondents.                     | Respect privacy and dignity.                            |
+| Making up data to complete report.            | Report real findings, even if limited.                  |
 
 ## Practice Set
 

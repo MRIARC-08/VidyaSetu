@@ -1,16 +1,17 @@
 # Chapter 1: Nature and Significance of Management
+
 ### NCERT Class 12 - Business Studies Part 1
 
 ## Chapter at a Glance
 
-| Item | Details |
-|---|---|
-| Main idea | Management is the process of getting work done with and through people to achieve organisational goals effectively and efficiently. |
-| Core balance | Effectiveness means completing the right task; efficiency means doing it with minimum cost and waste. |
-| Main functions | Planning, organising, staffing, directing, and controlling. |
-| Levels | Top level, middle level, and supervisory or operational level. |
-| Nature | Management has features of art, science, and profession. |
-| Key thread | Coordination integrates individual and departmental efforts into unified action. |
+| Item           | Details                                                                                                                             |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Main idea      | Management is the process of getting work done with and through people to achieve organisational goals effectively and efficiently. |
+| Core balance   | Effectiveness means completing the right task; efficiency means doing it with minimum cost and waste.                               |
+| Main functions | Planning, organising, staffing, directing, and controlling.                                                                         |
+| Levels         | Top level, middle level, and supervisory or operational level.                                                                      |
+| Nature         | Management has features of art, science, and profession.                                                                            |
+| Key thread     | Coordination integrates individual and departmental efforts into unified action.                                                    |
 
 ## Learning Outcomes
 
@@ -29,35 +30,35 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Management | Process of planning, organising, staffing, directing, and controlling resources to achieve goals efficiently and effectively. |
-| Effectiveness | Completion of the right task and achievement of the desired goal. |
-| Efficiency | Achieving goals with minimum cost, time, and waste. |
-| Objective | Desired result toward which organisational effort is directed. |
-| Coordination | Integration of efforts of individuals, departments, and levels to achieve common goals. |
-| Top management | Senior level responsible for overall direction, policy, and long-term plans. |
-| Middle management | Level responsible for implementing top management plans through departments. |
-| Supervisory management | Level directly guiding workers and daily operations. |
-| Planning | Deciding in advance what to do and how to do it. |
-| Organising | Arranging resources and tasks to implement plans. |
-| Staffing | Finding and placing the right people in the right jobs. |
-| Directing | Leading, motivating, supervising, and communicating with people. |
-| Controlling | Comparing actual performance with standards and correcting deviations. |
+| Term                   | Meaning                                                                                                                       |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| Management             | Process of planning, organising, staffing, directing, and controlling resources to achieve goals efficiently and effectively. |
+| Effectiveness          | Completion of the right task and achievement of the desired goal.                                                             |
+| Efficiency             | Achieving goals with minimum cost, time, and waste.                                                                           |
+| Objective              | Desired result toward which organisational effort is directed.                                                                |
+| Coordination           | Integration of efforts of individuals, departments, and levels to achieve common goals.                                       |
+| Top management         | Senior level responsible for overall direction, policy, and long-term plans.                                                  |
+| Middle management      | Level responsible for implementing top management plans through departments.                                                  |
+| Supervisory management | Level directly guiding workers and daily operations.                                                                          |
+| Planning               | Deciding in advance what to do and how to do it.                                                                              |
+| Organising             | Arranging resources and tasks to implement plans.                                                                             |
+| Staffing               | Finding and placing the right people in the right jobs.                                                                       |
+| Directing              | Leading, motivating, supervising, and communicating with people.                                                              |
+| Controlling            | Comparing actual performance with standards and correcting deviations.                                                        |
 
 ## Quick Learning Map
 
-| Area | Core Question |
-|---|---|
-| Meaning | How does management get work done? |
+| Area                         | Core Question                                   |
+| ---------------------------- | ----------------------------------------------- |
+| Meaning                      | How does management get work done?              |
 | Effectiveness and efficiency | Was the right goal achieved with minimum waste? |
-| Characteristics | What makes management a distinct process? |
-| Objectives | What does management try to achieve? |
-| Importance | Why do organisations need management? |
-| Nature | Is management art, science, or profession? |
-| Levels | Who performs which managerial work? |
-| Functions | What do managers actually do? |
-| Coordination | How are scattered efforts united? |
+| Characteristics              | What makes management a distinct process?       |
+| Objectives                   | What does management try to achieve?            |
+| Importance                   | Why do organisations need management?           |
+| Nature                       | Is management art, science, or profession?      |
+| Levels                       | Who performs which managerial work?             |
+| Functions                    | What do managers actually do?                   |
+| Coordination                 | How are scattered efforts united?               |
 
 # Unit 1A: Concept of Management
 
@@ -67,14 +68,14 @@ Management can be understood as a process of getting things done through people 
 
 ## Important Elements of the Definition
 
-| Element | Meaning |
-|---|---|
-| Process | Management is a series of continuous functions, not a one-time action. |
+| Element             | Meaning                                                                         |
+| ------------------- | ------------------------------------------------------------------------------- |
+| Process             | Management is a series of continuous functions, not a one-time action.          |
 | Getting things done | Managers do not perform every task personally; they guide people and resources. |
-| Through people | Human effort is central to management. |
-| Goals | Management is purposeful and goal-oriented. |
-| Effectively | The correct task must be completed. |
-| Efficiently | The task must be completed with minimum waste. |
+| Through people      | Human effort is central to management.                                          |
+| Goals               | Management is purposeful and goal-oriented.                                     |
+| Effectively         | The correct task must be completed.                                             |
+| Efficiently         | The task must be completed with minimum waste.                                  |
 
 # Unit 1B: Effectiveness and Efficiency
 
@@ -90,12 +91,12 @@ Efficiency means using resources wisely. If the company produced 5,000 units but
 
 ## Comparison
 
-| Basis | Effectiveness | Efficiency |
-|---|---|---|
-| Focus | End result. | Cost and resource use. |
-| Main question | Was the goal achieved? | Was the goal achieved with minimum waste? |
-| Example | Completing production target. | Completing production target at planned cost. |
-| Risk if ignored | Goals remain incomplete. | Costs rise and profits fall. |
+| Basis           | Effectiveness                 | Efficiency                                    |
+| --------------- | ----------------------------- | --------------------------------------------- |
+| Focus           | End result.                   | Cost and resource use.                        |
+| Main question   | Was the goal achieved?        | Was the goal achieved with minimum waste?     |
+| Example         | Completing production target. | Completing production target at planned cost. |
+| Risk if ignored | Goals remain incomplete.      | Costs rise and profits fall.                  |
 
 ## Best Managerial Outcome
 
@@ -126,10 +127,10 @@ Management is needed in all types of organisations:
 
 Management involves three dimensions:
 
-| Dimension | Meaning |
-|---|---|
-| Management of work | Tasks must be completed. |
-| Management of people | Employees must be guided and motivated. |
+| Dimension                | Meaning                                       |
+| ------------------------ | --------------------------------------------- |
+| Management of work       | Tasks must be completed.                      |
+| Management of people     | Employees must be guided and motivated.       |
 | Management of operations | Inputs must be converted into useful outputs. |
 
 ## 4. Management Is a Continuous Process
@@ -154,11 +155,11 @@ Management objectives can be grouped into organisational, social, and personal o
 
 ## Organisational Objectives
 
-| Objective | Meaning |
-|---|---|
-| Survival | Business must earn enough revenue to cover costs and continue. |
-| Profit | Business must earn surplus for reward, risk, and growth. |
-| Growth | Business should expand sales, production, market share, or capability. |
+| Objective | Meaning                                                                |
+| --------- | ---------------------------------------------------------------------- |
+| Survival  | Business must earn enough revenue to cover costs and continue.         |
+| Profit    | Business must earn surplus for reward, risk, and growth.               |
+| Growth    | Business should expand sales, production, market share, or capability. |
 
 ## Social Objectives
 
@@ -209,13 +210,13 @@ Efficient organisations create goods, services, employment, innovation, and soci
 
 ## Importance Table
 
-| Importance | Learner Explanation |
-|---|---|
-| Goal achievement | Unites people toward common targets. |
-| Efficiency | Makes best use of scarce resources. |
-| Adaptation | Helps organisation adjust to change. |
-| Employee growth | Provides motivation and development. |
-| Social benefit | Produces useful goods and responsible business conduct. |
+| Importance       | Learner Explanation                                     |
+| ---------------- | ------------------------------------------------------- |
+| Goal achievement | Unites people toward common targets.                    |
+| Efficiency       | Makes best use of scarce resources.                     |
+| Adaptation       | Helps organisation adjust to change.                    |
+| Employee growth  | Provides motivation and development.                    |
+| Social benefit   | Produces useful goods and responsible business conduct. |
 
 # Unit 1F: Nature of Management as Art
 
@@ -223,11 +224,11 @@ Management is an art because it involves practical application of knowledge and 
 
 ## Features of Art in Management
 
-| Feature of Art | Management Connection |
-|---|---|
-| Existence of theoretical knowledge | Management has principles and theories. |
-| Personalised application | Managers apply knowledge differently. |
-| Based on practice and creativity | Better management improves with experience and judgement. |
+| Feature of Art                     | Management Connection                                     |
+| ---------------------------------- | --------------------------------------------------------- |
+| Existence of theoretical knowledge | Management has principles and theories.                   |
+| Personalised application           | Managers apply knowledge differently.                     |
+| Based on practice and creativity   | Better management improves with experience and judgement. |
 
 ## Example
 
@@ -239,12 +240,12 @@ Management is a science because it has a systematic body of knowledge based on o
 
 ## Features of Science in Management
 
-| Feature of Science | Management Connection |
-|---|---|
-| Systematised knowledge | Management has organised concepts and principles. |
-| Principles based on observation | Many principles arise from research and experience. |
-| Cause and effect relationship | Some relationships can be predicted, such as motivation improving performance. |
-| Universal but flexible principles | Principles apply widely but need situational adjustment. |
+| Feature of Science                | Management Connection                                                          |
+| --------------------------------- | ------------------------------------------------------------------------------ |
+| Systematised knowledge            | Management has organised concepts and principles.                              |
+| Principles based on observation   | Many principles arise from research and experience.                            |
+| Cause and effect relationship     | Some relationships can be predicted, such as motivation improving performance. |
+| Universal but flexible principles | Principles apply widely but need situational adjustment.                       |
 
 ## Management Is Not an Exact Science
 
@@ -256,13 +257,13 @@ Management has some features of a profession, but not all features are fully com
 
 ## Professional Features
 
-| Feature | Management Position |
-|---|---|
-| Well-defined body of knowledge | Management has theory, principles, and specialised education. |
-| Restricted entry | Entry is not fully restricted; many managers may not have formal management degrees. |
-| Professional association | Management associations exist. |
-| Ethical code | Ethical conduct is expected. |
-| Service motive | Managers should serve organisation and society, not only personal gain. |
+| Feature                        | Management Position                                                                  |
+| ------------------------------ | ------------------------------------------------------------------------------------ |
+| Well-defined body of knowledge | Management has theory, principles, and specialised education.                        |
+| Restricted entry               | Entry is not fully restricted; many managers may not have formal management degrees. |
+| Professional association       | Management associations exist.                                                       |
+| Ethical code                   | Ethical conduct is expected.                                                         |
+| Service motive                 | Managers should serve organisation and society, not only personal gain.              |
 
 ## Conclusion
 
@@ -333,12 +334,12 @@ Controlling means setting standards, measuring actual performance, comparing bot
 
 ## Function Flow
 
-| Function | Output |
-|---|---|
-| Planning | Goals and action path. |
-| Organising | Structure and roles. |
-| Staffing | Right people in roles. |
-| Directing | People take action. |
+| Function    | Output                      |
+| ----------- | --------------------------- |
+| Planning    | Goals and action path.      |
+| Organising  | Structure and roles.        |
+| Staffing    | Right people in roles.      |
+| Directing   | People take action.         |
 | Controlling | Performance stays on track. |
 
 # Unit 1K: Coordination - Essence of Management
@@ -349,14 +350,14 @@ It is called the essence of management because every management function require
 
 ## Features of Coordination
 
-| Feature | Explanation |
-|---|---|
-| Integrates group effort | Brings different activities together. |
-| Ensures unity of action | Everyone moves toward common goal. |
-| Continuous | Needed at every stage. |
-| All-pervasive | Needed at all levels and departments. |
-| Responsibility of all managers | Not limited to one department. |
-| Deliberate function | Managers must consciously coordinate. |
+| Feature                        | Explanation                           |
+| ------------------------------ | ------------------------------------- |
+| Integrates group effort        | Brings different activities together. |
+| Ensures unity of action        | Everyone moves toward common goal.    |
+| Continuous                     | Needed at every stage.                |
+| All-pervasive                  | Needed at all levels and departments. |
+| Responsibility of all managers | Not limited to one department.        |
+| Deliberate function            | Managers must consciously coordinate. |
 
 ## Why Coordination Is Needed
 
@@ -368,13 +369,13 @@ It is called the essence of management because every management function require
 
 # Unit 1L: Common Mistakes and Corrections
 
-| Mistake | Correct Understanding |
-|---|---|
-| Management means giving orders only | It includes planning, organising, staffing, directing, controlling, and coordination. |
-| Effectiveness and efficiency are same | Effectiveness is goal achievement; efficiency is minimum resource use. |
-| Management is needed only in business | It is needed in all organisations. |
-| Coordination is a separate one-time function | It is continuous and present in all functions. |
-| Top managers do only controlling | Top managers mainly set goals, policies, and direction. |
+| Mistake                                      | Correct Understanding                                                                 |
+| -------------------------------------------- | ------------------------------------------------------------------------------------- |
+| Management means giving orders only          | It includes planning, organising, staffing, directing, controlling, and coordination. |
+| Effectiveness and efficiency are same        | Effectiveness is goal achievement; efficiency is minimum resource use.                |
+| Management is needed only in business        | It is needed in all organisations.                                                    |
+| Coordination is a separate one-time function | It is continuous and present in all functions.                                        |
+| Top managers do only controlling             | Top managers mainly set goals, policies, and direction.                               |
 
 ## Practice Set
 
@@ -391,35 +392,35 @@ It is called the essence of management because every management function require
 
 Business Studies case questions usually do not ask for direct definitions. They describe a manager's action and expect you to identify the concept.
 
-| Case Signal | Concept to Identify | Explanation to Add |
-|---|---|---|
-| Target achieved but cost was very high | Effective but not efficient | Goal was achieved, but resources were not used economically. |
-| Cost was low but target was missed | Efficient but not effective | Resources were saved, but desired result was not achieved. |
-| Different departments work toward one common goal | Coordination | Efforts are integrated to avoid conflict and duplication. |
-| Senior managers decide company policies | Top management | They set overall direction and long-term objectives. |
-| Department heads convert policies into action | Middle management | They link top plans with operating work. |
-| Supervisors guide workers daily | Supervisory management | They handle direct execution and worker performance. |
-| Manager plans, hires, motivates, and checks results | Management process | Shows interrelated functions of management. |
+| Case Signal                                         | Concept to Identify         | Explanation to Add                                           |
+| --------------------------------------------------- | --------------------------- | ------------------------------------------------------------ |
+| Target achieved but cost was very high              | Effective but not efficient | Goal was achieved, but resources were not used economically. |
+| Cost was low but target was missed                  | Efficient but not effective | Resources were saved, but desired result was not achieved.   |
+| Different departments work toward one common goal   | Coordination                | Efforts are integrated to avoid conflict and duplication.    |
+| Senior managers decide company policies             | Top management              | They set overall direction and long-term objectives.         |
+| Department heads convert policies into action       | Middle management           | They link top plans with operating work.                     |
+| Supervisors guide workers daily                     | Supervisory management      | They handle direct execution and worker performance.         |
+| Manager plans, hires, motivates, and checks results | Management process          | Shows interrelated functions of management.                  |
 
 ## Effectiveness and Efficiency Matrix
 
-| Situation | Effectiveness | Efficiency | Managerial Quality |
-|---|---|---|---|
-| Goal achieved at planned cost | High | High | Strong management. |
-| Goal achieved with waste | High | Low | Needs cost control and process improvement. |
-| Goal missed despite low cost | Low | High | Needs better goal focus and execution. |
-| Goal missed with high cost | Low | Low | Poor management; urgent corrective action needed. |
+| Situation                     | Effectiveness | Efficiency | Managerial Quality                                |
+| ----------------------------- | ------------- | ---------- | ------------------------------------------------- |
+| Goal achieved at planned cost | High          | High       | Strong management.                                |
+| Goal achieved with waste      | High          | Low        | Needs cost control and process improvement.       |
+| Goal missed despite low cost  | Low           | High       | Needs better goal focus and execution.            |
+| Goal missed with high cost    | Low           | Low        | Poor management; urgent corrective action needed. |
 
 ## Coordination Across Management Functions
 
 Coordination is not a separate corner of management. It appears inside every function.
 
-| Function | How Coordination Appears |
-|---|---|
-| Planning | Plans of departments must support common organisational goals. |
-| Organising | Duties and authority must fit together without duplication. |
-| Staffing | People must be placed where their skills match departmental needs. |
-| Directing | Instructions, motivation, and leadership must align individual effort. |
+| Function    | How Coordination Appears                                                         |
+| ----------- | -------------------------------------------------------------------------------- |
+| Planning    | Plans of departments must support common organisational goals.                   |
+| Organising  | Duties and authority must fit together without duplication.                      |
+| Staffing    | People must be placed where their skills match departmental needs.               |
+| Directing   | Instructions, motivation, and leadership must align individual effort.           |
 | Controlling | Deviations in one department must be corrected in relation to other departments. |
 
 ## Answer Writing Framework

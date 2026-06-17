@@ -1,35 +1,36 @@
 # Chapter 11: Electricity
+
 ### NCERT Class 10 - Science
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 10 |
-| **Subject** | Science |
-| **Chapter** | 11 |
-| **Core Theme** | Electric current, potential difference, resistance, Ohm's law, resistor combinations, heating effect of current, electric power, and domestic energy use. |
-| **Main Skills** | Reading circuit diagrams, applying Ohm's law, combining resistances, calculating heat, power, current, energy, and cost of electricity. |
-| **Numerical Focus** | Unit conversion, formula selection, series and parallel resistance, electrical energy in joules and kilowatt hour. |
+| Detail              | Learner-Friendly Information                                                                                                                              |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Class**           | 10                                                                                                                                                        |
+| **Subject**         | Science                                                                                                                                                   |
+| **Chapter**         | 11                                                                                                                                                        |
+| **Core Theme**      | Electric current, potential difference, resistance, Ohm's law, resistor combinations, heating effect of current, electric power, and domestic energy use. |
+| **Main Skills**     | Reading circuit diagrams, applying Ohm's law, combining resistances, calculating heat, power, current, energy, and cost of electricity.                   |
+| **Numerical Focus** | Unit conversion, formula selection, series and parallel resistance, electrical energy in joules and kilowatt hour.                                        |
 
 ---
 
 ## Section Structure
 
-| Unit | Topic | Main Learning Focus |
-|---|---|---|
-| **11A** | Electric Current and Circuit | Charge flow, closed circuit, conventional current, ammeter. |
-| **11B** | Electric Potential and Potential Difference | Work done per unit charge, volt, cell and battery, voltmeter. |
-| **11C** | Circuit Diagrams | Symbols, circuit representation, correct meter connections. |
-| **11D** | Ohm's Law | Relation between voltage, current, and resistance. |
-| **11E** | Resistance of Conductors | Length, area, material, resistivity, conductors, alloys, insulators. |
-| **11F** | Resistors in Series | Same current, voltage division, equivalent resistance. |
-| **11G** | Resistors in Parallel | Same voltage, current division, equivalent resistance. |
-| **11H** | Heating Effect of Current | Joule's law, electrical heating, fuse, safety. |
-| **11I** | Electric Power | Power formulae, watt, kilowatt hour, commercial unit. |
-| **11J** | Solved NCERT Questions | In-text questions and exercise solutions. |
+| Unit    | Topic                                       | Main Learning Focus                                                  |
+| ------- | ------------------------------------------- | -------------------------------------------------------------------- |
+| **11A** | Electric Current and Circuit                | Charge flow, closed circuit, conventional current, ammeter.          |
+| **11B** | Electric Potential and Potential Difference | Work done per unit charge, volt, cell and battery, voltmeter.        |
+| **11C** | Circuit Diagrams                            | Symbols, circuit representation, correct meter connections.          |
+| **11D** | Ohm's Law                                   | Relation between voltage, current, and resistance.                   |
+| **11E** | Resistance of Conductors                    | Length, area, material, resistivity, conductors, alloys, insulators. |
+| **11F** | Resistors in Series                         | Same current, voltage division, equivalent resistance.               |
+| **11G** | Resistors in Parallel                       | Same voltage, current division, equivalent resistance.               |
+| **11H** | Heating Effect of Current                   | Joule's law, electrical heating, fuse, safety.                       |
+| **11I** | Electric Power                              | Power formulae, watt, kilowatt hour, commercial unit.                |
+| **11J** | Solved NCERT Questions                      | In-text questions and exercise solutions.                            |
 
 ---
 
@@ -37,48 +38,48 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Define current** | Explain electric current as rate of flow of charge. |
-| **Use charge-current-time relation** | Calculate `I`, `Q`, or `t` using the correct units. |
-| **Explain potential difference** | Connect potential difference with work done per unit charge. |
-| **Read circuits** | Identify series and parallel connections and place meters correctly. |
-| **Apply Ohm's law** | Solve numerical problems using `V = IR`. |
-| **Explain resistance** | Describe how resistance depends on length, area, material, and temperature. |
-| **Use resistivity** | Apply `R = rho l/A` and interpret resistivity values. |
-| **Combine resistors** | Find equivalent resistance for series, parallel, and mixed circuits. |
-| **Use Joule's law** | Calculate heat produced by electric current. |
-| **Calculate power and energy** | Use `P = VI`, `P = I^2R`, `P = V^2/R`, and `E = Pt`. |
-| **Interpret domestic electricity** | Convert between watt hour, kilowatt hour, and joule. |
+| Outcome                              | You Should Be Able To...                                                    |
+| ------------------------------------ | --------------------------------------------------------------------------- |
+| **Define current**                   | Explain electric current as rate of flow of charge.                         |
+| **Use charge-current-time relation** | Calculate `I`, `Q`, or `t` using the correct units.                         |
+| **Explain potential difference**     | Connect potential difference with work done per unit charge.                |
+| **Read circuits**                    | Identify series and parallel connections and place meters correctly.        |
+| **Apply Ohm's law**                  | Solve numerical problems using `V = IR`.                                    |
+| **Explain resistance**               | Describe how resistance depends on length, area, material, and temperature. |
+| **Use resistivity**                  | Apply `R = rho l/A` and interpret resistivity values.                       |
+| **Combine resistors**                | Find equivalent resistance for series, parallel, and mixed circuits.        |
+| **Use Joule's law**                  | Calculate heat produced by electric current.                                |
+| **Calculate power and energy**       | Use `P = VI`, `P = I^2R`, `P = V^2/R`, and `E = Pt`.                        |
+| **Interpret domestic electricity**   | Convert between watt hour, kilowatt hour, and joule.                        |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Electric charge** | Physical quantity carried by particles such as electrons and protons; SI unit is coulomb. |
-| **Electric current** | Rate of flow of electric charge through a cross-section of a conductor. |
-| **Conductor** | Material that allows electric charge to flow easily. |
-| **Insulator** | Material that offers very high resistance to charge flow. |
-| **Circuit** | Continuous closed path through which current can flow. |
-| **Open circuit** | Circuit with a break in the path; current does not flow. |
-| **Closed circuit** | Complete conducting path; current can flow. |
-| **Conventional current** | Direction of current taken from positive terminal to negative terminal outside the cell. |
-| **Electron flow** | Actual movement of electrons in a metallic conductor, opposite to conventional current. |
-| **Ammeter** | Instrument used to measure current; connected in series. |
-| **Potential difference** | Work done to move a unit charge between two points. |
-| **Voltmeter** | Instrument used to measure potential difference; connected in parallel. |
-| **Resistance** | Opposition offered by a conductor to the flow of current. |
-| **Resistor** | Component that provides a known or useful resistance in a circuit. |
-| **Rheostat** | Variable resistor used to change current without changing the voltage source. |
-| **Resistivity** | Material property that measures how strongly a material opposes current. |
-| **Series connection** | Components connected end to end so the same current passes through all of them. |
-| **Parallel connection** | Components connected across the same two points so the same voltage acts across each branch. |
-| **Heating effect** | Production of heat when current passes through a resistance. |
-| **Fuse** | Safety device that melts and breaks a circuit when current becomes too high. |
-| **Electric power** | Rate at which electrical energy is consumed or converted. |
-| **Kilowatt hour** | Commercial unit of electrical energy; one kilowatt used for one hour. |
+| Term                     | Meaning                                                                                      |
+| ------------------------ | -------------------------------------------------------------------------------------------- |
+| **Electric charge**      | Physical quantity carried by particles such as electrons and protons; SI unit is coulomb.    |
+| **Electric current**     | Rate of flow of electric charge through a cross-section of a conductor.                      |
+| **Conductor**            | Material that allows electric charge to flow easily.                                         |
+| **Insulator**            | Material that offers very high resistance to charge flow.                                    |
+| **Circuit**              | Continuous closed path through which current can flow.                                       |
+| **Open circuit**         | Circuit with a break in the path; current does not flow.                                     |
+| **Closed circuit**       | Complete conducting path; current can flow.                                                  |
+| **Conventional current** | Direction of current taken from positive terminal to negative terminal outside the cell.     |
+| **Electron flow**        | Actual movement of electrons in a metallic conductor, opposite to conventional current.      |
+| **Ammeter**              | Instrument used to measure current; connected in series.                                     |
+| **Potential difference** | Work done to move a unit charge between two points.                                          |
+| **Voltmeter**            | Instrument used to measure potential difference; connected in parallel.                      |
+| **Resistance**           | Opposition offered by a conductor to the flow of current.                                    |
+| **Resistor**             | Component that provides a known or useful resistance in a circuit.                           |
+| **Rheostat**             | Variable resistor used to change current without changing the voltage source.                |
+| **Resistivity**          | Material property that measures how strongly a material opposes current.                     |
+| **Series connection**    | Components connected end to end so the same current passes through all of them.              |
+| **Parallel connection**  | Components connected across the same two points so the same voltage acts across each branch. |
+| **Heating effect**       | Production of heat when current passes through a resistance.                                 |
+| **Fuse**                 | Safety device that melts and breaks a circuit when current becomes too high.                 |
+| **Electric power**       | Rate at which electrical energy is consumed or converted.                                    |
+| **Kilowatt hour**        | Commercial unit of electrical energy; one kilowatt used for one hour.                        |
 
 ---
 
@@ -252,10 +253,10 @@ In a metal wire, the moving charges are mainly electrons. When these electrons m
 
 The amount of current depends on:
 
-| Factor | Meaning |
-|---|---|
-| **Charge passing** | More charge passing a point means larger current. |
-| **Time taken** | The same charge passing in less time means larger current. |
+| Factor             | Meaning                                                    |
+| ------------------ | ---------------------------------------------------------- |
+| **Charge passing** | More charge passing a point means larger current.          |
+| **Time taken**     | The same charge passing in less time means larger current. |
 
 The mathematical definition is:
 
@@ -265,11 +266,11 @@ $$
 
 where:
 
-| Symbol | Meaning | SI Unit |
-|---|---|---|
-| `I` | electric current | ampere, A |
-| `Q` | electric charge | coulomb, C |
-| `t` | time | second, s |
+| Symbol | Meaning          | SI Unit    |
+| ------ | ---------------- | ---------- |
+| `I`    | electric current | ampere, A  |
+| `Q`    | electric charge  | coulomb, C |
+| `t`    | time             | second, s  |
 
 ## Electric Circuit
 
@@ -277,19 +278,19 @@ An electric circuit is a continuous and closed conducting path through which cur
 
 For example, a torch bulb glows only when the cells, switch, wires, and bulb form a complete path. If the switch is open, the path breaks and current stops.
 
-| Circuit State | Current Flow? | Result |
-|---|---|---|
-| **Closed circuit** | Yes | Bulb can glow or device can work. |
-| **Open circuit** | No | Bulb does not glow or device stops. |
+| Circuit State      | Current Flow? | Result                              |
+| ------------------ | ------------- | ----------------------------------- |
+| **Closed circuit** | Yes           | Bulb can glow or device can work.   |
+| **Open circuit**   | No            | Bulb does not glow or device stops. |
 
 ## Role of a Switch
 
 A switch controls whether the conducting path is complete.
 
-| Switch Position | Circuit Condition | Current |
-|---|---|---|
-| **On** | Closed | Current flows. |
-| **Off** | Open | Current stops. |
+| Switch Position | Circuit Condition | Current        |
+| --------------- | ----------------- | -------------- |
+| **On**          | Closed            | Current flows. |
+| **Off**         | Open              | Current stops. |
 
 ## Direction of Current
 
@@ -297,9 +298,9 @@ In metallic conductors, electrons move from the negative terminal toward the pos
 
 However, by convention, electric current is taken in the opposite direction:
 
-| Flow Type | Direction Outside the Cell |
-|---|---|
-| **Electron flow** | Negative terminal to positive terminal. |
+| Flow Type                | Direction Outside the Cell              |
+| ------------------------ | --------------------------------------- |
+| **Electron flow**        | Negative terminal to positive terminal. |
 | **Conventional current** | Positive terminal to negative terminal. |
 
 This convention was accepted before electrons were discovered, and it is still used in circuit diagrams and textbooks.
@@ -316,10 +317,10 @@ $$
 
 Small currents are often expressed as:
 
-| Unit | Symbol | Value in Ampere |
-|---|---|---|
-| milliampere | mA | `10^-3 A` |
-| microampere | microampere or `mu A` | `10^-6 A` |
+| Unit        | Symbol                | Value in Ampere |
+| ----------- | --------------------- | --------------- |
+| milliampere | mA                    | `10^-3 A`       |
+| microampere | microampere or `mu A` | `10^-6 A`       |
 
 ## Charge in One Coulomb
 
@@ -347,10 +348,10 @@ An ammeter measures current.
 
 Important rules:
 
-| Rule | Reason |
-|---|---|
-| Connect ammeter in series. | The same current must pass through the meter. |
-| Use correct range. | Too much current can damage the meter. |
+| Rule                             | Reason                                              |
+| -------------------------------- | --------------------------------------------------- |
+| Connect ammeter in series.       | The same current must pass through the meter.       |
+| Use correct range.               | Too much current can damage the meter.              |
 | Ammeter has very low resistance. | It should not significantly reduce circuit current. |
 
 ## Worked Example: Charge Flow
@@ -395,11 +396,11 @@ Charges do not flow through a conductor by themselves. A potential difference is
 
 The idea is similar to water flow:
 
-| Water Flow | Electric Flow |
-|---|---|
+| Water Flow                                       | Electric Flow                                      |
+| ------------------------------------------------ | -------------------------------------------------- |
 | Water flows when there is a pressure difference. | Charges flow when there is a potential difference. |
-| Pump maintains pressure difference. | Cell or battery maintains potential difference. |
-| Water moves through pipe. | Charges move through conductor. |
+| Pump maintains pressure difference.              | Cell or battery maintains potential difference.    |
+| Water moves through pipe.                        | Charges move through conductor.                    |
 
 ## Electric Potential Difference
 
@@ -411,11 +412,11 @@ $$
 
 where:
 
-| Symbol | Meaning | SI Unit |
-|---|---|---|
-| `V` | potential difference | volt, V |
-| `W` | work done | joule, J |
-| `Q` | charge | coulomb, C |
+| Symbol | Meaning              | SI Unit    |
+| ------ | -------------------- | ---------- |
+| `V`    | potential difference | volt, V    |
+| `W`    | work done            | joule, J   |
+| `Q`    | charge               | coulomb, C |
 
 ## Unit of Potential Difference
 
@@ -444,11 +445,11 @@ A voltmeter measures potential difference.
 
 Important rules:
 
-| Rule | Reason |
-|---|---|
-| Connect voltmeter in parallel. | It compares energy difference between two points. |
-| Voltmeter has high resistance. | It should draw very little current. |
-| Connect across the component. | It measures the potential difference of that component. |
+| Rule                           | Reason                                                  |
+| ------------------------------ | ------------------------------------------------------- |
+| Connect voltmeter in parallel. | It compares energy difference between two points.       |
+| Voltmeter has high resistance. | It should draw very little current.                     |
+| Connect across the component.  | It measures the potential difference of that component. |
 
 ## Worked Example: Work Done
 
@@ -492,34 +493,34 @@ Real circuits can be messy to draw. Circuit diagrams use standard symbols to rep
 
 A good circuit diagram should show:
 
-| Feature | Why It Matters |
-|---|---|
-| **Source** | Shows where potential difference comes from. |
-| **Closed path** | Shows whether current can flow. |
-| **Components** | Shows resistors, bulbs, switches, meters, and wires. |
-| **Connections** | Shows whether parts are in series or parallel. |
-| **Meter placement** | Prevents wrong measurement and wrong conclusions. |
+| Feature             | Why It Matters                                       |
+| ------------------- | ---------------------------------------------------- |
+| **Source**          | Shows where potential difference comes from.         |
+| **Closed path**     | Shows whether current can flow.                      |
+| **Components**      | Shows resistors, bulbs, switches, meters, and wires. |
+| **Connections**     | Shows whether parts are in series or parallel.       |
+| **Meter placement** | Prevents wrong measurement and wrong conclusions.    |
 
 ## Common Components
 
-| Component | Learner Description |
-|---|---|
-| **Cell** | Single source of potential difference. |
-| **Battery** | Two or more cells connected together. |
-| **Plug key or switch** | Opens or closes the circuit. |
-| **Wire joint** | Point where wires are connected. |
-| **Wires crossing without joining** | Wires cross but are not electrically connected. |
-| **Resistor** | Provides resistance. |
-| **Variable resistance or rheostat** | Changes resistance to regulate current. |
-| **Ammeter** | Measures current in series. |
-| **Voltmeter** | Measures potential difference in parallel. |
+| Component                           | Learner Description                             |
+| ----------------------------------- | ----------------------------------------------- |
+| **Cell**                            | Single source of potential difference.          |
+| **Battery**                         | Two or more cells connected together.           |
+| **Plug key or switch**              | Opens or closes the circuit.                    |
+| **Wire joint**                      | Point where wires are connected.                |
+| **Wires crossing without joining**  | Wires cross but are not electrically connected. |
+| **Resistor**                        | Provides resistance.                            |
+| **Variable resistance or rheostat** | Changes resistance to regulate current.         |
+| **Ammeter**                         | Measures current in series.                     |
+| **Voltmeter**                       | Measures potential difference in parallel.      |
 
 ## Correct Meter Placement
 
-| Meter | Measures | Correct Connection |
-|---|---|---|
-| Ammeter | Current | Series with the component or branch. |
-| Voltmeter | Potential difference | Parallel across the component. |
+| Meter     | Measures             | Correct Connection                   |
+| --------- | -------------------- | ------------------------------------ |
+| Ammeter   | Current              | Series with the component or branch. |
+| Voltmeter | Potential difference | Parallel across the component.       |
 
 ## Common Error
 
@@ -535,10 +536,10 @@ For a metallic conductor at constant temperature, current increases when the pot
 
 Experiments with a nichrome wire show that:
 
-| Observation | Meaning |
-|---|---|
-| `V/I` remains constant. | Resistance is constant for the conductor at fixed temperature. |
-| V-I graph is a straight line through origin. | Current is directly proportional to potential difference. |
+| Observation                                  | Meaning                                                        |
+| -------------------------------------------- | -------------------------------------------------------------- |
+| `V/I` remains constant.                      | Resistance is constant for the conductor at fixed temperature. |
+| V-I graph is a straight line through origin. | Current is directly proportional to potential difference.      |
 
 ## Statement of Ohm's Law
 
@@ -584,9 +585,9 @@ If a potential difference of `1 V` produces a current of `1 A` through a conduct
 
 For the same potential difference:
 
-| Resistance | Current |
-|---|---|
-| Low resistance | Large current. |
+| Resistance      | Current        |
+| --------------- | -------------- |
+| Low resistance  | Large current. |
 | High resistance | Small current. |
 
 From Ohm's law:
@@ -603,20 +604,20 @@ A rheostat is a variable resistor used to change current in a circuit.
 
 It is useful when we want to:
 
-| Use | Explanation |
-|---|---|
-| Increase current | Decrease resistance. |
-| Decrease current | Increase resistance. |
-| Study Ohm's law | Change current gradually and record readings. |
+| Use              | Explanation                                   |
+| ---------------- | --------------------------------------------- |
+| Increase current | Decrease resistance.                          |
+| Decrease current | Increase resistance.                          |
+| Study Ohm's law  | Change current gradually and record readings. |
 
 ## Conductors, Resistors, and Insulators
 
-| Material Type | Resistance | Current Flow |
-|---|---|---|
-| Good conductor | Very low | Easy. |
-| Resistor | Appreciable | Controlled. |
-| Poor conductor | High | Difficult. |
-| Insulator | Very high | Negligible under normal conditions. |
+| Material Type  | Resistance  | Current Flow                        |
+| -------------- | ----------- | ----------------------------------- |
+| Good conductor | Very low    | Easy.                               |
+| Resistor       | Appreciable | Controlled.                         |
+| Poor conductor | High        | Difficult.                          |
+| Insulator      | Very high   | Negligible under normal conditions. |
 
 ---
 
@@ -641,10 +642,10 @@ $$
 
 A longer wire has greater resistance because electrons face more collisions while moving through it.
 
-| Wire Length | Resistance |
-|---|---|
-| Short wire | Lower resistance. |
-| Long wire | Higher resistance. |
+| Wire Length | Resistance         |
+| ----------- | ------------------ |
+| Short wire  | Lower resistance.  |
+| Long wire   | Higher resistance. |
 
 ## Dependence on Area of Cross-Section
 
@@ -656,20 +657,20 @@ $$
 
 A thicker wire has lower resistance because charges get more conducting path.
 
-| Wire Thickness | Area | Resistance |
-|---|---|---|
-| Thin wire | Small | High. |
-| Thick wire | Large | Low. |
+| Wire Thickness | Area  | Resistance |
+| -------------- | ----- | ---------- |
+| Thin wire      | Small | High.      |
+| Thick wire     | Large | Low.       |
 
 ## Dependence on Material
 
 Different materials resist current differently.
 
-| Material Type | Resistivity | Example |
-|---|---|---|
-| Good conductor | Low | Silver, copper, aluminium. |
-| Alloy | Higher than pure metals | Nichrome, manganin, constantan. |
-| Insulator | Very high | Glass, rubber, ebonite. |
+| Material Type  | Resistivity             | Example                         |
+| -------------- | ----------------------- | ------------------------------- |
+| Good conductor | Low                     | Silver, copper, aluminium.      |
+| Alloy          | Higher than pure metals | Nichrome, manganin, constantan. |
+| Insulator      | Very high               | Glass, rubber, ebonite.         |
 
 ## Resistance Formula
 
@@ -701,29 +702,29 @@ $$
 
 You do not need to memorise all values, but you should understand their order.
 
-| Material | Type | Approximate Resistivity at 20 degrees C |
-|---|---|---|
-| Silver | conductor | `1.60 x 10^-8 ohm m` |
-| Copper | conductor | `1.62 x 10^-8 ohm m` |
-| Aluminium | conductor | `2.63 x 10^-8 ohm m` |
-| Tungsten | conductor | `5.20 x 10^-8 ohm m` |
-| Iron | conductor | `10.0 x 10^-8 ohm m` |
-| Mercury | conductor | `94.0 x 10^-8 ohm m` |
-| Manganese | conductor | `1.84 x 10^-6 ohm m` |
-| Constantan | alloy | `49 x 10^-6 ohm m` |
-| Nichrome | alloy | `100 x 10^-6 ohm m` |
-| Glass | insulator | about `10^10` to `10^14 ohm m` |
-| Hard rubber | insulator | about `10^13` to `10^16 ohm m` |
+| Material    | Type      | Approximate Resistivity at 20 degrees C |
+| ----------- | --------- | --------------------------------------- |
+| Silver      | conductor | `1.60 x 10^-8 ohm m`                    |
+| Copper      | conductor | `1.62 x 10^-8 ohm m`                    |
+| Aluminium   | conductor | `2.63 x 10^-8 ohm m`                    |
+| Tungsten    | conductor | `5.20 x 10^-8 ohm m`                    |
+| Iron        | conductor | `10.0 x 10^-8 ohm m`                    |
+| Mercury     | conductor | `94.0 x 10^-8 ohm m`                    |
+| Manganese   | conductor | `1.84 x 10^-6 ohm m`                    |
+| Constantan  | alloy     | `49 x 10^-6 ohm m`                      |
+| Nichrome    | alloy     | `100 x 10^-6 ohm m`                     |
+| Glass       | insulator | about `10^10` to `10^14 ohm m`          |
+| Hard rubber | insulator | about `10^13` to `10^16 ohm m`          |
 
 ## Why Alloys Are Used in Heating Devices
 
 Alloys such as nichrome are used in electric heaters, toasters, and irons because:
 
-| Property | Usefulness |
-|---|---|
-| High resistivity | Produces more heat for a given size. |
-| High melting point | Does not melt easily when hot. |
-| Does not oxidise readily | Lasts longer at high temperature. |
+| Property                 | Usefulness                           |
+| ------------------------ | ------------------------------------ |
+| High resistivity         | Produces more heat for a given size. |
+| High melting point       | Does not melt easily when hot.       |
+| Does not oxidise readily | Lasts longer at high temperature.    |
 
 ## Why Copper and Aluminium Are Used in Transmission Lines
 
@@ -741,10 +742,10 @@ Resistors are in series when they are connected end to end and current has only 
 
 In a series circuit:
 
-| Quantity | Behaviour |
-|---|---|
-| Current | Same through every resistor. |
-| Potential difference | Divides across resistors. |
+| Quantity              | Behaviour                      |
+| --------------------- | ------------------------------ |
+| Current               | Same through every resistor.   |
+| Potential difference  | Divides across resistors.      |
 | Equivalent resistance | Sum of individual resistances. |
 
 ## Current in Series
@@ -829,12 +830,12 @@ So, if `R` is larger, `V` is larger.
 
 Series circuits are not used for domestic wiring because:
 
-| Problem | Explanation |
-|---|---|
-| Same current through all appliances | Appliances need different currents. |
-| One failure breaks circuit | If one device fails, all stop working. |
-| Voltage divides | Each appliance may not get rated voltage. |
-| Independent control is difficult | Switching one appliance can affect others. |
+| Problem                             | Explanation                                |
+| ----------------------------------- | ------------------------------------------ |
+| Same current through all appliances | Appliances need different currents.        |
+| One failure breaks circuit          | If one device fails, all stop working.     |
+| Voltage divides                     | Each appliance may not get rated voltage.  |
+| Independent control is difficult    | Switching one appliance can affect others. |
 
 ## Worked Example: Series Lamp and Resistor
 
@@ -908,10 +909,10 @@ Resistors are in parallel when they are connected between the same two points.
 
 In a parallel circuit:
 
-| Quantity | Behaviour |
-|---|---|
-| Potential difference | Same across every branch. |
-| Current | Divides into branches. |
+| Quantity              | Behaviour                                     |
+| --------------------- | --------------------------------------------- |
+| Potential difference  | Same across every branch.                     |
+| Current               | Divides into branches.                        |
 | Equivalent resistance | Less than the smallest individual resistance. |
 
 ## Voltage in Parallel
@@ -992,12 +993,12 @@ $$
 
 Domestic appliances are connected in parallel because:
 
-| Advantage | Explanation |
-|---|---|
-| Same voltage | Each appliance gets the supply voltage. |
-| Independent operation | One appliance can be switched off without stopping others. |
+| Advantage               | Explanation                                                         |
+| ----------------------- | ------------------------------------------------------------------- |
+| Same voltage            | Each appliance gets the supply voltage.                             |
+| Independent operation   | One appliance can be switched off without stopping others.          |
 | Different current needs | Each appliance draws current according to its resistance and power. |
-| Fault isolation | Failure of one appliance does not break the whole circuit. |
+| Fault isolation         | Failure of one appliance does not break the whole circuit.          |
 
 ## Worked Example: Three Parallel Resistors
 
@@ -1127,11 +1128,11 @@ When current flows through a resistor, electrical energy is converted into heat.
 
 This is why:
 
-| Observation | Reason |
-|---|---|
-| Electric iron becomes hot. | Current heats the resistance element. |
-| Toaster glows red. | Its heating wire reaches high temperature. |
-| Fan motor becomes warm after long use. | Some electrical energy is lost as heat. |
+| Observation                            | Reason                                     |
+| -------------------------------------- | ------------------------------------------ |
+| Electric iron becomes hot.             | Current heats the resistance element.      |
+| Toaster glows red.                     | Its heating wire reaches high temperature. |
+| Fan motor becomes warm after long use. | Some electrical energy is lost as heat.    |
 
 If the circuit is purely resistive, the electrical energy supplied by the source is mainly converted into heat.
 
@@ -1179,39 +1180,39 @@ This is Joule's law of heating.
 
 Heat produced in a resistor is:
 
-| Relation | Meaning |
-|---|---|
+| Relation                       | Meaning                                                              |
+| ------------------------------ | -------------------------------------------------------------------- |
 | Directly proportional to `I^2` | Doubling current makes heat four times, if `R` and `t` are constant. |
-| Directly proportional to `R` | Larger resistance produces more heat for same current and time. |
-| Directly proportional to `t` | Longer current flow produces more heat. |
+| Directly proportional to `R`   | Larger resistance produces more heat for same current and time.      |
+| Directly proportional to `t`   | Longer current flow produces more heat.                              |
 
 ## Formula Selection
 
-| Given Data | Best Formula |
-|---|---|
-| `V`, `I`, `t` | `H = VIt` |
-| `I`, `R`, `t` | `H = I^2Rt` |
+| Given Data    | Best Formula |
+| ------------- | ------------ |
+| `V`, `I`, `t` | `H = VIt`    |
+| `I`, `R`, `t` | `H = I^2Rt`  |
 | `V`, `R`, `t` | `H = V^2t/R` |
 
 ## Practical Applications
 
-| Device | How Heating Effect Is Used |
-|---|---|
-| Electric iron | Heating element converts electrical energy into heat. |
-| Electric toaster | Nichrome wire heats bread. |
-| Electric kettle | Heating coil heats water. |
-| Electric oven | Heating coil produces high temperature. |
-| Electric bulb | Filament becomes hot and emits light. |
-| Fuse | Wire melts when current exceeds safe value. |
+| Device           | How Heating Effect Is Used                            |
+| ---------------- | ----------------------------------------------------- |
+| Electric iron    | Heating element converts electrical energy into heat. |
+| Electric toaster | Nichrome wire heats bread.                            |
+| Electric kettle  | Heating coil heats water.                             |
+| Electric oven    | Heating coil produces high temperature.               |
+| Electric bulb    | Filament becomes hot and emits light.                 |
+| Fuse             | Wire melts when current exceeds safe value.           |
 
 ## Tungsten in Bulb Filaments
 
 Tungsten is used in electric bulb filaments because:
 
-| Property | Importance |
-|---|---|
-| Very high melting point | It can become white hot without melting. |
-| Can be drawn into thin wire | Useful for filament construction. |
+| Property                        | Importance                                |
+| ------------------------------- | ----------------------------------------- |
+| Very high melting point         | It can become white hot without melting.  |
+| Can be drawn into thin wire     | Useful for filament construction.         |
 | Emits light at high temperature | Converts part of heat into visible light. |
 
 Bulbs are often filled with inactive gases like nitrogen and argon to reduce evaporation of tungsten and increase filament life.
@@ -1412,10 +1413,10 @@ $$
 
 Household appliances often have power ratings in watts or kilowatts.
 
-| Appliance | Typical Meaning of Rating |
-|---|---|
-| `100 W` bulb | Consumes `100 J` of energy each second. |
-| `1000 W` heater | Consumes `1000 J` of energy each second. |
+| Appliance            | Typical Meaning of Rating                         |
+| -------------------- | ------------------------------------------------- |
+| `100 W` bulb         | Consumes `100 J` of energy each second.           |
+| `1000 W` heater      | Consumes `1000 J` of energy each second.          |
 | `400 W` refrigerator | Uses energy at a rate of `400 W` while operating. |
 
 ## Electrical Energy
@@ -1594,12 +1595,12 @@ $$
 
 Resistance depends on:
 
-| Factor | Relation |
-|---|---|
-| Length | Longer conductor has greater resistance. |
-| Area of cross-section | Thicker conductor has lower resistance. |
-| Material | Different materials have different resistivities. |
-| Temperature | Resistance usually changes with temperature. |
+| Factor                | Relation                                          |
+| --------------------- | ------------------------------------------------- |
+| Length                | Longer conductor has greater resistance.          |
+| Area of cross-section | Thicker conductor has lower resistance.           |
+| Material              | Different materials have different resistivities. |
+| Temperature           | Resistance usually changes with temperature.      |
 
 ## Question 8: Will Current Flow More Easily Through a Thick Wire or Thin Wire of Same Material?
 
@@ -1627,11 +1628,11 @@ If `R` is constant and `V` becomes half, current also becomes half.
 
 Alloys are used because they:
 
-| Reason | Explanation |
-|---|---|
-| Have high resistivity | Produce sufficient heat. |
-| Have high melting point | Do not melt easily. |
-| Do not oxidise readily | Last longer at high temperature. |
+| Reason                  | Explanation                      |
+| ----------------------- | -------------------------------- |
+| Have high resistivity   | Produce sufficient heat.         |
+| Have high melting point | Do not melt easily.              |
+| Do not oxidise readily  | Last longer at high temperature. |
 
 ## Question 11: Which Among Iron and Mercury Is a Better Conductor?
 
@@ -1645,11 +1646,11 @@ Silver is the best conductor among the listed materials because it has the lowes
 
 The circuit contains:
 
-| Component | Value |
-|---|---|
-| Three cells | `2 V` each |
+| Component           | Value                      |
+| ------------------- | -------------------------- |
+| Three cells         | `2 V` each                 |
 | Resistors in series | `5 ohm`, `8 ohm`, `12 ohm` |
-| Plug key | In series |
+| Plug key            | In series                  |
 
 Total voltage:
 
@@ -1733,12 +1734,12 @@ Again, the equivalent resistance is slightly less than `1 ohm`.
 
 Given:
 
-| Appliance | Resistance |
-|---|---|
-| Lamp | `100 ohm` |
-| Toaster | `50 ohm` |
-| Water filter | `500 ohm` |
-| Supply voltage | `220 V` |
+| Appliance      | Resistance |
+| -------------- | ---------- |
+| Lamp           | `100 ohm`  |
+| Toaster        | `50 ohm`   |
+| Water filter   | `500 ohm`  |
+| Supply voltage | `220 V`    |
 
 Current through lamp:
 
@@ -1788,12 +1789,12 @@ $$
 
 Advantages:
 
-| Advantage | Explanation |
-|---|---|
-| Same voltage | Every appliance gets full supply voltage. |
-| Independent switching | One appliance can be operated without affecting others. |
+| Advantage                   | Explanation                                               |
+| --------------------------- | --------------------------------------------------------- |
+| Same voltage                | Every appliance gets full supply voltage.                 |
+| Independent switching       | One appliance can be operated without affecting others.   |
 | Different currents possible | Each appliance draws current according to its resistance. |
-| Failure does not stop all | If one branch opens, other branches still work. |
+| Failure does not stop all   | If one branch opens, other branches still work.           |
 
 ## Question 17: Connect 2 Ohm, 3 Ohm, and 6 Ohm to Get 4 Ohm and 1 Ohm
 
@@ -2227,8 +2228,8 @@ $$
 
 Given readings:
 
-| Current I (A) | 0.5 | 1.0 | 2.0 | 3.0 | 4.0 |
-|---|---:|---:|---:|---:|---:|
+| Current I (A)              | 0.5 | 1.0 | 2.0 |  3.0 |  4.0 |
+| -------------------------- | --: | --: | --: | ---: | ---: |
 | Potential difference V (V) | 1.6 | 3.4 | 6.7 | 10.2 | 13.2 |
 
 For a V-I graph, plot `I` on x-axis and `V` on y-axis.
@@ -2667,12 +2668,12 @@ Alloys have high resistivity, high melting point, and do not oxidise readily at 
 
 Series arrangement is not used because:
 
-| Reason | Explanation |
-|---|---|
-| Same current | Appliances need different currents. |
-| Voltage division | Appliances may not get full rated voltage. |
-| One failure stops all | If one appliance fails, circuit breaks. |
-| No independent control | Switching one affects the whole circuit. |
+| Reason                 | Explanation                                |
+| ---------------------- | ------------------------------------------ |
+| Same current           | Appliances need different currents.        |
+| Voltage division       | Appliances may not get full rated voltage. |
+| One failure stops all  | If one appliance fails, circuit breaks.    |
+| No independent control | Switching one affects the whole circuit.   |
 
 ### Part D: How Does Resistance Vary with Area of Cross-Section?
 
@@ -2694,32 +2695,32 @@ Copper and aluminium have low resistivity, so energy loss is less. They are also
 
 ## Activity 11.1: Verifying Ohm's Law with Nichrome Wire
 
-| Step | What to Do | What to Observe |
-|---|---|---|
-| 1 | Connect nichrome wire, ammeter, voltmeter, key, and one cell. | Record current and voltage. |
-| 2 | Repeat with two, three, and four cells. | Current increases as voltage increases. |
-| 3 | Calculate `V/I` each time. | Ratio remains nearly constant. |
-| 4 | Plot V-I graph. | Straight line through origin. |
+| Step | What to Do                                                    | What to Observe                         |
+| ---- | ------------------------------------------------------------- | --------------------------------------- |
+| 1    | Connect nichrome wire, ammeter, voltmeter, key, and one cell. | Record current and voltage.             |
+| 2    | Repeat with two, three, and four cells.                       | Current increases as voltage increases. |
+| 3    | Calculate `V/I` each time.                                    | Ratio remains nearly constant.          |
+| 4    | Plot V-I graph.                                               | Straight line through origin.           |
 
 **Conclusion:** For a metallic conductor at constant temperature, `V` is directly proportional to `I`.
 
 ## Activity 11.2: Comparing Different Components
 
-| Component in Gap | Expected Current |
-|---|---|
-| Nichrome wire | Depends on resistance of wire. |
-| Torch bulb | Different from nichrome wire. |
-| 10 W bulb | Different again. |
+| Component in Gap | Expected Current               |
+| ---------------- | ------------------------------ |
+| Nichrome wire    | Depends on resistance of wire. |
+| Torch bulb       | Different from nichrome wire.  |
+| 10 W bulb        | Different again.               |
 
 **Conclusion:** Different components offer different resistance, so current changes even with the same battery.
 
 ## Activity 11.3: Factors Affecting Resistance
 
-| Change Made | Effect on Resistance | Reason |
-|---|---|---|
-| Double the length | Resistance increases. | More length gives more opposition. |
-| Increase thickness | Resistance decreases. | Larger area allows easier flow. |
-| Change material | Resistance changes. | Resistivity depends on material. |
+| Change Made        | Effect on Resistance  | Reason                             |
+| ------------------ | --------------------- | ---------------------------------- |
+| Double the length  | Resistance increases. | More length gives more opposition. |
+| Increase thickness | Resistance decreases. | Larger area allows easier flow.    |
+| Change material    | Resistance changes.   | Resistivity depends on material.   |
 
 ## Activity 11.4: Current in Series
 
@@ -2757,19 +2758,19 @@ $$
 
 # Unit 11M: Common Mistakes and Corrections
 
-| Mistake | Correct Understanding |
-|---|---|
-| Thinking current is used up. | Current is same in a series circuit; energy is converted, not current. |
-| Connecting ammeter in parallel. | Ammeter must be connected in series. |
-| Connecting voltmeter in series. | Voltmeter must be connected in parallel. |
-| Forgetting to convert minutes to seconds. | Use seconds when formula needs SI units. |
-| Treating series and parallel formulae as interchangeable. | Series uses direct sum; parallel uses reciprocal sum. |
-| Believing higher resistance always means higher heat. | It depends on what is constant: current, voltage, or time. |
-| Using watt as unit of energy. | Watt is power; watt hour or joule is energy. |
-| Forgetting that `kW h` is energy. | `1 kW h = 3.6 x 10^6 J`. |
-| Using `V = I/R`. | Correct Ohm's law is `V = IR`. |
-| Forgetting current is same in series. | In series, same current flows through all components. |
-| Forgetting voltage is same in parallel. | In parallel, each branch has the same potential difference. |
+| Mistake                                                   | Correct Understanding                                                  |
+| --------------------------------------------------------- | ---------------------------------------------------------------------- |
+| Thinking current is used up.                              | Current is same in a series circuit; energy is converted, not current. |
+| Connecting ammeter in parallel.                           | Ammeter must be connected in series.                                   |
+| Connecting voltmeter in series.                           | Voltmeter must be connected in parallel.                               |
+| Forgetting to convert minutes to seconds.                 | Use seconds when formula needs SI units.                               |
+| Treating series and parallel formulae as interchangeable. | Series uses direct sum; parallel uses reciprocal sum.                  |
+| Believing higher resistance always means higher heat.     | It depends on what is constant: current, voltage, or time.             |
+| Using watt as unit of energy.                             | Watt is power; watt hour or joule is energy.                           |
+| Forgetting that `kW h` is energy.                         | `1 kW h = 3.6 x 10^6 J`.                                               |
+| Using `V = I/R`.                                          | Correct Ohm's law is `V = IR`.                                         |
+| Forgetting current is same in series.                     | In series, same current flows through all components.                  |
+| Forgetting voltage is same in parallel.                   | In parallel, each branch has the same potential difference.            |
 
 ---
 
@@ -2777,54 +2778,54 @@ $$
 
 ## Current and Potential Difference
 
-| Quantity | Formula | Unit |
-|---|---|---|
-| Current | `I = Q/t` | ampere |
-| Charge | `Q = It` | coulomb |
-| Potential difference | `V = W/Q` | volt |
-| Work | `W = VQ` | joule |
+| Quantity             | Formula   | Unit    |
+| -------------------- | --------- | ------- |
+| Current              | `I = Q/t` | ampere  |
+| Charge               | `Q = It`  | coulomb |
+| Potential difference | `V = W/Q` | volt    |
+| Work                 | `W = VQ`  | joule   |
 
 ## Resistance
 
-| Concept | Formula |
-|---|---|
-| Ohm's law | `V = IR` |
-| Current | `I = V/R` |
-| Resistance | `R = V/I` |
-| Wire resistance | `R = rho l/A` |
+| Concept               | Formula        |
+| --------------------- | -------------- |
+| Ohm's law             | `V = IR`       |
+| Current               | `I = V/R`      |
+| Resistance            | `R = V/I`      |
+| Wire resistance       | `R = rho l/A`  |
 | Area of circular wire | `A = pi d^2/4` |
 
 ## Series vs Parallel
 
-| Feature | Series | Parallel |
-|---|---|---|
-| Current | Same through all | Divides into branches |
-| Voltage | Divides across components | Same across all branches |
-| Equivalent resistance | `Rs = R1 + R2 + R3` | `1/Rp = 1/R1 + 1/R2 + 1/R3` |
-| Total resistance compared to components | Greater than largest | Less than smallest |
-| Domestic use | Not suitable | Suitable |
+| Feature                                 | Series                    | Parallel                    |
+| --------------------------------------- | ------------------------- | --------------------------- |
+| Current                                 | Same through all          | Divides into branches       |
+| Voltage                                 | Divides across components | Same across all branches    |
+| Equivalent resistance                   | `Rs = R1 + R2 + R3`       | `1/Rp = 1/R1 + 1/R2 + 1/R3` |
+| Total resistance compared to components | Greater than largest      | Less than smallest          |
+| Domestic use                            | Not suitable              | Suitable                    |
 
 ## Heat and Power
 
-| Quantity | Formula |
-|---|---|
-| Heat | `H = VIt` |
-| Heat | `H = I^2Rt` |
-| Heat | `H = V^2t/R` |
-| Power | `P = VI` |
-| Power | `P = I^2R` |
-| Power | `P = V^2/R` |
-| Energy | `E = Pt` |
+| Quantity | Formula      |
+| -------- | ------------ |
+| Heat     | `H = VIt`    |
+| Heat     | `H = I^2Rt`  |
+| Heat     | `H = V^2t/R` |
+| Power    | `P = VI`     |
+| Power    | `P = I^2R`   |
+| Power    | `P = V^2/R`  |
+| Energy   | `E = Pt`     |
 
 ## Units
 
-| Unit | Meaning |
-|---|---|
-| `1 A` | `1 C/s` |
-| `1 V` | `1 J/C` |
-| `1 ohm` | `1 V/A` |
-| `1 W` | `1 J/s` |
-| `1 kW` | `1000 W` |
+| Unit     | Meaning        |
+| -------- | -------------- |
+| `1 A`    | `1 C/s`        |
+| `1 V`    | `1 J/C`        |
+| `1 ohm`  | `1 V/A`        |
+| `1 W`    | `1 J/s`        |
+| `1 kW`   | `1000 W`       |
 | `1 kW h` | `3.6 x 10^6 J` |
 
 ---
@@ -2848,31 +2849,31 @@ Memorise these definitions:
 
 Practise numerical problems in this order:
 
-| Stage | Focus |
-|---|---|
-| 1 | Convert units: minutes to seconds, mA to A, W to kW. |
-| 2 | Use `I = Q/t` and `V = W/Q`. |
-| 3 | Apply Ohm's law. |
-| 4 | Combine resistors in series. |
-| 5 | Combine resistors in parallel. |
-| 6 | Solve mixed resistance combinations. |
-| 7 | Calculate heat and power. |
-| 8 | Calculate energy bills using kW h. |
+| Stage | Focus                                                |
+| ----- | ---------------------------------------------------- |
+| 1     | Convert units: minutes to seconds, mA to A, W to kW. |
+| 2     | Use `I = Q/t` and `V = W/Q`.                         |
+| 3     | Apply Ohm's law.                                     |
+| 4     | Combine resistors in series.                         |
+| 5     | Combine resistors in parallel.                       |
+| 6     | Solve mixed resistance combinations.                 |
+| 7     | Calculate heat and power.                            |
+| 8     | Calculate energy bills using kW h.                   |
 
 ## Formula Decision Guide
 
-| Question Gives | Question Asks | Use |
-|---|---|---|
-| Charge and time | Current | `I = Q/t` |
-| Work and charge | Potential difference | `V = W/Q` |
-| Voltage and current | Resistance | `R = V/I` |
-| Resistance and current | Voltage | `V = IR` |
-| Length, area, material | Resistance | `R = rho l/A` |
-| Resistors end to end | Equivalent resistance | `Rs = R1 + R2 + R3` |
-| Resistors across same points | Equivalent resistance | Reciprocal formula |
-| Current, resistance, time | Heat | `H = I^2Rt` |
-| Voltage and current | Power | `P = VI` |
-| Power and time | Energy | `E = Pt` |
+| Question Gives               | Question Asks         | Use                 |
+| ---------------------------- | --------------------- | ------------------- |
+| Charge and time              | Current               | `I = Q/t`           |
+| Work and charge              | Potential difference  | `V = W/Q`           |
+| Voltage and current          | Resistance            | `R = V/I`           |
+| Resistance and current       | Voltage               | `V = IR`            |
+| Length, area, material       | Resistance            | `R = rho l/A`       |
+| Resistors end to end         | Equivalent resistance | `Rs = R1 + R2 + R3` |
+| Resistors across same points | Equivalent resistance | Reciprocal formula  |
+| Current, resistance, time    | Heat                  | `H = I^2Rt`         |
+| Voltage and current          | Power                 | `P = VI`            |
+| Power and time               | Energy                | `E = Pt`            |
 
 ## One-Page Chapter Summary
 

@@ -1,4 +1,5 @@
 # Chapter 6: Planning and Sustainable Development in Indian Context
+
 ### NCERT Class 12 - Geography India
 
 ## Chapter at a Glance
@@ -23,26 +24,26 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Planning | Deliberate process of resource use and development decision-making. |
-| Sectoral planning | Planning focused on one sector, such as agriculture or power. |
-| Regional planning | Planning focused on development of a region. |
-| Target area planning | Planning focused on specific backward or problem regions. |
-| Target group planning | Planning focused on specific disadvantaged groups. |
+| Term                    | Meaning                                                                  |
+| ----------------------- | ------------------------------------------------------------------------ |
+| Planning                | Deliberate process of resource use and development decision-making.      |
+| Sectoral planning       | Planning focused on one sector, such as agriculture or power.            |
+| Regional planning       | Planning focused on development of a region.                             |
+| Target area planning    | Planning focused on specific backward or problem regions.                |
+| Target group planning   | Planning focused on specific disadvantaged groups.                       |
 | Sustainable development | Development that meets present needs without harming future generations. |
-| Regional imbalance | Uneven development across regions. |
-| Watershed development | Planning based on drainage unit to conserve soil and water. |
+| Regional imbalance      | Uneven development across regions.                                       |
+| Watershed development   | Planning based on drainage unit to conserve soil and water.              |
 
 ## Quick Learning Map
 
-| Planning approach | Focus |
-|---|---|
-| Sectoral planning | One economic sector |
-| Regional planning | A region's integrated development |
-| Target area planning | Problem areas such as hills or drought-prone areas |
-| Target group planning | Specific social groups |
-| Sustainable planning | Development with ecological balance |
+| Planning approach     | Focus                                              |
+| --------------------- | -------------------------------------------------- |
+| Sectoral planning     | One economic sector                                |
+| Regional planning     | A region's integrated development                  |
+| Target area planning  | Problem areas such as hills or drought-prone areas |
+| Target group planning | Specific social groups                             |
+| Sustainable planning  | Development with ecological balance                |
 
 # Unit 6A: Meaning of Planning
 
@@ -254,13 +255,13 @@ For sustainable development:
 
 # Unit 6N: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Treating planning as only economic growth | Planning also includes equity, region, and environment. |
-| Confusing sectoral and regional planning | Sectoral focuses on sector; regional focuses on area. |
-| Ignoring target groups | Development may bypass vulnerable communities. |
+| Mistake                                              | Correction                                               |
+| ---------------------------------------------------- | -------------------------------------------------------- |
+| Treating planning as only economic growth            | Planning also includes equity, region, and environment.  |
+| Confusing sectoral and regional planning             | Sectoral focuses on sector; regional focuses on area.    |
+| Ignoring target groups                               | Development may bypass vulnerable communities.           |
 | Equating sustainable development with no development | It means balanced development, not stopping development. |
-| Forgetting local participation | Sustainable planning needs community involvement. |
+| Forgetting local participation                       | Sustainable planning needs community involvement.        |
 
 ## Practice Set
 

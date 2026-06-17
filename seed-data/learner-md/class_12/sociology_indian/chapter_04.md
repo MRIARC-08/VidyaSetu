@@ -1,4 +1,5 @@
 # Chapter 4: The Market as a Social Institution
+
 ### NCERT Class 12 - Sociology Indian Society
 
 ## Chapter at a Glance
@@ -25,33 +26,33 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Market | Place, network, or system where goods, services, labour, money, and symbols are exchanged. |
-| Economy | System of production, distribution, exchange, and consumption. |
-| Embedded economy | Idea that economic activity is rooted in social relations and institutions. |
-| Haat | Periodic local market, often weekly, common in rural and tribal areas. |
-| Hundi | Traditional bill of exchange or credit instrument used in trade. |
-| Capitalism | Economic system based on private ownership, wage labour, markets, and profit. |
-| Commodity | Thing or service produced for sale in the market. |
-| Commodification | Process by which something not previously sold becomes a market commodity. |
-| Consumption | Use, purchase, and display of goods and services. |
-| Status symbol | Object or practice used to communicate social status. |
-| Globalisation | Increasing interconnection of markets, people, money, goods, technology, and culture across the world. |
-| Liberalisation | Policy shift reducing state controls and expanding market processes. |
-| Marketisation | Use of market-based mechanisms to organise social and economic life. |
+| Term             | Meaning                                                                                                |
+| ---------------- | ------------------------------------------------------------------------------------------------------ |
+| Market           | Place, network, or system where goods, services, labour, money, and symbols are exchanged.             |
+| Economy          | System of production, distribution, exchange, and consumption.                                         |
+| Embedded economy | Idea that economic activity is rooted in social relations and institutions.                            |
+| Haat             | Periodic local market, often weekly, common in rural and tribal areas.                                 |
+| Hundi            | Traditional bill of exchange or credit instrument used in trade.                                       |
+| Capitalism       | Economic system based on private ownership, wage labour, markets, and profit.                          |
+| Commodity        | Thing or service produced for sale in the market.                                                      |
+| Commodification  | Process by which something not previously sold becomes a market commodity.                             |
+| Consumption      | Use, purchase, and display of goods and services.                                                      |
+| Status symbol    | Object or practice used to communicate social status.                                                  |
+| Globalisation    | Increasing interconnection of markets, people, money, goods, technology, and culture across the world. |
+| Liberalisation   | Policy shift reducing state controls and expanding market processes.                                   |
+| Marketisation    | Use of market-based mechanisms to organise social and economic life.                                   |
 
 ## Concept Map
 
-| Topic | Sociological insight |
-|---|---|
-| Weekly market | Exchange is also social meeting, ritual, service, and power relation. |
-| Business caste networks | Trust and credit are organised through caste and kinship. |
-| Colonialism | India was linked to world capitalism as raw material supplier and market for British goods. |
-| Capitalism | Labour, land, money, and services become commodities. |
-| Consumption | Goods communicate status, taste, and identity. |
-| Globalisation | Local markets connect to international flows. |
-| Liberalisation | Market growth creates opportunities and inequalities. |
+| Topic                   | Sociological insight                                                                        |
+| ----------------------- | ------------------------------------------------------------------------------------------- |
+| Weekly market           | Exchange is also social meeting, ritual, service, and power relation.                       |
+| Business caste networks | Trust and credit are organised through caste and kinship.                                   |
+| Colonialism             | India was linked to world capitalism as raw material supplier and market for British goods. |
+| Capitalism              | Labour, land, money, and services become commodities.                                       |
+| Consumption             | Goods communicate status, taste, and identity.                                              |
+| Globalisation           | Local markets connect to international flows.                                               |
+| Liberalisation          | Market growth creates opportunities and inequalities.                                       |
 
 # Unit 4A: Meanings of Market
 
@@ -453,15 +454,15 @@ A local fair may continue to serve pastoralists and pilgrims, but tourism market
 
 # Unit 4Q: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Treating market as only a physical place. | Market can be place, network, sector, or whole economy. |
-| Saying sociology ignores economics. | Sociology studies economic life within social relations. |
-| Assuming trust in business is only legal. | Trust is often built through caste, kinship, community, and reputation. |
-| Treating colonialism as the start of all Indian trade. | India had extensive pre-colonial trade, but colonialism reorganised it. |
-| Confusing globalisation and liberalisation. | Globalisation is worldwide interconnection; liberalisation is policy opening markets. |
-| Saying all commodification is automatically good. | Commodification can create access, but also inequality and moral conflict. |
-| Treating consumption as only personal taste. | Consumption also communicates status and identity. |
+| Mistake                                                | Correction                                                                            |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------- |
+| Treating market as only a physical place.              | Market can be place, network, sector, or whole economy.                               |
+| Saying sociology ignores economics.                    | Sociology studies economic life within social relations.                              |
+| Assuming trust in business is only legal.              | Trust is often built through caste, kinship, community, and reputation.               |
+| Treating colonialism as the start of all Indian trade. | India had extensive pre-colonial trade, but colonialism reorganised it.               |
+| Confusing globalisation and liberalisation.            | Globalisation is worldwide interconnection; liberalisation is policy opening markets. |
+| Saying all commodification is automatically good.      | Commodification can create access, but also inequality and moral conflict.            |
+| Treating consumption as only personal taste.           | Consumption also communicates status and identity.                                    |
 
 ## Practice Set
 

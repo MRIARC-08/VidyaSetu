@@ -1,4 +1,5 @@
 # Chapter 4: Moving Charges and Magnetism
+
 ### NCERT Class 12 - Physics Part 1
 
 ## Chapter at a Glance
@@ -26,31 +27,31 @@ By the end of this chapter, learners should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Magnetic field | Region where moving charges or currents experience magnetic force. |
-| Lorentz force | Total force on charge due to electric and magnetic fields. |
-| Biot-Savart law | Law giving magnetic field due to current element. |
-| Ampere's circuital law | Relates line integral of magnetic field to enclosed current. |
-| Solenoid | Long coil of many turns producing nearly uniform magnetic field inside. |
-| Magnetic dipole moment | Moment of a current loop, `m = NIA`. |
-| Galvanometer | Device for detecting or measuring small currents. |
+| Term                   | Meaning                                                                 |
+| ---------------------- | ----------------------------------------------------------------------- |
+| Magnetic field         | Region where moving charges or currents experience magnetic force.      |
+| Lorentz force          | Total force on charge due to electric and magnetic fields.              |
+| Biot-Savart law        | Law giving magnetic field due to current element.                       |
+| Ampere's circuital law | Relates line integral of magnetic field to enclosed current.            |
+| Solenoid               | Long coil of many turns producing nearly uniform magnetic field inside. |
+| Magnetic dipole moment | Moment of a current loop, `m = NIA`.                                    |
+| Galvanometer           | Device for detecting or measuring small currents.                       |
 
 ## Quick Formula Map
 
-| Concept | Formula |
-|---|---|
-| Magnetic force on charge | `F = q v B sin theta` |
-| Lorentz force | `F = q(E + v x B)` |
-| Force on current wire | `F = I L B sin theta` |
-| Radius in magnetic field | `r = mv/(|q|B)` |
-| Angular frequency | `omega = |q|B/m` |
-| Field due to long straight wire | `B = mu0 I/(2 pi r)` |
-| Field at centre of circular loop | `B = mu0 I/(2R)` |
-| Field inside long solenoid | `B = mu0 n I` |
+| Concept                                      | Formula                    |
+| -------------------------------------------- | -------------------------- | --- | ---- |
+| Magnetic force on charge                     | `F = q v B sin theta`      |
+| Lorentz force                                | `F = q(E + v x B)`         |
+| Force on current wire                        | `F = I L B sin theta`      |
+| Radius in magnetic field                     | `r = mv/(                  | q   | B)`  |
+| Angular frequency                            | `omega =                   | q   | B/m` |
+| Field due to long straight wire              | `B = mu0 I/(2 pi r)`       |
+| Field at centre of circular loop             | `B = mu0 I/(2R)`           |
+| Field inside long solenoid                   | `B = mu0 n I`              |
 | Force per unit length between parallel wires | `F/L = mu0 I1 I2/(2 pi d)` |
-| Torque on current loop | `tau = N I A B sin theta` |
-| Magnetic moment of loop | `m = N I A` |
+| Torque on current loop                       | `tau = N I A B sin theta`  |
+| Magnetic moment of loop                      | `m = N I A`                |
 
 # Unit 4A: Magnetic Field and Moving Charge
 
@@ -347,15 +348,15 @@ Write in this order:
 
 # Unit 4P: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Applying magnetic force to charge at rest | Magnetic force needs motion. |
-| Forgetting `sin theta` | Force depends on angle between velocity/current and field. |
-| Saying magnetic force changes speed | Magnetic force alone changes direction, not speed. |
-| Ignoring charge sign in direction | Negative charge force is opposite to `v x B`. |
-| Using straight-wire formula for finite wire without care | `B = mu0I/(2pi r)` is for long straight wire. |
-| Forgetting `N` turns in coil formulas | Multiply field or torque by number of turns. |
-| Confusing current direction and electron motion | Conventional current direction is used in formulas. |
+| Mistake                                                  | Correction                                                 |
+| -------------------------------------------------------- | ---------------------------------------------------------- |
+| Applying magnetic force to charge at rest                | Magnetic force needs motion.                               |
+| Forgetting `sin theta`                                   | Force depends on angle between velocity/current and field. |
+| Saying magnetic force changes speed                      | Magnetic force alone changes direction, not speed.         |
+| Ignoring charge sign in direction                        | Negative charge force is opposite to `v x B`.              |
+| Using straight-wire formula for finite wire without care | `B = mu0I/(2pi r)` is for long straight wire.              |
+| Forgetting `N` turns in coil formulas                    | Multiply field or torque by number of turns.               |
+| Confusing current direction and electron motion          | Conventional current direction is used in formulas.        |
 
 ## Practice Set
 

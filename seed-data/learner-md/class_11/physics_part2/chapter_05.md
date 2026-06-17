@@ -1,4 +1,5 @@
 # Chapter 5: Oscillations
+
 ### NCERT Class 11 - Physics Part 2
 
 ---
@@ -22,19 +23,19 @@ You will learn:
 
 ## Chapter Map
 
-| Section | Main Idea |
-| --- | --- |
-| Periodic motion | motion that repeats after equal intervals |
-| Oscillatory motion | to-and-fro motion about a mean position |
-| SHM | sinusoidal motion with restoring force proportional to displacement |
-| Circular-motion link | projection of uniform circular motion is SHM |
-| Velocity and acceleration | velocity is maximum at mean position; acceleration points toward mean |
-| Force law | `F = -kx` produces SHM |
-| Energy | kinetic and potential energy interchange while total energy remains constant |
-| Spring and pendulum | important physical systems executing approximate SHM |
-| Damping | amplitude decreases due to dissipative forces |
-| Forced oscillation | external periodic force maintains oscillation |
-| Resonance | amplitude becomes large when driving frequency matches natural frequency |
+| Section                   | Main Idea                                                                    |
+| ------------------------- | ---------------------------------------------------------------------------- |
+| Periodic motion           | motion that repeats after equal intervals                                    |
+| Oscillatory motion        | to-and-fro motion about a mean position                                      |
+| SHM                       | sinusoidal motion with restoring force proportional to displacement          |
+| Circular-motion link      | projection of uniform circular motion is SHM                                 |
+| Velocity and acceleration | velocity is maximum at mean position; acceleration points toward mean        |
+| Force law                 | `F = -kx` produces SHM                                                       |
+| Energy                    | kinetic and potential energy interchange while total energy remains constant |
+| Spring and pendulum       | important physical systems executing approximate SHM                         |
+| Damping                   | amplitude decreases due to dissipative forces                                |
+| Forced oscillation        | external periodic force maintains oscillation                                |
+| Resonance                 | amplitude becomes large when driving frequency matches natural frequency     |
 
 ---
 
@@ -46,12 +47,12 @@ A motion that repeats itself after equal intervals of time is called periodic mo
 
 Examples:
 
-| Example | Why Periodic |
-| --- | --- |
-| Earth revolving around the Sun | repeats after one year |
-| second hand of a clock | repeats after 60 seconds |
-| bouncing ball under ideal repeated conditions | height-time pattern repeats |
-| alternating current voltage | repeats in sign and magnitude |
+| Example                                       | Why Periodic                  |
+| --------------------------------------------- | ----------------------------- |
+| Earth revolving around the Sun                | repeats after one year        |
+| second hand of a clock                        | repeats after 60 seconds      |
+| bouncing ball under ideal repeated conditions | height-time pattern repeats   |
+| alternating current voltage                   | repeats in sign and magnitude |
 
 ---
 
@@ -61,12 +62,12 @@ Oscillatory motion is repeated to-and-fro motion about a mean or equilibrium pos
 
 Examples:
 
-| Example | Mean Position |
-| --- | --- |
-| swing | lowest central position |
-| simple pendulum | vertical position |
+| Example             | Mean Position                    |
+| ------------------- | -------------------------------- |
+| swing               | lowest central position          |
+| simple pendulum     | vertical position                |
 | spring-block system | unstretched equilibrium position |
-| vibrating string | straight resting position |
+| vibrating string    | straight resting position        |
 
 ---
 
@@ -182,13 +183,13 @@ In oscillations, displacement means the changing quantity measured from equilibr
 
 It may be:
 
-| System | Displacement Variable |
-| --- | --- |
-| spring-block | position `x` from mean position |
-| simple pendulum | angular displacement `theta` |
-| AC circuit | voltage or current variation |
-| sound wave | pressure variation |
-| light wave | electric or magnetic field variation |
+| System          | Displacement Variable                |
+| --------------- | ------------------------------------ |
+| spring-block    | position `x` from mean position      |
+| simple pendulum | angular displacement `theta`         |
+| AC circuit      | voltage or current variation         |
+| sound wave      | pressure variation                   |
+| light wave      | electric or magnetic field variation |
 
 ---
 
@@ -249,14 +250,14 @@ x(t) = A sin(omega t + phi)
 
 ## Meaning Of Symbols
 
-| Symbol | Meaning |
-| --- | --- |
-| `x(t)` | displacement at time `t` |
-| `A` | amplitude |
-| `omega` | angular frequency |
-| `omega t + phi` | phase |
-| `phi` | phase constant |
-| `T` | period |
+| Symbol          | Meaning                  |
+| --------------- | ------------------------ |
+| `x(t)`          | displacement at time `t` |
+| `A`             | amplitude                |
+| `omega`         | angular frequency        |
+| `omega t + phi` | phase                    |
+| `phi`           | phase constant           |
+| `T`             | period                   |
 
 ---
 
@@ -326,12 +327,12 @@ This is SHM.
 
 The reference circle makes SHM easier to visualise:
 
-| Circular Motion Quantity | SHM Meaning |
-| --- | --- |
-| radius of circle | amplitude |
-| angular speed | angular frequency |
-| angle swept | phase |
-| projection on diameter | displacement in SHM |
+| Circular Motion Quantity | SHM Meaning         |
+| ------------------------ | ------------------- |
+| radius of circle         | amplitude           |
+| angular speed            | angular frequency   |
+| angle swept              | phase               |
+| projection on diameter   | displacement in SHM |
 
 ---
 
@@ -584,11 +585,11 @@ It remains constant when there is no damping.
 
 ## Energy Transfer During SHM
 
-| Position | Kinetic Energy | Potential Energy |
-| --- | --- | --- |
-| `x = 0` | maximum | zero |
-| `x = +A` | zero | maximum |
-| `x = -A` | zero | maximum |
+| Position                 | Kinetic Energy | Potential Energy |
+| ------------------------ | -------------- | ---------------- |
+| `x = 0`                  | maximum        | zero             |
+| `x = +A`                 | zero           | maximum          |
+| `x = -A`                 | zero           | maximum          |
 | between mean and extreme | partly kinetic | partly potential |
 
 Both kinetic and potential energy repeat twice in one oscillation, so their period is:
@@ -726,10 +727,10 @@ T = 2 pi sqrt(L/g)
 
 where:
 
-| Symbol | Meaning |
-| --- | --- |
-| `L` | length of pendulum |
-| `g` | acceleration due to gravity |
+| Symbol | Meaning                     |
+| ------ | --------------------------- |
+| `L`    | length of pendulum          |
+| `g`    | acceleration due to gravity |
 
 ### Important
 
@@ -846,12 +847,12 @@ With damping:
 
 ## Examples Of Resonance
 
-| Example | Explanation |
-| --- | --- |
-| pushing a swing | best effect when pushes match natural rhythm |
-| musical instruments | strings and air columns resonate |
-| tuning a radio | circuit responds strongly to selected frequency |
-| bridges and buildings | dangerous if driven near natural frequency |
+| Example               | Explanation                                     |
+| --------------------- | ----------------------------------------------- |
+| pushing a swing       | best effect when pushes match natural rhythm    |
+| musical instruments   | strings and air columns resonate                |
+| tuning a radio        | circuit responds strongly to selected frequency |
+| bridges and buildings | dangerous if driven near natural frequency      |
 
 ---
 
@@ -859,38 +860,38 @@ With damping:
 
 ## Basic Periodic Motion
 
-| Formula | Meaning |
-| --- | --- |
-| `nu = 1/T` | frequency-period relation |
-| `omega = 2 pi/T` | angular frequency |
+| Formula           | Meaning                        |
+| ----------------- | ------------------------------ |
+| `nu = 1/T`        | frequency-period relation      |
+| `omega = 2 pi/T`  | angular frequency              |
 | `omega = 2 pi nu` | angular and ordinary frequency |
 
 ## SHM Equation
 
-| Formula | Meaning |
-| --- | --- |
-| `x(t) = A cos(omega t + phi)` | displacement in SHM |
-| `v(t) = -omega A sin(omega t + phi)` | velocity |
-| `a(t) = -omega^2 x(t)` | acceleration |
-| `v = +/- omega sqrt(A^2 - x^2)` | speed-position relation |
+| Formula                              | Meaning                 |
+| ------------------------------------ | ----------------------- |
+| `x(t) = A cos(omega t + phi)`        | displacement in SHM     |
+| `v(t) = -omega A sin(omega t + phi)` | velocity                |
+| `a(t) = -omega^2 x(t)`               | acceleration            |
+| `v = +/- omega sqrt(A^2 - x^2)`      | speed-position relation |
 
 ## Force And Energy
 
-| Formula | Meaning |
-| --- | --- |
-| `F = -kx` | restoring force |
-| `k = m omega^2` | effective spring constant relation |
-| `omega = sqrt(k/m)` | spring-mass angular frequency |
-| `T = 2 pi sqrt(m/k)` | spring-mass period |
-| `U = (1/2)kx^2` | potential energy |
-| `K = (1/2)k(A^2 - x^2)` | kinetic energy |
-| `E = (1/2)kA^2` | total energy |
+| Formula                 | Meaning                            |
+| ----------------------- | ---------------------------------- |
+| `F = -kx`               | restoring force                    |
+| `k = m omega^2`         | effective spring constant relation |
+| `omega = sqrt(k/m)`     | spring-mass angular frequency      |
+| `T = 2 pi sqrt(m/k)`    | spring-mass period                 |
+| `U = (1/2)kx^2`         | potential energy                   |
+| `K = (1/2)k(A^2 - x^2)` | kinetic energy                     |
+| `E = (1/2)kA^2`         | total energy                       |
 
 ## Pendulum
 
-| Formula | Meaning |
-| --- | --- |
-| `T = 2 pi sqrt(L/g)` | simple pendulum, small oscillations |
+| Formula                         | Meaning                              |
+| ------------------------------- | ------------------------------------ |
+| `T = 2 pi sqrt(L/g)`            | simple pendulum, small oscillations  |
 | `sin theta approximately theta` | small-angle approximation in radians |
 
 ---
@@ -1029,4 +1030,3 @@ Damping limits the maximum amplitude and broadens the resonance peak.
 - [ ] I can explain energy exchange in SHM.
 - [ ] I can use spring and pendulum period formulas.
 - [ ] I can explain damping, forced oscillation, and resonance.
-

@@ -1,4 +1,5 @@
 # Chapter 3: Differential Equations
+
 ### NCERT Class 12 - Maths Part 2
 
 ## Chapter at a Glance
@@ -23,29 +24,29 @@ By the end of this chapter, learners should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Differential equation | Equation involving derivatives of an unknown function. |
-| Ordinary differential equation | Differential equation involving derivatives with respect to one independent variable. |
-| Order | Highest order derivative appearing in the equation. |
-| Degree | Power of highest order derivative after making the equation polynomial in derivatives. |
-| General solution | Solution containing arbitrary constants. |
-| Particular solution | Solution obtained by assigning values to arbitrary constants. |
-| Initial condition | Given condition used to find constants. |
-| Variables separable | Equation that can be written with all `y` terms on one side and all `x` terms on the other. |
-| Homogeneous differential equation | Equation where numerator and denominator are homogeneous functions of same degree. |
-| Linear differential equation | First-order equation of form `dy/dx + P y = Q`. |
-| Integrating factor | Factor used to solve a linear differential equation. |
+| Term                              | Meaning                                                                                     |
+| --------------------------------- | ------------------------------------------------------------------------------------------- |
+| Differential equation             | Equation involving derivatives of an unknown function.                                      |
+| Ordinary differential equation    | Differential equation involving derivatives with respect to one independent variable.       |
+| Order                             | Highest order derivative appearing in the equation.                                         |
+| Degree                            | Power of highest order derivative after making the equation polynomial in derivatives.      |
+| General solution                  | Solution containing arbitrary constants.                                                    |
+| Particular solution               | Solution obtained by assigning values to arbitrary constants.                               |
+| Initial condition                 | Given condition used to find constants.                                                     |
+| Variables separable               | Equation that can be written with all `y` terms on one side and all `x` terms on the other. |
+| Homogeneous differential equation | Equation where numerator and denominator are homogeneous functions of same degree.          |
+| Linear differential equation      | First-order equation of form `dy/dx + P y = Q`.                                             |
+| Integrating factor                | Factor used to solve a linear differential equation.                                        |
 
 ## Quick Formula Map
 
-| Type | Standard Form | Method |
-|---|---|---|
-| Separable | `dy/dx = f(x)g(y)` | Put `dy/g(y) = f(x) dx`, then integrate. |
-| Homogeneous | `dy/dx = F(y/x)` | Put `y = vx`, then `dy/dx = v + x dv/dx`. |
-| Linear in y | `dy/dx + P y = Q` | `IF = e^(int P dx)`. |
-| Solution of linear in y | `y IF = int Q IF dx + C` | Use integrating factor. |
-| Linear in x | `dx/dy + P x = Q` | `IF = e^(int P dy)`. |
+| Type                    | Standard Form            | Method                                    |
+| ----------------------- | ------------------------ | ----------------------------------------- |
+| Separable               | `dy/dx = f(x)g(y)`       | Put `dy/g(y) = f(x) dx`, then integrate.  |
+| Homogeneous             | `dy/dx = F(y/x)`         | Put `y = vx`, then `dy/dx = v + x dv/dx`. |
+| Linear in y             | `dy/dx + P y = Q`        | `IF = e^(int P dx)`.                      |
+| Solution of linear in y | `y IF = int Q IF dx + C` | Use integrating factor.                   |
+| Linear in x             | `dx/dy + P x = Q`        | `IF = e^(int P dy)`.                      |
 
 # Unit 3A: What Is a Differential Equation?
 
@@ -508,16 +509,16 @@ Write in this order:
 
 # Unit 3R: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Confusing order and degree | Order is derivative level; degree is power of highest derivative. |
-| Finding degree when not defined | Degree is defined only when polynomial in derivatives. |
-| Forgetting arbitrary constant | General solution must contain constants. |
-| Not using initial condition | Use it to find particular solution. |
-| Separating variables incorrectly | Keep all `y` terms with `dy`, all `x` terms with `dx`. |
-| Using homogeneous method on non-homogeneous functions | Check degrees first. |
-| Forgetting `dy/dx = v + x dv/dx` when `y = vx` | This is essential in homogeneous equations. |
-| Wrong integrating factor | For `dy/dx + Py = Q`, use `e^(int P dx)`. |
+| Mistake                                               | Correction                                                        |
+| ----------------------------------------------------- | ----------------------------------------------------------------- |
+| Confusing order and degree                            | Order is derivative level; degree is power of highest derivative. |
+| Finding degree when not defined                       | Degree is defined only when polynomial in derivatives.            |
+| Forgetting arbitrary constant                         | General solution must contain constants.                          |
+| Not using initial condition                           | Use it to find particular solution.                               |
+| Separating variables incorrectly                      | Keep all `y` terms with `dy`, all `x` terms with `dx`.            |
+| Using homogeneous method on non-homogeneous functions | Check degrees first.                                              |
+| Forgetting `dy/dx = v + x dv/dx` when `y = vx`        | This is essential in homogeneous equations.                       |
+| Wrong integrating factor                              | For `dy/dx + Py = Q`, use `e^(int P dx)`.                         |
 
 ## Practice Set
 

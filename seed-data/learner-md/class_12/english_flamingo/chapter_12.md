@@ -1,4 +1,5 @@
 # Chapter 12: A Thing of Beauty
+
 ### NCERT Class 12 - English Flamingo
 
 ## Chapter at a Glance
@@ -21,14 +22,14 @@ By the end of this poem, you should be able to:
 
 ## Key Facts
 
-| Element | Detail |
-|---|---|
-| Poet | John Keats |
-| Literary movement | Romanticism |
-| Larger work | "Endymion" |
-| Central idea | Beauty gives lasting joy and relief |
-| Major images | Sun, moon, trees, daffodils, streams, musk-roses |
-| Tone | Celebratory, soothing, reflective |
+| Element           | Detail                                           |
+| ----------------- | ------------------------------------------------ |
+| Poet              | John Keats                                       |
+| Literary movement | Romanticism                                      |
+| Larger work       | "Endymion"                                       |
+| Central idea      | Beauty gives lasting joy and relief              |
+| Major images      | Sun, moon, trees, daffodils, streams, musk-roses |
+| Tone              | Celebratory, soothing, reflective                |
 
 # Unit 12A: Central Idea
 
@@ -122,14 +123,14 @@ Keats does not use beauty as decoration. For him, beauty is a deep human need.
 
 # Unit 12I: Poetic Devices
 
-| Device | Effect |
-|---|---|
-| Imagery | Creates vivid natural scenes |
-| Metaphor | Presents beauty as shelter and fountain |
-| Alliteration | Adds musical quality |
-| Symbolism | Nature becomes a symbol of healing |
-| Contrast | Suffering is balanced by beauty |
-| Enumeration | Many examples show abundance of beauty |
+| Device       | Effect                                  |
+| ------------ | --------------------------------------- |
+| Imagery      | Creates vivid natural scenes            |
+| Metaphor     | Presents beauty as shelter and fountain |
+| Alliteration | Adds musical quality                    |
+| Symbolism    | Nature becomes a symbol of healing      |
+| Contrast     | Suffering is balanced by beauty         |
+| Enumeration  | Many examples show abundance of beauty  |
 
 # Unit 12J: Major Themes
 
@@ -155,15 +156,15 @@ Beauty is linked with something higher than ordinary pleasure.
 
 # Unit 12K: Symbol Map
 
-| Image | Meaning |
-|---|---|
-| Bower | Rest, shelter, peace |
-| Wreath | Binding human life to beauty |
-| Sun and moon | Cosmic beauty and continuity |
-| Trees | Protection and natural generosity |
-| Streams | Coolness, movement, refreshment |
-| Musk-roses | Sensory richness |
-| Endless fountain | Eternal spiritual joy |
+| Image            | Meaning                           |
+| ---------------- | --------------------------------- |
+| Bower            | Rest, shelter, peace              |
+| Wreath           | Binding human life to beauty      |
+| Sun and moon     | Cosmic beauty and continuity      |
+| Trees            | Protection and natural generosity |
+| Streams          | Coolness, movement, refreshment   |
+| Musk-roses       | Sensory richness                  |
+| Endless fountain | Eternal spiritual joy             |
 
 # Unit 12L: Exam Answer Frameworks
 
@@ -185,13 +186,13 @@ Beauty is linked with something higher than ordinary pleasure.
 
 # Unit 12M: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Saying beauty is only physical appearance | Keats includes nature, noble stories, and spiritual joy. |
-| Ignoring suffering | Beauty is meaningful because life contains sorrow. |
-| Treating the poem as simple nature description | It is a philosophical statement about beauty's power. |
-| Forgetting Romantic context | Nature, imagination, and emotion are central. |
-| Calling beauty temporary | The poem insists beauty gives lasting joy. |
+| Mistake                                        | Correction                                               |
+| ---------------------------------------------- | -------------------------------------------------------- |
+| Saying beauty is only physical appearance      | Keats includes nature, noble stories, and spiritual joy. |
+| Ignoring suffering                             | Beauty is meaningful because life contains sorrow.       |
+| Treating the poem as simple nature description | It is a philosophical statement about beauty's power.    |
+| Forgetting Romantic context                    | Nature, imagination, and emotion are central.            |
+| Calling beauty temporary                       | The poem insists beauty gives lasting joy.               |
 
 ## Practice Set
 

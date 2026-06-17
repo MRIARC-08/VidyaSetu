@@ -1,4 +1,5 @@
 # Chapter 7: Coordinate Geometry
+
 ### NCERT Class 10 - Maths
 
 This learner version rewrites the raw chapter into a clean study guide. It keeps the textbook ideas intact, removes extraction noise, and adds detailed worked reasoning so that a learner can solve questions without depending on memorised shortcuts.
@@ -7,26 +8,26 @@ This learner version rewrites the raw chapter into a clean study guide. It keeps
 
 ## Chapter at a Glance
 
-| Item | Details |
-|---|---|
-| Class | 10 |
-| Subject | Maths |
-| Chapter | 7 |
-| Chapter name | Coordinate Geometry |
-| Main skill | Using algebra to measure and divide geometric figures on the coordinate plane |
-| Core formulas | Distance formula, section formula, midpoint formula |
+| Item                   | Details                                                                                                                                         |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Class                  | 10                                                                                                                                              |
+| Subject                | Maths                                                                                                                                           |
+| Chapter                | 7                                                                                                                                               |
+| Chapter name           | Coordinate Geometry                                                                                                                             |
+| Main skill             | Using algebra to measure and divide geometric figures on the coordinate plane                                                                   |
+| Core formulas          | Distance formula, section formula, midpoint formula                                                                                             |
 | Typical question types | Find distance, prove collinearity, identify a triangle or quadrilateral, find a point dividing a segment, find a ratio, use midpoint properties |
 
 ---
 
 ## Section Structure
 
-| Section | Focus | What you should be able to do |
-|---|---|---|
-| 7.1 | Introduction | Read and plot points using coordinates |
-| 7.2 | Distance Formula | Find the distance between two points and use it in geometry questions |
-| 7.3 | Section Formula | Find the coordinates of a point dividing a line segment internally |
-| 7.4 | Summary | Revise formulas and decide which formula fits a question |
+| Section | Focus            | What you should be able to do                                         |
+| ------- | ---------------- | --------------------------------------------------------------------- |
+| 7.1     | Introduction     | Read and plot points using coordinates                                |
+| 7.2     | Distance Formula | Find the distance between two points and use it in geometry questions |
+| 7.3     | Section Formula  | Find the coordinates of a point dividing a line segment internally    |
+| 7.4     | Summary          | Revise formulas and decide which formula fits a question              |
 
 ---
 
@@ -50,19 +51,19 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Coordinate plane | The plane formed by the x-axis and y-axis |
-| x-axis | The horizontal axis |
-| y-axis | The vertical axis |
-| Origin | The point `(0, 0)` where the two axes meet |
-| Abscissa | The x-coordinate of a point |
-| Ordinate | The y-coordinate of a point |
-| Quadrant | One of the four regions into which the axes divide the plane |
-| Distance formula | Formula used to find the distance between two coordinate points |
-| Section formula | Formula used to find a point that divides a segment in a given ratio |
-| Midpoint formula | Special case of section formula for ratio `1 : 1` |
-| Collinear points | Points lying on the same straight line |
+| Term              | Meaning                                                                   |
+| ----------------- | ------------------------------------------------------------------------- |
+| Coordinate plane  | The plane formed by the x-axis and y-axis                                 |
+| x-axis            | The horizontal axis                                                       |
+| y-axis            | The vertical axis                                                         |
+| Origin            | The point `(0, 0)` where the two axes meet                                |
+| Abscissa          | The x-coordinate of a point                                               |
+| Ordinate          | The y-coordinate of a point                                               |
+| Quadrant          | One of the four regions into which the axes divide the plane              |
+| Distance formula  | Formula used to find the distance between two coordinate points           |
+| Section formula   | Formula used to find a point that divides a segment in a given ratio      |
+| Midpoint formula  | Special case of section formula for ratio `1 : 1`                         |
+| Collinear points  | Points lying on the same straight line                                    |
 | Internal division | A point divides a segment internally if it lies between the two endpoints |
 
 ---
@@ -93,11 +94,11 @@ The point `(4, -3)` means:
 
 ## Points on the Axes
 
-| Location | General form | Example |
-|---|---:|---:|
-| On the x-axis | `(x, 0)` | `(5, 0)` |
-| On the y-axis | `(0, y)` | `(0, -6)` |
-| At the origin | `(0, 0)` | `(0, 0)` |
+| Location      | General form |   Example |
+| ------------- | -----------: | --------: |
+| On the x-axis |     `(x, 0)` |  `(5, 0)` |
+| On the y-axis |     `(0, y)` | `(0, -6)` |
+| At the origin |     `(0, 0)` |  `(0, 0)` |
 
 Important idea:
 
@@ -270,13 +271,13 @@ $$
 
 ## Common Mistakes
 
-| Mistake | Why it is wrong | Correct habit |
-|---|---|---|
-| Forgetting the square root | The formula gives distance, not distance squared | Write the final square root |
-| Treating negative differences as negative distances | Squaring removes the sign | Square each difference before adding |
-| Adding coordinates directly | Distance depends on coordinate differences | Subtract matching coordinates first |
-| Mixing x and y coordinates | It changes the geometry | Keep x-difference and y-difference separate |
-| Assuming all points form a triangle | Three collinear points do not form a triangle | Check collinearity if required |
+| Mistake                                             | Why it is wrong                                  | Correct habit                               |
+| --------------------------------------------------- | ------------------------------------------------ | ------------------------------------------- |
+| Forgetting the square root                          | The formula gives distance, not distance squared | Write the final square root                 |
+| Treating negative differences as negative distances | Squaring removes the sign                        | Square each difference before adding        |
+| Adding coordinates directly                         | Distance depends on coordinate differences       | Subtract matching coordinates first         |
+| Mixing x and y coordinates                          | It changes the geometry                          | Keep x-difference and y-difference separate |
+| Assuming all points form a triangle                 | Three collinear points do not form a triangle    | Check collinearity if required              |
 
 ---
 
@@ -295,11 +296,11 @@ Using distances:
 
 Let the side lengths be `a`, `b`, and `c`.
 
-| Condition | Triangle type |
-|---|---|
-| All three sides equal | Equilateral |
-| Exactly two sides equal | Isosceles |
-| All three sides unequal | Scalene |
+| Condition                                                     | Triangle type  |
+| ------------------------------------------------------------- | -------------- |
+| All three sides equal                                         | Equilateral    |
+| Exactly two sides equal                                       | Isosceles      |
+| All three sides unequal                                       | Scalene        |
 | Largest side squared equals sum of squares of other two sides | Right triangle |
 
 If:
@@ -386,14 +387,14 @@ Coordinate geometry can prove the type of a quadrilateral by comparing side leng
 
 ## Useful Tests
 
-| Evidence from distances | Likely conclusion |
-|---|---|
-| Four sides equal and diagonals equal | Square |
-| Four sides equal but diagonals unequal | Rhombus |
-| Opposite sides equal and diagonals equal | Rectangle |
-| Opposite sides equal | Parallelogram |
-| One pair of opposite sides parallel | Trapezium |
-| No special equality or parallel pattern | General quadrilateral |
+| Evidence from distances                  | Likely conclusion     |
+| ---------------------------------------- | --------------------- |
+| Four sides equal and diagonals equal     | Square                |
+| Four sides equal but diagonals unequal   | Rhombus               |
+| Opposite sides equal and diagonals equal | Rectangle             |
+| Opposite sides equal                     | Parallelogram         |
+| One pair of opposite sides parallel      | Trapezium             |
+| No special equality or parallel pattern  | General quadrilateral |
 
 This chapter mainly uses distances, so the most common tests are side equality and diagonal equality.
 
@@ -2284,20 +2285,20 @@ $$
 
 # Unit 7M: Choosing the Right Method
 
-| Question says | Use |
-|---|---|
-| Find distance | Distance formula |
-| Distance from origin | Origin-distance formula |
-| Points are equidistant | Set squared distances equal |
-| Check collinearity | Compare distances or use largest distance = sum of other two |
-| Name triangle type | Find all side lengths |
-| Name quadrilateral type | Find side lengths and diagonals |
-| Divide a segment in given ratio | Section formula |
-| Find midpoint | Midpoint formula |
-| Circle diameter endpoint with centre given | Centre is midpoint |
-| Parallelogram with unknown coordinate | Diagonals bisect each other |
-| Point lies on x-axis | y-coordinate is 0 |
-| Point lies on y-axis | x-coordinate is 0 |
+| Question says                              | Use                                                          |
+| ------------------------------------------ | ------------------------------------------------------------ |
+| Find distance                              | Distance formula                                             |
+| Distance from origin                       | Origin-distance formula                                      |
+| Points are equidistant                     | Set squared distances equal                                  |
+| Check collinearity                         | Compare distances or use largest distance = sum of other two |
+| Name triangle type                         | Find all side lengths                                        |
+| Name quadrilateral type                    | Find side lengths and diagonals                              |
+| Divide a segment in given ratio            | Section formula                                              |
+| Find midpoint                              | Midpoint formula                                             |
+| Circle diameter endpoint with centre given | Centre is midpoint                                           |
+| Parallelogram with unknown coordinate      | Diagonals bisect each other                                  |
+| Point lies on x-axis                       | y-coordinate is 0                                            |
+| Point lies on y-axis                       | x-coordinate is 0                                            |
 
 ---
 
@@ -2389,16 +2390,16 @@ $$
 
 # Unit 7O: Common Mistakes and Corrections
 
-| Mistake | Example of the error | Correction |
-|---|---|---|
-| Reversing section formula incorrectly | Multiplying `m_1` with `x_1` instead of `x_2` | For internal division `m_1 : m_2`, use `m_1x_2 + m_2x_1` |
-| Forgetting denominator in section formula | Writing only `m_1x_2 + m_2x_1` | Always divide by `m_1 + m_2` |
-| Using midpoint formula when ratio is not `1 : 1` | Applying midpoint to `2 : 3` | Use section formula |
-| Taking distance as negative | Saying distance is `-5` | Distance is always non-negative |
-| Avoiding square roots but comparing distances | Comparing `AB^2` with `BC` | Compare squares with squares or distances with distances |
-| Assuming equal sides prove square | Four equal sides alone prove a rhombus, not necessarily a square | Also check diagonals equal or one right angle |
-| Missing axis condition | Point on x-axis written as `(0, y)` | Point on x-axis is `(x, 0)` |
-| Confusing x-axis and y-axis | Point on y-axis written as `(x, 0)` | Point on y-axis is `(0, y)` |
+| Mistake                                          | Example of the error                                             | Correction                                               |
+| ------------------------------------------------ | ---------------------------------------------------------------- | -------------------------------------------------------- |
+| Reversing section formula incorrectly            | Multiplying `m_1` with `x_1` instead of `x_2`                    | For internal division `m_1 : m_2`, use `m_1x_2 + m_2x_1` |
+| Forgetting denominator in section formula        | Writing only `m_1x_2 + m_2x_1`                                   | Always divide by `m_1 + m_2`                             |
+| Using midpoint formula when ratio is not `1 : 1` | Applying midpoint to `2 : 3`                                     | Use section formula                                      |
+| Taking distance as negative                      | Saying distance is `-5`                                          | Distance is always non-negative                          |
+| Avoiding square roots but comparing distances    | Comparing `AB^2` with `BC`                                       | Compare squares with squares or distances with distances |
+| Assuming equal sides prove square                | Four equal sides alone prove a rhombus, not necessarily a square | Also check diagonals equal or one right angle            |
+| Missing axis condition                           | Point on x-axis written as `(0, y)`                              | Point on x-axis is `(x, 0)`                              |
+| Confusing x-axis and y-axis                      | Point on y-axis written as `(x, 0)`                              | Point on y-axis is `(0, y)`                              |
 
 ---
 
@@ -2491,4 +2492,3 @@ $$
 
 12. For equidistant point questions, set squared distances equal.
 13. For collinearity using distances, check whether the largest distance equals the sum of the other two.
-

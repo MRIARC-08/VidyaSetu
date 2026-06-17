@@ -1,44 +1,45 @@
 # Chapter 7: Work, Energy, and Simple Machines
+
 ### NCERT Class 9 — Science
 
 ---
 
 ## 📌 Chapter at a Glance
 
-| Detail | Info |
-|---|---|
-| **Chapter** | 7 — Work, Energy, and Simple Machines |
-| **Class** | Class 9 |
-| **Subject** | Science |
-| **Source File** | `data/class_9/science/chapter_07.md` |
-| **Source Note** | Raw file header says "Motion", but the actual chapter content is **Work, Energy, and Simple Machines**. |
-| **Textbook Pages** | 116–139 |
-| **Big Idea** | Work transfers energy; energy can change form; simple machines make tasks easier by changing force or direction, not by reducing total work. |
-| **Core Theme** | Work, work-energy theorem, kinetic energy, potential energy, conservation of mechanical energy, power, and simple machines. |
-| **Key Skills** | Formula use, sign reasoning, energy accounting, graph area interpretation, mechanical advantage calculation, real-life modelling. |
+| Detail             | Info                                                                                                                                                                                                                                                     |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Chapter**        | 7 — Work, Energy, and Simple Machines                                                                                                                                                                                                                    |
+| **Class**          | Class 9                                                                                                                                                                                                                                                  |
+| **Subject**        | Science                                                                                                                                                                                                                                                  |
+| **Source File**    | `data/class_9/science/chapter_07.md`                                                                                                                                                                                                                     |
+| **Source Note**    | Raw file header says "Motion", but the actual chapter content is **Work, Energy, and Simple Machines**.                                                                                                                                                  |
+| **Textbook Pages** | 116–139                                                                                                                                                                                                                                                  |
+| **Big Idea**       | Work transfers energy; energy can change form; simple machines make tasks easier by changing force or direction, not by reducing total work.                                                                                                             |
+| **Core Theme**     | Work, work-energy theorem, kinetic energy, potential energy, conservation of mechanical energy, power, and simple machines.                                                                                                                              |
+| **Key Skills**     | Formula use, sign reasoning, energy accounting, graph area interpretation, mechanical advantage calculation, real-life modelling.                                                                                                                        |
 | **Major Concepts** | Work, joule, positive work, negative work, zero work, energy, work-energy theorem, kinetic energy, potential energy, mechanical energy, conservation of mechanical energy, power, watt, horsepower, pulley, inclined plane, lever, mechanical advantage. |
 
 ---
 
 ## 🗂️ Section Structure
 
-| Section | Title | Main Learning Focus |
-|---|---|---|
-| **7.0** | Introduction | Why work, energy, and power simplify motion analysis |
-| **7.1** | Work Done by a Constant Force | Scientific meaning of work |
-| **7.1.1** | When Is Work Done Equal to Zero? | Force, displacement, and perpendicular force |
-| **7.1.2** | Positive and Negative Work Done | Direction of force relative to displacement |
-| **7.2** | The Work-Energy Theorem | Work done equals change in energy |
-| **7.3** | Forms of Energy | Mechanical, electrical, thermal, light, sound, chemical, nuclear energy |
-| **7.4** | Mechanical Energy | Energy due to motion or position |
-| **7.4.1** | Kinetic Energy | Energy due to motion |
-| **7.4.2** | Potential Energy | Energy due to deformation or relative position |
-| **7.4.3** | Conservation of Mechanical Energy | Conversion between kinetic and potential energy |
-| **7.5** | Power | Rate at which work is done |
-| **7.6** | Simple Machines | Devices that change magnitude or direction of effort |
-| **7.6.1** | Pulley | Changing direction of force |
-| **7.6.2** | Inclined Plane | Reducing effort by increasing distance |
-| **7.6.3** | Lever | Force multiplication using arms about a fulcrum |
+| Section   | Title                             | Main Learning Focus                                                     |
+| --------- | --------------------------------- | ----------------------------------------------------------------------- |
+| **7.0**   | Introduction                      | Why work, energy, and power simplify motion analysis                    |
+| **7.1**   | Work Done by a Constant Force     | Scientific meaning of work                                              |
+| **7.1.1** | When Is Work Done Equal to Zero?  | Force, displacement, and perpendicular force                            |
+| **7.1.2** | Positive and Negative Work Done   | Direction of force relative to displacement                             |
+| **7.2**   | The Work-Energy Theorem           | Work done equals change in energy                                       |
+| **7.3**   | Forms of Energy                   | Mechanical, electrical, thermal, light, sound, chemical, nuclear energy |
+| **7.4**   | Mechanical Energy                 | Energy due to motion or position                                        |
+| **7.4.1** | Kinetic Energy                    | Energy due to motion                                                    |
+| **7.4.2** | Potential Energy                  | Energy due to deformation or relative position                          |
+| **7.4.3** | Conservation of Mechanical Energy | Conversion between kinetic and potential energy                         |
+| **7.5**   | Power                             | Rate at which work is done                                              |
+| **7.6**   | Simple Machines                   | Devices that change magnitude or direction of effort                    |
+| **7.6.1** | Pulley                            | Changing direction of force                                             |
+| **7.6.2** | Inclined Plane                    | Reducing effort by increasing distance                                  |
+| **7.6.3** | Lever                             | Force multiplication using arms about a fulcrum                         |
 
 ---
 
@@ -46,23 +47,23 @@
 
 By the end of this chapter, you should be able to:
 
-| # | You should be able to... |
-|---|---|
-| **1** | Define work done by a constant force in scientific terms. |
-| **2** | Identify when work done is positive, negative, or zero. |
-| **3** | Calculate work using force and displacement. |
-| **4** | Explain why feeling tired does not always mean work is done on an object. |
-| **5** | State the work-energy theorem. |
-| **6** | Explain energy as capacity to do work. |
-| **7** | Recognise different forms of energy and energy transformations. |
-| **8** | Calculate kinetic energy using mass and velocity. |
-| **9** | Calculate gravitational potential energy near Earth's surface. |
-| **10** | Explain conservation of mechanical energy. |
+| #      | You should be able to...                                                       |
+| ------ | ------------------------------------------------------------------------------ |
+| **1**  | Define work done by a constant force in scientific terms.                      |
+| **2**  | Identify when work done is positive, negative, or zero.                        |
+| **3**  | Calculate work using force and displacement.                                   |
+| **4**  | Explain why feeling tired does not always mean work is done on an object.      |
+| **5**  | State the work-energy theorem.                                                 |
+| **6**  | Explain energy as capacity to do work.                                         |
+| **7**  | Recognise different forms of energy and energy transformations.                |
+| **8**  | Calculate kinetic energy using mass and velocity.                              |
+| **9**  | Calculate gravitational potential energy near Earth's surface.                 |
+| **10** | Explain conservation of mechanical energy.                                     |
 | **11** | Use energy conservation to solve slide, pendulum, and falling-body situations. |
-| **12** | Define power and calculate it using work and time. |
-| **13** | Explain how pulleys, inclined planes, and levers help in doing work. |
-| **14** | Calculate mechanical advantage for simple machines. |
-| **15** | Explain why real machines cannot run forever without energy input. |
+| **12** | Define power and calculate it using work and time.                             |
+| **13** | Explain how pulleys, inclined planes, and levers help in doing work.           |
+| **14** | Calculate mechanical advantage for simple machines.                            |
+| **15** | Explain why real machines cannot run forever without energy input.             |
 
 ---
 
@@ -72,11 +73,11 @@ In Chapters 4 and 6, you learnt to describe motion using kinematics and Newton's
 
 The ideas of **work**, **energy**, and **power** often provide a simpler route.
 
-| Idea | Why It Helps |
-|---|---|
-| **Work** | Measures energy transferred by force and displacement |
-| **Energy** | Tracks capacity to do work |
-| **Power** | Measures how quickly work is done |
+| Idea                | Why It Helps                                            |
+| ------------------- | ------------------------------------------------------- |
+| **Work**            | Measures energy transferred by force and displacement   |
+| **Energy**          | Tracks capacity to do work                              |
+| **Power**           | Measures how quickly work is done                       |
 | **Simple machines** | Help perform tasks with less effort or more convenience |
 
 > [!NOTE]
@@ -84,20 +85,20 @@ The ideas of **work**, **energy**, and **power** often provide a simpler route.
 
 Examples:
 
-| Source | Energy Use |
-|---|---|
-| Food | Provides energy to walk |
-| Electricity | Runs fans and lights |
-| Fuel | Moves vehicles |
+| Source               | Energy Use               |
+| -------------------- | ------------------------ |
+| Food                 | Provides energy to walk  |
+| Electricity          | Runs fans and lights     |
+| Fuel                 | Moves vehicles           |
 | Stored water in dams | Can generate electricity |
 
 ### Core Questions
 
-| # | Question |
-|---|---|
-| **1** | What will be the speed of a child at the bottom of a slide? |
+| #     | Question                                                                                      |
+| ----- | --------------------------------------------------------------------------------------------- |
+| **1** | What will be the speed of a child at the bottom of a slide?                                   |
 | **2** | Will two children of different masses reach the bottom of the same slide with the same speed? |
-| **3** | Which slide gives the largest speed at the bottom? |
+| **3** | Which slide gives the largest speed at the bottom?                                            |
 
 ---
 
@@ -117,25 +118,25 @@ F\times s
 \tag{7.2}
 $$
 
-| Symbol | Meaning | SI Unit |
-|---|---|---|
-| `W` | Work done | joule (J) |
-| `F` | Force | newton (N) |
-| `s` | Displacement in direction of force | metre (m) |
+| Symbol | Meaning                            | SI Unit    |
+| ------ | ---------------------------------- | ---------- |
+| `W`    | Work done                          | joule (J)  |
+| `F`    | Force                              | newton (N) |
+| `s`    | Displacement in direction of force | metre (m)  |
 
 ### Lifting Bags Example
 
-| Situation | Force | Height | Work Compared to One Bag Lifted 1 m |
-|---|---|---|---|
-| Lift one 5 kg bag by 1 m | `mg` | 1 m | `W` |
-| Lift three bags one by one by 1 m | `mg` each | 1 m each | `3W` |
-| Lift three bags together by 1 m | `3mg` | 1 m | `3W` |
-| Lift one bag by 3 m | `mg` | 3 m | `3W` |
+| Situation                         | Force     | Height   | Work Compared to One Bag Lifted 1 m |
+| --------------------------------- | --------- | -------- | ----------------------------------- |
+| Lift one 5 kg bag by 1 m          | `mg`      | 1 m      | `W`                                 |
+| Lift three bags one by one by 1 m | `mg` each | 1 m each | `3W`                                |
+| Lift three bags together by 1 m   | `3mg`     | 1 m      | `3W`                                |
+| Lift one bag by 3 m               | `mg`      | 3 m      | `3W`                                |
 
 Work increases if:
 
-| Change | Effect on Work |
-|---|---|
+| Change                                | Effect on Work |
+| ------------------------------------- | -------------- |
 | Force increases for same displacement | Work increases |
 | Displacement increases for same force | Work increases |
 
@@ -193,10 +194,10 @@ $$
 
 Work done is zero in three important cases.
 
-| Case | Why Work Is Zero | Example |
-|---|---|---|
-| Force is zero | `F = 0` | No force applied |
-| Displacement is zero | `s = 0` | Pushing a rigid wall that does not move |
+| Case                                   | Why Work Is Zero                      | Example                                                  |
+| -------------------------------------- | ------------------------------------- | -------------------------------------------------------- |
+| Force is zero                          | `F = 0`                               | No force applied                                         |
+| Displacement is zero                   | `s = 0`                               | Pushing a rigid wall that does not move                  |
 | Force is perpendicular to displacement | No displacement in direction of force | Carrying a box horizontally while force on box is upward |
 
 ### Why Pushing a Wall Feels Tiring
@@ -214,11 +215,11 @@ But your muscles use internal energy while contracting and relaxing, so you feel
 
 Work can be positive or negative.
 
-| Relative Direction | Work Sign | Example |
-|---|---|---|
-| Force and displacement in same direction | Positive | Pushing wheelchair forward |
-| Force and displacement in opposite directions | Negative | Goalkeeper stopping a ball |
-| Force perpendicular to displacement | Zero | Carrying a box horizontally |
+| Relative Direction                            | Work Sign | Example                     |
+| --------------------------------------------- | --------- | --------------------------- |
+| Force and displacement in same direction      | Positive  | Pushing wheelchair forward  |
+| Force and displacement in opposite directions | Negative  | Goalkeeper stopping a ball  |
+| Force perpendicular to displacement           | Zero      | Carrying a box horizontally |
 
 Work has no direction, but it can have positive or negative sign.
 
@@ -227,14 +228,14 @@ Work has no direction, but it can have positive or negative sign.
 When a girl lifts a dumbbell upward:
 
 | Force by Girl | Displacement | Work by Girl |
-|---|---|---|
-| Upward | Upward | Positive |
+| ------------- | ------------ | ------------ |
+| Upward        | Upward       | Positive     |
 
 When she slowly lowers it:
 
 | Force by Girl | Displacement | Work by Girl |
-|---|---|---|
-| Upward | Downward | Negative |
+| ------------- | ------------ | ------------ |
+| Upward        | Downward     | Negative     |
 
 ### Example 7.2 — Goalkeeper Stopping a Ball
 
@@ -283,12 +284,12 @@ When work is done on an object, its energy can change.
 
 Examples:
 
-| Situation | Energy Change |
-|---|---|
-| Fielder throws ball | Ball gains energy |
-| Moving ball hits wickets | Ball transfers energy to wickets |
-| Flowerpot raised to height | Pot gains stored energy |
-| Falling pot hits ground | Stored energy changes into motion and impact |
+| Situation                  | Energy Change                                |
+| -------------------------- | -------------------------------------------- |
+| Fielder throws ball        | Ball gains energy                            |
+| Moving ball hits wickets   | Ball transfers energy to wickets             |
+| Flowerpot raised to height | Pot gains stored energy                      |
+| Falling pot hits ground    | Stored energy changes into motion and impact |
 
 > [!NOTE]
 > An object that has the capacity to do work possesses energy.
@@ -311,22 +312,22 @@ The SI unit of energy is also the **joule (J)**.
 
 Energy can be transferred by:
 
-| Mode | Example |
-|---|---|
-| Mechanical work | A bat hits a ball |
-| Heat | Hot object warms a colder object |
-| Radiation | Sun's energy reaches Earth |
-| Electric circuit | Battery powers a bulb |
-| Sound waves | Vibrations transfer energy |
-| Nuclear reactions | Sun produces energy |
+| Mode              | Example                          |
+| ----------------- | -------------------------------- |
+| Mechanical work   | A bat hits a ball                |
+| Heat              | Hot object warms a colder object |
+| Radiation         | Sun's energy reaches Earth       |
+| Electric circuit  | Battery powers a bulb            |
+| Sound waves       | Vibrations transfer energy       |
+| Nuclear reactions | Sun produces energy              |
 
 ### Example 7.3 — Carrom Collisions
 
 In a carrom shot:
 
-| Interaction | Positive Work | Negative Work |
-|---|---|---|
-| Striker hits white coin | Striker does positive work on white coin | White coin does negative work on striker |
+| Interaction                | Positive Work                               | Negative Work                               |
+| -------------------------- | ------------------------------------------- | ------------------------------------------- |
+| Striker hits white coin    | Striker does positive work on white coin    | White coin does negative work on striker    |
 | White coin hits black coin | White coin does positive work on black coin | Black coin does negative work on white coin |
 
 Energy transfers from one moving object to another through collisions.
@@ -341,28 +342,28 @@ The unit **joule** is named after **James Prescott Joule**, who studied the rela
 
 Energy exists in many forms.
 
-| Energy Form | Meaning / Example |
-|---|---|
-| **Mechanical energy** | Energy due to motion or position |
-| **Electrical energy** | Energy related to charges |
-| **Thermal energy** | Energy related to temperature |
-| **Light energy** | Energy that allows vision |
-| **Sound energy** | Energy of vibrations |
-| **Chemical energy** | Energy stored in bonds of food and fuels |
-| **Nuclear energy** | Energy stored in atomic nuclei |
+| Energy Form           | Meaning / Example                        |
+| --------------------- | ---------------------------------------- |
+| **Mechanical energy** | Energy due to motion or position         |
+| **Electrical energy** | Energy related to charges                |
+| **Thermal energy**    | Energy related to temperature            |
+| **Light energy**      | Energy that allows vision                |
+| **Sound energy**      | Energy of vibrations                     |
+| **Chemical energy**   | Energy stored in bonds of food and fuels |
+| **Nuclear energy**    | Energy stored in atomic nuclei           |
 
 Energy can change form.
 
 Examples:
 
-| Device / Process | Energy Transformation |
-|---|---|
-| Electric bulb | Electrical to light and thermal |
-| Electric water heater | Electrical to thermal |
-| Human muscles | Chemical to mechanical |
-| Ringing bell | Mechanical to sound |
-| Photosynthesis | Light to chemical |
-| Solar panel | Light to electrical |
+| Device / Process      | Energy Transformation           |
+| --------------------- | ------------------------------- |
+| Electric bulb         | Electrical to light and thermal |
+| Electric water heater | Electrical to thermal           |
+| Human muscles         | Chemical to mechanical          |
+| Ringing bell          | Mechanical to sound             |
+| Photosynthesis        | Light to chemical               |
+| Solar panel           | Light to electrical             |
 
 ---
 
@@ -373,10 +374,10 @@ Examples:
 
 Two main forms:
 
-| Mechanical Energy Type | Due To |
-|---|---|
-| **Kinetic energy** | Motion |
-| **Potential energy** | Position, arrangement, or deformation |
+| Mechanical Energy Type | Due To                                |
+| ---------------------- | ------------------------------------- |
+| **Kinetic energy**     | Motion                                |
+| **Potential energy**   | Position, arrangement, or deformation |
 
 ---
 
@@ -387,11 +388,11 @@ Two main forms:
 
 All moving objects have kinetic energy:
 
-| Object | Kinetic Energy? |
-|---|---|
-| Moving bicycle | Yes |
-| Rolling ball | Yes |
-| Moving car | Yes |
+| Object           | Kinetic Energy?              |
+| ---------------- | ---------------------------- |
+| Moving bicycle   | Yes                          |
+| Rolling ball     | Yes                          |
+| Moving car       | Yes                          |
 | Book lying still | No kinetic energy if at rest |
 
 ### Kinetic Energy Formula
@@ -405,11 +406,11 @@ K
 \tag{7.6}
 $$
 
-| Symbol | Meaning | Unit |
-|---|---|---|
-| `K` | Kinetic energy | J |
-| `m` | Mass | kg |
-| `v` | Velocity | m s⁻¹ |
+| Symbol | Meaning        | Unit  |
+| ------ | -------------- | ----- |
+| `K`    | Kinetic energy | J     |
+| `m`    | Mass           | kg    |
+| `v`    | Velocity       | m s⁻¹ |
 
 Kinetic energy has no direction.
 
@@ -531,23 +532,23 @@ $$
 
 Potential energy is stored energy due to:
 
-| Cause | Example |
-|---|---|
-| Deformation | Stretched rubber band, compressed spring |
-| Relative position | Ball raised above ground |
-| Magnetic arrangement | Separated unlike poles |
-| Electric arrangement | Separated charges |
+| Cause                | Example                                  |
+| -------------------- | ---------------------------------------- |
+| Deformation          | Stretched rubber band, compressed spring |
+| Relative position    | Ball raised above ground                 |
+| Magnetic arrangement | Separated unlike poles                   |
+| Electric arrangement | Separated charges                        |
 
 > [!NOTE]
 > **Potential energy** is energy stored by an object due to deformation or by a system due to relative positions of its parts.
 
 ### Elastic Potential Energy
 
-| Example | What Happens When Released |
-|---|---|
-| Stretched rubber band | Shoots object forward |
-| Bent bow | Launches arrow |
-| Compressed spring | Pushes object |
+| Example               | What Happens When Released |
+| --------------------- | -------------------------- |
+| Stretched rubber band | Shoots object forward      |
+| Bent bow              | Launches arrow             |
+| Compressed spring     | Pushes object              |
 
 ### Gravitational Potential Energy
 
@@ -560,12 +561,12 @@ mgh
 \tag{7.8}
 $$
 
-| Symbol | Meaning |
-|---|---|
-| `U` | Potential energy |
-| `m` | Mass |
-| `g` | Acceleration due to gravity |
-| `h` | Height above chosen zero level |
+| Symbol | Meaning                        |
+| ------ | ------------------------------ |
+| `U`    | Potential energy               |
+| `m`    | Mass                           |
+| `g`    | Acceleration due to gravity    |
+| `h`    | Height above chosen zero level |
 
 The zero level for potential energy is chosen for convenience, often the ground.
 
@@ -575,20 +576,20 @@ The zero level for potential energy is chosen for convenience, often the ground.
 
 **Aim:** To connect height with gravitational potential energy.
 
-| Step | Action |
-|---|---|
+| Step  | Action                            |
+| ----- | --------------------------------- |
 | **1** | Fill a container with loose sand. |
-| **2** | Drop a heavy ball from 1 m. |
-| **3** | Observe depression in sand. |
-| **4** | Drop from 2 m at another spot. |
-| **5** | Compare depression depths. |
+| **2** | Drop a heavy ball from 1 m.       |
+| **3** | Observe depression in sand.       |
+| **4** | Drop from 2 m at another spot.    |
+| **5** | Compare depression depths.        |
 
 Inference:
 
-| Observation | Meaning |
-|---|---|
+| Observation                         | Meaning                                    |
+| ----------------------------------- | ------------------------------------------ |
 | Higher drop gives deeper depression | Greater height means more potential energy |
-| Ball can do more work on sand | More energy transferred during impact |
+| Ball can do more work on sand       | More energy transferred during impact      |
 
 ### Example 7.7 — Cricket Ball Potential Energy
 
@@ -639,22 +640,22 @@ $$
 
 For an object falling freely under gravity, ignoring air resistance:
 
-| Position | Kinetic Energy | Potential Energy | Mechanical Energy |
-|---|---:|---:|---:|
-| Top | 0 | `mgh` | `mgh` |
-| Middle | Increasing | Decreasing | `mgh` |
-| Just before ground | Maximum | 0 | `mgh` |
+| Position           | Kinetic Energy | Potential Energy | Mechanical Energy |
+| ------------------ | -------------: | ---------------: | ----------------: |
+| Top                |              0 |            `mgh` |             `mgh` |
+| Middle             |     Increasing |       Decreasing |             `mgh` |
+| Just before ground |        Maximum |                0 |             `mgh` |
 
 > [!NOTE]
 > **Conservation of mechanical energy:** If no external dissipative force such as friction or air resistance acts, total mechanical energy remains constant.
 
 ### Simple Pendulum Energy
 
-| Point | Kinetic Energy | Potential Energy |
-|---|---|---|
-| Extreme left | Zero | Maximum |
-| Lowest point | Maximum | Minimum |
-| Extreme right | Zero | Maximum |
+| Point         | Kinetic Energy | Potential Energy |
+| ------------- | -------------- | ---------------- |
+| Extreme left  | Zero           | Maximum          |
+| Lowest point  | Maximum        | Minimum          |
+| Extreme right | Zero           | Maximum          |
 
 In real life, a pendulum eventually slows because some energy is transferred due to air resistance and friction at the support.
 
@@ -797,11 +798,11 @@ P
 \tag{7.11}
 $$
 
-| Symbol | Meaning | Unit |
-|---|---|---|
-| `P` | Power | watt (W) |
-| `W` | Work | joule (J) |
-| `t` | Time | second (s) |
+| Symbol | Meaning | Unit       |
+| ------ | ------- | ---------- |
+| `P`    | Power   | watt (W)   |
+| `W`    | Work    | joule (J)  |
+| `t`    | Time    | second (s) |
 
 $$
 1\text{ W}
@@ -896,11 +897,11 @@ Simple machines help us do tasks more conveniently.
 
 Important terms:
 
-| Term | Meaning |
-|---|---|
-| **Effort** | Force applied by us to a machine |
-| **Load** | Force that must be overcome |
-| **Mechanical advantage** | Ratio of load to effort |
+| Term                     | Meaning                          |
+| ------------------------ | -------------------------------- |
+| **Effort**               | Force applied by us to a machine |
+| **Load**                 | Force that must be overcome      |
+| **Mechanical advantage** | Ratio of load to effort          |
 
 $$
 \text{Mechanical advantage}
@@ -918,19 +919,19 @@ $$
 
 A pulley is a wheel with a groove that guides a rope.
 
-| Pulley Type | Effect |
-|---|---|
-| Fixed pulley | Changes direction of force; mechanical advantage 1 |
+| Pulley Type    | Effect                                                 |
+| -------------- | ------------------------------------------------------ |
+| Fixed pulley   | Changes direction of force; mechanical advantage 1     |
 | Movable pulley | Can reduce effort; mechanical advantage greater than 1 |
-| Pulley system | Can lift heavier loads with smaller effort |
+| Pulley system  | Can lift heavier loads with smaller effort             |
 
 Examples:
 
-| Use | Benefit |
-|---|---|
-| Flag hoisting | Pull down to raise flag up |
-| Cranes | Lift heavy loads |
-| Elevators | Mechanical support and direction change |
+| Use           | Benefit                                 |
+| ------------- | --------------------------------------- |
+| Flag hoisting | Pull down to raise flag up              |
+| Cranes        | Lift heavy loads                        |
+| Elevators     | Mechanical support and direction change |
 
 ---
 
@@ -940,11 +941,11 @@ An inclined plane helps raise a load by applying a smaller force over a longer d
 
 ### Activity 7.3 — Pulling a Cart Up a Plank
 
-| Setup | Force Required | Distance |
-|---|---|---|
-| Lift vertically | Larger force | Smaller distance |
-| Pull up steep plank | Smaller than vertical lift | Longer distance |
-| Pull up shallow plank | Even smaller force | Even longer distance |
+| Setup                 | Force Required             | Distance             |
+| --------------------- | -------------------------- | -------------------- |
+| Lift vertically       | Larger force               | Smaller distance     |
+| Pull up steep plank   | Smaller than vertical lift | Longer distance      |
+| Pull up shallow plank | Even smaller force         | Even longer distance |
 
 ### Mechanical Advantage of Inclined Plane
 
@@ -1011,13 +1012,13 @@ A lever is a rigid bar that rotates about a fixed point.
 
 ### Parts of a Lever
 
-| Part | Meaning |
-|---|---|
-| **Fulcrum** | Fixed point about which lever rotates |
-| **Load** | Force to be overcome |
-| **Effort** | Force applied |
-| **Load arm** | Distance of load from fulcrum |
-| **Effort arm** | Distance of effort from fulcrum |
+| Part           | Meaning                               |
+| -------------- | ------------------------------------- |
+| **Fulcrum**    | Fixed point about which lever rotates |
+| **Load**       | Force to be overcome                  |
+| **Effort**     | Force applied                         |
+| **Load arm**   | Distance of load from fulcrum         |
+| **Effort arm** | Distance of effort from fulcrum       |
 
 ### Lever Work Relation
 
@@ -1109,11 +1110,11 @@ So the 30 kg child should sit 1 m from the fulcrum.
 
 ### Classes of Levers
 
-| Lever Class | Arrangement | Examples |
-|---|---|---|
-| **Class I** | Fulcrum between effort and load | Seesaw, scissors, crowbar, pliers, balance scale |
-| **Class II** | Load between fulcrum and effort | Wheelbarrow, bottle opener, lemon squeezer |
-| **Class III** | Effort between fulcrum and load | Tweezers, broom, tongs, oar |
+| Lever Class   | Arrangement                     | Examples                                         |
+| ------------- | ------------------------------- | ------------------------------------------------ |
+| **Class I**   | Fulcrum between effort and load | Seesaw, scissors, crowbar, pliers, balance scale |
+| **Class II**  | Load between fulcrum and effort | Wheelbarrow, bottle opener, lemon squeezer       |
+| **Class III** | Effort between fulcrum and load | Tweezers, broom, tongs, oar                      |
 
 ---
 
@@ -1125,34 +1126,34 @@ Traditional **gharat** or **panchakki** water mills use this kinetic energy to r
 
 Modern hydroelectric power plants use a similar energy chain:
 
-| Stage | Energy Form |
-|---|---|
+| Stage                    | Energy Form                    |
+| ------------------------ | ------------------------------ |
 | Water stored high in dam | Gravitational potential energy |
-| Water flows down | Kinetic energy |
-| Turbine rotates | Mechanical energy |
-| Generator works | Electrical energy |
+| Water flows down         | Kinetic energy                 |
+| Turbine rotates          | Mechanical energy              |
+| Generator works          | Electrical energy              |
 
 ---
 
 ## 📋 Summary
 
-| # | Key Point |
-|---|---|
-| **1** | Work is done when force causes displacement in the direction of force. |
-| **2** | Work is zero if force is zero, displacement is zero, or force is perpendicular to displacement. |
-| **3** | Work can be positive or negative depending on force and displacement directions. |
-| **4** | The SI unit of work and energy is joule. |
-| **5** | Work-energy theorem states that work done equals change in energy. |
-| **6** | Kinetic energy is energy due to motion. |
-| **7** | Potential energy is stored energy due to deformation or position. |
-| **8** | Near Earth's surface, gravitational potential energy is `mgh`. |
-| **9** | Mechanical energy is the sum of kinetic and potential energy. |
-| **10** | Mechanical energy is conserved when no dissipative forces act. |
-| **11** | Power is the rate of doing work. |
-| **12** | Simple machines change force magnitude or direction but do not reduce total work. |
-| **13** | Fixed pulleys change direction of effort. |
-| **14** | Inclined planes reduce effort by increasing distance. |
-| **15** | Levers use effort arm and load arm to provide mechanical advantage. |
+| #      | Key Point                                                                                       |
+| ------ | ----------------------------------------------------------------------------------------------- |
+| **1**  | Work is done when force causes displacement in the direction of force.                          |
+| **2**  | Work is zero if force is zero, displacement is zero, or force is perpendicular to displacement. |
+| **3**  | Work can be positive or negative depending on force and displacement directions.                |
+| **4**  | The SI unit of work and energy is joule.                                                        |
+| **5**  | Work-energy theorem states that work done equals change in energy.                              |
+| **6**  | Kinetic energy is energy due to motion.                                                         |
+| **7**  | Potential energy is stored energy due to deformation or position.                               |
+| **8**  | Near Earth's surface, gravitational potential energy is `mgh`.                                  |
+| **9**  | Mechanical energy is the sum of kinetic and potential energy.                                   |
+| **10** | Mechanical energy is conserved when no dissipative forces act.                                  |
+| **11** | Power is the rate of doing work.                                                                |
+| **12** | Simple machines change force magnitude or direction but do not reduce total work.               |
+| **13** | Fixed pulleys change direction of effort.                                                       |
+| **14** | Inclined planes reduce effort by increasing distance.                                           |
+| **15** | Levers use effort arm and load arm to provide mechanical advantage.                             |
 
 ---
 
@@ -1160,23 +1161,23 @@ Modern hydroelectric power plants use a similar energy chain:
 
 ### Key Definitions
 
-| Term | Meaning |
-|---|---|
-| **Work** | Force multiplied by displacement in direction of force |
-| **Energy** | Capacity to do work |
-| **Work-energy theorem** | Work done equals change in energy |
-| **Kinetic energy** | Energy due to motion |
-| **Potential energy** | Stored energy due to deformation or position |
-| **Mechanical energy** | Sum of kinetic and potential energy |
-| **Power** | Rate of doing work |
-| **Simple machine** | Device that changes effort magnitude or direction |
-| **Effort** | Force applied to machine |
-| **Load** | Force overcome by machine |
-| **Mechanical advantage** | Load divided by effort |
-| **Pulley** | Grooved wheel guiding a rope |
-| **Inclined plane** | Sloping surface used to raise or lower loads |
-| **Lever** | Rigid bar rotating about a fulcrum |
-| **Fulcrum** | Fixed point around which lever rotates |
+| Term                     | Meaning                                                |
+| ------------------------ | ------------------------------------------------------ |
+| **Work**                 | Force multiplied by displacement in direction of force |
+| **Energy**               | Capacity to do work                                    |
+| **Work-energy theorem**  | Work done equals change in energy                      |
+| **Kinetic energy**       | Energy due to motion                                   |
+| **Potential energy**     | Stored energy due to deformation or position           |
+| **Mechanical energy**    | Sum of kinetic and potential energy                    |
+| **Power**                | Rate of doing work                                     |
+| **Simple machine**       | Device that changes effort magnitude or direction      |
+| **Effort**               | Force applied to machine                               |
+| **Load**                 | Force overcome by machine                              |
+| **Mechanical advantage** | Load divided by effort                                 |
+| **Pulley**               | Grooved wheel guiding a rope                           |
+| **Inclined plane**       | Sloping surface used to raise or lower loads           |
+| **Lever**                | Rigid bar rotating about a fulcrum                     |
+| **Fulcrum**              | Fixed point around which lever rotates                 |
 
 ### Formula Sheet
 
@@ -1240,40 +1241,40 @@ $$
 
 ### Units
 
-| Quantity | Unit |
-|---|---|
-| Work | joule (J) |
-| Energy | joule (J) |
-| Power | watt (W) |
-| Force | newton (N) |
-| Displacement | metre (m) |
-| Mechanical advantage | No unit |
+| Quantity             | Unit       |
+| -------------------- | ---------- |
+| Work                 | joule (J)  |
+| Energy               | joule (J)  |
+| Power                | watt (W)   |
+| Force                | newton (N) |
+| Displacement         | metre (m)  |
+| Mechanical advantage | No unit    |
 
 ---
 
 ## ⚠️ Common Misconceptions
 
-| Misconception | Correct Understanding |
-|---|---|
-| **Work is done whenever effort is applied.** | Scientific work needs displacement in direction of force. |
-| **Carrying a box horizontally always involves work on the box by upward force.** | Upward force is perpendicular to displacement, so that force does zero work. |
-| **Energy disappears when an object stops.** | Energy transforms or transfers, often into thermal energy due to friction. |
-| **Kinetic energy doubles when speed doubles.** | It becomes four times because `K` depends on `v²`. |
-| **Potential energy belongs only to one object.** | It often belongs to a system, such as Earth-object system. |
-| **Simple machines reduce work.** | Ideal simple machines reduce effort by increasing distance or changing direction; total work is not reduced. |
-| **A machine can run forever without energy input.** | Real machines lose energy to friction and other effects. |
+| Misconception                                                                    | Correct Understanding                                                                                        |
+| -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| **Work is done whenever effort is applied.**                                     | Scientific work needs displacement in direction of force.                                                    |
+| **Carrying a box horizontally always involves work on the box by upward force.** | Upward force is perpendicular to displacement, so that force does zero work.                                 |
+| **Energy disappears when an object stops.**                                      | Energy transforms or transfers, often into thermal energy due to friction.                                   |
+| **Kinetic energy doubles when speed doubles.**                                   | It becomes four times because `K` depends on `v²`.                                                           |
+| **Potential energy belongs only to one object.**                                 | It often belongs to a system, such as Earth-object system.                                                   |
+| **Simple machines reduce work.**                                                 | Ideal simple machines reduce effort by increasing distance or changing direction; total work is not reduced. |
+| **A machine can run forever without energy input.**                              | Real machines lose energy to friction and other effects.                                                     |
 
 ---
 
 ## 🧪 Activities in This Chapter
 
-| Activity | Title / Focus | Main Skill |
-|---|---|---|
-| **7.1** | Ball dropped in sand | Potential energy and height |
-| **7.2** | Simple pendulum | Conservation of mechanical energy |
-| **7.3** | Cart on inclined plane | Effort, distance, and mechanical advantage |
-| **7.4** | Scale as lever | Fulcrum and force multiplication |
-| **7.5** | Beam balance | Lever law and balancing moments |
+| Activity | Title / Focus          | Main Skill                                 |
+| -------- | ---------------------- | ------------------------------------------ |
+| **7.1**  | Ball dropped in sand   | Potential energy and height                |
+| **7.2**  | Simple pendulum        | Conservation of mechanical energy          |
+| **7.3**  | Cart on inclined plane | Effort, distance, and mechanical advantage |
+| **7.4**  | Scale as lever         | Fulcrum and force multiplication           |
+| **7.5**  | Beam balance           | Lever law and balancing moments            |
 
 ---
 
@@ -1281,32 +1282,32 @@ $$
 
 ### A. Conceptual and Fill-in Questions
 
-| Q | Question |
-|---|---|
-| **1** | State True or False for statements about work, lifting, joule, kinetic energy, and energy transformation. |
-| **2** | Fill in blanks for work formula, joule definition, kinetic energy, potential energy, and power. |
-| **3** | At the highest point of a ball thrown upward, identify correct statements about force, acceleration, kinetic energy, and potential energy. |
+| Q     | Question                                                                                                                                                     |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **1** | State True or False for statements about work, lifting, joule, kinetic energy, and energy transformation.                                                    |
+| **2** | Fill in blanks for work formula, joule definition, kinetic energy, potential energy, and power.                                                              |
+| **3** | At the highest point of a ball thrown upward, identify correct statements about force, acceleration, kinetic energy, and potential energy.                   |
 | **4** | Identify energy transformations in a truck uphill, watch spring, photosynthesis, water from dam, matchstick, firecracker, microphone, bulb, and solar panel. |
 
 ### B. Work, Energy, and Power Numericals
 
-| Q | Question |
-|---|---|
-| **5** | A 50 kg student is lifted or climbs to height 72.5 m. Find gain in potential energy for both paths and conclude path dependence. |
-| **6** | A crane lifts mass to 10th floor, then 20th floor in double time. Compare energy and power required. |
-| **7** | Discuss energy, work, and power in raising a flag using a pulley; explain effect of speed. |
-| **8** | Compare fuel used when scooter reaches same speed with rider alone versus rider plus passenger, ignoring losses. |
+| Q      | Question                                                                                                                                                     |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **5**  | A 50 kg student is lifted or climbs to height 72.5 m. Find gain in potential energy for both paths and conclude path dependence.                             |
+| **6**  | A crane lifts mass to 10th floor, then 20th floor in double time. Compare energy and power required.                                                         |
+| **7**  | Discuss energy, work, and power in raising a flag using a pulley; explain effect of speed.                                                                   |
+| **8**  | Compare fuel used when scooter reaches same speed with rider alone versus rider plus passenger, ignoring losses.                                             |
 | **10** | A 2 kg ball is thrown upward at 20 m s⁻¹. Identify sign of gravity's work upward and downward; find work done by air resistance if maximum height is 19.4 m. |
-| **11** | Use a force-displacement graph and initial kinetic energy to find speed at 0 m and 4 m; identify if negative acceleration occurs. |
-| **12** | Compare height reached on Moon and Earth for the same upward velocity, given lunar gravity is one-sixth of Earth's. |
-| **13** | Use a motion graph for a braking car to describe motion, calculate kinetic energy, work done by brakes, and energy transformation. |
-| **14** | Use potential energy-displacement graph to calculate speeds at P, Q, and R for a 0.5 kg ball on a frictionless track. |
-| **15** | Coconut falls from 10 m; find velocity before impact and depression depth in sand using resistive force. |
+| **11** | Use a force-displacement graph and initial kinetic energy to find speed at 0 m and 4 m; identify if negative acceleration occurs.                            |
+| **12** | Compare height reached on Moon and Earth for the same upward velocity, given lunar gravity is one-sixth of Earth's.                                          |
+| **13** | Use a motion graph for a braking car to describe motion, calculate kinetic energy, work done by brakes, and energy transformation.                           |
+| **14** | Use potential energy-displacement graph to calculate speeds at P, Q, and R for a 0.5 kg ball on a frictionless track.                                        |
+| **15** | Coconut falls from 10 m; find velocity before impact and depression depth in sand using resistive force.                                                     |
 
 ### C. Simple Machines
 
-| Q | Question |
-|---|---|
+| Q     | Question                                                                                 |
+| ----- | ---------------------------------------------------------------------------------------- |
 | **9** | Draw a balanced seesaw where an adult weighs twice a child; show distances from fulcrum. |
 
 ---
@@ -1315,43 +1316,43 @@ $$
 
 ### Work Sign Check
 
-| Force vs Displacement | Work |
-|---|---|
-| Same direction | Positive |
-| Opposite direction | Negative |
-| Perpendicular | Zero |
+| Force vs Displacement | Work     |
+| --------------------- | -------- |
+| Same direction        | Positive |
+| Opposite direction    | Negative |
+| Perpendicular         | Zero     |
 
 ### Energy Method Workflow
 
-| Step | Action |
-|---|---|
-| **1** | Identify initial and final states. |
-| **2** | Write kinetic and potential energy at each state. |
+| Step  | Action                                                          |
+| ----- | --------------------------------------------------------------- |
+| **1** | Identify initial and final states.                              |
+| **2** | Write kinetic and potential energy at each state.               |
 | **3** | Include work done by external or dissipative forces if present. |
 | **4** | Apply work-energy theorem or conservation of mechanical energy. |
-| **5** | Solve for the unknown speed, height, work, or distance. |
+| **5** | Solve for the unknown speed, height, work, or distance.         |
 
 ### Simple Machine Workflow
 
-| Step | Action |
-|---|---|
-| **1** | Identify load and effort. |
-| **2** | Identify distance moved by load and effort. |
-| **3** | Use conservation of work for ideal machine. |
-| **4** | Calculate mechanical advantage. |
+| Step  | Action                                               |
+| ----- | ---------------------------------------------------- |
+| **1** | Identify load and effort.                            |
+| **2** | Identify distance moved by load and effort.          |
+| **3** | Use conservation of work for ideal machine.          |
+| **4** | Calculate mechanical advantage.                      |
 | **5** | Account for friction qualitatively in real machines. |
 
 ---
 
 ## 🚀 Projects, Extensions, and Investigations
 
-| Task | What to Do | Learning Focus |
-|---|---|---|
-| **Elastic launcher** | Modify a pen barrel and rubber band so the refill shoots out; compare distance with stretch. | Elastic potential to kinetic energy |
-| **Build simple machines** | Build lever, pulley, inclined plane, or a combination using cardboard, rulers, thread, cups, bottle caps, and weights. | Mechanical advantage |
-| **Simulation study** | Use PhET simulations such as Energy Skate Park, Energy Forms and Changes, Pendulum Lab, or Masses and Springs. | Energy transformation |
-| **Hydropower model** | Make a small water wheel model to show water energy turning a wheel. | Potential to kinetic to rotational energy |
-| **Perpetual machine critique** | Analyse why proposed perpetual machines fail. | Energy conservation and losses |
+| Task                           | What to Do                                                                                                             | Learning Focus                            |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| **Elastic launcher**           | Modify a pen barrel and rubber band so the refill shoots out; compare distance with stretch.                           | Elastic potential to kinetic energy       |
+| **Build simple machines**      | Build lever, pulley, inclined plane, or a combination using cardboard, rulers, thread, cups, bottle caps, and weights. | Mechanical advantage                      |
+| **Simulation study**           | Use PhET simulations such as Energy Skate Park, Energy Forms and Changes, Pendulum Lab, or Masses and Springs.         | Energy transformation                     |
+| **Hydropower model**           | Make a small water wheel model to show water energy turning a wheel.                                                   | Potential to kinetic to rotational energy |
+| **Perpetual machine critique** | Analyse why proposed perpetual machines fail.                                                                          | Energy conservation and losses            |
 
 ### The Quest Continues
 
@@ -1363,19 +1364,19 @@ Scientists study mysterious **dark energy** because the expansion of the Univers
 
 Use this order while revising:
 
-| Step | What to Master | Why |
-|---|---|---|
-| **1** | Scientific meaning of work | Prevents everyday-language confusion |
-| **2** | Positive, negative, and zero work | Essential for energy reasoning |
-| **3** | Work-energy theorem | Main bridge between work and energy |
-| **4** | Kinetic energy | Core motion-energy formula |
-| **5** | Potential energy | Core height-energy formula |
-| **6** | Conservation of mechanical energy | Simplifies many motion problems |
-| **7** | Power | Adds time-rate understanding |
-| **8** | Simple machines | Connects physics to tools |
-| **9** | Mechanical advantage | Exam and design calculations |
-| **10** | Exercises and graphs | Application readiness |
+| Step   | What to Master                    | Why                                  |
+| ------ | --------------------------------- | ------------------------------------ |
+| **1**  | Scientific meaning of work        | Prevents everyday-language confusion |
+| **2**  | Positive, negative, and zero work | Essential for energy reasoning       |
+| **3**  | Work-energy theorem               | Main bridge between work and energy  |
+| **4**  | Kinetic energy                    | Core motion-energy formula           |
+| **5**  | Potential energy                  | Core height-energy formula           |
+| **6**  | Conservation of mechanical energy | Simplifies many motion problems      |
+| **7**  | Power                             | Adds time-rate understanding         |
+| **8**  | Simple machines                   | Connects physics to tools            |
+| **9**  | Mechanical advantage              | Exam and design calculations         |
+| **10** | Exercises and graphs              | Application readiness                |
 
 ---
 
-*Source: NCERT Class 9 — Science, Chapter 7, raw extraction from `data/class_9/science/chapter_07.md`. Formatted manually for learner-facing Markdown; raw source left unchanged.*
+_Source: NCERT Class 9 — Science, Chapter 7, raw extraction from `data/class_9/science/chapter_07.md`. Formatted manually for learner-facing Markdown; raw source left unchanged._

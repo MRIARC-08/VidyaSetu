@@ -610,15 +610,15 @@ It is signed by a director or secretary and filed within the prescribed time.
 
 ## 59. Memorandum and Articles: Key Difference
 
-| Basis | Memorandum of Association | Articles of Association |
-|---|---|---|
-| Meaning | Charter defining objects and powers of company | Rules for internal management |
-| Position | Main document | Subsidiary document |
-| Relation with law | Subordinate to Companies Act | Subordinate to Companies Act and memorandum |
-| Relationship defined | Company and outsiders | Company and members; members inter se |
-| Validity of acts beyond it | Invalid and cannot be ratified | May be ratified if not against memorandum or law |
-| Necessity | Every company must file it | Public company may adopt model articles where allowed |
-| Scope | External scope and purpose | Internal rules and procedures |
+| Basis                      | Memorandum of Association                      | Articles of Association                               |
+| -------------------------- | ---------------------------------------------- | ----------------------------------------------------- |
+| Meaning                    | Charter defining objects and powers of company | Rules for internal management                         |
+| Position                   | Main document                                  | Subsidiary document                                   |
+| Relation with law          | Subordinate to Companies Act                   | Subordinate to Companies Act and memorandum           |
+| Relationship defined       | Company and outsiders                          | Company and members; members inter se                 |
+| Validity of acts beyond it | Invalid and cannot be ratified                 | May be ratified if not against memorandum or law      |
+| Necessity                  | Every company must file it                     | Public company may adopt model articles where allowed |
+| Scope                      | External scope and purpose                     | Internal rules and procedures                         |
 
 ## 60. Company Formation Flowchart
 
@@ -727,15 +727,15 @@ The stages are promotion, incorporation, and capital subscription. Promotion inc
 
 ## 64. Common Mistakes and Corrections
 
-| Mistake | Correct understanding |
-|---|---|
-| Promoters are agents of company before incorporation | They cannot be agents because the company does not yet exist |
-| Preliminary contracts bind the company automatically | They do not bind the company; fresh contracts may be made after incorporation |
-| Memorandum and articles are the same | Memorandum defines objects; articles define internal rules |
-| Prospectus is issued by every company | Only a public company inviting public subscription issues prospectus |
-| Certificate of Incorporation can be ignored if registration had a defect | It is conclusive evidence of legal existence |
-| Minimum subscription means 100 percent subscription | Textbook states minimum subscription as 90 percent of issue size under SEBI guideline |
-| Application money can be freely used before allotment | It must remain in a separate bank account before allotment |
+| Mistake                                                                  | Correct understanding                                                                 |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
+| Promoters are agents of company before incorporation                     | They cannot be agents because the company does not yet exist                          |
+| Preliminary contracts bind the company automatically                     | They do not bind the company; fresh contracts may be made after incorporation         |
+| Memorandum and articles are the same                                     | Memorandum defines objects; articles define internal rules                            |
+| Prospectus is issued by every company                                    | Only a public company inviting public subscription issues prospectus                  |
+| Certificate of Incorporation can be ignored if registration had a defect | It is conclusive evidence of legal existence                                          |
+| Minimum subscription means 100 percent subscription                      | Textbook states minimum subscription as 90 percent of issue size under SEBI guideline |
+| Application money can be freely used before allotment                    | It must remain in a separate bank account before allotment                            |
 
 ## 65. Important One-Liners
 
@@ -762,28 +762,28 @@ The stages are promotion, incorporation, and capital subscription. Promotion inc
 
 ## 66. Glossary
 
-| Term | Meaning |
-|---|---|
-| Promotion | First stage of company formation |
-| Promoter | Person who takes steps to form a company |
-| Technical feasibility | Practical possibility based on technology and materials |
-| Financial feasibility | Possibility of arranging required funds |
-| Economic feasibility | Profitability and viability of the idea |
-| Memorandum of Association | Charter defining company objects and powers |
-| Articles of Association | Rules of internal management |
-| Qualification shares | Shares directors may be required to hold |
-| Statutory declaration | Declaration that legal requirements are complied with |
-| Preliminary contract | Contract made before incorporation |
-| Provisional contract | Contract made after incorporation but before commencement |
-| Incorporation | Legal registration of company |
-| Certificate of Incorporation | Legal birth certificate of company |
-| CIN | Corporate Identity Number |
-| DIN | Director Identification Number |
-| Prospectus | Public invitation to subscribe to securities |
-| Underwriter | Person or institution agreeing to buy unsubscribed shares |
-| Minimum subscription | Minimum subscription required before allotment |
-| Allotment | Distribution of shares to applicants |
-| Return of allotment | Statement filed after allotment of shares |
+| Term                         | Meaning                                                   |
+| ---------------------------- | --------------------------------------------------------- |
+| Promotion                    | First stage of company formation                          |
+| Promoter                     | Person who takes steps to form a company                  |
+| Technical feasibility        | Practical possibility based on technology and materials   |
+| Financial feasibility        | Possibility of arranging required funds                   |
+| Economic feasibility         | Profitability and viability of the idea                   |
+| Memorandum of Association    | Charter defining company objects and powers               |
+| Articles of Association      | Rules of internal management                              |
+| Qualification shares         | Shares directors may be required to hold                  |
+| Statutory declaration        | Declaration that legal requirements are complied with     |
+| Preliminary contract         | Contract made before incorporation                        |
+| Provisional contract         | Contract made after incorporation but before commencement |
+| Incorporation                | Legal registration of company                             |
+| Certificate of Incorporation | Legal birth certificate of company                        |
+| CIN                          | Corporate Identity Number                                 |
+| DIN                          | Director Identification Number                            |
+| Prospectus                   | Public invitation to subscribe to securities              |
+| Underwriter                  | Person or institution agreeing to buy unsubscribed shares |
+| Minimum subscription         | Minimum subscription required before allotment            |
+| Allotment                    | Distribution of shares to applicants                      |
+| Return of allotment          | Statement filed after allotment of shares                 |
 
 ## 67. Final Revision Sheet
 

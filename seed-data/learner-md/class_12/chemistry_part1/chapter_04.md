@@ -1,4 +1,5 @@
 # Chapter 4: The d- and f-Block Elements
+
 ### NCERT Class 12 - Chemistry Part 1
 
 ## Chapter at a Glance
@@ -24,30 +25,30 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Transition element | Element with partially filled d subshell in atom or common ion. |
-| d-block element | Element in which differentiating electron enters d orbital. |
-| Inner transition element | Element in which differentiating electron enters f orbital. |
-| Lanthanoids | 4f series elements following lanthanum. |
-| Actinoids | 5f series elements following actinium. |
-| Lanthanoid contraction | Gradual decrease in atomic and ionic radii across lanthanoids. |
-| Paramagnetism | Attraction by magnetic field due to unpaired electrons. |
-| Diamagnetism | Weak repulsion by magnetic field due to absence of unpaired electrons. |
-| Interstitial compound | Compound formed when small atoms occupy holes in metal lattice. |
-| Alloy | Mixture of metals or metal with non-metal having metallic properties. |
+| Term                     | Meaning                                                                |
+| ------------------------ | ---------------------------------------------------------------------- |
+| Transition element       | Element with partially filled d subshell in atom or common ion.        |
+| d-block element          | Element in which differentiating electron enters d orbital.            |
+| Inner transition element | Element in which differentiating electron enters f orbital.            |
+| Lanthanoids              | 4f series elements following lanthanum.                                |
+| Actinoids                | 5f series elements following actinium.                                 |
+| Lanthanoid contraction   | Gradual decrease in atomic and ionic radii across lanthanoids.         |
+| Paramagnetism            | Attraction by magnetic field due to unpaired electrons.                |
+| Diamagnetism             | Weak repulsion by magnetic field due to absence of unpaired electrons. |
+| Interstitial compound    | Compound formed when small atoms occupy holes in metal lattice.        |
+| Alloy                    | Mixture of metals or metal with non-metal having metallic properties.  |
 
 ## Quick Learning Map
 
-| Property | Cause |
-|---|---|
+| Property                  | Cause                                       |
+| ------------------------- | ------------------------------------------- |
 | Variable oxidation states | Similar energies of ns and (n-1)d electrons |
-| Colour | d-d transitions in partly filled d orbitals |
-| Paramagnetism | Unpaired electrons |
-| Complex formation | Small size, high charge, vacant orbitals |
-| Catalytic activity | Variable oxidation states and adsorption |
-| Alloy formation | Similar atomic sizes |
-| Lanthanoid contraction | Poor shielding by 4f electrons |
+| Colour                    | d-d transitions in partly filled d orbitals |
+| Paramagnetism             | Unpaired electrons                          |
+| Complex formation         | Small size, high charge, vacant orbitals    |
+| Catalytic activity        | Variable oxidation states and adsorption    |
+| Alloy formation           | Similar atomic sizes                        |
+| Lanthanoid contraction    | Poor shielding by 4f electrons              |
 
 # Unit 4A: Position and Electronic Configuration
 
@@ -61,12 +62,12 @@ Zinc, cadmium, and mercury are d-block elements but are not considered typical t
 
 ## Series of d-Block Elements
 
-| Series | Orbitals filled | Elements |
-|---|---|---|
-| 3d series | 3d | Sc to Zn |
-| 4d series | 4d | Y to Cd |
-| 5d series | 5d | La/Hf to Hg |
-| 6d series | 6d | Ac/Rf onward |
+| Series    | Orbitals filled | Elements     |
+| --------- | --------------- | ------------ |
+| 3d series | 3d              | Sc to Zn     |
+| 4d series | 4d              | Y to Cd      |
+| 5d series | 5d              | La/Hf to Hg  |
+| 6d series | 6d              | Ac/Rf onward |
 
 # Unit 4B: Atomic and Ionic Size Trends
 
@@ -97,12 +98,12 @@ Example for manganese:
 
 ## Stability Patterns
 
-| Pattern | Explanation |
-|---|---|
+| Pattern                                            | Explanation                                                 |
+| -------------------------------------------------- | ----------------------------------------------------------- |
 | Early transition metals show high oxidation states | They have more available empty or partly filled d orbitals. |
-| Middle elements show maximum variability | More d electrons can participate in bonding. |
-| Later elements favour lower states | Increasing nuclear charge holds d electrons more strongly. |
-| `+2` state common in 3d series | Loss of two ns electrons is common. |
+| Middle elements show maximum variability           | More d electrons can participate in bonding.                |
+| Later elements favour lower states                 | Increasing nuclear charge holds d electrons more strongly.  |
+| `+2` state common in 3d series                     | Loss of two ns electrons is common.                         |
 
 ## Oxidising Power
 
@@ -122,12 +123,12 @@ where `n` is number of unpaired electrons.
 
 ## Quick Examples
 
-| Ion | d-electron count | Unpaired electrons | Behaviour |
-|---|---|---|---|
-| `Sc3+` | d0 | 0 | Diamagnetic |
-| `Ti3+` | d1 | 1 | Paramagnetic |
-| `Mn2+` | d5 | 5 | Strongly paramagnetic |
-| `Zn2+` | d10 | 0 | Diamagnetic |
+| Ion    | d-electron count | Unpaired electrons | Behaviour             |
+| ------ | ---------------- | ------------------ | --------------------- |
+| `Sc3+` | d0               | 0                  | Diamagnetic           |
+| `Ti3+` | d1               | 1                  | Paramagnetic          |
+| `Mn2+` | d5               | 5                  | Strongly paramagnetic |
+| `Zn2+` | d10              | 0                  | Diamagnetic           |
 
 # Unit 4F: Colour of Transition Metal Ions
 
@@ -137,12 +138,12 @@ Colour usually requires partially filled d orbitals. Ions with d0 or d10 configu
 
 Examples:
 
-| Ion | Configuration idea | Colour tendency |
-|---|---|---|
-| `Ti3+` | d1 | Coloured |
-| `Cu2+` | d9 | Coloured |
-| `Sc3+` | d0 | Colourless |
-| `Zn2+` | d10 | Colourless |
+| Ion    | Configuration idea | Colour tendency |
+| ------ | ------------------ | --------------- |
+| `Ti3+` | d1                 | Coloured        |
+| `Cu2+` | d9                 | Coloured        |
+| `Sc3+` | d0                 | Colourless      |
+| `Zn2+` | d10                | Colourless      |
 
 # Unit 4G: Complex Formation
 
@@ -171,12 +172,12 @@ Transition metals and their compounds are good catalysts because they can:
 
 Examples:
 
-| Catalyst | Process |
-|---|---|
-| Iron | Haber process |
-| Vanadium(V) oxide | Contact process |
-| Nickel | Hydrogenation |
-| Platinum | Catalytic converters |
+| Catalyst          | Process              |
+| ----------------- | -------------------- |
+| Iron              | Haber process        |
+| Vanadium(V) oxide | Contact process      |
+| Nickel            | Hydrogenation        |
+| Platinum          | Catalytic converters |
 
 # Unit 4I: Interstitial Compounds
 
@@ -237,11 +238,11 @@ Potassium permanganate, `KMnO4`, is a powerful oxidising agent. Manganese is in 
 
 ## Reduction in Different Media
 
-| Medium | Product | Change |
-|---|---|---|
-| Acidic | `Mn2+` | Strong oxidation |
-| Neutral | `MnO2` | Brown precipitate |
-| Alkaline | `MnO4^2-` | Green manganate |
+| Medium   | Product   | Change            |
+| -------- | --------- | ----------------- |
+| Acidic   | `Mn2+`    | Strong oxidation  |
+| Neutral  | `MnO2`    | Brown precipitate |
+| Alkaline | `MnO4^2-` | Green manganate   |
 
 In acidic medium:
 
@@ -265,12 +266,12 @@ Cause: 4f electrons shield the nuclear charge poorly, so effective nuclear charg
 
 ## Consequences
 
-| Consequence | Explanation |
-|---|---|
-| Similarity of lanthanoids | Size changes are small, making separation difficult. |
-| Similarity of 4d and 5d elements | 5d elements become smaller than expected. |
-| Basicity of hydroxides decreases | Smaller ions hold hydroxide more strongly. |
-| Zirconium and hafnium similarity | Nearly identical sizes due to contraction. |
+| Consequence                      | Explanation                                          |
+| -------------------------------- | ---------------------------------------------------- |
+| Similarity of lanthanoids        | Size changes are small, making separation difficult. |
+| Similarity of 4d and 5d elements | 5d elements become smaller than expected.            |
+| Basicity of hydroxides decreases | Smaller ions hold hydroxide more strongly.           |
+| Zirconium and hafnium similarity | Nearly identical sizes due to contraction.           |
 
 # Unit 4N: Actinoids
 
@@ -286,37 +287,37 @@ Important features:
 
 # Unit 4O: Comparison of Lanthanoids and Actinoids
 
-| Feature | Lanthanoids | Actinoids |
-|---|---|---|
-| Orbital filled | 4f | 5f |
-| Common oxidation state | `+3` | `+3`, but more variable |
-| Radioactivity | Mostly non-radioactive except promethium | Mostly radioactive |
-| Contraction | Lanthanoid contraction | Actinoid contraction |
-| Chemical behaviour | More similar | More complex |
-| Bonding | Mostly ionic | More covalent character possible |
+| Feature                | Lanthanoids                              | Actinoids                        |
+| ---------------------- | ---------------------------------------- | -------------------------------- |
+| Orbital filled         | 4f                                       | 5f                               |
+| Common oxidation state | `+3`                                     | `+3`, but more variable          |
+| Radioactivity          | Mostly non-radioactive except promethium | Mostly radioactive               |
+| Contraction            | Lanthanoid contraction                   | Actinoid contraction             |
+| Chemical behaviour     | More similar                             | More complex                     |
+| Bonding                | Mostly ionic                             | More covalent character possible |
 
 # Unit 4P: Answer-Writing Toolkit
 
-| Question type | Strong answer must include |
-|---|---|
-| Variable oxidation states | Similar energy of ns and (n-1)d electrons |
-| Colour | Partly filled d orbitals and d-d transition |
-| Magnetic property | Number of unpaired electrons |
-| Complex formation | Small size, high charge, vacant orbitals |
-| Catalytic property | Variable oxidation states and surface adsorption |
-| Lanthanoid contraction | Poor shielding by 4f electrons |
-| Actinoid variability | Comparable energies of 5f, 6d, and 7s orbitals |
+| Question type             | Strong answer must include                       |
+| ------------------------- | ------------------------------------------------ |
+| Variable oxidation states | Similar energy of ns and (n-1)d electrons        |
+| Colour                    | Partly filled d orbitals and d-d transition      |
+| Magnetic property         | Number of unpaired electrons                     |
+| Complex formation         | Small size, high charge, vacant orbitals         |
+| Catalytic property        | Variable oxidation states and surface adsorption |
+| Lanthanoid contraction    | Poor shielding by 4f electrons                   |
+| Actinoid variability      | Comparable energies of 5f, 6d, and 7s orbitals   |
 
 # Unit 4Q: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Calling all d-block elements transition elements | Zn, Cd, and Hg are not typical transition elements. |
-| Explaining colour without d orbitals | Colour usually comes from d-d transitions. |
-| Forgetting that d0 and d10 ions are often colourless | No d-d transition is possible. |
-| Saying lanthanoid contraction is due to poor shielding by d electrons | It is due to poor shielding by 4f electrons. |
-| Treating all actinoids like lanthanoids | Actinoids show greater oxidation-state variability. |
-| Confusing chromate and dichromate colours | Chromate is yellow; dichromate is orange. |
+| Mistake                                                               | Correction                                          |
+| --------------------------------------------------------------------- | --------------------------------------------------- |
+| Calling all d-block elements transition elements                      | Zn, Cd, and Hg are not typical transition elements. |
+| Explaining colour without d orbitals                                  | Colour usually comes from d-d transitions.          |
+| Forgetting that d0 and d10 ions are often colourless                  | No d-d transition is possible.                      |
+| Saying lanthanoid contraction is due to poor shielding by d electrons | It is due to poor shielding by 4f electrons.        |
+| Treating all actinoids like lanthanoids                               | Actinoids show greater oxidation-state variability. |
+| Confusing chromate and dichromate colours                             | Chromate is yellow; dichromate is orange.           |
 
 ## Practice Set
 

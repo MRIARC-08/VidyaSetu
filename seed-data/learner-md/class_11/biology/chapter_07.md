@@ -4,15 +4,15 @@ Class 11 Biology
 
 ## Chapter Profile
 
-| Item | Details |
-|---|---|
-| Class | 11 |
-| Subject | Biology |
-| Chapter | 7 |
-| Title | Structural Organisation in Animals |
-| Main theme | How cells, tissues, organs, and organ systems work together in animals |
-| Main example | Frog |
-| Core skill | Connect external morphology with internal organ systems |
+| Item         | Details                                                                         |
+| ------------ | ------------------------------------------------------------------------------- |
+| Class        | 11                                                                              |
+| Subject      | Biology                                                                         |
+| Chapter      | 7                                                                               |
+| Title        | Structural Organisation in Animals                                              |
+| Main theme   | How cells, tissues, organs, and organ systems work together in animals          |
+| Main example | Frog                                                                            |
+| Core skill   | Connect external morphology with internal organ systems                         |
 | Learner goal | Understand frog morphology and anatomy as an example of vertebrate organisation |
 
 ## How To Study This Chapter
@@ -49,51 +49,51 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Tissue | Group of similar cells with intercellular substances performing a function |
-| Organ | Structure made of one or more tissue types performing a specific function |
-| Organ system | Group of organs working together for a common function |
-| Division of labour | Sharing of work among cells, tissues, organs, and systems |
-| Morphology | Study of external form and visible features |
-| Anatomy | Study of internal structure |
-| Amphibia | Class of vertebrates that can live in water and on land |
-| Poikilothermous | Having body temperature that varies with environmental temperature |
-| Aestivation | Summer sleep during extreme heat |
-| Hibernation | Winter sleep during extreme cold |
-| Camouflage | Protective colour matching with surroundings |
-| Nictitating membrane | Protective membrane over frog eye |
-| Tympanum | External membrane receiving sound signals |
-| Cloaca | Common chamber for digestive, urinary, and reproductive openings |
-| Cutaneous respiration | Respiration through skin |
-| Pulmonary respiration | Respiration through lungs |
-| Buccal respiration | Respiration using buccal cavity |
-| Chyme | Partially digested food from stomach |
-| Villi | Finger-like intestinal folds for absorption |
-| Pericardium | Membrane covering the heart |
-| Sinus venosus | Triangular structure receiving blood into right atrium |
-| Conus arteriosus | Sac-like structure receiving blood from ventricle |
-| Ureotelic | Excreting nitrogenous waste mainly as urea |
-| Nephron | Structural and functional unit of kidney |
-| Mesorchium | Fold attaching testes to kidney region |
-| Vasa efferentia | Ducts carrying sperm from testes |
-| Tadpole | Larval stage of frog |
-| Metamorphosis | Transformation from larva to adult |
+| Term                  | Meaning                                                                    |
+| --------------------- | -------------------------------------------------------------------------- |
+| Tissue                | Group of similar cells with intercellular substances performing a function |
+| Organ                 | Structure made of one or more tissue types performing a specific function  |
+| Organ system          | Group of organs working together for a common function                     |
+| Division of labour    | Sharing of work among cells, tissues, organs, and systems                  |
+| Morphology            | Study of external form and visible features                                |
+| Anatomy               | Study of internal structure                                                |
+| Amphibia              | Class of vertebrates that can live in water and on land                    |
+| Poikilothermous       | Having body temperature that varies with environmental temperature         |
+| Aestivation           | Summer sleep during extreme heat                                           |
+| Hibernation           | Winter sleep during extreme cold                                           |
+| Camouflage            | Protective colour matching with surroundings                               |
+| Nictitating membrane  | Protective membrane over frog eye                                          |
+| Tympanum              | External membrane receiving sound signals                                  |
+| Cloaca                | Common chamber for digestive, urinary, and reproductive openings           |
+| Cutaneous respiration | Respiration through skin                                                   |
+| Pulmonary respiration | Respiration through lungs                                                  |
+| Buccal respiration    | Respiration using buccal cavity                                            |
+| Chyme                 | Partially digested food from stomach                                       |
+| Villi                 | Finger-like intestinal folds for absorption                                |
+| Pericardium           | Membrane covering the heart                                                |
+| Sinus venosus         | Triangular structure receiving blood into right atrium                     |
+| Conus arteriosus      | Sac-like structure receiving blood from ventricle                          |
+| Ureotelic             | Excreting nitrogenous waste mainly as urea                                 |
+| Nephron               | Structural and functional unit of kidney                                   |
+| Mesorchium            | Fold attaching testes to kidney region                                     |
+| Vasa efferentia       | Ducts carrying sperm from testes                                           |
+| Tadpole               | Larval stage of frog                                                       |
+| Metamorphosis         | Transformation from larva to adult                                         |
 
 ## Chapter Map
 
-| Unit | Topic | What To Master |
-|---|---|---|
-| 7.1 | Body organisation | Cell, tissue, organ, organ system |
-| 7.2 | Frog overview | Amphibian nature, temperature, colour, seasonal sleep |
-| 7.3 | Frog morphology | Skin, head, trunk, limbs, sense structures |
-| 7.4 | Digestive system | Alimentary canal, glands, digestion, absorption |
-| 7.5 | Respiratory system | Skin, buccal cavity, lungs |
-| 7.6 | Circulatory system | Heart, blood vessels, blood, lymph |
-| 7.7 | Excretory system | Kidneys, ureters, bladder, cloaca |
-| 7.8 | Control and coordination | Nervous system and endocrine glands |
-| 7.9 | Reproductive system | Male and female systems, external fertilisation |
-| 7.10 | Importance | Crop protection and ecological balance |
+| Unit | Topic                    | What To Master                                        |
+| ---- | ------------------------ | ----------------------------------------------------- |
+| 7.1  | Body organisation        | Cell, tissue, organ, organ system                     |
+| 7.2  | Frog overview            | Amphibian nature, temperature, colour, seasonal sleep |
+| 7.3  | Frog morphology          | Skin, head, trunk, limbs, sense structures            |
+| 7.4  | Digestive system         | Alimentary canal, glands, digestion, absorption       |
+| 7.5  | Respiratory system       | Skin, buccal cavity, lungs                            |
+| 7.6  | Circulatory system       | Heart, blood vessels, blood, lymph                    |
+| 7.7  | Excretory system         | Kidneys, ureters, bladder, cloaca                     |
+| 7.8  | Control and coordination | Nervous system and endocrine glands                   |
+| 7.9  | Reproductive system      | Male and female systems, external fertilisation       |
+| 7.10 | Importance               | Crop protection and ecological balance                |
 
 ## 1. From Cells To Organ Systems
 
@@ -105,12 +105,12 @@ This creates division of labour.
 
 ## 1.1 Biological Organisation
 
-| Level | Meaning | Example |
-|---|---|---|
-| Cell | Basic structural and functional unit | Muscle cell, nerve cell |
-| Tissue | Similar cells plus intercellular substances performing a function | Epithelial tissue |
-| Organ | Different tissues organised for a specific function | Heart, stomach, lung |
-| Organ system | Organs working together | Digestive system, respiratory system |
+| Level        | Meaning                                                           | Example                              |
+| ------------ | ----------------------------------------------------------------- | ------------------------------------ |
+| Cell         | Basic structural and functional unit                              | Muscle cell, nerve cell              |
+| Tissue       | Similar cells plus intercellular substances performing a function | Epithelial tissue                    |
+| Organ        | Different tissues organised for a specific function               | Heart, stomach, lung                 |
+| Organ system | Organs working together                                           | Digestive system, respiratory system |
 
 ## 1.2 Four Basic Animal Tissues
 
@@ -139,10 +139,10 @@ For example:
 
 Frogs can live both on land and in freshwater. They belong to:
 
-| Taxonomic Position | Group |
-|---|---|
-| Phylum | Chordata |
-| Class | Amphibia |
+| Taxonomic Position    | Group        |
+| --------------------- | ------------ |
+| Phylum                | Chordata     |
+| Class                 | Amphibia     |
 | Common Indian example | Rana tigrina |
 
 ## 2.1 Poikilothermy
@@ -163,8 +163,8 @@ This helps them blend with surroundings and hide from enemies. This protective c
 
 Frogs are not usually seen during peak summer and peak winter.
 
-| Condition | Meaning | Purpose |
-|---|---|---|
+| Condition   | Meaning      | Purpose                      |
+| ----------- | ------------ | ---------------------------- |
 | Aestivation | Summer sleep | Protection from extreme heat |
 | Hibernation | Winter sleep | Protection from extreme cold |
 
@@ -180,10 +180,10 @@ Frog skin is smooth and slippery because mucus is present.
 
 The skin is always kept moist.
 
-| Surface | Colour |
-|---|---|
-| Dorsal side | Usually olive green with dark irregular spots |
-| Ventral side | Pale yellow |
+| Surface      | Colour                                        |
+| ------------ | --------------------------------------------- |
+| Dorsal side  | Usually olive green with dark irregular spots |
+| Ventral side | Pale yellow                                   |
 
 Frogs do not drink water in the usual way. They absorb water through the skin.
 
@@ -198,12 +198,12 @@ Neck and tail are absent in adult frog.
 
 ## 3.3 Head Features
 
-| Structure | Function |
-|---|---|
-| Nostrils | Air entry |
-| Eyes | Vision |
+| Structure            | Function               |
+| -------------------- | ---------------------- |
+| Nostrils             | Air entry              |
+| Eyes                 | Vision                 |
 | Nictitating membrane | Protects eyes in water |
-| Tympanum | Receives sound signals |
+| Tympanum             | Receives sound signals |
 
 The eyes are bulged and protected by a nictitating membrane.
 
@@ -222,12 +222,12 @@ These help in:
 
 ## 3.5 Forelimbs And Hind Limbs
 
-| Feature | Forelimbs | Hind Limbs |
-|---|---|---|
-| Digits | Four | Five |
-| Size | Smaller | Larger and more muscular |
-| Main role | Support during landing and movement | Jumping and swimming |
-| Webbing | Less prominent | Webbed digits help swimming |
+| Feature   | Forelimbs                           | Hind Limbs                  |
+| --------- | ----------------------------------- | --------------------------- |
+| Digits    | Four                                | Five                        |
+| Size      | Smaller                             | Larger and more muscular    |
+| Main role | Support during landing and movement | Jumping and swimming        |
+| Webbing   | Less prominent                      | Webbed digits help swimming |
 
 ## 3.6 Sexual Dimorphism
 
@@ -281,11 +281,11 @@ Exterior
 
 ## 5.2 Digestive Glands
 
-| Gland | Secretion Or Role |
-|---|---|
-| Liver | Secretes bile |
-| Gall bladder | Stores bile |
-| Pancreas | Produces pancreatic juice containing digestive enzymes |
+| Gland        | Secretion Or Role                                      |
+| ------------ | ------------------------------------------------------ |
+| Liver        | Secretes bile                                          |
+| Gall bladder | Stores bile                                            |
+| Pancreas     | Produces pancreatic juice containing digestive enzymes |
 
 ## 5.3 Food Capture
 
@@ -317,9 +317,9 @@ Both enter through a common bile duct.
 
 ## 5.6 Role Of Bile And Pancreatic Juice
 
-| Secretion | Function |
-|---|---|
-| Bile | Emulsifies fats |
+| Secretion        | Function                           |
+| ---------------- | ---------------------------------- |
+| Bile             | Emulsifies fats                    |
 | Pancreatic juice | Digests carbohydrates and proteins |
 
 Final digestion occurs in the intestine.
@@ -382,11 +382,11 @@ Frogs respire differently in water and on land.
 
 ## 6.1 Types Of Respiration In Frog
 
-| Type | Organ Or Surface | Condition |
-|---|---|---|
-| Cutaneous respiration | Skin | In water, during aestivation and hibernation |
-| Buccal respiration | Buccal cavity | On land |
-| Pulmonary respiration | Lungs | On land |
+| Type                  | Organ Or Surface | Condition                                    |
+| --------------------- | ---------------- | -------------------------------------------- |
+| Cutaneous respiration | Skin             | In water, during aestivation and hibernation |
+| Buccal respiration    | Buccal cavity    | On land                                      |
+| Pulmonary respiration | Lungs            | On land                                      |
 
 ## 6.2 Cutaneous Respiration
 
@@ -455,10 +455,10 @@ Frog heart has three chambers:
 
 ## 7.5 Associated Heart Structures
 
-| Structure | Role |
-|---|---|
-| Sinus venosus | Receives blood into right atrium through major veins |
-| Vena cava | Major veins bringing blood to heart |
+| Structure        | Role                                                       |
+| ---------------- | ---------------------------------------------------------- |
+| Sinus venosus    | Receives blood into right atrium through major veins       |
+| Vena cava        | Major veins bringing blood to heart                        |
 | Conus arteriosus | Receives blood from ventricle and leads to arterial system |
 
 ## 7.6 Arteries And Veins
@@ -471,10 +471,10 @@ Veins collect blood from body parts and return it to the heart.
 
 Frogs have special venous connections.
 
-| Portal System | Connection |
-|---|---|
-| Hepatic portal system | Between intestine and liver |
-| Renal portal system | Between lower body parts and kidneys |
+| Portal System         | Connection                           |
+| --------------------- | ------------------------------------ |
+| Hepatic portal system | Between intestine and liver          |
+| Renal portal system   | Between lower body parts and kidneys |
 
 ## 7.8 Blood
 
@@ -564,11 +564,11 @@ Prominent endocrine glands include:
 
 The nervous system is divided into:
 
-| Division | Components |
-|---|---|
-| Central nervous system | Brain and spinal cord |
-| Peripheral nervous system | Cranial and spinal nerves |
-| Autonomic nervous system | Sympathetic and parasympathetic systems |
+| Division                  | Components                              |
+| ------------------------- | --------------------------------------- |
+| Central nervous system    | Brain and spinal cord                   |
+| Peripheral nervous system | Cranial and spinal nerves               |
+| Autonomic nervous system  | Sympathetic and parasympathetic systems |
 
 Frog has ten pairs of cranial nerves.
 
@@ -578,11 +578,11 @@ The brain is enclosed in the cranium.
 
 It has three main regions.
 
-| Brain Region | Parts |
-|---|---|
-| Forebrain | Olfactory lobes, cerebral hemispheres, diencephalon |
-| Midbrain | Optic lobes |
-| Hindbrain | Cerebellum, medulla oblongata |
+| Brain Region | Parts                                               |
+| ------------ | --------------------------------------------------- |
+| Forebrain    | Olfactory lobes, cerebral hemispheres, diencephalon |
+| Midbrain     | Optic lobes                                         |
+| Hindbrain    | Cerebellum, medulla oblongata                       |
 
 The medulla oblongata passes through the foramen magnum and continues as the spinal cord.
 
@@ -601,12 +601,12 @@ Frog has sense organs for:
 
 ## 10.1 Main Sense Structures
 
-| Sense | Structure |
-|---|---|
-| Touch | Sensory papillae |
-| Taste | Taste buds |
-| Smell | Nasal epithelium |
-| Vision | Eyes |
+| Sense               | Structure                   |
+| ------------------- | --------------------------- |
+| Touch               | Sensory papillae            |
+| Taste               | Taste buds                  |
+| Smell               | Nasal epithelium            |
+| Vision              | Eyes                        |
 | Hearing and balance | Tympanum with internal ears |
 
 Eyes and internal ears are well-organised structures.
@@ -689,50 +689,50 @@ Frogs are useful because:
 
 ## 14.1 Morphology Versus Anatomy
 
-| Feature | Morphology | Anatomy |
-|---|---|---|
-| Meaning | Study of external visible features | Study of internal structure |
-| Example in frog | Skin, limbs, head, trunk | Digestive organs, heart, kidneys |
+| Feature         | Morphology                         | Anatomy                          |
+| --------------- | ---------------------------------- | -------------------------------- |
+| Meaning         | Study of external visible features | Study of internal structure      |
+| Example in frog | Skin, limbs, head, trunk           | Digestive organs, heart, kidneys |
 
 ## 14.2 Respiration In Frog
 
-| Condition | Main Respiratory Organ |
-|---|---|
-| In water | Skin |
-| On land | Lungs, buccal cavity, skin |
-| Aestivation | Skin |
-| Hibernation | Skin |
+| Condition   | Main Respiratory Organ     |
+| ----------- | -------------------------- |
+| In water    | Skin                       |
+| On land     | Lungs, buccal cavity, skin |
+| Aestivation | Skin                       |
+| Hibernation | Skin                       |
 
 ## 14.3 Male Versus Female Frog
 
-| Feature | Male Frog | Female Frog |
-|---|---|---|
-| Vocal sacs | Present | Absent |
-| Copulatory pad | Present on first digit of forelimb | Absent |
-| Reproductive organs | Testes | Ovaries |
-| Duct relation | Ureters act as urinogenital ducts | Ureters and oviducts open separately |
+| Feature             | Male Frog                          | Female Frog                          |
+| ------------------- | ---------------------------------- | ------------------------------------ |
+| Vocal sacs          | Present                            | Absent                               |
+| Copulatory pad      | Present on first digit of forelimb | Absent                               |
+| Reproductive organs | Testes                             | Ovaries                              |
+| Duct relation       | Ureters act as urinogenital ducts  | Ureters and oviducts open separately |
 
 ## 14.4 Blood Versus Lymph
 
-| Feature | Blood | Lymph |
-|---|---|---|
-| RBCs | Present | Absent |
-| Proteins | More | Fewer |
-| Circulation | Blood vessels and heart | Lymph channels and nodes |
-| Main role | Transport gases, nutrients, water | Fluid balance and transport support |
+| Feature     | Blood                             | Lymph                               |
+| ----------- | --------------------------------- | ----------------------------------- |
+| RBCs        | Present                           | Absent                              |
+| Proteins    | More                              | Fewer                               |
+| Circulation | Blood vessels and heart           | Lymph channels and nodes            |
+| Main role   | Transport gases, nutrients, water | Fluid balance and transport support |
 
 ## 15. Common Learner Mistakes
 
-| Mistake | Correction |
-|---|---|
-| Saying frog drinks water through mouth | Frog absorbs water through skin |
-| Calling frog warm-blooded | Frog is poikilothermous |
-| Confusing aestivation and hibernation | Aestivation is summer sleep; hibernation is winter sleep |
-| Saying skin respiration occurs only in water | Skin respiration also occurs during aestivation and hibernation |
-| Forgetting frog heart has three chambers | Frog heart has two atria and one ventricle |
-| Calling frog RBCs non-nucleated | Frog RBCs are nucleated |
+| Mistake                                             | Correction                                                                        |
+| --------------------------------------------------- | --------------------------------------------------------------------------------- |
+| Saying frog drinks water through mouth              | Frog absorbs water through skin                                                   |
+| Calling frog warm-blooded                           | Frog is poikilothermous                                                           |
+| Confusing aestivation and hibernation               | Aestivation is summer sleep; hibernation is winter sleep                          |
+| Saying skin respiration occurs only in water        | Skin respiration also occurs during aestivation and hibernation                   |
+| Forgetting frog heart has three chambers            | Frog heart has two atria and one ventricle                                        |
+| Calling frog RBCs non-nucleated                     | Frog RBCs are nucleated                                                           |
 | Saying male and female ureters function identically | Male ureters act as urinogenital ducts; female ureters are separate from oviducts |
-| Forgetting fertilisation is external | Frog fertilisation occurs in water |
+| Forgetting fertilisation is external                | Frog fertilisation occurs in water                                                |
 
 ## 16. Exercise Answers
 
@@ -865,32 +865,31 @@ Frogs eat insects, help protect crops, and form an important link in food chains
 
 ## 19. Rapid Revision Sheet
 
-| Topic | One-Line Revision |
-|---|---|
-| Tissue | Similar cells plus intercellular substances performing function |
-| Organ | Made of tissues |
-| Organ system | Organs working together |
-| Frog class | Amphibia |
-| Common species | Rana tigrina |
-| Temperature type | Poikilothermous |
-| Summer sleep | Aestivation |
-| Winter sleep | Hibernation |
-| Skin | Moist, mucus-covered, respiratory |
-| Body regions | Head and trunk |
-| Male markers | Vocal sacs and copulatory pad |
-| Digestive glands | Liver and pancreas |
-| Pulmonary respiration | Respiration by lungs |
-| Heart | Three-chambered |
-| RBCs | Nucleated |
-| Excretion | Ureotelic |
-| Male ureter | Urinogenital duct |
-| Fertilisation | External in water |
-| Larva | Tadpole |
+| Topic                 | One-Line Revision                                               |
+| --------------------- | --------------------------------------------------------------- |
+| Tissue                | Similar cells plus intercellular substances performing function |
+| Organ                 | Made of tissues                                                 |
+| Organ system          | Organs working together                                         |
+| Frog class            | Amphibia                                                        |
+| Common species        | Rana tigrina                                                    |
+| Temperature type      | Poikilothermous                                                 |
+| Summer sleep          | Aestivation                                                     |
+| Winter sleep          | Hibernation                                                     |
+| Skin                  | Moist, mucus-covered, respiratory                               |
+| Body regions          | Head and trunk                                                  |
+| Male markers          | Vocal sacs and copulatory pad                                   |
+| Digestive glands      | Liver and pancreas                                              |
+| Pulmonary respiration | Respiration by lungs                                            |
+| Heart                 | Three-chambered                                                 |
+| RBCs                  | Nucleated                                                       |
+| Excretion             | Ureotelic                                                       |
+| Male ureter           | Urinogenital duct                                               |
+| Fertilisation         | External in water                                               |
+| Larva                 | Tadpole                                                         |
 
 ## 20. Raw File Reference
 
-| Item | Path |
-|---|---|
-| Raw input | `data/class_11/biology/chapter_07.md` |
+| Item             | Path                                             |
+| ---------------- | ------------------------------------------------ |
+| Raw input        | `data/class_11/biology/chapter_07.md`            |
 | Formatted output | `data_learner_md/class_11/biology/chapter_07.md` |
-

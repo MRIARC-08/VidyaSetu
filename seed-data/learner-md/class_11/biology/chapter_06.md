@@ -4,16 +4,16 @@ Class 11 Biology
 
 ## Chapter Profile
 
-| Item | Details |
-|---|---|
-| Class | 11 |
-| Subject | Biology |
-| Chapter | 6 |
-| Title | Anatomy of Flowering Plants |
-| Main theme | Internal structure and tissue organisation of flowering plants |
-| Main comparison | Dicot root, monocot root, dicot stem, monocot stem, dicot leaf, monocot leaf |
-| Core skill | Identify plant organs from anatomical features |
-| Learner goal | Understand how tissues are arranged and how monocots and dicots differ internally |
+| Item            | Details                                                                           |
+| --------------- | --------------------------------------------------------------------------------- |
+| Class           | 11                                                                                |
+| Subject         | Biology                                                                           |
+| Chapter         | 6                                                                                 |
+| Title           | Anatomy of Flowering Plants                                                       |
+| Main theme      | Internal structure and tissue organisation of flowering plants                    |
+| Main comparison | Dicot root, monocot root, dicot stem, monocot stem, dicot leaf, monocot leaf      |
+| Core skill      | Identify plant organs from anatomical features                                    |
+| Learner goal    | Understand how tissues are arranged and how monocots and dicots differ internally |
 
 ## How To Study This Chapter
 
@@ -48,55 +48,55 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Anatomy | Study of internal structure |
-| Tissue system | Group of tissues arranged by position and function |
-| Epidermal tissue system | Outermost protective tissue system |
-| Ground tissue system | Tissue system excluding epidermis and vascular bundles |
-| Vascular tissue system | Conducting tissue system made of xylem and phloem |
-| Epidermis | Outermost layer of primary plant body |
-| Cuticle | Waxy layer that reduces water loss |
-| Stoma | Pore in epidermis for gas exchange and transpiration |
-| Guard cells | Cells surrounding stomatal pore |
-| Subsidiary cells | Specialised epidermal cells near guard cells |
-| Stomatal apparatus | Stomatal pore, guard cells, and subsidiary cells |
-| Root hair | Unicellular elongation of root epidermal cell |
-| Trichome | Epidermal hair on shoot system |
-| Mesophyll | Photosynthetic ground tissue of leaf |
-| Xylem | Tissue that conducts water and minerals |
-| Phloem | Tissue that conducts food materials |
-| Vascular bundle | Strand containing xylem and phloem |
-| Cambium | Meristematic tissue between xylem and phloem in open bundles |
-| Open vascular bundle | Bundle with cambium, able to form secondary tissues |
-| Closed vascular bundle | Bundle without cambium |
-| Radial vascular bundle | Xylem and phloem arranged on alternate radii |
-| Conjoint vascular bundle | Xylem and phloem on same radius |
-| Epiblema | Outermost layer of root, often bearing root hairs |
-| Endodermis | Innermost layer of cortex |
-| Casparian strip | Suberin band in endodermal cell walls |
-| Pericycle | Layer inside endodermis |
-| Stele | All tissues inside endodermis |
-| Pith | Central parenchymatous region |
-| Conjunctive tissue | Parenchyma between xylem and phloem in roots |
-| Endarch | Protoxylem toward centre and metaxylem toward outside |
-| Polyarch | Having many xylem bundles, usually more than six |
-| Dorsiventral leaf | Dicot leaf with different upper and lower surfaces |
-| Isobilateral leaf | Monocot leaf with similar upper and lower surfaces |
-| Bulliform cells | Large empty cells in grass leaves involved in leaf rolling |
+| Term                     | Meaning                                                      |
+| ------------------------ | ------------------------------------------------------------ |
+| Anatomy                  | Study of internal structure                                  |
+| Tissue system            | Group of tissues arranged by position and function           |
+| Epidermal tissue system  | Outermost protective tissue system                           |
+| Ground tissue system     | Tissue system excluding epidermis and vascular bundles       |
+| Vascular tissue system   | Conducting tissue system made of xylem and phloem            |
+| Epidermis                | Outermost layer of primary plant body                        |
+| Cuticle                  | Waxy layer that reduces water loss                           |
+| Stoma                    | Pore in epidermis for gas exchange and transpiration         |
+| Guard cells              | Cells surrounding stomatal pore                              |
+| Subsidiary cells         | Specialised epidermal cells near guard cells                 |
+| Stomatal apparatus       | Stomatal pore, guard cells, and subsidiary cells             |
+| Root hair                | Unicellular elongation of root epidermal cell                |
+| Trichome                 | Epidermal hair on shoot system                               |
+| Mesophyll                | Photosynthetic ground tissue of leaf                         |
+| Xylem                    | Tissue that conducts water and minerals                      |
+| Phloem                   | Tissue that conducts food materials                          |
+| Vascular bundle          | Strand containing xylem and phloem                           |
+| Cambium                  | Meristematic tissue between xylem and phloem in open bundles |
+| Open vascular bundle     | Bundle with cambium, able to form secondary tissues          |
+| Closed vascular bundle   | Bundle without cambium                                       |
+| Radial vascular bundle   | Xylem and phloem arranged on alternate radii                 |
+| Conjoint vascular bundle | Xylem and phloem on same radius                              |
+| Epiblema                 | Outermost layer of root, often bearing root hairs            |
+| Endodermis               | Innermost layer of cortex                                    |
+| Casparian strip          | Suberin band in endodermal cell walls                        |
+| Pericycle                | Layer inside endodermis                                      |
+| Stele                    | All tissues inside endodermis                                |
+| Pith                     | Central parenchymatous region                                |
+| Conjunctive tissue       | Parenchyma between xylem and phloem in roots                 |
+| Endarch                  | Protoxylem toward centre and metaxylem toward outside        |
+| Polyarch                 | Having many xylem bundles, usually more than six             |
+| Dorsiventral leaf        | Dicot leaf with different upper and lower surfaces           |
+| Isobilateral leaf        | Monocot leaf with similar upper and lower surfaces           |
+| Bulliform cells          | Large empty cells in grass leaves involved in leaf rolling   |
 
 ## Chapter Map
 
-| Unit | Topic | What To Master |
-|---|---|---|
-| 6.1 | Anatomy overview | Cells, tissues, organs, internal organisation |
-| 6.2 | Tissue systems | Epidermal, ground, vascular |
-| 6.3 | Epidermal system | Epidermis, cuticle, stomata, root hairs, trichomes |
-| 6.4 | Ground system | Cortex, pericycle, pith, medullary rays, mesophyll |
-| 6.5 | Vascular system | Xylem, phloem, bundle types |
-| 6.6 | Root anatomy | Dicot root versus monocot root |
-| 6.7 | Stem anatomy | Dicot stem versus monocot stem |
-| 6.8 | Leaf anatomy | Dorsiventral versus isobilateral leaf |
+| Unit | Topic            | What To Master                                     |
+| ---- | ---------------- | -------------------------------------------------- |
+| 6.1  | Anatomy overview | Cells, tissues, organs, internal organisation      |
+| 6.2  | Tissue systems   | Epidermal, ground, vascular                        |
+| 6.3  | Epidermal system | Epidermis, cuticle, stomata, root hairs, trichomes |
+| 6.4  | Ground system    | Cortex, pericycle, pith, medullary rays, mesophyll |
+| 6.5  | Vascular system  | Xylem, phloem, bundle types                        |
+| 6.6  | Root anatomy     | Dicot root versus monocot root                     |
+| 6.7  | Stem anatomy     | Dicot stem versus monocot stem                     |
+| 6.8  | Leaf anatomy     | Dorsiventral versus isobilateral leaf              |
 
 ## 1. What Is Plant Anatomy?
 
@@ -115,11 +115,11 @@ Angiosperms show anatomical differences between dicots and monocots. Internal st
 
 On the basis of structure and location, flowering plants have three tissue systems.
 
-| Tissue System | Main Components | Main Function |
-|---|---|---|
-| Epidermal tissue system | Epidermis, stomata, trichomes, root hairs | Protection, absorption, gas exchange |
-| Ground tissue system | Parenchyma, collenchyma, sclerenchyma | Storage, support, photosynthesis |
-| Vascular tissue system | Xylem and phloem | Conduction of water, minerals, and food |
+| Tissue System           | Main Components                           | Main Function                           |
+| ----------------------- | ----------------------------------------- | --------------------------------------- |
+| Epidermal tissue system | Epidermis, stomata, trichomes, root hairs | Protection, absorption, gas exchange    |
+| Ground tissue system    | Parenchyma, collenchyma, sclerenchyma     | Storage, support, photosynthesis        |
+| Vascular tissue system  | Xylem and phloem                          | Conduction of water, minerals, and food |
 
 ## 3. Epidermal Tissue System
 
@@ -138,14 +138,14 @@ The epidermis is the outermost layer of the primary plant body.
 
 ## 3.2 Features Of Epidermal Cells
 
-| Feature | Description |
-|---|---|
-| Arrangement | Compactly arranged |
-| Layering | Usually single-layered |
-| Cell type | Parenchymatous |
-| Cytoplasm | Small amount lining the wall |
-| Vacuole | Large |
-| Cuticle | Often present outside, absent in roots |
+| Feature     | Description                            |
+| ----------- | -------------------------------------- |
+| Arrangement | Compactly arranged                     |
+| Layering    | Usually single-layered                 |
+| Cell type   | Parenchymatous                         |
+| Cytoplasm   | Small amount lining the wall           |
+| Vacuole     | Large                                  |
+| Cuticle     | Often present outside, absent in roots |
 
 ## 3.3 Cuticle
 
@@ -180,11 +180,11 @@ In grasses, guard cells are dumbbell-shaped.
 
 Guard cells regulate opening and closing of stomata.
 
-| Part Of Guard Cell | Feature |
-|---|---|
-| Outer wall away from pore | Thin |
-| Inner wall toward pore | Thick |
-| Chloroplasts | Present |
+| Part Of Guard Cell        | Feature |
+| ------------------------- | ------- |
+| Outer wall away from pore | Thin    |
+| Inner wall toward pore    | Thick   |
+| Chloroplasts              | Present |
 
 The unequal wall thickness helps guard cells change shape during opening and closing.
 
@@ -244,12 +244,12 @@ Trichomes help reduce water loss due to transpiration.
 
 ## 3.12 Root Hairs Versus Trichomes
 
-| Feature | Root Hairs | Trichomes |
-|---|---|---|
-| Location | Root epidermis | Shoot epidermis |
-| Cell number | Unicellular | Usually multicellular |
-| Function | Absorption of water and minerals | Protection and reduction of water loss |
-| Cuticle relation | Roots lack cuticle | Shoots often have cuticle |
+| Feature          | Root Hairs                       | Trichomes                              |
+| ---------------- | -------------------------------- | -------------------------------------- |
+| Location         | Root epidermis                   | Shoot epidermis                        |
+| Cell number      | Unicellular                      | Usually multicellular                  |
+| Function         | Absorption of water and minerals | Protection and reduction of water loss |
+| Cuticle relation | Roots lack cuticle               | Shoots often have cuticle              |
 
 ## 4. Ground Tissue System
 
@@ -263,11 +263,11 @@ It consists mainly of simple tissues:
 
 ## 4.1 Locations Of Ground Tissue
 
-| Organ Or Region | Ground Tissue Examples |
-|---|---|
-| Primary stem | Cortex, pericycle, pith, medullary rays |
-| Root | Cortex, pericycle, pith |
-| Leaf | Mesophyll |
+| Organ Or Region | Ground Tissue Examples                  |
+| --------------- | --------------------------------------- |
+| Primary stem    | Cortex, pericycle, pith, medullary rays |
+| Root            | Cortex, pericycle, pith                 |
+| Leaf            | Mesophyll                               |
 
 ## 4.2 Mesophyll
 
@@ -288,17 +288,17 @@ Together, xylem and phloem form vascular bundles.
 
 ## 5.1 Xylem And Phloem
 
-| Tissue | Main Function |
-|---|---|
-| Xylem | Conducts water and minerals |
-| Phloem | Conducts food materials |
+| Tissue | Main Function               |
+| ------ | --------------------------- |
+| Xylem  | Conducts water and minerals |
+| Phloem | Conducts food materials     |
 
 ## 5.2 Open And Closed Vascular Bundles
 
-| Type | Cambium | Secondary Growth | Common Location |
-|---|---|---|---|
-| Open vascular bundle | Present | Possible | Dicot stem |
-| Closed vascular bundle | Absent | Not possible through bundle cambium | Monocot stem |
+| Type                   | Cambium | Secondary Growth                    | Common Location |
+| ---------------------- | ------- | ----------------------------------- | --------------- |
+| Open vascular bundle   | Present | Possible                            | Dicot stem      |
+| Closed vascular bundle | Absent  | Not possible through bundle cambium | Monocot stem    |
 
 In dicot stems, cambium is present between xylem and phloem. Such bundles can form secondary xylem and secondary phloem.
 
@@ -306,10 +306,10 @@ In monocots, cambium is absent in vascular bundles, so the bundles are closed.
 
 ## 5.3 Radial And Conjoint Vascular Bundles
 
-| Type | Arrangement | Common Location |
-|---|---|---|
-| Radial | Xylem and phloem on alternate radii | Roots |
-| Conjoint | Xylem and phloem on same radius | Stems and leaves |
+| Type     | Arrangement                         | Common Location  |
+| -------- | ----------------------------------- | ---------------- |
+| Radial   | Xylem and phloem on alternate radii | Roots            |
+| Conjoint | Xylem and phloem on same radius     | Stems and leaves |
 
 In conjoint bundles, phloem is usually on the outer side of xylem.
 
@@ -333,17 +333,17 @@ The sunflower root is a common example of dicot root anatomy.
 
 ## 7.1 Tissue Arrangement In Dicot Root
 
-| Region | Description |
-|---|---|
-| Epiblema | Outermost layer; many cells form unicellular root hairs |
-| Cortex | Several layers of thin-walled parenchyma with intercellular spaces |
-| Endodermis | Innermost cortex; single layer of barrel-shaped cells |
-| Casparian strips | Suberin deposits on radial and tangential walls of endodermis |
-| Pericycle | Few layers of thick-walled parenchymatous cells |
-| Vascular tissue | Usually two to four xylem and phloem patches |
-| Conjunctive tissue | Parenchyma between xylem and phloem |
-| Pith | Small or inconspicuous |
-| Stele | All tissues inside endodermis |
+| Region             | Description                                                        |
+| ------------------ | ------------------------------------------------------------------ |
+| Epiblema           | Outermost layer; many cells form unicellular root hairs            |
+| Cortex             | Several layers of thin-walled parenchyma with intercellular spaces |
+| Endodermis         | Innermost cortex; single layer of barrel-shaped cells              |
+| Casparian strips   | Suberin deposits on radial and tangential walls of endodermis      |
+| Pericycle          | Few layers of thick-walled parenchymatous cells                    |
+| Vascular tissue    | Usually two to four xylem and phloem patches                       |
+| Conjunctive tissue | Parenchyma between xylem and phloem                                |
+| Pith               | Small or inconspicuous                                             |
+| Stele              | All tissues inside endodermis                                      |
 
 ## 7.2 Role Of Pericycle In Dicot Root
 
@@ -374,15 +374,15 @@ Monocot root anatomy is similar to dicot root anatomy in many basic layers, but 
 
 ## 8.1 Tissue Arrangement In Monocot Root
 
-| Region | Description |
-|---|---|
-| Epidermis or epiblema | Outermost layer |
-| Cortex | Parenchymatous |
-| Endodermis | Present |
-| Pericycle | Present |
-| Vascular bundles | More than six xylem bundles, called polyarch |
-| Pith | Large and well developed |
-| Secondary growth | Absent |
+| Region                | Description                                  |
+| --------------------- | -------------------------------------------- |
+| Epidermis or epiblema | Outermost layer                              |
+| Cortex                | Parenchymatous                               |
+| Endodermis            | Present                                      |
+| Pericycle             | Present                                      |
+| Vascular bundles      | More than six xylem bundles, called polyarch |
+| Pith                  | Large and well developed                     |
+| Secondary growth      | Absent                                       |
 
 ## 8.2 Monocot Root Diagnostic Points
 
@@ -395,13 +395,13 @@ To identify a monocot root, look for:
 
 ## 9. Dicot Root Versus Monocot Root
 
-| Feature | Dicot Root | Monocot Root |
-|---|---|---|
-| Xylem bundles | Usually 2 to 4 | Usually more than 6 |
-| Xylem condition | Diarch to tetrarch common | Polyarch |
-| Pith | Small or inconspicuous | Large and well developed |
-| Secondary growth | Usually possible | Absent |
-| Pericycle role | Lateral roots and cambium initiation | Lateral roots, but no normal secondary growth |
+| Feature          | Dicot Root                           | Monocot Root                                  |
+| ---------------- | ------------------------------------ | --------------------------------------------- |
+| Xylem bundles    | Usually 2 to 4                       | Usually more than 6                           |
+| Xylem condition  | Diarch to tetrarch common            | Polyarch                                      |
+| Pith             | Small or inconspicuous               | Large and well developed                      |
+| Secondary growth | Usually possible                     | Absent                                        |
+| Pericycle role   | Lateral roots and cambium initiation | Lateral roots, but no normal secondary growth |
 
 ## 10. Dicotyledonous Stem
 
@@ -409,20 +409,20 @@ A young dicot stem shows a ring arrangement of vascular bundles.
 
 ## 10.1 Tissue Arrangement In Dicot Stem
 
-| Region | Description |
-|---|---|
-| Epidermis | Outermost protective layer |
-| Cuticle | Thin layer outside epidermis |
-| Trichomes and stomata | May be present |
-| Cortex | Multiple layers between epidermis and pericycle |
-| Hypodermis | Few layers of collenchyma below epidermis |
-| General cortex | Rounded parenchyma with intercellular spaces |
-| Endodermis | Innermost cortex, rich in starch grains |
-| Pericycle | Semilunar patches of sclerenchyma above phloem |
-| Medullary rays | Radial parenchyma between vascular bundles |
-| Vascular bundles | Arranged in a ring |
-| Bundle type | Conjoint, open, endarch |
-| Pith | Large central parenchymatous region |
+| Region                | Description                                     |
+| --------------------- | ----------------------------------------------- |
+| Epidermis             | Outermost protective layer                      |
+| Cuticle               | Thin layer outside epidermis                    |
+| Trichomes and stomata | May be present                                  |
+| Cortex                | Multiple layers between epidermis and pericycle |
+| Hypodermis            | Few layers of collenchyma below epidermis       |
+| General cortex        | Rounded parenchyma with intercellular spaces    |
+| Endodermis            | Innermost cortex, rich in starch grains         |
+| Pericycle             | Semilunar patches of sclerenchyma above phloem  |
+| Medullary rays        | Radial parenchyma between vascular bundles      |
+| Vascular bundles      | Arranged in a ring                              |
+| Bundle type           | Conjoint, open, endarch                         |
+| Pith                  | Large central parenchymatous region             |
 
 ## 10.2 Starch Sheath
 
@@ -459,17 +459,17 @@ Monocot stem has scattered vascular bundles and undifferentiated ground tissue.
 
 ## 11.1 Tissue Arrangement In Monocot Stem
 
-| Feature | Description |
-|---|---|
-| Hypodermis | Sclerenchymatous |
-| Ground tissue | Large, conspicuous, parenchymatous |
-| Vascular bundles | Numerous and scattered |
-| Bundle sheath | Sclerenchymatous |
-| Bundle type | Conjoint and closed |
-| Peripheral bundles | Smaller |
-| Central bundles | Larger |
-| Phloem parenchyma | Absent |
-| Water-containing cavities | Present in vascular bundles |
+| Feature                   | Description                        |
+| ------------------------- | ---------------------------------- |
+| Hypodermis                | Sclerenchymatous                   |
+| Ground tissue             | Large, conspicuous, parenchymatous |
+| Vascular bundles          | Numerous and scattered             |
+| Bundle sheath             | Sclerenchymatous                   |
+| Bundle type               | Conjoint and closed                |
+| Peripheral bundles        | Smaller                            |
+| Central bundles           | Larger                             |
+| Phloem parenchyma         | Absent                             |
+| Water-containing cavities | Present in vascular bundles        |
 
 ## 11.2 Monocot Stem Diagnostic Points
 
@@ -485,16 +485,16 @@ To identify a monocot stem, look for:
 
 ## 12. Dicot Stem Versus Monocot Stem
 
-| Feature | Dicot Stem | Monocot Stem |
-|---|---|---|
-| Hypodermis | Collenchymatous | Sclerenchymatous |
-| Ground tissue | Differentiated into cortex, endodermis, pericycle, pith | Generally undifferentiated |
-| Vascular bundles | Arranged in a ring | Scattered |
-| Bundle type | Conjoint, open | Conjoint, closed |
-| Cambium | Present | Absent |
-| Medullary rays | Present | Absent |
-| Pith | Distinct | Not distinct |
-| Phloem parenchyma | Present | Absent |
+| Feature           | Dicot Stem                                              | Monocot Stem               |
+| ----------------- | ------------------------------------------------------- | -------------------------- |
+| Hypodermis        | Collenchymatous                                         | Sclerenchymatous           |
+| Ground tissue     | Differentiated into cortex, endodermis, pericycle, pith | Generally undifferentiated |
+| Vascular bundles  | Arranged in a ring                                      | Scattered                  |
+| Bundle type       | Conjoint, open                                          | Conjoint, closed           |
+| Cambium           | Present                                                 | Absent                     |
+| Medullary rays    | Present                                                 | Absent                     |
+| Pith              | Distinct                                                | Not distinct               |
+| Phloem parenchyma | Present                                                 | Absent                     |
 
 ## 13. Dorsiventral Dicotyledonous Leaf
 
@@ -512,12 +512,12 @@ The vertical section through the lamina shows:
 
 ## 13.2 Epidermis In Dicot Leaf
 
-| Surface | Feature |
-|---|---|
-| Adaxial epidermis | Upper surface |
-| Abaxial epidermis | Lower surface |
-| Cuticle | Conspicuous |
-| Stomata | More on lower epidermis; upper may have few or none |
+| Surface           | Feature                                             |
+| ----------------- | --------------------------------------------------- |
+| Adaxial epidermis | Upper surface                                       |
+| Abaxial epidermis | Lower surface                                       |
+| Cuticle           | Conspicuous                                         |
+| Stomata           | More on lower epidermis; upper may have few or none |
 
 ## 13.3 Mesophyll In Dicot Leaf
 
@@ -567,13 +567,13 @@ It is typical of many monocot leaves.
 
 ## 14.1 Main Features Of Isobilateral Leaf
 
-| Feature | Description |
-|---|---|
-| Stomata | Present on both epidermal surfaces |
-| Mesophyll | Not differentiated into palisade and spongy parenchyma |
-| Venation | Parallel |
-| Vascular bundle size | Nearly similar except in main veins |
-| Bulliform cells | Present in grasses |
+| Feature              | Description                                            |
+| -------------------- | ------------------------------------------------------ |
+| Stomata              | Present on both epidermal surfaces                     |
+| Mesophyll            | Not differentiated into palisade and spongy parenchyma |
+| Venation             | Parallel                                               |
+| Vascular bundle size | Nearly similar except in main veins                    |
+| Bulliform cells      | Present in grasses                                     |
 
 ## 14.2 Bulliform Cells
 
@@ -585,14 +585,14 @@ When water stress makes them flaccid, the leaf curls inward. This reduces water 
 
 ## 15. Dorsiventral Versus Isobilateral Leaf
 
-| Feature | Dorsiventral Leaf | Isobilateral Leaf |
-|---|---|---|
-| Common in | Dicots | Monocots |
-| Upper and lower surfaces | Different | Similar |
-| Stomata | More on lower surface | On both surfaces |
-| Mesophyll | Palisade and spongy layers | Not differentiated |
-| Venation | Reticulate | Parallel |
-| Bulliform cells | Absent | Present in grasses |
+| Feature                  | Dorsiventral Leaf          | Isobilateral Leaf  |
+| ------------------------ | -------------------------- | ------------------ |
+| Common in                | Dicots                     | Monocots           |
+| Upper and lower surfaces | Different                  | Similar            |
+| Stomata                  | More on lower surface      | On both surfaces   |
+| Mesophyll                | Palisade and spongy layers | Not differentiated |
+| Venation                 | Reticulate                 | Parallel           |
+| Bulliform cells          | Absent                     | Present in grasses |
 
 ## 16. Text-Based Section Guides
 
@@ -666,43 +666,43 @@ Lower epidermis with more stomata
 
 ## 17. High-Yield Diagnostic Table
 
-| Given Feature | Identification |
-|---|---|
-| Scattered vascular bundles, closed bundles, phloem parenchyma absent | Monocot stem |
-| Vascular bundles in ring, open bundles, medullary rays present | Dicot stem |
-| Polyarch xylem, large pith, no secondary growth | Monocot root |
-| Two to four xylem patches, small pith | Dicot root |
-| Mesophyll differentiated into palisade and spongy tissue | Dicot leaf |
-| Bulliform cells and parallel venation | Monocot leaf |
-| Xylem and phloem alternate on different radii | Root |
-| Xylem and phloem on same radius | Stem or leaf |
+| Given Feature                                                        | Identification |
+| -------------------------------------------------------------------- | -------------- |
+| Scattered vascular bundles, closed bundles, phloem parenchyma absent | Monocot stem   |
+| Vascular bundles in ring, open bundles, medullary rays present       | Dicot stem     |
+| Polyarch xylem, large pith, no secondary growth                      | Monocot root   |
+| Two to four xylem patches, small pith                                | Dicot root     |
+| Mesophyll differentiated into palisade and spongy tissue             | Dicot leaf     |
+| Bulliform cells and parallel venation                                | Monocot leaf   |
+| Xylem and phloem alternate on different radii                        | Root           |
+| Xylem and phloem on same radius                                      | Stem or leaf   |
 
 ## 18. Exercise Answers
 
 ## 18.1 Anatomical Difference Between Monocot Root And Dicot Root
 
-| Feature | Dicot Root | Monocot Root |
-|---|---|---|
-| Xylem bundles | Usually two to four | Usually more than six |
-| Xylem condition | Diarch to tetrarch common | Polyarch |
-| Pith | Small or inconspicuous | Large and well developed |
-| Secondary growth | Usually possible | Absent |
-| Vascular arrangement | Radial | Radial |
+| Feature              | Dicot Root                | Monocot Root             |
+| -------------------- | ------------------------- | ------------------------ |
+| Xylem bundles        | Usually two to four       | Usually more than six    |
+| Xylem condition      | Diarch to tetrarch common | Polyarch                 |
+| Pith                 | Small or inconspicuous    | Large and well developed |
+| Secondary growth     | Usually possible          | Absent                   |
+| Vascular arrangement | Radial                    | Radial                   |
 
 For a labelled diagram, include epiblema, cortex, endodermis, pericycle, xylem, phloem, pith, and root hairs.
 
 ## 18.2 Anatomical Difference Between Monocot Stem And Dicot Stem
 
-| Feature | Dicot Stem | Monocot Stem |
-|---|---|---|
-| Hypodermis | Collenchymatous | Sclerenchymatous |
-| Ground tissue | Differentiated | Undifferentiated |
-| Vascular bundles | In a ring | Scattered |
-| Bundle type | Conjoint, open | Conjoint, closed |
-| Cambium | Present | Absent |
-| Medullary rays | Present | Absent |
-| Pith | Distinct | Not distinct |
-| Phloem parenchyma | Present | Absent |
+| Feature           | Dicot Stem      | Monocot Stem     |
+| ----------------- | --------------- | ---------------- |
+| Hypodermis        | Collenchymatous | Sclerenchymatous |
+| Ground tissue     | Differentiated  | Undifferentiated |
+| Vascular bundles  | In a ring       | Scattered        |
+| Bundle type       | Conjoint, open  | Conjoint, closed |
+| Cambium           | Present         | Absent           |
+| Medullary rays    | Present         | Absent           |
+| Pith              | Distinct        | Not distinct     |
+| Phloem parenchyma | Present         | Absent           |
 
 For a labelled diagram, show epidermis, hypodermis, ground tissue or cortex, vascular bundles, pith, and bundle sheath where applicable.
 
@@ -753,11 +753,11 @@ Use the text-based labelled stoma in Section 3.9 for diagram labels.
 
 ## 18.7 Three Basic Tissue Systems In Flowering Plants
 
-| Tissue System | Tissues Or Structures Included |
-|---|---|
-| Epidermal tissue system | Epidermis, stomata, root hairs, trichomes |
-| Ground tissue system | Parenchyma, collenchyma, sclerenchyma; cortex, pericycle, pith, medullary rays, mesophyll |
-| Vascular tissue system | Xylem and phloem |
+| Tissue System           | Tissues Or Structures Included                                                            |
+| ----------------------- | ----------------------------------------------------------------------------------------- |
+| Epidermal tissue system | Epidermis, stomata, root hairs, trichomes                                                 |
+| Ground tissue system    | Parenchyma, collenchyma, sclerenchyma; cortex, pericycle, pith, medullary rays, mesophyll |
+| Vascular tissue system  | Xylem and phloem                                                                          |
 
 ## 18.8 How Is Plant Anatomy Useful?
 
@@ -829,27 +829,26 @@ For diagram labels, include upper epidermis, cuticle, palisade parenchyma, spong
 
 ## 20. Rapid Revision Sheet
 
-| Topic | One-Line Revision |
-|---|---|
-| Anatomy | Study of internal structure |
-| Epidermal system | Protection, stomata, root hairs, trichomes |
-| Ground system | Cortex, pith, mesophyll, support and storage |
-| Vascular system | Xylem plus phloem |
-| Open bundle | Cambium present |
-| Closed bundle | Cambium absent |
-| Radial bundle | Xylem and phloem alternate, common in roots |
-| Conjoint bundle | Xylem and phloem on same radius |
-| Dicot root | 2 to 4 xylem patches, small pith |
-| Monocot root | Polyarch xylem, large pith |
-| Dicot stem | Ring of open vascular bundles |
-| Monocot stem | Scattered closed vascular bundles |
-| Dicot leaf | Palisade and spongy mesophyll |
-| Monocot leaf | Undifferentiated mesophyll, bulliform cells |
+| Topic            | One-Line Revision                            |
+| ---------------- | -------------------------------------------- |
+| Anatomy          | Study of internal structure                  |
+| Epidermal system | Protection, stomata, root hairs, trichomes   |
+| Ground system    | Cortex, pith, mesophyll, support and storage |
+| Vascular system  | Xylem plus phloem                            |
+| Open bundle      | Cambium present                              |
+| Closed bundle    | Cambium absent                               |
+| Radial bundle    | Xylem and phloem alternate, common in roots  |
+| Conjoint bundle  | Xylem and phloem on same radius              |
+| Dicot root       | 2 to 4 xylem patches, small pith             |
+| Monocot root     | Polyarch xylem, large pith                   |
+| Dicot stem       | Ring of open vascular bundles                |
+| Monocot stem     | Scattered closed vascular bundles            |
+| Dicot leaf       | Palisade and spongy mesophyll                |
+| Monocot leaf     | Undifferentiated mesophyll, bulliform cells  |
 
 ## 21. Raw File Reference
 
-| Item | Path |
-|---|---|
-| Raw input | `data/class_11/biology/chapter_06.md` |
+| Item             | Path                                             |
+| ---------------- | ------------------------------------------------ |
+| Raw input        | `data/class_11/biology/chapter_06.md`            |
 | Formatted output | `data_learner_md/class_11/biology/chapter_06.md` |
-

@@ -56,52 +56,52 @@ By the end of this chapter, you should be able to:
 
 ## Big Picture Map
 
-| Topic | Main Question | Core Answer |
-| --- | --- | --- |
-| Elasticity | How responsive is quantity to price? | It measures percentage response. |
-| Demand elasticity | How much does demand respond to price? | Percentage change in quantity demanded divided by percentage change in price. |
-| Elastic demand | Is response strong? | Quantity changes by a larger percentage than price. |
-| Inelastic demand | Is response weak? | Quantity changes by a smaller percentage than price. |
-| Unit elastic demand | Is response proportional? | Quantity and price change by equal percentages. |
-| Linear demand | Is elasticity same everywhere? | No, it differs at different points. |
-| Expenditure | What happens to spending when price changes? | Depends on elasticity. |
-| Supply elasticity | How much does supply respond to price? | Percentage change in quantity supplied divided by percentage change in price. |
+| Topic               | Main Question                                | Core Answer                                                                   |
+| ------------------- | -------------------------------------------- | ----------------------------------------------------------------------------- |
+| Elasticity          | How responsive is quantity to price?         | It measures percentage response.                                              |
+| Demand elasticity   | How much does demand respond to price?       | Percentage change in quantity demanded divided by percentage change in price. |
+| Elastic demand      | Is response strong?                          | Quantity changes by a larger percentage than price.                           |
+| Inelastic demand    | Is response weak?                            | Quantity changes by a smaller percentage than price.                          |
+| Unit elastic demand | Is response proportional?                    | Quantity and price change by equal percentages.                               |
+| Linear demand       | Is elasticity same everywhere?               | No, it differs at different points.                                           |
+| Expenditure         | What happens to spending when price changes? | Depends on elasticity.                                                        |
+| Supply elasticity   | How much does supply respond to price?       | Percentage change in quantity supplied divided by percentage change in price. |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Elasticity | A measure of responsiveness of one variable to change in another variable. |
-| Price elasticity of demand | Responsiveness of quantity demanded to a change in price. |
-| Price elasticity of supply | Responsiveness of quantity supplied to a change in price. |
-| Elastic demand | Demand with elasticity greater than 1 in absolute value. |
-| Inelastic demand | Demand with elasticity less than 1 in absolute value. |
-| Unit elastic demand | Demand with elasticity equal to 1 in absolute value. |
-| Perfectly inelastic demand | Demand with elasticity equal to 0. |
-| Perfectly elastic demand | Demand with elasticity equal to infinity. |
-| Constant elasticity demand curve | A demand curve where elasticity is the same at every point. |
-| Rectangular hyperbola | A curve where the product of two variables is constant. |
-| Total expenditure | Price multiplied by quantity demanded. |
-| Total revenue | Price multiplied by quantity sold; same as consumer expenditure from the seller's view. |
-| Absolute value | The positive magnitude of a number, ignoring the minus sign. |
+| Term                             | Meaning                                                                                 |
+| -------------------------------- | --------------------------------------------------------------------------------------- |
+| Elasticity                       | A measure of responsiveness of one variable to change in another variable.              |
+| Price elasticity of demand       | Responsiveness of quantity demanded to a change in price.                               |
+| Price elasticity of supply       | Responsiveness of quantity supplied to a change in price.                               |
+| Elastic demand                   | Demand with elasticity greater than 1 in absolute value.                                |
+| Inelastic demand                 | Demand with elasticity less than 1 in absolute value.                                   |
+| Unit elastic demand              | Demand with elasticity equal to 1 in absolute value.                                    |
+| Perfectly inelastic demand       | Demand with elasticity equal to 0.                                                      |
+| Perfectly elastic demand         | Demand with elasticity equal to infinity.                                               |
+| Constant elasticity demand curve | A demand curve where elasticity is the same at every point.                             |
+| Rectangular hyperbola            | A curve where the product of two variables is constant.                                 |
+| Total expenditure                | Price multiplied by quantity demanded.                                                  |
+| Total revenue                    | Price multiplied by quantity sold; same as consumer expenditure from the seller's view. |
+| Absolute value                   | The positive magnitude of a number, ignoring the minus sign.                            |
 
 ---
 
 ## Formula Board
 
-| Formula | Meaning | Use |
-| --- | --- | --- |
-| `eD = percentage change in demand / percentage change in price` | Price elasticity of demand | Measures demand responsiveness. |
-| `eD = (delta Q / Q) / (delta P / P)` | Demand elasticity formula | Used for numerical questions. |
-| `eD = (delta Q / delta P) x (P / Q)` | Same formula rearranged | Useful for demand functions. |
-| `q = a - bp` | Linear demand curve | Used to study elasticity at different points. |
-| `eD = -b x (p / q)` | Elasticity for linear demand | Shows elasticity depends on `p` and `q`. |
-| `Total expenditure = P x Q` | Spending on a good | Used for elasticity-expenditure relation. |
-| `eS = percentage change in supply / percentage change in price` | Price elasticity of supply | Measures supply responsiveness. |
-| `eS = (delta Q / Q) / (delta P / P)` | Supply elasticity formula | Used for supply numericals. |
-| `eS = (delta Q / delta P) x (P / Q)` | Same formula rearranged | Useful for supply curves. |
+| Formula                                                         | Meaning                      | Use                                           |
+| --------------------------------------------------------------- | ---------------------------- | --------------------------------------------- |
+| `eD = percentage change in demand / percentage change in price` | Price elasticity of demand   | Measures demand responsiveness.               |
+| `eD = (delta Q / Q) / (delta P / P)`                            | Demand elasticity formula    | Used for numerical questions.                 |
+| `eD = (delta Q / delta P) x (P / Q)`                            | Same formula rearranged      | Useful for demand functions.                  |
+| `q = a - bp`                                                    | Linear demand curve          | Used to study elasticity at different points. |
+| `eD = -b x (p / q)`                                             | Elasticity for linear demand | Shows elasticity depends on `p` and `q`.      |
+| `Total expenditure = P x Q`                                     | Spending on a good           | Used for elasticity-expenditure relation.     |
+| `eS = percentage change in supply / percentage change in price` | Price elasticity of supply   | Measures supply responsiveness.               |
+| `eS = (delta Q / Q) / (delta P / P)`                            | Supply elasticity formula    | Used for supply numericals.                   |
+| `eS = (delta Q / delta P) x (P / Q)`                            | Same formula rearranged      | Useful for supply curves.                     |
 
 ---
 
@@ -223,9 +223,9 @@ A consumer buys 15 bananas when price is Rs 5 per banana.
 
 When price rises to Rs 7 per banana, demand falls to 12 bananas.
 
-| Item | Old Value | New Value |
-| --- | ---: | ---: |
-| Price `P` | Rs 5 | Rs 7 |
+| Item                  |  Old Value |  New Value |
+| --------------------- | ---------: | ---------: |
+| Price `P`             |       Rs 5 |       Rs 7 |
 | Quantity demanded `Q` | 15 bananas | 12 bananas |
 
 ## 3.2 Percentage Change In Quantity Demanded
@@ -332,13 +332,13 @@ If price rises by 10 percent and quantity demanded falls by 10 percent, demand i
 
 ## 4.4 Summary Table
 
-| Elasticity Value | Name | Meaning |
-| --- | --- | --- |
-| `|eD| > 1` | Elastic demand | Quantity response is stronger than price change. |
-| `|eD| < 1` | Inelastic demand | Quantity response is weaker than price change. |
-| `|eD| = 1` | Unit elastic demand | Quantity response equals price change. |
-| `|eD| = 0` | Perfectly inelastic demand | Quantity does not change at all. |
-| `|eD| = infinity` | Perfectly elastic demand | Any price change can reduce demand to zero. |
+| Elasticity Value | Name | Meaning     |
+| ---------------- | ---- | ----------- | -------------------------- | ------------------------------------------------ |
+| `                | eD   | > 1`        | Elastic demand             | Quantity response is stronger than price change. |
+| `                | eD   | < 1`        | Inelastic demand           | Quantity response is weaker than price change.   |
+| `                | eD   | = 1`        | Unit elastic demand        | Quantity response equals price change.           |
+| `                | eD   | = 0`        | Perfectly inelastic demand | Quantity does not change at all.                 |
+| `                | eD   | = infinity` | Perfectly elastic demand   | Any price change can reduce demand to zero.      |
 
 ---
 
@@ -407,13 +407,13 @@ For the linear demand curve:
 q = a - bp
 ```
 
-| Point On Demand Curve | Elasticity |
-| --- | --- |
-| Where price is zero | 0 |
-| Midpoint of the demand curve | 1 |
-| Where quantity is zero | Infinity |
-| Above midpoint, toward price axis | Greater than 1 |
-| Below midpoint, toward quantity axis | Less than 1 |
+| Point On Demand Curve                | Elasticity     |
+| ------------------------------------ | -------------- |
+| Where price is zero                  | 0              |
+| Midpoint of the demand curve         | 1              |
+| Where quantity is zero               | Infinity       |
+| Above midpoint, toward price axis    | Greater than 1 |
+| Below midpoint, toward quantity axis | Less than 1    |
 
 ## 5.5 Why Elasticity Is High Near The Price Axis
 
@@ -464,13 +464,13 @@ The part above the point is the upper segment.
 
 ## 6.3 Results
 
-| Location On Straight-Line Demand Curve | Segment Relation | Elasticity |
-| --- | --- | --- |
-| At price-axis intercept | Lower segment is entire line, upper segment is zero | Infinity |
-| Above midpoint | Lower segment > upper segment | Greater than 1 |
-| At midpoint | Lower segment = upper segment | 1 |
-| Below midpoint | Lower segment < upper segment | Less than 1 |
-| At quantity-axis intercept | Lower segment is zero | 0 |
+| Location On Straight-Line Demand Curve | Segment Relation                                    | Elasticity     |
+| -------------------------------------- | --------------------------------------------------- | -------------- |
+| At price-axis intercept                | Lower segment is entire line, upper segment is zero | Infinity       |
+| Above midpoint                         | Lower segment > upper segment                       | Greater than 1 |
+| At midpoint                            | Lower segment = upper segment                       | 1              |
+| Below midpoint                         | Lower segment < upper segment                       | Less than 1    |
+| At quantity-axis intercept             | Lower segment is zero                               | 0              |
 
 ## 6.4 Exam Use
 
@@ -618,11 +618,11 @@ Demand for one particular type of pulse may be elastic.
 
 ## 8.4 Summary
 
-| Factor | Elastic Demand More Likely When | Inelastic Demand More Likely When |
-| --- | --- | --- |
-| Nature of good | Good is a luxury | Good is a necessity |
-| Substitutes | Many close substitutes exist | Few close substitutes exist |
-| Category | Narrowly defined good | Broadly defined essential category |
+| Factor         | Elastic Demand More Likely When | Inelastic Demand More Likely When  |
+| -------------- | ------------------------------- | ---------------------------------- |
+| Nature of good | Good is a luxury                | Good is a necessity                |
+| Substitutes    | Many close substitutes exist    | Few close substitutes exist        |
+| Category       | Narrowly defined good           | Broadly defined essential category |
 
 ---
 
@@ -768,24 +768,24 @@ Expenditure unchanged
 
 # 12. Expenditure Summary Table
 
-| Price Change | Elasticity | Quantity Response | Expenditure Effect |
-| --- | --- | --- | --- |
-| Price rises | Inelastic | Quantity falls less than price rises | Expenditure rises |
-| Price rises | Elastic | Quantity falls more than price rises | Expenditure falls |
-| Price rises | Unit elastic | Quantity falls by same percent | No change |
-| Price falls | Elastic | Quantity rises more than price falls | Expenditure rises |
-| Price falls | Inelastic | Quantity rises less than price falls | Expenditure falls |
-| Price falls | Unit elastic | Quantity rises by same percent | No change |
+| Price Change | Elasticity   | Quantity Response                    | Expenditure Effect |
+| ------------ | ------------ | ------------------------------------ | ------------------ |
+| Price rises  | Inelastic    | Quantity falls less than price rises | Expenditure rises  |
+| Price rises  | Elastic      | Quantity falls more than price rises | Expenditure falls  |
+| Price rises  | Unit elastic | Quantity falls by same percent       | No change          |
+| Price falls  | Elastic      | Quantity rises more than price falls | Expenditure rises  |
+| Price falls  | Inelastic    | Quantity rises less than price falls | Expenditure falls  |
+| Price falls  | Unit elastic | Quantity rises by same percent       | No change          |
 
 ## 12.1 The Fast Rule
 
 Use this rule:
 
-| Demand Type | Price And Expenditure Move |
-| --- | --- |
-| Elastic demand | Price and expenditure move in opposite directions. |
-| Inelastic demand | Price and expenditure move in same direction. |
-| Unit elastic demand | Expenditure does not change. |
+| Demand Type         | Price And Expenditure Move                         |
+| ------------------- | -------------------------------------------------- |
+| Elastic demand      | Price and expenditure move in opposite directions. |
+| Inelastic demand    | Price and expenditure move in same direction.      |
+| Unit elastic demand | Expenditure does not change.                       |
 
 ---
 
@@ -918,10 +918,10 @@ At price Rs 10, firms produce and sell 200 cricket balls.
 
 At price Rs 30, firms produce and sell 1,000 cricket balls.
 
-| Item | Old Value | New Value |
-| --- | ---: | ---: |
-| Price `P` | Rs 10 | Rs 30 |
-| Quantity supplied `Q` | 200 | 1,000 |
+| Item                  | Old Value | New Value |
+| --------------------- | --------: | --------: |
+| Price `P`             |     Rs 10 |     Rs 30 |
+| Quantity supplied `Q` |       200 |     1,000 |
 
 ## 15.2 Percentage Change In Quantity Supplied
 
@@ -1086,27 +1086,27 @@ Supply is inelastic.
 
 ## 17.4 Supply Geometry Summary
 
-| Straight-Line Supply Curve | Elasticity |
-| --- | --- |
-| Cuts price axis, extension meets negative quantity axis | `eS > 1` |
-| Passes through origin | `eS = 1` |
-| Cuts quantity axis on positive side | `eS < 1` |
-| Vertical supply curve | `eS = 0` |
+| Straight-Line Supply Curve                              | Elasticity |
+| ------------------------------------------------------- | ---------- |
+| Cuts price axis, extension meets negative quantity axis | `eS > 1`   |
+| Passes through origin                                   | `eS = 1`   |
+| Cuts quantity axis on positive side                     | `eS < 1`   |
+| Vertical supply curve                                   | `eS = 0`   |
 
 ---
 
 # 18. Demand Elasticity Versus Supply Elasticity
 
-| Basis | Price Elasticity Of Demand | Price Elasticity Of Supply |
-| --- | --- | --- |
-| Measures | Responsiveness of quantity demanded | Responsiveness of quantity supplied |
-| Formula | `% change in demand / % change in price` | `% change in supply / % change in price` |
-| Usual sign | Negative | Positive |
-| Absolute value used? | Yes, often | Usually not necessary |
-| Linked with | Consumer response | Producer response |
-| Expenditure relation | Very important | Not the main focus here |
-| Perfectly inelastic curve | Vertical | Vertical |
-| Perfectly elastic curve | Horizontal | Horizontal case possible, but not central here |
+| Basis                     | Price Elasticity Of Demand               | Price Elasticity Of Supply                     |
+| ------------------------- | ---------------------------------------- | ---------------------------------------------- |
+| Measures                  | Responsiveness of quantity demanded      | Responsiveness of quantity supplied            |
+| Formula                   | `% change in demand / % change in price` | `% change in supply / % change in price`       |
+| Usual sign                | Negative                                 | Positive                                       |
+| Absolute value used?      | Yes, often                               | Usually not necessary                          |
+| Linked with               | Consumer response                        | Producer response                              |
+| Expenditure relation      | Very important                           | Not the main focus here                        |
+| Perfectly inelastic curve | Vertical                                 | Vertical                                       |
+| Perfectly elastic curve   | Horizontal                               | Horizontal case possible, but not central here |
 
 ---
 
@@ -1402,19 +1402,19 @@ For an upward-sloping supply curve, it is positive because price and quantity su
 
 # 21. Common Mistakes And Corrections
 
-| Mistake | Correct Understanding |
-| --- | --- |
-| Elasticity means slope. | Elasticity is not slope; it uses percentage changes. |
-| Demand elasticity is always positive. | Demand elasticity is usually negative, but absolute value is often used. |
-| Inelastic means quantity does not change at all. | Inelastic means quantity changes less than proportionately; perfectly inelastic means no change. |
-| All points on a straight-line demand curve have same elasticity. | Elasticity differs at different points on a linear demand curve. |
-| Midpoint of linear demand is inelastic. | Midpoint has unit elasticity. |
-| Demand is more elastic near the quantity axis. | Demand is less elastic near the quantity axis and more elastic near the price axis. |
-| If price rises, expenditure always rises. | Expenditure rises only if demand is inelastic; it falls if demand is elastic. |
-| If price falls, expenditure always rises. | Expenditure rises only if demand is elastic; it falls if demand is inelastic. |
-| Unit elastic means quantity is one unit. | Unit elastic means elasticity equals 1. |
-| Supply elasticity is negative. | For a normal upward-sloping supply curve, supply elasticity is positive. |
-| Elasticity has units. | Elasticity is unit-free because it is a ratio of percentage changes. |
+| Mistake                                                          | Correct Understanding                                                                            |
+| ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| Elasticity means slope.                                          | Elasticity is not slope; it uses percentage changes.                                             |
+| Demand elasticity is always positive.                            | Demand elasticity is usually negative, but absolute value is often used.                         |
+| Inelastic means quantity does not change at all.                 | Inelastic means quantity changes less than proportionately; perfectly inelastic means no change. |
+| All points on a straight-line demand curve have same elasticity. | Elasticity differs at different points on a linear demand curve.                                 |
+| Midpoint of linear demand is inelastic.                          | Midpoint has unit elasticity.                                                                    |
+| Demand is more elastic near the quantity axis.                   | Demand is less elastic near the quantity axis and more elastic near the price axis.              |
+| If price rises, expenditure always rises.                        | Expenditure rises only if demand is inelastic; it falls if demand is elastic.                    |
+| If price falls, expenditure always rises.                        | Expenditure rises only if demand is elastic; it falls if demand is inelastic.                    |
+| Unit elastic means quantity is one unit.                         | Unit elastic means elasticity equals 1.                                                          |
+| Supply elasticity is negative.                                   | For a normal upward-sloping supply curve, supply elasticity is positive.                         |
+| Elasticity has units.                                            | Elasticity is unit-free because it is a ratio of percentage changes.                             |
 
 ---
 
@@ -1422,40 +1422,40 @@ For an upward-sloping supply curve, it is positive because price and quantity su
 
 ## 22.1 Demand Elasticity Values
 
-| Value | Name | Meaning |
-| --- | --- | --- |
-| `|eD| > 1` | Elastic | Quantity response is more than proportionate. |
-| `|eD| < 1` | Inelastic | Quantity response is less than proportionate. |
-| `|eD| = 1` | Unit elastic | Quantity response is proportionate. |
-| `|eD| = 0` | Perfectly inelastic | Quantity does not respond. |
-| `|eD| = infinity` | Perfectly elastic | Demand is extremely responsive at a given price. |
+| Value | Name | Meaning     |
+| ----- | ---- | ----------- | ------------------- | ------------------------------------------------ |
+| `     | eD   | > 1`        | Elastic             | Quantity response is more than proportionate.    |
+| `     | eD   | < 1`        | Inelastic           | Quantity response is less than proportionate.    |
+| `     | eD   | = 1`        | Unit elastic        | Quantity response is proportionate.              |
+| `     | eD   | = 0`        | Perfectly inelastic | Quantity does not respond.                       |
+| `     | eD   | = infinity` | Perfectly elastic   | Demand is extremely responsive at a given price. |
 
 ## 22.2 Linear Demand Curve
 
-| Location | Elasticity |
-| --- | --- |
-| Price-axis intercept | Infinity |
-| Above midpoint | Greater than 1 |
-| Midpoint | 1 |
-| Below midpoint | Less than 1 |
-| Quantity-axis intercept | 0 |
+| Location                | Elasticity     |
+| ----------------------- | -------------- |
+| Price-axis intercept    | Infinity       |
+| Above midpoint          | Greater than 1 |
+| Midpoint                | 1              |
+| Below midpoint          | Less than 1    |
+| Quantity-axis intercept | 0              |
 
 ## 22.3 Expenditure Rule
 
-| Demand Type | Price Rise | Price Fall |
-| --- | --- | --- |
-| Elastic | Expenditure falls | Expenditure rises |
-| Inelastic | Expenditure rises | Expenditure falls |
-| Unit elastic | No change | No change |
+| Demand Type  | Price Rise        | Price Fall        |
+| ------------ | ----------------- | ----------------- |
+| Elastic      | Expenditure falls | Expenditure rises |
+| Inelastic    | Expenditure rises | Expenditure falls |
+| Unit elastic | No change         | No change         |
 
 ## 22.4 Supply Elasticity Geometry
 
-| Supply Curve Type | Elasticity |
-| --- | --- |
-| Vertical | 0 |
-| Cuts price axis | Greater than 1 |
-| Passes through origin | 1 |
-| Cuts quantity axis | Less than 1 |
+| Supply Curve Type     | Elasticity     |
+| --------------------- | -------------- |
+| Vertical              | 0              |
+| Cuts price axis       | Greater than 1 |
+| Passes through origin | 1              |
+| Cuts quantity axis    | Less than 1    |
 
 ---
 
@@ -1672,4 +1672,3 @@ Before moving on, make sure you can:
 - calculate supply elasticity,
 - interpret straight-line supply curve elasticity geometrically,
 - solve NCERT-style numerical questions step by step.
-

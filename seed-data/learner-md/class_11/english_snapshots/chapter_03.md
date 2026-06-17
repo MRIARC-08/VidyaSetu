@@ -1,4 +1,5 @@
 # Chapter 3: Ranga's Marriage
+
 ### NCERT Class 11 English Snapshots
 
 ---
@@ -31,15 +32,15 @@ After studying this chapter, you should be able to:
 
 ## 1. Chapter Snapshot
 
-| Element | Details |
-|---|---|
-| Text type | Short story |
-| Writer | Masti Venkatesha Iyengar |
-| Setting | Hosahalli village in Mysore |
-| Main characters | Narrator, Ranga, Ratna, Shastri |
-| Tone | Humorous, conversational, ironic |
-| Main themes | Marriage, tradition, village life, English influence, social manipulation |
-| Narrative style | Direct address to reader, digression, exaggeration, local flavour |
+| Element         | Details                                                                   |
+| --------------- | ------------------------------------------------------------------------- |
+| Text type       | Short story                                                               |
+| Writer          | Masti Venkatesha Iyengar                                                  |
+| Setting         | Hosahalli village in Mysore                                               |
+| Main characters | Narrator, Ranga, Ratna, Shastri                                           |
+| Tone            | Humorous, conversational, ironic                                          |
+| Main themes     | Marriage, tradition, village life, English influence, social manipulation |
+| Narrative style | Direct address to reader, digression, exaggeration, local flavour         |
 
 ---
 
@@ -74,14 +75,14 @@ The village is not just a background. It shapes the story's humour and social ex
 
 ## 4. Ranga's Character
 
-| Trait | Explanation |
-|---|---|
-| Educated | He has studied in Bangalore and knows English |
-| Respectful | He still shows respect to elders |
-| Modern in thought | He initially rejects immediate marriage |
-| Romantic but reserved | He likes Ratna but does not openly admit it |
-| Impressionable | He is influenced by the narrator and Shastri's plan |
-| Socially rooted | Despite education, he remains part of village customs |
+| Trait                 | Explanation                                           |
+| --------------------- | ----------------------------------------------------- |
+| Educated              | He has studied in Bangalore and knows English         |
+| Respectful            | He still shows respect to elders                      |
+| Modern in thought     | He initially rejects immediate marriage               |
+| Romantic but reserved | He likes Ratna but does not openly admit it           |
+| Impressionable        | He is influenced by the narrator and Shastri's plan   |
+| Socially rooted       | Despite education, he remains part of village customs |
 
 Ranga's return creates excitement because English education gives him unusual status in the village.
 
@@ -91,12 +92,12 @@ Ranga's return creates excitement because English education gives him unusual st
 
 Ratna is presented as a suitable bride for Ranga.
 
-| Trait | Explanation |
-|---|---|
-| Young and graceful | She attracts Ranga's attention |
-| Talented | She can sing and play musical instruments |
-| Culturally refined | Her skills make her admired in the traditional setting |
-| Quietly central | She does not speak much, but the plot revolves around her |
+| Trait              | Explanation                                               |
+| ------------------ | --------------------------------------------------------- |
+| Young and graceful | She attracts Ranga's attention                            |
+| Talented           | She can sing and play musical instruments                 |
+| Culturally refined | Her skills make her admired in the traditional setting    |
+| Quietly central    | She does not speak much, but the plot revolves around her |
 
 Ratna is not developed as deeply as Ranga or the narrator, but she is important because she becomes the emotional focus of Ranga's change.
 
@@ -148,12 +149,12 @@ Ranga's English education makes him special in the village. It also changes his 
 
 The story reflects:
 
-| English influence | Traditional response |
-|---|---|
-| Education in town | Village curiosity |
-| Modern marriage ideas | Elder-led arranged marriage |
-| Individual preference | Community involvement |
-| New social prestige | Local suspicion and admiration |
+| English influence     | Traditional response           |
+| --------------------- | ------------------------------ |
+| Education in town     | Village curiosity              |
+| Modern marriage ideas | Elder-led arranged marriage    |
+| Individual preference | Community involvement          |
+| New social prestige   | Local suspicion and admiration |
 
 The narrator is both amused by and critical of the blind admiration for English.
 
@@ -189,27 +190,27 @@ The humour is gentle, not cruel. It reveals social habits and human weakness.
 
 ## 11. Narrative Style
 
-| Feature | Effect |
-|---|---|
-| Conversational tone | Makes the reader feel personally addressed |
-| Digressions | Creates comic realism and village storytelling flavour |
-| Local references | Gives cultural authenticity |
-| Exaggeration | Adds humour |
-| First-person narration | Makes the narrator central to the story |
-| Irony | Shows gap between appearance and reality |
+| Feature                | Effect                                                 |
+| ---------------------- | ------------------------------------------------------ |
+| Conversational tone    | Makes the reader feel personally addressed             |
+| Digressions            | Creates comic realism and village storytelling flavour |
+| Local references       | Gives cultural authenticity                            |
+| Exaggeration           | Adds humour                                            |
+| First-person narration | Makes the narrator central to the story                |
+| Irony                  | Shows gap between appearance and reality               |
 
 ---
 
 ## 12. Theme Board
 
-| Theme | Explanation |
-|---|---|
-| Tradition and modernity | Ranga's education meets village customs |
-| Marriage and social expectation | Marriage is treated as a community concern |
-| English influence | English education creates prestige and change |
-| Clever manipulation | Narrator arranges events to reach his desired result |
-| Village life | Hosahalli is shown as intimate, curious, and tradition-bound |
-| Humour and irony | Social customs are presented through comedy |
+| Theme                           | Explanation                                                  |
+| ------------------------------- | ------------------------------------------------------------ |
+| Tradition and modernity         | Ranga's education meets village customs                      |
+| Marriage and social expectation | Marriage is treated as a community concern                   |
+| English influence               | English education creates prestige and change                |
+| Clever manipulation             | Narrator arranges events to reach his desired result         |
+| Village life                    | Hosahalli is shown as intimate, curious, and tradition-bound |
+| Humour and irony                | Social customs are presented through comedy                  |
 
 ---
 

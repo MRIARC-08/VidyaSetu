@@ -1,4 +1,5 @@
 # Chapter 1: Through the Eyes of Travellers
+
 ### NCERT Class 12 - History Part 2
 
 ## Chapter at a Glance
@@ -22,22 +23,22 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Travel account | Written description by a traveller about places and people. |
-| Ethnography | Description of people's customs, society, and culture. |
-| Comparative method | Understanding one society by comparing it with another. |
-| Caste | Hierarchical social grouping often discussed by travellers. |
-| Court | Political centre where rulers, nobles, and officials interacted. |
-| Caravan | Group of travellers moving together for safety and trade. |
-| Postal system | Communication network used by states and merchants. |
+| Term               | Meaning                                                          |
+| ------------------ | ---------------------------------------------------------------- |
+| Travel account     | Written description by a traveller about places and people.      |
+| Ethnography        | Description of people's customs, society, and culture.           |
+| Comparative method | Understanding one society by comparing it with another.          |
+| Caste              | Hierarchical social grouping often discussed by travellers.      |
+| Court              | Political centre where rulers, nobles, and officials interacted. |
+| Caravan            | Group of travellers moving together for safety and trade.        |
+| Postal system      | Communication network used by states and merchants.              |
 
 ## Quick Learning Map
 
-| Traveller | Period | Main focus |
-|---|---|---|
-| Al-Biruni | 11th century | Sanskrit learning, religion, social practices |
-| Ibn Battuta | 14th century | Travel, cities, court, communication, trade |
+| Traveller        | Period       | Main focus                                          |
+| ---------------- | ------------ | --------------------------------------------------- |
+| Al-Biruni        | 11th century | Sanskrit learning, religion, social practices       |
+| Ibn Battuta      | 14th century | Travel, cities, court, communication, trade         |
 | Francois Bernier | 17th century | Mughal state, land, society, comparison with Europe |
 
 # Unit 1A: Why Travel Accounts Matter
@@ -156,12 +157,12 @@ Traveller accounts often noticed unusual or elite practices more than ordinary r
 
 # Unit 1J: Comparing Travellers
 
-| Aspect | Al-Biruni | Ibn Battuta | Bernier |
-|---|---|---|---|
-| Main identity | Scholar | Traveller and court official | Physician and political observer |
-| Method | Textual and comparative | Experience-based travel narrative | Comparative political critique |
-| Main interest | Religion, knowledge, caste | Cities, routes, court, customs | State, land, society |
-| Limitation | Elite textual dependence | Wonder and exaggeration possible | European bias |
+| Aspect        | Al-Biruni                  | Ibn Battuta                       | Bernier                          |
+| ------------- | -------------------------- | --------------------------------- | -------------------------------- |
+| Main identity | Scholar                    | Traveller and court official      | Physician and political observer |
+| Method        | Textual and comparative    | Experience-based travel narrative | Comparative political critique   |
+| Main interest | Religion, knowledge, caste | Cities, routes, court, customs    | State, land, society             |
+| Limitation    | Elite textual dependence   | Wonder and exaggeration possible  | European bias                    |
 
 # Unit 1K: Using Travel Accounts Critically
 
@@ -195,13 +196,13 @@ For comparing travellers:
 
 # Unit 1M: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Treating travellers as fully objective | They had assumptions and audiences. |
-| Mixing up travellers' centuries | Al-Biruni, Ibn Battuta, and Bernier belong to different periods. |
-| Ignoring comparison | Travellers often compared India with their own societies. |
-| Using one traveller to describe all India | Their observations were limited by route, class, and access. |
-| Ignoring local evidence | Travel accounts need comparison with other evidence. |
+| Mistake                                   | Correction                                                       |
+| ----------------------------------------- | ---------------------------------------------------------------- |
+| Treating travellers as fully objective    | They had assumptions and audiences.                              |
+| Mixing up travellers' centuries           | Al-Biruni, Ibn Battuta, and Bernier belong to different periods. |
+| Ignoring comparison                       | Travellers often compared India with their own societies.        |
+| Using one traveller to describe all India | Their observations were limited by route, class, and access.     |
+| Ignoring local evidence                   | Travel accounts need comparison with other evidence.             |
 
 ## Practice Set
 

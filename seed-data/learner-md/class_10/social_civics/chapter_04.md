@@ -1,20 +1,21 @@
 # Chapter 4: Gender, Religion and Caste
+
 ### NCERT Class 10 - Social Civics
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-| --- | --- |
-| Class | 10 |
-| Subject | Social Civics |
-| Chapter | 4 - Gender, Religion and Caste |
-| Central Question | How do gender, religion, and caste create social divisions, and when is their expression in politics healthy or harmful? |
-| Main Context | Indian democracy and social diversity |
-| Main Themes | Gender division, patriarchy, women's representation, communalism, secular state, caste inequalities, caste in politics, politics in caste |
-| Main Skills | Identifying social inequality, distinguishing healthy and unhealthy political expression, using examples in answers |
-| Exam Importance | Very high: sexual division of labour, feminist movement, women's representation, communalism forms, secular state, caste in politics |
+| Detail           | Learner-Friendly Information                                                                                                              |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Class            | 10                                                                                                                                        |
+| Subject          | Social Civics                                                                                                                             |
+| Chapter          | 4 - Gender, Religion and Caste                                                                                                            |
+| Central Question | How do gender, religion, and caste create social divisions, and when is their expression in politics healthy or harmful?                  |
+| Main Context     | Indian democracy and social diversity                                                                                                     |
+| Main Themes      | Gender division, patriarchy, women's representation, communalism, secular state, caste inequalities, caste in politics, politics in caste |
+| Main Skills      | Identifying social inequality, distinguishing healthy and unhealthy political expression, using examples in answers                       |
+| Exam Importance  | Very high: sexual division of labour, feminist movement, women's representation, communalism forms, secular state, caste in politics      |
 
 ---
 
@@ -38,16 +39,16 @@ The key idea is:
 
 After studying this chapter, you should be able to:
 
-| Skill | You Should Be Able To |
-| --- | --- |
-| Define | Explain sexual division of labour, feminist, patriarchy, communalism, secular state, family laws, urbanisation, occupational mobility, caste hierarchy, casteism. |
-| Explain | Describe how women face discrimination in India. |
-| Analyse | Explain why women's political representation matters. |
-| Distinguish | Separate moral use of religion in politics from communal politics. |
-| Describe | Explain the constitutional features that make India secular. |
-| Evaluate | Explain how caste has changed and how it continues. |
-| Apply | Show why caste alone cannot determine election results. |
-| Write | Prepare NCERT short and long answers with clear examples. |
+| Skill       | You Should Be Able To                                                                                                                                             |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Define      | Explain sexual division of labour, feminist, patriarchy, communalism, secular state, family laws, urbanisation, occupational mobility, caste hierarchy, casteism. |
+| Explain     | Describe how women face discrimination in India.                                                                                                                  |
+| Analyse     | Explain why women's political representation matters.                                                                                                             |
+| Distinguish | Separate moral use of religion in politics from communal politics.                                                                                                |
+| Describe    | Explain the constitutional features that make India secular.                                                                                                      |
+| Evaluate    | Explain how caste has changed and how it continues.                                                                                                               |
+| Apply       | Show why caste alone cannot determine election results.                                                                                                           |
+| Write       | Prepare NCERT short and long answers with clear examples.                                                                                                         |
 
 ---
 
@@ -85,28 +86,28 @@ Caste influences elections, but politics also changes caste identities by forcin
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Gender Division | Social division based on unequal roles, expectations, and power assigned to women and men. |
-| Sexual Division of Labour | System where household work is mainly done or organised by women, while men are expected to do outside work. |
-| Feminist | Woman or man who believes in equal rights and opportunities for women and men. |
-| Feminist Movement | Movement demanding equality for women in public life, law, education, work, family, and personal life. |
-| Patriarchy | System that values men more and gives men power over women. |
-| Child Sex Ratio | Number of girl children per thousand boys. |
-| Equal Remuneration Act, 1976 | Law requiring equal wages for equal work. |
-| Nari Shakti Vandan Adhiniyam | Women's Reservation Act, 2023, providing 33 percent reservation for women in Lok Sabha, State Assemblies, and Delhi Assembly. |
-| Family Laws | Laws related to marriage, divorce, adoption, inheritance, and family matters. |
-| Communalism | Politics based on the belief that religion is the main basis of social community and that religious communities have conflicting interests. |
-| Secular State | State that has no official religion and treats all religions equally. |
-| Caste System | Hereditary social hierarchy historically linked with occupation, marriage, ritual status, and social exclusion. |
-| Untouchability | Inhuman practice of excluding and discriminating against communities considered "outcaste." |
-| Urbanisation | Shift of population from rural areas to towns and cities. |
-| Occupational Mobility | Shift from one occupation to another, often across generations. |
-| Caste Hierarchy | Ladder-like ranking of caste groups from "highest" to "lowest." |
-| Casteism | Belief that caste is the main basis of social community and political loyalty. |
-| Dalit | Term often used for Scheduled Castes, especially those historically treated as "outcaste." |
-| Adivasi | Term often used for Scheduled Tribes, especially communities historically living in hills, forests, and separate social spaces. |
-| Vote Bank | Group whose voters are assumed to support a particular party in large numbers. |
+| Term                         | Meaning                                                                                                                                     |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Gender Division              | Social division based on unequal roles, expectations, and power assigned to women and men.                                                  |
+| Sexual Division of Labour    | System where household work is mainly done or organised by women, while men are expected to do outside work.                                |
+| Feminist                     | Woman or man who believes in equal rights and opportunities for women and men.                                                              |
+| Feminist Movement            | Movement demanding equality for women in public life, law, education, work, family, and personal life.                                      |
+| Patriarchy                   | System that values men more and gives men power over women.                                                                                 |
+| Child Sex Ratio              | Number of girl children per thousand boys.                                                                                                  |
+| Equal Remuneration Act, 1976 | Law requiring equal wages for equal work.                                                                                                   |
+| Nari Shakti Vandan Adhiniyam | Women's Reservation Act, 2023, providing 33 percent reservation for women in Lok Sabha, State Assemblies, and Delhi Assembly.               |
+| Family Laws                  | Laws related to marriage, divorce, adoption, inheritance, and family matters.                                                               |
+| Communalism                  | Politics based on the belief that religion is the main basis of social community and that religious communities have conflicting interests. |
+| Secular State                | State that has no official religion and treats all religions equally.                                                                       |
+| Caste System                 | Hereditary social hierarchy historically linked with occupation, marriage, ritual status, and social exclusion.                             |
+| Untouchability               | Inhuman practice of excluding and discriminating against communities considered "outcaste."                                                 |
+| Urbanisation                 | Shift of population from rural areas to towns and cities.                                                                                   |
+| Occupational Mobility        | Shift from one occupation to another, often across generations.                                                                             |
+| Caste Hierarchy              | Ladder-like ranking of caste groups from "highest" to "lowest."                                                                             |
+| Casteism                     | Belief that caste is the main basis of social community and political loyalty.                                                              |
+| Dalit                        | Term often used for Scheduled Castes, especially those historically treated as "outcaste."                                                  |
+| Adivasi                      | Term often used for Scheduled Tribes, especially communities historically living in hills, forests, and separate social spaces.             |
+| Vote Bank                    | Group whose voters are assumed to support a particular party in large numbers.                                                              |
 
 ---
 
@@ -158,12 +159,12 @@ But women's work is often unpaid, invisible, and undervalued.
 
 A time use survey in six Indian states showed:
 
-| Activity | Men | Women |
-| --- | --- | --- |
-| Income-generating work | 6 hours | 2 hours 40 minutes |
-| Household and related work | 30 minutes | 5 hours |
-| Talking / gossip | 1 hour 25 minutes | 1 hour 20 minutes |
-| No work / leisure | 3 hours 40 minutes | 3 hours 50 minutes |
+| Activity                        | Men                 | Women               |
+| ------------------------------- | ------------------- | ------------------- |
+| Income-generating work          | 6 hours             | 2 hours 40 minutes  |
+| Household and related work      | 30 minutes          | 5 hours             |
+| Talking / gossip                | 1 hour 25 minutes   | 1 hour 20 minutes   |
+| No work / leisure               | 3 hours 40 minutes  | 3 hours 50 minutes  |
 | Sleep, self-care, reading, etc. | 12 hours 25 minutes | 11 hours 10 minutes |
 
 The survey showed that women worked longer overall, but much of their work was unpaid and invisible.
@@ -277,11 +278,11 @@ India has had low representation of women in legislative bodies.
 
 Important facts from the chapter:
 
-| Body | Women's Representation |
-| --- | --- |
-| Lok Sabha | Reached 14.36 percent of total strength in 2019 |
-| State Assemblies | Less than 5 percent |
-| Local governments | One-third seats reserved for women |
+| Body              | Women's Representation                          |
+| ----------------- | ----------------------------------------------- |
+| Lok Sabha         | Reached 14.36 percent of total strength in 2019 |
+| State Assemblies  | Less than 5 percent                             |
+| Local governments | One-third seats reserved for women              |
 
 India remains behind many regions of the world in women's parliamentary representation.
 
@@ -335,11 +336,11 @@ Religion can enter politics in acceptable ways when:
 
 ## Examples
 
-| Example | Why It Is Not Necessarily Wrong |
-| --- | --- |
-| Gandhi said religion cannot be separated from politics | He meant moral values common to religions, not rule by one religion. |
-| Human rights groups demand protection of religious minorities | This supports equality and security. |
-| Women's movements demand reform of family laws | This seeks gender justice within communities. |
+| Example                                                       | Why It Is Not Necessarily Wrong                                      |
+| ------------------------------------------------------------- | -------------------------------------------------------------------- |
+| Gandhi said religion cannot be separated from politics        | He meant moral values common to religions, not rule by one religion. |
+| Human rights groups demand protection of religious minorities | This supports equality and security.                                 |
+| Women's movements demand reform of family laws                | This seeks gender justice within communities.                        |
 
 ## Family Laws
 
@@ -396,12 +397,12 @@ To treat all followers of one religion as one political block suppresses interna
 
 ## Forms of Communalism
 
-| Form | Explanation | Example |
-| --- | --- | --- |
-| Everyday beliefs | Prejudices, stereotypes, belief in superiority of one's religion | Casual jokes or suspicion about another religion |
-| Quest for dominance | Majority domination or minority separatism | Demand that one religious community should control the state |
-| Political mobilisation | Use of religious symbols, leaders, fear, and emotional appeals for votes | Appealing only to voters of one religion |
-| Communal violence | Riots, massacres, violent conflict | Partition riots; post-Independence communal violence |
+| Form                   | Explanation                                                              | Example                                                      |
+| ---------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------ |
+| Everyday beliefs       | Prejudices, stereotypes, belief in superiority of one's religion         | Casual jokes or suspicion about another religion             |
+| Quest for dominance    | Majority domination or minority separatism                               | Demand that one religious community should control the state |
+| Political mobilisation | Use of religious symbols, leaders, fear, and emotional appeals for votes | Appealing only to voters of one religion                     |
+| Communal violence      | Riots, massacres, violent conflict                                       | Partition riots; post-Independence communal violence         |
 
 ## Learner Point
 
@@ -417,21 +418,21 @@ India adopted the model of a secular state to fight communalism and protect equa
 
 ## Constitutional Features of Indian Secularism
 
-| Feature | Explanation |
-| --- | --- |
-| No official religion | Indian state does not give special status to any religion. |
-| Religious freedom | People may profess, practise, and propagate any religion, or follow none. |
-| No discrimination | Constitution prohibits discrimination on grounds of religion. |
+| Feature                         | Explanation                                                                                  |
+| ------------------------------- | -------------------------------------------------------------------------------------------- |
+| No official religion            | Indian state does not give special status to any religion.                                   |
+| Religious freedom               | People may profess, practise, and propagate any religion, or follow none.                    |
+| No discrimination               | Constitution prohibits discrimination on grounds of religion.                                |
 | State intervention for equality | State may intervene in religious matters to ensure equality, such as banning untouchability. |
 
 ## Comparison
 
-| Country | Religious Position |
-| --- | --- |
-| India | No official religion |
-| Sri Lanka | Buddhism given special status |
-| Pakistan | Islam has special status |
-| England | Christianity has special status |
+| Country   | Religious Position              |
+| --------- | ------------------------------- |
+| India     | No official religion            |
+| Sri Lanka | Buddhism given special status   |
+| Pakistan  | Islam has special status        |
+| England   | Christianity has special status |
 
 ## Why Secularism Matters
 
@@ -496,14 +497,14 @@ Caste has changed due to social and economic transformation, but it has not disa
 
 ## Factors Weakening Caste Hierarchy
 
-| Factor | Effect |
-| --- | --- |
-| Economic development | New occupations and social mobility emerged. |
-| Urbanisation | People from different castes interact in cities. |
-| Literacy and education | Old caste beliefs are questioned. |
-| Occupational mobility | Younger generations take up occupations different from ancestors. |
-| Weakening of landlords | Old rural power structures became weaker. |
-| Constitution | Prohibits caste-based discrimination. |
+| Factor                 | Effect                                                            |
+| ---------------------- | ----------------------------------------------------------------- |
+| Economic development   | New occupations and social mobility emerged.                      |
+| Urbanisation           | People from different castes interact in cities.                  |
+| Literacy and education | Old caste beliefs are questioned.                                 |
+| Occupational mobility  | Younger generations take up occupations different from ancestors. |
+| Weakening of landlords | Old rural power structures became weaker.                         |
+| Constitution           | Prohibits caste-based discrimination.                             |
 
 ## What Continues?
 
@@ -521,16 +522,16 @@ Continuing features:
 
 According to 2011 Census:
 
-| Group | Share |
-| --- | --- |
-| Hindus | 79.8 percent |
-| Muslims | 14.2 percent |
-| Christians | 2.3 percent |
-| Sikhs | 1.7 percent |
-| Buddhists | 0.7 percent |
-| Jains | 0.4 percent |
+| Group            | Share        |
+| ---------------- | ------------ |
+| Hindus           | 79.8 percent |
+| Muslims          | 14.2 percent |
+| Christians       | 2.3 percent  |
+| Sikhs            | 1.7 percent  |
+| Buddhists        | 0.7 percent  |
+| Jains            | 0.4 percent  |
 | Scheduled Castes | 16.6 percent |
-| Scheduled Tribes | 8.6 percent |
+| Scheduled Tribes | 8.6 percent  |
 
 The National Sample Survey 2004-05 estimated OBC population around 41 percent.
 
@@ -587,14 +588,14 @@ Elections are not only about caste.
 
 Reasons:
 
-| Reason | Explanation |
-| --- | --- |
-| No single caste majority | No parliamentary constituency has a clear majority of one caste. |
-| Parties need wider support | Candidates must win more than one caste or community. |
-| No caste votes as one block | No party gets all voters of one caste. |
-| Multiple candidates | More than one candidate may belong to the same caste. |
-| Ruling parties lose | If caste preference were fixed, sitting MPs and MLAs would not lose often. |
-| Other factors matter | Party loyalty, class, gender, leader popularity, and government performance matter. |
+| Reason                      | Explanation                                                                         |
+| --------------------------- | ----------------------------------------------------------------------------------- |
+| No single caste majority    | No parliamentary constituency has a clear majority of one caste.                    |
+| Parties need wider support  | Candidates must win more than one caste or community.                               |
+| No caste votes as one block | No party gets all voters of one caste.                                              |
+| Multiple candidates         | More than one candidate may belong to the same caste.                               |
+| Ruling parties lose         | If caste preference were fixed, sitting MPs and MLAs would not lose often.          |
+| Other factors matter        | Party loyalty, class, gender, leader popularity, and government performance matter. |
 
 ## Learner Point
 
@@ -669,30 +670,30 @@ But politics based only on caste identity is unhealthy.
 
 ## Feminism, Communalism, and Casteism
 
-| Idea | Meaning | Democratic Value |
-| --- | --- | --- |
-| Feminism | Belief in equal rights for women and men | Positive because it challenges inequality |
-| Communalism | Religion-based political division and domination | Negative because it creates hostility |
-| Casteism | Belief that caste is the main basis of community and politics | Negative when it promotes narrow identity, but caste injustice must be discussed |
+| Idea        | Meaning                                                       | Democratic Value                                                                 |
+| ----------- | ------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| Feminism    | Belief in equal rights for women and men                      | Positive because it challenges inequality                                        |
+| Communalism | Religion-based political division and domination              | Negative because it creates hostility                                            |
+| Casteism    | Belief that caste is the main basis of community and politics | Negative when it promotes narrow identity, but caste injustice must be discussed |
 
 ## Healthy vs Unhealthy Political Expression
 
-| Healthy Expression | Unhealthy Expression |
-| --- | --- |
-| Women demand equal rights | Men dominate politics and family life |
-| Minorities demand protection | One religion claims superiority |
+| Healthy Expression                       | Unhealthy Expression                     |
+| ---------------------------------------- | ---------------------------------------- |
+| Women demand equal rights                | Men dominate politics and family life    |
+| Minorities demand protection             | One religion claims superiority          |
 | Reformers demand equality in family laws | Religious identity used to create hatred |
-| Dalits demand dignity and representation | Caste used only for vote-bank politics |
+| Dalits demand dignity and representation | Caste used only for vote-bank politics   |
 
 ## Communalism vs Secularism
 
-| Communalism | Secularism |
-| --- | --- |
-| Religion is main basis of nation | State has no official religion |
-| One religion against another | All religions treated equally |
-| Uses fear and prejudice | Protects freedom of religion |
-| Seeks domination | Prohibits discrimination |
-| Can lead to violence | Allows intervention for equality |
+| Communalism                      | Secularism                       |
+| -------------------------------- | -------------------------------- |
+| Religion is main basis of nation | State has no official religion   |
+| One religion against another     | All religions treated equally    |
+| Uses fear and prejudice          | Protects freedom of religion     |
+| Seeks domination                 | Prohibits discrimination         |
+| Can lead to violence             | Allows intervention for equality |
 
 ---
 
@@ -752,12 +753,12 @@ Social divisions based on **caste** are peculiar to India.
 
 ## Q12: Match the following
 
-| Description | Term |
-| --- | --- |
-| Equal rights and opportunities for women and men | Feminist |
-| Religion is principal basis of community | Communalist |
-| Caste is principal basis of community | Casteist |
-| Does not discriminate on religious beliefs | Secularist |
+| Description                                      | Term        |
+| ------------------------------------------------ | ----------- |
+| Equal rights and opportunities for women and men | Feminist    |
+| Religion is principal basis of community         | Communalist |
+| Caste is principal basis of community            | Casteist    |
+| Does not discriminate on religious beliefs       | Secularist  |
 
 Correct option: **(b) B A D C**
 
@@ -765,15 +766,15 @@ Correct option: **(b) B A D C**
 
 # Common Mistakes to Avoid
 
-| Mistake | Correct Understanding |
-| --- | --- |
-| "Gender division is biological." | It is mainly social, based on expectations and stereotypes. |
-| "Household work is not economic work." | Household work is real work, though often unpaid and invisible. |
-| "Feminism divides society." | Feminism demands equality and challenges domination. |
+| Mistake                                        | Correct Understanding                                                                       |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| "Gender division is biological."               | It is mainly social, based on expectations and stereotypes.                                 |
+| "Household work is not economic work."         | Household work is real work, though often unpaid and invisible.                             |
+| "Feminism divides society."                    | Feminism demands equality and challenges domination.                                        |
 | "All use of religion in politics is communal." | Moral values and minority protection are not communal if all religions are treated equally. |
-| "Secularism means hostility to religion." | Indian secularism means equal respect and no official religion. |
-| "Caste has disappeared in cities." | Caste hierarchy has weakened, but caste still affects marriage, status, and opportunities. |
-| "Elections are only about caste." | Caste matters, but party, class, gender, performance, leadership, and issues also matter. |
+| "Secularism means hostility to religion."      | Indian secularism means equal respect and no official religion.                             |
+| "Caste has disappeared in cities."             | Caste hierarchy has weakened, but caste still affects marriage, status, and opportunities.  |
+| "Elections are only about caste."              | Caste matters, but party, class, gender, performance, leadership, and issues also matter.   |
 
 ---
 
@@ -858,4 +859,3 @@ Before moving to the next chapter, make sure you can:
 - [ ] Explain caste in politics.
 - [ ] Explain politics in caste.
 - [ ] Solve all NCERT exercise questions.
-

@@ -44,56 +44,56 @@ By the end of this chapter, you should be able to:
 
 ## Big Picture Map
 
-| Theme | Core Idea | Examples |
-| --- | --- | --- |
-| Elements | Crust is mainly made of a few elements | Oxygen, silicon, aluminium, iron |
-| Minerals | Natural substances with definite composition and properties | Quartz, feldspar, mica |
-| Physical properties | Minerals are identified by observable features | Cleavage, lustre, hardness, streak |
-| Rocks | Aggregates of one or more minerals | Granite, basalt, sandstone |
-| Igneous rocks | Form from cooling magma or lava | Granite, basalt, gabbro |
-| Sedimentary rocks | Form from deposited and lithified sediments | Sandstone, shale, limestone |
-| Metamorphic rocks | Form from existing rocks changed by pressure, temperature, or fluids | Slate, schist, marble |
-| Rock cycle | Rocks transform from one type to another | Igneous to sedimentary to metamorphic |
+| Theme               | Core Idea                                                            | Examples                              |
+| ------------------- | -------------------------------------------------------------------- | ------------------------------------- |
+| Elements            | Crust is mainly made of a few elements                               | Oxygen, silicon, aluminium, iron      |
+| Minerals            | Natural substances with definite composition and properties          | Quartz, feldspar, mica                |
+| Physical properties | Minerals are identified by observable features                       | Cleavage, lustre, hardness, streak    |
+| Rocks               | Aggregates of one or more minerals                                   | Granite, basalt, sandstone            |
+| Igneous rocks       | Form from cooling magma or lava                                      | Granite, basalt, gabbro               |
+| Sedimentary rocks   | Form from deposited and lithified sediments                          | Sandstone, shale, limestone           |
+| Metamorphic rocks   | Form from existing rocks changed by pressure, temperature, or fluids | Slate, schist, marble                 |
+| Rock cycle          | Rocks transform from one type to another                             | Igneous to sedimentary to metamorphic |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Element | Basic chemical substance forming minerals and rocks. |
-| Mineral | Naturally occurring organic or inorganic substance with orderly atomic structure and definite chemical composition and physical properties. |
-| Rock-forming mineral | Common mineral that makes up a large part of rocks. |
-| Crystal form | External shape of a mineral based on internal molecular arrangement. |
-| Cleavage | Tendency of a mineral to break along flat planes. |
-| Fracture | Irregular break when no clear cleavage planes exist. |
-| Lustre | Appearance of a mineral surface in reflected light. |
-| Streak | Colour of a mineral's powder. |
-| Transparency | Ability of a mineral to transmit light. |
-| Hardness | Resistance of a mineral to scratching. |
-| Specific gravity | Ratio of weight of a substance to weight of equal volume of water. |
-| Feldspar | Major rock-forming mineral group; very common in earth's crust. |
-| Quartz | Silica mineral common in sand and granite. |
-| Pyroxene | Mineral group containing calcium, aluminium, magnesium, iron, and silica. |
-| Amphibole | Mineral group containing aluminium, calcium, silica, iron, and magnesium. |
-| Mica | Sheet-like mineral group used in electrical instruments. |
-| Olivine | Greenish mineral containing magnesium, iron, and silica, often in basaltic rocks. |
-| Metallic mineral | Mineral containing metal content. |
-| Non-metallic mineral | Mineral without metal content. |
-| Rock | Aggregate of one or more minerals. |
-| Petrology | Science of rocks. |
-| Igneous rock | Rock formed by cooling and solidification of magma or lava. |
-| Sedimentary rock | Rock formed by deposition, compaction, and lithification of sediments. |
-| Metamorphic rock | Rock formed when existing rocks change under pressure, temperature, or chemical action. |
-| Lithification | Process by which sediments compact and harden into rock. |
-| Recrystallisation | Reorganisation and growth of mineral crystals during metamorphism. |
-| Dynamic metamorphism | Metamorphism due to mechanical disruption, pressure, breaking, and crushing. |
-| Contact metamorphism | Metamorphism caused by contact with hot magma or lava. |
-| Regional metamorphism | Metamorphism over large areas due to tectonic pressure and heat. |
-| Foliation | Arrangement of minerals or grains in layers or lines. |
-| Lineation | Linear arrangement of minerals or grains in metamorphic rock. |
-| Banding | Alternating light and dark layers in metamorphic rock. |
-| Rock cycle | Continuous transformation of rocks from one type to another. |
+| Term                  | Meaning                                                                                                                                     |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Element               | Basic chemical substance forming minerals and rocks.                                                                                        |
+| Mineral               | Naturally occurring organic or inorganic substance with orderly atomic structure and definite chemical composition and physical properties. |
+| Rock-forming mineral  | Common mineral that makes up a large part of rocks.                                                                                         |
+| Crystal form          | External shape of a mineral based on internal molecular arrangement.                                                                        |
+| Cleavage              | Tendency of a mineral to break along flat planes.                                                                                           |
+| Fracture              | Irregular break when no clear cleavage planes exist.                                                                                        |
+| Lustre                | Appearance of a mineral surface in reflected light.                                                                                         |
+| Streak                | Colour of a mineral's powder.                                                                                                               |
+| Transparency          | Ability of a mineral to transmit light.                                                                                                     |
+| Hardness              | Resistance of a mineral to scratching.                                                                                                      |
+| Specific gravity      | Ratio of weight of a substance to weight of equal volume of water.                                                                          |
+| Feldspar              | Major rock-forming mineral group; very common in earth's crust.                                                                             |
+| Quartz                | Silica mineral common in sand and granite.                                                                                                  |
+| Pyroxene              | Mineral group containing calcium, aluminium, magnesium, iron, and silica.                                                                   |
+| Amphibole             | Mineral group containing aluminium, calcium, silica, iron, and magnesium.                                                                   |
+| Mica                  | Sheet-like mineral group used in electrical instruments.                                                                                    |
+| Olivine               | Greenish mineral containing magnesium, iron, and silica, often in basaltic rocks.                                                           |
+| Metallic mineral      | Mineral containing metal content.                                                                                                           |
+| Non-metallic mineral  | Mineral without metal content.                                                                                                              |
+| Rock                  | Aggregate of one or more minerals.                                                                                                          |
+| Petrology             | Science of rocks.                                                                                                                           |
+| Igneous rock          | Rock formed by cooling and solidification of magma or lava.                                                                                 |
+| Sedimentary rock      | Rock formed by deposition, compaction, and lithification of sediments.                                                                      |
+| Metamorphic rock      | Rock formed when existing rocks change under pressure, temperature, or chemical action.                                                     |
+| Lithification         | Process by which sediments compact and harden into rock.                                                                                    |
+| Recrystallisation     | Reorganisation and growth of mineral crystals during metamorphism.                                                                          |
+| Dynamic metamorphism  | Metamorphism due to mechanical disruption, pressure, breaking, and crushing.                                                                |
+| Contact metamorphism  | Metamorphism caused by contact with hot magma or lava.                                                                                      |
+| Regional metamorphism | Metamorphism over large areas due to tectonic pressure and heat.                                                                            |
+| Foliation             | Arrangement of minerals or grains in layers or lines.                                                                                       |
+| Lineation             | Linear arrangement of minerals or grains in metamorphic rock.                                                                               |
+| Banding               | Alternating light and dark layers in metamorphic rock.                                                                                      |
+| Rock cycle            | Continuous transformation of rocks from one type to another.                                                                                |
 
 ---
 
@@ -111,17 +111,17 @@ In the interior, materials may occur in hot and molten form.
 
 About 98 percent of the earth's crust is made of eight elements.
 
-| Element | Percentage By Weight |
-| --- | ---: |
-| Oxygen | 46.60 |
-| Silicon | 27.72 |
-| Aluminium | 8.13 |
-| Iron | 5.00 |
-| Calcium | 3.63 |
-| Sodium | 2.83 |
-| Potassium | 2.59 |
-| Magnesium | 2.09 |
-| Others | 1.41 |
+| Element   | Percentage By Weight |
+| --------- | -------------------: |
+| Oxygen    |                46.60 |
+| Silicon   |                27.72 |
+| Aluminium |                 8.13 |
+| Iron      |                 5.00 |
+| Calcium   |                 3.63 |
+| Sodium    |                 2.83 |
+| Potassium |                 2.59 |
+| Magnesium |                 2.09 |
+| Others    |                 1.41 |
 
 ## 1.3 Why Oxygen And Silicon Matter
 
@@ -260,11 +260,11 @@ This happens when internal molecular arrangement is complex and no clear planes 
 
 ## 5.3 Difference
 
-| Cleavage | Fracture |
-| --- | --- |
-| Breaks along flat planes | Breaks irregularly |
-| Controlled by molecular arrangement | No regular cleavage plane |
-| Produces smooth surfaces | Produces rough or uneven surfaces |
+| Cleavage                            | Fracture                          |
+| ----------------------------------- | --------------------------------- |
+| Breaks along flat planes            | Breaks irregularly                |
+| Controlled by molecular arrangement | No regular cleavage plane         |
+| Produces smooth surfaces            | Produces rough or uneven surfaces |
 
 ---
 
@@ -319,11 +319,11 @@ Streak can be more reliable than surface colour because colour may change due to
 
 Transparency describes how light passes through a mineral.
 
-| Type | Meaning |
-| --- | --- |
+| Type        | Meaning                                              |
+| ----------- | ---------------------------------------------------- |
 | Transparent | Light passes through and objects can be seen clearly |
-| Translucent | Light passes through but objects appear diffused |
-| Opaque | Light does not pass through |
+| Translucent | Light passes through but objects appear diffused     |
+| Opaque      | Light does not pass through                          |
 
 ## 7.2 Structure
 
@@ -351,18 +351,18 @@ Hardness is relative resistance to being scratched.
 
 The chapter lists ten minerals in order of hardness from 1 to 10.
 
-| Hardness | Mineral |
-| ---: | --- |
-| 1 | Talc |
-| 2 | Gypsum |
-| 3 | Calcite |
-| 4 | Fluorite |
-| 5 | Apatite |
-| 6 | Feldspar |
-| 7 | Quartz |
-| 8 | Topaz |
-| 9 | Corundum |
-| 10 | Diamond |
+| Hardness | Mineral  |
+| -------: | -------- |
+|        1 | Talc     |
+|        2 | Gypsum   |
+|        3 | Calcite  |
+|        4 | Fluorite |
+|        5 | Apatite  |
+|        6 | Feldspar |
+|        7 | Quartz   |
+|        8 | Topaz    |
+|        9 | Corundum |
+|       10 | Diamond  |
 
 ## 8.3 Everyday Comparison
 
@@ -702,11 +702,11 @@ Rocks are grouped by mode of formation into three families:
 
 ## 20.1 Quick Comparison
 
-| Rock Type | Formation | Examples |
-| --- | --- | --- |
-| Igneous | Cooling and solidification of magma or lava | Granite, basalt, gabbro |
-| Sedimentary | Deposition, compaction, and lithification of sediments | Sandstone, shale, limestone |
-| Metamorphic | Existing rocks changed by pressure, temperature, and chemical action | Slate, schist, marble |
+| Rock Type   | Formation                                                            | Examples                    |
+| ----------- | -------------------------------------------------------------------- | --------------------------- |
+| Igneous     | Cooling and solidification of magma or lava                          | Granite, basalt, gabbro     |
+| Sedimentary | Deposition, compaction, and lithification of sediments               | Sandstone, shale, limestone |
+| Metamorphic | Existing rocks changed by pressure, temperature, and chemical action | Slate, schist, marble       |
 
 ---
 
@@ -1016,44 +1016,44 @@ Magma
 
 ## 27.1 Mineral vs Rock
 
-| Mineral | Rock |
-| --- | --- |
-| Definite chemical composition | No fixed mineral composition |
-| Orderly atomic structure | Aggregate of minerals |
-| Examples: quartz, feldspar | Examples: granite, sandstone |
+| Mineral                           | Rock                                           |
+| --------------------------------- | ---------------------------------------------- |
+| Definite chemical composition     | No fixed mineral composition                   |
+| Orderly atomic structure          | Aggregate of minerals                          |
+| Examples: quartz, feldspar        | Examples: granite, sandstone                   |
 | Identified by physical properties | Identified by mineral content, texture, origin |
 
 ## 27.2 Cleavage vs Fracture
 
-| Cleavage | Fracture |
-| --- | --- |
-| Breaks along plane surfaces | Breaks irregularly |
-| Controlled by internal arrangement | No clear planes |
-| Useful for identifying minerals | Useful when cleavage absent |
+| Cleavage                           | Fracture                    |
+| ---------------------------------- | --------------------------- |
+| Breaks along plane surfaces        | Breaks irregularly          |
+| Controlled by internal arrangement | No clear planes             |
+| Useful for identifying minerals    | Useful when cleavage absent |
 
 ## 27.3 Igneous vs Sedimentary vs Metamorphic Rocks
 
-| Igneous | Sedimentary | Metamorphic |
-| --- | --- | --- |
-| Form from magma/lava | Form from deposited sediments | Form from existing rocks |
-| Primary rocks | Often layered | Often recrystallised |
-| Texture depends on cooling | Form through lithification | Form through PVT changes |
-| Granite, basalt | Sandstone, shale | Slate, marble |
+| Igneous                    | Sedimentary                   | Metamorphic              |
+| -------------------------- | ----------------------------- | ------------------------ |
+| Form from magma/lava       | Form from deposited sediments | Form from existing rocks |
+| Primary rocks              | Often layered                 | Often recrystallised     |
+| Texture depends on cooling | Form through lithification    | Form through PVT changes |
+| Granite, basalt            | Sandstone, shale              | Slate, marble            |
 
 ## 27.4 Contact vs Regional Metamorphism
 
-| Contact Metamorphism | Regional Metamorphism |
-| --- | --- |
-| Localised near magma or lava | Covers large areas |
-| Mainly heat-driven | Heat plus pressure and deformation |
-| Occurs near intrusions | Occurs in tectonic belts |
+| Contact Metamorphism         | Regional Metamorphism              |
+| ---------------------------- | ---------------------------------- |
+| Localised near magma or lava | Covers large areas                 |
+| Mainly heat-driven           | Heat plus pressure and deformation |
+| Occurs near intrusions       | Occurs in tectonic belts           |
 
 ## 27.5 Metallic vs Non-Metallic Minerals
 
-| Metallic Minerals | Non-Metallic Minerals |
-| --- | --- |
-| Contain metal | Do not contain metal |
-| Gold, iron, copper | Sulphur, phosphates, nitrates |
+| Metallic Minerals                    | Non-Metallic Minerals                  |
+| ------------------------------------ | -------------------------------------- |
+| Contain metal                        | Do not contain metal                   |
+| Gold, iron, copper                   | Sulphur, phosphates, nitrates          |
 | Precious, ferrous, non-ferrous types | Used in cement, chemicals, fertilisers |
 
 ---
@@ -1138,21 +1138,21 @@ igneous rock again.
 
 # 29. Data Board
 
-| Data Point | Value Or Fact | Use |
-| --- | --- | --- |
-| Crust made by top eight elements | About 98 percent | Element composition |
-| Oxygen | 46.60 percent | Most abundant crustal element |
-| Silicon | 27.72 percent | Second most abundant |
-| Aluminium | 8.13 percent | Major crustal metal |
-| Iron | 5.00 percent | Important crustal element |
-| Number of identified minerals | At least 2,000 | Mineral diversity |
-| Feldspar | About half of earth's crust | Major rock-forming mineral |
-| Pyroxene | About 10 percent of crust | Major mineral |
-| Amphibole | About 7 percent of crust | Major mineral |
-| Mica | About 4 percent of crust | Major mineral |
-| Hardest mineral | Diamond | Mohs scale |
-| Fingernail hardness | About 2.5 | Everyday comparison |
-| Glass/knife hardness | About 5.5 | Everyday comparison |
+| Data Point                       | Value Or Fact               | Use                           |
+| -------------------------------- | --------------------------- | ----------------------------- |
+| Crust made by top eight elements | About 98 percent            | Element composition           |
+| Oxygen                           | 46.60 percent               | Most abundant crustal element |
+| Silicon                          | 27.72 percent               | Second most abundant          |
+| Aluminium                        | 8.13 percent                | Major crustal metal           |
+| Iron                             | 5.00 percent                | Important crustal element     |
+| Number of identified minerals    | At least 2,000              | Mineral diversity             |
+| Feldspar                         | About half of earth's crust | Major rock-forming mineral    |
+| Pyroxene                         | About 10 percent of crust   | Major mineral                 |
+| Amphibole                        | About 7 percent of crust    | Major mineral                 |
+| Mica                             | About 4 percent of crust    | Major mineral                 |
+| Hardest mineral                  | Diamond                     | Mohs scale                    |
+| Fingernail hardness              | About 2.5                   | Everyday comparison           |
+| Glass/knife hardness             | About 5.5                   | Everyday comparison           |
 
 ---
 

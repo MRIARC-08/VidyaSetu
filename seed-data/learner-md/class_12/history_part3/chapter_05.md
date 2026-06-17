@@ -2,14 +2,14 @@
 
 ## Chapter Identity
 
-| Item | Details |
-| --- | --- |
-| Class | 12 |
-| Subject | History Part 3 |
-| Chapter | Understanding Partition: Politics, Memories, Experiences |
-| Period | Mainly 1940-1950, with background from early twentieth century |
-| Core Skill | Explaining causes, violence, migration, regional variation, gendered experiences, memories, and oral history |
-| Main Idea | Partition was not only a political division of territory; it was a human catastrophe that reshaped lives, identities, memories, and relations between communities. |
+| Item       | Details                                                                                                                                                            |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Class      | 12                                                                                                                                                                 |
+| Subject    | History Part 3                                                                                                                                                     |
+| Chapter    | Understanding Partition: Politics, Memories, Experiences                                                                                                           |
+| Period     | Mainly 1940-1950, with background from early twentieth century                                                                                                     |
+| Core Skill | Explaining causes, violence, migration, regional variation, gendered experiences, memories, and oral history                                                       |
+| Main Idea  | Partition was not only a political division of territory; it was a human catastrophe that reshaped lives, identities, memories, and relations between communities. |
 
 ## 1. Big Picture
 
@@ -33,22 +33,22 @@ The chapter asks two kinds of questions:
 
 ## 2. Timeline
 
-| Year/Date | Event | Significance |
-| --- | --- | --- |
-| 1909 | Separate electorates introduced for Muslims | Gave religious identity a formal electoral role. |
-| 1916 | Lucknow Pact | Congress accepted separate electorates in an agreement with Muslim League. |
-| 1930 | Muhammad Iqbal spoke of a north-west Muslim state within a loose federation | Early idea of Muslim-majority political autonomy. |
-| 1933 | Choudhry Rehmat Ali coined the name Pakistan | Initially not taken seriously by many leaders. |
-| 1937 | Provincial elections | Congress formed ministries in many provinces; League's concerns grew. |
-| 1940 | Muslim League Lahore Resolution | Demanded autonomous Muslim-majority areas, not yet clearly Pakistan as later formed. |
-| 1942 | Quit India Movement | Increased British urgency to consider transfer of power. |
-| 1945-46 | Post-war negotiations | Congress-League-British negotiations intensified. |
-| 1946 | Provincial elections | League performed strongly in Muslim-reserved seats. |
-| 16 August 1946 | Direct Action Day | Communal violence in Calcutta. |
-| March 1947 | Violence escalated in Punjab | Law and order began collapsing. |
-| 14-15 August 1947 | Pakistan and India became independent | Political transfer accompanied by Partition. |
-| 1947-48 | Mass migration and violence | Millions displaced; large-scale violence in Punjab and elsewhere. |
-| 1971 | Bangladesh created | Showed that religion alone could not hold East and West Pakistan together. |
+| Year/Date         | Event                                                                       | Significance                                                                         |
+| ----------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| 1909              | Separate electorates introduced for Muslims                                 | Gave religious identity a formal electoral role.                                     |
+| 1916              | Lucknow Pact                                                                | Congress accepted separate electorates in an agreement with Muslim League.           |
+| 1930              | Muhammad Iqbal spoke of a north-west Muslim state within a loose federation | Early idea of Muslim-majority political autonomy.                                    |
+| 1933              | Choudhry Rehmat Ali coined the name Pakistan                                | Initially not taken seriously by many leaders.                                       |
+| 1937              | Provincial elections                                                        | Congress formed ministries in many provinces; League's concerns grew.                |
+| 1940              | Muslim League Lahore Resolution                                             | Demanded autonomous Muslim-majority areas, not yet clearly Pakistan as later formed. |
+| 1942              | Quit India Movement                                                         | Increased British urgency to consider transfer of power.                             |
+| 1945-46           | Post-war negotiations                                                       | Congress-League-British negotiations intensified.                                    |
+| 1946              | Provincial elections                                                        | League performed strongly in Muslim-reserved seats.                                  |
+| 16 August 1946    | Direct Action Day                                                           | Communal violence in Calcutta.                                                       |
+| March 1947        | Violence escalated in Punjab                                                | Law and order began collapsing.                                                      |
+| 14-15 August 1947 | Pakistan and India became independent                                       | Political transfer accompanied by Partition.                                         |
+| 1947-48           | Mass migration and violence                                                 | Millions displaced; large-scale violence in Punjab and elsewhere.                    |
+| 1971              | Bangladesh created                                                          | Showed that religion alone could not hold East and West Pakistan together.           |
 
 ## 3. Partition as a Momentous Marker
 
@@ -89,12 +89,12 @@ Separate electorates meant that Muslims voted for Muslim representatives in sepa
 
 ### Impact
 
-| Effect | Explanation |
-| --- | --- |
-| Hardened identities | Religious communities were treated as separate political groups. |
-| Encouraged sectarian appeals | Politicians could mobilise voters through religious identity. |
-| Deepened competition | Political representation became linked to community claims. |
-| Did not make Partition automatic | Other developments also mattered. |
+| Effect                           | Explanation                                                      |
+| -------------------------------- | ---------------------------------------------------------------- |
+| Hardened identities              | Religious communities were treated as separate political groups. |
+| Encouraged sectarian appeals     | Politicians could mobilise voters through religious identity.    |
+| Deepened competition             | Political representation became linked to community claims.      |
+| Did not make Partition automatic | Other developments also mattered.                                |
 
 Important point: separate electorates contributed to communal politics, but Partition was not their automatic or unavoidable result.
 
@@ -267,13 +267,13 @@ Official documents often record state decisions, borders, and administration. Or
 
 ## 16. Strengths and Limits of Oral History
 
-| Strengths | Limitations |
-| --- | --- |
-| Gives voice to ordinary people. | Memories may change over time. |
-| Reveals emotions and trauma. | People may forget, silence, or reshape events. |
+| Strengths                                         | Limitations                                          |
+| ------------------------------------------------- | ---------------------------------------------------- |
+| Gives voice to ordinary people.                   | Memories may change over time.                       |
+| Reveals emotions and trauma.                      | People may forget, silence, or reshape events.       |
 | Records experiences missing in official archives. | Individual memory may not represent all experiences. |
-| Helps study women, refugees, and local histories. | Interviews can be affected by interviewer identity. |
-| Shows how people remember the past. | Needs comparison with other sources. |
+| Helps study women, refugees, and local histories. | Interviews can be affected by interviewer identity.  |
+| Shows how people remember the past.               | Needs comparison with other sources.                 |
 
 Best method: use oral history along with newspapers, official records, letters, photographs, refugee records, and local histories.
 
@@ -296,13 +296,13 @@ During Partition violence, Gandhi worked for peace in riot-affected areas. His e
 
 ## 19. Common Mistakes and Corrections
 
-| Mistake | Correction |
-| --- | --- |
-| Saying Partition was inevitable from medieval times | Conflict existed, but so did long histories of coexistence and shared culture. |
-| Blaming one community simplistically | Partition violence and politics were complex and varied by region. |
-| Treating Partition as only political | It was also social, emotional, gendered, and personal. |
-| Ignoring women | Women's experiences were central and often silenced. |
-| Treating oral history as either perfect or useless | It is valuable but must be used critically. |
+| Mistake                                              | Correction                                                                           |
+| ---------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| Saying Partition was inevitable from medieval times  | Conflict existed, but so did long histories of coexistence and shared culture.       |
+| Blaming one community simplistically                 | Partition violence and politics were complex and varied by region.                   |
+| Treating Partition as only political                 | It was also social, emotional, gendered, and personal.                               |
+| Ignoring women                                       | Women's experiences were central and often silenced.                                 |
+| Treating oral history as either perfect or useless   | It is valuable but must be used critically.                                          |
 | Assuming Punjab and Bengal had identical experiences | Punjab was rapid and near-total in many areas; Bengal was more prolonged and uneven. |
 
 ## 20. Exam Answer Frames
@@ -336,18 +336,18 @@ Oral history is valuable for studying Partition because it reveals the memories,
 
 ## 22. Quick Revision Sheet
 
-| Term/Event | Recall |
-| --- | --- |
-| Partition | Division of British India into India and Pakistan. |
-| Separate electorates | Religious community-based electoral representation. |
-| Lahore Resolution | 1940 League demand for autonomous Muslim-majority areas. |
-| Direct Action Day | 16 August 1946; violence in Calcutta. |
-| Radcliffe Line | Boundary between India and Pakistan. |
-| Refugee | Person forced to leave home due to conflict or political change. |
-| Oral history | History based on interviews and memories. |
-| Muhajirs | Migrants, especially Urdu-speaking migrants to Pakistan. |
-| Gendered violence | Violence targeting women as symbols of community honour. |
-| Recovery operations | State efforts to return abducted women after Partition. |
+| Term/Event           | Recall                                                           |
+| -------------------- | ---------------------------------------------------------------- |
+| Partition            | Division of British India into India and Pakistan.               |
+| Separate electorates | Religious community-based electoral representation.              |
+| Lahore Resolution    | 1940 League demand for autonomous Muslim-majority areas.         |
+| Direct Action Day    | 16 August 1946; violence in Calcutta.                            |
+| Radcliffe Line       | Boundary between India and Pakistan.                             |
+| Refugee              | Person forced to leave home due to conflict or political change. |
+| Oral history         | History based on interviews and memories.                        |
+| Muhajirs             | Migrants, especially Urdu-speaking migrants to Pakistan.         |
+| Gendered violence    | Violence targeting women as symbols of community honour.         |
+| Recovery operations  | State efforts to return abducted women after Partition.          |
 
 ## 23. Final Learning Takeaway
 

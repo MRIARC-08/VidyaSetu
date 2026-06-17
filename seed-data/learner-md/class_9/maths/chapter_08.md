@@ -1,20 +1,21 @@
 # Chapter 8: Predicting What Comes Next - Sequences and Progressions
+
 ### NCERT Class 9 - Maths
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 9 |
-| **Subject** | Maths |
-| **Chapter** | 8 |
-| **Actual Chapter Title** | Predicting What Comes Next: Exploring Sequences and Progressions |
-| **Raw File Header** | "Quadrilaterals" |
-| **Textbook Pages** | 1-200 |
-| **Core Theme** | Number patterns, explicit rules, recursive rules, arithmetic progressions, geometric progressions, and fractals. |
-| **Main Skill** | Finding, describing, extending, and using sequence rules. |
+| Detail                   | Learner-Friendly Information                                                                                     |
+| ------------------------ | ---------------------------------------------------------------------------------------------------------------- |
+| **Class**                | 9                                                                                                                |
+| **Subject**              | Maths                                                                                                            |
+| **Chapter**              | 8                                                                                                                |
+| **Actual Chapter Title** | Predicting What Comes Next: Exploring Sequences and Progressions                                                 |
+| **Raw File Header**      | "Quadrilaterals"                                                                                                 |
+| **Textbook Pages**       | 1-200                                                                                                            |
+| **Core Theme**           | Number patterns, explicit rules, recursive rules, arithmetic progressions, geometric progressions, and fractals. |
+| **Main Skill**           | Finding, describing, extending, and using sequence rules.                                                        |
 
 > [!NOTE]
 > The raw source file is `chapter_08.md` and its extraction header says "Quadrilaterals", but the actual chapter content is **Predicting What Comes Next: Exploring Sequences and Progressions**. This learner-facing version follows the actual chapter content.
@@ -23,18 +24,18 @@
 
 ## Section Structure
 
-| Section | Title | Main Learning Focus |
-|---|---|---|
-| **8.0** | Introduction | Patterns as tools for prediction. |
-| **8.1** | Introduction to Sequences | Terms, finite/infinite sequences, natural, odd, triangular, and square number patterns. |
-| **8.2** | Explicit Rule for a Sequence | Formula for the \(n\)th term using the position \(n\). |
-| **8.3** | Recursive Rule for a Sequence | Finding later terms from previous terms. |
-| **8.4** | Arithmetic Progressions | Sequences with constant difference. |
-| **8.4.1** | Visualising an AP | APs as straight-line patterns when plotted. |
-| **8.5** | Sum of the First \(n\) Natural Numbers | Derivation and use of \(S_n=\frac{n(n+1)}{2}\). |
-| **8.6** | Geometric Progressions | Sequences with constant ratio. |
-| **8.6.1** | Fun with Fractals | Sierpinski triangle and square carpet as GP examples. |
-| **8.6.2** | Visualising a GP | GP graphs and bouncing ball applications. |
+| Section   | Title                                  | Main Learning Focus                                                                     |
+| --------- | -------------------------------------- | --------------------------------------------------------------------------------------- |
+| **8.0**   | Introduction                           | Patterns as tools for prediction.                                                       |
+| **8.1**   | Introduction to Sequences              | Terms, finite/infinite sequences, natural, odd, triangular, and square number patterns. |
+| **8.2**   | Explicit Rule for a Sequence           | Formula for the \(n\)th term using the position \(n\).                                  |
+| **8.3**   | Recursive Rule for a Sequence          | Finding later terms from previous terms.                                                |
+| **8.4**   | Arithmetic Progressions                | Sequences with constant difference.                                                     |
+| **8.4.1** | Visualising an AP                      | APs as straight-line patterns when plotted.                                             |
+| **8.5**   | Sum of the First \(n\) Natural Numbers | Derivation and use of \(S_n=\frac{n(n+1)}{2}\).                                         |
+| **8.6**   | Geometric Progressions                 | Sequences with constant ratio.                                                          |
+| **8.6.1** | Fun with Fractals                      | Sierpinski triangle and square carpet as GP examples.                                   |
+| **8.6.2** | Visualising a GP                       | GP graphs and bouncing ball applications.                                               |
 
 ---
 
@@ -42,32 +43,32 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Define a sequence** | Explain terms, positions, finite sequences, and infinite sequences. |
-| **Use notation** | Interpret \(t_1,t_2,\ldots,t_n\). |
-| **Find explicit rules** | Use a formula involving \(n\) to find any term directly. |
-| **Find recursive rules** | Use previous terms to generate later terms. |
-| **Recognise APs** | Identify sequences with constant difference. |
-| **Use AP formulas** | Find \(n\)th terms, positions, missing values, and sums. |
-| **Recognise GPs** | Identify sequences with constant ratio. |
-| **Use GP formulas** | Find terms and positions in geometric progressions. |
-| **Understand fractal sequences** | Connect repeated geometric construction to powers and progressions. |
-| **Model real situations** | Use APs and GPs for taxi fares, salaries, bacteria growth, and bouncing balls. |
+| Outcome                          | You Should Be Able To...                                                       |
+| -------------------------------- | ------------------------------------------------------------------------------ |
+| **Define a sequence**            | Explain terms, positions, finite sequences, and infinite sequences.            |
+| **Use notation**                 | Interpret \(t_1,t_2,\ldots,t_n\).                                              |
+| **Find explicit rules**          | Use a formula involving \(n\) to find any term directly.                       |
+| **Find recursive rules**         | Use previous terms to generate later terms.                                    |
+| **Recognise APs**                | Identify sequences with constant difference.                                   |
+| **Use AP formulas**              | Find \(n\)th terms, positions, missing values, and sums.                       |
+| **Recognise GPs**                | Identify sequences with constant ratio.                                        |
+| **Use GP formulas**              | Find terms and positions in geometric progressions.                            |
+| **Understand fractal sequences** | Connect repeated geometric construction to powers and progressions.            |
+| **Model real situations**        | Use APs and GPs for taxi fares, salaries, bacteria growth, and bouncing balls. |
 
 ---
 
 ## Prerequisite Toolkit
 
-| Tool | Why It Matters Here |
-|---|---|
-| **Natural numbers** | Position numbers \(n\) are usually natural numbers. |
+| Tool                       | Why It Matters Here                                     |
+| -------------------------- | ------------------------------------------------------- |
+| **Natural numbers**        | Position numbers \(n\) are usually natural numbers.     |
 | **Integers and fractions** | Sequence terms may be negative, fractional, or decimal. |
-| **Linear expressions** | AP terms often look like \(an+b\). |
-| **Exponents** | GP terms involve powers such as \(2^{n-1}\). |
-| **Solving equations** | To find which term a number is, solve for \(n\). |
-| **Coordinate plotting** | Visualising APs and GPs uses ordered pairs. |
-| **Sigma-like thinking** | Sums of terms require careful counting. |
+| **Linear expressions**     | AP terms often look like \(an+b\).                      |
+| **Exponents**              | GP terms involve powers such as \(2^{n-1}\).            |
+| **Solving equations**      | To find which term a number is, solve for \(n\).        |
+| **Coordinate plotting**    | Visualising APs and GPs uses ordered pairs.             |
+| **Sigma-like thinking**    | Sums of terms require careful counting.                 |
 
 ---
 
@@ -102,21 +103,21 @@ The chapter studies two major families:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Sequence** | Ordered list of numbers or objects. |
-| **Term** | One entry in a sequence. |
-| **\(n\)th term** | Term in the \(n\)th position. |
-| **Finite sequence** | Sequence with a last term. |
-| **Infinite sequence** | Sequence that continues without ending. |
-| **Explicit rule** | Formula that gives the \(n\)th term directly from \(n\). |
-| **Recursive rule** | Rule that gives a term using previous term(s). |
-| **Arithmetic progression (AP)** | Sequence with constant difference between consecutive terms. |
-| **Common difference** | Fixed amount added each time in an AP. |
-| **Geometric progression (GP)** | Sequence with constant ratio between consecutive terms. |
-| **Common ratio** | Fixed multiplier used each time in a GP. |
-| **Triangular number** | Number of dots that can form an equilateral triangular pattern. |
-| **Fractal** | Pattern that repeats similar structure at smaller scales. |
+| Term                            | Meaning                                                         |
+| ------------------------------- | --------------------------------------------------------------- |
+| **Sequence**                    | Ordered list of numbers or objects.                             |
+| **Term**                        | One entry in a sequence.                                        |
+| **\(n\)th term**                | Term in the \(n\)th position.                                   |
+| **Finite sequence**             | Sequence with a last term.                                      |
+| **Infinite sequence**           | Sequence that continues without ending.                         |
+| **Explicit rule**               | Formula that gives the \(n\)th term directly from \(n\).        |
+| **Recursive rule**              | Rule that gives a term using previous term(s).                  |
+| **Arithmetic progression (AP)** | Sequence with constant difference between consecutive terms.    |
+| **Common difference**           | Fixed amount added each time in an AP.                          |
+| **Geometric progression (GP)**  | Sequence with constant ratio between consecutive terms.         |
+| **Common ratio**                | Fixed multiplier used each time in a GP.                        |
+| **Triangular number**           | Number of dots that can form an equilateral triangular pattern. |
+| **Fractal**                     | Pattern that repeats similar structure at smaller scales.       |
 
 ---
 
@@ -169,13 +170,13 @@ Each number is called a term.
 
 ### Examples
 
-| Sequence | Name | Pattern |
-|---|---|---|
-| \(1,2,3,4,5,\ldots\) | Natural numbers | Add \(1\). |
-| \(1,3,5,7,9,\ldots\) | Odd numbers | Add \(2\). |
-| \(1,3,6,10,15,\ldots\) | Triangular numbers | Add \(2,3,4,5,\ldots\). |
-| \(1,4,9,16,25,\ldots\) | Square numbers | \(1^2,2^2,3^2,4^2,5^2,\ldots\). |
-| \(6,12,24,48,96\) | Finite doubling sequence | Multiply by \(2\), stops after 5 terms. |
+| Sequence               | Name                     | Pattern                                 |
+| ---------------------- | ------------------------ | --------------------------------------- |
+| \(1,2,3,4,5,\ldots\)   | Natural numbers          | Add \(1\).                              |
+| \(1,3,5,7,9,\ldots\)   | Odd numbers              | Add \(2\).                              |
+| \(1,3,6,10,15,\ldots\) | Triangular numbers       | Add \(2,3,4,5,\ldots\).                 |
+| \(1,4,9,16,25,\ldots\) | Square numbers           | \(1^2,2^2,3^2,4^2,5^2,\ldots\).         |
+| \(6,12,24,48,96\)      | Finite doubling sequence | Multiply by \(2\), stops after 5 terms. |
 
 ### Term Notation
 
@@ -219,9 +220,9 @@ $$
 
 ### Finite and Infinite Sequences
 
-| Type | Example | Meaning |
-|---|---|---|
-| Finite | \(6,12,24,48,96\) | Has a last term. |
+| Type     | Example            | Meaning                   |
+| -------- | ------------------ | ------------------------- |
+| Finite   | \(6,12,24,48,96\)  | Has a last term.          |
 | Infinite | \(1,2,3,4,\ldots\) | Continues without ending. |
 
 ### Triangular Numbers
@@ -596,9 +597,9 @@ The recursive rule says:
 
 ### Explicit vs Recursive
 
-| Rule Type | Advantage | Limitation |
-|---|---|---|
-| Explicit | Finds any term directly. | May be harder to discover. |
+| Rule Type | Advantage                            | Limitation                                       |
+| --------- | ------------------------------------ | ------------------------------------------------ |
+| Explicit  | Finds any term directly.             | May be harder to discover.                       |
 | Recursive | Often easy to describe from pattern. | To find a far term, earlier terms may be needed. |
 
 ### Example 3
@@ -1705,13 +1706,13 @@ At each stage:
 Using stage number \(n\), starting at Stage 0:
 
 | Stage \(n\) | Number of Black Triangles |
-|---:|---:|
-| 0 | \(1\) |
-| 1 | \(3\) |
-| 2 | \(9\) |
-| 3 | \(27\) |
-| 4 | \(81\) |
-| 5 | \(243\) |
+| ----------: | ------------------------: |
+|           0 |                     \(1\) |
+|           1 |                     \(3\) |
+|           2 |                     \(9\) |
+|           3 |                    \(27\) |
+|           4 |                    \(81\) |
+|           5 |                   \(243\) |
 
 Rule:
 
@@ -1737,14 +1738,14 @@ $$
 
 If Stage 0 area is \(1\), then:
 
-| Stage \(n\) | Black Area |
-|---:|---:|
-| 0 | \(1\) |
-| 1 | \(\frac{3}{4}\) |
-| 2 | \(\left(\frac{3}{4}\right)^2=\frac{9}{16}\) |
-| 3 | \(\left(\frac{3}{4}\right)^3=\frac{27}{64}\) |
-| 4 | \(\left(\frac{3}{4}\right)^4=\frac{81}{256}\) |
-| 5 | \(\left(\frac{3}{4}\right)^5=\frac{243}{1024}\) |
+| Stage \(n\) |                                      Black Area |
+| ----------: | ----------------------------------------------: |
+|           0 |                                           \(1\) |
+|           1 |                                 \(\frac{3}{4}\) |
+|           2 |     \(\left(\frac{3}{4}\right)^2=\frac{9}{16}\) |
+|           3 |    \(\left(\frac{3}{4}\right)^3=\frac{27}{64}\) |
+|           4 |   \(\left(\frac{3}{4}\right)^4=\frac{81}{256}\) |
+|           5 | \(\left(\frac{3}{4}\right)^5=\frac{243}{1024}\) |
 
 Rule:
 
@@ -2111,13 +2112,13 @@ At each stage:
 #### Number of Red Squares
 
 | Stage \(n\) | Number of Red Squares |
-|---:|---:|
-| 0 | \(1\) |
-| 1 | \(8\) |
-| 2 | \(64\) |
-| 3 | \(512\) |
-| 4 | \(4096\) |
-| 5 | \(32768\) |
+| ----------: | --------------------: |
+|           0 |                 \(1\) |
+|           1 |                 \(8\) |
+|           2 |                \(64\) |
+|           3 |               \(512\) |
+|           4 |              \(4096\) |
+|           5 |             \(32768\) |
 
 Explicit formula:
 
@@ -2137,14 +2138,14 @@ At each stage, \(8\) out of \(9\) equal parts are retained.
 
 If Stage 0 area is \(1\), then:
 
-| Stage \(n\) | Red Area |
-|---:|---:|
-| 0 | \(1\) |
-| 1 | \(\frac{8}{9}\) |
-| 2 | \(\left(\frac{8}{9}\right)^2=\frac{64}{81}\) |
-| 3 | \(\left(\frac{8}{9}\right)^3=\frac{512}{729}\) |
-| 4 | \(\left(\frac{8}{9}\right)^4=\frac{4096}{6561}\) |
-| 5 | \(\left(\frac{8}{9}\right)^5=\frac{32768}{59049}\) |
+| Stage \(n\) |                                           Red Area |
+| ----------: | -------------------------------------------------: |
+|           0 |                                              \(1\) |
+|           1 |                                    \(\frac{8}{9}\) |
+|           2 |       \(\left(\frac{8}{9}\right)^2=\frac{64}{81}\) |
+|           3 |     \(\left(\frac{8}{9}\right)^3=\frac{512}{729}\) |
+|           4 |   \(\left(\frac{8}{9}\right)^4=\frac{4096}{6561}\) |
+|           5 | \(\left(\frac{8}{9}\right)^5=\frac{32768}{59049}\) |
 
 Explicit formula:
 
@@ -2932,36 +2933,36 @@ $$
 
 ## Common Mistakes and Corrections
 
-| Mistake | Why It Is Wrong | Correct Thinking |
-|---|---|---|
-| Treating every pattern as an AP | Some patterns grow by multiplication or irregular rules. | Check differences first; if not constant, check ratios. |
-| Using \(t_n=an+d\) blindly | The AP formula is \(a+(n-1)d\), not always \(an+d\). | Identify first term and common difference carefully. |
-| Forgetting \(n-1\) in GP formula | First term is \(a\), not \(ar\). | Use \(t_n=ar^{n-1}\). |
-| Allowing fractional \(n\) as a term position | Term positions are natural numbers. | If solving gives non-natural \(n\), the number is not a term. |
-| Confusing explicit and recursive rules | Explicit uses \(n\); recursive uses previous terms. | Name the rule based on how it finds the term. |
-| Thinking equal differences and equal ratios are the same | AP adds; GP multiplies. | AP: constant difference. GP: constant ratio. |
-| Using AP sum formula without knowing number of terms | Sum needs \(n\). | Find \(n\) before summing. |
-| Mixing stage numbering in fractals | Some patterns start at Stage 0, not Stage 1. | State your indexing clearly. |
-| Assuming a decreasing sequence cannot be an AP | APs can have negative common difference. | Example: \(11,7,3,-1,\ldots\). |
-| Assuming a GP must increase | GPs can decrease if \(0<r<1\), alternate if \(r<0\). | Check the common ratio. |
+| Mistake                                                  | Why It Is Wrong                                          | Correct Thinking                                              |
+| -------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------- |
+| Treating every pattern as an AP                          | Some patterns grow by multiplication or irregular rules. | Check differences first; if not constant, check ratios.       |
+| Using \(t_n=an+d\) blindly                               | The AP formula is \(a+(n-1)d\), not always \(an+d\).     | Identify first term and common difference carefully.          |
+| Forgetting \(n-1\) in GP formula                         | First term is \(a\), not \(ar\).                         | Use \(t_n=ar^{n-1}\).                                         |
+| Allowing fractional \(n\) as a term position             | Term positions are natural numbers.                      | If solving gives non-natural \(n\), the number is not a term. |
+| Confusing explicit and recursive rules                   | Explicit uses \(n\); recursive uses previous terms.      | Name the rule based on how it finds the term.                 |
+| Thinking equal differences and equal ratios are the same | AP adds; GP multiplies.                                  | AP: constant difference. GP: constant ratio.                  |
+| Using AP sum formula without knowing number of terms     | Sum needs \(n\).                                         | Find \(n\) before summing.                                    |
+| Mixing stage numbering in fractals                       | Some patterns start at Stage 0, not Stage 1.             | State your indexing clearly.                                  |
+| Assuming a decreasing sequence cannot be an AP           | APs can have negative common difference.                 | Example: \(11,7,3,-1,\ldots\).                                |
+| Assuming a GP must increase                              | GPs can decrease if \(0<r<1\), alternate if \(r<0\).     | Check the common ratio.                                       |
 
 ---
 
 ## Concept Map
 
-| Concept | Leads To |
-|---|---|
-| Ordered list | Sequence |
-| Position notation | \(t_n\) |
-| Direct formula | Explicit rule |
-| Previous-term formula | Recursive rule |
-| Constant difference | Arithmetic progression |
-| AP graph | Straight line |
-| Natural-number sum | Triangular numbers and AP sums |
-| Constant ratio | Geometric progression |
-| Powers | GP nth terms |
-| Repeated geometric construction | Fractals and GPs |
-| Repeated doubling or multiplying | Growth models |
+| Concept                          | Leads To                       |
+| -------------------------------- | ------------------------------ |
+| Ordered list                     | Sequence                       |
+| Position notation                | \(t_n\)                        |
+| Direct formula                   | Explicit rule                  |
+| Previous-term formula            | Recursive rule                 |
+| Constant difference              | Arithmetic progression         |
+| AP graph                         | Straight line                  |
+| Natural-number sum               | Triangular numbers and AP sums |
+| Constant ratio                   | Geometric progression          |
+| Powers                           | GP nth terms                   |
+| Repeated geometric construction  | Fractals and GPs               |
+| Repeated doubling or multiplying | Growth models                  |
 
 ---
 
@@ -3168,4 +3169,4 @@ The most important distinction in this chapter is simple:
 
 ---
 
-*Source: NCERT Class 9 - Maths, Chapter 8 raw file. Learner-facing version manually rewritten from the extracted chapter content about sequences and progressions.*
+_Source: NCERT Class 9 - Maths, Chapter 8 raw file. Learner-facing version manually rewritten from the extracted chapter content about sequences and progressions._

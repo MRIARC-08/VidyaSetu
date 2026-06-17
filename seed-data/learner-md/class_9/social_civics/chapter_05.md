@@ -1,20 +1,21 @@
 # Chapter 5: Democratic Rights
+
 ### NCERT Class 9 — Social Civics
 
 ---
 
 ## 📌 Chapter at a Glance
 
-| Detail | Info |
-|---|---|
-| Chapter | 5 — Democratic Rights |
-| Class | Class 9 |
-| Subject | Social Civics |
-| Pilot Subject Family | Political Science |
-| Source File | `data/class_9/social_civics/chapter_05.md` |
-| Textbook Pages | 1 – 90 |
-| Raw Exercise Count | 12 |
-| Formatting Mode | Human-guided pilot for subject-specific automation |
+| Detail               | Info                                               |
+| -------------------- | -------------------------------------------------- |
+| Chapter              | 5 — Democratic Rights                              |
+| Class                | Class 9                                            |
+| Subject              | Social Civics                                      |
+| Pilot Subject Family | Political Science                                  |
+| Source File          | `data/class_9/social_civics/chapter_05.md`         |
+| Textbook Pages       | 1 – 90                                             |
+| Raw Exercise Count   | 12                                                 |
+| Formatting Mode      | Human-guided pilot for subject-specific automation |
 
 ---
 
@@ -23,58 +24,58 @@
 > [!NOTE]
 > Study this chapter through this route: **concept -> institution -> constitutional principle -> conflict/problem -> democratic resolution**.
 
-| Step | Learner Action | Why It Matters |
-|---|---|---|
-| 1 | Define every political concept in one precise sentence. | Builds reliable recall and answer quality. |
-| 2 | Connect concepts to examples from India and other countries. | Builds reliable recall and answer quality. |
-| 3 | Separate moral reasons from practical or prudential reasons. | Builds reliable recall and answer quality. |
-| 4 | Use flowcharts for institutions, levels of government, and power-sharing arrangements. | Builds reliable recall and answer quality. |
+| Step | Learner Action                                                                         | Why It Matters                             |
+| ---- | -------------------------------------------------------------------------------------- | ------------------------------------------ |
+| 1    | Define every political concept in one precise sentence.                                | Builds reliable recall and answer quality. |
+| 2    | Connect concepts to examples from India and other countries.                           | Builds reliable recall and answer quality. |
+| 3    | Separate moral reasons from practical or prudential reasons.                           | Builds reliable recall and answer quality. |
+| 4    | Use flowcharts for institutions, levels of government, and power-sharing arrangements. | Builds reliable recall and answer quality. |
 
 ---
 
 ## 🎯 Learning Outcomes
 
-| # | After studying this chapter, you should be able to... |
-|---|---|
-| 1 | define democratic and constitutional concepts precisely |
-| 2 | connect institutions and power arrangements with real examples |
-| 3 | distinguish moral, prudential, legal, and practical arguments |
-| 4 | explain the role of 'LIFE WITHOUT RIGHTS' in the chapter |
-| 5 | explain the role of 'RIGHTS IN A DEMOCRACY' in the chapter |
-| 6 | explain the role of 'RIGHTS IN THE INDIAN CONSTITUTION' in the chapter |
+| #   | After studying this chapter, you should be able to...                  |
+| --- | ---------------------------------------------------------------------- |
+| 1   | define democratic and constitutional concepts precisely                |
+| 2   | connect institutions and power arrangements with real examples         |
+| 3   | distinguish moral, prudential, legal, and practical arguments          |
+| 4   | explain the role of 'LIFE WITHOUT RIGHTS' in the chapter               |
+| 5   | explain the role of 'RIGHTS IN A DEMOCRACY' in the chapter             |
+| 6   | explain the role of 'RIGHTS IN THE INDIAN CONSTITUTION' in the chapter |
 
 ---
 
 ## 🗂️ Section Structure
 
-| Section | Title | Revision Focus |
-|---|---|---|
-| 5.1 | LIFE WITHOUT RIGHTS | Definition, explanation, examples, and likely questions |
-| 5.2 | RIGHTS IN A DEMOCRACY | Definition, explanation, examples, and likely questions |
-| 5.3 | RIGHTS IN THE INDIAN CONSTITUTION | Definition, explanation, examples, and likely questions |
-| 5.4 | EXPANDING SCOPE OF RIGHTS | Definition, explanation, examples, and likely questions |
+| Section | Title                             | Revision Focus                                          |
+| ------- | --------------------------------- | ------------------------------------------------------- |
+| 5.1     | LIFE WITHOUT RIGHTS               | Definition, explanation, examples, and likely questions |
+| 5.2     | RIGHTS IN A DEMOCRACY             | Definition, explanation, examples, and likely questions |
+| 5.3     | RIGHTS IN THE INDIAN CONSTITUTION | Definition, explanation, examples, and likely questions |
+| 5.4     | EXPANDING SCOPE OF RIGHTS         | Definition, explanation, examples, and likely questions |
 
 ---
 
 ## 🧠 Subject-Specific Study Method
 
-| Part | How to Use It |
-|---|---|
-| Core lens | concept -> institution -> constitutional principle -> conflict/problem -> democratic resolution |
-| First pass | Read for meaning and mark unfamiliar terms. |
-| Second pass | Convert definitions, examples, data, and activities into tables. |
-| Revision pass | Use the quick reference and practice tracker at the end. |
+| Part          | How to Use It                                                                                   |
+| ------------- | ----------------------------------------------------------------------------------------------- |
+| Core lens     | concept -> institution -> constitutional principle -> conflict/problem -> democratic resolution |
+| First pass    | Read for meaning and mark unfamiliar terms.                                                     |
+| Second pass   | Convert definitions, examples, data, and activities into tables.                                |
+| Revision pass | Use the quick reference and practice tracker at the end.                                        |
 
 ---
 
 ## 🧭 Concept, Evidence, and Example Board
 
-| Learning Need | How To Build It |
-|---|---|
-| Core concepts | Turn each definition into a one-line meaning and one example. |
-| Evidence | Use dates, places, maps, data, thinkers, laws, institutions, or case studies from the chapter. |
-| Comparison | Prepare tables for contrasts, causes, consequences, and viewpoints. |
-| Answer quality | Move from description to explanation to significance. |
+| Learning Need  | How To Build It                                                                                |
+| -------------- | ---------------------------------------------------------------------------------------------- |
+| Core concepts  | Turn each definition into a one-line meaning and one example.                                  |
+| Evidence       | Use dates, places, maps, data, thinkers, laws, institutions, or case studies from the chapter. |
+| Comparison     | Prepare tables for contrasts, causes, consequences, and viewpoints.                            |
+| Answer quality | Move from description to explanation to significance.                                          |
 
 ---
 
@@ -285,19 +286,19 @@ For each arrow, give an example that shows the linkage. In every chapter we have
 
 ## 🔑 Key Concepts & Definitions
 
-| Term | Learner-Friendly Meaning |
-|---|---|
-| **e begin by discussing some real life cases to imagine what it** | to live without rights |
-| **Let us now begin with three examples of what it** | to live in the absence of rights |
-| **This** | the rule of law |
-| **Equality** | giving everyone an equal opportunity to achieve whatever one is capable of |
-| **F o Fo F o Fo F r rr rree eeee eeee dom domdom domdom Freedom** | absence of constraints |
-| **In practical life it** | absence of interference in our affairs by others – be it other individuals or the government |
-| **That** | you cannot exercise your freedom in such a manner that violates others’ right to freedom |
-| **It also** | that a government or police officer cannot arrest or detain any citizen unless he has proper legal justification |
-| **Traffic here** | selling and buying of human beings, usually women, for immoral purposes |
-| **ight to compel another person to convert into his religion by** | of force, fraud, inducement or allurement |
-| **Sometimes the expansion takes place in what** | human rights |
+| Term                                                              | Learner-Friendly Meaning                                                                                         |
+| ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **e begin by discussing some real life cases to imagine what it** | to live without rights                                                                                           |
+| **Let us now begin with three examples of what it**               | to live in the absence of rights                                                                                 |
+| **This**                                                          | the rule of law                                                                                                  |
+| **Equality**                                                      | giving everyone an equal opportunity to achieve whatever one is capable of                                       |
+| **F o Fo F o Fo F r rr rree eeee eeee dom domdom domdom Freedom** | absence of constraints                                                                                           |
+| **In practical life it**                                          | absence of interference in our affairs by others – be it other individuals or the government                     |
+| **That**                                                          | you cannot exercise your freedom in such a manner that violates others’ right to freedom                         |
+| **It also**                                                       | that a government or police officer cannot arrest or detain any citizen unless he has proper legal justification |
+| **Traffic here**                                                  | selling and buying of human beings, usually women, for immoral purposes                                          |
+| **ight to compel another person to convert into his religion by** | of force, fraud, inducement or allurement                                                                        |
+| **Sometimes the expansion takes place in what**                   | human rights                                                                                                     |
 
 ---
 
@@ -310,68 +311,68 @@ For each arrow, give an example that shows the linkage. In every chapter we have
 
 ## 🔬 Activities, Projects, and Inquiry Prompts
 
-| # | Prompt | Learner Task |
-|---|---|---|
-| 1 | ACTIVITY | Observe, discuss, collect evidence, or write a short response. |
+| #   | Prompt   | Learner Task                                                   |
+| --- | -------- | -------------------------------------------------------------- |
+| 1   | ACTIVITY | Observe, discuss, collect evidence, or write a short response. |
 
 ---
 
 ## ✏️ Practice & Exercise Tracker
 
-| Q | Question / Task | Answer Strategy |
-|---|---|---|
-| 1 | 110023. There is no fee or anyformal procedure to approach the NHRC. Like NHRC, there are State Human Rights Commissions in all the 28 states of the country. For more details, visit http:/ /www.nhrc.nic.in Many cases of human rights violations in diverse fields are being brought to the public notice from across India. Human rights organisations and the media often criticise government agencies for not seriously pursuing these cases or catching the culprits. Someone had to intervene on behalf of the victims. This is where the National Human Rights Commission stepped in. This is an independent commission set up by law in 1993. Like judiciary, the Commission is independent of the government. The Commission is appointed by the President and includes retired judges, officers and eminent citizens. Yet it does not have the burden of deciding court cases. So it can focus on helping the victims secure their human rights. These include all the rights granted to the citizens by the Constitution. For NHRC human rights also include the rights mentioned in the UN sponsored international treaties that India has signed. The NHRC cannot by itself punish the guilty. That is the responsibility of courts. The NHRC is there to make independent and credible inquiry Reprint 2025-26 | Identify command word, recall concept, structure answer, then review. |
+| Q   | Question / Task                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Answer Strategy                                                       |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| 1   | 110023. There is no fee or anyformal procedure to approach the NHRC. Like NHRC, there are State Human Rights Commissions in all the 28 states of the country. For more details, visit http:/ /www.nhrc.nic.in Many cases of human rights violations in diverse fields are being brought to the public notice from across India. Human rights organisations and the media often criticise government agencies for not seriously pursuing these cases or catching the culprits. Someone had to intervene on behalf of the victims. This is where the National Human Rights Commission stepped in. This is an independent commission set up by law in 1993. Like judiciary, the Commission is independent of the government. The Commission is appointed by the President and includes retired judges, officers and eminent citizens. Yet it does not have the burden of deciding court cases. So it can focus on helping the victims secure their human rights. These include all the rights granted to the citizens by the Constitution. For NHRC human rights also include the rights mentioned in the UN sponsored international treaties that India has signed. The NHRC cannot by itself punish the guilty. That is the responsibility of courts. The NHRC is there to make independent and credible inquiry Reprint 2025-26 | Identify command word, recall concept, structure answer, then review. |
 
 ---
 
 ## 🧩 Answer-Writing Framework
 
-| Step | What To Do |
-|---|---|
-| 1 | Define the political idea. |
-| 2 | Explain why it matters in democracy. |
-| 3 | Give one institutional mechanism or constitutional provision. |
-| 4 | Use one example. |
-| 5 | Conclude with its effect on citizens or governance. |
+| Step | What To Do                                                    |
+| ---- | ------------------------------------------------------------- |
+| 1    | Define the political idea.                                    |
+| 2    | Explain why it matters in democracy.                          |
+| 3    | Give one institutional mechanism or constitutional provision. |
+| 4    | Use one example.                                              |
+| 5    | Conclude with its effect on citizens or governance.           |
 
 ---
 
 ## ⚠️ Common Misconceptions
 
-| # | Watch Out For This |
-|---|---|
-| 1 | Democracy is not only elections; it includes participation and accountability. |
-| 2 | Majority rule and majoritarianism are not the same. |
-| 3 | Institutions matter because they distribute and limit power. |
+| #   | Watch Out For This                                                             |
+| --- | ------------------------------------------------------------------------------ |
+| 1   | Democracy is not only elections; it includes participation and accountability. |
+| 2   | Majority rule and majoritarianism are not the same.                            |
+| 3   | Institutions matter because they distribute and limit power.                   |
 
 ---
 
 ## 📋 Quick Revision Sheet
 
-| Revision Item | What To Recall |
-|---|---|
-| Chapter core | Democratic Rights |
-| 5.1 | LIFE WITHOUT RIGHTS |
-| 5.2 | RIGHTS IN A DEMOCRACY |
-| 5.3 | RIGHTS IN THE INDIAN CONSTITUTION |
-| 5.4 | EXPANDING SCOPE OF RIGHTS |
-| Definition | e begin by discussing some real life cases to imagine what it |
-| Definition | Let us now begin with three examples of what it |
-| Definition | This |
-| Definition | Equality |
-| Definition | F o Fo F o Fo F r rr rree eeee eeee dom domdom domdom Freedom |
+| Revision Item | What To Recall                                                |
+| ------------- | ------------------------------------------------------------- |
+| Chapter core  | Democratic Rights                                             |
+| 5.1           | LIFE WITHOUT RIGHTS                                           |
+| 5.2           | RIGHTS IN A DEMOCRACY                                         |
+| 5.3           | RIGHTS IN THE INDIAN CONSTITUTION                             |
+| 5.4           | EXPANDING SCOPE OF RIGHTS                                     |
+| Definition    | e begin by discussing some real life cases to imagine what it |
+| Definition    | Let us now begin with three examples of what it               |
+| Definition    | This                                                          |
+| Definition    | Equality                                                      |
+| Definition    | F o Fo F o Fo F r rr rree eeee eeee dom domdom domdom Freedom |
 
 ---
 
 ## ✅ Pilot Quality Checklist
 
-| Check | Status |
-|---|---|
-| Raw data preserved | Yes — chapter content is retained and cleaned, not summarised away. |
-| Learner scaffolding added | Yes — roadmap, outcomes, answer framework, misconceptions, and revision sheet. |
-| Subject-aware structure | Yes — generated from the selected subject family profile. |
-| Needs human review | Yes — especially source extraction mismatches, diagrams, tables, formulas, and broken OCR words. |
+| Check                     | Status                                                                                           |
+| ------------------------- | ------------------------------------------------------------------------------------------------ |
+| Raw data preserved        | Yes — chapter content is retained and cleaned, not summarised away.                              |
+| Learner scaffolding added | Yes — roadmap, outcomes, answer framework, misconceptions, and revision sheet.                   |
+| Subject-aware structure   | Yes — generated from the selected subject family profile.                                        |
+| Needs human review        | Yes — especially source extraction mismatches, diagrams, tables, formulas, and broken OCR words. |
 
 ---
 
-*Source: NCERT Class 9 — Social Civics, Chapter 5. Raw file: `data/class_9/social_civics/chapter_05.md`.*
+_Source: NCERT Class 9 — Social Civics, Chapter 5. Raw file: `data/class_9/social_civics/chapter_05.md`._

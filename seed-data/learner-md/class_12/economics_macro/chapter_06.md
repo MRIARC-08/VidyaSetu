@@ -1,4 +1,5 @@
 # Chapter 6: Open Economy Macroeconomics
+
 ### NCERT Class 12 - Economics Macro
 
 ## Chapter at a Glance
@@ -26,29 +27,29 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Open economy | Economy that has transactions with rest of world. |
+| Term                | Meaning                                                        |
+| ------------------- | -------------------------------------------------------------- |
+| Open economy        | Economy that has transactions with rest of world.              |
 | Balance of payments | Systematic record of economic transactions with rest of world. |
-| Current account | Records trade in goods, services, income, and transfers. |
-| Capital account | Records capital flows and asset-liability changes. |
-| Foreign exchange | Foreign currency and claims payable in foreign currency. |
-| Exchange rate | Price of one currency in terms of another. |
-| Depreciation | Fall in value of domestic currency under flexible rate. |
-| Appreciation | Rise in value of domestic currency under flexible rate. |
-| Devaluation | Official fall in currency value under fixed rate. |
-| Revaluation | Official rise in currency value under fixed rate. |
+| Current account     | Records trade in goods, services, income, and transfers.       |
+| Capital account     | Records capital flows and asset-liability changes.             |
+| Foreign exchange    | Foreign currency and claims payable in foreign currency.       |
+| Exchange rate       | Price of one currency in terms of another.                     |
+| Depreciation        | Fall in value of domestic currency under flexible rate.        |
+| Appreciation        | Rise in value of domestic currency under flexible rate.        |
+| Devaluation         | Official fall in currency value under fixed rate.              |
+| Revaluation         | Official rise in currency value under fixed rate.              |
 
 ## Quick Learning Map
 
-| Area | Core idea |
-|---|---|
-| Balance of payments | Records all external transactions |
-| Current account | Goods, services, income, transfers |
-| Capital account | Loans, investments, banking capital |
-| Forex demand | Imports, foreign travel, foreign investment |
-| Forex supply | Exports, remittances, foreign investment inflow |
-| Exchange rate | Determined by demand and supply under flexible system |
+| Area                | Core idea                                             |
+| ------------------- | ----------------------------------------------------- |
+| Balance of payments | Records all external transactions                     |
+| Current account     | Goods, services, income, transfers                    |
+| Capital account     | Loans, investments, banking capital                   |
+| Forex demand        | Imports, foreign travel, foreign investment           |
+| Forex supply        | Exports, remittances, foreign investment inflow       |
+| Exchange rate       | Determined by demand and supply under flexible system |
 
 # Unit 6A: Meaning of Open Economy
 
@@ -71,10 +72,10 @@ BoP uses double-entry bookkeeping. Every transaction has a credit entry and a de
 
 ## Credit and Debit
 
-| Entry | Meaning | Example |
-|---|---|---|
+| Entry  | Meaning                 | Example         |
+| ------ | ----------------------- | --------------- |
 | Credit | Brings foreign exchange | Export of goods |
-| Debit | Uses foreign exchange | Import of goods |
+| Debit  | Uses foreign exchange   | Import of goods |
 
 # Unit 6C: Current Account
 
@@ -87,12 +88,12 @@ Current account records transactions that do not create future asset or liabilit
 
 ## Components
 
-| Component | Examples |
-|---|---|
-| Goods | Merchandise exports and imports |
-| Services | Tourism, transport, insurance, software |
-| Income | Interest, profit, dividend, wages |
-| Transfers | Remittances, gifts, grants |
+| Component | Examples                                |
+| --------- | --------------------------------------- |
+| Goods     | Merchandise exports and imports         |
+| Services  | Tourism, transport, insurance, software |
+| Income    | Interest, profit, dividend, wages       |
+| Transfers | Remittances, gifts, grants              |
 
 ## Trade Balance
 
@@ -208,11 +209,11 @@ Revaluation is official increase in currency value under fixed exchange rate.
 
 # Unit 6K: Fixed, Flexible, and Managed Exchange Rates
 
-| System | Meaning |
-|---|---|
-| Fixed exchange rate | Government or central bank fixes exchange rate. |
-| Flexible exchange rate | Market demand and supply determine exchange rate. |
-| Managed floating | Market determines rate, but central bank intervenes to reduce volatility. |
+| System                 | Meaning                                                                   |
+| ---------------------- | ------------------------------------------------------------------------- |
+| Fixed exchange rate    | Government or central bank fixes exchange rate.                           |
+| Flexible exchange rate | Market demand and supply determine exchange rate.                         |
+| Managed floating       | Market determines rate, but central bank intervenes to reduce volatility. |
 
 Managed floating is common because completely fixed and completely free systems both have limitations.
 
@@ -245,28 +246,28 @@ It can be financed by capital inflows, borrowing, or use of foreign exchange res
 
 # Unit 6N: BoP Classification Toolkit
 
-| Transaction | Account | Credit or debit idea |
-|---|---|---|
-| Export of goods | Current account | Credit |
-| Import of goods | Current account | Debit |
-| Software service export | Current account | Credit |
-| Indian tourist spends abroad | Current account | Debit |
-| Remittance received | Current account | Credit |
-| Foreign investment in India | Capital account | Credit |
-| Indian investment abroad | Capital account | Debit |
-| External loan received | Capital account | Credit |
-| Repayment of foreign loan | Capital account | Debit |
+| Transaction                  | Account         | Credit or debit idea |
+| ---------------------------- | --------------- | -------------------- |
+| Export of goods              | Current account | Credit               |
+| Import of goods              | Current account | Debit                |
+| Software service export      | Current account | Credit               |
+| Indian tourist spends abroad | Current account | Debit                |
+| Remittance received          | Current account | Credit               |
+| Foreign investment in India  | Capital account | Credit               |
+| Indian investment abroad     | Capital account | Debit                |
+| External loan received       | Capital account | Credit               |
+| Repayment of foreign loan    | Capital account | Debit                |
 
 # Unit 6O: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Saying BoP and trade balance are same | Trade balance covers goods only; BoP covers all external transactions. |
-| Confusing current and capital account | Current records goods, services, income, transfers; capital records asset-liability flows. |
-| Misreading rupee-dollar change | If more rupees are needed per dollar, rupee depreciates. |
-| Using devaluation for market-driven fall | Market-driven fall is depreciation; official fixed-rate fall is devaluation. |
-| Saying BoP never has problems because it always balances | Accounting balance differs from economic imbalance in autonomous transactions. |
-| Treating imports as credit | Imports use foreign exchange and are debit entries. |
+| Mistake                                                  | Correction                                                                                 |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| Saying BoP and trade balance are same                    | Trade balance covers goods only; BoP covers all external transactions.                     |
+| Confusing current and capital account                    | Current records goods, services, income, transfers; capital records asset-liability flows. |
+| Misreading rupee-dollar change                           | If more rupees are needed per dollar, rupee depreciates.                                   |
+| Using devaluation for market-driven fall                 | Market-driven fall is depreciation; official fixed-rate fall is devaluation.               |
+| Saying BoP never has problems because it always balances | Accounting balance differs from economic imbalance in autonomous transactions.             |
+| Treating imports as credit                               | Imports use foreign exchange and are debit entries.                                        |
 
 ## Practice Set
 

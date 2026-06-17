@@ -1,4 +1,5 @@
 # Chapter 5: The Ailing Planet: The Green Movement's Role
+
 ### NCERT Class 11 English Hornbill
 
 ---
@@ -30,14 +31,14 @@ After studying this chapter, you should be able to:
 
 ## 1. Chapter Snapshot
 
-| Element | Details |
-|---|---|
-| Text type | Expository and argumentative prose |
-| Writer | Nani Palkhivala |
-| Main concern | Environmental decline and human responsibility |
-| Tone | Serious, urgent, reflective, persuasive |
-| Main themes | Ecology, sustainability, responsibility, population, future generations |
-| Key idea | The earth is not property inherited from the past; it is a trust held for the future |
+| Element      | Details                                                                              |
+| ------------ | ------------------------------------------------------------------------------------ |
+| Text type    | Expository and argumentative prose                                                   |
+| Writer       | Nani Palkhivala                                                                      |
+| Main concern | Environmental decline and human responsibility                                       |
+| Tone         | Serious, urgent, reflective, persuasive                                              |
+| Main themes  | Ecology, sustainability, responsibility, population, future generations              |
+| Key idea     | The earth is not property inherited from the past; it is a trust held for the future |
 
 ---
 
@@ -79,11 +80,11 @@ Use resources, but do not exhaust or damage them so badly that future people suf
 
 ### Example
 
-| Unsustainable action | Sustainable alternative |
-|---|---|
-| Cutting forests without replanting | Planned forestry and replanting |
-| Overfishing | Fishing limits and breeding protection |
-| Excessive pollution | Cleaner production and waste control |
+| Unsustainable action                   | Sustainable alternative                   |
+| -------------------------------------- | ----------------------------------------- |
+| Cutting forests without replanting     | Planned forestry and replanting           |
+| Overfishing                            | Fishing limits and breeding protection    |
+| Excessive pollution                    | Cleaner production and waste control      |
 | Using soil without restoring fertility | Soil conservation and natural fertilisers |
 
 Sustainability asks us to balance present development with future survival.
@@ -96,12 +97,12 @@ The chapter presents the earth as an interconnected living system. Human beings 
 
 This is called a holistic and ecological view.
 
-| Old view | Ecological view |
-|---|---|
-| Nature is separate from humans | Humans are part of nature |
-| Earth is a storehouse of resources | Earth is a living life-support system |
-| Development means extraction | Development must include renewal and balance |
-| Present needs dominate | Future generations matter too |
+| Old view                           | Ecological view                              |
+| ---------------------------------- | -------------------------------------------- |
+| Nature is separate from humans     | Humans are part of nature                    |
+| Earth is a storehouse of resources | Earth is a living life-support system        |
+| Development means extraction       | Development must include renewal and balance |
+| Present needs dominate             | Future generations matter too                |
 
 The ecological view is important because damage to one part of the system affects the whole.
 
@@ -120,12 +121,12 @@ These systems provide food and raw materials. If they are damaged, the economic 
 
 ### Threat Map
 
-| Biological system | Threat | Consequence |
-|---|---|---|
-| Fisheries | Overfishing | Decline in fish supply |
-| Forests | Deforestation | Soil erosion, loss of biodiversity, climate impact |
-| Grasslands | Overgrazing | Land degradation and desertification |
-| Croplands | Overuse and poor practices | Reduced fertility and food insecurity |
+| Biological system | Threat                     | Consequence                                        |
+| ----------------- | -------------------------- | -------------------------------------------------- |
+| Fisheries         | Overfishing                | Decline in fish supply                             |
+| Forests           | Deforestation              | Soil erosion, loss of biodiversity, climate impact |
+| Grasslands        | Overgrazing                | Land degradation and desertification               |
+| Croplands         | Overuse and poor practices | Reduced fertility and food insecurity              |
 
 ---
 
@@ -197,32 +198,32 @@ The chapter repeatedly connects ecology with ethics.
 
 ## 11. Important Vocabulary and Expressions
 
-| Expression | Learner meaning |
-|---|---|
-| Holistic view | Seeing the whole system, not isolated parts |
-| Ecological view | Understanding relationships between living beings and environment |
-| Inter alia | Among other things |
-| Sustainable development | Development that protects future needs |
-| Decimated | Greatly reduced or destroyed |
-| Languish | Remain weak, neglected, or in decline |
-| Catastrophic depletion | Extremely serious reduction |
-| Ignominious darkness | Shameful state of ignorance or failure |
-| Transcending concern | Concern that goes beyond narrow boundaries |
-| Patrimony | Inherited wealth or heritage |
-| Scorched planet | Severely damaged earth |
+| Expression              | Learner meaning                                                   |
+| ----------------------- | ----------------------------------------------------------------- |
+| Holistic view           | Seeing the whole system, not isolated parts                       |
+| Ecological view         | Understanding relationships between living beings and environment |
+| Inter alia              | Among other things                                                |
+| Sustainable development | Development that protects future needs                            |
+| Decimated               | Greatly reduced or destroyed                                      |
+| Languish                | Remain weak, neglected, or in decline                             |
+| Catastrophic depletion  | Extremely serious reduction                                       |
+| Ignominious darkness    | Shameful state of ignorance or failure                            |
+| Transcending concern    | Concern that goes beyond narrow boundaries                        |
+| Patrimony               | Inherited wealth or heritage                                      |
+| Scorched planet         | Severely damaged earth                                            |
 
 ---
 
 ## 12. Theme Board
 
-| Theme | Explanation |
-|---|---|
-| Environmental responsibility | Humans must protect earth's life systems |
-| Sustainable development | Progress must not destroy future resources |
-| Interdependence | Human life depends on natural systems |
-| Population pressure | Population growth increases ecological strain |
-| Industrial accountability | Business must respect environmental limits |
-| Future generations | The earth must be preserved for those yet to come |
+| Theme                        | Explanation                                       |
+| ---------------------------- | ------------------------------------------------- |
+| Environmental responsibility | Humans must protect earth's life systems          |
+| Sustainable development      | Progress must not destroy future resources        |
+| Interdependence              | Human life depends on natural systems             |
+| Population pressure          | Population growth increases ecological strain     |
+| Industrial accountability    | Business must respect environmental limits        |
+| Future generations           | The earth must be preserved for those yet to come |
 
 ---
 

@@ -901,17 +901,17 @@ $$
 
 ## 15. Permutation Or Combination: Decision Table
 
-| Situation | Does order matter? | Use |
-|---|---:|---|
-| Seating people in a row | Yes | Permutation |
-| Making a number from digits | Yes | Permutation or multiplication |
-| Assigning chairman and vice chairman | Yes | Permutation |
-| Selecting a committee | No | Combination |
-| Choosing cards | No | Combination |
-| Arranging letters of a word | Yes | Permutation |
-| Selecting letters before arranging them | Selection first, then arrangement | Combination and permutation |
-| Drawing a chord between two points | No | Combination |
-| Choosing team members | No | Combination |
+| Situation                               |                Does order matter? | Use                           |
+| --------------------------------------- | --------------------------------: | ----------------------------- |
+| Seating people in a row                 |                               Yes | Permutation                   |
+| Making a number from digits             |                               Yes | Permutation or multiplication |
+| Assigning chairman and vice chairman    |                               Yes | Permutation                   |
+| Selecting a committee                   |                                No | Combination                   |
+| Choosing cards                          |                                No | Combination                   |
+| Arranging letters of a word             |                               Yes | Permutation                   |
+| Selecting letters before arranging them | Selection first, then arrangement | Combination and permutation   |
+| Drawing a chord between two points      |                                No | Combination                   |
+| Choosing team members                   |                                No | Combination                   |
 
 ## 16. Solved Examples
 

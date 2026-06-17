@@ -41,69 +41,69 @@ After studying this chapter, you should be able to:
 
 ## Chapter Snapshot
 
-| Area | What To Remember |
-|---|---|
-| Main focus | Displacement of indigenous peoples in America and Australia |
-| Larger context | Modernisation, capitalism, colonisation, settler colonies |
-| Key contrast | Land as sacred relationship versus land as saleable property |
-| North America | Native communities displaced by European settlers, farms, railways, mining, and state expansion |
-| Australia | Aboriginal peoples and Torres Strait Islanders displaced under British settlement |
-| Important idea | Frontier as expansion for settlers, contraction for native peoples |
-| Key injustice | Native peoples denied full citizenship and land rights |
-| Major US event | Trail of Tears |
-| Major US law | Indian Reorganisation Act, 1934 |
-| Major Canadian change | Constitution Act, 1982 recognised aboriginal and treaty rights |
-| Major Australian doctrine | Terra nullius |
-| Major Australian decision | Mabo case, 1992 |
-| Major memory issue | Histories written as if settlement began with European discovery |
+| Area                      | What To Remember                                                                                |
+| ------------------------- | ----------------------------------------------------------------------------------------------- |
+| Main focus                | Displacement of indigenous peoples in America and Australia                                     |
+| Larger context            | Modernisation, capitalism, colonisation, settler colonies                                       |
+| Key contrast              | Land as sacred relationship versus land as saleable property                                    |
+| North America             | Native communities displaced by European settlers, farms, railways, mining, and state expansion |
+| Australia                 | Aboriginal peoples and Torres Strait Islanders displaced under British settlement               |
+| Important idea            | Frontier as expansion for settlers, contraction for native peoples                              |
+| Key injustice             | Native peoples denied full citizenship and land rights                                          |
+| Major US event            | Trail of Tears                                                                                  |
+| Major US law              | Indian Reorganisation Act, 1934                                                                 |
+| Major Canadian change     | Constitution Act, 1982 recognised aboriginal and treaty rights                                  |
+| Major Australian doctrine | Terra nullius                                                                                   |
+| Major Australian decision | Mabo case, 1992                                                                                 |
+| Major memory issue        | Histories written as if settlement began with European discovery                                |
 
 ## Big Picture Timeline
 
-| Date Or Period | Event Or Process |
-|---|---|
-| Over 30,000 years ago | Earliest inhabitants of North America reach the continent from Asia |
-| c. 10,000 years ago | People move further south during the last Ice Age |
-| Over 40,000 years ago | Aboriginal peoples begin living in Australia, possibly earlier |
-| 1497 | John Cabot reaches Newfoundland |
-| 1507 | Amerigo Vespucci's travels help popularise the name America |
-| 1534 | Jacques Cartier travels along the St Lawrence river |
-| 1606 | Dutch travellers sight Australia |
-| 1607 | British found Virginia |
-| 1608 | French found Quebec |
-| 1620 | British found Plymouth in Massachusetts |
-| 1642 | Tasman reaches the island later called Tasmania |
-| 1701 | French treaty with natives of Quebec |
-| 1763 | British conquer Quebec |
-| 1770 | James Cook reaches Botany Bay |
-| 1776 to 1781 | American Revolution |
-| 1781 | Britain recognises United States independence |
-| 1788 | British penal colony formed in Australia; Sydney founded |
-| 1803 | Louisiana purchased from France |
-| 1825 to 1858 | Native peoples in the USA moved to reserves |
-| 1832 | John Marshall's Cherokee judgment |
-| 1838 | Trail of Tears |
-| 1849 | California Gold Rush |
-| 1850 | Self-government granted to Australian colonies |
-| 1861 to 1865 | American Civil War |
-| 1865 to 1890 | American Indian Wars |
-| 1867 | Confederation of Canada |
-| 1870 | United States transcontinental railway completed |
-| 1876 | Canada Indian Act |
-| 1885 | Canadian transcontinental railway completed |
-| 1890 | Bison nearly exterminated in America |
-| 1892 | United States continental frontier declared ended |
-| 1901 | Federation of Australia |
-| 1911 | Canberra established as Australian capital |
-| 1928 | Lewis Meriam survey exposes poor native reservation conditions |
-| 1934 | Indian Reorganisation Act in the USA |
-| 1954 | Declaration of Indian Rights |
-| 1968 | W.E.H. Stanner speaks of the Great Australian Silence |
-| 1969 | Canadian government says it will not recognise aboriginal rights |
-| 1974 | White Australia policy ends |
-| 1982 | Canadian Constitution Act accepts existing aboriginal and treaty rights |
-| 1992 | Mabo case rejects terra nullius |
-| 1995 | National inquiry into separation of Aboriginal and Torres Strait Islander children |
-| 1999 | National Sorry Day in Australia |
+| Date Or Period        | Event Or Process                                                                   |
+| --------------------- | ---------------------------------------------------------------------------------- |
+| Over 30,000 years ago | Earliest inhabitants of North America reach the continent from Asia                |
+| c. 10,000 years ago   | People move further south during the last Ice Age                                  |
+| Over 40,000 years ago | Aboriginal peoples begin living in Australia, possibly earlier                     |
+| 1497                  | John Cabot reaches Newfoundland                                                    |
+| 1507                  | Amerigo Vespucci's travels help popularise the name America                        |
+| 1534                  | Jacques Cartier travels along the St Lawrence river                                |
+| 1606                  | Dutch travellers sight Australia                                                   |
+| 1607                  | British found Virginia                                                             |
+| 1608                  | French found Quebec                                                                |
+| 1620                  | British found Plymouth in Massachusetts                                            |
+| 1642                  | Tasman reaches the island later called Tasmania                                    |
+| 1701                  | French treaty with natives of Quebec                                               |
+| 1763                  | British conquer Quebec                                                             |
+| 1770                  | James Cook reaches Botany Bay                                                      |
+| 1776 to 1781          | American Revolution                                                                |
+| 1781                  | Britain recognises United States independence                                      |
+| 1788                  | British penal colony formed in Australia; Sydney founded                           |
+| 1803                  | Louisiana purchased from France                                                    |
+| 1825 to 1858          | Native peoples in the USA moved to reserves                                        |
+| 1832                  | John Marshall's Cherokee judgment                                                  |
+| 1838                  | Trail of Tears                                                                     |
+| 1849                  | California Gold Rush                                                               |
+| 1850                  | Self-government granted to Australian colonies                                     |
+| 1861 to 1865          | American Civil War                                                                 |
+| 1865 to 1890          | American Indian Wars                                                               |
+| 1867                  | Confederation of Canada                                                            |
+| 1870                  | United States transcontinental railway completed                                   |
+| 1876                  | Canada Indian Act                                                                  |
+| 1885                  | Canadian transcontinental railway completed                                        |
+| 1890                  | Bison nearly exterminated in America                                               |
+| 1892                  | United States continental frontier declared ended                                  |
+| 1901                  | Federation of Australia                                                            |
+| 1911                  | Canberra established as Australian capital                                         |
+| 1928                  | Lewis Meriam survey exposes poor native reservation conditions                     |
+| 1934                  | Indian Reorganisation Act in the USA                                               |
+| 1954                  | Declaration of Indian Rights                                                       |
+| 1968                  | W.E.H. Stanner speaks of the Great Australian Silence                              |
+| 1969                  | Canadian government says it will not recognise aboriginal rights                   |
+| 1974                  | White Australia policy ends                                                        |
+| 1982                  | Canadian Constitution Act accepts existing aboriginal and treaty rights            |
+| 1992                  | Mabo case rejects terra nullius                                                    |
+| 1995                  | National inquiry into separation of Aboriginal and Torres Strait Islander children |
+| 1999                  | National Sorry Day in Australia                                                    |
 
 ## How To Read This Chapter
 
@@ -213,13 +213,13 @@ But forms of control differed by region.
 
 ### Types Of Colonial Control
 
-| Region | Pattern |
-|---|---|
-| South Asia | Trading companies became political powers |
-| Africa | Coastal trade first, later interior colonisation |
-| South Africa | Settler colony pattern |
-| North America | Settler expansion and state formation |
-| Australia | Settler colony and penal settlement |
+| Region        | Pattern                                          |
+| ------------- | ------------------------------------------------ |
+| South Asia    | Trading companies became political powers        |
+| Africa        | Coastal trade first, later interior colonisation |
+| South Africa  | Settler colony pattern                           |
+| North America | Settler expansion and state formation            |
+| Australia     | Settler colony and penal settlement              |
 
 ## 7. Naming The New World
 
@@ -640,11 +640,11 @@ Together, Aboriginal peoples and Torres Strait Islanders form a small percentage
 
 Important events include:
 
-| Date | Event |
-|---|---|
-| 1606 | Dutch travellers sight Australia |
-| 1642 | Tasman lands on island later named Tasmania |
-| 1770 | James Cook reaches Botany Bay |
+| Date | Event                                          |
+| ---- | ---------------------------------------------- |
+| 1606 | Dutch travellers sight Australia               |
+| 1642 | Tasman lands on island later named Tasmania    |
+| 1770 | James Cook reaches Botany Bay                  |
 | 1788 | British penal colony formed and Sydney founded |
 
 British settlement in Australia began nearly three centuries after the first major European encounters in the Americas.
@@ -764,14 +764,14 @@ On 26 May 1999, National Sorry Day was observed as a public apology for the chil
 
 The chapter repeatedly contrasts European and indigenous ideas.
 
-| European Settler View | Indigenous View |
-|---|---|
-| Land is property | Land is sacred relationship |
-| Nature can be commodified | Nature is part of community and memory |
-| Farming for profit shows progress | Taking only what is needed can be responsible |
-| Written documents prove ownership | Oral memory and sacred connection carry meaning |
-| Market production shows civilisation | Community, gift, and ecological knowledge matter |
-| Empty land means land not farmed in European ways | Land can be used without private ownership |
+| European Settler View                             | Indigenous View                                  |
+| ------------------------------------------------- | ------------------------------------------------ |
+| Land is property                                  | Land is sacred relationship                      |
+| Nature can be commodified                         | Nature is part of community and memory           |
+| Farming for profit shows progress                 | Taking only what is needed can be responsible    |
+| Written documents prove ownership                 | Oral memory and sacred connection carry meaning  |
+| Market production shows civilisation              | Community, gift, and ecological knowledge matter |
+| Empty land means land not farmed in European ways | Land can be used without private ownership       |
 
 ## 47. Capitalism And Mainstream Culture
 
@@ -787,140 +787,140 @@ This is a central political issue.
 
 ## 48. Key Terms
 
-| Term | Meaning |
-|---|---|
-| Indigenous peoples | Peoples belonging naturally and historically to a place |
-| Native American | Indigenous peoples of the Americas |
-| First Nations | Organised native groups recognised in Canada |
-| Aboriginal peoples | Indigenous peoples of Australia |
-| Torres Strait Islanders | Indigenous peoples of the Torres Strait region |
-| Settler colony | Colony where immigrants settle permanently and become dominant |
-| Imperialism | Domination of one country or people by another |
-| Colony | Territory controlled by an outside power |
-| Frontier | Moving boundary of settler expansion |
-| Reservation | Land area where native peoples were confined |
-| Trail of Tears | Forced removal of Cherokee people, causing many deaths |
-| Anthropology | Study of human societies and cultures |
-| Oral history | History preserved through spoken accounts and memory |
-| Gold Rush | Rapid migration after gold discoveries |
-| Terra nullius | Doctrine that land belonged to nobody |
-| White Australia policy | Policy excluding non-white immigrants |
-| Multiculturalism | Policy giving respect to multiple cultures |
-| Mabo case | 1992 case rejecting terra nullius in Australia |
-| Stolen Generations | Aboriginal and Torres Strait Islander children forcibly separated from families |
-| National Sorry Day | Australian day of apology for separated children |
+| Term                    | Meaning                                                                         |
+| ----------------------- | ------------------------------------------------------------------------------- |
+| Indigenous peoples      | Peoples belonging naturally and historically to a place                         |
+| Native American         | Indigenous peoples of the Americas                                              |
+| First Nations           | Organised native groups recognised in Canada                                    |
+| Aboriginal peoples      | Indigenous peoples of Australia                                                 |
+| Torres Strait Islanders | Indigenous peoples of the Torres Strait region                                  |
+| Settler colony          | Colony where immigrants settle permanently and become dominant                  |
+| Imperialism             | Domination of one country or people by another                                  |
+| Colony                  | Territory controlled by an outside power                                        |
+| Frontier                | Moving boundary of settler expansion                                            |
+| Reservation             | Land area where native peoples were confined                                    |
+| Trail of Tears          | Forced removal of Cherokee people, causing many deaths                          |
+| Anthropology            | Study of human societies and cultures                                           |
+| Oral history            | History preserved through spoken accounts and memory                            |
+| Gold Rush               | Rapid migration after gold discoveries                                          |
+| Terra nullius           | Doctrine that land belonged to nobody                                           |
+| White Australia policy  | Policy excluding non-white immigrants                                           |
+| Multiculturalism        | Policy giving respect to multiple cultures                                      |
+| Mabo case               | 1992 case rejecting terra nullius in Australia                                  |
+| Stolen Generations      | Aboriginal and Torres Strait Islander children forcibly separated from families |
+| National Sorry Day      | Australian day of apology for separated children                                |
 
 ## 49. Major People And Groups
 
-| Person Or Group | Importance |
-|---|---|
-| Native American communities | Indigenous peoples displaced by settler expansion |
-| First Nations peoples | Indigenous groups in Canada |
-| Cherokee | Native people forced along the Trail of Tears |
-| John Marshall | US Chief Justice who recognised Cherokee distinct community status |
-| Andrew Jackson | US President who ignored the Cherokee judgment |
-| Metis | People of mixed native and European descent who resisted in Canada |
-| Chief Seattle | Native leader associated with sacred land response |
-| Lewis Meriam | Directed 1928 survey on reservation conditions |
-| Aboriginal peoples | Indigenous peoples of Australia |
-| Torres Strait Islanders | Indigenous people of northern Australia region |
-| James Cook | British navigator who reached Botany Bay |
-| W.E.H. Stanner | Spoke of the Great Australian Silence |
-| Henry Reynolds | Criticised histories beginning with Cook's discovery |
-| Judith Wright | Australian writer and advocate of Aboriginal rights |
-| Oodgeroo Noonuccal | Aboriginal poet and activist connected with Dreamtime writing |
-| Daniel Paul | Canadian native writer who highlighted native influence on democratic thought |
-| Thomas Paine | Democratic thinker whose ideas were later compared with native models |
-| Andrew Carnegie | Industrialist symbolising rapid American growth |
+| Person Or Group             | Importance                                                                    |
+| --------------------------- | ----------------------------------------------------------------------------- |
+| Native American communities | Indigenous peoples displaced by settler expansion                             |
+| First Nations peoples       | Indigenous groups in Canada                                                   |
+| Cherokee                    | Native people forced along the Trail of Tears                                 |
+| John Marshall               | US Chief Justice who recognised Cherokee distinct community status            |
+| Andrew Jackson              | US President who ignored the Cherokee judgment                                |
+| Metis                       | People of mixed native and European descent who resisted in Canada            |
+| Chief Seattle               | Native leader associated with sacred land response                            |
+| Lewis Meriam                | Directed 1928 survey on reservation conditions                                |
+| Aboriginal peoples          | Indigenous peoples of Australia                                               |
+| Torres Strait Islanders     | Indigenous people of northern Australia region                                |
+| James Cook                  | British navigator who reached Botany Bay                                      |
+| W.E.H. Stanner              | Spoke of the Great Australian Silence                                         |
+| Henry Reynolds              | Criticised histories beginning with Cook's discovery                          |
+| Judith Wright               | Australian writer and advocate of Aboriginal rights                           |
+| Oodgeroo Noonuccal          | Aboriginal poet and activist connected with Dreamtime writing                 |
+| Daniel Paul                 | Canadian native writer who highlighted native influence on democratic thought |
+| Thomas Paine                | Democratic thinker whose ideas were later compared with native models         |
+| Andrew Carnegie             | Industrialist symbolising rapid American growth                               |
 
 ## 50. Places To Know
 
-| Place | Importance |
-|---|---|
-| North America | Main region of Native American displacement |
-| Canada | Settler state with First Nations treaty rights debates |
-| United States | Settler state expanding westward across continent |
-| Bering Straits | Region of ancient migration into North America |
-| Mississippi valley | Native settlement and French trading area |
-| Ohio valley | Native place name and important region |
-| Great Plains | Bison region and site of settler expansion |
-| California | Gold Rush and Chinese labour |
-| Georgia | Cherokee legal conflict |
-| Great American Desert | Region to which Cherokees were forced |
-| Australia | Main region of Aboriginal displacement |
-| Botany Bay | Site reached by James Cook |
-| Sydney | British penal colony founded in 1788 |
-| Tasmania | Island named after Tasman |
-| Canberra | Australian capital, name from native word |
-| New Zealand | Settler colony with Treaty of Waitangi context |
+| Place                 | Importance                                             |
+| --------------------- | ------------------------------------------------------ |
+| North America         | Main region of Native American displacement            |
+| Canada                | Settler state with First Nations treaty rights debates |
+| United States         | Settler state expanding westward across continent      |
+| Bering Straits        | Region of ancient migration into North America         |
+| Mississippi valley    | Native settlement and French trading area              |
+| Ohio valley           | Native place name and important region                 |
+| Great Plains          | Bison region and site of settler expansion             |
+| California            | Gold Rush and Chinese labour                           |
+| Georgia               | Cherokee legal conflict                                |
+| Great American Desert | Region to which Cherokees were forced                  |
+| Australia             | Main region of Aboriginal displacement                 |
+| Botany Bay            | Site reached by James Cook                             |
+| Sydney                | British penal colony founded in 1788                   |
+| Tasmania              | Island named after Tasman                              |
+| Canberra              | Australian capital, name from native word              |
+| New Zealand           | Settler colony with Treaty of Waitangi context         |
 
 ## 51. Cause And Effect Map
 
-| Cause | Effect |
-|---|---|
-| European desire for land and profit | Colonies and settler expansion |
-| Different ideas of land | Conflict between settlers and native peoples |
-| Fur trade | Early cooperation and later exploitation |
-| Alcohol trade | Increased European control over terms of exchange |
-| Settler farms | Forest clearing and native displacement |
-| Louisiana Purchase and wars | United States territorial expansion |
-| Gold Rush | Migration, railways, mining, and faster displacement |
-| Railways | Continental integration and industrial growth |
-| Bison extermination | Destruction of Native American hunting life |
-| Treaties under pressure | Loss of native land |
-| Reservations | Confinement and cultural disruption |
-| Meriam survey | Reform pressure and Indian Reorganisation Act |
-| Terra nullius | Legal denial of Aboriginal land rights |
-| Mabo case | Recognition that native land claims predated British arrival |
-| Indigenous activism | Rights, apologies, cultural recognition |
+| Cause                               | Effect                                                       |
+| ----------------------------------- | ------------------------------------------------------------ |
+| European desire for land and profit | Colonies and settler expansion                               |
+| Different ideas of land             | Conflict between settlers and native peoples                 |
+| Fur trade                           | Early cooperation and later exploitation                     |
+| Alcohol trade                       | Increased European control over terms of exchange            |
+| Settler farms                       | Forest clearing and native displacement                      |
+| Louisiana Purchase and wars         | United States territorial expansion                          |
+| Gold Rush                           | Migration, railways, mining, and faster displacement         |
+| Railways                            | Continental integration and industrial growth                |
+| Bison extermination                 | Destruction of Native American hunting life                  |
+| Treaties under pressure             | Loss of native land                                          |
+| Reservations                        | Confinement and cultural disruption                          |
+| Meriam survey                       | Reform pressure and Indian Reorganisation Act                |
+| Terra nullius                       | Legal denial of Aboriginal land rights                       |
+| Mabo case                           | Recognition that native land claims predated British arrival |
+| Indigenous activism                 | Rights, apologies, cultural recognition                      |
 
 ## 52. Comparison: South And North American Native Peoples
 
-| Feature | South And Central America | North America |
-|---|---|---|
-| Large empires | Aztec and Inca empires existed | Most groups lived in smaller bands or villages |
-| Agriculture | More intensive in many regions | Mixed hunting, fishing, gathering, gardening, and maize cultivation |
-| Urban centres | Some major cities and monumental centres | Fewer large urban formations |
-| Surplus | Larger tribute and surplus systems in empires | Less surplus in many communities |
-| European conquest pattern | Spanish and Portuguese conquest from sixteenth century | Later French, British, Dutch, and settler expansion |
-| Demographic outcome | Large mixed population in Spanish America | Native populations became a much smaller proportion in USA |
+| Feature                   | South And Central America                              | North America                                                       |
+| ------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------- |
+| Large empires             | Aztec and Inca empires existed                         | Most groups lived in smaller bands or villages                      |
+| Agriculture               | More intensive in many regions                         | Mixed hunting, fishing, gathering, gardening, and maize cultivation |
+| Urban centres             | Some major cities and monumental centres               | Fewer large urban formations                                        |
+| Surplus                   | Larger tribute and surplus systems in empires          | Less surplus in many communities                                    |
+| European conquest pattern | Spanish and Portuguese conquest from sixteenth century | Later French, British, Dutch, and settler expansion                 |
+| Demographic outcome       | Large mixed population in Spanish America              | Native populations became a much smaller proportion in USA          |
 
 ## 53. Comparison: Settler Freedom And Native Dispossession
 
-| Settler Experience | Native Experience |
-|---|---|
-| Expansion | Contraction |
-| Democracy for white men | Exclusion from citizenship |
-| Property rights | Loss of land |
-| Prosperity | Poverty |
-| Railways and farms | Destruction of hunting and food systems |
-| Frontier opportunity | Forced movement and reservations |
-| National growth | Cultural and demographic devastation |
+| Settler Experience      | Native Experience                       |
+| ----------------------- | --------------------------------------- |
+| Expansion               | Contraction                             |
+| Democracy for white men | Exclusion from citizenship              |
+| Property rights         | Loss of land                            |
+| Prosperity              | Poverty                                 |
+| Railways and farms      | Destruction of hunting and food systems |
+| Frontier opportunity    | Forced movement and reservations        |
+| National growth         | Cultural and demographic devastation    |
 
 ## 54. Comparison: America And Australia
 
-| Feature | North America | Australia |
-|---|---|---|
-| Beginning of major British settlement | Seventeenth century | 1788 penal colony |
-| Indigenous peoples | Native Americans and First Nations | Aboriginal peoples and Torres Strait Islanders |
-| Main settler expansion | Farms, railways, mining, industry | Sheep farms, mining, wheat, vineyards |
-| Legal instrument | Treaties, reservations, removal | Terra nullius, no treaties for long period |
-| Labour issue | African slavery and Chinese railway labour | Convicts, Aboriginal labour, Chinese labour |
-| Later rights | Indian Reorganisation Act, Constitution Act in Canada | Multiculturalism, Mabo case, National Sorry Day |
+| Feature                               | North America                                         | Australia                                       |
+| ------------------------------------- | ----------------------------------------------------- | ----------------------------------------------- |
+| Beginning of major British settlement | Seventeenth century                                   | 1788 penal colony                               |
+| Indigenous peoples                    | Native Americans and First Nations                    | Aboriginal peoples and Torres Strait Islanders  |
+| Main settler expansion                | Farms, railways, mining, industry                     | Sheep farms, mining, wheat, vineyards           |
+| Legal instrument                      | Treaties, reservations, removal                       | Terra nullius, no treaties for long period      |
+| Labour issue                          | African slavery and Chinese railway labour            | Convicts, Aboriginal labour, Chinese labour     |
+| Later rights                          | Indian Reorganisation Act, Constitution Act in Canada | Multiculturalism, Mabo case, National Sorry Day |
 
 ## 55. Common Misconceptions
 
-| Misconception | Correct Understanding |
-|---|---|
-| Europeans discovered empty lands | America and Australia were already inhabited |
-| Native peoples had no history | They had deep histories, oral traditions, languages, and cultures |
+| Misconception                                   | Correct Understanding                                                                |
+| ----------------------------------------------- | ------------------------------------------------------------------------------------ |
+| Europeans discovered empty lands                | America and Australia were already inhabited                                         |
+| Native peoples had no history                   | They had deep histories, oral traditions, languages, and cultures                    |
 | Not farming like Europeans meant not using land | Land use can include hunting, fishing, gathering, sacred care, and seasonal movement |
-| Treaties were always fair | Many were signed under pressure, fraud, or unequal power |
-| Reservations protected native peoples fully | They often confined people to unfamiliar and poor land |
-| Democracy in the USA included everyone | It mainly protected white men at first |
-| Australian history began with Cook | Aboriginal history goes back tens of thousands of years |
-| Terra nullius was neutral law | It denied existing native land relationships |
-| Museums alone can fully explain a culture | They help but cannot replace living voices, language, land, and community memory |
+| Treaties were always fair                       | Many were signed under pressure, fraud, or unequal power                             |
+| Reservations protected native peoples fully     | They often confined people to unfamiliar and poor land                               |
+| Democracy in the USA included everyone          | It mainly protected white men at first                                               |
+| Australian history began with Cook              | Aboriginal history goes back tens of thousands of years                              |
+| Terra nullius was neutral law                   | It denied existing native land relationships                                         |
+| Museums alone can fully explain a culture       | They help but cannot replace living voices, language, land, and community memory     |
 
 ## 56. Practice Prompts For Understanding
 
@@ -1042,25 +1042,25 @@ The winds of change refer to twentieth-century shifts in native rights and recog
 
 ## 59. Revision Table
 
-| If Asked About | Write About |
-|---|---|
-| Indigenous peoples | Original peoples, land, culture, language, memory |
-| Settler colonies | Permanent European settlement and native displacement |
-| Native land view | Sacred relationship, not commodity |
-| European land view | Property, profit, farms, mines, railways |
-| Early trade | Fish, furs, gifts, commodities, alcohol |
-| Frontier | Opportunity for settlers, dispossession for natives |
-| Cherokee | John Marshall, Andrew Jackson, Trail of Tears |
-| Reservations | Forced confinement and unfamiliar land |
-| Gold Rush | Migration, railways, Chinese labour, mining |
-| Bison | Hunting life destroyed by extermination |
-| US democracy | Rights limited mainly to white men |
-| North American reforms | Meriam survey, 1934 law, 1982 Canada Act |
-| Australia | Aboriginal peoples, Dreamtime, penal colony |
-| White Australia | Non-white immigration exclusion until 1974 |
-| Great Australian Silence | Erasure of Aboriginal history |
-| Mabo | Rejection of terra nullius |
-| National Sorry Day | Apology for separated children |
+| If Asked About           | Write About                                           |
+| ------------------------ | ----------------------------------------------------- |
+| Indigenous peoples       | Original peoples, land, culture, language, memory     |
+| Settler colonies         | Permanent European settlement and native displacement |
+| Native land view         | Sacred relationship, not commodity                    |
+| European land view       | Property, profit, farms, mines, railways              |
+| Early trade              | Fish, furs, gifts, commodities, alcohol               |
+| Frontier                 | Opportunity for settlers, dispossession for natives   |
+| Cherokee                 | John Marshall, Andrew Jackson, Trail of Tears         |
+| Reservations             | Forced confinement and unfamiliar land                |
+| Gold Rush                | Migration, railways, Chinese labour, mining           |
+| Bison                    | Hunting life destroyed by extermination               |
+| US democracy             | Rights limited mainly to white men                    |
+| North American reforms   | Meriam survey, 1934 law, 1982 Canada Act              |
+| Australia                | Aboriginal peoples, Dreamtime, penal colony           |
+| White Australia          | Non-white immigration exclusion until 1974            |
+| Great Australian Silence | Erasure of Aboriginal history                         |
+| Mabo                     | Rejection of terra nullius                            |
+| National Sorry Day       | Apology for separated children                        |
 
 ## 60. Memory Anchors
 
@@ -1183,4 +1183,3 @@ In the twentieth century, indigenous peoples in North America and Australia foug
 The Meriam survey, Indian Reorganisation Act, Canadian Constitution Act, Great Australian Silence debate, multiculturalism, Mabo case, and National Sorry Day mark stages in that struggle.
 
 The chapter's key lesson is that modern nations were often built by erasing earlier peoples, but indigenous communities continued to resist, remember, and reclaim their histories.
-

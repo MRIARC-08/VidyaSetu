@@ -4,14 +4,14 @@
 
 ### Chapter Identity
 
-| Item | Details |
-|---|---|
-| Class | 11 |
-| Raw folder | History |
-| Chapter followed in this guide | Writing And City Life |
-| Broad area | Early Societies and World History |
-| Core concern | The rise of Mesopotamian cities, writing, temples, trade, rulers, scribes, and urban culture |
-| Main skill | Explaining how city life and writing developed together through agriculture, trade, labour, temples, administration, and cultural memory |
+| Item                           | Details                                                                                                                                  |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Class                          | 11                                                                                                                                       |
+| Raw folder                     | History                                                                                                                                  |
+| Chapter followed in this guide | Writing And City Life                                                                                                                    |
+| Broad area                     | Early Societies and World History                                                                                                        |
+| Core concern                   | The rise of Mesopotamian cities, writing, temples, trade, rulers, scribes, and urban culture                                             |
+| Main skill                     | Explaining how city life and writing developed together through agriculture, trade, labour, temples, administration, and cultural memory |
 
 ## Big Idea
 
@@ -41,63 +41,63 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Mesopotamia | Land between the Euphrates and Tigris rivers, mostly in present-day Iraq |
-| Sumer | Southern Mesopotamian region in early recorded history |
-| Akkad | Region and language group linked with Akkadian speakers |
-| Babylonia | Southern Mesopotamia after Babylon became important after about 2000 BCE |
-| Assyria | Northern Mesopotamian region associated with Assyrian power from about 1100 BCE |
-| Sumerian | Earliest known language of Mesopotamia |
-| Akkadian | Language that replaced Sumerian in everyday use around 2400 BCE |
-| Aramaic | Language that became widely spoken after about 1000 BCE |
-| Urbanism | A way of life based on cities, non-food occupations, dependence, specialisation, and organisation |
-| Division of labour | Separation of work into specialised tasks |
-| Cuneiform | Wedge-shaped writing on clay tablets |
-| Scribe | Trained writer and record keeper |
-| Seal | Carved object used to mark ownership, authority, authenticity, and public role |
-| Cylinder seal | Mesopotamian seal rolled over wet clay to create a continuous impression |
-| Ziggurat | Stepped temple tower in Mesopotamian cities |
-| Nuclear family | Family consisting of a man, wife, and children |
-| Steppe | Upland grassland suitable for herding |
-| Pastoralist | Person or community dependent mainly on herding animals |
-| Epic | Long narrative poem or story about heroic actions and cultural values |
+| Term               | Meaning                                                                                           |
+| ------------------ | ------------------------------------------------------------------------------------------------- |
+| Mesopotamia        | Land between the Euphrates and Tigris rivers, mostly in present-day Iraq                          |
+| Sumer              | Southern Mesopotamian region in early recorded history                                            |
+| Akkad              | Region and language group linked with Akkadian speakers                                           |
+| Babylonia          | Southern Mesopotamia after Babylon became important after about 2000 BCE                          |
+| Assyria            | Northern Mesopotamian region associated with Assyrian power from about 1100 BCE                   |
+| Sumerian           | Earliest known language of Mesopotamia                                                            |
+| Akkadian           | Language that replaced Sumerian in everyday use around 2400 BCE                                   |
+| Aramaic            | Language that became widely spoken after about 1000 BCE                                           |
+| Urbanism           | A way of life based on cities, non-food occupations, dependence, specialisation, and organisation |
+| Division of labour | Separation of work into specialised tasks                                                         |
+| Cuneiform          | Wedge-shaped writing on clay tablets                                                              |
+| Scribe             | Trained writer and record keeper                                                                  |
+| Seal               | Carved object used to mark ownership, authority, authenticity, and public role                    |
+| Cylinder seal      | Mesopotamian seal rolled over wet clay to create a continuous impression                          |
+| Ziggurat           | Stepped temple tower in Mesopotamian cities                                                       |
+| Nuclear family     | Family consisting of a man, wife, and children                                                    |
+| Steppe             | Upland grassland suitable for herding                                                             |
+| Pastoralist        | Person or community dependent mainly on herding animals                                           |
+| Epic               | Long narrative poem or story about heroic actions and cultural values                             |
 
 ## Key Data To Memorise
 
-| Date or period | Event or development |
-|---|---|
-| 7000-6000 BCE | Agriculture begins in northern Mesopotamian plains |
-| c. 5000 BCE | Earliest temples in southern Mesopotamia |
-| c. 3200 BCE | First writing in Mesopotamia |
-| c. 3000 BCE | Uruk develops into a huge city; bronze tools increase |
-| c. 2700-2500 BCE | Early kings, possibly including legendary Gilgamesh |
-| c. 2600 BCE | Development of cuneiform script |
-| c. 2400 BCE | Akkadian begins replacing Sumerian in everyday use |
-| 2370 BCE | Sargon, king of Akkad |
-| c. 2000 BCE | Cuneiform spreads to Syria, Turkey, and Egypt; Mari and Babylon become important |
-| c. 1800 BCE | Mathematical texts composed; Sumerian no longer spoken |
-| c. 1100 BCE | Assyrian kingdom established |
-| c. 1000 BCE | Use of iron |
-| 720-610 BCE | Assyrian empire |
-| 668-627 BCE | Rule of Assurbanipal |
-| 331 BCE | Alexander conquers Babylon |
-| c. 1st century CE | Akkadian and cuneiform remain in use |
-| 1850s | Cuneiform script deciphered |
+| Date or period    | Event or development                                                             |
+| ----------------- | -------------------------------------------------------------------------------- |
+| 7000-6000 BCE     | Agriculture begins in northern Mesopotamian plains                               |
+| c. 5000 BCE       | Earliest temples in southern Mesopotamia                                         |
+| c. 3200 BCE       | First writing in Mesopotamia                                                     |
+| c. 3000 BCE       | Uruk develops into a huge city; bronze tools increase                            |
+| c. 2700-2500 BCE  | Early kings, possibly including legendary Gilgamesh                              |
+| c. 2600 BCE       | Development of cuneiform script                                                  |
+| c. 2400 BCE       | Akkadian begins replacing Sumerian in everyday use                               |
+| 2370 BCE          | Sargon, king of Akkad                                                            |
+| c. 2000 BCE       | Cuneiform spreads to Syria, Turkey, and Egypt; Mari and Babylon become important |
+| c. 1800 BCE       | Mathematical texts composed; Sumerian no longer spoken                           |
+| c. 1100 BCE       | Assyrian kingdom established                                                     |
+| c. 1000 BCE       | Use of iron                                                                      |
+| 720-610 BCE       | Assyrian empire                                                                  |
+| 668-627 BCE       | Rule of Assurbanipal                                                             |
+| 331 BCE           | Alexander conquers Babylon                                                       |
+| c. 1st century CE | Akkadian and cuneiform remain in use                                             |
+| 1850s             | Cuneiform script deciphered                                                      |
 
 ## Chapter Map
 
-| Part | Main question | Core idea |
-|---|---|---|
-| Early societies | What changed before cities? | Agriculture, animal domestication, pottery, tools, metals, trade, and settlement grew over time |
-| Geography | Why Mesopotamia? | Rivers, silt, irrigation, steppe, trade routes, and diverse environments supported urban growth |
-| Urbanism | What makes a city? | Cities require specialisation, dependence, organisation, trade, storage, and records |
-| Writing | Why did writing matter? | Writing recorded goods, labour, trade, administration, and knowledge |
-| Temples and rulers | Who organised labour? | Temples and rulers controlled resources, work, rituals, and large building projects |
-| Seals | How was authority marked? | Cylinder seals secured goods and authenticated messages |
-| Ur | What was ordinary city life like? | Houses, streets, family, privacy, inheritance, and burials reveal daily life |
-| Mari | How did trade and pastoralism connect? | Mari prospered through Euphrates trade and contact between farmers and herders |
-| Legacy | What lasted? | Mathematics, time reckoning, libraries, astronomy, stories, and scholarly traditions |
+| Part               | Main question                          | Core idea                                                                                       |
+| ------------------ | -------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| Early societies    | What changed before cities?            | Agriculture, animal domestication, pottery, tools, metals, trade, and settlement grew over time |
+| Geography          | Why Mesopotamia?                       | Rivers, silt, irrigation, steppe, trade routes, and diverse environments supported urban growth |
+| Urbanism           | What makes a city?                     | Cities require specialisation, dependence, organisation, trade, storage, and records            |
+| Writing            | Why did writing matter?                | Writing recorded goods, labour, trade, administration, and knowledge                            |
+| Temples and rulers | Who organised labour?                  | Temples and rulers controlled resources, work, rituals, and large building projects             |
+| Seals              | How was authority marked?              | Cylinder seals secured goods and authenticated messages                                         |
+| Ur                 | What was ordinary city life like?      | Houses, streets, family, privacy, inheritance, and burials reveal daily life                    |
+| Mari               | How did trade and pastoralism connect? | Mari prospered through Euphrates trade and contact between farmers and herders                  |
+| Legacy             | What lasted?                           | Mathematics, time reckoning, libraries, astronomy, stories, and scholarly traditions            |
 
 ## From Hunting And Gathering To City Life
 
@@ -127,11 +127,11 @@ This happened when people learned:
 
 ### Crops In Different Regions
 
-| Region | Crops mentioned |
-|---|---|
-| West Asia | Wheat, barley, peas, pulses |
-| East and Southeast Asia | Millet, rice |
-| Africa | Millet |
+| Region                  | Crops mentioned             |
+| ----------------------- | --------------------------- |
+| West Asia               | Wheat, barley, peas, pulses |
+| East and Southeast Asia | Millet, rice                |
+| Africa                  | Millet                      |
 
 ## Animal Domestication
 
@@ -254,11 +254,11 @@ From about 1100 BCE, when Assyrians established their kingdom in the north, the 
 
 ### Languages
 
-| Language | Historical role |
-|---|---|
-| Sumerian | First known language of the land |
-| Akkadian | Replaced Sumerian in everyday use around 2400 BCE |
-| Aramaic | Entered from about 1400 BCE and became widely spoken after 1000 BCE |
+| Language | Historical role                                                     |
+| -------- | ------------------------------------------------------------------- |
+| Sumerian | First known language of the land                                    |
+| Akkadian | Replaced Sumerian in everyday use around 2400 BCE                   |
+| Aramaic  | Entered from about 1400 BCE and became widely spoken after 1000 BCE |
 
 Akkadian flourished until the time of Alexander, 336-323 BCE, with regional changes.
 
@@ -943,33 +943,33 @@ Nabonidus, the last ruler of independent Babylon, showed interest in earlier kin
 
 ## Evidence Table
 
-| Evidence type | What it helps us understand |
-|---|---|
-| Clay tablets | Accounts, letters, rations, literature, mathematics, astronomy |
-| Seals | Ownership, authority, trade, public identity |
-| Buildings | Temples, palaces, houses, planning, social organisation |
-| Graves | Wealth, status, burial practices |
-| Tools | Craft production and technology |
-| Plant remains | Food, fuel, agriculture, room use |
-| Animal bones | Diet, herding, animals in streets, rituals |
-| Streets and drains | Daily life, planning, sanitation |
-| Palace plans | Administration, royal authority, storage, production |
-| Stories and epics | Values, memory, ideas of city life, kingship, mortality |
+| Evidence type      | What it helps us understand                                    |
+| ------------------ | -------------------------------------------------------------- |
+| Clay tablets       | Accounts, letters, rations, literature, mathematics, astronomy |
+| Seals              | Ownership, authority, trade, public identity                   |
+| Buildings          | Temples, palaces, houses, planning, social organisation        |
+| Graves             | Wealth, status, burial practices                               |
+| Tools              | Craft production and technology                                |
+| Plant remains      | Food, fuel, agriculture, room use                              |
+| Animal bones       | Diet, herding, animals in streets, rituals                     |
+| Streets and drains | Daily life, planning, sanitation                               |
+| Palace plans       | Administration, royal authority, storage, production           |
+| Stories and epics  | Values, memory, ideas of city life, kingship, mortality        |
 
 ## Cause And Effect Table
 
-| Cause | Effect |
-|---|---|
-| Agriculture and animal domestication grew | Settled life became more common |
-| Grain needed storage | Pottery and permanent structures became useful |
-| Southern Mesopotamia lacked rainfall | Irrigation became necessary |
-| Rivers deposited fertile silt | Productive agriculture became possible |
-| Cities needed raw materials | Long-distance trade expanded |
-| Crafts became specialised | Division of labour developed |
-| Trade and storage became complex | Writing and seals became important |
-| Temples controlled resources | Temples became economic and religious centres |
-| Rulers mobilised labour | Walls, temples, palaces, and large works expanded |
-| Schools copied tablets | Scholarship and older traditions survived |
+| Cause                                     | Effect                                            |
+| ----------------------------------------- | ------------------------------------------------- |
+| Agriculture and animal domestication grew | Settled life became more common                   |
+| Grain needed storage                      | Pottery and permanent structures became useful    |
+| Southern Mesopotamia lacked rainfall      | Irrigation became necessary                       |
+| Rivers deposited fertile silt             | Productive agriculture became possible            |
+| Cities needed raw materials               | Long-distance trade expanded                      |
+| Crafts became specialised                 | Division of labour developed                      |
+| Trade and storage became complex          | Writing and seals became important                |
+| Temples controlled resources              | Temples became economic and religious centres     |
+| Rulers mobilised labour                   | Walls, temples, palaces, and large works expanded |
+| Schools copied tablets                    | Scholarship and older traditions survived         |
 
 ## Common Misunderstandings
 
@@ -1160,40 +1160,40 @@ They reveal beliefs about gods, floods, kingship, mortality, memory, city pride,
 
 ## Timeline For Revision
 
-| Date | Event |
-|---|---|
-| c. 7000-6000 BCE | Agriculture begins in northern Mesopotamian plains |
-| c. 5000 BCE | Earliest temples in southern Mesopotamia |
-| c. 3200 BCE | First writing in Mesopotamia |
-| c. 3000 BCE | Uruk becomes a huge city |
-| c. 2600 BCE | Cuneiform develops |
-| c. 2400 BCE | Akkadian replaces Sumerian in everyday use |
-| 2370 BCE | Sargon of Akkad |
-| c. 2000 BCE | Mari and Babylon become important urban centres |
-| c. 1800 BCE | Mathematical texts composed |
-| c. 1100 BCE | Assyrian kingdom established |
-| 720-610 BCE | Assyrian empire |
-| 668-627 BCE | Assurbanipal rules |
-| 625 BCE | Nabopolassar releases Babylonia from Assyrian control |
-| 539 BCE | Achaemenids of Iran conquer Babylon |
-| 331 BCE | Alexander conquers Babylon |
-| 1850s | Cuneiform deciphered |
+| Date             | Event                                                 |
+| ---------------- | ----------------------------------------------------- |
+| c. 7000-6000 BCE | Agriculture begins in northern Mesopotamian plains    |
+| c. 5000 BCE      | Earliest temples in southern Mesopotamia              |
+| c. 3200 BCE      | First writing in Mesopotamia                          |
+| c. 3000 BCE      | Uruk becomes a huge city                              |
+| c. 2600 BCE      | Cuneiform develops                                    |
+| c. 2400 BCE      | Akkadian replaces Sumerian in everyday use            |
+| 2370 BCE         | Sargon of Akkad                                       |
+| c. 2000 BCE      | Mari and Babylon become important urban centres       |
+| c. 1800 BCE      | Mathematical texts composed                           |
+| c. 1100 BCE      | Assyrian kingdom established                          |
+| 720-610 BCE      | Assyrian empire                                       |
+| 668-627 BCE      | Assurbanipal rules                                    |
+| 625 BCE          | Nabopolassar releases Babylonia from Assyrian control |
+| 539 BCE          | Achaemenids of Iran conquer Babylon                   |
+| 331 BCE          | Alexander conquers Babylon                            |
+| 1850s            | Cuneiform deciphered                                  |
 
 ## Evidence Practice
 
 When you see an exam question, connect evidence to interpretation.
 
-| If evidence mentions | You can infer |
-|---|---|
-| Ration lists | Labour organisation and administrative writing |
-| Cylinder seals | Ownership, trade, authenticity, public identity |
-| Narrow streets at Ur | Limited cart access and absence of planned grid |
-| Courtyard drains | Household-level drainage and privacy |
-| Royal graves | Social inequality and elite wealth |
-| Palace food lists | Royal administration and provisioning |
-| Cargo inspection at Mari | Trade taxation and urban revenue |
-| School tablets | Scribal training and preservation of knowledge |
-| Library at Nineveh | Systematic collection and cataloguing of older texts |
+| If evidence mentions     | You can infer                                        |
+| ------------------------ | ---------------------------------------------------- |
+| Ration lists             | Labour organisation and administrative writing       |
+| Cylinder seals           | Ownership, trade, authenticity, public identity      |
+| Narrow streets at Ur     | Limited cart access and absence of planned grid      |
+| Courtyard drains         | Household-level drainage and privacy                 |
+| Royal graves             | Social inequality and elite wealth                   |
+| Palace food lists        | Royal administration and provisioning                |
+| Cargo inspection at Mari | Trade taxation and urban revenue                     |
+| School tablets           | Scribal training and preservation of knowledge       |
+| Library at Nineveh       | Systematic collection and cataloguing of older texts |
 
 ## Rapid Revision
 

@@ -1,16 +1,17 @@
 # Chapter 3: Financial Statements of a Company
+
 ### NCERT Class 12 - Accountancy Part 2
 
 ## Chapter at a Glance
 
-| Item | Details |
-|---|---|
-| Main idea | Company financial statements communicate financial position and performance to owners and external users. |
-| Main statements | Balance sheet, statement of profit and loss, and cash flow statement. |
-| Legal structure | Company financial statements follow statutory format and accounting standards. |
-| Balance sheet focus | Assets, equity, and liabilities at a specific date. |
-| Profit and loss focus | Revenue, expenses, and profit for a period. |
-| Most important skill | Classify items under correct heads and sub-heads. |
+| Item                  | Details                                                                                                   |
+| --------------------- | --------------------------------------------------------------------------------------------------------- |
+| Main idea             | Company financial statements communicate financial position and performance to owners and external users. |
+| Main statements       | Balance sheet, statement of profit and loss, and cash flow statement.                                     |
+| Legal structure       | Company financial statements follow statutory format and accounting standards.                            |
+| Balance sheet focus   | Assets, equity, and liabilities at a specific date.                                                       |
+| Profit and loss focus | Revenue, expenses, and profit for a period.                                                               |
+| Most important skill  | Classify items under correct heads and sub-heads.                                                         |
 
 ## Learning Outcomes
 
@@ -29,30 +30,30 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Financial statements | Formal reports showing financial position, performance, and cash flows. |
-| Balance sheet | Statement showing assets, equity, and liabilities on a date. |
-| Statement of profit and loss | Statement showing revenue, expenses, and profit or loss for a period. |
-| Cash flow statement | Statement showing cash inflows and outflows by operating, investing, and financing activities. |
-| Non-current asset | Asset expected to provide benefit beyond the operating cycle or twelve months. |
-| Current asset | Asset expected to be realised, sold, consumed, or held within operating cycle or twelve months. |
-| Non-current liability | Obligation not due within operating cycle or twelve months. |
-| Current liability | Obligation due within operating cycle or twelve months. |
-| Shareholders' funds | Share capital plus reserves and surplus. |
-| Trade receivables | Amount due from customers for credit sales or services. |
-| Trade payables | Amount due to suppliers for credit purchases or services. |
+| Term                         | Meaning                                                                                         |
+| ---------------------------- | ----------------------------------------------------------------------------------------------- |
+| Financial statements         | Formal reports showing financial position, performance, and cash flows.                         |
+| Balance sheet                | Statement showing assets, equity, and liabilities on a date.                                    |
+| Statement of profit and loss | Statement showing revenue, expenses, and profit or loss for a period.                           |
+| Cash flow statement          | Statement showing cash inflows and outflows by operating, investing, and financing activities.  |
+| Non-current asset            | Asset expected to provide benefit beyond the operating cycle or twelve months.                  |
+| Current asset                | Asset expected to be realised, sold, consumed, or held within operating cycle or twelve months. |
+| Non-current liability        | Obligation not due within operating cycle or twelve months.                                     |
+| Current liability            | Obligation due within operating cycle or twelve months.                                         |
+| Shareholders' funds          | Share capital plus reserves and surplus.                                                        |
+| Trade receivables            | Amount due from customers for credit sales or services.                                         |
+| Trade payables               | Amount due to suppliers for credit purchases or services.                                       |
 
 ## Quick Learning Map
 
-| Area | Main Question |
-|---|---|
-| Balance sheet | What does the company own and owe on the reporting date? |
-| Profit and loss | Did the company earn profit during the period? |
-| Classification | Is the item current or non-current? |
-| Presentation | Which heading and sub-heading should contain the item? |
-| Usefulness | How does the statement support decisions? |
-| Limitation | What does the statement fail to show? |
+| Area            | Main Question                                            |
+| --------------- | -------------------------------------------------------- |
+| Balance sheet   | What does the company own and owe on the reporting date? |
+| Profit and loss | Did the company earn profit during the period?           |
+| Classification  | Is the item current or non-current?                      |
+| Presentation    | Which heading and sub-heading should contain the item?   |
+| Usefulness      | How does the statement support decisions?                |
+| Limitation      | What does the statement fail to show?                    |
 
 # Unit 3A: Meaning of Financial Statements
 
@@ -67,15 +68,15 @@ They normally include:
 
 ## Users of Financial Statements
 
-| User | What They Need |
-|---|---|
+| User         | What They Need                                         |
+| ------------ | ------------------------------------------------------ |
 | Shareholders | Profitability, dividend potential, financial strength. |
-| Lenders | Solvency and repayment capacity. |
-| Management | Performance review and planning. |
-| Government | Tax and regulatory compliance. |
-| Employees | Stability and ability to pay wages or benefits. |
-| Suppliers | Creditworthiness. |
-| Customers | Continuity and reliability. |
+| Lenders      | Solvency and repayment capacity.                       |
+| Management   | Performance review and planning.                       |
+| Government   | Tax and regulatory compliance.                         |
+| Employees    | Stability and ability to pay wages or benefits.        |
+| Suppliers    | Creditworthiness.                                      |
+| Customers    | Continuity and reliability.                            |
 
 # Unit 3B: Nature of Financial Statements
 
@@ -124,19 +125,19 @@ A company balance sheet is usually presented under equity and liabilities on one
 
 ## Equity and Liabilities
 
-| Main Head | Examples |
-|---|---|
-| Shareholders' funds | Share capital, reserves and surplus. |
-| Share application money pending allotment | Application money not yet allotted and not refundable immediately, if applicable. |
-| Non-current liabilities | Long-term borrowings, deferred tax liabilities, long-term provisions. |
-| Current liabilities | Short-term borrowings, trade payables, other current liabilities, short-term provisions. |
+| Main Head                                 | Examples                                                                                 |
+| ----------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Shareholders' funds                       | Share capital, reserves and surplus.                                                     |
+| Share application money pending allotment | Application money not yet allotted and not refundable immediately, if applicable.        |
+| Non-current liabilities                   | Long-term borrowings, deferred tax liabilities, long-term provisions.                    |
+| Current liabilities                       | Short-term borrowings, trade payables, other current liabilities, short-term provisions. |
 
 ## Assets
 
-| Main Head | Examples |
-|---|---|
-| Non-current assets | Fixed assets, non-current investments, long-term loans and advances, other non-current assets. |
-| Current assets | Current investments, inventories, trade receivables, cash and cash equivalents, short-term loans and advances, other current assets. |
+| Main Head          | Examples                                                                                                                             |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Non-current assets | Fixed assets, non-current investments, long-term loans and advances, other non-current assets.                                       |
+| Current assets     | Current investments, inventories, trade receivables, cash and cash equivalents, short-term loans and advances, other current assets. |
 
 # Unit 3E: Shareholders' Funds
 
@@ -144,9 +145,9 @@ Shareholders' funds represent owners' claim.
 
 ## Components
 
-| Component | Meaning |
-|---|---|
-| Share capital | Paid-up equity and preference share capital. |
+| Component            | Meaning                                                                                                           |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Share capital        | Paid-up equity and preference share capital.                                                                      |
 | Reserves and surplus | Retained earnings, securities premium, capital reserve, general reserve, surplus in statement of profit and loss. |
 
 ## Share Capital Presentation
@@ -196,13 +197,13 @@ Non-current assets are held for long-term use or benefit.
 
 ## Main Categories
 
-| Category | Examples |
-|---|---|
+| Category                      | Examples                                     |
+| ----------------------------- | -------------------------------------------- |
 | Property, plant and equipment | Land, building, plant, machinery, furniture. |
-| Intangible assets | Goodwill, patents, trademarks, software. |
-| Capital work-in-progress | Assets under construction. |
-| Non-current investments | Long-term investments. |
-| Long-term loans and advances | Loans not recoverable within twelve months. |
+| Intangible assets             | Goodwill, patents, trademarks, software.     |
+| Capital work-in-progress      | Assets under construction.                   |
+| Non-current investments       | Long-term investments.                       |
+| Long-term loans and advances  | Loans not recoverable within twelve months.  |
 
 # Unit 3I: Current Assets
 
@@ -227,15 +228,15 @@ The statement of profit and loss reports performance for a period.
 
 ## Basic Structure
 
-| Item | Meaning |
-|---|---|
-| Revenue from operations | Main operating revenue such as sales or service revenue. |
-| Other income | Non-operating income such as interest, dividend, or profit on sale of asset. |
-| Total revenue | Revenue from operations plus other income. |
-| Expenses | Costs incurred to earn revenue. |
-| Profit before tax | Profit before income tax. |
-| Tax expense | Current tax and deferred tax. |
-| Profit after tax | Final profit available for appropriation. |
+| Item                    | Meaning                                                                      |
+| ----------------------- | ---------------------------------------------------------------------------- |
+| Revenue from operations | Main operating revenue such as sales or service revenue.                     |
+| Other income            | Non-operating income such as interest, dividend, or profit on sale of asset. |
+| Total revenue           | Revenue from operations plus other income.                                   |
+| Expenses                | Costs incurred to earn revenue.                                              |
+| Profit before tax       | Profit before income tax.                                                    |
+| Tax expense             | Current tax and deferred tax.                                                |
+| Profit after tax        | Final profit available for appropriation.                                    |
 
 ## Common Expense Heads
 
@@ -277,29 +278,29 @@ Financial statements help users:
 
 # Unit 3M: Limitations
 
-| Limitation | Explanation |
-|---|---|
-| Historical cost | Many values are based on past cost, not current market value. |
-| Monetary focus | Non-monetary factors such as employee skill and brand strength may not be fully shown. |
-| Estimates | Depreciation, provisions, and valuation involve judgement. |
-| Window dressing | Management may present figures in a more favourable way within rules. |
-| Inflation effect | Price-level changes may reduce comparability. |
-| Aggregation | Detailed information is summarised. |
-| Not a forecast | Statements show past position and performance, not guaranteed future results. |
+| Limitation       | Explanation                                                                            |
+| ---------------- | -------------------------------------------------------------------------------------- |
+| Historical cost  | Many values are based on past cost, not current market value.                          |
+| Monetary focus   | Non-monetary factors such as employee skill and brand strength may not be fully shown. |
+| Estimates        | Depreciation, provisions, and valuation involve judgement.                             |
+| Window dressing  | Management may present figures in a more favourable way within rules.                  |
+| Inflation effect | Price-level changes may reduce comparability.                                          |
+| Aggregation      | Detailed information is summarised.                                                    |
+| Not a forecast   | Statements show past position and performance, not guaranteed future results.          |
 
 # Unit 3N: Classification Practice Guide
 
-| Item | Usual Classification |
-|---|---|
-| Equity share capital | Shareholders' funds. |
-| Securities premium | Reserves and surplus. |
-| Debentures repayable after five years | Non-current liabilities. |
-| Bank overdraft repayable on demand | Current liabilities. |
-| Trade payables | Current liabilities. |
-| Building | Non-current asset. |
-| Inventory | Current asset. |
-| Cash at bank | Current asset. |
-| Preliminary expenses not written off | Usually deducted or treated as per current reporting requirements; do not show as ordinary asset unless format asks. |
+| Item                                  | Usual Classification                                                                                                 |
+| ------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| Equity share capital                  | Shareholders' funds.                                                                                                 |
+| Securities premium                    | Reserves and surplus.                                                                                                |
+| Debentures repayable after five years | Non-current liabilities.                                                                                             |
+| Bank overdraft repayable on demand    | Current liabilities.                                                                                                 |
+| Trade payables                        | Current liabilities.                                                                                                 |
+| Building                              | Non-current asset.                                                                                                   |
+| Inventory                             | Current asset.                                                                                                       |
+| Cash at bank                          | Current asset.                                                                                                       |
+| Preliminary expenses not written off  | Usually deducted or treated as per current reporting requirements; do not show as ordinary asset unless format asks. |
 
 ## Practice Set
 

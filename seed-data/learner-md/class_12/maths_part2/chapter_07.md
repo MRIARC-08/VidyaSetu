@@ -1,4 +1,5 @@
 # Chapter 7: Probability
+
 ### NCERT Class 12 - Maths Part 2
 
 ## Chapter at a Glance
@@ -25,35 +26,35 @@ By the end of this chapter, learners should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Conditional probability | Probability of an event given that another event has occurred. |
-| Independent events | Events where occurrence of one does not affect probability of the other. |
-| Dependent events | Events where occurrence of one changes probability of the other. |
-| Mutually exclusive events | Events that cannot occur together. |
-| Exhaustive events | Events whose union covers the whole sample space. |
-| Partition | Collection of non-overlapping exhaustive events. |
-| Bayes theorem | Formula for reversing conditional probability using prior probabilities. |
-| Random variable | Numerical value assigned to outcomes of a random experiment. |
-| Probability distribution | Table or rule giving probabilities of values of a random variable. |
-| Bernoulli trial | Trial with exactly two outcomes: success and failure. |
-| Binomial distribution | Distribution of number of successes in independent Bernoulli trials. |
+| Term                      | Meaning                                                                  |
+| ------------------------- | ------------------------------------------------------------------------ |
+| Conditional probability   | Probability of an event given that another event has occurred.           |
+| Independent events        | Events where occurrence of one does not affect probability of the other. |
+| Dependent events          | Events where occurrence of one changes probability of the other.         |
+| Mutually exclusive events | Events that cannot occur together.                                       |
+| Exhaustive events         | Events whose union covers the whole sample space.                        |
+| Partition                 | Collection of non-overlapping exhaustive events.                         |
+| Bayes theorem             | Formula for reversing conditional probability using prior probabilities. |
+| Random variable           | Numerical value assigned to outcomes of a random experiment.             |
+| Probability distribution  | Table or rule giving probabilities of values of a random variable.       |
+| Bernoulli trial           | Trial with exactly two outcomes: success and failure.                    |
+| Binomial distribution     | Distribution of number of successes in independent Bernoulli trials.     |
 
 ## Quick Formula Map
 
-| Concept | Formula |
-|---|---|
-| Conditional probability | `P(A|B) = P(A intersection B)/P(B)` |
-| Multiplication theorem | `P(A intersection B) = P(A)P(B|A)` |
-| Independence | `P(A intersection B) = P(A)P(B)` |
-| Complement | `P(A') = 1 - P(A)` |
-| Total probability | `P(A) = sum P(E_i)P(A|E_i)` |
-| Bayes theorem | `P(E_i|A) = P(E_i)P(A|E_i) / sum P(E_j)P(A|E_j)` |
-| Expected value | `E(X) = sum x_i p_i` |
-| Variance | `Var(X) = E(X^2) - [E(X)]^2` |
-| Binomial probability | `P(X=r) = nCr p^r q^(n-r)` |
-| Binomial mean | `np` |
-| Binomial variance | `npq` |
+| Concept                 | Formula                          |
+| ----------------------- | -------------------------------- | ------------------------------ | -------------------- | ----- |
+| Conditional probability | `P(A                             | B) = P(A intersection B)/P(B)` |
+| Multiplication theorem  | `P(A intersection B) = P(A)P(B   | A)`                            |
+| Independence            | `P(A intersection B) = P(A)P(B)` |
+| Complement              | `P(A') = 1 - P(A)`               |
+| Total probability       | `P(A) = sum P(E_i)P(A            | E_i)`                          |
+| Bayes theorem           | `P(E_i                           | A) = P(E_i)P(A                 | E_i) / sum P(E_j)P(A | E_j)` |
+| Expected value          | `E(X) = sum x_i p_i`             |
+| Variance                | `Var(X) = E(X^2) - [E(X)]^2`     |
+| Binomial probability    | `P(X=r) = nCr p^r q^(n-r)`       |
+| Binomial mean           | `np`                             |
+| Binomial variance       | `npq`                            |
 
 # Unit 7A: Conditional Probability
 
@@ -277,11 +278,11 @@ A probability distribution lists values of a random variable and their probabili
 
 For two coin tosses:
 
-| X | Probability |
-|---|---|
-| 0 | `1/4` |
-| 1 | `1/2` |
-| 2 | `1/4` |
+| X   | Probability |
+| --- | ----------- |
+| 0   | `1/4`       |
+| 1   | `1/2`       |
+| 2   | `1/4`       |
 
 ## Conditions
 
@@ -437,8 +438,8 @@ events are independent.
 
 Let `X` have distribution:
 
-| X | 0 | 1 | 2 |
-|---|---|---|---|
+| X    | 0     | 1     | 2     |
+| ---- | ----- | ----- | ----- |
 | P(X) | `1/4` | `1/2` | `1/4` |
 
 Sum of probabilities:
@@ -491,16 +492,16 @@ Write in this order:
 
 # Unit 7S: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Confusing `P(A|B)` and `P(B|A)` | They are usually different. |
-| Treating mutually exclusive events as independent | Non-empty mutually exclusive events are generally dependent. |
-| Forgetting replacement condition | Without replacement changes probabilities. |
-| Ignoring independence in multiplication | Use conditional probability unless independence is known. |
-| Applying Bayes theorem without partition | Causes must be exhaustive and non-overlapping. |
-| Probability distribution sums not checked | Sum must be `1`. |
-| Using binomial distribution when trials are not independent | Binomial requires independent Bernoulli trials. |
-| Forgetting `q = 1-p` | Always compute failure probability. |
+| Mistake                                                     | Correction                                                   |
+| ----------------------------------------------------------- | ------------------------------------------------------------ | --- | --------------------------- |
+| Confusing `P(A                                              | B)`and`P(B                                                   | A)` | They are usually different. |
+| Treating mutually exclusive events as independent           | Non-empty mutually exclusive events are generally dependent. |
+| Forgetting replacement condition                            | Without replacement changes probabilities.                   |
+| Ignoring independence in multiplication                     | Use conditional probability unless independence is known.    |
+| Applying Bayes theorem without partition                    | Causes must be exhaustive and non-overlapping.               |
+| Probability distribution sums not checked                   | Sum must be `1`.                                             |
+| Using binomial distribution when trials are not independent | Binomial requires independent Bernoulli trials.              |
+| Forgetting `q = 1-p`                                        | Always compute failure probability.                          |
 
 ## Practice Set
 

@@ -22,20 +22,20 @@ The central idea is that self and personality are closely related. Self lies at 
 
 ## Key Terms
 
-| Term | Meaning | Why it matters |
-|---|---|---|
-| Self | Totality of conscious experiences, ideas, thoughts, and feelings about oneself | Core of personality |
-| Personal identity | Attributes that make a person distinct from others | Name, abilities, qualities, beliefs |
-| Social identity | Aspects of self derived from group membership | Religion, region, caste, tribe, nationality |
-| Self-concept | View a person holds about their competencies and attributes | Shapes confidence and behaviour |
-| Self-esteem | Judgment of one's own value or worth | Affects school, relationships, anxiety, and adjustment |
-| Self-efficacy | Belief that one can perform required actions in a situation | Influences effort, risk-taking, and persistence |
-| Self-regulation | Ability to organise and monitor one's own behaviour | Needed for self-control and long-term goals |
-| Personality | Unique and relatively stable qualities of behaviour, thought, and emotion | Helps predict behaviour across situations |
-| Type approach | Classifies people into broad personality types | Simple but can overgeneralise |
-| Trait approach | Describes personality through specific traits | Allows more detailed description |
-| Unconscious | Part of mind outside awareness that may influence behaviour | Central to psychodynamic theory |
-| Humanistic approach | Approach focusing on choice, personal growth, and self-actualisation | Important for healthy personality |
+| Term                | Meaning                                                                        | Why it matters                                         |
+| ------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------ |
+| Self                | Totality of conscious experiences, ideas, thoughts, and feelings about oneself | Core of personality                                    |
+| Personal identity   | Attributes that make a person distinct from others                             | Name, abilities, qualities, beliefs                    |
+| Social identity     | Aspects of self derived from group membership                                  | Religion, region, caste, tribe, nationality            |
+| Self-concept        | View a person holds about their competencies and attributes                    | Shapes confidence and behaviour                        |
+| Self-esteem         | Judgment of one's own value or worth                                           | Affects school, relationships, anxiety, and adjustment |
+| Self-efficacy       | Belief that one can perform required actions in a situation                    | Influences effort, risk-taking, and persistence        |
+| Self-regulation     | Ability to organise and monitor one's own behaviour                            | Needed for self-control and long-term goals            |
+| Personality         | Unique and relatively stable qualities of behaviour, thought, and emotion      | Helps predict behaviour across situations              |
+| Type approach       | Classifies people into broad personality types                                 | Simple but can overgeneralise                          |
+| Trait approach      | Describes personality through specific traits                                  | Allows more detailed description                       |
+| Unconscious         | Part of mind outside awareness that may influence behaviour                    | Central to psychodynamic theory                        |
+| Humanistic approach | Approach focusing on choice, personal growth, and self-actualisation           | Important for healthy personality                      |
 
 ## 1. Self And Personality
 
@@ -392,11 +392,11 @@ Freud divided personality into id, ego, and superego.
 
 ## 26. Id, Ego, And Superego
 
-| Part | Main function |
-|---|---|
-| Id | Instinctual drives and immediate pleasure |
-| Ego | Reality-based decision-making and balance |
-| Superego | Moral standards and conscience |
+| Part     | Main function                             |
+| -------- | ----------------------------------------- |
+| Id       | Instinctual drives and immediate pleasure |
+| Ego      | Reality-based decision-making and balance |
+| Superego | Moral standards and conscience            |
 
 Personality conflict arises when these forces clash.
 

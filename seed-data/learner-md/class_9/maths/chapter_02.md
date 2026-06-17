@@ -1,20 +1,21 @@
 # Chapter 2: Introduction to Linear Polynomials
+
 ### NCERT Class 9 - Maths
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 9 |
-| **Subject** | Maths |
-| **Chapter** | 2 |
-| **Actual Chapter Focus** | Introduction to Linear Polynomials |
-| **Raw File Header** | "Polynomials" |
-| **Textbook Pages** | 1-40 |
-| **Core Theme** | Understanding one-variable polynomials, especially linear polynomials, and using them to model patterns and relationships. |
-| **Main Skill** | Moving between expressions, tables, word problems, linear equations, and straight-line graphs. |
+| Detail                   | Learner-Friendly Information                                                                                               |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| **Class**                | 9                                                                                                                          |
+| **Subject**              | Maths                                                                                                                      |
+| **Chapter**              | 2                                                                                                                          |
+| **Actual Chapter Focus** | Introduction to Linear Polynomials                                                                                         |
+| **Raw File Header**      | "Polynomials"                                                                                                              |
+| **Textbook Pages**       | 1-40                                                                                                                       |
+| **Core Theme**           | Understanding one-variable polynomials, especially linear polynomials, and using them to model patterns and relationships. |
+| **Main Skill**           | Moving between expressions, tables, word problems, linear equations, and straight-line graphs.                             |
 
 > [!NOTE]
 > The raw source file is `chapter_02.md` and its extraction header says "Polynomials", while the repeated chapter content title is **Introduction to Linear Polynomials**. This learner-facing version follows the actual chapter focus.
@@ -23,15 +24,15 @@
 
 ## Section Structure
 
-| Section | Title | Main Learning Focus |
-|---|---|---|
-| **2.0** | Introduction | Algebraic expressions and the idea of linear polynomials. |
-| **2.1** | Introduction | Terms, variables, coefficients, constants, powers, and degree. |
-| **2.2** | Linear Polynomials | Linear polynomial examples, linear equations, and function thinking. |
-| **2.3** | Exploring Linear Patterns | Constant differences and nth-term rules. |
-| **2.4** | Linear Growth and Linear Decay | Situations that increase or decrease by a constant amount. |
-| **2.5** | Linear Relationships | Finding \(y=ax+b\) from data. |
-| **2.6** | Visualising Linear Relationships | Graphs of straight lines, slope, y-intercept, and parallel lines. |
+| Section | Title                            | Main Learning Focus                                                  |
+| ------- | -------------------------------- | -------------------------------------------------------------------- |
+| **2.0** | Introduction                     | Algebraic expressions and the idea of linear polynomials.            |
+| **2.1** | Introduction                     | Terms, variables, coefficients, constants, powers, and degree.       |
+| **2.2** | Linear Polynomials               | Linear polynomial examples, linear equations, and function thinking. |
+| **2.3** | Exploring Linear Patterns        | Constant differences and nth-term rules.                             |
+| **2.4** | Linear Growth and Linear Decay   | Situations that increase or decrease by a constant amount.           |
+| **2.5** | Linear Relationships             | Finding \(y=ax+b\) from data.                                        |
+| **2.6** | Visualising Linear Relationships | Graphs of straight lines, slope, y-intercept, and parallel lines.    |
 
 ---
 
@@ -39,19 +40,19 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Identify algebraic parts** | Recognize terms, variables, coefficients, and constants. |
-| **Define polynomial** | Explain one-variable/univariate polynomials. |
-| **Find degree** | Identify the highest power of the variable in a polynomial. |
-| **Classify polynomials** | Distinguish constant, linear, quadratic, and cubic polynomials. |
-| **Evaluate expressions** | Substitute values into linear and quadratic polynomials. |
-| **Model word problems** | Convert situations into expressions or equations. |
-| **Recognize linear patterns** | Use constant difference to identify linear sequences. |
-| **Build nth-term rules** | Write rules such as \(2n-1\), \(100-5n\), or \(15n-5\). |
-| **Understand growth and decay** | Explain linear increase and linear decrease. |
-| **Find linear relationships** | Determine \(a\) and \(b\) in \(y=ax+b\) from two data points. |
-| **Graph lines** | Plot equations like \(y=2x+1\), \(y=3x\), and \(y=-x\). |
+| Outcome                           | You Should Be Able To...                                                    |
+| --------------------------------- | --------------------------------------------------------------------------- |
+| **Identify algebraic parts**      | Recognize terms, variables, coefficients, and constants.                    |
+| **Define polynomial**             | Explain one-variable/univariate polynomials.                                |
+| **Find degree**                   | Identify the highest power of the variable in a polynomial.                 |
+| **Classify polynomials**          | Distinguish constant, linear, quadratic, and cubic polynomials.             |
+| **Evaluate expressions**          | Substitute values into linear and quadratic polynomials.                    |
+| **Model word problems**           | Convert situations into expressions or equations.                           |
+| **Recognize linear patterns**     | Use constant difference to identify linear sequences.                       |
+| **Build nth-term rules**          | Write rules such as \(2n-1\), \(100-5n\), or \(15n-5\).                     |
+| **Understand growth and decay**   | Explain linear increase and linear decrease.                                |
+| **Find linear relationships**     | Determine \(a\) and \(b\) in \(y=ax+b\) from two data points.               |
+| **Graph lines**                   | Plot equations like \(y=2x+1\), \(y=3x\), and \(y=-x\).                     |
 | **Interpret slope and intercept** | Connect \(a\) with steepness and \(b\) with where the line cuts the y-axis. |
 
 ---
@@ -62,38 +63,38 @@ A linear polynomial describes a quantity that changes by a constant amount when 
 
 Examples:
 
-| Situation | Linear Expression | Meaning |
-|---|---|---|
-| Square perimeter with side \(x\) | \(4x\) | Perimeter grows by 4 for each 1 unit increase in side. |
-| Chess club fee | \(200+50m\) | Fixed fee plus 50 per match. |
-| Pocket money spent daily | \(100-5n\) | Amount decreases by 5 each day. |
-| Auto fare after first 2 km | \(15n-5\) | Fare grows by 15 per extra kilometre pattern. |
-| Straight-line relationship | \(y=ax+b\) | \(a\) controls slope; \(b\) controls y-intercept. |
+| Situation                        | Linear Expression | Meaning                                                |
+| -------------------------------- | ----------------- | ------------------------------------------------------ |
+| Square perimeter with side \(x\) | \(4x\)            | Perimeter grows by 4 for each 1 unit increase in side. |
+| Chess club fee                   | \(200+50m\)       | Fixed fee plus 50 per match.                           |
+| Pocket money spent daily         | \(100-5n\)        | Amount decreases by 5 each day.                        |
+| Auto fare after first 2 km       | \(15n-5\)         | Fare grows by 15 per extra kilometre pattern.          |
+| Straight-line relationship       | \(y=ax+b\)        | \(a\) controls slope; \(b\) controls y-intercept.      |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Algebraic expression** | Expression made using numbers, variables, and operation symbols. |
-| **Variable** | A letter that represents a number that can vary. |
-| **Term** | Part of an expression separated by plus or minus signs. |
-| **Coefficient** | Numerical factor multiplying a variable term. |
-| **Constant** | Term with no variable. |
-| **Polynomial** | Algebraic expression in one variable with non-negative integer powers of that variable. |
-| **Univariate polynomial** | Polynomial in one variable. |
-| **Degree** | Highest power of the variable in a polynomial. |
-| **Constant polynomial** | Polynomial of degree 0, such as \(8\). |
-| **Linear polynomial** | Polynomial of degree 1, such as \(2x+3\). |
-| **Quadratic polynomial** | Polynomial of degree 2, such as \(x^2+5x+1\). |
-| **Cubic polynomial** | Polynomial of degree 3, such as \(5y^3+y^2+2y-1\). |
-| **Linear pattern** | Sequence where consecutive terms differ by a constant amount. |
-| **Linear growth** | Quantity increases by a fixed amount over equal intervals. |
-| **Linear decay** | Quantity decreases by a fixed amount over equal intervals. |
-| **Linear relationship** | Relationship between two variables expressible as \(y=ax+b\). |
-| **Slope** | Number \(a\) in \(y=ax+b\); controls steepness and direction of a line. |
-| **y-intercept** | Number \(b\) in \(y=ax+b\); point where line cuts the y-axis is \((0,b)\). |
+| Term                      | Meaning                                                                                 |
+| ------------------------- | --------------------------------------------------------------------------------------- |
+| **Algebraic expression**  | Expression made using numbers, variables, and operation symbols.                        |
+| **Variable**              | A letter that represents a number that can vary.                                        |
+| **Term**                  | Part of an expression separated by plus or minus signs.                                 |
+| **Coefficient**           | Numerical factor multiplying a variable term.                                           |
+| **Constant**              | Term with no variable.                                                                  |
+| **Polynomial**            | Algebraic expression in one variable with non-negative integer powers of that variable. |
+| **Univariate polynomial** | Polynomial in one variable.                                                             |
+| **Degree**                | Highest power of the variable in a polynomial.                                          |
+| **Constant polynomial**   | Polynomial of degree 0, such as \(8\).                                                  |
+| **Linear polynomial**     | Polynomial of degree 1, such as \(2x+3\).                                               |
+| **Quadratic polynomial**  | Polynomial of degree 2, such as \(x^2+5x+1\).                                           |
+| **Cubic polynomial**      | Polynomial of degree 3, such as \(5y^3+y^2+2y-1\).                                      |
+| **Linear pattern**        | Sequence where consecutive terms differ by a constant amount.                           |
+| **Linear growth**         | Quantity increases by a fixed amount over equal intervals.                              |
+| **Linear decay**          | Quantity decreases by a fixed amount over equal intervals.                              |
+| **Linear relationship**   | Relationship between two variables expressible as \(y=ax+b\).                           |
+| **Slope**                 | Number \(a\) in \(y=ax+b\); controls steepness and direction of a line.                 |
+| **y-intercept**           | Number \(b\) in \(y=ax+b\); point where line cuts the y-axis is \((0,b)\).              |
 
 ---
 
@@ -133,13 +134,13 @@ $$
 
 ### Parts of the Expression
 
-| Part | Meaning |
-|---|---|
-| \(4x\), \(5y\), \(3\) | Terms |
-| \(x\), \(y\) | Variables |
-| 4 | Coefficient of \(x\) |
-| 5 | Coefficient of \(y\) |
-| 3 | Constant term |
+| Part                  | Meaning              |
+| --------------------- | -------------------- |
+| \(4x\), \(5y\), \(3\) | Terms                |
+| \(x\), \(y\)          | Variables            |
+| 4                     | Coefficient of \(x\) |
+| 5                     | Coefficient of \(y\) |
+| 3                     | Constant term        |
 
 ---
 
@@ -231,14 +232,14 @@ A one-variable polynomial is an algebraic expression involving one variable and 
 
 Examples:
 
-| Polynomial | Variable | Highest Power | Degree | Type |
-|---|---|---:|---:|---|
-| \(4x\) | \(x\) | 1 | 1 | Linear |
-| \(x^2+1\) | \(x\) | 2 | 2 | Quadratic |
-| \(2y-5\) | \(y\) | 1 | 1 | Linear |
-| \(5y^3+y^2+2y-1\) | \(y\) | 3 | 3 | Cubic |
-| \(3z+7\) | \(z\) | 1 | 1 | Linear |
-| \(8\) | any chosen variable | 0 | 0 | Constant |
+| Polynomial        | Variable            | Highest Power | Degree | Type      |
+| ----------------- | ------------------- | ------------: | -----: | --------- |
+| \(4x\)            | \(x\)               |             1 |      1 | Linear    |
+| \(x^2+1\)         | \(x\)               |             2 |      2 | Quadratic |
+| \(2y-5\)          | \(y\)               |             1 |      1 | Linear    |
+| \(5y^3+y^2+2y-1\) | \(y\)               |             3 |      3 | Cubic     |
+| \(3z+7\)          | \(z\)               |             1 |      1 | Linear    |
+| \(8\)             | any chosen variable |             0 |      0 | Constant  |
 
 ### Degree
 
@@ -246,23 +247,23 @@ The degree of a polynomial is the highest power of its variable.
 
 Examples:
 
-| Polynomial | Degree | Reason |
-|---|---:|---|
-| \(5y^3+y^2+2y-1\) | 3 | Highest power is \(y^3\). |
-| \(x^2+5x+1\) | 2 | Highest power is \(x^2\). |
-| \(z+7\) | 1 | Highest power is \(z^1\). |
-| \(8\) | 0 | Can be written as \(8x^0\). |
+| Polynomial        | Degree | Reason                      |
+| ----------------- | -----: | --------------------------- |
+| \(5y^3+y^2+2y-1\) |      3 | Highest power is \(y^3\).   |
+| \(x^2+5x+1\)      |      2 | Highest power is \(x^2\).   |
+| \(z+7\)           |      1 | Highest power is \(z^1\).   |
+| \(8\)             |      0 | Can be written as \(8x^0\). |
 
 ---
 
 ## Polynomial Classification
 
-| Degree | Name | Example |
-|---:|---|---|
-| 0 | Constant polynomial | \(9\), \(-5\), \(12\) |
-| 1 | Linear polynomial | \(2x+3\), \(4z-3\) |
-| 2 | Quadratic polynomial | \(x^2+5x+1\) |
-| 3 | Cubic polynomial | \(y^3+2y-1\) |
+| Degree | Name                 | Example               |
+| -----: | -------------------- | --------------------- |
+|      0 | Constant polynomial  | \(9\), \(-5\), \(12\) |
+|      1 | Linear polynomial    | \(2x+3\), \(4z-3\)    |
+|      2 | Quadratic polynomial | \(x^2+5x+1\)          |
+|      3 | Cubic polynomial     | \(y^3+2y-1\)          |
 
 ---
 
@@ -270,12 +271,12 @@ Examples:
 
 ### Find Degree
 
-| Polynomial | Degree |
-|---|---:|
-| \(2x^2-5x+3\) | 2 |
-| \(y^3+2y-1\) | 3 |
-| \(-9\) | 0 |
-| \(4z-3\) | 1 |
+| Polynomial    | Degree |
+| ------------- | -----: |
+| \(2x^2-5x+3\) |      2 |
+| \(y^3+2y-1\)  |      3 |
+| \(-9\)        |      0 |
+| \(4z-3\)      |      1 |
 
 ### Coefficients
 
@@ -337,20 +338,20 @@ $$
 
 where:
 
-| Symbol | Meaning |
-|---|---|
-| \(x\) | Variable |
-| \(a\) | Coefficient of \(x\), not equal to 0 |
-| \(b\) | Constant |
+| Symbol | Meaning                              |
+| ------ | ------------------------------------ |
+| \(x\)  | Variable                             |
+| \(a\)  | Coefficient of \(x\), not equal to 0 |
+| \(b\)  | Constant                             |
 
 Examples:
 
 | Linear Polynomial | Variable | Coefficient | Constant |
-|---|---|---:|---:|
-| \(4x\) | \(x\) | 4 | 0 |
-| \(200+50m\) | \(m\) | 50 | 200 |
-| \(2x+10\) | \(x\) | 2 | 10 |
-| \(3z+7\) | \(z\) | 3 | 7 |
+| ----------------- | -------- | ----------: | -------: |
+| \(4x\)            | \(x\)    |           4 |        0 |
+| \(200+50m\)       | \(m\)    |          50 |      200 |
+| \(2x+10\)         | \(x\)    |           2 |       10 |
+| \(3z+7\)          | \(z\)    |           3 |        7 |
 
 ---
 
@@ -367,12 +368,12 @@ This is a linear polynomial.
 ### Table
 
 | Side \(x\) in cm | Perimeter \(4x\) in cm |
-|---:|---:|
-| 1 | 4 |
-| 1.5 | 6 |
-| 2 | 8 |
-| 2.5 | 10 |
-| 3 | 12 |
+| ---------------: | ---------------------: |
+|                1 |                      4 |
+|              1.5 |                      6 |
+|                2 |                      8 |
+|              2.5 |                     10 |
+|                3 |                     12 |
 
 If the side increases by 0.5 cm, the perimeter increases by:
 
@@ -398,12 +399,12 @@ $$
 ### Table
 
 | Matches \(m\) | Amount \(200+50m\) |
-|---:|---:|
-| 1 | 250 |
-| 2 | 300 |
-| 3 | 350 |
-| 4 | 400 |
-| 5 | 450 |
+| ------------: | -----------------: |
+|             1 |                250 |
+|             2 |                300 |
+|             3 |                350 |
+|             4 |                400 |
+|             5 |                450 |
 
 The amount increases by Rs 50 for every extra match.
 
@@ -496,16 +497,16 @@ The input is \(x\). The output is the value of the expression.
 This idea is called a **function**.
 
 | Input \(x\) | Output \(2x+3\) |
-|---:|---:|
-| 4 | 11 |
-| -6 | -9 |
-| 0 | 3 |
+| ----------: | --------------: |
+|           4 |              11 |
+|          -6 |              -9 |
+|           0 |               3 |
 
 ### Linear vs Quadratic Function
 
-| Expression | Type | Reason |
-|---|---|---|
-| \(2x+3\) | Linear | Highest power of \(x\) is 1. |
+| Expression  | Type      | Reason                       |
+| ----------- | --------- | ---------------------------- |
+| \(2x+3\)    | Linear    | Highest power of \(x\) is 1. |
 | \(10x-x^2\) | Quadratic | Highest power of \(x\) is 2. |
 
 ---
@@ -515,10 +516,10 @@ This idea is called a **function**.
 ### Evaluate \(5x-3\)
 
 | \(x\) | \(5x-3\) |
-|---:|---:|
-| 0 | \(-3\) |
-| -1 | \(-8\) |
-| 2 | 7 |
+| ----: | -------: |
+|     0 |   \(-3\) |
+|    -1 |   \(-8\) |
+|     2 |        7 |
 
 ### Salil and His Mother
 
@@ -565,9 +566,9 @@ $$
 So:
 
 | Person | Present Age |
-|---|---:|
-| Salil | 15 years |
-| Mother | 45 years |
+| ------ | ----------: |
+| Salil  |    15 years |
+| Mother |    45 years |
 
 ---
 
@@ -578,14 +579,14 @@ A linear pattern has a constant difference between consecutive terms.
 Example tile pattern:
 
 | Stage | Number of Tiles |
-|---:|---:|
-| 1 | 1 |
-| 2 | 3 |
-| 3 | 5 |
-| 4 | 7 |
-| 5 | 9 |
-| 6 | 11 |
-| 7 | 13 |
+| ----: | --------------: |
+|     1 |               1 |
+|     2 |               3 |
+|     3 |               5 |
+|     4 |               7 |
+|     5 |               9 |
+|     6 |              11 |
+|     7 |              13 |
 
 Difference:
 
@@ -668,12 +669,12 @@ $$
 ### Table
 
 | Day \(n\) | Amount Left |
-|---:|---:|
-| 0 | 100 |
-| 1 | 95 |
-| 2 | 90 |
-| 3 | 85 |
-| 4 | 80 |
+| --------: | ----------: |
+|         0 |         100 |
+|         1 |          95 |
+|         2 |          90 |
+|         3 |          85 |
+|         4 |          80 |
 
 When amount left is Rs 40:
 
@@ -962,12 +963,12 @@ $$
 y=ax+b
 $$
 
-| Symbol | Meaning |
-|---|---|
-| \(x\) | Input variable |
-| \(y\) | Output variable |
-| \(a\) | Rate of change / slope |
-| \(b\) | Starting value / y-intercept |
+| Symbol | Meaning                      |
+| ------ | ---------------------------- |
+| \(x\)  | Input variable               |
+| \(y\)  | Output variable              |
+| \(a\)  | Rate of change / slope       |
+| \(b\)  | Starting value / y-intercept |
 
 ---
 
@@ -982,9 +983,9 @@ $$
 Given:
 
 | Data Used \(x\) | Bill \(y\) |
-|---:|---:|
-| 10 GB | 350 |
-| 20 GB | 550 |
+| --------------: | ---------: |
+|           10 GB |        350 |
+|           20 GB |        550 |
 
 Substitute:
 
@@ -1028,10 +1029,10 @@ $$
 
 ### Meaning
 
-| Number | Meaning |
-|---|---|
-| 20 | Cost per GB |
-| 150 | Fixed monthly fee |
+| Number | Meaning           |
+| ------ | ----------------- |
+| 20     | Cost per GB       |
+| 150    | Fixed monthly fee |
 
 ---
 
@@ -1042,9 +1043,9 @@ $$
 Given:
 
 | Modules \(x\) | Bill \(y\) |
-|---:|---:|
-| 10 | 400 |
-| 14 | 500 |
+| ------------: | ---------: |
+|            10 |        400 |
+|            14 |        500 |
 
 Use:
 
@@ -1093,9 +1094,9 @@ $$
 Given:
 
 | Hours \(x\) | Bill \(y\) |
-|---:|---:|
-| 10 | 800 |
-| 15 | 1100 |
+| ----------: | ---------: |
+|          10 |        800 |
+|          15 |       1100 |
 
 Equations:
 
@@ -1153,24 +1154,24 @@ To draw a line, two points are enough.
 
 Choose two x-values.
 
-| \(x\) | \(y=2x+1\) | Point |
-|---:|---:|---|
-| 0 | 1 | \((0,1)\) |
-| 3 | 7 | \((3,7)\) |
+| \(x\) | \(y=2x+1\) | Point     |
+| ----: | ---------: | --------- |
+|     0 |          1 | \((0,1)\) |
+|     3 |          7 | \((3,7)\) |
 
 Plot \((0,1)\) and \((3,7)\), then join them with a straight line.
 
 Other points on the same line:
 
 | \(x\) | \(y=2x+1\) |
-|---:|---:|
-| 1 | 3 |
-| 2 | 5 |
-| 5 | 11 |
-| 7 | 15 |
-| 9 | 19 |
-| 12 | 25 |
-| 20 | 41 |
+| ----: | ---------: |
+|     1 |          3 |
+|     2 |          5 |
+|     5 |         11 |
+|     7 |         15 |
+|     9 |         19 |
+|    12 |         25 |
+|    20 |         41 |
 
 If a point lies on the line, its coordinates satisfy the equation.
 
@@ -1218,12 +1219,12 @@ lies on the line.
 
 ### Examples
 
-| Equation | Sample Points |
-|---|---|
-| \(y=3x\) | \((-1,-3),(0,0),(1,3),(3,9)\) |
-| \(y=-2x\) | \((-2,4),(0,0),(2,-4)\) |
-| \(y=x\) | \((-1,-1),(0,0),(2,2)\) |
-| \(y=\frac{1}{2}x\) | \((0,0),(4,2)\) |
+| Equation           | Sample Points                 |
+| ------------------ | ----------------------------- |
+| \(y=3x\)           | \((-1,-3),(0,0),(1,3),(3,9)\) |
+| \(y=-2x\)          | \((-2,4),(0,0),(2,-4)\)       |
+| \(y=x\)            | \((-1,-1),(0,0),(2,2)\)       |
+| \(y=\frac{1}{2}x\) | \((0,0),(4,2)\)               |
 
 ---
 
@@ -1245,19 +1246,19 @@ It tells:
 
 ### Slope Sign
 
-| Slope \(a\) | Graph Behavior | Pattern Type |
-|---:|---|---|
-| \(a>0\) | Line rises left to right | Linear growth |
-| \(a<0\) | Line falls left to right | Linear decay |
-| \(a=0\) | Horizontal line | Constant value |
+| Slope \(a\) | Graph Behavior           | Pattern Type   |
+| ----------: | ------------------------ | -------------- |
+|     \(a>0\) | Line rises left to right | Linear growth  |
+|     \(a<0\) | Line falls left to right | Linear decay   |
+|     \(a=0\) | Horizontal line          | Constant value |
 
 ### Comparing \(y=\frac{1}{2}x\), \(y=x\), \(y=2x\)
 
-| Equation | Slope | Steepness |
-|---|---:|---|
+| Equation           |           Slope | Steepness               |
+| ------------------ | --------------: | ----------------------- |
 | \(y=\frac{1}{2}x\) | \(\frac{1}{2}\) | Less steep than \(y=x\) |
-| \(y=x\) | 1 | Reference line |
-| \(y=2x\) | 2 | Steeper than \(y=x\) |
+| \(y=x\)            |               1 | Reference line          |
+| \(y=2x\)           |               2 | Steeper than \(y=x\)    |
 
 ---
 
@@ -1279,11 +1280,11 @@ $$
 
 Examples:
 
-| Equation | y-intercept | Point on y-axis |
-|---|---:|---|
-| \(y=x+3\) | 3 | \((0,3)\) |
-| \(y=2x+5\) | 5 | \((0,5)\) |
-| \(y=3x-2\) | -2 | \((0,-2)\) |
+| Equation   | y-intercept | Point on y-axis |
+| ---------- | ----------: | --------------- |
+| \(y=x+3\)  |           3 | \((0,3)\)       |
+| \(y=2x+5\) |           5 | \((0,5)\)       |
+| \(y=3x-2\) |          -2 | \((0,-2)\)      |
 
 ---
 
@@ -1309,11 +1310,11 @@ All have slope 2, so they are parallel.
 
 Their y-intercepts are different:
 
-| Equation | Slope | y-intercept |
-|---|---:|---:|
-| \(y=2x-1\) | 2 | -1 |
-| \(y=2x+1\) | 2 | 1 |
-| \(y=2x+5\) | 2 | 5 |
+| Equation   | Slope | y-intercept |
+| ---------- | ----: | ----------: |
+| \(y=2x-1\) |     2 |          -1 |
+| \(y=2x+1\) |     2 |           1 |
+| \(y=2x+5\) |     2 |           5 |
 
 ---
 
@@ -1389,12 +1390,12 @@ $$
 
 ### To Graph \(y=ax+b\)
 
-| Step | Action |
-|---|---|
-| **1** | Choose two convenient x-values. |
-| **2** | Substitute each x-value to find y. |
-| **3** | Write two points. |
-| **4** | Plot the points on graph paper. |
+| Step  | Action                                      |
+| ----- | ------------------------------------------- |
+| **1** | Choose two convenient x-values.             |
+| **2** | Substitute each x-value to find y.          |
+| **3** | Write two points.                           |
+| **4** | Plot the points on graph paper.             |
 | **5** | Join them with a ruler and extend the line. |
 
 ### Quick Choice of Points
@@ -1413,18 +1414,18 @@ Then choose another easy \(x\), such as 1, 2, or a value that avoids fractions.
 
 ## Common Mistakes
 
-| Mistake | Correction |
-|---|---|
-| Calling every algebraic expression a polynomial. | A polynomial in this chapter has one variable with non-negative integer powers. |
-| Forgetting missing terms have coefficient 0. | If no \(z\)-term appears, coefficient of \(z\) is 0. |
-| Saying constant polynomial has degree 1. | A non-zero constant polynomial has degree 0. |
-| Treating \(10x-x^2\) as linear because it has \(x\). | It is quadratic because highest power is 2. |
-| Confusing coefficient and constant. | Coefficient multiplies variable; constant has no variable. |
-| Thinking linear growth must start at 0. | It can start at any value, such as \(100+60d\). |
-| Forgetting a fixed fee in \(y=ax+b\). | Fixed fee is the \(b\) term. |
-| Graphing a line using only one point. | Two points are needed to draw a unique line. |
-| Confusing slope and y-intercept. | Slope is \(a\), y-intercept is \(b\). |
-| Thinking same y-intercept means parallel. | Same slope means parallel. |
+| Mistake                                              | Correction                                                                      |
+| ---------------------------------------------------- | ------------------------------------------------------------------------------- |
+| Calling every algebraic expression a polynomial.     | A polynomial in this chapter has one variable with non-negative integer powers. |
+| Forgetting missing terms have coefficient 0.         | If no \(z\)-term appears, coefficient of \(z\) is 0.                            |
+| Saying constant polynomial has degree 1.             | A non-zero constant polynomial has degree 0.                                    |
+| Treating \(10x-x^2\) as linear because it has \(x\). | It is quadratic because highest power is 2.                                     |
+| Confusing coefficient and constant.                  | Coefficient multiplies variable; constant has no variable.                      |
+| Thinking linear growth must start at 0.              | It can start at any value, such as \(100+60d\).                                 |
+| Forgetting a fixed fee in \(y=ax+b\).                | Fixed fee is the \(b\) term.                                                    |
+| Graphing a line using only one point.                | Two points are needed to draw a unique line.                                    |
+| Confusing slope and y-intercept.                     | Slope is \(a\), y-intercept is \(b\).                                           |
+| Thinking same y-intercept means parallel.            | Same slope means parallel.                                                      |
 
 ---
 
@@ -1432,53 +1433,53 @@ Then choose another easy \(x\), such as 1, 2, or a value that avoids fractions.
 
 ### A. Polynomial Basics
 
-| Q | Question Focus | How to Approach |
-|---|---|---|
-| **Exercise 2.1 Q1** | Degree of polynomials | Find highest power of the variable. |
-| **Exercise 2.1 Q2** | Write polynomials of degrees 1, 2, 3 | Use examples like \(x+1\), \(x^2+1\), \(x^3+1\). |
-| **Exercise 2.1 Q3-Q5** | Coefficients and constant terms | Identify the requested term; missing coefficient is 0. |
-| **End Q1** | Cubic polynomial with coefficient of \(x^2=-7\) | Build any degree 3 polynomial containing \(-7x^2\). |
-| **End Q2** | Evaluate polynomials | Substitute the variable value carefully. |
+| Q                      | Question Focus                                  | How to Approach                                        |
+| ---------------------- | ----------------------------------------------- | ------------------------------------------------------ |
+| **Exercise 2.1 Q1**    | Degree of polynomials                           | Find highest power of the variable.                    |
+| **Exercise 2.1 Q2**    | Write polynomials of degrees 1, 2, 3            | Use examples like \(x+1\), \(x^2+1\), \(x^3+1\).       |
+| **Exercise 2.1 Q3-Q5** | Coefficients and constant terms                 | Identify the requested term; missing coefficient is 0. |
+| **End Q1**             | Cubic polynomial with coefficient of \(x^2=-7\) | Build any degree 3 polynomial containing \(-7x^2\).    |
+| **End Q2**             | Evaluate polynomials                            | Substitute the variable value carefully.               |
 
 ### B. Word Problems and Linear Equations
 
-| Q | Question Focus | How to Approach |
-|---|---|---|
-| **Exercise 2.2 Q3** | Ages | Let Salil's age be \(x\), write mother as \(3x\). |
-| **Exercise 2.2 Q4** | Ratio and difference | Represent numbers as \(2x\) and \(5x\). |
-| **Exercise 2.2 Q5** | Coins | Let five-rupee coins be \(x\); two-rupee coins are \(3x\). |
-| **Exercise 2.2 Q6** | Fence pieces | Let shorter piece be \(x\); longer is \(4x\). |
-| **Exercise 2.2 Q7** | Rectangle dimensions | Let width be \(x\); length is \(2x+3\). |
+| Q                   | Question Focus       | How to Approach                                            |
+| ------------------- | -------------------- | ---------------------------------------------------------- |
+| **Exercise 2.2 Q3** | Ages                 | Let Salil's age be \(x\), write mother as \(3x\).          |
+| **Exercise 2.2 Q4** | Ratio and difference | Represent numbers as \(2x\) and \(5x\).                    |
+| **Exercise 2.2 Q5** | Coins                | Let five-rupee coins be \(x\); two-rupee coins are \(3x\). |
+| **Exercise 2.2 Q6** | Fence pieces         | Let shorter piece be \(x\); longer is \(4x\).              |
+| **Exercise 2.2 Q7** | Rectangle dimensions | Let width be \(x\); length is \(2x+3\).                    |
 
 ### C. Linear Patterns
 
-| Q | Question Focus | How to Approach |
-|---|---|---|
-| **Exercise 2.3 Q1** | Savings bank pattern | Starting amount plus monthly increase. |
-| **Exercise 2.3 Q2** | Rally members decreasing | Starting number minus hourly dropouts. |
-| **Exercise 2.3 Q3** | Area with fixed length | Area \(=13b\). |
-| **Exercise 2.3 Q4** | Volume with fixed length and breadth | Volume \(=7\times 11\times h=77h\). |
-| **Exercise 2.3 Q5** | Pages left | Total pages minus pages read. |
+| Q                   | Question Focus                       | How to Approach                        |
+| ------------------- | ------------------------------------ | -------------------------------------- |
+| **Exercise 2.3 Q1** | Savings bank pattern                 | Starting amount plus monthly increase. |
+| **Exercise 2.3 Q2** | Rally members decreasing             | Starting number minus hourly dropouts. |
+| **Exercise 2.3 Q3** | Area with fixed length               | Area \(=13b\).                         |
+| **Exercise 2.3 Q4** | Volume with fixed length and breadth | Volume \(=7\times 11\times h=77h\).    |
+| **Exercise 2.3 Q5** | Pages left                           | Total pages minus pages read.          |
 
 ### D. Growth and Decay
 
-| Q | Question Focus | How to Approach |
-|---|---|---|
-| **Exercise 2.4 Q1** | Plant height | \(h=1.75+0.5t\). |
-| **Exercise 2.4 Q2** | Phone value | \(v=10000-800t\). |
-| **Exercise 2.4 Q3** | Population | \(P=750+50t\). |
+| Q                   | Question Focus  | How to Approach   |
+| ------------------- | --------------- | ----------------- |
+| **Exercise 2.4 Q1** | Plant height    | \(h=1.75+0.5t\).  |
+| **Exercise 2.4 Q2** | Phone value     | \(v=10000-800t\). |
+| **Exercise 2.4 Q3** | Population      | \(P=750+50t\).    |
 | **Exercise 2.4 Q4** | Prepaid balance | \(b(x)=600-15x\). |
 
 ### E. Linear Relationships and Graphs
 
-| Q | Question Focus | How to Approach |
-|---|---|---|
-| **Exercise 2.5 Q1-Q3** | Find \(a,b\) from data | Substitute two data pairs into \(y=ax+b\). |
-| **Exercise 2.6 Q1** | Draw families of lines | Compare slopes and intercepts. |
-| **End Q7** | Slopes and y-intercepts | Rewrite if needed in \(y=ax+b\). |
-| **End Q10** | Linear polynomial through two points | Find slope and intercept. |
-| **End Q13** | Parallel polynomial graphs | Same slope, different intercepts. |
-| **End Q14** | \(f(x)=ax+a\) | Slope and y-intercept are both \(a\); all pass through \((-1,0)\). |
+| Q                      | Question Focus                       | How to Approach                                                    |
+| ---------------------- | ------------------------------------ | ------------------------------------------------------------------ |
+| **Exercise 2.5 Q1-Q3** | Find \(a,b\) from data               | Substitute two data pairs into \(y=ax+b\).                         |
+| **Exercise 2.6 Q1**    | Draw families of lines               | Compare slopes and intercepts.                                     |
+| **End Q7**             | Slopes and y-intercepts              | Rewrite if needed in \(y=ax+b\).                                   |
+| **End Q10**            | Linear polynomial through two points | Find slope and intercept.                                          |
+| **End Q13**            | Parallel polynomial graphs           | Same slope, different intercepts.                                  |
+| **End Q14**            | \(f(x)=ax+a\)                        | Slope and y-intercept are both \(a\); all pass through \((-1,0)\). |
 
 ---
 
@@ -1801,12 +1802,12 @@ Each new hexagon shares one side, so it adds 5 new matchsticks.
 Pattern:
 
 | Stage | Matchsticks |
-|---:|---:|
-| 1 | 6 |
-| 2 | 11 |
-| 3 | 16 |
-| 4 | 21 |
-| 5 | 26 |
+| ----: | ----------: |
+|     1 |           6 |
+|     2 |          11 |
+|     3 |          16 |
+|     4 |          21 |
+|     5 |          26 |
 
 Rule:
 
@@ -1882,26 +1883,26 @@ Also:
 
 ### Polynomial Basics
 
-| Idea | Quick Rule |
-|---|---|
-| Term | Part separated by \(+\) or \(-\). |
-| Coefficient | Number multiplying variable part. |
-| Constant | Term without variable. |
-| Degree | Highest power of variable. |
-| Linear polynomial | Degree 1. |
-| Constant polynomial | Degree 0, if non-zero. |
+| Idea                | Quick Rule                        |
+| ------------------- | --------------------------------- |
+| Term                | Part separated by \(+\) or \(-\). |
+| Coefficient         | Number multiplying variable part. |
+| Constant            | Term without variable.            |
+| Degree              | Highest power of variable.        |
+| Linear polynomial   | Degree 1.                         |
+| Constant polynomial | Degree 0, if non-zero.            |
 
 ### Linear Relationship
 
-| Form | Meaning |
-|---|---|
-| \(ax+b\) | Linear polynomial in one variable. |
-| \(y=ax+b\) | Straight-line relationship between \(x\) and \(y\). |
-| \(a\) | Slope / rate of change. |
-| \(b\) | y-intercept / starting value. |
-| \(a>0\) | Growth / rising line. |
-| \(a<0\) | Decay / falling line. |
-| Same \(a\), different \(b\) | Parallel lines. |
+| Form                        | Meaning                                             |
+| --------------------------- | --------------------------------------------------- |
+| \(ax+b\)                    | Linear polynomial in one variable.                  |
+| \(y=ax+b\)                  | Straight-line relationship between \(x\) and \(y\). |
+| \(a\)                       | Slope / rate of change.                             |
+| \(b\)                       | y-intercept / starting value.                       |
+| \(a>0\)                     | Growth / rising line.                               |
+| \(a<0\)                     | Decay / falling line.                               |
+| Same \(a\), different \(b\) | Parallel lines.                                     |
 
 ---
 
@@ -1961,4 +1962,3 @@ A one-variable polynomial is an algebraic expression in one variable and its non
 A linear polynomial has the form \(ax+b\), where \(a\ne0\). Linear polynomials model situations where a quantity changes by a fixed amount. Such patterns are linear patterns. Linear growth means a quantity increases by a constant amount over equal intervals, while linear decay means it decreases by a constant amount.
 
 A linear relationship between two variables can be written as \(y=ax+b\). Its graph is a straight line. The number \(a\) is the slope and shows the rate of change. The number \(b\) is the y-intercept, and the line cuts the y-axis at \((0,b)\). Lines with the same slope but different y-intercepts are parallel.
-

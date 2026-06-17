@@ -185,17 +185,17 @@ Services can often be customized because customers are involved.
 
 ## 13. Difference Between Services and Goods
 
-| Basis | Services | Goods |
-|---|---|---|
-| Nature | Action, process, or experience | Physical object |
-| Tangibility | Intangible | Tangible |
-| Ownership | Ownership usually not transferred | Ownership transferred |
-| Production and consumption | Often simultaneous | Usually separate |
-| Storage | Cannot be stored | Can be stored |
-| Standardisation | More variable | More standardized |
-| Customer involvement | Often high | Usually lower during production |
-| Example | Medical treatment | Medicine |
-| Quality judgement | Often judged after experience | Can often be inspected before purchase |
+| Basis                      | Services                          | Goods                                  |
+| -------------------------- | --------------------------------- | -------------------------------------- |
+| Nature                     | Action, process, or experience    | Physical object                        |
+| Tangibility                | Intangible                        | Tangible                               |
+| Ownership                  | Ownership usually not transferred | Ownership transferred                  |
+| Production and consumption | Often simultaneous                | Usually separate                       |
+| Storage                    | Cannot be stored                  | Can be stored                          |
+| Standardisation            | More variable                     | More standardized                      |
+| Customer involvement       | Often high                        | Usually lower during production        |
+| Example                    | Medical treatment                 | Medicine                               |
+| Quality judgement          | Often judged after experience     | Can often be inspected before purchase |
 
 ## 14. Types of Services
 
@@ -504,16 +504,16 @@ Insurance is a contract in which the insurer agrees, in return for premium, to c
 
 ## 34. Important Insurance Terms
 
-| Term | Meaning |
-|---|---|
-| Insured | Person or business whose risk is covered |
-| Insurer | Insurance company that accepts the risk |
-| Premium | Amount paid by insured to insurer |
-| Policy | Written insurance contract |
-| Claim | Demand for payment after insured event occurs |
-| Sum assured | Amount promised in life insurance |
-| Sum insured | Maximum cover amount in general insurance |
-| Risk | Possibility of loss |
+| Term        | Meaning                                       |
+| ----------- | --------------------------------------------- |
+| Insured     | Person or business whose risk is covered      |
+| Insurer     | Insurance company that accepts the risk       |
+| Premium     | Amount paid by insured to insurer             |
+| Policy      | Written insurance contract                    |
+| Claim       | Demand for payment after insured event occurs |
+| Sum assured | Amount promised in life insurance             |
+| Sum insured | Maximum cover amount in general insurance     |
+| Risk        | Possibility of loss                           |
 
 ## 35. Fundamental Principle of Insurance
 
@@ -729,16 +729,16 @@ Freight insurance covers loss of freight income if cargo is lost or damaged and 
 
 ## 50. Life, Fire, and Marine Insurance: Comparison
 
-| Basis | Life insurance | Fire insurance | Marine insurance |
-|---|---|---|---|
-| Subject matter | Human life | Physical property or assets | Ship, cargo, or freight |
-| Main element | Protection and investment | Protection | Protection |
-| Insurable interest | Needed at policy start | Needed at policy start and at loss | Needed at time of loss |
-| Duration | Usually long-term | Usually one year | Usually voyage-based or period-based |
-| Indemnity | Not based on indemnity | Based on indemnity | Based on indemnity |
-| Loss measurement | Life cannot be measured in money | Loss is measurable | Loss is measurable |
-| Policy amount | Can be any agreed amount within rules | Cannot exceed property value | May be based on market value or agreed value |
-| Event | Death or maturity is certain to occur eventually | Fire may or may not occur | Marine loss may or may not occur |
+| Basis              | Life insurance                                   | Fire insurance                     | Marine insurance                             |
+| ------------------ | ------------------------------------------------ | ---------------------------------- | -------------------------------------------- |
+| Subject matter     | Human life                                       | Physical property or assets        | Ship, cargo, or freight                      |
+| Main element       | Protection and investment                        | Protection                         | Protection                                   |
+| Insurable interest | Needed at policy start                           | Needed at policy start and at loss | Needed at time of loss                       |
+| Duration           | Usually long-term                                | Usually one year                   | Usually voyage-based or period-based         |
+| Indemnity          | Not based on indemnity                           | Based on indemnity                 | Based on indemnity                           |
+| Loss measurement   | Life cannot be measured in money                 | Loss is measurable                 | Loss is measurable                           |
+| Policy amount      | Can be any agreed amount within rules            | Cannot exceed property value       | May be based on market value or agreed value |
+| Event              | Death or maturity is certain to occur eventually | Fire may or may not occur          | Marine loss may or may not occur             |
 
 ## 51. Other Insurance Forms
 
@@ -1082,15 +1082,15 @@ Warehousing means storage of goods in a scientific and systematic manner. Modern
 
 ## 63. Principle-Based Insurance Examples
 
-| Principle | Example |
-|---|---|
-| Utmost good faith | A life insurance proposer must disclose serious illness |
-| Insurable interest | A shopkeeper can insure shop stock |
-| Indemnity | Fire insurer pays actual loss, not extra profit |
-| Proximate cause | Claim depends on the dominant cause of loss |
-| Subrogation | After paying for stolen goods, insurer may claim recovered goods |
-| Contribution | If two insurers cover same property, loss is shared |
-| Mitigation | Owner must try to save goods during fire |
+| Principle          | Example                                                          |
+| ------------------ | ---------------------------------------------------------------- |
+| Utmost good faith  | A life insurance proposer must disclose serious illness          |
+| Insurable interest | A shopkeeper can insure shop stock                               |
+| Indemnity          | Fire insurer pays actual loss, not extra profit                  |
+| Proximate cause    | Claim depends on the dominant cause of loss                      |
+| Subrogation        | After paying for stolen goods, insurer may claim recovered goods |
+| Contribution       | If two insurers cover same property, loss is shared              |
+| Mitigation         | Owner must try to save goods during fire                         |
 
 ## 64. Important One-Liners
 
@@ -1117,48 +1117,48 @@ Warehousing means storage of goods in a scientific and systematic manner. Modern
 
 ## 65. Common Mistakes and Corrections
 
-| Mistake | Correct understanding |
-|---|---|
-| Services can be stored like goods | Services are usually perishable and cannot be stocked |
-| E-banking means only ATM | E-banking includes ATM, internet banking, mobile banking, cards, and fund transfer |
-| Insurance prevents loss | Insurance compensates financial loss; it does not prevent the event |
-| Life insurance is indemnity | Life insurance is not indemnity because life cannot be measured in money |
-| Insurable interest means ownership only | A person can have insurable interest without ownership, such as a mortgagee |
+| Mistake                                  | Correct understanding                                                                   |
+| ---------------------------------------- | --------------------------------------------------------------------------------------- |
+| Services can be stored like goods        | Services are usually perishable and cannot be stocked                                   |
+| E-banking means only ATM                 | E-banking includes ATM, internet banking, mobile banking, cards, and fund transfer      |
+| Insurance prevents loss                  | Insurance compensates financial loss; it does not prevent the event                     |
+| Life insurance is indemnity              | Life insurance is not indemnity because life cannot be measured in money                |
+| Insurable interest means ownership only  | A person can have insurable interest without ownership, such as a mortgagee             |
 | Public warehouse is government warehouse | Public warehouse is open to public for fee; government warehouse is owned by government |
-| Transport removes time hindrance | Transport removes place hindrance; warehousing removes time hindrance |
-| Premium is claim amount | Premium is paid by insured; claim is demanded after loss |
+| Transport removes time hindrance         | Transport removes place hindrance; warehousing removes time hindrance                   |
+| Premium is claim amount                  | Premium is paid by insured; claim is demanded after loss                                |
 
 ## 66. Glossary
 
-| Term | Meaning |
-|---|---|
-| Service | Intangible economic work that satisfies wants |
-| Goods | Physical products capable of ownership and storage |
-| Business services | Services used by business firms |
-| Social services | Welfare-oriented services for social goals |
-| Personal services | Services based on individual preference and experience |
-| Banking | Accepting deposits and lending money |
-| Commercial bank | Bank dealing in deposits, loans, and financial services |
-| Cooperative bank | Bank serving members on cooperative basis |
-| Specialised bank | Bank serving specific financial needs |
-| Central bank | Apex bank controlling currency and credit |
-| E-banking | Banking through electronic media |
-| Insurance | Contract for financial protection against risk |
-| Premium | Amount paid for insurance |
-| Policy | Written insurance contract |
-| Insured | Person whose risk is covered |
-| Insurer | Insurance company |
-| Indemnity | Restoring insured to pre-loss financial position |
-| Subrogation | Insurer's right after paying claim |
-| Contribution | Sharing claim by multiple insurers |
-| Mitigation | Duty to reduce loss |
-| Life insurance | Insurance of human life |
-| Fire insurance | Insurance against loss by fire |
-| Marine insurance | Insurance against sea transport risks |
-| Communication services | Services that transmit information |
-| Transportation | Movement of goods and passengers |
-| Warehousing | Scientific storage of goods |
-| Bonded warehouse | Warehouse for imported goods before customs duty payment |
+| Term                   | Meaning                                                  |
+| ---------------------- | -------------------------------------------------------- |
+| Service                | Intangible economic work that satisfies wants            |
+| Goods                  | Physical products capable of ownership and storage       |
+| Business services      | Services used by business firms                          |
+| Social services        | Welfare-oriented services for social goals               |
+| Personal services      | Services based on individual preference and experience   |
+| Banking                | Accepting deposits and lending money                     |
+| Commercial bank        | Bank dealing in deposits, loans, and financial services  |
+| Cooperative bank       | Bank serving members on cooperative basis                |
+| Specialised bank       | Bank serving specific financial needs                    |
+| Central bank           | Apex bank controlling currency and credit                |
+| E-banking              | Banking through electronic media                         |
+| Insurance              | Contract for financial protection against risk           |
+| Premium                | Amount paid for insurance                                |
+| Policy                 | Written insurance contract                               |
+| Insured                | Person whose risk is covered                             |
+| Insurer                | Insurance company                                        |
+| Indemnity              | Restoring insured to pre-loss financial position         |
+| Subrogation            | Insurer's right after paying claim                       |
+| Contribution           | Sharing claim by multiple insurers                       |
+| Mitigation             | Duty to reduce loss                                      |
+| Life insurance         | Insurance of human life                                  |
+| Fire insurance         | Insurance against loss by fire                           |
+| Marine insurance       | Insurance against sea transport risks                    |
+| Communication services | Services that transmit information                       |
+| Transportation         | Movement of goods and passengers                         |
+| Warehousing            | Scientific storage of goods                              |
+| Bonded warehouse       | Warehouse for imported goods before customs duty payment |
 
 ## 67. Final Revision Sheet
 

@@ -1,35 +1,36 @@
 # Chapter 3: Fear, Courage, Mystery, and Loss
+
 ### NCERT Class 10 - English First Flight
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 10 |
-| **Subject** | English First Flight |
-| **Chapter** | 3 |
-| **Main Prose Texts** | "His First Flight" and "The Black Aeroplane" |
-| **Poems Included** | "How to Tell Wild Animals" and "The Ball Poem" |
-| **Raw File Header** | "Two Stories about Flying" |
-| **Textbook Pages** | 1-16 |
-| **Core Theme** | Fear, courage, risk, guidance, mystery, humour, wildness, loss, responsibility, and growing up. |
-| **Main Skills** | Narrative comprehension, inference, character motivation, vocabulary in context, idioms with "fly", multiple meanings of "black", humour in poetry, poetic liberty, and reflective writing. |
+| Detail               | Learner-Friendly Information                                                                                                                                                                |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Class**            | 10                                                                                                                                                                                          |
+| **Subject**          | English First Flight                                                                                                                                                                        |
+| **Chapter**          | 3                                                                                                                                                                                           |
+| **Main Prose Texts** | "His First Flight" and "The Black Aeroplane"                                                                                                                                                |
+| **Poems Included**   | "How to Tell Wild Animals" and "The Ball Poem"                                                                                                                                              |
+| **Raw File Header**  | "Two Stories about Flying"                                                                                                                                                                  |
+| **Textbook Pages**   | 1-16                                                                                                                                                                                        |
+| **Core Theme**       | Fear, courage, risk, guidance, mystery, humour, wildness, loss, responsibility, and growing up.                                                                                             |
+| **Main Skills**      | Narrative comprehension, inference, character motivation, vocabulary in context, idioms with "fly", multiple meanings of "black", humour in poetry, poetic liberty, and reflective writing. |
 
 ---
 
 ## Section Structure
 
-| Unit | Text / Skill | Main Learning Focus |
-|---|---|---|
-| **3A** | Before Reading | Human dream of flight and two different flying situations. |
-| **3B** | His First Flight | Fear, hunger, parental strategy, first attempt, and courage. |
-| **3C** | The Black Aeroplane | Risk, storm, instrument failure, mystery helper, and interpretation. |
-| **3D** | Language Work | Meanings of "black", phrases with "fly", and flight verbs. |
-| **3E** | How to Tell Wild Animals | Humour, rhyme, exaggeration, dangerous identification, and poetic liberty. |
-| **3F** | The Ball Poem | Loss, memory, possessions, responsibility, and emotional maturity. |
-| **3G** | Writing and Revision | Personal experience paragraph, skill-learning composition, and quick revision. |
+| Unit   | Text / Skill             | Main Learning Focus                                                            |
+| ------ | ------------------------ | ------------------------------------------------------------------------------ |
+| **3A** | Before Reading           | Human dream of flight and two different flying situations.                     |
+| **3B** | His First Flight         | Fear, hunger, parental strategy, first attempt, and courage.                   |
+| **3C** | The Black Aeroplane      | Risk, storm, instrument failure, mystery helper, and interpretation.           |
+| **3D** | Language Work            | Meanings of "black", phrases with "fly", and flight verbs.                     |
+| **3E** | How to Tell Wild Animals | Humour, rhyme, exaggeration, dangerous identification, and poetic liberty.     |
+| **3F** | The Ball Poem            | Loss, memory, possessions, responsibility, and emotional maturity.             |
+| **3G** | Writing and Revision     | Personal experience paragraph, skill-learning composition, and quick revision. |
 
 ---
 
@@ -37,44 +38,44 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Understand fear and courage** | Explain how the young seagull overcomes fear through hunger and necessity. |
-| **Analyse motivation** | Describe why the pilot takes the risk of entering storm clouds. |
-| **Interpret mystery** | Discuss possible explanations for the black aeroplane. |
-| **Use vocabulary in context** | Explain multiple meanings of "black" and idioms with "fly". |
-| **Identify movement verbs** | Use words such as soar, glide, swoop, hover, and skim. |
-| **Appreciate humour** | Explain how "How to Tell Wild Animals" uses absurd advice and playful language. |
-| **Understand poetic liberty** | Recognise why poets bend grammar, spelling, or pronunciation. |
-| **Analyse loss** | Explain why the lost ball matters more than its price. |
-| **Write reflectively** | Describe learning a skill, facing a storm, or losing something important. |
+| Outcome                         | You Should Be Able To...                                                        |
+| ------------------------------- | ------------------------------------------------------------------------------- |
+| **Understand fear and courage** | Explain how the young seagull overcomes fear through hunger and necessity.      |
+| **Analyse motivation**          | Describe why the pilot takes the risk of entering storm clouds.                 |
+| **Interpret mystery**           | Discuss possible explanations for the black aeroplane.                          |
+| **Use vocabulary in context**   | Explain multiple meanings of "black" and idioms with "fly".                     |
+| **Identify movement verbs**     | Use words such as soar, glide, swoop, hover, and skim.                          |
+| **Appreciate humour**           | Explain how "How to Tell Wild Animals" uses absurd advice and playful language. |
+| **Understand poetic liberty**   | Recognise why poets bend grammar, spelling, or pronunciation.                   |
+| **Analyse loss**                | Explain why the lost ball matters more than its price.                          |
+| **Write reflectively**          | Describe learning a skill, facing a storm, or losing something important.       |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Ledge** | Narrow shelf-like projection from a cliff. |
-| **Upbraiding** | Scolding. |
-| **Skim** | Move lightly just above a surface. |
-| **Herring** | Soft-finned sea fish. |
-| **Preening** | Cleaning and arranging feathers. |
-| **Derisively** | Mockingly. |
-| **Plaintively** | Sadly or pleadingly. |
-| **Soaring** | Flying high or rising smoothly. |
-| **Curveting** | Leaping or moving in a lively curve. |
-| **Banking** | Flying with one wing higher than the other while turning. |
-| **Dakota** | Type of old aircraft. |
-| **Compass** | Instrument showing direction. |
-| **Radar** | System for detecting aircraft or objects. |
-| **Tawny** | Yellowish-brown. |
-| **Discern** | Identify or make out. |
-| **Hide** | Animal skin. |
-| **Novice** | Beginner. |
-| **Nonplussed** | Confused or puzzled. |
-| **Epistemology of loss** | Understanding the nature and meaning of loss. |
-| **Possessions** | Things owned by a person. |
+| Term                     | Meaning                                                   |
+| ------------------------ | --------------------------------------------------------- |
+| **Ledge**                | Narrow shelf-like projection from a cliff.                |
+| **Upbraiding**           | Scolding.                                                 |
+| **Skim**                 | Move lightly just above a surface.                        |
+| **Herring**              | Soft-finned sea fish.                                     |
+| **Preening**             | Cleaning and arranging feathers.                          |
+| **Derisively**           | Mockingly.                                                |
+| **Plaintively**          | Sadly or pleadingly.                                      |
+| **Soaring**              | Flying high or rising smoothly.                           |
+| **Curveting**            | Leaping or moving in a lively curve.                      |
+| **Banking**              | Flying with one wing higher than the other while turning. |
+| **Dakota**               | Type of old aircraft.                                     |
+| **Compass**              | Instrument showing direction.                             |
+| **Radar**                | System for detecting aircraft or objects.                 |
+| **Tawny**                | Yellowish-brown.                                          |
+| **Discern**              | Identify or make out.                                     |
+| **Hide**                 | Animal skin.                                              |
+| **Novice**               | Beginner.                                                 |
+| **Nonplussed**           | Confused or puzzled.                                      |
+| **Epistemology of loss** | Understanding the nature and meaning of loss.             |
+| **Possessions**          | Things owned by a person.                                 |
 
 ---
 
@@ -105,9 +106,9 @@ Humans have always wanted to conquer the sky. Flight suggests:
 
 The two prose texts explore two kinds of firsts:
 
-| Story | Type of Flight |
-|---|---|
-| **His First Flight** | A young bird's first natural flight. |
+| Story                   | Type of Flight                                    |
+| ----------------------- | ------------------------------------------------- |
+| **His First Flight**    | A young bird's first natural flight.              |
 | **The Black Aeroplane** | A human pilot's dangerous flight through a storm. |
 
 ---
@@ -116,13 +117,13 @@ The two prose texts explore two kinds of firsts:
 
 ## Text Identity
 
-| Detail | Information |
-|---|---|
-| **Title** | His First Flight |
-| **Main Character** | Young seagull |
-| **Conflict** | Fear of flying |
-| **Turning Point** | Hunger drives him to dive for fish. |
-| **Main Theme** | Courage often begins when necessity forces action. |
+| Detail             | Information                                        |
+| ------------------ | -------------------------------------------------- |
+| **Title**          | His First Flight                                   |
+| **Main Character** | Young seagull                                      |
+| **Conflict**       | Fear of flying                                     |
+| **Turning Point**  | Hunger drives him to dive for fish.                |
+| **Main Theme**     | Courage often begins when necessity forces action. |
 
 ## Short Summary
 
@@ -134,12 +135,12 @@ At first he is terrified, but then his wings spread naturally. He begins to soar
 
 ## Why the Seagull Was Afraid
 
-| Fear | Explanation |
-|---|---|
-| **Height** | The sea looked far below the ledge. |
-| **Self-doubt** | He thought his wings would not support him. |
-| **Comparison** | His siblings had flown, but he could not. |
-| **Unknown experience** | He had never flown before. |
+| Fear                   | Explanation                                 |
+| ---------------------- | ------------------------------------------- |
+| **Height**             | The sea looked far below the ledge.         |
+| **Self-doubt**         | He thought his wings would not support him. |
+| **Comparison**         | His siblings had flown, but he could not.   |
+| **Unknown experience** | He had never flown before.                  |
 
 ## Role of the Parents
 
@@ -190,13 +191,13 @@ The story teaches that fear can disappear only after action begins. Courage does
 
 ## Text Identity
 
-| Detail | Information |
-|---|---|
-| **Title** | The Black Aeroplane |
-| **Narrator** | Pilot of an old Dakota aeroplane |
-| **Setting** | Night flight from France toward England |
-| **Conflict** | Pilot enters storm clouds and loses instruments. |
-| **Mystery** | A black aeroplane guides him, but no other plane appears on radar. |
+| Detail       | Information                                                        |
+| ------------ | ------------------------------------------------------------------ |
+| **Title**    | The Black Aeroplane                                                |
+| **Narrator** | Pilot of an old Dakota aeroplane                                   |
+| **Setting**  | Night flight from France toward England                            |
+| **Conflict** | Pilot enters storm clouds and loses instruments.                   |
+| **Mystery**  | A black aeroplane guides him, but no other plane appears on radar. |
 
 ## Short Summary
 
@@ -212,8 +213,8 @@ At the control centre, a woman tells him no other aeroplane was flying that nigh
 
 ## The Risk
 
-| Risk | Reason He Takes It |
-|---|---|
+| Risk                                                           | Reason He Takes It                                             |
+| -------------------------------------------------------------- | -------------------------------------------------------------- |
 | Flying into storm clouds without enough fuel to return safely. | He wants to reach England, be with family, and have breakfast. |
 
 The risk is partly practical and partly emotional. His desire to get home overrules caution.
@@ -234,12 +235,12 @@ Inside the storm:
 
 Possible interpretations:
 
-| Interpretation | Reason |
-|---|---|
-| **A real but unknown plane** | The narrator clearly sees a pilot guiding him. |
-| **A supernatural helper** | No plane appears on radar, and it has no lights. |
-| **A vision caused by fear** | The pilot is under stress and may imagine guidance. |
-| **Symbol of inner courage** | The black plane may represent the pilot's will to survive. |
+| Interpretation               | Reason                                                     |
+| ---------------------------- | ---------------------------------------------------------- |
+| **A real but unknown plane** | The narrator clearly sees a pilot guiding him.             |
+| **A supernatural helper**    | No plane appears on radar, and it has no lights.           |
+| **A vision caused by fear**  | The pilot is under stress and may imagine guidance.        |
+| **Symbol of inner courage**  | The black plane may represent the pilot's will to survive. |
 
 The story deliberately leaves the answer open.
 
@@ -271,41 +272,41 @@ The answer is uncertain. It may have been a mysterious pilot, a supernatural pre
 
 ## Meanings of "Black"
 
-| Sentence Context | Meaning of "Black" |
-|---|---|
-| Your hands and face are absolutely black. | dirty |
-| The taxi-driver gave a black look. | angry or threatening |
-| Hiroshima is one of the blackest crimes. | evil, shameful, terrible |
-| Harold Pinter's black comedy. | dark humour about serious or unpleasant subjects |
-| Sell goods in black. | illegally, at a high price; black market |
-| Beaten black and blue. | badly bruised |
+| Sentence Context                          | Meaning of "Black"                               |
+| ----------------------------------------- | ------------------------------------------------ |
+| Your hands and face are absolutely black. | dirty                                            |
+| The taxi-driver gave a black look.        | angry or threatening                             |
+| Hiroshima is one of the blackest crimes.  | evil, shameful, terrible                         |
+| Harold Pinter's black comedy.             | dark humour about serious or unpleasant subjects |
+| Sell goods in black.                      | illegally, at a high price; black market         |
+| Beaten black and blue.                    | badly bruised                                    |
 
 ## Phrases with "Fly"
 
-| Phrase | Meaning |
-|---|---|
-| **Fly a flag** | Display a flag on a pole. |
+| Phrase            | Meaning                     |
+| ----------------- | --------------------------- |
+| **Fly a flag**    | Display a flag on a pole.   |
 | **Fly into rage** | Become suddenly very angry. |
-| **Fly along** | Move quickly. |
-| **Fly high** | Be successful or ambitious. |
-| **Fly the coop** | Escape or leave a place. |
+| **Fly along**     | Move quickly.               |
+| **Fly high**      | Be successful or ambitious. |
+| **Fly the coop**  | Escape or leave a place.    |
 
 ## Flight Verbs
 
-| Word | Meaning / Use |
-|---|---|
-| **swoop** | move suddenly downward through air |
-| **flit** | move quickly and lightly |
-| **flutter** | flap wings lightly and quickly |
-| **ascend** | move upward |
-| **skim** | move just above a surface |
-| **dart** | move suddenly and quickly |
-| **hover** | remain in one place in the air |
-| **glide** | move smoothly without effort |
-| **descend** | move downward |
-| **soar** | fly high and smoothly |
-| **sail** | move smoothly through air or water |
-| **flap** | move wings up and down |
+| Word        | Meaning / Use                      |
+| ----------- | ---------------------------------- |
+| **swoop**   | move suddenly downward through air |
+| **flit**    | move quickly and lightly           |
+| **flutter** | flap wings lightly and quickly     |
+| **ascend**  | move upward                        |
+| **skim**    | move just above a surface          |
+| **dart**    | move suddenly and quickly          |
+| **hover**   | remain in one place in the air     |
+| **glide**   | move smoothly without effort       |
+| **descend** | move downward                      |
+| **soar**    | fly high and smoothly              |
+| **sail**    | move smoothly through air or water |
+| **flap**    | move wings up and down             |
 
 Words such as **paddle**, **sink**, **stay**, and **fall** do not mean flying.
 
@@ -315,12 +316,12 @@ Words such as **paddle**, **sink**, **stay**, and **fall** do not mean flying.
 
 ## Text Identity
 
-| Detail | Information |
-|---|---|
-| **Poem** | How to Tell Wild Animals |
-| **Poet** | Carolyn Wells |
-| **Tone** | Humorous and playful |
-| **Main Method** | Absurd advice for identifying dangerous animals |
+| Detail             | Information                                     |
+| ------------------ | ----------------------------------------------- |
+| **Poem**           | How to Tell Wild Animals                        |
+| **Poet**           | Carolyn Wells                                   |
+| **Tone**           | Humorous and playful                            |
+| **Main Method**    | Absurd advice for identifying dangerous animals |
 | **Central Humour** | You identify animals only when they attack you. |
 
 ## Short Summary
@@ -329,15 +330,15 @@ The poem humorously tells readers how to identify wild animals such as the Asian
 
 ## Animal Identification Table
 
-| Animal | Comic Identification |
-|---|---|
-| **Asian lion** | Roars at you while you are dying. |
-| **Bengal tiger** | Has black stripes on yellow and eats you. |
-| **Leopard** | Has spotted hide and leaps on you repeatedly. |
-| **Bear** | Gives a very hard hug. |
-| **Hyena** | Appears to smile. |
-| **Crocodile** | Appears to weep. |
-| **Chameleon** | Hard to see; if nothing appears on the tree, it may be the chameleon. |
+| Animal           | Comic Identification                                                  |
+| ---------------- | --------------------------------------------------------------------- |
+| **Asian lion**   | Roars at you while you are dying.                                     |
+| **Bengal tiger** | Has black stripes on yellow and eats you.                             |
+| **Leopard**      | Has spotted hide and leaps on you repeatedly.                         |
+| **Bear**         | Gives a very hard hug.                                                |
+| **Hyena**        | Appears to smile.                                                     |
+| **Crocodile**    | Appears to weep.                                                      |
+| **Chameleon**    | Hard to see; if nothing appears on the tree, it may be the chameleon. |
 
 ## Question Answers
 
@@ -367,13 +368,13 @@ The poem's version is better poetically because it fits rhythm and rhyme.
 
 ## Poetic Devices
 
-| Device | Example / Explanation |
-|---|---|
-| **Humour** | Dangerous attacks are described as identification tips. |
-| **Irony** | The advice is useless because the observer may not survive. |
-| **Hyperbole** | The danger is exaggerated for comic effect. |
-| **Rhyme** | Playful rhymes help create rhythm. |
-| **Poetic liberty** | Spellings and grammar are bent for sound and humour. |
+| Device             | Example / Explanation                                       |
+| ------------------ | ----------------------------------------------------------- |
+| **Humour**         | Dangerous attacks are described as identification tips.     |
+| **Irony**          | The advice is useless because the observer may not survive. |
+| **Hyperbole**      | The danger is exaggerated for comic effect.                 |
+| **Rhyme**          | Playful rhymes help create rhythm.                          |
+| **Poetic liberty** | Spellings and grammar are bent for sound and humour.        |
 
 ## Main Message
 
@@ -385,13 +386,13 @@ The poem is not a serious guide to wildlife. It is a comic poem that uses absurd
 
 ## Text Identity
 
-| Detail | Information |
-|---|---|
-| **Poem** | The Ball Poem |
-| **Poet** | John Berryman |
-| **Main Event** | A boy loses his ball in water. |
+| Detail         | Information                                         |
+| -------------- | --------------------------------------------------- |
+| **Poem**       | The Ball Poem                                       |
+| **Poet**       | John Berryman                                       |
+| **Main Event** | A boy loses his ball in water.                      |
 | **Main Theme** | Loss teaches responsibility and emotional maturity. |
-| **Tone** | Serious, reflective, sympathetic |
+| **Tone**       | Serious, reflective, sympathetic                    |
 
 ## Short Summary
 
@@ -401,11 +402,11 @@ The poem suggests that everyone must learn that possessions are temporary and ca
 
 ## Why the Ball Matters
 
-| Surface View | Deeper Meaning |
-|---|---|
-| A cheap ball is lost. | Childhood memory and emotional attachment are lost. |
-| Another ball can be bought. | The original experience cannot be replaced. |
-| The boy is upset. | He is learning responsibility and loss. |
+| Surface View                | Deeper Meaning                                      |
+| --------------------------- | --------------------------------------------------- |
+| A cheap ball is lost.       | Childhood memory and emotional attachment are lost. |
+| Another ball can be bought. | The original experience cannot be replaced.         |
+| The boy is upset.           | He is learning responsibility and loss.             |
 
 ## Question Answers
 
@@ -431,23 +432,23 @@ He is learning that things will be lost, money cannot replace every loss, and on
 
 ## Key Ideas
 
-| Idea | Explanation |
-|---|---|
-| **Loss** | A normal part of life. |
-| **Responsibility** | Understanding that possessions can disappear. |
-| **Memory** | Objects may carry emotional history. |
-| **Maturity** | Growing up means accepting irreversible loss. |
-| **Money is external** | Money cannot replace emotional attachment. |
+| Idea                  | Explanation                                   |
+| --------------------- | --------------------------------------------- |
+| **Loss**              | A normal part of life.                        |
+| **Responsibility**    | Understanding that possessions can disappear. |
+| **Memory**            | Objects may carry emotional history.          |
+| **Maturity**          | Growing up means accepting irreversible loss. |
+| **Money is external** | Money cannot replace emotional attachment.    |
 
 ## Poetic Devices
 
-| Device | Example / Explanation |
-|---|---|
-| **Repetition** | "What, what" shows confusion and distress. |
-| **Imagery** | Ball bouncing into water; boy staring into harbour. |
-| **Symbolism** | The ball symbolises childhood and personal loss. |
-| **Enjambment** | Lines flow into one another, showing emotional movement. |
-| **Philosophical tone** | The poem reflects on the nature of loss. |
+| Device                 | Example / Explanation                                    |
+| ---------------------- | -------------------------------------------------------- |
+| **Repetition**         | "What, what" shows confusion and distress.               |
+| **Imagery**            | Ball bouncing into water; boy staring into harbour.      |
+| **Symbolism**          | The ball symbolises childhood and personal loss.         |
+| **Enjambment**         | Lines flow into one another, showing emotional movement. |
+| **Philosophical tone** | The poem reflects on the nature of loss.                 |
 
 ---
 
@@ -461,12 +462,12 @@ Write about your initial attempts at learning a skill, such as cycling or swimmi
 
 ### Structure
 
-| Paragraph | Content |
-|---|---|
-| **1** | Name the skill and why you wanted to learn it. |
-| **2** | Describe the first awkward attempts. |
-| **3** | Explain who helped and what went wrong. |
-| **4** | Describe the moment of success and what you learned. |
+| Paragraph | Content                                              |
+| --------- | ---------------------------------------------------- |
+| **1**     | Name the skill and why you wanted to learn it.       |
+| **2**     | Describe the first awkward attempts.                 |
+| **3**     | Explain who helped and what went wrong.              |
+| **4**     | Describe the moment of success and what you learned. |
 
 ### Model Opening
 
@@ -486,55 +487,55 @@ Use sensory details:
 
 ### His First Flight
 
-| Item | Key Point |
-|---|---|
-| Main character | Young seagull |
-| Main fear | Flying from ledge |
-| Trigger | Hunger and fish |
-| Helper | Mother and family |
-| Lesson | Courage begins with action |
+| Item           | Key Point                  |
+| -------------- | -------------------------- |
+| Main character | Young seagull              |
+| Main fear      | Flying from ledge          |
+| Trigger        | Hunger and fish            |
+| Helper         | Mother and family          |
+| Lesson         | Courage begins with action |
 
 ### The Black Aeroplane
 
-| Item | Key Point |
-|---|---|
-| Narrator | Pilot of old Dakota |
-| Destination | England |
-| Danger | Storm clouds, failed instruments, low fuel |
-| Helper | Mysterious black aeroplane |
-| Ending | Unexplained mystery |
+| Item        | Key Point                                  |
+| ----------- | ------------------------------------------ |
+| Narrator    | Pilot of old Dakota                        |
+| Destination | England                                    |
+| Danger      | Storm clouds, failed instruments, low fuel |
+| Helper      | Mysterious black aeroplane                 |
+| Ending      | Unexplained mystery                        |
 
 ### How to Tell Wild Animals
 
-| Item | Key Point |
-|---|---|
-| Tone | Humorous |
-| Method | Absurd identification by attack |
+| Item    | Key Point                                  |
+| ------- | ------------------------------------------ |
+| Tone    | Humorous                                   |
+| Method  | Absurd identification by attack            |
 | Devices | Rhyme, irony, exaggeration, poetic liberty |
 
 ### The Ball Poem
 
-| Item | Key Point |
-|---|---|
-| Event | Boy loses ball |
-| Deeper loss | Childhood memory |
-| Lesson | Accept loss and responsibility |
-| Key idea | Money cannot replace everything |
+| Item        | Key Point                       |
+| ----------- | ------------------------------- |
+| Event       | Boy loses ball                  |
+| Deeper loss | Childhood memory                |
+| Lesson      | Accept loss and responsibility  |
+| Key idea    | Money cannot replace everything |
 
 ---
 
 # Unit 3H: Common Mistakes and Corrections
 
-| Mistake | Better Understanding |
-|---|---|
-| Thinking the young seagull cannot fly physically. | He can fly; fear stops him. |
-| Calling the parents cruel. | They force him to discover his natural ability. |
-| Saying the pilot's risk is wise. | It is emotionally understandable but dangerous. |
-| Explaining the black aeroplane with certainty. | The story leaves it mysterious. |
-| Treating "black" as only a colour. | It has many meanings depending on context. |
-| Reading "How to Tell Wild Animals" as factual. | It is humorous and absurd. |
-| Thinking the ball is valuable because of price. | It is valuable because of memory and attachment. |
-| Saying money solves the boy's problem. | Money cannot restore the original loss. |
+| Mistake                                           | Better Understanding                             |
+| ------------------------------------------------- | ------------------------------------------------ |
+| Thinking the young seagull cannot fly physically. | He can fly; fear stops him.                      |
+| Calling the parents cruel.                        | They force him to discover his natural ability.  |
+| Saying the pilot's risk is wise.                  | It is emotionally understandable but dangerous.  |
+| Explaining the black aeroplane with certainty.    | The story leaves it mysterious.                  |
+| Treating "black" as only a colour.                | It has many meanings depending on context.       |
+| Reading "How to Tell Wild Animals" as factual.    | It is humorous and absurd.                       |
+| Thinking the ball is valuable because of price.   | It is valuable because of memory and attachment. |
+| Saying money solves the boy's problem.            | Money cannot restore the original loss.          |
 
 ---
 
@@ -597,4 +598,4 @@ Use sensory details:
 
 ---
 
-*Source: NCERT Class 10 - English First Flight, Chapter 3 raw file. Learner-facing version manually rewritten from the extracted content of "Two Stories about Flying", "How to Tell Wild Animals", and "The Ball Poem".*
+_Source: NCERT Class 10 - English First Flight, Chapter 3 raw file. Learner-facing version manually rewritten from the extracted content of "Two Stories about Flying", "How to Tell Wild Animals", and "The Ball Poem"._

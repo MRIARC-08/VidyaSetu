@@ -1,4 +1,5 @@
 # Chapter 5: Computerised Accounting System
+
 ### NCERT Class 11 Accountancy Part 2
 
 ---
@@ -60,10 +61,10 @@ The accountant still needs to know that the correct entry is related to purchase
 
 Every computerised accounting system has two basic requirements:
 
-| Requirement | Meaning |
-|---|---|
+| Requirement          | Meaning                                                                                                   |
+| -------------------- | --------------------------------------------------------------------------------------------------------- |
 | Accounting framework | The accounting principles, account codes, grouping rules, and classification structure used by the system |
-| Operating procedure | The method by which the system is used in the organisation's actual environment |
+| Operating procedure  | The method by which the system is used in the organisation's actual environment                           |
 
 ### 2.1 Accounting Framework
 
@@ -127,12 +128,12 @@ The accounting software uses this database to generate ledgers, trial balance, r
 
 A computerised accounting system has four important database-related requirements.
 
-| Requirement | Meaning | Accounting example |
-|---|---|---|
-| Front-end interface | The screen or form through which the user interacts with the system | Purchase voucher entry screen |
-| Back-end database | Hidden storage where data is stored and retrieved | Accounting database storing vouchers |
-| Data processing | Steps that transform data into useful information | Posting, grouping, calculation, report preparation |
-| Reporting system | Set of tools and formats used to produce reports | Ledger, trial balance, stock report, financial statements |
+| Requirement         | Meaning                                                             | Accounting example                                        |
+| ------------------- | ------------------------------------------------------------------- | --------------------------------------------------------- |
+| Front-end interface | The screen or form through which the user interacts with the system | Purchase voucher entry screen                             |
+| Back-end database   | Hidden storage where data is stored and retrieved                   | Accounting database storing vouchers                      |
+| Data processing     | Steps that transform data into useful information                   | Posting, grouping, calculation, report preparation        |
+| Reporting system    | Set of tools and formats used to produce reports                    | Ledger, trial balance, stock report, financial statements |
 
 ### 4.1 Front-End Interface
 
@@ -166,10 +167,10 @@ Data processing transforms raw transaction data into information.
 
 Examples:
 
-| Data entered | Processing result |
-|---|---|
-| Sales voucher | Sales account and customer account updated |
-| Salary voucher | Salary expense and cash/bank account updated |
+| Data entered      | Processing result                                            |
+| ----------------- | ------------------------------------------------------------ |
+| Sales voucher     | Sales account and customer account updated                   |
+| Salary voucher    | Salary expense and cash/bank account updated                 |
 | Purchase of goods | Purchase account, supplier account, and stock may be updated |
 
 ### 4.4 Reporting System
@@ -196,50 +197,50 @@ Accounting steps remain conceptually the same, but the method changes.
 
 ### 5.1 Identification
 
-| Manual accounting | Computerised accounting |
-|---|---|
+| Manual accounting                                               | Computerised accounting                                               |
+| --------------------------------------------------------------- | --------------------------------------------------------------------- |
 | Accountant identifies transactions using accounting principles. | Accountant still identifies transactions using accounting principles. |
 
 Identification is common to both systems. The computer does not decide whether a transaction is capital or revenue unless the user and software rules classify it.
 
 ### 5.2 Recording
 
-| Manual accounting | Computerised accounting |
-|---|---|
+| Manual accounting                                     | Computerised accounting                                                    |
+| ----------------------------------------------------- | -------------------------------------------------------------------------- |
 | Transactions are recorded in books of original entry. | Transaction data is entered into voucher screens and stored in a database. |
 
 ### 5.3 Classification
 
-| Manual accounting | Computerised accounting |
-|---|---|
+| Manual accounting                      | Computerised accounting                                           |
+| -------------------------------------- | ----------------------------------------------------------------- |
 | Entries are posted to ledger accounts. | Stored transaction data is processed and shown as ledger reports. |
 
 In manual accounting, posting is a separate visible step. In computerised accounting, ledger output is produced from stored transaction data.
 
 ### 5.4 Summarising
 
-| Manual accounting | Computerised accounting |
-|---|---|
+| Manual accounting                                  | Computerised accounting                                           |
+| -------------------------------------------------- | ----------------------------------------------------------------- |
 | Ledger balances are used to prepare trial balance. | Software processes stored data and produces trial balance report. |
 
 ### 5.5 Adjusting Entries
 
-| Manual accounting | Computerised accounting |
-|---|---|
+| Manual accounting                      | Computerised accounting                                         |
+| -------------------------------------- | --------------------------------------------------------------- |
 | Adjusting entries are passed manually. | Journal vouchers or adjustment vouchers are entered and stored. |
 
 Computerised accounting still needs adjustment entries. The difference is that they are entered as vouchers and processed by the system.
 
 ### 5.6 Financial Statements
 
-| Manual accounting | Computerised accounting |
-|---|---|
+| Manual accounting                                                      | Computerised accounting                                                  |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | Financial statements are prepared after trial balance and adjustments. | Software can generate financial statements from stored transaction data. |
 
 ### 5.7 Closing the Books
 
-| Manual accounting | Computerised accounting |
-|---|---|
+| Manual accounting                                  | Computerised accounting                                           |
+| -------------------------------------------------- | ----------------------------------------------------------------- |
 | Closing and reversing entries are posted manually. | Year-end processing creates opening balances for the next period. |
 
 ### Key Conclusion
@@ -344,12 +345,12 @@ Computerised accounting supports management information reports.
 
 Examples:
 
-| MIS report | Use |
-|---|---|
-| Debtors ageing report | Helps identify delayed collections |
-| Stock status report | Helps control inventory |
-| Cash position report | Helps plan payments |
-| Sales analysis | Helps evaluate customers, products, or regions |
+| MIS report            | Use                                            |
+| --------------------- | ---------------------------------------------- |
+| Debtors ageing report | Helps identify delayed collections             |
+| Stock status report   | Helps control inventory                        |
+| Cash position report  | Helps plan payments                            |
+| Sales analysis        | Helps evaluate customers, products, or regions |
 
 ### 6.12 Storage and Retrieval
 
@@ -473,11 +474,11 @@ The main rule is:
 
 Accounting software can be classified into three categories:
 
-| Category | Suitable for |
-|---|---|
-| Ready-to-use software | Small and conventional organisations |
-| Customised software | Medium or large organisations with special needs |
-| Tailored software | Large organisations with complex, unique, and integrated needs |
+| Category              | Suitable for                                                   |
+| --------------------- | -------------------------------------------------------------- |
+| Ready-to-use software | Small and conventional organisations                           |
+| Customised software   | Medium or large organisations with special needs               |
+| Tailored software     | Large organisations with complex, unique, and integrated needs |
 
 ### 9.1 Ready-to-Use Software
 
@@ -555,17 +556,17 @@ A large company with factories, warehouses, branches, payroll, production, inven
 
 ## 10. Comparison of Accounting Software Categories
 
-| Basis | Ready-to-use | Customised | Tailored |
-|---|---|---|---|
-| Nature of business | Small and conventional | Medium or large with special needs | Large and complex |
-| Cost | Low | Relatively high | High |
-| Installation | Simple | More involved | Complex |
-| Secrecy | Low to moderate | Higher | High |
-| Number of users | Limited | As specified | Many users |
-| Link with other systems | Restricted | Possible | Strong |
-| Adaptability | High for simple users | Good after modification | Specific to organisation |
-| Training | Low | Medium | High |
-| Flexibility | Limited | Moderate to high | Very high for designed needs |
+| Basis                   | Ready-to-use           | Customised                         | Tailored                     |
+| ----------------------- | ---------------------- | ---------------------------------- | ---------------------------- |
+| Nature of business      | Small and conventional | Medium or large with special needs | Large and complex            |
+| Cost                    | Low                    | Relatively high                    | High                         |
+| Installation            | Simple                 | More involved                      | Complex                      |
+| Secrecy                 | Low to moderate        | Higher                             | High                         |
+| Number of users         | Limited                | As specified                       | Many users                   |
+| Link with other systems | Restricted             | Possible                           | Strong                       |
+| Adaptability            | High for simple users  | Good after modification            | Specific to organisation     |
+| Training                | Low                    | Medium                             | High                         |
+| Flexibility             | Limited                | Moderate to high                   | Very high for designed needs |
 
 ---
 
@@ -573,14 +574,14 @@ A large company with factories, warehouses, branches, payroll, production, inven
 
 Use this decision guide:
 
-| Organisation situation | Suitable software |
-|---|---|
-| One office, one user, few transactions | Ready-to-use |
-| Medium business needing special reports | Customised |
-| Large business with many branches and integrated departments | Tailored |
-| Low budget and simple accounting | Ready-to-use |
-| High secrecy and many users | Customised or tailored |
-| Need to connect accounting with production, HR, and inventory | Tailored |
+| Organisation situation                                        | Suitable software      |
+| ------------------------------------------------------------- | ---------------------- |
+| One office, one user, few transactions                        | Ready-to-use           |
+| Medium business needing special reports                       | Customised             |
+| Large business with many branches and integrated departments  | Tailored               |
+| Low budget and simple accounting                              | Ready-to-use           |
+| High secrecy and many users                                   | Customised or tailored |
+| Need to connect accounting with production, HR, and inventory | Tailored               |
 
 ---
 
@@ -617,11 +618,11 @@ Cheap software may become expensive if maintenance and alteration costs are high
 
 The size and transaction volume influence software choice.
 
-| Organisation size | Likely need |
-|---|---|
-| Small | Simple, single-user software |
-| Medium | Custom reports and multiple users |
-| Large | Integrated, secure, multi-user software |
+| Organisation size | Likely need                             |
+| ----------------- | --------------------------------------- |
+| Small             | Simple, single-user software            |
+| Medium            | Custom reports and multiple users       |
+| Large             | Integrated, secure, multi-user software |
 
 ### 12.4 Ease of Adaptation and Training
 
@@ -703,48 +704,48 @@ Poor vendor support can make even good software difficult to use.
 
 ### Manual Accounting vs Computerised Accounting
 
-| Basis | Manual accounting | Computerised accounting |
-|---|---|---|
-| Recording | Books of original entry | Voucher screens and database |
-| Posting | Manual posting to ledgers | Processed from stored data |
-| Trial balance | Prepared from ledger balances | Generated by software |
-| Speed | Slower | Faster |
-| Storage | Physical books | Electronic database |
-| Errors | Arithmetic and posting errors common | Input and software design errors possible |
-| Reports | Prepared manually | Generated automatically |
-| Retrieval | Time-consuming | Quick |
+| Basis         | Manual accounting                    | Computerised accounting                   |
+| ------------- | ------------------------------------ | ----------------------------------------- |
+| Recording     | Books of original entry              | Voucher screens and database              |
+| Posting       | Manual posting to ledgers            | Processed from stored data                |
+| Trial balance | Prepared from ledger balances        | Generated by software                     |
+| Speed         | Slower                               | Faster                                    |
+| Storage       | Physical books                       | Electronic database                       |
+| Errors        | Arithmetic and posting errors common | Input and software design errors possible |
+| Reports       | Prepared manually                    | Generated automatically                   |
+| Retrieval     | Time-consuming                       | Quick                                     |
 
 ### Ready-to-Use vs Customised vs Tailored
 
-| Need | Best category |
-|---|---|
-| Lowest cost | Ready-to-use |
-| Special modifications | Customised |
-| Organisation-specific design | Tailored |
-| Small business | Ready-to-use |
-| Medium business | Customised |
-| Large complex business | Tailored |
+| Need                         | Best category |
+| ---------------------------- | ------------- |
+| Lowest cost                  | Ready-to-use  |
+| Special modifications        | Customised    |
+| Organisation-specific design | Tailored      |
+| Small business               | Ready-to-use  |
+| Medium business              | Customised    |
+| Large complex business       | Tailored      |
 
 ### Front-End vs Back-End
 
-| Term | Meaning |
-|---|---|
+| Term      | Meaning                                        |
+| --------- | ---------------------------------------------- |
 | Front-end | User-facing part, such as voucher entry screen |
-| Back-end | Hidden database where records are stored |
+| Back-end  | Hidden database where records are stored       |
 
 ---
 
 ## 14. Common Mistakes
 
-| Mistake | Correct understanding |
-|---|---|
-| Saying computerised accounting changes accounting principles | Principles remain the same; method changes. |
-| Thinking software is responsible for accounting decisions | People remain responsible for correct accounting. |
-| Ignoring operating procedure | Procedures are essential for control and reliability. |
-| Assuming computerised systems have no errors | Wrong input, wrong account selection, and weak software can cause errors. |
-| Confusing customised and tailored software | Customised modifies existing software; tailored is specially designed. |
-| Selecting software only by price | Maintenance, training, security, reports, and vendor support also matter. |
-| Treating database as visible screen | Database is the organised back-end storage; the screen is the front-end. |
+| Mistake                                                      | Correct understanding                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------- |
+| Saying computerised accounting changes accounting principles | Principles remain the same; method changes.                               |
+| Thinking software is responsible for accounting decisions    | People remain responsible for correct accounting.                         |
+| Ignoring operating procedure                                 | Procedures are essential for control and reliability.                     |
+| Assuming computerised systems have no errors                 | Wrong input, wrong account selection, and weak software can cause errors. |
+| Confusing customised and tailored software                   | Customised modifies existing software; tailored is specially designed.    |
+| Selecting software only by price                             | Maintenance, training, security, reports, and vendor support also matter. |
+| Treating database as visible screen                          | Database is the organised back-end storage; the screen is the front-end.  |
 
 ---
 
@@ -807,43 +808,43 @@ Use this structure:
 
 ### Advantages
 
-| Advantage | Key idea |
-|---|---|
-| Speed | Fast processing |
-| Accuracy | Fewer calculation errors |
-| Reliability | Consistent repetitive work |
-| Up-to-date information | Records update after data entry |
-| Scalability | Can handle more transactions |
-| Legibility | Clear printed/displayed records |
-| Efficiency | Better use of time and resources |
-| Quality reports | Standard and useful reporting |
-| MIS reports | Helps management decisions |
-| Storage and retrieval | Less physical space, faster search |
+| Advantage              | Key idea                           |
+| ---------------------- | ---------------------------------- |
+| Speed                  | Fast processing                    |
+| Accuracy               | Fewer calculation errors           |
+| Reliability            | Consistent repetitive work         |
+| Up-to-date information | Records update after data entry    |
+| Scalability            | Can handle more transactions       |
+| Legibility             | Clear printed/displayed records    |
+| Efficiency             | Better use of time and resources   |
+| Quality reports        | Standard and useful reporting      |
+| MIS reports            | Helps management decisions         |
+| Storage and retrieval  | Less physical space, faster search |
 
 ### Limitations
 
-| Limitation | Key risk |
-|---|---|
-| Training cost | Users need skill |
-| Staff opposition | Resistance to change |
-| Disruption | Temporary disturbance during changeover |
-| System failure | Data or work interruption |
-| Security breach | Unauthorised access or fraud |
+| Limitation           | Key risk                                  |
+| -------------------- | ----------------------------------------- |
+| Training cost        | Users need skill                          |
+| Staff opposition     | Resistance to change                      |
+| Disruption           | Temporary disturbance during changeover   |
+| System failure       | Data or work interruption                 |
+| Security breach      | Unauthorised access or fraud              |
 | Unanticipated errors | Computer cannot judge unexpected mistakes |
-| Health effects | Long computer use can affect staff |
+| Health effects       | Long computer use can affect staff        |
 
 ### Software Selection Factors
 
-| Factor | Question |
-|---|---|
-| Flexibility | Can it adapt to needs? |
-| Cost | Can the organisation afford purchase and maintenance? |
-| Size | Does it match transaction volume and users? |
-| Training | Can staff learn it? |
-| MIS reports | Does it produce required reports? |
-| Secrecy | Are access controls strong enough? |
-| Import/export | Can it share data with other systems? |
-| Vendor support | Is support reliable? |
+| Factor         | Question                                              |
+| -------------- | ----------------------------------------------------- |
+| Flexibility    | Can it adapt to needs?                                |
+| Cost           | Can the organisation afford purchase and maintenance? |
+| Size           | Does it match transaction volume and users?           |
+| Training       | Can staff learn it?                                   |
+| MIS reports    | Does it produce required reports?                     |
+| Secrecy        | Are access controls strong enough?                    |
+| Import/export  | Can it share data with other systems?                 |
+| Vendor support | Is support reliable?                                  |
 
 ---
 

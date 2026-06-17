@@ -1,37 +1,38 @@
 # Chapter 2: Acids, Bases and Salts
+
 ### NCERT Class 10 - Science
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 10 |
-| **Subject** | Science |
-| **Chapter** | 2 |
-| **Textbook Pages** | 1-20 |
-| **Core Theme** | How acids, bases, indicators, pH, neutralisation, salts, and useful sodium/calcium compounds behave in the laboratory and daily life. |
-| **Main Skills** | Identifying acids and bases, writing reactions, explaining pH changes, choosing suitable neutralising substances, and connecting common salts with practical uses. |
+| Detail             | Learner-Friendly Information                                                                                                                                       |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Class**          | 10                                                                                                                                                                 |
+| **Subject**        | Science                                                                                                                                                            |
+| **Chapter**        | 2                                                                                                                                                                  |
+| **Textbook Pages** | 1-20                                                                                                                                                               |
+| **Core Theme**     | How acids, bases, indicators, pH, neutralisation, salts, and useful sodium/calcium compounds behave in the laboratory and daily life.                              |
+| **Main Skills**    | Identifying acids and bases, writing reactions, explaining pH changes, choosing suitable neutralising substances, and connecting common salts with practical uses. |
 
 ---
 
 ## Section Structure
 
-| Unit | Topic | Main Learning Focus |
-|---|---|---|
-| **2A** | Acids and Bases in Daily Life | Sour taste, bitter taste, natural substances, and safe identification. |
-| **2B** | Indicators | Litmus, turmeric, phenolphthalein, methyl orange, universal indicator, and olfactory indicators. |
-| **2C** | Acids/Bases with Metals | Formation of salt and hydrogen gas. |
-| **2D** | Acids with Carbonates and Hydrogencarbonates | Carbon dioxide test using lime water. |
-| **2E** | Neutralisation | Acid + base forming salt and water. |
-| **2F** | Acids/Bases with Oxides | Metallic oxides as basic oxides and non-metallic oxides as acidic oxides. |
-| **2G** | Ions in Water | Why acids and bases show their properties in aqueous solution. |
-| **2H** | pH Scale | Measuring acidity/basicity from 0 to 14. |
-| **2I** | pH in Daily Life | Body, soil, acid rain, tooth decay, digestion, and stings. |
-| **2J** | Salts | Families of salts and pH of salt solutions. |
-| **2K** | Common Salt and Products | Sodium hydroxide, chlorine, hydrogen, bleaching powder, baking soda, washing soda, and Plaster of Paris. |
-| **2L** | Solved Questions | In-text questions, reasoning questions, and exercise-level answers. |
+| Unit   | Topic                                        | Main Learning Focus                                                                                      |
+| ------ | -------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| **2A** | Acids and Bases in Daily Life                | Sour taste, bitter taste, natural substances, and safe identification.                                   |
+| **2B** | Indicators                                   | Litmus, turmeric, phenolphthalein, methyl orange, universal indicator, and olfactory indicators.         |
+| **2C** | Acids/Bases with Metals                      | Formation of salt and hydrogen gas.                                                                      |
+| **2D** | Acids with Carbonates and Hydrogencarbonates | Carbon dioxide test using lime water.                                                                    |
+| **2E** | Neutralisation                               | Acid + base forming salt and water.                                                                      |
+| **2F** | Acids/Bases with Oxides                      | Metallic oxides as basic oxides and non-metallic oxides as acidic oxides.                                |
+| **2G** | Ions in Water                                | Why acids and bases show their properties in aqueous solution.                                           |
+| **2H** | pH Scale                                     | Measuring acidity/basicity from 0 to 14.                                                                 |
+| **2I** | pH in Daily Life                             | Body, soil, acid rain, tooth decay, digestion, and stings.                                               |
+| **2J** | Salts                                        | Families of salts and pH of salt solutions.                                                              |
+| **2K** | Common Salt and Products                     | Sodium hydroxide, chlorine, hydrogen, bleaching powder, baking soda, washing soda, and Plaster of Paris. |
+| **2L** | Solved Questions                             | In-text questions, reasoning questions, and exercise-level answers.                                      |
 
 ---
 
@@ -39,41 +40,41 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Identify acids and bases** | Use indicators and observations to tell whether a substance is acidic, basic, or neutral. |
-| **Write common reactions** | Write equations for acids with metals, metal carbonates, metal hydrogencarbonates, bases, and metallic oxides. |
-| **Test gases** | Identify hydrogen using the pop sound and carbon dioxide using lime water. |
-| **Explain aqueous behaviour** | Explain why acids produce hydrogen ions only in water and why bases produce hydroxide ions in water. |
-| **Read pH values** | Connect low pH with acidic solutions and high pH with basic solutions. |
-| **Use neutralisation** | Explain antacids, soil treatment, sting treatment, and acid-base salt formation. |
-| **Explain salts** | Classify salts by parent acid/base and predict whether salt solutions are acidic, basic, or neutral. |
-| **Connect chemistry to life** | Explain the preparation and uses of bleaching powder, baking soda, washing soda, and Plaster of Paris. |
+| Outcome                       | You Should Be Able To...                                                                                       |
+| ----------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| **Identify acids and bases**  | Use indicators and observations to tell whether a substance is acidic, basic, or neutral.                      |
+| **Write common reactions**    | Write equations for acids with metals, metal carbonates, metal hydrogencarbonates, bases, and metallic oxides. |
+| **Test gases**                | Identify hydrogen using the pop sound and carbon dioxide using lime water.                                     |
+| **Explain aqueous behaviour** | Explain why acids produce hydrogen ions only in water and why bases produce hydroxide ions in water.           |
+| **Read pH values**            | Connect low pH with acidic solutions and high pH with basic solutions.                                         |
+| **Use neutralisation**        | Explain antacids, soil treatment, sting treatment, and acid-base salt formation.                               |
+| **Explain salts**             | Classify salts by parent acid/base and predict whether salt solutions are acidic, basic, or neutral.           |
+| **Connect chemistry to life** | Explain the preparation and uses of bleaching powder, baking soda, washing soda, and Plaster of Paris.         |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Acid** | Substance that gives hydrogen ions, `H+`, in aqueous solution. Acids usually taste sour, but tasting chemicals is unsafe. |
-| **Base** | Substance that gives hydroxide ions, `OH-`, in aqueous solution or neutralises acids. Many bases feel soapy and taste bitter, but direct testing by touch/taste is unsafe. |
-| **Alkali** | A base that is soluble in water. All alkalis are bases, but all bases are not alkalis. |
-| **Indicator** | A substance that changes colour or smell depending on acidic/basic nature. |
-| **Litmus** | Natural indicator obtained from lichens; red in acid and blue in base. |
-| **Olfactory indicator** | Substance whose smell changes in acidic or basic medium, such as onion, vanilla, or clove. |
-| **Neutralisation** | Reaction between an acid and a base to produce salt and water. |
-| **Salt** | Ionic compound formed when the replaceable hydrogen of an acid is replaced by a metal ion or ammonium ion. |
-| **pH** | A number that tells how acidic or basic a solution is. |
-| **Hydronium ion** | `H3O+`, formed when `H+` combines with water. |
-| **Universal indicator** | Mixture of indicators showing different colours for different pH values. |
-| **Water of crystallisation** | Fixed number of water molecules present in one formula unit of a crystalline salt. |
-| **Brine** | Concentrated aqueous solution of sodium chloride. |
-| **Chlor-alkali process** | Electrolysis of brine to produce chlorine, hydrogen, and sodium hydroxide. |
-| **Bleaching powder** | Calcium oxychloride/calcium hypochlorite type compound used for bleaching and disinfecting. |
-| **Baking soda** | Sodium hydrogencarbonate, `NaHCO3`. |
-| **Washing soda** | Sodium carbonate decahydrate, `Na2CO3.10H2O`. |
-| **Plaster of Paris** | Calcium sulphate hemihydrate, `CaSO4.1/2H2O`. |
+| Term                         | Meaning                                                                                                                                                                    |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Acid**                     | Substance that gives hydrogen ions, `H+`, in aqueous solution. Acids usually taste sour, but tasting chemicals is unsafe.                                                  |
+| **Base**                     | Substance that gives hydroxide ions, `OH-`, in aqueous solution or neutralises acids. Many bases feel soapy and taste bitter, but direct testing by touch/taste is unsafe. |
+| **Alkali**                   | A base that is soluble in water. All alkalis are bases, but all bases are not alkalis.                                                                                     |
+| **Indicator**                | A substance that changes colour or smell depending on acidic/basic nature.                                                                                                 |
+| **Litmus**                   | Natural indicator obtained from lichens; red in acid and blue in base.                                                                                                     |
+| **Olfactory indicator**      | Substance whose smell changes in acidic or basic medium, such as onion, vanilla, or clove.                                                                                 |
+| **Neutralisation**           | Reaction between an acid and a base to produce salt and water.                                                                                                             |
+| **Salt**                     | Ionic compound formed when the replaceable hydrogen of an acid is replaced by a metal ion or ammonium ion.                                                                 |
+| **pH**                       | A number that tells how acidic or basic a solution is.                                                                                                                     |
+| **Hydronium ion**            | `H3O+`, formed when `H+` combines with water.                                                                                                                              |
+| **Universal indicator**      | Mixture of indicators showing different colours for different pH values.                                                                                                   |
+| **Water of crystallisation** | Fixed number of water molecules present in one formula unit of a crystalline salt.                                                                                         |
+| **Brine**                    | Concentrated aqueous solution of sodium chloride.                                                                                                                          |
+| **Chlor-alkali process**     | Electrolysis of brine to produce chlorine, hydrogen, and sodium hydroxide.                                                                                                 |
+| **Bleaching powder**         | Calcium oxychloride/calcium hypochlorite type compound used for bleaching and disinfecting.                                                                                |
+| **Baking soda**              | Sodium hydrogencarbonate, `NaHCO3`.                                                                                                                                        |
+| **Washing soda**             | Sodium carbonate decahydrate, `Na2CO3.10H2O`.                                                                                                                              |
+| **Plaster of Paris**         | Calcium sulphate hemihydrate, `CaSO4.1/2H2O`.                                                                                                                              |
 
 ---
 
@@ -93,26 +94,26 @@ Salts connect acid-base chemistry with industry and everyday life. Common salt i
 
 ## Common Acidic Substances
 
-| Substance | Main Acid Present | Common Observation |
-|---|---|---|
-| Lemon juice | Citric acid | Sour taste |
-| Orange | Citric acid | Sour taste |
-| Vinegar | Acetic acid | Sour taste and sharp smell |
-| Curd | Lactic acid | Sour taste |
-| Tamarind | Tartaric acid | Sour taste |
-| Tomato | Oxalic acid and other organic acids | Mild sourness |
-| Ant sting | Methanoic acid | Burning irritation |
-| Gastric juice | Hydrochloric acid | Helps digestion |
+| Substance     | Main Acid Present                   | Common Observation         |
+| ------------- | ----------------------------------- | -------------------------- |
+| Lemon juice   | Citric acid                         | Sour taste                 |
+| Orange        | Citric acid                         | Sour taste                 |
+| Vinegar       | Acetic acid                         | Sour taste and sharp smell |
+| Curd          | Lactic acid                         | Sour taste                 |
+| Tamarind      | Tartaric acid                       | Sour taste                 |
+| Tomato        | Oxalic acid and other organic acids | Mild sourness              |
+| Ant sting     | Methanoic acid                      | Burning irritation         |
+| Gastric juice | Hydrochloric acid                   | Helps digestion            |
 
 ## Common Basic Substances
 
-| Substance | Basic Compound | Use/Observation |
-|---|---|---|
-| Baking soda solution | Sodium hydrogencarbonate | Mild base, used in baking and antacids. |
-| Soap solution | Sodium/potassium salts of fatty acids | Feels slippery; turns red litmus blue. |
-| Lime water | Calcium hydroxide solution | Used to test carbon dioxide. |
-| Milk of magnesia | Magnesium hydroxide | Used as antacid. |
-| Washing soda solution | Sodium carbonate | Used in cleaning and softening hard water. |
+| Substance             | Basic Compound                        | Use/Observation                            |
+| --------------------- | ------------------------------------- | ------------------------------------------ |
+| Baking soda solution  | Sodium hydrogencarbonate              | Mild base, used in baking and antacids.    |
+| Soap solution         | Sodium/potassium salts of fatty acids | Feels slippery; turns red litmus blue.     |
+| Lime water            | Calcium hydroxide solution            | Used to test carbon dioxide.               |
+| Milk of magnesia      | Magnesium hydroxide                   | Used as antacid.                           |
+| Washing soda solution | Sodium carbonate                      | Used in cleaning and softening hard water. |
 
 ## Safety Rule
 
@@ -134,20 +135,20 @@ An indicator is a substance that gives a visible or detectable change in acidic 
 
 Litmus is a natural indicator obtained from lichens.
 
-| Medium | Effect on Litmus |
-|---|---|
-| Acidic solution | Blue litmus turns red. |
-| Basic solution | Red litmus turns blue. |
+| Medium           | Effect on Litmus                 |
+| ---------------- | -------------------------------- |
+| Acidic solution  | Blue litmus turns red.           |
+| Basic solution   | Red litmus turns blue.           |
 | Neutral solution | No change in red or blue litmus. |
 
 ## Other Common Indicators
 
-| Indicator | In Acid | In Base | Learner Note |
-|---|---|---|---|
-| **Turmeric** | Yellow | Reddish brown | Used in household testing of soap/basic substances. |
-| **Phenolphthalein** | Colourless | Pink | Very common laboratory indicator. |
-| **Methyl orange** | Red | Yellow | Useful for acid-base titration. |
-| **Universal indicator** | Red/orange/yellow shades for acids | Blue/violet shades for bases | Gives approximate pH value. |
+| Indicator               | In Acid                            | In Base                      | Learner Note                                        |
+| ----------------------- | ---------------------------------- | ---------------------------- | --------------------------------------------------- |
+| **Turmeric**            | Yellow                             | Reddish brown                | Used in household testing of soap/basic substances. |
+| **Phenolphthalein**     | Colourless                         | Pink                         | Very common laboratory indicator.                   |
+| **Methyl orange**       | Red                                | Yellow                       | Useful for acid-base titration.                     |
+| **Universal indicator** | Red/orange/yellow shades for acids | Blue/violet shades for bases | Gives approximate pH value.                         |
 
 ## Olfactory Indicators
 
@@ -214,12 +215,12 @@ Procedure idea:
 
 ## Important Observations
 
-| Observation | Meaning |
-|---|---|
-| Bubbles appear | A gas is evolving. |
-| Gas burns with pop sound | The gas is hydrogen. |
-| Test tube becomes warm | Reaction may be exothermic. |
-| Metal slowly disappears | Metal is reacting to form salt solution. |
+| Observation              | Meaning                                  |
+| ------------------------ | ---------------------------------------- |
+| Bubbles appear           | A gas is evolving.                       |
+| Gas burns with pop sound | The gas is hydrogen.                     |
+| Test tube becomes warm   | Reaction may be exothermic.              |
+| Metal slowly disappears  | Metal is reacting to form salt solution. |
 
 ## Why Some Metals React More Vigorously
 
@@ -245,12 +246,12 @@ $$
 
 In this reaction:
 
-| Part | Meaning |
-|---|---|
-| `NaOH` | Sodium hydroxide, a strong base. |
-| `Zn` | Zinc metal. |
-| `Na2ZnO2` | Sodium zincate. |
-| `H2` | Hydrogen gas. |
+| Part      | Meaning                          |
+| --------- | -------------------------------- |
+| `NaOH`    | Sodium hydroxide, a strong base. |
+| `Zn`      | Zinc metal.                      |
+| `Na2ZnO2` | Sodium zincate.                  |
+| `H2`      | Hydrogen gas.                    |
 
 ## Learner Note
 
@@ -330,11 +331,11 @@ $$
 
 ## Diagnostic Summary
 
-| Test | Positive Observation | Inference |
-|---|---|---|
-| Acid added to carbonate/hydrogencarbonate | Effervescence | A gas is released. |
-| Gas passed through lime water | Lime water turns milky | Gas is carbon dioxide. |
-| Excess gas passed through milky lime water | Milkiness disappears | Calcium hydrogencarbonate forms. |
+| Test                                       | Positive Observation   | Inference                        |
+| ------------------------------------------ | ---------------------- | -------------------------------- |
+| Acid added to carbonate/hydrogencarbonate  | Effervescence          | A gas is released.               |
+| Gas passed through lime water              | Lime water turns milky | Gas is carbon dioxide.           |
+| Excess gas passed through milky lime water | Milkiness disappears   | Calcium hydrogencarbonate forms. |
 
 ---
 
@@ -402,11 +403,11 @@ $$
 
 Observations:
 
-| Observation | Explanation |
-|---|---|
-| Black copper oxide dissolves | It reacts with hydrochloric acid. |
-| Blue-green solution forms | Copper chloride solution is formed. |
-| Water forms | Oxide ion part combines with hydrogen from acid. |
+| Observation                  | Explanation                                      |
+| ---------------------------- | ------------------------------------------------ |
+| Black copper oxide dissolves | It reacts with hydrochloric acid.                |
+| Blue-green solution forms    | Copper chloride solution is formed.              |
+| Water forms                  | Oxide ion part combines with hydrogen from acid. |
 
 ## Important Inference
 
@@ -471,12 +472,12 @@ Hydrochloric acid, nitric acid, and sulphuric acid produce `H+` or `H3O+` ions i
 Glucose and alcohol contain hydrogen atoms, but they do not produce hydrogen ions in water. Therefore, they are not acids.
 
 | Substance | Contains Hydrogen? | Produces `H+` in Water? | Acidic? |
-|---|---:|---:|---:|
-| HCl | Yes | Yes | Yes |
-| HNO3 | Yes | Yes | Yes |
-| H2SO4 | Yes | Yes | Yes |
-| Glucose | Yes | No | No |
-| Alcohol | Yes | No | No |
+| --------- | -----------------: | ----------------------: | ------: |
+| HCl       |                Yes |                     Yes |     Yes |
+| HNO3      |                Yes |                     Yes |     Yes |
+| H2SO4     |                Yes |                     Yes |     Yes |
+| Glucose   |                Yes |                      No |      No |
+| Alcohol   |                Yes |                      No |      No |
 
 ## Why Acid Solutions Conduct Electricity
 
@@ -501,10 +502,10 @@ $$
 
 Therefore:
 
-| Condition | Effect on Blue Litmus |
-|---|---|
-| Dry HCl gas + dry blue litmus | No colour change. |
-| HCl gas + moist blue litmus | Blue litmus turns red. |
+| Condition                     | Effect on Blue Litmus  |
+| ----------------------------- | ---------------------- |
+| Dry HCl gas + dry blue litmus | No colour change.      |
+| HCl gas + moist blue litmus   | Blue litmus turns red. |
 
 ## Bases Produce Hydroxide Ions in Water
 
@@ -530,11 +531,11 @@ Bases soluble in water are called alkalis.
 
 Examples:
 
-| Alkali | Formula |
-|---|---|
-| Sodium hydroxide | `NaOH` |
-| Potassium hydroxide | `KOH` |
-| Calcium hydroxide | `Ca(OH)2` |
+| Alkali              | Formula   |
+| ------------------- | --------- |
+| Sodium hydroxide    | `NaOH`    |
+| Potassium hydroxide | `KOH`     |
+| Calcium hydroxide   | `Ca(OH)2` |
 
 Important distinction:
 
@@ -600,27 +601,27 @@ This makes the final solution basic.
 
 The strength of an acid depends on how many hydrogen ions it produces in water.
 
-| Acid Type | Ion Production | Example Idea |
-|---|---|---|
-| Strong acid | Produces a large amount of `H+`/`H3O+` ions | HCl |
-| Weak acid | Produces a smaller amount of `H+`/`H3O+` ions | Acetic acid |
+| Acid Type   | Ion Production                                | Example Idea |
+| ----------- | --------------------------------------------- | ------------ |
+| Strong acid | Produces a large amount of `H+`/`H3O+` ions   | HCl          |
+| Weak acid   | Produces a smaller amount of `H+`/`H3O+` ions | Acetic acid  |
 
 ## Strong and Weak Bases
 
 The strength of a base depends on how many hydroxide ions it produces in water.
 
-| Base Type | Ion Production | Example Idea |
-|---|---|---|
-| Strong base | Produces a large amount of `OH-` ions | NaOH |
-| Weak base | Produces a smaller amount of `OH-` ions | NH4OH |
+| Base Type   | Ion Production                          | Example Idea |
+| ----------- | --------------------------------------- | ------------ |
+| Strong base | Produces a large amount of `OH-` ions   | NaOH         |
+| Weak base   | Produces a smaller amount of `OH-` ions | NH4OH        |
 
 ## Important Distinction: Strength vs Concentration
 
 Strength and concentration are related but not identical.
 
-| Term | Meaning |
-|---|---|
-| **Strength** | How completely the acid/base ionises in water. |
+| Term              | Meaning                                        |
+| ----------------- | ---------------------------------------------- |
+| **Strength**      | How completely the acid/base ionises in water. |
 | **Concentration** | Amount of acid/base dissolved per unit volume. |
 
 For Class 10 NCERT-style questions, the key idea is:
@@ -638,11 +639,11 @@ pH is a scale used to express how acidic or basic a solution is.
 
 The pH scale usually runs from 0 to 14 for school-level aqueous solutions.
 
-| pH Value | Nature of Solution |
-|---:|---|
-| Less than 7 | Acidic |
-| 7 | Neutral |
-| Greater than 7 | Basic |
+|       pH Value | Nature of Solution |
+| -------------: | ------------------ |
+|    Less than 7 | Acidic             |
+|              7 | Neutral            |
+| Greater than 7 | Basic              |
 
 ## pH and Hydrogen Ion Concentration
 
@@ -652,34 +653,34 @@ Lower hydrogen ion concentration means higher pH.
 
 ## pH Scale Summary
 
-| pH Range | Nature | Example Type |
-|---:|---|---|
-| 0-3 | Strongly acidic | Strong acids, gastric acid |
-| 4-6 | Weakly acidic | Some food acids, milk becoming sour |
-| 7 | Neutral | Pure water |
-| 8-10 | Weakly basic | Mild basic solutions |
-| 11-14 | Strongly basic | Strong alkalis |
+| pH Range | Nature          | Example Type                        |
+| -------: | --------------- | ----------------------------------- |
+|      0-3 | Strongly acidic | Strong acids, gastric acid          |
+|      4-6 | Weakly acidic   | Some food acids, milk becoming sour |
+|        7 | Neutral         | Pure water                          |
+|     8-10 | Weakly basic    | Mild basic solutions                |
+|    11-14 | Strongly basic  | Strong alkalis                      |
 
 ## Universal Indicator
 
 Universal indicator is a mixture of many indicators. It gives different colours at different pH values.
 
 | Colour Region | Approximate Meaning |
-|---|---|
-| Red | Strong acid |
-| Orange/yellow | Weak acid |
-| Green | Neutral |
-| Blue | Weak base |
-| Violet/purple | Strong base |
+| ------------- | ------------------- |
+| Red           | Strong acid         |
+| Orange/yellow | Weak acid           |
+| Green         | Neutral             |
+| Blue          | Weak base           |
+| Violet/purple | Strong base         |
 
 ## Comparing Two Solutions
 
 If solution A has pH 6 and solution B has pH 8:
 
-| Solution | pH | Nature | Hydrogen Ion Concentration |
-|---|---:|---|---|
-| A | 6 | Acidic | More than B |
-| B | 8 | Basic | Less than A |
+| Solution |  pH | Nature | Hydrogen Ion Concentration |
+| -------- | --: | ------ | -------------------------- |
+| A        |   6 | Acidic | More than B                |
+| B        |   8 | Basic  | Less than A                |
 
 So solution A has higher `H+` concentration.
 
@@ -755,10 +756,10 @@ Prevention:
 
 Plants need suitable soil pH.
 
-| Soil Condition | Treatment |
-|---|---|
-| Too acidic | Add quicklime, slaked lime, or chalk. |
-| Too basic | Add organic matter/compost that releases mild acids during decomposition. |
+| Soil Condition | Treatment                                                                 |
+| -------------- | ------------------------------------------------------------------------- |
+| Too acidic     | Add quicklime, slaked lime, or chalk.                                     |
+| Too basic      | Add organic matter/compost that releases mild acids during decomposition. |
 
 Acidic soil treatment examples:
 
@@ -787,13 +788,13 @@ The traditional use of dock plant leaves for nettle stings is connected with neu
 
 ## Daily-Life pH Map
 
-| Situation | Chemistry |
-|---|---|
-| Indigestion | Excess acid neutralised by antacid. |
-| Tooth decay | Acid lowers mouth pH below safe level. |
-| Acidic soil | Mild bases correct soil pH. |
-| Bee sting | Acidic venom treated with mild base. |
-| Acid rain | Low pH harms living and non-living systems. |
+| Situation   | Chemistry                                   |
+| ----------- | ------------------------------------------- |
+| Indigestion | Excess acid neutralised by antacid.         |
+| Tooth decay | Acid lowers mouth pH below safe level.      |
+| Acidic soil | Mild bases correct soil pH.                 |
+| Bee sting   | Acidic venom treated with mild base.        |
+| Acid rain   | Low pH harms living and non-living systems. |
 
 ---
 
@@ -809,11 +810,11 @@ $$
 
 Examples:
 
-| Acid | Base | Salt Formed |
-|---|---|---|
-| HCl | NaOH | NaCl |
-| H2SO4 | KOH | K2SO4 |
-| HNO3 | NaOH | NaNO3 |
+| Acid  | Base | Salt Formed |
+| ----- | ---- | ----------- |
+| HCl   | NaOH | NaCl        |
+| H2SO4 | KOH  | K2SO4       |
+| HNO3  | NaOH | NaNO3       |
 
 ## Families of Salts
 
@@ -821,21 +822,21 @@ Salts can be grouped by common positive or negative radicals.
 
 ## Same Positive Radical
 
-| Salt | Common Positive Radical |
-|---|---|
-| Sodium chloride, `NaCl` | `Na+` |
-| Sodium nitrate, `NaNO3` | `Na+` |
-| Sodium sulphate, `Na2SO4` | `Na+` |
+| Salt                      | Common Positive Radical |
+| ------------------------- | ----------------------- |
+| Sodium chloride, `NaCl`   | `Na+`                   |
+| Sodium nitrate, `NaNO3`   | `Na+`                   |
+| Sodium sulphate, `Na2SO4` | `Na+`                   |
 
 These are sodium salts.
 
 ## Same Negative Radical
 
-| Salt | Common Negative Radical |
-|---|---|
-| Sodium chloride, `NaCl` | `Cl-` |
-| Potassium chloride, `KCl` | `Cl-` |
-| Calcium chloride, `CaCl2` | `Cl-` |
+| Salt                      | Common Negative Radical |
+| ------------------------- | ----------------------- |
+| Sodium chloride, `NaCl`   | `Cl-`                   |
+| Potassium chloride, `KCl` | `Cl-`                   |
+| Calcium chloride, `CaCl2` | `Cl-`                   |
 
 These are chloride salts.
 
@@ -843,11 +844,11 @@ These are chloride salts.
 
 The pH of a salt solution depends on the acid and base from which the salt is formed.
 
-| Acid Used | Base Used | Salt Solution Nature | Example |
-|---|---|---|---|
-| Strong acid | Strong base | Neutral | `NaCl` from HCl and NaOH |
-| Strong acid | Weak base | Acidic | `NH4Cl` type |
-| Weak acid | Strong base | Basic | `CH3COONa` type |
+| Acid Used   | Base Used   | Salt Solution Nature | Example                  |
+| ----------- | ----------- | -------------------- | ------------------------ |
+| Strong acid | Strong base | Neutral              | `NaCl` from HCl and NaOH |
+| Strong acid | Weak base   | Acidic               | `NH4Cl` type             |
+| Weak acid   | Strong base | Basic                | `CH3COONa` type          |
 
 For Class 10, remember the simple rule:
 
@@ -910,38 +911,38 @@ $$
 
 ## Products and Their Locations
 
-| Product | Formula | Where Formed |
-|---|---|---|
-| Chlorine gas | `Cl2` | At the anode |
-| Hydrogen gas | `H2` | At the cathode |
-| Sodium hydroxide solution | `NaOH` | Near the cathode |
+| Product                   | Formula | Where Formed     |
+| ------------------------- | ------- | ---------------- |
+| Chlorine gas              | `Cl2`   | At the anode     |
+| Hydrogen gas              | `H2`    | At the cathode   |
+| Sodium hydroxide solution | `NaOH`  | Near the cathode |
 
 ## Uses of Chlorine
 
-| Use | Explanation |
-|---|---|
-| Water treatment | Disinfects drinking water. |
-| PVC manufacture | Used in making polyvinyl chloride. |
-| Bleaching powder | Reacts with slaked lime. |
-| Disinfectants | Kills microorganisms. |
-| Chemicals | Used in many industrial products. |
+| Use              | Explanation                        |
+| ---------------- | ---------------------------------- |
+| Water treatment  | Disinfects drinking water.         |
+| PVC manufacture  | Used in making polyvinyl chloride. |
+| Bleaching powder | Reacts with slaked lime.           |
+| Disinfectants    | Kills microorganisms.              |
+| Chemicals        | Used in many industrial products.  |
 
 ## Uses of Hydrogen
 
-| Use | Explanation |
-|---|---|
-| Fuels | Hydrogen can be used as fuel. |
-| Ammonia production | Used in the Haber process. |
-| Hydrogenation | Used to convert oils into fats in industry. |
+| Use                | Explanation                                 |
+| ------------------ | ------------------------------------------- |
+| Fuels              | Hydrogen can be used as fuel.               |
+| Ammonia production | Used in the Haber process.                  |
+| Hydrogenation      | Used to convert oils into fats in industry. |
 
 ## Uses of Sodium Hydroxide
 
-| Use | Explanation |
-|---|---|
-| Soap and detergents | Important industrial alkali. |
-| Paper | Used in processing wood pulp. |
-| Artificial fibres | Used in rayon-type processes. |
-| Degreasing metals | Removes grease before treatment. |
+| Use                 | Explanation                      |
+| ------------------- | -------------------------------- |
+| Soap and detergents | Important industrial alkali.     |
+| Paper               | Used in processing wood pulp.    |
+| Artificial fibres   | Used in rayon-type processes.    |
+| Degreasing metals   | Removes grease before treatment. |
 
 ---
 
@@ -967,20 +968,20 @@ For exam answers, `CaOCl2` is commonly accepted as the school formula for bleach
 
 ## Reactants
 
-| Reactant | Formula |
-|---|---|
-| Chlorine | `Cl2` |
+| Reactant        | Formula   |
+| --------------- | --------- |
+| Chlorine        | `Cl2`     |
 | Dry slaked lime | `Ca(OH)2` |
 
 ## Uses of Bleaching Powder
 
-| Use | Explanation |
-|---|---|
-| Textile industry | Bleaches cotton and linen. |
-| Paper industry | Bleaches wood pulp. |
-| Laundry | Bleaches washed clothes. |
-| Oxidising agent | Used in chemical industries. |
-| Disinfectant | Makes drinking water free from germs. |
+| Use              | Explanation                           |
+| ---------------- | ------------------------------------- |
+| Textile industry | Bleaches cotton and linen.            |
+| Paper industry   | Bleaches wood pulp.                   |
+| Laundry          | Bleaches washed clothes.              |
+| Oxidising agent  | Used in chemical industries.          |
+| Disinfectant     | Makes drinking water free from germs. |
 
 ## Common Question
 
@@ -994,9 +995,9 @@ The common name of `Ca(ClO)2` in the raw chapter context is bleaching powder.
 
 Baking soda is sodium hydrogencarbonate.
 
-| Name | Formula |
-|---|---|
-| Baking soda | `NaHCO3` |
+| Name          | Formula                  |
+| ------------- | ------------------------ |
+| Baking soda   | `NaHCO3`                 |
 | Chemical name | Sodium hydrogencarbonate |
 
 ## Preparation
@@ -1009,11 +1010,11 @@ $$
 
 ## Properties
 
-| Property | Explanation |
-|---|---|
-| Mildly basic | It neutralises acids gently. |
-| Non-corrosive | Safer than strong bases for many household uses. |
-| Releases carbon dioxide on heating or acid reaction | Useful in baking and extinguishers. |
+| Property                                            | Explanation                                      |
+| --------------------------------------------------- | ------------------------------------------------ |
+| Mildly basic                                        | It neutralises acids gently.                     |
+| Non-corrosive                                       | Safer than strong bases for many household uses. |
+| Releases carbon dioxide on heating or acid reaction | Useful in baking and extinguishers.              |
 
 ## Heating Baking Soda
 
@@ -1037,10 +1038,10 @@ $$
 
 ## Uses of Baking Soda
 
-| Use | Chemistry Behind It |
-|---|---|
-| Baking powder | Produces carbon dioxide, making food soft and spongy. |
-| Antacid | Neutralises excess stomach acid. |
+| Use                         | Chemistry Behind It                                   |
+| --------------------------- | ----------------------------------------------------- |
+| Baking powder               | Produces carbon dioxide, making food soft and spongy. |
+| Antacid                     | Neutralises excess stomach acid.                      |
 | Soda-acid fire extinguisher | Produces carbon dioxide, which helps extinguish fire. |
 
 ## Why Baking Soda Helps Delay Milk Curdling
@@ -1057,9 +1058,9 @@ Then, when bacteria produce lactic acid, the acid first neutralises the added ba
 
 Washing soda is sodium carbonate decahydrate.
 
-| Name | Formula |
-|---|---|
-| Washing soda | `Na2CO3.10H2O` |
+| Name          | Formula                      |
+| ------------- | ---------------------------- |
+| Washing soda  | `Na2CO3.10H2O`               |
 | Chemical name | Sodium carbonate decahydrate |
 
 ## Preparation from Sodium Carbonate
@@ -1072,14 +1073,14 @@ $$
 
 ## Uses of Washing Soda
 
-| Use | Explanation |
-|---|---|
-| Cleaning agent | Used for domestic cleaning. |
-| Softening hard water | Removes permanent hardness. |
-| Glass industry | Raw material for glass manufacture. |
-| Soap industry | Used in manufacture of soaps. |
-| Paper industry | Used in paper-related industrial processes. |
-| Sodium compounds | Used in making compounds such as borax. |
+| Use                  | Explanation                                 |
+| -------------------- | ------------------------------------------- |
+| Cleaning agent       | Used for domestic cleaning.                 |
+| Softening hard water | Removes permanent hardness.                 |
+| Glass industry       | Raw material for glass manufacture.         |
+| Soap industry        | Used in manufacture of soaps.               |
+| Paper industry       | Used in paper-related industrial processes. |
+| Sodium compounds     | Used in making compounds such as borax.     |
 
 ## Why It Softens Hard Water
 
@@ -1123,9 +1124,9 @@ $$
 CuSO_4.5H_2O \xrightarrow{heat} CuSO_4 + 5H_2O
 $$
 
-| Before Heating | After Heating |
-|---|---|
-| Blue | White |
+| Before Heating           | After Heating             |
+| ------------------------ | ------------------------- |
+| Blue                     | White                     |
 | Hydrated copper sulphate | Anhydrous copper sulphate |
 
 ## Restoring Blue Colour
@@ -1184,12 +1185,12 @@ Once it sets, it loses its useful powder form.
 
 ## Uses of Plaster of Paris
 
-| Use | Explanation |
-|---|---|
-| Fracture support | Used by doctors to support broken bones. |
-| Toys | Used for moulded articles. |
-| Decorative materials | Used for ceiling designs and statues. |
-| Smooth surfaces | Used for making casts and moulds. |
+| Use                  | Explanation                              |
+| -------------------- | ---------------------------------------- |
+| Fracture support     | Used by doctors to support broken bones. |
+| Toys                 | Used for moulded articles.               |
+| Decorative materials | Used for ceiling designs and statues.    |
+| Smooth surfaces      | Used for making casts and moulds.        |
 
 ---
 
@@ -1197,32 +1198,32 @@ Once it sets, it loses its useful powder form.
 
 ## Core Patterns
 
-| Reaction Type | General Form | Gas/Product Clue |
-|---|---|---|
-| Acid + metal | Acid + metal -> salt + hydrogen | `H2`, pop sound |
-| Acid + carbonate | Acid + carbonate -> salt + water + carbon dioxide | `CO2`, lime water milky |
-| Acid + hydrogencarbonate | Acid + hydrogencarbonate -> salt + water + carbon dioxide | `CO2`, lime water milky |
-| Acid + base | Acid + base -> salt + water | Neutralisation |
-| Acid + metallic oxide | Acid + metallic oxide -> salt + water | Metallic oxide is basic |
-| Base + non-metallic oxide | Base + non-metallic oxide -> salt + water | Non-metallic oxide is acidic |
+| Reaction Type             | General Form                                              | Gas/Product Clue             |
+| ------------------------- | --------------------------------------------------------- | ---------------------------- |
+| Acid + metal              | Acid + metal -> salt + hydrogen                           | `H2`, pop sound              |
+| Acid + carbonate          | Acid + carbonate -> salt + water + carbon dioxide         | `CO2`, lime water milky      |
+| Acid + hydrogencarbonate  | Acid + hydrogencarbonate -> salt + water + carbon dioxide | `CO2`, lime water milky      |
+| Acid + base               | Acid + base -> salt + water                               | Neutralisation               |
+| Acid + metallic oxide     | Acid + metallic oxide -> salt + water                     | Metallic oxide is basic      |
+| Base + non-metallic oxide | Base + non-metallic oxide -> salt + water                 | Non-metallic oxide is acidic |
 
 ## Gas Tests
 
-| Gas | Test | Positive Result |
-|---|---|---|
-| Hydrogen | Burning splint | Burns with pop sound. |
-| Carbon dioxide | Lime water | Turns lime water milky. |
+| Gas            | Test           | Positive Result         |
+| -------------- | -------------- | ----------------------- |
+| Hydrogen       | Burning splint | Burns with pop sound.   |
+| Carbon dioxide | Lime water     | Turns lime water milky. |
 
 ## pH Rules
 
-| Situation | pH Direction |
-|---|---|
-| More acidic | Lower pH |
-| More basic | Higher pH |
-| Diluting an acid | pH increases toward 7 |
-| Diluting a base | pH decreases toward 7 |
-| Adding base to acid | pH rises |
-| Adding acid to base | pH falls |
+| Situation           | pH Direction          |
+| ------------------- | --------------------- |
+| More acidic         | Lower pH              |
+| More basic          | Higher pH             |
+| Diluting an acid    | pH increases toward 7 |
+| Diluting a base     | pH decreases toward 7 |
+| Adding base to acid | pH rises              |
+| Adding acid to base | pH falls              |
 
 ---
 
@@ -1687,23 +1688,23 @@ Without water, this ionisation does not occur effectively, so dry HCl does not t
 
 ## Given
 
-| Solution | pH |
-|---|---:|
-| A | 4 |
-| B | 1 |
-| C | 11 |
-| D | 7 |
-| E | 9 |
+| Solution |  pH |
+| -------- | --: |
+| A        |   4 |
+| B        |   1 |
+| C        |  11 |
+| D        |   7 |
+| E        |   9 |
 
 ## Answers
 
-| Category | Solution | pH |
-|---|---|---:|
-| Neutral | D | 7 |
-| Strongly alkaline | C | 11 |
-| Strongly acidic | B | 1 |
-| Weakly acidic | A | 4 |
-| Weakly alkaline | E | 9 |
+| Category          | Solution |  pH |
+| ----------------- | -------- | --: |
+| Neutral           | D        |   7 |
+| Strongly alkaline | C        |  11 |
+| Strongly acidic   | B        |   1 |
+| Weakly acidic     | A        |   4 |
+| Weakly alkaline   | E        |   9 |
 
 ## Increasing Order of Hydrogen Ion Concentration
 
@@ -1825,10 +1826,10 @@ $$
 
 ## Washing Soda
 
-| Use | Explanation |
-|---|---|
-| Softening hard water | Removes calcium and magnesium ions. |
-| Cleaning agent | Used for washing and domestic cleaning. |
+| Use                  | Explanation                             |
+| -------------------- | --------------------------------------- |
+| Softening hard water | Removes calcium and magnesium ions.     |
+| Cleaning agent       | Used for washing and domestic cleaning. |
 
 Other acceptable uses:
 
@@ -1839,10 +1840,10 @@ Other acceptable uses:
 
 ## Baking Soda
 
-| Use | Explanation |
-|---|---|
+| Use           | Explanation                                               |
+| ------------- | --------------------------------------------------------- |
 | Baking powder | Produces carbon dioxide and makes baked food soft/spongy. |
-| Antacid | Neutralises excess stomach acid. |
+| Antacid       | Neutralises excess stomach acid.                          |
 
 Other acceptable use:
 
@@ -1852,18 +1853,18 @@ Other acceptable use:
 
 # Unit 2Y: Common Mistakes and Corrections
 
-| Mistake | Correct Understanding |
-|---|---|
+| Mistake                                                | Correct Understanding                                                         |
+| ------------------------------------------------------ | ----------------------------------------------------------------------------- |
 | Thinking all hydrogen-containing substances are acids. | Only substances that produce `H+`/`H3O+` ions in water show acidic character. |
-| Writing water should be added to acid. | Acid should be added slowly to water. |
-| Saying pH 1 is weakly acidic. | pH 1 is strongly acidic. |
-| Saying pH 11 is weakly basic. | pH 11 is strongly basic/alkaline. |
-| Forgetting water in carbonate reactions. | Acid + carbonate/hydrogencarbonate gives salt + water + carbon dioxide. |
-| Confusing hydrogen and carbon dioxide tests. | Hydrogen gives pop sound; carbon dioxide turns lime water milky. |
-| Calling every base an alkali. | Only water-soluble bases are alkalis. |
-| Saying dry HCl is acidic to dry litmus. | HCl needs water to produce hydronium ions. |
-| Writing washing soda as `NaHCO3`. | `NaHCO3` is baking soda; washing soda is `Na2CO3.10H2O`. |
-| Writing Plaster of Paris as `CaSO4.2H2O`. | `CaSO4.2H2O` is gypsum; POP is `CaSO4.1/2H2O`. |
+| Writing water should be added to acid.                 | Acid should be added slowly to water.                                         |
+| Saying pH 1 is weakly acidic.                          | pH 1 is strongly acidic.                                                      |
+| Saying pH 11 is weakly basic.                          | pH 11 is strongly basic/alkaline.                                             |
+| Forgetting water in carbonate reactions.               | Acid + carbonate/hydrogencarbonate gives salt + water + carbon dioxide.       |
+| Confusing hydrogen and carbon dioxide tests.           | Hydrogen gives pop sound; carbon dioxide turns lime water milky.              |
+| Calling every base an alkali.                          | Only water-soluble bases are alkalis.                                         |
+| Saying dry HCl is acidic to dry litmus.                | HCl needs water to produce hydronium ions.                                    |
+| Writing washing soda as `NaHCO3`.                      | `NaHCO3` is baking soda; washing soda is `Na2CO3.10H2O`.                      |
+| Writing Plaster of Paris as `CaSO4.2H2O`.              | `CaSO4.2H2O` is gypsum; POP is `CaSO4.1/2H2O`.                                |
 
 ---
 
@@ -1871,48 +1872,48 @@ Other acceptable use:
 
 ## Formula Bank
 
-| Substance | Formula |
-|---|---|
-| Hydrochloric acid | `HCl` |
-| Sulphuric acid | `H2SO4` |
-| Nitric acid | `HNO3` |
-| Sodium hydroxide | `NaOH` |
-| Potassium hydroxide | `KOH` |
-| Calcium hydroxide/slaked lime | `Ca(OH)2` |
-| Quicklime | `CaO` |
-| Chalk/limestone/marble | `CaCO3` |
-| Common salt | `NaCl` |
-| Baking soda | `NaHCO3` |
-| Washing soda | `Na2CO3.10H2O` |
-| Gypsum | `CaSO4.2H2O` |
-| Plaster of Paris | `CaSO4.1/2H2O` |
-| Blue vitriol/hydrated copper sulphate | `CuSO4.5H2O` |
+| Substance                             | Formula        |
+| ------------------------------------- | -------------- |
+| Hydrochloric acid                     | `HCl`          |
+| Sulphuric acid                        | `H2SO4`        |
+| Nitric acid                           | `HNO3`         |
+| Sodium hydroxide                      | `NaOH`         |
+| Potassium hydroxide                   | `KOH`          |
+| Calcium hydroxide/slaked lime         | `Ca(OH)2`      |
+| Quicklime                             | `CaO`          |
+| Chalk/limestone/marble                | `CaCO3`        |
+| Common salt                           | `NaCl`         |
+| Baking soda                           | `NaHCO3`       |
+| Washing soda                          | `Na2CO3.10H2O` |
+| Gypsum                                | `CaSO4.2H2O`   |
+| Plaster of Paris                      | `CaSO4.1/2H2O` |
+| Blue vitriol/hydrated copper sulphate | `CuSO4.5H2O`   |
 
 ## Indicator Bank
 
-| Indicator | Acid | Base |
-|---|---|---|
-| Litmus | Blue to red | Red to blue |
-| Phenolphthalein | Colourless | Pink |
-| Methyl orange | Red | Yellow |
-| Turmeric | Yellow | Reddish brown |
-| Universal indicator | Red/orange/yellow | Blue/violet |
+| Indicator           | Acid              | Base          |
+| ------------------- | ----------------- | ------------- |
+| Litmus              | Blue to red       | Red to blue   |
+| Phenolphthalein     | Colourless        | Pink          |
+| Methyl orange       | Red               | Yellow        |
+| Turmeric            | Yellow            | Reddish brown |
+| Universal indicator | Red/orange/yellow | Blue/violet   |
 
 ## Important Equations
 
-| Reaction | Equation |
-|---|---|
-| Zinc + sulphuric acid | `Zn + H2SO4 -> ZnSO4 + H2` |
-| Zinc + hydrochloric acid | `Zn + 2HCl -> ZnCl2 + H2` |
-| Sodium carbonate + hydrochloric acid | `Na2CO3 + 2HCl -> 2NaCl + H2O + CO2` |
-| Sodium hydrogencarbonate + hydrochloric acid | `NaHCO3 + HCl -> NaCl + H2O + CO2` |
-| Carbon dioxide + lime water | `Ca(OH)2 + CO2 -> CaCO3 + H2O` |
-| Sodium hydroxide + hydrochloric acid | `NaOH + HCl -> NaCl + H2O` |
-| Copper oxide + hydrochloric acid | `CuO + 2HCl -> CuCl2 + H2O` |
-| Chlor-alkali process | `2NaCl + 2H2O -> 2NaOH + Cl2 + H2` |
-| Heating baking soda | `2NaHCO3 -> Na2CO3 + H2O + CO2` |
-| Washing soda formation | `Na2CO3 + 10H2O -> Na2CO3.10H2O` |
-| Heating gypsum | `CaSO4.2H2O -> CaSO4.1/2H2O + 3/2H2O` |
+| Reaction                                     | Equation                              |
+| -------------------------------------------- | ------------------------------------- |
+| Zinc + sulphuric acid                        | `Zn + H2SO4 -> ZnSO4 + H2`            |
+| Zinc + hydrochloric acid                     | `Zn + 2HCl -> ZnCl2 + H2`             |
+| Sodium carbonate + hydrochloric acid         | `Na2CO3 + 2HCl -> 2NaCl + H2O + CO2`  |
+| Sodium hydrogencarbonate + hydrochloric acid | `NaHCO3 + HCl -> NaCl + H2O + CO2`    |
+| Carbon dioxide + lime water                  | `Ca(OH)2 + CO2 -> CaCO3 + H2O`        |
+| Sodium hydroxide + hydrochloric acid         | `NaOH + HCl -> NaCl + H2O`            |
+| Copper oxide + hydrochloric acid             | `CuO + 2HCl -> CuCl2 + H2O`           |
+| Chlor-alkali process                         | `2NaCl + 2H2O -> 2NaOH + Cl2 + H2`    |
+| Heating baking soda                          | `2NaHCO3 -> Na2CO3 + H2O + CO2`       |
+| Washing soda formation                       | `Na2CO3 + 10H2O -> Na2CO3.10H2O`      |
+| Heating gypsum                               | `CaSO4.2H2O -> CaSO4.1/2H2O + 3/2H2O` |
 
 ---
 
@@ -1965,4 +1966,3 @@ Bases produce `OH-` ions in water, turn red litmus blue, and neutralise acids. W
 pH measures acidity/basicity. pH below 7 is acidic, pH 7 is neutral, and pH above 7 is basic. A lower pH means greater hydrogen ion concentration.
 
 Common salt, `NaCl`, is the starting point for many useful chemicals. Electrolysis of brine gives sodium hydroxide, chlorine, and hydrogen. Chlorine is used to prepare bleaching powder. Baking soda is `NaHCO3`; washing soda is `Na2CO3.10H2O`. Gypsum is `CaSO4.2H2O`; Plaster of Paris is `CaSO4.1/2H2O`.
-

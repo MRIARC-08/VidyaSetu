@@ -23,25 +23,25 @@ Read this chapter as a map of power beyond military force. Economic strength, re
 
 ## Key Terms
 
-| Term | Meaning | Why it matters |
-|---|---|---|
-| Centre of power | Country or organisation with major influence in world politics | Main theme of the chapter |
-| European Union | Regional organisation of European states with economic and political integration | Major alternative power centre |
-| Marshall Plan | US aid programme for post-Second World War European recovery | Helped European integration |
-| OEEC | Organisation for European Economic Cooperation | Early forum for economic cooperation |
-| ECSC | European Coal and Steel Community | Early step toward European integration |
-| EEC | European Economic Community | Foundation of deeper European economic integration |
-| Maastricht Treaty | Treaty establishing the European Union in 1992 | Turned integration more political |
-| Euro | Common currency used by many EU members | Symbol of economic integration |
-| ASEAN | Association of South East Asian Nations | Major regional organisation in Asia |
-| Bangkok Declaration | 1967 declaration establishing ASEAN | Founding document of ASEAN |
-| ASEAN Way | Informal, non-confrontationist, cooperative style respecting sovereignty | Distinctive style of ASEAN |
-| ARF | ASEAN Regional Forum | Security and foreign policy dialogue forum |
-| ASEAN Community | Framework with security, economic, and socio-cultural pillars | Broadens ASEAN cooperation |
-| Open door policy | China's policy of opening to foreign capital and technology after 1978 | Key to China's economic rise |
-| SEZ | Special Economic Zone | Area where foreign investment and trade were encouraged |
-| WTO | World Trade Organisation | China joined in 2001, deepening global integration |
-| Miracle on the Han River | Rapid economic development of South Korea | Shows South Korea's rise |
+| Term                     | Meaning                                                                          | Why it matters                                          |
+| ------------------------ | -------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| Centre of power          | Country or organisation with major influence in world politics                   | Main theme of the chapter                               |
+| European Union           | Regional organisation of European states with economic and political integration | Major alternative power centre                          |
+| Marshall Plan            | US aid programme for post-Second World War European recovery                     | Helped European integration                             |
+| OEEC                     | Organisation for European Economic Cooperation                                   | Early forum for economic cooperation                    |
+| ECSC                     | European Coal and Steel Community                                                | Early step toward European integration                  |
+| EEC                      | European Economic Community                                                      | Foundation of deeper European economic integration      |
+| Maastricht Treaty        | Treaty establishing the European Union in 1992                                   | Turned integration more political                       |
+| Euro                     | Common currency used by many EU members                                          | Symbol of economic integration                          |
+| ASEAN                    | Association of South East Asian Nations                                          | Major regional organisation in Asia                     |
+| Bangkok Declaration      | 1967 declaration establishing ASEAN                                              | Founding document of ASEAN                              |
+| ASEAN Way                | Informal, non-confrontationist, cooperative style respecting sovereignty         | Distinctive style of ASEAN                              |
+| ARF                      | ASEAN Regional Forum                                                             | Security and foreign policy dialogue forum              |
+| ASEAN Community          | Framework with security, economic, and socio-cultural pillars                    | Broadens ASEAN cooperation                              |
+| Open door policy         | China's policy of opening to foreign capital and technology after 1978           | Key to China's economic rise                            |
+| SEZ                      | Special Economic Zone                                                            | Area where foreign investment and trade were encouraged |
+| WTO                      | World Trade Organisation                                                         | China joined in 2001, deepening global integration      |
+| Miracle on the Han River | Rapid economic development of South Korea                                        | Shows South Korea's rise                                |
 
 ## 1. The Chapter In One Sentence
 
@@ -832,11 +832,11 @@ Its rise shows that economic growth and human development can reinforce each oth
 
 ## 66. Comparing EU, ASEAN, And China
 
-| Centre | Main basis of power | Style |
-|---|---|---|
-| EU | Economic integration, institutions, diplomacy, currency, trade | Formal and partly supranational |
-| ASEAN | Regional cooperation, consultation, economic growth, sovereignty respect | Informal and non-confrontationist |
-| China | Rapid growth, manufacturing, population, trade, state-guided reforms | State-led market opening |
+| Centre | Main basis of power                                                      | Style                             |
+| ------ | ------------------------------------------------------------------------ | --------------------------------- |
+| EU     | Economic integration, institutions, diplomacy, currency, trade           | Formal and partly supranational   |
+| ASEAN  | Regional cooperation, consultation, economic growth, sovereignty respect | Informal and non-confrontationist |
+| China  | Rapid growth, manufacturing, population, trade, state-guided reforms     | State-led market opening          |
 
 ## 67. Common Student Confusions
 

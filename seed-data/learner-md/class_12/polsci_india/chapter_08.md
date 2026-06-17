@@ -28,26 +28,26 @@ Read this chapter as the final stage of the book's story: from one-party dominan
 
 ## Key Terms
 
-| Term | Meaning | Why it matters |
-|---|---|---|
-| Congress system | Party system in which Congress occupied the central position | Declined after 1989 |
-| Coalition politics | Politics in which multiple parties form or support government | Main feature after 1989 |
-| National Front | Coalition led by Janata Dal after 1989 election | Began new coalition phase |
-| United Front | Coalition government in 1996-1997 | Showed importance of regional parties |
-| NDA | National Democratic Alliance led by BJP | Came to power in 1998, 1999, 2014, 2019 |
-| UPA | United Progressive Alliance led by Congress | Came to power in 2004 and 2009 |
-| Mandalisation | Politics shaped by OBC reservation and backward caste assertion | Changed representation |
-| OBC | Other Backward Classes | Major social and political category |
-| Mandal Commission | Second Backward Classes Commission chaired by B. P. Mandal | Recommended 27 percent reservation |
-| Indra Sawhney case | Supreme Court case on OBC reservations | Upheld Mandal implementation in 1992 |
-| Bahujan | Majority made of SC, ST, OBC, and minorities in BSP politics | Central to Kanshi Ram's strategy |
-| BAMCEF | Backward and Minority Communities Employees Federation | Precursor to BSP politics |
-| BSP | Bahujan Samaj Party | Major Dalit-based party |
-| Hindutva | Ideology associated with Hindu cultural nationalism | Important in BJP's rise |
-| Shah Bano case | Case on maintenance for divorced Muslim woman | Raised gender justice and personal law debate |
-| Ram Janmabhoomi movement | Movement around the Ayodhya dispute | Major political development |
-| New economic reforms | Economic policy shift visible from 1991 | Created new policy consensus |
-| Political consensus | Broad agreement among major parties on some key issues | Marks post-1989 politics |
+| Term                     | Meaning                                                         | Why it matters                                |
+| ------------------------ | --------------------------------------------------------------- | --------------------------------------------- |
+| Congress system          | Party system in which Congress occupied the central position    | Declined after 1989                           |
+| Coalition politics       | Politics in which multiple parties form or support government   | Main feature after 1989                       |
+| National Front           | Coalition led by Janata Dal after 1989 election                 | Began new coalition phase                     |
+| United Front             | Coalition government in 1996-1997                               | Showed importance of regional parties         |
+| NDA                      | National Democratic Alliance led by BJP                         | Came to power in 1998, 1999, 2014, 2019       |
+| UPA                      | United Progressive Alliance led by Congress                     | Came to power in 2004 and 2009                |
+| Mandalisation            | Politics shaped by OBC reservation and backward caste assertion | Changed representation                        |
+| OBC                      | Other Backward Classes                                          | Major social and political category           |
+| Mandal Commission        | Second Backward Classes Commission chaired by B. P. Mandal      | Recommended 27 percent reservation            |
+| Indra Sawhney case       | Supreme Court case on OBC reservations                          | Upheld Mandal implementation in 1992          |
+| Bahujan                  | Majority made of SC, ST, OBC, and minorities in BSP politics    | Central to Kanshi Ram's strategy              |
+| BAMCEF                   | Backward and Minority Communities Employees Federation          | Precursor to BSP politics                     |
+| BSP                      | Bahujan Samaj Party                                             | Major Dalit-based party                       |
+| Hindutva                 | Ideology associated with Hindu cultural nationalism             | Important in BJP's rise                       |
+| Shah Bano case           | Case on maintenance for divorced Muslim woman                   | Raised gender justice and personal law debate |
+| Ram Janmabhoomi movement | Movement around the Ayodhya dispute                             | Major political development                   |
+| New economic reforms     | Economic policy shift visible from 1991                         | Created new policy consensus                  |
+| Political consensus      | Broad agreement among major parties on some key issues          | Marks post-1989 politics                      |
 
 ## 1. The Chapter In One Sentence
 
@@ -251,17 +251,17 @@ The chapter still treats coalition politics as relevant because alliances and st
 
 ## 20. Central Governments Since 1989: Learning Table
 
-| Period | Main government pattern |
-|---|---|
-| 1989 | National Front government with outside support |
-| 1991 | Congress government under P. V. Narasimha Rao |
-| 1996 | Short BJP government, then United Front |
-| 1998 | BJP-led coalition |
-| 1999 | NDA government completed full term |
-| 2004 | UPA government led by Congress |
-| 2009 | UPA government returned |
-| 2014 | BJP won single-party majority and led NDA |
-| 2019 | BJP again won single-party majority and led NDA |
+| Period | Main government pattern                         |
+| ------ | ----------------------------------------------- |
+| 1989   | National Front government with outside support  |
+| 1991   | Congress government under P. V. Narasimha Rao   |
+| 1996   | Short BJP government, then United Front         |
+| 1998   | BJP-led coalition                               |
+| 1999   | NDA government completed full term              |
+| 2004   | UPA government led by Congress                  |
+| 2009   | UPA government returned                         |
+| 2014   | BJP won single-party majority and led NDA       |
+| 2019   | BJP again won single-party majority and led NDA |
 
 This table is for conceptual learning, not a complete list of every transition.
 
@@ -627,16 +627,16 @@ Key points:
 
 The raw chapter gives the following important figures for the 17th Lok Sabha:
 
-| Party | Seats |
-|---|---:|
-| BJP | 303 |
-| INC | 52 |
-| DMK | 24 |
-| Shiv Sena | 18 |
-| JD(U) | 16 |
-| BJD | 12 |
-| BSP | 10 |
-| Other parties | 108 |
+| Party         | Seats |
+| ------------- | ----: |
+| BJP           |   303 |
+| INC           |    52 |
+| DMK           |    24 |
+| Shiv Sena     |    18 |
+| JD(U)         |    16 |
+| BJD           |    12 |
+| BSP           |    10 |
+| Other parties |   108 |
 
 This table shows that even with a BJP majority, many parties continued to be represented.
 
@@ -644,23 +644,23 @@ This table shows that even with a BJP majority, many parties continued to be rep
 
 Correct chronological order:
 
-| Order | Event |
-|---|---|
-| 1 | Assassination of Indira Gandhi |
-| 2 | Formation of Janata Dal |
-| 3 | Implementation of Mandal Commission recommendation |
-| 4 | Formation of NDA government |
-| 5 | Formation of UPA government |
-| 6 | Supreme Court judgment on Ram Janmabhoomi |
+| Order | Event                                              |
+| ----- | -------------------------------------------------- |
+| 1     | Assassination of Indira Gandhi                     |
+| 2     | Formation of Janata Dal                            |
+| 3     | Implementation of Mandal Commission recommendation |
+| 4     | Formation of NDA government                        |
+| 5     | Formation of UPA government                        |
+| 6     | Supreme Court judgment on Ram Janmabhoomi          |
 
 ## 58. Matching Practice
 
-| Item | Match |
-|---|---|
-| Politics of consensus | Agreement on economic policies |
-| Caste-based parties | Rise of OBCs |
-| Personal law and gender justice | Shah Bano case |
-| Growing strength of regional parties | Coalition government |
+| Item                                 | Match                          |
+| ------------------------------------ | ------------------------------ |
+| Politics of consensus                | Agreement on economic policies |
+| Caste-based parties                  | Rise of OBCs                   |
+| Personal law and gender justice      | Shah Bano case                 |
+| Growing strength of regional parties | Coalition government           |
 
 ## 59. Main Issues After 1989
 
@@ -780,38 +780,38 @@ A good party system must both represent diversity and create governable choices.
 
 ## 68. Common Misunderstandings
 
-| Misunderstanding | Correct understanding |
-|---|---|
-| Congress disappeared after 1989 | Congress declined but remained influential |
-| Coalition politics means weak democracy | It can make democracy more representative, though sometimes unstable |
-| Mandal was only about jobs | It reshaped identity, representation, and power |
-| OBC and Dalit politics are the same | They overlap but often developed independently |
-| BJP rose suddenly in 2014 | Its rise developed through Jana Sangh, BJP formation, Hindutva politics, and coalition phases |
-| New consensus means no political conflict | Parties still conflict, but agree on some broad issues |
-| India became a two-party system after 1989 | BJP and Congress became major poles, but regional parties remained crucial |
+| Misunderstanding                           | Correct understanding                                                                         |
+| ------------------------------------------ | --------------------------------------------------------------------------------------------- |
+| Congress disappeared after 1989            | Congress declined but remained influential                                                    |
+| Coalition politics means weak democracy    | It can make democracy more representative, though sometimes unstable                          |
+| Mandal was only about jobs                 | It reshaped identity, representation, and power                                               |
+| OBC and Dalit politics are the same        | They overlap but often developed independently                                                |
+| BJP rose suddenly in 2014                  | Its rise developed through Jana Sangh, BJP formation, Hindutva politics, and coalition phases |
+| New consensus means no political conflict  | Parties still conflict, but agree on some broad issues                                        |
+| India became a two-party system after 1989 | BJP and Congress became major poles, but regional parties remained crucial                    |
 
 ## 69. Timeline
 
-| Year | Event |
-|---|---|
-| 1978 | Mandal Commission appointed; BAMCEF formed |
-| 1980 | BJP formed; Mandal Commission report submitted |
-| 1984 | Congress won 415 seats after Indira Gandhi's assassination |
-| 1985 | Shah Bano judgment |
-| 1986 | Muslim Women Act passed; Ayodhya structure unlocked |
-| 1989 | Congress defeated; end of Congress system; BSP breakthrough in Uttar Pradesh |
-| 1990 | National Front government implemented Mandal recommendation |
-| 1991 | Rajiv Gandhi assassinated; Congress emerged as single largest party |
-| 1991 | New economic reforms became visible |
-| 1992 | Supreme Court upheld OBC reservation in Indra Sawhney case; Ayodhya demolition |
-| 1996 | BJP largest party but failed to secure majority; United Front came to power |
-| 1998 | BJP-led coalition came to power |
-| 1999 | NDA returned and completed full term |
-| 2004 | UPA came to power |
-| 2009 | UPA returned; Manmohan Singh became Prime Minister again |
-| 2014 | BJP won 282 seats and led NDA |
-| 9 November 2019 | Supreme Court judgment on Ayodhya |
-| 2019 | BJP won 303 seats and led NDA |
+| Year            | Event                                                                          |
+| --------------- | ------------------------------------------------------------------------------ |
+| 1978            | Mandal Commission appointed; BAMCEF formed                                     |
+| 1980            | BJP formed; Mandal Commission report submitted                                 |
+| 1984            | Congress won 415 seats after Indira Gandhi's assassination                     |
+| 1985            | Shah Bano judgment                                                             |
+| 1986            | Muslim Women Act passed; Ayodhya structure unlocked                            |
+| 1989            | Congress defeated; end of Congress system; BSP breakthrough in Uttar Pradesh   |
+| 1990            | National Front government implemented Mandal recommendation                    |
+| 1991            | Rajiv Gandhi assassinated; Congress emerged as single largest party            |
+| 1991            | New economic reforms became visible                                            |
+| 1992            | Supreme Court upheld OBC reservation in Indra Sawhney case; Ayodhya demolition |
+| 1996            | BJP largest party but failed to secure majority; United Front came to power    |
+| 1998            | BJP-led coalition came to power                                                |
+| 1999            | NDA returned and completed full term                                           |
+| 2004            | UPA came to power                                                              |
+| 2009            | UPA returned; Manmohan Singh became Prime Minister again                       |
+| 2014            | BJP won 282 seats and led NDA                                                  |
+| 9 November 2019 | Supreme Court judgment on Ayodhya                                              |
+| 2019            | BJP won 303 seats and led NDA                                                  |
 
 ## 70. Very Short Answer Practice
 

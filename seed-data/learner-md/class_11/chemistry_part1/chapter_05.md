@@ -45,27 +45,27 @@ By the end of this chapter, a learner should be able to:
 
 ## 3. Core Vocabulary
 
-| Term | Learner meaning |
-|---|---|
-| Thermodynamics | Study of energy changes in macroscopic systems |
-| System | Part of universe under study |
-| Surroundings | Everything outside the system that can interact with it |
-| Boundary | Real or imaginary surface separating system and surroundings |
-| Open system | Exchanges matter and energy |
-| Closed system | Exchanges energy but not matter |
-| Isolated system | Exchanges neither matter nor energy |
-| State function | Depends only on state, not path |
-| Path function | Depends on route taken |
-| Internal energy | Total energy contained in a system |
-| Heat | Energy transfer due to temperature difference |
-| Work | Energy transfer through force acting over distance |
-| Enthalpy | State function `H = U + pV` |
-| Entropy | State function related to disorder or energy dispersal |
-| Gibbs energy | State function used for spontaneity at constant T and p |
-| Spontaneous process | Process with tendency to occur without external driving |
-| Calorimetry | Experimental measurement of heat changes |
-| Standard state | Pure substance at 1 bar at specified temperature |
-| Hess's law | Total enthalpy change is independent of path |
+| Term                | Learner meaning                                              |
+| ------------------- | ------------------------------------------------------------ |
+| Thermodynamics      | Study of energy changes in macroscopic systems               |
+| System              | Part of universe under study                                 |
+| Surroundings        | Everything outside the system that can interact with it      |
+| Boundary            | Real or imaginary surface separating system and surroundings |
+| Open system         | Exchanges matter and energy                                  |
+| Closed system       | Exchanges energy but not matter                              |
+| Isolated system     | Exchanges neither matter nor energy                          |
+| State function      | Depends only on state, not path                              |
+| Path function       | Depends on route taken                                       |
+| Internal energy     | Total energy contained in a system                           |
+| Heat                | Energy transfer due to temperature difference                |
+| Work                | Energy transfer through force acting over distance           |
+| Enthalpy            | State function `H = U + pV`                                  |
+| Entropy             | State function related to disorder or energy dispersal       |
+| Gibbs energy        | State function used for spontaneity at constant T and p      |
+| Spontaneous process | Process with tendency to occur without external driving      |
+| Calorimetry         | Experimental measurement of heat changes                     |
+| Standard state      | Pure substance at 1 bar at specified temperature             |
+| Hess's law          | Total enthalpy change is independent of path                 |
 
 ## 4. Big Picture Map
 
@@ -148,11 +148,11 @@ The type of boundary controls possible exchanges.
 
 ## 8. Open, Closed, and Isolated Systems
 
-| System type | Matter exchange | Energy exchange | Example |
-|---|---|---|---|
-| Open | Yes | Yes | Open beaker |
-| Closed | No | Yes | Sealed conducting vessel |
-| Isolated | No | No | Ideal thermos flask |
+| System type | Matter exchange | Energy exchange | Example                  |
+| ----------- | --------------- | --------------- | ------------------------ |
+| Open        | Yes             | Yes             | Open beaker              |
+| Closed      | No              | Yes             | Sealed conducting vessel |
+| Isolated    | No              | No              | Ideal thermos flask      |
 
 Most real systems are not perfectly isolated, but the concept is useful for reasoning.
 
@@ -731,12 +731,12 @@ Delta H = -393.5 + 283.0 = -110.5 kJ mol^-1
 
 Phase changes occur at constant temperature and pressure.
 
-| Process | Symbol | Sign |
-|---|---|---|
-| Fusion, solid to liquid | Delta_fus H | Positive |
-| Vaporisation, liquid to gas | Delta_vap H | Positive |
-| Sublimation, solid to gas | Delta_sub H | Positive |
-| Freezing, liquid to solid | -Delta_fus H | Negative |
+| Process                     | Symbol       | Sign     |
+| --------------------------- | ------------ | -------- |
+| Fusion, solid to liquid     | Delta_fus H  | Positive |
+| Vaporisation, liquid to gas | Delta_vap H  | Positive |
+| Sublimation, solid to gas   | Delta_sub H  | Positive |
+| Freezing, liquid to solid   | -Delta_fus H | Negative |
 | Condensation, gas to liquid | -Delta_vap H | Negative |
 
 Melting and vaporisation require heat, so their enthalpy changes are positive.
@@ -965,10 +965,10 @@ Gibbs energy combines enthalpy and entropy into one criterion for spontaneity at
 
 At constant `T` and `p`:
 
-| Delta G | Meaning |
-|---:|---|
-| Delta G < 0 | Process is spontaneous |
-| Delta G = 0 | System is at equilibrium |
+|     Delta G | Meaning                                        |
+| ----------: | ---------------------------------------------- |
+| Delta G < 0 | Process is spontaneous                         |
+| Delta G = 0 | System is at equilibrium                       |
 | Delta G > 0 | Process is nonspontaneous in forward direction |
 
 `Delta G` is sometimes called free energy change because it measures energy available to do useful work under constant temperature and pressure.
@@ -981,11 +981,11 @@ $$
 \Delta G = \Delta H - T\Delta S
 $$
 
-| Delta H | Delta S | Spontaneity |
-|---|---|---|
-| Negative | Positive | Spontaneous at all temperatures |
-| Negative | Negative | Spontaneous at low temperature |
-| Positive | Positive | Spontaneous at high temperature |
+| Delta H  | Delta S  | Spontaneity                        |
+| -------- | -------- | ---------------------------------- |
+| Negative | Positive | Spontaneous at all temperatures    |
+| Negative | Negative | Spontaneous at low temperature     |
+| Positive | Positive | Spontaneous at high temperature    |
 | Positive | Negative | Nonspontaneous at all temperatures |
 
 High temperature favours processes with positive entropy change.
@@ -1884,19 +1884,19 @@ The entropy of an isolated system tends to increase until equilibrium is reached
 
 ## 77. Common Student Confusions
 
-| Confusion | Correct idea |
-|---|---|
-| Heat is stored inside a system | Heat is energy in transit |
-| Work done by system is positive | In chemistry convention, work done by system is negative |
-| q and w are state functions | q and w are path functions |
-| Delta U depends on path | Delta U is a state function |
-| Delta H always equals Delta U | Only when pDeltaV or Delta n_gRT is zero |
-| Standard enthalpy of element is always one | It is zero in reference state |
-| Spontaneous means fast | Spontaneous means thermodynamic tendency |
-| Exothermic always means spontaneous | Entropy also matters |
-| Positive Delta S always means spontaneous | Delta H and temperature also matter |
-| Delta G positive means forward reaction is spontaneous | Delta G negative means forward reaction is spontaneous |
-| K greater than 1 gives positive Delta G^0 | K greater than 1 gives negative Delta G^0 |
+| Confusion                                              | Correct idea                                             |
+| ------------------------------------------------------ | -------------------------------------------------------- |
+| Heat is stored inside a system                         | Heat is energy in transit                                |
+| Work done by system is positive                        | In chemistry convention, work done by system is negative |
+| q and w are state functions                            | q and w are path functions                               |
+| Delta U depends on path                                | Delta U is a state function                              |
+| Delta H always equals Delta U                          | Only when pDeltaV or Delta n_gRT is zero                 |
+| Standard enthalpy of element is always one             | It is zero in reference state                            |
+| Spontaneous means fast                                 | Spontaneous means thermodynamic tendency                 |
+| Exothermic always means spontaneous                    | Entropy also matters                                     |
+| Positive Delta S always means spontaneous              | Delta H and temperature also matter                      |
+| Delta G positive means forward reaction is spontaneous | Delta G negative means forward reaction is spontaneous   |
+| K greater than 1 gives positive Delta G^0              | K greater than 1 gives negative Delta G^0                |
 
 ## 78. Exam Answer: First Law
 
@@ -2116,31 +2116,31 @@ Thermodynamics
 
 ## 90. Glossary
 
-| Term | Meaning |
-|---|---|
-| Adiabatic | No heat exchange |
-| Boundary | Surface separating system and surroundings |
-| Calorimeter | Device for measuring heat change |
-| Closed system | Exchanges energy but not matter |
-| Entropy | State function related to disorder |
-| Enthalpy | Heat content function, `H = U + pV` |
-| Extensive property | Depends on amount of matter |
-| Gibbs energy | State function for spontaneity at constant T and p |
-| Heat | Energy transfer due to temperature difference |
-| Heat capacity | Heat needed per unit temperature rise |
-| Hess's law | Enthalpy change independent of path |
-| Intensive property | Independent of amount of matter |
-| Internal energy | Total energy of system |
-| Isolated system | Exchanges neither matter nor energy |
-| Open system | Exchanges matter and energy |
-| Path function | Depends on path |
-| Reversible process | Ideal process reversible by infinitesimal change |
-| Spontaneous | Has tendency to occur without external driving |
-| Standard state | Pure substance at 1 bar |
-| State function | Depends only on state |
-| Surroundings | Everything outside system |
-| System | Part of universe under study |
-| Work | Energy transfer by force through distance |
+| Term               | Meaning                                            |
+| ------------------ | -------------------------------------------------- |
+| Adiabatic          | No heat exchange                                   |
+| Boundary           | Surface separating system and surroundings         |
+| Calorimeter        | Device for measuring heat change                   |
+| Closed system      | Exchanges energy but not matter                    |
+| Entropy            | State function related to disorder                 |
+| Enthalpy           | Heat content function, `H = U + pV`                |
+| Extensive property | Depends on amount of matter                        |
+| Gibbs energy       | State function for spontaneity at constant T and p |
+| Heat               | Energy transfer due to temperature difference      |
+| Heat capacity      | Heat needed per unit temperature rise              |
+| Hess's law         | Enthalpy change independent of path                |
+| Intensive property | Independent of amount of matter                    |
+| Internal energy    | Total energy of system                             |
+| Isolated system    | Exchanges neither matter nor energy                |
+| Open system        | Exchanges matter and energy                        |
+| Path function      | Depends on path                                    |
+| Reversible process | Ideal process reversible by infinitesimal change   |
+| Spontaneous        | Has tendency to occur without external driving     |
+| Standard state     | Pure substance at 1 bar                            |
+| State function     | Depends only on state                              |
+| Surroundings       | Everything outside system                          |
+| System             | Part of universe under study                       |
+| Work               | Energy transfer by force through distance          |
 
 ## 91. Final Revision Sheet
 

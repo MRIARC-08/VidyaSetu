@@ -1,4 +1,5 @@
 # Chapter 11: Keeping Quiet
+
 ### NCERT Class 12 - English Flamingo
 
 ## Chapter at a Glance
@@ -21,14 +22,14 @@ By the end of this poem, you should be able to:
 
 ## Key Facts
 
-| Element | Detail |
-|---|---|
-| Poet | Pablo Neruda |
-| Form | Free verse lyric |
-| Main appeal | A moment of silence and introspection |
+| Element         | Detail                                         |
+| --------------- | ---------------------------------------------- |
+| Poet            | Pablo Neruda                                   |
+| Form            | Free verse lyric                               |
+| Main appeal     | A moment of silence and introspection          |
 | Central concern | Violence, rush, alienation, environmental harm |
-| Tone | Calm, meditative, urgent but gentle |
-| Main contrast | Meaningful stillness vs destructive activity |
+| Tone            | Calm, meditative, urgent but gentle            |
+| Main contrast   | Meaningful stillness vs destructive activity   |
 
 # Unit 11A: Central Idea
 
@@ -98,25 +99,25 @@ This is not political unity through force. It is emotional and moral unity throu
 
 # Unit 11G: Symbols
 
-| Symbol | Meaning |
-|---|---|
-| Counting | Preparation for collective stillness |
-| Silence | Introspection, peace, unity |
-| No language | Freedom from division and misunderstanding |
-| Fishermen and whales | Human violence against nature |
-| Earth | Renewal through quiet life |
-| Clean clothes or changed hands | Moral transformation |
+| Symbol                         | Meaning                                    |
+| ------------------------------ | ------------------------------------------ |
+| Counting                       | Preparation for collective stillness       |
+| Silence                        | Introspection, peace, unity                |
+| No language                    | Freedom from division and misunderstanding |
+| Fishermen and whales           | Human violence against nature              |
+| Earth                          | Renewal through quiet life                 |
+| Clean clothes or changed hands | Moral transformation                       |
 
 # Unit 11H: Poetic Devices
 
-| Device | Effect |
-|---|---|
-| Free verse | Gives meditative, conversational flow |
-| Repetition | Strengthens appeal for stillness |
-| Imagery | Connects abstract peace with concrete scenes |
-| Symbolism | Makes silence and Earth carry deeper meaning |
-| Contrast | Shows destructive activity against healing stillness |
-| Inclusive voice | "We" feeling creates shared responsibility |
+| Device          | Effect                                               |
+| --------------- | ---------------------------------------------------- |
+| Free verse      | Gives meditative, conversational flow                |
+| Repetition      | Strengthens appeal for stillness                     |
+| Imagery         | Connects abstract peace with concrete scenes         |
+| Symbolism       | Makes silence and Earth carry deeper meaning         |
+| Contrast        | Shows destructive activity against healing stillness |
+| Inclusive voice | "We" feeling creates shared responsibility           |
 
 # Unit 11I: Tone
 
@@ -166,13 +167,13 @@ Stillness can lead to fresh life, just as Earth renews itself quietly.
 
 # Unit 11L: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Saying the poet wants everyone to stop working forever | He asks for a brief introspective pause. |
-| Treating silence as death | The poem clearly supports living stillness and renewal. |
-| Ignoring environmental concern | Harm to nature is central to the poem. |
-| Reading the poem as passive | It is morally active because it challenges violence. |
-| Forgetting universal unity | The poem imagines all humanity sharing one pause. |
+| Mistake                                                | Correction                                              |
+| ------------------------------------------------------ | ------------------------------------------------------- |
+| Saying the poet wants everyone to stop working forever | He asks for a brief introspective pause.                |
+| Treating silence as death                              | The poem clearly supports living stillness and renewal. |
+| Ignoring environmental concern                         | Harm to nature is central to the poem.                  |
+| Reading the poem as passive                            | It is morally active because it challenges violence.    |
+| Forgetting universal unity                             | The poem imagines all humanity sharing one pause.       |
 
 ## Practice Set
 

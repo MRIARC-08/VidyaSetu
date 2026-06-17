@@ -256,17 +256,17 @@ It requires:
 
 ## 16. Key Terms
 
-| Term | Meaning |
-|---|---|
-| Environment | Natural and built surroundings of social life |
-| Ecology | Relations among organisms and environment |
-| Deforestation | Loss of forest cover |
-| Emissions | Waste gases released by processes |
-| Effluents | Liquid waste from industry |
-| Aquifer | Underground water-bearing formation |
-| Monoculture | Reduction of plant life to a single variety |
-| Environmental justice | Fair distribution of environmental benefits and burdens |
-| Sustainable development | Development that protects future needs |
+| Term                    | Meaning                                                 |
+| ----------------------- | ------------------------------------------------------- |
+| Environment             | Natural and built surroundings of social life           |
+| Ecology                 | Relations among organisms and environment               |
+| Deforestation           | Loss of forest cover                                    |
+| Emissions               | Waste gases released by processes                       |
+| Effluents               | Liquid waste from industry                              |
+| Aquifer                 | Underground water-bearing formation                     |
+| Monoculture             | Reduction of plant life to a single variety             |
+| Environmental justice   | Fair distribution of environmental benefits and burdens |
+| Sustainable development | Development that protects future needs                  |
 
 ## 17. Exam-Oriented Summary
 
@@ -286,4 +286,3 @@ Environmental movements show that ecological protection and social justice are l
 8. What is development-induced displacement?
 9. What is environmental justice?
 10. Define sustainable development.
-

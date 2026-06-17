@@ -2,14 +2,14 @@
 
 ## Chapter Identity
 
-| Item | Details |
-| --- | --- |
-| Class | 12 |
-| Subject | English Vistas |
-| Text Type | Short Story |
-| Author | Pearl S. Buck |
+| Item       | Details                                                                                                    |
+| ---------- | ---------------------------------------------------------------------------------------------------------- |
+| Class      | 12                                                                                                         |
+| Subject    | English Vistas                                                                                             |
+| Text Type  | Short Story                                                                                                |
+| Author     | Pearl S. Buck                                                                                              |
 | Core Skill | Understanding moral conflict, professional duty, wartime prejudice, character transformation, and humanism |
-| Main Idea | The story shows that humanity and professional ethics can rise above war, nationalism, and racial hatred. |
+| Main Idea  | The story shows that humanity and professional ethics can rise above war, nationalism, and racial hatred.  |
 
 ## 1. Big Picture
 
@@ -31,14 +31,14 @@ Unable to bear the danger any longer, Sadao helps the American escape by giving 
 
 ## 3. Main Characters
 
-| Character | Role | What to Remember |
-| --- | --- | --- |
-| Dr Sadao Hoki | Japanese surgeon | Torn between national loyalty and duty to save life. |
-| Hana | Sadao's wife | Fearful but compassionate; supports Sadao under pressure. |
-| Tom | Wounded American prisoner | Enemy soldier whose helplessness tests others' humanity. |
-| The old General | Powerful military figure | Self-centred; values Sadao because he needs him. |
-| Servants | Domestic staff | Represent common wartime prejudice and social pressure. |
-| Sadao's father | Influence from past | Represents strict patriotism, discipline, and Japanese pride. |
+| Character       | Role                      | What to Remember                                              |
+| --------------- | ------------------------- | ------------------------------------------------------------- |
+| Dr Sadao Hoki   | Japanese surgeon          | Torn between national loyalty and duty to save life.          |
+| Hana            | Sadao's wife              | Fearful but compassionate; supports Sadao under pressure.     |
+| Tom             | Wounded American prisoner | Enemy soldier whose helplessness tests others' humanity.      |
+| The old General | Powerful military figure  | Self-centred; values Sadao because he needs him.              |
+| Servants        | Domestic staff            | Represent common wartime prejudice and social pressure.       |
+| Sadao's father  | Influence from past       | Represents strict patriotism, discipline, and Japanese pride. |
 
 ## 4. Dr Sadao's Character
 
@@ -104,12 +104,12 @@ The General is powerful but morally weak. He does not act from human kindness. H
 
 ### What His Behaviour Shows
 
-| Action/Attitude | Meaning |
-| --- | --- |
-| Promises to kill the prisoner secretly | Wants convenience, not justice. |
-| Forgets the promise | Self-absorbed and careless. |
-| Depends on Sadao | Values people according to usefulness. |
-| Protects himself at the end | More concerned with reputation than duty. |
+| Action/Attitude                        | Meaning                                   |
+| -------------------------------------- | ----------------------------------------- |
+| Promises to kill the prisoner secretly | Wants convenience, not justice.           |
+| Forgets the promise                    | Self-absorbed and careless.               |
+| Depends on Sadao                       | Values people according to usefulness.    |
+| Protects himself at the end            | More concerned with reputation than duty. |
 
 The General's behaviour contrasts with Sadao's conscience.
 
@@ -151,13 +151,13 @@ Possible meanings:
 
 ## 11. Important Conflicts
 
-| Conflict | Explanation |
-| --- | --- |
-| Doctor vs patriot | Sadao must choose between saving life and obeying wartime loyalty. |
-| Humanity vs prejudice | The prisoner is an enemy, but also a suffering human. |
-| Individual conscience vs society | Sadao and Hana act differently from servants' expectations. |
-| Duty vs safety | Helping the prisoner endangers the household. |
-| Power vs morality | The General uses authority selfishly. |
+| Conflict                         | Explanation                                                        |
+| -------------------------------- | ------------------------------------------------------------------ |
+| Doctor vs patriot                | Sadao must choose between saving life and obeying wartime loyalty. |
+| Humanity vs prejudice            | The prisoner is an enemy, but also a suffering human.              |
+| Individual conscience vs society | Sadao and Hana act differently from servants' expectations.        |
+| Duty vs safety                   | Helping the prisoner endangers the household.                      |
+| Power vs morality                | The General uses authority selfishly.                              |
 
 ## 12. Why Sadao Saves the Prisoner
 
@@ -220,23 +220,23 @@ The story rises above prejudice by showing that human suffering is more importan
 
 ## 17. Symbols
 
-| Symbol | Meaning |
-| --- | --- |
-| Sea | Chance, danger, and the arrival of moral testing. |
-| Wound | Human vulnerability beyond nationality. |
-| Sadao's house | Space of conflict between safety and conscience. |
-| Boat | Escape, mercy, and final moral decision. |
-| Fog/mist | Uncertainty and moral confusion. |
+| Symbol        | Meaning                                           |
+| ------------- | ------------------------------------------------- |
+| Sea           | Chance, danger, and the arrival of moral testing. |
+| Wound         | Human vulnerability beyond nationality.           |
+| Sadao's house | Space of conflict between safety and conscience.  |
+| Boat          | Escape, mercy, and final moral decision.          |
+| Fog/mist      | Uncertainty and moral confusion.                  |
 
 ## 18. Common Mistakes and Corrections
 
-| Mistake | Correction |
-| --- | --- |
-| Saying Sadao is unpatriotic | He is patriotic, but his medical duty is stronger in this situation. |
-| Calling Hana weak | Hana is frightened but morally strong. |
-| Treating the General as compassionate | He is mainly self-interested. |
-| Saying the servants are villains | They represent ordinary fear and wartime prejudice. |
-| Ignoring the title's irony | "Enemy" refers not only to the soldier but also to hatred and prejudice. |
+| Mistake                               | Correction                                                               |
+| ------------------------------------- | ------------------------------------------------------------------------ |
+| Saying Sadao is unpatriotic           | He is patriotic, but his medical duty is stronger in this situation.     |
+| Calling Hana weak                     | Hana is frightened but morally strong.                                   |
+| Treating the General as compassionate | He is mainly self-interested.                                            |
+| Saying the servants are villains      | They represent ordinary fear and wartime prejudice.                      |
+| Ignoring the title's irony            | "Enemy" refers not only to the soldier but also to hatred and prejudice. |
 
 ## 19. Exam Answer Frame
 
@@ -263,18 +263,18 @@ Introduce the wartime situation
 
 ## 21. Quick Revision Sheet
 
-| Point | Recall |
-| --- | --- |
-| Setting | Wartime Japan. |
-| Main conflict | Doctor's duty vs national loyalty. |
-| Central character | Dr Sadao Hoki. |
-| Wife | Hana. |
-| Prisoner | Wounded American soldier. |
-| Main theme | Humanity above hatred. |
-| General | Self-centred authority figure. |
-| Servants | Social pressure and prejudice. |
-| Ending | Sadao helps prisoner escape. |
-| Tone | Tense, moral, reflective. |
+| Point             | Recall                             |
+| ----------------- | ---------------------------------- |
+| Setting           | Wartime Japan.                     |
+| Main conflict     | Doctor's duty vs national loyalty. |
+| Central character | Dr Sadao Hoki.                     |
+| Wife              | Hana.                              |
+| Prisoner          | Wounded American soldier.          |
+| Main theme        | Humanity above hatred.             |
+| General           | Self-centred authority figure.     |
+| Servants          | Social pressure and prejudice.     |
+| Ending            | Sadao helps prisoner escape.       |
+| Tone              | Tense, moral, reflective.          |
 
 ## 22. Final Learning Takeaway
 

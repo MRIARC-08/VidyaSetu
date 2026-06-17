@@ -2,13 +2,13 @@
 
 ## Chapter Identity
 
-| Item | Details |
-| --- | --- |
-| Class | 12 |
-| Subject | Accountancy Part 1 |
-| Chapter | Dissolution of Partnership Firm |
-| Core Skill | Closing the books of a dissolved firm through Realisation Account, Partners' Capital Accounts, and Bank/Cash Account |
-| Main Idea | Dissolution ends the firm, so all assets are realised, liabilities are paid, partners' accounts are settled, and the books are closed. |
+| Item       | Details                                                                                                                                |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Class      | 12                                                                                                                                     |
+| Subject    | Accountancy Part 1                                                                                                                     |
+| Chapter    | Dissolution of Partnership Firm                                                                                                        |
+| Core Skill | Closing the books of a dissolved firm through Realisation Account, Partners' Capital Accounts, and Bank/Cash Account                   |
+| Main Idea  | Dissolution ends the firm, so all assets are realised, liabilities are paid, partners' accounts are settled, and the books are closed. |
 
 ## 1. Big Picture
 
@@ -26,13 +26,13 @@ After selling assets and paying liabilities, how much is payable to each partner
 
 These two terms are related but not the same.
 
-| Basis | Dissolution of Partnership | Dissolution of Firm |
-| --- | --- | --- |
-| Meaning | Existing agreement among partners ends. | The firm itself closes down. |
-| Business | Business may continue. | Business stops. |
-| Books of account | Books need not be closed. | Books are closed. |
-| Examples | Admission, retirement, death, change in ratio. | Complete closure of the firm. |
-| Relationship | Relationship changes among some partners. | Relationship ends among all partners. |
+| Basis            | Dissolution of Partnership                     | Dissolution of Firm                   |
+| ---------------- | ---------------------------------------------- | ------------------------------------- |
+| Meaning          | Existing agreement among partners ends.        | The firm itself closes down.          |
+| Business         | Business may continue.                         | Business stops.                       |
+| Books of account | Books need not be closed.                      | Books are closed.                     |
+| Examples         | Admission, retirement, death, change in ratio. | Complete closure of the firm.         |
+| Relationship     | Relationship changes among some partners.      | Relationship ends among all partners. |
 
 Important rule:
 
@@ -44,13 +44,13 @@ Dissolution of firm always involves dissolution of partnership, but dissolution 
 
 A firm may be dissolved in the following ways:
 
-| Mode | Explanation |
-| --- | --- |
-| By agreement | Partners agree to dissolve the firm. |
-| Compulsory dissolution | Firm must dissolve due to legal impossibility, such as all partners or all except one becoming insolvent. |
-| On happening of contingencies | Fixed term expires, venture is completed, a partner dies, or a partner becomes insolvent, subject to agreement. |
-| By notice | In partnership at will, any partner may give written notice of dissolution. |
-| By court | Court may order dissolution on grounds such as insanity, misconduct, persistent breach of agreement, transfer of interest, continuous losses, or just and equitable reasons. |
+| Mode                          | Explanation                                                                                                                                                                  |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| By agreement                  | Partners agree to dissolve the firm.                                                                                                                                         |
+| Compulsory dissolution        | Firm must dissolve due to legal impossibility, such as all partners or all except one becoming insolvent.                                                                    |
+| On happening of contingencies | Fixed term expires, venture is completed, a partner dies, or a partner becomes insolvent, subject to agreement.                                                              |
+| By notice                     | In partnership at will, any partner may give written notice of dissolution.                                                                                                  |
+| By court                      | Court may order dissolution on grounds such as insanity, misconduct, persistent breach of agreement, transfer of interest, continuous losses, or just and equitable reasons. |
 
 ## 4. Settlement of Accounts
 
@@ -77,12 +77,12 @@ Losses, including capital deficiencies, are paid:
 
 The main accounts are:
 
-| Account | Purpose |
-| --- | --- |
-| Realisation Account | Finds profit or loss on sale of assets and settlement of liabilities. |
-| Partners' Capital Accounts | Settles partner capital balances after all adjustments. |
-| Partners' Loan Accounts | Settles loans given by partners to the firm. |
-| Bank/Cash Account | Records all actual receipts and payments. |
+| Account                    | Purpose                                                               |
+| -------------------------- | --------------------------------------------------------------------- |
+| Realisation Account        | Finds profit or loss on sale of assets and settlement of liabilities. |
+| Partners' Capital Accounts | Settles partner capital balances after all adjustments.               |
+| Partners' Loan Accounts    | Settles loans given by partners to the firm.                          |
+| Bank/Cash Account          | Records all actual receipts and payments.                             |
 
 ## 6. Realisation Account
 
@@ -96,24 +96,24 @@ It is a temporary account. It is opened only to close the books of the dissolved
 
 ### What Goes to Realisation Account
 
-| Debit Side | Credit Side |
-| --- | --- |
+| Debit Side                                                               | Credit Side                                                             |
+| ------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
 | Assets transferred at book value, except cash/bank and fictitious assets | Liabilities transferred at book value, except partner loans and capital |
-| Payment of liabilities | Cash received from sale of assets |
-| Realisation expenses | Assets taken over by partners |
-| Liability taken over by partner, if recorded as settlement | Profit transferred to partners |
-| Loss transferred to partners, if credit side exceeds debit side |  |
+| Payment of liabilities                                                   | Cash received from sale of assets                                       |
+| Realisation expenses                                                     | Assets taken over by partners                                           |
+| Liability taken over by partner, if recorded as settlement               | Profit transferred to partners                                          |
+| Loss transferred to partners, if credit side exceeds debit side          |                                                                         |
 
 ## 7. Items Not Transferred to Realisation Account
 
-| Item | Treatment |
-| --- | --- |
-| Cash or bank balance | Stays in Cash/Bank Account. |
-| Fictitious assets | Transferred to Partners' Capital Accounts in profit sharing ratio. |
-| Debit balance of Profit and Loss Account | Transferred to Partners' Capital Accounts. |
-| Partner loan | Paid separately through Bank Account. |
-| Partners' capital accounts | Settled separately. |
-| Reserves and accumulated profits | Transferred to Partners' Capital Accounts. |
+| Item                                     | Treatment                                                          |
+| ---------------------------------------- | ------------------------------------------------------------------ |
+| Cash or bank balance                     | Stays in Cash/Bank Account.                                        |
+| Fictitious assets                        | Transferred to Partners' Capital Accounts in profit sharing ratio. |
+| Debit balance of Profit and Loss Account | Transferred to Partners' Capital Accounts.                         |
+| Partner loan                             | Paid separately through Bank Account.                              |
+| Partners' capital accounts               | Settled separately.                                                |
+| Reserves and accumulated profits         | Transferred to Partners' Capital Accounts.                         |
 
 ## 8. Journal Entries on Dissolution
 
@@ -406,13 +406,13 @@ Some formats transfer gross asset and provision separately. Follow the method ex
 
 ## 15. Realisation Account Format
 
-| Debit | Amount | Credit | Amount |
-| --- | ---: | --- | ---: |
-| Assets transferred | xxx | Liabilities transferred | xxx |
-| Bank: liabilities paid | xxx | Bank: assets realised | xxx |
-| Bank: expenses paid | xxx | Partner's Capital: asset taken over | xxx |
-| Partner's Capital: liability taken over | xxx |  |  |
-| Partners' Capital: profit | xxx | Partners' Capital: loss | xxx |
+| Debit                                   | Amount | Credit                              | Amount |
+| --------------------------------------- | -----: | ----------------------------------- | -----: |
+| Assets transferred                      |    xxx | Liabilities transferred             |    xxx |
+| Bank: liabilities paid                  |    xxx | Bank: assets realised               |    xxx |
+| Bank: expenses paid                     |    xxx | Partner's Capital: asset taken over |    xxx |
+| Partner's Capital: liability taken over |    xxx |                                     |        |
+| Partners' Capital: profit               |    xxx | Partners' Capital: loss             |    xxx |
 
 Note: profit appears on debit side because it is transferred out of Realisation Account. Loss appears on credit side because it is transferred out after debit side exceeds credit side.
 
@@ -420,13 +420,13 @@ Note: profit appears on debit side because it is transferred out of Realisation 
 
 A and B share profits in 3:2. Their firm is dissolved.
 
-| Item | Amount |
-| --- | ---: |
+| Item               |       Amount |
+| ------------------ | -----------: |
 | Assets except cash | Rs. 1,00,000 |
-| Cash | Rs. 10,000 |
-| Creditors | Rs. 30,000 |
-| A's capital | Rs. 50,000 |
-| B's capital | Rs. 30,000 |
+| Cash               |   Rs. 10,000 |
+| Creditors          |   Rs. 30,000 |
+| A's capital        |   Rs. 50,000 |
+| B's capital        |   Rs. 30,000 |
 
 Assets realised Rs. 90,000. Creditors were paid Rs. 28,000. Realisation expenses were Rs. 2,000.
 
@@ -457,10 +457,10 @@ Loss on realisation:
 
 Loss shared in 3:2:
 
-| Partner | Loss |
-| --- | ---: |
-| A | Rs. 6,000 |
-| B | Rs. 4,000 |
+| Partner |      Loss |
+| ------- | --------: |
+| A       | Rs. 6,000 |
+| B       | Rs. 4,000 |
 
 ### Bank Account Logic
 
@@ -485,9 +485,9 @@ Amount left for partners:
 Capital after loss:
 
 | Partner | Opening Capital | Less Loss | Final Payment |
-| --- | ---: | ---: | ---: |
-| A | Rs. 50,000 | Rs. 6,000 | Rs. 44,000 |
-| B | Rs. 30,000 | Rs. 4,000 | Rs. 26,000 |
+| ------- | --------------: | --------: | ------------: |
+| A       |      Rs. 50,000 | Rs. 6,000 |    Rs. 44,000 |
+| B       |      Rs. 30,000 | Rs. 4,000 |    Rs. 26,000 |
 
 Total paid to partners:
 
@@ -499,16 +499,16 @@ Bank closes correctly.
 
 ## 17. Common Mistakes and Corrections
 
-| Mistake | Correct Thinking |
-| --- | --- |
-| Transferring cash/bank to Realisation Account | Cash/bank remains in Bank Account. |
-| Transferring partner loan to Realisation Account | Partner loan is settled separately. |
-| Forgetting fictitious assets | Transfer them to Partners' Capital Accounts in profit sharing ratio. |
-| Sharing realisation profit/loss in capital ratio | Use profit sharing ratio. |
-| Crediting partner when partner takes asset | Debit the partner because the partner receives value. |
-| Debiting partner when partner takes liability | Credit the partner because the partner accepts an obligation. |
-| Recording creditor-asset settlement twice | If no cash difference exists, no extra entry is needed after transfer entries. |
-| Leaving Bank Account with a balance | Bank Account should close after final settlements. |
+| Mistake                                          | Correct Thinking                                                               |
+| ------------------------------------------------ | ------------------------------------------------------------------------------ |
+| Transferring cash/bank to Realisation Account    | Cash/bank remains in Bank Account.                                             |
+| Transferring partner loan to Realisation Account | Partner loan is settled separately.                                            |
+| Forgetting fictitious assets                     | Transfer them to Partners' Capital Accounts in profit sharing ratio.           |
+| Sharing realisation profit/loss in capital ratio | Use profit sharing ratio.                                                      |
+| Crediting partner when partner takes asset       | Debit the partner because the partner receives value.                          |
+| Debiting partner when partner takes liability    | Credit the partner because the partner accepts an obligation.                  |
+| Recording creditor-asset settlement twice        | If no cash difference exists, no extra entry is needed after transfer entries. |
+| Leaving Bank Account with a balance              | Bank Account should close after final settlements.                             |
 
 ## 18. Exam Answer Frames
 
@@ -550,20 +550,20 @@ Dissolution of partnership means the existing agreement among partners ends, but
 
 ## 20. Quick Revision Sheet
 
-| Item | Account/Entry |
-| --- | --- |
-| Assets transferred | Debit Realisation |
-| Liabilities transferred | Credit Realisation |
-| Asset sold | Debit Bank, credit Realisation |
-| Liability paid | Debit Realisation, credit Bank |
-| Asset taken by partner | Debit Partner's Capital, credit Realisation |
-| Liability taken by partner | Debit Realisation, credit Partner's Capital |
-| Realisation expenses paid | Debit Realisation, credit Bank |
-| Profit on realisation | Debit Realisation, credit Partners' Capital |
-| Loss on realisation | Debit Partners' Capital, credit Realisation |
-| Partner loan paid | Debit Partner's Loan, credit Bank |
-| Final amount paid to partner | Debit Partner's Capital, credit Bank |
-| Deficiency brought by partner | Debit Bank, credit Partner's Capital |
+| Item                          | Account/Entry                               |
+| ----------------------------- | ------------------------------------------- |
+| Assets transferred            | Debit Realisation                           |
+| Liabilities transferred       | Credit Realisation                          |
+| Asset sold                    | Debit Bank, credit Realisation              |
+| Liability paid                | Debit Realisation, credit Bank              |
+| Asset taken by partner        | Debit Partner's Capital, credit Realisation |
+| Liability taken by partner    | Debit Realisation, credit Partner's Capital |
+| Realisation expenses paid     | Debit Realisation, credit Bank              |
+| Profit on realisation         | Debit Realisation, credit Partners' Capital |
+| Loss on realisation           | Debit Partners' Capital, credit Realisation |
+| Partner loan paid             | Debit Partner's Loan, credit Bank           |
+| Final amount paid to partner  | Debit Partner's Capital, credit Bank        |
+| Deficiency brought by partner | Debit Bank, credit Partner's Capital        |
 
 ## 21. Final Learning Takeaway
 

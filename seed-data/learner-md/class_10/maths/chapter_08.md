@@ -1,4 +1,5 @@
 # Chapter 8: Introduction to Trigonometry
+
 ### NCERT Class 10 - Maths
 
 This learner version rewrites the raw chapter into a complete study guide. It corrects broken mathematical extraction, rebuilds the formulas clearly, and gives detailed solutions for the exercises so that the chapter can be studied independently.
@@ -7,28 +8,28 @@ This learner version rewrites the raw chapter into a complete study guide. It co
 
 ## Chapter at a Glance
 
-| Item | Details |
-|---|---|
-| Class | 10 |
-| Subject | Maths |
-| Chapter | 8 |
-| Chapter name | Introduction to Trigonometry |
-| Main object of study | Right triangles |
-| Main idea | Ratios of sides of a right triangle depend on the acute angle, not on the size of the triangle |
-| Core topics | Trigonometric ratios, standard angle values, identities |
-| Main formulas | Definitions of sin, cos, tan, cosec, sec, cot; standard values; three identities |
+| Item                 | Details                                                                                        |
+| -------------------- | ---------------------------------------------------------------------------------------------- |
+| Class                | 10                                                                                             |
+| Subject              | Maths                                                                                          |
+| Chapter              | 8                                                                                              |
+| Chapter name         | Introduction to Trigonometry                                                                   |
+| Main object of study | Right triangles                                                                                |
+| Main idea            | Ratios of sides of a right triangle depend on the acute angle, not on the size of the triangle |
+| Core topics          | Trigonometric ratios, standard angle values, identities                                        |
+| Main formulas        | Definitions of sin, cos, tan, cosec, sec, cot; standard values; three identities               |
 
 ---
 
 ## Section Structure
 
-| Section | Focus | What the learner should master |
-|---|---|---|
-| 8.1 | Introduction | Understand where trigonometry is used |
-| 8.2 | Trigonometric Ratios | Define six ratios in a right triangle |
-| 8.3 | Ratios of Specific Angles | Learn values for `0`, `30`, `45`, `60`, and `90` degrees |
-| 8.4 | Trigonometric Identities | Prove and use basic identities |
-| 8.5 | Summary | Revise formulas and apply them quickly |
+| Section | Focus                     | What the learner should master                           |
+| ------- | ------------------------- | -------------------------------------------------------- |
+| 8.1     | Introduction              | Understand where trigonometry is used                    |
+| 8.2     | Trigonometric Ratios      | Define six ratios in a right triangle                    |
+| 8.3     | Ratios of Specific Angles | Learn values for `0`, `30`, `45`, `60`, and `90` degrees |
+| 8.4     | Trigonometric Identities  | Prove and use basic identities                           |
+| 8.5     | Summary                   | Revise formulas and apply them quickly                   |
 
 ---
 
@@ -51,17 +52,17 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Trigonometry | Study of relationships between sides and angles of triangles |
-| Right triangle | A triangle with one angle equal to `90` degrees |
-| Hypotenuse | The side opposite the right angle; the longest side |
-| Opposite side | The side facing the angle being considered |
-| Adjacent side | The non-hypotenuse side touching the angle being considered |
+| Term                | Meaning                                                               |
+| ------------------- | --------------------------------------------------------------------- |
+| Trigonometry        | Study of relationships between sides and angles of triangles          |
+| Right triangle      | A triangle with one angle equal to `90` degrees                       |
+| Hypotenuse          | The side opposite the right angle; the longest side                   |
+| Opposite side       | The side facing the angle being considered                            |
+| Adjacent side       | The non-hypotenuse side touching the angle being considered           |
 | Trigonometric ratio | Ratio of two sides of a right triangle with respect to an acute angle |
-| Reciprocal ratio | A ratio obtained by taking the reciprocal of another ratio |
-| Identity | An equation true for all allowed values of the variable |
-| Acute angle | An angle greater than `0` degrees and less than `90` degrees |
+| Reciprocal ratio    | A ratio obtained by taking the reciprocal of another ratio            |
+| Identity            | An equation true for all allowed values of the variable               |
+| Acute angle         | An angle greater than `0` degrees and less than `90` degrees          |
 
 ---
 
@@ -78,10 +79,10 @@ Examples:
 
 The word trigonometry comes from Greek roots:
 
-| Root | Meaning |
-|---|---|
-| `tri` | three |
-| `gon` | sides |
+| Root     | Meaning |
+| -------- | ------- |
+| `tri`    | three   |
+| `gon`    | sides   |
 | `metron` | measure |
 
 So, trigonometry is connected with measuring triangles.
@@ -176,11 +177,11 @@ $$
 
 ## Reciprocal Relationships
 
-| Ratio | Reciprocal |
-|---|---|
-| `sin A` | `cosec A` |
-| `cos A` | `sec A` |
-| `tan A` | `cot A` |
+| Ratio   | Reciprocal |
+| ------- | ---------- |
+| `sin A` | `cosec A`  |
+| `cos A` | `sec A`    |
+| `tan A` | `cot A`    |
 
 So:
 
@@ -1169,14 +1170,14 @@ So this is not possible.
 
 ## Values Table
 
-| Ratio | `0^\circ` | `30^\circ` | `45^\circ` | `60^\circ` | `90^\circ` |
-|---|---:|---:|---:|---:|---:|
-| `sin A` | `0` | `1/2` | `1/sqrt(2)` | `sqrt(3)/2` | `1` |
-| `cos A` | `1` | `sqrt(3)/2` | `1/sqrt(2)` | `1/2` | `0` |
-| `tan A` | `0` | `1/sqrt(3)` | `1` | `sqrt(3)` | not defined |
-| `cosec A` | not defined | `2` | `sqrt(2)` | `2/sqrt(3)` | `1` |
-| `sec A` | `1` | `2/sqrt(3)` | `sqrt(2)` | `2` | not defined |
-| `cot A` | not defined | `sqrt(3)` | `1` | `1/sqrt(3)` | `0` |
+| Ratio     |   `0^\circ` |  `30^\circ` |  `45^\circ` |  `60^\circ` |  `90^\circ` |
+| --------- | ----------: | ----------: | ----------: | ----------: | ----------: |
+| `sin A`   |         `0` |       `1/2` | `1/sqrt(2)` | `sqrt(3)/2` |         `1` |
+| `cos A`   |         `1` | `sqrt(3)/2` | `1/sqrt(2)` |       `1/2` |         `0` |
+| `tan A`   |         `0` | `1/sqrt(3)` |         `1` |   `sqrt(3)` | not defined |
+| `cosec A` | not defined |         `2` |   `sqrt(2)` | `2/sqrt(3)` |         `1` |
+| `sec A`   |         `1` | `2/sqrt(3)` |   `sqrt(2)` |         `2` | not defined |
+| `cot A`   | not defined |   `sqrt(3)` |         `1` | `1/sqrt(3)` |         `0` |
 
 ## How to Remember the Sine Row
 
@@ -3401,17 +3402,17 @@ $$
 
 # Unit 8P: Common Mistakes and Corrections
 
-| Mistake | Why it is wrong | Correct approach |
-|---|---|---|
-| Thinking opposite side is fixed | Opposite depends on selected angle | Identify the angle first |
-| Calling hypotenuse adjacent | Hypotenuse is never adjacent in trig ratios | Hypotenuse is always opposite the right angle |
-| Writing `sin A = adjacent/hypotenuse` | That is cosine | Sine is opposite over hypotenuse |
-| Forgetting reciprocal ratios | Leads to wrong sec/cosec/cot values | Use reciprocal pairs |
-| Using `sin^{-1} A` as cosec | Inverse sine is different | `cosec A = 1/sin A` |
-| Dividing by zero | Some ratios are undefined | Check denominator before using a ratio |
-| Assuming `sin(A+B)=sin A+sin B` | This is not a Class 10 identity | Use standard values or later identities |
-| Dropping square roots | Changes values like `tan 30` | Keep radicals carefully |
-| Confusing `tan^2 A` with `tan 2A` | These are different expressions | `tan^2 A = (tan A)^2` |
+| Mistake                               | Why it is wrong                             | Correct approach                              |
+| ------------------------------------- | ------------------------------------------- | --------------------------------------------- |
+| Thinking opposite side is fixed       | Opposite depends on selected angle          | Identify the angle first                      |
+| Calling hypotenuse adjacent           | Hypotenuse is never adjacent in trig ratios | Hypotenuse is always opposite the right angle |
+| Writing `sin A = adjacent/hypotenuse` | That is cosine                              | Sine is opposite over hypotenuse              |
+| Forgetting reciprocal ratios          | Leads to wrong sec/cosec/cot values         | Use reciprocal pairs                          |
+| Using `sin^{-1} A` as cosec           | Inverse sine is different                   | `cosec A = 1/sin A`                           |
+| Dividing by zero                      | Some ratios are undefined                   | Check denominator before using a ratio        |
+| Assuming `sin(A+B)=sin A+sin B`       | This is not a Class 10 identity             | Use standard values or later identities       |
+| Dropping square roots                 | Changes values like `tan 30`                | Keep radicals carefully                       |
+| Confusing `tan^2 A` with `tan 2A`     | These are different expressions             | `tan^2 A = (tan A)^2`                         |
 
 ---
 

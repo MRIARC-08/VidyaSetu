@@ -2,13 +2,13 @@
 
 ## Chapter Identity
 
-| Item | Details |
-| --- | --- |
-| Class | 12 |
-| Subject | Accountancy Part 1 |
-| Chapter | Accounting for Not-for-Profit Organisations |
-| Core Skill | Preparing Receipts and Payments Account, Income and Expenditure Account, and Balance Sheet |
-| Main Idea | Service organisations still need systematic accounting, even though earning profit is not their main objective. |
+| Item       | Details                                                                                                         |
+| ---------- | --------------------------------------------------------------------------------------------------------------- |
+| Class      | 12                                                                                                              |
+| Subject    | Accountancy Part 1                                                                                              |
+| Chapter    | Accounting for Not-for-Profit Organisations                                                                     |
+| Core Skill | Preparing Receipts and Payments Account, Income and Expenditure Account, and Balance Sheet                      |
+| Main Idea  | Service organisations still need systematic accounting, even though earning profit is not their main objective. |
 
 ## 1. Big Picture
 
@@ -18,11 +18,11 @@ These organisations may not sell goods like a business concern, but they still r
 
 The chapter teaches how to convert cash-based records into final accounts that show:
 
-| Question | Statement That Answers It |
-| --- | --- |
-| How much cash came in and went out? | Receipts and Payments Account |
+| Question                                                              | Statement That Answers It      |
+| --------------------------------------------------------------------- | ------------------------------ |
+| How much cash came in and went out?                                   | Receipts and Payments Account  |
 | Did the organisation earn a surplus or suffer a deficit for the year? | Income and Expenditure Account |
-| What is the financial position at year-end? | Balance Sheet |
+| What is the financial position at year-end?                           | Balance Sheet                  |
 
 The major challenge in this chapter is not memorising formats. The real skill is adjustment: deciding whether an item belongs to the current year, whether it is capital or revenue, and whether it affects cash, income, expense, asset, liability, or fund.
 
@@ -34,14 +34,14 @@ A not-for-profit organisation is an entity whose main objective is to provide se
 
 ### Common Features
 
-| Feature | Explanation |
-| --- | --- |
-| Service objective | The organisation works for education, welfare, recreation, charity, health, culture, sports, or similar purposes. |
-| No profit distribution | Any surplus is kept in the organisation and used for its objectives. It is not distributed like business profit. |
-| Managed by trustees or committee | A managing committee, trustees, or elected members control the funds and activities. |
-| Separate records are needed | Even without profit motive, accountability is necessary because funds belong to members, donors, or the public purpose. |
-| Capital fund instead of capital account | There is no owner capital account. The accumulated fund is usually called Capital Fund or General Fund. |
-| Main incomes are recurring and non-recurring | Subscriptions, donations, grants, entrance fees, interest, and proceeds from activities are common sources. |
+| Feature                                      | Explanation                                                                                                             |
+| -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Service objective                            | The organisation works for education, welfare, recreation, charity, health, culture, sports, or similar purposes.       |
+| No profit distribution                       | Any surplus is kept in the organisation and used for its objectives. It is not distributed like business profit.        |
+| Managed by trustees or committee             | A managing committee, trustees, or elected members control the funds and activities.                                    |
+| Separate records are needed                  | Even without profit motive, accountability is necessary because funds belong to members, donors, or the public purpose. |
+| Capital fund instead of capital account      | There is no owner capital account. The accumulated fund is usually called Capital Fund or General Fund.                 |
+| Main incomes are recurring and non-recurring | Subscriptions, donations, grants, entrance fees, interest, and proceeds from activities are common sources.             |
 
 ## 3. Why Accounting Is Needed
 
@@ -57,19 +57,19 @@ Learner shortcut: even when there is no profit motive, there is still accountabi
 
 ## 4. Important Accounting Terms
 
-| Term | Meaning | Exam Use |
-| --- | --- | --- |
-| Subscription | Periodic amount paid by members, usually annually. | Treated as revenue income for the year to which it relates. |
-| Donation | Gift received in cash or kind. | Treatment depends on whether it is general or specific. |
-| Legacy | Amount received through a will. | Usually capitalised unless it is small and recurring. |
-| Entrance fee | Amount paid by a new member at admission. | Treatment depends on instructions; may be capitalised or treated as income. |
-| Life membership fee | One-time fee for lifetime membership. | Usually capital receipt; shown as a liability/fund and transferred gradually if required. |
-| Capital fund | Accumulated fund of the organisation. | Similar to owner capital in a business balance sheet. |
-| Specific fund | Fund created for a particular purpose. | Shown as liability until used for that purpose. |
-| Surplus | Excess of income over expenditure. | Added to capital fund. |
-| Deficit | Excess of expenditure over income. | Deducted from capital fund. |
-| Receipts and Payments Account | Summary of cash and bank transactions. | Includes capital and revenue items, whether current-year or not. |
-| Income and Expenditure Account | Nominal account showing current-year income and expenses. | Prepared on accrual basis. |
+| Term                           | Meaning                                                   | Exam Use                                                                                  |
+| ------------------------------ | --------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| Subscription                   | Periodic amount paid by members, usually annually.        | Treated as revenue income for the year to which it relates.                               |
+| Donation                       | Gift received in cash or kind.                            | Treatment depends on whether it is general or specific.                                   |
+| Legacy                         | Amount received through a will.                           | Usually capitalised unless it is small and recurring.                                     |
+| Entrance fee                   | Amount paid by a new member at admission.                 | Treatment depends on instructions; may be capitalised or treated as income.               |
+| Life membership fee            | One-time fee for lifetime membership.                     | Usually capital receipt; shown as a liability/fund and transferred gradually if required. |
+| Capital fund                   | Accumulated fund of the organisation.                     | Similar to owner capital in a business balance sheet.                                     |
+| Specific fund                  | Fund created for a particular purpose.                    | Shown as liability until used for that purpose.                                           |
+| Surplus                        | Excess of income over expenditure.                        | Added to capital fund.                                                                    |
+| Deficit                        | Excess of expenditure over income.                        | Deducted from capital fund.                                                               |
+| Receipts and Payments Account  | Summary of cash and bank transactions.                    | Includes capital and revenue items, whether current-year or not.                          |
+| Income and Expenditure Account | Nominal account showing current-year income and expenses. | Prepared on accrual basis.                                                                |
 
 ## 5. Receipts and Payments Account
 
@@ -79,28 +79,28 @@ Receipts and Payments Account is a summarised cash book. It records all cash and
 
 ### Key Characteristics
 
-| Point | Explanation |
-| --- | --- |
-| Nature | Real account because it records cash and bank. |
-| Basis | Cash basis. Only actual receipts and actual payments are recorded. |
-| Opening balance | Usually cash in hand and cash at bank. If bank overdraft exists, it appears on the payments/credit side as opening overdraft. |
-| Closing balance | Cash and bank balance at the end. If payments exceed receipts, bank overdraft may appear on the receipts/debit side as closing overdraft. |
-| Capital and revenue distinction | Not made. Both are recorded. |
-| Current-year distinction | Not made. Past, current, and future year amounts are all recorded if cash is received or paid during the year. |
-| Non-cash items | Not recorded. Depreciation, accrued income, outstanding expenses, and provisions are excluded. |
+| Point                           | Explanation                                                                                                                               |
+| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Nature                          | Real account because it records cash and bank.                                                                                            |
+| Basis                           | Cash basis. Only actual receipts and actual payments are recorded.                                                                        |
+| Opening balance                 | Usually cash in hand and cash at bank. If bank overdraft exists, it appears on the payments/credit side as opening overdraft.             |
+| Closing balance                 | Cash and bank balance at the end. If payments exceed receipts, bank overdraft may appear on the receipts/debit side as closing overdraft. |
+| Capital and revenue distinction | Not made. Both are recorded.                                                                                                              |
+| Current-year distinction        | Not made. Past, current, and future year amounts are all recorded if cash is received or paid during the year.                            |
+| Non-cash items                  | Not recorded. Depreciation, accrued income, outstanding expenses, and provisions are excluded.                                            |
 
 ### Format
 
-| Receipts | Amount | Payments | Amount |
-| --- | ---: | --- | ---: |
-| Balance b/d: Cash | xxx | Bank overdraft b/d | xxx |
-| Balance b/d: Bank | xxx | Salaries | xxx |
-| Subscriptions received | xxx | Rent paid | xxx |
-| Donations received | xxx | Purchase of furniture | xxx |
-| Sale of old asset | xxx | Sports material purchased | xxx |
-| Interest received | xxx | Investments purchased | xxx |
-| Bank overdraft c/d | xxx | Balance c/d: Cash | xxx |
-|  |  | Balance c/d: Bank | xxx |
+| Receipts               | Amount | Payments                  | Amount |
+| ---------------------- | -----: | ------------------------- | -----: |
+| Balance b/d: Cash      |    xxx | Bank overdraft b/d        |    xxx |
+| Balance b/d: Bank      |    xxx | Salaries                  |    xxx |
+| Subscriptions received |    xxx | Rent paid                 |    xxx |
+| Donations received     |    xxx | Purchase of furniture     |    xxx |
+| Sale of old asset      |    xxx | Sports material purchased |    xxx |
+| Interest received      |    xxx | Investments purchased     |    xxx |
+| Bank overdraft c/d     |    xxx | Balance c/d: Cash         |    xxx |
+|                        |        | Balance c/d: Bank         |    xxx |
 
 ### How to Prepare It
 
@@ -124,25 +124,25 @@ It is similar to a Profit and Loss Account, but it uses the terms surplus and de
 
 ### Key Characteristics
 
-| Point | Explanation |
-| --- | --- |
-| Nature | Nominal account. |
-| Basis | Accrual basis. |
-| Records | Only revenue incomes and revenue expenses of the current year. |
-| Excludes | Capital receipts, capital payments, and items not related to the current year. |
+| Point                   | Explanation                                                                                        |
+| ----------------------- | -------------------------------------------------------------------------------------------------- |
+| Nature                  | Nominal account.                                                                                   |
+| Basis                   | Accrual basis.                                                                                     |
+| Records                 | Only revenue incomes and revenue expenses of the current year.                                     |
+| Excludes                | Capital receipts, capital payments, and items not related to the current year.                     |
 | Includes non-cash items | Depreciation, outstanding expenses, accrued income, prepaid expenses, and provisions are adjusted. |
-| Result | Surplus or deficit. |
+| Result                  | Surplus or deficit.                                                                                |
 
 ### Format
 
-| Expenditure | Amount | Income | Amount |
-| --- | ---: | --- | ---: |
-| Salaries | xxx | Subscriptions | xxx |
-| Rent | xxx | General donations | xxx |
-| Depreciation | xxx | Interest on investments | xxx |
-| Printing and stationery consumed | xxx | Entrance fee, if treated as revenue | xxx |
-| Repairs | xxx | Profit from activity | xxx |
-| Deficit transferred to Capital Fund | xxx | Surplus transferred to Capital Fund | xxx |
+| Expenditure                         | Amount | Income                              | Amount |
+| ----------------------------------- | -----: | ----------------------------------- | -----: |
+| Salaries                            |    xxx | Subscriptions                       |    xxx |
+| Rent                                |    xxx | General donations                   |    xxx |
+| Depreciation                        |    xxx | Interest on investments             |    xxx |
+| Printing and stationery consumed    |    xxx | Entrance fee, if treated as revenue |    xxx |
+| Repairs                             |    xxx | Profit from activity                |    xxx |
+| Deficit transferred to Capital Fund |    xxx | Surplus transferred to Capital Fund |    xxx |
 
 ### How to Prepare It from Receipts and Payments Account
 
@@ -156,17 +156,17 @@ It is similar to a Profit and Loss Account, but it uses the terms surplus and de
 
 ## 7. Difference Between Receipts and Payments Account and Income and Expenditure Account
 
-| Basis | Receipts and Payments Account | Income and Expenditure Account |
-| --- | --- | --- |
-| Nature | Real account | Nominal account |
-| Basis | Cash basis | Accrual basis |
-| Opening balance | Has opening cash/bank balance | Has no opening balance |
-| Closing result | Shows closing cash/bank balance or overdraft | Shows surplus or deficit |
-| Capital items | Included | Excluded |
-| Revenue items | Included if cash is received or paid | Included only if related to current year |
-| Past/future year items | Included if paid or received during the year | Excluded |
-| Non-cash items | Excluded | Included |
-| Purpose | Shows cash movement | Shows operating result |
+| Basis                  | Receipts and Payments Account                | Income and Expenditure Account           |
+| ---------------------- | -------------------------------------------- | ---------------------------------------- |
+| Nature                 | Real account                                 | Nominal account                          |
+| Basis                  | Cash basis                                   | Accrual basis                            |
+| Opening balance        | Has opening cash/bank balance                | Has no opening balance                   |
+| Closing result         | Shows closing cash/bank balance or overdraft | Shows surplus or deficit                 |
+| Capital items          | Included                                     | Excluded                                 |
+| Revenue items          | Included if cash is received or paid         | Included only if related to current year |
+| Past/future year items | Included if paid or received during the year | Excluded                                 |
+| Non-cash items         | Excluded                                     | Included                                 |
+| Purpose                | Shows cash movement                          | Shows operating result                   |
 
 ## 8. Balance Sheet
 
@@ -176,16 +176,16 @@ The Balance Sheet shows the financial position of the organisation on the last d
 
 ### Format
 
-| Liabilities | Amount | Assets | Amount |
-| --- | ---: | --- | ---: |
-| Capital Fund opening balance | xxx | Cash in hand | xxx |
-| Add: Surplus | xxx | Cash at bank | xxx |
-| Less: Deficit | xxx | Outstanding subscriptions | xxx |
-| Specific funds | xxx | Accrued income | xxx |
-| Outstanding expenses | xxx | Prepaid expenses | xxx |
-| Subscriptions received in advance | xxx | Furniture | xxx |
-| Creditors | xxx | Building | xxx |
-|  |  | Investments | xxx |
+| Liabilities                       | Amount | Assets                    | Amount |
+| --------------------------------- | -----: | ------------------------- | -----: |
+| Capital Fund opening balance      |    xxx | Cash in hand              |    xxx |
+| Add: Surplus                      |    xxx | Cash at bank              |    xxx |
+| Less: Deficit                     |    xxx | Outstanding subscriptions |    xxx |
+| Specific funds                    |    xxx | Accrued income            |    xxx |
+| Outstanding expenses              |    xxx | Prepaid expenses          |    xxx |
+| Subscriptions received in advance |    xxx | Furniture                 |    xxx |
+| Creditors                         |    xxx | Building                  |    xxx |
+|                                   |        | Investments               |    xxx |
 
 ### Capital Fund
 
@@ -220,19 +220,19 @@ Subscription for current year
 
 ### Why This Works
 
-| Adjustment | Reason |
-| --- | --- |
-| Add outstanding at end | Earned this year but not yet received. |
-| Add advance at beginning | Received last year but belongs to this year. |
+| Adjustment                    | Reason                                        |
+| ----------------------------- | --------------------------------------------- |
+| Add outstanding at end        | Earned this year but not yet received.        |
+| Add advance at beginning      | Received last year but belongs to this year.  |
 | Less outstanding at beginning | Received this year but belonged to last year. |
-| Less advance at end | Received this year but belongs to next year. |
+| Less advance at end           | Received this year but belongs to next year.  |
 
 ### Balance Sheet Treatment
 
-| Item | Balance Sheet Side |
-| --- | --- |
-| Outstanding subscription at end | Asset |
-| Subscription received in advance at end | Liability |
+| Item                                    | Balance Sheet Side |
+| --------------------------------------- | ------------------ |
+| Outstanding subscription at end         | Asset              |
+| Subscription received in advance at end | Liability          |
 
 ## 10. Adjustment of Expenses
 
@@ -251,19 +251,19 @@ Expense for current year
 
 ### Balance Sheet Treatment
 
-| Item | Balance Sheet Side |
-| --- | --- |
-| Outstanding expense at end | Liability |
-| Prepaid expense at end | Asset |
+| Item                       | Balance Sheet Side |
+| -------------------------- | ------------------ |
+| Outstanding expense at end | Liability          |
+| Prepaid expense at end     | Asset              |
 
 ## 11. Treatment of Special Items
 
 ### Donations
 
-| Type | Meaning | Treatment |
-| --- | --- | --- |
-| General donation | Donation without specific purpose | Usually income in Income and Expenditure Account |
-| Specific donation | Donation for a named purpose such as building, prize, library, or tournament | Capitalised and shown as liability/fund |
+| Type              | Meaning                                                                      | Treatment                                        |
+| ----------------- | ---------------------------------------------------------------------------- | ------------------------------------------------ |
+| General donation  | Donation without specific purpose                                            | Usually income in Income and Expenditure Account |
+| Specific donation | Donation for a named purpose such as building, prize, library, or tournament | Capitalised and shown as liability/fund          |
 
 ### Legacy
 
@@ -273,12 +273,12 @@ Legacy means amount received through a will. Since it is usually non-recurring, 
 
 Entrance fee is paid by new members. Its treatment depends on the question:
 
-| Instruction | Treatment |
-| --- | --- |
-| Treat as revenue | Credit to Income and Expenditure Account |
-| Treat as capital | Add to Capital Fund |
-| Capitalise a percentage | Capitalise that percentage and treat the remaining part as revenue |
-| No instruction | Follow the policy used in the question or the common convention expected by the examiner |
+| Instruction             | Treatment                                                                                |
+| ----------------------- | ---------------------------------------------------------------------------------------- |
+| Treat as revenue        | Credit to Income and Expenditure Account                                                 |
+| Treat as capital        | Add to Capital Fund                                                                      |
+| Capitalise a percentage | Capitalise that percentage and treat the remaining part as revenue                       |
+| No instruction          | Follow the policy used in the question or the common convention expected by the examiner |
 
 ### Life Membership Fee
 
@@ -332,13 +332,13 @@ Use only cash and bank information. Do not adjust for outstanding, prepaid, accr
 
 Mark each item as:
 
-| Mark | Meaning |
-| --- | --- |
-| Revenue income | Goes to Income and Expenditure Account income side |
-| Revenue expense | Goes to Income and Expenditure Account expenditure side |
-| Capital receipt | Goes to Balance Sheet or Capital Fund |
-| Capital payment | Becomes asset or reduces liability |
-| Adjustment | Affects Income and Expenditure Account and Balance Sheet |
+| Mark            | Meaning                                                  |
+| --------------- | -------------------------------------------------------- |
+| Revenue income  | Goes to Income and Expenditure Account income side       |
+| Revenue expense | Goes to Income and Expenditure Account expenditure side  |
+| Capital receipt | Goes to Balance Sheet or Capital Fund                    |
+| Capital payment | Becomes asset or reduces liability                       |
+| Adjustment      | Affects Income and Expenditure Account and Balance Sheet |
 
 ### Step 3: Prepare Income and Expenditure Account
 
@@ -354,12 +354,12 @@ During the year, subscription received was Rs. 1,20,000.
 
 Additional information:
 
-| Item | Amount |
-| --- | ---: |
-| Outstanding subscription at beginning | Rs. 8,000 |
-| Outstanding subscription at end | Rs. 12,000 |
-| Subscription received in advance at beginning | Rs. 5,000 |
-| Subscription received in advance at end | Rs. 7,000 |
+| Item                                          |     Amount |
+| --------------------------------------------- | ---------: |
+| Outstanding subscription at beginning         |  Rs. 8,000 |
+| Outstanding subscription at end               | Rs. 12,000 |
+| Subscription received in advance at beginning |  Rs. 5,000 |
+| Subscription received in advance at end       |  Rs. 7,000 |
 
 Calculation:
 
@@ -371,11 +371,11 @@ Subscription for current year
 
 Treatment:
 
-| Statement | Amount |
-| --- | ---: |
-| Income and Expenditure Account income side | Rs. 1,22,000 |
-| Balance Sheet asset: outstanding subscription | Rs. 12,000 |
-| Balance Sheet liability: subscription received in advance | Rs. 7,000 |
+| Statement                                                 |       Amount |
+| --------------------------------------------------------- | -----------: |
+| Income and Expenditure Account income side                | Rs. 1,22,000 |
+| Balance Sheet asset: outstanding subscription             |   Rs. 12,000 |
+| Balance Sheet liability: subscription received in advance |    Rs. 7,000 |
 
 ## 15. Mini Worked Example: Expenses
 
@@ -383,12 +383,12 @@ Rent paid during the year was Rs. 48,000.
 
 Additional information:
 
-| Item | Amount |
-| --- | ---: |
+| Item                          |    Amount |
+| ----------------------------- | --------: |
 | Outstanding rent at beginning | Rs. 3,000 |
-| Outstanding rent at end | Rs. 5,000 |
-| Prepaid rent at beginning | Rs. 2,000 |
-| Prepaid rent at end | Rs. 4,000 |
+| Outstanding rent at end       | Rs. 5,000 |
+| Prepaid rent at beginning     | Rs. 2,000 |
+| Prepaid rent at end           | Rs. 4,000 |
 
 Calculation:
 
@@ -416,24 +416,24 @@ To prepare final accounts of a not-for-profit organisation, first prepare or ana
 
 ## 17. High-Yield Distinctions
 
-| Pair | Difference |
-| --- | --- |
-| Surplus vs Profit | Surplus belongs to a service organisation and is used for its objectives; profit belongs to a business and may be distributed to owners. |
-| Capital Fund vs Capital Account | Capital Fund is accumulated organisational fund; Capital Account belongs to an owner or partner. |
-| Specific donation vs General donation | Specific donation is used only for a named purpose; general donation supports normal activities. |
-| Outstanding income vs Accrued income | Both mean income earned but not received; in this chapter the idea is usually applied to subscriptions and interest. |
-| Prepaid expense vs Outstanding expense | Prepaid is paid before it becomes due; outstanding is due but unpaid. |
+| Pair                                   | Difference                                                                                                                               |
+| -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Surplus vs Profit                      | Surplus belongs to a service organisation and is used for its objectives; profit belongs to a business and may be distributed to owners. |
+| Capital Fund vs Capital Account        | Capital Fund is accumulated organisational fund; Capital Account belongs to an owner or partner.                                         |
+| Specific donation vs General donation  | Specific donation is used only for a named purpose; general donation supports normal activities.                                         |
+| Outstanding income vs Accrued income   | Both mean income earned but not received; in this chapter the idea is usually applied to subscriptions and interest.                     |
+| Prepaid expense vs Outstanding expense | Prepaid is paid before it becomes due; outstanding is due but unpaid.                                                                    |
 
 ## 18. Common Errors and Corrections
 
-| Error | Correction |
-| --- | --- |
-| Treating all receipts as income | Only revenue receipts related to the current year become income. |
-| Recording depreciation in Receipts and Payments Account | Depreciation is non-cash; record it in Income and Expenditure Account. |
-| Ignoring advance subscription | Advance subscription at end is a liability, not current-year income. |
-| Treating purchase of furniture as expense | Furniture is an asset, not revenue expenditure. |
-| Forgetting opening Capital Fund | If not given, prepare opening Balance Sheet using opening assets and liabilities. |
-| Charging specific fund expenses to Income and Expenditure Account directly | First adjust them against the related fund. |
+| Error                                                                      | Correction                                                                        |
+| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| Treating all receipts as income                                            | Only revenue receipts related to the current year become income.                  |
+| Recording depreciation in Receipts and Payments Account                    | Depreciation is non-cash; record it in Income and Expenditure Account.            |
+| Ignoring advance subscription                                              | Advance subscription at end is a liability, not current-year income.              |
+| Treating purchase of furniture as expense                                  | Furniture is an asset, not revenue expenditure.                                   |
+| Forgetting opening Capital Fund                                            | If not given, prepare opening Balance Sheet using opening assets and liabilities. |
+| Charging specific fund expenses to Income and Expenditure Account directly | First adjust them against the related fund.                                       |
 
 ## 19. Practice Questions
 
@@ -456,17 +456,17 @@ To prepare final accounts of a not-for-profit organisation, first prepare or ana
 
 ## 20. Quick Revision Sheet
 
-| If You See This | Think This |
-| --- | --- |
-| Cash received or paid | Receipts and Payments Account |
-| Current-year revenue income or expense | Income and Expenditure Account |
-| Asset, liability, fund, outstanding, prepaid, advance | Balance Sheet |
-| Surplus | Add to Capital Fund |
-| Deficit | Deduct from Capital Fund |
-| Specific fund income | Add to that fund |
-| Specific fund expense | Deduct from that fund |
-| Depreciation | Expense in Income and Expenditure Account; reduce asset |
-| Purchase of fixed asset | Asset in Balance Sheet |
+| If You See This                                       | Think This                                              |
+| ----------------------------------------------------- | ------------------------------------------------------- |
+| Cash received or paid                                 | Receipts and Payments Account                           |
+| Current-year revenue income or expense                | Income and Expenditure Account                          |
+| Asset, liability, fund, outstanding, prepaid, advance | Balance Sheet                                           |
+| Surplus                                               | Add to Capital Fund                                     |
+| Deficit                                               | Deduct from Capital Fund                                |
+| Specific fund income                                  | Add to that fund                                        |
+| Specific fund expense                                 | Deduct from that fund                                   |
+| Depreciation                                          | Expense in Income and Expenditure Account; reduce asset |
+| Purchase of fixed asset                               | Asset in Balance Sheet                                  |
 
 ## 21. Final Learning Takeaway
 

@@ -1,4 +1,5 @@
 # Chapter 3: Production and Costs
+
 ### NCERT Class 11 - Economics Micro
 
 ---
@@ -36,26 +37,26 @@ The central idea is:
 
 ## Chapter at a Glance
 
-| Area | Main Idea |
-| --- | --- |
-| Production | Process of transforming inputs into output. |
-| Firm | Producing unit that uses inputs to produce output. |
-| Inputs | Labour, capital, land, raw materials, machinery, etc. |
-| Output | Good or service produced by the firm. |
-| Production function | Shows maximum output possible from given input combinations. |
-| Technology | Determines how much output can be produced from inputs. |
-| Short run | At least one factor is fixed. |
-| Long run | All factors are variable. |
-| Total product | Total output from different quantities of a variable input. |
-| Average product | Output per unit of variable input. |
-| Marginal product | Extra output from one more unit of variable input. |
+| Area                        | Main Idea                                                               |
+| --------------------------- | ----------------------------------------------------------------------- |
+| Production                  | Process of transforming inputs into output.                             |
+| Firm                        | Producing unit that uses inputs to produce output.                      |
+| Inputs                      | Labour, capital, land, raw materials, machinery, etc.                   |
+| Output                      | Good or service produced by the firm.                                   |
+| Production function         | Shows maximum output possible from given input combinations.            |
+| Technology                  | Determines how much output can be produced from inputs.                 |
+| Short run                   | At least one factor is fixed.                                           |
+| Long run                    | All factors are variable.                                               |
+| Total product               | Total output from different quantities of a variable input.             |
+| Average product             | Output per unit of variable input.                                      |
+| Marginal product            | Extra output from one more unit of variable input.                      |
 | Law of variable proportions | MP first rises, then falls, when one input varies and others are fixed. |
-| Returns to scale | Output response when all inputs increase proportionately. |
-| Cost function | Minimum cost of producing each level of output. |
-| Fixed cost | Cost of fixed factors; does not change with output in short run. |
-| Variable cost | Cost of variable factors; changes with output. |
-| Marginal cost | Extra cost of one more unit of output. |
-| Average cost | Cost per unit of output. |
+| Returns to scale            | Output response when all inputs increase proportionately.               |
+| Cost function               | Minimum cost of producing each level of output.                         |
+| Fixed cost                  | Cost of fixed factors; does not change with output in short run.        |
+| Variable cost               | Cost of variable factors; changes with output.                          |
+| Marginal cost               | Extra cost of one more unit of output.                                  |
+| Average cost                | Cost per unit of output.                                                |
 
 ---
 
@@ -63,71 +64,71 @@ The central idea is:
 
 By the end of this chapter, you should be able to:
 
-| Skill | You Should Be Able To |
-| --- | --- |
-| Define | Define production, production function, TP, AP, MP, TFC, TVC, TC, AFC, AVC, SAC, SMC, LRAC, LRMC. |
-| Explain | Explain short run, long run, law of variable proportions, and returns to scale. |
-| Calculate | Calculate AP, MP, TC, TVC, AFC, AVC, SAC, SMC from schedules. |
-| Interpret | Interpret production and cost tables. |
-| Draw | Draw the general shapes of TP, AP, MP, TFC, TVC, TC, AFC, AVC, SAC, SMC, LRAC, LRMC. |
-| Relate | Relate MP to AP, SMC to AVC, and SMC to SAC. |
-| Compare | Compare short run and long run, fixed and variable factors, fixed and variable costs. |
-| Apply | Apply returns to scale and Cobb-Douglas rules. |
-| Write | Write clean exam answers with formulas and economic reasoning. |
+| Skill     | You Should Be Able To                                                                             |
+| --------- | ------------------------------------------------------------------------------------------------- |
+| Define    | Define production, production function, TP, AP, MP, TFC, TVC, TC, AFC, AVC, SAC, SMC, LRAC, LRMC. |
+| Explain   | Explain short run, long run, law of variable proportions, and returns to scale.                   |
+| Calculate | Calculate AP, MP, TC, TVC, AFC, AVC, SAC, SMC from schedules.                                     |
+| Interpret | Interpret production and cost tables.                                                             |
+| Draw      | Draw the general shapes of TP, AP, MP, TFC, TVC, TC, AFC, AVC, SAC, SMC, LRAC, LRMC.              |
+| Relate    | Relate MP to AP, SMC to AVC, and SMC to SAC.                                                      |
+| Compare   | Compare short run and long run, fixed and variable factors, fixed and variable costs.             |
+| Apply     | Apply returns to scale and Cobb-Douglas rules.                                                    |
+| Write     | Write clean exam answers with formulas and economic reasoning.                                    |
 
 ---
 
 ## Big Map of the Chapter
 
-| Unit | Main Question | Main Answer |
-| --- | --- | --- |
-| Production | What does a firm do? | It transforms inputs into output. |
-| Production function | How are inputs and output related? | It shows maximum output from each input combination. |
-| Time period | Why short run and long run matter? | Some inputs are fixed in short run; all vary in long run. |
-| Product concepts | How is input productivity measured? | TP, AP, and MP. |
-| Variable proportions | Why does MP fall after a point? | Fixed factor becomes crowded with variable input. |
-| Returns to scale | What happens when all inputs rise? | Output may rise proportionately, more than proportionately, or less. |
-| Cost function | How does production connect with cost? | Firm chooses least-cost input combination for each output. |
-| Short-run costs | How do costs behave with fixed factors? | TFC remains fixed; TVC and TC rise with output. |
-| Average costs | How is cost per unit measured? | AFC, AVC, SAC. |
-| Marginal cost | What is cost of extra output? | Change in total cost per extra unit. |
-| Long-run costs | What happens when all factors vary? | No fixed cost; LRAC and LRMC show long-run cost behaviour. |
+| Unit                 | Main Question                           | Main Answer                                                          |
+| -------------------- | --------------------------------------- | -------------------------------------------------------------------- |
+| Production           | What does a firm do?                    | It transforms inputs into output.                                    |
+| Production function  | How are inputs and output related?      | It shows maximum output from each input combination.                 |
+| Time period          | Why short run and long run matter?      | Some inputs are fixed in short run; all vary in long run.            |
+| Product concepts     | How is input productivity measured?     | TP, AP, and MP.                                                      |
+| Variable proportions | Why does MP fall after a point?         | Fixed factor becomes crowded with variable input.                    |
+| Returns to scale     | What happens when all inputs rise?      | Output may rise proportionately, more than proportionately, or less. |
+| Cost function        | How does production connect with cost?  | Firm chooses least-cost input combination for each output.           |
+| Short-run costs      | How do costs behave with fixed factors? | TFC remains fixed; TVC and TC rise with output.                      |
+| Average costs        | How is cost per unit measured?          | AFC, AVC, SAC.                                                       |
+| Marginal cost        | What is cost of extra output?           | Change in total cost per extra unit.                                 |
+| Long-run costs       | What happens when all factors vary?     | No fixed cost; LRAC and LRMC show long-run cost behaviour.           |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Production | Transformation of inputs into output. |
-| Firm | Unit that produces goods or services. |
-| Input | Factor or resource used in production. |
-| Output | Good or service produced. |
-| Factor of production | Input used in production, such as labour or capital. |
-| Labour, L | Human effort used in production. |
-| Capital, K | Machines, tools, buildings, equipment, etc. used in production. |
-| Production function | Relation showing maximum output possible from input combinations. |
-| Technology | Knowledge and methods used in production. |
-| Isoquant | Set of input combinations producing the same output. |
-| Short run | Period in which at least one input is fixed. |
-| Long run | Period in which all inputs can be varied. |
-| Fixed factor | Input that cannot be varied in the short run. |
-| Variable factor | Input that can be varied in the short run. |
-| Total product, TP | Total output from a variable input when other inputs are fixed. |
-| Average product, AP | Output per unit of variable input. |
-| Marginal product, MP | Change in output due to one more unit of variable input. |
+| Term                                | Meaning                                                              |
+| ----------------------------------- | -------------------------------------------------------------------- |
+| Production                          | Transformation of inputs into output.                                |
+| Firm                                | Unit that produces goods or services.                                |
+| Input                               | Factor or resource used in production.                               |
+| Output                              | Good or service produced.                                            |
+| Factor of production                | Input used in production, such as labour or capital.                 |
+| Labour, L                           | Human effort used in production.                                     |
+| Capital, K                          | Machines, tools, buildings, equipment, etc. used in production.      |
+| Production function                 | Relation showing maximum output possible from input combinations.    |
+| Technology                          | Knowledge and methods used in production.                            |
+| Isoquant                            | Set of input combinations producing the same output.                 |
+| Short run                           | Period in which at least one input is fixed.                         |
+| Long run                            | Period in which all inputs can be varied.                            |
+| Fixed factor                        | Input that cannot be varied in the short run.                        |
+| Variable factor                     | Input that can be varied in the short run.                           |
+| Total product, TP                   | Total output from a variable input when other inputs are fixed.      |
+| Average product, AP                 | Output per unit of variable input.                                   |
+| Marginal product, MP                | Change in output due to one more unit of variable input.             |
 | Law of diminishing marginal product | MP eventually falls as more variable input is used with fixed input. |
-| Returns to scale | Output response when all inputs are changed in same proportion. |
-| Cost function | Minimum cost of producing each output level. |
-| Total fixed cost, TFC | Cost of fixed factors. |
-| Total variable cost, TVC | Cost of variable factors. |
-| Total cost, TC | Sum of TFC and TVC. |
-| Average fixed cost, AFC | Fixed cost per unit of output. |
-| Average variable cost, AVC | Variable cost per unit of output. |
-| Short-run average cost, SAC | Total cost per unit of output in short run. |
-| Short-run marginal cost, SMC | Extra short-run cost of producing one more unit. |
-| Long-run average cost, LRAC | Cost per unit when all inputs are variable. |
-| Long-run marginal cost, LRMC | Extra long-run cost of one more unit of output. |
+| Returns to scale                    | Output response when all inputs are changed in same proportion.      |
+| Cost function                       | Minimum cost of producing each output level.                         |
+| Total fixed cost, TFC               | Cost of fixed factors.                                               |
+| Total variable cost, TVC            | Cost of variable factors.                                            |
+| Total cost, TC                      | Sum of TFC and TVC.                                                  |
+| Average fixed cost, AFC             | Fixed cost per unit of output.                                       |
+| Average variable cost, AVC          | Variable cost per unit of output.                                    |
+| Short-run average cost, SAC         | Total cost per unit of output in short run.                          |
+| Short-run marginal cost, SMC        | Extra short-run cost of producing one more unit.                     |
+| Long-run average cost, LRAC         | Cost per unit when all inputs are variable.                          |
+| Long-run marginal cost, LRMC        | Extra long-run cost of one more unit of output.                      |
 
 ---
 
@@ -139,13 +140,13 @@ Production is the process by which inputs are transformed into output.
 
 Examples:
 
-| Producer | Inputs Used | Output Produced |
-| --- | --- | --- |
-| Tailor | sewing machine, cloth, thread, labour | shirts |
-| Farmer | land, labour, tractor, seed, fertiliser, water | wheat |
-| Car manufacturer | factory land, machines, labour, steel, rubber, aluminium | cars |
-| Rickshaw puller | rickshaw, labour | rides/transport service |
-| Domestic helper | labour, tools | cleaning service |
+| Producer         | Inputs Used                                              | Output Produced         |
+| ---------------- | -------------------------------------------------------- | ----------------------- |
+| Tailor           | sewing machine, cloth, thread, labour                    | shirts                  |
+| Farmer           | land, labour, tractor, seed, fertiliser, water           | wheat                   |
+| Car manufacturer | factory land, machines, labour, steel, rubber, aluminium | cars                    |
+| Rickshaw puller  | rickshaw, labour                                         | rides/transport service |
+| Domestic helper  | labour, tools                                            | cleaning service        |
 
 Production can create goods or services.
 
@@ -372,12 +373,12 @@ For another, it may be many years.
 
 ## 4.4 Comparison
 
-| Basis | Short Run | Long Run |
-| --- | --- | --- |
-| Fixed factor | At least one fixed factor | No fixed factor |
-| Variable factors | Some inputs variable | All inputs variable |
-| Scale of production | Limited by fixed factors | Can be fully adjusted |
-| Example | Factory size fixed, labour variable | Factory size and labour both variable |
+| Basis               | Short Run                           | Long Run                              |
+| ------------------- | ----------------------------------- | ------------------------------------- |
+| Fixed factor        | At least one fixed factor           | No fixed factor                       |
+| Variable factors    | Some inputs variable                | All inputs variable                   |
+| Scale of production | Limited by fixed factors            | Can be fully adjusted                 |
+| Example             | Factory size fixed, labour variable | Factory size and labour both variable |
 
 ---
 
@@ -433,14 +434,14 @@ MPL = TP at L units - TP at (L - 1) units
 ## 5.4 Product Schedule
 
 | Labour | Total Product | Marginal Product | Average Product |
-| ---: | ---: | ---: | ---: |
-| 0 | 0 | - | - |
-| 1 | 10 | 10 | 10 |
-| 2 | 24 | 14 | 12 |
-| 3 | 40 | 16 | 13.33 |
-| 4 | 50 | 10 | 12.5 |
-| 5 | 56 | 6 | 11.2 |
-| 6 | 57 | 1 | 9.5 |
+| -----: | ------------: | ---------------: | --------------: |
+|      0 |             0 |                - |               - |
+|      1 |            10 |               10 |              10 |
+|      2 |            24 |               14 |              12 |
+|      3 |            40 |               16 |           13.33 |
+|      4 |            50 |               10 |            12.5 |
+|      5 |            56 |                6 |            11.2 |
+|      6 |            57 |                1 |             9.5 |
 
 ## 5.5 Reading the Product Schedule
 
@@ -490,11 +491,11 @@ Average product is the average of marginal products up to that input level.
 
 Rules:
 
-| Situation | Result |
-| --- | --- |
-| MP > AP | AP rises |
-| MP = AP | AP is maximum |
-| MP < AP | AP falls |
+| Situation | Result        |
+| --------- | ------------- |
+| MP > AP   | AP rises      |
+| MP = AP   | AP is maximum |
+| MP < AP   | AP falls      |
 
 Therefore:
 
@@ -645,11 +646,11 @@ f(t x1, t x2) < t f(x1, x2)
 
 ## 7.5 Comparison
 
-| Inputs Increase | Output Increase | Return to Scale |
-| --- | --- | --- |
-| 2 times | 2 times | Constant returns |
-| 2 times | More than 2 times | Increasing returns |
-| 2 times | Less than 2 times | Decreasing returns |
+| Inputs Increase | Output Increase   | Return to Scale    |
+| --------------- | ----------------- | ------------------ |
+| 2 times         | 2 times           | Constant returns   |
+| 2 times         | More than 2 times | Increasing returns |
+| 2 times         | Less than 2 times | Decreasing returns |
 
 ## 7.6 Cobb-Douglas Production Function
 
@@ -667,9 +668,9 @@ q1 = t^(alpha + beta) q0
 
 Rules:
 
-| Condition | Returns to Scale |
-| --- | --- |
-| `alpha + beta = 1` | Constant returns to scale |
+| Condition          | Returns to Scale            |
+| ------------------ | --------------------------- |
+| `alpha + beta = 1` | Constant returns to scale   |
 | `alpha + beta > 1` | Increasing returns to scale |
 | `alpha + beta < 1` | Decreasing returns to scale |
 
@@ -763,19 +764,19 @@ TC = TFC + TVC
 
 ## 9.4 Cost Schedule
 
-| Output | TFC | TVC | TC | AFC | AVC | SAC | SMC |
-| ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| 0 | 20 | 0 | 20 | - | - | - | - |
-| 1 | 20 | 10 | 30 | 20 | 10 | 30 | 10 |
-| 2 | 20 | 18 | 38 | 10 | 9 | 19 | 8 |
-| 3 | 20 | 24 | 44 | 6.67 | 8 | 14.67 | 6 |
-| 4 | 20 | 29 | 49 | 5 | 7.25 | 12.25 | 5 |
-| 5 | 20 | 33 | 53 | 4 | 6.6 | 10.6 | 4 |
-| 6 | 20 | 39 | 59 | 3.33 | 6.5 | 9.83 | 6 |
-| 7 | 20 | 47 | 67 | 2.86 | 6.7 | 9.57 | 8 |
-| 8 | 20 | 60 | 80 | 2.5 | 7.5 | 10 | 13 |
-| 9 | 20 | 75 | 95 | 2.22 | 8.33 | 10.55 | 15 |
-| 10 | 20 | 95 | 115 | 2 | 9.5 | 11.5 | 20 |
+| Output | TFC | TVC |  TC |  AFC |  AVC |   SAC | SMC |
+| -----: | --: | --: | --: | ---: | ---: | ----: | --: |
+|      0 |  20 |   0 |  20 |    - |    - |     - |   - |
+|      1 |  20 |  10 |  30 |   20 |   10 |    30 |  10 |
+|      2 |  20 |  18 |  38 |   10 |    9 |    19 |   8 |
+|      3 |  20 |  24 |  44 | 6.67 |    8 | 14.67 |   6 |
+|      4 |  20 |  29 |  49 |    5 | 7.25 | 12.25 |   5 |
+|      5 |  20 |  33 |  53 |    4 |  6.6 |  10.6 |   4 |
+|      6 |  20 |  39 |  59 | 3.33 |  6.5 |  9.83 |   6 |
+|      7 |  20 |  47 |  67 | 2.86 |  6.7 |  9.57 |   8 |
+|      8 |  20 |  60 |  80 |  2.5 |  7.5 |    10 |  13 |
+|      9 |  20 |  75 |  95 | 2.22 | 8.33 | 10.55 |  15 |
+|     10 |  20 |  95 | 115 |    2 |  9.5 |  11.5 |  20 |
 
 ## 9.5 Average Fixed Cost
 
@@ -897,11 +898,11 @@ AVC is the average of marginal costs up to that output level.
 
 Rules:
 
-| Situation | Result |
-| --- | --- |
-| SMC < AVC | AVC falls |
+| Situation | Result         |
+| --------- | -------------- |
+| SMC < AVC | AVC falls      |
 | SMC = AVC | AVC is minimum |
-| SMC > AVC | AVC rises |
+| SMC > AVC | AVC rises      |
 
 Therefore:
 
@@ -911,11 +912,11 @@ Therefore:
 
 Rules:
 
-| Situation | Result |
-| --- | --- |
-| SMC < SAC | SAC falls |
+| Situation | Result         |
+| --------- | -------------- |
+| SMC < SAC | SAC falls      |
 | SMC = SAC | SAC is minimum |
-| SMC > SAC | SAC rises |
+| SMC > SAC | SAC rises      |
 
 Therefore:
 
@@ -941,15 +942,15 @@ Therefore, SMC is U-shaped.
 
 ## 9.14 Shapes of Short-Run Cost Curves
 
-| Curve | Shape | Reason |
-| --- | --- | --- |
-| TFC | Horizontal | Fixed cost does not change with output. |
-| TVC | Upward sloping | More output requires more variable input. |
-| TC | Upward sloping | TC = TFC + TVC. |
-| AFC | Downward sloping rectangular hyperbola | Fixed cost spread over more output. |
-| AVC | U-shaped | Falls then rises due to variable proportions. |
-| SAC | U-shaped | Sum of AVC and AFC. |
-| SMC | U-shaped | Falls then rises due to MP behaviour. |
+| Curve | Shape                                  | Reason                                        |
+| ----- | -------------------------------------- | --------------------------------------------- |
+| TFC   | Horizontal                             | Fixed cost does not change with output.       |
+| TVC   | Upward sloping                         | More output requires more variable input.     |
+| TC    | Upward sloping                         | TC = TFC + TVC.                               |
+| AFC   | Downward sloping rectangular hyperbola | Fixed cost spread over more output.           |
+| AVC   | U-shaped                               | Falls then rises due to variable proportions. |
+| SAC   | U-shaped                               | Sum of AVC and AFC.                           |
+| SMC   | U-shaped                               | Falls then rises due to MP behaviour.         |
 
 ## 9.15 SAC and AVC Difference
 
@@ -1019,11 +1020,11 @@ LRAC is usually U-shaped.
 
 Its shape is related to returns to scale.
 
-| Region | Returns to Scale | LRAC Behaviour |
-| --- | --- | --- |
-| Initial region | Increasing returns to scale | LRAC falls |
-| Middle region | Constant returns to scale | LRAC is constant/minimum |
-| Later region | Decreasing returns to scale | LRAC rises |
+| Region         | Returns to Scale            | LRAC Behaviour           |
+| -------------- | --------------------------- | ------------------------ |
+| Initial region | Increasing returns to scale | LRAC falls               |
+| Middle region  | Constant returns to scale   | LRAC is constant/minimum |
+| Later region   | Decreasing returns to scale | LRAC rises               |
 
 ## 10.5 Why IRS Makes LRAC Fall
 
@@ -1063,11 +1064,11 @@ So average cost remains constant.
 
 Rules:
 
-| Situation | Result |
-| --- | --- |
-| LRMC < LRAC | LRAC falls |
+| Situation   | Result          |
+| ----------- | --------------- |
+| LRMC < LRAC | LRAC falls      |
 | LRMC = LRAC | LRAC is minimum |
-| LRMC > LRAC | LRAC rises |
+| LRMC > LRAC | LRAC rises      |
 
 Therefore:
 
@@ -1099,12 +1100,12 @@ If average product falls, more variable inputs are needed per unit of output, so
 
 ## 11.3 Useful Memory Table
 
-| Production Side | Cost Side |
-| --- | --- |
-| MP rises | MC falls |
-| MP falls | MC rises |
-| AP rises | AVC falls |
-| AP falls | AVC rises |
+| Production Side          | Cost Side                  |
+| ------------------------ | -------------------------- |
+| MP rises                 | MC falls                   |
+| MP falls                 | MC rises                   |
+| AP rises                 | AVC falls                  |
+| AP falls                 | AVC rises                  |
 | MP cuts AP at AP maximum | MC cuts AVC at AVC minimum |
 
 ---
@@ -1280,18 +1281,18 @@ In the long run all inputs are variable and there are no fixed costs. LRAC is th
 
 # 14. Common Mistakes
 
-| Mistake | Correction |
-| --- | --- |
-| Saying production function shows actual output even if inputs are wasted | It shows maximum output with efficient input use. |
-| Defining short run as one year | Short run means at least one input is fixed; time length differs by industry. |
-| Confusing total product and marginal product | TP is total output; MP is extra output from one more input unit. |
-| Forgetting MP at zero input is undefined | Marginal product requires a change from a previous input level. |
-| Thinking MP always falls | MP may initially rise, then fall. |
-| Confusing law of variable proportions with returns to scale | Variable proportions changes one input with others fixed; returns to scale changes all inputs. |
-| Saying fixed cost exists in long run | In long run all factors are variable, so there is no fixed cost. |
-| Calculating SMC from AFC | SMC is change in TC or TVC, not change in AFC. |
-| Adding AFC and SMC to get SAC | SAC = AFC + AVC, not AFC + SMC. |
-| Saying MC cuts AC from above | MC cuts AVC/SAC/LRAC from below at their minimum points. |
+| Mistake                                                                  | Correction                                                                                     |
+| ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
+| Saying production function shows actual output even if inputs are wasted | It shows maximum output with efficient input use.                                              |
+| Defining short run as one year                                           | Short run means at least one input is fixed; time length differs by industry.                  |
+| Confusing total product and marginal product                             | TP is total output; MP is extra output from one more input unit.                               |
+| Forgetting MP at zero input is undefined                                 | Marginal product requires a change from a previous input level.                                |
+| Thinking MP always falls                                                 | MP may initially rise, then fall.                                                              |
+| Confusing law of variable proportions with returns to scale              | Variable proportions changes one input with others fixed; returns to scale changes all inputs. |
+| Saying fixed cost exists in long run                                     | In long run all factors are variable, so there is no fixed cost.                               |
+| Calculating SMC from AFC                                                 | SMC is change in TC or TVC, not change in AFC.                                                 |
+| Adding AFC and SMC to get SAC                                            | SAC = AFC + AVC, not AFC + SMC.                                                                |
+| Saying MC cuts AC from above                                             | MC cuts AVC/SAC/LRAC from below at their minimum points.                                       |
 
 ---
 
@@ -1299,52 +1300,52 @@ In the long run all inputs are variable and there are no fixed costs. LRAC is th
 
 ## 15.1 Product Formulas
 
-| Concept | Formula |
-| --- | --- |
-| Production function | `q = f(L,K)` |
-| Average product | `AP = TP / variable input` |
-| Marginal product | `MP = Delta TP / Delta input` |
-| TP from MP | `TP = sum of MP` |
+| Concept             | Formula                       |
+| ------------------- | ----------------------------- |
+| Production function | `q = f(L,K)`                  |
+| Average product     | `AP = TP / variable input`    |
+| Marginal product    | `MP = Delta TP / Delta input` |
+| TP from MP          | `TP = sum of MP`              |
 
 ## 15.2 Cost Formulas
 
-| Concept | Formula |
-| --- | --- |
-| Total cost | `TC = TFC + TVC` |
-| Average fixed cost | `AFC = TFC / q` |
-| Average variable cost | `AVC = TVC / q` |
-| Short-run average cost | `SAC = TC / q` |
-| SAC relation | `SAC = AFC + AVC` |
-| Short-run marginal cost | `SMC = Delta TC / Delta q` |
-| Long-run average cost | `LRAC = TC / q` |
-| Long-run marginal cost | `LRMC = Delta TC / Delta q` |
+| Concept                 | Formula                     |
+| ----------------------- | --------------------------- |
+| Total cost              | `TC = TFC + TVC`            |
+| Average fixed cost      | `AFC = TFC / q`             |
+| Average variable cost   | `AVC = TVC / q`             |
+| Short-run average cost  | `SAC = TC / q`              |
+| SAC relation            | `SAC = AFC + AVC`           |
+| Short-run marginal cost | `SMC = Delta TC / Delta q`  |
+| Long-run average cost   | `LRAC = TC / q`             |
+| Long-run marginal cost  | `LRMC = Delta TC / Delta q` |
 
 ## 15.3 Curve Relationships
 
-| Curve Pair | Relationship |
-| --- | --- |
-| MP and AP | MP cuts AP from above at AP maximum. |
-| SMC and AVC | SMC cuts AVC from below at AVC minimum. |
-| SMC and SAC | SMC cuts SAC from below at SAC minimum. |
+| Curve Pair    | Relationship                               |
+| ------------- | ------------------------------------------ |
+| MP and AP     | MP cuts AP from above at AP maximum.       |
+| SMC and AVC   | SMC cuts AVC from below at AVC minimum.    |
+| SMC and SAC   | SMC cuts SAC from below at SAC minimum.    |
 | LRMC and LRAC | LRMC cuts LRAC from below at LRAC minimum. |
-| SAC and AVC | SAC lies above AVC; gap equals AFC. |
+| SAC and AVC   | SAC lies above AVC; gap equals AFC.        |
 
 ## 15.4 Shapes
 
-| Curve | Shape |
-| --- | --- |
-| TP | Upward sloping, first increasing faster then slower |
-| MP | Inverse U-shaped |
-| AP | Inverse U-shaped |
-| TFC | Horizontal |
-| TVC | Upward sloping |
-| TC | Upward sloping above TVC |
-| AFC | Downward sloping rectangular hyperbola |
-| AVC | U-shaped |
-| SAC | U-shaped |
-| SMC | U-shaped |
-| LRAC | U-shaped |
-| LRMC | U-shaped |
+| Curve | Shape                                               |
+| ----- | --------------------------------------------------- |
+| TP    | Upward sloping, first increasing faster then slower |
+| MP    | Inverse U-shaped                                    |
+| AP    | Inverse U-shaped                                    |
+| TFC   | Horizontal                                          |
+| TVC   | Upward sloping                                      |
+| TC    | Upward sloping above TVC                            |
+| AFC   | Downward sloping rectangular hyperbola              |
+| AVC   | U-shaped                                            |
+| SAC   | U-shaped                                            |
+| SMC   | U-shaped                                            |
+| LRAC  | U-shaped                                            |
+| LRMC  | U-shaped                                            |
 
 ---
 

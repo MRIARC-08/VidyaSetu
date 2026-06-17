@@ -1,20 +1,21 @@
 # Chapter 6: Measuring Space - Perimeter and Area
+
 ### NCERT Class 9 - Maths
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 9 |
-| **Subject** | Maths |
-| **Chapter** | 6 |
-| **Actual Chapter Title** | Measuring Space: Perimeter and Area |
-| **Raw File Header** | "Lines and Angles" |
-| **Textbook Pages** | 1-154 |
-| **Core Theme** | Measuring boundary length and enclosed space for polygons, circles, arcs, sectors, and related shapes. |
-| **Main Skill** | Choosing the correct perimeter or area formula, understanding why it works, and using it in multi-step geometry problems. |
+| Detail                   | Learner-Friendly Information                                                                                              |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
+| **Class**                | 9                                                                                                                         |
+| **Subject**              | Maths                                                                                                                     |
+| **Chapter**              | 6                                                                                                                         |
+| **Actual Chapter Title** | Measuring Space: Perimeter and Area                                                                                       |
+| **Raw File Header**      | "Lines and Angles"                                                                                                        |
+| **Textbook Pages**       | 1-154                                                                                                                     |
+| **Core Theme**           | Measuring boundary length and enclosed space for polygons, circles, arcs, sectors, and related shapes.                    |
+| **Main Skill**           | Choosing the correct perimeter or area formula, understanding why it works, and using it in multi-step geometry problems. |
 
 > [!NOTE]
 > The raw source file is `chapter_06.md` and its extraction header says "Lines and Angles", but the actual chapter content is **Measuring Space: Perimeter and Area**. This learner-facing version follows the actual chapter content.
@@ -23,21 +24,21 @@
 
 ## Section Structure
 
-| Section | Title | Main Learning Focus |
-|---|---|---|
-| **6.0** | Introduction | Why perimeter and area matter in real situations such as race tracks. |
-| **6.1** | Perimeter of a Shape | Meaning of perimeter and known perimeter formulas. |
-| **6.2** | Perimeter of a Circle - The \(C/D\) Ratio | Circumference, diameter, and the constant \(\pi\). |
-| **6.3** | \(\pi\) Is Irrational | Why \(\pi\) is not exactly equal to \(22/7\) or any fraction. |
-| **6.4** | Length of an Arc of a Circle | Arc length as a fraction of circumference. |
-| **6.5** | Problems, Puzzles, and Paradoxes on Perimeter | Circular perimeter puzzles and path-length comparisons. |
-| **6.6** | Area of a Rectangle | Unit squares and rectangular area. |
-| **6.7** | Area of a Parallelogram | Base-height formula and why side lengths alone are not enough. |
-| **6.8** | Area of a Triangle | Half base times height; medians and equal areas. |
-| **6.8.1** | Heron's Formula | Area of a triangle using only its three side lengths. |
-| **6.9** | Squaring a Rectangle | Constructing a square equal in area to a given rectangle. |
-| **6.10** | Area of a Circle | Historical and visual explanations of \(A=\pi r^2\). |
-| **6.10.1** | Area of a Sector of a Circle | Sector area and segment area. |
+| Section    | Title                                         | Main Learning Focus                                                   |
+| ---------- | --------------------------------------------- | --------------------------------------------------------------------- |
+| **6.0**    | Introduction                                  | Why perimeter and area matter in real situations such as race tracks. |
+| **6.1**    | Perimeter of a Shape                          | Meaning of perimeter and known perimeter formulas.                    |
+| **6.2**    | Perimeter of a Circle - The \(C/D\) Ratio     | Circumference, diameter, and the constant \(\pi\).                    |
+| **6.3**    | \(\pi\) Is Irrational                         | Why \(\pi\) is not exactly equal to \(22/7\) or any fraction.         |
+| **6.4**    | Length of an Arc of a Circle                  | Arc length as a fraction of circumference.                            |
+| **6.5**    | Problems, Puzzles, and Paradoxes on Perimeter | Circular perimeter puzzles and path-length comparisons.               |
+| **6.6**    | Area of a Rectangle                           | Unit squares and rectangular area.                                    |
+| **6.7**    | Area of a Parallelogram                       | Base-height formula and why side lengths alone are not enough.        |
+| **6.8**    | Area of a Triangle                            | Half base times height; medians and equal areas.                      |
+| **6.8.1**  | Heron's Formula                               | Area of a triangle using only its three side lengths.                 |
+| **6.9**    | Squaring a Rectangle                          | Constructing a square equal in area to a given rectangle.             |
+| **6.10**   | Area of a Circle                              | Historical and visual explanations of \(A=\pi r^2\).                  |
+| **6.10.1** | Area of a Sector of a Circle                  | Sector area and segment area.                                         |
 
 ---
 
@@ -45,31 +46,31 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Explain perimeter** | Describe perimeter as total boundary length. |
-| **Use circumference** | Calculate circumference from radius or diameter using \(C=2\pi r=\pi d\). |
-| **Understand \(\pi\)** | Explain that \(\pi\) is a fixed ratio, irrational, and only approximated by fractions like \(22/7\). |
-| **Calculate arc length** | Find the length of an arc using the central angle. |
-| **Solve perimeter puzzles** | Break curved boundaries into arcs and compare paths algebraically. |
-| **Use area formulas** | Apply rectangle, parallelogram, triangle, circle, and sector area formulas. |
-| **Use Heron's formula** | Find the area of a triangle when all three sides are known. |
-| **Use Brahmagupta's formula** | Understand the area formula for cyclic quadrilaterals and how it generalises Heron's formula. |
-| **Handle sectors and segments** | Find sector area and segment area by subtracting triangle area from sector area. |
-| **Connect formulas** | See special cases, generalisations, and geometric proofs behind formulas. |
+| Outcome                         | You Should Be Able To...                                                                             |
+| ------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **Explain perimeter**           | Describe perimeter as total boundary length.                                                         |
+| **Use circumference**           | Calculate circumference from radius or diameter using \(C=2\pi r=\pi d\).                            |
+| **Understand \(\pi\)**          | Explain that \(\pi\) is a fixed ratio, irrational, and only approximated by fractions like \(22/7\). |
+| **Calculate arc length**        | Find the length of an arc using the central angle.                                                   |
+| **Solve perimeter puzzles**     | Break curved boundaries into arcs and compare paths algebraically.                                   |
+| **Use area formulas**           | Apply rectangle, parallelogram, triangle, circle, and sector area formulas.                          |
+| **Use Heron's formula**         | Find the area of a triangle when all three sides are known.                                          |
+| **Use Brahmagupta's formula**   | Understand the area formula for cyclic quadrilaterals and how it generalises Heron's formula.        |
+| **Handle sectors and segments** | Find sector area and segment area by subtracting triangle area from sector area.                     |
+| **Connect formulas**            | See special cases, generalisations, and geometric proofs behind formulas.                            |
 
 ---
 
 ## Prerequisite Toolkit
 
-| Tool | Why It Matters Here |
-|---|---|
-| **Fractions and ratios** | Arc length and sector area are fractions of the whole circle. |
-| **Square roots** | Heron's formula and Pythagoras-based area problems use square roots. |
-| **Baudhāyana-Pythagoras theorem** | Used for heights, diagonals, radii, and special triangles. |
-| **Algebraic identities** | Used in Heron's formula checks, squaring a rectangle, and special cases. |
-| **Similarity and scale** | Helps understand why perimeter scales by length and area scales by square of length. |
-| **Circle basics** | Radius, diameter, circumference, arc, sector, and segment are all used. |
+| Tool                              | Why It Matters Here                                                                  |
+| --------------------------------- | ------------------------------------------------------------------------------------ |
+| **Fractions and ratios**          | Arc length and sector area are fractions of the whole circle.                        |
+| **Square roots**                  | Heron's formula and Pythagoras-based area problems use square roots.                 |
+| **Baudhāyana-Pythagoras theorem** | Used for heights, diagonals, radii, and special triangles.                           |
+| **Algebraic identities**          | Used in Heron's formula checks, squaring a rectangle, and special cases.             |
+| **Similarity and scale**          | Helps understand why perimeter scales by length and area scales by square of length. |
+| **Circle basics**                 | Radius, diameter, circumference, arc, sector, and segment are all used.              |
 
 ### Core Reminder: Scale
 
@@ -127,24 +128,24 @@ The deeper lesson is that formulas are not random. Most formulas come from:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Perimeter** | Total length around the boundary of a shape. |
-| **Circumference** | Perimeter of a circle. |
-| **Diameter** | A chord through the centre of a circle; equal to \(2r\). |
-| **Radius** | Distance from centre of a circle to its boundary. |
-| **\(\pi\)** | Constant ratio of circumference to diameter for every circle. |
-| **Arc** | A connected part of a circle's boundary. |
-| **Central angle** | Angle made at the centre by joining the centre to two boundary points. |
-| **Sector** | Region enclosed by two radii and the arc between them. |
-| **Segment of a circle** | Region enclosed by a chord and the corresponding arc. |
-| **Area** | Amount of two-dimensional space occupied by a region. |
-| **Base** | Chosen side of a shape, usually used with height. |
-| **Height** | Perpendicular distance from base to opposite side or vertex. |
-| **Semi-perimeter** | Half the perimeter of a shape. |
-| **Cyclic quadrilateral** | A quadrilateral whose vertices lie on one circle. |
-| **Generalisation** | A broader result from which a smaller result appears as a special case. |
-| **Special case** | A result obtained from a general result by adding extra conditions. |
+| Term                     | Meaning                                                                 |
+| ------------------------ | ----------------------------------------------------------------------- |
+| **Perimeter**            | Total length around the boundary of a shape.                            |
+| **Circumference**        | Perimeter of a circle.                                                  |
+| **Diameter**             | A chord through the centre of a circle; equal to \(2r\).                |
+| **Radius**               | Distance from centre of a circle to its boundary.                       |
+| **\(\pi\)**              | Constant ratio of circumference to diameter for every circle.           |
+| **Arc**                  | A connected part of a circle's boundary.                                |
+| **Central angle**        | Angle made at the centre by joining the centre to two boundary points.  |
+| **Sector**               | Region enclosed by two radii and the arc between them.                  |
+| **Segment of a circle**  | Region enclosed by a chord and the corresponding arc.                   |
+| **Area**                 | Amount of two-dimensional space occupied by a region.                   |
+| **Base**                 | Chosen side of a shape, usually used with height.                       |
+| **Height**               | Perpendicular distance from base to opposite side or vertex.            |
+| **Semi-perimeter**       | Half the perimeter of a shape.                                          |
+| **Cyclic quadrilateral** | A quadrilateral whose vertices lie on one circle.                       |
+| **Generalisation**       | A broader result from which a smaller result appears as a special case. |
+| **Special case**         | A result obtained from a general result by adding extra conditions.     |
 
 ---
 
@@ -182,12 +183,12 @@ Imagine a tiny insect walking exactly along the border of a shape until it retur
 
 ### Perimeter of Familiar Shapes
 
-| Shape | Given | Perimeter |
-|---|---|---|
-| Square | side \(a\) | \(4a\) |
-| Equilateral triangle | side \(a\) | \(3a\) |
-| Rectangle | length \(a\), breadth \(b\) | \(2(a+b)\) |
-| Regular \(n\)-gon | side \(a\) | \(na\) |
+| Shape                | Given                       | Perimeter  |
+| -------------------- | --------------------------- | ---------- |
+| Square               | side \(a\)                  | \(4a\)     |
+| Equilateral triangle | side \(a\)                  | \(3a\)     |
+| Rectangle            | length \(a\), breadth \(b\) | \(2(a+b)\) |
+| Regular \(n\)-gon    | side \(a\)                  | \(na\)     |
 
 ### Square as a Special Rectangle
 
@@ -354,16 +355,16 @@ So \(\pi>3\).
 
 Different civilizations approximated \(\pi\) with increasing accuracy.
 
-| Mathematician / Culture | Approximation or Contribution |
-|---|---|
-| Mesopotamian mathematicians | Used values a little greater than \(3\), such as \(3.125\). |
-| Archimedes | Bounded \(\pi\) using inscribed and circumscribed polygons. |
-| Ptolemy | Used a very close astronomical approximation. |
-| Liu Hui and Zu Chongzhi | Used polygon methods; Zu Chongzhi found \(355/113\), an excellent approximation. |
-| Aryabhata | Used \(\pi\approx 3.1416\) and treated it as approximate. |
-| Brahmagupta | Used \(\sqrt{10}\) as a useful approximation in some contexts. |
-| Madhava | Developed an infinite series for \(\pi\). |
-| Ramanujan and the Chudnovsky brothers | Developed very fast methods to calculate digits of \(\pi\). |
+| Mathematician / Culture               | Approximation or Contribution                                                    |
+| ------------------------------------- | -------------------------------------------------------------------------------- |
+| Mesopotamian mathematicians           | Used values a little greater than \(3\), such as \(3.125\).                      |
+| Archimedes                            | Bounded \(\pi\) using inscribed and circumscribed polygons.                      |
+| Ptolemy                               | Used a very close astronomical approximation.                                    |
+| Liu Hui and Zu Chongzhi               | Used polygon methods; Zu Chongzhi found \(355/113\), an excellent approximation. |
+| Aryabhata                             | Used \(\pi\approx 3.1416\) and treated it as approximate.                        |
+| Brahmagupta                           | Used \(\sqrt{10}\) as a useful approximation in some contexts.                   |
+| Madhava                               | Developed an infinite series for \(\pi\).                                        |
+| Ramanujan and the Chudnovsky brothers | Developed very fast methods to calculate digits of \(\pi\).                      |
 
 ### Madhava's Series
 
@@ -523,13 +524,13 @@ $$
 
 ### Arc Length Examples
 
-| Radius | Central Angle | Arc Length |
-|---|---|---|
-| \(r\) | \(180^\circ\) | \(\pi r\) |
-| \(r\) | \(90^\circ\) | \(\frac{\pi r}{2}\) |
-| \(r\) | \(60^\circ\) | \(\frac{\pi r}{3}\) |
-| \(r\) | \(120^\circ\) | \(\frac{2\pi r}{3}\) |
-| \(r\) | \(270^\circ\) | \(\frac{3\pi r}{2}\) |
+| Radius | Central Angle | Arc Length           |
+| ------ | ------------- | -------------------- |
+| \(r\)  | \(180^\circ\) | \(\pi r\)            |
+| \(r\)  | \(90^\circ\)  | \(\frac{\pi r}{2}\)  |
+| \(r\)  | \(60^\circ\)  | \(\frac{\pi r}{3}\)  |
+| \(r\)  | \(120^\circ\) | \(\frac{2\pi r}{3}\) |
+| \(r\)  | \(270^\circ\) | \(\frac{3\pi r}{2}\) |
 
 ### Athletics Track Application
 
@@ -683,16 +684,16 @@ $$
 \pi\approx \frac{22}{7}
 $$
 
-| Question | Learner Task | Main Formula or Idea |
-|---|---|---|
-| 1 | Circumference \(44\text{ cm}\). Find radius. | \(C=2\pi r\). |
-| 2 | Find circumferences for radii \(7\text{ cm}\), \(10\text{ cm}\), \(12\text{ cm}\). | \(C=2\pi r\). |
-| 3 | Find arc lengths for given radii and central angles. | \(l=2\pi r\cdot \frac{\theta}{360}\). |
-| 4 | Find perimeter of a sector with radius \(14\text{ cm}\), angle \(75^\circ\). | Sector perimeter \(=2r+\) arc length. |
-| 5 | Find perimeters of composite shapes made of arcs. | Break boundary into straight parts and circular arcs. |
-| 6 | Tyre diameter \(56\text{ cm}\): distance per revolution and revolutions in \(10\text{ km}\). | One revolution covers one circumference. |
-| 7 | Find total perimeter of flower petals. | Identify each petal boundary as arcs of circles. |
-| 8 | Ratio of circle perimeters is \(5:4\). Find ratio of radii. | Since \(C=2\pi r\), radii ratio is also \(5:4\). |
+| Question | Learner Task                                                                                 | Main Formula or Idea                                  |
+| -------- | -------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| 1        | Circumference \(44\text{ cm}\). Find radius.                                                 | \(C=2\pi r\).                                         |
+| 2        | Find circumferences for radii \(7\text{ cm}\), \(10\text{ cm}\), \(12\text{ cm}\).           | \(C=2\pi r\).                                         |
+| 3        | Find arc lengths for given radii and central angles.                                         | \(l=2\pi r\cdot \frac{\theta}{360}\).                 |
+| 4        | Find perimeter of a sector with radius \(14\text{ cm}\), angle \(75^\circ\).                 | Sector perimeter \(=2r+\) arc length.                 |
+| 5        | Find perimeters of composite shapes made of arcs.                                            | Break boundary into straight parts and circular arcs. |
+| 6        | Tyre diameter \(56\text{ cm}\): distance per revolution and revolutions in \(10\text{ km}\). | One revolution covers one circumference.              |
+| 7        | Find total perimeter of flower petals.                                                       | Identify each petal boundary as arcs of circles.      |
+| 8        | Ratio of circle perimeters is \(5:4\). Find ratio of radii.                                  | Since \(C=2\pi r\), radii ratio is also \(5:4\).      |
 
 ### Worked Solution: Exercise 6.1, Question 1
 
@@ -1437,19 +1438,19 @@ Then square that rectangle.
 
 ## Exercise Set 6.2 - Guided Format
 
-| Question | Learner Task | Main Formula or Strategy |
-|---|---|---|
-| 1 | Find area of \(\triangle ADE\) from a figure. | Identify base and height from given dimensions. |
-| 2 | Isosceles trapezium with parallel sides \(40\text{ cm}\), \(20\text{ cm}\), non-parallel sides \(26\text{ cm}\). Find area. | Drop perpendiculars; use Pythagoras for height; then trapezium area. |
-| 3 | Triangle sides \(8\text{ cm}\), \(11\text{ cm}\), perimeter \(32\text{ cm}\). Find area. | Third side \(=13\text{ cm}\); use Heron's formula. |
-| 4 | Triangle side ratio \(3:5:7\), perimeter given. Find area. | Convert ratio into actual sides; use Heron's formula. |
-| 5 | Rhombus area \(128\text{ cm}^2\); one diagonal twice the other. Find shorter diagonal. | Area \(=\frac{1}{2}d_1d_2\). |
-| 6 | \(ABCD\) parallelogram, \(P,Q\) on \(AB\). Compare areas of \(\triangle PCD\) and \(\triangle QCD\). | Same base \(CD\), same height between parallel lines. |
-| 7 | \(O\) on diagonal \(PR\) of parallelogram \(PQRS\). Prove areas of \(\triangle PSO\) and \(\triangle PQO\) are equal. | Use equal-area halves and triangles on same base/height. |
-| 8 | Midpoints of a quadrilateral joined in order. Show formed parallelogram has half the area. | Use triangle midpoints and area decomposition. |
-| 9 | Median \(AD\), point \(P\) on median. Show \(\text{area}(\triangle ABP)=\text{area}(\triangle ACP)\). | Triangles \(BDP\) and \(CDP\) have equal bases and same height. |
-| 10 | Point \(P\) inside square; compare red and green triangular regions. | Use pairs of triangles with bases on opposite sides and complementary heights. |
-| 11 | Prove \(\text{Area}(\triangle BPQ)=\frac12\text{Area}(\triangle ABC)\). | Use midpoint and parallel-line area relations. |
+| Question | Learner Task                                                                                                                | Main Formula or Strategy                                                       |
+| -------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| 1        | Find area of \(\triangle ADE\) from a figure.                                                                               | Identify base and height from given dimensions.                                |
+| 2        | Isosceles trapezium with parallel sides \(40\text{ cm}\), \(20\text{ cm}\), non-parallel sides \(26\text{ cm}\). Find area. | Drop perpendiculars; use Pythagoras for height; then trapezium area.           |
+| 3        | Triangle sides \(8\text{ cm}\), \(11\text{ cm}\), perimeter \(32\text{ cm}\). Find area.                                    | Third side \(=13\text{ cm}\); use Heron's formula.                             |
+| 4        | Triangle side ratio \(3:5:7\), perimeter given. Find area.                                                                  | Convert ratio into actual sides; use Heron's formula.                          |
+| 5        | Rhombus area \(128\text{ cm}^2\); one diagonal twice the other. Find shorter diagonal.                                      | Area \(=\frac{1}{2}d_1d_2\).                                                   |
+| 6        | \(ABCD\) parallelogram, \(P,Q\) on \(AB\). Compare areas of \(\triangle PCD\) and \(\triangle QCD\).                        | Same base \(CD\), same height between parallel lines.                          |
+| 7        | \(O\) on diagonal \(PR\) of parallelogram \(PQRS\). Prove areas of \(\triangle PSO\) and \(\triangle PQO\) are equal.       | Use equal-area halves and triangles on same base/height.                       |
+| 8        | Midpoints of a quadrilateral joined in order. Show formed parallelogram has half the area.                                  | Use triangle midpoints and area decomposition.                                 |
+| 9        | Median \(AD\), point \(P\) on median. Show \(\text{area}(\triangle ABP)=\text{area}(\triangle ACP)\).                       | Triangles \(BDP\) and \(CDP\) have equal bases and same height.                |
+| 10       | Point \(P\) inside square; compare red and green triangular regions.                                                        | Use pairs of triangles with bases on opposite sides and complementary heights. |
+| 11       | Prove \(\text{Area}(\triangle BPQ)=\frac12\text{Area}(\triangle ABC)\).                                                     | Use midpoint and parallel-line area relations.                                 |
 
 ### Worked Solution: Exercise 6.2, Question 2
 
@@ -1712,9 +1713,9 @@ $$
 
 ### Arc Length and Sector Area Compared
 
-| Quantity | Formula |
-|---|---|
-| Arc length | \(l=2\pi r\times \frac{\theta}{360}\) |
+| Quantity    | Formula                                |
+| ----------- | -------------------------------------- |
+| Arc length  | \(l=2\pi r\times \frac{\theta}{360}\)  |
 | Sector area | \(A=\pi r^2\times \frac{\theta}{360}\) |
 
 Both use the same fraction:
@@ -1750,18 +1751,18 @@ $$
 \pi\approx \frac{22}{7}
 $$
 
-| Question | Learner Task | Main Formula or Strategy |
-|---|---|---|
-| 1 | Sector radius \(7\text{ cm}\), angle \(60^\circ\). Find area. | \(A=\pi r^2\frac{\theta}{360}\). |
-| 2 | Find area of quadrant when circumference is \(44\text{ cm}\). | Find radius first using \(C=2\pi r\), then quadrant area. |
-| 3 | Minute hand length \(7\text{ cm}\); area swept in \(10\) minutes. | \(10\) minutes is \(60^\circ\), one-sixth of a full circle. |
-| 4 | Chord radius \(10\text{ cm}\), angle \(90^\circ\). Find minor and major sector areas. | Use sector area for \(90^\circ\) and \(270^\circ\). |
-| 5 | Radius \(15\text{ cm}\), chord subtends \(60^\circ\). Find minor and major segments. | Minor segment \(=\) sector \(-\) equilateral triangle. |
-| 6 | Two wipers length \(28\text{ cm}\), each sweeps \(120^\circ\). Find total cleaned area. | Twice the sector area. |
-| 7 | Radius \(r\), angle \(60^\circ\). Prove minor segment formula. | Sector of \(60^\circ\) minus equilateral triangle of side \(r\). |
-| 8 | Equilateral triangle inscribed in circle radius \(r\). Ratio of triangle area to circle area. | Use side of inscribed equilateral triangle or split into 3 triangles. |
-| 9 | Square inscribed in circle radius \(r\). Ratio of square area to circle area. | Diagonal of square is \(2r\). |
-| 10 | Hexagon inscribed in circle radius \(r\). Ratio of hexagon area to circle area. | Split into 6 equilateral triangles of side \(r\). |
+| Question | Learner Task                                                                                  | Main Formula or Strategy                                              |
+| -------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| 1        | Sector radius \(7\text{ cm}\), angle \(60^\circ\). Find area.                                 | \(A=\pi r^2\frac{\theta}{360}\).                                      |
+| 2        | Find area of quadrant when circumference is \(44\text{ cm}\).                                 | Find radius first using \(C=2\pi r\), then quadrant area.             |
+| 3        | Minute hand length \(7\text{ cm}\); area swept in \(10\) minutes.                             | \(10\) minutes is \(60^\circ\), one-sixth of a full circle.           |
+| 4        | Chord radius \(10\text{ cm}\), angle \(90^\circ\). Find minor and major sector areas.         | Use sector area for \(90^\circ\) and \(270^\circ\).                   |
+| 5        | Radius \(15\text{ cm}\), chord subtends \(60^\circ\). Find minor and major segments.          | Minor segment \(=\) sector \(-\) equilateral triangle.                |
+| 6        | Two wipers length \(28\text{ cm}\), each sweeps \(120^\circ\). Find total cleaned area.       | Twice the sector area.                                                |
+| 7        | Radius \(r\), angle \(60^\circ\). Prove minor segment formula.                                | Sector of \(60^\circ\) minus equilateral triangle of side \(r\).      |
+| 8        | Equilateral triangle inscribed in circle radius \(r\). Ratio of triangle area to circle area. | Use side of inscribed equilateral triangle or split into 3 triangles. |
+| 9        | Square inscribed in circle radius \(r\). Ratio of square area to circle area.                 | Diagonal of square is \(2r\).                                         |
+| 10       | Hexagon inscribed in circle radius \(r\). Ratio of hexagon area to circle area.               | Split into 6 equilateral triangles of side \(r\).                     |
 
 ### Worked Solution: Exercise 6.3, Question 1
 
@@ -1881,40 +1882,40 @@ $$
 
 ### A. Algebra and Area Models
 
-| Original Question | Skill Needed | Guide |
-|---|---|---|
-| 1 | Draw area models for \((a+b)(a-b)=a^2-b^2\) and \((a+b+c)^2\). | Split rectangles/squares into smaller rectangles with labelled sides. |
-| 10 | Two rectangles have same area and same perimeter. Are they congruent? | Let sides be \(a,b\). Same sum and product force same side lengths, up to order. |
-| 15 | Compare areas of scaled rectangles and triangles. | If side lengths are multiplied by \(2\), area is multiplied by \(4\); by \(3\), area is multiplied by \(9\). |
+| Original Question | Skill Needed                                                          | Guide                                                                                                        |
+| ----------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| 1                 | Draw area models for \((a+b)(a-b)=a^2-b^2\) and \((a+b+c)^2\).        | Split rectangles/squares into smaller rectangles with labelled sides.                                        |
+| 10                | Two rectangles have same area and same perimeter. Are they congruent? | Let sides be \(a,b\). Same sum and product force same side lengths, up to order.                             |
+| 15                | Compare areas of scaled rectangles and triangles.                     | If side lengths are multiplied by \(2\), area is multiplied by \(4\); by \(3\), area is multiplied by \(9\). |
 
 ### B. Triangle and Quadrilateral Area
 
-| Original Question | Skill Needed | Guide |
-|---|---|---|
-| 2 | Isosceles triangle perimeter \(40\), equal sides \(15\). Find area. | Base \(=10\); height from Pythagoras; area \(=\frac12 bh\). |
-| 3 | Isosceles triangle base \(10\), area \(60\). Find equal sides. | Height \(=12\); half-base \(=5\); equal side \(=\sqrt{12^2+5^2}\). |
-| 4 | Right triangle area \(54\), one leg \(12\). Find perimeter. | Other leg from area; hypotenuse from Pythagoras. |
-| 5 | Triangle sides ratio \(2:3:4\), perimeter \(45\). Find area. | Sides \(10,15,20\); use Heron's formula. |
-| 6 | Triangle sides \(7,24,25\). Find area two ways. | Right triangle area and Heron's formula. |
-| 11-13 | Prove trapezium area formula in different ways. | Use parallelogram construction or split into triangles. |
-| 14 | Area of kite is half product of diagonals. | Diagonals split kite into right/paired triangles. |
-| 20 | Equal areas in triangles with trisection points. | Use same height and proportional bases. |
-| 26 | Rectangle with triangles marked \(A,B,C\). Find area relation. | Use algebraic relations between triangle areas and shared heights. |
+| Original Question | Skill Needed                                                        | Guide                                                              |
+| ----------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| 2                 | Isosceles triangle perimeter \(40\), equal sides \(15\). Find area. | Base \(=10\); height from Pythagoras; area \(=\frac12 bh\).        |
+| 3                 | Isosceles triangle base \(10\), area \(60\). Find equal sides.      | Height \(=12\); half-base \(=5\); equal side \(=\sqrt{12^2+5^2}\). |
+| 4                 | Right triangle area \(54\), one leg \(12\). Find perimeter.         | Other leg from area; hypotenuse from Pythagoras.                   |
+| 5                 | Triangle sides ratio \(2:3:4\), perimeter \(45\). Find area.        | Sides \(10,15,20\); use Heron's formula.                           |
+| 6                 | Triangle sides \(7,24,25\). Find area two ways.                     | Right triangle area and Heron's formula.                           |
+| 11-13             | Prove trapezium area formula in different ways.                     | Use parallelogram construction or split into triangles.            |
+| 14                | Area of kite is half product of diagonals.                          | Diagonals split kite into right/paired triangles.                  |
+| 20                | Equal areas in triangles with trisection points.                    | Use same height and proportional bases.                            |
+| 26                | Rectangle with triangles marked \(A,B,C\). Find area relation.      | Use algebraic relations between triangle areas and shared heights. |
 
 ### C. Circle Perimeter and Area
 
-| Original Question | Skill Needed | Guide |
-|---|---|---|
-| 7 | Bicycle wheel diameter \(60\text{ cm}\), 100 rotations. | Distance \(=100\times \pi d\). |
-| 8 | Quadrant area from circumference \(66\text{ cm}\). | Find radius, then one-fourth circle area. |
-| 9 | Car wheel radius \(28\text{ cm}\), one turn and \(1\text{ km}\). | One turn covers circumference \(2\pi r\). |
-| 16-18 | Areas covered by circles fitted in rectangles/squares. | Compare total circle area with containing rectangle area. |
-| 21 | Quarter circle and semicircles create equal shaded areas. | Express each shaded area as combinations of same sectors/triangles. |
-| 22 | Four semicircles inside square form four-petalled flower. | Use symmetry and sector/segment addition. |
-| 23 | Annular region from chord tangent to inner circle. | Use right triangle relation between radii and half-chord. |
-| 24 | Semicircles on right triangle sides. | Area relation follows from Pythagoras. |
-| 25 | Two circles through each other's centres. | Use sector areas minus equilateral triangles. |
-| 27 | Equal shaded regions made from quarter circle, semicircle, triangle. | Decompose both shaded regions into common pieces. |
+| Original Question | Skill Needed                                                         | Guide                                                               |
+| ----------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| 7                 | Bicycle wheel diameter \(60\text{ cm}\), 100 rotations.              | Distance \(=100\times \pi d\).                                      |
+| 8                 | Quadrant area from circumference \(66\text{ cm}\).                   | Find radius, then one-fourth circle area.                           |
+| 9                 | Car wheel radius \(28\text{ cm}\), one turn and \(1\text{ km}\).     | One turn covers circumference \(2\pi r\).                           |
+| 16-18             | Areas covered by circles fitted in rectangles/squares.               | Compare total circle area with containing rectangle area.           |
+| 21                | Quarter circle and semicircles create equal shaded areas.            | Express each shaded area as combinations of same sectors/triangles. |
+| 22                | Four semicircles inside square form four-petalled flower.            | Use symmetry and sector/segment addition.                           |
+| 23                | Annular region from chord tangent to inner circle.                   | Use right triangle relation between radii and half-chord.           |
+| 24                | Semicircles on right triangle sides.                                 | Area relation follows from Pythagoras.                              |
+| 25                | Two circles through each other's centres.                            | Use sector areas minus equilateral triangles.                       |
+| 27                | Equal shaded regions made from quarter circle, semicircle, triangle. | Decompose both shaded regions into common pieces.                   |
 
 ---
 
@@ -2254,34 +2255,34 @@ $$
 
 ## Common Mistakes and Corrections
 
-| Mistake | Why It Is Wrong | Correct Thinking |
-|---|---|---|
-| Using \(2\pi r\) for area | \(2\pi r\) is circumference, not area. | Area of circle is \(\pi r^2\). |
-| Using \(\pi r^2\) for circumference | \(\pi r^2\) measures square units, not length units. | Circumference is \(2\pi r\). |
-| Treating \(22/7\) as exactly \(\pi\) | \(\pi\) is irrational. | Write \(\pi\approx 22/7\), not equality. |
-| Forgetting the \(\theta/360\) factor | Arc/sector is only part of a circle. | Multiply full circumference or area by \(\theta/360\). |
-| Using slant side as height | Height must be perpendicular. | Always locate the perpendicular height. |
-| Using Heron's formula without checking sides | Side lengths must form a valid triangle. | Check triangle inequality if needed. |
-| Forgetting square units for area | Area counts unit squares. | Use \(\text{cm}^2\), \(\text{m}^2\), etc. |
-| Confusing sector and segment | Sector uses two radii and arc; segment uses chord and arc. | Segment area often equals sector area minus triangle area. |
-| Assuming side lengths determine parallelogram area | Angle can change while side lengths stay fixed. | Need height or an equivalent measurement. |
-| Applying Brahmagupta to any quadrilateral | It applies to cyclic quadrilaterals. | Confirm cyclic condition first. |
+| Mistake                                            | Why It Is Wrong                                            | Correct Thinking                                           |
+| -------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------- |
+| Using \(2\pi r\) for area                          | \(2\pi r\) is circumference, not area.                     | Area of circle is \(\pi r^2\).                             |
+| Using \(\pi r^2\) for circumference                | \(\pi r^2\) measures square units, not length units.       | Circumference is \(2\pi r\).                               |
+| Treating \(22/7\) as exactly \(\pi\)               | \(\pi\) is irrational.                                     | Write \(\pi\approx 22/7\), not equality.                   |
+| Forgetting the \(\theta/360\) factor               | Arc/sector is only part of a circle.                       | Multiply full circumference or area by \(\theta/360\).     |
+| Using slant side as height                         | Height must be perpendicular.                              | Always locate the perpendicular height.                    |
+| Using Heron's formula without checking sides       | Side lengths must form a valid triangle.                   | Check triangle inequality if needed.                       |
+| Forgetting square units for area                   | Area counts unit squares.                                  | Use \(\text{cm}^2\), \(\text{m}^2\), etc.                  |
+| Confusing sector and segment                       | Sector uses two radii and arc; segment uses chord and arc. | Segment area often equals sector area minus triangle area. |
+| Assuming side lengths determine parallelogram area | Angle can change while side lengths stay fixed.            | Need height or an equivalent measurement.                  |
+| Applying Brahmagupta to any quadrilateral          | It applies to cyclic quadrilaterals.                       | Confirm cyclic condition first.                            |
 
 ---
 
 ## Concept Map
 
-| Concept | Leads To |
-|---|---|
-| Perimeter | Circumference and arc length |
-| Fixed \(C/D\) ratio | Definition of \(\pi\) |
-| \(\pi\) | Circle circumference and circle area |
-| Fraction of full circle | Arc length and sector area |
-| Rectangle area | Parallelogram, triangle, trapezium, and area models |
-| Triangle area | Median equal-area theorem and Heron's formula |
-| Heron's formula | Brahmagupta's formula as a generalisation |
-| Circle area | Sector and segment area |
-| Pythagoras | Heights, diagonals, and many area calculations |
+| Concept                 | Leads To                                            |
+| ----------------------- | --------------------------------------------------- |
+| Perimeter               | Circumference and arc length                        |
+| Fixed \(C/D\) ratio     | Definition of \(\pi\)                               |
+| \(\pi\)                 | Circle circumference and circle area                |
+| Fraction of full circle | Arc length and sector area                          |
+| Rectangle area          | Parallelogram, triangle, trapezium, and area models |
+| Triangle area           | Median equal-area theorem and Heron's formula       |
+| Heron's formula         | Brahmagupta's formula as a generalisation           |
+| Circle area             | Sector and segment area                             |
+| Pythagoras              | Heights, diagonals, and many area calculations      |
 
 ---
 
@@ -2506,4 +2507,4 @@ The most common success habit is to draw a clean diagram, mark the radius, heigh
 
 ---
 
-*Source: NCERT Class 9 - Maths, Chapter 6 raw file. Learner-facing version manually rewritten from the extracted chapter content about perimeter and area.*
+_Source: NCERT Class 9 - Maths, Chapter 6 raw file. Learner-facing version manually rewritten from the extracted chapter content about perimeter and area._

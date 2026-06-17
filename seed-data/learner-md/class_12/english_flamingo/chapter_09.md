@@ -2,14 +2,14 @@
 
 ## Chapter Identity
 
-| Item | Details |
-| --- | --- |
-| Class | 12 |
-| Subject | English Flamingo |
-| Text Type | Poem |
-| Poet | Kamala Das |
-| Core Skill | Understanding theme, imagery, tone, emotional contrast, and poetic technique |
-| Main Idea | The poem captures a daughter's sudden awareness of her mother's ageing and her own fear of separation. |
+| Item       | Details                                                                                                |
+| ---------- | ------------------------------------------------------------------------------------------------------ |
+| Class      | 12                                                                                                     |
+| Subject    | English Flamingo                                                                                       |
+| Text Type  | Poem                                                                                                   |
+| Poet       | Kamala Das                                                                                             |
+| Core Skill | Understanding theme, imagery, tone, emotional contrast, and poetic technique                           |
+| Main Idea  | The poem captures a daughter's sudden awareness of her mother's ageing and her own fear of separation. |
 
 ## 1. Big Picture
 
@@ -21,14 +21,14 @@ The poem is powerful because nothing dramatic happens outwardly. The real drama 
 
 ## 2. Situation of the Poem
 
-| Element | Explanation |
-| --- | --- |
-| Speaker | A daughter. |
-| Main figure observed | Her ageing mother. |
-| Setting | A car journey to Cochin airport and the moment of parting. |
-| Central emotion | Fear of losing the mother. |
-| Outer action | The daughter looks at her mother, looks outside, reaches airport, says goodbye. |
-| Inner action | She confronts ageing and mortality but hides her fear. |
+| Element              | Explanation                                                                     |
+| -------------------- | ------------------------------------------------------------------------------- |
+| Speaker              | A daughter.                                                                     |
+| Main figure observed | Her ageing mother.                                                              |
+| Setting              | A car journey to Cochin airport and the moment of parting.                      |
+| Central emotion      | Fear of losing the mother.                                                      |
+| Outer action         | The daughter looks at her mother, looks outside, reaches airport, says goodbye. |
+| Inner action         | She confronts ageing and mortality but hides her fear.                          |
 
 ## 3. About Kamala Das
 
@@ -79,25 +79,25 @@ Even though the speaker is an adult, the sight of her ageing mother brings back 
 
 ## 7. Important Images
 
-| Image | Literal Meaning | Deeper Meaning |
-| --- | --- | --- |
-| Mother's pale, tired face | The mother looks old and weak. | Ageing, decay, nearness to death. |
-| Young trees outside | Trees appear to rush past the moving car. | Youth, energy, life, movement. |
-| Children coming out | Children are full of liveliness. | Childhood, vitality, renewal. |
-| Late winter moon | A dim, pale moon near the end of winter. | Fading beauty, weakness, old age. |
-| Repeated smile | The daughter smiles at parting. | Attempt to hide fear and reassure both mother and self. |
+| Image                     | Literal Meaning                           | Deeper Meaning                                          |
+| ------------------------- | ----------------------------------------- | ------------------------------------------------------- |
+| Mother's pale, tired face | The mother looks old and weak.            | Ageing, decay, nearness to death.                       |
+| Young trees outside       | Trees appear to rush past the moving car. | Youth, energy, life, movement.                          |
+| Children coming out       | Children are full of liveliness.          | Childhood, vitality, renewal.                           |
+| Late winter moon          | A dim, pale moon near the end of winter.  | Fading beauty, weakness, old age.                       |
+| Repeated smile            | The daughter smiles at parting.           | Attempt to hide fear and reassure both mother and self. |
 
 ## 8. Contrast in the Poem
 
 The poem uses contrast to intensify emotion.
 
-| Inside the Car/Airport | Outside the Window |
-| --- | --- |
-| Ageing mother | Young trees |
-| Stillness | Movement |
-| Frailty | Energy |
-| Fear of death | Signs of life |
-| Emotional heaviness | Childlike liveliness |
+| Inside the Car/Airport | Outside the Window   |
+| ---------------------- | -------------------- |
+| Ageing mother          | Young trees          |
+| Stillness              | Movement             |
+| Frailty                | Energy               |
+| Fear of death          | Signs of life        |
+| Emotional heaviness    | Childlike liveliness |
 
 The contrast shows that life continues with energy outside, while the speaker is privately facing the sorrow of ageing and possible loss.
 
@@ -115,14 +115,14 @@ The speaker does not use loud grief. The poem's emotion is controlled, which mak
 
 ## 10. Poetic Devices
 
-| Device | Example/Reference | Effect |
-| --- | --- | --- |
-| Simile | Mother's face compared with death-like pallor; later compared with a dim winter moon. | Emphasises old age, weakness, and fading vitality. |
-| Personification | Trees seem to run as the car moves. | Creates an image of youth and energy. |
-| Imagery | Visual images of mother, trees, children, airport, moon. | Makes emotional contrast visible. |
-| Repetition | The speaker repeats her smile at the end. | Shows forced cheerfulness and hidden fear. |
-| Contrast | Old mother vs young trees and children. | Highlights ageing against life and movement. |
-| Single-sentence structure | The poem flows as one continuous sentence. | Suggests one continuous stream of thought and emotion. |
+| Device                    | Example/Reference                                                                     | Effect                                                 |
+| ------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| Simile                    | Mother's face compared with death-like pallor; later compared with a dim winter moon. | Emphasises old age, weakness, and fading vitality.     |
+| Personification           | Trees seem to run as the car moves.                                                   | Creates an image of youth and energy.                  |
+| Imagery                   | Visual images of mother, trees, children, airport, moon.                              | Makes emotional contrast visible.                      |
+| Repetition                | The speaker repeats her smile at the end.                                             | Shows forced cheerfulness and hidden fear.             |
+| Contrast                  | Old mother vs young trees and children.                                               | Highlights ageing against life and movement.           |
+| Single-sentence structure | The poem flows as one continuous sentence.                                            | Suggests one continuous stream of thought and emotion. |
 
 ## 11. The Mother's Description
 
@@ -140,9 +140,9 @@ The mother does not speak in the poem. Her silence makes the daughter's observat
 
 The speaker has two opposite impulses:
 
-| Impulse | Explanation |
-| --- | --- |
-| To face reality | She sees that her mother is old and weak. |
+| Impulse          | Explanation                                      |
+| ---------------- | ------------------------------------------------ |
+| To face reality  | She sees that her mother is old and weak.        |
 | To avoid reality | She turns away, looks outside, and later smiles. |
 
 This conflict is realistic. Many people avoid directly expressing fear when a loved one appears vulnerable.
@@ -189,23 +189,23 @@ The poet's casual words and repeated smile show her attempt to hide fear and pai
 
 ## 16. Vocabulary and Expression Notes
 
-| Expression | Meaning in Context |
-| --- | --- |
-| Ashen | Pale and grey, suggesting weakness or lifelessness. |
-| Doze | Sleep lightly. |
-| Wan | Pale, weak, colourless. |
-| Familiar ache | Old emotional fear returning again. |
-| Sprinting trees | Trees appearing to run because the car is moving. |
+| Expression      | Meaning in Context                                  |
+| --------------- | --------------------------------------------------- |
+| Ashen           | Pale and grey, suggesting weakness or lifelessness. |
+| Doze            | Sleep lightly.                                      |
+| Wan             | Pale, weak, colourless.                             |
+| Familiar ache   | Old emotional fear returning again.                 |
+| Sprinting trees | Trees appearing to run because the car is moving.   |
 
 ## 17. Common Mistakes and Corrections
 
-| Mistake | Correction |
-| --- | --- |
-| Saying the poem is only about a journey | The journey is the setting; the real subject is ageing and fear of loss. |
-| Treating the smile as simple happiness | The smile is forced and hides pain. |
-| Ignoring the outside images | Trees and children create contrast with the mother's old age. |
-| Saying the mother is already dead | The mother is alive, but her appearance reminds the speaker of mortality. |
-| Over-explaining the poem as dramatic | Its power lies in quiet observation and restrained emotion. |
+| Mistake                                 | Correction                                                                |
+| --------------------------------------- | ------------------------------------------------------------------------- |
+| Saying the poem is only about a journey | The journey is the setting; the real subject is ageing and fear of loss.  |
+| Treating the smile as simple happiness  | The smile is forced and hides pain.                                       |
+| Ignoring the outside images             | Trees and children create contrast with the mother's old age.             |
+| Saying the mother is already dead       | The mother is alive, but her appearance reminds the speaker of mortality. |
+| Over-explaining the poem as dramatic    | Its power lies in quiet observation and restrained emotion.               |
 
 ## 18. Exam Answer Frame
 
@@ -235,16 +235,16 @@ The poem presents a daughter's painful awareness of her mother's ageing during a
 
 ## 20. Quick Revision Sheet
 
-| Point | Recall |
-| --- | --- |
-| Main theme | Ageing, mortality, fear of losing mother. |
-| Speaker | Daughter. |
-| Setting | Car journey and airport parting. |
-| Mother's image | Pale, weak, ageing. |
+| Point          | Recall                                       |
+| -------------- | -------------------------------------------- |
+| Main theme     | Ageing, mortality, fear of losing mother.    |
+| Speaker        | Daughter.                                    |
+| Setting        | Car journey and airport parting.             |
+| Mother's image | Pale, weak, ageing.                          |
 | Outside images | Trees and children represent life and youth. |
-| Key contrast | Old age vs youth. |
-| Final smile | Forced reassurance hiding pain. |
-| Tone | Tender, sad, restrained. |
+| Key contrast   | Old age vs youth.                            |
+| Final smile    | Forced reassurance hiding pain.              |
+| Tone           | Tender, sad, restrained.                     |
 
 ## 21. Final Learning Takeaway
 

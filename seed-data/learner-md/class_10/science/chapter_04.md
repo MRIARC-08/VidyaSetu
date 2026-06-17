@@ -1,39 +1,40 @@
 # Chapter 4: Carbon and its Compounds
+
 ### NCERT Class 10 - Science
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 10 |
-| **Subject** | Science |
-| **Chapter** | 4 |
-| **Textbook Pages** | 1-21 |
-| **Core Theme** | Why carbon forms a huge number of stable compounds, how covalent bonding works, how organic compounds are named and classified, and how ethanol, ethanoic acid, soaps, and detergents behave. |
-| **Main Skills** | Drawing simple structures, identifying saturated/unsaturated compounds, naming carbon compounds, writing reactions, explaining homologous series, and applying micelle-based cleaning action. |
+| Detail             | Learner-Friendly Information                                                                                                                                                                  |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Class**          | 10                                                                                                                                                                                            |
+| **Subject**        | Science                                                                                                                                                                                       |
+| **Chapter**        | 4                                                                                                                                                                                             |
+| **Textbook Pages** | 1-21                                                                                                                                                                                          |
+| **Core Theme**     | Why carbon forms a huge number of stable compounds, how covalent bonding works, how organic compounds are named and classified, and how ethanol, ethanoic acid, soaps, and detergents behave. |
+| **Main Skills**    | Drawing simple structures, identifying saturated/unsaturated compounds, naming carbon compounds, writing reactions, explaining homologous series, and applying micelle-based cleaning action. |
 
 ---
 
 ## Section Structure
 
-| Unit | Topic | Main Learning Focus |
-|---|---|---|
-| **4A** | Carbon in Daily Life | Carbon-based materials, living systems, fuels, food, clothes, medicines, books, and household substances. |
-| **4B** | Covalent Bonding | Electron sharing, single/double/triple bonds, and why carbon compounds are poor conductors. |
-| **4C** | Carbon Allotropes | Diamond, graphite, and fullerenes. |
-| **4D** | Versatile Nature of Carbon | Tetravalency and catenation. |
-| **4E** | Hydrocarbons | Saturated and unsaturated compounds, alkanes, alkenes, alkynes. |
-| **4F** | Chains, Branches, Rings | Structural isomerism and cyclic compounds. |
-| **4G** | Functional Groups | Halo, alcohol, aldehyde, ketone, and carboxylic acid groups. |
-| **4H** | Homologous Series | Similar chemical properties and gradual physical-property changes. |
-| **4I** | Nomenclature | Naming basic carbon compounds using prefixes and suffixes. |
-| **4J** | Chemical Properties | Combustion, oxidation, addition, and substitution reactions. |
-| **4K** | Ethanol | Properties, uses, health effects, sodium reaction, and dehydration. |
-| **4L** | Ethanoic Acid | Vinegar, weak acidity, esterification, saponification, and carbonate reactions. |
-| **4M** | Soaps and Detergents | Micelles, cleaning action, hard water, scum, and detergents. |
-| **4N** | Solved Questions | In-text and exercise-level answers. |
+| Unit   | Topic                      | Main Learning Focus                                                                                       |
+| ------ | -------------------------- | --------------------------------------------------------------------------------------------------------- |
+| **4A** | Carbon in Daily Life       | Carbon-based materials, living systems, fuels, food, clothes, medicines, books, and household substances. |
+| **4B** | Covalent Bonding           | Electron sharing, single/double/triple bonds, and why carbon compounds are poor conductors.               |
+| **4C** | Carbon Allotropes          | Diamond, graphite, and fullerenes.                                                                        |
+| **4D** | Versatile Nature of Carbon | Tetravalency and catenation.                                                                              |
+| **4E** | Hydrocarbons               | Saturated and unsaturated compounds, alkanes, alkenes, alkynes.                                           |
+| **4F** | Chains, Branches, Rings    | Structural isomerism and cyclic compounds.                                                                |
+| **4G** | Functional Groups          | Halo, alcohol, aldehyde, ketone, and carboxylic acid groups.                                              |
+| **4H** | Homologous Series          | Similar chemical properties and gradual physical-property changes.                                        |
+| **4I** | Nomenclature               | Naming basic carbon compounds using prefixes and suffixes.                                                |
+| **4J** | Chemical Properties        | Combustion, oxidation, addition, and substitution reactions.                                              |
+| **4K** | Ethanol                    | Properties, uses, health effects, sodium reaction, and dehydration.                                       |
+| **4L** | Ethanoic Acid              | Vinegar, weak acidity, esterification, saponification, and carbonate reactions.                           |
+| **4M** | Soaps and Detergents       | Micelles, cleaning action, hard water, scum, and detergents.                                              |
+| **4N** | Solved Questions           | In-text and exercise-level answers.                                                                       |
 
 ---
 
@@ -41,50 +42,50 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Explain covalent bonding** | Describe how atoms share electrons to form molecules such as `H2`, `O2`, `N2`, `CH4`, and `CH3Cl`. |
-| **Explain carbon's versatility** | Use tetravalency and catenation to explain the huge number of carbon compounds. |
-| **Classify hydrocarbons** | Tell whether a compound is saturated or unsaturated and classify it as alkane, alkene, or alkyne. |
-| **Draw basic structures** | Draw simple structures for methane, ethane, ethene, ethyne, cyclopentane, ethanoic acid, propanone, and related compounds. |
-| **Use homologous series** | Identify members of a series that differ by `-CH2-` and show similar chemical properties. |
-| **Name simple compounds** | Apply basic naming rules using prefixes/suffixes for haloalkanes, alcohols, aldehydes, ketones, carboxylic acids, alkenes, and alkynes. |
-| **Write chemical reactions** | Balance combustion reactions and write reactions of ethanol and ethanoic acid. |
-| **Explain soap action** | Describe hydrophilic and hydrophobic ends, micelle formation, emulsification, scum, and detergent action in hard water. |
+| Outcome                          | You Should Be Able To...                                                                                                                |
+| -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| **Explain covalent bonding**     | Describe how atoms share electrons to form molecules such as `H2`, `O2`, `N2`, `CH4`, and `CH3Cl`.                                      |
+| **Explain carbon's versatility** | Use tetravalency and catenation to explain the huge number of carbon compounds.                                                         |
+| **Classify hydrocarbons**        | Tell whether a compound is saturated or unsaturated and classify it as alkane, alkene, or alkyne.                                       |
+| **Draw basic structures**        | Draw simple structures for methane, ethane, ethene, ethyne, cyclopentane, ethanoic acid, propanone, and related compounds.              |
+| **Use homologous series**        | Identify members of a series that differ by `-CH2-` and show similar chemical properties.                                               |
+| **Name simple compounds**        | Apply basic naming rules using prefixes/suffixes for haloalkanes, alcohols, aldehydes, ketones, carboxylic acids, alkenes, and alkynes. |
+| **Write chemical reactions**     | Balance combustion reactions and write reactions of ethanol and ethanoic acid.                                                          |
+| **Explain soap action**          | Describe hydrophilic and hydrophobic ends, micelle formation, emulsification, scum, and detergent action in hard water.                 |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Covalent bond** | Bond formed by sharing of electron pair(s) between atoms. |
-| **Single bond** | One shared pair of electrons between two atoms. |
-| **Double bond** | Two shared pairs of electrons between two atoms. |
-| **Triple bond** | Three shared pairs of electrons between two atoms. |
-| **Tetravalency** | Carbon's valency of four; carbon can form four covalent bonds. |
-| **Catenation** | Ability of an element to form bonds with itself, making chains, branches, and rings. |
-| **Allotrope** | Different structural form of the same element. |
-| **Hydrocarbon** | Compound containing only carbon and hydrogen. |
-| **Saturated compound** | Carbon compound with only single bonds between carbon atoms. |
-| **Unsaturated compound** | Carbon compound with at least one carbon-carbon double or triple bond. |
-| **Alkane** | Saturated hydrocarbon with general formula `CnH2n+2`. |
-| **Alkene** | Unsaturated hydrocarbon with at least one double bond; general formula `CnH2n` for one double bond. |
-| **Alkyne** | Unsaturated hydrocarbon with at least one triple bond; general formula `CnH2n-2` for one triple bond. |
-| **Structural isomers** | Compounds with same molecular formula but different structures. |
-| **Heteroatom** | Atom other than carbon or hydrogen replacing hydrogen in a carbon chain, such as `Cl`, `Br`, `O`, `N`, or `S`. |
-| **Functional group** | Atom or group of atoms that gives a carbon compound its characteristic chemical properties. |
-| **Homologous series** | Family of organic compounds with same functional group, similar chemical properties, and successive members differing by `-CH2-`. |
-| **Combustion** | Burning in oxygen with release of heat and light. |
-| **Oxidising agent** | Substance that adds oxygen to another substance or removes hydrogen from it. |
-| **Addition reaction** | Reaction in which atoms add across a double/triple bond. |
-| **Substitution reaction** | Reaction in which one atom or group replaces another atom or group. |
-| **Esterification** | Reaction of alcohol with carboxylic acid to form ester and water. |
-| **Saponification** | Alkaline hydrolysis of ester; important in soap preparation. |
-| **Hydrophilic** | Water-attracting. |
-| **Hydrophobic** | Water-repelling or oil-attracting. |
-| **Micelle** | Cluster of soap/detergent molecules with hydrophobic tails inside and hydrophilic heads outside in water. |
-| **Scum** | Insoluble curdy solid formed when soap reacts with calcium/magnesium ions in hard water. |
+| Term                      | Meaning                                                                                                                           |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| **Covalent bond**         | Bond formed by sharing of electron pair(s) between atoms.                                                                         |
+| **Single bond**           | One shared pair of electrons between two atoms.                                                                                   |
+| **Double bond**           | Two shared pairs of electrons between two atoms.                                                                                  |
+| **Triple bond**           | Three shared pairs of electrons between two atoms.                                                                                |
+| **Tetravalency**          | Carbon's valency of four; carbon can form four covalent bonds.                                                                    |
+| **Catenation**            | Ability of an element to form bonds with itself, making chains, branches, and rings.                                              |
+| **Allotrope**             | Different structural form of the same element.                                                                                    |
+| **Hydrocarbon**           | Compound containing only carbon and hydrogen.                                                                                     |
+| **Saturated compound**    | Carbon compound with only single bonds between carbon atoms.                                                                      |
+| **Unsaturated compound**  | Carbon compound with at least one carbon-carbon double or triple bond.                                                            |
+| **Alkane**                | Saturated hydrocarbon with general formula `CnH2n+2`.                                                                             |
+| **Alkene**                | Unsaturated hydrocarbon with at least one double bond; general formula `CnH2n` for one double bond.                               |
+| **Alkyne**                | Unsaturated hydrocarbon with at least one triple bond; general formula `CnH2n-2` for one triple bond.                             |
+| **Structural isomers**    | Compounds with same molecular formula but different structures.                                                                   |
+| **Heteroatom**            | Atom other than carbon or hydrogen replacing hydrogen in a carbon chain, such as `Cl`, `Br`, `O`, `N`, or `S`.                    |
+| **Functional group**      | Atom or group of atoms that gives a carbon compound its characteristic chemical properties.                                       |
+| **Homologous series**     | Family of organic compounds with same functional group, similar chemical properties, and successive members differing by `-CH2-`. |
+| **Combustion**            | Burning in oxygen with release of heat and light.                                                                                 |
+| **Oxidising agent**       | Substance that adds oxygen to another substance or removes hydrogen from it.                                                      |
+| **Addition reaction**     | Reaction in which atoms add across a double/triple bond.                                                                          |
+| **Substitution reaction** | Reaction in which one atom or group replaces another atom or group.                                                               |
+| **Esterification**        | Reaction of alcohol with carboxylic acid to form ester and water.                                                                 |
+| **Saponification**        | Alkaline hydrolysis of ester; important in soap preparation.                                                                      |
+| **Hydrophilic**           | Water-attracting.                                                                                                                 |
+| **Hydrophobic**           | Water-repelling or oil-attracting.                                                                                                |
+| **Micelle**               | Cluster of soap/detergent molecules with hydrophobic tails inside and hydrophilic heads outside in water.                         |
+| **Scum**                  | Insoluble curdy solid formed when soap reacts with calcium/magnesium ions in hard water.                                          |
 
 ---
 
@@ -111,15 +112,15 @@ Soap cleans because each soap molecule has two different ends: one attaches to w
 
 ## Where We Meet Carbon Compounds
 
-| Area | Examples of Carbon Compounds |
-|---|---|
-| Food | Sugar, starch, proteins, oils, fats, vitamins. |
-| Clothes | Cotton, wool, silk, synthetic fibres. |
-| Fuels | Wood, coal, petroleum, LPG, CNG, petrol, diesel, ethanol. |
-| Medicine | Alcohol-based tinctures, cough syrups, many drug molecules. |
-| Books and paper | Cellulose-based material. |
-| Living organisms | Carbohydrates, fats, proteins, DNA, enzymes. |
-| Household products | Soap, detergent, plastics, perfumes, vinegar. |
+| Area               | Examples of Carbon Compounds                                |
+| ------------------ | ----------------------------------------------------------- |
+| Food               | Sugar, starch, proteins, oils, fats, vitamins.              |
+| Clothes            | Cotton, wool, silk, synthetic fibres.                       |
+| Fuels              | Wood, coal, petroleum, LPG, CNG, petrol, diesel, ethanol.   |
+| Medicine           | Alcohol-based tinctures, cough syrups, many drug molecules. |
+| Books and paper    | Cellulose-based material.                                   |
+| Living organisms   | Carbohydrates, fats, proteins, DNA, enzymes.                |
+| Household products | Soap, detergent, plastics, perfumes, vinegar.               |
 
 ## Carbon in Nature
 
@@ -127,10 +128,10 @@ Carbon is present in small amount in the earth's crust and atmosphere, but its i
 
 Approximate facts from the chapter:
 
-| Place | Carbon Form |
-|---|---|
+| Place         | Carbon Form                                                                                         |
+| ------------- | --------------------------------------------------------------------------------------------------- |
 | Earth's crust | Around 0.02 percent carbon in minerals such as carbonates, hydrogencarbonates, coal, and petroleum. |
-| Atmosphere | Around 0.03 percent carbon dioxide. |
+| Atmosphere    | Around 0.03 percent carbon dioxide.                                                                 |
 
 ## Burning Test for Carbon
 
@@ -190,11 +191,11 @@ In a covalent bond, shared electrons are counted in the outer shells of both bon
 
 ## Covalent Compounds: General Properties
 
-| Property | Explanation |
-|---|---|
-| Low melting/boiling points | Intermolecular forces are usually weak. |
-| Poor electrical conductivity | No free ions are formed by bonding. |
-| Molecular nature | Many covalent compounds exist as molecules. |
+| Property                     | Explanation                                         |
+| ---------------------------- | --------------------------------------------------- |
+| Low melting/boiling points   | Intermolecular forces are usually weak.             |
+| Poor electrical conductivity | No free ions are formed by bonding.                 |
+| Molecular nature             | Many covalent compounds exist as molecules.         |
 | Strong bonds inside molecule | Atoms are strongly joined by shared electron pairs. |
 
 ---
@@ -373,11 +374,11 @@ It is called buckminsterfullerene because its structure resembles geodesic domes
 
 ## Allotrope Comparison
 
-| Allotrope | Bonding Arrangement | Important Property |
-|---|---|---|
-| Diamond | Each C bonded to 4 C atoms in 3D | Extremely hard |
-| Graphite | Each C bonded to 3 C atoms in layers | Conducts electricity and is slippery |
-| Fullerene | Cage-like carbon structure | Molecular form of carbon |
+| Allotrope | Bonding Arrangement                  | Important Property                   |
+| --------- | ------------------------------------ | ------------------------------------ |
+| Diamond   | Each C bonded to 4 C atoms in 3D     | Extremely hard                       |
+| Graphite  | Each C bonded to 3 C atoms in layers | Conducts electricity and is slippery |
+| Fullerene | Cage-like carbon structure           | Molecular form of carbon             |
 
 ---
 
@@ -521,12 +522,12 @@ Ethyne is an alkyne.
 
 ## Saturated vs Unsaturated
 
-| Feature | Saturated | Unsaturated |
-|---|---|---|
-| Carbon-carbon bond | Single only | At least one double or triple bond |
-| Reactivity | Less reactive | More reactive |
-| Hydrocarbon class | Alkane | Alkene or alkyne |
-| Example | Ethane, `C2H6` | Ethene, `C2H4`; ethyne, `C2H2` |
+| Feature            | Saturated      | Unsaturated                        |
+| ------------------ | -------------- | ---------------------------------- |
+| Carbon-carbon bond | Single only    | At least one double or triple bond |
+| Reactivity         | Less reactive  | More reactive                      |
+| Hydrocarbon class  | Alkane         | Alkene or alkyne                   |
+| Example            | Ethane, `C2H6` | Ethene, `C2H4`; ethyne, `C2H2`     |
 
 ---
 
@@ -544,14 +545,14 @@ $$
 
 Examples:
 
-| Number of Carbon Atoms | Name | Formula |
-|---:|---|---|
-| 1 | Methane | `CH4` |
-| 2 | Ethane | `C2H6` |
-| 3 | Propane | `C3H8` |
-| 4 | Butane | `C4H10` |
-| 5 | Pentane | `C5H12` |
-| 6 | Hexane | `C6H14` |
+| Number of Carbon Atoms | Name    | Formula |
+| ---------------------: | ------- | ------- |
+|                      1 | Methane | `CH4`   |
+|                      2 | Ethane  | `C2H6`  |
+|                      3 | Propane | `C3H8`  |
+|                      4 | Butane  | `C4H10` |
+|                      5 | Pentane | `C5H12` |
+|                      6 | Hexane  | `C6H14` |
 
 ## Alkenes
 
@@ -565,12 +566,12 @@ $$
 
 Examples:
 
-| Number of Carbon Atoms | Name | Formula |
-|---:|---|---|
-| 2 | Ethene | `C2H4` |
-| 3 | Propene | `C3H6` |
-| 4 | Butene | `C4H8` |
-| 5 | Pentene | `C5H10` |
+| Number of Carbon Atoms | Name    | Formula |
+| ---------------------: | ------- | ------- |
+|                      2 | Ethene  | `C2H4`  |
+|                      3 | Propene | `C3H6`  |
+|                      4 | Butene  | `C4H8`  |
+|                      5 | Pentene | `C5H10` |
 
 ## Alkynes
 
@@ -584,12 +585,12 @@ $$
 
 Examples:
 
-| Number of Carbon Atoms | Name | Formula |
-|---:|---|---|
-| 2 | Ethyne | `C2H2` |
-| 3 | Propyne | `C3H4` |
-| 4 | Butyne | `C4H6` |
-| 5 | Pentyne | `C5H8` |
+| Number of Carbon Atoms | Name    | Formula |
+| ---------------------: | ------- | ------- |
+|                      2 | Ethyne  | `C2H2`  |
+|                      3 | Propyne | `C3H4`  |
+|                      4 | Butyne  | `C4H6`  |
+|                      5 | Pentyne | `C5H8`  |
 
 ---
 
@@ -633,9 +634,9 @@ Structural isomers are compounds with the same molecular formula but different s
 
 Example:
 
-| Formula | Isomers |
-|---|---|
-| `C4H10` | Normal butane and isobutane |
+| Formula | Isomers                             |
+| ------- | ----------------------------------- |
+| `C4H10` | Normal butane and isobutane         |
 | `C5H12` | Three structural isomers of pentane |
 
 ## Rings
@@ -662,12 +663,12 @@ It is a ring compound with alternating double-bond character in school-level str
 
 ## Hydrocarbon Structure Types
 
-| Type | Example | Formula |
-|---|---|---|
-| Straight chain | Butane | `C4H10` |
-| Branched chain | Isobutane | `C4H10` |
+| Type           | Example     | Formula |
+| -------------- | ----------- | ------- |
+| Straight chain | Butane      | `C4H10` |
+| Branched chain | Isobutane   | `C4H10` |
 | Saturated ring | Cyclohexane | `C6H12` |
-| Aromatic ring | Benzene | `C6H6` |
+| Aromatic ring  | Benzene     | `C6H6`  |
 
 ---
 
@@ -691,13 +692,13 @@ Common heteroatoms include:
 
 ## Important Functional Groups
 
-| Class | Functional Group | Example Name |
-|---|---|---|
-| Haloalkane | `-Cl`, `-Br` | Chloropropane, bromopropane |
-| Alcohol | `-OH` | Ethanol |
-| Aldehyde | `-CHO` | Ethanal |
-| Ketone | `>C=O` inside chain | Propanone |
-| Carboxylic acid | `-COOH` | Ethanoic acid |
+| Class           | Functional Group    | Example Name                |
+| --------------- | ------------------- | --------------------------- |
+| Haloalkane      | `-Cl`, `-Br`        | Chloropropane, bromopropane |
+| Alcohol         | `-OH`               | Ethanol                     |
+| Aldehyde        | `-CHO`              | Ethanal                     |
+| Ketone          | `>C=O` inside chain | Propanone                   |
+| Carboxylic acid | `-COOH`             | Ethanoic acid               |
 
 ## Why Functional Groups Matter
 
@@ -725,11 +726,11 @@ A homologous series is a family of organic compounds with:
 ## Example: Alkanes
 
 | Compound | Formula |
-|---|---|
-| Methane | `CH4` |
-| Ethane | `C2H6` |
-| Propane | `C3H8` |
-| Butane | `C4H10` |
+| -------- | ------- |
+| Methane  | `CH4`   |
+| Ethane   | `C2H6`  |
+| Propane  | `C3H8`  |
+| Butane   | `C4H10` |
 
 Each successive member differs by:
 
@@ -745,12 +746,12 @@ $$
 
 ## Example: Alcohols
 
-| Alcohol | Formula |
-|---|---|
-| Methanol | `CH3OH` |
-| Ethanol | `C2H5OH` |
+| Alcohol  | Formula  |
+| -------- | -------- |
+| Methanol | `CH3OH`  |
+| Ethanol  | `C2H5OH` |
 | Propanol | `C3H7OH` |
-| Butanol | `C4H9OH` |
+| Butanol  | `C4H9OH` |
 
 All contain the `-OH` functional group, so they show similar chemical properties.
 
@@ -772,44 +773,44 @@ Chemical properties remain similar because the functional group remains the same
 ## Root Names by Carbon Number
 
 | Carbon Atoms | Root Name |
-|---:|---|
-| 1 | Meth- |
-| 2 | Eth- |
-| 3 | Prop- |
-| 4 | But- |
-| 5 | Pent- |
-| 6 | Hex- |
+| -----------: | --------- |
+|            1 | Meth-     |
+|            2 | Eth-      |
+|            3 | Prop-     |
+|            4 | But-      |
+|            5 | Pent-     |
+|            6 | Hex-      |
 
 ## Suffix for Bond Type
 
-| Bond Type | Ending |
-|---|---|
+| Bond Type         | Ending |
+| ----------------- | ------ |
 | Single bonds only | `-ane` |
-| One double bond | `-ene` |
-| One triple bond | `-yne` |
+| One double bond   | `-ene` |
+| One triple bond   | `-yne` |
 
 Examples:
 
-| Formula/Structure | Name |
-|---|---|
-| `CH4` | Methane |
-| `C2H6` | Ethane |
-| `C2H4` | Ethene |
-| `C2H2` | Ethyne |
-| `C3H6` | Propene |
-| `C3H4` | Propyne |
+| Formula/Structure | Name    |
+| ----------------- | ------- |
+| `CH4`             | Methane |
+| `C2H6`            | Ethane  |
+| `C2H4`            | Ethene  |
+| `C2H2`            | Ethyne  |
+| `C3H6`            | Propene |
+| `C3H4`            | Propyne |
 
 ## Prefixes and Suffixes for Functional Groups
 
-| Class | Prefix/Suffix | Example |
-|---|---|---|
-| Haloalkane | Prefix: chloro-, bromo- | Bromoethane |
-| Alcohol | Suffix: `-ol` | Ethanol |
-| Aldehyde | Suffix: `-al` | Ethanal |
-| Ketone | Suffix: `-one` | Propanone |
-| Carboxylic acid | Suffix: `-oic acid` | Ethanoic acid |
-| Alkene | Suffix: `-ene` | Ethene |
-| Alkyne | Suffix: `-yne` | Ethyne |
+| Class           | Prefix/Suffix           | Example       |
+| --------------- | ----------------------- | ------------- |
+| Haloalkane      | Prefix: chloro-, bromo- | Bromoethane   |
+| Alcohol         | Suffix: `-ol`           | Ethanol       |
+| Aldehyde        | Suffix: `-al`           | Ethanal       |
+| Ketone          | Suffix: `-one`          | Propanone     |
+| Carboxylic acid | Suffix: `-oic acid`     | Ethanoic acid |
+| Alkene          | Suffix: `-ene`          | Ethene        |
+| Alkyne          | Suffix: `-yne`          | Ethyne        |
 
 ## Naming Steps
 
@@ -906,17 +907,17 @@ $$
 
 ## Clean and Sooty Flames
 
-| Flame Type | Cause | Observation |
-|---|---|---|
-| Clean blue flame | Complete combustion with enough oxygen | Less soot, efficient burning |
-| Yellow sooty flame | Incomplete combustion due to limited oxygen or unsaturated compound | Black soot deposit |
+| Flame Type         | Cause                                                               | Observation                  |
+| ------------------ | ------------------------------------------------------------------- | ---------------------------- |
+| Clean blue flame   | Complete combustion with enough oxygen                              | Less soot, efficient burning |
+| Yellow sooty flame | Incomplete combustion due to limited oxygen or unsaturated compound | Black soot deposit           |
 
 ## Saturated vs Unsaturated Flame
 
-| Compound Type | Flame |
-|---|---|
-| Saturated hydrocarbons | Usually clean flame if oxygen is sufficient |
-| Unsaturated hydrocarbons | Yellow flame with black smoke/soot |
+| Compound Type            | Flame                                       |
+| ------------------------ | ------------------------------------------- |
+| Saturated hydrocarbons   | Usually clean flame if oxygen is sufficient |
+| Unsaturated hydrocarbons | Yellow flame with black smoke/soot          |
 
 ## Blackened Cooking Vessels
 
@@ -1047,12 +1048,12 @@ In higher alkanes, many products may form because chlorine can replace hydrogen 
 
 ## Identity
 
-| Detail | Information |
-|---|---|
-| Common name | Alcohol |
-| Chemical name | Ethanol |
-| Formula | `CH3CH2OH` or `C2H5OH` |
-| Functional group | Alcohol group, `-OH` |
+| Detail           | Information            |
+| ---------------- | ---------------------- |
+| Common name      | Alcohol                |
+| Chemical name    | Ethanol                |
+| Formula          | `CH3CH2OH` or `C2H5OH` |
+| Functional group | Alcohol group, `-OH`   |
 
 ## Physical Properties
 
@@ -1066,12 +1067,12 @@ Ethanol:
 
 ## Uses of Ethanol
 
-| Use | Explanation |
-|---|---|
+| Use              | Explanation                                             |
+| ---------------- | ------------------------------------------------------- |
 | Alcoholic drinks | Active ingredient, though consumption has health risks. |
-| Medicines | Used in tincture iodine, cough syrups, and tonics. |
-| Solvent | Dissolves many organic substances. |
-| Fuel/additive | Can be blended with petrol in some countries. |
+| Medicines        | Used in tincture iodine, cough syrups, and tonics.      |
+| Solvent          | Dissolves many organic substances.                      |
+| Fuel/additive    | Can be blended with petrol in some countries.           |
 
 ## Health Effects of Ethanol
 
@@ -1147,11 +1148,11 @@ The remaining carbon atoms form a double bond.
 
 ## Identity
 
-| Detail | Information |
-|---|---|
-| Common name | Acetic acid |
-| Chemical name | Ethanoic acid |
-| Formula | `CH3COOH` |
+| Detail           | Information                    |
+| ---------------- | ------------------------------ |
+| Common name      | Acetic acid                    |
+| Chemical name    | Ethanoic acid                  |
+| Formula          | `CH3COOH`                      |
 | Functional group | Carboxylic acid group, `-COOH` |
 
 ## Vinegar
@@ -1176,9 +1177,9 @@ Ethanoic acid ionises only partially.
 
 ## Litmus and Universal Indicator
 
-| Test | Ethanoic Acid | Hydrochloric Acid |
-|---|---|---|
-| Blue litmus | Turns red | Turns red |
+| Test                | Ethanoic Acid      | Hydrochloric Acid      |
+| ------------------- | ------------------ | ---------------------- |
+| Blue litmus         | Turns red          | Turns red              |
 | Universal indicator | Shows weak acid pH | Shows stronger acid pH |
 
 Litmus shows both are acids, but universal indicator shows they are not equally strong.
@@ -1271,10 +1272,10 @@ Soap molecules are sodium or potassium salts of long-chain carboxylic acids.
 
 Each soap molecule has two ends:
 
-| Part | Nature | Attracted To |
-|---|---|---|
-| Ionic head | Hydrophilic | Water |
-| Long hydrocarbon tail | Hydrophobic | Oil/grease |
+| Part                  | Nature      | Attracted To |
+| --------------------- | ----------- | ------------ |
+| Ionic head            | Hydrophilic | Water        |
+| Long hydrocarbon tail | Hydrophobic | Oil/grease   |
 
 ## Micelle Formation in Water
 
@@ -1991,12 +1992,12 @@ A homologous series is a family of organic compounds with the same functional gr
 
 Example: alcohols.
 
-| Member | Formula |
-|---|---|
-| Methanol | `CH3OH` |
-| Ethanol | `C2H5OH` |
+| Member   | Formula  |
+| -------- | -------- |
+| Methanol | `CH3OH`  |
+| Ethanol  | `C2H5OH` |
 | Propanol | `C3H7OH` |
-| Butanol | `C4H9OH` |
+| Butanol  | `C4H9OH` |
 
 All contain the `-OH` functional group. Therefore, their chemical properties are similar.
 
@@ -2016,20 +2017,20 @@ The molecular mass difference is 14 u.
 
 ## Physical Differences
 
-| Property | Ethanol | Ethanoic Acid |
-|---|---|---|
-| Smell | Alcoholic smell | Vinegar-like smell |
-| Nature | Neutral | Acidic |
+| Property           | Ethanol                                                                  | Ethanoic Acid                                 |
+| ------------------ | ------------------------------------------------------------------------ | --------------------------------------------- |
+| Smell              | Alcoholic smell                                                          | Vinegar-like smell                            |
+| Nature             | Neutral                                                                  | Acidic                                        |
 | Freezing behaviour | Does not freeze near ordinary winter conditions like glacial acetic acid | Pure ethanoic acid can freeze in cold climate |
 
 ## Chemical Differences
 
-| Test | Ethanol | Ethanoic Acid |
-|---|---|---|
-| Blue litmus | No change | Turns red |
-| Universal indicator | Nearly neutral | Acidic pH |
-| Sodium hydrogencarbonate | No brisk effervescence | Effervescence due to `CO2` |
-| Sodium carbonate | No `CO2` test | Produces `CO2`, turning lime water milky |
+| Test                     | Ethanol                | Ethanoic Acid                            |
+| ------------------------ | ---------------------- | ---------------------------------------- |
+| Blue litmus              | No change              | Turns red                                |
+| Universal indicator      | Nearly neutral         | Acidic pH                                |
+| Sodium hydrogencarbonate | No brisk effervescence | Effervescence due to `CO2`               |
+| Sodium carbonate         | No `CO2` test          | Produces `CO2`, turning lime water milky |
 
 Reaction with sodium hydrogencarbonate:
 
@@ -2133,13 +2134,13 @@ Vegetable oils contain unsaturated carbon chains. Hydrogenation makes them more 
 
 Addition reactions are shown by unsaturated hydrocarbons.
 
-| Compound | Type | Addition Reaction? |
-|---|---|---|
-| `C2H6` | Alkane, saturated | No |
-| `C3H8` | Alkane, saturated | No |
-| `C3H6` | Alkene, unsaturated | Yes |
-| `C2H2` | Alkyne, unsaturated | Yes |
-| `CH4` | Alkane, saturated | No |
+| Compound | Type                | Addition Reaction? |
+| -------- | ------------------- | ------------------ |
+| `C2H6`   | Alkane, saturated   | No                 |
+| `C3H8`   | Alkane, saturated   | No                 |
+| `C3H6`   | Alkene, unsaturated | Yes                |
+| `C2H2`   | Alkyne, unsaturated | Yes                |
+| `CH4`    | Alkane, saturated   | No                 |
 
 Therefore, `C3H6` and `C2H2` undergo addition reactions.
 
@@ -2190,19 +2191,19 @@ This is why soap can remove oily dirt even though water alone cannot dissolve oi
 
 # Unit 4Z: Common Mistakes and Corrections
 
-| Mistake | Correct Understanding |
-|---|---|
-| Saying carbon forms `C4+` easily. | Removing four electrons needs too much energy. |
-| Saying carbon forms `C4-` easily. | Six protons cannot hold ten electrons strongly enough. |
-| Confusing ionic and covalent bonds. | Covalent bonds form by sharing electrons, not transfer. |
-| Saying covalent compounds conduct electricity well. | Most covalent compounds are poor conductors because they do not form ions. |
-| Calling ethene saturated. | Ethene has a double bond, so it is unsaturated. |
-| Calling ethyne an alkene. | Ethyne has a triple bond, so it is an alkyne. |
-| Forgetting that successive homologues differ by `-CH2-`. | The molecular mass difference is 14 u. |
-| Confusing ethanol and ethanoic acid. | Ethanol is an alcohol; ethanoic acid is a carboxylic acid. |
-| Saying ethanol reacts with sodium carbonate like acids do. | Ethanoic acid gives `CO2` with carbonates; ethanol does not. |
-| Saying soap works well in hard water. | Soap forms scum with calcium/magnesium ions. |
-| Saying detergents can easily test hardness. | Detergents work in hard water and do not form scum like soap. |
+| Mistake                                                    | Correct Understanding                                                      |
+| ---------------------------------------------------------- | -------------------------------------------------------------------------- |
+| Saying carbon forms `C4+` easily.                          | Removing four electrons needs too much energy.                             |
+| Saying carbon forms `C4-` easily.                          | Six protons cannot hold ten electrons strongly enough.                     |
+| Confusing ionic and covalent bonds.                        | Covalent bonds form by sharing electrons, not transfer.                    |
+| Saying covalent compounds conduct electricity well.        | Most covalent compounds are poor conductors because they do not form ions. |
+| Calling ethene saturated.                                  | Ethene has a double bond, so it is unsaturated.                            |
+| Calling ethyne an alkene.                                  | Ethyne has a triple bond, so it is an alkyne.                              |
+| Forgetting that successive homologues differ by `-CH2-`.   | The molecular mass difference is 14 u.                                     |
+| Confusing ethanol and ethanoic acid.                       | Ethanol is an alcohol; ethanoic acid is a carboxylic acid.                 |
+| Saying ethanol reacts with sodium carbonate like acids do. | Ethanoic acid gives `CO2` with carbonates; ethanol does not.               |
+| Saying soap works well in hard water.                      | Soap forms scum with calcium/magnesium ions.                               |
+| Saying detergents can easily test hardness.                | Detergents work in hard water and do not form scum like soap.              |
 
 ---
 
@@ -2210,59 +2211,59 @@ This is why soap can remove oily dirt even though water alone cannot dissolve oi
 
 ## Formula Bank
 
-| Substance | Formula |
-|---|---|
-| Methane | `CH4` |
-| Ethane | `C2H6` |
-| Ethene | `C2H4` |
-| Ethyne | `C2H2` |
-| Propane | `C3H8` |
-| Butane | `C4H10` |
-| Pentane | `C5H12` |
-| Cyclopentane | `C5H10` |
-| Cyclohexane | `C6H12` |
-| Benzene | `C6H6` |
-| Ethanol | `CH3CH2OH` |
-| Ethanoic acid | `CH3COOH` |
+| Substance       | Formula        |
+| --------------- | -------------- |
+| Methane         | `CH4`          |
+| Ethane          | `C2H6`         |
+| Ethene          | `C2H4`         |
+| Ethyne          | `C2H2`         |
+| Propane         | `C3H8`         |
+| Butane          | `C4H10`        |
+| Pentane         | `C5H12`        |
+| Cyclopentane    | `C5H10`        |
+| Cyclohexane     | `C6H12`        |
+| Benzene         | `C6H6`         |
+| Ethanol         | `CH3CH2OH`     |
+| Ethanoic acid   | `CH3COOH`      |
 | Ethyl ethanoate | `CH3COOCH2CH3` |
-| Propanone | `CH3COCH3` |
-| Butanone | `CH3COCH2CH3` |
+| Propanone       | `CH3COCH3`     |
+| Butanone        | `CH3COCH2CH3`  |
 
 ## Functional Group Bank
 
-| Class | Functional Group | Naming Clue |
-|---|---|---|
-| Haloalkane | `-Cl`, `-Br` | chloro-, bromo- |
-| Alcohol | `-OH` | `-ol` |
-| Aldehyde | `-CHO` | `-al` |
-| Ketone | `>C=O` | `-one` |
-| Carboxylic acid | `-COOH` | `-oic acid` |
-| Alkene | `C=C` | `-ene` |
-| Alkyne | `C#C` | `-yne` |
+| Class           | Functional Group | Naming Clue     |
+| --------------- | ---------------- | --------------- |
+| Haloalkane      | `-Cl`, `-Br`     | chloro-, bromo- |
+| Alcohol         | `-OH`            | `-ol`           |
+| Aldehyde        | `-CHO`           | `-al`           |
+| Ketone          | `>C=O`           | `-one`          |
+| Carboxylic acid | `-COOH`          | `-oic acid`     |
+| Alkene          | `C=C`            | `-ene`          |
+| Alkyne          | `C#C`            | `-yne`          |
 
 ## General Formulae
 
-| Series | Bond Type | General Formula |
-|---|---|---|
-| Alkane | Single bonds | `CnH2n+2` |
-| Alkene | One double bond | `CnH2n` |
-| Alkyne | One triple bond | `CnH2n-2` |
+| Series | Bond Type       | General Formula |
+| ------ | --------------- | --------------- |
+| Alkane | Single bonds    | `CnH2n+2`       |
+| Alkene | One double bond | `CnH2n`         |
+| Alkyne | One triple bond | `CnH2n-2`       |
 
 ## Important Reactions
 
-| Reaction | Equation |
-|---|---|
-| Methane combustion | `CH4 + 2O2 -> CO2 + 2H2O` |
-| Ethanol combustion | `CH3CH2OH + 3O2 -> 2CO2 + 3H2O` |
-| Ethanol oxidation | `CH3CH2OH + 2[O] -> CH3COOH + H2O` |
-| Hydrogenation | `CH2=CH2 + H2 -> CH3-CH3` |
-| Methane chlorination | `CH4 + Cl2 -> CH3Cl + HCl` |
-| Ethanol + sodium | `2Na + 2CH3CH2OH -> 2CH3CH2ONa + H2` |
-| Ethanol dehydration | `CH3CH2OH -> CH2=CH2 + H2O` |
-| Esterification | `CH3COOH + CH3CH2OH -> CH3COOCH2CH3 + H2O` |
-| Ethanoic acid + base | `CH3COOH + NaOH -> CH3COONa + H2O` |
-| Ethanoic acid + carbonate | `2CH3COOH + Na2CO3 -> 2CH3COONa + H2O + CO2` |
-| Ethanoic acid + hydrogencarbonate | `CH3COOH + NaHCO3 -> CH3COONa + H2O + CO2` |
+| Reaction                          | Equation                                     |
+| --------------------------------- | -------------------------------------------- |
+| Methane combustion                | `CH4 + 2O2 -> CO2 + 2H2O`                    |
+| Ethanol combustion                | `CH3CH2OH + 3O2 -> 2CO2 + 3H2O`              |
+| Ethanol oxidation                 | `CH3CH2OH + 2[O] -> CH3COOH + H2O`           |
+| Hydrogenation                     | `CH2=CH2 + H2 -> CH3-CH3`                    |
+| Methane chlorination              | `CH4 + Cl2 -> CH3Cl + HCl`                   |
+| Ethanol + sodium                  | `2Na + 2CH3CH2OH -> 2CH3CH2ONa + H2`         |
+| Ethanol dehydration               | `CH3CH2OH -> CH2=CH2 + H2O`                  |
+| Esterification                    | `CH3COOH + CH3CH2OH -> CH3COOCH2CH3 + H2O`   |
+| Ethanoic acid + base              | `CH3COOH + NaOH -> CH3COONa + H2O`           |
+| Ethanoic acid + carbonate         | `2CH3COOH + Na2CO3 -> 2CH3COONa + H2O + CO2` |
+| Ethanoic acid + hydrogencarbonate | `CH3COOH + NaHCO3 -> CH3COONa + H2O + CO2`   |
 
 ---
 
@@ -2320,4 +2321,3 @@ Functional groups such as `-OH`, `-CHO`, `>C=O`, and `-COOH` give carbon compoun
 Carbon compounds burn to release heat and light. Ethanol can be oxidised to ethanoic acid, reacts with sodium to produce hydrogen, and dehydrates to ethene. Ethanoic acid forms esters with ethanol, reacts with bases to form salts, and reacts with carbonates/hydrogencarbonates to produce carbon dioxide.
 
 Soap molecules have hydrophilic heads and hydrophobic tails. They form micelles in water and remove oily dirt by emulsification. In hard water, soap forms scum with calcium and magnesium ions, while detergents remain effective.
-

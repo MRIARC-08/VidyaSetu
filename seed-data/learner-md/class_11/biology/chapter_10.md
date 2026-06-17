@@ -4,16 +4,16 @@ Class 11 Biology
 
 ## Chapter Profile
 
-| Item | Details |
-|---|---|
-| Class | 11 |
-| Subject | Biology |
-| Chapter | 10 |
-| Title | Cell Cycle and Cell Division |
-| Main theme | How cells grow, duplicate DNA, and divide |
-| Main processes | Cell cycle, mitosis, cytokinesis, meiosis |
-| Core skill | Track chromosomes and DNA content through stages |
-| Learner goal | Understand why mitosis maintains chromosome number and meiosis reduces it |
+| Item           | Details                                                                   |
+| -------------- | ------------------------------------------------------------------------- |
+| Class          | 11                                                                        |
+| Subject        | Biology                                                                   |
+| Chapter        | 10                                                                        |
+| Title          | Cell Cycle and Cell Division                                              |
+| Main theme     | How cells grow, duplicate DNA, and divide                                 |
+| Main processes | Cell cycle, mitosis, cytokinesis, meiosis                                 |
+| Core skill     | Track chromosomes and DNA content through stages                          |
+| Learner goal   | Understand why mitosis maintains chromosome number and meiosis reduces it |
 
 ## How To Study This Chapter
 
@@ -61,43 +61,43 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Cell cycle | Ordered sequence by which a cell duplicates genome, grows, and divides |
-| Interphase | Phase between two M phases; cell prepares for division |
-| M phase | Phase of mitosis and cytokinesis |
-| G1 phase | Growth phase before DNA replication |
-| S phase | Synthesis phase in which DNA replication occurs |
-| G2 phase | Growth and protein synthesis phase before mitosis |
-| G0 phase | Quiescent non-dividing stage |
-| Karyokinesis | Division of nucleus |
-| Cytokinesis | Division of cytoplasm |
-| Mitosis | Equational division producing genetically identical daughter cells |
-| Meiosis | Reduction division producing haploid cells |
-| Chromatid | One of two identical copies of a replicated chromosome |
-| Centromere | Region joining sister chromatids |
-| Kinetochore | Protein structure at centromere where spindle fibres attach |
-| Metaphase plate | Equatorial plane where chromosomes align |
-| Synapsis | Pairing of homologous chromosomes |
-| Bivalent | Pair of homologous chromosomes during meiosis I |
-| Tetrad | Four chromatids of a paired homologous chromosome set |
-| Crossing over | Exchange of genetic material between non-sister chromatids |
-| Chiasma | X-shaped point where crossing over is visible |
-| Interkinesis | Short stage between meiosis I and meiosis II without DNA replication |
-| Dyad | Two cells formed after meiosis I |
-| Tetrad of cells | Four haploid cells formed after meiosis II |
+| Term            | Meaning                                                                |
+| --------------- | ---------------------------------------------------------------------- |
+| Cell cycle      | Ordered sequence by which a cell duplicates genome, grows, and divides |
+| Interphase      | Phase between two M phases; cell prepares for division                 |
+| M phase         | Phase of mitosis and cytokinesis                                       |
+| G1 phase        | Growth phase before DNA replication                                    |
+| S phase         | Synthesis phase in which DNA replication occurs                        |
+| G2 phase        | Growth and protein synthesis phase before mitosis                      |
+| G0 phase        | Quiescent non-dividing stage                                           |
+| Karyokinesis    | Division of nucleus                                                    |
+| Cytokinesis     | Division of cytoplasm                                                  |
+| Mitosis         | Equational division producing genetically identical daughter cells     |
+| Meiosis         | Reduction division producing haploid cells                             |
+| Chromatid       | One of two identical copies of a replicated chromosome                 |
+| Centromere      | Region joining sister chromatids                                       |
+| Kinetochore     | Protein structure at centromere where spindle fibres attach            |
+| Metaphase plate | Equatorial plane where chromosomes align                               |
+| Synapsis        | Pairing of homologous chromosomes                                      |
+| Bivalent        | Pair of homologous chromosomes during meiosis I                        |
+| Tetrad          | Four chromatids of a paired homologous chromosome set                  |
+| Crossing over   | Exchange of genetic material between non-sister chromatids             |
+| Chiasma         | X-shaped point where crossing over is visible                          |
+| Interkinesis    | Short stage between meiosis I and meiosis II without DNA replication   |
+| Dyad            | Two cells formed after meiosis I                                       |
+| Tetrad of cells | Four haploid cells formed after meiosis II                             |
 
 ## Chapter Map
 
-| Unit | Topic | What To Master |
-|---|---|---|
-| 10.1 | Cell cycle | Interphase, M phase, G0 |
-| 10.2 | Mitosis | Prophase, metaphase, anaphase, telophase |
-| 10.3 | Cytokinesis | Animal furrow versus plant cell plate |
+| Unit | Topic                   | What To Master                                        |
+| ---- | ----------------------- | ----------------------------------------------------- |
+| 10.1 | Cell cycle              | Interphase, M phase, G0                               |
+| 10.2 | Mitosis                 | Prophase, metaphase, anaphase, telophase              |
+| 10.3 | Cytokinesis             | Animal furrow versus plant cell plate                 |
 | 10.4 | Significance of mitosis | Growth, repair, replacement, nucleo-cytoplasmic ratio |
-| 10.5 | Meiosis | Meiosis I and meiosis II |
-| 10.6 | Prophase I | Leptotene to diakinesis |
-| 10.7 | Significance of meiosis | Chromosome number conservation and variation |
+| 10.5 | Meiosis                 | Meiosis I and meiosis II                              |
+| 10.6 | Prophase I              | Leptotene to diakinesis                               |
+| 10.7 | Significance of meiosis | Chromosome number conservation and variation          |
 
 ## 1. Why Cells Divide
 
@@ -124,10 +124,10 @@ The cell cycle is the sequence of events by which a cell:
 
 ## 2.1 Two Basic Phases
 
-| Phase | Meaning |
-|---|---|
+| Phase      | Meaning                                |
+| ---------- | -------------------------------------- |
 | Interphase | Preparation phase between two M phases |
-| M phase | Actual division phase |
+| M phase    | Actual division phase                  |
 
 In a typical human cell cycle of about 24 hours, M phase lasts about one hour, while interphase takes more than 95 percent of the cycle.
 
@@ -223,14 +223,14 @@ Prophase follows S and G2 phases.
 
 ## 7.1 Events Of Prophase
 
-| Event | Explanation |
-|---|---|
-| Chromatin condensation | Chromosomal material condenses into visible chromosomes |
-| Sister chromatids visible | Each chromosome has two chromatids joined at centromere |
-| Centrosome movement | Duplicated centrosomes move toward opposite poles |
-| Aster formation | Microtubules radiate from centrosomes |
-| Spindle formation | Asters and spindle fibres form mitotic apparatus |
-| Organelle changes | Golgi complex, ER, nucleolus, and nuclear envelope disappear by end of prophase |
+| Event                     | Explanation                                                                     |
+| ------------------------- | ------------------------------------------------------------------------------- |
+| Chromatin condensation    | Chromosomal material condenses into visible chromosomes                         |
+| Sister chromatids visible | Each chromosome has two chromatids joined at centromere                         |
+| Centrosome movement       | Duplicated centrosomes move toward opposite poles                               |
+| Aster formation           | Microtubules radiate from centrosomes                                           |
+| Spindle formation         | Asters and spindle fibres form mitotic apparatus                                |
+| Organelle changes         | Golgi complex, ER, nucleolus, and nuclear envelope disappear by end of prophase |
 
 ## 7.2 Prophase Diagnostic Point
 
@@ -246,11 +246,11 @@ This is the best stage for studying chromosome morphology.
 
 ## 8.1 Events Of Metaphase
 
-| Event | Explanation |
-|---|---|
-| Chromosomes align | Chromosomes move to the equator |
-| Metaphase plate forms | Chromosomes lie along the equatorial plane |
-| Kinetochore attachment | Spindle fibres attach to kinetochores |
+| Event                    | Explanation                                                    |
+| ------------------------ | -------------------------------------------------------------- |
+| Chromosomes align        | Chromosomes move to the equator                                |
+| Metaphase plate forms    | Chromosomes lie along the equatorial plane                     |
+| Kinetochore attachment   | Spindle fibres attach to kinetochores                          |
 | Opposite pole connection | Sister chromatids attach to spindle fibres from opposite poles |
 
 ## 8.2 Metaphase Diagnostic Point
@@ -263,12 +263,12 @@ Anaphase begins when centromeres split.
 
 ## 9.1 Events Of Anaphase
 
-| Event | Explanation |
-|---|---|
-| Centromeres split | Sister chromatids separate |
+| Event                     | Explanation                                              |
+| ------------------------- | -------------------------------------------------------- |
+| Centromeres split         | Sister chromatids separate                               |
 | Daughter chromosomes form | Separated chromatids are now called daughter chromosomes |
-| Movement to poles | Daughter chromosomes move to opposite poles |
-| Centromere leads | Centromere is directed toward pole; arms trail behind |
+| Movement to poles         | Daughter chromosomes move to opposite poles              |
+| Centromere leads          | Centromere is directed toward pole; arms trail behind    |
 
 ## 9.2 Anaphase Diagnostic Point
 
@@ -280,13 +280,13 @@ Telophase begins when chromosomes reach opposite poles.
 
 ## 10.1 Events Of Telophase
 
-| Event | Explanation |
-|---|---|
-| Chromosomes decondense | Chromosomes lose distinct individuality |
-| Chromatin clusters | Chromatin collects at two poles |
-| Nuclear envelope reforms | Daughter nuclei form |
-| Nucleolus reforms | Nucleoli reappear |
-| Golgi and ER reform | Cytoplasmic organisation returns |
+| Event                    | Explanation                             |
+| ------------------------ | --------------------------------------- |
+| Chromosomes decondense   | Chromosomes lose distinct individuality |
+| Chromatin clusters       | Chromatin collects at two poles         |
+| Nuclear envelope reforms | Daughter nuclei form                    |
+| Nucleolus reforms        | Nucleoli reappear                       |
+| Golgi and ER reform      | Cytoplasmic organisation returns        |
 
 ## 10.2 Telophase Diagnostic Point
 
@@ -321,11 +321,11 @@ Instead:
 
 ## 11.3 Cytokinesis Comparison
 
-| Feature | Animal Cell | Plant Cell |
-|---|---|---|
-| Mechanism | Cleavage furrow | Cell plate |
-| Direction | Outside inward | Centre outward |
-| Reason | Flexible plasma membrane | Rigid cell wall |
+| Feature   | Animal Cell              | Plant Cell      |
+| --------- | ------------------------ | --------------- |
+| Mechanism | Cleavage furrow          | Cell plate      |
+| Direction | Outside inward           | Centre outward  |
+| Reason    | Flexible plasma membrane | Rigid cell wall |
 
 ## 11.4 Karyokinesis Without Cytokinesis
 
@@ -371,21 +371,21 @@ Meiosis produces haploid gametes. Fertilisation restores diploid condition.
 
 ## 13.2 Key Features Of Meiosis
 
-| Feature | Explanation |
-|---|---|
-| Two divisions | Meiosis I and meiosis II |
-| One DNA replication | DNA replicates only once before meiosis I |
-| Homologous pairing | Homologous chromosomes pair during prophase I |
-| Recombination | Crossing over occurs between non-sister chromatids |
-| Final result | Four haploid cells |
+| Feature             | Explanation                                        |
+| ------------------- | -------------------------------------------------- |
+| Two divisions       | Meiosis I and meiosis II                           |
+| One DNA replication | DNA replicates only once before meiosis I          |
+| Homologous pairing  | Homologous chromosomes pair during prophase I      |
+| Recombination       | Crossing over occurs between non-sister chromatids |
+| Final result        | Four haploid cells                                 |
 
 ## 13.3 Phases Of Meiosis
 
-| Meiosis I | Meiosis II |
-|---|---|
-| Prophase I | Prophase II |
+| Meiosis I   | Meiosis II   |
+| ----------- | ------------ |
+| Prophase I  | Prophase II  |
 | Metaphase I | Metaphase II |
-| Anaphase I | Anaphase II |
+| Anaphase I  | Anaphase II  |
 | Telophase I | Telophase II |
 
 ## 14. Meiosis I
@@ -546,35 +546,35 @@ Meiosis is important because:
 
 ## 17.1 Mitosis Versus Meiosis
 
-| Feature | Mitosis | Meiosis |
-|---|---|---|
-| Number of divisions | One | Two |
-| DNA replication | Once before division | Once before meiosis I |
-| Daughter cells | Two | Four |
-| Chromosome number | Same as parent | Half of parent |
-| Genetic similarity | Daughter cells usually identical | Daughter cells genetically different |
-| Homologous pairing | Absent | Present in prophase I |
-| Crossing over | Absent | Present in pachytene |
-| Main role | Growth, repair, replacement | Gamete or spore formation |
+| Feature             | Mitosis                          | Meiosis                              |
+| ------------------- | -------------------------------- | ------------------------------------ |
+| Number of divisions | One                              | Two                                  |
+| DNA replication     | Once before division             | Once before meiosis I                |
+| Daughter cells      | Two                              | Four                                 |
+| Chromosome number   | Same as parent                   | Half of parent                       |
+| Genetic similarity  | Daughter cells usually identical | Daughter cells genetically different |
+| Homologous pairing  | Absent                           | Present in prophase I                |
+| Crossing over       | Absent                           | Present in pachytene                 |
+| Main role           | Growth, repair, replacement      | Gamete or spore formation            |
 
 ## 17.2 Anaphase Of Mitosis Versus Anaphase I Of Meiosis
 
-| Feature | Anaphase Of Mitosis | Anaphase I Of Meiosis |
-|---|---|---|
-| What separates | Sister chromatids | Homologous chromosomes |
-| Centromere | Splits | Does not split |
-| Sister chromatids | Separate | Remain together |
-| Chromosome number effect | Maintained | Reduced by half |
+| Feature                  | Anaphase Of Mitosis | Anaphase I Of Meiosis  |
+| ------------------------ | ------------------- | ---------------------- |
+| What separates           | Sister chromatids   | Homologous chromosomes |
+| Centromere               | Splits              | Does not split         |
+| Sister chromatids        | Separate            | Remain together        |
+| Chromosome number effect | Maintained          | Reduced by half        |
 
 ## 17.3 Meiosis I Versus Meiosis II
 
-| Feature | Meiosis I | Meiosis II |
-|---|---|---|
-| Type | Reductional division | Equational division |
-| Main separation | Homologous chromosomes | Sister chromatids |
-| DNA replication before it | Yes, before meiosis I | No |
-| Crossing over | Occurs in prophase I | Absent |
-| Result | Two haploid cells with duplicated chromosomes | Four haploid cells |
+| Feature                   | Meiosis I                                     | Meiosis II          |
+| ------------------------- | --------------------------------------------- | ------------------- |
+| Type                      | Reductional division                          | Equational division |
+| Main separation           | Homologous chromosomes                        | Sister chromatids   |
+| DNA replication before it | Yes, before meiosis I                         | No                  |
+| Crossing over             | Occurs in prophase I                          | Absent              |
+| Result                    | Two haploid cells with duplicated chromosomes | Four haploid cells  |
 
 ## 18. Chromosome Number And DNA Content
 
@@ -582,23 +582,23 @@ Use `n` for chromosome sets and `C` for DNA content.
 
 ## 18.1 Mitotic Cell Cycle In A Diploid Cell
 
-| Stage | Chromosome Number | DNA Content | Explanation |
-|---|---|---|---|
-| G1 | 2n | 2C | DNA not yet replicated |
-| After S | 2n | 4C | DNA doubled, chromosome number same |
-| G2 | 2n | 4C | Cell prepares for mitosis |
-| Metaphase | 2n | 4C | Chromosomes have sister chromatids |
-| Anaphase | Daughter chromosomes separating | 4C in one dividing cell | Centromeres split; each chromatid becomes chromosome |
-| After cytokinesis | 2n in each daughter cell | 2C in each daughter cell | Original condition restored |
+| Stage             | Chromosome Number               | DNA Content              | Explanation                                          |
+| ----------------- | ------------------------------- | ------------------------ | ---------------------------------------------------- |
+| G1                | 2n                              | 2C                       | DNA not yet replicated                               |
+| After S           | 2n                              | 4C                       | DNA doubled, chromosome number same                  |
+| G2                | 2n                              | 4C                       | Cell prepares for mitosis                            |
+| Metaphase         | 2n                              | 4C                       | Chromosomes have sister chromatids                   |
+| Anaphase          | Daughter chromosomes separating | 4C in one dividing cell  | Centromeres split; each chromatid becomes chromosome |
+| After cytokinesis | 2n in each daughter cell        | 2C in each daughter cell | Original condition restored                          |
 
 ## 18.2 Meiosis In A Diploid Cell
 
-| Stage | Chromosome Number Per Cell | DNA Content Per Cell |
-|---|---|---|
-| Before S phase | 2n | 2C |
-| After S phase | 2n | 4C |
-| After meiosis I | n | 2C |
-| After meiosis II | n | C |
+| Stage            | Chromosome Number Per Cell | DNA Content Per Cell |
+| ---------------- | -------------------------- | -------------------- |
+| Before S phase   | 2n                         | 2C                   |
+| After S phase    | 2n                         | 4C                   |
+| After meiosis I  | n                          | 2C                   |
+| After meiosis II | n                          | C                    |
 
 ## 19. Text-Based Diagrams
 
@@ -640,16 +640,16 @@ Result: four haploid cells
 
 ## 20. Common Learner Mistakes
 
-| Mistake | Correction |
-|---|---|
-| Calling interphase inactive | Interphase is metabolically active |
-| Saying DNA and chromosome number both double in S phase | DNA doubles, chromosome number remains same |
-| Confusing karyokinesis with cytokinesis | Karyokinesis is nuclear division; cytokinesis is cytoplasm division |
-| Saying centromere splits in anaphase I | Centromere does not split in anaphase I |
-| Confusing bivalent and tetrad | A bivalent is a pair of homologous chromosomes; it contains four chromatids, so it is also a tetrad |
-| Saying crossing over occurs in zygotene | Crossing over occurs in pachytene |
-| Saying meiosis II reduces chromosome number | Reduction occurs in meiosis I |
-| Forgetting interkinesis has no DNA replication | DNA is not replicated between meiosis I and meiosis II |
+| Mistake                                                 | Correction                                                                                          |
+| ------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| Calling interphase inactive                             | Interphase is metabolically active                                                                  |
+| Saying DNA and chromosome number both double in S phase | DNA doubles, chromosome number remains same                                                         |
+| Confusing karyokinesis with cytokinesis                 | Karyokinesis is nuclear division; cytokinesis is cytoplasm division                                 |
+| Saying centromere splits in anaphase I                  | Centromere does not split in anaphase I                                                             |
+| Confusing bivalent and tetrad                           | A bivalent is a pair of homologous chromosomes; it contains four chromatids, so it is also a tetrad |
+| Saying crossing over occurs in zygotene                 | Crossing over occurs in pachytene                                                                   |
+| Saying meiosis II reduces chromosome number             | Reduction occurs in meiosis I                                                                       |
+| Forgetting interkinesis has no DNA replication          | DNA is not replicated between meiosis I and meiosis II                                              |
 
 ## 21. Exercise Answers
 
@@ -659,22 +659,22 @@ The average cell cycle span for a typical mammalian cell such as a human cell in
 
 ## 21.2 Distinguish Cytokinesis From Karyokinesis
 
-| Feature | Karyokinesis | Cytokinesis |
-|---|---|---|
-| Meaning | Division of nucleus | Division of cytoplasm |
-| Occurs during | M phase | Usually after nuclear division |
-| Result | Daughter nuclei | Daughter cells |
-| Example event | Chromosome separation | Cleavage furrow or cell plate |
+| Feature       | Karyokinesis          | Cytokinesis                    |
+| ------------- | --------------------- | ------------------------------ |
+| Meaning       | Division of nucleus   | Division of cytoplasm          |
+| Occurs during | M phase               | Usually after nuclear division |
+| Result        | Daughter nuclei       | Daughter cells                 |
+| Example event | Chromosome separation | Cleavage furrow or cell plate  |
 
 ## 21.3 Events During Interphase
 
 Interphase has G1, S, and G2 phases.
 
-| Phase | Events |
-|---|---|
-| G1 | Cell grows, metabolism continues, DNA not replicated |
-| S | DNA replication occurs, DNA content doubles, centriole duplicates in animal cells |
-| G2 | Cell grows, proteins for mitosis are synthesised |
+| Phase | Events                                                                            |
+| ----- | --------------------------------------------------------------------------------- |
+| G1    | Cell grows, metabolism continues, DNA not replicated                              |
+| S     | DNA replication occurs, DNA content doubles, centriole duplicates in animal cells |
+| G2    | Cell grows, proteins for mitosis are synthesised                                  |
 
 ## 21.4 What Is G0 Phase?
 
@@ -695,11 +695,11 @@ The genetic complement remains identical in normal mitosis.
 
 ## 21.6 Name The Stages For Specific Events
 
-| Event | Stage |
-|---|---|
-| Chromosomes move to spindle equator | Metaphase |
-| Centromere splits and chromatids separate | Anaphase |
-| Pairing of homologous chromosomes | Zygotene of prophase I |
+| Event                                        | Stage                   |
+| -------------------------------------------- | ----------------------- |
+| Chromosomes move to spindle equator          | Metaphase               |
+| Centromere splits and chromatids separate    | Anaphase                |
+| Pairing of homologous chromosomes            | Zygotene of prophase I  |
 | Crossing over between homologous chromosomes | Pachytene of prophase I |
 
 ## 21.7 Describe Synapsis
@@ -724,11 +724,11 @@ Use Section 19.1 for a text-based diagram guide.
 
 ## 21.10 Plant Cytokinesis Versus Animal Cytokinesis
 
-| Feature | Animal Cell | Plant Cell |
-|---|---|---|
-| Method | Cleavage furrow | Cell plate |
-| Direction | Outside inward | Centre outward |
-| Cause | Flexible membrane | Rigid cell wall |
+| Feature         | Animal Cell         | Plant Cell                       |
+| --------------- | ------------------- | -------------------------------- |
+| Method          | Cleavage furrow     | Cell plate                       |
+| Direction       | Outside inward      | Centre outward                   |
+| Cause           | Flexible membrane   | Rigid cell wall                  |
 | Final structure | Two separated cells | New cell wall and middle lamella |
 
 ## 21.11 Equal And Unequal Daughter Cells From Meiosis
@@ -751,15 +751,15 @@ In anaphase I of meiosis, homologous chromosomes separate, but sister chromatids
 
 ## 21.13 Main Differences Between Mitosis And Meiosis
 
-| Feature | Mitosis | Meiosis |
-|---|---|---|
-| Divisions | One | Two |
-| Daughter cells | Two | Four |
-| Chromosome number | Maintained | Reduced by half |
-| Synapsis | Absent | Present |
-| Crossing over | Absent | Present |
-| Genetic variation | Usually absent | Produced |
-| Function | Growth and repair | Gamete or spore formation |
+| Feature           | Mitosis           | Meiosis                   |
+| ----------------- | ----------------- | ------------------------- |
+| Divisions         | One               | Two                       |
+| Daughter cells    | Two               | Four                      |
+| Chromosome number | Maintained        | Reduced by half           |
+| Synapsis          | Absent            | Present                   |
+| Crossing over     | Absent            | Present                   |
+| Genetic variation | Usually absent    | Produced                  |
+| Function          | Growth and repair | Gamete or spore formation |
 
 ## 21.14 Significance Of Meiosis
 
@@ -802,21 +802,21 @@ Examples include endoreduplication and cells that replicate DNA but do not compl
 
 For a diploid mitotic cell:
 
-| Stage | Chromosome Number | DNA Content |
-|---|---|---|
-| G1 | 2n | 2C |
-| After S | 2n | 4C |
-| G2 | 2n | 4C |
+| Stage                         | Chromosome Number    | DNA Content          |
+| ----------------------------- | -------------------- | -------------------- |
+| G1                            | 2n                   | 2C                   |
+| After S                       | 2n                   | 4C                   |
+| G2                            | 2n                   | 4C                   |
 | After M phase and cytokinesis | 2n per daughter cell | 2C per daughter cell |
 
 For meiosis:
 
-| Stage | Chromosome Number Per Cell | DNA Content Per Cell |
-|---|---|---|
-| Before S | 2n | 2C |
-| After S | 2n | 4C |
-| After meiosis I | n | 2C |
-| After meiosis II | n | C |
+| Stage            | Chromosome Number Per Cell | DNA Content Per Cell |
+| ---------------- | -------------------------- | -------------------- |
+| Before S         | 2n                         | 2C                   |
+| After S          | 2n                         | 4C                   |
+| After meiosis I  | n                          | 2C                   |
+| After meiosis II | n                          | C                    |
 
 ## 22. Exam-Oriented Short Answers
 
@@ -882,32 +882,31 @@ Meiosis II separates sister chromatids without further reducing chromosome set n
 
 ## 24. Rapid Revision Sheet
 
-| Topic | One-Line Revision |
-|---|---|
-| Cell cycle | Genome duplication, growth, and division |
-| G1 | Growth before DNA replication |
-| S | DNA replication, DNA content doubles |
-| G2 | Protein synthesis and growth before mitosis |
-| G0 | Quiescent metabolically active stage |
-| Mitosis | Equational division |
-| Prophase | Chromosome condensation |
-| Metaphase | Chromosomes at equator |
-| Anaphase | Sister chromatids separate |
-| Telophase | Daughter nuclei reform |
-| Cytokinesis | Cytoplasm division |
-| Meiosis | Reduction division |
-| Leptotene | Chromosomes visible |
-| Zygotene | Synapsis |
-| Pachytene | Crossing over |
-| Diplotene | Chiasmata visible |
-| Diakinesis | Terminalisation of chiasmata |
-| Anaphase I | Homologs separate |
-| Anaphase II | Sister chromatids separate |
+| Topic       | One-Line Revision                           |
+| ----------- | ------------------------------------------- |
+| Cell cycle  | Genome duplication, growth, and division    |
+| G1          | Growth before DNA replication               |
+| S           | DNA replication, DNA content doubles        |
+| G2          | Protein synthesis and growth before mitosis |
+| G0          | Quiescent metabolically active stage        |
+| Mitosis     | Equational division                         |
+| Prophase    | Chromosome condensation                     |
+| Metaphase   | Chromosomes at equator                      |
+| Anaphase    | Sister chromatids separate                  |
+| Telophase   | Daughter nuclei reform                      |
+| Cytokinesis | Cytoplasm division                          |
+| Meiosis     | Reduction division                          |
+| Leptotene   | Chromosomes visible                         |
+| Zygotene    | Synapsis                                    |
+| Pachytene   | Crossing over                               |
+| Diplotene   | Chiasmata visible                           |
+| Diakinesis  | Terminalisation of chiasmata                |
+| Anaphase I  | Homologs separate                           |
+| Anaphase II | Sister chromatids separate                  |
 
 ## 25. Raw File Reference
 
-| Item | Path |
-|---|---|
-| Raw input | `data/class_11/biology/chapter_10.md` |
+| Item             | Path                                             |
+| ---------------- | ------------------------------------------------ |
+| Raw input        | `data/class_11/biology/chapter_10.md`            |
 | Formatted output | `data_learner_md/class_11/biology/chapter_10.md` |
-

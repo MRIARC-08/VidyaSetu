@@ -1,4 +1,5 @@
 # Chapter 2: Redox Reactions
+
 ### NCERT Class 11 - Chemistry Part 2
 
 ---
@@ -28,18 +29,18 @@ Redox reactions are not just a classroom topic. They explain burning of fuels, e
 
 ## Chapter at a Glance
 
-| Area | What You Must Understand |
-| --- | --- |
-| Central idea | Oxidation and reduction occur simultaneously. |
-| Classical oxidation | Addition of oxygen/electronegative element or removal of hydrogen/electropositive element. |
-| Classical reduction | Removal of oxygen/electronegative element or addition of hydrogen/electropositive element. |
-| Electronic definition | Oxidation is loss of electrons; reduction is gain of electrons. |
-| Oxidising agent | Species that accepts electrons and gets reduced. |
-| Reducing agent | Species that donates electrons and gets oxidised. |
-| Oxidation number | Book-keeping number used to track electron shift, especially in covalent compounds. |
-| Redox classification | Combination, decomposition, displacement, disproportionation. |
-| Balancing methods | Oxidation number method and ion-electron method. |
-| Electrode process | Redox reaction can produce electrical energy when electron transfer is indirect. |
+| Area                  | What You Must Understand                                                                   |
+| --------------------- | ------------------------------------------------------------------------------------------ |
+| Central idea          | Oxidation and reduction occur simultaneously.                                              |
+| Classical oxidation   | Addition of oxygen/electronegative element or removal of hydrogen/electropositive element. |
+| Classical reduction   | Removal of oxygen/electronegative element or addition of hydrogen/electropositive element. |
+| Electronic definition | Oxidation is loss of electrons; reduction is gain of electrons.                            |
+| Oxidising agent       | Species that accepts electrons and gets reduced.                                           |
+| Reducing agent        | Species that donates electrons and gets oxidised.                                          |
+| Oxidation number      | Book-keeping number used to track electron shift, especially in covalent compounds.        |
+| Redox classification  | Combination, decomposition, displacement, disproportionation.                              |
+| Balancing methods     | Oxidation number method and ion-electron method.                                           |
+| Electrode process     | Redox reaction can produce electrical energy when electron transfer is indirect.           |
 
 ---
 
@@ -47,51 +48,51 @@ Redox reactions are not just a classroom topic. They explain burning of fuels, e
 
 By the end of this chapter, you should be able to:
 
-| Skill | You Should Be Able To |
-| --- | --- |
-| Define | Oxidation, reduction, redox reaction, oxidant, reductant, oxidation number, redox couple. |
-| Identify | Substance oxidised, substance reduced, oxidising agent, reducing agent. |
-| Assign | Oxidation numbers using rules and exceptions. |
+| Skill    | You Should Be Able To                                                                        |
+| -------- | -------------------------------------------------------------------------------------------- |
+| Define   | Oxidation, reduction, redox reaction, oxidant, reductant, oxidation number, redox couple.    |
+| Identify | Substance oxidised, substance reduced, oxidising agent, reducing agent.                      |
+| Assign   | Oxidation numbers using rules and exceptions.                                                |
 | Classify | Redox reactions into combination, decomposition, displacement, and disproportionation types. |
-| Balance | Redox equations by oxidation number and ion-electron methods. |
-| Explain | Redox titration indicators and electrode processes. |
-| Apply | Use standard electrode potentials to compare oxidising and reducing tendencies. |
+| Balance  | Redox equations by oxidation number and ion-electron methods.                                |
+| Explain  | Redox titration indicators and electrode processes.                                          |
+| Apply    | Use standard electrode potentials to compare oxidising and reducing tendencies.              |
 
 ---
 
 ## Big Map of the Chapter
 
-| Unit | Main Question | Main Tool |
-| --- | --- | --- |
-| Classical redox | What were the older meanings of oxidation and reduction? | Oxygen, hydrogen, electronegative and electropositive elements. |
-| Electron transfer | What really happens in many redox reactions? | Loss and gain of electrons. |
-| Oxidation number | How do we track redox in covalent compounds? | Oxidation number rules. |
-| Redox agents | Who causes oxidation or reduction? | Oxidant/reductant identification. |
-| Reaction types | What forms can redox reactions take? | Combination, decomposition, displacement, disproportionation. |
-| Balancing | How do we balance redox equations correctly? | Oxidation number method and ion-electron method. |
-| Titrations | How are redox reactions used analytically? | Self-indicators, external indicators, iodine-starch method. |
-| Electrode processes | How can redox produce current? | Redox couples, salt bridge, standard electrode potential. |
+| Unit                | Main Question                                            | Main Tool                                                       |
+| ------------------- | -------------------------------------------------------- | --------------------------------------------------------------- |
+| Classical redox     | What were the older meanings of oxidation and reduction? | Oxygen, hydrogen, electronegative and electropositive elements. |
+| Electron transfer   | What really happens in many redox reactions?             | Loss and gain of electrons.                                     |
+| Oxidation number    | How do we track redox in covalent compounds?             | Oxidation number rules.                                         |
+| Redox agents        | Who causes oxidation or reduction?                       | Oxidant/reductant identification.                               |
+| Reaction types      | What forms can redox reactions take?                     | Combination, decomposition, displacement, disproportionation.   |
+| Balancing           | How do we balance redox equations correctly?             | Oxidation number method and ion-electron method.                |
+| Titrations          | How are redox reactions used analytically?               | Self-indicators, external indicators, iodine-starch method.     |
+| Electrode processes | How can redox produce current?                           | Redox couples, salt bridge, standard electrode potential.       |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Oxidation | Loss of electrons or increase in oxidation number; classically, addition of oxygen/electronegative element or removal of hydrogen/electropositive element. |
-| Reduction | Gain of electrons or decrease in oxidation number; classically, removal of oxygen/electronegative element or addition of hydrogen/electropositive element. |
-| Redox reaction | Reaction in which oxidation and reduction occur simultaneously. |
-| Oxidising agent | Species that causes oxidation by accepting electrons; it itself gets reduced. |
-| Reducing agent | Species that causes reduction by donating electrons; it itself gets oxidised. |
-| Half reaction | One part of a redox process showing either oxidation or reduction separately. |
-| Oxidation number | Assigned number representing the apparent charge of an atom if bonding electrons are given to the more electronegative atom. |
-| Oxidation state | State of an element indicated by its oxidation number. |
-| Stock notation | Use of Roman numerals to show oxidation state of a metal, such as Fe(II) or Fe(III). |
-| Disproportionation | Redox reaction in which the same element is both oxidised and reduced. |
-| Redox titration | Titration based on oxidation-reduction reaction. |
-| Redox couple | Oxidised and reduced forms of the same species written together, such as `Zn2+/Zn`. |
-| Electrode potential | Potential associated with an electrode process. |
-| Standard electrode potential | Electrode potential measured under standard conditions. |
+| Term                         | Meaning                                                                                                                                                    |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Oxidation                    | Loss of electrons or increase in oxidation number; classically, addition of oxygen/electronegative element or removal of hydrogen/electropositive element. |
+| Reduction                    | Gain of electrons or decrease in oxidation number; classically, removal of oxygen/electronegative element or addition of hydrogen/electropositive element. |
+| Redox reaction               | Reaction in which oxidation and reduction occur simultaneously.                                                                                            |
+| Oxidising agent              | Species that causes oxidation by accepting electrons; it itself gets reduced.                                                                              |
+| Reducing agent               | Species that causes reduction by donating electrons; it itself gets oxidised.                                                                              |
+| Half reaction                | One part of a redox process showing either oxidation or reduction separately.                                                                              |
+| Oxidation number             | Assigned number representing the apparent charge of an atom if bonding electrons are given to the more electronegative atom.                               |
+| Oxidation state              | State of an element indicated by its oxidation number.                                                                                                     |
+| Stock notation               | Use of Roman numerals to show oxidation state of a metal, such as Fe(II) or Fe(III).                                                                       |
+| Disproportionation           | Redox reaction in which the same element is both oxidised and reduced.                                                                                     |
+| Redox titration              | Titration based on oxidation-reduction reaction.                                                                                                           |
+| Redox couple                 | Oxidised and reduced forms of the same species written together, such as `Zn2+/Zn`.                                                                        |
+| Electrode potential          | Potential associated with an electrode process.                                                                                                            |
+| Standard electrode potential | Electrode potential measured under standard conditions.                                                                                                    |
 
 ---
 
@@ -307,12 +308,12 @@ This example leads naturally to the electron-transfer definition.
 
 ## Core Definitions
 
-| Process | Electron Meaning |
-| --- | --- |
-| Oxidation | Loss of electrons |
-| Reduction | Gain of electrons |
+| Process         | Electron Meaning  |
+| --------------- | ----------------- |
+| Oxidation       | Loss of electrons |
+| Reduction       | Gain of electrons |
 | Oxidising agent | Electron acceptor |
-| Reducing agent | Electron donor |
+| Reducing agent  | Electron donor    |
 
 Memory aid:
 
@@ -353,9 +354,9 @@ Chlorine gains electrons, so chlorine is reduced.
 
 A half reaction shows only one side of the electron-transfer process.
 
-| Half Reaction Type | What It Shows |
-| --- | --- |
-| Oxidation half reaction | Electrons produced on product side. |
+| Half Reaction Type      | What It Shows                        |
+| ----------------------- | ------------------------------------ |
+| Oxidation half reaction | Electrons produced on product side.  |
 | Reduction half reaction | Electrons consumed on reactant side. |
 
 Examples:
@@ -374,10 +375,10 @@ Reduction:
 
 This is a common source of confusion.
 
-| Species | What It Does | What Happens to It |
-| --- | --- | --- |
-| Oxidising agent | Oxidises another species by accepting electrons. | Gets reduced. |
-| Reducing agent | Reduces another species by donating electrons. | Gets oxidised. |
+| Species         | What It Does                                     | What Happens to It |
+| --------------- | ------------------------------------------------ | ------------------ |
+| Oxidising agent | Oxidises another species by accepting electrons. | Gets reduced.      |
+| Reducing agent  | Reduces another species by donating electrons.   | Gets oxidised.     |
 
 In:
 
@@ -515,23 +516,23 @@ For a monoatomic ion, oxidation number equals ionic charge.
 
 Examples:
 
-| Ion | Oxidation Number |
-| --- | ---: |
-| `Na+` | `+1` |
-| `Mg2+` | `+2` |
-| `Fe3+` | `+3` |
-| `Cl-` | `-1` |
-| `O2-` | `-2` |
+| Ion    | Oxidation Number |
+| ------ | ---------------: |
+| `Na+`  |             `+1` |
+| `Mg2+` |             `+2` |
+| `Fe3+` |             `+3` |
+| `Cl-`  |             `-1` |
+| `O2-`  |             `-2` |
 
 ---
 
 ## Rule 3: Alkali, Alkaline Earth, and Aluminium
 
-| Element Group | Oxidation Number in Compounds |
-| --- | ---: |
-| Alkali metals | `+1` |
-| Alkaline earth metals | `+2` |
-| Aluminium | `+3` |
+| Element Group         | Oxidation Number in Compounds |
+| --------------------- | ----------------------------: |
+| Alkali metals         |                          `+1` |
+| Alkaline earth metals |                          `+2` |
+| Aluminium             |                          `+3` |
 
 Examples:
 
@@ -553,12 +554,12 @@ Examples:
 
 Exceptions:
 
-| Compound Type | Oxygen Oxidation Number |
-| --- | ---: |
-| Peroxides, such as `H2O2`, `Na2O2` | `-1` |
-| Superoxides, such as `KO2`, `RbO2` | `-1/2` |
-| `OF2` | `+2` |
-| `O2F2` | `+1` |
+| Compound Type                      | Oxygen Oxidation Number |
+| ---------------------------------- | ----------------------: |
+| Peroxides, such as `H2O2`, `Na2O2` |                    `-1` |
+| Superoxides, such as `KO2`, `RbO2` |                  `-1/2` |
+| `OF2`                              |                    `+2` |
+| `O2F2`                             |                    `+1` |
 
 Oxygen becomes positive with fluorine because fluorine is more electronegative than oxygen.
 
@@ -719,15 +720,15 @@ Stock notation shows the oxidation state of a metal using Roman numerals.
 
 Examples:
 
-| Traditional/Formula | Stock Notation Meaning |
-| --- | --- |
-| `FeO` | Iron(II) oxide, `Fe` is `+2` |
-| `Fe2O3` | Iron(III) oxide, `Fe` is `+3` |
-| `CuI` | Copper(I) iodide, `Cu` is `+1` |
-| `CuO` | Copper(II) oxide, `Cu` is `+2` |
-| `SnCl2` | Tin(II) chloride, `Sn` is `+2` |
-| `SnCl4` | Tin(IV) chloride, `Sn` is `+4` |
-| `MnO2` | Manganese(IV) oxide, `Mn` is `+4` |
+| Traditional/Formula | Stock Notation Meaning            |
+| ------------------- | --------------------------------- |
+| `FeO`               | Iron(II) oxide, `Fe` is `+2`      |
+| `Fe2O3`             | Iron(III) oxide, `Fe` is `+3`     |
+| `CuI`               | Copper(I) iodide, `Cu` is `+1`    |
+| `CuO`               | Copper(II) oxide, `Cu` is `+2`    |
+| `SnCl2`             | Tin(II) chloride, `Sn` is `+2`    |
+| `SnCl4`             | Tin(IV) chloride, `Sn` is `+4`    |
+| `MnO2`              | Manganese(IV) oxide, `Mn` is `+4` |
 
 Stock notation is especially useful for transition metals because they can show multiple oxidation states.
 
@@ -737,12 +738,12 @@ Stock notation is especially useful for transition metals because they can show 
 
 ## Definitions
 
-| Process | Oxidation Number Meaning |
-| --- | --- |
-| Oxidation | Increase in oxidation number. |
-| Reduction | Decrease in oxidation number. |
+| Process         | Oxidation Number Meaning                                                         |
+| --------------- | -------------------------------------------------------------------------------- |
+| Oxidation       | Increase in oxidation number.                                                    |
+| Reduction       | Decrease in oxidation number.                                                    |
 | Oxidising agent | Species that increases oxidation number of another species; itself gets reduced. |
-| Reducing agent | Species that lowers oxidation number of another species; itself gets oxidised. |
+| Reducing agent  | Species that lowers oxidation number of another species; itself gets oxidised.   |
 
 ---
 
@@ -1397,20 +1398,20 @@ So:
 
 ## Examples from the Series
 
-| Couple | `E^0` Meaning |
-| --- | --- |
-| `F2/F-` has very high positive value | Fluorine is a very strong oxidising agent. |
-| `Ag+/Ag` positive | Silver ion is easily reduced compared with hydrogen ion. |
-| `Zn2+/Zn` negative | Zinc metal is a good reducing agent. |
-| `Li+/Li` very negative | Lithium metal is a very strong reducing agent. |
+| Couple                               | `E^0` Meaning                                            |
+| ------------------------------------ | -------------------------------------------------------- |
+| `F2/F-` has very high positive value | Fluorine is a very strong oxidising agent.               |
+| `Ag+/Ag` positive                    | Silver ion is easily reduced compared with hydrogen ion. |
+| `Zn2+/Zn` negative                   | Zinc metal is a good reducing agent.                     |
+| `Li+/Li` very negative               | Lithium metal is a very strong reducing agent.           |
 
 ---
 
 ## Negative and Positive Values
 
-| `E^0` Sign | Interpretation |
-| --- | --- |
-| Positive `E^0` | Oxidised form has greater tendency to be reduced than `H+`. |
+| `E^0` Sign     | Interpretation                                                     |
+| -------------- | ------------------------------------------------------------------ |
+| Positive `E^0` | Oxidised form has greater tendency to be reduced than `H+`.        |
 | Negative `E^0` | Reduced form has greater tendency to lose electrons than hydrogen. |
 
 The NCERT note states:
@@ -1751,4 +1752,3 @@ Redox reactions are used in titrations. Permanganate can act as a self-indicator
 ## Best Final Line for Answers
 
 A redox reaction is best understood as a linked electron-transfer process: the species that loses electrons is oxidised and acts as the reducing agent, while the species that gains electrons is reduced and acts as the oxidising agent.
-

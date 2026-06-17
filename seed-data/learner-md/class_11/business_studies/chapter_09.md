@@ -41,26 +41,26 @@ By the end of this chapter, a learner should be able to:
 
 ## 3. Core Vocabulary
 
-| Term | Learner meaning |
-|---|---|
-| MSME | Micro, small, and medium enterprise |
-| Micro enterprise | A very small enterprise, classified by investment and turnover in the textbook framework |
-| Small enterprise | An enterprise larger than micro but smaller than medium in the textbook framework |
-| Medium enterprise | An enterprise larger than small but not yet a large enterprise |
-| Small business | A business operating on a comparatively small scale |
-| Village industry | An industry located in a rural area that produces goods or provides services |
-| Cottage industry | A traditional or rural industry often run with family labour and simple tools |
-| Entrepreneur | A person who starts and runs a business venture |
-| Entrepreneurship | The process of creating and running an enterprise |
-| Enterprise | The business unit created through entrepreneurship |
-| Innovation | Creating or applying new ideas, methods, products, or markets |
-| IPR | Intellectual property rights |
-| Copyright | Legal protection for original literary, artistic, musical, dramatic, sound, and film work |
-| Trademark | A word, symbol, name, logo, or mark that identifies goods or services |
-| GI | Geographical indication, linking a product with a particular place |
-| Patent | Exclusive right for a new, non-obvious, industrially useful invention |
-| Design | Protection for appearance, shape, pattern, or ornamentation of an article |
-| Trade secret | Confidential business information that gives competitive advantage |
+| Term              | Learner meaning                                                                           |
+| ----------------- | ----------------------------------------------------------------------------------------- |
+| MSME              | Micro, small, and medium enterprise                                                       |
+| Micro enterprise  | A very small enterprise, classified by investment and turnover in the textbook framework  |
+| Small enterprise  | An enterprise larger than micro but smaller than medium in the textbook framework         |
+| Medium enterprise | An enterprise larger than small but not yet a large enterprise                            |
+| Small business    | A business operating on a comparatively small scale                                       |
+| Village industry  | An industry located in a rural area that produces goods or provides services              |
+| Cottage industry  | A traditional or rural industry often run with family labour and simple tools             |
+| Entrepreneur      | A person who starts and runs a business venture                                           |
+| Entrepreneurship  | The process of creating and running an enterprise                                         |
+| Enterprise        | The business unit created through entrepreneurship                                        |
+| Innovation        | Creating or applying new ideas, methods, products, or markets                             |
+| IPR               | Intellectual property rights                                                              |
+| Copyright         | Legal protection for original literary, artistic, musical, dramatic, sound, and film work |
+| Trademark         | A word, symbol, name, logo, or mark that identifies goods or services                     |
+| GI                | Geographical indication, linking a product with a particular place                        |
+| Patent            | Exclusive right for a new, non-obvious, industrially useful invention                     |
+| Design            | Protection for appearance, shape, pattern, or ornamentation of an article                 |
+| Trade secret      | Confidential business information that gives competitive advantage                        |
 
 ## 4. Big Picture of the Chapter
 
@@ -210,15 +210,15 @@ The case shows the journey from skill to enterprise:
 
 This case is useful because it shows important entrepreneurial qualities.
 
-| Event in the case | Business lesson |
-|---|---|
-| Learning tailoring at home | Skills can become business assets |
-| Using leftover fabric | Waste material can become input |
-| Making a purse for a friend | A small experiment can reveal demand |
-| Friends asking for similar purses | Customer response validates an idea |
-| Calculating cost and income | Entrepreneurship needs planning |
-| Launching Romi Bags | Opportunity must be converted into action |
-| Receiving recognition | Small business can grow through persistence |
+| Event in the case                 | Business lesson                             |
+| --------------------------------- | ------------------------------------------- |
+| Learning tailoring at home        | Skills can become business assets           |
+| Using leftover fabric             | Waste material can become input             |
+| Making a purse for a friend       | A small experiment can reveal demand        |
+| Friends asking for similar purses | Customer response validates an idea         |
+| Calculating cost and income       | Entrepreneurship needs planning             |
+| Launching Romi Bags               | Opportunity must be converted into action   |
+| Receiving recognition             | Small business can grow through persistence |
 
 ## 12. What the Romi Bags Case Teaches About MSMEs
 
@@ -243,10 +243,10 @@ The classification is important because it helps the government and institutions
 
 ## 14. Textbook Classification Table
 
-| Category | Investment limit | Turnover limit |
-|---|---:|---:|
-| Micro enterprise | Does not exceed Rs. 1 crore | Does not exceed Rs. 5 crore |
-| Small enterprise | Does not exceed Rs. 10 crore | Does not exceed Rs. 50 crore |
+| Category          |             Investment limit |                Turnover limit |
+| ----------------- | ---------------------------: | ----------------------------: |
+| Micro enterprise  |  Does not exceed Rs. 1 crore |   Does not exceed Rs. 5 crore |
+| Small enterprise  | Does not exceed Rs. 10 crore |  Does not exceed Rs. 50 crore |
 | Medium enterprise | Does not exceed Rs. 50 crore | Does not exceed Rs. 250 crore |
 
 Use this table as a textbook classification. Legal thresholds can be revised by policy, so for formal compliance one should verify the latest official rule.
@@ -376,14 +376,14 @@ Examples:
 
 ## 21. Village Industry and Cottage Industry Compared
 
-| Basis | Village industry | Cottage industry |
-|---|---|---|
-| Location | Rural area | Usually home-based or rural |
-| Scale | Small | Very small |
-| Labour | Local workers | Family or household labour is common |
-| Technology | Simple or moderate | Usually simple and traditional |
-| Capital | Low to moderate | Very low |
-| Market | Local or wider | Local, regional, or craft-based |
+| Basis      | Village industry            | Cottage industry                      |
+| ---------- | --------------------------- | ------------------------------------- |
+| Location   | Rural area                  | Usually home-based or rural           |
+| Scale      | Small                       | Very small                            |
+| Labour     | Local workers               | Family or household labour is common  |
+| Technology | Simple or moderate          | Usually simple and traditional        |
+| Capital    | Low to moderate             | Very low                              |
+| Market     | Local or wider              | Local, regional, or craft-based       |
 | Main value | Rural income and employment | Traditional skill and self-employment |
 
 ## 22. Role of MSMEs in India
@@ -767,16 +767,16 @@ Exporting requires more than production. It also needs compliance, finance, qual
 
 ## 42. Problem-Solution Matching Table
 
-| Problem | Practical support needed |
-|---|---|
-| Finance shortage | Credit, collateral support, timely payment, working capital |
-| Raw material shortage | Raw material depots, cooperative purchase, supplier networks |
-| Weak management | Training, mentoring, accounting systems |
-| Marketing weakness | Branding, exhibitions, e-commerce, government purchase support |
-| Quality issues | Testing facilities, quality certification, improved technology |
-| Low capacity use | Market linkage, demand planning, better finance |
-| Global competition | Technology upgrade, design improvement, cost control |
-| Export difficulty | Export guidance, finance, standards support, market information |
+| Problem               | Practical support needed                                        |
+| --------------------- | --------------------------------------------------------------- |
+| Finance shortage      | Credit, collateral support, timely payment, working capital     |
+| Raw material shortage | Raw material depots, cooperative purchase, supplier networks    |
+| Weak management       | Training, mentoring, accounting systems                         |
+| Marketing weakness    | Branding, exhibitions, e-commerce, government purchase support  |
+| Quality issues        | Testing facilities, quality certification, improved technology  |
+| Low capacity use      | Market linkage, demand planning, better finance                 |
+| Global competition    | Technology upgrade, design improvement, cost control            |
+| Export difficulty     | Export guidance, finance, standards support, market information |
 
 ## 43. Meaning of Entrepreneurship
 
@@ -794,11 +794,11 @@ In entrepreneurship, a person creates and manages a business venture.
 
 These three words are closely connected.
 
-| Term | Meaning | Sentence analogy |
-|---|---|---|
-| Entrepreneur | The person who starts and runs the business | Subject |
-| Entrepreneurship | The process of creating and running the business | Verb |
-| Enterprise | The business unit created | Object |
+| Term             | Meaning                                          | Sentence analogy |
+| ---------------- | ------------------------------------------------ | ---------------- |
+| Entrepreneur     | The person who starts and runs the business      | Subject          |
+| Entrepreneurship | The process of creating and running the business | Verb             |
+| Enterprise       | The business unit created                        | Object           |
 
 Example:
 
@@ -942,10 +942,10 @@ Using leftover fabric to make stylish bags is an innovation because it converts 
 
 Innovation can help in two major ways.
 
-| Type | Meaning | Example |
-|---|---|---|
-| Cost-saving innovation | Reduces cost of production | Using less wasteful cutting methods in tailoring |
-| Revenue-increasing innovation | Increases sales or price | Creating a new design customers prefer |
+| Type                          | Meaning                    | Example                                          |
+| ----------------------------- | -------------------------- | ------------------------------------------------ |
+| Cost-saving innovation        | Reduces cost of production | Using less wasteful cutting methods in tailoring |
+| Revenue-increasing innovation | Increases sales or price   | Creating a new design customers prefer           |
 
 The best innovation may do both:
 
@@ -1057,10 +1057,10 @@ Creativity means generating new ideas.
 
 Innovation means applying those ideas in practice.
 
-| Concept | Meaning | Example |
-|---|---|---|
-| Creativity | Thinking of a new design | Imagining a bag made from leftover fabric |
-| Innovation | Turning the design into a product and selling it | Producing and selling the bag |
+| Concept    | Meaning                                          | Example                                   |
+| ---------- | ------------------------------------------------ | ----------------------------------------- |
+| Creativity | Thinking of a new design                         | Imagining a bag made from leftover fabric |
+| Innovation | Turning the design into a product and selling it | Producing and selling the bag             |
 
 Creativity without implementation remains only an idea.
 
@@ -1189,14 +1189,14 @@ If a student writes an original story, others should not publish it under their 
 
 ## 66. Copyright Protection Table
 
-| Work type | Examples |
-|---|---|
-| Literary work | Books, poems, pamphlets, computer programmes |
-| Artistic work | Drawings, paintings, maps, logos, sculptures |
-| Dramatic work | Plays, screenplays, dance or mime expressions |
-| Musical work | Songs and compositions |
-| Sound recording | Recorded audio |
-| Cinematographic film | Films and video works |
+| Work type            | Examples                                      |
+| -------------------- | --------------------------------------------- |
+| Literary work        | Books, poems, pamphlets, computer programmes  |
+| Artistic work        | Drawings, paintings, maps, logos, sculptures  |
+| Dramatic work        | Plays, screenplays, dance or mime expressions |
+| Musical work         | Songs and compositions                        |
+| Sound recording      | Recorded audio                                |
+| Cinematographic film | Films and video works                         |
 
 ## 67. Trademark
 
@@ -1228,10 +1228,10 @@ Deceptive similarity means a mark is so similar to another mark that customers m
 
 ## 69. Conventional and Non-Conventional Trademarks
 
-| Type | Meaning | Examples |
-|---|---|---|
-| Conventional trademark | Traditional visible marks | Words, logos, labels, packaging, shape of goods |
-| Non-conventional trademark | Less traditional marks recognised in some cases | Sound mark, dynamic mark |
+| Type                       | Meaning                                         | Examples                                        |
+| -------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+| Conventional trademark     | Traditional visible marks                       | Words, logos, labels, packaging, shape of goods |
+| Non-conventional trademark | Less traditional marks recognised in some cases | Sound mark, dynamic mark                        |
 
 The raw chapter notes that smell and taste marks are recognised in some parts of the world but not as trademarks in India in the textbook context.
 
@@ -1296,9 +1296,9 @@ A patent gives the owner the right to stop others from:
 
 Patent protection applies to inventions, not mere discoveries.
 
-| Concept | Meaning | Example |
-|---|---|---|
-| Discovery | Finding something that already exists | Discovering gravity |
+| Concept   | Meaning                                     | Example                 |
+| --------- | ------------------------------------------- | ----------------------- |
+| Discovery | Finding something that already exists       | Discovering gravity     |
 | Invention | Creating something new through human effort | Inventing the telephone |
 
 The raw chapter uses Newton and Alexander Graham Bell to show this distinction.
@@ -1487,17 +1487,17 @@ A start-up creating a new medical device may need patent protection for the inve
 
 ## 87. Intellectual Property Selection Guide
 
-| Business asset | Suitable protection |
-|---|---|
-| Brand name | Trademark |
-| Logo | Trademark and sometimes copyright |
-| Book or software code | Copyright |
-| New machine | Patent |
-| Product appearance | Design |
-| Regional product name | Geographical indication |
-| New plant variety | Plant variety protection |
-| Chip layout | Semiconductor layout design |
-| Secret formula | Trade secret |
+| Business asset                  | Suitable protection                                |
+| ------------------------------- | -------------------------------------------------- |
+| Brand name                      | Trademark                                          |
+| Logo                            | Trademark and sometimes copyright                  |
+| Book or software code           | Copyright                                          |
+| New machine                     | Patent                                             |
+| Product appearance              | Design                                             |
+| Regional product name           | Geographical indication                            |
+| New plant variety               | Plant variety protection                           |
+| Chip layout                     | Semiconductor layout design                        |
+| Secret formula                  | Trade secret                                       |
 | Traditional medicinal knowledge | Traditional knowledge documentation and protection |
 
 ## 88. MSME, Innovation, and IPR Together
@@ -1524,17 +1524,17 @@ An MSME producing handmade bags may:
 
 ## 89. Common Student Confusions
 
-| Confusion | Correct understanding |
-|---|---|
-| MSME means only tiny shops | MSME includes micro, small, and medium enterprises, including advanced units |
-| Small business cannot innovate | Small firms often innovate through design, cost control, and local solutions |
-| Entrepreneur means only a rich business owner | An entrepreneur is a person who creates and runs an enterprise |
-| Entrepreneurship is pure risk | It involves calculated risk, not blind risk |
-| Copyright protects ideas | Copyright protects expression of ideas |
-| Patent protects every new thought | Patent protects qualifying inventions, not mere ideas or discoveries |
-| Trademark and copyright are the same | Trademark protects brand identity; copyright protects creative expression |
-| GI belongs to one company only | GI protects collective regional reputation |
-| Trade secret needs public registration | Trade secret depends on secrecy and confidentiality |
+| Confusion                                     | Correct understanding                                                        |
+| --------------------------------------------- | ---------------------------------------------------------------------------- |
+| MSME means only tiny shops                    | MSME includes micro, small, and medium enterprises, including advanced units |
+| Small business cannot innovate                | Small firms often innovate through design, cost control, and local solutions |
+| Entrepreneur means only a rich business owner | An entrepreneur is a person who creates and runs an enterprise               |
+| Entrepreneurship is pure risk                 | It involves calculated risk, not blind risk                                  |
+| Copyright protects ideas                      | Copyright protects expression of ideas                                       |
+| Patent protects every new thought             | Patent protects qualifying inventions, not mere ideas or discoveries         |
+| Trademark and copyright are the same          | Trademark protects brand identity; copyright protects creative expression    |
+| GI belongs to one company only                | GI protects collective regional reputation                                   |
+| Trade secret needs public registration        | Trade secret depends on secrecy and confidentiality                          |
 
 ## 90. Exam Answer: Meaning of MSME
 
@@ -1672,45 +1672,45 @@ Model points:
 
 ## 105. Comparison: MSME and Large Industry
 
-| Basis | MSME | Large industry |
-|---|---|---|
-| Capital need | Low to moderate | Very high |
-| Employment pattern | Labour-intensive | Often more capital-intensive |
-| Decision making | Faster | Slower due to many levels |
-| Market | Local, regional, national, or niche | Usually national or global |
-| Flexibility | High | Lower |
-| Technology | Simple to advanced | Usually advanced |
-| Management | Often owner-managed | Professional management |
-| Product style | Can be customised | Often standardised |
+| Basis              | MSME                                | Large industry               |
+| ------------------ | ----------------------------------- | ---------------------------- |
+| Capital need       | Low to moderate                     | Very high                    |
+| Employment pattern | Labour-intensive                    | Often more capital-intensive |
+| Decision making    | Faster                              | Slower due to many levels    |
+| Market             | Local, regional, national, or niche | Usually national or global   |
+| Flexibility        | High                                | Lower                        |
+| Technology         | Simple to advanced                  | Usually advanced             |
+| Management         | Often owner-managed                 | Professional management      |
+| Product style      | Can be customised                   | Often standardised           |
 
 ## 106. Comparison: Entrepreneur and Manager
 
-| Basis | Entrepreneur | Manager |
-|---|---|---|
-| Main role | Starts and owns or builds enterprise | Runs an existing organisation or department |
-| Risk | Bears business risk | Usually receives salary |
-| Reward | Profit and growth | Salary, incentives, career growth |
-| Innovation | Expected to identify opportunities | May implement plans |
-| Ownership | Often owner or promoter | Usually employee |
-| Decision focus | Opportunity, survival, growth | Efficiency and execution |
+| Basis          | Entrepreneur                         | Manager                                     |
+| -------------- | ------------------------------------ | ------------------------------------------- |
+| Main role      | Starts and owns or builds enterprise | Runs an existing organisation or department |
+| Risk           | Bears business risk                  | Usually receives salary                     |
+| Reward         | Profit and growth                    | Salary, incentives, career growth           |
+| Innovation     | Expected to identify opportunities   | May implement plans                         |
+| Ownership      | Often owner or promoter              | Usually employee                            |
+| Decision focus | Opportunity, survival, growth        | Efficiency and execution                    |
 
 ## 107. Comparison: Copyright, Trademark, and Patent
 
-| Basis | Copyright | Trademark | Patent |
-|---|---|---|---|
-| Protects | Creative expression | Brand identity | Invention |
-| Example | Book, song, painting, software | Logo, brand name, label | New machine or process |
-| Main purpose | Stop unauthorised copying | Prevent customer confusion | Protect technical invention |
-| Business use | Protects content | Builds brand | Protects technology |
+| Basis        | Copyright                      | Trademark                  | Patent                      |
+| ------------ | ------------------------------ | -------------------------- | --------------------------- |
+| Protects     | Creative expression            | Brand identity             | Invention                   |
+| Example      | Book, song, painting, software | Logo, brand name, label    | New machine or process      |
+| Main purpose | Stop unauthorised copying      | Prevent customer confusion | Protect technical invention |
+| Business use | Protects content               | Builds brand               | Protects technology         |
 
 ## 108. Comparison: Patent and Design
 
-| Basis | Patent | Design |
-|---|---|---|
-| Protects | Technical invention | Appearance of an article |
-| Focus | Function and technical advancement | Shape, pattern, look, ornamentation |
-| Example | New machine mechanism | Shape of a bottle |
-| Learner shortcut | How it works | How it looks |
+| Basis            | Patent                             | Design                              |
+| ---------------- | ---------------------------------- | ----------------------------------- |
+| Protects         | Technical invention                | Appearance of an article            |
+| Focus            | Function and technical advancement | Shape, pattern, look, ornamentation |
+| Example          | New machine mechanism              | Shape of a bottle                   |
+| Learner shortcut | How it works                       | How it looks                        |
 
 ## 109. Flow of Entrepreneurial Process
 
@@ -1801,29 +1801,29 @@ MSME
 
 ## 114. Glossary
 
-| Term | Meaning |
-|---|---|
-| Ancillary unit | A smaller unit supplying parts or services to a larger unit |
-| Balanced regional development | Spread of industrial growth across regions |
-| Capacity utilisation | Extent to which installed production capacity is used |
-| Cottage industry | Small traditional industry using family labour and simple tools |
-| Deceptive similarity | Similarity that can confuse customers about a brand |
-| Enterprise | Business unit created by an entrepreneur |
-| Entrepreneur | Person who starts and runs a business |
-| Entrepreneurship | Process of setting up and running a business |
-| Geographical indication | Tag linking goods to a particular place and reputation |
-| Innovation | Application of new ideas in products, methods, markets, or services |
-| Intellectual property | Creations of the human mind with economic value |
-| IPR | Legal rights protecting intellectual property |
-| MSME | Micro, small, and medium enterprise |
-| Patent | Exclusive right over a qualifying invention |
-| Plant variety protection | Protection for new plant varieties |
-| Semiconductor layout design | Protection of chip layout design |
-| Start-up | Entrepreneurial venture based on innovation or improvement |
-| Trade secret | Confidential information giving competitive advantage |
-| Trademark | Brand identifier such as name, logo, or symbol |
-| Village industry | Rural industry producing goods or providing services |
-| Working capital | Funds needed for daily operations |
+| Term                          | Meaning                                                             |
+| ----------------------------- | ------------------------------------------------------------------- |
+| Ancillary unit                | A smaller unit supplying parts or services to a larger unit         |
+| Balanced regional development | Spread of industrial growth across regions                          |
+| Capacity utilisation          | Extent to which installed production capacity is used               |
+| Cottage industry              | Small traditional industry using family labour and simple tools     |
+| Deceptive similarity          | Similarity that can confuse customers about a brand                 |
+| Enterprise                    | Business unit created by an entrepreneur                            |
+| Entrepreneur                  | Person who starts and runs a business                               |
+| Entrepreneurship              | Process of setting up and running a business                        |
+| Geographical indication       | Tag linking goods to a particular place and reputation              |
+| Innovation                    | Application of new ideas in products, methods, markets, or services |
+| Intellectual property         | Creations of the human mind with economic value                     |
+| IPR                           | Legal rights protecting intellectual property                       |
+| MSME                          | Micro, small, and medium enterprise                                 |
+| Patent                        | Exclusive right over a qualifying invention                         |
+| Plant variety protection      | Protection for new plant varieties                                  |
+| Semiconductor layout design   | Protection of chip layout design                                    |
+| Start-up                      | Entrepreneurial venture based on innovation or improvement          |
+| Trade secret                  | Confidential information giving competitive advantage               |
+| Trademark                     | Brand identifier such as name, logo, or symbol                      |
+| Village industry              | Rural industry producing goods or providing services                |
+| Working capital               | Funds needed for daily operations                                   |
 
 ## 115. Final Revision Sheet
 

@@ -1,4 +1,5 @@
 # Chapter 3: Dual Nature of Radiation and Matter
+
 ### NCERT Class 12 - Physics Part 2
 
 ## Chapter at a Glance
@@ -26,34 +27,34 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Work function | Minimum energy needed to remove an electron from a metal surface. |
-| Electron volt | Energy gained by an electron through potential difference of 1 volt. |
-| Photoelectric effect | Emission of electrons from a metal surface when suitable light falls on it. |
-| Photoelectron | Electron emitted by photoelectric effect. |
-| Photocurrent | Current due to flow of photoelectrons. |
-| Saturation current | Maximum photocurrent when all emitted electrons are collected. |
-| Stopping potential | Minimum retarding potential that stops even the fastest photoelectrons. |
-| Threshold frequency | Minimum frequency needed for photoelectric emission from a given metal. |
-| Photon | Quantum of electromagnetic radiation. |
-| de Broglie wavelength | Wavelength associated with a moving matter particle. |
+| Term                  | Meaning                                                                     |
+| --------------------- | --------------------------------------------------------------------------- |
+| Work function         | Minimum energy needed to remove an electron from a metal surface.           |
+| Electron volt         | Energy gained by an electron through potential difference of 1 volt.        |
+| Photoelectric effect  | Emission of electrons from a metal surface when suitable light falls on it. |
+| Photoelectron         | Electron emitted by photoelectric effect.                                   |
+| Photocurrent          | Current due to flow of photoelectrons.                                      |
+| Saturation current    | Maximum photocurrent when all emitted electrons are collected.              |
+| Stopping potential    | Minimum retarding potential that stops even the fastest photoelectrons.     |
+| Threshold frequency   | Minimum frequency needed for photoelectric emission from a given metal.     |
+| Photon                | Quantum of electromagnetic radiation.                                       |
+| de Broglie wavelength | Wavelength associated with a moving matter particle.                        |
 
 ## Quick Formula Map
 
-| Idea | Formula |
-|---|---|
-| Energy of photon | `E = h nu` |
-| Photon energy in wavelength form | `E = hc/lambda` |
-| Photon momentum | `p = h/lambda = h nu/c` |
-| Work function | `phi0 = h nu0` |
-| Maximum kinetic energy | `Kmax = e V0` |
-| Einstein photoelectric equation | `Kmax = h nu - phi0` |
-| Stopping potential equation | `e V0 = h nu - phi0` |
-| Threshold wavelength | `lambda0 = hc/phi0` |
-| de Broglie wavelength | `lambda = h/p` |
-| Matter wave for non-relativistic particle | `lambda = h/mv` |
-| Electron accelerated by potential V | `lambda = h/sqrt(2meV)` |
+| Idea                                      | Formula                 |
+| ----------------------------------------- | ----------------------- |
+| Energy of photon                          | `E = h nu`              |
+| Photon energy in wavelength form          | `E = hc/lambda`         |
+| Photon momentum                           | `p = h/lambda = h nu/c` |
+| Work function                             | `phi0 = h nu0`          |
+| Maximum kinetic energy                    | `Kmax = e V0`           |
+| Einstein photoelectric equation           | `Kmax = h nu - phi0`    |
+| Stopping potential equation               | `e V0 = h nu - phi0`    |
+| Threshold wavelength                      | `lambda0 = hc/phi0`     |
+| de Broglie wavelength                     | `lambda = h/p`          |
+| Matter wave for non-relativistic particle | `lambda = h/mv`         |
+| Electron accelerated by potential V       | `lambda = h/sqrt(2meV)` |
 
 # Unit 3A: Background to Dual Nature
 
@@ -86,10 +87,10 @@ It is usually measured in electron volt.
 
 ## Types of Electron Emission
 
-| Emission | Energy supplied by |
-|---|---|
-| Thermionic emission | Heating the metal. |
-| Field emission | Applying a very strong electric field. |
+| Emission               | Energy supplied by                      |
+| ---------------------- | --------------------------------------- |
+| Thermionic emission    | Heating the metal.                      |
+| Field emission         | Applying a very strong electric field.  |
 | Photoelectric emission | Illuminating metal with suitable light. |
 
 # Unit 3C: Photoelectric Effect
@@ -488,15 +489,15 @@ Wavelength:
 
 # Unit 3Q: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Saying intensity increases photon energy. | Frequency increases photon energy; intensity increases photon number. |
-| Assuming high intensity below threshold gives emission. | Below threshold frequency, no emission occurs. |
-| Confusing stopping potential with accelerating potential. | Stopping potential is retarding and makes photocurrent zero. |
-| Forgetting work function. | Photon energy first pays work function, then leftover becomes kinetic energy. |
-| Using wavelength formula without converting nm to metre. | `1 nm = 10^-9 m`. |
-| Saying matter waves are visible for all objects. | Macroscopic wavelengths are too small to observe. |
-| Treating photon as charged. | Photon is electrically neutral. |
+| Mistake                                                   | Correction                                                                    |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| Saying intensity increases photon energy.                 | Frequency increases photon energy; intensity increases photon number.         |
+| Assuming high intensity below threshold gives emission.   | Below threshold frequency, no emission occurs.                                |
+| Confusing stopping potential with accelerating potential. | Stopping potential is retarding and makes photocurrent zero.                  |
+| Forgetting work function.                                 | Photon energy first pays work function, then leftover becomes kinetic energy. |
+| Using wavelength formula without converting nm to metre.  | `1 nm = 10^-9 m`.                                                             |
+| Saying matter waves are visible for all objects.          | Macroscopic wavelengths are too small to observe.                             |
+| Treating photon as charged.                               | Photon is electrically neutral.                                               |
 
 ## Practice Set
 

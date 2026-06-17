@@ -1,20 +1,21 @@
 # Chapter 1: The Wonderful World of Science
+
 ### NCERT Class 9 — Science
 
 ---
 
 ## 📌 Chapter at a Glance
 
-| Detail | Info |
-|---|---|
-| Chapter | 1 — The Wonderful World of Science |
-| Class | Class 9 |
-| Subject | Science |
-| Pilot Subject Family | Science |
-| Source File | `data/class_9/science/chapter_01.md` |
-| Textbook Pages | 1 – 7 |
-| Raw Exercise Count | 6 |
-| Formatting Mode | Human-guided pilot for subject-specific automation |
+| Detail               | Info                                               |
+| -------------------- | -------------------------------------------------- |
+| Chapter              | 1 — The Wonderful World of Science                 |
+| Class                | Class 9                                            |
+| Subject              | Science                                            |
+| Pilot Subject Family | Science                                            |
+| Source File          | `data/class_9/science/chapter_01.md`               |
+| Textbook Pages       | 1 – 7                                              |
+| Raw Exercise Count   | 6                                                  |
+| Formatting Mode      | Human-guided pilot for subject-specific automation |
 
 ---
 
@@ -23,52 +24,52 @@
 > [!NOTE]
 > Study this chapter through this route: **observable phenomenon -> experiment/activity -> inference -> concept -> application**.
 
-| Step | Learner Action | Why It Matters |
-|---|---|---|
-| 1 | Connect every concept to the activity or observation that motivates it. | Builds reliable recall and answer quality. |
-| 2 | Separate definitions from examples and consequences. | Builds reliable recall and answer quality. |
-| 3 | For experiments, identify aim, materials, variable changed, variable measured, and inference. | Builds reliable recall and answer quality. |
-| 4 | Use diagrams and comparison tables to revise structures and processes. | Builds reliable recall and answer quality. |
+| Step | Learner Action                                                                                | Why It Matters                             |
+| ---- | --------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| 1    | Connect every concept to the activity or observation that motivates it.                       | Builds reliable recall and answer quality. |
+| 2    | Separate definitions from examples and consequences.                                          | Builds reliable recall and answer quality. |
+| 3    | For experiments, identify aim, materials, variable changed, variable measured, and inference. | Builds reliable recall and answer quality. |
+| 4    | Use diagrams and comparison tables to revise structures and processes.                        | Builds reliable recall and answer quality. |
 
 ---
 
 ## 🎯 Learning Outcomes
 
-| # | After studying this chapter, you should be able to... |
-|---|---|
-| 1 | explain the key scientific concepts using observations and activities |
-| 2 | compare related terms, structures, or processes through tables |
-| 3 | apply chapter ideas to experiment-based and reasoning questions |
+| #   | After studying this chapter, you should be able to...                 |
+| --- | --------------------------------------------------------------------- |
+| 1   | explain the key scientific concepts using observations and activities |
+| 2   | compare related terms, structures, or processes through tables        |
+| 3   | apply chapter ideas to experiment-based and reasoning questions       |
 
 ---
 
 ## 🗂️ Section Structure
 
-| Section | Title | Revision Focus |
-|---|---|---|
-| Intro | Core chapter narrative | Definition, explanation, examples, and likely questions |
+| Section | Title                  | Revision Focus                                          |
+| ------- | ---------------------- | ------------------------------------------------------- |
+| Intro   | Core chapter narrative | Definition, explanation, examples, and likely questions |
 
 ---
 
 ## 🧠 Subject-Specific Study Method
 
-| Part | How to Use It |
-|---|---|
-| Core lens | observable phenomenon -> experiment/activity -> inference -> concept -> application |
-| First pass | Read for meaning and mark unfamiliar terms. |
-| Second pass | Convert definitions, examples, data, and activities into tables. |
-| Revision pass | Use the quick reference and practice tracker at the end. |
+| Part          | How to Use It                                                                       |
+| ------------- | ----------------------------------------------------------------------------------- |
+| Core lens     | observable phenomenon -> experiment/activity -> inference -> concept -> application |
+| First pass    | Read for meaning and mark unfamiliar terms.                                         |
+| Second pass   | Convert definitions, examples, data, and activities into tables.                    |
+| Revision pass | Use the quick reference and practice tracker at the end.                            |
 
 ---
 
 ## 🔬 Process and Application Board
 
-| Learning Need | How To Build It |
-|---|---|
-| Structure | Identify parts, labels, and functions. |
-| Process | Write sequences as flowcharts. |
-| Comparison | Use tables for related terms and systems. |
-| Application | Connect concepts to experiments, observations, behaviour, or daily life. |
+| Learning Need | How To Build It                                                          |
+| ------------- | ------------------------------------------------------------------------ |
+| Structure     | Identify parts, labels, and functions.                                   |
+| Process       | Write sequences as flowcharts.                                           |
+| Comparison    | Use tables for related terms and systems.                                |
+| Application   | Connect concepts to experiments, observations, behaviour, or daily life. |
 
 ---
 
@@ -196,63 +197,63 @@ As you begin this stage of exploration, science invites you not only to learn ab
 
 ## 🔬 Activities, Projects, and Inquiry Prompts
 
-| # | Prompt | Learner Task |
-|---|---|---|
-| 1 | #### 🔬 Activity 1.1: Let us model | Observe, discuss, collect evidence, or write a short response. |
-| 2 | Activity 1.1: Let us model | Observe, discuss, collect evidence, or write a short response. |
+| #   | Prompt                             | Learner Task                                                   |
+| --- | ---------------------------------- | -------------------------------------------------------------- |
+| 1   | #### 🔬 Activity 1.1: Let us model | Observe, discuss, collect evidence, or write a short response. |
+| 2   | Activity 1.1: Let us model         | Observe, discuss, collect evidence, or write a short response. |
 
 ---
 
 ## ✏️ Practice & Exercise Tracker
 
-| Q | Question / Task | Answer Strategy |
-|---|---|---|
-| 1 | 1. Think of a > 💭 **Think It Over / Pause & Ponder** cooked on a gas stove #### 📐 Example 1.3: Estimate how many litres of air you breathe in one day. Start by estimating how many breaths you take per minute, and the volume of one breath. Your aim is not to find an exact answer, but a reasonable estimate. > **Answer:** 60 × 24 = 1440 minutes in a day, so we take roughly 18 – 22 thousand breaths, about 20 thousand breaths a day. We also need to find the volume of air in one breath. One way to estimate this is to think that it takes about 4 – 5 breaths to fill a typical rubber party balloon, which when inflated has a volume of about 2 litres. So, one breath is perhaps about 0.5 litre. Hence, we breathe in about 10,000 litres of air a day! Now, it is hard to see if this estimate is reasonable or not. But if we go back to our balloon example, one could blow up a balloon in about 20 s, so maybe we could fill 3 balloons a minute. Multiplying minute 3b alloon × balloon 2l itres × day 1440 minutes will give about 8640 litres, which for estimation purposes is reasonably close to our earlier estimate of 10,000 litres. Naturally, we would get extremely tired very quickly after blowing balloons nonstop, unlike normal restful breathing. | Identify command word, recall concept, structure answer, then review. |
-| 2 | 2. Describe one situation where an approximate answer is good enough, and one where you would need a very exact value. After Grade 10, if you decide to study science, it will be divided into branches like physics, chemistry, biology and earth science, and even in Grades 9 and 10, the chapters you have will focus on some of these areas. We’ve highlighted some of the exciting things you may learn about in the Next Level Up boxes. However, do remember that the natural world does not have any such boundaries. These divisions are made by us to only help organise knowledge, they are not independent of each other. Most of the real-world problems today, such as understanding climate change, developing medicines, or designing sustainable technologies require ideas from several disciplines together. Science also connects naturally with mathematics, technology, arts, and social sciences. To make sense of the world fully, we need to connect multiple ways of knowing and expressing ideas, each enriching the other. | Identify command word, recall concept, structure answer, then review. |
-| 3 | 3. Choose a real - life object (maybe a pressure cooker or a mobile phone) or a problem (maybe a traffic jam near your school). Make a sketch listing what kind of ideas from physics, chemistry, biology, earth science, or mathematics are involved. Show how at least two branches of science connect with your example. How does a mask really work? Solving real problems requires knowledge from several branches of science. During the COVID-19 pandemic, we all used masks for safety (Fig. 1.4). Understanding how a mask works requires concepts from physics (particle motion and electrostatic attraction), chemistry (properties of polymer fibres), biology (size and behaviour of viruses), and mathematics (modelling airflow and filtration efficiency). | Identify command word, recall concept, structure answer, then review. |
+| Q   | Question / Task                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Answer Strategy                                                       |
+| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| 1   | 1. Think of a > 💭 **Think It Over / Pause & Ponder** cooked on a gas stove #### 📐 Example 1.3: Estimate how many litres of air you breathe in one day. Start by estimating how many breaths you take per minute, and the volume of one breath. Your aim is not to find an exact answer, but a reasonable estimate. > **Answer:** 60 × 24 = 1440 minutes in a day, so we take roughly 18 – 22 thousand breaths, about 20 thousand breaths a day. We also need to find the volume of air in one breath. One way to estimate this is to think that it takes about 4 – 5 breaths to fill a typical rubber party balloon, which when inflated has a volume of about 2 litres. So, one breath is perhaps about 0.5 litre. Hence, we breathe in about 10,000 litres of air a day! Now, it is hard to see if this estimate is reasonable or not. But if we go back to our balloon example, one could blow up a balloon in about 20 s, so maybe we could fill 3 balloons a minute. Multiplying minute 3b alloon × balloon 2l itres × day 1440 minutes will give about 8640 litres, which for estimation purposes is reasonably close to our earlier estimate of 10,000 litres. Naturally, we would get extremely tired very quickly after blowing balloons nonstop, unlike normal restful breathing. | Identify command word, recall concept, structure answer, then review. |
+| 2   | 2. Describe one situation where an approximate answer is good enough, and one where you would need a very exact value. After Grade 10, if you decide to study science, it will be divided into branches like physics, chemistry, biology and earth science, and even in Grades 9 and 10, the chapters you have will focus on some of these areas. We’ve highlighted some of the exciting things you may learn about in the Next Level Up boxes. However, do remember that the natural world does not have any such boundaries. These divisions are made by us to only help organise knowledge, they are not independent of each other. Most of the real-world problems today, such as understanding climate change, developing medicines, or designing sustainable technologies require ideas from several disciplines together. Science also connects naturally with mathematics, technology, arts, and social sciences. To make sense of the world fully, we need to connect multiple ways of knowing and expressing ideas, each enriching the other.                                                                                                                                                                                                                                       | Identify command word, recall concept, structure answer, then review. |
+| 3   | 3. Choose a real - life object (maybe a pressure cooker or a mobile phone) or a problem (maybe a traffic jam near your school). Make a sketch listing what kind of ideas from physics, chemistry, biology, earth science, or mathematics are involved. Show how at least two branches of science connect with your example. How does a mask really work? Solving real problems requires knowledge from several branches of science. During the COVID-19 pandemic, we all used masks for safety (Fig. 1.4). Understanding how a mask works requires concepts from physics (particle motion and electrostatic attraction), chemistry (properties of polymer fibres), biology (size and behaviour of viruses), and mathematics (modelling airflow and filtration efficiency).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Identify command word, recall concept, structure answer, then review. |
 
 ---
 
 ## 🧩 Answer-Writing Framework
 
-| Step | What To Do |
-|---|---|
-| 1 | Name the phenomenon or concept. |
-| 2 | Describe the observation in simple language. |
-| 3 | Explain the scientific reason using key terms. |
-| 4 | Add an example or application. |
-| 5 | Mention exceptions or conditions if the chapter gives them. |
+| Step | What To Do                                                  |
+| ---- | ----------------------------------------------------------- |
+| 1    | Name the phenomenon or concept.                             |
+| 2    | Describe the observation in simple language.                |
+| 3    | Explain the scientific reason using key terms.              |
+| 4    | Add an example or application.                              |
+| 5    | Mention exceptions or conditions if the chapter gives them. |
 
 ---
 
 ## ⚠️ Common Misconceptions
 
-| # | Watch Out For This |
-|---|---|
-| 1 | A memorised definition is not enough; link it to an observation. |
-| 2 | Do not confuse similar processes such as diffusion/osmosis or mitosis/meiosis. |
-| 3 | Diagram labels matter as much as prose explanations. |
+| #   | Watch Out For This                                                             |
+| --- | ------------------------------------------------------------------------------ |
+| 1   | A memorised definition is not enough; link it to an observation.               |
+| 2   | Do not confuse similar processes such as diffusion/osmosis or mitosis/meiosis. |
+| 3   | Diagram labels matter as much as prose explanations.                           |
 
 ---
 
 ## 📋 Quick Revision Sheet
 
-| Revision Item | What To Recall |
-|---|---|
-| Chapter core | The Wonderful World of Science |
-| Intro | Core chapter narrative |
+| Revision Item | What To Recall                 |
+| ------------- | ------------------------------ |
+| Chapter core  | The Wonderful World of Science |
+| Intro         | Core chapter narrative         |
 
 ---
 
 ## ✅ Pilot Quality Checklist
 
-| Check | Status |
-|---|---|
-| Raw data preserved | Yes — chapter content is retained and cleaned, not summarised away. |
-| Learner scaffolding added | Yes — roadmap, outcomes, answer framework, misconceptions, and revision sheet. |
-| Subject-aware structure | Yes — generated from the selected subject family profile. |
-| Needs human review | Yes — especially source extraction mismatches, diagrams, tables, formulas, and broken OCR words. |
+| Check                     | Status                                                                                           |
+| ------------------------- | ------------------------------------------------------------------------------------------------ |
+| Raw data preserved        | Yes — chapter content is retained and cleaned, not summarised away.                              |
+| Learner scaffolding added | Yes — roadmap, outcomes, answer framework, misconceptions, and revision sheet.                   |
+| Subject-aware structure   | Yes — generated from the selected subject family profile.                                        |
+| Needs human review        | Yes — especially source extraction mismatches, diagrams, tables, formulas, and broken OCR words. |
 
 ---
 
-*Source: NCERT Class 9 — Science, Chapter 1. Raw file: `data/class_9/science/chapter_01.md`.*
+_Source: NCERT Class 9 — Science, Chapter 1. Raw file: `data/class_9/science/chapter_01.md`._

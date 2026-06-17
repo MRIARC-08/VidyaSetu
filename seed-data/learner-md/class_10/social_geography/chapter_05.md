@@ -1,19 +1,20 @@
 # Chapter 5: Minerals and Energy Resources
+
 ### NCERT Class 10 - Social Geography
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-| --- | --- |
-| Class | 10 |
-| Subject | Social Geography |
-| Chapter | 5 - Minerals and Energy Resources |
-| Central Question | Why are minerals and energy resources essential for development, and why must they be conserved? |
-| Main Themes | Minerals, ores, mineral occurrence, distribution of minerals in India, mining hazards, mineral conservation, energy resources |
-| Main Skills | Classification, location mapping, cause-effect reasoning, comparison, resource conservation |
-| Exam Importance | Very high: modes of mineral occurrence, iron ore belts, coal distribution, energy sources, conservation, solar energy |
+| Detail           | Learner-Friendly Information                                                                                                  |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| Class            | 10                                                                                                                            |
+| Subject          | Social Geography                                                                                                              |
+| Chapter          | 5 - Minerals and Energy Resources                                                                                             |
+| Central Question | Why are minerals and energy resources essential for development, and why must they be conserved?                              |
+| Main Themes      | Minerals, ores, mineral occurrence, distribution of minerals in India, mining hazards, mineral conservation, energy resources |
+| Main Skills      | Classification, location mapping, cause-effect reasoning, comparison, resource conservation                                   |
+| Exam Importance  | Very high: modes of mineral occurrence, iron ore belts, coal distribution, energy sources, conservation, solar energy         |
 
 ---
 
@@ -36,16 +37,16 @@ So the chapter is not only about where minerals are found. It is also about how 
 
 After studying this chapter, you should be able to:
 
-| Skill | You Should Be Able To |
-| --- | --- |
-| Define | Explain mineral, ore, reserve, mine, ferrous mineral, non-ferrous mineral, conventional energy, non-conventional energy, hydel power, thermal power, and conservation. |
-| Classify | Classify minerals into ferrous, non-ferrous, non-metallic, and energy minerals. |
-| Explain | Describe the five main modes of mineral occurrence. |
-| Locate | Identify major iron ore belts, coalfields, petroleum regions, natural gas regions, and energy-source regions. |
-| Compare | Differentiate ferrous and non-ferrous minerals; conventional and non-conventional energy sources; hydel and thermal power. |
-| Analyse | Explain mining hazards and environmental impacts. |
-| Evaluate | Explain why minerals and energy resources must be conserved. |
-| Write | Build short and long exam answers using definitions, examples, and regional evidence. |
+| Skill    | You Should Be Able To                                                                                                                                                  |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Define   | Explain mineral, ore, reserve, mine, ferrous mineral, non-ferrous mineral, conventional energy, non-conventional energy, hydel power, thermal power, and conservation. |
+| Classify | Classify minerals into ferrous, non-ferrous, non-metallic, and energy minerals.                                                                                        |
+| Explain  | Describe the five main modes of mineral occurrence.                                                                                                                    |
+| Locate   | Identify major iron ore belts, coalfields, petroleum regions, natural gas regions, and energy-source regions.                                                          |
+| Compare  | Differentiate ferrous and non-ferrous minerals; conventional and non-conventional energy sources; hydel and thermal power.                                             |
+| Analyse  | Explain mining hazards and environmental impacts.                                                                                                                      |
+| Evaluate | Explain why minerals and energy resources must be conserved.                                                                                                           |
+| Write    | Build short and long exam answers using definitions, examples, and regional evidence.                                                                                  |
 
 ---
 
@@ -79,40 +80,40 @@ Coal, petroleum, and natural gas are limited and polluting. Solar, wind, tidal, 
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Mineral | A homogeneous, naturally occurring substance with a definable internal structure. |
-| Rock | A combination of one or more minerals. |
-| Ore | Accumulation of a mineral mixed with other elements from which extraction is commercially viable. |
-| Deposit | A natural concentration of mineral material. |
-| Reserve | A mineral deposit that can be extracted profitably with available technology and market conditions. |
-| Mine | A place where minerals are extracted from the Earth. |
-| Vein | Smaller occurrence of minerals in cracks, crevices, faults, or joints of rocks. |
-| Lode | Larger occurrence of minerals in cracks, crevices, faults, or joints of rocks. |
-| Placer Deposit | Alluvial deposit of minerals in sands of valley floors and hill bases, usually containing minerals not corroded by water. |
-| Ferrous Minerals | Minerals containing iron. |
-| Non-Ferrous Minerals | Minerals that do not contain iron but are important in metallurgy and engineering. |
-| Metallic Minerals | Minerals that yield metals. |
-| Non-Metallic Minerals | Minerals that do not yield metals, such as mica and limestone. |
-| Magnetite | Finest iron ore with up to 70 percent iron and excellent magnetic qualities. |
-| Hematite | Most important industrial iron ore, with about 50 to 60 percent iron. |
-| Manganese | Ferrous mineral used in steel and ferro-manganese alloy. |
-| Copper | Malleable, ductile, good conductor used in electrical and chemical industries. |
-| Bauxite | Clay-like ore from which alumina and aluminium are obtained. |
-| Mica | Non-metallic mineral that splits into thin sheets and is used in electrical and electronic industries. |
-| Limestone | Rock mineral used in cement industry and smelting iron ore. |
-| Mining | Extraction of minerals from the Earth. |
-| Rat-Hole Mining | Narrow tunnel mining practised in parts of Meghalaya. |
-| Conventional Energy Sources | Long-used sources such as firewood, cattle dung cake, coal, petroleum, natural gas, and electricity. |
-| Non-Conventional Energy Sources | Newer or alternative sources such as solar, wind, tidal, geothermal, biogas, and atomic energy. |
-| Fossil Fuel | Fuel formed from ancient plant or animal material, such as coal, petroleum, and natural gas. |
-| Hydroelectricity | Electricity generated by fast-flowing water. |
-| Thermal Power | Electricity generated by burning fuels such as coal, petroleum, or natural gas. |
-| Biogas | Gas produced by decomposition of organic waste such as cattle dung, farm waste, shrubs, and human waste. |
-| Geothermal Energy | Heat and electricity produced using heat from inside the Earth. |
-| Tidal Energy | Electricity generated using ocean tides. |
-| Nuclear Energy | Energy released by altering the structure of atoms. |
-| Energy Conservation | Judicious and careful use of energy resources to reduce waste and protect the future. |
+| Term                            | Meaning                                                                                                                   |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Mineral                         | A homogeneous, naturally occurring substance with a definable internal structure.                                         |
+| Rock                            | A combination of one or more minerals.                                                                                    |
+| Ore                             | Accumulation of a mineral mixed with other elements from which extraction is commercially viable.                         |
+| Deposit                         | A natural concentration of mineral material.                                                                              |
+| Reserve                         | A mineral deposit that can be extracted profitably with available technology and market conditions.                       |
+| Mine                            | A place where minerals are extracted from the Earth.                                                                      |
+| Vein                            | Smaller occurrence of minerals in cracks, crevices, faults, or joints of rocks.                                           |
+| Lode                            | Larger occurrence of minerals in cracks, crevices, faults, or joints of rocks.                                            |
+| Placer Deposit                  | Alluvial deposit of minerals in sands of valley floors and hill bases, usually containing minerals not corroded by water. |
+| Ferrous Minerals                | Minerals containing iron.                                                                                                 |
+| Non-Ferrous Minerals            | Minerals that do not contain iron but are important in metallurgy and engineering.                                        |
+| Metallic Minerals               | Minerals that yield metals.                                                                                               |
+| Non-Metallic Minerals           | Minerals that do not yield metals, such as mica and limestone.                                                            |
+| Magnetite                       | Finest iron ore with up to 70 percent iron and excellent magnetic qualities.                                              |
+| Hematite                        | Most important industrial iron ore, with about 50 to 60 percent iron.                                                     |
+| Manganese                       | Ferrous mineral used in steel and ferro-manganese alloy.                                                                  |
+| Copper                          | Malleable, ductile, good conductor used in electrical and chemical industries.                                            |
+| Bauxite                         | Clay-like ore from which alumina and aluminium are obtained.                                                              |
+| Mica                            | Non-metallic mineral that splits into thin sheets and is used in electrical and electronic industries.                    |
+| Limestone                       | Rock mineral used in cement industry and smelting iron ore.                                                               |
+| Mining                          | Extraction of minerals from the Earth.                                                                                    |
+| Rat-Hole Mining                 | Narrow tunnel mining practised in parts of Meghalaya.                                                                     |
+| Conventional Energy Sources     | Long-used sources such as firewood, cattle dung cake, coal, petroleum, natural gas, and electricity.                      |
+| Non-Conventional Energy Sources | Newer or alternative sources such as solar, wind, tidal, geothermal, biogas, and atomic energy.                           |
+| Fossil Fuel                     | Fuel formed from ancient plant or animal material, such as coal, petroleum, and natural gas.                              |
+| Hydroelectricity                | Electricity generated by fast-flowing water.                                                                              |
+| Thermal Power                   | Electricity generated by burning fuels such as coal, petroleum, or natural gas.                                           |
+| Biogas                          | Gas produced by decomposition of organic waste such as cattle dung, farm waste, shrubs, and human waste.                  |
+| Geothermal Energy               | Heat and electricity produced using heat from inside the Earth.                                                           |
+| Tidal Energy                    | Electricity generated using ocean tides.                                                                                  |
+| Nuclear Energy                  | Energy released by altering the structure of atoms.                                                                       |
+| Energy Conservation             | Judicious and careful use of energy resources to reduce waste and protect the future.                                     |
 
 ---
 
@@ -162,13 +163,13 @@ Minerals are used in:
 
 Toothpaste contains several mineral-related materials:
 
-| Material | Mineral Source or Use |
-| --- | --- |
-| Silica, limestone, aluminium oxide, phosphate minerals | Abrasive minerals used for cleaning |
-| Fluoride | Comes from fluorite and helps reduce cavities |
-| Titanium oxide | Makes toothpaste white; comes from rutile, ilmenite, anatase |
-| Mica | Adds sparkle in some toothpastes |
-| Plastic tube and toothbrush | Made from petroleum-based plastics |
+| Material                                               | Mineral Source or Use                                        |
+| ------------------------------------------------------ | ------------------------------------------------------------ |
+| Silica, limestone, aluminium oxide, phosphate minerals | Abrasive minerals used for cleaning                          |
+| Fluoride                                               | Comes from fluorite and helps reduce cavities                |
+| Titanium oxide                                         | Makes toothpaste white; comes from rutile, ilmenite, anatase |
+| Mica                                                   | Adds sparkle in some toothpastes                             |
+| Plastic tube and toothbrush                            | Made from petroleum-based plastics                           |
 
 ## Minerals and Life
 
@@ -178,13 +179,13 @@ Minerals are needed by living things. Even though mineral intake is a small part
 
 # Unit 5B: Geographers and Geologists Study Minerals Differently
 
-| Geographers Study | Geologists Study |
-| --- | --- |
-| Minerals as part of the Earth's crust | Formation of minerals |
-| Mineral distribution | Age of minerals |
-| Related economic activities | Physical and chemical composition |
-| Location of industries and mining | Rock structures and mineral properties |
-| Human use and resource planning | Geological processes |
+| Geographers Study                     | Geologists Study                       |
+| ------------------------------------- | -------------------------------------- |
+| Minerals as part of the Earth's crust | Formation of minerals                  |
+| Mineral distribution                  | Age of minerals                        |
+| Related economic activities           | Physical and chemical composition      |
+| Location of industries and mining     | Rock structures and mineral properties |
+| Human use and resource planning       | Geological processes                   |
 
 ## Exam Understanding
 
@@ -204,14 +205,14 @@ A mineral deposit becomes a mine only when extraction is economically viable.
 
 Factors affecting economic viability:
 
-| Factor | Why It Matters |
-| --- | --- |
-| Concentration of mineral in ore | Higher concentration makes extraction more profitable. |
-| Ease of extraction | Minerals near surface or easy structures are cheaper to mine. |
-| Cost of extraction | Deep, difficult, or dangerous mining increases cost. |
-| Closeness to market | Nearby markets reduce transport cost. |
-| Technology | Better technology can make low-grade ores usable. |
-| Demand | High demand makes extraction more attractive. |
+| Factor                          | Why It Matters                                                |
+| ------------------------------- | ------------------------------------------------------------- |
+| Concentration of mineral in ore | Higher concentration makes extraction more profitable.        |
+| Ease of extraction              | Minerals near surface or easy structures are cheaper to mine. |
+| Cost of extraction              | Deep, difficult, or dangerous mining increases cost.          |
+| Closeness to market             | Nearby markets reduce transport cost.                         |
+| Technology                      | Better technology can make low-grade ores usable.             |
+| Demand                          | High demand makes extraction more attractive.                 |
 
 ---
 
@@ -265,11 +266,11 @@ They are formed through:
 
 ## Examples
 
-| Process | Minerals |
-| --- | --- |
-| Heat and pressure on plant material | Coal |
-| Sedimentary concentration | Some forms of iron ore |
-| Evaporation in arid regions | Gypsum, potash salt, sodium salt |
+| Process                             | Minerals                         |
+| ----------------------------------- | -------------------------------- |
+| Heat and pressure on plant material | Coal                             |
+| Sedimentary concentration           | Some forms of iron ore           |
+| Evaporation in arid regions         | Gypsum, potash salt, sodium salt |
 
 ---
 
@@ -320,13 +321,13 @@ Ocean beds are rich in manganese nodules.
 
 ## Modes of Occurrence Summary
 
-| Mode | Formation | Examples |
-| --- | --- | --- |
-| Veins and lodes | Minerals cool and solidify in cracks of igneous/metamorphic rocks | Tin, copper, zinc, lead |
-| Beds and layers | Deposition and accumulation in sedimentary rocks | Coal, some iron ore, gypsum, potash salt, sodium salt |
-| Residual mass | Decomposition of surface rocks and removal of soluble materials | Bauxite |
-| Placer deposits | Alluvial deposits in valley floors and hill bases | Gold, silver, tin, platinum |
-| Ocean water and beds | Diffused minerals in seawater and nodules on ocean beds | Salt, magnesium, bromine, manganese nodules |
+| Mode                 | Formation                                                         | Examples                                              |
+| -------------------- | ----------------------------------------------------------------- | ----------------------------------------------------- |
+| Veins and lodes      | Minerals cool and solidify in cracks of igneous/metamorphic rocks | Tin, copper, zinc, lead                               |
+| Beds and layers      | Deposition and accumulation in sedimentary rocks                  | Coal, some iron ore, gypsum, potash salt, sodium salt |
+| Residual mass        | Decomposition of surface rocks and removal of soluble materials   | Bauxite                                               |
+| Placer deposits      | Alluvial deposits in valley floors and hill bases                 | Gold, silver, tin, platinum                           |
+| Ocean water and beds | Diffused minerals in seawater and nodules on ocean beds           | Salt, magnesium, bromine, manganese nodules           |
 
 ---
 
@@ -336,12 +337,12 @@ India has rich and varied mineral resources, but they are unevenly distributed.
 
 ## Broad Distribution
 
-| Region | Mineral Pattern |
-| --- | --- |
-| Peninsular rocks | Coal, metallic minerals, mica, many non-metallic minerals |
-| Western and eastern flanks of peninsula, Gujarat, Assam | Petroleum deposits |
-| Rajasthan | Many non-ferrous minerals |
-| Northern alluvial plains | Almost devoid of economic minerals |
+| Region                                                  | Mineral Pattern                                           |
+| ------------------------------------------------------- | --------------------------------------------------------- |
+| Peninsular rocks                                        | Coal, metallic minerals, mica, many non-metallic minerals |
+| Western and eastern flanks of peninsula, Gujarat, Assam | Petroleum deposits                                        |
+| Rajasthan                                               | Many non-ferrous minerals                                 |
+| Northern alluvial plains                                | Almost devoid of economic minerals                        |
 
 ## Why Distribution Is Uneven
 
@@ -384,46 +385,46 @@ India has fairly abundant resources of good quality iron ore.
 
 ## Types of Iron Ore
 
-| Type | Iron Content | Importance |
-| --- | --- | --- |
+| Type      | Iron Content     | Importance                                                                     |
+| --------- | ---------------- | ------------------------------------------------------------------------------ |
 | Magnetite | Up to 70 percent | Finest iron ore; excellent magnetic qualities; valuable in electrical industry |
-| Hematite | 50 to 60 percent | Most important industrial iron ore in terms of quantity used |
+| Hematite  | 50 to 60 percent | Most important industrial iron ore in terms of quantity used                   |
 
 ## Major Iron Ore Belts in India
 
 ### 1. Odisha-Jharkhand Belt
 
-| Location | Detail |
-| --- | --- |
-| Odisha | High-grade hematite found in Badampahar mines in Mayurbhanj and Kendujhar districts |
-| Jharkhand | Hematite mined in Gua and Noamundi in Singhbhum district |
+| Location  | Detail                                                                              |
+| --------- | ----------------------------------------------------------------------------------- |
+| Odisha    | High-grade hematite found in Badampahar mines in Mayurbhanj and Kendujhar districts |
+| Jharkhand | Hematite mined in Gua and Noamundi in Singhbhum district                            |
 
 ### 2. Durg-Bastar-Chandrapur Belt
 
-| Location | Detail |
-| --- | --- |
-| States | Chhattisgarh and Maharashtra |
-| Important area | Bailadila range of hills in Bastar district, Chhattisgarh |
-| Ore quality | Very high-grade hematite |
-| Use | Best physical properties for steel making |
-| Export | Exported to Japan and South Korea through Vishakhapatnam port |
+| Location       | Detail                                                        |
+| -------------- | ------------------------------------------------------------- |
+| States         | Chhattisgarh and Maharashtra                                  |
+| Important area | Bailadila range of hills in Bastar district, Chhattisgarh     |
+| Ore quality    | Very high-grade hematite                                      |
+| Use            | Best physical properties for steel making                     |
+| Export         | Exported to Japan and South Korea through Vishakhapatnam port |
 
 ### 3. Ballari-Chitradurga-Chikkamagaluru-Tumakuru Belt
 
-| Location | Detail |
-| --- | --- |
-| State | Karnataka |
-| Important mines | Kudremukh mines in Western Ghats |
-| Feature | Kudremukh is a 100 percent export unit |
-| Transport | Ore transported as slurry through pipeline to a port near Mangaluru |
+| Location        | Detail                                                              |
+| --------------- | ------------------------------------------------------------------- |
+| State           | Karnataka                                                           |
+| Important mines | Kudremukh mines in Western Ghats                                    |
+| Feature         | Kudremukh is a 100 percent export unit                              |
+| Transport       | Ore transported as slurry through pipeline to a port near Mangaluru |
 
 ### 4. Maharashtra-Goa Belt
 
-| Location | Detail |
-| --- | --- |
-| Areas | Goa and Ratnagiri district of Maharashtra |
-| Quality | Not very high quality, but efficiently exploited |
-| Export | Exported through Marmagao port |
+| Location | Detail                                           |
+| -------- | ------------------------------------------------ |
+| Areas    | Goa and Ratnagiri district of Maharashtra        |
+| Quality  | Not very high quality, but efficiently exploited |
+| Export   | Exported through Marmagao port                   |
 
 ## Memory Note
 
@@ -499,11 +500,11 @@ Copper is used in:
 
 ## Major Copper Producers
 
-| Location | State |
-| --- | --- |
-| Balaghat mines | Madhya Pradesh |
-| Khetri mines | Rajasthan |
-| Singhbhum district | Jharkhand |
+| Location           | State          |
+| ------------------ | -------------- |
+| Balaghat mines     | Madhya Pradesh |
+| Khetri mines       | Rajasthan      |
+| Singhbhum district | Jharkhand      |
 
 ---
 
@@ -566,12 +567,12 @@ Mica is indispensable for electrical and electronic industries because it has:
 
 ## Major Mica Regions
 
-| Region | Detail |
-| --- | --- |
-| Northern edge of Chota Nagpur Plateau | Major mica belt |
-| Koderma-Gaya-Hazaribagh belt, Jharkhand | Leading producer |
-| Around Ajmer, Rajasthan | Important producer |
-| Nellore mica belt, Andhra Pradesh | Important producer |
+| Region                                  | Detail             |
+| --------------------------------------- | ------------------ |
+| Northern edge of Chota Nagpur Plateau   | Major mica belt    |
+| Koderma-Gaya-Hazaribagh belt, Jharkhand | Leading producer   |
+| Around Ajmer, Rajasthan                 | Important producer |
+| Nellore mica belt, Andhra Pradesh       | Important producer |
 
 ## Exam Point
 
@@ -600,23 +601,23 @@ Mining is essential for mineral extraction, but it creates serious health and en
 
 ## Hazards to Miners
 
-| Hazard | Effect |
-| --- | --- |
-| Dust | Causes respiratory diseases |
-| Noxious fumes | Makes miners vulnerable to pulmonary diseases |
-| Mine roof collapse | Can injure or kill miners |
-| Inundation | Mines may flood |
-| Coal mine fires | Constant threat in coal mines |
+| Hazard             | Effect                                        |
+| ------------------ | --------------------------------------------- |
+| Dust               | Causes respiratory diseases                   |
+| Noxious fumes      | Makes miners vulnerable to pulmonary diseases |
+| Mine roof collapse | Can injure or kill miners                     |
+| Inundation         | Mines may flood                               |
+| Coal mine fires    | Constant threat in coal mines                 |
 
 ## Environmental Hazards
 
-| Hazard | Effect |
-| --- | --- |
-| Water contamination | Mining waste pollutes water sources |
-| Dumping of waste | Degrades land and soil |
-| Slurry disposal | Pollutes streams and rivers |
-| Dust generation | Pollutes air and nearby settlements |
-| Land degradation | Mining leaves pits, waste heaps, and unstable land |
+| Hazard              | Effect                                             |
+| ------------------- | -------------------------------------------------- |
+| Water contamination | Mining waste pollutes water sources                |
+| Dumping of waste    | Degrades land and soil                             |
+| Slurry disposal     | Pollutes streams and rivers                        |
+| Dust generation     | Pollutes air and nearby settlements                |
+| Land degradation    | Mining leaves pits, waste heaps, and unstable land |
 
 ## Need for Regulation
 
@@ -646,15 +647,15 @@ The total volume of workable mineral deposits is an insignificant fraction, abou
 
 ## How to Conserve Minerals
 
-| Method | Explanation |
-| --- | --- |
-| Planned use | Avoid wasteful extraction and use. |
-| Sustainable mining | Mine carefully with environmental controls. |
-| Improved technology | Use low-grade ores at lower cost. |
-| Recycling | Reuse metals instead of extracting new ores. |
-| Scrap metal use | Use metal waste as raw material. |
-| Substitutes | Replace scarce minerals where possible. |
-| Reduce consumption | Avoid unnecessary mineral use. |
+| Method              | Explanation                                  |
+| ------------------- | -------------------------------------------- |
+| Planned use         | Avoid wasteful extraction and use.           |
+| Sustainable mining  | Mine carefully with environmental controls.  |
+| Improved technology | Use low-grade ores at lower cost.            |
+| Recycling           | Reuse metals instead of extracting new ores. |
+| Scrap metal use     | Use metal waste as raw material.             |
+| Substitutes         | Replace scarce minerals where possible.      |
+| Reduce consumption  | Avoid unnecessary mineral use.               |
 
 ## Exam Answer: Why Conserve Minerals
 
@@ -683,10 +684,10 @@ Energy consumption is often linked with development.
 
 ## Energy Resource Classification
 
-| Type | Examples |
-| --- | --- |
-| Conventional Sources | Firewood, cattle dung cake, coal, petroleum, natural gas, electricity from hydel and thermal power |
-| Non-Conventional Sources | Solar, wind, tidal, geothermal, biogas, atomic energy |
+| Type                     | Examples                                                                                           |
+| ------------------------ | -------------------------------------------------------------------------------------------------- |
+| Conventional Sources     | Firewood, cattle dung cake, coal, petroleum, natural gas, electricity from hydel and thermal power |
+| Non-Conventional Sources | Solar, wind, tidal, geothermal, biogas, atomic energy                                              |
 
 ## Conventional Energy in Rural India
 
@@ -696,9 +697,9 @@ The chapter mentions that more than 70 percent of rural household energy require
 
 ## Problems
 
-| Source | Problem |
-| --- | --- |
-| Firewood | Increasingly difficult due to decreasing forest area |
+| Source           | Problem                                                               |
+| ---------------- | --------------------------------------------------------------------- |
+| Firewood         | Increasingly difficult due to decreasing forest area                  |
 | Cattle dung cake | Burning dung wastes valuable manure that could be used in agriculture |
 
 ---
@@ -733,13 +734,13 @@ Different forms of coal depend on:
 
 ## Types of Coal
 
-| Type | Feature |
-| --- | --- |
-| Peat | Produced from decaying plants in swamps; low carbon, high moisture, low heating capacity |
-| Lignite | Low-grade brown coal; soft, high moisture; Neyveli in Tamil Nadu has major reserves |
-| Bituminous | Buried deep and exposed to higher temperatures; most popular coal for commercial use |
-| Metallurgical Coal | High-grade bituminous coal used for smelting iron in blast furnaces |
-| Anthracite | Highest quality hard coal |
+| Type               | Feature                                                                                  |
+| ------------------ | ---------------------------------------------------------------------------------------- |
+| Peat               | Produced from decaying plants in swamps; low carbon, high moisture, low heating capacity |
+| Lignite            | Low-grade brown coal; soft, high moisture; Neyveli in Tamil Nadu has major reserves      |
+| Bituminous         | Buried deep and exposed to higher temperatures; most popular coal for commercial use     |
+| Metallurgical Coal | High-grade bituminous coal used for smelting iron in blast furnaces                      |
+| Anthracite         | Highest quality hard coal                                                                |
 
 ## Coal Distribution in India
 
@@ -819,18 +820,18 @@ Gas is lighter and usually occurs above oil.
 
 The chapter gives these approximate shares:
 
-| Region | Share of Petroleum Production |
-| --- | --- |
-| Mumbai High | About 63 percent |
-| Gujarat | About 18 percent |
-| Assam | About 16 percent |
+| Region      | Share of Petroleum Production |
+| ----------- | ----------------------------- |
+| Mumbai High | About 63 percent              |
+| Gujarat     | About 18 percent              |
+| Assam       | About 16 percent              |
 
 ## Important Oil Fields
 
-| Region | Important Fields |
-| --- | --- |
-| Gujarat | Ankleshwar |
-| Assam | Digboi, Naharkatiya, Moran-Hugrijan |
+| Region  | Important Fields                    |
+| ------- | ----------------------------------- |
+| Gujarat | Ankleshwar                          |
+| Assam   | Digboi, Naharkatiya, Moran-Hugrijan |
 
 Assam is the oldest oil-producing state of India.
 
@@ -884,9 +885,9 @@ Electricity has many applications in modern life. Per capita electricity consump
 
 ## Two Main Ways of Generating Electricity
 
-| Type | Method | Resource Type |
-| --- | --- | --- |
-| Hydroelectricity | Running water drives turbines | Renewable |
+| Type                | Method                                                      | Resource Type              |
+| ------------------- | ----------------------------------------------------------- | -------------------------- |
+| Hydroelectricity    | Running water drives turbines                               | Renewable                  |
 | Thermal electricity | Coal, petroleum, or natural gas is burned to drive turbines | Non-renewable fossil fuels |
 
 ## Hydroelectricity
@@ -911,12 +912,12 @@ Thermal power stations use non-renewable fossil fuels.
 
 ## Hydel vs Thermal Power
 
-| Point | Hydel Power | Thermal Power |
-| --- | --- | --- |
-| Source | Fast-flowing water | Coal, petroleum, natural gas |
-| Resource type | Renewable | Non-renewable |
-| Pollution | Lower direct air pollution | Causes air pollution and emissions |
-| Location | River valleys and dams | Often near coalfields or fuel supply |
+| Point         | Hydel Power                | Thermal Power                        |
+| ------------- | -------------------------- | ------------------------------------ |
+| Source        | Fast-flowing water         | Coal, petroleum, natural gas         |
+| Resource type | Renewable                  | Non-renewable                        |
+| Pollution     | Lower direct air pollution | Causes air pollution and emissions   |
+| Location      | River valleys and dams     | Often near coalfields or fuel supply |
 
 ---
 
@@ -955,10 +956,10 @@ Nuclear energy is obtained by altering the structure of atoms. This releases hea
 
 ## Regions
 
-| Mineral | Region |
-| --- | --- |
+| Mineral             | Region                                     |
+| ------------------- | ------------------------------------------ |
 | Uranium and thorium | Jharkhand and Aravalli ranges of Rajasthan |
-| Thorium | Monazite sands of Kerala |
+| Thorium             | Monazite sands of Kerala                   |
 
 ## Exam Point
 
@@ -1004,16 +1005,16 @@ India has great potential for wind power.
 
 ## Important Regions
 
-| Region | Detail |
-| --- | --- |
-| Tamil Nadu | Largest wind farm cluster from Nagercoil to Madurai |
-| Andhra Pradesh | Important wind farms |
-| Karnataka | Important wind farms |
-| Gujarat | Important wind farms |
-| Kerala | Important wind farms |
-| Maharashtra | Important wind farms |
-| Lakshadweep | Important wind farms |
-| Nagercoil and Jaisalmer | Well known for effective wind energy use |
+| Region                  | Detail                                              |
+| ----------------------- | --------------------------------------------------- |
+| Tamil Nadu              | Largest wind farm cluster from Nagercoil to Madurai |
+| Andhra Pradesh          | Important wind farms                                |
+| Karnataka               | Important wind farms                                |
+| Gujarat                 | Important wind farms                                |
+| Kerala                  | Important wind farms                                |
+| Maharashtra             | Important wind farms                                |
+| Lakshadweep             | Important wind farms                                |
+| Nagercoil and Jaisalmer | Well known for effective wind energy use            |
 
 ---
 
@@ -1034,13 +1035,13 @@ Decomposition of organic matter produces gas.
 
 ## Advantages
 
-| Advantage | Explanation |
-| --- | --- |
+| Advantage                 | Explanation                                           |
+| ------------------------- | ----------------------------------------------------- |
 | Higher thermal efficiency | More efficient than kerosene, dung cake, and charcoal |
-| Energy source | Provides domestic energy in rural areas |
-| Better manure | Improves quality of manure |
-| Saves trees | Reduces dependence on firewood |
-| Saves dung | Dung is used efficiently instead of being burned |
+| Energy source             | Provides domestic energy in rural areas               |
+| Better manure             | Improves quality of manure                            |
+| Saves trees               | Reduces dependence on firewood                        |
+| Saves dung                | Dung is used efficiently instead of being burned      |
 
 ## Gobar Gas Plants
 
@@ -1135,37 +1136,37 @@ We can conserve energy by:
 
 ## Ferrous and Non-Ferrous Minerals
 
-| Point | Ferrous Minerals | Non-Ferrous Minerals |
-| --- | --- | --- |
-| Iron content | Contain iron | Do not contain iron |
-| Examples | Iron ore, manganese | Copper, bauxite, lead, zinc, gold |
-| Importance | Base of iron, steel, and metallurgical industries | Important in electrical, engineering, metallurgical, and chemical industries |
+| Point        | Ferrous Minerals                                  | Non-Ferrous Minerals                                                         |
+| ------------ | ------------------------------------------------- | ---------------------------------------------------------------------------- |
+| Iron content | Contain iron                                      | Do not contain iron                                                          |
+| Examples     | Iron ore, manganese                               | Copper, bauxite, lead, zinc, gold                                            |
+| Importance   | Base of iron, steel, and metallurgical industries | Important in electrical, engineering, metallurgical, and chemical industries |
 
 ## Conventional and Non-Conventional Energy
 
-| Point | Conventional Sources | Non-Conventional Sources |
-| --- | --- | --- |
-| Use history | Used for a long time | Newer or alternative sources |
-| Examples | Firewood, cattle dung, coal, petroleum, natural gas, hydel and thermal electricity | Solar, wind, tidal, geothermal, biogas, atomic energy |
-| Sustainability | Many are limited and polluting | Many are renewable and cleaner |
-| Future role | Still important but risky if overused | Essential for sustainable development |
+| Point          | Conventional Sources                                                               | Non-Conventional Sources                              |
+| -------------- | ---------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| Use history    | Used for a long time                                                               | Newer or alternative sources                          |
+| Examples       | Firewood, cattle dung, coal, petroleum, natural gas, hydel and thermal electricity | Solar, wind, tidal, geothermal, biogas, atomic energy |
+| Sustainability | Many are limited and polluting                                                     | Many are renewable and cleaner                        |
+| Future role    | Still important but risky if overused                                              | Essential for sustainable development                 |
 
 ## Metallic and Non-Metallic Minerals
 
-| Point | Metallic Minerals | Non-Metallic Minerals |
-| --- | --- | --- |
-| Yield | Metals | Non-metal substances |
-| Examples | Iron ore, copper, bauxite | Mica, limestone |
-| Uses | Machines, vehicles, electrical goods, construction | Electrical insulation, cement, smelting |
+| Point    | Metallic Minerals                                  | Non-Metallic Minerals                   |
+| -------- | -------------------------------------------------- | --------------------------------------- |
+| Yield    | Metals                                             | Non-metal substances                    |
+| Examples | Iron ore, copper, bauxite                          | Mica, limestone                         |
+| Uses     | Machines, vehicles, electrical goods, construction | Electrical insulation, cement, smelting |
 
 ## Hydel and Thermal Electricity
 
-| Point | Hydel Electricity | Thermal Electricity |
-| --- | --- | --- |
-| Source | Flowing water | Coal, petroleum, natural gas |
-| Resource type | Renewable | Non-renewable |
-| Pollution | Lower emissions | Higher emissions |
-| Main requirement | River valley and water flow | Fuel supply |
+| Point            | Hydel Electricity           | Thermal Electricity          |
+| ---------------- | --------------------------- | ---------------------------- |
+| Source           | Flowing water               | Coal, petroleum, natural gas |
+| Resource type    | Renewable                   | Non-renewable                |
+| Pollution        | Lower emissions             | Higher emissions             |
+| Main requirement | River valley and water flow | Fuel supply                  |
 
 ---
 
@@ -1284,16 +1285,16 @@ Use this structure:
 
 # Common Mistakes to Avoid
 
-| Mistake | Correct Understanding |
-| --- | --- |
-| Writing mineral and ore as the same thing. | Ore is a mineral accumulation from which extraction is commercially viable. |
-| Confusing veins and lodes. | Veins are smaller; lodes are larger. |
-| Writing bauxite is formed in sedimentary layers. | Bauxite forms through decomposition of surface rocks and residual weathered mass. |
-| Confusing magnetite and hematite. | Magnetite has up to 70 percent iron and magnetic qualities; hematite is the major industrial iron ore. |
-| Forgetting ports in iron ore export answers. | Bailadila ore is exported via Vishakhapatnam; Goa ore via Marmagao. |
-| Writing all conventional energy is non-renewable. | Hydel electricity is conventional but renewable. |
-| Calling nuclear energy renewable. | The chapter lists atomic energy as non-conventional, but it depends on minerals like uranium and thorium. |
-| Ignoring conservation. | Minerals and fossil fuels are limited and must be conserved. |
+| Mistake                                           | Correct Understanding                                                                                     |
+| ------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| Writing mineral and ore as the same thing.        | Ore is a mineral accumulation from which extraction is commercially viable.                               |
+| Confusing veins and lodes.                        | Veins are smaller; lodes are larger.                                                                      |
+| Writing bauxite is formed in sedimentary layers.  | Bauxite forms through decomposition of surface rocks and residual weathered mass.                         |
+| Confusing magnetite and hematite.                 | Magnetite has up to 70 percent iron and magnetic qualities; hematite is the major industrial iron ore.    |
+| Forgetting ports in iron ore export answers.      | Bailadila ore is exported via Vishakhapatnam; Goa ore via Marmagao.                                       |
+| Writing all conventional energy is non-renewable. | Hydel electricity is conventional but renewable.                                                          |
+| Calling nuclear energy renewable.                 | The chapter lists atomic energy as non-conventional, but it depends on minerals like uranium and thorium. |
+| Ignoring conservation.                            | Minerals and fossil fuels are limited and must be conserved.                                              |
 
 ---
 
@@ -1301,47 +1302,47 @@ Use this structure:
 
 ## Modes of Mineral Occurrence
 
-| Mode | Rocks or Location | Examples |
-| --- | --- | --- |
-| Veins and lodes | Igneous and metamorphic rocks | Tin, copper, zinc, lead |
-| Beds and layers | Sedimentary rocks | Coal, some iron ore, gypsum, potash salt, sodium salt |
-| Residual mass | Decomposed surface rocks | Bauxite |
-| Placer deposits | Valley floors and hill bases | Gold, silver, tin, platinum |
-| Ocean water and beds | Seas and ocean beds | Salt, magnesium, bromine, manganese nodules |
+| Mode                 | Rocks or Location             | Examples                                              |
+| -------------------- | ----------------------------- | ----------------------------------------------------- |
+| Veins and lodes      | Igneous and metamorphic rocks | Tin, copper, zinc, lead                               |
+| Beds and layers      | Sedimentary rocks             | Coal, some iron ore, gypsum, potash salt, sodium salt |
+| Residual mass        | Decomposed surface rocks      | Bauxite                                               |
+| Placer deposits      | Valley floors and hill bases  | Gold, silver, tin, platinum                           |
+| Ocean water and beds | Seas and ocean beds           | Salt, magnesium, bromine, manganese nodules           |
 
 ## Iron Ore Belts
 
-| Belt | Important Details |
-| --- | --- |
-| Odisha-Jharkhand | Badampahar, Mayurbhanj, Kendujhar, Gua, Noamundi |
-| Durg-Bastar-Chandrapur | Bailadila, high-grade hematite, export via Vishakhapatnam |
-| Ballari-Chitradurga-Chikkamagaluru-Tumakuru | Kudremukh, slurry pipeline to port near Mangaluru |
-| Maharashtra-Goa | Goa and Ratnagiri, export via Marmagao |
+| Belt                                        | Important Details                                         |
+| ------------------------------------------- | --------------------------------------------------------- |
+| Odisha-Jharkhand                            | Badampahar, Mayurbhanj, Kendujhar, Gua, Noamundi          |
+| Durg-Bastar-Chandrapur                      | Bailadila, high-grade hematite, export via Vishakhapatnam |
+| Ballari-Chitradurga-Chikkamagaluru-Tumakuru | Kudremukh, slurry pipeline to port near Mangaluru         |
+| Maharashtra-Goa                             | Goa and Ratnagiri, export via Marmagao                    |
 
 ## Mineral Locations
 
-| Mineral | Important Areas |
-| --- | --- |
-| Manganese | Odisha |
-| Copper | Balaghat, Khetri, Singhbhum |
-| Bauxite | Amarkantak, Maikal, Bilaspur-Katni, Panchpatmali in Koraput |
-| Mica | Koderma-Gaya-Hazaribagh, Ajmer, Nellore |
-| Limestone | Sedimentary formations across India |
+| Mineral   | Important Areas                                             |
+| --------- | ----------------------------------------------------------- |
+| Manganese | Odisha                                                      |
+| Copper    | Balaghat, Khetri, Singhbhum                                 |
+| Bauxite   | Amarkantak, Maikal, Bilaspur-Katni, Panchpatmali in Koraput |
+| Mica      | Koderma-Gaya-Hazaribagh, Ajmer, Nellore                     |
+| Limestone | Sedimentary formations across India                         |
 
 ## Energy Sources
 
-| Source | Type | Important Areas |
-| --- | --- | --- |
-| Coal | Conventional fossil fuel | Damodar, Jharia, Raniganj, Bokaro, Godavari, Mahanadi, Son, Wardha, NE states |
-| Petroleum | Conventional fossil fuel | Mumbai High, Gujarat, Assam |
-| Natural gas | Conventional, cleaner fossil fuel | KG basin, Mumbai High, Gulf of Cambay, Andaman and Nicobar |
-| Hydel power | Conventional renewable electricity | Bhakra-Nangal, Damodar Valley, Kopili |
-| Solar | Non-conventional | High potential across tropical India |
-| Wind | Non-conventional | Tamil Nadu, Gujarat, Maharashtra, Karnataka, Andhra Pradesh, Kerala, Lakshadweep |
-| Biogas | Non-conventional | Rural India |
-| Tidal | Non-conventional | Gulf of Khambhat, Gulf of Kachchh, Sunderban |
-| Geothermal | Non-conventional | Manikarn, Puga Valley |
-| Nuclear | Non-conventional | Uranium and thorium areas; monazite sands of Kerala |
+| Source      | Type                               | Important Areas                                                                  |
+| ----------- | ---------------------------------- | -------------------------------------------------------------------------------- |
+| Coal        | Conventional fossil fuel           | Damodar, Jharia, Raniganj, Bokaro, Godavari, Mahanadi, Son, Wardha, NE states    |
+| Petroleum   | Conventional fossil fuel           | Mumbai High, Gujarat, Assam                                                      |
+| Natural gas | Conventional, cleaner fossil fuel  | KG basin, Mumbai High, Gulf of Cambay, Andaman and Nicobar                       |
+| Hydel power | Conventional renewable electricity | Bhakra-Nangal, Damodar Valley, Kopili                                            |
+| Solar       | Non-conventional                   | High potential across tropical India                                             |
+| Wind        | Non-conventional                   | Tamil Nadu, Gujarat, Maharashtra, Karnataka, Andhra Pradesh, Kerala, Lakshadweep |
+| Biogas      | Non-conventional                   | Rural India                                                                      |
+| Tidal       | Non-conventional                   | Gulf of Khambhat, Gulf of Kachchh, Sunderban                                     |
+| Geothermal  | Non-conventional                   | Manikarn, Puga Valley                                                            |
+| Nuclear     | Non-conventional                   | Uranium and thorium areas; monazite sands of Kerala                              |
 
 ---
 

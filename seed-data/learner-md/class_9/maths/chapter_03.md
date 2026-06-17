@@ -1,20 +1,21 @@
 # Chapter 3: The World of Numbers
+
 ### NCERT Class 9 - Maths
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 9 |
-| **Subject** | Maths |
-| **Chapter** | 3 |
-| **Actual Chapter Title** | The World of Numbers |
-| **Raw File Header** | "Coordinate Geometry" |
-| **Textbook Pages** | 1-67 |
-| **Core Theme** | How number systems grew from counting numbers to integers, rational numbers, irrational numbers, and real numbers. |
-| **Main Skill** | Classifying numbers, placing them on the number line, operating with rational numbers, and identifying decimal patterns. |
+| Detail                   | Learner-Friendly Information                                                                                             |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| **Class**                | 9                                                                                                                        |
+| **Subject**              | Maths                                                                                                                    |
+| **Chapter**              | 3                                                                                                                        |
+| **Actual Chapter Title** | The World of Numbers                                                                                                     |
+| **Raw File Header**      | "Coordinate Geometry"                                                                                                    |
+| **Textbook Pages**       | 1-67                                                                                                                     |
+| **Core Theme**           | How number systems grew from counting numbers to integers, rational numbers, irrational numbers, and real numbers.       |
+| **Main Skill**           | Classifying numbers, placing them on the number line, operating with rational numbers, and identifying decimal patterns. |
 
 > [!NOTE]
 > The raw source file is `chapter_03.md` and its extraction header says "Coordinate Geometry", but the actual chapter content is **The World of Numbers**. This learner-facing version follows the actual chapter content.
@@ -23,28 +24,28 @@
 
 ## Section Structure
 
-| Section | Title | Main Learning Focus |
-|---|---|---|
-| **3.0** | Introduction | Counting, natural numbers, and the human need for number. |
-| **3.1.1** | A History Written in Bone | Tally marks, Lebombo Bone, Ishango Bone, and early number records. |
-| **3.1.2** | Indian Context: Trade and Astronomy | Large numbers, place value, powers of 10, and Indian mathematical traditions. |
-| **3.2** | The Revolution of Shunya | Zero as a number, not merely a placeholder. |
-| **3.2.1** | From Philosophy to Mathematics | Shunyata and the conceptual background of zero. |
-| **3.2.2** | Bakhshali Manuscript and Brahmagupta | Zero symbol and arithmetic rules. |
-| **3.3** | Integers | Positive numbers, negative numbers, and zero. |
-| **3.3.1** | Arithmetic of Integers | Rules for operations with signed numbers. |
-| **3.4** | Fractions and Rational Numbers | Numbers of the form \(p/q\), equivalent fractions, and operations. |
-| **3.4.1** | Rational Numbers on the Number Line | Locating fractions and using absolute value. |
-| **3.4.2** | Density of Rational Numbers | Infinitely many rationals between any two rationals. |
-| **3.5** | Irrational Numbers | Numbers that cannot be written as ratios of integers. |
-| **3.5.1** | Irrationality of \(\sqrt{2}\) | Proof by contradiction. |
-| **3.5.2** | Construction of Irrational Lengths | Constructing \(\sqrt{2}\), \(\sqrt{3}\), \(\sqrt{5}\), etc. |
-| **3.5.3** | Pi and Madhava's Infinite Series | \(\pi\), approximations, irrationality, and infinite sums. |
-| **3.6** | Real Numbers and Decimals | Rational and irrational decimal behavior. |
-| **3.6.1** | Terminating and Repeating Decimals | Decimal tests and conversion to \(p/q\). |
-| **3.6.2** | Cyclic Numbers | Repeating blocks such as 142857 from \(1/7\). |
-| **3.6.3** | Irrational Decimals | Non-terminating, non-repeating decimals. |
-| **3.7** | Conclusion | Natural numbers, integers, rationals, irrationals, reals, and imaginary preview. |
+| Section   | Title                                | Main Learning Focus                                                              |
+| --------- | ------------------------------------ | -------------------------------------------------------------------------------- |
+| **3.0**   | Introduction                         | Counting, natural numbers, and the human need for number.                        |
+| **3.1.1** | A History Written in Bone            | Tally marks, Lebombo Bone, Ishango Bone, and early number records.               |
+| **3.1.2** | Indian Context: Trade and Astronomy  | Large numbers, place value, powers of 10, and Indian mathematical traditions.    |
+| **3.2**   | The Revolution of Shunya             | Zero as a number, not merely a placeholder.                                      |
+| **3.2.1** | From Philosophy to Mathematics       | Shunyata and the conceptual background of zero.                                  |
+| **3.2.2** | Bakhshali Manuscript and Brahmagupta | Zero symbol and arithmetic rules.                                                |
+| **3.3**   | Integers                             | Positive numbers, negative numbers, and zero.                                    |
+| **3.3.1** | Arithmetic of Integers               | Rules for operations with signed numbers.                                        |
+| **3.4**   | Fractions and Rational Numbers       | Numbers of the form \(p/q\), equivalent fractions, and operations.               |
+| **3.4.1** | Rational Numbers on the Number Line  | Locating fractions and using absolute value.                                     |
+| **3.4.2** | Density of Rational Numbers          | Infinitely many rationals between any two rationals.                             |
+| **3.5**   | Irrational Numbers                   | Numbers that cannot be written as ratios of integers.                            |
+| **3.5.1** | Irrationality of \(\sqrt{2}\)        | Proof by contradiction.                                                          |
+| **3.5.2** | Construction of Irrational Lengths   | Constructing \(\sqrt{2}\), \(\sqrt{3}\), \(\sqrt{5}\), etc.                      |
+| **3.5.3** | Pi and Madhava's Infinite Series     | \(\pi\), approximations, irrationality, and infinite sums.                       |
+| **3.6**   | Real Numbers and Decimals            | Rational and irrational decimal behavior.                                        |
+| **3.6.1** | Terminating and Repeating Decimals   | Decimal tests and conversion to \(p/q\).                                         |
+| **3.6.2** | Cyclic Numbers                       | Repeating blocks such as 142857 from \(1/7\).                                    |
+| **3.6.3** | Irrational Decimals                  | Non-terminating, non-repeating decimals.                                         |
+| **3.7**   | Conclusion                           | Natural numbers, integers, rationals, irrationals, reals, and imaginary preview. |
 
 ---
 
@@ -52,22 +53,22 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Explain natural numbers** | Describe counting numbers and one-to-one correspondence. |
-| **Use zero correctly** | Apply basic arithmetic rules involving zero. |
-| **Understand integers** | Represent positive numbers, negative numbers, and zero on a number line. |
-| **Operate with integers** | Add, subtract, multiply, and divide signed numbers. |
-| **Define rational numbers** | Explain why rational numbers have the form \(p/q\), \(q\ne0\). |
-| **Work with rational arithmetic** | Add, subtract, multiply, and divide rational numbers. |
-| **Place rationals on number line** | Represent fractions and mixed numbers visually. |
-| **Use absolute value** | Interpret \(|x|\) as distance from zero. |
-| **Explain density** | Find rational numbers between two rational numbers. |
-| **Define irrational numbers** | Identify numbers that cannot be written as fractions. |
-| **Understand proof by contradiction** | Follow the proof that \(\sqrt{2}\) is irrational. |
-| **Classify decimals** | Distinguish terminating, repeating, and non-repeating decimals. |
-| **Convert repeating decimals** | Convert repeating decimals into fractions. |
-| **Understand real numbers** | Explain the union of rational and irrational numbers. |
+| Outcome                               | You Should Be Able To...                                                 |
+| ------------------------------------- | ------------------------------------------------------------------------ | --- | ------------------------- |
+| **Explain natural numbers**           | Describe counting numbers and one-to-one correspondence.                 |
+| **Use zero correctly**                | Apply basic arithmetic rules involving zero.                             |
+| **Understand integers**               | Represent positive numbers, negative numbers, and zero on a number line. |
+| **Operate with integers**             | Add, subtract, multiply, and divide signed numbers.                      |
+| **Define rational numbers**           | Explain why rational numbers have the form \(p/q\), \(q\ne0\).           |
+| **Work with rational arithmetic**     | Add, subtract, multiply, and divide rational numbers.                    |
+| **Place rationals on number line**    | Represent fractions and mixed numbers visually.                          |
+| **Use absolute value**                | Interpret \(                                                             | x   | \) as distance from zero. |
+| **Explain density**                   | Find rational numbers between two rational numbers.                      |
+| **Define irrational numbers**         | Identify numbers that cannot be written as fractions.                    |
+| **Understand proof by contradiction** | Follow the proof that \(\sqrt{2}\) is irrational.                        |
+| **Classify decimals**                 | Distinguish terminating, repeating, and non-repeating decimals.          |
+| **Convert repeating decimals**        | Convert repeating decimals into fractions.                               |
+| **Understand real numbers**           | Explain the union of rational and irrational numbers.                    |
 
 ---
 
@@ -75,40 +76,40 @@ By the end of this chapter, you should be able to:
 
 The number system expanded because human needs expanded.
 
-| Need | Number System |
-|---|---|
-| Counting objects | Natural numbers |
-| Representing nothing | Zero |
-| Representing debts, losses, below-zero values | Integers |
-| Representing parts of wholes and ratios | Rational numbers |
-| Representing lengths such as square diagonals | Irrational numbers |
-| Representing all points on the continuous number line | Real numbers |
+| Need                                                  | Number System      |
+| ----------------------------------------------------- | ------------------ |
+| Counting objects                                      | Natural numbers    |
+| Representing nothing                                  | Zero               |
+| Representing debts, losses, below-zero values         | Integers           |
+| Representing parts of wholes and ratios               | Rational numbers   |
+| Representing lengths such as square diagonals         | Irrational numbers |
+| Representing all points on the continuous number line | Real numbers       |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Natural numbers** | Counting numbers \(1,2,3,\ldots\). |
-| **One-to-one correspondence** | Matching each object in one collection with one object in another. |
-| **Zero** | Number representing absence or null quantity. |
-| **Whole numbers** | Natural numbers together with zero. |
-| **Integers** | \(\ldots,-3,-2,-1,0,1,2,3,\ldots\). |
-| **Positive integer** | Integer greater than zero. |
-| **Negative integer** | Integer less than zero. |
-| **Rational number** | Number expressible as \(p/q\), where \(p,q\) are integers and \(q\ne0\). |
-| **Equivalent fractions** | Fractions representing the same rational number. |
-| **Co-prime** | Two integers with no common factor except 1. |
-| **Absolute value** | Distance of a number from zero; written \(|x|\). |
-| **Density** | Property that another rational number exists between any two rational numbers. |
-| **Irrational number** | Number that cannot be expressed as \(p/q\) with integers \(p,q\), \(q\ne0\). |
-| **Proof by contradiction** | Method where assuming the opposite leads to an impossibility. |
-| **Real numbers** | All rational and irrational numbers together. |
-| **Terminating decimal** | Decimal expansion that stops. |
-| **Repeating decimal** | Decimal expansion with a repeating block of digits. |
+| Term                                      | Meaning                                                                              |
+| ----------------------------------------- | ------------------------------------------------------------------------------------ | --- | --- |
+| **Natural numbers**                       | Counting numbers \(1,2,3,\ldots\).                                                   |
+| **One-to-one correspondence**             | Matching each object in one collection with one object in another.                   |
+| **Zero**                                  | Number representing absence or null quantity.                                        |
+| **Whole numbers**                         | Natural numbers together with zero.                                                  |
+| **Integers**                              | \(\ldots,-3,-2,-1,0,1,2,3,\ldots\).                                                  |
+| **Positive integer**                      | Integer greater than zero.                                                           |
+| **Negative integer**                      | Integer less than zero.                                                              |
+| **Rational number**                       | Number expressible as \(p/q\), where \(p,q\) are integers and \(q\ne0\).             |
+| **Equivalent fractions**                  | Fractions representing the same rational number.                                     |
+| **Co-prime**                              | Two integers with no common factor except 1.                                         |
+| **Absolute value**                        | Distance of a number from zero; written \(                                           | x   | \). |
+| **Density**                               | Property that another rational number exists between any two rational numbers.       |
+| **Irrational number**                     | Number that cannot be expressed as \(p/q\) with integers \(p,q\), \(q\ne0\).         |
+| **Proof by contradiction**                | Method where assuming the opposite leads to an impossibility.                        |
+| **Real numbers**                          | All rational and irrational numbers together.                                        |
+| **Terminating decimal**                   | Decimal expansion that stops.                                                        |
+| **Repeating decimal**                     | Decimal expansion with a repeating block of digits.                                  |
 | **Non-terminating non-repeating decimal** | Decimal expansion that never stops and never repeats; belongs to irrational numbers. |
-| **Cyclic number** | Repeating block whose multiples are cyclic shifts of its digits. |
+| **Cyclic number**                         | Repeating block whose multiples are cyclic shifts of its digits.                     |
 
 ---
 
@@ -129,12 +130,12 @@ Before written numerals, people could use **one-to-one correspondence**.
 
 Example:
 
-| Herding Action | Counting Method |
-|---|---|
-| One cow leaves | Put one pebble in a pot. |
-| One cow returns | Remove one pebble. |
-| Pot empty at end | All cows returned. |
-| Pebbles left | Some cows are missing. |
+| Herding Action   | Counting Method          |
+| ---------------- | ------------------------ |
+| One cow leaves   | Put one pebble in a pot. |
+| One cow returns  | Remove one pebble.       |
+| Pot empty at end | All cows returned.       |
+| Pebbles left     | Some cows are missing.   |
 
 This matching idea leads naturally to counting numbers:
 
@@ -152,21 +153,21 @@ Early mathematical records were not written in notebooks. They were carved on bo
 
 ### Lebombo Bone
 
-| Detail | Information |
-|---|---|
-| Location | Lebombo Mountains between South Africa and Swaziland |
-| Approximate age | About 35,000 years |
-| Feature | 29 carved notches |
-| Possible use | Lunar phase counter or menstrual calendar |
+| Detail          | Information                                          |
+| --------------- | ---------------------------------------------------- |
+| Location        | Lebombo Mountains between South Africa and Swaziland |
+| Approximate age | About 35,000 years                                   |
+| Feature         | 29 carved notches                                    |
+| Possible use    | Lunar phase counter or menstrual calendar            |
 
 ### Ishango Bone
 
-| Detail | Information |
-|---|---|
-| Location | Near headwaters of Nile River in Democratic Republic of Congo |
-| Approximate age | About 20,000 BCE |
-| Feature | Groups of notches in columns |
-| Mathematical interest | Prime-number-like groupings and doubling patterns |
+| Detail                | Information                                                   |
+| --------------------- | ------------------------------------------------------------- |
+| Location              | Near headwaters of Nile River in Democratic Republic of Congo |
+| Approximate age       | About 20,000 BCE                                              |
+| Feature               | Groups of notches in columns                                  |
+| Mathematical interest | Prime-number-like groupings and doubling patterns             |
 
 One column contains:
 
@@ -192,12 +193,12 @@ Trade, astronomy, architecture, and ritual calculations required:
 
 ### Indian Contributions Highlighted
 
-| Context | Mathematical Importance |
-|---|---|
-| Lothal and Harappa | Standardized weights and trade records. |
-| Vedic literature | Names for large powers of 10. |
-| Lalitavistara | Very large named numbers. |
-| Powers of 10 | Prepared the ground for decimal place-value system. |
+| Context               | Mathematical Importance                             |
+| --------------------- | --------------------------------------------------- |
+| Lothal and Harappa    | Standardized weights and trade records.             |
+| Vedic literature      | Names for large powers of 10.                       |
+| Lalitavistara         | Very large named numbers.                           |
+| Powers of 10          | Prepared the ground for decimal place-value system. |
 | Indian numeral system | Developed place-value thinking used globally today. |
 
 ---
@@ -274,10 +275,10 @@ Zero made it possible to represent:
 
 ### Placeholder vs Number
 
-| Idea | Meaning |
-|---|---|
-| Placeholder zero | Marks an empty place in a numeral. |
-| Number zero | Can be added, subtracted, multiplied, and used in equations. |
+| Idea             | Meaning                                                      |
+| ---------------- | ------------------------------------------------------------ |
+| Placeholder zero | Marks an empty place in a numeral.                           |
+| Number zero      | Can be added, subtracted, multiplied, and used in equations. |
 
 Brahmagupta treated zero as a number with arithmetic rules.
 
@@ -303,12 +304,12 @@ Brahmagupta gave rules for zero in his work **Brahmasphutasiddhanta**.
 
 ### Brahmagupta's Rules for Zero
 
-| Rule | Symbol Form |
-|---|---|
-| Adding zero does not change a number. | \(a+0=a\) |
-| Subtracting zero does not change a number. | \(a-0=a\) |
-| Multiplying by zero gives zero. | \(a\times0=0\) |
-| A number minus itself is zero. | \(a-a=0\) |
+| Rule                                       | Symbol Form    |
+| ------------------------------------------ | -------------- |
+| Adding zero does not change a number.      | \(a+0=a\)      |
+| Subtracting zero does not change a number. | \(a-0=a\)      |
+| Multiplying by zero gives zero.            | \(a\times0=0\) |
+| A number minus itself is zero.             | \(a-a=0\)      |
 
 > [!IMPORTANT]
 > Division by zero is not allowed in ordinary arithmetic.
@@ -330,10 +331,10 @@ We need negative numbers for:
 
 Brahmagupta used the language of:
 
-| Concept | Sign |
-|---|---|
+| Concept          | Sign     |
+| ---------------- | -------- |
 | Fortune / wealth | Positive |
-| Debt | Negative |
+| Debt             | Negative |
 
 ### Integers
 
@@ -355,20 +356,20 @@ On the number line:
 
 ### Addition Rules
 
-| Rule | Example | Meaning |
-|---|---|---|
-| Fortune + fortune = fortune | \(5+4=9\) | Wealth increases. |
-| Debt + debt = debt | \((-5)+(-4)=-9\) | Debt increases. |
-| Fortune + debt | \(7+(-3)=4\) | Debt reduces fortune. |
-| Debt + fortune | \((-8)+10=2\) | Fortune exceeds debt. |
+| Rule                        | Example          | Meaning               |
+| --------------------------- | ---------------- | --------------------- |
+| Fortune + fortune = fortune | \(5+4=9\)        | Wealth increases.     |
+| Debt + debt = debt          | \((-5)+(-4)=-9\) | Debt increases.       |
+| Fortune + debt              | \(7+(-3)=4\)     | Debt reduces fortune. |
+| Debt + fortune              | \((-8)+10=2\)    | Fortune exceeds debt. |
 
 ### Multiplication Rules
 
-| Rule | Example | Result |
-|---|---|---|
-| Positive x positive | \(3\times4\) | Positive |
-| Negative x positive | \((-3)\times4\) | Negative |
-| Positive x negative | \(3\times(-4)\) | Negative |
+| Rule                | Example            | Result   |
+| ------------------- | ------------------ | -------- |
+| Positive x positive | \(3\times4\)       | Positive |
+| Negative x positive | \((-3)\times4\)    | Negative |
+| Positive x negative | \(3\times(-4)\)    | Negative |
 | Negative x negative | \((-3)\times(-4)\) | Positive |
 
 ### Why Negative Times Negative Is Positive
@@ -449,12 +450,12 @@ Final standing:
 
 ### Integer Calculations
 
-| Expression | Result |
-|---|---:|
-| \((-12)\times5\) | \(-60\) |
-| \((-8)\times(-7)\) | \(56\) |
-| \(0-(-14)\) | \(14\) |
-| \((-20)\div4\) | \(-5\) |
+| Expression         |  Result |
+| ------------------ | ------: |
+| \((-12)\times5\)   | \(-60\) |
+| \((-8)\times(-7)\) |  \(56\) |
+| \(0-(-14)\)        |  \(14\) |
+| \((-20)\div4\)     |  \(-5\) |
 
 ---
 
@@ -509,11 +510,11 @@ Every integer can be written as a fraction with denominator 1.
 
 Examples:
 
-| Integer | Rational Form |
-|---:|---|
-| 5 | \(\frac{5}{1}\) |
-| -10 | \(\frac{-10}{1}\) |
-| 0 | \(\frac{0}{1}\) |
+| Integer | Rational Form     |
+| ------: | ----------------- |
+|       5 | \(\frac{5}{1}\)   |
+|     -10 | \(\frac{-10}{1}\) |
+|       0 | \(\frac{0}{1}\)   |
 
 Therefore:
 
@@ -615,12 +616,12 @@ $$
 
 ## Closure of Rational Numbers
 
-| Operation | Closed for Rational Numbers? | Condition |
-|---|---|---|
-| Addition | Yes | Always |
-| Subtraction | Yes | Always |
-| Multiplication | Yes | Always |
-| Division | Yes | Divisor must not be zero |
+| Operation      | Closed for Rational Numbers? | Condition                |
+| -------------- | ---------------------------- | ------------------------ |
+| Addition       | Yes                          | Always                   |
+| Subtraction    | Yes                          | Always                   |
+| Multiplication | Yes                          | Always                   |
+| Division       | Yes                          | Divisor must not be zero |
 
 ---
 
@@ -640,11 +641,11 @@ $$
 
 where \(q>0\):
 
-| Step | Action |
-|---|---|
+| Step  | Action                                            |
+| ----- | ------------------------------------------------- |
 | **1** | Divide each unit interval into \(q\) equal parts. |
-| **2** | From 0, move \(p\) parts right if positive. |
-| **3** | From 0, move \(p\) parts left if negative. |
+| **2** | From 0, move \(p\) parts right if positive.       |
+| **3** | From 0, move \(p\) parts left if negative.        |
 
 ### Example: \(\frac{3}{4}\)
 
@@ -908,15 +909,15 @@ is irrational.
 
 To construct \(\sqrt{2}\) on the number line:
 
-| Step | Construction |
-|---|---|
-| **1** | Draw \(OA=1\) unit on the number line. |
-| **2** | At \(A\), draw a perpendicular line. |
-| **3** | Mark \(AB=1\) unit on the perpendicular. |
-| **4** | Join \(O\) to \(B\). |
-| **5** | By Pythagoras, \(OB=\sqrt{2}\). |
+| Step  | Construction                                                       |
+| ----- | ------------------------------------------------------------------ |
+| **1** | Draw \(OA=1\) unit on the number line.                             |
+| **2** | At \(A\), draw a perpendicular line.                               |
+| **3** | Mark \(AB=1\) unit on the perpendicular.                           |
+| **4** | Join \(O\) to \(B\).                                               |
+| **5** | By Pythagoras, \(OB=\sqrt{2}\).                                    |
 | **6** | With centre \(O\) and radius \(OB\), cut the number line at \(P\). |
-| **7** | Point \(P\) represents \(\sqrt{2}\). |
+| **7** | Point \(P\) represents \(\sqrt{2}\).                               |
 
 Why?
 
@@ -1052,12 +1053,12 @@ So a denominator made only of 2s and 5s can be converted into \(10\), \(100\), \
 
 ### Examples
 
-| Rational Number | Denominator in Lowest Terms | Decimal Type |
-|---|---|---|
-| \(\frac{7}{20}\) | \(20=2^2\times5\) | Terminating |
-| \(\frac{4}{15}\) | \(15=3\times5\) | Repeating |
-| \(\frac{13}{125}\) | \(125=5^3\) | Terminating |
-| \(\frac{1}{7}\) | \(7\) | Repeating |
+| Rational Number    | Denominator in Lowest Terms | Decimal Type |
+| ------------------ | --------------------------- | ------------ |
+| \(\frac{7}{20}\)   | \(20=2^2\times5\)           | Terminating  |
+| \(\frac{4}{15}\)   | \(15=3\times5\)             | Repeating    |
+| \(\frac{13}{125}\) | \(125=5^3\)                 | Terminating  |
+| \(\frac{1}{7}\)    | \(7\)                       | Repeating    |
 
 ---
 
@@ -1229,10 +1230,10 @@ $$
 
 ## Conversion Summary
 
-| Decimal Type | Method |
-|---|---|
-| Terminating | Write over \(10,100,1000,\ldots\), then simplify. |
-| Pure repeating | Multiply by \(10^n\), subtract original equation, solve. |
+| Decimal Type      | Method                                                            |
+| ----------------- | ----------------------------------------------------------------- |
+| Terminating       | Write over \(10,100,1000,\ldots\), then simplify.                 |
+| Pure repeating    | Multiply by \(10^n\), subtract original equation, solve.          |
 | General repeating | Shift non-repeating part, shift repeating cycle, subtract, solve. |
 
 ---
@@ -1253,8 +1254,8 @@ $$
 
 Watch its multiples:
 
-| Multiplication | Result |
-|---|---:|
+| Multiplication    | Result |
+| ----------------- | -----: |
 | \(142857\times1\) | 142857 |
 | \(142857\times2\) | 285714 |
 | \(142857\times3\) | 428571 |
@@ -1285,11 +1286,11 @@ $$
 
 ### Decimal Classification
 
-| Decimal Type | Number Type |
-|---|---|
-| Terminating | Rational |
-| Non-terminating repeating | Rational |
-| Non-terminating non-repeating | Irrational |
+| Decimal Type                  | Number Type |
+| ----------------------------- | ----------- |
+| Terminating                   | Rational    |
+| Non-terminating repeating     | Rational    |
+| Non-terminating non-repeating | Irrational  |
 
 ---
 
@@ -1299,20 +1300,20 @@ $$
 
 Use denominator in lowest terms.
 
-| Number | Denominator Factorization | Decimal Type |
-|---|---|---|
-| \(\frac{7}{20}\) | \(2^2\times5\) | Terminating |
-| \(\frac{4}{15}\) | \(3\times5\) | Repeating |
-| \(\frac{13}{125}\) | \(5^3\) | Terminating |
+| Number             | Denominator Factorization | Decimal Type |
+| ------------------ | ------------------------- | ------------ |
+| \(\frac{7}{20}\)   | \(2^2\times5\)            | Terminating  |
+| \(\frac{4}{15}\)   | \(3\times5\)              | Repeating    |
+| \(\frac{13}{125}\) | \(5^3\)                   | Terminating  |
 
 ### Classify Numbers
 
-| Number | Type | Reason |
-|---|---|---|
-| \(\sqrt{81}=9\) | Rational | Integer |
-| \(\sqrt{12}\) | Irrational | \(12\) is not a perfect square. |
-| \(0.33333\ldots\) | Rational | Repeating decimal |
-| \(0.1234512345\ldots\) | Rational | Repeating block 12345 |
+| Number                     | Type       | Reason                                    |
+| -------------------------- | ---------- | ----------------------------------------- |
+| \(\sqrt{81}=9\)            | Rational   | Integer                                   |
+| \(\sqrt{12}\)              | Irrational | \(12\) is not a perfect square.           |
+| \(0.33333\ldots\)          | Rational   | Repeating decimal                         |
+| \(0.1234512345\ldots\)     | Rational   | Repeating block 12345                     |
 | \(1.01001000100001\ldots\) | Irrational | Pattern does not repeat as a fixed block. |
 
 ### Why \(0.\overline{9}=1\)
@@ -1357,13 +1358,13 @@ The chapter ends by showing how number systems grew.
 
 ### Number System Growth
 
-| System | Symbol | Contains |
-|---|---|---|
-| Natural numbers | \(\mathbb{N}\) | \(1,2,3,\ldots\) |
-| Integers | \(\mathbb{Z}\) | \(\ldots,-2,-1,0,1,2,\ldots\) |
-| Rational numbers | \(\mathbb{Q}\) | All numbers \(\frac{p}{q}\), \(q\ne0\) |
+| System             | Symbol                     | Contains                                   |
+| ------------------ | -------------------------- | ------------------------------------------ |
+| Natural numbers    | \(\mathbb{N}\)             | \(1,2,3,\ldots\)                           |
+| Integers           | \(\mathbb{Z}\)             | \(\ldots,-2,-1,0,1,2,\ldots\)              |
+| Rational numbers   | \(\mathbb{Q}\)             | All numbers \(\frac{p}{q}\), \(q\ne0\)     |
 | Irrational numbers | Usually denoted separately | Numbers not expressible as \(\frac{p}{q}\) |
-| Real numbers | \(\mathbb{R}\) | Rational and irrational numbers together |
+| Real numbers       | \(\mathbb{R}\)             | Rational and irrational numbers together   |
 
 Set containment:
 
@@ -1463,29 +1464,29 @@ $$
 
 For \(\frac{p}{q}\) in lowest terms:
 
-| Denominator \(q\) | Decimal Expansion |
-|---|---|
-| Prime factors only 2 and/or 5 | Terminating |
-| Any other prime factor | Repeating non-terminating |
+| Denominator \(q\)             | Decimal Expansion         |
+| ----------------------------- | ------------------------- |
+| Prime factors only 2 and/or 5 | Terminating               |
+| Any other prime factor        | Repeating non-terminating |
 
 ---
 
 ## Common Misconceptions
 
-| Misconception | Correct Understanding |
-|---|---|
-| Natural numbers include zero in every convention. | In this chapter, natural numbers are \(1,2,3,\ldots\). |
-| Negative numbers are not "real" numbers. | Negative numbers are integers and real numbers. |
-| Zero is only a placeholder. | Zero is also a number with arithmetic rules. |
-| Every fraction has a unique form. | Rational numbers have infinitely many equivalent fraction forms. |
-| Division by zero is allowed if numerator is small. | Division by zero is undefined. |
-| Fractions do not include integers. | Every integer can be written with denominator 1. |
-| Rational numbers leave no room for any other numbers. | Irrational numbers also exist on the number line. |
-| Dense means there are no irrational numbers. | Rationals are dense, but irrationals still exist between them. |
-| \(\sqrt{2}\) is irrational because its decimal is long. | Its irrationality is proved logically, not by decimal length. |
-| \(\pi=\frac{22}{7}\). | \(\frac{22}{7}\) is only an approximation to \(\pi\). |
-| Every non-terminating decimal is irrational. | Repeating non-terminating decimals are rational. |
-| \(0.\overline{9}\) is slightly less than 1. | \(0.\overline{9}=1\). |
+| Misconception                                           | Correct Understanding                                            |
+| ------------------------------------------------------- | ---------------------------------------------------------------- |
+| Natural numbers include zero in every convention.       | In this chapter, natural numbers are \(1,2,3,\ldots\).           |
+| Negative numbers are not "real" numbers.                | Negative numbers are integers and real numbers.                  |
+| Zero is only a placeholder.                             | Zero is also a number with arithmetic rules.                     |
+| Every fraction has a unique form.                       | Rational numbers have infinitely many equivalent fraction forms. |
+| Division by zero is allowed if numerator is small.      | Division by zero is undefined.                                   |
+| Fractions do not include integers.                      | Every integer can be written with denominator 1.                 |
+| Rational numbers leave no room for any other numbers.   | Irrational numbers also exist on the number line.                |
+| Dense means there are no irrational numbers.            | Rationals are dense, but irrationals still exist between them.   |
+| \(\sqrt{2}\) is irrational because its decimal is long. | Its irrationality is proved logically, not by decimal length.    |
+| \(\pi=\frac{22}{7}\).                                   | \(\frac{22}{7}\) is only an approximation to \(\pi\).            |
+| Every non-terminating decimal is irrational.            | Repeating non-terminating decimals are rational.                 |
+| \(0.\overline{9}\) is slightly less than 1.             | \(0.\overline{9}=1\).                                            |
 
 ---
 
@@ -1493,37 +1494,37 @@ For \(\frac{p}{q}\) in lowest terms:
 
 ### A. Natural Numbers, Zero, and Integers
 
-| Q | Question Focus | How to Approach |
-|---|---|---|
-| **Exercise 3.1 Q1** | Trade ratio | Use proportional reasoning. |
-| **Exercise 3.1 Q2** | Prime number pattern | Identify primes and continue sequence. |
-| **Exercise 3.1 Q3** | Closure under subtraction | Give counterexample such as \(3-5=-2\). |
-| **Exercise 3.2 Q1** | Temperature drop | Use integer subtraction. |
-| **Exercise 3.2 Q2** | Debt, profit, loss | Represent debts/losses as negative and profits as positive. |
-| **Exercise 3.2 Q3** | Integer arithmetic | Apply sign rules. |
-| **Exercise 3.2 Q4** | Subtracting negative | Explain as removing debt. |
+| Q                   | Question Focus            | How to Approach                                             |
+| ------------------- | ------------------------- | ----------------------------------------------------------- |
+| **Exercise 3.1 Q1** | Trade ratio               | Use proportional reasoning.                                 |
+| **Exercise 3.1 Q2** | Prime number pattern      | Identify primes and continue sequence.                      |
+| **Exercise 3.1 Q3** | Closure under subtraction | Give counterexample such as \(3-5=-2\).                     |
+| **Exercise 3.2 Q1** | Temperature drop          | Use integer subtraction.                                    |
+| **Exercise 3.2 Q2** | Debt, profit, loss        | Represent debts/losses as negative and profits as positive. |
+| **Exercise 3.2 Q3** | Integer arithmetic        | Apply sign rules.                                           |
+| **Exercise 3.2 Q4** | Subtracting negative      | Explain as removing debt.                                   |
 
 ### B. Rational Numbers
 
-| Q | Question Focus | How to Approach |
-|---|---|---|
-| **Exercise 3.3 Q1** | Equal rational numbers | Use cross multiplication \(ad=bc\). |
-| **Exercise 3.3 Q2-Q5** | Operations | Use rational number rules. |
-| **Exercise 3.3 Q6-Q7** | Distributive property | Expand and simplify both sides. |
-| **Exercise 3.3 Q8** | Solve for rational \(x\) | Clear denominators carefully. |
-| **Exercise 3.4 Q1** | Number line | Divide units according to denominator. |
+| Q                            | Question Focus              | How to Approach                           |
+| ---------------------------- | --------------------------- | ----------------------------------------- |
+| **Exercise 3.3 Q1**          | Equal rational numbers      | Use cross multiplication \(ad=bc\).       |
+| **Exercise 3.3 Q2-Q5**       | Operations                  | Use rational number rules.                |
+| **Exercise 3.3 Q6-Q7**       | Distributive property       | Expand and simplify both sides.           |
+| **Exercise 3.3 Q8**          | Solve for rational \(x\)    | Clear denominators carefully.             |
+| **Exercise 3.4 Q1**          | Number line                 | Divide units according to denominator.    |
 | **Exercise 3.4 Q2/Q5/Q6/Q7** | Rationals between rationals | Use average method or common denominator. |
 
 ### C. Irrational and Real Numbers
 
-| Q | Question Focus | How to Approach |
-|---|---|---|
-| **Exercise 3.5 Q1** | Terminating or repeating | Factor denominator in lowest form. |
-| **Exercise 3.5 Q3** | Classify rational/irrational | Use perfect squares and decimal behavior. |
-| **Exercise 3.5 Q4** | \(0.\overline{9}=1\) | Let \(x=0.\overline{9}\), multiply, subtract. |
-| **End Q2** | Prove \(\sqrt{5}\) irrational | Repeat contradiction method used for \(\sqrt{2}\). |
-| **End Q5-Q7** | Rationals between numbers | Use common denominators or averages. |
-| **End Q11-Q12** | Decimal places | Use denominator factors 2 and 5. |
+| Q                   | Question Focus                | How to Approach                                    |
+| ------------------- | ----------------------------- | -------------------------------------------------- |
+| **Exercise 3.5 Q1** | Terminating or repeating      | Factor denominator in lowest form.                 |
+| **Exercise 3.5 Q3** | Classify rational/irrational  | Use perfect squares and decimal behavior.          |
+| **Exercise 3.5 Q4** | \(0.\overline{9}=1\)          | Let \(x=0.\overline{9}\), multiply, subtract.      |
+| **End Q2**          | Prove \(\sqrt{5}\) irrational | Repeat contradiction method used for \(\sqrt{2}\). |
+| **End Q5-Q7**       | Rationals between numbers     | Use common denominators or averages.               |
+| **End Q11-Q12**     | Decimal places                | Use denominator factors 2 and 5.                   |
 
 ---
 
@@ -1753,34 +1754,34 @@ lies between \(a\) and \(b\).
 
 ### Number System Chain
 
-| Symbol | Set |
-|---|---|
-| \(\mathbb{N}\) | Natural numbers |
-| \(\mathbb{Z}\) | Integers |
+| Symbol         | Set              |
+| -------------- | ---------------- |
+| \(\mathbb{N}\) | Natural numbers  |
+| \(\mathbb{Z}\) | Integers         |
 | \(\mathbb{Q}\) | Rational numbers |
-| \(\mathbb{R}\) | Real numbers |
+| \(\mathbb{R}\) | Real numbers     |
 
 ### Decimal Identification
 
-| Decimal | Number Type |
-|---|---|
-| \(0.375\) | Rational |
-| \(0.\overline{45}\) | Rational |
-| \(1.01001000100001\ldots\) | Irrational |
-| \(\sqrt{2}\) | Irrational |
-| \(\pi\) | Irrational |
-| \(0.\overline{9}\) | Rational, equal to 1 |
+| Decimal                    | Number Type          |
+| -------------------------- | -------------------- |
+| \(0.375\)                  | Rational             |
+| \(0.\overline{45}\)        | Rational             |
+| \(1.01001000100001\ldots\) | Irrational           |
+| \(\sqrt{2}\)               | Irrational           |
+| \(\pi\)                    | Irrational           |
+| \(0.\overline{9}\)         | Rational, equal to 1 |
 
 ### Best Tests
 
-| Task | Best Method |
-|---|---|
-| Check equality of fractions | Cross multiply. |
-| Add/subtract fractions | Use common denominator. |
-| Find rational between two rationals | Take average. |
-| Predict terminating decimal | Factor denominator in lowest terms. |
-| Convert repeating decimal | Multiply by power of 10 and subtract. |
-| Prove irrationality | Use contradiction. |
+| Task                                | Best Method                           |
+| ----------------------------------- | ------------------------------------- |
+| Check equality of fractions         | Cross multiply.                       |
+| Add/subtract fractions              | Use common denominator.               |
+| Find rational between two rationals | Take average.                         |
+| Predict terminating decimal         | Factor denominator in lowest terms.   |
+| Convert repeating decimal           | Multiply by power of 10 and subtract. |
+| Prove irrationality                 | Use contradiction.                    |
 
 ---
 
@@ -1842,4 +1843,3 @@ Rational numbers can be added, subtracted, multiplied, and divided, except divis
 Irrational numbers cannot be written as ratios of integers. Examples include \(\sqrt{2}\), \(\sqrt{3}\), \(\sqrt{5}\), and \(\pi\). The irrationality of \(\sqrt{2}\) can be proved by contradiction.
 
 Decimal expansions reveal number type. Rational numbers have terminating or repeating decimals. Irrational numbers have non-terminating, non-repeating decimals. Rational and irrational numbers together form the real numbers, which fill the real number line.
-

@@ -1,20 +1,21 @@
 # Chapter 10: The Beggar
+
 ### NCERT Class 9 — English Moments
 
 ---
 
 ## 📌 Chapter at a Glance
 
-| Detail | Info |
-|---|---|
-| Chapter | 10 — The Beggar |
-| Class | Class 9 |
-| Subject | English Moments |
-| Pilot Subject Family | English |
-| Source File | `data/class_9/english_moments/chapter_10.md` |
-| Textbook Pages | 1 – 7 |
-| Raw Exercise Count | 8 |
-| Formatting Mode | Human-guided pilot for subject-specific automation |
+| Detail               | Info                                               |
+| -------------------- | -------------------------------------------------- |
+| Chapter              | 10 — The Beggar                                    |
+| Class                | Class 9                                            |
+| Subject              | English Moments                                    |
+| Pilot Subject Family | English                                            |
+| Source File          | `data/class_9/english_moments/chapter_10.md`       |
+| Textbook Pages       | 1 – 7                                              |
+| Raw Exercise Count   | 8                                                  |
+| Formatting Mode      | Human-guided pilot for subject-specific automation |
 
 ---
 
@@ -23,53 +24,53 @@
 > [!NOTE]
 > Study this chapter through this route: **context -> plot/situation -> character voice -> theme -> language feature -> reader response**.
 
-| Step | Learner Action | Why It Matters |
-|---|---|---|
-| 1 | Read once for the literal story and again for tone, conflict, and theme. | Builds reliable recall and answer quality. |
-| 2 | Maintain a character evidence table with quotations or paraphrased moments. | Builds reliable recall and answer quality. |
-| 3 | Track difficult expressions and infer meaning from context. | Builds reliable recall and answer quality. |
-| 4 | For long answers, connect textual evidence to the central theme. | Builds reliable recall and answer quality. |
+| Step | Learner Action                                                              | Why It Matters                             |
+| ---- | --------------------------------------------------------------------------- | ------------------------------------------ |
+| 1    | Read once for the literal story and again for tone, conflict, and theme.    | Builds reliable recall and answer quality. |
+| 2    | Maintain a character evidence table with quotations or paraphrased moments. | Builds reliable recall and answer quality. |
+| 3    | Track difficult expressions and infer meaning from context.                 | Builds reliable recall and answer quality. |
+| 4    | For long answers, connect textual evidence to the central theme.            | Builds reliable recall and answer quality. |
 
 ---
 
 ## 🎯 Learning Outcomes
 
-| # | After studying this chapter, you should be able to... |
-|---|---|
-| 1 | understand the literal situation and deeper theme of the text |
-| 2 | explain character, tone, conflict, and language choices using textual evidence |
-| 3 | answer comprehension, vocabulary, and writing tasks in a structured way |
+| #   | After studying this chapter, you should be able to...                          |
+| --- | ------------------------------------------------------------------------------ |
+| 1   | understand the literal situation and deeper theme of the text                  |
+| 2   | explain character, tone, conflict, and language choices using textual evidence |
+| 3   | answer comprehension, vocabulary, and writing tasks in a structured way        |
 
 ---
 
 ## 🗂️ Section Structure
 
-| Section | Title | Revision Focus |
-|---|---|---|
-| Intro | Core chapter narrative | Definition, explanation, examples, and likely questions |
+| Section | Title                  | Revision Focus                                          |
+| ------- | ---------------------- | ------------------------------------------------------- |
+| Intro   | Core chapter narrative | Definition, explanation, examples, and likely questions |
 
 ---
 
 ## 🧠 Subject-Specific Study Method
 
-| Part | How to Use It |
-|---|---|
-| Core lens | context -> plot/situation -> character voice -> theme -> language feature -> reader response |
-| First pass | Read for meaning and mark unfamiliar terms. |
-| Second pass | Convert definitions, examples, data, and activities into tables. |
-| Revision pass | Use the quick reference and practice tracker at the end. |
+| Part          | How to Use It                                                                                |
+| ------------- | -------------------------------------------------------------------------------------------- |
+| Core lens     | context -> plot/situation -> character voice -> theme -> language feature -> reader response |
+| First pass    | Read for meaning and mark unfamiliar terms.                                                  |
+| Second pass   | Convert definitions, examples, data, and activities into tables.                             |
+| Revision pass | Use the quick reference and practice tracker at the end.                                     |
 
 ---
 
 ## 🪶 Literature Study Board
 
-| Element | Learner Notes |
-|---|---|
-| Text | The Beggar |
-| First reading | Understand what happens literally: situation, characters, conflict, and ending. |
-| Second reading | Track emotional change, tone, symbols, and social/political context. |
-| Evidence habit | Keep short textual moments ready for long-answer questions. |
-| Vocabulary habit | Infer expression meanings from context before checking a dictionary. |
+| Element          | Learner Notes                                                                   |
+| ---------------- | ------------------------------------------------------------------------------- |
+| Text             | The Beggar                                                                      |
+| First reading    | Understand what happens literally: situation, characters, conflict, and ending. |
+| Second reading   | Track emotional change, tone, symbols, and social/political context.            |
+| Evidence habit   | Keep short textual moments ready for long-answer questions.                     |
+| Vocabulary habit | Infer expression meanings from context before checking a dictionary.            |
 
 ---
 
@@ -159,57 +160,57 @@ Olga, is responsible for the positive change in him. How has Olga saved Lushkof 
 
 ## ✏️ Practice & Exercise Tracker
 
-| Q | Question / Task | Answer Strategy |
-|---|---|---|
-| 1 | 1. Has Lushkoff become a beggar by circumstance or by choice? | Identify command word, recall concept, structure answer, then review. |
-| 2 | 2. What reasons does he give to Sergei for his telling lies? | Identify command word, recall concept, structure answer, then review. |
-| 3 | 3. Is Lushkoff a willing worker? Why, then, does he agree to chop wood for Sergei?              2018-19 68 / Moments | Identify command word, recall concept, structure answer, then review. |
-| 4 | 4. Sergei says, “I am happy that my wor ds have taken ef fect.” Why does he say so? Is he right in saying this? | Identify command word, recall concept, structure answer, then review. |
-| 5 | 5. Lushkof f is ear ning thirty five r oubles a month. How is he obliged to Ser gei for this? | Identify command word, recall concept, structure answer, then review. |
-| 6 | 6. During their conversation Lushkof f r eveals that Ser gei’s cook, Olga, is responsible for the positive change in him. How has Olga saved Lushkof f? How can we help beggars/abolish begging?  ‘The Man with the Twisted Lip’ by Arthur Conan Doyle  The Three Sisters by Anton Chekhov                       2018-19 | Identify command word, recall concept, structure answer, then review. |
+| Q   | Question / Task                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Answer Strategy                                                       |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| 1   | 1. Has Lushkoff become a beggar by circumstance or by choice?                                                                                                                                                                                                                                                                                                                                                                                                                    | Identify command word, recall concept, structure answer, then review. |
+| 2   | 2. What reasons does he give to Sergei for his telling lies?                                                                                                                                                                                                                                                                                                                                                                                                                     | Identify command word, recall concept, structure answer, then review. |
+| 3   | 3. Is Lushkoff a willing worker? Why, then, does he agree to chop wood for Sergei?              2018-19 68 / Moments                                                                                                                                                                                                                                                                                       | Identify command word, recall concept, structure answer, then review. |
+| 4   | 4. Sergei says, “I am happy that my wor ds have taken ef fect.” Why does he say so? Is he right in saying this?                                                                                                                                                                                                                                                                                                                                                                  | Identify command word, recall concept, structure answer, then review. |
+| 5   | 5. Lushkof f is ear ning thirty five r oubles a month. How is he obliged to Ser gei for this?                                                                                                                                                                                                                                                                                                                                                                                    | Identify command word, recall concept, structure answer, then review. |
+| 6   | 6. During their conversation Lushkof f r eveals that Ser gei’s cook, Olga, is responsible for the positive change in him. How has Olga saved Lushkof f? How can we help beggars/abolish begging?  ‘The Man with the Twisted Lip’ by Arthur Conan Doyle  The Three Sisters by Anton Chekhov                       2018-19 | Identify command word, recall concept, structure answer, then review. |
 
 ---
 
 ## 🧩 Answer-Writing Framework
 
-| Step | What To Do |
-|---|---|
-| 1 | Begin with the situation in the text. |
-| 2 | Identify the speaker, character, or event. |
-| 3 | Explain what it reveals about theme, conflict, or emotion. |
-| 4 | Use a short textual reference or paraphrase. |
-| 5 | Close with the larger significance. |
+| Step | What To Do                                                 |
+| ---- | ---------------------------------------------------------- |
+| 1    | Begin with the situation in the text.                      |
+| 2    | Identify the speaker, character, or event.                 |
+| 3    | Explain what it reveals about theme, conflict, or emotion. |
+| 4    | Use a short textual reference or paraphrase.               |
+| 5    | Close with the larger significance.                        |
 
 ---
 
 ## ⚠️ Common Misconceptions
 
-| # | Watch Out For This |
-|---|---|
-| 1 | Do not retell the whole story when the question asks for interpretation. |
-| 2 | A theme is not a one-word topic; it is an idea about life or society. |
-| 3 | Vocabulary questions require context, not only dictionary meaning. |
+| #   | Watch Out For This                                                       |
+| --- | ------------------------------------------------------------------------ |
+| 1   | Do not retell the whole story when the question asks for interpretation. |
+| 2   | A theme is not a one-word topic; it is an idea about life or society.    |
+| 3   | Vocabulary questions require context, not only dictionary meaning.       |
 
 ---
 
 ## 📋 Quick Revision Sheet
 
-| Revision Item | What To Recall |
-|---|---|
-| Chapter core | The Beggar |
-| Intro | Core chapter narrative |
+| Revision Item | What To Recall         |
+| ------------- | ---------------------- |
+| Chapter core  | The Beggar             |
+| Intro         | Core chapter narrative |
 
 ---
 
 ## ✅ Pilot Quality Checklist
 
-| Check | Status |
-|---|---|
-| Raw data preserved | Yes — chapter content is retained and cleaned, not summarised away. |
-| Learner scaffolding added | Yes — roadmap, outcomes, answer framework, misconceptions, and revision sheet. |
-| Subject-aware structure | Yes — generated from the selected subject family profile. |
-| Needs human review | Yes — especially source extraction mismatches, diagrams, tables, formulas, and broken OCR words. |
+| Check                     | Status                                                                                           |
+| ------------------------- | ------------------------------------------------------------------------------------------------ |
+| Raw data preserved        | Yes — chapter content is retained and cleaned, not summarised away.                              |
+| Learner scaffolding added | Yes — roadmap, outcomes, answer framework, misconceptions, and revision sheet.                   |
+| Subject-aware structure   | Yes — generated from the selected subject family profile.                                        |
+| Needs human review        | Yes — especially source extraction mismatches, diagrams, tables, formulas, and broken OCR words. |
 
 ---
 
-*Source: NCERT Class 9 — English Moments, Chapter 10. Raw file: `data/class_9/english_moments/chapter_10.md`.*
+_Source: NCERT Class 9 — English Moments, Chapter 10. Raw file: `data/class_9/english_moments/chapter_10.md`._

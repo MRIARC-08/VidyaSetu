@@ -1,4 +1,5 @@
 # Chapter 1: Introduction
+
 ### NCERT Class 11 Statistics for Economics
 
 ---
@@ -46,13 +47,13 @@ If the student cannot buy everything, a choice must be made. Choosing one thing 
 
 ### Key Idea
 
-| Concept | Meaning |
-|---|---|
-| Wants | Things people desire |
-| Resources | Means used to satisfy wants |
-| Scarcity | Resources are limited compared with wants |
-| Choice | Selecting one option from available alternatives |
-| Alternative uses | The same resource can be used in different ways |
+| Concept          | Meaning                                          |
+| ---------------- | ------------------------------------------------ |
+| Wants            | Things people desire                             |
+| Resources        | Means used to satisfy wants                      |
+| Scarcity         | Resources are limited compared with wants        |
+| Choice           | Selecting one option from available alternatives |
+| Alternative uses | The same resource can be used in different ways  |
 
 Economics studies how individuals and society make choices when resources are scarce.
 
@@ -64,12 +65,12 @@ Economics may be understood as the study of how people and society choose to use
 
 This meaning includes four important points:
 
-| Part | Explanation |
-|---|---|
-| People and society choose | Economic decisions are made by individuals, families, firms, and governments |
-| Scarce resources | Resources are limited |
-| Alternative uses | Resources can be used in different ways |
-| Production and distribution | Goods and services are produced and then shared among people |
+| Part                        | Explanation                                                                  |
+| --------------------------- | ---------------------------------------------------------------------------- |
+| People and society choose   | Economic decisions are made by individuals, families, firms, and governments |
+| Scarce resources            | Resources are limited                                                        |
+| Alternative uses            | Resources can be used in different ways                                      |
+| Production and distribution | Goods and services are produced and then shared among people                 |
 
 Economics is not only about money. It is about choices, trade-offs, welfare, and the use of limited resources.
 
@@ -81,13 +82,13 @@ Economic activities are activities related to earning, spending, producing, exch
 
 Examples:
 
-| Activity | Why it is economic |
-|---|---|
-| Farmer growing wheat | Produces a good |
+| Activity                     | Why it is economic        |
+| ---------------------------- | ------------------------- |
+| Farmer growing wheat         | Produces a good           |
 | Shopkeeper selling notebooks | Exchanges goods for money |
-| Teacher teaching in a school | Provides a service |
-| Worker receiving wages | Earns income |
-| Family buying vegetables | Consumes goods |
+| Teacher teaching in a school | Provides a service        |
+| Worker receiving wages       | Earns income              |
+| Family buying vegetables     | Consumes goods            |
 
 Non-economic activities are performed out of love, duty, affection, or personal satisfaction, not mainly for money or exchange.
 
@@ -133,12 +134,12 @@ Distribution means how income generated from production is shared among people.
 
 Income may be distributed as:
 
-| Factor payment | Receiver |
-|---|---|
-| Wages and salaries | Labour |
-| Rent | Land owner |
-| Interest | Capital owner or lender |
-| Profit | Entrepreneur |
+| Factor payment     | Receiver                |
+| ------------------ | ----------------------- |
+| Wages and salaries | Labour                  |
+| Rent               | Land owner              |
+| Interest           | Capital owner or lender |
+| Profit             | Entrepreneur            |
 
 Distribution helps us understand inequality, poverty, and the sharing of national income.
 
@@ -178,12 +179,12 @@ In Economics, data often refers to numerical facts related to economic activitie
 
 Examples:
 
-| Statement | Type |
-|---|---|
+| Statement                                          | Type                       |
+| -------------------------------------------------- | -------------------------- |
 | Rice production increased from one year to another | Quantitative economic data |
-| A region has high unemployment | Economic observation |
-| A household earns Rs 20,000 per month | Numerical data |
-| The price of wheat is Rs 30 per kg | Numerical data |
+| A region has high unemployment                     | Economic observation       |
+| A household earns Rs 20,000 per month              | Numerical data             |
+| The price of wheat is Rs 30 per kg                 | Numerical data             |
 
 Data helps convert general statements into precise statements.
 
@@ -220,13 +221,13 @@ Example:
 
 Customer satisfaction may be recorded as:
 
-| Rating | Meaning |
-|---|---|
-| 1 | Very dissatisfied |
-| 2 | Dissatisfied |
-| 3 | Neutral |
-| 4 | Satisfied |
-| 5 | Very satisfied |
+| Rating | Meaning           |
+| ------ | ----------------- |
+| 1      | Very dissatisfied |
+| 2      | Dissatisfied      |
+| 3      | Neutral           |
+| 4      | Satisfied         |
+| 5      | Very satisfied    |
 
 ### 7.2 Quantitative Data
 
@@ -243,11 +244,11 @@ Examples:
 
 ### Difference
 
-| Basis | Qualitative data | Quantitative data |
-|---|---|---|
-| Nature | Describes quality | Measures quantity |
-| Form | Words, categories, ranks | Numbers |
-| Example | Skill level | Monthly income |
+| Basis            | Qualitative data                          | Quantitative data                        |
+| ---------------- | ----------------------------------------- | ---------------------------------------- |
+| Nature           | Describes quality                         | Measures quantity                        |
+| Form             | Words, categories, ranks                  | Numbers                                  |
+| Example          | Skill level                               | Monthly income                           |
 | Use in Economics | Helps understand behaviour and conditions | Helps measure and compare economic facts |
 
 ---
@@ -286,11 +287,11 @@ If an economist wants to study rising prices, Statistics can help by:
 
 Statistics converts vague statements into exact statements.
 
-| Vague statement | Statistical statement |
-|---|---|
-| Many people are unemployed | Unemployment rate is 7 percent |
-| Production has increased | Production rose from 100 units to 130 units |
-| Prices are high | Consumer price index increased by 5 percent |
+| Vague statement            | Statistical statement                       |
+| -------------------------- | ------------------------------------------- |
+| Many people are unemployed | Unemployment rate is 7 percent              |
+| Production has increased   | Production rose from 100 units to 130 units |
+| Prices are high            | Consumer price index increased by 5 percent |
 
 Precision improves understanding and reduces confusion.
 
@@ -314,12 +315,12 @@ Economic variables are often related.
 
 Examples:
 
-| Relationship | Possible question |
-|---|---|
-| Income and consumption | Does consumption rise when income rises? |
-| Price and demand | Does demand fall when price rises? |
+| Relationship             | Possible question                             |
+| ------------------------ | --------------------------------------------- |
+| Income and consumption   | Does consumption rise when income rises?      |
+| Price and demand         | Does demand fall when price rises?            |
 | Education and employment | Are educated persons more likely to get jobs? |
-| Rainfall and crop output | Does crop output depend on rainfall? |
+| Rainfall and crop output | Does crop output depend on rainfall?          |
 
 Statistics helps study such relationships with data.
 
@@ -329,11 +330,11 @@ Policies should be based on facts.
 
 Examples:
 
-| Problem | Data needed | Possible policy use |
-|---|---|---|
-| Poverty | Income and consumption data | Poverty relief programmes |
-| Unemployment | Labour force and job data | Employment schemes |
-| Inflation | Price data | Monetary or fiscal measures |
+| Problem         | Data needed                  | Possible policy use          |
+| --------------- | ---------------------------- | ---------------------------- |
+| Poverty         | Income and consumption data  | Poverty relief programmes    |
+| Unemployment    | Labour force and job data    | Employment schemes           |
+| Inflation       | Price data                   | Monetary or fiscal measures  |
 | Low farm output | Production and rainfall data | Irrigation and input support |
 
 Statistics helps identify the size, seriousness, and pattern of a problem.
@@ -358,14 +359,14 @@ Forecasts are not always exact, but they help planning.
 
 Statistics is useful in studying major economic problems such as:
 
-| Economic problem | How statistics helps |
-|---|---|
-| Poverty | Measures income, consumption, and living conditions |
-| Unemployment | Measures labour force and joblessness |
-| Rising prices | Measures inflation and price changes |
-| Population growth | Measures birth rate, death rate, and growth rate |
-| Inequality | Compares income and wealth distribution |
-| Low production | Measures output and productivity |
+| Economic problem  | How statistics helps                                |
+| ----------------- | --------------------------------------------------- |
+| Poverty           | Measures income, consumption, and living conditions |
+| Unemployment      | Measures labour force and joblessness               |
+| Rising prices     | Measures inflation and price changes                |
+| Population growth | Measures birth rate, death rate, and growth rate    |
+| Inequality        | Compares income and wealth distribution             |
+| Low production    | Measures output and productivity                    |
 
 Economics asks why these problems exist and what should be done. Statistics helps provide the evidence.
 
@@ -436,32 +437,32 @@ Statistics supports decision-making, but human judgement is still needed to inte
 
 ## 13. Core Definitions
 
-| Term | Meaning |
-|---|---|
-| Economics | Study of how people and society choose to use scarce resources with alternative uses |
-| Scarcity | Situation where resources are limited compared with wants |
-| Choice | Selection among alternatives |
-| Consumption | Use of goods and services to satisfy wants |
-| Production | Creation of goods and services |
-| Distribution | Sharing of income among factors and people |
-| Data | Facts collected for analysis |
-| Quantitative data | Data expressed in numbers |
-| Qualitative data | Data showing qualities or attributes |
-| Statistics | Systematic study of numerical facts and methods of handling data |
-| Policy | Measure adopted to solve or reduce an economic problem |
+| Term              | Meaning                                                                              |
+| ----------------- | ------------------------------------------------------------------------------------ |
+| Economics         | Study of how people and society choose to use scarce resources with alternative uses |
+| Scarcity          | Situation where resources are limited compared with wants                            |
+| Choice            | Selection among alternatives                                                         |
+| Consumption       | Use of goods and services to satisfy wants                                           |
+| Production        | Creation of goods and services                                                       |
+| Distribution      | Sharing of income among factors and people                                           |
+| Data              | Facts collected for analysis                                                         |
+| Quantitative data | Data expressed in numbers                                                            |
+| Qualitative data  | Data showing qualities or attributes                                                 |
+| Statistics        | Systematic study of numerical facts and methods of handling data                     |
+| Policy            | Measure adopted to solve or reduce an economic problem                               |
 
 ---
 
 ## 14. Common Mistakes
 
-| Mistake | Correct understanding |
-|---|---|
-| Saying Economics is only about money | Economics is about choices under scarcity. |
-| Ignoring alternative uses of resources | Scarce resources usually have many possible uses. |
-| Treating all data as quantitative | Some data is qualitative, though it may be classified or ranked. |
+| Mistake                                              | Correct understanding                                                 |
+| ---------------------------------------------------- | --------------------------------------------------------------------- |
+| Saying Economics is only about money                 | Economics is about choices under scarcity.                            |
+| Ignoring alternative uses of resources               | Scarce resources usually have many possible uses.                     |
+| Treating all data as quantitative                    | Some data is qualitative, though it may be classified or ranked.      |
 | Saying Statistics solves economic problems by itself | Statistics helps analyse problems; policies and decisions solve them. |
-| Blindly trusting averages | Averages can hide inequalities and details. |
-| Writing facts without interpretation | Economic answers must explain what the facts show. |
+| Blindly trusting averages                            | Averages can hide inequalities and details.                           |
+| Writing facts without interpretation                 | Economic answers must explain what the facts show.                    |
 
 ---
 

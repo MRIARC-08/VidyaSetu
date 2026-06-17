@@ -1,16 +1,17 @@
 # Chapter 4: Planning
+
 ### NCERT Class 12 - Business Studies Part 1
 
 ## Chapter at a Glance
 
-| Item | Details |
-|---|---|
-| Main idea | Planning means deciding in advance what is to be done and how it is to be done. |
-| Position in management | Planning is the first function of management and provides the base for all other functions. |
-| Main purpose | Reduce uncertainty, set direction, avoid waste, and establish standards for control. |
-| Features | Goal-oriented, primary, pervasive, continuous, futuristic, decision-based, and mental exercise. |
-| Limits | Planning may be rigid, costly, time-consuming, and affected by uncertainty. |
-| Most important skill | Distinguish types of plans: objectives, strategy, policy, procedure, method, rule, programme, and budget. |
+| Item                   | Details                                                                                                   |
+| ---------------------- | --------------------------------------------------------------------------------------------------------- |
+| Main idea              | Planning means deciding in advance what is to be done and how it is to be done.                           |
+| Position in management | Planning is the first function of management and provides the base for all other functions.               |
+| Main purpose           | Reduce uncertainty, set direction, avoid waste, and establish standards for control.                      |
+| Features               | Goal-oriented, primary, pervasive, continuous, futuristic, decision-based, and mental exercise.           |
+| Limits                 | Planning may be rigid, costly, time-consuming, and affected by uncertainty.                               |
+| Most important skill   | Distinguish types of plans: objectives, strategy, policy, procedure, method, rule, programme, and budget. |
 
 ## Learning Outcomes
 
@@ -28,29 +29,29 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Planning | Deciding in advance what to do, how to do it, when to do it, and who will do it. |
-| Objective | Specific result to be achieved. |
-| Strategy | Comprehensive plan for achieving major objectives in a competitive environment. |
-| Policy | General guideline for decision-making. |
-| Procedure | Sequence of steps for completing a task. |
-| Method | Prescribed way of performing a specific step. |
-| Rule | Specific statement telling what must or must not be done. |
+| Term      | Meaning                                                                                |
+| --------- | -------------------------------------------------------------------------------------- |
+| Planning  | Deciding in advance what to do, how to do it, when to do it, and who will do it.       |
+| Objective | Specific result to be achieved.                                                        |
+| Strategy  | Comprehensive plan for achieving major objectives in a competitive environment.        |
+| Policy    | General guideline for decision-making.                                                 |
+| Procedure | Sequence of steps for completing a task.                                               |
+| Method    | Prescribed way of performing a specific step.                                          |
+| Rule      | Specific statement telling what must or must not be done.                              |
 | Programme | Detailed plan combining objectives, policies, procedures, rules, tasks, and resources. |
-| Budget | Quantified plan, usually expressed in numbers or money. |
-| Premise | Assumption about future conditions. |
+| Budget    | Quantified plan, usually expressed in numbers or money.                                |
+| Premise   | Assumption about future conditions.                                                    |
 
 ## Quick Learning Map
 
-| Area | Core Question |
-|---|---|
-| Meaning | What is decided before action begins? |
-| Features | Why is planning primary and future-oriented? |
-| Importance | How does planning help performance? |
-| Limits | Why can planning fail or become difficult? |
-| Process | What steps convert goals into plans? |
-| Types | Which plan is suitable for which situation? |
+| Area       | Core Question                                |
+| ---------- | -------------------------------------------- |
+| Meaning    | What is decided before action begins?        |
+| Features   | Why is planning primary and future-oriented? |
+| Importance | How does planning help performance?          |
+| Limits     | Why can planning fail or become difficult?   |
+| Process    | What steps convert goals into plans?         |
+| Types      | Which plan is suitable for which situation?  |
 
 # Unit 4A: Meaning of Planning
 
@@ -287,16 +288,16 @@ Budgets help planning and controlling because they provide numerical standards.
 
 # Unit 4O: Plan Type Comparison
 
-| Type | Nature | Example |
-|---|---|---|
-| Objective | End result | Increase sales by 10 per cent. |
-| Strategy | Broad competitive plan | Enter online market. |
-| Policy | Decision guideline | Credit allowed only to approved customers. |
-| Procedure | Step sequence | Steps for handling customer complaint. |
-| Method | Way to perform step | Use barcode scanning for inventory. |
-| Rule | Must or must not do | Safety helmet compulsory. |
-| Programme | Detailed action package | Training programme. |
-| Budget | Numerical plan | Monthly sales budget. |
+| Type      | Nature                  | Example                                    |
+| --------- | ----------------------- | ------------------------------------------ |
+| Objective | End result              | Increase sales by 10 per cent.             |
+| Strategy  | Broad competitive plan  | Enter online market.                       |
+| Policy    | Decision guideline      | Credit allowed only to approved customers. |
+| Procedure | Step sequence           | Steps for handling customer complaint.     |
+| Method    | Way to perform step     | Use barcode scanning for inventory.        |
+| Rule      | Must or must not do     | Safety helmet compulsory.                  |
+| Programme | Detailed action package | Training programme.                        |
+| Budget    | Numerical plan          | Monthly sales budget.                      |
 
 # Unit 4P: Planning and Controlling
 
@@ -308,14 +309,14 @@ Without planning, there is no standard for control. Without control, planning ca
 
 # Unit 4Q: Common Mistakes and Corrections
 
-| Mistake | Correct Understanding |
-|---|---|
-| Planning removes all risk | It reduces risk but cannot eliminate uncertainty. |
-| Planning is only for top management | It is done at every level. |
-| Rule and policy are same | Policy allows discretion; rule does not. |
-| Procedure and method are same | Procedure gives sequence; method gives way of doing a step. |
-| Budget is only financial | It can be financial or quantitative, such as units, hours, or output. |
-| Planning guarantees success | Implementation and changing conditions also matter. |
+| Mistake                             | Correct Understanding                                                 |
+| ----------------------------------- | --------------------------------------------------------------------- |
+| Planning removes all risk           | It reduces risk but cannot eliminate uncertainty.                     |
+| Planning is only for top management | It is done at every level.                                            |
+| Rule and policy are same            | Policy allows discretion; rule does not.                              |
+| Procedure and method are same       | Procedure gives sequence; method gives way of doing a step.           |
+| Budget is only financial            | It can be financial or quantitative, such as units, hours, or output. |
+| Planning guarantees success         | Implementation and changing conditions also matter.                   |
 
 ## Practice Set
 
@@ -332,16 +333,16 @@ Without planning, there is no standard for control. Without control, planning ca
 
 ## Plan Identification Toolkit
 
-| Case Clue | Type of Plan | Why |
-|---|---|---|
-| "Increase sales by 20 per cent in one year" | Objective | It states measurable result. |
-| "Enter rural markets through low-price packs" | Strategy | It is a broad competitive action path. |
-| "Credit will be given only to regular customers" | Policy | It guides decisions with discretion. |
-| "Complaint must move from help desk to service head to refund team" | Procedure | It gives sequence of steps. |
-| "Use video interview for first screening" | Method | It tells how a specific step is done. |
-| "No employee may enter production area without safety shoes" | Rule | It is specific and allows no discretion. |
-| "Launch training camp with dates, trainers, budget, and topics" | Programme | It combines tasks, time, resources, and rules. |
-| "Advertising spend for June is Rs. 5,00,000" | Budget | It is a quantified plan. |
+| Case Clue                                                           | Type of Plan | Why                                            |
+| ------------------------------------------------------------------- | ------------ | ---------------------------------------------- |
+| "Increase sales by 20 per cent in one year"                         | Objective    | It states measurable result.                   |
+| "Enter rural markets through low-price packs"                       | Strategy     | It is a broad competitive action path.         |
+| "Credit will be given only to regular customers"                    | Policy       | It guides decisions with discretion.           |
+| "Complaint must move from help desk to service head to refund team" | Procedure    | It gives sequence of steps.                    |
+| "Use video interview for first screening"                           | Method       | It tells how a specific step is done.          |
+| "No employee may enter production area without safety shoes"        | Rule         | It is specific and allows no discretion.       |
+| "Launch training camp with dates, trainers, budget, and topics"     | Programme    | It combines tasks, time, resources, and rules. |
+| "Advertising spend for June is Rs. 5,00,000"                        | Budget       | It is a quantified plan.                       |
 
 ## Planning Quality Checklist
 
@@ -360,22 +361,22 @@ A high-quality plan should be:
 
 Premises are assumptions about the future. They are not guesses made casually; they are reasoned expectations.
 
-| Premise Type | Example |
-|---|---|
-| Internal premise | Availability of skilled workers, machine capacity, cash position. |
-| External premise | Demand, inflation, competition, law, technology, supplier reliability. |
-| Controllable premise | Company policy, internal budget, work schedule. |
-| Non-controllable premise | Government policy, natural events, competitor action. |
+| Premise Type             | Example                                                                |
+| ------------------------ | ---------------------------------------------------------------------- |
+| Internal premise         | Availability of skilled workers, machine capacity, cash position.      |
+| External premise         | Demand, inflation, competition, law, technology, supplier reliability. |
+| Controllable premise     | Company policy, internal budget, work schedule.                        |
+| Non-controllable premise | Government policy, natural events, competitor action.                  |
 
 ## Why Planning Can Fail Despite Good Intentions
 
-| Failure Reason | Learner Explanation |
-|---|---|
-| Weak premises | Plan was based on wrong assumptions. |
-| Poor communication | People did not understand what to do. |
-| No flexibility | Plan could not adjust to new conditions. |
-| Lack of resources | Plan was unrealistic for available funds or people. |
-| No follow-up | Deviations were not identified in time. |
+| Failure Reason     | Learner Explanation                                 |
+| ------------------ | --------------------------------------------------- |
+| Weak premises      | Plan was based on wrong assumptions.                |
+| Poor communication | People did not understand what to do.               |
+| No flexibility     | Plan could not adjust to new conditions.            |
+| Lack of resources  | Plan was unrealistic for available funds or people. |
+| No follow-up       | Deviations were not identified in time.             |
 
 ## Case Answer Framework
 

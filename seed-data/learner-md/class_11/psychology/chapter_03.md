@@ -1,4 +1,5 @@
 # Chapter 3: The Bases of Human Behaviour
+
 ### NCERT Class 11 Psychology
 
 ---
@@ -33,10 +34,10 @@ After studying this chapter, you should be able to:
 
 Human behaviour has two major bases:
 
-| Base | Meaning | Example |
-|---|---|---|
-| Biological base | Body, brain, genes, nervous system, hormones | Reflexes, emotions, sensory responses |
-| Cultural base | Learning through society, family, language, customs | Greeting habits, values, gender roles |
+| Base            | Meaning                                             | Example                               |
+| --------------- | --------------------------------------------------- | ------------------------------------- |
+| Biological base | Body, brain, genes, nervous system, hormones        | Reflexes, emotions, sensory responses |
+| Cultural base   | Learning through society, family, language, customs | Greeting habits, values, gender roles |
 
 Neither base works alone. Biology gives capacities; culture shapes how those capacities are expressed.
 
@@ -65,12 +66,12 @@ Evolution explains why humans have certain basic capacities, but culture explain
 
 Heredity is the transmission of characteristics from parents to offspring through genes.
 
-| Term | Meaning |
-|---|---|
-| Gene | Unit of heredity |
-| Genotype | Genetic makeup of a person |
+| Term      | Meaning                                                      |
+| --------- | ------------------------------------------------------------ |
+| Gene      | Unit of heredity                                             |
+| Genotype  | Genetic makeup of a person                                   |
 | Phenotype | Observable characteristics produced by genes and environment |
-| Mutation | Change in a gene |
+| Mutation  | Change in a gene                                             |
 
 Example:
 
@@ -86,14 +87,14 @@ They receive, process, and transmit information in electrochemical form.
 
 ### Parts of a Neuron
 
-| Part | Function |
-|---|---|
-| Dendrites | Receive incoming signals |
-| Soma | Cell body; contains nucleus |
-| Axon | Carries impulse away from soma |
-| Myelin sheath | Speeds up neural transmission |
+| Part             | Function                                |
+| ---------------- | --------------------------------------- |
+| Dendrites        | Receive incoming signals                |
+| Soma             | Cell body; contains nucleus             |
+| Axon             | Carries impulse away from soma          |
+| Myelin sheath    | Speeds up neural transmission           |
 | Terminal buttons | Pass signal to another neuron or muscle |
-| Synapse | Gap between two neurons |
+| Synapse          | Gap between two neurons                 |
 | Neurotransmitter | Chemical messenger crossing the synapse |
 
 ---
@@ -141,10 +142,10 @@ Nervous System
 
 The Central Nervous System, or CNS, consists of the brain and spinal cord.
 
-| Part | Function |
-|---|---|
-| Brain | Controls cognition, emotion, movement, memory, language, and regulation |
-| Spinal cord | Carries messages between brain and body; controls many reflexes |
+| Part        | Function                                                                |
+| ----------- | ----------------------------------------------------------------------- |
+| Brain       | Controls cognition, emotion, movement, memory, language, and regulation |
+| Spinal cord | Carries messages between brain and body; controls many reflexes         |
 
 ---
 
@@ -167,9 +168,9 @@ Examples:
 
 Controls internal organs and involuntary functions.
 
-| Division | Function |
-|---|---|
-| Sympathetic system | Prepares body for action and emergency |
+| Division               | Function                                   |
+| ---------------------- | ------------------------------------------ |
+| Sympathetic system     | Prepares body for action and emergency     |
 | Parasympathetic system | Calms body and restores normal functioning |
 
 Example:
@@ -182,11 +183,11 @@ During fear, the sympathetic system increases heartbeat. After safety returns, t
 
 ### Hindbrain
 
-| Part | Function |
-|---|---|
-| Medulla | Controls vital functions like breathing and heartbeat |
-| Pons | Helps relay signals and regulate sleep/arousal |
-| Cerebellum | Coordinates balance, posture, and movement |
+| Part       | Function                                              |
+| ---------- | ----------------------------------------------------- |
+| Medulla    | Controls vital functions like breathing and heartbeat |
+| Pons       | Helps relay signals and regulate sleep/arousal        |
+| Cerebellum | Coordinates balance, posture, and movement            |
 
 ### Midbrain
 
@@ -194,23 +195,23 @@ The midbrain helps in sensory processing, attention, and movement coordination.
 
 ### Forebrain
 
-| Part | Function |
-|---|---|
-| Hypothalamus | Regulates hunger, thirst, temperature, sleep, and endocrine activity |
-| Thalamus | Relay station for sensory information |
-| Limbic system | Emotion, motivation, and memory |
-| Cerebrum/cerebral cortex | Higher mental functions: thinking, language, memory, reasoning |
+| Part                     | Function                                                             |
+| ------------------------ | -------------------------------------------------------------------- |
+| Hypothalamus             | Regulates hunger, thirst, temperature, sleep, and endocrine activity |
+| Thalamus                 | Relay station for sensory information                                |
+| Limbic system            | Emotion, motivation, and memory                                      |
+| Cerebrum/cerebral cortex | Higher mental functions: thinking, language, memory, reasoning       |
 
 ---
 
 ## 10. Cerebral Cortex and Lobes
 
-| Lobe | Main functions |
-|---|---|
-| Frontal lobe | Planning, decision-making, voluntary movement |
-| Parietal lobe | Touch, body position, spatial processing |
-| Temporal lobe | Hearing, language, memory |
-| Occipital lobe | Vision |
+| Lobe           | Main functions                                |
+| -------------- | --------------------------------------------- |
+| Frontal lobe   | Planning, decision-making, voluntary movement |
+| Parietal lobe  | Touch, body position, spatial processing      |
+| Temporal lobe  | Hearing, language, memory                     |
+| Occipital lobe | Vision                                        |
 
 The cerebral cortex supports complex human behaviour such as reasoning, problem solving, imagination, and communication.
 
@@ -241,14 +242,14 @@ The endocrine system consists of glands that release hormones into the bloodstre
 
 Hormones affect growth, emotion, metabolism, stress, and behaviour.
 
-| Gland | Important role |
-|---|---|
-| Pituitary | Master gland; regulates other glands |
-| Thyroid | Metabolism and energy regulation |
-| Adrenal glands | Stress response; adrenaline |
-| Pancreas | Blood sugar regulation |
-| Gonads | Sex hormones and reproductive development |
-| Pineal | Sleep-related rhythms |
+| Gland          | Important role                            |
+| -------------- | ----------------------------------------- |
+| Pituitary      | Master gland; regulates other glands      |
+| Thyroid        | Metabolism and energy regulation          |
+| Adrenal glands | Stress response; adrenaline               |
+| Pancreas       | Blood sugar regulation                    |
+| Gonads         | Sex hormones and reproductive development |
+| Pineal         | Sleep-related rhythms                     |
 
 The nervous system acts quickly through neural signals. The endocrine system acts more slowly through hormones but may have longer-lasting effects.
 
@@ -307,13 +308,13 @@ Migrants may learn a new language and lifestyle while retaining parts of their o
 
 ## 15. Biology and Culture Together
 
-| Behaviour | Biological part | Cultural part |
-|---|---|---|
-| Eating | Hunger regulation | Food choices and eating rules |
-| Emotion | Brain and hormones | How emotions are expressed |
-| Language | Brain capacity | Specific language learned |
-| Gender behaviour | Biological sex | Gender roles and expectations |
-| Aggression | Arousal and neural systems | Social norms about conflict |
+| Behaviour        | Biological part            | Cultural part                 |
+| ---------------- | -------------------------- | ----------------------------- |
+| Eating           | Hunger regulation          | Food choices and eating rules |
+| Emotion          | Brain and hormones         | How emotions are expressed    |
+| Language         | Brain capacity             | Specific language learned     |
+| Gender behaviour | Biological sex             | Gender roles and expectations |
+| Aggression       | Arousal and neural systems | Social norms about conflict   |
 
 The best psychological explanation usually considers both nature and nurture.
 
@@ -321,14 +322,14 @@ The best psychological explanation usually considers both nature and nurture.
 
 ## 16. Common Mistakes
 
-| Mistake | Correct understanding |
-|---|---|
-| Saying biology alone explains behaviour | Culture also shapes behaviour. |
-| Saying culture alone explains behaviour | Biological systems provide basic capacities. |
-| Confusing neuron and nerve | Neuron is a nerve cell; nerves are bundles of fibres. |
-| Confusing CNS and PNS | CNS is brain and spinal cord; PNS connects body to CNS. |
-| Treating hormones as instant like nerve impulses | Hormones are usually slower and longer-lasting. |
-| Confusing enculturation and acculturation | Enculturation is learning one's culture; acculturation involves cultural contact and change. |
+| Mistake                                          | Correct understanding                                                                        |
+| ------------------------------------------------ | -------------------------------------------------------------------------------------------- |
+| Saying biology alone explains behaviour          | Culture also shapes behaviour.                                                               |
+| Saying culture alone explains behaviour          | Biological systems provide basic capacities.                                                 |
+| Confusing neuron and nerve                       | Neuron is a nerve cell; nerves are bundles of fibres.                                        |
+| Confusing CNS and PNS                            | CNS is brain and spinal cord; PNS connects body to CNS.                                      |
+| Treating hormones as instant like nerve impulses | Hormones are usually slower and longer-lasting.                                              |
+| Confusing enculturation and acculturation        | Enculturation is learning one's culture; acculturation involves cultural contact and change. |
 
 ---
 

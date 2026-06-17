@@ -38,40 +38,40 @@ After studying this chapter, you should be able to:
 
 ## Chapter Snapshot
 
-| Topic | Main Idea |
-|---|---|
-| Set | A well-defined collection of objects |
-| Element | An object belonging to a set |
-| Roster form | Listing all elements inside braces |
-| Set-builder form | Describing elements by a common property |
-| Empty set | A set with no element |
-| Finite set | Empty or having a definite number of elements |
-| Infinite set | Not finite |
-| Equal sets | Sets having exactly the same elements |
-| Subset | Every element of one set is also in another set |
-| Universal set | The larger set under consideration |
-| Union | Elements in A or B or both |
-| Intersection | Elements common to A and B |
-| Difference | Elements in A but not in B |
-| Complement | Elements in U but not in A |
+| Topic            | Main Idea                                               |
+| ---------------- | ------------------------------------------------------- |
+| Set              | A well-defined collection of objects                    |
+| Element          | An object belonging to a set                            |
+| Roster form      | Listing all elements inside braces                      |
+| Set-builder form | Describing elements by a common property                |
+| Empty set        | A set with no element                                   |
+| Finite set       | Empty or having a definite number of elements           |
+| Infinite set     | Not finite                                              |
+| Equal sets       | Sets having exactly the same elements                   |
+| Subset           | Every element of one set is also in another set         |
+| Universal set    | The larger set under consideration                      |
+| Union            | Elements in A or B or both                              |
+| Intersection     | Elements common to A and B                              |
+| Difference       | Elements in A but not in B                              |
+| Complement       | Elements in U but not in A                              |
 | De Morgan's laws | Rules connecting complement with union and intersection |
 
 ## Essential Notation
 
-| Symbol | Meaning | Example |
-|---|---|---|
-| `{ }` | Set braces | `{1, 2, 3}` |
-| `a in A` | a is an element of A | `2 in {1, 2, 3}` |
-| `a notin A` | a is not an element of A | `5 notin {1, 2, 3}` |
-| `A subset B` | A is a subset of B | `{1, 2} subset {1, 2, 3}` |
-| `A not subset B` | A is not a subset of B | `{1, 4} not subset {1, 2, 3}` |
-| `A = B` | A and B have exactly the same elements | `{1, 2} = {2, 1}` |
-| `A != B` | A and B are not equal | `{1, 2} != {1, 3}` |
-| `A union B` | Union of A and B | Elements in A or B or both |
-| `A intersection B` | Intersection of A and B | Elements common to A and B |
-| `A - B` | Difference of A and B | Elements in A but not in B |
-| `A'` | Complement of A | Elements in U but not in A |
-| `n(A)` | Number of elements in A | If A = `{2, 4, 6}`, then `n(A) = 3` |
+| Symbol             | Meaning                                | Example                             |
+| ------------------ | -------------------------------------- | ----------------------------------- |
+| `{ }`              | Set braces                             | `{1, 2, 3}`                         |
+| `a in A`           | a is an element of A                   | `2 in {1, 2, 3}`                    |
+| `a notin A`        | a is not an element of A               | `5 notin {1, 2, 3}`                 |
+| `A subset B`       | A is a subset of B                     | `{1, 2} subset {1, 2, 3}`           |
+| `A not subset B`   | A is not a subset of B                 | `{1, 4} not subset {1, 2, 3}`       |
+| `A = B`            | A and B have exactly the same elements | `{1, 2} = {2, 1}`                   |
+| `A != B`           | A and B are not equal                  | `{1, 2} != {1, 3}`                  |
+| `A union B`        | Union of A and B                       | Elements in A or B or both          |
+| `A intersection B` | Intersection of A and B                | Elements common to A and B          |
+| `A - B`            | Difference of A and B                  | Elements in A but not in B          |
+| `A'`               | Complement of A                        | Elements in U but not in A          |
+| `n(A)`             | Number of elements in A                | If A = `{2, 4, 6}`, then `n(A) = 3` |
 
 In formulas, we write the same ideas as:
 
@@ -184,15 +184,15 @@ The main idea is clarity.
 
 ## 4. Standard Number Sets
 
-| Symbol | Name | Meaning |
-|---|---|---|
-| `N` | Natural numbers | `{1, 2, 3, 4, ...}` |
-| `Z` | Integers | `{..., -3, -2, -1, 0, 1, 2, 3, ...}` |
-| `Q` | Rational numbers | Numbers expressible as `p/q`, where p and q are integers and q is not zero |
-| `R` | Real numbers | All rational and irrational numbers |
-| `Z+` | Positive integers | `{1, 2, 3, ...}` |
-| `Q+` | Positive rational numbers | Rational numbers greater than zero |
-| `R+` | Positive real numbers | Real numbers greater than zero |
+| Symbol | Name                      | Meaning                                                                    |
+| ------ | ------------------------- | -------------------------------------------------------------------------- |
+| `N`    | Natural numbers           | `{1, 2, 3, 4, ...}`                                                        |
+| `Z`    | Integers                  | `{..., -3, -2, -1, 0, 1, 2, 3, ...}`                                       |
+| `Q`    | Rational numbers          | Numbers expressible as `p/q`, where p and q are integers and q is not zero |
+| `R`    | Real numbers              | All rational and irrational numbers                                        |
+| `Z+`   | Positive integers         | `{1, 2, 3, ...}`                                                           |
+| `Q+`   | Positive rational numbers | Rational numbers greater than zero                                         |
+| `R+`   | Positive real numbers     | Real numbers greater than zero                                             |
 
 The common inclusion chain is:
 
@@ -265,11 +265,11 @@ $$
 
 ## 7. Roster Form Versus Set-Builder Form
 
-| Roster Form | Set-Builder Form |
-|---|---|
-| Lists elements directly | Describes a rule |
-| Best for small finite sets | Best for large or infinite sets |
-| Example: `{2, 4, 6, 8}` | Example: `{x : x is an even natural number less than 10}` |
+| Roster Form                | Set-Builder Form                                          |
+| -------------------------- | --------------------------------------------------------- |
+| Lists elements directly    | Describes a rule                                          |
+| Best for small finite sets | Best for large or infinite sets                           |
+| Example: `{2, 4, 6, 8}`    | Example: `{x : x is an even natural number less than 10}` |
 
 Use roster form when the elements can be listed conveniently.
 
@@ -1274,17 +1274,17 @@ $$
 
 ### 1. Which Collections Are Sets?
 
-| Part | Answer | Reason |
-|---|---|---|
-| i | Set | Months beginning with J can be decided clearly |
-| ii | Not a set | "Ten most talented writers" is subjective |
-| iii | Not a set | "Best cricketers" is subjective |
-| iv | Set | Boys in your class can be clearly identified |
-| v | Set | Natural numbers less than 100 are clear |
-| vi | Set | Novels written by Munshi Prem Chand can be listed |
-| vii | Set | Even integers are well-defined |
-| viii | Set | Questions in the chapter are definite |
-| ix | Not a set | "Most dangerous animals" is subjective |
+| Part | Answer    | Reason                                            |
+| ---- | --------- | ------------------------------------------------- |
+| i    | Set       | Months beginning with J can be decided clearly    |
+| ii   | Not a set | "Ten most talented writers" is subjective         |
+| iii  | Not a set | "Best cricketers" is subjective                   |
+| iv   | Set       | Boys in your class can be clearly identified      |
+| v    | Set       | Natural numbers less than 100 are clear           |
+| vi   | Set       | Novels written by Munshi Prem Chand can be listed |
+| vii  | Set       | Even integers are well-defined                    |
+| viii | Set       | Questions in the chapter are definite             |
+| ix   | Not a set | "Most dangerous animals" is subjective            |
 
 ### 2. Membership Symbols
 
@@ -1296,102 +1296,102 @@ $$
 
 Then:
 
-| Part | Answer |
-|---|---|
-| i | `5 in A` |
-| ii | `8 notin A` |
-| iii | `0 notin A` |
-| iv | `4 in A` |
-| v | `2 in A` |
-| vi | `10 notin A` |
+| Part | Answer       |
+| ---- | ------------ |
+| i    | `5 in A`     |
+| ii   | `8 notin A`  |
+| iii  | `0 notin A`  |
+| iv   | `4 in A`     |
+| v    | `2 in A`     |
+| vi   | `10 notin A` |
 
 ### 3. Roster Form
 
-| Part | Answer |
-|---|---|
-| i | `{-3, -2, -1, 0, 1, 2, 3, 4, 5, 6}` |
-| ii | `{1, 2, 3, 4, 5}` |
-| iii | `{17, 26, 35, 44, 53, 62, 71, 80}` |
-| iv | `{2, 3, 5}` |
-| v | `{T, R, I, G, O, N, M, E, Y}` |
-| vi | `{B, E, T, R}` |
+| Part | Answer                              |
+| ---- | ----------------------------------- |
+| i    | `{-3, -2, -1, 0, 1, 2, 3, 4, 5, 6}` |
+| ii   | `{1, 2, 3, 4, 5}`                   |
+| iii  | `{17, 26, 35, 44, 53, 62, 71, 80}`  |
+| iv   | `{2, 3, 5}`                         |
+| v    | `{T, R, I, G, O, N, M, E, Y}`       |
+| vi   | `{B, E, T, R}`                      |
 
 ### 4. Set-Builder Form
 
-| Part | One Good Answer |
-|---|---|
-| i | `{x : x = 3n, n in N and 1 <= n <= 4}` |
-| ii | `{x : x = 2^n, n in N and 1 <= n <= 5}` |
-| iii | `{x : x = 5^n, n in N and 1 <= n <= 4}` |
-| iv | `{x : x is an even natural number}` |
-| v | `{x : x = n^2, n in N and 1 <= n <= 10}` |
+| Part | One Good Answer                          |
+| ---- | ---------------------------------------- |
+| i    | `{x : x = 3n, n in N and 1 <= n <= 4}`   |
+| ii   | `{x : x = 2^n, n in N and 1 <= n <= 5}`  |
+| iii  | `{x : x = 5^n, n in N and 1 <= n <= 4}`  |
+| iv   | `{x : x is an even natural number}`      |
+| v    | `{x : x = n^2, n in N and 1 <= n <= 10}` |
 
 ### 5. List Elements
 
-| Part | Answer |
-|---|---|
-| i | `{1, 3, 5, 7, ...}` |
-| ii | `{0, 1, 2, 3, 4}` |
-| iii | `{-2, -1, 0, 1, 2}` |
-| iv | `{L, O, Y, A}` |
-| v | `{February, April, June, September, November}` |
-| vi | `{b, c, d, f, g, h, j}` |
+| Part | Answer                                         |
+| ---- | ---------------------------------------------- |
+| i    | `{1, 3, 5, 7, ...}`                            |
+| ii   | `{0, 1, 2, 3, 4}`                              |
+| iii  | `{-2, -1, 0, 1, 2}`                            |
+| iv   | `{L, O, Y, A}`                                 |
+| v    | `{February, April, June, September, November}` |
+| vi   | `{b, c, d, f, g, h, j}`                        |
 
 ### 6. Matching
 
-| Roster Set | Matching Set-Builder Form |
-|---|---|
-| `{1, 2, 3, 6}` | natural number divisor of 6 |
-| `{2, 3}` | prime number divisor of 6 |
-| `{M, A, T, H, E, I, C, S}` | letter of the word MATHEMATICS |
-| `{1, 3, 5, 7, 9}` | odd natural number less than 10 |
+| Roster Set                 | Matching Set-Builder Form       |
+| -------------------------- | ------------------------------- |
+| `{1, 2, 3, 6}`             | natural number divisor of 6     |
+| `{2, 3}`                   | prime number divisor of 6       |
+| `{M, A, T, H, E, I, C, S}` | letter of the word MATHEMATICS  |
+| `{1, 3, 5, 7, 9}`          | odd natural number less than 10 |
 
 ## 42. Exercise 1.2 Answer Key
 
 ### 1. Null Set Cases
 
-| Part | Answer | Reason |
-|---|---|---|
-| i | Null set | No odd natural number is divisible by 2 |
-| ii | Not null | 2 is an even prime |
-| iii | Null set | No natural number is both less than 5 and greater than 7 |
-| iv | Null set | Parallel lines have no common point |
+| Part | Answer   | Reason                                                   |
+| ---- | -------- | -------------------------------------------------------- |
+| i    | Null set | No odd natural number is divisible by 2                  |
+| ii   | Not null | 2 is an even prime                                       |
+| iii  | Null set | No natural number is both less than 5 and greater than 7 |
+| iv   | Null set | Parallel lines have no common point                      |
 
 ### 2. Finite Or Infinite
 
-| Part | Answer |
-|---|---|
-| i | Finite |
-| ii | Infinite |
-| iii | Finite |
-| iv | Infinite |
-| v | Finite |
+| Part | Answer   |
+| ---- | -------- |
+| i    | Finite   |
+| ii   | Infinite |
+| iii  | Finite   |
+| iv   | Infinite |
+| v    | Finite   |
 
 ### 3. Finite Or Infinite
 
-| Part | Answer |
-|---|---|
-| i | Infinite |
-| ii | Finite |
-| iii | Infinite |
-| iv | Finite, although very large and changing in reality |
-| v | Infinite |
+| Part | Answer                                              |
+| ---- | --------------------------------------------------- |
+| i    | Infinite                                            |
+| ii   | Finite                                              |
+| iii  | Infinite                                            |
+| iv   | Finite, although very large and changing in reality |
+| v    | Infinite                                            |
 
 ### 4. Equal Or Not
 
-| Part | Answer | Reason |
-|---|---|---|
-| i | Equal | Same elements, different order |
-| ii | Not equal | 12 belongs to A but not B; 18 belongs to B but not A |
-| iii | Equal | Both are `{2, 4, 6, 8, 10}` |
-| iv | Not equal | B contains 15 and 25, not multiples of 10 |
+| Part | Answer    | Reason                                               |
+| ---- | --------- | ---------------------------------------------------- |
+| i    | Equal     | Same elements, different order                       |
+| ii   | Not equal | 12 belongs to A but not B; 18 belongs to B but not A |
+| iii  | Equal     | Both are `{2, 4, 6, 8, 10}`                          |
+| iv   | Not equal | B contains 15 and 25, not multiples of 10            |
 
 ### 5. Equal Pair Check
 
-| Part | Answer |
-|---|---|
-| i | Not equal; the equation gives `{-2, -3}`, not `{2, 3}` |
-| ii | Equal; both reduce to `{F, O, L, W}` |
+| Part | Answer                                                 |
+| ---- | ------------------------------------------------------ |
+| i    | Not equal; the equation gives `{-2, -3}`, not `{2, 3}` |
+| ii   | Equal; both reduce to `{F, O, L, W}`                   |
 
 ### 6. Select Equal Sets
 
@@ -1417,26 +1417,26 @@ No other listed sets are equal.
 
 ### 1. Fill Subset Or Not Subset
 
-| Part | Answer |
-|---|---|
-| i | subset |
-| ii | not subset |
-| iii | subset |
-| iv | not subset |
-| v | not subset |
-| vi | subset |
-| vii | subset |
+| Part | Answer     |
+| ---- | ---------- |
+| i    | subset     |
+| ii   | not subset |
+| iii  | subset     |
+| iv   | not subset |
+| v    | not subset |
+| vi   | subset     |
+| vii  | subset     |
 
 ### 2. True Or False
 
-| Part | Answer | Reason |
-|---|---|---|
-| i | False | `{a, b}` is a subset of `{b, c, a}` |
-| ii | True | a and e are vowels |
-| iii | False | 2 is not in `{1, 3, 5}` |
-| iv | True | a is in `{a, b, c}` |
-| v | False | a is an element, but `{a}` is not an element of `{a, b, c}` |
-| vi | True | `{2, 4}` is a subset of divisors of 36 |
+| Part | Answer | Reason                                                      |
+| ---- | ------ | ----------------------------------------------------------- |
+| i    | False  | `{a, b}` is a subset of `{b, c, a}`                         |
+| ii   | True   | a and e are vowels                                          |
+| iii  | False  | 2 is not in `{1, 3, 5}`                                     |
+| iv   | True   | a is in `{a, b, c}`                                         |
+| v    | False  | a is an element, but `{a}` is not an element of `{a, b, c}` |
+| vi   | True   | `{2, 4}` is a subset of divisors of 36                      |
 
 ### 3. Nested Set Check
 
@@ -1446,52 +1446,52 @@ $$
 A = \{1, 2, \{3, 4\}, 5\}
 $$
 
-| Part | Statement | Correct? | Reason |
-|---|---|---|---|
-| i | `{3, 4} subset A` | Incorrect | 3 and 4 are not individual elements of A |
-| ii | `{3, 4} in A` | Correct | `{3, 4}` is listed as one element |
-| iii | `{{3, 4}} subset A` | Correct | Its only element `{3, 4}` is in A |
-| iv | `1 in A` | Correct | 1 is listed |
-| v | `1 subset A` | Incorrect | 1 is an element, not a set here |
-| vi | `{1, 2, 5} subset A` | Correct | All three elements are in A |
-| vii | `{1, 2, 5} in A` | Incorrect | It is not listed as one element |
-| viii | `{1, 2, 3} subset A` | Incorrect | 3 is not in A |
-| ix | `empty set in A` | Incorrect | empty set is not listed |
-| x | `empty set subset A` | Correct | empty set is subset of every set |
-| xi | `{empty set} subset A` | Incorrect | empty set is not an element of A |
+| Part | Statement              | Correct?  | Reason                                   |
+| ---- | ---------------------- | --------- | ---------------------------------------- |
+| i    | `{3, 4} subset A`      | Incorrect | 3 and 4 are not individual elements of A |
+| ii   | `{3, 4} in A`          | Correct   | `{3, 4}` is listed as one element        |
+| iii  | `{{3, 4}} subset A`    | Correct   | Its only element `{3, 4}` is in A        |
+| iv   | `1 in A`               | Correct   | 1 is listed                              |
+| v    | `1 subset A`           | Incorrect | 1 is an element, not a set here          |
+| vi   | `{1, 2, 5} subset A`   | Correct   | All three elements are in A              |
+| vii  | `{1, 2, 5} in A`       | Incorrect | It is not listed as one element          |
+| viii | `{1, 2, 3} subset A`   | Incorrect | 3 is not in A                            |
+| ix   | `empty set in A`       | Incorrect | empty set is not listed                  |
+| x    | `empty set subset A`   | Correct   | empty set is subset of every set         |
+| xi   | `{empty set} subset A` | Incorrect | empty set is not an element of A         |
 
 ### 4. All Subsets
 
-| Set | Subsets |
-|---|---|
-| `{a}` | `empty set`, `{a}` |
-| `{a, b}` | `empty set`, `{a}`, `{b}`, `{a, b}` |
+| Set         | Subsets                                                                     |
+| ----------- | --------------------------------------------------------------------------- |
+| `{a}`       | `empty set`, `{a}`                                                          |
+| `{a, b}`    | `empty set`, `{a}`, `{b}`, `{a, b}`                                         |
 | `{1, 2, 3}` | `empty set`, `{1}`, `{2}`, `{3}`, `{1, 2}`, `{1, 3}`, `{2, 3}`, `{1, 2, 3}` |
-| `empty set` | `empty set` only |
+| `empty set` | `empty set` only                                                            |
 
 ### 5. Write As Intervals
 
-| Part | Answer |
-|---|---|
-| i | `(-4, 6]` |
-| ii | `(-12, -10)` |
-| iii | `[0, 7)` |
-| iv | `[3, 4]` |
+| Part | Answer       |
+| ---- | ------------ |
+| i    | `(-4, 6]`    |
+| ii   | `(-12, -10)` |
+| iii  | `[0, 7)`     |
+| iv   | `[3, 4]`     |
 
 ### 6. Write In Set-Builder Form
 
-| Part | Answer |
-|---|---|
-| i | `{x : x in R and -3 < x < 0}` |
-| ii | `{x : x in R and 6 <= x <= 12}` |
-| iii | `{x : x in R and 6 < x <= 12}` |
-| iv | `{x : x in R and -23 <= x < 5}` |
+| Part | Answer                          |
+| ---- | ------------------------------- |
+| i    | `{x : x in R and -3 < x < 0}`   |
+| ii   | `{x : x in R and 6 <= x <= 12}` |
+| iii  | `{x : x in R and 6 < x <= 12}`  |
+| iv   | `{x : x in R and -23 <= x < 5}` |
 
 ### 7. Universal Sets
 
-| Given Set | Possible Universal Set |
-|---|---|
-| Right triangles | Set of all triangles in a plane |
+| Given Set           | Possible Universal Set          |
+| ------------------- | ------------------------------- |
+| Right triangles     | Set of all triangles in a plane |
 | Isosceles triangles | Set of all triangles in a plane |
 
 ### 8. Universal Set Choice
@@ -1524,13 +1524,13 @@ The empty set is not valid.
 
 ### 1. Union Of Given Pairs
 
-| Part | Answer |
-|---|---|
-| i | `{1, 2, 3, 5}` |
-| ii | `{a, b, c, e, i, o, u}` |
-| iii | `{1, 2, 3, 4, 5, 6, 9, 12, ...}` |
-| iv | `{2, 3, 4, 5, 6, 7, 8, 9}` |
-| v | `{1, 2, 3}` |
+| Part | Answer                           |
+| ---- | -------------------------------- |
+| i    | `{1, 2, 3, 5}`                   |
+| ii   | `{a, b, c, e, i, o, u}`          |
+| iii  | `{1, 2, 3, 4, 5, 6, 9, 12, ...}` |
+| iv   | `{2, 3, 4, 5, 6, 7, 8, 9}`       |
+| v    | `{1, 2, 3}`                      |
 
 ### 2. Subset And Union
 
@@ -1578,25 +1578,25 @@ $$
 C = \{5, 6, 7, 8\}, \quad D = \{7, 8, 9, 10\}
 $$
 
-| Part | Answer |
-|---|---|
-| i | `{1, 2, 3, 4, 5, 6}` |
-| ii | `{1, 2, 3, 4, 5, 6, 7, 8}` |
-| iii | `{3, 4, 5, 6, 7, 8}` |
-| iv | `{3, 4, 5, 6, 7, 8, 9, 10}` |
-| v | `{1, 2, 3, 4, 5, 6, 7, 8}` |
-| vi | `{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}` |
-| vii | `{3, 4, 5, 6, 7, 8, 9, 10}` |
+| Part | Answer                            |
+| ---- | --------------------------------- |
+| i    | `{1, 2, 3, 4, 5, 6}`              |
+| ii   | `{1, 2, 3, 4, 5, 6, 7, 8}`        |
+| iii  | `{3, 4, 5, 6, 7, 8}`              |
+| iv   | `{3, 4, 5, 6, 7, 8, 9, 10}`       |
+| v    | `{1, 2, 3, 4, 5, 6, 7, 8}`        |
+| vi   | `{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}` |
+| vii  | `{3, 4, 5, 6, 7, 8, 9, 10}`       |
 
 ### 5. Intersections Of Question 1 Pairs
 
-| Part | Answer |
-|---|---|
-| i | `{1, 3}` |
-| ii | `{a}` |
-| iii | `{3}` |
-| iv | `empty set` |
-| v | `empty set` |
+| Part | Answer      |
+| ---- | ----------- |
+| i    | `{1, 3}`    |
+| ii   | `{a}`       |
+| iii  | `{3}`       |
+| iv   | `empty set` |
+| v    | `empty set` |
 
 ### 6. Intersections
 
@@ -1610,18 +1610,18 @@ $$
 C = \{11, 13, 15\}, \quad D = \{15, 17\}
 $$
 
-| Part | Answer |
-|---|---|
-| i | `{7, 9, 11}` |
-| ii | `{11, 13}` |
-| iii | `empty set` |
-| iv | `{11}` |
-| v | `empty set` |
-| vi | `{7, 9, 11}` |
-| vii | `empty set` |
-| viii | `{7, 9, 11}` |
-| ix | `{7, 9, 11}` |
-| x | `{7, 9, 11, 15}` |
+| Part | Answer           |
+| ---- | ---------------- |
+| i    | `{7, 9, 11}`     |
+| ii   | `{11, 13}`       |
+| iii  | `empty set`      |
+| iv   | `{11}`           |
+| v    | `empty set`      |
+| vi   | `{7, 9, 11}`     |
+| vii  | `empty set`      |
+| viii | `{7, 9, 11}`     |
+| ix   | `{7, 9, 11}`     |
+| x    | `{7, 9, 11, 15}` |
 
 ### 7. Natural Number Sets
 
@@ -1632,22 +1632,22 @@ Let:
 - `C` be odd natural numbers;
 - `D` be prime numbers.
 
-| Part | Answer |
-|---|---|
-| i | `B` |
-| ii | `C` |
-| iii | `D` |
-| iv | `empty set` |
-| v | `{2}` |
-| vi | Set of odd prime numbers, `{3, 5, 7, 11, ...}` |
+| Part | Answer                                         |
+| ---- | ---------------------------------------------- |
+| i    | `B`                                            |
+| ii   | `C`                                            |
+| iii  | `D`                                            |
+| iv   | `empty set`                                    |
+| v    | `{2}`                                          |
+| vi   | Set of odd prime numbers, `{3, 5, 7, 11, ...}` |
 
 ### 8. Disjoint Or Not
 
-| Part | Answer | Reason |
-|---|---|---|
-| i | Not disjoint | 4 is common |
-| ii | Not disjoint | e is common |
-| iii | Disjoint | No integer is both even and odd |
+| Part | Answer       | Reason                          |
+| ---- | ------------ | ------------------------------- |
+| i    | Not disjoint | 4 is common                     |
+| ii   | Not disjoint | e is common                     |
+| iii  | Disjoint     | No integer is both even and odd |
 
 ### 9. Differences
 
@@ -1669,20 +1669,20 @@ $$
 D = \{5, 10, 15, 20\}
 $$
 
-| Part | Answer |
-|---|---|
-| i | `{3, 6, 9, 15, 18, 21}` |
-| ii | `{3, 9, 15, 18, 21}` |
-| iii | `{3, 6, 9, 12, 18, 21}` |
-| iv | `{4, 8, 16, 20}` |
-| v | `{2, 4, 8, 10, 14, 16}` |
-| vi | `{5, 10, 20}` |
-| vii | `{20}` |
-| viii | `{4, 8, 12, 16}` |
-| ix | `{2, 6, 10, 14}` |
-| x | `{5, 10, 15}` |
-| xi | `{2, 4, 6, 8, 12, 14, 16}` |
-| xii | `{5, 15, 20}` |
+| Part | Answer                     |
+| ---- | -------------------------- |
+| i    | `{3, 6, 9, 15, 18, 21}`    |
+| ii   | `{3, 9, 15, 18, 21}`       |
+| iii  | `{3, 6, 9, 12, 18, 21}`    |
+| iv   | `{4, 8, 16, 20}`           |
+| v    | `{2, 4, 8, 10, 14, 16}`    |
+| vi   | `{5, 10, 20}`              |
+| vii  | `{20}`                     |
+| viii | `{4, 8, 12, 16}`           |
+| ix   | `{2, 6, 10, 14}`           |
+| x    | `{5, 10, 15}`              |
+| xi   | `{2, 4, 6, 8, 12, 14, 16}` |
+| xii  | `{5, 15, 20}`              |
 
 ### 10. Difference And Intersection
 
@@ -1712,12 +1712,12 @@ $$
 
 ### 12. True Or False
 
-| Part | Answer | Reason |
-|---|---|---|
-| i | False | 3 is common |
-| ii | False | a is common |
-| iii | True | No common element |
-| iv | True | No common element |
+| Part | Answer | Reason            |
+| ---- | ------ | ----------------- |
+| i    | False  | 3 is common       |
+| ii   | False  | a is common       |
+| iii  | True   | No common element |
+| iv   | True   | No common element |
 
 ## 45. Exercise 1.5 Answer Key
 
@@ -1733,14 +1733,14 @@ $$
 A = \{1, 2, 3, 4\}, \quad B = \{2, 4, 6, 8\}, \quad C = \{3, 4, 5, 6\}
 $$
 
-| Part | Answer |
-|---|---|
-| i | `{5, 6, 7, 8, 9}` |
-| ii | `{1, 3, 5, 7, 9}` |
-| iii | `{7, 8, 9}` |
-| iv | `{5, 7, 9}` |
-| v | `{1, 2, 3, 4}` |
-| vi | `{1, 2, 3, 4, 5, 6, 7, 9}` |
+| Part | Answer                     |
+| ---- | -------------------------- |
+| i    | `{5, 6, 7, 8, 9}`          |
+| ii   | `{1, 3, 5, 7, 9}`          |
+| iii  | `{7, 8, 9}`                |
+| iv   | `{5, 7, 9}`                |
+| v    | `{1, 2, 3, 4}`             |
+| vi   | `{1, 2, 3, 4, 5, 6, 7, 9}` |
 
 ### 2. Complements
 
@@ -1750,30 +1750,30 @@ $$
 U = \{a, b, c, d, e, f, g, h\}
 $$
 
-| Part | Answer |
-|---|---|
-| i | `{d, e, f, g, h}` |
-| ii | `{a, b, c, h}` |
-| iii | `{b, d, f, h}` |
-| iv | `{b, c, d, e}` |
+| Part | Answer            |
+| ---- | ----------------- |
+| i    | `{d, e, f, g, h}` |
+| ii   | `{a, b, c, h}`    |
+| iii  | `{b, d, f, h}`    |
+| iv   | `{b, c, d, e}`    |
 
 ### 3. Complements In Natural Numbers
 
 Take `U = N`.
 
-| Part | Complement |
-|---|---|
-| i | Odd natural numbers |
-| ii | Even natural numbers |
-| iii | Natural numbers not divisible by 3 |
-| iv | Composite numbers together with 1 |
-| v | Natural numbers not divisible by 15 |
-| vi | Natural numbers that are not perfect squares |
-| vii | Natural numbers that are not perfect cubes |
-| viii | `N - {3}` |
-| ix | `N - {2}` |
-| x | `{1, 2, 3, 4, 5, 6}` |
-| xi | `{1, 2, 3, 4}` |
+| Part | Complement                                   |
+| ---- | -------------------------------------------- |
+| i    | Odd natural numbers                          |
+| ii   | Even natural numbers                         |
+| iii  | Natural numbers not divisible by 3           |
+| iv   | Composite numbers together with 1            |
+| v    | Natural numbers not divisible by 15          |
+| vi   | Natural numbers that are not perfect squares |
+| vii  | Natural numbers that are not perfect cubes   |
+| viii | `N - {3}`                                    |
+| ix   | `N - {2}`                                    |
+| x    | `{1, 2, 3, 4, 5, 6}`                         |
+| xi   | `{1, 2, 3, 4}`                               |
 
 For part xi:
 
@@ -1859,12 +1859,12 @@ $$
 
 For each expression:
 
-| Expression | Shade This Region |
-|---|---|
-| `(A union B)'` | Outside both A and B |
-| `A' intersection B'` | Outside A and outside B; same as outside both |
-| `(A intersection B)'` | Everything except the overlap of A and B |
-| `A' union B'` | Everything outside A or outside B; same as everything except the overlap |
+| Expression            | Shade This Region                                                        |
+| --------------------- | ------------------------------------------------------------------------ |
+| `(A union B)'`        | Outside both A and B                                                     |
+| `A' intersection B'`  | Outside A and outside B; same as outside both                            |
+| `(A intersection B)'` | Everything except the overlap of A and B                                 |
+| `A' union B'`         | Everything outside A or outside B; same as everything except the overlap |
 
 ### 6. Complement Of Triangles With At Least One Angle Different From 60
 
@@ -1882,12 +1882,12 @@ $$
 
 ### 7. Fill In The Blanks
 
-| Part | Answer |
-|---|---|
-| i | `U` |
-| ii | `A` |
-| iii | `empty set` |
-| iv | `empty set` |
+| Part | Answer      |
+| ---- | ----------- |
+| i    | `U`         |
+| ii   | `A`         |
+| iii  | `empty set` |
+| iv   | `empty set` |
 
 ## 46. Miscellaneous Exercise Guide
 
@@ -1945,14 +1945,14 @@ $$
 
 ### 2. True Or False With Reason
 
-| Part | Answer | Reason |
-|---|---|---|
-| i | False | Example: A = `{1}`, B = `{{1}}`; then `1 in A` and `A in B`, but `1 notin B` |
-| ii | False | A subset B and B in C does not force A in C |
-| iii | True | Subset relation is transitive |
-| iv | False | Example: A = `{1}`, B = `{2}`, C = `{1, 2}`; A not subset B and B not subset C is false here if B subset C, so choose carefully; the statement is not generally reliable |
-| v | False | If A not subset B, not every element of A must be in B |
-| vi | True | If every element of A is in B, anything outside B is outside A |
+| Part | Answer | Reason                                                                                                                                                                   |
+| ---- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| i    | False  | Example: A = `{1}`, B = `{{1}}`; then `1 in A` and `A in B`, but `1 notin B`                                                                                             |
+| ii   | False  | A subset B and B in C does not force A in C                                                                                                                              |
+| iii  | True   | Subset relation is transitive                                                                                                                                            |
+| iv   | False  | Example: A = `{1}`, B = `{2}`, C = `{1, 2}`; A not subset B and B not subset C is false here if B subset C, so choose carefully; the statement is not generally reliable |
+| v    | False  | If A not subset B, not every element of A must be in B                                                                                                                   |
+| vi   | True   | If every element of A is in B, anything outside B is outside A                                                                                                           |
 
 A cleaner counterexample for part iv:
 
@@ -2218,38 +2218,38 @@ because no element belongs to all three sets.
 
 ## 47. Key Laws In One Table
 
-| Law | Formula |
-|---|---|
-| Union commutative | `A union B = B union A` |
-| Intersection commutative | `A intersection B = B intersection A` |
-| Union associative | `(A union B) union C = A union (B union C)` |
-| Intersection associative | `(A intersection B) intersection C = A intersection (B intersection C)` |
-| Union identity | `A union empty set = A` |
-| Intersection with universal set | `A intersection U = A` |
-| Intersection with empty set | `A intersection empty set = empty set` |
-| Union with universal set | `A union U = U` |
-| Union idempotent | `A union A = A` |
-| Intersection idempotent | `A intersection A = A` |
-| Complement union | `A union A' = U` |
-| Complement intersection | `A intersection A' = empty set` |
-| Double complement | `(A')' = A` |
-| De Morgan 1 | `(A union B)' = A' intersection B'` |
-| De Morgan 2 | `(A intersection B)' = A' union B'` |
-| Absorption 1 | `A union (A intersection B) = A` |
-| Absorption 2 | `A intersection (A union B) = A` |
+| Law                             | Formula                                                                 |
+| ------------------------------- | ----------------------------------------------------------------------- |
+| Union commutative               | `A union B = B union A`                                                 |
+| Intersection commutative        | `A intersection B = B intersection A`                                   |
+| Union associative               | `(A union B) union C = A union (B union C)`                             |
+| Intersection associative        | `(A intersection B) intersection C = A intersection (B intersection C)` |
+| Union identity                  | `A union empty set = A`                                                 |
+| Intersection with universal set | `A intersection U = A`                                                  |
+| Intersection with empty set     | `A intersection empty set = empty set`                                  |
+| Union with universal set        | `A union U = U`                                                         |
+| Union idempotent                | `A union A = A`                                                         |
+| Intersection idempotent         | `A intersection A = A`                                                  |
+| Complement union                | `A union A' = U`                                                        |
+| Complement intersection         | `A intersection A' = empty set`                                         |
+| Double complement               | `(A')' = A`                                                             |
+| De Morgan 1                     | `(A union B)' = A' intersection B'`                                     |
+| De Morgan 2                     | `(A intersection B)' = A' union B'`                                     |
+| Absorption 1                    | `A union (A intersection B) = A`                                        |
+| Absorption 2                    | `A intersection (A union B) = A`                                        |
 
 ## 48. Common Mistakes And Corrections
 
-| Mistake | Correction |
-|---|---|
-| Treating `{0}` as empty | `{0}` has one element; empty set has none |
-| Repeating elements in a set | Repetition does not change a set |
-| Thinking order matters | `{1, 2, 3}` and `{3, 2, 1}` are equal |
-| Confusing `in` and `subset` | Elements belong; sets are subsets |
-| Assuming `A - B = B - A` | Difference is not commutative |
-| Forgetting universal set in complements | Complement is always relative to U |
-| Using `(a, b)` as an ordered pair in interval questions | In this chapter, `(a, b)` can mean open interval depending on context |
-| Saying all infinite sets can be written in roster form | Many infinite sets, such as real numbers, cannot be listed by a simple pattern |
+| Mistake                                                 | Correction                                                                     |
+| ------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| Treating `{0}` as empty                                 | `{0}` has one element; empty set has none                                      |
+| Repeating elements in a set                             | Repetition does not change a set                                               |
+| Thinking order matters                                  | `{1, 2, 3}` and `{3, 2, 1}` are equal                                          |
+| Confusing `in` and `subset`                             | Elements belong; sets are subsets                                              |
+| Assuming `A - B = B - A`                                | Difference is not commutative                                                  |
+| Forgetting universal set in complements                 | Complement is always relative to U                                             |
+| Using `(a, b)` as an ordered pair in interval questions | In this chapter, `(a, b)` can mean open interval depending on context          |
+| Saying all infinite sets can be written in roster form  | Many infinite sets, such as real numbers, cannot be listed by a simple pattern |
 
 ## 49. Fast Problem-Solving Checklist
 

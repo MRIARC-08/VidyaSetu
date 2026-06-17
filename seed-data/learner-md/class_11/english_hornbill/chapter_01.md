@@ -27,29 +27,29 @@ By the end of this chapter, you should be able to:
 
 ## Works Covered
 
-| Work | Writer | Form | Main Concern |
-|---|---|---|---|
+| Work                   | Writer          | Form                          | Main Concern                                  |
+| ---------------------- | --------------- | ----------------------------- | --------------------------------------------- |
 | The Portrait of a Lady | Khushwant Singh | Autobiographical prose sketch | Grandmother, memory, affection, ageing, death |
-| A Photograph | Shirley Toulson | Poem | Photograph, mother, time, mortality, silence |
+| A Photograph           | Shirley Toulson | Poem                          | Photograph, mother, time, mortality, silence  |
 
 ## Core Vocabulary
 
-| Word or Phrase | Meaning in Context |
-|---|---|
-| Portrait | A written or visual representation of a person |
-| Wrinkled | Having lines on the skin due to age |
-| Rosary | A string of beads used for prayer |
-| Serenity | Calmness and peace |
-| Turning-point | A moment that changes a relationship or situation |
-| Seclusion | Isolation or separation from others |
-| Resignation | Calm acceptance of an unpleasant situation |
-| Bedlam | A noisy, confused scene |
-| Frivolous | Light, playful, not serious |
-| Dilapidated | Old and in poor condition |
-| Paddling | Walking or playing in shallow water |
-| Transient | Temporary, short-lived |
-| Wry | Slightly bitter, twisted by sadness or irony |
-| Circumstance | Situation or condition |
+| Word or Phrase | Meaning in Context                                |
+| -------------- | ------------------------------------------------- |
+| Portrait       | A written or visual representation of a person    |
+| Wrinkled       | Having lines on the skin due to age               |
+| Rosary         | A string of beads used for prayer                 |
+| Serenity       | Calmness and peace                                |
+| Turning-point  | A moment that changes a relationship or situation |
+| Seclusion      | Isolation or separation from others               |
+| Resignation    | Calm acceptance of an unpleasant situation        |
+| Bedlam         | A noisy, confused scene                           |
+| Frivolous      | Light, playful, not serious                       |
+| Dilapidated    | Old and in poor condition                         |
+| Paddling       | Walking or playing in shallow water               |
+| Transient      | Temporary, short-lived                            |
+| Wry            | Slightly bitter, twisted by sadness or irony      |
+| Circumstance   | Situation or condition                            |
 
 ## 1. About The Portrait of a Lady
 
@@ -95,14 +95,14 @@ The narrator does not over-explain emotions. He lets small details reveal love a
 
 The prose moves in a chronological pattern.
 
-| Stage | Place | Relationship |
-|---|---|---|
-| Childhood | Village | Narrator and grandmother are close companions |
-| City school years | City | Their daily bond weakens |
-| University years | City | Physical and emotional distance increases |
-| Departure abroad | Railway station | Silent affection remains |
-| Return home | Station and house | Grandmother is unchanged in devotion |
-| Death | Home | Her spiritual calm and the sparrows' grief complete the portrait |
+| Stage             | Place             | Relationship                                                     |
+| ----------------- | ----------------- | ---------------------------------------------------------------- |
+| Childhood         | Village           | Narrator and grandmother are close companions                    |
+| City school years | City              | Their daily bond weakens                                         |
+| University years  | City              | Physical and emotional distance increases                        |
+| Departure abroad  | Railway station   | Silent affection remains                                         |
+| Return home       | Station and house | Grandmother is unchanged in devotion                             |
+| Death             | Home              | Her spiritual calm and the sparrows' grief complete the portrait |
 
 The movement from closeness to distance and then to loss gives the story its emotional shape.
 
@@ -373,29 +373,29 @@ The sparrows' silence deepens the sense of loss.
 
 ## 16. Symbols in The Portrait of a Lady
 
-| Symbol | Meaning |
-|---|---|
-| Rosary | Prayer, faith, discipline, spiritual life |
-| Spotless white dress | Purity, simplicity, peace |
-| Spinning wheel | Routine, self-sufficiency, old-world discipline |
-| Sparrows | Innocent companionship and shared grief |
-| Village dogs | Earlier stage of care and daily rhythm |
-| Motor bus | Modern education and distance from tradition |
-| Railway station | Departure, separation, silent affection |
-| Drum | Unexpected joy at homecoming before death |
-| Red shroud | Death, ritual, finality |
+| Symbol               | Meaning                                         |
+| -------------------- | ----------------------------------------------- |
+| Rosary               | Prayer, faith, discipline, spiritual life       |
+| Spotless white dress | Purity, simplicity, peace                       |
+| Spinning wheel       | Routine, self-sufficiency, old-world discipline |
+| Sparrows             | Innocent companionship and shared grief         |
+| Village dogs         | Earlier stage of care and daily rhythm          |
+| Motor bus            | Modern education and distance from tradition    |
+| Railway station      | Departure, separation, silent affection         |
+| Drum                 | Unexpected joy at homecoming before death       |
+| Red shroud           | Death, ritual, finality                         |
 
 ## 17. Important Phrases from The Portrait of a Lady
 
-| Phrase | Explanation |
-|---|---|
-| "the thought was almost revolting" | The narrator as a child cannot imagine his grandmother as young or pretty |
-| "pure white serenity" | The grandmother's calm, peaceful, spiritual beauty |
-| "a turning-point" | Moving to the city changes their close relationship |
-| "accepted her seclusion with resignation" | She quietly accepts loneliness |
-| "veritable bedlam" | The noisy gathering of sparrows |
-| "frivolous rebukes" | Light, playful scolding of the sparrows |
-| "dilapidated drum" | An old, worn-out drum |
+| Phrase                                    | Explanation                                                               |
+| ----------------------------------------- | ------------------------------------------------------------------------- |
+| "the thought was almost revolting"        | The narrator as a child cannot imagine his grandmother as young or pretty |
+| "pure white serenity"                     | The grandmother's calm, peaceful, spiritual beauty                        |
+| "a turning-point"                         | Moving to the city changes their close relationship                       |
+| "accepted her seclusion with resignation" | She quietly accepts loneliness                                            |
+| "veritable bedlam"                        | The noisy gathering of sparrows                                           |
+| "frivolous rebukes"                       | Light, playful scolding of the sparrows                                   |
+| "dilapidated drum"                        | An old, worn-out drum                                                     |
 
 ## 18. Language and Style
 
@@ -492,21 +492,21 @@ This answer depends on the learner. The important idea is that homecoming songs 
 
 The word "tell" has different meanings in the text.
 
-| Use | Meaning |
-|---|---|
-| telling the beads | counting while reciting |
-| tell her English words | make something known in words |
-| one could never tell | be sure |
-| told us her end was near | gave information |
+| Use                      | Meaning                       |
+| ------------------------ | ----------------------------- |
+| telling the beads        | counting while reciting       |
+| tell her English words   | make something known in words |
+| one could never tell     | be sure                       |
+| told us her end was near | gave information              |
 
 The same word changes meaning according to context.
 
 ## 23. Working with Words: Take
 
-| Phrase | Meaning |
-|---|---|
+| Phrase            | Meaning                          |
+| ----------------- | -------------------------------- |
 | take to something | begin doing something as a habit |
-| take ill | suddenly become ill |
+| take ill          | suddenly become ill              |
 
 Example:
 
@@ -518,14 +518,14 @@ The next morning she took ill.
 
 Words that refer to a manner of walking include:
 
-| Word | Meaning |
-|---|---|
-| shuffle | walk by dragging feet |
-| stride | walk with long steps |
-| waddle | walk with short side-to-side steps |
-| swagger | walk in a proud or showy way |
-| trudge | walk slowly with effort |
-| hobble | walk with difficulty |
+| Word    | Meaning                            |
+| ------- | ---------------------------------- |
+| shuffle | walk by dragging feet              |
+| stride  | walk with long steps               |
+| waddle  | walk with short side-to-side steps |
+| swagger | walk in a proud or showy way       |
+| trudge  | walk slowly with effort            |
+| hobble  | walk with difficulty               |
 
 Words such as haggle, ride, wriggle, paddle, and slog do not primarily mean a manner of walking in the same direct way.
 
@@ -576,11 +576,11 @@ The sea remains, but human lives pass away.
 
 The poem has three stages of time.
 
-| Stage | Time | What Happens |
-|---|---|---|
-| First stage | Mother's childhood | The photograph captures a beach scene |
-| Second stage | Mother as adult | The mother laughs at the old photograph |
-| Third stage | After mother's death | The poet reflects silently on loss |
+| Stage        | Time                 | What Happens                            |
+| ------------ | -------------------- | --------------------------------------- |
+| First stage  | Mother's childhood   | The photograph captures a beach scene   |
+| Second stage | Mother as adult      | The mother laughs at the old photograph |
+| Third stage  | After mother's death | The poet reflects silently on loss      |
 
 The poem moves from image to memory to grief.
 
@@ -644,14 +644,14 @@ The silence of loss becomes stronger than words.
 
 ## 34. Literary Devices in A Photograph
 
-| Device | Example of Use | Effect |
-|---|---|---|
-| Visual imagery | photograph, beach, sea, girls | Creates a vivid scene |
-| Contrast | changing human life and unchanged sea | Highlights mortality |
-| Alliteration | "terribly transient" | Emphasizes temporary human life |
-| Personification | silence appears powerful | Shows grief beyond words |
-| Irony | a happy photograph leads to grief | Deepens emotional effect |
-| Symbolism | photograph and sea | Connects memory with time |
+| Device          | Example of Use                        | Effect                          |
+| --------------- | ------------------------------------- | ------------------------------- |
+| Visual imagery  | photograph, beach, sea, girls         | Creates a vivid scene           |
+| Contrast        | changing human life and unchanged sea | Highlights mortality            |
+| Alliteration    | "terribly transient"                  | Emphasizes temporary human life |
+| Personification | silence appears powerful              | Shows grief beyond words        |
+| Irony           | a happy photograph leads to grief     | Deepens emotional effect        |
+| Symbolism       | photograph and sea                    | Connects memory with time       |
 
 ## 35. Tone of A Photograph
 
@@ -701,15 +701,15 @@ The third phase is the poet's present, after the mother's death, when the photog
 
 ## 37. Comparison Between the Prose and the Poem
 
-| Point | The Portrait of a Lady | A Photograph |
-|---|---|---|
-| Main relationship | Grandson and grandmother | Daughter and mother |
-| Form | Prose sketch | Poem |
-| Memory object | Narrator's recollections | Old photograph |
-| Tone | Affectionate, humorous, tender | Quiet, nostalgic, sorrowful |
-| Death | Grandmother's death described directly | Mother's death reflected indirectly |
-| Symbol of grief | Silent sparrows | Silence after loss |
-| Main idea | Love remains despite distance | Memory remains but cannot restore the dead |
+| Point             | The Portrait of a Lady                 | A Photograph                               |
+| ----------------- | -------------------------------------- | ------------------------------------------ |
+| Main relationship | Grandson and grandmother               | Daughter and mother                        |
+| Form              | Prose sketch                           | Poem                                       |
+| Memory object     | Narrator's recollections               | Old photograph                             |
+| Tone              | Affectionate, humorous, tender         | Quiet, nostalgic, sorrowful                |
+| Death             | Grandmother's death described directly | Mother's death reflected indirectly        |
+| Symbol of grief   | Silent sparrows                        | Silence after loss                         |
+| Main idea         | Love remains despite distance          | Memory remains but cannot restore the dead |
 
 Both works show that love survives in memory, but memory also carries pain.
 
@@ -838,4 +838,3 @@ Both works deal with memory, love, ageing, death, and loss.
 The Portrait of a Lady is Khushwant Singh's affectionate memory of his grandmother. She is shown as old, wrinkled, bent, religious, loving, and spiritually beautiful. In the village, she and the narrator are close companions. She prepares him for school, accompanies him to the temple school, and feeds dogs. After moving to the city, their relationship changes because he attends an English school and learns subjects she cannot understand or approve of. At university, their distance increases, but affection remains. She spends her time spinning, praying, and feeding sparrows. When he returns from abroad, she celebrates unusually by singing. Soon after, she dies peacefully while praying. The sparrows gather silently and refuse food, showing grief.
 
 A Photograph by Shirley Toulson presents an old photograph of the poet's mother as a young girl at the beach. The poem moves through three stages: the mother's childhood captured by the camera, the mother's later laughter at the photograph, and the poet's silent grief after the mother's death. The sea remains almost unchanged, while human life passes away. The poem shows that photographs preserve images but cannot prevent loss. Both works show quiet love, memory, and the pain of losing someone deeply loved.
-

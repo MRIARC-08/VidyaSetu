@@ -1,16 +1,17 @@
 # Chapter 3: Business Environment
+
 ### NCERT Class 12 - Business Studies Part 1
 
 ## Chapter at a Glance
 
-| Item | Details |
-|---|---|
-| Main idea | Business environment includes all external forces and institutions that affect business performance but are largely outside direct control. |
-| Main dimensions | Economic, social, technological, political, and legal environment. |
-| Key feature | Environment is dynamic, complex, uncertain, and interrelated. |
-| Business use | Understanding environment helps identify opportunities, threats, trends, and policy changes. |
-| India focus | Liberalisation, privatisation, and globalisation changed business conditions significantly. |
-| Most important skill | Connect an external change with its business impact. |
+| Item                 | Details                                                                                                                                     |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Main idea            | Business environment includes all external forces and institutions that affect business performance but are largely outside direct control. |
+| Main dimensions      | Economic, social, technological, political, and legal environment.                                                                          |
+| Key feature          | Environment is dynamic, complex, uncertain, and interrelated.                                                                               |
+| Business use         | Understanding environment helps identify opportunities, threats, trends, and policy changes.                                                |
+| India focus          | Liberalisation, privatisation, and globalisation changed business conditions significantly.                                                 |
+| Most important skill | Connect an external change with its business impact.                                                                                        |
 
 ## Learning Outcomes
 
@@ -27,30 +28,30 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Business environment | Sum total of external forces, institutions, and conditions affecting business. |
-| Opportunity | External trend or change that can benefit a business. |
-| Threat | External trend or change that can harm a business. |
-| Economic environment | Economic factors such as income, inflation, interest rates, policy, and growth. |
-| Social environment | Social forces such as values, customs, demographics, and lifestyles. |
-| Technological environment | Scientific and technological changes affecting products and processes. |
-| Political environment | Political stability, ideology, and government attitude toward business. |
-| Legal environment | Laws, rules, and regulations affecting business. |
-| Liberalisation | Reducing unnecessary restrictions and controls on business. |
-| Privatisation | Increasing role of private sector in economic activity. |
-| Globalisation | Integrating domestic economy with world economy. |
+| Term                      | Meaning                                                                         |
+| ------------------------- | ------------------------------------------------------------------------------- |
+| Business environment      | Sum total of external forces, institutions, and conditions affecting business.  |
+| Opportunity               | External trend or change that can benefit a business.                           |
+| Threat                    | External trend or change that can harm a business.                              |
+| Economic environment      | Economic factors such as income, inflation, interest rates, policy, and growth. |
+| Social environment        | Social forces such as values, customs, demographics, and lifestyles.            |
+| Technological environment | Scientific and technological changes affecting products and processes.          |
+| Political environment     | Political stability, ideology, and government attitude toward business.         |
+| Legal environment         | Laws, rules, and regulations affecting business.                                |
+| Liberalisation            | Reducing unnecessary restrictions and controls on business.                     |
+| Privatisation             | Increasing role of private sector in economic activity.                         |
+| Globalisation             | Integrating domestic economy with world economy.                                |
 
 ## Quick Learning Map
 
-| Area | Core Question |
-|---|---|
-| Meaning | What outside forces affect business? |
-| Features | Why is environment complex and uncertain? |
-| Importance | How does scanning environment help managers? |
-| Dimensions | Which external forces are changing? |
-| Economic reforms | How did policy changes reshape business? |
-| Case use | Is the change an opportunity or threat? |
+| Area             | Core Question                                |
+| ---------------- | -------------------------------------------- |
+| Meaning          | What outside forces affect business?         |
+| Features         | Why is environment complex and uncertain?    |
+| Importance       | How does scanning environment help managers? |
+| Dimensions       | Which external forces are changing?          |
+| Economic reforms | How did policy changes reshape business?     |
+| Case use         | Is the change an opportunity or threat?      |
 
 # Unit 3A: Meaning of Business Environment
 
@@ -155,13 +156,13 @@ Economic environment includes:
 
 ## Business Impact
 
-| Economic Change | Possible Impact |
-|---|---|
-| Higher interest rates | Borrowing becomes costly. |
-| Higher income | Demand for quality goods may rise. |
-| Inflation | Costs and prices may increase. |
-| Lower taxes | Investment may increase. |
-| Economic slowdown | Demand may fall. |
+| Economic Change       | Possible Impact                    |
+| --------------------- | ---------------------------------- |
+| Higher interest rates | Borrowing becomes costly.          |
+| Higher income         | Demand for quality goods may rise. |
+| Inflation             | Costs and prices may increase.     |
+| Lower taxes           | Investment may increase.           |
+| Economic slowdown     | Demand may fall.                   |
 
 # Unit 3E: Social Environment
 
@@ -211,12 +212,12 @@ Political environment includes political stability, government attitude, ideolog
 
 ## Business Impact
 
-| Political Condition | Possible Impact |
-|---|---|
-| Stable government | Encourages investment. |
-| Policy uncertainty | Creates risk. |
-| Supportive policy | Helps business expansion. |
-| Political unrest | Disrupts supply and demand. |
+| Political Condition | Possible Impact             |
+| ------------------- | --------------------------- |
+| Stable government   | Encourages investment.      |
+| Policy uncertainty  | Creates risk.               |
+| Supportive policy   | Helps business expansion.   |
+| Political unrest    | Disrupts supply and demand. |
 
 # Unit 3H: Legal Environment
 
@@ -285,33 +286,33 @@ Globalisation means integration of domestic economy with world economy.
 
 # Unit 3M: Impact of Policy Changes on Business
 
-| Impact | Explanation |
-|---|---|
-| Increased competition | Domestic firms faced foreign and private competition. |
-| More demanding customers | Customers got more choices and expected better quality. |
-| Rapid technological change | Firms needed modern methods. |
-| Need for efficiency | Inefficient firms struggled. |
-| Market orientation | Firms focused more on customer needs. |
-| Greater opportunity | Businesses could expand and enter new sectors. |
+| Impact                     | Explanation                                             |
+| -------------------------- | ------------------------------------------------------- |
+| Increased competition      | Domestic firms faced foreign and private competition.   |
+| More demanding customers   | Customers got more choices and expected better quality. |
+| Rapid technological change | Firms needed modern methods.                            |
+| Need for efficiency        | Inefficient firms struggled.                            |
+| Market orientation         | Firms focused more on customer needs.                   |
+| Greater opportunity        | Businesses could expand and enter new sectors.          |
 
 # Unit 3N: Opportunity and Threat Identification
 
-| External Change | Opportunity | Threat |
-|---|---|---|
-| Rising internet use | Launch online services. | Traditional-only firms may lose customers. |
-| Ban on harmful packaging | Eco-friendly packaging demand rises. | Old packaging stock becomes unusable. |
-| Increase in income | Premium products may sell more. | Low-cost firms may need repositioning. |
-| New foreign competitor | Learn new technology and improve. | Market share may fall. |
+| External Change          | Opportunity                          | Threat                                     |
+| ------------------------ | ------------------------------------ | ------------------------------------------ |
+| Rising internet use      | Launch online services.              | Traditional-only firms may lose customers. |
+| Ban on harmful packaging | Eco-friendly packaging demand rises. | Old packaging stock becomes unusable.      |
+| Increase in income       | Premium products may sell more.      | Low-cost firms may need repositioning.     |
+| New foreign competitor   | Learn new technology and improve.    | Market share may fall.                     |
 
 # Unit 3O: Common Mistakes and Corrections
 
-| Mistake | Correct Understanding |
-|---|---|
-| Business environment means only competitors | It includes many external forces. |
-| Environment is fully controllable | Business can influence some factors but cannot control all. |
-| Social and legal environment are same | Social refers to values and lifestyles; legal refers to laws. |
-| Liberalisation means globalisation | Liberalisation reduces controls; globalisation connects with world markets. |
-| Every change is only a threat | The same change may be opportunity for one firm and threat for another. |
+| Mistake                                     | Correct Understanding                                                       |
+| ------------------------------------------- | --------------------------------------------------------------------------- |
+| Business environment means only competitors | It includes many external forces.                                           |
+| Environment is fully controllable           | Business can influence some factors but cannot control all.                 |
+| Social and legal environment are same       | Social refers to values and lifestyles; legal refers to laws.               |
+| Liberalisation means globalisation          | Liberalisation reduces controls; globalisation connects with world markets. |
+| Every change is only a threat               | The same change may be opportunity for one firm and threat for another.     |
 
 ## Practice Set
 
@@ -339,13 +340,13 @@ Environmental scanning means carefully monitoring external changes and interpret
 
 ## Dimension Signal Table
 
-| Signal in Case | Dimension |
-|---|---|
-| Inflation, interest rate, tax, income, exchange rate | Economic environment. |
-| Lifestyle, education, family structure, gender roles, health awareness | Social environment. |
-| Automation, app-based service, digital payments, new machinery | Technological environment. |
-| Government stability, political ideology, public policy attitude | Political environment. |
-| Law, court order, regulation, licensing, penalty, consumer rights | Legal environment. |
+| Signal in Case                                                         | Dimension                  |
+| ---------------------------------------------------------------------- | -------------------------- |
+| Inflation, interest rate, tax, income, exchange rate                   | Economic environment.      |
+| Lifestyle, education, family structure, gender roles, health awareness | Social environment.        |
+| Automation, app-based service, digital payments, new machinery         | Technological environment. |
+| Government stability, political ideology, public policy attitude       | Political environment.     |
+| Law, court order, regulation, licensing, penalty, consumer rights      | Legal environment.         |
 
 ## Impact Chain Method
 
@@ -365,20 +366,20 @@ Impact chain:
 
 ## Opportunity and Threat Can Exist Together
 
-| Change | Opportunity | Threat |
-|---|---|---|
-| New technology | Faster production and better service. | Old machines and skills become outdated. |
-| Foreign competition | Chance to learn global standards. | Loss of market share. |
-| Environmental law | Demand for eco-friendly products. | Penalty or redesign cost. |
-| Rising income | Premium products may grow. | Low-cost products may lose appeal. |
+| Change              | Opportunity                           | Threat                                   |
+| ------------------- | ------------------------------------- | ---------------------------------------- |
+| New technology      | Faster production and better service. | Old machines and skills become outdated. |
+| Foreign competition | Chance to learn global standards.     | Loss of market share.                    |
+| Environmental law   | Demand for eco-friendly products.     | Penalty or redesign cost.                |
+| Rising income       | Premium products may grow.            | Low-cost products may lose appeal.       |
 
 ## Economic Reforms: Business-Level Effects
 
-| Reform | Business Meaning |
-|---|---|
-| Liberalisation | More freedom, fewer controls, but more pressure to compete. |
-| Privatisation | More private sector participation and efficiency expectations. |
-| Globalisation | Larger markets and stronger foreign competition. |
+| Reform         | Business Meaning                                               |
+| -------------- | -------------------------------------------------------------- |
+| Liberalisation | More freedom, fewer controls, but more pressure to compete.    |
+| Privatisation  | More private sector participation and efficiency expectations. |
+| Globalisation  | Larger markets and stronger foreign competition.               |
 
 ## Case Answer Framework
 

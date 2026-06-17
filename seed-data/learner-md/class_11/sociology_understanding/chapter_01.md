@@ -235,19 +235,19 @@ Sociology studies both stability and tension.
 
 ## 16. Key Terms
 
-| Term | Meaning |
-|---|---|
-| Social structure | Patterned arrangement of social relations |
-| Status | Social position |
-| Role | Expected behaviour attached to status |
-| Stratification | Structured social inequality |
-| Caste | Birth-based hierarchical system |
-| Class | Economic grouping based on resources and market position |
-| Gender stratification | Inequality based on gender |
-| Social mobility | Movement within social hierarchy |
-| Cooperation | Working together |
-| Competition | Struggle under rules for limited rewards |
-| Conflict | Struggle over interests, power, or values |
+| Term                  | Meaning                                                  |
+| --------------------- | -------------------------------------------------------- |
+| Social structure      | Patterned arrangement of social relations                |
+| Status                | Social position                                          |
+| Role                  | Expected behaviour attached to status                    |
+| Stratification        | Structured social inequality                             |
+| Caste                 | Birth-based hierarchical system                          |
+| Class                 | Economic grouping based on resources and market position |
+| Gender stratification | Inequality based on gender                               |
+| Social mobility       | Movement within social hierarchy                         |
+| Cooperation           | Working together                                         |
+| Competition           | Struggle under rules for limited rewards                 |
+| Conflict              | Struggle over interests, power, or values                |
 
 ## 17. Exam-Oriented Summary
 
@@ -267,4 +267,3 @@ Social processes such as cooperation, competition, and conflict operate within s
 8. Define cooperation.
 9. Define competition.
 10. How can conflict lead to social change?
-

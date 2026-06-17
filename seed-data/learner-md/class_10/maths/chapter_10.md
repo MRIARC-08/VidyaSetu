@@ -1,4 +1,5 @@
 # Chapter 10: Circles
+
 ### NCERT Class 10 - Maths
 
 This learner version rewrites the raw chapter into a detailed guide on tangents to circles. It focuses on definitions, the two main theorems, proof patterns, and complete exercise solutions.
@@ -7,15 +8,15 @@ This learner version rewrites the raw chapter into a detailed guide on tangents 
 
 ## Chapter at a Glance
 
-| Item | Details |
-|---|---|
-| Class | 10 |
-| Subject | Maths |
-| Chapter | 10 |
-| Chapter name | Circles |
-| Main topic | Tangents to a circle |
-| Main theorems | Radius is perpendicular to tangent; tangents from an external point are equal |
-| Main skills | Identify tangent/secant, use right triangles, prove equality of tangent lengths |
+| Item          | Details                                                                         |
+| ------------- | ------------------------------------------------------------------------------- |
+| Class         | 10                                                                              |
+| Subject       | Maths                                                                           |
+| Chapter       | 10                                                                              |
+| Chapter name  | Circles                                                                         |
+| Main topic    | Tangents to a circle                                                            |
+| Main theorems | Radius is perpendicular to tangent; tangents from an external point are equal   |
+| Main skills   | Identify tangent/secant, use right triangles, prove equality of tangent lengths |
 
 ---
 
@@ -36,17 +37,17 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Circle | Set of all points in a plane at a fixed distance from a fixed point |
-| Centre | Fixed point of the circle |
-| Radius | Segment from centre to any point on the circle |
-| Secant | Line intersecting a circle at two points |
-| Tangent | Line touching a circle at exactly one point |
-| Point of contact | Common point of a tangent and the circle |
-| External point | A point outside the circle |
-| Length of tangent | Segment from external point to point of contact |
-| Normal | Line containing radius through point of contact |
+| Term              | Meaning                                                             |
+| ----------------- | ------------------------------------------------------------------- |
+| Circle            | Set of all points in a plane at a fixed distance from a fixed point |
+| Centre            | Fixed point of the circle                                           |
+| Radius            | Segment from centre to any point on the circle                      |
+| Secant            | Line intersecting a circle at two points                            |
+| Tangent           | Line touching a circle at exactly one point                         |
+| Point of contact  | Common point of a tangent and the circle                            |
+| External point    | A point outside the circle                                          |
+| Length of tangent | Segment from external point to point of contact                     |
+| Normal            | Line containing radius through point of contact                     |
 
 ---
 
@@ -54,11 +55,11 @@ By the end of this chapter, you should be able to:
 
 Given a line and a circle in the same plane, exactly three situations are possible.
 
-| Situation | Number of common points | Name |
-|---|---:|---|
-| Line does not meet circle | 0 | Non-intersecting line |
-| Line meets circle at two points | 2 | Secant |
-| Line meets circle at one point | 1 | Tangent |
+| Situation                       | Number of common points | Name                  |
+| ------------------------------- | ----------------------: | --------------------- |
+| Line does not meet circle       |                       0 | Non-intersecting line |
+| Line meets circle at two points |                       2 | Secant                |
+| Line meets circle at one point  |                       1 | Tangent               |
 
 ## Tangent as a Special Secant
 
@@ -110,11 +111,11 @@ $$
 
 # Unit 10C: Number of Tangents From a Point
 
-| Position of point | Number of tangents possible |
-|---|---:|
-| Inside the circle | 0 |
-| On the circle | 1 |
-| Outside the circle | 2 |
+| Position of point  | Number of tangents possible |
+| ------------------ | --------------------------: |
+| Inside the circle  |                           0 |
+| On the circle      |                           1 |
+| Outside the circle |                           2 |
 
 ## Explanation
 
@@ -1119,14 +1120,14 @@ $$
 
 # Unit 10H: Common Mistakes and Corrections
 
-| Mistake | Why it is wrong | Correct habit |
-|---|---|---|
-| Treating a tangent like a secant | Tangent has only one common point with the circle | Count intersection points |
-| Forgetting the right angle at point of contact | Radius and tangent are perpendicular | Join centre to contact point |
-| Assuming tangents from different external points are equal | Only tangents from the same external point are equal | Group equal tangents vertex-wise |
-| Using diameter instead of radius in Pythagoras | Right triangle uses radius to point of contact | Mark radius clearly |
-| Missing the angle bisector result | Centre lies on bisector of angle between tangents | Use congruent right triangles |
-| Forgetting `AB+CD=AD+BC` for tangential quadrilateral | It is a direct result of equal tangent lengths | Label contact points and write equal pairs |
+| Mistake                                                    | Why it is wrong                                      | Correct habit                              |
+| ---------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------ |
+| Treating a tangent like a secant                           | Tangent has only one common point with the circle    | Count intersection points                  |
+| Forgetting the right angle at point of contact             | Radius and tangent are perpendicular                 | Join centre to contact point               |
+| Assuming tangents from different external points are equal | Only tangents from the same external point are equal | Group equal tangents vertex-wise           |
+| Using diameter instead of radius in Pythagoras             | Right triangle uses radius to point of contact       | Mark radius clearly                        |
+| Missing the angle bisector result                          | Centre lies on bisector of angle between tangents    | Use congruent right triangles              |
+| Forgetting `AB+CD=AD+BC` for tangential quadrilateral      | It is a direct result of equal tangent lengths       | Label contact points and write equal pairs |
 
 ---
 
@@ -1146,4 +1147,3 @@ $$
 $$
 AB+CD=AD+BC
 $$
-

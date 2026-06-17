@@ -1,4 +1,5 @@
 # Chapter 1: Haloalkanes and Haloarenes
+
 ### NCERT Class 12 - Chemistry Part 2
 
 ## Chapter at a Glance
@@ -24,32 +25,32 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Haloalkane | Compound with halogen attached to aliphatic carbon. |
-| Haloarene | Compound with halogen attached directly to aromatic ring. |
-| Alkyl halide | Haloalkane represented as `R-X`. |
-| Aryl halide | Haloarene represented as `Ar-X`. |
-| Nucleophile | Electron-pair donor attacking electron-deficient carbon. |
-| Leaving group | Atom or group that departs with electron pair. |
-| SN1 | Substitution nucleophilic unimolecular mechanism. |
-| SN2 | Substitution nucleophilic bimolecular mechanism. |
-| Racemisation | Formation of mixture containing both optical forms. |
-| Inversion | Change in configuration due to backside attack. |
-| Grignard reagent | Organomagnesium halide, `R-Mg-X`. |
+| Term             | Meaning                                                   |
+| ---------------- | --------------------------------------------------------- |
+| Haloalkane       | Compound with halogen attached to aliphatic carbon.       |
+| Haloarene        | Compound with halogen attached directly to aromatic ring. |
+| Alkyl halide     | Haloalkane represented as `R-X`.                          |
+| Aryl halide      | Haloarene represented as `Ar-X`.                          |
+| Nucleophile      | Electron-pair donor attacking electron-deficient carbon.  |
+| Leaving group    | Atom or group that departs with electron pair.            |
+| SN1              | Substitution nucleophilic unimolecular mechanism.         |
+| SN2              | Substitution nucleophilic bimolecular mechanism.          |
+| Racemisation     | Formation of mixture containing both optical forms.       |
+| Inversion        | Change in configuration due to backside attack.           |
+| Grignard reagent | Organomagnesium halide, `R-Mg-X`.                         |
 
 ## Quick Learning Map
 
-| Area | Core idea |
-|---|---|
-| Classification | Depends on carbon type and number of halogen atoms |
-| Preparation | Alcohols, alkenes, hydrocarbons, diazonium salts |
-| Haloalkane reactivity | Polar `C-X` bond allows nucleophilic substitution |
-| SN1 | Carbocation intermediate, favoured by tertiary substrates |
-| SN2 | One-step backside attack, favoured by methyl and primary substrates |
-| Haloarene stability | Resonance gives partial double-bond character to `C-X` |
-| Elimination | Base removes hydrogen halide to form alkene |
-| Organometallics | Alkyl halides form Grignard reagents with magnesium |
+| Area                  | Core idea                                                           |
+| --------------------- | ------------------------------------------------------------------- |
+| Classification        | Depends on carbon type and number of halogen atoms                  |
+| Preparation           | Alcohols, alkenes, hydrocarbons, diazonium salts                    |
+| Haloalkane reactivity | Polar `C-X` bond allows nucleophilic substitution                   |
+| SN1                   | Carbocation intermediate, favoured by tertiary substrates           |
+| SN2                   | One-step backside attack, favoured by methyl and primary substrates |
+| Haloarene stability   | Resonance gives partial double-bond character to `C-X`              |
+| Elimination           | Base removes hydrogen halide to form alkene                         |
+| Organometallics       | Alkyl halides form Grignard reagents with magnesium                 |
 
 # Unit 1A: Classification
 
@@ -57,24 +58,24 @@ Haloalkanes and haloarenes can be classified in several ways.
 
 ## By Number of Halogen Atoms
 
-| Type | Meaning | Example |
-|---|---|---|
-| Monohalogen compound | One halogen atom | `CH3Cl` |
-| Dihalogen compound | Two halogen atoms | `CH2Cl2` |
-| Trihalogen compound | Three halogen atoms | `CHCl3` |
-| Polyhalogen compound | Many halogen atoms | `CCl4` |
+| Type                 | Meaning             | Example  |
+| -------------------- | ------------------- | -------- |
+| Monohalogen compound | One halogen atom    | `CH3Cl`  |
+| Dihalogen compound   | Two halogen atoms   | `CH2Cl2` |
+| Trihalogen compound  | Three halogen atoms | `CHCl3`  |
+| Polyhalogen compound | Many halogen atoms  | `CCl4`   |
 
 ## By Carbon Attached to Halogen
 
-| Type | Structure idea | Example |
-|---|---|---|
-| Primary alkyl halide | Halogen carbon attached to one carbon | `CH3CH2Cl` |
-| Secondary alkyl halide | Halogen carbon attached to two carbons | `CH3CHClCH3` |
-| Tertiary alkyl halide | Halogen carbon attached to three carbons | `(CH3)3CCl` |
-| Allylic halide | Halogen on carbon next to `C=C` | `CH2=CHCH2Cl` |
-| Benzylic halide | Halogen on carbon next to benzene ring | `C6H5CH2Cl` |
-| Vinylic halide | Halogen directly on alkene carbon | `CH2=CHCl` |
-| Aryl halide | Halogen directly on aromatic ring | `C6H5Cl` |
+| Type                   | Structure idea                           | Example       |
+| ---------------------- | ---------------------------------------- | ------------- |
+| Primary alkyl halide   | Halogen carbon attached to one carbon    | `CH3CH2Cl`    |
+| Secondary alkyl halide | Halogen carbon attached to two carbons   | `CH3CHClCH3`  |
+| Tertiary alkyl halide  | Halogen carbon attached to three carbons | `(CH3)3CCl`   |
+| Allylic halide         | Halogen on carbon next to `C=C`          | `CH2=CHCH2Cl` |
+| Benzylic halide        | Halogen on carbon next to benzene ring   | `C6H5CH2Cl`   |
+| Vinylic halide         | Halogen directly on alkene carbon        | `CH2=CHCl`    |
+| Aryl halide            | Halogen directly on aromatic ring        | `C6H5Cl`      |
 
 # Unit 1B: Nomenclature
 
@@ -82,14 +83,14 @@ In IUPAC naming, halogens are treated as prefixes: fluoro, chloro, bromo, and io
 
 Examples:
 
-| Formula | IUPAC name |
-|---|---|
-| `CH3CH2Cl` | chloroethane |
-| `CH3CHBrCH3` | 2-bromopropane |
-| `CH2Cl2` | dichloromethane |
-| `CHCl3` | trichloromethane |
-| `CCl4` | tetrachloromethane |
-| `C6H5Cl` | chlorobenzene |
+| Formula      | IUPAC name         |
+| ------------ | ------------------ |
+| `CH3CH2Cl`   | chloroethane       |
+| `CH3CHBrCH3` | 2-bromopropane     |
+| `CH2Cl2`     | dichloromethane    |
+| `CHCl3`      | trichloromethane   |
+| `CCl4`       | tetrachloromethane |
+| `C6H5Cl`     | chlorobenzene      |
 
 For substituted benzene rings, use locants or common o-, m-, p- notation where appropriate.
 
@@ -163,13 +164,13 @@ These routes are important because direct substitution on benzene is selective a
 
 # Unit 1F: Physical Properties
 
-| Property | Trend |
-|---|---|
-| Boiling point | Increases with molecular mass and surface area. |
-| Density | Many bromo, iodo, and polyhalo compounds are denser than water. |
-| Solubility in water | Low, because they cannot form strong hydrogen bonds with water. |
-| Solubility in organic solvents | Usually good. |
-| Boiling point among isomers | Straight-chain isomers usually have higher boiling points than branched isomers. |
+| Property                       | Trend                                                                            |
+| ------------------------------ | -------------------------------------------------------------------------------- |
+| Boiling point                  | Increases with molecular mass and surface area.                                  |
+| Density                        | Many bromo, iodo, and polyhalo compounds are denser than water.                  |
+| Solubility in water            | Low, because they cannot form strong hydrogen bonds with water.                  |
+| Solubility in organic solvents | Usually good.                                                                    |
+| Boiling point among isomers    | Straight-chain isomers usually have higher boiling points than branched isomers. |
 
 Bond polarity exists, but water solubility remains low because energy released by solvation is not enough to break strong water-water hydrogen bonding.
 
@@ -183,14 +184,14 @@ General:
 
 Examples:
 
-| Reagent | Product |
-|---|---|
-| Aqueous `KOH` | Alcohol |
-| Alcoholic `KCN` | Nitrile |
-| `AgCN` | Isocyanide |
-| `NH3` | Amine |
-| `KNO2` | Alkyl nitrite |
-| `AgNO2` | Nitroalkane |
+| Reagent         | Product       |
+| --------------- | ------------- |
+| Aqueous `KOH`   | Alcohol       |
+| Alcoholic `KCN` | Nitrile       |
+| `AgCN`          | Isocyanide    |
+| `NH3`           | Amine         |
+| `KNO2`          | Alkyl nitrite |
+| `AgNO2`         | Nitroalkane   |
 
 The difference between `KCN` and `AgCN` is important. `KCN` is ionic and attacks mainly through carbon to form nitrile. `AgCN` has more covalent character and often gives isocyanide.
 
@@ -238,15 +239,15 @@ Reactivity order for SN1:
 
 # Unit 1J: SN1 vs SN2
 
-| Feature | SN1 | SN2 |
-|---|---|---|
-| Molecularity | Unimolecular rate-determining step | Bimolecular |
-| Rate law | `k[R-X]` | `k[R-X][Nu-]` |
-| Intermediate | Carbocation | None |
-| Favoured substrate | Tertiary | Methyl, primary |
-| Stereochemistry | Racemisation often | Inversion |
-| Solvent | Polar protic | Polar aprotic often |
-| Steric hindrance | Less harmful | Strongly harmful |
+| Feature            | SN1                                | SN2                 |
+| ------------------ | ---------------------------------- | ------------------- |
+| Molecularity       | Unimolecular rate-determining step | Bimolecular         |
+| Rate law           | `k[R-X]`                           | `k[R-X][Nu-]`       |
+| Intermediate       | Carbocation                        | None                |
+| Favoured substrate | Tertiary                           | Methyl, primary     |
+| Stereochemistry    | Racemisation often                 | Inversion           |
+| Solvent            | Polar protic                       | Polar aprotic often |
+| Steric hindrance   | Less harmful                       | Strongly harmful    |
 
 # Unit 1K: Elimination Reactions
 
@@ -313,38 +314,38 @@ Examples:
 
 # Unit 1O: Polyhalogen Compounds
 
-| Compound | Important points |
-|---|---|
-| Dichloromethane | Used as solvent; harmful by inhalation. |
-| Chloroform | Former anaesthetic; can oxidise to poisonous phosgene. |
-| Iodoform | Yellow solid with antiseptic history. |
+| Compound             | Important points                                                        |
+| -------------------- | ----------------------------------------------------------------------- |
+| Dichloromethane      | Used as solvent; harmful by inhalation.                                 |
+| Chloroform           | Former anaesthetic; can oxidise to poisonous phosgene.                  |
+| Iodoform             | Yellow solid with antiseptic history.                                   |
 | Carbon tetrachloride | Solvent and fire extinguisher history; toxic and ozone-related concern. |
-| Freons | Chlorofluorocarbons; damage ozone layer. |
-| DDT | Powerful insecticide; persistent environmental pollutant. |
+| Freons               | Chlorofluorocarbons; damage ozone layer.                                |
+| DDT                  | Powerful insecticide; persistent environmental pollutant.               |
 
 # Unit 1P: Reaction Selection Toolkit
 
-| Desired conversion | Reagent or condition |
-|---|---|
-| Alcohol to chloroalkane | `HCl/ZnCl2` or `SOCl2` |
-| Alkene to haloalkane | `HX` |
-| Alkane to haloalkane | `Cl2` or `Br2` with light |
-| Haloalkane to alcohol | Aqueous `KOH` |
-| Haloalkane to alkene | Alcoholic `KOH` |
-| Haloalkane to nitrile | `KCN` |
-| Haloalkane to amine | Excess `NH3` |
-| Aryl diazonium salt to aryl chloride | `CuCl/HCl` |
-| Alkyl halide to Grignard reagent | `Mg`, dry ether |
+| Desired conversion                   | Reagent or condition      |
+| ------------------------------------ | ------------------------- |
+| Alcohol to chloroalkane              | `HCl/ZnCl2` or `SOCl2`    |
+| Alkene to haloalkane                 | `HX`                      |
+| Alkane to haloalkane                 | `Cl2` or `Br2` with light |
+| Haloalkane to alcohol                | Aqueous `KOH`             |
+| Haloalkane to alkene                 | Alcoholic `KOH`           |
+| Haloalkane to nitrile                | `KCN`                     |
+| Haloalkane to amine                  | Excess `NH3`              |
+| Aryl diazonium salt to aryl chloride | `CuCl/HCl`                |
+| Alkyl halide to Grignard reagent     | `Mg`, dry ether           |
 
 # Unit 1Q: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Using aqueous `KOH` for elimination | Aqueous `KOH` favours substitution; alcoholic `KOH` favours elimination. |
-| Saying haloarenes are more reactive because benzene is reactive | Haloarenes resist nucleophilic substitution due to resonance in `C-X`. |
-| Confusing SN1 and SN2 stereochemistry | SN2 gives inversion; SN1 often gives racemisation. |
-| Ignoring dryness in Grignard preparation | Grignard reagents are destroyed by water. |
-| Treating halogens as activating in haloarenes | Halogens are deactivating but ortho-para directing. |
+| Mistake                                                         | Correction                                                               |
+| --------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| Using aqueous `KOH` for elimination                             | Aqueous `KOH` favours substitution; alcoholic `KOH` favours elimination. |
+| Saying haloarenes are more reactive because benzene is reactive | Haloarenes resist nucleophilic substitution due to resonance in `C-X`.   |
+| Confusing SN1 and SN2 stereochemistry                           | SN2 gives inversion; SN1 often gives racemisation.                       |
+| Ignoring dryness in Grignard preparation                        | Grignard reagents are destroyed by water.                                |
+| Treating halogens as activating in haloarenes                   | Halogens are deactivating but ortho-para directing.                      |
 
 ## Practice Set
 

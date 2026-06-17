@@ -249,17 +249,17 @@ Change is often uneven. Old and new forms may coexist.
 
 ## 16. Key Terms
 
-| Term | Meaning |
-|---|---|
-| Social institution | Stable pattern of norms and roles organised around social needs |
-| Family | Group connected by kinship, marriage, adoption, or care |
-| Marriage | Socially recognised union regulating family and reproduction |
-| Kinship | Socially recognised relation based on descent, marriage, or adoption |
-| Economy | Institution of production, distribution, and consumption |
-| Polity | Institution of power and governance |
-| Religion | Beliefs and practices around sacred meanings |
-| Education | Institution for learning, socialisation, and certification |
-| Authority | Legitimate power |
+| Term               | Meaning                                                              |
+| ------------------ | -------------------------------------------------------------------- |
+| Social institution | Stable pattern of norms and roles organised around social needs      |
+| Family             | Group connected by kinship, marriage, adoption, or care              |
+| Marriage           | Socially recognised union regulating family and reproduction         |
+| Kinship            | Socially recognised relation based on descent, marriage, or adoption |
+| Economy            | Institution of production, distribution, and consumption             |
+| Polity             | Institution of power and governance                                  |
+| Religion           | Beliefs and practices around sacred meanings                         |
+| Education          | Institution for learning, socialisation, and certification           |
+| Authority          | Legitimate power                                                     |
 
 ## 17. Exam-Oriented Summary
 
@@ -279,4 +279,3 @@ Institutions vary across societies and change over time. Sociology studies insti
 8. How does sociology study religion?
 9. How can education reproduce inequality?
 10. How do institutions change?
-

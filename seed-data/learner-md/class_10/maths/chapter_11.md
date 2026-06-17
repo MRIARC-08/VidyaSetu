@@ -1,4 +1,5 @@
 # Chapter 11: Areas Related to Circles
+
 ### NCERT Class 10 - Maths
 
 This learner version rewrites the raw chapter into a clean guide on sectors, segments, arcs, and circular-region applications. It corrects extraction damage in formulas and gives detailed solutions to all exercise questions.
@@ -7,14 +8,14 @@ This learner version rewrites the raw chapter into a clean guide on sectors, seg
 
 ## Chapter at a Glance
 
-| Item | Details |
-|---|---|
-| Class | 10 |
-| Subject | Maths |
-| Chapter | 11 |
-| Chapter name | Areas Related to Circles |
-| Main topic | Sector and segment areas |
-| Main formulas | Arc length, area of sector, area of segment |
+| Item                | Details                                                                            |
+| ------------------- | ---------------------------------------------------------------------------------- |
+| Class               | 10                                                                                 |
+| Subject             | Maths                                                                              |
+| Chapter             | 11                                                                                 |
+| Chapter name        | Areas Related to Circles                                                           |
+| Main topic          | Sector and segment areas                                                           |
+| Main formulas       | Arc length, area of sector, area of segment                                        |
 | Common applications | Clocks, umbrellas, wipers, grazing fields, brooches, lighthouses, circular designs |
 
 ---
@@ -37,17 +38,17 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Sector | Region enclosed by two radii and the corresponding arc |
-| Minor sector | Smaller sector formed by two radii |
-| Major sector | Larger remaining sector |
-| Segment | Region enclosed by a chord and its corresponding arc |
-| Minor segment | Smaller segment cut off by a chord |
-| Major segment | Larger remaining segment |
-| Arc | Part of the circumference of a circle |
-| Central angle | Angle made at the centre by two radii |
-| Quadrant | One-fourth of a circle |
+| Term          | Meaning                                                |
+| ------------- | ------------------------------------------------------ |
+| Sector        | Region enclosed by two radii and the corresponding arc |
+| Minor sector  | Smaller sector formed by two radii                     |
+| Major sector  | Larger remaining sector                                |
+| Segment       | Region enclosed by a chord and its corresponding arc   |
+| Minor segment | Smaller segment cut off by a chord                     |
+| Major segment | Larger remaining segment                               |
+| Arc           | Part of the circumference of a circle                  |
+| Central angle | Angle made at the centre by two radii                  |
+| Quadrant      | One-fourth of a circle                                 |
 
 ---
 
@@ -990,30 +991,30 @@ $$
 
 # Unit 11F: Quick Reference
 
-| Question clue | Use |
-|---|---|
-| Area swept by hand or wiper | Sector area |
-| Length of arc | Arc length formula |
-| Quadrant | One-fourth of circle |
-| Segment | Sector area minus triangle area |
-| Major sector | Circle area minus minor sector |
-| Major segment | Circle area minus minor segment |
-| Equal ribs or diameters | Divide circle into equal sectors |
-| Tied at corner | Usually quadrant of a circle |
+| Question clue               | Use                              |
+| --------------------------- | -------------------------------- |
+| Area swept by hand or wiper | Sector area                      |
+| Length of arc               | Arc length formula               |
+| Quadrant                    | One-fourth of circle             |
+| Segment                     | Sector area minus triangle area  |
+| Major sector                | Circle area minus minor sector   |
+| Major segment               | Circle area minus minor segment  |
+| Equal ribs or diameters     | Divide circle into equal sectors |
+| Tied at corner              | Usually quadrant of a circle     |
 
 ---
 
 # Unit 11G: Common Mistakes and Corrections
 
-| Mistake | Why it is wrong | Correct habit |
-|---|---|---|
-| Using full circle area for a sector | Sector is only a fraction of the circle | Multiply by `theta/360` |
-| Confusing sector and segment | Segment excludes the triangle formed by radii | Segment = sector - triangle |
-| Forgetting major sector | Major sector is the remaining part of circle | Subtract minor sector from full circle |
-| Using diameter as radius | Formula needs radius | Halve the diameter first |
-| Ignoring given value of `pi` | Different questions specify different values | Use the value stated in the question |
-| Rounding too early | Final answer may change | Keep exact fractions until final step |
-| Treating all segments as semicircles | Segment depends on chord and angle | Identify the central angle |
+| Mistake                              | Why it is wrong                               | Correct habit                          |
+| ------------------------------------ | --------------------------------------------- | -------------------------------------- |
+| Using full circle area for a sector  | Sector is only a fraction of the circle       | Multiply by `theta/360`                |
+| Confusing sector and segment         | Segment excludes the triangle formed by radii | Segment = sector - triangle            |
+| Forgetting major sector              | Major sector is the remaining part of circle  | Subtract minor sector from full circle |
+| Using diameter as radius             | Formula needs radius                          | Halve the diameter first               |
+| Ignoring given value of `pi`         | Different questions specify different values  | Use the value stated in the question   |
+| Rounding too early                   | Final answer may change                       | Keep exact fractions until final step  |
+| Treating all segments as semicircles | Segment depends on chord and angle            | Identify the central angle             |
 
 ---
 
@@ -1052,4 +1053,3 @@ $$
 6. A quadrant is one-fourth of a circle.
 7. If a circle is divided into equal sectors, divide the total area or circumference equally.
 8. For figure-based design questions, identify whether the design is a sector, segment, or combination of both.
-

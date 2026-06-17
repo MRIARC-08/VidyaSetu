@@ -1,21 +1,22 @@
 # Chapter 8: Bholi - Education, Dignity, and Voice
+
 ### NCERT Class 10 - English Footprints
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 10 |
-| **Subject** | English Footprints |
-| **Chapter** | 8 |
-| **Actual Main Text** | "Bholi" by K. A. Abbas |
-| **Raw File Header** | "The Hack Driver" |
-| **Textbook Pages** | 47-55 |
-| **Genre** | Social story / transformation story |
-| **Core Theme** | Education, self-respect, gender bias, disability, speech, dowry, courage, dignity, and the role of a teacher. |
-| **Main Skills** | Character transformation, social issue analysis, theme writing, evidence-based answers, poster design, and discussion. |
+| Detail               | Learner-Friendly Information                                                                                           |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| **Class**            | 10                                                                                                                     |
+| **Subject**          | English Footprints                                                                                                     |
+| **Chapter**          | 8                                                                                                                      |
+| **Actual Main Text** | "Bholi" by K. A. Abbas                                                                                                 |
+| **Raw File Header**  | "The Hack Driver"                                                                                                      |
+| **Textbook Pages**   | 47-55                                                                                                                  |
+| **Genre**            | Social story / transformation story                                                                                    |
+| **Core Theme**       | Education, self-respect, gender bias, disability, speech, dowry, courage, dignity, and the role of a teacher.          |
+| **Main Skills**      | Character transformation, social issue analysis, theme writing, evidence-based answers, poster design, and discussion. |
 
 > [!NOTE]
 > The raw source file is `chapter_08.md` and its extraction header says "The Hack Driver", but the actual chapter content contains **Bholi**. This learner-facing version follows the actual chapter content.
@@ -24,16 +25,16 @@
 
 ## Section Structure
 
-| Unit | Text / Skill | Main Learning Focus |
-|---|---|---|
-| **8A** | Bholi's Childhood | Neglect, injury, smallpox, stammer, ridicule, and silence. |
-| **8B** | Sent to School | Tehsildar's instruction, family attitude, and unusual reasons for schooling. |
-| **8C** | First Day at School | Fear, clean clothes, classroom, pictures, and teacher's kindness. |
-| **8D** | Teacher's Role | Encouragement, speech, confidence, respect, and hope. |
-| **8E** | Marriage Proposal | Bishamber, dowry, family honour, and unequal match. |
-| **8F** | Bholi's Refusal | Clear voice, moral courage, rejection of greed, and self-respect. |
-| **8G** | Thinking About It | Name Sulekha, education, gender rights, social attitudes, and language clues. |
-| **8H** | Vocabulary and Style | Glossary, themes, character study, and revision. |
+| Unit   | Text / Skill         | Main Learning Focus                                                           |
+| ------ | -------------------- | ----------------------------------------------------------------------------- |
+| **8A** | Bholi's Childhood    | Neglect, injury, smallpox, stammer, ridicule, and silence.                    |
+| **8B** | Sent to School       | Tehsildar's instruction, family attitude, and unusual reasons for schooling.  |
+| **8C** | First Day at School  | Fear, clean clothes, classroom, pictures, and teacher's kindness.             |
+| **8D** | Teacher's Role       | Encouragement, speech, confidence, respect, and hope.                         |
+| **8E** | Marriage Proposal    | Bishamber, dowry, family honour, and unequal match.                           |
+| **8F** | Bholi's Refusal      | Clear voice, moral courage, rejection of greed, and self-respect.             |
+| **8G** | Thinking About It    | Name Sulekha, education, gender rights, social attitudes, and language clues. |
+| **8H** | Vocabulary and Style | Glossary, themes, character study, and revision.                              |
 
 ---
 
@@ -41,34 +42,34 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Retell the story** | Explain Bholi's movement from neglected child to self-respecting woman. |
-| **Analyse character change** | Show how education and kindness transform Bholi. |
-| **Discuss social issues** | Explain gender discrimination, dowry, disability stigma, and unequal treatment. |
-| **Understand teacher's role** | Describe how one teacher changes a student's life. |
-| **Interpret naming** | Explain why Bholi is called Sulekha near the end. |
-| **Support gender equality** | Discuss rights, duties, privileges, and equal respect. |
-| **Use vocabulary** | Understand simpleton, numberdar, matted, squatted, scurried, ginning, and downcast. |
-| **Create awareness material** | Design poster ideas for girl-child education and dignity. |
+| Outcome                       | You Should Be Able To...                                                            |
+| ----------------------------- | ----------------------------------------------------------------------------------- |
+| **Retell the story**          | Explain Bholi's movement from neglected child to self-respecting woman.             |
+| **Analyse character change**  | Show how education and kindness transform Bholi.                                    |
+| **Discuss social issues**     | Explain gender discrimination, dowry, disability stigma, and unequal treatment.     |
+| **Understand teacher's role** | Describe how one teacher changes a student's life.                                  |
+| **Interpret naming**          | Explain why Bholi is called Sulekha near the end.                                   |
+| **Support gender equality**   | Discuss rights, duties, privileges, and equal respect.                              |
+| **Use vocabulary**            | Understand simpleton, numberdar, matted, squatted, scurried, ginning, and downcast. |
+| **Create awareness material** | Design poster ideas for girl-child education and dignity.                           |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Bholi** | Means simple or innocent; used as a nickname that reduces her identity. |
-| **Sulekha** | Bholi's real name; symbolically restored near the end. |
-| **Simpleton** | Person considered foolish or easily tricked. |
-| **Numberdar** | Village revenue official. |
-| **Tehsildar** | Revenue officer in local administration. |
-| **Stammer** | Speech difficulty involving repeated or blocked sounds. |
-| **Pock-marks** | Marks left on skin after smallpox. |
-| **Dowry** | Money or goods demanded from bride's family in marriage; a harmful social practice. |
-| **Izzat** | Honour or social respect. |
-| **Contempt** | Strong disapproval or scorn. |
-| **Beti Bachao Beti Padhao** | Government campaign meaning "Save the Girl Child, Educate the Girl Child." |
+| Term                        | Meaning                                                                             |
+| --------------------------- | ----------------------------------------------------------------------------------- |
+| **Bholi**                   | Means simple or innocent; used as a nickname that reduces her identity.             |
+| **Sulekha**                 | Bholi's real name; symbolically restored near the end.                              |
+| **Simpleton**               | Person considered foolish or easily tricked.                                        |
+| **Numberdar**               | Village revenue official.                                                           |
+| **Tehsildar**               | Revenue officer in local administration.                                            |
+| **Stammer**                 | Speech difficulty involving repeated or blocked sounds.                             |
+| **Pock-marks**              | Marks left on skin after smallpox.                                                  |
+| **Dowry**                   | Money or goods demanded from bride's family in marriage; a harmful social practice. |
+| **Izzat**                   | Honour or social respect.                                                           |
+| **Contempt**                | Strong disapproval or scorn.                                                        |
+| **Beti Bachao Beti Padhao** | Government campaign meaning "Save the Girl Child, Educate the Girl Child."          |
 
 ---
 
@@ -106,12 +107,12 @@ This shows how ridicule can silence a child more than the speech problem itself.
 
 ## Family Treatment
 
-| Other Children | Bholi |
-|---|---|
-| Sons are sent to city for education. | Bholi is neglected. |
-| Daughters are considered marriageable. | Bholi is seen as a burden. |
-| Good clothes are available. | Bholi gets old, unwashed dresses. |
-| Healthy and strong. | Treated as weak, ugly, and foolish. |
+| Other Children                         | Bholi                               |
+| -------------------------------------- | ----------------------------------- |
+| Sons are sent to city for education.   | Bholi is neglected.                 |
+| Daughters are considered marriageable. | Bholi is seen as a burden.          |
+| Good clothes are available.            | Bholi gets old, unwashed dresses.   |
+| Healthy and strong.                    | Treated as weak, ugly, and foolish. |
 
 ## Why Ramlal Is Worried
 
@@ -143,9 +144,9 @@ This is ironic: the family sends Bholi to school because they do not value her, 
 
 ## Read and Find Out
 
-| Question | Answer |
-|---|---|
-| Why is Bholi's father worried about her? | He worries that her looks, stammer, and perceived lack of sense will prevent marriage. |
+| Question                                         | Answer                                                                                  |
+| ------------------------------------------------ | --------------------------------------------------------------------------------------- |
+| Why is Bholi's father worried about her?         | He worries that her looks, stammer, and perceived lack of sense will prevent marriage.  |
 | For what unusual reason is Bholi sent to school? | The Tehsildar's pressure and the family's belief that Bholi has little marriage chance. |
 
 ---
@@ -191,13 +192,13 @@ Later, yes. The teacher's kindness gives her relief and hope.
 
 ## How Is the Teacher Different from People at Home?
 
-| People at Home / Village | Teacher |
-|---|---|
-| Call her fool or simpleton. | Calls her gently by name. |
-| Laugh at her stammer. | Encourages each attempt. |
-| Neglect her appearance. | Gives emotional attention. |
-| Assume she has no future. | Promises learning and respect. |
-| Silence her. | Helps her speak. |
+| People at Home / Village    | Teacher                        |
+| --------------------------- | ------------------------------ |
+| Call her fool or simpleton. | Calls her gently by name.      |
+| Laugh at her stammer.       | Encourages each attempt.       |
+| Neglect her appearance.     | Gives emotional attention.     |
+| Assume she has no future.   | Promises learning and respect. |
+| Silence her.                | Helps her speak.               |
 
 ## Teacher's Method
 
@@ -429,67 +430,67 @@ Clues:
 
 ## Glossary from the Chapter
 
-| Word | Meaning |
-|---|---|
+| Word          | Meaning                                  |
+| ------------- | ---------------------------------------- |
 | **Simpleton** | Foolish person easily tricked by others. |
-| **Numberdar** | Official who collects revenue. |
-| **Matted** | Tangled. |
-| **Squatted** | Sat on heels. |
-| **Scurried** | Moved hurriedly. |
-| **Ginning** | Separating cotton from seeds. |
-| **Downcast** | Looking downward. |
+| **Numberdar** | Official who collects revenue.           |
+| **Matted**    | Tangled.                                 |
+| **Squatted**  | Sat on heels.                            |
+| **Scurried**  | Moved hurriedly.                         |
+| **Ginning**   | Separating cotton from seeds.            |
+| **Downcast**  | Looking downward.                        |
 
 ## Important Expressions
 
-| Expression | Meaning |
-|---|---|
-| **Dumb cow** | Cruel insult suggesting silent helplessness. |
-| **Cold contempt** | Calm but strong rejection. |
-| **Measure up to expectations** | Prove worthy of someone's hopes. |
-| **Weight of grief and shame** | Heavy emotional burden. |
+| Expression                        | Meaning                                           |
+| --------------------------------- | ------------------------------------------------- |
+| **Dumb cow**                      | Cruel insult suggesting silent helplessness.      |
+| **Cold contempt**                 | Calm but strong rejection.                        |
+| **Measure up to expectations**    | Prove worthy of someone's hopes.                  |
+| **Weight of grief and shame**     | Heavy emotional burden.                           |
 | **Completion of her masterpiece** | Teacher's satisfaction at Bholi's transformation. |
 
 ## Themes
 
-| Theme | Explanation |
-|---|---|
-| **Education** | Gives Bholi confidence and future. |
-| **Gender bias** | Sons and daughters are treated differently. |
-| **Disability stigma** | Bholi is mocked for speech and appearance. |
-| **Dowry** | Bishamber's demand exposes greed. |
-| **Teacher's power** | One compassionate teacher changes a life. |
-| **Self-respect** | Bholi refuses a humiliating marriage. |
+| Theme                 | Explanation                                 |
+| --------------------- | ------------------------------------------- |
+| **Education**         | Gives Bholi confidence and future.          |
+| **Gender bias**       | Sons and daughters are treated differently. |
+| **Disability stigma** | Bholi is mocked for speech and appearance.  |
+| **Dowry**             | Bishamber's demand exposes greed.           |
+| **Teacher's power**   | One compassionate teacher changes a life.   |
+| **Self-respect**      | Bholi refuses a humiliating marriage.       |
 
 ## Character Study
 
 ### Bholi / Sulekha
 
-| Stage | Description |
-|---|---|
-| **Childhood** | Neglected, mocked, quiet, afraid. |
-| **First school day** | Fearful but touched by kindness. |
-| **Years later** | Educated, thoughtful, self-aware. |
-| **Wedding moment** | Courageous, clear-voiced, self-respecting. |
-| **Future plan** | Will serve parents and become a teacher. |
+| Stage                | Description                                |
+| -------------------- | ------------------------------------------ |
+| **Childhood**        | Neglected, mocked, quiet, afraid.          |
+| **First school day** | Fearful but touched by kindness.           |
+| **Years later**      | Educated, thoughtful, self-aware.          |
+| **Wedding moment**   | Courageous, clear-voiced, self-respecting. |
+| **Future plan**      | Will serve parents and become a teacher.   |
 
 ### Bholi's Teacher
 
-| Trait | Evidence |
-|---|---|
-| **Kind** | Speaks softly and respectfully. |
-| **Patient** | Helps Bholi say her name. |
-| **Encouraging** | Praises small success. |
-| **Visionary** | Sees Bholi's potential. |
-| **Successful** | Watches Bholi's courage with deep satisfaction. |
+| Trait           | Evidence                                        |
+| --------------- | ----------------------------------------------- |
+| **Kind**        | Speaks softly and respectfully.                 |
+| **Patient**     | Helps Bholi say her name.                       |
+| **Encouraging** | Praises small success.                          |
+| **Visionary**   | Sees Bholi's potential.                         |
+| **Successful**  | Watches Bholi's courage with deep satisfaction. |
 
 ### Bishamber
 
-| Trait | Evidence |
-|---|---|
-| **Greedy** | Demands five thousand rupees. |
-| **Cruel** | Humiliates Ramlal at the wedding. |
-| **Cowardly** | Exploits Bholi's situation. |
-| **Materialistic** | Values money over dignity. |
+| Trait             | Evidence                          |
+| ----------------- | --------------------------------- |
+| **Greedy**        | Demands five thousand rupees.     |
+| **Cruel**         | Humiliates Ramlal at the wedding. |
+| **Cowardly**      | Exploits Bholi's situation.       |
+| **Materialistic** | Values money over dignity.        |
 
 ---
 
@@ -554,4 +555,4 @@ Clues:
 
 ---
 
-*Source: NCERT Class 10 - English Footprints, Chapter 8 raw file. Learner-facing version manually rewritten from the extracted content of "Bholi".*
+_Source: NCERT Class 10 - English Footprints, Chapter 8 raw file. Learner-facing version manually rewritten from the extracted content of "Bholi"._

@@ -1,4 +1,5 @@
 # Chapter 4: Amines
+
 ### NCERT Class 12 - Chemistry Part 2
 
 ## Chapter at a Glance
@@ -23,47 +24,47 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Amine | Organic derivative of ammonia. |
-| Primary amine | Nitrogen attached to one carbon group and two hydrogens. |
-| Secondary amine | Nitrogen attached to two carbon groups and one hydrogen. |
-| Tertiary amine | Nitrogen attached to three carbon groups. |
-| Arylamine | Amine in which nitrogen is directly attached to aromatic ring. |
-| Basicity | Tendency to accept proton. |
-| Ammonolysis | Cleavage of carbon-halogen bond by ammonia. |
-| Gabriel synthesis | Method for preparing primary aliphatic amines. |
-| Hoffmann bromamide reaction | Conversion of amide to primary amine with one carbon less. |
-| Diazonium salt | Compound containing `Ar-N2+X-`. |
+| Term                        | Meaning                                                        |
+| --------------------------- | -------------------------------------------------------------- |
+| Amine                       | Organic derivative of ammonia.                                 |
+| Primary amine               | Nitrogen attached to one carbon group and two hydrogens.       |
+| Secondary amine             | Nitrogen attached to two carbon groups and one hydrogen.       |
+| Tertiary amine              | Nitrogen attached to three carbon groups.                      |
+| Arylamine                   | Amine in which nitrogen is directly attached to aromatic ring. |
+| Basicity                    | Tendency to accept proton.                                     |
+| Ammonolysis                 | Cleavage of carbon-halogen bond by ammonia.                    |
+| Gabriel synthesis           | Method for preparing primary aliphatic amines.                 |
+| Hoffmann bromamide reaction | Conversion of amide to primary amine with one carbon less.     |
+| Diazonium salt              | Compound containing `Ar-N2+X-`.                                |
 
 ## Quick Learning Map
 
-| Area | Core idea |
-|---|---|
-| Classification | Count carbon groups attached to nitrogen |
-| Basicity | Lone pair availability controls proton acceptance |
-| Preparation | Reduction and substitution methods dominate |
-| Reactions | Basicity, nucleophilicity, acylation, diazotisation |
-| Diazonium salts | Key bridge from aniline to many aromatic compounds |
+| Area            | Core idea                                           |
+| --------------- | --------------------------------------------------- |
+| Classification  | Count carbon groups attached to nitrogen            |
+| Basicity        | Lone pair availability controls proton acceptance   |
+| Preparation     | Reduction and substitution methods dominate         |
+| Reactions       | Basicity, nucleophilicity, acylation, diazotisation |
+| Diazonium salts | Key bridge from aniline to many aromatic compounds  |
 
 # Unit 4A: Classification
 
 Amines are classified according to the number of hydrogen atoms of ammonia replaced by carbon groups.
 
-| Type | General formula | Example |
-|---|---|---|
-| Primary amine | `R-NH2` | methylamine |
-| Secondary amine | `R-NH-R'` | dimethylamine |
-| Tertiary amine | `R3N` | trimethylamine |
+| Type            | General formula | Example        |
+| --------------- | --------------- | -------------- |
+| Primary amine   | `R-NH2`         | methylamine    |
+| Secondary amine | `R-NH-R'`       | dimethylamine  |
+| Tertiary amine  | `R3N`           | trimethylamine |
 
 If all carbon groups are same, the amine is simple. If different groups are attached, it is mixed.
 
 ## Aliphatic vs Aromatic Amines
 
-| Type | Meaning | Example |
-|---|---|---|
-| Aliphatic amine | Nitrogen attached to alkyl group | `CH3NH2` |
-| Aromatic amine | Nitrogen directly attached to aryl group | `C6H5NH2` |
+| Type            | Meaning                                  | Example   |
+| --------------- | ---------------------------------------- | --------- |
+| Aliphatic amine | Nitrogen attached to alkyl group         | `CH3NH2`  |
+| Aromatic amine  | Nitrogen directly attached to aryl group | `C6H5NH2` |
 
 Aniline is the simplest aromatic amine.
 
@@ -88,12 +89,12 @@ Common names are formed by naming alkyl groups followed by "amine".
 
 Examples:
 
-| Formula | Common name |
-|---|---|
-| `CH3NH2` | methylamine |
-| `C2H5NH2` | ethylamine |
-| `(CH3)2NH` | dimethylamine |
-| `(CH3)3N` | trimethylamine |
+| Formula    | Common name    |
+| ---------- | -------------- |
+| `CH3NH2`   | methylamine    |
+| `C2H5NH2`  | ethylamine     |
+| `(CH3)2NH` | dimethylamine  |
+| `(CH3)3N`  | trimethylamine |
 
 ## IUPAC Names
 
@@ -101,12 +102,12 @@ Primary amines are named as alkanamines.
 
 Examples:
 
-| Formula | IUPAC name |
-|---|---|
-| `CH3NH2` | methanamine |
-| `CH3CH2NH2` | ethanamine |
-| `CH3CH(NH2)CH3` | propan-2-amine |
-| `C6H5NH2` | benzenamine, also called aniline |
+| Formula         | IUPAC name                       |
+| --------------- | -------------------------------- |
+| `CH3NH2`        | methanamine                      |
+| `CH3CH2NH2`     | ethanamine                       |
+| `CH3CH(NH2)CH3` | propan-2-amine                   |
+| `C6H5NH2`       | benzenamine, also called aniline |
 
 For secondary and tertiary amines, groups attached to nitrogen are shown with `N-` locants.
 
@@ -282,14 +283,14 @@ Diazonium salts are highly useful because the diazonium group can be replaced by
 
 ## Replacement Reactions
 
-| Product | Reagent or condition |
-|---|---|
-| Chlorobenzene | `CuCl/HCl` |
-| Bromobenzene | `CuBr/HBr` |
-| Iodobenzene | `KI` |
-| Benzonitrile | `CuCN/KCN` |
-| Phenol | Warm water |
-| Benzene | Hypophosphorous acid |
+| Product       | Reagent or condition   |
+| ------------- | ---------------------- |
+| Chlorobenzene | `CuCl/HCl`             |
+| Bromobenzene  | `CuBr/HBr`             |
+| Iodobenzene   | `KI`                   |
+| Benzonitrile  | `CuCN/KCN`             |
+| Phenol        | Warm water             |
+| Benzene       | Hypophosphorous acid   |
 | Fluorobenzene | Fluoroboric acid route |
 
 ## Coupling Reactions
@@ -302,37 +303,37 @@ benzene diazonium chloride plus phenol in alkaline medium gives an azo dye.
 
 # Unit 4J: Distinguishing Amines
 
-| Test or reaction | Primary amine | Secondary amine | Tertiary amine |
-|---|---|---|---|
-| Carbylamine test | Positive | Negative | Negative |
-| Acylation | Yes | Yes | No |
-| Nitrous acid | Alcohol or diazonium salt | N-nitroso compound | Salt or ring reaction |
-| Has `N-H` bond | Yes | Yes | No |
+| Test or reaction | Primary amine             | Secondary amine    | Tertiary amine        |
+| ---------------- | ------------------------- | ------------------ | --------------------- |
+| Carbylamine test | Positive                  | Negative           | Negative              |
+| Acylation        | Yes                       | Yes                | No                    |
+| Nitrous acid     | Alcohol or diazonium salt | N-nitroso compound | Salt or ring reaction |
+| Has `N-H` bond   | Yes                       | Yes                | No                    |
 
 # Unit 4K: Reaction Selection Toolkit
 
-| Desired conversion | Reagent or route |
-|---|---|
-| Nitrobenzene to aniline | Reduction |
-| Alkyl halide to primary amine | Excess ammonia |
-| Nitrile to amine with one extra carbon | Reduction |
-| Amide to amine with one less carbon | Hoffmann bromamide |
-| Primary aliphatic amine selectively | Gabriel synthesis |
-| Aniline to diazonium salt | `NaNO2/HCl`, `273-278 K` |
-| Diazonium salt to phenol | Warm water |
-| Diazonium salt to chlorobenzene | `CuCl/HCl` |
-| Aniline controlled nitration | Acetylate, nitrate, hydrolyse |
+| Desired conversion                     | Reagent or route              |
+| -------------------------------------- | ----------------------------- |
+| Nitrobenzene to aniline                | Reduction                     |
+| Alkyl halide to primary amine          | Excess ammonia                |
+| Nitrile to amine with one extra carbon | Reduction                     |
+| Amide to amine with one less carbon    | Hoffmann bromamide            |
+| Primary aliphatic amine selectively    | Gabriel synthesis             |
+| Aniline to diazonium salt              | `NaNO2/HCl`, `273-278 K`      |
+| Diazonium salt to phenol               | Warm water                    |
+| Diazonium salt to chlorobenzene        | `CuCl/HCl`                    |
+| Aniline controlled nitration           | Acetylate, nitrate, hydrolyse |
 
 # Unit 4L: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Saying tertiary amines undergo acylation | Tertiary amines lack `N-H`, so they do not form amides by acylation. |
-| Preparing arylamines by Gabriel synthesis | Gabriel synthesis is for primary aliphatic amines. |
-| Ignoring temperature in diazotisation | Keep `273-278 K` for stable diazonium salt formation. |
-| Saying aniline is more basic than ammonia | Aniline is less basic due to resonance delocalisation of lone pair. |
-| Forgetting over-alkylation in ammonolysis | Excess ammonia helps favour primary amine. |
-| Treating carbylamine as test for all amines | Only primary amines give positive carbylamine test. |
+| Mistake                                     | Correction                                                           |
+| ------------------------------------------- | -------------------------------------------------------------------- |
+| Saying tertiary amines undergo acylation    | Tertiary amines lack `N-H`, so they do not form amides by acylation. |
+| Preparing arylamines by Gabriel synthesis   | Gabriel synthesis is for primary aliphatic amines.                   |
+| Ignoring temperature in diazotisation       | Keep `273-278 K` for stable diazonium salt formation.                |
+| Saying aniline is more basic than ammonia   | Aniline is less basic due to resonance delocalisation of lone pair.  |
+| Forgetting over-alkylation in ammonolysis   | Excess ammonia helps favour primary amine.                           |
+| Treating carbylamine as test for all amines | Only primary amines give positive carbylamine test.                  |
 
 ## Practice Set
 

@@ -1,4 +1,5 @@
 # Chapter 6: Learning
+
 ### NCERT Class 11 Psychology
 
 ---
@@ -36,12 +37,12 @@ Learning is a relatively permanent change in behaviour or behavioural potential 
 
 Important features:
 
-| Feature | Meaning |
-|---|---|
-| Change | Learning produces some change |
-| Relatively permanent | Temporary fatigue or illness is not learning |
-| Based on experience | Practice, training, observation, or consequences matter |
-| Behaviour or potential | Learning may not always be immediately visible |
+| Feature                | Meaning                                                 |
+| ---------------------- | ------------------------------------------------------- |
+| Change                 | Learning produces some change                           |
+| Relatively permanent   | Temporary fatigue or illness is not learning            |
+| Based on experience    | Practice, training, observation, or consequences matter |
+| Behaviour or potential | Learning may not always be immediately visible          |
 
 Example:
 
@@ -57,12 +58,12 @@ It was demonstrated by Ivan Pavlov with dogs.
 
 ### Basic Terms
 
-| Term | Meaning |
-|---|---|
-| Unconditioned stimulus | Naturally produces a response |
-| Unconditioned response | Natural response to US |
-| Conditioned stimulus | Previously neutral stimulus that gains power through association |
-| Conditioned response | Learned response to CS |
+| Term                   | Meaning                                                          |
+| ---------------------- | ---------------------------------------------------------------- |
+| Unconditioned stimulus | Naturally produces a response                                    |
+| Unconditioned response | Natural response to US                                           |
+| Conditioned stimulus   | Previously neutral stimulus that gains power through association |
+| Conditioned response   | Learned response to CS                                           |
 
 ### Example
 
@@ -91,13 +92,13 @@ Classical conditioning explains many emotional and automatic responses.
 
 ## 3. Processes in Classical Conditioning
 
-| Process | Meaning |
-|---|---|
-| Acquisition | Learning of conditioned response |
-| Extinction | Conditioned response weakens when CS appears without US |
-| Spontaneous recovery | Extinguished response reappears after rest |
-| Generalisation | Similar stimuli produce similar response |
-| Discrimination | Learner responds differently to different stimuli |
+| Process              | Meaning                                                 |
+| -------------------- | ------------------------------------------------------- |
+| Acquisition          | Learning of conditioned response                        |
+| Extinction           | Conditioned response weakens when CS appears without US |
+| Spontaneous recovery | Extinguished response reappears after rest              |
+| Generalisation       | Similar stimuli produce similar response                |
+| Discrimination       | Learner responds differently to different stimuli       |
 
 Example:
 
@@ -115,13 +116,13 @@ If a behaviour is followed by reinforcement, it is more likely to occur again. I
 
 ### Key Terms
 
-| Term | Meaning |
-|---|---|
-| Reinforcer | Consequence that increases behaviour |
-| Punishment | Consequence that decreases behaviour |
-| Positive reinforcement | Adding pleasant consequence |
-| Negative reinforcement | Removing unpleasant condition |
-| Shaping | Reinforcing successive approximations to desired behaviour |
+| Term                   | Meaning                                                    |
+| ---------------------- | ---------------------------------------------------------- |
+| Reinforcer             | Consequence that increases behaviour                       |
+| Punishment             | Consequence that decreases behaviour                       |
+| Positive reinforcement | Adding pleasant consequence                                |
+| Negative reinforcement | Removing unpleasant condition                              |
+| Shaping                | Reinforcing successive approximations to desired behaviour |
 
 Example:
 
@@ -131,14 +132,14 @@ A student studies regularly because praise and good marks follow studying.
 
 ## 5. Reinforcement Schedules
 
-| Schedule | Meaning | Example |
-|---|---|---|
-| Continuous reinforcement | Every correct response is reinforced | Reward every correct answer |
-| Partial reinforcement | Some responses are reinforced | Reward sometimes |
-| Fixed ratio | Reinforcement after fixed number of responses | Reward after every 5 tasks |
-| Variable ratio | Reinforcement after varying number of responses | Unpredictable reward |
-| Fixed interval | Reinforcement after fixed time | Weekly test |
-| Variable interval | Reinforcement after varying time | Surprise quiz |
+| Schedule                 | Meaning                                         | Example                     |
+| ------------------------ | ----------------------------------------------- | --------------------------- |
+| Continuous reinforcement | Every correct response is reinforced            | Reward every correct answer |
+| Partial reinforcement    | Some responses are reinforced                   | Reward sometimes            |
+| Fixed ratio              | Reinforcement after fixed number of responses   | Reward after every 5 tasks  |
+| Variable ratio           | Reinforcement after varying number of responses | Unpredictable reward        |
+| Fixed interval           | Reinforcement after fixed time                  | Weekly test                 |
+| Variable interval        | Reinforcement after varying time                | Surprise quiz               |
 
 Variable schedules often produce strong and persistent behaviour.
 
@@ -146,13 +147,13 @@ Variable schedules often produce strong and persistent behaviour.
 
 ## 6. Classical vs Operant Conditioning
 
-| Basis | Classical conditioning | Operant conditioning |
-|---|---|---|
-| Learning basis | Association between stimuli | Consequences of behaviour |
-| Response type | Reflexive or automatic | Voluntary or emitted |
-| Learner role | More passive | More active |
-| Key term | CS, US, CR, UR | Reinforcement, punishment |
-| Example | Bell causes salivation | Lever pressing produces food |
+| Basis          | Classical conditioning      | Operant conditioning         |
+| -------------- | --------------------------- | ---------------------------- |
+| Learning basis | Association between stimuli | Consequences of behaviour    |
+| Response type  | Reflexive or automatic      | Voluntary or emitted         |
+| Learner role   | More passive                | More active                  |
+| Key term       | CS, US, CR, UR              | Reinforcement, punishment    |
+| Example        | Bell causes salivation      | Lever pressing produces food |
 
 ---
 
@@ -211,11 +212,11 @@ Verbal learning involves learning words, lists, pairs, and language material.
 
 Methods:
 
-| Method | Meaning |
-|---|---|
+| Method                     | Meaning                          |
+| -------------------------- | -------------------------------- |
 | Paired-associates learning | Learning pairs of words or items |
-| Serial learning | Learning items in a fixed order |
-| Free recall | Recalling items in any order |
+| Serial learning            | Learning items in a fixed order  |
+| Free recall                | Recalling items in any order     |
 
 ---
 
@@ -272,26 +273,26 @@ Learners with disabilities need support, diagnosis, patience, and appropriate te
 
 Learning principles are used in:
 
-| Area | Application |
-|---|---|
-| Education | Reinforcement, feedback, practice |
-| Therapy | Reducing phobias through counter-conditioning |
-| Parenting | Encouraging desirable behaviour |
-| Skill training | Step-by-step practice |
-| Behaviour modification | Reinforcing target behaviours |
-| Social learning | Modelling positive behaviour |
+| Area                   | Application                                   |
+| ---------------------- | --------------------------------------------- |
+| Education              | Reinforcement, feedback, practice             |
+| Therapy                | Reducing phobias through counter-conditioning |
+| Parenting              | Encouraging desirable behaviour               |
+| Skill training         | Step-by-step practice                         |
+| Behaviour modification | Reinforcing target behaviours                 |
+| Social learning        | Modelling positive behaviour                  |
 
 ---
 
 ## 14. Common Mistakes
 
-| Mistake | Correct understanding |
-|---|---|
-| Treating all behaviour change as learning | Temporary changes due to fatigue are not learning. |
-| Confusing classical and operant conditioning | Classical links stimuli; operant depends on consequences. |
-| Thinking punishment teaches desired behaviour | Punishment may suppress behaviour but does not teach replacement by itself. |
+| Mistake                                          | Correct understanding                                                        |
+| ------------------------------------------------ | ---------------------------------------------------------------------------- |
+| Treating all behaviour change as learning        | Temporary changes due to fatigue are not learning.                           |
+| Confusing classical and operant conditioning     | Classical links stimuli; operant depends on consequences.                    |
+| Thinking punishment teaches desired behaviour    | Punishment may suppress behaviour but does not teach replacement by itself.  |
 | Confusing negative reinforcement with punishment | Negative reinforcement increases behaviour by removing unpleasant condition. |
-| Ignoring cognition | Learning can involve insight, memory, and understanding. |
+| Ignoring cognition                               | Learning can involve insight, memory, and understanding.                     |
 
 ---
 

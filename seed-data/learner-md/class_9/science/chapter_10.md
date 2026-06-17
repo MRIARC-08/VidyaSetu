@@ -1,20 +1,21 @@
 # Chapter 10: Sound Waves: Characteristics and Applications
+
 ### NCERT Class 9 - Science
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 9 |
-| **Subject** | Science |
-| **Chapter** | 10 |
-| **Actual Chapter Title** | Sound Waves: Characteristics and Applications |
-| **Raw File Header** | "Work and Energy" |
-| **Textbook Pages** | 184-207 |
-| **Core Theme** | How sound is produced, how it travels, how sound waves are described, and how reflection and ultrasound are used. |
-| **Main Skill** | Connecting observable sound experiences with wave ideas, formulas, graphs, and applications. |
+| Detail                   | Learner-Friendly Information                                                                                      |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------- |
+| **Class**                | 9                                                                                                                 |
+| **Subject**              | Science                                                                                                           |
+| **Chapter**              | 10                                                                                                                |
+| **Actual Chapter Title** | Sound Waves: Characteristics and Applications                                                                     |
+| **Raw File Header**      | "Work and Energy"                                                                                                 |
+| **Textbook Pages**       | 184-207                                                                                                           |
+| **Core Theme**           | How sound is produced, how it travels, how sound waves are described, and how reflection and ultrasound are used. |
+| **Main Skill**           | Connecting observable sound experiences with wave ideas, formulas, graphs, and applications.                      |
 
 > [!NOTE]
 > The raw source file is named `chapter_10.md` and its extraction header says "Work and Energy", but the chapter content is **Sound Waves: Characteristics and Applications**. This learner-facing version follows the actual chapter content.
@@ -23,25 +24,25 @@
 
 ## Section Structure
 
-| Section | Title | Main Learning Focus |
-|---|---|---|
-| **10.0** | Introduction | Sound as an everyday sensory experience and a form of energy. |
-| **10.1** | Production of Sound | Sound is produced by vibrating objects. |
-| **10.1.1** | Tuning Fork | Tuning forks as simple sources for sound experiments. |
-| **10.2** | Propagation of Sound | Sound travels through a material medium. |
-| **10.2.1** | Sound Needs a Medium | Vacuum bell jar experiment and sound in space. |
-| **10.3** | Sound Waves | Compressions, rarefactions, longitudinal waves, and mechanical waves. |
-| **10.4** | Energy of Sound Waves | Sound carries energy through vibrating particles. |
-| **10.5** | Graphical Representation | Density-distance graphs, crests, troughs, compressions, and rarefactions. |
-| **10.6.1** | Wavelength, Frequency, Time Period | Describing repeated oscillations in sound waves. |
-| **10.6.2** | Amplitude and Intensity | Loudness, energy, and spreading of sound. |
-| **10.6.3** | Speed of Sound | Relation between speed, wavelength, and frequency. |
-| **10.6.4** | Human Perception | Pitch, loudness, audible range, timbre, and hearing. |
-| **10.7** | Reflection of Sound | Sound reflection and laws of reflection. |
-| **10.7.1** | Echo | Conditions required to hear a separate reflected sound. |
-| **10.7.2** | Reverberation | Multiple reflections in halls and auditoriums. |
-| **10.8** | Ultrasonic and Infrasonic Waves | Sounds outside human hearing and their applications. |
-| **10.8.1** | Echolocation | Bats, dolphins, sonar, and reflected sound. |
+| Section    | Title                              | Main Learning Focus                                                       |
+| ---------- | ---------------------------------- | ------------------------------------------------------------------------- |
+| **10.0**   | Introduction                       | Sound as an everyday sensory experience and a form of energy.             |
+| **10.1**   | Production of Sound                | Sound is produced by vibrating objects.                                   |
+| **10.1.1** | Tuning Fork                        | Tuning forks as simple sources for sound experiments.                     |
+| **10.2**   | Propagation of Sound               | Sound travels through a material medium.                                  |
+| **10.2.1** | Sound Needs a Medium               | Vacuum bell jar experiment and sound in space.                            |
+| **10.3**   | Sound Waves                        | Compressions, rarefactions, longitudinal waves, and mechanical waves.     |
+| **10.4**   | Energy of Sound Waves              | Sound carries energy through vibrating particles.                         |
+| **10.5**   | Graphical Representation           | Density-distance graphs, crests, troughs, compressions, and rarefactions. |
+| **10.6.1** | Wavelength, Frequency, Time Period | Describing repeated oscillations in sound waves.                          |
+| **10.6.2** | Amplitude and Intensity            | Loudness, energy, and spreading of sound.                                 |
+| **10.6.3** | Speed of Sound                     | Relation between speed, wavelength, and frequency.                        |
+| **10.6.4** | Human Perception                   | Pitch, loudness, audible range, timbre, and hearing.                      |
+| **10.7**   | Reflection of Sound                | Sound reflection and laws of reflection.                                  |
+| **10.7.1** | Echo                               | Conditions required to hear a separate reflected sound.                   |
+| **10.7.2** | Reverberation                      | Multiple reflections in halls and auditoriums.                            |
+| **10.8**   | Ultrasonic and Infrasonic Waves    | Sounds outside human hearing and their applications.                      |
+| **10.8.1** | Echolocation                       | Bats, dolphins, sonar, and reflected sound.                               |
 
 ---
 
@@ -49,18 +50,18 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Production of sound** | Explain why vibrating objects produce sound. |
-| **Medium requirement** | Show that sound needs a solid, liquid, or gas to travel. |
-| **Wave model** | Describe sound as a series of compressions and rarefactions. |
-| **Particle motion** | Distinguish between wave motion and movement of particles. |
-| **Wave type** | Identify sound as a longitudinal mechanical wave. |
-| **Graph reading** | Locate crest, trough, compression, rarefaction, wavelength, and amplitude on sound-wave graphs. |
-| **Calculations** | Use frequency, time period, wavelength, speed, and echo formulas. |
-| **Human perception** | Relate pitch to frequency and loudness to amplitude. |
-| **Applications** | Explain echo, reverberation, sonar, ultrasound, infrasound, and echolocation. |
-| **Critical thinking** | Correct common mistakes such as "air particles travel from source to ear" or "sound can travel in vacuum". |
+| Outcome                 | You Should Be Able To...                                                                                   |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------- |
+| **Production of sound** | Explain why vibrating objects produce sound.                                                               |
+| **Medium requirement**  | Show that sound needs a solid, liquid, or gas to travel.                                                   |
+| **Wave model**          | Describe sound as a series of compressions and rarefactions.                                               |
+| **Particle motion**     | Distinguish between wave motion and movement of particles.                                                 |
+| **Wave type**           | Identify sound as a longitudinal mechanical wave.                                                          |
+| **Graph reading**       | Locate crest, trough, compression, rarefaction, wavelength, and amplitude on sound-wave graphs.            |
+| **Calculations**        | Use frequency, time period, wavelength, speed, and echo formulas.                                          |
+| **Human perception**    | Relate pitch to frequency and loudness to amplitude.                                                       |
+| **Applications**        | Explain echo, reverberation, sonar, ultrasound, infrasound, and echolocation.                              |
+| **Critical thinking**   | Correct common mistakes such as "air particles travel from source to ear" or "sound can travel in vacuum". |
 
 ---
 
@@ -72,45 +73,45 @@ Those vibrations disturb nearby particles of a material medium such as air, wate
 
 The chapter connects four levels of understanding:
 
-| Level | What You Observe | Scientific Explanation |
-|---|---|---|
-| **Daily life** | You hear speech, music, thunder, claps, and noise. | Vibrating sources produce sound. |
-| **Particle level** | Air particles are alternately crowded and spread out. | Compressions and rarefactions move through the medium. |
-| **Graph level** | Density varies periodically with distance or time. | Crests and troughs represent maximum and minimum density. |
-| **Formula level** | Speed, wavelength, frequency, and time period are measurable. | Sound wave quantities are related mathematically. |
+| Level              | What You Observe                                              | Scientific Explanation                                    |
+| ------------------ | ------------------------------------------------------------- | --------------------------------------------------------- |
+| **Daily life**     | You hear speech, music, thunder, claps, and noise.            | Vibrating sources produce sound.                          |
+| **Particle level** | Air particles are alternately crowded and spread out.         | Compressions and rarefactions move through the medium.    |
+| **Graph level**    | Density varies periodically with distance or time.            | Crests and troughs represent maximum and minimum density. |
+| **Formula level**  | Speed, wavelength, frequency, and time period are measurable. | Sound wave quantities are related mathematically.         |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Sound** | A form of energy produced by vibrating objects and detected by ears or instruments. |
-| **Vibration** | Periodic to-and-fro motion of an object or particle about a mean position. |
-| **Source of sound** | The vibrating object or system that produces sound. |
-| **Medium** | Material through which sound travels, such as air, water, or steel. |
-| **Vacuum** | Space with no material medium; sound cannot travel through it. |
-| **Sound wave** | A travelling disturbance made of alternating compressions and rarefactions in a medium. |
-| **Compression** | Region of a sound wave where particles are closer together and density is higher than average. |
-| **Rarefaction** | Region of a sound wave where particles are farther apart and density is lower than average. |
-| **Longitudinal wave** | Wave in which particles vibrate parallel to the direction of wave propagation. |
-| **Transverse wave** | Wave in which particles vibrate perpendicular to the direction of wave propagation. |
-| **Mechanical wave** | Wave that needs a material medium to propagate. |
-| **Wavelength** | Distance between two consecutive crests or two consecutive troughs. |
-| **Frequency** | Number of complete oscillations per second at a point. |
-| **Time period** | Time taken for one complete oscillation. |
-| **Amplitude** | Maximum change in density from the average value in a sound wave. |
-| **Intensity** | Sound energy passing per second through unit area perpendicular to wave direction. |
-| **Pitch** | Human perception of frequency; high pitch usually means high frequency. |
-| **Loudness** | Human perception of sound strength; usually increases with amplitude. |
-| **Noise** | Unwanted or harmful sound. |
-| **Echo** | Reflected sound heard separately after the original sound. |
-| **Reverberation** | Persistence of sound due to repeated reflections. |
-| **Infrasonic wave** | Sound wave with frequency below 20 Hz. |
-| **Ultrasonic wave** | Sound wave with frequency above 20 kHz. |
-| **Echolocation** | Locating objects by sending sound waves and interpreting echoes. |
-| **Sonar** | Sound navigation and ranging; a method using reflected sound in water. |
-| **Timbre** | Quality of sound that helps distinguish different sources producing the same note. |
+| Term                  | Meaning                                                                                        |
+| --------------------- | ---------------------------------------------------------------------------------------------- |
+| **Sound**             | A form of energy produced by vibrating objects and detected by ears or instruments.            |
+| **Vibration**         | Periodic to-and-fro motion of an object or particle about a mean position.                     |
+| **Source of sound**   | The vibrating object or system that produces sound.                                            |
+| **Medium**            | Material through which sound travels, such as air, water, or steel.                            |
+| **Vacuum**            | Space with no material medium; sound cannot travel through it.                                 |
+| **Sound wave**        | A travelling disturbance made of alternating compressions and rarefactions in a medium.        |
+| **Compression**       | Region of a sound wave where particles are closer together and density is higher than average. |
+| **Rarefaction**       | Region of a sound wave where particles are farther apart and density is lower than average.    |
+| **Longitudinal wave** | Wave in which particles vibrate parallel to the direction of wave propagation.                 |
+| **Transverse wave**   | Wave in which particles vibrate perpendicular to the direction of wave propagation.            |
+| **Mechanical wave**   | Wave that needs a material medium to propagate.                                                |
+| **Wavelength**        | Distance between two consecutive crests or two consecutive troughs.                            |
+| **Frequency**         | Number of complete oscillations per second at a point.                                         |
+| **Time period**       | Time taken for one complete oscillation.                                                       |
+| **Amplitude**         | Maximum change in density from the average value in a sound wave.                              |
+| **Intensity**         | Sound energy passing per second through unit area perpendicular to wave direction.             |
+| **Pitch**             | Human perception of frequency; high pitch usually means high frequency.                        |
+| **Loudness**          | Human perception of sound strength; usually increases with amplitude.                          |
+| **Noise**             | Unwanted or harmful sound.                                                                     |
+| **Echo**              | Reflected sound heard separately after the original sound.                                     |
+| **Reverberation**     | Persistence of sound due to repeated reflections.                                              |
+| **Infrasonic wave**   | Sound wave with frequency below 20 Hz.                                                         |
+| **Ultrasonic wave**   | Sound wave with frequency above 20 kHz.                                                        |
+| **Echolocation**      | Locating objects by sending sound waves and interpreting echoes.                               |
+| **Sonar**             | Sound navigation and ranging; a method using reflected sound in water.                         |
+| **Timbre**            | Quality of sound that helps distinguish different sources producing the same note.             |
 
 ---
 
@@ -120,27 +121,27 @@ Sound is one of the main ways we become aware of our surroundings.
 
 Everyday examples include:
 
-| Sound | Source |
-|---|---|
-| Human voice | Vocal cords vibrating in the larynx. |
-| Birds chirping | Vibrating vocal organs. |
-| Waves crashing | Water and air disturbances. |
-| Leaves rustling | Leaves vibrating due to wind. |
-| Mobile phone ringing | Speaker diaphragm vibrating. |
-| Vehicle horn | Vibrating air produced by a horn system. |
-| Thunder | Rapid expansion of heated air. |
-| Musical instruments | Vibrating strings, membranes, air columns, or metal parts. |
+| Sound                | Source                                                     |
+| -------------------- | ---------------------------------------------------------- |
+| Human voice          | Vocal cords vibrating in the larynx.                       |
+| Birds chirping       | Vibrating vocal organs.                                    |
+| Waves crashing       | Water and air disturbances.                                |
+| Leaves rustling      | Leaves vibrating due to wind.                              |
+| Mobile phone ringing | Speaker diaphragm vibrating.                               |
+| Vehicle horn         | Vibrating air produced by a horn system.                   |
+| Thunder              | Rapid expansion of heated air.                             |
+| Musical instruments  | Vibrating strings, membranes, air columns, or metal parts. |
 
 You have already studied that energy can neither be created nor destroyed; it only changes form. In sound production, some other form of energy is converted into sound energy.
 
 Examples:
 
-| Situation | Energy Conversion |
-|---|---|
-| Plucking a string | Mechanical energy -> sound energy |
-| Speaking | Chemical energy in muscles -> mechanical vibration -> sound energy |
-| Speaker playing music | Electrical energy -> mechanical vibration -> sound energy |
-| Thunder | Heat and pressure changes -> sound energy |
+| Situation             | Energy Conversion                                                  |
+| --------------------- | ------------------------------------------------------------------ |
+| Plucking a string     | Mechanical energy -> sound energy                                  |
+| Speaking              | Chemical energy in muscles -> mechanical vibration -> sound energy |
+| Speaker playing music | Electrical energy -> mechanical vibration -> sound energy          |
+| Thunder               | Heat and pressure changes -> sound energy                          |
 
 Core questions of the chapter:
 
@@ -163,24 +164,24 @@ A vibrating object moves to and fro repeatedly. This motion disturbs the nearby 
 
 ### Simple Observations
 
-| Observation | What It Shows |
-|---|---|
-| A plucked rubber band makes sound. | The stretched band vibrates. |
-| Sound stops when the rubber band stops vibrating. | Sound depends on vibration. |
-| A struck metal object rings. | Metal vibrates after being struck. |
-| A flute produces sound when air is blown through it. | The air column inside vibrates. |
+| Observation                                          | What It Shows                         |
+| ---------------------------------------------------- | ------------------------------------- |
+| A plucked rubber band makes sound.                   | The stretched band vibrates.          |
+| Sound stops when the rubber band stops vibrating.    | Sound depends on vibration.           |
+| A struck metal object rings.                         | Metal vibrates after being struck.    |
+| A flute produces sound when air is blown through it. | The air column inside vibrates.       |
 | Touching the throat while speaking shows vibrations. | Vocal cords vibrate to produce voice. |
 
 ### Activity 10.1 - Rubber Band and Cardboard Box
 
-| Step | Action | What to Notice |
-|---|---|---|
-| **1** | Stretch a rubber band across the open side of a cardboard box. | The box helps make the sound louder. |
-| **2** | Pluck the rubber band. | Sound is heard. |
-| **3** | Watch the rubber band carefully. | It vibrates while sound is produced. |
-| **4** | Wait until the band stops vibrating. | Sound stops. |
-| **5** | Change the tension and pluck again. | The nature of sound changes. |
-| **6** | Remove the band from the box and pluck near the ear. | Sound is produced, but it may be less loud. |
+| Step  | Action                                                         | What to Notice                              |
+| ----- | -------------------------------------------------------------- | ------------------------------------------- |
+| **1** | Stretch a rubber band across the open side of a cardboard box. | The box helps make the sound louder.        |
+| **2** | Pluck the rubber band.                                         | Sound is heard.                             |
+| **3** | Watch the rubber band carefully.                               | It vibrates while sound is produced.        |
+| **4** | Wait until the band stops vibrating.                           | Sound stops.                                |
+| **5** | Change the tension and pluck again.                            | The nature of sound changes.                |
+| **6** | Remove the band from the box and pluck near the ear.           | Sound is produced, but it may be less loud. |
 
 ### Conclusion from Activity 10.1
 
@@ -197,13 +198,13 @@ Vibration means periodic to-and-fro motion about a mean position.
 
 Examples:
 
-| Vibrating Part | Source of Sound |
-|---|---|
+| Vibrating Part   | Source of Sound                |
+| ---------------- | ------------------------------ |
 | Stretched string | Sitar, guitar, ektara, tanpura |
-| Membrane | Tabla, mridangam, drum |
-| Air column | Flute, bansuri, whistle |
-| Metal body | Bell, tuning fork, metal plate |
-| Vocal cords | Human voice |
+| Membrane         | Tabla, mridangam, drum         |
+| Air column       | Flute, bansuri, whistle        |
+| Metal body       | Bell, tuning fork, metal plate |
+| Vocal cords      | Human voice                    |
 
 ### Source of Sound
 
@@ -221,13 +222,13 @@ Important point:
 
 Humans produce sound using vocal cords.
 
-| Part | Role |
-|---|---|
-| **Larynx / voice box** | Contains the vocal cords. |
-| **Vocal cords** | Vibrate when air passes through them. |
-| **Tongue** | Helps shape sounds into speech. |
-| **Lips** | Help pronounce words and control sound shape. |
-| **Mouth and nasal cavity** | Modify sound quality. |
+| Part                       | Role                                          |
+| -------------------------- | --------------------------------------------- |
+| **Larynx / voice box**     | Contains the vocal cords.                     |
+| **Vocal cords**            | Vibrate when air passes through them.         |
+| **Tongue**                 | Helps shape sounds into speech.               |
+| **Lips**                   | Help pronounce words and control sound shape. |
+| **Mouth and nasal cavity** | Modify sound quality.                         |
 
 When you speak or sing, air from the lungs passes through the vocal cords. The vocal cords vibrate and produce sound. The tongue, lips, mouth, and nasal cavity help shape that sound into speech or music.
 
@@ -235,12 +236,12 @@ When you speak or sing, air from the lungs passes through the vocal cords. The v
 
 Some animals produce sound differently.
 
-| Animal / Group | Method |
-|---|---|
-| Crickets | Rub body parts such as wings. |
-| Grasshoppers | Rub wings or legs. |
-| Birds | Use specialized vocal structures. |
-| Bats | Produce high-frequency sounds for echolocation. |
+| Animal / Group | Method                                          |
+| -------------- | ----------------------------------------------- |
+| Crickets       | Rub body parts such as wings.                   |
+| Grasshoppers   | Rub wings or legs.                              |
+| Birds          | Use specialized vocal structures.               |
+| Bats           | Produce high-frequency sounds for echolocation. |
 
 ---
 
@@ -248,22 +249,22 @@ Some animals produce sound differently.
 
 A tuning fork is a simple instrument used in sound experiments.
 
-| Feature | Description |
-|---|---|
-| **Shape** | U-shaped metal bar with a stem. |
-| **Material** | Usually steel or aluminium. |
-| **Prongs / tines** | Two arms of the U-shaped fork. |
-| **Stem** | Part used to hold the tuning fork. |
-| **Use** | Produces a nearly single-frequency sound when struck. |
+| Feature            | Description                                           |
+| ------------------ | ----------------------------------------------------- |
+| **Shape**          | U-shaped metal bar with a stem.                       |
+| **Material**       | Usually steel or aluminium.                           |
+| **Prongs / tines** | Two arms of the U-shaped fork.                        |
+| **Stem**           | Part used to hold the tuning fork.                    |
+| **Use**            | Produces a nearly single-frequency sound when struck. |
 
 ### Activity 10.2 - Tuning Fork and Water
 
-| Step | Action | Observation |
-|---|---|---|
-| **1** | Hold a tuning fork by its stem. | The prongs are free to vibrate. |
-| **2** | Strike one prong gently on a soft rubber pad. | A sound is heard. |
-| **3** | Bring it near the ear in different orientations. | Sound can still be heard. |
-| **4** | Touch a water surface gently with a vibrating prong. | Ripples form on water. |
+| Step  | Action                                               | Observation                     |
+| ----- | ---------------------------------------------------- | ------------------------------- |
+| **1** | Hold a tuning fork by its stem.                      | The prongs are free to vibrate. |
+| **2** | Strike one prong gently on a soft rubber pad.        | A sound is heard.               |
+| **3** | Bring it near the ear in different orientations.     | Sound can still be heard.       |
+| **4** | Touch a water surface gently with a vibrating prong. | Ripples form on water.          |
 
 ### Conclusion
 
@@ -291,21 +292,21 @@ Sound travels through a material medium. The medium may be:
 
 A **medium** is the material through which sound propagates.
 
-| Medium Type | Example | Evidence |
-|---|---|---|
-| **Gas** | Air | We hear speech and music through air. |
-| **Liquid** | Water | Sound of submerged metal spoons can be heard. |
-| **Solid** | Wood, metal | Knocking on a desk can be heard through the desk. |
+| Medium Type | Example     | Evidence                                          |
+| ----------- | ----------- | ------------------------------------------------- |
+| **Gas**     | Air         | We hear speech and music through air.             |
+| **Liquid**  | Water       | Sound of submerged metal spoons can be heard.     |
+| **Solid**   | Wood, metal | Knocking on a desk can be heard through the desk. |
 
 ---
 
 ## Activity 10.3 - Sound Through Solids
 
-| Step | Action | Observation |
-|---|---|---|
-| **1** | One student knocks or scratches a desk. | Sound is heard through air. |
+| Step  | Action                                          | Observation                            |
+| ----- | ----------------------------------------------- | -------------------------------------- |
+| **1** | One student knocks or scratches a desk.         | Sound is heard through air.            |
 | **2** | Another student places an ear against the desk. | Sound is heard through the solid desk. |
-| **3** | Compare both cases. | Sound can travel through solids. |
+| **3** | Compare both cases.                             | Sound can travel through solids.       |
 
 ### Conclusion
 
@@ -315,10 +316,10 @@ Sound does not travel only through air. It can also travel through solids.
 
 ## Activity 10.4 - Sound Through Liquids
 
-| Step | Action | Observation |
-|---|---|---|
-| **1** | Tap two metal spoons in air. | Sound is heard. |
-| **2** | Submerge the spoons in water and tap them. | Sound is still heard. |
+| Step  | Action                                     | Observation                              |
+| ----- | ------------------------------------------ | ---------------------------------------- |
+| **1** | Tap two metal spoons in air.               | Sound is heard.                          |
+| **2** | Submerge the spoons in water and tap them. | Sound is still heard.                    |
 | **3** | Avoid touching the bucket sides or bottom. | The sound reaches through water and air. |
 
 ### Conclusion
@@ -335,12 +336,12 @@ A vacuum is a space with no matter, or almost no matter. Since sound needs parti
 
 ### Vacuum Bell Jar Experiment
 
-| Stage | Observation | Meaning |
-|---|---|---|
-| Electric bell rings in normal air. | Sound is clearly heard. | Air carries sound from bell to listener. |
-| Air is pumped out gradually. | Sound becomes fainter. | Fewer particles are available to carry sound. |
-| Near vacuum is reached. | Bell may be seen ringing, but almost no sound is heard. | Sound cannot travel without a medium. |
-| Air is allowed back in. | Sound becomes louder again. | Restored air carries sound. |
+| Stage                              | Observation                                             | Meaning                                       |
+| ---------------------------------- | ------------------------------------------------------- | --------------------------------------------- |
+| Electric bell rings in normal air. | Sound is clearly heard.                                 | Air carries sound from bell to listener.      |
+| Air is pumped out gradually.       | Sound becomes fainter.                                  | Fewer particles are available to carry sound. |
+| Near vacuum is reached.            | Bell may be seen ringing, but almost no sound is heard. | Sound cannot travel without a medium.         |
+| Air is allowed back in.            | Sound becomes louder again.                             | Restored air carries sound.                   |
 
 ### Astronaut Example
 
@@ -352,8 +353,8 @@ Outer space is close to vacuum. Therefore:
 
 ### Assertion-Reason Check
 
-| Assertion | Reason |
-|---|---|
+| Assertion                                                                        | Reason                             |
+| -------------------------------------------------------------------------------- | ---------------------------------- |
 | We cannot hear the sound of a bell in a closed jar after most air is pumped out. | Sound requires a medium to travel. |
 
 Correct understanding:
@@ -386,21 +387,21 @@ A slinky is a long flexible spring toy. It can help us visualize how disturbance
 
 ### Activity 10.5 - Slinky Demonstration
 
-| Step | Action | Observation |
-|---|---|---|
-| **1** | Stretch a slinky on a table or floor. | Turns of the slinky are visible. |
-| **2** | Mark one turn with a marker. | Particle motion can be tracked. |
-| **3** | Push and pull one end quickly. | A disturbance travels along the slinky. |
-| **4** | Push and pull repeatedly. | A series of disturbances is produced. |
-| **5** | Watch the marked turn. | It moves back and forth, but does not travel along the whole slinky. |
+| Step  | Action                                | Observation                                                          |
+| ----- | ------------------------------------- | -------------------------------------------------------------------- |
+| **1** | Stretch a slinky on a table or floor. | Turns of the slinky are visible.                                     |
+| **2** | Mark one turn with a marker.          | Particle motion can be tracked.                                      |
+| **3** | Push and pull one end quickly.        | A disturbance travels along the slinky.                              |
+| **4** | Push and pull repeatedly.             | A series of disturbances is produced.                                |
+| **5** | Watch the marked turn.                | It moves back and forth, but does not travel along the whole slinky. |
 
 ### What the Slinky Teaches
 
-| Slinky Observation | Sound-Wave Meaning |
-|---|---|
-| Coils become closer together. | Compression: higher density region. |
-| Coils become more spread out. | Rarefaction: lower density region. |
-| Disturbance travels along the slinky. | Wave travels through the medium. |
+| Slinky Observation                            | Sound-Wave Meaning                            |
+| --------------------------------------------- | --------------------------------------------- |
+| Coils become closer together.                 | Compression: higher density region.           |
+| Coils become more spread out.                 | Rarefaction: lower density region.            |
+| Disturbance travels along the slinky.         | Wave travels through the medium.              |
 | Marked coil only vibrates about its position. | Medium particles do not travel with the wave. |
 
 ---
@@ -445,12 +446,12 @@ Important:
 
 This is one of the most important ideas in the chapter.
 
-| Question | Correct Idea |
-|---|---|
+| Question                                                      | Correct Idea                                 |
+| ------------------------------------------------------------- | -------------------------------------------- |
 | Do air particles move from a speaker all the way to your ear? | No. They vibrate about their mean positions. |
-| What reaches your ear? | Energy carried by the sound wave. |
-| What moves through the medium? | Compressions and rarefactions. |
-| What does not move forward continuously? | Individual particles of the medium. |
+| What reaches your ear?                                        | Energy carried by the sound wave.            |
+| What moves through the medium?                                | Compressions and rarefactions.               |
+| What does not move forward continuously?                      | Individual particles of the medium.          |
 
 ### Common Mistake
 
@@ -470,12 +471,12 @@ In a sound wave, particles of the medium vibrate parallel to the direction in wh
 
 This kind of wave is called a **longitudinal wave**.
 
-| Feature | Sound Wave |
-|---|---|
-| Direction of wave propagation | Forward from source |
+| Feature                         | Sound Wave                             |
+| ------------------------------- | -------------------------------------- |
+| Direction of wave propagation   | Forward from source                    |
 | Direction of particle vibration | Back and forth parallel to propagation |
-| Type | Longitudinal |
-| Needs medium? | Yes |
+| Type                            | Longitudinal                           |
+| Needs medium?                   | Yes                                    |
 
 ---
 
@@ -483,30 +484,30 @@ This kind of wave is called a **longitudinal wave**.
 
 Sound needs a material medium. Therefore, sound is a **mechanical wave**.
 
-| Wave Type | Needs Medium? | Example |
-|---|---|---|
-| **Mechanical wave** | Yes | Sound wave, seismic wave |
-| **Non-mechanical wave** | No | Light wave |
+| Wave Type               | Needs Medium? | Example                  |
+| ----------------------- | ------------- | ------------------------ |
+| **Mechanical wave**     | Yes           | Sound wave, seismic wave |
+| **Non-mechanical wave** | No            | Light wave               |
 
 ### Sound vs Light
 
-| Feature | Sound | Light |
-|---|---|---|
-| Needs material medium? | Yes | No |
-| Can travel in vacuum? | No | Yes |
+| Feature                   | Sound                        | Light                           |
+| ------------------------- | ---------------------------- | ------------------------------- |
+| Needs material medium?    | Yes                          | No                              |
+| Can travel in vacuum?     | No                           | Yes                             |
 | Wave type in this chapter | Mechanical longitudinal wave | Transverse electromagnetic wave |
-| Example | Voice through air | Sunlight reaching Earth |
+| Example                   | Voice through air            | Sunlight reaching Earth         |
 
 ---
 
 ## Longitudinal and Transverse Waves
 
-| Feature | Longitudinal Wave | Transverse Wave |
-|---|---|---|
-| Particle vibration direction | Parallel to wave direction | Perpendicular to wave direction |
-| Common example | Sound in air | Light; waves on a string |
-| Regions | Compressions and rarefactions | Crests and troughs |
-| Medium needed? | For sound, yes | Depends on wave type |
+| Feature                      | Longitudinal Wave             | Transverse Wave                 |
+| ---------------------------- | ----------------------------- | ------------------------------- |
+| Particle vibration direction | Parallel to wave direction    | Perpendicular to wave direction |
+| Common example               | Sound in air                  | Light; waves on a string        |
+| Regions                      | Compressions and rarefactions | Crests and troughs              |
+| Medium needed?               | For sound, yes                | Depends on wave type            |
 
 ### Earthquake Connection
 
@@ -520,18 +521,18 @@ Some loud sounds are produced by sudden disturbances.
 
 Examples:
 
-| Event | What Happens |
-|---|---|
+| Event                 | What Happens                                                      |
+| --------------------- | ----------------------------------------------------------------- |
 | Firecracker explosion | Gases expand rapidly and create a sudden air-density disturbance. |
-| Thunder | Heated air expands quickly and produces a loud pressure wave. |
-| Supersonic aircraft | Aircraft travels faster than sound and produces a sonic boom. |
+| Thunder               | Heated air expands quickly and produces a loud pressure wave.     |
+| Supersonic aircraft   | Aircraft travels faster than sound and produces a sonic boom.     |
 
 ---
 
 ## Assertion-Reason Check
 
-| Assertion | Reason |
-|---|---|
+| Assertion                                              | Reason                                                                      |
+| ------------------------------------------------------ | --------------------------------------------------------------------------- |
 | Compressions and rarefactions move through the medium. | Individual particles of the medium continuously move forward with the wave. |
 
 Correct understanding:
@@ -555,12 +556,12 @@ A vibrating source transfers energy to the surrounding medium. The sound wave ca
 
 ## Activity 10.6 - Sound Can Make Particles Move
 
-| Step | Action | Observation |
-|---|---|---|
-| **1** | Stretch a cellophane or rubber sheet over a wide container. | A flexible surface is prepared. |
-| **2** | Sprinkle grains such as rice, salt, semolina, or chalk powder. | Grains rest on the sheet. |
-| **3** | Produce a loud sound near the container without touching it. | Grains move or jump. |
-| **4** | Change loudness or sound source. | Motion of grains changes. |
+| Step  | Action                                                         | Observation                     |
+| ----- | -------------------------------------------------------------- | ------------------------------- |
+| **1** | Stretch a cellophane or rubber sheet over a wide container.    | A flexible surface is prepared. |
+| **2** | Sprinkle grains such as rice, salt, semolina, or chalk powder. | Grains rest on the sheet.       |
+| **3** | Produce a loud sound near the container without touching it.   | Grains move or jump.            |
+| **4** | Change loudness or sound source.                               | Motion of grains changes.       |
 
 ### Explanation
 
@@ -570,12 +571,12 @@ This shows that sound waves carry energy.
 
 ### Energy Transfer in Sound
 
-| Stage | Process |
-|---|---|
-| **1** | Source vibrates. |
-| **2** | Source transfers energy to nearby medium particles. |
+| Stage | Process                                                   |
+| ----- | --------------------------------------------------------- |
+| **1** | Source vibrates.                                          |
+| **2** | Source transfers energy to nearby medium particles.       |
 | **3** | Particles vibrate and collide with neighboring particles. |
-| **4** | Disturbance and energy move forward as a sound wave. |
+| **4** | Disturbance and energy move forward as a sound wave.      |
 
 ---
 
@@ -585,25 +586,25 @@ This shows that sound waves carry energy.
 
 A microphone converts sound energy into electrical energy.
 
-| Part | Role |
-|---|---|
-| Thin diaphragm | Vibrates when sound reaches it. |
+| Part            | Role                                       |
+| --------------- | ------------------------------------------ |
+| Thin diaphragm  | Vibrates when sound reaches it.            |
 | Internal system | Converts vibration into electrical signal. |
 
 ### Speaker
 
 A speaker does the reverse.
 
-| Input | Process | Output |
-|---|---|---|
+| Input             | Process                    | Output                   |
+| ----------------- | -------------------------- | ------------------------ |
 | Electrical signal | Diaphragm or cone vibrates | Sound waves are produced |
 
 ### Energy Conversion
 
-| Device | Energy Conversion |
-|---|---|
+| Device     | Energy Conversion                 |
+| ---------- | --------------------------------- |
 | Microphone | Sound energy -> electrical energy |
-| Speaker | Electrical energy -> sound energy |
+| Speaker    | Electrical energy -> sound energy |
 
 ---
 
@@ -615,14 +616,14 @@ Because sound in air involves density changes, one useful graph shows how densit
 
 ### Density-Distance Graph
 
-| Graph Part | Meaning in Sound Wave |
-|---|---|
-| Density above average | Compression region |
-| Density below average | Rarefaction region |
-| Highest point | Crest, maximum density |
-| Lowest point | Trough, minimum density |
-| Distance between consecutive crests | Wavelength |
-| Distance between consecutive troughs | Wavelength |
+| Graph Part                           | Meaning in Sound Wave   |
+| ------------------------------------ | ----------------------- |
+| Density above average                | Compression region      |
+| Density below average                | Rarefaction region      |
+| Highest point                        | Crest, maximum density  |
+| Lowest point                         | Trough, minimum density |
+| Distance between consecutive crests  | Wavelength              |
+| Distance between consecutive troughs | Wavelength              |
 
 ### Crest
 
@@ -634,10 +635,10 @@ A trough is the lowest point on the graph. For a sound-density graph, it represe
 
 ### Compression and Rarefaction on a Graph
 
-| Region | Density | Graph Position |
-|---|---|---|
+| Region      | Density             | Graph Position             |
+| ----------- | ------------------- | -------------------------- |
 | Compression | Higher than average | Above average-density line |
-| Rarefaction | Lower than average | Below average-density line |
+| Rarefaction | Lower than average  | Below average-density line |
 
 ---
 
@@ -645,10 +646,10 @@ A trough is the lowest point on the graph. For a sound-density graph, it represe
 
 Another way to represent a sound wave is to choose one fixed location and plot how density at that location changes with time.
 
-| Graph Type | X-Axis | Y-Axis | Shows |
-|---|---|---|---|
+| Graph Type             | X-Axis   | Y-Axis  | Shows                                               |
+| ---------------------- | -------- | ------- | --------------------------------------------------- |
 | Density-distance graph | Distance | Density | How density varies along the medium at one instant. |
-| Density-time graph | Time | Density | How density changes at one fixed point. |
+| Density-time graph     | Time     | Density | How density changes at one fixed point.             |
 
 Both graphs can show periodic variation, but they represent different viewpoints.
 
@@ -733,10 +734,10 @@ $$
 
 ### Meaning of the Relation
 
-| Situation | Frequency | Time Period |
-|---|---|---|
-| Oscillations happen quickly | High | Small |
-| Oscillations happen slowly | Low | Large |
+| Situation                   | Frequency | Time Period |
+| --------------------------- | --------- | ----------- |
+| Oscillations happen quickly | High      | Small       |
+| Oscillations happen slowly  | Low       | Large       |
 
 ---
 
@@ -744,13 +745,13 @@ $$
 
 This is a classroom demonstration using a mobile app such as Phyphox or a tone generator.
 
-| Step | Action | Learning Point |
-|---|---|---|
-| **1** | Use an app that detects sound frequency. | Frequency can be measured. |
-| **2** | Sing or play notes such as Sa, Re, Ga, Ma, Pa, Dha, Ni, Sa. | Notes differ in frequency. |
-| **3** | Record approximate values. | Data helps compare notes. |
-| **4** | Compare each note's frequency with Sa. | Ratios may show musical patterns. |
-| **5** | Compare human voice and app-generated notes. | Same note can have similar frequency but different quality. |
+| Step  | Action                                                      | Learning Point                                              |
+| ----- | ----------------------------------------------------------- | ----------------------------------------------------------- |
+| **1** | Use an app that detects sound frequency.                    | Frequency can be measured.                                  |
+| **2** | Sing or play notes such as Sa, Re, Ga, Ma, Pa, Dha, Ni, Sa. | Notes differ in frequency.                                  |
+| **3** | Record approximate values.                                  | Data helps compare notes.                                   |
+| **4** | Compare each note's frequency with Sa.                      | Ratios may show musical patterns.                           |
+| **5** | Compare human voice and app-generated notes.                | Same note can have similar frequency but different quality. |
 
 ### Key Idea
 
@@ -767,10 +768,10 @@ Musical notes sound different mainly because their frequencies differ. Higher no
 
 ### Given
 
-| Quantity | Value |
-|---|---|
-| Number of oscillations | 10 |
-| Time taken | 2 s |
+| Quantity               | Value |
+| ---------------------- | ----- |
+| Number of oscillations | 10    |
+| Time taken             | 2 s   |
 
 ### Step 1 - Frequency
 
@@ -794,10 +795,10 @@ $$
 
 ### Answer
 
-| Part | Answer |
-|---|---|
-| Frequency | 5 Hz |
-| Time period | 0.2 s |
+| Part        | Answer |
+| ----------- | ------ |
+| Frequency   | 5 Hz   |
+| Time period | 0.2 s  |
 
 ---
 
@@ -805,11 +806,11 @@ $$
 
 If a thin rubber band vibrates faster than a thick rubber band:
 
-| Quantity | Thin Rubber Band |
-|---|---|
-| Frequency | Higher |
-| Time period | Lower |
-| Pitch | Higher |
+| Quantity    | Thin Rubber Band |
+| ----------- | ---------------- |
+| Frequency   | Higher           |
+| Time period | Lower            |
+| Pitch       | Higher           |
 
 Why?
 
@@ -825,17 +826,17 @@ The amplitude of a sound wave is the maximum change in density from the average 
 
 For a sound-density graph:
 
-| Graph Feature | Meaning |
-|---|---|
-| Larger height above/below average density | Larger amplitude |
+| Graph Feature                              | Meaning           |
+| ------------------------------------------ | ----------------- |
+| Larger height above/below average density  | Larger amplitude  |
 | Smaller height above/below average density | Smaller amplitude |
 
 ### Amplitude and Energy
 
-| Amplitude | Energy Carried | Perceived Sound |
-|---|---|---|
-| Large | More energy | Louder sound, generally |
-| Small | Less energy | Softer sound, generally |
+| Amplitude | Energy Carried | Perceived Sound         |
+| --------- | -------------- | ----------------------- |
+| Large     | More energy    | Louder sound, generally |
+| Small     | Less energy    | Softer sound, generally |
 
 In Activity 10.6, striking a plate harder transfers more energy to the surrounding air. This produces larger particle displacements and makes the grains jump higher.
 
@@ -853,11 +854,11 @@ As sound travels away from a source, it spreads over a larger area.
 
 The same sound energy becomes distributed over more space, so intensity decreases.
 
-| Near Source | Far from Source |
-|---|---|
+| Near Source                      | Far from Source                 |
+| -------------------------------- | ------------------------------- |
 | Energy spread over smaller area. | Energy spread over larger area. |
-| Higher intensity. | Lower intensity. |
-| Sound is usually louder. | Sound is usually softer. |
+| Higher intensity.                | Lower intensity.                |
+| Sound is usually louder.         | Sound is usually softer.        |
 
 ---
 
@@ -899,12 +900,12 @@ $$
 
 ### Symbols
 
-| Symbol | Meaning | SI Unit |
-|---|---|---|
-| \(v\) | Speed of sound | m s\(^{-1}\) |
-| \(\lambda\) | Wavelength | m |
-| \(\nu\) | Frequency | Hz or s\(^{-1}\) |
-| \(T\) | Time period | s |
+| Symbol      | Meaning        | SI Unit          |
+| ----------- | -------------- | ---------------- |
+| \(v\)       | Speed of sound | m s\(^{-1}\)     |
+| \(\lambda\) | Wavelength     | m                |
+| \(\nu\)     | Frequency      | Hz or s\(^{-1}\) |
+| \(T\)       | Time period    | s                |
 
 ---
 
@@ -920,11 +921,11 @@ $$
 
 At about 15 °C and atmospheric pressure:
 
-| State | Medium | Approximate Speed of Sound |
-|---|---|---|
-| Solid | Steel | 5000 m s\(^{-1}\) |
-| Liquid | Water | 1500 m s\(^{-1}\) |
-| Gas | Air | 340 m s\(^{-1}\) |
+| State  | Medium | Approximate Speed of Sound |
+| ------ | ------ | -------------------------- |
+| Solid  | Steel  | 5000 m s\(^{-1}\)          |
+| Liquid | Water  | 1500 m s\(^{-1}\)          |
+| Gas    | Air    | 340 m s\(^{-1}\)           |
 
 ### Why Sound Travels Faster in Solids
 
@@ -936,17 +937,17 @@ In gases, particles are farther apart, so the disturbance travels more slowly.
 
 For air:
 
-| Condition | Effect on Speed |
-|---|---|
+| Condition          | Effect on Speed  |
+| ------------------ | ---------------- |
 | Higher temperature | Speed increases. |
-| Higher humidity | Speed increases. |
+| Higher humidity    | Speed increases. |
 
 Examples from the chapter:
 
-| Air Condition | Approximate Speed |
-|---|---|
-| Dry air at 0 °C | 331 m s\(^{-1}\) |
-| Air at 22 °C | 344 m s\(^{-1}\) |
+| Air Condition   | Approximate Speed |
+| --------------- | ----------------- |
+| Dry air at 0 °C | 331 m s\(^{-1}\)  |
+| Air at 22 °C    | 344 m s\(^{-1}\)  |
 
 ### Important Concept
 
@@ -1003,10 +1004,10 @@ $$
 
 ### Answer
 
-| Frequency | Wavelength |
-|---|---|
-| 20 Hz | 17.2 m |
-| 20 kHz | 0.0172 m = 1.72 cm |
+| Frequency | Wavelength         |
+| --------- | ------------------ |
+| 20 Hz     | 17.2 m             |
+| 20 kHz    | 0.0172 m = 1.72 cm |
 
 ---
 
@@ -1016,10 +1017,10 @@ $$
 
 ### Given
 
-| Quantity | Value |
-|---|---|
+| Quantity       | Value            |
+| -------------- | ---------------- |
 | Speed of sound | 340 m s\(^{-1}\) |
-| Time delay | 5 s |
+| Time delay     | 5 s              |
 
 ### Calculation
 
@@ -1051,10 +1052,10 @@ The lightning strike was approximately **1.7 km away**.
 
 ### Given
 
-| Quantity | Value |
-|---|---|
-| Wavelength | 50 m |
-| Speed | 5000 m s\(^{-1}\) |
+| Quantity   | Value             |
+| ---------- | ----------------- |
+| Wavelength | 50 m              |
+| Speed      | 5000 m s\(^{-1}\) |
 
 ### Step 1 - Frequency
 
@@ -1090,9 +1091,9 @@ $$
 
 ### Answer
 
-| Quantity | Answer |
-|---|---|
-| Frequency | 100 Hz |
+| Quantity    | Answer |
+| ----------- | ------ |
+| Frequency   | 100 Hz |
 | Time period | 0.01 s |
 
 ---
@@ -1101,11 +1102,11 @@ $$
 
 Physical properties of sound can be measured. Human perception describes how those properties are experienced.
 
-| Physical Quantity | Human Perception |
-|---|---|
-| Frequency | Pitch |
-| Amplitude / intensity | Loudness |
-| Mixture of frequencies and overtones | Timbre |
+| Physical Quantity                    | Human Perception |
+| ------------------------------------ | ---------------- |
+| Frequency                            | Pitch            |
+| Amplitude / intensity                | Loudness         |
+| Mixture of frequencies and overtones | Timbre           |
 
 ---
 
@@ -1113,19 +1114,19 @@ Physical properties of sound can be measured. Human perception describes how tho
 
 Pitch is how humans perceive frequency.
 
-| Frequency | Perceived Pitch |
-|---|---|
+| Frequency        | Perceived Pitch            |
+| ---------------- | -------------------------- |
 | Higher frequency | Higher pitch; shrill sound |
-| Lower frequency | Lower pitch; deep sound |
+| Lower frequency  | Lower pitch; deep sound    |
 
 Examples:
 
-| Sound | Pitch Tendency |
-|---|---|
-| Whistle | High pitch |
-| Siren | High pitch |
-| Thunder | Low pitch |
-| Aircraft rumble | Low pitch |
+| Sound           | Pitch Tendency |
+| --------------- | -------------- |
+| Whistle         | High pitch     |
+| Siren           | High pitch     |
+| Thunder         | Low pitch      |
+| Aircraft rumble | Low pitch      |
 
 ### Voice Differences
 
@@ -1146,21 +1147,21 @@ During adolescence, vocal cords in many boys lengthen and thicken. They vibrate 
 
 Humans cannot hear every frequency.
 
-| Type of Sound Wave | Frequency Range |
-|---|---|
-| Infrasonic waves | Below 20 Hz |
+| Type of Sound Wave  | Frequency Range    |
+| ------------------- | ------------------ |
+| Infrasonic waves    | Below 20 Hz        |
 | Human audible range | 20 Hz to 20,000 Hz |
-| Ultrasonic waves | Above 20 kHz |
+| Ultrasonic waves    | Above 20 kHz       |
 
 Different animals have different hearing ranges.
 
-| Animal | Sound Range Ability |
-|---|---|
-| Dogs | Can detect ultrasound beyond human hearing. |
-| Cats | Can detect high-frequency sounds. |
-| Bats | Use ultrasound for echolocation. |
-| Dolphins | Use ultrasound in water. |
-| Elephants | Can detect infrasound. |
+| Animal    | Sound Range Ability                         |
+| --------- | ------------------------------------------- |
+| Dogs      | Can detect ultrasound beyond human hearing. |
+| Cats      | Can detect high-frequency sounds.           |
+| Bats      | Use ultrasound for echolocation.            |
+| Dolphins  | Use ultrasound in water.                    |
+| Elephants | Can detect infrasound.                      |
 
 ---
 
@@ -1168,19 +1169,19 @@ Different animals have different hearing ranges.
 
 Loudness is how humans perceive the strength of a sound.
 
-| Wave Property | Perception |
-|---|---|
-| Larger amplitude | Louder sound |
-| Smaller amplitude | Softer sound |
+| Wave Property                | Perception           |
+| ---------------------------- | -------------------- |
+| Larger amplitude             | Louder sound         |
+| Smaller amplitude            | Softer sound         |
 | Greater distance from source | Usually softer sound |
 
 Loudness is commonly measured in decibels (dB).
 
-| Sound Level Example | Approximate Loudness |
-|---|---|
-| Very soft sound, such as faint rustling | A few dB |
-| Normal conversation | About 60 dB |
-| Very loud firecracker | Above 100 dB |
+| Sound Level Example                     | Approximate Loudness |
+| --------------------------------------- | -------------------- |
+| Very soft sound, such as faint rustling | A few dB             |
+| Normal conversation                     | About 60 dB          |
+| Very loud firecracker                   | Above 100 dB         |
 
 ### Noise
 
@@ -1200,13 +1201,13 @@ Prolonged exposure to loud sound can cause hearing loss. Hearing loss may be tes
 
 ## Human Ear: How Sound Is Heard
 
-| Part | Function |
-|---|---|
-| Ear canal | Carries sound waves inward. |
-| Eardrum | Vibrates when sound reaches it. |
-| Tiny bones | Amplify vibrations. |
-| Cochlea | Converts vibrations into electrical signals. |
-| Brain | Interprets signals as sound. |
+| Part       | Function                                     |
+| ---------- | -------------------------------------------- |
+| Ear canal  | Carries sound waves inward.                  |
+| Eardrum    | Vibrates when sound reaches it.              |
+| Tiny bones | Amplify vibrations.                          |
+| Cochlea    | Converts vibrations into electrical signals. |
+| Brain      | Interprets signals as sound.                 |
 
 Having two ears helps the brain detect the direction of sound. If a sound reaches one ear slightly earlier than the other, the brain uses that time difference to estimate direction.
 
@@ -1246,8 +1247,8 @@ An octave is the interval between two notes where one has double the frequency o
 
 Example:
 
-| Note 1 | Note 2 | Relation |
-|---|---|---|
+| Note 1 | Note 2 | Relation                           |
+| ------ | ------ | ---------------------------------- |
 | 200 Hz | 400 Hz | 400 Hz is one octave above 200 Hz. |
 
 ---
@@ -1271,11 +1272,11 @@ Sound follows laws of reflection similar to light:
 
 ### Reflection Surfaces
 
-| Surface Type | Effect on Sound |
-|---|---|
+| Surface Type    | Effect on Sound                           |
+| --------------- | ----------------------------------------- |
 | Hard and smooth | Strong reflection; clearer echo possible. |
-| Soft and porous | Absorbs sound; reduces reflection. |
-| Rough | Scatters sound in many directions. |
+| Soft and porous | Absorbs sound; reduces reflection.        |
+| Rough           | Scatters sound in many directions.        |
 
 ---
 
@@ -1355,10 +1356,10 @@ Use this formula for echo and sonar when the given time is the total return time
 
 ### Given
 
-| Quantity | Value |
-|---|---|
-| Speed | 340 m s\(^{-1}\) |
-| Echo time | 0.5 s |
+| Quantity  | Value            |
+| --------- | ---------------- |
+| Speed     | 340 m s\(^{-1}\) |
+| Echo time | 0.5 s            |
 
 ### Formula
 
@@ -1394,24 +1395,24 @@ It occurs when reflected sounds arrive so quickly that they mix with the origina
 
 ### Echo vs Reverberation
 
-| Feature | Echo | Reverberation |
-|---|---|---|
-| Cause | Sound reflects and returns after a clear delay. | Many reflections arrive close together. |
-| Time gap | At least about 0.1 s for clear separate hearing. | Very small gaps; often less than about 0.05 s. |
-| What listener hears | Repeated sound. | Sound lingering or blending. |
-| Example | Shouting near a cliff. | Sound persisting in a large hall. |
+| Feature             | Echo                                             | Reverberation                                  |
+| ------------------- | ------------------------------------------------ | ---------------------------------------------- |
+| Cause               | Sound reflects and returns after a clear delay.  | Many reflections arrive close together.        |
+| Time gap            | At least about 0.1 s for clear separate hearing. | Very small gaps; often less than about 0.05 s. |
+| What listener hears | Repeated sound.                                  | Sound lingering or blending.                   |
+| Example             | Shouting near a cliff.                           | Sound persisting in a large hall.              |
 
 ### Auditorium Design
 
 Good auditoriums control reverberation.
 
-| Design Element | Effect |
-|---|---|
-| Sound-absorbing panels | Reduce unwanted reflections. |
-| Upholstered chairs | Absorb sound. |
-| Curtains | Reduce excessive reverberation. |
-| Curved surfaces | Direct sound toward audience areas. |
-| Carefully shaped ceilings | Improve clarity and distribution. |
+| Design Element            | Effect                              |
+| ------------------------- | ----------------------------------- |
+| Sound-absorbing panels    | Reduce unwanted reflections.        |
+| Upholstered chairs        | Absorb sound.                       |
+| Curtains                  | Reduce excessive reverberation.     |
+| Curved surfaces           | Direct sound toward audience areas. |
+| Carefully shaped ceilings | Improve clarity and distribution.   |
 
 Too much reverberation can make speech unclear. A useful amount of reverberation can make music sound fuller.
 
@@ -1427,36 +1428,36 @@ Humans hear roughly from 20 Hz to 20 kHz. Sounds outside this range can still ex
 
 ### Frequency Categories
 
-| Category | Frequency Range | Human Hearing |
-|---|---|---|
-| Infrasonic | Less than 20 Hz | Not heard by humans |
-| Audible | 20 Hz to 20 kHz | Heard by humans |
+| Category   | Frequency Range  | Human Hearing       |
+| ---------- | ---------------- | ------------------- |
+| Infrasonic | Less than 20 Hz  | Not heard by humans |
+| Audible    | 20 Hz to 20 kHz  | Heard by humans     |
 | Ultrasonic | More than 20 kHz | Not heard by humans |
 
 ---
 
 ## Applications of Infrasonic Waves
 
-| Application | Use |
-|---|---|
-| Earthquake detection | Infrasound can be associated with large natural events. |
-| Volcanic activity monitoring | Low-frequency waves can travel long distances. |
-| Severe storm detection | Some storms produce low-frequency waves. |
-| Animal communication | Some animals detect or use low-frequency sound. |
+| Application                  | Use                                                     |
+| ---------------------------- | ------------------------------------------------------- |
+| Earthquake detection         | Infrasound can be associated with large natural events. |
+| Volcanic activity monitoring | Low-frequency waves can travel long distances.          |
+| Severe storm detection       | Some storms produce low-frequency waves.                |
+| Animal communication         | Some animals detect or use low-frequency sound.         |
 
 ---
 
 ## Applications of Ultrasonic Waves
 
-| Application | Use |
-|---|---|
-| Ultrasonography | Imaging internal organs without surgery. |
-| Kidney stone treatment | Breaking stones into smaller pieces. |
-| Ultrasonic cleaning | Cleaning delicate machine parts. |
-| Ultrasonic welding | Joining materials in industries. |
-| Testing metal blocks | Detecting hidden cracks or defects. |
-| Sonar | Locating objects underwater. |
-| Echolocation | Used by bats, dolphins, and some other animals. |
+| Application            | Use                                             |
+| ---------------------- | ----------------------------------------------- |
+| Ultrasonography        | Imaging internal organs without surgery.        |
+| Kidney stone treatment | Breaking stones into smaller pieces.            |
+| Ultrasonic cleaning    | Cleaning delicate machine parts.                |
+| Ultrasonic welding     | Joining materials in industries.                |
+| Testing metal blocks   | Detecting hidden cracks or defects.             |
+| Sonar                  | Locating objects underwater.                    |
+| Echolocation           | Used by bats, dolphins, and some other animals. |
 
 ---
 
@@ -1466,11 +1467,11 @@ Echolocation is locating objects using reflected sound.
 
 ### How Bats Use Echolocation
 
-| Step | Process |
-|---|---|
-| **1** | Bat emits short bursts of ultrasonic waves. |
-| **2** | Waves reflect from objects or prey. |
-| **3** | Bat detects returning echoes. |
+| Step  | Process                                                    |
+| ----- | ---------------------------------------------------------- |
+| **1** | Bat emits short bursts of ultrasonic waves.                |
+| **2** | Waves reflect from objects or prey.                        |
+| **3** | Bat detects returning echoes.                              |
 | **4** | Bat estimates position, distance, and movement of objects. |
 
 Other animals such as dolphins, whales, and some birds also use echolocation.
@@ -1485,12 +1486,12 @@ It uses sound waves, usually ultrasonic waves, to locate underwater objects.
 
 ### How Sonar Works
 
-| Step | Process |
-|---|---|
-| **1** | A ship sends an ultrasonic signal into water. |
-| **2** | The signal reflects from an object or seabed. |
-| **3** | The echo returns to the ship. |
-| **4** | Time taken is measured. |
+| Step  | Process                                               |
+| ----- | ----------------------------------------------------- |
+| **1** | A ship sends an ultrasonic signal into water.         |
+| **2** | The signal reflects from an object or seabed.         |
+| **3** | The echo returns to the ship.                         |
+| **4** | Time taken is measured.                               |
 | **5** | Distance is calculated using speed of sound in water. |
 
 ### Sonar Formula
@@ -1511,9 +1512,9 @@ The division by 2 is necessary because the signal travels to the object and back
 
 ### Given
 
-| Quantity | Value |
-|---|---|
-| Total return time | 0.90 s |
+| Quantity          | Value             |
+| ----------------- | ----------------- |
+| Total return time | 0.90 s            |
 | Speed in seawater | 1530 m s\(^{-1}\) |
 
 ### Step 1 - One-Way Time
@@ -1609,14 +1610,14 @@ $$
 
 ## Unit Guide
 
-| Quantity | Symbol | SI Unit | Common Conversion |
-|---|---|---|---|
-| Wavelength | \(\lambda\) | metre (m) | 1 m = 100 cm |
-| Frequency | \(\nu\) | hertz (Hz) | 1 kHz = 1000 Hz |
-| Time period | \(T\) | second (s) | 1 ms = 0.001 s |
-| Speed | \(v\) | m s\(^{-1}\) | 1 km = 1000 m |
-| Distance | \(d\) | metre (m) | 1 km = 1000 m |
-| Loudness level | - | decibel (dB) | Used for sound level comparisons |
+| Quantity       | Symbol      | SI Unit      | Common Conversion                |
+| -------------- | ----------- | ------------ | -------------------------------- |
+| Wavelength     | \(\lambda\) | metre (m)    | 1 m = 100 cm                     |
+| Frequency      | \(\nu\)     | hertz (Hz)   | 1 kHz = 1000 Hz                  |
+| Time period    | \(T\)       | second (s)   | 1 ms = 0.001 s                   |
+| Speed          | \(v\)       | m s\(^{-1}\) | 1 km = 1000 m                    |
+| Distance       | \(d\)       | metre (m)    | 1 km = 1000 m                    |
+| Loudness level | -           | decibel (dB) | Used for sound level comparisons |
 
 ---
 
@@ -1624,45 +1625,45 @@ $$
 
 ### Sound Through Different Media
 
-| Medium | Can Sound Travel? | Example |
-|---|---|---|
-| Solid | Yes | Knock through table; sound through steel fence. |
-| Liquid | Yes | Sound through water. |
-| Gas | Yes | Speech through air. |
-| Vacuum | No | Spacewalk without communication device. |
+| Medium | Can Sound Travel? | Example                                         |
+| ------ | ----------------- | ----------------------------------------------- |
+| Solid  | Yes               | Knock through table; sound through steel fence. |
+| Liquid | Yes               | Sound through water.                            |
+| Gas    | Yes               | Speech through air.                             |
+| Vacuum | No                | Spacewalk without communication device.         |
 
 ### Frequency, Pitch, Amplitude, Loudness
 
-| Quantity | Scientific Type | Human Experience |
-|---|---|---|
-| Frequency | Measurable wave property | Pitch |
-| Amplitude | Measurable wave property | Loudness, approximately |
+| Quantity  | Scientific Type                    | Human Experience                      |
+| --------- | ---------------------------------- | ------------------------------------- |
+| Frequency | Measurable wave property           | Pitch                                 |
+| Amplitude | Measurable wave property           | Loudness, approximately               |
 | Intensity | Energy per unit area per unit time | Related to loudness but not identical |
-| Timbre | Wave quality and overtones | Different sound quality |
+| Timbre    | Wave quality and overtones         | Different sound quality               |
 
 ### Echo and Reverberation
 
-| Feature | Echo | Reverberation |
-|---|---|---|
-| Reflected sound heard separately? | Yes | No, it blends. |
-| Main condition | Reflected sound reaches after about 0.1 s or more. | Reflections arrive very close together. |
-| Useful example | Distance measurement. | Hall acoustics. |
-| Problem if excessive | Confusing repeated sound. | Garbled sound. |
+| Feature                           | Echo                                               | Reverberation                           |
+| --------------------------------- | -------------------------------------------------- | --------------------------------------- |
+| Reflected sound heard separately? | Yes                                                | No, it blends.                          |
+| Main condition                    | Reflected sound reaches after about 0.1 s or more. | Reflections arrive very close together. |
+| Useful example                    | Distance measurement.                              | Hall acoustics.                         |
+| Problem if excessive              | Confusing repeated sound.                          | Garbled sound.                          |
 
 ---
 
 ## Activity Bank
 
-| Activity | Purpose | Main Conclusion |
-|---|---|---|
-| **10.1 Rubber band** | Observe sound production by vibration. | Sound is produced by vibrating objects. |
-| **10.2 Tuning fork** | Show tuning fork vibration. | Vibrating prongs produce sound and disturb water. |
-| **10.3 Desk** | Test sound through solid. | Sound can travel through solids. |
-| **10.4 Spoons in water** | Test sound through liquid. | Sound can travel through liquids. |
-| **10.5 Slinky** | Model sound wave motion. | Disturbance travels; particles oscillate locally. |
-| **10.6 Grains on sheet** | Show sound carries energy. | Sound can make another object vibrate. |
-| **10.7 Mobile app notes** | Measure frequency of musical notes. | Different notes have different frequencies. |
-| **10.8 Tone generator** | Explore audible range and pitch. | Pitch changes with frequency. |
+| Activity                  | Purpose                                | Main Conclusion                                   |
+| ------------------------- | -------------------------------------- | ------------------------------------------------- |
+| **10.1 Rubber band**      | Observe sound production by vibration. | Sound is produced by vibrating objects.           |
+| **10.2 Tuning fork**      | Show tuning fork vibration.            | Vibrating prongs produce sound and disturb water. |
+| **10.3 Desk**             | Test sound through solid.              | Sound can travel through solids.                  |
+| **10.4 Spoons in water**  | Test sound through liquid.             | Sound can travel through liquids.                 |
+| **10.5 Slinky**           | Model sound wave motion.               | Disturbance travels; particles oscillate locally. |
+| **10.6 Grains on sheet**  | Show sound carries energy.             | Sound can make another object vibrate.            |
+| **10.7 Mobile app notes** | Measure frequency of musical notes.    | Different notes have different frequencies.       |
+| **10.8 Tone generator**   | Explore audible range and pitch.       | Pitch changes with frequency.                     |
 
 ---
 
@@ -1736,17 +1737,17 @@ $$
 
 ## Common Misconceptions
 
-| Misconception | Correct Understanding |
-|---|---|
-| Sound can travel through empty space. | Sound needs a material medium and cannot travel through vacuum. |
-| Air particles travel from speaker to listener. | Air particles vibrate locally; the disturbance travels. |
-| Loudness and pitch are the same. | Loudness relates mostly to amplitude; pitch relates to frequency. |
-| Higher frequency always means faster sound. | In a given medium, sound speed is mostly fixed; wavelength changes when frequency changes. |
-| Echo and reverberation are identical. | Echo is heard separately; reverberation is blended persistence. |
-| Ultrasound means very loud sound. | Ultrasound means frequency above 20 kHz, not necessarily louder sound. |
-| Infrasound means very soft sound. | Infrasound means frequency below 20 Hz. |
-| The formula \(d = vt/2\) is used for all distance problems. | Divide by 2 only when the sound travels to a target and returns. |
-| A louder sound must have higher pitch. | Loudness and pitch are different perceptions. |
+| Misconception                                               | Correct Understanding                                                                      |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| Sound can travel through empty space.                       | Sound needs a material medium and cannot travel through vacuum.                            |
+| Air particles travel from speaker to listener.              | Air particles vibrate locally; the disturbance travels.                                    |
+| Loudness and pitch are the same.                            | Loudness relates mostly to amplitude; pitch relates to frequency.                          |
+| Higher frequency always means faster sound.                 | In a given medium, sound speed is mostly fixed; wavelength changes when frequency changes. |
+| Echo and reverberation are identical.                       | Echo is heard separately; reverberation is blended persistence.                            |
+| Ultrasound means very loud sound.                           | Ultrasound means frequency above 20 kHz, not necessarily louder sound.                     |
+| Infrasound means very soft sound.                           | Infrasound means frequency below 20 Hz.                                                    |
+| The formula \(d = vt/2\) is used for all distance problems. | Divide by 2 only when the sound travels to a target and returns.                           |
+| A louder sound must have higher pitch.                      | Loudness and pitch are different perceptions.                                              |
 
 ---
 
@@ -1754,43 +1755,43 @@ $$
 
 ### A. Conceptual Multiple Choice and Short Reasoning
 
-| Q | Question Focus | How to Think |
-|---|---|---|
-| **1** | Observation supporting sound as a mechanical wave. | Mechanical waves need a medium, so choose the option based on medium requirement. |
-| **2** | Increasing frequency in a given medium. | If speed remains constant, more compressions pass per second and wavelength decreases. |
-| **3** | Frequency from 20 compressions in 4 seconds. | Use frequency = number/time. |
-| **4** | Reflected sound reaches after 0.05 s. | Compare with echo condition of about 0.1 s. |
+| Q     | Question Focus                                     | How to Think                                                                                              |
+| ----- | -------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| **1** | Observation supporting sound as a mechanical wave. | Mechanical waves need a medium, so choose the option based on medium requirement.                         |
+| **2** | Increasing frequency in a given medium.            | If speed remains constant, more compressions pass per second and wavelength decreases.                    |
+| **3** | Frequency from 20 compressions in 4 seconds.       | Use frequency = number/time.                                                                              |
+| **4** | Reflected sound reaches after 0.05 s.              | Compare with echo condition of about 0.1 s.                                                               |
 | **8** | Explosion of spacecraft in space shown with sound. | Space has no medium; sound cannot travel in vacuum. Light and sound also do not travel at the same speed. |
 
 ### B. Graph-Based Questions
 
-| Q | Question Focus | How to Answer |
-|---|---|---|
-| **5** | Compare wavelength and amplitude from two graphs. | Use horizontal spacing for wavelength and vertical height for amplitude. |
-| **6** | Match curves A, B, C with frequency order. | More cycles in same distance means shorter wavelength and higher frequency if speed is same. |
-| **7** | Draw wave graph with amplitude 3 units and wavelength 4 cm. | Mark vertical amplitude as 3 units and horizontal distance for one cycle as 4 cm. |
-| **13** | Find wavelength and frequency from graph. | Read wavelength from graph, convert cm to m, then use \(f = v/\lambda\). |
-| **14** | Find wavelengths and frequencies of waves A and B. | Read each wavelength from graph, then use \(f = v/\lambda\). |
+| Q      | Question Focus                                              | How to Answer                                                                                |
+| ------ | ----------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| **5**  | Compare wavelength and amplitude from two graphs.           | Use horizontal spacing for wavelength and vertical height for amplitude.                     |
+| **6**  | Match curves A, B, C with frequency order.                  | More cycles in same distance means shorter wavelength and higher frequency if speed is same. |
+| **7**  | Draw wave graph with amplitude 3 units and wavelength 4 cm. | Mark vertical amplitude as 3 units and horizontal distance for one cycle as 4 cm.            |
+| **13** | Find wavelength and frequency from graph.                   | Read wavelength from graph, convert cm to m, then use \(f = v/\lambda\).                     |
+| **14** | Find wavelengths and frequencies of waves A and B.          | Read each wavelength from graph, then use \(f = v/\lambda\).                                 |
 
 ### C. Numerical Questions
 
-| Q | Given / Asked | Formula Route |
-|---|---|---|
-| **9** | Wavelength = 3.44 m, speed = 344 m s\(^{-1}\), find time period. | First find frequency \(f = v/\lambda\), then \(T = 1/f\). |
-| **10** | Sonar echo after 5 s, speed = 1525 m s\(^{-1}\). | Use \(d = vt/2\). |
-| **11** | Ultrasonic parking sensor, obstacle at 1.2 m, speed = 345 m s\(^{-1}\). | Total travel distance = 2.4 m, so \(t = 2d/v\). |
-| **12** | Thunder travel time at 331 m s\(^{-1}\) and 344 m s\(^{-1}\) for 1720 m. | Calculate both times and subtract. |
-| **15** | Same distance in air and water; return time for air is 4.5 times water. | For equal distance, speed is inversely proportional to time. |
+| Q      | Given / Asked                                                            | Formula Route                                                |
+| ------ | ------------------------------------------------------------------------ | ------------------------------------------------------------ |
+| **9**  | Wavelength = 3.44 m, speed = 344 m s\(^{-1}\), find time period.         | First find frequency \(f = v/\lambda\), then \(T = 1/f\).    |
+| **10** | Sonar echo after 5 s, speed = 1525 m s\(^{-1}\).                         | Use \(d = vt/2\).                                            |
+| **11** | Ultrasonic parking sensor, obstacle at 1.2 m, speed = 345 m s\(^{-1}\).  | Total travel distance = 2.4 m, so \(t = 2d/v\).              |
+| **12** | Thunder travel time at 331 m s\(^{-1}\) and 344 m s\(^{-1}\) for 1720 m. | Calculate both times and subtract.                           |
+| **15** | Same distance in air and water; return time for air is 4.5 times water.  | For equal distance, speed is inversely proportional to time. |
 
 ### D. Research and Extension Tasks
 
-| Task | Suggested Output |
-|---|---|
-| Earphone use and hearing | Article with research summary, hearing tests, dB ranges, and government support schemes. |
-| Cone and mobile phone sound | Observation table comparing loudness with and without cone. |
-| Curved hall design | Explanation of sound reflection and distribution in auditoriums. |
-| Measure speed of sound in open ground | Experiment report with distance, time readings, average, and calculated speed. |
-| Effect of humidity and temperature | Short report using simulations or reliable resources. |
+| Task                                  | Suggested Output                                                                         |
+| ------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Earphone use and hearing              | Article with research summary, hearing tests, dB ranges, and government support schemes. |
+| Cone and mobile phone sound           | Observation table comparing loudness with and without cone.                              |
+| Curved hall design                    | Explanation of sound reflection and distribution in auditoriums.                         |
+| Measure speed of sound in open ground | Experiment report with distance, time readings, average, and calculated speed.           |
+| Effect of humidity and temperature    | Short report using simulations or reliable resources.                                    |
 
 ---
 
@@ -1994,32 +1995,32 @@ $$
 
 ### Must-Remember Facts
 
-| Fact | Why It Matters |
-|---|---|
-| Sound is produced by vibrating objects. | Explains all sound sources. |
-| Sound needs a medium. | Explains why sound cannot travel in vacuum. |
-| Sound travels through solids, liquids, and gases. | Explains desk, water, and air examples. |
-| Sound is a longitudinal mechanical wave. | Connects particle motion and medium requirement. |
-| Compressions are high-density regions. | Helps read sound-wave diagrams. |
-| Rarefactions are low-density regions. | Helps read sound-wave diagrams. |
-| Particles do not travel with the sound wave. | Prevents a major conceptual mistake. |
-| Pitch depends mainly on frequency. | Helps compare high and low sounds. |
-| Loudness depends mainly on amplitude. | Helps compare loud and soft sounds. |
-| Echo requires a clear delay. | Explains the 17 m minimum reflecting distance. |
-| Sonar uses reflected sound. | Explains underwater distance measurement. |
+| Fact                                              | Why It Matters                                   |
+| ------------------------------------------------- | ------------------------------------------------ |
+| Sound is produced by vibrating objects.           | Explains all sound sources.                      |
+| Sound needs a medium.                             | Explains why sound cannot travel in vacuum.      |
+| Sound travels through solids, liquids, and gases. | Explains desk, water, and air examples.          |
+| Sound is a longitudinal mechanical wave.          | Connects particle motion and medium requirement. |
+| Compressions are high-density regions.            | Helps read sound-wave diagrams.                  |
+| Rarefactions are low-density regions.             | Helps read sound-wave diagrams.                  |
+| Particles do not travel with the sound wave.      | Prevents a major conceptual mistake.             |
+| Pitch depends mainly on frequency.                | Helps compare high and low sounds.               |
+| Loudness depends mainly on amplitude.             | Helps compare loud and soft sounds.              |
+| Echo requires a clear delay.                      | Explains the 17 m minimum reflecting distance.   |
+| Sonar uses reflected sound.                       | Explains underwater distance measurement.        |
 
 ### High-Value Numerical Values
 
-| Quantity | Value |
-|---|---|
-| Human audible range | 20 Hz to 20 kHz |
-| Infrasonic range | Below 20 Hz |
-| Ultrasonic range | Above 20 kHz |
+| Quantity                                    | Value                      |
+| ------------------------------------------- | -------------------------- |
+| Human audible range                         | 20 Hz to 20 kHz            |
+| Infrasonic range                            | Below 20 Hz                |
+| Ultrasonic range                            | Above 20 kHz               |
 | Speed of sound in air near room temperature | About 340-344 m s\(^{-1}\) |
-| Speed of sound in water | About 1500 m s\(^{-1}\) |
-| Speed of sound in steel | About 5000 m s\(^{-1}\) |
-| Minimum time gap for echo | About 0.1 s |
-| Approximate minimum echo distance in air | About 17 m |
+| Speed of sound in water                     | About 1500 m s\(^{-1}\)    |
+| Speed of sound in steel                     | About 5000 m s\(^{-1}\)    |
+| Minimum time gap for echo                   | About 0.1 s                |
+| Approximate minimum echo distance in air    | About 17 m                 |
 
 ---
 
@@ -2088,4 +2089,3 @@ Sound travels fastest in solids, slower in liquids, and slowest in gases. In air
 Humans perceive frequency as pitch and amplitude mainly as loudness. The human audible range is about 20 Hz to 20 kHz. Sounds below this range are infrasonic; sounds above it are ultrasonic.
 
 Sound reflects from surfaces. A reflected sound heard separately is called an echo. If many reflections blend together, the result is reverberation. Sonar and echolocation use reflected sound to locate objects.
-

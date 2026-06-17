@@ -1,4 +1,5 @@
 # Chapter 5: Mineral and Energy Resources
+
 ### NCERT Class 12 - Geography India
 
 ## Chapter at a Glance
@@ -22,26 +23,26 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Mineral | Naturally occurring substance with definite chemical and physical properties. |
-| Ore | Mineral from which metal can be extracted profitably. |
-| Metallic mineral | Mineral containing metal. |
-| Non-metallic mineral | Mineral not containing metal, such as mica or limestone. |
-| Energy resource | Resource used to produce power or fuel. |
-| Conventional energy | Traditional energy such as coal, petroleum, natural gas, and hydel power. |
-| Non-conventional energy | Renewable or alternative energy such as solar and wind. |
-| Mineral belt | Region with concentration of mineral deposits. |
+| Term                    | Meaning                                                                       |
+| ----------------------- | ----------------------------------------------------------------------------- |
+| Mineral                 | Naturally occurring substance with definite chemical and physical properties. |
+| Ore                     | Mineral from which metal can be extracted profitably.                         |
+| Metallic mineral        | Mineral containing metal.                                                     |
+| Non-metallic mineral    | Mineral not containing metal, such as mica or limestone.                      |
+| Energy resource         | Resource used to produce power or fuel.                                       |
+| Conventional energy     | Traditional energy such as coal, petroleum, natural gas, and hydel power.     |
+| Non-conventional energy | Renewable or alternative energy such as solar and wind.                       |
+| Mineral belt            | Region with concentration of mineral deposits.                                |
 
 ## Quick Learning Map
 
-| Resource type | Examples |
-|---|---|
-| Ferrous minerals | Iron ore, manganese |
-| Non-ferrous minerals | Copper, bauxite |
-| Non-metallic minerals | Mica, limestone |
-| Fossil fuels | Coal, petroleum, natural gas |
-| Renewable energy | Solar, wind, biomass, tidal, geothermal |
+| Resource type         | Examples                                |
+| --------------------- | --------------------------------------- |
+| Ferrous minerals      | Iron ore, manganese                     |
+| Non-ferrous minerals  | Copper, bauxite                         |
+| Non-metallic minerals | Mica, limestone                         |
+| Fossil fuels          | Coal, petroleum, natural gas            |
+| Renewable energy      | Solar, wind, biomass, tidal, geothermal |
 
 # Unit 5A: Importance of Minerals
 
@@ -253,13 +254,13 @@ For energy resources:
 
 # Unit 5M: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Treating minerals as renewable | Most minerals are exhaustible. |
-| Confusing mineral and ore | Ore is economically extractable mineral. |
-| Saying all energy resources are minerals | Solar and wind are energy resources but not minerals. |
-| Ignoring environmental costs | Mining and fossil fuels create serious impacts. |
-| Treating non-conventional energy as optional only | It is essential for future energy security. |
+| Mistake                                           | Correction                                            |
+| ------------------------------------------------- | ----------------------------------------------------- |
+| Treating minerals as renewable                    | Most minerals are exhaustible.                        |
+| Confusing mineral and ore                         | Ore is economically extractable mineral.              |
+| Saying all energy resources are minerals          | Solar and wind are energy resources but not minerals. |
+| Ignoring environmental costs                      | Mining and fossil fuels create serious impacts.       |
+| Treating non-conventional energy as optional only | It is essential for future energy security.           |
 
 ## Practice Set
 

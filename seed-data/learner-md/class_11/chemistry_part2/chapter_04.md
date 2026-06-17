@@ -1,4 +1,5 @@
 # Chapter 4: Hydrocarbons
+
 ### NCERT Class 11 - Chemistry Part 2
 
 ---
@@ -27,18 +28,18 @@ This chapter is not just a list of reactions. It is a map of organic reactivity.
 
 ## Chapter at a Glance
 
-| Area | Main Idea |
-| --- | --- |
-| Hydrocarbons | Compounds containing only carbon and hydrogen. |
-| Main sources | Petroleum, natural gas, coal, coal tar. |
-| Main classes | Alkanes, alkenes, alkynes, aromatic hydrocarbons. |
-| Alkanes | Saturated open-chain hydrocarbons with C-C single bonds. |
-| Alkenes | Unsaturated hydrocarbons with at least one C=C double bond. |
-| Alkynes | Unsaturated hydrocarbons with at least one C#C triple bond. |
-| Arenes | Aromatic hydrocarbons, usually containing benzene ring systems. |
-| Key structural theme | `sp3`, `sp2`, and `sp` hybridisation explain shapes and reactivity. |
-| Key reaction theme | Alkanes substitute, alkenes/alkynes add, benzene substitutes electrophilically. |
-| Key exam theme | Predict product, explain mechanism, compare stability/reactivity, name compounds. |
+| Area                 | Main Idea                                                                         |
+| -------------------- | --------------------------------------------------------------------------------- |
+| Hydrocarbons         | Compounds containing only carbon and hydrogen.                                    |
+| Main sources         | Petroleum, natural gas, coal, coal tar.                                           |
+| Main classes         | Alkanes, alkenes, alkynes, aromatic hydrocarbons.                                 |
+| Alkanes              | Saturated open-chain hydrocarbons with C-C single bonds.                          |
+| Alkenes              | Unsaturated hydrocarbons with at least one C=C double bond.                       |
+| Alkynes              | Unsaturated hydrocarbons with at least one C#C triple bond.                       |
+| Arenes               | Aromatic hydrocarbons, usually containing benzene ring systems.                   |
+| Key structural theme | `sp3`, `sp2`, and `sp` hybridisation explain shapes and reactivity.               |
+| Key reaction theme   | Alkanes substitute, alkenes/alkynes add, benzene substitutes electrophilically.   |
+| Key exam theme       | Predict product, explain mechanism, compare stability/reactivity, name compounds. |
 
 ---
 
@@ -46,36 +47,36 @@ This chapter is not just a list of reactions. It is a map of organic reactivity.
 
 By the end of this chapter, you should be able to:
 
-| Skill | You Should Be Able To |
-| --- | --- |
-| Classify | Identify whether a hydrocarbon is an alkane, alkene, alkyne, cycloalkane, or arene. |
-| Name | Write IUPAC names of alkanes, alkenes, alkynes, and simple benzene derivatives. |
-| Draw | Draw chain isomers, position isomers, cis-trans isomers, and conformations. |
-| Explain bonding | Explain sigma and pi bonds in alkanes, alkenes, alkynes, and benzene. |
-| Predict products | Predict products of hydrogenation, halogenation, hydration, ozonolysis, and electrophilic substitution. |
-| Apply rules | Use Markovnikov rule, peroxide effect, Huckel rule, and directive influence. |
-| Compare | Compare alkanes, alkenes, alkynes, and arenes in physical and chemical properties. |
-| Analyse mechanisms | Explain free radical substitution, electrophilic addition, and electrophilic aromatic substitution. |
-| Write answers | Convert reaction facts into clear short-answer and long-answer responses. |
+| Skill              | You Should Be Able To                                                                                   |
+| ------------------ | ------------------------------------------------------------------------------------------------------- |
+| Classify           | Identify whether a hydrocarbon is an alkane, alkene, alkyne, cycloalkane, or arene.                     |
+| Name               | Write IUPAC names of alkanes, alkenes, alkynes, and simple benzene derivatives.                         |
+| Draw               | Draw chain isomers, position isomers, cis-trans isomers, and conformations.                             |
+| Explain bonding    | Explain sigma and pi bonds in alkanes, alkenes, alkynes, and benzene.                                   |
+| Predict products   | Predict products of hydrogenation, halogenation, hydration, ozonolysis, and electrophilic substitution. |
+| Apply rules        | Use Markovnikov rule, peroxide effect, Huckel rule, and directive influence.                            |
+| Compare            | Compare alkanes, alkenes, alkynes, and arenes in physical and chemical properties.                      |
+| Analyse mechanisms | Explain free radical substitution, electrophilic addition, and electrophilic aromatic substitution.     |
+| Write answers      | Convert reaction facts into clear short-answer and long-answer responses.                               |
 
 ---
 
 ## Big Map of the Chapter
 
-| Unit | Main Question | Main Answer |
-| --- | --- | --- |
-| Hydrocarbons | What are hydrocarbons? | Compounds of carbon and hydrogen only. |
-| Classification | How are hydrocarbons grouped? | By carbon skeleton and type of C-C bond. |
-| Alkanes | Why are alkanes less reactive? | They contain strong sigma bonds and no pi bond. |
-| Alkane reactions | What reactions do alkanes show? | Substitution, combustion, oxidation, isomerisation, aromatisation, pyrolysis. |
-| Conformations | Why can ethane have different shapes? | Rotation around C-C sigma bond gives conformers. |
-| Alkenes | Why are alkenes reactive? | The pi bond has mobile electrons and is easily attacked by electrophiles. |
-| Alkene reactions | What is typical of alkenes? | Addition reactions across C=C. |
-| Alkynes | How are alkynes different from alkenes? | They contain C#C, are linear, and terminal alkynes are acidic. |
-| Aromatic hydrocarbons | Why is benzene special? | It has delocalised pi electrons and unusual stability. |
-| Benzene reactions | Why does benzene substitute rather than add? | Substitution preserves aromaticity; addition destroys it. |
-| Directive influence | Why do substituents control product position? | They change electron density at ortho, meta, and para positions. |
-| Toxicity | Why are some hydrocarbons dangerous? | Benzene and fused-ring hydrocarbons can be toxic and carcinogenic. |
+| Unit                  | Main Question                                 | Main Answer                                                                   |
+| --------------------- | --------------------------------------------- | ----------------------------------------------------------------------------- |
+| Hydrocarbons          | What are hydrocarbons?                        | Compounds of carbon and hydrogen only.                                        |
+| Classification        | How are hydrocarbons grouped?                 | By carbon skeleton and type of C-C bond.                                      |
+| Alkanes               | Why are alkanes less reactive?                | They contain strong sigma bonds and no pi bond.                               |
+| Alkane reactions      | What reactions do alkanes show?               | Substitution, combustion, oxidation, isomerisation, aromatisation, pyrolysis. |
+| Conformations         | Why can ethane have different shapes?         | Rotation around C-C sigma bond gives conformers.                              |
+| Alkenes               | Why are alkenes reactive?                     | The pi bond has mobile electrons and is easily attacked by electrophiles.     |
+| Alkene reactions      | What is typical of alkenes?                   | Addition reactions across C=C.                                                |
+| Alkynes               | How are alkynes different from alkenes?       | They contain C#C, are linear, and terminal alkynes are acidic.                |
+| Aromatic hydrocarbons | Why is benzene special?                       | It has delocalised pi electrons and unusual stability.                        |
+| Benzene reactions     | Why does benzene substitute rather than add?  | Substitution preserves aromaticity; addition destroys it.                     |
+| Directive influence   | Why do substituents control product position? | They change electron density at ortho, meta, and para positions.              |
+| Toxicity              | Why are some hydrocarbons dangerous?          | Benzene and fused-ring hydrocarbons can be toxic and carcinogenic.            |
 
 ---
 
@@ -86,40 +87,40 @@ Hydrocarbons are classified in two connected ways:
 1. By carbon skeleton.
 2. By type of carbon-carbon bond.
 
-| Basis | Class | Meaning | Example |
-| --- | --- | --- | --- |
-| Open chain | Aliphatic hydrocarbons | Carbon atoms form open chains, straight or branched. | Butane, propene, propyne |
-| Closed chain | Alicyclic hydrocarbons | Carbon atoms form non-aromatic rings. | Cyclohexane |
-| Aromatic ring | Aromatic hydrocarbons | Stable cyclic conjugated systems, often benzene-like. | Benzene, toluene |
-| Single bonds only | Saturated hydrocarbons | No C=C or C#C bond. | Alkanes |
-| Multiple bonds | Unsaturated hydrocarbons | Contain C=C, C#C, or both. | Alkenes, alkynes |
+| Basis             | Class                    | Meaning                                               | Example                  |
+| ----------------- | ------------------------ | ----------------------------------------------------- | ------------------------ |
+| Open chain        | Aliphatic hydrocarbons   | Carbon atoms form open chains, straight or branched.  | Butane, propene, propyne |
+| Closed chain      | Alicyclic hydrocarbons   | Carbon atoms form non-aromatic rings.                 | Cyclohexane              |
+| Aromatic ring     | Aromatic hydrocarbons    | Stable cyclic conjugated systems, often benzene-like. | Benzene, toluene         |
+| Single bonds only | Saturated hydrocarbons   | No C=C or C#C bond.                                   | Alkanes                  |
+| Multiple bonds    | Unsaturated hydrocarbons | Contain C=C, C#C, or both.                            | Alkenes, alkynes         |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Hydrocarbon | Organic compound made only of carbon and hydrogen. |
-| Saturated hydrocarbon | Hydrocarbon containing only C-C single bonds. |
-| Unsaturated hydrocarbon | Hydrocarbon containing at least one C=C or C#C bond. |
-| Alkane | Saturated open-chain hydrocarbon, general formula `CnH2n+2`. |
-| Alkene | Hydrocarbon containing at least one C=C bond, general formula `CnH2n` for one double bond and open chain. |
-| Alkyne | Hydrocarbon containing at least one C#C bond, general formula `CnH2n-2` for one triple bond and open chain. |
-| Arene | Aromatic hydrocarbon. |
-| Sigma bond | Bond formed by head-on overlap of orbitals. |
-| Pi bond | Bond formed by sideways overlap of parallel p orbitals. |
-| Chain isomerism | Isomerism due to different carbon skeletons. |
-| Position isomerism | Isomerism due to different position of a multiple bond or substituent. |
-| Geometrical isomerism | Cis-trans isomerism due to restricted rotation around C=C. |
-| Conformation | Spatial arrangement interconvertible by rotation around a single bond. |
-| Torsional strain | Repulsion caused by eclipsing of bonds during rotation around a single bond. |
-| Electrophile | Electron-deficient species that attacks electron-rich sites. |
-| Free radical | Neutral species having an unpaired electron. |
-| Markovnikov rule | In addition of HX to unsymmetrical alkene, X goes to the double-bond carbon having fewer hydrogens. |
-| Peroxide effect | Anti-Markovnikov addition of HBr in presence of peroxide. |
-| Aromaticity | Special stability of planar cyclic conjugated systems with `(4n + 2)` pi electrons. |
-| Directive influence | Effect of an existing substituent on the position of further substitution in benzene. |
+| Term                    | Meaning                                                                                                     |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------- |
+| Hydrocarbon             | Organic compound made only of carbon and hydrogen.                                                          |
+| Saturated hydrocarbon   | Hydrocarbon containing only C-C single bonds.                                                               |
+| Unsaturated hydrocarbon | Hydrocarbon containing at least one C=C or C#C bond.                                                        |
+| Alkane                  | Saturated open-chain hydrocarbon, general formula `CnH2n+2`.                                                |
+| Alkene                  | Hydrocarbon containing at least one C=C bond, general formula `CnH2n` for one double bond and open chain.   |
+| Alkyne                  | Hydrocarbon containing at least one C#C bond, general formula `CnH2n-2` for one triple bond and open chain. |
+| Arene                   | Aromatic hydrocarbon.                                                                                       |
+| Sigma bond              | Bond formed by head-on overlap of orbitals.                                                                 |
+| Pi bond                 | Bond formed by sideways overlap of parallel p orbitals.                                                     |
+| Chain isomerism         | Isomerism due to different carbon skeletons.                                                                |
+| Position isomerism      | Isomerism due to different position of a multiple bond or substituent.                                      |
+| Geometrical isomerism   | Cis-trans isomerism due to restricted rotation around C=C.                                                  |
+| Conformation            | Spatial arrangement interconvertible by rotation around a single bond.                                      |
+| Torsional strain        | Repulsion caused by eclipsing of bonds during rotation around a single bond.                                |
+| Electrophile            | Electron-deficient species that attacks electron-rich sites.                                                |
+| Free radical            | Neutral species having an unpaired electron.                                                                |
+| Markovnikov rule        | In addition of HX to unsymmetrical alkene, X goes to the double-bond carbon having fewer hydrogens.         |
+| Peroxide effect         | Anti-Markovnikov addition of HBr in presence of peroxide.                                                   |
+| Aromaticity             | Special stability of planar cyclic conjugated systems with `(4n + 2)` pi electrons.                         |
+| Directive influence     | Effect of an existing substituent on the position of further substitution in benzene.                       |
 
 ---
 
@@ -140,37 +141,37 @@ No oxygen, nitrogen, halogen, sulphur, or other element is present in a pure hyd
 
 Examples:
 
-| Compound | Formula | Class |
-| --- | --- | --- |
-| Methane | `CH4` | Alkane |
-| Ethane | `C2H6` | Alkane |
-| Ethene | `C2H4` | Alkene |
-| Ethyne | `C2H2` | Alkyne |
-| Benzene | `C6H6` | Aromatic hydrocarbon |
-| Toluene | `C6H5CH3` | Aromatic hydrocarbon |
+| Compound | Formula   | Class                |
+| -------- | --------- | -------------------- |
+| Methane  | `CH4`     | Alkane               |
+| Ethane   | `C2H6`    | Alkane               |
+| Ethene   | `C2H4`    | Alkene               |
+| Ethyne   | `C2H2`    | Alkyne               |
+| Benzene  | `C6H6`    | Aromatic hydrocarbon |
+| Toluene  | `C6H5CH3` | Aromatic hydrocarbon |
 
 ## 1.2 Why Hydrocarbons Matter
 
 Hydrocarbons are important because they are:
 
-| Use | Explanation |
-| --- | --- |
-| Fuels | LPG, CNG, petrol, diesel, kerosene, coal gas, natural gas. |
-| Energy sources | Combustion of hydrocarbons releases heat. |
-| Polymer raw materials | Ethene gives polythene; propene gives polypropylene. |
-| Industrial starting materials | Used to make dyes, drugs, solvents, plastics, and synthetic fibres. |
-| Solvents | Higher hydrocarbons dissolve many non-polar substances. |
-| Petrochemicals | Petroleum-derived hydrocarbons act as feedstock for chemical industries. |
+| Use                           | Explanation                                                              |
+| ----------------------------- | ------------------------------------------------------------------------ |
+| Fuels                         | LPG, CNG, petrol, diesel, kerosene, coal gas, natural gas.               |
+| Energy sources                | Combustion of hydrocarbons releases heat.                                |
+| Polymer raw materials         | Ethene gives polythene; propene gives polypropylene.                     |
+| Industrial starting materials | Used to make dyes, drugs, solvents, plastics, and synthetic fibres.      |
+| Solvents                      | Higher hydrocarbons dissolve many non-polar substances.                  |
+| Petrochemicals                | Petroleum-derived hydrocarbons act as feedstock for chemical industries. |
 
 ## 1.3 Important Fuel Terms
 
-| Term | Full Form | Main Idea |
-| --- | --- | --- |
-| LPG | Liquefied Petroleum Gas | Domestic fuel; mainly propane and butane mixture. |
-| CNG | Compressed Natural Gas | Automobile fuel; mainly methane. |
-| LNG | Liquefied Natural Gas | Natural gas cooled and liquefied for storage/transport. |
-| Petrol | Petroleum fraction | Liquid hydrocarbon mixture used in automobiles. |
-| Kerosene | Petroleum fraction | Used as domestic/aviation fuel, but more polluting than cleaner gaseous fuels. |
+| Term     | Full Form               | Main Idea                                                                      |
+| -------- | ----------------------- | ------------------------------------------------------------------------------ |
+| LPG      | Liquefied Petroleum Gas | Domestic fuel; mainly propane and butane mixture.                              |
+| CNG      | Compressed Natural Gas  | Automobile fuel; mainly methane.                                               |
+| LNG      | Liquefied Natural Gas   | Natural gas cooled and liquefied for storage/transport.                        |
+| Petrol   | Petroleum fraction      | Liquid hydrocarbon mixture used in automobiles.                                |
+| Kerosene | Petroleum fraction      | Used as domestic/aviation fuel, but more polluting than cleaner gaseous fuels. |
 
 ## 1.4 Exam Answer Frame
 
@@ -218,10 +219,10 @@ They may contain:
 
 Main examples:
 
-| Class | Multiple Bond | Example |
-| --- | --- | --- |
-| Alkene | C=C | `CH2=CH2` |
-| Alkyne | C#C | `HC#CH` |
+| Class  | Multiple Bond | Example   |
+| ------ | ------------- | --------- |
+| Alkene | C=C           | `CH2=CH2` |
+| Alkyne | C#C           | `HC#CH`   |
 
 The multiple bond contains a pi bond. The pi bond is weaker and more exposed than a sigma bond, so unsaturated hydrocarbons easily undergo addition reactions.
 
@@ -235,13 +236,13 @@ Benzene contains a ring of six carbon atoms, but it does not behave like an ordi
 
 ## 2.4 Quick Identification Table
 
-| Formula/Structure Clue | Likely Class |
-| --- | --- |
-| Only C-C single bonds in open chain | Alkane |
-| Contains C=C | Alkene |
-| Contains C#C | Alkyne |
-| Contains benzene ring | Aromatic hydrocarbon |
-| Ring with only single bonds and no aromaticity | Cycloalkane |
+| Formula/Structure Clue                         | Likely Class         |
+| ---------------------------------------------- | -------------------- |
+| Only C-C single bonds in open chain            | Alkane               |
+| Contains C=C                                   | Alkene               |
+| Contains C#C                                   | Alkyne               |
+| Contains benzene ring                          | Aromatic hydrocarbon |
+| Ring with only single bonds and no aromaticity | Cycloalkane          |
 
 ## 2.5 Decision Tree
 
@@ -280,13 +281,13 @@ General formula:
 
 Examples:
 
-| n | Formula | Name |
-| --- | --- | --- |
-| 1 | `CH4` | Methane |
-| 2 | `C2H6` | Ethane |
-| 3 | `C3H8` | Propane |
-| 4 | `C4H10` | Butane |
-| 5 | `C5H12` | Pentane |
+| n   | Formula | Name    |
+| --- | ------- | ------- |
+| 1   | `CH4`   | Methane |
+| 2   | `C2H6`  | Ethane  |
+| 3   | `C3H8`  | Propane |
+| 4   | `C4H10` | Butane  |
+| 5   | `C5H12` | Pentane |
 
 ## 3.2 Why Alkanes Were Called Paraffins
 
@@ -325,12 +326,12 @@ In higher alkanes:
 
 Alkanes can be imagined as methane molecules extended by replacing one hydrogen with `-CH3`.
 
-| Step | Formula | Name |
-| --- | --- | --- |
-| Methane | `CH4` | first alkane |
-| Replace H by `-CH3` | `CH3-CH3` | ethane |
-| Extend again | `CH3-CH2-CH3` | propane |
-| Extend again | `CH3-CH2-CH2-CH3` | butane |
+| Step                | Formula           | Name         |
+| ------------------- | ----------------- | ------------ |
+| Methane             | `CH4`             | first alkane |
+| Replace H by `-CH3` | `CH3-CH3`         | ethane       |
+| Extend again        | `CH3-CH2-CH3`     | propane      |
+| Extend again        | `CH3-CH2-CH2-CH3` | butane       |
 
 Each next member differs from the previous member by `-CH2-`.
 
@@ -350,20 +351,20 @@ From butane onward, different carbon skeletons are possible.
 
 Butane has two chain isomers:
 
-| Structure | Name |
-| --- | --- |
-| `CH3-CH2-CH2-CH3` | Butane or n-butane |
-| `(CH3)3CH` | 2-Methylpropane or isobutane |
+| Structure         | Name                         |
+| ----------------- | ---------------------------- |
+| `CH3-CH2-CH2-CH3` | Butane or n-butane           |
+| `(CH3)3CH`        | 2-Methylpropane or isobutane |
 
 ### Pentane: `C5H12`
 
 Pentane has three chain isomers:
 
-| Structure | Name |
-| --- | --- |
-| `CH3-CH2-CH2-CH2-CH3` | Pentane |
-| `CH3-CH(CH3)-CH2-CH3` | 2-Methylbutane |
-| `C(CH3)4` | 2,2-Dimethylpropane |
+| Structure             | Name                |
+| --------------------- | ------------------- |
+| `CH3-CH2-CH2-CH2-CH3` | Pentane             |
+| `CH3-CH(CH3)-CH2-CH3` | 2-Methylbutane      |
+| `C(CH3)4`             | 2,2-Dimethylpropane |
 
 ### Important Pattern
 
@@ -371,24 +372,24 @@ As the number of carbon atoms increases, the number of possible isomers increase
 
 Examples:
 
-| Formula | Number of Chain Isomers |
-| --- | --- |
-| `C4H10` | 2 |
-| `C5H12` | 3 |
-| `C6H14` | 5 |
-| `C7H16` | 9 |
-| `C10H22` | 75 |
+| Formula  | Number of Chain Isomers |
+| -------- | ----------------------- |
+| `C4H10`  | 2                       |
+| `C5H12`  | 3                       |
+| `C6H14`  | 5                       |
+| `C7H16`  | 9                       |
+| `C10H22` | 75                      |
 
 ## 3.6 Primary, Secondary, Tertiary, and Quaternary Carbon
 
 Carbon atoms in alkanes are classified by the number of carbon atoms directly attached to them.
 
-| Type | Attached to How Many Carbon Atoms? | Example Meaning |
-| --- | --- | --- |
-| Primary carbon, `1°` | 0 or 1 carbon atom | terminal carbon in a chain |
-| Secondary carbon, `2°` | 2 carbon atoms | middle carbon in a straight chain |
-| Tertiary carbon, `3°` | 3 carbon atoms | branching carbon attached to three carbons |
-| Quaternary carbon, `4°` | 4 carbon atoms | carbon attached to four carbons |
+| Type                    | Attached to How Many Carbon Atoms? | Example Meaning                            |
+| ----------------------- | ---------------------------------- | ------------------------------------------ |
+| Primary carbon, `1°`    | 0 or 1 carbon atom                 | terminal carbon in a chain                 |
+| Secondary carbon, `2°`  | 2 carbon atoms                     | middle carbon in a straight chain          |
+| Tertiary carbon, `3°`   | 3 carbon atoms                     | branching carbon attached to three carbons |
+| Quaternary carbon, `4°` | 4 carbon atoms                     | carbon attached to four carbons            |
 
 Example:
 
@@ -408,12 +409,12 @@ General formula:
 
 Examples:
 
-| Alkane | Alkyl Group | Name |
-| --- | --- | --- |
-| Methane, `CH4` | `CH3-` | Methyl |
-| Ethane, `C2H6` | `C2H5-` | Ethyl |
-| Propane, `C3H8` | `C3H7-` | Propyl |
-| Butane, `C4H10` | `C4H9-` | Butyl |
+| Alkane          | Alkyl Group | Name   |
+| --------------- | ----------- | ------ |
+| Methane, `CH4`  | `CH3-`      | Methyl |
+| Ethane, `C2H6`  | `C2H5-`     | Ethyl  |
+| Propane, `C3H8` | `C3H7-`     | Propyl |
+| Butane, `C4H10` | `C4H9-`     | Butyl  |
 
 Alkyl groups appear as substituents in IUPAC names.
 
@@ -531,12 +532,12 @@ Example:
 
 Important points:
 
-| Point | Meaning |
-| --- | --- |
-| Dry ether is used | Moisture interferes with sodium. |
-| Best for symmetrical alkanes | Same alkyl halide gives one major alkane. |
-| Not preferred for odd-carbon alkanes | Two different alkyl halides give mixture of products. |
-| Useful for even-carbon alkanes | Example: methyl bromide gives ethane; ethyl bromide gives butane. |
+| Point                                | Meaning                                                           |
+| ------------------------------------ | ----------------------------------------------------------------- |
+| Dry ether is used                    | Moisture interferes with sodium.                                  |
+| Best for symmetrical alkanes         | Same alkyl halide gives one major alkane.                         |
+| Not preferred for odd-carbon alkanes | Two different alkyl halides give mixture of products.             |
+| Useful for even-carbon alkanes       | Example: methyl bromide gives ethane; ethyl bromide gives butane. |
 
 ### Why Wurtz Reaction Is Not Good for Odd Alkanes
 
@@ -597,11 +598,11 @@ Example:
 
 Important features:
 
-| Feature | Explanation |
-| --- | --- |
-| Occurs at anode | Carboxylate ions lose electrons. |
-| Free radicals form | Alkyl radicals combine to give alkane. |
-| Even-carbon alkanes | Two identical radicals couple. |
+| Feature              | Explanation                                                                  |
+| -------------------- | ---------------------------------------------------------------------------- |
+| Occurs at anode      | Carboxylate ions lose electrons.                                             |
+| Free radicals form   | Alkyl radicals combine to give alkane.                                       |
+| Even-carbon alkanes  | Two identical radicals couple.                                               |
 | Methane not prepared | Coupling of radicals gives at least two carbon atoms for acetate-type cases. |
 
 ---
@@ -639,11 +640,11 @@ This also explains why petrol and lower petroleum fractions can remove grease st
 
 At room temperature:
 
-| Carbon Atoms | Physical State |
-| --- | --- |
-| `C1` to `C4` | Gases |
-| `C5` to `C17` | Liquids |
-| `C18` and above | Solids |
+| Carbon Atoms    | Physical State |
+| --------------- | -------------- |
+| `C1` to `C4`    | Gases          |
+| `C5` to `C17`   | Liquids        |
+| `C18` and above | Solids         |
 
 ## 5.4 Boiling Point Trend
 
@@ -670,11 +671,11 @@ Reason:
 
 Example:
 
-| Isomer of `C5H12` | Boiling Point Trend |
-| --- | --- |
-| Pentane | Highest |
-| 2-Methylbutane | Lower |
-| 2,2-Dimethylpropane | Lowest |
+| Isomer of `C5H12`   | Boiling Point Trend |
+| ------------------- | ------------------- |
+| Pentane             | Highest             |
+| 2-Methylbutane      | Lower               |
+| 2,2-Dimethylpropane | Lowest              |
 
 Answer frame:
 
@@ -722,12 +723,12 @@ CHCl3 + Cl2 --hv--> CCl4 + HCl
 
 Products:
 
-| Formula | Name |
-| --- | --- |
-| `CH3Cl` | Chloromethane |
-| `CH2Cl2` | Dichloromethane |
-| `CHCl3` | Trichloromethane/chloroform |
-| `CCl4` | Tetrachloromethane/carbon tetrachloride |
+| Formula  | Name                                    |
+| -------- | --------------------------------------- |
+| `CH3Cl`  | Chloromethane                           |
+| `CH2Cl2` | Dichloromethane                         |
+| `CHCl3`  | Trichloromethane/chloroform             |
+| `CCl4`   | Tetrachloromethane/carbon tetrachloride |
 
 ## 6.2 Conditions for Halogenation
 
@@ -743,12 +744,12 @@ Rate of halogen reaction:
 
 Important notes:
 
-| Halogen | Behaviour |
-| --- | --- |
-| Fluorine | Too violent to control. |
-| Chlorine | Commonly used in examples. |
-| Bromine | Slower and more selective. |
-| Iodine | Very slow and reversible; needs oxidising agent. |
+| Halogen  | Behaviour                                        |
+| -------- | ------------------------------------------------ |
+| Fluorine | Too violent to control.                          |
+| Chlorine | Commonly used in examples.                       |
+| Bromine  | Slower and more selective.                       |
+| Iodine   | Very slow and reversible; needs oxidising agent. |
 
 Rate of replacement of hydrogen:
 
@@ -1002,10 +1003,10 @@ If one carbon is kept fixed and the other is rotated around the C-C bond, many a
 
 Two extreme conformations are important:
 
-| Conformation | Arrangement | Stability |
-| --- | --- | --- |
-| Eclipsed | Hydrogens on front and rear carbon are closest | Less stable |
-| Staggered | Hydrogens are farthest apart | More stable |
+| Conformation | Arrangement                                    | Stability   |
+| ------------ | ---------------------------------------------- | ----------- |
+| Eclipsed     | Hydrogens on front and rear carbon are closest | Less stable |
+| Staggered    | Hydrogens are farthest apart                   | More stable |
 
 ## 7.4 Eclipsed Conformation
 
@@ -1046,10 +1047,10 @@ Therefore, at ordinary temperature, ethane molecules can rotate around the C-C b
 
 Ethane conformations are commonly represented by:
 
-| Projection | How It Views the Molecule |
-| --- | --- |
+| Projection          | How It Views the Molecule                                            |
+| ------------------- | -------------------------------------------------------------------- |
 | Sawhorse projection | Viewed along the molecular axis but drawn with an inclined C-C bond. |
-| Newman projection | Viewed directly along the C-C bond. |
+| Newman projection   | Viewed directly along the C-C bond.                                  |
 
 In Newman projection:
 
@@ -1078,11 +1079,11 @@ General formula for open-chain monoalkenes:
 
 Examples:
 
-| Formula | Name |
-| --- | --- |
-| `C2H4` | Ethene |
-| `C3H6` | Propene |
-| `C4H8` | Butene |
+| Formula | Name    |
+| ------- | ------- |
+| `C2H4`  | Ethene  |
+| `C3H6`  | Propene |
+| `C4H8`  | Butene  |
 
 Alkenes are also called **olefins** because ethene was known to form an oily liquid with chlorine.
 
@@ -1128,24 +1129,24 @@ Rules:
 
 Examples:
 
-| Structure | IUPAC Name |
-| --- | --- |
-| `CH2=CH2` | Ethene |
-| `CH3-CH=CH2` | Propene |
-| `CH3-CH2-CH=CH2` | But-1-ene |
-| `CH3-CH=CH-CH3` | But-2-ene |
-| `CH2=CH-CH=CH2` | Buta-1,3-diene |
+| Structure        | IUPAC Name         |
+| ---------------- | ------------------ |
+| `CH2=CH2`        | Ethene             |
+| `CH3-CH=CH2`     | Propene            |
+| `CH3-CH2-CH=CH2` | But-1-ene          |
+| `CH3-CH=CH-CH3`  | But-2-ene          |
+| `CH2=CH-CH=CH2`  | Buta-1,3-diene     |
 | `CH2=C(CH3)-CH3` | 2-Methylprop-1-ene |
 
 ## 8.5 Counting Sigma and Pi Bonds
 
 Useful rules:
 
-| Bond | Sigma Bonds | Pi Bonds |
-| --- | --- | --- |
-| Single bond | 1 | 0 |
-| Double bond | 1 | 1 |
-| Triple bond | 1 | 2 |
+| Bond        | Sigma Bonds | Pi Bonds |
+| ----------- | ----------- | -------- |
+| Single bond | 1           | 0        |
+| Double bond | 1           | 1        |
+| Triple bond | 1           | 2        |
 
 Example:
 
@@ -1165,11 +1166,11 @@ Alkenes show:
 
 Example: `C4H8`
 
-| Structure | Name | Type Relation |
-| --- | --- | --- |
-| `CH2=CH-CH2-CH3` | But-1-ene | position isomer of but-2-ene |
-| `CH3-CH=CH-CH3` | But-2-ene | position isomer of but-1-ene |
-| `CH2=C(CH3)-CH3` | 2-Methylprop-1-ene | chain isomer |
+| Structure        | Name               | Type Relation                |
+| ---------------- | ------------------ | ---------------------------- |
+| `CH2=CH-CH2-CH3` | But-1-ene          | position isomer of but-2-ene |
+| `CH3-CH=CH-CH3`  | But-2-ene          | position isomer of but-1-ene |
+| `CH2=C(CH3)-CH3` | 2-Methylprop-1-ene | chain isomer                 |
 
 ## 8.7 Geometrical Isomerism
 
@@ -1189,10 +1190,10 @@ Example:
 
 But-2-ene has cis and trans forms.
 
-| Isomer | Arrangement | Dipole |
-| --- | --- | --- |
-| cis-But-2-ene | `CH3` groups on same side | Polar, dipole does not cancel fully |
-| trans-But-2-ene | `CH3` groups on opposite sides | Nearly non-polar, dipoles cancel |
+| Isomer          | Arrangement                    | Dipole                              |
+| --------------- | ------------------------------ | ----------------------------------- |
+| cis-But-2-ene   | `CH3` groups on same side      | Polar, dipole does not cancel fully |
+| trans-But-2-ene | `CH3` groups on opposite sides | Nearly non-polar, dipoles cancel    |
 
 ## 8.8 Conditions for Cis-Trans Isomerism
 
@@ -1204,12 +1205,12 @@ A compound shows geometrical isomerism if:
 
 Examples:
 
-| Compound | Shows Cis-Trans? | Reason |
-| --- | --- | --- |
-| `CHCl=CHCl` | Yes | each C has H and Cl |
-| `CH2=CBr2` | No | one carbon has two H atoms and other has two Br atoms |
-| `C6H5CH=CHCH3` | Yes | each C has two different groups |
-| `CH3CH=CClCH3` | Yes | each C has two different groups |
+| Compound       | Shows Cis-Trans? | Reason                                                |
+| -------------- | ---------------- | ----------------------------------------------------- |
+| `CHCl=CHCl`    | Yes              | each C has H and Cl                                   |
+| `CH2=CBr2`     | No               | one carbon has two H atoms and other has two Br atoms |
+| `C6H5CH=CHCH3` | Yes              | each C has two different groups                       |
+| `CH3CH=CClCH3` | Yes              | each C has two different groups                       |
 
 ## 8.9 Why Cis and Trans Isomers Differ in Properties
 
@@ -1257,10 +1258,10 @@ Alkynes on reduction with sodium in liquid ammonia give trans-alkenes.
 
 Comparison:
 
-| Reagent | Product Geometry |
-| --- | --- |
-| Lindlar catalyst | cis-alkene |
-| Na/liquid NH3 | trans-alkene |
+| Reagent          | Product Geometry |
+| ---------------- | ---------------- |
+| Lindlar catalyst | cis-alkene       |
+| Na/liquid NH3    | trans-alkene     |
 
 ## 9.2 From Alkyl Halides: Dehydrohalogenation
 
@@ -1326,11 +1327,11 @@ Alkenes resemble alkanes in many physical properties.
 
 ## 10.1 State
 
-| Members | Physical State |
-| --- | --- |
-| First three | Gases |
-| Next fourteen | Liquids |
-| Higher members | Solids |
+| Members        | Physical State |
+| -------------- | -------------- |
+| First three    | Gases          |
+| Next fourteen  | Liquids        |
+| Higher members | Solids         |
 
 ## 10.2 Colour and Smell
 
@@ -1513,11 +1514,11 @@ This produces `1-bromopropane`.
 
 It depends on bond energies and radical chain feasibility.
 
-| Hydrogen Halide | Reason |
-| --- | --- |
-| HCl | H-Cl bond is too strong; radical chain step is not favourable. |
-| HBr | Bond energy and radical steps are suitable. |
-| HI | H-I bond is weak, but iodine radicals tend to combine and chain does not proceed effectively. |
+| Hydrogen Halide | Reason                                                                                        |
+| --------------- | --------------------------------------------------------------------------------------------- |
+| HCl             | H-Cl bond is too strong; radical chain step is not favourable.                                |
+| HBr             | Bond energy and radical steps are suitable.                                                   |
+| HI              | H-I bond is weak, but iodine radicals tend to combine and chain does not proceed effectively. |
 
 ## 11.9 Addition of Sulphuric Acid
 
@@ -1616,10 +1617,10 @@ n CH3-CH=CH2 --heat/pressure/catalyst--> -(CH(CH3)-CH2)n-
 
 Uses:
 
-| Polymer | Uses |
-| --- | --- |
-| Polythene | bags, sheets, squeeze bottles, containers |
-| Polypropene | buckets, crates, moulded articles |
+| Polymer     | Uses                                      |
+| ----------- | ----------------------------------------- |
+| Polythene   | bags, sheets, squeeze bottles, containers |
+| Polypropene | buckets, crates, moulded articles         |
 
 Environmental note:
 
@@ -1670,14 +1671,14 @@ Rules:
 
 Examples:
 
-| Structure | IUPAC Name |
-| --- | --- |
-| `HC#CH` | Ethyne |
-| `CH3-C#CH` | Propyne |
-| `HC#C-CH2-CH3` | But-1-yne |
-| `CH3-C#C-CH3` | But-2-yne |
+| Structure          | IUPAC Name |
+| ------------------ | ---------- |
+| `HC#CH`            | Ethyne     |
+| `CH3-C#CH`         | Propyne    |
+| `HC#C-CH2-CH3`     | But-1-yne  |
+| `CH3-C#C-CH3`      | But-2-yne  |
 | `HC#C-CH2-CH2-CH3` | Pent-1-yne |
-| `CH3-C#C-CH2-CH3` | Pent-2-yne |
+| `CH3-C#C-CH2-CH3`  | Pent-2-yne |
 
 ## 12.4 Isomerism in Alkynes
 
@@ -1689,19 +1690,19 @@ Example:
 
 `C4H6`
 
-| Structure | Name |
-| --- | --- |
+| Structure      | Name      |
+| -------------- | --------- |
 | `HC#C-CH2-CH3` | But-1-yne |
-| `CH3-C#C-CH3` | But-2-yne |
+| `CH3-C#C-CH3`  | But-2-yne |
 
 For `C5H8`, both position and chain isomerism are possible.
 
 Examples:
 
-| Structure | Name |
-| --- | --- |
-| `HC#C-CH2-CH2-CH3` | Pent-1-yne |
-| `CH3-C#C-CH2-CH3` | Pent-2-yne |
+| Structure          | Name              |
+| ------------------ | ----------------- |
+| `HC#C-CH2-CH2-CH3` | Pent-1-yne        |
+| `CH3-C#C-CH2-CH3`  | Pent-2-yne        |
 | `CH3-CH(CH3)-C#CH` | 3-Methylbut-1-yne |
 
 ## 12.5 Structure of Triple Bond
@@ -1716,10 +1717,10 @@ In ethyne:
 Bond comparison:
 
 | Bond | Approximate Bond Length | Approximate Bond Enthalpy |
-| --- | --- | --- |
-| C-C | `154 pm` | `348 kJ mol-1` |
-| C=C | `133-134 pm` | `681 kJ mol-1` |
-| C#C | `120 pm` | `823 kJ mol-1` |
+| ---- | ----------------------- | ------------------------- |
+| C-C  | `154 pm`                | `348 kJ mol-1`            |
+| C=C  | `133-134 pm`            | `681 kJ mol-1`            |
+| C#C  | `120 pm`                | `823 kJ mol-1`            |
 
 Important:
 
@@ -1798,11 +1799,11 @@ R-CHX-CH2X --alc. KOH--> R-CH=CHX --NaNH2--> R-C#CH
 
 ## 14.1 State
 
-| Members | State |
-| --- | --- |
-| First three | Gases |
-| Next eight | Liquids |
-| Higher members | Solids |
+| Members        | State   |
+| -------------- | ------- |
+| First three    | Gases   |
+| Next eight     | Liquids |
+| Higher members | Solids  |
 
 ## 14.2 Colour and Odour
 
@@ -2020,18 +2021,18 @@ Most common aromatic hydrocarbons contain benzene rings.
 
 Examples:
 
-| Compound | Formula/Description |
-| --- | --- |
-| Benzene | `C6H6` |
-| Toluene | `C6H5CH3` |
-| Naphthalene | two fused benzene rings |
-| Biphenyl | two benzene rings joined by single bond |
+| Compound    | Formula/Description                     |
+| ----------- | --------------------------------------- |
+| Benzene     | `C6H6`                                  |
+| Toluene     | `C6H5CH3`                               |
+| Naphthalene | two fused benzene rings                 |
+| Biphenyl    | two benzene rings joined by single bond |
 
 ## 16.2 Benzenoids and Non-Benzenoids
 
-| Type | Meaning |
-| --- | --- |
-| Benzenoid aromatic compounds | Aromatic compounds containing benzene ring. |
+| Type                             | Meaning                                                                        |
+| -------------------------------- | ------------------------------------------------------------------------------ |
+| Benzenoid aromatic compounds     | Aromatic compounds containing benzene ring.                                    |
 | Non-benzenoid aromatic compounds | Aromatic compounds without benzene ring but satisfying aromaticity conditions. |
 
 ## 16.3 Nomenclature of Benzene Derivatives
@@ -2042,26 +2043,26 @@ Therefore, monosubstituted benzene gives only one product.
 
 Examples:
 
-| Compound | Name |
-| --- | --- |
+| Compound  | Name                  |
+| --------- | --------------------- |
 | `C6H5CH3` | Methylbenzene/toluene |
-| `C6H5Cl` | Chlorobenzene |
-| `C6H5NO2` | Nitrobenzene |
+| `C6H5Cl`  | Chlorobenzene         |
+| `C6H5NO2` | Nitrobenzene          |
 
 ## 16.4 Disubstituted Benzene: Ortho, Meta, Para
 
 When two hydrogens of benzene are replaced, three position isomers are possible.
 
-| Position | Locants | Prefix |
-| --- | --- | --- |
-| Adjacent | 1,2 | ortho, `o-` |
-| One carbon gap | 1,3 | meta, `m-` |
-| Opposite | 1,4 | para, `p-` |
+| Position       | Locants | Prefix      |
+| -------------- | ------- | ----------- |
+| Adjacent       | 1,2     | ortho, `o-` |
+| One carbon gap | 1,3     | meta, `m-`  |
+| Opposite       | 1,4     | para, `p-`  |
 
 Examples:
 
-| Compound | Name |
-| --- | --- |
+| Compound            | Name     |
+| ------------------- | -------- |
 | 1,2-dimethylbenzene | o-xylene |
 | 1,3-dimethylbenzene | m-xylene |
 | 1,4-dimethylbenzene | p-xylene |
@@ -2171,12 +2172,12 @@ Number of pi electrons must be:
 
 Allowed values:
 
-| n | Pi Electrons |
-| --- | --- |
-| 0 | 2 |
-| 1 | 6 |
-| 2 | 10 |
-| 3 | 14 |
+| n   | Pi Electrons |
+| --- | ------------ |
+| 0   | 2            |
+| 1   | 6            |
+| 2   | 10           |
+| 3   | 14           |
 
 Benzene has 6 pi electrons.
 
@@ -2194,11 +2195,11 @@ A compound is not aromatic if any condition fails.
 
 Common failures:
 
-| Failure | Result |
-| --- | --- |
-| Not cyclic | Not aromatic |
-| Not planar | Poor delocalisation |
-| No continuous p orbital overlap | Not aromatic |
+| Failure                                   | Result                                          |
+| ----------------------------------------- | ----------------------------------------------- |
+| Not cyclic                                | Not aromatic                                    |
+| Not planar                                | Poor delocalisation                             |
+| No continuous p orbital overlap           | Not aromatic                                    |
 | Has `4n` pi electrons instead of `4n + 2` | Anti-aromatic or non-aromatic depending on case |
 
 ---
@@ -2374,12 +2375,12 @@ There are three major stages:
 
 Examples:
 
-| Reaction | Electrophile |
-| --- | --- |
-| Nitration | `NO2+` |
-| Chlorination | `Cl+` equivalent |
-| Friedel-Crafts alkylation | `R+` |
-| Friedel-Crafts acylation | `RCO+` acylium ion |
+| Reaction                  | Electrophile       |
+| ------------------------- | ------------------ |
+| Nitration                 | `NO2+`             |
+| Chlorination              | `Cl+` equivalent   |
+| Friedel-Crafts alkylation | `R+`               |
+| Friedel-Crafts acylation  | `RCO+` acylium ion |
 
 In nitration:
 
@@ -2490,15 +2491,15 @@ Ortho-para directing groups direct incoming electrophile to ortho and para posit
 
 Common examples:
 
-| Group | Effect |
-| --- | --- |
-| `-OH` | strongly activating, ortho/para directing |
-| `-NH2` | strongly activating, ortho/para directing |
-| `-NHR` | activating, ortho/para directing |
-| `-NHCOCH3` | activating, ortho/para directing |
-| `-OCH3` | activating, ortho/para directing |
-| `-CH3` | activating, ortho/para directing |
-| `-C2H5` | activating, ortho/para directing |
+| Group      | Effect                                    |
+| ---------- | ----------------------------------------- |
+| `-OH`      | strongly activating, ortho/para directing |
+| `-NH2`     | strongly activating, ortho/para directing |
+| `-NHR`     | activating, ortho/para directing          |
+| `-NHCOCH3` | activating, ortho/para directing          |
+| `-OCH3`    | activating, ortho/para directing          |
+| `-CH3`     | activating, ortho/para directing          |
+| `-C2H5`    | activating, ortho/para directing          |
 
 ## 24.4 Why `-OH` Directs Ortho/Para
 
@@ -2533,15 +2534,15 @@ Meta directing groups direct incoming electrophile to meta position.
 
 Common examples:
 
-| Group | Nature |
-| --- | --- |
-| `-NO2` | strongly deactivating |
-| `-CN` | deactivating |
-| `-CHO` | deactivating |
-| `-COR` | deactivating |
-| `-COOH` | deactivating |
-| `-COOR` | deactivating |
-| `-SO3H` | deactivating |
+| Group   | Nature                |
+| ------- | --------------------- |
+| `-NO2`  | strongly deactivating |
+| `-CN`   | deactivating          |
+| `-CHO`  | deactivating          |
+| `-COR`  | deactivating          |
+| `-COOH` | deactivating          |
+| `-COOR` | deactivating          |
+| `-SO3H` | deactivating          |
 
 ## 24.7 Why Nitro Group Directs Meta
 
@@ -2664,14 +2665,14 @@ Ask:
 
 # 27. Markovnikov and Peroxide Effect: Detailed Comparison
 
-| Feature | Markovnikov Addition | Peroxide Effect |
-| --- | --- | --- |
-| Reagent | HX | HBr with peroxide |
-| Mechanism | Carbocation/electrophilic addition | Free radical chain |
-| Major intermediate | More stable carbocation | More stable free radical |
-| Product orientation | X to carbon with fewer H | Br to carbon with more H in many terminal alkenes |
-| Example with propene | 2-bromopropane | 1-bromopropane |
-| Applies to | HCl, HBr, HI generally | HBr only |
+| Feature              | Markovnikov Addition               | Peroxide Effect                                   |
+| -------------------- | ---------------------------------- | ------------------------------------------------- |
+| Reagent              | HX                                 | HBr with peroxide                                 |
+| Mechanism            | Carbocation/electrophilic addition | Free radical chain                                |
+| Major intermediate   | More stable carbocation            | More stable free radical                          |
+| Product orientation  | X to carbon with fewer H           | Br to carbon with more H in many terminal alkenes |
+| Example with propene | 2-bromopropane                     | 1-bromopropane                                    |
+| Applies to           | HCl, HBr, HI generally             | HBr only                                          |
 
 ## 27.1 How to Answer a Mechanism Question
 
@@ -2747,11 +2748,11 @@ Answer:
 
 Reason:
 
-| Compound | Relevant Carbon | Acidic Character |
-| --- | --- | --- |
-| Ethyne | `sp` carbon | Most acidic due to 50% s-character |
-| Benzene | `sp2` carbon | Less acidic than ethyne |
-| n-Hexane | `sp3` carbon | Least acidic |
+| Compound | Relevant Carbon | Acidic Character                   |
+| -------- | --------------- | ---------------------------------- |
+| Ethyne   | `sp` carbon     | Most acidic due to 50% s-character |
+| Benzene  | `sp2` carbon    | Less acidic than ethyne            |
+| n-Hexane | `sp3` carbon    | Least acidic                       |
 
 Higher s-character means carbon holds electrons more strongly and stabilises the conjugate base better.
 
@@ -2767,32 +2768,32 @@ Benzene is not a molecule with three isolated double bonds. All six carbon atoms
 
 # 31. Comparing Alkanes, Alkenes, Alkynes, and Arenes
 
-| Feature | Alkanes | Alkenes | Alkynes | Arenes |
-| --- | --- | --- | --- | --- |
-| Main bond | C-C single | C=C | C#C | Delocalised aromatic pi system |
-| Formula | `CnH2n+2` | `CnH2n` | `CnH2n-2` | varies |
-| Hybridisation | `sp3` | `sp2` at double bond | `sp` at triple bond | `sp2` in benzene ring |
-| Shape near bond | tetrahedral | trigonal planar | linear | planar ring |
-| Main reaction | substitution | addition | addition and acidity | electrophilic substitution |
-| Unsaturation test | negative | positive | positive | usually not like alkene |
-| Bromine/CCl4 | no rapid decolourisation without UV | decolourises | decolourises | does not decolourise under ordinary conditions |
-| KMnO4 test | negative under mild conditions | positive | positive | usually resistant |
+| Feature           | Alkanes                             | Alkenes              | Alkynes              | Arenes                                         |
+| ----------------- | ----------------------------------- | -------------------- | -------------------- | ---------------------------------------------- |
+| Main bond         | C-C single                          | C=C                  | C#C                  | Delocalised aromatic pi system                 |
+| Formula           | `CnH2n+2`                           | `CnH2n`              | `CnH2n-2`            | varies                                         |
+| Hybridisation     | `sp3`                               | `sp2` at double bond | `sp` at triple bond  | `sp2` in benzene ring                          |
+| Shape near bond   | tetrahedral                         | trigonal planar      | linear               | planar ring                                    |
+| Main reaction     | substitution                        | addition             | addition and acidity | electrophilic substitution                     |
+| Unsaturation test | negative                            | positive             | positive             | usually not like alkene                        |
+| Bromine/CCl4      | no rapid decolourisation without UV | decolourises         | decolourises         | does not decolourise under ordinary conditions |
+| KMnO4 test        | negative under mild conditions      | positive             | positive             | usually resistant                              |
 
 ---
 
 # 32. Common Mistakes and Corrections
 
-| Mistake | Correct Understanding |
-| --- | --- |
-| Thinking all unsaturated compounds behave alike | Benzene is unsaturated by formula but aromatic and unusually stable. |
-| Choosing the longest visible line as parent chain | Choose the longest continuous chain containing the multiple bond if present. |
-| Forgetting double bond priority in numbering alkenes | Number from the end closer to C=C. |
-| Applying peroxide effect to HCl or HI | Peroxide effect is characteristic of HBr only. |
-| Saying alkanes never react | They react under suitable conditions such as UV halogenation or combustion. |
-| Treating all alkyne hydrogens as acidic | Only hydrogens attached to triply bonded carbon are acidic. |
-| Saying halogens are activating in benzene | Halogens are deactivating but ortho/para directing. |
-| Confusing vicinal and geminal dihalides | Vicinal = halogens on adjacent carbons; geminal = halogens on same carbon. |
-| Forgetting aromaticity conditions | Planar, cyclic, continuous delocalisation, `(4n + 2)` pi electrons. |
+| Mistake                                              | Correct Understanding                                                        |
+| ---------------------------------------------------- | ---------------------------------------------------------------------------- |
+| Thinking all unsaturated compounds behave alike      | Benzene is unsaturated by formula but aromatic and unusually stable.         |
+| Choosing the longest visible line as parent chain    | Choose the longest continuous chain containing the multiple bond if present. |
+| Forgetting double bond priority in numbering alkenes | Number from the end closer to C=C.                                           |
+| Applying peroxide effect to HCl or HI                | Peroxide effect is characteristic of HBr only.                               |
+| Saying alkanes never react                           | They react under suitable conditions such as UV halogenation or combustion.  |
+| Treating all alkyne hydrogens as acidic              | Only hydrogens attached to triply bonded carbon are acidic.                  |
+| Saying halogens are activating in benzene            | Halogens are deactivating but ortho/para directing.                          |
+| Confusing vicinal and geminal dihalides              | Vicinal = halogens on adjacent carbons; geminal = halogens on same carbon.   |
+| Forgetting aromaticity conditions                    | Planar, cyclic, continuous delocalisation, `(4n + 2)` pi electrons.          |
 
 ---
 
@@ -2898,13 +2899,13 @@ If any condition fails, the system is not aromatic.
 
 Common routes:
 
-| Starting Compound | Route |
-| --- | --- |
-| Ethyne | Cyclic polymerisation: `3HC#CH -> C6H6` |
-| Ethene | Convert to ethyne through suitable halogenation/dehydrohalogenation, then cyclise |
-| Hexane | Aromatisation/reforming to benzene |
-| Sodium benzoate | Soda lime decarboxylation |
-| Phenol | Zinc dust reduction |
+| Starting Compound | Route                                                                             |
+| ----------------- | --------------------------------------------------------------------------------- |
+| Ethyne            | Cyclic polymerisation: `3HC#CH -> C6H6`                                           |
+| Ethene            | Convert to ethyne through suitable halogenation/dehydrohalogenation, then cyclise |
+| Hexane            | Aromatisation/reforming to benzene                                                |
+| Sodium benzoate   | Soda lime decarboxylation                                                         |
+| Phenol            | Zinc dust reduction                                                               |
 
 ## 33.8 Electrophilic Substitution Conversion Questions
 
@@ -2981,27 +2982,27 @@ These help generate electrophiles.
 
 # 34. High-Yield Reaction Table
 
-| Starting Compound | Reagent/Condition | Product Type |
-| --- | --- | --- |
-| Alkene | `H2/Ni` | Alkane |
-| Alkyne | `H2/Ni`, excess | Alkane |
-| Alkyne | Lindlar catalyst | cis-Alkene |
-| Alkyne | Na/liquid NH3 | trans-Alkene |
-| Alkene | `Br2/CCl4` | Vicinal dibromide |
-| Alkene | `HBr` | Markovnikov alkyl bromide |
-| Alkene | `HBr/peroxide` | Anti-Markovnikov alkyl bromide |
-| Alkene | `H2O/H+` | Alcohol |
-| Alkene | cold alkaline `KMnO4` | Vicinal glycol |
-| Alkene | `O3/Zn-H2O` | Carbonyl compounds |
-| Terminal alkyne | `NaNH2` | Sodium alkynide |
-| Alkyne | `HgSO4/H2SO4/H2O` | Carbonyl compound |
-| Ethyne | red-hot Fe tube | Benzene |
-| Benzene | `HNO3/H2SO4` | Nitrobenzene |
-| Benzene | `Cl2/FeCl3` | Chlorobenzene |
-| Benzene | fuming `H2SO4` | Benzene sulphonic acid |
-| Benzene | `RCl/AlCl3` | Alkylbenzene |
-| Benzene | `RCOCl/AlCl3` | Acylbenzene |
-| Benzene | `H2/Ni`, heat/pressure | Cyclohexane |
+| Starting Compound | Reagent/Condition      | Product Type                   |
+| ----------------- | ---------------------- | ------------------------------ |
+| Alkene            | `H2/Ni`                | Alkane                         |
+| Alkyne            | `H2/Ni`, excess        | Alkane                         |
+| Alkyne            | Lindlar catalyst       | cis-Alkene                     |
+| Alkyne            | Na/liquid NH3          | trans-Alkene                   |
+| Alkene            | `Br2/CCl4`             | Vicinal dibromide              |
+| Alkene            | `HBr`                  | Markovnikov alkyl bromide      |
+| Alkene            | `HBr/peroxide`         | Anti-Markovnikov alkyl bromide |
+| Alkene            | `H2O/H+`               | Alcohol                        |
+| Alkene            | cold alkaline `KMnO4`  | Vicinal glycol                 |
+| Alkene            | `O3/Zn-H2O`            | Carbonyl compounds             |
+| Terminal alkyne   | `NaNH2`                | Sodium alkynide                |
+| Alkyne            | `HgSO4/H2SO4/H2O`      | Carbonyl compound              |
+| Ethyne            | red-hot Fe tube        | Benzene                        |
+| Benzene           | `HNO3/H2SO4`           | Nitrobenzene                   |
+| Benzene           | `Cl2/FeCl3`            | Chlorobenzene                  |
+| Benzene           | fuming `H2SO4`         | Benzene sulphonic acid         |
+| Benzene           | `RCl/AlCl3`            | Alkylbenzene                   |
+| Benzene           | `RCOCl/AlCl3`          | Acylbenzene                    |
+| Benzene           | `H2/Ni`, heat/pressure | Cyclohexane                    |
 
 ---
 

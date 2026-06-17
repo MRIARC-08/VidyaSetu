@@ -2,14 +2,14 @@
 
 ## Chapter Identity
 
-| Item | Details |
-| --- | --- |
-| Class | 12 |
-| Subject | History Part 3 |
-| Chapter | Framing the Constitution: The Beginning of a New Era |
-| Period | 1946-1950 |
+| Item       | Details                                                                                                                             |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Class      | 12                                                                                                                                  |
+| Subject    | History Part 3                                                                                                                      |
+| Chapter    | Framing the Constitution: The Beginning of a New Era                                                                                |
+| Period     | 1946-1950                                                                                                                           |
 | Core Skill | Understanding the Constituent Assembly debates, constitutional vision, rights, minority questions, federalism, and language debates |
-| Main Idea | The Indian Constitution was framed through intense debate to hold together a diverse, newly independent, Partition-scarred nation. |
+| Main Idea  | The Indian Constitution was framed through intense debate to hold together a diverse, newly independent, Partition-scarred nation.  |
 
 ## 1. Big Picture
 
@@ -19,14 +19,14 @@ The Constitution was long and detailed because India was large, diverse, unequal
 
 ## 2. Timeline
 
-| Date/Year | Event | Significance |
-| --- | --- | --- |
-| 1946 | Constituent Assembly formed | Began constitution-making process. |
-| 13 December 1946 | Objectives Resolution introduced by Jawaharlal Nehru | Outlined the vision of the Constitution. |
-| 15 August 1947 | India became independent | Assembly also became a sovereign constitution-making body. |
-| 29 August 1947 | Drafting Committee appointed | Dr B.R. Ambedkar became Chairman. |
-| 26 November 1949 | Constitution adopted | Final text accepted by Assembly. |
-| 26 January 1950 | Constitution came into effect | India became a republic. |
+| Date/Year        | Event                                                | Significance                                               |
+| ---------------- | ---------------------------------------------------- | ---------------------------------------------------------- |
+| 1946             | Constituent Assembly formed                          | Began constitution-making process.                         |
+| 13 December 1946 | Objectives Resolution introduced by Jawaharlal Nehru | Outlined the vision of the Constitution.                   |
+| 15 August 1947   | India became independent                             | Assembly also became a sovereign constitution-making body. |
+| 29 August 1947   | Drafting Committee appointed                         | Dr B.R. Ambedkar became Chairman.                          |
+| 26 November 1949 | Constitution adopted                                 | Final text accepted by Assembly.                           |
+| 26 January 1950  | Constitution came into effect                        | India became a republic.                                   |
 
 ## 3. Historical Context
 
@@ -78,16 +78,16 @@ The Resolution became the philosophical foundation of the Constitution.
 
 The Constitution aimed to create:
 
-| Goal | Meaning |
-| --- | --- |
-| Democracy | People would choose their representatives. |
-| Equality | Citizens would have equal legal status. |
-| Justice | Social, economic, and political justice would be pursued. |
-| Liberty | Freedom of thought, expression, belief, and action within law. |
-| Secularism | State would not privilege one religion. |
-| Rights | Citizens would have enforceable protections. |
-| Unity | India would remain one political union. |
-| Diversity | Different languages, cultures, and communities would be accommodated. |
+| Goal       | Meaning                                                               |
+| ---------- | --------------------------------------------------------------------- |
+| Democracy  | People would choose their representatives.                            |
+| Equality   | Citizens would have equal legal status.                               |
+| Justice    | Social, economic, and political justice would be pursued.             |
+| Liberty    | Freedom of thought, expression, belief, and action within law.        |
+| Secularism | State would not privilege one religion.                               |
+| Rights     | Citizens would have enforceable protections.                          |
+| Unity      | India would remain one political union.                               |
+| Diversity  | Different languages, cultures, and communities would be accommodated. |
 
 ## 7. Rights and Citizenship
 
@@ -217,15 +217,15 @@ Hindi in Devanagari script became the official language of the Union, while Engl
 
 ## 13. Role of Key Leaders
 
-| Leader | Contribution |
-| --- | --- |
-| Jawaharlal Nehru | Introduced Objectives Resolution; articulated democratic and internationalist vision. |
-| Dr B.R. Ambedkar | Chairman of Drafting Committee; central to rights, legal structure, and social justice debates. |
-| Sardar Vallabhbhai Patel | Important in integration, minority debates, and administrative questions. |
-| Rajendra Prasad | President of Constituent Assembly. |
-| Govind Ballabh Pant | Opposed separate electorates and emphasised national unity. |
-| Somnath Lahiri | Critiqued limitations of Assembly and British influence. |
-| N.G. Ranga | Spoke for peasants and ordinary masses. |
+| Leader                   | Contribution                                                                                    |
+| ------------------------ | ----------------------------------------------------------------------------------------------- |
+| Jawaharlal Nehru         | Introduced Objectives Resolution; articulated democratic and internationalist vision.           |
+| Dr B.R. Ambedkar         | Chairman of Drafting Committee; central to rights, legal structure, and social justice debates. |
+| Sardar Vallabhbhai Patel | Important in integration, minority debates, and administrative questions.                       |
+| Rajendra Prasad          | President of Constituent Assembly.                                                              |
+| Govind Ballabh Pant      | Opposed separate electorates and emphasised national unity.                                     |
+| Somnath Lahiri           | Critiqued limitations of Assembly and British influence.                                        |
+| N.G. Ranga               | Spoke for peasants and ordinary masses.                                                         |
 
 ## 14. Debates as Historical Sources
 
@@ -255,14 +255,14 @@ The Constitution is detailed because:
 
 ## 16. Common Mistakes and Corrections
 
-| Mistake | Correction |
-| --- | --- |
-| Thinking the Constitution was made without disagreement | The Assembly had intense debates on rights, minorities, centre-state relations, and language. |
+| Mistake                                                            | Correction                                                                                                           |
+| ------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
+| Thinking the Constitution was made without disagreement            | The Assembly had intense debates on rights, minorities, centre-state relations, and language.                        |
 | Saying the Assembly was fully elected by universal adult franchise | It was indirectly elected under the Cabinet Mission framework, though it drew legitimacy from the national movement. |
-| Treating minority rights as separate electorates only | The Constitution rejected separate electorates but included other safeguards. |
-| Ignoring Partition | Partition strongly shaped the preference for unity and a strong Centre. |
-| Saying Hindi became the only language of India | Hindi became official language of the Union; India recognised linguistic diversity. |
-| Forgetting Ambedkar's role | Ambedkar led the Drafting Committee and shaped constitutional structure and social justice provisions. |
+| Treating minority rights as separate electorates only              | The Constitution rejected separate electorates but included other safeguards.                                        |
+| Ignoring Partition                                                 | Partition strongly shaped the preference for unity and a strong Centre.                                              |
+| Saying Hindi became the only language of India                     | Hindi became official language of the Union; India recognised linguistic diversity.                                  |
+| Forgetting Ambedkar's role                                         | Ambedkar led the Drafting Committee and shaped constitutional structure and social justice provisions.               |
 
 ## 17. Exam Answer Frames
 
@@ -295,18 +295,18 @@ The language debate was intense because language was tied to identity, region, a
 
 ## 19. Quick Revision Sheet
 
-| Term/Event | Recall |
-| --- | --- |
-| Constituent Assembly | Body that framed the Constitution. |
-| Objectives Resolution | Nehru's statement of constitutional ideals. |
-| Drafting Committee | Committee chaired by Ambedkar. |
-| 26 November 1949 | Constitution adopted. |
-| 26 January 1950 | Constitution came into effect. |
-| Fundamental Rights | Basic enforceable rights of citizens. |
-| Separate electorates | Community-based voting system rejected after Partition. |
-| Strong Centre | Favoured for unity, security, and integration. |
-| Hindustani | Gandhi's preferred bridge language. |
-| Official language | Hindi in Devanagari script, with English continuing for official purposes. |
+| Term/Event            | Recall                                                                     |
+| --------------------- | -------------------------------------------------------------------------- |
+| Constituent Assembly  | Body that framed the Constitution.                                         |
+| Objectives Resolution | Nehru's statement of constitutional ideals.                                |
+| Drafting Committee    | Committee chaired by Ambedkar.                                             |
+| 26 November 1949      | Constitution adopted.                                                      |
+| 26 January 1950       | Constitution came into effect.                                             |
+| Fundamental Rights    | Basic enforceable rights of citizens.                                      |
+| Separate electorates  | Community-based voting system rejected after Partition.                    |
+| Strong Centre         | Favoured for unity, security, and integration.                             |
+| Hindustani            | Gandhi's preferred bridge language.                                        |
+| Official language     | Hindi in Devanagari script, with English continuing for official purposes. |
 
 ## 20. Final Learning Takeaway
 

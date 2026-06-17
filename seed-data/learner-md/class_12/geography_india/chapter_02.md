@@ -1,4 +1,5 @@
 # Chapter 2: Human Settlements
+
 ### NCERT Class 12 - Geography India
 
 ## Chapter at a Glance
@@ -22,25 +23,25 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Settlement | Cluster or arrangement of dwellings where people live. |
-| Rural settlement | Settlement mainly linked with primary activities. |
-| Urban settlement | Settlement mainly linked with non-primary activities. |
-| Compact settlement | Houses built close together. |
-| Dispersed settlement | Houses spread far apart. |
-| Hamleted settlement | Settlement divided into smaller clusters. |
-| Urbanisation | Increase in share of urban population and urban way of life. |
-| Census town | Settlement meeting census criteria for urban status. |
+| Term                 | Meaning                                                      |
+| -------------------- | ------------------------------------------------------------ |
+| Settlement           | Cluster or arrangement of dwellings where people live.       |
+| Rural settlement     | Settlement mainly linked with primary activities.            |
+| Urban settlement     | Settlement mainly linked with non-primary activities.        |
+| Compact settlement   | Houses built close together.                                 |
+| Dispersed settlement | Houses spread far apart.                                     |
+| Hamleted settlement  | Settlement divided into smaller clusters.                    |
+| Urbanisation         | Increase in share of urban population and urban way of life. |
+| Census town          | Settlement meeting census criteria for urban status.         |
 
 ## Quick Learning Map
 
-| Settlement type | Common condition |
-|---|---|
-| Compact | Fertile plains, security, water, social clustering |
-| Dispersed | Hills, forests, desert margins, large farms |
-| Hamleted | Social or ethnic segregation, fragmented land |
-| Urban | Trade, industry, administration, services |
+| Settlement type | Common condition                                   |
+| --------------- | -------------------------------------------------- |
+| Compact         | Fertile plains, security, water, social clustering |
+| Dispersed       | Hills, forests, desert margins, large farms        |
+| Hamleted        | Social or ethnic segregation, fragmented land      |
+| Urban           | Trade, industry, administration, services          |
 
 # Unit 2A: Meaning of Human Settlement
 
@@ -132,15 +133,15 @@ Such settlements may have weaker access to schools, health care, and roads.
 
 # Unit 2G: Factors Affecting Rural Settlement Patterns
 
-| Factor | Influence |
-|---|---|
-| Relief | Plains favour compact settlements; hills favour dispersed settlements. |
-| Water | Settlements cluster near wells, rivers, tanks, and springs. |
-| Soil | Fertile soil supports dense villages. |
-| Security | Historical need for safety encouraged compact settlement. |
-| Social structure | Caste and community patterns shape layout. |
-| Land ownership | Large farms may lead to dispersed houses. |
-| Transport | Roads influence linear settlements. |
+| Factor           | Influence                                                              |
+| ---------------- | ---------------------------------------------------------------------- |
+| Relief           | Plains favour compact settlements; hills favour dispersed settlements. |
+| Water            | Settlements cluster near wells, rivers, tanks, and springs.            |
+| Soil             | Fertile soil supports dense villages.                                  |
+| Security         | Historical need for safety encouraged compact settlement.              |
+| Social structure | Caste and community patterns shape layout.                             |
+| Land ownership   | Large farms may lead to dispersed houses.                              |
+| Transport        | Roads influence linear settlements.                                    |
 
 # Unit 2H: Urban Settlements in India
 
@@ -160,17 +161,17 @@ Urban growth is uneven. Large metropolitan cities attract migrants, capital, and
 
 # Unit 2I: Functional Classification of Towns
 
-| Town type | Main function |
-|---|---|
+| Town type      | Main function                         |
+| -------------- | ------------------------------------- |
 | Administrative | Government offices and administration |
-| Industrial | Manufacturing and processing |
-| Transport | Junctions, ports, railway centres |
-| Commercial | Trade and markets |
-| Mining | Mineral extraction centres |
-| Cantonment | Military function |
-| Educational | Universities and institutions |
-| Religious | Pilgrimage and sacred functions |
-| Tourist | Recreation and heritage |
+| Industrial     | Manufacturing and processing          |
+| Transport      | Junctions, ports, railway centres     |
+| Commercial     | Trade and markets                     |
+| Mining         | Mineral extraction centres            |
+| Cantonment     | Military function                     |
+| Educational    | Universities and institutions         |
+| Religious      | Pilgrimage and sacred functions       |
+| Tourist        | Recreation and heritage               |
 
 Many towns are multifunctional.
 
@@ -227,13 +228,13 @@ For urbanisation problems:
 
 # Unit 2M: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Defining settlement as houses only | Include people, functions, and infrastructure. |
-| Equating rural with backward | Rural settlements are occupation-based, not simply backward. |
-| Saying all villages are compact | India has compact, semi-compact, hamleted, and dispersed forms. |
-| Ignoring social factors | Caste, community, and history shape settlements. |
-| Treating every town as industrial | Towns have varied functions. |
+| Mistake                            | Correction                                                      |
+| ---------------------------------- | --------------------------------------------------------------- |
+| Defining settlement as houses only | Include people, functions, and infrastructure.                  |
+| Equating rural with backward       | Rural settlements are occupation-based, not simply backward.    |
+| Saying all villages are compact    | India has compact, semi-compact, hamleted, and dispersed forms. |
+| Ignoring social factors            | Caste, community, and history shape settlements.                |
+| Treating every town as industrial  | Towns have varied functions.                                    |
 
 ## Practice Set
 

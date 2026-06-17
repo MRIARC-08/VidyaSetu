@@ -1,39 +1,40 @@
 # Chapter 7: How do Organisms Reproduce?
+
 ### NCERT Class 10 - Science
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 10 |
-| **Subject** | Science |
-| **Chapter** | 7 |
-| **Textbook Pages** | 1-15 |
-| **Core Theme** | Why and how organisms reproduce, how DNA copying creates similarity and variation, and how asexual and sexual reproduction occur in microbes, plants, and humans. |
-| **Main Skills** | Comparing reproductive modes, explaining variation, identifying flower and human reproductive parts, and understanding reproductive health and contraception. |
+| Detail             | Learner-Friendly Information                                                                                                                                      |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Class**          | 10                                                                                                                                                                |
+| **Subject**        | Science                                                                                                                                                           |
+| **Chapter**        | 7                                                                                                                                                                 |
+| **Textbook Pages** | 1-15                                                                                                                                                              |
+| **Core Theme**     | Why and how organisms reproduce, how DNA copying creates similarity and variation, and how asexual and sexual reproduction occur in microbes, plants, and humans. |
+| **Main Skills**    | Comparing reproductive modes, explaining variation, identifying flower and human reproductive parts, and understanding reproductive health and contraception.     |
 
 ---
 
 ## Section Structure
 
-| Unit | Topic | Main Learning Focus |
-|---|---|---|
-| **7A** | Why Reproduction Matters | Species continuity, population stability, and energy cost. |
-| **7B** | DNA Copying | Body design information, inheritance, copying errors, and variation. |
-| **7C** | Variation | Why variation helps species survive changing environments. |
-| **7D** | Asexual Reproduction | Reproduction from one parent. |
-| **7E** | Fission | Binary fission and multiple fission. |
-| **7F** | Fragmentation and Regeneration | Spirogyra, Planaria, Hydra, and development. |
-| **7G** | Budding | Yeast and Hydra. |
-| **7H** | Vegetative Propagation | Roots, stems, leaves, layering, grafting, potato, Bryophyllum, tissue culture. |
-| **7I** | Spore Formation | Rhizopus, sporangia, spores, and survival. |
-| **7J** | Sexual Reproduction | Gametes, meiosis, zygote, and variation. |
-| **7K** | Flowering Plants | Pollination, fertilisation, seed and fruit formation. |
-| **7L** | Human Reproduction | Puberty, male and female reproductive systems, fertilisation, placenta, menstruation. |
-| **7M** | Reproductive Health | STIs, contraception, pregnancy, sex ratio, and responsible choices. |
-| **7N** | Solved Questions | In-text and exercise-level answers. |
+| Unit   | Topic                          | Main Learning Focus                                                                   |
+| ------ | ------------------------------ | ------------------------------------------------------------------------------------- |
+| **7A** | Why Reproduction Matters       | Species continuity, population stability, and energy cost.                            |
+| **7B** | DNA Copying                    | Body design information, inheritance, copying errors, and variation.                  |
+| **7C** | Variation                      | Why variation helps species survive changing environments.                            |
+| **7D** | Asexual Reproduction           | Reproduction from one parent.                                                         |
+| **7E** | Fission                        | Binary fission and multiple fission.                                                  |
+| **7F** | Fragmentation and Regeneration | Spirogyra, Planaria, Hydra, and development.                                          |
+| **7G** | Budding                        | Yeast and Hydra.                                                                      |
+| **7H** | Vegetative Propagation         | Roots, stems, leaves, layering, grafting, potato, Bryophyllum, tissue culture.        |
+| **7I** | Spore Formation                | Rhizopus, sporangia, spores, and survival.                                            |
+| **7J** | Sexual Reproduction            | Gametes, meiosis, zygote, and variation.                                              |
+| **7K** | Flowering Plants               | Pollination, fertilisation, seed and fruit formation.                                 |
+| **7L** | Human Reproduction             | Puberty, male and female reproductive systems, fertilisation, placenta, menstruation. |
+| **7M** | Reproductive Health            | STIs, contraception, pregnancy, sex ratio, and responsible choices.                   |
+| **7N** | Solved Questions               | In-text and exercise-level answers.                                                   |
 
 ---
 
@@ -41,43 +42,43 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Explain reproduction** | State why reproduction is not needed for individual survival but is essential for species continuity. |
-| **Explain DNA copying** | Connect DNA copying with inheritance, similarity, variation, and evolution. |
-| **Compare asexual modes** | Differentiate fission, fragmentation, regeneration, budding, vegetative propagation, and spore formation. |
-| **Explain sexual reproduction** | Describe why sexual reproduction produces more variation than asexual reproduction. |
-| **Describe flower reproduction** | Identify stamen, pistil, pollen, ovule, pollination, fertilisation, seed formation, and fruit formation. |
-| **Describe human reproduction** | Explain puberty, male and female reproductive systems, fertilisation, implantation, placenta, and menstruation. |
-| **Explain reproductive health** | Describe STIs, condoms, contraceptive methods, pregnancy prevention, and ethical issues around sex selection. |
+| Outcome                          | You Should Be Able To...                                                                                        |
+| -------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| **Explain reproduction**         | State why reproduction is not needed for individual survival but is essential for species continuity.           |
+| **Explain DNA copying**          | Connect DNA copying with inheritance, similarity, variation, and evolution.                                     |
+| **Compare asexual modes**        | Differentiate fission, fragmentation, regeneration, budding, vegetative propagation, and spore formation.       |
+| **Explain sexual reproduction**  | Describe why sexual reproduction produces more variation than asexual reproduction.                             |
+| **Describe flower reproduction** | Identify stamen, pistil, pollen, ovule, pollination, fertilisation, seed formation, and fruit formation.        |
+| **Describe human reproduction**  | Explain puberty, male and female reproductive systems, fertilisation, implantation, placenta, and menstruation. |
+| **Explain reproductive health**  | Describe STIs, condoms, contraceptive methods, pregnancy prevention, and ethical issues around sex selection.   |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Reproduction** | Process by which organisms produce new individuals of their own kind. |
-| **DNA** | Genetic material carrying information for body design and inheritance. |
-| **Variation** | Difference among individuals of the same species. |
-| **Asexual reproduction** | Reproduction from a single parent without fusion of gametes. |
-| **Sexual reproduction** | Reproduction involving fusion of male and female gametes. |
-| **Fission** | Asexual reproduction in which a unicellular organism divides. |
-| **Binary fission** | Division of one cell into two daughter cells. |
-| **Multiple fission** | Division of one cell into many daughter cells. |
-| **Fragmentation** | Breaking of a simple multicellular organism into pieces, each growing into a new organism. |
-| **Regeneration** | Ability to regrow lost parts; in some organisms, pieces can form new individuals. |
-| **Budding** | Formation of a new individual from an outgrowth/bud on parent body. |
-| **Vegetative propagation** | Formation of new plants from roots, stems, leaves, or buds. |
-| **Spore** | Thick-walled reproductive cell that can grow into a new organism under suitable conditions. |
-| **Gamete** | Reproductive cell; sperm is male gamete, egg/ovum is female gamete. |
-| **Meiosis** | Cell division that forms gametes with half the chromosome number. |
-| **Zygote** | Cell formed by fusion of male and female gametes. |
-| **Pollination** | Transfer of pollen grains from anther to stigma. |
-| **Fertilisation** | Fusion of male and female gametes. |
-| **Placenta** | Tissue that allows exchange of nutrients, oxygen, and wastes between mother and embryo. |
-| **Menstruation** | Monthly breakdown and removal of uterine lining when fertilisation does not occur. |
-| **Contraception** | Methods used to prevent pregnancy. |
+| Term                               | Meaning                                                                                         |
+| ---------------------------------- | ----------------------------------------------------------------------------------------------- |
+| **Reproduction**                   | Process by which organisms produce new individuals of their own kind.                           |
+| **DNA**                            | Genetic material carrying information for body design and inheritance.                          |
+| **Variation**                      | Difference among individuals of the same species.                                               |
+| **Asexual reproduction**           | Reproduction from a single parent without fusion of gametes.                                    |
+| **Sexual reproduction**            | Reproduction involving fusion of male and female gametes.                                       |
+| **Fission**                        | Asexual reproduction in which a unicellular organism divides.                                   |
+| **Binary fission**                 | Division of one cell into two daughter cells.                                                   |
+| **Multiple fission**               | Division of one cell into many daughter cells.                                                  |
+| **Fragmentation**                  | Breaking of a simple multicellular organism into pieces, each growing into a new organism.      |
+| **Regeneration**                   | Ability to regrow lost parts; in some organisms, pieces can form new individuals.               |
+| **Budding**                        | Formation of a new individual from an outgrowth/bud on parent body.                             |
+| **Vegetative propagation**         | Formation of new plants from roots, stems, leaves, or buds.                                     |
+| **Spore**                          | Thick-walled reproductive cell that can grow into a new organism under suitable conditions.     |
+| **Gamete**                         | Reproductive cell; sperm is male gamete, egg/ovum is female gamete.                             |
+| **Meiosis**                        | Cell division that forms gametes with half the chromosome number.                               |
+| **Zygote**                         | Cell formed by fusion of male and female gametes.                                               |
+| **Pollination**                    | Transfer of pollen grains from anther to stigma.                                                |
+| **Fertilisation**                  | Fusion of male and female gametes.                                                              |
+| **Placenta**                       | Tissue that allows exchange of nutrients, oxygen, and wastes between mother and embryo.         |
+| **Menstruation**                   | Monthly breakdown and removal of uterine lining when fertilisation does not occur.              |
+| **Contraception**                  | Methods used to prevent pregnancy.                                                              |
 | **Sexually transmitted infection** | Infection transmitted through sexual contact, such as gonorrhoea, syphilis, warts, or HIV-AIDS. |
 
 ---
@@ -237,14 +238,14 @@ There is no fusion of gametes.
 
 ## Features
 
-| Feature | Asexual Reproduction |
-|---|---|
-| Parents involved | One |
-| Gamete fusion | No |
-| Genetic similarity | Offspring are usually very similar to parent |
-| Variation | Low, mainly due to DNA copying errors |
-| Speed | Often fast |
-| Common in | Bacteria, protozoa, fungi, simple plants, some animals |
+| Feature            | Asexual Reproduction                                   |
+| ------------------ | ------------------------------------------------------ |
+| Parents involved   | One                                                    |
+| Gamete fusion      | No                                                     |
+| Genetic similarity | Offspring are usually very similar to parent           |
+| Variation          | Low, mainly due to DNA copying errors                  |
+| Speed              | Often fast                                             |
+| Common in          | Bacteria, protozoa, fungi, simple plants, some animals |
 
 ## Modes Covered
 
@@ -302,11 +303,11 @@ Example:
 
 ## Binary vs Multiple Fission
 
-| Feature | Binary Fission | Multiple Fission |
-|---|---|---|
-| Daughter cells formed | Two | Many |
-| Example | Amoeba, Leishmania | Plasmodium |
-| Division pattern | One cell splits into two | Nucleus divides repeatedly before many cells form |
+| Feature               | Binary Fission           | Multiple Fission                                  |
+| --------------------- | ------------------------ | ------------------------------------------------- |
+| Daughter cells formed | Two                      | Many                                              |
+| Example               | Amoeba, Leishmania       | Plasmodium                                        |
+| Division pattern      | One cell splits into two | Nucleus divides repeatedly before many cells form |
 
 ---
 
@@ -426,17 +427,17 @@ Vegetative propagation is asexual reproduction in plants using vegetative parts 
 
 ## Examples
 
-| Plant/Method | Reproductive Part or Method |
-|---|---|
-| Sugarcane | Stem cutting |
-| Rose | Cutting/layering/grafting |
-| Grapes | Cutting/grafting |
-| Banana | Vegetative part, often sucker |
-| Orange | Grafting |
-| Jasmine | Layering/cutting |
-| Bryophyllum | Leaf buds |
-| Potato | Stem tuber buds or "eyes" |
-| Money plant | Stem cutting with node/leaf region |
+| Plant/Method | Reproductive Part or Method        |
+| ------------ | ---------------------------------- |
+| Sugarcane    | Stem cutting                       |
+| Rose         | Cutting/layering/grafting          |
+| Grapes       | Cutting/grafting                   |
+| Banana       | Vegetative part, often sucker      |
+| Orange       | Grafting                           |
+| Jasmine      | Layering/cutting                   |
+| Bryophyllum  | Leaf buds                          |
+| Potato       | Stem tuber buds or "eyes"          |
+| Money plant  | Stem cutting with node/leaf region |
 
 ## Bryophyllum
 
@@ -552,9 +553,9 @@ Meiosis solves this by producing gametes with half the chromosome number.
 
 ## Gamete Specialisation
 
-| Gamete | General Feature |
-|---|---|
-| Male gamete | Smaller and motile in many organisms. |
+| Gamete        | General Feature                                    |
+| ------------- | -------------------------------------------------- |
+| Male gamete   | Smaller and motile in many organisms.              |
 | Female gamete | Larger and contains stored food in many organisms. |
 
 ## Zygote
@@ -569,11 +570,11 @@ It divides repeatedly and develops into a new organism.
 
 ## Flower Parts
 
-| Part | Function |
-|---|---|
-| Sepals | Protect flower bud. |
-| Petals | Attract pollinators. |
-| Stamen | Male reproductive part. |
+| Part          | Function                  |
+| ------------- | ------------------------- |
+| Sepals        | Protect flower bud.       |
+| Petals        | Attract pollinators.      |
+| Stamen        | Male reproductive part.   |
 | Pistil/carpel | Female reproductive part. |
 
 ## Stamen
@@ -597,19 +598,19 @@ Pistil consists of:
 
 ## Female Parts
 
-| Part | Function |
-|---|---|
-| Stigma | Receives pollen; often sticky. |
-| Style | Passage through which pollen tube grows. |
-| Ovary | Contains ovules. |
-| Ovule | Contains egg cell/female gamete. |
+| Part   | Function                                 |
+| ------ | ---------------------------------------- |
+| Stigma | Receives pollen; often sticky.           |
+| Style  | Passage through which pollen tube grows. |
+| Ovary  | Contains ovules.                         |
+| Ovule  | Contains egg cell/female gamete.         |
 
 ## Unisexual and Bisexual Flowers
 
-| Flower Type | Meaning | Example |
-|---|---|---|
-| Unisexual | Has either stamens or pistil | Papaya, watermelon |
-| Bisexual | Has both stamens and pistil | Hibiscus, mustard |
+| Flower Type | Meaning                      | Example            |
+| ----------- | ---------------------------- | ------------------ |
+| Unisexual   | Has either stamens or pistil | Papaya, watermelon |
+| Bisexual    | Has both stamens and pistil  | Hibiscus, mustard  |
 
 ---
 
@@ -649,10 +650,10 @@ After pollen lands on a suitable stigma:
 ## After Fertilisation
 
 | Structure | Develops Into |
-|---|---|
-| Zygote | Embryo |
-| Ovule | Seed |
-| Ovary | Fruit |
+| --------- | ------------- |
+| Zygote    | Embryo        |
+| Ovule     | Seed          |
+| Ovary     | Fruit         |
 
 Petals, sepals, stamens, style, and stigma often shrivel and fall off.
 
@@ -666,12 +667,12 @@ This process is called germination.
 
 ## Pollination vs Fertilisation
 
-| Feature | Pollination | Fertilisation |
-|---|---|---|
-| Meaning | Transfer of pollen from anther to stigma | Fusion of male and female gametes |
-| Location | Stigma | Ovule inside ovary |
-| Result | Pollen reaches female part | Zygote forms |
-| Type of process | Transfer process | Fusion process |
+| Feature         | Pollination                              | Fertilisation                     |
+| --------------- | ---------------------------------------- | --------------------------------- |
+| Meaning         | Transfer of pollen from anther to stigma | Fusion of male and female gametes |
+| Location        | Stigma                                   | Ovule inside ovary                |
+| Result          | Pollen reaches female part               | Zygote forms                      |
+| Type of process | Transfer process                         | Fusion process                    |
 
 ---
 
@@ -728,15 +729,15 @@ As general body growth slows, reproductive tissues begin to mature.
 
 ## Main Parts
 
-| Part | Function |
-|---|---|
-| Testes | Produce sperms and testosterone. |
-| Scrotum | Holds testes outside abdominal cavity at lower temperature. |
-| Vas deferens | Carries sperms from testes. |
-| Seminal vesicles | Add fluid that nourishes sperms. |
-| Prostate gland | Adds fluid that helps sperm transport. |
-| Urethra | Common passage for urine and semen. |
-| Penis | Transfers semen into female reproductive tract. |
+| Part             | Function                                                    |
+| ---------------- | ----------------------------------------------------------- |
+| Testes           | Produce sperms and testosterone.                            |
+| Scrotum          | Holds testes outside abdominal cavity at lower temperature. |
+| Vas deferens     | Carries sperms from testes.                                 |
+| Seminal vesicles | Add fluid that nourishes sperms.                            |
+| Prostate gland   | Adds fluid that helps sperm transport.                      |
+| Urethra          | Common passage for urine and semen.                         |
+| Penis            | Transfers semen into female reproductive tract.             |
 
 ## Why Testes Are Outside the Abdomen
 
@@ -765,13 +766,13 @@ Sperms are tiny cells containing:
 
 ## Main Parts
 
-| Part | Function |
-|---|---|
-| Ovaries | Produce eggs and female hormones. |
+| Part                     | Function                                               |
+| ------------------------ | ------------------------------------------------------ |
+| Ovaries                  | Produce eggs and female hormones.                      |
 | Oviducts/Fallopian tubes | Carry egg from ovary to uterus; site of fertilisation. |
-| Uterus | Supports development of embryo/foetus. |
-| Cervix | Lower opening of uterus into vagina. |
-| Vagina | Receives sperms and acts as birth passage. |
+| Uterus                   | Supports development of embryo/foetus.                 |
+| Cervix                   | Lower opening of uterus into vagina.                   |
+| Vagina                   | Receives sperms and acts as birth passage.             |
 
 ## Eggs
 
@@ -884,10 +885,10 @@ Sexually transmitted infections can be bacterial or viral.
 
 Examples:
 
-| Type | Examples |
-|---|---|
+| Type      | Examples             |
+| --------- | -------------------- |
 | Bacterial | Gonorrhoea, syphilis |
-| Viral | Warts, HIV-AIDS |
+| Viral     | Warts, HIV-AIDS      |
 
 ## Condoms and STIs
 
@@ -938,9 +939,9 @@ They may cause side effects due to irritation of the uterus in some people.
 
 Surgical methods block gamete transport.
 
-| Method | What Is Blocked | Result |
-|---|---|---|
-| Vasectomy | Vas deferens in male | Sperm transfer is prevented. |
+| Method    | What Is Blocked           | Result                                               |
+| --------- | ------------------------- | ---------------------------------------------------- |
+| Vasectomy | Vas deferens in male      | Sperm transfer is prevented.                         |
 | Tubectomy | Fallopian tubes in female | Egg cannot reach uterus; fertilisation is prevented. |
 
 Surgical methods are effective long-term methods but require proper medical care.
@@ -1033,11 +1034,11 @@ Thus, variation improves survival chances of the population over time.
 
 ## Answer
 
-| Feature | Binary Fission | Multiple Fission |
-|---|---|---|
-| Number of daughter cells | Two | Many |
-| Example | Amoeba, Leishmania | Plasmodium |
-| Process | One cell divides into two | Nucleus divides many times before cytoplasm divides into many cells |
+| Feature                  | Binary Fission            | Multiple Fission                                                    |
+| ------------------------ | ------------------------- | ------------------------------------------------------------------- |
+| Number of daughter cells | Two                       | Many                                                                |
+| Example                  | Amoeba, Leishmania        | Plasmodium                                                          |
+| Process                  | One cell divides into two | Nucleus divides many times before cytoplasm divides into many cells |
 
 ---
 
@@ -1306,12 +1307,12 @@ Labels:
 
 Main methods:
 
-| Method | Examples | How It Works |
-|---|---|---|
-| Barrier | Condoms, vaginal barriers | Prevent sperm from reaching egg. |
-| Hormonal | Oral pills | Prevent egg release/fertilisation by changing hormone levels. |
-| Intrauterine device | Copper-T, loop | Prevent pregnancy inside uterus. |
-| Surgical | Vasectomy, tubectomy | Block sperm or egg transport. |
+| Method              | Examples                  | How It Works                                                  |
+| ------------------- | ------------------------- | ------------------------------------------------------------- |
+| Barrier             | Condoms, vaginal barriers | Prevent sperm from reaching egg.                              |
+| Hormonal            | Oral pills                | Prevent egg release/fertilisation by changing hormone levels. |
+| Intrauterine device | Copper-T, loop            | Prevent pregnancy inside uterus.                              |
+| Surgical            | Vasectomy, tubectomy      | Block sperm or egg transport.                                 |
 
 Condoms also help reduce STI risk.
 
@@ -1321,12 +1322,12 @@ Condoms also help reduce STI risk.
 
 ## Answer
 
-| Feature | Unicellular Organisms | Multicellular Organisms |
-|---|---|---|
-| Body design | Single cell | Many specialised cells, tissues, organs |
-| Common modes | Fission, budding | Fragmentation, regeneration, vegetative propagation, sexual reproduction |
-| Complexity | Simple division can create new individual | Reproduction often needs specialised cells/organs |
-| Example | Amoeba by binary fission | Humans by sexual reproduction; plants by seeds/vegetative propagation |
+| Feature      | Unicellular Organisms                     | Multicellular Organisms                                                  |
+| ------------ | ----------------------------------------- | ------------------------------------------------------------------------ |
+| Body design  | Single cell                               | Many specialised cells, tissues, organs                                  |
+| Common modes | Fission, budding                          | Fragmentation, regeneration, vegetative propagation, sexual reproduction |
+| Complexity   | Simple division can create new individual | Reproduction often needs specialised cells/organs                        |
+| Example      | Amoeba by binary fission                  | Humans by sexual reproduction; plants by seeds/vegetative propagation    |
 
 Unicellular organisms often reproduce by simple cell division because one cell is the whole organism.
 
@@ -1369,17 +1370,17 @@ Contraceptive methods may be adopted to:
 
 # Unit 7X: Common Mistakes and Corrections
 
-| Mistake | Correct Understanding |
-|---|---|
-| Saying reproduction is essential for individual survival. | It is essential for species survival, not individual life maintenance. |
-| Saying DNA copies are always perfectly identical. | DNA copying is mostly accurate but small variations occur. |
-| Confusing binary and multiple fission. | Binary gives two cells; multiple gives many. |
-| Saying regeneration and reproduction are always the same. | Regeneration can repair; only some organisms can form whole individuals from pieces. |
-| Saying vegetative propagation produces very different plants. | It usually produces plants genetically similar to parent. |
-| Confusing pollination and fertilisation. | Pollination is pollen transfer; fertilisation is gamete fusion. |
-| Saying anther contains ovules. | Anther contains pollen grains; ovary contains ovules. |
-| Saying fertilisation occurs in uterus in humans. | Fertilisation usually occurs in fallopian tube. |
-| Saying Copper-T protects from STIs. | Copper-T prevents pregnancy, not STIs. Condoms reduce STI risk. |
+| Mistake                                                       | Correct Understanding                                                                |
+| ------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| Saying reproduction is essential for individual survival.     | It is essential for species survival, not individual life maintenance.               |
+| Saying DNA copies are always perfectly identical.             | DNA copying is mostly accurate but small variations occur.                           |
+| Confusing binary and multiple fission.                        | Binary gives two cells; multiple gives many.                                         |
+| Saying regeneration and reproduction are always the same.     | Regeneration can repair; only some organisms can form whole individuals from pieces. |
+| Saying vegetative propagation produces very different plants. | It usually produces plants genetically similar to parent.                            |
+| Confusing pollination and fertilisation.                      | Pollination is pollen transfer; fertilisation is gamete fusion.                      |
+| Saying anther contains ovules.                                | Anther contains pollen grains; ovary contains ovules.                                |
+| Saying fertilisation occurs in uterus in humans.              | Fertilisation usually occurs in fallopian tube.                                      |
+| Saying Copper-T protects from STIs.                           | Copper-T prevents pregnancy, not STIs. Condoms reduce STI risk.                      |
 
 ---
 
@@ -1387,50 +1388,50 @@ Contraceptive methods may be adopted to:
 
 ## Asexual Reproduction Modes
 
-| Mode | Example | Key Feature |
-|---|---|---|
-| Binary fission | Amoeba | One cell divides into two. |
-| Multiple fission | Plasmodium | One cell forms many daughter cells. |
-| Budding | Yeast, Hydra | New individual grows as a bud. |
-| Fragmentation | Spirogyra | Fragments grow into new individuals. |
-| Regeneration | Planaria, Hydra | Body pieces regrow into whole organisms in some cases. |
-| Vegetative propagation | Potato, Bryophyllum, sugarcane | New plants from vegetative parts. |
-| Spore formation | Rhizopus | Protected spores grow into new organisms. |
+| Mode                   | Example                        | Key Feature                                            |
+| ---------------------- | ------------------------------ | ------------------------------------------------------ |
+| Binary fission         | Amoeba                         | One cell divides into two.                             |
+| Multiple fission       | Plasmodium                     | One cell forms many daughter cells.                    |
+| Budding                | Yeast, Hydra                   | New individual grows as a bud.                         |
+| Fragmentation          | Spirogyra                      | Fragments grow into new individuals.                   |
+| Regeneration           | Planaria, Hydra                | Body pieces regrow into whole organisms in some cases. |
+| Vegetative propagation | Potato, Bryophyllum, sugarcane | New plants from vegetative parts.                      |
+| Spore formation        | Rhizopus                       | Protected spores grow into new organisms.              |
 
 ## Flower Parts
 
-| Part | Role |
-|---|---|
-| Sepal | Protects bud. |
-| Petal | Attracts pollinators. |
-| Anther | Produces pollen. |
-| Filament | Supports anther. |
-| Stigma | Receives pollen. |
-| Style | Pollen tube pathway. |
-| Ovary | Contains ovules. |
-| Ovule | Contains egg; becomes seed. |
+| Part     | Role                        |
+| -------- | --------------------------- |
+| Sepal    | Protects bud.               |
+| Petal    | Attracts pollinators.       |
+| Anther   | Produces pollen.            |
+| Filament | Supports anther.            |
+| Stigma   | Receives pollen.            |
+| Style    | Pollen tube pathway.        |
+| Ovary    | Contains ovules.            |
+| Ovule    | Contains egg; becomes seed. |
 
 ## Human Reproductive Parts
 
-| System | Part | Function |
-|---|---|---|
-| Male | Testes | Sperm and testosterone production. |
-| Male | Vas deferens | Sperm transport. |
-| Male | Seminal vesicles/prostate | Add nutritive transport fluid. |
-| Male | Urethra | Common passage for urine and semen. |
-| Female | Ovaries | Eggs and hormones. |
-| Female | Fallopian tubes | Egg transport and fertilisation site. |
-| Female | Uterus | Embryo development. |
-| Female | Vagina | Receives sperm and acts as birth passage. |
+| System | Part                      | Function                                  |
+| ------ | ------------------------- | ----------------------------------------- |
+| Male   | Testes                    | Sperm and testosterone production.        |
+| Male   | Vas deferens              | Sperm transport.                          |
+| Male   | Seminal vesicles/prostate | Add nutritive transport fluid.            |
+| Male   | Urethra                   | Common passage for urine and semen.       |
+| Female | Ovaries                   | Eggs and hormones.                        |
+| Female | Fallopian tubes           | Egg transport and fertilisation site.     |
+| Female | Uterus                    | Embryo development.                       |
+| Female | Vagina                    | Receives sperm and acts as birth passage. |
 
 ## Contraception
 
-| Type | Examples | STI Protection? |
-|---|---|---|
-| Barrier | Condoms | Helps reduce STI risk |
-| Hormonal | Oral pills | No |
-| Intrauterine | Copper-T, loop | No |
-| Surgical | Vasectomy, tubectomy | No |
+| Type         | Examples             | STI Protection?       |
+| ------------ | -------------------- | --------------------- |
+| Barrier      | Condoms              | Helps reduce STI risk |
+| Hormonal     | Oral pills           | No                    |
+| Intrauterine | Copper-T, loop       | No                    |
+| Surgical     | Vasectomy, tubectomy | No                    |
 
 ---
 
@@ -1490,4 +1491,3 @@ In flowers, stamens produce pollen and pistil contains ovules. Pollination trans
 In humans, testes produce sperms and testosterone. Ovaries produce eggs and hormones. Fertilisation usually occurs in fallopian tube. The embryo implants in uterus and is nourished through placenta. If fertilisation does not occur, menstruation removes the uterine lining.
 
 Reproductive health includes STI prevention, responsible contraception, pregnancy planning, and maintaining a healthy sex ratio. Condoms help reduce STI transmission; Copper-T prevents pregnancy but does not protect from STIs.
-

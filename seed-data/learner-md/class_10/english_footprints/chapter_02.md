@@ -1,35 +1,36 @@
 # Chapter 2: The Thief's Story
+
 ### NCERT Class 10 - English Footprints
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 10 |
-| **Subject** | English Footprints |
-| **Chapter** | 2 |
-| **Text** | "The Thief's Story" by Ruskin Bond |
-| **Textbook Pages** | 8-13 |
-| **Genre** | Short story / moral transformation story |
-| **Core Theme** | Trust, temptation, guilt, education, dignity, second chances, and moral change. |
-| **Main Skills** | First-person narration, character analysis, inference, inner conflict, turning point, vocabulary, discussion, and reflective writing. |
+| Detail             | Learner-Friendly Information                                                                                                          |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
+| **Class**          | 10                                                                                                                                    |
+| **Subject**        | English Footprints                                                                                                                    |
+| **Chapter**        | 2                                                                                                                                     |
+| **Text**           | "The Thief's Story" by Ruskin Bond                                                                                                    |
+| **Textbook Pages** | 8-13                                                                                                                                  |
+| **Genre**          | Short story / moral transformation story                                                                                              |
+| **Core Theme**     | Trust, temptation, guilt, education, dignity, second chances, and moral change.                                                       |
+| **Main Skills**    | First-person narration, character analysis, inference, inner conflict, turning point, vocabulary, discussion, and reflective writing. |
 
 ---
 
 ## Section Structure
 
-| Unit | Text / Skill | Main Learning Focus |
-|---|---|---|
-| **2A** | Before Reading | Narrator identity, theft, trust, and employment. |
-| **2B** | Meeting Anil | Hari Singh's false identity and attempt to gain trust. |
-| **2C** | Life with Anil | Work, food, education, small cheating, and emotional attachment. |
-| **2D** | The Theft | Money under the mattress, escape plan, and train station hesitation. |
-| **2E** | Moral Conflict | Rain, loneliness, guilt, trust, and the value of education. |
-| **2F** | Return and Silence | Returning the money, Anil's quiet knowledge, and second chance. |
-| **2G** | Thinking About It | Education, forgiveness, realism, social causes, and setting. |
-| **2H** | Vocabulary and Style | Glossary, first-person voice, irony, and inference. |
+| Unit   | Text / Skill         | Main Learning Focus                                                  |
+| ------ | -------------------- | -------------------------------------------------------------------- |
+| **2A** | Before Reading       | Narrator identity, theft, trust, and employment.                     |
+| **2B** | Meeting Anil         | Hari Singh's false identity and attempt to gain trust.               |
+| **2C** | Life with Anil       | Work, food, education, small cheating, and emotional attachment.     |
+| **2D** | The Theft            | Money under the mattress, escape plan, and train station hesitation. |
+| **2E** | Moral Conflict       | Rain, loneliness, guilt, trust, and the value of education.          |
+| **2F** | Return and Silence   | Returning the money, Anil's quiet knowledge, and second chance.      |
+| **2G** | Thinking About It    | Education, forgiveness, realism, social causes, and setting.         |
+| **2H** | Vocabulary and Style | Glossary, first-person voice, irony, and inference.                  |
 
 ---
 
@@ -37,34 +38,34 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Retell the plot** | Explain how Hari Singh meets, robs, and returns to Anil. |
-| **Analyse transformation** | Show how Hari changes from thief to learner. |
-| **Understand trust** | Explain why robbing Anil feels different from robbing others. |
-| **Infer character** | Describe Anil's kindness, simplicity, and wisdom. |
-| **Explain turning point** | Identify why Hari does not board the train and why he returns. |
-| **Discuss education** | Explain why education becomes more valuable than stolen money. |
-| **Read first-person narration** | Notice how Hari reveals his own motives and conflict. |
-| **Use vocabulary** | Understand flattery, modestly, grunting, appealing, and unlined. |
+| Outcome                         | You Should Be Able To...                                         |
+| ------------------------------- | ---------------------------------------------------------------- |
+| **Retell the plot**             | Explain how Hari Singh meets, robs, and returns to Anil.         |
+| **Analyse transformation**      | Show how Hari changes from thief to learner.                     |
+| **Understand trust**            | Explain why robbing Anil feels different from robbing others.    |
+| **Infer character**             | Describe Anil's kindness, simplicity, and wisdom.                |
+| **Explain turning point**       | Identify why Hari does not board the train and why he returns.   |
+| **Discuss education**           | Explain why education becomes more valuable than stolen money.   |
+| **Read first-person narration** | Notice how Hari reveals his own motives and conflict.            |
+| **Use vocabulary**              | Understand flattery, modestly, grunting, appealing, and unlined. |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Thief** | Person who steals. |
-| **Narrator** | Person who tells the story. |
+| Term                       | Meaning                                                  |
+| -------------------------- | -------------------------------------------------------- |
+| **Thief**                  | Person who steals.                                       |
+| **Narrator**               | Person who tells the story.                              |
 | **First-person narration** | Story told using `I`, from the narrator's own viewpoint. |
-| **Flattery** | Insincere praise used to please or influence someone. |
-| **Appealing** | Attractive or pleasing in a way that wins sympathy. |
-| **Trust** | Faith that someone will be honest or reliable. |
-| **Betrayal** | Breaking someone's trust. |
-| **Conscience** | Inner sense of right and wrong. |
-| **Temptation** | Strong desire to do something wrong or risky. |
-| **Transformation** | Important change in character or behaviour. |
-| **Dignity** | Self-respect and worth. |
+| **Flattery**               | Insincere praise used to please or influence someone.    |
+| **Appealing**              | Attractive or pleasing in a way that wins sympathy.      |
+| **Trust**                  | Faith that someone will be honest or reliable.           |
+| **Betrayal**               | Breaking someone's trust.                                |
+| **Conscience**             | Inner sense of right and wrong.                          |
+| **Temptation**             | Strong desire to do something wrong or risky.            |
+| **Transformation**         | Important change in character or behaviour.              |
+| **Dignity**                | Self-respect and worth.                                  |
 
 ---
 
@@ -82,10 +83,10 @@ When Hari steals Anil's money, he realises that the real loss will not be money.
 
 ## Read and Find Out Questions
 
-| Question | Short Answer |
-|---|---|
-| Who does "I" refer to? | Hari Singh, the young thief and narrator. |
-| What is he a fairly successful hand at? | Stealing. |
+| Question                                       | Short Answer                                                               |
+| ---------------------------------------------- | -------------------------------------------------------------------------- |
+| Who does "I" refer to?                         | Hari Singh, the young thief and narrator.                                  |
+| What is he a fairly successful hand at?        | Stealing.                                                                  |
 | What does he get from Anil in return for work? | Food, shelter, kindness, and education, though not regular wages at first. |
 
 ## Opening Situation
@@ -102,13 +103,13 @@ Hari does not meet Anil for friendship. He meets him as a target. But the relati
 
 Hari chooses Anil after observing him at a wrestling match.
 
-| Hari's Action | Purpose |
-|---|---|
-| Uses flattery | To start conversation and gain favour. |
+| Hari's Action      | Purpose                                            |
+| ------------------ | -------------------------------------------------- |
+| Uses flattery      | To start conversation and gain favour.             |
 | Gives a false name | To hide identity from police and former employers. |
-| Follows casually | To continue contact without seeming desperate. |
-| Offers to work | To enter Anil's life and gain access. |
-| Lies about cooking | To make himself useful. |
+| Follows casually   | To continue contact without seeming desperate.     |
+| Offers to work     | To enter Anil's life and gain access.              |
+| Lies about cooking | To make himself useful.                            |
 
 ## Why Hari Uses New Names
 
@@ -148,14 +149,14 @@ This is the first sign that Anil is different from ordinary employers.
 
 ## What Hari Gets from Anil
 
-| Need | What Anil Provides |
-|---|---|
-| **Food** | Anil feeds him. |
-| **Shelter** | Hari sleeps on the balcony. |
-| **Work** | Hari makes tea and buys supplies. |
+| Need         | What Anil Provides                                          |
+| ------------ | ----------------------------------------------------------- |
+| **Food**     | Anil feeds him.                                             |
+| **Shelter**  | Hari sleeps on the balcony.                                 |
+| **Work**     | Hari makes tea and buys supplies.                           |
 | **Learning** | Anil teaches him to write his name, sentences, and numbers. |
-| **Trust** | Anil gives him a key and lets him come and go. |
-| **Dignity** | Anil treats him as teachable, not useless. |
+| **Trust**    | Anil gives him a key and lets him come and go.              |
+| **Dignity**  | Anil treats him as teachable, not useless.                  |
 
 ## Hari's Small Cheating
 
@@ -227,12 +228,12 @@ This is the turning point. Hari does not fully understand why he hesitates, but 
 
 Hari has watched how people react after being robbed.
 
-| Type of Person | Reaction |
-|---|---|
-| **Greedy man** | Shows fear. |
-| **Rich man** | Shows anger. |
-| **Poor man** | Shows acceptance. |
-| **Anil** | Would show sadness at loss of trust. |
+| Type of Person | Reaction                             |
+| -------------- | ------------------------------------ |
+| **Greedy man** | Shows fear.                          |
+| **Rich man**   | Shows anger.                         |
+| **Poor man**   | Shows acceptance.                    |
+| **Anil**       | Would show sadness at loss of trust. |
 
 This shows Hari is observant and psychologically sharp.
 
@@ -257,12 +258,12 @@ The weather reflects his inner discomfort:
 
 Hari realises that the money may last a week or two, but education can change his life.
 
-| Stolen Money | Education |
-|---|---|
-| Short-term gain | Long-term possibility |
-| Risk of being caught | Path to respect |
-| Keeps him a thief | May help him become "a big man" |
-| Breaks trust | Builds future |
+| Stolen Money         | Education                       |
+| -------------------- | ------------------------------- |
+| Short-term gain      | Long-term possibility           |
+| Risk of being caught | Path to respect                 |
+| Keeps him a thief    | May help him become "a big man" |
+| Breaks trust         | Builds future                   |
 
 ## Why Hari Returns
 
@@ -307,13 +308,13 @@ He may believe:
 
 ## How Anil Is Different from Other Employers
 
-| Ordinary Employer Might... | Anil... |
-|---|---|
-| Beat or dismiss the boy | Gives him a chance. |
-| Call the police | Remains silent. |
-| Stop trusting him | Offers regular pay. |
-| Treat him as criminal only | Treats him as a learner. |
-| Focus only on money | Understands moral recovery. |
+| Ordinary Employer Might... | Anil...                     |
+| -------------------------- | --------------------------- |
+| Beat or dismiss the boy    | Gives him a chance.         |
+| Call the police            | Remains silent.             |
+| Stop trusting him          | Offers regular pay.         |
+| Treat him as criminal only | Treats him as a learner.    |
+| Focus only on money        | Understands moral recovery. |
 
 ## Ending
 
@@ -335,11 +336,11 @@ Later, his understanding deepens. Whole sentences may bring more than stolen mon
 
 Yes.
 
-| Earlier Thought | Later Thought |
-|---|---|
+| Earlier Thought                                                    | Later Thought                                     |
+| ------------------------------------------------------------------ | ------------------------------------------------- |
 | Education may help him succeed, possibly even as a cleverer thief. | Education can help him become a respected person. |
-| Theft seems natural work. | Theft seems small and risky. |
-| Anil is a target. | Anil becomes teacher and friend. |
+| Theft seems natural work.                                          | Theft seems small and risky.                      |
+| Anil is a target.                                                  | Anil becomes teacher and friend.                  |
 
 ## What Makes Him Return?
 
@@ -411,24 +412,24 @@ It is unlikely that the characters spoke only English to each other. The story i
 
 ## Glossary from the Chapter
 
-| Word | Meaning |
-|---|---|
-| **Flattery** | Insincere praise. |
-| **Modestly** | Without boasting; humbly. |
-| **Grunting** | Making low rough sounds. |
-| **Appealing** | Attractive or winning sympathy. |
-| **Unlined** | Showing no worry lines; calm and innocent-looking. |
+| Word          | Meaning                                            |
+| ------------- | -------------------------------------------------- |
+| **Flattery**  | Insincere praise.                                  |
+| **Modestly**  | Without boasting; humbly.                          |
+| **Grunting**  | Making low rough sounds.                           |
+| **Appealing** | Attractive or winning sympathy.                    |
+| **Unlined**   | Showing no worry lines; calm and innocent-looking. |
 
 ## Important Expressions
 
-| Expression | Meaning |
-|---|---|
-| **A fairly successful hand** | Someone skilled or experienced at a task. |
-| **Get into confidence** | Win someone's trust. |
-| **By fits and starts** | Irregularly; not steadily. |
-| **In my line of work** | In my profession or activity; here, theft. |
-| **My heart sank** | I became disappointed or afraid. |
-| **My spirits rose** | I became hopeful or happy again. |
+| Expression                   | Meaning                                    |
+| ---------------------------- | ------------------------------------------ |
+| **A fairly successful hand** | Someone skilled or experienced at a task.  |
+| **Get into confidence**      | Win someone's trust.                       |
+| **By fits and starts**       | Irregularly; not steadily.                 |
+| **In my line of work**       | In my profession or activity; here, theft. |
+| **My heart sank**            | I became disappointed or afraid.           |
+| **My spirits rose**          | I became hopeful or happy again.           |
 
 ## First-Person Narration
 
@@ -444,37 +445,37 @@ Benefits:
 
 ## Irony in the Story
 
-| Situation | Irony |
-|---|---|
-| Hari chooses Anil as an easy target. | Anil becomes the person who reforms him. |
-| Hari lies to get work. | The work gives him a chance at education. |
-| He steals money to gain freedom. | The theft makes him realise he wants to return. |
+| Situation                            | Irony                                           |
+| ------------------------------------ | ----------------------------------------------- |
+| Hari chooses Anil as an easy target. | Anil becomes the person who reforms him.        |
+| Hari lies to get work.               | The work gives him a chance at education.       |
+| He steals money to gain freedom.     | The theft makes him realise he wants to return. |
 | Anil says he will pay him regularly. | He says this after knowing Hari stole from him. |
 
 ## Character Study
 
 ### Hari Singh
 
-| Trait | Evidence |
-|---|---|
-| **Clever** | Uses false names and flattery. |
+| Trait                  | Evidence                                   |
+| ---------------------- | ------------------------------------------ |
+| **Clever**             | Uses false names and flattery.             |
 | **Dishonest at first** | Lies about name and cooking; steals money. |
-| **Observant** | Studies people's reactions after theft. |
-| **Lonely** | Has no real friends. |
-| **Capable of guilt** | Thinks about Anil's sadness. |
-| **Teachable** | Values writing and arithmetic. |
-| **Transforming** | Returns the money and accepts education. |
+| **Observant**          | Studies people's reactions after theft.    |
+| **Lonely**             | Has no real friends.                       |
+| **Capable of guilt**   | Thinks about Anil's sadness.               |
+| **Teachable**          | Values writing and arithmetic.             |
+| **Transforming**       | Returns the money and accepts education.   |
 
 ### Anil
 
-| Trait | Evidence |
-|---|---|
-| **Trusting** | Gives Hari a key and freedom. |
-| **Kind** | Feeds him despite poor cooking. |
-| **Patient** | Teaches him to cook and write. |
+| Trait         | Evidence                                        |
+| ------------- | ----------------------------------------------- |
+| **Trusting**  | Gives Hari a key and freedom.                   |
+| **Kind**      | Feeds him despite poor cooking.                 |
+| **Patient**   | Teaches him to cook and write.                  |
 | **Observant** | Knows about small cheating and later the theft. |
-| **Forgiving** | Does not hand Hari to police. |
-| **Wise** | Encourages change without public shame. |
+| **Forgiving** | Does not hand Hari to police.                   |
+| **Wise**      | Encourages change without public shame.         |
 
 ---
 
@@ -542,4 +543,4 @@ Benefits:
 
 ---
 
-*Source: NCERT Class 10 - English Footprints, Chapter 2 raw file. Learner-facing version manually rewritten from the extracted content of "The Thief's Story".*
+_Source: NCERT Class 10 - English Footprints, Chapter 2 raw file. Learner-facing version manually rewritten from the extracted content of "The Thief's Story"._

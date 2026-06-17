@@ -26,30 +26,30 @@ By the end of this chapter, you should be able to:
 
 ## Texts Covered
 
-| Text | Writer | Form | Main Focus |
-|---|---|---|---|
-| Silk Road | Nick Middleton | Travelogue | Journey to Mount Kailash, Tibetan landscape, pilgrimage |
-| Father to Son | Elizabeth Jennings | Poem | Father-son alienation, generation gap, longing for forgiveness |
+| Text          | Writer             | Form       | Main Focus                                                     |
+| ------------- | ------------------ | ---------- | -------------------------------------------------------------- |
+| Silk Road     | Nick Middleton     | Travelogue | Journey to Mount Kailash, Tibetan landscape, pilgrimage        |
+| Father to Son | Elizabeth Jennings | Poem       | Father-son alienation, generation gap, longing for forgiveness |
 
 ## Core Vocabulary
 
-| Word or Phrase | Meaning |
-|---|---|
-| Ducking back | Quickly going back, usually into a small space |
-| Swathe | Broad strip or stretch |
-| Careered down | Moved rapidly and uncontrollably downward |
-| Manoeuvres | Planned movements |
-| Cairn | Pile of stones marking a place or route |
-| Salt flats | Flat land covered with salt deposits |
-| Billowed | Spread out or swelled like a cloud |
-| Kora | Circumambulation or pilgrimage circuit around a sacred place |
-| Drokba | Tibetan nomad or herder |
-| Kyang | Tibetan wild ass |
-| Mastiff | Large strong dog |
-| Brackish | Slightly salty |
-| Rudimentary | Basic, simple, not developed |
-| Prodigal | Someone who leaves home but may return repentantly |
-| Alienation | Emotional distance or separation |
+| Word or Phrase | Meaning                                                      |
+| -------------- | ------------------------------------------------------------ |
+| Ducking back   | Quickly going back, usually into a small space               |
+| Swathe         | Broad strip or stretch                                       |
+| Careered down  | Moved rapidly and uncontrollably downward                    |
+| Manoeuvres     | Planned movements                                            |
+| Cairn          | Pile of stones marking a place or route                      |
+| Salt flats     | Flat land covered with salt deposits                         |
+| Billowed       | Spread out or swelled like a cloud                           |
+| Kora           | Circumambulation or pilgrimage circuit around a sacred place |
+| Drokba         | Tibetan nomad or herder                                      |
+| Kyang          | Tibetan wild ass                                             |
+| Mastiff        | Large strong dog                                             |
+| Brackish       | Slightly salty                                               |
+| Rudimentary    | Basic, simple, not developed                                 |
+| Prodigal       | Someone who leaves home but may return repentantly           |
+| Alienation     | Emotional distance or separation                             |
 
 ## Part A: Silk Road
 
@@ -370,11 +370,11 @@ It indicates that Tsetan translated the Tibetan doctor's words for the narrator.
 
 ### Q4. Meaning and language of kora, drokba, and kyang
 
-| Word | Meaning | Language Context |
-|---|---|---|
-| Kora | Sacred circumambulation or pilgrimage circuit | Tibetan |
-| Drokba | Nomad or herder | Tibetan |
-| Kyang | Tibetan wild ass | Tibetan |
+| Word   | Meaning                                       | Language Context |
+| ------ | --------------------------------------------- | ---------------- |
+| Kora   | Sacred circumambulation or pilgrimage circuit | Tibetan          |
+| Drokba | Nomad or herder                               | Tibetan          |
+| Kyang  | Tibetan wild ass                              | Tibetan          |
 
 ## 23. Picturesque Phrases and Their Effect
 
@@ -397,13 +397,13 @@ These descriptions create a visual journey for the reader.
 
 ## 24. Adjective Use
 
-| Phrase | Meaning and Effect |
-|---|---|
-| Shaggy monsters | Describes the huge, hairy, fierce Tibetan mastiffs |
-| Brackish lakes | Lakes with salty or partly salty water |
-| Rickety table | Weak, shaky, unstable table |
-| Hairpin bend | Very sharp bend like a hairpin |
-| Rudimentary general stores | Very basic shops with limited goods |
+| Phrase                     | Meaning and Effect                                 |
+| -------------------------- | -------------------------------------------------- |
+| Shaggy monsters            | Describes the huge, hairy, fierce Tibetan mastiffs |
+| Brackish lakes             | Lakes with salty or partly salty water             |
+| Rickety table              | Weak, shaky, unstable table                        |
+| Hairpin bend               | Very sharp bend like a hairpin                     |
+| Rudimentary general stores | Very basic shops with limited goods                |
 
 ## 25. Active Voice in the Travelogue
 
@@ -587,13 +587,13 @@ No. The poem has some rhymes and near-rhymes, but no consistent rhyme scheme. Th
 
 ## 37. Comparison of the Two Texts
 
-| Point | Silk Road | Father to Son |
-|---|---|---|
-| Form | Travelogue | Poem |
-| Main journey | Journey to Mount Kailash | Emotional journey between father and son |
+| Point           | Silk Road                             | Father to Son                             |
+| --------------- | ------------------------------------- | ----------------------------------------- |
+| Form            | Travelogue                            | Poem                                      |
+| Main journey    | Journey to Mount Kailash              | Emotional journey between father and son  |
 | Main difficulty | Terrain, altitude, illness, isolation | Silence, misunderstanding, generation gap |
-| Helpful figure | Tsetan and Norbu | Forgiveness and communication are needed |
-| Main theme | Pilgrimage, endurance, landscape | Alienation, longing, reconciliation |
+| Helpful figure  | Tsetan and Norbu                      | Forgiveness and communication are needed  |
+| Main theme      | Pilgrimage, endurance, landscape      | Alienation, longing, reconciliation       |
 
 Both texts involve journeys. One is through mountains; the other is through strained human emotions.
 
@@ -678,4 +678,3 @@ The poem has no fully consistent rhyme scheme.
 Silk Road by Nick Middleton is a travelogue about the narrator's journey through Tibet toward Mount Kailash for the kora. The journey begins at Ravu, where Lhamo gives him warm clothing. Tsetan drives him across the Changtang through wild and difficult terrain. The travellers encounter kyang, drokbas, fierce Tibetan mastiffs, snow-blocked tracks, high passes, cairns, prayer flags, salt flats, and brackish lakes. At Hor, the narrator is disappointed by the dirt and bleakness of the town despite its closeness to sacred Lake Manasarovar. At Darchen, he becomes ill due to cold and altitude, but a Tibetan doctor helps him recover. He is disappointed by the absence of pilgrims until he meets Norbu, an academic who also wants to do the kora.
 
 Father to Son by Elizabeth Jennings explores the emotional distance between a father and his son. The father cannot understand the son despite living with him for years. The son has grown into his own independent world, and silence separates them. The father feels helpless but longs for forgiveness and reconciliation. The poem is universal because it reflects the generation gap and emotional difficulty found in many families.
-

@@ -1,20 +1,21 @@
 # Chapter 2: Nationalism in India
+
 ### NCERT Class 10 - Social History
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-| --- | --- |
-| Class | 10 |
-| Subject | Social History |
-| Chapter | 2 - Nationalism in India |
+| Detail           | Learner-Friendly Information                                                                                                         |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Class            | 10                                                                                                                                   |
+| Subject          | Social History                                                                                                                       |
+| Chapter          | 2 - Nationalism in India                                                                                                             |
 | Central Question | How did the anti-colonial struggle create a sense of Indian nationalism despite differences among classes, communities, and regions? |
-| Time Period | Mainly 1915 to 1942, with focus on 1919-1934 |
-| Main Themes | Satyagraha, Rowlatt Act, Jallianwala Bagh, Khilafat, Non-Cooperation, Civil Disobedience, social groups, collective belonging |
-| Main Skills | Timeline building, cause-effect analysis, comparing movements, understanding social participation, interpreting symbols |
-| Exam Importance | Very high: First World War effects, satyagraha, Non-Cooperation, Salt March, social groups, Poona Pact, Bharat Mata |
+| Time Period      | Mainly 1915 to 1942, with focus on 1919-1934                                                                                         |
+| Main Themes      | Satyagraha, Rowlatt Act, Jallianwala Bagh, Khilafat, Non-Cooperation, Civil Disobedience, social groups, collective belonging        |
+| Main Skills      | Timeline building, cause-effect analysis, comparing movements, understanding social participation, interpreting symbols              |
+| Exam Importance  | Very high: First World War effects, satyagraha, Non-Cooperation, Salt March, social groups, Poona Pact, Bharat Mata                  |
 
 ---
 
@@ -36,16 +37,16 @@ The key idea is:
 
 After studying this chapter, you should be able to:
 
-| Skill | You Should Be Able To |
-| --- | --- |
-| Define | Explain satyagraha, hartal, boycott, picketing, begar, swaraj, civil disobedience, separate electorate, and collective belonging. |
-| Explain | Describe how the First World War helped the growth of nationalism. |
-| Analyse | Explain why Indians opposed the Rowlatt Act and how Jallianwala Bagh changed public feeling. |
-| Compare | Differentiate Non-Cooperation and Civil Disobedience. |
-| Describe | Explain participation of townspeople, peasants, tribals, plantation workers, business groups, workers, women, Dalits, and Muslims. |
-| Evaluate | Explain limits of the Civil Disobedience Movement. |
-| Interpret | Explain Bharat Mata, flags, folklore, history, and songs as symbols of collective belonging. |
-| Write | Prepare strong answers for NCERT short and long questions. |
+| Skill     | You Should Be Able To                                                                                                              |
+| --------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Define    | Explain satyagraha, hartal, boycott, picketing, begar, swaraj, civil disobedience, separate electorate, and collective belonging.  |
+| Explain   | Describe how the First World War helped the growth of nationalism.                                                                 |
+| Analyse   | Explain why Indians opposed the Rowlatt Act and how Jallianwala Bagh changed public feeling.                                       |
+| Compare   | Differentiate Non-Cooperation and Civil Disobedience.                                                                              |
+| Describe  | Explain participation of townspeople, peasants, tribals, plantation workers, business groups, workers, women, Dalits, and Muslims. |
+| Evaluate  | Explain limits of the Civil Disobedience Movement.                                                                                 |
+| Interpret | Explain Bharat Mata, flags, folklore, history, and songs as symbols of collective belonging.                                       |
+| Write     | Prepare strong answers for NCERT short and long questions.                                                                         |
 
 ---
 
@@ -75,33 +76,33 @@ The movement faced tensions around caste, class, religion, separate electorates,
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Nationalism | A sense of collective belonging to a nation and willingness to struggle for its freedom or dignity. |
-| Anti-Colonial Movement | Movement against colonial rule and exploitation. |
-| Satyagraha | Gandhian method of struggle based on truth, non-violence, moral force, and appeal to the oppressor's conscience. |
-| Hartal | Strike or shutdown as a form of protest. |
-| Rowlatt Act | 1919 law that allowed detention of political prisoners without trial for two years. |
-| Martial Law | Rule by military authority during emergency. |
-| Khilafat Movement | Movement to defend the temporal powers of the Ottoman Khalifa after the First World War. |
-| Non-Cooperation | Refusal to cooperate with British institutions, titles, services, schools, courts, councils, and foreign goods. |
-| Boycott | Refusal to buy, use, or participate in something as a form of protest. |
-| Picketing | Demonstration outside shops, offices, or institutions to block or discourage entry. |
-| Swaraj | Self-rule; different groups understood it in different ways. |
-| Begar | Forced labour without payment. |
-| Chauri Chaura | Place where a peaceful demonstration turned violent in 1922, leading Gandhi to withdraw Non-Cooperation. |
-| Swaraj Party | Party formed by C.R. Das and Motilal Nehru to enter councils and oppose British rule from within. |
-| Simon Commission | 1928 statutory commission with no Indian member, boycotted with the slogan "Go back Simon." |
-| Purna Swaraj | Complete independence, formally demanded by the Lahore Congress in December 1929. |
-| Civil Disobedience | Movement involving refusal to cooperate and deliberate breaking of colonial laws. |
-| Salt March | Gandhi's 1930 march from Sabarmati to Dandi to break the salt law. |
-| Gandhi-Irwin Pact | 1931 agreement in which Gandhi agreed to attend Round Table Conference and government agreed to release political prisoners. |
-| Dalit | Oppressed; term used by formerly "untouchable" communities from around the 1930s. |
-| Harijan | Term Gandhi used for "untouchables," meaning children of God. |
-| Separate Electorate | System in which a community votes separately to choose its own representatives. |
-| Poona Pact | 1932 agreement between Gandhi and Ambedkar giving reserved seats to Depressed Classes within general electorate. |
-| Collective Belonging | Feeling that people are part of the same nation. |
-| Bharat Mata | Visual image of India as a mother figure. |
+| Term                   | Meaning                                                                                                                      |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Nationalism            | A sense of collective belonging to a nation and willingness to struggle for its freedom or dignity.                          |
+| Anti-Colonial Movement | Movement against colonial rule and exploitation.                                                                             |
+| Satyagraha             | Gandhian method of struggle based on truth, non-violence, moral force, and appeal to the oppressor's conscience.             |
+| Hartal                 | Strike or shutdown as a form of protest.                                                                                     |
+| Rowlatt Act            | 1919 law that allowed detention of political prisoners without trial for two years.                                          |
+| Martial Law            | Rule by military authority during emergency.                                                                                 |
+| Khilafat Movement      | Movement to defend the temporal powers of the Ottoman Khalifa after the First World War.                                     |
+| Non-Cooperation        | Refusal to cooperate with British institutions, titles, services, schools, courts, councils, and foreign goods.              |
+| Boycott                | Refusal to buy, use, or participate in something as a form of protest.                                                       |
+| Picketing              | Demonstration outside shops, offices, or institutions to block or discourage entry.                                          |
+| Swaraj                 | Self-rule; different groups understood it in different ways.                                                                 |
+| Begar                  | Forced labour without payment.                                                                                               |
+| Chauri Chaura          | Place where a peaceful demonstration turned violent in 1922, leading Gandhi to withdraw Non-Cooperation.                     |
+| Swaraj Party           | Party formed by C.R. Das and Motilal Nehru to enter councils and oppose British rule from within.                            |
+| Simon Commission       | 1928 statutory commission with no Indian member, boycotted with the slogan "Go back Simon."                                  |
+| Purna Swaraj           | Complete independence, formally demanded by the Lahore Congress in December 1929.                                            |
+| Civil Disobedience     | Movement involving refusal to cooperate and deliberate breaking of colonial laws.                                            |
+| Salt March             | Gandhi's 1930 march from Sabarmati to Dandi to break the salt law.                                                           |
+| Gandhi-Irwin Pact      | 1931 agreement in which Gandhi agreed to attend Round Table Conference and government agreed to release political prisoners. |
+| Dalit                  | Oppressed; term used by formerly "untouchable" communities from around the 1930s.                                            |
+| Harijan                | Term Gandhi used for "untouchables," meaning children of God.                                                                |
+| Separate Electorate    | System in which a community votes separately to choose its own representatives.                                              |
+| Poona Pact             | 1932 agreement between Gandhi and Ambedkar giving reserved seats to Depressed Classes within general electorate.             |
+| Collective Belonging   | Feeling that people are part of the same nation.                                                                             |
+| Bharat Mata            | Visual image of India as a mother figure.                                                                                    |
 
 ---
 
@@ -117,16 +118,16 @@ People discovered unity while fighting colonialism. The shared experience of bei
 
 Every group experienced colonialism differently:
 
-| Group | Main Concern |
-| --- | --- |
-| Peasants | High revenue, rent, begar, eviction |
-| Tribal communities | Forest restrictions and forced labour |
-| Plantation workers | Restricted movement and desire to return home |
-| Business classes | Colonial restrictions on trade and industry |
-| Industrial workers | Low wages and poor working conditions |
-| Women | Public participation and service to nation |
-| Dalits | Social oppression and political representation |
-| Muslims | Minority safeguards and representation |
+| Group              | Main Concern                                   |
+| ------------------ | ---------------------------------------------- |
+| Peasants           | High revenue, rent, begar, eviction            |
+| Tribal communities | Forest restrictions and forced labour          |
+| Plantation workers | Restricted movement and desire to return home  |
+| Business classes   | Colonial restrictions on trade and industry    |
+| Industrial workers | Low wages and poor working conditions          |
+| Women              | Public participation and service to nation     |
+| Dalits             | Social oppression and political representation |
+| Muslims            | Minority safeguards and representation         |
 
 The Congress tried to bring these groups together, but unity often involved negotiation and conflict.
 
@@ -140,17 +141,17 @@ The First World War created a new economic and political situation in India.
 
 ## Effects of the War
 
-| Effect | Explanation |
-| --- | --- |
-| Defence expenditure increased | War costs rose sharply. |
-| War loans | British financed war through loans. |
-| Taxes increased | Customs duties were raised and income tax was introduced. |
-| Prices rose | Prices doubled between 1913 and 1918. |
-| Hardship for common people | Food, cloth, and basic goods became costly. |
-| Forced recruitment | Villages were forced to supply soldiers. |
-| Crop failures | Crops failed in 1918-19 and 1920-21. |
-| Food shortages | Many regions faced acute shortages. |
-| Influenza epidemic | Millions died during epidemic and famine conditions. |
+| Effect                        | Explanation                                               |
+| ----------------------------- | --------------------------------------------------------- |
+| Defence expenditure increased | War costs rose sharply.                                   |
+| War loans                     | British financed war through loans.                       |
+| Taxes increased               | Customs duties were raised and income tax was introduced. |
+| Prices rose                   | Prices doubled between 1913 and 1918.                     |
+| Hardship for common people    | Food, cloth, and basic goods became costly.               |
+| Forced recruitment            | Villages were forced to supply soldiers.                  |
+| Crop failures                 | Crops failed in 1918-19 and 1920-21.                      |
+| Food shortages                | Many regions faced acute shortages.                       |
+| Influenza epidemic            | Millions died during epidemic and famine conditions.      |
 
 According to the 1921 census, 12 to 13 million people died due to famines and the epidemic.
 
@@ -190,11 +191,11 @@ Satyagraha was not passive. It required courage, discipline, sacrifice, action, 
 
 ## Early Satyagraha Movements in India
 
-| Year | Place | Issue |
-| --- | --- | --- |
-| 1917 | Champaran, Bihar | Peasants against oppressive plantation system |
-| 1918 | Ahmedabad | Cotton mill workers |
-| 1918 | Kheda, Gujarat | Peasants demanded revenue relaxation after crop failure and plague |
+| Year | Place            | Issue                                                              |
+| ---- | ---------------- | ------------------------------------------------------------------ |
+| 1917 | Champaran, Bihar | Peasants against oppressive plantation system                      |
+| 1918 | Ahmedabad        | Cotton mill workers                                                |
+| 1918 | Kheda, Gujarat   | Peasants demanded revenue relaxation after crop failure and plague |
 
 These successes gave Gandhi confidence to launch wider movements.
 
@@ -357,12 +358,12 @@ Indian textile mills and handlooms expanded production.
 
 ## Why the Movement Slowed in Cities
 
-| Reason | Explanation |
-| --- | --- |
-| Khadi was expensive | Poor people could not afford it for long. |
+| Reason                                   | Explanation                                           |
+| ---------------------------------------- | ----------------------------------------------------- |
+| Khadi was expensive                      | Poor people could not afford it for long.             |
 | Indian institutions were slow to develop | Students and teachers returned to government schools. |
-| Courts remained necessary | Lawyers returned to government courts. |
-| Practical difficulties | Boycott required alternatives that were not ready. |
+| Courts remained necessary                | Lawyers returned to government courts.                |
+| Practical difficulties                   | Boycott required alternatives that were not ready.    |
 
 ---
 
@@ -608,16 +609,16 @@ The most stirring demand was abolition of the salt tax.
 
 ## Salt March
 
-| Detail | Information |
-| --- | --- |
-| Start | Sabarmati Ashram |
-| Destination | Dandi, Gujarat coast |
-| Distance | Over 240 miles |
-| Volunteers | 78 trusted volunteers |
-| Duration | 24 days |
-| Daily walk | About 10 miles per day |
-| Law broken | Salt law |
-| Date at Dandi | 6 April 1930 |
+| Detail        | Information            |
+| ------------- | ---------------------- |
+| Start         | Sabarmati Ashram       |
+| Destination   | Dandi, Gujarat coast   |
+| Distance      | Over 240 miles         |
+| Volunteers    | 78 trusted volunteers  |
+| Duration      | 24 days                |
+| Daily walk    | About 10 miles per day |
+| Law broken    | Salt law               |
+| Date at Dandi | 6 April 1930           |
 
 At Dandi, Gandhi made salt by boiling seawater.
 
@@ -625,12 +626,12 @@ This began the Civil Disobedience Movement.
 
 ## Difference Between Non-Cooperation and Civil Disobedience
 
-| Non-Cooperation | Civil Disobedience |
-| --- | --- |
+| Non-Cooperation                                | Civil Disobedience                                            |
+| ---------------------------------------------- | ------------------------------------------------------------- |
 | Refusal to cooperate with British institutions | Refusal to cooperate and deliberate breaking of colonial laws |
-| Boycott of schools, courts, councils, goods | Breaking salt law, refusing revenue, violating forest laws |
-| Began in 1921 | Began in 1930 |
-| Linked with Khilafat | Linked with Salt March and Purna Swaraj |
+| Boycott of schools, courts, councils, goods    | Breaking salt law, refusing revenue, violating forest laws    |
+| Began in 1921                                  | Began in 1930                                                 |
+| Linked with Khilafat                           | Linked with Salt March and Purna Swaraj                       |
 
 ## Spread of Civil Disobedience
 
@@ -744,9 +745,9 @@ They wanted:
 
 ## Organisations
 
-| Year | Organisation |
-| --- | --- |
-| 1920 | Indian Industrial and Commercial Congress |
+| Year | Organisation                                            |
+| ---- | ------------------------------------------------------- |
+| 1920 | Indian Industrial and Commercial Congress               |
 | 1927 | Federation of Indian Chamber of Commerce and Industries |
 
 Prominent leaders included Purshottamdas Thakurdas and G.D. Birla.
@@ -1138,32 +1139,32 @@ The British used force, but it took more than a year to suppress the movement.
 
 # Timeline of the Chapter
 
-| Year/Date | Event |
-| --- | --- |
-| January 1915 | Gandhi returned to India |
-| 1917 | Champaran satyagraha |
-| 1918 | Ahmedabad mill workers satyagraha; Kheda peasants satyagraha |
-| 1918-19 | Distressed UP peasants organised by Baba Ramchandra |
-| March 1919 | Khilafat Committee formed in Bombay |
-| 6 April 1919 | Hartal against Rowlatt Act |
-| 13 April 1919 | Jallianwala Bagh massacre |
-| September 1920 | Calcutta Congress accepted need for Non-Cooperation with Khilafat |
-| December 1920 | Nagpur Congress adopted Non-Cooperation programme |
-| January 1921 | Non-Cooperation-Khilafat Movement began |
-| February 1922 | Chauri Chaura; Non-Cooperation withdrawn |
-| 1924 | Alluri Sitarama Raju arrested and executed |
-| 1928 | Simon Commission arrived; HSRA founded |
-| December 1929 | Lahore Congress demanded Purna Swaraj |
-| 26 January 1930 | Independence Day pledge |
-| 31 January 1930 | Gandhi sent eleven demands to Irwin |
-| March-April 1930 | Salt March from Sabarmati to Dandi |
-| 6 April 1930 | Gandhi broke salt law at Dandi |
-| 1930 | Ambedkar formed Depressed Classes Association |
-| 5 March 1931 | Gandhi-Irwin Pact |
-| December 1931 | Second Round Table Conference |
-| 1932 | Civil Disobedience relaunched; Poona Pact |
-| 1934 | Civil Disobedience lost momentum |
-| 8 August 1942 | Quit India resolution endorsed in Bombay |
+| Year/Date        | Event                                                             |
+| ---------------- | ----------------------------------------------------------------- |
+| January 1915     | Gandhi returned to India                                          |
+| 1917             | Champaran satyagraha                                              |
+| 1918             | Ahmedabad mill workers satyagraha; Kheda peasants satyagraha      |
+| 1918-19          | Distressed UP peasants organised by Baba Ramchandra               |
+| March 1919       | Khilafat Committee formed in Bombay                               |
+| 6 April 1919     | Hartal against Rowlatt Act                                        |
+| 13 April 1919    | Jallianwala Bagh massacre                                         |
+| September 1920   | Calcutta Congress accepted need for Non-Cooperation with Khilafat |
+| December 1920    | Nagpur Congress adopted Non-Cooperation programme                 |
+| January 1921     | Non-Cooperation-Khilafat Movement began                           |
+| February 1922    | Chauri Chaura; Non-Cooperation withdrawn                          |
+| 1924             | Alluri Sitarama Raju arrested and executed                        |
+| 1928             | Simon Commission arrived; HSRA founded                            |
+| December 1929    | Lahore Congress demanded Purna Swaraj                             |
+| 26 January 1930  | Independence Day pledge                                           |
+| 31 January 1930  | Gandhi sent eleven demands to Irwin                               |
+| March-April 1930 | Salt March from Sabarmati to Dandi                                |
+| 6 April 1930     | Gandhi broke salt law at Dandi                                    |
+| 1930             | Ambedkar formed Depressed Classes Association                     |
+| 5 March 1931     | Gandhi-Irwin Pact                                                 |
+| December 1931    | Second Round Table Conference                                     |
+| 1932             | Civil Disobedience relaunched; Poona Pact                         |
+| 1934             | Civil Disobedience lost momentum                                  |
+| 8 August 1942    | Quit India resolution endorsed in Bombay                          |
 
 ---
 
@@ -1171,36 +1172,36 @@ The British used force, but it took more than a year to suppress the movement.
 
 ## Non-Cooperation and Civil Disobedience
 
-| Point | Non-Cooperation | Civil Disobedience |
-| --- | --- | --- |
-| Start | January 1921 | March-April 1930 |
-| Main idea | Refuse cooperation | Refuse cooperation and break colonial laws |
-| Trigger | Khilafat, Punjab wrongs, swaraj | Purna Swaraj and salt tax |
-| Methods | Boycott schools, courts, councils, titles, foreign goods | Break salt law, refuse taxes, violate forest laws, boycott goods |
-| End | Withdrawn after Chauri Chaura in 1922 | Suspended after Gandhi-Irwin Pact; relaunched and lost momentum by 1934 |
+| Point     | Non-Cooperation                                          | Civil Disobedience                                                      |
+| --------- | -------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Start     | January 1921                                             | March-April 1930                                                        |
+| Main idea | Refuse cooperation                                       | Refuse cooperation and break colonial laws                              |
+| Trigger   | Khilafat, Punjab wrongs, swaraj                          | Purna Swaraj and salt tax                                               |
+| Methods   | Boycott schools, courts, councils, titles, foreign goods | Break salt law, refuse taxes, violate forest laws, boycott goods        |
+| End       | Withdrawn after Chauri Chaura in 1922                    | Suspended after Gandhi-Irwin Pact; relaunched and lost momentum by 1934 |
 
 ## Social Groups and Meaning of Swaraj
 
-| Group | Meaning of Swaraj |
-| --- | --- |
-| Rich peasants | Reduction of revenue demand |
-| Poor peasants | Rent remission and relief from landlords |
-| Tribal communities | Restoration of forest rights and end of begar |
-| Plantation workers | Freedom to leave plantations and return home |
-| Business classes | End of colonial restrictions on trade and industry |
-| Workers | Better wages and working conditions |
-| Women | Service to nation and public participation |
-| Dalits | Social equality and political representation |
-| Muslims | Safeguards for minority identity and representation |
+| Group              | Meaning of Swaraj                                   |
+| ------------------ | --------------------------------------------------- |
+| Rich peasants      | Reduction of revenue demand                         |
+| Poor peasants      | Rent remission and relief from landlords            |
+| Tribal communities | Restoration of forest rights and end of begar       |
+| Plantation workers | Freedom to leave plantations and return home        |
+| Business classes   | End of colonial restrictions on trade and industry  |
+| Workers            | Better wages and working conditions                 |
+| Women              | Service to nation and public participation          |
+| Dalits             | Social equality and political representation        |
+| Muslims            | Safeguards for minority identity and representation |
 
 ## Gandhi and Ambedkar on Dalit Representation
 
-| Point | Gandhi | Ambedkar |
-| --- | --- | --- |
-| Main concern | Social reform and integration | Political empowerment and representation |
-| Term used | Harijan | Depressed Classes/Dalit |
-| Separate electorates | Opposed | Demanded |
-| Outcome | Fast unto death | Poona Pact compromise |
+| Point                | Gandhi                        | Ambedkar                                 |
+| -------------------- | ----------------------------- | ---------------------------------------- |
+| Main concern         | Social reform and integration | Political empowerment and representation |
+| Term used            | Harijan                       | Depressed Classes/Dalit                  |
+| Separate electorates | Opposed                       | Demanded                                 |
+| Outcome              | Fast unto death               | Poona Pact compromise                    |
 
 ---
 
@@ -1280,15 +1281,15 @@ Use this structure:
 
 # Common Mistakes to Avoid
 
-| Mistake | Correct Understanding |
-| --- | --- |
-| Writing that all Indians wanted the same swaraj. | Different groups had different meanings of swaraj. |
-| Confusing Non-Cooperation and Civil Disobedience. | Non-Cooperation refused cooperation; Civil Disobedience broke colonial laws. |
-| Forgetting Khilafat in Non-Cooperation. | Gandhi linked Khilafat with swaraj to build Hindu-Muslim unity. |
-| Saying Gandhi withdrew movements because they failed. | He withdrew Non-Cooperation because of violence and need for discipline. |
-| Treating women participation as full equality. | Women joined in large numbers but were rarely given authority in Congress. |
-| Ignoring Dalit and Muslim concerns. | The chapter highlights limits of national unity. |
-| Writing Bharat Mata appealed equally to everyone. | Some forms used Hindu imagery and could exclude other communities. |
+| Mistake                                               | Correct Understanding                                                        |
+| ----------------------------------------------------- | ---------------------------------------------------------------------------- |
+| Writing that all Indians wanted the same swaraj.      | Different groups had different meanings of swaraj.                           |
+| Confusing Non-Cooperation and Civil Disobedience.     | Non-Cooperation refused cooperation; Civil Disobedience broke colonial laws. |
+| Forgetting Khilafat in Non-Cooperation.               | Gandhi linked Khilafat with swaraj to build Hindu-Muslim unity.              |
+| Saying Gandhi withdrew movements because they failed. | He withdrew Non-Cooperation because of violence and need for discipline.     |
+| Treating women participation as full equality.        | Women joined in large numbers but were rarely given authority in Congress.   |
+| Ignoring Dalit and Muslim concerns.                   | The chapter highlights limits of national unity.                             |
+| Writing Bharat Mata appealed equally to everyone.     | Some forms used Hindu imagery and could exclude other communities.           |
 
 ---
 

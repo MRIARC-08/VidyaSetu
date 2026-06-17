@@ -1,4 +1,5 @@
 # Chapter 6: Poets and Pancakes
+
 ### NCERT Class 12 - English Flamingo
 
 ## Chapter at a Glance
@@ -22,15 +23,15 @@ By the end of this chapter, you should be able to:
 
 ## Key Facts
 
-| Element | Detail |
-|---|---|
-| Author | Asokamitran |
-| Genre | Memoir / humorous prose |
-| Setting | Gemini Studios, Madras |
-| Title reference | Pancake makeup used in film studios |
-| Major tone | Humorous, ironic, satirical |
-| Main focus | People and culture inside a film studio |
-| Literary visitor | Stephen Spender |
+| Element          | Detail                                  |
+| ---------------- | --------------------------------------- |
+| Author           | Asokamitran                             |
+| Genre            | Memoir / humorous prose                 |
+| Setting          | Gemini Studios, Madras                  |
+| Title reference  | Pancake makeup used in film studios     |
+| Major tone       | Humorous, ironic, satirical             |
+| Main focus       | People and culture inside a film studio |
+| Literary visitor | Stephen Spender                         |
 
 # Unit 6A: Gemini Studios
 
@@ -175,13 +176,13 @@ The chapter's structure is episodic. It moves from makeup to office politics to 
 
 # Unit 6L: Important Character Sketches
 
-| Character | Role in chapter |
-|---|---|
-| Narrator | Observer of studio culture |
-| Office boy | Frustrated lower-level worker |
-| Subbu | Resourceful, favoured, creative studio man |
-| Legal adviser | Ironic figure whose advice harms |
-| Stephen Spender | Misunderstood literary visitor |
+| Character       | Role in chapter                            |
+| --------------- | ------------------------------------------ |
+| Narrator        | Observer of studio culture                 |
+| Office boy      | Frustrated lower-level worker              |
+| Subbu           | Resourceful, favoured, creative studio man |
+| Legal adviser   | Ironic figure whose advice harms           |
+| Stephen Spender | Misunderstood literary visitor             |
 
 # Unit 6M: Exam Answer Frameworks
 
@@ -203,12 +204,12 @@ The chapter's structure is episodic. It moves from makeup to office politics to 
 
 # Unit 6N: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Searching for a single linear plot | The chapter is episodic memoir. |
-| Treating "Pancake" as food | It refers to makeup. |
-| Calling Subbu only a flatterer | He is also creative and useful. |
-| Ignoring humour | Satire is central to the prose. |
+| Mistake                                | Correction                                       |
+| -------------------------------------- | ------------------------------------------------ |
+| Searching for a single linear plot     | The chapter is episodic memoir.                  |
+| Treating "Pancake" as food             | It refers to makeup.                             |
+| Calling Subbu only a flatterer         | He is also creative and useful.                  |
+| Ignoring humour                        | Satire is central to the prose.                  |
 | Missing Stephen Spender's significance | His misunderstood visit shows cultural mismatch. |
 
 ## Practice Set

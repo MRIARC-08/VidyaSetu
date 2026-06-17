@@ -47,32 +47,32 @@ By the end of this chapter, a learner should be able to:
 
 ## 3. Core Vocabulary
 
-| Term | Learner meaning |
-|---|---|
-| Chemical bond | Attractive force holding atoms or ions together |
-| Valence electron | Outer shell electron involved in bonding |
-| Lewis symbol | Element symbol with dots for valence electrons |
-| Octet rule | Tendency of atoms to attain 8 valence electrons |
-| Ionic bond | Bond formed by electrostatic attraction between ions |
-| Covalent bond | Bond formed by sharing electron pair |
-| Lone pair | Valence electron pair not involved in bonding |
-| Bond pair | Shared electron pair involved in bonding |
-| Formal charge | Bookkeeping charge assigned in Lewis structure |
-| Lattice enthalpy | Energy required to separate one mole ionic solid into gaseous ions |
-| Bond length | Equilibrium distance between bonded nuclei |
-| Bond angle | Angle between two bonds around central atom |
-| Bond enthalpy | Energy required to break one mole of bonds in gaseous state |
-| Bond order | Number of bonds between two atoms, or MO bond order |
-| Resonance | Use of multiple contributing structures for one real species |
-| Dipole moment | Measure of charge separation in a molecule |
-| VSEPR | Theory using electron pair repulsions to predict shape |
-| Hybridisation | Mixing of orbitals to form equivalent hybrid orbitals |
-| Sigma bond | Bond formed by end-to-end overlap along internuclear axis |
-| Pi bond | Bond formed by sidewise overlap of parallel orbitals |
-| Molecular orbital | Orbital spread over a molecule |
-| Bonding MO | Lower-energy molecular orbital that stabilizes molecule |
-| Antibonding MO | Higher-energy molecular orbital that destabilizes molecule |
-| Hydrogen bond | Attraction involving H attached to F, O, or N |
+| Term              | Learner meaning                                                    |
+| ----------------- | ------------------------------------------------------------------ |
+| Chemical bond     | Attractive force holding atoms or ions together                    |
+| Valence electron  | Outer shell electron involved in bonding                           |
+| Lewis symbol      | Element symbol with dots for valence electrons                     |
+| Octet rule        | Tendency of atoms to attain 8 valence electrons                    |
+| Ionic bond        | Bond formed by electrostatic attraction between ions               |
+| Covalent bond     | Bond formed by sharing electron pair                               |
+| Lone pair         | Valence electron pair not involved in bonding                      |
+| Bond pair         | Shared electron pair involved in bonding                           |
+| Formal charge     | Bookkeeping charge assigned in Lewis structure                     |
+| Lattice enthalpy  | Energy required to separate one mole ionic solid into gaseous ions |
+| Bond length       | Equilibrium distance between bonded nuclei                         |
+| Bond angle        | Angle between two bonds around central atom                        |
+| Bond enthalpy     | Energy required to break one mole of bonds in gaseous state        |
+| Bond order        | Number of bonds between two atoms, or MO bond order                |
+| Resonance         | Use of multiple contributing structures for one real species       |
+| Dipole moment     | Measure of charge separation in a molecule                         |
+| VSEPR             | Theory using electron pair repulsions to predict shape             |
+| Hybridisation     | Mixing of orbitals to form equivalent hybrid orbitals              |
+| Sigma bond        | Bond formed by end-to-end overlap along internuclear axis          |
+| Pi bond           | Bond formed by sidewise overlap of parallel orbitals               |
+| Molecular orbital | Orbital spread over a molecule                                     |
+| Bonding MO        | Lower-energy molecular orbital that stabilizes molecule            |
+| Antibonding MO    | Higher-energy molecular orbital that destabilizes molecule         |
+| Hydrogen bond     | Attraction involving H attached to F, O, or N                      |
 
 ## 4. Big Picture Map
 
@@ -117,13 +117,13 @@ Chemical bonds explain:
 
 ## 7. Major Bonding Models
 
-| Model | Main use |
-|---|---|
-| Kossel-Lewis approach | Electron transfer, sharing, octet rule, Lewis structures |
-| VSEPR theory | Shape prediction from electron pair repulsions |
-| Valence bond theory | Bond formation by overlap of atomic orbitals |
-| Hybridisation | Explains equivalent bonds and molecular geometry |
-| Molecular orbital theory | Explains stability, bond order, and magnetism using MOs |
+| Model                    | Main use                                                 |
+| ------------------------ | -------------------------------------------------------- |
+| Kossel-Lewis approach    | Electron transfer, sharing, octet rule, Lewis structures |
+| VSEPR theory             | Shape prediction from electron pair repulsions           |
+| Valence bond theory      | Bond formation by overlap of atomic orbitals             |
+| Hybridisation            | Explains equivalent bonds and molecular geometry         |
+| Molecular orbital theory | Explains stability, bond order, and magnetism using MOs  |
 
 Each model is useful, but no single model explains every detail perfectly.
 
@@ -135,14 +135,14 @@ Only valence electrons are shown because inner electrons usually do not particip
 
 Examples:
 
-| Element | Valence electrons | Lewis idea |
-|---|---:|---|
-| H | 1 | H with one dot |
-| C | 4 | C with four dots |
-| N | 5 | N with five dots |
-| O | 6 | O with six dots |
-| F | 7 | F with seven dots |
-| Ne | 8 | Ne with eight dots |
+| Element | Valence electrons | Lewis idea         |
+| ------- | ----------------: | ------------------ |
+| H       |                 1 | H with one dot     |
+| C       |                 4 | C with four dots   |
+| N       |                 5 | N with five dots   |
+| O       |                 6 | O with six dots    |
+| F       |                 7 | F with seven dots  |
+| Ne      |                 8 | Ne with eight dots |
 
 The number of dots helps predict common valence.
 
@@ -219,12 +219,12 @@ Electrovalence is the number of unit charges on an ion.
 
 Examples:
 
-| Ion | Electrovalence |
-|---|---:|
-| Na+ | +1 |
-| Ca2+ | +2 |
-| Cl- | -1 |
-| O2- | -2 |
+| Ion  | Electrovalence |
+| ---- | -------------: |
+| Na+  |             +1 |
+| Ca2+ |             +2 |
+| Cl-  |             -1 |
+| O2-  |             -2 |
 
 Ionic compounds are electrically neutral overall.
 
@@ -310,11 +310,11 @@ Each chlorine effectively has an octet.
 
 ## 18. Single, Double, and Triple Bonds
 
-| Bond type | Shared electron pairs | Example |
-|---|---:|---|
-| Single bond | 1 | H-H, Cl-Cl, C-H |
-| Double bond | 2 | O=O, C=O, C=C |
-| Triple bond | 3 | N#N, C#C |
+| Bond type   | Shared electron pairs | Example         |
+| ----------- | --------------------: | --------------- |
+| Single bond |                     1 | H-H, Cl-Cl, C-H |
+| Double bond |                     2 | O=O, C=O, C=C   |
+| Triple bond |                     3 | N#N, C#C        |
 
 In plain text, `#` is used here to show a triple bond.
 
@@ -553,13 +553,13 @@ Bond angle is the angle between two bonds around a central atom.
 
 Examples:
 
-| Molecule | Shape | Approximate bond angle |
-|---|---|---:|
-| BeCl2 | Linear | 180 deg |
-| BF3 | Trigonal planar | 120 deg |
-| CH4 | Tetrahedral | 109.5 deg |
-| NH3 | Trigonal pyramidal | 107 deg |
-| H2O | Bent | 104.5 deg |
+| Molecule | Shape              | Approximate bond angle |
+| -------- | ------------------ | ---------------------: |
+| BeCl2    | Linear             |                180 deg |
+| BF3      | Trigonal planar    |                120 deg |
+| CH4      | Tetrahedral        |              109.5 deg |
+| NH3      | Trigonal pyramidal |                107 deg |
+| H2O      | Bent               |              104.5 deg |
 
 Bond angle gives information about molecular shape.
 
@@ -603,11 +603,11 @@ $$
 In Lewis structures, bond order is the number of bonds between two atoms.
 
 | Species | Bond order |
-|---|---:|
-| H-H | 1 |
-| O=O | 2 |
-| N#N | 3 |
-| C#O | 3 |
+| ------- | ---------: |
+| H-H     |          1 |
+| O=O     |          2 |
+| N#N     |          3 |
+| C#O     |          3 |
 
 Higher bond order generally means:
 
@@ -754,13 +754,13 @@ A molecule may have polar bonds but zero dipole moment if bond dipoles cancel.
 
 Examples:
 
-| Molecule | Bond polarity | Shape | Net dipole |
-|---|---|---|---|
-| CO2 | Polar C=O bonds | Linear | Zero |
-| BeF2 | Polar Be-F bonds | Linear | Zero |
-| BF3 | Polar B-F bonds | Trigonal planar | Zero |
-| H2O | Polar O-H bonds | Bent | Nonzero |
-| NH3 | Polar N-H bonds | Pyramidal | Nonzero |
+| Molecule | Bond polarity    | Shape           | Net dipole |
+| -------- | ---------------- | --------------- | ---------- |
+| CO2      | Polar C=O bonds  | Linear          | Zero       |
+| BeF2     | Polar Be-F bonds | Linear          | Zero       |
+| BF3      | Polar B-F bonds  | Trigonal planar | Zero       |
+| H2O      | Polar O-H bonds  | Bent            | Nonzero    |
+| NH3      | Polar N-H bonds  | Pyramidal       | Nonzero    |
 
 ## 42. NH3 and NF3 Dipole Moment
 
@@ -863,49 +863,49 @@ This is why lone pairs reduce bond angles.
 
 ## 47. VSEPR: No Lone Pair on Central Atom
 
-| Type | Electron domains | Shape | Ideal angle |
-|---|---:|---|---:|
-| AB2 | 2 | Linear | 180 deg |
-| AB3 | 3 | Trigonal planar | 120 deg |
-| AB4 | 4 | Tetrahedral | 109.5 deg |
-| AB5 | 5 | Trigonal bipyramidal | 90 deg and 120 deg |
-| AB6 | 6 | Octahedral | 90 deg |
+| Type | Electron domains | Shape                |        Ideal angle |
+| ---- | ---------------: | -------------------- | -----------------: |
+| AB2  |                2 | Linear               |            180 deg |
+| AB3  |                3 | Trigonal planar      |            120 deg |
+| AB4  |                4 | Tetrahedral          |          109.5 deg |
+| AB5  |                5 | Trigonal bipyramidal | 90 deg and 120 deg |
+| AB6  |                6 | Octahedral           |             90 deg |
 
 Examples:
 
-| Molecule | Type | Shape |
-|---|---|---|
-| BeCl2 | AB2 | Linear |
-| BF3 | AB3 | Trigonal planar |
-| CH4 | AB4 | Tetrahedral |
-| PCl5 | AB5 | Trigonal bipyramidal |
-| SF6 | AB6 | Octahedral |
+| Molecule | Type | Shape                |
+| -------- | ---- | -------------------- |
+| BeCl2    | AB2  | Linear               |
+| BF3      | AB3  | Trigonal planar      |
+| CH4      | AB4  | Tetrahedral          |
+| PCl5     | AB5  | Trigonal bipyramidal |
+| SF6      | AB6  | Octahedral           |
 
 ## 48. VSEPR: With Lone Pairs
 
-| Type | Electron pair geometry | Molecular shape | Example |
-|---|---|---|---|
-| AB2E | Trigonal planar | Bent | SO2 |
-| AB3E | Tetrahedral | Trigonal pyramidal | NH3, PH3 |
-| AB2E2 | Tetrahedral | Bent | H2O, H2S |
-| AB4E | Trigonal bipyramidal | See-saw | SF4 |
-| AB3E2 | Trigonal bipyramidal | T-shaped | ClF3 |
-| AB2E3 | Trigonal bipyramidal | Linear | XeF2 |
-| AB5E | Octahedral | Square pyramidal | BrF5 |
-| AB4E2 | Octahedral | Square planar | XeF4 |
+| Type  | Electron pair geometry | Molecular shape    | Example  |
+| ----- | ---------------------- | ------------------ | -------- |
+| AB2E  | Trigonal planar        | Bent               | SO2      |
+| AB3E  | Tetrahedral            | Trigonal pyramidal | NH3, PH3 |
+| AB2E2 | Tetrahedral            | Bent               | H2O, H2S |
+| AB4E  | Trigonal bipyramidal   | See-saw            | SF4      |
+| AB3E2 | Trigonal bipyramidal   | T-shaped           | ClF3     |
+| AB2E3 | Trigonal bipyramidal   | Linear             | XeF2     |
+| AB5E  | Octahedral             | Square pyramidal   | BrF5     |
+| AB4E2 | Octahedral             | Square planar      | XeF4     |
 
 `E` means a lone pair on the central atom.
 
 ## 49. Shapes in the Raw Exercise
 
-| Molecule | Central atom domains | Lone pairs | Shape |
-|---|---:|---:|---|
-| BeCl2 | 2 | 0 | Linear |
-| BCl3 | 3 | 0 | Trigonal planar |
-| SiCl4 | 4 | 0 | Tetrahedral |
-| AsF5 | 5 | 0 | Trigonal bipyramidal |
-| H2S | 4 | 2 | Bent |
-| PH3 | 4 | 1 | Trigonal pyramidal |
+| Molecule | Central atom domains | Lone pairs | Shape                |
+| -------- | -------------------: | ---------: | -------------------- |
+| BeCl2    |                    2 |          0 | Linear               |
+| BCl3     |                    3 |          0 | Trigonal planar      |
+| SiCl4    |                    4 |          0 | Tetrahedral          |
+| AsF5     |                    5 |          0 | Trigonal bipyramidal |
+| H2S      |                    4 |          2 | Bent                 |
+| PH3      |                    4 |          1 | Trigonal pyramidal   |
 
 ## 50. Why H2O Angle Is Less Than NH3
 
@@ -1100,9 +1100,9 @@ Features:
 
 ## 60. Sigma and Pi in Multiple Bonds
 
-| Bond | Composition |
-|---|---|
-| Single bond | 1 sigma |
+| Bond        | Composition    |
+| ----------- | -------------- |
+| Single bond | 1 sigma        |
 | Double bond | 1 sigma + 1 pi |
 | Triple bond | 1 sigma + 2 pi |
 
@@ -1151,14 +1151,14 @@ Important points:
 
 ## 64. Common Hybridisation Types
 
-| Hybridisation | Orbitals mixed | Number of hybrids | Geometry | Angle |
-|---|---|---:|---|---:|
-| sp | 1s + 1p | 2 | Linear | 180 deg |
-| sp2 | 1s + 2p | 3 | Trigonal planar | 120 deg |
-| sp3 | 1s + 3p | 4 | Tetrahedral | 109.5 deg |
-| sp3d | 1s + 3p + 1d | 5 | Trigonal bipyramidal | 90 deg, 120 deg |
-| sp3d2 | 1s + 3p + 2d | 6 | Octahedral | 90 deg |
-| dsp2 | 1d + 1s + 2p | 4 | Square planar | 90 deg |
+| Hybridisation | Orbitals mixed | Number of hybrids | Geometry             |           Angle |
+| ------------- | -------------- | ----------------: | -------------------- | --------------: |
+| sp            | 1s + 1p        |                 2 | Linear               |         180 deg |
+| sp2           | 1s + 2p        |                 3 | Trigonal planar      |         120 deg |
+| sp3           | 1s + 3p        |                 4 | Tetrahedral          |       109.5 deg |
+| sp3d          | 1s + 3p + 1d   |                 5 | Trigonal bipyramidal | 90 deg, 120 deg |
+| sp3d2         | 1s + 3p + 2d   |                 6 | Octahedral           |          90 deg |
+| dsp2          | 1d + 1s + 2p   |                 4 | Square planar        |          90 deg |
 
 ## 65. sp Hybridisation
 
@@ -1485,13 +1485,13 @@ Total pi = 1
 
 ## 78. Carbon Hybridisation in Organic Molecules
 
-| Molecule | Carbon environment | Hybridisation |
-|---|---|---|
-| CH3-CH3 | both carbons have single bonds only | both sp3 |
+| Molecule   | Carbon environment                      | Hybridisation |
+| ---------- | --------------------------------------- | ------------- |
+| CH3-CH3    | both carbons have single bonds only     | both sp3      |
 | CH3-CH=CH2 | CH3 carbon sp3; double-bond carbons sp2 | sp3, sp2, sp2 |
-| CH3-CH2-OH | both carbons single-bonded | both sp3 |
-| CH3-CHO | CH3 carbon sp3; carbonyl carbon sp2 | sp3 and sp2 |
-| CH3COOH | methyl carbon sp3; carboxyl carbon sp2 | sp3 and sp2 |
+| CH3-CH2-OH | both carbons single-bonded              | both sp3      |
+| CH3-CHO    | CH3 carbon sp3; carbonyl carbon sp2     | sp3 and sp2   |
+| CH3COOH    | methyl carbon sp3; carboxyl carbon sp2  | sp3 and sp2   |
 
 Rule:
 
@@ -1680,11 +1680,11 @@ Na = number of electrons in antibonding molecular orbitals
 
 Interpretation:
 
-| Bond order | Meaning |
-|---:|---|
-| Positive | Species may be stable |
-| Zero | Species is unstable or does not exist as normal molecule |
-| Higher value | Stronger and shorter bond |
+|   Bond order | Meaning                                                  |
+| -----------: | -------------------------------------------------------- |
+|     Positive | Species may be stable                                    |
+|         Zero | Species is unstable or does not exist as normal molecule |
+| Higher value | Stronger and shorter bond                                |
 
 ## 89. Magnetic Nature
 
@@ -1908,11 +1908,11 @@ O2+ < O2 < O2- < O2^2-
 Magnetic nature:
 
 | Species | Bond order | Magnetic nature |
-|---|---:|---|
-| O2+ | 2.5 | Paramagnetic |
-| O2 | 2 | Paramagnetic |
-| O2- | 1.5 | Paramagnetic |
-| O2^2- | 1 | Diamagnetic |
+| ------- | ---------: | --------------- |
+| O2+     |        2.5 | Paramagnetic    |
+| O2      |          2 | Paramagnetic    |
+| O2-     |        1.5 | Paramagnetic    |
+| O2^2-   |          1 | Diamagnetic     |
 
 ## 97. Hydrogen Bonding
 
@@ -2295,12 +2295,12 @@ enthalpy change when isolated gaseous atom gains an electron
 
 Differences:
 
-| Point | Electronegativity | Electron gain enthalpy |
-|---|---|---|
-| Applies to | Atom in compound | Isolated gaseous atom |
-| Nature | Relative tendency | Thermodynamic quantity |
-| Unit | Usually unitless | kJ mol^-1 |
-| Sign | No sign | Can be positive or negative |
+| Point      | Electronegativity | Electron gain enthalpy      |
+| ---------- | ----------------- | --------------------------- |
+| Applies to | Atom in compound  | Isolated gaseous atom       |
+| Nature     | Relative tendency | Thermodynamic quantity      |
+| Unit       | Usually unitless  | kJ mol^-1                   |
+| Sign       | No sign           | Can be positive or negative |
 
 ## 113. Why NH3 Is Pyramidal
 
@@ -2331,18 +2331,18 @@ It involves strong electrostatic attraction between a highly positive H atom and
 
 ## 115. Common Student Confusions
 
-| Confusion | Correct idea |
-|---|---|
-| Octet rule explains all bonding | It has many limitations |
-| Formal charge is real charge | Formal charge is bookkeeping charge |
-| Resonance forms rapidly interconvert | Real species is a resonance hybrid |
-| Polar bonds always mean polar molecule | Shape may cancel dipoles |
-| Sigma and pi bonds are equally strong | Sigma bond is generally stronger |
-| Double bond means two sigma bonds | Double bond is one sigma plus one pi |
-| Triple bond means three sigma bonds | Triple bond is one sigma plus two pi |
-| sp3 always means tetrahedral molecular shape | Lone pairs can make pyramidal or bent shape |
-| O2 should be diamagnetic by Lewis structure | MO theory shows O2 is paramagnetic |
-| Hydrogen bond is a covalent bond | It is a special intermolecular or intramolecular attraction |
+| Confusion                                    | Correct idea                                                |
+| -------------------------------------------- | ----------------------------------------------------------- |
+| Octet rule explains all bonding              | It has many limitations                                     |
+| Formal charge is real charge                 | Formal charge is bookkeeping charge                         |
+| Resonance forms rapidly interconvert         | Real species is a resonance hybrid                          |
+| Polar bonds always mean polar molecule       | Shape may cancel dipoles                                    |
+| Sigma and pi bonds are equally strong        | Sigma bond is generally stronger                            |
+| Double bond means two sigma bonds            | Double bond is one sigma plus one pi                        |
+| Triple bond means three sigma bonds          | Triple bond is one sigma plus two pi                        |
+| sp3 always means tetrahedral molecular shape | Lone pairs can make pyramidal or bent shape                 |
+| O2 should be diamagnetic by Lewis structure  | MO theory shows O2 is paramagnetic                          |
+| Hydrogen bond is a covalent bond             | It is a special intermolecular or intramolecular attraction |
 
 ## 116. Exam Answer: Octet Rule
 
@@ -2513,30 +2513,30 @@ Chemical bonding
 
 ## 128. Glossary
 
-| Term | Meaning |
-|---|---|
-| Antibonding MO | Higher-energy MO that reduces stability |
-| Bond angle | Angle between bonds around central atom |
-| Bond enthalpy | Energy needed to break one mole of bonds |
-| Bond length | Distance between nuclei of bonded atoms |
-| Bond order | Measure of number or strength of bonds |
-| Bond pair | Shared electron pair |
-| Bonding MO | Lower-energy MO that increases stability |
-| Covalent bond | Bond by sharing electron pair |
-| Dipole moment | Measure of charge separation |
-| Electrovalence | Charge number of ion |
-| Formal charge | Bookkeeping charge in Lewis structure |
-| Hybridisation | Mixing of orbitals to form hybrid orbitals |
-| Hydrogen bond | Attraction involving H bonded to F, O, or N |
-| Ionic bond | Electrostatic attraction between ions |
-| Lattice enthalpy | Energy to separate ionic solid into gaseous ions |
-| Lewis structure | Dot structure showing bonds and lone pairs |
-| Lone pair | Nonbonding valence electron pair |
-| Molecular orbital | Orbital belonging to whole molecule |
-| Pi bond | Sidewise orbital overlap |
-| Resonance | Multiple electron arrangements for one species |
-| Sigma bond | End-to-end orbital overlap |
-| VSEPR | Shape theory based on electron pair repulsion |
+| Term              | Meaning                                          |
+| ----------------- | ------------------------------------------------ |
+| Antibonding MO    | Higher-energy MO that reduces stability          |
+| Bond angle        | Angle between bonds around central atom          |
+| Bond enthalpy     | Energy needed to break one mole of bonds         |
+| Bond length       | Distance between nuclei of bonded atoms          |
+| Bond order        | Measure of number or strength of bonds           |
+| Bond pair         | Shared electron pair                             |
+| Bonding MO        | Lower-energy MO that increases stability         |
+| Covalent bond     | Bond by sharing electron pair                    |
+| Dipole moment     | Measure of charge separation                     |
+| Electrovalence    | Charge number of ion                             |
+| Formal charge     | Bookkeeping charge in Lewis structure            |
+| Hybridisation     | Mixing of orbitals to form hybrid orbitals       |
+| Hydrogen bond     | Attraction involving H bonded to F, O, or N      |
+| Ionic bond        | Electrostatic attraction between ions            |
+| Lattice enthalpy  | Energy to separate ionic solid into gaseous ions |
+| Lewis structure   | Dot structure showing bonds and lone pairs       |
+| Lone pair         | Nonbonding valence electron pair                 |
+| Molecular orbital | Orbital belonging to whole molecule              |
+| Pi bond           | Sidewise orbital overlap                         |
+| Resonance         | Multiple electron arrangements for one species   |
+| Sigma bond        | End-to-end orbital overlap                       |
+| VSEPR             | Shape theory based on electron pair repulsion    |
 
 ## 129. Final Revision Sheet
 

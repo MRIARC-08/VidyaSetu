@@ -1,4 +1,5 @@
 # Chapter 5: Bank Reconciliation Statement
+
 ### NCERT Class 11 - Accountancy Part 1
 
 ## Chapter at a Glance
@@ -7,15 +8,15 @@ A business records bank transactions in the bank column of the cash book. The ba
 
 A Bank Reconciliation Statement explains this difference.
 
-| Area | Main Idea |
-|---|---|
-| Cash book | Business record of bank transactions |
-| Passbook or bank statement | Bank record of the customer's account |
-| Reconciliation | Explaining why the two balances differ |
-| Timing difference | Entry appears in one book now and the other book later |
-| Error | Wrong or omitted entry by business or bank |
-| Favourable balance | Money available in bank |
-| Unfavourable balance | Bank overdraft |
+| Area                       | Main Idea                                              |
+| -------------------------- | ------------------------------------------------------ |
+| Cash book                  | Business record of bank transactions                   |
+| Passbook or bank statement | Bank record of the customer's account                  |
+| Reconciliation             | Explaining why the two balances differ                 |
+| Timing difference          | Entry appears in one book now and the other book later |
+| Error                      | Wrong or omitted entry by business or bank             |
+| Favourable balance         | Money available in bank                                |
+| Unfavourable balance       | Bank overdraft                                         |
 
 ## Learning Outcomes
 
@@ -35,22 +36,22 @@ After studying this chapter, a learner should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
+| Term                          | Meaning                                                                                |
+| ----------------------------- | -------------------------------------------------------------------------------------- |
 | Bank Reconciliation Statement | Statement explaining the difference between bank balance as per cash book and passbook |
-| Cash book | Business record of bank transactions |
-| Passbook | Copy of customer's account as recorded in the bank books |
-| Bank statement | Modern form of passbook, usually periodic or digital |
-| Favourable balance | Balance showing money available in bank |
-| Overdraft | Amount withdrawn more than deposit, meaning bank is owed money |
-| Unpresented cheque | Cheque issued by business but not yet presented to bank for payment |
-| Uncollected cheque | Cheque deposited into bank but not yet credited by bank |
-| Direct deposit | Amount deposited directly into bank by a customer |
-| Direct debit | Bank payment or charge made directly from the account |
-| Standing instruction | Instruction to bank to make regular payment |
-| Bank charges | Charges debited by bank for services |
-| Dishonoured cheque | Cheque returned unpaid |
-| Adjusted cash book | Cash book corrected before preparing final reconciliation |
+| Cash book                     | Business record of bank transactions                                                   |
+| Passbook                      | Copy of customer's account as recorded in the bank books                               |
+| Bank statement                | Modern form of passbook, usually periodic or digital                                   |
+| Favourable balance            | Balance showing money available in bank                                                |
+| Overdraft                     | Amount withdrawn more than deposit, meaning bank is owed money                         |
+| Unpresented cheque            | Cheque issued by business but not yet presented to bank for payment                    |
+| Uncollected cheque            | Cheque deposited into bank but not yet credited by bank                                |
+| Direct deposit                | Amount deposited directly into bank by a customer                                      |
+| Direct debit                  | Bank payment or charge made directly from the account                                  |
+| Standing instruction          | Instruction to bank to make regular payment                                            |
+| Bank charges                  | Charges debited by bank for services                                                   |
+| Dishonoured cheque            | Cheque returned unpaid                                                                 |
+| Adjusted cash book            | Cash book corrected before preparing final reconciliation                              |
 
 # Unit 5A: Cash Book and Passbook Relationship
 
@@ -58,10 +59,10 @@ After studying this chapter, a learner should be able to:
 
 In the business cash book:
 
-| Cash Book Bank Column | Meaning |
-|---|---|
-| Debit balance | Money available at bank, favourable |
-| Credit balance | Bank overdraft, unfavourable |
+| Cash Book Bank Column | Meaning                             |
+| --------------------- | ----------------------------------- |
+| Debit balance         | Money available at bank, favourable |
+| Credit balance        | Bank overdraft, unfavourable        |
 
 Why?
 
@@ -71,10 +72,10 @@ The cash book is kept from the business point of view. Bank is an asset when the
 
 In the bank passbook:
 
-| Passbook Balance | Meaning |
-|---|---|
-| Credit balance | Money payable by bank to customer, favourable |
-| Debit balance | Money recoverable by bank from customer, overdraft |
+| Passbook Balance | Meaning                                            |
+| ---------------- | -------------------------------------------------- |
+| Credit balance   | Money payable by bank to customer, favourable      |
+| Debit balance    | Money recoverable by bank from customer, overdraft |
 
 Why?
 
@@ -82,10 +83,10 @@ The bank keeps the customer's account from the bank's point of view. If the cust
 
 ## Same Balance, Opposite Language
 
-| Situation | Cash Book | Passbook |
-|---|---|---|
-| Money available in bank | Debit balance | Credit balance |
-| Bank overdraft | Credit balance | Debit balance |
+| Situation               | Cash Book      | Passbook       |
+| ----------------------- | -------------- | -------------- |
+| Money available in bank | Debit balance  | Credit balance |
+| Bank overdraft          | Credit balance | Debit balance  |
 
 This opposite treatment is a major reason learners get confused. Always ask: whose book is this?
 
@@ -145,10 +146,10 @@ When a business issues a cheque:
 
 Until presentation:
 
-| Book | Effect |
-|---|---|
+| Book      | Effect                  |
+| --------- | ----------------------- |
 | Cash book | Balance already reduced |
-| Passbook | Balance not yet reduced |
+| Passbook  | Balance not yet reduced |
 
 Therefore, passbook balance is higher than cash book balance in a favourable balance case.
 
@@ -161,10 +162,10 @@ When a business deposits a cheque:
 
 Until collection:
 
-| Book | Effect |
-|---|---|
+| Book      | Effect                    |
+| --------- | ------------------------- |
 | Cash book | Balance already increased |
-| Passbook | Balance not yet increased |
+| Passbook  | Balance not yet increased |
 
 Therefore, cash book balance is higher than passbook balance in a favourable balance case.
 
@@ -172,10 +173,10 @@ Therefore, cash book balance is higher than passbook balance in a favourable bal
 
 Bank charges are directly deducted by bank.
 
-| Book | Effect |
-|---|---|
-| Passbook | Balance reduced |
-| Cash book | No entry yet |
+| Book      | Effect          |
+| --------- | --------------- |
+| Passbook  | Balance reduced |
+| Cash book | No entry yet    |
 
 Therefore, cash book balance is higher than passbook balance until recorded.
 
@@ -183,10 +184,10 @@ Therefore, cash book balance is higher than passbook balance until recorded.
 
 A customer may deposit money directly into the business bank account.
 
-| Book | Effect |
-|---|---|
-| Passbook | Balance increased |
-| Cash book | No entry yet |
+| Book      | Effect            |
+| --------- | ----------------- |
+| Passbook  | Balance increased |
+| Cash book | No entry yet      |
 
 Therefore, passbook balance is higher than cash book balance until recorded.
 
@@ -194,10 +195,10 @@ Therefore, passbook balance is higher than cash book balance until recorded.
 
 Bank may collect interest or dividend on behalf of the business.
 
-| Book | Effect |
-|---|---|
-| Passbook | Balance increased |
-| Cash book | No entry yet |
+| Book      | Effect            |
+| --------- | ----------------- |
+| Passbook  | Balance increased |
+| Cash book | No entry yet      |
 
 This item increases passbook before cash book.
 
@@ -205,10 +206,10 @@ This item increases passbook before cash book.
 
 Bank may pay insurance premium, rent, tax, telephone bill, or loan instalment under standing instructions.
 
-| Book | Effect |
-|---|---|
-| Passbook | Balance reduced |
-| Cash book | No entry yet |
+| Book      | Effect          |
+| --------- | --------------- |
+| Passbook  | Balance reduced |
+| Cash book | No entry yet    |
 
 This item reduces passbook before cash book.
 
@@ -221,10 +222,10 @@ When a cheque deposited by the business is dishonoured:
 
 Until business records dishonour:
 
-| Book | Effect |
-|---|---|
-| Passbook | Balance reduced or not credited |
-| Cash book | Balance may still be higher |
+| Book      | Effect                          |
+| --------- | ------------------------------- |
+| Passbook  | Balance reduced or not credited |
+| Cash book | Balance may still be higher     |
 
 ## Errors
 
@@ -235,14 +236,14 @@ Errors may be made by:
 
 Examples:
 
-| Error | Effect |
-|---|---|
+| Error                                                    | Effect                                    |
+| -------------------------------------------------------- | ----------------------------------------- |
 | Cheque issued Rs. 5,000 recorded as Rs. 500 in cash book | Cash book balance overstated by Rs. 4,500 |
-| Cheque deposited omitted from cash book | Cash book balance understated |
-| Bank wrongly debits customer's account | Passbook balance understated |
-| Bank wrongly credits customer's account | Passbook balance overstated |
-| Cash book total undercast | Cash book balance wrong |
-| Passbook withdrawal column overcast | Passbook balance wrong |
+| Cheque deposited omitted from cash book                  | Cash book balance understated             |
+| Bank wrongly debits customer's account                   | Passbook balance understated              |
+| Bank wrongly credits customer's account                  | Passbook balance overstated               |
+| Cash book total undercast                                | Cash book balance wrong                   |
+| Passbook withdrawal column overcast                      | Passbook balance wrong                    |
 
 # Unit 5D: Favourable and Unfavourable Balances
 
@@ -250,19 +251,19 @@ Examples:
 
 A favourable balance means the business has money at bank.
 
-| Book | Name |
-|---|---|
-| Cash book | Debit balance |
-| Passbook | Credit balance |
+| Book      | Name           |
+| --------- | -------------- |
+| Cash book | Debit balance  |
+| Passbook  | Credit balance |
 
 ## Unfavourable Balance
 
 An unfavourable balance means the business has an overdraft.
 
-| Book | Name |
-|---|---|
+| Book      | Name           |
+| --------- | -------------- |
 | Cash book | Credit balance |
-| Passbook | Debit balance |
+| Passbook  | Debit balance  |
 
 ## Overdraft Meaning
 
@@ -276,22 +277,22 @@ If bank column of cash book shows a credit balance of Rs. 8,000, it means the bu
 
 ## One-Column Format
 
-| Particulars | Amount Rs. |
-|---|---:|
-| Balance as per cash book | xxx |
-| Add: items increasing passbook compared with cash book | xxx |
-| Less: items decreasing passbook compared with cash book | xxx |
-| Balance as per passbook | xxx |
+| Particulars                                             | Amount Rs. |
+| ------------------------------------------------------- | ---------: |
+| Balance as per cash book                                |        xxx |
+| Add: items increasing passbook compared with cash book  |        xxx |
+| Less: items decreasing passbook compared with cash book |        xxx |
+| Balance as per passbook                                 |        xxx |
 
 ## Plus-Minus Format
 
-| Particulars | Add Rs. | Less Rs. |
-|---|---:|---:|
-| Balance as per cash book | xxx |  |
-| Cheques issued but not presented | xxx |  |
-| Cheques deposited but not collected |  | xxx |
-| Bank charges not recorded |  | xxx |
-| Balance as per passbook |  | xxx |
+| Particulars                         | Add Rs. | Less Rs. |
+| ----------------------------------- | ------: | -------: |
+| Balance as per cash book            |     xxx |          |
+| Cheques issued but not presented    |     xxx |          |
+| Cheques deposited but not collected |         |      xxx |
+| Bank charges not recorded           |         |      xxx |
+| Balance as per passbook             |         |      xxx |
 
 The plus-minus format is useful because all figures are placed in columns and both sides can be totalled.
 
@@ -305,41 +306,41 @@ Will this item make passbook balance higher or lower than cash book?
 
 Add items that make passbook higher than cash book:
 
-| Item | Why Add? |
-|---|---|
-| Cheques issued but not presented | Cash book reduced, passbook not yet reduced |
-| Direct deposit by customer | Passbook increased, cash book not yet increased |
-| Interest or dividend collected by bank | Passbook increased first |
-| Bank wrongly credited account | Passbook increased wrongly |
-| Cheque issued entered twice in cash book | Cash book reduced too much |
+| Item                                     | Why Add?                                        |
+| ---------------------------------------- | ----------------------------------------------- |
+| Cheques issued but not presented         | Cash book reduced, passbook not yet reduced     |
+| Direct deposit by customer               | Passbook increased, cash book not yet increased |
+| Interest or dividend collected by bank   | Passbook increased first                        |
+| Bank wrongly credited account            | Passbook increased wrongly                      |
+| Cheque issued entered twice in cash book | Cash book reduced too much                      |
 
 ## Deduct From Cash Book Balance
 
 Deduct items that make passbook lower than cash book:
 
-| Item | Why Deduct? |
-|---|---|
-| Cheques deposited but not collected | Cash book increased, passbook not yet increased |
-| Bank charges | Passbook reduced first |
-| Interest on overdraft | Passbook reduced first |
-| Direct payment by bank | Passbook reduced first |
-| Cheque deposited dishonoured | Passbook lower than cash book |
-| Bank wrongly debited account | Passbook reduced wrongly |
-| Cheque deposited entered twice in cash book | Cash book increased too much |
+| Item                                        | Why Deduct?                                     |
+| ------------------------------------------- | ----------------------------------------------- |
+| Cheques deposited but not collected         | Cash book increased, passbook not yet increased |
+| Bank charges                                | Passbook reduced first                          |
+| Interest on overdraft                       | Passbook reduced first                          |
+| Direct payment by bank                      | Passbook reduced first                          |
+| Cheque deposited dishonoured                | Passbook lower than cash book                   |
+| Bank wrongly debited account                | Passbook reduced wrongly                        |
+| Cheque deposited entered twice in cash book | Cash book increased too much                    |
 
 # Unit 5G: Reverse Rules From Passbook Favourable Balance
 
 When starting with favourable balance as per passbook, reverse the treatment used from cash book.
 
-| Item | From Cash Book Start | From Passbook Start |
-|---|---|---|
-| Cheques issued but not presented | Add | Deduct |
-| Cheques deposited but not collected | Deduct | Add |
-| Bank charges not in cash book | Deduct | Add |
-| Direct deposit not in cash book | Add | Deduct |
-| Interest credited by bank | Add | Deduct |
-| Direct payment by bank | Deduct | Add |
-| Cheque dishonoured | Deduct | Add |
+| Item                                | From Cash Book Start | From Passbook Start |
+| ----------------------------------- | -------------------- | ------------------- |
+| Cheques issued but not presented    | Add                  | Deduct              |
+| Cheques deposited but not collected | Deduct               | Add                 |
+| Bank charges not in cash book       | Deduct               | Add                 |
+| Direct deposit not in cash book     | Add                  | Deduct              |
+| Interest credited by bank           | Add                  | Deduct              |
+| Direct payment by bank              | Deduct               | Add                 |
+| Cheque dishonoured                  | Deduct               | Add                 |
 
 Memory rule:
 
@@ -368,14 +369,14 @@ At the end:
 
 Start with overdraft as per cash book:
 
-| Item | Treatment |
-|---|---|
-| Cheques issued but not presented | Add, because passbook overdraft is lower |
+| Item                                | Treatment                                    |
+| ----------------------------------- | -------------------------------------------- |
+| Cheques issued but not presented    | Add, because passbook overdraft is lower     |
 | Cheques deposited but not collected | Deduct, because passbook overdraft is higher |
-| Bank charges | Deduct, because bank has increased overdraft |
-| Direct deposit by customer | Add, because bank has reduced overdraft |
-| Interest credited by bank | Add |
-| Direct payment by bank | Deduct |
+| Bank charges                        | Deduct, because bank has increased overdraft |
+| Direct deposit by customer          | Add, because bank has reduced overdraft      |
+| Interest credited by bank           | Add                                          |
+| Direct payment by bank              | Deduct                                       |
 
 ## Overdraft From Passbook
 
@@ -397,15 +398,15 @@ Prepare BRS on March 31, 2017:
 
 ## Solution
 
-| Particulars | Add Rs. | Less Rs. |
-|---|---:|---:|
-| Balance as per cash book | 50,000 |  |
-| Cheques issued but not presented | 6,000 |  |
-| Dividend collected by bank | 8,000 |  |
-| Cheque deposited but not collected |  | 6,000 |
-| Bank charges debited by bank |  | 400 |
-| Balance as per passbook |  | 57,600 |
-| Total | 64,000 | 64,000 |
+| Particulars                        | Add Rs. | Less Rs. |
+| ---------------------------------- | ------: | -------: |
+| Balance as per cash book           |  50,000 |          |
+| Cheques issued but not presented   |   6,000 |          |
+| Dividend collected by bank         |   8,000 |          |
+| Cheque deposited but not collected |         |    6,000 |
+| Bank charges debited by bank       |         |      400 |
+| Balance as per passbook            |         |   57,600 |
+| Total                              |  64,000 |   64,000 |
 
 Answer:
 
@@ -427,14 +428,14 @@ Find balance as per cash book.
 
 Start from passbook. Reverse signs compared with cash book start.
 
-| Particulars | Add Rs. | Less Rs. |
-|---|---:|---:|
-| Balance as per passbook | 45,000 |  |
-| Cheques deposited but not collected | 6,250 |  |
-| Cheque dishonoured recorded only in passbook | 2,500 |  |
-| Cheques issued but not presented |  | 25,940 |
-| Balance as per cash book |  | 27,810 |
-| Total | 53,750 | 53,750 |
+| Particulars                                  | Add Rs. | Less Rs. |
+| -------------------------------------------- | ------: | -------: |
+| Balance as per passbook                      |  45,000 |          |
+| Cheques deposited but not collected          |   6,250 |          |
+| Cheque dishonoured recorded only in passbook |   2,500 |          |
+| Cheques issued but not presented             |         |   25,940 |
+| Balance as per cash book                     |         |   27,810 |
+| Total                                        |  53,750 |   53,750 |
 
 Answer:
 
@@ -480,15 +481,15 @@ Overdraft as per passbook = Rs. 9,360.
 
 ## Statement Format
 
-| Particulars | Add Rs. | Less Rs. |
-|---|---:|---:|
-| Overdraft as per cash book |  | 8,000 |
-| Cheques deposited but not collected |  | 2,000 |
-| Bank interest |  | 60 |
-| Bank charges |  | 100 |
-| Cheques issued but not presented | 800 |  |
-| Overdraft as per passbook | 9,360 |  |
-| Total | 10,160 | 10,160 |
+| Particulars                         | Add Rs. | Less Rs. |
+| ----------------------------------- | ------: | -------: |
+| Overdraft as per cash book          |         |    8,000 |
+| Cheques deposited but not collected |         |    2,000 |
+| Bank interest                       |         |       60 |
+| Bank charges                        |         |      100 |
+| Cheques issued but not presented    |     800 |          |
+| Overdraft as per passbook           |   9,360 |          |
+| Total                               |  10,160 |   10,160 |
 
 # Unit 5L: Solved Example 4 - Overdraft Changes Into Favourable Balance
 
@@ -526,15 +527,15 @@ Balance as per passbook = Rs. 63,200 favourable.
 
 ## Statement Format
 
-| Particulars | Add Rs. | Less Rs. |
-|---|---:|---:|
-| Overdraft as per cash book |  | 1,18,100 |
-| Cheques received but not sent for collection |  | 12,400 |
-| Interest on overdraft charged by bank |  | 8,800 |
-| Direct payment received by bank | 27,300 |  |
-| Cheques issued but not presented | 1,75,200 |  |
-| Balance as per passbook |  | 63,200 |
-| Total | 2,02,500 | 2,02,500 |
+| Particulars                                  |  Add Rs. | Less Rs. |
+| -------------------------------------------- | -------: | -------: |
+| Overdraft as per cash book                   |          | 1,18,100 |
+| Cheques received but not sent for collection |          |   12,400 |
+| Interest on overdraft charged by bank        |          |    8,800 |
+| Direct payment received by bank              |   27,300 |          |
+| Cheques issued but not presented             | 1,75,200 |          |
+| Balance as per passbook                      |          |   63,200 |
+| Total                                        | 2,02,500 | 2,02,500 |
 
 # Unit 5M: Solved Example 5 - Overdraft as Per Passbook
 
@@ -542,14 +543,14 @@ Balance as per passbook = Rs. 63,200 favourable.
 
 Prepare BRS from:
 
-| Item | Rs. |
-|---|---:|
-| Overdraft as per passbook | 20,000 |
-| Interest on overdraft | 2,000 |
-| Insurance premium paid by bank | 200 |
-| Cheques issued but not presented | 6,500 |
-| Cheques deposited but not cleared | 6,000 |
-| Wrongly debited by bank | 500 |
+| Item                              |    Rs. |
+| --------------------------------- | -----: |
+| Overdraft as per passbook         | 20,000 |
+| Interest on overdraft             |  2,000 |
+| Insurance premium paid by bank    |    200 |
+| Cheques issued but not presented  |  6,500 |
+| Cheques deposited but not cleared |  6,000 |
+| Wrongly debited by bank           |    500 |
 
 Find balance as per cash book.
 
@@ -577,16 +578,16 @@ Overdraft as per cash book = Rs. 17,800.
 
 ## Statement Format
 
-| Particulars | Add Rs. | Less Rs. |
-|---|---:|---:|
-| Overdraft as per passbook |  | 20,000 |
-| Interest on overdraft | 2,000 |  |
-| Insurance premium paid by bank | 200 |  |
-| Cheques deposited but not cleared | 6,000 |  |
-| Wrongly debited by bank | 500 |  |
-| Cheques issued but not presented |  | 6,500 |
-| Overdraft as per cash book | 17,800 |  |
-| Total | 26,500 | 26,500 |
+| Particulars                       | Add Rs. | Less Rs. |
+| --------------------------------- | ------: | -------: |
+| Overdraft as per passbook         |         |   20,000 |
+| Interest on overdraft             |   2,000 |          |
+| Insurance premium paid by bank    |     200 |          |
+| Cheques deposited but not cleared |   6,000 |          |
+| Wrongly debited by bank           |     500 |          |
+| Cheques issued but not presented  |         |    6,500 |
+| Overdraft as per cash book        |  17,800 |          |
+| Total                             |  26,500 |   26,500 |
 
 # Unit 5N: Adjusted Cash Book Method
 
@@ -598,17 +599,17 @@ Sometimes the cash book is updated first. This updated cash book is called adjus
 
 Enter items that the business should have recorded but did not:
 
-| Item | Cash Book Entry |
-|---|---|
-| Bank charges | Credit bank column |
-| Interest on overdraft | Credit bank column |
-| Direct payment by bank | Credit bank column |
-| Insurance paid by bank | Credit bank column |
-| Direct deposit by customer | Debit bank column |
-| Interest collected by bank | Debit bank column |
-| Dividend collected by bank | Debit bank column |
-| Dishonoured cheque | Credit bank column and debit customer |
-| Error in cash book | Correct in cash book |
+| Item                       | Cash Book Entry                       |
+| -------------------------- | ------------------------------------- |
+| Bank charges               | Credit bank column                    |
+| Interest on overdraft      | Credit bank column                    |
+| Direct payment by bank     | Credit bank column                    |
+| Insurance paid by bank     | Credit bank column                    |
+| Direct deposit by customer | Debit bank column                     |
+| Interest collected by bank | Debit bank column                     |
+| Dividend collected by bank | Debit bank column                     |
+| Dishonoured cheque         | Credit bank column and debit customer |
+| Error in cash book         | Correct in cash book                  |
 
 ## Items Not Entered in Adjusted Cash Book
 
@@ -669,23 +670,23 @@ If cash book has an error and cash book is the starting point, correct its effec
 
 Examples:
 
-| Error | Effect | Treatment From Cash Book Favourable Balance |
-|---|---|---|
-| Cheque issued Rs. 250 recorded as Rs. 205 | Cash book is Rs. 45 too high | Deduct Rs. 45 |
-| Cheque issued recorded twice | Cash book is too low | Add |
-| Cheque deposited omitted | Cash book too low | Add |
-| Payment side undercast | Cash book too high | Deduct |
-| Debit balance brought forward as credit balance | Cash book too low by double amount | Add double difference |
+| Error                                           | Effect                             | Treatment From Cash Book Favourable Balance |
+| ----------------------------------------------- | ---------------------------------- | ------------------------------------------- |
+| Cheque issued Rs. 250 recorded as Rs. 205       | Cash book is Rs. 45 too high       | Deduct Rs. 45                               |
+| Cheque issued recorded twice                    | Cash book is too low               | Add                                         |
+| Cheque deposited omitted                        | Cash book too low                  | Add                                         |
+| Payment side undercast                          | Cash book too high                 | Deduct                                      |
+| Debit balance brought forward as credit balance | Cash book too low by double amount | Add double difference                       |
 
 ## Errors in Passbook
 
 Passbook errors affect the target balance if passbook is being found.
 
-| Error | Meaning | Treatment From Cash Book Favourable Balance |
-|---|---|---|
-| Bank wrongly debited business | Passbook too low | Deduct |
-| Bank wrongly credited business | Passbook too high | Add |
-| Withdrawal column undercast | Passbook too high | Add if finding passbook from cash book? No, analyse with target |
+| Error                           | Meaning           | Treatment From Cash Book Favourable Balance                                       |
+| ------------------------------- | ----------------- | --------------------------------------------------------------------------------- |
+| Bank wrongly debited business   | Passbook too low  | Deduct                                                                            |
+| Bank wrongly credited business  | Passbook too high | Add                                                                               |
+| Withdrawal column undercast     | Passbook too high | Add if finding passbook from cash book? No, analyse with target                   |
 | Deposit recorded excess by bank | Passbook too high | Add if passbook target must include bank error; deduct if finding correct balance |
 
 Important:
@@ -764,53 +765,53 @@ After this, compute the adjusted cash book balance. Then prepare BRS using only 
 
 ## Cause Identification
 
-| Item | Cause |
-|---|---|
-| Cheques issued but not presented | Time gap |
-| Cheque Rs. 5,000 issued but recorded as Rs. 500 | Error |
+| Item                                                    | Cause    |
+| ------------------------------------------------------- | -------- |
+| Cheques issued but not presented                        | Time gap |
+| Cheque Rs. 5,000 issued but recorded as Rs. 500         | Error    |
 | Interest credited by bank but not recorded in cash book | Time gap |
-| Cheque deposited but not collected | Time gap |
-| Bank charges debited by bank | Time gap |
+| Cheque deposited but not collected                      | Time gap |
+| Bank charges debited by bank                            | Time gap |
 
 ## Fill-In Answers
 
-| Prompt | Answer |
-|---|---|
-| Passbook is copy of customer's account as it appears in ledger of bank | Customer account |
-| When money is withdrawn, bank does this to customer account | Debit |
-| Normally cash book shows debit balance, passbook shows | Credit balance |
-| Favourable balance as per cash book means | Debit balance |
-| From cash book start, items making cash book smaller than passbook are | Added |
-| From passbook start, cheques issued but not presented are | Deducted |
-| When cheques are not presented, cash book favourable balance is | Less than passbook |
-| Banker collects bills and credits account, passbook overdraft becomes | Lower |
-| From passbook overdraft start, cheques issued but not presented are | Added or deducted depending format; using sign method, deduct from passbook to reach cash book |
-| From passbook start, items making passbook higher than cash book are | Deducted |
+| Prompt                                                                 | Answer                                                                                         |
+| ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| Passbook is copy of customer's account as it appears in ledger of bank | Customer account                                                                               |
+| When money is withdrawn, bank does this to customer account            | Debit                                                                                          |
+| Normally cash book shows debit balance, passbook shows                 | Credit balance                                                                                 |
+| Favourable balance as per cash book means                              | Debit balance                                                                                  |
+| From cash book start, items making cash book smaller than passbook are | Added                                                                                          |
+| From passbook start, cheques issued but not presented are              | Deducted                                                                                       |
+| When cheques are not presented, cash book favourable balance is        | Less than passbook                                                                             |
+| Banker collects bills and credits account, passbook overdraft becomes  | Lower                                                                                          |
+| From passbook overdraft start, cheques issued but not presented are    | Added or deducted depending format; using sign method, deduct from passbook to reach cash book |
+| From passbook start, items making passbook higher than cash book are   | Deducted                                                                                       |
 
 ## Multiple Choice Answers
 
-| Question | Answer |
-|---|---|
-| BRS is prepared by | Account holder in a bank |
-| BRS is prepared with balance of | Both passbook and cash book |
-| Passbook is copy of | Customer account in bank books |
-| Unfavourable bank balance means | Credit balance in cash book or debit balance in passbook |
-| Favourable bank balance means | Debit balance in cash book and credit balance in passbook |
-| BRS is mainly prepared for | Reconciling difference between cash book bank balance and passbook balance |
+| Question                        | Answer                                                                     |
+| ------------------------------- | -------------------------------------------------------------------------- |
+| BRS is prepared by              | Account holder in a bank                                                   |
+| BRS is prepared with balance of | Both passbook and cash book                                                |
+| Passbook is copy of             | Customer account in bank books                                             |
+| Unfavourable bank balance means | Credit balance in cash book or debit balance in passbook                   |
+| Favourable bank balance means   | Debit balance in cash book and credit balance in passbook                  |
+| BRS is mainly prepared for      | Reconciling difference between cash book bank balance and passbook balance |
 
 ## True or False Answers
 
-| Statement | Answer | Correction |
-|---|---|---|
-| Passbook is statement of account maintained by bank | True |  |
-| Business periodically prepares BRS to reconcile balances | True |  |
-| Cheques issued but not presented reduce passbook balance | False | They have not yet reduced passbook |
-| Cheques deposited but not collected make cash book higher than passbook | True |  |
-| Passbook overdraft is less than cash book overdraft when cheques deposited not collected | False | It is more, because bank has not credited deposits |
-| Debit balance as per cash book equals credit balance in bank books if no difference | True |  |
-| Favourable cash book balance is less than passbook when cheques issued not presented | True |  |
-| Direct collections by bank increase passbook compared with cash book | True |  |
-| Bank payments under standing instructions make passbook more than cash book | False | They make passbook lower |
+| Statement                                                                                | Answer | Correction                                         |
+| ---------------------------------------------------------------------------------------- | ------ | -------------------------------------------------- |
+| Passbook is statement of account maintained by bank                                      | True   |                                                    |
+| Business periodically prepares BRS to reconcile balances                                 | True   |                                                    |
+| Cheques issued but not presented reduce passbook balance                                 | False  | They have not yet reduced passbook                 |
+| Cheques deposited but not collected make cash book higher than passbook                  | True   |                                                    |
+| Passbook overdraft is less than cash book overdraft when cheques deposited not collected | False  | It is more, because bank has not credited deposits |
+| Debit balance as per cash book equals credit balance in bank books if no difference      | True   |                                                    |
+| Favourable cash book balance is less than passbook when cheques issued not presented     | True   |                                                    |
+| Direct collections by bank increase passbook compared with cash book                     | True   |                                                    |
+| Bank payments under standing instructions make passbook more than cash book              | False  | They make passbook lower                           |
 
 # Unit 5T: Numerical Practice With Answers
 
@@ -825,14 +826,14 @@ Data:
 
 Solution:
 
-| Particulars | Add Rs. | Less Rs. |
-|---|---:|---:|
-| Balance as per cash book | 3,200 |  |
-| Cheques issued but not presented | 1,800 |  |
-| Cheques deposited but not collected |  | 2,000 |
-| Bank charges |  | 150 |
-| Balance as per passbook |  | 2,850 |
-| Total | 5,000 | 5,000 |
+| Particulars                         | Add Rs. | Less Rs. |
+| ----------------------------------- | ------: | -------: |
+| Balance as per cash book            |   3,200 |          |
+| Cheques issued but not presented    |   1,800 |          |
+| Cheques deposited but not collected |         |    2,000 |
+| Bank charges                        |         |      150 |
+| Balance as per passbook             |         |    2,850 |
+| Total                               |   5,000 |    5,000 |
 
 Answer:
 
@@ -854,13 +855,13 @@ Cheque deposited but not credited = Rs. 1,200.
 
 Solution:
 
-| Particulars | Add Rs. | Less Rs. |
-|---|---:|---:|
-| Balance as per cash book | 3,700 |  |
-| Cheques issued but not presented | 1,180 |  |
-| Cheque deposited but not credited |  | 1,200 |
-| Balance as per passbook |  | 3,680 |
-| Total | 4,880 | 4,880 |
+| Particulars                       | Add Rs. | Less Rs. |
+| --------------------------------- | ------: | -------: |
+| Balance as per cash book          |   3,700 |          |
+| Cheques issued but not presented  |   1,180 |          |
+| Cheque deposited but not credited |         |    1,200 |
+| Balance as per passbook           |         |    3,680 |
+| Total                             |   4,880 |    4,880 |
 
 Answer:
 
@@ -872,28 +873,28 @@ Data:
 
 Cash book bank balance = Rs. 7,800.
 
-| Item | Rs. |
-|---|---:|
+| Item                              |   Rs. |
+| --------------------------------- | ----: |
 | Cheque deposited but not credited | 3,000 |
-| Cheque issued but not presented | 1,500 |
-| Insurance premium paid by bank | 2,000 |
-| Bank interest credited | 400 |
-| Bank charges | 100 |
-| Direct deposit by customer | 4,000 |
+| Cheque issued but not presented   | 1,500 |
+| Insurance premium paid by bank    | 2,000 |
+| Bank interest credited            |   400 |
+| Bank charges                      |   100 |
+| Direct deposit by customer        | 4,000 |
 
 Solution:
 
-| Particulars | Add Rs. | Less Rs. |
-|---|---:|---:|
-| Balance as per cash book | 7,800 |  |
-| Cheque issued but not presented | 1,500 |  |
-| Bank interest credited | 400 |  |
-| Direct deposit by customer | 4,000 |  |
-| Cheque deposited but not credited |  | 3,000 |
-| Insurance premium paid by bank |  | 2,000 |
-| Bank charges |  | 100 |
-| Balance as per passbook |  | 8,600 |
-| Total | 13,700 | 13,700 |
+| Particulars                       | Add Rs. | Less Rs. |
+| --------------------------------- | ------: | -------: |
+| Balance as per cash book          |   7,800 |          |
+| Cheque issued but not presented   |   1,500 |          |
+| Bank interest credited            |     400 |          |
+| Direct deposit by customer        |   4,000 |          |
+| Cheque deposited but not credited |         |    3,000 |
+| Insurance premium paid by bank    |         |    2,000 |
+| Bank charges                      |         |      100 |
+| Balance as per passbook           |         |    8,600 |
+| Total                             |  13,700 |   13,700 |
 
 Answer:
 
@@ -920,15 +921,15 @@ Cheques issued but not presented:
 
 `7,000 + 8,000 = Rs. 15,000`
 
-| Particulars | Add Rs. | Less Rs. |
-|---|---:|---:|
-| Balance as per cash book | 40,000 |  |
-| Cheques issued but not presented | 15,000 |  |
-| Bank interest credited | 325 |  |
-| Cheques deposited but not credited |  | 15,000 |
-| Bank charges |  | 50 |
-| Balance as per passbook |  | 40,275 |
-| Total | 55,325 | 55,325 |
+| Particulars                        | Add Rs. | Less Rs. |
+| ---------------------------------- | ------: | -------: |
+| Balance as per cash book           |  40,000 |          |
+| Cheques issued but not presented   |  15,000 |          |
+| Bank interest credited             |     325 |          |
+| Cheques deposited but not credited |         |   15,000 |
+| Bank charges                       |         |       50 |
+| Balance as per passbook            |         |   40,275 |
+| Total                              |  55,325 |   55,325 |
 
 Answer:
 
@@ -936,46 +937,46 @@ Balance as per passbook = Rs. 40,275.
 
 # Unit 5U: Common Mistakes to Avoid
 
-| Mistake | Correct Approach |
-|---|---|
-| Treating cash book debit and passbook debit as same | Remember cash book and passbook are opposite viewpoints |
-| Adding every unpresented cheque blindly | Add only when starting from cash book favourable balance; reverse from passbook |
-| Deducting every bank charge blindly | Deduct from cash book favourable start; reverse from passbook start |
-| Forgetting overdraft is negative | Use sign method |
-| Recording timing differences in adjusted cash book | Only record items that should update cash book |
-| Treating passbook as business book | Passbook is bank's record of customer's account |
-| Ignoring direct deposits | They increase passbook before cash book |
-| Ignoring dishonoured cheques | They reduce bank balance compared with cash book |
-| Confusing uncollected and unpresented cheques | Deposited but not collected reduces passbook; issued but not presented keeps passbook higher |
-| Not writing date in BRS heading | BRS is always prepared as on a particular date |
+| Mistake                                             | Correct Approach                                                                             |
+| --------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| Treating cash book debit and passbook debit as same | Remember cash book and passbook are opposite viewpoints                                      |
+| Adding every unpresented cheque blindly             | Add only when starting from cash book favourable balance; reverse from passbook              |
+| Deducting every bank charge blindly                 | Deduct from cash book favourable start; reverse from passbook start                          |
+| Forgetting overdraft is negative                    | Use sign method                                                                              |
+| Recording timing differences in adjusted cash book  | Only record items that should update cash book                                               |
+| Treating passbook as business book                  | Passbook is bank's record of customer's account                                              |
+| Ignoring direct deposits                            | They increase passbook before cash book                                                      |
+| Ignoring dishonoured cheques                        | They reduce bank balance compared with cash book                                             |
+| Confusing uncollected and unpresented cheques       | Deposited but not collected reduces passbook; issued but not presented keeps passbook higher |
+| Not writing date in BRS heading                     | BRS is always prepared as on a particular date                                               |
 
 # Unit 5V: Fast Revision Sheet
 
 ## From Cash Book Favourable Balance
 
-| Add | Less |
-|---|---|
-| Cheques issued but not presented | Cheques deposited but not collected |
-| Direct deposits by customers | Bank charges |
-| Interest or dividend collected by bank | Direct payments by bank |
-| Bank wrongly credited | Cheque dishonoured |
-| Cheque issued recorded twice in cash book | Bank wrongly debited |
+| Add                                       | Less                                |
+| ----------------------------------------- | ----------------------------------- |
+| Cheques issued but not presented          | Cheques deposited but not collected |
+| Direct deposits by customers              | Bank charges                        |
+| Interest or dividend collected by bank    | Direct payments by bank             |
+| Bank wrongly credited                     | Cheque dishonoured                  |
+| Cheque issued recorded twice in cash book | Bank wrongly debited                |
 
 ## From Passbook Favourable Balance
 
-| Add | Less |
-|---|---|
-| Cheques deposited but not collected | Cheques issued but not presented |
-| Bank charges | Direct deposits |
-| Direct payments by bank | Interest or dividend collected by bank |
-| Cheque dishonoured | Bank wrongly credited |
+| Add                                 | Less                                   |
+| ----------------------------------- | -------------------------------------- |
+| Cheques deposited but not collected | Cheques issued but not presented       |
+| Bank charges                        | Direct deposits                        |
+| Direct payments by bank             | Interest or dividend collected by bank |
+| Cheque dishonoured                  | Bank wrongly credited                  |
 
 ## Balance Meaning
 
-| Balance | Cash Book | Passbook |
-|---|---|---|
-| Favourable | Debit | Credit |
-| Overdraft | Credit | Debit |
+| Balance    | Cash Book | Passbook |
+| ---------- | --------- | -------- |
+| Favourable | Debit     | Credit   |
+| Overdraft  | Credit    | Debit    |
 
 ## Final Study Summary
 

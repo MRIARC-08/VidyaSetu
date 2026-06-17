@@ -1,16 +1,17 @@
 # Chapter 1: Accounting for Share Capital
+
 ### NCERT Class 12 - Accountancy Part 2
 
 ## Chapter at a Glance
 
-| Item | Details |
-|---|---|
-| Main idea | A company raises ownership capital by issuing shares and records each stage of application, allotment, call, forfeiture, and reissue. |
-| Main share classes | Equity shares and preference shares. |
-| Main issue prices | At par and at premium; issue at discount is generally restricted by law. |
-| Main accounts | Share capital, securities premium, share application, share allotment, share call, calls in arrears, calls in advance, forfeited shares. |
-| Most important skill | Trace amount due, amount received, and unpaid amount at each stage. |
-| Final focus | Calculate capital reserve on reissue of forfeited shares. |
+| Item                 | Details                                                                                                                                  |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Main idea            | A company raises ownership capital by issuing shares and records each stage of application, allotment, call, forfeiture, and reissue.    |
+| Main share classes   | Equity shares and preference shares.                                                                                                     |
+| Main issue prices    | At par and at premium; issue at discount is generally restricted by law.                                                                 |
+| Main accounts        | Share capital, securities premium, share application, share allotment, share call, calls in arrears, calls in advance, forfeited shares. |
+| Most important skill | Trace amount due, amount received, and unpaid amount at each stage.                                                                      |
+| Final focus          | Calculate capital reserve on reissue of forfeited shares.                                                                                |
 
 ## Learning Outcomes
 
@@ -31,36 +32,36 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Company | Artificial legal person created by law and separate from its members. |
-| Share | Unit of ownership capital of a company. |
-| Share capital | Capital raised by issuing shares. |
-| Equity share | Share carrying residual ownership rights and variable dividend. |
-| Preference share | Share carrying preferential right to dividend and repayment of capital. |
-| Authorised capital | Maximum share capital allowed by the company's documents. |
-| Issued capital | Part of authorised capital offered for subscription. |
-| Subscribed capital | Part of issued capital taken by applicants. |
-| Called-up capital | Amount demanded by company on subscribed shares. |
-| Paid-up capital | Amount actually received by company. |
-| Securities premium | Amount received above face value of shares. |
-| Calls in arrears | Amount called but not received from shareholders. |
-| Calls in advance | Amount received before it is called. |
-| Forfeiture | Cancellation of shares because shareholder failed to pay due calls. |
-| Reissue | Issue of forfeited shares again, usually at par, premium, or discount within limits. |
+| Term               | Meaning                                                                              |
+| ------------------ | ------------------------------------------------------------------------------------ |
+| Company            | Artificial legal person created by law and separate from its members.                |
+| Share              | Unit of ownership capital of a company.                                              |
+| Share capital      | Capital raised by issuing shares.                                                    |
+| Equity share       | Share carrying residual ownership rights and variable dividend.                      |
+| Preference share   | Share carrying preferential right to dividend and repayment of capital.              |
+| Authorised capital | Maximum share capital allowed by the company's documents.                            |
+| Issued capital     | Part of authorised capital offered for subscription.                                 |
+| Subscribed capital | Part of issued capital taken by applicants.                                          |
+| Called-up capital  | Amount demanded by company on subscribed shares.                                     |
+| Paid-up capital    | Amount actually received by company.                                                 |
+| Securities premium | Amount received above face value of shares.                                          |
+| Calls in arrears   | Amount called but not received from shareholders.                                    |
+| Calls in advance   | Amount received before it is called.                                                 |
+| Forfeiture         | Cancellation of shares because shareholder failed to pay due calls.                  |
+| Reissue            | Issue of forfeited shares again, usually at par, premium, or discount within limits. |
 
 ## Quick Learning Map
 
-| Area | Core Rule |
-|---|---|
-| Application | Money received with share applications. |
-| Allotment | Shares are assigned and allotment money becomes due. |
-| Calls | Remaining amount is demanded in stages. |
-| Premium | Credited to securities premium account. |
-| Arrears | Deducted from called-up capital in presentation. |
-| Advance | Shown as a liability until call becomes due. |
-| Forfeiture | Remove called-up amount; retain amount already received in forfeited shares account. |
-| Reissue | Profit after reissue may become capital reserve. |
+| Area        | Core Rule                                                                            |
+| ----------- | ------------------------------------------------------------------------------------ |
+| Application | Money received with share applications.                                              |
+| Allotment   | Shares are assigned and allotment money becomes due.                                 |
+| Calls       | Remaining amount is demanded in stages.                                              |
+| Premium     | Credited to securities premium account.                                              |
+| Arrears     | Deducted from called-up capital in presentation.                                     |
+| Advance     | Shown as a liability until call becomes due.                                         |
+| Forfeiture  | Remove called-up amount; retain amount already received in forfeited shares account. |
+| Reissue     | Profit after reissue may become capital reserve.                                     |
 
 # Unit 1A: Features of a Company
 
@@ -68,23 +69,23 @@ A company is a legal form of business organisation created under law. It is dist
 
 ## Main Features
 
-| Feature | Explanation |
-|---|---|
-| Separate legal entity | Company is separate from shareholders. |
-| Limited liability | Shareholders are liable only up to unpaid amount on shares. |
-| Perpetual succession | Company continues despite death, insolvency, or change of members. |
-| Transferability of shares | Shares of public companies are generally transferable. |
-| Common seal or official authorisation | Company acts through authorised signatories and formal documents. |
-| Artificial person | It is created by law, not by natural birth. |
-| Capacity to sue and be sued | It can enforce rights and face legal claims. |
+| Feature                               | Explanation                                                        |
+| ------------------------------------- | ------------------------------------------------------------------ |
+| Separate legal entity                 | Company is separate from shareholders.                             |
+| Limited liability                     | Shareholders are liable only up to unpaid amount on shares.        |
+| Perpetual succession                  | Company continues despite death, insolvency, or change of members. |
+| Transferability of shares             | Shares of public companies are generally transferable.             |
+| Common seal or official authorisation | Company acts through authorised signatories and formal documents.  |
+| Artificial person                     | It is created by law, not by natural birth.                        |
+| Capacity to sue and be sued           | It can enforce rights and face legal claims.                       |
 
 # Unit 1B: Kinds of Companies by Liability
 
-| Type | Meaning |
-|---|---|
-| Company limited by shares | Members' liability is limited to unpaid amount on shares held. |
+| Type                         | Meaning                                                           |
+| ---------------------------- | ----------------------------------------------------------------- |
+| Company limited by shares    | Members' liability is limited to unpaid amount on shares held.    |
 | Company limited by guarantee | Members' liability is limited to amount guaranteed in winding up. |
-| Unlimited company | Members may have unlimited liability. |
+| Unlimited company            | Members may have unlimited liability.                             |
 
 # Unit 1C: Share Capital of a Company
 
@@ -92,15 +93,15 @@ Share capital is the amount raised by issue of shares.
 
 ## Capital Categories
 
-| Category | Meaning |
-|---|---|
-| Authorised capital | Maximum capital company may issue. |
-| Issued capital | Portion offered to public or others. |
-| Subscribed capital | Portion actually taken up. |
-| Called-up capital | Amount demanded on subscribed shares. |
-| Paid-up capital | Amount actually received. |
-| Uncalled capital | Amount not yet demanded. |
-| Reserve capital | Uncalled amount that company resolves to call only on winding up. |
+| Category           | Meaning                                                           |
+| ------------------ | ----------------------------------------------------------------- |
+| Authorised capital | Maximum capital company may issue.                                |
+| Issued capital     | Portion offered to public or others.                              |
+| Subscribed capital | Portion actually taken up.                                        |
+| Called-up capital  | Amount demanded on subscribed shares.                             |
+| Paid-up capital    | Amount actually received.                                         |
+| Uncalled capital   | Amount not yet demanded.                                          |
+| Reserve capital    | Uncalled amount that company resolves to call only on winding up. |
 
 ## Example
 
@@ -123,27 +124,27 @@ Preference shares carry preferential rights:
 
 ## Types of Preference Shares
 
-| Type | Meaning |
-|---|---|
-| Cumulative | Unpaid dividend accumulates. |
-| Non-cumulative | Unpaid dividend does not accumulate. |
-| Participating | May receive extra dividend after equity shareholders. |
-| Non-participating | Receives only fixed preference dividend. |
-| Convertible | Can be converted into equity shares. |
-| Non-convertible | Cannot be converted. |
-| Redeemable | Repaid after a specified period or as per terms. |
+| Type              | Meaning                                               |
+| ----------------- | ----------------------------------------------------- |
+| Cumulative        | Unpaid dividend accumulates.                          |
+| Non-cumulative    | Unpaid dividend does not accumulate.                  |
+| Participating     | May receive extra dividend after equity shareholders. |
+| Non-participating | Receives only fixed preference dividend.              |
+| Convertible       | Can be converted into equity shares.                  |
+| Non-convertible   | Cannot be converted.                                  |
+| Redeemable        | Repaid after a specified period or as per terms.      |
 
 ## Equity Shares
 
 Equity shareholders are real risk bearers. They receive dividend after preference shareholders and have voting rights. Their return is not fixed.
 
-| Preference Shares | Equity Shares |
-|---|---|
-| Preferential dividend. | Dividend after preference dividend. |
-| Usually fixed rate. | Variable dividend. |
-| Less risk than equity. | Higher risk. |
-| Limited voting rights in many cases. | Main voting rights. |
-| Repayment preference in winding up. | Residual claim after prior claims. |
+| Preference Shares                    | Equity Shares                       |
+| ------------------------------------ | ----------------------------------- |
+| Preferential dividend.               | Dividend after preference dividend. |
+| Usually fixed rate.                  | Variable dividend.                  |
+| Less risk than equity.               | Higher risk.                        |
+| Limited voting rights in many cases. | Main voting rights.                 |
+| Repayment preference in winding up.  | Residual claim after prior claims.  |
 
 # Unit 1E: Issue of Shares
 
@@ -156,12 +157,12 @@ A company may issue shares:
 
 ## Stages in Cash Issue
 
-| Stage | What Happens |
-|---|---|
-| Application | Applicant applies and pays application money. |
-| Allotment | Company allots shares and allotment money becomes due. |
-| First call | Company demands part of remaining amount. |
-| Final call | Company demands final balance. |
+| Stage       | What Happens                                           |
+| ----------- | ------------------------------------------------------ |
+| Application | Applicant applies and pays application money.          |
+| Allotment   | Company allots shares and allotment money becomes due. |
+| First call  | Company demands part of remaining amount.              |
+| Final call  | Company demands final balance.                         |
 
 # Unit 1F: Issue of Shares at Par
 
@@ -169,14 +170,14 @@ When shares are issued at face value, they are issued at par.
 
 ## Journal Entries
 
-| Event | Debit | Credit |
-|---|---|---|
-| Application money received | Bank A/c | Share Application A/c |
-| Application transferred on allotment | Share Application A/c | Share Capital A/c |
-| Allotment money due | Share Allotment A/c | Share Capital A/c |
-| Allotment money received | Bank A/c | Share Allotment A/c |
-| Call money due | Share Call A/c | Share Capital A/c |
-| Call money received | Bank A/c | Share Call A/c |
+| Event                                | Debit                 | Credit                |
+| ------------------------------------ | --------------------- | --------------------- |
+| Application money received           | Bank A/c              | Share Application A/c |
+| Application transferred on allotment | Share Application A/c | Share Capital A/c     |
+| Allotment money due                  | Share Allotment A/c   | Share Capital A/c     |
+| Allotment money received             | Bank A/c              | Share Allotment A/c   |
+| Call money due                       | Share Call A/c        | Share Capital A/c     |
+| Call money received                  | Bank A/c              | Share Call A/c        |
 
 ## Amount Logic
 
@@ -192,8 +193,8 @@ Premium = Rs. 2 per share.
 
 ## Entry When Premium Is Due on Allotment
 
-| Debit | Credit |
-|---|---|
+| Debit               | Credit                                       |
+| ------------------- | -------------------------------------------- |
 | Share Allotment A/c | Share Capital A/c and Securities Premium A/c |
 
 ## Uses of Securities Premium
@@ -214,14 +215,14 @@ Calls in arrears means amount called by company but not paid by shareholders.
 
 If calls in arrears account is opened:
 
-| Debit | Credit |
-|---|---|
+| Debit                | Credit            |
+| -------------------- | ----------------- |
 | Calls in Arrears A/c | Relevant Call A/c |
 
 When arrears are received:
 
-| Debit | Credit |
-|---|---|
+| Debit    | Credit               |
+| -------- | -------------------- |
 | Bank A/c | Calls in Arrears A/c |
 
 ## Presentation
@@ -234,14 +235,14 @@ Calls in advance means money received from shareholders before the company has c
 
 ## Entry
 
-| Debit | Credit |
-|---|---|
+| Debit    | Credit               |
+| -------- | -------------------- |
 | Bank A/c | Calls in Advance A/c |
 
 When the call becomes due:
 
-| Debit | Credit |
-|---|---|
+| Debit                | Credit            |
+| -------------------- | ----------------- |
 | Calls in Advance A/c | Relevant Call A/c |
 
 ## Important Point
@@ -269,14 +270,14 @@ Excess application money for 100 shares may be adjusted against allotment due.
 
 ## Entry for Refund
 
-| Debit | Credit |
-|---|---|
+| Debit                 | Credit   |
+| --------------------- | -------- |
 | Share Application A/c | Bank A/c |
 
 ## Entry for Transfer of Excess to Allotment
 
-| Debit | Credit |
-|---|---|
+| Debit                 | Credit              |
+| --------------------- | ------------------- |
 | Share Application A/c | Share Allotment A/c |
 
 # Unit 1K: Under-Subscription
@@ -291,9 +292,9 @@ A company may issue shares to vendors for purchase of assets or business.
 
 ## Entries
 
-| Event | Debit | Credit |
-|---|---|---|
-| Assets purchased | Assets A/c | Vendor A/c |
+| Event                   | Debit      | Credit                                               |
+| ----------------------- | ---------- | ---------------------------------------------------- |
+| Assets purchased        | Assets A/c | Vendor A/c                                           |
 | Shares issued to vendor | Vendor A/c | Share Capital A/c and Securities Premium A/c, if any |
 
 If shares are issued at discount in a permitted situation, credit share capital with face value and debit relevant discount or capital adjustment as per applicable law and question terms.
@@ -304,23 +305,23 @@ Forfeiture means cancellation of shares because the shareholder fails to pay due
 
 ## Entry for Forfeiture of Shares Issued at Par
 
-| Debit | Credit |
-|---|---|
+| Debit                                    | Credit                                                                               |
+| ---------------------------------------- | ------------------------------------------------------------------------------------ |
 | Share Capital A/c, with called-up amount | Forfeited Shares A/c, with amount received; Calls in Arrears A/c, with unpaid amount |
 
 ## Forfeiture of Shares Issued at Premium
 
 Premium treatment depends on whether premium has been received.
 
-| Situation | Treatment |
-|---|---|
-| Premium received | Do not reverse securities premium. |
+| Situation                    | Treatment                                          |
+| ---------------------------- | -------------------------------------------------- |
+| Premium received             | Do not reverse securities premium.                 |
 | Premium due but not received | Debit securities premium to cancel unpaid premium. |
 
 ## Entry When Premium Was Due but Not Received
 
-| Debit | Credit |
-|---|---|
+| Debit                                        | Credit                                        |
+| -------------------------------------------- | --------------------------------------------- |
 | Share Capital A/c and Securities Premium A/c | Forfeited Shares A/c and Calls in Arrears A/c |
 
 # Unit 1N: Reissue of Forfeited Shares
@@ -329,14 +330,14 @@ Forfeited shares may be reissued. The discount on reissue cannot exceed the amou
 
 ## Entry for Reissue
 
-| Debit | Credit |
-|---|---|
+| Debit                                                  | Credit            |
+| ------------------------------------------------------ | ----------------- |
 | Bank A/c and Forfeited Shares A/c, for discount if any | Share Capital A/c |
 
 If reissued at premium:
 
-| Debit | Credit |
-|---|---|
+| Debit    | Credit                                       |
+| -------- | -------------------------------------------- |
 | Bank A/c | Share Capital A/c and Securities Premium A/c |
 
 ## Capital Reserve
@@ -345,8 +346,8 @@ After reissue, remaining balance in forfeited shares account relating to reissue
 
 Entry:
 
-| Debit | Credit |
-|---|---|
+| Debit                | Credit              |
+| -------------------- | ------------------- |
 | Forfeited Shares A/c | Capital Reserve A/c |
 
 ## Capital Reserve Formula
@@ -367,9 +368,9 @@ Unpaid per share = Rs. 7.
 
 For 500 shares:
 
-| Item | Amount |
-|---|---:|
-| Share capital debited | Rs. 5,000 |
+| Item                      |    Amount |
+| ------------------------- | --------: |
+| Share capital debited     | Rs. 5,000 |
 | Forfeited shares credited | Rs. 1,500 |
 | Calls in arrears credited | Rs. 3,500 |
 
@@ -385,14 +386,14 @@ Capital reserve = Rs. 500.
 
 # Unit 1P: Common Mistakes and Corrections
 
-| Mistake | Correct Approach |
-|---|---|
-| Crediting share capital when application money is received | Credit share application first; transfer on allotment. |
-| Treating calls in advance as capital immediately | Show as liability until due. |
-| Forgetting securities premium on allotment | Credit securities premium when premium becomes due. |
-| Reversing premium even though received | Reverse only unpaid premium. |
-| Allowing reissue discount above forfeited amount | Discount cannot exceed amount forfeited on those shares. |
-| Transferring full forfeited balance to capital reserve before reissue | Transfer only after relevant shares are reissued. |
+| Mistake                                                               | Correct Approach                                         |
+| --------------------------------------------------------------------- | -------------------------------------------------------- |
+| Crediting share capital when application money is received            | Credit share application first; transfer on allotment.   |
+| Treating calls in advance as capital immediately                      | Show as liability until due.                             |
+| Forgetting securities premium on allotment                            | Credit securities premium when premium becomes due.      |
+| Reversing premium even though received                                | Reverse only unpaid premium.                             |
+| Allowing reissue discount above forfeited amount                      | Discount cannot exceed amount forfeited on those shares. |
+| Transferring full forfeited balance to capital reserve before reissue | Transfer only after relevant shares are reissued.        |
 
 ## Practice Set
 

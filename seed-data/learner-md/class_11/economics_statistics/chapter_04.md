@@ -1,4 +1,5 @@
 # Chapter 4: Presentation of Data
+
 ### NCERT Class 11 Statistics for Economics
 
 ---
@@ -52,10 +53,10 @@ A paragraph describing literacy rates may be difficult to compare. A table showi
 
 There are three main forms:
 
-| Form | Meaning |
-|---|---|
-| Textual presentation | Data is explained in words and sentences |
-| Tabular presentation | Data is arranged in rows and columns |
+| Form                      | Meaning                                  |
+| ------------------------- | ---------------------------------------- |
+| Textual presentation      | Data is explained in words and sentences |
+| Tabular presentation      | Data is arranged in rows and columns     |
 | Diagrammatic presentation | Data is shown through diagrams or graphs |
 
 Each form has a purpose. Small data can be written in text. Larger data is better shown in tables or diagrams.
@@ -96,10 +97,10 @@ A table is useful because it arranges data systematically and makes comparison e
 Example:
 
 | Category | Rural | Urban | Total |
-|---|---:|---:|---:|
-| Male | 79 | 90 | 82 |
-| Female | 59 | 80 | 65 |
-| Total | 68 | 84 | 74 |
+| -------- | ----: | ----: | ----: |
+| Male     |    79 |    90 |    82 |
+| Female   |    59 |    80 |    65 |
+| Total    |    68 |    84 |    74 |
 
 This format is easier to read than a long paragraph.
 
@@ -109,16 +110,16 @@ This format is easier to read than a long paragraph.
 
 A good table has several parts.
 
-| Part | Meaning |
-|---|---|
-| Table number | Identifies the table |
-| Title | Describes what the table shows |
-| Captions | Column headings |
-| Stubs | Row headings |
-| Body | Main numerical data |
-| Unit | Measurement used, such as rupees, percent, kg |
-| Source | Origin of data |
-| Footnote | Additional clarification if needed |
+| Part         | Meaning                                       |
+| ------------ | --------------------------------------------- |
+| Table number | Identifies the table                          |
+| Title        | Describes what the table shows                |
+| Captions     | Column headings                               |
+| Stubs        | Row headings                                  |
+| Body         | Main numerical data                           |
+| Unit         | Measurement used, such as rupees, percent, kg |
+| Source       | Origin of data                                |
+| Footnote     | Additional clarification if needed            |
 
 ### Why Parts Matter
 
@@ -147,12 +148,12 @@ Good tabulation makes data easier to analyse.
 
 Data in tables may be classified in four major ways:
 
-| Type | Basis | Example |
-|---|---|---|
-| Qualitative | Attributes | Literacy by gender |
+| Type         | Basis            | Example                  |
+| ------------ | ---------------- | ------------------------ |
+| Qualitative  | Attributes       | Literacy by gender       |
 | Quantitative | Numerical values | Respondents by age group |
-| Temporal | Time | Sales by year |
-| Spatial | Place | Population by state |
+| Temporal     | Time             | Sales by year            |
+| Spatial      | Place            | Population by state      |
 
 ### 7.1 Qualitative Classification
 
@@ -249,10 +250,10 @@ A simple bar diagram represents one variable.
 Example:
 
 | Product | Sales |
-|---|---:|
-| A | 50 |
-| B | 70 |
-| C | 40 |
+| ------- | ----: |
+| A       |    50 |
+| B       |    70 |
+| C       |    40 |
 
 Use: Compare sales of different products.
 
@@ -263,9 +264,9 @@ A multiple bar diagram compares two or more related series.
 Example:
 
 | Year | Exports | Imports |
-|---|---:|---:|
-| 2021 | 100 | 120 |
-| 2022 | 130 | 150 |
+| ---- | ------: | ------: |
+| 2021 |     100 |     120 |
+| 2022 |     130 |     150 |
 
 Use: Compare exports and imports over years.
 
@@ -333,12 +334,12 @@ It is used for grouped frequency distributions, especially continuous data.
 
 ### Histogram vs Bar Diagram
 
-| Basis | Histogram | Bar diagram |
-|---|---|---|
-| Data type | Continuous frequency distribution | Discrete or categorical data |
-| Gaps | No gaps between rectangles | Gaps between bars |
-| Width | Based on class interval | Usually equal for visual comparison |
-| Area meaning | Area represents frequency | Height represents value |
+| Basis        | Histogram                         | Bar diagram                         |
+| ------------ | --------------------------------- | ----------------------------------- |
+| Data type    | Continuous frequency distribution | Discrete or categorical data        |
+| Gaps         | No gaps between rectangles        | Gaps between bars                   |
+| Width        | Based on class interval           | Usually equal for visual comparison |
+| Area meaning | Area represents frequency         | Height represents value             |
 
 ---
 
@@ -381,8 +382,8 @@ It shows cumulative frequencies rather than simple frequencies.
 
 Types:
 
-| Type | Meaning |
-|---|---|
+| Type            | Meaning                               |
+| --------------- | ------------------------------------- |
 | Less than ogive | Uses less than cumulative frequencies |
 | More than ogive | Uses more than cumulative frequencies |
 
@@ -419,31 +420,31 @@ Line graphs are especially useful for showing trends.
 
 ## 17. Choosing the Right Presentation Method
 
-| Data situation | Best presentation |
-|---|---|
-| Very small data with explanation | Textual presentation |
-| Exact values and comparison needed | Table |
-| One variable across categories | Simple bar diagram |
-| Two related series | Multiple bar diagram |
-| Parts of a total | Component bar or pie diagram |
-| Continuous grouped frequency distribution | Histogram |
-| Shape of distribution | Frequency polygon or curve |
-| Cumulative frequencies | Ogive |
-| Values over time | Line graph |
+| Data situation                            | Best presentation            |
+| ----------------------------------------- | ---------------------------- |
+| Very small data with explanation          | Textual presentation         |
+| Exact values and comparison needed        | Table                        |
+| One variable across categories            | Simple bar diagram           |
+| Two related series                        | Multiple bar diagram         |
+| Parts of a total                          | Component bar or pie diagram |
+| Continuous grouped frequency distribution | Histogram                    |
+| Shape of distribution                     | Frequency polygon or curve   |
+| Cumulative frequencies                    | Ogive                        |
+| Values over time                          | Line graph                   |
 
 ---
 
 ## 18. Common Mistakes
 
-| Mistake | Correct understanding |
-|---|---|
-| Using text for large data | Large data should usually be tabulated or diagrammed. |
-| Forgetting units in a table | Units are necessary to interpret values. |
-| Confusing caption and stub | Captions are column headings; stubs are row headings. |
-| Drawing gaps in a histogram | Histogram rectangles touch because the data is continuous. |
-| Using pie chart for unrelated values | Pie chart is for parts of a whole. |
-| Treating diagrams as exact replacements for tables | Diagrams show patterns; tables show exact details better. |
-| Plotting time on y-axis in a line graph | Time is usually placed on the x-axis. |
+| Mistake                                            | Correct understanding                                      |
+| -------------------------------------------------- | ---------------------------------------------------------- |
+| Using text for large data                          | Large data should usually be tabulated or diagrammed.      |
+| Forgetting units in a table                        | Units are necessary to interpret values.                   |
+| Confusing caption and stub                         | Captions are column headings; stubs are row headings.      |
+| Drawing gaps in a histogram                        | Histogram rectangles touch because the data is continuous. |
+| Using pie chart for unrelated values               | Pie chart is for parts of a whole.                         |
+| Treating diagrams as exact replacements for tables | Diagrams show patterns; tables show exact details better.  |
+| Plotting time on y-axis in a line graph            | Time is usually placed on the x-axis.                      |
 
 ---
 

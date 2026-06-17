@@ -1,15 +1,16 @@
 # Chapter 6: Cash Flow Statement
+
 ### NCERT Class 12 - Accountancy Part 2
 
 ## Chapter at a Glance
 
-| Item | Details |
-|---|---|
-| Main idea | A cash flow statement explains changes in cash and cash equivalents during a period. |
-| Main classification | Operating activities, investing activities, and financing activities. |
-| Standard focus | Cash flows are classified by nature of business activity. |
-| Main methods for operating cash flow | Direct method and indirect method. |
-| Most important skill | Convert accrual profit into cash flow and classify each cash movement correctly. |
+| Item                                 | Details                                                                              |
+| ------------------------------------ | ------------------------------------------------------------------------------------ |
+| Main idea                            | A cash flow statement explains changes in cash and cash equivalents during a period. |
+| Main classification                  | Operating activities, investing activities, and financing activities.                |
+| Standard focus                       | Cash flows are classified by nature of business activity.                            |
+| Main methods for operating cash flow | Direct method and indirect method.                                                   |
+| Most important skill                 | Convert accrual profit into cash flow and classify each cash movement correctly.     |
 
 ## Learning Outcomes
 
@@ -30,26 +31,26 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Cash | Cash in hand and demand deposits with banks. |
-| Cash equivalents | Short-term, highly liquid investments readily convertible into known cash amounts and subject to insignificant risk of value change. |
-| Cash flow | Inflow or outflow of cash or cash equivalents. |
-| Operating activities | Principal revenue-producing activities and other activities not investing or financing. |
-| Investing activities | Acquisition and disposal of long-term assets and investments not treated as cash equivalents. |
-| Financing activities | Activities changing size and composition of owners' capital and borrowings. |
-| Non-cash transaction | Transaction that does not involve cash flow, such as issue of shares for purchase of assets. |
-| Indirect method | Method that starts with profit and adjusts it into cash from operations. |
-| Direct method | Method that shows major classes of gross cash receipts and payments. |
+| Term                 | Meaning                                                                                                                              |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Cash                 | Cash in hand and demand deposits with banks.                                                                                         |
+| Cash equivalents     | Short-term, highly liquid investments readily convertible into known cash amounts and subject to insignificant risk of value change. |
+| Cash flow            | Inflow or outflow of cash or cash equivalents.                                                                                       |
+| Operating activities | Principal revenue-producing activities and other activities not investing or financing.                                              |
+| Investing activities | Acquisition and disposal of long-term assets and investments not treated as cash equivalents.                                        |
+| Financing activities | Activities changing size and composition of owners' capital and borrowings.                                                          |
+| Non-cash transaction | Transaction that does not involve cash flow, such as issue of shares for purchase of assets.                                         |
+| Indirect method      | Method that starts with profit and adjusts it into cash from operations.                                                             |
+| Direct method        | Method that shows major classes of gross cash receipts and payments.                                                                 |
 
 ## Quick Learning Map
 
-| Area | Main Question |
-|---|---|
-| Operating | Did core business generate cash? |
-| Investing | Was cash used to buy long-term assets or received from their sale? |
-| Financing | Did cash come from or go to owners and lenders? |
-| Reconciliation | Does net cash change explain opening to closing cash? |
+| Area           | Main Question                                                      |
+| -------------- | ------------------------------------------------------------------ |
+| Operating      | Did core business generate cash?                                   |
+| Investing      | Was cash used to buy long-term assets or received from their sale? |
+| Financing      | Did cash come from or go to owners and lenders?                    |
+| Reconciliation | Does net cash change explain opening to closing cash?              |
 
 # Unit 6A: Meaning and Purpose
 
@@ -70,14 +71,14 @@ The cash flow statement helps users:
 
 # Unit 6B: Benefits
 
-| Benefit | Explanation |
-|---|---|
-| Shows liquidity | Reveals actual cash movement. |
-| Helps planning | Supports cash budgets and financing plans. |
-| Tests profit quality | Compares profit with cash from operations. |
-| Shows capital spending | Investing section reveals asset purchases and sales. |
+| Benefit                 | Explanation                                                                    |
+| ----------------------- | ------------------------------------------------------------------------------ |
+| Shows liquidity         | Reveals actual cash movement.                                                  |
+| Helps planning          | Supports cash budgets and financing plans.                                     |
+| Tests profit quality    | Compares profit with cash from operations.                                     |
+| Shows capital spending  | Investing section reveals asset purchases and sales.                           |
 | Shows financing pattern | Financing section reveals borrowing, repayment, issue of shares, and dividend. |
-| Useful to lenders | Lenders focus on cash repayment ability. |
+| Useful to lenders       | Lenders focus on cash repayment ability.                                       |
 
 # Unit 6C: Cash and Cash Equivalents
 
@@ -163,17 +164,17 @@ Examples:
 
 # Unit 6F: Treatment of Specific Items
 
-| Item | Usual Classification for Non-Financial Enterprise |
-|---|---|
-| Interest received | Investing activity. |
-| Dividend received | Investing activity. |
-| Interest paid | Financing activity. |
-| Dividend paid | Financing activity. |
-| Income tax paid | Operating activity unless specifically linked to investing or financing. |
-| Purchase of fixed asset | Investing activity. |
-| Sale of fixed asset | Investing activity. |
-| Issue of shares | Financing activity. |
-| Redemption of debentures | Financing activity. |
+| Item                     | Usual Classification for Non-Financial Enterprise                        |
+| ------------------------ | ------------------------------------------------------------------------ |
+| Interest received        | Investing activity.                                                      |
+| Dividend received        | Investing activity.                                                      |
+| Interest paid            | Financing activity.                                                      |
+| Dividend paid            | Financing activity.                                                      |
+| Income tax paid          | Operating activity unless specifically linked to investing or financing. |
+| Purchase of fixed asset  | Investing activity.                                                      |
+| Sale of fixed asset      | Investing activity.                                                      |
+| Issue of shares          | Financing activity.                                                      |
+| Redemption of debentures | Financing activity.                                                      |
 
 # Unit 6G: Cash from Operating Activities - Indirect Method
 
@@ -202,12 +203,12 @@ Then adjust current assets and current liabilities.
 
 ## Working Capital Adjustment Rules
 
-| Change | Effect on Cash from Operations |
-|---|---|
-| Increase in current asset | Subtract. |
-| Decrease in current asset | Add. |
-| Increase in current liability | Add. |
-| Decrease in current liability | Subtract. |
+| Change                        | Effect on Cash from Operations |
+| ----------------------------- | ------------------------------ |
+| Increase in current asset     | Subtract.                      |
+| Decrease in current asset     | Add.                           |
+| Increase in current liability | Add.                           |
+| Decrease in current liability | Subtract.                      |
 
 ## Why These Rules Work
 
@@ -221,12 +222,12 @@ Direct method shows major cash receipts and payments.
 
 ## Typical Format
 
-| Cash Inflows | Cash Outflows |
-|---|---|
-| Cash received from customers | Cash paid to suppliers |
-| Cash received for services | Cash paid to employees |
-|  | Cash paid for operating expenses |
-|  | Income tax paid |
+| Cash Inflows                 | Cash Outflows                    |
+| ---------------------------- | -------------------------------- |
+| Cash received from customers | Cash paid to suppliers           |
+| Cash received for services   | Cash paid to employees           |
+|                              | Cash paid for operating expenses |
+|                              | Income tax paid                  |
 
 Net cash from operating activities = Total operating cash inflows - Total operating cash outflows
 
@@ -284,14 +285,14 @@ If share capital increases due to bonus issue, there is no cash flow. If shares 
 
 # Unit 6K: Complete Cash Flow Statement Format
 
-| Section | Amount |
-|---|---:|
-| Cash flow from operating activities | xxx |
-| Cash flow from investing activities | xxx |
-| Cash flow from financing activities | xxx |
-| Net increase or decrease in cash and cash equivalents | xxx |
-| Add opening cash and cash equivalents | xxx |
-| Closing cash and cash equivalents | xxx |
+| Section                                               | Amount |
+| ----------------------------------------------------- | -----: |
+| Cash flow from operating activities                   |    xxx |
+| Cash flow from investing activities                   |    xxx |
+| Cash flow from financing activities                   |    xxx |
+| Net increase or decrease in cash and cash equivalents |    xxx |
+| Add opening cash and cash equivalents                 |    xxx |
+| Closing cash and cash equivalents                     |    xxx |
 
 Closing cash in the statement must agree with balance sheet cash and cash equivalents.
 
@@ -301,31 +302,31 @@ Profit before tax is Rs. 2,00,000. Depreciation is Rs. 40,000. Profit on sale of
 
 ## Operating Cash Flow
 
-| Item | Amount |
-|---|---:|
-| Profit before tax | Rs. 2,00,000 |
-| Add depreciation | Rs. 40,000 |
-| Less profit on sale of machinery | Rs. 10,000 |
+| Item                                            |       Amount |
+| ----------------------------------------------- | -----------: |
+| Profit before tax                               | Rs. 2,00,000 |
+| Add depreciation                                |   Rs. 40,000 |
+| Less profit on sale of machinery                |   Rs. 10,000 |
 | Operating profit before working capital changes | Rs. 2,30,000 |
-| Less increase in trade receivables | Rs. 30,000 |
-| Add decrease in inventory | Rs. 20,000 |
-| Add increase in trade payables | Rs. 15,000 |
-| Cash generated from operations | Rs. 2,35,000 |
-| Less tax paid | Rs. 25,000 |
-| Cash from operating activities | Rs. 2,10,000 |
+| Less increase in trade receivables              |   Rs. 30,000 |
+| Add decrease in inventory                       |   Rs. 20,000 |
+| Add increase in trade payables                  |   Rs. 15,000 |
+| Cash generated from operations                  | Rs. 2,35,000 |
+| Less tax paid                                   |   Rs. 25,000 |
+| Cash from operating activities                  | Rs. 2,10,000 |
 
 # Unit 6M: Common Mistakes and Corrections
 
-| Mistake | Correct Approach |
-|---|---|
-| Treating profit as cash | Adjust profit for non-cash items and working capital. |
-| Adding increase in receivables | Subtract increase in current assets. |
-| Subtracting increase in payables | Add increase in current liabilities. |
-| Including bonus issue as cash inflow | Bonus issue is non-cash. |
-| Treating asset purchase as operating | Fixed asset purchase is investing. |
-| Treating loan repayment as investing | Loan repayment is financing. |
-| Forgetting tax paid | Deduct tax paid in operating unless specifically classified elsewhere. |
-| Not reconciling closing cash | Always match closing cash and cash equivalents. |
+| Mistake                              | Correct Approach                                                       |
+| ------------------------------------ | ---------------------------------------------------------------------- |
+| Treating profit as cash              | Adjust profit for non-cash items and working capital.                  |
+| Adding increase in receivables       | Subtract increase in current assets.                                   |
+| Subtracting increase in payables     | Add increase in current liabilities.                                   |
+| Including bonus issue as cash inflow | Bonus issue is non-cash.                                               |
+| Treating asset purchase as operating | Fixed asset purchase is investing.                                     |
+| Treating loan repayment as investing | Loan repayment is financing.                                           |
+| Forgetting tax paid                  | Deduct tax paid in operating unless specifically classified elsewhere. |
+| Not reconciling closing cash         | Always match closing cash and cash equivalents.                        |
 
 ## Practice Set
 

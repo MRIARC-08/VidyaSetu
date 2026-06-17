@@ -53,54 +53,54 @@ By the end of this chapter, you should be able to:
 
 ## Big Picture Map
 
-| Theme | Core Idea | Examples |
-| --- | --- | --- |
-| Weather and climate | Weather is short-term; climate is long-term average | Daily temperature vs 50-year pattern |
-| Monsoon | Seasonal reversal of wind direction | Southwest monsoon, northeast monsoon |
-| Climatic unity | Most of India follows a monsoonal rhythm | June-September rainy season in most regions |
-| Climatic diversity | Regional differences are large | Rajasthan heat, Leh cold, Meghalaya rainfall |
-| Controls of climate | Location, relief, pressure, winds, jet streams | Himalayas, sea influence, ITCZ |
-| Winter mechanism | High pressure over Central Asia and dry winds | Western disturbances bring winter rain |
-| Summer mechanism | Low pressure over northwest India attracts moist winds | Southwest monsoon |
-| Rainfall distribution | Uneven in space and time | Mawsynram, Jaisalmer, Western Ghats |
-| Seasonal rhythm | Four meteorological seasons | Cold, hot, southwest monsoon, retreating monsoon |
-| Economy | Monsoon controls agriculture and water availability | Kharif crops, rabi support, droughts, floods |
+| Theme                 | Core Idea                                              | Examples                                         |
+| --------------------- | ------------------------------------------------------ | ------------------------------------------------ |
+| Weather and climate   | Weather is short-term; climate is long-term average    | Daily temperature vs 50-year pattern             |
+| Monsoon               | Seasonal reversal of wind direction                    | Southwest monsoon, northeast monsoon             |
+| Climatic unity        | Most of India follows a monsoonal rhythm               | June-September rainy season in most regions      |
+| Climatic diversity    | Regional differences are large                         | Rajasthan heat, Leh cold, Meghalaya rainfall     |
+| Controls of climate   | Location, relief, pressure, winds, jet streams         | Himalayas, sea influence, ITCZ                   |
+| Winter mechanism      | High pressure over Central Asia and dry winds          | Western disturbances bring winter rain           |
+| Summer mechanism      | Low pressure over northwest India attracts moist winds | Southwest monsoon                                |
+| Rainfall distribution | Uneven in space and time                               | Mawsynram, Jaisalmer, Western Ghats              |
+| Seasonal rhythm       | Four meteorological seasons                            | Cold, hot, southwest monsoon, retreating monsoon |
+| Economy               | Monsoon controls agriculture and water availability    | Kharif crops, rabi support, droughts, floods     |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Weather | Momentary or short-term condition of the atmosphere at a place. |
-| Climate | Average weather conditions of a place over a long period. |
-| Monsoon | Climate system linked with seasonal reversal of wind direction. |
-| Monsoonal rhythm | Annual pattern in which wind, rainfall, temperature, and pressure change with seasons. |
-| Diurnal range of temperature | Difference between maximum and minimum temperature of a day. |
-| Annual range of temperature | Difference between average temperature of hottest and coldest months. |
-| Equable climate | Climate with small seasonal temperature contrast, usually near the sea. |
-| Continental climate | Climate with large seasonal temperature contrast, common in interiors. |
-| Climatic divide | A physical barrier that separates different climatic influences. |
-| Windward side | Side of a mountain facing moisture-bearing winds. |
-| Leeward side | Side sheltered from moisture-bearing winds. |
-| Rain shadow area | Dry area on the leeward side of a mountain barrier. |
-| Air pressure | Force exerted by air over the earth's surface. |
-| Pressure gradient | Difference in pressure between two places, causing wind movement. |
-| Jet stream | Narrow, fast-flowing current of air in the upper atmosphere. |
-| Westerly jet stream | Upper air current flowing from west to east. |
-| Easterly jet stream | Upper air current flowing from east to west, important in summer monsoon. |
-| Western disturbance | Winter cyclonic disturbance from the Mediterranean region that brings rain to northwestern India. |
-| Tropical depression | Low-pressure system in tropical seas that can bring heavy rainfall. |
-| ITCZ | Low-pressure belt where trade winds converge and air rises. |
-| Monsoon trough | Northward position of the ITCZ over the Gangetic plain in summer. |
-| Burst of monsoon | Sudden onset of monsoon rain with thunder, lightning, and temperature drop. |
-| Break in monsoon | Dry spell during the rainy season after a wet spell. |
-| Orographic rainfall | Rain caused when moist air is forced to rise over mountains. |
-| El Nino | Periodic warming of eastern Pacific waters that can disturb global weather and India's monsoon. |
-| October heat | Hot and humid weather during retreating monsoon after rainfall stops but land remains moist. |
-| Coefficient of variation | Statistical measure used to express rainfall variability. |
-| Climatic region | Area having broadly similar climatic conditions. |
-| Greenhouse gases | Gases that absorb long-wave radiation and contribute to warming. |
+| Term                         | Meaning                                                                                           |
+| ---------------------------- | ------------------------------------------------------------------------------------------------- |
+| Weather                      | Momentary or short-term condition of the atmosphere at a place.                                   |
+| Climate                      | Average weather conditions of a place over a long period.                                         |
+| Monsoon                      | Climate system linked with seasonal reversal of wind direction.                                   |
+| Monsoonal rhythm             | Annual pattern in which wind, rainfall, temperature, and pressure change with seasons.            |
+| Diurnal range of temperature | Difference between maximum and minimum temperature of a day.                                      |
+| Annual range of temperature  | Difference between average temperature of hottest and coldest months.                             |
+| Equable climate              | Climate with small seasonal temperature contrast, usually near the sea.                           |
+| Continental climate          | Climate with large seasonal temperature contrast, common in interiors.                            |
+| Climatic divide              | A physical barrier that separates different climatic influences.                                  |
+| Windward side                | Side of a mountain facing moisture-bearing winds.                                                 |
+| Leeward side                 | Side sheltered from moisture-bearing winds.                                                       |
+| Rain shadow area             | Dry area on the leeward side of a mountain barrier.                                               |
+| Air pressure                 | Force exerted by air over the earth's surface.                                                    |
+| Pressure gradient            | Difference in pressure between two places, causing wind movement.                                 |
+| Jet stream                   | Narrow, fast-flowing current of air in the upper atmosphere.                                      |
+| Westerly jet stream          | Upper air current flowing from west to east.                                                      |
+| Easterly jet stream          | Upper air current flowing from east to west, important in summer monsoon.                         |
+| Western disturbance          | Winter cyclonic disturbance from the Mediterranean region that brings rain to northwestern India. |
+| Tropical depression          | Low-pressure system in tropical seas that can bring heavy rainfall.                               |
+| ITCZ                         | Low-pressure belt where trade winds converge and air rises.                                       |
+| Monsoon trough               | Northward position of the ITCZ over the Gangetic plain in summer.                                 |
+| Burst of monsoon             | Sudden onset of monsoon rain with thunder, lightning, and temperature drop.                       |
+| Break in monsoon             | Dry spell during the rainy season after a wet spell.                                              |
+| Orographic rainfall          | Rain caused when moist air is forced to rise over mountains.                                      |
+| El Nino                      | Periodic warming of eastern Pacific waters that can disturb global weather and India's monsoon.   |
+| October heat                 | Hot and humid weather during retreating monsoon after rainfall stops but land remains moist.      |
+| Coefficient of variation     | Statistical measure used to express rainfall variability.                                         |
+| Climatic region              | Area having broadly similar climatic conditions.                                                  |
+| Greenhouse gases             | Gases that absorb long-wave radiation and contribute to warming.                                  |
 
 ---
 
@@ -159,13 +159,13 @@ For example:
 
 ## 1.4 Weather vs Climate
 
-| Basis | Weather | Climate |
-| --- | --- | --- |
-| Time scale | Short term | Long term |
-| Change | Changes quickly | Changes slowly |
-| Example | It is raining today | Kerala has a humid monsoon climate |
-| Study focus | Daily atmospheric condition | Average atmospheric pattern |
-| Useful for | Daily planning | Agriculture, settlement, long-term planning |
+| Basis       | Weather                     | Climate                                     |
+| ----------- | --------------------------- | ------------------------------------------- |
+| Time scale  | Short term                  | Long term                                   |
+| Change      | Changes quickly             | Changes slowly                              |
+| Example     | It is raining today         | Kerala has a humid monsoon climate          |
+| Study focus | Daily atmospheric condition | Average atmospheric pattern                 |
+| Useful for  | Daily planning              | Agriculture, settlement, long-term planning |
 
 ## 1.5 Simple Memory Line
 
@@ -258,14 +258,14 @@ These differences create sub-types within the larger monsoon climate.
 
 ## 3.3 Temperature Diversity
 
-| Region or Place | Climatic Example | Meaning |
-| --- | --- | --- |
-| Western Rajasthan | Summer temperature may reach around 55 degrees C | Extreme heat |
-| Leh | Winter temperature may fall around minus 45 degrees C | Extreme cold |
-| Churu | June day may reach 50 degrees C or more | Hot continental interior |
-| Tawang | Same June day may be around 19 degrees C | Altitude reduces temperature |
-| Drass | December night may fall around minus 45 degrees C | Severe Himalayan winter |
-| Thiruvananthapuram or Chennai | Same winter night may be around 20-22 degrees C | Coastal and southern moderation |
+| Region or Place               | Climatic Example                                      | Meaning                         |
+| ----------------------------- | ----------------------------------------------------- | ------------------------------- |
+| Western Rajasthan             | Summer temperature may reach around 55 degrees C      | Extreme heat                    |
+| Leh                           | Winter temperature may fall around minus 45 degrees C | Extreme cold                    |
+| Churu                         | June day may reach 50 degrees C or more               | Hot continental interior        |
+| Tawang                        | Same June day may be around 19 degrees C              | Altitude reduces temperature    |
+| Drass                         | December night may fall around minus 45 degrees C     | Severe Himalayan winter         |
+| Thiruvananthapuram or Chennai | Same winter night may be around 20-22 degrees C       | Coastal and southern moderation |
 
 ## 3.4 Daily Temperature Contrast
 
@@ -284,15 +284,15 @@ This happens because dry desert air loses heat quickly at night, while humid coa
 
 ## 3.5 Precipitation Diversity
 
-| Region | Precipitation Feature |
-| --- | --- |
-| Himalayas | Snowfall occurs in winter and high-altitude regions |
-| Most of India | Rainfall is the main form of precipitation |
-| Cherrapunji and Mawsynram | Very high annual rainfall |
-| Jaisalmer | Very low annual rainfall |
-| Meghalaya | Some areas receive more than 400 cm rainfall |
-| Western deserts | Some areas receive less than 10 cm precipitation |
-| Tamil Nadu coast | Major rain comes in early winter, not peak southwest monsoon |
+| Region                    | Precipitation Feature                                        |
+| ------------------------- | ------------------------------------------------------------ |
+| Himalayas                 | Snowfall occurs in winter and high-altitude regions          |
+| Most of India             | Rainfall is the main form of precipitation                   |
+| Cherrapunji and Mawsynram | Very high annual rainfall                                    |
+| Jaisalmer                 | Very low annual rainfall                                     |
+| Meghalaya                 | Some areas receive more than 400 cm rainfall                 |
+| Western deserts           | Some areas receive less than 10 cm precipitation             |
+| Tamil Nadu coast          | Major rain comes in early winter, not peak southwest monsoon |
 
 ## 3.6 The Main Conclusion
 
@@ -500,12 +500,12 @@ Examples:
 
 ## 8.3 Simple Comparison
 
-| Coastal Climate | Interior Climate |
-| --- | --- |
-| Moderated by sea | Less sea influence |
+| Coastal Climate         | Interior Climate        |
+| ----------------------- | ----------------------- |
+| Moderated by sea        | Less sea influence      |
 | Small temperature range | Large temperature range |
-| Humid | Often drier |
-| Less extreme | More extreme |
+| Humid                   | Often drier             |
+| Less extreme            | More extreme            |
 
 ---
 
@@ -1338,11 +1338,11 @@ Meteorologists recognise four main seasons in India.
 
 ## 27.1 Four Seasons
 
-| Season | Usual Period | Main Feature |
-| --- | --- | --- |
-| Cold weather season | Winter months | Cool, dry, western disturbances |
-| Hot weather season | March to June | Heat, loo, dust storms, pre-monsoon showers |
-| Southwest monsoon season | June to September | Main rainy season for most of India |
+| Season                    | Usual Period        | Main Feature                                        |
+| ------------------------- | ------------------- | --------------------------------------------------- |
+| Cold weather season       | Winter months       | Cool, dry, western disturbances                     |
+| Hot weather season        | March to June       | Heat, loo, dust storms, pre-monsoon showers         |
+| Southwest monsoon season  | June to September   | Main rainy season for most of India                 |
 | Retreating monsoon season | October to November | Withdrawal, October heat, cyclones, Tamil Nadu rain |
 
 ## 27.2 Why Seasons Matter
@@ -1516,12 +1516,12 @@ Rainfall decreases with increasing distance from the sea.
 
 Examples from the southwest monsoon period:
 
-| Place | Rainfall Pattern |
-| --- | --- |
-| Kolkata | Higher rainfall |
-| Patna | Less than Kolkata |
-| Allahabad | Less than Patna |
-| Delhi | Less than Allahabad |
+| Place     | Rainfall Pattern    |
+| --------- | ------------------- |
+| Kolkata   | Higher rainfall     |
+| Patna     | Less than Kolkata   |
+| Allahabad | Less than Patna     |
+| Delhi     | Less than Allahabad |
 
 The broad principle is inland decline.
 
@@ -1640,14 +1640,14 @@ In Indian tradition, the year is divided into six two-month seasons.
 
 This system is based on practical experience of weather, especially in north and central India.
 
-| Traditional Season | Indian Calendar Months | Gregorian Months |
-| --- | --- | --- |
-| Vasanta | Chaitra-Vaisakha | March-April |
-| Grishma | Jyaistha-Asadha | May-June |
-| Varsha | Sravana-Bhadra | July-August |
-| Sharada | Asvina-Kartika | September-October |
-| Hemanta | Margashirsa-Pausa | November-December |
-| Shishira | Magha-Phalguna | January-February |
+| Traditional Season | Indian Calendar Months | Gregorian Months  |
+| ------------------ | ---------------------- | ----------------- |
+| Vasanta            | Chaitra-Vaisakha       | March-April       |
+| Grishma            | Jyaistha-Asadha        | May-June          |
+| Varsha             | Sravana-Bhadra         | July-August       |
+| Sharada            | Asvina-Kartika         | September-October |
+| Hemanta            | Margashirsa-Pausa      | November-December |
+| Shishira           | Magha-Phalguna         | January-February  |
 
 This traditional system does not match south India perfectly because seasonal variation is weaker there.
 
@@ -1858,16 +1858,16 @@ These are very cold climates.
 
 # 38. Koeppen's Small Letters
 
-| Symbol | Meaning |
-| --- | --- |
-| f | Sufficient precipitation |
-| m | Rainforest climate despite a dry monsoon season |
-| w | Dry season in winter |
-| S | Semi-arid |
-| W | Arid |
-| h | Dry and hot |
-| c | Less than four months with mean temperature above 10 degrees C |
-| g | Gangetic plain |
+| Symbol | Meaning                                                        |
+| ------ | -------------------------------------------------------------- |
+| f      | Sufficient precipitation                                       |
+| m      | Rainforest climate despite a dry monsoon season                |
+| w      | Dry season in winter                                           |
+| S      | Semi-arid                                                      |
+| W      | Arid                                                           |
+| h      | Dry and hot                                                    |
+| c      | Less than four months with mean temperature above 10 degrees C |
+| g      | Gangetic plain                                                 |
 
 These symbols combine to form regional climate codes.
 
@@ -1875,16 +1875,16 @@ These symbols combine to form regional climate codes.
 
 # 39. Climatic Regions According To Koeppen
 
-| Code | Type Of Climate | Main Area |
-| --- | --- | --- |
-| Amw | Monsoon climate with short dry season | West coast south of Goa |
-| As | Monsoon climate with dry summer | Coromandel coast of Tamil Nadu |
-| Aw | Tropical savannah | Most peninsular plateaus south of Tropic of Cancer |
-| BShw | Semi-arid steppe climate | Northwestern Gujarat, parts of western Rajasthan and Punjab |
-| BWhw | Hot desert climate | Extreme western Rajasthan |
-| Cwg | Monsoon climate with dry winter | Ganga plain, eastern Rajasthan, northern Madhya Pradesh, much of northeast India |
-| Dfc | Cold humid winter with short summer | Arunachal Pradesh |
-| E | Polar type | High Himalayan areas of Jammu and Kashmir, Himachal Pradesh, and Uttarakhand |
+| Code | Type Of Climate                       | Main Area                                                                        |
+| ---- | ------------------------------------- | -------------------------------------------------------------------------------- |
+| Amw  | Monsoon climate with short dry season | West coast south of Goa                                                          |
+| As   | Monsoon climate with dry summer       | Coromandel coast of Tamil Nadu                                                   |
+| Aw   | Tropical savannah                     | Most peninsular plateaus south of Tropic of Cancer                               |
+| BShw | Semi-arid steppe climate              | Northwestern Gujarat, parts of western Rajasthan and Punjab                      |
+| BWhw | Hot desert climate                    | Extreme western Rajasthan                                                        |
+| Cwg  | Monsoon climate with dry winter       | Ganga plain, eastern Rajasthan, northern Madhya Pradesh, much of northeast India |
+| Dfc  | Cold humid winter with short summer   | Arunachal Pradesh                                                                |
+| E    | Polar type                            | High Himalayan areas of Jammu and Kashmir, Himachal Pradesh, and Uttarakhand     |
 
 ## 39.1 Note On Codes
 
@@ -2055,46 +2055,46 @@ The chapter asks learners to think about what would happen to Indian coasts if s
 
 ## 42.1 Weather vs Climate
 
-| Weather | Climate |
-| --- | --- |
-| Short-term atmospheric condition | Long-term average condition |
-| Changes quickly | Changes slowly |
-| Example: rain today | Example: humid climate of Kerala |
+| Weather                          | Climate                          |
+| -------------------------------- | -------------------------------- |
+| Short-term atmospheric condition | Long-term average condition      |
+| Changes quickly                  | Changes slowly                   |
+| Example: rain today              | Example: humid climate of Kerala |
 
 ## 42.2 Southwest Monsoon vs Northeast Monsoon
 
-| Southwest Monsoon | Northeast Monsoon |
-| --- | --- |
-| Main rainy season for most of India | Important for Tamil Nadu and Coromandel coast |
-| June to September | Mainly October-November in India |
-| Moist winds from ocean to land | Winds generally from land to sea, but pick moisture over Bay of Bengal |
-| Has Arabian Sea and Bay of Bengal branches | Brings rain to southeastern coast after crossing Bay of Bengal |
+| Southwest Monsoon                          | Northeast Monsoon                                                      |
+| ------------------------------------------ | ---------------------------------------------------------------------- |
+| Main rainy season for most of India        | Important for Tamil Nadu and Coromandel coast                          |
+| June to September                          | Mainly October-November in India                                       |
+| Moist winds from ocean to land             | Winds generally from land to sea, but pick moisture over Bay of Bengal |
+| Has Arabian Sea and Bay of Bengal branches | Brings rain to southeastern coast after crossing Bay of Bengal         |
 
 ## 42.3 Windward vs Leeward
 
-| Windward | Leeward |
-| --- | --- |
-| Faces moisture-bearing winds | Lies behind mountain barrier |
-| More rainfall | Less rainfall |
-| Western side of Western Ghats | Interior Deccan rain shadow |
+| Windward                      | Leeward                      |
+| ----------------------------- | ---------------------------- |
+| Faces moisture-bearing winds  | Lies behind mountain barrier |
+| More rainfall                 | Less rainfall                |
+| Western side of Western Ghats | Interior Deccan rain shadow  |
 
 ## 42.4 Cold Weather Season vs Hot Weather Season
 
-| Cold Weather Season | Hot Weather Season |
-| --- | --- |
-| Winter months | March to June |
-| High pressure in north India | Low pressure develops in north India |
-| Dry winds dominate | Loo, dust storms, pre-monsoon showers |
-| Western disturbances bring some rain | Sets stage for southwest monsoon |
+| Cold Weather Season                  | Hot Weather Season                    |
+| ------------------------------------ | ------------------------------------- |
+| Winter months                        | March to June                         |
+| High pressure in north India         | Low pressure develops in north India  |
+| Dry winds dominate                   | Loo, dust storms, pre-monsoon showers |
+| Western disturbances bring some rain | Sets stage for southwest monsoon      |
 
 ## 42.5 Western Disturbances vs Tropical Depressions
 
-| Western Disturbances | Tropical Depressions |
-| --- | --- |
-| Mainly winter systems | Mainly monsoon-season systems |
-| Originate near Mediterranean region | Originate over tropical seas, especially Bay of Bengal |
-| Bring rain to northwest India and snow to Himalayas | Bring heavy monsoon rain along their tracks |
-| Help rabi crops | Affect kharif crops, floods, rainfall distribution |
+| Western Disturbances                                | Tropical Depressions                                   |
+| --------------------------------------------------- | ------------------------------------------------------ |
+| Mainly winter systems                               | Mainly monsoon-season systems                          |
+| Originate near Mediterranean region                 | Originate over tropical seas, especially Bay of Bengal |
+| Bring rain to northwest India and snow to Himalayas | Bring heavy monsoon rain along their tracks            |
+| Help rabi crops                                     | Affect kharif crops, floods, rainfall distribution     |
 
 ---
 
@@ -2155,21 +2155,21 @@ Ask these questions:
 
 # 44. Data Board
 
-| Data Point | Value Or Pattern | Use In Answer |
-| --- | --- | --- |
-| Average annual rainfall of India | About 125 cm | Rainfall distribution answers |
-| Kerala monsoon onset | Around 1 June | Onset of monsoon |
-| Mumbai and Kolkata arrival | Around 10-13 June | Advance of monsoon |
-| Full subcontinent coverage | Around mid-July | Monsoon progress |
-| Western Ghats rainfall | About 250-400 cm in wet areas | Orographic rainfall |
-| Meghalaya wettest areas | May exceed 1,000 cm | High rainfall example |
-| Jaisalmer rainfall | Very low, around single-digit cm in some references | Arid example |
-| Western Rajasthan variability | Above 50 percent | High drought risk |
-| Less than 25 percent variability | Wet western coast, northeast, eastern Ganga plain | Reliable rainfall |
-| Loo region | Punjab to Bihar, intense Delhi-Patna belt | Hot weather season |
-| Western disturbance source | Mediterranean region | Winter rainfall |
-| ITCZ July position | Around 20-25 degrees N | Monsoon trough |
-| Tropic of Cancer | Passes through central India | Latitude control |
+| Data Point                       | Value Or Pattern                                    | Use In Answer                 |
+| -------------------------------- | --------------------------------------------------- | ----------------------------- |
+| Average annual rainfall of India | About 125 cm                                        | Rainfall distribution answers |
+| Kerala monsoon onset             | Around 1 June                                       | Onset of monsoon              |
+| Mumbai and Kolkata arrival       | Around 10-13 June                                   | Advance of monsoon            |
+| Full subcontinent coverage       | Around mid-July                                     | Monsoon progress              |
+| Western Ghats rainfall           | About 250-400 cm in wet areas                       | Orographic rainfall           |
+| Meghalaya wettest areas          | May exceed 1,000 cm                                 | High rainfall example         |
+| Jaisalmer rainfall               | Very low, around single-digit cm in some references | Arid example                  |
+| Western Rajasthan variability    | Above 50 percent                                    | High drought risk             |
+| Less than 25 percent variability | Wet western coast, northeast, eastern Ganga plain   | Reliable rainfall             |
+| Loo region                       | Punjab to Bihar, intense Delhi-Patna belt           | Hot weather season            |
+| Western disturbance source       | Mediterranean region                                | Winter rainfall               |
+| ITCZ July position               | Around 20-25 degrees N                              | Monsoon trough                |
+| Tropic of Cancer                 | Passes through central India                        | Latitude control              |
 
 ---
 

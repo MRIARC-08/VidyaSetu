@@ -1,4 +1,5 @@
 # Chapter 6: Electromagnetic Induction
+
 ### NCERT Class 12 - Physics Part 1
 
 ## Chapter at a Glance
@@ -23,31 +24,31 @@ By the end of this chapter, learners should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Magnetic flux | Measure of magnetic field passing through a surface. |
-| Induced emf | emf produced due to changing magnetic flux. |
-| Induced current | Current produced by induced emf in a closed circuit. |
-| Faraday's law | Induced emf equals negative rate of change of magnetic flux. |
-| Lenz's law | Induced current opposes the change producing it. |
-| Motional emf | emf induced by motion of conductor in magnetic field. |
-| Self-inductance | Property by which changing current in a coil induces emf in same coil. |
-| Mutual inductance | Changing current in one coil induces emf in nearby coil. |
-| AC generator | Device converting mechanical energy into alternating electrical energy. |
+| Term              | Meaning                                                                 |
+| ----------------- | ----------------------------------------------------------------------- |
+| Magnetic flux     | Measure of magnetic field passing through a surface.                    |
+| Induced emf       | emf produced due to changing magnetic flux.                             |
+| Induced current   | Current produced by induced emf in a closed circuit.                    |
+| Faraday's law     | Induced emf equals negative rate of change of magnetic flux.            |
+| Lenz's law        | Induced current opposes the change producing it.                        |
+| Motional emf      | emf induced by motion of conductor in magnetic field.                   |
+| Self-inductance   | Property by which changing current in a coil induces emf in same coil.  |
+| Mutual inductance | Changing current in one coil induces emf in nearby coil.                |
+| AC generator      | Device converting mechanical energy into alternating electrical energy. |
 
 ## Quick Formula Map
 
-| Concept | Formula |
-|---|---|
-| Magnetic flux | `Phi = B A cos theta` |
-| Faraday's law | `epsilon = -dPhi/dt` |
-| For N turns | `epsilon = -N dPhi/dt` |
-| Motional emf | `epsilon = B l v` |
-| Rotating rod emf | `epsilon = (1/2) B omega l^2` |
-| Self-induced emf | `epsilon = -L dI/dt` |
-| Mutual induction | `epsilon2 = -M dI1/dt` |
-| Energy in inductor | `U = (1/2)L I^2` |
-| AC generator emf | `epsilon = NBA omega sin(omega t)` |
+| Concept            | Formula                            |
+| ------------------ | ---------------------------------- |
+| Magnetic flux      | `Phi = B A cos theta`              |
+| Faraday's law      | `epsilon = -dPhi/dt`               |
+| For N turns        | `epsilon = -N dPhi/dt`             |
+| Motional emf       | `epsilon = B l v`                  |
+| Rotating rod emf   | `epsilon = (1/2) B omega l^2`      |
+| Self-induced emf   | `epsilon = -L dI/dt`               |
+| Mutual induction   | `epsilon2 = -M dI1/dt`             |
+| Energy in inductor | `U = (1/2)L I^2`                   |
+| AC generator emf   | `epsilon = NBA omega sin(omega t)` |
 
 # Unit 6A: Faraday's Experiments
 
@@ -317,15 +318,15 @@ Write in this order:
 
 # Unit 6O: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Thinking magnetic field alone induces current | Changing flux is required. |
-| Forgetting number of turns | Use `N dPhi/dt` for a coil. |
-| Ignoring negative sign meaning | Negative sign represents Lenz's law. |
+| Mistake                                         | Correction                                        |
+| ----------------------------------------------- | ------------------------------------------------- |
+| Thinking magnetic field alone induces current   | Changing flux is required.                        |
+| Forgetting number of turns                      | Use `N dPhi/dt` for a coil.                       |
+| Ignoring negative sign meaning                  | Negative sign represents Lenz's law.              |
 | Applying `Blv` when motion is not perpendicular | Use perpendicular component of velocity or field. |
-| Confusing self and mutual inductance | Self is same coil; mutual involves another coil. |
-| Forgetting factor `1/2` in rotating rod emf | Rotating rod emf is `(1/2)B omega l^2`. |
-| Saying inductor stores energy in electric field | Inductor stores energy in magnetic field. |
+| Confusing self and mutual inductance            | Self is same coil; mutual involves another coil.  |
+| Forgetting factor `1/2` in rotating rod emf     | Rotating rod emf is `(1/2)B omega l^2`.           |
+| Saying inductor stores energy in electric field | Inductor stores energy in magnetic field.         |
 
 ## Practice Set
 

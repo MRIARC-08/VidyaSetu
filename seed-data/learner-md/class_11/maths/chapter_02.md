@@ -39,33 +39,33 @@ After studying this chapter, you should be able to:
 
 ## Chapter Snapshot
 
-| Topic | Main Idea |
-|---|---|
-| Ordered pair | A pair whose order matters |
-| Cartesian product | Set of all ordered pairs from two sets |
-| Relation | Any subset of a Cartesian product |
-| Domain | Set of first components used in a relation |
-| Range | Set of second components actually used |
-| Codomain | Target set from which second components are chosen |
-| Function | A relation where every input has exactly one image |
-| Image | Output value of an input |
-| Preimage | Input value that gives an output |
-| Real function | Function whose domain and range are subsets of real numbers |
+| Topic                | Main Idea                                                                            |
+| -------------------- | ------------------------------------------------------------------------------------ |
+| Ordered pair         | A pair whose order matters                                                           |
+| Cartesian product    | Set of all ordered pairs from two sets                                               |
+| Relation             | Any subset of a Cartesian product                                                    |
+| Domain               | Set of first components used in a relation                                           |
+| Range                | Set of second components actually used                                               |
+| Codomain             | Target set from which second components are chosen                                   |
+| Function             | A relation where every input has exactly one image                                   |
+| Image                | Output value of an input                                                             |
+| Preimage             | Input value that gives an output                                                     |
+| Real function        | Function whose domain and range are subsets of real numbers                          |
 | Algebra of functions | Pointwise addition, subtraction, multiplication, scalar multiplication, and quotient |
 
 ## Essential Notation
 
-| Notation | Meaning |
-|---|---|
-| `(a, b)` | Ordered pair with first element a and second element b |
-| `A x B` | Cartesian product of A and B |
-| `A x A x A` | Cartesian product of A with itself three times |
-| `R subset A x B` | R is a relation from A to B |
-| `f: A -> B` | f is a function from A to B |
-| `f(a) = b` | b is the image of a under f |
-| `Domain` | Set of all first elements of ordered pairs |
-| `Range` | Set of all second elements that occur |
-| `Codomain` | The full target set B in a relation or function from A to B |
+| Notation         | Meaning                                                     |
+| ---------------- | ----------------------------------------------------------- |
+| `(a, b)`         | Ordered pair with first element a and second element b      |
+| `A x B`          | Cartesian product of A and B                                |
+| `A x A x A`      | Cartesian product of A with itself three times              |
+| `R subset A x B` | R is a relation from A to B                                 |
+| `f: A -> B`      | f is a function from A to B                                 |
+| `f(a) = b`       | b is the image of a under f                                 |
+| `Domain`         | Set of all first elements of ordered pairs                  |
+| `Range`          | Set of all second elements that occur                       |
+| `Codomain`       | The full target set B in a relation or function from A to B |
 
 In formulas:
 
@@ -698,9 +698,9 @@ $$
 
 Common values:
 
-| x | -4 | -3 | -2 | -1 | 0 | 1 | 2 | 3 | 4 |
-|---|---|---|---|---|---|---|---|---|---|
-| `x^2` | 16 | 9 | 4 | 1 | 0 | 1 | 4 | 9 | 16 |
+| x     | -4  | -3  | -2  | -1  | 0   | 1   | 2   | 3   | 4   |
+| ----- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| `x^2` | 16  | 9   | 4   | 1   | 0   | 1   | 4   | 9   | 16  |
 
 Domain:
 
@@ -1146,11 +1146,11 @@ $$
 
 ### 4. True Or False
 
-| Part | Answer | Correct Form Or Reason |
-|---|---|---|
-| i | False | `P x Q = {(m,n), (m,m), (n,n), (n,m)}` |
-| ii | True | This is the definition of Cartesian product for non-empty sets |
-| iii | True | `B intersection empty set = empty set`, so `A x empty set = empty set` |
+| Part | Answer | Correct Form Or Reason                                                 |
+| ---- | ------ | ---------------------------------------------------------------------- |
+| i    | False  | `P x Q = {(m,n), (m,m), (n,n), (n,m)}`                                 |
+| ii   | True   | This is the definition of Cartesian product for non-empty sets         |
+| iii  | True   | `B intersection empty set = empty set`, so `A x empty set = empty set` |
 
 ### 5. Find `A x A x A`
 
@@ -2282,40 +2282,40 @@ $$
 
 ## 35. Key Formulas In One Table
 
-| Idea | Formula |
-|---|---|
-| Cartesian product | `A x B = {(a, b) : a in A, b in B}` |
-| Product count | `n(A x B) = n(A)n(B)` |
-| Empty product | `A x empty set = empty set` |
-| Relation | `R subset A x B` |
-| Number of relations | `2^(n(A)n(B))` |
-| Function | Every input has exactly one image |
-| Identity function | `f(x) = x` |
-| Constant function | `f(x) = c` |
-| Square function range | `[0, infinity)` |
-| Reciprocal function domain | `R - {0}` |
-| Modulus function | `|x| = x` if `x >= 0`, `-x` if `x < 0` |
-| Signum range | `{-1, 0, 1}` |
-| Greatest integer range | `Z` |
-| Sum of functions | `(f+g)(x)=f(x)+g(x)` |
-| Difference of functions | `(f-g)(x)=f(x)-g(x)` |
-| Product of functions | `(fg)(x)=f(x)g(x)` |
-| Quotient of functions | `(f/g)(x)=f(x)/g(x)`, where `g(x) != 0` |
+| Idea                       | Formula                                 |
+| -------------------------- | --------------------------------------- | --- | ----------------------------- |
+| Cartesian product          | `A x B = {(a, b) : a in A, b in B}`     |
+| Product count              | `n(A x B) = n(A)n(B)`                   |
+| Empty product              | `A x empty set = empty set`             |
+| Relation                   | `R subset A x B`                        |
+| Number of relations        | `2^(n(A)n(B))`                          |
+| Function                   | Every input has exactly one image       |
+| Identity function          | `f(x) = x`                              |
+| Constant function          | `f(x) = c`                              |
+| Square function range      | `[0, infinity)`                         |
+| Reciprocal function domain | `R - {0}`                               |
+| Modulus function           | `                                       | x   | = x`if`x >= 0`, `-x`if`x < 0` |
+| Signum range               | `{-1, 0, 1}`                            |
+| Greatest integer range     | `Z`                                     |
+| Sum of functions           | `(f+g)(x)=f(x)+g(x)`                    |
+| Difference of functions    | `(f-g)(x)=f(x)-g(x)`                    |
+| Product of functions       | `(fg)(x)=f(x)g(x)`                      |
+| Quotient of functions      | `(f/g)(x)=f(x)/g(x)`, where `g(x) != 0` |
 
 ## 36. Common Mistakes And Corrections
 
-| Mistake | Correction |
-|---|---|
-| Treating `(a,b)` and `(b,a)` as always equal | Ordered pairs depend on order |
-| Forgetting pairs in Cartesian product | Pair every element of A with every element of B |
-| Writing `A x B = B x A` | Usually false |
-| Confusing range with codomain | Range is actual outputs; codomain is target set |
-| Calling every relation a function | A function needs exactly one image for every input |
-| Allowing one input to have two outputs | This breaks the function rule |
-| Ignoring denominator restrictions | Denominators cannot be zero |
-| Ignoring square root restrictions | Even roots need non-negative radicands |
-| Saying range of `x^2` is R | It is `[0, infinity)` |
-| Saying range of `1/x` includes 0 | It never equals 0 |
+| Mistake                                      | Correction                                         |
+| -------------------------------------------- | -------------------------------------------------- |
+| Treating `(a,b)` and `(b,a)` as always equal | Ordered pairs depend on order                      |
+| Forgetting pairs in Cartesian product        | Pair every element of A with every element of B    |
+| Writing `A x B = B x A`                      | Usually false                                      |
+| Confusing range with codomain                | Range is actual outputs; codomain is target set    |
+| Calling every relation a function            | A function needs exactly one image for every input |
+| Allowing one input to have two outputs       | This breaks the function rule                      |
+| Ignoring denominator restrictions            | Denominators cannot be zero                        |
+| Ignoring square root restrictions            | Even roots need non-negative radicands             |
+| Saying range of `x^2` is R                   | It is `[0, infinity)`                              |
+| Saying range of `1/x` includes 0             | It never equals 0                                  |
 
 ## 37. Fast Function Test
 

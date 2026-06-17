@@ -1,4 +1,5 @@
 # Chapter 3: Matrices
+
 ### NCERT Class 12 - Maths Part 1
 
 ## Chapter at a Glance
@@ -25,36 +26,36 @@ By the end of this chapter, learners should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Matrix | Rectangular arrangement of elements in rows and columns. |
-| Element | Entry of a matrix, often written as `a_ij`. |
-| Order | Number of rows x number of columns. |
-| Row matrix | Matrix with one row. |
-| Column matrix | Matrix with one column. |
-| Square matrix | Matrix with equal number of rows and columns. |
-| Diagonal matrix | Square matrix whose non-diagonal elements are zero. |
-| Scalar matrix | Diagonal matrix whose diagonal entries are equal. |
-| Identity matrix | Scalar matrix with all diagonal entries equal to `1`. |
-| Zero matrix | Matrix whose every entry is `0`. |
-| Transpose | Matrix obtained by interchanging rows and columns. |
-| Symmetric matrix | Square matrix satisfying `A^T = A`. |
-| Skew symmetric matrix | Square matrix satisfying `A^T = -A`. |
-| Invertible matrix | Square matrix `A` for which a matrix `B` exists such that `AB = BA = I`. |
+| Term                  | Meaning                                                                  |
+| --------------------- | ------------------------------------------------------------------------ |
+| Matrix                | Rectangular arrangement of elements in rows and columns.                 |
+| Element               | Entry of a matrix, often written as `a_ij`.                              |
+| Order                 | Number of rows x number of columns.                                      |
+| Row matrix            | Matrix with one row.                                                     |
+| Column matrix         | Matrix with one column.                                                  |
+| Square matrix         | Matrix with equal number of rows and columns.                            |
+| Diagonal matrix       | Square matrix whose non-diagonal elements are zero.                      |
+| Scalar matrix         | Diagonal matrix whose diagonal entries are equal.                        |
+| Identity matrix       | Scalar matrix with all diagonal entries equal to `1`.                    |
+| Zero matrix           | Matrix whose every entry is `0`.                                         |
+| Transpose             | Matrix obtained by interchanging rows and columns.                       |
+| Symmetric matrix      | Square matrix satisfying `A^T = A`.                                      |
+| Skew symmetric matrix | Square matrix satisfying `A^T = -A`.                                     |
+| Invertible matrix     | Square matrix `A` for which a matrix `B` exists such that `AB = BA = I`. |
 
 ## Quick Formula Map
 
-| Operation | Rule |
-|---|---|
-| Addition | Possible only for matrices of same order. |
-| Scalar multiplication | Multiply every entry by the scalar. |
+| Operation             | Rule                                                        |
+| --------------------- | ----------------------------------------------------------- |
+| Addition              | Possible only for matrices of same order.                   |
+| Scalar multiplication | Multiply every entry by the scalar.                         |
 | Matrix multiplication | If `A` is `m x n` and `B` is `n x p`, then `AB` is `m x p`. |
-| Entry of product | `(AB)_ij = sum a_ik b_kj` for `k = 1` to `n`. |
-| Transpose of sum | `(A + B)^T = A^T + B^T`. |
-| Transpose of product | `(AB)^T = B^T A^T`. |
-| Symmetric part | `(A + A^T)/2`. |
-| Skew symmetric part | `(A - A^T)/2`. |
-| Inverse of product | `(AB)^-1 = B^-1 A^-1`, when inverses exist. |
+| Entry of product      | `(AB)_ij = sum a_ik b_kj` for `k = 1` to `n`.               |
+| Transpose of sum      | `(A + B)^T = A^T + B^T`.                                    |
+| Transpose of product  | `(AB)^T = B^T A^T`.                                         |
+| Symmetric part        | `(A + A^T)/2`.                                              |
+| Skew symmetric part   | `(A - A^T)/2`.                                              |
+| Inverse of product    | `(AB)^-1 = B^-1 A^-1`, when inverses exist.                 |
 
 # Unit 3A: What Is a Matrix?
 
@@ -543,15 +544,15 @@ Write in this order:
 
 # Unit 3P: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Adding matrices of different orders | Addition needs same order. |
-| Multiplying entry-wise for matrix product | Use row-column multiplication. |
-| Assuming `AB = BA` | Matrix multiplication is generally not commutative. |
-| Forgetting order reversal in transpose | `(AB)^T = B^T A^T`. |
-| Calling a non-square matrix symmetric | Symmetric and skew symmetric matrices must be square. |
-| Forgetting diagonal zeros in skew symmetric matrices | All diagonal entries must be zero. |
-| Saying every square matrix is invertible | A square matrix may fail to have an inverse. |
+| Mistake                                              | Correction                                            |
+| ---------------------------------------------------- | ----------------------------------------------------- |
+| Adding matrices of different orders                  | Addition needs same order.                            |
+| Multiplying entry-wise for matrix product            | Use row-column multiplication.                        |
+| Assuming `AB = BA`                                   | Matrix multiplication is generally not commutative.   |
+| Forgetting order reversal in transpose               | `(AB)^T = B^T A^T`.                                   |
+| Calling a non-square matrix symmetric                | Symmetric and skew symmetric matrices must be square. |
+| Forgetting diagonal zeros in skew symmetric matrices | All diagonal entries must be zero.                    |
+| Saying every square matrix is invertible             | A square matrix may fail to have an inverse.          |
 
 ## Practice Set
 

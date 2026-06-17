@@ -1,4 +1,5 @@
 # Chapter 6: Measures of Dispersion
+
 ### NCERT Class 11 Statistics for Economics
 
 ---
@@ -38,10 +39,10 @@ An average gives only one representative value. It does not show how values are 
 
 Example:
 
-| Family | Incomes of members | Average income |
-|---|---|---:|
-| A | 15,000; 15,000; 15,000; 15,000 | 15,000 |
-| B | 5,000; 5,000; 10,000; 40,000 | 15,000 |
+| Family | Incomes of members             | Average income |
+| ------ | ------------------------------ | -------------: |
+| A      | 15,000; 15,000; 15,000; 15,000 |         15,000 |
+| B      | 5,000; 5,000; 10,000; 40,000   |         15,000 |
 
 Both families have the same average income, but Family B has much more inequality. Dispersion reveals this difference.
 
@@ -57,11 +58,11 @@ High dispersion means values are widely spread.
 
 Examples:
 
-| Situation | Meaning |
-|---|---|
-| Students scoring 48, 50, 52 | Low dispersion |
-| Students scoring 10, 50, 90 | High dispersion |
-| Workers earning similar wages | Low wage dispersion |
+| Situation                          | Meaning              |
+| ---------------------------------- | -------------------- |
+| Students scoring 48, 50, 52        | Low dispersion       |
+| Students scoring 10, 50, 90        | High dispersion      |
+| Workers earning similar wages      | Low wage dispersion  |
 | Workers earning very unequal wages | High wage dispersion |
 
 ---
@@ -70,13 +71,13 @@ Examples:
 
 The main measures are:
 
-| Measure | Based on |
-|---|---|
-| Range | Difference between highest and lowest value |
-| Quartile Deviation | Spread of middle 50 percent values |
-| Mean Deviation | Average absolute deviation from a central value |
-| Standard Deviation | Square root of average squared deviations |
-| Lorenz Curve | Graphical representation of inequality |
+| Measure            | Based on                                        |
+| ------------------ | ----------------------------------------------- |
+| Range              | Difference between highest and lowest value     |
+| Quartile Deviation | Spread of middle 50 percent values              |
+| Mean Deviation     | Average absolute deviation from a central value |
+| Standard Deviation | Square root of average squared deviations       |
+| Lorenz Curve       | Graphical representation of inequality          |
 
 ---
 
@@ -121,10 +122,10 @@ Range = L - S
 
 Where:
 
-| Symbol | Meaning |
-|---|---|
-| L | Largest value |
-| S | Smallest value |
+| Symbol | Meaning        |
+| ------ | -------------- |
+| L      | Largest value  |
+| S      | Smallest value |
 
 ### Example
 
@@ -171,10 +172,10 @@ Quartile Deviation = (Q3 - Q1) / 2
 
 Where:
 
-| Symbol | Meaning |
-|---|---|
-| Q1 | First quartile |
-| Q3 | Third quartile |
+| Symbol | Meaning        |
+| ------ | -------------- |
+| Q1     | First quartile |
+| Q3     | Third quartile |
 
 Interquartile range:
 
@@ -224,10 +225,10 @@ Mean Deviation = Sigma |d| / N
 
 Where:
 
-| Symbol | Meaning |
-|---|---|
-| |d| | Absolute deviation from average |
-| N | Number of observations |
+| Symbol | Meaning                |
+| ------ | ---------------------- | --- | ------------------------------- |
+|        | d                      |     | Absolute deviation from average |
+| N      | Number of observations |
 
 ### Steps
 
@@ -243,13 +244,13 @@ Values: 2, 4, 7, 8, 9
 
 Suppose median = 7.
 
-| X | |X - Median| |
-|---:|---:|
-| 2 | 5 |
-| 4 | 3 |
-| 7 | 0 |
-| 8 | 1 |
-| 9 | 2 |
+|   X |     | X - Median |     |
+| --: | --: | ---------- | --- |
+|   2 |   5 |
+|   4 |   3 |
+|   7 |   0 |
+|   8 |   1 |
+|   9 |   2 |
 
 ```text
 Mean Deviation = (5 + 3 + 0 + 1 + 2) / 5 = 11 / 5 = 2.2
@@ -308,13 +309,13 @@ Standard Deviation = sqrt [(Sigma X^2 / N) - (Xbar)^2]
 
 ### Example Pattern
 
-| X | d = X - Xbar | d squared |
-|---:|---:|---:|
-| 5 | -19 | 361 |
-| 10 | -14 | 196 |
-| 25 | 1 | 1 |
-| 30 | 6 | 36 |
-| 50 | 26 | 676 |
+|   X | d = X - Xbar | d squared |
+| --: | -----------: | --------: |
+|   5 |          -19 |       361 |
+|  10 |          -14 |       196 |
+|  25 |            1 |         1 |
+|  30 |            6 |        36 |
+|  50 |           26 |       676 |
 
 Then:
 
@@ -401,9 +402,9 @@ Coefficient of Variation = (Standard Deviation / Arithmetic Mean) x 100
 
 C.V. is used to compare consistency between two series.
 
-| C.V. | Meaning |
-|---|---|
-| Lower C.V. | More consistency, less variation |
+| C.V.        | Meaning                          |
+| ----------- | -------------------------------- |
+| Lower C.V.  | More consistency, less variation |
 | Higher C.V. | Less consistency, more variation |
 
 Example:
@@ -414,14 +415,14 @@ If two batsmen have similar averages, the batsman with lower C.V. is more reliab
 
 ## 11. Choosing the Right Measure of Dispersion
 
-| Situation | Suitable measure |
-|---|---|
-| Quick rough spread | Range |
-| Extreme values present | Quartile Deviation |
-| Average absolute distance is needed | Mean Deviation |
-| Detailed and algebraic analysis | Standard Deviation |
+| Situation                            | Suitable measure         |
+| ------------------------------------ | ------------------------ |
+| Quick rough spread                   | Range                    |
+| Extreme values present               | Quartile Deviation       |
+| Average absolute distance is needed  | Mean Deviation           |
+| Detailed and algebraic analysis      | Standard Deviation       |
 | Compare variation between two series | Coefficient of Variation |
-| Show inequality graphically | Lorenz Curve |
+| Show inequality graphically          | Lorenz Curve             |
 
 ---
 
@@ -466,10 +467,10 @@ Use relative measures when:
 
 Example:
 
-| Series | Mean | Standard deviation | C.V. |
-|---|---:|---:|---:|
-| A | 100 | 10 | 10 percent |
-| B | 500 | 25 | 5 percent |
+| Series | Mean | Standard deviation |       C.V. |
+| ------ | ---: | -----------------: | ---------: |
+| A      |  100 |                 10 | 10 percent |
+| B      |  500 |                 25 |  5 percent |
 
 Although B has higher standard deviation, it has lower C.V. Therefore B is relatively more consistent.
 
@@ -477,32 +478,32 @@ Although B has higher standard deviation, it has lower C.V. Therefore B is relat
 
 ## 14. Common Mistakes
 
-| Mistake | Correct understanding |
-|---|---|
-| Comparing only averages | Averages must be supplemented by dispersion. |
-| Treating range as highly reliable | Range uses only extreme values. |
-| Forgetting absolute deviations in mean deviation | Mean deviation ignores signs. |
-| Forgetting to square deviations in standard deviation | Standard deviation is based on squared deviations. |
-| Confusing standard deviation and coefficient of variation | S.D. is absolute; C.V. is relative. |
-| Saying higher S.D. always means less consistency | Compare C.V. when means differ. |
-| Drawing Lorenz Curve without cumulative percentages | Lorenz Curve uses cumulative percentages. |
+| Mistake                                                   | Correct understanding                              |
+| --------------------------------------------------------- | -------------------------------------------------- |
+| Comparing only averages                                   | Averages must be supplemented by dispersion.       |
+| Treating range as highly reliable                         | Range uses only extreme values.                    |
+| Forgetting absolute deviations in mean deviation          | Mean deviation ignores signs.                      |
+| Forgetting to square deviations in standard deviation     | Standard deviation is based on squared deviations. |
+| Confusing standard deviation and coefficient of variation | S.D. is absolute; C.V. is relative.                |
+| Saying higher S.D. always means less consistency          | Compare C.V. when means differ.                    |
+| Drawing Lorenz Curve without cumulative percentages       | Lorenz Curve uses cumulative percentages.          |
 
 ---
 
 ## 15. Formula Board
 
-| Measure | Formula |
-|---|---|
-| Range | L - S |
-| Coefficient of Range | (L - S) / (L + S) |
-| Quartile Deviation | (Q3 - Q1) / 2 |
-| Coefficient of Q.D. | (Q3 - Q1) / (Q3 + Q1) |
-| Mean Deviation | Sigma |d| / N |
-| Mean Deviation, frequency data | Sigma f|d| / Sigma f |
-| Standard Deviation | sqrt [Sigma (X - Xbar)^2 / N] |
-| S.D. direct formula | sqrt [(Sigma X^2 / N) - (Xbar)^2] |
-| S.D. assumed mean | sqrt [(Sigma fd^2 / N) - (Sigma fd / N)^2] |
-| Coefficient of Variation | (S.D. / Mean) x 100 |
+| Measure                        | Formula                                    |
+| ------------------------------ | ------------------------------------------ | --- | --------- |
+| Range                          | L - S                                      |
+| Coefficient of Range           | (L - S) / (L + S)                          |
+| Quartile Deviation             | (Q3 - Q1) / 2                              |
+| Coefficient of Q.D.            | (Q3 - Q1) / (Q3 + Q1)                      |
+| Mean Deviation                 | Sigma                                      | d   | / N       |
+| Mean Deviation, frequency data | Sigma f                                    | d   | / Sigma f |
+| Standard Deviation             | sqrt [Sigma (X - Xbar)^2 / N]              |
+| S.D. direct formula            | sqrt [(Sigma X^2 / N) - (Xbar)^2]          |
+| S.D. assumed mean              | sqrt [(Sigma fd^2 / N) - (Sigma fd / N)^2] |
+| Coefficient of Variation       | (S.D. / Mean) x 100                        |
 
 ---
 

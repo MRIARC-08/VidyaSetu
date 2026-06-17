@@ -1,4 +1,5 @@
 # Chapter 5: Sensory, Attentional and Perceptual Processes
+
 ### NCERT Class 11 Psychology
 
 ---
@@ -32,11 +33,11 @@ After studying this chapter, you should be able to:
 
 ## 1. Sensation, Attention, and Perception
 
-| Process | Meaning | Example |
-|---|---|---|
-| Sensation | Receiving information through sense organs | Eyes receive light |
-| Attention | Selecting some information for focus | Listening to one voice in a crowd |
-| Perception | Interpreting and giving meaning | Recognising the voice as a friend's |
+| Process    | Meaning                                    | Example                             |
+| ---------- | ------------------------------------------ | ----------------------------------- |
+| Sensation  | Receiving information through sense organs | Eyes receive light                  |
+| Attention  | Selecting some information for focus       | Listening to one voice in a crowd   |
+| Perception | Interpreting and giving meaning            | Recognising the voice as a friend's |
 
 Sensation gives raw input. Attention selects input. Perception makes it meaningful.
 
@@ -48,15 +49,15 @@ Sensory processes begin when sense organs receive physical energy from the envir
 
 Examples:
 
-| Sense | Stimulus |
-|---|---|
-| Vision | Light |
-| Hearing | Sound waves |
-| Smell | Chemical particles in air |
-| Taste | Chemical substances in food |
-| Touch | Pressure, temperature, pain |
+| Sense             | Stimulus                          |
+| ----------------- | --------------------------------- |
+| Vision            | Light                             |
+| Hearing           | Sound waves                       |
+| Smell             | Chemical particles in air         |
+| Taste             | Chemical substances in food       |
+| Touch             | Pressure, temperature, pain       |
 | Kinesthetic sense | Body movement and muscle position |
-| Vestibular sense | Balance and body orientation |
+| Vestibular sense  | Balance and body orientation      |
 
 ---
 
@@ -86,25 +87,25 @@ Vision begins when light enters the eye and is focused on the retina.
 
 Important parts:
 
-| Part | Function |
-|---|---|
-| Cornea | Helps focus incoming light |
-| Pupil | Opening through which light enters |
-| Iris | Controls pupil size |
-| Lens | Focuses light on retina |
-| Retina | Contains visual receptors |
-| Rods | Help in dim light |
-| Cones | Help in colour and detail |
-| Optic nerve | Carries visual signals to brain |
+| Part        | Function                           |
+| ----------- | ---------------------------------- |
+| Cornea      | Helps focus incoming light         |
+| Pupil       | Opening through which light enters |
+| Iris        | Controls pupil size                |
+| Lens        | Focuses light on retina            |
+| Retina      | Contains visual receptors          |
+| Rods        | Help in dim light                  |
+| Cones       | Help in colour and detail          |
+| Optic nerve | Carries visual signals to brain    |
 
 ### Visual Adaptation
 
 Visual adaptation means adjustment to different levels of light.
 
-| Type | Meaning |
-|---|---|
+| Type             | Meaning                                   |
+| ---------------- | ----------------------------------------- |
 | Light adaptation | Adjusting to bright light after dim light |
-| Dark adaptation | Adjusting to dim light after bright light |
+| Dark adaptation  | Adjusting to dim light after bright light |
 
 ---
 
@@ -114,13 +115,13 @@ Hearing begins when sound waves enter the ear.
 
 Important terms:
 
-| Term | Meaning |
-|---|---|
-| Frequency | Number of sound wave cycles per second |
-| Hertz | Unit of frequency |
-| Pitch | Highness or lowness of sound |
-| Loudness | Intensity of sound |
-| Timbre | Quality of sound that distinguishes sources |
+| Term      | Meaning                                     |
+| --------- | ------------------------------------------- |
+| Frequency | Number of sound wave cycles per second      |
+| Hertz     | Unit of frequency                           |
+| Pitch     | Highness or lowness of sound                |
+| Loudness  | Intensity of sound                          |
+| Timbre    | Quality of sound that distinguishes sources |
 
 The organ of Corti in the inner ear is important for hearing.
 
@@ -128,13 +129,13 @@ The organ of Corti in the inner ear is important for hearing.
 
 ## 6. Other Senses
 
-| Sense | Explanation |
-|---|---|
-| Smell | Detects chemical substances through receptors in the nose |
-| Taste | Detects sweet, sour, salty, bitter, and other taste qualities |
-| Touch | Includes pressure, warmth, cold, and pain |
-| Kinesthetic sense | Tells position and movement of body parts |
-| Vestibular sense | Helps balance and spatial orientation |
+| Sense             | Explanation                                                   |
+| ----------------- | ------------------------------------------------------------- |
+| Smell             | Detects chemical substances through receptors in the nose     |
+| Taste             | Detects sweet, sour, salty, bitter, and other taste qualities |
+| Touch             | Includes pressure, warmth, cold, and pain                     |
+| Kinesthetic sense | Tells position and movement of body parts                     |
+| Vestibular sense  | Helps balance and spatial orientation                         |
 
 These senses work together to support daily behaviour.
 
@@ -148,22 +149,22 @@ It is necessary because we cannot process everything in the environment at once.
 
 ### Properties of Attention
 
-| Property | Meaning |
-|---|---|
-| Alertness | Readiness to respond |
-| Concentration | Focus on selected stimulus |
-| Search | Looking for a specific target |
-| Selection | Choosing relevant information |
+| Property      | Meaning                       |
+| ------------- | ----------------------------- |
+| Alertness     | Readiness to respond          |
+| Concentration | Focus on selected stimulus    |
+| Search        | Looking for a specific target |
+| Selection     | Choosing relevant information |
 
 ---
 
 ## 8. Types of Attention
 
-| Type | Meaning | Example |
-|---|---|---|
-| Selective attention | Focusing on one stimulus while ignoring others | Listening to teacher despite noise |
-| Sustained attention | Maintaining focus over time | Reading a chapter carefully |
-| Divided attention | Attending to more than one task | Driving while talking, if well practiced |
+| Type                | Meaning                                        | Example                                  |
+| ------------------- | ---------------------------------------------- | ---------------------------------------- |
+| Selective attention | Focusing on one stimulus while ignoring others | Listening to teacher despite noise       |
+| Sustained attention | Maintaining focus over time                    | Reading a chapter carefully              |
+| Divided attention   | Attending to more than one task                | Driving while talking, if well practiced |
 
 Divided attention works better when tasks are highly practiced and partly automatic.
 
@@ -213,13 +214,13 @@ Reading black letters on a white page.
 
 ### Gestalt Principles
 
-| Principle | Meaning |
-|---|---|
-| Proximity | Nearby elements are grouped together |
-| Similarity | Similar elements are grouped together |
-| Continuity | We perceive smooth continuous patterns |
-| Closure | We fill gaps to perceive a complete figure |
-| Common region | Elements in the same area are grouped |
+| Principle     | Meaning                                    |
+| ------------- | ------------------------------------------ |
+| Proximity     | Nearby elements are grouped together       |
+| Similarity    | Similar elements are grouped together      |
+| Continuity    | We perceive smooth continuous patterns     |
+| Closure       | We fill gaps to perceive a complete figure |
+| Common region | Elements in the same area are grouped      |
 
 ---
 
@@ -256,10 +257,10 @@ Depth perception helps us judge distance, movement, and spatial layout.
 
 Perceptual constancy means perceiving objects as stable despite changes in sensory input.
 
-| Type | Meaning |
-|---|---|
-| Size constancy | Object appears same size despite distance |
-| Shape constancy | Object appears same shape despite viewing angle |
+| Type                 | Meaning                                                    |
+| -------------------- | ---------------------------------------------------------- |
+| Size constancy       | Object appears same size despite distance                  |
+| Shape constancy      | Object appears same shape despite viewing angle            |
 | Brightness constancy | Object appears similar in brightness despite light changes |
 
 Without constancy, the world would seem unstable and confusing.
@@ -283,13 +284,13 @@ Thus, perception is not only biological; it is also psychological and cultural.
 
 ## 15. Common Mistakes
 
-| Mistake | Correct understanding |
-|---|---|
-| Treating sensation and perception as the same | Sensation receives; perception interprets. |
-| Thinking attention is unlimited | Attention is selective and limited. |
-| Confusing absolute and difference threshold | Absolute detects presence; difference detects change. |
-| Saying perception is purely objective | Perception is influenced by experience and context. |
-| Ignoring figure-ground organisation | We organise input into object and background. |
+| Mistake                                       | Correct understanding                                 |
+| --------------------------------------------- | ----------------------------------------------------- |
+| Treating sensation and perception as the same | Sensation receives; perception interprets.            |
+| Thinking attention is unlimited               | Attention is selective and limited.                   |
+| Confusing absolute and difference threshold   | Absolute detects presence; difference detects change. |
+| Saying perception is purely objective         | Perception is influenced by experience and context.   |
+| Ignoring figure-ground organisation           | We organise input into object and background.         |
 
 ---
 

@@ -1,4 +1,5 @@
 # Chapter 6: Linear Programming
+
 ### NCERT Class 12 - Maths Part 2
 
 ## Chapter at a Glance
@@ -24,30 +25,30 @@ By the end of this chapter, learners should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Linear programming | Optimising a linear function subject to linear constraints. |
-| Decision variables | Unknown quantities to be decided. |
-| Objective function | Function to maximise or minimise. |
-| Constraints | Conditions written as linear equations or inequalities. |
-| Non-negative restrictions | Conditions such as `x >= 0`, `y >= 0`. |
-| Feasible region | Set of points satisfying all constraints. |
-| Feasible solution | Any point in the feasible region. |
-| Corner point | Vertex of the feasible region. |
-| Optimal solution | Feasible point giving maximum or minimum value. |
-| Bounded region | Feasible region enclosed within finite boundaries. |
-| Unbounded region | Feasible region extending indefinitely. |
+| Term                      | Meaning                                                     |
+| ------------------------- | ----------------------------------------------------------- |
+| Linear programming        | Optimising a linear function subject to linear constraints. |
+| Decision variables        | Unknown quantities to be decided.                           |
+| Objective function        | Function to maximise or minimise.                           |
+| Constraints               | Conditions written as linear equations or inequalities.     |
+| Non-negative restrictions | Conditions such as `x >= 0`, `y >= 0`.                      |
+| Feasible region           | Set of points satisfying all constraints.                   |
+| Feasible solution         | Any point in the feasible region.                           |
+| Corner point              | Vertex of the feasible region.                              |
+| Optimal solution          | Feasible point giving maximum or minimum value.             |
+| Bounded region            | Feasible region enclosed within finite boundaries.          |
+| Unbounded region          | Feasible region extending indefinitely.                     |
 
 ## Quick Formula Map
 
-| Part | Description |
-|---|---|
-| Objective function | `Z = ax + by` |
-| Constraint form | `a1x + b1y <= c1`, or `>=`, or `=` |
-| Non-negative restrictions | `x >= 0`, `y >= 0` |
-| Corner-point method | Evaluate `Z` at each corner point. |
-| Maximum | Largest value of `Z` among checked feasible corners. |
-| Minimum | Smallest value of `Z` among checked feasible corners. |
+| Part                      | Description                                           |
+| ------------------------- | ----------------------------------------------------- |
+| Objective function        | `Z = ax + by`                                         |
+| Constraint form           | `a1x + b1y <= c1`, or `>=`, or `=`                    |
+| Non-negative restrictions | `x >= 0`, `y >= 0`                                    |
+| Corner-point method       | Evaluate `Z` at each corner point.                    |
+| Maximum                   | Largest value of `Z` among checked feasible corners.  |
+| Minimum                   | Smallest value of `Z` among checked feasible corners. |
 
 # Unit 6A: What Is Linear Programming?
 
@@ -191,13 +192,13 @@ The feasible region has corner points:
 
 Evaluate:
 
-| Point | `Z = 3x + 2y` |
-|---|---|
-| `(0,0)` | `0` |
-| `(3,0)` | `9` |
-| `(3,1)` | `11` |
-| `(2,2)` | `10` |
-| `(0,2)` | `4` |
+| Point   | `Z = 3x + 2y` |
+| ------- | ------------- |
+| `(0,0)` | `0`           |
+| `(3,0)` | `9`           |
+| `(3,1)` | `11`          |
+| `(2,2)` | `10`          |
+| `(0,2)` | `4`           |
 
 Maximum value is `11` at `(3,1)`.
 
@@ -281,15 +282,15 @@ Write in this order:
 
 # Unit 6M: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Not defining variables | Always state what `x` and `y` mean. |
-| Forgetting non-negative restrictions | Add `x >= 0`, `y >= 0`. |
-| Shading wrong half-plane | Test a point such as `(0,0)`. |
-| Evaluating objective at random points | Evaluate only corner points. |
-| Confusing maximum and minimum | Check whether largest or smallest value is required. |
-| Ignoring unboundedness | Verify whether optimum actually exists. |
-| Giving point without context | State what the point means in the word problem. |
+| Mistake                               | Correction                                           |
+| ------------------------------------- | ---------------------------------------------------- |
+| Not defining variables                | Always state what `x` and `y` mean.                  |
+| Forgetting non-negative restrictions  | Add `x >= 0`, `y >= 0`.                              |
+| Shading wrong half-plane              | Test a point such as `(0,0)`.                        |
+| Evaluating objective at random points | Evaluate only corner points.                         |
+| Confusing maximum and minimum         | Check whether largest or smallest value is required. |
+| Ignoring unboundedness                | Verify whether optimum actually exists.              |
+| Giving point without context          | State what the point means in the word problem.      |
 
 ## Practice Set
 

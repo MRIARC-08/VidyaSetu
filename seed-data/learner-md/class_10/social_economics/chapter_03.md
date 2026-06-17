@@ -1,37 +1,38 @@
 # Chapter 3: Money and Credit
+
 ### NCERT Class 10 - Social Economics
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 10 |
-| **Subject** | Social Economics |
-| **Chapter** | 3 |
-| **Textbook Pages** | 38-53 |
-| **Core Theme** | Money solves exchange problems, banks link savers and borrowers, and credit can either support development or push borrowers into debt. |
-| **Main Skills** | Explaining money as medium of exchange, understanding demand deposits, reading credit arrangements, comparing formal/informal credit, and evaluating SHGs. |
+| Detail             | Learner-Friendly Information                                                                                                                               |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Class**          | 10                                                                                                                                                         |
+| **Subject**        | Social Economics                                                                                                                                           |
+| **Chapter**        | 3                                                                                                                                                          |
+| **Textbook Pages** | 38-53                                                                                                                                                      |
+| **Core Theme**     | Money solves exchange problems, banks link savers and borrowers, and credit can either support development or push borrowers into debt.                    |
+| **Main Skills**    | Explaining money as medium of exchange, understanding demand deposits, reading credit arrangements, comparing formal/informal credit, and evaluating SHGs. |
 
 ---
 
 ## Section Structure
 
-| Unit | Topic | Main Learning Focus |
-|---|---|---|
-| **3A** | Money as Medium of Exchange | How money removes the problem of barter. |
-| **3B** | Modern Forms of Money | Currency, demand deposits, cheques, and digital payments. |
-| **3C** | Banks and Deposits | How banks accept deposits and provide withdrawal facilities. |
-| **3D** | Loan Activities of Banks | How banks connect depositors and borrowers. |
-| **3E** | Credit Situations | Why credit can be helpful in one case and harmful in another. |
-| **3F** | Terms of Credit | Interest rate, collateral, documents, mode of repayment. |
-| **3G** | Rural Credit Arrangements | Moneylenders, traders, employers, banks, and cooperatives. |
-| **3H** | Formal and Informal Credit | Difference between regulated and unregulated lending. |
-| **3I** | RBI Supervision | Why formal credit needs monitoring. |
-| **3J** | Credit and Inequality | Why poor households depend more on informal sources. |
-| **3K** | Self-Help Groups | How SHGs help poor borrowers, especially women, access credit. |
-| **3L** | Answer Writing | How to write strong credit and banking answers. |
+| Unit   | Topic                       | Main Learning Focus                                            |
+| ------ | --------------------------- | -------------------------------------------------------------- |
+| **3A** | Money as Medium of Exchange | How money removes the problem of barter.                       |
+| **3B** | Modern Forms of Money       | Currency, demand deposits, cheques, and digital payments.      |
+| **3C** | Banks and Deposits          | How banks accept deposits and provide withdrawal facilities.   |
+| **3D** | Loan Activities of Banks    | How banks connect depositors and borrowers.                    |
+| **3E** | Credit Situations           | Why credit can be helpful in one case and harmful in another.  |
+| **3F** | Terms of Credit             | Interest rate, collateral, documents, mode of repayment.       |
+| **3G** | Rural Credit Arrangements   | Moneylenders, traders, employers, banks, and cooperatives.     |
+| **3H** | Formal and Informal Credit  | Difference between regulated and unregulated lending.          |
+| **3I** | RBI Supervision             | Why formal credit needs monitoring.                            |
+| **3J** | Credit and Inequality       | Why poor households depend more on informal sources.           |
+| **3K** | Self-Help Groups            | How SHGs help poor borrowers, especially women, access credit. |
+| **3L** | Answer Writing              | How to write strong credit and banking answers.                |
 
 ---
 
@@ -39,46 +40,46 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Explain money** | Show why money is accepted as a medium of exchange. |
-| **Explain barter problem** | Define double coincidence of wants and explain how money removes it. |
-| **Identify modern money** | Explain currency, demand deposits, cheques, and digital payments. |
-| **Explain bank role** | Show how banks accept deposits, keep cash reserves, and lend money. |
-| **Analyse credit** | Explain when credit improves income and when it creates debt trap. |
-| **Define terms of credit** | Explain interest rate, collateral, documents, and repayment schedule. |
-| **Compare credit sources** | Distinguish formal and informal sources of credit. |
-| **Explain RBI role** | Show how RBI supervises banks and protects the formal credit system. |
-| **Explain SHGs** | Describe how self-help groups reduce the collateral problem and support women. |
-| **Write exam answers** | Use example, term, consequence, and development link in answers. |
+| Outcome                    | You Should Be Able To...                                                       |
+| -------------------------- | ------------------------------------------------------------------------------ |
+| **Explain money**          | Show why money is accepted as a medium of exchange.                            |
+| **Explain barter problem** | Define double coincidence of wants and explain how money removes it.           |
+| **Identify modern money**  | Explain currency, demand deposits, cheques, and digital payments.              |
+| **Explain bank role**      | Show how banks accept deposits, keep cash reserves, and lend money.            |
+| **Analyse credit**         | Explain when credit improves income and when it creates debt trap.             |
+| **Define terms of credit** | Explain interest rate, collateral, documents, and repayment schedule.          |
+| **Compare credit sources** | Distinguish formal and informal sources of credit.                             |
+| **Explain RBI role**       | Show how RBI supervises banks and protects the formal credit system.           |
+| **Explain SHGs**           | Describe how self-help groups reduce the collateral problem and support women. |
+| **Write exam answers**     | Use example, term, consequence, and development link in answers.               |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Money** | Anything widely accepted as payment for goods, services, or debt. |
-| **Medium of exchange** | Something used as an intermediate in buying and selling. |
-| **Barter system** | Direct exchange of goods and services without money. |
-| **Double coincidence of wants** | Situation where two parties must want exactly what the other offers in exchange. |
-| **Currency** | Paper notes and coins authorised by the government as legal money. |
-| **Legal tender** | Money that cannot legally be refused for settling transactions in a country. |
-| **Reserve Bank of India (RBI)** | India's central bank that issues currency notes and supervises formal banking activities. |
-| **Bank deposit** | Money kept by people in bank accounts. |
-| **Demand deposit** | Bank deposit that can be withdrawn on demand. |
-| **Cheque** | Paper instruction to a bank to pay a specific amount from one account to another person or account. |
-| **Credit / Loan** | Agreement where a lender gives money, goods, or services now in return for future repayment. |
-| **Borrower** | Person who receives a loan. |
-| **Lender** | Person or institution that gives a loan. |
-| **Interest** | Extra amount paid by borrower to lender for using borrowed money. |
-| **Principal** | Original amount borrowed. |
-| **Collateral** | Asset pledged as security for a loan, such as land, house, livestock, vehicle, or bank deposit. |
-| **Terms of credit** | Conditions of a loan: interest rate, collateral, documents, repayment schedule, and mode of repayment. |
-| **Debt trap** | Situation where borrower is unable to repay and has to borrow again or lose assets. |
-| **Formal credit** | Loans from banks and cooperatives, supervised by RBI or formal rules. |
-| **Informal credit** | Loans from moneylenders, traders, employers, relatives, and friends, usually without formal supervision. |
-| **Self-Help Group (SHG)** | Small group, usually 15-20 members, that pools savings and provides loans to members. |
+| Term                            | Meaning                                                                                                  |
+| ------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| **Money**                       | Anything widely accepted as payment for goods, services, or debt.                                        |
+| **Medium of exchange**          | Something used as an intermediate in buying and selling.                                                 |
+| **Barter system**               | Direct exchange of goods and services without money.                                                     |
+| **Double coincidence of wants** | Situation where two parties must want exactly what the other offers in exchange.                         |
+| **Currency**                    | Paper notes and coins authorised by the government as legal money.                                       |
+| **Legal tender**                | Money that cannot legally be refused for settling transactions in a country.                             |
+| **Reserve Bank of India (RBI)** | India's central bank that issues currency notes and supervises formal banking activities.                |
+| **Bank deposit**                | Money kept by people in bank accounts.                                                                   |
+| **Demand deposit**              | Bank deposit that can be withdrawn on demand.                                                            |
+| **Cheque**                      | Paper instruction to a bank to pay a specific amount from one account to another person or account.      |
+| **Credit / Loan**               | Agreement where a lender gives money, goods, or services now in return for future repayment.             |
+| **Borrower**                    | Person who receives a loan.                                                                              |
+| **Lender**                      | Person or institution that gives a loan.                                                                 |
+| **Interest**                    | Extra amount paid by borrower to lender for using borrowed money.                                        |
+| **Principal**                   | Original amount borrowed.                                                                                |
+| **Collateral**                  | Asset pledged as security for a loan, such as land, house, livestock, vehicle, or bank deposit.          |
+| **Terms of credit**             | Conditions of a loan: interest rate, collateral, documents, repayment schedule, and mode of repayment.   |
+| **Debt trap**                   | Situation where borrower is unable to repay and has to borrow again or lose assets.                      |
+| **Formal credit**               | Loans from banks and cooperatives, supervised by RBI or formal rules.                                    |
+| **Informal credit**             | Loans from moneylenders, traders, employers, relatives, and friends, usually without formal supervision. |
+| **Self-Help Group (SHG)**       | Small group, usually 15-20 members, that pools savings and provides loans to members.                    |
 
 ---
 
@@ -135,22 +136,22 @@ Now the shoe manufacturer does not need to find a wheat farmer who wants shoes.
 
 Money acts as an intermediate in the exchange process.
 
-| Without Money | With Money |
-|---|---|
-| Goods must be exchanged directly. | Goods can be sold for money. |
+| Without Money                            | With Money                          |
+| ---------------------------------------- | ----------------------------------- |
+| Goods must be exchanged directly.        | Goods can be sold for money.        |
 | Double coincidence of wants is required. | Double coincidence is not required. |
-| Exchange is difficult. | Exchange becomes easier. |
-| Market is limited. | Market expands. |
+| Exchange is difficult.                   | Exchange becomes easier.            |
+| Market is limited.                       | Market expands.                     |
 
 ## Everyday Examples
 
-| Situation | Role of Money |
-|---|---|
-| Buying vegetables | Buyer gives money instead of another good. |
-| Paying school fees | Service is exchanged for money. |
-| Paying wages | Labour is exchanged for money. |
-| Buying a bus ticket | Transport service is paid through money. |
-| Online payment | Bank deposit is transferred as money. |
+| Situation           | Role of Money                              |
+| ------------------- | ------------------------------------------ |
+| Buying vegetables   | Buyer gives money instead of another good. |
+| Paying school fees  | Service is exchanged for money.            |
+| Paying wages        | Labour is exchanged for money.             |
+| Buying a bus ticket | Transport service is paid through money.   |
+| Online payment      | Bank deposit is transferred as money.      |
 
 ---
 
@@ -215,9 +216,9 @@ The transaction is completed without cash.
 
 Modern money includes:
 
-| Form | Why It Counts as Money |
-|---|---|
-| Currency | Legal tender used directly for payment. |
+| Form            | Why It Counts as Money                       |
+| --------------- | -------------------------------------------- |
+| Currency        | Legal tender used directly for payment.      |
 | Demand deposits | Can be withdrawn or transferred for payment. |
 
 ---
@@ -238,13 +239,13 @@ Advantages:
 
 ## Demand Deposit Flow
 
-| Step | What Happens |
-|---|---|
-| 1 | Person opens bank account. |
-| 2 | Person deposits money. |
-| 3 | Bank records deposit. |
-| 4 | Person can withdraw money on demand. |
-| 5 | Person can make payments by cheque, card, or digital transfer. |
+| Step | What Happens                                                   |
+| ---- | -------------------------------------------------------------- |
+| 1    | Person opens bank account.                                     |
+| 2    | Person deposits money.                                         |
+| 3    | Bank records deposit.                                          |
+| 4    | Person can withdraw money on demand.                           |
+| 5    | Person can make payments by cheque, card, or digital transfer. |
 
 ## What If All Depositors Withdraw Together?
 
@@ -283,11 +284,11 @@ This difference is the main source of income for banks.
 
 ## Flow of Banking Activity
 
-| Depositors | Bank | Borrowers |
-|---|---|---|
-| Deposit surplus money. | Keeps some cash reserve. | Take loans for production, business, housing, education, farming, etc. |
-| Earn interest. | Lends major share of deposits. | Repay loan with interest. |
-| Withdraw when needed. | Earns from interest difference. | Use credit for economic activity. |
+| Depositors             | Bank                            | Borrowers                                                              |
+| ---------------------- | ------------------------------- | ---------------------------------------------------------------------- |
+| Deposit surplus money. | Keeps some cash reserve.        | Take loans for production, business, housing, education, farming, etc. |
+| Earn interest.         | Lends major share of deposits.  | Repay loan with interest.                                              |
+| Withdraw when needed.  | Earns from interest difference. | Use credit for economic activity.                                      |
 
 ---
 
@@ -321,12 +322,12 @@ He completes production, earns profit, and repays the loan.
 
 ## Why Credit Helped Salim
 
-| Factor | Explanation |
-|---|---|
-| Purpose | Productive use: working capital for production. |
-| Demand | He already had an order. |
-| Repayment source | Sale of shoes. |
-| Outcome | Higher income and business growth. |
+| Factor           | Explanation                                     |
+| ---------------- | ----------------------------------------------- |
+| Purpose          | Productive use: working capital for production. |
+| Demand           | He already had an order.                        |
+| Repayment source | Sale of shoes.                                  |
+| Outcome          | Higher income and business growth.              |
 
 ## Swapna's Credit Situation
 
@@ -343,22 +344,22 @@ Risk:
 
 ## Why Credit Harmed Swapna
 
-| Factor | Explanation |
-|---|---|
-| Purpose | Crop production, but dependent on uncertain harvest. |
-| Risk | Pest attack and crop failure. |
-| Lender | Moneylender likely charges high interest. |
-| Repayment source | Farming income, which failed. |
-| Outcome | Debt trap and loss of land. |
+| Factor           | Explanation                                          |
+| ---------------- | ---------------------------------------------------- |
+| Purpose          | Crop production, but dependent on uncertain harvest. |
+| Risk             | Pest attack and crop failure.                        |
+| Lender           | Moneylender likely charges high interest.            |
+| Repayment source | Farming income, which failed.                        |
+| Outcome          | Debt trap and loss of land.                          |
 
 ## Key Comparison
 
-| Question | Salim | Swapna |
-|---|---|---|
-| Why need credit? | To complete a large order. | To pay cultivation expenses. |
-| Risk | Production delay or failure to deliver. | Crop failure, pests, climate, high interest. |
-| Outcome | Profit and repayment. | Debt trap and land sale. |
-| Role of credit | Positive. | Harmful due to risk and terms. |
+| Question         | Salim                                   | Swapna                                       |
+| ---------------- | --------------------------------------- | -------------------------------------------- |
+| Why need credit? | To complete a large order.              | To pay cultivation expenses.                 |
+| Risk             | Production delay or failure to deliver. | Crop failure, pests, climate, high interest. |
+| Outcome          | Profit and repayment.                   | Debt trap and land sale.                     |
+| Role of credit   | Positive.                               | Harmful due to risk and terms.               |
 
 ## Exam Conclusion
 
@@ -374,13 +375,13 @@ Terms of credit are the conditions under which a loan is given.
 
 ## Main Terms
 
-| Term | Meaning |
-|---|---|
-| **Interest rate** | Extra amount paid for borrowing money. |
-| **Collateral** | Asset pledged as security. |
-| **Documentation** | Papers proving income, identity, employment, land, house, or business. |
-| **Repayment schedule** | Time and method for returning principal and interest. |
-| **Mode of repayment** | Cash, instalments, crop sale, wage work, bank transfer, etc. |
+| Term                   | Meaning                                                                |
+| ---------------------- | ---------------------------------------------------------------------- |
+| **Interest rate**      | Extra amount paid for borrowing money.                                 |
+| **Collateral**         | Asset pledged as security.                                             |
+| **Documentation**      | Papers proving income, identity, employment, land, house, or business. |
+| **Repayment schedule** | Time and method for returning principal and interest.                  |
+| **Mode of repayment**  | Cash, instalments, crop sale, wage work, bank transfer, etc.           |
 
 ## Collateral
 
@@ -413,13 +414,13 @@ Terms:
 
 Good credit terms can help borrowers. Bad terms can trap them.
 
-| Favourable Terms | Unfavourable Terms |
-|---|---|
-| Low interest. | High interest. |
-| Flexible repayment. | Harsh repayment. |
-| Fair collateral demand. | Excessive collateral. |
-| Written records. | No proper records. |
-| Legal protection. | Harassment or forced sale. |
+| Favourable Terms        | Unfavourable Terms         |
+| ----------------------- | -------------------------- |
+| Low interest.           | High interest.             |
+| Flexible repayment.     | Harsh repayment.           |
+| Fair collateral demand. | Excessive collateral.      |
+| Written records.        | No proper records.         |
+| Legal protection.       | Harassment or forced sale. |
 
 ---
 
@@ -528,15 +529,15 @@ They are usually not supervised by a formal authority.
 
 ## Comparison Table
 
-| Basis | Formal Credit | Informal Credit |
-|---|---|---|
-| Sources | Banks, cooperatives. | Moneylenders, traders, employers, relatives, friends. |
-| Supervision | RBI or formal rules. | No regular supervision. |
-| Interest rate | Usually lower. | Often very high. |
-| Records | Written documents. | Often informal or no records. |
-| Collateral | Often required. | May or may not be required. |
-| Access for poor | Difficult without documents/collateral. | Easier but costly. |
-| Risk | Safer and regulated. | Can lead to exploitation and debt trap. |
+| Basis           | Formal Credit                           | Informal Credit                                       |
+| --------------- | --------------------------------------- | ----------------------------------------------------- |
+| Sources         | Banks, cooperatives.                    | Moneylenders, traders, employers, relatives, friends. |
+| Supervision     | RBI or formal rules.                    | No regular supervision.                               |
+| Interest rate   | Usually lower.                          | Often very high.                                      |
+| Records         | Written documents.                      | Often informal or no records.                         |
+| Collateral      | Often required.                         | May or may not be required.                           |
+| Access for poor | Difficult without documents/collateral. | Easier but costly.                                    |
+| Risk            | Safer and regulated.                    | Can lead to exploitation and debt trap.               |
 
 ## Rural Credit Data
 
@@ -598,12 +599,12 @@ Poor households often lack these, so they depend on informal lenders.
 
 NCERT shows that:
 
-| Household Group | Informal Credit Share | Formal Credit Share |
-|---|---:|---:|
-| Poor households | 85% | 15% |
-| Households with few assets | 72% | 28% |
-| Well-off households | 53% | 47% |
-| Rich households | 10% | 90% |
+| Household Group            | Informal Credit Share | Formal Credit Share |
+| -------------------------- | --------------------: | ------------------: |
+| Poor households            |                   85% |                 15% |
+| Households with few assets |                   72% |                 28% |
+| Well-off households        |                   53% |                 47% |
+| Rich households            |                   10% |                 90% |
 
 ## What This Shows
 
@@ -647,15 +648,15 @@ A typical SHG has:
 
 ## How SHGs Work
 
-| Step | Explanation |
-|---|---|
-| 1 | Members save regularly, such as Rs 25 to Rs 100 or more. |
-| 2 | Savings are pooled. |
-| 3 | Members take small loans from the group. |
-| 4 | Group decides purpose, amount, interest, and repayment schedule. |
-| 5 | After regular savings for a year or two, SHG may get a bank loan. |
-| 6 | Bank lends to the group, not just an individual. |
-| 7 | Group ensures repayment through collective responsibility. |
+| Step | Explanation                                                       |
+| ---- | ----------------------------------------------------------------- |
+| 1    | Members save regularly, such as Rs 25 to Rs 100 or more.          |
+| 2    | Savings are pooled.                                               |
+| 3    | Members take small loans from the group.                          |
+| 4    | Group decides purpose, amount, interest, and repayment schedule.  |
+| 5    | After regular savings for a year or two, SHG may get a bank loan. |
+| 6    | Bank lends to the group, not just an individual.                  |
+| 7    | Group ensures repayment through collective responsibility.        |
 
 ## Uses of SHG Loans
 
@@ -682,14 +683,14 @@ Banks trust SHGs because:
 
 ## Benefits of SHGs
 
-| Benefit | Explanation |
-|---|---|
-| **Credit access** | Poor people get loans without traditional collateral. |
-| **Lower interest** | Interest is usually lower than moneylender rates. |
-| **Women empowerment** | Women become financially active and self-reliant. |
+| Benefit                 | Explanation                                                              |
+| ----------------------- | ------------------------------------------------------------------------ |
+| **Credit access**       | Poor people get loans without traditional collateral.                    |
+| **Lower interest**      | Interest is usually lower than moneylender rates.                        |
+| **Women empowerment**   | Women become financially active and self-reliant.                        |
 | **Collective strength** | Members discuss health, nutrition, domestic violence, and social issues. |
-| **Self-employment** | Loans help start income-generating work. |
-| **Reduced dependence** | Poor borrowers depend less on moneylenders. |
+| **Self-employment**     | Loans help start income-generating work.                                 |
+| **Reduced dependence**  | Poor borrowers depend less on moneylenders.                              |
 
 ## Grameen Bank Example
 
@@ -711,19 +712,19 @@ Use this structure:
 
 ## High-Value Examples
 
-| Example | Use It To Explain |
-|---|---|
-| Shoe manufacturer and wheat farmer | Double coincidence of wants. |
-| Rupee authorised by government | Legal tender and currency. |
-| Salim's cheque | Demand deposits and cheque payments. |
-| Banks keeping 15% cash | Loan activity of banks. |
-| Salim's business credit | Credit helping production. |
-| Swapna's crop failure | Debt trap. |
-| Megha's house loan | Collateral and terms of credit. |
-| Arun in Sonpur | Formal credit improving income. |
-| Rama in Sonpur | Informal credit causing dependence. |
-| Poor urban households | Informal credit dependence. |
-| SHGs | Collateral-free group-based credit. |
+| Example                            | Use It To Explain                    |
+| ---------------------------------- | ------------------------------------ |
+| Shoe manufacturer and wheat farmer | Double coincidence of wants.         |
+| Rupee authorised by government     | Legal tender and currency.           |
+| Salim's cheque                     | Demand deposits and cheque payments. |
+| Banks keeping 15% cash             | Loan activity of banks.              |
+| Salim's business credit            | Credit helping production.           |
+| Swapna's crop failure              | Debt trap.                           |
+| Megha's house loan                 | Collateral and terms of credit.      |
+| Arun in Sonpur                     | Formal credit improving income.      |
+| Rama in Sonpur                     | Informal credit causing dependence.  |
+| Poor urban households              | Informal credit dependence.          |
+| SHGs                               | Collateral-free group-based credit.  |
 
 ---
 
@@ -806,44 +807,44 @@ If he has documents and collateral, a bank is better because interest is lower a
 
 ### 13. Multiple choice
 
-| Question | Correct Answer |
-|---|---|
-| In SHG, decisions about savings and loans are taken by | Members |
-| Formal sources of credit do not include | Employers |
+| Question                                               | Correct Answer |
+| ------------------------------------------------------ | -------------- |
+| In SHG, decisions about savings and loans are taken by | Members        |
+| Formal sources of credit do not include                | Employers      |
 
 ---
 
 ## Quick Revision
 
-| Question | One-Line Recall |
-|---|---|
-| What is money? | A medium of exchange accepted for payments. |
-| What is double coincidence of wants? | Both parties must want exactly what the other offers. |
-| Why is rupee accepted? | It is authorised by government and legalised by law. |
-| What are demand deposits? | Bank deposits withdrawable on demand. |
-| Why are demand deposits money? | They can be used for payment by cheque or transfer. |
-| What do banks do with deposits? | Keep some cash and lend the rest. |
-| What is credit? | Loan given now against future repayment. |
-| What is collateral? | Asset pledged as loan security. |
-| What is debt trap? | Borrower cannot repay and debt keeps increasing. |
-| What is formal credit? | Bank/cooperative loans under supervision. |
-| What is informal credit? | Loans from moneylenders, traders, employers, relatives, friends. |
-| Why are SHGs useful? | They help poor borrowers get credit without individual collateral. |
+| Question                             | One-Line Recall                                                    |
+| ------------------------------------ | ------------------------------------------------------------------ |
+| What is money?                       | A medium of exchange accepted for payments.                        |
+| What is double coincidence of wants? | Both parties must want exactly what the other offers.              |
+| Why is rupee accepted?               | It is authorised by government and legalised by law.               |
+| What are demand deposits?            | Bank deposits withdrawable on demand.                              |
+| Why are demand deposits money?       | They can be used for payment by cheque or transfer.                |
+| What do banks do with deposits?      | Keep some cash and lend the rest.                                  |
+| What is credit?                      | Loan given now against future repayment.                           |
+| What is collateral?                  | Asset pledged as loan security.                                    |
+| What is debt trap?                   | Borrower cannot repay and debt keeps increasing.                   |
+| What is formal credit?               | Bank/cooperative loans under supervision.                          |
+| What is informal credit?             | Loans from moneylenders, traders, employers, relatives, friends.   |
+| Why are SHGs useful?                 | They help poor borrowers get credit without individual collateral. |
 
 ---
 
 ## Practice Questions
 
-| Question | Strong Answer Shape |
-|---|---|
-| How does money solve barter problems? | Define barter -> double coincidence -> money as intermediate -> example. |
-| Why are demand deposits considered money? | Withdrawable on demand -> cheque/digital payment -> accepted for transactions. |
-| Explain loan activities of banks. | Deposits -> cash reserve -> loans -> interest difference -> mediation. |
-| Compare Salim and Swapna's credit situations. | Purpose -> risk -> terms -> outcome -> credit can help or harm. |
-| What are terms of credit? | Interest, collateral, documents, repayment -> example. |
-| Formal vs informal credit. | Sources -> supervision -> interest -> risk -> need for formal expansion. |
-| Why do poor depend on informal credit? | Lack collateral/documents -> banks difficult -> moneylenders accessible but costly. |
-| How do SHGs help poor women? | Savings -> group loans -> bank linkage -> no collateral -> empowerment. |
+| Question                                      | Strong Answer Shape                                                                 |
+| --------------------------------------------- | ----------------------------------------------------------------------------------- |
+| How does money solve barter problems?         | Define barter -> double coincidence -> money as intermediate -> example.            |
+| Why are demand deposits considered money?     | Withdrawable on demand -> cheque/digital payment -> accepted for transactions.      |
+| Explain loan activities of banks.             | Deposits -> cash reserve -> loans -> interest difference -> mediation.              |
+| Compare Salim and Swapna's credit situations. | Purpose -> risk -> terms -> outcome -> credit can help or harm.                     |
+| What are terms of credit?                     | Interest, collateral, documents, repayment -> example.                              |
+| Formal vs informal credit.                    | Sources -> supervision -> interest -> risk -> need for formal expansion.            |
+| Why do poor depend on informal credit?        | Lack collateral/documents -> banks difficult -> moneylenders accessible but costly. |
+| How do SHGs help poor women?                  | Savings -> group loans -> bank linkage -> no collateral -> empowerment.             |
 
 ---
 

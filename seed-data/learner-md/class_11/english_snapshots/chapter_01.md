@@ -4,17 +4,17 @@
 
 ### Text And Chapter Identity
 
-| Item | Details |
-|---|---|
-| Class | 11 |
-| Book | English Snapshots |
-| Chapter | 1 |
-| Title | The Summer of the Beautiful White Horse |
-| Author | William Saroyan |
-| Genre | Short story |
-| Core concern | Childhood desire tested against family honor and moral truth |
-| Main characters | Aram, Mourad, John Byro, Uncle Khosrove |
-| Setting | An Armenian immigrant community in California, with farms, vineyards, roads, barns, and family homes |
+| Item            | Details                                                                                              |
+| --------------- | ---------------------------------------------------------------------------------------------------- |
+| Class           | 11                                                                                                   |
+| Book            | English Snapshots                                                                                    |
+| Chapter         | 1                                                                                                    |
+| Title           | The Summer of the Beautiful White Horse                                                              |
+| Author          | William Saroyan                                                                                      |
+| Genre           | Short story                                                                                          |
+| Core concern    | Childhood desire tested against family honor and moral truth                                         |
+| Main characters | Aram, Mourad, John Byro, Uncle Khosrove                                                              |
+| Setting         | An Armenian immigrant community in California, with farms, vineyards, roads, barns, and family homes |
 
 ### How To Use This Guide
 
@@ -24,13 +24,13 @@ The surface plot is simple: two boys ride a white horse that does not belong to 
 
 For strong answers, always connect events to values:
 
-| Event | Value tested |
-|---|---|
-| Mourad arrives with the horse | Desire versus honesty |
-| Aram agrees to ride | Innocence mixed with self-deception |
-| John Byro visits | Personal joy versus another person's loss |
-| The boys meet John Byro on the road | Trust as a moral mirror |
-| The horse is returned | Conscience and family honor restored |
+| Event                               | Value tested                              |
+| ----------------------------------- | ----------------------------------------- |
+| Mourad arrives with the horse       | Desire versus honesty                     |
+| Aram agrees to ride                 | Innocence mixed with self-deception       |
+| John Byro visits                    | Personal joy versus another person's loss |
+| The boys meet John Byro on the road | Trust as a moral mirror                   |
+| The horse is returned               | Conscience and family honor restored      |
 
 ## Learning Goals
 
@@ -71,13 +71,13 @@ The story begins as a memory. Aram looks back at childhood as a time when the wo
 
 Aram is not describing events like a police report. He is remembering how the world felt to him:
 
-| Childhood feeling | Effect on the story |
-|---|---|
-| Wonder | The horse appears almost magical |
-| Longing | Aram's desire to ride feels intense |
-| Innocence | He tries to explain away wrongdoing |
-| Confusion | He cannot fully separate adventure from theft |
-| Admiration | He sees Mourad as wild, free, and gifted |
+| Childhood feeling | Effect on the story                           |
+| ----------------- | --------------------------------------------- |
+| Wonder            | The horse appears almost magical              |
+| Longing           | Aram's desire to ride feels intense           |
+| Innocence         | He tries to explain away wrongdoing           |
+| Confusion         | He cannot fully separate adventure from theft |
+| Admiration        | He sees Mourad as wild, free, and gifted      |
 
 ### Stage 2: The White Horse Appears
 
@@ -87,12 +87,12 @@ The horse is not merely an animal in the plot. It represents freedom, beauty, ch
 
 Aram immediately understands the problem:
 
-| Fact | Meaning |
-|---|---|
-| His family is poor | Mourad could not have bought the horse |
-| The horse is valuable | It must belong to someone else |
-| The family is famous for honesty | Theft seems impossible |
-| Aram loves horses | Desire makes him bend his reasoning |
+| Fact                             | Meaning                                |
+| -------------------------------- | -------------------------------------- |
+| His family is poor               | Mourad could not have bought the horse |
+| The horse is valuable            | It must belong to someone else         |
+| The family is famous for honesty | Theft seems impossible                 |
+| Aram loves horses                | Desire makes him bend his reasoning    |
 
 This is the first major moral conflict of the story.
 
@@ -115,12 +115,12 @@ The ride is full of delight. Mourad is confident, energetic, and in control. He 
 
 However, the ride also exposes the difference between the cousins:
 
-| Mourad | Aram |
-|---|---|
-| Bold | Hesitant |
-| Experienced with the horse | Inexperienced |
-| Physically confident | Easily frightened |
-| Makes decisions quickly | Thinks and questions |
+| Mourad                             | Aram                     |
+| ---------------------------------- | ------------------------ |
+| Bold                               | Hesitant                 |
+| Experienced with the horse         | Inexperienced            |
+| Physically confident               | Easily frightened        |
+| Makes decisions quickly            | Thinks and questions     |
 | Claims a special bond with animals | Wants to learn that bond |
 
 When Aram rides alone, the horse throws him off. This moment is comic, but it also teaches a lesson: desire is not the same as mastery. Aram wants the joy of riding, but he does not yet have the discipline or skill needed for it.
@@ -131,12 +131,12 @@ After the ride, the boys hide the horse in a deserted barn. This makes the wrong
 
 The hiding place is symbolically useful:
 
-| Place | Symbolic meaning |
-|---|---|
-| Deserted vineyard | A place outside normal social rules |
-| Barn | Hidden guilt |
-| Early morning rides | Secret pleasure |
-| Roads and fields | Freedom without full responsibility |
+| Place               | Symbolic meaning                    |
+| ------------------- | ----------------------------------- |
+| Deserted vineyard   | A place outside normal social rules |
+| Barn                | Hidden guilt                        |
+| Early morning rides | Secret pleasure                     |
+| Roads and fields    | Freedom without full responsibility |
 
 The boys are living in two worlds. At home, they belong to an honest family. In the barn, they maintain a secret that contradicts that reputation.
 
@@ -164,12 +164,12 @@ The bird scene helps us understand why Mourad cannot be seen as simply bad. He i
 
 The bird also parallels the horse:
 
-| Bird | Horse |
-|---|---|
-| Injured and needing care | Taken and needing return |
+| Bird                       | Horse                               |
+| -------------------------- | ----------------------------------- |
+| Injured and needing care   | Taken and needing return            |
 | Mourad handles it tenderly | Mourad claims understanding with it |
-| Released into the air | Returned to its rightful place |
-| Symbol of freedom | Symbol of freedom and temptation |
+| Released into the air      | Returned to its rightful place      |
+| Symbol of freedom          | Symbol of freedom and temptation    |
 
 ### Stage 9: Meeting John Byro On The Road
 
@@ -201,14 +201,14 @@ Aram is the narrator and the moral lens of the story. He is nine years old durin
 
 Key traits:
 
-| Trait | Evidence from the story | Importance |
-|---|---|---|
-| Innocent | He sees the world as full of wonder | Creates the nostalgic tone |
-| Imaginative | He turns the horse into a dreamlike event | Makes the story emotionally rich |
-| Honest at heart | He knows the situation is morally troubling | Shows conscience |
-| Easily tempted | He joins Mourad because he longs to ride | Makes him human and believable |
-| Reflective | He thinks about poverty, honesty, and family name | Gives depth to the narration |
-| Less bold than Mourad | He cannot control the horse | Creates contrast |
+| Trait                 | Evidence from the story                           | Importance                       |
+| --------------------- | ------------------------------------------------- | -------------------------------- |
+| Innocent              | He sees the world as full of wonder               | Creates the nostalgic tone       |
+| Imaginative           | He turns the horse into a dreamlike event         | Makes the story emotionally rich |
+| Honest at heart       | He knows the situation is morally troubling       | Shows conscience                 |
+| Easily tempted        | He joins Mourad because he longs to ride          | Makes him human and believable   |
+| Reflective            | He thinks about poverty, honesty, and family name | Gives depth to the narration     |
+| Less bold than Mourad | He cannot control the horse                       | Creates contrast                 |
 
 Aram is important because he shows how a basically good child can participate in wrongdoing through desire and rationalization.
 
@@ -218,14 +218,14 @@ Mourad is one of the most memorable figures in the story. He is considered eccen
 
 Key traits:
 
-| Trait | Evidence from the story | Importance |
-|---|---|---|
-| Adventurous | He takes the horse and rides at dawn | Drives the plot |
-| Confident | He handles the horse skillfully | Makes Aram admire him |
-| Affectionate toward animals | He understands the horse and cares for a bird | Softens his character |
-| Humorous | He speaks with bold confidence | Adds liveliness |
-| Morally unusual | He does wrong but denies being a thief | Creates the central irony |
-| Loyal to family honor | He eventually returns the horse | Shows conscience |
+| Trait                       | Evidence from the story                       | Importance                |
+| --------------------------- | --------------------------------------------- | ------------------------- |
+| Adventurous                 | He takes the horse and rides at dawn          | Drives the plot           |
+| Confident                   | He handles the horse skillfully               | Makes Aram admire him     |
+| Affectionate toward animals | He understands the horse and cares for a bird | Softens his character     |
+| Humorous                    | He speaks with bold confidence                | Adds liveliness           |
+| Morally unusual             | He does wrong but denies being a thief        | Creates the central irony |
+| Loyal to family honor       | He eventually returns the horse               | Shows conscience          |
 
 Mourad should not be described as a simple thief. He has taken the horse wrongly, but his intention is not greed. His mistake comes from passion, freedom, and childish entitlement. Still, the story does not excuse the act; it shows how he is brought back to moral responsibility.
 
@@ -235,13 +235,13 @@ John Byro is the owner of the horse. He is an Assyrian farmer who has learned Ar
 
 Key traits:
 
-| Trait | Evidence from the story | Importance |
-|---|---|---|
-| Practical | He needs the horse for his surrey | Makes the loss real |
-| Patient | He does not explode in anger | Shows maturity |
-| Observant | He recognizes the horse | Builds tension |
-| Trusting | He refuses to accuse the boys openly | Creates the turning point |
-| Wise | He lets conscience work | Resolves the conflict indirectly |
+| Trait     | Evidence from the story              | Importance                       |
+| --------- | ------------------------------------ | -------------------------------- |
+| Practical | He needs the horse for his surrey    | Makes the loss real              |
+| Patient   | He does not explode in anger         | Shows maturity                   |
+| Observant | He recognizes the horse              | Builds tension                   |
+| Trusting  | He refuses to accuse the boys openly | Creates the turning point        |
+| Wise      | He lets conscience work              | Resolves the conflict indirectly |
 
 John Byro's trust saves the boys from public shame while also making them feel morally accountable. He is one of the quiet moral centers of the story.
 
@@ -251,12 +251,12 @@ Uncle Khosrove is loud, impatient, and comic. He dismisses problems in a dramati
 
 Key traits:
 
-| Trait | Evidence from the story | Importance |
-|---|---|---|
-| Short-tempered | He interrupts and roars | Adds humour |
-| Dismissive | He minimizes serious problems | Creates comic contrast |
-| Homesick | His anger is linked to lost homeland | Adds depth |
-| Emotionally large | His presence fills scenes | Makes the family vivid |
+| Trait             | Evidence from the story              | Importance             |
+| ----------------- | ------------------------------------ | ---------------------- |
+| Short-tempered    | He interrupts and roars              | Adds humour            |
+| Dismissive        | He minimizes serious problems        | Creates comic contrast |
+| Homesick          | His anger is linked to lost homeland | Adds depth             |
+| Emotionally large | His presence fills scenes            | Makes the family vivid |
 
 Khosrove reflects the older generation's history of displacement. The young boys worry about a horse; Khosrove thinks in terms of homeland and permanent loss.
 
@@ -308,12 +308,12 @@ This makes conscience the main force of the story.
 
 Conscience appears through:
 
-| Moment | Effect |
-|---|---|
+| Moment                        | Effect                      |
+| ----------------------------- | --------------------------- |
 | Aram's doubt at the beginning | He knows something is wrong |
-| John Byro's complaint | The loss becomes real |
-| John Byro's trust | The boys feel morally seen |
-| The return of the horse | Conscience becomes action |
+| John Byro's complaint         | The loss becomes real       |
+| John Byro's trust             | The boys feel morally seen  |
+| The return of the horse       | Conscience becomes action   |
 
 ### 5. Trust
 
@@ -331,23 +331,23 @@ The boys mature when they understand that joy cannot be built on another person'
 
 The story avoids simple labels.
 
-| Character | Simple label | Deeper truth |
-|---|---|---|
-| Mourad | Thief | A wild child with conscience and tenderness |
-| Aram | Innocent boy | Innocent but capable of self-deception |
-| Khosrove | Angry man | Comic, wounded, homesick, and gentle inside |
-| John Byro | Victim | Patient, observant, and morally wise |
+| Character | Simple label | Deeper truth                                |
+| --------- | ------------ | ------------------------------------------- |
+| Mourad    | Thief        | A wild child with conscience and tenderness |
+| Aram      | Innocent boy | Innocent but capable of self-deception      |
+| Khosrove  | Angry man    | Comic, wounded, homesick, and gentle inside |
+| John Byro | Victim       | Patient, observant, and morally wise        |
 
 ## Title Analysis
 
 The title combines season, beauty, and animal imagery.
 
-| Word or phrase | Meaning |
-|---|---|
-| Summer | Childhood freedom, warmth, openness, long days |
-| Beautiful | The horse's physical grace and emotional appeal |
-| White | Purity, innocence, moral contrast, visibility |
-| Horse | Freedom, desire, movement, temptation |
+| Word or phrase | Meaning                                         |
+| -------------- | ----------------------------------------------- |
+| Summer         | Childhood freedom, warmth, openness, long days  |
+| Beautiful      | The horse's physical grace and emotional appeal |
+| White          | Purity, innocence, moral contrast, visibility   |
+| Horse          | Freedom, desire, movement, temptation           |
 
 The title does not say "The Stolen Horse". That is important. The story is not framed as a crime story. It is framed as a memory of beauty, temptation, and moral growth.
 
@@ -386,13 +386,13 @@ The injured bird shows Mourad's tenderness. Its release into the air mirrors the
 
 ### Aram And Mourad
 
-| Aram | Mourad |
-|---|---|
-| Narrator | Doer |
-| Reflective | Impulsive |
-| Nervous | Bold |
-| Wants to ride | Already rides well |
-| Questions morality | Redefines morality |
+| Aram                       | Mourad                                  |
+| -------------------------- | --------------------------------------- |
+| Narrator                   | Doer                                    |
+| Reflective                 | Impulsive                               |
+| Nervous                    | Bold                                    |
+| Wants to ride              | Already rides well                      |
+| Questions morality         | Redefines morality                      |
 | Learns through observation | Learns through confrontation with trust |
 
 ### Poverty And Honor
@@ -436,12 +436,12 @@ The story is told by Aram. This creates intimacy. We see not only what happens b
 
 Advantages of first-person narration:
 
-| Advantage | Effect |
-|---|---|
-| Personal voice | Makes the memory vivid |
-| Inner conflict | Shows self-deception clearly |
+| Advantage             | Effect                              |
+| --------------------- | ----------------------------------- |
+| Personal voice        | Makes the memory vivid              |
+| Inner conflict        | Shows self-deception clearly        |
 | Limited understanding | Keeps the child's perspective alive |
-| Mature recollection | Adds gentle wisdom |
+| Mature recollection   | Adds gentle wisdom                  |
 
 ## Language Notes
 
@@ -781,18 +781,18 @@ If John Byro had punished them publicly, the story might have become a conflict 
 
 ## Vocabulary For Better Answers
 
-| Word | Meaning | Use in this chapter |
-|---|---|---|
-| Nostalgia | Warm memory of the past | The story begins with nostalgic childhood memory |
-| Conscience | Inner sense of right and wrong | The boys return the horse because of conscience |
-| Temptation | Desire to do something wrong | The horse tempts the boys |
-| Reputation | Public belief about someone's character | The family is known for honesty |
-| Dignity | Self-respect and moral worth | The poor family has dignity |
-| Impulsive | Acting without careful thought | Mourad behaves impulsively |
-| Restraint | Self-control | John Byro shows restraint |
-| Irony | Contrast between expectation and reality | An honest family has boys hiding a horse |
-| Compassion | Fellow feeling and kindness | Mourad shows compassion toward the bird |
-| Accountability | Responsibility for one's actions | The boys accept accountability by returning the horse |
+| Word           | Meaning                                  | Use in this chapter                                   |
+| -------------- | ---------------------------------------- | ----------------------------------------------------- |
+| Nostalgia      | Warm memory of the past                  | The story begins with nostalgic childhood memory      |
+| Conscience     | Inner sense of right and wrong           | The boys return the horse because of conscience       |
+| Temptation     | Desire to do something wrong             | The horse tempts the boys                             |
+| Reputation     | Public belief about someone's character  | The family is known for honesty                       |
+| Dignity        | Self-respect and moral worth             | The poor family has dignity                           |
+| Impulsive      | Acting without careful thought           | Mourad behaves impulsively                            |
+| Restraint      | Self-control                             | John Byro shows restraint                             |
+| Irony          | Contrast between expectation and reality | An honest family has boys hiding a horse              |
+| Compassion     | Fellow feeling and kindness              | Mourad shows compassion toward the bird               |
+| Accountability | Responsibility for one's actions         | The boys accept accountability by returning the horse |
 
 ## Quick Revision Sheet
 
@@ -820,22 +820,22 @@ Two Armenian boys secretly ride a stolen white horse, but return it after the ow
 
 ### Main Symbols
 
-| Symbol | Meaning |
-|---|---|
-| White horse | Freedom, beauty, temptation |
-| Dawn | Movement from secrecy toward truth |
-| Barn | Hidden guilt |
-| Road | Moral exposure |
-| Bird | Tenderness and release |
+| Symbol      | Meaning                            |
+| ----------- | ---------------------------------- |
+| White horse | Freedom, beauty, temptation        |
+| Dawn        | Movement from secrecy toward truth |
+| Barn        | Hidden guilt                       |
+| Road        | Moral exposure                     |
+| Bird        | Tenderness and release             |
 
 ### Character Keywords
 
-| Character | Keywords |
-|---|---|
-| Aram | Innocent, reflective, tempted, honest at heart |
-| Mourad | Adventurous, wild, tender, morally conflicted |
-| John Byro | Trusting, patient, observant, wise |
-| Khosrove | Loud, comic, homesick, emotionally intense |
+| Character | Keywords                                       |
+| --------- | ---------------------------------------------- |
+| Aram      | Innocent, reflective, tempted, honest at heart |
+| Mourad    | Adventurous, wild, tender, morally conflicted  |
+| John Byro | Trusting, patient, observant, wise             |
+| Khosrove  | Loud, comic, homesick, emotionally intense     |
 
 ## Final Takeaway
 

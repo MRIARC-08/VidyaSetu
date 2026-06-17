@@ -1,31 +1,32 @@
 # Chapter 2: Polynomials
+
 ### NCERT Class 10 - Maths
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 10 |
-| **Subject** | Maths |
-| **Chapter** | 2 |
-| **Core Theme** | Zeroes of polynomials, their graphical meaning, and relationships between zeroes and coefficients. |
-| **Main Skills** | Identifying degree, finding zeroes, reading graph intersections, factorising quadratics, verifying sum and product relations. |
-| **Important Result** | For `ax^2 + bx + c`, sum of zeroes is `-b/a` and product of zeroes is `c/a`. |
+| Detail               | Learner-Friendly Information                                                                                                  |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| **Class**            | 10                                                                                                                            |
+| **Subject**          | Maths                                                                                                                         |
+| **Chapter**          | 2                                                                                                                             |
+| **Core Theme**       | Zeroes of polynomials, their graphical meaning, and relationships between zeroes and coefficients.                            |
+| **Main Skills**      | Identifying degree, finding zeroes, reading graph intersections, factorising quadratics, verifying sum and product relations. |
+| **Important Result** | For `ax^2 + bx + c`, sum of zeroes is `-b/a` and product of zeroes is `c/a`.                                                  |
 
 ---
 
 ## Section Structure
 
-| Unit | Topic | Main Learning Focus |
-|---|---|---|
-| **2A** | Polynomial Basics | Degree, linear, quadratic, cubic polynomials. |
-| **2B** | Value and Zero of a Polynomial | Meaning of `p(k)` and zeroes. |
-| **2C** | Geometrical Meaning of Zeroes | Zeroes as x-intercepts of `y = p(x)`. |
-| **2D** | Quadratic Zeroes and Coefficients | Sum and product relations. |
-| **2E** | Cubic Zeroes and Coefficients | Optional relation for cubic polynomials. |
-| **2F** | Solved Exercises | Exercise 2.1 and 2.2 solutions. |
+| Unit   | Topic                             | Main Learning Focus                           |
+| ------ | --------------------------------- | --------------------------------------------- |
+| **2A** | Polynomial Basics                 | Degree, linear, quadratic, cubic polynomials. |
+| **2B** | Value and Zero of a Polynomial    | Meaning of `p(k)` and zeroes.                 |
+| **2C** | Geometrical Meaning of Zeroes     | Zeroes as x-intercepts of `y = p(x)`.         |
+| **2D** | Quadratic Zeroes and Coefficients | Sum and product relations.                    |
+| **2E** | Cubic Zeroes and Coefficients     | Optional relation for cubic polynomials.      |
+| **2F** | Solved Exercises                  | Exercise 2.1 and 2.2 solutions.               |
 
 ---
 
@@ -33,34 +34,34 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Identify polynomials** | Decide whether an expression is a polynomial in one variable. |
-| **Find degree** | Identify the highest power of the variable in a polynomial. |
-| **Classify polynomials** | Recognise linear, quadratic, and cubic polynomials. |
-| **Evaluate polynomial values** | Find `p(k)` by substituting `x = k`. |
-| **Find zeroes** | Solve `p(x) = 0` for linear and factorable quadratic polynomials. |
-| **Use graph meaning** | Count zeroes by counting x-axis intersections. |
-| **Use coefficient relations** | For quadratics, verify sum and product of zeroes. |
-| **Form quadratics** | Build a quadratic polynomial from sum and product of zeroes. |
+| Outcome                        | You Should Be Able To...                                          |
+| ------------------------------ | ----------------------------------------------------------------- |
+| **Identify polynomials**       | Decide whether an expression is a polynomial in one variable.     |
+| **Find degree**                | Identify the highest power of the variable in a polynomial.       |
+| **Classify polynomials**       | Recognise linear, quadratic, and cubic polynomials.               |
+| **Evaluate polynomial values** | Find `p(k)` by substituting `x = k`.                              |
+| **Find zeroes**                | Solve `p(x) = 0` for linear and factorable quadratic polynomials. |
+| **Use graph meaning**          | Count zeroes by counting x-axis intersections.                    |
+| **Use coefficient relations**  | For quadratics, verify sum and product of zeroes.                 |
+| **Form quadratics**            | Build a quadratic polynomial from sum and product of zeroes.      |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Polynomial** | Algebraic expression in which powers of the variable are non-negative integers. |
-| **Degree** | Highest power of the variable in the polynomial. |
-| **Linear polynomial** | Polynomial of degree 1. |
-| **Quadratic polynomial** | Polynomial of degree 2. |
-| **Cubic polynomial** | Polynomial of degree 3. |
-| **Value of polynomial** | Number obtained by substituting a value for the variable. |
-| **Zero of polynomial** | A real number `k` such that `p(k) = 0`. |
-| **x-intercept** | Point where a graph meets the x-axis. |
-| **Parabola** | Graph of a quadratic polynomial. |
-| **Coefficient** | Numerical factor multiplying a power of the variable. |
-| **Constant term** | Term independent of the variable. |
+| Term                     | Meaning                                                                         |
+| ------------------------ | ------------------------------------------------------------------------------- |
+| **Polynomial**           | Algebraic expression in which powers of the variable are non-negative integers. |
+| **Degree**               | Highest power of the variable in the polynomial.                                |
+| **Linear polynomial**    | Polynomial of degree 1.                                                         |
+| **Quadratic polynomial** | Polynomial of degree 2.                                                         |
+| **Cubic polynomial**     | Polynomial of degree 3.                                                         |
+| **Value of polynomial**  | Number obtained by substituting a value for the variable.                       |
+| **Zero of polynomial**   | A real number `k` such that `p(k) = 0`.                                         |
+| **x-intercept**          | Point where a graph meets the x-axis.                                           |
+| **Parabola**             | Graph of a quadratic polynomial.                                                |
+| **Coefficient**          | Numerical factor multiplying a power of the variable.                           |
+| **Constant term**        | Term independent of the variable.                                               |
 
 ---
 
@@ -144,14 +145,14 @@ A polynomial in one variable is an expression made from:
 
 Examples:
 
-| Expression | Polynomial? | Reason |
-|---|---|---|
-| `4x + 2` | Yes | Variable power is `1`. |
-| `2y^2 - 3y + 4` | Yes | Highest power is `2`. |
-| `5x^3 - 4x^2 + x - 2` | Yes | Powers are non-negative integers. |
-| `1/x` | No | Variable has power `-1`. |
-| `sqrt(x) + 2` | No | Variable has fractional power `1/2`. |
-| `x^2 + 3x + 2` | Yes | Polynomial of degree `2`. |
+| Expression            | Polynomial? | Reason                               |
+| --------------------- | ----------- | ------------------------------------ |
+| `4x + 2`              | Yes         | Variable power is `1`.               |
+| `2y^2 - 3y + 4`       | Yes         | Highest power is `2`.                |
+| `5x^3 - 4x^2 + x - 2` | Yes         | Powers are non-negative integers.    |
+| `1/x`                 | No          | Variable has power `-1`.             |
+| `sqrt(x) + 2`         | No          | Variable has fractional power `1/2`. |
+| `x^2 + 3x + 2`        | Yes         | Polynomial of degree `2`.            |
 
 ## Degree of a Polynomial
 
@@ -159,12 +160,12 @@ The degree of a polynomial is the highest power of the variable with non-zero co
 
 Examples:
 
-| Polynomial | Highest Power | Degree |
-|---|---:|---:|
-| `4x + 2` | `1` | 1 |
-| `2y^2 - 3y + 4` | `2` | 2 |
-| `5x^3 - 4x^2 + x - 2` | `3` | 3 |
-| `7u^6 - 4u^2 + u - 3` | `6` | 6 |
+| Polynomial            | Highest Power | Degree |
+| --------------------- | ------------: | -----: |
+| `4x + 2`              |           `1` |      1 |
+| `2y^2 - 3y + 4`       |           `2` |      2 |
+| `5x^3 - 4x^2 + x - 2` |           `3` |      3 |
+| `7u^6 - 4u^2 + u - 3` |           `6` |      6 |
 
 ## Linear Polynomial
 
@@ -390,20 +391,20 @@ $$
 
 the graph is a parabola.
 
-| Condition | Shape |
-|---|---|
-| `a > 0` | Opens upward. |
-| `a < 0` | Opens downward. |
+| Condition | Shape           |
+| --------- | --------------- |
+| `a > 0`   | Opens upward.   |
+| `a < 0`   | Opens downward. |
 
 ## Possible Zeroes of a Quadratic
 
 A quadratic polynomial can have:
 
-| Graph Situation | Number of Zeroes |
-|---|---:|
-| Cuts x-axis at two distinct points | 2 zeroes |
-| Touches x-axis at one point | 1 zero, repeated twice |
-| Does not meet x-axis | 0 real zeroes |
+| Graph Situation                    |       Number of Zeroes |
+| ---------------------------------- | ---------------------: |
+| Cuts x-axis at two distinct points |               2 zeroes |
+| Touches x-axis at one point        | 1 zero, repeated twice |
+| Does not meet x-axis               |          0 real zeroes |
 
 Therefore a quadratic polynomial has at most `2` real zeroes.
 
@@ -505,10 +506,10 @@ $$
 
 In words:
 
-| Quantity | Formula |
-|---|---|
-| Sum of zeroes | `- coefficient of x / coefficient of x^2` |
-| Product of zeroes | `constant term / coefficient of x^2` |
+| Quantity          | Formula                                   |
+| ----------------- | ----------------------------------------- |
+| Sum of zeroes     | `- coefficient of x / coefficient of x^2` |
+| Product of zeroes | `constant term / coefficient of x^2`      |
 
 ## Derivation
 
@@ -838,14 +839,14 @@ Each x-axis intersection gives one zero.
 
 For the standard NCERT Fig. 2.10:
 
-| Part | Number of x-axis Intersections | Number of Zeroes |
-|---|---:|---:|
-| (i) | 0 | 0 |
-| (ii) | 1 | 1 |
-| (iii) | 3 | 3 |
-| (iv) | 2 | 2 |
-| (v) | 4 | 4 |
-| (vi) | 3 | 3 |
+| Part  | Number of x-axis Intersections | Number of Zeroes |
+| ----- | -----------------------------: | ---------------: |
+| (i)   |                              0 |                0 |
+| (ii)  |                              1 |                1 |
+| (iii) |                              3 |                3 |
+| (iv)  |                              2 |                2 |
+| (v)   |                              4 |                4 |
+| (vi)  |                              3 |                3 |
 
 ## How to Answer Such Questions
 
@@ -1217,17 +1218,17 @@ $$
 
 # Unit 2H: Common Mistakes and Corrections
 
-| Mistake | Correct Understanding |
-|---|---|
-| Calling any expression with `x` a polynomial. | Powers of variables must be non-negative integers. |
-| Forgetting `a != 0` in `ax^2 + bx + c`. | If `a = 0`, it is not quadratic. |
-| Thinking zero of polynomial means polynomial itself is zero everywhere. | A zero is an input value that makes `p(x) = 0`. |
-| Counting turning points instead of x-axis intersections. | Number of zeroes equals number of x-axis intersections. |
-| Using `b/a` for sum of zeroes. | Correct formula is `-b/a`. |
-| Using `-c/a` for product. | Correct formula is `c/a`. |
-| Forgetting repeated zeroes. | A graph touching the x-axis has one visible zero but it may be repeated. |
-| Not writing polynomial in standard form. | Arrange as `ax^2 + bx + c` before reading coefficients. |
-| Thinking only one polynomial exists for given sum and product. | Any non-zero multiple has the same zeroes. |
+| Mistake                                                                 | Correct Understanding                                                    |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| Calling any expression with `x` a polynomial.                           | Powers of variables must be non-negative integers.                       |
+| Forgetting `a != 0` in `ax^2 + bx + c`.                                 | If `a = 0`, it is not quadratic.                                         |
+| Thinking zero of polynomial means polynomial itself is zero everywhere. | A zero is an input value that makes `p(x) = 0`.                          |
+| Counting turning points instead of x-axis intersections.                | Number of zeroes equals number of x-axis intersections.                  |
+| Using `b/a` for sum of zeroes.                                          | Correct formula is `-b/a`.                                               |
+| Using `-c/a` for product.                                               | Correct formula is `c/a`.                                                |
+| Forgetting repeated zeroes.                                             | A graph touching the x-axis has one visible zero but it may be repeated. |
+| Not writing polynomial in standard form.                                | Arrange as `ax^2 + bx + c` before reading coefficients.                  |
+| Thinking only one polynomial exists for given sum and product.          | Any non-zero multiple has the same zeroes.                               |
 
 ---
 
@@ -1235,31 +1236,31 @@ $$
 
 ## Degree Names
 
-| Degree | Name | General Form |
-|---:|---|---|
-| 1 | Linear | `ax + b` |
-| 2 | Quadratic | `ax^2 + bx + c` |
-| 3 | Cubic | `ax^3 + bx^2 + cx + d` |
+| Degree | Name      | General Form           |
+| -----: | --------- | ---------------------- |
+|      1 | Linear    | `ax + b`               |
+|      2 | Quadratic | `ax^2 + bx + c`        |
+|      3 | Cubic     | `ax^3 + bx^2 + cx + d` |
 
 ## Zeroes and Graphs
 
-| Polynomial Type | Maximum Number of Zeroes | Graph Meaning |
-|---|---:|---|
-| Linear | 1 | Straight line intersects x-axis once. |
-| Quadratic | 2 | Parabola may cut, touch, or miss x-axis. |
-| Cubic | 3 | Cubic curve may intersect x-axis up to three times. |
-| Degree `n` | `n` | Graph can intersect x-axis at most `n` times. |
+| Polynomial Type | Maximum Number of Zeroes | Graph Meaning                                       |
+| --------------- | -----------------------: | --------------------------------------------------- |
+| Linear          |                        1 | Straight line intersects x-axis once.               |
+| Quadratic       |                        2 | Parabola may cut, touch, or miss x-axis.            |
+| Cubic           |                        3 | Cubic curve may intersect x-axis up to three times. |
+| Degree `n`      |                      `n` | Graph can intersect x-axis at most `n` times.       |
 
 ## Quadratic Relations
 
-| Polynomial | Sum of Zeroes | Product of Zeroes |
-|---|---|---|
-| `ax^2 + bx + c` | `-b/a` | `c/a` |
+| Polynomial      | Sum of Zeroes | Product of Zeroes |
+| --------------- | ------------- | ----------------- |
+| `ax^2 + bx + c` | `-b/a`        | `c/a`             |
 
 ## Forming Quadratic
 
-| Given | Polynomial |
-|---|---|
+| Given                | Polynomial     |
+| -------------------- | -------------- |
 | Sum `S`, product `P` | `x^2 - Sx + P` |
 
 ---
@@ -1280,13 +1281,13 @@ Memorise:
 
 Practise:
 
-| Skill | Practice Method |
-|---|---|
-| Identifying degree | Circle the highest power of the variable. |
-| Finding zeroes | Factorise and set each factor equal to zero. |
-| Verification | Compare actual sum/product with `-b/a` and `c/a`. |
-| Graph questions | Count x-axis intersections only. |
-| Forming polynomial | Substitute sum and product into `x^2 - Sx + P`. |
+| Skill              | Practice Method                                   |
+| ------------------ | ------------------------------------------------- |
+| Identifying degree | Circle the highest power of the variable.         |
+| Finding zeroes     | Factorise and set each factor equal to zero.      |
+| Verification       | Compare actual sum/product with `-b/a` and `c/a`. |
+| Graph questions    | Count x-axis intersections only.                  |
+| Forming polynomial | Substitute sum and product into `x^2 - Sx + P`.   |
 
 ## One-Page Chapter Summary
 

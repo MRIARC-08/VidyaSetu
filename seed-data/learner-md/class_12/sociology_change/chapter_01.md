@@ -31,17 +31,17 @@ A strong answer must mention three connected points:
 
 ## Key Terms
 
-| Term | Meaning | Why it matters |
-|---|---|---|
-| Structural change | Change in the basic organisation of society, such as property relations, work, law, state, cities, and institutions | The chapter focuses on these deeper changes rather than only customs or beliefs |
-| Colonialism | Rule by one country over another | British rule over India reshaped Indian society in far-reaching ways |
-| Capitalism | An economic system based on private ownership, production for market, and profit accumulation | British colonialism was tied to the needs of British capitalism |
-| Industrialisation | Growth of machine-based production using non-human power such as steam or electricity | It changed work, production, technology, and class relations |
-| Urbanisation | Growth of towns and cities and the spread of urban ways of life | It changed settlement patterns and social relations |
-| Deindustrialisation | Decline of existing industries and crafts | Colonial India experienced decline in many traditional manufacturing sectors |
-| Nation-state | A modern political form with sovereign authority over a territory and citizens | Nationalism grew partly as a response to colonial domination |
-| Indentured labour | Labour migration under contract, often harsh and coercive | Many Indians were taken to plantations in other colonies |
-| Core and periphery | Relation between a powerful capitalist centre and dependent margins | Colonial cities linked Indian production to British industrial capitalism |
+| Term                | Meaning                                                                                                             | Why it matters                                                                  |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| Structural change   | Change in the basic organisation of society, such as property relations, work, law, state, cities, and institutions | The chapter focuses on these deeper changes rather than only customs or beliefs |
+| Colonialism         | Rule by one country over another                                                                                    | British rule over India reshaped Indian society in far-reaching ways            |
+| Capitalism          | An economic system based on private ownership, production for market, and profit accumulation                       | British colonialism was tied to the needs of British capitalism                 |
+| Industrialisation   | Growth of machine-based production using non-human power such as steam or electricity                               | It changed work, production, technology, and class relations                    |
+| Urbanisation        | Growth of towns and cities and the spread of urban ways of life                                                     | It changed settlement patterns and social relations                             |
+| Deindustrialisation | Decline of existing industries and crafts                                                                           | Colonial India experienced decline in many traditional manufacturing sectors    |
+| Nation-state        | A modern political form with sovereign authority over a territory and citizens                                      | Nationalism grew partly as a response to colonial domination                    |
+| Indentured labour   | Labour migration under contract, often harsh and coercive                                                           | Many Indians were taken to plantations in other colonies                        |
+| Core and periphery  | Relation between a powerful capitalist centre and dependent margins                                                 | Colonial cities linked Indian production to British industrial capitalism       |
 
 ## 1. Why Colonialism Matters For Understanding Modern India
 
@@ -583,23 +583,23 @@ Colonial modernity was contradictory. It introduced modern ideas while denying f
 
 ### Earlier empires and British colonialism
 
-| Feature | Earlier conquest | British colonialism |
-|---|---|---|
-| Main aim | Tribute, power, territory | Profit, market control, capitalist expansion |
-| Economic interference | Often limited | Deep and systematic |
-| Land laws | Usually less transformed | Major legal changes |
-| Manufacturing | Not always reorganised | Directly affected by British industry |
-| Labour movement | Present but less globally organised | Large-scale internal and overseas migration |
-| Global link | Limited compared to capitalism | Strongly tied to global capitalist system |
+| Feature               | Earlier conquest                    | British colonialism                          |
+| --------------------- | ----------------------------------- | -------------------------------------------- |
+| Main aim              | Tribute, power, territory           | Profit, market control, capitalist expansion |
+| Economic interference | Often limited                       | Deep and systematic                          |
+| Land laws             | Usually less transformed            | Major legal changes                          |
+| Manufacturing         | Not always reorganised              | Directly affected by British industry        |
+| Labour movement       | Present but less globally organised | Large-scale internal and overseas migration  |
+| Global link           | Limited compared to capitalism      | Strongly tied to global capitalist system    |
 
 ### Britain and India
 
-| Theme | Britain | Colonial India |
-|---|---|---|
-| Industrialisation | Growth of machine industry | Growth in some modern sectors but decline of many crafts |
-| Urbanisation | Rapid shift to cities | Growth of colonial port cities and decline of some old centres |
-| Agriculture | Share of population declined | Many displaced artisans moved into agriculture |
-| Economic control | Domestic capitalist development | Development shaped by colonial interests |
+| Theme             | Britain                         | Colonial India                                                 |
+| ----------------- | ------------------------------- | -------------------------------------------------------------- |
+| Industrialisation | Growth of machine industry      | Growth in some modern sectors but decline of many crafts       |
+| Urbanisation      | Rapid shift to cities           | Growth of colonial port cities and decline of some old centres |
+| Agriculture       | Share of population declined    | Many displaced artisans moved into agriculture                 |
+| Economic control  | Domestic capitalist development | Development shaped by colonial interests                       |
 
 ## 25. How To Write A Strong Exam Answer
 
@@ -640,4 +640,3 @@ British colonialism changed Indian society at a structural level. It was not onl
 - Nationalism grew against the contradiction of colonial rule.
 - Independent India used planned industrialisation to overcome colonial underdevelopment.
 - Urbanisation after independence took many forms, including migration, industrial towns, and metropolitan expansion.
-

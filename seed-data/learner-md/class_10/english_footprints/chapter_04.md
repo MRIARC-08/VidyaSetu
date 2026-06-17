@@ -1,35 +1,36 @@
 # Chapter 4: A Question of Trust
+
 ### NCERT Class 10 - English Footprints
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 10 |
-| **Subject** | English Footprints |
-| **Chapter** | 4 |
-| **Text** | "A Question of Trust" by Victor Canning |
-| **Textbook Pages** | 20-25 |
-| **Genre** | Crime story / twist story |
-| **Core Theme** | Trust, deception, irony, criminal cleverness, misplaced confidence, and whether good intentions can excuse wrong actions. |
-| **Main Skills** | Suspense reading, inference, twist ending, character analysis, moral debate, irony, and evidence-based answers. |
+| Detail             | Learner-Friendly Information                                                                                              |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------- |
+| **Class**          | 10                                                                                                                        |
+| **Subject**        | English Footprints                                                                                                        |
+| **Chapter**        | 4                                                                                                                         |
+| **Text**           | "A Question of Trust" by Victor Canning                                                                                   |
+| **Textbook Pages** | 20-25                                                                                                                     |
+| **Genre**          | Crime story / twist story                                                                                                 |
+| **Core Theme**     | Trust, deception, irony, criminal cleverness, misplaced confidence, and whether good intentions can excuse wrong actions. |
+| **Main Skills**    | Suspense reading, inference, twist ending, character analysis, moral debate, irony, and evidence-based answers.           |
 
 ---
 
 ## Section Structure
 
-| Unit | Text / Skill | Main Learning Focus |
-|---|---|---|
-| **4A** | Before Reading | Sayings about thieves, trust, and betrayal. |
-| **4B** | Horace Danby | Respectable appearance, secret theft, rare books, and planning. |
-| **4C** | Shotover Grange | Robbery plan, house study, safe, dog, and hay fever. |
-| **4D** | The Young Lady | Her entrance, confidence, performance, and manipulation. |
-| **4E** | The Trick | How Horace opens the safe and leaves fingerprints. |
-| **4F** | Arrest and Irony | Real culprit, false trust, punishment, and prison ending. |
-| **4G** | Thinking About It | Suspicion, deception, atypical thief, planning failure, and justice. |
-| **4H** | Vocabulary and Style | Hay fever, crime vocabulary, irony, and twist structure. |
+| Unit   | Text / Skill         | Main Learning Focus                                                  |
+| ------ | -------------------- | -------------------------------------------------------------------- |
+| **4A** | Before Reading       | Sayings about thieves, trust, and betrayal.                          |
+| **4B** | Horace Danby         | Respectable appearance, secret theft, rare books, and planning.      |
+| **4C** | Shotover Grange      | Robbery plan, house study, safe, dog, and hay fever.                 |
+| **4D** | The Young Lady       | Her entrance, confidence, performance, and manipulation.             |
+| **4E** | The Trick            | How Horace opens the safe and leaves fingerprints.                   |
+| **4F** | Arrest and Irony     | Real culprit, false trust, punishment, and prison ending.            |
+| **4G** | Thinking About It    | Suspicion, deception, atypical thief, planning failure, and justice. |
+| **4H** | Vocabulary and Style | Hay fever, crime vocabulary, irony, and twist structure.             |
 
 ---
 
@@ -37,35 +38,35 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Retell the plot** | Explain how Horace plans a robbery but is tricked by another thief. |
-| **Identify the twist** | Explain when and how the lady's true identity is revealed. |
-| **Analyse character** | Describe Horace and the young lady with evidence. |
-| **Understand irony** | Explain why a careful thief is caught through trust. |
-| **Read clues** | Identify details that make the lady's deception convincing. |
-| **Discuss morality** | Debate whether Horace deserves punishment. |
-| **Use vocabulary** | Understand hay fever, fingerprints, culprit, meticulous, and faltered. |
-| **Write arguments** | Respond to questions about intentions, honesty, and consequences. |
+| Outcome                | You Should Be Able To...                                               |
+| ---------------------- | ---------------------------------------------------------------------- |
+| **Retell the plot**    | Explain how Horace plans a robbery but is tricked by another thief.    |
+| **Identify the twist** | Explain when and how the lady's true identity is revealed.             |
+| **Analyse character**  | Describe Horace and the young lady with evidence.                      |
+| **Understand irony**   | Explain why a careful thief is caught through trust.                   |
+| **Read clues**         | Identify details that make the lady's deception convincing.            |
+| **Discuss morality**   | Debate whether Horace deserves punishment.                             |
+| **Use vocabulary**     | Understand hay fever, fingerprints, culprit, meticulous, and faltered. |
+| **Write arguments**    | Respond to questions about intentions, honesty, and consequences.      |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Trust** | Belief that someone is honest or reliable. |
-| **Culprit** | Person responsible for a crime. |
-| **Burglar** | Person who enters a building illegally to steal. |
-| **Safe** | Locked metal box for valuables. |
-| **Fingerprint** | Mark left by a finger; used as evidence. |
-| **Hay fever** | Allergy affecting nose and throat, often caused by pollen or dust. |
-| **Meticulous** | Very careful and detailed. |
-| **Faltered** | Failed, hesitated, or made a mistake. |
-| **Agent** | Person who acts for another; here, someone through whom Horace buys books. |
-| **Respectable** | Socially acceptable and honourable-looking. |
-| **Honour among thieves** | Saying that thieves may still be loyal to each other. |
-| **Set a thief to catch a thief** | Saying that a thief may understand and defeat another thief. |
+| Term                             | Meaning                                                                    |
+| -------------------------------- | -------------------------------------------------------------------------- |
+| **Trust**                        | Belief that someone is honest or reliable.                                 |
+| **Culprit**                      | Person responsible for a crime.                                            |
+| **Burglar**                      | Person who enters a building illegally to steal.                           |
+| **Safe**                         | Locked metal box for valuables.                                            |
+| **Fingerprint**                  | Mark left by a finger; used as evidence.                                   |
+| **Hay fever**                    | Allergy affecting nose and throat, often caused by pollen or dust.         |
+| **Meticulous**                   | Very careful and detailed.                                                 |
+| **Faltered**                     | Failed, hesitated, or made a mistake.                                      |
+| **Agent**                        | Person who acts for another; here, someone through whom Horace buys books. |
+| **Respectable**                  | Socially acceptable and honourable-looking.                                |
+| **Honour among thieves**         | Saying that thieves may still be loyal to each other.                      |
+| **Set a thief to catch a thief** | Saying that a thief may understand and defeat another thief.               |
 
 ---
 
@@ -86,10 +87,10 @@ Horace's biggest error is not technical. He knows locks and plans carefully. His
 
 ## The Two Sayings
 
-| Saying | Meaning | Connection to Story |
-|---|---|---|
-| **Set a thief to catch a thief** | A criminal may understand another criminal's methods. | The young lady, a thief, outwits Horace. |
-| **Honour among thieves** | Thieves may be loyal to one another. | The story disproves this; the lady betrays Horace. |
+| Saying                           | Meaning                                               | Connection to Story                                |
+| -------------------------------- | ----------------------------------------------------- | -------------------------------------------------- |
+| **Set a thief to catch a thief** | A criminal may understand another criminal's methods. | The young lady, a thief, outwits Horace.           |
+| **Honour among thieves**         | Thieves may be loyal to one another.                  | The story disproves this; the lady betrays Horace. |
 
 ## Opening Question
 
@@ -105,13 +106,13 @@ It also rejects **honour among thieves**, because the lady uses Horace and lets 
 
 ## Public Image vs Secret Life
 
-| Public Image | Secret Reality |
-|---|---|
-| Good citizen | Annual burglar. |
+| Public Image            | Secret Reality                 |
+| ----------------------- | ------------------------------ |
+| Good citizen            | Annual burglar.                |
 | Respectable businessman | Opens safes and steals jewels. |
 | Lock-maker with helpers | Uses lock knowledge for crime. |
-| Lover of books | Steals to buy rare books. |
-| Unmarried, orderly life | Secret criminal routine. |
+| Lover of books          | Steals to buy rare books.      |
+| Unmarried, orderly life | Secret criminal routine.       |
 
 ## Why Horace Steals Every Year
 
@@ -192,15 +193,15 @@ This assumption is wrong.
 
 ## How She Appears Convincing
 
-| Her Action | Why Horace Believes Her |
-|---|---|
-| Speaks calmly and firmly | Sounds like someone who has authority in the house. |
-| Knows the dog's name | Makes her seem connected to the household. |
-| Straightens ornaments | Behaves like someone familiar with the room. |
-| Mentions returning unexpectedly | Explains why she is there. |
-| Talks about her husband | Supports the idea that she is the owner's wife. |
-| Says she needs her jewels | Gives a believable reason to open the safe. |
-| Shows no panic | Confidence makes her identity seem genuine. |
+| Her Action                      | Why Horace Believes Her                             |
+| ------------------------------- | --------------------------------------------------- |
+| Speaks calmly and firmly        | Sounds like someone who has authority in the house. |
+| Knows the dog's name            | Makes her seem connected to the household.          |
+| Straightens ornaments           | Behaves like someone familiar with the room.        |
+| Mentions returning unexpectedly | Explains why she is there.                          |
+| Talks about her husband         | Supports the idea that she is the owner's wife.     |
+| Says she needs her jewels       | Gives a believable reason to open the safe.         |
+| Shows no panic                  | Confidence makes her identity seem genuine.         |
 
 ## Why Horace Does Not Suspect Her
 
@@ -306,14 +307,14 @@ At first, the lady seems genuine because she is calm and knows the dog. Suspicio
 
 ## 2. Subtle Ways She Deceives Horace
 
-| Deception | Effect |
-|---|---|
-| Uses calm authority | Makes Horace feel she belongs there. |
-| Calls the dog by name | Shows apparent household familiarity. |
-| Arranges ornaments | Acts like owner of the room. |
-| Talks about husband and jewels | Creates believable domestic story. |
-| Offers to let him go | Makes Horace trust her kindness. |
-| Lets him open the safe | Avoids leaving her own evidence. |
+| Deception                      | Effect                                |
+| ------------------------------ | ------------------------------------- |
+| Uses calm authority            | Makes Horace feel she belongs there.  |
+| Calls the dog by name          | Shows apparent household familiarity. |
+| Arranges ornaments             | Acts like owner of the room.          |
+| Talks about husband and jewels | Creates believable domestic story.    |
+| Offers to let him go           | Makes Horace trust her kindness.      |
+| Lets him open the safe         | Avoids leaving her own evidence.      |
 
 ## 3. Why the Description of Horace Is Apt
 
@@ -360,59 +361,59 @@ Some emergency situations may complicate honesty, but Horace's situation is not 
 
 ## Glossary
 
-| Word | Meaning |
-|---|---|
-| **Hay fever** | Allergy affecting nose and throat, often caused by pollen or dust. |
-| **Respectable** | Considered socially decent and honourable. |
-| **Sentence** | Punishment given by a court. |
-| **Agent** | Person who buys or acts on behalf of another. |
-| **Fingerprint** | Mark left by fingers; evidence in crime. |
-| **Culprit** | Person responsible for a crime. |
-| **Meticulous** | Very careful and detailed. |
-| **Faltered** | Failed or made a mistake. |
+| Word            | Meaning                                                            |
+| --------------- | ------------------------------------------------------------------ |
+| **Hay fever**   | Allergy affecting nose and throat, often caused by pollen or dust. |
+| **Respectable** | Considered socially decent and honourable.                         |
+| **Sentence**    | Punishment given by a court.                                       |
+| **Agent**       | Person who buys or acts on behalf of another.                      |
+| **Fingerprint** | Mark left by fingers; evidence in crime.                           |
+| **Culprit**     | Person responsible for a crime.                                    |
+| **Meticulous**  | Very careful and detailed.                                         |
+| **Faltered**    | Failed or made a mistake.                                          |
 
 ## Important Expressions
 
-| Expression | Meaning |
-|---|---|
+| Expression                       | Meaning                                                        |
+| -------------------------------- | -------------------------------------------------------------- |
 | **Set a thief to catch a thief** | Use someone with criminal knowledge to catch another criminal. |
-| **Honour among thieves** | Supposed loyalty between criminals. |
-| **Not completely honest** | Polite way of saying he is dishonest in one area. |
-| **Same profession** | Horace's ironic way of saying the lady was also a thief. |
+| **Honour among thieves**         | Supposed loyalty between criminals.                            |
+| **Not completely honest**        | Polite way of saying he is dishonest in one area.              |
+| **Same profession**              | Horace's ironic way of saying the lady was also a thief.       |
 
 ## Suspense and Twist Structure
 
-| Stage | Reader's Understanding |
-|---|---|
-| Horace enters house | He is the thief. |
-| Young lady appears | She seems to be the owner. |
+| Stage                     | Reader's Understanding                       |
+| ------------------------- | -------------------------------------------- |
+| Horace enters house       | He is the thief.                             |
+| Young lady appears        | She seems to be the owner.                   |
 | She asks him to open safe | She seems manipulative but possibly genuine. |
-| Horace is arrested | Something is wrong. |
-| Real wife is described | The young lady was a thief. |
-| Prison ending | Horace has been outwitted. |
+| Horace is arrested        | Something is wrong.                          |
+| Real wife is described    | The young lady was a thief.                  |
+| Prison ending             | Horace has been outwitted.                   |
 
 ## Character Study
 
 ### Horace Danby
 
-| Trait | Evidence |
-|---|---|
-| **Respectable-looking** | Seen as a good citizen and successful lock-maker. |
-| **Book-loving** | Steals to buy rare books. |
-| **Careful** | Studies house and wears gloves. |
-| **Non-violent** | Does not want to hurt the lady. |
-| **Self-deceiving** | Thinks his reason makes theft less wrong. |
-| **Gullible under pressure** | Believes the young lady. |
+| Trait                       | Evidence                                          |
+| --------------------------- | ------------------------------------------------- |
+| **Respectable-looking**     | Seen as a good citizen and successful lock-maker. |
+| **Book-loving**             | Steals to buy rare books.                         |
+| **Careful**                 | Studies house and wears gloves.                   |
+| **Non-violent**             | Does not want to hurt the lady.                   |
+| **Self-deceiving**          | Thinks his reason makes theft less wrong.         |
+| **Gullible under pressure** | Believes the young lady.                          |
 
 ### The Young Lady
 
-| Trait | Evidence |
-|---|---|
-| **Clever** | Creates a believable identity. |
-| **Calm** | Does not panic on seeing Horace. |
-| **Manipulative** | Uses his fear of prison. |
-| **Observant** | Notices his hay fever and weakness. |
-| **Dishonest** | Steals jewels and lets Horace take blame. |
+| Trait            | Evidence                                  |
+| ---------------- | ----------------------------------------- |
+| **Clever**       | Creates a believable identity.            |
+| **Calm**         | Does not panic on seeing Horace.          |
+| **Manipulative** | Uses his fear of prison.                  |
+| **Observant**    | Notices his hay fever and weakness.       |
+| **Dishonest**    | Steals jewels and lets Horace take blame. |
 
 ---
 
@@ -478,4 +479,4 @@ Some emergency situations may complicate honesty, but Horace's situation is not 
 
 ---
 
-*Source: NCERT Class 10 - English Footprints, Chapter 4 raw file. Learner-facing version manually rewritten from the extracted content of "A Question of Trust".*
+_Source: NCERT Class 10 - English Footprints, Chapter 4 raw file. Learner-facing version manually rewritten from the extracted content of "A Question of Trust"._

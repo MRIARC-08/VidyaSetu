@@ -4,16 +4,16 @@ Class 11 Biology
 
 ## Chapter Profile
 
-| Item | Details |
-|---|---|
-| Class | 11 |
-| Subject | Biology |
-| Chapter | 11 |
-| Title | Photosynthesis in Higher Plants |
-| Main theme | Conversion of light energy into chemical energy by green plants |
-| Main processes | Light reaction, electron transport, ATP synthesis, Calvin cycle, C4 pathway |
-| Core skill | Connect chloroplast structure with photosynthetic function |
-| Learner goal | Explain how plants make carbohydrates, release oxygen, and control photosynthetic rate |
+| Item           | Details                                                                                |
+| -------------- | -------------------------------------------------------------------------------------- |
+| Class          | 11                                                                                     |
+| Subject        | Biology                                                                                |
+| Chapter        | 11                                                                                     |
+| Title          | Photosynthesis in Higher Plants                                                        |
+| Main theme     | Conversion of light energy into chemical energy by green plants                        |
+| Main processes | Light reaction, electron transport, ATP synthesis, Calvin cycle, C4 pathway            |
+| Core skill     | Connect chloroplast structure with photosynthetic function                             |
+| Learner goal   | Explain how plants make carbohydrates, release oxygen, and control photosynthetic rate |
 
 ## How To Study This Chapter
 
@@ -86,79 +86,79 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Photosynthesis | Process by which green plants use light energy to synthesise organic compounds from CO2 and water |
-| Autotroph | Organism that makes its own organic food from inorganic materials |
-| Heterotroph | Organism that depends on other organisms for food |
-| Chlorophyll | Green pigment involved in light absorption |
-| Chloroplast | Organelle where photosynthesis occurs |
-| Thylakoid | Flattened membranous sac in chloroplasts |
-| Grana | Stacks of thylakoids |
-| Stroma lamellae | Membranes connecting grana |
-| Stroma | Fluid matrix of chloroplast containing enzymes for carbon fixation |
-| Light reaction | Photochemical phase that produces ATP, NADPH, and O2 |
-| Carbon reaction | Biosynthetic phase that fixes CO2 into carbohydrate |
-| Pigment | Molecule that absorbs light at specific wavelengths |
-| Chlorophyll a | Chief photosynthetic pigment and reaction centre pigment |
-| Chlorophyll b | Accessory chlorophyll pigment |
-| Xanthophyll | Yellow accessory pigment |
-| Carotenoid | Yellow to orange accessory pigment |
-| Accessory pigment | Pigment that absorbs light and transfers energy to chlorophyll a |
-| Action spectrum | Graph showing effectiveness of different wavelengths in photosynthesis |
-| Absorption spectrum | Graph showing light absorption by a pigment |
-| Photosystem | Pigment-protein complex that captures light energy |
-| LHC | Light harvesting complex in a photosystem |
-| Reaction centre | Special chlorophyll a molecule that donates excited electrons |
-| PS I | Photosystem I with reaction centre P700 |
-| PS II | Photosystem II with reaction centre P680 |
-| P700 | Reaction centre chlorophyll a of PS I, absorbing best near 700 nm |
-| P680 | Reaction centre chlorophyll a of PS II, absorbing best near 680 nm |
-| Electron transport chain | Sequence of carriers that pass electrons and help form a proton gradient |
-| Z scheme | Non-cyclic electron flow from water through PS II and PS I to NADP+ |
-| Photolysis | Splitting of water during photosynthesis |
-| Photophosphorylation | Formation of ATP from ADP and inorganic phosphate in light |
-| Non-cyclic photophosphorylation | Electron flow producing ATP, NADPH, and O2 |
-| Cyclic photophosphorylation | Electron flow around PS I producing ATP only |
-| Chemiosmosis | ATP synthesis driven by proton movement across a membrane |
-| ATP synthase | Enzyme complex that forms ATP using proton gradient energy |
-| CF0 | Membrane channel part of chloroplast ATP synthase |
-| CF1 | Catalytic part of chloroplast ATP synthase facing stroma |
-| NADP+ | Electron and proton acceptor reduced to NADPH |
-| NADPH | Reducing power used in carbon fixation |
-| Calvin cycle | Cyclic pathway that fixes CO2 into carbohydrate |
-| RuBP | Ribulose 1,5-bisphosphate, the CO2 acceptor in Calvin cycle |
-| RuBisCO | Enzyme that catalyses carboxylation of RuBP and can also act as oxygenase |
-| 3-PGA | 3-phosphoglycerate, first stable product in C3 pathway |
-| Carboxylation | Addition of CO2 to an organic molecule |
-| Reduction | Calvin cycle stage that uses ATP and NADPH to form carbohydrate intermediates |
-| Regeneration | Calvin cycle stage that reforms RuBP |
-| C3 plant | Plant in which first stable CO2 fixation product is a 3-carbon compound |
-| C4 plant | Plant in which first stable CO2 fixation product is a 4-carbon compound |
-| OAA | Oxaloacetic acid, first stable product in C4 pathway |
-| PEP | Phosphoenol pyruvate, primary CO2 acceptor in C4 pathway |
-| PEPcase | PEP carboxylase, enzyme for initial CO2 fixation in C4 plants |
-| Kranz anatomy | Leaf anatomy with prominent bundle sheath cells around vascular bundles |
-| Bundle sheath cell | Cell surrounding vascular bundles, site of Calvin cycle in C4 plants |
-| Hatch-Slack pathway | C4 pathway of CO2 concentration and transfer |
-| Photorespiration | Wasteful process in which RuBisCO oxygenates RuBP, releasing CO2 and using ATP |
-| Limiting factor | Factor present at a sub-optimal level that restricts process rate |
-| Blackman's law | When several factors affect a process, the factor nearest its minimum controls the rate |
+| Term                            | Meaning                                                                                           |
+| ------------------------------- | ------------------------------------------------------------------------------------------------- |
+| Photosynthesis                  | Process by which green plants use light energy to synthesise organic compounds from CO2 and water |
+| Autotroph                       | Organism that makes its own organic food from inorganic materials                                 |
+| Heterotroph                     | Organism that depends on other organisms for food                                                 |
+| Chlorophyll                     | Green pigment involved in light absorption                                                        |
+| Chloroplast                     | Organelle where photosynthesis occurs                                                             |
+| Thylakoid                       | Flattened membranous sac in chloroplasts                                                          |
+| Grana                           | Stacks of thylakoids                                                                              |
+| Stroma lamellae                 | Membranes connecting grana                                                                        |
+| Stroma                          | Fluid matrix of chloroplast containing enzymes for carbon fixation                                |
+| Light reaction                  | Photochemical phase that produces ATP, NADPH, and O2                                              |
+| Carbon reaction                 | Biosynthetic phase that fixes CO2 into carbohydrate                                               |
+| Pigment                         | Molecule that absorbs light at specific wavelengths                                               |
+| Chlorophyll a                   | Chief photosynthetic pigment and reaction centre pigment                                          |
+| Chlorophyll b                   | Accessory chlorophyll pigment                                                                     |
+| Xanthophyll                     | Yellow accessory pigment                                                                          |
+| Carotenoid                      | Yellow to orange accessory pigment                                                                |
+| Accessory pigment               | Pigment that absorbs light and transfers energy to chlorophyll a                                  |
+| Action spectrum                 | Graph showing effectiveness of different wavelengths in photosynthesis                            |
+| Absorption spectrum             | Graph showing light absorption by a pigment                                                       |
+| Photosystem                     | Pigment-protein complex that captures light energy                                                |
+| LHC                             | Light harvesting complex in a photosystem                                                         |
+| Reaction centre                 | Special chlorophyll a molecule that donates excited electrons                                     |
+| PS I                            | Photosystem I with reaction centre P700                                                           |
+| PS II                           | Photosystem II with reaction centre P680                                                          |
+| P700                            | Reaction centre chlorophyll a of PS I, absorbing best near 700 nm                                 |
+| P680                            | Reaction centre chlorophyll a of PS II, absorbing best near 680 nm                                |
+| Electron transport chain        | Sequence of carriers that pass electrons and help form a proton gradient                          |
+| Z scheme                        | Non-cyclic electron flow from water through PS II and PS I to NADP+                               |
+| Photolysis                      | Splitting of water during photosynthesis                                                          |
+| Photophosphorylation            | Formation of ATP from ADP and inorganic phosphate in light                                        |
+| Non-cyclic photophosphorylation | Electron flow producing ATP, NADPH, and O2                                                        |
+| Cyclic photophosphorylation     | Electron flow around PS I producing ATP only                                                      |
+| Chemiosmosis                    | ATP synthesis driven by proton movement across a membrane                                         |
+| ATP synthase                    | Enzyme complex that forms ATP using proton gradient energy                                        |
+| CF0                             | Membrane channel part of chloroplast ATP synthase                                                 |
+| CF1                             | Catalytic part of chloroplast ATP synthase facing stroma                                          |
+| NADP+                           | Electron and proton acceptor reduced to NADPH                                                     |
+| NADPH                           | Reducing power used in carbon fixation                                                            |
+| Calvin cycle                    | Cyclic pathway that fixes CO2 into carbohydrate                                                   |
+| RuBP                            | Ribulose 1,5-bisphosphate, the CO2 acceptor in Calvin cycle                                       |
+| RuBisCO                         | Enzyme that catalyses carboxylation of RuBP and can also act as oxygenase                         |
+| 3-PGA                           | 3-phosphoglycerate, first stable product in C3 pathway                                            |
+| Carboxylation                   | Addition of CO2 to an organic molecule                                                            |
+| Reduction                       | Calvin cycle stage that uses ATP and NADPH to form carbohydrate intermediates                     |
+| Regeneration                    | Calvin cycle stage that reforms RuBP                                                              |
+| C3 plant                        | Plant in which first stable CO2 fixation product is a 3-carbon compound                           |
+| C4 plant                        | Plant in which first stable CO2 fixation product is a 4-carbon compound                           |
+| OAA                             | Oxaloacetic acid, first stable product in C4 pathway                                              |
+| PEP                             | Phosphoenol pyruvate, primary CO2 acceptor in C4 pathway                                          |
+| PEPcase                         | PEP carboxylase, enzyme for initial CO2 fixation in C4 plants                                     |
+| Kranz anatomy                   | Leaf anatomy with prominent bundle sheath cells around vascular bundles                           |
+| Bundle sheath cell              | Cell surrounding vascular bundles, site of Calvin cycle in C4 plants                              |
+| Hatch-Slack pathway             | C4 pathway of CO2 concentration and transfer                                                      |
+| Photorespiration                | Wasteful process in which RuBisCO oxygenates RuBP, releasing CO2 and using ATP                    |
+| Limiting factor                 | Factor present at a sub-optimal level that restricts process rate                                 |
+| Blackman's law                  | When several factors affect a process, the factor nearest its minimum controls the rate           |
 
 ## Chapter Map
 
-| Unit | Topic | What To Master |
-|---|---|---|
-| 11.1 | Prior knowledge | Requirements for photosynthesis |
-| 11.2 | Early experiments | How evidence for photosynthesis developed |
-| 11.3 | Site of photosynthesis | Chloroplast structure and functional division |
-| 11.4 | Pigments | Chlorophyll a, accessory pigments, spectra |
-| 11.5 | Light reaction | Photosystems and light harvesting |
-| 11.6 | Electron transport | Z scheme, water splitting, ATP formation |
-| 11.7 | Use of ATP and NADPH | Calvin cycle and carbohydrate synthesis |
-| 11.8 | C4 pathway | Kranz anatomy and CO2 concentration mechanism |
-| 11.9 | Photorespiration | RuBisCO oxygenation and C4 advantage |
-| 11.10 | Rate factors | Light, CO2, temperature, water, limiting factors |
+| Unit  | Topic                  | What To Master                                   |
+| ----- | ---------------------- | ------------------------------------------------ |
+| 11.1  | Prior knowledge        | Requirements for photosynthesis                  |
+| 11.2  | Early experiments      | How evidence for photosynthesis developed        |
+| 11.3  | Site of photosynthesis | Chloroplast structure and functional division    |
+| 11.4  | Pigments               | Chlorophyll a, accessory pigments, spectra       |
+| 11.5  | Light reaction         | Photosystems and light harvesting                |
+| 11.6  | Electron transport     | Z scheme, water splitting, ATP formation         |
+| 11.7  | Use of ATP and NADPH   | Calvin cycle and carbohydrate synthesis          |
+| 11.8  | C4 pathway             | Kranz anatomy and CO2 concentration mechanism    |
+| 11.9  | Photorespiration       | RuBisCO oxygenation and C4 advantage             |
+| 11.10 | Rate factors           | Light, CO2, temperature, water, limiting factors |
 
 ## 1. Big Idea Of Plant Physiology
 
@@ -536,11 +536,11 @@ A chloroplast has:
 
 The most important parts for this chapter are:
 
-| Chloroplast Part | Main Role In Photosynthesis |
-|---|---|
+| Chloroplast Part | Main Role In Photosynthesis                                   |
+| ---------------- | ------------------------------------------------------------- |
 | Grana thylakoids | Light absorption, electron transport, ATP and NADPH formation |
-| Stroma lamellae | Cyclic electron flow in some conditions |
-| Stroma | Calvin cycle and carbohydrate synthesis |
+| Stroma lamellae  | Cyclic electron flow in some conditions                       |
+| Stroma           | Calvin cycle and carbohydrate synthesis                       |
 
 ## 6.3 Division Of Labour In Chloroplast
 
@@ -601,12 +601,12 @@ The major pigments are:
 
 ## 7.1 Pigment Colours
 
-| Pigment | Typical Colour |
-|---|---|
+| Pigment       | Typical Colour             |
+| ------------- | -------------------------- |
 | Chlorophyll a | Bright green or blue green |
-| Chlorophyll b | Yellow green |
-| Xanthophylls | Yellow |
-| Carotenoids | Yellow to yellow-orange |
+| Chlorophyll b | Yellow green               |
+| Xanthophylls  | Yellow                     |
+| Carotenoids   | Yellow to yellow-orange    |
 
 The visible colour of a leaf is a combined effect of these pigments.
 
@@ -744,12 +744,12 @@ P680 absorbs best near 680 nm.
 
 ## 8.4 Antenna Versus Reaction Centre
 
-| Feature | Antenna Pigments | Reaction Centre |
-|---|---|---|
-| Number | Many molecules | One special chlorophyll a pair or molecule |
-| Function | Absorb and transfer energy | Donates excited electron |
-| Pigment types | Chlorophyll a, chlorophyll b, carotenoids, xanthophylls | Chlorophyll a |
-| Direct electron donation | No | Yes |
+| Feature                  | Antenna Pigments                                        | Reaction Centre                            |
+| ------------------------ | ------------------------------------------------------- | ------------------------------------------ |
+| Number                   | Many molecules                                          | One special chlorophyll a pair or molecule |
+| Function                 | Absorb and transfer energy                              | Donates excited electron                   |
+| Pigment types            | Chlorophyll a, chlorophyll b, carotenoids, xanthophylls | Chlorophyll a                              |
+| Direct electron donation | No                                                      | Yes                                        |
 
 ## 9. Electron Transport
 
@@ -963,16 +963,16 @@ Cyclic photophosphorylation helps provide extra ATP.
 
 ## 11.5 Cyclic Versus Non-Cyclic Photophosphorylation
 
-| Feature | Cyclic Photophosphorylation | Non-Cyclic Photophosphorylation |
-|---|---|---|
-| Photosystem involved | PS I only | PS II and PS I |
-| Electron path | Returns to PS I | Moves from water to NADP+ |
-| Water splitting | Absent | Present |
-| Oxygen release | No | Yes |
-| NADPH formation | No | Yes |
-| ATP formation | Yes | Yes |
-| Main role | Extra ATP supply | ATP, NADPH, and oxygen formation |
-| Likely site | Stroma lamellae | Grana thylakoids |
+| Feature              | Cyclic Photophosphorylation | Non-Cyclic Photophosphorylation  |
+| -------------------- | --------------------------- | -------------------------------- |
+| Photosystem involved | PS I only                   | PS II and PS I                   |
+| Electron path        | Returns to PS I             | Moves from water to NADP+        |
+| Water splitting      | Absent                      | Present                          |
+| Oxygen release       | No                          | Yes                              |
+| NADPH formation      | No                          | Yes                              |
+| ATP formation        | Yes                         | Yes                              |
+| Main role            | Extra ATP supply            | ATP, NADPH, and oxygen formation |
+| Likely site          | Stroma lamellae             | Grana thylakoids                 |
 
 ## 12. Chemiosmotic Hypothesis
 
@@ -1052,10 +1052,10 @@ They move through ATP synthase.
 
 Chloroplast ATP synthase has two major parts.
 
-| Part | Location | Function |
-|---|---|---|
-| CF0 | Embedded in thylakoid membrane | Forms proton channel |
-| CF1 | Extends toward stroma | Catalyses ATP formation |
+| Part | Location                       | Function                |
+| ---- | ------------------------------ | ----------------------- |
+| CF0  | Embedded in thylakoid membrane | Forms proton channel    |
+| CF1  | Extends toward stroma          | Catalyses ATP formation |
 
 As protons pass through CF0, CF1 changes shape and catalyses:
 
@@ -1256,11 +1256,11 @@ For each CO2 fixed, regeneration needs:
 
 For each CO2 entering the Calvin cycle:
 
-| Stage | ATP Used | NADPH Used |
-|---|---:|---:|
-| Reduction | 2 | 2 |
-| Regeneration | 1 | 0 |
-| Total | 3 | 2 |
+| Stage        | ATP Used | NADPH Used |
+| ------------ | -------: | ---------: |
+| Reduction    |        2 |          2 |
+| Regeneration |        1 |          0 |
+| Total        |        3 |          2 |
 
 Therefore:
 
@@ -1284,10 +1284,10 @@ For one glucose:
 
 Summary:
 
-| Product Goal | CO2 Needed | ATP Needed | NADPH Needed |
-|---|---:|---:|---:|
-| One CO2 fixed | 1 | 3 | 2 |
-| One glucose | 6 | 18 | 12 |
+| Product Goal  | CO2 Needed | ATP Needed | NADPH Needed |
+| ------------- | ---------: | ---------: | -----------: |
+| One CO2 fixed |          1 |          3 |            2 |
+| One glucose   |          6 |         18 |           12 |
 
 ## 15.7 Calvin Cycle Inputs And Outputs
 
@@ -1372,10 +1372,10 @@ In such leaves:
 
 This arrangement creates two functional compartments:
 
-| Cell Type | Main Function |
-|---|---|
-| Mesophyll cell | Initial CO2 fixation by PEPcase |
-| Bundle sheath cell | Calvin cycle using RuBisCO |
+| Cell Type          | Main Function                   |
+| ------------------ | ------------------------------- |
+| Mesophyll cell     | Initial CO2 fixation by PEPcase |
+| Bundle sheath cell | Calvin cycle using RuBisCO      |
 
 ## 17.3 Hatch-Slack Pathway
 
@@ -1553,24 +1553,24 @@ Therefore photorespiration is negligible.
 
 ## 19. C3 And C4 Plants Compared
 
-| Characteristic | C3 Plants | C4 Plants |
-|---|---|---|
-| First stable product | 3-PGA | OAA |
-| Carbon atoms in first product | 3 | 4 |
-| Primary CO2 acceptor | RuBP | PEP |
-| Carbon atoms in acceptor | 5 | 3 |
-| First carboxylating enzyme | RuBisCO | PEPcase |
-| Initial fixation site | Mesophyll cell | Mesophyll cell |
-| Calvin cycle site | Mesophyll cell | Bundle sheath cell |
-| Cell types involved in CO2 fixation | One main type, mesophyll | Two types, mesophyll and bundle sheath |
-| Kranz anatomy | Absent | Present |
-| RuBisCO location | Mesophyll cell | Bundle sheath cell |
-| PEPcase presence | Absent | Present in mesophyll |
-| Photorespiration | High or significant | Negligible |
-| High light response | Lower than C4 | High |
-| Temperature optimum | Usually 20-25 degree C | Usually 30-40 degree C |
-| Productivity in hot bright conditions | Lower | Higher |
-| Examples | Wheat, rice, beans | Maize, sorghum, sugarcane |
+| Characteristic                        | C3 Plants                | C4 Plants                              |
+| ------------------------------------- | ------------------------ | -------------------------------------- |
+| First stable product                  | 3-PGA                    | OAA                                    |
+| Carbon atoms in first product         | 3                        | 4                                      |
+| Primary CO2 acceptor                  | RuBP                     | PEP                                    |
+| Carbon atoms in acceptor              | 5                        | 3                                      |
+| First carboxylating enzyme            | RuBisCO                  | PEPcase                                |
+| Initial fixation site                 | Mesophyll cell           | Mesophyll cell                         |
+| Calvin cycle site                     | Mesophyll cell           | Bundle sheath cell                     |
+| Cell types involved in CO2 fixation   | One main type, mesophyll | Two types, mesophyll and bundle sheath |
+| Kranz anatomy                         | Absent                   | Present                                |
+| RuBisCO location                      | Mesophyll cell           | Bundle sheath cell                     |
+| PEPcase presence                      | Absent                   | Present in mesophyll                   |
+| Photorespiration                      | High or significant      | Negligible                             |
+| High light response                   | Lower than C4            | High                                   |
+| Temperature optimum                   | Usually 20-25 degree C   | Usually 30-40 degree C                 |
+| Productivity in hot bright conditions | Lower                    | Higher                                 |
+| Examples                              | Wheat, rice, beans       | Maize, sorghum, sugarcane              |
 
 ## 20. Anatomy Of C3 And C4 Leaves
 
@@ -1805,10 +1805,10 @@ C3 plants usually have lower temperature optima.
 
 Typical values:
 
-| Plant Type | Temperature Optimum |
-|---|---|
-| C3 plants | About 20-25 degree C |
-| C4 plants | About 30-40 degree C |
+| Plant Type | Temperature Optimum  |
+| ---------- | -------------------- |
+| C3 plants  | About 20-25 degree C |
+| C4 plants  | About 30-40 degree C |
 
 The exact optimum depends on habitat.
 
@@ -2193,42 +2193,42 @@ At very high light, photosynthesis can decline because chlorophyll may be damage
 
 ## 32.1 Light Reaction And Calvin Cycle
 
-| Feature | Light Reaction | Calvin Cycle |
-|---|---|---|
-| Location | Thylakoid membrane | Stroma |
-| Direct need for light | Yes | No direct photon requirement |
-| Main inputs | Light, H2O, ADP, Pi, NADP+ | CO2, ATP, NADPH |
-| Main outputs | O2, ATP, NADPH | Carbohydrate, ADP, NADP+ |
-| Main role | Convert light energy into chemical energy | Use chemical energy to fix carbon |
+| Feature               | Light Reaction                            | Calvin Cycle                      |
+| --------------------- | ----------------------------------------- | --------------------------------- |
+| Location              | Thylakoid membrane                        | Stroma                            |
+| Direct need for light | Yes                                       | No direct photon requirement      |
+| Main inputs           | Light, H2O, ADP, Pi, NADP+                | CO2, ATP, NADPH                   |
+| Main outputs          | O2, ATP, NADPH                            | Carbohydrate, ADP, NADP+          |
+| Main role             | Convert light energy into chemical energy | Use chemical energy to fix carbon |
 
 ## 32.2 PS I And PS II
 
-| Feature | PS I | PS II |
-|---|---|---|
-| Reaction centre | P700 | P680 |
-| Absorption peak | 700 nm | 680 nm |
-| Functional order in Z scheme | After PS II | Before PS I |
-| Water splitting link | Not directly | Directly associated |
-| Role | Helps reduce NADP+ | Starts non-cyclic electron flow |
+| Feature                      | PS I               | PS II                           |
+| ---------------------------- | ------------------ | ------------------------------- |
+| Reaction centre              | P700               | P680                            |
+| Absorption peak              | 700 nm             | 680 nm                          |
+| Functional order in Z scheme | After PS II        | Before PS I                     |
+| Water splitting link         | Not directly       | Directly associated             |
+| Role                         | Helps reduce NADP+ | Starts non-cyclic electron flow |
 
 ## 32.3 Carboxylation And Oxygenation By RuBisCO
 
-| Feature | Carboxylation | Oxygenation |
-|---|---|---|
-| Gas used | CO2 | O2 |
-| Product path | Calvin cycle | Photorespiration |
-| Efficiency | Productive | Wasteful in this chapter context |
-| Favoured by | High CO2 | Low CO2 or high O2 competition |
+| Feature      | Carboxylation | Oxygenation                      |
+| ------------ | ------------- | -------------------------------- |
+| Gas used     | CO2           | O2                               |
+| Product path | Calvin cycle  | Photorespiration                 |
+| Efficiency   | Productive    | Wasteful in this chapter context |
+| Favoured by  | High CO2      | Low CO2 or high O2 competition   |
 
 ## 32.4 C3 And C4 Anatomy
 
-| Feature | C3 Leaf | C4 Leaf |
-|---|---|---|
-| Kranz anatomy | Absent | Present |
+| Feature             | C3 Leaf                                 | C4 Leaf                 |
+| ------------------- | --------------------------------------- | ----------------------- |
+| Kranz anatomy       | Absent                                  | Present                 |
 | Bundle sheath cells | Not highly specialised for Calvin cycle | Large, chloroplast-rich |
-| Mesophyll role | Calvin cycle | Initial CO2 fixation |
-| Bundle sheath role | Limited photosynthetic specialisation | Calvin cycle |
-| Photorespiration | Significant | Negligible |
+| Mesophyll role      | Calvin cycle                            | Initial CO2 fixation    |
+| Bundle sheath role  | Limited photosynthetic specialisation   | Calvin cycle            |
+| Photorespiration    | Significant                             | Negligible              |
 
 ## 33. Exam-Oriented Answers
 
@@ -2460,45 +2460,45 @@ It controls the rate of photosynthesis even when other factors are sufficient.
 
 ## 37. Rapid Revision Sheet
 
-| Topic | One-Line Revision |
-|---|---|
-| Photosynthesis | Light energy becomes chemical energy in carbohydrates |
-| Autotroph | Organism that makes its own food |
-| Priestley | Plants restore air |
-| Ingenhousz | Light and green parts release oxygen |
-| Sachs | Glucose is produced and stored as starch |
-| Engelmann | Blue and red light give high oxygen evolution |
-| Van Niel | Oxygen comes from water |
-| Calvin | Carbon pathway traced using C14 |
-| Chloroplast thylakoid | Site of light reaction |
-| Stroma | Site of Calvin cycle |
-| Chlorophyll a | Chief pigment |
-| Accessory pigments | Broaden absorption and protect chlorophyll a |
-| PS I | P700 |
-| PS II | P680 |
-| Z scheme | Electron flow from water to NADP+ |
-| Water splitting | Produces electrons, protons, and oxygen |
-| Non-cyclic flow | ATP, NADPH, and O2 |
-| Cyclic flow | ATP only |
-| Chemiosmosis | Proton gradient drives ATP synthesis |
-| Lumen | High proton concentration |
-| ATP synthase | CF0 channel and CF1 catalytic head |
-| Calvin cycle | Carboxylation, reduction, regeneration |
-| RuBP | 5-carbon CO2 acceptor |
-| RuBisCO | Carboxylase and oxygenase |
-| C3 first product | 3-PGA |
-| C4 first product | OAA |
-| C4 acceptor | PEP |
-| PEPcase | Initial C4 fixation enzyme |
-| Kranz anatomy | Bundle sheath specialisation in C4 leaves |
-| Photorespiration | Oxygenation of RuBP, wasteful in C3 plants |
-| Blackman's law | Nearest minimum factor controls rate |
-| CO2 enrichment | Can increase yield in greenhouse crops |
-| Water stress | Closes stomata and lowers CO2 entry |
+| Topic                 | One-Line Revision                                     |
+| --------------------- | ----------------------------------------------------- |
+| Photosynthesis        | Light energy becomes chemical energy in carbohydrates |
+| Autotroph             | Organism that makes its own food                      |
+| Priestley             | Plants restore air                                    |
+| Ingenhousz            | Light and green parts release oxygen                  |
+| Sachs                 | Glucose is produced and stored as starch              |
+| Engelmann             | Blue and red light give high oxygen evolution         |
+| Van Niel              | Oxygen comes from water                               |
+| Calvin                | Carbon pathway traced using C14                       |
+| Chloroplast thylakoid | Site of light reaction                                |
+| Stroma                | Site of Calvin cycle                                  |
+| Chlorophyll a         | Chief pigment                                         |
+| Accessory pigments    | Broaden absorption and protect chlorophyll a          |
+| PS I                  | P700                                                  |
+| PS II                 | P680                                                  |
+| Z scheme              | Electron flow from water to NADP+                     |
+| Water splitting       | Produces electrons, protons, and oxygen               |
+| Non-cyclic flow       | ATP, NADPH, and O2                                    |
+| Cyclic flow           | ATP only                                              |
+| Chemiosmosis          | Proton gradient drives ATP synthesis                  |
+| Lumen                 | High proton concentration                             |
+| ATP synthase          | CF0 channel and CF1 catalytic head                    |
+| Calvin cycle          | Carboxylation, reduction, regeneration                |
+| RuBP                  | 5-carbon CO2 acceptor                                 |
+| RuBisCO               | Carboxylase and oxygenase                             |
+| C3 first product      | 3-PGA                                                 |
+| C4 first product      | OAA                                                   |
+| C4 acceptor           | PEP                                                   |
+| PEPcase               | Initial C4 fixation enzyme                            |
+| Kranz anatomy         | Bundle sheath specialisation in C4 leaves             |
+| Photorespiration      | Oxygenation of RuBP, wasteful in C3 plants            |
+| Blackman's law        | Nearest minimum factor controls rate                  |
+| CO2 enrichment        | Can increase yield in greenhouse crops                |
+| Water stress          | Closes stomata and lowers CO2 entry                   |
 
 ## 38. Raw File Reference
 
-| Item | Path |
-|---|---|
-| Raw input | `data/class_11/biology/chapter_11.md` |
+| Item             | Path                                             |
+| ---------------- | ------------------------------------------------ |
+| Raw input        | `data/class_11/biology/chapter_11.md`            |
 | Formatted output | `data_learner_md/class_11/biology/chapter_11.md` |

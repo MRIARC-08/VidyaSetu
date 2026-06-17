@@ -113,12 +113,12 @@ Community usually refers to a group with shared life, belonging, and often local
 
 Association refers to a group formed for a specific purpose.
 
-| Community | Association |
-|---|---|
-| Based on shared life or identity | Based on specific goal |
-| Usually more enduring | May be temporary or formal |
-| Emotional belonging is stronger | Instrumental purpose is stronger |
-| Example: village community | Example: student union |
+| Community                        | Association                      |
+| -------------------------------- | -------------------------------- |
+| Based on shared life or identity | Based on specific goal           |
+| Usually more enduring            | May be temporary or formal       |
+| Emotional belonging is stronger  | Instrumental purpose is stronger |
+| Example: village community       | Example: student union           |
 
 ## 7. Status
 
@@ -263,20 +263,20 @@ Concepts help trace these changes.
 
 ## 16. Key Terms
 
-| Term | Meaning |
-|---|---|
-| Concept | Analytical tool for understanding social life |
-| Social group | People who interact and share belonging |
-| Primary group | Small intimate group |
-| Secondary group | Formal goal-oriented group |
-| Community | Group with shared life or belonging |
-| Association | Group formed for a specific purpose |
-| Status | Social position |
-| Role | Expected behaviour linked to status |
-| Norm | Shared rule of behaviour |
-| Value | Shared idea of what is desirable |
-| Social control | Regulation of behaviour |
-| Deviance | Behaviour violating norms |
+| Term            | Meaning                                       |
+| --------------- | --------------------------------------------- |
+| Concept         | Analytical tool for understanding social life |
+| Social group    | People who interact and share belonging       |
+| Primary group   | Small intimate group                          |
+| Secondary group | Formal goal-oriented group                    |
+| Community       | Group with shared life or belonging           |
+| Association     | Group formed for a specific purpose           |
+| Status          | Social position                               |
+| Role            | Expected behaviour linked to status           |
+| Norm            | Shared rule of behaviour                      |
+| Value           | Shared idea of what is desirable              |
+| Social control  | Regulation of behaviour                       |
+| Deviance        | Behaviour violating norms                     |
 
 ## 17. Exam-Oriented Summary
 
@@ -296,4 +296,3 @@ Social life is patterned through statuses and roles. Norms and values guide beha
 8. What are norms and values?
 9. Explain formal and informal social control.
 10. Why is deviance socially defined?
-

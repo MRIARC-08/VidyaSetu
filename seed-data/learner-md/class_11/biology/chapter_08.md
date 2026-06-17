@@ -4,16 +4,16 @@ Class 11 Biology
 
 ## Chapter Profile
 
-| Item | Details |
-|---|---|
-| Class | 11 |
-| Subject | Biology |
-| Chapter | 8 |
-| Title | Cell: The Unit of Life |
-| Main theme | Cell theory, prokaryotic cells, eukaryotic cells, and organelles |
-| Core idea | The cell is the structural and functional unit of life |
-| Main comparison | Prokaryotic cells versus eukaryotic cells |
-| Learner goal | Understand cell organisation from cell envelope to nucleus and organelles |
+| Item            | Details                                                                   |
+| --------------- | ------------------------------------------------------------------------- |
+| Class           | 11                                                                        |
+| Subject         | Biology                                                                   |
+| Chapter         | 8                                                                         |
+| Title           | Cell: The Unit of Life                                                    |
+| Main theme      | Cell theory, prokaryotic cells, eukaryotic cells, and organelles          |
+| Core idea       | The cell is the structural and functional unit of life                    |
+| Main comparison | Prokaryotic cells versus eukaryotic cells                                 |
+| Learner goal    | Understand cell organisation from cell envelope to nucleus and organelles |
 
 ## How To Study This Chapter
 
@@ -51,56 +51,56 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Cell | Basic structural and functional unit of living organisms |
-| Unicellular | Made of one cell |
-| Multicellular | Made of many cells |
-| Cell theory | Theory stating that living organisms are made of cells and cells arise from pre-existing cells |
-| Prokaryotic cell | Cell lacking membrane-bound nucleus and membrane-bound organelles |
-| Eukaryotic cell | Cell with membrane-bound nucleus and membrane-bound organelles |
-| Cytoplasm | Semi-fluid matrix inside the cell |
-| Organelle | Specialised cell structure performing a function |
-| Plasma membrane | Selectively permeable boundary of cell |
-| Cell wall | Rigid non-living outer covering in plants and fungi |
-| Plasmid | Small circular DNA outside genomic DNA in bacteria |
-| Mesosome | Infolding of prokaryotic plasma membrane |
-| Glycocalyx | Outermost layer of bacterial cell envelope |
-| Ribosome | Non-membranous organelle for protein synthesis |
-| Polysome | Chain of ribosomes attached to one mRNA |
-| Inclusion body | Storage body in prokaryotic cytoplasm |
-| Fluid mosaic model | Model of plasma membrane with mobile proteins in lipid bilayer |
-| Passive transport | Movement across membrane without energy expenditure |
-| Osmosis | Diffusion of water across a selectively permeable membrane |
-| Active transport | Energy-dependent movement against concentration gradient |
-| Endomembrane system | Coordinated system including ER, Golgi complex, lysosomes, and vacuoles |
-| Cristae | Infoldings of inner mitochondrial membrane |
-| Stroma | Matrix inside chloroplast inner membrane |
-| Thylakoid | Flattened membranous sac in chloroplast |
-| Grana | Stacks of thylakoids |
-| Cytoskeleton | Protein filament network for support, movement, and shape |
-| Axoneme | Core of cilia and flagella with microtubules |
-| Centriole | Cylindrical structure with microtubule triplets |
-| Nucleolus | Non-membranous nuclear region for rRNA synthesis |
-| Chromatin | DNA with proteins in interphase nucleus |
-| Centromere | Primary constriction of chromosome |
-| Kinetochore | Disc-like structure on sides of centromere |
-| Microbody | Small enzyme-containing membrane-bound vesicle |
+| Term                | Meaning                                                                                        |
+| ------------------- | ---------------------------------------------------------------------------------------------- |
+| Cell                | Basic structural and functional unit of living organisms                                       |
+| Unicellular         | Made of one cell                                                                               |
+| Multicellular       | Made of many cells                                                                             |
+| Cell theory         | Theory stating that living organisms are made of cells and cells arise from pre-existing cells |
+| Prokaryotic cell    | Cell lacking membrane-bound nucleus and membrane-bound organelles                              |
+| Eukaryotic cell     | Cell with membrane-bound nucleus and membrane-bound organelles                                 |
+| Cytoplasm           | Semi-fluid matrix inside the cell                                                              |
+| Organelle           | Specialised cell structure performing a function                                               |
+| Plasma membrane     | Selectively permeable boundary of cell                                                         |
+| Cell wall           | Rigid non-living outer covering in plants and fungi                                            |
+| Plasmid             | Small circular DNA outside genomic DNA in bacteria                                             |
+| Mesosome            | Infolding of prokaryotic plasma membrane                                                       |
+| Glycocalyx          | Outermost layer of bacterial cell envelope                                                     |
+| Ribosome            | Non-membranous organelle for protein synthesis                                                 |
+| Polysome            | Chain of ribosomes attached to one mRNA                                                        |
+| Inclusion body      | Storage body in prokaryotic cytoplasm                                                          |
+| Fluid mosaic model  | Model of plasma membrane with mobile proteins in lipid bilayer                                 |
+| Passive transport   | Movement across membrane without energy expenditure                                            |
+| Osmosis             | Diffusion of water across a selectively permeable membrane                                     |
+| Active transport    | Energy-dependent movement against concentration gradient                                       |
+| Endomembrane system | Coordinated system including ER, Golgi complex, lysosomes, and vacuoles                        |
+| Cristae             | Infoldings of inner mitochondrial membrane                                                     |
+| Stroma              | Matrix inside chloroplast inner membrane                                                       |
+| Thylakoid           | Flattened membranous sac in chloroplast                                                        |
+| Grana               | Stacks of thylakoids                                                                           |
+| Cytoskeleton        | Protein filament network for support, movement, and shape                                      |
+| Axoneme             | Core of cilia and flagella with microtubules                                                   |
+| Centriole           | Cylindrical structure with microtubule triplets                                                |
+| Nucleolus           | Non-membranous nuclear region for rRNA synthesis                                               |
+| Chromatin           | DNA with proteins in interphase nucleus                                                        |
+| Centromere          | Primary constriction of chromosome                                                             |
+| Kinetochore         | Disc-like structure on sides of centromere                                                     |
+| Microbody           | Small enzyme-containing membrane-bound vesicle                                                 |
 
 ## Chapter Map
 
-| Unit | Topic | What To Master |
-|---|---|---|
-| 8.1 | What is a cell? | Cell as independent unit of life |
-| 8.2 | Cell theory | Schleiden, Schwann, Virchow |
-| 8.3 | Cell overview | Cytoplasm, nucleus, organelles, cell size and shape |
-| 8.4 | Prokaryotic cells | Envelope, plasmids, mesosome, flagella, ribosomes |
-| 8.5 | Eukaryotic cells | Plant and animal cell comparison |
-| 8.6 | Cell membrane and wall | Fluid mosaic model, transport, plant wall |
-| 8.7 | Endomembrane system | ER, Golgi, lysosomes, vacuoles |
-| 8.8 | Energy and photosynthesis organelles | Mitochondria and plastids |
-| 8.9 | Non-membranous structures | Ribosomes, cytoskeleton, centrosome |
-| 8.10 | Nucleus and chromosomes | Nuclear envelope, nucleolus, chromatin, centromere |
+| Unit | Topic                                | What To Master                                      |
+| ---- | ------------------------------------ | --------------------------------------------------- |
+| 8.1  | What is a cell?                      | Cell as independent unit of life                    |
+| 8.2  | Cell theory                          | Schleiden, Schwann, Virchow                         |
+| 8.3  | Cell overview                        | Cytoplasm, nucleus, organelles, cell size and shape |
+| 8.4  | Prokaryotic cells                    | Envelope, plasmids, mesosome, flagella, ribosomes   |
+| 8.5  | Eukaryotic cells                     | Plant and animal cell comparison                    |
+| 8.6  | Cell membrane and wall               | Fluid mosaic model, transport, plant wall           |
+| 8.7  | Endomembrane system                  | ER, Golgi, lysosomes, vacuoles                      |
+| 8.8  | Energy and photosynthesis organelles | Mitochondria and plastids                           |
+| 8.9  | Non-membranous structures            | Ribosomes, cytoskeleton, centrosome                 |
+| 8.10 | Nucleus and chromosomes              | Nuclear envelope, nucleolus, chromatin, centromere  |
 
 ## 1. Biology, Unity, And The Cell
 
@@ -123,9 +123,9 @@ Therefore, the cell is the fundamental structural and functional unit of living 
 
 ## 2.1 Unicellular And Multicellular Organisms
 
-| Type | Meaning | Example Context |
-|---|---|---|
-| Unicellular organism | Body made of one cell | Many bacteria, Amoeba |
+| Type                   | Meaning                 | Example Context             |
+| ---------------------- | ----------------------- | --------------------------- |
+| Unicellular organism   | Body made of one cell   | Many bacteria, Amoeba       |
 | Multicellular organism | Body made of many cells | Plants, animals, many fungi |
 
 In unicellular organisms, one cell performs all life activities.
@@ -134,13 +134,13 @@ In multicellular organisms, cells specialise and cooperate.
 
 ## 2.2 Discovery Milestones
 
-| Scientist | Contribution |
-|---|---|
-| Antonie van Leeuwenhoek | First saw and described a living cell |
-| Robert Brown | Discovered the nucleus |
-| Schleiden | Studied plants and concluded that plants are made of cells |
-| Schwann | Studied animal cells and helped formulate cell theory |
-| Virchow | Explained that new cells arise from pre-existing cells |
+| Scientist               | Contribution                                               |
+| ----------------------- | ---------------------------------------------------------- |
+| Antonie van Leeuwenhoek | First saw and described a living cell                      |
+| Robert Brown            | Discovered the nucleus                                     |
+| Schleiden               | Studied plants and concluded that plants are made of cells |
+| Schwann                 | Studied animal cells and helped formulate cell theory      |
+| Virchow                 | Explained that new cells arise from pre-existing cells     |
 
 ## 3. Cell Theory
 
@@ -161,26 +161,26 @@ Virchow expressed this idea as "Omnis cellula e cellula", meaning every cell ari
 
 All cells have some common features.
 
-| Feature | Present In |
-|---|---|
-| Plasma membrane | All cells |
-| Cytoplasm | All cells |
-| Genetic material | All cells |
-| Ribosomes | All cells |
+| Feature          | Present In |
+| ---------------- | ---------- |
+| Plasma membrane  | All cells  |
+| Cytoplasm        | All cells  |
+| Genetic material | All cells  |
+| Ribosomes        | All cells  |
 
 Eukaryotic cells have additional membrane-bound organelles.
 
 ## 4.1 Prokaryotic Versus Eukaryotic Cells
 
-| Feature | Prokaryotic Cell | Eukaryotic Cell |
-|---|---|---|
-| Membrane-bound nucleus | Absent | Present |
-| Nuclear membrane | Absent | Present |
-| Membrane-bound organelles | Absent | Present |
-| Genetic material | Naked, usually circular DNA | Organised into chromosomes |
-| Ribosomes | 70S | 80S in cytoplasm |
-| Size | Usually smaller | Usually larger |
-| Examples | Bacteria, cyanobacteria, mycoplasma | Protists, fungi, plants, animals |
+| Feature                   | Prokaryotic Cell                    | Eukaryotic Cell                  |
+| ------------------------- | ----------------------------------- | -------------------------------- |
+| Membrane-bound nucleus    | Absent                              | Present                          |
+| Nuclear membrane          | Absent                              | Present                          |
+| Membrane-bound organelles | Absent                              | Present                          |
+| Genetic material          | Naked, usually circular DNA         | Organised into chromosomes       |
+| Ribosomes                 | 70S                                 | 80S in cytoplasm                 |
+| Size                      | Usually smaller                     | Usually larger                   |
+| Examples                  | Bacteria, cyanobacteria, mycoplasma | Protists, fungi, plants, animals |
 
 ## 4.2 Cytoplasm
 
@@ -204,13 +204,13 @@ Examples:
 
 ## 4.4 Cell Shape And Function
 
-| Cell Shape | Functional Meaning |
-|---|---|
-| Biconcave | Helps red blood cells exchange gases efficiently |
-| Long and branched | Helps nerve cells transmit impulses |
-| Columnar | Useful for lining and absorption |
-| Irregular | Useful for movement or engulfing particles |
-| Elongated | Useful for support or conduction in plants |
+| Cell Shape        | Functional Meaning                               |
+| ----------------- | ------------------------------------------------ |
+| Biconcave         | Helps red blood cells exchange gases efficiently |
+| Long and branched | Helps nerve cells transmit impulses              |
+| Columnar          | Useful for lining and absorption                 |
+| Irregular         | Useful for movement or engulfing particles       |
+| Elongated         | Useful for support or conduction in plants       |
 
 ## 5. Prokaryotic Cells
 
@@ -225,25 +225,25 @@ They are generally smaller and multiply more rapidly than eukaryotic cells.
 
 ## 5.1 Basic Bacterial Shapes
 
-| Shape | Name |
-|---|---|
-| Rod-like | Bacillus |
-| Spherical | Coccus |
-| Comma-shaped | Vibrio |
-| Spiral | Spirillum |
+| Shape        | Name      |
+| ------------ | --------- |
+| Rod-like     | Bacillus  |
+| Spherical    | Coccus    |
+| Comma-shaped | Vibrio    |
+| Spiral       | Spirillum |
 
 ## 5.2 General Features Of Prokaryotic Cells
 
-| Feature | Description |
-|---|---|
-| Nucleus | Not well-defined |
-| Nuclear membrane | Absent |
-| Genomic DNA | Naked, usually single circular chromosome |
-| Plasmids | Small circular extra DNA in many bacteria |
-| Organelles | Membrane-bound organelles absent |
-| Ribosomes | Present |
-| Cell wall | Present in most, absent in mycoplasma |
-| Cytoplasm | Semi-fluid matrix |
+| Feature          | Description                               |
+| ---------------- | ----------------------------------------- |
+| Nucleus          | Not well-defined                          |
+| Nuclear membrane | Absent                                    |
+| Genomic DNA      | Naked, usually single circular chromosome |
+| Plasmids         | Small circular extra DNA in many bacteria |
+| Organelles       | Membrane-bound organelles absent          |
+| Ribosomes        | Present                                   |
+| Cell wall        | Present in most, absent in mycoplasma     |
+| Cytoplasm        | Semi-fluid matrix                         |
 
 ## 5.3 Plasmids
 
@@ -261,10 +261,10 @@ It has three layers.
 
 ## 6.1 Layers Of Bacterial Cell Envelope
 
-| Layer | Position |
-|---|---|
-| Glycocalyx | Outermost |
-| Cell wall | Middle |
+| Layer           | Position  |
+| --------------- | --------- |
+| Glycocalyx      | Outermost |
+| Cell wall       | Middle    |
 | Plasma membrane | Innermost |
 
 These layers work together as a protective unit.
@@ -273,10 +273,10 @@ These layers work together as a protective unit.
 
 Glycocalyx differs in thickness and composition among bacteria.
 
-| Type | Feature |
-|---|---|
-| Slime layer | Loose sheath |
-| Capsule | Thick and tough |
+| Type        | Feature         |
+| ----------- | --------------- |
+| Slime layer | Loose sheath    |
+| Capsule     | Thick and tough |
 
 ## 6.3 Cell Wall
 
@@ -290,9 +290,9 @@ The bacterial cell wall:
 
 Bacteria are classified based on response to Gram staining.
 
-| Type | Response |
-|---|---|
-| Gram positive | Take up Gram stain |
+| Type          | Response                                  |
+| ------------- | ----------------------------------------- |
+| Gram positive | Take up Gram stain                        |
 | Gram negative | Do not take up Gram stain in the same way |
 
 This difference is linked to cell envelope structure.
@@ -401,26 +401,26 @@ Eukaryotes include:
 
 ## 10.1 Main Features Of Eukaryotic Cells
 
-| Feature | Description |
-|---|---|
-| Nucleus | Organised nucleus with nuclear envelope |
-| Organelles | Membrane-bound organelles present |
-| Cytoplasm | Compartmentalised |
-| Genetic material | Organised into chromosomes |
-| Cytoskeleton | Present |
-| Locomotory structures | Cilia and flagella in many cells |
+| Feature               | Description                             |
+| --------------------- | --------------------------------------- |
+| Nucleus               | Organised nucleus with nuclear envelope |
+| Organelles            | Membrane-bound organelles present       |
+| Cytoplasm             | Compartmentalised                       |
+| Genetic material      | Organised into chromosomes              |
+| Cytoskeleton          | Present                                 |
+| Locomotory structures | Cilia and flagella in many cells        |
 
 ## 10.2 Plant Cell Versus Animal Cell
 
-| Feature | Plant Cell | Animal Cell |
-|---|---|---|
-| Cell wall | Present | Absent |
-| Plastids | Present | Absent |
-| Large central vacuole | Usually present | Usually absent |
-| Centrioles | Absent in most plant cells | Present |
-| Plasma membrane | Present | Present |
-| Nucleus | Present | Present |
-| Mitochondria | Present | Present |
+| Feature               | Plant Cell                 | Animal Cell    |
+| --------------------- | -------------------------- | -------------- |
+| Cell wall             | Present                    | Absent         |
+| Plastids              | Present                    | Absent         |
+| Large central vacuole | Usually present            | Usually absent |
+| Centrioles            | Absent in most plant cells | Present        |
+| Plasma membrane       | Present                    | Present        |
+| Nucleus               | Present                    | Present        |
+| Mitochondria          | Present                    | Present        |
 
 ## 11. Cell Membrane
 
@@ -436,9 +436,9 @@ It is mainly made of:
 
 The major lipids are phospholipids arranged in a bilayer.
 
-| Part | Orientation |
-|---|---|
-| Polar heads | Toward watery outer and inner sides |
+| Part              | Orientation                          |
+| ----------------- | ------------------------------------ |
+| Polar heads       | Toward watery outer and inner sides  |
 | Hydrophobic tails | Toward the inner part of the bilayer |
 
 This arrangement protects nonpolar hydrocarbon tails from the aqueous environment.
@@ -447,10 +447,10 @@ This arrangement protects nonpolar hydrocarbon tails from the aqueous environmen
 
 Membrane proteins are of two broad types.
 
-| Type | Position |
-|---|---|
-| Peripheral proteins | On membrane surface |
-| Integral proteins | Partly or fully embedded in membrane |
+| Type                | Position                             |
+| ------------------- | ------------------------------------ |
+| Peripheral proteins | On membrane surface                  |
+| Integral proteins   | Partly or fully embedded in membrane |
 
 ## 11.3 Fluid Mosaic Model
 
@@ -518,18 +518,18 @@ Cell wall:
 
 ## 12.2 Composition Of Cell Wall
 
-| Organism Group | Cell Wall Composition |
-|---|---|
-| Algae | Cellulose, galactans, mannans, minerals such as calcium carbonate |
-| Higher plants | Cellulose, hemicellulose, pectins, proteins |
+| Organism Group | Cell Wall Composition                                             |
+| -------------- | ----------------------------------------------------------------- |
+| Algae          | Cellulose, galactans, mannans, minerals such as calcium carbonate |
+| Higher plants  | Cellulose, hemicellulose, pectins, proteins                       |
 
 ## 12.3 Primary Wall, Secondary Wall, And Middle Lamella
 
-| Structure | Description |
-|---|---|
-| Primary wall | Wall of young plant cell, capable of growth |
+| Structure      | Description                                          |
+| -------------- | ---------------------------------------------------- |
+| Primary wall   | Wall of young plant cell, capable of growth          |
 | Secondary wall | Formed on inner side of primary wall as cell matures |
-| Middle lamella | Calcium pectate layer that glues neighbouring cells |
+| Middle lamella | Calcium pectate layer that glues neighbouring cells  |
 
 ## 12.4 Plasmodesmata
 
@@ -561,10 +561,10 @@ It divides intracellular space into:
 
 ## 14.1 Rough ER And Smooth ER
 
-| Type | Feature | Function |
-|---|---|---|
-| Rough ER | Ribosomes attached | Protein synthesis and secretion |
-| Smooth ER | Ribosomes absent | Lipid synthesis |
+| Type      | Feature            | Function                        |
+| --------- | ------------------ | ------------------------------- |
+| Rough ER  | Ribosomes attached | Protein synthesis and secretion |
+| Smooth ER | Ribosomes absent   | Lipid synthesis                 |
 
 RER is often continuous with the outer nuclear membrane.
 
@@ -578,12 +578,12 @@ It consists of flat disc-shaped sacs called cisternae.
 
 ## 15.1 Structure Of Golgi Apparatus
 
-| Feature | Description |
-|---|---|
-| Cisternae | Flat stacked sacs |
-| Cis face | Forming face |
-| Trans face | Maturing face |
-| Location | Often near nucleus and ER |
+| Feature    | Description               |
+| ---------- | ------------------------- |
+| Cisternae  | Flat stacked sacs         |
+| Cis face   | Forming face              |
+| Trans face | Maturing face             |
+| Location   | Often near nucleus and ER |
 
 ## 15.2 Functions Of Golgi Apparatus
 
@@ -632,10 +632,10 @@ The tonoplast helps transport ions and materials into the vacuole, often against
 
 ## 17.2 Special Vacuoles
 
-| Type | Function |
-|---|---|
-| Contractile vacuole | Osmoregulation and excretion in Amoeba |
-| Food vacuole | Formed by engulfing food particles in many protists |
+| Type                | Function                                            |
+| ------------------- | --------------------------------------------------- |
+| Contractile vacuole | Osmoregulation and excretion in Amoeba              |
+| Food vacuole        | Formed by engulfing food particles in many protists |
 
 ## 18. Mitochondria
 
@@ -647,12 +647,12 @@ They may be sausage-shaped or cylindrical.
 
 ## 18.1 Structure Of Mitochondrion
 
-| Part | Description |
-|---|---|
-| Outer membrane | Continuous limiting boundary |
-| Inner membrane | Forms infoldings called cristae |
-| Cristae | Increase surface area |
-| Matrix | Dense inner compartment |
+| Part                | Description                             |
+| ------------------- | --------------------------------------- |
+| Outer membrane      | Continuous limiting boundary            |
+| Inner membrane      | Forms infoldings called cristae         |
+| Cristae             | Increase surface area                   |
+| Matrix              | Dense inner compartment                 |
 | Intermembrane space | Space between outer and inner membranes |
 
 ## 18.2 Functions Of Mitochondria
@@ -684,19 +684,19 @@ They contain pigments or stored nutrients.
 
 ## 19.1 Types Of Plastids
 
-| Plastid Type | Pigment Or Content | Function |
-|---|---|---|
-| Chloroplast | Chlorophyll and carotenoids | Photosynthesis |
-| Chromoplast | Carotene, xanthophylls, other pigments | Yellow, orange, red colours |
-| Leucoplast | Colourless, stored nutrients | Storage |
+| Plastid Type | Pigment Or Content                     | Function                    |
+| ------------ | -------------------------------------- | --------------------------- |
+| Chloroplast  | Chlorophyll and carotenoids            | Photosynthesis              |
+| Chromoplast  | Carotene, xanthophylls, other pigments | Yellow, orange, red colours |
+| Leucoplast   | Colourless, stored nutrients           | Storage                     |
 
 ## 19.2 Types Of Leucoplasts
 
-| Type | Stored Material | Example Context |
-|---|---|---|
-| Amyloplast | Starch | Potato |
-| Elaioplast | Oils and fats | Storage tissues |
-| Aleuroplast | Proteins | Protein storage |
+| Type        | Stored Material | Example Context |
+| ----------- | --------------- | --------------- |
+| Amyloplast  | Starch          | Potato          |
+| Elaioplast  | Oils and fats   | Storage tissues |
+| Aleuroplast | Proteins        | Protein storage |
 
 ## 20. Chloroplast
 
@@ -716,24 +716,24 @@ Chloroplasts may be:
 
 ## 20.2 Structure Of Chloroplast
 
-| Part | Description |
-|---|---|
-| Outer membrane | Outer boundary |
-| Inner membrane | Less permeable than outer membrane |
-| Stroma | Matrix inside inner membrane |
-| Thylakoids | Flattened membranous sacs |
-| Grana | Stacks of thylakoids |
-| Stroma lamellae | Tubules connecting grana |
-| Lumen | Space inside thylakoid |
+| Part            | Description                        |
+| --------------- | ---------------------------------- |
+| Outer membrane  | Outer boundary                     |
+| Inner membrane  | Less permeable than outer membrane |
+| Stroma          | Matrix inside inner membrane       |
+| Thylakoids      | Flattened membranous sacs          |
+| Grana           | Stacks of thylakoids               |
+| Stroma lamellae | Tubules connecting grana           |
+| Lumen           | Space inside thylakoid             |
 
 ## 20.3 Functions Of Chloroplast Parts
 
-| Part | Function |
-|---|---|
-| Thylakoid membrane | Contains chlorophyll pigments for light reactions |
-| Stroma | Contains enzymes for synthesis of carbohydrates and proteins |
-| Grana | Site associated with light reaction organisation |
-| Stroma | Site associated with dark reaction enzymes |
+| Part               | Function                                                     |
+| ------------------ | ------------------------------------------------------------ |
+| Thylakoid membrane | Contains chlorophyll pigments for light reactions            |
+| Stroma             | Contains enzymes for synthesis of carbohydrates and proteins |
+| Grana              | Site associated with light reaction organisation             |
+| Stroma             | Site associated with dark reaction enzymes                   |
 
 ## 20.4 Semi-Autonomous Features
 
@@ -753,10 +753,10 @@ They are not surrounded by a membrane.
 
 ## 21.1 Ribosome Types
 
-| Ribosome | Subunits | Location |
-|---|---|---|
-| 70S | 50S and 30S | Prokaryotes, mitochondria, chloroplasts |
-| 80S | 60S and 40S | Eukaryotic cytoplasm |
+| Ribosome | Subunits    | Location                                |
+| -------- | ----------- | --------------------------------------- |
+| 70S      | 50S and 30S | Prokaryotes, mitochondria, chloroplasts |
+| 80S      | 60S and 40S | Eukaryotic cytoplasm                    |
 
 The letter S refers to Svedberg unit, a measure related to sedimentation, size, and density.
 
@@ -790,11 +790,11 @@ Cilia and flagella are hair-like outgrowths of the cell membrane.
 
 ## 23.1 Cilia Versus Flagella
 
-| Feature | Cilia | Flagella |
-|---|---|---|
-| Length | Shorter | Longer |
-| Function | Move cell or surrounding fluid | Mainly cell movement |
-| Motion comparison | Work like oars | Usually whip-like |
+| Feature           | Cilia                          | Flagella             |
+| ----------------- | ------------------------------ | -------------------- |
+| Length            | Shorter                        | Longer               |
+| Function          | Move cell or surrounding fluid | Mainly cell movement |
+| Motion comparison | Work like oars                 | Usually whip-like    |
 
 Prokaryotic flagella are structurally different from eukaryotic flagella.
 
@@ -897,12 +897,12 @@ Centromere holds the two chromatids together.
 
 ## 26.1 Chromosome Types Based On Centromere Position
 
-| Type | Centromere Position | Arms |
-|---|---|---|
-| Metacentric | Middle | Two equal arms |
-| Submetacentric | Slightly away from middle | One short arm, one long arm |
-| Acrocentric | Close to one end | One extremely short arm, one very long arm |
-| Telocentric | Terminal | One main arm |
+| Type           | Centromere Position       | Arms                                       |
+| -------------- | ------------------------- | ------------------------------------------ |
+| Metacentric    | Middle                    | Two equal arms                             |
+| Submetacentric | Slightly away from middle | One short arm, one long arm                |
+| Acrocentric    | Close to one end          | One extremely short arm, one very long arm |
+| Telocentric    | Terminal                  | One main arm                               |
 
 ## 26.2 Satellite
 
@@ -920,53 +920,53 @@ Examples commonly studied in biology include peroxisomes and glyoxysomes, though
 
 ## 28. Organelle Summary By Membrane Type
 
-| Membrane Type | Organelles Or Structures |
-|---|---|
-| No membrane | Ribosomes, cytoskeleton, centrioles |
+| Membrane Type   | Organelles Or Structures                              |
+| --------------- | ----------------------------------------------------- |
+| No membrane     | Ribosomes, cytoskeleton, centrioles                   |
 | Single membrane | ER, Golgi apparatus, lysosomes, vacuoles, microbodies |
-| Double membrane | Nucleus, mitochondria, chloroplasts |
+| Double membrane | Nucleus, mitochondria, chloroplasts                   |
 
 ## 29. High-Yield Comparison Tables
 
 ## 29.1 Mitochondria Versus Chloroplasts
 
-| Feature | Mitochondria | Chloroplasts |
-|---|---|---|
-| Membrane | Double | Double |
-| Main function | Aerobic respiration and ATP production | Photosynthesis |
-| Inner structures | Cristae | Thylakoids, grana, stroma lamellae |
-| Matrix | Present | Stroma present |
-| DNA | Circular DNA present | Circular DNA present |
-| Ribosomes | 70S | 70S |
-| Division | Fission | Can divide |
+| Feature          | Mitochondria                           | Chloroplasts                       |
+| ---------------- | -------------------------------------- | ---------------------------------- |
+| Membrane         | Double                                 | Double                             |
+| Main function    | Aerobic respiration and ATP production | Photosynthesis                     |
+| Inner structures | Cristae                                | Thylakoids, grana, stroma lamellae |
+| Matrix           | Present                                | Stroma present                     |
+| DNA              | Circular DNA present                   | Circular DNA present               |
+| Ribosomes        | 70S                                    | 70S                                |
+| Division         | Fission                                | Can divide                         |
 
 ## 29.2 RER Versus SER
 
-| Feature | RER | SER |
-|---|---|---|
-| Ribosomes | Present | Absent |
-| Main function | Protein synthesis and secretion | Lipid synthesis |
-| Continuity | Often continuous with outer nuclear membrane | Part of ER network |
-| Common in | Protein-secreting cells | Lipid or steroid synthesising cells |
+| Feature       | RER                                          | SER                                 |
+| ------------- | -------------------------------------------- | ----------------------------------- |
+| Ribosomes     | Present                                      | Absent                              |
+| Main function | Protein synthesis and secretion              | Lipid synthesis                     |
+| Continuity    | Often continuous with outer nuclear membrane | Part of ER network                  |
+| Common in     | Protein-secreting cells                      | Lipid or steroid synthesising cells |
 
 ## 29.3 Lysosome Versus Vacuole
 
-| Feature | Lysosome | Vacuole |
-|---|---|---|
-| Membrane | Single | Single |
-| Origin | Golgi packaging | Cytoplasmic membrane-bound space |
-| Main content | Hydrolytic enzymes | Water, sap, waste, stored materials |
-| Main function | Digestion of macromolecules | Storage, osmoregulation, excretion |
-| Special example | Digestive vesicle | Contractile vacuole in Amoeba |
+| Feature         | Lysosome                    | Vacuole                             |
+| --------------- | --------------------------- | ----------------------------------- |
+| Membrane        | Single                      | Single                              |
+| Origin          | Golgi packaging             | Cytoplasmic membrane-bound space    |
+| Main content    | Hydrolytic enzymes          | Water, sap, waste, stored materials |
+| Main function   | Digestion of macromolecules | Storage, osmoregulation, excretion  |
+| Special example | Digestive vesicle           | Contractile vacuole in Amoeba       |
 
 ## 29.4 Prokaryotic Ribosome Versus Eukaryotic Cytoplasmic Ribosome
 
-| Feature | Prokaryotic Ribosome | Eukaryotic Cytoplasmic Ribosome |
-|---|---|---|
-| Size | 70S | 80S |
-| Subunits | 50S and 30S | 60S and 40S |
-| Membrane | Absent | Absent |
-| Function | Protein synthesis | Protein synthesis |
+| Feature  | Prokaryotic Ribosome | Eukaryotic Cytoplasmic Ribosome |
+| -------- | -------------------- | ------------------------------- |
+| Size     | 70S                  | 80S                             |
+| Subunits | 50S and 30S          | 60S and 40S                     |
+| Membrane | Absent               | Absent                          |
+| Function | Protein synthesis    | Protein synthesis               |
 
 ## 30. Text-Based Labelled Diagrams
 
@@ -1088,18 +1088,18 @@ Telocentric:     C - arm
 
 ## 31. Common Learner Mistakes
 
-| Mistake | Correction |
-|---|---|
-| Saying Robert Brown discovered the cell | Robert Brown discovered the nucleus |
-| Saying cells arise from non-living material | Cells arise from pre-existing cells |
-| Thinking all cells have nucleus | Prokaryotes lack membrane-bound nucleus |
-| Thinking ribosomes are membrane-bound | Ribosomes are non-membranous |
-| Calling plasmids the main chromosome | Plasmids are extra small circular DNA |
-| Confusing 70S and 80S ribosomes | Prokaryotes have 70S; eukaryotic cytoplasm has 80S |
-| Saying polar molecules cross lipid bilayer by simple diffusion | Polar molecules need transport proteins |
-| Including mitochondria in endomembrane system | Mitochondria are not part of endomembrane system |
-| Confusing cristae and thylakoids | Cristae are mitochondrial infoldings; thylakoids are chloroplast sacs |
-| Saying nucleolus has a membrane | Nucleolus is not membrane-bound |
+| Mistake                                                        | Correction                                                            |
+| -------------------------------------------------------------- | --------------------------------------------------------------------- |
+| Saying Robert Brown discovered the cell                        | Robert Brown discovered the nucleus                                   |
+| Saying cells arise from non-living material                    | Cells arise from pre-existing cells                                   |
+| Thinking all cells have nucleus                                | Prokaryotes lack membrane-bound nucleus                               |
+| Thinking ribosomes are membrane-bound                          | Ribosomes are non-membranous                                          |
+| Calling plasmids the main chromosome                           | Plasmids are extra small circular DNA                                 |
+| Confusing 70S and 80S ribosomes                                | Prokaryotes have 70S; eukaryotic cytoplasm has 80S                    |
+| Saying polar molecules cross lipid bilayer by simple diffusion | Polar molecules need transport proteins                               |
+| Including mitochondria in endomembrane system                  | Mitochondria are not part of endomembrane system                      |
+| Confusing cristae and thylakoids                               | Cristae are mitochondrial infoldings; thylakoids are chloroplast sacs |
+| Saying nucleolus has a membrane                                | Nucleolus is not membrane-bound                                       |
 
 ## 32. Exercise Answers
 
@@ -1124,11 +1124,11 @@ This follows Virchow's statement that every cell arises from a pre-existing cell
 
 ## 32.3 Match The Following
 
-| Column I | Correct Match | Column II |
-|---|---|---|
-| Cristae | ii | Infoldings in mitochondria |
-| Cisternae | iii | Disc-shaped sacs in Golgi apparatus |
-| Thylakoids | i | Flat membranous sacs in stroma |
+| Column I   | Correct Match | Column II                           |
+| ---------- | ------------- | ----------------------------------- |
+| Cristae    | ii            | Infoldings in mitochondria          |
+| Cisternae  | iii           | Disc-shaped sacs in Golgi apparatus |
+| Thylakoids | i             | Flat membranous sacs in stroma      |
 
 ## 32.4 Which Statement Is Correct?
 
@@ -1255,11 +1255,11 @@ Function:
 
 Both lysosomes and vacuoles are single membrane-bound endomembrane structures, but their functions differ.
 
-| Feature | Lysosomes | Vacuoles |
-|---|---|---|
-| Main content | Hydrolytic enzymes | Water, sap, waste, stored materials |
-| Main function | Digestion of macromolecules | Storage, osmoregulation, excretion |
-| Example | Digestion of proteins, lipids, nucleic acids | Large central vacuole in plants |
+| Feature       | Lysosomes                                    | Vacuoles                            |
+| ------------- | -------------------------------------------- | ----------------------------------- |
+| Main content  | Hydrolytic enzymes                           | Water, sap, waste, stored materials |
+| Main function | Digestion of macromolecules                  | Storage, osmoregulation, excretion  |
+| Example       | Digestion of proteins, lipids, nucleic acids | Large central vacuole in plants     |
 
 ## 32.13 Structure Of Nucleus
 
@@ -1302,12 +1302,12 @@ Kinetochores are disc-like structures present on the sides of the centromere.
 
 ## 32.16 Classification Of Chromosomes By Centromere Position
 
-| Type | Centromere Position | Shape Result |
-|---|---|---|
-| Metacentric | Middle | Two equal arms |
-| Submetacentric | Slightly away from middle | One short and one long arm |
-| Acrocentric | Close to one end | One very short and one very long arm |
-| Telocentric | At terminal end | One main arm |
+| Type           | Centromere Position       | Shape Result                         |
+| -------------- | ------------------------- | ------------------------------------ |
+| Metacentric    | Middle                    | Two equal arms                       |
+| Submetacentric | Slightly away from middle | One short and one long arm           |
+| Acrocentric    | Close to one end          | One very short and one very long arm |
+| Telocentric    | At terminal end           | One main arm                         |
 
 Use Section 30.5 for a text diagram guide.
 
@@ -1384,36 +1384,35 @@ Nucleolus is the site of rRNA synthesis and is involved in ribosome formation.
 
 ## 35. Rapid Revision Sheet
 
-| Topic | One-Line Revision |
-|---|---|
-| Cell | Structural and functional unit of life |
-| Cell theory | Organisms are made of cells; cells arise from cells |
-| Prokaryote | No membrane-bound nucleus |
-| Eukaryote | Membrane-bound nucleus and organelles |
-| Plasmid | Extra circular bacterial DNA |
-| Mesosome | Plasma membrane infolding |
-| 70S ribosome | 50S plus 30S |
-| 80S ribosome | 60S plus 40S |
-| Plasma membrane | Phospholipid bilayer with proteins |
-| Fluid mosaic | Mobile proteins in quasi-fluid lipid bilayer |
-| Cell wall | Rigid outer covering in plants and fungi |
-| ER | RER for proteins, SER for lipids |
-| Golgi | Packaging and modification |
-| Lysosome | Hydrolytic digestion |
-| Vacuole | Storage and osmoregulation |
-| Mitochondria | ATP production |
-| Chloroplast | Photosynthesis |
-| Cytoskeleton | Support, motility, shape |
-| Cilia and flagella | 9+2 axoneme |
-| Centriole | 9 triplet microtubules |
-| Nucleus | Control and heredity |
-| Nucleolus | rRNA synthesis |
-| Centromere | Primary constriction |
+| Topic              | One-Line Revision                                   |
+| ------------------ | --------------------------------------------------- |
+| Cell               | Structural and functional unit of life              |
+| Cell theory        | Organisms are made of cells; cells arise from cells |
+| Prokaryote         | No membrane-bound nucleus                           |
+| Eukaryote          | Membrane-bound nucleus and organelles               |
+| Plasmid            | Extra circular bacterial DNA                        |
+| Mesosome           | Plasma membrane infolding                           |
+| 70S ribosome       | 50S plus 30S                                        |
+| 80S ribosome       | 60S plus 40S                                        |
+| Plasma membrane    | Phospholipid bilayer with proteins                  |
+| Fluid mosaic       | Mobile proteins in quasi-fluid lipid bilayer        |
+| Cell wall          | Rigid outer covering in plants and fungi            |
+| ER                 | RER for proteins, SER for lipids                    |
+| Golgi              | Packaging and modification                          |
+| Lysosome           | Hydrolytic digestion                                |
+| Vacuole            | Storage and osmoregulation                          |
+| Mitochondria       | ATP production                                      |
+| Chloroplast        | Photosynthesis                                      |
+| Cytoskeleton       | Support, motility, shape                            |
+| Cilia and flagella | 9+2 axoneme                                         |
+| Centriole          | 9 triplet microtubules                              |
+| Nucleus            | Control and heredity                                |
+| Nucleolus          | rRNA synthesis                                      |
+| Centromere         | Primary constriction                                |
 
 ## 36. Raw File Reference
 
-| Item | Path |
-|---|---|
-| Raw input | `data/class_11/biology/chapter_08.md` |
+| Item             | Path                                             |
+| ---------------- | ------------------------------------------------ |
+| Raw input        | `data/class_11/biology/chapter_08.md`            |
 | Formatted output | `data_learner_md/class_11/biology/chapter_08.md` |
-

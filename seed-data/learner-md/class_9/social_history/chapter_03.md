@@ -1,20 +1,21 @@
 # Chapter 3: Nazism and the Rise of Hitler
+
 ### NCERT Class 9 — Social History
 
 ---
 
 ## 📌 Chapter at a Glance
 
-| Detail | Info |
-|---|---|
-| Chapter | 3 — Nazism and the Rise of Hitler |
-| Class | Class 9 |
-| Subject | Social History |
-| Pilot Subject Family | History |
-| Source File | `data/class_9/social_history/chapter_03.md` |
-| Textbook Pages | 49 – 74 |
-| Raw Exercise Count | 14 |
-| Formatting Mode | Human-guided pilot for subject-specific automation |
+| Detail               | Info                                               |
+| -------------------- | -------------------------------------------------- |
+| Chapter              | 3 — Nazism and the Rise of Hitler                  |
+| Class                | Class 9                                            |
+| Subject              | Social History                                     |
+| Pilot Subject Family | History                                            |
+| Source File          | `data/class_9/social_history/chapter_03.md`        |
+| Textbook Pages       | 49 – 74                                            |
+| Raw Exercise Count   | 14                                                 |
+| Formatting Mode      | Human-guided pilot for subject-specific automation |
 
 ---
 
@@ -23,55 +24,55 @@
 > [!NOTE]
 > Study this chapter through this route: **time period -> actors -> causes -> events/processes -> consequences -> historical interpretation**.
 
-| Step | Learner Action | Why It Matters |
-|---|---|---|
-| 1 | Build a timeline before memorising details. | Builds reliable recall and answer quality. |
-| 2 | Separate causes, course, and consequences for each historical process. | Builds reliable recall and answer quality. |
-| 3 | Track people, places, dates, and sources in separate tables. | Builds reliable recall and answer quality. |
-| 4 | Notice how maps, images, and primary sources support the narrative. | Builds reliable recall and answer quality. |
+| Step | Learner Action                                                         | Why It Matters                             |
+| ---- | ---------------------------------------------------------------------- | ------------------------------------------ |
+| 1    | Build a timeline before memorising details.                            | Builds reliable recall and answer quality. |
+| 2    | Separate causes, course, and consequences for each historical process. | Builds reliable recall and answer quality. |
+| 3    | Track people, places, dates, and sources in separate tables.           | Builds reliable recall and answer quality. |
+| 4    | Notice how maps, images, and primary sources support the narrative.    | Builds reliable recall and answer quality. |
 
 ---
 
 ## 🎯 Learning Outcomes
 
-| # | After studying this chapter, you should be able to... |
-|---|---|
-| 1 | place events, people, and processes in chronological order |
-| 2 | explain causes, developments, consequences, and historical significance |
-| 3 | interpret maps, sources, images, and timelines as historical evidence |
-| 4 | explain the role of 'Establishment of the Racial State' in the chapter |
-| 5 | explain the role of 'The Racial Utopia' in the chapter |
+| #   | After studying this chapter, you should be able to...                   |
+| --- | ----------------------------------------------------------------------- |
+| 1   | place events, people, and processes in chronological order              |
+| 2   | explain causes, developments, consequences, and historical significance |
+| 3   | interpret maps, sources, images, and timelines as historical evidence   |
+| 4   | explain the role of 'Establishment of the Racial State' in the chapter  |
+| 5   | explain the role of 'The Racial Utopia' in the chapter                  |
 
 ---
 
 ## 🗂️ Section Structure
 
-| Section | Title | Revision Focus |
-|---|---|---|
-| 3.1 | Establishment of the Racial State | Definition, explanation, examples, and likely questions |
-| 3.2 | The Racial Utopia | Definition, explanation, examples, and likely questions |
+| Section | Title                             | Revision Focus                                          |
+| ------- | --------------------------------- | ------------------------------------------------------- |
+| 3.1     | Establishment of the Racial State | Definition, explanation, examples, and likely questions |
+| 3.2     | The Racial Utopia                 | Definition, explanation, examples, and likely questions |
 
 ---
 
 ## 🧠 Subject-Specific Study Method
 
-| Part | How to Use It |
-|---|---|
-| Core lens | time period -> actors -> causes -> events/processes -> consequences -> historical interpretation |
-| First pass | Read for meaning and mark unfamiliar terms. |
-| Second pass | Convert definitions, examples, data, and activities into tables. |
-| Revision pass | Use the quick reference and practice tracker at the end. |
+| Part          | How to Use It                                                                                    |
+| ------------- | ------------------------------------------------------------------------------------------------ |
+| Core lens     | time period -> actors -> causes -> events/processes -> consequences -> historical interpretation |
+| First pass    | Read for meaning and mark unfamiliar terms.                                                      |
+| Second pass   | Convert definitions, examples, data, and activities into tables.                                 |
+| Revision pass | Use the quick reference and practice tracker at the end.                                         |
 
 ---
 
 ## 🧭 Concept, Evidence, and Example Board
 
-| Learning Need | How To Build It |
-|---|---|
-| Core concepts | Turn each definition into a one-line meaning and one example. |
-| Evidence | Use dates, places, maps, data, thinkers, laws, institutions, or case studies from the chapter. |
-| Comparison | Prepare tables for contrasts, causes, consequences, and viewpoints. |
-| Answer quality | Move from description to explanation to significance. |
+| Learning Need  | How To Build It                                                                                |
+| -------------- | ---------------------------------------------------------------------------------------------- |
+| Core concepts  | Turn each definition into a one-line meaning and one example.                                  |
+| Evidence       | Use dates, places, maps, data, thinkers, laws, institutions, or case studies from the chapter. |
+| Comparison     | Prepare tables for contrasts, causes, consequences, and viewpoints.                            |
+| Answer quality | Move from description to explanation to significance.                                          |
 
 ---
 
@@ -332,8 +333,8 @@ French Revolution. Write a paragraph comparing and contrasting the role of women
 
 ## 🔑 Key Concepts & Definitions
 
-| Term | Learner-Friendly Meaning |
-|---|---|
+| Term                               | Learner-Friendly Meaning                                                              |
+| ---------------------------------- | ------------------------------------------------------------------------------------- |
 | **Nazis devised an unprecedented** | of killing people, that is, by gassing them in various killing centres like Auschwitz |
 
 ---
@@ -347,75 +348,75 @@ French Revolution. Write a paragraph comparing and contrasting the role of women
 
 ## 🔬 Activities, Projects, and Inquiry Prompts
 
-| # | Prompt | Learner Task |
-|---|---|---|
-| 1 | Activity | Observe, discuss, collect evidence, or write a short response. |
-| 2 | 2. Discuss why Nazism became popular in Germany by 1930. | Observe, discuss, collect evidence, or write a short response. |
+| #   | Prompt                                                   | Learner Task                                                   |
+| --- | -------------------------------------------------------- | -------------------------------------------------------------- |
+| 1   | Activity                                                 | Observe, discuss, collect evidence, or write a short response. |
+| 2   | 2. Discuss why Nazism became popular in Germany by 1930. | Observe, discuss, collect evidence, or write a short response. |
 
 ---
 
 ## ✏️ Practice & Exercise Tracker
 
-| Q | Question / Task | Answer Strategy |
-|---|---|---|
-| 1 | 1929. Fearing a fall in prices, people made frantic efforts to sell their shares. On one single day, 24 October, 13 million shares were sold. This was the start of the Great Economic Depression. Over the next three years, between 1929 and 1932, the national income of the USA fell by half. Factories shut down, exports fell, farmers were badly hit and speculators withdrew their money from the market. The effects of this recession in the US economy were felt worldwide. The German economy was the worst hit by the economic crisis. By 1932, industrial production was reduced to 40 per cent of the 1929 level. Workers lost their jobs or were paid reduced wages. The number of unemployed touched an unprecedented 6 million. On the streets of Germany you could see men with placards around their necks saying, ‘Willing to do any work’. Unemployed youths played cards or simply sat at street corners, or desperately queued up at the local employment exchange. As jobs disappeared, the youth took to criminal activities and total despair became commonplace. The economic crisis created deep anxieties and fears in people. The middle classes, especially salaried employee s and pensioners, saw their savings diminish when the currency lost its value. Small businessmen, the self -employed and retailers suffered as their | Identify command word, recall concept, structure answer, then review. |
-| 2 | 1. Only Persons of German or related blood would henceforth be German citizens enjoying the protection of the German empire. | Identify command word, recall concept, structure answer, then review. |
-| 3 | 2. Marriages between Jews and Germans were forbidden. | Identify command word, recall concept, structure answer, then review. |
-| 4 | 3. Extramarital relations between Jews and Germans became a crime. | Identify command word, recall concept, structure answer, then review. |
-| 5 | 4. Jews were forbidden to fly the national flag. Other legal measures included: Boycott of Jewish businesses Expulsion from government services Forced selling and confiscation of their properties Besides, Jewish properties were vandalised and looted, houses attacked, synagogues burnt and men arrested in a pogrom in November. 1938, remembered as ‘the night of broken glass’ Reprint 2025-26 Nazism and the Rise of Hitler Jews from Jewish houses, concentration camps and ghettos from different parts of Europe were brought to death factories by goods trains. In P oland and elsewhere in the east, most notably Belzek, Auschwitz, Sobibor, Treblinka, Chelmno and Majdanek, they were charred in gas chambers. Mass killings took place within minutes with scientific precision. | Identify command word, recall concept, structure answer, then review. |
-| 6 | 1. Write a one page history of Germany /head2rightas a schoolchild in Nazi Germany /head2rightas a Jewish survivor of a concentration camp /head2rightas a political opponent of the Nazi regime | Identify command word, recall concept, structure answer, then review. |
-| 7 | 2. Imagine that you are Helmuth. You have had many Jewish friends in school and do not believe that Jews are bad. Write a paragraph on what you would say to your father. | Identify command word, recall concept, structure answer, then review. |
-| 8 | 1. Describe the problems faced by the Weimar Republic. | Identify command word, recall concept, structure answer, then review. |
-| 9 | 2. Discuss why Nazism became popular in Germany by 1930. | Identify command word, recall concept, structure answer, then review. |
-| 10 | 3. What are the peculiar features of Nazi thinking? | Identify command word, recall concept, structure answer, then review. |
-| 11 | 4. Explain why Nazi propaganda was effective in creating a hatred for Jews. | Identify command word, recall concept, structure answer, then review. |
-| 12 | 5. Explain what role women had in Nazi society. Return to Chapter 1 on the French Revolution. Write a paragraph comparing and contrasting the role of women in the two periods. | Identify command word, recall concept, structure answer, then review. |
-| 13 | 6. In what ways did the Nazi state seek to establish total control over its people? ? Activities Reprint 2025-26 **Q1.** were these acts? **Q2.** What was this experinece? **Q3.** imperial ambition? **Q4.** have said to Hitler about these ideas? **Q5.** make them feel unwanted? **Q6.** believe in? How have they acquired them? **Q7.** What do you think this poster is trying to depict? | Identify command word, recall concept, structure answer, then review. |
+| Q   | Question / Task                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Answer Strategy                                                       |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------- |
+| 1   | 1929. Fearing a fall in prices, people made frantic efforts to sell their shares. On one single day, 24 October, 13 million shares were sold. This was the start of the Great Economic Depression. Over the next three years, between 1929 and 1932, the national income of the USA fell by half. Factories shut down, exports fell, farmers were badly hit and speculators withdrew their money from the market. The effects of this recession in the US economy were felt worldwide. The German economy was the worst hit by the economic crisis. By 1932, industrial production was reduced to 40 per cent of the 1929 level. Workers lost their jobs or were paid reduced wages. The number of unemployed touched an unprecedented 6 million. On the streets of Germany you could see men with placards around their necks saying, ‘Willing to do any work’. Unemployed youths played cards or simply sat at street corners, or desperately queued up at the local employment exchange. As jobs disappeared, the youth took to criminal activities and total despair became commonplace. The economic crisis created deep anxieties and fears in people. The middle classes, especially salaried employee s and pensioners, saw their savings diminish when the currency lost its value. Small businessmen, the self -employed and retailers suffered as their | Identify command word, recall concept, structure answer, then review. |
+| 2   | 1. Only Persons of German or related blood would henceforth be German citizens enjoying the protection of the German empire.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Identify command word, recall concept, structure answer, then review. |
+| 3   | 2. Marriages between Jews and Germans were forbidden.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Identify command word, recall concept, structure answer, then review. |
+| 4   | 3. Extramarital relations between Jews and Germans became a crime.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Identify command word, recall concept, structure answer, then review. |
+| 5   | 4. Jews were forbidden to fly the national flag. Other legal measures included: Boycott of Jewish businesses Expulsion from government services Forced selling and confiscation of their properties Besides, Jewish properties were vandalised and looted, houses attacked, synagogues burnt and men arrested in a pogrom in November. 1938, remembered as ‘the night of broken glass’ Reprint 2025-26 Nazism and the Rise of Hitler Jews from Jewish houses, concentration camps and ghettos from different parts of Europe were brought to death factories by goods trains. In P oland and elsewhere in the east, most notably Belzek, Auschwitz, Sobibor, Treblinka, Chelmno and Majdanek, they were charred in gas chambers. Mass killings took place within minutes with scientific precision.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Identify command word, recall concept, structure answer, then review. |
+| 6   | 1. Write a one page history of Germany /head2rightas a schoolchild in Nazi Germany /head2rightas a Jewish survivor of a concentration camp /head2rightas a political opponent of the Nazi regime                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Identify command word, recall concept, structure answer, then review. |
+| 7   | 2. Imagine that you are Helmuth. You have had many Jewish friends in school and do not believe that Jews are bad. Write a paragraph on what you would say to your father.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Identify command word, recall concept, structure answer, then review. |
+| 8   | 1. Describe the problems faced by the Weimar Republic.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Identify command word, recall concept, structure answer, then review. |
+| 9   | 2. Discuss why Nazism became popular in Germany by 1930.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Identify command word, recall concept, structure answer, then review. |
+| 10  | 3. What are the peculiar features of Nazi thinking?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Identify command word, recall concept, structure answer, then review. |
+| 11  | 4. Explain why Nazi propaganda was effective in creating a hatred for Jews.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Identify command word, recall concept, structure answer, then review. |
+| 12  | 5. Explain what role women had in Nazi society. Return to Chapter 1 on the French Revolution. Write a paragraph comparing and contrasting the role of women in the two periods.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Identify command word, recall concept, structure answer, then review. |
+| 13  | 6. In what ways did the Nazi state seek to establish total control over its people? ? Activities Reprint 2025-26 **Q1.** were these acts? **Q2.** What was this experinece? **Q3.** imperial ambition? **Q4.** have said to Hitler about these ideas? **Q5.** make them feel unwanted? **Q6.** believe in? How have they acquired them? **Q7.** What do you think this poster is trying to depict?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Identify command word, recall concept, structure answer, then review. |
 
 ---
 
 ## 🧩 Answer-Writing Framework
 
-| Step | What To Do |
-|---|---|
-| 1 | Place the event or process in time and region. |
-| 2 | Name the main actors or groups. |
-| 3 | Explain causes and conditions. |
-| 4 | Describe major developments in sequence. |
-| 5 | End with consequences or historical significance. |
+| Step | What To Do                                        |
+| ---- | ------------------------------------------------- |
+| 1    | Place the event or process in time and region.    |
+| 2    | Name the main actors or groups.                   |
+| 3    | Explain causes and conditions.                    |
+| 4    | Describe major developments in sequence.          |
+| 5    | End with consequences or historical significance. |
 
 ---
 
 ## ⚠️ Common Misconceptions
 
-| # | Watch Out For This |
-|---|---|
-| 1 | History is not only dates; dates support change over time. |
-| 2 | Do not confuse immediate causes with long-term causes. |
-| 3 | A source or image must be interpreted, not merely described. |
+| #   | Watch Out For This                                           |
+| --- | ------------------------------------------------------------ |
+| 1   | History is not only dates; dates support change over time.   |
+| 2   | Do not confuse immediate causes with long-term causes.       |
+| 3   | A source or image must be interpreted, not merely described. |
 
 ---
 
 ## 📋 Quick Revision Sheet
 
-| Revision Item | What To Recall |
-|---|---|
-| Chapter core | Nazism and the Rise of Hitler |
-| 3.1 | Establishment of the Racial State |
-| 3.2 | The Racial Utopia |
-| Definition | Nazis devised an unprecedented |
+| Revision Item | What To Recall                    |
+| ------------- | --------------------------------- |
+| Chapter core  | Nazism and the Rise of Hitler     |
+| 3.1           | Establishment of the Racial State |
+| 3.2           | The Racial Utopia                 |
+| Definition    | Nazis devised an unprecedented    |
 
 ---
 
 ## ✅ Pilot Quality Checklist
 
-| Check | Status |
-|---|---|
-| Raw data preserved | Yes — chapter content is retained and cleaned, not summarised away. |
-| Learner scaffolding added | Yes — roadmap, outcomes, answer framework, misconceptions, and revision sheet. |
-| Subject-aware structure | Yes — generated from the selected subject family profile. |
-| Needs human review | Yes — especially source extraction mismatches, diagrams, tables, formulas, and broken OCR words. |
+| Check                     | Status                                                                                           |
+| ------------------------- | ------------------------------------------------------------------------------------------------ |
+| Raw data preserved        | Yes — chapter content is retained and cleaned, not summarised away.                              |
+| Learner scaffolding added | Yes — roadmap, outcomes, answer framework, misconceptions, and revision sheet.                   |
+| Subject-aware structure   | Yes — generated from the selected subject family profile.                                        |
+| Needs human review        | Yes — especially source extraction mismatches, diagrams, tables, formulas, and broken OCR words. |
 
 ---
 
-*Source: NCERT Class 9 — Social History, Chapter 3. Raw file: `data/class_9/social_history/chapter_03.md`.*
+_Source: NCERT Class 9 — Social History, Chapter 3. Raw file: `data/class_9/social_history/chapter_03.md`._

@@ -2,13 +2,13 @@
 
 ## Chapter Identity
 
-| Item | Details |
-| --- | --- |
-| Class | 12 |
-| Subject | Psychology |
-| Chapter | Developing Psychological Skills |
-| Core Skill | Understanding the skills required for effective psychological work: observation, communication, testing, interviewing, and counselling |
-| Main Idea | Psychology is not only knowledge of concepts; it also requires disciplined skills, ethical sensitivity, communication, assessment ability, and respect for diversity. |
+| Item       | Details                                                                                                                                                               |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Class      | 12                                                                                                                                                                    |
+| Subject    | Psychology                                                                                                                                                            |
+| Chapter    | Developing Psychological Skills                                                                                                                                       |
+| Core Skill | Understanding the skills required for effective psychological work: observation, communication, testing, interviewing, and counselling                                |
+| Main Idea  | Psychology is not only knowledge of concepts; it also requires disciplined skills, ethical sensitivity, communication, assessment ability, and respect for diversity. |
 
 ## 1. Big Picture
 
@@ -22,13 +22,13 @@ Knowledge + skill + ethics + sensitivity = effective psychological practice
 
 ## 2. Competencies of an Effective Psychologist
 
-| Competency | Meaning |
-| --- | --- |
-| Knowledge | Understanding psychological concepts, theories, and methods. |
-| Skill | Ability to observe, communicate, assess, interview, and counsel. |
-| Ethics | Respecting confidentiality, consent, dignity, and professional boundaries. |
-| Sensitivity | Respecting individual and cultural differences. |
-| Reflection | Examining one's own motives, biases, and behaviour. |
+| Competency  | Meaning                                                                    |
+| ----------- | -------------------------------------------------------------------------- |
+| Knowledge   | Understanding psychological concepts, theories, and methods.               |
+| Skill       | Ability to observe, communicate, assess, interview, and counsel.           |
+| Ethics      | Respecting confidentiality, consent, dignity, and professional boundaries. |
+| Sensitivity | Respecting individual and cultural differences.                            |
+| Reflection  | Examining one's own motives, biases, and behaviour.                        |
 
 ## 3. General Skills
 
@@ -112,13 +112,13 @@ Observation means carefully noticing behaviour and context.
 
 ### Good Observation Requires
 
-| Requirement | Explanation |
-| --- | --- |
-| Accuracy | Notice what is actually present. |
-| Objectivity | Avoid jumping to conclusions. |
-| Patience | Observe over time when needed. |
-| Context | Behaviour must be understood in situation. |
-| Record keeping | Notes should be clear and systematic. |
+| Requirement    | Explanation                                |
+| -------------- | ------------------------------------------ |
+| Accuracy       | Notice what is actually present.           |
+| Objectivity    | Avoid jumping to conclusions.              |
+| Patience       | Observe over time when needed.             |
+| Context        | Behaviour must be understood in situation. |
+| Record keeping | Notes should be clear and systematic.      |
 
 ## 6. Communication Skills
 
@@ -126,20 +126,20 @@ Communication is the process of sending and receiving messages.
 
 ### Components
 
-| Component | Meaning |
-| --- | --- |
-| Sender | Person who sends message. |
-| Message | Content being communicated. |
-| Channel | Medium such as speech, writing, gesture, or phone. |
-| Receiver | Person who receives message. |
-| Feedback | Response from receiver. |
-| Noise | Anything that interferes with communication. |
+| Component | Meaning                                            |
+| --------- | -------------------------------------------------- |
+| Sender    | Person who sends message.                          |
+| Message   | Content being communicated.                        |
+| Channel   | Medium such as speech, writing, gesture, or phone. |
+| Receiver  | Person who receives message.                       |
+| Feedback  | Response from receiver.                            |
+| Noise     | Anything that interferes with communication.       |
 
 ### Verbal and Non-Verbal Communication
 
-| Type | Examples |
-| --- | --- |
-| Verbal | Spoken words, written words. |
+| Type       | Examples                                                      |
+| ---------- | ------------------------------------------------------------- |
+| Verbal     | Spoken words, written words.                                  |
 | Non-verbal | Facial expression, posture, gesture, tone, silence, distance. |
 
 Non-verbal communication can support or contradict spoken words.
@@ -175,14 +175,14 @@ Psychological tests measure abilities, personality, interests, attitudes, or oth
 
 ### Responsible Testing Requires
 
-| Requirement | Meaning |
-| --- | --- |
-| Purpose | Know why the test is being used. |
-| Reliability | Test should give consistent results. |
-| Validity | Test should measure what it claims to measure. |
-| Norms | Scores should be interpreted against appropriate comparison groups. |
-| Standardisation | Test must be administered under proper conditions. |
-| Ethics | Consent, confidentiality, and careful interpretation are essential. |
+| Requirement     | Meaning                                                             |
+| --------------- | ------------------------------------------------------------------- |
+| Purpose         | Know why the test is being used.                                    |
+| Reliability     | Test should give consistent results.                                |
+| Validity        | Test should measure what it claims to measure.                      |
+| Norms           | Scores should be interpreted against appropriate comparison groups. |
+| Standardisation | Test must be administered under proper conditions.                  |
+| Ethics          | Consent, confidentiality, and careful interpretation are essential. |
 
 ### Common Error
 
@@ -194,13 +194,13 @@ An interview is a purposeful conversation used to gather information.
 
 ### Types of Questions
 
-| Type | Use |
-| --- | --- |
-| Open-ended | Encourages detailed response. |
-| Closed-ended | Gets specific information. |
-| Clarifying | Checks meaning. |
-| Probing | Explores deeper details. |
-| Reflective | Shows understanding of feelings. |
+| Type         | Use                              |
+| ------------ | -------------------------------- |
+| Open-ended   | Encourages detailed response.    |
+| Closed-ended | Gets specific information.       |
+| Clarifying   | Checks meaning.                  |
+| Probing      | Explores deeper details.         |
+| Reflective   | Shows understanding of feelings. |
 
 ### Good Interview Practice
 
@@ -253,13 +253,13 @@ Important ethical principles:
 
 ## 12. Common Mistakes and Corrections
 
-| Mistake | Correction |
-| --- | --- |
+| Mistake                                 | Correction                                                                                   |
+| --------------------------------------- | -------------------------------------------------------------------------------------------- |
 | Thinking psychologists only give advice | Psychologists assess, listen, support, interpret, and help clients make their own decisions. |
-| Treating communication as only speaking | Listening and non-verbal cues are equally important. |
-| Ignoring cultural background | Behaviour must be understood in context. |
-| Assuming tests are always correct | Tests must be reliable, valid, standardised, and interpreted carefully. |
-| Confusing counselling with friendship | Counselling is professional, ethical, and goal-oriented. |
+| Treating communication as only speaking | Listening and non-verbal cues are equally important.                                         |
+| Ignoring cultural background            | Behaviour must be understood in context.                                                     |
+| Assuming tests are always correct       | Tests must be reliable, valid, standardised, and interpreted carefully.                      |
+| Confusing counselling with friendship   | Counselling is professional, ethical, and goal-oriented.                                     |
 
 ## 13. Exam Answer Frames
 
@@ -291,18 +291,18 @@ Counselling is a voluntary helping process in which a counsellor responds to the
 
 ## 15. Quick Revision Sheet
 
-| Term | Recall |
-| --- | --- |
-| Observation | Systematic noticing of behaviour and context. |
-| Communication | Sending and receiving messages. |
-| Feedback | Receiver's response. |
-| Noise | Interference in communication. |
-| Active listening | Attentive, empathic listening. |
-| Reliability | Consistency of test results. |
-| Validity | Test measures what it claims. |
-| Interview | Purposeful conversation. |
-| Counselling | Professional helping relationship. |
-| Confidentiality | Keeping client information private. |
+| Term             | Recall                                        |
+| ---------------- | --------------------------------------------- |
+| Observation      | Systematic noticing of behaviour and context. |
+| Communication    | Sending and receiving messages.               |
+| Feedback         | Receiver's response.                          |
+| Noise            | Interference in communication.                |
+| Active listening | Attentive, empathic listening.                |
+| Reliability      | Consistency of test results.                  |
+| Validity         | Test measures what it claims.                 |
+| Interview        | Purposeful conversation.                      |
+| Counselling      | Professional helping relationship.            |
+| Confidentiality  | Keeping client information private.           |
 
 ## 16. Final Learning Takeaway
 

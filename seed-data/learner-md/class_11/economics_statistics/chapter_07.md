@@ -1,4 +1,5 @@
 # Chapter 7: Correlation
+
 ### NCERT Class 11 Statistics for Economics
 
 ---
@@ -40,13 +41,13 @@ If changes in one variable are associated with changes in another variable, the 
 
 Examples:
 
-| Variable X | Variable Y | Likely relationship |
-|---|---|---|
-| Income | Consumption | Positive |
-| Price | Demand | Negative |
-| Rainfall | Crop output | Positive, in many cases |
-| Advertising expenditure | Sales | Positive, if advertising works |
-| Temperature | Demand for woollen clothes | Negative |
+| Variable X              | Variable Y                 | Likely relationship            |
+| ----------------------- | -------------------------- | ------------------------------ |
+| Income                  | Consumption                | Positive                       |
+| Price                   | Demand                     | Negative                       |
+| Rainfall                | Crop output                | Positive, in many cases        |
+| Advertising expenditure | Sales                      | Positive, if advertising works |
+| Temperature             | Demand for woollen clothes | Negative                       |
 
 Correlation asks two questions:
 
@@ -137,14 +138,14 @@ Steps:
 
 ### Interpreting Scatter Diagrams
 
-| Pattern | Meaning |
-|---|---|
-| Points slope upward | Positive correlation |
-| Points slope downward | Negative correlation |
-| Points lie close to a straight line | Strong correlation |
-| Points are widely scattered | Weak correlation |
-| Points show no pattern | Little or no correlation |
-| Points form a curve | Non-linear relationship |
+| Pattern                             | Meaning                  |
+| ----------------------------------- | ------------------------ |
+| Points slope upward                 | Positive correlation     |
+| Points slope downward               | Negative correlation     |
+| Points lie close to a straight line | Strong correlation       |
+| Points are widely scattered         | Weak correlation         |
+| Points show no pattern              | Little or no correlation |
+| Points form a curve                 | Non-linear relationship  |
 
 Scatter diagrams should be examined before calculating correlation because they reveal the shape of the relationship.
 
@@ -162,13 +163,13 @@ Range:
 
 Interpretation:
 
-| Value of r | Meaning |
-|---|---|
-| +1 | Perfect positive correlation |
-| Close to +1 | Strong positive correlation |
-| 0 | No linear correlation |
-| Close to -1 | Strong negative correlation |
-| -1 | Perfect negative correlation |
+| Value of r  | Meaning                      |
+| ----------- | ---------------------------- |
+| +1          | Perfect positive correlation |
+| Close to +1 | Strong positive correlation  |
+| 0           | No linear correlation        |
+| Close to -1 | Strong negative correlation  |
+| -1          | Perfect negative correlation |
 
 If r is outside the range -1 to +1, there is a calculation error.
 
@@ -184,11 +185,11 @@ r = Sigma xy / sqrt(Sigma x^2 x Sigma y^2)
 
 Where:
 
-| Symbol | Meaning |
-|---|---|
-| x | X - Xbar |
-| y | Y - Ybar |
-| Sigma xy | Sum of products of deviations |
+| Symbol    | Meaning                        |
+| --------- | ------------------------------ |
+| x         | X - Xbar                       |
+| y         | Y - Ybar                       |
+| Sigma xy  | Sum of products of deviations  |
 | Sigma x^2 | Sum of squared deviations of X |
 | Sigma y^2 | Sum of squared deviations of Y |
 
@@ -231,12 +232,12 @@ v = (Y - B) / k
 
 Where:
 
-| Symbol | Meaning |
-|---|---|
-| A | Assumed mean of X |
-| B | Assumed mean of Y |
-| h | Common factor for X |
-| k | Common factor for Y |
+| Symbol | Meaning             |
+| ------ | ------------------- |
+| A      | Assumed mean of X   |
+| B      | Assumed mean of Y   |
+| h      | Common factor for X |
+| k      | Common factor for Y |
 
 The value of correlation remains unchanged if origin and scale are changed in this way, provided scale factors have the same sign.
 
@@ -265,11 +266,11 @@ rk = 1 - [6 Sigma D^2 / (N^3 - N)]
 
 Where:
 
-| Symbol | Meaning |
-|---|---|
-| rk | Spearman's rank correlation |
-| D | Difference between ranks |
-| N | Number of paired ranks |
+| Symbol | Meaning                     |
+| ------ | --------------------------- |
+| rk     | Spearman's rank correlation |
+| D      | Difference between ranks    |
+| N      | Number of paired ranks      |
 
 ### Steps
 
@@ -314,52 +315,52 @@ Repeated ranks are common in marks, scores, ratings, or grouped observations.
 
 ## 11. Pearson vs Spearman
 
-| Basis | Pearson's r | Spearman's rank correlation |
-|---|---|---|
-| Data type | Actual numerical values | Ranks |
-| Relationship measured | Linear relationship | Rank association |
-| Use when | Variables are measurable | Variables are ranked or qualitative |
-| Sensitive to extreme values | More sensitive | Less sensitive |
-| Example | Income and consumption | Ranking students by two judges |
+| Basis                       | Pearson's r              | Spearman's rank correlation         |
+| --------------------------- | ------------------------ | ----------------------------------- |
+| Data type                   | Actual numerical values  | Ranks                               |
+| Relationship measured       | Linear relationship      | Rank association                    |
+| Use when                    | Variables are measurable | Variables are ranked or qualitative |
+| Sensitive to extreme values | More sensitive           | Less sensitive                      |
+| Example                     | Income and consumption   | Ranking students by two judges      |
 
 ---
 
 ## 12. Properties of Correlation Coefficient
 
-| Property | Meaning |
-|---|---|
-| Range is -1 to +1 | Values outside this range are impossible |
-| Sign shows direction | Positive or negative relationship |
-| Magnitude shows strength | Closer to 1 means stronger |
-| Unit-free | Correlation has no unit |
-| Unaffected by origin and scale | Changing units does not change r |
-| Measures association, not causation | Interpretation needs economic logic |
+| Property                            | Meaning                                  |
+| ----------------------------------- | ---------------------------------------- |
+| Range is -1 to +1                   | Values outside this range are impossible |
+| Sign shows direction                | Positive or negative relationship        |
+| Magnitude shows strength            | Closer to 1 means stronger               |
+| Unit-free                           | Correlation has no unit                  |
+| Unaffected by origin and scale      | Changing units does not change r         |
+| Measures association, not causation | Interpretation needs economic logic      |
 
 ---
 
 ## 13. Common Mistakes
 
-| Mistake | Correct understanding |
-|---|---|
-| Saying correlation proves causation | Correlation only shows association. |
-| Ignoring scatter diagram | Scatter plot helps identify linear or non-linear relationship. |
-| Using Pearson's r for curved relationship | Pearson's r is mainly for linear relationship. |
-| Getting r greater than 1 or less than -1 | This indicates calculation error. |
-| Confusing sign and strength | Sign gives direction; absolute value gives strength. |
-| Forgetting repeated rank correction | Tied ranks need correction. |
-| Ranking in different directions | Ranks must be assigned consistently. |
+| Mistake                                   | Correct understanding                                          |
+| ----------------------------------------- | -------------------------------------------------------------- |
+| Saying correlation proves causation       | Correlation only shows association.                            |
+| Ignoring scatter diagram                  | Scatter plot helps identify linear or non-linear relationship. |
+| Using Pearson's r for curved relationship | Pearson's r is mainly for linear relationship.                 |
+| Getting r greater than 1 or less than -1  | This indicates calculation error.                              |
+| Confusing sign and strength               | Sign gives direction; absolute value gives strength.           |
+| Forgetting repeated rank correction       | Tied ranks need correction.                                    |
+| Ranking in different directions           | Ranks must be assigned consistently.                           |
 
 ---
 
 ## 14. Formula Board
 
-| Measure | Formula |
-|---|---|
-| Pearson's r, deviation form | r = Sigma xy / sqrt(Sigma x^2 x Sigma y^2) |
-| Pearson's r, direct form | r = [N Sigma XY - Sigma X Sigma Y] / sqrt([N Sigma X^2 - (Sigma X)^2][N Sigma Y^2 - (Sigma Y)^2]) |
-| Step deviation variables | u = (X - A)/h, v = (Y - B)/k |
-| Spearman's rank correlation | rk = 1 - [6 Sigma D^2 / (N^3 - N)] |
-| Repeated rank correction | (m^3 - m) / 12 |
+| Measure                     | Formula                                                                                           |
+| --------------------------- | ------------------------------------------------------------------------------------------------- |
+| Pearson's r, deviation form | r = Sigma xy / sqrt(Sigma x^2 x Sigma y^2)                                                        |
+| Pearson's r, direct form    | r = [N Sigma XY - Sigma X Sigma Y] / sqrt([N Sigma X^2 - (Sigma X)^2][N Sigma Y^2 - (Sigma Y)^2]) |
+| Step deviation variables    | u = (X - A)/h, v = (Y - B)/k                                                                      |
+| Spearman's rank correlation | rk = 1 - [6 Sigma D^2 / (N^3 - N)]                                                                |
+| Repeated rank correction    | (m^3 - m) / 12                                                                                    |
 
 ---
 

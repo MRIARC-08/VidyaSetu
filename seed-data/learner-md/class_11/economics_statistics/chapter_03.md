@@ -1,4 +1,5 @@
 # Chapter 3: Organisation of Data
+
 ### NCERT Class 11 Statistics for Economics
 
 ---
@@ -68,13 +69,13 @@ This list gives values, but it does not clearly show the pattern. Once arranged 
 
 ### Problems With Raw Data
 
-| Problem | Explanation |
-|---|---|
-| Disorganised | Values are not arranged in order |
-| Difficult to compare | Patterns are hidden |
-| Time-consuming | Searching for information takes effort |
-| Not suitable for analysis | Statistical methods need organised data |
-| Hard to summarise | Large raw data cannot be understood quickly |
+| Problem                   | Explanation                                 |
+| ------------------------- | ------------------------------------------- |
+| Disorganised              | Values are not arranged in order            |
+| Difficult to compare      | Patterns are hidden                         |
+| Time-consuming            | Searching for information takes effort      |
+| Not suitable for analysis | Statistical methods need organised data     |
+| Hard to summarise         | Large raw data cannot be understood quickly |
 
 ---
 
@@ -84,12 +85,12 @@ Classification means arranging data into groups or classes according to common c
 
 Examples:
 
-| Data | Possible classification |
-|---|---|
-| Students | Gender, class, marks, stream |
-| Households | Income group, family size, location |
-| Workers | Occupation, wage group, skill level |
-| Villages | District, population size, literacy level |
+| Data       | Possible classification                   |
+| ---------- | ----------------------------------------- |
+| Students   | Gender, class, marks, stream              |
+| Households | Income group, family size, location       |
+| Workers    | Occupation, wage group, skill level       |
+| Villages   | District, population size, literacy level |
 
 Classification should be based on the purpose of the study.
 
@@ -116,12 +117,12 @@ Classification is not decoration. It is the first step toward meaningful statist
 
 Data may be classified in different ways.
 
-| Type | Basis | Example |
-|---|---|---|
-| Chronological classification | Time | Population by year |
-| Spatial classification | Place | Literacy by state |
-| Qualitative classification | Attribute or quality | Population by gender or literacy |
-| Quantitative classification | Numerical variable | Students by marks or families by income |
+| Type                         | Basis                | Example                                 |
+| ---------------------------- | -------------------- | --------------------------------------- |
+| Chronological classification | Time                 | Population by year                      |
+| Spatial classification       | Place                | Literacy by state                       |
+| Qualitative classification   | Attribute or quality | Population by gender or literacy        |
+| Quantitative classification  | Numerical variable   | Students by marks or families by income |
 
 ---
 
@@ -139,9 +140,9 @@ Time may be:
 
 Example:
 
-| Year | Population |
-|---|---|
-| 1991 | 81.8 crore |
+| Year | Population  |
+| ---- | ----------- |
+| 1991 | 81.8 crore  |
 | 2001 | 102.7 crore |
 | 2011 | 121.0 crore |
 
@@ -163,11 +164,11 @@ Spatial classification arranges data according to place or geographical location
 
 Examples:
 
-| Place | Literacy rate |
-|---|---|
-| State A | 78 percent |
-| State B | 84 percent |
-| State C | 70 percent |
+| Place   | Literacy rate |
+| ------- | ------------- |
+| State A | 78 percent    |
+| State B | 84 percent    |
+| State C | 70 percent    |
 
 Uses:
 
@@ -187,13 +188,13 @@ Attributes are characteristics that cannot be measured directly in numbers, thou
 
 Examples:
 
-| Attribute | Classes |
-|---|---|
-| Gender | Male, female |
-| Literacy | Literate, illiterate |
+| Attribute         | Classes              |
+| ----------------- | -------------------- |
+| Gender            | Male, female         |
+| Literacy          | Literate, illiterate |
 | Employment status | Employed, unemployed |
-| Marital status | Married, unmarried |
-| Social status | Rural, urban |
+| Marital status    | Married, unmarried   |
+| Social status     | Rural, urban         |
 
 Qualitative classification helps study social and economic categories.
 
@@ -205,12 +206,12 @@ Quantitative classification is based on numerical variables.
 
 Examples:
 
-| Variable | Possible classes |
-|---|---|
-| Marks | 0-20, 20-40, 40-60 |
-| Income | 0-10,000; 10,000-20,000; 20,000-30,000 |
-| Age | 0-10, 10-20, 20-30 |
-| Expenditure | 1,000-2,000; 2,000-3,000; 3,000-4,000 |
+| Variable    | Possible classes                       |
+| ----------- | -------------------------------------- |
+| Marks       | 0-20, 20-40, 40-60                     |
+| Income      | 0-10,000; 10,000-20,000; 20,000-30,000 |
+| Age         | 0-10, 10-20, 20-30                     |
+| Expenditure | 1,000-2,000; 2,000-3,000; 3,000-4,000  |
 
 This type is especially important because many statistical tools work with numerical data.
 
@@ -245,12 +246,12 @@ Examples:
 
 ### Difference
 
-| Basis | Variable | Attribute |
-|---|---|---|
-| Nature | Numerical | Qualitative |
-| Example | Income | Occupation type |
-| Measurement | Measured in numbers | Classified into categories |
-| Statistical use | Used in quantitative analysis | Counted after grouping |
+| Basis           | Variable                      | Attribute                  |
+| --------------- | ----------------------------- | -------------------------- |
+| Nature          | Numerical                     | Qualitative                |
+| Example         | Income                        | Occupation type            |
+| Measurement     | Measured in numbers           | Classified into categories |
+| Statistical use | Used in quantitative analysis | Counted after grouping     |
 
 ---
 
@@ -285,11 +286,11 @@ A person's height may be 160 cm, 160.5 cm, or 160.52 cm depending on measurement
 
 ### Difference
 
-| Basis | Discrete variable | Continuous variable |
-|---|---|---|
-| Values | Separate values | Any value in a range |
-| Fractions | Usually not possible | Possible |
-| Example | Number of households | Household income |
+| Basis     | Discrete variable    | Continuous variable  |
+| --------- | -------------------- | -------------------- |
+| Values    | Separate values      | Any value in a range |
+| Fractions | Usually not possible | Possible             |
+| Example   | Number of households | Household income     |
 
 ---
 
@@ -308,12 +309,12 @@ Marks obtained by 10 students:
 Frequency distribution:
 
 | Marks | Frequency |
-|---|---:|
-| 10 | 1 |
-| 20 | 2 |
-| 30 | 3 |
-| 40 | 2 |
-| 50 | 2 |
+| ----- | --------: |
+| 10    |         1 |
+| 20    |         2 |
+| 30    |         3 |
+| 40    |         2 |
+| 50    |         2 |
 
 Frequency means the number of times a value occurs.
 
@@ -325,13 +326,13 @@ When data has many values, it is grouped into class intervals.
 
 Example:
 
-| Marks | Number of students |
-|---|---:|
-| 0-20 | 5 |
-| 20-40 | 12 |
-| 40-60 | 25 |
-| 60-80 | 18 |
-| 80-100 | 10 |
+| Marks  | Number of students |
+| ------ | -----------------: |
+| 0-20   |                  5 |
+| 20-40  |                 12 |
+| 40-60  |                 25 |
+| 60-80  |                 18 |
+| 80-100 |                 10 |
 
 This is a grouped frequency distribution.
 
@@ -398,8 +399,8 @@ In the inclusive method, both lower and upper limits are included in the class.
 Example:
 
 | Class |
-|---|
-| 0-9 |
+| ----- |
+| 0-9   |
 | 10-19 |
 | 20-29 |
 
@@ -414,8 +415,8 @@ In the exclusive method, the lower limit is included but the upper limit is excl
 Example:
 
 | Class |
-|---|
-| 0-10 |
+| ----- |
+| 0-10  |
 | 10-20 |
 | 20-30 |
 
@@ -428,10 +429,10 @@ This method is suitable for continuous variables.
 
 ### Difference
 
-| Basis | Inclusive method | Exclusive method |
-|---|---|---|
-| Upper limit | Included | Excluded |
-| Example | 0-9, 10-19 | 0-10, 10-20 |
+| Basis        | Inclusive method   | Exclusive method     |
+| ------------ | ------------------ | -------------------- |
+| Upper limit  | Included           | Excluded             |
+| Example      | 0-9, 10-19         | 0-10, 10-20          |
 | Suitable for | Discrete variables | Continuous variables |
 
 ---
@@ -505,10 +506,10 @@ Method:
 Example:
 
 | Class | Tally | Frequency |
-|---|---|---:|
-| 0-10 | ||| | 3 |
-| 10-20 | ||||/ | 5 |
-| 20-30 | ||||/ || | 7 |
+| ----- | ----- | --------: | --- | --- | --- | --- | --- | --- |
+| 0-10  |       |           |     |     | 3   |
+| 10-20 |       |           |     |     | /   | 5   |
+| 20-30 |       |           |     |     | /   |     |     | 7   |
 
 Tally marks reduce counting errors when preparing frequency tables.
 
@@ -521,12 +522,12 @@ A frequency array is used for discrete data. It shows values and their frequenci
 Example:
 
 | Family size | Number of households |
-|---|---:|
-| 1 | 5 |
-| 2 | 15 |
-| 3 | 25 |
-| 4 | 35 |
-| 5 | 10 |
+| ----------- | -------------------: |
+| 1           |                    5 |
+| 2           |                   15 |
+| 3           |                   25 |
+| 4           |                   35 |
+| 5           |                   10 |
 
 This is useful when the variable takes only distinct values.
 
@@ -559,25 +560,25 @@ Bivariate data helps examine relationships between two variables.
 
 ### Difference
 
-| Basis | Univariate | Bivariate |
-|---|---|---|
-| Variables studied | One | Two |
-| Example | Marks only | Income and expenditure |
-| Use | Shows distribution of one characteristic | Shows relationship between two characteristics |
+| Basis             | Univariate                               | Bivariate                                      |
+| ----------------- | ---------------------------------------- | ---------------------------------------------- |
+| Variables studied | One                                      | Two                                            |
+| Example           | Marks only                               | Income and expenditure                         |
+| Use               | Shows distribution of one characteristic | Shows relationship between two characteristics |
 
 ---
 
 ## 20. Common Mistakes
 
-| Mistake | Correct understanding |
-|---|---|
-| Treating raw data as ready for analysis | Raw data must be organised first. |
-| Classifying without purpose | Classification depends on the objective of the study. |
-| Confusing attribute with variable | Attribute is qualitative; variable is numerical. |
-| Using too many classes | Too many classes make the table complex. |
-| Using too few classes | Too few classes hide information. |
+| Mistake                                     | Correct understanding                                           |
+| ------------------------------------------- | --------------------------------------------------------------- |
+| Treating raw data as ready for analysis     | Raw data must be organised first.                               |
+| Classifying without purpose                 | Classification depends on the objective of the study.           |
+| Confusing attribute with variable           | Attribute is qualitative; variable is numerical.                |
+| Using too many classes                      | Too many classes make the table complex.                        |
+| Using too few classes                       | Too few classes hide information.                               |
 | Confusing inclusive and exclusive intervals | Inclusive includes upper limit; exclusive excludes upper limit. |
-| Forgetting class midpoint formula | Midpoint is average of lower and upper limits. |
+| Forgetting class midpoint formula           | Midpoint is average of lower and upper limits.                  |
 
 ---
 

@@ -1,4 +1,5 @@
 # Chapter 4: Thinkers, Beliefs and Buildings
+
 ### NCERT Class 12 - History Part 1
 
 ## Chapter at a Glance
@@ -22,26 +23,26 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Renunciation | Giving up ordinary household life for spiritual pursuit. |
-| Sangha | Buddhist monastic community. |
-| Stupa | Buddhist sacred mound containing relics or symbolic remains. |
-| Relic | Physical remains or objects associated with a sacred person. |
-| Chaitya | Sacred space or shrine. |
-| Vihara | Monastery or residence for monks. |
-| Tirthankara | Spiritual teacher in Jain tradition. |
-| Patronage | Support given to religious or artistic activity. |
+| Term         | Meaning                                                      |
+| ------------ | ------------------------------------------------------------ |
+| Renunciation | Giving up ordinary household life for spiritual pursuit.     |
+| Sangha       | Buddhist monastic community.                                 |
+| Stupa        | Buddhist sacred mound containing relics or symbolic remains. |
+| Relic        | Physical remains or objects associated with a sacred person. |
+| Chaitya      | Sacred space or shrine.                                      |
+| Vihara       | Monastery or residence for monks.                            |
+| Tirthankara  | Spiritual teacher in Jain tradition.                         |
+| Patronage    | Support given to religious or artistic activity.             |
 
 ## Quick Learning Map
 
-| Evidence type | What it reveals |
-|---|---|
-| Texts | Teachings, debates, rules |
-| Stupas | Worship, relics, patronage |
-| Inscriptions | Donors, guilds, rulers, communities |
-| Sculpture | Stories, symbols, beliefs |
-| Monasteries | Organisation of religious communities |
+| Evidence type | What it reveals                       |
+| ------------- | ------------------------------------- |
+| Texts         | Teachings, debates, rules             |
+| Stupas        | Worship, relics, patronage            |
+| Inscriptions  | Donors, guilds, rulers, communities   |
+| Sculpture     | Stories, symbols, beliefs             |
+| Monasteries   | Organisation of religious communities |
 
 # Unit 4A: Religious Context
 
@@ -220,13 +221,13 @@ For Buddhism:
 
 # Unit 4N: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Treating religion only as belief | Buildings, rituals, donations, and art also matter. |
-| Saying only kings built stupas | Many donors supported them. |
-| Ignoring inscriptions | Donor records are crucial evidence. |
-| Assuming Buddha was always shown in human form | Early art often used symbols. |
-| Treating traditions as isolated | Buddhism, Jainism, and local practices interacted. |
+| Mistake                                        | Correction                                          |
+| ---------------------------------------------- | --------------------------------------------------- |
+| Treating religion only as belief               | Buildings, rituals, donations, and art also matter. |
+| Saying only kings built stupas                 | Many donors supported them.                         |
+| Ignoring inscriptions                          | Donor records are crucial evidence.                 |
+| Assuming Buddha was always shown in human form | Early art often used symbols.                       |
+| Treating traditions as isolated                | Buddhism, Jainism, and local practices interacted.  |
 
 ## Practice Set
 

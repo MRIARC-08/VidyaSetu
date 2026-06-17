@@ -1,16 +1,17 @@
 # Chapter 5: Organising
+
 ### NCERT Class 12 - Business Studies Part 1
 
 ## Chapter at a Glance
 
-| Item | Details |
-|---|---|
-| Main idea | Organising translates plans into action by assigning work, grouping tasks, defining authority, and coordinating resources. |
-| Core output | Organisational structure. |
-| Main steps | Identify work, divide work, group tasks, assign duties, establish reporting relationships. |
-| Structures | Functional structure and divisional structure. |
-| Key concepts | Formal organisation, informal organisation, delegation, decentralisation. |
-| Most important skill | Identify the right structure or authority concept from a case situation. |
+| Item                 | Details                                                                                                                    |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Main idea            | Organising translates plans into action by assigning work, grouping tasks, defining authority, and coordinating resources. |
+| Core output          | Organisational structure.                                                                                                  |
+| Main steps           | Identify work, divide work, group tasks, assign duties, establish reporting relationships.                                 |
+| Structures           | Functional structure and divisional structure.                                                                             |
+| Key concepts         | Formal organisation, informal organisation, delegation, decentralisation.                                                  |
+| Most important skill | Identify the right structure or authority concept from a case situation.                                                   |
 
 ## Learning Outcomes
 
@@ -30,31 +31,31 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Organising | Process of arranging people, work, authority, and resources to implement plans. |
-| Organisational structure | Framework showing job positions, authority relationships, and communication channels. |
-| Departmentalisation | Grouping similar activities into units or departments. |
-| Functional structure | Structure based on major functions such as production, finance, marketing, and personnel. |
-| Divisional structure | Structure based on products, regions, or business divisions. |
-| Formal organisation | Official structure created deliberately by management. |
-| Informal organisation | Network of social relationships that arises naturally among people. |
-| Delegation | Transfer of authority from superior to subordinate for completing assigned work. |
-| Authority | Right to command and make decisions. |
-| Responsibility | Obligation to perform assigned duties. |
-| Accountability | Answerability for final outcome. |
-| Decentralisation | Systematic dispersal of decision-making authority to lower levels. |
+| Term                     | Meaning                                                                                   |
+| ------------------------ | ----------------------------------------------------------------------------------------- |
+| Organising               | Process of arranging people, work, authority, and resources to implement plans.           |
+| Organisational structure | Framework showing job positions, authority relationships, and communication channels.     |
+| Departmentalisation      | Grouping similar activities into units or departments.                                    |
+| Functional structure     | Structure based on major functions such as production, finance, marketing, and personnel. |
+| Divisional structure     | Structure based on products, regions, or business divisions.                              |
+| Formal organisation      | Official structure created deliberately by management.                                    |
+| Informal organisation    | Network of social relationships that arises naturally among people.                       |
+| Delegation               | Transfer of authority from superior to subordinate for completing assigned work.          |
+| Authority                | Right to command and make decisions.                                                      |
+| Responsibility           | Obligation to perform assigned duties.                                                    |
+| Accountability           | Answerability for final outcome.                                                          |
+| Decentralisation         | Systematic dispersal of decision-making authority to lower levels.                        |
 
 ## Quick Learning Map
 
-| Area | Core Question |
-|---|---|
-| Meaning | How are tasks and authority arranged? |
-| Process | What steps convert plans into structure? |
-| Structure | Should work be grouped by function or division? |
-| Formal/informal | Which relationships are official and which arise naturally? |
-| Delegation | Who gives authority to whom for which task? |
-| Decentralisation | How widely is decision power shared? |
+| Area             | Core Question                                               |
+| ---------------- | ----------------------------------------------------------- |
+| Meaning          | How are tasks and authority arranged?                       |
+| Process          | What steps convert plans into structure?                    |
+| Structure        | Should work be grouped by function or division?             |
+| Formal/informal  | Which relationships are official and which arise naturally? |
+| Delegation       | Who gives authority to whom for which task?                 |
+| Decentralisation | How widely is decision power shared?                        |
 
 # Unit 5A: Meaning of Organising
 
@@ -124,12 +125,12 @@ Authority relationships are created so employees know:
 
 ## Process Table
 
-| Step | Main Question |
-|---|---|
-| Identify work | What work must be done? |
-| Group work | Which tasks belong together? |
-| Assign duties | Who will do each task? |
-| Define authority | Who reports to whom? |
+| Step             | Main Question                |
+| ---------------- | ---------------------------- |
+| Identify work    | What work must be done?      |
+| Group work       | Which tasks belong together? |
+| Assign duties    | Who will do each task?       |
+| Define authority | Who reports to whom?         |
 
 # Unit 5D: Organisational Structure
 
@@ -147,10 +148,10 @@ It shows:
 
 Span of management means number of subordinates directly reporting to a manager.
 
-| Wide Span | Narrow Span |
-|---|---|
-| More subordinates under one manager. | Fewer subordinates under one manager. |
-| Fewer levels. | More levels. |
+| Wide Span                                                | Narrow Span                                                   |
+| -------------------------------------------------------- | ------------------------------------------------------------- |
+| More subordinates under one manager.                     | Fewer subordinates under one manager.                         |
+| Fewer levels.                                            | More levels.                                                  |
 | Suitable when work is routine and employees are trained. | Suitable when work is complex or close supervision is needed. |
 
 # Unit 5E: Functional Structure
@@ -221,14 +222,14 @@ Divisional structure is suitable when:
 
 # Unit 5G: Functional vs Divisional Structure
 
-| Basis | Functional Structure | Divisional Structure |
-|---|---|---|
-| Grouping | By function. | By product, region, or division. |
-| Best for | Single or limited product firms. | Multi-product firms. |
-| Specialisation | Functional specialisation. | Product or market specialisation. |
-| Cost | Lower duplication. | Higher duplication. |
-| Responsibility | Department responsibility. | Product or division responsibility. |
-| Coordination | Across functions may be difficult. | Within division easier, across divisions harder. |
+| Basis          | Functional Structure               | Divisional Structure                             |
+| -------------- | ---------------------------------- | ------------------------------------------------ |
+| Grouping       | By function.                       | By product, region, or division.                 |
+| Best for       | Single or limited product firms.   | Multi-product firms.                             |
+| Specialisation | Functional specialisation.         | Product or market specialisation.                |
+| Cost           | Lower duplication.                 | Higher duplication.                              |
+| Responsibility | Department responsibility.         | Product or division responsibility.              |
+| Coordination   | Across functions may be difficult. | Within division easier, across divisions harder. |
 
 # Unit 5H: Formal Organisation
 
@@ -289,11 +290,11 @@ Delegation does not mean superior escapes responsibility. The superior remains a
 
 ## Elements of Delegation
 
-| Element | Meaning |
-|---|---|
-| Authority | Right to command and make decisions. |
-| Responsibility | Duty to perform assigned work. |
-| Accountability | Answerability for outcome. |
+| Element        | Meaning                              |
+| -------------- | ------------------------------------ |
+| Authority      | Right to command and make decisions. |
+| Responsibility | Duty to perform assigned work.       |
+| Accountability | Answerability for outcome.           |
 
 ## Flow
 
@@ -338,23 +339,23 @@ Delegation is between superior and subordinate. Decentralisation is an organisat
 
 # Unit 5M: Delegation vs Decentralisation
 
-| Basis | Delegation | Decentralisation |
-|---|---|---|
-| Meaning | Transfer of authority from superior to subordinate. | Systematic dispersal of authority to lower levels. |
-| Nature | Compulsory for management. | Optional policy choice. |
-| Scope | Narrow. | Wider. |
-| Purpose | Reduce manager's burden and get work done. | Increase participation and speed decisions. |
-| Control | Superior retains control. | Top management retains overall control but lower levels decide more. |
+| Basis   | Delegation                                          | Decentralisation                                                     |
+| ------- | --------------------------------------------------- | -------------------------------------------------------------------- |
+| Meaning | Transfer of authority from superior to subordinate. | Systematic dispersal of authority to lower levels.                   |
+| Nature  | Compulsory for management.                          | Optional policy choice.                                              |
+| Scope   | Narrow.                                             | Wider.                                                               |
+| Purpose | Reduce manager's burden and get work done.          | Increase participation and speed decisions.                          |
+| Control | Superior retains control.                           | Top management retains overall control but lower levels decide more. |
 
 # Unit 5N: Common Mistakes and Corrections
 
-| Mistake | Correct Understanding |
-|---|---|
-| Organising is same as planning | Planning decides goals; organising arranges resources to achieve them. |
-| Functional structure is always best | It suits limited product firms; divisional suits diversified firms. |
-| Informal organisation is always harmful | It can help communication and morale if guided well. |
-| Delegation removes superior's accountability | Final accountability remains with superior. |
-| Delegation and decentralisation are same | Decentralisation is wider and systematic. |
+| Mistake                                      | Correct Understanding                                                  |
+| -------------------------------------------- | ---------------------------------------------------------------------- |
+| Organising is same as planning               | Planning decides goals; organising arranges resources to achieve them. |
+| Functional structure is always best          | It suits limited product firms; divisional suits diversified firms.    |
+| Informal organisation is always harmful      | It can help communication and morale if guided well.                   |
+| Delegation removes superior's accountability | Final accountability remains with superior.                            |
+| Delegation and decentralisation are same     | Decentralisation is wider and systematic.                              |
 
 ## Practice Set
 
@@ -371,13 +372,13 @@ Delegation is between superior and subordinate. Decentralisation is an organisat
 
 ## Structure Selection Toolkit
 
-| Business Situation | Better Structure | Reason |
-|---|---|---|
-| One major product, large scale operations | Functional structure | Specialisation by production, finance, marketing, and personnel is efficient. |
-| Many unrelated products | Divisional structure | Each product line needs separate focus and profit responsibility. |
-| Same product sold in many regions with similar operations | Functional or regional variant, depending on scale | Choose based on whether function or geography creates more complexity. |
-| Rapid product diversification | Divisional structure | Faster product-level decisions and accountability. |
-| Small firm with simple operations | Simple functional grouping | Divisional structure may be too costly. |
+| Business Situation                                        | Better Structure                                   | Reason                                                                        |
+| --------------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------- |
+| One major product, large scale operations                 | Functional structure                               | Specialisation by production, finance, marketing, and personnel is efficient. |
+| Many unrelated products                                   | Divisional structure                               | Each product line needs separate focus and profit responsibility.             |
+| Same product sold in many regions with similar operations | Functional or regional variant, depending on scale | Choose based on whether function or geography creates more complexity.        |
+| Rapid product diversification                             | Divisional structure                               | Faster product-level decisions and accountability.                            |
+| Small firm with simple operations                         | Simple functional grouping                         | Divisional structure may be too costly.                                       |
 
 ## Delegation Quality Checklist
 
@@ -394,33 +395,33 @@ Delegation works well only when:
 
 ## Why Delegation Fails
 
-| Failure Cause | Explanation |
-|---|---|
-| Superior does not trust employees | Authority is not actually transferred. |
-| Subordinate fears criticism | Initiative remains low. |
-| Duties are unclear | Subordinate does not know expected result. |
-| Authority is inadequate | Subordinate cannot make needed decisions. |
-| No feedback system | Superior cannot monitor progress. |
+| Failure Cause                     | Explanation                                |
+| --------------------------------- | ------------------------------------------ |
+| Superior does not trust employees | Authority is not actually transferred.     |
+| Subordinate fears criticism       | Initiative remains low.                    |
+| Duties are unclear                | Subordinate does not know expected result. |
+| Authority is inadequate           | Subordinate cannot make needed decisions.  |
+| No feedback system                | Superior cannot monitor progress.          |
 
 ## Decentralisation Depth
 
 Decentralisation is more than occasional delegation. It is a deliberate philosophy of sharing decision-making power.
 
-| Indicator of High Decentralisation | Meaning |
-|---|---|
-| Branch managers decide local pricing within limits | Authority is pushed closer to market. |
-| Department heads approve routine expenses | Top management is freed from minor decisions. |
-| Product managers control product strategy | Divisional accountability improves. |
-| Lower managers evaluate local suppliers | Decision speed increases. |
+| Indicator of High Decentralisation                 | Meaning                                       |
+| -------------------------------------------------- | --------------------------------------------- |
+| Branch managers decide local pricing within limits | Authority is pushed closer to market.         |
+| Department heads approve routine expenses          | Top management is freed from minor decisions. |
+| Product managers control product strategy          | Divisional accountability improves.           |
+| Lower managers evaluate local suppliers            | Decision speed increases.                     |
 
 ## Formal and Informal Organisation: Case Use
 
-| Case Clue | Organisation Type |
-|---|---|
-| Official reporting line, job description, authority chart | Formal organisation. |
+| Case Clue                                                     | Organisation Type      |
+| ------------------------------------------------------------- | ---------------------- |
+| Official reporting line, job description, authority chart     | Formal organisation.   |
 | Employees form friendship group and share information quickly | Informal organisation. |
-| Rumour spreads before official notice | Informal organisation. |
-| Work flows according to rules and procedures | Formal organisation. |
+| Rumour spreads before official notice                         | Informal organisation. |
+| Work flows according to rules and procedures                  | Formal organisation.   |
 
 ## Case Answer Framework
 

@@ -36,24 +36,24 @@ Read this chapter as a story of transition: from the old Congress system to the 
 
 ## Key Terms
 
-| Term | Meaning | Why it matters |
-|---|---|---|
-| Congress system | Early party system dominated by Congress as a broad coalition | Challenged in the 1960s |
-| Political succession | Transfer of leadership after a leader leaves office or dies | Tested Indian democracy after Nehru and Shastri |
-| Dangerous decade | Phrase used for the 1960s, when India's democracy was considered vulnerable | Shows fears about democratic survival |
-| Non-Congressism | Strategy of opposition unity against Congress | Developed by Ram Manohar Lohia |
-| Coalition government | Government formed by more than one party | Became important after 1967 |
-| SVD | Samyukt Vidhayak Dal, joint legislative party of non-Congress groups | Formed governments in several states |
-| Defection | Elected representative leaving the party on whose ticket they won | Destabilised governments after 1967 |
-| Aya Ram, Gaya Ram | Phrase used for frequent party switching | Came from Haryana MLA Gaya Lal |
-| Syndicate | Informal group of powerful Congress organisation leaders | Challenged Indira Gandhi |
-| Ten Point Programme | Left-leaning policy programme adopted by Congress Working Committee in 1967 | Helped Indira Gandhi create ideological appeal |
-| Conscience vote | Vote according to personal judgment, not party whip | Used by Indira Gandhi in 1969 presidential election |
-| Congress(O) | Congress Organisation, led by Syndicate leaders | Old Congress after the split |
-| Congress(R) | Congress Requisitionists, led by Indira Gandhi | New Congress after the split |
-| Privy purse | Allowance promised to former princes after accession | Abolition became a major equality issue |
-| Garibi Hatao | Indira Gandhi's 1971 slogan meaning remove poverty | Central to her electoral strategy |
-| Grand Alliance | Anti-Indira alliance of major non-communist, non-Congress parties in 1971 | Failed against Congress(R) |
+| Term                 | Meaning                                                                     | Why it matters                                      |
+| -------------------- | --------------------------------------------------------------------------- | --------------------------------------------------- |
+| Congress system      | Early party system dominated by Congress as a broad coalition               | Challenged in the 1960s                             |
+| Political succession | Transfer of leadership after a leader leaves office or dies                 | Tested Indian democracy after Nehru and Shastri     |
+| Dangerous decade     | Phrase used for the 1960s, when India's democracy was considered vulnerable | Shows fears about democratic survival               |
+| Non-Congressism      | Strategy of opposition unity against Congress                               | Developed by Ram Manohar Lohia                      |
+| Coalition government | Government formed by more than one party                                    | Became important after 1967                         |
+| SVD                  | Samyukt Vidhayak Dal, joint legislative party of non-Congress groups        | Formed governments in several states                |
+| Defection            | Elected representative leaving the party on whose ticket they won           | Destabilised governments after 1967                 |
+| Aya Ram, Gaya Ram    | Phrase used for frequent party switching                                    | Came from Haryana MLA Gaya Lal                      |
+| Syndicate            | Informal group of powerful Congress organisation leaders                    | Challenged Indira Gandhi                            |
+| Ten Point Programme  | Left-leaning policy programme adopted by Congress Working Committee in 1967 | Helped Indira Gandhi create ideological appeal      |
+| Conscience vote      | Vote according to personal judgment, not party whip                         | Used by Indira Gandhi in 1969 presidential election |
+| Congress(O)          | Congress Organisation, led by Syndicate leaders                             | Old Congress after the split                        |
+| Congress(R)          | Congress Requisitionists, led by Indira Gandhi                              | New Congress after the split                        |
+| Privy purse          | Allowance promised to former princes after accession                        | Abolition became a major equality issue             |
+| Garibi Hatao         | Indira Gandhi's 1971 slogan meaning remove poverty                          | Central to her electoral strategy                   |
+| Grand Alliance       | Anti-Indira alliance of major non-communist, non-Congress parties in 1971   | Failed against Congress(R)                          |
 
 ## 1. The Chapter In One Sentence
 
@@ -162,9 +162,9 @@ India was also still recovering from the economic effects of the 1962 war with C
 
 Shastri's slogan "Jai Jawan Jai Kisan" captured the two urgent needs of the time.
 
-| Phrase | Meaning in context |
-|---|---|
-| Jai Jawan | Support for soldiers during war |
+| Phrase    | Meaning in context                     |
+| --------- | -------------------------------------- |
+| Jai Jawan | Support for soldiers during war        |
 | Jai Kisan | Support for farmers during food crisis |
 
 The slogan connected national security with food security.
@@ -534,10 +534,10 @@ Indira Gandhi claimed that her group was the real Congress.
 
 By November 1969, two groups had emerged:
 
-| Group | Meaning |
-|---|---|
+| Group       | Meaning                                         |
+| ----------- | ----------------------------------------------- |
 | Congress(O) | Congress Organisation, led by Syndicate leaders |
-| Congress(R) | Congress Requisitionists, led by Indira Gandhi |
+| Congress(R) | Congress Requisitionists, led by Indira Gandhi  |
 
 They were also called Old Congress and New Congress.
 
@@ -687,14 +687,14 @@ The new Congress was different from the old Congress.
 
 ## 55. Old Congress Versus New Congress
 
-| Feature | Old Congress system | New Congress under Indira Gandhi |
-|---|---|---|
-| Organisation | Strong, broad, faction-based | Weaker organisation |
-| Leadership | Collective and negotiated | Centralised around supreme leader |
-| Social base | Broad umbrella across many groups | More focused on poor, women, Dalits, Adivasis, minorities |
-| Internal factions | Many factions accommodated conflict | Fewer autonomous factions |
-| Method of appeal | Party network and freedom movement legacy | Direct popular appeal and slogans |
-| Capacity to absorb conflict | High | Reduced |
+| Feature                     | Old Congress system                       | New Congress under Indira Gandhi                          |
+| --------------------------- | ----------------------------------------- | --------------------------------------------------------- |
+| Organisation                | Strong, broad, faction-based              | Weaker organisation                                       |
+| Leadership                  | Collective and negotiated                 | Centralised around supreme leader                         |
+| Social base                 | Broad umbrella across many groups         | More focused on poor, women, Dalits, Adivasis, minorities |
+| Internal factions           | Many factions accommodated conflict       | Fewer autonomous factions                                 |
+| Method of appeal            | Party network and freedom movement legacy | Direct popular appeal and slogans                         |
+| Capacity to absorb conflict | High                                      | Reduced                                                   |
 
 ## 56. Leader-centred Politics
 
@@ -738,78 +738,78 @@ The Congress system was restored by changing its nature.
 
 ## 60. Important Leaders
 
-| Leader | Role |
-|---|---|
-| Jawaharlal Nehru | His death created first succession crisis |
-| Lal Bahadur Shastri | Prime Minister from 1964 to 1966 |
-| K. Kamaraj | Congress president and Syndicate leader |
-| Indira Gandhi | Prime Minister who defeated Syndicate and restored dominance |
-| Morarji Desai | Rival of Indira Gandhi; later left government |
-| Ram Manohar Lohia | Developed strategy of non-Congressism |
-| S. Nijalingappa | Congress president during split |
-| N. Sanjeeva Reddy | Official Congress candidate in 1969 presidential election |
-| V. V. Giri | Independent candidate supported by Indira Gandhi; won presidency |
+| Leader              | Role                                                             |
+| ------------------- | ---------------------------------------------------------------- |
+| Jawaharlal Nehru    | His death created first succession crisis                        |
+| Lal Bahadur Shastri | Prime Minister from 1964 to 1966                                 |
+| K. Kamaraj          | Congress president and Syndicate leader                          |
+| Indira Gandhi       | Prime Minister who defeated Syndicate and restored dominance     |
+| Morarji Desai       | Rival of Indira Gandhi; later left government                    |
+| Ram Manohar Lohia   | Developed strategy of non-Congressism                            |
+| S. Nijalingappa     | Congress president during split                                  |
+| N. Sanjeeva Reddy   | Official Congress candidate in 1969 presidential election        |
+| V. V. Giri          | Independent candidate supported by Indira Gandhi; won presidency |
 
 ## 61. Important Correction For Learners
 
 Do not mix up the events.
 
-| Event | Correct chapter context |
-|---|---|
-| Congress split | 1969, Indira Gandhi versus Syndicate |
-| Emergency | 1975, next chapter |
-| Punjab Accord | Regional aspirations chapter |
-| Mandal Commission | Recent developments chapter |
-| Linguistic reorganisation | Nation-building chapter |
+| Event                     | Correct chapter context              |
+| ------------------------- | ------------------------------------ |
+| Congress split            | 1969, Indira Gandhi versus Syndicate |
+| Emergency                 | 1975, next chapter                   |
+| Punjab Accord             | Regional aspirations chapter         |
+| Mandal Commission         | Recent developments chapter          |
+| Linguistic reorganisation | Nation-building chapter              |
 
 ## 62. Common Misunderstandings
 
-| Misunderstanding | Correct understanding |
-|---|---|
-| Congress lost power at the Centre in 1967 | Congress retained power at Centre but weakened |
-| 1967 ended Congress dominance completely | It challenged Congress dominance but did not replace it |
-| Non-Congressism meant ideological unity | It meant anti-Congress electoral strategy among diverse parties |
-| Defection is the same as coalition | Defection is party switching by legislators; coalition is joint government by parties |
-| The Syndicate was an official party body | It was an informal group of powerful Congress leaders |
+| Misunderstanding                                                   | Correct understanding                                                                  |
+| ------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
+| Congress lost power at the Centre in 1967                          | Congress retained power at Centre but weakened                                         |
+| 1967 ended Congress dominance completely                           | It challenged Congress dominance but did not replace it                                |
+| Non-Congressism meant ideological unity                            | It meant anti-Congress electoral strategy among diverse parties                        |
+| Defection is the same as coalition                                 | Defection is party switching by legislators; coalition is joint government by parties  |
+| The Syndicate was an official party body                           | It was an informal group of powerful Congress leaders                                  |
 | Congress(R) was organisationally stronger than Congress(O) in 1971 | Congress(O) had old organisation strength, but Congress(R) had stronger popular appeal |
-| 1971 revived the old Congress | It restored dominance but changed the party's nature |
+| 1971 revived the old Congress                                      | It restored dominance but changed the party's nature                                   |
 
 ## 63. Timeline
 
-| Year or date | Event |
-|---|---|
-| May 1964 | Nehru died |
-| 1964 | Lal Bahadur Shastri became Prime Minister |
-| 1965 | India-Pakistan war |
-| 11 January 1966 | Shastri died in Tashkent |
-| 1966 | Indira Gandhi became Prime Minister |
-| 1967 | Fourth general election weakened Congress |
-| May 1967 | Ten Point Programme adopted |
-| 1969 | Presidential election crisis |
-| 1969 | Congress split into Congress(O) and Congress(R) |
-| 1970 | Attempt to abolish privy purse faced legal and parliamentary obstacles |
-| December 1970 | Lok Sabha dissolved |
-| February 1971 | Fifth general election held |
-| 1971 | Congress(R) won 352 seats |
-| 1971 | Bangladesh war increased Indira Gandhi's popularity |
-| 1972 | Congress swept many state elections |
+| Year or date    | Event                                                                  |
+| --------------- | ---------------------------------------------------------------------- |
+| May 1964        | Nehru died                                                             |
+| 1964            | Lal Bahadur Shastri became Prime Minister                              |
+| 1965            | India-Pakistan war                                                     |
+| 11 January 1966 | Shastri died in Tashkent                                               |
+| 1966            | Indira Gandhi became Prime Minister                                    |
+| 1967            | Fourth general election weakened Congress                              |
+| May 1967        | Ten Point Programme adopted                                            |
+| 1969            | Presidential election crisis                                           |
+| 1969            | Congress split into Congress(O) and Congress(R)                        |
+| 1970            | Attempt to abolish privy purse faced legal and parliamentary obstacles |
+| December 1970   | Lok Sabha dissolved                                                    |
+| February 1971   | Fifth general election held                                            |
+| 1971            | Congress(R) won 352 seats                                              |
+| 1971            | Bangladesh war increased Indira Gandhi's popularity                    |
+| 1972            | Congress swept many state elections                                    |
 
 ## 64. Matching Practice
 
-| Item | Match |
-|---|---|
-| Syndicate | Group of powerful and influential Congress leaders |
-| Defection | Elected representative leaving the party on whose ticket they won |
-| Slogan | Catchy phrase that attracts public attention |
+| Item             | Match                                                              |
+| ---------------- | ------------------------------------------------------------------ |
+| Syndicate        | Group of powerful and influential Congress leaders                 |
+| Defection        | Elected representative leaving the party on whose ticket they won  |
+| Slogan           | Catchy phrase that attracts public attention                       |
 | Anti-Congressism | Parties of different ideologies coming together to oppose Congress |
 
 ## 65. Slogan Practice
 
-| Slogan or phrase | Associated leader or group |
-|---|---|
-| Jai Jawan Jai Kisan | Lal Bahadur Shastri |
-| Indira Hatao | Grand Alliance and opposition to Indira Gandhi |
-| Garibi Hatao | Indira Gandhi |
+| Slogan or phrase    | Associated leader or group                     |
+| ------------------- | ---------------------------------------------- |
+| Jai Jawan Jai Kisan | Lal Bahadur Shastri                            |
+| Indira Hatao        | Grand Alliance and opposition to Indira Gandhi |
+| Garibi Hatao        | Indira Gandhi                                  |
 
 ## 66. 1967 Election Question
 
@@ -823,13 +823,13 @@ Congress retained power at the Centre, but it lost majority in several states an
 
 ## 67. Reasons For Congress Defeat In 1967
 
-| Reason | Was it important? | Explanation |
-|---|---|---|
-| Absence of a leader with Nehru-like charisma | Yes | Indira Gandhi had not yet established full authority |
-| Split within Congress party | Not yet formal | Formal split happened in 1969, but internal differences existed |
-| Mobilisation of regional, ethnic, and communal groups | Yes | Regional and social assertions weakened Congress |
-| Unity among non-Congress parties | Yes | Non-Congressism reduced vote division |
-| Internal differences within Congress | Yes | Factional conflict weakened the party |
+| Reason                                                | Was it important? | Explanation                                                     |
+| ----------------------------------------------------- | ----------------- | --------------------------------------------------------------- |
+| Absence of a leader with Nehru-like charisma          | Yes               | Indira Gandhi had not yet established full authority            |
+| Split within Congress party                           | Not yet formal    | Formal split happened in 1969, but internal differences existed |
+| Mobilisation of regional, ethnic, and communal groups | Yes               | Regional and social assertions weakened Congress                |
+| Unity among non-Congress parties                      | Yes               | Non-Congressism reduced vote division                           |
+| Internal differences within Congress                  | Yes               | Factional conflict weakened the party                           |
 
 ## 68. Short Answer Practice
 

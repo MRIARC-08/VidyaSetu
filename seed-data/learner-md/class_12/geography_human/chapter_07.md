@@ -1,4 +1,5 @@
 # Chapter 7: Transport and Communication
+
 ### NCERT Class 12 - Geography Human
 
 ## Chapter at a Glance
@@ -22,27 +23,27 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Transport | Movement of people and goods from one place to another. |
-| Communication | Transmission of information, ideas, and messages. |
-| Network | System of nodes and links. |
-| Node | Point in a network, such as city, station, port, or airport. |
-| Link | Route connecting nodes. |
-| Hinterland | Area served by a port or market centre. |
-| Pipeline | Transport system for liquids and gases through pipes. |
-| Satellite communication | Communication using artificial satellites. |
+| Term                    | Meaning                                                      |
+| ----------------------- | ------------------------------------------------------------ |
+| Transport               | Movement of people and goods from one place to another.      |
+| Communication           | Transmission of information, ideas, and messages.            |
+| Network                 | System of nodes and links.                                   |
+| Node                    | Point in a network, such as city, station, port, or airport. |
+| Link                    | Route connecting nodes.                                      |
+| Hinterland              | Area served by a port or market centre.                      |
+| Pipeline                | Transport system for liquids and gases through pipes.        |
+| Satellite communication | Communication using artificial satellites.                   |
 
 ## Quick Learning Map
 
-| Mode | Best suited for |
-|---|---|
-| Road | Short distance, door-to-door movement |
-| Rail | Heavy goods and long-distance land transport |
-| Water | Bulky goods over long distances at low cost |
-| Air | Fast movement of passengers and high-value goods |
-| Pipeline | Petroleum, gas, water, slurry |
-| Communication | Information and coordination |
+| Mode          | Best suited for                                  |
+| ------------- | ------------------------------------------------ |
+| Road          | Short distance, door-to-door movement            |
+| Rail          | Heavy goods and long-distance land transport     |
+| Water         | Bulky goods over long distances at low cost      |
+| Air           | Fast movement of passengers and high-value goods |
+| Pipeline      | Petroleum, gas, water, slurry                    |
+| Communication | Information and coordination                     |
 
 # Unit 7A: Meaning of Transport
 
@@ -199,15 +200,15 @@ Limitations:
 
 # Unit 7H: Factors Affecting Transport Development
 
-| Factor | Effect |
-|---|---|
-| Relief | Plains favour dense networks; mountains make construction difficult. |
-| Climate | Snow, floods, deserts, and storms affect routes. |
-| Economy | Trade and industry increase transport demand. |
-| Technology | Better engineering expands routes. |
-| Population | Dense settlements need more transport. |
-| Politics | Borders and policies influence routes. |
-| Capital | Infrastructure needs large investment. |
+| Factor     | Effect                                                               |
+| ---------- | -------------------------------------------------------------------- |
+| Relief     | Plains favour dense networks; mountains make construction difficult. |
+| Climate    | Snow, floods, deserts, and storms affect routes.                     |
+| Economy    | Trade and industry increase transport demand.                        |
+| Technology | Better engineering expands routes.                                   |
+| Population | Dense settlements need more transport.                               |
+| Politics   | Borders and policies influence routes.                               |
+| Capital    | Infrastructure needs large investment.                               |
 
 # Unit 7I: Communication
 
@@ -264,24 +265,24 @@ Together they enable:
 
 # Unit 7L: Comparison Toolkit
 
-| Mode | Main advantage | Main limitation |
-|---|---|---|
-| Road | Flexible and door-to-door | Congestion and lower bulk capacity |
-| Rail | Heavy long-distance movement | Fixed routes |
-| Water | Cheap bulk transport | Slow and port-dependent |
-| Air | Fastest | Costly |
-| Pipeline | Continuous flow | Commodity-specific |
-| Digital communication | Instant information | Digital divide and infrastructure dependence |
+| Mode                  | Main advantage               | Main limitation                              |
+| --------------------- | ---------------------------- | -------------------------------------------- |
+| Road                  | Flexible and door-to-door    | Congestion and lower bulk capacity           |
+| Rail                  | Heavy long-distance movement | Fixed routes                                 |
+| Water                 | Cheap bulk transport         | Slow and port-dependent                      |
+| Air                   | Fastest                      | Costly                                       |
+| Pipeline              | Continuous flow              | Commodity-specific                           |
+| Digital communication | Instant information          | Digital divide and infrastructure dependence |
 
 # Unit 7M: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
+| Mistake                                      | Correction                                                         |
+| -------------------------------------------- | ------------------------------------------------------------------ |
 | Treating transport and communication as same | Transport moves people and goods; communication moves information. |
-| Saying air transport is best for all goods | It is costly and best for urgent or high-value goods. |
-| Ignoring terrain | Relief strongly shapes transport routes. |
-| Calling pipelines only for oil | They also carry gas, water, and slurry. |
-| Forgetting nodes and links | Networks need both points and connecting routes. |
+| Saying air transport is best for all goods   | It is costly and best for urgent or high-value goods.              |
+| Ignoring terrain                             | Relief strongly shapes transport routes.                           |
+| Calling pipelines only for oil               | They also carry gas, water, and slurry.                            |
+| Forgetting nodes and links                   | Networks need both points and connecting routes.                   |
 
 ## Practice Set
 

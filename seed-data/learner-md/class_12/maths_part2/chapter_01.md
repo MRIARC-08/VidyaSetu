@@ -1,4 +1,5 @@
 # Chapter 1: Integrals
+
 ### NCERT Class 12 - Maths Part 2
 
 ## Chapter at a Glance
@@ -24,35 +25,35 @@ By the end of this chapter, learners should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Integral | Antiderivative or accumulated value depending on context. |
-| Indefinite integral | Family of antiderivatives, written with `+ C`. |
-| Constant of integration | Arbitrary constant added in indefinite integration. |
-| Definite integral | Integral with limits, giving a number. |
-| Integrand | Function being integrated. |
-| Variable of integration | Variable with respect to which integration is done. |
-| Substitution | Method that changes variable to simplify an integral. |
-| Partial fractions | Method for splitting rational functions into simpler fractions. |
-| Integration by parts | Method based on product rule of differentiation. |
-| Fundamental Theorem of Calculus | Connects differentiation and definite integration. |
+| Term                            | Meaning                                                         |
+| ------------------------------- | --------------------------------------------------------------- |
+| Integral                        | Antiderivative or accumulated value depending on context.       |
+| Indefinite integral             | Family of antiderivatives, written with `+ C`.                  |
+| Constant of integration         | Arbitrary constant added in indefinite integration.             |
+| Definite integral               | Integral with limits, giving a number.                          |
+| Integrand                       | Function being integrated.                                      |
+| Variable of integration         | Variable with respect to which integration is done.             |
+| Substitution                    | Method that changes variable to simplify an integral.           |
+| Partial fractions               | Method for splitting rational functions into simpler fractions. |
+| Integration by parts            | Method based on product rule of differentiation.                |
+| Fundamental Theorem of Calculus | Connects differentiation and definite integration.              |
 
 ## Quick Formula Map
 
-| Integral | Result |
-|---|---|
+| Integral                | Result              |
+| ----------------------- | ------------------- | --- | ---- |
 | `int x^n dx`, `n != -1` | `x^(n+1)/(n+1) + C` |
-| `int 1/x dx` | `log |x| + C` |
-| `int e^x dx` | `e^x + C` |
-| `int a^x dx` | `a^x/log a + C` |
-| `int sin x dx` | `-cos x + C` |
-| `int cos x dx` | `sin x + C` |
-| `int sec^2 x dx` | `tan x + C` |
-| `int cosec^2 x dx` | `-cot x + C` |
-| `int sec x tan x dx` | `sec x + C` |
-| `int cosec x cot x dx` | `-cosec x + C` |
-| `int 1/(1+x^2) dx` | `tan^-1 x + C` |
-| `int 1/sqrt(1-x^2) dx` | `sin^-1 x + C` |
+| `int 1/x dx`            | `log                | x   | + C` |
+| `int e^x dx`            | `e^x + C`           |
+| `int a^x dx`            | `a^x/log a + C`     |
+| `int sin x dx`          | `-cos x + C`        |
+| `int cos x dx`          | `sin x + C`         |
+| `int sec^2 x dx`        | `tan x + C`         |
+| `int cosec^2 x dx`      | `-cot x + C`        |
+| `int sec x tan x dx`    | `sec x + C`         |
+| `int cosec x cot x dx`  | `-cosec x + C`      |
+| `int 1/(1+x^2) dx`      | `tan^-1 x + C`      |
+| `int 1/sqrt(1-x^2) dx`  | `sin^-1 x + C`      |
 
 # Unit 1A: Integration as Inverse of Differentiation
 
@@ -120,13 +121,13 @@ For `n = -1`:
 
 Memorise these carefully:
 
-| Integral | Result |
-|---|---|
-| `int sin x dx` | `-cos x + C` |
-| `int cos x dx` | `sin x + C` |
-| `int sec^2 x dx` | `tan x + C` |
-| `int cosec^2 x dx` | `-cot x + C` |
-| `int sec x tan x dx` | `sec x + C` |
+| Integral               | Result         |
+| ---------------------- | -------------- |
+| `int sin x dx`         | `-cos x + C`   |
+| `int cos x dx`         | `sin x + C`    |
+| `int sec^2 x dx`       | `tan x + C`    |
+| `int cosec^2 x dx`     | `-cot x + C`   |
+| `int sec x tan x dx`   | `sec x + C`    |
 | `int cosec x cot x dx` | `-cosec x + C` |
 
 ## Common Sign Warning
@@ -141,14 +142,14 @@ These three negative signs are often missed.
 
 # Unit 1E: Standard Inverse Trigonometric Forms
 
-| Integral | Result |
-|---|---|
-| `int 1/(1+x^2) dx` | `tan^-1 x + C` |
-| `int 1/sqrt(1-x^2) dx` | `sin^-1 x + C` |
-| `int 1/(a^2+x^2) dx` | `(1/a) tan^-1(x/a) + C` |
-| `int 1/sqrt(a^2-x^2) dx` | `sin^-1(x/a) + C` |
-| `int 1/(x^2-a^2) dx` | `(1/(2a)) log |(x-a)/(x+a)| + C` |
-| `int 1/(a^2-x^2) dx` | `(1/(2a)) log |(a+x)/(a-x)| + C` |
+| Integral                 | Result                  |
+| ------------------------ | ----------------------- | ----------- | ---- |
+| `int 1/(1+x^2) dx`       | `tan^-1 x + C`          |
+| `int 1/sqrt(1-x^2) dx`   | `sin^-1 x + C`          |
+| `int 1/(a^2+x^2) dx`     | `(1/a) tan^-1(x/a) + C` |
+| `int 1/sqrt(a^2-x^2) dx` | `sin^-1(x/a) + C`       |
+| `int 1/(x^2-a^2) dx`     | `(1/(2a)) log           | (x-a)/(x+a) | + C` |
+| `int 1/(a^2-x^2) dx`     | `(1/(2a)) log           | (a+x)/(a-x) | + C` |
 
 ## Pattern Recognition
 
@@ -188,13 +189,13 @@ Therefore:
 
 ## Common Substitution Clues
 
-| Integral Shape | Try |
-|---|---|
-| `f'(x) [f(x)]^n` | `u = f(x)` |
-| `f'(x)/f(x)` | `u = f(x)` |
-| `f'(x) e^(f(x))` | `u = f(x)` |
-| `f'(x) sin(f(x))` | `u = f(x)` |
-| `x/(x^2+a)` | `u = x^2+a` |
+| Integral Shape    | Try         |
+| ----------------- | ----------- |
+| `f'(x) [f(x)]^n`  | `u = f(x)`  |
+| `f'(x)/f(x)`      | `u = f(x)`  |
+| `f'(x) e^(f(x))`  | `u = f(x)`  |
+| `f'(x) sin(f(x))` | `u = f(x)`  |
+| `x/(x^2+a)`       | `u = x^2+a` |
 
 # Unit 1G: Integrals Reducible by Algebra
 
@@ -570,16 +571,16 @@ Write in this order:
 
 # Unit 1S: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Forgetting `+ C` in indefinite integrals | Always add `+ C` for indefinite integrals. |
-| Adding `+ C` in definite integrals | Definite integrals give a number, no `+ C`. |
-| Using power rule for `int 1/x dx` | Use `log |x| + C`. |
-| Missing negative signs in trigonometric integrals | Memorise signs carefully. |
-| Choosing poor substitution | Look for inner function and its derivative. |
-| Using integration by parts when substitution is easier | Try simpler methods first. |
-| Forgetting to change limits after substitution | Change limits or substitute back. |
-| Ignoring odd/even symmetry | Symmetry can make definite integrals much shorter. |
+| Mistake                                                | Correction                                         |
+| ------------------------------------------------------ | -------------------------------------------------- | --- | ----- |
+| Forgetting `+ C` in indefinite integrals               | Always add `+ C` for indefinite integrals.         |
+| Adding `+ C` in definite integrals                     | Definite integrals give a number, no `+ C`.        |
+| Using power rule for `int 1/x dx`                      | Use `log                                           | x   | + C`. |
+| Missing negative signs in trigonometric integrals      | Memorise signs carefully.                          |
+| Choosing poor substitution                             | Look for inner function and its derivative.        |
+| Using integration by parts when substitution is easier | Try simpler methods first.                         |
+| Forgetting to change limits after substitution         | Change limits or substitute back.                  |
+| Ignoring odd/even symmetry                             | Symmetry can make definite integrals much shorter. |
 
 ## Practice Set
 

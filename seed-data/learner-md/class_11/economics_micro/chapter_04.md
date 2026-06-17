@@ -1,4 +1,5 @@
 # Chapter 4: The Theory of the Firm under Perfect Competition
+
 ### NCERT Class 11 - Economics Micro
 
 ---
@@ -29,23 +30,23 @@ The central idea is:
 
 ## Chapter at a Glance
 
-| Area | Main Idea |
-| --- | --- |
-| Perfect competition | Market structure with many buyers and sellers, homogeneous product, free entry/exit, and perfect information. |
-| Price taker | Firm accepts market price as given. |
-| Revenue | Money received from selling output. |
-| Total revenue | `TR = p x q`. |
-| Average revenue | Revenue per unit; for competitive firm, `AR = p`. |
-| Marginal revenue | Extra revenue from one more unit; for competitive firm, `MR = p`. |
-| Price line | Horizontal line at market price; also AR, MR, and firm demand curve. |
-| Profit | `pi = TR - TC`. |
-| Profit maximisation | Positive output requires `P = MC`, rising MC, and price covering relevant average cost. |
-| Short-run shutdown | Firm produces only if `P >= minimum AVC`. |
-| Long-run exit | Firm produces only if `P >= minimum LRAC`. |
-| Short-run supply | Rising part of SMC from and above minimum AVC, plus zero output below that price. |
-| Long-run supply | Rising part of LRMC from and above minimum LRAC, plus zero output below that price. |
-| Market supply | Horizontal summation of individual firm supply curves. |
-| Price elasticity of supply | Responsiveness of quantity supplied to price change. |
+| Area                       | Main Idea                                                                                                     |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Perfect competition        | Market structure with many buyers and sellers, homogeneous product, free entry/exit, and perfect information. |
+| Price taker                | Firm accepts market price as given.                                                                           |
+| Revenue                    | Money received from selling output.                                                                           |
+| Total revenue              | `TR = p x q`.                                                                                                 |
+| Average revenue            | Revenue per unit; for competitive firm, `AR = p`.                                                             |
+| Marginal revenue           | Extra revenue from one more unit; for competitive firm, `MR = p`.                                             |
+| Price line                 | Horizontal line at market price; also AR, MR, and firm demand curve.                                          |
+| Profit                     | `pi = TR - TC`.                                                                                               |
+| Profit maximisation        | Positive output requires `P = MC`, rising MC, and price covering relevant average cost.                       |
+| Short-run shutdown         | Firm produces only if `P >= minimum AVC`.                                                                     |
+| Long-run exit              | Firm produces only if `P >= minimum LRAC`.                                                                    |
+| Short-run supply           | Rising part of SMC from and above minimum AVC, plus zero output below that price.                             |
+| Long-run supply            | Rising part of LRMC from and above minimum LRAC, plus zero output below that price.                           |
+| Market supply              | Horizontal summation of individual firm supply curves.                                                        |
+| Price elasticity of supply | Responsiveness of quantity supplied to price change.                                                          |
 
 ---
 
@@ -53,61 +54,61 @@ The central idea is:
 
 By the end of this chapter, you should be able to:
 
-| Skill | You Should Be Able To |
-| --- | --- |
-| Define | Define perfect competition, price taker, TR, AR, MR, profit, supply curve, shutdown point, break-even point. |
-| Explain | Explain why `MR = AR = P` for a perfectly competitive firm. |
-| Apply | Apply the three profit-maximisation conditions. |
-| Derive | Derive short-run and long-run supply curves of a firm. |
-| Distinguish | Distinguish shutdown point and break-even point. |
-| Analyse | Explain how technology, input prices, and unit tax shift supply. |
-| Add | Derive market supply by adding firm supplies horizontally. |
-| Calculate | Calculate TR, AR, MR, profit, market supply, and elasticity of supply. |
-| Write | Write answer-ready explanations for graph-based questions. |
+| Skill       | You Should Be Able To                                                                                        |
+| ----------- | ------------------------------------------------------------------------------------------------------------ |
+| Define      | Define perfect competition, price taker, TR, AR, MR, profit, supply curve, shutdown point, break-even point. |
+| Explain     | Explain why `MR = AR = P` for a perfectly competitive firm.                                                  |
+| Apply       | Apply the three profit-maximisation conditions.                                                              |
+| Derive      | Derive short-run and long-run supply curves of a firm.                                                       |
+| Distinguish | Distinguish shutdown point and break-even point.                                                             |
+| Analyse     | Explain how technology, input prices, and unit tax shift supply.                                             |
+| Add         | Derive market supply by adding firm supplies horizontally.                                                   |
+| Calculate   | Calculate TR, AR, MR, profit, market supply, and elasticity of supply.                                       |
+| Write       | Write answer-ready explanations for graph-based questions.                                                   |
 
 ---
 
 ## Big Map of the Chapter
 
-| Unit | Main Question | Main Answer |
-| --- | --- | --- |
-| Perfect competition | What kind of market is assumed? | Many buyers/sellers, homogeneous product, free entry/exit, perfect information. |
-| Price taking | Why cannot one firm set price? | It is too small and sells an identical product. |
-| Revenue | How does firm earn revenue? | By selling output at market price. |
-| MR and AR | What are revenue per unit and extra revenue? | Both equal price under perfect competition. |
-| Profit maximisation | Which output should firm choose? | Output where `P = MC` on rising MC, if price covers relevant cost. |
-| Shutdown | When should firm produce zero? | Short run if `P < minimum AVC`; long run if `P < minimum LRAC`. |
-| Supply curve | What is firm's supply curve? | Relevant rising part of marginal cost curve. |
-| Shifts | What changes supply? | Technology, input prices, taxes. |
-| Market supply | How is total supply found? | Add quantities supplied by all firms at each price. |
-| Elasticity | How responsive is supply? | Percentage change in quantity supplied divided by percentage change in price. |
+| Unit                | Main Question                                | Main Answer                                                                     |
+| ------------------- | -------------------------------------------- | ------------------------------------------------------------------------------- |
+| Perfect competition | What kind of market is assumed?              | Many buyers/sellers, homogeneous product, free entry/exit, perfect information. |
+| Price taking        | Why cannot one firm set price?               | It is too small and sells an identical product.                                 |
+| Revenue             | How does firm earn revenue?                  | By selling output at market price.                                              |
+| MR and AR           | What are revenue per unit and extra revenue? | Both equal price under perfect competition.                                     |
+| Profit maximisation | Which output should firm choose?             | Output where `P = MC` on rising MC, if price covers relevant cost.              |
+| Shutdown            | When should firm produce zero?               | Short run if `P < minimum AVC`; long run if `P < minimum LRAC`.                 |
+| Supply curve        | What is firm's supply curve?                 | Relevant rising part of marginal cost curve.                                    |
+| Shifts              | What changes supply?                         | Technology, input prices, taxes.                                                |
+| Market supply       | How is total supply found?                   | Add quantities supplied by all firms at each price.                             |
+| Elasticity          | How responsive is supply?                    | Percentage change in quantity supplied divided by percentage change in price.   |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Perfect competition | Market with many buyers/sellers, homogeneous product, free entry/exit, and perfect information. |
-| Homogeneous product | Product of one firm is identical to product of another firm. |
-| Free entry and exit | Firms can enter or leave the market without barriers. |
-| Perfect information | Buyers and sellers know price, quality, and relevant market facts. |
-| Price taker | Buyer or seller who accepts market price as given. |
-| Total revenue, TR | Total money earned from selling output. |
-| Average revenue, AR | Total revenue per unit of output. |
-| Marginal revenue, MR | Extra revenue from selling one more unit. |
-| Price line | Horizontal line at market price; firm can sell any amount at that price. |
-| Profit | Difference between total revenue and total cost. |
-| Profit maximisation | Choosing output level that gives highest profit. |
-| Supply schedule | Table showing output supplied at different prices. |
-| Supply curve | Graph showing output supplied at different prices. |
-| Shutdown point | Short-run point below which firm stops production; minimum AVC. |
-| Break-even point | Point where firm earns normal profit; price equals average cost. |
-| Normal profit | Minimum profit needed to keep the firm in business; part of cost. |
-| Supernormal profit | Profit above normal profit. |
-| Unit tax | Tax imposed per unit of output sold. |
-| Market supply | Total supply of all firms at each price. |
-| Price elasticity of supply | Responsiveness of quantity supplied to price changes. |
+| Term                       | Meaning                                                                                         |
+| -------------------------- | ----------------------------------------------------------------------------------------------- |
+| Perfect competition        | Market with many buyers/sellers, homogeneous product, free entry/exit, and perfect information. |
+| Homogeneous product        | Product of one firm is identical to product of another firm.                                    |
+| Free entry and exit        | Firms can enter or leave the market without barriers.                                           |
+| Perfect information        | Buyers and sellers know price, quality, and relevant market facts.                              |
+| Price taker                | Buyer or seller who accepts market price as given.                                              |
+| Total revenue, TR          | Total money earned from selling output.                                                         |
+| Average revenue, AR        | Total revenue per unit of output.                                                               |
+| Marginal revenue, MR       | Extra revenue from selling one more unit.                                                       |
+| Price line                 | Horizontal line at market price; firm can sell any amount at that price.                        |
+| Profit                     | Difference between total revenue and total cost.                                                |
+| Profit maximisation        | Choosing output level that gives highest profit.                                                |
+| Supply schedule            | Table showing output supplied at different prices.                                              |
+| Supply curve               | Graph showing output supplied at different prices.                                              |
+| Shutdown point             | Short-run point below which firm stops production; minimum AVC.                                 |
+| Break-even point           | Point where firm earns normal profit; price equals average cost.                                |
+| Normal profit              | Minimum profit needed to keep the firm in business; part of cost.                               |
+| Supernormal profit         | Profit above normal profit.                                                                     |
+| Unit tax                   | Tax imposed per unit of output sold.                                                            |
+| Market supply              | Total supply of all firms at each price.                                                        |
+| Price elasticity of supply | Responsiveness of quantity supplied to price changes.                                           |
 
 ---
 
@@ -223,13 +224,13 @@ TR = p x q
 Suppose market price of a box of candles is Rs 10.
 
 | Boxes Sold | Total Revenue |
-| ---: | ---: |
-| 0 | 0 |
-| 1 | 10 |
-| 2 | 20 |
-| 3 | 30 |
-| 4 | 40 |
-| 5 | 50 |
+| ---------: | ------------: |
+|          0 |             0 |
+|          1 |            10 |
+|          2 |            20 |
+|          3 |            30 |
+|          4 |            40 |
+|          5 |            50 |
 
 The total revenue curve:
 
@@ -335,12 +336,12 @@ Therefore, the demand curve facing a perfectly competitive firm is perfectly ela
 
 ## 2.8 Revenue Summary
 
-| Concept | Formula | Perfect Competition Result |
-| --- | --- | --- |
-| Total revenue | `TR = p x q` | Straight line through origin |
-| Average revenue | `AR = TR/q` | `AR = p` |
-| Marginal revenue | `MR = Delta TR/Delta q` | `MR = p` |
-| Price line | horizontal at `p` | `AR = MR = demand curve` |
+| Concept          | Formula                 | Perfect Competition Result   |
+| ---------------- | ----------------------- | ---------------------------- |
+| Total revenue    | `TR = p x q`            | Straight line through origin |
+| Average revenue  | `AR = TR/q`             | `AR = p`                     |
+| Marginal revenue | `MR = Delta TR/Delta q` | `MR = p`                     |
+| Price line       | horizontal at `p`       | `AR = MR = demand curve`     |
 
 ---
 
@@ -751,11 +752,11 @@ Assume:
 
 Then:
 
-| Price Range | Market Supply |
-| --- | --- |
-| `p < p1` | both supply zero |
-| `p1 <= p < p2` | only firm 1 supplies |
-| `p >= p2` | both firms supply; add their quantities |
+| Price Range    | Market Supply                           |
+| -------------- | --------------------------------------- |
+| `p < p1`       | both supply zero                        |
+| `p1 <= p < p2` | only firm 1 supplies                    |
+| `p >= p2`      | both firms supply; add their quantities |
 
 ## 6.4 Numerical Example
 
@@ -896,12 +897,12 @@ Supply is elastic.
 
 For a straight-line supply curve, elasticity depends on where the extended supply curve cuts the quantity axis.
 
-| Supply Curve Position | Elasticity |
-| --- | --- |
-| Cuts price axis, extension cuts negative quantity axis | `eS > 1` |
-| Passes through origin | `eS = 1` |
-| Cuts positive quantity axis | `eS < 1` |
-| Vertical supply curve | `eS = 0` |
+| Supply Curve Position                                  | Elasticity |
+| ------------------------------------------------------ | ---------- |
+| Cuts price axis, extension cuts negative quantity axis | `eS > 1`   |
+| Passes through origin                                  | `eS = 1`   |
+| Cuts positive quantity axis                            | `eS < 1`   |
+| Vertical supply curve                                  | `eS = 0`   |
 
 Simple memory:
 
@@ -917,13 +918,13 @@ Simple memory:
 
 If market price is Rs 10:
 
-| Quantity | TR | AR | MR |
-| ---: | ---: | ---: | ---: |
-| 0 | 0 | - | - |
-| 1 | 10 | 10 | 10 |
-| 2 | 20 | 10 | 10 |
-| 3 | 30 | 10 | 10 |
-| 4 | 40 | 10 | 10 |
+| Quantity |  TR |  AR |  MR |
+| -------: | --: | --: | --: |
+|        0 |   0 |   - |   - |
+|        1 |  10 |  10 |  10 |
+|        2 |  20 |  10 |  10 |
+|        3 |  30 |  10 |  10 |
+|        4 |  40 |  10 |  10 |
 
 Rules:
 
@@ -1134,18 +1135,18 @@ Price elasticity of supply measures the responsiveness of quantity supplied to a
 
 # 10. Common Mistakes
 
-| Mistake | Correction |
-| --- | --- |
-| Saying a competitive firm can choose any price | It is a price taker; it chooses output, not market price. |
-| Confusing market demand with firm demand | Firm demand under perfect competition is horizontal at market price. |
-| Forgetting `MR = AR = P` | For a price-taking firm, all three are equal. |
-| Saying `P = MC` alone is enough | Must also be on rising MC and satisfy shutdown/exit condition. |
-| Confusing shutdown and break-even | Shutdown is minimum AVC in short run; break-even is where price equals average cost. |
-| Saying firm exits in short run whenever it makes loss | It may continue if price covers AVC. |
-| Saying firm produces in long run with loss | In long run it exits if price is below LRAC. |
-| Adding prices to get market supply | Add quantities supplied at each price. |
-| Saying tax shifts supply right | A unit tax raises cost and shifts supply left. |
-| Treating supply elasticity as negative | Supply elasticity is usually positive because price and quantity supplied move together. |
+| Mistake                                               | Correction                                                                               |
+| ----------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Saying a competitive firm can choose any price        | It is a price taker; it chooses output, not market price.                                |
+| Confusing market demand with firm demand              | Firm demand under perfect competition is horizontal at market price.                     |
+| Forgetting `MR = AR = P`                              | For a price-taking firm, all three are equal.                                            |
+| Saying `P = MC` alone is enough                       | Must also be on rising MC and satisfy shutdown/exit condition.                           |
+| Confusing shutdown and break-even                     | Shutdown is minimum AVC in short run; break-even is where price equals average cost.     |
+| Saying firm exits in short run whenever it makes loss | It may continue if price covers AVC.                                                     |
+| Saying firm produces in long run with loss            | In long run it exits if price is below LRAC.                                             |
+| Adding prices to get market supply                    | Add quantities supplied at each price.                                                   |
+| Saying tax shifts supply right                        | A unit tax raises cost and shifts supply left.                                           |
+| Treating supply elasticity as negative                | Supply elasticity is usually positive because price and quantity supplied move together. |
 
 ---
 
@@ -1153,47 +1154,47 @@ Price elasticity of supply measures the responsiveness of quantity supplied to a
 
 ## 11.1 Revenue Formulas
 
-| Concept | Formula | Perfect Competition |
-| --- | --- | --- |
-| Total revenue | `TR = p x q` | Straight line through origin |
-| Average revenue | `AR = TR/q` | `AR = p` |
-| Marginal revenue | `MR = Delta TR/Delta q` | `MR = p` |
+| Concept          | Formula                 | Perfect Competition          |
+| ---------------- | ----------------------- | ---------------------------- |
+| Total revenue    | `TR = p x q`            | Straight line through origin |
+| Average revenue  | `AR = TR/q`             | `AR = p`                     |
+| Marginal revenue | `MR = Delta TR/Delta q` | `MR = p`                     |
 
 ## 11.2 Profit Conditions
 
-| Run | Conditions for Positive Profit-Maximising Output |
-| --- | --- |
-| Short run | `p = SMC`, SMC non-decreasing, `p >= AVC` |
-| Long run | `p = LRMC`, LRMC non-decreasing, `p >= LRAC` |
+| Run       | Conditions for Positive Profit-Maximising Output |
+| --------- | ------------------------------------------------ |
+| Short run | `p = SMC`, SMC non-decreasing, `p >= AVC`        |
+| Long run  | `p = LRMC`, LRMC non-decreasing, `p >= LRAC`     |
 
 ## 11.3 Supply Curves
 
-| Supply Curve | Relevant Part |
-| --- | --- |
-| Short-run firm supply | Rising part of SMC from and above minimum AVC |
-| Long-run firm supply | Rising part of LRMC from and above minimum LRAC |
-| Market supply | Horizontal sum of firm supply curves |
+| Supply Curve          | Relevant Part                                   |
+| --------------------- | ----------------------------------------------- |
+| Short-run firm supply | Rising part of SMC from and above minimum AVC   |
+| Long-run firm supply  | Rising part of LRMC from and above minimum LRAC |
+| Market supply         | Horizontal sum of firm supply curves            |
 
 ## 11.4 Key Points
 
-| Concept | Location |
-| --- | --- |
-| Short-run shutdown point | minimum AVC |
-| Long-run shutdown/exit point | minimum LRAC |
-| Break-even point | price equals average cost |
-| Normal profit | included in cost |
-| Supernormal profit | profit above normal profit |
+| Concept                      | Location                   |
+| ---------------------------- | -------------------------- |
+| Short-run shutdown point     | minimum AVC                |
+| Long-run shutdown/exit point | minimum LRAC               |
+| Break-even point             | price equals average cost  |
+| Normal profit                | included in cost           |
+| Supernormal profit           | profit above normal profit |
 
 ## 11.5 Supply Shifts
 
-| Change | Supply Effect |
-| --- | --- |
-| Technological progress | shifts right |
-| Input price increase | shifts left |
-| Input price decrease | shifts right |
-| Unit tax | shifts left/upward |
+| Change                    | Supply Effect              |
+| ------------------------- | -------------------------- |
+| Technological progress    | shifts right               |
+| Input price increase      | shifts left                |
+| Input price decrease      | shifts right               |
+| Unit tax                  | shifts left/upward         |
 | Number of firms increases | market supply shifts right |
-| Number of firms decreases | market supply shifts left |
+| Number of firms decreases | market supply shifts left  |
 
 ---
 

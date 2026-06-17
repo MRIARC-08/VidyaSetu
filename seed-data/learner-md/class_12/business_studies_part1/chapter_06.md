@@ -1,17 +1,18 @@
 # Chapter 6: Staffing
+
 ### NCERT Class 12 - Business Studies Part 1
 
 ## Chapter at a Glance
 
-| Item | Details |
-|---|---|
-| Main idea | Staffing ensures that the right people are placed in the right jobs at the right time. |
-| Scope | Workforce planning, recruitment, selection, placement, training, development, appraisal, promotion, and compensation. |
-| Modern link | Staffing is closely related to human resource management. |
-| Main process | Estimate manpower need, recruit, select, place, train, appraise, and compensate. |
-| Training focus | Improve current job performance. |
-| Development focus | Prepare employees for future responsibility. |
-| Most important skill | Distinguish recruitment, selection, training, and development. |
+| Item                 | Details                                                                                                               |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Main idea            | Staffing ensures that the right people are placed in the right jobs at the right time.                                |
+| Scope                | Workforce planning, recruitment, selection, placement, training, development, appraisal, promotion, and compensation. |
+| Modern link          | Staffing is closely related to human resource management.                                                             |
+| Main process         | Estimate manpower need, recruit, select, place, train, appraise, and compensate.                                      |
+| Training focus       | Improve current job performance.                                                                                      |
+| Development focus    | Prepare employees for future responsibility.                                                                          |
+| Most important skill | Distinguish recruitment, selection, training, and development.                                                        |
 
 ## Learning Outcomes
 
@@ -31,30 +32,30 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Staffing | Managerial function of filling and keeping filled positions in organisation structure. |
-| Workforce planning | Estimating number and type of employees needed. |
-| Recruitment | Searching for and attracting suitable candidates. |
-| Selection | Choosing the most suitable candidate from applicants. |
-| Placement | Assigning selected candidate to the right job. |
-| Orientation | Introducing new employee to organisation, job, and colleagues. |
-| Training | Process of improving skills and knowledge for current job. |
-| Development | Broader growth of employee for future roles. |
-| Performance appraisal | Evaluation of employee performance. |
-| Compensation | Payment and benefits given to employees. |
+| Term                  | Meaning                                                                                |
+| --------------------- | -------------------------------------------------------------------------------------- |
+| Staffing              | Managerial function of filling and keeping filled positions in organisation structure. |
+| Workforce planning    | Estimating number and type of employees needed.                                        |
+| Recruitment           | Searching for and attracting suitable candidates.                                      |
+| Selection             | Choosing the most suitable candidate from applicants.                                  |
+| Placement             | Assigning selected candidate to the right job.                                         |
+| Orientation           | Introducing new employee to organisation, job, and colleagues.                         |
+| Training              | Process of improving skills and knowledge for current job.                             |
+| Development           | Broader growth of employee for future roles.                                           |
+| Performance appraisal | Evaluation of employee performance.                                                    |
+| Compensation          | Payment and benefits given to employees.                                               |
 
 ## Quick Learning Map
 
-| Area | Core Question |
-|---|---|
-| Meaning | How does organisation get suitable people? |
-| Importance | Why are people central to performance? |
-| Process | How does staffing move from need estimate to compensation? |
-| Recruitment | How are candidates attracted? |
-| Selection | How is the best candidate chosen? |
-| Training | How are job skills improved? |
-| Development | How are future abilities built? |
+| Area        | Core Question                                              |
+| ----------- | ---------------------------------------------------------- |
+| Meaning     | How does organisation get suitable people?                 |
+| Importance  | Why are people central to performance?                     |
+| Process     | How does staffing move from need estimate to compensation? |
+| Recruitment | How are candidates attracted?                              |
+| Selection   | How is the best candidate chosen?                          |
+| Training    | How are job skills improved?                               |
+| Development | How are future abilities built?                            |
 
 # Unit 6A: Meaning of Staffing
 
@@ -167,9 +168,9 @@ Recruitment is positive because it increases the number of applicants.
 
 ## Internal Recruitment Channels
 
-| Channel | Meaning |
-|---|---|
-| Transfer | Movement from one job to another at same level. |
+| Channel   | Meaning                                               |
+| --------- | ----------------------------------------------------- |
+| Transfer  | Movement from one job to another at same level.       |
 | Promotion | Movement to higher position with more responsibility. |
 
 ## Advantages of Internal Recruitment
@@ -221,13 +222,13 @@ Selection is negative because it rejects unsuitable candidates.
 
 ## Recruitment vs Selection
 
-| Basis | Recruitment | Selection |
-|---|---|---|
-| Meaning | Attracting candidates. | Choosing suitable candidate. |
-| Nature | Positive. | Negative. |
-| Sequence | Comes before selection. | Comes after recruitment. |
-| Purpose | Create applicant pool. | Pick best fit. |
-| Cost | Usually less per candidate. | More detailed and costly. |
+| Basis    | Recruitment                 | Selection                    |
+| -------- | --------------------------- | ---------------------------- |
+| Meaning  | Attracting candidates.      | Choosing suitable candidate. |
+| Nature   | Positive.                   | Negative.                    |
+| Sequence | Comes before selection.     | Comes after recruitment.     |
+| Purpose  | Create applicant pool.      | Pick best fit.               |
+| Cost     | Usually less per candidate. | More detailed and costly.    |
 
 # Unit 6G: Selection Process
 
@@ -294,13 +295,13 @@ Development improves overall growth for future roles and responsibilities.
 
 ## Training vs Development
 
-| Basis | Training | Development |
-|---|---|---|
-| Focus | Current job. | Future roles. |
-| Scope | Narrow. | Broad. |
-| Purpose | Improve skill and performance. | Overall personality and managerial growth. |
-| Duration | Short to medium. | Long-term. |
-| Level | Often for workers and employees. | Often for managers, but useful for all. |
+| Basis    | Training                         | Development                                |
+| -------- | -------------------------------- | ------------------------------------------ |
+| Focus    | Current job.                     | Future roles.                              |
+| Scope    | Narrow.                          | Broad.                                     |
+| Purpose  | Improve skill and performance.   | Overall personality and managerial growth. |
+| Duration | Short to medium.                 | Long-term.                                 |
+| Level    | Often for workers and employees. | Often for managers, but useful for all.    |
 
 # Unit 6J: Benefits of Training
 
@@ -328,35 +329,35 @@ Development improves overall growth for future roles and responsibilities.
 
 Training happens at actual workplace.
 
-| Method | Meaning |
-|---|---|
-| Apprenticeship | Trainee learns under experienced worker for a period. |
-| Coaching | Superior guides employee directly. |
-| Internship | Classroom learning combined with practical work exposure. |
-| Job rotation | Employee moves across jobs to learn different tasks. |
+| Method         | Meaning                                                   |
+| -------------- | --------------------------------------------------------- |
+| Apprenticeship | Trainee learns under experienced worker for a period.     |
+| Coaching       | Superior guides employee directly.                        |
+| Internship     | Classroom learning combined with practical work exposure. |
+| Job rotation   | Employee moves across jobs to learn different tasks.      |
 
 ## Off-the-Job Methods
 
 Training happens away from actual workplace.
 
-| Method | Meaning |
-|---|---|
-| Classroom lectures | Concepts are taught in formal setting. |
-| Films and videos | Visual material demonstrates concepts. |
-| Case study | Learners analyse real or simulated business situations. |
-| Computer-based training | Learning through digital modules. |
-| Vestibule training | Simulated workplace setup away from actual work area. |
+| Method                  | Meaning                                                 |
+| ----------------------- | ------------------------------------------------------- |
+| Classroom lectures      | Concepts are taught in formal setting.                  |
+| Films and videos        | Visual material demonstrates concepts.                  |
+| Case study              | Learners analyse real or simulated business situations. |
+| Computer-based training | Learning through digital modules.                       |
+| Vestibule training      | Simulated workplace setup away from actual work area.   |
 
 # Unit 6L: Common Mistakes and Corrections
 
-| Mistake | Correct Understanding |
-|---|---|
-| Staffing ends after selection | It also includes placement, training, appraisal, promotion, and compensation. |
-| Recruitment and selection are same | Recruitment attracts; selection chooses. |
-| Internal recruitment is always best | It motivates but limits fresh talent. |
-| Training and development are same | Training is current job focused; development is future growth focused. |
-| Orientation is optional | It helps new employees adjust and perform. |
-| Selection tests alone are enough | Tests are only one part of selection process. |
+| Mistake                             | Correct Understanding                                                         |
+| ----------------------------------- | ----------------------------------------------------------------------------- |
+| Staffing ends after selection       | It also includes placement, training, appraisal, promotion, and compensation. |
+| Recruitment and selection are same  | Recruitment attracts; selection chooses.                                      |
+| Internal recruitment is always best | It motivates but limits fresh talent.                                         |
+| Training and development are same   | Training is current job focused; development is future growth focused.        |
+| Orientation is optional             | It helps new employees adjust and perform.                                    |
+| Selection tests alone are enough    | Tests are only one part of selection process.                                 |
 
 ## Practice Set
 
@@ -373,49 +374,49 @@ Training happens away from actual workplace.
 
 ## Staffing Decision Toolkit
 
-| Situation | Staffing Decision |
-|---|---|
-| Existing employee can handle higher post | Promotion may be suitable. |
-| Same level vacancy in another department | Transfer may be suitable. |
-| Need fresh graduates with technical knowledge | Campus recruitment. |
-| Need senior specialist quickly | Placement agency or professional network. |
-| Need daily wage workers for routine work | Direct recruitment or labour contractor, as legally appropriate. |
-| New employee does not understand rules | Orientation is required. |
-| Employee lacks current job skill | Training is required. |
-| Manager must prepare for future leadership | Development is required. |
+| Situation                                     | Staffing Decision                                                |
+| --------------------------------------------- | ---------------------------------------------------------------- |
+| Existing employee can handle higher post      | Promotion may be suitable.                                       |
+| Same level vacancy in another department      | Transfer may be suitable.                                        |
+| Need fresh graduates with technical knowledge | Campus recruitment.                                              |
+| Need senior specialist quickly                | Placement agency or professional network.                        |
+| Need daily wage workers for routine work      | Direct recruitment or labour contractor, as legally appropriate. |
+| New employee does not understand rules        | Orientation is required.                                         |
+| Employee lacks current job skill              | Training is required.                                            |
+| Manager must prepare for future leadership    | Development is required.                                         |
 
 ## Selection Tests in Detail
 
-| Test Type | What It Measures | Example Use |
-|---|---|---|
-| Intelligence test | General mental ability. | Analytical or reasoning jobs. |
-| Aptitude test | Potential to learn a skill. | Technical trainees. |
-| Personality test | Behavioural traits. | Sales, leadership, service roles. |
-| Trade test | Existing job skill. | Machine operator, typist, technician. |
-| Interest test | Work preference. | Career fit and role suitability. |
+| Test Type         | What It Measures            | Example Use                           |
+| ----------------- | --------------------------- | ------------------------------------- |
+| Intelligence test | General mental ability.     | Analytical or reasoning jobs.         |
+| Aptitude test     | Potential to learn a skill. | Technical trainees.                   |
+| Personality test  | Behavioural traits.         | Sales, leadership, service roles.     |
+| Trade test        | Existing job skill.         | Machine operator, typist, technician. |
+| Interest test     | Work preference.            | Career fit and role suitability.      |
 
 ## Recruitment Channel Evaluation
 
-| Channel | Best Use | Main Risk |
-|---|---|---|
-| Promotion | Filling higher post with known employee. | May limit fresh ideas. |
-| Transfer | Balancing workforce across departments. | Does not create new talent. |
-| Advertisement | Wide applicant pool. | Many unsuitable applicants may apply. |
-| Campus recruitment | Entry-level skilled talent. | Limited work experience. |
-| Placement agency | Specialised or senior positions. | Cost may be high. |
-| Employee recommendation | Quick and trusted lead. | Bias or favouritism risk. |
+| Channel                 | Best Use                                 | Main Risk                             |
+| ----------------------- | ---------------------------------------- | ------------------------------------- |
+| Promotion               | Filling higher post with known employee. | May limit fresh ideas.                |
+| Transfer                | Balancing workforce across departments.  | Does not create new talent.           |
+| Advertisement           | Wide applicant pool.                     | Many unsuitable applicants may apply. |
+| Campus recruitment      | Entry-level skilled talent.              | Limited work experience.              |
+| Placement agency        | Specialised or senior positions.         | Cost may be high.                     |
+| Employee recommendation | Quick and trusted lead.                  | Bias or favouritism risk.             |
 
 ## Training Method Selection Guide
 
-| Training Need | Suitable Method |
-|---|---|
-| Learn skilled trade over long period | Apprenticeship. |
-| Learn from immediate superior | Coaching. |
-| Understand several departments | Job rotation. |
-| Combine study with practical exposure | Internship. |
-| Learn dangerous machine without production risk | Vestibule training. |
-| Learn concepts or policies | Classroom lecture or digital module. |
-| Build decision-making ability | Case-based training. |
+| Training Need                                   | Suitable Method                      |
+| ----------------------------------------------- | ------------------------------------ |
+| Learn skilled trade over long period            | Apprenticeship.                      |
+| Learn from immediate superior                   | Coaching.                            |
+| Understand several departments                  | Job rotation.                        |
+| Combine study with practical exposure           | Internship.                          |
+| Learn dangerous machine without production risk | Vestibule training.                  |
+| Learn concepts or policies                      | Classroom lecture or digital module. |
+| Build decision-making ability                   | Case-based training.                 |
 
 ## Staffing Case Answer Framework
 

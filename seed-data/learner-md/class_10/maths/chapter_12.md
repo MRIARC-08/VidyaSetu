@@ -1,4 +1,5 @@
 # Chapter 12: Surface Areas and Volumes
+
 ### NCERT Class 10 - Maths
 
 This learner version rewrites the raw chapter into a detailed guide on combined solids. It separates surface-area thinking from volume thinking, because the two are handled differently when solids are joined, mounted, hollowed, or scooped.
@@ -7,15 +8,15 @@ This learner version rewrites the raw chapter into a detailed guide on combined 
 
 ## Chapter at a Glance
 
-| Item | Details |
-|---|---|
-| Class | 10 |
-| Subject | Maths |
-| Chapter | 12 |
-| Chapter name | Surface Areas and Volumes |
-| Main topic | Combinations of solids |
-| Basic solids used | Cube, cuboid, cylinder, cone, sphere, hemisphere |
-| Main skill | Add only visible surfaces for surface area, but add/subtract full volumes for volume |
+| Item              | Details                                                                              |
+| ----------------- | ------------------------------------------------------------------------------------ |
+| Class             | 10                                                                                   |
+| Subject           | Maths                                                                                |
+| Chapter           | 12                                                                                   |
+| Chapter name      | Surface Areas and Volumes                                                            |
+| Main topic        | Combinations of solids                                                               |
+| Basic solids used | Cube, cuboid, cylinder, cone, sphere, hemisphere                                     |
+| Main skill        | Add only visible surfaces for surface area, but add/subtract full volumes for volume |
 
 ---
 
@@ -158,13 +159,13 @@ When solids are joined:
 
 ## Common Patterns
 
-| Composite solid | Surface area to count |
-|---|---|
-| Cone on hemisphere | CSA of cone + CSA of hemisphere |
-| Cylinder with two hemispherical ends | CSA of cylinder + surface area of full sphere |
-| Hemisphere on cube | TSA of cube - circular covered base + CSA of hemisphere |
+| Composite solid                        | Surface area to count                                                           |
+| -------------------------------------- | ------------------------------------------------------------------------------- |
+| Cone on hemisphere                     | CSA of cone + CSA of hemisphere                                                 |
+| Cylinder with two hemispherical ends   | CSA of cylinder + surface area of full sphere                                   |
+| Hemisphere on cube                     | TSA of cube - circular covered base + CSA of hemisphere                         |
 | Cone on cylinder with larger cone base | CSA cone + exposed base ring + CSA cylinder + exposed cylinder base if required |
-| Hemispherical depression in cube | TSA cube - circular opening + CSA hemisphere depression |
+| Hemispherical depression in cube       | TSA cube - circular opening + CSA hemisphere depression                         |
 
 ---
 
@@ -1256,15 +1257,15 @@ $$
 
 # Unit 12F: Common Mistakes and Corrections
 
-| Mistake | Why it is wrong | Correct habit |
-|---|---|---|
-| Adding total surface areas of joined solids | Joined faces become hidden | Add only exposed surfaces |
-| Using cone height for cone CSA | Cone CSA needs slant height | Find `l = sqrt(r^2+h^2)` |
-| Using slant height for cone volume | Cone volume needs vertical height | Keep `h` and `l` separate |
-| Forgetting radius is half diameter | Formulas use radius | Divide diameter by 2 first |
-| Counting base of a tent | Tent base is not covered with canvas | Exclude base unless stated |
-| Adding removed volume instead of subtracting | Scooped/cavity material is removed | Subtract depressions or cavities |
-| Ignoring unit conversion | `cm^2` to `m^2` changes by 10000 | Convert before final answer |
+| Mistake                                      | Why it is wrong                      | Correct habit                    |
+| -------------------------------------------- | ------------------------------------ | -------------------------------- |
+| Adding total surface areas of joined solids  | Joined faces become hidden           | Add only exposed surfaces        |
+| Using cone height for cone CSA               | Cone CSA needs slant height          | Find `l = sqrt(r^2+h^2)`         |
+| Using slant height for cone volume           | Cone volume needs vertical height    | Keep `h` and `l` separate        |
+| Forgetting radius is half diameter           | Formulas use radius                  | Divide diameter by 2 first       |
+| Counting base of a tent                      | Tent base is not covered with canvas | Exclude base unless stated       |
+| Adding removed volume instead of subtracting | Scooped/cavity material is removed   | Subtract depressions or cavities |
+| Ignoring unit conversion                     | `cm^2` to `m^2` changes by 10000     | Convert before final answer      |
 
 ---
 
@@ -1310,4 +1311,3 @@ $$
 $$
 
 10. A scooped hemisphere contributes curved inner surface area, not flat circular area.
-

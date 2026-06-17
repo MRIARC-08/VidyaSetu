@@ -52,13 +52,13 @@ Personal troubles occur within an individual's immediate life.
 
 Public issues arise from wider social arrangements.
 
-| Personal Trouble | Public Issue |
-|---|---|
-| A student cannot afford coaching | Unequal access to education |
-| A family lacks housing | Urban poverty and housing policy |
-| A worker loses employment | Economic restructuring and labour insecurity |
-| A girl is discouraged from studying science | Gender norms in education |
-| A person faces caste insult | Social hierarchy and discrimination |
+| Personal Trouble                            | Public Issue                                 |
+| ------------------------------------------- | -------------------------------------------- |
+| A student cannot afford coaching            | Unequal access to education                  |
+| A family lacks housing                      | Urban poverty and housing policy             |
+| A worker loses employment                   | Economic restructuring and labour insecurity |
+| A girl is discouraged from studying science | Gender norms in education                    |
+| A person faces caste insult                 | Social hierarchy and discrimination          |
 
 The sociological imagination helps us move from blaming individuals to examining structures.
 
@@ -215,13 +215,13 @@ Indian sociology has drawn from both sociology and social anthropology.
 
 Sociology overlaps with other disciplines but has its own focus.
 
-| Discipline | Relation with Sociology |
-|---|---|
-| History | Studies past processes; sociology uses history to understand change |
-| Economics | Studies production, distribution, markets; sociology studies social context of economy |
-| Political Science | Studies power and state; sociology studies power in everyday institutions too |
-| Psychology | Studies individual mind and behaviour; sociology studies social patterns and groups |
-| Social Anthropology | Studies culture and society, often through fieldwork; closely linked with sociology |
+| Discipline          | Relation with Sociology                                                                |
+| ------------------- | -------------------------------------------------------------------------------------- |
+| History             | Studies past processes; sociology uses history to understand change                    |
+| Economics           | Studies production, distribution, markets; sociology studies social context of economy |
+| Political Science   | Studies power and state; sociology studies power in everyday institutions too          |
+| Psychology          | Studies individual mind and behaviour; sociology studies social patterns and groups    |
+| Social Anthropology | Studies culture and society, often through fieldwork; closely linked with sociology    |
 
 ## 14. Sociology and Social Anthropology
 
@@ -239,17 +239,17 @@ In India, the two disciplines are closely related.
 
 ## 15. Key Terms
 
-| Term | Meaning |
-|---|---|
-| Sociology | Systematic study of human society and social relations |
-| Society | Web of social relationships, institutions, groups, and norms |
-| Sociological imagination | Ability to connect personal life with wider social forces |
-| Public issue | Problem rooted in social structure |
-| Common sense | Everyday unexamined knowledge |
-| Empirical investigation | Evidence-based study |
-| Social constraint | Pressure society exerts on individuals |
-| Plurality | Presence of multiple groups, identities, and ways of life |
-| Inequality | Unequal distribution of resources, status, or power |
+| Term                     | Meaning                                                      |
+| ------------------------ | ------------------------------------------------------------ |
+| Sociology                | Systematic study of human society and social relations       |
+| Society                  | Web of social relationships, institutions, groups, and norms |
+| Sociological imagination | Ability to connect personal life with wider social forces    |
+| Public issue             | Problem rooted in social structure                           |
+| Common sense             | Everyday unexamined knowledge                                |
+| Empirical investigation  | Evidence-based study                                         |
+| Social constraint        | Pressure society exerts on individuals                       |
+| Plurality                | Presence of multiple groups, identities, and ways of life    |
+| Inequality               | Unequal distribution of resources, status, or power          |
 
 ## 16. Exam-Oriented Summary
 
@@ -269,4 +269,3 @@ Sociology emerged during modern social transformations such as the Enlightenment
 8. How does sociology study inequality?
 9. What historical conditions led to sociology?
 10. Explain the relation between sociology and social anthropology.
-

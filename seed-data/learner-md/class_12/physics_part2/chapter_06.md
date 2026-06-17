@@ -1,4 +1,5 @@
 # Chapter 6: Semiconductor Electronics: Materials, Devices and Simple Circuits
+
 ### NCERT Class 12 - Physics Part 2
 
 ## Chapter at a Glance
@@ -26,37 +27,37 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Semiconductor | Material with conductivity between conductor and insulator. |
-| Valence band | Energy band containing valence electrons. |
-| Conduction band | Higher band where electrons are free to conduct. |
-| Energy gap | Gap between valence band top and conduction band bottom. |
-| Intrinsic semiconductor | Pure semiconductor. |
-| Extrinsic semiconductor | Doped semiconductor. |
-| Hole | Vacancy in covalent bond behaving like positive charge carrier. |
-| Donor impurity | Pentavalent impurity that contributes extra electron. |
-| Acceptor impurity | Trivalent impurity that creates hole. |
-| n-type semiconductor | Semiconductor with electrons as majority carriers. |
-| p-type semiconductor | Semiconductor with holes as majority carriers. |
-| Depletion region | Region near p-n junction depleted of mobile charge carriers. |
-| Barrier potential | Potential difference across depletion region. |
-| Forward bias | Bias that reduces barrier and allows large current. |
-| Reverse bias | Bias that increases barrier and allows tiny current. |
-| Rectifier | Circuit that converts AC into unidirectional output. |
+| Term                    | Meaning                                                         |
+| ----------------------- | --------------------------------------------------------------- |
+| Semiconductor           | Material with conductivity between conductor and insulator.     |
+| Valence band            | Energy band containing valence electrons.                       |
+| Conduction band         | Higher band where electrons are free to conduct.                |
+| Energy gap              | Gap between valence band top and conduction band bottom.        |
+| Intrinsic semiconductor | Pure semiconductor.                                             |
+| Extrinsic semiconductor | Doped semiconductor.                                            |
+| Hole                    | Vacancy in covalent bond behaving like positive charge carrier. |
+| Donor impurity          | Pentavalent impurity that contributes extra electron.           |
+| Acceptor impurity       | Trivalent impurity that creates hole.                           |
+| n-type semiconductor    | Semiconductor with electrons as majority carriers.              |
+| p-type semiconductor    | Semiconductor with holes as majority carriers.                  |
+| Depletion region        | Region near p-n junction depleted of mobile charge carriers.    |
+| Barrier potential       | Potential difference across depletion region.                   |
+| Forward bias            | Bias that reduces barrier and allows large current.             |
+| Reverse bias            | Bias that increases barrier and allows tiny current.            |
+| Rectifier               | Circuit that converts AC into unidirectional output.            |
 
 ## Quick Formula Map
 
-| Idea | Formula |
-|---|---|
-| Resistivity and conductivity | `rho = 1/sigma` |
-| Intrinsic carrier equality | `ne = nh = ni` |
-| Total current in intrinsic semiconductor | `I = Ie + Ih` |
-| Mass action relation | `ne nh = ni^2` |
-| Dynamic resistance | `rd = Delta V / Delta I` |
-| Half-wave output frequency | `f_output = f_input` |
-| Full-wave output frequency | `f_output = 2 f_input` |
-| Capacitor filter time constant | `tau = R C` |
+| Idea                                     | Formula                  |
+| ---------------------------------------- | ------------------------ |
+| Resistivity and conductivity             | `rho = 1/sigma`          |
+| Intrinsic carrier equality               | `ne = nh = ni`           |
+| Total current in intrinsic semiconductor | `I = Ie + Ih`            |
+| Mass action relation                     | `ne nh = ni^2`           |
+| Dynamic resistance                       | `rd = Delta V / Delta I` |
+| Half-wave output frequency               | `f_output = f_input`     |
+| Full-wave output frequency               | `f_output = 2 f_input`   |
+| Capacitor filter time constant           | `tau = R C`              |
 
 # Unit 6A: Need for Semiconductor Devices
 
@@ -635,16 +636,16 @@ For full-wave rectifier:
 
 # Unit 6V: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Saying holes are physical positive particles. | Holes are vacancies behaving as positive carriers. |
-| Saying n-type material is negatively charged. | n-type material is electrically neutral overall. |
-| Saying p-type material has no electrons. | It has electrons, but holes are majority carriers. |
-| Confusing donor with acceptor. | Donor is pentavalent; acceptor is trivalent. |
-| Saying depletion region has many mobile carriers. | It is depleted of mobile carriers and contains fixed ions. |
-| Reversing bias connections. | Forward bias: p to positive, n to negative. |
-| Saying reverse current is exactly zero. | It is small due to minority carriers. |
-| Forgetting full-wave output frequency doubles. | Full-wave rectifier gives two output pulses per input cycle. |
+| Mistake                                           | Correction                                                   |
+| ------------------------------------------------- | ------------------------------------------------------------ |
+| Saying holes are physical positive particles.     | Holes are vacancies behaving as positive carriers.           |
+| Saying n-type material is negatively charged.     | n-type material is electrically neutral overall.             |
+| Saying p-type material has no electrons.          | It has electrons, but holes are majority carriers.           |
+| Confusing donor with acceptor.                    | Donor is pentavalent; acceptor is trivalent.                 |
+| Saying depletion region has many mobile carriers. | It is depleted of mobile carriers and contains fixed ions.   |
+| Reversing bias connections.                       | Forward bias: p to positive, n to negative.                  |
+| Saying reverse current is exactly zero.           | It is small due to minority carriers.                        |
+| Forgetting full-wave output frequency doubles.    | Full-wave rectifier gives two output pulses per input cycle. |
 
 ## Practice Set
 

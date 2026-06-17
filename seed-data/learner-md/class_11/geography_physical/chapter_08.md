@@ -54,51 +54,51 @@ By the end of this chapter, you should be able to:
 
 ## Big Picture Map
 
-| Theme | What To Remember | Why It Matters |
-| --- | --- | --- |
-| Atmosphere | Mixture of gases surrounding earth | Supports life and weather |
-| Major gases | Nitrogen, oxygen, argon, carbon dioxide and trace gases | Gives air its basic composition |
-| Carbon dioxide | Transparent to incoming solar radiation but absorbs outgoing terrestrial radiation | Important for greenhouse effect |
-| Ozone | Found mainly between 10 and 50 km | Absorbs harmful ultraviolet radiation |
-| Water vapour | Variable gas, decreases with height and from equator to poles | Controls heat balance, clouds, stability |
-| Dust particles | Solid particles suspended in air | Help condensation and cloud formation |
-| Troposphere | Lowermost layer, weather layer | Most important for life and weather |
-| Stratosphere | Contains ozone layer | Shields life from ultraviolet radiation |
-| Mesosphere | Temperature again decreases upward | Upper limit is mesopause |
-| Ionosphere | Contains electrically charged particles | Reflects radio waves |
-| Exosphere | Outermost rarefied layer | Merges with outer space |
+| Theme          | What To Remember                                                                   | Why It Matters                           |
+| -------------- | ---------------------------------------------------------------------------------- | ---------------------------------------- |
+| Atmosphere     | Mixture of gases surrounding earth                                                 | Supports life and weather                |
+| Major gases    | Nitrogen, oxygen, argon, carbon dioxide and trace gases                            | Gives air its basic composition          |
+| Carbon dioxide | Transparent to incoming solar radiation but absorbs outgoing terrestrial radiation | Important for greenhouse effect          |
+| Ozone          | Found mainly between 10 and 50 km                                                  | Absorbs harmful ultraviolet radiation    |
+| Water vapour   | Variable gas, decreases with height and from equator to poles                      | Controls heat balance, clouds, stability |
+| Dust particles | Solid particles suspended in air                                                   | Help condensation and cloud formation    |
+| Troposphere    | Lowermost layer, weather layer                                                     | Most important for life and weather      |
+| Stratosphere   | Contains ozone layer                                                               | Shields life from ultraviolet radiation  |
+| Mesosphere     | Temperature again decreases upward                                                 | Upper limit is mesopause                 |
+| Ionosphere     | Contains electrically charged particles                                            | Reflects radio waves                     |
+| Exosphere      | Outermost rarefied layer                                                           | Merges with outer space                  |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Atmosphere | Mixture of gases surrounding the earth on all sides. |
-| Air | Colourless, odourless mixture of gases felt when it moves as wind. |
-| Permanent gases | Gases whose proportions are relatively stable in the lower atmosphere. |
-| Variable gases | Gases whose quantity varies by place, height, and time. |
-| Nitrogen | Most abundant gas in the atmosphere. |
-| Oxygen | Life-supporting gas used by humans and animals for respiration. |
-| Carbon dioxide | Important greenhouse gas used by plants and involved in heat regulation. |
-| Greenhouse effect | Warming effect produced when gases absorb outgoing terrestrial radiation and re-radiate heat. |
-| Ozone | Gas that absorbs harmful ultraviolet radiation from the sun. |
-| Water vapour | Variable gas form of water in the atmosphere. |
-| Insolation | Incoming solar radiation. |
-| Terrestrial radiation | Heat energy radiated by the earth. |
-| Dust particles | Small solid particles suspended in the atmosphere. |
-| Hygroscopic nuclei | Particles around which water vapour condenses to form cloud droplets. |
-| Density | Mass per unit volume; atmospheric density is highest near the surface. |
-| Troposphere | Lowermost atmospheric layer where weather and climate changes occur. |
-| Tropopause | Boundary between troposphere and stratosphere. |
-| Stratosphere | Layer above troposphere, extending up to about 50 km, containing ozone layer. |
-| Mesosphere | Layer above stratosphere, extending up to about 80 km. |
-| Mesopause | Upper limit of mesosphere. |
-| Ionosphere | Upper atmospheric zone containing electrically charged particles called ions. |
-| Ions | Electrically charged particles. |
-| Exosphere | Outermost, highly rarefied atmospheric layer merging with outer space. |
-| Weather | Short-term condition of the atmosphere. |
-| Climate | Long-term average condition of weather over a region. |
+| Term                  | Meaning                                                                                       |
+| --------------------- | --------------------------------------------------------------------------------------------- |
+| Atmosphere            | Mixture of gases surrounding the earth on all sides.                                          |
+| Air                   | Colourless, odourless mixture of gases felt when it moves as wind.                            |
+| Permanent gases       | Gases whose proportions are relatively stable in the lower atmosphere.                        |
+| Variable gases        | Gases whose quantity varies by place, height, and time.                                       |
+| Nitrogen              | Most abundant gas in the atmosphere.                                                          |
+| Oxygen                | Life-supporting gas used by humans and animals for respiration.                               |
+| Carbon dioxide        | Important greenhouse gas used by plants and involved in heat regulation.                      |
+| Greenhouse effect     | Warming effect produced when gases absorb outgoing terrestrial radiation and re-radiate heat. |
+| Ozone                 | Gas that absorbs harmful ultraviolet radiation from the sun.                                  |
+| Water vapour          | Variable gas form of water in the atmosphere.                                                 |
+| Insolation            | Incoming solar radiation.                                                                     |
+| Terrestrial radiation | Heat energy radiated by the earth.                                                            |
+| Dust particles        | Small solid particles suspended in the atmosphere.                                            |
+| Hygroscopic nuclei    | Particles around which water vapour condenses to form cloud droplets.                         |
+| Density               | Mass per unit volume; atmospheric density is highest near the surface.                        |
+| Troposphere           | Lowermost atmospheric layer where weather and climate changes occur.                          |
+| Tropopause            | Boundary between troposphere and stratosphere.                                                |
+| Stratosphere          | Layer above troposphere, extending up to about 50 km, containing ozone layer.                 |
+| Mesosphere            | Layer above stratosphere, extending up to about 80 km.                                        |
+| Mesopause             | Upper limit of mesosphere.                                                                    |
+| Ionosphere            | Upper atmospheric zone containing electrically charged particles called ions.                 |
+| Ions                  | Electrically charged particles.                                                               |
+| Exosphere             | Outermost, highly rarefied atmospheric layer merging with outer space.                        |
+| Weather               | Short-term condition of the atmosphere.                                                       |
+| Climate               | Long-term average condition of weather over a region.                                         |
 
 ---
 
@@ -196,11 +196,11 @@ The atmosphere is composed of:
 
 ## 3.2 Component Overview
 
-| Component | Nature | Main Importance |
-| --- | --- | --- |
-| Gases | Permanent and variable gases | Life, heat balance, radiation filtering |
-| Water vapour | Variable gas | Clouds, rainfall, heat balance, stability |
-| Dust particles | Small solid particles | Condensation nuclei and cloud formation |
+| Component      | Nature                       | Main Importance                           |
+| -------------- | ---------------------------- | ----------------------------------------- |
+| Gases          | Permanent and variable gases | Life, heat balance, radiation filtering   |
+| Water vapour   | Variable gas                 | Clouds, rainfall, heat balance, stability |
+| Dust particles | Small solid particles        | Condensation nuclei and cloud formation   |
 
 ## 3.3 Lower And Higher Atmosphere
 
@@ -219,17 +219,17 @@ Important height facts:
 
 ## 4.1 Gas Composition Table
 
-| Constituent | Formula | Percentage By Volume |
-| --- | --- | --- |
-| Nitrogen | N2 | 78.08 |
-| Oxygen | O2 | 20.95 |
-| Argon | Ar | 0.93 |
-| Carbon dioxide | CO2 | 0.036 |
-| Neon | Ne | 0.002 |
-| Helium | He | 0.0005 |
-| Krypton | Kr | 0.001 |
-| Xenon | Xe | 0.00009 |
-| Hydrogen | H2 | 0.00005 |
+| Constituent    | Formula | Percentage By Volume |
+| -------------- | ------- | -------------------- |
+| Nitrogen       | N2      | 78.08                |
+| Oxygen         | O2      | 20.95                |
+| Argon          | Ar      | 0.93                 |
+| Carbon dioxide | CO2     | 0.036                |
+| Neon           | Ne      | 0.002                |
+| Helium         | He      | 0.0005               |
+| Krypton        | Kr      | 0.001                |
+| Xenon          | Xe      | 0.00009              |
+| Hydrogen       | H2      | 0.00005              |
 
 ## 4.2 Most Abundant Gas
 
@@ -538,14 +538,14 @@ Dust particles are important because they:
 
 # 10. Composition Revision Table
 
-| Component | Distribution | Main Role |
-| --- | --- | --- |
-| Nitrogen | Largest portion, 78.08 per cent | Maintains atmospheric composition |
-| Oxygen | 20.95 per cent | Respiration and combustion |
-| Carbon dioxide | Small but important | Greenhouse effect, plant use |
-| Ozone | 10 to 50 km | Absorbs ultraviolet radiation |
-| Water vapour | Variable, lower atmosphere, more in tropics | Clouds, heat balance, humidity |
-| Dust particles | Lower atmosphere, more in dry regions | Hygroscopic nuclei, cloud formation |
+| Component      | Distribution                                | Main Role                           |
+| -------------- | ------------------------------------------- | ----------------------------------- |
+| Nitrogen       | Largest portion, 78.08 per cent             | Maintains atmospheric composition   |
+| Oxygen         | 20.95 per cent                              | Respiration and combustion          |
+| Carbon dioxide | Small but important                         | Greenhouse effect, plant use        |
+| Ozone          | 10 to 50 km                                 | Absorbs ultraviolet radiation       |
+| Water vapour   | Variable, lower atmosphere, more in tropics | Clouds, heat balance, humidity      |
+| Dust particles | Lower atmosphere, more in dry regions       | Hygroscopic nuclei, cloud formation |
 
 ---
 
@@ -820,14 +820,14 @@ It gradually merges into outer space.
 
 # 18. Structure Revision Table
 
-| Layer | Approximate Height | Temperature Pattern | Main Feature |
-| --- | --- | --- | --- |
-| Troposphere | Average 13 km; 8 km poles; 18 km equator | Decreases upward | Weather, water vapour, dust, biological activity |
-| Tropopause | Boundary zone | Nearly constant | Separates troposphere and stratosphere |
-| Stratosphere | Up to about 50 km | Relatively stable; ozone region | Ozone absorbs ultraviolet radiation |
-| Mesosphere | Up to about 80 km | Decreases upward | Ends at mesopause |
-| Ionosphere | About 80 to 400 km | Increases upward | Ions reflect radio waves |
-| Exosphere | Uppermost layer | Very rarefied | Merges with outer space |
+| Layer        | Approximate Height                       | Temperature Pattern             | Main Feature                                     |
+| ------------ | ---------------------------------------- | ------------------------------- | ------------------------------------------------ |
+| Troposphere  | Average 13 km; 8 km poles; 18 km equator | Decreases upward                | Weather, water vapour, dust, biological activity |
+| Tropopause   | Boundary zone                            | Nearly constant                 | Separates troposphere and stratosphere           |
+| Stratosphere | Up to about 50 km                        | Relatively stable; ozone region | Ozone absorbs ultraviolet radiation              |
+| Mesosphere   | Up to about 80 km                        | Decreases upward                | Ends at mesopause                                |
+| Ionosphere   | About 80 to 400 km                       | Increases upward                | Ions reflect radio waves                         |
+| Exosphere    | Uppermost layer                          | Very rarefied                   | Merges with outer space                          |
 
 ---
 
@@ -977,39 +977,39 @@ Important height facts:
 
 ## 22.1 Troposphere vs Stratosphere
 
-| Basis | Troposphere | Stratosphere |
-| --- | --- | --- |
-| Position | Lowermost layer | Above tropopause |
-| Average height | About 13 km | Up to about 50 km |
-| Main contents | Water vapour and dust | Ozone layer |
-| Main importance | Weather and biological activity | UV protection |
-| Temperature | Decreases with height | More stable than troposphere |
+| Basis           | Troposphere                     | Stratosphere                 |
+| --------------- | ------------------------------- | ---------------------------- |
+| Position        | Lowermost layer                 | Above tropopause             |
+| Average height  | About 13 km                     | Up to about 50 km            |
+| Main contents   | Water vapour and dust           | Ozone layer                  |
+| Main importance | Weather and biological activity | UV protection                |
+| Temperature     | Decreases with height           | More stable than troposphere |
 
 ## 22.2 Carbon Dioxide vs Ozone
 
-| Basis | Carbon Dioxide | Ozone |
-| --- | --- | --- |
-| Main role | Greenhouse effect | UV absorption |
+| Basis            | Carbon Dioxide                         | Ozone                         |
+| ---------------- | -------------------------------------- | ----------------------------- |
+| Main role        | Greenhouse effect                      | UV absorption                 |
 | Radiation effect | Absorbs outgoing terrestrial radiation | Absorbs ultraviolet radiation |
-| Life link | Used by plants; affects temperature | Protects organisms |
-| Height | Lower atmosphere and up to about 90 km | Mainly 10 to 50 km |
+| Life link        | Used by plants; affects temperature    | Protects organisms            |
+| Height           | Lower atmosphere and up to about 90 km | Mainly 10 to 50 km            |
 
 ## 22.3 Water Vapour vs Dust Particles
 
-| Basis | Water Vapour | Dust Particles |
-| --- | --- | --- |
-| Nature | Gas form of water | Solid particles |
-| Distribution | Variable, decreases with height | Concentrated lower atmosphere |
-| Main function | Heat balance, clouds, humidity | Condensation nuclei |
-| Weather role | Stability and instability | Cloud droplet formation |
+| Basis         | Water Vapour                    | Dust Particles                |
+| ------------- | ------------------------------- | ----------------------------- |
+| Nature        | Gas form of water               | Solid particles               |
+| Distribution  | Variable, decreases with height | Concentrated lower atmosphere |
+| Main function | Heat balance, clouds, humidity  | Condensation nuclei           |
+| Weather role  | Stability and instability       | Cloud droplet formation       |
 
 ## 22.4 Weather vs Climate
 
-| Basis | Weather | Climate |
-| --- | --- | --- |
-| Time scale | Short term | Long term average |
-| Example | Today's rain or temperature | Monsoon climate of India |
-| Elements | Temperature, pressure, winds, humidity, clouds, precipitation | Same elements averaged over long period |
+| Basis      | Weather                                                       | Climate                                 |
+| ---------- | ------------------------------------------------------------- | --------------------------------------- |
+| Time scale | Short term                                                    | Long term average                       |
+| Example    | Today's rain or temperature                                   | Monsoon climate of India                |
+| Elements   | Temperature, pressure, winds, humidity, clouds, precipitation | Same elements averaged over long period |
 
 ---
 
@@ -1213,32 +1213,32 @@ Geographers mainly focus on the lower layers, especially troposphere and stratos
 
 ## 26.1 Must-Remember Percentages
 
-| Gas | Percentage By Volume |
-| --- | --- |
-| Nitrogen | 78.08 |
-| Oxygen | 20.95 |
-| Argon | 0.93 |
-| Carbon dioxide | 0.036 |
-| Neon | 0.002 |
-| Helium | 0.0005 |
-| Krypton | 0.001 |
-| Xenon | 0.00009 |
-| Hydrogen | 0.00005 |
+| Gas            | Percentage By Volume |
+| -------------- | -------------------- |
+| Nitrogen       | 78.08                |
+| Oxygen         | 20.95                |
+| Argon          | 0.93                 |
+| Carbon dioxide | 0.036                |
+| Neon           | 0.002                |
+| Helium         | 0.0005               |
+| Krypton        | 0.001                |
+| Xenon          | 0.00009              |
+| Hydrogen       | 0.00005              |
 
 ## 26.2 Must-Remember Heights
 
-| Fact | Height |
-| --- | --- |
-| 99 per cent atmospheric mass | Within 32 km |
-| Ozone | 10 to 50 km |
-| Troposphere average height | 13 km |
-| Troposphere near poles | About 8 km |
-| Troposphere near equator | About 18 km |
-| Stratosphere | Up to 50 km |
-| Mesosphere | Up to 80 km |
-| Ionosphere | About 80 to 400 km |
-| Oxygen negligible | About 120 km |
-| Carbon dioxide and water vapour mainly present | Up to about 90 km |
+| Fact                                           | Height             |
+| ---------------------------------------------- | ------------------ |
+| 99 per cent atmospheric mass                   | Within 32 km       |
+| Ozone                                          | 10 to 50 km        |
+| Troposphere average height                     | 13 km              |
+| Troposphere near poles                         | About 8 km         |
+| Troposphere near equator                       | About 18 km        |
+| Stratosphere                                   | Up to 50 km        |
+| Mesosphere                                     | Up to 80 km        |
+| Ionosphere                                     | About 80 to 400 km |
+| Oxygen negligible                              | About 120 km       |
+| Carbon dioxide and water vapour mainly present | Up to about 90 km  |
 
 ## 26.3 Must-Remember Layer Order
 

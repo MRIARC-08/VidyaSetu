@@ -71,14 +71,14 @@ $$
 
 Now describe different events as subsets of \(S\).
 
-| Description | Event subset |
-|---|---|
-| exactly two tails | \(\{TT\}\) |
-| at least one tail | \(\{HT, TH, TT\}\) |
-| at most one head | \(\{HT, TH, TT\}\) |
-| second toss is tail | \(\{HT, TT\}\) |
-| at most two tails | \(S\) |
-| more than two tails | \(\emptyset\) |
+| Description         | Event subset       |
+| ------------------- | ------------------ |
+| exactly two tails   | \(\{TT\}\)         |
+| at least one tail   | \(\{HT, TH, TT\}\) |
+| at most one head    | \(\{HT, TH, TT\}\) |
+| second toss is tail | \(\{HT, TT\}\)     |
+| at most two tails   | \(S\)              |
+| more than two tails | \(\emptyset\)      |
 
 Important observation:
 
@@ -214,12 +214,12 @@ Because events are sets, we can use set operations on them.
 
 The most important operations are:
 
-| Event phrase | Set notation | Meaning |
-|---|---|---|
-| not \(A\) | \(A^c\) or \(S-A\) | outcomes not in \(A\) |
-| \(A\) or \(B\) | \(A \cup B\) | outcomes in \(A\), in \(B\), or in both |
-| \(A\) and \(B\) | \(A \cap B\) | outcomes common to both \(A\) and \(B\) |
-| \(A\) but not \(B\) | \(A-B\) | outcomes in \(A\) but not in \(B\) |
+| Event phrase        | Set notation       | Meaning                                 |
+| ------------------- | ------------------ | --------------------------------------- |
+| not \(A\)           | \(A^c\) or \(S-A\) | outcomes not in \(A\)                   |
+| \(A\) or \(B\)      | \(A \cup B\)       | outcomes in \(A\), in \(B\), or in both |
+| \(A\) and \(B\)     | \(A \cap B\)       | outcomes common to both \(A\) and \(B\) |
+| \(A\) but not \(B\) | \(A-B\)            | outcomes in \(A\) but not in \(B\)      |
 
 The sample space \(S\) acts like the universal set.
 
@@ -721,9 +721,9 @@ $$
 
 Suppose:
 
-| Outcome | \(\omega_1\) | \(\omega_2\) | \(\omega_3\) | \(\omega_4\) |
-|---|---:|---:|---:|---:|
-| Probability | 0.2 | 0.3 | 0.1 | 0.4 |
+| Outcome     | \(\omega_1\) | \(\omega_2\) | \(\omega_3\) | \(\omega_4\) |
+| ----------- | -----------: | -----------: | -----------: | -----------: |
+| Probability |          0.2 |          0.3 |          0.1 |          0.4 |
 
 All values lie between 0 and 1.
 
@@ -737,17 +737,17 @@ So this assignment is valid.
 
 ### 22.2 Invalid Assignment Example
 
-| Outcome | \(\omega_1\) | \(\omega_2\) | \(\omega_3\) |
-|---|---:|---:|---:|
-| Probability | 0.5 | 0.7 | -0.2 |
+| Outcome     | \(\omega_1\) | \(\omega_2\) | \(\omega_3\) |
+| ----------- | -----------: | -----------: | -----------: |
+| Probability |          0.5 |          0.7 |         -0.2 |
 
 This is invalid because one probability is negative.
 
 Another invalid case:
 
-| Outcome | \(\omega_1\) | \(\omega_2\) | \(\omega_3\) |
-|---|---:|---:|---:|
-| Probability | 0.5 | 0.7 | 0.3 |
+| Outcome     | \(\omega_1\) | \(\omega_2\) | \(\omega_3\) |
+| ----------- | -----------: | -----------: | -----------: |
+| Probability |          0.5 |          0.7 |          0.3 |
 
 This is invalid because:
 
@@ -793,17 +793,17 @@ A standard deck has 52 cards.
 
 Important facts:
 
-| Category | Count |
-|---|---:|
-| total cards | 52 |
-| suits | 4 |
-| cards in each suit | 13 |
-| red cards | 26 |
-| black cards | 26 |
-| aces | 4 |
-| kings | 4 |
-| queens | 4 |
-| jacks | 4 |
+| Category           | Count |
+| ------------------ | ----: |
+| total cards        |    52 |
+| suits              |     4 |
+| cards in each suit |    13 |
+| red cards          |    26 |
+| black cards        |    26 |
+| aces               |     4 |
+| kings              |     4 |
+| queens             |     4 |
+| jacks              |     4 |
 
 The suits are:
 
@@ -1394,17 +1394,17 @@ This is the probability version of inclusion-exclusion.
 
 ## 33. Common Word Translations
 
-| Phrase | Mathematical event |
-|---|---|
-| not \(A\) | \(A^c\) |
-| \(A\) or \(B\) | \(A \cup B\) |
-| \(A\) and \(B\) | \(A \cap B\) |
-| \(A\) but not \(B\) | \(A \cap B^c\) |
-| neither \(A\) nor \(B\) | \(A^c \cap B^c\) |
-| at least one of \(A,B\) | \(A \cup B\) |
-| exactly one of \(A,B\) | \((A \cap B^c)\cup(A^c \cap B)\) |
-| both \(A\) and \(B\) | \(A \cap B\) |
-| at most one of \(A,B\) | \((A \cap B)^c\) |
+| Phrase                  | Mathematical event               |
+| ----------------------- | -------------------------------- |
+| not \(A\)               | \(A^c\)                          |
+| \(A\) or \(B\)          | \(A \cup B\)                     |
+| \(A\) and \(B\)         | \(A \cap B\)                     |
+| \(A\) but not \(B\)     | \(A \cap B^c\)                   |
+| neither \(A\) nor \(B\) | \(A^c \cap B^c\)                 |
+| at least one of \(A,B\) | \(A \cup B\)                     |
+| exactly one of \(A,B\)  | \((A \cap B^c)\cup(A^c \cap B)\) |
+| both \(A\) and \(B\)    | \(A \cap B\)                     |
+| at most one of \(A,B\)  | \((A \cap B)^c\)                 |
 
 ## 34. Common Mistakes
 
@@ -2044,4 +2044,3 @@ $$
 P(A \cup B \cup C)
 =P(A)+P(B)+P(C)-P(A \cap B)-P(A \cap C)-P(B \cap C)+P(A \cap B \cap C)
 $$
-

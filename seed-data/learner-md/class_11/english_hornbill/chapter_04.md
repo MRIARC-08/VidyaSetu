@@ -28,31 +28,31 @@ By the end of this chapter, you should be able to:
 
 ## Texts Covered
 
-| Text | Writer | Form | Main Focus |
-|---|---|---|---|
+| Text                                         | Writer          | Form          | Main Focus                                              |
+| -------------------------------------------- | --------------- | ------------- | ------------------------------------------------------- |
 | The Ailing Planet: the Green Movement's Role | Nani Palkhivala | Essay/article | Environment, sustainability, population, responsibility |
-| Childhood | Markus Natten | Poem | Loss of innocence, growing up, self-awareness |
+| Childhood                                    | Markus Natten   | Poem          | Loss of innocence, growing up, self-awareness           |
 
 ## Core Vocabulary
 
-| Term | Meaning |
-|---|---|
-| Ailing | Sick or in poor health |
-| Green Movement | Global environmental movement focused on ecological protection |
-| Holistic | Seeing something as a complete, connected whole |
-| Ecological | Related to relationships between living beings and environment |
-| Mechanistic | Treating the world like a machine made of separate parts |
+| Term                    | Meaning                                                                 |
+| ----------------------- | ----------------------------------------------------------------------- |
+| Ailing                  | Sick or in poor health                                                  |
+| Green Movement          | Global environmental movement focused on ecological protection          |
+| Holistic                | Seeing something as a complete, connected whole                         |
+| Ecological              | Related to relationships between living beings and environment          |
+| Mechanistic             | Treating the world like a machine made of separate parts                |
 | Sustainable development | Development that meets present needs without harming future generations |
-| Decimated | Severely reduced or destroyed |
-| Languish | Remain neglected or weak |
-| Catastrophic depletion | Extremely serious reduction of resources |
-| Ignominious | Shameful or dishonourable |
-| Transcending concern | Concern that goes beyond smaller divisions or interests |
-| Steward | Responsible caretaker |
-| Trustee | Person responsible for protecting something for others |
-| Hypocrisy | Saying one thing and doing another |
-| Rationalism | Belief in reason and logic |
-| Individuality | Independent selfhood and personal thinking |
+| Decimated               | Severely reduced or destroyed                                           |
+| Languish                | Remain neglected or weak                                                |
+| Catastrophic depletion  | Extremely serious reduction of resources                                |
+| Ignominious             | Shameful or dishonourable                                               |
+| Transcending concern    | Concern that goes beyond smaller divisions or interests                 |
+| Steward                 | Responsible caretaker                                                   |
+| Trustee                 | Person responsible for protecting something for others                  |
+| Hypocrisy               | Saying one thing and doing another                                      |
+| Rationalism             | Belief in reason and logic                                              |
+| Individuality           | Independent selfhood and personal thinking                              |
 
 ## Part A: The Ailing Planet
 
@@ -95,13 +95,13 @@ The Green Movement encouraged a holistic and ecological view, where the earth is
 
 ## 4. Mechanistic View vs Holistic View
 
-| Mechanistic View | Holistic Ecological View |
-|---|---|
-| Sees nature as separate parts | Sees nature as an integrated whole |
-| Focuses on human control | Focuses on partnership with nature |
-| Treats resources as endlessly usable | Recognizes limits and balance |
-| Prioritizes short-term production | Prioritizes long-term survival |
-| Ignores ecological links | Values interdependence |
+| Mechanistic View                     | Holistic Ecological View           |
+| ------------------------------------ | ---------------------------------- |
+| Sees nature as separate parts        | Sees nature as an integrated whole |
+| Focuses on human control             | Focuses on partnership with nature |
+| Treats resources as endlessly usable | Recognizes limits and balance      |
+| Prioritizes short-term production    | Prioritizes long-term survival     |
+| Ignores ecological links             | Values interdependence             |
 
 The writer believes that humanity must move permanently toward the holistic view.
 
@@ -196,12 +196,12 @@ If these systems collapse, the economy also suffers.
 
 ## 11. How the Biological Systems Are Being Depleted
 
-| System | Depletion Problem |
-|---|---|
-| Fisheries | Overfishing causes fish stocks to collapse |
-| Forests | Trees are cut for fuelwood, industry, and land use |
-| Grasslands | Overuse converts them into barren wastelands |
-| Croplands | Soil fertility declines through misuse and overuse |
+| System     | Depletion Problem                                  |
+| ---------- | -------------------------------------------------- |
+| Fisheries  | Overfishing causes fish stocks to collapse         |
+| Forests    | Trees are cut for fuelwood, industry, and land use |
+| Grasslands | Overuse converts them into barren wastelands       |
+| Croplands  | Soil fertility declines through misuse and overuse |
 
 Human claims on these systems are reaching unsustainable levels.
 
@@ -369,34 +369,34 @@ Overpopulation affects everyday life through overcrowding, unemployment, pressur
 
 ## 23. Latin Expressions
 
-| Expression | Meaning |
-|---|---|
-| Prima facie | At first sight; based on first impression |
-| Ad hoc | Created for a specific purpose |
-| In camera | In private; not in public |
-| Ad infinitum | Again and again without limit |
-| Mutatis mutandis | With necessary changes made |
-| Caveat | Warning or caution |
-| Tabula rasa | Blank slate |
+| Expression       | Meaning                                   |
+| ---------------- | ----------------------------------------- |
+| Prima facie      | At first sight; based on first impression |
+| Ad hoc           | Created for a specific purpose            |
+| In camera        | In private; not in public                 |
+| Ad infinitum     | Again and again without limit             |
+| Mutatis mutandis | With necessary changes made               |
+| Caveat           | Warning or caution                        |
+| Tabula rasa      | Blank slate                               |
 
 ## 24. Phrase Meanings
 
-| Phrase | Meaning |
-|---|---|
-| Gripped the imagination of | Captured attention powerfully |
-| Dawned upon | Became clear or understood |
-| Ushered in | Started or introduced |
-| Passed into current coin | Became widely used in common language |
-| Passport of the future | Means of entering or securing the future |
+| Phrase                     | Meaning                                  |
+| -------------------------- | ---------------------------------------- |
+| Gripped the imagination of | Captured attention powerfully            |
+| Dawned upon                | Became clear or understood               |
+| Ushered in                 | Started or introduced                    |
+| Passed into current coin   | Became widely used in common language    |
+| Passport of the future     | Means of entering or securing the future |
 
 ## 25. Literal and Figurative Uses
 
-| Word | Literal Sentence | Figurative Sentence |
-|---|---|---|
-| Grip | She held the rope with a firm grip. | The story gripped the audience. |
-| Dawn | Dawn broke over the hills. | The truth dawned on him slowly. |
-| Usher | The usher guided us to our seats. | The invention ushered in a new age. |
-| Coin | The old coin was made of silver. | The writer coined a new phrase. |
+| Word     | Literal Sentence                        | Figurative Sentence                         |
+| -------- | --------------------------------------- | ------------------------------------------- |
+| Grip     | She held the rope with a firm grip.     | The story gripped the audience.             |
+| Dawn     | Dawn broke over the hills.              | The truth dawned on him slowly.             |
+| Usher    | The usher guided us to our seats.       | The invention ushered in a new age.         |
+| Coin     | The old coin was made of silver.        | The writer coined a new phrase.             |
 | Passport | He carried his passport at the airport. | Education can be a passport to opportunity. |
 
 ## Part B: Childhood
@@ -433,12 +433,12 @@ The poet feels nostalgic about childhood because childhood had innocence that ca
 
 ## 28. Stanza-Wise Understanding
 
-| Stanza | Main Idea | Concept |
-|---|---|---|
-| First stanza | The child realizes that heaven and hell are not physical places in geography | Rationalism |
-| Second stanza | The child realizes adults do not always act according to the love they preach | Hypocrisy |
-| Third stanza | The child discovers that his mind is his own | Individuality |
-| Final stanza | Childhood has gone to a forgotten place hidden in an infant's face | Loss and nostalgia |
+| Stanza        | Main Idea                                                                     | Concept            |
+| ------------- | ----------------------------------------------------------------------------- | ------------------ |
+| First stanza  | The child realizes that heaven and hell are not physical places in geography  | Rationalism        |
+| Second stanza | The child realizes adults do not always act according to the love they preach | Hypocrisy          |
+| Third stanza  | The child discovers that his mind is his own                                  | Individuality      |
+| Final stanza  | Childhood has gone to a forgotten place hidden in an infant's face            | Loss and nostalgia |
 
 ## 29. Rationalism in the Poem
 
@@ -516,13 +516,13 @@ A learner may choose personally. A strong answer can say that the final image of
 
 ## 35. Comparison of the Two Texts
 
-| Point | The Ailing Planet | Childhood |
-|---|---|---|
-| Main concern | Survival of the planet | Loss of childhood innocence |
-| Form | Essay | Poem |
-| Tone | Urgent, persuasive, responsible | Reflective, nostalgic |
-| Main problem | Environmental damage and population growth | Growing awareness and loss of innocence |
-| Main lesson | Humans must act as trustees of the earth | Growing up brings reason, awareness, and individuality |
+| Point        | The Ailing Planet                          | Childhood                                              |
+| ------------ | ------------------------------------------ | ------------------------------------------------------ |
+| Main concern | Survival of the planet                     | Loss of childhood innocence                            |
+| Form         | Essay                                      | Poem                                                   |
+| Tone         | Urgent, persuasive, responsible            | Reflective, nostalgic                                  |
+| Main problem | Environmental damage and population growth | Growing awareness and loss of innocence                |
+| Main lesson  | Humans must act as trustees of the earth   | Growing up brings reason, awareness, and individuality |
 
 Both texts deal with responsibility. The essay asks humanity to become responsible toward the earth. The poem shows a person becoming responsible for his own thoughts.
 
@@ -605,4 +605,3 @@ Childhood is finally imagined as hidden in an infant's face.
 The Ailing Planet: the Green Movement's Role by Nani Palkhivala warns that the earth is in declining health. The Green Movement has created worldwide awareness that the earth is a living system and that humans must act as responsible trustees. The essay explains sustainable development as development that protects the needs of future generations. It identifies four principal biological systems: fisheries, forests, grasslands, and croplands. These systems are being damaged by overuse, deforestation, overfishing, and poor management. The writer also warns that population growth worsens poverty and environmental pressure. He calls for voluntary family planning, responsible industry, strict enforcement of environmental laws, and an ecological view of life.
 
 Childhood by Markus Natten is a poem about the loss of innocence. The poet asks when childhood went away. He suggests that it may have disappeared when he became rational, when he noticed adult hypocrisy, or when he discovered that his mind was independent. The poem ends by saying that childhood is hidden in an infant's face. The poem is reflective and nostalgic, showing that growing up brings maturity but also the loss of innocent simplicity.
-

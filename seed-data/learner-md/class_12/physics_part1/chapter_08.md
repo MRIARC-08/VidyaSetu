@@ -1,4 +1,5 @@
 # Chapter 8: Electromagnetic Waves
+
 ### NCERT Class 12 - Physics Part 1
 
 ## Chapter at a Glance
@@ -22,30 +23,30 @@ By the end of this chapter, learners should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Displacement current | Current-like term due to changing electric flux. |
-| Electromagnetic wave | Wave made of time-varying electric and magnetic fields. |
+| Term                     | Meaning                                                                      |
+| ------------------------ | ---------------------------------------------------------------------------- |
+| Displacement current     | Current-like term due to changing electric flux.                             |
+| Electromagnetic wave     | Wave made of time-varying electric and magnetic fields.                      |
 | Electromagnetic spectrum | Complete range of electromagnetic waves arranged by frequency or wavelength. |
-| Radio waves | Long-wavelength EM waves used in communication. |
-| Microwaves | EM waves used in radar, communication, and ovens. |
-| Infrared | Heat radiation region. |
-| Visible light | Part of spectrum detected by human eye. |
-| Ultraviolet | Higher-frequency radiation beyond violet. |
-| X-rays | High-frequency radiation used in medical imaging. |
-| Gamma rays | Very high-frequency radiation from nuclear processes. |
+| Radio waves              | Long-wavelength EM waves used in communication.                              |
+| Microwaves               | EM waves used in radar, communication, and ovens.                            |
+| Infrared                 | Heat radiation region.                                                       |
+| Visible light            | Part of spectrum detected by human eye.                                      |
+| Ultraviolet              | Higher-frequency radiation beyond violet.                                    |
+| X-rays                   | High-frequency radiation used in medical imaging.                            |
+| Gamma rays               | Very high-frequency radiation from nuclear processes.                        |
 
 ## Quick Formula Map
 
-| Concept | Formula |
-|---|---|
-| Electric flux | `PhiE = E A` for uniform perpendicular field |
-| Displacement current | `Id = epsilon0 dPhiE/dt` |
-| Maxwell-Ampere law | `integral B.dl = mu0(Ic + Id)` |
-| Speed of EM waves | `c = 1/sqrt(mu0 epsilon0)` |
-| Value of speed in vacuum | `c = 3 x 10^8 m/s` |
-| Field amplitude relation | `E0/B0 = c` |
-| Wave relation | `c = frequency x wavelength` |
+| Concept                  | Formula                                      |
+| ------------------------ | -------------------------------------------- |
+| Electric flux            | `PhiE = E A` for uniform perpendicular field |
+| Displacement current     | `Id = epsilon0 dPhiE/dt`                     |
+| Maxwell-Ampere law       | `integral B.dl = mu0(Ic + Id)`               |
+| Speed of EM waves        | `c = 1/sqrt(mu0 epsilon0)`                   |
+| Value of speed in vacuum | `c = 3 x 10^8 m/s`                           |
+| Field amplitude relation | `E0/B0 = c`                                  |
+| Wave relation            | `c = frequency x wavelength`                 |
 
 # Unit 8A: Need for Displacement Current
 
@@ -346,15 +347,15 @@ Write in this order:
 
 # Unit 8R: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Thinking displacement current is actual charge flow through capacitor gap | It is due to changing electric flux. |
-| Saying EM waves need medium | They can travel in vacuum. |
-| Saying electric and magnetic fields are parallel | They are perpendicular to each other. |
-| Forgetting `E0/B0 = c` | Electric and magnetic amplitudes are related. |
-| Mixing wavelength order and frequency order | Higher frequency means shorter wavelength. |
-| Saying all spectrum regions have different speeds in vacuum | All EM waves travel at speed `c` in vacuum. |
-| Treating gamma rays as harmless | They are highly penetrating and can damage tissue. |
+| Mistake                                                                   | Correction                                         |
+| ------------------------------------------------------------------------- | -------------------------------------------------- |
+| Thinking displacement current is actual charge flow through capacitor gap | It is due to changing electric flux.               |
+| Saying EM waves need medium                                               | They can travel in vacuum.                         |
+| Saying electric and magnetic fields are parallel                          | They are perpendicular to each other.              |
+| Forgetting `E0/B0 = c`                                                    | Electric and magnetic amplitudes are related.      |
+| Mixing wavelength order and frequency order                               | Higher frequency means shorter wavelength.         |
+| Saying all spectrum regions have different speeds in vacuum               | All EM waves travel at speed `c` in vacuum.        |
+| Treating gamma rays as harmless                                           | They are highly penetrating and can damage tissue. |
 
 ## Practice Set
 

@@ -38,7 +38,6 @@ const handleNotesError = (error: unknown) => {
 };
 
 export class NotesControllers {
-
   static async upload(request: Request) {
     try {
       const formData = await parseFormData(request);
@@ -67,7 +66,6 @@ export class NotesControllers {
     }
   }
 
-
   static async list(request: Request) {
     try {
       const { searchParams } = new URL(request.url);
@@ -88,7 +86,6 @@ export class NotesControllers {
     }
   }
 
-
   static async getById(request: Request, noteId: string) {
     try {
       const { searchParams } = new URL(request.url);
@@ -108,7 +105,6 @@ export class NotesControllers {
       return handleNotesError(error);
     }
   }
-
 
   static async delete(request: Request, noteId: string) {
     try {

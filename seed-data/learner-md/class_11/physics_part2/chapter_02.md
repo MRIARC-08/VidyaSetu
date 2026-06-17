@@ -1,4 +1,5 @@
 # Chapter 2: Thermal Properties of Matter
+
 ### NCERT Class 11 - Physics Part 2
 
 ---
@@ -19,17 +20,17 @@ The chapter is built around five big questions:
 
 ## Chapter Map
 
-| Section | Main Idea |
-| --- | --- |
-| Temperature and heat | Temperature measures hotness; heat is energy transferred due to temperature difference |
-| Measurement of temperature | Thermometers use physical properties that vary with temperature |
-| Ideal-gas equation | Low-density gases connect pressure, volume, and absolute temperature |
-| Thermal expansion | Solids, liquids, and gases expand on heating, with exceptions like water |
-| Specific heat capacity | Different substances need different heat for the same temperature rise |
-| Calorimetry | Heat lost by one body is gained by another in an insulated system |
-| Change of state | Melting, boiling, freezing, and condensation involve latent heat |
-| Heat transfer | Heat moves by conduction, convection, and radiation |
-| Newton's law of cooling | Cooling rate depends on temperature difference from surroundings |
+| Section                    | Main Idea                                                                              |
+| -------------------------- | -------------------------------------------------------------------------------------- |
+| Temperature and heat       | Temperature measures hotness; heat is energy transferred due to temperature difference |
+| Measurement of temperature | Thermometers use physical properties that vary with temperature                        |
+| Ideal-gas equation         | Low-density gases connect pressure, volume, and absolute temperature                   |
+| Thermal expansion          | Solids, liquids, and gases expand on heating, with exceptions like water               |
+| Specific heat capacity     | Different substances need different heat for the same temperature rise                 |
+| Calorimetry                | Heat lost by one body is gained by another in an insulated system                      |
+| Change of state            | Melting, boiling, freezing, and condensation involve latent heat                       |
+| Heat transfer              | Heat moves by conduction, convection, and radiation                                    |
+| Newton's law of cooling    | Cooling rate depends on temperature difference from surroundings                       |
 
 ---
 
@@ -57,10 +58,10 @@ Heat is energy transferred between systems because of a temperature difference.
 
 ### Important Distinction
 
-| Quantity | Meaning | SI Unit |
-| --- | --- | --- |
-| Temperature | degree of hotness or coldness | kelvin, `K` |
-| Heat | energy transferred due to temperature difference | joule, `J` |
+| Quantity    | Meaning                                          | SI Unit     |
+| ----------- | ------------------------------------------------ | ----------- |
+| Temperature | degree of hotness or coldness                    | kelvin, `K` |
+| Heat        | energy transferred due to temperature difference | joule, `J`  |
 
 ### Common Mistake
 
@@ -96,12 +97,12 @@ A thermometric property is a physical property that changes regularly with tempe
 
 Examples:
 
-| Thermometric Property | Used In |
-| --- | --- |
-| volume of liquid | mercury or alcohol thermometer |
-| pressure of gas at constant volume | gas thermometer |
-| electrical resistance | resistance thermometer |
-| thermal radiation | radiation thermometer |
+| Thermometric Property              | Used In                        |
+| ---------------------------------- | ------------------------------ |
+| volume of liquid                   | mercury or alcohol thermometer |
+| pressure of gas at constant volume | gas thermometer                |
+| electrical resistance              | resistance thermometer         |
+| thermal radiation                  | radiation thermometer          |
 
 ---
 
@@ -111,9 +112,9 @@ A standard temperature scale needs reference points.
 
 For water at standard pressure:
 
-| Fixed Point | Celsius | Fahrenheit |
-| --- | --- | --- |
-| ice point | `0 degree C` | `32 degree F` |
+| Fixed Point | Celsius        | Fahrenheit     |
+| ----------- | -------------- | -------------- |
+| ice point   | `0 degree C`   | `32 degree F`  |
 | steam point | `100 degree C` | `212 degree F` |
 
 There are 100 equal intervals on the Celsius scale and 180 equal intervals on the Fahrenheit scale between these two points.
@@ -196,13 +197,13 @@ PV = nRT
 
 The raw source uses the symbol `mu` for number of moles; here `n` is used because it is common in learner notes.
 
-| Symbol | Meaning |
-| --- | --- |
-| `P` | pressure |
-| `V` | volume |
-| `n` | number of moles |
-| `R` | universal gas constant |
-| `T` | absolute temperature in kelvin |
+| Symbol | Meaning                        |
+| ------ | ------------------------------ |
+| `P`    | pressure                       |
+| `V`    | volume                         |
+| `n`    | number of moles                |
+| `R`    | universal gas constant         |
+| `T`    | absolute temperature in kelvin |
 
 ```text
 R = 8.31 J mol^-1 K^-1
@@ -260,11 +261,11 @@ Thermal expansion is the increase in size of a body due to rise in temperature.
 
 ## Types Of Expansion
 
-| Type | Quantity That Changes |
-| --- | --- |
-| Linear expansion | length |
-| Area expansion | area |
-| Volume expansion | volume |
+| Type             | Quantity That Changes |
+| ---------------- | --------------------- |
+| Linear expansion | length                |
+| Area expansion   | area                  |
+| Volume expansion | volume                |
 
 ---
 
@@ -282,12 +283,12 @@ or:
 Delta l / l = alpha_l Delta T
 ```
 
-| Symbol | Meaning |
-| --- | --- |
-| `Delta l` | change in length |
-| `l` | original length |
+| Symbol    | Meaning                         |
+| --------- | ------------------------------- |
+| `Delta l` | change in length                |
+| `l`       | original length                 |
 | `alpha_l` | coefficient of linear expansion |
-| `Delta T` | change in temperature |
+| `Delta T` | change in temperature           |
 
 SI unit of `alpha_l`:
 
@@ -528,10 +529,10 @@ J mol^-1 K^-1
 
 For gases, two molar heat capacities are important:
 
-| Symbol | Meaning |
-| --- | --- |
-| `Cp` | molar specific heat capacity at constant pressure |
-| `Cv` | molar specific heat capacity at constant volume |
+| Symbol | Meaning                                           |
+| ------ | ------------------------------------------------- |
+| `Cp`   | molar specific heat capacity at constant pressure |
+| `Cv`   | molar specific heat capacity at constant volume   |
 
 ### Why Gases Need Conditions
 
@@ -613,13 +614,13 @@ Lf = 3.34 x 10^5 J kg^-1
 
 Matter can change between solid, liquid, and gas.
 
-| Change | Meaning |
-| --- | --- |
-| melting | solid to liquid |
-| freezing | liquid to solid |
-| boiling/vaporisation | liquid to gas |
-| condensation | gas to liquid |
-| sublimation | solid directly to gas |
+| Change               | Meaning               |
+| -------------------- | --------------------- |
+| melting              | solid to liquid       |
+| freezing             | liquid to solid       |
+| boiling/vaporisation | liquid to gas         |
+| condensation         | gas to liquid         |
+| sublimation          | solid directly to gas |
 
 ---
 
@@ -643,11 +644,11 @@ Q = mL
 
 where:
 
-| Symbol | Meaning |
-| --- | --- |
-| `Q` | heat transferred |
-| `m` | mass |
-| `L` | latent heat |
+| Symbol | Meaning          |
+| ------ | ---------------- |
+| `Q`    | heat transferred |
+| `m`    | mass             |
+| `L`    | latent heat      |
 
 SI unit of `L`:
 
@@ -659,10 +660,10 @@ J kg^-1
 
 ## Latent Heat Of Fusion And Vaporisation
 
-| Quantity | Meaning |
-| --- | --- |
-| `Lf` | latent heat of fusion, for solid-liquid change |
-| `Lv` | latent heat of vaporisation, for liquid-gas change |
+| Quantity | Meaning                                            |
+| -------- | -------------------------------------------------- |
+| `Lf`     | latent heat of fusion, for solid-liquid change     |
+| `Lv`     | latent heat of vaporisation, for liquid-gas change |
 
 For water at standard atmospheric pressure:
 
@@ -771,12 +772,12 @@ H = K A (T_hot - T_cold) / L
 
 where:
 
-| Symbol | Meaning |
-| --- | --- |
-| `H` | heat current or rate of heat flow |
-| `K` | thermal conductivity |
-| `A` | cross-sectional area |
-| `L` | length |
+| Symbol | Meaning                           |
+| ------ | --------------------------------- |
+| `H`    | heat current or rate of heat flow |
+| `K`    | thermal conductivity              |
+| `A`    | cross-sectional area              |
+| `L`    | length                            |
 
 SI unit of `K`:
 
@@ -788,19 +789,19 @@ W m^-1 K^-1
 
 ## Conductors And Insulators
 
-| Material Type | Heat Conductivity |
-| --- | --- |
-| metals such as copper | high |
-| wood, air, glass wool, foam | low |
+| Material Type               | Heat Conductivity |
+| --------------------------- | ----------------- |
+| metals such as copper       | high              |
+| wood, air, glass wool, foam | low               |
 
 ### Everyday Uses
 
-| Situation | Physics |
-| --- | --- |
-| copper bottom of cooking pot | spreads heat quickly |
-| plastic or wooden handles | reduce heat conduction to hand |
-| foam insulation in houses | slows heat transfer |
-| air pockets in wool | reduce conduction |
+| Situation                    | Physics                        |
+| ---------------------------- | ------------------------------ |
+| copper bottom of cooking pot | spreads heat quickly           |
+| plastic or wooden handles    | reduce heat conduction to hand |
+| foam insulation in houses    | slows heat transfer            |
+| air pockets in wool          | reduce conduction              |
 
 ---
 
@@ -853,12 +854,12 @@ Forced convection happens when fluid motion is driven by a pump, fan, heart, or 
 
 Examples:
 
-| Example | Type |
-| --- | --- |
-| blood circulation | forced convection |
-| automobile cooling system | forced convection |
-| room heater with fan | forced convection |
-| sea breeze | natural convection |
+| Example                   | Type               |
+| ------------------------- | ------------------ |
+| blood circulation         | forced convection  |
+| automobile cooling system | forced convection  |
+| room heater with fan      | forced convection  |
+| sea breeze                | natural convection |
 
 ---
 
@@ -898,12 +899,12 @@ Black surfaces are good absorbers and good emitters of radiation. Light-coloured
 
 ### Everyday Applications
 
-| Observation | Explanation |
-| --- | --- |
-| white clothes in summer | absorb less solar radiation |
-| dark clothes in winter | absorb more radiation |
-| blackened cooking vessel bottoms | absorb heat better |
-| silvered thermos bottle walls | reflect radiation |
+| Observation                      | Explanation                 |
+| -------------------------------- | --------------------------- |
+| white clothes in summer          | absorb less solar radiation |
+| dark clothes in winter           | absorb more radiation       |
+| blackened cooking vessel bottoms | absorb heat better          |
+| silvered thermos bottle walls    | reflect radiation           |
 
 ---
 
@@ -911,11 +912,11 @@ Black surfaces are good absorbers and good emitters of radiation. Light-coloured
 
 A thermos reduces heat transfer by all three modes.
 
-| Design Feature | Heat Transfer Reduced |
-| --- | --- |
-| vacuum between walls | conduction and convection |
-| silvered walls | radiation |
-| insulating cork/support | conduction |
+| Design Feature          | Heat Transfer Reduced     |
+| ----------------------- | ------------------------- |
+| vacuum between walls    | conduction and convection |
+| silvered walls          | radiation                 |
+| insulating cork/support | conduction                |
 
 ### Purpose
 
@@ -935,10 +936,10 @@ rate of cooling proportional to (T - Ts)
 
 where:
 
-| Symbol | Meaning |
-| --- | --- |
-| `T` | body temperature |
-| `Ts` | surrounding temperature |
+| Symbol | Meaning                 |
+| ------ | ----------------------- |
+| `T`    | body temperature        |
+| `Ts`   | surrounding temperature |
 
 ---
 
@@ -962,46 +963,46 @@ Cooling slows down as the object becomes closer to the surrounding temperature.
 
 ## Temperature
 
-| Formula | Use |
-| --- | --- |
-| `tF = (9/5)tC + 32` | Celsius to Fahrenheit |
+| Formula               | Use                   |
+| --------------------- | --------------------- |
+| `tF = (9/5)tC + 32`   | Celsius to Fahrenheit |
 | `tC = (5/9)(tF - 32)` | Fahrenheit to Celsius |
-| `T = tC + 273.15` | Celsius to kelvin |
+| `T = tC + 273.15`     | Celsius to kelvin     |
 
 ## Gas
 
-| Formula | Use |
-| --- | --- |
-| `PV = constant` | Boyle's law |
-| `V/T = constant` | Charles' law |
-| `PV = nRT` | ideal gas equation |
+| Formula                  | Use                    |
+| ------------------------ | ---------------------- |
+| `PV = constant`          | Boyle's law            |
+| `V/T = constant`         | Charles' law           |
+| `PV = nRT`               | ideal gas equation     |
 | `R = 8.31 J mol^-1 K^-1` | universal gas constant |
 
 ## Expansion
 
-| Formula | Use |
-| --- | --- |
-| `Delta l = alpha_l l Delta T` | linear expansion |
-| `Delta A/A = alpha_A Delta T` | area expansion |
-| `alpha_A = 2 alpha_l` | isotropic solid |
-| `Delta V/V = alpha_V Delta T` | volume expansion |
-| `alpha_V = 3 alpha_l` | isotropic solid |
-| `stress = Y alpha_l Delta T` | expansion prevented |
+| Formula                       | Use                 |
+| ----------------------------- | ------------------- |
+| `Delta l = alpha_l l Delta T` | linear expansion    |
+| `Delta A/A = alpha_A Delta T` | area expansion      |
+| `alpha_A = 2 alpha_l`         | isotropic solid     |
+| `Delta V/V = alpha_V Delta T` | volume expansion    |
+| `alpha_V = 3 alpha_l`         | isotropic solid     |
+| `stress = Y alpha_l Delta T`  | expansion prevented |
 
 ## Heat Capacity And Phase Change
 
-| Formula | Use |
-| --- | --- |
-| `S = Delta Q/Delta T` | heat capacity |
-| `s = Delta Q/(m Delta T)` | specific heat capacity |
-| `Q = m s Delta T` | heat for temperature change |
-| `Q = mL` | heat for change of state |
+| Formula                   | Use                         |
+| ------------------------- | --------------------------- |
+| `S = Delta Q/Delta T`     | heat capacity               |
+| `s = Delta Q/(m Delta T)` | specific heat capacity      |
+| `Q = m s Delta T`         | heat for temperature change |
+| `Q = mL`                  | heat for change of state    |
 
 ## Heat Transfer
 
-| Formula | Use |
-| --- | --- |
-| `H = K A (T_hot - T_cold)/L` | conduction heat current |
+| Formula                                    | Use                     |
+| ------------------------------------------ | ----------------------- |
+| `H = K A (T_hot - T_cold)/L`               | conduction heat current |
 | `rate of cooling proportional to (T - Ts)` | Newton's law of cooling |
 
 ---
@@ -1145,4 +1146,3 @@ Boiling point depends on pressure. Water does not always boil at `100 degree C`;
 - [ ] I can explain conduction, convection, and radiation with examples.
 - [ ] I can use the conduction heat-current formula.
 - [ ] I can state Newton's law of cooling in words.
-

@@ -1,20 +1,21 @@
 # Chapter 9: The Bond of Love
+
 ### NCERT Class 9 — English Beehive
 
 ---
 
 ## 📌 Chapter at a Glance
 
-| Detail | Info |
-|---|---|
-| Chapter | 9 — The Bond of Love |
-| Class | Class 9 |
-| Subject | English Beehive |
-| Pilot Subject Family | English |
-| Source File | `data/class_9/english_beehive/chapter_09.md` |
-| Textbook Pages | 1 – 10 |
-| Raw Exercise Count | 30 |
-| Formatting Mode | Human-guided pilot for subject-specific automation |
+| Detail               | Info                                               |
+| -------------------- | -------------------------------------------------- |
+| Chapter              | 9 — The Bond of Love                               |
+| Class                | Class 9                                            |
+| Subject              | English Beehive                                    |
+| Pilot Subject Family | English                                            |
+| Source File          | `data/class_9/english_beehive/chapter_09.md`       |
+| Textbook Pages       | 1 – 10                                             |
+| Raw Exercise Count   | 30                                                 |
+| Formatting Mode      | Human-guided pilot for subject-specific automation |
 
 ---
 
@@ -23,53 +24,53 @@
 > [!NOTE]
 > Study this chapter through this route: **context -> plot/situation -> character voice -> theme -> language feature -> reader response**.
 
-| Step | Learner Action | Why It Matters |
-|---|---|---|
-| 1 | Read once for the literal story and again for tone, conflict, and theme. | Builds reliable recall and answer quality. |
-| 2 | Maintain a character evidence table with quotations or paraphrased moments. | Builds reliable recall and answer quality. |
-| 3 | Track difficult expressions and infer meaning from context. | Builds reliable recall and answer quality. |
-| 4 | For long answers, connect textual evidence to the central theme. | Builds reliable recall and answer quality. |
+| Step | Learner Action                                                              | Why It Matters                             |
+| ---- | --------------------------------------------------------------------------- | ------------------------------------------ |
+| 1    | Read once for the literal story and again for tone, conflict, and theme.    | Builds reliable recall and answer quality. |
+| 2    | Maintain a character evidence table with quotations or paraphrased moments. | Builds reliable recall and answer quality. |
+| 3    | Track difficult expressions and infer meaning from context.                 | Builds reliable recall and answer quality. |
+| 4    | For long answers, connect textual evidence to the central theme.            | Builds reliable recall and answer quality. |
 
 ---
 
 ## 🎯 Learning Outcomes
 
-| # | After studying this chapter, you should be able to... |
-|---|---|
-| 1 | understand the literal situation and deeper theme of the text |
-| 2 | explain character, tone, conflict, and language choices using textual evidence |
-| 3 | answer comprehension, vocabulary, and writing tasks in a structured way |
+| #   | After studying this chapter, you should be able to...                          |
+| --- | ------------------------------------------------------------------------------ |
+| 1   | understand the literal situation and deeper theme of the text                  |
+| 2   | explain character, tone, conflict, and language choices using textual evidence |
+| 3   | answer comprehension, vocabulary, and writing tasks in a structured way        |
 
 ---
 
 ## 🗂️ Section Structure
 
-| Section | Title | Revision Focus |
-|---|---|---|
-| Intro | Core chapter narrative | Definition, explanation, examples, and likely questions |
+| Section | Title                  | Revision Focus                                          |
+| ------- | ---------------------- | ------------------------------------------------------- |
+| Intro   | Core chapter narrative | Definition, explanation, examples, and likely questions |
 
 ---
 
 ## 🧠 Subject-Specific Study Method
 
-| Part | How to Use It |
-|---|---|
-| Core lens | context -> plot/situation -> character voice -> theme -> language feature -> reader response |
-| First pass | Read for meaning and mark unfamiliar terms. |
-| Second pass | Convert definitions, examples, data, and activities into tables. |
-| Revision pass | Use the quick reference and practice tracker at the end. |
+| Part          | How to Use It                                                                                |
+| ------------- | -------------------------------------------------------------------------------------------- |
+| Core lens     | context -> plot/situation -> character voice -> theme -> language feature -> reader response |
+| First pass    | Read for meaning and mark unfamiliar terms.                                                  |
+| Second pass   | Convert definitions, examples, data, and activities into tables.                             |
+| Revision pass | Use the quick reference and practice tracker at the end.                                     |
 
 ---
 
 ## 🪶 Literature Study Board
 
-| Element | Learner Notes |
-|---|---|
-| Text | The Bond of Love |
-| First reading | Understand what happens literally: situation, characters, conflict, and ending. |
-| Second reading | Track emotional change, tone, symbols, and social/political context. |
-| Evidence habit | Keep short textual moments ready for long-answer questions. |
-| Vocabulary habit | Infer expression meanings from context before checking a dictionary. |
+| Element          | Learner Notes                                                                   |
+| ---------------- | ------------------------------------------------------------------------------- |
+| Text             | The Bond of Love                                                                |
+| First reading    | Understand what happens literally: situation, characters, conflict, and ending. |
+| Second reading   | Track emotional change, tone, symbols, and social/political context.            |
+| Evidence habit   | Keep short textual moments ready for long-answer questions.                     |
+| Vocabulary habit | Infer expression meanings from context before checking a dictionary.            |
 
 ---
 
@@ -81,6 +82,7 @@
 > Study this part through the **context -> plot/situation -> character voice -> theme -> language feature -> reader response** lens.
 
 If I Were You / 109 B BB BBEFOREEFOREEFORE EFOREEFORE Y Y Y Y Y OU OUOU OUOU R R R R R EAD EADEAD EADEAD
+
 - Gerrard lives alone in a lonely cottage. An intruder, who is a criminal, enters his cottage. He intends to murder Gerrard and take on his identity. Does he succeed?
 - The following words and phrases occur in the play. Do you know their meanings? Match them with the meanings given, to find out.
 
@@ -126,8 +128,8 @@ Listen, can you tell our friend the Sergeant to come up here at once? You’ll p
 
 1. “At last a sympathetic audience.”
 
- - (i) Who says this?
-(ii) Why does he say it? (iii) Is he sarcastic or serious?
+- (i) Who says this?
+  (ii) Why does he say it? (iii) Is he sarcastic or serious?
 
 2. Why does the intruder choose Gerrard as the man whose identity he wants
 
@@ -135,8 +137,8 @@ to take on?
 
 3. “I said it with bullets.”
 
- - (i) Who says this?
-(ii) What does it mean? (iii) Is it the truth? What is the speaker’s reason for saying this?
+- (i) Who says this?
+  (ii) What does it mean? (iii) Is it the truth? What is the speaker’s reason for saying this?
 
 4. What is Gerrard’s profession? Quote the parts of the play that support your
 
@@ -144,13 +146,13 @@ answer.
 
 5. “You’ll soon stop being smart.”
 
- - (i) Who says this?
-Reprint 2025-26 116 / Beehive (ii) Why does the speaker say it? (iii) What according to the speaker will stop Gerrard from being smart?
+- (i) Who says this?
+  Reprint 2025-26 116 / Beehive (ii) Why does the speaker say it? (iii) What according to the speaker will stop Gerrard from being smart?
 
 6. “They can’t hang me twice.”
 
- - (i) Who says this?
-(ii) Why does the speaker say it?
+- (i) Who says this?
+  (ii) Why does the speaker say it?
 
 7. “A mystery I propose to explain.” What is the mystery the speaker proposes
 
@@ -158,8 +160,8 @@ to explain?
 
 8. “This is your big surprise.”
 
- - (i) Where has this been said in the play?
-(ii) What is the surprise? Thinking about LanguageThinking about LanguageThinking about LanguageThinking about LanguageThinking about Language I. Consult your dictionary and choose the correct word from the pairs given in brackets.
+- (i) Where has this been said in the play?
+  (ii) What is the surprise? Thinking about LanguageThinking about LanguageThinking about LanguageThinking about LanguageThinking about Language I. Consult your dictionary and choose the correct word from the pairs given in brackets.
 
 1. The (site, cite) of the accident was (ghastly/ghostly).
 
@@ -186,7 +188,7 @@ using the contents. II. Irony is when we say one thing but mean another, usually
 Then say what these expressions really mean. Two examples have Reprint 2025-26 If I Were You / 117 been given below. W rite down thr ee mor e such expr essions along with what they really mean. What the author says What he means Why, this is a surprise, Mr —er — He pretends that the intruder is a social visitor whom he is welcoming. In this way he hides his fear. At last a sympathetic audience! He pretends that the intruder wants to listen to him, whereas actually the intruder wants to find out information for his own use. DictionarDictionarDictionarDictionarDictionar y Use
 
 - Usey Use y Usey Use
-A word can mean different things in different contexts. Look at these three sentences:
+  A word can mean different things in different contexts. Look at these three sentences:
 - The students are taught to respect different cultures.
 - The school is organising a cultural show.
 - His voice is cultured. In the first sentence, ‘culture’ (noun) means way of life; in the second, ‘cultural’ (adjective) means connected with art, literature and music; and in the third, ‘cultured’ (verb) means sophisticated, well mannered. Usually a dictionary helps you identify the right meaning by giving you signposts. Look at the dictionary entry on ‘culture’ from Oxford Advanced Learner’s Dictionary, 2005. Reprint 2025-26 118 / Beehive (Noun, verb, adjective, adverb, synonyms, etc.
@@ -207,8 +209,8 @@ Your story should be as exciting and as witty as the play. Provide a suitable ti
 
 ## 🔑 Key Concepts & Definitions
 
-| Term | Learner-Friendly Meaning |
-|---|---|
+| Term                             | Learner-Friendly Meaning                                                                                 |
+| -------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | **What the author says What he** | Why, this is a surprise, Mr —er — He pretends that the intruder is a social visitor whom he is welcoming |
 
 ---
@@ -229,71 +231,71 @@ Your story should be as exciting and as witty as the play. Provide a suitable ti
 
 ## ✏️ Practice & Exercise Tracker
 
-| Q | Question / Task | Answer Strategy |
-|---|---|---|
-| 1 | 9. If I W 9. If I W9. If I W 9. If I W9. If I W ere Y ere Yere Y ere Yere You ouou ouou | Identify command word, recall concept, structure answer, then review. |
-| 2 | 1. “At last a sympathetic audience.” (i) Who says this? (ii) Why does he say it? (iii) Is he sarcastic or serious? | Identify command word, recall concept, structure answer, then review. |
-| 3 | 2. Why does the intruder choose Gerrard as the man whose identity he wants to take on? | Identify command word, recall concept, structure answer, then review. |
-| 4 | 3. “I said it with bullets.” (i) Who says this? (ii) What does it mean? (iii) Is it the truth? What is the speaker’s reason for saying this? | Identify command word, recall concept, structure answer, then review. |
-| 5 | 4. What is Gerrard’s profession? Quote the parts of the play that support your answer. | Identify command word, recall concept, structure answer, then review. |
-| 6 | 5. “You’ll soon stop being smart.” (i) Who says this? Reprint 2025-26 116 / Beehive (ii) Why does the speaker say it? (iii) What according to the speaker will stop Gerrard from being smart? | Identify command word, recall concept, structure answer, then review. |
-| 7 | 6. “They can’t hang me twice.” (i) Who says this? (ii) Why does the speaker say it? | Identify command word, recall concept, structure answer, then review. |
-| 8 | 7. “A mystery I propose to explain.” What is the mystery the speaker proposes to explain? | Identify command word, recall concept, structure answer, then review. |
-| 9 | 8. “This is your big surprise.” (i) Where has this been said in the play? (ii) What is the surprise? Thinking about LanguageThinking about LanguageThinking about LanguageThinking about LanguageThinking about Language I. Consult your dictionary and choose the correct word from the pairs given in brackets. | Identify command word, recall concept, structure answer, then review. |
-| 10 | 1. The (site, cite) of the accident was (ghastly/ghostly). | Identify command word, recall concept, structure answer, then review. |
-| 11 | 2. Our college (principle/principal) is very strict. | Identify command word, recall concept, structure answer, then review. |
-| 12 | 3. I studied (continuously/continually) for eight hours. | Identify command word, recall concept, structure answer, then review. |
-| 13 | 4. The fog had an adverse (affect/effect) on the traffic. | Identify command word, recall concept, structure answer, then review. |
-| 14 | 5. Cezanne, the famous Fr ench painter, was a brilliant (artist/artiste). | Identify command word, recall concept, structure answer, then review. |
-| 15 | 6. The book that you gave me yesterday is an extraordinary (collage/college) of science fiction and mystery. | Identify command word, recall concept, structure answer, then review. |
-| 16 | 7. Our school will (host/hoist) an exhibition on cruelty to animals and wildlife conservation. | Identify command word, recall concept, structure answer, then review. |
-| 17 | 8. Screw the lid tightly onto the top of the bottle and (shake/shape) well before using the contents. II. Irony is when we say one thing but mean another, usually the opposite of what we say. When someone makes a mistake and you say, “Oh! that was clever!”, that is ir ony. You’re saying ‘clever‘ to mean ‘not clever’. Expressions we often use in an ironic fashion are:  Oh, wasn’t that clever!/Oh that was clever!  You have been a gr eat help, I must say!  You’ve got yourself into a lovely mess, haven’t you?  Oh, very funny!/ How funny! We use a slightly different tone of voice when we use these wor ds ir onically. Read the play carefully and find the words and expressions Gerrard uses in an ironic way. Then say what these expressions really mean. Two examples have Reprint 2025-26 If I Were You / 117 been given below. W rite down thr ee mor e such expr essions along with what they really mean. What the author says What he means Why, this is a surprise, Mr —er — He pretends that the intruder is a social visitor whom he is welcoming. In this way he hides his fear. At last a sympathetic audience! He pretends that the intruder wants to listen to him, whereas actually the intruder wants to find out information for his own use. DictionarDictionarDictionarDictionarDictionar y Use | Identify command word, recall concept, structure answer, then review. |
-| 18 | 1. Imagine you are Gerrard. Tell your friend what happened when the Intruder broke into your house. [Clues: Describe (i) the intrude r— his appearance, the way he spoke, his plan, his movements, etc., (ii) how you outwitted him.] | Identify command word, recall concept, structure answer, then review. |
-| 19 | 2. Enact the play in the class. Pay special attention to words given in italics before a dialogue. These words will tell you whether the dialogue has to be said in a happy, sarcastic or ironic tone and how the characters move and what they do as they speak. Read these carefully before you enact the play. W WW WWriting ritingritingritingriting I. Which of the words below describe Gerrard and which describe the Intruder? smart humorous clever beautiful cool confident flashy witty nonchalant Write a paragraph each about Gerrar d and the Intruder to show what qualities they have. (You can use some of the wor ds given above.) II. Convert the play into a story (15 0 –200 wor ds). Your story should be as exciting and as witty as the play. Provide a suitable title to it. Reprint 2025-26 | Identify command word, recall concept, structure answer, then review. |
+| Q   | Question / Task                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Answer Strategy                                                       |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------- |
+| 1   | 9. If I W 9. If I W9. If I W 9. If I W9. If I W ere Y ere Yere Y ere Yere You ouou ouou                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Identify command word, recall concept, structure answer, then review. |
+| 2   | 1. “At last a sympathetic audience.” (i) Who says this? (ii) Why does he say it? (iii) Is he sarcastic or serious?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Identify command word, recall concept, structure answer, then review. |
+| 3   | 2. Why does the intruder choose Gerrard as the man whose identity he wants to take on?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Identify command word, recall concept, structure answer, then review. |
+| 4   | 3. “I said it with bullets.” (i) Who says this? (ii) What does it mean? (iii) Is it the truth? What is the speaker’s reason for saying this?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Identify command word, recall concept, structure answer, then review. |
+| 5   | 4. What is Gerrard’s profession? Quote the parts of the play that support your answer.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Identify command word, recall concept, structure answer, then review. |
+| 6   | 5. “You’ll soon stop being smart.” (i) Who says this? Reprint 2025-26 116 / Beehive (ii) Why does the speaker say it? (iii) What according to the speaker will stop Gerrard from being smart?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Identify command word, recall concept, structure answer, then review. |
+| 7   | 6. “They can’t hang me twice.” (i) Who says this? (ii) Why does the speaker say it?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Identify command word, recall concept, structure answer, then review. |
+| 8   | 7. “A mystery I propose to explain.” What is the mystery the speaker proposes to explain?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Identify command word, recall concept, structure answer, then review. |
+| 9   | 8. “This is your big surprise.” (i) Where has this been said in the play? (ii) What is the surprise? Thinking about LanguageThinking about LanguageThinking about LanguageThinking about LanguageThinking about Language I. Consult your dictionary and choose the correct word from the pairs given in brackets.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Identify command word, recall concept, structure answer, then review. |
+| 10  | 1. The (site, cite) of the accident was (ghastly/ghostly).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Identify command word, recall concept, structure answer, then review. |
+| 11  | 2. Our college (principle/principal) is very strict.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Identify command word, recall concept, structure answer, then review. |
+| 12  | 3. I studied (continuously/continually) for eight hours.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Identify command word, recall concept, structure answer, then review. |
+| 13  | 4. The fog had an adverse (affect/effect) on the traffic.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Identify command word, recall concept, structure answer, then review. |
+| 14  | 5. Cezanne, the famous Fr ench painter, was a brilliant (artist/artiste).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Identify command word, recall concept, structure answer, then review. |
+| 15  | 6. The book that you gave me yesterday is an extraordinary (collage/college) of science fiction and mystery.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Identify command word, recall concept, structure answer, then review. |
+| 16  | 7. Our school will (host/hoist) an exhibition on cruelty to animals and wildlife conservation.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Identify command word, recall concept, structure answer, then review. |
+| 17  | 8. Screw the lid tightly onto the top of the bottle and (shake/shape) well before using the contents. II. Irony is when we say one thing but mean another, usually the opposite of what we say. When someone makes a mistake and you say, “Oh! that was clever!”, that is ir ony. You’re saying ‘clever‘ to mean ‘not clever’. Expressions we often use in an ironic fashion are:  Oh, wasn’t that clever!/Oh that was clever!  You have been a gr eat help, I must say!  You’ve got yourself into a lovely mess, haven’t you?  Oh, very funny!/ How funny! We use a slightly different tone of voice when we use these wor ds ir onically. Read the play carefully and find the words and expressions Gerrard uses in an ironic way. Then say what these expressions really mean. Two examples have Reprint 2025-26 If I Were You / 117 been given below. W rite down thr ee mor e such expr essions along with what they really mean. What the author says What he means Why, this is a surprise, Mr —er — He pretends that the intruder is a social visitor whom he is welcoming. In this way he hides his fear. At last a sympathetic audience! He pretends that the intruder wants to listen to him, whereas actually the intruder wants to find out information for his own use. DictionarDictionarDictionarDictionarDictionar y Use | Identify command word, recall concept, structure answer, then review. |
+| 18  | 1. Imagine you are Gerrard. Tell your friend what happened when the Intruder broke into your house. [Clues: Describe (i) the intrude r— his appearance, the way he spoke, his plan, his movements, etc., (ii) how you outwitted him.]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Identify command word, recall concept, structure answer, then review. |
+| 19  | 2. Enact the play in the class. Pay special attention to words given in italics before a dialogue. These words will tell you whether the dialogue has to be said in a happy, sarcastic or ironic tone and how the characters move and what they do as they speak. Read these carefully before you enact the play. W WW WWriting ritingritingritingriting I. Which of the words below describe Gerrard and which describe the Intruder? smart humorous clever beautiful cool confident flashy witty nonchalant Write a paragraph each about Gerrar d and the Intruder to show what qualities they have. (You can use some of the wor ds given above.) II. Convert the play into a story (15 0 –200 wor ds). Your story should be as exciting and as witty as the play. Provide a suitable title to it. Reprint 2025-26                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Identify command word, recall concept, structure answer, then review. |
 
 ---
 
 ## 🧩 Answer-Writing Framework
 
-| Step | What To Do |
-|---|---|
-| 1 | Begin with the situation in the text. |
-| 2 | Identify the speaker, character, or event. |
-| 3 | Explain what it reveals about theme, conflict, or emotion. |
-| 4 | Use a short textual reference or paraphrase. |
-| 5 | Close with the larger significance. |
+| Step | What To Do                                                 |
+| ---- | ---------------------------------------------------------- |
+| 1    | Begin with the situation in the text.                      |
+| 2    | Identify the speaker, character, or event.                 |
+| 3    | Explain what it reveals about theme, conflict, or emotion. |
+| 4    | Use a short textual reference or paraphrase.               |
+| 5    | Close with the larger significance.                        |
 
 ---
 
 ## ⚠️ Common Misconceptions
 
-| # | Watch Out For This |
-|---|---|
-| 1 | Do not retell the whole story when the question asks for interpretation. |
-| 2 | A theme is not a one-word topic; it is an idea about life or society. |
-| 3 | Vocabulary questions require context, not only dictionary meaning. |
+| #   | Watch Out For This                                                       |
+| --- | ------------------------------------------------------------------------ |
+| 1   | Do not retell the whole story when the question asks for interpretation. |
+| 2   | A theme is not a one-word topic; it is an idea about life or society.    |
+| 3   | Vocabulary questions require context, not only dictionary meaning.       |
 
 ---
 
 ## 📋 Quick Revision Sheet
 
-| Revision Item | What To Recall |
-|---|---|
-| Chapter core | The Bond of Love |
-| Intro | Core chapter narrative |
-| Definition | What the author says What he |
+| Revision Item | What To Recall               |
+| ------------- | ---------------------------- |
+| Chapter core  | The Bond of Love             |
+| Intro         | Core chapter narrative       |
+| Definition    | What the author says What he |
 
 ---
 
 ## ✅ Pilot Quality Checklist
 
-| Check | Status |
-|---|---|
-| Raw data preserved | Yes — chapter content is retained and cleaned, not summarised away. |
-| Learner scaffolding added | Yes — roadmap, outcomes, answer framework, misconceptions, and revision sheet. |
-| Subject-aware structure | Yes — generated from the selected subject family profile. |
-| Needs human review | Yes — especially source extraction mismatches, diagrams, tables, formulas, and broken OCR words. |
+| Check                     | Status                                                                                           |
+| ------------------------- | ------------------------------------------------------------------------------------------------ |
+| Raw data preserved        | Yes — chapter content is retained and cleaned, not summarised away.                              |
+| Learner scaffolding added | Yes — roadmap, outcomes, answer framework, misconceptions, and revision sheet.                   |
+| Subject-aware structure   | Yes — generated from the selected subject family profile.                                        |
+| Needs human review        | Yes — especially source extraction mismatches, diagrams, tables, formulas, and broken OCR words. |
 
 ---
 
-*Source: NCERT Class 9 — English Beehive, Chapter 9. Raw file: `data/class_9/english_beehive/chapter_09.md`.*
+_Source: NCERT Class 9 — English Beehive, Chapter 9. Raw file: `data/class_9/english_beehive/chapter_09.md`._

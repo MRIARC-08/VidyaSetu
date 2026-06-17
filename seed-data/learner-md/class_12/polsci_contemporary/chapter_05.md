@@ -22,25 +22,25 @@ The key learning is that security is not a single fixed idea. It depends on whos
 
 ## Key Terms
 
-| Term | Meaning | Why it matters |
-|---|---|---|
-| Security | Freedom from extremely dangerous threats to core values | Main concept |
-| Core values | Values whose destruction would cause severe damage to a state, community, or people | Helps decide what counts as security |
-| Traditional security | State-centred security focused mainly on military threats | Older dominant view |
-| Non-traditional security | Broader security view focused on people, communities, and humanity | Expands the agenda |
-| Deterrence | Preventing attack by making the cost of attack unacceptable | Traditional security tool |
-| Defence | Protecting oneself when war occurs and defeating or repelling attack | Traditional security response |
-| Balance of power | Relative distribution of power among states | Helps states assess threats |
-| Alliance | Coalition of states coordinating against military threats | Common security arrangement |
-| Disarmament | Giving up certain kinds of weapons | Reduces threats by removing weapons |
-| Arms control | Regulating acquisition or development of weapons | Limits arms races |
-| Confidence building | Sharing information to reduce misperception and surprise attack | Builds trust among rivals |
-| Human security | Security focused on protection of individuals and communities | Core non-traditional idea |
-| Global security | Security focused on threats affecting all humanity | Needed for global problems |
-| Terrorism | Deliberate political violence targeting civilians | Non-traditional threat |
-| Refugee | Person fleeing war, disaster, or persecution across borders | Important human security issue |
-| Internally displaced person | Person forced from home but still inside national borders | Distinct from refugee |
-| Cooperative security | Security strategy based on cooperation among states and non-state actors | Key response to non-traditional threats |
+| Term                        | Meaning                                                                             | Why it matters                          |
+| --------------------------- | ----------------------------------------------------------------------------------- | --------------------------------------- |
+| Security                    | Freedom from extremely dangerous threats to core values                             | Main concept                            |
+| Core values                 | Values whose destruction would cause severe damage to a state, community, or people | Helps decide what counts as security    |
+| Traditional security        | State-centred security focused mainly on military threats                           | Older dominant view                     |
+| Non-traditional security    | Broader security view focused on people, communities, and humanity                  | Expands the agenda                      |
+| Deterrence                  | Preventing attack by making the cost of attack unacceptable                         | Traditional security tool               |
+| Defence                     | Protecting oneself when war occurs and defeating or repelling attack                | Traditional security response           |
+| Balance of power            | Relative distribution of power among states                                         | Helps states assess threats             |
+| Alliance                    | Coalition of states coordinating against military threats                           | Common security arrangement             |
+| Disarmament                 | Giving up certain kinds of weapons                                                  | Reduces threats by removing weapons     |
+| Arms control                | Regulating acquisition or development of weapons                                    | Limits arms races                       |
+| Confidence building         | Sharing information to reduce misperception and surprise attack                     | Builds trust among rivals               |
+| Human security              | Security focused on protection of individuals and communities                       | Core non-traditional idea               |
+| Global security             | Security focused on threats affecting all humanity                                  | Needed for global problems              |
+| Terrorism                   | Deliberate political violence targeting civilians                                   | Non-traditional threat                  |
+| Refugee                     | Person fleeing war, disaster, or persecution across borders                         | Important human security issue          |
+| Internally displaced person | Person forced from home but still inside national borders                           | Distinct from refugee                   |
+| Cooperative security        | Security strategy based on cooperation among states and non-state actors            | Key response to non-traditional threats |
 
 ## 1. The Chapter In One Sentence
 
@@ -785,13 +785,13 @@ Democratic pressure can push governments to combine growth with welfare.
 
 ## 68. Comparing Traditional And Non-Traditional Security
 
-| Basis | Traditional security | Non-traditional security |
-|---|---|---|
-| Main referent | State | Individuals, communities, humanity |
-| Main threat | Military attack | Violence, poverty, disease, environment, displacement |
-| Main method | Force, deterrence, defence, alliances | Cooperation, development, institutions, rights protection |
-| Main actors | States and militaries | States, organisations, NGOs, communities |
-| Example | Border war | Epidemic or climate threat |
+| Basis         | Traditional security                  | Non-traditional security                                  |
+| ------------- | ------------------------------------- | --------------------------------------------------------- |
+| Main referent | State                                 | Individuals, communities, humanity                        |
+| Main threat   | Military attack                       | Violence, poverty, disease, environment, displacement     |
+| Main method   | Force, deterrence, defence, alliances | Cooperation, development, institutions, rights protection |
+| Main actors   | States and militaries                 | States, organisations, NGOs, communities                  |
+| Example       | Border war                            | Epidemic or climate threat                                |
 
 ## 69. Common Student Confusions
 

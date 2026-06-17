@@ -23,19 +23,19 @@ Study this chapter through two parallel themes. First, South Asian countries hav
 
 ## Key Terms
 
-| Term | Meaning | Why it matters |
-|---|---|---|
-| South Asia | Region including Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan, and Sri Lanka in this chapter | Main regional focus |
-| Geopolitical space | Region shaped by geography and politics together | Explains why South Asia matters as one region |
-| Military rule | Rule by army leadership rather than elected civilian government | Important in Pakistan and Bangladesh history |
-| Constitutional monarchy | System where monarch exists but is limited by constitution | Nepal before republic; Bhutan's transition |
-| Democratic republic | State with elected government and no monarchy | Nepal after 2008 |
-| LTTE | Liberation Tigers of Tamil Eelam | Major Tamil militant organisation in Sri Lanka |
-| Line of Control | Military control line dividing Indian and Pakistan-administered parts of Kashmir | Central to India-Pakistan conflict |
-| Indus Waters Treaty | 1960 water-sharing treaty between India and Pakistan | Example of cooperation despite conflict |
-| SAARC | South Asian Association for Regional Cooperation | Main regional organisation |
-| SAFTA | South Asian Free Trade Agreement | Attempt to create freer regional trade |
-| Confidence building measures | Steps to reduce mistrust and risk of war | Used in India-Pakistan relations |
+| Term                         | Meaning                                                                                              | Why it matters                                 |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| South Asia                   | Region including Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan, and Sri Lanka in this chapter | Main regional focus                            |
+| Geopolitical space           | Region shaped by geography and politics together                                                     | Explains why South Asia matters as one region  |
+| Military rule                | Rule by army leadership rather than elected civilian government                                      | Important in Pakistan and Bangladesh history   |
+| Constitutional monarchy      | System where monarch exists but is limited by constitution                                           | Nepal before republic; Bhutan's transition     |
+| Democratic republic          | State with elected government and no monarchy                                                        | Nepal after 2008                               |
+| LTTE                         | Liberation Tigers of Tamil Eelam                                                                     | Major Tamil militant organisation in Sri Lanka |
+| Line of Control              | Military control line dividing Indian and Pakistan-administered parts of Kashmir                     | Central to India-Pakistan conflict             |
+| Indus Waters Treaty          | 1960 water-sharing treaty between India and Pakistan                                                 | Example of cooperation despite conflict        |
+| SAARC                        | South Asian Association for Regional Cooperation                                                     | Main regional organisation                     |
+| SAFTA                        | South Asian Free Trade Agreement                                                                     | Attempt to create freer regional trade         |
+| Confidence building measures | Steps to reduce mistrust and risk of war                                                             | Used in India-Pakistan relations               |
 
 ## 1. The Chapter In One Sentence
 
@@ -673,15 +673,15 @@ Outside powers matter, but regional actors matter more.
 
 ## 59. Comparing Key South Asian Political Experiences
 
-| Country | Main political pattern |
-|---|---|
-| India | Continuous democracy since independence |
-| Sri Lanka | Democracy with severe ethnic conflict |
-| Pakistan | Alternation between civilian rule and military dominance |
+| Country    | Main political pattern                                          |
+| ---------- | --------------------------------------------------------------- |
+| India      | Continuous democracy since independence                         |
+| Sri Lanka  | Democracy with severe ethnic conflict                           |
+| Pakistan   | Alternation between civilian rule and military dominance        |
 | Bangladesh | Liberation struggle, military rule, later multi-party democracy |
-| Nepal | Monarchy, Maoist conflict, democratic republic |
-| Bhutan | Constitutional monarchy and multi-party democracy |
-| Maldives | Sultanate to republic to multi-party politics |
+| Nepal      | Monarchy, Maoist conflict, democratic republic                  |
+| Bhutan     | Constitutional monarchy and multi-party democracy               |
+| Maldives   | Sultanate to republic to multi-party politics                   |
 
 ## 60. Common Student Confusions
 

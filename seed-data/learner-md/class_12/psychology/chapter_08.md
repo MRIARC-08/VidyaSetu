@@ -2,13 +2,13 @@
 
 ## Chapter Identity
 
-| Item | Details |
-| --- | --- |
-| Class | 12 |
-| Subject | Psychology |
-| Chapter | Psychology and Life |
-| Core Skill | Applying psychology to environment, social problems, aggression, poverty, disaster, media, and pro-environmental behaviour |
-| Main Idea | Psychology helps us understand how people affect their surroundings and how social and physical environments shape human behaviour. |
+| Item       | Details                                                                                                                             |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Class      | 12                                                                                                                                  |
+| Subject    | Psychology                                                                                                                          |
+| Chapter    | Psychology and Life                                                                                                                 |
+| Core Skill | Applying psychology to environment, social problems, aggression, poverty, disaster, media, and pro-environmental behaviour          |
+| Main Idea  | Psychology helps us understand how people affect their surroundings and how social and physical environments shape human behaviour. |
 
 ## 1. Big Picture
 
@@ -28,20 +28,20 @@ Environment/social condition
 
 Human beings and the environment influence each other continuously.
 
-| Direction | Meaning | Example |
-| --- | --- | --- |
-| Environment affects humans | Physical surroundings shape feelings and behaviour. | Noise can reduce concentration and increase irritation. |
-| Humans affect environment | Human actions change natural and built surroundings. | Pollution, deforestation, waste, conservation. |
-| Interactional view | Humans and environment form a two-way system. | Crowded cities shape behaviour, and human planning shapes cities. |
+| Direction                  | Meaning                                              | Example                                                           |
+| -------------------------- | ---------------------------------------------------- | ----------------------------------------------------------------- |
+| Environment affects humans | Physical surroundings shape feelings and behaviour.  | Noise can reduce concentration and increase irritation.           |
+| Humans affect environment  | Human actions change natural and built surroundings. | Pollution, deforestation, waste, conservation.                    |
+| Interactional view         | Humans and environment form a two-way system.        | Crowded cities shape behaviour, and human planning shapes cities. |
 
 ## 3. Views of Human-Environment Relationship
 
-| View | Explanation |
-| --- | --- |
-| Minimalist view | Physical environment has little influence; human behaviour is mainly shaped by social/cultural factors. |
-| Instrumental view | Environment exists mainly as a resource for human use. |
-| Spiritual view | Environment is sacred and must be respected. |
-| Ecological view | Humans are part of nature and must maintain balance with it. |
+| View              | Explanation                                                                                             |
+| ----------------- | ------------------------------------------------------------------------------------------------------- |
+| Minimalist view   | Physical environment has little influence; human behaviour is mainly shaped by social/cultural factors. |
+| Instrumental view | Environment exists mainly as a resource for human use.                                                  |
+| Spiritual view    | Environment is sacred and must be respected.                                                            |
+| Ecological view   | Humans are part of nature and must maintain balance with it.                                            |
 
 The ecological view is most useful for sustainable living because it recognises interdependence.
 
@@ -68,9 +68,9 @@ Noise becomes more harmful when it is loud, unpredictable, uncontrollable, and p
 
 Crowding is the subjective feeling of having too many people in a limited space. It is not the same as density.
 
-| Term | Meaning |
-| --- | --- |
-| Density | Number of people per unit space; objective measure. |
+| Term     | Meaning                                                                 |
+| -------- | ----------------------------------------------------------------------- |
+| Density  | Number of people per unit space; objective measure.                     |
 | Crowding | Feeling of discomfort due to too many people; psychological experience. |
 
 Effects of crowding:
@@ -163,14 +163,14 @@ Examples:
 
 ### Strategies to Promote It
 
-| Strategy | How It Helps |
-| --- | --- |
-| Awareness | People understand consequences. |
-| Modelling | People imitate responsible behaviour. |
-| Incentives | Rewards encourage change. |
-| Feedback | People see impact of their action. |
-| Social norms | Group expectations guide behaviour. |
-| Commitment | Public promises increase follow-through. |
+| Strategy     | How It Helps                             |
+| ------------ | ---------------------------------------- |
+| Awareness    | People understand consequences.          |
+| Modelling    | People imitate responsible behaviour.    |
+| Incentives   | Rewards encourage change.                |
+| Feedback     | People see impact of their action.       |
+| Social norms | Group expectations guide behaviour.      |
+| Commitment   | Public promises increase follow-through. |
 
 ## 8. Poverty and Discrimination
 
@@ -199,10 +199,10 @@ Aggression is behaviour intended to harm another person or object.
 
 ### Types
 
-| Type | Meaning | Example |
-| --- | --- | --- |
-| Hostile aggression | Aggression driven by anger and desire to harm. | Hitting someone in rage. |
-| Instrumental aggression | Aggression used to achieve another goal. | Threatening someone to get money. |
+| Type                    | Meaning                                        | Example                           |
+| ----------------------- | ---------------------------------------------- | --------------------------------- |
+| Hostile aggression      | Aggression driven by anger and desire to harm. | Hitting someone in rage.          |
+| Instrumental aggression | Aggression used to achieve another goal.       | Threatening someone to get money. |
 
 ### Causes of Aggression
 
@@ -263,13 +263,13 @@ Reducing negative effects:
 
 ## 12. Common Mistakes and Corrections
 
-| Mistake | Correction |
-| --- | --- |
-| Treating environment as only nature | Environment includes physical, social, cultural, and built surroundings. |
-| Confusing density and crowding | Density is objective; crowding is subjective. |
-| Saying frustration always causes aggression | Frustration may increase aggression but does not always cause it. |
-| Ignoring social causes of poverty | Poverty is linked to discrimination, opportunity, and social structure. |
-| Seeing disaster response as only physical relief | Psychological support is also essential. |
+| Mistake                                          | Correction                                                               |
+| ------------------------------------------------ | ------------------------------------------------------------------------ |
+| Treating environment as only nature              | Environment includes physical, social, cultural, and built surroundings. |
+| Confusing density and crowding                   | Density is objective; crowding is subjective.                            |
+| Saying frustration always causes aggression      | Frustration may increase aggression but does not always cause it.        |
+| Ignoring social causes of poverty                | Poverty is linked to discrimination, opportunity, and social structure.  |
+| Seeing disaster response as only physical relief | Psychological support is also essential.                                 |
 
 ## 13. Exam Answer Frames
 
@@ -301,17 +301,17 @@ Aggression is behaviour intended to harm. Hostile aggression is driven by anger,
 
 ## 15. Quick Revision Sheet
 
-| Term | Recall |
-| --- | --- |
-| Noise | Unwanted sound. |
-| Crowding | Subjective discomfort from too many people. |
-| Density | Objective people-space ratio. |
-| Personal space | Comfortable interpersonal distance. |
-| PTSD | Trauma-related stress disorder. |
-| Pro-environmental behaviour | Behaviour that protects environment. |
-| Hostile aggression | Harm for anger. |
-| Instrumental aggression | Harm as means to a goal. |
-| Displacement | Aggression shifted to weaker target. |
+| Term                        | Recall                                      |
+| --------------------------- | ------------------------------------------- |
+| Noise                       | Unwanted sound.                             |
+| Crowding                    | Subjective discomfort from too many people. |
+| Density                     | Objective people-space ratio.               |
+| Personal space              | Comfortable interpersonal distance.         |
+| PTSD                        | Trauma-related stress disorder.             |
+| Pro-environmental behaviour | Behaviour that protects environment.        |
+| Hostile aggression          | Harm for anger.                             |
+| Instrumental aggression     | Harm as means to a goal.                    |
+| Displacement                | Aggression shifted to weaker target.        |
 
 ## 16. Final Learning Takeaway
 

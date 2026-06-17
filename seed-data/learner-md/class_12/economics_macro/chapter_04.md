@@ -1,4 +1,5 @@
 # Chapter 4: Determination of Income and Employment
+
 ### NCERT Class 12 - Economics Macro
 
 ## Chapter at a Glance
@@ -23,29 +24,29 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Aggregate demand | Planned expenditure on final goods and services. |
-| Aggregate supply | Total output or income available in economy. |
-| Consumption function | Relation between consumption and income. |
-| Saving function | Relation between saving and income. |
-| MPC | Fraction of additional income consumed. |
-| MPS | Fraction of additional income saved. |
-| Investment multiplier | Ratio of change in income to change in investment. |
-| Effective demand | Level of demand that determines equilibrium output and employment. |
-| Inflationary gap | Excess of aggregate demand over full-employment output level. |
-| Deflationary gap | Shortfall of aggregate demand below full-employment output level. |
+| Term                  | Meaning                                                            |
+| --------------------- | ------------------------------------------------------------------ |
+| Aggregate demand      | Planned expenditure on final goods and services.                   |
+| Aggregate supply      | Total output or income available in economy.                       |
+| Consumption function  | Relation between consumption and income.                           |
+| Saving function       | Relation between saving and income.                                |
+| MPC                   | Fraction of additional income consumed.                            |
+| MPS                   | Fraction of additional income saved.                               |
+| Investment multiplier | Ratio of change in income to change in investment.                 |
+| Effective demand      | Level of demand that determines equilibrium output and employment. |
+| Inflationary gap      | Excess of aggregate demand over full-employment output level.      |
+| Deflationary gap      | Shortfall of aggregate demand below full-employment output level.  |
 
 ## Quick Learning Map
 
-| Concept | Core relation |
-|---|---|
-| Income use | `Y = C + S` |
-| Simple aggregate demand | `AD = C + I` |
-| Equilibrium | `AD = AS` |
-| Alternative equilibrium | `S = I` |
-| MPC and MPS | `MPC + MPS = 1` |
-| Multiplier | `K = 1/MPS = 1/(1-MPC)` |
+| Concept                 | Core relation           |
+| ----------------------- | ----------------------- |
+| Income use              | `Y = C + S`             |
+| Simple aggregate demand | `AD = C + I`            |
+| Equilibrium             | `AD = AS`               |
+| Alternative equilibrium | `S = I`                 |
+| MPC and MPS             | `MPC + MPS = 1`         |
+| Multiplier              | `K = 1/MPS = 1/(1-MPC)` |
 
 # Unit 4A: Aggregate Demand
 
@@ -260,18 +261,18 @@ Monetary measures:
 
 # Unit 4M: Formula Bank
 
-| Concept | Formula |
-|---|---|
-| Income identity | `Y = C + S` |
-| Aggregate demand | `AD = C + I` |
-| Consumption function | `C = Cbar + cY` |
-| Saving function | `S = -Cbar + (1-c)Y` |
-| APC | `C/Y` |
-| MPC | `Delta C / Delta Y` |
-| APS | `S/Y` |
-| MPS | `Delta S / Delta Y` |
-| MPC and MPS | `MPC + MPS = 1` |
-| Multiplier | `K = 1/MPS = 1/(1-MPC)` |
+| Concept              | Formula                 |
+| -------------------- | ----------------------- |
+| Income identity      | `Y = C + S`             |
+| Aggregate demand     | `AD = C + I`            |
+| Consumption function | `C = Cbar + cY`         |
+| Saving function      | `S = -Cbar + (1-c)Y`    |
+| APC                  | `C/Y`                   |
+| MPC                  | `Delta C / Delta Y`     |
+| APS                  | `S/Y`                   |
+| MPS                  | `Delta S / Delta Y`     |
+| MPC and MPS          | `MPC + MPS = 1`         |
+| Multiplier           | `K = 1/MPS = 1/(1-MPC)` |
 
 # Unit 4N: Calculation Toolkit
 
@@ -284,14 +285,14 @@ Monetary measures:
 
 # Unit 4O: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Confusing APC and MPC | APC uses total values; MPC uses changes. |
-| Forgetting `MPC + MPS = 1` | Additional income is either consumed or saved. |
-| Saying multiplier equals MPC | Multiplier equals `1/(1-MPC)`. |
-| Treating all equilibrium as full employment | Equilibrium can occur below full employment. |
+| Mistake                                     | Correction                                                       |
+| ------------------------------------------- | ---------------------------------------------------------------- |
+| Confusing APC and MPC                       | APC uses total values; MPC uses changes.                         |
+| Forgetting `MPC + MPS = 1`                  | Additional income is either consumed or saved.                   |
+| Saying multiplier equals MPC                | Multiplier equals `1/(1-MPC)`.                                   |
+| Treating all equilibrium as full employment | Equilibrium can occur below full employment.                     |
 | Confusing inflationary and deflationary gap | Inflationary gap is excess AD; deflationary gap is deficient AD. |
-| Using expansionary policy for excess demand | Excess demand needs contractionary policy. |
+| Using expansionary policy for excess demand | Excess demand needs contractionary policy.                       |
 
 ## Practice Set
 

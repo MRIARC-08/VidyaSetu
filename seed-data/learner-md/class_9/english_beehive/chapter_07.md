@@ -1,21 +1,22 @@
 # Chapter 7: Carriers of Words and Meaningful Speech
+
 ### NCERT Class 9 - English Beehive
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 9 |
-| **Subject** | English Beehive |
-| **Chapter** | 7 |
-| **Actual Main Texts** | "Carrier of Words" and "Words" |
-| **Supplementary Text** | "Weigh Your Words" |
-| **Raw File Header** | "Packing" |
-| **Textbook Pages** | 1-230 |
-| **Core Theme** | Postal service, remote communities, trust, human connection, communication, sincere words, and the limits of empty language. |
-| **Main Skills** | Informational reading, inference, fact extraction, vocabulary, alliteration, metaphor, present perfect tense, active-passive voice, discussion, condolence writing, poetry appreciation, hyperbole, word maps, essay writing, and non-verbal communication. |
+| Detail                 | Learner-Friendly Information                                                                                                                                                                                                                                |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Class**              | 9                                                                                                                                                                                                                                                           |
+| **Subject**            | English Beehive                                                                                                                                                                                                                                             |
+| **Chapter**            | 7                                                                                                                                                                                                                                                           |
+| **Actual Main Texts**  | "Carrier of Words" and "Words"                                                                                                                                                                                                                              |
+| **Supplementary Text** | "Weigh Your Words"                                                                                                                                                                                                                                          |
+| **Raw File Header**    | "Packing"                                                                                                                                                                                                                                                   |
+| **Textbook Pages**     | 1-230                                                                                                                                                                                                                                                       |
+| **Core Theme**         | Postal service, remote communities, trust, human connection, communication, sincere words, and the limits of empty language.                                                                                                                                |
+| **Main Skills**        | Informational reading, inference, fact extraction, vocabulary, alliteration, metaphor, present perfect tense, active-passive voice, discussion, condolence writing, poetry appreciation, hyperbole, word maps, essay writing, and non-verbal communication. |
 
 > [!NOTE]
 > The raw source file is `chapter_07.md` and its extraction header says "Packing", but the actual chapter content contains **Carrier of Words**, about Khetaram the Gramin Dak Sewak, and the poem **Words** by Charles Swain. This learner-facing version follows the actual chapter content.
@@ -24,14 +25,14 @@
 
 ## Section Structure
 
-| Unit | Text / Skill | Main Learning Focus |
-|---|---|---|
-| **7A** | Before Reading | Postal workers, carrying words, vocabulary, and connection before the internet. |
-| **7B** | Carrier of Words | Khetaram, Gramin Dak Sewaks, desert geography, trust, money orders, and service. |
-| **7C** | Prose Comprehension | Information sheet, situation-reason table, extract answers, and long answers. |
-| **7D** | Vocabulary and Grammar | Phrases, alliteration, metaphor, word meanings, present perfect, and passive voice. |
-| **7E** | Speaking and Writing | Postal-object debate, condolence message, Daakroom, philately, and telegram. |
-| **7F** | Words | Poem summary, blanks, rhyme, poetic devices, hyperbole, and critical reflection. |
+| Unit   | Text / Skill                | Main Learning Focus                                                                                         |
+| ------ | --------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| **7A** | Before Reading              | Postal workers, carrying words, vocabulary, and connection before the internet.                             |
+| **7B** | Carrier of Words            | Khetaram, Gramin Dak Sewaks, desert geography, trust, money orders, and service.                            |
+| **7C** | Prose Comprehension         | Information sheet, situation-reason table, extract answers, and long answers.                               |
+| **7D** | Vocabulary and Grammar      | Phrases, alliteration, metaphor, word meanings, present perfect, and passive voice.                         |
+| **7E** | Speaking and Writing        | Postal-object debate, condolence message, Daakroom, philately, and telegram.                                |
+| **7F** | Words                       | Poem summary, blanks, rhyme, poetic devices, hyperbole, and critical reflection.                            |
 | **7G** | Poem Vocabulary and Writing | Figurative phrases, word maps, quotations, essay writing, non-verbal communication, and "Weigh Your Words". |
 
 ---
@@ -40,53 +41,53 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Understand informational prose** | Explain the work and importance of a Gramin Dak Sewak in remote regions. |
-| **Extract factual details** | Complete a profile of Khetaram using information from the text. |
-| **Analyse hardship** | Describe the geography, climate, and social conditions of Khetaram's work. |
-| **Understand social trust** | Explain why villagers trust Khetaram with letters, replies, and news. |
-| **Infer meaning** | Interpret phrases such as "bad news must be destroyed" and "bearing words". |
-| **Use vocabulary accurately** | Use words such as arid, desolate, concessional, gaunt, and remote. |
-| **Identify literary devices** | Recognise alliteration, metaphor, simile, and hyperbole. |
-| **Use present perfect tense** | Apply has/have + past participle in context. |
-| **Use passive voice** | Rewrite advice and actions using passive constructions. |
-| **Write condolence messages** | Express sympathy respectfully and briefly. |
-| **Appreciate poetry** | Explain how the poem "Words" values sincere speech over empty language. |
-| **Reflect on communication** | Discuss verbal and non-verbal ways of connecting with others. |
+| Outcome                            | You Should Be Able To...                                                    |
+| ---------------------------------- | --------------------------------------------------------------------------- |
+| **Understand informational prose** | Explain the work and importance of a Gramin Dak Sewak in remote regions.    |
+| **Extract factual details**        | Complete a profile of Khetaram using information from the text.             |
+| **Analyse hardship**               | Describe the geography, climate, and social conditions of Khetaram's work.  |
+| **Understand social trust**        | Explain why villagers trust Khetaram with letters, replies, and news.       |
+| **Infer meaning**                  | Interpret phrases such as "bad news must be destroyed" and "bearing words". |
+| **Use vocabulary accurately**      | Use words such as arid, desolate, concessional, gaunt, and remote.          |
+| **Identify literary devices**      | Recognise alliteration, metaphor, simile, and hyperbole.                    |
+| **Use present perfect tense**      | Apply has/have + past participle in context.                                |
+| **Use passive voice**              | Rewrite advice and actions using passive constructions.                     |
+| **Write condolence messages**      | Express sympathy respectfully and briefly.                                  |
+| **Appreciate poetry**              | Explain how the poem "Words" values sincere speech over empty language.     |
+| **Reflect on communication**       | Discuss verbal and non-verbal ways of connecting with others.               |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Gramin Dak Sewak (GDS)** | Rural postal worker serving villages and remote areas. |
-| **Dak** | Post or mail. |
-| **Sole** | Only. |
-| **Hamlet** | Small settlement. |
-| **Dhaani** | Small rural settlement, especially in Rajasthan. |
-| **Dune** | Hill or ridge of sand formed by wind. |
-| **Slumped** | Bent or drooping due to weight, tiredness, or weakness. |
-| **Devoid** | Completely lacking something. |
-| **Defying** | Resisting or acting despite something. |
-| **Ply** | Move or travel regularly. |
-| **Hefted** | Lifted with effort. |
-| **Stipulate** | Specify or state as a rule. |
-| **Mojri** | Traditional footwear of Rajasthan. |
-| **Arid** | Very dry. |
-| **Riverine** | Situated near or along a river. |
-| **Inaccessible** | Difficult or impossible to reach. |
-| **Ambit** | Range or scope. |
-| **Remitted** | Sent as payment or money transfer. |
-| **Threshold** | Entrance or doorway of a home. |
-| **Missive** | Letter. |
-| **Condolence** | Expression of sympathy after someone's death. |
-| **Philately** | Study or collection of postage stamps and postal history. |
-| **Telegram** | Short urgent message sent through a telegraph system. |
-| **Present perfect tense** | Verb form using has/have + past participle. |
-| **Passive voice** | Sentence structure where the subject receives the action. |
-| **Hyperbole** | Deliberate exaggeration for effect. |
+| Term                       | Meaning                                                   |
+| -------------------------- | --------------------------------------------------------- |
+| **Gramin Dak Sewak (GDS)** | Rural postal worker serving villages and remote areas.    |
+| **Dak**                    | Post or mail.                                             |
+| **Sole**                   | Only.                                                     |
+| **Hamlet**                 | Small settlement.                                         |
+| **Dhaani**                 | Small rural settlement, especially in Rajasthan.          |
+| **Dune**                   | Hill or ridge of sand formed by wind.                     |
+| **Slumped**                | Bent or drooping due to weight, tiredness, or weakness.   |
+| **Devoid**                 | Completely lacking something.                             |
+| **Defying**                | Resisting or acting despite something.                    |
+| **Ply**                    | Move or travel regularly.                                 |
+| **Hefted**                 | Lifted with effort.                                       |
+| **Stipulate**              | Specify or state as a rule.                               |
+| **Mojri**                  | Traditional footwear of Rajasthan.                        |
+| **Arid**                   | Very dry.                                                 |
+| **Riverine**               | Situated near or along a river.                           |
+| **Inaccessible**           | Difficult or impossible to reach.                         |
+| **Ambit**                  | Range or scope.                                           |
+| **Remitted**               | Sent as payment or money transfer.                        |
+| **Threshold**              | Entrance or doorway of a home.                            |
+| **Missive**                | Letter.                                                   |
+| **Condolence**             | Expression of sympathy after someone's death.             |
+| **Philately**              | Study or collection of postage stamps and postal history. |
+| **Telegram**               | Short urgent message sent through a telegraph system.     |
+| **Present perfect tense**  | Verb form using has/have + past participle.               |
+| **Passive voice**          | Sentence structure where the subject receives the action. |
+| **Hyperbole**              | Deliberate exaggeration for effect.                       |
 
 ---
 
@@ -163,14 +164,14 @@ Words can be carried through:
 
 ## Who Can Be a Carrier of Words?
 
-| Carrier | What They Carry |
-|---|---|
-| **Postman / GDS** | letters, money orders, official messages |
-| **Teacher** | knowledge, instructions, encouragement |
-| **Writer / poet** | ideas, emotions, stories |
-| **Messenger** | spoken or written messages |
-| **Phone / internet** | digital communication |
-| **Friend / family member** | personal news and feelings |
+| Carrier                    | What They Carry                          |
+| -------------------------- | ---------------------------------------- |
+| **Postman / GDS**          | letters, money orders, official messages |
+| **Teacher**                | knowledge, instructions, encouragement   |
+| **Writer / poet**          | ideas, emotions, stories                 |
+| **Messenger**              | spoken or written messages               |
+| **Phone / internet**       | digital communication                    |
+| **Friend / family member** | personal news and feelings               |
 
 ## Vocabulary Paragraph: Completed Answers
 
@@ -178,14 +179,14 @@ Words from the box:
 
 **slumped, dunes, defying, hamlets, signals, devoid**
 
-| Blank | Answer |
-|---|---|
+| Blank | Answer  |
+| ----- | ------- |
 | **1** | signals |
-| **2** | dunes |
+| **2** | dunes   |
 | **3** | hamlets |
 | **4** | defying |
 | **5** | slumped |
-| **6** | devoid |
+| **6** | devoid  |
 
 Completed meaning:
 
@@ -197,14 +198,14 @@ The travellers' bodies sent warning signals in the desert heat. They passed haml
 
 ## Text Identity
 
-| Detail | Information |
-|---|---|
-| **Title** | Carrier of Words |
-| **Genre** | Informational prose / human-interest feature |
-| **Main Person** | Khetaram |
-| **Occupation** | Gramin Dak Sewak |
-| **Place** | Somarad Branch Post Office area, Rajasthan, near the Indo-Pakistan border |
-| **Main Theme** | Human effort keeps remote communities connected. |
+| Detail          | Information                                                               |
+| --------------- | ------------------------------------------------------------------------- |
+| **Title**       | Carrier of Words                                                          |
+| **Genre**       | Informational prose / human-interest feature                              |
+| **Main Person** | Khetaram                                                                  |
+| **Occupation**  | Gramin Dak Sewak                                                          |
+| **Place**       | Somarad Branch Post Office area, Rajasthan, near the Indo-Pakistan border |
+| **Main Theme**  | Human effort keeps remote communities connected.                          |
 
 ## Who Is Khetaram?
 
@@ -223,27 +224,27 @@ Yet he remains a trusted figure for villagers.
 
 ## The Geography of His Work
 
-| Detail | Information |
-|---|---|
-| **Desert** | Thar desert |
-| **Nearest major railhead mentioned** | Barmer |
-| **Distance beyond last railhead** | about 120 km |
-| **Distance beyond last phone line** | about 50 km |
-| **Distance beyond road ending in sand** | about 10 km |
-| **Near border** | about 2.5 km short of the Indo-Pakistan border |
-| **Mail route** | Jodhpur to mail train, buses, then Khetaram's shoulders |
+| Detail                                  | Information                                             |
+| --------------------------------------- | ------------------------------------------------------- |
+| **Desert**                              | Thar desert                                             |
+| **Nearest major railhead mentioned**    | Barmer                                                  |
+| **Distance beyond last railhead**       | about 120 km                                            |
+| **Distance beyond last phone line**     | about 50 km                                             |
+| **Distance beyond road ending in sand** | about 10 km                                             |
+| **Near border**                         | about 2.5 km short of the Indo-Pakistan border          |
+| **Mail route**                          | Jodhpur to mail train, buses, then Khetaram's shoulders |
 
 ## Why His Work Is Difficult
 
-| Difficulty | Explanation |
-|---|---|
-| **Heat** | Desert temperatures may approach 50 degrees Celsius. |
-| **Distance** | A single delivery may require covering around 20 km. |
-| **Terrain** | Soft sand makes even bicycles difficult to use. |
-| **Load** | Mailbag load can be heavy, though rules set a limit. |
-| **Storms** | Sandstorms cover his clothes and body with sand. |
-| **Water scarcity** | Water is too precious to waste on washing. |
-| **Emotional burden** | He sometimes carries news of death. |
+| Difficulty           | Explanation                                          |
+| -------------------- | ---------------------------------------------------- |
+| **Heat**             | Desert temperatures may approach 50 degrees Celsius. |
+| **Distance**         | A single delivery may require covering around 20 km. |
+| **Terrain**          | Soft sand makes even bicycles difficult to use.      |
+| **Load**             | Mailbag load can be heavy, though rules set a limit. |
+| **Storms**           | Sandstorms cover his clothes and body with sand.     |
+| **Water scarcity**   | Water is too precious to waste on washing.           |
+| **Emotional burden** | He sometimes carries news of death.                  |
 
 ## Why His Work Matters
 
@@ -261,21 +262,21 @@ Khetaram does more than deliver letters. He:
 
 The text explains that GDS workers serve remote and difficult territories across India:
 
-| Region | Challenge |
-|---|---|
-| **Thar desert** | heat, sand, distance |
-| **Ladakh** | frozen desert conditions |
-| **Lakshadweep** | island geography |
+| Region                             | Challenge                                |
+| ---------------------------------- | ---------------------------------------- |
+| **Thar desert**                    | heat, sand, distance                     |
+| **Ladakh**                         | frozen desert conditions                 |
+| **Lakshadweep**                    | island geography                         |
 | **Northeast riverine communities** | river-based and inaccessible settlements |
 
 GDS workers form a large part of India Post's workforce and help bring postal services to interior areas.
 
 ## India Post: Larger Purpose
 
-| Period | Purpose |
-|---|---|
-| **British postal system** | Relayed official company dak between administrative centres. |
-| **India Post after independence** | Brought the entire population within the mailing ambit. |
+| Period                            | Purpose                                                      |
+| --------------------------------- | ------------------------------------------------------------ |
+| **British postal system**         | Relayed official company dak between administrative centres. |
+| **India Post after independence** | Brought the entire population within the mailing ambit.      |
 
 The text contrasts a colonial administrative system with a national public service system.
 
@@ -297,17 +298,17 @@ Villagers trust the post office because:
 
 ## Khetaram's Identity Card Information
 
-| Field | Information |
-|---|---|
-| **Name** | Khetaram |
-| **Position** | Gramin Dak Sewak / sole postman |
-| **Employer** | India Post / Department of Posts |
-| **Official address** | Somarad Branch Post Office, Rajasthan |
+| Field                      | Information                                    |
+| -------------------------- | ---------------------------------------------- |
+| **Name**                   | Khetaram                                       |
+| **Position**               | Gramin Dak Sewak / sole postman                |
+| **Employer**               | India Post / Department of Posts               |
+| **Official address**       | Somarad Branch Post Office, Rajasthan          |
 | **Mode of transport used** | Mainly on foot; sometimes gets a lift from BSF |
-| **Key responsibility 1** | Deliver mail to remote hamlets / dhaanis |
-| **Key responsibility 2** | Carry money orders and important messages |
-| **Key responsibility 3** | Read letters aloud for villagers |
-| **Key responsibility 4** | Write replies for villagers when needed |
+| **Key responsibility 1**   | Deliver mail to remote hamlets / dhaanis       |
+| **Key responsibility 2**   | Carry money orders and important messages      |
+| **Key responsibility 3**   | Read letters aloud for villagers               |
+| **Key responsibility 4**   | Write replies for villagers when needed        |
 
 ## Why Did Khetaram Take Up This Challenging Job?
 
@@ -325,11 +326,11 @@ He may feel:
 
 ## Situation and Reason Table
 
-| Situation | Reason |
-|---|---|
-| When temperature reaches 50 degrees Celsius or above, a state holiday has to be declared. | Government rules treat such extreme heat as unsafe for work. |
-| Khetaram can dwell on any threshold. | Villagers trust him and feel comfortable asking him to read letters or write replies. |
-| BSF always gives Khetaram a lift. | He distributes their dak and has become familiar and useful to them. |
+| Situation                                                                                 | Reason                                                                                |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| When temperature reaches 50 degrees Celsius or above, a state holiday has to be declared. | Government rules treat such extreme heat as unsafe for work.                          |
+| Khetaram can dwell on any threshold.                                                      | Villagers trust him and feel comfortable asking him to read letters or write replies. |
+| BSF always gives Khetaram a lift.                                                         | He distributes their dak and has become familiar and useful to them.                  |
 
 ## Why Was Jaggery Offered for Birth or Wedding News?
 
@@ -351,13 +352,13 @@ Khetaram explains why the GDS job is necessary for survival in an arid region.
 
 ### Model Answers
 
-| Question | Answer |
-|---|---|
-| **(i) One crop of bajra makes little difference because...** | ...it cannot feed his family of five for the year. |
-| **(ii) Why is famine a way of life?** | The area is arid and drought-like scarcity is common, so food insecurity is a regular reality. |
-| **(iii) Why did he need a job?** | Farming alone could not support his family. |
-| **(iv) Other families: money orders :: Khetaram: ____** | GDS job / salary |
-| **(v) What would a good year signify?** | Enough rain or conditions to grow at least one bajra crop. |
+| Question                                                     | Answer                                                                                         |
+| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
+| **(i) One crop of bajra makes little difference because...** | ...it cannot feed his family of five for the year.                                             |
+| **(ii) Why is famine a way of life?**                        | The area is arid and drought-like scarcity is common, so food insecurity is a regular reality. |
+| **(iii) Why did he need a job?**                             | Farming alone could not support his family.                                                    |
+| **(iv) Other families: money orders :: Khetaram: \_\_\_\_**  | GDS job / salary                                                                               |
+| **(v) What would a good year signify?**                      | Enough rain or conditions to grow at least one bajra crop.                                     |
 
 ## Extract 2: News of Death
 
@@ -367,13 +368,13 @@ Khetaram explains the custom of handling letters that carry death news.
 
 ### Model Answers
 
-| Question | Answer |
-|---|---|
-| **(i) Who could have torn the right corner?** | **B. Sender of the letter.** |
-| **(ii) Why did Khetaram read the letter twice?** | To make sure the receiver clearly understood the sad news before the letter was destroyed. |
-| **(iii) What was his philosophy?** | Bad news should not be carried into the house and must be destroyed. He read it outside and tore it to bits. |
-| **(iv) His action differed from his beliefs: True or False?** | **False.** His action matched his belief. |
-| **(v) Temperament revealed.** | Sensitive, respectful, compassionate, and philosophical. |
+| Question                                                      | Answer                                                                                                       |
+| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| **(i) Who could have torn the right corner?**                 | **B. Sender of the letter.**                                                                                 |
+| **(ii) Why did Khetaram read the letter twice?**              | To make sure the receiver clearly understood the sad news before the letter was destroyed.                   |
+| **(iii) What was his philosophy?**                            | Bad news should not be carried into the house and must be destroyed. He read it outside and tore it to bits. |
+| **(iv) His action differed from his beliefs: True or False?** | **False.** His action matched his belief.                                                                    |
+| **(v) Temperament revealed.**                                 | Sensitive, respectful, compassionate, and philosophical.                                                     |
 
 ## Long Answer Question Bank
 
@@ -403,20 +404,20 @@ The author pays tribute because people like Khetaram serve society silently unde
 
 ## Phrase Matching
 
-| Phrase | Meaning |
-|---|---|
-| **crumbles into sand** | disappears in the desert |
-| **give a new lease of life** | get a chance to continue living |
-| **turn into a trickle before drying out** | lessen gradually and finally stop |
+| Phrase                                           | Meaning                                             |
+| ------------------------------------------------ | --------------------------------------------------- |
+| **crumbles into sand**                           | disappears in the desert                            |
+| **give a new lease of life**                     | get a chance to continue living                     |
+| **turn into a trickle before drying out**        | lessen gradually and finally stop                   |
 | **bearing words across this desolate geography** | carrying letters to less populated and remote areas |
 
 ## Sentences with Phrases
 
-| Phrase | Sentence |
-|---|---|
-| **crumbles into sand** | The road crumbles into sand near the last village. |
-| **new lease of life** | The job gave the farmer a new lease of life. |
-| **turn into a trickle before drying out** | The stream turned into a trickle before drying out in summer. |
+| Phrase                                           | Sentence                                                              |
+| ------------------------------------------------ | --------------------------------------------------------------------- |
+| **crumbles into sand**                           | The road crumbles into sand near the last village.                    |
+| **new lease of life**                            | The job gave the farmer a new lease of life.                          |
+| **turn into a trickle before drying out**        | The stream turned into a trickle before drying out in summer.         |
 | **bearing words across this desolate geography** | The postman spent years bearing words across this desolate geography. |
 
 ## Alliteration and Metaphor
@@ -427,38 +428,38 @@ Khetaram's khaki turban and uniform are his only protection against the desert's
 
 ### Alliteration
 
-| Example | Repeated Sound |
-|---|---|
-| Khetaram's khaki | k sound |
-| scorching summer | s sound |
-| swirling sandstorms | s sound |
+| Example             | Repeated Sound |
+| ------------------- | -------------- |
+| Khetaram's khaki    | k sound        |
+| scorching summer    | s sound        |
+| swirling sandstorms | s sound        |
 
 ### Metaphor / Personification
 
-| Expression | Device | Meaning |
-|---|---|---|
-| desert's furies | personification | The desert is described as if it has anger. |
-| walking sandman | metaphor | Khetaram becomes covered in sand like a sand figure. |
+| Expression      | Device          | Meaning                                              |
+| --------------- | --------------- | ---------------------------------------------------- |
+| desert's furies | personification | The desert is described as if it has anger.          |
+| walking sandman | metaphor        | Khetaram becomes covered in sand like a sand figure. |
 
 ## Word Meanings in Context
 
-| Word | Suggests |
-|---|---|
-| **arid** | farmland without much yield |
+| Word             | Suggests                                        |
+| ---------------- | ----------------------------------------------- |
+| **arid**         | farmland without much yield                     |
 | **concessional** | reduced rate, such as interest rate for farmers |
-| **gaunt** | a thin, worn farmer waiting for rains |
-| **remote** | a far corner of the world |
-| **desolate** | desert stretching far and wide |
+| **gaunt**        | a thin, worn farmer waiting for rains           |
+| **remote**       | a far corner of the world                       |
+| **desolate**     | desert stretching far and wide                  |
 
 ## Sentences with Words
 
-| Word | Sentence |
-|---|---|
-| **arid** | The arid land produced only one crop. |
-| **concessional** | Farmers received loans at a concessional rate. |
-| **gaunt** | The drought left the cattle gaunt. |
-| **remote** | The teacher worked in a remote village. |
-| **desolate** | The traveller crossed a desolate stretch of desert. |
+| Word             | Sentence                                            |
+| ---------------- | --------------------------------------------------- |
+| **arid**         | The arid land produced only one crop.               |
+| **concessional** | Farmers received loans at a concessional rate.      |
+| **gaunt**        | The drought left the cattle gaunt.                  |
+| **remote**       | The teacher worked in a remote village.             |
+| **desolate**     | The traveller crossed a desolate stretch of desert. |
 
 ## Present Perfect Tense
 
@@ -466,24 +467,24 @@ Khetaram's khaki turban and uniform are his only protection against the desert's
 
 **has/have + past participle**
 
-| Sentence | Function |
-|---|---|
-| She has found her book. | past action with present result |
-| I have just eaten a mango. | recently completed action |
-| Have you ever seen a play? | life experience |
-| I have finished my project. | accomplishment |
-| Ajay has become a good bowler. | change over time |
-| I have seen this book many times. | repeated action |
+| Sentence                           | Function                               |
+| ---------------------------------- | -------------------------------------- |
+| She has found her book.            | past action with present result        |
+| I have just eaten a mango.         | recently completed action              |
+| Have you ever seen a play?         | life experience                        |
+| I have finished my project.        | accomplishment                         |
+| Ajay has become a good bowler.     | change over time                       |
+| I have seen this book many times.  | repeated action                        |
 | I have studied here for six years. | action continuing from past to present |
 
 ## Present Perfect Paragraph
 
-| Blank | Answer |
-|---|---|
-| **1** | have just got |
-| **2** | has collected |
-| **3** | have studied |
-| **4** | have begun |
+| Blank | Answer             |
+| ----- | ------------------ |
+| **1** | have just got      |
+| **2** | has collected      |
+| **3** | have studied       |
+| **4** | have begun         |
 | **5** | has truly inspired |
 
 Completed version:
@@ -492,8 +493,8 @@ I **have just got** a collection of postage stamps from my grandfather. He **has
 
 ## Active and Passive Voice
 
-| Active Voice | Passive Voice |
-|---|---|
+| Active Voice                         | Passive Voice                                   |
+| ------------------------------------ | ----------------------------------------------- |
 | GDS delivers the mail at the border. | The mail is delivered by the GDS at the border. |
 
 In active voice, the subject does the action. In passive voice, the subject receives the action.
@@ -519,14 +520,14 @@ To begin with, a lot of stamina will be needed for this job. Next, reading clear
 
 The raw chapter includes a listening activity about a postal event. Since the answers depend on the audio, listen for:
 
-| Question | Listen For |
-|---|---|
-| Occasion | Letter writing carnival, Philately Day, or Indian Postal Day |
-| Network description | most extensive network in India / world |
-| Reason for revival | letter writing has been forgotten |
-| Event activities | calligraphy, graphology, philately, letter posting |
-| Postal department addition | demonstrations, workshop, or interactive activity |
-| Final sentence | suggestion, request, or advice |
+| Question                   | Listen For                                                   |
+| -------------------------- | ------------------------------------------------------------ |
+| Occasion                   | Letter writing carnival, Philately Day, or Indian Postal Day |
+| Network description        | most extensive network in India / world                      |
+| Reason for revival         | letter writing has been forgotten                            |
+| Event activities           | calligraphy, graphology, philately, letter posting           |
+| Postal department addition | demonstrations, workshop, or interactive activity            |
+| Final sentence             | suggestion, request, or advice                               |
 
 ## Speaking Activity: Postal Objects Debate
 
@@ -539,12 +540,12 @@ Characters:
 
 ## Useful Points
 
-| Object | Argument |
-|---|---|
-| **Postcard** | Low cost, easy to send, useful for short public messages. |
-| **Inland letter** | More space than postcard and better privacy. |
-| **Envelope** | Can enclose documents, photographs, or longer letters. |
-| **Money order form** | Sends money to people who may not use banks easily. |
+| Object               | Argument                                                  |
+| -------------------- | --------------------------------------------------------- |
+| **Postcard**         | Low cost, easy to send, useful for short public messages. |
+| **Inland letter**    | More space than postcard and better privacy.              |
+| **Envelope**         | Can enclose documents, photographs, or longer letters.    |
+| **Money order form** | Sends money to people who may not use banks easily.       |
 
 ## Verbal Cues
 
@@ -599,13 +600,13 @@ Its purpose:
 
 Project categories:
 
-| Category | Details To Find |
-|---|---|
-| **Personalities** | name and field |
-| **Celebrations** | festival or national event and its significance |
-| **Centenaries** | person or occasion and importance |
-| **Nature** | plant, animal, landscape, or ecological theme |
-| **Heritage** | monuments, music, dance, or cultural sites |
+| Category          | Details To Find                                 |
+| ----------------- | ----------------------------------------------- |
+| **Personalities** | name and field                                  |
+| **Celebrations**  | festival or national event and its significance |
+| **Centenaries**   | person or occasion and importance               |
+| **Nature**        | plant, animal, landscape, or ecological theme   |
+| **Heritage**      | monuments, music, dance, or cultural sites      |
 
 ## Telegrams
 
@@ -624,14 +625,14 @@ Because telegram pricing depended on the number of words, messages had to be bri
 
 ## Text Identity
 
-| Detail | Information |
-|---|---|
-| **Title** | Words |
-| **Poet** | Charles Swain |
-| **Form** | Reflective lyric poem |
-| **Main Theme** | Words are valuable only when sincere and heartfelt. |
-| **Tone** | Reflective, disappointed with empty words, admiring sincere speech |
-| **Mood** | Thoughtful and slightly melancholic |
+| Detail         | Information                                                        |
+| -------------- | ------------------------------------------------------------------ |
+| **Title**      | Words                                                              |
+| **Poet**       | Charles Swain                                                      |
+| **Form**       | Reflective lyric poem                                              |
+| **Main Theme** | Words are valuable only when sincere and heartfelt.                |
+| **Tone**       | Reflective, disappointed with empty words, admiring sincere speech |
+| **Mood**       | Thoughtful and slightly melancholic                                |
 
 ## Central Idea
 
@@ -639,27 +640,27 @@ The poem argues that words often fail to satisfy the heart. Many words may disap
 
 ## Word Grid Answers
 
-| Clue | Answer |
-|---|---|
-| We eat food to ___ our hunger. | satisfy |
-| The train will ___ from the station. | depart |
-| The gardener removed the ___ from the flower beds. | weeds |
-| The view was ___ the difficult climb. | worth |
-| Herbs and spices ___ flavour to food. | impart |
-| Flowers ___ in spring. | blossom |
-| We enjoyed a delicious ___ after the ceremony. | feast |
+| Clue                                                  | Answer  |
+| ----------------------------------------------------- | ------- |
+| We eat food to \_\_\_ our hunger.                     | satisfy |
+| The train will \_\_\_ from the station.               | depart  |
+| The gardener removed the \_\_\_ from the flower beds. | weeds   |
+| The view was \_\_\_ the difficult climb.              | worth   |
+| Herbs and spices \_\_\_ flavour to food.              | impart  |
+| Flowers \_\_\_ in spring.                             | blossom |
+| We enjoyed a delicious \_\_\_ after the ceremony.     | feast   |
 
 ## Poem Completion
 
-| Blank | Answer |
-|---|---|
-| **1** | depart |
+| Blank | Answer  |
+| ----- | ------- |
+| **1** | depart  |
 | **2** | pilgrim |
-| **3** | weeds |
-| **4** | joy |
-| **5** | lonely |
-| **6** | world |
-| **7** | fruit |
+| **3** | weeds   |
+| **4** | joy     |
+| **5** | lonely  |
+| **6** | world   |
+| **7** | fruit   |
 
 ## Rhyme Scheme
 
@@ -667,24 +668,24 @@ The poem mainly uses an **ABAB** rhyme pattern in each stanza.
 
 Examples:
 
-| Rhyming Words |
-|---|
+| Rhyming Words  |
+| -------------- |
 | heart / depart |
-| care / air |
-| earth / worth |
-| needs / weeds |
+| care / air     |
+| earth / worth  |
+| needs / weeds  |
 
 ## Poetic Devices
 
-| Phrase / Line Idea | Device | Meaning |
-|---|---|---|
-| words like summer birds | simile | Words may fly away and leave nothing lasting. |
-| heart, a pilgrim upon earth | metaphor | The heart is a seeker searching for comfort and meaning. |
-| words as weeds | simile | Empty words are common and often useless. |
-| words could satisfy the chest | metaphor / personification | Words are imagined as meeting emotional hunger. |
-| world might hold a feast | hyperbole | If words truly satisfied everyone, the whole world would celebrate. |
-| plants that make a gaudy show | simile | Empty words may look impressive but lack value. |
-| cannot grow one particle of fruit | metaphor | Empty words produce no useful result. |
+| Phrase / Line Idea                | Device                     | Meaning                                                             |
+| --------------------------------- | -------------------------- | ------------------------------------------------------------------- |
+| words like summer birds           | simile                     | Words may fly away and leave nothing lasting.                       |
+| heart, a pilgrim upon earth       | metaphor                   | The heart is a seeker searching for comfort and meaning.            |
+| words as weeds                    | simile                     | Empty words are common and often useless.                           |
+| words could satisfy the chest     | metaphor / personification | Words are imagined as meeting emotional hunger.                     |
+| world might hold a feast          | hyperbole                  | If words truly satisfied everyone, the whole world would celebrate. |
+| plants that make a gaudy show     | simile                     | Empty words may look impressive but lack value.                     |
+| cannot grow one particle of fruit | metaphor                   | Empty words produce no useful result.                               |
 
 ## Repetition
 
@@ -720,12 +721,12 @@ The poet exaggerates to show how greatly the world would celebrate if words trul
 
 ### Hyperbole Practice
 
-| Sentence | Hyperbole |
-|---|---|
-| I have ___ things to do this weekend. | tonnes of |
-| The player missed the basket by ___. | a mile |
-| My mother is so tired she can sleep for a ___. | decade |
-| I will be back in ___. | two seconds |
+| Sentence                                          | Hyperbole   |
+| ------------------------------------------------- | ----------- |
+| I have \_\_\_ things to do this weekend.          | tonnes of   |
+| The player missed the basket by \_\_\_.           | a mile      |
+| My mother is so tired she can sleep for a \_\_\_. | decade      |
+| I will be back in \_\_\_.                         | two seconds |
 
 ---
 
@@ -735,25 +736,25 @@ The poet exaggerates to show how greatly the world would celebrate if words trul
 
 ### Model Answers
 
-| Question | Answer |
-|---|---|
-| **(i) Why is the heart called a pilgrim?** | The heart is shown as a seeker travelling through life in search of comfort, truth, and emotional fulfilment. |
-| **(ii) When would a heart need words?** | During grief, loneliness, love, apology, encouragement, or deep emotional need. |
-| **(iii) Words are like weeds because...** | ...empty words are common, unwanted, and useless when real comfort is needed. |
-| **(iv) Two emotions of the heart.** | loneliness and disappointment; also sorrow or longing. |
-| **(v) What do the lines suggest about communication?** | Communication needs sincerity. Words alone may fail if they do not carry true feeling. |
+| Question                                               | Answer                                                                                                        |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
+| **(i) Why is the heart called a pilgrim?**             | The heart is shown as a seeker travelling through life in search of comfort, truth, and emotional fulfilment. |
+| **(ii) When would a heart need words?**                | During grief, loneliness, love, apology, encouragement, or deep emotional need.                               |
+| **(iii) Words are like weeds because...**              | ...empty words are common, unwanted, and useless when real comfort is needed.                                 |
+| **(iv) Two emotions of the heart.**                    | loneliness and disappointment; also sorrow or longing.                                                        |
+| **(v) What do the lines suggest about communication?** | Communication needs sincerity. Words alone may fail if they do not carry true feeling.                        |
 
 ## Extract 2: Words Put to the Test
 
 ### Model Answers
 
-| Question | Answer |
-|---|---|
-| **(i) How can words satisfy the chest?** | By giving emotional comfort, courage, love, or relief to the heart. |
-| **(ii) How can words be summoned to the test?** | Words are tested when they are needed in real situations such as grief, loneliness, apology, or support. |
-| **(iii) What does the world holding a feast imply?** | It exaggerates how joyful the world would be if words truly satisfied everyone. |
-| **(iv) Words satisfy the least because...** | ...many words are superficial and fail to comfort the heart. |
-| **(v) Word that does not mean "oft".** | **A. always** |
+| Question                                             | Answer                                                                                                   |
+| ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| **(i) How can words satisfy the chest?**             | By giving emotional comfort, courage, love, or relief to the heart.                                      |
+| **(ii) How can words be summoned to the test?**      | Words are tested when they are needed in real situations such as grief, loneliness, apology, or support. |
+| **(iii) What does the world holding a feast imply?** | It exaggerates how joyful the world would be if words truly satisfied everyone.                          |
+| **(iv) Words satisfy the least because...**          | ...many words are superficial and fail to comfort the heart.                                             |
+| **(v) Word that does not mean "oft".**               | **A. always**                                                                                            |
 
 ## Long Answer Questions
 
@@ -783,26 +784,26 @@ The poet compares empty words to gaudy plants that blossom but bear no fruit. Th
 
 ## Figurative Phrases
 
-| Phrase | Meaning |
-|---|---|
-| **satisfy the heart** | makes one happy / emotionally fulfilled |
-| **depart and leave but empty air** | makes no impact |
-| **hosts of words** | many words |
-| **never touch the heart** | does not appeal to emotions |
-| **wins its sunny way** | cheers up a person |
-| **plants that cannot grow fruit** | there is no outcome |
+| Phrase                             | Meaning                                 |
+| ---------------------------------- | --------------------------------------- |
+| **satisfy the heart**              | makes one happy / emotionally fulfilled |
+| **depart and leave but empty air** | makes no impact                         |
+| **hosts of words**                 | many words                              |
+| **never touch the heart**          | does not appeal to emotions             |
+| **wins its sunny way**             | cheers up a person                      |
+| **plants that cannot grow fruit**  | there is no outcome                     |
 
 ## Word Maps
 
-| Word | Meaning | Synonym | Antonym | Sentence | Symbol Idea |
-|---|---|---|---|---|---|
-| **depart** | leave | go | arrive | The train will depart at five. | arrow moving away |
-| **pilgrim** | traveller on a spiritual journey | seeker | resident | The pilgrim walked toward the shrine. | walking stick |
-| **cheer** | comfort or encourage | encourage | sadden | Her words cheered the child. | smiling face |
-| **word** | unit of language | term | silence | Choose every word with care. | speech bubble |
-| **sunny** | bright or cheerful | bright | gloomy | He had a sunny smile. | sun |
-| **satisfy** | fulfil a need | fulfil | disappoint | Food can satisfy hunger. | full bowl |
-| **heart** | emotional centre | feeling | indifference | Kindness touched her heart. | heart shape |
+| Word        | Meaning                          | Synonym   | Antonym      | Sentence                              | Symbol Idea       |
+| ----------- | -------------------------------- | --------- | ------------ | ------------------------------------- | ----------------- |
+| **depart**  | leave                            | go        | arrive       | The train will depart at five.        | arrow moving away |
+| **pilgrim** | traveller on a spiritual journey | seeker    | resident     | The pilgrim walked toward the shrine. | walking stick     |
+| **cheer**   | comfort or encourage             | encourage | sadden       | Her words cheered the child.          | smiling face      |
+| **word**    | unit of language                 | term      | silence      | Choose every word with care.          | speech bubble     |
+| **sunny**   | bright or cheerful               | bright    | gloomy       | He had a sunny smile.                 | sun               |
+| **satisfy** | fulfil a need                    | fulfil    | disappoint   | Food can satisfy hunger.              | full bowl         |
+| **heart**   | emotional centre                 | feeling   | indifference | Kindness touched her heart.           | heart shape       |
 
 ---
 
@@ -812,14 +813,14 @@ The poet compares empty words to gaudy plants that blossom but bear no fruit. Th
 
 The raw chapter asks learners to mark four true statements from six after listening to a conversation. Since the answers depend on audio, listen for:
 
-| Statement Area | Listen For |
-|---|---|
-| Girl's excitement | enthusiastic words about participating |
-| Boy's doubt | question about topic suitability |
-| Personal experiences | whether people share or keep them private |
-| Body language | confidence, posture, gesture, eye contact |
-| Role of body language | significant or insignificant |
-| Library book | whether the girl issued the book earlier |
+| Statement Area        | Listen For                                |
+| --------------------- | ----------------------------------------- |
+| Girl's excitement     | enthusiastic words about participating    |
+| Boy's doubt           | question about topic suitability          |
+| Personal experiences  | whether people share or keep them private |
+| Body language         | confidence, posture, gesture, eye contact |
+| Role of body language | significant or insignificant              |
+| Library book          | whether the girl issued the book earlier  |
 
 ## Speaking: Quotations
 
@@ -839,13 +840,13 @@ I chose Mahatma Gandhi's quotation, "It is better in prayer to have a heart with
 
 ## Essay Structure
 
-| Paragraph | Purpose |
-|---|---|
-| **1. Introduction** | Mention quotation, speaker, reason for choosing it, and essay purpose. |
-| **2. Body 1** | Explain first main idea with example. |
-| **3. Body 2** | Explain second main idea with example. |
-| **4. Counterargument** | Mention a possible objection and respond to it. |
-| **5. Conclusion** | Summarise and leave a lasting thought. |
+| Paragraph              | Purpose                                                                |
+| ---------------------- | ---------------------------------------------------------------------- |
+| **1. Introduction**    | Mention quotation, speaker, reason for choosing it, and essay purpose. |
+| **2. Body 1**          | Explain first main idea with example.                                  |
+| **3. Body 2**          | Explain second main idea with example.                                 |
+| **4. Counterargument** | Mention a possible objection and respond to it.                        |
+| **5. Conclusion**      | Summarise and leave a lasting thought.                                 |
 
 ## Mini Model Essay
 
@@ -871,13 +872,13 @@ The raw chapter suggests a game using expressions and gestures.
 
 Examples:
 
-| Feeling / Idea | Possible Gesture |
-|---|---|
-| tired | drooping shoulders, slow movement |
-| united | holding hands or linking arms |
-| happy | smile, raised arms |
-| confused | tilted head, raised eyebrows |
-| silent | finger on lips |
+| Feeling / Idea | Possible Gesture                  |
+| -------------- | --------------------------------- |
+| tired          | drooping shoulders, slow movement |
+| united         | holding hands or linking arms     |
+| happy          | smile, raised arms                |
+| confused       | tilted head, raised eyebrows      |
+| silent         | finger on lips                    |
 
 This activity shows that communication can happen without words.
 
@@ -895,11 +896,11 @@ The poem "Weigh Your Words" advises people to think carefully before speaking. I
 
 ### Connection with "Words"
 
-| Words | Weigh Your Words |
-|---|---|
-| Questions whether words can satisfy the heart. | Advises people to speak carefully. |
-| Criticises empty words. | Warns against idle words. |
-| Values sincere speech. | Values thoughtful speech. |
+| Words                                            | Weigh Your Words                     |
+| ------------------------------------------------ | ------------------------------------ |
+| Questions whether words can satisfy the heart.   | Advises people to speak carefully.   |
+| Criticises empty words.                          | Warns against idle words.            |
+| Values sincere speech.                           | Values thoughtful speech.            |
 | Uses images of air, weeds, and fruitless plants. | Uses the metaphor of weighing words. |
 
 ---
@@ -908,55 +909,55 @@ The poem "Weigh Your Words" advises people to think carefully before speaking. I
 
 ## Prose
 
-| Item | Key Point |
-|---|---|
-| Main prose | Carrier of Words |
-| Main person | Khetaram |
-| Occupation | Gramin Dak Sewak |
-| Region | Thar desert, Rajasthan |
-| Main difficulty | Heat, sand, distance, remoteness |
-| Main role | Delivering mail and connecting people |
-| Emotional role | Reading letters, writing replies, carrying news |
-| Main message | Remote service workers sustain social connection. |
+| Item            | Key Point                                         |
+| --------------- | ------------------------------------------------- |
+| Main prose      | Carrier of Words                                  |
+| Main person     | Khetaram                                          |
+| Occupation      | Gramin Dak Sewak                                  |
+| Region          | Thar desert, Rajasthan                            |
+| Main difficulty | Heat, sand, distance, remoteness                  |
+| Main role       | Delivering mail and connecting people             |
+| Emotional role  | Reading letters, writing replies, carrying news   |
+| Main message    | Remote service workers sustain social connection. |
 
 ## Poem
 
-| Item | Key Point |
-|---|---|
-| Poem | Words |
-| Poet | Charles Swain |
-| Main theme | Sincere words matter more than many empty words. |
-| Rhyme | ABAB |
-| Devices | Simile, metaphor, hyperbole, repetition |
-| Main contrast | Empty words versus heartfelt words |
-| Message | Speak less if needed, but speak truthfully and kindly. |
+| Item          | Key Point                                              |
+| ------------- | ------------------------------------------------------ |
+| Poem          | Words                                                  |
+| Poet          | Charles Swain                                          |
+| Main theme    | Sincere words matter more than many empty words.       |
+| Rhyme         | ABAB                                                   |
+| Devices       | Simile, metaphor, hyperbole, repetition                |
+| Main contrast | Empty words versus heartfelt words                     |
+| Message       | Speak less if needed, but speak truthfully and kindly. |
 
 ## Grammar and Writing
 
-| Area | Key Learning |
-|---|---|
-| Present perfect | has/have + past participle |
-| Passive voice | subject receives the action |
-| Condolence message | respectful sympathy after death |
-| Word map | meaning, synonym, antonym, sentence, symbol |
-| Essay | introduction, body, counterargument, conclusion |
-| Non-verbal communication | gestures and expressions can carry meaning |
+| Area                     | Key Learning                                    |
+| ------------------------ | ----------------------------------------------- |
+| Present perfect          | has/have + past participle                      |
+| Passive voice            | subject receives the action                     |
+| Condolence message       | respectful sympathy after death                 |
+| Word map                 | meaning, synonym, antonym, sentence, symbol     |
+| Essay                    | introduction, body, counterargument, conclusion |
+| Non-verbal communication | gestures and expressions can carry meaning      |
 
 ---
 
 # Unit 7M: Common Mistakes and Corrections
 
-| Mistake | Better Understanding |
-|---|---|
-| Seeing Khetaram as only a mail carrier. | He is also a trusted social link and helper. |
-| Ignoring geography. | The desert setting explains the difficulty and value of his work. |
-| Thinking GDS work is minor. | It connects remote people to families, money, and state services. |
-| Treating money orders as only financial. | They are survival support for families in arid regions. |
-| Missing the emotional burden of death letters. | Khetaram handles bad news with sensitivity and custom. |
-| Confusing present perfect with simple past. | Present perfect connects past action with present relevance. |
-| Thinking all words are praised in the poem. | The poem criticises empty words and values sincere ones. |
-| Confusing simile and metaphor. | Simile uses like/as; metaphor directly identifies one thing with another. |
-| Writing condolence messages too casually. | Use respectful and sensitive language. |
+| Mistake                                        | Better Understanding                                                      |
+| ---------------------------------------------- | ------------------------------------------------------------------------- |
+| Seeing Khetaram as only a mail carrier.        | He is also a trusted social link and helper.                              |
+| Ignoring geography.                            | The desert setting explains the difficulty and value of his work.         |
+| Thinking GDS work is minor.                    | It connects remote people to families, money, and state services.         |
+| Treating money orders as only financial.       | They are survival support for families in arid regions.                   |
+| Missing the emotional burden of death letters. | Khetaram handles bad news with sensitivity and custom.                    |
+| Confusing present perfect with simple past.    | Present perfect connects past action with present relevance.              |
+| Thinking all words are praised in the poem.    | The poem criticises empty words and values sincere ones.                  |
+| Confusing simile and metaphor.                 | Simile uses like/as; metaphor directly identifies one thing with another. |
+| Writing condolence messages too casually.      | Use respectful and sensitive language.                                    |
 
 ---
 
@@ -1054,4 +1055,4 @@ For writing:
 
 ---
 
-*Source: NCERT Class 9 - English Beehive, Chapter 7 raw file. Learner-facing version manually rewritten from the extracted chapter content about "Carrier of Words", rural postal service, communication, and the poem "Words".*
+_Source: NCERT Class 9 - English Beehive, Chapter 7 raw file. Learner-facing version manually rewritten from the extracted chapter content about "Carrier of Words", rural postal service, communication, and the poem "Words"._

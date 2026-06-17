@@ -1,20 +1,21 @@
 # Chapter 1: What is Democracy? Why Democracy?
+
 ### NCERT Class 9 — Social Civics
 
 ---
 
 ## 📌 Chapter at a Glance
 
-| Detail | Info |
-|---|---|
-| Chapter | 1 — What is Democracy? Why Democracy? |
-| Class | Class 9 |
-| Subject | Social Civics |
-| Pilot Subject Family | Political Science |
-| Source File | `data/class_9/social_civics/chapter_01.md` |
-| Textbook Pages | 1 – 17 |
-| Raw Exercise Count | 31 |
-| Formatting Mode | Human-guided pilot for subject-specific automation |
+| Detail               | Info                                               |
+| -------------------- | -------------------------------------------------- |
+| Chapter              | 1 — What is Democracy? Why Democracy?              |
+| Class                | Class 9                                            |
+| Subject              | Social Civics                                      |
+| Pilot Subject Family | Political Science                                  |
+| Source File          | `data/class_9/social_civics/chapter_01.md`         |
+| Textbook Pages       | 1 – 17                                             |
+| Raw Exercise Count   | 31                                                 |
+| Formatting Mode      | Human-guided pilot for subject-specific automation |
 
 ---
 
@@ -23,55 +24,55 @@
 > [!NOTE]
 > Study this chapter through this route: **concept -> institution -> constitutional principle -> conflict/problem -> democratic resolution**.
 
-| Step | Learner Action | Why It Matters |
-|---|---|---|
-| 1 | Define every political concept in one precise sentence. | Builds reliable recall and answer quality. |
-| 2 | Connect concepts to examples from India and other countries. | Builds reliable recall and answer quality. |
-| 3 | Separate moral reasons from practical or prudential reasons. | Builds reliable recall and answer quality. |
-| 4 | Use flowcharts for institutions, levels of government, and power-sharing arrangements. | Builds reliable recall and answer quality. |
+| Step | Learner Action                                                                         | Why It Matters                             |
+| ---- | -------------------------------------------------------------------------------------- | ------------------------------------------ |
+| 1    | Define every political concept in one precise sentence.                                | Builds reliable recall and answer quality. |
+| 2    | Connect concepts to examples from India and other countries.                           | Builds reliable recall and answer quality. |
+| 3    | Separate moral reasons from practical or prudential reasons.                           | Builds reliable recall and answer quality. |
+| 4    | Use flowcharts for institutions, levels of government, and power-sharing arrangements. | Builds reliable recall and answer quality. |
 
 ---
 
 ## 🎯 Learning Outcomes
 
-| # | After studying this chapter, you should be able to... |
-|---|---|
-| 1 | define democratic and constitutional concepts precisely |
-| 2 | connect institutions and power arrangements with real examples |
-| 3 | distinguish moral, prudential, legal, and practical arguments |
-| 4 | explain the role of 'FEATURES OF DEMOCRACY' in the chapter |
-| 5 | explain the role of 'BROADER MEANINGS OF DEMOCRACY' in the chapter |
+| #   | After studying this chapter, you should be able to...              |
+| --- | ------------------------------------------------------------------ |
+| 1   | define democratic and constitutional concepts precisely            |
+| 2   | connect institutions and power arrangements with real examples     |
+| 3   | distinguish moral, prudential, legal, and practical arguments      |
+| 4   | explain the role of 'FEATURES OF DEMOCRACY' in the chapter         |
+| 5   | explain the role of 'BROADER MEANINGS OF DEMOCRACY' in the chapter |
 
 ---
 
 ## 🗂️ Section Structure
 
-| Section | Title | Revision Focus |
-|---|---|---|
-| 1.2 | FEATURES OF DEMOCRACY | Definition, explanation, examples, and likely questions |
-| 1.4 | BROADER MEANINGS OF DEMOCRACY | Definition, explanation, examples, and likely questions |
+| Section | Title                         | Revision Focus                                          |
+| ------- | ----------------------------- | ------------------------------------------------------- |
+| 1.2     | FEATURES OF DEMOCRACY         | Definition, explanation, examples, and likely questions |
+| 1.4     | BROADER MEANINGS OF DEMOCRACY | Definition, explanation, examples, and likely questions |
 
 ---
 
 ## 🧠 Subject-Specific Study Method
 
-| Part | How to Use It |
-|---|---|
-| Core lens | concept -> institution -> constitutional principle -> conflict/problem -> democratic resolution |
-| First pass | Read for meaning and mark unfamiliar terms. |
-| Second pass | Convert definitions, examples, data, and activities into tables. |
-| Revision pass | Use the quick reference and practice tracker at the end. |
+| Part          | How to Use It                                                                                   |
+| ------------- | ----------------------------------------------------------------------------------------------- |
+| Core lens     | concept -> institution -> constitutional principle -> conflict/problem -> democratic resolution |
+| First pass    | Read for meaning and mark unfamiliar terms.                                                     |
+| Second pass   | Convert definitions, examples, data, and activities into tables.                                |
+| Revision pass | Use the quick reference and practice tracker at the end.                                        |
 
 ---
 
 ## 🧭 Concept, Evidence, and Example Board
 
-| Learning Need | How To Build It |
-|---|---|
-| Core concepts | Turn each definition into a one-line meaning and one example. |
-| Evidence | Use dates, places, maps, data, thinkers, laws, institutions, or case studies from the chapter. |
-| Comparison | Prepare tables for contrasts, causes, consequences, and viewpoints. |
-| Answer quality | Move from description to explanation to significance. |
+| Learning Need  | How To Build It                                                                                |
+| -------------- | ---------------------------------------------------------------------------------------------- |
+| Core concepts  | Turn each definition into a one-line meaning and one example.                                  |
+| Evidence       | Use dates, places, maps, data, thinkers, laws, institutions, or case studies from the chapter. |
+| Comparison     | Prepare tables for contrasts, causes, consequences, and viewpoints.                            |
+| Answer quality | Move from description to explanation to significance.                                          |
 
 ---
 
@@ -266,11 +267,11 @@ The paper also publishes the views of other writers and intellectuals and letter
 
 ## 🔑 Key Concepts & Definitions
 
-| Term | Learner-Friendly Meaning |
-|---|---|
-| **That** | dictatorship |
-| **exercises This also** | that no country is a perfect democracy |
-| **b Rule of the majority** | the rule of ignorant people |
+| Term                       | Learner-Friendly Meaning               |
+| -------------------------- | -------------------------------------- |
+| **That**                   | dictatorship                           |
+| **exercises This also**    | that no country is a perfect democracy |
+| **b Rule of the majority** | the rule of ignorant people            |
 
 ---
 
@@ -283,9 +284,9 @@ The paper also publishes the views of other writers and intellectuals and letter
 
 ## 🔬 Activities, Projects, and Inquiry Prompts
 
-| # | Prompt | Learner Task |
-|---|---|---|
-| 1 | ACTIVITY | Observe, discuss, collect evidence, or write a short response. |
+| #   | Prompt   | Learner Task                                                   |
+| --- | -------- | -------------------------------------------------------------- |
+| 1   | ACTIVITY | Observe, discuss, collect evidence, or write a short response. |
 
 ---
 
@@ -298,48 +299,48 @@ The paper also publishes the views of other writers and intellectuals and letter
 
 ## 🧩 Answer-Writing Framework
 
-| Step | What To Do |
-|---|---|
-| 1 | Define the political idea. |
-| 2 | Explain why it matters in democracy. |
-| 3 | Give one institutional mechanism or constitutional provision. |
-| 4 | Use one example. |
-| 5 | Conclude with its effect on citizens or governance. |
+| Step | What To Do                                                    |
+| ---- | ------------------------------------------------------------- |
+| 1    | Define the political idea.                                    |
+| 2    | Explain why it matters in democracy.                          |
+| 3    | Give one institutional mechanism or constitutional provision. |
+| 4    | Use one example.                                              |
+| 5    | Conclude with its effect on citizens or governance.           |
 
 ---
 
 ## ⚠️ Common Misconceptions
 
-| # | Watch Out For This |
-|---|---|
-| 1 | Democracy is not only elections; it includes participation and accountability. |
-| 2 | Majority rule and majoritarianism are not the same. |
-| 3 | Institutions matter because they distribute and limit power. |
+| #   | Watch Out For This                                                             |
+| --- | ------------------------------------------------------------------------------ |
+| 1   | Democracy is not only elections; it includes participation and accountability. |
+| 2   | Majority rule and majoritarianism are not the same.                            |
+| 3   | Institutions matter because they distribute and limit power.                   |
 
 ---
 
 ## 📋 Quick Revision Sheet
 
-| Revision Item | What To Recall |
-|---|---|
-| Chapter core | What is Democracy? Why Democracy? |
-| 1.2 | FEATURES OF DEMOCRACY |
-| 1.4 | BROADER MEANINGS OF DEMOCRACY |
-| Definition | That |
-| Definition | exercises This also |
-| Definition | b Rule of the majority |
+| Revision Item | What To Recall                    |
+| ------------- | --------------------------------- |
+| Chapter core  | What is Democracy? Why Democracy? |
+| 1.2           | FEATURES OF DEMOCRACY             |
+| 1.4           | BROADER MEANINGS OF DEMOCRACY     |
+| Definition    | That                              |
+| Definition    | exercises This also               |
+| Definition    | b Rule of the majority            |
 
 ---
 
 ## ✅ Pilot Quality Checklist
 
-| Check | Status |
-|---|---|
-| Raw data preserved | Yes — chapter content is retained and cleaned, not summarised away. |
-| Learner scaffolding added | Yes — roadmap, outcomes, answer framework, misconceptions, and revision sheet. |
-| Subject-aware structure | Yes — generated from the selected subject family profile. |
-| Needs human review | Yes — especially source extraction mismatches, diagrams, tables, formulas, and broken OCR words. |
+| Check                     | Status                                                                                           |
+| ------------------------- | ------------------------------------------------------------------------------------------------ |
+| Raw data preserved        | Yes — chapter content is retained and cleaned, not summarised away.                              |
+| Learner scaffolding added | Yes — roadmap, outcomes, answer framework, misconceptions, and revision sheet.                   |
+| Subject-aware structure   | Yes — generated from the selected subject family profile.                                        |
+| Needs human review        | Yes — especially source extraction mismatches, diagrams, tables, formulas, and broken OCR words. |
 
 ---
 
-*Source: NCERT Class 9 — Social Civics, Chapter 1. Raw file: `data/class_9/social_civics/chapter_01.md`.*
+_Source: NCERT Class 9 — Social Civics, Chapter 1. Raw file: `data/class_9/social_civics/chapter_01.md`._

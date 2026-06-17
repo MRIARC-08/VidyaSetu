@@ -1,4 +1,5 @@
 # Chapter 2: Alcohols, Phenols and Ethers
+
 ### NCERT Class 12 - Chemistry Part 2
 
 ## Chapter at a Glance
@@ -24,47 +25,47 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Alcohol | Compound containing `-OH` group attached to saturated carbon. |
-| Phenol | Compound containing `-OH` group directly attached to benzene ring. |
-| Ether | Compound containing `R-O-R'` linkage. |
-| Primary alcohol | `-OH` carbon attached to one carbon atom. |
-| Secondary alcohol | `-OH` carbon attached to two carbon atoms. |
-| Tertiary alcohol | `-OH` carbon attached to three carbon atoms. |
-| Alkoxide | Conjugate base of alcohol, `RO-`. |
-| Phenoxide | Conjugate base of phenol, `C6H5O-`. |
-| Williamson synthesis | Preparation of ether from alkoxide and primary alkyl halide. |
-| Dehydration | Removal of water, often forming alkene or ether. |
+| Term                 | Meaning                                                            |
+| -------------------- | ------------------------------------------------------------------ |
+| Alcohol              | Compound containing `-OH` group attached to saturated carbon.      |
+| Phenol               | Compound containing `-OH` group directly attached to benzene ring. |
+| Ether                | Compound containing `R-O-R'` linkage.                              |
+| Primary alcohol      | `-OH` carbon attached to one carbon atom.                          |
+| Secondary alcohol    | `-OH` carbon attached to two carbon atoms.                         |
+| Tertiary alcohol     | `-OH` carbon attached to three carbon atoms.                       |
+| Alkoxide             | Conjugate base of alcohol, `RO-`.                                  |
+| Phenoxide            | Conjugate base of phenol, `C6H5O-`.                                |
+| Williamson synthesis | Preparation of ether from alkoxide and primary alkyl halide.       |
+| Dehydration          | Removal of water, often forming alkene or ether.                   |
 
 ## Quick Learning Map
 
-| Compound family | Main structural feature | Important behaviour |
-|---|---|---|
-| Alcohols | `R-OH` | Hydrogen bonding, oxidation, substitution, dehydration |
-| Phenols | `Ar-OH` | More acidic, ring activation, electrophilic substitution |
-| Ethers | `R-O-R'` | Less reactive, cleavage by strong hydrogen halides |
+| Compound family | Main structural feature | Important behaviour                                      |
+| --------------- | ----------------------- | -------------------------------------------------------- |
+| Alcohols        | `R-OH`                  | Hydrogen bonding, oxidation, substitution, dehydration   |
+| Phenols         | `Ar-OH`                 | More acidic, ring activation, electrophilic substitution |
+| Ethers          | `R-O-R'`                | Less reactive, cleavage by strong hydrogen halides       |
 
 # Unit 2A: Classification and Nomenclature
 
 ## Alcohol Classification
 
-| Type | General form | Example |
-|---|---|---|
-| Primary | `R-CH2OH` | ethanol |
-| Secondary | `R-CHOH-R'` | propan-2-ol |
-| Tertiary | `R3C-OH` | 2-methylpropan-2-ol |
+| Type      | General form | Example             |
+| --------- | ------------ | ------------------- |
+| Primary   | `R-CH2OH`    | ethanol             |
+| Secondary | `R-CHOH-R'`  | propan-2-ol         |
+| Tertiary  | `R3C-OH`     | 2-methylpropan-2-ol |
 
 ## Names
 
-| Formula | IUPAC name |
-|---|---|
-| `CH3OH` | methanol |
-| `CH3CH2OH` | ethanol |
-| `CH3CH(OH)CH3` | propan-2-ol |
-| `C6H5OH` | phenol |
-| `CH3OCH3` | methoxymethane |
-| `C2H5OC2H5` | ethoxyethane |
+| Formula        | IUPAC name     |
+| -------------- | -------------- |
+| `CH3OH`        | methanol       |
+| `CH3CH2OH`     | ethanol        |
+| `CH3CH(OH)CH3` | propan-2-ol    |
+| `C6H5OH`       | phenol         |
+| `CH3OCH3`      | methoxymethane |
+| `C2H5OC2H5`    | ethoxyethane   |
 
 For alcohols, choose the longest chain containing `-OH` and give the hydroxyl carbon the lowest possible locant.
 
@@ -212,11 +213,11 @@ Ease of dehydration:
 
 ## Oxidation
 
-| Alcohol type | Oxidation product |
-|---|---|
-| Primary | Aldehyde, then carboxylic acid |
-| Secondary | Ketone |
-| Tertiary | Resistant under mild conditions |
+| Alcohol type | Oxidation product               |
+| ------------ | ------------------------------- |
+| Primary      | Aldehyde, then carboxylic acid  |
+| Secondary    | Ketone                          |
+| Tertiary     | Resistant under mild conditions |
 
 Mild oxidising agent can stop primary alcohol at aldehyde stage. Strong oxidising agents continue to acid.
 
@@ -271,39 +272,39 @@ Para product often dominates due to lower steric hindrance.
 
 # Unit 2K: Distinguishing Tests and Clues
 
-| Compound type | Useful clue |
-|---|---|
-| Phenol | Reacts with `NaOH`; gives violet colour with neutral ferric chloride in many cases. |
-| Alcohol | Reacts with sodium; does not usually react with `NaOH`. |
-| Primary alcohol | Oxidises to aldehyde and then acid. |
-| Secondary alcohol | Oxidises to ketone. |
-| Tertiary alcohol | Resists mild oxidation. |
-| Ether | Cleaved by hot concentrated `HI` or `HBr`. |
+| Compound type     | Useful clue                                                                         |
+| ----------------- | ----------------------------------------------------------------------------------- |
+| Phenol            | Reacts with `NaOH`; gives violet colour with neutral ferric chloride in many cases. |
+| Alcohol           | Reacts with sodium; does not usually react with `NaOH`.                             |
+| Primary alcohol   | Oxidises to aldehyde and then acid.                                                 |
+| Secondary alcohol | Oxidises to ketone.                                                                 |
+| Tertiary alcohol  | Resists mild oxidation.                                                             |
+| Ether             | Cleaved by hot concentrated `HI` or `HBr`.                                          |
 
 # Unit 2L: Reaction Selection Toolkit
 
-| Desired conversion | Reagent or condition |
-|---|---|
-| Alkene to Markovnikov alcohol | Acid-catalysed hydration |
-| Alkene to anti-Markovnikov alcohol | Hydroboration-oxidation |
-| Aldehyde to primary alcohol | `NaBH4` or `LiAlH4` |
-| Ketone to secondary alcohol | `NaBH4` or `LiAlH4` |
-| Alcohol to alkyl chloride | `SOCl2` |
-| Alcohol to alkene | Concentrated acid and heat |
-| Phenol to salicylic acid | Kolbe reaction |
-| Phenol to salicylaldehyde | Reimer-Tiemann reaction |
-| Alkoxide to ether | Williamson synthesis |
-| Ether cleavage | Hot concentrated `HI` |
+| Desired conversion                 | Reagent or condition       |
+| ---------------------------------- | -------------------------- |
+| Alkene to Markovnikov alcohol      | Acid-catalysed hydration   |
+| Alkene to anti-Markovnikov alcohol | Hydroboration-oxidation    |
+| Aldehyde to primary alcohol        | `NaBH4` or `LiAlH4`        |
+| Ketone to secondary alcohol        | `NaBH4` or `LiAlH4`        |
+| Alcohol to alkyl chloride          | `SOCl2`                    |
+| Alcohol to alkene                  | Concentrated acid and heat |
+| Phenol to salicylic acid           | Kolbe reaction             |
+| Phenol to salicylaldehyde          | Reimer-Tiemann reaction    |
+| Alkoxide to ether                  | Williamson synthesis       |
+| Ether cleavage                     | Hot concentrated `HI`      |
 
 # Unit 2M: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Saying alcohols are more acidic than phenols | Phenols are more acidic due to resonance-stabilised phenoxide ion. |
-| Using tertiary halide in Williamson synthesis | Use primary alkyl halide to avoid elimination. |
-| Forgetting phenol is ortho-para directing | `-OH` strongly activates the ring. |
-| Expecting ether to donate hydrogen bonds | Ethers accept but do not donate hydrogen bonds. |
-| Oxidising tertiary alcohol under mild conditions | Tertiary alcohols resist mild oxidation. |
+| Mistake                                          | Correction                                                         |
+| ------------------------------------------------ | ------------------------------------------------------------------ |
+| Saying alcohols are more acidic than phenols     | Phenols are more acidic due to resonance-stabilised phenoxide ion. |
+| Using tertiary halide in Williamson synthesis    | Use primary alkyl halide to avoid elimination.                     |
+| Forgetting phenol is ortho-para directing        | `-OH` strongly activates the ring.                                 |
+| Expecting ether to donate hydrogen bonds         | Ethers accept but do not donate hydrogen bonds.                    |
+| Oxidising tertiary alcohol under mild conditions | Tertiary alcohols resist mild oxidation.                           |
 
 ## Practice Set
 

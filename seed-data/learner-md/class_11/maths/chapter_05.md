@@ -37,32 +37,32 @@ After studying this chapter, you should be able to:
 
 ## Chapter Snapshot
 
-| Topic | Main Idea |
-|---|---|
-| Inequality | Comparison using `<`, `>`, `<=`, or `>=` |
-| Strict inequality | Uses `<` or `>` |
-| Non-strict inequality | Uses `<=` or `>=` |
-| Linear inequality in one variable | Example: `ax + b < 0` |
-| Linear inequality in two variables | Example: `ax + by <= c` |
-| Solution | Value that makes the inequality true |
-| Solution set | Set of all solutions |
-| Sign reversal | Happens when multiplying or dividing by a negative number |
-| Number line graph | Open point for `<` or `>`; closed point for `<=` or `>=` |
-| Compound inequality | Two inequalities solved together |
-| System of inequalities | Common solutions satisfying all inequalities |
+| Topic                              | Main Idea                                                 |
+| ---------------------------------- | --------------------------------------------------------- |
+| Inequality                         | Comparison using `<`, `>`, `<=`, or `>=`                  |
+| Strict inequality                  | Uses `<` or `>`                                           |
+| Non-strict inequality              | Uses `<=` or `>=`                                         |
+| Linear inequality in one variable  | Example: `ax + b < 0`                                     |
+| Linear inequality in two variables | Example: `ax + by <= c`                                   |
+| Solution                           | Value that makes the inequality true                      |
+| Solution set                       | Set of all solutions                                      |
+| Sign reversal                      | Happens when multiplying or dividing by a negative number |
+| Number line graph                  | Open point for `<` or `>`; closed point for `<=` or `>=`  |
+| Compound inequality                | Two inequalities solved together                          |
+| System of inequalities             | Common solutions satisfying all inequalities              |
 
 ## Essential Notation
 
-| Symbol | Meaning | Example |
-|---|---|---|
-| `<` | less than | `x < 3` |
-| `>` | greater than | `x > -2` |
-| `<=` | less than or equal to | `x <= 5` |
-| `>=` | greater than or equal to | `x >= 0` |
-| `(a, b)` | open interval | `a < x < b` |
-| `[a, b]` | closed interval | `a <= x <= b` |
-| `(a, b]` | left-open, right-closed | `a < x <= b` |
-| `[a, b)` | left-closed, right-open | `a <= x < b` |
+| Symbol   | Meaning                  | Example       |
+| -------- | ------------------------ | ------------- |
+| `<`      | less than                | `x < 3`       |
+| `>`      | greater than             | `x > -2`      |
+| `<=`     | less than or equal to    | `x <= 5`      |
+| `>=`     | greater than or equal to | `x >= 0`      |
+| `(a, b)` | open interval            | `a < x < b`   |
+| `[a, b]` | closed interval          | `a <= x <= b` |
+| `(a, b]` | left-open, right-closed  | `a < x <= b`  |
+| `[a, b)` | left-closed, right-open  | `a <= x < b`  |
 
 In formulas:
 
@@ -106,12 +106,12 @@ In an inequality, the solution is usually a range of values.
 
 ## 2. Meaning Of Inequality Symbols
 
-| Symbol | Meaning |
-|---|---|
-| `<` | less than |
-| `>` | greater than |
-| `<=` | less than or equal to |
-| `>=` | greater than or equal to |
+| Symbol | Meaning                  |
+| ------ | ------------------------ |
+| `<`    | less than                |
+| `>`    | greater than             |
+| `<=`   | less than or equal to    |
+| `>=`   | greater than or equal to |
 
 Examples:
 
@@ -449,16 +449,16 @@ means closed point at 3 and shading to the right.
 
 ## 11. Interval Notation
 
-| Inequality | Interval |
-|---|---|
-| `x < a` | `(-infinity, a)` |
-| `x <= a` | `(-infinity, a]` |
-| `x > a` | `(a, infinity)` |
-| `x >= a` | `[a, infinity)` |
-| `a < x < b` | `(a, b)` |
-| `a <= x <= b` | `[a, b]` |
-| `a < x <= b` | `(a, b]` |
-| `a <= x < b` | `[a, b)` |
+| Inequality    | Interval         |
+| ------------- | ---------------- |
+| `x < a`       | `(-infinity, a)` |
+| `x <= a`      | `(-infinity, a]` |
+| `x > a`       | `(a, infinity)`  |
+| `x >= a`      | `[a, infinity)`  |
+| `a < x < b`   | `(a, b)`         |
+| `a <= x <= b` | `[a, b]`         |
+| `a < x <= b`  | `(a, b]`         |
+| `a <= x < b`  | `[a, b)`         |
 
 ## 12. Worked Example: Simple Linear Inequality
 
@@ -1188,20 +1188,20 @@ $$
 
 ### 5 To 8. Direct Linear Inequalities
 
-| Question | Inequality | Solution |
-|---|---|---|
-| 5 | `4x + 3 < 5x + 7` | `x > -4` |
-| 6 | `3x - 7 > 5x - 1` | `x < -3` |
-| 7 | `3(x - 1) <= 2(x - 3)` | `x <= -3` |
-| 8 | `3(2 - x) >= 2(1 - x)` | `x <= 4` |
+| Question | Inequality             | Solution  |
+| -------- | ---------------------- | --------- |
+| 5        | `4x + 3 < 5x + 7`      | `x > -4`  |
+| 6        | `3x - 7 > 5x - 1`      | `x < -3`  |
+| 7        | `3(x - 1) <= 2(x - 3)` | `x <= -3` |
+| 8        | `3(2 - x) >= 2(1 - x)` | `x <= 4`  |
 
 ### 17 To 19. Number-Line Solutions
 
-| Question | Inequality | Solution | Graph Instruction |
-|---|---|---|---|
-| 17 | `3x - 2 < 2x + 1` | `x < 3` | open point at 3, shade left |
-| 18 | `5x - 3 > 3x - 5` | `x > -1` | open point at -1, shade right |
-| 19 | `3(1 - x) < 2(x + 4)` | `x > -1` | open point at -1, shade right |
+| Question | Inequality            | Solution | Graph Instruction             |
+| -------- | --------------------- | -------- | ----------------------------- |
+| 17       | `3x - 2 < 2x + 1`     | `x < 3`  | open point at 3, shade left   |
+| 18       | `5x - 3 > 3x - 5`     | `x > -1` | open point at -1, shade right |
+| 19       | `3(1 - x) < 2(x + 4)` | `x > -1` | open point at -1, shade right |
 
 ### 21. Ravi's Marks
 
@@ -1483,48 +1483,48 @@ $$
 
 ## 28. Key Formulas And Rules
 
-| Idea | Rule |
-|---|---|
-| Add same number | Inequality sign does not change |
-| Subtract same number | Inequality sign does not change |
+| Idea                        | Rule                            |
+| --------------------------- | ------------------------------- |
+| Add same number             | Inequality sign does not change |
+| Subtract same number        | Inequality sign does not change |
 | Multiply by positive number | Inequality sign does not change |
-| Divide by positive number | Inequality sign does not change |
-| Multiply by negative number | Inequality sign reverses |
-| Divide by negative number | Inequality sign reverses |
-| `x < a` | open point at a, shade left |
-| `x <= a` | closed point at a, shade left |
-| `x > a` | open point at a, shade right |
-| `x >= a` | closed point at a, shade right |
-| compound inequality | solve all parts together |
-| system of inequalities | take common solution |
+| Divide by positive number   | Inequality sign does not change |
+| Multiply by negative number | Inequality sign reverses        |
+| Divide by negative number   | Inequality sign reverses        |
+| `x < a`                     | open point at a, shade left     |
+| `x <= a`                    | closed point at a, shade left   |
+| `x > a`                     | open point at a, shade right    |
+| `x >= a`                    | closed point at a, shade right  |
+| compound inequality         | solve all parts together        |
+| system of inequalities      | take common solution            |
 
 ## 29. Common Mistakes And Corrections
 
-| Mistake | Correction |
-|---|---|
-| Not reversing sign after dividing by negative | Always reverse the inequality sign |
-| Treating `<` and `<=` the same | Boundary is excluded for `<`, included for `<=` |
-| Forgetting variable domain | Natural, integer, and real solutions can differ |
-| Shading wrong direction | Less than shades left, greater than shades right |
-| Losing one part of a double inequality | Operate on all three parts |
-| Using equality for "at least" | "At least" means `>=` |
-| Using strict inequality for "at most" | "At most" means `<=` |
-| Ignoring real-life restrictions | Lengths, marks, and quantities are usually non-negative |
+| Mistake                                       | Correction                                              |
+| --------------------------------------------- | ------------------------------------------------------- |
+| Not reversing sign after dividing by negative | Always reverse the inequality sign                      |
+| Treating `<` and `<=` the same                | Boundary is excluded for `<`, included for `<=`         |
+| Forgetting variable domain                    | Natural, integer, and real solutions can differ         |
+| Shading wrong direction                       | Less than shades left, greater than shades right        |
+| Losing one part of a double inequality        | Operate on all three parts                              |
+| Using equality for "at least"                 | "At least" means `>=`                                   |
+| Using strict inequality for "at most"         | "At most" means `<=`                                    |
+| Ignoring real-life restrictions               | Lengths, marks, and quantities are usually non-negative |
 
 ## 30. Word Translation Table
 
-| Phrase | Inequality |
-|---|---|
-| less than | `<` |
-| greater than | `>` |
-| at most | `<=` |
-| no more than | `<=` |
-| maximum | `<=` |
-| at least | `>=` |
-| no less than | `>=` |
-| minimum | `>=` |
-| between a and b | usually `a < x < b` |
-| from a to b inclusive | `a <= x <= b` |
+| Phrase                | Inequality          |
+| --------------------- | ------------------- |
+| less than             | `<`                 |
+| greater than          | `>`                 |
+| at most               | `<=`                |
+| no more than          | `<=`                |
+| maximum               | `<=`                |
+| at least              | `>=`                |
+| no less than          | `>=`                |
+| minimum               | `>=`                |
+| between a and b       | usually `a < x < b` |
+| from a to b inclusive | `a <= x <= b`       |
 
 ## 31. Fast Problem-Solving Checklist
 

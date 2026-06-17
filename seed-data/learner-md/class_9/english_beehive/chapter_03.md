@@ -1,20 +1,21 @@
 # Chapter 3: Craft Heritage and Gardens as Living Art
+
 ### NCERT Class 9 - English Beehive
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 9 |
-| **Subject** | English Beehive |
-| **Chapter** | 3 |
-| **Actual Main Texts** | "Winds of Change" and "Canvas of Soil" |
-| **Raw File Header** | "The Little Girl" |
-| **Textbook Pages** | 1-96 |
-| **Core Theme** | Traditional hand fans, regional craft identity, change through technology, and gardens as art. |
-| **Main Skills** | Informational reading, inference, vocabulary, present perfect tense, factual description, speaking, poetic appreciation, descriptive writing, and project work. |
+| Detail                | Learner-Friendly Information                                                                                                                                    |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Class**             | 9                                                                                                                                                               |
+| **Subject**           | English Beehive                                                                                                                                                 |
+| **Chapter**           | 3                                                                                                                                                               |
+| **Actual Main Texts** | "Winds of Change" and "Canvas of Soil"                                                                                                                          |
+| **Raw File Header**   | "The Little Girl"                                                                                                                                               |
+| **Textbook Pages**    | 1-96                                                                                                                                                            |
+| **Core Theme**        | Traditional hand fans, regional craft identity, change through technology, and gardens as art.                                                                  |
+| **Main Skills**       | Informational reading, inference, vocabulary, present perfect tense, factual description, speaking, poetic appreciation, descriptive writing, and project work. |
 
 > [!NOTE]
 > The raw source file is `chapter_03.md` and its extraction header says "The Little Girl", but the actual chapter content contains **Winds of Change**, the poem **Canvas of Soil**, and supplementary nature/art texts. This learner-facing version follows the actual chapter content.
@@ -23,15 +24,15 @@
 
 ## Section Structure
 
-| Unit | Text / Skill | Main Learning Focus |
-|---|---|---|
-| **3A** | Winds of Change | Pankhas, regional craft, cultural identity, livelihood, and preservation. |
-| **3B** | Vocabulary from the Prose | Word pairs, fixed expressions, collocations, craft words. |
-| **3C** | Grammar | Present perfect tense. |
-| **3D** | Speaking and Writing | Speaking as a fan and factual description of an artefact. |
-| **3E** | Learning Beyond the Text | Regional craft presentation, hand fan activity, and "The Last Leaf". |
-| **3F** | Canvas of Soil | Garden as painting, metaphor, imagery, allegory, and nature as art. |
-| **3G** | Poem-Based Language Work | Colour vocabulary, painting vocabulary, garden speaking, descriptive writing. |
+| Unit   | Text / Skill                   | Main Learning Focus                                                                |
+| ------ | ------------------------------ | ---------------------------------------------------------------------------------- |
+| **3A** | Winds of Change                | Pankhas, regional craft, cultural identity, livelihood, and preservation.          |
+| **3B** | Vocabulary from the Prose      | Word pairs, fixed expressions, collocations, craft words.                          |
+| **3C** | Grammar                        | Present perfect tense.                                                             |
+| **3D** | Speaking and Writing           | Speaking as a fan and factual description of an artefact.                          |
+| **3E** | Learning Beyond the Text       | Regional craft presentation, hand fan activity, and "The Last Leaf".               |
+| **3F** | Canvas of Soil                 | Garden as painting, metaphor, imagery, allegory, and nature as art.                |
+| **3G** | Poem-Based Language Work       | Colour vocabulary, painting vocabulary, garden speaking, descriptive writing.      |
 | **3H** | Project and Supplementary Poem | Famous gardens, garden design, gardener interview, and Toru Dutt's garden imagery. |
 
 ---
@@ -40,43 +41,43 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Read informational prose** | Explain the history, materials, regional types, and changing role of pankhas. |
-| **Understand craft identity** | Connect craft objects with region, culture, livelihood, and heritage. |
-| **Evaluate change** | Discuss how technology affects traditional crafts. |
-| **Answer inference questions** | Distinguish fact, opinion, cause, effect, and implied meaning. |
-| **Use vocabulary accurately** | Use word pairs, fixed expressions, and collocations. |
-| **Use present perfect tense** | Describe past actions connected to the present. |
-| **Describe an artefact** | Write a factual description without personal opinion. |
-| **Appreciate poetry** | Explain metaphor, imagery, alliteration, rhyme, mood, tone, and allegory in "Canvas of Soil". |
-| **Write descriptively** | Describe a garden using colour, texture, light, and sensory details. |
-| **Connect art and nature** | Explain how gardens can be viewed as living artworks. |
+| Outcome                        | You Should Be Able To...                                                                      |
+| ------------------------------ | --------------------------------------------------------------------------------------------- |
+| **Read informational prose**   | Explain the history, materials, regional types, and changing role of pankhas.                 |
+| **Understand craft identity**  | Connect craft objects with region, culture, livelihood, and heritage.                         |
+| **Evaluate change**            | Discuss how technology affects traditional crafts.                                            |
+| **Answer inference questions** | Distinguish fact, opinion, cause, effect, and implied meaning.                                |
+| **Use vocabulary accurately**  | Use word pairs, fixed expressions, and collocations.                                          |
+| **Use present perfect tense**  | Describe past actions connected to the present.                                               |
+| **Describe an artefact**       | Write a factual description without personal opinion.                                         |
+| **Appreciate poetry**          | Explain metaphor, imagery, alliteration, rhyme, mood, tone, and allegory in "Canvas of Soil". |
+| **Write descriptively**        | Describe a garden using colour, texture, light, and sensory details.                          |
+| **Connect art and nature**     | Explain how gardens can be viewed as living artworks.                                         |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Pankha / Punkha** | Traditional hand fan; the word is connected with "pankh", meaning feather. |
-| **Pankhi** | A small plumed fan used in ancient India. |
-| **Indigenous** | Native to a place; local in origin. |
-| **Artefact** | Human-made object of cultural or historical interest. |
-| **Intricate** | Detailed and complex. |
-| **Innovative** | New and original in approach. |
-| **Industrious** | Hard-working. |
-| **Encrusted** | Covered or decorated with a layer of material. |
-| **Sola** | A type of water grass used in craft. |
-| **Perpetually** | Constantly; always. |
-| **Antiquity** | Ancient past. |
-| **Advent** | Arrival or beginning. |
-| **Collocation** | Natural word combination, such as "sustainable livelihood". |
+| Term                      | Meaning                                                                               |
+| ------------------------- | ------------------------------------------------------------------------------------- |
+| **Pankha / Punkha**       | Traditional hand fan; the word is connected with "pankh", meaning feather.            |
+| **Pankhi**                | A small plumed fan used in ancient India.                                             |
+| **Indigenous**            | Native to a place; local in origin.                                                   |
+| **Artefact**              | Human-made object of cultural or historical interest.                                 |
+| **Intricate**             | Detailed and complex.                                                                 |
+| **Innovative**            | New and original in approach.                                                         |
+| **Industrious**           | Hard-working.                                                                         |
+| **Encrusted**             | Covered or decorated with a layer of material.                                        |
+| **Sola**                  | A type of water grass used in craft.                                                  |
+| **Perpetually**           | Constantly; always.                                                                   |
+| **Antiquity**             | Ancient past.                                                                         |
+| **Advent**                | Arrival or beginning.                                                                 |
+| **Collocation**           | Natural word combination, such as "sustainable livelihood".                           |
 | **Present perfect tense** | Verb form using has/have + past participle, linking past action to present relevance. |
-| **Palette** | Board used by painters for mixing colours; also a range of colours. |
-| **Hue** | Shade or variety of a colour. |
-| **Canvas** | Surface for painting; in the poem, a metaphor for a garden plot. |
-| **Allegory** | Text with surface meaning and deeper symbolic meaning. |
+| **Palette**               | Board used by painters for mixing colours; also a range of colours.                   |
+| **Hue**                   | Shade or variety of a colour.                                                         |
+| **Canvas**                | Surface for painting; in the poem, a metaphor for a garden plot.                      |
+| **Allegory**              | Text with surface meaning and deeper symbolic meaning.                                |
 
 ---
 
@@ -105,13 +106,13 @@ The poem teaches us to see beauty in cultivated nature.
 
 ## Text Identity
 
-| Detail | Information |
-|---|---|
-| **Title** | Winds of Change |
-| **Genre** | Informational prose / cultural essay |
-| **Main Subject** | Traditional Indian hand fans, or pankhas |
+| Detail              | Information                                                                                 |
+| ------------------- | ------------------------------------------------------------------------------------------- |
+| **Title**           | Winds of Change                                                                             |
+| **Genre**           | Informational prose / cultural essay                                                        |
+| **Main Subject**    | Traditional Indian hand fans, or pankhas                                                    |
 | **Central Concern** | Traditional pankhas are culturally rich but risk losing everyday relevance in modern India. |
-| **Main Message** | Crafts can survive when people celebrate, preserve, innovate, and support artisans. |
+| **Main Message**    | Crafts can survive when people celebrate, preserve, innovate, and support artisans.         |
 
 ---
 
@@ -164,51 +165,51 @@ So the title captures both the object and its cultural journey.
 
 ## Historical Importance of Pankhas
 
-| Period / Context | Importance |
-|---|---|
-| **Ancient India** | Pankhis appear in Buddhist wall paintings at Ajanta. |
-| **Temples** | Fans were used to fan deities. |
-| **Royal courts** | Large pankhas were used to fan rulers. |
-| **Trade routes** | Pankhas became cultural goods exchanged across regions. |
-| **Households** | Hand fans were everyday practical objects. |
-| **Modern India** | Many pankhas have become decorative craft items. |
+| Period / Context  | Importance                                              |
+| ----------------- | ------------------------------------------------------- |
+| **Ancient India** | Pankhis appear in Buddhist wall paintings at Ajanta.    |
+| **Temples**       | Fans were used to fan deities.                          |
+| **Royal courts**  | Large pankhas were used to fan rulers.                  |
+| **Trade routes**  | Pankhas became cultural goods exchanged across regions. |
+| **Households**    | Hand fans were everyday practical objects.              |
+| **Modern India**  | Many pankhas have become decorative craft items.        |
 
 ---
 
 ## Regional Types of Pankhas
 
-| State / Region | Type of Fan | Material / Feature |
-|---|---|---|
-| **Rajasthan** | Applique hand fan | Fabric pieces sewn onto cloth with ornamental needlework. |
-| **Rajasthan** | Zardozi hand fan | Gold threadwork, ornate decoration. |
-| **Rajasthan** | Temple hand fan | Engraved brass with a long handle. |
-| **Rajasthan** | Painted hand fan | Cardboard fan with painted images, often offered to gods. |
-| **Gujarat** | Mirror work hand fan | Cotton base decorated with mirror work. |
-| **Gujarat** | Bead hand fan | Colourful beads and silver handle. |
-| **Kutch** | Leather hand fan | Leather decorated with thread and wool. |
-| **West Bengal** | Sola hand fan | Made from the milky-white centre of sola. |
-| **West Bengal** | Tal Patar Pankha | Palm leaf fan. |
-| **Uttar Pradesh** | Phadh hand fan | Gold, silver zari, silk, and satin frills. |
-| **Odisha** | Large palm leaf fan | Recognised for regional use and craft tradition. |
-| **Bihar** | Bamboo hand fan | Colourful and sturdy. |
-| **Tribal communities** | Local handheld fans | Bamboo, grass, metal, palm leaves, cane, silk, brass, geometric patterns. |
+| State / Region         | Type of Fan          | Material / Feature                                                        |
+| ---------------------- | -------------------- | ------------------------------------------------------------------------- |
+| **Rajasthan**          | Applique hand fan    | Fabric pieces sewn onto cloth with ornamental needlework.                 |
+| **Rajasthan**          | Zardozi hand fan     | Gold threadwork, ornate decoration.                                       |
+| **Rajasthan**          | Temple hand fan      | Engraved brass with a long handle.                                        |
+| **Rajasthan**          | Painted hand fan     | Cardboard fan with painted images, often offered to gods.                 |
+| **Gujarat**            | Mirror work hand fan | Cotton base decorated with mirror work.                                   |
+| **Gujarat**            | Bead hand fan        | Colourful beads and silver handle.                                        |
+| **Kutch**              | Leather hand fan     | Leather decorated with thread and wool.                                   |
+| **West Bengal**        | Sola hand fan        | Made from the milky-white centre of sola.                                 |
+| **West Bengal**        | Tal Patar Pankha     | Palm leaf fan.                                                            |
+| **Uttar Pradesh**      | Phadh hand fan       | Gold, silver zari, silk, and satin frills.                                |
+| **Odisha**             | Large palm leaf fan  | Recognised for regional use and craft tradition.                          |
+| **Bihar**              | Bamboo hand fan      | Colourful and sturdy.                                                     |
+| **Tribal communities** | Local handheld fans  | Bamboo, grass, metal, palm leaves, cane, silk, brass, geometric patterns. |
 
 ---
 
 ## Completed Pankha Table
 
-| State | Type of Fan | Material Used |
-|---|---|---|
-| Rajasthan | Applique hand fan | Fabric pieces sewn onto cloth. |
-| Rajasthan | Zardozi hand fan | Gold thread. |
-| Rajasthan | Temple hand fan | Engraved brass. |
-| Gujarat | Mirror work hand fan | Cotton with mirror work. |
-| Gujarat | Beads hand fan | Colourful beads, silver handle. |
-| Kutch / Gujarat | Leather hand fan | Leather, thread, wool. |
-| West Bengal | Sola hand fan | Sola grass. |
-| West Bengal | Tal Patar Pankha | Palm leaf. |
-| Uttar Pradesh | Phadh hand fan | Gold, silver zari, silk, satin frills. |
-| Bihar | Bamboo hand fan | Bamboo. |
+| State           | Type of Fan          | Material Used                          |
+| --------------- | -------------------- | -------------------------------------- |
+| Rajasthan       | Applique hand fan    | Fabric pieces sewn onto cloth.         |
+| Rajasthan       | Zardozi hand fan     | Gold thread.                           |
+| Rajasthan       | Temple hand fan      | Engraved brass.                        |
+| Gujarat         | Mirror work hand fan | Cotton with mirror work.               |
+| Gujarat         | Beads hand fan       | Colourful beads, silver handle.        |
+| Kutch / Gujarat | Leather hand fan     | Leather, thread, wool.                 |
+| West Bengal     | Sola hand fan        | Sola grass.                            |
+| West Bengal     | Tal Patar Pankha     | Palm leaf.                             |
+| Uttar Pradesh   | Phadh hand fan       | Gold, silver zari, silk, satin frills. |
+| Bihar           | Bamboo hand fan      | Bamboo.                                |
 
 ---
 
@@ -236,12 +237,12 @@ Bihar's bamboo fans reflect sturdy practical craft using locally available bambo
 
 ## Changing Role of Pankhas
 
-| Earlier Role | Modern Role |
-|---|---|
-| Daily cooling device. | Decorative craft item. |
-| Used in homes, temples, and courts. | Displayed in homes and exhibitions. |
-| Personal or ritual object. | Commercial product and souvenir. |
-| Local handmade utility. | Heritage object representing craft identity. |
+| Earlier Role                        | Modern Role                                  |
+| ----------------------------------- | -------------------------------------------- |
+| Daily cooling device.               | Decorative craft item.                       |
+| Used in homes, temples, and courts. | Displayed in homes and exhibitions.          |
+| Personal or ritual object.          | Commercial product and souvenir.             |
+| Local handmade utility.             | Heritage object representing craft identity. |
 
 Technology has reduced the need for hand fans in everyday life, but craft awareness has created new markets.
 
@@ -251,12 +252,12 @@ Technology has reduced the need for hand fans in everyday life, but craft awaren
 
 Traditional crafts can survive when preservation and innovation work together.
 
-| Preservation | Innovation |
-|---|---|
-| Protect old techniques. | Create new designs. |
-| Respect cultural meaning. | Make products useful for modern buyers. |
-| Support artisans. | Use exhibitions, workshops, digital markets. |
-| Teach younger generations. | Adapt shape, colour, and display purpose. |
+| Preservation               | Innovation                                   |
+| -------------------------- | -------------------------------------------- |
+| Protect old techniques.    | Create new designs.                          |
+| Respect cultural meaning.  | Make products useful for modern buyers.      |
+| Support artisans.          | Use exhibitions, workshops, digital markets. |
+| Teach younger generations. | Adapt shape, colour, and display purpose.    |
 
 Balance is important. If a craft never changes, it may lose market relevance. If it changes too much, it may lose cultural identity.
 
@@ -266,23 +267,23 @@ Balance is important. If a craft never changes, it may lose market relevance. If
 
 ### Extract 1: Pankhas as Cultural Goods
 
-| Question | Answer Guidance |
-|---|---|
+| Question                                                | Answer Guidance                                                                                                                                        |
+| ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Were pankhas one of the most popular items of commerce? | The extract says they were significant cultural goods, but does not prove they were "one of the most popular"; so the statement is not safely factual. |
-| Why "traditional"? | They are linked to old practices, regional craft, local materials, rituals, and inherited designs. |
-| Why is "exotic and stylish" an opinion? | It expresses a judgement of attractiveness, not a measurable fact. |
-| Reason for common use across India | Hot climate and the practical need for cooling. |
-| Correct assertion from the reason | Each kind of pankha could be distinguished from the other. |
+| Why "traditional"?                                      | They are linked to old practices, regional craft, local materials, rituals, and inherited designs.                                                     |
+| Why is "exotic and stylish" an opinion?                 | It expresses a judgement of attractiveness, not a measurable fact.                                                                                     |
+| Reason for common use across India                      | Hot climate and the practical need for cooling.                                                                                                        |
+| Correct assertion from the reason                       | Each kind of pankha could be distinguished from the other.                                                                                             |
 
 ### Extract 2: Technology and Commercialisation
 
-| Question | Answer Guidance |
-|---|---|
-| Negative impact of technology | Electric fans and cooling devices reduce everyday use of pankhas. |
-| Why call pankhas a culture? | They carry stories, regional designs, craft traditions, rituals, and artisan identity. |
-| Line showing changed role | The idea that the handicraft moved from personal use to commercial business. |
-| Benefit of increased demand | Artisans may gain livelihood, recognition, and wider markets. |
-| Factor behind commercialisation | Economic demand. |
+| Question                        | Answer Guidance                                                                        |
+| ------------------------------- | -------------------------------------------------------------------------------------- |
+| Negative impact of technology   | Electric fans and cooling devices reduce everyday use of pankhas.                      |
+| Why call pankhas a culture?     | They carry stories, regional designs, craft traditions, rituals, and artisan identity. |
+| Line showing changed role       | The idea that the handicraft moved from personal use to commercial business.           |
+| Benefit of increased demand     | Artisans may gain livelihood, recognition, and wider markets.                          |
+| Factor behind commercialisation | Economic demand.                                                                       |
 
 ---
 
@@ -318,52 +319,52 @@ It shows that the pankha has moved from being mainly a practical cooling tool to
 
 ## Opening Vocabulary
 
-| Word | Meaning |
-|---|---|
-| **Indigenous** | Local or native to a place. |
-| **Innovative** | New and original. |
-| **Industrious** | Hard-working. |
-| **Intricate** | Detailed and elaborate. |
-| **Invoked** | Brought out or called forth. |
+| Word            | Meaning                               |
+| --------------- | ------------------------------------- |
+| **Indigenous**  | Local or native to a place.           |
+| **Innovative**  | New and original.                     |
+| **Industrious** | Hard-working.                         |
+| **Intricate**   | Detailed and elaborate.               |
+| **Invoked**     | Brought out or called forth.          |
 | **Initiatives** | Actions taken to improve a situation. |
 
 ---
 
 ## Word Pairs from the Text
 
-| Pair | Category |
-|---|---|
-| exotic and stylish | Appearance |
-| villages and towns | Place |
-| thread and wool | Material |
-| silk and brass | Material |
+| Pair                 | Category   |
+| -------------------- | ---------- |
+| exotic and stylish   | Appearance |
+| villages and towns   | Place      |
+| thread and wool      | Material   |
+| silk and brass       | Material   |
 | ornate and encrusted | Appearance |
-| within and outside | Place |
+| within and outside   | Place      |
 
 ### More Possible Word Pairs
 
-| Pair | Category |
-|---|---|
-| grey and red | Colour |
-| beads and stones | Material |
-| cultures and rituals | Cultural context |
-| beauty and importance | Abstract idea |
-| stories and artistry | Cultural value |
+| Pair                  | Category         |
+| --------------------- | ---------------- |
+| grey and red          | Colour           |
+| beads and stones      | Material         |
+| cultures and rituals  | Cultural context |
+| beauty and importance | Abstract idea    |
+| stories and artistry  | Cultural value   |
 
 ---
 
 ## Fixed Expressions with "and"
 
-| Fixed Expression | Meaning |
-|---|---|
-| **high and dry** | In a difficult situation without help or money. |
-| **wear and tear** | Damage from normal use. |
-| **facts and figures** | Accurate and detailed information. |
-| **thick and thin** | Through problems and difficulties. |
-| **all and sundry** | Everyone, not just selected people. |
-| **time and again** | Often; many times. |
-| **cut and run** | Make a sudden escape. |
-| **hard and fast** | Fixed, strict, and not changeable. |
+| Fixed Expression      | Meaning                                         |
+| --------------------- | ----------------------------------------------- |
+| **high and dry**      | In a difficult situation without help or money. |
+| **wear and tear**     | Damage from normal use.                         |
+| **facts and figures** | Accurate and detailed information.              |
+| **thick and thin**    | Through problems and difficulties.              |
+| **all and sundry**    | Everyone, not just selected people.             |
+| **time and again**    | Often; many times.                              |
+| **cut and run**       | Make a sudden escape.                           |
+| **hard and fast**     | Fixed, strict, and not changeable.              |
 
 ### Example Sentences
 
@@ -393,13 +394,13 @@ Examples:
 
 ### Correct Collocations
 
-| Sentence | Correct Choice |
-|---|---|
-| The students have to ___ the English exam tomorrow. | take |
-| The interviewer asked the candidate to ___ a seat. | have |
-| My scooter ___ a car. | ran into |
-| I must ___ responsibility for my success. | take |
-| I would like to ___ my grammar. | improve |
+| Sentence                                               | Correct Choice |
+| ------------------------------------------------------ | -------------- |
+| The students have to \_\_\_ the English exam tomorrow. | take           |
+| The interviewer asked the candidate to \_\_\_ a seat.  | have           |
+| My scooter \_\_\_ a car.                               | ran into       |
+| I must \_\_\_ responsibility for my success.           | take           |
+| I would like to \_\_\_ my grammar.                     | improve        |
 
 ---
 
@@ -411,10 +412,10 @@ The present perfect tense connects a past action with present relevance.
 
 ### Structure
 
-| Subject | Helping Verb | Past Participle |
-|---|---|---|
-| I / you / we / they | have | worked |
-| he / she / it | has | worked |
+| Subject             | Helping Verb | Past Participle |
+| ------------------- | ------------ | --------------- |
+| I / you / we / they | have         | worked          |
+| he / she / it       | has          | worked          |
 
 Examples:
 
@@ -426,12 +427,12 @@ Examples:
 
 ## Uses of Present Perfect
 
-| Use | Example |
-|---|---|
-| Past action with present result | The fan has become a decorative item. |
-| Recently completed action | The artisan has finished the design. |
-| Life experience | I have seen a mirror work hand fan. |
-| Continuing relevance | Craftspeople have worked for generations. |
+| Use                             | Example                                   |
+| ------------------------------- | ----------------------------------------- |
+| Past action with present result | The fan has become a decorative item.     |
+| Recently completed action       | The artisan has finished the design.      |
+| Life experience                 | I have seen a mirror work hand fan.       |
+| Continuing relevance            | Craftspeople have worked for generations. |
 
 ---
 
@@ -443,12 +444,12 @@ Puppets **have long fascinated** audiences worldwide. Puppeteers **have created*
 
 ## Common Errors
 
-| Error | Correction | Reason |
-|---|---|---|
-| She have made a fan. | She has made a fan. | Use "has" with she/he/it. |
-| They has worked hard. | They have worked hard. | Use "have" with they/we/you/I. |
-| He has make a pankha. | He has made a pankha. | Use past participle after has/have. |
-| I have saw this craft. | I have seen this craft. | Past participle of see is seen. |
+| Error                  | Correction              | Reason                              |
+| ---------------------- | ----------------------- | ----------------------------------- |
+| She have made a fan.   | She has made a fan.     | Use "has" with she/he/it.           |
+| They has worked hard.  | They have worked hard.  | Use "have" with they/we/you/I.      |
+| He has make a pankha.  | He has made a pankha.   | Use past participle after has/have. |
+| I have saw this craft. | I have seen this craft. | Past participle of see is seen.     |
 
 ---
 
@@ -486,16 +487,16 @@ A factual description gives information, not personal opinion.
 
 ### What to Include
 
-| Point | What to Write |
-|---|---|
-| Name | What is the object called? |
-| Appearance | Shape, size, colour, design. |
-| Material | What is it made of? |
-| Region | Where does it come from? |
-| Traditional use | How was it used earlier? |
-| Making process | Main steps. |
-| Present use | How is it used today? |
-| Safety / care | How to handle it properly. |
+| Point           | What to Write                |
+| --------------- | ---------------------------- |
+| Name            | What is the object called?   |
+| Appearance      | Shape, size, colour, design. |
+| Material        | What is it made of?          |
+| Region          | Where does it come from?     |
+| Traditional use | How was it used earlier?     |
+| Making process  | Main steps.                  |
+| Present use     | How is it used today?        |
+| Safety / care   | How to handle it properly.   |
 
 ### Model Factual Description
 
@@ -525,13 +526,13 @@ Choose one regional craft and prepare a presentation.
 
 ### Example: Blue Pottery of Jaipur
 
-| Point | Information |
-|---|---|
-| Region | Jaipur, Rajasthan |
-| Materials | Quartz powder, glass, gum, multani mitti, colours |
-| Features | Blue-white designs, floral patterns, glazed surface |
-| Uses | Tiles, bowls, vases, plates, decorative items |
-| Challenges | Machine competition, fragile products, market access |
+| Point        | Information                                             |
+| ------------ | ------------------------------------------------------- |
+| Region       | Jaipur, Rajasthan                                       |
+| Materials    | Quartz powder, glass, gum, multani mitti, colours       |
+| Features     | Blue-white designs, floral patterns, glazed surface     |
+| Uses         | Tiles, bowls, vases, plates, decorative items           |
+| Challenges   | Machine competition, fragile products, market access    |
 | Preservation | Workshops, exhibitions, online sales, design innovation |
 
 ---
@@ -542,12 +543,12 @@ O. Henry's "The Last Leaf" is a story about hope, friendship, art, and sacrifice
 
 ### Connection with This Chapter
 
-| Winds of Change / Canvas of Soil | The Last Leaf |
-|---|---|
-| Art preserves memory and meaning. | Behrman's art saves Johnsy's hope. |
-| Handmade creation has value. | The painted leaf becomes priceless. |
-| Nature and art are connected. | A painted leaf imitates a natural leaf. |
-| Creative work can change lives. | Behrman's painting helps Johnsy recover emotionally. |
+| Winds of Change / Canvas of Soil  | The Last Leaf                                        |
+| --------------------------------- | ---------------------------------------------------- |
+| Art preserves memory and meaning. | Behrman's art saves Johnsy's hope.                   |
+| Handmade creation has value.      | The painted leaf becomes priceless.                  |
+| Nature and art are connected.     | A painted leaf imitates a natural leaf.              |
+| Creative work can change lives.   | Behrman's painting helps Johnsy recover emotionally. |
 
 ---
 
@@ -555,15 +556,15 @@ O. Henry's "The Last Leaf" is a story about hope, friendship, art, and sacrifice
 
 ## Text Identity
 
-| Detail | Information |
-|---|---|
-| **Title** | Canvas of Soil |
-| **Poet** | Maya Anthony |
-| **Genre** | Nature poem / reflective lyric |
-| **Main Subject** | A garden imagined as a painting. |
+| Detail               | Information                                                    |
+| -------------------- | -------------------------------------------------------------- |
+| **Title**            | Canvas of Soil                                                 |
+| **Poet**             | Maya Anthony                                                   |
+| **Genre**            | Nature poem / reflective lyric                                 |
+| **Main Subject**     | A garden imagined as a painting.                               |
 | **Central Metaphor** | Soil as palette, seeds as brushstrokes, garden plot as canvas. |
-| **Mood** | Joyful and peaceful. |
-| **Tone** | Appreciative and admiring. |
+| **Mood**             | Joyful and peaceful.                                           |
+| **Tone**             | Appreciative and admiring.                                     |
 
 ---
 
@@ -591,36 +592,36 @@ Each garden plot is compared to a wide canvas. The work of gardeners brings toge
 
 ## Summary Completion
 
-| Stanza | Completed Meaning |
-|---|---|
-| 1 | The **earth** is portrayed as a rich palette where gardeners' **dreams** flourish in the form of **seeds**, awaiting spring. |
-| 2 | The garden flowers **bloom** into a beautiful display of different **blossoms**, resembling a **painting** by Mother Nature. |
-| 3 | Each garden is likened to a wide **canvas**, integrating art and **life**. Through gardeners' efforts, gardens transform into still-life **paintings**. |
+| Stanza | Completed Meaning                                                                                                                                       |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | The **earth** is portrayed as a rich palette where gardeners' **dreams** flourish in the form of **seeds**, awaiting spring.                            |
+| 2      | The garden flowers **bloom** into a beautiful display of different **blossoms**, resembling a **painting** by Mother Nature.                            |
+| 3      | Each garden is likened to a wide **canvas**, integrating art and **life**. Through gardeners' efforts, gardens transform into still-life **paintings**. |
 
 ---
 
 ## Titles for Stanzas
 
-| Stanza | Suitable Title |
-|---|---|
-| Stanza 1 | Earth and Possibilities |
-| Stanza 2 | Nature's Work of Art |
+| Stanza   | Suitable Title             |
+| -------- | -------------------------- |
+| Stanza 1 | Earth and Possibilities    |
+| Stanza 2 | Nature's Work of Art       |
 | Stanza 3 | Gardens as Living Canvases |
 
 ---
 
 ## Poetic Devices
 
-| Device | Example / Explanation |
-|---|---|
-| **Imagery** | Colours, blossoms, morning light, shades of green, red, and blue. |
-| **Metaphor** | Garden plot as canvas; seeds as brushstrokes; earth as palette. |
-| **Rhyme scheme** | AABB pattern in the poem's couplets. |
-| **Tone** | Appreciative. |
-| **Mood** | Joyful. |
-| **Speaker** | A person observing and admiring the garden as art. |
-| **Alliteration** | Repeated consonant sound in phrases such as "blossoms bloom". |
-| **Allegory** | Garden can represent life, growth, harmony, and diversity. |
+| Device           | Example / Explanation                                             |
+| ---------------- | ----------------------------------------------------------------- |
+| **Imagery**      | Colours, blossoms, morning light, shades of green, red, and blue. |
+| **Metaphor**     | Garden plot as canvas; seeds as brushstrokes; earth as palette.   |
+| **Rhyme scheme** | AABB pattern in the poem's couplets.                              |
+| **Tone**         | Appreciative.                                                     |
+| **Mood**         | Joyful.                                                           |
+| **Speaker**      | A person observing and admiring the garden as art.                |
+| **Alliteration** | Repeated consonant sound in phrases such as "blossoms bloom".     |
+| **Allegory**     | Garden can represent life, growth, harmony, and diversity.        |
 
 ---
 
@@ -642,34 +643,34 @@ At a deeper level, it may represent:
 
 ### Extract 1: Seeds and Spring
 
-| Question | Answer Guidance |
-|---|---|
-| Which option uses metaphor? | "She has a heart of gold" uses metaphor. |
-| Meaning of "planted true" | Seeds are planted carefully, sincerely, and correctly. |
-| Why "hue" instead of "colours"? | "Hue" is more poetic and precise; it suggests shades and artistic tone. |
-| Analogy: Summer: hot :: Spring: ? | vibrant / colourful / blooming. |
-| Assertion and reason | Gardeners wait for spring; gardens become visually rich in spring, so the reason supports the assertion. |
+| Question                          | Answer Guidance                                                                                          |
+| --------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| Which option uses metaphor?       | "She has a heart of gold" uses metaphor.                                                                 |
+| Meaning of "planted true"         | Seeds are planted carefully, sincerely, and correctly.                                                   |
+| Why "hue" instead of "colours"?   | "Hue" is more poetic and precise; it suggests shades and artistic tone.                                  |
+| Analogy: Summer: hot :: Spring: ? | vibrant / colourful / blooming.                                                                          |
+| Assertion and reason              | Gardeners wait for spring; gardens become visually rich in spring, so the reason supports the assertion. |
 
 ### Extract 2: Plot as Canvas
 
-| Question | Answer Guidance |
-|---|---|
-| What does "each plot" refer to? | Each section of garden soil. |
-| Rhyme scheme imitation | Choose the option where the end sounds match as a couplet. |
-| Line showing art and natural growth | The line about art and life coinciding. |
-| Meaning of plot as canvas | The garden is a space where living art is created. |
-| Why "wide" instead of "long"? | "Wide" suggests openness, space, and a painting surface. |
+| Question                            | Answer Guidance                                            |
+| ----------------------------------- | ---------------------------------------------------------- |
+| What does "each plot" refer to?     | Each section of garden soil.                               |
+| Rhyme scheme imitation              | Choose the option where the end sounds match as a couplet. |
+| Line showing art and natural growth | The line about art and life coinciding.                    |
+| Meaning of plot as canvas           | The garden is a space where living art is created.         |
+| Why "wide" instead of "long"?       | "Wide" suggests openness, space, and a painting surface.   |
 
 ---
 
 ## Comparison Questions
 
-| Comparison | Reason |
-|---|---|
-| Painter and gardener | Both create beauty through planning, skill, and imagination. |
-| Palette and earth | Both hold the source of future colours. |
-| Brushstrokes and seeds | Both are small actions that build the final artwork. |
-| Canvas and garden plot | Both are surfaces on which creative work appears. |
+| Comparison             | Reason                                                       |
+| ---------------------- | ------------------------------------------------------------ |
+| Painter and gardener   | Both create beauty through planning, skill, and imagination. |
+| Palette and earth      | Both hold the source of future colours.                      |
+| Brushstrokes and seeds | Both are small actions that build the final artwork.         |
+| Canvas and garden plot | Both are surfaces on which creative work appears.            |
 
 ---
 
@@ -705,37 +706,37 @@ The title is suitable because the poem imagines soil as the surface on which gar
 
 ## Colour Vocabulary
 
-| Colour Family | Shades |
-|---|---|
-| **Blue** | Navy blue, indigo, cobalt blue, denim, sky blue, ice blue |
-| **Green** | Pine green, India green, apple green, jade, olive, pistachio |
-| **Red** | Rusty red, salmon, scarlet, crimson, blood red, vermilion |
+| Colour Family | Shades                                                       |
+| ------------- | ------------------------------------------------------------ |
+| **Blue**      | Navy blue, indigo, cobalt blue, denim, sky blue, ice blue    |
+| **Green**     | Pine green, India green, apple green, jade, olive, pistachio |
+| **Red**       | Rusty red, salmon, scarlet, crimson, blood red, vermilion    |
 
 ### Association Examples
 
-| Shade | Possible Association |
-|---|---|
-| Navy blue | Night sky, school blazer |
-| Sky blue | Clear morning sky |
-| Pine green | Forest trees |
-| Olive | Leaves, military uniforms |
-| Crimson | Roses, sunset |
-| Vermilion | Traditional markings, festive colour |
+| Shade      | Possible Association                 |
+| ---------- | ------------------------------------ |
+| Navy blue  | Night sky, school blazer             |
+| Sky blue   | Clear morning sky                    |
+| Pine green | Forest trees                         |
+| Olive      | Leaves, military uniforms            |
+| Crimson    | Roses, sunset                        |
+| Vermilion  | Traditional markings, festive colour |
 
 ---
 
 ## Painting Vocabulary
 
-| Word | Meaning |
-|---|---|
-| **Easel** | Stand that holds a canvas. |
-| **Canvas** | Surface used for painting. |
-| **Tonal range** | Range of light and dark shades. |
-| **Shade** | Darker or lighter form of a colour. |
-| **Hue** | Colour or shade. |
-| **Portrait** | Picture of a person, especially face and upper body. |
-| **Underpainting** | First layer of paint forming the base. |
-| **Mural** | Large painting on a wall. |
+| Word              | Meaning                                              |
+| ----------------- | ---------------------------------------------------- |
+| **Easel**         | Stand that holds a canvas.                           |
+| **Canvas**        | Surface used for painting.                           |
+| **Tonal range**   | Range of light and dark shades.                      |
+| **Shade**         | Darker or lighter form of a colour.                  |
+| **Hue**           | Colour or shade.                                     |
+| **Portrait**      | Picture of a person, especially face and upper body. |
+| **Underpainting** | First layer of paint forming the base.               |
+| **Mural**         | Large painting on a wall.                            |
 
 ---
 
@@ -767,15 +768,15 @@ I prefer a vegetable garden to a flower garden because it is useful as well as b
 
 ### What to Include
 
-| Focus | Details |
-|---|---|
-| Colours | Shades of green, red, blue, yellow, white. |
-| Texture | Soft petals, rough bark, smooth leaves, damp soil. |
-| Light | Morning sunlight, shadow, evening glow. |
-| Arrangement | Rows, borders, pots, pathways. |
-| Movement | Bees, butterflies, swaying leaves. |
-| Sound | Birds, wind, water, insects. |
-| Smell | Flowers, wet soil, herbs. |
+| Focus       | Details                                            |
+| ----------- | -------------------------------------------------- |
+| Colours     | Shades of green, red, blue, yellow, white.         |
+| Texture     | Soft petals, rough bark, smooth leaves, damp soil. |
+| Light       | Morning sunlight, shadow, evening glow.            |
+| Arrangement | Rows, borders, pots, pathways.                     |
+| Movement    | Bees, butterflies, swaying leaves.                 |
+| Sound       | Birds, wind, water, insects.                       |
+| Smell       | Flowers, wet soil, herbs.                          |
 
 ### Model Descriptive Piece
 
@@ -856,12 +857,12 @@ Toru Dutt's poem presents a garden full of rich colour contrasts. It describes d
 
 ### Connection with Canvas of Soil
 
-| Canvas of Soil | A Sea of Foliage |
-|---|---|
-| Garden is compared to a painting. | Garden is described through dense visual imagery. |
-| Focuses on gardener's creative work. | Focuses on natural richness and colour contrast. |
-| Uses art vocabulary. | Uses strong nature imagery. |
-| Suggests harmony of art and life. | Suggests overwhelming beauty of nature. |
+| Canvas of Soil                       | A Sea of Foliage                                  |
+| ------------------------------------ | ------------------------------------------------- |
+| Garden is compared to a painting.    | Garden is described through dense visual imagery. |
+| Focuses on gardener's creative work. | Focuses on natural richness and colour contrast.  |
+| Uses art vocabulary.                 | Uses strong nature imagery.                       |
+| Suggests harmony of art and life.    | Suggests overwhelming beauty of nature.           |
 
 ---
 
@@ -869,40 +870,40 @@ Toru Dutt's poem presents a garden full of rich colour contrasts. It describes d
 
 ### Prose
 
-| Item | Key Point |
-|---|---|
-| Main prose | Winds of Change |
-| Object studied | Pankha / traditional hand fan |
-| Main issue | Craft losing everyday use due to modern technology |
-| Main solution | Preserve, innovate, celebrate, and support artisans |
-| Grammar | Present perfect tense |
-| Writing | Factual artefact description |
+| Item           | Key Point                                           |
+| -------------- | --------------------------------------------------- |
+| Main prose     | Winds of Change                                     |
+| Object studied | Pankha / traditional hand fan                       |
+| Main issue     | Craft losing everyday use due to modern technology  |
+| Main solution  | Preserve, innovate, celebrate, and support artisans |
+| Grammar        | Present perfect tense                               |
+| Writing        | Factual artefact description                        |
 
 ### Poem
 
-| Item | Key Point |
-|---|---|
-| Poem | Canvas of Soil |
-| Poet | Maya Anthony |
-| Main metaphor | Garden as painting |
-| Mood | Joyful |
-| Tone | Appreciative |
-| Rhyme | AABB couplets |
-| Main devices | Metaphor, imagery, alliteration, allegory |
+| Item          | Key Point                                 |
+| ------------- | ----------------------------------------- |
+| Poem          | Canvas of Soil                            |
+| Poet          | Maya Anthony                              |
+| Main metaphor | Garden as painting                        |
+| Mood          | Joyful                                    |
+| Tone          | Appreciative                              |
+| Rhyme         | AABB couplets                             |
+| Main devices  | Metaphor, imagery, alliteration, allegory |
 
 ---
 
 ## Common Mistakes and Corrections
 
-| Mistake | Better Understanding |
-|---|---|
-| Treating pankhas as only old cooling tools. | They are craft objects carrying cultural identity. |
-| Saying technology is only harmful. | It reduces daily use but can also help market crafts. |
-| Confusing fact and opinion. | "Stylish" is opinion; material and region are facts. |
-| Using simple past instead of present perfect. | Use present perfect when past action has present relevance. |
-| Writing opinion in factual description. | Factual description should be objective. |
-| Seeing "Canvas of Soil" only as a garden poem. | It is also about art, creativity, life, and growth. |
-| Missing the main metaphor. | Soil, seeds, and garden plot are compared to art materials. |
+| Mistake                                        | Better Understanding                                        |
+| ---------------------------------------------- | ----------------------------------------------------------- |
+| Treating pankhas as only old cooling tools.    | They are craft objects carrying cultural identity.          |
+| Saying technology is only harmful.             | It reduces daily use but can also help market crafts.       |
+| Confusing fact and opinion.                    | "Stylish" is opinion; material and region are facts.        |
+| Using simple past instead of present perfect.  | Use present perfect when past action has present relevance. |
+| Writing opinion in factual description.        | Factual description should be objective.                    |
+| Seeing "Canvas of Soil" only as a garden poem. | It is also about art, creativity, life, and growth.         |
+| Missing the main metaphor.                     | Soil, seeds, and garden plot are compared to art materials. |
 
 ---
 
@@ -981,4 +982,4 @@ For grammar:
 
 ---
 
-*Source: NCERT Class 9 - English Beehive, Chapter 3 raw file. Learner-facing version manually rewritten from the extracted chapter content about pankhas, craft preservation, and garden imagery.*
+_Source: NCERT Class 9 - English Beehive, Chapter 3 raw file. Learner-facing version manually rewritten from the extracted chapter content about pankhas, craft preservation, and garden imagery._

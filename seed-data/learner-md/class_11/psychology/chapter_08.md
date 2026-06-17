@@ -1,4 +1,5 @@
 # Chapter 8: Thinking
+
 ### NCERT Class 11 Psychology
 
 ---
@@ -114,13 +115,13 @@ Steps:
 
 ## 5. Barriers to Problem Solving
 
-| Barrier | Meaning | Example |
-|---|---|---|
-| Mental set | Using an old strategy even when it does not fit | Solving every problem with the same formula |
-| Functional fixedness | Seeing an object only in its usual function | Not using a book as a paperweight |
-| Lack of motivation | Not trying deeply enough | Giving up early |
-| Emotional block | Anxiety interferes with thinking | Exam panic |
-| Limited knowledge | Missing required information | Not knowing the rule needed |
+| Barrier              | Meaning                                         | Example                                     |
+| -------------------- | ----------------------------------------------- | ------------------------------------------- |
+| Mental set           | Using an old strategy even when it does not fit | Solving every problem with the same formula |
+| Functional fixedness | Seeing an object only in its usual function     | Not using a book as a paperweight           |
+| Lack of motivation   | Not trying deeply enough                        | Giving up early                             |
+| Emotional block      | Anxiety interferes with thinking                | Exam panic                                  |
+| Limited knowledge    | Missing required information                    | Not knowing the rule needed                 |
 
 ---
 
@@ -165,10 +166,10 @@ Characteristics:
 
 ## 8. Convergent and Divergent Thinking
 
-| Type | Meaning | Example |
-|---|---|---|
-| Convergent thinking | Finding one correct answer | Solving a math equation |
-| Divergent thinking | Generating many possible answers | Listing uses of a brick |
+| Type                | Meaning                          | Example                 |
+| ------------------- | -------------------------------- | ----------------------- |
+| Convergent thinking | Finding one correct answer       | Solving a math equation |
+| Divergent thinking  | Generating many possible answers | Listing uses of a brick |
 
 Divergent thinking is important in creativity because it expands possibilities.
 
@@ -176,12 +177,12 @@ Divergent thinking is important in creativity because it expands possibilities.
 
 ## 9. Stages of Creative Thinking
 
-| Stage | Meaning |
-|---|---|
-| Preparation | Understanding the problem and gathering information |
-| Incubation | Letting ideas develop unconsciously |
-| Illumination | Sudden insight or solution |
-| Verification | Testing and refining the idea |
+| Stage        | Meaning                                             |
+| ------------ | --------------------------------------------------- |
+| Preparation  | Understanding the problem and gathering information |
+| Incubation   | Letting ideas develop unconsciously                 |
+| Illumination | Sudden insight or solution                          |
+| Verification | Testing and refining the idea                       |
 
 Creativity needs both freedom and evaluation.
 
@@ -189,10 +190,10 @@ Creativity needs both freedom and evaluation.
 
 ## 10. Vertical and Lateral Thinking
 
-| Type | Meaning |
-|---|---|
-| Vertical thinking | Step-by-step logical movement |
-| Lateral thinking | Looking for alternative approaches and fresh perspectives |
+| Type              | Meaning                                                   |
+| ----------------- | --------------------------------------------------------- |
+| Vertical thinking | Step-by-step logical movement                             |
+| Lateral thinking  | Looking for alternative approaches and fresh perspectives |
 
 Both are useful. Vertical thinking checks logic; lateral thinking opens new possibilities.
 
@@ -220,13 +221,13 @@ The linguistic relativity hypothesis suggests that language influences thought a
 
 ## 12. Common Mistakes
 
-| Mistake | Correct understanding |
-|---|---|
-| Saying thinking always needs language | Thinking can use images and actions too. |
+| Mistake                                 | Correct understanding                                         |
+| --------------------------------------- | ------------------------------------------------------------- |
+| Saying thinking always needs language   | Thinking can use images and actions too.                      |
 | Confusing reasoning and decision-making | Reasoning draws conclusions; decision-making chooses actions. |
-| Thinking creativity means only art | Creativity appears in everyday problem solving. |
-| Ignoring divergent thinking | Creativity needs many possible ideas before selection. |
-| Treating mental set as always useful | Old strategies can block new solutions. |
+| Thinking creativity means only art      | Creativity appears in everyday problem solving.               |
+| Ignoring divergent thinking             | Creativity needs many possible ideas before selection.        |
+| Treating mental set as always useful    | Old strategies can block new solutions.                       |
 
 ---
 

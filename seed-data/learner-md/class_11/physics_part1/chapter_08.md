@@ -1,4 +1,5 @@
 # Chapter 8: Mechanical Properties of Solids
+
 ### NCERT Class 11 - Physics Part 1
 
 ---
@@ -19,13 +20,13 @@ This file should be studied as a method guide. The goal is not to memorise isola
 
 ## Chapter at a Glance
 
-| Area | What The Extracted Source Gives |
-| --- | --- |
-| Nature of source | Answer-key fragments, hints, final numerical results, and short explanations |
-| Main physics skills | Dimensional checking, vector reasoning, force analysis, energy reasoning, rotation, and gravitation |
-| Best way to study | Group each answer by the principle it uses |
-| Most important habit | Always identify the system, quantities, units, direction, and condition before using a formula |
-| Warning | A final answer without reasoning is weak; the method behind it is what helps in exams |
+| Area                 | What The Extracted Source Gives                                                                     |
+| -------------------- | --------------------------------------------------------------------------------------------------- |
+| Nature of source     | Answer-key fragments, hints, final numerical results, and short explanations                        |
+| Main physics skills  | Dimensional checking, vector reasoning, force analysis, energy reasoning, rotation, and gravitation |
+| Best way to study    | Group each answer by the principle it uses                                                          |
+| Most important habit | Always identify the system, quantities, units, direction, and condition before using a formula      |
+| Warning              | A final answer without reasoning is weak; the method behind it is what helps in exams               |
 
 ---
 
@@ -35,14 +36,14 @@ Read every extracted answer as the end of a solution, not as the whole solution.
 
 For every answer fragment, ask:
 
-| Question | Why It Matters |
-| --- | --- |
-| What physical situation is being described? | Without the situation, a formula is only a symbol pattern. |
-| Which quantity is known? | This prevents random substitution. |
-| Which quantity is required? | This keeps the solution focused. |
-| Which law applies? | Physics answers must rest on a principle. |
-| What is the direction or sign? | Many mechanics answers are wrong because direction is ignored. |
-| Is the unit sensible? | A unit check catches many numerical and conceptual mistakes. |
+| Question                                    | Why It Matters                                                 |
+| ------------------------------------------- | -------------------------------------------------------------- |
+| What physical situation is being described? | Without the situation, a formula is only a symbol pattern.     |
+| Which quantity is known?                    | This prevents random substitution.                             |
+| Which quantity is required?                 | This keeps the solution focused.                               |
+| Which law applies?                          | Physics answers must rest on a principle.                      |
+| What is the direction or sign?              | Many mechanics answers are wrong because direction is ignored. |
+| Is the unit sensible?                       | A unit check catches many numerical and conceptual mistakes.   |
 
 ---
 
@@ -78,13 +79,13 @@ That is the standard expected in these notes: recover the reasoning behind the c
 
 ## The Standard Five-Step Physics Solution
 
-| Step | Learner Action | Example |
-| --- | --- | --- |
-| 1 | Identify the system | Person, stone, helicopter, coin, disc, bead, or planet |
-| 2 | Draw or imagine the forces | Weight, normal reaction, tension, friction, thrust |
-| 3 | Choose the law | Newton's laws, conservation of momentum, work-energy theorem, rolling condition |
-| 4 | Write the equation with units | `F = ma`, `K = (1/2)mv^2`, `v = R omega` |
-| 5 | Interpret the result | Direction, sign, scale reading, whether the object slips or stays |
+| Step | Learner Action                | Example                                                                         |
+| ---- | ----------------------------- | ------------------------------------------------------------------------------- |
+| 1    | Identify the system           | Person, stone, helicopter, coin, disc, bead, or planet                          |
+| 2    | Draw or imagine the forces    | Weight, normal reaction, tension, friction, thrust                              |
+| 3    | Choose the law                | Newton's laws, conservation of momentum, work-energy theorem, rolling condition |
+| 4    | Write the equation with units | `F = ma`, `K = (1/2)mv^2`, `v = R omega`                                        |
+| 5    | Interpret the result          | Direction, sign, scale reading, whether the object slips or stays               |
 
 ---
 
@@ -148,12 +149,12 @@ m = m0 (1 - v^2/c^2)^(-1/2)
 
 ### Meaning Of Symbols
 
-| Symbol | Meaning |
-| --- | --- |
-| `m` | relativistic mass |
-| `m0` | rest mass |
-| `v` | speed of the body |
-| `c` | speed of light in vacuum |
+| Symbol | Meaning                  |
+| ------ | ------------------------ |
+| `m`    | relativistic mass        |
+| `m0`   | rest mass                |
+| `v`    | speed of the body        |
+| `c`    | speed of light in vacuum |
 
 ### Why The Formula Passes A Dimension Check
 
@@ -183,9 +184,9 @@ A parsec is an astronomical distance unit. It is used because distances between 
 
 ### What To Remember
 
-| Quantity | Value |
-| --- | --- |
-| 1 parsec | `3.084 x 10^16 m` |
+| Quantity      | Value               |
+| ------------- | ------------------- |
+| 1 parsec      | `3.084 x 10^16 m`   |
 | Approximation | about `3 x 10^16 m` |
 
 ### Common Mistake
@@ -229,12 +230,12 @@ If a stone falls vertically while we plot height against time, the graph may be 
 
 ## What Makes A Motion Graph Impossible?
 
-| Graph Error | Why It Is Impossible |
-| --- | --- |
-| One body has two positions at the same time | A single particle cannot be at two different locations at one instant. |
-| Velocity has two opposite values at the same time | A single velocity value is defined at a given instant. |
-| Speed becomes negative | Speed is a magnitude and cannot be negative. |
-| Total path length decreases with time | Distance travelled cannot undo itself. |
+| Graph Error                                       | Why It Is Impossible                                                   |
+| ------------------------------------------------- | ---------------------------------------------------------------------- |
+| One body has two positions at the same time       | A single particle cannot be at two different locations at one instant. |
+| Velocity has two opposite values at the same time | A single velocity value is defined at a given instant.                 |
+| Speed becomes negative                            | Speed is a magnitude and cannot be negative.                           |
+| Total path length decreases with time             | Distance travelled cannot undo itself.                                 |
 
 ---
 
@@ -274,14 +275,14 @@ x > 0, v > 0, a < 0
 
 The sign of a quantity depends on the chosen positive direction.
 
-| Quantity | What Its Sign Means |
-| --- | --- |
-| `x > 0` | position is on the positive side of origin |
-| `x < 0` | position is on the negative side of origin |
-| `v > 0` | motion is along positive direction |
-| `v < 0` | motion is along negative direction |
-| `a > 0` | acceleration is along positive direction |
-| `a < 0` | acceleration is along negative direction |
+| Quantity | What Its Sign Means                        |
+| -------- | ------------------------------------------ |
+| `x > 0`  | position is on the positive side of origin |
+| `x < 0`  | position is on the negative side of origin |
+| `v > 0`  | motion is along positive direction         |
+| `v < 0`  | motion is along negative direction         |
+| `a > 0`  | acceleration is along positive direction   |
+| `a < 0`  | acceleration is along negative direction   |
 
 ### Common Mistake
 
@@ -299,13 +300,13 @@ The recovered source lists examples of scalar and vector quantities.
 
 Scalars have magnitude only.
 
-| Scalar | Meaning |
-| --- | --- |
-| Volume | amount of space occupied |
-| Mass | amount of matter |
-| Speed | rate of distance travelled |
-| Density | mass per unit volume |
-| Number of moles | amount of substance |
+| Scalar            | Meaning                          |
+| ----------------- | -------------------------------- |
+| Volume            | amount of space occupied         |
+| Mass              | amount of matter                 |
+| Speed             | rate of distance travelled       |
+| Density           | mass per unit volume             |
+| Number of moles   | amount of substance              |
 | Angular frequency | rate of angular cycle repetition |
 
 ### Vectors
@@ -669,12 +670,12 @@ The source mentions that the centre of mass may lie outside a body.
 
 ### Examples
 
-| Body | Where Centre Of Mass May Lie |
-| --- | --- |
-| Ring | at the empty centre |
-| Hollow sphere | at the geometric centre |
+| Body            | Where Centre Of Mass May Lie         |
+| --------------- | ------------------------------------ |
+| Ring            | at the empty centre                  |
+| Hollow sphere   | at the geometric centre              |
 | Hollow cylinder | on the axis, possibly in empty space |
-| Hollow cube | at geometric centre |
+| Hollow cube     | at geometric centre                  |
 
 ### Learner Explanation
 
@@ -919,14 +920,14 @@ v_e = sqrt(2gR)
 
 ### What Escape Velocity Depends On
 
-| Factor | Does Escape Velocity Depend On It? | Reason |
-| --- | --- | --- |
-| Mass of projected body | No | Mass cancels in energy equation |
-| Direction of projection | No, if no atmosphere and same point | It is a required speed, not a direction |
-| Planet mass | Yes | Stronger gravity needs greater escape speed |
-| Planet radius | Yes | Larger radius changes gravitational potential |
-| Height of launch | Slightly | Potential changes with height |
-| Latitude | Slightly | Effective gravity changes due to rotation and shape |
+| Factor                  | Does Escape Velocity Depend On It?  | Reason                                              |
+| ----------------------- | ----------------------------------- | --------------------------------------------------- |
+| Mass of projected body  | No                                  | Mass cancels in energy equation                     |
+| Direction of projection | No, if no atmosphere and same point | It is a required speed, not a direction             |
+| Planet mass             | Yes                                 | Stronger gravity needs greater escape speed         |
+| Planet radius           | Yes                                 | Larger radius changes gravitational potential       |
+| Height of launch        | Slightly                            | Potential changes with height                       |
+| Latitude                | Slightly                            | Effective gravity changes due to rotation and shape |
 
 ### Why Mass Cancels
 
@@ -961,12 +962,12 @@ This is a symmetry argument. Instead of directly calculating the field of a hemi
 
 ### Key Ideas
 
-| Term | Meaning |
-| --- | --- |
-| Gravitational potential | Work-related scalar quantity |
-| Gravitational intensity | Gravitational field; force per unit mass |
-| Constant potential | No spatial change in potential |
-| Zero intensity | Field is zero where potential has no gradient |
+| Term                    | Meaning                                       |
+| ----------------------- | --------------------------------------------- |
+| Gravitational potential | Work-related scalar quantity                  |
+| Gravitational intensity | Gravitational field; force per unit mass      |
+| Constant potential      | No spatial change in potential                |
+| Zero intensity          | Field is zero where potential has no gradient |
 
 ### Answer-Writing Frame
 
@@ -1027,9 +1028,9 @@ omega^2 R = 1.1 x 10^6 m s^-2
 
 ### Meaning Of The Two Quantities
 
-| Quantity | Meaning |
-| --- | --- |
-| `GM/R^2` | gravitational acceleration at the surface |
+| Quantity    | Meaning                                                   |
+| ----------- | --------------------------------------------------------- |
+| `GM/R^2`    | gravitational acceleration at the surface                 |
 | `omega^2 R` | outward centrifugal-effect acceleration in rotating frame |
 
 ### Comparison
@@ -1092,55 +1093,55 @@ If a question gives a change in `g` with height, decide whether to use the exact
 
 ## Units And Dimensions
 
-| Formula Or Idea | Meaning |
-| --- | --- |
-| `tan theta = v/v'` | trigonometric ratios must be dimensionless |
-| `m = m0(1 - v^2/c^2)^(-1/2)` | relativistic mass pattern |
-| `1 parsec = 3.084 x 10^16 m` | astronomical length unit |
+| Formula Or Idea              | Meaning                                    |
+| ---------------------------- | ------------------------------------------ |
+| `tan theta = v/v'`           | trigonometric ratios must be dimensionless |
+| `m = m0(1 - v^2/c^2)^(-1/2)` | relativistic mass pattern                  |
+| `1 parsec = 3.084 x 10^16 m` | astronomical length unit                   |
 
 ## Motion
 
-| Formula Or Idea | Meaning |
-| --- | --- |
-| `v = u + at` | velocity under constant acceleration |
-| `x = ut + (1/2)at^2` | displacement under constant acceleration |
-| `a = 9.8 m s^-2 downward` | acceleration due to gravity near Earth |
+| Formula Or Idea           | Meaning                                  |
+| ------------------------- | ---------------------------------------- |
+| `v = u + at`              | velocity under constant acceleration     |
+| `x = ut + (1/2)at^2`      | displacement under constant acceleration |
+| `a = 9.8 m s^-2 downward` | acceleration due to gravity near Earth   |
 
 ## Force
 
-| Formula Or Idea | Meaning |
-| --- | --- |
-| `F_net = ma` | Newton's second law |
-| `N = mg` | normal reaction on horizontal surface with no vertical acceleration |
-| `mg - N = ma` | downward acceleration case |
-| `N - mg = ma` | upward acceleration case |
+| Formula Or Idea | Meaning                                                             |
+| --------------- | ------------------------------------------------------------------- |
+| `F_net = ma`    | Newton's second law                                                 |
+| `N = mg`        | normal reaction on horizontal surface with no vertical acceleration |
+| `mg - N = ma`   | downward acceleration case                                          |
+| `N - mg = ma`   | upward acceleration case                                            |
 
 ## Momentum And Energy
 
-| Formula Or Idea | Meaning |
-| --- | --- |
-| `J = Delta p` | impulse equals change in momentum |
-| `W_net = Delta K` | work-energy theorem |
-| `W = -Delta U` | work by conservative force |
+| Formula Or Idea   | Meaning                           |
+| ----------------- | --------------------------------- |
+| `J = Delta p`     | impulse equals change in momentum |
+| `W_net = Delta K` | work-energy theorem               |
+| `W = -Delta U`    | work by conservative force        |
 
 ## Rotation
 
-| Formula Or Idea | Meaning |
-| --- | --- |
-| `a_c = v^2/R` | centripetal acceleration |
-| `v = R omega` | pure rolling condition at contact |
-| `r <= mu g/omega^2` | no-slip condition for coin on rotating disc |
+| Formula Or Idea                             | Meaning                                       |
+| ------------------------------------------- | --------------------------------------------- |
+| `a_c = v^2/R`                               | centripetal acceleration                      |
+| `v = R omega`                               | pure rolling condition at contact             |
+| `r <= mu g/omega^2`                         | no-slip condition for coin on rotating disc   |
 | `omega = (I1 omega1 + I2 omega2)/(I1 + I2)` | common angular speed after rotational contact |
 
 ## Gravitation
 
-| Formula Or Idea | Meaning |
-| --- | --- |
-| `F proportional to 1/r^2` | gravitational force distance dependence |
-| `tidal effect proportional to 1/r^3` | tidal effect falls faster than force |
-| `v_e = sqrt(2GM/R)` | escape velocity from spherical planet surface |
-| `U = -GMm/r` | gravitational potential energy |
-| `g_h = gR^2/(R+h)^2` | gravity at height |
+| Formula Or Idea                      | Meaning                                       |
+| ------------------------------------ | --------------------------------------------- |
+| `F proportional to 1/r^2`            | gravitational force distance dependence       |
+| `tidal effect proportional to 1/r^3` | tidal effect falls faster than force          |
+| `v_e = sqrt(2GM/R)`                  | escape velocity from spherical planet surface |
+| `U = -GMm/r`                         | gravitational potential energy                |
+| `g_h = gR^2/(R+h)^2`                 | gravity at height                             |
 
 ---
 
@@ -1222,10 +1223,10 @@ Internal and external forces depend on what system you choose.
 
 Example:
 
-| System Chosen | Force Classification |
-| --- | --- |
-| horse alone | cart's pull on horse is external |
-| cart alone | horse's pull on cart is external |
+| System Chosen   | Force Classification             |
+| --------------- | -------------------------------- |
+| horse alone     | cart's pull on horse is external |
+| cart alone      | horse's pull on cart is external |
 | horse plus cart | horse-cart pull pair is internal |
 
 Momentum and force arguments become much clearer after defining the system.
@@ -1356,4 +1357,3 @@ Therefore escape speed is independent of the mass of the projected body.
 - [ ] I can derive the no-slip condition for a coin on a rotating disc.
 - [ ] I can explain why escape velocity is independent of body mass.
 - [ ] I can turn a short answer-key fragment into a complete written solution.
-

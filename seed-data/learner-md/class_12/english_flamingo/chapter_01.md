@@ -1,4 +1,5 @@
 # Chapter 1: The Last Lesson
+
 ### NCERT Class 12 - English Flamingo
 
 ## Chapter at a Glance
@@ -22,15 +23,15 @@ By the end of this chapter, you should be able to:
 
 ## Key Facts
 
-| Element | Detail |
-|---|---|
-| Author | Alphonse Daudet |
-| Genre | Short story |
-| Narrator | Franz, a young schoolboy |
-| Setting | A village school in Alsace during Prussian occupation |
+| Element       | Detail                                                   |
+| ------------- | -------------------------------------------------------- |
+| Author        | Alphonse Daudet                                          |
+| Genre         | Short story                                              |
+| Narrator      | Franz, a young schoolboy                                 |
+| Setting       | A village school in Alsace during Prussian occupation    |
 | Central event | The final French lesson before German becomes compulsory |
-| Main conflict | Loss of language and identity under political control |
-| Main mood | Regret, solemnity, awakening, patriotic pain |
+| Main conflict | Loss of language and identity under political control    |
+| Main mood     | Regret, solemnity, awakening, patriotic pain             |
 
 # Unit 1A: Plot Overview
 
@@ -144,14 +145,14 @@ The order from Berlin shows how rulers control not only land but also minds, sch
 
 # Unit 1G: Symbols
 
-| Symbol | Meaning |
-|---|---|
-| The last lesson | Final chance to honour language and identity |
-| M. Hamel's formal clothes | Respect for the solemn occasion |
-| Village elders | Collective guilt and respect |
-| The schoolroom silence | Shock and seriousness |
-| The copybooks | Discipline, language, and cultural continuity |
-| Blackboard message | Final patriotic expression |
+| Symbol                    | Meaning                                       |
+| ------------------------- | --------------------------------------------- |
+| The last lesson           | Final chance to honour language and identity  |
+| M. Hamel's formal clothes | Respect for the solemn occasion               |
+| Village elders            | Collective guilt and respect                  |
+| The schoolroom silence    | Shock and seriousness                         |
+| The copybooks             | Discipline, language, and cultural continuity |
+| Blackboard message        | Final patriotic expression                    |
 
 # Unit 1H: Narrative Technique
 
@@ -167,13 +168,13 @@ The child narrator allows:
 
 # Unit 1I: Important Contrasts
 
-| Contrast | Effect |
-|---|---|
-| Noisy school vs silent school | Shows extraordinary seriousness |
-| Franz's earlier dislike vs later love for French | Shows sudden awakening |
-| Ordinary lesson vs national loss | Makes the event powerful |
-| M. Hamel's strictness vs tenderness | Deepens his character |
-| Child's world vs political world | Shows how war affects common lives |
+| Contrast                                         | Effect                             |
+| ------------------------------------------------ | ---------------------------------- |
+| Noisy school vs silent school                    | Shows extraordinary seriousness    |
+| Franz's earlier dislike vs later love for French | Shows sudden awakening             |
+| Ordinary lesson vs national loss                 | Makes the event powerful           |
+| M. Hamel's strictness vs tenderness              | Deepens his character              |
+| Child's world vs political world                 | Shows how war affects common lives |
 
 # Unit 1J: Exam Answer Frameworks
 
@@ -199,13 +200,13 @@ Use this order:
 
 # Unit 1K: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Calling Franz simply lazy | Show his emotional growth and regret. |
-| Treating M. Hamel as only strict | Include his patriotism, grief, and dedication. |
-| Ignoring historical setting | The Prussian order is central to the story. |
+| Mistake                                    | Correction                                        |
+| ------------------------------------------ | ------------------------------------------------- |
+| Calling Franz simply lazy                  | Show his emotional growth and regret.             |
+| Treating M. Hamel as only strict           | Include his patriotism, grief, and dedication.    |
+| Ignoring historical setting                | The Prussian order is central to the story.       |
 | Saying the theme is only "study regularly" | The deeper theme is language, identity, and loss. |
-| Forgetting village elders | They show community regret and respect. |
+| Forgetting village elders                  | They show community regret and respect.           |
 
 ## Practice Set
 

@@ -1,6 +1,10 @@
 import { SetCookies } from '@/lib/auth/cookies';
 import { NextResponse } from 'next/server';
-import { requireRole, requireExactRole, hasMinimumRole } from './role.middleware';
+import {
+  requireRole,
+  requireExactRole,
+  hasMinimumRole,
+} from './role.middleware';
 
 export class UnauthorizedError extends Error {
   statusCode: number;
@@ -69,11 +73,11 @@ export function withAuth(
 /**
  * Higher-order function to add role-based access control to route handlers
  * Supports role hierarchy validation
- * 
+ *
  * @param requiredRoles - Role(s) required to access the route
  * @param handler - The actual route handler function
  * @returns Wrapped handler with role validation
- * 
+ *
  * @example
  * export const POST = withRoleAuth('ADMIN', async (req, auth) => {
  *   // Admin-only logic
@@ -85,7 +89,7 @@ export function withRoleAuth(
   handler: (req: Request, auth: AuthContext) => Promise<Response>
 ): (req: Request) => Promise<Response> {
   const roles = Array.isArray(requiredRoles) ? requiredRoles : [requiredRoles];
-  
+
   return withAuth(async (req: Request, auth: AuthContext) => {
     try {
       // Validate role using role middleware
@@ -105,7 +109,7 @@ export function withRoleAuth(
 
 /**
  * Higher-order function for exact role matching (no inheritance)
- * 
+ *
  * @param requiredRoles - Exact role(s) required
  * @param handler - The route handler function
  * @returns Wrapped handler with exact role validation
@@ -115,7 +119,7 @@ export function withExactRoleAuth(
   handler: (req: Request, auth: AuthContext) => Promise<Response>
 ): (req: Request) => Promise<Response> {
   const roles = Array.isArray(requiredRoles) ? requiredRoles : [requiredRoles];
-  
+
   return withAuth(async (req: Request, auth: AuthContext) => {
     try {
       requireExactRole(...roles)(auth);
@@ -135,18 +139,21 @@ export function withExactRoleAuth(
 /**
  * Helper to check if user has minimum role in controller logic
  * Can be used inside route handlers to conditionally execute code
- * 
+ *
  * @param auth - Authentication context
  * @param minimumRole - Minimum required role
  * @throws ForbiddenError if user doesn't have required role
- * 
+ *
  * @example
  * export const POST = withAuth(async (req, auth) => {
  *   ensureMinimumRole(auth, 'MODERATOR');
  *   // MODERATOR and ADMIN can reach here
  * });
  */
-export function ensureMinimumRole(auth: AuthContext, minimumRole: string): void {
+export function ensureMinimumRole(
+  auth: AuthContext,
+  minimumRole: string
+): void {
   if (!hasMinimumRole(auth, minimumRole)) {
     throw new ForbiddenError(
       `This action requires at least ${minimumRole} role. Your role: ${auth.role}`

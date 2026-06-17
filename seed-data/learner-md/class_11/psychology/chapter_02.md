@@ -333,19 +333,19 @@ These limits do not make psychology unscientific. They make careful method neces
 
 ## 17. Key Terms
 
-| Term | Meaning |
-|---|---|
-| Hypothesis | Testable tentative explanation |
-| Variable | Factor that can vary |
-| Independent variable | Factor manipulated or selected |
-| Dependent variable | Outcome measured |
-| Experiment | Method for testing cause-effect relations |
-| Observation | Systematic watching and recording of behaviour |
-| Survey | Method using questionnaires or interviews with many people |
-| Case study | Intensive study of one case |
-| Correlation | Relationship between variables |
-| Reliability | Consistency of a measure |
-| Validity | Accuracy of a measure |
+| Term                 | Meaning                                                    |
+| -------------------- | ---------------------------------------------------------- |
+| Hypothesis           | Testable tentative explanation                             |
+| Variable             | Factor that can vary                                       |
+| Independent variable | Factor manipulated or selected                             |
+| Dependent variable   | Outcome measured                                           |
+| Experiment           | Method for testing cause-effect relations                  |
+| Observation          | Systematic watching and recording of behaviour             |
+| Survey               | Method using questionnaires or interviews with many people |
+| Case study           | Intensive study of one case                                |
+| Correlation          | Relationship between variables                             |
+| Reliability          | Consistency of a measure                                   |
+| Validity             | Accuracy of a measure                                      |
 
 ## 18. Exam-Oriented Summary
 
@@ -365,4 +365,3 @@ Major methods include experiment, observation, survey, interview, case study, co
 8. Why does correlation not prove causation?
 9. What are reliability and validity?
 10. List ethical principles in psychological research.
-

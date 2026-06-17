@@ -1,4 +1,5 @@
 # Chapter 4: Peasants, Zamindars and the State
+
 ### NCERT Class 12 - History Part 2
 
 ## Chapter at a Glance
@@ -22,26 +23,26 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Peasant | Cultivator engaged in agriculture. |
-| Raiyat | Peasant or cultivator. |
-| Zamindar | Local landed intermediary with rights to collect revenue and exercise authority. |
-| Jama | Assessed revenue demand. |
-| Hasil | Actual revenue collected. |
-| Ain-i Akbari | Administrative text compiled under Akbar by Abu'l Fazl. |
-| Jagir | Revenue assignment granted to Mughal officials. |
-| Jajmani | System of service relations in villages. |
+| Term         | Meaning                                                                          |
+| ------------ | -------------------------------------------------------------------------------- |
+| Peasant      | Cultivator engaged in agriculture.                                               |
+| Raiyat       | Peasant or cultivator.                                                           |
+| Zamindar     | Local landed intermediary with rights to collect revenue and exercise authority. |
+| Jama         | Assessed revenue demand.                                                         |
+| Hasil        | Actual revenue collected.                                                        |
+| Ain-i Akbari | Administrative text compiled under Akbar by Abu'l Fazl.                          |
+| Jagir        | Revenue assignment granted to Mughal officials.                                  |
+| Jajmani      | System of service relations in villages.                                         |
 
 ## Quick Learning Map
 
-| Agrarian element | Role |
-|---|---|
-| Peasants | Cultivated land and produced surplus |
-| Zamindars | Local power, revenue collection, mediation |
-| State | Assessed and collected revenue |
-| Village community | Social and economic organisation |
-| Ain-i Akbari | Administrative evidence for Mughal system |
+| Agrarian element  | Role                                       |
+| ----------------- | ------------------------------------------ |
+| Peasants          | Cultivated land and produced surplus       |
+| Zamindars         | Local power, revenue collection, mediation |
+| State             | Assessed and collected revenue             |
+| Village community | Social and economic organisation           |
+| Ain-i Akbari      | Administrative evidence for Mughal system  |
 
 # Unit 4A: Agriculture and Mughal Power
 
@@ -230,13 +231,13 @@ For Ain-i Akbari:
 
 # Unit 4N: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Treating peasants as one uniform group | Peasants differed by wealth, caste, and region. |
-| Calling zamindars only tax collectors | They were local power holders. |
-| Taking Ain-i Akbari as exact reality | It is official and idealised in parts. |
-| Ignoring women | Women contributed significantly to agrarian work. |
-| Confusing jama and hasil | Jama is assessed demand; hasil is actual collection. |
+| Mistake                                | Correction                                           |
+| -------------------------------------- | ---------------------------------------------------- |
+| Treating peasants as one uniform group | Peasants differed by wealth, caste, and region.      |
+| Calling zamindars only tax collectors  | They were local power holders.                       |
+| Taking Ain-i Akbari as exact reality   | It is official and idealised in parts.               |
+| Ignoring women                         | Women contributed significantly to agrarian work.    |
+| Confusing jama and hasil               | Jama is assessed demand; hasil is actual collection. |
 
 ## Practice Set
 

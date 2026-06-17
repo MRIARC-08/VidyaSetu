@@ -1,4 +1,5 @@
 # Chapter 7: Outcomes of Democracy
+
 ### NCERT Class 10 - Social Civics
 
 ---
@@ -26,17 +27,17 @@ The correct way is:
 
 ## Chapter at a Glance
 
-| Area | What You Must Understand |
-| --- | --- |
-| Main question | What outcomes can we reasonably expect from democracy? |
-| Most basic outcome | Democracy should produce accountable, responsive, and legitimate government. |
-| Political outcome | People can elect, question, criticise, and replace rulers. |
-| Economic outcome | Democracy does not guarantee fast economic growth, but it gives people rights to demand fair policies. |
-| Inequality outcome | Democracies have not been very successful in reducing economic inequality. |
-| Social outcome | Democracy is better at accommodating social diversity than non-democratic rule. |
-| Moral outcome | Democracy promotes dignity and freedom of individuals. |
-| Key warning | Majority rule must not become domination by a majority community. |
-| Key conclusion | Complaints against democracy often show that people have become aware citizens. |
+| Area               | What You Must Understand                                                                               |
+| ------------------ | ------------------------------------------------------------------------------------------------------ |
+| Main question      | What outcomes can we reasonably expect from democracy?                                                 |
+| Most basic outcome | Democracy should produce accountable, responsive, and legitimate government.                           |
+| Political outcome  | People can elect, question, criticise, and replace rulers.                                             |
+| Economic outcome   | Democracy does not guarantee fast economic growth, but it gives people rights to demand fair policies. |
+| Inequality outcome | Democracies have not been very successful in reducing economic inequality.                             |
+| Social outcome     | Democracy is better at accommodating social diversity than non-democratic rule.                        |
+| Moral outcome      | Democracy promotes dignity and freedom of individuals.                                                 |
+| Key warning        | Majority rule must not become domination by a majority community.                                      |
+| Key conclusion     | Complaints against democracy often show that people have become aware citizens.                        |
 
 ---
 
@@ -44,14 +45,14 @@ The correct way is:
 
 By the end of this chapter, you should be able to:
 
-| Skill | What You Should Be Able To Do |
-| --- | --- |
-| Explain | Explain why democracy is considered better than dictatorship. |
-| Analyse | Analyse how democracy produces accountable, responsive, and legitimate government. |
-| Compare | Compare democracy and dictatorship in economic growth and decision-making. |
-| Evaluate | Evaluate democracy's record on poverty and inequality. |
-| Apply | Apply the ideas of dignity, freedom, social diversity, and accountability to examples. |
-| Write | Write balanced answers that include both achievements and limitations of democracy. |
+| Skill    | What You Should Be Able To Do                                                          |
+| -------- | -------------------------------------------------------------------------------------- |
+| Explain  | Explain why democracy is considered better than dictatorship.                          |
+| Analyse  | Analyse how democracy produces accountable, responsive, and legitimate government.     |
+| Compare  | Compare democracy and dictatorship in economic growth and decision-making.             |
+| Evaluate | Evaluate democracy's record on poverty and inequality.                                 |
+| Apply    | Apply the ideas of dignity, freedom, social diversity, and accountability to examples. |
+| Write    | Write balanced answers that include both achievements and limitations of democracy.    |
 
 ---
 
@@ -70,25 +71,25 @@ This chapter has one main chain of reasoning:
 
 ## Key Terms
 
-| Term | Meaning |
-| --- | --- |
-| Outcome of democracy | A result produced by democratic government and democratic politics. |
-| Accountable government | A government that must answer to citizens for its actions and decisions. |
-| Responsive government | A government that pays attention to people's needs, expectations, protests, and demands. |
-| Legitimate government | A government that people accept as rightful because it is elected and works through democratic procedures. |
-| Transparency | Openness in decision-making so citizens can know how and why decisions were taken. |
-| Deliberation | Careful discussion before a decision is made. |
-| Negotiation | Adjustment between different interests through discussion and compromise. |
-| Dictatorship | A non-democratic system where rulers are not chosen by free and fair elections and cannot easily be removed by citizens. |
-| Economic growth | Increase in production, income, and economic output over time. |
-| Economic inequality | Unequal distribution of income, wealth, resources, and opportunities. |
-| Political equality | Equal political rights, especially equal voting rights. |
-| Social diversity | Differences in society based on caste, religion, language, region, ethnicity, gender, race, or culture. |
-| Majority opinion | The opinion supported by more people in a particular decision. |
-| Majority community | A numerically larger social community, such as a religious, linguistic, racial, or caste group. |
-| Dignity | The respect due to every human being as an equal person. |
-| Freedom | The ability to think, speak, organise, vote, criticise, and live without unjust domination. |
-| Right to Information | A democratic tool that allows citizens to ask for information from government offices. |
+| Term                   | Meaning                                                                                                                  |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Outcome of democracy   | A result produced by democratic government and democratic politics.                                                      |
+| Accountable government | A government that must answer to citizens for its actions and decisions.                                                 |
+| Responsive government  | A government that pays attention to people's needs, expectations, protests, and demands.                                 |
+| Legitimate government  | A government that people accept as rightful because it is elected and works through democratic procedures.               |
+| Transparency           | Openness in decision-making so citizens can know how and why decisions were taken.                                       |
+| Deliberation           | Careful discussion before a decision is made.                                                                            |
+| Negotiation            | Adjustment between different interests through discussion and compromise.                                                |
+| Dictatorship           | A non-democratic system where rulers are not chosen by free and fair elections and cannot easily be removed by citizens. |
+| Economic growth        | Increase in production, income, and economic output over time.                                                           |
+| Economic inequality    | Unequal distribution of income, wealth, resources, and opportunities.                                                    |
+| Political equality     | Equal political rights, especially equal voting rights.                                                                  |
+| Social diversity       | Differences in society based on caste, religion, language, region, ethnicity, gender, race, or culture.                  |
+| Majority opinion       | The opinion supported by more people in a particular decision.                                                           |
+| Majority community     | A numerically larger social community, such as a religious, linguistic, racial, or caste group.                          |
+| Dignity                | The respect due to every human being as an equal person.                                                                 |
+| Freedom                | The ability to think, speak, organise, vote, criticise, and live without unjust domination.                              |
+| Right to Information   | A democratic tool that allows citizens to ask for information from government offices.                                   |
 
 ---
 
@@ -128,13 +129,13 @@ So democracy must be judged seriously, not emotionally.
 
 Democracy is considered better than dictatorship for five major reasons.
 
-| Reason | Meaning |
-| --- | --- |
-| It promotes equality among citizens | Every citizen has political value. Each vote has equal weight. |
-| It enhances dignity of the individual | Citizens are treated as thinking persons, not as subjects who must obey silently. |
-| It improves quality of decision-making | Decisions are discussed, debated, questioned, and corrected. |
-| It provides a method to resolve conflicts | Different groups can negotiate instead of using violence. |
-| It allows correction of mistakes | Bad rulers can be removed and bad policies can be criticised. |
+| Reason                                    | Meaning                                                                           |
+| ----------------------------------------- | --------------------------------------------------------------------------------- |
+| It promotes equality among citizens       | Every citizen has political value. Each vote has equal weight.                    |
+| It enhances dignity of the individual     | Citizens are treated as thinking persons, not as subjects who must obey silently. |
+| It improves quality of decision-making    | Decisions are discussed, debated, questioned, and corrected.                      |
+| It provides a method to resolve conflicts | Different groups can negotiate instead of using violence.                         |
+| It allows correction of mistakes          | Bad rulers can be removed and bad policies can be criticised.                     |
 
 These are the reasons democracy is valued even when it is slow or imperfect.
 
@@ -149,13 +150,13 @@ There is an important puzzle:
 
 This is not a contradiction. It shows that people judge democracy by high standards.
 
-| Support for Democracy | Dissatisfaction with Democracy |
-| --- | --- |
-| People want the right to vote. | They may dislike the candidates available. |
+| Support for Democracy           | Dissatisfaction with Democracy                      |
+| ------------------------------- | --------------------------------------------------- |
+| People want the right to vote.  | They may dislike the candidates available.          |
 | People want elected government. | They may complain that elected leaders are corrupt. |
-| People want freedom of speech. | They may feel that their voice is ignored. |
-| People want equality. | They may see inequality continuing. |
-| People want development. | They may feel development is unfair or slow. |
+| People want freedom of speech.  | They may feel that their voice is ignored.          |
+| People want equality.           | They may see inequality continuing.                 |
+| People want development.        | They may feel development is unfair or slow.        |
 
 In a dictatorship, people may not be allowed to complain openly. In a democracy, complaints become part of political life.
 
@@ -227,11 +228,11 @@ In a dictatorship, rulers may not have to explain their actions to ordinary peop
 
 Elections create accountability in three ways.
 
-| Step | How It Works |
-| --- | --- |
+| Step             | How It Works                                          |
+| ---------------- | ----------------------------------------------------- |
 | Before elections | Political parties make promises and present policies. |
-| During elections | Citizens judge rulers and choose representatives. |
-| After elections | Rulers know they can be removed in the next election. |
+| During elections | Citizens judge rulers and choose representatives.     |
+| After elections  | Rulers know they can be removed in the next election. |
 
 This does not mean voters always choose perfectly. It means rulers cannot claim unlimited power.
 
@@ -302,13 +303,13 @@ But quick decisions are not always good decisions.
 
 Democracy may be slower, but its decisions are often more acceptable.
 
-| Non-Democratic Decision | Democratic Decision |
-| --- | --- |
-| Can be quick | May be slower |
-| May ignore citizens | Must consider public opinion |
+| Non-Democratic Decision | Democratic Decision                |
+| ----------------------- | ---------------------------------- |
+| Can be quick            | May be slower                      |
+| May ignore citizens     | Must consider public opinion       |
 | May be imposed by force | Gains legitimacy through procedure |
-| Can create resentment | Has better chance of acceptance |
-| Difficult to question | Can be debated and corrected |
+| Can create resentment   | Has better chance of acceptance    |
+| Difficult to question   | Can be debated and corrected       |
 
 For example, if a government builds a dam, passes a law, changes land policy, or introduces a welfare scheme, democratic procedure allows citizens to ask:
 
@@ -432,12 +433,12 @@ This expectation is reasonable. But evidence shows that democracy does not autom
 
 The textbook compares economic growth under democratic regimes and dictatorial regimes between 1950 and 2000.
 
-| Type of Regime | Average Growth Rate |
-| --- | ---: |
-| All democratic regimes | 3.95 percent |
-| All dictatorial regimes | 4.42 percent |
-| Poor countries under dictatorship | 4.34 percent |
-| Poor countries under democracy | 4.28 percent |
+| Type of Regime                    | Average Growth Rate |
+| --------------------------------- | ------------------: |
+| All democratic regimes            |        3.95 percent |
+| All dictatorial regimes           |        4.42 percent |
+| Poor countries under dictatorship |        4.34 percent |
+| Poor countries under democracy    |        4.28 percent |
 
 The difference is not very large, especially among poor countries.
 
@@ -521,12 +522,12 @@ The correct conclusion is:
 
 A strong answer on democracy and development should include both sides.
 
-| Point Supporting Democracy | Limitation |
-| --- | --- |
-| Democracy allows people to demand development. | It may be slow in taking economic decisions. |
-| It gives citizens rights and participation. | It does not guarantee fast growth. |
-| It can correct bad policies through elections. | Powerful groups may influence policy. |
-| It protects dignity while pursuing development. | Poverty and inequality may still continue. |
+| Point Supporting Democracy                      | Limitation                                   |
+| ----------------------------------------------- | -------------------------------------------- |
+| Democracy allows people to demand development.  | It may be slow in taking economic decisions. |
+| It gives citizens rights and participation.     | It does not guarantee fast growth.           |
+| It can correct bad policies through elections.  | Powerful groups may influence policy.        |
+| It protects dignity while pursuing development. | Poverty and inequality may still continue.   |
 
 ---
 
@@ -552,12 +553,12 @@ But the actual record is disappointing.
 
 Democracy gives political equality, but economic inequality can still remain.
 
-| Political Equality | Economic Inequality |
-| --- | --- |
-| Everyone has one vote. | People do not have equal income. |
-| Everyone can vote in elections. | Everyone cannot afford good education or healthcare. |
-| The poor are large in number. | The rich may have more influence over policy. |
-| Citizens are equal in law. | Citizens are not equal in wealth, resources, or opportunities. |
+| Political Equality              | Economic Inequality                                            |
+| ------------------------------- | -------------------------------------------------------------- |
+| Everyone has one vote.          | People do not have equal income.                               |
+| Everyone can vote in elections. | Everyone cannot afford good education or healthcare.           |
+| The poor are large in number.   | The rich may have more influence over policy.                  |
+| Citizens are equal in law.      | Citizens are not equal in wealth, resources, or opportunities. |
 
 This is one of the most important tensions in democracy.
 
@@ -605,15 +606,15 @@ The important lesson is:
 
 The chapter uses comparative income shares to show inequality.
 
-| Country | Share of Top 20 Percent | Share of Bottom 20 Percent |
-| --- | ---: | ---: |
-| South Africa | 64.8 percent | 2.9 percent |
-| Brazil | 63.0 percent | 2.6 percent |
-| Russia | 53.7 percent | 4.4 percent |
-| United States | 50.0 percent | 4.0 percent |
-| United Kingdom | 45.0 percent | 6.0 percent |
-| Denmark | 34.5 percent | 9.6 percent |
-| Hungary | 34.4 percent | 10.0 percent |
+| Country        | Share of Top 20 Percent | Share of Bottom 20 Percent |
+| -------------- | ----------------------: | -------------------------: |
+| South Africa   |            64.8 percent |                2.9 percent |
+| Brazil         |            63.0 percent |                2.6 percent |
+| Russia         |            53.7 percent |                4.4 percent |
+| United States  |            50.0 percent |                4.0 percent |
+| United Kingdom |            45.0 percent |                6.0 percent |
+| Denmark        |            34.5 percent |                9.6 percent |
+| Hungary        |            34.4 percent |               10.0 percent |
 
 These figures show that in many countries, the richest section receives a very large share of national income, while the poorest section receives a very small share.
 
@@ -770,11 +771,11 @@ That attitude destroys democracy.
 
 There is a difference between majority opinion and majority community.
 
-| Majority Opinion | Majority Community |
-| --- | --- |
+| Majority Opinion                                       | Majority Community                                                                                |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------- |
 | A view supported by more people on a particular issue. | A social group that is larger in number, such as a religious, linguistic, racial, or caste group. |
-| Can change from issue to issue. | Usually remains a stable identity. |
-| Democratic decision-making may use majority opinion. | Democracy becomes dangerous if one community permanently dominates others. |
+| Can change from issue to issue.                        | Usually remains a stable identity.                                                                |
+| Democratic decision-making may use majority opinion.   | Democracy becomes dangerous if one community permanently dominates others.                        |
 
 In a democracy, different people should be able to form majorities on different issues.
 
@@ -933,13 +934,13 @@ A citizen is allowed to question.
 
 Democracy changes people's self-understanding.
 
-| Subject | Citizen |
-| --- | --- |
-| Obeys power silently | Questions power |
-| Has little say in government | Has political rights |
-| Depends on ruler's mercy | Claims rights as entitlement |
-| May fear authority | Can criticise authority |
-| Is ruled from above | Participates in public life |
+| Subject                      | Citizen                      |
+| ---------------------------- | ---------------------------- |
+| Obeys power silently         | Questions power              |
+| Has little say in government | Has political rights         |
+| Depends on ruler's mercy     | Claims rights as entitlement |
+| May fear authority           | Can criticise authority      |
+| Is ruled from above          | Participates in public life  |
 
 This transformation is one of democracy's most important outcomes.
 
@@ -1001,13 +1002,13 @@ Democracy creates citizens who demand more democracy.
 The textbook refers to survey evidence from South Asia showing that many people believe their vote makes a difference.
 
 | Region/Country | People Saying Vote Makes a Difference |
-| --- | ---: |
-| South Asia | 65 percent |
-| Bangladesh | 66 percent |
-| India | 67 percent |
-| Nepal | 75 percent |
-| Pakistan | 50 percent |
-| Sri Lanka | 65 percent |
+| -------------- | ------------------------------------: |
+| South Asia     |                            65 percent |
+| Bangladesh     |                            66 percent |
+| India          |                            67 percent |
+| Nepal          |                            75 percent |
+| Pakistan       |                            50 percent |
+| Sri Lanka      |                            65 percent |
 
 The exact figures are less important than the meaning:
 
@@ -1021,17 +1022,17 @@ This belief is important because democracy depends on citizen participation.
 
 ## Comparison Table
 
-| Basis | Democracy | Dictatorship |
-| --- | --- | --- |
-| Choice of rulers | Rulers are elected by people. | Rulers may come to power without free choice of citizens. |
-| Accountability | Rulers must answer to citizens and face elections. | Rulers may not be answerable to people. |
-| Decision-making | Slower due to debate and procedure. | Faster because dissent can be ignored. |
-| Legitimacy | More legitimate because people choose rulers. | Legitimacy is weaker because consent is limited or absent. |
-| Transparency | Citizens can demand information. | Decisions may be secret. |
-| Correction of mistakes | Bad rulers can be voted out. | Removing rulers may be difficult or violent. |
-| Social diversity | Differences can be negotiated. | Differences may be suppressed. |
-| Dignity | Citizens have rights and voice. | People may be treated as subjects. |
-| Economic growth | Does not guarantee fastest growth. | May sometimes grow faster, but often at cost of rights. |
+| Basis                  | Democracy                                          | Dictatorship                                               |
+| ---------------------- | -------------------------------------------------- | ---------------------------------------------------------- |
+| Choice of rulers       | Rulers are elected by people.                      | Rulers may come to power without free choice of citizens.  |
+| Accountability         | Rulers must answer to citizens and face elections. | Rulers may not be answerable to people.                    |
+| Decision-making        | Slower due to debate and procedure.                | Faster because dissent can be ignored.                     |
+| Legitimacy             | More legitimate because people choose rulers.      | Legitimacy is weaker because consent is limited or absent. |
+| Transparency           | Citizens can demand information.                   | Decisions may be secret.                                   |
+| Correction of mistakes | Bad rulers can be voted out.                       | Removing rulers may be difficult or violent.               |
+| Social diversity       | Differences can be negotiated.                     | Differences may be suppressed.                             |
+| Dignity                | Citizens have rights and voice.                    | People may be treated as subjects.                         |
+| Economic growth        | Does not guarantee fastest growth.                 | May sometimes grow faster, but often at cost of rights.    |
 
 ---
 
@@ -1429,4 +1430,3 @@ Democracy promotes dignity and freedom because it recognises every person as an 
 ## Best Final Line for Answers
 
 Democracy is imperfect, slow, and often disappointing, but it remains the best form of government because it treats people as citizens with rights, dignity, and the power to question and change rulers.
-

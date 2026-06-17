@@ -1,21 +1,22 @@
 # Chapter 5: Circles - Chords, Arcs, and Cyclic Quadrilaterals
+
 ### NCERT Class 9 - Maths
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 9 |
-| **Subject** | Maths |
-| **Chapter** | 5 |
-| **Actual Chapter Focus** | Circles, chords, arcs, circumcircles, angles in circles, and cyclic quadrilaterals |
-| **Source Chapter Theme** | "I'm Up and Down, and Round and Round" |
-| **Raw File Header** | "Introduction to Euclid's Geometry" |
-| **Textbook Pages** | 1-117 |
-| **Core Skill** | Using geometry, symmetry, and congruent triangles to prove circle properties |
-| **Main Exam Value** | Chord-distance calculations, angle-chasing, cyclic quadrilateral problems, and circle constructions |
+| Detail                   | Learner-Friendly Information                                                                        |
+| ------------------------ | --------------------------------------------------------------------------------------------------- |
+| **Class**                | 9                                                                                                   |
+| **Subject**              | Maths                                                                                               |
+| **Chapter**              | 5                                                                                                   |
+| **Actual Chapter Focus** | Circles, chords, arcs, circumcircles, angles in circles, and cyclic quadrilaterals                  |
+| **Source Chapter Theme** | "I'm Up and Down, and Round and Round"                                                              |
+| **Raw File Header**      | "Introduction to Euclid's Geometry"                                                                 |
+| **Textbook Pages**       | 1-117                                                                                               |
+| **Core Skill**           | Using geometry, symmetry, and congruent triangles to prove circle properties                        |
+| **Main Exam Value**      | Chord-distance calculations, angle-chasing, cyclic quadrilateral problems, and circle constructions |
 
 > [!NOTE]
 > The raw source file is `chapter_05.md` and its extraction header says "Introduction to Euclid's Geometry", but the chapter content is about **circles**. This learner-facing version follows the actual chapter content.
@@ -24,17 +25,17 @@
 
 ## Section Structure
 
-| Section | Title | Main Learning Focus |
-|---|---|---|
-| **5.0** | Introduction | Circles in nature and the idea that all points on a circle are equally far from the centre. |
-| **5.1** | Definitions | Circle, centre, radius, chord, diameter, arc, locus, and related terms. |
-| **5.2** | Symmetries of a Circle | Rotational symmetry and reflection symmetry through every diameter. |
-| **5.3** | How Many Circles? | Circles through two points, unique circle through three non-collinear points, circumcentre, and circumcircle. |
-| **5.4** | Chords and the Angles They Subtend | Equal chords and equal central angles. |
-| **5.5** | Midpoints and Perpendicular Bisectors of Chords | A radius to the midpoint of a chord is perpendicular to the chord, and the converse. |
-| **5.6** | Distance of Chords from the Centre | Equal chords are equidistant from the centre; longer chords are nearer to the centre. |
-| **5.7** | Angles Subtended by an Arc | The angle at the centre is twice the angle at the circle. |
-| **5.8** | Concyclicity of Points | Conditions for four points to lie on one circle and properties of cyclic quadrilaterals. |
+| Section | Title                                           | Main Learning Focus                                                                                           |
+| ------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| **5.0** | Introduction                                    | Circles in nature and the idea that all points on a circle are equally far from the centre.                   |
+| **5.1** | Definitions                                     | Circle, centre, radius, chord, diameter, arc, locus, and related terms.                                       |
+| **5.2** | Symmetries of a Circle                          | Rotational symmetry and reflection symmetry through every diameter.                                           |
+| **5.3** | How Many Circles?                               | Circles through two points, unique circle through three non-collinear points, circumcentre, and circumcircle. |
+| **5.4** | Chords and the Angles They Subtend              | Equal chords and equal central angles.                                                                        |
+| **5.5** | Midpoints and Perpendicular Bisectors of Chords | A radius to the midpoint of a chord is perpendicular to the chord, and the converse.                          |
+| **5.6** | Distance of Chords from the Centre              | Equal chords are equidistant from the centre; longer chords are nearer to the centre.                         |
+| **5.7** | Angles Subtended by an Arc                      | The angle at the centre is twice the angle at the circle.                                                     |
+| **5.8** | Concyclicity of Points                          | Conditions for four points to lie on one circle and properties of cyclic quadrilaterals.                      |
 
 ---
 
@@ -42,18 +43,18 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Define circle terms** | Use centre, radius, chord, diameter, arc, locus, circumcentre, and circumcircle correctly. |
-| **Use symmetry** | Explain why every diameter is a line of reflection symmetry and why a circle has complete rotational symmetry. |
-| **Construct circles** | Find possible centres of circles through two points and construct the unique circle through three non-collinear points. |
-| **Prove chord results** | Prove equal chord and equal central angle results using triangle congruence. |
-| **Use perpendicular chord facts** | Connect chord midpoint, perpendicular from centre, and perpendicular bisector. |
-| **Calculate chord length** | Use the Baudhāyana-Pythagoras theorem to find chord length, radius, or distance from centre. |
-| **Compare chords** | Decide which chord is longer or closer to the centre. |
-| **Solve angle problems** | Use the central angle theorem and angle in a semicircle theorem. |
-| **Identify cyclic quadrilaterals** | Use opposite angle sums and equal subtended angles to test concyclicity. |
-| **Write geometric proofs** | Convert a diagram into given facts, target statement, construction, theorem use, and conclusion. |
+| Outcome                            | You Should Be Able To...                                                                                                |
+| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| **Define circle terms**            | Use centre, radius, chord, diameter, arc, locus, circumcentre, and circumcircle correctly.                              |
+| **Use symmetry**                   | Explain why every diameter is a line of reflection symmetry and why a circle has complete rotational symmetry.          |
+| **Construct circles**              | Find possible centres of circles through two points and construct the unique circle through three non-collinear points. |
+| **Prove chord results**            | Prove equal chord and equal central angle results using triangle congruence.                                            |
+| **Use perpendicular chord facts**  | Connect chord midpoint, perpendicular from centre, and perpendicular bisector.                                          |
+| **Calculate chord length**         | Use the Baudhāyana-Pythagoras theorem to find chord length, radius, or distance from centre.                            |
+| **Compare chords**                 | Decide which chord is longer or closer to the centre.                                                                   |
+| **Solve angle problems**           | Use the central angle theorem and angle in a semicircle theorem.                                                        |
+| **Identify cyclic quadrilaterals** | Use opposite angle sums and equal subtended angles to test concyclicity.                                                |
+| **Write geometric proofs**         | Convert a diagram into given facts, target statement, construction, theorem use, and conclusion.                        |
 
 ---
 
@@ -61,15 +62,15 @@ By the end of this chapter, you should be able to:
 
 Before this chapter, revise these ideas.
 
-| Tool | What You Need Here |
-|---|---|
-| **Line segment** | A straight path between two endpoints. |
-| **Midpoint** | Point that divides a segment into two equal parts. |
-| **Perpendicular lines** | Lines meeting at \(90^\circ\). |
-| **Perpendicular bisector** | A line perpendicular to a segment and passing through its midpoint. |
-| **Triangle congruence** | SSS, SAS, ASA, and RHS congruence rules. |
-| **Isosceles triangle property** | Equal sides have equal opposite angles. |
-| **Exterior angle theorem** | An exterior angle of a triangle equals the sum of the two opposite interior angles. |
+| Tool                              | What You Need Here                                                                    |
+| --------------------------------- | ------------------------------------------------------------------------------------- |
+| **Line segment**                  | A straight path between two endpoints.                                                |
+| **Midpoint**                      | Point that divides a segment into two equal parts.                                    |
+| **Perpendicular lines**           | Lines meeting at \(90^\circ\).                                                        |
+| **Perpendicular bisector**        | A line perpendicular to a segment and passing through its midpoint.                   |
+| **Triangle congruence**           | SSS, SAS, ASA, and RHS congruence rules.                                              |
+| **Isosceles triangle property**   | Equal sides have equal opposite angles.                                               |
+| **Exterior angle theorem**        | An exterior angle of a triangle equals the sum of the two opposite interior angles.   |
 | **Baudhāyana-Pythagoras theorem** | In a right triangle, hypotenuse squared equals sum of squares of the other two sides. |
 
 ### Core Reminder: Baudhāyana-Pythagoras Theorem
@@ -113,23 +114,23 @@ Because all radii of the same circle are equal:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Circle** | The set of all points in a plane that are at a fixed distance from a fixed point. |
-| **Centre** | The fixed point from which every point on the circle is equally distant. |
-| **Radius** | The fixed distance from the centre to any point on the circle. Also, a segment joining the centre to a point on the circle. |
-| **Chord** | A line segment whose endpoints lie on the circle. |
-| **Diameter** | A chord passing through the centre. It is the longest chord. |
-| **Arc** | A connected part of the circle between two endpoints. |
-| **Minor arc** | The smaller arc between two points on a circle. |
-| **Major arc** | The larger arc between two points on a circle. |
-| **Semicircle** | Half of a circle, usually formed by a diameter. |
-| **Locus** | The set of all points satisfying a given condition. |
-| **Circumcircle** | The circle passing through all vertices of a triangle. |
-| **Circumcentre** | The centre of the circumcircle of a triangle. |
-| **Concyclic points** | Points that lie on one circle. |
-| **Cyclic quadrilateral** | A quadrilateral whose four vertices lie on one circle. |
-| **Subtend an angle** | To form an angle at a point by joining that point to the endpoints of a segment or arc. |
+| Term                     | Meaning                                                                                                                     |
+| ------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
+| **Circle**               | The set of all points in a plane that are at a fixed distance from a fixed point.                                           |
+| **Centre**               | The fixed point from which every point on the circle is equally distant.                                                    |
+| **Radius**               | The fixed distance from the centre to any point on the circle. Also, a segment joining the centre to a point on the circle. |
+| **Chord**                | A line segment whose endpoints lie on the circle.                                                                           |
+| **Diameter**             | A chord passing through the centre. It is the longest chord.                                                                |
+| **Arc**                  | A connected part of the circle between two endpoints.                                                                       |
+| **Minor arc**            | The smaller arc between two points on a circle.                                                                             |
+| **Major arc**            | The larger arc between two points on a circle.                                                                              |
+| **Semicircle**           | Half of a circle, usually formed by a diameter.                                                                             |
+| **Locus**                | The set of all points satisfying a given condition.                                                                         |
+| **Circumcircle**         | The circle passing through all vertices of a triangle.                                                                      |
+| **Circumcentre**         | The centre of the circumcircle of a triangle.                                                                               |
+| **Concyclic points**     | Points that lie on one circle.                                                                                              |
+| **Cyclic quadrilateral** | A quadrilateral whose four vertices lie on one circle.                                                                      |
+| **Subtend an angle**     | To form an angle at a point by joining that point to the endpoints of a segment or arc.                                     |
 
 ---
 
@@ -247,13 +248,13 @@ The chord \(AB\) and the central angle \(\angle AOB\) are strongly connected:
 
 ### Quick Check
 
-| Question | Answer |
-|---|---|
-| Is every diameter a chord? | Yes. Its endpoints lie on the circle. |
-| Is every chord a diameter? | No. Only chords through the centre are diameters. |
-| Are all radii of a circle equal? | Yes. This follows from the definition of a circle. |
-| Can a radius be longer than a diameter? | No. A diameter is twice the radius. |
-| Can a chord have length \(0\)? | In ordinary geometry, a chord has two distinct endpoints, so no. But as a limiting idea, a chord pushed to the boundary becomes very small. |
+| Question                                | Answer                                                                                                                                      |
+| --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Is every diameter a chord?              | Yes. Its endpoints lie on the circle.                                                                                                       |
+| Is every chord a diameter?              | No. Only chords through the centre are diameters.                                                                                           |
+| Are all radii of a circle equal?        | Yes. This follows from the definition of a circle.                                                                                          |
+| Can a radius be longer than a diameter? | No. A diameter is twice the radius.                                                                                                         |
+| Can a chord have length \(0\)?          | In ordinary geometry, a chord has two distinct endpoints, so no. But as a limiting idea, a chord pushed to the boundary becomes very small. |
 
 ---
 
@@ -289,12 +290,12 @@ So a circle has infinitely many lines of reflection symmetry.
 
 ### Comparison with Regular Polygons
 
-| Figure | Rotational Symmetry | Lines of Reflection Symmetry |
-|---|---|---|
-| Square | \(90^\circ, 180^\circ, 270^\circ, 360^\circ\) | 4 |
-| Regular pentagon | Multiples of \(72^\circ\) | 5 |
-| Regular hexagon | Multiples of \(60^\circ\) | 6 |
-| Circle | Every angle | Infinitely many |
+| Figure           | Rotational Symmetry                           | Lines of Reflection Symmetry |
+| ---------------- | --------------------------------------------- | ---------------------------- |
+| Square           | \(90^\circ, 180^\circ, 270^\circ, 360^\circ\) | 4                            |
+| Regular pentagon | Multiples of \(72^\circ\)                     | 5                            |
+| Regular hexagon  | Multiples of \(60^\circ\)                     | 6                            |
+| Circle           | Every angle                                   | Infinitely many              |
 
 ### Important Consequence
 
@@ -444,11 +445,11 @@ For triangle \(ABC\):
 
 ### Position of the Circumcentre
 
-| Type of Triangle | Position of Circumcentre |
-|---|---|
-| Acute-angled triangle | Inside the triangle |
-| Right-angled triangle | Midpoint of the hypotenuse |
-| Obtuse-angled triangle | Outside the triangle |
+| Type of Triangle       | Position of Circumcentre   |
+| ---------------------- | -------------------------- |
+| Acute-angled triangle  | Inside the triangle        |
+| Right-angled triangle  | Midpoint of the hypotenuse |
+| Obtuse-angled triangle | Outside the triangle       |
 
 ### Why the Right Triangle Case Is Special
 
@@ -464,19 +465,19 @@ This also leads to a later result:
 
 ## Exercise Set 5.1 - Guided Format
 
-| Question | What You Need To Do | Key Idea |
-|---|---|---|
-| 1 | Draw \(\triangle ABC\) with \(AB=5\text{ cm}\), \(\angle A=70^\circ\), \(\angle B=60^\circ\). Draw its circumcircle. | Construct triangle, draw perpendicular bisectors, locate circumcentre. The triangle is acute, so centre should be inside. |
-| 2 | Draw \(\triangle ABC\) with \(AB=5\text{ cm}\), \(\angle A=100^\circ\), \(AC=4\text{ cm}\). Draw circumcircle. | The triangle has an obtuse angle, so the circumcentre should be outside. |
-| 3 | Draw \(\triangle ABC\), \(AB=6\text{ cm}\), \(BC=7\text{ cm}\), \(CA=7\text{ cm}\). Draw circumcircle and measure \(OA, OB, OC\). | All three should be equal because they are radii of the circumcircle. |
-| 4 | Find the least possible radius of a circle through two points \(A\) and \(B\). | Smallest circle has \(AB\) as diameter, so radius is \(\frac{AB}{2}\). |
+| Question | What You Need To Do                                                                                                               | Key Idea                                                                                                                  |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| 1        | Draw \(\triangle ABC\) with \(AB=5\text{ cm}\), \(\angle A=70^\circ\), \(\angle B=60^\circ\). Draw its circumcircle.              | Construct triangle, draw perpendicular bisectors, locate circumcentre. The triangle is acute, so centre should be inside. |
+| 2        | Draw \(\triangle ABC\) with \(AB=5\text{ cm}\), \(\angle A=100^\circ\), \(AC=4\text{ cm}\). Draw circumcircle.                    | The triangle has an obtuse angle, so the circumcentre should be outside.                                                  |
+| 3        | Draw \(\triangle ABC\), \(AB=6\text{ cm}\), \(BC=7\text{ cm}\), \(CA=7\text{ cm}\). Draw circumcircle and measure \(OA, OB, OC\). | All three should be equal because they are radii of the circumcircle.                                                     |
+| 4        | Find the least possible radius of a circle through two points \(A\) and \(B\).                                                    | Smallest circle has \(AB\) as diameter, so radius is \(\frac{AB}{2}\).                                                    |
 
 ### Think, Draw, and Infer
 
-| Prompt | Learner Guidance |
-|---|---|
-| Three collinear points \(A\), \(B\), \(C\) | Their perpendicular bisectors do not meet at one common point, so no circle passes through all three. |
-| Can a line cut a circle in three distinct points? | No. A line can intersect a circle in at most two points. |
+| Prompt                                               | Learner Guidance                                                                                                          |
+| ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Three collinear points \(A\), \(B\), \(C\)           | Their perpendicular bisectors do not meet at one common point, so no circle passes through all three.                     |
+| Can a line cut a circle in three distinct points?    | No. A line can intersect a circle in at most two points.                                                                  |
 | Can congruent triangles share the same circumcircle? | Yes. Rotations or reflections of a triangle on the same circle can create congruent triangles with the same circumcircle. |
 
 ---
@@ -602,10 +603,10 @@ $$
 
 Theorem 2 and Theorem 3 form a converse pair.
 
-| Given | Conclusion |
-|---|---|
-| Equal chords | Equal angles at centre |
-| Equal angles at centre | Equal chords |
+| Given                  | Conclusion             |
+| ---------------------- | ---------------------- |
+| Equal chords           | Equal angles at centre |
+| Equal angles at centre | Equal chords           |
 
 ### Worked Example 1
 
@@ -631,10 +632,10 @@ $$
 
 ## Exercise Set 5.2 - Guided Format
 
-| Question | What You Need To Show | Key Idea |
-|---|---|---|
-| 1 | The triangle formed by a chord and the centre is isosceles. | If \(AB\) is a chord and \(O\) is centre, then \(OA=OB\). |
-| 2 | Two such isosceles triangles with equal base length are congruent. | Use SSS: two radii and equal chord/base. |
+| Question | What You Need To Show                                              | Key Idea                                                  |
+| -------- | ------------------------------------------------------------------ | --------------------------------------------------------- |
+| 1        | The triangle formed by a chord and the centre is isosceles.        | If \(AB\) is a chord and \(O\) is centre, then \(OA=OB\). |
+| 2        | Two such isosceles triangles with equal base length are congruent. | Use SSS: two radii and equal chord/base.                  |
 
 ### Model Proof for Question 1
 
@@ -775,10 +776,10 @@ $$
 
 For a chord \(AB\) of a circle with centre \(O\):
 
-| If You Know | You Can Conclude |
-|---|---|
-| \(M\) is midpoint of \(AB\) | \(OM\perp AB\) |
-| \(OM\perp AB\) | \(M\) is midpoint of \(AB\) |
+| If You Know                 | You Can Conclude            |
+| --------------------------- | --------------------------- |
+| \(M\) is midpoint of \(AB\) | \(OM\perp AB\)              |
+| \(OM\perp AB\)              | \(M\) is midpoint of \(AB\) |
 
 ### Important Caution
 
@@ -795,11 +796,11 @@ The line must both:
 
 ## Exercise Set 5.3 - Guided Format
 
-| Question | What You Need To Do | Key Idea |
-|---|---|---|
-| 1 | Explain why the perpendicular from centre to chord bisects the chord. | Use RHS congruence in the two right triangles. |
-| 2 | An isosceles triangle \(ABC\) is inscribed in a circle, \(AB=AC\). Show altitude from \(A\) to \(BC\) passes through centre. | Since \(AB=AC\), equal chords subtend equal geometry; the altitude also bisects \(BC\), so it is perpendicular bisector of chord \(BC\). |
-| 3 | Parallel chords of lengths \(6\text{ cm}\) and \(8\text{ cm}\) are on opposite sides of centre; radius \(5\text{ cm}\). Find distance between midpoints. | Use right triangles formed by radius, half-chord, and perpendicular distance. |
+| Question | What You Need To Do                                                                                                                                      | Key Idea                                                                                                                                 |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| 1        | Explain why the perpendicular from centre to chord bisects the chord.                                                                                    | Use RHS congruence in the two right triangles.                                                                                           |
+| 2        | An isosceles triangle \(ABC\) is inscribed in a circle, \(AB=AC\). Show altitude from \(A\) to \(BC\) passes through centre.                             | Since \(AB=AC\), equal chords subtend equal geometry; the altitude also bisects \(BC\), so it is perpendicular bisector of chord \(BC\). |
+| 3        | Parallel chords of lengths \(6\text{ cm}\) and \(8\text{ cm}\) are on opposite sides of centre; radius \(5\text{ cm}\). Find distance between midpoints. | Use right triangles formed by radius, half-chord, and perpendicular distance.                                                            |
 
 ### Worked Solution for Exercise 5.3, Question 3
 
@@ -1031,10 +1032,10 @@ $$
 
 ### Theorem 6 and Theorem 7 Together
 
-| Given | Conclusion |
-|---|---|
-| Equal chords | Equal distance from centre |
-| Equal distance from centre | Equal chords |
+| Given                      | Conclusion                 |
+| -------------------------- | -------------------------- |
+| Equal chords               | Equal distance from centre |
+| Equal distance from centre | Equal chords               |
 
 ---
 
@@ -1126,21 +1127,21 @@ So the diameter is the greatest chord of a circle.
 
 ## Exercise Set 5.4 - Guided Format
 
-| Question | What You Need To Do | Key Idea |
-|---|---|---|
-| 1 | Use Baudhāyana-Pythagoras to prove equal chords are equidistant from centre. | In both right triangles, hypotenuse \(r\) is equal and half-chords are equal. |
-| 2 | If perpendicular distances from centre to two chords are equal, show chords are equal. | Use RHS congruence or the chord formula. |
-| 3 | Solve Question 2 using Baudhāyana-Pythagoras. | Equal \(r\) and equal \(d\) imply equal half-chords. |
+| Question | What You Need To Do                                                                    | Key Idea                                                                      |
+| -------- | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| 1        | Use Baudhāyana-Pythagoras to prove equal chords are equidistant from centre.           | In both right triangles, hypotenuse \(r\) is equal and half-chords are equal. |
+| 2        | If perpendicular distances from centre to two chords are equal, show chords are equal. | Use RHS congruence or the chord formula.                                      |
+| 3        | Solve Question 2 using Baudhāyana-Pythagoras.                                          | Equal \(r\) and equal \(d\) imply equal half-chords.                          |
 
 ---
 
 ## Exercise Set 5.5 - Guided Format
 
-| Question | Learner Task | Key Idea |
-|---|---|---|
-| 1 | Radius \(7\text{ cm}\), perpendicular distance \(6\text{ cm}\). Find chord length. | Use \(L=2\sqrt{r^2-d^2}\). |
-| 2 | Explain why chord length is \(2\sqrt{r^2-d^2}\). | Drop perpendicular from centre; it bisects chord; apply Baudhāyana-Pythagoras. |
-| 3 | If distance of \(AB\) from centre is twice distance of \(CD\), can we conclude \(CD=2AB\)? | No. Chord length depends on square roots, not direct proportion. |
+| Question | Learner Task                                                                               | Key Idea                                                                       |
+| -------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| 1        | Radius \(7\text{ cm}\), perpendicular distance \(6\text{ cm}\). Find chord length.         | Use \(L=2\sqrt{r^2-d^2}\).                                                     |
+| 2        | Explain why chord length is \(2\sqrt{r^2-d^2}\).                                           | Drop perpendicular from centre; it bisects chord; apply Baudhāyana-Pythagoras. |
+| 3        | If distance of \(AB\) from centre is twice distance of \(CD\), can we conclude \(CD=2AB\)? | No. Chord length depends on square roots, not direct proportion.               |
 
 ### Worked Solution for Exercise 5.5, Question 1
 
@@ -1227,11 +1228,11 @@ For a major arc, this is usually the reflex central angle.
 
 ### Minor Arc and Major Arc
 
-| Central Angle | Type of Arc |
-|---|---|
-| Less than \(180^\circ\) | Minor arc |
-| Equal to \(180^\circ\) | Semicircle |
-| Greater than \(180^\circ\) | Major arc |
+| Central Angle              | Type of Arc |
+| -------------------------- | ----------- |
+| Less than \(180^\circ\)    | Minor arc   |
+| Equal to \(180^\circ\)     | Semicircle  |
+| Greater than \(180^\circ\) | Major arc   |
 
 ### Angle Subtended by an Arc at a Point on the Circle
 
@@ -1355,13 +1356,13 @@ by the Baudhāyana-Pythagoras theorem.
 
 ## Exercise Set 5.6 - Guided Format
 
-| Question | Learner Task | Key Idea |
-|---|---|---|
-| 1 | Centre angle \(AOB=60^\circ\), radius \(12\text{ cm}\). Find chord \(AB\). | Triangle \(AOB\) has \(OA=OB=12\) and included angle \(60^\circ\), so it is equilateral. |
-| 2(i) | Can points \(X,Y\) on same side of \(AB\) give different \(\angle AXB\) and \(\angle AYB\)? | If both are on the same arc segment of the same circle, no. |
-| 2(ii) | If \(\angle AXB=\angle AYB\), must \(X,Y\) lie on same side? | Be careful: equality of angles alone needs context. |
-| 2(iii) | If \(\angle AXB=\angle AYB\) and \(X,Y\) are not on the circle, does the circle through \(A,B,X\) pass through \(Y\)? | Use concyclicity theorem if \(X,Y\) are on the same side of \(AB\). |
-| 3 | Find \(x\) in a given circle figure. | Use angles in same segment or cyclic quadrilateral angle sum depending on figure. |
+| Question | Learner Task                                                                                                          | Key Idea                                                                                 |
+| -------- | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| 1        | Centre angle \(AOB=60^\circ\), radius \(12\text{ cm}\). Find chord \(AB\).                                            | Triangle \(AOB\) has \(OA=OB=12\) and included angle \(60^\circ\), so it is equilateral. |
+| 2(i)     | Can points \(X,Y\) on same side of \(AB\) give different \(\angle AXB\) and \(\angle AYB\)?                           | If both are on the same arc segment of the same circle, no.                              |
+| 2(ii)    | If \(\angle AXB=\angle AYB\), must \(X,Y\) lie on same side?                                                          | Be careful: equality of angles alone needs context.                                      |
+| 2(iii)   | If \(\angle AXB=\angle AYB\) and \(X,Y\) are not on the circle, does the circle through \(A,B,X\) pass through \(Y\)? | Use concyclicity theorem if \(X,Y\) are on the same side of \(AB\).                      |
+| 3        | Find \(x\) in a given circle figure.                                                                                  | Use angles in same segment or cyclic quadrilateral angle sum depending on figure.        |
 
 ### Worked Solution for Exercise 5.6, Question 1
 
@@ -1504,10 +1505,10 @@ then \(ABCD\) is cyclic.
 
 ### Theorem 11 and Theorem 12 Together
 
-| Given | Conclusion |
-|---|---|
-| Quadrilateral is cyclic | Opposite angles are supplementary |
-| Opposite angles are supplementary | Quadrilateral is cyclic |
+| Given                             | Conclusion                        |
+| --------------------------------- | --------------------------------- |
+| Quadrilateral is cyclic           | Opposite angles are supplementary |
+| Opposite angles are supplementary | Quadrilateral is cyclic           |
 
 ### Worked Example 1
 
@@ -1591,49 +1592,49 @@ $$
 
 ### A. Chord Length, Radius, and Distance
 
-| Original Question | Skill Needed | Guide |
-|---|---|---|
-| 1. A chord is \(5\text{ cm}\) away from centre, radius \(13\text{ cm}\). Find chord length. | Chord formula | Use \(L=2\sqrt{13^2-5^2}\). |
-| 3. Diameter \(26\text{ cm}\), chord \(24\text{ cm}\). Find distance from centre. | Reverse chord formula | Radius \(13\), half-chord \(12\), distance \(=\sqrt{13^2-12^2}\). |
-| 4. Radius \(15\text{ cm}\), distance \(9\text{ cm}\). Find chord length. | Chord formula | Use \(L=2\sqrt{15^2-9^2}\). |
-| 9. Chord length \(16\text{ cm}\), distance \(6\text{ cm}\). Find radius. | Right triangle | Half-chord \(8\); radius \(=\sqrt{6^2+8^2}\). |
-| 18. Parallel chords \(10\text{ cm}\) and \(24\text{ cm}\) on same side of centre, distance between them \(7\text{ cm}\). Find radius. | Two right triangles | Let distances from centre be \(d_1,d_2\); use same radius and distance difference \(7\). |
-| 19. Regular hexagon inscribed in circle radius \(r\). Find side and distance of side from centre. | Central angle \(60^\circ\) | Each side equals radius; distance to side is altitude of equilateral triangle. |
+| Original Question                                                                                                                     | Skill Needed               | Guide                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | ---------------------------------------------------------------------------------------- |
+| 1. A chord is \(5\text{ cm}\) away from centre, radius \(13\text{ cm}\). Find chord length.                                           | Chord formula              | Use \(L=2\sqrt{13^2-5^2}\).                                                              |
+| 3. Diameter \(26\text{ cm}\), chord \(24\text{ cm}\). Find distance from centre.                                                      | Reverse chord formula      | Radius \(13\), half-chord \(12\), distance \(=\sqrt{13^2-12^2}\).                        |
+| 4. Radius \(15\text{ cm}\), distance \(9\text{ cm}\). Find chord length.                                                              | Chord formula              | Use \(L=2\sqrt{15^2-9^2}\).                                                              |
+| 9. Chord length \(16\text{ cm}\), distance \(6\text{ cm}\). Find radius.                                                              | Right triangle             | Half-chord \(8\); radius \(=\sqrt{6^2+8^2}\).                                            |
+| 18. Parallel chords \(10\text{ cm}\) and \(24\text{ cm}\) on same side of centre, distance between them \(7\text{ cm}\). Find radius. | Two right triangles        | Let distances from centre be \(d_1,d_2\); use same radius and distance difference \(7\). |
+| 19. Regular hexagon inscribed in circle radius \(r\). Find side and distance of side from centre.                                     | Central angle \(60^\circ\) | Each side equals radius; distance to side is altitude of equilateral triangle.           |
 
 ### B. Angle in a Circle
 
-| Original Question | Skill Needed | Guide |
-|---|---|---|
-| 2. Arc subtends \(70^\circ\) at centre. Find angle at circle. | Theorem 9 | Angle at circle \(=\frac{1}{2}\times 70^\circ\). |
-| 6. \(AB\) is diameter and \(C\) is on circumference. Find \(\angle ACB\). | Angle in semicircle | Answer \(90^\circ\). |
+| Original Question                                                                                    | Skill Needed                           | Guide                                                                                               |
+| ---------------------------------------------------------------------------------------------------- | -------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| 2. Arc subtends \(70^\circ\) at centre. Find angle at circle.                                        | Theorem 9                              | Angle at circle \(=\frac{1}{2}\times 70^\circ\).                                                    |
+| 6. \(AB\) is diameter and \(C\) is on circumference. Find \(\angle ACB\).                            | Angle in semicircle                    | Answer \(90^\circ\).                                                                                |
 | 20. In cyclic quadrilateral \(MNOP\), \(MN\) is diameter. Discuss \(\angle MOP\) and \(\angle MNP\). | Angle in semicircle plus cyclic angles | Any angle subtended by diameter is \(90^\circ\), depending on which points lie on the relevant arc. |
-| 24. Use a figure to justify angle in semicircle. | Central angle theorem | Diameter subtends \(180^\circ\) at centre, so angle at circle is \(90^\circ\). |
+| 24. Use a figure to justify angle in semicircle.                                                     | Central angle theorem                  | Diameter subtends \(180^\circ\) at centre, so angle at circle is \(90^\circ\).                      |
 
 ### C. Cyclic Quadrilateral Problems
 
-| Original Question | Skill Needed | Guide |
-|---|---|---|
-| 7. \(ABCD\) cyclic, \(\angle A=75^\circ\), \(\angle B=110^\circ\). Find \(\angle C,\angle D\). | Opposite angle sum | \(\angle C=105^\circ\), \(\angle D=70^\circ\). |
-| 8. \(\angle P=(2x+10)^\circ\), \(\angle R=(3x-20)^\circ\). | Algebra plus cyclic angles | Set their sum equal to \(180^\circ\). |
-| 10. Cyclic quadrilateral has sides \(5,5,12,12\). Find area. | Split into two congruent triangles or use known cyclic shape | Treat as kite-like cyclic quadrilateral; draw diagonal between equal-side junctions. |
-| 11. Find whether circumcentre lies inside or outside cyclic quadrilateral. | Angle and arc reasoning | Look at whether the quadrilateral contains a diameter-like diagonal or has obtuse angles. |
-| 14. Show rectangle is the only parallelogram that can be inscribed in a circle. | Cyclic quadrilateral + parallelogram | Opposite angles in parallelogram are equal; opposite angles in cyclic quadrilateral add to \(180^\circ\); so each is \(90^\circ\). |
-| 15. If rectangle is inscribed in a circle, diagonals intersect at centre. | Equal diagonals and circumcentre | Diagonal endpoints are opposite points on the circle; intersection is equidistant from all vertices. |
-| 21. Exterior angle of cyclic quadrilateral equals interior opposite angle. | Linear pair and opposite angle sum | Exterior angle \(=180^\circ-\) adjacent interior angle \(=\) opposite interior angle. |
-| 26. Justify opposite angles of cyclic quadrilateral sum to \(180^\circ\). | Arc theorem | Opposite angles are half of arcs that together make \(360^\circ\). |
+| Original Question                                                                              | Skill Needed                                                 | Guide                                                                                                                              |
+| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------- |
+| 7. \(ABCD\) cyclic, \(\angle A=75^\circ\), \(\angle B=110^\circ\). Find \(\angle C,\angle D\). | Opposite angle sum                                           | \(\angle C=105^\circ\), \(\angle D=70^\circ\).                                                                                     |
+| 8. \(\angle P=(2x+10)^\circ\), \(\angle R=(3x-20)^\circ\).                                     | Algebra plus cyclic angles                                   | Set their sum equal to \(180^\circ\).                                                                                              |
+| 10. Cyclic quadrilateral has sides \(5,5,12,12\). Find area.                                   | Split into two congruent triangles or use known cyclic shape | Treat as kite-like cyclic quadrilateral; draw diagonal between equal-side junctions.                                               |
+| 11. Find whether circumcentre lies inside or outside cyclic quadrilateral.                     | Angle and arc reasoning                                      | Look at whether the quadrilateral contains a diameter-like diagonal or has obtuse angles.                                          |
+| 14. Show rectangle is the only parallelogram that can be inscribed in a circle.                | Cyclic quadrilateral + parallelogram                         | Opposite angles in parallelogram are equal; opposite angles in cyclic quadrilateral add to \(180^\circ\); so each is \(90^\circ\). |
+| 15. If rectangle is inscribed in a circle, diagonals intersect at centre.                      | Equal diagonals and circumcentre                             | Diagonal endpoints are opposite points on the circle; intersection is equidistant from all vertices.                               |
+| 21. Exterior angle of cyclic quadrilateral equals interior opposite angle.                     | Linear pair and opposite angle sum                           | Exterior angle \(=180^\circ-\) adjacent interior angle \(=\) opposite interior angle.                                              |
+| 26. Justify opposite angles of cyclic quadrilateral sum to \(180^\circ\).                      | Arc theorem                                                  | Opposite angles are half of arcs that together make \(360^\circ\).                                                                 |
 
 ### D. Proof-Based Chord Questions
 
-| Original Question | Skill Needed | Guide |
-|---|---|---|
-| 5. Prove perpendicular bisector of chord passes through centre. | Equidistant points | Centre is equidistant from chord endpoints, so it lies on their perpendicular bisector. |
-| 12. Equal intersecting chords are divided into corresponding equal segments. | Congruent triangles or chord symmetry | Use equality of chords and angles formed at intersection. |
-| 13. Draw a circle where chord \(6\text{ cm}\) is \(3\text{ cm}\) from centre. | Right triangle construction | Half-chord \(3\), distance \(3\), radius \(3\sqrt2\). |
-| 16. Midpoints of all chords of fixed length form what shape? | Equal distance from centre | They form a circle concentric with original circle. |
-| 17. If chords \(AB\) and \(AC\) are congruent, centre lies on angle bisector of \(\angle BAC\). | Equal chords and congruent triangles | Centre is equidistant in a symmetric way from \(B\) and \(C\). |
-| 22. No chord is longer than diameter. | Distance from centre | Diameter has distance \(0\) from centre and is longest. |
-| 23. Shortest chord through interior point \(A\) is perpendicular to \(OA\). | Chord-distance relation | For chords through \(A\), distance from centre is maximum when chord is perpendicular to \(OA\). |
-| 25. Chords perpendicular to diameter; prove segment joining midpoints is perpendicular to diameter. | Midpoint theorem for chords | Midpoints lie on perpendiculars from centre to those chords, creating a line parallel/perpendicular relation. |
+| Original Question                                                                                   | Skill Needed                          | Guide                                                                                                         |
+| --------------------------------------------------------------------------------------------------- | ------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| 5. Prove perpendicular bisector of chord passes through centre.                                     | Equidistant points                    | Centre is equidistant from chord endpoints, so it lies on their perpendicular bisector.                       |
+| 12. Equal intersecting chords are divided into corresponding equal segments.                        | Congruent triangles or chord symmetry | Use equality of chords and angles formed at intersection.                                                     |
+| 13. Draw a circle where chord \(6\text{ cm}\) is \(3\text{ cm}\) from centre.                       | Right triangle construction           | Half-chord \(3\), distance \(3\), radius \(3\sqrt2\).                                                         |
+| 16. Midpoints of all chords of fixed length form what shape?                                        | Equal distance from centre            | They form a circle concentric with original circle.                                                           |
+| 17. If chords \(AB\) and \(AC\) are congruent, centre lies on angle bisector of \(\angle BAC\).     | Equal chords and congruent triangles  | Centre is equidistant in a symmetric way from \(B\) and \(C\).                                                |
+| 22. No chord is longer than diameter.                                                               | Distance from centre                  | Diameter has distance \(0\) from centre and is longest.                                                       |
+| 23. Shortest chord through interior point \(A\) is perpendicular to \(OA\).                         | Chord-distance relation               | For chords through \(A\), distance from centre is maximum when chord is perpendicular to \(OA\).              |
+| 25. Chords perpendicular to diameter; prove segment joining midpoints is perpendicular to diameter. | Midpoint theorem for chords           | Midpoints lie on perpendiculars from centre to those chords, creating a line parallel/perpendicular relation. |
 
 ---
 
@@ -1881,27 +1882,27 @@ Therefore, the only parallelograms that are cyclic are rectangles.
 
 Use any one of these:
 
-| Given Situation | Conclude Concyclic Because |
-|---|---|
-| Two equal angles stand on same segment \(AB\) and points lie same side of \(AB\) | Converse of angles in same segment |
-| Opposite angles of a quadrilateral add to \(180^\circ\) | Converse cyclic quadrilateral theorem |
-| Four vertices are all at equal distance from one point | They lie on a circle with that point as centre |
+| Given Situation                                                                  | Conclude Concyclic Because                     |
+| -------------------------------------------------------------------------------- | ---------------------------------------------- |
+| Two equal angles stand on same segment \(AB\) and points lie same side of \(AB\) | Converse of angles in same segment             |
+| Opposite angles of a quadrilateral add to \(180^\circ\)                          | Converse cyclic quadrilateral theorem          |
+| Four vertices are all at equal distance from one point                           | They lie on a circle with that point as centre |
 
 ---
 
 ## Common Mistakes and Corrections
 
-| Mistake | Why It Is Wrong | Correct Thinking |
-|---|---|---|
-| Saying every chord is a diameter | A chord need not pass through the centre. | A diameter is a special chord through the centre. |
-| Measuring distance from centre to chord along a slant line | Distance from a point to a line is perpendicular distance. | Always drop a perpendicular from centre to chord. |
-| Forgetting that perpendicular from centre bisects chord | This causes wrong half-chord values. | Use half the chord in the right triangle. |
-| Using full chord in Pythagoras triangle | The right triangle contains half the chord, not the full chord. | Use \(L/2\), not \(L\). |
-| Thinking chord length is directly proportional to distance from centre | Formula has square root: \(L=2\sqrt{r^2-d^2}\). | Greater distance means shorter chord, but not linearly. |
-| Confusing angle at centre and angle at circle | Angle at centre is double the angle at the circle for the same arc. | Centre angle \(=2\times\) circle angle. |
-| Saying all quadrilaterals are cyclic | Only some quadrilaterals have vertices on one circle. | Use opposite angle sum or equal-angle tests. |
-| Forgetting "same side" condition in concyclicity theorem | Equal angles on opposite sides may describe different circle positions. | Check the diagram and side condition. |
-| Treating major and minor arcs as the same | They subtend different central angles. | Identify which arc the angle stands on. |
+| Mistake                                                                | Why It Is Wrong                                                         | Correct Thinking                                        |
+| ---------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------- |
+| Saying every chord is a diameter                                       | A chord need not pass through the centre.                               | A diameter is a special chord through the centre.       |
+| Measuring distance from centre to chord along a slant line             | Distance from a point to a line is perpendicular distance.              | Always drop a perpendicular from centre to chord.       |
+| Forgetting that perpendicular from centre bisects chord                | This causes wrong half-chord values.                                    | Use half the chord in the right triangle.               |
+| Using full chord in Pythagoras triangle                                | The right triangle contains half the chord, not the full chord.         | Use \(L/2\), not \(L\).                                 |
+| Thinking chord length is directly proportional to distance from centre | Formula has square root: \(L=2\sqrt{r^2-d^2}\).                         | Greater distance means shorter chord, but not linearly. |
+| Confusing angle at centre and angle at circle                          | Angle at centre is double the angle at the circle for the same arc.     | Centre angle \(=2\times\) circle angle.                 |
+| Saying all quadrilaterals are cyclic                                   | Only some quadrilaterals have vertices on one circle.                   | Use opposite angle sum or equal-angle tests.            |
+| Forgetting "same side" condition in concyclicity theorem               | Equal angles on opposite sides may describe different circle positions. | Check the diagram and side condition.                   |
+| Treating major and minor arcs as the same                              | They subtend different central angles.                                  | Identify which arc the angle stands on.                 |
 
 ---
 
@@ -1977,20 +1978,20 @@ $$
 
 ## Theorem Summary
 
-| Theorem | Statement | Main Proof Tool |
-|---|---|---|
-| **1** | Exactly one circle passes through three non-collinear points. | Perpendicular bisectors meet at one point. |
-| **2** | Equal chords subtend equal angles at centre. | SSS congruence. |
-| **3** | Equal central angles stand on equal chords. | SAS congruence. |
-| **4** | Line from centre to midpoint of chord is perpendicular to chord. | Congruence and linear pair. |
-| **5** | Perpendicular from centre to chord bisects chord. | RHS congruence. |
-| **6** | Equal chords are equidistant from centre. | RHS congruence or Pythagoras. |
-| **7** | Chords equidistant from centre are equal. | RHS congruence or Pythagoras. |
-| **8** | Longer chord is nearer to centre. | Pythagoras comparison. |
-| **9** | Angle at centre is double angle at circle for same arc. | Isosceles triangles and exterior angle theorem. |
-| **10** | Equal angles subtended by same segment imply concyclicity. | Contradiction using circle through three points. |
-| **11** | Opposite angles of cyclic quadrilateral add to \(180^\circ\). | Arc angle theorem. |
-| **12** | If opposite angles of a quadrilateral add to \(180^\circ\), it is cyclic. | Converse cyclic theorem. |
+| Theorem | Statement                                                                 | Main Proof Tool                                  |
+| ------- | ------------------------------------------------------------------------- | ------------------------------------------------ |
+| **1**   | Exactly one circle passes through three non-collinear points.             | Perpendicular bisectors meet at one point.       |
+| **2**   | Equal chords subtend equal angles at centre.                              | SSS congruence.                                  |
+| **3**   | Equal central angles stand on equal chords.                               | SAS congruence.                                  |
+| **4**   | Line from centre to midpoint of chord is perpendicular to chord.          | Congruence and linear pair.                      |
+| **5**   | Perpendicular from centre to chord bisects chord.                         | RHS congruence.                                  |
+| **6**   | Equal chords are equidistant from centre.                                 | RHS congruence or Pythagoras.                    |
+| **7**   | Chords equidistant from centre are equal.                                 | RHS congruence or Pythagoras.                    |
+| **8**   | Longer chord is nearer to centre.                                         | Pythagoras comparison.                           |
+| **9**   | Angle at centre is double angle at circle for same arc.                   | Isosceles triangles and exterior angle theorem.  |
+| **10**  | Equal angles subtended by same segment imply concyclicity.                | Contradiction using circle through three points. |
+| **11**  | Opposite angles of cyclic quadrilateral add to \(180^\circ\).             | Arc angle theorem.                               |
+| **12**  | If opposite angles of a quadrilateral add to \(180^\circ\), it is cyclic. | Converse cyclic theorem.                         |
 
 ---
 
@@ -2171,4 +2172,4 @@ When solving:
 
 ---
 
-*Source: NCERT Class 9 - Maths, Chapter 5 raw file. Learner-facing version manually rewritten from the extracted chapter content about circles.*
+_Source: NCERT Class 9 - Maths, Chapter 5 raw file. Learner-facing version manually rewritten from the extracted chapter content about circles._

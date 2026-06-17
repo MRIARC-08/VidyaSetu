@@ -1,4 +1,5 @@
 # Chapter 3: Human Development
+
 ### NCERT Class 12 - Geography Human
 
 ## Chapter at a Glance
@@ -22,25 +23,25 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Human development | Process of enlarging people's choices and improving well-being. |
-| Economic growth | Increase in income or output. |
-| Development | Qualitative improvement in life conditions. |
-| Equity | Equal access to opportunities. |
-| Sustainability | Development without harming future generations' choices. |
-| Productivity | Ability of people to participate in income generation. |
-| Empowerment | Power to make choices and influence life conditions. |
+| Term                    | Meaning                                                         |
+| ----------------------- | --------------------------------------------------------------- |
+| Human development       | Process of enlarging people's choices and improving well-being. |
+| Economic growth         | Increase in income or output.                                   |
+| Development             | Qualitative improvement in life conditions.                     |
+| Equity                  | Equal access to opportunities.                                  |
+| Sustainability          | Development without harming future generations' choices.        |
+| Productivity            | Ability of people to participate in income generation.          |
+| Empowerment             | Power to make choices and influence life conditions.            |
 | Human Development Index | Composite index using health, education, and income indicators. |
 
 ## Quick Learning Map
 
-| Human development dimension | Indicator idea |
-|---|---|
-| Health | Life expectancy |
-| Education | Schooling and literacy indicators |
-| Standard of living | Per capita income |
-| Freedom and dignity | Wider qualitative concerns |
+| Human development dimension | Indicator idea                    |
+| --------------------------- | --------------------------------- |
+| Health                      | Life expectancy                   |
+| Education                   | Schooling and literacy indicators |
+| Standard of living          | Per capita income                 |
+| Freedom and dignity         | Wider qualitative concerns        |
 
 # Unit 3A: Meaning of Human Development
 
@@ -57,12 +58,12 @@ Important choices include:
 
 # Unit 3B: Growth vs Development
 
-| Basis | Growth | Development |
-|---|---|---|
-| Meaning | Increase in size or quantity | Improvement in quality of life |
-| Main measure | Income, output | Health, education, freedom, equality |
-| Nature | Quantitative | Qualitative and quantitative |
-| Example | GDP rises | Literacy, life expectancy, and dignity improve |
+| Basis        | Growth                       | Development                                    |
+| ------------ | ---------------------------- | ---------------------------------------------- |
+| Meaning      | Increase in size or quantity | Improvement in quality of life                 |
+| Main measure | Income, output               | Health, education, freedom, equality           |
+| Nature       | Quantitative                 | Qualitative and quantitative                   |
+| Example      | GDP rises                    | Literacy, life expectancy, and dignity improve |
 
 Growth can support development, but it does not guarantee it.
 
@@ -223,13 +224,13 @@ For HDI:
 
 # Unit 3K: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
-| Equating development with income only | Human development includes health, education, and choices. |
-| Ignoring sustainability | Future generations' choices matter. |
-| Confusing equity with equality of income only | Equity means fair access to opportunities. |
-| Treating people as passive beneficiaries only | Empowerment makes people active decision-makers. |
-| Forgetting HDI dimensions | Health, education, and standard of living are central. |
+| Mistake                                       | Correction                                                 |
+| --------------------------------------------- | ---------------------------------------------------------- |
+| Equating development with income only         | Human development includes health, education, and choices. |
+| Ignoring sustainability                       | Future generations' choices matter.                        |
+| Confusing equity with equality of income only | Equity means fair access to opportunities.                 |
+| Treating people as passive beneficiaries only | Empowerment makes people active decision-makers.           |
+| Forgetting HDI dimensions                     | Health, education, and standard of living are central.     |
 
 ## Practice Set
 

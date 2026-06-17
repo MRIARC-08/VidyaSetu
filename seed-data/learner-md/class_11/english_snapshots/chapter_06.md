@@ -1,4 +1,5 @@
 # Chapter 6: The Ghat of the Only World
+
 ### NCERT Class 11 English Snapshots
 
 ---
@@ -29,14 +30,14 @@ After studying this chapter, you should be able to:
 
 ## 1. Chapter Snapshot
 
-| Element | Details |
-|---|---|
-| Text type | Memoir and tribute |
-| Writer | Amitav Ghosh |
-| Person remembered | Agha Shahid Ali |
-| Main situation | A dying poet asks a friend to write about him |
-| Tone | Tender, reflective, admiring, elegiac |
-| Main themes | Friendship, memory, death, poetry, exile, cultural identity |
+| Element           | Details                                                     |
+| ----------------- | ----------------------------------------------------------- |
+| Text type         | Memoir and tribute                                          |
+| Writer            | Amitav Ghosh                                                |
+| Person remembered | Agha Shahid Ali                                             |
+| Main situation    | A dying poet asks a friend to write about him               |
+| Tone              | Tender, reflective, admiring, elegiac                       |
+| Main themes       | Friendship, memory, death, poetry, exile, cultural identity |
 
 ---
 
@@ -88,15 +89,15 @@ Their friendship becomes more intense because Shahid is seriously ill. Ordinary 
 
 ## 5. Shahid's Personality
 
-| Trait | Explanation |
-|---|---|
-| Joyful | He loved gatherings, food, music, and company |
-| Witty | He used humour even in painful situations |
+| Trait      | Explanation                                    |
+| ---------- | ---------------------------------------------- |
+| Joyful     | He loved gatherings, food, music, and company  |
+| Witty      | He used humour even in painful situations      |
 | Hospitable | His home was full of visitors and shared meals |
-| Artistic | Poetry shaped his way of seeing life |
-| Courageous | He faced death with unusual openness |
-| Nostalgic | Kashmir remained central to his imagination |
-| Generous | He made others feel included and alive |
+| Artistic   | Poetry shaped his way of seeing life           |
+| Courageous | He faced death with unusual openness           |
+| Nostalgic  | Kashmir remained central to his imagination    |
+| Generous   | He made others feel included and alive         |
 
 Shahid is shown as someone who did not let illness reduce his love of life.
 
@@ -119,14 +120,14 @@ The title is poetic, like Shahid himself.
 
 ## 7. Themes
 
-| Theme | Explanation |
-|---|---|
-| Friendship | The author honours his promise to Shahid |
-| Mortality | Shahid faces death knowingly |
-| Memory | Writing preserves what spoken memory may lose |
-| Art | Poetry gives shape to loss and identity |
-| Exile | Shahid's life carries the ache of Kashmir and displacement |
-| Celebration | Even illness does not stop gatherings and joy |
+| Theme       | Explanation                                                |
+| ----------- | ---------------------------------------------------------- |
+| Friendship  | The author honours his promise to Shahid                   |
+| Mortality   | Shahid faces death knowingly                               |
+| Memory      | Writing preserves what spoken memory may lose              |
+| Art         | Poetry gives shape to loss and identity                    |
+| Exile       | Shahid's life carries the ache of Kashmir and displacement |
+| Celebration | Even illness does not stop gatherings and joy              |
 
 ---
 

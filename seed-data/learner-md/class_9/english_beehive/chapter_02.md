@@ -1,20 +1,21 @@
 # Chapter 2: Craft, Vocation, and the Dignity of Work
+
 ### NCERT Class 9 - English Beehive
 
 ---
 
 ## Chapter at a Glance
 
-| Detail | Learner-Friendly Information |
-|---|---|
-| **Class** | 9 |
-| **Subject** | English Beehive |
-| **Chapter** | 2 |
-| **Actual Main Texts** | "The Pot Maker" and "Gifts of Grace: Honouring Our Vocations" |
-| **Raw File Header** | "The Sound of Music" |
-| **Textbook Pages** | 1-68 |
-| **Core Theme** | Traditional skills, vocation, inherited knowledge, perseverance, identity, and dignity of labour. |
-| **Main Skills** | Reading comprehension, sequence ordering, inference, vocabulary, noun clauses, relative clauses, determiners, reflective writing, poster design, and role-play. |
+| Detail                | Learner-Friendly Information                                                                                                                                    |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Class**             | 9                                                                                                                                                               |
+| **Subject**           | English Beehive                                                                                                                                                 |
+| **Chapter**           | 2                                                                                                                                                               |
+| **Actual Main Texts** | "The Pot Maker" and "Gifts of Grace: Honouring Our Vocations"                                                                                                   |
+| **Raw File Header**   | "The Sound of Music"                                                                                                                                            |
+| **Textbook Pages**    | 1-68                                                                                                                                                            |
+| **Core Theme**        | Traditional skills, vocation, inherited knowledge, perseverance, identity, and dignity of labour.                                                               |
+| **Main Skills**       | Reading comprehension, sequence ordering, inference, vocabulary, noun clauses, relative clauses, determiners, reflective writing, poster design, and role-play. |
 
 > [!NOTE]
 > The raw source file is `chapter_02.md` and its extraction header says "The Sound of Music", but the actual chapter content contains **The Pot Maker** by Temsula Ao, the poem **Gifts of Grace: Honouring Our Vocations**, and learning material on vocations and crafts. This learner-facing version follows the actual chapter content.
@@ -23,16 +24,16 @@
 
 ## Section Structure
 
-| Unit | Text / Skill | Main Learning Focus |
-|---|---|---|
-| **2A** | The Pot Maker | Sentila's dream, Arenla's reluctance, traditional craft, training, failure, support, and artistic inheritance. |
-| **2B** | Vocabulary from the Story | Pottery tools, materials, economic words, and craft vocabulary. |
-| **2C** | Grammar | Noun clauses, relative clauses, and determiners. |
-| **2D** | Speaking and Writing | Character role-play and reflective writing on skills and passion. |
-| **2E** | Learning Beyond the Text | Indigenous pottery, traditional craft, John Galsworthy's "Quality", and handmade work. |
-| **2F** | Gifts of Grace: Honouring Our Vocations | Poetic celebration of vocations and workers. |
-| **2G** | Poem-Based Language Work | Free verse, imagery, metaphor, personification, repetition, alliteration, symbolism, and poster writing. |
-| **2H** | Supplementary Appreciation | "The Lamplighter", vocation research, and haiku creation. |
+| Unit   | Text / Skill                            | Main Learning Focus                                                                                            |
+| ------ | --------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| **2A** | The Pot Maker                           | Sentila's dream, Arenla's reluctance, traditional craft, training, failure, support, and artistic inheritance. |
+| **2B** | Vocabulary from the Story               | Pottery tools, materials, economic words, and craft vocabulary.                                                |
+| **2C** | Grammar                                 | Noun clauses, relative clauses, and determiners.                                                               |
+| **2D** | Speaking and Writing                    | Character role-play and reflective writing on skills and passion.                                              |
+| **2E** | Learning Beyond the Text                | Indigenous pottery, traditional craft, John Galsworthy's "Quality", and handmade work.                         |
+| **2F** | Gifts of Grace: Honouring Our Vocations | Poetic celebration of vocations and workers.                                                                   |
+| **2G** | Poem-Based Language Work                | Free verse, imagery, metaphor, personification, repetition, alliteration, symbolism, and poster writing.       |
+| **2H** | Supplementary Appreciation              | "The Lamplighter", vocation research, and haiku creation.                                                      |
 
 ---
 
@@ -40,41 +41,41 @@
 
 By the end of this chapter, you should be able to:
 
-| Outcome | You Should Be Able To... |
-|---|---|
-| **Understand the story** | Explain Sentila's dream, Arenla's resistance, and the final emergence of a new pot maker. |
-| **Analyse characters** | Describe Sentila, Arenla, Mesoba, Onula, and the village council. |
-| **Explain craft tradition** | Discuss why community skills must be preserved and passed on. |
-| **Infer emotional meaning** | Understand Sentila's guilt, Onula's insight, and Arenla's hidden support. |
-| **Order events** | Arrange major story events in the correct sequence. |
-| **Use craft vocabulary** | Classify tools, raw materials, and processes in pottery. |
-| **Use grammar structures** | Identify and form noun clauses, relative clauses, and determiners. |
-| **Appreciate poetry** | Explain how the poem celebrates vocations through imagery and sound. |
-| **Write reflectively** | Describe your own skills, passions, and possible career direction. |
-| **Design a poster** | Prepare a clear poster for a career event. |
+| Outcome                     | You Should Be Able To...                                                                  |
+| --------------------------- | ----------------------------------------------------------------------------------------- |
+| **Understand the story**    | Explain Sentila's dream, Arenla's resistance, and the final emergence of a new pot maker. |
+| **Analyse characters**      | Describe Sentila, Arenla, Mesoba, Onula, and the village council.                         |
+| **Explain craft tradition** | Discuss why community skills must be preserved and passed on.                             |
+| **Infer emotional meaning** | Understand Sentila's guilt, Onula's insight, and Arenla's hidden support.                 |
+| **Order events**            | Arrange major story events in the correct sequence.                                       |
+| **Use craft vocabulary**    | Classify tools, raw materials, and processes in pottery.                                  |
+| **Use grammar structures**  | Identify and form noun clauses, relative clauses, and determiners.                        |
+| **Appreciate poetry**       | Explain how the poem celebrates vocations through imagery and sound.                      |
+| **Write reflectively**      | Describe your own skills, passions, and possible career direction.                        |
+| **Design a poster**         | Prepare a clear poster for a career event.                                                |
 
 ---
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| **Vocation** | Skill-based occupation or calling. |
-| **Craft** | Skilled work done by hand, often with tradition and artistry. |
-| **Pottery** | Making pots and other objects from clay. |
-| **Kiln** | Furnace or heated structure used to fire pots. |
-| **Spatula** | Tool used by a potter to shape clay. |
-| **Dao** | Tool used for digging or cutting in some regions. |
-| **Malleable** | Able to be shaped without breaking. |
-| **Dexterity** | Skill and quickness in using the hands. |
-| **Pittance** | Very small amount of money. |
-| **Livelihood** | Way of earning a living. |
-| **Tradition** | Knowledge, belief, or practice passed down across generations. |
-| **Revelation** | Powerful moment of realisation. |
-| **Free verse** | Poetry without a fixed rhyme scheme or regular metre. |
-| **Imagery** | Language that creates sensory pictures. |
-| **Personification** | Giving human qualities to non-human things. |
-| **Symbolism** | Use of something concrete to represent a larger idea. |
+| Term                | Meaning                                                        |
+| ------------------- | -------------------------------------------------------------- |
+| **Vocation**        | Skill-based occupation or calling.                             |
+| **Craft**           | Skilled work done by hand, often with tradition and artistry.  |
+| **Pottery**         | Making pots and other objects from clay.                       |
+| **Kiln**            | Furnace or heated structure used to fire pots.                 |
+| **Spatula**         | Tool used by a potter to shape clay.                           |
+| **Dao**             | Tool used for digging or cutting in some regions.              |
+| **Malleable**       | Able to be shaped without breaking.                            |
+| **Dexterity**       | Skill and quickness in using the hands.                        |
+| **Pittance**        | Very small amount of money.                                    |
+| **Livelihood**      | Way of earning a living.                                       |
+| **Tradition**       | Knowledge, belief, or practice passed down across generations. |
+| **Revelation**      | Powerful moment of realisation.                                |
+| **Free verse**      | Poetry without a fixed rhyme scheme or regular metre.          |
+| **Imagery**         | Language that creates sensory pictures.                        |
+| **Personification** | Giving human qualities to non-human things.                    |
+| **Symbolism**       | Use of something concrete to represent a larger idea.          |
 
 ---
 
@@ -111,15 +112,15 @@ Together, the texts ask:
 
 ## Text Identity
 
-| Detail | Information |
-|---|---|
-| **Title** | The Pot Maker |
-| **Author** | Temsula Ao |
-| **Genre** | Short story |
-| **Main Character** | Sentila |
-| **Other Important Characters** | Arenla, Mesoba, Onula, village elders |
-| **Central Conflict** | Sentila wants to learn pottery, but her mother wants her to choose weaving. |
-| **Main Theme** | The survival of traditional craft through passion, perseverance, and community responsibility. |
+| Detail                         | Information                                                                                    |
+| ------------------------------ | ---------------------------------------------------------------------------------------------- |
+| **Title**                      | The Pot Maker                                                                                  |
+| **Author**                     | Temsula Ao                                                                                     |
+| **Genre**                      | Short story                                                                                    |
+| **Main Character**             | Sentila                                                                                        |
+| **Other Important Characters** | Arenla, Mesoba, Onula, village elders                                                          |
+| **Central Conflict**           | Sentila wants to learn pottery, but her mother wants her to choose weaving.                    |
+| **Main Theme**                 | The survival of traditional craft through passion, perseverance, and community responsibility. |
 
 ---
 
@@ -151,19 +152,19 @@ During a later pot-making session, Arenla leaves Sentila to continue the work. S
 
 ## Detailed Plot Map
 
-| Stage | Event | Importance |
-|---|---|---|
-| **Dream begins** | Sentila wants to become a pot maker. | Shows her passion. |
-| **Mother's opposition** | Arenla wants her to learn weaving. | Introduces practical conflict. |
-| **Secret learning** | Sentila watches expert potters. | Shows curiosity and commitment. |
-| **Village concern** | Elders call Mesoba and question the family. | Shows craft as community heritage. |
-| **Mother teaches** | Arenla starts training Sentila. | Tradition begins to pass down. |
-| **Failure phase** | Sentila fails despite a year of training. | Shows that passion alone is not enough. |
-| **Onula's support** | Onula teaches Sentila with patience. | Supportive teaching unlocks confidence. |
-| **Observation** | Sentila studies her mother's hand movements. | Learning requires attention to detail. |
-| **Breakthrough** | Sentila makes many pots skillfully. | Her craft identity emerges. |
-| **Arenla's death** | Sentila discovers her mother has died. | Creates emotional complexity and guilt. |
-| **Final revelation** | Onula sees two rows of pots. | Confirms Sentila has inherited the craft. |
+| Stage                   | Event                                        | Importance                                |
+| ----------------------- | -------------------------------------------- | ----------------------------------------- |
+| **Dream begins**        | Sentila wants to become a pot maker.         | Shows her passion.                        |
+| **Mother's opposition** | Arenla wants her to learn weaving.           | Introduces practical conflict.            |
+| **Secret learning**     | Sentila watches expert potters.              | Shows curiosity and commitment.           |
+| **Village concern**     | Elders call Mesoba and question the family.  | Shows craft as community heritage.        |
+| **Mother teaches**      | Arenla starts training Sentila.              | Tradition begins to pass down.            |
+| **Failure phase**       | Sentila fails despite a year of training.    | Shows that passion alone is not enough.   |
+| **Onula's support**     | Onula teaches Sentila with patience.         | Supportive teaching unlocks confidence.   |
+| **Observation**         | Sentila studies her mother's hand movements. | Learning requires attention to detail.    |
+| **Breakthrough**        | Sentila makes many pots skillfully.          | Her craft identity emerges.               |
+| **Arenla's death**      | Sentila discovers her mother has died.       | Creates emotional complexity and guilt.   |
+| **Final revelation**    | Onula sees two rows of pots.                 | Confirms Sentila has inherited the craft. |
 
 ---
 
@@ -171,41 +172,41 @@ During a later pot-making session, Arenla leaves Sentila to continue the work. S
 
 ### Sentila
 
-| Quality | Evidence / Moment | Explanation |
-|---|---|---|
-| **Passionate** | She dreams of pottery from childhood. | Her desire is deep and persistent. |
-| **Secretive** | She hides her visits to potters from home. | She fears her mother's disapproval. |
-| **Observant** | She watches expert potters and later studies her mother's technique. | Craft learning depends on observation. |
-| **Persevering** | She continues despite repeated failure. | She does not abandon her dream. |
-| **Sensitive** | She feels shame, frustration, and guilt. | She is emotionally invested in her craft and mother. |
-| **Talented** | She finally creates pots nearly equal to her mother's work. | Her skill emerges when confidence and observation come together. |
+| Quality         | Evidence / Moment                                                    | Explanation                                                      |
+| --------------- | -------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| **Passionate**  | She dreams of pottery from childhood.                                | Her desire is deep and persistent.                               |
+| **Secretive**   | She hides her visits to potters from home.                           | She fears her mother's disapproval.                              |
+| **Observant**   | She watches expert potters and later studies her mother's technique. | Craft learning depends on observation.                           |
+| **Persevering** | She continues despite repeated failure.                              | She does not abandon her dream.                                  |
+| **Sensitive**   | She feels shame, frustration, and guilt.                             | She is emotionally invested in her craft and mother.             |
+| **Talented**    | She finally creates pots nearly equal to her mother's work.          | Her skill emerges when confidence and observation come together. |
 
 ### Arenla
 
-| Quality | Evidence / Moment | Explanation |
-|---|---|---|
-| **Practical** | She wants Sentila to learn weaving. | She thinks of income, comfort, and security. |
+| Quality          | Evidence / Moment                                                               | Explanation                                              |
+| ---------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| **Practical**    | She wants Sentila to learn weaving.                                             | She thinks of income, comfort, and security.             |
 | **Hard-working** | She knows the labour of collecting, pounding, shaping, drying, and firing clay. | Her resistance comes from experience, not lack of skill. |
-| **Protective** | She wants a less difficult life for Sentila. | Her opposition is connected to maternal concern. |
-| **Skilled** | She can quickly transform clay into beautiful pots. | She is an expert craftswoman. |
-| **Complex** | She appears reluctant but eventually teaches Sentila. | She carries both burden and duty. |
+| **Protective**   | She wants a less difficult life for Sentila.                                    | Her opposition is connected to maternal concern.         |
+| **Skilled**      | She can quickly transform clay into beautiful pots.                             | She is an expert craftswoman.                            |
+| **Complex**      | She appears reluctant but eventually teaches Sentila.                           | She carries both burden and duty.                        |
 
 ### Mesoba
 
-| Quality | Evidence / Moment | Explanation |
-|---|---|---|
-| **Diplomatic** | He speaks humbly to the council. | He tries to protect his family from criticism. |
-| **Responsible** | He discusses the matter with Arenla. | He recognises community expectations. |
+| Quality                | Evidence / Moment                            | Explanation                                             |
+| ---------------------- | -------------------------------------------- | ------------------------------------------------------- |
+| **Diplomatic**         | He speaks humbly to the council.             | He tries to protect his family from criticism.          |
+| **Responsible**        | He discusses the matter with Arenla.         | He recognises community expectations.                   |
 | **Supportive in time** | His explanation suggests Sentila will learn. | He becomes part of the process of passing on the skill. |
 
 ### Onula
 
-| Quality | Evidence / Moment | Explanation |
-|---|---|---|
-| **Kind** | She comforts Sentila. | She gives emotional safety. |
-| **Observant** | She notices Sentila's tension. | She understands why the clay is not yielding. |
-| **Wise teacher** | She demonstrates and gives specific guidance. | She teaches without humiliating. |
-| **Intuitive** | She understands the significance of the two rows of pots. | She recognises a transformation others miss. |
+| Quality          | Evidence / Moment                                         | Explanation                                   |
+| ---------------- | --------------------------------------------------------- | --------------------------------------------- |
+| **Kind**         | She comforts Sentila.                                     | She gives emotional safety.                   |
+| **Observant**    | She notices Sentila's tension.                            | She understands why the clay is not yielding. |
+| **Wise teacher** | She demonstrates and gives specific guidance.             | She teaches without humiliating.              |
+| **Intuitive**    | She understands the significance of the two rows of pots. | She recognises a transformation others miss.  |
 
 ### Village Council
 
@@ -217,18 +218,18 @@ The council represents community memory and responsibility. It believes that tra
 
 Sentila observes that pot making is a long, skilled process.
 
-| Step | Process | Skill Needed |
-|---|---|---|
-| **1** | Dig grey and red clay from the riverbank. | Strength and knowledge of material. |
-| **2** | Carry the clay uphill in a basket. | Physical endurance. |
-| **3** | Soak the clay in a trough. | Preparation and patience. |
-| **4** | Stuff clay into bamboo cylinders in the right proportion. | Experience with consistency. |
-| **5** | Pound clay until it becomes soft and malleable. | Labour and timing. |
-| **6** | Shape clay with hand and spatula. | Dexterity and rhythm. |
-| **7** | Add finishing touches and test shape. | Precision. |
-| **8** | Dry pots in the sun. | Weather awareness. |
-| **9** | Load pots into the kiln with hay and bamboo. | Careful arrangement. |
-| **10** | Fire the kiln correctly. | Judgement; overfiring or underfiring can ruin the batch. |
+| Step   | Process                                                   | Skill Needed                                             |
+| ------ | --------------------------------------------------------- | -------------------------------------------------------- |
+| **1**  | Dig grey and red clay from the riverbank.                 | Strength and knowledge of material.                      |
+| **2**  | Carry the clay uphill in a basket.                        | Physical endurance.                                      |
+| **3**  | Soak the clay in a trough.                                | Preparation and patience.                                |
+| **4**  | Stuff clay into bamboo cylinders in the right proportion. | Experience with consistency.                             |
+| **5**  | Pound clay until it becomes soft and malleable.           | Labour and timing.                                       |
+| **6**  | Shape clay with hand and spatula.                         | Dexterity and rhythm.                                    |
+| **7**  | Add finishing touches and test shape.                     | Precision.                                               |
+| **8**  | Dry pots in the sun.                                      | Weather awareness.                                       |
+| **9**  | Load pots into the kiln with hay and bamboo.              | Careful arrangement.                                     |
+| **10** | Fire the kiln correctly.                                  | Judgement; overfiring or underfiring can ruin the batch. |
 
 ---
 
@@ -236,14 +237,14 @@ Sentila observes that pot making is a long, skilled process.
 
 Arenla does not reject pottery because she lacks skill. She rejects it because she knows its hardships.
 
-| Pot Making | Weaving |
-|---|---|
-| Requires clay from a distant riverbank. | Can be done indoors. |
-| Involves heavy carrying. | Less physically harsh. |
+| Pot Making                               | Weaving                         |
+| ---------------------------------------- | ------------------------------- |
+| Requires clay from a distant riverbank.  | Can be done indoors.            |
+| Involves heavy carrying.                 | Less physically harsh.          |
 | Needs pounding, shaping, drying, firing. | More manageable in all seasons. |
-| Messy and tiring. | Cleaner. |
-| Takes months for one batch. | One shawl takes less time. |
-| Gives low income. | Gives better return. |
+| Messy and tiring.                        | Cleaner.                        |
+| Takes months for one batch.              | One shawl takes less time.      |
+| Gives low income.                        | Gives better return.            |
 
 This makes Arenla's character realistic. She is not against tradition; she is worried about livelihood and hardship.
 
@@ -303,17 +304,17 @@ The ending is both sad and powerful. Arenla dies, but her craft does not die.
 
 ## Correct Sequence of Events
 
-| Order | Event Number from Raw Exercise | Event |
-|---:|---:|---|
-| 1 | 4 | Sentila was passionate about pottery but did not share it with her mother. |
-| 2 | 6 | Sentila overheard her mother saying pottery was tiring and poorly paid. |
-| 3 | 3 | Sentila observed expert potters crafting beautiful pots. |
-| 4 | 1 | The village council called Mesoba to ask why Arenla was not teaching Sentila. |
-| 5 | 8 | Sentila trained with her mother for a year but remained unsuccessful. |
-| 6 | 5 | Onula guided Sentila in the art of pot making. |
-| 7 | 2 | Arenla made a batch and asked Sentila to continue because she was unwell. |
-| 8 | 9 | Sentila made pots quickly and skillfully, just one fewer than her mother. |
-| 9 | 7 | Onula saw two rows of pots and felt they were the work of two people. |
+| Order | Event Number from Raw Exercise | Event                                                                         |
+| ----: | -----------------------------: | ----------------------------------------------------------------------------- |
+|     1 |                              4 | Sentila was passionate about pottery but did not share it with her mother.    |
+|     2 |                              6 | Sentila overheard her mother saying pottery was tiring and poorly paid.       |
+|     3 |                              3 | Sentila observed expert potters crafting beautiful pots.                      |
+|     4 |                              1 | The village council called Mesoba to ask why Arenla was not teaching Sentila. |
+|     5 |                              8 | Sentila trained with her mother for a year but remained unsuccessful.         |
+|     6 |                              5 | Onula guided Sentila in the art of pot making.                                |
+|     7 |                              2 | Arenla made a batch and asked Sentila to continue because she was unwell.     |
+|     8 |                              9 | Sentila made pots quickly and skillfully, just one fewer than her mother.     |
+|     9 |                              7 | Onula saw two rows of pots and felt they were the work of two people.         |
 
 ---
 
@@ -345,23 +346,23 @@ It shows that Sentila is serious, patient, and willing to learn through close at
 
 ### Extract 1: Arenla's Complaint About Pottery
 
-| Question | Answer Guidance |
-|---|---|
-| Why is the assertion correct? | The effort in pot making is far greater than the income because the process is long, exhausting, and poorly paid. |
-| Why does Arenla want Sentila to learn weaving? | Weaving gives better returns, can be done indoors, is less messy, and helps provide cloth for the family. |
-| One advantage of weaving | It can be done indoors in all seasons. |
-| Meaning of "handsome" | In this context, it means good or generous profit, not physical beauty. |
-| Purpose of the question mark in "And the reward?" | It expresses Arenla's frustration and emphasises the disappointing income. |
+| Question                                          | Answer Guidance                                                                                                   |
+| ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Why is the assertion correct?                     | The effort in pot making is far greater than the income because the process is long, exhausting, and poorly paid. |
+| Why does Arenla want Sentila to learn weaving?    | Weaving gives better returns, can be done indoors, is less messy, and helps provide cloth for the family.         |
+| One advantage of weaving                          | It can be done indoors in all seasons.                                                                            |
+| Meaning of "handsome"                             | In this context, it means good or generous profit, not physical beauty.                                           |
+| Purpose of the question mark in "And the reward?" | It expresses Arenla's frustration and emphasises the disappointing income.                                        |
 
 ### Extract 2: Onula Helps Sentila
 
-| Question | Answer Guidance |
-|---|---|
-| Why are Sentila's efforts clumsy? | She is tense, unsure, and unable to control the clay properly. |
-| What does Onula's promise show? | She is thoughtful and generous. |
+| Question                              | Answer Guidance                                                          |
+| ------------------------------------- | ------------------------------------------------------------------------ |
+| Why are Sentila's efforts clumsy?     | She is tense, unsure, and unable to control the clay properly.           |
+| What does Onula's promise show?       | She is thoughtful and generous.                                          |
 | Which option shows effect of a cause? | The clay seemed unable to take shape is the effect of Sentila's tension. |
-| Meaning of "fashioned" | Created or shaped. |
-| How might Sentila feel? | Frustrated, ashamed, disappointed, tired, and helpless. |
+| Meaning of "fashioned"                | Created or shaped.                                                       |
+| How might Sentila feel?               | Frustrated, ashamed, disappointed, tired, and helpless.                  |
 
 ---
 
@@ -403,51 +404,51 @@ Sentila's journey shows that passion must be supported by patience, repeated pra
 
 ### Tools / Implements
 
-| Word | Meaning |
-|---|---|
-| **Dao** | Digging or cutting tool. |
-| **Spatula** | Tool used to shape clay. |
-| **Basket** | Used to carry clay. |
-| **Bamboo cylinders** | Used in preparing and pounding clay. |
-| **Kiln** | Furnace-like structure used to fire pots. |
+| Word                 | Meaning                                   |
+| -------------------- | ----------------------------------------- |
+| **Dao**              | Digging or cutting tool.                  |
+| **Spatula**          | Tool used to shape clay.                  |
+| **Basket**           | Used to carry clay.                       |
+| **Bamboo cylinders** | Used in preparing and pounding clay.      |
+| **Kiln**             | Furnace-like structure used to fire pots. |
 
 ### Raw Materials
 
-| Word | Meaning |
-|---|---|
-| **Clay** | Main material used for pottery. |
-| **Dough** | Soft prepared clay ready for shaping. |
-| **Bed of hay** | Layer used in firing arrangement. |
-| **Dried bamboo** | Fuel or firing material. |
+| Word             | Meaning                               |
+| ---------------- | ------------------------------------- |
+| **Clay**         | Main material used for pottery.       |
+| **Dough**        | Soft prepared clay ready for shaping. |
+| **Bed of hay**   | Layer used in firing arrangement.     |
+| **Dried bamboo** | Fuel or firing material.              |
 
 ### Processes
 
-| Word | Meaning |
-|---|---|
-| **Digging** | Taking clay from the riverbank. |
-| **Soaking** | Softening clay in water. |
-| **Pounding** | Beating clay to soften it. |
-| **Rotating** | Turning clay while shaping. |
-| **Shaping** | Giving form to the clay. |
-| **Firing** | Heating pots in the kiln. |
+| Word         | Meaning                         |
+| ------------ | ------------------------------- |
+| **Digging**  | Taking clay from the riverbank. |
+| **Soaking**  | Softening clay in water.        |
+| **Pounding** | Beating clay to soften it.      |
+| **Rotating** | Turning clay while shaping.     |
+| **Shaping**  | Giving form to the clay.        |
+| **Firing**   | Heating pots in the kiln.       |
 
 ---
 
 ## Economic Vocabulary
 
-| Word | Meaning | Sentence |
-|---|---|---|
-| **Pittance** | Very small payment | The potters earned only a pittance after months of labour. |
-| **Reward** | Return for effort | The reward did not match the hard work. |
-| **Return** | Profit or benefit | Weaving gave a better return than pottery. |
-| **Bankrupt** | Unable to pay debts | A business can become bankrupt if it loses money continuously. |
-| **Credit** | Money borrowed or trust to pay later | The artisan bought raw material on credit. |
-| **Currency** | Money used in a country | The rupee is India's currency. |
-| **Debt** | Money owed | The craftsman worked hard to repay his debt. |
-| **Fiscal** | Related to government money or finance | Fiscal planning affects public welfare. |
-| **Inflation** | Rise in prices | Inflation increases the cost of raw materials. |
-| **Investment** | Money put into something for future benefit | Training is an investment in skill. |
-| **Interest** | Extra money paid on borrowed money | The loan carried high interest. |
+| Word           | Meaning                                     | Sentence                                                       |
+| -------------- | ------------------------------------------- | -------------------------------------------------------------- |
+| **Pittance**   | Very small payment                          | The potters earned only a pittance after months of labour.     |
+| **Reward**     | Return for effort                           | The reward did not match the hard work.                        |
+| **Return**     | Profit or benefit                           | Weaving gave a better return than pottery.                     |
+| **Bankrupt**   | Unable to pay debts                         | A business can become bankrupt if it loses money continuously. |
+| **Credit**     | Money borrowed or trust to pay later        | The artisan bought raw material on credit.                     |
+| **Currency**   | Money used in a country                     | The rupee is India's currency.                                 |
+| **Debt**       | Money owed                                  | The craftsman worked hard to repay his debt.                   |
+| **Fiscal**     | Related to government money or finance      | Fiscal planning affects public welfare.                        |
+| **Inflation**  | Rise in prices                              | Inflation increases the cost of raw materials.                 |
+| **Investment** | Money put into something for future benefit | Training is an investment in skill.                            |
+| **Interest**   | Extra money paid on borrowed money          | The loan carried high interest.                                |
 
 ---
 
@@ -465,20 +466,20 @@ It can function as:
 
 ### Examples
 
-| Sentence | Noun Clause | Function |
-|---|---|---|
-| She realised that the pot was ready. | that the pot was ready | Object of "realised" |
-| Onula sensed that something important had happened. | that something important had happened | Object of "sensed" |
+| Sentence                                            | Noun Clause                           | Function             |
+| --------------------------------------------------- | ------------------------------------- | -------------------- |
+| She realised that the pot was ready.                | that the pot was ready                | Object of "realised" |
+| Onula sensed that something important had happened. | that something important had happened | Object of "sensed"   |
 
 ### Complete the Sentences
 
-| Incomplete Sentence | Suitable Completion |
-|---|---|
-| The elders emphasised that... | the craft must be passed on to the next generation. |
-| Mesoba explained why... | Arenla had delayed teaching Sentila. |
-| Onula's promise was that... | she would help Sentila learn to make a pot. |
-| Sentila observed her mother carefully when she was shaping the mouth of the pot, which... | helped her understand the correct technique. |
-| The kiln, where... | the pots were fired, required careful attention. |
+| Incomplete Sentence                                                                       | Suitable Completion                                 |
+| ----------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| The elders emphasised that...                                                             | the craft must be passed on to the next generation. |
+| Mesoba explained why...                                                                   | Arenla had delayed teaching Sentila.                |
+| Onula's promise was that...                                                               | she would help Sentila learn to make a pot.         |
+| Sentila observed her mother carefully when she was shaping the mouth of the pot, which... | helped her understand the correct technique.        |
+| The kiln, where...                                                                        | the pots were fired, required careful attention.    |
 
 ---
 
@@ -497,20 +498,20 @@ It often begins with:
 
 ### Examples
 
-| Sentence | Relative Clause | Noun Described |
-|---|---|---|
-| Arenla took Sentila to the riverbank where the clay was found. | where the clay was found | riverbank |
-| Pot making, which served the people, carried tradition. | which served the people | pot making |
+| Sentence                                                       | Relative Clause          | Noun Described |
+| -------------------------------------------------------------- | ------------------------ | -------------- |
+| Arenla took Sentila to the riverbank where the clay was found. | where the clay was found | riverbank      |
+| Pot making, which served the people, carried tradition.        | which served the people  | pot making     |
 
 ### Complete the Sentences
 
-| Incomplete Sentence | Suitable Completion |
-|---|---|
-| Sentila, whose... | dream was to become a pot maker, practised the craft diligently. |
-| The village council, where... | elders discussed community matters, sought an explanation. |
-| The potter's hands, which... | moved with rhythm and control, shaped the clay beautifully. |
-| Arenla wanted Sentila to learn weaving, which... | could provide better income. |
-| Mesoba discussed the matter with Arenla, who... | later began teaching Sentila. |
+| Incomplete Sentence                              | Suitable Completion                                              |
+| ------------------------------------------------ | ---------------------------------------------------------------- |
+| Sentila, whose...                                | dream was to become a pot maker, practised the craft diligently. |
+| The village council, where...                    | elders discussed community matters, sought an explanation.       |
+| The potter's hands, which...                     | moved with rhythm and control, shaped the clay beautifully.      |
+| Arenla wanted Sentila to learn weaving, which... | could provide better income.                                     |
+| Mesoba discussed the matter with Arenla, who...  | later began teaching Sentila.                                    |
 
 ---
 
@@ -520,24 +521,24 @@ Determiners come before nouns and tell us about number, quantity, ownership, or 
 
 ### Types of Determiners
 
-| Type | Examples |
-|---|---|
-| **Articles** | a, an, the |
-| **Demonstratives** | this, that, these, those |
-| **Possessives** | my, our, your, his, her, its, their |
-| **Definite numerals** | one, two, three |
+| Type                    | Examples                                       |
+| ----------------------- | ---------------------------------------------- |
+| **Articles**            | a, an, the                                     |
+| **Demonstratives**      | this, that, these, those                       |
+| **Possessives**         | my, our, your, his, her, its, their            |
+| **Definite numerals**   | one, two, three                                |
 | **Indefinite numerals** | some, any, no, all, many, few, several, little |
-| **Distributives** | each, every, either, neither |
+| **Distributives**       | each, every, either, neither                   |
 
 ### Examples from Craft Context
 
-| Determiner | Sentence |
-|---|---|
-| **the** | The kiln required careful attention. |
-| **some** | Sentila took out some clay. |
-| **her** | Her mother watched silently. |
-| **many** | Many pots were arranged in rows. |
-| **each** | Each craft has its own discipline. |
+| Determiner | Sentence                             |
+| ---------- | ------------------------------------ |
+| **the**    | The kiln required careful attention. |
+| **some**   | Sentila took out some clay.          |
+| **her**    | Her mother watched silently.         |
+| **many**   | Many pots were arranged in rows.     |
+| **each**   | Each craft has its own discipline.   |
 
 ### Fill-in Practice: Model Answers
 
@@ -570,13 +571,13 @@ Your conversation should include:
 
 ### Character Viewpoints
 
-| Character | Possible Viewpoint |
-|---|---|
-| **Sentila** | I want to learn pottery because it is my passion and part of my family heritage. |
-| **Arenla** | I want to protect you from a hard and poorly paid life. |
-| **Mesoba** | We must balance family welfare and community tradition. |
-| **Onula** | Confidence and careful observation will help you learn. |
-| **Village elder** | A community craft must not disappear. |
+| Character         | Possible Viewpoint                                                               |
+| ----------------- | -------------------------------------------------------------------------------- |
+| **Sentila**       | I want to learn pottery because it is my passion and part of my family heritage. |
+| **Arenla**        | I want to protect you from a hard and poorly paid life.                          |
+| **Mesoba**        | We must balance family welfare and community tradition.                          |
+| **Onula**         | Confidence and careful observation will help you learn.                          |
+| **Village elder** | A community craft must not disappear.                                            |
 
 ### Sample Dialogue
 
@@ -602,14 +603,14 @@ Reflective writing is personal but organised. It explains what you feel, what yo
 
 ### Structure
 
-| Step | What to Write |
-|---|---|
-| **Introduction** | Name your passion or skill. |
-| **Describe the skill** | Explain what you do to practise it. |
+| Step                      | What to Write                           |
+| ------------------------- | --------------------------------------- |
+| **Introduction**          | Name your passion or skill.             |
+| **Describe the skill**    | Explain what you do to practise it.     |
 | **Connect to profession** | Explain whether it can become a career. |
-| **Examples** | Give a real incident or achievement. |
-| **Reflection** | Explain what you learnt about yourself. |
-| **Conclusion** | Summarise your goal. |
+| **Examples**              | Give a real incident or achievement.    |
+| **Reflection**            | Explain what you learnt about yourself. |
+| **Conclusion**            | Summarise your goal.                    |
 
 ### Model Reflective Paragraph
 
@@ -621,14 +622,14 @@ I have always enjoyed sketching buildings and natural scenes. At first, I treate
 
 ## Indigenous Pottery Styles in India
 
-| Style | Region | Feature |
-|---|---|---|
-| **Khurja pottery** | Uttar Pradesh | Colourful glazed ceramic work. |
-| **Blue pottery** | Jaipur, Rajasthan | Blue and white decorative designs. |
-| **Terracotta** | West Bengal and many other regions | Baked clay objects, often earthy red-brown. |
-| **Andretta pottery** | Himachal Pradesh | Studio pottery tradition with artistic forms. |
-| **Karigari pottery** | Tamil Nadu | Functional and decorative clay work. |
-| **Longpi black pottery** | Manipur | Distinct black pottery made without a wheel. |
+| Style                    | Region                             | Feature                                       |
+| ------------------------ | ---------------------------------- | --------------------------------------------- |
+| **Khurja pottery**       | Uttar Pradesh                      | Colourful glazed ceramic work.                |
+| **Blue pottery**         | Jaipur, Rajasthan                  | Blue and white decorative designs.            |
+| **Terracotta**           | West Bengal and many other regions | Baked clay objects, often earthy red-brown.   |
+| **Andretta pottery**     | Himachal Pradesh                   | Studio pottery tradition with artistic forms. |
+| **Karigari pottery**     | Tamil Nadu                         | Functional and decorative clay work.          |
+| **Longpi black pottery** | Manipur                            | Distinct black pottery made without a wheel.  |
 
 ### Why Pottery Matters
 
@@ -649,13 +650,13 @@ The supplementary prose extract presents Mr Gessler, a bootmaker devoted to qual
 
 ### Connection with The Pot Maker
 
-| The Pot Maker | Quality |
-|---|---|
-| Focuses on pottery. | Focuses on handmade boots. |
-| Shows traditional skill passed through community. | Shows individual pride in craftsmanship. |
-| Economic hardship threatens the craft. | Industrial competition threatens the craftsperson. |
-| Sentila continues the craft. | Mr Gessler's craft struggles to survive. |
-| Celebrates inherited skill. | Celebrates uncompromising quality. |
+| The Pot Maker                                     | Quality                                            |
+| ------------------------------------------------- | -------------------------------------------------- |
+| Focuses on pottery.                               | Focuses on handmade boots.                         |
+| Shows traditional skill passed through community. | Shows individual pride in craftsmanship.           |
+| Economic hardship threatens the craft.            | Industrial competition threatens the craftsperson. |
+| Sentila continues the craft.                      | Mr Gessler's craft struggles to survive.           |
+| Celebrates inherited skill.                       | Celebrates uncompromising quality.                 |
 
 ### Review Points for Learners
 
@@ -674,14 +675,14 @@ When reviewing "Quality", include:
 
 ## Text Identity
 
-| Detail | Information |
-|---|---|
-| **Title** | Gifts of Grace: Honouring Our Vocations |
-| **Poet** | Anonymous |
-| **Genre** | Free verse poem |
-| **Main Subject** | The dignity and beauty of different vocations. |
-| **Mood** | Joyful, celebratory, appreciative. |
-| **Tone** | Reverential and admiring. |
+| Detail           | Information                                                     |
+| ---------------- | --------------------------------------------------------------- |
+| **Title**        | Gifts of Grace: Honouring Our Vocations                         |
+| **Poet**         | Anonymous                                                       |
+| **Genre**        | Free verse poem                                                 |
+| **Main Subject** | The dignity and beauty of different vocations.                  |
+| **Mood**         | Joyful, celebratory, appreciative.                              |
+| **Tone**         | Reverential and admiring.                                       |
 | **Main Message** | Every vocation has value and forms part of a person's identity. |
 
 ---
@@ -711,15 +712,15 @@ The poem asks readers to respect all forms of useful work.
 
 ## True / False with Corrections
 
-| Statement | Answer | Correction / Reason |
-|---|---|---|
-| The poem highlights the skilled work of craftspersons. | True | Craft is central to the poem. |
-| Musicians express emotions through instruments. | True | Artisans with lutes are linked with emotions and dreams. |
-| Carpenters are admired for logical work. | True | The poem suggests precision, which implies careful and measured work. |
-| Electricians are recognised for lighting lives. | True | Their work brightens homes and society. |
-| The poem pays homage to shoemakers who make quality footwear. | True | Shoemakers affirm the quality of their work. |
-| The poem celebrates only patriotism. | False | It celebrates vocations, labour, identity, and social contribution. |
-| Each vocation deserves respect. | True | This is the main message of the poem. |
+| Statement                                                     | Answer | Correction / Reason                                                   |
+| ------------------------------------------------------------- | ------ | --------------------------------------------------------------------- |
+| The poem highlights the skilled work of craftspersons.        | True   | Craft is central to the poem.                                         |
+| Musicians express emotions through instruments.               | True   | Artisans with lutes are linked with emotions and dreams.              |
+| Carpenters are admired for logical work.                      | True   | The poem suggests precision, which implies careful and measured work. |
+| Electricians are recognised for lighting lives.               | True   | Their work brightens homes and society.                               |
+| The poem pays homage to shoemakers who make quality footwear. | True   | Shoemakers affirm the quality of their work.                          |
+| The poem celebrates only patriotism.                          | False  | It celebrates vocations, labour, identity, and social contribution.   |
+| Each vocation deserves respect.                               | True   | This is the main message of the poem.                                 |
 
 ---
 
@@ -727,11 +728,11 @@ The poem asks readers to respect all forms of useful work.
 
 ### 1. Rhyme Scheme and Lineation
 
-| Question | Answer |
-|---|---|
-| Does the poem follow a strict rhyme scheme? | No. It is in free verse. |
-| Impact of varying line length | It gives the poem a flowing, expansive quality, like many voices being heard together. |
-| Pattern in many lines | Many lines name a vocation and then describe its action or contribution. |
+| Question                                    | Answer                                                                                 |
+| ------------------------------------------- | -------------------------------------------------------------------------------------- |
+| Does the poem follow a strict rhyme scheme? | No. It is in free verse.                                                               |
+| Impact of varying line length               | It gives the poem a flowing, expansive quality, like many voices being heard together. |
+| Pattern in many lines                       | Many lines name a vocation and then describe its action or contribution.               |
 
 ### 2. Speaker
 
@@ -739,10 +740,10 @@ The speaker appears to be an observer-listener who hears the many working voices
 
 ### 3. Tone and Mood
 
-| Feature | Answer |
-|---|---|
-| Tone | Celebratory and reverential. |
-| Mood | Joyful. |
+| Feature | Answer                       |
+| ------- | ---------------------------- |
+| Tone    | Celebratory and reverential. |
+| Mood    | Joyful.                      |
 
 ### 4. Imagery
 
@@ -776,28 +777,28 @@ Possible examples include repeated consonant sounds in phrases about craft, colo
 
 Each vocation symbolises more than a job.
 
-| Vocation | Symbolises |
-|---|---|
-| Craftsperson | Creativity and tradition. |
-| Artisan | Emotion, beauty, and imagination. |
-| Carpenter | Precision and construction. |
-| Electrician | Practical service and light. |
-| Boatman | Courage, livelihood, and life at sea. |
-| Shoemaker | Movement, protection, and return. |
-| Cook | Nourishment and joy. |
-| Designer / mason | Structure, planning, and skill. |
+| Vocation         | Symbolises                            |
+| ---------------- | ------------------------------------- |
+| Craftsperson     | Creativity and tradition.             |
+| Artisan          | Emotion, beauty, and imagination.     |
+| Carpenter        | Precision and construction.           |
+| Electrician      | Practical service and light.          |
+| Boatman          | Courage, livelihood, and life at sea. |
+| Shoemaker        | Movement, protection, and return.     |
+| Cook             | Nourishment and joy.                  |
+| Designer / mason | Structure, planning, and skill.       |
 
 ---
 
 ## Extract-Based Question Guidance
 
-| Question | Answer Guidance |
-|---|---|
-| Meaning of "affirm" | To declare with confidence. |
-| What do quality shoes help with? | Walking, dancing, running, jumping, and returning home safely. |
-| What does "return home" symbolise? | Safety, belonging, rest, and the completion of daily journeys. |
-| Phrase showing each worker's distinct contribution | The phrase about what belongs to them and to none else. |
-| Meaning of the feet line | It refers to human movement, daily activity, labour, joy, and homecoming. |
+| Question                                           | Answer Guidance                                                           |
+| -------------------------------------------------- | ------------------------------------------------------------------------- |
+| Meaning of "affirm"                                | To declare with confidence.                                               |
+| What do quality shoes help with?                   | Walking, dancing, running, jumping, and returning home safely.            |
+| What does "return home" symbolise?                 | Safety, belonging, rest, and the completion of daily journeys.            |
+| Phrase showing each worker's distinct contribution | The phrase about what belongs to them and to none else.                   |
+| Meaning of the feet line                           | It refers to human movement, daily activity, labour, joy, and homecoming. |
 
 ---
 
@@ -833,26 +834,26 @@ The poem uses sights, sounds, movement, colour, and rhythm to make everyday work
 
 ## Vocation Vocabulary
 
-| Description | Vocation |
-|---|---|
-| A person who studies or grows garden plants | Horticulturist |
-| A trained female community health worker | ASHA worker |
-| A producer of raw silk | Sericulturist |
-| A person who makes or sells sweets and chocolates | Confectioner |
-| A metalworker who works with precious metals | Goldsmith |
-| A person who fuses materials together | Welder |
+| Description                                       | Vocation       |
+| ------------------------------------------------- | -------------- |
+| A person who studies or grows garden plants       | Horticulturist |
+| A trained female community health worker          | ASHA worker    |
+| A producer of raw silk                            | Sericulturist  |
+| A person who makes or sells sweets and chocolates | Confectioner   |
+| A metalworker who works with precious metals      | Goldsmith      |
+| A person who fuses materials together             | Welder         |
 
 ---
 
 ## Odd Word Out: Synonyms
 
-| Word | Odd One Out | Reason |
-|---|---|---|
-| **myriad** | countable | Myriad means countless or numerous. |
-| **hues** | drawing | Hues are colours or shades. |
+| Word          | Odd One Out | Reason                                                           |
+| ------------- | ----------- | ---------------------------------------------------------------- |
+| **myriad**    | countable   | Myriad means countless or numerous.                              |
+| **hues**      | drawing     | Hues are colours or shades.                                      |
 | **precision** | calculation | Precision means exactness or accuracy; calculation is an action. |
-| **varied** | uniform | Varied means diverse; uniform means same. |
-| **delicious** | inedible | Delicious means tasty; inedible means not fit to eat. |
+| **varied**    | uniform     | Varied means diverse; uniform means same.                        |
+| **delicious** | inedible    | Delicious means tasty; inedible means not fit to eat.            |
 
 ---
 
@@ -872,17 +873,17 @@ A poster should be:
 
 ### Poster Content Checklist
 
-| Element | What to Include |
-|---|---|
-| Organiser | Name of school or club. |
-| Event | Career Mela. |
-| Purpose | Awareness about career options. |
-| Date and time | Exact details. |
-| Venue | School hall / auditorium / ground. |
-| Highlights | Counsellors, professionals, stalls, guidance. |
-| Slogan | Short motivating line. |
-| Entry | Free / pass-based. |
-| Issuing authority | Principal / Career Guidance Cell. |
+| Element           | What to Include                               |
+| ----------------- | --------------------------------------------- |
+| Organiser         | Name of school or club.                       |
+| Event             | Career Mela.                                  |
+| Purpose           | Awareness about career options.               |
+| Date and time     | Exact details.                                |
+| Venue             | School hall / auditorium / ground.            |
+| Highlights        | Counsellors, professionals, stalls, guidance. |
+| Slogan            | Short motivating line.                        |
+| Entry             | Free / pass-based.                            |
+| Issuing authority | Principal / Career Guidance Cell.             |
 
 ### Model Poster Text
 
@@ -916,10 +917,10 @@ The supplementary poem presents a child's fascination with a lamplighter named L
 
 ### Connection with the Chapter
 
-| Main Chapter | The Lamplighter |
-|---|---|
-| Celebrates vocations. | Shows a child's admiration for a worker. |
-| Values skill and service. | Values the lamplighter's nightly work. |
+| Main Chapter                 | The Lamplighter                                |
+| ---------------------------- | ---------------------------------------------- |
+| Celebrates vocations.        | Shows a child's admiration for a worker.       |
+| Values skill and service.    | Values the lamplighter's nightly work.         |
 | Connects work with identity. | The child imagines a future role through work. |
 
 ---
@@ -942,14 +943,14 @@ Choose one vocation and prepare a short presentation.
 
 ### Example Topic: Potter
 
-| Point | Content |
-|---|---|
-| Reason for choice | Pottery combines art, tradition, and utility. |
-| Skills | Clay preparation, shaping, drying, firing, design. |
-| Tools | Wheel, kiln, spatula, clay tools, hands. |
-| Social value | Provides useful vessels and preserves culture. |
-| Challenges | Low income, machine-made competition, physical labour. |
-| Future | Studio pottery, eco-friendly products, tourism, design markets. |
+| Point             | Content                                                         |
+| ----------------- | --------------------------------------------------------------- |
+| Reason for choice | Pottery combines art, tradition, and utility.                   |
+| Skills            | Clay preparation, shaping, drying, firing, design.              |
+| Tools             | Wheel, kiln, spatula, clay tools, hands.                        |
+| Social value      | Provides useful vessels and preserves culture.                  |
+| Challenges        | Low income, machine-made competition, physical labour.          |
+| Future            | Studio pottery, eco-friendly products, tourism, design markets. |
 
 ---
 
@@ -959,11 +960,11 @@ A haiku is a very short Japanese poetic form with three lines.
 
 Traditional syllable pattern:
 
-| Line | Syllables |
-|---|---:|
-| Line 1 | 5 |
-| Line 2 | 7 |
-| Line 3 | 5 |
+| Line   | Syllables |
+| ------ | --------: |
+| Line 1 |         5 |
+| Line 2 |         7 |
+| Line 3 |         5 |
 
 ### Craft-Themed Haiku
 
@@ -987,44 +988,44 @@ Hands brighten the night
 
 ### Prose
 
-| Item | Key Point |
-|---|---|
-| Main story | The Pot Maker |
-| Author | Temsula Ao |
-| Protagonist | Sentila |
-| Mother | Arenla |
-| Father | Mesoba |
-| Helper / mentor | Onula |
-| Main conflict | Pottery passion vs weaving practicality |
-| Main symbol | Two rows of newly made pots |
-| Main message | Traditional skill survives through passion, teaching, and perseverance. |
+| Item            | Key Point                                                               |
+| --------------- | ----------------------------------------------------------------------- |
+| Main story      | The Pot Maker                                                           |
+| Author          | Temsula Ao                                                              |
+| Protagonist     | Sentila                                                                 |
+| Mother          | Arenla                                                                  |
+| Father          | Mesoba                                                                  |
+| Helper / mentor | Onula                                                                   |
+| Main conflict   | Pottery passion vs weaving practicality                                 |
+| Main symbol     | Two rows of newly made pots                                             |
+| Main message    | Traditional skill survives through passion, teaching, and perseverance. |
 
 ### Poem
 
-| Item | Key Point |
-|---|---|
-| Poem | Gifts of Grace: Honouring Our Vocations |
-| Poet | Anonymous |
-| Form | Free verse |
-| Mood | Joyful and celebratory |
-| Tone | Reverential and admiring |
-| Main theme | Dignity of labour and identity through vocation |
-| Devices | Imagery, metaphor, personification, repetition, alliteration, symbolism |
+| Item       | Key Point                                                               |
+| ---------- | ----------------------------------------------------------------------- |
+| Poem       | Gifts of Grace: Honouring Our Vocations                                 |
+| Poet       | Anonymous                                                               |
+| Form       | Free verse                                                              |
+| Mood       | Joyful and celebratory                                                  |
+| Tone       | Reverential and admiring                                                |
+| Main theme | Dignity of labour and identity through vocation                         |
+| Devices    | Imagery, metaphor, personification, repetition, alliteration, symbolism |
 
 ---
 
 ## Common Mistakes and Corrections
 
-| Mistake | Better Understanding |
-|---|---|
-| Seeing Arenla only as unsupportive. | She is practical and protective, though initially resistant. |
+| Mistake                                                 | Better Understanding                                                  |
+| ------------------------------------------------------- | --------------------------------------------------------------------- |
+| Seeing Arenla only as unsupportive.                     | She is practical and protective, though initially resistant.          |
 | Thinking Sentila succeeds suddenly without preparation. | Her success comes after observation, practice, failure, and guidance. |
-| Ignoring Onula's role. | Onula gives the confidence and technique Sentila needs. |
-| Treating pottery as just a job. | In the story, it is community tradition and cultural memory. |
-| Saying the poem celebrates only artists. | It celebrates many vocations, including practical service roles. |
-| Confusing noun and relative clauses. | Noun clauses act like nouns; relative clauses describe nouns. |
-| Using too much text on a poster. | Posters should be short, clear, and visually organised. |
-| Writing reflective work like a report. | Reflective writing must include personal insight. |
+| Ignoring Onula's role.                                  | Onula gives the confidence and technique Sentila needs.               |
+| Treating pottery as just a job.                         | In the story, it is community tradition and cultural memory.          |
+| Saying the poem celebrates only artists.                | It celebrates many vocations, including practical service roles.      |
+| Confusing noun and relative clauses.                    | Noun clauses act like nouns; relative clauses describe nouns.         |
+| Using too much text on a poster.                        | Posters should be short, clear, and visually organised.               |
+| Writing reflective work like a report.                  | Reflective writing must include personal insight.                     |
 
 ---
 
@@ -1103,4 +1104,4 @@ For grammar:
 
 ---
 
-*Source: NCERT Class 9 - English Beehive, Chapter 2 raw file. Learner-facing version manually rewritten from the extracted chapter content about craft, vocation, and dignity of work.*
+_Source: NCERT Class 9 - English Beehive, Chapter 2 raw file. Learner-facing version manually rewritten from the extracted chapter content about craft, vocation, and dignity of work._

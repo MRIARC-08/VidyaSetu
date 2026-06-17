@@ -452,8 +452,8 @@ $$
 
 where:
 
-- \(\vec{F}_{AB}\) means force on A by B
-- \(\vec{F}_{BA}\) means force on B by A
+- \(\vec{F}\_{AB}\) means force on A by B
+- \(\vec{F}\_{BA}\) means force on B by A
 
 ## 19. Important Points About Third Law
 
@@ -937,12 +937,12 @@ Centripetal force is not a new kind of force. It is the name given to whichever 
 
 Examples:
 
-| Situation | Force providing centripetal force |
-|---|---|
-| stone tied to string | tension |
-| planet around Sun | gravitational force |
-| car turning on flat road | friction |
-| electron in atom model | electric force |
+| Situation                | Force providing centripetal force |
+| ------------------------ | --------------------------------- |
+| stone tied to string     | tension                           |
+| planet around Sun        | gravitational force               |
+| car turning on flat road | friction                          |
+| electron in atom model   | electric force                    |
 
 ## 35. Car On A Level Circular Road
 
@@ -1608,4 +1608,3 @@ Flat-road maximum speed:
 $$
 v_{\text{max}}=\sqrt{\mu_sRg}
 $$
-

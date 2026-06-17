@@ -1,16 +1,17 @@
 # Chapter 2: Principles of Management
+
 ### NCERT Class 12 - Business Studies Part 1
 
 ## Chapter at a Glance
 
-| Item | Details |
-|---|---|
-| Main idea | Principles of management are broad guidelines that help managers make decisions and take action. |
-| Nature | General, flexible, behavioural, contingent, and based on cause-effect relationships. |
-| Major thinkers | Henry Fayol and F.W. Taylor. |
-| Fayol focus | Administrative principles for overall management. |
-| Taylor focus | Scientific management of work, workers, and production methods. |
-| Most important skill | Apply a principle to a case and identify which principle is violated or followed. |
+| Item                 | Details                                                                                          |
+| -------------------- | ------------------------------------------------------------------------------------------------ |
+| Main idea            | Principles of management are broad guidelines that help managers make decisions and take action. |
+| Nature               | General, flexible, behavioural, contingent, and based on cause-effect relationships.             |
+| Major thinkers       | Henry Fayol and F.W. Taylor.                                                                     |
+| Fayol focus          | Administrative principles for overall management.                                                |
+| Taylor focus         | Scientific management of work, workers, and production methods.                                  |
+| Most important skill | Apply a principle to a case and identify which principle is violated or followed.                |
 
 ## Learning Outcomes
 
@@ -29,30 +30,30 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Principle | Broad guideline for managerial decision and action. |
-| Management principle | General rule based on experience and analysis that guides managerial behaviour. |
-| Division of work | Breaking work into specialised tasks. |
-| Authority | Right to give orders and obtain obedience. |
-| Responsibility | Obligation to perform assigned task. |
-| Discipline | Obedience to organisational rules and agreements. |
-| Unity of command | One employee should receive orders from one superior only. |
-| Unity of direction | One head and one plan for a group of activities with same objective. |
-| Scalar chain | Formal line of authority from top to bottom. |
-| Scientific management | Application of scientific methods to management of work. |
-| Standardisation | Setting uniform standards for materials, methods, tools, and working conditions. |
-| Differential piece wage | Wage system that rewards efficient workers at higher rate. |
+| Term                    | Meaning                                                                          |
+| ----------------------- | -------------------------------------------------------------------------------- |
+| Principle               | Broad guideline for managerial decision and action.                              |
+| Management principle    | General rule based on experience and analysis that guides managerial behaviour.  |
+| Division of work        | Breaking work into specialised tasks.                                            |
+| Authority               | Right to give orders and obtain obedience.                                       |
+| Responsibility          | Obligation to perform assigned task.                                             |
+| Discipline              | Obedience to organisational rules and agreements.                                |
+| Unity of command        | One employee should receive orders from one superior only.                       |
+| Unity of direction      | One head and one plan for a group of activities with same objective.             |
+| Scalar chain            | Formal line of authority from top to bottom.                                     |
+| Scientific management   | Application of scientific methods to management of work.                         |
+| Standardisation         | Setting uniform standards for materials, methods, tools, and working conditions. |
+| Differential piece wage | Wage system that rewards efficient workers at higher rate.                       |
 
 ## Quick Learning Map
 
-| Area | Core Learning |
-|---|---|
-| Principles | Broad decision guidelines, not rigid laws. |
+| Area         | Core Learning                                                                     |
+| ------------ | --------------------------------------------------------------------------------- |
+| Principles   | Broad decision guidelines, not rigid laws.                                        |
 | Significance | Improve understanding, efficiency, research, training, and social responsibility. |
-| Fayol | General administrative principles. |
-| Taylor | Scientific study of work and shop-floor efficiency. |
-| Application | Identify principle from case clues. |
+| Fayol        | General administrative principles.                                                |
+| Taylor       | Scientific study of work and shop-floor efficiency.                               |
+| Application  | Identify principle from case clues.                                               |
 
 # Unit 2A: Meaning of Principles of Management
 
@@ -96,14 +97,14 @@ Application depends on conditions such as size, culture, technology, and people.
 
 # Unit 2C: Significance of Principles
 
-| Significance | Explanation |
-|---|---|
-| Provide useful insight | Help managers understand work situations. |
-| Optimum use of resources | Reduce waste and improve efficiency. |
-| Scientific decisions | Encourage logical decision-making. |
-| Meet changing environment | Flexible principles support adaptation. |
-| Social responsibility | Encourage fairness, equity, and welfare. |
-| Management training | Provide foundation for teaching and learning management. |
+| Significance              | Explanation                                              |
+| ------------------------- | -------------------------------------------------------- |
+| Provide useful insight    | Help managers understand work situations.                |
+| Optimum use of resources  | Reduce waste and improve efficiency.                     |
+| Scientific decisions      | Encourage logical decision-making.                       |
+| Meet changing environment | Flexible principles support adaptation.                  |
+| Social responsibility     | Encourage fairness, equity, and welfare.                 |
+| Management training       | Provide foundation for teaching and learning management. |
 
 # Unit 2D: Fayol's Principles of Management
 
@@ -234,21 +235,21 @@ Taylor suggested dividing supervision among specialists.
 
 ## Planning In-Charge Roles
 
-| Role | Function |
-|---|---|
-| Route clerk | Decides route of work. |
+| Role                   | Function               |
+| ---------------------- | ---------------------- |
+| Route clerk            | Decides route of work. |
 | Instruction card clerk | Prepares instructions. |
-| Time and cost clerk | Records time and cost. |
-| Disciplinarian | Maintains discipline. |
+| Time and cost clerk    | Records time and cost. |
+| Disciplinarian         | Maintains discipline.  |
 
 ## Production In-Charge Roles
 
-| Role | Function |
-|---|---|
-| Speed boss | Ensures timely work speed. |
-| Gang boss | Arranges machines, tools, and materials. |
-| Repair boss | Maintains machines. |
-| Inspector | Checks quality. |
+| Role        | Function                                 |
+| ----------- | ---------------------------------------- |
+| Speed boss  | Ensures timely work speed.               |
+| Gang boss   | Arranges machines, tools, and materials. |
+| Repair boss | Maintains machines.                      |
+| Inspector   | Checks quality.                          |
 
 ## Standardisation and Simplification
 
@@ -300,38 +301,38 @@ Purpose:
 
 # Unit 2H: Fayol vs Taylor
 
-| Basis | Fayol | Taylor |
-|---|---|---|
-| Focus | General administration. | Shop-floor efficiency. |
-| Level | Top and middle management. | Supervisory and worker level. |
-| Perspective | Manager's perspective. | Engineer's perspective. |
-| Main contribution | Fourteen principles. | Scientific management techniques. |
-| Scope | Wider. | More specific. |
-| Aim | Improve overall management. | Improve productivity and work methods. |
+| Basis             | Fayol                       | Taylor                                 |
+| ----------------- | --------------------------- | -------------------------------------- |
+| Focus             | General administration.     | Shop-floor efficiency.                 |
+| Level             | Top and middle management.  | Supervisory and worker level.          |
+| Perspective       | Manager's perspective.      | Engineer's perspective.                |
+| Main contribution | Fourteen principles.        | Scientific management techniques.      |
+| Scope             | Wider.                      | More specific.                         |
+| Aim               | Improve overall management. | Improve productivity and work methods. |
 
 # Unit 2I: Case Identification Guide
 
-| Case Clue | Likely Principle |
-|---|---|
-| Employee gets orders from two bosses | Unity of command violated. |
-| Similar activities have different plans | Unity of direction violated. |
-| Worker has duty but no authority | Authority-responsibility imbalance. |
-| Employee suggestions are ignored | Initiative not encouraged. |
-| Frequent employee turnover | Stability of personnel violated. |
-| Workers and management are in conflict | Harmony or cooperation principle violated. |
-| Work method based on guesswork | Science, not rule of thumb violated. |
-| Unnecessary worker movements | Motion study needed. |
+| Case Clue                               | Likely Principle                           |
+| --------------------------------------- | ------------------------------------------ |
+| Employee gets orders from two bosses    | Unity of command violated.                 |
+| Similar activities have different plans | Unity of direction violated.               |
+| Worker has duty but no authority        | Authority-responsibility imbalance.        |
+| Employee suggestions are ignored        | Initiative not encouraged.                 |
+| Frequent employee turnover              | Stability of personnel violated.           |
+| Workers and management are in conflict  | Harmony or cooperation principle violated. |
+| Work method based on guesswork          | Science, not rule of thumb violated.       |
+| Unnecessary worker movements            | Motion study needed.                       |
 
 # Unit 2J: Common Mistakes and Corrections
 
-| Mistake | Correct Understanding |
-|---|---|
-| Principles are rigid rules | They are flexible guidelines. |
-| Unity of command and unity of direction are same | Command concerns one boss; direction concerns one plan for same objective. |
-| Authority and responsibility can be separated fully | They should be balanced. |
-| Fayol and Taylor gave identical ideas | Fayol focused on administration; Taylor focused on scientific work methods. |
-| Differential piece wage means equal wages | It pays higher rate to efficient workers. |
-| Scalar chain can never be bypassed | Gang plank may be used for urgent communication with permission. |
+| Mistake                                             | Correct Understanding                                                       |
+| --------------------------------------------------- | --------------------------------------------------------------------------- |
+| Principles are rigid rules                          | They are flexible guidelines.                                               |
+| Unity of command and unity of direction are same    | Command concerns one boss; direction concerns one plan for same objective.  |
+| Authority and responsibility can be separated fully | They should be balanced.                                                    |
+| Fayol and Taylor gave identical ideas               | Fayol focused on administration; Taylor focused on scientific work methods. |
+| Differential piece wage means equal wages           | It pays higher rate to efficient workers.                                   |
+| Scalar chain can never be bypassed                  | Gang plank may be used for urgent communication with permission.            |
 
 ## Practice Set
 
@@ -350,42 +351,42 @@ Purpose:
 
 Use this table when a case asks you to identify a principle.
 
-| Case Detail | Principle or Technique | Why |
-|---|---|---|
-| One employee reports to two bosses | Unity of command | Orders from multiple superiors create confusion. |
-| Two departments run separate plans for the same product launch | Unity of direction | Same objective should have one head and one plan. |
-| Manager gives targets but no authority | Authority and responsibility | Responsibility must be matched with authority. |
-| Employees are punished differently for same error | Equity | Fair and just treatment is missing. |
-| Workers leave frequently | Stability of personnel | High turnover reduces efficiency. |
-| Management ignores worker suggestions | Initiative | Employees should be encouraged to contribute ideas. |
-| Departments compete instead of cooperate | Esprit de corps | Team spirit is weak. |
-| Work is done by old habit without analysis | Science, not rule of thumb | Scientific methods should replace guesswork. |
-| Worker movements are studied and reduced | Motion study | Unnecessary motions are eliminated. |
-| Standard time for a task is calculated | Time study | Time standard is being fixed. |
-| Rest pauses are fixed scientifically | Fatigue study | Fatigue is studied to maintain efficiency. |
+| Case Detail                                                    | Principle or Technique       | Why                                                 |
+| -------------------------------------------------------------- | ---------------------------- | --------------------------------------------------- |
+| One employee reports to two bosses                             | Unity of command             | Orders from multiple superiors create confusion.    |
+| Two departments run separate plans for the same product launch | Unity of direction           | Same objective should have one head and one plan.   |
+| Manager gives targets but no authority                         | Authority and responsibility | Responsibility must be matched with authority.      |
+| Employees are punished differently for same error              | Equity                       | Fair and just treatment is missing.                 |
+| Workers leave frequently                                       | Stability of personnel       | High turnover reduces efficiency.                   |
+| Management ignores worker suggestions                          | Initiative                   | Employees should be encouraged to contribute ideas. |
+| Departments compete instead of cooperate                       | Esprit de corps              | Team spirit is weak.                                |
+| Work is done by old habit without analysis                     | Science, not rule of thumb   | Scientific methods should replace guesswork.        |
+| Worker movements are studied and reduced                       | Motion study                 | Unnecessary motions are eliminated.                 |
+| Standard time for a task is calculated                         | Time study                   | Time standard is being fixed.                       |
+| Rest pauses are fixed scientifically                           | Fatigue study                | Fatigue is studied to maintain efficiency.          |
 
 ## Deep Distinctions Learners Often Miss
 
-| Pair | Difference |
-|---|---|
-| Unity of command vs unity of direction | Command concerns one subordinate and one boss; direction concerns one plan for one objective. |
-| Discipline vs equity | Discipline focuses on obedience to rules; equity focuses on fairness in treatment. |
-| Centralisation vs decentralisation | Centralisation keeps authority at top; decentralisation disperses authority downward. |
-| Scalar chain vs gang plank | Scalar chain is formal authority line; gang plank is permitted shortcut for urgent communication. |
-| Method study vs motion study | Method study finds best way to do work; motion study removes wasteful body and machine movements. |
-| Time study vs fatigue study | Time study fixes standard time; fatigue study fixes rest intervals. |
+| Pair                                   | Difference                                                                                        |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| Unity of command vs unity of direction | Command concerns one subordinate and one boss; direction concerns one plan for one objective.     |
+| Discipline vs equity                   | Discipline focuses on obedience to rules; equity focuses on fairness in treatment.                |
+| Centralisation vs decentralisation     | Centralisation keeps authority at top; decentralisation disperses authority downward.             |
+| Scalar chain vs gang plank             | Scalar chain is formal authority line; gang plank is permitted shortcut for urgent communication. |
+| Method study vs motion study           | Method study finds best way to do work; motion study removes wasteful body and machine movements. |
+| Time study vs fatigue study            | Time study fixes standard time; fatigue study fixes rest intervals.                               |
 
 ## Taylor Technique Selection Guide
 
-| Managerial Problem | Best Technique |
-|---|---|
-| Workers use different tools and output quality varies | Standardisation. |
-| Too many varieties increase cost | Simplification. |
-| No one knows fair daily target | Time study. |
-| Workers waste effort in bending, lifting, or searching | Motion study. |
-| Workers slow down after long hours | Fatigue study. |
-| Efficient and inefficient workers receive same reward | Differential piece wage system. |
-| Supervisor is overloaded with many specialised duties | Functional foremanship. |
+| Managerial Problem                                     | Best Technique                  |
+| ------------------------------------------------------ | ------------------------------- |
+| Workers use different tools and output quality varies  | Standardisation.                |
+| Too many varieties increase cost                       | Simplification.                 |
+| No one knows fair daily target                         | Time study.                     |
+| Workers waste effort in bending, lifting, or searching | Motion study.                   |
+| Workers slow down after long hours                     | Fatigue study.                  |
+| Efficient and inefficient workers receive same reward  | Differential piece wage system. |
+| Supervisor is overloaded with many specialised duties  | Functional foremanship.         |
 
 ## Case Answer Framework
 

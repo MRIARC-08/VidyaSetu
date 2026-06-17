@@ -1,4 +1,5 @@
 # Chapter 1: Electric Charges and Fields
+
 ### NCERT Class 12 - Physics Part 1
 
 ## Chapter at a Glance
@@ -25,40 +26,40 @@ By the end of this chapter, learners should be able to:
 
 ## Key Terms
 
-| Term | Meaning |
-|---|---|
-| Electric charge | Property of matter responsible for electric force. |
-| Positive charge | Charge like that on a glass rod rubbed with silk. |
-| Negative charge | Charge like that on an ebonite rod rubbed with fur. |
-| Conductor | Material in which charges can move freely. |
-| Insulator | Material in which charges are not free to move through the body. |
-| Quantisation | Charge exists in integral multiples of electronic charge. |
-| Coulomb's law | Force law between two point charges. |
-| Superposition principle | Net force or field is vector sum of individual effects. |
-| Electric field | Force per unit positive test charge. |
-| Electric flux | Measure of electric field passing through a surface. |
-| Electric dipole | Pair of equal and opposite charges separated by a small distance. |
-| Dipole moment | Vector from negative charge to positive charge, magnitude `q x separation`. |
-| Gaussian surface | Imaginary closed surface used in Gauss's law. |
+| Term                    | Meaning                                                                     |
+| ----------------------- | --------------------------------------------------------------------------- |
+| Electric charge         | Property of matter responsible for electric force.                          |
+| Positive charge         | Charge like that on a glass rod rubbed with silk.                           |
+| Negative charge         | Charge like that on an ebonite rod rubbed with fur.                         |
+| Conductor               | Material in which charges can move freely.                                  |
+| Insulator               | Material in which charges are not free to move through the body.            |
+| Quantisation            | Charge exists in integral multiples of electronic charge.                   |
+| Coulomb's law           | Force law between two point charges.                                        |
+| Superposition principle | Net force or field is vector sum of individual effects.                     |
+| Electric field          | Force per unit positive test charge.                                        |
+| Electric flux           | Measure of electric field passing through a surface.                        |
+| Electric dipole         | Pair of equal and opposite charges separated by a small distance.           |
+| Dipole moment           | Vector from negative charge to positive charge, magnitude `q x separation`. |
+| Gaussian surface        | Imaginary closed surface used in Gauss's law.                               |
 
 ## Quick Formula Map
 
-| Concept | Formula |
-|---|---|
-| Quantisation of charge | `q = ne` |
-| Electronic charge magnitude | `e = 1.6 x 10^-19 C` |
-| Coulomb force | `F = k |q1 q2|/r^2` |
-| Coulomb constant | `k = 1/(4 pi epsilon0)` |
-| Electric field | `E = F/q0` |
-| Field due to point charge | `E = k q/r^2` |
-| Electric flux | `Phi = E A cos theta` |
-| Dipole moment | `p = q(2a)` |
-| Torque on dipole | `tau = p E sin theta` |
-| Gauss's law | `Phi = q_enclosed/epsilon0` |
+| Concept                           | Formula                        |
+| --------------------------------- | ------------------------------ | ----- | ----- |
+| Quantisation of charge            | `q = ne`                       |
+| Electronic charge magnitude       | `e = 1.6 x 10^-19 C`           |
+| Coulomb force                     | `F = k                         | q1 q2 | /r^2` |
+| Coulomb constant                  | `k = 1/(4 pi epsilon0)`        |
+| Electric field                    | `E = F/q0`                     |
+| Field due to point charge         | `E = k q/r^2`                  |
+| Electric flux                     | `Phi = E A cos theta`          |
+| Dipole moment                     | `p = q(2a)`                    |
+| Torque on dipole                  | `tau = p E sin theta`          |
+| Gauss's law                       | `Phi = q_enclosed/epsilon0`    |
 | Field due to infinite line charge | `E = lambda/(2 pi epsilon0 r)` |
-| Field due to infinite plane sheet | `E = sigma/(2 epsilon0)` |
-| Field outside spherical shell | `E = kQ/r^2` |
-| Field inside spherical shell | `E = 0` |
+| Field due to infinite plane sheet | `E = sigma/(2 epsilon0)`       |
+| Field outside spherical shell     | `E = kQ/r^2`                   |
+| Field inside spherical shell      | `E = 0`                        |
 
 # Unit 1A: Electric Charge
 
@@ -367,10 +368,10 @@ Gauss's law becomes useful when electric field has constant magnitude over parts
 
 ## Common Choices
 
-| Charge Distribution | Gaussian Surface |
-|---|---|
-| Infinite line charge | Coaxial cylinder |
-| Infinite plane sheet | Pillbox cylinder |
+| Charge Distribution       | Gaussian Surface  |
+| ------------------------- | ----------------- |
+| Infinite line charge      | Coaxial cylinder  |
+| Infinite plane sheet      | Pillbox cylinder  |
 | Spherical charge or shell | Concentric sphere |
 
 ## Strategy
@@ -521,15 +522,15 @@ Write in this order:
 
 # Unit 1U: Common Mistakes and Corrections
 
-| Mistake | Correction |
-|---|---|
+| Mistake                                    | Correction                                                                    |
+| ------------------------------------------ | ----------------------------------------------------------------------------- |
 | Treating charge as continuous in all cases | Charge is quantised, though quantisation is often negligible macroscopically. |
-| Forgetting vector nature of force | Use directions and components. |
-| Confusing electric field and force | `E = F/q0`; force depends on test charge. |
-| Drawing field lines crossing | Electric field lines never intersect. |
-| Using open surface in Gauss's law | Gauss's law applies to closed surfaces. |
-| Counting outside charge in `q_enclosed` | Only enclosed charge contributes to net flux. |
-| Choosing poor Gaussian surface | Match symmetry to make field constant. |
+| Forgetting vector nature of force          | Use directions and components.                                                |
+| Confusing electric field and force         | `E = F/q0`; force depends on test charge.                                     |
+| Drawing field lines crossing               | Electric field lines never intersect.                                         |
+| Using open surface in Gauss's law          | Gauss's law applies to closed surfaces.                                       |
+| Counting outside charge in `q_enclosed`    | Only enclosed charge contributes to net flux.                                 |
+| Choosing poor Gaussian surface             | Match symmetry to make field constant.                                        |
 
 ## Practice Set
 

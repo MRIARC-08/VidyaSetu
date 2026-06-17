@@ -50,30 +50,30 @@ By the end of this chapter, a learner should be able to:
 
 ## 3. Core Vocabulary
 
-| Term | Learner meaning |
-|---|---|
-| Domestic business | Business within the geographical boundaries of one nation |
-| International business | Business activities across national borders |
-| International trade | Export and import of goods and services |
-| Merchandise trade | Trade in tangible goods |
-| Invisible trade | Trade in services |
-| Export | Sending goods or services to another country |
-| Import | Bringing goods or services from another country |
-| FDI | Foreign direct investment with control or active business involvement |
-| Portfolio investment | Foreign investment in financial assets such as shares or bonds |
-| Contract manufacturing | Getting goods or components produced by a foreign local manufacturer under contract |
-| Licensing | Allowing a foreign firm to use patents, technology, trademark, or know-how for royalty |
-| Franchising | Service-business version of licensing with stricter operating rules |
-| Joint venture | Business owned jointly by two or more independent firms |
-| Wholly owned subsidiary | Foreign company fully owned by the parent company |
-| Proforma invoice | Quotation sent by exporter showing product and sale terms |
-| Letter of credit | Bank guarantee assuring payment to exporter |
-| Bill of lading | Shipping document and title document for sea transport |
-| Bill of entry | Import document submitted to customs for imported goods |
-| Sight draft | Bill of exchange where documents are released against payment |
-| Usance draft | Bill of exchange where documents are released against acceptance |
-| IMF | International Monetary Fund |
-| WTO | World Trade Organization |
+| Term                    | Learner meaning                                                                        |
+| ----------------------- | -------------------------------------------------------------------------------------- |
+| Domestic business       | Business within the geographical boundaries of one nation                              |
+| International business  | Business activities across national borders                                            |
+| International trade     | Export and import of goods and services                                                |
+| Merchandise trade       | Trade in tangible goods                                                                |
+| Invisible trade         | Trade in services                                                                      |
+| Export                  | Sending goods or services to another country                                           |
+| Import                  | Bringing goods or services from another country                                        |
+| FDI                     | Foreign direct investment with control or active business involvement                  |
+| Portfolio investment    | Foreign investment in financial assets such as shares or bonds                         |
+| Contract manufacturing  | Getting goods or components produced by a foreign local manufacturer under contract    |
+| Licensing               | Allowing a foreign firm to use patents, technology, trademark, or know-how for royalty |
+| Franchising             | Service-business version of licensing with stricter operating rules                    |
+| Joint venture           | Business owned jointly by two or more independent firms                                |
+| Wholly owned subsidiary | Foreign company fully owned by the parent company                                      |
+| Proforma invoice        | Quotation sent by exporter showing product and sale terms                              |
+| Letter of credit        | Bank guarantee assuring payment to exporter                                            |
+| Bill of lading          | Shipping document and title document for sea transport                                 |
+| Bill of entry           | Import document submitted to customs for imported goods                                |
+| Sight draft             | Bill of exchange where documents are released against payment                          |
+| Usance draft            | Bill of exchange where documents are released against acceptance                       |
+| IMF                     | International Monetary Fund                                                            |
+| WTO                     | World Trade Organization                                                               |
 
 ## 4. Big Picture of the Chapter
 
@@ -163,13 +163,13 @@ International business includes international trade plus:
 
 ## 9. Difference Between International Trade and International Business
 
-| Basis | International trade | International business |
-|---|---|---|
-| Meaning | Export and import of goods and services | All business activities across national borders |
-| Scope | Narrow | Broad |
-| Main focus | Buying and selling | Trade, investment, production, technology, services, and ownership |
-| Example | Exporting garments from India to Australia | Exporting garments, setting up a foreign unit, licensing designs, and investing abroad |
-| Includes foreign production | Not necessarily | Yes, it can include foreign production |
+| Basis                       | International trade                        | International business                                                                 |
+| --------------------------- | ------------------------------------------ | -------------------------------------------------------------------------------------- |
+| Meaning                     | Export and import of goods and services    | All business activities across national borders                                        |
+| Scope                       | Narrow                                     | Broad                                                                                  |
+| Main focus                  | Buying and selling                         | Trade, investment, production, technology, services, and ownership                     |
+| Example                     | Exporting garments from India to Australia | Exporting garments, setting up a foreign unit, licensing designs, and investing abroad |
+| Includes foreign production | Not necessarily                            | Yes, it can include foreign production                                                 |
 
 ## 10. Why International Business Happens
 
@@ -389,18 +389,18 @@ An Indian exporter may quote in US dollars. If the rupee-dollar rate changes bef
 
 ## 24. Domestic and International Business Compared
 
-| Basis | Domestic business | International business |
-|---|---|---|
-| Buyers and sellers | From same country | From different countries |
-| Stakeholders | Mostly same nationality | Different nationalities |
-| Factor mobility | Relatively higher | Relatively lower |
-| Customers | More homogeneous | More heterogeneous |
-| Business practices | Similar within country | Vary across countries |
-| Political environment | One country | Multiple countries |
-| Regulations | One legal system | Multiple legal systems |
-| Currency | Domestic currency | Multiple currencies |
-| Risk level | Lower | Higher |
-| Complexity | Lower | Higher |
+| Basis                 | Domestic business       | International business   |
+| --------------------- | ----------------------- | ------------------------ |
+| Buyers and sellers    | From same country       | From different countries |
+| Stakeholders          | Mostly same nationality | Different nationalities  |
+| Factor mobility       | Relatively higher       | Relatively lower         |
+| Customers             | More homogeneous        | More heterogeneous       |
+| Business practices    | Similar within country  | Vary across countries    |
+| Political environment | One country             | Multiple countries       |
+| Regulations           | One legal system        | Multiple legal systems   |
+| Currency              | Domestic currency       | Multiple currencies      |
+| Risk level            | Lower                   | Higher                   |
+| Complexity            | Lower                   | Higher                   |
 
 ## 25. Scope of International Business
 
@@ -653,9 +653,9 @@ This is often the first mode used by firms entering international business.
 
 ## 46. Direct and Indirect Exporting or Importing
 
-| Type | Meaning |
-|---|---|
-| Direct exporting or importing | Firm itself contacts foreign buyers or suppliers and handles formalities |
+| Type                            | Meaning                                                                               |
+| ------------------------------- | ------------------------------------------------------------------------------------- |
+| Direct exporting or importing   | Firm itself contacts foreign buyers or suppliers and handles formalities              |
 | Indirect exporting or importing | Middlemen such as export houses, buying offices, or importers handle most formalities |
 
 Direct mode gives more control but requires more knowledge and effort.
@@ -778,13 +778,13 @@ Franchising is usually more strict than licensing because the franchiser sets de
 
 ## 56. Licensing and Franchising Compared
 
-| Basis | Licensing | Franchising |
-|---|---|---|
-| Main use | Goods and technology | Services and business format |
-| Control | Less strict | More strict |
-| Payment | Royalty or fee | Royalty, fee, or share as per agreement |
-| Parties | Licensor and licensee | Franchiser and franchisee |
-| Example | Technology or brand used by foreign producer | Restaurant chain run by foreign franchisee |
+| Basis    | Licensing                                    | Franchising                                |
+| -------- | -------------------------------------------- | ------------------------------------------ |
+| Main use | Goods and technology                         | Services and business format               |
+| Control  | Less strict                                  | More strict                                |
+| Payment  | Royalty or fee                               | Royalty, fee, or share as per agreement    |
+| Parties  | Licensor and licensee                        | Franchiser and franchisee                  |
+| Example  | Technology or brand used by foreign producer | Restaurant chain run by foreign franchisee |
 
 ## 57. Advantages of Licensing and Franchising
 
@@ -885,14 +885,14 @@ Limitations:
 
 ## 67. Entry Modes Compared
 
-| Mode | Investment | Control | Risk | Suitable when |
-|---|---:|---:|---:|---|
-| Exporting | Low | Low to moderate | Low to moderate | Firm is starting international operations |
-| Contract manufacturing | Low | Moderate | Moderate | Foreign production is needed without own factory |
-| Licensing | Low | Low | Low to moderate | Firm owns technology or brand rights |
-| Franchising | Low | Moderate | Low to moderate | Service format can be replicated |
-| Joint venture | Moderate | Shared | Shared | Local knowledge and shared risk are needed |
-| Wholly owned subsidiary | Very high | Very high | High | Full control is essential |
+| Mode                    | Investment |         Control |            Risk | Suitable when                                    |
+| ----------------------- | ---------: | --------------: | --------------: | ------------------------------------------------ |
+| Exporting               |        Low | Low to moderate | Low to moderate | Firm is starting international operations        |
+| Contract manufacturing  |        Low |        Moderate |        Moderate | Foreign production is needed without own factory |
+| Licensing               |        Low |             Low | Low to moderate | Firm owns technology or brand rights             |
+| Franchising             |        Low |        Moderate | Low to moderate | Service format can be replicated                 |
+| Joint venture           |   Moderate |          Shared |          Shared | Local knowledge and shared risk are needed       |
+| Wholly owned subsidiary |  Very high |       Very high |            High | Full control is essential                        |
 
 ## 68. Export-Import Procedures: Why They Are Complex
 
@@ -1139,9 +1139,9 @@ Submission of documents to the bank to obtain payment is called negotiation of d
 
 ## 87. Sight Draft and Usance Draft
 
-| Type | Meaning |
-|---|---|
-| Sight draft | Documents are released to importer only against payment |
+| Type         | Meaning                                                                           |
+| ------------ | --------------------------------------------------------------------------------- |
+| Sight draft  | Documents are released to importer only against payment                           |
 | Usance draft | Documents are released against acceptance of bill of exchange, with payment later |
 
 In a sight draft, payment happens immediately.
@@ -1160,30 +1160,30 @@ It confirms that:
 
 ## 89. Export Documents: Goods Related
 
-| Document | Meaning |
-|---|---|
-| Export invoice | Seller's bill showing quantity, value, package details, ship details, delivery terms, and payment terms |
-| Packing list | Details of number of cases or packages and goods in each package |
-| Certificate of origin | Proof of country where goods were produced |
-| Certificate of inspection | Proof that goods were inspected and found export-worthy where required |
+| Document                  | Meaning                                                                                                 |
+| ------------------------- | ------------------------------------------------------------------------------------------------------- |
+| Export invoice            | Seller's bill showing quantity, value, package details, ship details, delivery terms, and payment terms |
+| Packing list              | Details of number of cases or packages and goods in each package                                        |
+| Certificate of origin     | Proof of country where goods were produced                                                              |
+| Certificate of inspection | Proof that goods were inspected and found export-worthy where required                                  |
 
 ## 90. Export Documents: Shipment Related
 
-| Document | Meaning |
-|---|---|
-| Mate's receipt | Receipt from ship officer after cargo is loaded |
-| Shipping bill | Main customs document for export permission |
-| Bill of lading | Shipping receipt, carriage undertaking, and title document |
-| Airway bill | Airline receipt and carriage undertaking for air cargo |
-| Marine insurance policy | Insurance contract covering sea transit risks |
-| Cart ticket | Gate pass or vehicle pass for export cargo details |
+| Document                | Meaning                                                    |
+| ----------------------- | ---------------------------------------------------------- |
+| Mate's receipt          | Receipt from ship officer after cargo is loaded            |
+| Shipping bill           | Main customs document for export permission                |
+| Bill of lading          | Shipping receipt, carriage undertaking, and title document |
+| Airway bill             | Airline receipt and carriage undertaking for air cargo     |
+| Marine insurance policy | Insurance contract covering sea transit risks              |
+| Cart ticket             | Gate pass or vehicle pass for export cargo details         |
 
 ## 91. Export Documents: Payment Related
 
-| Document | Meaning |
-|---|---|
-| Letter of credit | Importer's bank guarantee for payment |
-| Bill of exchange | Written order by exporter directing importer to pay |
+| Document                    | Meaning                                                             |
+| --------------------------- | ------------------------------------------------------------------- |
+| Letter of credit            | Importer's bank guarantee for payment                               |
+| Bill of exchange            | Written order by exporter directing importer to pay                 |
 | Bank certificate of payment | Bank confirmation that payment has been received according to rules |
 
 ## 92. Import Procedure Overview
@@ -1326,31 +1326,31 @@ Main tasks:
 
 ## 103. Import Documents
 
-| Document | Meaning |
-|---|---|
-| Trade enquiry | Written request by importer for price and terms |
-| Proforma invoice | Exporter's quotation showing product and sale terms |
-| Import order or indent | Importer's order for supply of goods |
-| Letter of credit | Importer's bank guarantee for exporter payment |
-| Shipment advice | Exporter's notice that goods have been shipped |
-| Bill of lading | Ship document acknowledging goods on board |
-| Airway bill | Air cargo receipt and carriage document |
-| Bill of entry | Customs form filed by importer to receive imported goods |
-| Bill of exchange | Written order directing payment |
-| Sight draft | Documents released against payment |
-| Usance draft | Documents released against acceptance |
-| Import general manifest | Carrier document with imported cargo details |
-| Dock challan | Form used for payment of dock dues |
+| Document                | Meaning                                                  |
+| ----------------------- | -------------------------------------------------------- |
+| Trade enquiry           | Written request by importer for price and terms          |
+| Proforma invoice        | Exporter's quotation showing product and sale terms      |
+| Import order or indent  | Importer's order for supply of goods                     |
+| Letter of credit        | Importer's bank guarantee for exporter payment           |
+| Shipment advice         | Exporter's notice that goods have been shipped           |
+| Bill of lading          | Ship document acknowledging goods on board               |
+| Airway bill             | Air cargo receipt and carriage document                  |
+| Bill of entry           | Customs form filed by importer to receive imported goods |
+| Bill of exchange        | Written order directing payment                          |
+| Sight draft             | Documents released against payment                       |
+| Usance draft            | Documents released against acceptance                    |
+| Import general manifest | Carrier document with imported cargo details             |
+| Dock challan            | Form used for payment of dock dues                       |
 
 ## 104. Bill of Lading and Bill of Entry
 
-| Basis | Bill of lading | Bill of entry |
-|---|---|---|
-| Used in | Export shipment and transport | Import customs clearance |
-| Prepared by | Shipping company or master of ship | Importer |
-| Purpose | Acknowledges goods loaded on ship and acts as title document | Declares imported goods to customs |
-| Stage | After goods are loaded for export | When goods are received/imported |
-| Nature | Transport and title document | Customs document |
+| Basis       | Bill of lading                                               | Bill of entry                      |
+| ----------- | ------------------------------------------------------------ | ---------------------------------- |
+| Used in     | Export shipment and transport                                | Import customs clearance           |
+| Prepared by | Shipping company or master of ship                           | Importer                           |
+| Purpose     | Acknowledges goods loaded on ship and acts as title document | Declares imported goods to customs |
+| Stage       | After goods are loaded for export                            | When goods are received/imported   |
+| Nature      | Transport and title document                                 | Customs document                   |
 
 ## 105. Letter of Credit
 
@@ -1642,27 +1642,27 @@ Functions:
 
 ## 129. IMF and WTO Compared
 
-| Basis | IMF | WTO |
-|---|---|---|
-| Full form | International Monetary Fund | World Trade Organization |
-| Main area | Monetary and financial stability | International trade rules |
-| Main help | Balance of payments support and policy advice | Trade negotiations, agreements, and dispute settlement |
-| Focus | Currencies, payments, financial stability | Goods, services, intellectual property, trade barriers |
-| Role in business | Supports stable financial environment | Supports rules-based global trade |
+| Basis            | IMF                                           | WTO                                                    |
+| ---------------- | --------------------------------------------- | ------------------------------------------------------ |
+| Full form        | International Monetary Fund                   | World Trade Organization                               |
+| Main area        | Monetary and financial stability              | International trade rules                              |
+| Main help        | Balance of payments support and policy advice | Trade negotiations, agreements, and dispute settlement |
+| Focus            | Currencies, payments, financial stability     | Goods, services, intellectual property, trade barriers |
+| Role in business | Supports stable financial environment         | Supports rules-based global trade                      |
 
 ## 130. Common Student Confusions
 
-| Confusion | Correct understanding |
-|---|---|
-| International business and international trade are same | International business is wider than international trade |
-| Export means buying from abroad | Export means selling or sending to abroad |
-| Import means selling abroad | Import means bringing from abroad |
-| FDI and portfolio investment are same | FDI involves control or active business interest; portfolio investment is financial investment |
-| Licensing and franchising are same in all respects | Franchising is generally stricter and used for services |
-| Joint venture gives full control | Control is shared |
-| Wholly owned subsidiary has low risk | It has high investment and high risk |
-| Bill of lading and bill of entry are same | Bill of lading is a shipping document; bill of entry is an import customs document |
-| Sight draft and usance draft are same | Sight draft requires payment; usance draft requires acceptance for later payment |
+| Confusion                                               | Correct understanding                                                                          |
+| ------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| International business and international trade are same | International business is wider than international trade                                       |
+| Export means buying from abroad                         | Export means selling or sending to abroad                                                      |
+| Import means selling abroad                             | Import means bringing from abroad                                                              |
+| FDI and portfolio investment are same                   | FDI involves control or active business interest; portfolio investment is financial investment |
+| Licensing and franchising are same in all respects      | Franchising is generally stricter and used for services                                        |
+| Joint venture gives full control                        | Control is shared                                                                              |
+| Wholly owned subsidiary has low risk                    | It has high investment and high risk                                                           |
+| Bill of lading and bill of entry are same               | Bill of lading is a shipping document; bill of entry is an import customs document             |
+| Sight draft and usance draft are same                   | Sight draft requires payment; usance draft requires acceptance for later payment               |
 
 ## 131. Exam Answer: International Business
 
@@ -1844,28 +1844,28 @@ Model points:
 
 ## 151. Comparison: Entry Modes
 
-| Mode | Key benefit | Key limitation |
-|---|---|---|
-| Exporting | Simple and low investment | Transport cost and less market contact |
-| Contract manufacturing | Foreign production without own factory | Quality control risk |
-| Licensing | Royalty income with low investment | Risk of future competition |
-| Franchising | Expansion of service format | Strict control needed |
-| Joint venture | Shared cost and local knowledge | Shared control and possible conflict |
-| Wholly owned subsidiary | Full control | High investment and high risk |
+| Mode                    | Key benefit                            | Key limitation                         |
+| ----------------------- | -------------------------------------- | -------------------------------------- |
+| Exporting               | Simple and low investment              | Transport cost and less market contact |
+| Contract manufacturing  | Foreign production without own factory | Quality control risk                   |
+| Licensing               | Royalty income with low investment     | Risk of future competition             |
+| Franchising             | Expansion of service format            | Strict control needed                  |
+| Joint venture           | Shared cost and local knowledge        | Shared control and possible conflict   |
+| Wholly owned subsidiary | Full control                           | High investment and high risk          |
 
 ## 152. Comparison: Export and Import Procedure
 
-| Stage | Exporter's side | Importer's side |
-|---|---|---|
-| Beginning | Receives enquiry and sends quotation | Sends trade enquiry |
-| Order | Receives indent | Places import order |
-| Payment safety | Demands letter of credit | Obtains letter of credit |
-| Finance | Gets pre-shipment finance | Arranges foreign exchange and finance |
-| Goods | Produces or procures goods | Waits for shipment |
-| Shipment | Packs, insures, clears customs, ships | Receives shipment advice |
-| Documents | Sends documents through bank | Retires import documents |
-| Customs | Clears export customs | Clears import customs |
-| Payment | Negotiates documents and receives payment | Pays or accepts bill of exchange |
+| Stage          | Exporter's side                           | Importer's side                       |
+| -------------- | ----------------------------------------- | ------------------------------------- |
+| Beginning      | Receives enquiry and sends quotation      | Sends trade enquiry                   |
+| Order          | Receives indent                           | Places import order                   |
+| Payment safety | Demands letter of credit                  | Obtains letter of credit              |
+| Finance        | Gets pre-shipment finance                 | Arranges foreign exchange and finance |
+| Goods          | Produces or procures goods                | Waits for shipment                    |
+| Shipment       | Packs, insures, clears customs, ships     | Receives shipment advice              |
+| Documents      | Sends documents through bank              | Retires import documents              |
+| Customs        | Clears export customs                     | Clears import customs                 |
+| Payment        | Negotiates documents and receives payment | Pays or accepts bill of exchange      |
 
 ## 153. Memory Map
 
@@ -1925,40 +1925,40 @@ International business
 
 ## 156. Glossary
 
-| Term | Meaning |
-|---|---|
-| Advance licence | Scheme for duty-free input import for export production in textbook context |
-| Airway bill | Air transport receipt and carriage document |
-| Bill of entry | Customs form for imported goods |
-| Bill of exchange | Written order directing payment |
-| Bill of lading | Sea transport receipt and title document |
-| C&F agent | Clearing and forwarding agent |
-| Certificate of inspection | Document showing goods have been inspected |
-| Certificate of origin | Proof of country where goods were produced |
-| Contract manufacturing | Foreign production by local manufacturer under contract |
-| Duty drawback | Refund of duties linked to export production |
-| Export | Sending goods or services abroad |
-| Export invoice | Seller's bill for exported goods |
-| FDI | Foreign direct investment |
-| Franchising | Service business rights granted under strict format |
-| IEC | Import Export Code |
-| IMF | International Monetary Fund |
-| Import | Bringing goods or services from abroad |
-| Import general manifest | Carrier's cargo details for imported goods |
-| International business | Business across national borders |
-| International trade | Export and import of goods and services |
-| Joint venture | Business jointly owned by independent firms |
-| Letter of credit | Importer's bank guarantee for payment |
-| Licensing | Right to use intellectual property for royalty |
-| Mate's receipt | Receipt issued when cargo is loaded on ship |
-| Merchandise trade | Trade in tangible goods |
-| Portfolio investment | Investment in foreign financial assets without direct control |
-| Proforma invoice | Exporter's quotation |
-| Shipping bill | Main customs document for export permission |
-| Sight draft | Documents released against payment |
-| Usance draft | Documents released against acceptance |
-| Wholly owned subsidiary | Foreign company fully owned by parent company |
-| WTO | World Trade Organization |
+| Term                      | Meaning                                                                     |
+| ------------------------- | --------------------------------------------------------------------------- |
+| Advance licence           | Scheme for duty-free input import for export production in textbook context |
+| Airway bill               | Air transport receipt and carriage document                                 |
+| Bill of entry             | Customs form for imported goods                                             |
+| Bill of exchange          | Written order directing payment                                             |
+| Bill of lading            | Sea transport receipt and title document                                    |
+| C&F agent                 | Clearing and forwarding agent                                               |
+| Certificate of inspection | Document showing goods have been inspected                                  |
+| Certificate of origin     | Proof of country where goods were produced                                  |
+| Contract manufacturing    | Foreign production by local manufacturer under contract                     |
+| Duty drawback             | Refund of duties linked to export production                                |
+| Export                    | Sending goods or services abroad                                            |
+| Export invoice            | Seller's bill for exported goods                                            |
+| FDI                       | Foreign direct investment                                                   |
+| Franchising               | Service business rights granted under strict format                         |
+| IEC                       | Import Export Code                                                          |
+| IMF                       | International Monetary Fund                                                 |
+| Import                    | Bringing goods or services from abroad                                      |
+| Import general manifest   | Carrier's cargo details for imported goods                                  |
+| International business    | Business across national borders                                            |
+| International trade       | Export and import of goods and services                                     |
+| Joint venture             | Business jointly owned by independent firms                                 |
+| Letter of credit          | Importer's bank guarantee for payment                                       |
+| Licensing                 | Right to use intellectual property for royalty                              |
+| Mate's receipt            | Receipt issued when cargo is loaded on ship                                 |
+| Merchandise trade         | Trade in tangible goods                                                     |
+| Portfolio investment      | Investment in foreign financial assets without direct control               |
+| Proforma invoice          | Exporter's quotation                                                        |
+| Shipping bill             | Main customs document for export permission                                 |
+| Sight draft               | Documents released against payment                                          |
+| Usance draft              | Documents released against acceptance                                       |
+| Wholly owned subsidiary   | Foreign company fully owned by parent company                               |
+| WTO                       | World Trade Organization                                                    |
 
 ## 157. Final Revision Sheet
 
