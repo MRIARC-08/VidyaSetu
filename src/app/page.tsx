@@ -1,73 +1,20 @@
 'use client';
-import { log } from '@/lib/logger';
 import Button from '@/components/Button';
 import Image from 'next/image';
 import Senv from '../../public/Study environment.png';
 import DV from '../../public/Data visualization.png';
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
-import { useEffect, useState } from 'react';
-import authFetch from '../lib/auth/authFetch';
 
 export default function Home() {
   const router = useRouter();
-  const [user, setUser] = useState<{ name: string } | null>(null);
-
-  useEffect(() => {
-    const fetchUser = async () => {
-      try {
-        const response = await authFetch({
-          url: '/api/user/getUser',
-          options: { method: 'GET' },
-        });
-
-        if (response?.user) {
-          setUser(response.user);
-        }
-      } catch (error) {
-        log.error('User fetch failed');
-      }
-    };
-
-    fetchUser();
-  }, []);
   return (
     <div className="flex flex-col h-max w-full bg-background ">
-      <div className="flex min-h-screen flex-col px-6 pt-6 pb-12 md:px-10 xl:mx-auto xl:w-full xl:max-w-[1440px] xl:px-16">
-        <div className="flex h-12 w-full items-center justify-between">
-          <Link href="/" className="text-2xl uppercase tracking-tighter font-bold">
-            Vidyasetu
-          </Link>
-          <div className="flex items-center gap-4">
-            <svg
-              width="15"
-              height="20"
-              viewBox="0 0 15 20"
-              fill="none"
-              xmlns="http://www.w3.org/2000/svg"
-            >
-              <path
-                d="M0 16.3846V14.8846H1.80768V7.42303C1.80768 6.07817 2.22274 4.88907 3.05287 3.85574C3.883 2.82241 4.9487 2.16151 6.24998 1.87305V1.24998C6.24998 0.902765 6.3714 0.60763 6.61423 0.364578C6.85706 0.121526 7.15193 0 7.49883 0C7.84573 0 8.14098 0.121526 8.38457 0.364578C8.62815 0.60763 8.74994 0.902765 8.74994 1.24998V1.87305C10.0512 2.16151 11.1169 2.82241 11.9471 3.85574C12.7772 4.88907 13.1922 6.07817 13.1922 7.42303V14.8846H14.9999V16.3846H0V16.3846M7.49996 9.05766V9.05766V9.05766V9.05766V9.05766V9.05766V9.05766V9.05766V9.05766M7.49826 19.1922C7.00068 19.1922 6.57529 19.0152 6.22209 18.6612C5.86889 18.3072 5.69229 17.8817 5.69229 17.3846H9.30764C9.30764 17.8833 9.13047 18.3092 8.77614 18.6624C8.4218 19.0156 7.99584 19.1922 7.49826 19.1922V19.1922M3.30764 14.8846H11.6923V7.42303C11.6923 6.26534 11.283 5.27719 10.4644 4.4586C9.6458 3.64001 8.65766 3.23071 7.49996 3.23071C6.34227 3.23071 5.35412 3.64001 4.53553 4.4586C3.71694 5.27719 3.30764 6.26534 3.30764 7.42303V14.8846V14.8846"
-                fill="#474747"
-              />
-            </svg>
-
-            {user ? (
-              <div className="w-8 h-8 rounded-full bg-black text-white flex items-center justify-center">
-                {user.name?.[0]?.toUpperCase() ?? 'U'}
-              </div>
-            ) : (
-              <Link
-                href="/login"
-                className="text-sm font-medium text-black hover:opacity-65 transition-opacity"
-              >
-                Login
-              </Link>
-            )}
-          </div>
-        </div>
-
-        <div className="flex flex-col gap-10 pt-16 md:pt-20 lg:flex-row lg:items-center lg:gap-14 xl:pt-24">
+      <div className="flex min-h-[calc(100vh-80px)] flex-col px-6 pb-12 pt-10 md:px-10 xl:mx-auto xl:w-full xl:max-w-[1440px] xl:px-16">
+        <div
+          className="flex flex-col gap-10 pt-16 md:pt-20 lg:flex-row lg:items-center lg:gap-14 xl:pt-24"
+          data-reveal="hero"
+        >
           <div className="flex-1 flex flex-col gap-7 lg:gap-9">
             <p className="text-[11px] uppercase tracking-[0.22em] text-secondary/90">
               Built for Classes 9-12
@@ -77,8 +24,8 @@ export default function Home() {
             </p>
             <p className="max-w-[56ch] text-secondary md:text-[17px] md:leading-8">
               Start a quiz from any chapter, spot weak topics quickly, and
-              revise with clear feedback. No noise, just steady progress you
-              can track.
+              revise with clear feedback. No noise, just steady progress you can
+              track.
             </p>
             <div className="flex w-full flex-col gap-4 pt-6 sm:flex-row lg:w-[70%] xl:w-[62%]">
               <Button
@@ -104,12 +51,14 @@ export default function Home() {
               src={Senv}
               width={620}
               alt="Study environment"
-              className="h-auto w-[520px] object-contain grayscale-[8%] xl:w-[620px]"
+              className="h-auto w-[520px] object-contain grayscale-[8%] transition-transform duration-700 hover:scale-[1.025] xl:w-[620px]"
             ></Image>
-            <div className="absolute -bottom-5 left-14 flex h-24 w-40 flex-col items-center justify-center bg-white shadow-xs xl:left-24">
+            <div className="premium-card absolute -bottom-5 left-14 flex h-24 w-40 flex-col items-center justify-center bg-white shadow-xs xl:left-24">
               <div>
                 <p className="text-xl font-bold">98%</p>
-                <p className="text-[12px] text-secondary">Weekly goal completion</p>
+                <p className="text-[12px] text-secondary">
+                  Weekly goal completion
+                </p>
               </div>
             </div>
           </div>
@@ -117,7 +66,7 @@ export default function Home() {
       </div>
 
       <div className="flex  flex-col min-h-screen  p-4 pl-8 pr-8 gap-16 ">
-        <div className="flex pt-10   ">
+        <div className="flex pt-10" data-reveal>
           <div className="flex-1 flex flex-col gap-3">
             <p className="text-3xl font-bold ">Architectural Learning</p>
             <p className="w-[60%] text-secondary/90">
@@ -131,7 +80,10 @@ export default function Home() {
           </div>
         </div>
 
-        <div className="flex justify-between gap-8 flex-col md:flex-row">
+        <div
+          className="flex justify-between gap-8 flex-col md:flex-row"
+          data-stagger
+        >
           <div className=" glass-tile flex-1 p-12 flex flex-wrap gap-4 flex-col">
             <svg
               width="27"
@@ -184,7 +136,7 @@ export default function Home() {
           </div>
         </div>
 
-        <div className="flex justify-between gap-12 flex-wrap">
+        <div className="flex justify-between gap-12 flex-wrap" data-stagger>
           <div
             className="glass-tile md:w-[28%] w-full p-12 flex gap-4 h-max flex-col"
             style={{ borderTop: '3px solid rgba(255,255,255,0.5)' }}
@@ -213,19 +165,22 @@ export default function Home() {
             <Image
               src={DV}
               alt="data"
-              className="absolute inset-0  h-full w-full "
+              className="absolute inset-0 h-full w-full transition-transform duration-700 hover:scale-[1.03]"
             ></Image>
             <p className="text-2xl font-bold">Smart Remediation</p>
             <p className="md:w-[40%] text-secondary/90">
-              Don't just fail. Learn. Every incorrect answer triggers a targeted
-              revision module from the curator.
+              Don&apos;t just fail. Learn. Every incorrect answer triggers a
+              targeted revision module from the curator.
             </p>
           </div>
         </div>
       </div>
 
       <div className="flex  flex-col min-h-screen  p-4 pl-8 pr-8 gap-36">
-        <div className="w-full flex justify-center flex-col items-center pt-32 gap-12">
+        <div
+          className="w-full flex justify-center flex-col items-center pt-32 gap-12"
+          data-reveal
+        >
           <svg
             width="34"
             height="24"
@@ -240,9 +195,9 @@ export default function Home() {
           </svg>
 
           <p className="text-3xl font-bold text-center md:w-[50%]">
-            "The Curator has transformed my preparation from a chaotic search
-            for resources to a structured, high-authority academic journey. It
-            is focus personified."
+            &ldquo;The Curator has transformed my preparation from a chaotic
+            search for resources to a structured, high-authority academic
+            journey. It is focus personified.&rdquo;
           </p>
           <div className="w-full flex flex-col justify-center items-center pt-4 uppercase">
             <p className="font-bold tracking-wider">Dr. Arpit Verma</p>
@@ -252,7 +207,10 @@ export default function Home() {
           </div>
         </div>
 
-        <div className="flex flex-col p-16 bg-primary text-white justify-center items-center gap-8">
+        <div
+          className="flex flex-col p-16 bg-primary text-white justify-center items-center gap-8"
+          data-reveal
+        >
           <p className="md:text-4xl text-3xl font-bold">
             Ready for the Academic Shift?
           </p>
@@ -282,7 +240,10 @@ export default function Home() {
         </div>
       </div>
       <div className="h-max bg-accent/40">
-        <div className="flex flex-col md:flex-row p-8 md:p-20 gap-8 md:gap-20">
+        <div
+          className="flex flex-col md:flex-row p-8 md:p-20 gap-8 md:gap-20"
+          data-stagger
+        >
           <div className="flex-1 flex flex-col gap-4 ">
             <p className="font-bold">Vidyasetu</p>
             <p>

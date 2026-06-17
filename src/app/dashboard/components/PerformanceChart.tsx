@@ -47,10 +47,14 @@ function LineChart({ data }: { data: { label: string; value: number }[] }) {
   const minVal = 0;
   const range = maxVal - minVal || 1;
 
-  const xScale = (i: number) => padding.left + (i / Math.max(data.length - 1, 1)) * chartW;
-  const yScale = (v: number) => padding.top + chartH - ((v - minVal) / range) * chartH;
+  const xScale = (i: number) =>
+    padding.left + (i / Math.max(data.length - 1, 1)) * chartW;
+  const yScale = (v: number) =>
+    padding.top + chartH - ((v - minVal) / range) * chartH;
 
-  const points = data.map((d, i) => `${xScale(i)},${yScale(d.value)}`).join(' ');
+  const points = data
+    .map((d, i) => `${xScale(i)},${yScale(d.value)}`)
+    .join(' ');
 
   return (
     <svg
@@ -123,7 +127,11 @@ function LineChart({ data }: { data: { label: string; value: number }[] }) {
   );
 }
 
-function BarChart({ data }: { data: { label: string; value: number; active: boolean }[] }) {
+function BarChart({
+  data,
+}: {
+  data: { label: string; value: number; active: boolean }[];
+}) {
   const width = 400;
   const height = 180;
   const padding = { top: 20, right: 20, bottom: 30, left: 10 };
@@ -176,7 +184,10 @@ function BarChart({ data }: { data: { label: string; value: number; active: bool
   );
 }
 
-function PerformanceChart({ className, ...props }: React.ComponentProps<'div'>) {
+function PerformanceChart({
+  className,
+  ...props
+}: React.ComponentProps<'div'>) {
   const [data, setData] = React.useState<OverviewData | null>(null);
   const [loading, setLoading] = React.useState(true);
 
@@ -185,10 +196,10 @@ function PerformanceChart({ className, ...props }: React.ComponentProps<'div'>) 
 
     async function fetchChartData() {
       try {
-        const res = await authFetch({
+        const res = (await authFetch({
           url: '/api/analytics/overview',
           options: { method: 'GET' },
-        }) as OverviewResponse;
+        })) as OverviewResponse;
 
         if (!cancelled && res.success) {
           setData(res.data);
@@ -201,7 +212,9 @@ function PerformanceChart({ className, ...props }: React.ComponentProps<'div'>) 
     }
 
     fetchChartData();
-    return () => { cancelled = true; };
+    return () => {
+      cancelled = true;
+    };
   }, []);
 
   const dailyActivity = data?.dailyActivity ?? [];
@@ -228,7 +241,11 @@ function PerformanceChart({ className, ...props }: React.ComponentProps<'div'>) 
   }
 
   return (
-    <div className={cn('grid gap-6 lg:grid-cols-2', className)} {...props}>
+    <div
+      className={cn('grid gap-6 lg:grid-cols-2', className)}
+      data-stagger
+      {...props}
+    >
       <Card>
         <CardHeader className="flex flex-row items-center justify-between pb-2">
           <CardTitle className="text-sm font-medium">Accuracy Trend</CardTitle>

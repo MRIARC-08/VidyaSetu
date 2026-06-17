@@ -3,6 +3,7 @@
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import type { PropsWithChildren } from 'react';
+import PremiumNavbar from '@/components/PremiumNavbar';
 
 export default function MainLayout({ children }: PropsWithChildren) {
   const path = usePathname();
@@ -10,7 +11,12 @@ export default function MainLayout({ children }: PropsWithChildren) {
   const routes = ['/dashboard', '/ncert'];
 
   if (!routes.some((route) => path.startsWith(route))) {
-    return <div className="flex-1">{children}</div>;
+    return (
+      <div className="min-h-screen flex-1">
+        <PremiumNavbar />
+        <div className="flex-1">{children}</div>
+      </div>
+    );
   }
 
   // const getUser = async () => {
@@ -101,16 +107,16 @@ export default function MainLayout({ children }: PropsWithChildren) {
                 key={val.name}
                 href={val.link}
                 aria-label={val.name}
-                className={`group relative flex justify-center items-center cursor-pointer p-4 transition-all text-black ${
+                className={`nav-micro-link group relative flex justify-center items-center cursor-pointer p-4 transition-all text-black ${
                   activeLink === val.link
                     ? 'bg-white border-r border-r-black border-r-4'
                     : ''
                 }`}
               >
                 {val.svg}
-<span className="absolute left-full ml-2 px-2 py-1 text-xs font-medium text-white bg-black rounded opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap z-50">
-  {val.name}
-</span>
+                <span className="absolute left-full ml-2 px-2 py-1 text-xs font-medium text-white bg-black rounded opacity-0 translate-x-1 group-hover:opacity-100 group-hover:translate-x-0 transition-all whitespace-nowrap z-50 shadow-lg">
+                  {val.name}
+                </span>
               </Link>
             );
           })}

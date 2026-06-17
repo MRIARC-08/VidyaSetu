@@ -2,8 +2,6 @@
 import Button from '@/components/Button';
 import authFetch from '@/lib/auth/authFetch';
 import { useRouter } from 'next/navigation';
-import React, { use, useEffect } from 'react';
-import { da } from 'zod/locales';
 
 export default function Page() {
   const router = useRouter();
@@ -61,20 +59,23 @@ export default function Page() {
   return (
     <div className="bg-background min-h-screen flex flex-col gap-24">
       <div className="flex flex-col p-12 gap-12">
-        <div className="flex gap-2  items-center">
+        <div className="flex gap-2 items-center" data-reveal="fade">
           <div className="h-[2px] bg-primary w-16"></div>
           <p className="text-[14px] font-semibold">DEFINING PATHFINDERS</p>
         </div>
-        <div className="text-7xl font-extrabold flex justify-between">
+        <div
+          className="text-5xl md:text-7xl font-extrabold flex flex-col gap-8 lg:flex-row lg:justify-between"
+          data-reveal="hero"
+        >
           <div>
             <p>Select Your</p>
             <p className="text-accent">Academic Tier</p>
-            <p className="text-[16px] font-normal pt-4 w-[40%] leading-5 text-primary/80">
+            <p className="text-[16px] font-normal pt-4 w-full max-w-xl leading-5 text-primary/80">
               The Monolith curriculum adapts to your current level of rigor.
               Choose your academic standing to initialize the curation engine.
             </p>
           </div>
-          <div className="flex justify-end flex-col items-end gap-2">
+          <div className="flex justify-end flex-col items-start gap-2 lg:items-end">
             <div className="flex gap-1">
               <div className="bg-primary h-2 w-12"></div>
               <div className="bg-accent/60 h-2 w-12"></div>
@@ -87,14 +88,17 @@ export default function Page() {
           </div>
         </div>
 
-        <div className="flex gap-8 pt-12">
+        <div
+          className="grid gap-8 pt-12 sm:grid-cols-2 xl:grid-cols-4"
+          data-stagger
+        >
           {classData.map((val) => {
             return (
               <div
                 key={val.title}
-                className="flex flex-col w-[20%] bg-white p-8 gap-8 relative group hover:bg-primary transition-all duration-500 hover:text-white z-3"
+                className="premium-card flex min-h-[420px] flex-col bg-white p-8 gap-8 relative group hover:bg-primary transition-all duration-500 hover:text-white z-3 overflow-hidden"
               >
-                <div className="absolute text-[240px]  -right-3 -top-8  font-extrabold text-accent/40 -z-1">
+                <div className="absolute text-[220px] -right-3 -top-8 font-extrabold text-accent/40 -z-1 transition-transform duration-500 group-hover:scale-105 group-hover:text-white/10">
                   {val.class}
                 </div>
                 <p className="text-[14px] tracking-[4px] w-[80%] font-bold text-primary/70 group transition-all duration-300 group-hover:text-white/60">
@@ -153,11 +157,14 @@ export default function Page() {
           })}
         </div>
 
-        <div className="flex pt-24 justify-around items-stretch">
+        <div
+          className="flex flex-col gap-8 pt-24 justify-around items-stretch lg:flex-row"
+          data-reveal
+        >
           <div className="flex-1 flex flex-col gap-4">
-            <p className="text-[48px] leading-14 font-extralight text-primary/70 ">
-              "The pursuit of knowledge is not a linear journey, but an
-              architectural endeavor of the mind."
+            <p className="text-3xl md:text-[48px] md:leading-14 font-extralight text-primary/70">
+              &ldquo;The pursuit of knowledge is not a linear journey, but an
+              architectural endeavor of the mind.&rdquo;
             </p>
             <div>
               <p className="font-bold text-[14px]">DR. ALISTAIR VANCE</p>
@@ -166,7 +173,7 @@ export default function Page() {
               </p>
             </div>
           </div>
-          <div className="flex-1 bg-accent/40 ">
+          <div className="premium-card flex-1 bg-accent/40">
             <div className=" p-8 flex flex-col justify-end h-full gap-2">
               <p className="font-semibold text-xl">Need assistance?</p>
               <p className="w-[80%]">
@@ -180,7 +187,7 @@ export default function Page() {
         </div>
       </div>
 
-      <div className="border-t border-t-accent/20">
+      <div className="border-t border-t-accent/20" data-reveal="fade">
         <div className="flex justify-between pl-12 pr-12 p-4 items-center ">
           <div className="text-[10px] font-bold gap-8 flex text-primary/60">
             <p>© 2026 THE MONOLITH ACADEMY</p>

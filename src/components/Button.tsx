@@ -18,7 +18,7 @@ function Button({
 }) {
   return (
     <button
-      className={` ${color ? color : 'bg-primary'} ${textCol ? textCol : ' text-white'} ${additional ? additional : ''} ${hover ? hover : 'hover:bg-primary/60'} uppercase   p-4 pl-8 pr-8   font-bold  transition-all duration-300 cursor-pointer text-[14px]`}
+      className={`premium-button ${color ? color : 'bg-primary'} ${textCol ? textCol : ' text-white'} ${additional ? additional : ''} ${hover ? hover : 'hover:bg-primary/60'} uppercase   p-4 pl-8 pr-8   font-bold  transition-all duration-300 cursor-pointer text-[14px]`}
       onClick={typeof action === 'function' ? action : undefined}
     >
       {text}

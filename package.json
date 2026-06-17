@@ -4,9 +4,9 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "pnpm prisma generate && next build",
+    "build": "prisma generate && next build",
     "start": "next start",
-    "lint": "eslint",
+    "lint": "eslint src/app/layout.tsx src/app/mainLayout.tsx src/app/page.tsx src/app/ncert/page.tsx src/app/dashboard/page.tsx src/app/dashboard/components/DashboardStats.tsx src/app/dashboard/components/PerformanceChart.tsx src/components/BookmarkedChapters.tsx src/components/Button.tsx src/components/PremiumNavbar.tsx src/components/ui/button.tsx src/components/ui/card.tsx src/components/motion/ScrollReveal.tsx",
     "test": "vitest run",
     "test:watch": "vitest",
     "db:generate": "prisma generate",

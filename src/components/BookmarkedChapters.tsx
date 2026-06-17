@@ -90,7 +90,10 @@ export default function BookmarkedChapters() {
         </h2>
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+      <div
+        className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4"
+        data-stagger
+      >
         {bookmarks.map((item) => {
           const classLevel = item.chapter.subject.academicClass.level;
           const subjectId = item.chapter.subject.id;
@@ -101,7 +104,7 @@ export default function BookmarkedChapters() {
             <Link
               key={item.id}
               href={href}
-              className="group relative flex flex-col justify-between bg-white border border-primary/10 p-5 shadow-xs hover:shadow-md transition-all duration-300 hover:border-primary/20"
+              className="premium-card group relative flex flex-col justify-between bg-white border border-primary/10 p-5 shadow-xs hover:shadow-md transition-all duration-300 hover:border-primary/20"
             >
               <div className="flex flex-col gap-1.5 pr-8">
                 <span className="text-[10px] font-bold text-primary/50 uppercase tracking-wider">

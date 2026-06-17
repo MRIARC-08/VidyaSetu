@@ -145,12 +145,12 @@ export default function DashboardPage() {
     return () => {
       active = false;
     };
-  }, []);
+  }, [router]);
 
   return (
     <div className="flex-col flex md:p-8 bg-background min-h-screen gap-18 p-4">
       {/* top */}
-      <div className="flex justify-between">
+      <div className="flex justify-between" data-reveal="hero">
         <div>
           <p className="text-3xl font-bold">
             Welcome back, {user?.name ? user.name : user?.email.split('@')[0]}!
@@ -191,11 +191,14 @@ export default function DashboardPage() {
           </p>
         </div>
 
-        <div className="flex  md:flex-row flex-col md:w-[60%]  gap-8 pt-8 w-screen md:justify-normal justify-center items-center pl-2 pr-2 ">
+        <div
+          className="flex md:flex-row flex-col md:w-[60%] gap-8 pt-8 w-full md:justify-normal justify-center items-center pl-2 pr-2"
+          data-stagger
+        >
           {quickCards.map((val) => {
             return (
               <a
-                className="bg-white p-8 md:w-[60%] shadow-2xs w-max h-60 flex flex-col min-h-max  gap-4 cursor-pointer hover:shadow-2xs transition-all duration-300"
+                className="premium-card bg-white p-8 md:w-[60%] shadow-2xs w-full max-w-sm md:max-w-none h-60 flex flex-col min-h-max gap-4 cursor-pointer hover:shadow-lg hover:border-primary/10 transition-all duration-300"
                 key={val.name}
                 href={val.href}
               >
@@ -232,7 +235,7 @@ export default function DashboardPage() {
 
       {/* stats overview */}
 
-      <div className="flex flex-col gap-4 w-full">
+      <div className="flex flex-col gap-4 w-full" data-reveal>
         <div className="flex justify-between font-bold uppercase text-[12px]">
           <div>stats overview</div>
         </div>
@@ -241,7 +244,7 @@ export default function DashboardPage() {
 
       {/* charts + activity feed */}
 
-      <div className="grid gap-6 lg:grid-cols-3">
+      <div className="grid gap-6 lg:grid-cols-3" data-reveal>
         <div className="lg:col-span-2">
           <PerformanceChart />
         </div>
@@ -251,21 +254,23 @@ export default function DashboardPage() {
       </div>
 
       {/* resume reading */}
+      <div data-reveal>
         <ResumeCard />
-        {/* streak tracking */}
+      </div>
+      {/* streak tracking */}
 
-      <div className="flex flex-col gap-4 w-full">
+      <div className="flex flex-col gap-4 w-full" data-reveal>
         <StreakDashboard />
       </div>
 
       {/* saved chapters */}
-      <div className="flex flex-col gap-4 w-full">
+      <div className="flex flex-col gap-4 w-full" data-reveal>
         <BookmarkedChapters />
       </div>
 
       {/* learning progress */}
 
-      <div className="flex flex-col gap-4 w-full h-full flex-1">
+      <div className="flex flex-col gap-4 w-full h-full flex-1" data-reveal>
         <div className="flex justify-between font-bold uppercase text-[12px]">
           <div>learning progress </div>
         </div>
@@ -275,4 +280,3 @@ export default function DashboardPage() {
     </div>
   );
 }
-
