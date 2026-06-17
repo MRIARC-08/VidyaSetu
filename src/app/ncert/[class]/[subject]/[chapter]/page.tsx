@@ -1,9 +1,14 @@
 'use client';
 
-import ChapterContent, { type ChapterContentData } from '@/components/ChapterContent';
+import ChapterContent, {
+  type ChapterContentData,
+} from '@/components/ChapterContent';
 import ReadingProgressBar from '@/components/ReadingProgressBar';
 import { ChapterPageSkeleton } from '@/components/Skeletons';
-import { saveReadingProgress, getReadingProgress } from '@/components/ResumeCard';
+import {
+  saveReadingProgress,
+  getReadingProgress,
+} from '@/components/ResumeCard';
 import authFetch from '@/lib/auth/authFetch';
 import { useParams } from 'next/navigation';
 import { useCallback, useEffect, useState, useRef } from 'react';
@@ -14,7 +19,11 @@ interface ChapterProps extends ChapterContentData {
 }
 
 export default function NcertChapterPage() {
-  const params = useParams<{ class: string; subject: string; chapter: string }>();
+  const params = useParams<{
+    class: string;
+    subject: string;
+    chapter: string;
+  }>();
   const [chapter, setChapter] = useState<ChapterProps | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [isLoading, setIsLoading] = useState(true);
@@ -39,7 +48,11 @@ export default function NcertChapterPage() {
 
       if (res.status !== 200 || !res.message) {
         setChapter(null);
-        setError(typeof res.message === 'string' ? res.message : 'The chapter API did not return content for this request.');
+        setError(
+          typeof res.message === 'string'
+            ? res.message
+            : 'The chapter API did not return content for this request.'
+        );
         return;
       }
       const chapterData = res.message as ChapterProps;
@@ -63,7 +76,6 @@ export default function NcertChapterPage() {
       // Also sync the in-memory ref so the scroll handler doesn't
       // save a lower value over the restored one
       scrollProgress.current = existingPercent;
-
     } catch {
       setChapter(null);
       setError('Unable to load this chapter. Please try again later.');
@@ -81,7 +93,9 @@ export default function NcertChapterPage() {
 
     const handleScroll = () => {
       const scrollTop = window.scrollY || document.documentElement.scrollTop;
-      const scrollHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+      const scrollHeight =
+        document.documentElement.scrollHeight -
+        document.documentElement.clientHeight;
       if (scrollHeight <= 0) return;
 
       const pct = Math.round((scrollTop / scrollHeight) * 100);
