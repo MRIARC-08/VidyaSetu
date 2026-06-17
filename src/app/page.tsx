@@ -1,10 +1,11 @@
 'use client';
+import { log } from '@/lib/logger';
 import Button from '@/components/Button';
 import Image from 'next/image';
 import Senv from '../../public/Study environment.png';
 import DV from '../../public/Data visualization.png';
+import Link from 'next/link';
 import { useRouter } from 'next/navigation';
-import Link from "next/link";
 import { useEffect, useState } from 'react';
 import authFetch from '../lib/auth/authFetch';
 
@@ -12,31 +13,31 @@ export default function Home() {
   const router = useRouter();
   const [user, setUser] = useState<{ name: string } | null>(null);
 
-useEffect(() => {
-  const fetchUser = async () => {
-    try {
-      const response = await authFetch({
-        url: '/api/user/getUser', 
-        options: { method: 'GET' },
-      });
+  useEffect(() => {
+    const fetchUser = async () => {
+      try {
+        const response = await authFetch({
+          url: '/api/user/getUser',
+          options: { method: 'GET' },
+        });
 
-      if (response?.user) {
-        setUser(response.user);
+        if (response?.user) {
+          setUser(response.user);
+        }
+      } catch (error) {
+        log.error('User fetch failed');
       }
-    } catch (error) {
-      console.error("User fetch failed.");
-    }
-  };
+    };
 
-  fetchUser();
-}, []);
+    fetchUser();
+  }, []);
   return (
-    <div className="flex flex-col h-max w-screen bg-background  ">
-      <div className="flex  flex-col min-h-screen  p-4 pl-8 pr-8 ">
-        <div className="w-full h-10 flex justify-between items-center">
-          <p className="text-2xl uppercase tracking-tighter font-bold">
+    <div className="flex flex-col h-max w-full bg-background ">
+      <div className="flex min-h-screen flex-col px-6 pt-6 pb-12 md:px-10 xl:mx-auto xl:w-full xl:max-w-[1440px] xl:px-16">
+        <div className="flex h-12 w-full items-center justify-between">
+          <Link href="/" className="text-2xl uppercase tracking-tighter font-bold">
             Vidyasetu
-          </p>
+          </Link>
           <div className="flex items-center gap-4">
             <svg
               width="15"
@@ -56,30 +57,32 @@ useEffect(() => {
                 {user.name?.[0]?.toUpperCase() ?? 'U'}
               </div>
             ) : (
-              <Link href="/login" className="text-sm font-medium text-black hover:opacity-65 transition-opacity">
+              <Link
+                href="/login"
+                className="text-sm font-medium text-black hover:opacity-65 transition-opacity"
+              >
                 Login
               </Link>
             )}
           </div>
         </div>
 
-        <div className="pt-20 flex">
-          <div className="flex-1 flex flex-col gap-8">
-            <p className="uppercase text-[12px] tracking-wider] text-secondary ">
-              the digital curator
+        <div className="flex flex-col gap-10 pt-16 md:pt-20 lg:flex-row lg:items-center lg:gap-14 xl:pt-24">
+          <div className="flex-1 flex flex-col gap-7 lg:gap-9">
+            <p className="text-[11px] uppercase tracking-[0.22em] text-secondary/90">
+              Built for Classes 9-12
             </p>
-            <p className="text-[80px] font-light leading-24">
-              <span className="">Master NCERT with</span> AI-Powered Smart
-              Quizzes
+            <p className="max-w-[18ch] text-[40px] font-light leading-[1.03] sm:text-[52px] lg:text-[62px] xl:text-[74px] 2xl:text-[82px]">
+              Study NCERT better, one focused session at a time.
             </p>
-            <p className="text-secondary w-[80%]">
-              Precision-engineered learning for competitive excellence. Our AI
-              decodes complex NCERT patterns to curate academic sessions that
-              adapt to your cognitive pace.
+            <p className="max-w-[56ch] text-secondary md:text-[17px] md:leading-8">
+              Start a quiz from any chapter, spot weak topics quickly, and
+              revise with clear feedback. No noise, just steady progress you
+              can track.
             </p>
-            <div className="flex gap-4 w-[60%] pt-8">
+            <div className="flex w-full flex-col gap-4 pt-6 sm:flex-row lg:w-[70%] xl:w-[62%]">
               <Button
-                text="get started"
+                text="start now"
                 action={() => router.push('/dashboard')}
                 color=""
                 textCol=""
@@ -87,7 +90,7 @@ useEffect(() => {
                 hover=""
               />
               <Button
-                text="view curriculam"
+                text="browse ncert"
                 action={() => router.push('/ncert')}
                 color=""
                 textCol=""
@@ -96,12 +99,17 @@ useEffect(() => {
               />
             </div>
           </div>
-          <div className="flex-1 md:flex md:justify-end relative hidden ">
-            <Image src={Senv} width={540} alt="bg" className="h-full"></Image>
-            <div className=" flex flex-col justify-center items-center uppercase w-32 shadow-xs h-24 bg-white absolute -bottom-8 left-40">
+          <div className="relative hidden flex-1 lg:flex lg:justify-end">
+            <Image
+              src={Senv}
+              width={620}
+              alt="Study environment"
+              className="h-auto w-[520px] object-contain grayscale-[8%] xl:w-[620px]"
+            ></Image>
+            <div className="absolute -bottom-5 left-14 flex h-24 w-40 flex-col items-center justify-center bg-white shadow-xs xl:left-24">
               <div>
-                <p className="font-bold text-xl">98%</p>
-                <p className="text-[12px] text-secondary">Retention Rate</p>
+                <p className="text-xl font-bold">98%</p>
+                <p className="text-[12px] text-secondary">Weekly goal completion</p>
               </div>
             </div>
           </div>
@@ -111,8 +119,8 @@ useEffect(() => {
       <div className="flex  flex-col min-h-screen  p-4 pl-8 pr-8 gap-16 ">
         <div className="flex pt-10   ">
           <div className="flex-1 flex flex-col gap-3">
-            <p className="text-3xl font-bold">Architectural Learning</p>
-            <p className="w-[60%]">
+            <p className="text-3xl font-bold ">Architectural Learning</p>
+            <p className="w-[60%] text-secondary/90">
               We replace distractions with focus. Our features are designed to
               serve academic clarity and deep concentration.
             </p>
@@ -124,7 +132,7 @@ useEffect(() => {
         </div>
 
         <div className="flex justify-between gap-8 flex-col md:flex-row">
-          <div className=" bg-white flex-1 p-12 flex flex-wrap gap-4  flex-col shadow-xs">
+          <div className=" glass-tile flex-1 p-12 flex flex-wrap gap-4 flex-col">
             <svg
               width="27"
               height="29"
@@ -137,8 +145,8 @@ useEffect(() => {
                 fill="#1A1C1C"
               />
             </svg>
-            <p className="font-bold text-xl ">Adaptive Cognition</p>
-            <p className="md:w-[42%] text-secondary ">
+            <p className="font-bold text-xl">Adaptive Cognition</p>
+            <p className="md:w-[42%] text-secondary">
               Quizzes that evolve. The AI identifies your conceptual blind spots
               in NCERT texts and re- calibrates difficulty in real-time.
             </p>
@@ -151,7 +159,7 @@ useEffect(() => {
               </p>
             </div>
           </div>
-          <div className="md:w-[28%] text-white p-12 flex gap-4  flex-col shadow-xs bg-primary">
+          <div className="glass-tile-dark md:w-[28%] text-white p-12 flex gap-4 flex-col">
             <svg
               width="26"
               height="26"
@@ -170,14 +178,17 @@ useEffect(() => {
               100% curriculum alignment. Every question is mapped to the latest
               textbook directives with surgical precision.
             </p>
-            <a href="/ncert" className="underline uppercase font-bold">
+            <Link href="/ncert" className="underline uppercase font-bold">
               Explore Database
-            </a>
+            </Link>
           </div>
         </div>
 
         <div className="flex justify-between gap-12 flex-wrap">
-          <div className="md:w-[28%] w-full  p-12 flex gap-4 bg-white h-max   flex-col shadow-xs  border-t-primary border-t-4">
+          <div
+            className="glass-tile md:w-[28%] w-full p-12 flex gap-4 h-max flex-col"
+            style={{ borderTop: '3px solid rgba(255,255,255,0.5)' }}
+          >
             <svg
               width="22"
               height="22"
@@ -191,20 +202,20 @@ useEffect(() => {
               />
             </svg>
 
-            <p className="font-bold text-xl">Analytical Depth</p>
-            <p className="text-secondary  ">
+            <p className="font-bold text-xl ">Analytical Depth</p>
+            <p className="text-secondary">
               Detailed metrics that go beyond scores. Track conceptual velocity,
               precision trends, and syllabus mastery.
             </p>
           </div>
 
-          <div className=" flex-1 p-12 flex gap-4  relative  flex-col justify-center">
+          <div className="glass-tile flex-1 p-12 flex gap-4 relative flex-col justify-center overflow-hidden">
             <Image
               src={DV}
               alt="data"
               className="absolute inset-0  h-full w-full "
             ></Image>
-            <p className="text-2xl text-secondary">Smart Remediation</p>
+            <p className="text-2xl font-bold">Smart Remediation</p>
             <p className="md:w-[40%] text-secondary/90">
               Don't just fail. Learn. Every incorrect answer triggers a targeted
               revision module from the curator.
@@ -224,7 +235,7 @@ useEffect(() => {
           >
             <path
               d="M3.4 24L8 16V16V16C5.8 16 3.91667 15.2167 2.35 13.65C0.783333 12.0833 0 10.2 0 8C0 5.8 0.783333 3.91667 2.35 2.35C3.91667 0.783333 5.8 0 8 0C10.2 0 12.0833 0.783333 13.65 2.35C15.2167 3.91667 16 5.8 16 8C16 8.76667 15.9083 9.475 15.725 10.125C15.5417 10.775 15.2667 11.4 14.9 12L8 24H3.4V24M21.4 24L26 16V16V16C23.8 16 21.9167 15.2167 20.35 13.65C18.7833 12.0833 18 10.2 18 8C18 5.8 18.7833 3.91667 20.35 2.35C21.9167 0.783333 23.8 0 26 0C28.2 0 30.0833 0.783333 31.65 2.35C33.2167 3.91667 34 5.8 34 8C34 8.76667 33.9083 9.475 33.725 10.125C33.5417 10.775 33.2667 11.4 32.9 12L26 24H21.4V24"
-              fill="black"
+              fill="white"
             />
           </svg>
 
@@ -271,7 +282,7 @@ useEffect(() => {
         </div>
       </div>
       <div className="h-max bg-accent/40">
-        <div className="flex p-20 gap-20">
+        <div className="flex flex-col md:flex-row p-8 md:p-20 gap-8 md:gap-20">
           <div className="flex-1 flex flex-col gap-4 ">
             <p className="font-bold">Vidyasetu</p>
             <p>
@@ -336,4 +347,3 @@ useEffect(() => {
     </div>
   );
 }
-

@@ -1,0 +1,43 @@
+[build-system]
+requires = ["hatchling>=1.28,<2"]
+build-backend = "hatchling.build"
+
+[project]
+name = "vidyasetu-ai"
+version = "0.1.0"
+description = "Internal AI and retrieval service for VidyaSetu"
+readme = "README.md"
+requires-python = ">=3.11,<3.14"
+dependencies = [
+  "fastapi>=0.136,<0.137",
+  "httpx>=0.28,<0.29",
+  "langchain-core>=1.4,<2",
+  "langchain-groq>=1.1,<2",
+  "pydantic-settings>=2.14,<3",
+  "uvicorn[standard]>=0.49,<0.50",
+]
+
+[project.optional-dependencies]
+models = [
+  "sentence-transformers>=5.5,<6",
+]
+dev = [
+  "pytest>=9.1,<10",
+  "pytest-cov>=7,<8",
+  "ruff>=0.15,<0.16",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/vidyasetu_ai"]
+
+[tool.pytest.ini_options]
+addopts = "-q"
+pythonpath = ["src"]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 88
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM"]
