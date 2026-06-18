@@ -12,6 +12,10 @@
 
 # testing
 /coverage
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
 
 # next.js
 /.next/
@@ -19,6 +23,15 @@
 
 # production
 /build
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.python-version
+.cache/models/
 
 # misc
 .DS_Store

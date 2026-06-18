@@ -38,7 +38,6 @@ export class AuthControllers {
       }
 
       const result = await AuthServices.handleRegister(validation.data);
-
       await SetCookies.setAuthCookies(result.accessToken, result.refreshToken);
 
       return NextResponse.json({ user: result.user }, { status: 201 });
@@ -48,6 +47,7 @@ export class AuthControllers {
   }
 
   static async login(req: Request) {
+
     try {
       const body = await req.json();
 
