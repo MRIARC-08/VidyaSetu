@@ -259,7 +259,9 @@ function QuizCreationForm({ className }: { className?: string }) {
                       <button
                         type="button"
                         onClick={() => {
-                          setSelectedSubject(isExpanded ? null : subject.id);
+                          setSelectedSubject(
+                            isExpanded ? null : subject.id
+                          );
                           if (!isExpanded) setSelectedChapter(null);
                         }}
                         className={cn(
@@ -368,7 +370,9 @@ function QuizCreationForm({ className }: { className?: string }) {
                   max={50}
                   aria-label={`Number of questions: ${questionCount}`}
                   value={questionCount}
-                  onChange={(e) => setQuestionCount(Number(e.target.value))}
+                  onChange={(e) =>
+                    setQuestionCount(Number(e.target.value))
+                  }
                   className="h-2 w-full cursor-pointer appearance-none rounded-full bg-muted accent-primary [&::-webkit-slider-thumb]:size-4 [&::-webkit-slider-thumb]:appearance-none [&::-webkit-slider-thumb]:rounded-full [&::-webkit-slider-thumb]:bg-primary"
                 />
                 <div className="flex justify-between text-[10px] text-muted-foreground">

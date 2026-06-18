@@ -23,7 +23,8 @@ export function proxy(req: NextRequest) {
     !refreshToken &&
     (pathname.startsWith('/dashboard') ||
       pathname.startsWith('/ncert') ||
-      pathname.startsWith('/performance'))
+      pathname.startsWith('/performance') ||
+      pathname.startsWith('/quiz'))
   ) {
     return NextResponse.redirect(new URL('/login', req.url));
   } else if (
