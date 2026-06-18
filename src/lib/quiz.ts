@@ -5,6 +5,11 @@ import type {
   QuizApiSuccess,
   QuizApiErrorResponse,
   ChapterInfo,
+  StartQuizInput,
+  SubmitQuizInput,
+  StartQuizSessionResponse,
+  QuizSessionData,
+  SubmitQuizResponse,
 } from '@/modules/quiz/quiz.types';
 
 type SubjectsResponse = {
@@ -23,21 +28,24 @@ export async function createQuiz(input: CreateQuizInput) {
     },
   });
 
-  if ((res as QuizApiErrorResponse).message && !(res as QuizApiSuccess<CreateQuizResponse>).data) {
+  if (
+    (res as QuizApiErrorResponse).message &&
+    !(res as QuizApiSuccess<CreateQuizResponse>).data
+  ) {
     throw new Error((res as QuizApiErrorResponse).message);
   }
 
   return (res as QuizApiSuccess<CreateQuizResponse>).data;
 }
 
-export async function fetchSubjects(classId: string) {
+export async function fetchSubjects() {
   const res = await authFetch({
-    url: `/api/ncert/subjects?classId=${encodeURIComponent(classId)}`,
+    url: '/api/ncert/subjects',
     options: { method: 'GET' },
   });
 
   if (!Array.isArray(res.message)) {
-    throw new Error('Failed to load subjects');
+    throw new Error(res.message || 'Failed to load subjects');
   }
 
   return res.message as SubjectsResponse;
@@ -54,4 +62,63 @@ export async function fetchUserProfile() {
   }
 
   return res.user as { class?: string | number | null };
+}
+
+export async function startQuizSession(input: Omit<StartQuizInput, 'userId'>) {
+  const res = await authFetch({
+    url: '/api/quiz/start',
+    options: {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(input),
+    },
+  });
+
+  if (
+    (res as QuizApiErrorResponse).message &&
+    !(res as QuizApiSuccess<StartQuizSessionResponse>).data
+  ) {
+    throw new Error((res as QuizApiErrorResponse).message);
+  }
+
+  return (res as QuizApiSuccess<StartQuizSessionResponse>).data;
+}
+
+export async function fetchQuizSession(sessionId: string) {
+  const res = await authFetch({
+    url: `/api/quiz/session?sessionId=${encodeURIComponent(sessionId)}`,
+    options: { method: 'GET' },
+  });
+
+  if (
+    (res as QuizApiErrorResponse).message &&
+    !(res as QuizApiSuccess<QuizSessionData>).data
+  ) {
+    throw new Error((res as QuizApiErrorResponse).message);
+  }
+
+  // Next.js API route returns `{ data: result }` via NextResponse.json
+  return (res as { data: QuizSessionData }).data;
+}
+
+export async function submitQuizSession(
+  input: Omit<SubmitQuizInput, 'userId'>
+) {
+  const res = await authFetch({
+    url: '/api/quiz/submit',
+    options: {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(input),
+    },
+  });
+
+  if (
+    (res as QuizApiErrorResponse).message &&
+    !(res as QuizApiSuccess<SubmitQuizResponse>).data
+  ) {
+    throw new Error((res as QuizApiErrorResponse).message);
+  }
+
+  return (res as QuizApiSuccess<SubmitQuizResponse>).data;
 }
