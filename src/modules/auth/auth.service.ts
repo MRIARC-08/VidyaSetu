@@ -1,6 +1,6 @@
 import { AuthRepository } from './auth.repository';
 
-import bcrypt from 'bcrypt';
+import { verifyPassword, validatePasswordStrength } from '@/lib/auth/password';
 import { jwtService } from '@/lib/auth/jwt';
 
 export class AuthServiceError extends Error {
@@ -63,6 +63,11 @@ export class AuthServices {
     email: string;
     password: string;
   }) {
+    const strength = validatePasswordStrength(data.password);
+    if (!strength.isValid) {
+      throw new AuthServiceError(strength.errors[0], 400);
+    }
+
     const existingUser = await AuthRepository.findUserByEmail(data.email);
 
     if (existingUser) {
@@ -97,7 +102,7 @@ export class AuthServices {
       throw new AuthServiceError(INVALID_CREDENTIALS_MESSAGE, 401);
     }
 
-    const isMatch = await bcrypt.compare(data.password, user.password);
+    const isMatch = await verifyPassword(data.password, user.password);
 
     if (!isMatch) {
       throw new AuthServiceError(INVALID_CREDENTIALS_MESSAGE, 401);
