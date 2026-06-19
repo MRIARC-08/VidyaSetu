@@ -175,8 +175,27 @@ export default function DashboardPage() {
           </svg>
           <div className="w-[0.5px] h-full bg-primary/60"></div>
 
-          <div className="cursor-pointer text-14px font-medium">
-            {user?.name}
+          <div className="relative group">
+            <div className="cursor-pointer text-14px font-medium flex items-center gap-1">
+              {user?.name}
+              <svg width="12" height="12" viewBox="0 0 12 12" fill="none">
+                <path d="M2 4L6 8L10 4" stroke="#1A1C1C" strokeWidth="1.5" strokeLinecap="round"/>
+              </svg>
+            </div>
+            <div className="absolute right-0 top-full mt-2 w-40 bg-white border border-black/10 shadow-lg z-50 hidden group-hover:block">
+              
+              <a  href="/profile"
+                className="block px-4 py-3 text-sm hover:bg-gray-50 border-b border-black/10"
+              >
+                Profile
+              </a>
+              <button
+                onClick={() => router.push('/api/auth/signout')}
+                className="w-full text-left px-4 py-3 text-sm hover:bg-gray-50 text-red-500"
+              >
+                Logout
+              </button>
+            </div>
           </div>
         </div>
       </div>
