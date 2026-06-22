@@ -47,7 +47,6 @@ export class AuthControllers {
   }
 
   static async login(req: Request) {
-
     try {
       const body = await req.json();
 
