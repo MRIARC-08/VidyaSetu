@@ -85,14 +85,18 @@ export default function ResumeCard() {
         </div>
         <div className="flex justify-between text-[10px] text-secondary/60 font-medium">
           <span>{progress.progressPercent}% completed</span>
-          <span>Last read: {new Date(progress.lastVisited).toLocaleDateString()}</span>
+          <span>
+            Last read: {new Date(progress.lastVisited).toLocaleDateString()}
+          </span>
         </div>
       </div>
     </div>
   );
 }
 
-export function saveReadingProgress(data: Omit<ReadingProgress, 'lastVisited'>) {
+export function saveReadingProgress(
+  data: Omit<ReadingProgress, 'lastVisited'>
+) {
   if (typeof window === 'undefined') return;
   try {
     const payload: ReadingProgress = {
