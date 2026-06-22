@@ -23,6 +23,7 @@ export class NotesRepository {
         title: true,
         content: true,
         fileUrl: true,
+        cloudinaryPublicId: true,
         extractedText: true,
         createdAt: true,
       },
