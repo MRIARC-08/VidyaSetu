@@ -158,9 +158,15 @@ export default function LoginPage() {
         </p>
       </div>
       <div className="flex-1 h-screen pr-10 pt-2">
-        <p className="flex justify-end text-[14px]">
-          Need help? <span className="pl-2 text-button"> Contact Support</span>
-        </p>
+        <div className="flex justify-between items-center px-4">
+          <a href="/" className="text-button text-[14px] hover:underline flex items-center gap-1">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+            Back to Home
+          </a>
+          <p className="text-[14px]">
+            Need help? <span className="pl-2 text-button"> Contact Support</span>
+          </p>
+        </div>
 
         <div className="w-full h-full flex justify-center flex-col items-center">
           <div className="w-[80%] h-[60%] flex flex-col gap-8 ">
@@ -237,7 +243,7 @@ export default function LoginPage() {
                 <div className="gap-2 flex flex-col">
                   <div className="flex justify-between items-center">
                     <label htmlFor="password"> Password</label>
-                    <p className="text-button text-[14px]">Forgot password?</p>
+                    <p className="text-button text-[14px] cursor-pointer select-none">Forgot password?</p>
                   </div>
 
                   <Input

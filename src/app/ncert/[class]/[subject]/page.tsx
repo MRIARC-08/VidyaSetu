@@ -12,6 +12,13 @@ interface ChapterType {
   pdf: string;
   subjectId: string;
   title: string;
+  content?: string;
+}
+
+function getReadTime(content: string | undefined | null): number | null {
+  if (!content) return null;
+  const words = content.trim().split(/\s+/).length;
+  return Math.ceil(words / 200);
 }
 
 export default function NcertSubjectPage() {
@@ -69,6 +76,14 @@ export default function NcertSubjectPage() {
                   {val.order < 10 ? `0${val.order}` : `${val.order}`}
                 </p>
                 <p className="text-xl font-semibold">{val.title}</p>
+                {(() => {
+                  const readTime = getReadTime(val.content);
+                  return readTime ? (
+                    <span className="ml-auto text-xs font-medium px-3 py-1 rounded-full bg-primary/10 text-primary/70 border border-primary/20">
+                      📖 ~{readTime} min read
+                    </span>
+                  ) : null;
+                })()}
               </a>
             );
           })}

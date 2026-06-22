@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import { Geist, Geist_Mono, Lexend, Manrope } from 'next/font/google';
 import './globals.css';
 import MainLayout from './mainLayout';
+import ThemeToggle from '@/components/ThemeToggle';
 
 const manrope = Manrope({
   variable: '--font-manrope-sans',
@@ -22,6 +23,7 @@ export default async function RootLayout({
     <html lang="en">
       <body className={`${manrope.variable}  antialiased `}>
         <MainLayout>{children}</MainLayout>
+        <ThemeToggle />
       </body>
     </html>
   );
