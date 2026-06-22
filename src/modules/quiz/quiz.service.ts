@@ -216,11 +216,11 @@ export class QuizServices {
       throw new QuizApiError('One or more questions not found', 404);
     }
 
-    const quizQuestions = await QuizRepository.findQuizQuestions(session.quizId);
-
-    const allowedQuestionIds = new Set(
-      quizQuestions.map((q) => q.questionId)
+    const quizQuestions = await QuizRepository.findQuizQuestions(
+      session.quizId
     );
+
+    const allowedQuestionIds = new Set(quizQuestions.map((q) => q.questionId));
 
     const questionMap = new Map(questions.map((q) => [q.id, q]));
 
@@ -245,10 +245,7 @@ export class QuizServices {
 
     for (const response of input.responses) {
       if (!allowedQuestionIds.has(response.questionId)) {
-        throw new QuizApiError(
-          'Question does not belong to this quiz',
-          400
-        );
+        throw new QuizApiError('Question does not belong to this quiz', 400);
       }
 
       if (!questionMap.has(response.questionId)) {

@@ -244,7 +244,7 @@ export class QuizRepository {
         easyAccuracy: data.easyAccuracy,
         mediumAccuracy: data.mediumAccuracy,
         hardAccuracy: data.hardAccuracy,
-      }
+      },
     });
   }
 }
