@@ -50,6 +50,16 @@ const mockUser = {
   firstTime: true,
 };
 
+const publicMockUser = {
+  id: mockUser.id,
+  email: mockUser.email,
+  name: undefined,
+  role: mockUser.role,
+  firstTime: mockUser.firstTime,
+  createdAt: undefined,
+  updatedAt: undefined,
+};
+
 describe('AuthServices', () => {
   beforeEach(() => {
     vi.clearAllMocks();
@@ -67,7 +77,7 @@ describe('AuthServices', () => {
       providerAccountId: 'google-account-1',
     };
 
-    it('links a found Google user and returns tokens', async () => {
+    it('links a found Google user and returns sanitized user with tokens', async () => {
       mocks.findUserByEmail.mockResolvedValue(mockUser);
 
       const result = await AuthServices.handleGoogleService(googlePayload);
@@ -81,14 +91,15 @@ describe('AuthServices', () => {
       expect(mocks.generateAccessToken).toHaveBeenCalledWith({
         id: mockUser.id,
         role: mockUser.role,
-        isProfileCompleted: false,
+        isProfileCompleted: mockUser.firstTime,
       });
       expect(mocks.createRefreshToken).toHaveBeenCalledWith(mockUser.id);
       expect(result).toEqual({
-        user: mockUser,
+        user: publicMockUser,
         accessToken: 'access-token',
         refreshToken: 'refresh-token',
       });
+      expect(result.user).not.toHaveProperty('password');
     });
 
     it('throws a clear auth error when Google user creation returns null', async () => {
@@ -114,7 +125,7 @@ describe('AuthServices', () => {
   });
 
   describe('handleRegister', () => {
-    it('registers a new user and returns access and refresh tokens', async () => {
+    it('registers a new user and returns sanitized user with access and refresh tokens', async () => {
       mocks.findUserByEmail.mockResolvedValue(null);
       mocks.registerUser.mockResolvedValue(mockUser);
 
@@ -140,10 +151,11 @@ describe('AuthServices', () => {
       expect(mocks.createRefreshToken).toHaveBeenCalledWith(mockUser.id);
 
       expect(result).toEqual({
-        user: mockUser,
+        user: publicMockUser,
         accessToken: 'access-token',
         refreshToken: 'refresh-token',
       });
+      expect(result.user).not.toHaveProperty('password');
     });
 
     it('throws conflict error when email is already registered', async () => {
@@ -166,7 +178,7 @@ describe('AuthServices', () => {
   });
 
   describe('handleLoginUser', () => {
-    it('logs in a user with valid credentials and returns tokens', async () => {
+    it('logs in a user with valid credentials and returns sanitized user with tokens', async () => {
       mocks.findUserByEmail.mockResolvedValue(mockUser);
       mocks.compare.mockResolvedValue(true);
 
@@ -190,10 +202,11 @@ describe('AuthServices', () => {
       expect(mocks.createRefreshToken).toHaveBeenCalledWith(mockUser.id);
 
       expect(result).toEqual({
-        user: mockUser,
+        user: publicMockUser,
         accessToken: 'access-token',
         refreshToken: 'refresh-token',
       });
+      expect(result.user).not.toHaveProperty('password');
     });
 
     it('throws invalid credentials when user is not found', async () => {

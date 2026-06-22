@@ -21,13 +21,17 @@ function toPublicUser(user: {
   id: string;
   email: string;
   name: string | null;
-  createdAt: Date;
-  updatedAt: Date;
+  role: unknown;
+  firstTime: boolean;
+  createdAt?: Date;
+  updatedAt?: Date;
 }) {
   return {
     id: user.id,
     email: user.email,
     name: user.name,
+    role: user.role,
+    firstTime: user.firstTime,
     createdAt: user.createdAt,
     updatedAt: user.updatedAt,
   };
@@ -40,8 +44,11 @@ export class AuthServices {
     email: string;
     providerAccountId: string;
   }) {
-    let user: Awaited<ReturnType<typeof AuthRepository.createUser>> | null =
+    let user:
+    | Awaited<ReturnType<typeof AuthRepository.findUserByEmail>>
+    | Awaited<ReturnType<typeof AuthRepository.createUser>> =
     await AuthRepository.findUserByEmail(data.email);
+
     if (!user) {
       user = await AuthRepository.createUser({
         email: data.email,
@@ -61,8 +68,8 @@ export class AuthServices {
 
     const accessToken = jwtService.generateAccessToken({
       id: user.id,
-      role: 'USER',
-      isProfileCompleted: false,
+      role: user.role,
+      isProfileCompleted: user.firstTime,
     });
 
     const refreshToken = await AuthRepository.createRefreshToken(user.id);
@@ -98,8 +105,8 @@ export class AuthServices {
 
     const accessToken = jwtService.generateAccessToken({
       id: user.id,
-      role: 'USER',
-      isProfileCompleted: false,
+      role: user.role,
+      isProfileCompleted: user.firstTime,
     });
 
     const refreshToken = await AuthRepository.createRefreshToken(user.id);
@@ -126,8 +133,8 @@ export class AuthServices {
 
     const accessToken = jwtService.generateAccessToken({
       id: user.id,
-      role: 'USER',
-      isProfileCompleted: false,
+      role: user.role,
+      isProfileCompleted: user.firstTime,
     });
 
     const refreshToken = await AuthRepository.createRefreshToken(user.id);
@@ -176,8 +183,8 @@ export class AuthServices {
 
     const accessToken = jwtService.generateAccessToken({
       id: user.id,
-      role: 'USER',
-      isProfileCompleted: false,
+      role: user.role,
+      isProfileCompleted: user.firstTime,
     });
 
     return {
