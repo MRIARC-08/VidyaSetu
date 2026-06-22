@@ -13,10 +13,7 @@ type Props = {
   };
 };
 
-export default function ChapterNavigation({
-  previous,
-  next,
-}: Props) {
+export default function ChapterNavigation({ previous, next }: Props) {
   if (!previous && !next) return null;
 
   return (
@@ -25,9 +22,9 @@ export default function ChapterNavigation({
         {previous && (
           <Link
             href={previous.href}
-            className="inline-flex items-center px-4 py-2 border"
+            className="inline-flex items-center border px-4 py-2"
           >
-            ← {previous.title}
+            &larr; {previous.title}
           </Link>
         )}
       </div>
@@ -36,9 +33,9 @@ export default function ChapterNavigation({
         {next && (
           <Link
             href={next.href}
-            className="inline-flex items-center px-4 py-2 border"
+            className="inline-flex items-center border px-4 py-2"
           >
-            {next.title} →
+            {next.title} &rarr;
           </Link>
         )}
       </div>

@@ -19,21 +19,15 @@ export default function ChapterBreadcrumb({
         <Link href="/ncert">NCERT</Link>
         <span>/</span>
 
-        <Link href={`/ncert/${classId}`}>
-          Class {classId}
-        </Link>
+        <Link href={`/ncert/${classId}`}>Class {classId}</Link>
 
         <span>/</span>
 
-        <Link href={`/ncert/${classId}/${subjectId}`}>
-          Subject
-        </Link>
+        <Link href={`/ncert/${classId}/${subjectId}`}>Subject</Link>
 
         <span>/</span>
 
-        <span className="font-medium text-primary">
-          {chapterTitle}
-        </span>
+        <span className="font-medium text-primary">{chapterTitle}</span>
       </div>
     </nav>
   );

@@ -1,6 +1,8 @@
 'use client';
 
-import ChapterContent, { type ChapterContentData } from '@/components/ChapterContent';
+import ChapterContent, {
+  type ChapterContentData,
+} from '@/components/ChapterContent';
 import ReadingProgressBar from '@/components/ReadingProgressBar';
 import { ChapterPageSkeleton } from '@/components/Skeletons';
 import { saveReadingProgress } from '@/components/ResumeCard';
@@ -18,7 +20,11 @@ type ChapterNavItem = {
 };
 
 export default function NcertChapterPage() {
-  const params = useParams<{ class: string; subject: string; chapter: string }>();
+  const params = useParams<{
+    class: string;
+    subject: string;
+    chapter: string;
+  }>();
   const [chapter, setChapter] = useState<ChapterProps | null>(null);
   const [previousChapter, setPreviousChapter] = useState<
     ChapterNavItem | undefined
@@ -43,7 +49,11 @@ export default function NcertChapterPage() {
 
       if (res.status !== 200 || !res.message) {
         setChapter(null);
-        setError(typeof res.message === 'string' ? res.message : 'The chapter API did not return content for this request.');
+        setError(
+          typeof res.message === 'string'
+            ? res.message
+            : 'The chapter API did not return content for this request.'
+        );
         return;
       }
       const chapterData = res.message as ChapterProps;
@@ -94,7 +104,9 @@ export default function NcertChapterPage() {
 
     const handleScroll = () => {
       const scrollTop = window.scrollY || document.documentElement.scrollTop;
-      const scrollHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+      const scrollHeight =
+        document.documentElement.scrollHeight -
+        document.documentElement.clientHeight;
       if (scrollHeight <= 0) return;
 
       const pct = Math.round((scrollTop / scrollHeight) * 100);
@@ -114,12 +126,9 @@ export default function NcertChapterPage() {
     window.addEventListener('scroll', handleScroll, { passive: true });
     return () => window.removeEventListener('scroll', handleScroll);
   }, [isLoading, chapter, params.class, params.subject, params.chapter]);
-    return (
+  return (
     <>
-      <ReadingProgressBar
-        chapterSlug={params.chapter}
-        isLoading={isLoading}
-      />
+      <ReadingProgressBar chapterSlug={params.chapter} isLoading={isLoading} />
 
       {isLoading ? (
         <ChapterPageSkeleton />

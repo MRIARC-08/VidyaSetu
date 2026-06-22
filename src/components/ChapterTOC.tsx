@@ -17,35 +17,24 @@ export default function ChapterTOC({ content }: Props) {
   const [activeId, setActiveId] = useState('');
   const headings = buildHeadingIds(content) as TocItem[];
   useEffect(() => {
-    const headingElements =
-      document.querySelectorAll(
-        'h1[id], h2[id], h3[id]'
-      );
+    const headingElements = document.querySelectorAll('h1[id], h2[id], h3[id]');
 
-    const observer =
-      new IntersectionObserver(
-        (entries) => {
-          entries.forEach((entry) => {
-            if (entry.isIntersecting) {
-              setActiveId(
-                entry.target.id
-              );
-            }
-          });
-        },
-        {
-          rootMargin:
-            '-120px 0px -70% 0px',
-        }
-      );
-
-    headingElements.forEach(
-      (element) =>
-        observer.observe(element)
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            setActiveId(entry.target.id);
+          }
+        });
+      },
+      {
+        rootMargin: '-120px 0px -70% 0px',
+      }
     );
 
-    return () =>
-      observer.disconnect();
+    headingElements.forEach((element) => observer.observe(element));
+
+    return () => observer.disconnect();
   }, [content]);
 
   if (!headings.length) return null;
@@ -69,7 +58,9 @@ export default function ChapterTOC({ content }: Props) {
                   ? 'font-bold text-blue-600'
                   : 'text-primary/70'
               }
-            >{item.text}</a>
+            >
+              {item.text}
+            </a>
           </li>
         ))}
       </ul>

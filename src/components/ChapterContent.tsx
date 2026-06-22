@@ -133,7 +133,6 @@ export default function ChapterContent({
             <Printer className="h-4 w-4" />
             Print
           </button>
-
         </div>
       </header>
 
@@ -149,27 +148,38 @@ export default function ChapterContent({
             Notes are being prepared
           </h2>
           <p className="mt-3 max-w-2xl text-primary/70">
-            This chapter is available in the NCERT PDF, but learner-facing markdown
-            has not been seeded yet.
+            This chapter is available in the NCERT PDF, but learner-facing
+            markdown has not been seeded yet.
           </p>
         </div>
-      ) : null}
-      
+      ) : (
+        <div className="border border-primary/15 bg-white p-6">
+          <NotebookText className="mb-4 h-6 w-6 text-primary/60" />
+          <h2 className="text-2xl font-bold text-primary">
+            Content not yet available
+          </h2>
+          <p className="mt-3 max-w-2xl text-primary/70">
+            Content for this chapter has not been added yet. Please check back
+            later.
+          </p>
+        </div>
+      )}
+
       <ChapterNavigation
         previous={
           previousChapter
             ? {
-              title: previousChapter.title,
-              href: `/ncert/${classId}/${subjectId}/${previousChapter.id}`,
-            }
+                title: previousChapter.title,
+                href: `/ncert/${classId}/${subjectId}/${previousChapter.id}`,
+              }
             : undefined
         }
         next={
           nextChapter
             ? {
-              title: nextChapter.title,
-              href: `/ncert/${classId}/${subjectId}/${nextChapter.id}`,
-            }
+                title: nextChapter.title,
+                href: `/ncert/${classId}/${subjectId}/${nextChapter.id}`,
+              }
             : undefined
         }
       />
