@@ -65,6 +65,7 @@ export class NotesServices {
         title,
         content: null,
         fileUrl: uploadResult.secure_url ?? uploadResult.url ?? null,
+        cloudinaryPublicId: uploadResult.public_id,
         extractedText,
       });
 
@@ -111,6 +112,17 @@ export class NotesServices {
     }
 
     await NotesRepository.deleteNote(noteId, userId);
+
+    if (note.cloudinaryPublicId) {
+      try {
+        await cloudinary.uploader.destroy(note.cloudinaryPublicId);
+      } catch (error) {
+        console.error(
+          `Failed to delete Cloudinary asset ${note.cloudinaryPublicId}`,
+          error
+        );
+      }
+    }
 
     return { message: 'Note deleted successfully' };
   }
