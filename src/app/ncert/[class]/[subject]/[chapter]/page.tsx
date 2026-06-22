@@ -1,6 +1,8 @@
 'use client';
 
-import ChapterContent, { type ChapterContentData } from '@/components/ChapterContent';
+import ChapterContent, {
+  type ChapterContentData,
+} from '@/components/ChapterContent';
 import ReadingProgressBar from '@/components/ReadingProgressBar';
 import { ChapterPageSkeleton } from '@/components/Skeletons';
 import { saveReadingProgress } from '@/components/ResumeCard';
@@ -14,7 +16,11 @@ interface ChapterProps extends ChapterContentData {
 }
 
 export default function NcertChapterPage() {
-  const params = useParams<{ class: string; subject: string; chapter: string }>();
+  const params = useParams<{
+    class: string;
+    subject: string;
+    chapter: string;
+  }>();
   const [chapter, setChapter] = useState<ChapterProps | null>(null);
   const [chapters, setChapters] = useState<ChapterProps[]>([]);
   const [subjectName, setSubjectName] = useState<string>('');
@@ -43,7 +49,7 @@ export default function NcertChapterPage() {
         );
         return;
       }
-      
+
       const chapterData = chapterRes.message as ChapterProps;
       setChapter(chapterData);
 
@@ -75,7 +81,9 @@ export default function NcertChapterPage() {
 
     const handleScroll = () => {
       const scrollTop = window.scrollY || document.documentElement.scrollTop;
-      const scrollHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+      const scrollHeight =
+        document.documentElement.scrollHeight -
+        document.documentElement.clientHeight;
       if (scrollHeight <= 0) return;
 
       const pct = Math.round((scrollTop / scrollHeight) * 100);
@@ -102,11 +110,11 @@ export default function NcertChapterPage() {
       {isLoading ? (
         <ChapterPageSkeleton />
       ) : (
-        <ChapterContent 
-          chapter={chapter} 
+        <ChapterContent
+          chapter={chapter}
           chapters={chapters}
           subjectName={subjectName}
-          error={error} 
+          error={error}
         />
       )}
     </>

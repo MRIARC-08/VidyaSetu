@@ -11,7 +11,7 @@ import {
   TriangleAlert,
 } from 'lucide-react';
 import BookmarkButton from '@/components/BookmarkButton';
-import MarkdownViewer from '@/components/MarkdownViewer';
+import MarkdownViewer, { generateId } from '@/components/MarkdownViewer';
 import Link from 'next/link';
 
 export type ChapterContentData = {
@@ -90,7 +90,7 @@ export default function ChapterContent({
       return {
         level: match ? match[1].length : 1,
         text: match ? match[2] : '',
-        id: match ? match[2].toLowerCase().replace(/[^\w]+/g, '-') : '',
+        id: match ? generateId(match[2]) : '',
       };
     });
   };
