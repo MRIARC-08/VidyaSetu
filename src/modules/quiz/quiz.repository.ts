@@ -106,6 +106,8 @@ export class QuizRepository {
             id: true,
             mode: true,
             source: true,
+            chapterId: true,
+            topicId: true,
           },
         },
         responses: {

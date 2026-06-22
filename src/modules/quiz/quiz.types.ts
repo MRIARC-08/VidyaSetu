@@ -78,6 +78,7 @@ export type StartQuizSessionResponse = {
   timeTaken: number;
   startedAt: string;
   completedAt: string | null;
+  questions?: QuizQuestion[];
 };
 
 /** Returned by GET /api/quiz/session */
@@ -110,6 +111,7 @@ export type QuizSessionData = {
       options: SanitizedOption[];
     };
   }>;
+  questions?: QuizQuestion[];
 };
 
 /** Returned by POST /api/quiz/submit */

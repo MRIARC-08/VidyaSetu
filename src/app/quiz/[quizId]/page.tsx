@@ -57,17 +57,18 @@ export default function QuizAttemptPage({
 
     async function initQuiz() {
       try {
+        let parsedQuestions: QuizQuestionType[] | null = null;
         const storedQuestions = sessionStorage.getItem(
           `quiz_${quizId}_questions`
         );
-        if (!storedQuestions) {
-          throw new Error('Questions not found. Please create the quiz again.');
+        if (storedQuestions) {
+          try {
+            parsedQuestions = JSON.parse(storedQuestions) as QuizQuestionType[];
+            if (!cancelled) setQuestions(parsedQuestions);
+          } catch (e) {
+            console.error('Failed to parse stored questions', e);
+          }
         }
-
-        const parsedQuestions = JSON.parse(
-          storedQuestions
-        ) as QuizQuestionType[];
-        if (!cancelled) setQuestions(parsedQuestions);
 
         const storedSessionId = sessionStorage.getItem(
           `quiz_${quizId}_sessionId`
@@ -93,6 +94,26 @@ export default function QuizAttemptPage({
             if (savedStartTime) setStartTime(Number(savedStartTime));
             questionStartTimeRef.current = Date.now();
           }
+
+          if (!parsedQuestions) {
+            // Missing questions in sessionStorage (e.g. direct visit/refresh)
+            const { fetchQuizSession } = await import('@/lib/quiz');
+            const sessionData = await fetchQuizSession(storedSessionId);
+            if (!cancelled) {
+              const loadedQuestions =
+                sessionData.questions ||
+                sessionData.responses.map((r: any) => r.question);
+              if (loadedQuestions && loadedQuestions.length > 0) {
+                setQuestions(loadedQuestions);
+                sessionStorage.setItem(
+                  `quiz_${quizId}_questions`,
+                  JSON.stringify(loadedQuestions)
+                );
+              } else {
+                throw new Error('Questions not found in backend session.');
+              }
+            }
+          }
         } else {
           const session = await startQuizSession({ quizId });
           if (!cancelled) {
@@ -102,6 +123,18 @@ export default function QuizAttemptPage({
             setStartTime(now);
             sessionStorage.setItem(`quiz_${quizId}_startTime`, now.toString());
             questionStartTimeRef.current = now;
+
+            if (session.questions && session.questions.length > 0) {
+              setQuestions(session.questions);
+              sessionStorage.setItem(
+                `quiz_${quizId}_questions`,
+                JSON.stringify(session.questions)
+              );
+            } else if (!parsedQuestions) {
+              throw new Error(
+                'Questions not found. Please create the quiz again.'
+              );
+            }
           }
         }
       } catch (err) {
