@@ -16,12 +16,10 @@ export interface ChapterDTO {
   title: string;
   order: number;
   subjectId: string;
-
   pdf?: string | null;
   content?: string | null;
   contentFormat?: string | null;
   contentSource?: string | null;
-
   topics?: TopicDTO[];
 }
 
@@ -30,7 +28,6 @@ export interface TopicDTO {
   title: string;
   order: number;
   chapterId: string;
-
   content?: string | null;
   questionCount?: number;
 }
@@ -70,21 +67,12 @@ export interface NcertFilterDTO {
 
 export interface NcertQueryDTO
   extends NcertPaginationDTO,
-    NcertFilterDTO {}
+  NcertFilterDTO {}
 
-/**
- * Classes endpoint
- * Reviewer noted this endpoint returns:
- * { classes: AcademicClassDTO[] }
- * rather than { status, message }
- */
 export interface ClassesResponseDTO {
   classes: AcademicClassDTO[];
 }
 
-/**
- * Single resource responses
- */
 export type AcademicClassResponseDTO =
   ApiResponseDTO<AcademicClassDTO | null>;
 
@@ -97,16 +85,9 @@ export type ChapterResponseDTO =
 export type TopicResponseDTO =
   ApiResponseDTO<TopicDTO | null>;
 
-/**
- * Collection responses
- */
 export type SubjectsResponseDTO =
   ApiResponseDTO<SubjectDTO[]>;
 
-/**
- * getChapters() returns a Subject object
- * containing its chapters.
- */
 export type ChaptersResponseDTO =
   ApiResponseDTO<SubjectDTO>;
 
