@@ -220,8 +220,24 @@ export class QuizServices {
     let totalTimeTaken = 0;
 
     for (const response of input.responses) {
-      if (!questionMap.has(response.questionId)) {
+      const question = questionMap.get(response.questionId);
+
+      if (!question) {
         throw new QuizApiError('Question not found', 404);
+      }
+
+      if (question.type === 'MCQ' && !response.selectedOptionId) {
+        throw new QuizApiError(
+          'MCQ questions require a selected option.',
+          400
+        );
+      }
+
+      if (question.type === 'SUBJECTIVE' && !response.subjectiveAnswer) {
+        throw new QuizApiError(
+          'Subjective questions require a written answer.',
+          400
+        );
       }
 
       let isCorrect: boolean | null = null;
