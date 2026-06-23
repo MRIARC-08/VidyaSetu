@@ -44,9 +44,10 @@ export class NcertController {
   static async getChapters(req: Request) {
     try {
       const query = parseNcertQuery(req.url);
+      const classId = requireNcertParam(query, ['classId', 'class']);
       const subjectId = requireNcertParam(query, ['subjectId', 'subject']);
 
-      const res = await NcertServices.getChapters(subjectId);
+      const res = await NcertServices.getChapters(subjectId, classId);
 
       return NextResponse.json({ status: 200, message: res });
     } catch (error) {
@@ -57,9 +58,11 @@ export class NcertController {
   static async getChapter(req: Request) {
     try {
       const query = parseNcertQuery(req.url);
+      const classId = requireNcertParam(query, ['classId', 'class']);
+      const subjectId = requireNcertParam(query, ['subjectId', 'subject']);
       const chapterId = requireNcertParam(query, ['chapterId', 'chapter']);
 
-      const res = await NcertServices.getChapter(chapterId);
+      const res = await NcertServices.getChapter(chapterId, subjectId, classId);
 
       return NextResponse.json({ status: 200, message: res });
     } catch (error) {

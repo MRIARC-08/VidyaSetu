@@ -20,10 +20,11 @@ export class NcertRepository {
     });
   }
 
-  static async getChapters(subjectId: string) {
-    return await prisma.subject.findUnique({
+  static async getChapters(subjectId: string, classId: string) {
+    return await prisma.subject.findFirst({
       where: {
         id: subjectId,
+        academicClassId: classId,
       },
       include: {
         chapters: true,
@@ -31,10 +32,18 @@ export class NcertRepository {
     });
   }
 
-  static async getChapter(chapterId: string) {
-    return await prisma.chapter.findUnique({
+  static async getChapter(
+    chapterId: string,
+    subjectId: string,
+    classId: string
+  ) {
+    return await prisma.chapter.findFirst({
       where: {
         id: chapterId,
+        subjectId,
+        subject: {
+          academicClassId: classId,
+        },
       },
     });
   }
