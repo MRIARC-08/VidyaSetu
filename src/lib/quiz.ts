@@ -30,9 +30,9 @@ export async function createQuiz(input: CreateQuizInput) {
   return (res as QuizApiSuccess<CreateQuizResponse>).data;
 }
 
-export async function fetchSubjects() {
+export async function fetchSubjects(classId: string | number) {
   const res = await authFetch({
-    url: '/api/ncert/subjects',
+    url: `/api/ncert/subjects?classId=${encodeURIComponent(String(classId))}`,
     options: { method: 'GET' },
   });
 

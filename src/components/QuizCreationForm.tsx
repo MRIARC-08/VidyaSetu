@@ -112,7 +112,7 @@ function QuizCreationForm({ className }: { className?: string }) {
         setUserClass(classNum);
 
         try {
-          const subjectsData = await fetchSubjects();
+          const subjectsData = await fetchSubjects(classNum);
           if (!cancelled) setSubjects(subjectsData);
         } catch (subjectsErr) {
           if (!cancelled) {
