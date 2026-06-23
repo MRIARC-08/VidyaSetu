@@ -31,6 +31,7 @@ model User {
   refreshTokens    RefreshToken[]
   stats            UserStats?
   bookmarks        Bookmark[]
+  notifications    Notification[]
 
   @@index([email])
 }
@@ -259,6 +260,34 @@ model Bookmark {
   @@unique([userId, chapterId])
   @@index([userId])
   @@index([chapterId])
+}
+
+model Notification {
+  id        String           @id @default(uuid())
+  userId    String
+  type      NotificationType
+  title     String
+  message   String
+  isRead    Boolean          @default(false)
+  data      Json?
+  createdAt DateTime         @default(now())
+  readAt    DateTime?
+
+  @@index([userId])
+  @@index([userId, isRead])
+  @@index([createdAt])
+}
+
+enum NotificationType {
+  QUIZ_REMINDER
+  GOAL_COMPLETION
+  STUDY_STREAK
+  REVISION_RECOMMENDATION
+  PERFORMANCE_INSIGHT
+  WEEKLY_PROGRESS
+  SYLLABUS_MILESTONE
+  QUIZ_COMPLETION
+  DAILY_STUDY_REMINDER
 }
 
 
