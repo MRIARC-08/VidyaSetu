@@ -102,7 +102,9 @@ export default function QuizAttemptPage({
             if (!cancelled) {
               const loadedQuestions =
                 sessionData.questions ||
-                sessionData.responses.map((r: any) => r.question);
+                sessionData.responses.map(
+                  (r) => r.question as QuizQuestionType
+                );
               if (loadedQuestions && loadedQuestions.length > 0) {
                 setQuestions(loadedQuestions);
                 sessionStorage.setItem(

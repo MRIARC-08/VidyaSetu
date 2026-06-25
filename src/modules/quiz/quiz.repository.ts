@@ -159,6 +159,27 @@ export class QuizRepository {
     });
   }
 
+  static findFullQuestionsByIds(questionIds: string[]) {
+    return prisma.question.findMany({
+      where: { id: { in: questionIds } },
+      select: {
+        id: true,
+        topicId: true,
+        type: true,
+        difficulty: true,
+        questionText: true,
+        explanation: true,
+        options: {
+          select: {
+            id: true,
+            label: true,
+            value: true,
+          },
+        },
+      },
+    });
+  }
+
   static findOptionsByIds(optionIds: string[]) {
     return prisma.option.findMany({
       where: { id: { in: optionIds } },

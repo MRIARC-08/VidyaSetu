@@ -123,17 +123,12 @@ export class QuizServices {
       timeTaken: 0,
     });
 
+    const quizQuestions = await QuizRepository.findQuizQuestions(quiz.id);
+    const questionIds = quizQuestions.map((q) => q.questionId);
+    
     let questions: QuizQuestion[] = [];
-    if (quiz.source === 'CHAPTER' && quiz.chapterId) {
-      questions = await QuizRepository.findQuestionsByChapter(
-        quiz.chapterId,
-        quiz.questionCount
-      );
-    } else if (quiz.source === 'TOPIC' && quiz.topicId) {
-      questions = await QuizRepository.findQuestionsByTopic(
-        quiz.topicId,
-        quiz.questionCount
-      );
+    if (questionIds.length > 0) {
+      questions = await QuizRepository.findFullQuestionsByIds(questionIds);
     }
 
     return {
@@ -173,18 +168,10 @@ export class QuizServices {
 
     let questions: QuizQuestion[] | undefined;
     if (sanitizedResponses.length === 0) {
-      if (session.quiz.source === 'CHAPTER' && session.quiz.chapterId) {
-        questions = await QuizRepository.findQuestionsByChapter(
-          session.quiz.chapterId,
-          session.totalQuestions
-        );
-      } else if (session.quiz.source === 'TOPIC' && session.quiz.topicId) {
-        questions = await QuizRepository.findQuestionsByTopic(
-          session.quiz.topicId,
-          session.totalQuestions
-        );
-      }
-      if (questions) {
+      const quizQuestions = await QuizRepository.findQuizQuestions(session.quizId);
+      const questionIds = quizQuestions.map((q) => q.questionId);
+      if (questionIds.length > 0) {
+        questions = await QuizRepository.findFullQuestionsByIds(questionIds);
         questions = shuffleArray(questions);
       }
     }
