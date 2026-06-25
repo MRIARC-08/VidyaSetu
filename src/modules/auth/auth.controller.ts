@@ -85,12 +85,10 @@ export class AuthControllers {
           'Refresh token validation failed:',
           validation.error.format()
         );
-        return NextResponse.json(
-          {
-            error: 'Validation failed',
-            fields: validation.error.flatten().fieldErrors,
-          },
-          { status: 400 }
+        await SetCookies.deleteCookies();
+        return authErrorResponse(
+          new AuthServiceError('Invalid or expired refresh token', 401),
+          401
         );
       }
 
