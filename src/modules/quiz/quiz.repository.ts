@@ -135,7 +135,10 @@ export class QuizRepository {
   static findQuestionsByIds(questionIds: string[]) {
     return prisma.question.findMany({
       where: { id: { in: questionIds } },
-      select: { id: true },
+      select: {
+        id: true,
+        type: true,
+      },
     });
   }
 
