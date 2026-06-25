@@ -12,7 +12,7 @@ model User {
   name             String?
   email            String            @unique
   password         String?
-  class            String?        
+  class            String?
   image            String?
   role             UserRole          @default(STUDENT)
   isEmailVerified  Boolean           @default(false)
@@ -34,6 +34,7 @@ model User {
 
   @@index([email])
 }
+
 model Account {
   id                String       @id @default(uuid())
   userId            String
@@ -80,17 +81,17 @@ model Subject {
 }
 
 model Chapter {
-  id            String  @id @default(uuid())
+  id            String     @id @default(uuid())
   title         String
   order         Int
   subjectId     String
-  subject       Subject @relation(fields: [subjectId], references: [id], onDelete: Cascade)
+  subject       Subject    @relation(fields: [subjectId], references: [id], onDelete: Cascade)
   pdf           String?
   content       String?
   contentFormat String?
   contentSource String?
   topics        Topic[]
-  bookmarks        Bookmark[]
+  bookmarks     Bookmark[]
 
   @@index([subjectId])
 }
@@ -118,6 +119,7 @@ model Question {
   options      Option[]
   topic        Topic?             @relation(fields: [topicId], references: [id])
   responses    QuestionResponse[]
+  quizQuestions QuizQuestion[]
 
   @@index([topicId])
   @@index([difficulty])
@@ -147,10 +149,23 @@ model Quiz {
   note          Note?         @relation(fields: [noteId], references: [id])
   user          User          @relation(fields: [userId], references: [id], onDelete: Cascade)
   sessions      QuizSession[]
+  questions     QuizQuestion[]
 
   @@index([userId])
   @@index([chapterId])
   @@index([topicId])
+}
+model QuizQuestion {
+  id         String   @id @default(uuid())
+  quizId     String
+  questionId String
+
+  quiz       Quiz     @relation(fields: [quizId], references: [id], onDelete: Cascade)
+  question   Question @relation(fields: [questionId], references: [id], onDelete: Cascade)
+
+  @@unique([quizId, questionId])
+  @@index([quizId])
+  @@index([questionId])
 }
 
 model QuizSession {
@@ -186,6 +201,7 @@ model QuestionResponse {
 
   @@index([sessionId])
   @@index([questionId])
+  @@unique([sessionId, questionId])
 }
 
 model SubjectiveEvaluation {
@@ -215,37 +231,38 @@ model AIGenerationLog {
 }
 
 model Note {
-  id            String    @id @default(uuid())
-  userId        String
-  title         String
-  content       String?
-  fileUrl       String?
-  extractedText String?
-  version       Int       @default(1)
-  createdAt     DateTime  @default(now())
-  updatedAt     DateTime  @updatedAt
-  deletedAt     DateTime?
-  user          User      @relation(fields: [userId], references: [id], onDelete: Cascade)
-  quizzes       Quiz[]
+  id                 String    @id @default(uuid())
+  userId             String
+  title              String
+  content            String?
+  fileUrl            String?
+  cloudinaryPublicId String?
+  extractedText      String?
+  version            Int       @default(1)
+  createdAt          DateTime  @default(now())
+  updatedAt          DateTime  @updatedAt
+  deletedAt          DateTime?
+  user               User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  quizzes            Quiz[]
 
   @@index([userId])
 }
 
 model UserStats {
-  id              String    @id @default(uuid())
-  userId          String    @unique
-  totalSessions   Int       @default(0)
-  totalQuestions  Int       @default(0)
-  totalCorrect    Int       @default(0)
-  overallAccuracy Float     @default(0)
-  easyAccuracy    Float     @default(0)
-  mediumAccuracy  Float     @default(0)
-  hardAccuracy    Float     @default(0)
-  currentStreak   Int       @default(0)
-  longestStreak   Int       @default(0)
+  id               String    @id @default(uuid())
+  userId           String    @unique
+  totalSessions    Int       @default(0)
+  totalQuestions   Int       @default(0)
+  totalCorrect     Int       @default(0)
+  overallAccuracy  Float     @default(0)
+  easyAccuracy     Float     @default(0)
+  mediumAccuracy   Float     @default(0)
+  hardAccuracy     Float     @default(0)
+  currentStreak    Int       @default(0)
+  longestStreak    Int       @default(0)
   lastActivityDate DateTime?
-  updatedAt       DateTime  @updatedAt
-  user            User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  updatedAt        DateTime  @updatedAt
+  user             User      @relation(fields: [userId], references: [id], onDelete: Cascade)
 }
 
 model Bookmark {
@@ -260,7 +277,6 @@ model Bookmark {
   @@index([userId])
   @@index([chapterId])
 }
-
 
 enum UserRole {
   STUDENT
