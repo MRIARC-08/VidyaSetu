@@ -62,5 +62,20 @@ export const submitQuizSchema = z.object({
           }
         )
     )
-    .min(1),
+    .min(1)
+    .superRefine((responses, ctx) => {
+      const seen = new Set<string>();
+
+      responses.forEach((response, index) => {
+        if (seen.has(response.questionId)) {
+          ctx.addIssue({
+            code: 'custom',
+            path: [index, 'questionId'],
+            message: 'Duplicate question IDs are not allowed',
+          });
+        }
+
+        seen.add(response.questionId);
+      });
+    }),
 });

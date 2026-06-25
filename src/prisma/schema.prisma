@@ -119,6 +119,7 @@ model Question {
   options      Option[]
   topic        Topic?             @relation(fields: [topicId], references: [id])
   responses    QuestionResponse[]
+  quizQuestions QuizQuestion[]
 
   @@index([topicId])
   @@index([difficulty])
@@ -148,10 +149,23 @@ model Quiz {
   note          Note?         @relation(fields: [noteId], references: [id])
   user          User          @relation(fields: [userId], references: [id], onDelete: Cascade)
   sessions      QuizSession[]
+  questions     QuizQuestion[]
 
   @@index([userId])
   @@index([chapterId])
   @@index([topicId])
+}
+model QuizQuestion {
+  id         String   @id @default(uuid())
+  quizId     String
+  questionId String
+
+  quiz       Quiz     @relation(fields: [quizId], references: [id], onDelete: Cascade)
+  question   Question @relation(fields: [questionId], references: [id], onDelete: Cascade)
+
+  @@unique([quizId, questionId])
+  @@index([quizId])
+  @@index([questionId])
 }
 
 model QuizSession {
@@ -187,6 +201,7 @@ model QuestionResponse {
 
   @@index([sessionId])
   @@index([questionId])
+  @@unique([sessionId, questionId])
 }
 
 model SubjectiveEvaluation {
