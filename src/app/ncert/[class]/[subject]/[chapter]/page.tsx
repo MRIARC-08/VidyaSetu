@@ -32,7 +32,7 @@ export default function NcertChapterPage() {
     setIsLoading(true);
     setError(null);
     try {
-      const chapterUrl = `/api/ncert/chapter?chapter=${params.chapter}`;
+      const chapterUrl = `/api/ncert/chapter?class=${params.class}&subject=${params.subject}&chapter=${params.chapter}`;
       const chaptersUrl = `/api/ncert/chapters?class=${params.class}&subject=${params.subject}`;
 
       const [chapterRes, chaptersRes] = await Promise.all([
