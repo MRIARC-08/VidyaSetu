@@ -13,6 +13,7 @@ export type UploadResult = {
   title: string;
   content: string | null;
   fileUrl: string | null;
+  cloudinaryPublicId: string | null;
   extractedText: string | null;
   createdAt: Date;
 };

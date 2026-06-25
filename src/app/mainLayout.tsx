@@ -97,7 +97,7 @@ export default function MainLayout({ children }: PropsWithChildren) {
         <div className="fixed bg-accent/40 w-15">
           {elements.map((val) => {
             return (
-              <Link
+              <a
                 key={val.name}
                 href={val.link}
                 aria-label={val.name}
@@ -111,7 +111,7 @@ export default function MainLayout({ children }: PropsWithChildren) {
 <span className="absolute left-full ml-2 px-2 py-1 text-xs font-medium text-white bg-black rounded opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap z-50">
   {val.name}
 </span>
-              </Link>
+              </a>
             );
           })}
         </div>
