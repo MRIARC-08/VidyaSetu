@@ -65,31 +65,22 @@ export interface NcertFilterDTO {
   search?: string;
 }
 
-export interface NcertQueryDTO
-  extends NcertPaginationDTO,
-  NcertFilterDTO {}
+export interface NcertQueryDTO extends NcertPaginationDTO, NcertFilterDTO {}
 
 export interface ClassesResponseDTO {
   classes: AcademicClassDTO[];
 }
 
-export type AcademicClassResponseDTO =
-  ApiResponseDTO<AcademicClassDTO | null>;
+export type AcademicClassResponseDTO = ApiResponseDTO<AcademicClassDTO | null>;
 
-export type SubjectResponseDTO =
-  ApiResponseDTO<SubjectDTO | null>;
+export type SubjectResponseDTO = ApiResponseDTO<SubjectDTO | null>;
 
-export type ChapterResponseDTO =
-  ApiResponseDTO<ChapterDTO | null>;
+export type ChapterResponseDTO = ApiResponseDTO<ChapterDTO | null>;
 
-export type TopicResponseDTO =
-  ApiResponseDTO<TopicDTO | null>;
+export type TopicResponseDTO = ApiResponseDTO<TopicDTO | null>;
 
-export type SubjectsResponseDTO =
-  ApiResponseDTO<SubjectDTO[]>;
+export type SubjectsResponseDTO = ApiResponseDTO<SubjectDTO[]>;
 
-export type ChaptersResponseDTO =
-  ApiResponseDTO<SubjectDTO>;
+export type ChaptersResponseDTO = ApiResponseDTO<SubjectDTO>;
 
-export type TopicsResponseDTO =
-  ApiResponseDTO<TopicDTO[]>;
+export type TopicsResponseDTO = ApiResponseDTO<TopicDTO[]>;
