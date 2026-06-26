@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import { Manrope } from 'next/font/google';
 import './globals.css';
+import BackToTop from '@/components/BackToTop';
 import MainLayout from './mainLayout';
 
 const manrope = Manrope({
@@ -23,6 +24,7 @@ export default async function RootLayout({
     <html lang="en">
       <body className={`${manrope.variable}  antialiased `}>
         <MainLayout>{children}</MainLayout>
+        <BackToTop />
       </body>
     </html>
   );
