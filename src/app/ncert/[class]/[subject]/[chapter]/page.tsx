@@ -38,7 +38,7 @@ export default function NcertChapterPage() {
     setIsLoading(true);
     setError(null);
     try {
-      const url = `/api/ncert/chapter?chapter=${params.chapter}`;
+      const url = `/api/ncert/chapter?class=${encodeURIComponent(params.class)}&subject=${encodeURIComponent(params.subject)}&chapter=${encodeURIComponent(params.chapter)}`;
 
       const res = await authFetch({
         url,
@@ -74,7 +74,9 @@ export default function NcertChapterPage() {
       });
       setPreviousChapter(undefined);
       setNextChapter(undefined);
-      const chapters = chaptersRes.message.chapters;
+      const chapters = Array.isArray(chaptersRes.message?.chapters)
+        ? chaptersRes.message.chapters
+        : [];
 
       const currentIndex = chapters.findIndex(
         (c: ChapterNavItem) => c.id === params.chapter

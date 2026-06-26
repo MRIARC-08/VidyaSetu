@@ -57,6 +57,8 @@ export class NcertController {
   static async getChapter(req: Request) {
     try {
       const query = parseNcertQuery(req.url);
+      requireNcertParam(query, ['classId', 'class']);
+      requireNcertParam(query, ['subjectId', 'subject']);
       const chapterId = requireNcertParam(query, ['chapterId', 'chapter']);
 
       const res = await NcertServices.getChapter(chapterId);
