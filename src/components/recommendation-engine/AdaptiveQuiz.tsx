@@ -177,29 +177,35 @@ export default function AdaptiveQuiz({
 
   useEffect(() => {
     if (state === 'loading') {
-      setLoading(true);
-      setError(null);
-      setData(null);
+      setTimeout(() => {
+        setLoading(true);
+        setError(null);
+        setData(null);
+      }, 0);
       return;
     }
 
     if (state === 'error') {
-      setLoading(false);
-      setError('Unable to prepare adaptive quiz suggestions.');
-      setData(null);
+      setTimeout(() => {
+        setLoading(false);
+        setError('Unable to prepare adaptive quiz suggestions.');
+        setData(null);
+      }, 0);
       return;
     }
 
     if (state === 'empty') {
-      setLoading(false);
-      setError(null);
-      setData({
-        overallAccuracy: 0,
-        streak: 0,
-        recentAttempts: 0,
-        topics: [],
-        progression: [],
-      });
+      setTimeout(() => {
+        setLoading(false);
+        setError(null);
+        setData({
+          overallAccuracy: 0,
+          streak: 0,
+          recentAttempts: 0,
+          topics: [],
+          progression: [],
+        });
+      }, 0);
       return;
     }
 
