@@ -2,6 +2,11 @@ import { NextResponse } from 'next/server';
 import { AuthServiceError, AuthServices } from './auth.service';
 import { SetCookies } from '@/lib/auth/cookies';
 import { cookies } from 'next/headers';
+import {
+  LoginSchema,
+  RegisterSchema,
+  RefreshTokenSchema,
+} from './auth.validator';
 
 function authErrorResponse(error: unknown, fallbackStatus = 400) {
   const message =
@@ -17,8 +22,22 @@ export class AuthControllers {
     try {
       const body = await req.json();
 
-      const result = await AuthServices.handleRegister(body);
+      const validation = RegisterSchema.safeParse(body);
+      if (!validation.success) {
+        console.error(
+          'Registration validation failed:',
+          validation.error.format()
+        );
+        return NextResponse.json(
+          {
+            error: 'Validation failed',
+            fields: validation.error.flatten().fieldErrors,
+          },
+          { status: 400 }
+        );
+      }
 
+      const result = await AuthServices.handleRegister(validation.data);
       await SetCookies.setAuthCookies(result.accessToken, result.refreshToken);
 
       return NextResponse.json({ user: result.user }, { status: 201 });
@@ -28,10 +47,22 @@ export class AuthControllers {
   }
 
   static async login(req: Request) {
-    const body = await req.json();
     try {
-      const result = await AuthServices.handleLoginUser(body);
+      const body = await req.json();
 
+      const validation = LoginSchema.safeParse(body);
+      if (!validation.success) {
+        console.error('Login validation failed:', validation.error.format());
+        return NextResponse.json(
+          {
+            error: 'Validation failed',
+            fields: validation.error.flatten().fieldErrors,
+          },
+          { status: 400 }
+        );
+      }
+
+      const result = await AuthServices.handleLoginUser(validation.data);
 
       await SetCookies.setAuthCookies(result.accessToken, result.refreshToken);
 
@@ -46,8 +77,23 @@ export class AuthControllers {
       const cookieStore = await cookies();
       const token = cookieStore.get('refresh_token');
 
+      const validation = RefreshTokenSchema.safeParse({
+        refreshToken: token?.value ?? '',
+      });
+      if (!validation.success) {
+        console.error(
+          'Refresh token validation failed:',
+          validation.error.format()
+        );
+        await SetCookies.deleteCookies();
+        return authErrorResponse(
+          new AuthServiceError('Invalid or expired refresh token', 401),
+          401
+        );
+      }
+
       const { refreshToken, accessToken } = await AuthServices.refreshToken(
-        token?.value
+        token?.value as string
       );
 
       await SetCookies.setAuthCookies(accessToken, refreshToken);
