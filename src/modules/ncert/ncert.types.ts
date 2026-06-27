@@ -1,4 +1,3 @@
-// TODO: Define NCERT types
 export interface AcademicClassDTO {
   id: string;
   level: number;
@@ -28,41 +27,31 @@ export interface TopicDTO {
   id: string;
   title: string;
   order: number;
-  content?: string | null;
   chapterId: string;
+  content?: string | null;
   questionCount?: number;
 }
 
-/* Request DTOs */
+export interface ApiResponseDTO<T> {
+  status: number;
+  message: T;
+}
 
 export interface GetSubjectsRequestDTO {
-  classId: string;
+  classId?: string;
+  class?: string;
 }
 
 export interface GetChaptersRequestDTO {
-  subjectId: string;
+  subjectId?: string;
+  subject?: string;
 }
 
 export interface GetChapterRequestDTO {
-  chapterId: string;
+  chapterId?: string;
+  chapter?: string;
 }
 
-/* Response DTOs */
-
-export interface SubjectsResponseDTO {
-  status: number;
-  message: SubjectDTO[];
-}
-
-export interface ChaptersResponseDTO {
-  status: number;
-  message: SubjectDTO | null;
-}
-
-export interface ChapterResponseDTO {
-  status: number;
-  message: ChapterDTO | null;
-}
 export interface NcertPaginationDTO {
   page?: number;
   limit?: number;
@@ -72,4 +61,26 @@ export interface NcertFilterDTO {
   classId?: string;
   subjectId?: string;
   chapterId?: string;
+  topicId?: string;
+  search?: string;
 }
+
+export interface NcertQueryDTO extends NcertPaginationDTO, NcertFilterDTO {}
+
+export interface ClassesResponseDTO {
+  classes: AcademicClassDTO[];
+}
+
+export type AcademicClassResponseDTO = ApiResponseDTO<AcademicClassDTO | null>;
+
+export type SubjectResponseDTO = ApiResponseDTO<SubjectDTO | null>;
+
+export type ChapterResponseDTO = ApiResponseDTO<ChapterDTO | null>;
+
+export type TopicResponseDTO = ApiResponseDTO<TopicDTO | null>;
+
+export type SubjectsResponseDTO = ApiResponseDTO<SubjectDTO[]>;
+
+export type ChaptersResponseDTO = ApiResponseDTO<SubjectDTO>;
+
+export type TopicsResponseDTO = ApiResponseDTO<TopicDTO[]>;
