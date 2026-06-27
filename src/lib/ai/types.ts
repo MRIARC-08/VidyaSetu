@@ -1,4 +1,4 @@
-// ── Shared request / response types for the internal FastAPI AI service ──────
+// Shared request/response types for the internal FastAPI AI service
 
 export interface PingResponse {
   status: 'ok';

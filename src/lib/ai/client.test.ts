@@ -30,17 +30,23 @@ beforeEach(() => {
 
 describe('aiClient.ping', () => {
   it('returns ping response on success', async () => {
-    mockFetch.mockResolvedValue(mockResponse(200, { status: 'ok', service: 'vidyasetu-ai' }));
+    mockFetch.mockResolvedValue(
+      mockResponse(200, { status: 'ok', service: 'vidyasetu-ai' })
+    );
     const result = await aiClient.ping();
     expect(result.status).toBe('ok');
     expect(result.service).toBe('vidyasetu-ai');
   });
 
   it('sends X-Internal-API-Key header', async () => {
-    mockFetch.mockResolvedValue(mockResponse(200, { status: 'ok', service: 'vidyasetu-ai' }));
+    mockFetch.mockResolvedValue(
+      mockResponse(200, { status: 'ok', service: 'vidyasetu-ai' })
+    );
     await aiClient.ping();
     const headers = mockFetch.mock.calls[0][1].headers;
-    expect(headers['X-Internal-API-Key']).toBe('test-key-at-least-32-characters-long');
+    expect(headers['X-Internal-API-Key']).toBe(
+      'test-key-at-least-32-characters-long'
+    );
   });
 
   it('throws AiServiceUnauthorizedError on 401', async () => {
@@ -49,7 +55,9 @@ describe('aiClient.ping', () => {
   });
 
   it('throws AiServiceError on 500', async () => {
-    mockFetch.mockResolvedValue(mockResponse(500, { detail: 'Internal error' }));
+    mockFetch.mockResolvedValue(
+      mockResponse(500, { detail: 'Internal error' })
+    );
     await expect(aiClient.ping()).rejects.toThrow(AiServiceError);
   });
 
@@ -74,7 +82,15 @@ describe('aiClient.embed', () => {
 describe('aiClient.search', () => {
   it('posts query and returns results', async () => {
     const mockSearch = {
-      results: [{ chunk_id: '1', document_id: '2', chunk_text: 'hi', heading_path: null, score: 0.9 }],
+      results: [
+        {
+          chunk_id: '1',
+          document_id: '2',
+          chunk_text: 'hi',
+          heading_path: null,
+          score: 0.9,
+        },
+      ],
       query: 'hello',
       model: 'test-model',
     };

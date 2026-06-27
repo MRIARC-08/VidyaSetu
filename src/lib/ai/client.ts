@@ -79,7 +79,9 @@ export const aiClient = {
     });
   },
 
-  async search(body: SimilaritySearchRequest): Promise<SimilaritySearchResponse> {
+  async search(
+    body: SimilaritySearchRequest
+  ): Promise<SimilaritySearchResponse> {
     return request<SimilaritySearchResponse>('/api/v1/internal/search', {
       method: 'POST',
       body: JSON.stringify(body),
