@@ -12,6 +12,7 @@ const envSchema = z.object({
   CLOUDINARY_CLOUD_NAME: z.string().optional(),
   CLOUDINARY_API_KEY: z.string().optional(),
   CLOUDINARY_API_SECRET: z.string().optional(),
+  CREDENTIAL_MASTER_KEY: z.string().min(32, 'CREDENTIAL_MASTER_KEY must be at least 32 characters'),
 });
 
 const parsed = envSchema.safeParse(process.env);
