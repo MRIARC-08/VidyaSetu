@@ -23,16 +23,19 @@ export async function createQuiz(input: CreateQuizInput) {
     },
   });
 
-  if ((res as QuizApiErrorResponse).message && !(res as QuizApiSuccess<CreateQuizResponse>).data) {
+  if (
+    (res as QuizApiErrorResponse).message &&
+    !(res as QuizApiSuccess<CreateQuizResponse>).data
+  ) {
     throw new Error((res as QuizApiErrorResponse).message);
   }
 
   return (res as QuizApiSuccess<CreateQuizResponse>).data;
 }
 
-export async function fetchSubjects() {
+export async function fetchSubjects(classId: string | number) {
   const res = await authFetch({
-    url: '/api/ncert/subjects',
+    url: `/api/ncert/subjects?classId=${encodeURIComponent(String(classId))}`,
     options: { method: 'GET' },
   });
 
