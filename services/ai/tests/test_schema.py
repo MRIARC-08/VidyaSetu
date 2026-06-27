@@ -4,10 +4,7 @@ Integration tests (marked with @pytest.mark.integration) require
 PostgreSQL with pgvector and AI_DATABASE_URL set.
 """
 
-import uuid
-import pytest
-from unittest.mock import AsyncMock, MagicMock, patch
-
+from unittest.mock import MagicMock, patch
 
 # ── Model import tests ────────────────────────────────────────────────────────
 

@@ -7,10 +7,10 @@ Migration owner: Python AI service (Alembic)
 Do NOT modify these tables from Prisma migrations.
 """
 
-from alembic import op
 import sqlalchemy as sa
-from sqlalchemy.dialects.postgresql import UUID
+from alembic import op
 from pgvector.sqlalchemy import Vector
+from sqlalchemy.dialects.postgresql import UUID
 
 revision = "001"
 down_revision = None
@@ -55,7 +55,12 @@ def upgrade() -> None:
     op.create_table(
         "ai_chunks",
         sa.Column("id", UUID(as_uuid=True), primary_key=True),
-        sa.Column("document_id", UUID(as_uuid=True), nullable=False),
+     sa.Column(
+            "document_id",
+            UUID(as_uuid=True),
+            sa.ForeignKey("ai_documents.id", ondelete="CASCADE"),
+            nullable=False,
+        ),
         sa.Column("heading_path", sa.Text(), nullable=True),
         sa.Column("chunk_order", sa.Integer(), nullable=False),
         sa.Column("embedding_model", sa.Text(), nullable=False),

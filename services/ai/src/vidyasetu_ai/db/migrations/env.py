@@ -4,9 +4,9 @@ from logging.config import fileConfig
 from alembic import context
 from sqlalchemy.ext.asyncio import create_async_engine
 
+import vidyasetu_ai.db.models  # noqa: F401 — registers models with Base
 from vidyasetu_ai.core.config import get_settings
 from vidyasetu_ai.db.database import Base
-import vidyasetu_ai.db.models  # noqa: F401 — registers models with Base
 
 config = context.config
 if config.config_file_name is not None:

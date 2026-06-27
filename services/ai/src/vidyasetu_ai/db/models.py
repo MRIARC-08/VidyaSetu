@@ -5,6 +5,7 @@ from pgvector.sqlalchemy import Vector
 from sqlalchemy import (
     BigInteger,
     DateTime,
+    ForeignKey,
     Index,
     Integer,
     Text,
@@ -53,7 +54,9 @@ class AiChunk(Base):
         UUID(as_uuid=True), primary_key=True, default=uuid.uuid4
     )
     document_id: Mapped[uuid.UUID] = mapped_column(
-        UUID(as_uuid=True), nullable=False
+        UUID(as_uuid=True),
+        ForeignKey("ai_documents.id", ondelete="CASCADE"),
+        nullable=False,
     )
     heading_path: Mapped[str | None] = mapped_column(Text, nullable=True)
     chunk_order: Mapped[int] = mapped_column(Integer, nullable=False)
