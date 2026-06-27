@@ -1,6 +1,6 @@
-﻿'use client';
+'use client';
 
-import { useEffect, useState, useRef } from 'react';
+import { useState } from 'react';
 import { useRouter } from 'next/navigation';
 
 interface ReadingProgress {
@@ -14,7 +14,9 @@ interface ReadingProgress {
 
 const STORAGE_KEY = 'vidyasetu_last_read';
 
-function getProgress(): ReadingProgress | null {
+// FIX: Export getProgress so page.tsx can read existing progress
+// before deciding whether to overwrite it
+export function getReadingProgress(): ReadingProgress | null {
   if (typeof window === 'undefined') return null;
   try {
     const data = localStorage.getItem(STORAGE_KEY);
@@ -24,17 +26,14 @@ function getProgress(): ReadingProgress | null {
   }
 }
 
+// Keep internal alias for use inside this file
+function getProgress(): ReadingProgress | null {
+  return getReadingProgress();
+}
+
 export default function ResumeCard() {
   const router = useRouter();
-  const [progress, setProgress] = useState<ReadingProgress | null>(null);
-  const initialised = useRef(false);
-
-  useEffect(() => {
-    if (initialised.current) return;
-    initialised.current = true;
-    const saved = getProgress();
-    setProgress(saved);
-  }, []);
+  const [progress] = useState<ReadingProgress | null>(() => getProgress());
 
   if (!progress) return null;
 
@@ -97,14 +96,18 @@ export default function ResumeCard() {
         </div>
         <div className="flex justify-between text-[10px] text-secondary/60 font-medium">
           <span>{progress.progressPercent}% completed</span>
-          <span>Last read: {new Date(progress.lastVisited).toLocaleDateString()}</span>
+          <span>
+            Last read: {new Date(progress.lastVisited).toLocaleDateString()}
+          </span>
         </div>
       </div>
     </div>
   );
 }
 
-export function saveReadingProgress(data: Omit<ReadingProgress, 'lastVisited'>) {
+export function saveReadingProgress(
+  data: Omit<ReadingProgress, 'lastVisited'>
+) {
   if (typeof window === 'undefined') return;
   try {
     const payload: ReadingProgress = {
