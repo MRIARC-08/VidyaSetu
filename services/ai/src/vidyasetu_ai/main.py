@@ -1,5 +1,5 @@
-from contextlib import asynccontextmanager
 import logging
+from contextlib import asynccontextmanager
 
 from fastapi import FastAPI
 
@@ -18,7 +18,10 @@ async def lifespan(app: FastAPI):
     try:
         ModelRegistry.get().preload(settings.embedding_model)
     except Exception:
-        logger.warning("Embedding model failed to preload at startup — will retry on first use")
+        logger.warning(
+            "Embedding model failed to preload at startup"
+            " — will retry on first use"
+        )
     yield
     ModelRegistry.reset()
 

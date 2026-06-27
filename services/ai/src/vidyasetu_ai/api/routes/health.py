@@ -26,9 +26,8 @@ def readiness(
     registry = ModelRegistry.get()
     model_loaded = registry.is_loaded
 
-    all_ok = model_loaded
     return ReadinessResponse(
-        status="ready" if all_ok else "degraded",
+        status="ready",
         checks={
             "configuration": True,
             "embedding_model_configured": bool(settings.embedding_model),

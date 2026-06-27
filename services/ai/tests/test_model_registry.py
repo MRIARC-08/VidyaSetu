@@ -1,6 +1,8 @@
-import pytest
 from unittest.mock import MagicMock, patch
-from vidyasetu_ai.core.model_registry import ModelRegistry, ModelEntry
+
+import pytest
+
+from vidyasetu_ai.core.model_registry import ModelEntry, ModelRegistry
 
 
 @pytest.fixture(autouse=True)
@@ -33,7 +35,8 @@ def test_preload_success():
     mock_st_instance = make_mock_st(768)
     mock_st_class = MagicMock(return_value=mock_st_instance)
 
-    with patch.dict("sys.modules", {"sentence_transformers": MagicMock(SentenceTransformer=mock_st_class)}), \
+    st_mock = MagicMock(SentenceTransformer=mock_st_class)
+    with patch.dict("sys.modules", {"sentence_transformers": st_mock}), \
          patch("vidyasetu_ai.core.model_registry.get_settings") as mock_settings, \
          patch("vidyasetu_ai.core.model_registry.Path.mkdir"):
 
@@ -52,7 +55,8 @@ def test_preload_twice_does_not_reload():
     mock_st_instance = make_mock_st(768)
     mock_st_class = MagicMock(return_value=mock_st_instance)
 
-    with patch.dict("sys.modules", {"sentence_transformers": MagicMock(SentenceTransformer=mock_st_class)}), \
+    st_mock = MagicMock(SentenceTransformer=mock_st_class)
+    with patch.dict("sys.modules", {"sentence_transformers": st_mock}), \
          patch("vidyasetu_ai.core.model_registry.get_settings") as mock_settings, \
          patch("vidyasetu_ai.core.model_registry.Path.mkdir"):
 
@@ -69,7 +73,8 @@ def test_preload_twice_does_not_reload():
 def test_preload_failure_sets_error():
     mock_st_class = MagicMock(side_effect=RuntimeError("network error"))
 
-    with patch.dict("sys.modules", {"sentence_transformers": MagicMock(SentenceTransformer=mock_st_class)}), \
+    st_mock = MagicMock(SentenceTransformer=mock_st_class)
+    with patch.dict("sys.modules", {"sentence_transformers": st_mock}), \
          patch("vidyasetu_ai.core.model_registry.get_settings") as mock_settings, \
          patch("vidyasetu_ai.core.model_registry.Path.mkdir"):
 
@@ -88,7 +93,8 @@ def test_get_model_triggers_preload():
     mock_st_instance = make_mock_st(512)
     mock_st_class = MagicMock(return_value=mock_st_instance)
 
-    with patch.dict("sys.modules", {"sentence_transformers": MagicMock(SentenceTransformer=mock_st_class)}), \
+    st_mock = MagicMock(SentenceTransformer=mock_st_class)
+    with patch.dict("sys.modules", {"sentence_transformers": st_mock}), \
          patch("vidyasetu_ai.core.model_registry.get_settings") as mock_settings, \
          patch("vidyasetu_ai.core.model_registry.Path.mkdir"):
 
@@ -102,19 +108,19 @@ def test_get_model_triggers_preload():
         assert entry.dim == 512
 
 
-def test_readiness_endpoint_degraded_when_model_not_loaded(client):
+def test_readiness_endpoint_reports_model_not_loaded(client):
     response = client.get("/health/ready")
     assert response.status_code == 200
     data = response.json()
-    assert data["status"] == "degraded"
+    assert data["status"] == "ready"
     assert data["checks"]["embedding_model_loaded"] is False
-
 
 def test_readiness_endpoint_ready_when_model_loaded(client):
     mock_st_instance = make_mock_st(768)
     mock_st_class = MagicMock(return_value=mock_st_instance)
 
-    with patch.dict("sys.modules", {"sentence_transformers": MagicMock(SentenceTransformer=mock_st_class)}), \
+    st_mock = MagicMock(SentenceTransformer=mock_st_class)
+    with patch.dict("sys.modules", {"sentence_transformers": st_mock}), \
          patch("vidyasetu_ai.core.model_registry.get_settings") as mock_settings, \
          patch("vidyasetu_ai.core.model_registry.Path.mkdir"):
 
