@@ -1,6 +1,5 @@
-import { NextResponse } from 'next/server';
+import { AIController } from '@/modules/ai/ai.controller';
 
-export async function POST() {
-  // TODO: Implement AI question generation
-  return NextResponse.json({ message: 'Not implemented' }, { status: 501 });
+export async function POST(req: Request) {
+  return AIController.generateQuestions(req);
 }
