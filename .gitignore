@@ -62,5 +62,3 @@ next-env.d.ts
 PROJECT_STATUS.md
 
 .idea/
-
-pnpm-workspace.yaml

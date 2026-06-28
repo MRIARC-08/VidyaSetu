@@ -53,7 +53,6 @@ export default function NcertSubjectPage() {
     return <SubjectPageSkeleton />;
   }
 
-
   return (
     <main className="p-8 flex flex-col gap-16 bg-background min-h-screen">
       <div>
@@ -79,14 +78,14 @@ export default function NcertSubjectPage() {
                   <p className="text-4xl font-extrabold text-primary/40 ">
                     {val.order < 10 ? `0${val.order}` : `${val.order}`}
                   </p>
-                 <div className="flex flex-col">
-                  <p className="text-xl font-semibold">{val.title}</p>
-                  {readTime && (
-                    <span className="mt-1 inline-flex items-center gap-1 rounded-full bg-primary/10 px-2 py-1 text-xs font-medium text-primary/70">
-                      📖 ~{readTime} min read
-                    </span>
-                  )}
-                </div>
+                  <div className="flex flex-col">
+                    <p className="text-xl font-semibold">{val.title}</p>
+                    {readTime && (
+                      <span className="mt-1 inline-flex items-center gap-1 rounded-full bg-primary/10 px-2 py-1 text-xs font-medium text-primary/70">
+                        📖 ~{readTime} min read
+                      </span>
+                    )}
+                  </div>
                 </div>
                 <BookmarkButton chapterId={val.id} />
               </a>
