@@ -13,6 +13,14 @@ interface ChapterType {
   pdf: string;
   subjectId: string;
   title: string;
+  content?: string | null;
+}
+
+function getReadTime(content?: string | null): number | null {
+  if (!content?.trim()) return null;
+
+  const words = content.trim().split(/\s+/).length;
+  return Math.ceil(words / 200);
 }
 
 export default function NcertSubjectPage() {
@@ -45,7 +53,6 @@ export default function NcertSubjectPage() {
     return <SubjectPageSkeleton />;
   }
 
-
   return (
     <main className="p-8 flex flex-col gap-16 bg-background min-h-screen">
       <div>
@@ -60,6 +67,7 @@ export default function NcertSubjectPage() {
         {chapter &&
           chapter.map((val) => {
             const p = val.order % 2;
+            const readTime = getReadTime(val.content);
             return (
               <a
                 key={val.id}
@@ -70,7 +78,14 @@ export default function NcertSubjectPage() {
                   <p className="text-4xl font-extrabold text-primary/40 ">
                     {val.order < 10 ? `0${val.order}` : `${val.order}`}
                   </p>
-                  <p className="text-xl font-semibold">{val.title}</p>
+                  <div className="flex flex-col">
+                    <p className="text-xl font-semibold">{val.title}</p>
+                    {readTime && (
+                      <span className="mt-1 inline-flex items-center gap-1 rounded-full bg-primary/10 px-2 py-1 text-xs font-medium text-primary/70">
+                        📖 ~{readTime} min read
+                      </span>
+                    )}
+                  </div>
                 </div>
                 <BookmarkButton chapterId={val.id} />
               </a>

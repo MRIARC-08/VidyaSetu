@@ -60,3 +60,5 @@ next-env.d.ts
 
 #md
 PROJECT_STATUS.md
+
+.idea/
