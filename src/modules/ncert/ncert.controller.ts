@@ -1,13 +1,32 @@
 import { NextResponse } from 'next/server';
 import { NcertServices } from './ncert.service';
+import crypto from 'crypto';
 
-// TODO: Implement NCERT controller
+function addCacheHeaders(response: NextResponse): NextResponse {
+  response.headers.set(
+    'Cache-Control',
+    'public, max-age=3600, stale-while-revalidate=86400'
+  );
+  return response;
+}
+
+function addEtagHeader(response: NextResponse, data: unknown): NextResponse {
+  const etag = crypto
+    .createHash('md5')
+    .update(JSON.stringify(data))
+    .digest('hex');
+  response.headers.set('ETag', `"${etag}"`);
+  return response;
+}
+
 export class NcertController {
   static async getSubjects(req: Request) {
     try {
       const res = await NcertServices.getSubjects();
-
-      return NextResponse.json({ status: 200, message: res });
+      const response = NextResponse.json({ status: 200, message: res });
+      addCacheHeaders(response);
+      addEtagHeader(response, res);
+      return response;
     } catch (error: any) {
       return NextResponse.json({
         status: error.status,
@@ -24,8 +43,10 @@ export class NcertController {
       const subjectId = JSON.stringify(p);
 
       const res = await NcertServices.getChapters(subjectId);
-
-      return NextResponse.json({ status: 200, message: res });
+      const response = NextResponse.json({ status: 200, message: res });
+      addCacheHeaders(response);
+      addEtagHeader(response, res);
+      return response;
     } catch (error: any) {
       return NextResponse.json({
         status: error.status,
@@ -42,8 +63,10 @@ export class NcertController {
       const chapterId = JSON.stringify(p);
 
       const res = await NcertServices.getChapter(chapterId);
-
-      return NextResponse.json({ status: 200, message: res });
+      const response = NextResponse.json({ status: 200, message: res });
+      addCacheHeaders(response);
+      addEtagHeader(response, res);
+      return response;
     } catch (error: any) {
       return NextResponse.json({
         status: error.status,
