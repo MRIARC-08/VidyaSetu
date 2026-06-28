@@ -3,6 +3,7 @@ import { Manrope } from 'next/font/google';
 import './globals.css';
 import BackToTop from '@/components/BackToTop';
 import MainLayout from './mainLayout';
+import ThemeToggle from '@/components/ThemeToggle';
 
 const manrope = Manrope({
   variable: '--font-manrope-sans',
@@ -25,6 +26,7 @@ export default async function RootLayout({
       <body className={`${manrope.variable}  antialiased `}>
         <MainLayout>{children}</MainLayout>
         <BackToTop />
+        <ThemeToggle />
       </body>
     </html>
   );

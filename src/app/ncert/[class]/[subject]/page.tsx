@@ -1,7 +1,6 @@
 'use client';
 
 import authFetch from '@/lib/auth/authFetch';
-import { get } from 'http';
 import { useParams } from 'next/navigation';
 import { useEffect, useState } from 'react';
 import { SubjectPageSkeleton } from '@/components/Skeletons';
@@ -13,6 +12,13 @@ interface ChapterType {
   pdf: string;
   subjectId: string;
   title: string;
+  content?: string;
+}
+
+function getReadTime(content: string | undefined | null): number | null {
+  if (!content) return null;
+  const words = content.trim().split(/\s+/).length;
+  return Math.ceil(words / 200);
 }
 
 export default function NcertSubjectPage() {
@@ -24,27 +30,26 @@ export default function NcertSubjectPage() {
   const [subject, setSubject] = useState();
   const [isLoading, setIsLoading] = useState(true);
 
-  const getChapters = async () => {
-    try {
-      const res = await authFetch({
-        url: `/api/ncert/chapters?class=${params.class}&subject=${params.subject}`,
-        options: { method: 'GET' },
-      });
-      setSubject(res.message.name);
-      setChapters(res.message.chapters);
-    } finally {
-      setIsLoading(false);
-    }
-  };
-
   useEffect(() => {
+    const getChapters = async () => {
+      try {
+        const res = await authFetch({
+          url: `/api/ncert/chapters?class=${params.class}&subject=${params.subject}`,
+          options: { method: 'GET' },
+        });
+        setSubject(res.message.name);
+        setChapters(res.message.chapters);
+      } finally {
+        setIsLoading(false);
+      }
+    };
+
     getChapters();
-  }, []);
+  }, [params.class, params.subject]);
 
   if (isLoading) {
     return <SubjectPageSkeleton />;
   }
-
 
   return (
     <main className="p-8 flex flex-col gap-16 bg-background min-h-screen">
@@ -66,11 +71,21 @@ export default function NcertSubjectPage() {
                 href={`/ncert/${params.class}/${params.subject}/${val.id}`}
                 className={`${p == 0 ? 'bg-accent/40 hover:bg-accent/20' : 'bg-accent/10 hover:bg-accent/8'} flex items-center justify-between p-8 border-b border-primary/40 cursor-pointer transition-all duration-300 `}
               >
-                <div className="flex items-center gap-8">
+                <div className="flex items-center gap-8 flex-1">
                   <p className="text-4xl font-extrabold text-primary/40 ">
                     {val.order < 10 ? `0${val.order}` : `${val.order}`}
                   </p>
-                  <p className="text-xl font-semibold">{val.title}</p>
+                  <div className="flex items-center gap-4">
+                    <p className="text-xl font-semibold">{val.title}</p>
+                    {(() => {
+                      const readTime = getReadTime(val.content);
+                      return readTime ? (
+                        <span className="text-xs font-medium px-3 py-1 rounded-full bg-primary/10 text-primary/70 border border-primary/20">
+                          📖 ~{readTime} min read
+                        </span>
+                      ) : null;
+                    })()}
+                  </div>
                 </div>
                 <BookmarkButton chapterId={val.id} />
               </a>
