@@ -1,7 +1,6 @@
 'use client';
 
 import authFetch from '@/lib/auth/authFetch';
-import { get } from 'http';
 import { useParams } from 'next/navigation';
 import { useEffect, useState } from 'react';
 import { SubjectPageSkeleton } from '@/components/Skeletons';
@@ -31,22 +30,22 @@ export default function NcertSubjectPage() {
   const [subject, setSubject] = useState();
   const [isLoading, setIsLoading] = useState(true);
 
-  const getChapters = async () => {
-    try {
-      const res = await authFetch({
-        url: `/api/ncert/chapters?class=${params.class}&subject=${params.subject}`,
-        options: { method: 'GET' },
-      });
-      setSubject(res.message.name);
-      setChapters(res.message.chapters);
-    } finally {
-      setIsLoading(false);
-    }
-  };
-
   useEffect(() => {
+    const getChapters = async () => {
+      try {
+        const res = await authFetch({
+          url: `/api/ncert/chapters?class=${params.class}&subject=${params.subject}`,
+          options: { method: 'GET' },
+        });
+        setSubject(res.message.name);
+        setChapters(res.message.chapters);
+      } finally {
+        setIsLoading(false);
+      }
+    };
+
     getChapters();
-  }, []);
+  }, [params.class, params.subject]);
 
   if (isLoading) {
     return <SubjectPageSkeleton />;

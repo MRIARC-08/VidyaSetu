@@ -24,7 +24,7 @@ export default function Home() {
         if (response?.user) {
           setUser(response.user);
         }
-      } catch (error) {
+      } catch {
         log.error('User fetch failed');
       }
     };

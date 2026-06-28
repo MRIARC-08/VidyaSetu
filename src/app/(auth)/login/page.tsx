@@ -1,11 +1,9 @@
 'use client';
-import { Card } from '@/components/ui/card';
 import Image from 'next/image';
 import book from '@/assets/book.png';
-import { Input } from '@/components/ui/input';
-import { Button } from '@/components/ui/button';
-import { Label } from 'radix-ui';
 import Link from 'next/link';
+import { Button } from '@/components/ui/button';
+import { Input } from '@/components/ui/input';
 import { useRouter } from 'next/navigation';
 import { useState } from 'react';
 import { signIn } from 'next-auth/react';
@@ -202,12 +200,12 @@ export default function LoginPage() {
           </div>
           <div className="flex justify-center pt-2 text-[14px] text-black/60 md:hidden">
             New here?{' '}
-            <a
+            <Link
               href="/register"
               className="pl-1 text-button font-bold hover:underline"
             >
               Create an account
-            </a>
+            </Link>
           </div>
         </div>
 
