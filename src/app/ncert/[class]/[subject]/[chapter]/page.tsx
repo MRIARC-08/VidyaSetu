@@ -1,6 +1,8 @@
 'use client';
 
-import ChapterContent, { type ChapterContentData } from '@/components/ChapterContent';
+import ChapterContent, {
+  type ChapterContentData,
+} from '@/components/ChapterContent';
 import ReadingProgressBar from '@/components/ReadingProgressBar';
 import { ChapterPageSkeleton } from '@/components/Skeletons';
 import { saveReadingProgress } from '@/components/ResumeCard';
@@ -14,32 +16,47 @@ interface ChapterProps extends ChapterContentData {
 }
 
 export default function NcertChapterPage() {
-  const params = useParams<{ class: string; subject: string; chapter: string }>();
+  const params = useParams<{
+    class: string;
+    subject: string;
+    chapter: string;
+  }>();
   const [chapter, setChapter] = useState<ChapterProps | null>(null);
+  const [chapters, setChapters] = useState<ChapterProps[]>([]);
+  const [subjectName, setSubjectName] = useState<string>('');
   const [error, setError] = useState<string | null>(null);
   const [isLoading, setIsLoading] = useState(true);
   const scrollProgress = useRef(0);
 
-  const getChapter = useCallback(async () => {
+  const fetchData = useCallback(async () => {
     setIsLoading(true);
     setError(null);
     try {
-      const url = `/api/ncert/chapter?chapter=${params.chapter}`;
+      const chapterUrl = `/api/ncert/chapter?class=${params.class}&subject=${params.subject}&chapter=${params.chapter}`;
+      const chaptersUrl = `/api/ncert/chapters?class=${params.class}&subject=${params.subject}`;
 
-      const res = await authFetch({
-        url,
-        options: {
-          method: 'GET',
-        },
-      });
+      const [chapterRes, chaptersRes] = await Promise.all([
+        authFetch({ url: chapterUrl, options: { method: 'GET' } }),
+        authFetch({ url: chaptersUrl, options: { method: 'GET' } }),
+      ]);
 
-      if (res.status !== 200 || !res.message) {
+      if (chapterRes.status !== 200 || !chapterRes.message) {
         setChapter(null);
-        setError(typeof res.message === 'string' ? res.message : 'The chapter API did not return content for this request.');
+        setError(
+          typeof chapterRes.message === 'string'
+            ? chapterRes.message
+            : 'The chapter API did not return content for this request.'
+        );
         return;
       }
-      const chapterData = res.message as ChapterProps;
+
+      const chapterData = chapterRes.message as ChapterProps;
       setChapter(chapterData);
+
+      if (chaptersRes.status === 200 && chaptersRes.message) {
+        setSubjectName(chaptersRes.message.name);
+        setChapters(chaptersRes.message.chapters);
+      }
 
       saveReadingProgress({
         chapterName: chapterData.title,
@@ -56,15 +73,17 @@ export default function NcertChapterPage() {
   }, [params.chapter, params.class, params.subject]);
 
   useEffect(() => {
-    getChapter();
-  }, [getChapter]);
+    fetchData();
+  }, [fetchData]);
 
   useEffect(() => {
     if (isLoading) return;
 
     const handleScroll = () => {
       const scrollTop = window.scrollY || document.documentElement.scrollTop;
-      const scrollHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+      const scrollHeight =
+        document.documentElement.scrollHeight -
+        document.documentElement.clientHeight;
       if (scrollHeight <= 0) return;
 
       const pct = Math.round((scrollTop / scrollHeight) * 100);
@@ -91,7 +110,12 @@ export default function NcertChapterPage() {
       {isLoading ? (
         <ChapterPageSkeleton />
       ) : (
-        <ChapterContent chapter={chapter} error={error} />
+        <ChapterContent
+          chapter={chapter}
+          chapters={chapters}
+          subjectName={subjectName}
+          error={error}
+        />
       )}
     </>
   );

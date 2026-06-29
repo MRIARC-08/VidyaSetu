@@ -15,7 +15,7 @@ interface MarkdownViewerProps {
   className?: string;
 }
 
-const generateId = (text: string) =>
+export const generateId = (text: string) =>
   text
     .toLowerCase()
     .replace(/[^\w\s-]/g, '')
