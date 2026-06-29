@@ -8,6 +8,11 @@ import Link from 'next/link';
 import { useRouter } from 'next/navigation';
 import { useEffect, useState } from 'react';
 import authFetch from '../lib/auth/authFetch';
+import { LandingStatsShowcase } from '@/components/LandingStatsShowcase';
+import { LearningStreakIndicator } from '@/components/LearningStreakIndicator';
+import { QuizPerformancePreview } from '@/components/QuizPerformancePreview';
+import { ChapterMapPreview } from '@/components/ChapterMapPreview';
+import { AnimatedProgressRing } from '@/components/AnimatedProgressRing';
 
 export default function Home() {
   const router = useRouter();
@@ -220,6 +225,39 @@ export default function Home() {
               Don't just fail. Learn. Every incorrect answer triggers a targeted
               revision module from the curator.
             </p>
+          </div>
+        </div>
+
+        {/* Interactive Student Progress Visualizations Section */}
+        <div className="flex flex-col gap-8 pt-8">
+          <div className="flex items-end justify-between">
+            <div className="flex flex-col gap-3">
+              <p className="text-3xl font-bold">See Your Progress in Action</p>
+              <p className="text-secondary/90 md:w-[50%]">
+                Experience how Vidyasetu tracks your learning journey with real-time analytics, 
+                streak tracking, and performance insights.
+              </p>
+            </div>
+            <div className="hidden md:flex items-center gap-2">
+              <AnimatedProgressRing 
+                value={84} 
+                size={60} 
+                strokeWidth={4}
+                label=""
+                color="#14B8A6"
+              />
+              <span className="text-xs text-muted-foreground">Sample Accuracy</span>
+            </div>
+          </div>
+
+          {/* Stats Showcase */}
+          <LandingStatsShowcase />
+
+          {/* Bottom Grid: Streak, Quiz Performance, Chapter Map */}
+          <div className="grid gap-6 lg:grid-cols-3">
+            <LearningStreakIndicator streakCount={7} />
+            <QuizPerformancePreview />
+            <ChapterMapPreview subject="Physics" />
           </div>
         </div>
       </div>
