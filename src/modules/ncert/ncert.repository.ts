@@ -47,4 +47,21 @@ export class NcertRepository {
       },
     });
   }
+
+
+static async updateChapterContent(
+  chapterId: string,
+  content: string
+) {
+  return await prisma.chapter.update({
+    where: {
+      id: chapterId,
+    },
+    data: {
+      content,
+      contentFormat: 'markdown',
+      contentSource: 'admin-editor',
+    },
+  });
+}
 }
