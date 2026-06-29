@@ -152,10 +152,12 @@ export default class AnalyticsService {
     oneYearAgo.setDate(oneYearAgo.getDate() - 364);
     oneYearAgo.setHours(0, 0, 0, 0);
 
-    const { sessions, notes } = await AnalyticsRepository.getActivityOverview(
-      userId,
-      oneYearAgo
-    );
+    const [activityOverview, userStats] = await Promise.all([
+      AnalyticsRepository.getActivityOverview(userId, oneYearAgo),
+      AnalyticsRepository.getUserStats(userId),
+    ]);
+
+    const { sessions, notes } = activityOverview;
 
     const today = new Date();
     today.setHours(0, 0, 0, 0);
@@ -214,35 +216,7 @@ export default class AnalyticsService {
 
     const totalActiveDays = await AnalyticsRepository.countActiveDays(userId);
 
-    let longestStreak = 0;
-    let tempStreak = 0;
-    const sortedAsc = [...activityByDate.keys()].sort();
-
-    for (let i = 0; i < sortedAsc.length; i++) {
-      if (i === 0) {
-        tempStreak = 1;
-      } else {
-        const prev = sortedAsc[i - 1];
-        const curr = sortedAsc[i];
-        const prevParts = prev.split('-').map(Number);
-        const expected = new Date(
-          prevParts[0],
-          prevParts[1] - 1,
-          prevParts[2] + 1
-        );
-        const expectedKey = dateToKey(expected);
-
-        if (curr === expectedKey) {
-          tempStreak++;
-        } else {
-          tempStreak = 1;
-        }
-      }
-
-      if (tempStreak > longestStreak) {
-        longestStreak = tempStreak;
-      }
-    }
+    const longestStreak = userStats?.longestStreak ?? 0;
 
     const calendar: ActivityDay[] = [];
 
