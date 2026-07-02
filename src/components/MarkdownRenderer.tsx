@@ -17,14 +17,6 @@ type MarkdownBlock =
   | { type: 'table'; headers: string[]; rows: string[][] }
   | { type: 'hr' };
 
-const generateId = (text: string) =>
-  text
-    .toLowerCase()
-    .replace(/[^\w\s-]/g, '')
-    .replace(/\s+/g, '-')
-    .replace(/-+/g, '-')
-    .trim();
-
 const safeUrl = (url: string) => {
   if (url.startsWith('/') || url.startsWith('#')) {
     return url;
@@ -274,18 +266,25 @@ const renderHighlightedCode = (code: string): ReactNode[] => {
   return nodes;
 };
 
+const createHeadingId = (text: string) =>
+  text
+    .toLowerCase()
+    .replace(/[^\w\s-]/g, '')
+    .trim()
+    .replace(/\s+/g, '-');
+
 const renderBlock = (block: MarkdownBlock, index: number) => {
   const blockKey = `${block.type}-${index}-${'text' in block ? block.text.slice(0, 20) : ''}`;
 
   switch (block.type) {
     case 'heading': {
-      const headingId = generateId(block.text);
+      const headingId = createHeadingId(block.text);
 
       if (block.level === 1) {
         return (
           <h1
             id={headingId}
-            className="mt-2 border-b border-primary/20 pb-4 text-3xl font-extrabold leading-tight text-primary md:text-4xl"
+            className="mt-2 border-b border-primary/20 pb-4 text-3xl font-extrabold leading-tight text-primary md:text-4xl scroll-mt-24"
             key={blockKey}
           >
             {renderInline(block.text)}
@@ -297,7 +296,7 @@ const renderBlock = (block: MarkdownBlock, index: number) => {
         return (
           <h2
             id={headingId}
-            className="mt-10 text-2xl font-bold leading-tight text-primary"
+            className="mt-10 text-2xl font-bold leading-tight text-primary scroll-mt-24"
             key={blockKey}
           >
             {renderInline(block.text)}
@@ -309,7 +308,7 @@ const renderBlock = (block: MarkdownBlock, index: number) => {
         return (
           <h3
             id={headingId}
-            className="mt-8 text-xl font-semibold leading-snug text-primary"
+            className="mt-8 text-xl font-semibold leading-snug text-primary scroll-mt-24"
             key={index}
           >
             {renderInline(block.text)}
@@ -320,7 +319,7 @@ const renderBlock = (block: MarkdownBlock, index: number) => {
       return (
         <h4
           id={headingId}
-          className="mt-6 text-lg font-semibold leading-snug text-primary"
+          className="mt-6 text-lg font-semibold leading-snug text-primary scroll-mt-24"
           key={blockKey}
         >
           {renderInline(block.text)}
@@ -352,6 +351,7 @@ const renderBlock = (block: MarkdownBlock, index: number) => {
         </ListTag>
       );
     }
+
     case 'blockquote':
       return (
         <blockquote
@@ -412,6 +412,7 @@ const renderBlock = (block: MarkdownBlock, index: number) => {
           </table>
         </div>
       );
+
     case 'hr':
       return <hr className="my-10 border-primary/15" key={blockKey} />;
   }

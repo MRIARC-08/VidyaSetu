@@ -1,6 +1,8 @@
 'use client';
 
-import ChapterContent, { type ChapterContentData } from '@/components/ChapterContent';
+import ChapterContent, {
+  type ChapterContentData,
+} from '@/components/ChapterContent';
 import ReadingProgressBar from '@/components/ReadingProgressBar';
 import { ChapterPageSkeleton } from '@/components/Skeletons';
 import { saveReadingProgress } from '@/components/ResumeCard';
@@ -12,10 +14,22 @@ interface ChapterProps extends ChapterContentData {
   id: string;
   subjectId: string;
 }
+type ChapterNavItem = {
+  id: string;
+  title: string;
+};
 
 export default function NcertChapterPage() {
-  const params = useParams<{ class: string; subject: string; chapter: string }>();
+  const params = useParams<{
+    class: string;
+    subject: string;
+    chapter: string;
+  }>();
   const [chapter, setChapter] = useState<ChapterProps | null>(null);
+  const [previousChapter, setPreviousChapter] = useState<
+    ChapterNavItem | undefined
+  >();
+  const [nextChapter, setNextChapter] = useState<ChapterNavItem | undefined>();
   const [error, setError] = useState<string | null>(null);
   const [isLoading, setIsLoading] = useState(true);
   const scrollProgress = useRef(0);
@@ -24,7 +38,7 @@ export default function NcertChapterPage() {
     setIsLoading(true);
     setError(null);
     try {
-      const url = `/api/ncert/chapter?chapter=${params.chapter}`;
+      const url = `/api/ncert/chapter?class=${encodeURIComponent(params.class)}&subject=${encodeURIComponent(params.subject)}&chapter=${encodeURIComponent(params.chapter)}`;
 
       const res = await authFetch({
         url,
@@ -35,7 +49,11 @@ export default function NcertChapterPage() {
 
       if (res.status !== 200 || !res.message) {
         setChapter(null);
-        setError(typeof res.message === 'string' ? res.message : 'The chapter API did not return content for this request.');
+        setError(
+          typeof res.message === 'string'
+            ? res.message
+            : 'The chapter API did not return content for this request.'
+        );
         return;
       }
       const chapterData = res.message as ChapterProps;
@@ -47,13 +65,37 @@ export default function NcertChapterPage() {
         className: params.class,
         progressPercent: 0,
       });
+
+      const chaptersRes = await authFetch({
+        url: `/api/ncert/chapters?class=${params.class}&subject=${params.subject}`,
+        options: {
+          method: 'GET',
+        },
+      });
+      setPreviousChapter(undefined);
+      setNextChapter(undefined);
+      const chapters = Array.isArray(chaptersRes.message?.chapters)
+        ? chaptersRes.message.chapters
+        : [];
+
+      const currentIndex = chapters.findIndex(
+        (c: ChapterNavItem) => c.id === params.chapter
+      );
+
+      if (currentIndex > 0) {
+        setPreviousChapter(chapters[currentIndex - 1]);
+      }
+
+      if (currentIndex < chapters.length - 1) {
+        setNextChapter(chapters[currentIndex + 1]);
+      }
     } catch {
       setChapter(null);
       setError('Unable to load this chapter. Please try again later.');
     } finally {
       setIsLoading(false);
     }
-  }, [params.chapter, params.class, params.subject]);
+  }, [params.class, params.subject, params.chapter]);
 
   useEffect(() => {
     getChapter();
@@ -64,7 +106,9 @@ export default function NcertChapterPage() {
 
     const handleScroll = () => {
       const scrollTop = window.scrollY || document.documentElement.scrollTop;
-      const scrollHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+      const scrollHeight =
+        document.documentElement.scrollHeight -
+        document.documentElement.clientHeight;
       if (scrollHeight <= 0) return;
 
       const pct = Math.round((scrollTop / scrollHeight) * 100);
@@ -84,14 +128,21 @@ export default function NcertChapterPage() {
     window.addEventListener('scroll', handleScroll, { passive: true });
     return () => window.removeEventListener('scroll', handleScroll);
   }, [isLoading, chapter, params.class, params.subject, params.chapter]);
-
   return (
     <>
       <ReadingProgressBar chapterSlug={params.chapter} isLoading={isLoading} />
+
       {isLoading ? (
         <ChapterPageSkeleton />
       ) : (
-        <ChapterContent chapter={chapter} error={error} />
+        <ChapterContent
+          chapter={chapter}
+          error={error}
+          classId={params.class}
+          subjectId={params.subject}
+          previousChapter={previousChapter}
+          nextChapter={nextChapter}
+        />
       )}
     </>
   );
