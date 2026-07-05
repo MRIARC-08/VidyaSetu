@@ -156,6 +156,14 @@ export default class AnalyticsRepository {
     return Number(result[0]?.count ?? 0);
   }
 
+  static async getUserStats(userId: string) {
+    return prisma.userStats.findUnique({
+      where: {
+        userId,
+      },
+    });
+  }
+
   static async getActivityOverview(userId: string, startDate: Date) {
     const [sessions, notes] = await Promise.all([
       prisma.quizSession.findMany({
