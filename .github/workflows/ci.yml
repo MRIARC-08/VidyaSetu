@@ -111,3 +111,51 @@ jobs:
         env:
           AI_INTERNAL_API_KEY: ci-internal-api-key-at-least-32-characters
         run: pytest
+
+      - name: Export OpenAPI schema
+        run: python scripts/export-openapi.py --output ../../openapi.ci.json
+
+      - name: Upload OpenAPI artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: openapi-spec
+          path: openapi.ci.json
+          retention-days: 1
+
+  contract-test:
+    name: Contract Test
+    runs-on: ubuntu-latest
+    needs: [ai-service]
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download OpenAPI artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: openapi-spec
+          path: .
+
+      - name: Move OpenAPI spec to expected location
+        run: mv openapi.ci.json services/ai/openapi.json
+
+      - name: Set up pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Prepare environment
+        run: cp .env.example .env
+
+      - name: Run contract tests
+        run: pnpm test:contract
