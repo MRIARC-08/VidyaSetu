@@ -18,3 +18,12 @@ def build_engine(database_url: str | None = None):
 
 def build_session_factory(engine):
     return async_sessionmaker(engine, class_=AsyncSession, expire_on_commit=False)
+
+
+_engine = build_engine()
+_session_factory = build_session_factory(_engine)
+
+
+async def get_db():
+    async with _session_factory() as session:
+        yield session

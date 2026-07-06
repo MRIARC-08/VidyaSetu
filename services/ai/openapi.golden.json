@@ -73,10 +73,154 @@
           }
         ]
       }
+    },
+    "/api/v1/ai/request": {
+      "post": {
+        "tags": [
+          "ai"
+        ],
+        "summary": "Check Quota Only",
+        "description": "Check request budget and concurrency, increment requests count and active concurrency.",
+        "operationId": "check_quota_only_api_v1_ai_request_post",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/StandardResponse"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "APIKeyHeader": []
+          }
+        ]
+      }
+    },
+    "/api/v1/ai/job/start": {
+      "post": {
+        "tags": [
+          "ai"
+        ],
+        "summary": "Start Job",
+        "description": "Start a long-running job by checking quota limits and reserving estimated tokens.",
+        "operationId": "start_job_api_v1_ai_job_start_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/JobStartInput"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/JobStartResponse"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "APIKeyHeader": []
+          }
+        ]
+      }
+    },
+    "/api/v1/ai/job/reconcile": {
+      "post": {
+        "tags": [
+          "ai"
+        ],
+        "summary": "Reconcile Job",
+        "description": "Reconcile a completed/failed job and adjust usage tracker tokens and active concurrency.",
+        "operationId": "reconcile_job_api_v1_ai_job_reconcile_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/JobReconcileInput"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/StandardResponse"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "APIKeyHeader": []
+          }
+        ]
+      }
     }
   },
   "components": {
     "schemas": {
+      "HTTPValidationError": {
+        "properties": {
+          "detail": {
+            "items": {
+              "$ref": "#/components/schemas/ValidationError"
+            },
+            "type": "array",
+            "title": "Detail"
+          }
+        },
+        "type": "object",
+        "title": "HTTPValidationError"
+      },
       "HealthResponse": {
         "properties": {
           "status": {
@@ -107,6 +251,71 @@
         ],
         "title": "HealthResponse"
       },
+      "JobReconcileInput": {
+        "properties": {
+          "reservation_id": {
+            "type": "string",
+            "format": "uuid",
+            "title": "Reservation Id"
+          },
+          "actual_tokens": {
+            "anyOf": [
+              {
+                "type": "integer",
+                "minimum": 0.0
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Actual Tokens"
+          },
+          "status": {
+            "type": "string",
+            "pattern": "^(COMPLETED|FAILED|CANCELLED)$",
+            "title": "Status",
+            "default": "COMPLETED"
+          }
+        },
+        "type": "object",
+        "required": [
+          "reservation_id"
+        ],
+        "title": "JobReconcileInput"
+      },
+      "JobStartInput": {
+        "properties": {
+          "estimated_tokens": {
+            "type": "integer",
+            "minimum": 1.0,
+            "title": "Estimated Tokens"
+          }
+        },
+        "type": "object",
+        "required": [
+          "estimated_tokens"
+        ],
+        "title": "JobStartInput"
+      },
+      "JobStartResponse": {
+        "properties": {
+          "status": {
+            "type": "string",
+            "title": "Status"
+          },
+          "reservation_id": {
+            "type": "string",
+            "format": "uuid",
+            "title": "Reservation Id"
+          }
+        },
+        "type": "object",
+        "required": [
+          "status",
+          "reservation_id"
+        ],
+        "title": "JobStartResponse"
+      },
       "ReadinessResponse": {
         "properties": {
           "status": {
@@ -120,6 +329,24 @@
             },
             "type": "object",
             "title": "Checks"
+          },
+          "loaded_models": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array",
+            "title": "Loaded Models"
+          },
+          "load_error": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Load Error"
           }
         },
         "type": "object",
@@ -127,6 +354,59 @@
           "status"
         ],
         "title": "ReadinessResponse"
+      },
+      "StandardResponse": {
+        "properties": {
+          "status": {
+            "type": "string",
+            "title": "Status"
+          }
+        },
+        "type": "object",
+        "required": [
+          "status"
+        ],
+        "title": "StandardResponse"
+      },
+      "ValidationError": {
+        "properties": {
+          "loc": {
+            "items": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "integer"
+                }
+              ]
+            },
+            "type": "array",
+            "title": "Location"
+          },
+          "msg": {
+            "type": "string",
+            "title": "Message"
+          },
+          "type": {
+            "type": "string",
+            "title": "Error Type"
+          },
+          "input": {
+            "title": "Input"
+          },
+          "ctx": {
+            "type": "object",
+            "title": "Context"
+          }
+        },
+        "type": "object",
+        "required": [
+          "loc",
+          "msg",
+          "type"
+        ],
+        "title": "ValidationError"
       }
     },
     "securitySchemes": {
