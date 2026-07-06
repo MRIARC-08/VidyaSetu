@@ -1,7 +1,6 @@
 'use client';
 
 import authFetch from '@/lib/auth/authFetch';
-import { get } from 'http';
 import { useParams } from 'next/navigation';
 import { useEffect, useState } from 'react';
 import { SubjectPageSkeleton } from '@/components/Skeletons';
@@ -32,22 +31,22 @@ export default function NcertSubjectPage() {
   const [subject, setSubject] = useState();
   const [isLoading, setIsLoading] = useState(true);
 
-  const getChapters = async () => {
-    try {
-      const res = await authFetch({
-        url: `/api/ncert/chapters?class=${params.class}&subject=${params.subject}`,
-        options: { method: 'GET' },
-      });
-      setSubject(res.message.name);
-      setChapters(res.message.chapters);
-    } finally {
-      setIsLoading(false);
-    }
-  };
-
   useEffect(() => {
+    const getChapters = async () => {
+      try {
+        const res = await authFetch({
+          url: `/api/ncert/chapters?class=${params.class}&subject=${params.subject}`,
+          options: { method: 'GET' },
+        });
+        setSubject(res.message.name);
+        setChapters(res.message.chapters);
+      } finally {
+        setIsLoading(false);
+      }
+    };
+
     getChapters();
-  }, []);
+  }, [params.class, params.subject]);
 
   if (isLoading) {
     return <SubjectPageSkeleton />;
@@ -74,7 +73,7 @@ export default function NcertSubjectPage() {
                 href={`/ncert/${params.class}/${params.subject}/${val.id}`}
                 className={`${p == 0 ? 'bg-accent/40 hover:bg-accent/20' : 'bg-accent/10 hover:bg-accent/8'} flex items-center justify-between p-8 border-b border-primary/40 cursor-pointer transition-all duration-300 `}
               >
-                <div className="flex items-center gap-8">
+                <div className="flex items-center gap-8 flex-1">
                   <p className="text-4xl font-extrabold text-primary/40 ">
                     {val.order < 10 ? `0${val.order}` : `${val.order}`}
                   </p>

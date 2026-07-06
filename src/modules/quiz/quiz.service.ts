@@ -114,7 +114,7 @@ export class QuizServices {
       throw new QuizApiError('You are not allowed to start this quiz', 403);
     }
 
-    return QuizRepository.createSession({
+    const session = await QuizRepository.createSession({
       userId: input.userId,
       quizId: input.quizId,
       totalQuestions: quiz.questionCount,
@@ -122,6 +122,19 @@ export class QuizServices {
       accuracy: 0,
       timeTaken: 0,
     });
+
+    const quizQuestions = await QuizRepository.findQuizQuestions(quiz.id);
+    const questionIds = quizQuestions.map((q) => q.questionId);
+    
+    let questions: QuizQuestion[] = [];
+    if (questionIds.length > 0) {
+      questions = await QuizRepository.findFullQuestionsByIds(questionIds);
+    }
+
+    return {
+      ...session,
+      questions: shuffleArray(questions),
+    };
   }
 
   static async getSession(sessionId: string, userId: string) {
@@ -153,6 +166,16 @@ export class QuizServices {
       },
     }));
 
+    let questions: QuizQuestion[] | undefined;
+    if (sanitizedResponses.length === 0) {
+      const quizQuestions = await QuizRepository.findQuizQuestions(session.quizId);
+      const questionIds = quizQuestions.map((q) => q.questionId);
+      if (questionIds.length > 0) {
+        questions = await QuizRepository.findFullQuestionsByIds(questionIds);
+        questions = shuffleArray(questions);
+      }
+    }
+
     return {
       session: {
         id: session.id,
@@ -170,6 +193,7 @@ export class QuizServices {
         },
       },
       responses: sanitizedResponses,
+      questions,
     };
   }
 

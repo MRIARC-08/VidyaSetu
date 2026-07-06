@@ -7,6 +7,7 @@ import { StreakCalendar } from '@/components/StreakCalendar';
 import { StreakBadges } from '@/components/StreakBadges';
 import type { StreakData } from '@/modules/analytics/analytics.types';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
+import authFetch from '@/lib/auth/authFetch';
 
 type StreakDashboardProps = React.ComponentProps<'div'>;
 
@@ -20,15 +21,17 @@ function StreakDashboard({ className, ...props }: StreakDashboardProps) {
     setError(null);
 
     try {
-      const res = await fetch('/api/analytics/streak', {
-        credentials: 'include',
-        signal,
+      const json = await authFetch({
+        url: '/api/analytics/streak',
+        options: {
+          method: 'GET',
+          signal,
+        },
       });
-      const json = await res.json();
 
       if (signal?.aborted) return;
 
-      if (res.ok && json.success) {
+      if (json.success) {
         setData(json.data);
       } else {
         setData(null);

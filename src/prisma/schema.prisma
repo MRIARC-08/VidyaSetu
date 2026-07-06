@@ -31,7 +31,7 @@ model User {
   refreshTokens    RefreshToken[]
   stats            UserStats?
   bookmarks        Bookmark[]
-
+  providerCredentials ProviderCredential[]
   @@index([email])
 }
 
@@ -277,6 +277,24 @@ model Bookmark {
   @@index([userId])
   @@index([chapterId])
 }
+
+
+model ProviderCredential {
+  id           String    @id @default(uuid())
+  userId       String
+  provider     String
+  ciphertext   String
+  keyVersion   Int       @default(1)
+  maskedSuffix String
+  createdAt    DateTime  @default(now())
+  updatedAt    DateTime  @updatedAt
+  revokedAt    DateTime?
+  user         User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, provider])
+  @@index([userId])
+}
+
 
 enum UserRole {
   STUDENT

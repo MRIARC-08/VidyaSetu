@@ -2,6 +2,9 @@ import { prisma } from '@/lib/prisma';
 import { AuthProvider } from '@/generated/prisma/enums';
 import crypto from 'crypto';
 import { hashPassword } from '@/lib/auth/password';
+import { PUBLIC_USER_SELECT } from "../user/user.select";
+import { UserRole } from '@/generated/prisma/enums';
+
 
 const REFRESH_TOKEN_TTL_MS = 7 * 24 * 60 * 60 * 1000;
 
@@ -11,11 +14,16 @@ function createRefreshTokenValue() {
 
 export class AuthRepository {
   static async findUserByEmail(email: string) {
-    return prisma.user.findUnique({ where: { email } });
+    return prisma.user.findUnique({
+      where: { email },
+    });
   }
 
   static async findUserByid(id: string) {
-    return prisma.user.findUnique({ where: { id } });
+    return prisma.user.findUnique({
+      where: { id },
+      select: PUBLIC_USER_SELECT,
+    });
   }
 
   static async createUser(data: {
@@ -28,9 +36,14 @@ export class AuthRepository {
         email: data.email,
         name: data.name,
         image: data.image,
+        password: null,
+        role: UserRole.STUDENT,
+        class: null,
+        firstTime: true,
         isEmailVerified: true,
         emailVerifiedAt: new Date(),
       },
+      select: PUBLIC_USER_SELECT,
     });
   }
 
@@ -47,6 +60,7 @@ export class AuthRepository {
         email: data.email,
         password: hashedPassword,
       },
+      select: PUBLIC_USER_SELECT,
     });
   }
 
