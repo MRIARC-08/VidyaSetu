@@ -3,6 +3,7 @@ import type {
   Prisma,
   UserStats as PrismaUserStats,
 } from '@/generated/prisma/client';
+import { calculateAccuracy, calculateWeightedAccuracy } from '@/lib/score-calculator';
 import AnalyticsRepository from './analytics.repository';
 import type { StreakData, ActivityDay, UserStats } from './analytics.types';
 import type { WeakTopicsResponse } from './analytics.types';
@@ -22,11 +23,7 @@ export default class AnalyticsService {
     // Derived overall accuracy from totalCorrect / totalQuestions with guard
     const accuracy =
       userStats && userStats.totalQuestions > 0
-        ? Number(
-            ((userStats.totalCorrect / userStats.totalQuestions) * 100).toFixed(
-              2
-            )
-          )
+        ? calculateAccuracy(userStats.totalCorrect, userStats.totalQuestions)
         : 0;
 
     const currentStreak = userStats?.currentStreak ?? 0;
@@ -310,7 +307,7 @@ export default class AnalyticsService {
       .map((t) => ({
         topicName: t.topicName,
         topicId: t.topicId,
-        accuracy: Math.round((t.correctAnswers / t.attempts) * 1000) / 10,
+        accuracy: calculateWeightedAccuracy(t.correctAnswers, t.attempts),
         attempts: t.attempts,
         correctAnswers: Math.round(t.correctAnswers),
       }))
