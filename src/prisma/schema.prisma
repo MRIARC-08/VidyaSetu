@@ -231,21 +231,32 @@ model AIGenerationLog {
 }
 
 model Note {
-  id                 String    @id @default(uuid())
+  id                 String             @id @default(uuid())
   userId             String
   title              String
   content            String?
   fileUrl            String?
   cloudinaryPublicId String?
   extractedText      String?
-  version            Int       @default(1)
-  createdAt          DateTime  @default(now())
-  updatedAt          DateTime  @updatedAt
+  version            Int                @default(1)
+  isAIGenerated      Boolean            @default(false)
+  validationStatus   ValidationStatus   @default(PENDING)
+  safetyFlags        String?
+  createdAt          DateTime           @default(now())
+  updatedAt          DateTime           @updatedAt
   deletedAt          DateTime?
-  user               User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  user               User               @relation(fields: [userId], references: [id], onDelete: Cascade)
   quizzes            Quiz[]
 
   @@index([userId])
+  @@index([isAIGenerated])
+}
+
+enum ValidationStatus {
+  PENDING
+  VALIDATED
+  REJECTED
+  REQUIRES_REVIEW
 }
 
 model UserStats {

@@ -7,6 +7,7 @@ import { PDFParse } from 'pdf-parse';
 import { createWorker } from 'tesseract.js';
 
 import cloudinary from '@/lib/cloudinary';
+import { generateStudyNotes } from '@/lib/content-validator';
 import { NotesRepository } from './notes.repository';
 import { NotesApiError } from './notes.types';
 import type { UploadResult } from './notes.types';
@@ -142,5 +143,65 @@ export class NotesServices {
     }
 
     return { message: 'Note deleted successfully' };
+  }
+
+  static async generateAINote(
+    userId: string,
+    title: string,
+    chapter: string,
+    topic: string,
+    sourceContent: string
+  ) {
+    const user = await NotesRepository.findUserById(userId);
+    if (!user) {
+      throw new NotesApiError('User not found', 404);
+    }
+
+    try {
+      const { content, validationResult } = await generateStudyNotes(
+        chapter,
+        topic,
+        sourceContent
+      );
+
+      const validationStatus = validationResult.isValid
+        ? 'VALIDATED'
+        : validationResult.safetyFlags.length > 0 ||
+          validationResult.factualityIssues.length > 0
+          ? 'REQUIRES_REVIEW'
+          : 'VALIDATED';
+
+      const safetyFlags =
+        validationResult.safetyFlags.length > 0 ||
+        validationResult.factualityIssues.length > 0
+          ? JSON.stringify({
+              safetyFlags: validationResult.safetyFlags,
+              factualityIssues: validationResult.factualityIssues,
+              recommendations: validationResult.recommendations,
+            })
+          : null;
+
+      const note = await NotesRepository.createNote({
+        userId,
+        title,
+        content,
+        fileUrl: null,
+        cloudinaryPublicId: null,
+        extractedText: null,
+        isAIGenerated: true,
+        validationStatus,
+        safetyFlags,
+      });
+
+      return {
+        ...note,
+        validationDetails: validationResult,
+      };
+    } catch (error) {
+      throw new NotesApiError(
+        `Failed to generate AI notes: ${error instanceof Error ? error.message : 'Unknown error'}`,
+        500
+      );
+    }
   }
 }
