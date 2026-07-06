@@ -124,6 +124,8 @@ export class QuizRepository {
             id: true,
             mode: true,
             source: true,
+            chapterId: true,
+            topicId: true,
           },
         },
         responses: {
@@ -154,6 +156,27 @@ export class QuizRepository {
     return prisma.question.findMany({
       where: { id: { in: questionIds } },
       select: { id: true },
+    });
+  }
+
+  static findFullQuestionsByIds(questionIds: string[]) {
+    return prisma.question.findMany({
+      where: { id: { in: questionIds } },
+      select: {
+        id: true,
+        topicId: true,
+        type: true,
+        difficulty: true,
+        questionText: true,
+        explanation: true,
+        options: {
+          select: {
+            id: true,
+            label: true,
+            value: true,
+          },
+        },
+      },
     });
   }
 

@@ -66,3 +66,72 @@ export type ChapterInfo = {
   title: string;
   order: number;
 };
+
+/** Returned by POST /api/quiz/start — the newly created session row */
+export type StartQuizSessionResponse = {
+  id: string;
+  quizId: string;
+  userId: string;
+  totalQuestions: number;
+  correctCount: number;
+  accuracy: number;
+  timeTaken: number;
+  startedAt: string;
+  completedAt: string | null;
+  questions?: QuizQuestion[];
+};
+
+/** Returned by GET /api/quiz/session */
+export type QuizSessionData = {
+  session: {
+    id: string;
+    quizId: string;
+    totalQuestions: number;
+    correctCount: number;
+    accuracy: number;
+    timeTaken: number;
+    startedAt: string;
+    completedAt: string | null;
+    quiz: { id: string; mode: string; source: string };
+  };
+  responses: Array<{
+    id: string;
+    questionId: string;
+    selectedOptionId: string | null;
+    subjectiveAnswer: string | null;
+    isCorrect: boolean | null;
+    score: number | null;
+    timeTaken: number;
+    question: {
+      id: string;
+      type: string;
+      difficulty: string;
+      questionText: string;
+      explanation: string | null;
+      options: SanitizedOption[];
+    };
+  }>;
+  questions?: QuizQuestion[];
+};
+
+/** Returned by POST /api/quiz/submit */
+export type SubmitQuizResponse = {
+  session: {
+    id: string;
+    quizId: string;
+    userId: string;
+    totalQuestions: number;
+    correctCount: number;
+    accuracy: number;
+    timeTaken: number;
+    startedAt: string;
+    completedAt: string | null;
+  };
+  summary: {
+    totalQuestions: number;
+    attemptedQuestions: number;
+    correctCount: number;
+    accuracy: number;
+    timeTaken: number;
+  };
+};
