@@ -8,13 +8,16 @@
     "start": "next start",
     "lint": "eslint",
     "test": "vitest run",
+    "test:contract": "vitest run src/__tests__/contract.test.ts",
     "test:watch": "vitest",
     "db:generate": "prisma generate",
     "db:migrate": "prisma migrate dev",
     "db:seed": "prisma db seed",
     "db:seed:content": "tsx src/prisma/seed-content.ts",
     "db:seed:all": "pnpm db:seed && pnpm db:seed:content",
-    "db:studio": "prisma studio"
+    "db:studio": "prisma studio",
+    "contract:export": "cd services/ai && python scripts/export-openapi.py",
+    "contract:update-golden": "pnpm contract:export && cp services/ai/openapi.json services/ai/openapi.golden.json"
   },
   "dependencies": {
     "@faker-js/faker": "^10.3.0",
@@ -68,7 +71,7 @@
     "typescript": "^5",
     "vitest": "^4.1.8"
   },
-  "overrides": {
+  "pnpm.overrides": {
     "@hono/node-server@<1.19.13": "1.19.13",
     "brace-expansion@<1.1.13": "1.1.13",
     "brace-expansion@>=4.0.0 <5.0.6": "5.0.6",

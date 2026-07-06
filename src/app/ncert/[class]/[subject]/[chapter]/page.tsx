@@ -5,7 +5,10 @@ import ChapterContent, {
 } from '@/components/ChapterContent';
 import ReadingProgressBar from '@/components/ReadingProgressBar';
 import { ChapterPageSkeleton } from '@/components/Skeletons';
-import { saveReadingProgress } from '@/components/ResumeCard';
+import {
+  saveReadingProgress,
+  getReadingProgress,
+} from '@/components/ResumeCard';
 import authFetch from '@/lib/auth/authFetch';
 import { useParams } from 'next/navigation';
 import { useCallback, useEffect, useState, useRef } from 'react';
@@ -29,6 +32,10 @@ export default function NcertChapterPage() {
   const scrollProgress = useRef(0);
 
   const fetchData = useCallback(async () => {
+    // FIX 1: Reset scrollProgress ref on every chapter navigation
+    // so previous chapter's progress threshold doesn't carry over
+    scrollProgress.current = 0;
+
     setIsLoading(true);
     setError(null);
     try {
@@ -58,12 +65,24 @@ export default function NcertChapterPage() {
         setChapters(chaptersRes.message.chapters);
       }
 
+      // FIX 2: Don't overwrite existing progress with 0.
+      // Check if we already have saved progress for this chapter URL.
+      // Only save if there's no existing entry, or preserve the existing progressPercent.
+      const progressUrl = `/ncert/${params.class}/${params.subject}/${params.chapter}`;
+      const existing = getReadingProgress();
+      const existingPercent =
+        existing?.chapterUrl === progressUrl ? existing.progressPercent : 0;
+
       saveReadingProgress({
         chapterName: chapterData.title,
-        chapterUrl: `/ncert/${params.class}/${params.subject}/${params.chapter}`,
+        chapterUrl: progressUrl,
         className: params.class,
-        progressPercent: 0,
+        progressPercent: existingPercent,
       });
+
+      // Also sync the in-memory ref so the scroll handler doesn't
+      // save a lower value over the restored one
+      scrollProgress.current = existingPercent;
     } catch {
       setChapter(null);
       setError('Unable to load this chapter. Please try again later.');

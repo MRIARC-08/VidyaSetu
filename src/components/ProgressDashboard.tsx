@@ -7,6 +7,7 @@ import { ProgressChart } from '@/components/ProgressChart';
 import type { DataPoint } from '@/components/ProgressChart';
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card';
 import { cn } from '@/lib/utils';
+import authFetch from '@/lib/auth/authFetch';
 
 interface SubjectProgress {
   subject: string;
@@ -43,32 +44,33 @@ function ProgressDashboard({
   React.useEffect(() => {
     async function fetchAnalytics() {
       try {
-        const res = await fetch('/api/analytics/overview', {
-          credentials: 'include',
+        const json = await authFetch({
+          url: '/api/analytics/overview',
+          options: {
+            method: 'GET',
+          },
         });
-        if (res.ok) {
-          const json = await res.json();
-          if (json.success && json.data) {
-            setData({
-              overallPercentage: json.data.accuracy ?? 0,
-              totalQuizzes: json.data.totalAttempts ?? 0,
-              totalTimeSpent: (json.data.totalAttempts ?? 0) * 15, // estimated 15 mins per quiz
-              streakDays: json.data.currentStreak ?? 0,
-              subjects: [],
-              accuracyTrend: [],
-              studyTimeByDay: json.data.dailyActivity
-                ? json.data.dailyActivity.map(
-                    (d: { day: string; date: string; active: boolean }) => ({
-                      label: d.day,
-                      value: d.active ? 15 : 0,
-                      color: d.active ? '#f59e0b' : '#e5e7eb',
-                    })
-                  )
-                : [],
-              achievements: [],
-              recentChapters: [],
-            });
-          }
+
+        if (json.success && json.data) {
+          setData({
+            overallPercentage: json.data.accuracy ?? 0,
+            totalQuizzes: json.data.totalAttempts ?? 0,
+            totalTimeSpent: (json.data.totalAttempts ?? 0) * 15,
+            streakDays: json.data.currentStreak ?? 0,
+            subjects: [],
+            accuracyTrend: [],
+            studyTimeByDay: json.data.dailyActivity
+              ? json.data.dailyActivity.map(
+                  (d: { day: string; date: string; active: boolean }) => ({
+                    label: d.day,
+                    value: d.active ? 15 : 0,
+                    color: d.active ? '#f59e0b' : '#e5e7eb',
+                  })
+                )
+              : [],
+            achievements: [],
+            recentChapters: [],
+          });
         }
       } catch {
         // Fail silently

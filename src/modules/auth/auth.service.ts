@@ -17,6 +17,26 @@ const INVALID_CREDENTIALS_MESSAGE = 'Invalid email or password';
 const INVALID_REFRESH_TOKEN_MESSAGE = 'Invalid or expired refresh token';
 const GOOGLE_AUTH_USER_MESSAGE = 'Unable to create or load Google user';
 
+function toPublicUser(user: {
+  id: string;
+  email: string;
+  name: string | null;
+  role: unknown;
+  firstTime: boolean;
+  createdAt?: Date;
+  updatedAt?: Date;
+}) {
+  return {
+    id: user.id,
+    email: user.email,
+    name: user.name,
+    role: user.role,
+    firstTime: user.firstTime,
+    createdAt: user.createdAt,
+    updatedAt: user.updatedAt,
+  };
+}
+
 export class AuthServices {
   static async handleGoogleService(data: {
     image: string | null;
@@ -24,7 +44,10 @@ export class AuthServices {
     email: string;
     providerAccountId: string;
   }) {
-    let user = await AuthRepository.findUserByEmail(data.email);
+    let user:
+    | Awaited<ReturnType<typeof AuthRepository.findUserByEmail>>
+    | Awaited<ReturnType<typeof AuthRepository.createUser>> =
+    await AuthRepository.findUserByEmail(data.email);
 
     if (!user) {
       user = await AuthRepository.createUser({
@@ -46,13 +69,13 @@ export class AuthServices {
     const accessToken = jwtService.generateAccessToken({
       id: user.id,
       role: user.role,
-      isProfileCompleted: false,
+      isProfileCompleted: user.firstTime,
     });
 
     const refreshToken = await AuthRepository.createRefreshToken(user.id);
 
     return {
-      user,
+      user: toPublicUser(user),
       accessToken,
       refreshToken,
     };
@@ -89,7 +112,7 @@ export class AuthServices {
     const refreshToken = await AuthRepository.createRefreshToken(user.id);
 
     return {
-      user,
+      user: toPublicUser(user),
       accessToken,
       refreshToken,
     };
@@ -97,7 +120,7 @@ export class AuthServices {
 
   static async handleLoginUser(data: { email: string; password: string }) {
     const user = await AuthRepository.findUserByEmail(data.email);
-  
+
     if (!user || !user.password) {
       throw new AuthServiceError(INVALID_CREDENTIALS_MESSAGE, 401);
     }
@@ -117,7 +140,7 @@ export class AuthServices {
     const refreshToken = await AuthRepository.createRefreshToken(user.id);
 
     return {
-      user,
+      user: toPublicUser(user),
       accessToken,
       refreshToken,
     };

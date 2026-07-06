@@ -60,3 +60,9 @@ next-env.d.ts
 
 #md
 PROJECT_STATUS.md
+
+# Generated OpenAPI spec (regenerated on every CI run; commit the golden copy)
+services/ai/openapi.json
+
+# vitest
+src/__tests__/__snapshots__/

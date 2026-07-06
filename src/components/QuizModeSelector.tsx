@@ -12,17 +12,24 @@ interface QuizModeSelectorProps {
   className?: string;
 }
 
-const MODES: { value: QuizMode; label: string; description: string; icon: React.ReactNode }[] = [
+const MODES: {
+  value: QuizMode;
+  label: string;
+  description: string;
+  icon: React.ReactNode;
+}[] = [
   {
     value: 'PRACTICE',
     label: 'Practice',
-    description: 'Learn at your own pace with instant feedback on each question',
+    description:
+      'Learn at your own pace with instant feedback on each question',
     icon: <BookOpen className="size-5" />,
   },
   {
     value: 'TEST',
     label: 'Test',
-    description: 'Timed assessment with scoring and detailed results at the end',
+    description:
+      'Timed assessment with scoring and detailed results at the end',
     icon: <Swords className="size-5" />,
   },
   {
@@ -33,7 +40,11 @@ const MODES: { value: QuizMode; label: string; description: string; icon: React.
   },
 ];
 
-function QuizModeSelector({ value, onChange, className }: QuizModeSelectorProps) {
+function QuizModeSelector({
+  value,
+  onChange,
+  className,
+}: QuizModeSelectorProps) {
   return (
     <div className={cn('grid gap-3 sm:grid-cols-3', className)}>
       {MODES.map((mode) => {
@@ -54,7 +65,9 @@ function QuizModeSelector({ value, onChange, className }: QuizModeSelectorProps)
             <div
               className={cn(
                 'flex size-9 items-center justify-center rounded-lg',
-                isSelected ? 'bg-primary text-primary-foreground' : 'bg-muted text-muted-foreground'
+                isSelected
+                  ? 'bg-primary text-primary-foreground'
+                  : 'bg-muted text-muted-foreground'
               )}
             >
               {mode.icon}
