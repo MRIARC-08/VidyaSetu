@@ -13,8 +13,12 @@ import {
   ArrowLeft,
   BarChart3,
   XCircle,
+  Medal,
+  Trophy,
+  User,
 } from 'lucide-react';
 import type { QuizSessionData } from '@/modules/quiz/quiz.types';
+import { fetchLeaderboard, type LeaderboardEntry } from '@/lib/leaderboard';
 import { cn } from '@/lib/utils';
 
 export default function QuizResultPage({
@@ -30,6 +34,8 @@ export default function QuizResultPage({
   const [error, setError] = React.useState<string | null>(null);
   const [sessionData, setSessionData] =
     React.useState<QuizSessionData | null>(null);
+  const [leaderboard, setLeaderboard] = React.useState<LeaderboardEntry[]>([]);
+  const [leaderboardLoaded, setLeaderboardLoaded] = React.useState(false);
   React.useEffect(() => {
     let cancelled = false;
 
@@ -43,6 +49,16 @@ export default function QuizResultPage({
         }
         const data = await fetchQuizSession(storedSessionId);
         if (!cancelled) setSessionData(data);
+
+        try {
+          const lb = await fetchLeaderboard();
+          if (!cancelled) {
+            setLeaderboard(lb);
+            setLeaderboardLoaded(true);
+          }
+        } catch {
+          if (!cancelled) setLeaderboardLoaded(true);
+        }
       } catch (err) {
         if (!cancelled)
           setError(
@@ -240,6 +256,47 @@ export default function QuizResultPage({
         </Button>
       </div>
 
+      {leaderboardLoaded && leaderboard.length > 0 && (
+        <div className="mx-auto mt-12 w-full max-w-2xl border-t pt-10">
+          <div className="mb-6 flex items-center gap-2">
+            <Trophy className="size-5 text-yellow-600" />
+            <h2 className="text-lg font-bold tracking-tight">Leaderboard</h2>
+          </div>
+          <div className="divide-y rounded-lg border">
+            {leaderboard.map((entry) => (
+              <div
+                key={entry.userId}
+                className="flex items-center gap-3 px-4 py-3"
+              >
+                <span className="flex size-8 shrink-0 items-center justify-center rounded-full bg-muted text-xs font-bold">
+                  {entry.rank <= 3 ? (
+                    <Medal
+                      className={`size-4 ${
+                        entry.rank === 1
+                          ? 'text-yellow-500'
+                          : entry.rank === 2
+                            ? 'text-gray-400'
+                            : 'text-amber-700'
+                      }`}
+                    />
+                  ) : (
+                    `#${entry.rank}`
+                  )}
+                </span>
+                <div className="flex size-8 items-center justify-center overflow-hidden rounded-full bg-muted">
+                  <User className="size-4 text-muted-foreground" />
+                </div>
+                <span className="flex-1 text-sm font-medium">
+                  {entry.name}
+                </span>
+                <span className="text-sm font-bold tabular-nums">
+                  {entry.score}%
+                </span>
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
     </div>
   );
 }
