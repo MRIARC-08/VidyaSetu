@@ -142,6 +142,7 @@ export class QuizRepository {
                     id: true,
                     label: true,
                     value: true,
+                    isCorrect: true,
                   },
                 },
               },
