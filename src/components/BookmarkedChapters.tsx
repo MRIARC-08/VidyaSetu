@@ -98,18 +98,23 @@ export default function BookmarkedChapters() {
           const href = `/ncert/${classLevel}/${subjectId}/${chapterId}`;
 
           return (
-            <Link
+            <div
               key={item.id}
-              href={href}
               className="group relative flex flex-col justify-between bg-white border border-primary/10 p-5 shadow-xs hover:shadow-md transition-all duration-300 hover:border-primary/20"
             >
               <div className="flex flex-col gap-1.5 pr-8">
                 <span className="text-[10px] font-bold text-primary/50 uppercase tracking-wider">
                   Class {classLevel} • {item.chapter.subject.name}
                 </span>
-                <h3 className="font-bold text-primary line-clamp-2 leading-snug group-hover:text-primary/80 transition-colors">
+                
+                {/* We moved the Link here! The absolute span makes the entire card clickable without nesting the button */}
+                <Link
+                  href={href}
+                  className="font-bold text-primary line-clamp-2 leading-snug group-hover:text-primary/80 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary rounded-sm"
+                >
+                  <span className="absolute inset-0" aria-hidden="true"></span>
                   Chapter {item.chapter.order}: {item.chapter.title}
-                </h3>
+                </Link>
               </div>
 
               <div className="mt-6 flex items-center justify-between">
@@ -118,15 +123,17 @@ export default function BookmarkedChapters() {
                   Read Chapter
                 </span>
 
+                {/* relative and z-10 keep the button above the link overlay so it is clickable */}
                 <button
                   onClick={(e) => handleRemove(item.id, e)}
-                  className="p-1.5 rounded-full cursor-pointer hover:bg-red-50 text-primary/40 hover:text-red-500 transition-colors duration-200"
+                  aria-label={`Remove bookmark for Chapter ${item.chapter.order}`}
+                  className="relative z-10 p-1.5 rounded-full cursor-pointer hover:bg-red-50 text-primary/40 hover:text-red-500 transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-red-500"
                   title="Remove bookmark"
                 >
                   <Trash2 className="h-4 w-4" />
                 </button>
               </div>
-            </Link>
+            </div>
           );
         })}
       </div>
