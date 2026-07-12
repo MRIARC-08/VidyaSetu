@@ -4,11 +4,12 @@ import { CredentialsController } from '@/modules/credentials';
 
 export async function DELETE(
   _req: Request,
-  { params }: { params: { id: string } }
+  { params }: { params: Promise<{ id: string }> }
 ) {
   try {
+    const { id } = await params;
     const auth = await authenticate();
-    return CredentialsController.revoke(params.id, auth);
+    return CredentialsController.revoke(id, auth);
   } catch {
     return NextResponse.json({ success: false, message: 'Unauthorized' }, { status: 401 });
   }

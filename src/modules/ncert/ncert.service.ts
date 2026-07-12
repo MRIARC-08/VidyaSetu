@@ -13,7 +13,12 @@ export class NcertServices {
     return await NcertRepository.getSubjects(academicClass.id);
   }
 
-  static async getChapters(subjectId: string, classId: string) {
+  static async getChapters(
+    subjectId: string,
+    classId: string,
+    page: number = 1,
+    limit: number = 20
+  ) {
     const academicClass = await NcertRepository.getAcadmicClass(
       Number(classId)
     );
@@ -22,16 +27,18 @@ export class NcertServices {
       throw new Error('no academicClass');
     }
 
-    const subject = await NcertRepository.getChapters(
+    const result = await NcertRepository.getChapters(
       subjectId,
-      academicClass.id
+      academicClass.id,
+      page,
+      limit
     );
 
-    if (!subject) {
+    if (!result.subject) {
       throw new Error('subject not found');
     }
 
-    return subject;
+    return result;
   }
 
   static async getChapter(

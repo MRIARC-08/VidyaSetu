@@ -25,11 +25,13 @@ export default function NcertChapterPage() {
     chapter: string;
   }>();
   const [chapter, setChapter] = useState<ChapterProps | null>(null);
+  const [chapters, setChapters] = useState<ChapterProps[]>([]);
+  const [subjectName, setSubjectName] = useState<string>('');
   const [error, setError] = useState<string | null>(null);
   const [isLoading, setIsLoading] = useState(true);
   const scrollProgress = useRef(0);
 
-  const getChapter = useCallback(async () => {
+  const fetchData = useCallback(async () => {
     // FIX 1: Reset scrollProgress ref on every chapter navigation
     // so previous chapter's progress threshold doesn't carry over
     scrollProgress.current = 0;
@@ -37,38 +39,43 @@ export default function NcertChapterPage() {
     setIsLoading(true);
     setError(null);
     try {
-      const url = `/api/ncert/chapter?chapter=${params.chapter}`;
+      const chapterUrl = `/api/ncert/chapter?class=${params.class}&subject=${params.subject}&chapter=${params.chapter}`;
+      const chaptersUrl = `/api/ncert/chapters?class=${params.class}&subject=${params.subject}`;
 
-      const res = await authFetch({
-        url,
-        options: {
-          method: 'GET',
-        },
-      });
+      const [chapterRes, chaptersRes] = await Promise.all([
+        authFetch({ url: chapterUrl, options: { method: 'GET' } }),
+        authFetch({ url: chaptersUrl, options: { method: 'GET' } }),
+      ]);
 
-      if (res.status !== 200 || !res.message) {
+      if (chapterRes.status !== 200 || !chapterRes.message) {
         setChapter(null);
         setError(
-          typeof res.message === 'string'
-            ? res.message
+          typeof chapterRes.message === 'string'
+            ? chapterRes.message
             : 'The chapter API did not return content for this request.'
         );
         return;
       }
-      const chapterData = res.message as ChapterProps;
+
+      const chapterData = chapterRes.message as ChapterProps;
       setChapter(chapterData);
+
+      if (chaptersRes.status === 200 && chaptersRes.message) {
+        setSubjectName(chaptersRes.message.name);
+        setChapters(chaptersRes.message.chapters);
+      }
 
       // FIX 2: Don't overwrite existing progress with 0.
       // Check if we already have saved progress for this chapter URL.
       // Only save if there's no existing entry, or preserve the existing progressPercent.
-      const chapterUrl = `/ncert/${params.class}/${params.subject}/${params.chapter}`;
+      const progressUrl = `/ncert/${params.class}/${params.subject}/${params.chapter}`;
       const existing = getReadingProgress();
       const existingPercent =
-        existing?.chapterUrl === chapterUrl ? existing.progressPercent : 0;
+        existing?.chapterUrl === progressUrl ? existing.progressPercent : 0;
 
       saveReadingProgress({
         chapterName: chapterData.title,
-        chapterUrl,
+        chapterUrl: progressUrl,
         className: params.class,
         progressPercent: existingPercent,
       });
@@ -85,8 +92,8 @@ export default function NcertChapterPage() {
   }, [params.chapter, params.class, params.subject]);
 
   useEffect(() => {
-    getChapter();
-  }, [getChapter]);
+    fetchData();
+  }, [fetchData]);
 
   useEffect(() => {
     if (isLoading) return;
@@ -122,7 +129,12 @@ export default function NcertChapterPage() {
       {isLoading ? (
         <ChapterPageSkeleton />
       ) : (
-        <ChapterContent chapter={chapter} error={error} />
+        <ChapterContent
+          chapter={chapter}
+          chapters={chapters}
+          subjectName={subjectName}
+          error={error}
+        />
       )}
     </>
   );

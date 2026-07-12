@@ -20,16 +20,47 @@ export class NcertRepository {
     });
   }
 
-  static async getChapters(subjectId: string, classId: string) {
-    return await prisma.subject.findFirst({
-      where: {
-        id: subjectId,
-        academicClassId: classId,
+  static async getChapters(
+    subjectId: string,
+    classId: string,
+    page: number = 1,
+    limit: number = 20
+  ) {
+    const offset = (page - 1) * limit;
+
+    const [subject, totalCount] = await Promise.all([
+      prisma.subject.findFirst({
+        where: {
+          id: subjectId,
+          academicClassId: classId,
+        },
+        include: {
+          chapters: {
+            orderBy: { order: 'asc' },
+            skip: offset,
+            take: limit,
+          },
+        },
+      }),
+      prisma.chapter.count({
+        where: {
+          subjectId,
+          subject: {
+            academicClassId: classId,
+          },
+        },
+      }),
+    ]);
+
+    return {
+      subject,
+      pagination: {
+        page,
+        limit,
+        total: totalCount,
+        totalPages: Math.ceil(totalCount / limit),
       },
-      include: {
-        chapters: true,
-      },
-    });
+    };
   }
 
   static async getChapter(

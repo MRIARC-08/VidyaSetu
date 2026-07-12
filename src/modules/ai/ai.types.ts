@@ -28,3 +28,30 @@ export class AdaptiveLearningError extends Error {
     this.statusCode = statusCode;
   }
 }
+export type LogStatus = 'success' | 'error' | 'partial';
+
+export interface StageLatency {
+  retrieval?: number;
+  embedding?: number;
+  generation?: number;
+  total?: number;
+}
+
+export interface CreateGenerationLogInput {
+  userId: string;
+  quizId?: string;
+  runId?: string;
+  workflow?: string;
+  promptVersion?: string;
+  provider?: string;
+  modelUsed: string;
+  embeddingModel?: string;
+  promptTokens?: number;
+  completionTokens?: number;
+  costEstimate?: number;
+  retrievedChunkIds?: string[];
+  stageLatencyMs?: StageLatency;
+  retryCount?: number;
+  errorCode?: string;
+  status: LogStatus;
+}
