@@ -59,6 +59,16 @@ export class AdminServices {
     return { questions, total, page, limit: safeLimit };
   }
 
+  static async getChapter(id: string) {
+    const chapter = await AdminRepository.getChapterById(id);
+
+    if (!chapter) {
+      throw new AdminApiError('Chapter not found', 404);
+    }
+
+    return chapter;
+  }
+
   static async deleteQuestion(id: string) {
     const existing = await AdminRepository.getQuestionById(id);
     if (!existing) {

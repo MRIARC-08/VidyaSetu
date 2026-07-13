@@ -23,19 +23,19 @@ Start writing your chapter content here...
   useEffect(() => {
     async function fetchChapter() {
       try {
-        const res = await fetch(`/api/ncert/chapter?chapterId=${chapterId}`);
+        const res = await fetch(`/api/admin/chapters/${chapterId}`);
         const data = await res.json();
         console.log(data);
-        if (data.message) {
+        if (data.data) {
           const savedDraft = localStorage.getItem(DRAFT_KEY);
 
-          const restoredContent = savedDraft ?? data.message.content ?? '';
+          const restoredContent = savedDraft ?? data.data.content ?? '';
 
           setContent(restoredContent);
-          setOriginalContent(data.message.content ?? '');
+          setOriginalContent(data.data.content ?? '');
 
           setContentSource(
-            savedDraft ? 'Draft' : data.message.contentSource || 'Database'
+            savedDraft ? 'Draft' : data.data.contentSource || 'Database'
           );
         }
       } catch (err) {
