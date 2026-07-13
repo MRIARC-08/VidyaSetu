@@ -224,7 +224,7 @@ export default function QuizResultPage({
               </div>
               <div className="p-6">
                 <QuizQuestion
-                  question={response.question}
+                  question={response.question as any}
                   selectedOptionId={response.selectedOptionId || undefined}
                   onSelectOption={() => {}}
                   reviewMode

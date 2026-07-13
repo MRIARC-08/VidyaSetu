@@ -32,6 +32,12 @@ model User {
   stats            UserStats?
   bookmarks        Bookmark[]
   providerCredentials ProviderCredential[]
+  createdGroups    StudyGroup[]
+  groupMemberships GroupMember[]
+  tutorRequests    TutoringRequest[]     @relation("TutorRequests")
+  studentRequests  TutoringRequest[]     @relation("StudentRequests")
+  tutorSessions    TutoringSession[]     @relation("TutorSessions")
+  studentSessions  TutoringSession[]     @relation("StudentSessions")
   @@index([email])
 }
 
@@ -75,6 +81,8 @@ model Subject {
   name            String
   academicClassId String
   chapters        Chapter[]
+  studyGroups     StudyGroup[]
+  tutoringRequests TutoringRequest[]
   academicClass   AcademicClass @relation(fields: [academicClassId], references: [id], onDelete: Cascade)
 
   @@index([academicClassId])
@@ -295,6 +303,80 @@ model ProviderCredential {
   @@index([userId])
 }
 
+model StudyGroup {
+  id          String        @id @default(uuid())
+  name        String
+  description String?
+  subjectId   String?
+  subject     Subject?      @relation(fields: [subjectId], references: [id])
+  createdBy   String
+  creator     User          @relation(fields: [createdBy], references: [id], onDelete: Cascade)
+  createdAt   DateTime      @default(now())
+  updatedAt   DateTime      @updatedAt
+  members     GroupMember[]
+  tutoringSessions TutoringSession[] @relation("GroupSessions")
+
+  @@index([subjectId])
+  @@index([createdBy])
+}
+
+model GroupMember {
+  id        String         @id @default(uuid())
+  groupId   String
+  userId    String
+  role      GroupRole      @default(MEMBER)
+  joinedAt  DateTime       @default(now())
+  group     StudyGroup     @relation(fields: [groupId], references: [id], onDelete: Cascade)
+  user      User           @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([groupId, userId])
+  @@index([groupId])
+  @@index([userId])
+}
+
+model TutoringRequest {
+  id          String            @id @default(uuid())
+  tutorId     String
+  studentId   String
+  subjectId   String?
+  subject     Subject?          @relation(fields: [subjectId], references: [id])
+  status      TutoringStatus    @default(PENDING)
+  message     String?
+  createdAt   DateTime          @default(now())
+  updatedAt   DateTime          @updatedAt
+  tutor       User              @relation("TutorRequests", fields: [tutorId], references: [id], onDelete: Cascade)
+  student     User              @relation("StudentRequests", fields: [studentId], references: [id], onDelete: Cascade)
+  sessions    TutoringSession[]
+
+  @@index([tutorId])
+  @@index([studentId])
+  @@index([status])
+}
+
+model TutoringSession {
+  id              String         @id @default(uuid())
+  groupId         String?
+  requestId       String?
+  tutorId         String
+  studentId       String
+  scheduledAt     DateTime
+  duration        Int            @default(60)
+  status          SessionStatus  @default(SCHEDULED)
+  notes           String?
+  rating          Int?
+  completedAt     DateTime?
+  createdAt       DateTime       @default(now())
+  updatedAt       DateTime       @updatedAt
+  group           StudyGroup?    @relation("GroupSessions", fields: [groupId], references: [id])
+  request         TutoringRequest? @relation(fields: [requestId], references: [id])
+  tutor           User           @relation("TutorSessions", fields: [tutorId], references: [id], onDelete: Cascade)
+  student         User           @relation("StudentSessions", fields: [studentId], references: [id], onDelete: Cascade)
+
+  @@index([tutorId])
+  @@index([studentId])
+  @@index([status])
+  @@index([groupId])
+}
 
 enum UserRole {
   STUDENT
@@ -335,4 +417,24 @@ enum EvaluationStatus {
   PENDING
   COMPLETED
   FAILED
+}
+
+enum GroupRole {
+  OWNER
+  MODERATOR
+  MEMBER
+}
+
+enum TutoringStatus {
+  PENDING
+  ACCEPTED
+  COMPLETED
+  CANCELLED
+}
+
+enum SessionStatus {
+  SCHEDULED
+  IN_PROGRESS
+  COMPLETED
+  CANCELLED
 }
