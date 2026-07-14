@@ -15,6 +15,9 @@ export class NotesRepository {
     fileUrl: string | null;
     cloudinaryPublicId: string | null;
     extractedText: string | null;
+    isAIGenerated?: boolean;
+    validationStatus?: string;
+    safetyFlags?: string | null;
   }) {
     return prisma.note.create({
       data,
@@ -25,6 +28,9 @@ export class NotesRepository {
         fileUrl: true,
         cloudinaryPublicId: true,
         extractedText: true,
+        isAIGenerated: true,
+        validationStatus: true,
+        safetyFlags: true,
         createdAt: true,
       },
     });
@@ -40,6 +46,9 @@ export class NotesRepository {
         fileUrl: true,
         cloudinaryPublicId: true,
         extractedText: true,
+        isAIGenerated: true,
+        validationStatus: true,
+        safetyFlags: true,
         createdAt: true,
         updatedAt: true,
       },
@@ -57,6 +66,9 @@ export class NotesRepository {
         fileUrl: true,
         cloudinaryPublicId: true,
         extractedText: true,
+        isAIGenerated: true,
+        validationStatus: true,
+        safetyFlags: true,
         createdAt: true,
         updatedAt: true,
       },

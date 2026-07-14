@@ -1,10 +1,13 @@
 from fastapi import APIRouter, Depends
 
 from vidyasetu_ai.api.routes.ai import router as ai_router
+from vidyasetu_ai.api.routes.notes import router as notes_router
 from vidyasetu_ai.core.security import require_internal_api_key
 from vidyasetu_ai.schemas.health import HealthResponse
 
 api_router = APIRouter()
+
+api_router.include_router(notes_router)
 
 
 @api_router.get(
@@ -18,4 +21,3 @@ def internal_ping() -> HealthResponse:
 
 
 api_router.include_router(ai_router)
-
