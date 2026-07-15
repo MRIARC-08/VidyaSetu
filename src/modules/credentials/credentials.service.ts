@@ -1,6 +1,9 @@
 import { prisma } from '@/lib/prisma';
 import { encryptCredential, decryptCredential } from '@/lib/crypto';
-import type { CreateCredentialInput, CredentialMetadata } from './credentials.types';
+import type {
+  CreateCredentialInput,
+  CredentialMetadata,
+} from './credentials.types';
 
 export class CredentialServiceError extends Error {
   constructor(
@@ -13,15 +16,21 @@ export class CredentialServiceError extends Error {
 }
 
 export class CredentialsService {
-  static async store(input: CreateCredentialInput): Promise<CredentialMetadata> {
+  static async store(
+    input: CreateCredentialInput
+  ): Promise<CredentialMetadata> {
     if (!input.apiKey || input.apiKey.length < 8) {
       throw new CredentialServiceError('API key is too short', 400);
     }
 
-    const { ciphertext, keyVersion, maskedSuffix } = encryptCredential(input.apiKey);
+    const { ciphertext, keyVersion, maskedSuffix } = encryptCredential(
+      input.apiKey
+    );
 
     const credential = await prisma.providerCredential.upsert({
-      where: { userId_provider: { userId: input.userId, provider: input.provider } },
+      where: {
+        userId_provider: { userId: input.userId, provider: input.provider },
+      },
       create: {
         userId: input.userId,
         provider: input.provider,
@@ -52,7 +61,9 @@ export class CredentialsService {
   }
 
   static async revoke(id: string, userId: string): Promise<void> {
-    const credential = await prisma.providerCredential.findUnique({ where: { id } });
+    const credential = await prisma.providerCredential.findUnique({
+      where: { id },
+    });
 
     if (!credential || credential.userId !== userId) {
       throw new CredentialServiceError('Credential not found', 404);
@@ -65,13 +76,19 @@ export class CredentialsService {
   }
 
   // SERVER-SIDE ONLY — never call from client code or pass result to queues
-  static async resolveForInternalUse(userId: string, provider: string): Promise<string> {
+  static async resolveForInternalUse(
+    userId: string,
+    provider: string
+  ): Promise<string> {
     const credential = await prisma.providerCredential.findUnique({
       where: { userId_provider: { userId, provider } },
     });
 
     if (!credential || credential.revokedAt) {
-      throw new CredentialServiceError('No active credential found for this provider', 404);
+      throw new CredentialServiceError(
+        'No active credential found for this provider',
+        404
+      );
     }
 
     return decryptCredential(credential.ciphertext);

@@ -119,10 +119,10 @@ function ActivityFeed({ className, ...props }: React.ComponentProps<'div'>) {
 
     async function fetchData() {
       try {
-        const res = await authFetch({
+        const res = (await authFetch({
           url: '/api/analytics/overview',
           options: { method: 'GET' },
-        }) as OverviewResponse;
+        })) as OverviewResponse;
 
         if (!cancelled && res.success) {
           setData(res.data);
@@ -135,7 +135,9 @@ function ActivityFeed({ className, ...props }: React.ComponentProps<'div'>) {
     }
 
     fetchData();
-    return () => { cancelled = true; };
+    return () => {
+      cancelled = true;
+    };
   }, []);
 
   const activities = data ? buildActivityFeed(data) : [];
@@ -174,12 +176,17 @@ function ActivityFeed({ className, ...props }: React.ComponentProps<'div'>) {
             <div className="absolute left-4 top-0 bottom-0 w-px bg-border" />
             <div className="flex flex-col gap-0">
               {activities.map((item) => (
-                <div key={item.id} className="relative flex items-start gap-4 pb-5 last:pb-0">
+                <div
+                  key={item.id}
+                  className="relative flex items-start gap-4 pb-5 last:pb-0"
+                >
                   <div className="relative z-10 flex size-8 shrink-0 items-center justify-center rounded-full bg-background ring-1 ring-border">
                     {item.icon}
                   </div>
                   <div className="flex min-w-0 flex-1 flex-col gap-0.5 pt-1">
-                    <p className="text-sm text-foreground">{item.description}</p>
+                    <p className="text-sm text-foreground">
+                      {item.description}
+                    </p>
                     <p className="text-xs text-muted-foreground">
                       {item.relativeTime}
                     </p>

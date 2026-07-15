@@ -12,6 +12,12 @@ const classIdSchema = idSchema.regex(/^\d+$/, {
   message: 'classId must be a numeric class level',
 });
 
+const paginationSchema = z
+  .string()
+  .trim()
+  .regex(/^\d+$/, { message: 'Must be a positive number' })
+  .optional();
+
 export const ncertQuerySchema = z.object({
   classId: classIdSchema.optional(),
   class: classIdSchema.optional(),
@@ -19,6 +25,8 @@ export const ncertQuerySchema = z.object({
   subject: idSchema.optional(),
   chapterId: idSchema.optional(),
   chapter: idSchema.optional(),
+  page: paginationSchema,
+  limit: paginationSchema,
 });
 
 type NcertQueryInput = z.infer<typeof ncertQuerySchema>;
@@ -33,6 +41,8 @@ export function parseNcertQuery(url: string): NcertQueryInput {
     subject: searchParams.get('subject') ?? undefined,
     chapterId: searchParams.get('chapterId') ?? undefined,
     chapter: searchParams.get('chapter') ?? undefined,
+    page: searchParams.get('page') ?? undefined,
+    limit: searchParams.get('limit') ?? undefined,
   });
 }
 

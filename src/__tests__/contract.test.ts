@@ -18,6 +18,7 @@ const __dirname = dirname(__filename);
 const OPENAPI_PATH = resolve(__dirname, '../../services/ai/openapi.json');
 const GOLDEN_PATH = resolve(__dirname, '../../services/ai/openapi.golden.json');
 
+/* eslint-disable @typescript-eslint/no-explicit-any -- OpenAPI spec is dynamic external JSON; loose typing is intentional here */
 interface OpenApiSpec {
   openapi: string;
   info: { title: string; version: string };
@@ -27,8 +28,9 @@ interface OpenApiSpec {
     securitySchemes?: Record<string, any>;
   };
   servers?: Array<{ url: string }>;
+  security?: any;
 }
-
+/* eslint-enable @typescript-eslint/no-explicit-any */
 function loadOpenApi(path: string): OpenApiSpec {
   if (!existsSync(path)) {
     throw new Error(
@@ -184,7 +186,8 @@ describe('OpenAPI Contract', () => {
   describe('authentication', () => {
     it('auth-required routes have security scheme', () => {
       if (!spec) return;
-      const authScheme = spec.components?.securitySchemes?.[SECURITY_SCHEME_NAME];
+      const authScheme =
+        spec.components?.securitySchemes?.[SECURITY_SCHEME_NAME];
       expect(authScheme).toBeDefined();
       expect(authScheme.type).toBe('apiKey');
       expect(authScheme.in).toBe('header');
@@ -195,6 +198,7 @@ describe('OpenAPI Contract', () => {
       it(`${ep.method.toUpperCase()} ${ep.path} requires API key`, () => {
         if (!spec) return;
         const op = spec.paths[ep.path][ep.method];
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any -- OpenAPI spec security field is dynamic JSON
         const sec = op.security ?? (spec as any).security;
         expect(sec).toBeDefined();
         const hasKey = sec?.some((s: Record<string, string[]>) =>
@@ -293,13 +297,15 @@ describe('Idempotency Headers', () => {
   it('write endpoints (POST/PUT/PATCH) declare idempotency headers', () => {
     if (!spec) return;
     const writeMethods = ['post', 'put', 'patch'];
-    for (const [path, pathItem] of Object.entries(spec.paths)) {
+    for (const [, pathItem] of Object.entries(spec.paths)) {
       for (const method of writeMethods) {
         const op = pathItem[method];
         if (!op) continue;
         const params = op.parameters ?? [];
         const headerNames = params
+          // eslint-disable-next-line @typescript-eslint/no-explicit-any -- OpenAPI parameter objects are dynamic JSON
           .filter((p: any) => p.in === 'header')
+          // eslint-disable-next-line @typescript-eslint/no-explicit-any -- OpenAPI parameter objects are dynamic JSON
           .map((p: any) => p.name);
         // At minimum, Content-Type should be declared
         expect(headerNames.length).toBeGreaterThanOrEqual(0);

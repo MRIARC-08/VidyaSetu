@@ -1,4 +1,5 @@
 import { prisma } from '@/lib/prisma';
+import { Prisma } from '@/generated/prisma/client';
 import type { CreateGenerationLogInput } from './ai.types';
 
 export class GenerationLogService {
@@ -21,7 +22,8 @@ export class GenerationLogService {
         completionTokens: input.completionTokens,
         costEstimate: input.costEstimate,
         retrievedChunkIds: input.retrievedChunkIds ?? [],
-        stageLatencyMs: input.stageLatencyMs ?? undefined,
+        stageLatencyMs:
+          (input.stageLatencyMs as Prisma.InputJsonValue) ?? undefined,
         retryCount: input.retryCount ?? 0,
         errorCode: input.errorCode,
         status: input.status,

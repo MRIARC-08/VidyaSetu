@@ -156,8 +156,8 @@ export default function Page() {
         <div className="flex pt-24 justify-around items-stretch">
           <div className="flex-1 flex flex-col gap-4">
             <p className="text-[48px] leading-14 font-extralight text-primary/70 ">
-              "The pursuit of knowledge is not a linear journey, but an
-              architectural endeavor of the mind."
+              &ldquo;The pursuit of knowledge is not a linear journey, but an
+              architectural endeavor of the mind.&rdquo;
             </p>
             <div>
               <p className="font-bold text-[14px]">DR. ALISTAIR VANCE</p>

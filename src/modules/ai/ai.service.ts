@@ -1,4 +1,8 @@
-import type { StudentProfile, AdaptiveLearningPath, DifficultyLevel } from './ai.types';
+import type {
+  StudentProfile,
+  AdaptiveLearningPath,
+  DifficultyLevel,
+} from './ai.types';
 
 const topicMap: Record<DifficultyLevel, string[]> = {
   beginner: ['Introduction', 'Basic Concepts', 'Guided Practice'],
@@ -17,7 +21,9 @@ function getDifficulty(avg: number): DifficultyLevel {
   return 'beginner';
 }
 
-export function getAdaptiveLearningPath(profile: StudentProfile): AdaptiveLearningPath {
+export function getAdaptiveLearningPath(
+  profile: StudentProfile
+): AdaptiveLearningPath {
   const avg = calculateAverage(profile.quizScores);
   const difficulty = getDifficulty(avg);
   const nextTopics = topicMap[difficulty].filter(

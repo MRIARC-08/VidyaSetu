@@ -167,7 +167,7 @@ export class NotesServices {
       const validationStatus = validationResult.isValid
         ? 'VALIDATED'
         : validationResult.safetyFlags.length > 0 ||
-          validationResult.factualityIssues.length > 0
+            validationResult.factualityIssues.length > 0
           ? 'REQUIRES_REVIEW'
           : 'VALIDATED';
 

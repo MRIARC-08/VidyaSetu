@@ -58,7 +58,14 @@ export function decryptCredential(ciphertext: string): string {
   const parts = Buffer.from(ciphertext, 'base64').toString('utf8').split(':');
   if (parts.length !== 6) throw new Error('Invalid ciphertext format');
 
-  const [keyIvHex, keyAuthTagHex, encryptedDataKeyHex, ivHex, authTagHex, encryptedHex] = parts;
+  const [
+    keyIvHex,
+    keyAuthTagHex,
+    encryptedDataKeyHex,
+    ivHex,
+    authTagHex,
+    encryptedHex,
+  ] = parts;
 
   const keyIv = Buffer.from(keyIvHex, 'hex');
   const keyAuthTag = Buffer.from(keyAuthTagHex, 'hex');
@@ -78,8 +85,7 @@ export function decryptCredential(ciphertext: string): string {
   const decipher = crypto.createDecipheriv(ALGORITHM, dataKey, iv);
   decipher.setAuthTag(authTag);
 
-  return Buffer.concat([
-    decipher.update(encrypted),
-    decipher.final(),
-  ]).toString('utf8');
+  return Buffer.concat([decipher.update(encrypted), decipher.final()]).toString(
+    'utf8'
+  );
 }

@@ -29,10 +29,7 @@ export async function POST(request: NextRequest) {
     }
 
     if (body.sourceContent.length > 10000) {
-      return errorResponse(
-        'Source content exceeds 10000 character limit',
-        400
-      );
+      return errorResponse('Source content exceeds 10000 character limit', 400);
     }
 
     const note = await NotesServices.generateAINote(

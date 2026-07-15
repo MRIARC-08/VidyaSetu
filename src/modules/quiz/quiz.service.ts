@@ -118,7 +118,7 @@ export class QuizServices {
 
     const quizQuestions = await QuizRepository.findQuizQuestions(quiz.id);
     const questionIds = quizQuestions.map((q) => q.questionId);
-    
+
     let questions: QuizQuestion[] = [];
     if (questionIds.length > 0) {
       questions = await QuizRepository.findFullQuestionsByIds(questionIds);
@@ -161,7 +161,9 @@ export class QuizServices {
 
     let questions: QuizQuestion[] | undefined;
     if (sanitizedResponses.length === 0) {
-      const quizQuestions = await QuizRepository.findQuizQuestions(session.quizId);
+      const quizQuestions = await QuizRepository.findQuizQuestions(
+        session.quizId
+      );
       const questionIds = quizQuestions.map((q) => q.questionId);
       if (questionIds.length > 0) {
         questions = await QuizRepository.findFullQuestionsByIds(questionIds);

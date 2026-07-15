@@ -57,8 +57,10 @@ export default function Recommendations() {
 
         await new Promise((r) => setTimeout(r, 700)); // mock delay
         setData(mockData);
-      } catch (err: any) {
-        setError(err.message || 'Failed to load recommendations');
+      } catch (err: unknown) {
+        setError(
+          err instanceof Error ? err.message : 'Failed to load recommendations'
+        );
       } finally {
         setLoading(false);
       }

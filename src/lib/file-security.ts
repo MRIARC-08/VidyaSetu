@@ -9,7 +9,10 @@ const ALLOWED_DIRECTORIES = {
 type AllowedDir = keyof typeof ALLOWED_DIRECTORIES;
 
 export class FileSecurityError extends Error {
-  constructor(message: string, public statusCode: number = 403) {
+  constructor(
+    message: string,
+    public statusCode: number = 403
+  ) {
     super(message);
     this.name = 'FileSecurityError';
   }
@@ -36,7 +39,11 @@ export function validateFilePath(
     );
   }
 
-  if (filename.includes('..') || filename.includes('/') || filename.includes('\\')) {
+  if (
+    filename.includes('..') ||
+    filename.includes('/') ||
+    filename.includes('\\')
+  ) {
     throw new FileSecurityError(
       'Invalid filename: contains prohibited characters',
       403
@@ -48,10 +55,7 @@ export function validateFilePath(
   const resolvedAllowedDir = path.resolve(allowedDir);
 
   if (!fullPath.startsWith(resolvedAllowedDir)) {
-    throw new FileSecurityError(
-      'File not in allowed directory',
-      403
-    );
+    throw new FileSecurityError('File not in allowed directory', 403);
   }
 
   return fullPath;
@@ -68,7 +72,10 @@ export const ALLOWED_MIME_TYPES = {
 
 export function getMimeType(filename: string): string {
   const ext = path.extname(filename).toLowerCase().slice(1);
-  return ALLOWED_MIME_TYPES[ext as keyof typeof ALLOWED_MIME_TYPES] || 'application/octet-stream';
+  return (
+    ALLOWED_MIME_TYPES[ext as keyof typeof ALLOWED_MIME_TYPES] ||
+    'application/octet-stream'
+  );
 }
 
 export function isAllowedExtension(filename: string): boolean {

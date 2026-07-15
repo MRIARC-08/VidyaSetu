@@ -4,6 +4,7 @@ import * as React from 'react';
 import { useRouter } from 'next/navigation';
 import { fetchQuizSession } from '@/lib/quiz';
 import { QuizQuestion } from '@/components/QuizQuestion';
+import type { QuizQuestion as QuizQuestionType } from '@/modules/quiz/quiz.types';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent } from '@/components/ui/card';
 import {
@@ -32,8 +33,9 @@ export default function QuizResultPage({
 
   const [loading, setLoading] = React.useState(true);
   const [error, setError] = React.useState<string | null>(null);
-  const [sessionData, setSessionData] =
-    React.useState<QuizSessionData | null>(null);
+  const [sessionData, setSessionData] = React.useState<QuizSessionData | null>(
+    null
+  );
   const [leaderboard, setLeaderboard] = React.useState<LeaderboardEntry[]>([]);
   const [leaderboardLoaded, setLeaderboardLoaded] = React.useState(false);
   React.useEffect(() => {
@@ -143,9 +145,7 @@ export default function QuizResultPage({
           >
             <BarChart3 className="size-8" />
           </div>
-          <h2 className="text-2xl font-bold text-foreground">
-            Quiz Complete!
-          </h2>
+          <h2 className="text-2xl font-bold text-foreground">Quiz Complete!</h2>
           <p className="text-sm text-muted-foreground mt-2">
             Review your answers below to learn from mistakes
           </p>
@@ -224,7 +224,7 @@ export default function QuizResultPage({
               </div>
               <div className="p-6">
                 <QuizQuestion
-                  question={response.question}
+                  question={response.question as unknown as QuizQuestionType}
                   selectedOptionId={response.selectedOptionId || undefined}
                   onSelectOption={() => {}}
                   reviewMode
@@ -286,9 +286,7 @@ export default function QuizResultPage({
                 <div className="flex size-8 items-center justify-center overflow-hidden rounded-full bg-muted">
                   <User className="size-4 text-muted-foreground" />
                 </div>
-                <span className="flex-1 text-sm font-medium">
-                  {entry.name}
-                </span>
+                <span className="flex-1 text-sm font-medium">{entry.name}</span>
                 <span className="text-sm font-bold tabular-nums">
                   {entry.score}%
                 </span>

@@ -2,9 +2,8 @@ import { prisma } from '@/lib/prisma';
 import { AuthProvider } from '@/generated/prisma/enums';
 import crypto from 'crypto';
 import { hashPassword } from '@/lib/auth/password';
-import { PUBLIC_USER_SELECT } from "../user/user.select";
+import { PUBLIC_USER_SELECT } from '../user/user.select';
 import { UserRole } from '@/generated/prisma/enums';
-
 
 const REFRESH_TOKEN_TTL_MS = 7 * 24 * 60 * 60 * 1000;
 

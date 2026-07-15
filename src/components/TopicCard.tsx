@@ -71,7 +71,10 @@ function TopicCard({
 
           <div className="h-1.5 w-full overflow-hidden rounded-full bg-muted">
             <div
-              className={cn('h-full rounded-full transition-all', getProgressColor(topic.accuracy))}
+              className={cn(
+                'h-full rounded-full transition-all',
+                getProgressColor(topic.accuracy)
+              )}
               style={{ width: `${topic.accuracy}%` }}
             />
           </div>

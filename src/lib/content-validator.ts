@@ -23,7 +23,10 @@ const validateBasicSafety = (content: string): string[] => {
   return flags;
 };
 
-const validateFactuality = (content: string, sourceContent: string): string[] => {
+const validateFactuality = (
+  content: string,
+  sourceContent: string
+): string[] => {
   const issues: string[] = [];
 
   // Check for extreme claims without citation

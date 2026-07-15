@@ -251,8 +251,8 @@ export default function DashboardPage() {
       </div>
 
       {/* resume reading */}
-        <ResumeCard />
-        {/* streak tracking */}
+      <ResumeCard />
+      {/* streak tracking */}
 
       <div className="flex flex-col gap-4 w-full">
         <StreakDashboard />
@@ -275,4 +275,3 @@ export default function DashboardPage() {
     </div>
   );
 }
-

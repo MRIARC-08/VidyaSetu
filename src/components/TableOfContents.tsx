@@ -46,6 +46,7 @@ export default function TableOfContents({
   const [mobileOpen, setMobileOpen] = useState(false);
 
   useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect -- intentional: parse headings when content changes
     setHeadings(parseHeadings(content));
   }, [content]);
 
@@ -68,17 +69,14 @@ export default function TableOfContents({
     return () => observer.disconnect();
   }, [content]);
 
-  const handleClick = useCallback(
-    (id: string) => {
-      const element = document.getElementById(id);
-      if (element) {
-        element.scrollIntoView({ behavior: 'smooth', block: 'start' });
-        history.pushState(null, '', `#${id}`);
-      }
-      setMobileOpen(false);
-    },
-    []
-  );
+  const handleClick = useCallback((id: string) => {
+    const element = document.getElementById(id);
+    if (element) {
+      element.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      history.pushState(null, '', `#${id}`);
+    }
+    setMobileOpen(false);
+  }, []);
 
   if (headings.length === 0) return null;
 

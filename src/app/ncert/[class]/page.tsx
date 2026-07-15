@@ -101,11 +101,13 @@ export default function Page() {
         });
         if (res && res.data && Array.isArray(res.data.sessions)) {
           const completed = new Set<string>();
-          res.data.sessions.forEach((s: { completedAt?: string; quiz?: { chapterId?: string } }) => {
-            if (s.completedAt && s.quiz && s.quiz.chapterId) {
-              completed.add(s.quiz.chapterId);
+          res.data.sessions.forEach(
+            (s: { completedAt?: string; quiz?: { chapterId?: string } }) => {
+              if (s.completedAt && s.quiz && s.quiz.chapterId) {
+                completed.add(s.quiz.chapterId);
+              }
             }
-          });
+          );
           return completed;
         }
       } catch (err) {

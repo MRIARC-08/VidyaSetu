@@ -92,6 +92,7 @@ export default function NcertChapterPage() {
   }, [params.chapter, params.class, params.subject]);
 
   useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect -- intentional: fetch chapter data on mount
     fetchData();
   }, [fetchData]);
 

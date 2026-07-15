@@ -65,14 +65,19 @@ export function QuizQuestion({
           const isCorrectAnswer = correctOptionId === option.id;
           const isWrongSelection = isSelected && !isCorrectAnswer;
 
-          let borderClass = 'border-border hover:border-primary/50 hover:bg-accent/50';
+          let borderClass =
+            'border-border hover:border-primary/50 hover:bg-accent/50';
           let icon = <Circle className="size-5" />;
-          let iconContainerClass = 'border-muted-foreground/30 text-transparent';
+          let iconContainerClass =
+            'border-muted-foreground/30 text-transparent';
 
           if (reviewMode) {
             if (isCorrectAnswer) {
-              borderClass = 'border-green-500 bg-green-50/50 ring-1 ring-green-500';
-              icon = <CheckCircle2 className="size-5 fill-green-500 text-white" />;
+              borderClass =
+                'border-green-500 bg-green-50/50 ring-1 ring-green-500';
+              icon = (
+                <CheckCircle2 className="size-5 fill-green-500 text-white" />
+              );
               iconContainerClass = 'border-green-500 text-green-500';
             } else if (isWrongSelection) {
               borderClass = 'border-red-500 bg-red-50/50 ring-1 ring-red-500';
@@ -80,12 +85,16 @@ export function QuizQuestion({
               iconContainerClass = 'border-red-500 text-red-500';
             } else if (isSelected) {
               borderClass = 'border-primary bg-primary/5 ring-1 ring-primary';
-              icon = <CheckCircle2 className="size-5 fill-primary text-primary-foreground" />;
+              icon = (
+                <CheckCircle2 className="size-5 fill-primary text-primary-foreground" />
+              );
               iconContainerClass = 'border-primary text-primary';
             }
           } else if (isSelected) {
             borderClass = 'border-primary bg-primary/5 ring-1 ring-primary';
-            icon = <CheckCircle2 className="size-5 fill-primary text-primary-foreground" />;
+            icon = (
+              <CheckCircle2 className="size-5 fill-primary text-primary-foreground" />
+            );
             iconContainerClass = 'border-primary text-primary';
           }
 
@@ -111,7 +120,9 @@ export function QuizQuestion({
               <span
                 className={cn(
                   'text-base font-medium transition-colors',
-                  reviewMode && isCorrectAnswer && 'text-green-700 font-semibold',
+                  reviewMode &&
+                    isCorrectAnswer &&
+                    'text-green-700 font-semibold',
                   reviewMode && isWrongSelection && 'text-red-700',
                   !reviewMode && isSelected && 'text-primary'
                 )}

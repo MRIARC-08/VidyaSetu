@@ -45,9 +45,9 @@ export class AuthServices {
     providerAccountId: string;
   }) {
     let user:
-    | Awaited<ReturnType<typeof AuthRepository.findUserByEmail>>
-    | Awaited<ReturnType<typeof AuthRepository.createUser>> =
-    await AuthRepository.findUserByEmail(data.email);
+      | Awaited<ReturnType<typeof AuthRepository.findUserByEmail>>
+      | Awaited<ReturnType<typeof AuthRepository.createUser>> =
+      await AuthRepository.findUserByEmail(data.email);
 
     if (!user) {
       user = await AuthRepository.createUser({

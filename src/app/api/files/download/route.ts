@@ -64,10 +64,7 @@ export async function GET(request: Request) {
         },
       });
     } catch (fsError) {
-      if (
-        fsError instanceof Error &&
-        fsError.message.includes('ENOENT')
-      ) {
+      if (fsError instanceof Error && fsError.message.includes('ENOENT')) {
         return NextResponse.json(
           { message: 'File not found' },
           { status: 404 }

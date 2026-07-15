@@ -49,6 +49,7 @@ function StreakDashboard({ className, ...props }: StreakDashboardProps) {
 
   React.useEffect(() => {
     const controller = new AbortController();
+    // eslint-disable-next-line react-hooks/set-state-in-effect -- intentional: fetch streak data on mount
     fetchStreakData(controller.signal);
     return () => controller.abort();
   }, [fetchStreakData]);

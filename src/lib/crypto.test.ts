@@ -45,6 +45,8 @@ describe('decryptCredential', () => {
   });
 
   it('throws on invalid format', () => {
-    expect(() => decryptCredential('bm90dmFsaWQ=')).toThrow('Invalid ciphertext format');
+    expect(() => decryptCredential('bm90dmFsaWQ=')).toThrow(
+      'Invalid ciphertext format'
+    );
   });
 });

@@ -38,9 +38,13 @@ export default function QuizAttemptPage({
   const [sessionId, setSessionId] = React.useState<string | null>(null);
   const [questions, setQuestions] = React.useState<QuizQuestionType[]>([]);
   const [currentIndex, setCurrentIndex] = React.useState(0);
-  const [startTime, setStartTime] = React.useState(Date.now());
+  const [startTime, setStartTime] = React.useState(() => Date.now());
   // Track when the user arrived on the current question for per-question timeTaken
-  const questionStartTimeRef = React.useRef<number>(Date.now());
+  const questionStartTimeRef = React.useRef<number>(0);
+
+  React.useEffect(() => {
+    questionStartTimeRef.current = Date.now();
+  }, []);
 
   const [responses, setResponses] = React.useState<Record<string, string>>({});
   // Per-question time in seconds, recorded when the user selects an answer
@@ -103,7 +107,7 @@ export default function QuizAttemptPage({
               const loadedQuestions =
                 sessionData.questions ||
                 sessionData.responses.map(
-                  (r) => r.question as QuizQuestionType
+                  (r) => r.question as unknown as QuizQuestionType
                 );
               if (loadedQuestions && loadedQuestions.length > 0) {
                 setQuestions(loadedQuestions);

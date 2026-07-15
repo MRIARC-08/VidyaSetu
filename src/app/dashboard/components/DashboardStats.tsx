@@ -86,10 +86,10 @@ function DashboardStats({ className, ...props }: React.ComponentProps<'div'>) {
 
     async function fetchStats() {
       try {
-        const res = await authFetch({
+        const res = (await authFetch({
           url: '/api/analytics/overview',
           options: { method: 'GET' },
-        }) as OverviewResponse;
+        })) as OverviewResponse;
 
         if (!cancelled && res.success) {
           setData(res.data);
@@ -102,12 +102,17 @@ function DashboardStats({ className, ...props }: React.ComponentProps<'div'>) {
     }
 
     fetchStats();
-    return () => { cancelled = true; };
+    return () => {
+      cancelled = true;
+    };
   }, []);
 
   if (loading) {
     return (
-      <div className={cn('grid gap-4 sm:grid-cols-2 lg:grid-cols-4', className)} {...props}>
+      <div
+        className={cn('grid gap-4 sm:grid-cols-2 lg:grid-cols-4', className)}
+        {...props}
+      >
         {Array.from({ length: 4 }).map((_, i) => (
           <div key={i} className="h-28 animate-pulse rounded-xl bg-muted" />
         ))}
@@ -125,7 +130,10 @@ function DashboardStats({ className, ...props }: React.ComponentProps<'div'>) {
   };
 
   return (
-    <div className={cn('grid gap-4 sm:grid-cols-2 lg:grid-cols-4', className)} {...props}>
+    <div
+      className={cn('grid gap-4 sm:grid-cols-2 lg:grid-cols-4', className)}
+      {...props}
+    >
       <Card>
         <CardHeader className="flex flex-row items-center justify-between pb-2">
           <CardTitle className="text-sm font-medium">Total Quizzes</CardTitle>

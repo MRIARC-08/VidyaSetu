@@ -27,7 +27,7 @@ const handler = NextAuth({
 
         await SetCookies.setAuthCookies(
           result.accessToken,
-          result.refreshToken,
+          result.refreshToken
         );
 
         return true;

@@ -82,6 +82,7 @@ export default function StudyPlan({
 
   useEffect(() => {
     if (state === 'error') {
+      // eslint-disable-next-line react-hooks/set-state-in-effect -- intentional: reset state on error condition
       setLoading(false);
       setError('Unable to load your study plan right now.');
       setData(null);
@@ -186,7 +187,7 @@ export default function StudyPlan({
 
         <Card>
           <CardHeader className="pb-2">
-            <CardTitle className="text-sm">Today's Load</CardTitle>
+            <CardTitle className="text-sm">Today&apos;s Load</CardTitle>
           </CardHeader>
           <CardContent>
             <div className="text-2xl font-bold">

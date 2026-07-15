@@ -12,12 +12,7 @@ import {
   Trophy,
 } from 'lucide-react';
 import authFetch from '@/lib/auth/authFetch';
-import {
-  Card,
-  CardContent,
-  CardHeader,
-  CardTitle,
-} from '@/components/ui/card';
+import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { cn } from '@/lib/utils';
 
@@ -85,9 +80,11 @@ function generateRecommendations(topics: WeakTopicResult[]): {
   if (avgAccuracy < 30) {
     insight = 'Focus on reviewing chapter content before attempting quizzes';
   } else if (avgAccuracy < 45) {
-    insight = 'Consistent practice will help — aim for one quiz per topic per day';
+    insight =
+      'Consistent practice will help — aim for one quiz per topic per day';
   } else {
-    insight = 'You are close to mastering these topics — targeted practice will close the gap';
+    insight =
+      'You are close to mastering these topics — targeted practice will close the gap';
   }
 
   return { recommendations, insight, estimatedHours };
@@ -127,8 +124,10 @@ function StudyRecommendation({
     };
   }, []);
 
-  const { recommendations, insight, estimatedHours } =
-    React.useMemo(() => generateRecommendations(weakTopics), [weakTopics]);
+  const { recommendations, insight, estimatedHours } = React.useMemo(
+    () => generateRecommendations(weakTopics),
+    [weakTopics]
+  );
 
   return (
     <Card className={cn('', className)} {...props}>
@@ -221,7 +220,7 @@ function StudyRecommendation({
               variant="outline"
               size="sm"
               className="gap-2"
-              onClick={() => window.location.href = '/quiz/create'}
+              onClick={() => (window.location.href = '/quiz/create')}
             >
               <BookOpen className="size-3.5" />
               Create Practice Quiz

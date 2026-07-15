@@ -52,7 +52,9 @@ function WeakTopicsList({ className, ...props }: React.ComponentProps<'div'>) {
   });
   const [loading, setLoading] = React.useState(true);
   const [error, setError] = React.useState<string | null>(null);
-  const [sortBy, setSortBy] = React.useState<'accuracy' | 'attempts'>('accuracy');
+  const [sortBy, setSortBy] = React.useState<'accuracy' | 'attempts'>(
+    'accuracy'
+  );
   const [searchQuery, setSearchQuery] = React.useState('');
 
   const fetchWeakTopics = React.useCallback(
@@ -85,6 +87,7 @@ function WeakTopicsList({ className, ...props }: React.ComponentProps<'div'>) {
   );
 
   React.useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect -- intentional: fetch weak topics on mount/sort change
     fetchWeakTopics(1, sortBy);
   }, [fetchWeakTopics, sortBy]);
 
@@ -183,7 +186,8 @@ function WeakTopicsList({ className, ...props }: React.ComponentProps<'div'>) {
             {pagination.totalPages > 1 && (
               <div className="flex items-center justify-between border-t pt-4">
                 <p className="text-xs text-muted-foreground">
-                  Page {pagination.page} of {pagination.totalPages} ({pagination.total} topics)
+                  Page {pagination.page} of {pagination.totalPages} (
+                  {pagination.total} topics)
                 </p>
                 <div className="flex items-center gap-2">
                   <Button

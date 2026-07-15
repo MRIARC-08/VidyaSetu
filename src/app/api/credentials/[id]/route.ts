@@ -11,6 +11,9 @@ export async function DELETE(
     const auth = await authenticate();
     return CredentialsController.revoke(id, auth);
   } catch {
-    return NextResponse.json({ success: false, message: 'Unauthorized' }, { status: 401 });
+    return NextResponse.json(
+      { success: false, message: 'Unauthorized' },
+      { status: 401 }
+    );
   }
 }

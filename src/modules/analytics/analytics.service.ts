@@ -3,7 +3,10 @@ import type {
   Prisma,
   UserStats as PrismaUserStats,
 } from '@/generated/prisma/client';
-import { calculateAccuracy, calculateWeightedAccuracy } from '@/lib/score-calculator';
+import {
+  calculateAccuracy,
+  calculateWeightedAccuracy,
+} from '@/lib/score-calculator';
 import AnalyticsRepository from './analytics.repository';
 import type { StreakData, ActivityDay, UserStats } from './analytics.types';
 import type { WeakTopicsResponse } from './analytics.types';

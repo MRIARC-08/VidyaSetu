@@ -17,7 +17,10 @@ export const addQuestionSchema = z
     topicId: z.string().uuid().nullable().optional(),
     type: z.enum(['MCQ', 'SUBJECTIVE']),
     difficulty: z.enum(['EASY', 'MEDIUM', 'HARD']),
-    questionText: z.string().trim().min(10, 'Question text must be at least 10 characters'),
+    questionText: z
+      .string()
+      .trim()
+      .min(10, 'Question text must be at least 10 characters'),
     explanation: z.string().trim().optional(),
     options: z
       .array(
@@ -34,7 +37,8 @@ export const addQuestionSchema = z
       if (!data.explanation || data.explanation.trim().length < 10) {
         ctx.addIssue({
           code: z.ZodIssueCode.custom,
-          message: 'MCQ questions must have an explanation of at least 10 characters',
+          message:
+            'MCQ questions must have an explanation of at least 10 characters',
           path: ['explanation'],
         });
       }

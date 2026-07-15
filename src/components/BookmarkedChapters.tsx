@@ -43,6 +43,7 @@ export default function BookmarkedChapters() {
   };
 
   useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect -- intentional: fetch bookmarks on mount
     fetchBookmarks();
   }, []);
 
@@ -106,7 +107,7 @@ export default function BookmarkedChapters() {
                 <span className="text-[10px] font-bold text-primary/50 uppercase tracking-wider">
                   Class {classLevel} • {item.chapter.subject.name}
                 </span>
-                
+
                 {/* We moved the Link here! The absolute span makes the entire card clickable without nesting the button */}
                 <Link
                   href={href}
