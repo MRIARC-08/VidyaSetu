@@ -25,9 +25,10 @@ import random
 import re
 import threading
 import time
+from collections.abc import Callable
 from dataclasses import dataclass, field
 from enum import Enum
-from typing import Any, Callable, TypeVar
+from typing import Any, TypeVar
 
 logger = logging.getLogger(__name__)
 
@@ -68,7 +69,9 @@ class GroqError(Exception):
     retryable: bool = True
     """Whether a caller or retry policy may attempt this operation again."""
 
-    def __init__(self, message: str, *, retry_after_seconds: float | None = None) -> None:
+    def __init__(
+        self, message: str, *, retry_after_seconds: float | None = None
+    ) -> None:
         super().__init__(message)
         self.retry_after_seconds: float | None = retry_after_seconds
 
@@ -158,7 +161,9 @@ def classify_groq_exception(exc: BaseException) -> GroqError:
     """
     # --- langchain output-parser failures -----------------------------------
     try:
-        from langchain_core.exceptions import OutputParserException  # type: ignore[import-untyped]
+        from langchain_core.exceptions import (
+            OutputParserException,  # type: ignore[import-untyped]
+        )
 
         if isinstance(exc, OutputParserException):
             return GroqInvalidOutputError(_redact(str(exc)))
@@ -206,7 +211,9 @@ def classify_groq_exception(exc: BaseException) -> GroqError:
             return GroqAuthError()
         if isinstance(exc, groq_sdk.RateLimitError):
             retry_after = _parse_retry_after(
-                getattr(getattr(exc, "response", None), "headers", {}).get("retry-after")
+                getattr(getattr(exc, "response", None), "headers", {}).get(
+                    "retry-after"
+                )
             )
             return GroqRateLimitError(
                 "Groq rate limit exceeded",
@@ -304,9 +311,7 @@ class RetryPolicy:
             return False
         if attempt >= self.max_attempts:
             return False
-        if elapsed_s >= self.total_budget_s:
-            return False
-        return True
+        return elapsed_s < self.total_budget_s
 
 
 # ---------------------------------------------------------------------------
@@ -352,7 +357,9 @@ class CircuitBreaker:
     _state: _CircuitState = field(default=_CircuitState.CLOSED, init=False, repr=False)
     _failure_count: int = field(default=0, init=False, repr=False)
     _opened_at: float | None = field(default=None, init=False, repr=False)
-    _lock: threading.Lock = field(default_factory=threading.Lock, init=False, repr=False)
+    _lock: threading.Lock = field(
+        default_factory=threading.Lock, init=False, repr=False
+    )
 
     # ------------------------------------------------------------------
     # Public interface

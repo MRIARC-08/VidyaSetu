@@ -69,9 +69,7 @@ class TestValidFixtures:
         assert result.total_questions == 2
         assert all(r.valid for r in result.question_results)
 
-    def test_quiz_generation_output_valid(
-        self, valid_mcq: GeneratedQuestion
-    ) -> None:
+    def test_quiz_generation_output_valid(self, valid_mcq: GeneratedQuestion) -> None:
         from vidyasetu_ai.schemas.quiz import QuizGenerationOutput
 
         output = QuizGenerationOutput(
@@ -284,8 +282,7 @@ class TestSourceCitation:
             difficulty=Difficulty.EASY,
             question_text="What is Newton's first law?",
             explanation=(
-                "Newton's first law states that"
-                " an object at rest stays at rest."
+                "Newton's first law states that an object at rest stays at rest."
             ),
             source_citation="Chapter 5: Forces and Motion, NCERT Class 9",
             options=[
@@ -346,8 +343,7 @@ class TestDuplicateDetection:
                 type=QuestionType.MCQ,
                 difficulty=Difficulty.EASY,
                 question_text=(
-                    "What is the main function of"
-                    " red blood cells in the human body?"
+                    "What is the main function of red blood cells in the human body?"
                 ),
                 explanation="Red blood cells carry oxygen.",
                 options=[
@@ -376,8 +372,7 @@ class TestDuplicateDetection:
                 difficulty=Difficulty.HARD,
                 question_text="Derive the quadratic formula.",
                 explanation=(
-                    "The quadratic formula is derived"
-                    " from completing the square."
+                    "The quadratic formula is derived from completing the square."
                 ),
                 marks=5.0,
                 options=[

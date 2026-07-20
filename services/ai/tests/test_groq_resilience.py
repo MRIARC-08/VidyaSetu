@@ -15,7 +15,6 @@ import pytest
 from vidyasetu_ai.core.groq_resilience import (
     CircuitBreaker,
     GroqAuthError,
-    GroqError,
     GroqInvalidOutputError,
     GroqProviderError,
     GroqRateLimitError,
@@ -27,13 +26,14 @@ from vidyasetu_ai.core.groq_resilience import (
     groq_call,
 )
 
-
 # ---------------------------------------------------------------------------
 # Helpers
 # ---------------------------------------------------------------------------
 
 
-def _make_httpx_status_error(status_code: int, headers: dict | None = None) -> Exception:
+def _make_httpx_status_error(
+    status_code: int, headers: dict | None = None
+) -> Exception:
     """Return a fake httpx.HTTPStatusError with the given status."""
     import httpx
 
@@ -179,7 +179,9 @@ class TestRetryPolicy:
         # Run many samples; at least once cap_1 < cap_2 will produce a higher value.
         delays_1 = [policy.delay_for_attempt(1) for _ in range(50)]
         delays_2 = [policy.delay_for_attempt(3) for _ in range(50)]
-        assert max(delays_2) > max(delays_1) or max(delays_2) >= 0  # always true; smoke test
+        assert (
+            max(delays_2) > max(delays_1) or max(delays_2) >= 0
+        )  # always true; smoke test
 
     def test_delay_never_exceeds_max_delay(self) -> None:
         policy = RetryPolicy(base_delay_s=1.0, max_delay_s=5.0)
@@ -440,7 +442,9 @@ class TestGroqCall:
                 raise _make_httpx_status_error(429, headers={"retry-after": "0.05"})
             return "ok"
 
-        with patch("vidyasetu_ai.core.groq_resilience.time.sleep", side_effect=slept.append):
+        with patch(
+            "vidyasetu_ai.core.groq_resilience.time.sleep", side_effect=slept.append
+        ):
             result = groq_call(fn, policy=self._policy(), breaker=self._breaker())
 
         assert result == "ok"
