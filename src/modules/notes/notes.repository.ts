@@ -1,5 +1,5 @@
 import { prisma } from '@/lib/prisma';
-import { ValidationStatus } from '@prisma/client';
+import { ValidationStatus } from '@/generated/prisma/enums';
 
 export class NotesRepository {
   static findUserById(userId: string) {

@@ -11,7 +11,7 @@ import { generateStudyNotes } from '@/lib/content-validator';
 import { NotesRepository } from './notes.repository';
 import { NotesApiError } from './notes.types';
 import type { UploadResult } from './notes.types';
-import { ValidationStatus } from '@prisma/client';
+import { ValidationStatus } from '@/generated/prisma/enums';
 
 const isImage = (mimeType: string) =>
   ['image/png', 'image/jpeg', 'image/webp'].includes(mimeType);
