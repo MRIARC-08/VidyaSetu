@@ -1,4 +1,5 @@
 import { prisma } from '@/lib/prisma';
+import { ValidationStatus } from '@prisma/client';
 
 export class NotesRepository {
   static findUserById(userId: string) {
@@ -16,7 +17,7 @@ export class NotesRepository {
     cloudinaryPublicId: string | null;
     extractedText: string | null;
     isAIGenerated?: boolean;
-    validationStatus?: string;
+    validationStatus?: ValidationStatus;
     safetyFlags?: string | null;
   }) {
     return prisma.note.create({
