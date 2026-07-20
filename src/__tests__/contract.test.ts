@@ -74,6 +74,12 @@ const EXPECTED_ENDPOINTS: ExpectedEndpoint[] = [
     auth: true,
     description: 'Internal auth check / connectivity test',
   },
+  {
+    path: '/api/v1/internal/notes/validate',
+    method: 'post',
+    auth: true,
+    description: 'Validate an AI-generated study note',
+  },
 ];
 
 const EXPECTED_ERROR_SCHEMAS = ['HTTPValidationError', 'ValidationError'];
