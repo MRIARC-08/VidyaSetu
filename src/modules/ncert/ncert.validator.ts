@@ -19,6 +19,8 @@ export const ncertQuerySchema = z.object({
   subject: idSchema.optional(),
   chapterId: idSchema.optional(),
   chapter: idSchema.optional(),
+  page: z.string().optional(),
+  limit: z.string().optional(),
 });
 
 type NcertQueryInput = z.infer<typeof ncertQuerySchema>;
@@ -33,6 +35,8 @@ export function parseNcertQuery(url: string): NcertQueryInput {
     subject: searchParams.get('subject') ?? undefined,
     chapterId: searchParams.get('chapterId') ?? undefined,
     chapter: searchParams.get('chapter') ?? undefined,
+    page: searchParams.get('page') ?? undefined,
+    limit: searchParams.get('limit') ?? undefined,
   });
 }
 

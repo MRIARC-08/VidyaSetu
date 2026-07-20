@@ -75,7 +75,7 @@ const EXPECTED_ENDPOINTS: ExpectedEndpoint[] = [
     description: 'Internal auth check / connectivity test',
   },
   {
-    path: '/api/v1/internal/notes/validate',
+    path: '/api/v1/notes/validate',
     method: 'post',
     auth: true,
     description: 'Validate an AI-generated study note',
