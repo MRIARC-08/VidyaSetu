@@ -228,15 +228,17 @@ export default function QuizAttemptPage({
         ),
       };
 
-      const result = await submitQuizSession(payload);
-      setSubmittedData(result);
+      await submitQuizSession(payload);
 
+      sessionStorage.setItem(`quiz_${quizId}_sessionId`, sessionId);
       sessionStorage.removeItem(`quiz_${quizId}_questions`);
-      sessionStorage.removeItem(`quiz_${quizId}_sessionId`);
       sessionStorage.removeItem(`quiz_${quizId}_responses`);
       sessionStorage.removeItem(`quiz_${quizId}_responseTimes`);
       sessionStorage.removeItem(`quiz_${quizId}_currentIndex`);
       sessionStorage.removeItem(`quiz_${quizId}_startTime`);
+
+      router.push(`/quiz/${quizId}/result`);
+      return;
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Failed to submit quiz');
     } finally {

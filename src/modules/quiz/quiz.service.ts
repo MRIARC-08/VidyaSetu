@@ -1,5 +1,6 @@
 import { prisma } from '@/lib/prisma';
 import type { Prisma } from '@/generated/prisma/client';
+import { calculateAccuracy } from '@/lib/score-calculator';
 import { QuizRepository } from './quiz.repository';
 import type {
   CreateQuizInput,
@@ -9,14 +10,6 @@ import type {
 } from './quiz.types';
 import { QuizApiError } from './quiz.types';
 import AnalyticsService from '../analytics/analytics.service';
-
-const calculateAccuracy = (correctCount: number, totalQuestions: number) => {
-  if (totalQuestions === 0) {
-    return 0;
-  }
-
-  return Number(((correctCount / totalQuestions) * 100).toFixed(2));
-};
 
 function shuffleArray<T>(array: T[]): T[] {
   const shuffled = [...array];

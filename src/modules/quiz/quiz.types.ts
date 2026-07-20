@@ -26,6 +26,10 @@ export type SanitizedOption = {
   value: string;
 };
 
+export type ReviewOption = SanitizedOption & {
+  isCorrect: boolean;
+};
+
 export type QuizQuestion = {
   id: string;
   topicId: string | null;
@@ -108,7 +112,7 @@ export type QuizSessionData = {
       difficulty: string;
       questionText: string;
       explanation: string | null;
-      options: SanitizedOption[];
+      options: ReviewOption[];
     };
   }>;
   questions?: QuizQuestion[];
