@@ -27,6 +27,7 @@ VidyaSetu helps students move from passive studying to structured practice with 
 - [Seed Data](#seed-data)
 - [CI/CD](#cicd)
 - [Useful Commands](#useful-commands)
+- [FAQ](#faq)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -345,6 +346,31 @@ pnpm db:studio
 
 AI service commands are documented in
 [`services/ai/README.md`](services/ai/README.md).
+
+## FAQ
+
+### Do I need Docker?
+
+No. Docker is optional. You can use a hosted PostgreSQL database such as Supabase, Neon, or Railway instead. Docker is recommended only if you want to run a local PostgreSQL instance.
+
+### Can I use Supabase instead of Docker?
+
+Yes. VidyaSetu supports hosted PostgreSQL providers. Update the `DATABASE_URL` and `DIRECT_URL` values in your `.env` file with your Supabase PostgreSQL connection strings.
+
+### Is the AI service required for every contribution?
+
+No. The Python AI service is only required when working on AI-related features such as model inference, embeddings, or retrieval. Documentation, frontend, and many backend contributions can be made without running the AI service.
+
+### How do I reset the database?
+
+If you're using Docker, stop and remove the existing database container and volume, then restart it using:
+
+```bash
+docker compose down -v
+docker compose up -d
+```
+
+If you're using a hosted PostgreSQL database (such as Supabase), reset or recreate your development database using the tools provided by your database provider, then run the Prisma migrations and seed commands again.
 
 ## Contributing
 
