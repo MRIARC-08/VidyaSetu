@@ -27,6 +27,7 @@ VidyaSetu helps students move from passive studying to structured practice with 
 - [Seed Data](#seed-data)
 - [CI/CD](#cicd)
 - [Useful Commands](#useful-commands)
+- [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -345,6 +346,77 @@ pnpm db:studio
 
 AI service commands are documented in
 [`services/ai/README.md`](services/ai/README.md).
+
+## Troubleshooting
+
+If you encounter issues while setting up the project, try the following solutions.
+
+### `pnpm: command not found`
+
+This usually means `pnpm` is not installed globally.
+
+Install it using:
+
+```bash
+npm install -g pnpm
+```
+
+Verify the installation:
+
+```bash
+pnpm --version
+```
+
+---
+
+### PostgreSQL Connection Errors
+
+If the application cannot connect to PostgreSQL:
+
+- Make sure your PostgreSQL server or Docker container is running.
+- Verify that `DATABASE_URL` and `DIRECT_URL` are correctly configured in your `.env` file.
+- Ensure the database name, username, password, and port are correct.
+
+If you're using Docker, start the database with:
+
+```bash
+docker compose up -d
+```
+
+---
+
+### Prisma Migration Failures
+
+If Prisma migrations fail, regenerate the Prisma client and run the migrations again:
+
+```bash
+pnpm db:generate
+pnpm db:migrate
+```
+
+If your local database is out of sync and you don't mind resetting it:
+
+```bash
+pnpm prisma migrate reset
+```
+
+> **Warning:** This command removes all data from your local database.
+
+---
+
+### Missing or Incorrect Environment Variables
+
+If you receive errors related to missing environment variables:
+
+1. Copy the example environment file:
+
+```bash
+cp .env.example .env
+```
+
+2. Verify that all required variables such as `DATABASE_URL`, `DIRECT_URL`, `JWT_SECRET`, and `NEXTAUTH_URL` are correctly configured.
+
+3. Restart the development server after making changes to `.env`.
 
 ## Contributing
 
