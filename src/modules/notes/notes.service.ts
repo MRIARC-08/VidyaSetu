@@ -11,6 +11,7 @@ import { generateStudyNotes } from '@/lib/content-validator';
 import { NotesRepository } from './notes.repository';
 import { NotesApiError } from './notes.types';
 import type { UploadResult } from './notes.types';
+import { ValidationStatus } from '@/generated/prisma/enums';
 
 const isImage = (mimeType: string) =>
   ['image/png', 'image/jpeg', 'image/webp'].includes(mimeType);
@@ -164,12 +165,12 @@ export class NotesServices {
         sourceContent
       );
 
-      const validationStatus = validationResult.isValid
-        ? 'VALIDATED'
+      const validationStatus: ValidationStatus = validationResult.isValid
+        ? ValidationStatus.VALIDATED
         : validationResult.safetyFlags.length > 0 ||
           validationResult.factualityIssues.length > 0
-          ? 'REQUIRES_REVIEW'
-          : 'VALIDATED';
+          ? ValidationStatus.REQUIRES_REVIEW
+          : ValidationStatus.VALIDATED;
 
       const safetyFlags =
         validationResult.safetyFlags.length > 0 ||

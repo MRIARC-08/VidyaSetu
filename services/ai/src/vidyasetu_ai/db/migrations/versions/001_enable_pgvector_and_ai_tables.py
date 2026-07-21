@@ -55,7 +55,7 @@ def upgrade() -> None:
     op.create_table(
         "ai_chunks",
         sa.Column("id", UUID(as_uuid=True), primary_key=True),
-     sa.Column(
+        sa.Column(
             "document_id",
             UUID(as_uuid=True),
             sa.ForeignKey("ai_documents.id", ondelete="CASCADE"),
