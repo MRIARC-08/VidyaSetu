@@ -19,8 +19,7 @@ async def lifespan(app: FastAPI):
         ModelRegistry.get().preload(settings.embedding_model)
     except Exception:
         logger.warning(
-            "Embedding model failed to preload at startup"
-            " — will retry on first use"
+            "Embedding model failed to preload at startup — will retry on first use"
         )
     yield
     ModelRegistry.reset()

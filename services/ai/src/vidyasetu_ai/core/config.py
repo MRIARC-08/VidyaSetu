@@ -23,6 +23,9 @@ class Settings(BaseSettings):
     embedding_model: str = "intfloat/multilingual-e5-base"
     model_cache_dir: Path = Path(".cache/models")
     request_timeout_seconds: int = Field(default=30, ge=1, le=120)
+    groq_connect_timeout_s: int = Field(default=10, ge=1, le=30)
+    groq_read_timeout_s: int = Field(default=60, ge=5, le=300)
+    groq_max_retry_attempts: int = Field(default=3, ge=1, le=5)
 
 
 @lru_cache

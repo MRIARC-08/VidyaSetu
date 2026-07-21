@@ -21,7 +21,7 @@ export class GenerationLogService {
         completionTokens: input.completionTokens,
         costEstimate: input.costEstimate,
         retrievedChunkIds: input.retrievedChunkIds ?? [],
-        stageLatencyMs: input.stageLatencyMs ?? undefined,
+        stageLatencyMs: (input.stageLatencyMs as any) ?? undefined,
         retryCount: input.retryCount ?? 0,
         errorCode: input.errorCode,
         status: input.status,

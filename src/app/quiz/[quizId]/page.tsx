@@ -103,7 +103,7 @@ export default function QuizAttemptPage({
               const loadedQuestions =
                 sessionData.questions ||
                 sessionData.responses.map(
-                  (r) => r.question as QuizQuestionType
+                  (r) => r.question as unknown as QuizQuestionType
                 );
               if (loadedQuestions && loadedQuestions.length > 0) {
                 setQuestions(loadedQuestions);

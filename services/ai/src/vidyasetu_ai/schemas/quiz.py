@@ -83,8 +83,7 @@ class QuizGenerationOutput(BaseModel):
                             message="MCQ must have at least 2 options",
                             code="MCQ_MIN_OPTIONS",
                             repair_hint=(
-                                "Add more options or change"
-                                " question type to SUBJECTIVE"
+                                "Add more options or change question type to SUBJECTIVE"
                             ),
                         )
                     )
@@ -97,8 +96,7 @@ class QuizGenerationOutput(BaseModel):
                             message="Option labels must be unique",
                             code="DUPLICATE_OPTION_LABELS",
                             repair_hint=(
-                                "Assign unique labels"
-                                " (e.g. A, B, C, D) to each option"
+                                "Assign unique labels (e.g. A, B, C, D) to each option"
                             ),
                         )
                     )
@@ -137,8 +135,7 @@ class QuizGenerationOutput(BaseModel):
                         " and must be at least 10 characters",
                         code="MISSING_EXPLANATION",
                         repair_hint=(
-                            "Provide a detailed explanation"
-                            " of the correct answer"
+                            "Provide a detailed explanation of the correct answer"
                         ),
                     )
                 )
@@ -202,8 +199,7 @@ def validate_question(
                     message="MCQ must have at least 2 options",
                     code="MCQ_MIN_OPTIONS",
                     repair_hint=(
-                        "Add more options or change"
-                        " question type to SUBJECTIVE"
+                        "Add more options or change question type to SUBJECTIVE"
                     ),
                 )
             )
@@ -216,8 +212,7 @@ def validate_question(
                     message="Option labels must be unique",
                     code="DUPLICATE_OPTION_LABELS",
                     repair_hint=(
-                        "Assign unique labels"
-                        " (e.g. A, B, C, D) to each option"
+                        "Assign unique labels (e.g. A, B, C, D) to each option"
                     ),
                 )
             )
@@ -264,10 +259,7 @@ def validate_question(
                     idx = question.options.index(opt)
                     errors.append(
                         ValidationErrorDetail(
-                            field=(
-                                f"questions[{index}]"
-                                f".options[{idx}].value"
-                            ),
+                            field=(f"questions[{index}].options[{idx}].value"),
                             message="Correct answer value"
                             " must exist in the option list",
                             code="CORRECT_ANSWER_MISMATCH",
@@ -283,13 +275,9 @@ def validate_question(
         errors.append(
             ValidationErrorDetail(
                 field=f"questions[{index}].explanation",
-                message="Explanation is required"
-                " and must be at least 10 characters",
+                message="Explanation is required and must be at least 10 characters",
                 code="MISSING_EXPLANATION",
-                repair_hint=(
-                    "Provide a detailed explanation"
-                    " of the correct answer"
-                ),
+                repair_hint=("Provide a detailed explanation of the correct answer"),
             )
         )
 
@@ -315,10 +303,7 @@ def validate_quiz_generation(
     for dup in duplicates:
         cross_errors.append(
             ValidationErrorDetail(
-                field=(
-                    f"questions[{dup['question_b_index']}]"
-                    ".question_text"
-                ),
+                field=(f"questions[{dup['question_b_index']}].question_text"),
                 message=(
                     f"Question {dup['question_b_index']}"
                     f" is {dup['similarity']:.0%} similar"
@@ -342,8 +327,7 @@ def validate_quiz_generation(
                 message=f"Unsupported question type: {q.type}",
                 code="UNSUPPORTED_QUESTION_TYPE",
                 repair_hint=(
-                    f"Change type to one of:"
-                    f" {', '.join(t.value for t in QuestionType)}"
+                    f"Change type to one of: {', '.join(t.value for t in QuestionType)}"
                 ),
             )
         )
