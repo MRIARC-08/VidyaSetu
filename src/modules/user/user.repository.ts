@@ -17,6 +17,9 @@ export default class UserRepository {
       where: {
         id: userId,
       },
+      include: {
+        stats: true,
+      },
     });
   }
 

@@ -1,5 +1,4 @@
 'use client';
-import { strict } from 'assert';
 import { useRouter } from 'next/navigation';
 
 import React, { Dispatch, SetStateAction } from 'react';
@@ -30,7 +29,8 @@ function FirstSlide({
         <div>
           <p className="text-2xl font-bold">Welcome to Vidyasetu!</p>
           <p className="text-[14px] text-black/60">
-            Let's personalize your learning journey by completing your profile.
+            Let&apos;s personalize your learning journey by completing your
+            profile.
           </p>
         </div>
         <div className="h-max w-full flex flex-col justify-center items-center">
@@ -109,10 +109,7 @@ function FirstSlide({
               onChange={(e) => setClas(e.target.value)}
               required
             >
-              <option selected hidden disabled>
-                Select Class
-              </option>
-              <option selected disabled>
+              <option value="" hidden disabled>
                 Select a class
               </option>
               <option value="9">9</option>

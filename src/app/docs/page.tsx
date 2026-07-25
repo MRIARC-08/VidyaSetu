@@ -1,13 +1,17 @@
 import Link from 'next/link';
 import {
+  AlertTriangle,
   BookOpen,
   Boxes,
   Database,
   FileCode2,
   GitPullRequest,
+  KeyRound,
   Layers3,
   Route,
   ServerCog,
+  TerminalSquare,
+  Wrench,
 } from 'lucide-react';
 
 const architectureLayers = [
@@ -102,6 +106,180 @@ const contributorTasks = [
   },
 ];
 
+const routeMap = [
+  {
+    route: '/',
+    files: 'src/app/page.tsx',
+    purpose: 'Landing page and entry point for unauthenticated visitors.',
+  },
+  {
+    route: '/docs',
+    files: 'src/app/docs/page.tsx',
+    purpose: 'Public contributor documentation for codebase orientation.',
+  },
+  {
+    route: '/login and /register',
+    files: 'src/app/(auth)',
+    purpose: 'Authentication screens and account onboarding flows.',
+  },
+  {
+    route: '/dashboard',
+    files: 'src/app/dashboard',
+    purpose: 'Student overview, progress entry point, and learning shortcuts.',
+  },
+  {
+    route: '/ncert',
+    files: 'src/app/ncert and src/modules/ncert',
+    purpose: 'Class, subject, chapter, topic, and NCERT PDF exploration.',
+  },
+  {
+    route: '/quiz',
+    files: 'src/app/quiz and src/modules/quiz',
+    purpose: 'Quiz creation, quiz sessions, answer submission, and scoring.',
+  },
+  {
+    route: '/notes',
+    files: 'src/app/notes and src/modules/notes',
+    purpose: 'Notes upload, extraction, storage, and note-based workflows.',
+  },
+  {
+    route: '/admin',
+    files: 'src/app/admin and src/modules/admin',
+    purpose: 'Admin-facing flows for seed/admin operations and analytics.',
+  },
+];
+
+const moduleDetails = [
+  {
+    module: 'auth',
+    owns: 'registration, login, refresh tokens, cookies, password hashing, and session helpers',
+    files: 'src/modules/auth and src/lib/auth',
+  },
+  {
+    module: 'ncert',
+    owns: 'classes, subjects, chapters, topics, and NCERT content lookup',
+    files: 'src/modules/ncert',
+  },
+  {
+    module: 'quiz',
+    owns: 'quiz creation, session start, submitted answers, scoring, and quiz records',
+    files: 'src/modules/quiz',
+  },
+  {
+    module: 'notes',
+    owns: 'note records, extracted text, file URLs, and note upload workflows',
+    files: 'src/modules/notes',
+  },
+  {
+    module: 'ai',
+    owns: 'AI provider boundary, question generation, and subjective answer evaluation',
+    files: 'src/modules/ai and src/lib/ai',
+  },
+  {
+    module: 'analytics',
+    owns: 'student performance summaries, weak topic detection, and aggregate stats',
+    files: 'src/modules/analytics',
+  },
+  {
+    module: 'admin',
+    owns: 'admin-only actions, privileged content management, and admin dashboard data',
+    files: 'src/modules/admin',
+  },
+  {
+    module: 'user',
+    owns: 'profile reads, profile updates, and user-facing account metadata',
+    files: 'src/modules/user',
+  },
+];
+
+const prismaLifecycle = [
+  {
+    command: 'pnpm db:generate',
+    when: 'After cloning, after schema changes, or when generated Prisma imports are missing.',
+  },
+  {
+    command: 'pnpm db:migrate',
+    when: 'After setting DATABASE_URL and DIRECT_URL, and after changing schema.prisma.',
+  },
+  {
+    command: 'pnpm db:seed',
+    when: 'After migrations, when you need NCERT classes, subjects, chapters, and PDF links.',
+  },
+  {
+    command: 'pnpm db:studio',
+    when: 'When you want to inspect local database records in a browser.',
+  },
+];
+
+const envNotes = [
+  {
+    name: 'DATABASE_URL',
+    detail:
+      'Runtime database URL. Use Docker Postgres locally or a hosted PostgreSQL provider.',
+  },
+  {
+    name: 'DIRECT_URL',
+    detail:
+      'Migration database URL. Prisma migrations should use a direct database connection.',
+  },
+  {
+    name: 'JWT_SECRET',
+    detail:
+      'Local token signing secret. Generate one with openssl rand -base64 32.',
+  },
+  {
+    name: 'NEXTAUTH_URL',
+    detail:
+      'Use http://localhost:3000 locally. Use the deployed app URL in production.',
+  },
+  {
+    name: 'GOOGLE_CLIENT_ID / GOOGLE_CLIENT_SECRET',
+    detail:
+      'Only required for Google login. Contributors not touching auth can leave them empty.',
+  },
+  {
+    name: 'Cloudinary variables',
+    detail:
+      'Optional for now. Add them only when working on uploads or media features.',
+  },
+];
+
+const commonIssues = [
+  {
+    problem: 'Cannot find generated Prisma client',
+    fix: 'Run pnpm db:generate. The generated client folder is intentionally ignored by git.',
+  },
+  {
+    problem: 'Migration fails with missing DIRECT_URL',
+    fix: 'Set DIRECT_URL in .env. This project uses DIRECT_URL in prisma.config.ts.',
+  },
+  {
+    problem: 'Docker Postgres port conflict',
+    fix: 'Another Postgres may already be using 5432. Stop it or change the Docker port mapping.',
+  },
+  {
+    problem: 'Dashboard or analytics looks empty',
+    fix: 'Seed data creates NCERT metadata, not full user history. Create quizzes/attempts locally.',
+  },
+  {
+    problem: 'Google login does not work locally',
+    fix: 'Add Google OAuth credentials or use non-OAuth flows while working on unrelated features.',
+  },
+  {
+    problem: 'Full pnpm lint fails',
+    fix: 'Some existing files still need lint cleanup. Run ESLint on files you changed for focused checks.',
+  },
+];
+
+const prChecklist = [
+  'Keep one pull request focused on one bug, feature, or documentation improvement.',
+  'Mention which page, module, or API route you changed.',
+  'Run the most relevant check, such as pnpm eslint path/to/file.tsx.',
+  'Add screenshots for UI changes when possible.',
+  'Do not commit .env, database credentials, generated Prisma files, or local build output.',
+  'Explain any setup assumptions, skipped checks, or known limitations in the PR description.',
+];
+
 const setupSteps = [
   'Copy .env.example to .env.',
   'Choose hosted PostgreSQL or Docker PostgreSQL.',
@@ -153,6 +331,32 @@ export default function DocsPage() {
             </Link>
           </div>
         </nav>
+      </section>
+
+      <section className="border-y border-black/10 bg-white px-6 py-16 md:px-10">
+        <SectionHeading label="Route Map" title="URLs and owning files">
+          Use this map when you are not sure where a feature starts. For UI
+          issues, open the route file first. For data or behavior issues, follow
+          the route into the matching API handler and module.
+        </SectionHeading>
+
+        <div className="mt-10 overflow-hidden border border-black/10">
+          <div className="hidden grid-cols-[0.7fr_1fr_1.3fr] bg-black px-5 py-3 text-xs font-semibold uppercase tracking-wider text-white md:grid">
+            <p>Route</p>
+            <p>Files</p>
+            <p>Purpose</p>
+          </div>
+          {routeMap.map((item) => (
+            <div
+              key={item.route}
+              className="grid gap-3 border-t border-black/10 p-5 text-sm md:grid-cols-[0.7fr_1fr_1.3fr]"
+            >
+              <p className="font-mono font-semibold">{item.route}</p>
+              <p className="font-mono text-xs text-secondary">{item.files}</p>
+              <p className="leading-6 text-secondary">{item.purpose}</p>
+            </div>
+          ))}
+        </div>
       </section>
 
       <section className="px-6 py-16 md:px-10 md:py-20">
@@ -265,6 +469,31 @@ export default function DocsPage() {
       </section>
 
       <section className="border-y border-black/10 bg-white px-6 py-16 md:px-10">
+        <SectionHeading label="Modules" title="Feature ownership boundaries">
+          Each module owns a domain of behavior. When a change crosses modules,
+          keep the integration explicit instead of hiding unrelated behavior in
+          shared helpers.
+        </SectionHeading>
+
+        <div className="mt-10 grid gap-4 md:grid-cols-2">
+          {moduleDetails.map((module) => (
+            <article key={module.module} className="border border-black/10 p-6">
+              <div className="flex items-center gap-3">
+                <ServerCog size={20} aria-hidden="true" />
+                <h3 className="text-lg font-semibold">{module.module}</h3>
+              </div>
+              <p className="mt-4 text-sm leading-6 text-secondary">
+                Owns {module.owns}.
+              </p>
+              <p className="mt-4 font-mono text-xs text-secondary">
+                {module.files}
+              </p>
+            </article>
+          ))}
+        </div>
+      </section>
+
+      <section className="border-y border-black/10 bg-white px-6 py-16 md:px-10">
         <div className="grid gap-12 lg:grid-cols-[0.8fr_1.2fr]">
           <SectionHeading label="Database" title="Core Prisma models">
             PostgreSQL is the source of truth. Prisma defines the schema,
@@ -291,6 +520,63 @@ export default function DocsPage() {
       </section>
 
       <section className="px-6 py-16 md:px-10">
+        <div className="grid gap-12 lg:grid-cols-2">
+          <div>
+            <SectionHeading label="Prisma Workflow" title="Database lifecycle">
+              Schema changes are handled through Prisma. Keep schema edits,
+              migrations, generated client updates, and seed behavior aligned so
+              contributors can reproduce your work locally.
+            </SectionHeading>
+
+            <div className="mt-10 grid gap-4">
+              {prismaLifecycle.map((item) => (
+                <div
+                  key={item.command}
+                  className="border border-black/10 bg-white p-5"
+                >
+                  <div className="flex items-center gap-3">
+                    <TerminalSquare size={18} aria-hidden="true" />
+                    <p className="font-mono text-sm font-semibold">
+                      {item.command}
+                    </p>
+                  </div>
+                  <p className="mt-3 text-sm leading-6 text-secondary">
+                    {item.when}
+                  </p>
+                </div>
+              ))}
+            </div>
+          </div>
+
+          <div>
+            <SectionHeading label="Environment" title="What each env var does">
+              The app should run with contributor-owned credentials only. Real
+              production credentials should never be shared or committed.
+            </SectionHeading>
+
+            <div className="mt-10 grid gap-4">
+              {envNotes.map((item) => (
+                <div
+                  key={item.name}
+                  className="border border-black/10 bg-white p-5"
+                >
+                  <div className="flex items-center gap-3">
+                    <KeyRound size={18} aria-hidden="true" />
+                    <p className="font-mono text-sm font-semibold">
+                      {item.name}
+                    </p>
+                  </div>
+                  <p className="mt-3 text-sm leading-6 text-secondary">
+                    {item.detail}
+                  </p>
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section className="px-6 py-16 md:px-10">
         <SectionHeading label="Contribution Map" title="Where to start">
           Start from the smallest area that owns the behavior. A UI-only change
           should usually stay in `src/app` or `src/components`; a data change
@@ -312,6 +598,79 @@ export default function DocsPage() {
               </p>
             </article>
           ))}
+        </div>
+      </section>
+
+      <section className="border-y border-black/10 bg-white px-6 py-16 md:px-10">
+        <div className="grid gap-12 lg:grid-cols-[0.85fr_1.15fr]">
+          <SectionHeading label="Debugging" title="Common setup problems">
+            Most contributor setup issues come from missing environment values,
+            skipped Prisma generation, database connection mismatches, or
+            expecting seed data to include full demo activity.
+          </SectionHeading>
+
+          <div className="grid gap-4">
+            {commonIssues.map((item) => (
+              <article
+                key={item.problem}
+                className="border border-black/10 p-5"
+              >
+                <div className="flex items-center gap-3">
+                  <AlertTriangle size={18} aria-hidden="true" />
+                  <h3 className="font-semibold">{item.problem}</h3>
+                </div>
+                <p className="mt-3 text-sm leading-6 text-secondary">
+                  {item.fix}
+                </p>
+              </article>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <section className="px-6 py-16 md:px-10">
+        <div className="grid gap-12 lg:grid-cols-[1fr_1fr]">
+          <div className="bg-black p-8 text-white">
+            <div className="flex items-center gap-3">
+              <GitPullRequest size={22} aria-hidden="true" />
+              <h2 className="text-2xl font-semibold">Pull request checklist</h2>
+            </div>
+            <div className="mt-8 grid gap-4">
+              {prChecklist.map((item, index) => (
+                <div key={item} className="flex gap-4">
+                  <span className="flex h-7 w-7 shrink-0 items-center justify-center border border-white/25 text-xs font-semibold">
+                    {index + 1}
+                  </span>
+                  <p className="text-sm leading-6 text-white/75">{item}</p>
+                </div>
+              ))}
+            </div>
+          </div>
+
+          <div className="border border-black/10 p-8">
+            <div className="flex items-center gap-3">
+              <Wrench size={22} aria-hidden="true" />
+              <h2 className="text-2xl font-semibold">Change strategy</h2>
+            </div>
+            <div className="mt-8 grid gap-5 text-sm leading-7 text-secondary">
+              <p>
+                Start with the smallest working change. If a fix only affects
+                one page, keep it in that page. If multiple pages need the same
+                behavior, move the repeated logic into a component or shared
+                helper.
+              </p>
+              <p>
+                For backend work, avoid putting business rules directly inside
+                API route handlers. Keep request handling in route/controller
+                files and place reusable behavior in services or repositories.
+              </p>
+              <p>
+                For database work, update the Prisma schema first, create the
+                migration, regenerate the client, and document any seed data
+                changes that reviewers need to run.
+              </p>
+            </div>
+          </div>
         </div>
       </section>
 

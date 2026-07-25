@@ -1,6 +1,5 @@
-import { NextResponse } from 'next/server';
+import { AdminController } from '@/modules/admin/admin.controller';
 
-export async function POST() {
-  // TODO: Implement NCERT seeding
-  return NextResponse.json({ message: 'Not implemented' }, { status: 501 });
+export async function POST(req: Request) {
+  return AdminController.seedNcert(req);
 }

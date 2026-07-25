@@ -21,6 +21,15 @@ export default defineConfig([
     },
   },
 
-  // Keep Next default ignores
-  globalIgnores(['.next/**', 'out/**', 'build/**', 'next-env.d.ts']),
+  // Keep generated artifacts and local diagnostics out of repo-wide lint.
+  globalIgnores([
+    '.next/**',
+    'out/**',
+    'build/**',
+    'next-env.d.ts',
+    'src/generated/prisma/**',
+    'scratch.mjs',
+    'test-next-cookies.mjs',
+    'src/test_cookies.js',
+  ]),
 ]);

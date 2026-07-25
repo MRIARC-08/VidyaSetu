@@ -1,6 +1,5 @@
-import { NextResponse } from 'next/server';
+import { AdminController } from '@/modules/admin/admin.controller';
 
-export async function POST() {
-  // TODO: Implement add question
-  return NextResponse.json({ message: 'Not implemented' }, { status: 501 });
+export async function POST(req: Request) {
+  return AdminController.addQuestion(req);
 }

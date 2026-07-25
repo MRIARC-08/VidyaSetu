@@ -1,12 +1,16 @@
 let refreshPromise: Promise<boolean> | null = null;
 
 const refresh = async (): Promise<boolean> => {
-  const res = await fetch('/api/auth/refresh', {
-    method: 'GET',
-    credentials: 'include',
-  });
+  try {
+    const res = await fetch('/api/auth/refresh', {
+      method: 'GET',
+      credentials: 'include',
+    });
 
-  return res.ok;
+    return res.ok;
+  } catch {
+    return false;
+  }
 };
 
 const authFetch = async ({
@@ -32,9 +36,31 @@ const authFetch = async ({
     }
   }
 
-  const result = await res.json();
+  const contentType = res.headers.get('content-type') ?? '';
+  const bodyText = await res.text();
 
-  return result;
+  if (!bodyText.trim()) {
+    return {
+      status: res.status,
+      message: res.statusText || 'No content',
+    };
+  }
+
+  if (contentType.includes('application/json')) {
+    try {
+      return JSON.parse(bodyText);
+    } catch {
+      return {
+        status: res.status,
+        message: res.statusText || 'Invalid JSON response',
+      };
+    }
+  }
+
+  return {
+    status: res.status,
+    message: bodyText.trim() || res.statusText || 'Request failed',
+  };
 };
 
 export default authFetch;

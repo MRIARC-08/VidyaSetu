@@ -1,11 +1,10 @@
 'use client';
+import { log } from '@/lib/logger';
 import authFetch from '@/lib/auth/authFetch';
-import { get, METHODS } from 'http';
-import { use, useEffect, useState } from 'react';
-import { object } from 'zod';
+import { useParams } from 'next/navigation';
+import { useEffect, useState, type ReactNode } from 'react';
 import { SubjectCatalogSkeleton } from '@/components/Skeletons';
 
-import { ReactNode } from 'react';
 import {
   Book,
   Zap,
@@ -30,21 +29,45 @@ interface Subjects {
   }[];
 }
 
-export default function page() {
-  const [user, setUser] = useState<any>();
+interface UserResponse {
+  user?: {
+    class?: string | number | null;
+  };
+}
+
+async function fetchUser() {
+  return authFetch({
+    url: '/api/user/getUser',
+    options: {
+      method: 'GET',
+    },
+  }) as Promise<UserResponse>;
+}
+
+async function fetchSubjects(classId: string) {
+  const res = await authFetch({
+    url: `/api/ncert/subjects?classId=${encodeURIComponent(classId)}`,
+    options: {
+      method: 'GET',
+    },
+  });
+
+  if (!Array.isArray(res.message) || res.message.length === 0) {
+    return [];
+  }
+
+  return res.message.map((subject: Subjects) => ({
+    ...subject,
+    chaptersLength: subject.chapters.length,
+  }));
+}
+
+export default function Page() {
+  const params = useParams<{ class: string }>();
+  const [user, setUser] = useState<UserResponse>();
   const [subs, setSubs] = useState<Subjects[]>([]);
-  const [chapter, setChapters] = useState(null);
   const [focusSubject, setFocusSubject] = useState<Subjects>();
   const [isLoading, setIsLoading] = useState(true);
-
-  const getUser = async () => {
-    const url = '/api/user/getUser';
-    const options = {
-      method: 'GET',
-    };
-    const user = await authFetch({ url, options });
-    setUser(user);
-  };
 
   const subjectIcons: Record<string, ReactNode> = {
     Mathematics: <Book />,
@@ -63,30 +86,53 @@ export default function page() {
     Hindi: <Book />,
   };
 
-  const getSubjects = async () => {
-    const url = '/api/ncert/subjects';
-    const options = {
-      method: 'GET',
-    };
-    const res = await authFetch({ url, options });
-
-    if (res.message.length > 0) {
-      const arr = Object.values(res.message) as Subjects[];
-      const data = arr.map((val) => {
-        return { ...val, chaptersLength: val.chapters.length };
-      });
-
-      setSubs(data);
-      console.log(data);
-      setFocusSubject(arr[0]);
-    }
-  };
+  const [completedChapterIds, setCompletedChapterIds] = useState<Set<string>>(
+    new Set()
+  );
 
   useEffect(() => {
-    Promise.all([getUser(), getSubjects()]).finally(() => {
-      setIsLoading(false);
-    });
-  }, []);
+    let isMounted = true;
+
+    const fetchQuizHistory = async () => {
+      try {
+        const res = await authFetch({
+          url: '/api/quiz/history?limit=100',
+          options: { method: 'GET' },
+        });
+        if (res && res.data && Array.isArray(res.data.sessions)) {
+          const completed = new Set<string>();
+          res.data.sessions.forEach((s: { completedAt?: string; quiz?: { chapterId?: string } }) => {
+            if (s.completedAt && s.quiz && s.quiz.chapterId) {
+              completed.add(s.quiz.chapterId);
+            }
+          });
+          return completed;
+        }
+      } catch (err) {
+        log.error('Failed to fetch quiz history', err);
+      }
+      return new Set<string>();
+    };
+
+    Promise.all([fetchUser(), fetchSubjects(params.class), fetchQuizHistory()])
+      .then(([nextUser, subjects, completedChapters]) => {
+        if (!isMounted) return;
+
+        setUser(nextUser);
+        setSubs(subjects);
+        setFocusSubject(subjects[0]);
+        setCompletedChapterIds(completedChapters);
+      })
+      .finally(() => {
+        if (isMounted) {
+          setIsLoading(false);
+        }
+      });
+
+    return () => {
+      isMounted = false;
+    };
+  }, [params.class]);
 
   if (isLoading) {
     return <SubjectCatalogSkeleton />;
@@ -109,6 +155,16 @@ export default function page() {
         <div className="flex justify-end font-semibold"></div>
         <div className="grid md:grid-cols-3 grid-cols-2 gap-4 transition-all duration-300 ">
           {subs.map((val: Subjects) => {
+            const chapters = val.chapters || [];
+            const completedCount = chapters.filter((ch: { id: string }) =>
+              completedChapterIds.has(ch.id)
+            ).length;
+            const totalCount = chapters.length;
+            const progressPercentage =
+              totalCount > 0
+                ? Math.round((completedCount / totalCount) * 100)
+                : 0;
+
             return (
               <div
                 key={val.id}
@@ -117,30 +173,34 @@ export default function page() {
               >
                 <div>
                   <div>{subjectIcons[val.name.split(' ')[0]]}</div>
-                  <div className="flex justify-between">
-                    <p>{val.name}</p>
-                    <div className="flex flex-col justify-center items-center">
-                      <p>70%</p>
-                      <p className="text-[12px]">Completed</p>
+                  <div className="flex justify-between items-center mb-2">
+                    <p className="font-semibold">{val.name}</p>
+                    <div className="flex flex-col justify-center items-end">
+                      <p className="text-sm font-bold">{progressPercentage}%</p>
+                      <p className="text-[10px] text-muted-foreground whitespace-nowrap">
+                        {completedCount} of {totalCount} practiced
+                      </p>
                     </div>
                   </div>
-                  <div className="w-full h-2 bg-accent/14">
-                    <div className="w-[70%] h-full bg-black"></div>
+                  <div className="w-full h-2 bg-accent/14 rounded-full overflow-hidden">
+                    <div
+                      className="h-full bg-black rounded-full"
+                      style={{ width: `${progressPercentage}%` }}
+                    ></div>
                   </div>
                 </div>
 
                 <a
                   className="bg-white text-[14px] font-bold p-3 mt-4 text-center hover:bg-primary cursor-pointer hover:text-white transition-all duration-300"
-                  href={`/ncert/${user?.user?.class}/${val.id}`}
+                  href={`/ncert/${params.class}/${val.id}`}
                 >
-                  VIER CURRICULAM
+                  VIEW CURRICULUM
                 </a>
               </div>
             );
           })}
         </div>
       </div>
-
     </div>
   );
 }

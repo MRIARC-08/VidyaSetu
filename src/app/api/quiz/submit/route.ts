@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { NextResponse } from 'next/server';
 import { cookies } from 'next/headers';
 import { jwtService } from '@/lib/auth/jwt';
@@ -100,4 +101,10 @@ export async function POST(req: Request) {
       { status: 500 }
     );
   }
+=======
+import { QuizControllers } from '@/modules/quiz/quiz.controller';
+
+export async function POST(req: Request) {
+  return QuizControllers.submit(req);
+>>>>>>> upstream/main
 }

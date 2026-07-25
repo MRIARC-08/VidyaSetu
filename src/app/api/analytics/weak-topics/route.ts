@@ -1,6 +1,5 @@
-import { NextResponse } from 'next/server';
+import { AnalyticsController } from '@/modules/analytics/analytics.controller';
 
-export async function GET() {
-  // TODO: Implement weak topics analysis
-  return NextResponse.json({ message: 'Not implemented' }, { status: 501 });
+export async function GET(req: Request) {
+  return AnalyticsController.getWeakTopics(req);
 }

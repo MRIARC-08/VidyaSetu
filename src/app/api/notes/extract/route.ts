@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { NextResponse } from 'next/server';
 import { cookies } from 'next/headers';
 import { jwtService } from '@/lib/auth/jwt';
@@ -94,4 +95,10 @@ export async function POST(req: Request) {
       { status: 500 }
     );
   }
+=======
+import { errorResponse } from '@/lib/api-response';
+
+export async function POST() {
+  return errorResponse('Not implemented', 501);
+>>>>>>> upstream/main
 }

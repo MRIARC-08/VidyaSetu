@@ -1,4 +1,3 @@
-import { SetCookies } from '@/lib/auth/cookies';
 import UserRepository from './user.repository';
 
 type UserUpdateData = {
@@ -13,24 +12,15 @@ type UserUpdateData = {
 };
 
 export default class UserServices {
-  static async getUser() {
-    const access_token = await SetCookies.verifyCookies();
-
-    if (!access_token) {
-      throw new Error('nahh!! something is wrong with the accestoken ');
-    }
-
-    return await UserRepository.getUser(access_token.sub);
+  static async getUser(userId: string) {
+    return await UserRepository.getUser(userId);
   }
 
-  static async updateUser(payload: UserUpdateData | { data: UserUpdateData }) {
-    const access_token = await SetCookies.verifyCookies();
-    if (!access_token) {
-      throw new Error('nahh!! something is wrong with the accestoken ');
-    }
-
+  static async updateUser(
+    userId: string,
+    payload: UserUpdateData | { data: UserUpdateData }
+  ) {
     const rawData = 'data' in payload && payload.data ? payload.data : payload;
-
     const cleanedData = Object.fromEntries(
       Object.entries(rawData).filter(
         ([, value]) => value !== undefined && value !== null
@@ -42,7 +32,7 @@ export default class UserServices {
     }
 
     return await UserRepository.updateUser({
-      userId: access_token.sub,
+      userId,
       data: cleanedData,
     });
   }

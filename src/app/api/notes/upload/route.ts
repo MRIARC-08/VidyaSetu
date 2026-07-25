@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { NextResponse } from 'next/server';
 import { cookies } from 'next/headers';
 import { jwtService } from '@/lib/auth/jwt';
@@ -116,4 +117,10 @@ export async function POST(req: Request) {
       { status: 500 }
     );
   }
+=======
+import { NotesControllers } from '@/modules/notes/notes.controller';
+
+export async function POST(request: Request) {
+  return NotesControllers.upload(request);
+>>>>>>> upstream/main
 }

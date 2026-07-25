@@ -1,11 +1,7 @@
-import authFetch from '@/lib/auth/authFetch';
-import { jwtService } from '@/lib/auth/jwt';
+import { authenticate } from '@/lib/middleware/auth.middleware';
 
-import UserController from '@/modules/user/user.controller';
 import UserRepository from '@/modules/user/user.repository';
 import UserServices from '@/modules/user/user.service';
-import { Decimal } from '@prisma/client/runtime/client';
-import { constants } from 'buffer';
 import { cookies, headers } from 'next/headers';
 import { redirect } from 'next/navigation';
 
@@ -19,9 +15,10 @@ async function Layout({
   const pathname = headersList.get('x-pathname');
 
   try {
-    res = await UserServices.getUser();
-  } catch (error: any) {
-    if (error.message === 'jwt expired') {
+    const auth = await authenticate();
+    res = await UserServices.getUser(auth.userId);
+  } catch (error) {
+    if (error instanceof Error && error.message === 'jwt expired') {
       const cookieStore = await cookies();
 
       const refresh = await fetch(
@@ -36,16 +33,10 @@ async function Layout({
       );
 
       const { userId } = await refresh.json();
-      // console.log(accessToken, "token=========")
-
-      // const decoded =  jwtService.verifyAccessToken(accessToken)
-      // console.log(decoded)
 
       if (refresh.ok) {
         res = await UserRepository.getUser(userId);
       }
-      // console.log('==layout refresh route status:', refresh.status);
-      // console.log(await refresh.json());
     }
   }
 

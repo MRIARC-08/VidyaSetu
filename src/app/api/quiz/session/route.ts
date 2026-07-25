@@ -1,6 +1,5 @@
-import { NextResponse } from 'next/server';
+import { QuizControllers } from '@/modules/quiz/quiz.controller';
 
-export async function GET() {
-  // TODO: Implement quiz session retrieval
-  return NextResponse.json({ message: 'Not implemented' }, { status: 501 });
+export async function GET(req: Request) {
+  return QuizControllers.getSession(req);
 }
