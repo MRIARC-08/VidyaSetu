@@ -18,7 +18,8 @@ export default function MainLayout({ children }: PropsWithChildren) {
   //     method: 'GET',
   //     credentials: 'include',
   //   });
-  //   const user = await res.json();
+  //   if (!res.ok) throw new Error("Request failed");
+const user = await res.json();
   //   setUser(user.profile);
   //   if (user.message == 'jwt expired') {
   //     const r = await fetch('/api/auth/refresh', {
