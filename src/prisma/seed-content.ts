@@ -188,7 +188,7 @@ async function seedChapterContent() {
     return result;
   }
 
-  const classFolders = (await readdir(learnerMdRoot)).sort();
+  const classFolders = (await readdir(learnerMdRoot)).sort((a, b) => a - b);
 
   for (const classFolder of classFolders) {
     const grade = parseGrade(classFolder);
@@ -203,7 +203,7 @@ async function seedChapterContent() {
       continue;
     }
 
-    const subjectFolders = (await readdir(classPath)).sort();
+    const subjectFolders = (await readdir(classPath)).sort((a, b) => a - b);
 
     for (const subjectFolder of subjectFolders) {
       const subjectPath = path.join(classPath, subjectFolder);
@@ -240,7 +240,7 @@ async function seedChapterContent() {
         continue;
       }
 
-      const chapterFiles = (await readdir(subjectPath)).sort();
+      const chapterFiles = (await readdir(subjectPath)).sort((a, b) => a - b);
 
       for (const chapterFile of chapterFiles) {
         const order = parseChapterOrder(chapterFile);
