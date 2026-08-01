@@ -52,7 +52,8 @@ export default function Recommendations() {
 
         // Future API integration
         // const res = await fetch('/api/analytics/weak-topics');
-        // const json = await res.json();
+        // if (!res.ok) throw new Error("Request failed");
+const json = await res.json();
         // setData(json);
 
         await new Promise((r) => setTimeout(r, 700)); // mock delay
