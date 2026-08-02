@@ -250,13 +250,13 @@ export default class AnalyticsService {
 
     if (params.from) {
       fromDate = new Date(params.from);
-      if (isNaN(fromDate.getTime())) {
+      if (Number.isNaN(fromDate.getTime())) {
         throw new WeakTopicAnalyticsError('Invalid from date format', 400);
       }
     }
     if (params.to) {
       toDate = new Date(params.to);
-      if (isNaN(toDate.getTime())) {
+      if (Number.isNaN(toDate.getTime())) {
         throw new WeakTopicAnalyticsError('Invalid to date format', 400);
       }
     }
