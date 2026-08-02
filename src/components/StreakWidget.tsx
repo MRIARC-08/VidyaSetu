@@ -121,7 +121,7 @@ export function StreakWidget({
                   {day.active ? (
                     <Flame className="size-4 fill-white text-white animate-bounce-subtle" />
                   ) : (
-                    day.day.charAt(0)
+                    day.day[0]
                   )}
                 </div>
                 <span className="text-[10px] text-muted-foreground font-semibold">
