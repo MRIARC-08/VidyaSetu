@@ -49,7 +49,7 @@ export default class AnalyticsService {
         })
     );
 
-    const mappedDailyActivity = dailyActivity.map((date) => {
+    const mappedDailyActivity = (dailyActivity ?? []).map((date) => {
       const dayName = date.toLocaleDateString('en-US', {
         weekday: 'short',
         timeZone: 'UTC',
