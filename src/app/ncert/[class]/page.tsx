@@ -56,7 +56,7 @@ async function fetchSubjects(classId: string) {
     return [];
   }
 
-  return res.message.map((subject: Subjects) => ({
+  return res.(message ?? []).map((subject: Subjects) => ({
     ...subject,
     chaptersLength: subject.chapters.length,
   }));

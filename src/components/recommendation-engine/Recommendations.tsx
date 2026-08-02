@@ -115,7 +115,7 @@ const json = await res.json();
         <div>
           <h3 className="text-sm font-semibold mb-2">Weak Topics</h3>
           <div className="space-y-2">
-            {data.weakTopics.map((item, idx) => (
+            {data.(weakTopics ?? []).map((item, idx) => (
               <div key={idx} className="p-3 rounded-lg border bg-muted/30">
                 <div className="flex justify-between">
                   <span className="font-medium">{item.topic}</span>
