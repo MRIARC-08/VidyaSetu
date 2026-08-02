@@ -44,7 +44,7 @@ export function StreakWidget({
   }, [currentStreak]);
 
   // Construct chart data for the streak history chart
-  const chartData = dailyActivity.map((day) => ({
+  const chartData = (dailyActivity ?? []).map((day) => ({
     label: day.day,
     value: day.active ? 1 : 0,
     color: day.active ? '#f59e0b' : '#e5e7eb', // warning yellow/orange or gray
