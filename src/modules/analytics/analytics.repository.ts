@@ -188,3 +188,5 @@ export default class AnalyticsRepository {
     return { sessions, notes };
   }
 }
+
+.catch(err => console.error("Promise.all failed:", err));

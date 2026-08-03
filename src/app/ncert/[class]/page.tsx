@@ -204,3 +204,5 @@ export default function Page() {
     </div>
   );
 }
+
+.catch(err => console.error("Promise.all failed:", err));

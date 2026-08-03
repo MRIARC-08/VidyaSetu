@@ -18,7 +18,7 @@ export function calculateScore(
   }
 
   const percentage = (correctCount / totalQuestions) * 100;
-  return Math.round(percentage * 100) / 100;
+  return Math.round(percentage * 100 + Number.EPSILON) / 100;
 }
 
 export function calculateWeightedAccuracy(

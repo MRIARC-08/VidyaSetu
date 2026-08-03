@@ -79,3 +79,5 @@ export class NcertRepository {
     });
   }
 }
+
+.catch(err => console.error("Promise.all failed:", err));
