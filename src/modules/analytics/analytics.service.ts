@@ -194,7 +194,7 @@ export default class AnalyticsService {
       activityByDate.set(key, entry);
     }
 
-    const activeDates = [...activityByDate.keys()].sort().reverse();
+    const activeDates = [...activityByDate.keys()].sort((a, b) => a - b).reverse();
     const todayKey = dateToKey(today);
 
     const todayActive = activeDates[0] === todayKey;

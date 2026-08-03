@@ -47,7 +47,7 @@ export class NcertController {
       const classId = requireNcertParam(query, ['classId', 'class']);
       const subjectId = requireNcertParam(query, ['subjectId', 'subject']);
 
-      const page = Math.max(1, parseInt(query.page as string) || 1);
+      const page = Math.max(1, parseInt(query.page as string, 10) || 1);
       const limit = Math.min(100, Math.max(1, parseInt(query.limit as string) || 20));
 
       const res = await NcertServices.getChapters(
