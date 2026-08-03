@@ -188,7 +188,7 @@ async function seedChapterContent() {
     return result;
   }
 
-  const classFolders = (await readdir(learnerMdRoot)).sort();
+  const classFolders = (await readdir(learnerMdRoot)).sort((a, b) => a - b);
 
   for (const classFolder of classFolders) {
     const grade = parseGrade(classFolder);
