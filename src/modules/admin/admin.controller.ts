@@ -113,6 +113,18 @@ export class AdminController {
     }
   }
 
+  static async getChapter(_request: Request, chapterId: string) {
+    try {
+      await requireAdmin();
+
+      const chapter = await AdminServices.getChapter(chapterId);
+
+      return NextResponse.json({ data: chapter });
+    } catch (error) {
+      return handleAdminError(error);
+    }
+  }
+
   static async deleteQuestion(request: Request, questionId: string) {
     try {
       const admin = await requireAdmin();

@@ -66,4 +66,14 @@ export class NcertServices {
 
     return chapter;
   }
+
+  static async updateChapterContent(
+  chapterId: string,
+  content: string
+) {
+  return NcertRepository.updateChapterContent(
+    chapterId,
+    content
+  );
+}
 }
