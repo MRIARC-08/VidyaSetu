@@ -1,6 +1,7 @@
 import { NextResponse } from 'next/server';
 import { ZodError } from 'zod';
 import { SetCookies } from '@/lib/auth/cookies';
+import { createHash } from 'crypto';
 
 import { NcertServices } from './ncert.service';
 import { parseNcertQuery, requireNcertParam } from './ncert.validator';
@@ -63,7 +64,6 @@ export class NcertController {
       return handleNcertError(error);
     }
   }
-
   static async getChapter(req: Request) {
     try {
       const query = parseNcertQuery(req.url);
@@ -73,7 +73,22 @@ export class NcertController {
 
       const res = await NcertServices.getChapter(chapterId, subjectId, classId);
 
-      return NextResponse.json({ status: 200, message: res });
+      const body = JSON.stringify({ status: 200, message: res });
+      const etag = `"${createHash('md5').update(body).digest('hex')}"`;
+
+      const ifNoneMatch = req.headers.get('if-none-match');
+      if (ifNoneMatch === etag) {
+        return new NextResponse(null, { status: 304 });
+      }
+
+      return new NextResponse(body, {
+        status: 200,
+        headers: {
+          'Content-Type': 'application/json',
+          'Cache-Control': 'public, max-age=3600, stale-while-revalidate=86400',
+          ETag: etag,
+        },
+      });
     } catch (error) {
       return handleNcertError(error);
     }
