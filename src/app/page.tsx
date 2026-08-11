@@ -73,7 +73,7 @@ export default function Home() {
         <div className="flex flex-col gap-10 pt-16 md:pt-20 lg:flex-row lg:items-center lg:gap-14 xl:pt-24">
           <div className="flex-1 flex flex-col gap-7 lg:gap-9">
             <p className="text-[11px] uppercase tracking-[0.22em] text-secondary/90">
-              Built for Classes 9-12
+              AI-POWERED QUIZ PLATFORM
             </p>
             <p className="max-w-[18ch] text-[40px] font-light leading-[1.03] sm:text-[52px] lg:text-[62px] xl:text-[74px] 2xl:text-[82px]">
               Study NCERT better, one focused session at a time.

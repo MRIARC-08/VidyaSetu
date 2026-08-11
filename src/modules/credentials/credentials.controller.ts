@@ -4,7 +4,7 @@ import { CredentialsService, CredentialServiceError } from './credentials.servic
 
 const handleError = (error: unknown) => {
   if (error instanceof CredentialServiceError) {
-    return NextResponse.json({ success: false, message: error.message }, { status: error.statusCode });
+    return NextResponse.json({ success: false, message: error.message, code: error.code }, { status: error.statusCode });
   }
   return NextResponse.json({ success: false, message: 'Internal server error' }, { status: 500 });
 };
