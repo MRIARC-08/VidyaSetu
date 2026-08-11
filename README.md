@@ -18,6 +18,7 @@ VidyaSetu helps students move from passive studying to structured practice with 
 - [GSSoC 2026](#gssoc-2026)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
+- [Project Directory Guide](#project-directory-guide)
 - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
 - [Environment Setup](#environment-setup)
