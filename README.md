@@ -18,6 +18,7 @@ VidyaSetu helps students move from passive studying to structured practice with 
 - [GSSoC 2026](#gssoc-2026)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
+- [Project Directory Guide](#project-directory-guide)
 - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
 - [Environment Setup](#environment-setup)
@@ -69,6 +70,25 @@ Contributors can start by checking issues labeled:
 - FastAPI
 - Sentence Transformers
 - LangChain with Groq
+
+## Project Directory Guide
+
+Here is a quick overview of the primary directories in this repository to help you locate where to make changes:
+
+- **`.github/`**: Contains automated GitHub Actions workflows and repository CI/CD configurations.
+
+- **`docs/`**: Stores developer documentation, architecture notes, and setup guides.
+
+- **`prisma/`**: Contains the database schema (`schema.prisma`), seed scripts, and migration history.
+
+- **`public/`**: Stores static assets such as images, logos, and icons served by Next.js.
+
+- **`seed-data/`**: Holds NCERT academic structure data and learner-facing markdown files used for database seeding.
+
+- **`services/ai/`**: A standalone FastAPI Python backend handling AI features, embeddings, and model inferences (LangChain/Groq).
+
+- **`src/`**: Primary Next.js web application code, including pages, UI components, and API routes.
+
 
 ## Getting Started
 
