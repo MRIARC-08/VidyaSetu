@@ -25,7 +25,7 @@ Start writing your chapter content here...
       try {
         const res = await fetch(`/api/admin/chapters/${chapterId}`);
         const data = await res.json();
-        console.log(data);
+
         if (data.data) {
           const savedDraft = localStorage.getItem(DRAFT_KEY);
 
@@ -109,7 +109,7 @@ Start writing your chapter content here...
                   }),
                 });
                 const data = await res.json();
-                console.log('SAVE RESPONSE:', data);
+
                 if (!res.ok) {
                   alert(data.message || 'Failed to save chapter');
                   return;
