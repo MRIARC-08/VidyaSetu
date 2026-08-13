@@ -13,27 +13,6 @@ export default function MainLayout({ children }: PropsWithChildren) {
     return <div className="flex-1">{children}</div>;
   }
 
-  // const getUser = async () => {
-  //   const res = await fetch('/api/profile/getProfile', {
-  //     method: 'GET',
-  //     credentials: 'include',
-  //   });
-  //   if (!res.ok) throw new Error("Request failed");
-const user = await res.json();
-  //   setUser(user.profile);
-  //   if (user.message == 'jwt expired') {
-  //     const r = await fetch('/api/auth/refresh', {
-  //       method: 'GET',
-  //       credentials: 'include',
-  //     });
-  //     const p = await r.json();
-  //     getUser();
-  //   }
-  // };
-
-  // useEffect(() => {
-  //   getUser();
-  // }, []);
 
   const elements = [
     {
