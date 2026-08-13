@@ -23,7 +23,6 @@
     "@faker-js/faker": "^10.5.0",
     "@prisma/adapter-pg": "^7.9.1",
     "@prisma/client": "^7.9.1",
-    "base64": "^2.1.0",
     "bcrypt": "^6.0.0",
     "class-variance-authority": "^0.7.1",
     "cloudinary": "^2.10.0",
