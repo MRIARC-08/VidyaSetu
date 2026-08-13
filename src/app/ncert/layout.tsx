@@ -17,8 +17,8 @@ async function Layout({
   try {
     const auth = await authenticate();
     res = await UserServices.getUser(auth.userId);
-  } catch (error: any) {
-    if (error.message === 'jwt expired') {
+  } catch (error) {
+    if (error instanceof Error && error.message === 'jwt expired') {
       const cookieStore = await cookies();
 
       const refresh = await fetch(

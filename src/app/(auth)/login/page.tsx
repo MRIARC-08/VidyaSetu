@@ -1,19 +1,19 @@
 'use client';
-import { Card } from '@/components/ui/card';
 import Image from 'next/image';
 import book from '@/assets/book.png';
-import { Input } from '@/components/ui/input';
+import Link from 'next/link';
 import { Button } from '@/components/ui/button';
-import { Label } from 'radix-ui';
+import { Input } from '@/components/ui/input';
 import { useRouter } from 'next/navigation';
 import { useState } from 'react';
-import { tuple } from 'zod';
 import { signIn } from 'next-auth/react';
 
 export default function LoginPage() {
   const [email, setEmail] = useState<string>('');
   const [password, setPassword] = useState<string>('');
   const [err, setErr] = useState<string>('');
+  const [isLoading, setIsLoading] = useState<boolean>(false);
+  const [showPassword, setShowPassword] = useState<boolean>(false);
   const router = useRouter();
 
   const handleSubmit = async (e: React.SyntheticEvent<HTMLFormElement>) => {
@@ -24,26 +24,35 @@ export default function LoginPage() {
       return;
     }
 
-    const user = await fetch('/api/auth/login', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({ email, password }),
-      credentials: 'include',
-    });
+    setIsLoading(true);
+    try {
+      const user = await fetch('/api/auth/login', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email, password }),
+        credentials: 'include',
+      });
 
-    const result = await user.json();
+      const result = await user.json();
 
-    if (!user.ok || !result.user) {
-      setErr(result.message || result.error || 'Login failed. Please check your credentials.');
-      return;
-    }
+      if (!user.ok || !result.user) {
+        setErr(
+          result.message ||
+            result.error ||
+            'Login failed. Please check your credentials.'
+        );
+        return;
+      }
 
-    if (result.user.firstTime) {
-      router.push('/profile');
-    } else {
-      router.push('/dashboard');
+      if (result.user.firstTime) {
+        router.push('/profile');
+      } else {
+        router.push('/dashboard');
+      }
+    } catch {
+      setErr('Network error. Please try again.');
+    } finally {
+      setIsLoading(false);
     }
   };
 
@@ -163,9 +172,42 @@ export default function LoginPage() {
         </p>
       </div>
       <div className="flex-1 h-screen pr-10 pt-2">
-        <p className="flex justify-end text-[14px]">
-          Need help? <span className="pl-2 text-button"> Contact Support</span>
-        </p>
+        <div className="flex flex-col gap-2 px-4">
+          <div className="flex justify-between items-center text-[14px] text-black/60">
+            <Link
+              href="/"
+              className="text-button text-[14px] hover:underline flex items-center gap-1"
+            >
+              <svg
+                width="16"
+                height="16"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              >
+                <line x1="19" y1="12" x2="5" y2="12" />
+                <polyline points="12 19 5 12 12 5" />
+              </svg>
+              Back to Home
+            </Link>
+            <p className="text-[14px]">
+              Need help?{' '}
+              <span className="pl-2 text-button"> Contact Support</span>
+            </p>
+          </div>
+          <div className="flex justify-center pt-2 text-[14px] text-black/60 md:hidden">
+            New here?{' '}
+            <Link
+              href="/register"
+              className="pl-1 text-button font-bold hover:underline"
+            >
+              Create an account
+            </Link>
+          </div>
+        </div>
 
         <div className="w-full h-full flex justify-center flex-col items-center">
           <div className="w-[80%] h-[60%] flex flex-col gap-8 ">
@@ -177,8 +219,25 @@ export default function LoginPage() {
             </div>
 
             <div className="text-black flex flex-col justify-center items-center gap-6">
+              <div className="w-full md:w-[60%] flex flex-col gap-2">
+                <p className="text-center text-[14px] text-black/60">
+                  New to VidyaSetu?
+                </p>
+                <Button
+                  className="w-full bg-button text-white font-bold hover:bg-button/90"
+                  onClick={() => router.push('/register')}
+                >
+                  Create an Account
+                </Button>
+              </div>
+
+              <div className="w-full flex justify-center items-center gap-1 text-black/40">
+                <hr className="h-[2px] bg-black/10 flex-1" />
+                <p className="w-max">Already have an account? Sign in below</p>
+                <hr className="h-[2px] bg-black/10 flex-1" />
+              </div>
               <Button
-                className="text-black bg-primary-foreground md:w-[60%] w-full"
+                className="text-gray-800 bg-white border border-gray-300 hover:bg-gray-50 md:w-[60%] w-full"
                 onClick={handleLoginWithGoogle}
               >
                 <div>
@@ -242,16 +301,62 @@ export default function LoginPage() {
                 <div className="gap-2 flex flex-col">
                   <div className="flex justify-between items-center">
                     <label htmlFor="password"> Password</label>
-                    <p className="text-button text-[14px]">Forgot password?</p>
+                    <p className="text-button text-[14px] cursor-pointer select-none">
+                      Forgot password?
+                    </p>
                   </div>
 
-                  <Input
-                    className="bg-primary-foreground"
-                    placeholder="••••••••"
-                    id="password"
-                    value={password}
-                    onChange={(e) => setPassword(e.target.value)}
-                  ></Input>
+                  <div className="relative">
+                    <Input
+                      className="bg-primary-foreground pr-10"
+                      type={showPassword ? 'text' : 'password'}
+                      placeholder="••••••••"
+                      id="password"
+                      value={password}
+                      onChange={(e) => setPassword(e.target.value)}
+                    />
+                    <button
+                      type="button"
+                      aria-label={
+                        showPassword ? 'Hide password' : 'Show password'
+                      }
+                      className="absolute right-3 top-1/2 -translate-y-1/2 text-black/40 hover:text-black/70"
+                      onClick={() => setShowPassword((prev) => !prev)}
+                    >
+                      {showPassword ? (
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          width="18"
+                          height="18"
+                          viewBox="0 0 24 24"
+                          fill="none"
+                          stroke="currentColor"
+                          strokeWidth="2"
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
+                        >
+                          <path d="M17.94 17.94A10.07 10.07 0 0 1 12 20c-7 0-11-8-11-8a18.45 18.45 0 0 1 5.06-5.94" />
+                          <path d="M9.9 4.24A9.12 9.12 0 0 1 12 4c7 0 11 8 11 8a18.5 18.5 0 0 1-2.16 3.19" />
+                          <line x1="1" y1="1" x2="23" y2="23" />
+                        </svg>
+                      ) : (
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          width="18"
+                          height="18"
+                          viewBox="0 0 24 24"
+                          fill="none"
+                          stroke="currentColor"
+                          strokeWidth="2"
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
+                        >
+                          <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z" />
+                          <circle cx="12" cy="12" r="3" />
+                        </svg>
+                      )}
+                    </button>
+                  </div>
                 </div>
 
                 <div className="flex text-center gap-1 items-center text-black/60 text-[14px] ">
@@ -261,9 +366,10 @@ export default function LoginPage() {
 
                 <div>
                   <Input
-                    className="bg-button text-white capitalize font-bold hover:bg-button/90 cursor-pointer transition-all duration-300 ease-in"
+                    className="bg-button text-white capitalize font-bold hover:bg-button/90 cursor-pointer transition-all duration-300 ease-in disabled:opacity-50 disabled:cursor-not-allowed"
                     type="submit"
-                    value="log in"
+                    value={isLoading ? 'Logging in...' : 'log in'}
+                    disabled={isLoading}
                   ></Input>
                 </div>
 
@@ -272,14 +378,14 @@ export default function LoginPage() {
                 </p>
               </form>
 
-              <p>
-                Don't have an account?{' '}
-                <span
-                  className="text-button cursor-pointer"
-                  onClick={() => router.push('/register')}
+              <p className="text-center text-[14px] text-black/60">
+                Don&apos;t have an account?{' '}
+                <Link
+                  href="/register"
+                  className="text-button font-semibold hover:underline"
                 >
                   Sign up for free
-                </span>
+                </Link>
               </p>
             </div>
           </div>

@@ -9,13 +9,21 @@ type MarkdownRendererProps = {
 };
 
 type MarkdownBlock =
-  | { type: 'heading'; level: 1 | 2 | 3; text: string }
+  | { type: 'heading'; level: 1 | 2 | 3 | 4; text: string }
   | { type: 'paragraph'; text: string }
   | { type: 'list'; ordered: boolean; items: string[] }
   | { type: 'blockquote'; text: string }
   | { type: 'code'; language: string; text: string }
   | { type: 'table'; headers: string[]; rows: string[][] }
   | { type: 'hr' };
+
+const generateId = (text: string) =>
+  text
+    .toLowerCase()
+    .replace(/[^\w\s-]/g, '')
+    .replace(/\s+/g, '-')
+    .replace(/-+/g, '-')
+    .trim();
 
 const safeUrl = (url: string) => {
   if (url.startsWith('/') || url.startsWith('#')) {
@@ -44,7 +52,7 @@ const parseTableRow = (line: string) =>
     .map((cell) => cell.trim());
 
 const isBlockStart = (line: string) =>
-  /^#{1,3}\s+/.test(line) ||
+  /^#{1,4}\s+/.test(line) ||
   /^[-*_]{3,}\s*$/.test(line) ||
   /^>\s?/.test(line) ||
   /^[-*]\s+/.test(line) ||
@@ -103,11 +111,11 @@ const parseMarkdown = (content: string): MarkdownBlock[] => {
       continue;
     }
 
-    const heading = trimmed.match(/^(#{1,3})\s+(.+)$/);
+    const heading = trimmed.match(/^(#{1,4})\s+(.+)$/);
     if (heading) {
       blocks.push({
         type: 'heading',
-        level: heading[1].length as 1 | 2 | 3,
+        level: heading[1].length as 1 | 2 | 3 | 4,
         text: heading[2],
       });
       index += 1;
@@ -267,13 +275,18 @@ const renderHighlightedCode = (code: string): ReactNode[] => {
 };
 
 const renderBlock = (block: MarkdownBlock, index: number) => {
+  const blockKey = `${block.type}-${index}-${'text' in block ? block.text.slice(0, 20) : ''}`;
+
   switch (block.type) {
-    case 'heading':
+    case 'heading': {
+      const headingId = generateId(block.text);
+
       if (block.level === 1) {
         return (
           <h1
+            id={headingId}
             className="mt-2 border-b border-primary/20 pb-4 text-3xl font-extrabold leading-tight text-primary md:text-4xl"
-            key={index}
+            key={blockKey}
           >
             {renderInline(block.text)}
           </h1>
@@ -283,25 +296,40 @@ const renderBlock = (block: MarkdownBlock, index: number) => {
       if (block.level === 2) {
         return (
           <h2
+            id={headingId}
             className="mt-10 text-2xl font-bold leading-tight text-primary"
-            key={index}
+            key={blockKey}
           >
             {renderInline(block.text)}
           </h2>
         );
       }
 
+      if (block.level === 3) {
+        return (
+          <h3
+            id={headingId}
+            className="mt-8 text-xl font-semibold leading-snug text-primary"
+            key={index}
+          >
+            {renderInline(block.text)}
+          </h3>
+        );
+      }
+
       return (
-        <h3
-          className="mt-8 text-xl font-semibold leading-snug text-primary"
-          key={index}
+        <h4
+          id={headingId}
+          className="mt-6 text-lg font-semibold leading-snug text-primary"
+          key={blockKey}
         >
           {renderInline(block.text)}
-        </h3>
+        </h4>
       );
+    }
     case 'paragraph':
       return (
-        <p className="my-4 text-base leading-7 text-primary/80" key={index}>
+        <p className="my-4 text-base leading-7 text-primary/80" key={blockKey}>
           {renderInline(block.text)}
         </p>
       );
@@ -314,10 +342,10 @@ const renderBlock = (block: MarkdownBlock, index: number) => {
             'my-5 space-y-2 pl-6 text-primary/80',
             block.ordered ? 'list-decimal' : 'list-disc'
           )}
-          key={index}
+          key={blockKey}
         >
           {block.items.map((item, itemIndex) => (
-            <li className="leading-7" key={`${index}-${itemIndex}`}>
+            <li className="leading-7" key={`${blockKey}-${itemIndex}`}>
               {renderInline(item)}
             </li>
           ))}
@@ -328,14 +356,14 @@ const renderBlock = (block: MarkdownBlock, index: number) => {
       return (
         <blockquote
           className="my-6 border-l-4 border-primary bg-white px-5 py-3 text-primary/75"
-          key={index}
+          key={blockKey}
         >
           {renderInline(block.text)}
         </blockquote>
       );
     case 'code':
       return (
-        <div className="my-6 overflow-hidden bg-primary" key={index}>
+        <div className="my-6 overflow-hidden bg-primary" key={blockKey}>
           {block.language && (
             <div className="border-b border-white/10 px-4 py-2 font-mono text-xs uppercase text-primary-foreground/60">
               {block.language}
@@ -352,7 +380,7 @@ const renderBlock = (block: MarkdownBlock, index: number) => {
       return (
         <div
           className="my-6 w-full overflow-x-auto border border-primary/15 bg-white"
-          key={index}
+          key={blockKey}
         >
           <table className="w-full min-w-[640px] border-collapse text-left text-sm">
             <thead>
@@ -360,7 +388,7 @@ const renderBlock = (block: MarkdownBlock, index: number) => {
                 {block.headers.map((header, headerIndex) => (
                   <th
                     className="border-b border-primary/15 bg-accent/20 px-4 py-3 font-bold text-primary"
-                    key={`${index}-header-${headerIndex}`}
+                    key={`${blockKey}-header-${headerIndex}`}
                   >
                     {renderInline(header)}
                   </th>
@@ -369,11 +397,11 @@ const renderBlock = (block: MarkdownBlock, index: number) => {
             </thead>
             <tbody>
               {block.rows.map((row, rowIndex) => (
-                <tr key={`${index}-row-${rowIndex}`}>
+                <tr key={`${blockKey}-row-${rowIndex}`}>
                   {row.map((cell, cellIndex) => (
                     <td
                       className="border-b border-primary/10 px-4 py-3 align-top text-primary/80"
-                      key={`${index}-cell-${rowIndex}-${cellIndex}`}
+                      key={`${blockKey}-cell-${rowIndex}-${cellIndex}`}
                     >
                       {renderInline(cell)}
                     </td>
@@ -385,7 +413,7 @@ const renderBlock = (block: MarkdownBlock, index: number) => {
         </div>
       );
     case 'hr':
-      return <hr className="my-10 border-primary/15" key={index} />;
+      return <hr className="my-10 border-primary/15" key={blockKey} />;
   }
 };
 

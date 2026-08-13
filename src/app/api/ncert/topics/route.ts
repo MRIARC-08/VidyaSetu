@@ -1,4 +1,4 @@
-import { NextResponse } from 'next/server';
+import { errorResponse } from '@/lib/api-response';
 import { ZodError } from 'zod';
 
 import {
@@ -12,19 +12,15 @@ export async function GET(req: Request) {
     requireNcertParam(query, ['chapterId', 'chapter']);
   } catch (error) {
     if (error instanceof ZodError) {
-      return NextResponse.json(
-        {
-          status: 400,
-          message: 'Invalid NCERT request parameters',
-          errors: error.issues,
-        },
-        { status: 400 }
+      return errorResponse(
+        'Invalid NCERT request parameters',
+        400,
+        error.issues
       );
     }
 
     throw error;
   }
 
-  // TODO: Implement topics endpoint
-  return NextResponse.json({ message: 'Not implemented' }, { status: 501 });
+  return errorResponse('Not implemented', 501);
 }

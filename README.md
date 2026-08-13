@@ -12,6 +12,28 @@ VidyaSetu helps students move from passive studying to structured practice with 
 - Live app: https://vidya-setu-pi.vercel.app/
 - Codebase docs: https://vidya-setu-pi.vercel.app/docs
 
+
+## Table of Contents
+
+- [GSSoC 2026](#gssoc-2026)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Project Directory Guide](#project-directory-guide)
+- [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+- [Environment Setup](#environment-setup)
+- [Database Setup](#database-setup)
+- [Install And Run](#install-and-run)
+- [Python AI Service](#python-ai-service)
+- [Seed Data](#seed-data)
+- [CI/CD](#cicd)
+- [Useful Commands](#useful-commands)
+- [Troubleshooting](#troubleshooting)
+- [FAQ](#faq)
+- [Contributing](#contributing)
+- [License](#license)
+
+
 ## GSSoC 2026
 
 This project is part of GirlScript Summer of Code 2026.
@@ -45,6 +67,28 @@ Contributors can start by checking issues labeled:
 - PostgreSQL
 - NextAuth
 - Cloudinary
+- FastAPI
+- Sentence Transformers
+- LangChain with Groq
+
+## Project Directory Guide
+
+Here is a quick overview of the primary directories in this repository to help you locate where to make changes:
+
+- **`.github/`**: Contains automated GitHub Actions workflows and repository CI/CD configurations.
+
+- **`docs/`**: Stores developer documentation, architecture notes, and setup guides.
+
+- **`prisma/`**: Contains the database schema (`schema.prisma`), seed scripts, and migration history.
+
+- **`public/`**: Stores static assets such as images, logos, and icons served by Next.js.
+
+- **`seed-data/`**: Holds NCERT academic structure data and learner-facing markdown files used for database seeding.
+
+- **`services/ai/`**: A standalone FastAPI Python backend handling AI features, embeddings, and model inferences (LangChain/Groq).
+
+- **`src/`**: Primary Next.js web application code, including pages, UI components, and API routes.
+
 
 ## Getting Started
 
@@ -53,6 +97,7 @@ Contributors can start by checking issues labeled:
 - Node.js
 - pnpm
 - PostgreSQL database
+- Python 3.11 to 3.13 when working on the AI service
 
 You can use either a hosted PostgreSQL database or a local PostgreSQL database through Docker.
 
@@ -223,6 +268,30 @@ pnpm dev
 
 Open `http://localhost:3000`.
 
+## Python AI Service
+
+VidyaSetu keeps model inference, embeddings, retrieval, and provider
+integrations in a separate internal FastAPI service under `services/ai`.
+The browser must communicate with the Next.js application, not directly with
+the AI service.
+
+For local setup:
+
+```bash
+cd services/ai
+cp .env.example .env
+python3.13 -m venv .venv
+source .venv/bin/activate
+python -m pip install -e ".[dev,models]"
+uvicorn vidyasetu_ai.main:app --reload --port 8001
+```
+
+Open `http://localhost:8001/docs` for the internal OpenAPI documentation.
+
+See [Python AI Backend Architecture](docs/AI_BACKEND_ARCHITECTURE.md) for
+service boundaries, security rules, BYOK handling, data flows, and contributor
+guidance.
+
 ## Seed Data
 
 The seed script populates your own local or hosted contributor database with NCERT academic classes, subjects, chapters, and direct PDF links.
@@ -296,6 +365,104 @@ pnpm db:seed:all
 pnpm db:studio
 ```
 
+AI service commands are documented in
+[`services/ai/README.md`](services/ai/README.md).
+
+## Troubleshooting
+
+If you encounter issues while setting up the project, try the following solutions.
+
+### `pnpm: command not found`
+
+This usually means `pnpm` is not installed globally.
+
+Install it using:
+
+```bash
+npm install -g pnpm
+```
+
+Verify the installation:
+
+```bash
+pnpm --version
+```
+
+---
+
+### PostgreSQL Connection Errors
+
+If the application cannot connect to PostgreSQL:
+
+- Make sure your PostgreSQL server or Docker container is running.
+- Verify that `DATABASE_URL` and `DIRECT_URL` are correctly configured in your `.env` file.
+- Ensure the database name, username, password, and port are correct.
+
+If you're using Docker, start the database with:
+
+```bash
+docker compose up -d
+```
+
+---
+
+### Prisma Migration Failures
+
+If Prisma migrations fail, regenerate the Prisma client and run the migrations again:
+
+```bash
+pnpm db:generate
+pnpm db:migrate
+```
+
+If your local database is out of sync and you don't mind resetting it:
+
+```bash
+pnpm prisma migrate reset
+```
+
+> **Warning:** This command removes all data from your local database.
+
+---
+
+### Missing or Incorrect Environment Variables
+
+If you receive errors related to missing environment variables:
+
+1. Copy the example environment file:
+
+```bash
+cp .env.example .env
+```
+
+2. Verify that all required variables such as `DATABASE_URL`, `DIRECT_URL`, `JWT_SECRET`, and `NEXTAUTH_URL` are correctly configured.
+
+3. Restart the development server after making changes to `.env`.
+## FAQ
+
+### Do I need Docker?
+
+No. Docker is optional. You can use a hosted PostgreSQL database such as Supabase, Neon, or Railway instead. Docker is recommended only if you want to run a local PostgreSQL instance.
+
+### Can I use Supabase instead of Docker?
+
+Yes. VidyaSetu supports hosted PostgreSQL providers. Update the `DATABASE_URL` and `DIRECT_URL` values in your `.env` file with your Supabase PostgreSQL connection strings.
+
+### Is the AI service required for every contribution?
+
+No. The Python AI service is only required when working on AI-related features such as model inference, embeddings, or retrieval. Documentation, frontend, and many backend contributions can be made without running the AI service.
+
+### How do I reset the database?
+
+If you're using Docker, stop and remove the existing database container and volume, then restart it using:
+
+```bash
+docker compose down -v
+docker compose up -d
+```
+
+If you're using a hosted PostgreSQL database (such as Supabase), reset or recreate your development database using the tools provided by your database provider, then run the Prisma migrations and seed commands again.
+
 ## Contributing
 
 Before contributing, read:
@@ -327,6 +494,17 @@ Maintainers can use these labels to make contribution discovery easier:
 - `documentation`
 - `bug`
 - `enhancement`
+
+## Contributors
+
+Thanks to everyone who helps improve VidyaSetu.
+
+<a href="https://github.com/MRIARC-08/VidyaSetu/graphs/contributors">
+  <img
+    src="https://contrib.rocks/image?repo=MRIARC-08/VidyaSetu"
+    alt="VidyaSetu contributors"
+  />
+</a>
 
 ## License
 

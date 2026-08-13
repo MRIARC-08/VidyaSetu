@@ -2,6 +2,8 @@
 
 import * as React from 'react';
 import { ProgressDashboard } from '@/components/ProgressDashboard';
+import { WeakTopicsList } from '@/components/WeakTopicsList';
+import { StudyRecommendation } from '@/components/StudyRecommendation';
 
 export default function DashboardAnalyticsPage() {
   return (
@@ -13,6 +15,10 @@ export default function DashboardAnalyticsPage() {
         </p>
       </div>
       <ProgressDashboard />
+      <div className="grid gap-6 lg:grid-cols-2">
+        <WeakTopicsList />
+        <StudyRecommendation />
+      </div>
     </div>
   );
 }

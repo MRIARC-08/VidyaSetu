@@ -81,6 +81,24 @@ export class QuizRepository {
     return prisma.quiz.create({ data });
   }
 
+  static createQuizQuestions(quizId: string, questionIds: string[]) {
+    return prisma.quizQuestion.createMany({
+      data: questionIds.map((questionId) => ({
+        quizId,
+        questionId,
+      })),
+    });
+  }
+
+  static findQuizQuestions(quizId: string) {
+    return prisma.quizQuestion.findMany({
+      where: { quizId },
+      select: {
+        questionId: true,
+      },
+    });
+  }
+
   static findQuizById(quizId: string) {
     return prisma.quiz.findUnique({
       where: { id: quizId },
@@ -106,6 +124,8 @@ export class QuizRepository {
             id: true,
             mode: true,
             source: true,
+            chapterId: true,
+            topicId: true,
           },
         },
         responses: {
@@ -122,6 +142,7 @@ export class QuizRepository {
                     id: true,
                     label: true,
                     value: true,
+                    isCorrect: true,
                   },
                 },
               },
@@ -136,6 +157,27 @@ export class QuizRepository {
     return prisma.question.findMany({
       where: { id: { in: questionIds } },
       select: { id: true },
+    });
+  }
+
+  static findFullQuestionsByIds(questionIds: string[]) {
+    return prisma.question.findMany({
+      where: { id: { in: questionIds } },
+      select: {
+        id: true,
+        topicId: true,
+        type: true,
+        difficulty: true,
+        questionText: true,
+        explanation: true,
+        options: {
+          select: {
+            id: true,
+            label: true,
+            value: true,
+          },
+        },
+      },
     });
   }
 

@@ -25,8 +25,10 @@ const handler = NextAuth({
           providerAccountId: account!.providerAccountId,
         });
 
-        await SetCookies.setAccesstoken(result.accessToken);
-        await SetCookies.setRefreshtoken(result.refreshToken);
+        await SetCookies.setAuthCookies(
+          result.accessToken,
+          result.refreshToken,
+        );
 
         return true;
       } catch {

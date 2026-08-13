@@ -1,4 +1,5 @@
 import { prisma } from '@/lib/prisma';
+import { ValidationStatus } from '@/generated/prisma/enums';
 
 export class NotesRepository {
   static findUserById(userId: string) {
@@ -13,7 +14,11 @@ export class NotesRepository {
     title: string;
     content: string | null;
     fileUrl: string | null;
+    cloudinaryPublicId: string | null;
     extractedText: string | null;
+    isAIGenerated?: boolean;
+    validationStatus?: ValidationStatus;
+    safetyFlags?: string | null;
   }) {
     return prisma.note.create({
       data,
@@ -22,12 +27,15 @@ export class NotesRepository {
         title: true,
         content: true,
         fileUrl: true,
+        cloudinaryPublicId: true,
         extractedText: true,
+        isAIGenerated: true,
+        validationStatus: true,
+        safetyFlags: true,
         createdAt: true,
       },
     });
   }
-
 
   static findNotesByUser(userId: string) {
     return prisma.note.findMany({
@@ -37,7 +45,11 @@ export class NotesRepository {
         title: true,
         content: true,
         fileUrl: true,
+        cloudinaryPublicId: true,
         extractedText: true,
+        isAIGenerated: true,
+        validationStatus: true,
+        safetyFlags: true,
         createdAt: true,
         updatedAt: true,
       },
@@ -53,7 +65,11 @@ export class NotesRepository {
         title: true,
         content: true,
         fileUrl: true,
+        cloudinaryPublicId: true,
         extractedText: true,
+        isAIGenerated: true,
+        validationStatus: true,
+        safetyFlags: true,
         createdAt: true,
         updatedAt: true,
       },

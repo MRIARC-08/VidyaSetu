@@ -3,6 +3,7 @@ import type {
   Prisma,
   UserStats as PrismaUserStats,
 } from '@/generated/prisma/client';
+import { calculateAccuracy, calculateWeightedAccuracy } from '@/lib/score-calculator';
 import AnalyticsRepository from './analytics.repository';
 import type { StreakData, ActivityDay, UserStats } from './analytics.types';
 import type { WeakTopicsResponse } from './analytics.types';
@@ -22,11 +23,7 @@ export default class AnalyticsService {
     // Derived overall accuracy from totalCorrect / totalQuestions with guard
     const accuracy =
       userStats && userStats.totalQuestions > 0
-        ? Number(
-            ((userStats.totalCorrect / userStats.totalQuestions) * 100).toFixed(
-              2
-            )
-          )
+        ? calculateAccuracy(userStats.totalCorrect, userStats.totalQuestions)
         : 0;
 
     const currentStreak = userStats?.currentStreak ?? 0;
@@ -152,22 +149,49 @@ export default class AnalyticsService {
     oneYearAgo.setDate(oneYearAgo.getDate() - 364);
     oneYearAgo.setHours(0, 0, 0, 0);
 
-    const sessions = await AnalyticsRepository.getCompletedSessionDates(
-      userId,
-      oneYearAgo
-    );
+    const [activityOverview, userStats] = await Promise.all([
+      AnalyticsRepository.getActivityOverview(userId, oneYearAgo),
+      AnalyticsRepository.getUserStats(userId),
+    ]);
+
+    const { sessions, notes } = activityOverview;
 
     const today = new Date();
     today.setHours(0, 0, 0, 0);
 
-    const activityByDate = new Map<string, number>();
+    const activityByDate = new Map<
+      string,
+      { quizzes: number; notes: number; total: number }
+    >();
 
     for (const s of sessions) {
       if (!s.completedAt) continue;
       const d = new Date(s.completedAt);
       d.setHours(0, 0, 0, 0);
       const key = dateToKey(d);
-      activityByDate.set(key, (activityByDate.get(key) ?? 0) + 1);
+      const entry = activityByDate.get(key) || {
+        quizzes: 0,
+        notes: 0,
+        total: 0,
+      };
+      entry.quizzes += 1;
+      entry.total += 1;
+      activityByDate.set(key, entry);
+    }
+
+    for (const n of notes) {
+      if (!n.createdAt) continue;
+      const d = new Date(n.createdAt);
+      d.setHours(0, 0, 0, 0);
+      const key = dateToKey(d);
+      const entry = activityByDate.get(key) || {
+        quizzes: 0,
+        notes: 0,
+        total: 0,
+      };
+      entry.notes += 1;
+      entry.total += 1;
+      activityByDate.set(key, entry);
     }
 
     const activeDates = [...activityByDate.keys()].sort().reverse();
@@ -189,35 +213,7 @@ export default class AnalyticsService {
 
     const totalActiveDays = await AnalyticsRepository.countActiveDays(userId);
 
-    let longestStreak = 0;
-    let tempStreak = 0;
-    const sortedAsc = [...activityByDate.keys()].sort();
-
-    for (let i = 0; i < sortedAsc.length; i++) {
-      if (i === 0) {
-        tempStreak = 1;
-      } else {
-        const prev = sortedAsc[i - 1];
-        const curr = sortedAsc[i];
-        const prevParts = prev.split('-').map(Number);
-        const expected = new Date(
-          prevParts[0],
-          prevParts[1] - 1,
-          prevParts[2] + 1
-        );
-        const expectedKey = dateToKey(expected);
-
-        if (curr === expectedKey) {
-          tempStreak++;
-        } else {
-          tempStreak = 1;
-        }
-      }
-
-      if (tempStreak > longestStreak) {
-        longestStreak = tempStreak;
-      }
-    }
+    const longestStreak = userStats?.longestStreak ?? 0;
 
     const calendar: ActivityDay[] = [];
 
@@ -225,11 +221,13 @@ export default class AnalyticsService {
       const d = new Date(oneYearAgo);
       d.setDate(d.getDate() + i);
       const key = dateToKey(d);
-      const count = activityByDate.get(key) ?? 0;
+      const act = activityByDate.get(key) || { quizzes: 0, notes: 0, total: 0 };
       calendar.push({
         date: key,
-        count,
-        level: countToLevel(count),
+        count: act.total,
+        level: countToLevel(act.total),
+        quizzes: act.quizzes,
+        notes: act.notes,
       });
     }
 
@@ -309,7 +307,7 @@ export default class AnalyticsService {
       .map((t) => ({
         topicName: t.topicName,
         topicId: t.topicId,
-        accuracy: Math.round((t.correctAnswers / t.attempts) * 1000) / 10,
+        accuracy: calculateWeightedAccuracy(t.correctAnswers, t.attempts),
         attempts: t.attempts,
         correctAnswers: Math.round(t.correctAnswers),
       }))

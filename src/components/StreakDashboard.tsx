@@ -6,47 +6,52 @@ import { StreakCounter } from '@/components/StreakCounter';
 import { StreakCalendar } from '@/components/StreakCalendar';
 import { StreakBadges } from '@/components/StreakBadges';
 import type { StreakData } from '@/modules/analytics/analytics.types';
-import {
-  Card,
-  CardContent,
-  CardHeader,
-  CardTitle,
-} from '@/components/ui/card';
+import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
+import authFetch from '@/lib/auth/authFetch';
 
-interface StreakDashboardProps extends React.ComponentProps<'div'> {}
+type StreakDashboardProps = React.ComponentProps<'div'>;
 
 function StreakDashboard({ className, ...props }: StreakDashboardProps) {
   const [data, setData] = React.useState<StreakData | null>(null);
   const [loading, setLoading] = React.useState(true);
   const [error, setError] = React.useState<string | null>(null);
 
-  React.useEffect(() => {
-    let cancelled = false;
+  const fetchStreakData = React.useCallback(async (signal?: AbortSignal) => {
+    setLoading(true);
+    setError(null);
 
-    async function fetchStreakData() {
-      try {
-        const res = await fetch('/api/analytics/streak', {
-          credentials: 'include',
-        });
-        const json = await res.json();
+    try {
+      const json = await authFetch({
+        url: '/api/analytics/streak',
+        options: {
+          method: 'GET',
+          signal,
+        },
+      });
 
-        if (cancelled) return;
+      if (signal?.aborted) return;
 
-        if (res.ok && json.success) {
-          setData(json.data);
-        } else {
-          setError(json.message || 'Failed to load streak data');
-        }
-      } catch {
-        if (!cancelled) setError('Failed to load streak data');
-      } finally {
-        if (!cancelled) setLoading(false);
+      if (json.success) {
+        setData(json.data);
+      } else {
+        setData(null);
+        setError(json.message || 'Failed to load streak data');
       }
+    } catch {
+      if (!signal?.aborted) {
+        setData(null);
+        setError('Failed to load streak data');
+      }
+    } finally {
+      if (!signal?.aborted) setLoading(false);
     }
-
-    fetchStreakData();
-    return () => { cancelled = true; };
   }, []);
+
+  React.useEffect(() => {
+    const controller = new AbortController();
+    fetchStreakData(controller.signal);
+    return () => controller.abort();
+  }, [fetchStreakData]);
 
   if (error) {
     return (
@@ -59,11 +64,7 @@ function StreakDashboard({ className, ...props }: StreakDashboardProps) {
       >
         {error}
         <button
-          onClick={() => {
-            setLoading(true);
-            setError(null);
-            setData(null);
-          }}
+          onClick={() => fetchStreakData()}
           className="ml-2 underline hover:no-underline"
         >
           Retry
@@ -85,7 +86,9 @@ function StreakDashboard({ className, ...props }: StreakDashboardProps) {
 
         <Card className="lg:col-span-2">
           <CardHeader>
-            <CardTitle className="text-sm font-medium">Activity Calendar</CardTitle>
+            <CardTitle className="text-sm font-medium">
+              Activity Calendar
+            </CardTitle>
           </CardHeader>
           <CardContent>
             {loading ? (

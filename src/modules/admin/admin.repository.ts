@@ -16,6 +16,12 @@ export class AdminRepository {
     });
   }
 
+  static async getChapterById(id: string) {
+    return prisma.chapter.findUnique({
+      where: { id },
+    });
+  }
+
   static async deleteQuestion(id: string) {
     return prisma.question.delete({ where: { id } });
   }

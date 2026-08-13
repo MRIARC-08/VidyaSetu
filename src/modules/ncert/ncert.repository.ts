@@ -20,22 +20,79 @@ export class NcertRepository {
     });
   }
 
-  static async getChapters(subjectId: string) {
-    return await prisma.subject.findUnique({
-      where: {
-        id: subjectId,
+  static async getChapters(
+    subjectId: string,
+    classId: string,
+    page: number = 1,
+    limit: number = 20
+  ) {
+    const offset = (page - 1) * limit;
+
+    const [subject, totalCount] = await Promise.all([
+      prisma.subject.findFirst({
+        where: {
+          id: subjectId,
+          academicClassId: classId,
+        },
+        include: {
+          chapters: {
+            orderBy: { order: 'asc' },
+            skip: offset,
+            take: limit,
+          },
+        },
+      }),
+      prisma.chapter.count({
+        where: {
+          subjectId,
+          subject: {
+            academicClassId: classId,
+          },
+        },
+      }),
+    ]);
+
+    return {
+      subject,
+      pagination: {
+        page,
+        limit,
+        total: totalCount,
+        totalPages: Math.ceil(totalCount / limit),
       },
-      include: {
-        chapters: true,
+    };
+  }
+
+  static async getChapter(
+    chapterId: string,
+    subjectId: string,
+    classId: string
+  ) {
+    return await prisma.chapter.findFirst({
+      where: {
+        id: chapterId,
+        subjectId,
+        subject: {
+          academicClassId: classId,
+        },
       },
     });
   }
 
-  static async getChapter(chapterId: string) {
-    return await prisma.chapter.findUnique({
-      where: {
-        id: chapterId,
-      },
-    });
-  }
+
+static async updateChapterContent(
+  chapterId: string,
+  content: string
+) {
+  return await prisma.chapter.update({
+    where: {
+      id: chapterId,
+    },
+    data: {
+      content,
+      contentFormat: 'markdown',
+      contentSource: 'admin-editor',
+    },
+  });
+}
 }

@@ -1,4 +1,5 @@
 'use client';
+import { log } from '@/lib/logger';
 import React, { useState, useRef } from 'react';
 import { Twitter, Linkedin, MessageCircle, Link, Download } from 'lucide-react';
 import AchievementBadge from './AchievementBadge';
@@ -60,7 +61,7 @@ const AchievementShare: React.FC<AchievementShareProps> = ({
       link.href = canvas.toDataURL('image/png');
       link.click();
     } catch (error) {
-      console.error('Screenshot failed:', error);
+      log.error('Screenshot failed', error);
     } finally {
       setScreenshotting(false);
     }

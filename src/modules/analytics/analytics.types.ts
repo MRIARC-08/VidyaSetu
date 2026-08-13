@@ -11,6 +11,8 @@ export interface ActivityDay {
   date: string;
   count: number;
   level: 0 | 1 | 2 | 3 | 4;
+  quizzes?: number;
+  notes?: number;
 }
 
 export class WeakTopicAnalyticsError extends Error {

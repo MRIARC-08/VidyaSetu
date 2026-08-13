@@ -12,6 +12,10 @@
 
 # testing
 /coverage
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
 
 # next.js
 /.next/
@@ -19,6 +23,15 @@
 
 # production
 /build
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.python-version
+.cache/models/
 
 # misc
 .DS_Store
@@ -47,3 +60,9 @@ next-env.d.ts
 
 #md
 PROJECT_STATUS.md
+
+# Generated OpenAPI spec (regenerated on every CI run; commit the golden copy)
+services/ai/openapi.json
+
+# vitest
+src/__tests__/__snapshots__/

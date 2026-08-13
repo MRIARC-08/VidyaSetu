@@ -1,0 +1,15 @@
+allowBuilds:
+  '@prisma/engines': set this to true or false
+  base64: set this to true or false
+  bcrypt: set this to true or false
+  esbuild: set this to true or false
+  msw: set this to true or false
+  prisma: set this to true or false
+  sharp: set this to true or false
+  tesseract.js: set this to true or false
+  unrs-resolver: set this to true or false
+auditConfig:
+  ignoreGhsas:
+    - GHSA-r28c-9q8g-f849
+    - GHSA-qx2v-qp2m-jg93
+    - GHSA-fxqj-rqcc-2cmp

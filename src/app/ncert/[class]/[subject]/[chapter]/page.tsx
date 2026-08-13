@@ -5,9 +5,13 @@ import ChapterContent, {
 } from '@/components/ChapterContent';
 import ReadingProgressBar from '@/components/ReadingProgressBar';
 import { ChapterPageSkeleton } from '@/components/Skeletons';
+import {
+  saveReadingProgress,
+  getReadingProgress,
+} from '@/components/ResumeCard';
 import authFetch from '@/lib/auth/authFetch';
 import { useParams } from 'next/navigation';
-import { useCallback, useEffect, useState } from 'react';
+import { useCallback, useEffect, useState, useRef } from 'react';
 
 interface ChapterProps extends ChapterContentData {
   id: string;
@@ -20,47 +24,104 @@ export default function NcertChapterPage() {
     subject: string;
     chapter: string;
   }>();
-
   const [chapter, setChapter] = useState<ChapterProps | null>(null);
+  const [chapters, setChapters] = useState<ChapterProps[]>([]);
+  const [subjectName, setSubjectName] = useState<string>('');
   const [error, setError] = useState<string | null>(null);
   const [isLoading, setIsLoading] = useState(true);
+  const scrollProgress = useRef(0);
 
-  const getChapter = useCallback(async () => {
+  const fetchData = useCallback(async () => {
+    // FIX 1: Reset scrollProgress ref on every chapter navigation
+    // so previous chapter's progress threshold doesn't carry over
+    scrollProgress.current = 0;
+
     setIsLoading(true);
     setError(null);
-
     try {
-      const url = `/api/ncert/chapter?chapter=${params.chapter}`;
+      const chapterUrl = `/api/ncert/chapter?class=${params.class}&subject=${params.subject}&chapter=${params.chapter}`;
+      const chaptersUrl = `/api/ncert/chapters?class=${params.class}&subject=${params.subject}`;
 
-      const res = await authFetch({
-        url,
-        options: {
-          method: 'GET',
-        },
-      });
+      const [chapterRes, chaptersRes] = await Promise.all([
+        authFetch({ url: chapterUrl, options: { method: 'GET' } }),
+        authFetch({ url: chaptersUrl, options: { method: 'GET' } }),
+      ]);
 
-      if (res.status !== 200 || !res.message) {
+      if (chapterRes.status !== 200 || !chapterRes.message) {
         setChapter(null);
         setError(
-          typeof res.message === 'string'
-            ? res.message
+          typeof chapterRes.message === 'string'
+            ? chapterRes.message
             : 'The chapter API did not return content for this request.'
         );
         return;
       }
 
-      setChapter(res.message);
+      const chapterData = chapterRes.message as ChapterProps;
+      setChapter(chapterData);
+
+      if (chaptersRes.status === 200 && chaptersRes.message) {
+        setSubjectName(chaptersRes.message.name);
+        setChapters(chaptersRes.message.chapters);
+      }
+
+      // FIX 2: Don't overwrite existing progress with 0.
+      // Check if we already have saved progress for this chapter URL.
+      // Only save if there's no existing entry, or preserve the existing progressPercent.
+      const progressUrl = `/ncert/${params.class}/${params.subject}/${params.chapter}`;
+      const existing = getReadingProgress();
+      const existingPercent =
+        existing?.chapterUrl === progressUrl ? existing.progressPercent : 0;
+
+      saveReadingProgress({
+        chapterName: chapterData.title,
+        chapterUrl: progressUrl,
+        className: params.class,
+        progressPercent: existingPercent,
+      });
+
+      // Also sync the in-memory ref so the scroll handler doesn't
+      // save a lower value over the restored one
+      scrollProgress.current = existingPercent;
     } catch {
       setChapter(null);
       setError('Unable to load this chapter. Please try again later.');
     } finally {
       setIsLoading(false);
     }
-  }, [params.chapter]);
+  }, [params.chapter, params.class, params.subject]);
 
   useEffect(() => {
-    getChapter();
-  }, [getChapter]);
+    fetchData();
+  }, [fetchData]);
+
+  useEffect(() => {
+    if (isLoading) return;
+
+    const handleScroll = () => {
+      const scrollTop = window.scrollY || document.documentElement.scrollTop;
+      const scrollHeight =
+        document.documentElement.scrollHeight -
+        document.documentElement.clientHeight;
+      if (scrollHeight <= 0) return;
+
+      const pct = Math.round((scrollTop / scrollHeight) * 100);
+      const clamped = Math.min(100, Math.max(0, pct));
+
+      if (clamped > scrollProgress.current || clamped === 100) {
+        scrollProgress.current = clamped;
+        saveReadingProgress({
+          chapterName: chapter?.title || '',
+          chapterUrl: `/ncert/${params.class}/${params.subject}/${params.chapter}`,
+          className: params.class,
+          progressPercent: clamped,
+        });
+      }
+    };
+
+    window.addEventListener('scroll', handleScroll, { passive: true });
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, [isLoading, chapter, params.class, params.subject, params.chapter]);
 
   return (
     <>
@@ -68,7 +129,12 @@ export default function NcertChapterPage() {
       {isLoading ? (
         <ChapterPageSkeleton />
       ) : (
-        <ChapterContent chapter={chapter} error={error} />
+        <ChapterContent
+          chapter={chapter}
+          chapters={chapters}
+          subjectName={subjectName}
+          error={error}
+        />
       )}
     </>
   );
