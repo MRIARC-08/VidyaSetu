@@ -1,3 +1,5 @@
+'use client';
+
 import React, { useState, useEffect } from 'react';
 import authFetch from '@/lib/auth/authFetch';
 import UserProfile from '@/components/UserProfile';
