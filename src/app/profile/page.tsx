@@ -1,64 +1,82 @@
 'use client';
-import React, { useState } from 'react';
 
-import SecondSlide from './components/SecondSlide';
-import FirstSlide from './components/FirstSlide';
-
-import { useRouter } from 'next/navigation';
+import React, { useState, useEffect } from 'react';
 import authFetch from '@/lib/auth/authFetch';
+import UserProfile from '@/components/UserProfile';
+import ProfileEditForm from '@/components/ProfileEditForm';
+import PasswordChangeForm from '@/components/PasswordChangeForm';
+import ProfilePhoto from '@/components/ProfilePhoto';
+import { Card, CardContent } from '@/components/ui/card';
 
-function ProfilePage() {
-  const [name, setName] = useState<string>('');
-  const [age, setAge] = useState<string>('');
-  const [clas, setClas] = useState<string>('');
-  const [loading, setLoading] = useState<boolean>(false);
-  const [next] = useState<boolean>(false);
-  const router = useRouter();
+export default function ProfilePage() {
+  const [user, setUser] = useState<any>(null);
+  const [loading, setLoading] = useState(true);
+  const [activeTab, setActiveTab] = useState('profile');
 
-  const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
-    e.preventDefault();
-    if (!['9', '10', '11', '12'].includes(clas)) {
-      return;
-    }
-
+  const fetchUser = async () => {
     setLoading(true);
-    const data = {
-      name,
-      class: clas,
-    };
-    const options = {
-      method: 'POST',
-      body: JSON.stringify(data),
-    };
-    const url = '/api/user/updateUser';
-
-    const profile = await authFetch({ url, options });
-
-    setLoading(false);
-    if (profile.message.class) {
-      router.push('/dashboard');
+    const res = await authFetch({ url: '/api/user/getUser', options: { method: 'GET' } });
+    if (res.user) {
+      setUser(res.user);
     }
+    setLoading(false);
   };
 
+  useEffect(() => {
+    fetchUser();
+  }, []);
+
+  if (loading) {
+    return <div className="flex justify-center p-8">Loading profile...</div>;
+  }
+
+  if (!user) {
+    return <div className="text-center text-red-500 mt-8">Failed to load profile data.</div>;
+  }
+
   return (
-    <div>
-      <form onSubmit={handleSubmit}>
-        {next ? (
-          <SecondSlide></SecondSlide>
-        ) : (
-          <FirstSlide
-            name={name}
-            setName={setName}
-            age={age}
-            setAge={setAge}
-            clas={clas}
-            setClas={setClas}
-            loading={loading}
-          ></FirstSlide>
-        )}
-      </form>
+    <div className="container mx-auto px-4 py-8 max-w-5xl">
+      <h1 className="text-3xl font-bold mb-8">Account Settings</h1>
+      
+      <div className="flex flex-col md:flex-row gap-6">
+        <Card className="w-full md:w-1/4 h-fit">
+          <CardContent className="p-0">
+            <nav className="flex flex-col">
+              <button 
+                onClick={() => setActiveTab('profile')} 
+                className={`text-left px-4 py-3 border-b ${activeTab === 'profile' ? 'bg-primary/10 font-medium text-primary' : 'hover:bg-slate-50'}`}
+              >
+                Profile Overview
+              </button>
+              <button 
+                onClick={() => setActiveTab('edit')} 
+                className={`text-left px-4 py-3 border-b ${activeTab === 'edit' ? 'bg-primary/10 font-medium text-primary' : 'hover:bg-slate-50'}`}
+              >
+                Edit Profile
+              </button>
+              <button 
+                onClick={() => setActiveTab('photo')} 
+                className={`text-left px-4 py-3 border-b ${activeTab === 'photo' ? 'bg-primary/10 font-medium text-primary' : 'hover:bg-slate-50'}`}
+              >
+                Profile Photo
+              </button>
+              <button 
+                onClick={() => setActiveTab('security')} 
+                className={`text-left px-4 py-3 ${activeTab === 'security' ? 'bg-primary/10 font-medium text-primary' : 'hover:bg-slate-50'}`}
+              >
+                Security
+              </button>
+            </nav>
+          </CardContent>
+        </Card>
+        
+        <div className="w-full md:w-3/4">
+          {activeTab === 'profile' && <UserProfile user={user} />}
+          {activeTab === 'edit' && <ProfileEditForm user={user} onUpdate={fetchUser} />}
+          {activeTab === 'photo' && <ProfilePhoto user={user} onUpdate={fetchUser} />}
+          {activeTab === 'security' && <PasswordChangeForm />}
+        </div>
+      </div>
     </div>
   );
 }
-
-export default ProfilePage;
