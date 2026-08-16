@@ -65,10 +65,6 @@ export class AdminController {
       const input = seedNcertSchema.parse(body);
       const result = await AdminServices.seedNcert(input);
 
-      console.log(
-        `[ADMIN] userId=${admin.userId} action=seed-ncert result=${JSON.stringify(result)}`
-      );
-
       return NextResponse.json(
         { message: 'NCERT data seeded successfully', data: result },
         { status: 201 }
@@ -84,10 +80,6 @@ export class AdminController {
       const body = await parseJson(request);
       const input = addQuestionSchema.parse(body);
       const question = await AdminServices.addQuestion(input);
-
-      console.log(
-        `[ADMIN] userId=${admin.userId} action=add-question questionId=${question.id}`
-      );
 
       return NextResponse.json(
         { message: 'Question added successfully', data: question },
@@ -129,10 +121,6 @@ export class AdminController {
     try {
       const admin = await requireAdmin();
       await AdminServices.deleteQuestion(questionId);
-
-      console.log(
-        `[ADMIN] userId=${admin.userId} action=delete-question questionId=${questionId}`
-      );
 
       return NextResponse.json({ message: 'Question deleted successfully' });
     } catch (error) {
