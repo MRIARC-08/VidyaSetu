@@ -2,6 +2,7 @@ import { NextResponse } from 'next/server';
 import { AuthServiceError, AuthServices } from './auth.service';
 import { SetCookies } from '@/lib/auth/cookies';
 import { cookies } from 'next/headers';
+import { log } from '@/lib/logger';
 import {
   LoginSchema,
   RegisterSchema,
@@ -24,7 +25,7 @@ export class AuthControllers {
 
       const validation = RegisterSchema.safeParse(body);
       if (!validation.success) {
-        console.error(
+        log.error(
           'Registration validation failed:',
           validation.error.format()
         );
@@ -52,7 +53,7 @@ export class AuthControllers {
 
       const validation = LoginSchema.safeParse(body);
       if (!validation.success) {
-        console.error('Login validation failed:', validation.error.format());
+        log.error('Login validation failed:', validation.error.format());
         return NextResponse.json(
           {
             error: 'Validation failed',
@@ -81,7 +82,7 @@ export class AuthControllers {
         refreshToken: token?.value ?? '',
       });
       if (!validation.success) {
-        console.error(
+        log.error(
           'Refresh token validation failed:',
           validation.error.format()
         );
