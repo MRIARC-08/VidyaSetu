@@ -25,10 +25,7 @@ export class AuthControllers {
 
       const validation = RegisterSchema.safeParse(body);
       if (!validation.success) {
-        log.error(
-          'Registration validation failed:',
-          validation.error.format()
-        );
+        log.error('Registration validation failed:', validation.error.format());
         return NextResponse.json(
           {
             error: 'Validation failed',

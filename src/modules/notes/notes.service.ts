@@ -169,7 +169,7 @@ export class NotesServices {
       const validationStatus: ValidationStatus = validationResult.isValid
         ? ValidationStatus.VALIDATED
         : validationResult.safetyFlags.length > 0 ||
-          validationResult.factualityIssues.length > 0
+            validationResult.factualityIssues.length > 0
           ? ValidationStatus.REQUIRES_REVIEW
           : ValidationStatus.VALIDATED;
 
