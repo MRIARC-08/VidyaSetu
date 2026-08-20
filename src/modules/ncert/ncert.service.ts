@@ -1,5 +1,5 @@
 import { NcertRepository } from './ncert.repository';
-import { ApiError } from '..\..\lib\errors';
+import { ApiError } from '../../lib/errors';
 
 export class NcertServices {
   static async getSubjects(classId: string) {
