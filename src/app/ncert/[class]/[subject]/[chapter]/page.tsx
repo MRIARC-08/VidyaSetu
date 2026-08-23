@@ -40,7 +40,7 @@ export default function NcertChapterPage() {
     setError(null);
     try {
       const chapterUrl = `/api/ncert/chapter?class=${params.class}&subject=${params.subject}&chapter=${params.chapter}`;
-      const chaptersUrl = `/api/ncert/chapters?class=${params.class}&subject=${params.subject}`;
+      const chaptersUrl = `/api/ncert/chapters?class=${params.class}&subject=${params.subject}&page=1&limit=20`;
 
       const [chapterRes, chaptersRes] = await Promise.all([
         authFetch({ url: chapterUrl, options: { method: 'GET' } }),

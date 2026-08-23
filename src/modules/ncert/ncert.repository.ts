@@ -56,8 +56,10 @@ export class NcertRepository {
       subject,
       pagination: {
         page,
+        currentPage: page,
         limit,
         total: totalCount,
+        totalItems: totalCount,
         totalPages: Math.ceil(totalCount / limit),
       },
     };

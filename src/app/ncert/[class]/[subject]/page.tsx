@@ -39,7 +39,7 @@ export default function NcertSubjectPage() {
     const getChapters = async () => {
       try {
         const res = await authFetch({
-          url: `/api/ncert/chapters?class=${params.class}&subject=${params.subject}`,
+          url: `/api/ncert/chapters?class=${params.class}&subject=${params.subject}&page=1&limit=20`,
           options: { method: 'GET' },
         });
         if (!isMounted) return;
