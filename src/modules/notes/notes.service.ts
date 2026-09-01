@@ -8,6 +8,7 @@ import { createWorker } from 'tesseract.js';
 
 import cloudinary from '@/lib/cloudinary';
 import { generateStudyNotes } from '@/lib/content-validator';
+import { log } from '@/lib/logger';
 import { NotesRepository } from './notes.repository';
 import { NotesApiError } from './notes.types';
 import type { UploadResult } from './notes.types';
@@ -136,7 +137,7 @@ export class NotesServices {
       try {
         await cloudinary.uploader.destroy(note.cloudinaryPublicId);
       } catch (error) {
-        console.error(
+        log.error(
           `Failed to delete Cloudinary asset ${note.cloudinaryPublicId}`,
           error
         );
@@ -168,7 +169,7 @@ export class NotesServices {
       const validationStatus: ValidationStatus = validationResult.isValid
         ? ValidationStatus.VALIDATED
         : validationResult.safetyFlags.length > 0 ||
-          validationResult.factualityIssues.length > 0
+            validationResult.factualityIssues.length > 0
           ? ValidationStatus.REQUIRES_REVIEW
           : ValidationStatus.VALIDATED;
 
