@@ -1,17 +1,36 @@
 'use client';
 import { useEffect, useState } from 'react';
 
+const STORAGE_KEY = 'theme';
+
+function getPreferredTheme(): boolean {
+  if (typeof window === 'undefined') return false;
+  const stored = localStorage.getItem(STORAGE_KEY);
+  if (stored === 'dark') return true;
+  if (stored === 'light') return false;
+  return window.matchMedia('(prefers-color-scheme: dark)').matches;
+}
+
 export default function ThemeToggle() {
   const [dark, setDark] = useState(false);
 
   useEffect(() => {
-    setDark(document.documentElement.classList.contains('dark'));
+    const preferred = getPreferredTheme();
+    const html = document.documentElement;
+    if (preferred) {
+      html.classList.add('dark');
+    } else {
+      html.classList.remove('dark');
+    }
+    setDark(preferred);
   }, []);
 
   const toggle = () => {
     const html = document.documentElement;
     html.classList.toggle('dark');
-    setDark(html.classList.contains('dark'));
+    const isDark = html.classList.contains('dark');
+    setDark(isDark);
+    localStorage.setItem(STORAGE_KEY, isDark ? 'dark' : 'light');
   };
 
   return (
